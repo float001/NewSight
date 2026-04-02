@@ -10,6 +10,7 @@
   - [科学家实现DNA安全加密实景测试](https://36kr.com/newsflashes/3749235852624393?f=rss)
   - [蚂蚁数科旗下DTClaw开启内测](https://36kr.com/newsflashes/3749066593567496?f=rss)
 - darkreading
+  - [Bank Trojan 'Casbaneiro' Worms Through Latin America](https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america)
   - [Cyberattacks Intensify Pressure on Latin American Governments](https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments)
   - [LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut](https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut)
 - Hacker News: Front Page
@@ -19,6 +20,7 @@
   - [Best Tools for Digital Threat Monitoring and Cyber Threat Visibility](https://horizon3.ai/intelligence/blogs/digital-threat-monitoring-tools-cyber-visibility/)
 - ICT Security Magazine
   - [EU Data Act e sicurezza IoT: cosa cambia per le imprese italiane](https://www.ictsecuritymagazine.com/notizie/eu-data-act/)
+  - [Sanità digitale e cybersecurity: il dato clinico come infrastruttura critica](https://www.ictsecuritymagazine.com/articoli/sanita-digitale-dati/)
 - Miguel Grinberg's Blog
   - [SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships)
 - Pluralistic: Daily links from Cory Doctorow
@@ -38,6 +40,7 @@
   - [dbus-security-poc exploit](https://sploitus.com/exploit?id=54037AD3-6838-59FB-85A9-20C1361813B8&utm_source=rss&utm_medium=rss)
   - [Exploit for External Control of File Name or Path in Microsoft exploit](https://sploitus.com/exploit?id=348030DA-997E-5901-A770-AF634F5110B0&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Handling of Exceptional Conditions in Sudo_Project Sudo exploit](https://sploitus.com/exploit?id=B466C778-3EBD-5E09-9A33-7851E748DFEC&utm_source=rss&utm_medium=rss)
+  - [Exploit for OS Command Injection in Cacti exploit](https://sploitus.com/exploit?id=826AFADF-3EC2-57A3-BEF5-BEDE65478290&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Read in Citrix Netscaler_Application_Delivery_Controller exploit](https://sploitus.com/exploit?id=F3C2CB2A-FD0A-5667-9816-F4F77D7B5320&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Apache Http_Server exploit](https://sploitus.com/exploit?id=F305975E-035B-5A1C-893C-A7DC59875368&utm_source=rss&utm_medium=rss)
   - [lightweight-msf exploit](https://sploitus.com/exploit?id=79944ACF-BDAC-5E68-8D09-E55D4DB1A83C&utm_source=rss&utm_medium=rss)
@@ -95,6 +98,12 @@
   - [CVE-2026-21767 | HCL BigFix Platform missing authentication (KB0129906)](https://vuldb.com/vuln/354786)
   - [CVE-2026-2265 | Replicator 1.0.5 deserialization](https://vuldb.com/vuln/354730)
   - [CVE-2026-22815 | aio-libs aiohttp up to 3.13.3 resource consumption (GHSA-w2fm-2cpv-w7v5)](https://vuldb.com/vuln/354774)
+  - [CVE-2026-23412 | Linux Kernel up to 6.6.129/6.12.77/6.18.19/6.19.9/7.0-rc4 netfilter nfnetlink_hooks use after free](https://vuldb.com/vuln/354858)
+  - [CVE-2026-23413 | Linux Kernel up to 6.6.129/6.12.77/6.18.19/6.19.9/7.0-rc4 clsact_init use after free](https://vuldb.com/vuln/354859)
+  - [CVE-2026-23414 | Linux Kernel up to 6.6.130/6.12.79/6.18.20/6.19.10/7.0-rc5 tls_decrypt_async_wait information disclosure](https://vuldb.com/vuln/354860)
+  - [CVE-2026-23415 | Linux Kernel up to 6.18.20/6.19.10/7.0-rc5 kernel/futex/core.c futex_key_to_node_opt use after free](https://vuldb.com/vuln/354861)
+  - [CVE-2026-23416 | Linux Kernel up to 6.18.20/6.19.10/7.0-rc5 vma_modify_flags iteration](https://vuldb.com/vuln/354862)
+  - [CVE-2026-23417 | Linux Kernel up to 6.12.79/6.18.20/6.19.10/7.0-rc4 bpf bpf_jit_blind_insn privilege escalation](https://vuldb.com/vuln/354857)
   - [CVE-2026-2475 | IBM Verify Identity Access Container up to 11.0.2 Request redirect](https://vuldb.com/vuln/354789)
   - [CVE-2026-27489 | onnx up to 1.20.x path traversal (GHSA-3r9x-f23j-gc73)](https://vuldb.com/vuln/354741)
   - [CVE-2026-2862 | IBM Verify Identity Access Container up to 11.0.2 Reverse Proxy request smuggling](https://vuldb.com/vuln/354788)
