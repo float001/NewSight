@@ -8,9 +8,12 @@
 - Horizon3.ai
   - [Best Tools for Digital Threat Monitoring and Cyber Threat Visibility](https://horizon3.ai/intelligence/blogs/digital-threat-monitoring-tools-cyber-visibility/)
 - SANS Internet Storm Center, InfoCON: green
+  - [ISC Stormcast For Thursday, April 2nd, 2026 https://isc.sans.edu/podcastdetail/9876, (Thu, Apr 2nd)](https://isc.sans.edu/diary/rss/32858)
   - [Malicious Script That Gets Rid of ADS, (Wed, Apr 1st)](https://isc.sans.edu/diary/rss/32854)
 - Schneier on Security
   - [Is “Hackback” Official US Cybersecurity Strategy?](https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html)
+- Sec-News 安全文摘
+  - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - Security Affairs
   - [Google fixes fourth actively exploited Chrome zero-day of 2026](https://securityaffairs.com/190265/hacking/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2026.html)
   - [U.S. CISA adds a flaw in Google Dawn to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190282/security/u-s-cisa-adds-a-flaw-in-google-dawn-to-its-known-exploited-vulnerabilities-catalog.html)
