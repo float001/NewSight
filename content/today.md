@@ -56,8 +56,10 @@
   - [Anthropic's leaked AI coding tool has been cloned over 8,000 times on GitHub despite mass takedowns](https://the-decoder.com/anthropics-leaked-ai-coding-tool-has-been-cloned-over-8000-times-on-github-despite-mass-takedowns/)
   - [Google Deepmind study exposes six "traps" that can easily hijack autonomous AI agents in the wild](https://the-decoder.com/google-deepmind-study-exposes-six-traps-that-can-easily-hijack-autonomous-ai-agents-in-the-wild/)
 - unSafe.sh - 不安全
+  - [Critical Cisco IMC auth bypass gives attackers Admin access](https://buaq.net/go-407196.html)
   - [De-fi平台Drift加密货币被盗暂停存取款](https://buaq.net/go-407153.html)
   - [OpenClaw近期生态安全事件解读：从RCE漏洞到Skill供应链投毒分析](https://buaq.net/go-407150.html)
+  - [The State of Trusted Open Source Report](https://buaq.net/go-407199.html)
   - [Vertex AI e il rischio dei “double agent” AI](https://buaq.net/go-407055.html)
   - [一大波危险的“龙虾”来袭，绿盟君助您安全养虾](https://buaq.net/go-407149.html)
 - VulDB Recent Entries
@@ -178,6 +180,8 @@
   - [CVE-2026-5346 | huimeicloud hm_editor up to 2.2.3 image-to-base64 Endpoint src/mcp-server.js client.get url server-side request forgery](https://vuldb.com/vuln/354701)
   - [CVE-2026-5360 | Free5GC 4.2.0 aper type confusion (Issue 831)](https://vuldb.com/vuln/354735)
   - [CVE-2026-5368 | projectworlds Car Rental Project 1.0 Parameter /login.php uname sql injection](https://vuldb.com/vuln/354746)
+  - [CVE-2026-5418 | appsmithorg appsmith up to 1.97 Dashboard WebClientUtils.java computeDisallowedHosts server-side request forgery (GHSA-9m89-5jw7-q5cr)](https://vuldb.com/vuln/354855)
+  - [CVE-2026-5420 | Shinrays Games Goods Triple App up to 1.200 cats.goods.sort.sorting.games jRwTX.java AES_IV/AES_PASSWORD hard-coded key](https://vuldb.com/vuln/354856)
 - WIRED
   - [AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted](https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
