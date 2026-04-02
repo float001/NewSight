@@ -87,39 +87,67 @@ def _chat_completions(ai: AIConfig, messages: list[dict], *, max_tokens: int = 9
         "messages": messages,
         "temperature": 0.2,
     }
-    t0 = time.time()
-    try:
-        # 去掉 token 限制参数（max_tokens），让服务端按默认策略生成
-        log.info("AI request model=%s", ai.model)
-        if log.isEnabledFor(logging.DEBUG):
-            log.debug("AI request url=%s body=%s", url, json.dumps({**body, "messages": _safe_messages_preview(messages)}, ensure_ascii=False))
-        r = requests.post(
-            url,
-            headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
-            data=json.dumps(body),
-            timeout=ai.timeout_s,
-        )
-    except requests.RequestException as e:
-        log.warning("AI request error: %s", e)
-        return ""
-    dt_ms = int((time.time() - t0) * 1000)
-    if r.status_code >= 400:
-        if log.isEnabledFor(logging.DEBUG):
-            log.debug("AI response http=%s elapsed_ms=%s text=%s", r.status_code, dt_ms, _truncate(r.text, 2000))
-        log.warning("AI http=%s elapsed_ms=%s", r.status_code, dt_ms)
-        return ""
-    try:
-        j = r.json()
-    except Exception:
-        if log.isEnabledFor(logging.DEBUG):
-            log.debug("AI response http=%s elapsed_ms=%s text=%s", r.status_code, dt_ms, _truncate(r.text, 2000))
-        log.warning("AI invalid json elapsed_ms=%s", dt_ms)
-        return ""
+    # 首次请求 + 最多 5 次重试（共 6 次）
+    max_attempts = 6
+    backoff_base_s = 1.5
+
+    log.info("AI request model=%s max_attempts=%s", ai.model, max_attempts)
     if log.isEnabledFor(logging.DEBUG):
-        log.debug("AI response http=%s elapsed_ms=%s json=%s", r.status_code, dt_ms, _truncate(json.dumps(j, ensure_ascii=False), 4000))
-    content = (((j.get("choices") or [{}])[0]).get("message") or {}).get("content") or ""
-    log.info("AI ok elapsed_ms=%s out_chars=%s", dt_ms, len(content or ""))
-    return content
+        log.debug("AI request url=%s body=%s", url, json.dumps({**body, "messages": _safe_messages_preview(messages)}, ensure_ascii=False))
+
+    for attempt in range(1, max_attempts + 1):
+        t0 = time.time()
+        try:
+            r = requests.post(
+                url,
+                headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
+                data=json.dumps(body),
+                timeout=ai.timeout_s,
+            )
+        except requests.RequestException as e:
+            log.warning("AI attempt %s/%s request error: %s", attempt, max_attempts, e)
+            if attempt >= max_attempts:
+                return ""
+            time.sleep(min(30.0, backoff_base_s ** (attempt - 1)))
+            continue
+
+        dt_ms = int((time.time() - t0) * 1000)
+        if r.status_code >= 400:
+            retryable = r.status_code == 429 or r.status_code >= 500
+            if log.isEnabledFor(logging.DEBUG):
+                log.debug(
+                    "AI response http=%s elapsed_ms=%s text=%s",
+                    r.status_code,
+                    dt_ms,
+                    _truncate(r.text, 2000),
+                )
+            log.warning("AI http=%s elapsed_ms=%s attempt=%s/%s", r.status_code, dt_ms, attempt, max_attempts)
+            if not retryable or attempt >= max_attempts:
+                return ""
+            time.sleep(min(30.0, backoff_base_s ** (attempt - 1)))
+            continue
+
+        try:
+            j = r.json()
+        except Exception:
+            if log.isEnabledFor(logging.DEBUG):
+                log.debug("AI response http=%s elapsed_ms=%s text=%s", r.status_code, dt_ms, _truncate(r.text, 2000))
+            log.warning("AI invalid json elapsed_ms=%s attempt=%s/%s", dt_ms, attempt, max_attempts)
+            if attempt >= max_attempts:
+                return ""
+            time.sleep(min(30.0, backoff_base_s ** (attempt - 1)))
+            continue
+
+        if log.isEnabledFor(logging.DEBUG):
+            log.debug(
+                "AI response http=%s elapsed_ms=%s json=%s",
+                r.status_code,
+                dt_ms,
+                _truncate(json.dumps(j, ensure_ascii=False), 4000),
+            )
+        content = (((j.get("choices") or [{}])[0]).get("message") or {}).get("content") or ""
+        log.info("AI ok elapsed_ms=%s out_chars=%s attempts=%s", dt_ms, len(content or ""), attempt)
+        return content
 
 
 def classify_titles_batch(ai: AIConfig, titles: list[str]) -> list[AIClassified]:

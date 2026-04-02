@@ -83,7 +83,7 @@ def send_lark_card(
         {
             "tag": "div",
             "fields": [
-                {"is_short": True, "text": {"tag": "lark_md", "content": f"**日期**\n{date_str}"}},
+                {"is_short": True, "text": {"tag": "lark_md", "content": f"**时间**\n{date_str}"}},
                 {"is_short": True, "text": {"tag": "lark_md", "content": f"**资讯**\n{count_items} 条"}},
             ],
         },
@@ -121,7 +121,7 @@ def send_lark_card(
     fallback = "\n".join(
         [
             f"{title}",
-            f"- 日期：{date_str}",
+            f"- 时间：{date_str}",
             f"- 资讯：{count_items} 条",
             (("\n今日漏洞：\n" + vuln_intel_fb) if vuln_intel_fb else ""),
             (("\n今日安全态势总结：\n" + security_posture_fb) if security_posture_fb else ""),

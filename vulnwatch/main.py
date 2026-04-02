@@ -115,7 +115,7 @@ def run_once(conf: AppConfig, *, update_opml: bool = False, rss_dir: Path | None
         "candidates=%s window_hours=%s now=%s tz=%s",
         len(uniq),
         int(conf.fetch_within_hours),
-        now_local.replace(microsecond=0).isoformat(),
+        now_local.replace(microsecond=0).strftime("%Y-%m-%d %H:%M:%S"),
         now_local.tzinfo,
     )
 
@@ -165,12 +165,15 @@ def run_once(conf: AppConfig, *, update_opml: bool = False, rss_dir: Path | None
     acc_sec, acc_vuln = list_news_items_for_day(conf.db_path, today)
     today_items = _dedup_items(acc_sec + acc_vuln)
 
-    # 生成摘要与总结（只基于标题+链接）
+    # Lark 推送：总结仅基于「本次运行」新入库的安全/漏洞子集（与 today 全量解耦）
+    run_sec = _dedup_items(selected.sec)
+    run_vuln = _dedup_items(selected.vuln)
     agg = aggregate_today(
         conf.ai,
-        items_vuln=[t for _s, t, _u in acc_vuln],
-        items_sec=[t for _s, t, _u in acc_sec],
+        items_vuln=[t for _s, t, _u in run_vuln],
+        items_sec=[t for _s, t, _u in run_sec],
     )
+    lark_count = len(run_sec) + len(run_vuln)
 
     today_path.parent.mkdir(parents=True, exist_ok=True)
     today_archive_path.parent.mkdir(parents=True, exist_ok=True)
@@ -179,12 +182,14 @@ def run_once(conf: AppConfig, *, update_opml: bool = False, rss_dir: Path | None
     today_archive_body = build_archive_markdown(d=today, raw_items=today_items)
     today_archive_path.write_text(today_archive_body, encoding="utf-8")
 
-    # 推送到 Lark：使用卡片样式（摘要 + 统计）
+    # 推送到 Lark：标题与「时间」均为当前本地时间，YYYY-MM-DD HH:mm:ss
+    now_lark = datetime.now().astimezone().replace(microsecond=0)
+    lark_time_str = now_lark.strftime("%Y-%m-%d %H:%M:%S")
     send_lark_card(
         conf.lark,
-        title="今日安全资讯",
-        date_str=today.isoformat(),
-        count_items=len(today_items),
+        title=f"安全资讯（{lark_time_str}）",
+        date_str=lark_time_str,
+        count_items=lark_count,
         vuln_intel=agg.vuln_intel,
         security_posture=agg.security_posture,
     )
