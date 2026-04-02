@@ -2,6 +2,10 @@
 
 - CERT Recently Published Vulnerability Notes
   - [VU#951662: MuPDF by Artifex contains integer overflow vulnerability.](https://kb.cert.org/vuls/id/951662)
+- Data Breach
+  - [Hasbro hit by cyberattack, investigates possible data breach](https://securityaffairs.com/190306/security/hasbro-hit-by-cyberattack-investigates-possible-data-breach.html)
+- Fidelis Security
+  - [Why Network Deception Is Effective for OT Security](https://fidelissecurity.com/threatgeek/network-security/network-deception-for-ot-systems/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-28767 exploit](https://sploitus.com/exploit?id=99BCD30E-0C37-56F5-ACF1-88ECFDD410F1&utm_source=rss&utm_medium=rss)
   - [mansstimap exploit](https://sploitus.com/exploit?id=BD0E3E42-269A-5185-BAC3-ED252758647C&utm_source=rss&utm_medium=rss)
