@@ -3,6 +3,7 @@
 - 2Libra 社区 - 今日热议
   - [Ubuntu 改主目录崩了](https://2libra.com/post/operating-systems/zCn-Lvf)
   - [大事不好，我的博客数据全没了](https://2libra.com/post/website-construction/KBW0dWP)
+  - [我擦, 这次 axios 投毒我是不是中招了, 但是只有这一个域名在 dns 里面有解析记录, 其他的检测都没有命中](https://2libra.com/post/network-security/4F4VFQn)
   - [腾讯的 workbuddy 今天崩溃了近两小时](https://2libra.com/post/big-company-news/qNK8ffh)
 - 36氪
   - [DeskClaw发布新版本，正式接入Seedance 2.0](https://36kr.com/newsflashes/3749095406223877?f=rss)
@@ -18,17 +19,23 @@
   - [Best Tools for Digital Threat Monitoring and Cyber Threat Visibility](https://horizon3.ai/intelligence/blogs/digital-threat-monitoring-tools-cyber-visibility/)
 - ICT Security Magazine
   - [EU Data Act e sicurezza IoT: cosa cambia per le imprese italiane](https://www.ictsecuritymagazine.com/notizie/eu-data-act/)
+- Miguel Grinberg's Blog
+  - [SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships)
+- Pluralistic: Daily links from Cory Doctorow
+  - [Pluralistic: It's extremely good that Claude's source-code leaked (02 Apr 2026)](https://pluralistic.net/2026/04/02/limited-monopoly/)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Thursday, April 2nd, 2026 https://isc.sans.edu/podcastdetail/9876, (Thu, Apr 2nd)](https://isc.sans.edu/diary/rss/32858)
   - [Malicious Script That Gets Rid of ADS, (Wed, Apr 1st)](https://isc.sans.edu/diary/rss/32854)
 - Schneier on Security
   - [Is “Hackback” Official US Cybersecurity Strategy?](https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html)
+  - [Possible US Government iPhone Hacking Tool Leaked](https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html)
 - Sec-News 安全文摘
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - Security Affairs
   - [Google fixes fourth actively exploited Chrome zero-day of 2026](https://securityaffairs.com/190265/hacking/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2026.html)
   - [U.S. CISA adds a flaw in Google Dawn to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190282/security/u-s-cisa-adds-a-flaw-in-google-dawn-to-its-known-exploited-vulnerabilities-catalog.html)
 - Sploitus.com Exploits RSS Feed
+  - [dbus-security-poc exploit](https://sploitus.com/exploit?id=54037AD3-6838-59FB-85A9-20C1361813B8&utm_source=rss&utm_medium=rss)
   - [Exploit for External Control of File Name or Path in Microsoft exploit](https://sploitus.com/exploit?id=348030DA-997E-5901-A770-AF634F5110B0&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Handling of Exceptional Conditions in Sudo_Project Sudo exploit](https://sploitus.com/exploit?id=B466C778-3EBD-5E09-9A33-7851E748DFEC&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Read in Citrix Netscaler_Application_Delivery_Controller exploit](https://sploitus.com/exploit?id=F3C2CB2A-FD0A-5667-9816-F4F77D7B5320&utm_source=rss&utm_medium=rss)
@@ -178,5 +185,7 @@
   - [一大波危险的“龙虾”来袭，绿盟君助您安全养虾](https://www.4hou.com/posts/Arj9)
 - 爱范儿
   - [惹众怒！Anthropic 疯狂删库，他连夜爆改 Claude Code 源码拿下史上最快 10 万星](https://www.ifanr.com/1660636?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [绿盟科技+曙光云：聚焦“可信安全服务+资产管控”，互补赋能政企数字化安全](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%9b%99%e5%85%89%e4%ba%91%ef%bc%9a%e8%81%9a%e7%84%a6%e5%8f%af%e4%bf%a1%e5%ae%89%e5%85%a8%e6%9c%8d%e5%8a%a1%e8%b5%84%e4%ba%a7%e7%ae%a1%e6%8e%a7/)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [De-fi平台Drift加密货币被盗暂停存取款](https://blog.upx8.com/De-fi%E5%B9%B3%E5%8F%B0Drift%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E8%A2%AB%E7%9B%97%E6%9A%82%E5%81%9C%E5%AD%98%E5%8F%96%E6%AC%BE)
