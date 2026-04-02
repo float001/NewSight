@@ -6,11 +6,17 @@
   - [Hasbro hit by cyberattack, investigates possible data breach](https://securityaffairs.com/190306/security/hasbro-hit-by-cyberattack-investigates-possible-data-breach.html)
 - Fidelis Security
   - [Why Network Deception Is Effective for OT Security](https://fidelissecurity.com/threatgeek/network-security/network-deception-for-ot-systems/)
+- SentinelOne
+  - [Securing the Supply Chain: How SentinelOne®’s AI EDR Stops the Axios Attack Autonomously](https://www.sentinelone.com/blog/securing-the-supply-chain-how-sentinelones-ai-edr-stops-the-axios-attack-autonomously/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-28767 exploit](https://sploitus.com/exploit?id=99BCD30E-0C37-56F5-ACF1-88ECFDD410F1&utm_source=rss&utm_medium=rss)
   - [mansstimap exploit](https://sploitus.com/exploit?id=BD0E3E42-269A-5185-BAC3-ED252758647C&utm_source=rss&utm_medium=rss)
+  - [zixem_challenges exploit](https://sploitus.com/exploit?id=935AD2F6-A2A2-5942-8D1F-740915AEBC70&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Flipboard’s new ‘social websites’ help publishers and creators tap into the open social web](https://techcrunch.com/2026/04/02/flipboard-surf-social-websites-help-publishers-and-creators-tap-into-the-open-social-web/)
   - [Google now lets you direct avatars through prompts in its Vids app](https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/)
+- The Verge
+  - [Pinterest said he violated laid-off colleagues&#8217; privacy. Now he&#8217;s going public](https://www.theverge.com/policy/906122/pinterest-employee-fired-obstructionist-speaks-out)
 - VulDB Recent Entries
   - [CVE-2026-26961 | Rack up to 2.2.22/3.1.20/3.2.5 Content-Type Header Rack::Multipart interpretation conflict (GHSA-vgpv-f759-9wx3)](https://vuldb.com/vuln/354947)
   - [CVE-2026-34230 | Rack up to 2.2.22/3.1.20/3.2.5 Rack::Utils resource consumption (GHSA-v569-hp3g-36wr)](https://vuldb.com/vuln/354942)
