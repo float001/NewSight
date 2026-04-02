@@ -18,6 +18,8 @@
   - [Your sign-up form is a weapon](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
 - Horizon3.ai
   - [Best Tools for Digital Threat Monitoring and Cyber Threat Visibility](https://horizon3.ai/intelligence/blogs/digital-threat-monitoring-tools-cyber-visibility/)
+- http://www.infosecurity-magazine.com/rss/news/
+  - [Most CNI Firms Face Up to £5m in Downtime from OT Attacks](https://www.infosecurity-magazine.com/news/most-cni-firms-5m-downtime-ot/)
 - ICT Security Magazine
   - [EU Data Act e sicurezza IoT: cosa cambia per le imprese italiane](https://www.ictsecuritymagazine.com/notizie/eu-data-act/)
 - InfoSec Write-ups - Medium
@@ -59,6 +61,7 @@
 - unSafe.sh - 不安全
   - [Basic Pentesting 0x01](https://buaq.net/go-407126.html)
   - [Vertex AI e il rischio dei “double agent” AI](https://buaq.net/go-407055.html)
+  - [Your Windows Clipboard Is Unprotected](https://buaq.net/go-407146.html)
 - VulDB Recent Entries
   - [CVE-2025-13916 | IBM Aspera Shares up to 1.11.0 risky encryption](https://vuldb.com/vuln/354800)
   - [CVE-2025-36373 | IBM DataPower Gateway 10.6.0 up to 10.6.5.0 exposure of sensitive system information to an unauthorized control sphere](https://vuldb.com/vuln/354787)
@@ -164,6 +167,9 @@
   - [CVE-2026-5368 | projectworlds Car Rental Project 1.0 Parameter /login.php uname sql injection](https://vuldb.com/vuln/354746)
 - WIRED
   - [AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted](https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/)
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [代码钟馗启动AI漏洞雷达，OpenClaw隐秘漏洞浮出水面](https://www.4hou.com/posts/vwK8)
+  - [爆火背后：OpenClaw 开源AI智能体应用攻击面与安全风险系统剖析](https://www.4hou.com/posts/yzQ6)
 - 爱范儿
   - [惹众怒！Anthropic 疯狂删库，他连夜爆改 Claude Code 源码拿下史上最快 10 万星](https://www.ifanr.com/1660636?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
