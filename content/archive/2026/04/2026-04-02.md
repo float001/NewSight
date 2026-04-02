@@ -5,6 +5,7 @@
   - [腾讯的 workbuddy 今天崩溃了近两小时](https://2libra.com/post/big-company-news/qNK8ffh)
 - 36氪
   - [DeskClaw发布新版本，正式接入Seedance 2.0](https://36kr.com/newsflashes/3749095406223877?f=rss)
+  - [海光信息正式公开“内生安全”技术成果](https://36kr.com/newsflashes/3749383080083971?f=rss)
   - [科学家实现DNA安全加密实景测试](https://36kr.com/newsflashes/3749235852624393?f=rss)
   - [蚂蚁数科旗下DTClaw开启内测](https://36kr.com/newsflashes/3749066593567496?f=rss)
 - darkreading
@@ -37,6 +38,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - Security Affairs
   - [Google fixes fourth actively exploited Chrome zero-day of 2026](https://securityaffairs.com/190265/hacking/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2026.html)
+  - [Italian spyware vendor creates Fake WhatsApp app, targeting 200 users](https://securityaffairs.com/190276/malware/italian-spyware-vendor-creates-fake-whatsapp-app-targeting-200-users.html)
   - [U.S. CISA adds a flaw in Google Dawn to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190282/security/u-s-cisa-adds-a-flaw-in-google-dawn-to-its-known-exploited-vulnerabilities-catalog.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for External Control of File Name or Path in Microsoft exploit](https://sploitus.com/exploit?id=348030DA-997E-5901-A770-AF634F5110B0&utm_source=rss&utm_medium=rss)
@@ -55,6 +57,7 @@
   - [Anthropic's leaked AI coding tool has been cloned over 8,000 times on GitHub despite mass takedowns](https://the-decoder.com/anthropics-leaked-ai-coding-tool-has-been-cloned-over-8000-times-on-github-despite-mass-takedowns/)
   - [Google Deepmind study exposes six "traps" that can easily hijack autonomous AI agents in the wild](https://the-decoder.com/google-deepmind-study-exposes-six-traps-that-can-easily-hijack-autonomous-ai-agents-in-the-wild/)
 - unSafe.sh - 不安全
+  - [Basic Pentesting 0x01](https://buaq.net/go-407126.html)
   - [Vertex AI e il rischio dei “double agent” AI](https://buaq.net/go-407055.html)
 - VulDB Recent Entries
   - [CVE-2025-13916 | IBM Aspera Shares up to 1.11.0 risky encryption](https://vuldb.com/vuln/354800)
@@ -163,3 +166,5 @@
   - [AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted](https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/)
 - 爱范儿
   - [惹众怒！Anthropic 疯狂删库，他连夜爆改 Claude Code 源码拿下史上最快 10 万星](https://www.ifanr.com/1660636?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [三星洗衣机更新后导致用户无法正常洗衣服](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%9B%B4%E6%96%B0%E5%90%8E%E5%AF%BC%E8%87%B4%E7%94%A8%E6%88%B7%E6%97%A0%E6%B3%95%E6%AD%A3%E5%B8%B8%E6%B4%97%E8%A1%A3%E6%9C%8D)
