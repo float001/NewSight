@@ -2,35 +2,22 @@
 
 - 2Libra 社区 - 今日热议
   - [Ubuntu 改主目录崩了](https://2libra.com/post/operating-systems/zCn-Lvf)
+  - [大事不好，我的博客数据全没了](https://2libra.com/post/website-construction/KBW0dWP)
   - [腾讯的 workbuddy 今天崩溃了近两小时](https://2libra.com/post/big-company-news/qNK8ffh)
 - 36氪
   - [DeskClaw发布新版本，正式接入Seedance 2.0](https://36kr.com/newsflashes/3749095406223877?f=rss)
-  - [海光信息正式公开“内生安全”技术成果](https://36kr.com/newsflashes/3749383080083971?f=rss)
   - [科学家实现DNA安全加密实景测试](https://36kr.com/newsflashes/3749235852624393?f=rss)
   - [蚂蚁数科旗下DTClaw开启内测](https://36kr.com/newsflashes/3749066593567496?f=rss)
 - darkreading
   - [Cyberattacks Intensify Pressure on Latin American Governments](https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments)
   - [LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut](https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut)
-- defend.network – Daily Threat Briefings
-  - [Daily Threat Briefing – April 2, 2026](https://defend.network/briefings/chrome-zero-day-trueconf-malware-campaigns-2026-04-02.html)
 - Hacker News: Front Page
   - [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/)
   - [Your sign-up form is a weapon](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
 - Horizon3.ai
   - [Best Tools for Digital Threat Monitoring and Cyber Threat Visibility](https://horizon3.ai/intelligence/blogs/digital-threat-monitoring-tools-cyber-visibility/)
-- http://www.infosecurity-magazine.com/rss/news/
-  - [Most CNI Firms Face Up to £5m in Downtime from OT Attacks](https://www.infosecurity-magazine.com/news/most-cni-firms-5m-downtime-ot/)
 - ICT Security Magazine
   - [EU Data Act e sicurezza IoT: cosa cambia per le imprese italiane](https://www.ictsecuritymagazine.com/notizie/eu-data-act/)
-- InfoSec Write-ups - Medium
-  - [Axios Just Got Weaponized — And Your npm install Pulled the Trigger](https://infosecwriteups.com/axios-just-got-weaponized-and-your-npm-install-pulled-the-trigger-8ba05aac905e?source=rss----7b722bfd1b8d---4)
-  - [CTF Writeup — ezRSA - Ramadan CTF 2026](https://infosecwriteups.com/ctf-writeup-ezrsa-ramadan-ctf-2026-f697fe98a224?source=rss----7b722bfd1b8d---4)
-  - [Insecure Output Handling: Code Injection Through LLM Output (Part 3)](https://infosecwriteups.com/insecure-output-handling-code-injection-through-llm-output-part-3-d2dd27ed1366?source=rss----7b722bfd1b8d---4)
-  - [Linux Fundamentals Part 1: TryHackMe Walkthrough](https://infosecwriteups.com/linux-fundamentals-part-1-tryhackme-walkthrough-6090e054d46b?source=rss----7b722bfd1b8d---4)
-  - [Pod Security Standards and Policies (Kyverno, OPA Gatekeeper)](https://infosecwriteups.com/pod-security-standards-and-policies-kyverno-opa-gatekeeper-bd87beedd5af?source=rss----7b722bfd1b8d---4)
-  - [The 2-Second Hack: How 100 Million Developers Were Just Targeted on npm](https://infosecwriteups.com/the-2-second-hack-how-100-million-developers-were-just-targeted-on-npm-48d3359b63b7?source=rss----7b722bfd1b8d---4)
-  - [“Bug Bounty Bootcamp #29: Boolean Blind SQL Injection Part 2 — Extracting Usernames and Passwords…](https://infosecwriteups.com/bug-bounty-bootcamp-29-boolean-blind-sql-injection-part-2-extracting-usernames-and-passwords-13447abeb6d6?source=rss----7b722bfd1b8d---4)
-  - [️‍♂️ The Complete Beginner’s Guide to Bug Bounty Reconnaissance: Live Hunting on PayPal](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-the-complete-beginners-guide-to-bug-bounty-reconnaissance-live-hunting-on-paypal-ddb2b0abecd3?source=rss----7b722bfd1b8d---4)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Thursday, April 2nd, 2026 https://isc.sans.edu/podcastdetail/9876, (Thu, Apr 2nd)](https://isc.sans.edu/diary/rss/32858)
   - [Malicious Script That Gets Rid of ADS, (Wed, Apr 1st)](https://isc.sans.edu/diary/rss/32854)
@@ -40,13 +27,13 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - Security Affairs
   - [Google fixes fourth actively exploited Chrome zero-day of 2026](https://securityaffairs.com/190265/hacking/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2026.html)
-  - [Italian spyware vendor creates Fake WhatsApp app, targeting 200 users](https://securityaffairs.com/190276/malware/italian-spyware-vendor-creates-fake-whatsapp-app-targeting-200-users.html)
   - [U.S. CISA adds a flaw in Google Dawn to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190282/security/u-s-cisa-adds-a-flaw-in-google-dawn-to-its-known-exploited-vulnerabilities-catalog.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for External Control of File Name or Path in Microsoft exploit](https://sploitus.com/exploit?id=348030DA-997E-5901-A770-AF634F5110B0&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Handling of Exceptional Conditions in Sudo_Project Sudo exploit](https://sploitus.com/exploit?id=B466C778-3EBD-5E09-9A33-7851E748DFEC&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Read in Citrix Netscaler_Application_Delivery_Controller exploit](https://sploitus.com/exploit?id=F3C2CB2A-FD0A-5667-9816-F4F77D7B5320&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Apache Http_Server exploit](https://sploitus.com/exploit?id=F305975E-035B-5A1C-893C-A7DC59875368&utm_source=rss&utm_medium=rss)
+  - [lightweight-msf exploit](https://sploitus.com/exploit?id=79944ACF-BDAC-5E68-8D09-E55D4DB1A83C&utm_source=rss&utm_medium=rss)
   - [MyPortIO-Exploit exploit](https://sploitus.com/exploit?id=7004A1F2-9DB9-5904-9F61-0492A070C636&utm_source=rss&utm_medium=rss)
   - [VulnHawk exploit](https://sploitus.com/exploit?id=3EFB21F7-B711-5DED-9ECD-7627DC7F9796&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -55,13 +42,17 @@
   - [De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack](https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/)
   - [WhatsApp notifies hundreds of users who installed a fake app that was actually government spyware](https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/)
   - [‘System failure’ paralyzes Baidu robotaxis in China](https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/)
+- TG Soft Software House - News
+  - [<strong>Vir.IT eXplorer PRO</strong><strong> </strong>supera con il massimo risultato, l'ultimo <strong>test</strong> effettuato a<strong>&nbsp;febbraio 2026</strong> da <strong>AppEsteem </strong>per i <strong>prodotti AV DeceptorFighters</strong>](http://www.tgsoft.it/italy/news_archivio.asp?id=1725)
+  - [Auguri di <strong>Buona Pasqua</strong> dallo staff di <strong>TG Soft Cyber Security Specialist</strong>](http://www.tgsoft.it/italy/news_archivio.asp?id=1726)
 - The Decoder
   - [Anthropic's leaked AI coding tool has been cloned over 8,000 times on GitHub despite mass takedowns](https://the-decoder.com/anthropics-leaked-ai-coding-tool-has-been-cloned-over-8000-times-on-github-despite-mass-takedowns/)
   - [Google Deepmind study exposes six "traps" that can easily hijack autonomous AI agents in the wild](https://the-decoder.com/google-deepmind-study-exposes-six-traps-that-can-easily-hijack-autonomous-ai-agents-in-the-wild/)
 - unSafe.sh - 不安全
-  - [Basic Pentesting 0x01](https://buaq.net/go-407126.html)
+  - [De-fi平台Drift加密货币被盗暂停存取款](https://buaq.net/go-407153.html)
+  - [OpenClaw近期生态安全事件解读：从RCE漏洞到Skill供应链投毒分析](https://buaq.net/go-407150.html)
   - [Vertex AI e il rischio dei “double agent” AI](https://buaq.net/go-407055.html)
-  - [Your Windows Clipboard Is Unprotected](https://buaq.net/go-407146.html)
+  - [一大波危险的“龙虾”来袭，绿盟君助您安全养虾](https://buaq.net/go-407149.html)
 - VulDB Recent Entries
   - [CVE-2025-13916 | IBM Aspera Shares up to 1.11.0 risky encryption](https://vuldb.com/vuln/354800)
   - [CVE-2025-36373 | IBM DataPower Gateway 10.6.0 up to 10.6.5.0 exposure of sensitive system information to an unauthorized control sphere](https://vuldb.com/vuln/354787)
@@ -72,6 +63,7 @@
   - [CVE-2025-66485 | IBM Aspera Shares up to 1.11.0 HTTP Header http headers for scripting syntax](https://vuldb.com/vuln/354777)
   - [CVE-2025-66486 | IBM Aspera Shares up to 1.11.0 cross site scripting](https://vuldb.com/vuln/354768)
   - [CVE-2025-66487 | IBM Aspera Shares up to 1.11.0 allocation of resources](https://vuldb.com/vuln/354769)
+  - [CVE-2026-0634 | TECNO Pova7 Pro 5G 15.1.0 on Android AssistFeedbackService argument injection](https://vuldb.com/vuln/354846)
   - [CVE-2026-1345 | IBM Verify Identity Access Container up to 11.0.2 os command injection](https://vuldb.com/vuln/354767)
   - [CVE-2026-1491 | IBM Verify Identity Access Container up to 11.0.2 Reverse Proxy request smuggling](https://vuldb.com/vuln/354791)
   - [CVE-2026-20041 | Cisco Nexus Dashboard/Nexus Dashboard Insights server-side request forgery (cisco-sa-nd-ssrf-NAen4O7r)](https://vuldb.com/vuln/354724)
@@ -97,6 +89,20 @@
   - [CVE-2026-2475 | IBM Verify Identity Access Container up to 11.0.2 Request redirect](https://vuldb.com/vuln/354789)
   - [CVE-2026-27489 | onnx up to 1.20.x path traversal (GHSA-3r9x-f23j-gc73)](https://vuldb.com/vuln/354741)
   - [CVE-2026-2862 | IBM Verify Identity Access Container up to 11.0.2 Reverse Proxy request smuggling](https://vuldb.com/vuln/354788)
+  - [CVE-2026-29131 | SEPPmail Secure Email Gateway up to 15.0.2 ldap injection](https://vuldb.com/vuln/354839)
+  - [CVE-2026-29132 | SEPPmail Secure Email Gateway up to 15.0.2 missing authentication](https://vuldb.com/vuln/354834)
+  - [CVE-2026-29133 | SEPPmail Secure Email Gateway up to 15.0.2 PGP Key input validation](https://vuldb.com/vuln/354835)
+  - [CVE-2026-29134 | SEPPmail Secure Email Gateway up to 15.0.2 GINA Webdomain Metadata reliance on untrusted inputs in a security decision](https://vuldb.com/vuln/354836)
+  - [CVE-2026-29135 | SEPPmail Secure Email Gateway up to 15.0.2 password-tag input validation](https://vuldb.com/vuln/354837)
+  - [CVE-2026-29136 | SEPPmail Secure Email Gateway up to 15.0.2 Notification cross site scripting](https://vuldb.com/vuln/354842)
+  - [CVE-2026-29137 | SEPPmail Secure Email Gateway up to 15.0.2 input validation](https://vuldb.com/vuln/354838)
+  - [CVE-2026-29138 | SEPPmail Secure Email Gateway up to 15.0.2 PGP Signature ldap injection](https://vuldb.com/vuln/354847)
+  - [CVE-2026-29139 | SEPPmail Secure Email Gateway up to 15.0.2 GINA Account authentication bypass](https://vuldb.com/vuln/354840)
+  - [CVE-2026-29140 | SEPPmail Secure Email Gateway up to 15.0.2 Certificate certificate validation](https://vuldb.com/vuln/354833)
+  - [CVE-2026-29141 | SEPPmail Secure Email Gateway up to 15.0.2 Subject input validation](https://vuldb.com/vuln/354841)
+  - [CVE-2026-29142 | SEPPmail Secure Email Gateway up to 15.0.2 GINA Mail missing cryptographic step](https://vuldb.com/vuln/354843)
+  - [CVE-2026-29143 | SEPPmail Secure Email Gateway up to 15.0.2 SMIME Message improper authentication](https://vuldb.com/vuln/354844)
+  - [CVE-2026-29144 | SEPPmail Secure Email Gateway up to 15.0.2 input validation](https://vuldb.com/vuln/354845)
   - [CVE-2026-30273 | Sinaptik AI pandas-ai 3.0.0 pandasai.agent.base._execute_sql_query sql injection](https://vuldb.com/vuln/354732)
   - [CVE-2026-30643 | DedeCMS 5.7.118 Module setup tag unrestricted upload](https://vuldb.com/vuln/354734)
   - [CVE-2026-32925 | Fuji Electric V-SFT up to 6.2.10.0 WriteV7DataToRom stack-based overflow](https://vuldb.com/vuln/354780)
@@ -168,9 +174,9 @@
 - WIRED
   - [AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted](https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
-  - [代码钟馗启动AI漏洞雷达，OpenClaw隐秘漏洞浮出水面](https://www.4hou.com/posts/vwK8)
-  - [爆火背后：OpenClaw 开源AI智能体应用攻击面与安全风险系统剖析](https://www.4hou.com/posts/yzQ6)
+  - [OpenClaw近期生态安全事件解读：从RCE漏洞到Skill供应链投毒分析](https://www.4hou.com/posts/zAVq)
+  - [一大波危险的“龙虾”来袭，绿盟君助您安全养虾](https://www.4hou.com/posts/Arj9)
 - 爱范儿
   - [惹众怒！Anthropic 疯狂删库，他连夜爆改 Claude Code 源码拿下史上最快 10 万星](https://www.ifanr.com/1660636?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [三星洗衣机更新后导致用户无法正常洗衣服](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%9B%B4%E6%96%B0%E5%90%8E%E5%AF%BC%E8%87%B4%E7%94%A8%E6%88%B7%E6%97%A0%E6%B3%95%E6%AD%A3%E5%B8%B8%E6%B4%97%E8%A1%A3%E6%9C%8D)
+  - [De-fi平台Drift加密货币被盗暂停存取款](https://blog.upx8.com/De-fi%E5%B9%B3%E5%8F%B0Drift%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E8%A2%AB%E7%9B%97%E6%9A%82%E5%81%9C%E5%AD%98%E5%8F%96%E6%AC%BE)
