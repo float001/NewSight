@@ -81,10 +81,9 @@ const archiveTree = loadArchiveTree({ repoRoot });
         display:flex;flex-direction:column;align-items:center;
       }
       .brand{font-weight:800;letter-spacing:-.02em;font-size:18px;text-align:center}
-      .meta{margin-top:6px;color:var(--muted);font-size:12px;text-align:center}
-      .tree{margin-top:18px;font-size:13px;width:100%;max-width:240px}
-      details.grp{border-left:2px solid #ededed;padding-left:12px;margin-top:14px}
-      details.grp[open]{border-left-color:#e2e8f0}
+      .meta{margin-top:8px;color:var(--muted);font-size:12px;text-align:center;max-width:220px}
+      .tree{margin-top:18px;font-size:13px;width:100%;max-width:220px}
+      details.grp{margin-top:14px;width:100%}
       summary.ym{
         list-style:none;
         cursor:pointer;
@@ -140,6 +139,7 @@ const archiveTree = loadArchiveTree({ repoRoot });
     <div class="app">
       <aside class="side">
         <div class="brand"><a href={BASE} style="text-decoration:none">NewSight</a></div>
+        <div class="meta">实时汇总安全资讯：从 RSS 获取、AI 甄别与摘要，生成今日列表与历史归档。</div>
 
         <div class="tree" aria-label="归档目录树">
           {archiveTree.map((g) => (

@@ -103,7 +103,7 @@ const archiveTree = loadArchiveTree({ repoRoot });
       .app{display:grid;grid-template-columns:280px 1fr;min-height:100vh}
       .side{border-right:1px solid var(--line);padding:22px 16px 28px;position:sticky;top:0;align-self:start;height:100vh;overflow:auto;background:var(--bg);display:flex;flex-direction:column;align-items:center}
       .brand{font-weight:800;letter-spacing:-.02em;font-size:18px;text-align:center}
-      .meta{margin-top:6px;color:var(--muted);font-size:12px;text-align:center}
+      .meta{margin-top:8px;color:var(--muted);font-size:12px;text-align:center;max-width:220px}
       .nav{margin-top:16px;display:flex;gap:10px;font-size:13px;flex-wrap:wrap}
       .nav a{
         color:var(--muted);
@@ -114,9 +114,8 @@ const archiveTree = loadArchiveTree({ repoRoot });
         background:#fff;
       }
       .nav a:hover{color:var(--fg);border-color:#cfcfcf}
-      .tree{margin-top:18px;font-size:13px;width:100%;max-width:240px}
-      details.grp{border-left:2px solid #ededed;padding-left:12px;margin-top:14px}
-      details.grp[open]{border-left-color:#e2e8f0}
+      .tree{margin-top:18px;font-size:13px;width:100%;max-width:220px}
+      details.grp{margin-top:14px;width:100%}
       summary.ym{
         list-style:none;
         cursor:pointer;
@@ -169,6 +168,7 @@ const archiveTree = loadArchiveTree({ repoRoot });
     <div class="app">
       <aside class="side">
         <div class="brand"><a href={BASE} style="text-decoration:none">NewSight</a></div>
+        <div class="meta">归档目录（按年月折叠），点击日期查看当日资讯。</div>
         <div class="tree" aria-label="归档目录树">
           {archiveTree.map((g) => (
             <details class="grp" open>
