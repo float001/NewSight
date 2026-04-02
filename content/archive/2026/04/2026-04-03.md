@@ -2,6 +2,8 @@
 
 - CERT Recently Published Vulnerability Notes
   - [VU#951662: MuPDF by Artifex contains integer overflow vulnerability.](https://kb.cert.org/vuls/id/951662)
+- darkreading
+  - [Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026](https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026)
 - Data Breach
   - [Hasbro hit by cyberattack, investigates possible data breach](https://securityaffairs.com/190306/security/hasbro-hit-by-cyberattack-investigates-possible-data-breach.html)
 - Fidelis Security
