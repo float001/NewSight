@@ -5,6 +5,7 @@
   - [腾讯的 workbuddy 今天崩溃了近两小时](https://2libra.com/post/big-company-news/qNK8ffh)
 - 36氪
   - [DeskClaw发布新版本，正式接入Seedance 2.0](https://36kr.com/newsflashes/3749095406223877?f=rss)
+  - [科学家实现DNA安全加密实景测试](https://36kr.com/newsflashes/3749235852624393?f=rss)
   - [蚂蚁数科旗下DTClaw开启内测](https://36kr.com/newsflashes/3749066593567496?f=rss)
 - darkreading
   - [Cyberattacks Intensify Pressure on Latin American Governments](https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments)
@@ -14,6 +15,8 @@
   - [Your sign-up form is a weapon](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
 - Horizon3.ai
   - [Best Tools for Digital Threat Monitoring and Cyber Threat Visibility](https://horizon3.ai/intelligence/blogs/digital-threat-monitoring-tools-cyber-visibility/)
+- ICT Security Magazine
+  - [EU Data Act e sicurezza IoT: cosa cambia per le imprese italiane](https://www.ictsecuritymagazine.com/notizie/eu-data-act/)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Thursday, April 2nd, 2026 https://isc.sans.edu/podcastdetail/9876, (Thu, Apr 2nd)](https://isc.sans.edu/diary/rss/32858)
   - [Malicious Script That Gets Rid of ADS, (Wed, Apr 1st)](https://isc.sans.edu/diary/rss/32854)
@@ -147,3 +150,5 @@
   - [CVE-2026-5368 | projectworlds Car Rental Project 1.0 Parameter /login.php uname sql injection](https://vuldb.com/vuln/354746)
 - WIRED
   - [AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted](https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/)
+- 爱范儿
+  - [惹众怒！Anthropic 疯狂删库，他连夜爆改 Claude Code 源码拿下史上最快 10 万星](https://www.ifanr.com/1660636?utm_source=rss&utm_medium=rss&utm_campaign=)
