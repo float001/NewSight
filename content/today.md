@@ -11,6 +11,7 @@
   - [LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut](https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut)
 - Hacker News: Front Page
   - [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/)
+  - [Your sign-up form is a weapon](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
 - Horizon3.ai
   - [Best Tools for Digital Threat Monitoring and Cyber Threat Visibility](https://horizon3.ai/intelligence/blogs/digital-threat-monitoring-tools-cyber-visibility/)
 - SANS Internet Storm Center, InfoCON: green
