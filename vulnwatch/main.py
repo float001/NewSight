@@ -6,7 +6,6 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 
 from .config import AppConfig, load_config
-from .lark import send_lark_card
 from .logging_utils import setup_logging
 from .opml_sync import list_local_opml_files, update_opml_to_dir
 from .render import build_archive_markdown, build_today_markdown, resolve_paths
@@ -112,7 +111,7 @@ def run_once(conf: AppConfig, *, update_opml: bool = False, rss_dir: Path | None
         now_local.tzinfo,
     )
 
-    selected_run: list[tuple[str, str, str]] = []
+    n_security = 0
     uniq_list = list(uniq.values())
     for it in uniq_list:
         if not title_is_security_related(it.title, conf.match_patterns):
@@ -126,15 +125,12 @@ def run_once(conf: AppConfig, *, update_opml: bool = False, rss_dir: Path | None
             url=it.url,
             published_at=it.published_at,
         )
-        selected_run.append((it.source, it.title, it.url))
-    log.info("selected security_related=%s", len(selected_run))
+        n_security += 1
+    log.info("selected security_related=%s", n_security)
 
     # 从 DB 读取“今天全量”渲染（不是本次运行抓到的子集）
     acc_sec, acc_vuln = list_news_items_for_day(conf.db_path, today)
     today_items = _dedup_items(acc_sec + acc_vuln)
-
-    # Lark 推送：条数仅统计「本次运行」新入库条目（与 today 全量解耦）
-    lark_count = len(_dedup_items(selected_run))
 
     today_path.parent.mkdir(parents=True, exist_ok=True)
     today_archive_path.parent.mkdir(parents=True, exist_ok=True)
@@ -143,20 +139,11 @@ def run_once(conf: AppConfig, *, update_opml: bool = False, rss_dir: Path | None
     today_archive_body = build_archive_markdown(d=today, raw_items=today_items)
     today_archive_path.write_text(today_archive_body, encoding="utf-8")
 
-    # 推送到 Lark：标题与「时间」均为当前本地时间，YYYY-MM-DD HH:mm:ss
-    now_lark = datetime.now().astimezone().replace(microsecond=0)
-    lark_time_str = now_lark.strftime("%Y-%m-%d %H:%M:%S")
-    send_lark_card(
-        conf.lark,
-        title=f"安全资讯（{lark_time_str}）",
-        date_str=lark_time_str,
-        count_items=lark_count,
-    )
     return today_path
 
 
 def main(argv: list[str] | None = None) -> int:
-    ap = argparse.ArgumentParser(prog="vulnwatch", description="Hourly RSS → static title match → today.md + archive + Lark")
+    ap = argparse.ArgumentParser(prog="vulnwatch", description="Hourly RSS → static title match → today.md + archive")
     ap.add_argument("--config", default="config.yaml", help="Path to config.yaml")
     ap.add_argument("-u", "--update-opml", action="store_true", help="Update remote OPML into local rss/ then read local OPML")
     ap.add_argument("--rss-dir", default="rss", help="Local OPML directory (default: rss)")

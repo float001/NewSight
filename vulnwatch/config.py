@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import os
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
@@ -10,17 +9,6 @@ import yaml
 from .logging_utils import LogConfig
 
 from .security_match import DEFAULT_TITLE_PATTERNS, merge_pattern_lists
-
-
-@dataclass(frozen=True)
-class LarkConfig:
-    enabled: bool
-    webhook_env: str
-    webhook: str
-
-    @property
-    def resolved_webhook(self) -> str:
-        return os.getenv(self.webhook_env, "") or self.webhook
 
 
 @dataclass(frozen=True)
@@ -34,7 +22,6 @@ class AppConfig:
     opml_retries: int
     opml_retry_backoff_s: float
     log: LogConfig
-    lark: LarkConfig
     match_patterns: list[str]
     content_dir: Path
     db_path: Path
@@ -84,13 +71,6 @@ def load_config(path: str | Path) -> AppConfig:
     extra = _as_list(sm.get("patterns")) + _as_list(sm.get("security")) + _as_list(sm.get("vuln"))
     match_patterns = merge_pattern_lists(DEFAULT_TITLE_PATTERNS, extra)
 
-    lark_raw = raw.get("lark") or {}
-    lark = LarkConfig(
-        enabled=bool(lark_raw.get("enabled", False)),
-        webhook_env=str(lark_raw.get("webhook_env", "LARK_WEBHOOK")),
-        webhook=str(lark_raw.get("webhook", "")),
-    )
-
     content_dir = Path(str(raw.get("content_dir", "content"))).resolve()
     db_path = Path(str(raw.get("db_path", "state/state.db"))).resolve()
 
@@ -104,7 +84,6 @@ def load_config(path: str | Path) -> AppConfig:
         opml_retries=opml_retries,
         opml_retry_backoff_s=opml_retry_backoff_s,
         log=log,
-        lark=lark,
         match_patterns=match_patterns,
         content_dir=content_dir,
         db_path=db_path,
