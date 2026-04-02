@@ -2,17 +2,16 @@ from __future__ import annotations
 
 import argparse
 import logging
-from dataclasses import dataclass
-from datetime import date, datetime, timedelta, timezone
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
-from .ai import aggregate_today, classify_titles_batch
 from .config import AppConfig, load_config
 from .lark import send_lark_card
 from .logging_utils import setup_logging
 from .opml_sync import list_local_opml_files, update_opml_to_dir
 from .render import build_archive_markdown, build_today_markdown, resolve_paths
 from .rss import RssItem, expand_opml_sources, fetch_rss, parse_published_dt
+from .security_match import title_is_security_related
 from .storage import init_db, list_news_items_for_day, upsert_news_item
 
 log = logging.getLogger("vulnwatch")
@@ -26,12 +25,6 @@ def _match_keywords(title: str, include: list[str], exclude: list[str]) -> bool:
     if not include:
         return True
     return any(x.lower() in t for x in include if x)
-
-
-@dataclass
-class Selected:
-    vuln: list[tuple[str, str, str]]  # source,title,url
-    sec: list[tuple[str, str, str]]
 
 
 def _dedup_items(items: list[tuple[str, str, str]]) -> list[tuple[str, str, str]]:
@@ -119,61 +112,29 @@ def run_once(conf: AppConfig, *, update_opml: bool = False, rss_dir: Path | None
         now_local.tzinfo,
     )
 
-    selected = Selected(vuln=[], sec=[])
+    selected_run: list[tuple[str, str, str]] = []
     uniq_list = list(uniq.values())
-    if conf.ai.enabled and conf.ai.resolved_api_key:
-        batch = 28
-        for i in range(0, len(uniq_list), batch):
-            chunk = uniq_list[i : i + batch]
-            flags = classify_titles_batch(conf.ai, [x.title for x in chunk])
-            for it, c in zip(chunk, flags, strict=False):
-                kind = c.kind
-                if kind == "ignore":
-                    continue
-                # 入库去重：url PRIMARY KEY
-                upsert_news_item(
-                    conf.db_path,
-                    day=today,
-                    kind=("vuln" if kind == "vuln" else "security"),
-                    source=it.source,
-                    title=it.title,
-                    url=it.url,
-                    published_at=it.published_at,
-                )
-                if kind == "vuln":
-                    selected.vuln.append((it.source, it.title, it.url))
-                else:
-                    selected.sec.append((it.source, it.title, it.url))
-    else:
-        # AI 未启用时：把关键词筛选后的都当作 security 原始资讯
-        if conf.ai.enabled and not conf.ai.resolved_api_key:
-            log.warning("AI enabled but key missing (env=%s), skip classification", conf.ai.api_key_env)
-        for it in uniq_list:
-            upsert_news_item(
-                conf.db_path,
-                day=today,
-                kind="security",
-                source=it.source,
-                title=it.title,
-                url=it.url,
-                published_at=it.published_at,
-            )
-            selected.sec.append((it.source, it.title, it.url))
-    log.info("selected security=%s vuln=%s", len(selected.sec), len(selected.vuln))
+    for it in uniq_list:
+        if not title_is_security_related(it.title, conf.match_patterns):
+            continue
+        upsert_news_item(
+            conf.db_path,
+            day=today,
+            kind="security",
+            source=it.source,
+            title=it.title,
+            url=it.url,
+            published_at=it.published_at,
+        )
+        selected_run.append((it.source, it.title, it.url))
+    log.info("selected security_related=%s", len(selected_run))
 
     # 从 DB 读取“今天全量”渲染（不是本次运行抓到的子集）
     acc_sec, acc_vuln = list_news_items_for_day(conf.db_path, today)
     today_items = _dedup_items(acc_sec + acc_vuln)
 
-    # Lark 推送：总结仅基于「本次运行」新入库的安全/漏洞子集（与 today 全量解耦）
-    run_sec = _dedup_items(selected.sec)
-    run_vuln = _dedup_items(selected.vuln)
-    agg = aggregate_today(
-        conf.ai,
-        items_vuln=[t for _s, t, _u in run_vuln],
-        items_sec=[t for _s, t, _u in run_sec],
-    )
-    lark_count = len(run_sec) + len(run_vuln)
+    # Lark 推送：条数仅统计「本次运行」新入库条目（与 today 全量解耦）
+    lark_count = len(_dedup_items(selected_run))
 
     today_path.parent.mkdir(parents=True, exist_ok=True)
     today_archive_path.parent.mkdir(parents=True, exist_ok=True)
@@ -190,14 +151,12 @@ def run_once(conf: AppConfig, *, update_opml: bool = False, rss_dir: Path | None
         title=f"安全资讯（{lark_time_str}）",
         date_str=lark_time_str,
         count_items=lark_count,
-        vuln_intel=agg.vuln_intel,
-        security_posture=agg.security_posture,
     )
     return today_path
 
 
 def main(argv: list[str] | None = None) -> int:
-    ap = argparse.ArgumentParser(prog="vulnwatch", description="Hourly RSS → AI classify/aggregate → today.md + archive + Lark")
+    ap = argparse.ArgumentParser(prog="vulnwatch", description="Hourly RSS → static title match → today.md + archive + Lark")
     ap.add_argument("--config", default="config.yaml", help="Path to config.yaml")
     ap.add_argument("-u", "--update-opml", action="store_true", help="Update remote OPML into local rss/ then read local OPML")
     ap.add_argument("--rss-dir", default="rss", help="Local OPML directory (default: rss)")

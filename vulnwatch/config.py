@@ -3,25 +3,13 @@ from __future__ import annotations
 import os
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any
 
 import yaml
 
 from .logging_utils import LogConfig
 
-
-@dataclass(frozen=True)
-class AIConfig:
-    enabled: bool
-    base_url: str
-    api_key_env: str
-    api_key: str
-    model: str
-    timeout_s: int = 45
-
-    @property
-    def resolved_api_key(self) -> str:
-        return os.getenv(self.api_key_env, "") or self.api_key
+from .security_match import DEFAULT_TITLE_PATTERNS, merge_pattern_lists
 
 
 @dataclass(frozen=True)
@@ -46,8 +34,8 @@ class AppConfig:
     opml_retries: int
     opml_retry_backoff_s: float
     log: LogConfig
-    ai: AIConfig
     lark: LarkConfig
+    match_patterns: list[str]
     content_dir: Path
     db_path: Path
     max_items_per_run: int = 200
@@ -92,15 +80,9 @@ def load_config(path: str | Path) -> AppConfig:
     log_raw = raw.get("log") or {}
     log = LogConfig(level=str(log_raw.get("level", "INFO")))
 
-    ai_raw = raw.get("ai") or {}
-    ai = AIConfig(
-        enabled=bool(ai_raw.get("enabled", True)),
-        base_url=str(ai_raw.get("base_url", "https://api.openai.com/v1")).rstrip("/"),
-        api_key_env=str(ai_raw.get("api_key_env", "OPENAI_API_KEY")),
-        api_key=str(ai_raw.get("api_key", "")),
-        model=str(ai_raw.get("model", "gpt-4o-mini")),
-        timeout_s=int(ai_raw.get("timeout_s", 45)),
-    )
+    sm = raw.get("security_match") or {}
+    extra = _as_list(sm.get("patterns")) + _as_list(sm.get("security")) + _as_list(sm.get("vuln"))
+    match_patterns = merge_pattern_lists(DEFAULT_TITLE_PATTERNS, extra)
 
     lark_raw = raw.get("lark") or {}
     lark = LarkConfig(
@@ -122,8 +104,8 @@ def load_config(path: str | Path) -> AppConfig:
         opml_retries=opml_retries,
         opml_retry_backoff_s=opml_retry_backoff_s,
         log=log,
-        ai=ai,
         lark=lark,
+        match_patterns=match_patterns,
         content_dir=content_dir,
         db_path=db_path,
         max_items_per_run=int(raw.get("max_items_per_run", 200)),

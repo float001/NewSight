@@ -20,13 +20,9 @@ keywords:
     - 招聘
     - 抽奖
     - 课程
-ai:
-  enabled: true
-  base_url: https://api.deepseek.com/v1
-  api_key_env: DEEPSEEK_API_KEY
-  api_key: ''
-  model: deepseek-chat
-  timeout_s: 45
+# 标题静态匹配（内置中英文安全相关子串 + 下列额外子串；大小写不敏感）
+security_match:
+  patterns: []
 lark:
   enabled: true
   webhook_env: LARK_WEBHOOK
