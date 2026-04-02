@@ -1,0 +1,144 @@
+---
+import fs from "node:fs";
+import path from "node:path";
+
+const BASE = import.meta.env.BASE_URL || "/";
+
+const repoRoot = path.resolve(process.cwd(), "..");
+function walkMd(dir) {
+  if (!fs.existsSync(dir)) return [];
+  const out = [];
+  for (const ent of fs.readdirSync(dir, { withFileTypes: true })) {
+    const p = path.join(dir, ent.name);
+    if (ent.isDirectory()) out.push(...walkMd(p));
+    else if (ent.isFile() && ent.name.endsWith(".md")) out.push(p);
+  }
+  return out;
+}
+
+function loadArchiveTree({ repoRoot }) {
+  const archiveRoot = path.join(repoRoot, "content", "archive");
+  const filesAbs = walkMd(archiveRoot);
+  const byYm = {};
+  for (const abs of filesAbs) {
+    const rel = abs.replace(repoRoot + path.sep, "").split(path.sep).join("/");
+    const parts = rel.split("/");
+    const year = parts.at(-3);
+    const month = parts.at(-2);
+    const dayFile = parts.at(-1) || "";
+    const label = dayFile.replace(".md", "");
+    const day = label.split("-").at(-1);
+    if (!year || !month || !day) continue;
+    const ym = `${year}-${month}`;
+    const href = `${BASE}archive/${year}/${month}/${day}/`;
+    byYm[ym] ||= { ym, year, month, days: [] };
+    byYm[ym].days.push({ day, label, href });
+  }
+  const groups = Object.values(byYm).sort((a, b) => String(b.ym).localeCompare(String(a.ym)));
+  for (const g of groups) {
+    g.days.sort((a, b) => String(b.label).localeCompare(String(a.label)));
+  }
+  return groups;
+}
+
+const archiveTree = loadArchiveTree({ repoRoot });
+---
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>NewSight — 历史归档</title>
+    <style>
+      :root{--bg:#fff;--fg:#0a0a0a;--muted:#606060;--line:#e6e6e6;--card:#fff}
+      *{box-sizing:border-box}
+      body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.7 system-ui,-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei"}
+      a{color:inherit}
+      a:hover{text-decoration:underline}
+      .app{display:grid;grid-template-columns:280px 1fr;min-height:100vh}
+      .side{border-right:1px solid var(--line);padding:22px 16px 28px;position:sticky;top:0;align-self:start;height:100vh;overflow:auto;background:var(--bg);display:flex;flex-direction:column;align-items:center}
+      .brand{font-weight:800;letter-spacing:-.02em;font-size:18px;text-align:center}
+      .meta{margin-top:6px;color:var(--muted);font-size:12px;text-align:center}
+      .tree{margin-top:18px;font-size:13px;width:100%;max-width:240px}
+      details.grp{border-left:2px solid #ededed;padding-left:12px;margin-top:14px}
+      details.grp[open]{border-left-color:#e2e8f0}
+      summary.ym{
+        list-style:none;
+        cursor:pointer;
+        display:flex;
+        align-items:center;
+        justify-content:space-between;
+        gap:10px;
+        padding:6px 6px;
+        color:#475569;
+        user-select:none;
+      }
+      summary.ym::-webkit-details-marker{display:none}
+      .chev{width:14px;height:14px;display:inline-block;flex:0 0 auto}
+      details.grp[open] .chev{transform:rotate(180deg)}
+      .days{margin:6px 0 0 0;padding:0;display:flex;flex-direction:column;gap:6px}
+      .days a{
+        display:block;
+        padding:8px 10px;
+        border-radius:6px;
+        text-decoration:none;
+        color:#64748b;
+      }
+      .days a:hover{background:#f5f5f5;color:#0a0a0a}
+      .days a.sel{background:#e6f0ff;color:#0a0a0a;font-weight:700}
+      .main{padding:34px 26px 72px;max-width:980px;margin:0 auto}
+      h1{margin:0 0 10px;font-size:26px;letter-spacing:-.02em}
+      .sub{margin:0 0 18px;color:var(--muted)}
+      .card{border:1px solid var(--line);background:var(--card);padding:18px 18px}
+      code{background:#f2f2f2;padding:.12em .35em;border-radius:8px}
+
+      /* responsive */
+      @media (max-width: 920px){
+        .app{grid-template-columns:1fr}
+        .side{
+          position:relative;height:auto;overflow:visible;
+          border-right:none;border-bottom:1px solid var(--line);
+          padding:16px 14px;
+          align-items:stretch;
+        }
+        .tree{max-width:none;max-height:38vh;overflow:auto;border:1px solid var(--line);padding:10px 10px;margin-top:14px}
+        .main{padding:18px 14px 54px;margin:0}
+        h1{font-size:22px}
+        .card{padding:14px 14px}
+      }
+    </style>
+  </head>
+  <body>
+    <div class="app">
+      <aside class="side">
+        <div class="brand"><a href={BASE} style="text-decoration:none">NewSight</a></div>
+
+        <div class="tree" aria-label="归档目录树">
+          {archiveTree.map((g) => (
+            <details class="grp" open>
+              <summary class="ym">
+                <span>{g.ym}</span>
+                <svg class="chev" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+                  <path d="M5 7.5L10 12.5L15 7.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg>
+              </summary>
+              <div class="days">
+                {g.days.map((d) => (
+                  <a href={d.href}>{`${g.month}-${d.day}`}</a>
+                ))}
+              </div>
+            </details>
+          ))}
+        </div>
+      </aside>
+
+      <main class="main">
+        <h1>历史归档</h1>
+        <!-- intentionally empty -->
+        <div class="card">
+          从左侧选择具体日期。
+        </div>
+      </main>
+    </div>
+  </body>
+</html>
+

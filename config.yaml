@@ -1,0 +1,36 @@
+rss:
+  - ./rss/security.opml
+  - https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/CyberSecurityRSS.opml
+  - https://raw.githubusercontent.com/zhengjim/Chinese-Security-RSS/master/Chinese-Security-RSS.opml
+  - https://raw.githubusercontent.com/mrtouch93/awesome-security-feed/main/security_feeds.opml
+  - https://wechat2rss.xlab.app/opml/sec.opml
+rss_config:
+  timeout_s: 12
+  opml_timeout_s: 90
+  # OPML 下载失败时的重试次数与退避（秒）
+  opml_retries: 3
+  opml_retry_backoff_s: 1.5
+log:
+  level: DEBUG
+keywords:
+  include: []
+  # 只抓取“当前时间往前 N 小时”内发布的资讯（跨天时会写入对应日期的 archive 文件）
+  fetch_within_hours: 1
+  exclude:
+    - 招聘
+    - 抽奖
+    - 课程
+ai:
+  enabled: true
+  base_url: https://api.deepseek.com/v1
+  api_key_env: DEEPSEEK_API_KEY
+  api_key: ''
+  model: deepseek-chat
+  timeout_s: 45
+lark:
+  enabled: true
+  webhook_env: LARK_WEBHOOK
+  webhook: ''
+content_dir: content
+db_path: state/state.db
+max_items_per_run: 200
