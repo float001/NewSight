@@ -9,6 +9,8 @@
   - [DeskClaw发布新版本，正式接入Seedance 2.0](https://36kr.com/newsflashes/3749095406223877?f=rss)
   - [科学家实现DNA安全加密实景测试](https://36kr.com/newsflashes/3749235852624393?f=rss)
   - [蚂蚁数科旗下DTClaw开启内测](https://36kr.com/newsflashes/3749066593567496?f=rss)
+- 404 Media
+  - [A Secure Chat App’s Encryption Is So Bad It Is ‘Meaningless’](https://www.404media.co/a-secure-chat-apps-encryption-is-so-bad-it-is-meaningless/)
 - darkreading
   - [Bank Trojan 'Casbaneiro' Worms Through Latin America](https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america)
   - [Cyberattacks Intensify Pressure on Latin American Governments](https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments)
@@ -18,6 +20,8 @@
   - [Your sign-up form is a weapon](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
 - Horizon3.ai
   - [Best Tools for Digital Threat Monitoring and Cyber Threat Visibility](https://horizon3.ai/intelligence/blogs/digital-threat-monitoring-tools-cyber-visibility/)
+- http://www.infosecurity-magazine.com/rss/news/
+  - [Apple Expands iOS 18 Security Updates Amid DarkSword Threat](https://www.infosecurity-magazine.com/news/apple-ios-18-updates-darksword/)
 - ICT Security Magazine
   - [EU Data Act e sicurezza IoT: cosa cambia per le imprese italiane](https://www.ictsecuritymagazine.com/notizie/eu-data-act/)
   - [Sanità digitale e cybersecurity: il dato clinico come infrastruttura critica](https://www.ictsecuritymagazine.com/articoli/sanita-digitale-dati/)
@@ -38,6 +42,7 @@
   - [U.S. CISA adds a flaw in Google Dawn to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190282/security/u-s-cisa-adds-a-flaw-in-google-dawn-to-its-known-exploited-vulnerabilities-catalog.html)
 - Sploitus.com Exploits RSS Feed
   - [dbus-security-poc exploit](https://sploitus.com/exploit?id=54037AD3-6838-59FB-85A9-20C1361813B8&utm_source=rss&utm_medium=rss)
+  - [Exploit for Allocation of Resources Without Limits or Throttling in Openbsd Openssh exploit](https://sploitus.com/exploit?id=B96EAFCA-CE3F-51B0-86CF-4EB92B1C4FEF&utm_source=rss&utm_medium=rss)
   - [Exploit for External Control of File Name or Path in Microsoft exploit](https://sploitus.com/exploit?id=348030DA-997E-5901-A770-AF634F5110B0&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Handling of Exceptional Conditions in Sudo_Project Sudo exploit](https://sploitus.com/exploit?id=B466C778-3EBD-5E09-9A33-7851E748DFEC&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Cacti exploit](https://sploitus.com/exploit?id=826AFADF-3EC2-57A3-BEF5-BEDE65478290&utm_source=rss&utm_medium=rss)
