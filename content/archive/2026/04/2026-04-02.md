@@ -2,6 +2,7 @@
 
 - 2Libra 社区 - 今日热议
   - [Ubuntu 改主目录崩了](https://2libra.com/post/operating-systems/zCn-Lvf)
+  - [腾讯的 workbuddy 今天崩溃了近两小时](https://2libra.com/post/big-company-news/qNK8ffh)
 - 36氪
   - [DeskClaw发布新版本，正式接入Seedance 2.0](https://36kr.com/newsflashes/3749095406223877?f=rss)
   - [蚂蚁数科旗下DTClaw开启内测](https://36kr.com/newsflashes/3749066593567496?f=rss)
