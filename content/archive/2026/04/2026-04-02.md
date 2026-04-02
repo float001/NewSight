@@ -10,6 +10,8 @@
 - darkreading
   - [Cyberattacks Intensify Pressure on Latin American Governments](https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments)
   - [LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut](https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut)
+- defend.network – Daily Threat Briefings
+  - [Daily Threat Briefing – April 2, 2026](https://defend.network/briefings/chrome-zero-day-trueconf-malware-campaigns-2026-04-02.html)
 - Hacker News: Front Page
   - [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/)
   - [Your sign-up form is a weapon](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
@@ -17,6 +19,15 @@
   - [Best Tools for Digital Threat Monitoring and Cyber Threat Visibility](https://horizon3.ai/intelligence/blogs/digital-threat-monitoring-tools-cyber-visibility/)
 - ICT Security Magazine
   - [EU Data Act e sicurezza IoT: cosa cambia per le imprese italiane](https://www.ictsecuritymagazine.com/notizie/eu-data-act/)
+- InfoSec Write-ups - Medium
+  - [Axios Just Got Weaponized — And Your npm install Pulled the Trigger](https://infosecwriteups.com/axios-just-got-weaponized-and-your-npm-install-pulled-the-trigger-8ba05aac905e?source=rss----7b722bfd1b8d---4)
+  - [CTF Writeup — ezRSA - Ramadan CTF 2026](https://infosecwriteups.com/ctf-writeup-ezrsa-ramadan-ctf-2026-f697fe98a224?source=rss----7b722bfd1b8d---4)
+  - [Insecure Output Handling: Code Injection Through LLM Output (Part 3)](https://infosecwriteups.com/insecure-output-handling-code-injection-through-llm-output-part-3-d2dd27ed1366?source=rss----7b722bfd1b8d---4)
+  - [Linux Fundamentals Part 1: TryHackMe Walkthrough](https://infosecwriteups.com/linux-fundamentals-part-1-tryhackme-walkthrough-6090e054d46b?source=rss----7b722bfd1b8d---4)
+  - [Pod Security Standards and Policies (Kyverno, OPA Gatekeeper)](https://infosecwriteups.com/pod-security-standards-and-policies-kyverno-opa-gatekeeper-bd87beedd5af?source=rss----7b722bfd1b8d---4)
+  - [The 2-Second Hack: How 100 Million Developers Were Just Targeted on npm](https://infosecwriteups.com/the-2-second-hack-how-100-million-developers-were-just-targeted-on-npm-48d3359b63b7?source=rss----7b722bfd1b8d---4)
+  - [“Bug Bounty Bootcamp #29: Boolean Blind SQL Injection Part 2 — Extracting Usernames and Passwords…](https://infosecwriteups.com/bug-bounty-bootcamp-29-boolean-blind-sql-injection-part-2-extracting-usernames-and-passwords-13447abeb6d6?source=rss----7b722bfd1b8d---4)
+  - [️‍♂️ The Complete Beginner’s Guide to Bug Bounty Reconnaissance: Live Hunting on PayPal](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-the-complete-beginners-guide-to-bug-bounty-reconnaissance-live-hunting-on-paypal-ddb2b0abecd3?source=rss----7b722bfd1b8d---4)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Thursday, April 2nd, 2026 https://isc.sans.edu/podcastdetail/9876, (Thu, Apr 2nd)](https://isc.sans.edu/diary/rss/32858)
   - [Malicious Script That Gets Rid of ADS, (Wed, Apr 1st)](https://isc.sans.edu/diary/rss/32854)
