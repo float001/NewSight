@@ -8,6 +8,7 @@
 - VulDB Recent Entries
   - [CVE-2025-68152 | Juju up to 2.9.55/3.6.18 authorization](https://vuldb.com/vuln/355176)
   - [CVE-2025-68153 | Juju up to 2.9.55/3.6.18 authorization](https://vuldb.com/vuln/355177)
+  - [CVE-2026-0545 | MLflow up to 3.0 FastAPI Job Endpoint missing authentication](https://vuldb.com/vuln/355183)
   - [CVE-2026-23436 | Linux Kernel up to 6.18.19/6.19.9/7.0-rc4 shaper allocation of resources](https://vuldb.com/vuln/355131)
   - [CVE-2026-23437 | Linux Kernel up to 6.18.19/6.19.9/7.0-rc4 information disclosure](https://vuldb.com/vuln/355144)
   - [CVE-2026-23439 | Linux Kernel up to 7.0-rc4 net/ipv4/fou_core.c udp_sock_create6 null pointer dereference](https://vuldb.com/vuln/355132)
@@ -44,6 +45,7 @@
   - [CVE-2026-25044 | Budibase up to 3.33.3 os command injection](https://vuldb.com/vuln/355180)
   - [CVE-2026-25118 | immich-app immich up to 2.5.x URL Query Parameter /api/shared-links/me get request method with sensitive query strings](https://vuldb.com/vuln/355175)
   - [CVE-2026-27124 | jlowin fastmcp up to 3.1.x confused deputy](https://vuldb.com/vuln/355173)
+  - [CVE-2026-28373 | Stackfield Desktop App up to 1.10.1 on macOS filePath path traversal](https://vuldb.com/vuln/355184)
   - [CVE-2026-31389 | Linux Kernel up to 7.0-rc4 spi use after free](https://vuldb.com/vuln/355138)
   - [CVE-2026-31390 | Linux Kernel up to 6.18.19/6.19.9/7.0-rc2 xe check_bo_args_are_sane memory leak](https://vuldb.com/vuln/355127)
   - [CVE-2026-31391 | Linux Kernel up to 7.0-rc2 crypto tfm_count allocation of resources](https://vuldb.com/vuln/355170)
