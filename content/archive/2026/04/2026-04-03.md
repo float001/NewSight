@@ -45,12 +45,14 @@
   - [Exploit for Code Injection in Apache Ranger exploit](https://sploitus.com/exploit?id=32B15F38-C228-5BA9-BC6C-3CC29F08D5A7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2011-3556 exploit](https://sploitus.com/exploit?id=65908ED3-9DA0-5A00-8811-695FF78742C7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-28767 exploit](https://sploitus.com/exploit?id=99BCD30E-0C37-56F5-ACF1-88ECFDD410F1&utm_source=rss&utm_medium=rss)
+  - [Exploit for Server-Side Request Forgery in Apache Cxf exploit](https://sploitus.com/exploit?id=8E7B8DC5-6BEE-5C5C-AF25-4ABCFA375006&utm_source=rss&utm_medium=rss)
   - [mansstimap exploit](https://sploitus.com/exploit?id=BD0E3E42-269A-5185-BAC3-ED252758647C&utm_source=rss&utm_medium=rss)
   - [zixem_challenges exploit](https://sploitus.com/exploit?id=935AD2F6-A2A2-5942-8D1F-740915AEBC70&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Flipboard’s new ‘social websites’ help publishers and creators tap into the open social web](https://techcrunch.com/2026/04/02/flipboard-surf-social-websites-help-publishers-and-creators-tap-into-the-open-social-web/)
   - [Google now lets you direct avatars through prompts in its Vids app](https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/)
 - The Verge
+  - [I saved a doomed Windows laptop by embracing Linux](https://www.theverge.com/tech/905946/windows-11-forced-obsolescence-linux-thinkpad)
   - [Pinterest said he violated laid-off colleagues&#8217; privacy. Now he&#8217;s going public](https://www.theverge.com/policy/906122/pinterest-employee-fired-obstructionist-speaks-out)
 - unSafe.sh - 不安全
   - [10 Things Your First Security Hire Shouldn’t Do – High Signal Security](https://buaq.net/go-407445.html)
@@ -62,6 +64,13 @@
   - [CVE-2025-43238 | Apple macOS up to 13.7.6/14.7.6/15.5 App integer overflow](https://vuldb.com/vuln/355034)
   - [CVE-2025-43257 | Apple macOS up to 15.5 App symlink](https://vuldb.com/vuln/355039)
   - [CVE-2025-7024 | Airbus PSS TETRA Connectivity Server 7.0 on Windows File default permission](https://vuldb.com/vuln/355082)
+  - [CVE-2026-23418 | Linux Kernel up to 6.18.16/6.19.6/7.0-rc2 reg_sr xa_store allocation of resources](https://vuldb.com/vuln/355093)
+  - [CVE-2026-23419 | Linux Kernel up to 6.6.129/6.12.76/6.18.16/6.19.6/7.0-rc2 rds rds_tcp_tune allocation of resources](https://vuldb.com/vuln/355094)
+  - [CVE-2026-23420 | Linux Kernel up to 7.0-rc2 wifi denial of service](https://vuldb.com/vuln/355095)
+  - [CVE-2026-23422 | Linux Kernel up to 7.0-rc2 dpaa2-switch out-of-bounds](https://vuldb.com/vuln/355092)
+  - [CVE-2026-23423 | Linux Kernel up to 6.18.16/6.19.6/7.0-rc2 btrfs btrfs_uring_read_extent allocation of resources](https://vuldb.com/vuln/355096)
+  - [CVE-2026-23424 | Linux Kernel up to 6.18.16/6.19.6/7.0-rc1 amdxdna Count buffer overflow](https://vuldb.com/vuln/355097)
+  - [CVE-2026-23425 | Linux Kernel up to 6.18.16/6.19.6/7.0-rc1 KVM pkvm_init_features_from_host initialization](https://vuldb.com/vuln/355098)
   - [CVE-2026-26961 | Rack up to 2.2.22/3.1.20/3.2.5 Content-Type Header Rack::Multipart interpretation conflict (GHSA-vgpv-f759-9wx3)](https://vuldb.com/vuln/354947)
   - [CVE-2026-27655 | Zoho ManageEngine Exchange Reporter Plus up to 5801 Permissions Based on Mailboxes Report cross site scripting](https://vuldb.com/vuln/355090)
   - [CVE-2026-28703 | Zoho ManageEngine Exchange Reporter Plus up to 5801 Mails Exchanged Between Users Report cross site scripting](https://vuldb.com/vuln/355086)
