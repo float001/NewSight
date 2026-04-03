@@ -7,6 +7,7 @@
   - [VU#951662: MuPDF by Artifex contains integer overflow vulnerability.](https://kb.cert.org/vuls/id/951662)
 - darkreading
   - [Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026](https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026)
+  - [Source Code Leaks Highlight Lack of Supply Chain Oversight](https://www.darkreading.com/application-security/source-code-leaks-highlight-lack-supply-chain-oversight)
 - Data Breach
   - [Hasbro hit by cyberattack, investigates possible data breach](https://securityaffairs.com/190306/security/hasbro-hit-by-cyberattack-investigates-possible-data-breach.html)
   - [Pro-Iran Handala group breached Israeli defence contractor PSK Wind Technologies](https://securityaffairs.com/190319/data-breach/pro-iran-handala-group-breached-israeli-defence-contractor-psk-wind-technologies.html)
@@ -33,6 +34,7 @@
   - [The Axios npm supply chain incident: fake dependency, real backdoor](https://blog.nviso.eu/2026/04/03/the-axios-npm-supply-chain-incident-fake-dependency-real-backdoor/)
 - SentinelOne
   - [Securing the Supply Chain: How SentinelOne®’s AI EDR Stops the Axios Attack Autonomously](https://www.sentinelone.com/blog/securing-the-supply-chain-how-sentinelones-ai-edr-stops-the-axios-attack-autonomously/)
+  - [The Good, the Bad and the Ugly in Cybersecurity – Week 14](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-14-6/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Code Injection in Apache Ranger exploit](https://sploitus.com/exploit?id=32B15F38-C228-5BA9-BC6C-3CC29F08D5A7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2011-3556 exploit](https://sploitus.com/exploit?id=65908ED3-9DA0-5A00-8811-695FF78742C7&utm_source=rss&utm_medium=rss)
@@ -55,6 +57,9 @@
   - [CVE-2025-43257 | Apple macOS up to 15.5 App symlink](https://vuldb.com/vuln/355039)
   - [CVE-2025-7024 | Airbus PSS TETRA Connectivity Server 7.0 on Windows File default permission](https://vuldb.com/vuln/355082)
   - [CVE-2026-26961 | Rack up to 2.2.22/3.1.20/3.2.5 Content-Type Header Rack::Multipart interpretation conflict (GHSA-vgpv-f759-9wx3)](https://vuldb.com/vuln/354947)
+  - [CVE-2026-28703 | Zoho ManageEngine Exchange Reporter Plus up to 5801 Mails Exchanged Between Users Report cross site scripting](https://vuldb.com/vuln/355086)
+  - [CVE-2026-28754 | Zoho ManageEngine Exchange Reporter Plus up to 5801 Distribution Lists Report cross site scripting](https://vuldb.com/vuln/355083)
+  - [CVE-2026-28756 | Zoho ManageEngine Exchange Reporter Plus up to 5801 Distribution Groups Report cross site scripting](https://vuldb.com/vuln/355084)
   - [CVE-2026-28815 | Apple macOS up to 4.3.0 out-of-bounds (GHSA-9m44-rr2w-ppp7)](https://vuldb.com/vuln/355055)
   - [CVE-2026-32186 | Microsoft Bing server-side request forgery](https://vuldb.com/vuln/355070)
   - [CVE-2026-34230 | Rack up to 2.2.22/3.1.20/3.2.5 Rack::Utils resource consumption (GHSA-v569-hp3g-36wr)](https://vuldb.com/vuln/354942)
@@ -87,6 +92,10 @@
   - [CVE-2026-35544 | Roundcube Webmail up to 1.5.13/1.6.13 HTML Mail Message resource transfer](https://vuldb.com/vuln/355058)
   - [CVE-2026-35545 | Roundcube Webmail up to 1.5.14/1.6.14 SVG Content resource transfer](https://vuldb.com/vuln/355059)
   - [CVE-2026-35549 | MariaDB up to 11.4.9/11.8.5/12.2.1 Authentication Plugin caching_sha2_password memory allocation](https://vuldb.com/vuln/355065)
+  - [CVE-2026-3879 | Zoho ManageEngine Exchange Reporter Plus up to 5801 Equipment Mailbox Details Report cross site scripting](https://vuldb.com/vuln/355087)
+  - [CVE-2026-3880 | Zoho ManageEngine Exchange Reporter Plus up to 5801 Public Folder Client Permissions Report cross site scripting](https://vuldb.com/vuln/355088)
+  - [CVE-2026-4107 | Zoho ManageEngine Exchange Reporter Plus up to 5801 Folder Message Report cross site scripting](https://vuldb.com/vuln/355089)
+  - [CVE-2026-4108 | Zoho ManageEngine Exchange Reporter Plus up to 5801 Non-Owner Mailbox Permission Report cross site scripting](https://vuldb.com/vuln/355085)
   - [CVE-2026-4350 | Perfmatters Plugin up to 2.5.9.1 on WordPress PMCS::action_handler delete path traversal](https://vuldb.com/vuln/355081)
   - [CVE-2026-5452 | UCC CampusConnect App up to 14.3.5 on Android campusconnect.ucc BuildConfig.java hard-coded key](https://vuldb.com/vuln/355040)
   - [CVE-2026-5453 | Rico só vantagem pra investir App up to 4.58.32.12421 on Android br.com.rico.mobile SegmentSettingsModule.java SEGMENT_WRITE_KEY hard-coded key](https://vuldb.com/vuln/355041)
@@ -115,3 +124,5 @@
 - 绿盟科技技术博客
   - [国际认可 | 绿盟科技跻身亚太区OT安全代表厂商](https://blog.nsfocus.net/%e5%9b%bd%e9%99%85%e8%ae%a4%e5%8f%af-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e8%b7%bb%e8%ba%ab%e4%ba%9a%e5%a4%aa%e5%8c%baot%e5%ae%89%e5%85%a8%e4%bb%a3%e8%a1%a8%e5%8e%82%e5%95%86/)
   - [绿盟科技斩获CSA 2025多项大奖，实力引领AI安全新征程](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%96%a9%e8%8e%b7csa-2025%e5%a4%9a%e9%a1%b9%e5%a4%a7%e5%a5%96%ef%bc%8c%e5%ae%9e%e5%8a%9b%e5%bc%95%e9%a2%86ai%e5%ae%89%e5%85%a8%e6%96%b0%e5%be%81%e7%a8%8b/)
+- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [爱尔兰测试数字身份以验证社媒用户年龄](https://blog.upx8.com/%E7%88%B1%E5%B0%94%E5%85%B0%E6%B5%8B%E8%AF%95%E6%95%B0%E5%AD%97%E8%BA%AB%E4%BB%BD%E4%BB%A5%E9%AA%8C%E8%AF%81%E7%A4%BE%E5%AA%92%E7%94%A8%E6%88%B7%E5%B9%B4%E9%BE%84)
