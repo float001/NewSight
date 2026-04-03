@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-04-03）
 
 - 36氪
+  - [工信部：有攻击者利用针对苹果公司终端产品的漏洞利用工具实施网络攻击活动，可导致信息窃取等严重危害](https://36kr.com/newsflashes/3750893469565442?f=rss)
   - [谷歌现已支持在Google Vids中通过指令操控虚拟形象](https://36kr.com/newsflashes/3750292847166209?f=rss)
 - CERT Recently Published Vulnerability Notes
   - [VU#951662: MuPDF by Artifex contains integer overflow vulnerability.](https://kb.cert.org/vuls/id/951662)
@@ -28,6 +29,8 @@
   - [Gaara — SSH Brute Force + SUID gdb Shell Escape | OffSec PG Play](https://infosecwriteups.com/gaara-ssh-brute-force-suid-gdb-shell-escape-offsec-pg-play-c760afb66e6d?source=rss----7b722bfd1b8d---4)
   - [Prompt Engineering for AI Security: The Skill Every Cybersecurity Fresher Must Learn in 2026](https://infosecwriteups.com/prompt-engineering-for-ai-security-the-skill-every-cybersecurity-fresher-must-learn-in-2026-048f60ca20e4?source=rss----7b722bfd1b8d---4)
   - [Reverse Engineering a WhatsApp 0-Click Vulnerability: A Deep Dive into CVE-2025–43300](https://infosecwriteups.com/reverse-engineering-a-whatsapp-0-click-vulnerability-a-deep-dive-into-cve-2025-43300-d8d425644fe9?source=rss----7b722bfd1b8d---4)
+- NVISO Labs
+  - [The Axios npm supply chain incident: fake dependency, real backdoor](https://blog.nviso.eu/2026/04/03/the-axios-npm-supply-chain-incident-fake-dependency-real-backdoor/)
 - SentinelOne
   - [Securing the Supply Chain: How SentinelOne®’s AI EDR Stops the Axios Attack Autonomously](https://www.sentinelone.com/blog/securing-the-supply-chain-how-sentinelones-ai-edr-stops-the-axios-attack-autonomously/)
 - Sploitus.com Exploits RSS Feed
