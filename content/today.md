@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-04-03）
 
+- 36氪
+  - [谷歌现已支持在Google Vids中通过指令操控虚拟形象](https://36kr.com/newsflashes/3750292847166209?f=rss)
 - CERT Recently Published Vulnerability Notes
   - [VU#951662: MuPDF by Artifex contains integer overflow vulnerability.](https://kb.cert.org/vuls/id/951662)
 - darkreading
