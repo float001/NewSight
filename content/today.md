@@ -1,11 +1,14 @@
 # 今日安全资讯（2026-04-04）
 
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [astrojs/vercel < = 10.0.0 - Unauthenticated x-astro-path Header Path Override](https://cxsecurity.com/issue/WLB-2026040002)
 - Daring Fireball
   - [Apple Releases iOS 18 Security Updates for iOS 26 Holdouts](https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2022-30075 exploit](https://sploitus.com/exploit?id=EFBEE2D7-3F69-52DA-ADD2-9D04ED102E95&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Php exploit](https://sploitus.com/exploit?id=54E57984-67BB-5681-9D6E-61E6EB54CEBC&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Tesla’s Texas factory workforce reportedly shrunk 22% in 2025](https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/)
   - [The final days of the Tesla Model X and S are here. All bets are on the Cybercab.](https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/)
 - VulDB Recent Entries
   - [CVE-2025-68152 | Juju up to 2.9.55/3.6.18 authorization](https://vuldb.com/vuln/355176)
