@@ -8,6 +8,7 @@
   - [Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026](https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026)
 - Data Breach
   - [Hasbro hit by cyberattack, investigates possible data breach](https://securityaffairs.com/190306/security/hasbro-hit-by-cyberattack-investigates-possible-data-breach.html)
+  - [Pro-Iran Handala group breached Israeli defence contractor PSK Wind Technologies](https://securityaffairs.com/190319/data-breach/pro-iran-handala-group-breached-israeli-defence-contractor-psk-wind-technologies.html)
 - defend.network – Daily Threat Briefings
   - [Daily Threat Briefing – April 3, 2026](https://defend.network/briefings/nextjs-credential-harvesting-critical-exploits-2026-04-03.html)
 - Fidelis Security
@@ -41,10 +42,12 @@
   - [Pinterest said he violated laid-off colleagues&#8217; privacy. Now he&#8217;s going public](https://www.theverge.com/policy/906122/pinterest-employee-fired-obstructionist-speaks-out)
 - unSafe.sh - 不安全
   - [10 Things Your First Security Hire Shouldn’t Do – High Signal Security](https://buaq.net/go-407445.html)
+  - [Cloudflare推出开源内容管理系统EmDash 采用现代化安全架构设计](https://buaq.net/go-407457.html)
 - VulDB Recent Entries
   - [CVE-2022-4986 | Belden Hirschmann EagleSDV up to 05.4.0/05.4.1 TLS Connection resource consumption](https://vuldb.com/vuln/355035)
   - [CVE-2025-43238 | Apple macOS up to 13.7.6/14.7.6/15.5 App integer overflow](https://vuldb.com/vuln/355034)
   - [CVE-2025-43257 | Apple macOS up to 15.5 App symlink](https://vuldb.com/vuln/355039)
+  - [CVE-2025-7024 | Airbus PSS TETRA Connectivity Server 7.0 on Windows File default permission](https://vuldb.com/vuln/355082)
   - [CVE-2026-26961 | Rack up to 2.2.22/3.1.20/3.2.5 Content-Type Header Rack::Multipart interpretation conflict (GHSA-vgpv-f759-9wx3)](https://vuldb.com/vuln/354947)
   - [CVE-2026-28815 | Apple macOS up to 4.3.0 out-of-bounds (GHSA-9m44-rr2w-ppp7)](https://vuldb.com/vuln/355055)
   - [CVE-2026-32186 | Microsoft Bing server-side request forgery](https://vuldb.com/vuln/355070)
@@ -78,6 +81,7 @@
   - [CVE-2026-35544 | Roundcube Webmail up to 1.5.13/1.6.13 HTML Mail Message resource transfer](https://vuldb.com/vuln/355058)
   - [CVE-2026-35545 | Roundcube Webmail up to 1.5.14/1.6.14 SVG Content resource transfer](https://vuldb.com/vuln/355059)
   - [CVE-2026-35549 | MariaDB up to 11.4.9/11.8.5/12.2.1 Authentication Plugin caching_sha2_password memory allocation](https://vuldb.com/vuln/355065)
+  - [CVE-2026-4350 | Perfmatters Plugin up to 2.5.9.1 on WordPress PMCS::action_handler delete path traversal](https://vuldb.com/vuln/355081)
   - [CVE-2026-5452 | UCC CampusConnect App up to 14.3.5 on Android campusconnect.ucc BuildConfig.java hard-coded key](https://vuldb.com/vuln/355040)
   - [CVE-2026-5453 | Rico só vantagem pra investir App up to 4.58.32.12421 on Android br.com.rico.mobile SegmentSettingsModule.java SEGMENT_WRITE_KEY hard-coded key](https://vuldb.com/vuln/355041)
   - [CVE-2026-5454 | GRID Organiser App up to 1.0.5 on Android co.gridapp.organiser file res/raw/app.json SegmentWriteKey hard-coded key](https://vuldb.com/vuln/355042)
@@ -86,6 +90,16 @@
   - [CVE-2026-5457 | PropertyGuru AgentNet Singapore App up to 23.7.10 on Android com.allproperty.android.agentnet BuildConfig.java SEGMENT_ANDROID_WRITE_KEY/SEGMENT_TOS_WRITE_KEY hard-coded key](https://vuldb.com/vuln/355045)
   - [CVE-2026-5458 | Noelse Individuals & Pro App up to 2.1.7 on Android com.afone.noelse BuildConfig.java SEGMENT_WRITE_KEY hard-coded key](https://vuldb.com/vuln/355046)
   - [CVE-2026-5463 | Dan McInerney pymetasploit3 up to 1.0.6 console.run_module_with_output command injection](https://vuldb.com/vuln/355061)
+  - [CVE-2026-5467 | Casdoor 2.356.0 OAuth Authorization Request redirect_uri](https://vuldb.com/vuln/355071)
+  - [CVE-2026-5468 | Casdoor 2.356.0 dangerouslySetInnerHTML formCss/formCssMobile/formSideHtml cross site scripting](https://vuldb.com/vuln/355072)
+  - [CVE-2026-5469 | Casdoor 2.356.0 Webhook URL server-side request forgery](https://vuldb.com/vuln/355073)
+  - [CVE-2026-5470 | mixelpixx Google-Research-MCP Model Context Protocol content-extractor.service.ts extractContent URL server-side request forgery](https://vuldb.com/vuln/355074)
+  - [CVE-2026-5471 | Investory Toy Planet Trouble App up to 1.5.5 on Android app.investory.toyfactory google-services-desktop.json current_key hard-coded key](https://vuldb.com/vuln/355075)
+  - [CVE-2026-5472 | ProjectsAndPrograms School Management System up to 6b6fae5426044f89c08d0dd101c7fa71f9042a59 Profile Picture settings.php File unrestricted upload](https://vuldb.com/vuln/355076)
+  - [CVE-2026-5473 | NASA cFS up to 7.0.0 Pickle pickle.load deserialization (Issue 951)](https://vuldb.com/vuln/355077)
+  - [CVE-2026-5474 | NASA cFS up to 7.0.0 CCSDS Packet Header to_lab_passthru_encode.c CFE_MSG_GetSize heap-based overflow (Issue 952)](https://vuldb.com/vuln/355078)
+  - [CVE-2026-5475 | NASA cFS up to 7.0.0 CCSDS Header Size cfe_sb_priv.c CFE_SB_TransmitMsg memory corruption (Issue 953)](https://vuldb.com/vuln/355079)
+  - [CVE-2026-5476 | NASA cFS up to 7.0.0 on 32-bit cfe_tbl_passthru_codec.c CFE_TBL_ValidateCodecLoadSize integer overflow (Issue 954)](https://vuldb.com/vuln/355080)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
   - [国家计算机病毒应急处理中心通报71款应用违规背后：隐私合规风险全面下沉，合规审计刻不容缓](https://www.4hou.com/posts/ompY)
   - [应对iOS安全威胁新挑战，梆梆安全 “源到源” 加固全面护航移动应用安全](https://www.4hou.com/posts/nln5)
