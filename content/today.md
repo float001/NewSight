@@ -42,7 +42,9 @@
   - [Pinterest said he violated laid-off colleagues&#8217; privacy. Now he&#8217;s going public](https://www.theverge.com/policy/906122/pinterest-employee-fired-obstructionist-speaks-out)
 - unSafe.sh - 不安全
   - [10 Things Your First Security Hire Shouldn’t Do – High Signal Security](https://buaq.net/go-407445.html)
+  - [A threat actor who goes by the name "Mr. Raccoon" has claimed to hack Adobe support via 3rd party Indian BPO firm](https://buaq.net/go-407486.html)
   - [Cloudflare推出开源内容管理系统EmDash 采用现代化安全架构设计](https://buaq.net/go-407457.html)
+  - [New RCE in Control Web Panel (CVE-2025-70951)](https://buaq.net/go-407487.html)
 - VulDB Recent Entries
   - [CVE-2022-4986 | Belden Hirschmann EagleSDV up to 05.4.0/05.4.1 TLS Connection resource consumption](https://vuldb.com/vuln/355035)
   - [CVE-2025-43238 | Apple macOS up to 13.7.6/14.7.6/15.5 App integer overflow](https://vuldb.com/vuln/355034)
@@ -100,7 +102,12 @@
   - [CVE-2026-5474 | NASA cFS up to 7.0.0 CCSDS Packet Header to_lab_passthru_encode.c CFE_MSG_GetSize heap-based overflow (Issue 952)](https://vuldb.com/vuln/355078)
   - [CVE-2026-5475 | NASA cFS up to 7.0.0 CCSDS Header Size cfe_sb_priv.c CFE_SB_TransmitMsg memory corruption (Issue 953)](https://vuldb.com/vuln/355079)
   - [CVE-2026-5476 | NASA cFS up to 7.0.0 on 32-bit cfe_tbl_passthru_codec.c CFE_TBL_ValidateCodecLoadSize integer overflow (Issue 954)](https://vuldb.com/vuln/355080)
+- WIRED
+  - [CBP Facility Codes Sure Seem to Have Leaked Via Online Flashcards](https://www.wired.com/story/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
   - [国家计算机病毒应急处理中心通报71款应用违规背后：隐私合规风险全面下沉，合规审计刻不容缓](https://www.4hou.com/posts/ompY)
   - [应对iOS安全威胁新挑战，梆梆安全 “源到源” 加固全面护航移动应用安全](https://www.4hou.com/posts/nln5)
   - [邮件安全网关选型怎么做？企业采购避坑指南与评估清单](https://www.4hou.com/posts/EyrW)
+- 绿盟科技技术博客
+  - [国际认可 | 绿盟科技跻身亚太区OT安全代表厂商](https://blog.nsfocus.net/%e5%9b%bd%e9%99%85%e8%ae%a4%e5%8f%af-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e8%b7%bb%e8%ba%ab%e4%ba%9a%e5%a4%aa%e5%8c%baot%e5%ae%89%e5%85%a8%e4%bb%a3%e8%a1%a8%e5%8e%82%e5%95%86/)
+  - [绿盟科技斩获CSA 2025多项大奖，实力引领AI安全新征程](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%96%a9%e8%8e%b7csa-2025%e5%a4%9a%e9%a1%b9%e5%a4%a7%e5%a5%96%ef%bc%8c%e5%ae%9e%e5%8a%9b%e5%bc%95%e9%a2%86ai%e5%ae%89%e5%85%a8%e6%96%b0%e5%be%81%e7%a8%8b/)
