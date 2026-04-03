@@ -10,6 +10,7 @@
   - [northbridge-honeypot exploit](https://sploitus.com/exploit?id=9EC357D2-B3E8-55F0-9924-62F31D180105&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Tesla’s Texas factory workforce reportedly shrunk 22% in 2025](https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/)
+  - [The anonymous social app that thinks it can work in Saudi Arabia](https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/)
   - [The final days of the Tesla Model X and S are here. All bets are on the Cybercab.](https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/)
 - VulDB Recent Entries
   - [CVE-2017-20237 | Belden Hirschmann Industrial HiVision up to 06.0.06/06.0.6/07.0.02/07.0.2 Master Service improper authentication](https://vuldb.com/vuln/355185)
