@@ -10,6 +10,14 @@
   - [Hasbro hit by cyberattack, investigates possible data breach](https://securityaffairs.com/190306/security/hasbro-hit-by-cyberattack-investigates-possible-data-breach.html)
 - Fidelis Security
   - [Why Network Deception Is Effective for OT Security](https://fidelissecurity.com/threatgeek/network-security/network-deception-for-ot-systems/)
+- Full Disclosure
+  - [[CVE-2026-33691] OWASP CRS whitespace padding bypass	vulnerability](https://seclists.org/fulldisclosure/2026/Apr/0)
+  - [[KIS-2026-06] MetInfo CMS <= 8.1 (weixinreply.class.php) PHP Code Injection Vulnerability](https://seclists.org/fulldisclosure/2026/Apr/1)
+  - [SEC Consult SA-20260326-0 :: Local Privilege Escalation in Vienna Assistant (MacOS) - Vienna Symphonic Library](https://seclists.org/fulldisclosure/2026/Apr/3)
+- HackerNews
+  - [Cisco 修复 IMC 和 SSM 漏洞，可致远程系统入侵](https://hackernews.cc/archives/64027)
+  - [Drift 协议遭黑客夺取安全委员会权限，损失 2.8 亿美元](https://hackernews.cc/archives/64025)
+  - [黑客利用 CVE-2025-55182 入侵 766 台 Next.js 主机窃取凭证](https://hackernews.cc/archives/64026)
 - SentinelOne
   - [Securing the Supply Chain: How SentinelOne®’s AI EDR Stops the Axios Attack Autonomously](https://www.sentinelone.com/blog/securing-the-supply-chain-how-sentinelones-ai-edr-stops-the-axios-attack-autonomously/)
 - Sploitus.com Exploits RSS Feed
