@@ -32,9 +32,15 @@
   - [Reverse Engineering a WhatsApp 0-Click Vulnerability: A Deep Dive into CVE-2025–43300](https://infosecwriteups.com/reverse-engineering-a-whatsapp-0-click-vulnerability-a-deep-dive-into-cve-2025-43300-d8d425644fe9?source=rss----7b722bfd1b8d---4)
 - NVISO Labs
   - [The Axios npm supply chain incident: fake dependency, real backdoor](https://blog.nviso.eu/2026/04/03/the-axios-npm-supply-chain-incident-fake-dependency-real-backdoor/)
+- SANS Internet Storm Center, InfoCON: green
+  - [TeamPCP Supply Chain Campaign: Update 006 - CERT-EU Confirms European Commission Cloud Breach, Sportradar Details Emerge, and Mandiant Quantifies Campaign at 1,000&#x2b; SaaS Environments, (Fri, Apr 3rd)](https://isc.sans.edu/diary/rss/32864)
+- Security Affairs
+  - [CrystalX RAT: new MaaS malware combines spyware, stealer, and remote access](https://securityaffairs.com/190310/cyber-crime/crystalx-rat-new-maas-malware-combines-spyware-stealer-and-remote-access.html)
 - SentinelOne
   - [Securing the Supply Chain: How SentinelOne®’s AI EDR Stops the Axios Attack Autonomously](https://www.sentinelone.com/blog/securing-the-supply-chain-how-sentinelones-ai-edr-stops-the-axios-attack-autonomously/)
   - [The Good, the Bad and the Ugly in Cybersecurity – Week 14](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-14-6/)
+- Simon Willison's Weblog
+  - [The Axios supply chain attack used individually targeted social engineering](https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Code Injection in Apache Ranger exploit](https://sploitus.com/exploit?id=32B15F38-C228-5BA9-BC6C-3CC29F08D5A7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2011-3556 exploit](https://sploitus.com/exploit?id=65908ED3-9DA0-5A00-8811-695FF78742C7&utm_source=rss&utm_medium=rss)
@@ -57,6 +63,7 @@
   - [CVE-2025-43257 | Apple macOS up to 15.5 App symlink](https://vuldb.com/vuln/355039)
   - [CVE-2025-7024 | Airbus PSS TETRA Connectivity Server 7.0 on Windows File default permission](https://vuldb.com/vuln/355082)
   - [CVE-2026-26961 | Rack up to 2.2.22/3.1.20/3.2.5 Content-Type Header Rack::Multipart interpretation conflict (GHSA-vgpv-f759-9wx3)](https://vuldb.com/vuln/354947)
+  - [CVE-2026-27655 | Zoho ManageEngine Exchange Reporter Plus up to 5801 Permissions Based on Mailboxes Report cross site scripting](https://vuldb.com/vuln/355090)
   - [CVE-2026-28703 | Zoho ManageEngine Exchange Reporter Plus up to 5801 Mails Exchanged Between Users Report cross site scripting](https://vuldb.com/vuln/355086)
   - [CVE-2026-28754 | Zoho ManageEngine Exchange Reporter Plus up to 5801 Distribution Lists Report cross site scripting](https://vuldb.com/vuln/355083)
   - [CVE-2026-28756 | Zoho ManageEngine Exchange Reporter Plus up to 5801 Distribution Groups Report cross site scripting](https://vuldb.com/vuln/355084)
@@ -115,6 +122,7 @@
   - [CVE-2026-5474 | NASA cFS up to 7.0.0 CCSDS Packet Header to_lab_passthru_encode.c CFE_MSG_GetSize heap-based overflow (Issue 952)](https://vuldb.com/vuln/355078)
   - [CVE-2026-5475 | NASA cFS up to 7.0.0 CCSDS Header Size cfe_sb_priv.c CFE_SB_TransmitMsg memory corruption (Issue 953)](https://vuldb.com/vuln/355079)
   - [CVE-2026-5476 | NASA cFS up to 7.0.0 on 32-bit cfe_tbl_passthru_codec.c CFE_TBL_ValidateCodecLoadSize integer overflow (Issue 954)](https://vuldb.com/vuln/355080)
+  - [CVE-2026-5484 | BookStackApp BookStack up to 26.03 Chapter Export ExportFormatter.php chapterToMarkdown pages access control](https://vuldb.com/vuln/355091)
 - WIRED
   - [CBP Facility Codes Sure Seem to Have Leaked Via Online Flashcards](https://www.wired.com/story/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
