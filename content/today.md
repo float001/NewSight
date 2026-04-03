@@ -2,6 +2,7 @@
 
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2022-30075 exploit](https://sploitus.com/exploit?id=EFBEE2D7-3F69-52DA-ADD2-9D04ED102E95&utm_source=rss&utm_medium=rss)
+  - [Exploit for OS Command Injection in Php exploit](https://sploitus.com/exploit?id=54E57984-67BB-5681-9D6E-61E6EB54CEBC&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [The final days of the Tesla Model X and S are here. All bets are on the Cybercab.](https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/)
 - VulDB Recent Entries
