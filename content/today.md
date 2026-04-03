@@ -34,6 +34,7 @@
 - SentinelOne
   - [Securing the Supply Chain: How SentinelOne®’s AI EDR Stops the Axios Attack Autonomously](https://www.sentinelone.com/blog/securing-the-supply-chain-how-sentinelones-ai-edr-stops-the-axios-attack-autonomously/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Code Injection in Apache Ranger exploit](https://sploitus.com/exploit?id=32B15F38-C228-5BA9-BC6C-3CC29F08D5A7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2011-3556 exploit](https://sploitus.com/exploit?id=65908ED3-9DA0-5A00-8811-695FF78742C7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-28767 exploit](https://sploitus.com/exploit?id=99BCD30E-0C37-56F5-ACF1-88ECFDD410F1&utm_source=rss&utm_medium=rss)
   - [mansstimap exploit](https://sploitus.com/exploit?id=BD0E3E42-269A-5185-BAC3-ED252758647C&utm_source=rss&utm_medium=rss)
