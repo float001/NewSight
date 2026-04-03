@@ -8,6 +8,8 @@
   - [Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026](https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026)
 - Data Breach
   - [Hasbro hit by cyberattack, investigates possible data breach](https://securityaffairs.com/190306/security/hasbro-hit-by-cyberattack-investigates-possible-data-breach.html)
+- defend.network – Daily Threat Briefings
+  - [Daily Threat Briefing – April 3, 2026](https://defend.network/briefings/nextjs-credential-harvesting-critical-exploits-2026-04-03.html)
 - Fidelis Security
   - [Why Network Deception Is Effective for OT Security](https://fidelissecurity.com/threatgeek/network-security/network-deception-for-ot-systems/)
 - Full Disclosure
@@ -37,6 +39,8 @@
   - [Google now lets you direct avatars through prompts in its Vids app](https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/)
 - The Verge
   - [Pinterest said he violated laid-off colleagues&#8217; privacy. Now he&#8217;s going public](https://www.theverge.com/policy/906122/pinterest-employee-fired-obstructionist-speaks-out)
+- unSafe.sh - 不安全
+  - [10 Things Your First Security Hire Shouldn’t Do – High Signal Security](https://buaq.net/go-407445.html)
 - VulDB Recent Entries
   - [CVE-2022-4986 | Belden Hirschmann EagleSDV up to 05.4.0/05.4.1 TLS Connection resource consumption](https://vuldb.com/vuln/355035)
   - [CVE-2025-43238 | Apple macOS up to 13.7.6/14.7.6/15.5 App integer overflow](https://vuldb.com/vuln/355034)
@@ -82,3 +86,7 @@
   - [CVE-2026-5457 | PropertyGuru AgentNet Singapore App up to 23.7.10 on Android com.allproperty.android.agentnet BuildConfig.java SEGMENT_ANDROID_WRITE_KEY/SEGMENT_TOS_WRITE_KEY hard-coded key](https://vuldb.com/vuln/355045)
   - [CVE-2026-5458 | Noelse Individuals & Pro App up to 2.1.7 on Android com.afone.noelse BuildConfig.java SEGMENT_WRITE_KEY hard-coded key](https://vuldb.com/vuln/355046)
   - [CVE-2026-5463 | Dan McInerney pymetasploit3 up to 1.0.6 console.run_module_with_output command injection](https://vuldb.com/vuln/355061)
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [国家计算机病毒应急处理中心通报71款应用违规背后：隐私合规风险全面下沉，合规审计刻不容缓](https://www.4hou.com/posts/ompY)
+  - [应对iOS安全威胁新挑战，梆梆安全 “源到源” 加固全面护航移动应用安全](https://www.4hou.com/posts/nln5)
+  - [邮件安全网关选型怎么做？企业采购避坑指南与评估清单](https://www.4hou.com/posts/EyrW)
