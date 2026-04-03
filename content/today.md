@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-04-04）
 
+- Daring Fireball
+  - [Apple Releases iOS 18 Security Updates for iOS 26 Holdouts](https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2022-30075 exploit](https://sploitus.com/exploit?id=EFBEE2D7-3F69-52DA-ADD2-9D04ED102E95&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Php exploit](https://sploitus.com/exploit?id=54E57984-67BB-5681-9D6E-61E6EB54CEBC&utm_source=rss&utm_medium=rss)
