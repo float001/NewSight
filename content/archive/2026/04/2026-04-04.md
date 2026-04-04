@@ -16,6 +16,8 @@
   - [Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit)
 - Posts on Bruce on AI Engineering
   - [Claw Code: The Open-Source Claude Code Rewrite That Hit 100K Stars in Hours](http://www.heyuan110.com/posts/ai/2026-04-04-claw-code-open-source-agent/)
+- Security Affairs
+  - [European Commission breach exposed data of 30 EU entities, CERT-EU says](https://securityaffairs.com/190333/security/european-commission-breach-exposed-data-of-30-eu-entities-cert-eu-says.html)
 - Simon Willison's Weblog
   - [Vulnerability Research Is Cooked](https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything)
 - Sploitus.com Exploits RSS Feed
