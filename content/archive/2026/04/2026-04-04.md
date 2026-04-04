@@ -8,6 +8,8 @@
   - [Triple Header for Privacy’s Defender in New York](https://www.eff.org/deeplinks/2026/04/triple-header-privacys-defender-new-york)
 - Emergent Minds | paddo.dev
   - [The Claude Code Leak: What the Harness Actually Looks Like](https://paddo.dev/blog/claude-code-leak-harness-exposed/)
+- Hacker News: Front Page
+  - [Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit)
 - Posts on Bruce on AI Engineering
   - [Claw Code: The Open-Source Claude Code Rewrite That Hit 100K Stars in Hours](http://www.heyuan110.com/posts/ai/2026-04-04-claw-code-open-source-agent/)
 - Simon Willison's Weblog
