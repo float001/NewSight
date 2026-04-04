@@ -26,12 +26,16 @@
   - [Vulnerability Research Is Cooked](https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2022-30075 exploit](https://sploitus.com/exploit?id=EFBEE2D7-3F69-52DA-ADD2-9D04ED102E95&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-35570 exploit](https://sploitus.com/exploit?id=AAC8C502-E455-5C6C-904F-FD057A49F833&utm_source=rss&utm_medium=rss)
+  - [Exploit for Deserialization of Untrusted Data in Linuxfoundation Opentelemetry_Instrumentation_For_Java exploit](https://sploitus.com/exploit?id=FA5008C0-9788-5878-80A4-8AC429DFB043&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Php exploit](https://sploitus.com/exploit?id=54E57984-67BB-5681-9D6E-61E6EB54CEBC&utm_source=rss&utm_medium=rss)
   - [northbridge-honeypot exploit](https://sploitus.com/exploit?id=9EC357D2-B3E8-55F0-9924-62F31D180105&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Tesla’s Texas factory workforce reportedly shrunk 22% in 2025](https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/)
   - [The anonymous social app that thinks it can work in Saudi Arabia](https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/)
   - [The final days of the Tesla Model X and S are here. All bets are on the Cybercab.](https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/)
+- The Decoder
+  - [Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind](https://the-decoder.com/netflix-open-sources-void-an-ai-framework-that-erases-video-objects-and-rewrites-the-physics-they-left-behind/)
 - VulDB Recent Entries
   - [CVE-2016-15058 | Belden Hirschmann HiLCOS Classic Platform up to 05.3.06/05.3.6/09.0.05/09.0.5 SNMP password recoverable](https://vuldb.com/vuln/355275)
   - [CVE-2017-20234 | Belden GarrettCom Magnum 6K Managed Switch up to 4.6.0/4.7.6 hard-coded credentials](https://vuldb.com/vuln/355247)
