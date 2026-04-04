@@ -34,4 +34,5 @@
   - [CVE-2018-25253 | Compuphase Termite 3.4 User Interface Language out-of-bounds write (Exploit 45453 / EDB-45453)](https://vuldb.com/vuln/355374)
   - [CVE-2018-25254 | NICO-FTP 3.0.1.19 FTP Service out-of-bounds write (Exploit 45442 / EDB-45442)](https://vuldb.com/vuln/355372)
   - [CVE-2018-25255 | 10-Strike LANState 8.8 LSM Map File Parser ObjCaption out-of-bounds write (Exploit 45086 / EDB-45086)](https://vuldb.com/vuln/355378)
+  - [CVE-2026-5583 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /my-profile.php fullname sql injection](https://vuldb.com/vuln/355380)
   - [VDB-355351 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /order-details.php orderid sql injection](https://vuldb.com/vuln/355351)
