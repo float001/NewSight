@@ -37,4 +37,8 @@
   - [CVE-2018-25254 | NICO-FTP 3.0.1.19 FTP Service out-of-bounds write (Exploit 45442 / EDB-45442)](https://vuldb.com/vuln/355372)
   - [CVE-2018-25255 | 10-Strike LANState 8.8 LSM Map File Parser ObjCaption out-of-bounds write (Exploit 45086 / EDB-45086)](https://vuldb.com/vuln/355378)
   - [CVE-2026-5583 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /my-profile.php fullname sql injection](https://vuldb.com/vuln/355380)
+  - [CVE-2026-5584 | Fosowl agenticSeek 0.1.0 query Endpoint PyInterpreter.py PyInterpreter.execute code injection](https://vuldb.com/vuln/355383)
+  - [CVE-2026-5585 | Tencent AI-Infra-Guard 4.0 Task Detail Endpoint task_manager.go information disclosure](https://vuldb.com/vuln/355384)
+  - [CVE-2026-5586 | zhongyu09 openchatbi up to 0.2.1 Multi-stage Text2SQL Workflow keywords sql injection](https://vuldb.com/vuln/355385)
+  - [CVE-2026-5587 | wbbeyourself MAC-SQL up to 31a9df5e0d520be4769be57a4b9022e5e34a14f4 Refiner Agent core/agents.py _execute_sql sql injection](https://vuldb.com/vuln/355386)
   - [VDB-355351 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /order-details.php orderid sql injection](https://vuldb.com/vuln/355351)
