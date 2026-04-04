@@ -4,6 +4,12 @@
   - [astrojs/vercel < = 10.0.0 - Unauthenticated x-astro-path Header Path Override](https://cxsecurity.com/issue/WLB-2026040002)
 - Daring Fireball
   - [Apple Releases iOS 18 Security Updates for iOS 26 Holdouts](https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/)
+- Deeplinks
+  - [Triple Header for Privacy’s Defender in New York](https://www.eff.org/deeplinks/2026/04/triple-header-privacys-defender-new-york)
+- Emergent Minds | paddo.dev
+  - [The Claude Code Leak: What the Harness Actually Looks Like](https://paddo.dev/blog/claude-code-leak-harness-exposed/)
+- Simon Willison's Weblog
+  - [Vulnerability Research Is Cooked](https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2022-30075 exploit](https://sploitus.com/exploit?id=EFBEE2D7-3F69-52DA-ADD2-9D04ED102E95&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Php exploit](https://sploitus.com/exploit?id=54E57984-67BB-5681-9D6E-61E6EB54CEBC&utm_source=rss&utm_medium=rss)
