@@ -14,6 +14,10 @@
   - [The Claude Code Leak: What the Harness Actually Looks Like](https://paddo.dev/blog/claude-code-leak-harness-exposed/)
 - Hacker News: Front Page
   - [Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit)
+- InfoSec Write-ups - Medium
+  - [Getting started with Wazuh: Understanding SIEM and Real-Time Security Monitoring](https://infosecwriteups.com/introduction-to-siem-and-wazuh-architecture-components-why-it-matters-8f29d30c9f70?source=rss----7b722bfd1b8d---4)
+  - [GraphQL Security: How I Found and Exploited Critical IDOR and Authorization Bypass in a…](https://infosecwriteups.com/graphql-security-how-i-found-and-exploited-critical-idor-and-authorization-bypass-in-a-42ab78e13642?source=rss----7b722bfd1b8d---4)
+  - [How I Simulated a Supply Chain Attack on Thousands of Servers — and Made $25K](https://infosecwriteups.com/how-i-simulated-a-supply-chain-attack-on-thousands-of-servers-and-made-25k-7d36647cbf36?source=rss----7b722bfd1b8d---4)
 - Posts on Bruce on AI Engineering
   - [Claw Code: The Open-Source Claude Code Rewrite That Hit 100K Stars in Hours](http://www.heyuan110.com/posts/ai/2026-04-04-claw-code-open-source-agent/)
 - Security Affairs
@@ -80,6 +84,7 @@
   - [CVE-2026-23472 | Linux Kernel up to 6.18.19/6.19.9/7.0-rc4 serial handle_tx infinite loop](https://vuldb.com/vuln/355140)
   - [CVE-2026-23473 | Linux Kernel up to 6.18.19/6.19.9/7.0-rc4 shutdown state issue](https://vuldb.com/vuln/355161)
   - [CVE-2026-23475 | Linux Kernel up to 7.0-rc4 spi null pointer dereference](https://vuldb.com/vuln/355165)
+  - [CVE-2026-2437 | wptravelengine WP Travel Engine Plugin up to 6.7.5 on WordPress Shortcode wte_trip_tax cross site scripting](https://vuldb.com/vuln/355306)
   - [CVE-2026-25043 | Budibase up to 3.23.24 Forgot Password allocation of resources](https://vuldb.com/vuln/355178)
   - [CVE-2026-25044 | Budibase up to 3.33.3 os command injection](https://vuldb.com/vuln/355180)
   - [CVE-2026-25118 | immich-app immich up to 2.5.x URL Query Parameter /api/shared-links/me get request method with sensitive query strings](https://vuldb.com/vuln/355175)
@@ -94,6 +99,7 @@
   - [CVE-2026-27634 | Piwigo up to 16.2.x ws_std_image_sql_filter sql injection (GHSA-mgqc-3445-qghq)](https://vuldb.com/vuln/355221)
   - [CVE-2026-27833 | Piwigo up to 16.2.x Browsing History pwg.history.search authorization (GHSA-397m-gfhm-pmg2)](https://vuldb.com/vuln/355222)
   - [CVE-2026-27834 | Piwigo up to 16.2.x List Web Service pwg.users.getList filter sql injection (GHSA-5jwg-cr5q-vjq2)](https://vuldb.com/vuln/355223)
+  - [CVE-2026-2826 | stellarwp Kadence Blocks Plugin up to 3.6.3 on WordPress REST API Endpoint process_pattern upload_files authorization](https://vuldb.com/vuln/355307)
   - [CVE-2026-28373 | Stackfield Desktop App up to 1.10.1 on macOS filePath path traversal](https://vuldb.com/vuln/355184)
   - [CVE-2026-28766 | Gardyn Cloud API prior 2.12.2026 Account Information missing authentication (icsa-26-055-03)](https://vuldb.com/vuln/355209)
   - [CVE-2026-28767 | Gardyn Cloud API up to 2.12.2025 Administrative Endpoint missing authentication (icsa-26-055-03)](https://vuldb.com/vuln/355201)
@@ -122,6 +128,7 @@
   - [CVE-2026-33709 | Jupyter Notbook up to 5.4.3 Jupyterhub redirect (GHSA-3vff-hjqv-m7h8)](https://vuldb.com/vuln/355274)
   - [CVE-2026-33752 | curl_cffi prior 0.15.0 redirect](https://vuldb.com/vuln/355278)
   - [CVE-2026-34052 | jupyterhub ltiauthenticator up to 1.6.2 memory leak (GHSA-8mxq-7xr7-2fxj)](https://vuldb.com/vuln/355272)
+  - [CVE-2026-3445 | properfraction Paid Membership Plugin, Ecommerce, User Registration Form, Login Form, User Profile & Restrict Content Plugin process_checkout authorization](https://vuldb.com/vuln/355308)
   - [CVE-2026-34511 | OpenClaw up to 2026.4.1 Parameter random values](https://vuldb.com/vuln/355200)
   - [CVE-2026-34607 | Emlog up to 2.6.2 ZIP include/lib/common.php emUnZip path traversal (GHSA-2jg8-rmhm-xv9m)](https://vuldb.com/vuln/355246)
   - [CVE-2026-34612 | kestra-io kestra up to 1.3.6 Endpoint search sql injection (GHSA-365w-2m69-mp9x)](https://vuldb.com/vuln/355248)
@@ -164,6 +171,7 @@
   - [CVE-2026-35562 | Amazon Athena ODBC Driver prior 2.1.0.0 Parsing allocation of resources](https://vuldb.com/vuln/355203)
   - [CVE-2026-35616 | Fortinet FortiClientEMS up to 7.4.6 access control (FG-IR-26-099)](https://vuldb.com/vuln/355225)
   - [CVE-2026-3571 | genetechproducts Pie Register Plugin up to 3.8.4.8 on WordPress pie_main authorization](https://vuldb.com/vuln/355217)
+  - [CVE-2026-5425 | trustindex Widgets for Social Photo Feed Plugin up to 1.7.9 on WordPress feed_data cross site scripting](https://vuldb.com/vuln/355309)
   - [CVE-2026-5485 | Amazon Athena ODBC Driver prior 2.0.5.1 on Linux Browser-based Authentication os command injection](https://vuldb.com/vuln/355205)
   - [CVE-2026-5526 | Tenda 4G03 Pro up to 1.0/1.1/04.03.01.53/192.168.0.1 /bin/httpd access control](https://vuldb.com/vuln/355279)
   - [CVE-2026-5527 | Tenda 4G03 Pro 1.0/1.0re/01.bin/04.03.01.53 ECDSA P-256 Private Key /etc/www/pem/server.key hard-coded key](https://vuldb.com/vuln/355280)
@@ -179,6 +187,7 @@
   - [CVE-2026-5537 | halex CourseSEL up to 1.1.0 HTTP GET Parameter IndexController.class.php check_sel seid sql injection](https://vuldb.com/vuln/355290)
   - [CVE-2026-5538 | QingdaoU OnlineJudge up to 1.6.1 judge_server_heartbeat Endpoint JudgeServer.service_url server-side request forgery](https://vuldb.com/vuln/355291)
 - WIRED
+  - [Hackers Are Posting the Claude Code Leak With Bonus Malware](https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/)
   - [Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/)
 - 爱范儿
   - [早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规](https://www.ifanr.com/1661050?utm_source=rss&utm_medium=rss&utm_campaign=)
