@@ -1,11 +1,15 @@
 # 今日安全资讯（2026-04-04）
 
+- 2Libra 社区 - 今日热议
+  - [关于及时更新 iOS 特定版本 防范漏洞攻击利用的风险提示](https://2libra.com/post/network-security/6NvA_-r)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [astrojs/vercel < = 10.0.0 - Unauthenticated x-astro-path Header Path Override](https://cxsecurity.com/issue/WLB-2026040002)
 - Daring Fireball
   - [Apple Releases iOS 18 Security Updates for iOS 26 Holdouts](https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/)
 - Deeplinks
   - [Triple Header for Privacy’s Defender in New York](https://www.eff.org/deeplinks/2026/04/triple-header-privacys-defender-new-york)
+- defend.network – Daily Threat Briefings
+  - [Daily Threat Briefing – April 4, 2026](https://defend.network/briefings/trueconf-ta416-unc1069-supply-chain-2026-04-04.html)
 - Emergent Minds | paddo.dev
   - [The Claude Code Leak: What the Harness Actually Looks Like](https://paddo.dev/blog/claude-code-leak-harness-exposed/)
 - Hacker News: Front Page
@@ -23,6 +27,7 @@
   - [The anonymous social app that thinks it can work in Saudi Arabia](https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/)
   - [The final days of the Tesla Model X and S are here. All bets are on the Cybercab.](https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/)
 - VulDB Recent Entries
+  - [CVE-2016-15058 | Belden Hirschmann HiLCOS Classic Platform up to 05.3.06/05.3.6/09.0.05/09.0.5 SNMP password recoverable](https://vuldb.com/vuln/355275)
   - [CVE-2017-20234 | Belden GarrettCom Magnum 6K Managed Switch up to 4.6.0/4.7.6 hard-coded credentials](https://vuldb.com/vuln/355247)
   - [CVE-2017-20235 | ProSoft ICX35-HWC Cellular Gateway up to 1.0/1.1/1.1d/1.2/1.2.x Web User Interface improper authentication](https://vuldb.com/vuln/355243)
   - [CVE-2017-20236 | ProSoft ICX35-HWC Cellular Gateway up to 1.0/1.1/1.1d/1.2/1.2.x Web User Interface os command injection](https://vuldb.com/vuln/355238)
@@ -111,6 +116,10 @@
   - [CVE-2026-31818 | budibase up to 3.33.3 Environment Variable blacklist BLACKLIST_IPS server-side request forgery](https://vuldb.com/vuln/355182)
   - [CVE-2026-32646 | Gardyn Cloud API prior 2.12.2026 Device Management missing authentication (icsa-26-055-03)](https://vuldb.com/vuln/355206)
   - [CVE-2026-32662 | Gardyn Cloud API prior 2.12.2026 Test API Endpoint debug code (icsa-26-055-03)](https://vuldb.com/vuln/355207)
+  - [CVE-2026-33175 | jupyterhub oauthenticator up to 17.3.x usrname_claim improper authentication (GHSA-rrvg-cxh4-qhrv)](https://vuldb.com/vuln/355273)
+  - [CVE-2026-33709 | Jupyter Notbook up to 5.4.3 Jupyterhub redirect (GHSA-3vff-hjqv-m7h8)](https://vuldb.com/vuln/355274)
+  - [CVE-2026-33752 | curl_cffi prior 0.15.0 redirect](https://vuldb.com/vuln/355278)
+  - [CVE-2026-34052 | jupyterhub ltiauthenticator up to 1.6.2 memory leak (GHSA-8mxq-7xr7-2fxj)](https://vuldb.com/vuln/355272)
   - [CVE-2026-34511 | OpenClaw up to 2026.4.1 Parameter random values](https://vuldb.com/vuln/355200)
   - [CVE-2026-34607 | Emlog up to 2.6.2 ZIP include/lib/common.php emUnZip path traversal (GHSA-2jg8-rmhm-xv9m)](https://vuldb.com/vuln/355246)
   - [CVE-2026-34612 | kestra-io kestra up to 1.3.6 Endpoint search sql injection (GHSA-365w-2m69-mp9x)](https://vuldb.com/vuln/355248)
@@ -141,6 +150,8 @@
   - [CVE-2026-34979 | OpenPrinting CUPS up to 2.4.16 on Linux Attributes heap-based overflow](https://vuldb.com/vuln/355212)
   - [CVE-2026-34980 | OpenPrinting CUPS up to 2.4.16 on Linux /usr/bin/vim page-border input validation](https://vuldb.com/vuln/355213)
   - [CVE-2026-34990 | OpenPrinting CUPS up to 2.4.16 on Linux IPP Service /admin/ improper authentication](https://vuldb.com/vuln/355214)
+  - [CVE-2026-35042 | nearform fast-jwt crit Header Extension data authenticity](https://vuldb.com/vuln/355277)
+  - [CVE-2026-35043 | BentoML up to 1.4.37 command injection](https://vuldb.com/vuln/355276)
   - [CVE-2026-35214 | budibase up to 3.33.3 Plugin File Upload Endpoint /api/plugin/upload createTempFolder path traversal](https://vuldb.com/vuln/355181)
   - [CVE-2026-35216 | Budibase up to 3.33.3 Public Webhook Endpoint os command injection](https://vuldb.com/vuln/355174)
   - [CVE-2026-35218 | Budibase up to 3.32.4 cross site scripting](https://vuldb.com/vuln/355179)
@@ -152,6 +163,19 @@
   - [CVE-2026-35616 | Fortinet FortiClientEMS up to 7.4.6 access control (FG-IR-26-099)](https://vuldb.com/vuln/355225)
   - [CVE-2026-3571 | genetechproducts Pie Register Plugin up to 3.8.4.8 on WordPress pie_main authorization](https://vuldb.com/vuln/355217)
   - [CVE-2026-5485 | Amazon Athena ODBC Driver prior 2.0.5.1 on Linux Browser-based Authentication os command injection](https://vuldb.com/vuln/355205)
+  - [CVE-2026-5526 | Tenda 4G03 Pro up to 1.0/1.1/04.03.01.53/192.168.0.1 /bin/httpd access control](https://vuldb.com/vuln/355279)
+  - [CVE-2026-5527 | Tenda 4G03 Pro 1.0/1.0re/01.bin/04.03.01.53 ECDSA P-256 Private Key /etc/www/pem/server.key hard-coded key](https://vuldb.com/vuln/355280)
+  - [CVE-2026-5528 | MoussaabBadla code-screenshot-mcp up to 0.1.0 HTTP Interface os command injection](https://vuldb.com/vuln/355281)
+  - [CVE-2026-5529 | Dromara lamp-cloud up to 5.8.1 DefUserController /defUser/pageUser improper authorization (Issue 403)](https://vuldb.com/vuln/355282)
+  - [CVE-2026-5530 | Ollama up to 18.1 Model Pull API server/download.go server-side request forgery](https://vuldb.com/vuln/355283)
+  - [CVE-2026-5531 | SourceCodester Student Result Management System 1.0 HTTP GET Request /login_credentials.txt cleartext storage in file](https://vuldb.com/vuln/355284)
+  - [CVE-2026-5532 | ScrapeGraphAI scrapegraph-ai up to 1.74.0 GenerateCodeNode generate_code_node.py create_sandbox_and_execute os command injection](https://vuldb.com/vuln/355285)
+  - [CVE-2026-5533 | badlogic pi-mono 0.58.4 SVG Artifact SvgArtifact.ts cross site scripting](https://vuldb.com/vuln/355286)
+  - [CVE-2026-5534 | itsourcecode Online Enrollment System 1.0 Parameter index.php?view=edit&id=10 USERID sql injection](https://vuldb.com/vuln/355287)
+  - [CVE-2026-5535 | FedML-AI FedML up to 0.8.9 MQTT Message FileUtils.java dataSet path traversal](https://vuldb.com/vuln/355288)
+  - [CVE-2026-5536 | FedML-AI FedML up to 0.8.9 gRPC server grpc_server.py sendMessage deserialization](https://vuldb.com/vuln/355289)
+  - [CVE-2026-5537 | halex CourseSEL up to 1.1.0 HTTP GET Parameter IndexController.class.php check_sel seid sql injection](https://vuldb.com/vuln/355290)
+  - [CVE-2026-5538 | QingdaoU OnlineJudge up to 1.6.1 judge_server_heartbeat Endpoint JudgeServer.service_url server-side request forgery](https://vuldb.com/vuln/355291)
 - WIRED
   - [Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/)
 - 爱范儿
