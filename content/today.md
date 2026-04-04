@@ -110,3 +110,5 @@
   - [CVE-2026-5485 | Amazon Athena ODBC Driver prior 2.0.5.1 on Linux Browser-based Authentication os command injection](https://vuldb.com/vuln/355205)
 - WIRED
   - [Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/)
+- 爱范儿
+  - [早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规](https://www.ifanr.com/1661050?utm_source=rss&utm_medium=rss&utm_campaign=)
