@@ -1,3 +1,6 @@
 # 今日安全资讯（2026-04-05）
 
-- （今日暂无安全相关资讯）
+- Security Affairs
+  - [U.S. CISA adds a flaw in TrueConf Client to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190341/security/u-s-cisa-adds-a-flaw-in-trueconf-client-to-its-known-exploited-vulnerabilities-catalog.html)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Improper Access Control in Apple Ipados exploit](https://sploitus.com/exploit?id=F051ED78-D8F8-5405-8F3B-4267EBD7EF5B&utm_source=rss&utm_medium=rss)
