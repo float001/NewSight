@@ -4,6 +4,7 @@
   - [Qilin ransomware group claims the hack of German political party Die Linke](https://securityaffairs.com/190348/cyber-crime/qilin-ransomware-group-claims-the-hack-of-german-political-party-die-linke.html)
   - [U.S. CISA adds a flaw in TrueConf Client to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190341/security/u-s-cisa-adds-a-flaw-in-trueconf-client-to-its-known-exploited-vulnerabilities-catalog.html)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=777F12FB-1BE9-5947-837A-ED429B22F860&utm_source=rss&utm_medium=rss)
   - [Exploit for Download of Code Without Integrity Check in Trueconf exploit](https://sploitus.com/exploit?id=5503E402-016F-51EB-9253-38633A81E887&utm_source=rss&utm_medium=rss)
   - [Exploit for Download of Code Without Integrity Check in Trueconf exploit](https://sploitus.com/exploit?id=B1EFAF42-971D-51E8-8CFF-84E124F0E21B&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Apple Ipados exploit](https://sploitus.com/exploit?id=F051ED78-D8F8-5405-8F3B-4267EBD7EF5B&utm_source=rss&utm_medium=rss)
