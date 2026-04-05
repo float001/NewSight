@@ -14,6 +14,7 @@
 - Security Affairs
   - [Image or Malware? Read until the end and answer in comments :)](https://securityaffairs.com/190358/hacking/image-or-malware-read-until-the-end-and-answer-in-comments.html)
   - [Qilin ransomware group claims the hack of German political party Die Linke](https://securityaffairs.com/190348/cyber-crime/qilin-ransomware-group-claims-the-hack-of-german-political-party-die-linke.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 91](https://securityaffairs.com/190379/malware/security-affairs-malware-newsletter-round-91.html)
   - [Security Affairs newsletter Round 571 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190368/breaking-news/security-affairs-newsletter-round-571-by-pierluigi-paganini-international-edition.html)
   - [U.S. CISA adds a flaw in TrueConf Client to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190341/security/u-s-cisa-adds-a-flaw-in-trueconf-client-to-its-known-exploited-vulnerabilities-catalog.html)
 - Sploitus.com Exploits RSS Feed
