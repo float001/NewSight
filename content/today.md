@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-04-06）
 
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Cross-site Scripting in Exclusiveaddons Exclusive_Addons_For_Elementor exploit](https://sploitus.com/exploit?id=760AA541-F884-533C-AC70-03F329FB8556&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-1738 exploit](https://sploitus.com/exploit?id=43758981-1543-55AD-AF4B-E1D0B68CAC77&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-23398 exploit](https://sploitus.com/exploit?id=7AE7B121-B287-5FC3-882E-E33709C2E5BA&utm_source=rss&utm_medium=rss)
 - TechCrunch
