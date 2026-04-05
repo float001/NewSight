@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-04-05）
 
+- 2Libra 社区 - 今日热议
+  - [今日关于能源供应链的三条新闻](https://2libra.com/post/social-observation/ZO-J4Qf)
 - Daring Fireball
   - [Material Security](https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball)
 - Security Affairs
