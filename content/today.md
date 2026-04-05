@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-04-05）
 
+- Daring Fireball
+  - [Material Security](https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball)
 - Security Affairs
   - [Qilin ransomware group claims the hack of German political party Die Linke](https://securityaffairs.com/190348/cyber-crime/qilin-ransomware-group-claims-the-hack-of-german-political-party-die-linke.html)
   - [U.S. CISA adds a flaw in TrueConf Client to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190341/security/u-s-cisa-adds-a-flaw-in-trueconf-client-to-its-known-exploited-vulnerabilities-catalog.html)
