@@ -6,6 +6,8 @@
   - [Material Security](https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball)
 - defend.network – Daily Threat Briefings
   - [Daily Threat Briefing ��� April 5, 2026](https://defend.network/briefings/ta416-unc1069-supply-chain-critical-2026-04-05.html)
+- Hacker News: Front Page
+  - [Iguanaworks has closed down. USB Infrared hardware open source maker](http://iguanaworks.net/products/usb-ir-transceiver.html)
 - InfoSec Write-ups - Medium
   - [Inside SC-200: What It Takes to Become a Microsoft Security Analyst](https://infosecwriteups.com/inside-sc-200-what-it-takes-to-become-a-microsoft-security-analyst-16391c166025?source=rss----7b722bfd1b8d---4)
   - [The Invisible Threat: Detecting Early-Stage Phishing & Scam Campaigns](https://infosecwriteups.com/the-invisible-threat-detecting-early-stage-phishing-scam-campaigns-c5d36ef97336?source=rss----7b722bfd1b8d---4)
@@ -71,6 +73,9 @@
   - [CVE-2026-5595 | griptape-ai griptape 0.19.4 FileManagerTool path traversal](https://vuldb.com/vuln/355389)
   - [CVE-2026-5596 | griptape-ai griptape 0.19.4 SqlTool tool.py sql injection](https://vuldb.com/vuln/355390)
   - [CVE-2026-5597 | griptape-ai griptape 0.19.4 ComputerTool tool.py filename path traversal](https://vuldb.com/vuln/355391)
+  - [CVE-2026-5599 | pretix Venueless API improper isolation or compartmentalization (02b9cbe5)](https://vuldb.com/vuln/355392)
+  - [CVE-2026-5601 | Acrel Electrical Prepaid Cloud Platform 1.0 Backup File /bin.rar information disclosure](https://vuldb.com/vuln/355393)
+  - [CVE-2026-5602 | Nor2-io heim-mcp up to 0.1.3 new_heim_application src/tools.ts registerTools os command injection](https://vuldb.com/vuln/355394)
   - [VDB-355351 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /order-details.php orderid sql injection](https://vuldb.com/vuln/355351)
 - WIRED
   - [The Hack That Exposed Syria’s Sweeping Security Failures](https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/)
