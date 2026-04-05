@@ -23,6 +23,9 @@
   - [JWT-PHANTOM exploit](https://sploitus.com/exploit?id=A5EC38C8-004D-5850-BB66-A95E70DB3524&utm_source=rss&utm_medium=rss)
 - The Decoder
   - [AI chatbot traffic grows seven times faster than social media but still trails by a factor of four](https://the-decoder.com/ai-chatbot-traffic-grows-seven-times-faster-than-social-media-but-still-trails-by-a-factor-of-four/)
+  - [AI offensive cyber capabilities are doubling every six months, safety researchers find](https://the-decoder.com/ai-offensive-cyber-capabilities-are-doubling-every-six-months-safety-researchers-find/)
+- unSafe.sh - 不安全
+  - [starting Hacking](https://buaq.net/go-407833.html)
 - VulDB Recent Entries
   - [CVE-2016-20050 | Foundstone NetSchedScan 1.0 Hostname/IP out-of-bounds write (Exploit 39242 / EDB-39242)](https://vuldb.com/vuln/355362)
   - [CVE-2016-20051 | Snews CMS 1.7 username/password cross-site request forgery (Exploit 40705 / EDB-40705)](https://vuldb.com/vuln/355369)
