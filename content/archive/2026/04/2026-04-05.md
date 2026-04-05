@@ -4,6 +4,8 @@
   - [今日关于能源供应链的三条新闻](https://2libra.com/post/social-observation/ZO-J4Qf)
 - Daring Fireball
   - [Material Security](https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball)
+- defend.network – Daily Threat Briefings
+  - [Daily Threat Briefing ��� April 5, 2026](https://defend.network/briefings/ta416-unc1069-supply-chain-critical-2026-04-05.html)
 - Security Affairs
   - [Qilin ransomware group claims the hack of German political party Die Linke](https://securityaffairs.com/190348/cyber-crime/qilin-ransomware-group-claims-the-hack-of-german-political-party-die-linke.html)
   - [U.S. CISA adds a flaw in TrueConf Client to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190341/security/u-s-cisa-adds-a-flaw-in-trueconf-client-to-its-known-exploited-vulnerabilities-catalog.html)
