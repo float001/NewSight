@@ -10,7 +10,9 @@
   - [Inside SC-200: What It Takes to Become a Microsoft Security Analyst](https://infosecwriteups.com/inside-sc-200-what-it-takes-to-become-a-microsoft-security-analyst-16391c166025?source=rss----7b722bfd1b8d---4)
   - [The Invisible Threat: Detecting Early-Stage Phishing & Scam Campaigns](https://infosecwriteups.com/the-invisible-threat-detecting-early-stage-phishing-scam-campaigns-c5d36ef97336?source=rss----7b722bfd1b8d---4)
 - Security Affairs
+  - [Image or Malware? Read until the end and answer in comments :)](https://securityaffairs.com/190358/hacking/image-or-malware-read-until-the-end-and-answer-in-comments.html)
   - [Qilin ransomware group claims the hack of German political party Die Linke](https://securityaffairs.com/190348/cyber-crime/qilin-ransomware-group-claims-the-hack-of-german-political-party-die-linke.html)
+  - [Security Affairs newsletter Round 571 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190368/breaking-news/security-affairs-newsletter-round-571-by-pierluigi-paganini-international-edition.html)
   - [U.S. CISA adds a flaw in TrueConf Client to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190341/security/u-s-cisa-adds-a-flaw-in-trueconf-client-to-its-known-exploited-vulnerabilities-catalog.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2024-23700 exploit](https://sploitus.com/exploit?id=73B7D300-93D1-5809-B9EC-8E581A05C970&utm_source=rss&utm_medium=rss)
@@ -18,6 +20,7 @@
   - [Exploit for Download of Code Without Integrity Check in Trueconf exploit](https://sploitus.com/exploit?id=5503E402-016F-51EB-9253-38633A81E887&utm_source=rss&utm_medium=rss)
   - [Exploit for Download of Code Without Integrity Check in Trueconf exploit](https://sploitus.com/exploit?id=B1EFAF42-971D-51E8-8CFF-84E124F0E21B&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Apple Ipados exploit](https://sploitus.com/exploit?id=F051ED78-D8F8-5405-8F3B-4267EBD7EF5B&utm_source=rss&utm_medium=rss)
+  - [JWT-PHANTOM exploit](https://sploitus.com/exploit?id=A5EC38C8-004D-5850-BB66-A95E70DB3524&utm_source=rss&utm_medium=rss)
 - The Decoder
   - [AI chatbot traffic grows seven times faster than social media but still trails by a factor of four](https://the-decoder.com/ai-chatbot-traffic-grows-seven-times-faster-than-social-media-but-still-trails-by-a-factor-of-four/)
 - VulDB Recent Entries
@@ -62,5 +65,7 @@
   - [CVE-2026-5596 | griptape-ai griptape 0.19.4 SqlTool tool.py sql injection](https://vuldb.com/vuln/355390)
   - [CVE-2026-5597 | griptape-ai griptape 0.19.4 ComputerTool tool.py filename path traversal](https://vuldb.com/vuln/355391)
   - [VDB-355351 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /order-details.php orderid sql injection](https://vuldb.com/vuln/355351)
+- WIRED
+  - [The Hack That Exposed Syria’s Sweeping Security Failures](https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/)
 - 量子位
   - [Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难](https://www.qbitai.com/2026/04/396358.html)
