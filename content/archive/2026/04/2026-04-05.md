@@ -21,6 +21,8 @@
   - [Exploit for Download of Code Without Integrity Check in Trueconf exploit](https://sploitus.com/exploit?id=B1EFAF42-971D-51E8-8CFF-84E124F0E21B&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Apple Ipados exploit](https://sploitus.com/exploit?id=F051ED78-D8F8-5405-8F3B-4267EBD7EF5B&utm_source=rss&utm_medium=rss)
   - [JWT-PHANTOM exploit](https://sploitus.com/exploit?id=A5EC38C8-004D-5850-BB66-A95E70DB3524&utm_source=rss&utm_medium=rss)
+- Terence Eden’s Blog
+  - [Someone at BrowserStack is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
 - The Decoder
   - [AI chatbot traffic grows seven times faster than social media but still trails by a factor of four](https://the-decoder.com/ai-chatbot-traffic-grows-seven-times-faster-than-social-media-but-still-trails-by-a-factor-of-four/)
   - [AI offensive cyber capabilities are doubling every six months, safety researchers find](https://the-decoder.com/ai-offensive-cyber-capabilities-are-doubling-every-six-months-safety-researchers-find/)
