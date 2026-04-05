@@ -27,6 +27,8 @@
   - [AI chatbot traffic grows seven times faster than social media but still trails by a factor of four](https://the-decoder.com/ai-chatbot-traffic-grows-seven-times-faster-than-social-media-but-still-trails-by-a-factor-of-four/)
   - [AI offensive cyber capabilities are doubling every six months, safety researchers find](https://the-decoder.com/ai-offensive-cyber-capabilities-are-doubling-every-six-months-safety-researchers-find/)
 - unSafe.sh - 不安全
+  - [Inside WannaCry: Exploit, Worming, and TOR Communication Explained](https://buaq.net/go-407856.html)
+  - [Installing modified APK with Frida Gadget on Android? Testing on my own Android device, I embed Frida Gadget into an APK (Instagram). After modification, install fails or app crashes. What methods allow installing modified APKs? Which Android protections block this? Any tips for test setups?](https://buaq.net/go-407855.html)
   - [starting Hacking](https://buaq.net/go-407833.html)
 - VulDB Recent Entries
   - [CVE-2016-20050 | Foundstone NetSchedScan 1.0 Hostname/IP out-of-bounds write (Exploit 39242 / EDB-39242)](https://vuldb.com/vuln/355362)
