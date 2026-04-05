@@ -2,7 +2,19 @@
 
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-1738 exploit](https://sploitus.com/exploit?id=43758981-1543-55AD-AF4B-E1D0B68CAC77&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Polymarket took down wagers tied to rescue of downed Air Force officer](https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/)
 - VulDB Recent Entries
   - [CVE-2026-5622 | hcengineering Huly Platform 0.7.382 JWT Token token.ts SERVER_SECRET hard-coded key](https://vuldb.com/vuln/355412)
   - [CVE-2026-5623 | hcengineering Huly Platform 0.7.382 Import Endpoint index.ts server-side request forgery](https://vuldb.com/vuln/355413)
   - [CVE-2026-5624 | ProjectSend r2002 upload.php cross-site request forgery](https://vuldb.com/vuln/355414)
+  - [CVE-2026-5628 | Belkin F9K1015 1.00.10 Setting formSetSystemSettings webpage stack-based overflow](https://vuldb.com/vuln/355416)
+  - [CVE-2026-5629 | Belkin F9K1015 1.00.10 /goform/formSetFirewall webpage stack-based overflow](https://vuldb.com/vuln/355417)
+  - [CVE-2026-5630 | assafelovic gpt-researcher up to 3.4.3 Report API backend/server/app.py cross site scripting (Issue 1693)](https://vuldb.com/vuln/355418)
+  - [CVE-2026-5631 | assafelovic gpt-researcher up to 3.4.3 ws Endpoint server_utils.py extract_command_data args code injection (Issue 1694)](https://vuldb.com/vuln/355419)
+  - [CVE-2026-5632 | assafelovic gpt-researcher up to 3.4.3 HTTP REST API Endpoint missing authentication (Issue 1695)](https://vuldb.com/vuln/355420)
+  - [CVE-2026-5633 | assafelovic gpt-researcher up to 3.4.3 ws Endpoint source_urls server-side request forgery (Issue 1696)](https://vuldb.com/vuln/355421)
+  - [CVE-2026-5634 | projectworlds Car Rental Project 1.0 Parameter /book_car.php fname sql injection](https://vuldb.com/vuln/355422)
+  - [CVE-2026-5635 | PHPGurukul Online Shopping Portal Project 2.1 Parameter categorywise-products.php cid sql injection](https://vuldb.com/vuln/355423)
+  - [CVE-2026-5636 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /cancelorder.php oid sql injection](https://vuldb.com/vuln/355424)
+  - [CVE-2026-5637 | projectworlds Car Rental System 1.0 Parameter /message_admin.php Message sql injection](https://vuldb.com/vuln/355425)
