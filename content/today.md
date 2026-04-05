@@ -48,6 +48,11 @@
   - [CVE-2026-5585 | Tencent AI-Infra-Guard 4.0 Task Detail Endpoint task_manager.go information disclosure](https://vuldb.com/vuln/355384)
   - [CVE-2026-5586 | zhongyu09 openchatbi up to 0.2.1 Multi-stage Text2SQL Workflow keywords sql injection](https://vuldb.com/vuln/355385)
   - [CVE-2026-5587 | wbbeyourself MAC-SQL up to 31a9df5e0d520be4769be57a4b9022e5e34a14f4 Refiner Agent core/agents.py _execute_sql sql injection](https://vuldb.com/vuln/355386)
+  - [CVE-2026-5590 | zephyrproject-rtos Zephyr up to 4.3 TCP Connection tcp_recv null pointer dereference (GHSA-4vqm-pw24-g9jp)](https://vuldb.com/vuln/355387)
+  - [CVE-2026-5594 | premAI-io premsql up to 0.2.1 followup.py eval result code injection](https://vuldb.com/vuln/355388)
+  - [CVE-2026-5595 | griptape-ai griptape 0.19.4 FileManagerTool path traversal](https://vuldb.com/vuln/355389)
+  - [CVE-2026-5596 | griptape-ai griptape 0.19.4 SqlTool tool.py sql injection](https://vuldb.com/vuln/355390)
+  - [CVE-2026-5597 | griptape-ai griptape 0.19.4 ComputerTool tool.py filename path traversal](https://vuldb.com/vuln/355391)
   - [VDB-355351 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /order-details.php orderid sql injection](https://vuldb.com/vuln/355351)
 - 量子位
   - [Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难](https://www.qbitai.com/2026/04/396358.html)
