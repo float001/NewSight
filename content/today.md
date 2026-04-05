@@ -2,6 +2,7 @@
 
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-1738 exploit](https://sploitus.com/exploit?id=43758981-1543-55AD-AF4B-E1D0B68CAC77&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-23398 exploit](https://sploitus.com/exploit?id=7AE7B121-B287-5FC3-882E-E33709C2E5BA&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Polymarket took down wagers tied to rescue of downed Air Force officer](https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/)
 - VulDB Recent Entries
@@ -18,3 +19,7 @@
   - [CVE-2026-5635 | PHPGurukul Online Shopping Portal Project 2.1 Parameter categorywise-products.php cid sql injection](https://vuldb.com/vuln/355423)
   - [CVE-2026-5636 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /cancelorder.php oid sql injection](https://vuldb.com/vuln/355424)
   - [CVE-2026-5637 | projectworlds Car Rental System 1.0 Parameter /message_admin.php Message sql injection](https://vuldb.com/vuln/355425)
+  - [CVE-2026-5638 | HerikLyma CPPWebFramework up to 3.1 path traversal (Issue 40)](https://vuldb.com/vuln/355426)
+  - [CVE-2026-5639 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /admin/update-image3.php filename sql injection](https://vuldb.com/vuln/355427)
+  - [CVE-2026-5640 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /admin/update-image2.php filename sql injection](https://vuldb.com/vuln/355428)
+  - [CVE-2026-5641 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /admin/update-image1.php filename sql injection](https://vuldb.com/vuln/355429)
