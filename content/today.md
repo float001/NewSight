@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-04-06）
 
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2025-1738 exploit](https://sploitus.com/exploit?id=43758981-1543-55AD-AF4B-E1D0B68CAC77&utm_source=rss&utm_medium=rss)
 - VulDB Recent Entries
   - [CVE-2026-5622 | hcengineering Huly Platform 0.7.382 JWT Token token.ts SERVER_SECRET hard-coded key](https://vuldb.com/vuln/355412)
   - [CVE-2026-5623 | hcengineering Huly Platform 0.7.382 Import Endpoint index.ts server-side request forgery](https://vuldb.com/vuln/355413)
