@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-04-06）
 
+- Hacker News: Front Page
+  - [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
 - Krebs on Security
   - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 - Sploitus.com Exploits RSS Feed
