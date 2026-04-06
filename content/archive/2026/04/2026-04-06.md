@@ -26,6 +26,7 @@
 - Sec-News 安全文摘
   - [用 GPT-5.4 单挑 NCTF 团队赛，成功解出91.7%的题目](https://govuln.com/news/url/mbN6)
 - Security Affairs
+  - [BKA unmasks two REvil Ransomware operators behind 130+ German attacks](https://securityaffairs.com/190401/cyber-crime/bka-unmasks-two-revil-ransomware-operators-behind-130-german-attacks.html)
   - [CVE-2026-35616: Fortinet fixes actively exploited high-severity flaw](https://securityaffairs.com/190392/hacking/cve-2026-35616-fortinet-fixes-actively-exploited-high-severity-flaw.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Cross-site Scripting in Exclusiveaddons Exclusive_Addons_For_Elementor exploit](https://sploitus.com/exploit?id=760AA541-F884-533C-AC70-03F329FB8556&utm_source=rss&utm_medium=rss)
@@ -41,6 +42,8 @@
   - [A Compromised Tool Opened the Door to a 91GB European Commission Data Leak](https://buaq.net/go-407935.html)
   - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://buaq.net/go-407911.html)
   - [How often are redirects used in phishing in 2026&#x3f;, (Mon, Apr 6th)](https://buaq.net/go-407941.html)
+- VMRay
+  - [An MSP’s Guide to Phishing Protection](https://www.vmray.com/msps-guide-to-phishing-protection/)
 - VulDB Recent Entries
   - [CVE-2018-25256 | Ks-Soft IP Tools 2.50 SNMP Scanner From Addr out-of-bounds write (Exploit 46286 / EDB-46286)](https://vuldb.com/vuln/355475)
   - [CVE-2019-25658 | Amac a-Mac Address Change 5.4 Registration Your Name/Your Company/Register Code out-of-bounds write (Exploit 46292 / EDB-46292)](https://vuldb.com/vuln/355481)
@@ -74,6 +77,7 @@
   - [CVE-2026-31408 | Linux Kernel up to 6.6.130/6.12.79/6.18.20/6.19.10/7.0-rc5 Bluetooth sco_recv_frame use after free](https://vuldb.com/vuln/355497)
   - [CVE-2026-31409 | Linux Kernel up to 7.0-rc4 ksmbd ksmbd_session_lookup_all state issue](https://vuldb.com/vuln/355494)
   - [CVE-2026-31410 | Linux Kernel up to 6.12.77/6.18.19/6.19.9/7.0-rc4 ksmbd vfs_statfs privilege escalation](https://vuldb.com/vuln/355496)
+  - [CVE-2026-3524 | Mattermost Legal Hold Plugin up to 1.1.4 API authorization](https://vuldb.com/vuln/355520)
   - [CVE-2026-37977 | Keycloak on Red Hat JWT azp origin validation](https://vuldb.com/vuln/355502)
   - [CVE-2026-4272 | Honeywell Barcode Scanner missing authentication](https://vuldb.com/vuln/355449)
   - [CVE-2026-5622 | hcengineering Huly Platform 0.7.382 JWT Token token.ts SERVER_SECRET hard-coded key](https://vuldb.com/vuln/355412)
@@ -121,3 +125,4 @@
   - [CVE-2026-5690 | Totolink A7100RU 7.4cu.2313_b20191024 /cgi-bin/cstecgi.cgi setRemoteCfg enable os command injection](https://vuldb.com/vuln/355517)
   - [CVE-2026-5691 | Totolink A7100RU 7.4cu.2313_b20191024 /cgi-bin/cstecgi.cgi setFirewallType firewallType os command injection](https://vuldb.com/vuln/355518)
   - [CVE-2026-5692 | Totolink A7100RU 7.4cu.2313_b20191024 /cgi-bin/cstecgi.cgi setGameSpeedCfg enable os command injection](https://vuldb.com/vuln/355519)
+  - [CVE-2026-5705 | code-projects Online Hotel Booking 1.0 Booking Endpoint /booknow.php roomname cross site scripting](https://vuldb.com/vuln/355521)
