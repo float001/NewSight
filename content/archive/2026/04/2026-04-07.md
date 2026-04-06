@@ -2,6 +2,8 @@
 
 - 404 Media
   - [Multiple Hackers Warned Anti-Porn App Quittr About Security Issue for Months](https://www.404media.co/multiple-hackers-warned-anti-porn-app-quittr-about-security-issue-for-months/)
+- darkreading
+  - [Fortinet Issues Emergency Patch for FortiClient Zero-Day](https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day)
 - Hacker News: Front Page
   - [Show HN: I Built Paul Graham's Intellectual Captcha Idea](https://mentwire.com/sample)
 - NetSPI
@@ -31,6 +33,7 @@
   - [CVE-2025-47389 | Qualcomm Snapdragon Auto up to XRV9209 buffer overflow](https://vuldb.com/vuln/355543)
   - [CVE-2025-48651 | Google Android privilege escalation](https://vuldb.com/vuln/355639)
   - [CVE-2025-54324 | Samsung Mobile Processor/Wearable Processor/Modem Exynos up to 9110 NAS denial of service](https://vuldb.com/vuln/355628)
+  - [CVE-2025-54601 | Samsung Mobile Processor/Wearable Processor Exynos up to 1580 Global Variable race condition](https://vuldb.com/vuln/355664)
   - [CVE-2025-57835 | Modem Mobile Processor/Wearable Processor/Modem Exynos up to 9110 RRC initialization](https://vuldb.com/vuln/355625)
   - [CVE-2025-58349 | Modem Mobile Processor/Wearable Processor/Modem Exynos up to 9110 L2 denial of service](https://vuldb.com/vuln/355629)
   - [CVE-2025-59440 | Samsung Mobile Processor/Wearable Processor/Modem Exynos up to 9110 USIM denial of service](https://vuldb.com/vuln/355626)
@@ -85,9 +88,19 @@
   - [CVE-2026-35174 | xenocrat chyrp-lite prior 2026.01 Setting config.json.php path traversal (GHSA-p6pf-2grm-8257)](https://vuldb.com/vuln/355616)
   - [CVE-2026-35175 | Ajenti up to 2.2.14 auth_users authorization (GHSA-73jv-44c3-j5p2)](https://vuldb.com/vuln/355634)
   - [CVE-2026-35177 | vim up to 9.2.0279 zip.vim Plugin path traversal (GHSA-jc86-w7vm-8p24)](https://vuldb.com/vuln/355637)
+  - [CVE-2026-35199 | Microsoft SymCrypt up to 103.10.x Hardware Security SymCryptXmssSign heap-based overflow (GHSA-rvj8-8h6x-hjmg)](https://vuldb.com/vuln/355665)
+  - [CVE-2026-35200 | parse-community parse-server up to 8.6.72/9.7.1-alpha.3 Header Content-Type interpretation conflict (GHSA-vr5f-2r24-w5hc)](https://vuldb.com/vuln/355666)
+  - [CVE-2026-35201 | davidfstr rdiscount prior 2.2.7.4 out-of-bounds (GHSA-6r34-94wq-jhrc)](https://vuldb.com/vuln/355667)
+  - [CVE-2026-35203 | ZLMediaKit ext-codec/VP9Rtp.cpp out-of-bounds (GHSA-gxr3-fwc7-q99h)](https://vuldb.com/vuln/355668)
+  - [CVE-2026-35208 | lichess-org lila /streamer cross site scripting](https://vuldb.com/vuln/355662)
   - [CVE-2026-35209 | unjs defu up to 6.1.4 prototype pollution (GHSA-737v-mqg7-c878)](https://vuldb.com/vuln/355624)
+  - [CVE-2026-35213 | hapijs content up to 6.0.0 HTTP Content-Type/Content-Disposition redos](https://vuldb.com/vuln/355669)
+  - [CVE-2026-35389 | bulwarkmail webmail up to 1.4.10 SMIME Signature Verification certificate validation](https://vuldb.com/vuln/355670)
+  - [CVE-2026-35390 | bulwarkmail webmail up to 1.4.10 Email Content-Security-Policy-Report-Only cross site scripting](https://vuldb.com/vuln/355671)
+  - [CVE-2026-35391 | bulwarkmail webmail up to 1.4.10 X-Forwarded-For lib/admin/session.ts getClientIP less trusted source](https://vuldb.com/vuln/355663)
   - [CVE-2026-35470 | devcode-it openstamanager up to 2.10.1 Customer Information confronta_righe.php righe sql injection (GHSA-mmm5-3g4x-qw39)](https://vuldb.com/vuln/355617)
   - [CVE-2026-5493 | Labcenter Proteus PDSPRJ File Parser out-of-bounds write](https://vuldb.com/vuln/355608)
   - [CVE-2026-5494 | Labcenter Proteus PDSPRJ File Parser out-of-bounds write](https://vuldb.com/vuln/355607)
   - [CVE-2026-5495 | Labcenter Proteus PDSPRJ File Parser out-of-bounds write](https://vuldb.com/vuln/355610)
   - [CVE-2026-5496 | Labcenter Proteus PDSPRJ File Parser type confusion](https://vuldb.com/vuln/355609)
+  - [CVE-2026-5719 | itsourcecode Construction Management System 1.0 /borrowedtool.php sql injection](https://vuldb.com/vuln/355661)
