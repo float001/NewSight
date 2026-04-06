@@ -27,6 +27,7 @@
   - [CVE-2026-35616: Fortinet fixes actively exploited high-severity flaw](https://securityaffairs.com/190392/hacking/cve-2026-35616-fortinet-fixes-actively-exploited-high-severity-flaw.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Cross-site Scripting in Exclusiveaddons Exclusive_Addons_For_Elementor exploit](https://sploitus.com/exploit?id=760AA541-F884-533C-AC70-03F329FB8556&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2017-0144 exploit](https://sploitus.com/exploit?id=2DCED19B-FD53-5198-9DE4-C2936C650E45&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-1738 exploit](https://sploitus.com/exploit?id=43758981-1543-55AD-AF4B-E1D0B68CAC77&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-23398 exploit](https://sploitus.com/exploit?id=7AE7B121-B287-5FC3-882E-E33709C2E5BA&utm_source=rss&utm_medium=rss)
 - TechCrunch
