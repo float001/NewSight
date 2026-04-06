@@ -3,6 +3,7 @@
 - 404 Media
   - [Multiple Hackers Warned Anti-Porn App Quittr About Security Issue for Months](https://www.404media.co/multiple-hackers-warned-anti-porn-app-quittr-about-security-issue-for-months/)
 - darkreading
+  - [AI-Assisted Supply Chain Attack Targets GitHub](https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github)
   - [Fortinet Issues Emergency Patch for FortiClient Zero-Day](https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day)
 - Hacker News: Front Page
   - [Show HN: I Built Paul Graham's Intellectual Captcha Idea](https://mentwire.com/sample)
@@ -28,6 +29,7 @@
   - [Netflix launches a standalone app for kids’ games](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/)
   - [North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making](https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/)
 - VulDB Recent Entries
+  - [CVE-2017-18892 | Mattermost Server up to 4.0.4/4.1.0 Email Template neutralization](https://vuldb.com/vuln/355672)
   - [CVE-2024-14032 | Twitch Studio up to 0.114.8 XPC Service authorization](https://vuldb.com/vuln/355544)
   - [CVE-2025-47374 | Qualcomm Snapdragon CCW/Snapdragon Compute FastConnect 6900 up to XRV7209 use after free](https://vuldb.com/vuln/355546)
   - [CVE-2025-47389 | Qualcomm Snapdragon Auto up to XRV9209 buffer overflow](https://vuldb.com/vuln/355543)
