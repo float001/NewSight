@@ -14,8 +14,13 @@
   - [Understanding SUID in Linux: How It Can Lead to Privilege Escalation](https://infosecwriteups.com/suid-permission-the-silent-door-to-privilege-escalation-7d2f91af9ec2?source=rss----7b722bfd1b8d---4)
 - Krebs on Security
   - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
+- Payatu
+  - [GDPR Meets DPDP: What Every Indian CISO Operating in the EU Must Know](https://payatu.com/blog/gdpr-meets-dpdp-what-every-indian-ciso-operating-in-the-eu-must-know/)
+  - [Top 7 Cybersecurity Companies in India – 2026 Edition](https://payatu.com/blog/top-7-cybersecurity-companies-in-india-2026-edition/)
 - SANS Internet Storm Center, InfoCON: green
   - [How often are redirects used in phishing in 2026&#x3f;, (Mon, Apr 6th)](https://isc.sans.edu/diary/rss/32870)
+- Schneier on Security
+  - [Google Wants to Transition to Post-Quantum Cryptography by 2029](https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html)
 - Sec-News 安全文摘
   - [用 GPT-5.4 单挑 NCTF 团队赛，成功解出91.7%的题目](https://govuln.com/news/url/mbN6)
 - Security Affairs
@@ -100,3 +105,13 @@
   - [CVE-2026-5678 | Totolink A7100RU 7.4cu.2313_b20191024 /cgi-bin/cstecgi.cgi setScheduleCfg mode os command injection](https://vuldb.com/vuln/355505)
   - [CVE-2026-5679 | Totolink A3300R 17.0.0cu.557_B20221024 /cgi-bin/cstecgi.cgi vsetTr069Cfg stun_pass os command injection](https://vuldb.com/vuln/355506)
   - [CVE-2026-5681 | itsourcecode sanitize or validate this input 1.0 Parameter /borrowedequip.php emp_id sql injection](https://vuldb.com/vuln/355508)
+  - [CVE-2026-5683 | Tenda CX12L 16.03.53.12 /goform/P2pListFilter fromP2pListFilter page stack-based overflow](https://vuldb.com/vuln/355510)
+  - [CVE-2026-5684 | Tenda CX12L 16.03.53.12 webExcptypemanFilter fromwebExcptypemanFilter page stack-based overflow](https://vuldb.com/vuln/355511)
+  - [CVE-2026-5685 | Tenda CX12L 16.03.53.12 /goform/addressNat fromAddressNat page stack-based overflow](https://vuldb.com/vuln/355512)
+  - [CVE-2026-5686 | Tenda CX12L 16.03.53.12 /goform/RouteStatic fromRouteStatic page stack-based overflow](https://vuldb.com/vuln/355513)
+  - [CVE-2026-5687 | Tenda CX12L 16.03.53.12 /goform/NatStaticSetting fromNatStaticSetting page stack-based overflow](https://vuldb.com/vuln/355514)
+  - [CVE-2026-5688 | Totolink A7100RU 7.4cu.2313_b20191024 /cgi-bin/cstecgi.cgi setDdnsCfg provider os command injection](https://vuldb.com/vuln/355515)
+  - [CVE-2026-5689 | Totolink A7100RU 7.4cu.2313_b20191024 /cgi-bin/cstecgi.cgi setNtpCfg tz os command injection](https://vuldb.com/vuln/355516)
+  - [CVE-2026-5690 | Totolink A7100RU 7.4cu.2313_b20191024 /cgi-bin/cstecgi.cgi setRemoteCfg enable os command injection](https://vuldb.com/vuln/355517)
+  - [CVE-2026-5691 | Totolink A7100RU 7.4cu.2313_b20191024 /cgi-bin/cstecgi.cgi setFirewallType firewallType os command injection](https://vuldb.com/vuln/355518)
+  - [CVE-2026-5692 | Totolink A7100RU 7.4cu.2313_b20191024 /cgi-bin/cstecgi.cgi setGameSpeedCfg enable os command injection](https://vuldb.com/vuln/355519)
