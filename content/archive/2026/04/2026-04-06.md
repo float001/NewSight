@@ -2,6 +2,8 @@
 
 - BorderGate
   - [AWS Instance Metadata Service Exploitation](https://www.bordergate.co.uk/aws-instance-metadata-service-exploitation/)
+- darkreading
+  - [OWASP GenAI Security Project Gets Update, New Tools Matrix](https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix)
 - defend.network – Daily Threat Briefings
   - [Daily Threat Briefing – April 6, 2026](https://defend.network/briefings/dprk-drift-forticlient-supply-chain-2026-04-06.html)
 - Hacker News: Front Page
