@@ -12,8 +12,10 @@
   - [Exploit for CVE-2026-33186 exploit](https://sploitus.com/exploit?id=98F4F3E9-633F-56C5-A4E8-26934256043E&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=F7B5851F-B53E-5FF9-9677-FC40DD5EEF55&utm_source=rss&utm_medium=rss)
   - [Exploit for Heap-based Buffer Overflow in Pjsip exploit](https://sploitus.com/exploit?id=79061C23-4CF0-5FA2-9C56-9286C54D9E03&utm_source=rss&utm_medium=rss)
+  - [pentest-agent exploit](https://sploitus.com/exploit?id=97F1E034-3D73-5D5B-86DA-90831A594737&utm_source=rss&utm_medium=rss)
   - [uploadpwner exploit](https://sploitus.com/exploit?id=0D5613CF-DA73-5A8D-8B2C-CF3C4B68F95E&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Netflix launches a standalone app for kids’ games](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/)
   - [North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making](https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/)
 - VulDB Recent Entries
   - [CVE-2024-14032 | Twitch Studio up to 0.114.8 XPC Service authorization](https://vuldb.com/vuln/355544)
