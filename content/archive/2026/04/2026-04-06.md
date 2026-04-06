@@ -12,6 +12,8 @@
   - [Understanding SUID in Linux: How It Can Lead to Privilege Escalation](https://infosecwriteups.com/suid-permission-the-silent-door-to-privilege-escalation-7d2f91af9ec2?source=rss----7b722bfd1b8d---4)
 - Krebs on Security
   - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
+- SANS Internet Storm Center, InfoCON: green
+  - [How often are redirects used in phishing in 2026&#x3f;, (Mon, Apr 6th)](https://isc.sans.edu/diary/rss/32870)
 - Sec-News 安全文摘
   - [用 GPT-5.4 单挑 NCTF 团队赛，成功解出91.7%的题目](https://govuln.com/news/url/mbN6)
 - Security Affairs
@@ -23,7 +25,9 @@
 - TechCrunch
   - [Polymarket took down wagers tied to rescue of downed Air Force officer](https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/)
 - unSafe.sh - 不安全
+  - [A Compromised Tool Opened the Door to a 91GB European Commission Data Leak](https://buaq.net/go-407935.html)
   - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://buaq.net/go-407911.html)
+  - [How often are redirects used in phishing in 2026&#x3f;, (Mon, Apr 6th)](https://buaq.net/go-407941.html)
 - VulDB Recent Entries
   - [CVE-2018-25256 | Ks-Soft IP Tools 2.50 SNMP Scanner From Addr out-of-bounds write (Exploit 46286 / EDB-46286)](https://vuldb.com/vuln/355475)
   - [CVE-2019-25658 | Amac a-Mac Address Change 5.4 Registration Your Name/Your Company/Register Code out-of-bounds write (Exploit 46292 / EDB-46292)](https://vuldb.com/vuln/355481)
@@ -51,6 +55,12 @@
   - [CVE-2019-25687 | wisdom Pegasus CMS 1.0 Parameter extra_fields.php action path traversal (Exploit 46542 / EDB-46542)](https://vuldb.com/vuln/355451)
   - [CVE-2019-25696 | Kados R10 GreenBee Parameter language_tag sql injection (Exploit 46505 / EDB-46505)](https://vuldb.com/vuln/355453)
   - [CVE-2019-25700 | Kados R10 GreenBee Parameter sort_direction sql injection (Exploit 46505 / EDB-46505)](https://vuldb.com/vuln/355455)
+  - [CVE-2026-31405 | Linux Kernel up to 7.0-rc2 handle_one_ule_extension out-of-bounds](https://vuldb.com/vuln/355495)
+  - [CVE-2026-31406 | Linux Kernel up to 6.12.79/6.18.20/6.19.10/7.0-rc5 xfrm_nat_keepalive_net_fini state issue](https://vuldb.com/vuln/355498)
+  - [CVE-2026-31407 | Linux Kernel up to 6.19.9/7.0-rc4 netfilter nlattr_to_sctp out-of-bounds](https://vuldb.com/vuln/355499)
+  - [CVE-2026-31408 | Linux Kernel up to 6.6.130/6.12.79/6.18.20/6.19.10/7.0-rc5 Bluetooth sco_recv_frame use after free](https://vuldb.com/vuln/355497)
+  - [CVE-2026-31409 | Linux Kernel up to 7.0-rc4 ksmbd ksmbd_session_lookup_all state issue](https://vuldb.com/vuln/355494)
+  - [CVE-2026-31410 | Linux Kernel up to 6.12.77/6.18.19/6.19.9/7.0-rc4 ksmbd vfs_statfs privilege escalation](https://vuldb.com/vuln/355496)
   - [CVE-2026-4272 | Honeywell Barcode Scanner missing authentication](https://vuldb.com/vuln/355449)
   - [CVE-2026-5622 | hcengineering Huly Platform 0.7.382 JWT Token token.ts SERVER_SECRET hard-coded key](https://vuldb.com/vuln/355412)
   - [CVE-2026-5623 | hcengineering Huly Platform 0.7.382 Import Endpoint index.ts server-side request forgery](https://vuldb.com/vuln/355413)
@@ -72,3 +82,11 @@
   - [CVE-2026-5659 | pytries datrie up to 0.8.3 trie File src/datrie.pyx Trie.load/Trie.read/Trie.__setstate__ deserialization (Issue 109)](https://vuldb.com/vuln/355483)
   - [CVE-2026-5660 | itsourcecode Construction Management System 1.0 Parameter /borrowed_equip.php emp sql injection](https://vuldb.com/vuln/355484)
   - [CVE-2026-5661 | Free5GC 4.2.0 NGSetupRequest denial of service (Issue 832)](https://vuldb.com/vuln/355485)
+  - [CVE-2026-5664 | OpenAirInterface CN5G AMF up to 2.2.0 Procedure Code/PDU-Type ngap_message_callback.hpp ngap_message_decoded_callback denial of service (Issue 74)](https://vuldb.com/vuln/355487)
+  - [CVE-2026-5665 | code-projects Online FIR System 1.0 Login /Login/checklogin.php email/password sql injection](https://vuldb.com/vuln/355488)
+  - [CVE-2026-5666 | code-projects Online FIR System 1.0 SQL Database Backup File /complaints.sql sensitive information](https://vuldb.com/vuln/355489)
+  - [CVE-2026-5668 | Cyber-III Student-Management-System up to 1a938fa61e9f735078e9b291d2e6215b4942af3f add%20notice.php $_SERVER['PHP_SELF'] cross site scripting (Issue 239)](https://vuldb.com/vuln/355490)
+  - [CVE-2026-5669 | Cyber-III Student-Management-System up to 1a938fa61e9f735078e9b291d2e6215b4942af3f Parameter /login.php Password sql injection (Issue 240)](https://vuldb.com/vuln/355491)
+  - [CVE-2026-5670 | Cyber-III Student-Management-System up to 1a938fa61e9f735078e9b291d2e6215b4942af3f upload.php move_uploaded_file File unrestricted upload](https://vuldb.com/vuln/355492)
+  - [CVE-2026-5671 | Cyber-III Student-Management-System up to 1a938fa61e9f735078e9b291d2e6215b4942af3f Class Schedule Deletion Endpoint delete_batch.php batch cross site scripting (Issue 242)](https://vuldb.com/vuln/355493)
+  - [CVE-2026-5672 | code-projects Simple IT Discussion Forum 1.0 Parameter /edit-category.php cat_id sql injection](https://vuldb.com/vuln/355500)
