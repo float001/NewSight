@@ -28,9 +28,12 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Cross-site Scripting in Exclusiveaddons Exclusive_Addons_For_Elementor exploit](https://sploitus.com/exploit?id=760AA541-F884-533C-AC70-03F329FB8556&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2017-0144 exploit](https://sploitus.com/exploit?id=2DCED19B-FD53-5198-9DE4-C2936C650E45&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2017-0144 exploit](https://sploitus.com/exploit?id=FF857FCA-900F-5970-B55B-81DE5BDEEC27&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-1738 exploit](https://sploitus.com/exploit?id=43758981-1543-55AD-AF4B-E1D0B68CAC77&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-23398 exploit](https://sploitus.com/exploit?id=7AE7B121-B287-5FC3-882E-E33709C2E5BA&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-35678 exploit](https://sploitus.com/exploit?id=F66D24A3-EA54-50B6-9F6F-DD3564FAA827&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Convicted spyware maker Bryan Fleming avoids jail at sentencing](https://techcrunch.com/2026/04/06/convicted-spyware-maker-bryan-fleming-avoids-jail-at-sentencing/)
   - [Polymarket took down wagers tied to rescue of downed Air Force officer](https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/)
 - unSafe.sh - 不安全
   - [A Compromised Tool Opened the Door to a 91GB European Commission Data Leak](https://buaq.net/go-407935.html)
