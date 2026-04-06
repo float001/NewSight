@@ -8,9 +8,12 @@
   - [Il CISO sotto processo: responsabilità personale, D.Lgs. 231 e la nuova esposizione legale](https://www.ictsecuritymagazine.com/notizie/ciso-d-lgs-231/)
 - InfoSec Write-ups - Medium
   - [How to Install and Use Nessus for Your First Vulnerability Scan (Linux Guide)](https://infosecwriteups.com/what-is-nessus-a-beginner-friendly-guide-with-linux-installation-53e4da28f374?source=rss----7b722bfd1b8d---4)
+  - [How to Leak a $340B Secret: The Anthropic “Claude Code” Incident](https://infosecwriteups.com/how-to-leak-a-340b-secret-the-anthropic-claude-code-incident-663b3d6e3bb4?source=rss----7b722bfd1b8d---4)
   - [Understanding SUID in Linux: How It Can Lead to Privilege Escalation](https://infosecwriteups.com/suid-permission-the-silent-door-to-privilege-escalation-7d2f91af9ec2?source=rss----7b722bfd1b8d---4)
 - Krebs on Security
   - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
+- Sec-News 安全文摘
+  - [用 GPT-5.4 单挑 NCTF 团队赛，成功解出91.7%的题目](https://govuln.com/news/url/mbN6)
 - Security Affairs
   - [CVE-2026-35616: Fortinet fixes actively exploited high-severity flaw](https://securityaffairs.com/190392/hacking/cve-2026-35616-fortinet-fixes-actively-exploited-high-severity-flaw.html)
 - Sploitus.com Exploits RSS Feed
@@ -66,3 +69,6 @@
   - [CVE-2026-5639 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /admin/update-image3.php filename sql injection](https://vuldb.com/vuln/355427)
   - [CVE-2026-5640 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /admin/update-image2.php filename sql injection](https://vuldb.com/vuln/355428)
   - [CVE-2026-5641 | PHPGurukul Online Shopping Portal Project 2.1 Parameter /admin/update-image1.php filename sql injection](https://vuldb.com/vuln/355429)
+  - [CVE-2026-5659 | pytries datrie up to 0.8.3 trie File src/datrie.pyx Trie.load/Trie.read/Trie.__setstate__ deserialization (Issue 109)](https://vuldb.com/vuln/355483)
+  - [CVE-2026-5660 | itsourcecode Construction Management System 1.0 Parameter /borrowed_equip.php emp sql injection](https://vuldb.com/vuln/355484)
+  - [CVE-2026-5661 | Free5GC 4.2.0 NGSetupRequest denial of service (Issue 832)](https://vuldb.com/vuln/355485)
