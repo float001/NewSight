@@ -1,9 +1,14 @@
 # 今日安全资讯（2026-04-06）
 
+- defend.network – Daily Threat Briefings
+  - [Daily Threat Briefing – April 6, 2026](https://defend.network/briefings/dprk-drift-forticlient-supply-chain-2026-04-06.html)
 - Hacker News: Front Page
   - [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
 - ICT Security Magazine
   - [Il CISO sotto processo: responsabilità personale, D.Lgs. 231 e la nuova esposizione legale](https://www.ictsecuritymagazine.com/notizie/ciso-d-lgs-231/)
+- InfoSec Write-ups - Medium
+  - [How to Install and Use Nessus for Your First Vulnerability Scan (Linux Guide)](https://infosecwriteups.com/what-is-nessus-a-beginner-friendly-guide-with-linux-installation-53e4da28f374?source=rss----7b722bfd1b8d---4)
+  - [Understanding SUID in Linux: How It Can Lead to Privilege Escalation](https://infosecwriteups.com/suid-permission-the-silent-door-to-privilege-escalation-7d2f91af9ec2?source=rss----7b722bfd1b8d---4)
 - Krebs on Security
   - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 - Security Affairs
@@ -17,8 +22,15 @@
 - unSafe.sh - 不安全
   - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://buaq.net/go-407911.html)
 - VulDB Recent Entries
+  - [CVE-2018-25256 | Ks-Soft IP Tools 2.50 SNMP Scanner From Addr out-of-bounds write (Exploit 46286 / EDB-46286)](https://vuldb.com/vuln/355475)
+  - [CVE-2019-25658 | Amac a-Mac Address Change 5.4 Registration Your Name/Your Company/Register Code out-of-bounds write (Exploit 46292 / EDB-46292)](https://vuldb.com/vuln/355481)
+  - [CVE-2019-25659 | Xlinesoft ASPRunner Professional 6.0.766 Project Creation project name out-of-bounds write (Exploit 46293 / EDB-46293)](https://vuldb.com/vuln/355480)
+  - [CVE-2019-25660 | Hainsoft LanHelper 1.74 Send Message Feature Message text out-of-bounds write (Exploit 46295 / EDB-46295)](https://vuldb.com/vuln/355478)
   - [CVE-2019-25662 | Montala ResourceSpace 8.6 watched_searches.php ref sql injection (Exploit 46308 / EDB-46308)](https://vuldb.com/vuln/355441)
   - [CVE-2019-25664 | SuiteCRM 7.10.7 Users index.php DetailView record sql injection (Exploit 46311)](https://vuldb.com/vuln/355447)
+  - [CVE-2019-25665 | Riverpast River Past Ringtone Converter 2.7.6.1601 Activation Email/activation code out-of-bounds write (Exploit 46312 / EDB-46312)](https://vuldb.com/vuln/355482)
+  - [CVE-2019-25666 | Nsauditor SpotAuditor 3.6.7 Base64 Password Decoder out-of-bounds write (Exploit 46313 / EDB-46313)](https://vuldb.com/vuln/355476)
+  - [CVE-2019-25667 | Iarsn TaskInfo 8.2.0.280 Registration out-of-bounds write (Exploit 46314 / EDB-46314)](https://vuldb.com/vuln/355477)
   - [CVE-2019-25668 | Phpscriptsmall News Website Script 2.0.5 index.php/show/news/ news ID sql injection (Exploit 46456 / EDB-46456)](https://vuldb.com/vuln/355444)
   - [CVE-2019-25671 | VA MAX 8.3.4 Parameter changeip.php mtu_eth0 path traversal (Exploit 46348 / EDB-46348)](https://vuldb.com/vuln/355439)
   - [CVE-2019-25672 | pilus PilusCart 1.4.1 Comment Submission Endpoint send sql injection (Exploit 46368 / EDB-46368)](https://vuldb.com/vuln/355456)
@@ -26,9 +38,11 @@
   - [CVE-2019-25674 | VictorAlagwu CMSsite 1.0 Parameter post.php post sql injection (Exploit 46402 / EDB-46402)](https://vuldb.com/vuln/355454)
   - [CVE-2019-25675 | eDirectory 1.0 Login Endpoint language_file.php key sql injection (Exploit 46423)](https://vuldb.com/vuln/355440)
   - [CVE-2019-25676 | Phpscriptsmall Ask Expert Script 3.0.5 Parameter categorysearch.php cateid cross site scripting (Exploit 46426 / EDB-46426)](https://vuldb.com/vuln/355452)
+  - [CVE-2019-25677 | Win-Rar WinRAR 5.61 Installation Directory temp file (Exploit 46432 / EDB-46432)](https://vuldb.com/vuln/355479)
   - [CVE-2019-25678 | C4G Basic Laboratory Information System 3.4 users_select.php site missing authentication (Exploit 46438 / EDB-46438)](https://vuldb.com/vuln/355443)
   - [CVE-2019-25680 | Phpscriptsmall Advance Gift Shop Pro Script 2.0.3 Search s sql injection (Exploit 46457 / EDB-46457)](https://vuldb.com/vuln/355450)
   - [CVE-2019-25682 | VictorAlagwu CMSsite 1.0 users.php add_user/edit_user cross-site request forgery (Exploit 46480 / EDB-46480)](https://vuldb.com/vuln/355448)
+  - [CVE-2019-25683 | Filezilla-Project FileZilla 3.40.0 search directory denial of service (Exploit 46484 / EDB-46484)](https://vuldb.com/vuln/355474)
   - [CVE-2019-25684 | OpenDocMan 1.3.4 Parameter search.php where sql injection (Exploit 46500 / EDB-46500)](https://vuldb.com/vuln/355442)
   - [CVE-2019-25685 | phpBB 3.2.3 plupload imagick path traversal (Exploit 46512 / EDB-46512)](https://vuldb.com/vuln/355446)
   - [CVE-2019-25687 | wisdom Pegasus CMS 1.0 Parameter extra_fields.php action path traversal (Exploit 46542 / EDB-46542)](https://vuldb.com/vuln/355451)
