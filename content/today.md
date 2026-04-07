@@ -10,6 +10,7 @@
   - [L’INFRASTRUTTURA DEL TUTTO: Ciclo di seminari su Cybersecurity e intelligenza artificiale alla Sapienza, Università di Roma.](https://dicorinto.it/associazionismo/linfrastruttura-del-tutto-ciclo-di-seminari-su-cybersecurity-e-intelligenza-artificiale-alla-sapienza-universita-di-roma/)
 - darkreading
   - [AI-Assisted Supply Chain Attack Targets GitHub](https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github)
+  - [Focusing on the People in Cybersecurity at RSAC 2026 Conference](https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026)
   - [Fortinet Issues Emergency Patch for FortiClient Zero-Day](https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day)
 - Hacker News: Front Page
   - [Show HN: I Built Paul Graham's Intellectual Captcha Idea](https://mentwire.com/sample)
