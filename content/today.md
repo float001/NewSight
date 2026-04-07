@@ -11,6 +11,8 @@
   - [Fortinet Issues Emergency Patch for FortiClient Zero-Day](https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day)
 - Hacker News: Front Page
   - [Show HN: I Built Paul Graham's Intellectual Captcha Idea](https://mentwire.com/sample)
+- http://www.infosecurity-magazine.com/rss/news/
+  - [Fortinet Releases Emergency Patch After FortiClient EMS Bug Is Exploited](https://www.infosecurity-magazine.com/news/fortinet-emergency-patch-ems-bug/)
 - NetSPI
   - [AI Fools Week: Don’t Let AI Fool Your Pentesting Strategy](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/ai-fools-week-dont-let-ai-fool-your-pentesting-strategy/)
 - NVIDIA Blog
@@ -18,11 +20,13 @@
 - Offensive Security Blog: Latest Trends in Hacking | Praetorian
   - [The Attack Helix: Praetorian Guard’s AI Architecture for Offensive Security](https://www.praetorian.com/blog/the-attack-helix-praetorian-guards-ai-architecture-for-offensive-security/)
 - Schneier on Security
+  - [Hong Kong Police Can Force You to Reveal Your Encryption Keys](https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html)
   - [New Mexico’s Meta Ruling and Encryption](https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html)
 - Security Affairs
   - [Experts published unpatched Windows zero-day BlueHammer](https://securityaffairs.com/190400/breaking-news/experts-published-unpatched-windows-zero-day-bluehammer.html)
   - [Phishing LNK files and GitHub C2 power new DPRK cyber attacks](https://securityaffairs.com/190413/uncategorized/phishing-lnk-files-and-github-c2-power-new-dprk-cyber-attacks.html)
 - Sploitus.com Exploits RSS Feed
+  - [Benchmarking-Agent-Architectures exploit](https://sploitus.com/exploit?id=1303B5DB-BF39-5F9B-939D-9E7813A30493&utm_source=rss&utm_medium=rss)
   - [Exploit for Classic Buffer Overflow in Pjsip exploit](https://sploitus.com/exploit?id=B8B1865D-0B4C-59C6-9482-D7F882514095&utm_source=rss&utm_medium=rss)
   - [Exploit for Command Injection in Paloaltonetworks Pan-Os exploit](https://sploitus.com/exploit?id=1ED5FB83-85F8-5046-94B5-00FDFF8B2E7F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-10681 exploit](https://sploitus.com/exploit?id=1A7823DE-8D23-543C-8AD3-5CF9D386E08B&utm_source=rss&utm_medium=rss)
@@ -94,6 +98,10 @@
   - [CVE-2026-34378 | AcademySoftwareFoundation OpenEXR up to 3.4.8 EXR File Parser generic_unpack integer overflow (GHSA-v76p-4qvv-vh4g)](https://vuldb.com/vuln/355541)
   - [CVE-2026-34379 | AcademySoftwareFoundation OpenEXR up to 3.2.6/3.3.8/3.4.8 EXR File Parser internal_dwa_decoder.h LossyDctDecoder_execute type conversion (GHSA-w88v-vqhq-5p24)](https://vuldb.com/vuln/355525)
   - [CVE-2026-34764 | Electron up to 39.8.4/40.8.4/41.0.x release use after free (GHSA-8x5q-pvf5-64mp)](https://vuldb.com/vuln/355535)
+  - [CVE-2026-34896 | Analytify Under Construction, Coming Soon & Maintenance Mode Plugin cross-site request forgery](https://vuldb.com/vuln/355724)
+  - [CVE-2026-34899 | Eniture LTL Freight Quotes Plugin up to 5.2.1 on WordPress authorization](https://vuldb.com/vuln/355723)
+  - [CVE-2026-34903 | OceanWP Ocean Extra Plugin up to 2.5.3 on WordPress authorization](https://vuldb.com/vuln/355726)
+  - [CVE-2026-34904 | Analytify Simple Social Media Share Buttons Plugin up to 6.2.0 on WordPress cross-site request forgery](https://vuldb.com/vuln/355725)
   - [CVE-2026-34940 | kubeai-project kubeai up to 0.23.1 Model URL engine_ollama.go ollamaStartupProbeScript os command injection (GHSA-324q-cwx9-7crr)](https://vuldb.com/vuln/355526)
   - [CVE-2026-34950 | nearform fast-jwt up to 6.1.0 JSON Web Token fast-jwt/src/crypto.js risky encryption (GHSA-mvf2-f6gm-w987)](https://vuldb.com/vuln/355549)
   - [CVE-2026-34951 | forceworkbench up to 64.x Error Page footerScripts cross site scripting (GHSA-j94x-h584-rjf9)](https://vuldb.com/vuln/355545)
@@ -151,3 +159,5 @@
   - [亚洲顶赛公益进校 | XCTF百城千赛 · AI+安全万人计划重磅启航](https://www.4hou.com/posts/NGQ2)
   - [嘶吼安全动态｜工信部NVDB平台发布风险提示：利用苹果iOS漏洞的攻击活动激增 黑客利用React2Shell发起自动化凭证窃取活动](https://www.4hou.com/posts/OGVR)
   - [梆梆安全加固再进一步：延用Android16现有策略，零修改完美适配Android17](https://www.4hou.com/posts/QXZG)
+- 绿盟科技技术博客
+  - [重磅认证！绿盟AI安全围栏通过首批国家级政务大模型安全测评](https://blog.nsfocus.net/%e9%87%8d%e7%a3%85%e8%ae%a4%e8%af%81%ef%bc%81%e7%bb%bf%e7%9b%9fai%e5%ae%89%e5%85%a8%e5%9b%b4%e6%a0%8f%e9%80%9a%e8%bf%87%e9%a6%96%e6%89%b9%e5%9b%bd%e5%ae%b6%e7%ba%a7%e6%94%bf%e5%8a%a1%e5%a4%a7%e6%a8%a1/)
