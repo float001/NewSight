@@ -2,6 +2,7 @@
 
 - 36氪
   - [中远海特、福田汽车在广州成立远福汽车供应链公司](https://36kr.com/newsflashes/3756226579694081?f=rss)
+  - [监控系统出现漏洞，300多人被带走？海康威视回应：假的](https://36kr.com/newsflashes/3756288870416896?f=rss)
   - [美汽车安全监管机构结束对特斯拉高级智能召唤功能的调查](https://36kr.com/newsflashes/3755945502130950?f=rss)
 - 404 Media
   - [Multiple Hackers Warned Anti-Porn App Quittr About Security Issue for Months](https://www.404media.co/multiple-hackers-warned-anti-porn-app-quittr-about-security-issue-for-months/)
@@ -23,6 +24,8 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Classic Buffer Overflow in Pjsip exploit](https://sploitus.com/exploit?id=B8B1865D-0B4C-59C6-9482-D7F882514095&utm_source=rss&utm_medium=rss)
   - [Exploit for Command Injection in Paloaltonetworks Pan-Os exploit](https://sploitus.com/exploit?id=1ED5FB83-85F8-5046-94B5-00FDFF8B2E7F&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-10681 exploit](https://sploitus.com/exploit?id=1A7823DE-8D23-543C-8AD3-5CF9D386E08B&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-1242 exploit](https://sploitus.com/exploit?id=FE28BD70-C77F-50AF-A06F-BFBE14E8EF58&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-33186 exploit](https://sploitus.com/exploit?id=98F4F3E9-633F-56C5-A4E8-26934256043E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-39324 exploit](https://sploitus.com/exploit?id=35C5AAD4-3968-51F1-9C7C-1421706507CC&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=F7B5851F-B53E-5FF9-9677-FC40DD5EEF55&utm_source=rss&utm_medium=rss)
@@ -33,6 +36,8 @@
 - TechCrunch
   - [Netflix launches a standalone app for kids’ games](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/)
   - [North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making](https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/)
+- unSafe.sh - 不安全
+  - [German authorities identify REvil and GandCrab ransomware bosses](https://buaq.net/go-408151.html)
 - VulDB Recent Entries
   - [CVE-2017-18892 | Mattermost Server up to 4.0.4/4.1.0 Email Template neutralization](https://vuldb.com/vuln/355672)
   - [CVE-2024-14032 | Twitch Studio up to 0.114.8 XPC Service authorization](https://vuldb.com/vuln/355544)
