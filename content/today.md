@@ -2,6 +2,8 @@
 
 - Fidelis Security
   - [How Can Active Deception Validate Security Controls in Real Environments?](https://fidelissecurity.com/threatgeek/deception/active-deception-validate-security-controls-in-modern-environments/)
+- Hacker News: Front Page
+  - [Assessing Claude Mythos Preview's cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
 - InfoSec Write-ups - Medium
   - [6+ Ways to Spot a Phishing Email in 2026](https://infosecwriteups.com/6-ways-to-spot-a-phishing-email-in-2026-c6a5d614a32e?source=rss----7b722bfd1b8d---4)
   - [Android APK Analysis Tool: AI-Powered Static Malware Analysis in Your Terminal](https://infosecwriteups.com/android-apk-analysis-tool-ai-powered-static-malware-analysis-in-your-terminal-4beb239dad12?source=rss----7b722bfd1b8d---4)
@@ -15,8 +17,10 @@
   - [Cybersecurity in the Age of Instant Software](https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-22732 exploit](https://sploitus.com/exploit?id=488076A7-101A-5961-8292-C6006527244E&utm_source=rss&utm_medium=rss)
+  - [wsa_exploits exploit](https://sploitus.com/exploit?id=7C4D36BA-F7DD-5B86-95B0-E624B97BD259&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/)
+  - [Intel signs on to Elon Musk’s Terafab chips project](https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/)
   - [Russian government hackers broke into thousands of home routers to steal passwords](https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/)
   - [Uber is the latest to be won over by Amazon’s AI chips](https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/)
 - The Decoder
@@ -24,11 +28,15 @@
 - The Verge
   - [Anthropic is launching a new AI model for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity)
   - [Satechi’s 3-in-1 travel stand now wirelessly charges your phone at 25W](https://www.theverge.com/tech/906126/satechi-3-in-1-foldable-travel-qi2-2-stand-wireless-charger-25w-pricing-availability)
+- VMRay
+  - [SOC Case Management: A Practical Guide to Getting It Right](https://www.vmray.com/soc-case-management/)
 - VulDB Recent Entries
   - [CVE-2024-36058 | Koha Library up to 23.05.9 POST Parameter opac-sendbasket.pl bib_list sql injection](https://vuldb.com/vuln/355828)
+  - [CVE-2025-14944 | inisev BackupBliss Plugin up to 2.0.0 on WordPress Endpoint initializeOfflineAjax authorization](https://vuldb.com/vuln/355839)
   - [CVE-2025-24817 | Nokia MantaRay NM Symptom Collector Application os command injection](https://vuldb.com/vuln/355815)
   - [CVE-2025-24818 | Nokia MantaRay NM Log Search Application os command injection](https://vuldb.com/vuln/355816)
   - [CVE-2025-24819 | Nokia MantaRay NM Software Manager application path traversal](https://vuldb.com/vuln/355817)
+  - [CVE-2026-22683 | Windmill Community Edition/Enterprise Edition up to 1.614.0 Backend API raw_apps authorization](https://vuldb.com/vuln/355837)
   - [CVE-2026-30460 | Daylight Studio FuelCMS 1.5.2 Blocks Remote Code Execution](https://vuldb.com/vuln/355814)
   - [CVE-2026-33815 | jackc pgproto3 array index](https://vuldb.com/vuln/355819)
   - [CVE-2026-33816 | jackc pgproto3 comparison](https://vuldb.com/vuln/355820)
@@ -50,11 +58,19 @@
   - [CVE-2026-35581 | NSA Emissary up to 8.38.x Configuration Executrix PLACE_NAME os command injection](https://vuldb.com/vuln/355830)
   - [CVE-2026-35583 | NSA Emissary up to 8.38.x API Endpoint /api/configuration/ Name path traversal](https://vuldb.com/vuln/355831)
   - [CVE-2026-35584 | freescout-help-desk freescout up to 1.8.211 /thread/read/ conversation_id missing authentication](https://vuldb.com/vuln/355824)
+  - [CVE-2026-35585 | filebrowser File Browser up to 2.63.1 FILE/USERNAME os command injection (ID 5199)](https://vuldb.com/vuln/355840)
   - [CVE-2026-35586 | pyLoad up to 0.5.0b3.dev92 SETTING set_config_value authorization](https://vuldb.com/vuln/355826)
   - [CVE-2026-35592 | pyLoad up to 0.5.0b3.dev92 UnTar.py _safe_extractall path traversal](https://vuldb.com/vuln/355825)
+  - [CVE-2026-35607 | filebrowser File Browser up to 2.63.0 Registered User privileges management (GHSA-7526-j432-6ppp)](https://vuldb.com/vuln/355834)
+  - [CVE-2026-35611 | sporkmonger addressable up to 2.8.x redos (GHSA-h27x-rffw-24p4)](https://vuldb.com/vuln/355835)
+  - [CVE-2026-39307 | MervinPraison PraisonAI up to 4.5.112 zipfile.extractall path traversal (GHSA-4ph2-f6pf-79wv)](https://vuldb.com/vuln/355836)
+  - [CVE-2026-39312 | SoftEtherVPN up to 5.2.5188 memory allocation (GHSA-q5g3-qhc6-pr3h)](https://vuldb.com/vuln/355841)
+  - [CVE-2026-39316 | OpenPrinting CUPS up to 2.4.16 on Linux scheduler/printers.c cupsdDeleteTemporaryPrinters use after free (GHSA-pjv5-prqp-46rg)](https://vuldb.com/vuln/355838)
   - [CVE-2026-39384 | freescout-help-desk freescout up to 1.8.211 limit_user_customer_visibility authorization](https://vuldb.com/vuln/355823)
   - [CVE-2026-5379 | runZero Platform up to 2.x/3.0 Organization authorization](https://vuldb.com/vuln/355802)
   - [CVE-2026-5380 | runZero Platform up to 3.0/5.2 authorization](https://vuldb.com/vuln/355810)
   - [CVE-2026-5381 | runZero Platform up to 2.1/3.0 Organization authorization](https://vuldb.com/vuln/355811)
   - [CVE-2026-5382 | runZero Platform up to 3.0/3.1/4.0.260206.0 MCP Endpoint authorization](https://vuldb.com/vuln/355812)
   - [CVE-2026-5745 | libarchive ACL Parser archive_acl_from_text_nl null pointer dereference](https://vuldb.com/vuln/355801)
+- WIRED
+  - [Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/)
