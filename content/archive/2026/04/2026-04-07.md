@@ -6,6 +6,8 @@
   - [美汽车安全监管机构结束对特斯拉高级智能召唤功能的调查](https://36kr.com/newsflashes/3755945502130950?f=rss)
 - 404 Media
   - [Multiple Hackers Warned Anti-Porn App Quittr About Security Issue for Months](https://www.404media.co/multiple-hackers-warned-anti-porn-app-quittr-about-security-issue-for-months/)
+- Arturo Di Corinto
+  - [L’INFRASTRUTTURA DEL TUTTO: Ciclo di seminari su Cybersecurity e intelligenza artificiale alla Sapienza, Università di Roma.](https://dicorinto.it/associazionismo/linfrastruttura-del-tutto-ciclo-di-seminari-su-cybersecurity-e-intelligenza-artificiale-alla-sapienza-universita-di-roma/)
 - darkreading
   - [AI-Assisted Supply Chain Attack Targets GitHub](https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github)
   - [Fortinet Issues Emergency Patch for FortiClient Zero-Day](https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day)
@@ -44,6 +46,10 @@
 - TechCrunch
   - [Netflix launches a standalone app for kids’ games](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/)
   - [North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making](https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/)
+- The Trail of Bits Blog
+  - [What we learned about TEE security from auditing WhatsApp's Private Inference](https://blog.trailofbits.com/2026/04/07/what-we-learned-about-tee-security-from-auditing-whatsapps-private-inference/)
+- The Verge
+  - [Gemini is making it faster for distressed users to reach mental health resources](https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update)
 - unSafe.sh - 不安全
   - [German authorities identify REvil and GandCrab ransomware bosses](https://buaq.net/go-408151.html)
 - VulDB Recent Entries
@@ -153,6 +159,8 @@
   - [CVE-2026-5719 | itsourcecode Construction Management System 1.0 /borrowedtool.php sql injection](https://vuldb.com/vuln/355661)
 - Westenberg.
   - [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/)
+- WIRED
+  - [He Started a Social Network Alone. Then 5 Million People Signed Up](https://www.wired.com/story/the-big-interview-podcast-upscrolled-founder-issam-hijazi/)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
   - [“影子AI”危机？绿盟威胁情报“三把锁”，构筑OpenClaw防御体系](https://www.4hou.com/posts/W1kE)
   - [一只AI“龙虾”的冰火一周：从全网追捧到紧急卸载——OpenClaw爆火背后的三大智能体安全风险与应对](https://www.4hou.com/posts/VWgz)
