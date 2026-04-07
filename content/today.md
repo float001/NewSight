@@ -1,13 +1,28 @@
 # 今日安全资讯（2026-04-08）
 
+- Fidelis Security
+  - [How Can Active Deception Validate Security Controls in Real Environments?](https://fidelissecurity.com/threatgeek/deception/active-deception-validate-security-controls-in-modern-environments/)
+- InfoSec Write-ups - Medium
+  - [6+ Ways to Spot a Phishing Email in 2026](https://infosecwriteups.com/6-ways-to-spot-a-phishing-email-in-2026-c6a5d614a32e?source=rss----7b722bfd1b8d---4)
+  - [Android APK Analysis Tool: AI-Powered Static Malware Analysis in Your Terminal](https://infosecwriteups.com/android-apk-analysis-tool-ai-powered-static-malware-analysis-in-your-terminal-4beb239dad12?source=rss----7b722bfd1b8d---4)
+  - [The Company Fixed the Breach… but Forgot the Root Cause](https://infosecwriteups.com/the-company-fixed-the-breach-but-forgot-the-root-cause-ed2c3a82e4e2?source=rss----7b722bfd1b8d---4)
+  - [TryHackMe: CSRF Introduction — Full Walkthrough](https://infosecwriteups.com/tryhackme-csrf-introduction-full-walkthrough-c97c1a94e575?source=rss----7b722bfd1b8d---4)
+  - [Why strip_tags() Does Not Protect You From XSS in PHP/Laravel](https://infosecwriteups.com/why-strip-tags-does-not-protect-you-from-xss-in-php-laravel-c97d0e805213?source=rss----7b722bfd1b8d---4)
+  - [Writeup for picoCTF challenge “Old Sessions”](https://infosecwriteups.com/writeup-for-picoctf-challenge-old-sessions-8d59f82aedc2?source=rss----7b722bfd1b8d---4)
 - NetSPI
   - [Regulatory-Ready Security: Ensuring FCC Compliance for Routers](https://www.netspi.com/blog/executive-blog/hardware-systems/regulatory-ready-security-ensuring-fcc-compliance-for-routers/)
+- Schneier on Security
+  - [Cybersecurity in the Age of Instant Software](https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-22732 exploit](https://sploitus.com/exploit?id=488076A7-101A-5961-8292-C6006527244E&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/)
   - [Russian government hackers broke into thousands of home routers to steal passwords](https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/)
   - [Uber is the latest to be won over by Amazon’s AI chips](https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/)
 - The Decoder
   - [Microsoft's Bing team open-sources "Harrier" embedding model](https://the-decoder.com/microsofts-bing-team-open-sources-harrier-embedding-model/)
 - The Verge
+  - [Anthropic is launching a new AI model for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity)
   - [Satechi’s 3-in-1 travel stand now wirelessly charges your phone at 25W](https://www.theverge.com/tech/906126/satechi-3-in-1-foldable-travel-qi2-2-stand-wireless-charger-25w-pricing-availability)
 - VulDB Recent Entries
   - [CVE-2024-36058 | Koha Library up to 23.05.9 POST Parameter opac-sendbasket.pl bib_list sql injection](https://vuldb.com/vuln/355828)
