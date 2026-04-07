@@ -1,5 +1,10 @@
 # 今日安全资讯（2026-04-08）
 
+- Ars Technica - All content
+  - [Apple and Lenovo have the least repairable laptops, analysis finds](https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/)
+- Daring Fireball
+  - [Sam Altman, in a Video Released by OpenAI, Apparently Thinks AGI Is Going to Hit Society Like a Once-a-Century Pandemic](https://x.com/OpenAINewsroom/status/2041618671236469200?s=20)
+  - [Solar Eclipse From the Far Side of the Moon](https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon)
 - darkreading
   - [Storm-1175 Deploys Medusa Ransomware at 'High Velocity'](https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity)
 - Fidelis Security
