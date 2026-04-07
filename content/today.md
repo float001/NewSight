@@ -4,6 +4,10 @@
   - [How Can Active Deception Validate Security Controls in Real Environments?](https://fidelissecurity.com/threatgeek/deception/active-deception-validate-security-controls-in-modern-environments/)
 - Hacker News: Front Page
   - [Assessing Claude Mythos Preview's cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
+  - [US Labor Force Participation Continues to Slide](https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/potential-workers-on-the-sidelines-labor-force-participation-continues-to-slide/)
+- Horizon3.ai
+  - [10 Minutes with Claude: Remote Code Execution in Apache ActiveMQ (CVE-2026-34197)](https://horizon3.ai/intelligence/blogs/cve-2026-34197-activemq-rce-jolokia/)
+  - [CVE-2026-34197](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-34197/)
 - InfoSec Write-ups - Medium
   - [6+ Ways to Spot a Phishing Email in 2026](https://infosecwriteups.com/6-ways-to-spot-a-phishing-email-in-2026-c6a5d614a32e?source=rss----7b722bfd1b8d---4)
   - [Android APK Analysis Tool: AI-Powered Static Malware Analysis in Your Terminal](https://infosecwriteups.com/android-apk-analysis-tool-ai-powered-static-malware-analysis-in-your-terminal-4beb239dad12?source=rss----7b722bfd1b8d---4)
@@ -17,10 +21,12 @@
   - [Cybersecurity in the Age of Instant Software](https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-22732 exploit](https://sploitus.com/exploit?id=488076A7-101A-5961-8292-C6006527244E&utm_source=rss&utm_medium=rss)
+  - [penetration-testing-engagement exploit](https://sploitus.com/exploit?id=51411DF4-D653-56C6-A75E-2B7B83171732&utm_source=rss&utm_medium=rss)
   - [wsa_exploits exploit](https://sploitus.com/exploit?id=7C4D36BA-F7DD-5B86-95B0-E624B97BD259&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/)
   - [Intel signs on to Elon Musk’s Terafab chips project](https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/)
+  - [Iranian hackers are targeting American critical infrastructure, U.S. agencies warn](https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/)
   - [Russian government hackers broke into thousands of home routers to steal passwords](https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/)
   - [Uber is the latest to be won over by Amazon’s AI chips](https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/)
 - The Decoder
@@ -36,8 +42,17 @@
   - [CVE-2025-24817 | Nokia MantaRay NM Symptom Collector Application os command injection](https://vuldb.com/vuln/355815)
   - [CVE-2025-24818 | Nokia MantaRay NM Log Search Application os command injection](https://vuldb.com/vuln/355816)
   - [CVE-2025-24819 | Nokia MantaRay NM Software Manager application path traversal](https://vuldb.com/vuln/355817)
+  - [CVE-2025-71058 | Dual DHCP DNS Server 8.01 UDP DNS Response injection](https://vuldb.com/vuln/355909)
   - [CVE-2026-22683 | Windmill Community Edition/Enterprise Edition up to 1.614.0 Backend API raw_apps authorization](https://vuldb.com/vuln/355837)
+  - [CVE-2026-22711 | Wikimedia Wikilove Extension up to 1.43.6/1.44.3/1.45.1 on Mediawiki cross site scripting](https://vuldb.com/vuln/355913)
+  - [CVE-2026-28386 | OpenSSL up to 3.6.1 on x86-64 AES-CFB-128 out-of-bounds](https://vuldb.com/vuln/355902)
+  - [CVE-2026-28387 | OpenSSL up to 3.6.1 DANE Client Code use after free](https://vuldb.com/vuln/355903)
+  - [CVE-2026-28388 | OpenSSL up to 3.6.1 Delta CRL null pointer dereference](https://vuldb.com/vuln/355904)
+  - [CVE-2026-28389 | OpenSSL up to 3.6.1 CMS EnvelopedData Message CMS_decrypt null pointer dereference](https://vuldb.com/vuln/355905)
+  - [CVE-2026-28390 | OpenSSL up to 3.6.1 CMS KeyTransportRecipientInfo CMS_decrypt null pointer dereference](https://vuldb.com/vuln/355906)
   - [CVE-2026-30460 | Daylight Studio FuelCMS 1.5.2 Blocks Remote Code Execution](https://vuldb.com/vuln/355814)
+  - [CVE-2026-31789 | OpenSSL up to 3.0.19/3.3.6/3.4.4/3.5.5/3.6.1 Hexadecimal Conversion heap-based overflow](https://vuldb.com/vuln/355907)
+  - [CVE-2026-31790 | OpenSSL up to 3.0.19/3.3.6/3.4.4/3.5.5/3.6.1 RSA KEM RSASVE Encapsulation RSA_public_encrypt uninitialized pointer](https://vuldb.com/vuln/355901)
   - [CVE-2026-33815 | jackc pgproto3 array index](https://vuldb.com/vuln/355819)
   - [CVE-2026-33816 | jackc pgproto3 comparison](https://vuldb.com/vuln/355820)
   - [CVE-2026-35461 | papra-hq papra up to 26.3.x server-side request forgery (GHSA-cjw7-qg95-58mq)](https://vuldb.com/vuln/355813)
@@ -66,11 +81,16 @@
   - [CVE-2026-39307 | MervinPraison PraisonAI up to 4.5.112 zipfile.extractall path traversal (GHSA-4ph2-f6pf-79wv)](https://vuldb.com/vuln/355836)
   - [CVE-2026-39312 | SoftEtherVPN up to 5.2.5188 memory allocation (GHSA-q5g3-qhc6-pr3h)](https://vuldb.com/vuln/355841)
   - [CVE-2026-39316 | OpenPrinting CUPS up to 2.4.16 on Linux scheduler/printers.c cupsdDeleteTemporaryPrinters use after free (GHSA-pjv5-prqp-46rg)](https://vuldb.com/vuln/355838)
+  - [CVE-2026-39351 | Frappe up to 15.103.x/16.13.x API authorization](https://vuldb.com/vuln/355914)
+  - [CVE-2026-39354 | Erudika scoold up to 1.66.1 /questions/ask postId authorization](https://vuldb.com/vuln/355911)
+  - [CVE-2026-39355 | MGeurts genealogy up to 5.9.0 authorization](https://vuldb.com/vuln/355908)
+  - [CVE-2026-39360 | RustFS up to alpha.89 Multipart Upload authorization](https://vuldb.com/vuln/355912)
   - [CVE-2026-39384 | freescout-help-desk freescout up to 1.8.211 limit_user_customer_visibility authorization](https://vuldb.com/vuln/355823)
   - [CVE-2026-5379 | runZero Platform up to 2.x/3.0 Organization authorization](https://vuldb.com/vuln/355802)
   - [CVE-2026-5380 | runZero Platform up to 3.0/5.2 authorization](https://vuldb.com/vuln/355810)
   - [CVE-2026-5381 | runZero Platform up to 2.1/3.0 Organization authorization](https://vuldb.com/vuln/355811)
   - [CVE-2026-5382 | runZero Platform up to 3.0/3.1/4.0.260206.0 MCP Endpoint authorization](https://vuldb.com/vuln/355812)
   - [CVE-2026-5745 | libarchive ACL Parser archive_acl_from_text_nl null pointer dereference](https://vuldb.com/vuln/355801)
+  - [CVE-2026-5762 | Wikimedia Reportcident Extension 1.43.7/1.44.4/1.45.2 on MediaWiki allocation of resources](https://vuldb.com/vuln/355910)
 - WIRED
   - [Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/)
