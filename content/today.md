@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-04-07）
 
+- 36氪
+  - [美汽车安全监管机构结束对特斯拉高级智能召唤功能的调查](https://36kr.com/newsflashes/3755945502130950?f=rss)
 - 404 Media
   - [Multiple Hackers Warned Anti-Porn App Quittr About Security Issue for Months](https://www.404media.co/multiple-hackers-warned-anti-porn-app-quittr-about-security-issue-for-months/)
 - darkreading
@@ -106,3 +108,5 @@
   - [CVE-2026-5495 | Labcenter Proteus PDSPRJ File Parser out-of-bounds write](https://vuldb.com/vuln/355610)
   - [CVE-2026-5496 | Labcenter Proteus PDSPRJ File Parser type confusion](https://vuldb.com/vuln/355609)
   - [CVE-2026-5719 | itsourcecode Construction Management System 1.0 /borrowedtool.php sql injection](https://vuldb.com/vuln/355661)
+- Westenberg.
+  - [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/)
