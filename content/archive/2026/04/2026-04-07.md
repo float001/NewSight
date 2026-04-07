@@ -30,6 +30,7 @@
   - [Exploit for CVE-2026-39324 exploit](https://sploitus.com/exploit?id=35C5AAD4-3968-51F1-9C7C-1421706507CC&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=F7B5851F-B53E-5FF9-9677-FC40DD5EEF55&utm_source=rss&utm_medium=rss)
   - [Exploit for Heap-based Buffer Overflow in Pjsip exploit](https://sploitus.com/exploit?id=79061C23-4CF0-5FA2-9C56-9286C54D9E03&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Input Validation in Nodejs Node.Js exploit](https://sploitus.com/exploit?id=44209D78-94AF-5445-A3E3-58CF4A96497B&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of XML External Entity Reference in Cisco Secure_Endpoint exploit](https://sploitus.com/exploit?id=D5323B2C-1FC2-533E-8E4E-4992D4AB4648&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Gnu Glibc exploit](https://sploitus.com/exploit?id=6CBB32FF-16A3-51BB-B228-1F6AC06CCFD0&utm_source=rss&utm_medium=rss)
   - [pentest-agent exploit](https://sploitus.com/exploit?id=97F1E034-3D73-5D5B-86DA-90831A594737&utm_source=rss&utm_medium=rss)
@@ -134,6 +135,8 @@
 - Westenberg.
   - [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [“影子AI”危机？绿盟威胁情报“三把锁”，构筑OpenClaw防御体系](https://www.4hou.com/posts/W1kE)
+  - [一只AI“龙虾”的冰火一周：从全网追捧到紧急卸载——OpenClaw爆火背后的三大智能体安全风险与应对](https://www.4hou.com/posts/VWgz)
   - [亚洲顶赛公益进校 | XCTF百城千赛 · AI+安全万人计划重磅启航](https://www.4hou.com/posts/NGQ2)
   - [嘶吼安全动态｜工信部NVDB平台发布风险提示：利用苹果iOS漏洞的攻击活动激增 黑客利用React2Shell发起自动化凭证窃取活动](https://www.4hou.com/posts/OGVR)
   - [梆梆安全加固再进一步：延用Android16现有策略，零修改完美适配Android17](https://www.4hou.com/posts/QXZG)
