@@ -26,6 +26,7 @@
   - [New Mexico’s Meta Ruling and Encryption](https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html)
 - Security Affairs
   - [Experts published unpatched Windows zero-day BlueHammer](https://securityaffairs.com/190400/breaking-news/experts-published-unpatched-windows-zero-day-bluehammer.html)
+  - [GPUBreach exploit uses GPU memory bit-flips to achieve full system takeover](https://securityaffairs.com/190455/security/gpubreach-exploit-uses-gpu-memory-bit-flips-to-achieve-full-system-takeover.html)
   - [Phishing LNK files and GitHub C2 power new DPRK cyber attacks](https://securityaffairs.com/190413/uncategorized/phishing-lnk-files-and-github-c2-power-new-dprk-cyber-attacks.html)
 - Sploitus.com Exploits RSS Feed
   - [Benchmarking-Agent-Architectures exploit](https://sploitus.com/exploit?id=1303B5DB-BF39-5F9B-939D-9E7813A30493&utm_source=rss&utm_medium=rss)
@@ -46,6 +47,8 @@
 - TechCrunch
   - [Netflix launches a standalone app for kids’ games](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/)
   - [North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making](https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/)
+- Terence Eden’s Blog
+  - [Did WordPress VIP leak my phone number?](https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/)
 - The Trail of Bits Blog
   - [What we learned about TEE security from auditing WhatsApp's Private Inference](https://blog.trailofbits.com/2026/04/07/what-we-learned-about-tee-security-from-auditing-whatsapps-private-inference/)
 - The Verge
@@ -57,6 +60,7 @@
   - [CVE-2024-14032 | Twitch Studio up to 0.114.8 XPC Service authorization](https://vuldb.com/vuln/355544)
   - [CVE-2025-13044 | IBM Concert up to 2.2.0 Temporary File generation of predictable numbers or identifiers](https://vuldb.com/vuln/355709)
   - [CVE-2025-15611 | Popup Box Plugin up to 5.4.x on WordPress add_or_edit_popupbox cross-site request forgery](https://vuldb.com/vuln/355719)
+  - [CVE-2025-31257 | Oracle Java SE 8u461-b50 JavaFX WebKitGTK memory corruption](https://vuldb.com/vuln/355727)
   - [CVE-2025-47374 | Qualcomm Snapdragon CCW/Snapdragon Compute FastConnect 6900 up to XRV7209 use after free](https://vuldb.com/vuln/355546)
   - [CVE-2025-47389 | Qualcomm Snapdragon Auto up to XRV9209 buffer overflow](https://vuldb.com/vuln/355543)
   - [CVE-2025-48651 | Google Android privilege escalation](https://vuldb.com/vuln/355639)
