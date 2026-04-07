@@ -20,8 +20,10 @@
 - Security Affairs
   - [Phishing LNK files and GitHub C2 power new DPRK cyber attacks](https://securityaffairs.com/190413/uncategorized/phishing-lnk-files-and-github-c2-power-new-dprk-cyber-attacks.html)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Classic Buffer Overflow in Pjsip exploit](https://sploitus.com/exploit?id=B8B1865D-0B4C-59C6-9482-D7F882514095&utm_source=rss&utm_medium=rss)
   - [Exploit for Command Injection in Paloaltonetworks Pan-Os exploit](https://sploitus.com/exploit?id=1ED5FB83-85F8-5046-94B5-00FDFF8B2E7F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-33186 exploit](https://sploitus.com/exploit?id=98F4F3E9-633F-56C5-A4E8-26934256043E&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-39324 exploit](https://sploitus.com/exploit?id=35C5AAD4-3968-51F1-9C7C-1421706507CC&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=F7B5851F-B53E-5FF9-9677-FC40DD5EEF55&utm_source=rss&utm_medium=rss)
   - [Exploit for Heap-based Buffer Overflow in Pjsip exploit](https://sploitus.com/exploit?id=79061C23-4CF0-5FA2-9C56-9286C54D9E03&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Gnu Glibc exploit](https://sploitus.com/exploit?id=6CBB32FF-16A3-51BB-B228-1F6AC06CCFD0&utm_source=rss&utm_medium=rss)
