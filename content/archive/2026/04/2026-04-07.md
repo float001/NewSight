@@ -16,6 +16,8 @@
   - [Show HN: I Built Paul Graham's Intellectual Captcha Idea](https://mentwire.com/sample)
 - http://www.infosecurity-magazine.com/rss/news/
   - [Fortinet Releases Emergency Patch After FortiClient EMS Bug Is Exploited](https://www.infosecurity-magazine.com/news/fortinet-emergency-patch-ems-bug/)
+- ICT Security Magazine
+  - [Cybersecurity sanitaria: come difendere gli ospedali da ransomware e cyber-intrusioni](https://www.ictsecuritymagazine.com/articoli/cybersecurity-sanitaria/)
 - NetSPI
   - [AI Fools Week: Don’t Let AI Fool Your Pentesting Strategy](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/ai-fools-week-dont-let-ai-fool-your-pentesting-strategy/)
 - NVIDIA Blog
@@ -27,6 +29,7 @@
   - [New Mexico’s Meta Ruling and Encryption](https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html)
 - Security Affairs
   - [Experts published unpatched Windows zero-day BlueHammer](https://securityaffairs.com/190400/breaking-news/experts-published-unpatched-windows-zero-day-bluehammer.html)
+  - [Fast-moving Storm-1175 uses new exploits to breach networks and drop Medusa](https://securityaffairs.com/190440/cyber-crime/fast-moving-storm-1175-uses-new-exploits-to-breach-networks-and-drop-medusa.html)
   - [GPUBreach exploit uses GPU memory bit-flips to achieve full system takeover](https://securityaffairs.com/190455/security/gpubreach-exploit-uses-gpu-memory-bit-flips-to-achieve-full-system-takeover.html)
   - [Phishing LNK files and GitHub C2 power new DPRK cyber attacks](https://securityaffairs.com/190413/uncategorized/phishing-lnk-files-and-github-c2-power-new-dprk-cyber-attacks.html)
 - Sploitus.com Exploits RSS Feed
@@ -48,20 +51,24 @@
 - TechCrunch
   - [Netflix launches a standalone app for kids’ games](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/)
   - [North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making](https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/)
+  - [Trump administration plans to cut cybersecurity agency’s budget by $700 million](https://techcrunch.com/2026/04/07/cisa-budget-cuts-700-million-cybersecurity-agency-trump/)
 - Terence Eden’s Blog
   - [Did WordPress VIP leak my phone number?](https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/)
 - The Trail of Bits Blog
   - [What we learned about TEE security from auditing WhatsApp's Private Inference](https://blog.trailofbits.com/2026/04/07/what-we-learned-about-tee-security-from-auditing-whatsapps-private-inference/)
 - The Verge
+  - [Asus’ lightweight 16-inch laptop is a formidable MacBook Air alternative](https://www.theverge.com/tech/907864/asus-zenbook-a16-snapdragon-x2-elite-extreme-review)
   - [Gemini is making it faster for distressed users to reach mental health resources](https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update)
 - unSafe.sh - 不安全
   - [German authorities identify REvil and GandCrab ransomware bosses](https://buaq.net/go-408151.html)
 - VulDB Recent Entries
   - [CVE-2017-18892 | Mattermost Server up to 4.0.4/4.1.0 Email Template neutralization](https://vuldb.com/vuln/355672)
+  - [CVE-2021-4473 | Beijing Topsec Network Security Tianxin Internet Behavior Management System prior 4.0.0.7_20210716.180815 Reporter objClass os command injection (CNVD-2021-41972)](https://vuldb.com/vuln/355735)
   - [CVE-2024-14032 | Twitch Studio up to 0.114.8 XPC Service authorization](https://vuldb.com/vuln/355544)
   - [CVE-2025-13044 | IBM Concert up to 2.2.0 Temporary File generation of predictable numbers or identifiers](https://vuldb.com/vuln/355709)
   - [CVE-2025-15611 | Popup Box Plugin up to 5.4.x on WordPress add_or_edit_popupbox cross-site request forgery](https://vuldb.com/vuln/355719)
   - [CVE-2025-31257 | Oracle Java SE 8u461-b50 JavaFX WebKitGTK memory corruption](https://vuldb.com/vuln/355727)
+  - [CVE-2025-39666 | Checkmk up to 2.2.0/2.3.0p45/2.4.0p24/2.5.0b2 untrusted search path](https://vuldb.com/vuln/355733)
   - [CVE-2025-47374 | Qualcomm Snapdragon CCW/Snapdragon Compute FastConnect 6900 up to XRV7209 use after free](https://vuldb.com/vuln/355546)
   - [CVE-2025-47389 | Qualcomm Snapdragon Auto up to XRV9209 buffer overflow](https://vuldb.com/vuln/355543)
   - [CVE-2025-48651 | Google Android privilege escalation](https://vuldb.com/vuln/355639)
@@ -81,6 +88,10 @@
   - [CVE-2026-20432 | MediaTek MT8893 Base Station out-of-bounds write (MSV-4461)](https://vuldb.com/vuln/355707)
   - [CVE-2026-20433 | MediaTek MT8893 Base Station out-of-bounds write (MSV-4460)](https://vuldb.com/vuln/355708)
   - [CVE-2026-20446 | MediaTek MT6813 sec boot out-of-bounds write (MSV-3899 / ALPS09963054)](https://vuldb.com/vuln/355710)
+  - [CVE-2026-22666 | Dolibarr ERP CRM up to 23.0.1 dol_eval_standard eval injection](https://vuldb.com/vuln/355736)
+  - [CVE-2026-22679 | Weaver Network e-cology 10.0/2026-03-31 POST Request method interfaceName/methodName missing authentication](https://vuldb.com/vuln/355737)
+  - [CVE-2026-23818 | HPE Private 5G Core up to 1.25.3.0 Graphical User Interface redirect](https://vuldb.com/vuln/355730)
+  - [CVE-2026-28808 | Erlang OTP up to 28.4.2 mod_alias.erl script_alias authorization](https://vuldb.com/vuln/355732)
   - [CVE-2026-28810 | Erlang OTP up to 28.4.2 inet_res/inet_db generation of predictable numbers or identifiers](https://vuldb.com/vuln/355721)
   - [CVE-2026-29047 | glpi-project glpi up to 10.0.24/11.0.5 Logs Export sql injection (GHSA-3m49-qf92-vccr)](https://vuldb.com/vuln/355537)
   - [CVE-2026-30613 | AZIOT 1.1.9 UART Interface information disclosure](https://vuldb.com/vuln/355635)
@@ -97,10 +108,13 @@
   - [CVE-2026-31353 | Feehi CMS 2.1.1 Category Name cross site scripting (ID 84)](https://vuldb.com/vuln/355548)
   - [CVE-2026-31354 | Feehi CMS 2.1.1 Permissions Group/Category/Description cross site scripting (ID 85)](https://vuldb.com/vuln/355550)
   - [CVE-2026-3177 | smub Charitable Plugin up to 1.8.9.7 on WordPress Webhook payment_intent.succeeded data authenticity](https://vuldb.com/vuln/355722)
+  - [CVE-2026-32144 | Erlang OTP up to 28.4.2 Self-Signed Certificate pubkey_ocsp.erl certificate validation](https://vuldb.com/vuln/355731)
   - [CVE-2026-33227 | Apache ActiveMQ Client/ActiveMQ Broker/ActiveMQ path traversal](https://vuldb.com/vuln/355605)
   - [CVE-2026-33405 | pi-hole web up to 6.4 queries.js formatInfo cross site scripting (GHSA-jx8x-mj2r-62vq)](https://vuldb.com/vuln/355539)
   - [CVE-2026-33727 | Pi-hole up to 6.4.0 /etc/pihole/versions privileges management (GHSA-c935-8g63-qp74)](https://vuldb.com/vuln/355527)
   - [CVE-2026-33817 | etcd bbolt Branch Page out-of-bounds (ID 4923)](https://vuldb.com/vuln/355640)
+  - [CVE-2026-33865 | mlflow up to 3.10.1 Web Interface cross site scripting](https://vuldb.com/vuln/355738)
+  - [CVE-2026-33866 | MLflow up to 3.10.1 AJAX Endpoint authorization](https://vuldb.com/vuln/355742)
   - [CVE-2026-34148 | fedify vocab-runtime up to 1.9.5/1.10.4/2.0.7/2.1.0 Outbound Request resource consumption (GHSA-gm9m-gwc4-hwgp)](https://vuldb.com/vuln/355524)
   - [CVE-2026-34197 | Apache ActiveMQ Broker/ActiveMQ Jolokia MBeans Remote Code Execution](https://vuldb.com/vuln/355606)
   - [CVE-2026-34208 | nyariv SandboxJS up to 0.8.35 protection mechanism (GHSA-2gg9-6p7w-6cpj)](https://vuldb.com/vuln/355540)
@@ -108,6 +122,7 @@
   - [CVE-2026-34217 | nyariv SandboxJS up to 0.8.35 exposure of resource (GHSA-hg73-4w7g-q96w)](https://vuldb.com/vuln/355534)
   - [CVE-2026-34378 | AcademySoftwareFoundation OpenEXR up to 3.4.8 EXR File Parser generic_unpack integer overflow (GHSA-v76p-4qvv-vh4g)](https://vuldb.com/vuln/355541)
   - [CVE-2026-34379 | AcademySoftwareFoundation OpenEXR up to 3.2.6/3.3.8/3.4.8 EXR File Parser internal_dwa_decoder.h LossyDctDecoder_execute type conversion (GHSA-w88v-vqhq-5p24)](https://vuldb.com/vuln/355525)
+  - [CVE-2026-3466 | Checkmk up to 2.2.0/2.3.0p45/2.4.0p24/2.5.0b2 Dashboard Dashlet Title Link cross site scripting](https://vuldb.com/vuln/355734)
   - [CVE-2026-34764 | Electron up to 39.8.4/40.8.4/41.0.x release use after free (GHSA-8x5q-pvf5-64mp)](https://vuldb.com/vuln/355535)
   - [CVE-2026-34896 | Analytify Under Construction, Coming Soon & Maintenance Mode Plugin cross-site request forgery](https://vuldb.com/vuln/355724)
   - [CVE-2026-34899 | Eniture LTL Freight Quotes Plugin up to 5.2.1 on WordPress authorization](https://vuldb.com/vuln/355723)
@@ -153,6 +168,7 @@
   - [CVE-2026-35452 | WWBN AVideo up to 26.0 CloneSite Plugin client.log.php information disclosure (GHSA-99j6-hj87-6fcf)](https://vuldb.com/vuln/355701)
   - [CVE-2026-35454 | coder code-marketplace up to 2.4.1 VSIX File Parser path traversal (GHSA-8x9r-hvwg-c55h)](https://vuldb.com/vuln/355705)
   - [CVE-2026-35470 | devcode-it openstamanager up to 2.10.1 Customer Information confronta_righe.php righe sql injection (GHSA-mmm5-3g4x-qw39)](https://vuldb.com/vuln/355617)
+  - [CVE-2026-35554 | Apache Kafka Clients up to 3.9.1/4.0.1/4.1.1 Producer Message use after free](https://vuldb.com/vuln/355745)
   - [CVE-2026-39306 | MervinPraison PraisonAI up to 4.5.112 Recipe Registry Pull path traversal](https://vuldb.com/vuln/355712)
   - [CVE-2026-39308 | MervinPraison PraisonAI up to 4.5.112 Recipe Registry path traversal](https://vuldb.com/vuln/355711)
   - [CVE-2026-4079 | Guaven Labs SQL Chart Builder Plugin up to 2.3.7 on WordPress sql injection](https://vuldb.com/vuln/355714)
@@ -162,6 +178,12 @@
   - [CVE-2026-5495 | Labcenter Proteus PDSPRJ File Parser out-of-bounds write](https://vuldb.com/vuln/355610)
   - [CVE-2026-5496 | Labcenter Proteus PDSPRJ File Parser type confusion](https://vuldb.com/vuln/355609)
   - [CVE-2026-5719 | itsourcecode Construction Management System 1.0 /borrowedtool.php sql injection](https://vuldb.com/vuln/355661)
+  - [CVE-2026-5731 | Mozilla Firefox up to 149.0.1 memory corruption](https://vuldb.com/vuln/355739)
+  - [CVE-2026-5732 | Mozilla Firefox up to 149.0.1 Text integer overflow](https://vuldb.com/vuln/355744)
+  - [CVE-2026-5733 | Mozilla Firefox up to 149.0.1 WebGPU memory corruption](https://vuldb.com/vuln/355743)
+  - [CVE-2026-5734 | Mozilla Firefox up to 149.0.1 memory corruption](https://vuldb.com/vuln/355740)
+  - [CVE-2026-5735 | Mozilla Firefox up to 149.0.1 memory corruption](https://vuldb.com/vuln/355741)
+  - [CVE-2026-5736 | PowerJob 5.1.0/5.1.1/5.1.2 detailPlus Endpoint InstanceController.java customQuery sql injection (Issue 1167)](https://vuldb.com/vuln/355746)
 - Westenberg.
   - [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/)
 - WIRED
