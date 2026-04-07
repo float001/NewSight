@@ -12,6 +12,9 @@
   - [AI-Assisted Supply Chain Attack Targets GitHub](https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github)
   - [Focusing on the People in Cybersecurity at RSAC 2026 Conference](https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026)
   - [Fortinet Issues Emergency Patch for FortiClient Zero-Day](https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day)
+  - [Human vs AI: Debates Shape RSAC 2026 Cybersecurity Trends](https://www.darkreading.com/cybersecurity-operations/human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends)
+  - [Lies, Damned Lies, and Cybersecurity Metrics](https://www.darkreading.com/cyber-risk/lies-damned-lies-cybersecurity-metrics)
+  - [RSAC 2026: How AI Is Reshaping Cybersecurity Faster Than Ever](https://www.darkreading.com/cybersecurity-operations/rsac-2026-how-ai-is-reshaping-cybersecurity-faster-than-ever)
 - Hacker News: Front Page
   - [Show HN: I Built Paul Graham's Intellectual Captcha Idea](https://mentwire.com/sample)
 - http://www.infosecurity-magazine.com/rss/news/
@@ -24,6 +27,8 @@
   - [National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/)
 - Offensive Security Blog: Latest Trends in Hacking | Praetorian
   - [The Attack Helix: Praetorian Guard’s AI Architecture for Offensive Security](https://www.praetorian.com/blog/the-attack-helix-praetorian-guards-ai-architecture-for-offensive-security/)
+- Qualys Security Blog
+  - [Signals from the Cloud Security Forecast 2026: Cloud Risk Is Scaling through Design, Not Disruption](https://blog.qualys.com/category/qualys-insights)
 - Schneier on Security
   - [Hong Kong Police Can Force You to Reveal Your Encryption Keys](https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html)
   - [New Mexico’s Meta Ruling and Encryption](https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html)
@@ -58,9 +63,11 @@
   - [What we learned about TEE security from auditing WhatsApp's Private Inference](https://blog.trailofbits.com/2026/04/07/what-we-learned-about-tee-security-from-auditing-whatsapps-private-inference/)
 - The Verge
   - [Asus’ lightweight 16-inch laptop is a formidable MacBook Air alternative](https://www.theverge.com/tech/907864/asus-zenbook-a16-snapdragon-x2-elite-extreme-review)
+  - [First photos of solar eclipse from Artemis II crew look almost too good to be real](https://www.theverge.com/science/907953/nasa-artemis-astronaut-total-solar-eclipse-photo)
   - [Gemini is making it faster for distressed users to reach mental health resources](https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update)
 - unSafe.sh - 不安全
   - [German authorities identify REvil and GandCrab ransomware bosses](https://buaq.net/go-408151.html)
+  - [Legacy Systems are Undermining Financial Institution Cybersecurity](https://buaq.net/go-408293.html)
 - VulDB Recent Entries
   - [CVE-2017-18892 | Mattermost Server up to 4.0.4/4.1.0 Email Template neutralization](https://vuldb.com/vuln/355672)
   - [CVE-2021-4473 | Beijing Topsec Network Security Tianxin Internet Behavior Management System prior 4.0.0.7_20210716.180815 Reporter objClass os command injection (CNVD-2021-41972)](https://vuldb.com/vuln/355735)
@@ -88,9 +95,14 @@
   - [CVE-2026-20432 | MediaTek MT8893 Base Station out-of-bounds write (MSV-4461)](https://vuldb.com/vuln/355707)
   - [CVE-2026-20433 | MediaTek MT8893 Base Station out-of-bounds write (MSV-4460)](https://vuldb.com/vuln/355708)
   - [CVE-2026-20446 | MediaTek MT6813 sec boot out-of-bounds write (MSV-3899 / ALPS09963054)](https://vuldb.com/vuln/355710)
+  - [CVE-2026-20884 | LibRaw File deflate_dng_load_raw integer overflow (TALOS-2026-2364)](https://vuldb.com/vuln/355750)
+  - [CVE-2026-20889 | LibRaw d20315b File x3f_thumb_loader integer overflow (TALOS-2026-2358)](https://vuldb.com/vuln/355752)
+  - [CVE-2026-20911 | LibRaw 0b56545/d20315b File HuffTable::initval buffer size (TALOS-2026-2330)](https://vuldb.com/vuln/355751)
+  - [CVE-2026-21413 | LibRaw 0b56545/d20315b File lossless_jpeg_load_raw array index (TALOS-2026-2331)](https://vuldb.com/vuln/355753)
   - [CVE-2026-22666 | Dolibarr ERP CRM up to 23.0.1 dol_eval_standard eval injection](https://vuldb.com/vuln/355736)
   - [CVE-2026-22679 | Weaver Network e-cology 10.0/2026-03-31 POST Request method interfaceName/methodName missing authentication](https://vuldb.com/vuln/355737)
   - [CVE-2026-23818 | HPE Private 5G Core up to 1.25.3.0 Graphical User Interface redirect](https://vuldb.com/vuln/355730)
+  - [CVE-2026-24450 | LibRaw 8dc68e2 File uncompressed_fp_dng_load_raw integer overflow (TALOS-2026-2363)](https://vuldb.com/vuln/355754)
   - [CVE-2026-28808 | Erlang OTP up to 28.4.2 mod_alias.erl script_alias authorization](https://vuldb.com/vuln/355732)
   - [CVE-2026-28810 | Erlang OTP up to 28.4.2 inet_res/inet_db generation of predictable numbers or identifiers](https://vuldb.com/vuln/355721)
   - [CVE-2026-29047 | glpi-project glpi up to 10.0.24/11.0.5 Logs Export sql injection (GHSA-3m49-qf92-vccr)](https://vuldb.com/vuln/355537)
