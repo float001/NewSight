@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-04-08）
 
+- darkreading
+  - [Storm-1175 Deploys Medusa Ransomware at 'High Velocity'](https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity)
 - Fidelis Security
   - [How Can Active Deception Validate Security Controls in Real Environments?](https://fidelissecurity.com/threatgeek/deception/active-deception-validate-security-controls-in-modern-environments/)
 - Hacker News: Front Page
@@ -19,6 +21,10 @@
   - [Regulatory-Ready Security: Ensuring FCC Compliance for Routers](https://www.netspi.com/blog/executive-blog/hardware-systems/regulatory-ready-security-ensuring-fcc-compliance-for-routers/)
 - Schneier on Security
   - [Cybersecurity in the Age of Instant Software](https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html)
+- Security Affairs
+  - [Attackers exploit critical Flowise flaw CVE-2025-59528 for remote code execution](https://securityaffairs.com/190471/security/attackers-exploit-critical-flowise-flaw-cve-2025-59528-for-remote-code-execution.html)
+- Simon Willison's Weblog
+  - [Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me](https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-22732 exploit](https://sploitus.com/exploit?id=488076A7-101A-5961-8292-C6006527244E&utm_source=rss&utm_medium=rss)
   - [penetration-testing-engagement exploit](https://sploitus.com/exploit?id=51411DF4-D653-56C6-A75E-2B7B83171732&utm_source=rss&utm_medium=rss)
@@ -94,3 +100,4 @@
   - [CVE-2026-5762 | Wikimedia Reportcident Extension 1.43.7/1.44.4/1.45.2 on MediaWiki allocation of resources](https://vuldb.com/vuln/355910)
 - WIRED
   - [Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/)
+  - [Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure](https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/)
