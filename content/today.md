@@ -1,10 +1,23 @@
 # 今日安全资讯（2026-04-09）
 
+- SANS Internet Storm Center, InfoCON: green
+  - [TeamPCP Supply Chain Campaign: Update 007 - Cisco Source Code Stolen via Trivy-Linked Breach, Google GTIG Tracks TeamPCP as UNC6780, and CISA KEV Deadline Arrives with No Standalone Advisory, (Wed, Apr 8th)](https://isc.sans.edu/diary/rss/32880)
 - TechCrunch
   - [British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto](https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/)
   - [These are the countries moving to ban social media for children](https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/)
+- VMRay
+  - [The CISO’s Guide to Preventing Phishing Attacks](https://www.vmray.com/phishing-prevention-techniques/)
 - VulDB Recent Entries
+  - [CVE-2023-46945 | QD 20230821 server-side request forgery](https://vuldb.com/vuln/356287)
+  - [CVE-2025-14243 | Red Hat OpenShift Mirror Registry information exposure](https://vuldb.com/vuln/356281)
+  - [CVE-2025-57175 | Siklu EtherHaul 8010 10_6_2-18707-ea552dc00b hard-coded password](https://vuldb.com/vuln/356286)
+  - [CVE-2026-2377 | Red Hat OpenShift mirror registry server-side request forgery](https://vuldb.com/vuln/356284)
+  - [CVE-2026-30075 | OpenAirInterface oai-cn5g-amf 2.2.0 AUSF denial of service](https://vuldb.com/vuln/356282)
   - [CVE-2026-30080 | OpenAirInterface oai-cn5g-amf 2.2.0 Security Mode downgrade](https://vuldb.com/vuln/356269)
+  - [CVE-2026-31017 | Frappe ERPNext/Framework 16.0.1/16.1.1 HTTP Request server-side request forgery](https://vuldb.com/vuln/356283)
+  - [CVE-2026-33460 | Elastic Kibana up to 8.19.13/9.2.7/9.3.2 Internal Enrollment Endpoint authorization](https://vuldb.com/vuln/356280)
+  - [CVE-2026-33461 | Elastic Kibana up to 8.19.13/9.2.7/9.3.2 Internal API Endpoint authorization](https://vuldb.com/vuln/356279)
+  - [CVE-2026-4498 | Elastic Kibana up to 8.19.13 unnecessary privileges](https://vuldb.com/vuln/356285)
   - [CVE-2026-4837 | Rapid7 Insight Agent up to 3.3.0 on Linux Beacon eval eval injection](https://vuldb.com/vuln/356268)
   - [CVE-2026-5823 | itsourcecode Construction Management System 1.0 borrowed_tool_report.php Home sql injection](https://vuldb.com/vuln/356270)
   - [CVE-2026-5824 | code-projects Simple Laundry System 1.0 /userchecklogin.php userid sql injection](https://vuldb.com/vuln/356271)
@@ -13,3 +26,15 @@
   - [CVE-2026-5827 | code-projects Simple IT Discussion Forum 1.0 /question-function.php content sql injection](https://vuldb.com/vuln/356274)
   - [CVE-2026-5828 | code-projects Simple IT Discussion Forum 1.0 addcomment.php postid sql injection](https://vuldb.com/vuln/356275)
   - [CVE-2026-5829 | code-projects Simple IT Discussion Forum 1.0 /pages/content.php post_id sql injection](https://vuldb.com/vuln/356276)
+  - [CVE-2026-5831 | Agions taskflow-ai up to 2.1.8 terminal_execute handlers.ts os command injection](https://vuldb.com/vuln/356278)
+  - [CVE-2026-5832 | atototo api-lab-mcp up to 0.2.1 HTTP Interface src/mcp/http-server.ts source/url server-side request forgery](https://vuldb.com/vuln/356288)
+  - [CVE-2026-5833 | awwaiid mcp-server-taskwarrior up to 1.0.1 index.ts server.setRequestHandler Identifier command injection](https://vuldb.com/vuln/356289)
+  - [CVE-2026-5834 | code-projects Online Shoe Store 1.0 /admin/admin_running.php product_name cross site scripting](https://vuldb.com/vuln/356290)
+  - [CVE-2026-5835 | code-projects Online Shoe Store 1.0 admin_football.php product_name cross site scripting](https://vuldb.com/vuln/356291)
+  - [CVE-2026-5836 | code-projects Online Shoe Store 1.0 /admin/admin_product.php product_name cross site scripting](https://vuldb.com/vuln/356292)
+  - [CVE-2026-5837 | PHPGurukul News Portal Project 4.1 /news-details.php Comment sql injection](https://vuldb.com/vuln/356293)
+  - [CVE-2026-5838 | PHPGurukul News Portal Project 4.1 /admin/add-subadmins.php sadminusername sql injection](https://vuldb.com/vuln/356294)
+  - [CVE-2026-5839 | PHPGurukul News Portal Project 4.1 add-subcategory.php sucatdescription sql injection](https://vuldb.com/vuln/356295)
+  - [CVE-2026-5840 | PHPGurukul News Portal Project 4.1 check_availability.php Username sql injection](https://vuldb.com/vuln/356296)
+  - [CVE-2026-5841 | Tenda i3 1.0.0.6(2204) HTTP R7WebsSecurityHandler path traversal](https://vuldb.com/vuln/356297)
+  - [CVE-2026-5842 | decolua 9router up to 0.3.47 Administrative API Endpoint /api authorization (Issue 431)](https://vuldb.com/vuln/356298)
