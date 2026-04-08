@@ -6,8 +6,12 @@
   - [CVE-2026-20160](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-20160/)
 - SANS Internet Storm Center, InfoCON: green
   - [TeamPCP Supply Chain Campaign: Update 007 - Cisco Source Code Stolen via Trivy-Linked Breach, Google GTIG Tracks TeamPCP as UNC6780, and CISA KEV Deadline Arrives with No Standalone Advisory, (Wed, Apr 8th)](https://isc.sans.edu/diary/rss/32880)
+- Security Affairs
+  - [Russia-linked APT28 uses PRISMEX to infiltrate Ukraine and allied infrastructure with advanced tactics](https://securityaffairs.com/190510/apt/russia-linked-apt28-uses-prismex-to-infiltrate-ukraine-and-allied-infrastructure-with-advanced-tactics.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-23398 exploit](https://sploitus.com/exploit?id=6FD67DE8-8953-568D-A428-C089D15FD604&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-34197 exploit](https://sploitus.com/exploit?id=2E0523BA-5A5F-59A6-A067-CDA22B5089E8&utm_source=rss&utm_medium=rss)
+  - [sqlmap-gui exploit](https://sploitus.com/exploit?id=B0BA8C7E-F129-56A6-85C7-C1DC7D6E89AA&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto](https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/)
   - [These are the countries moving to ban social media for children](https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/)
