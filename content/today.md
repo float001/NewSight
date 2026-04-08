@@ -4,10 +4,13 @@
   - [AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties](https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties)
 - Horizon3.ai
   - [CVE-2026-20160](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-20160/)
+- NetSPI
+  - [Anthropic’s Mythos Announcement: What it Means for Security Teams](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/anthropics-mythos-announcement-what-it-means-for-security-teams/)
 - SANS Internet Storm Center, InfoCON: green
   - [TeamPCP Supply Chain Campaign: Update 007 - Cisco Source Code Stolen via Trivy-Linked Breach, Google GTIG Tracks TeamPCP as UNC6780, and CISA KEV Deadline Arrives with No Standalone Advisory, (Wed, Apr 8th)](https://isc.sans.edu/diary/rss/32880)
 - Security Affairs
   - [Russia-linked APT28 uses PRISMEX to infiltrate Ukraine and allied infrastructure with advanced tactics](https://securityaffairs.com/190510/apt/russia-linked-apt28-uses-prismex-to-infiltrate-ukraine-and-allied-infrastructure-with-advanced-tactics.html)
+  - [U.S. CISA adds a flaw in Ivanti EPMM to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190519/security/u-s-cisa-adds-a-flaw-in-ivanti-epmm-to-its-known-exploited-vulnerabilities-catalog-2.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-23398 exploit](https://sploitus.com/exploit?id=6FD67DE8-8953-568D-A428-C089D15FD604&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-34197 exploit](https://sploitus.com/exploit?id=2E0523BA-5A5F-59A6-A067-CDA22B5089E8&utm_source=rss&utm_medium=rss)
