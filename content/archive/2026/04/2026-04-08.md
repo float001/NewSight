@@ -25,6 +25,7 @@
   - [10 Minutes with Claude: Remote Code Execution in Apache ActiveMQ (CVE-2026-34197)](https://horizon3.ai/intelligence/blogs/cve-2026-34197-activemq-rce-jolokia/)
   - [CVE-2026-34197](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-34197/)
 - http://www.infosecurity-magazine.com/rss/news/
+  - [Anthropic Launches Project Glasswing to Use AI to Find and Fix Critical Software Vulnerabilities](https://www.infosecurity-magazine.com/news/anthropic-launch-project-glasswing/)
   - [Iran‑Backed Threat Actors Hit US CNI Providers via Internet‑Facing OT Assets](https://www.infosecurity-magazine.com/news/iranbacked-hackers-cni-ot-assets/)
 - InfoSec Write-ups - Medium
   - [6+ Ways to Spot a Phishing Email in 2026](https://infosecwriteups.com/6-ways-to-spot-a-phishing-email-in-2026-c6a5d614a32e?source=rss----7b722bfd1b8d---4)
@@ -41,6 +42,7 @@
   - [Financial cyberthreats in 2025 and the outlook for 2026](https://securelist.com/financial-threat-report-2025/119304/)
 - Security Affairs
   - [Attackers exploit critical Flowise flaw CVE-2025-59528 for remote code execution](https://securityaffairs.com/190471/security/attackers-exploit-critical-flowise-flaw-cve-2025-59528-for-remote-code-execution.html)
+  - [Project Glasswing powered by Claude Mythos: defending software before hackers do](https://securityaffairs.com/190496/ai/project-glasswing-powered-by-claude-mythos-defending-software-before-hackers-do.html)
 - Security Café
   - [When AI Understands Code: Prompt Injection to RCE](https://securitycafe.ro/2026/04/08/when-ai-understands-code-prompt-injection-to-rce/)
 - Simon Willison's Weblog
@@ -48,6 +50,7 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-22732 exploit](https://sploitus.com/exploit?id=488076A7-101A-5961-8292-C6006527244E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-27739 exploit](https://sploitus.com/exploit?id=7D9234BD-AEE3-5D90-9990-64BD28DAF9B3&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-3288 exploit](https://sploitus.com/exploit?id=094D062C-6948-50CB-9252-C3D5E27FCA9D&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-34197 exploit](https://sploitus.com/exploit?id=830144AF-D83A-57E9-9EF4-75E12C45DA3D&utm_source=rss&utm_medium=rss)
   - [Exploit for Eval Injection in Langflow exploit](https://sploitus.com/exploit?id=8612ADE8-EE23-524A-9523-CB546E6EA068&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Paessler Prtg_Network_Monitor exploit](https://sploitus.com/exploit?id=1F598AA4-9916-5FA9-BE92-56DEEC48558B&utm_source=rss&utm_medium=rss)
@@ -55,9 +58,11 @@
   - [exploit-code-management exploit](https://sploitus.com/exploit?id=D3068629-0514-5889-B1A5-987B7231BD9C&utm_source=rss&utm_medium=rss)
   - [H4C-WEB exploit](https://sploitus.com/exploit?id=D3491D85-9CEC-5EFE-847E-4E720B72EBB8&utm_source=rss&utm_medium=rss)
   - [jshook_plugin_exploit_library exploit](https://sploitus.com/exploit?id=2462F01E-B292-5BD0-87E8-C5CDFC6289AC&utm_source=rss&utm_medium=rss)
+  - [Magento-Polyshell-RCE exploit](https://sploitus.com/exploit?id=2B8BDA76-943E-5E7D-8F94-F59C62CD3AA2&utm_source=rss&utm_medium=rss)
   - [penetration-testing-engagement exploit](https://sploitus.com/exploit?id=51411DF4-D653-56C6-A75E-2B7B83171732&utm_source=rss&utm_medium=rss)
   - [shannon-defender-skill exploit](https://sploitus.com/exploit?id=9941D5BD-4982-545F-97A7-5526CD5202A2&utm_source=rss&utm_medium=rss)
   - [sql-bypass exploit](https://sploitus.com/exploit?id=011CE476-50D4-58F2-91D7-0C632112A77D&utm_source=rss&utm_medium=rss)
+  - [sql-injection-lab exploit](https://sploitus.com/exploit?id=C39557DA-DD1C-5482-85D8-06979957FF64&utm_source=rss&utm_medium=rss)
   - [wsa_exploits exploit](https://sploitus.com/exploit?id=7C4D36BA-F7DD-5B86-95B0-E624B97BD259&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/)
@@ -71,6 +76,8 @@
   - [Microsoft's Bing team open-sources "Harrier" embedding model](https://the-decoder.com/microsofts-bing-team-open-sources-harrier-embedding-model/)
 - The Verge
   - [Anthropic is launching a new AI model for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity)
+  - [GoPro is cutting 23 percent of its workforce](https://www.theverge.com/business/908650/gopro-layoffs-cuts-23-percent)
+  - [Insta360’s Snap is a tiny magnetic phone screen for taking rear-camera selfies](https://www.theverge.com/tech/907670/insta360-snap-usb-c-magsafe-screen-selfies-smartphone-rear-camera)
   - [Satechi’s 3-in-1 travel stand now wirelessly charges your phone at 25W](https://www.theverge.com/tech/906126/satechi-3-in-1-foldable-travel-qi2-2-stand-wireless-charger-25w-pricing-availability)
 - unSafe.sh - 不安全
   - [[Tool] Rikune: A reverse-engineering MCP server that turns PE triage, Ghidra analysis, runtime evidence, and source-like reconstruction into reusable tools for any LLM](https://buaq.net/go-408520.html)
