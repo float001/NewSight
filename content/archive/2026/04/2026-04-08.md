@@ -171,3 +171,5 @@
   - [Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure](https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/)
 - 先知安全技术社区
   - [2026阿里白帽大会 - Agent安全(智能体时代的攻防新范式)](https://xz.aliyun.com/news/91933)
+- 爱范儿
+  - [突发！史上最强 Claude 发布：聪明到不敢开放，还会突破权限掩盖操作痕迹](https://www.ifanr.com/1661287?utm_source=rss&utm_medium=rss&utm_campaign=)
