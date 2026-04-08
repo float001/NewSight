@@ -34,6 +34,8 @@
   - [TryHackMe: CSRF Introduction — Full Walkthrough](https://infosecwriteups.com/tryhackme-csrf-introduction-full-walkthrough-c97c1a94e575?source=rss----7b722bfd1b8d---4)
   - [Why strip_tags() Does Not Protect You From XSS in PHP/Laravel](https://infosecwriteups.com/why-strip-tags-does-not-protect-you-from-xss-in-php-laravel-c97d0e805213?source=rss----7b722bfd1b8d---4)
   - [Writeup for picoCTF challenge “Old Sessions”](https://infosecwriteups.com/writeup-for-picoctf-challenge-old-sessions-8d59f82aedc2?source=rss----7b722bfd1b8d---4)
+- MIT Technology Review
+  - [The Download: water threats in Iran and AI’s impact on what entrepreneurs make](https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/)
 - NetSPI
   - [Regulatory-Ready Security: Ensuring FCC Compliance for Routers](https://www.netspi.com/blog/executive-blog/hardware-systems/regulatory-ready-security-ensuring-fcc-compliance-for-routers/)
 - Schneier on Security
@@ -53,6 +55,8 @@
   - [Exploit for CVE-2026-3288 exploit](https://sploitus.com/exploit?id=094D062C-6948-50CB-9252-C3D5E27FCA9D&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-34197 exploit](https://sploitus.com/exploit?id=830144AF-D83A-57E9-9EF4-75E12C45DA3D&utm_source=rss&utm_medium=rss)
   - [Exploit for Eval Injection in Langflow exploit](https://sploitus.com/exploit?id=8612ADE8-EE23-524A-9523-CB546E6EA068&utm_source=rss&utm_medium=rss)
+  - [Exploit for OS Command Injection in Magnussolution Magnusbilling exploit](https://sploitus.com/exploit?id=77FF9C87-6BA4-5633-9C21-6CDF9894976D&utm_source=rss&utm_medium=rss)
+  - [Exploit for OS Command Injection in Magnussolution Magnusbilling exploit](https://sploitus.com/exploit?id=F28826C1-F5C5-5AE0-BE50-6336FBF9943C&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Paessler Prtg_Network_Monitor exploit](https://sploitus.com/exploit?id=1F598AA4-9916-5FA9-BE92-56DEEC48558B&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Exim exploit](https://sploitus.com/exploit?id=0B04CFAC-D9FF-5C8E-AC79-3D51D30736B8&utm_source=rss&utm_medium=rss)
   - [exploit-code-management exploit](https://sploitus.com/exploit?id=D3068629-0514-5889-B1A5-987B7231BD9C&utm_source=rss&utm_medium=rss)
