@@ -23,6 +23,8 @@
 - Horizon3.ai
   - [10 Minutes with Claude: Remote Code Execution in Apache ActiveMQ (CVE-2026-34197)](https://horizon3.ai/intelligence/blogs/cve-2026-34197-activemq-rce-jolokia/)
   - [CVE-2026-34197](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-34197/)
+- http://www.infosecurity-magazine.com/rss/news/
+  - [Iran‑Backed Threat Actors Hit US CNI Providers via Internet‑Facing OT Assets](https://www.infosecurity-magazine.com/news/iranbacked-hackers-cni-ot-assets/)
 - InfoSec Write-ups - Medium
   - [6+ Ways to Spot a Phishing Email in 2026](https://infosecwriteups.com/6-ways-to-spot-a-phishing-email-in-2026-c6a5d614a32e?source=rss----7b722bfd1b8d---4)
   - [Android APK Analysis Tool: AI-Powered Static Malware Analysis in Your Terminal](https://infosecwriteups.com/android-apk-analysis-tool-ai-powered-static-malware-analysis-in-your-terminal-4beb239dad12?source=rss----7b722bfd1b8d---4)
@@ -34,6 +36,8 @@
   - [Regulatory-Ready Security: Ensuring FCC Compliance for Routers](https://www.netspi.com/blog/executive-blog/hardware-systems/regulatory-ready-security-ensuring-fcc-compliance-for-routers/)
 - Schneier on Security
   - [Cybersecurity in the Age of Instant Software](https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html)
+- Securelist
+  - [Financial cyberthreats in 2025 and the outlook for 2026](https://securelist.com/financial-threat-report-2025/119304/)
 - Security Affairs
   - [Attackers exploit critical Flowise flaw CVE-2025-59528 for remote code execution](https://securityaffairs.com/190471/security/attackers-exploit-critical-flowise-flaw-cve-2025-59528-for-remote-code-execution.html)
 - Simon Willison's Weblog
@@ -193,9 +197,13 @@
   - [CVE-2026-4065 | nextendweb Smart Slider 3 Plugin up to 3.5.1.33 on WordPress display_admin_ajax authorization](https://vuldb.com/vuln/355954)
   - [CVE-2026-4141 | edckwt Quran Translations Plugin up to 1.7 on WordPress quran_playlist_options cross-site request forgery](https://vuldb.com/vuln/356036)
   - [CVE-2026-4299 | mainwp MainWP Child Reports Plugin up to 2.2.6 on WordPress WordPress Heartbeat API heartbeat_received authorization](https://vuldb.com/vuln/355978)
+  - [CVE-2026-4330 | pr-gateway Blog2Social Plugin up to 8.8.3 on WordPress AJAX b2s_id authorization](https://vuldb.com/vuln/356038)
   - [CVE-2026-4341 | bdthemes Prime Slider Plugin up to 4.1.10 on WordPress Mount Widget mount.php render_social_link cross site scripting](https://vuldb.com/vuln/355969)
   - [CVE-2026-4401 | wpchill Download Monitor Plugin up to 5.1.10 on WordPress class-dlm-downloads-path.php actions_handler cross-site request forgery](https://vuldb.com/vuln/355968)
   - [CVE-2026-4406 | Gravity Forms Plugin up to 2.9.30 on WordPress Content-Type GFCommon::send_json form_ids cross site scripting](https://vuldb.com/vuln/355979)
+  - [CVE-2026-4483 | Moxa MxGeneralIo up to 1.3.x/1.4.x on Moxa exposed ioctl with insufficient access control](https://vuldb.com/vuln/356041)
+  - [CVE-2026-4654 | awesomesupport Awesome Support Plugin up to 6.3.7 on WordPress wpas_get_ticket_replies_ajax ticket_id authorization](https://vuldb.com/vuln/356039)
+  - [CVE-2026-4655 | bdthemes Element Pack Plugin up to 8.4.2 on WordPress SVG Image Widget render_svg cross site scripting](https://vuldb.com/vuln/356040)
   - [CVE-2026-4788 | IBM Tivoli Netcool Impact up to 7.1.0.37 log file](https://vuldb.com/vuln/355975)
   - [CVE-2026-4808 | tidevapps Gerador de Certificados Plugin up to 1.3.6 on WordPress moveUploadedFile unrestricted upload](https://vuldb.com/vuln/356023)
   - [CVE-2026-4871 | pstruik Sports Club Management Plugin up to 1.12.9 on WordPress Shortcode scm_member_data cross site scripting](https://vuldb.com/vuln/356031)
@@ -214,5 +222,8 @@
   - [Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure](https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/)
 - 先知安全技术社区
   - [2026阿里白帽大会 - Agent安全(智能体时代的攻防新范式)](https://xz.aliyun.com/news/91933)
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [绿盟NF防火墙：筑牢OpenClaw安全防线，构筑AI时代安全基石](https://www.4hou.com/posts/33BA)
+  - [绿盟科技大模型安全白皮书发布：聚焦智能体风险与防护，护您安全“养虾”](https://www.4hou.com/posts/2XzM)
 - 爱范儿
   - [突发！史上最强 Claude 发布：聪明到不敢开放，还会突破权限掩盖操作痕迹](https://www.ifanr.com/1661287?utm_source=rss&utm_medium=rss&utm_campaign=)
