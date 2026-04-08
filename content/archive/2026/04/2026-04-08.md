@@ -2,13 +2,17 @@
 
 - 2Libra 社区 - 今日热议
   - [写了个简单的 ArchiSteamFarm Python API 库](https://2libra.com/post/backend/1lf6FZC)
+  - [有没有什么 对 ai 安全小白友好的 教学网站或者文档呢](https://2libra.com/post/network-security/CeaVjU2)
 - 36氪
   - [36氪首发 | 柔性触觉传感器厂商完成近亿元融资，切入具身智能与锂电安全双场景](https://36kr.com/p/3757589543813893?f=rss)
   - [Anthropic在源代码泄露数日后推出网络安全AI模型](https://36kr.com/newsflashes/3757866090185225?f=rss)
   - [海光信息发布“机密Token”，保障云端大模型数据安全](https://36kr.com/newsflashes/3757881349063174?f=rss)
   - [马斯克要求撤换OpenAI掌门人，主张恢复该公司非营利组织身份](https://36kr.com/newsflashes/3758042957660931?f=rss)
 - Ars Technica - All content
+  - [Anthropic limits access to Mythos, its new cybersecurity AI model](https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/)
   - [Apple and Lenovo have the least repairable laptops, analysis finds](https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/)
+- Black Hills Information Security, Inc.
+  - [Getting Started In Pentesting – Advice From The BHIS Pentest Lead](https://www.blackhillsinfosec.com/getting-started-in-pentesting/)
 - Daring Fireball
   - [Sam Altman, in a Video Released by OpenAI, Apparently Thinks AGI Is Going to Hit Society Like a Once-a-Century Pandemic](https://x.com/OpenAINewsroom/status/2041618671236469200?s=20)
   - [Solar Eclipse From the Far Side of the Moon](https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon)
@@ -86,6 +90,7 @@
 - unSafe.sh - 不安全
   - [[Tool] Rikune: A reverse-engineering MCP server that turns PE triage, Ghidra analysis, runtime evidence, and source-like reconstruction into reusable tools for any LLM](https://buaq.net/go-408520.html)
   - [Cloudflare targets 2029 for full post-quantum security](https://buaq.net/go-408317.html)
+  - [Why i think Mythos is gonna be game changing after using Opus for a CTF](https://buaq.net/go-408608.html)
 - VMRay
   - [SOC Case Management: A Practical Guide to Getting It Right](https://www.vmray.com/soc-case-management/)
 - VulDB Recent Entries
@@ -105,11 +110,19 @@
   - [CVE-2026-1342 | IBM Verify Identity Access Container inclusion of functionality from untrusted control sphere](https://vuldb.com/vuln/355974)
   - [CVE-2026-1343 | IBM Verify Identity Access Container server-side request forgery](https://vuldb.com/vuln/355970)
   - [CVE-2026-1346 | IBM Verify Identity Access Container unnecessary privileges](https://vuldb.com/vuln/355972)
+  - [CVE-2026-1672 | realmag777 BEAR Plugin up to 1.1.5 on WordPress woobe_redraw_table_row cross-site request forgery](https://vuldb.com/vuln/356220)
+  - [CVE-2026-1673 | realmag777 BEAR Plugin up to 1.1.5 on WordPress woobe_delete_tax_term cross-site request forgery](https://vuldb.com/vuln/356215)
+  - [CVE-2026-1865 | wpeverest User Registration & Membership Plugin up to 5.1.2 on WordPress membership_ids[] sql injection](https://vuldb.com/vuln/356218)
   - [CVE-2026-2263 | wpmudev Hustle Plugin up to 7.8.10.2 on WordPress hustle_module_converted authorization](https://vuldb.com/vuln/355977)
   - [CVE-2026-22683 | Windmill Community Edition/Enterprise Edition up to 1.614.0 Backend API raw_apps authorization](https://vuldb.com/vuln/355837)
   - [CVE-2026-22711 | Wikimedia Wikilove Extension up to 1.43.6/1.44.3/1.45.1 on Mediawiki cross site scripting](https://vuldb.com/vuln/355913)
+  - [CVE-2026-24511 | Dell PowerScale OneFS up to 9.5.0.0/9.10.1.6/9.11.0.0/9.13.0.0 information exposure (dsa-2026-125)](https://vuldb.com/vuln/356224)
+  - [CVE-2026-2481 | beaverbuilder Beaver Builder Page Builder Plugin up to 2.10.1.1 on WordPress settings[js] cross site scripting](https://vuldb.com/vuln/356217)
+  - [CVE-2026-27102 | Dell PowerScale OneFS up to 9.5.0.0/9.10.1.6/9.11.0.0/9.13.0.1 privileges assignment (dsa-2026-125)](https://vuldb.com/vuln/356223)
   - [CVE-2026-27144 | cmd-compile up to 1.25.8/1.26.1 on Go expected behavior violation](https://vuldb.com/vuln/355984)
   - [CVE-2026-27949 | makeplane up to 1.2.x Authentication Utility auth.ts information disclosure (GHSA-8rvg-7w43-p2w2)](https://vuldb.com/vuln/355929)
+  - [CVE-2026-28261 | Dell Elastic Cloud Storage/ObjectScale up to 3.8.1.7/4.1.0.3/4.2.0.0 log file (dsa-2026-143)](https://vuldb.com/vuln/356225)
+  - [CVE-2026-28264 | Dell PowerProtect Agent up to 20.0 Service permission assignment (dsa-2026-158)](https://vuldb.com/vuln/356221)
   - [CVE-2026-2838 | idealwebdesignlk Whole Enquiry Cart for WooCommerce Plugin up to 1.2.1 on WordPress woowhole_success_msg cross site scripting](https://vuldb.com/vuln/356029)
   - [CVE-2026-28386 | OpenSSL up to 3.6.1 on x86-64 AES-CFB-128 out-of-bounds](https://vuldb.com/vuln/355902)
   - [CVE-2026-28387 | OpenSSL up to 3.6.1 DANE Client Code use after free](https://vuldb.com/vuln/355903)
@@ -124,6 +137,7 @@
   - [CVE-2026-32280 | crypto-x509 up to 1.25.8/1.26.1 on Go Certificate allocation of resources](https://vuldb.com/vuln/355983)
   - [CVE-2026-32281 | crypto-x509 up to 1.25.8/1.26.1 on Go Certificate algorithmic complexity](https://vuldb.com/vuln/355981)
   - [CVE-2026-32282 | syscall-unix up to 1.25.8/1.26.1 on Go Root.Chmod AT_SYMLINK_NOFOLLOW symlink](https://vuldb.com/vuln/355973)
+  - [CVE-2026-3243 | danbilabs Advanced Members for ACF Plugin up to 1.2.5 on WordPress Path Validation create_crop path traversal](https://vuldb.com/vuln/356216)
   - [CVE-2026-32712 | opensourcepos Open Source Point of Sale up to 3.4.2 Daily Sales Page customer_name first_name/last_name cross site scripting](https://vuldb.com/vuln/355923)
   - [CVE-2026-32860 | NI LabVIEW up to 22.x/23.3.8/24.3.5/25.3.3/26.1.0 LVLIB File Parser out-of-bounds write](https://vuldb.com/vuln/355925)
   - [CVE-2026-32861 | NI LabVIEW up to 22.x/23.3.8/24.3.5/25.3.3/26.1.0 LVCLASS File Parser out-of-bounds write](https://vuldb.com/vuln/355927)
@@ -135,6 +149,7 @@
   - [CVE-2026-33810 | crypto-x509 up to 1.26.1 on Go Certificate Chain certificate validation](https://vuldb.com/vuln/355982)
   - [CVE-2026-33815 | jackc pgproto3 array index](https://vuldb.com/vuln/355819)
   - [CVE-2026-33816 | jackc pgproto3 comparison](https://vuldb.com/vuln/355820)
+  - [CVE-2026-3396 | shamimmoeen WCAPF Plugin up to 4.2.3 on WordPress post-author sql injection](https://vuldb.com/vuln/356222)
   - [CVE-2026-34045 | podman-desktop Podman Desktop up to 1.26.1 on Windows allocation of file descriptors or handles without limits or throttling](https://vuldb.com/vuln/355918)
   - [CVE-2026-34078 | Flatpak up to 1.16.3 symlink](https://vuldb.com/vuln/355976)
   - [CVE-2026-34080 | flatpak xdg-dbus-proxy up to 0.1.6 improper validation of unsafe equivalence in input (GHSA-vjp5-hjfm-7677)](https://vuldb.com/vuln/355940)
@@ -267,12 +282,17 @@
   - [CVE-2026-4871 | pstruik Sports Club Management Plugin up to 1.12.9 on WordPress Shortcode scm_member_data cross site scripting](https://vuldb.com/vuln/356031)
   - [CVE-2026-5167 | Masteriyo LMS Plugin up to 2.1.7 on WordPress Webhook Endpoint handle_webhook order_id authorization](https://vuldb.com/vuln/356028)
   - [CVE-2026-5169 | udamadu Inquiry form to posts or pages Plugin up to 1.0 on WordPress Setting inq_form.php update_option cross site scripting](https://vuldb.com/vuln/356022)
+  - [CVE-2026-5208 | CoolerControl coolercontrold up to 3.x Alerts os command injection](https://vuldb.com/vuln/356229)
+  - [CVE-2026-5300 | CoolerControl coolercontrold up to 3.x HTTP Request missing authentication](https://vuldb.com/vuln/356227)
+  - [CVE-2026-5301 | CoolerControl coolercontrol-ui up to 3.x Log Viewer cross site scripting](https://vuldb.com/vuln/356228)
+  - [CVE-2026-5302 | CoolerControl coolercontrold up to 3.x cross-domain policy](https://vuldb.com/vuln/356226)
   - [CVE-2026-5379 | runZero Platform up to 2.x/3.0 Organization authorization](https://vuldb.com/vuln/355802)
   - [CVE-2026-5380 | runZero Platform up to 3.0/5.2 authorization](https://vuldb.com/vuln/355810)
   - [CVE-2026-5381 | runZero Platform up to 2.1/3.0 Organization authorization](https://vuldb.com/vuln/355811)
   - [CVE-2026-5382 | runZero Platform up to 3.0/3.1/4.0.260206.0 MCP Endpoint authorization](https://vuldb.com/vuln/355812)
   - [CVE-2026-5506 | lucascaro Wavr Plugin up to 0.2.6 on WordPress Shortcode wave cross site scripting](https://vuldb.com/vuln/356034)
   - [CVE-2026-5508 | theyeti WowPress Plugin up to 1.0.0 on WordPress Shortcode wowpress cross site scripting](https://vuldb.com/vuln/356035)
+  - [CVE-2026-5600 | pretix up to 2026.1.1/2026.2.0/2026.3.0 API Endpoint improper isolation or compartmentalization](https://vuldb.com/vuln/356219)
   - [CVE-2026-5745 | libarchive ACL Parser archive_acl_from_text_nl null pointer dereference](https://vuldb.com/vuln/355801)
   - [CVE-2026-5762 | Wikimedia Reportcident Extension 1.43.7/1.44.4/1.45.2 on MediaWiki allocation of resources](https://vuldb.com/vuln/355910)
 - WIRED
