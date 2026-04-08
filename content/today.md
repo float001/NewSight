@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-04-09）
 
+- darkreading
+  - [AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties](https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties)
 - Horizon3.ai
   - [CVE-2026-20160](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-20160/)
 - SANS Internet Storm Center, InfoCON: green
@@ -15,12 +17,22 @@
   - [CVE-2023-46945 | QD 20230821 server-side request forgery](https://vuldb.com/vuln/356287)
   - [CVE-2025-14243 | Red Hat OpenShift Mirror Registry information exposure](https://vuldb.com/vuln/356281)
   - [CVE-2025-57175 | Siklu EtherHaul 8010 10_6_2-18707-ea552dc00b hard-coded password](https://vuldb.com/vuln/356286)
+  - [CVE-2026-20709 | Intel Pentium Processor Silver default key (intel-sa-00609)](https://vuldb.com/vuln/356369)
   - [CVE-2026-2377 | Red Hat OpenShift mirror registry server-side request forgery](https://vuldb.com/vuln/356284)
   - [CVE-2026-30075 | OpenAirInterface oai-cn5g-amf 2.2.0 AUSF denial of service](https://vuldb.com/vuln/356282)
   - [CVE-2026-30080 | OpenAirInterface oai-cn5g-amf 2.2.0 Security Mode downgrade](https://vuldb.com/vuln/356269)
   - [CVE-2026-31017 | Frappe ERPNext/Framework 16.0.1/16.1.1 HTTP Request server-side request forgery](https://vuldb.com/vuln/356283)
   - [CVE-2026-33460 | Elastic Kibana up to 8.19.13/9.2.7/9.3.2 Internal Enrollment Endpoint authorization](https://vuldb.com/vuln/356280)
   - [CVE-2026-33461 | Elastic Kibana up to 8.19.13/9.2.7/9.3.2 Internal API Endpoint authorization](https://vuldb.com/vuln/356279)
+  - [CVE-2026-34782 | Zammad up to 7.0.0 REST Endpoint :id authorization](https://vuldb.com/vuln/356364)
+  - [CVE-2026-34837 | Zammad up to 7.0.0 REST Endpoint :id authorization](https://vuldb.com/vuln/356365)
+  - [CVE-2026-34985 | aces Loris up to 27.0.2/28.0.0 Media authorization](https://vuldb.com/vuln/356368)
+  - [CVE-2026-35165 | aces Loris up to 27.0.2/28.0.0 Backend Endpoint authorization](https://vuldb.com/vuln/356366)
+  - [CVE-2026-35169 | aces Loris up to 27.0.2/28.0.0 help_editor cross site scripting](https://vuldb.com/vuln/356370)
+  - [CVE-2026-35400 | aces Loris up to 27.0.2/28.0.0 Publication link following](https://vuldb.com/vuln/356367)
+  - [CVE-2026-35403 | aces Loris up to 27.0.2/28.0.0 Header survey_accounts Content-Type cross site scripting](https://vuldb.com/vuln/356371)
+  - [CVE-2026-35446 | aces Loris up to 27.0.2/28.0.0 file access](https://vuldb.com/vuln/356363)
+  - [CVE-2026-35455 | immich-app immich up to 2.6.x cross site scripting](https://vuldb.com/vuln/356372)
   - [CVE-2026-4498 | Elastic Kibana up to 8.19.13 unnecessary privileges](https://vuldb.com/vuln/356285)
   - [CVE-2026-4837 | Rapid7 Insight Agent up to 3.3.0 on Linux Beacon eval eval injection](https://vuldb.com/vuln/356268)
   - [CVE-2026-5823 | itsourcecode Construction Management System 1.0 borrowed_tool_report.php Home sql injection](https://vuldb.com/vuln/356270)
@@ -42,3 +54,11 @@
   - [CVE-2026-5840 | PHPGurukul News Portal Project 4.1 check_availability.php Username sql injection](https://vuldb.com/vuln/356296)
   - [CVE-2026-5841 | Tenda i3 1.0.0.6(2204) HTTP R7WebsSecurityHandler path traversal](https://vuldb.com/vuln/356297)
   - [CVE-2026-5842 | decolua 9router up to 0.3.47 Administrative API Endpoint /api authorization (Issue 431)](https://vuldb.com/vuln/356298)
+  - [CVE-2026-5847 | code-projects Movie Ticketing System 1.0 SQL Database Backup File /db/moviedb.sql information disclosure](https://vuldb.com/vuln/356373)
+  - [CVE-2026-5848 | jeecgboot JimuReport up to 2.3.0 Data Source testConnection DriverManager.getConnection dbUrl code injection (Issue 4587)](https://vuldb.com/vuln/356374)
+  - [CVE-2026-5849 | Tenda i12 1.0.0.11(3862) HTTP path traversal](https://vuldb.com/vuln/356375)
+  - [CVE-2026-5850 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setVpnPassCfg pptpPassThru os command injection](https://vuldb.com/vuln/356376)
+  - [CVE-2026-5851 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setUPnPCfg enable os command injection](https://vuldb.com/vuln/356377)
+  - [CVE-2026-5852 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setIptvCfg igmpVer os command injection](https://vuldb.com/vuln/356378)
+  - [CVE-2026-5853 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setIpv6LanCfg addrPrefixLen os command injection](https://vuldb.com/vuln/356379)
+  - [CVE-2026-5854 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setWiFiEasyCfg merge os command injection](https://vuldb.com/vuln/356380)
