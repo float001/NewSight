@@ -38,6 +38,7 @@
   - [Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me](https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-22732 exploit](https://sploitus.com/exploit?id=488076A7-101A-5961-8292-C6006527244E&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-27739 exploit](https://sploitus.com/exploit?id=7D9234BD-AEE3-5D90-9990-64BD28DAF9B3&utm_source=rss&utm_medium=rss)
   - [Exploit for Eval Injection in Langflow exploit](https://sploitus.com/exploit?id=8612ADE8-EE23-524A-9523-CB546E6EA068&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Paessler Prtg_Network_Monitor exploit](https://sploitus.com/exploit?id=1F598AA4-9916-5FA9-BE92-56DEEC48558B&utm_source=rss&utm_medium=rss)
   - [exploit-code-management exploit](https://sploitus.com/exploit?id=D3068629-0514-5889-B1A5-987B7231BD9C&utm_source=rss&utm_medium=rss)
