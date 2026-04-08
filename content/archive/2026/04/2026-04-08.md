@@ -36,6 +36,7 @@
   - [Exploit for CVE-2026-22732 exploit](https://sploitus.com/exploit?id=488076A7-101A-5961-8292-C6006527244E&utm_source=rss&utm_medium=rss)
   - [Exploit for Eval Injection in Langflow exploit](https://sploitus.com/exploit?id=8612ADE8-EE23-524A-9523-CB546E6EA068&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Paessler Prtg_Network_Monitor exploit](https://sploitus.com/exploit?id=1F598AA4-9916-5FA9-BE92-56DEEC48558B&utm_source=rss&utm_medium=rss)
+  - [exploit-code-management exploit](https://sploitus.com/exploit?id=D3068629-0514-5889-B1A5-987B7231BD9C&utm_source=rss&utm_medium=rss)
   - [penetration-testing-engagement exploit](https://sploitus.com/exploit?id=51411DF4-D653-56C6-A75E-2B7B83171732&utm_source=rss&utm_medium=rss)
   - [wsa_exploits exploit](https://sploitus.com/exploit?id=7C4D36BA-F7DD-5B86-95B0-E624B97BD259&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -51,6 +52,8 @@
 - The Verge
   - [Anthropic is launching a new AI model for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity)
   - [Satechi’s 3-in-1 travel stand now wirelessly charges your phone at 25W](https://www.theverge.com/tech/906126/satechi-3-in-1-foldable-travel-qi2-2-stand-wireless-charger-25w-pricing-availability)
+- unSafe.sh - 不安全
+  - [Cloudflare targets 2029 for full post-quantum security](https://buaq.net/go-408317.html)
 - VMRay
   - [SOC Case Management: A Practical Guide to Getting It Right](https://www.vmray.com/soc-case-management/)
 - VulDB Recent Entries
