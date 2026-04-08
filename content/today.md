@@ -17,6 +17,7 @@
   - [Sam Altman, in a Video Released by OpenAI, Apparently Thinks AGI Is Going to Hit Society Like a Once-a-Century Pandemic](https://x.com/OpenAINewsroom/status/2041618671236469200?s=20)
   - [Solar Eclipse From the Far Side of the Moon](https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon)
 - darkreading
+  - [Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus](https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range)
   - [Storm-1175 Deploys Medusa Ransomware at 'High Velocity'](https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity)
 - Fidelis Security
   - [How Can Active Deception Validate Security Controls in Real Environments?](https://fidelissecurity.com/threatgeek/deception/active-deception-validate-security-controls-in-modern-environments/)
@@ -49,6 +50,7 @@
 - Security Affairs
   - [Attackers exploit critical Flowise flaw CVE-2025-59528 for remote code execution](https://securityaffairs.com/190471/security/attackers-exploit-critical-flowise-flaw-cve-2025-59528-for-remote-code-execution.html)
   - [Project Glasswing powered by Claude Mythos: defending software before hackers do](https://securityaffairs.com/190496/ai/project-glasswing-powered-by-claude-mythos-defending-software-before-hackers-do.html)
+  - [Signature Healthcare hit by cyberattack, services and pharmacies impacted](https://securityaffairs.com/190504/security/signature-healthcare-hit-by-cyberattack-services-and-pharmacies-impacted.html)
 - Security Café
   - [When AI Understands Code: Prompt Injection to RCE](https://securitycafe.ro/2026/04/08/when-ai-understands-code-prompt-injection-to-rce/)
 - Simon Willison's Weblog
@@ -90,6 +92,7 @@
 - unSafe.sh - 不安全
   - [[Tool] Rikune: A reverse-engineering MCP server that turns PE triage, Ghidra analysis, runtime evidence, and source-like reconstruction into reusable tools for any LLM](https://buaq.net/go-408520.html)
   - [Cloudflare targets 2029 for full post-quantum security](https://buaq.net/go-408317.html)
+  - [From Malware and Exploits to Apps and Identities: How the Browser Became the Battleground](https://buaq.net/go-408611.html)
   - [Why i think Mythos is gonna be game changing after using Opus for a CTF](https://buaq.net/go-408608.html)
 - VMRay
   - [SOC Case Management: A Practical Guide to Getting It Right](https://www.vmray.com/soc-case-management/)
@@ -105,6 +108,11 @@
   - [CVE-2025-24818 | Nokia MantaRay NM Log Search Application os command injection](https://vuldb.com/vuln/355816)
   - [CVE-2025-24819 | Nokia MantaRay NM Software Manager application path traversal](https://vuldb.com/vuln/355817)
   - [CVE-2025-56015 | GenieACS 1.2.13 NBI API Endpoint improper authentication](https://vuldb.com/vuln/355950)
+  - [CVE-2025-57847 | Red Hat Ansible Automation Platform 2 default permission](https://vuldb.com/vuln/356237)
+  - [CVE-2025-57851 | Red Hat Multicluster Engine for Kubernetes default permission](https://vuldb.com/vuln/356238)
+  - [CVE-2025-57853 | Red Hat Web Terminal default permission](https://vuldb.com/vuln/356239)
+  - [CVE-2025-57854 | Red Hat OpenShift Update Service default permission](https://vuldb.com/vuln/356240)
+  - [CVE-2025-58713 | Red Hat Process Automation 7 Process Automation Manager default permission](https://vuldb.com/vuln/356236)
   - [CVE-2025-69515 | JXL 9 Inch Car Android Double Din Player Android 12.0](https://vuldb.com/vuln/355930)
   - [CVE-2025-71058 | Dual DHCP DNS Server 8.01 UDP DNS Response injection](https://vuldb.com/vuln/355909)
   - [CVE-2026-1342 | IBM Verify Identity Access Container inclusion of functionality from untrusted control sphere](https://vuldb.com/vuln/355974)
@@ -295,6 +303,10 @@
   - [CVE-2026-5600 | pretix up to 2026.1.1/2026.2.0/2026.3.0 API Endpoint improper isolation or compartmentalization](https://vuldb.com/vuln/356219)
   - [CVE-2026-5745 | libarchive ACL Parser archive_acl_from_text_nl null pointer dereference](https://vuldb.com/vuln/355801)
   - [CVE-2026-5762 | Wikimedia Reportcident Extension 1.43.7/1.44.4/1.45.2 on MediaWiki allocation of resources](https://vuldb.com/vuln/355910)
+  - [CVE-2026-5802 | idachev mcp-javadc up to 1.2.4 HTTP Interface jarFilePath os command injection](https://vuldb.com/vuln/356241)
+  - [CVE-2026-5803 | bigsk1 openai-realtime-ui up to 188ccde27fdf3d8fab8da81f3893468f53b2797c API Proxy Endpoint server.js Query server-side request forgery](https://vuldb.com/vuln/356242)
+  - [CVE-2026-5805 | code-projects Easy Blog Site up to 1.0 /users/contact_us.php Name sql injection](https://vuldb.com/vuln/356243)
+  - [CVE-2026-5806 | code-projects Easy Blog Site 1.0 /posts/update.php postTitle cross site scripting](https://vuldb.com/vuln/356244)
 - WIRED
   - [8 Best Cheap Laptops (2026): Chromebooks, the MacBook Neo, and More](https://www.wired.com/gallery/best-cheap-laptops/)
   - [Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/)
