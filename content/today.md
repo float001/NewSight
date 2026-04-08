@@ -45,6 +45,7 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-22732 exploit](https://sploitus.com/exploit?id=488076A7-101A-5961-8292-C6006527244E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-27739 exploit](https://sploitus.com/exploit?id=7D9234BD-AEE3-5D90-9990-64BD28DAF9B3&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-34197 exploit](https://sploitus.com/exploit?id=830144AF-D83A-57E9-9EF4-75E12C45DA3D&utm_source=rss&utm_medium=rss)
   - [Exploit for Eval Injection in Langflow exploit](https://sploitus.com/exploit?id=8612ADE8-EE23-524A-9523-CB546E6EA068&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Paessler Prtg_Network_Monitor exploit](https://sploitus.com/exploit?id=1F598AA4-9916-5FA9-BE92-56DEEC48558B&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Exim exploit](https://sploitus.com/exploit?id=0B04CFAC-D9FF-5C8E-AC79-3D51D30736B8&utm_source=rss&utm_medium=rss)
@@ -67,6 +68,7 @@
   - [Anthropic is launching a new AI model for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity)
   - [Satechi’s 3-in-1 travel stand now wirelessly charges your phone at 25W](https://www.theverge.com/tech/906126/satechi-3-in-1-foldable-travel-qi2-2-stand-wireless-charger-25w-pricing-availability)
 - unSafe.sh - 不安全
+  - [[Tool] Rikune: A reverse-engineering MCP server that turns PE triage, Ghidra analysis, runtime evidence, and source-like reconstruction into reusable tools for any LLM](https://buaq.net/go-408520.html)
   - [Cloudflare targets 2029 for full post-quantum security](https://buaq.net/go-408317.html)
 - VMRay
   - [SOC Case Management: A Practical Guide to Getting It Right](https://www.vmray.com/soc-case-management/)
@@ -218,6 +220,7 @@
   - [CVE-2026-5745 | libarchive ACL Parser archive_acl_from_text_nl null pointer dereference](https://vuldb.com/vuln/355801)
   - [CVE-2026-5762 | Wikimedia Reportcident Extension 1.43.7/1.44.4/1.45.2 on MediaWiki allocation of resources](https://vuldb.com/vuln/355910)
 - WIRED
+  - [8 Best Cheap Laptops (2026): Chromebooks, the MacBook Neo, and More](https://www.wired.com/gallery/best-cheap-laptops/)
   - [Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/)
   - [Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure](https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/)
 - 先知安全技术社区
