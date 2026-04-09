@@ -8,8 +8,6 @@ import yaml
 
 from .logging_utils import LogConfig
 
-from .security_match import DEFAULT_TITLE_PATTERNS, merge_pattern_lists
-
 
 @dataclass(frozen=True)
 class AppConfig:
@@ -22,7 +20,6 @@ class AppConfig:
     opml_retries: int
     opml_retry_backoff_s: float
     log: LogConfig
-    match_patterns: list[str]
     content_dir: Path
     db_path: Path
     max_items_per_run: int = 200
@@ -67,10 +64,6 @@ def load_config(path: str | Path) -> AppConfig:
     log_raw = raw.get("log") or {}
     log = LogConfig(level=str(log_raw.get("level", "INFO")))
 
-    sm = raw.get("security_match") or {}
-    extra = _as_list(sm.get("patterns")) + _as_list(sm.get("security")) + _as_list(sm.get("vuln"))
-    match_patterns = merge_pattern_lists(DEFAULT_TITLE_PATTERNS, extra)
-
     content_dir = Path(str(raw.get("content_dir", "content"))).resolve()
     db_path = Path(str(raw.get("db_path", "state/state.db"))).resolve()
 
@@ -84,7 +77,6 @@ def load_config(path: str | Path) -> AppConfig:
         opml_retries=opml_retries,
         opml_retry_backoff_s=opml_retry_backoff_s,
         log=log,
-        match_patterns=match_patterns,
         content_dir=content_dir,
         db_path=db_path,
         max_items_per_run=int(raw.get("max_items_per_run", 200)),

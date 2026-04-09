@@ -10,7 +10,6 @@ from .logging_utils import setup_logging
 from .opml_sync import list_local_opml_files, update_opml_to_dir
 from .render import build_archive_markdown, build_today_markdown, resolve_paths
 from .rss import RssItem, expand_opml_sources, fetch_rss, parse_published_dt
-from .security_match import title_is_security_related
 from .storage import init_db, list_news_items_for_day, upsert_news_item
 
 log = logging.getLogger("vulnwatch")
@@ -63,19 +62,18 @@ def run_once(conf: AppConfig, *, update_opml: bool = False, rss_dir: Path | None
     if not local_opml:
         log.warning("no local opml found in %s", rss_dir.as_posix())
 
-    # OPML 展开：从本地 OPML 文件读取 xmlUrl
-    rss_urls = expand_opml_sources(
+    # OPML 展开：从本地 OPML 读取 xmlUrl，并保留 outline 的 title/text 作为订阅源展示名
+    rss_feeds = expand_opml_sources(
         local_opml,
         timeout_s=int(conf.opml_timeout_s),
         retries=int(conf.opml_retries),
         retry_backoff_s=float(conf.opml_retry_backoff_s),
     )
-    log.info("expanded feeds=%s", len(rss_urls))
-    if not rss_urls:
+    log.info("expanded feeds=%s", len(rss_feeds))
+    if not rss_feeds:
         log.warning("no feeds expanded (check OPML url/path and timeout)")
-    # 避免 OPML 特别大导致单次运行过久：这里对 feed 数量做一个上限
     items = fetch_rss(
-        rss_urls,
+        rss_feeds,
         timeout_s=conf.rss_timeout_s,
     )
     log.info("fetched items=%s", len(items))
@@ -111,11 +109,8 @@ def run_once(conf: AppConfig, *, update_opml: bool = False, rss_dir: Path | None
         now_local.tzinfo,
     )
 
-    n_security = 0
-    uniq_list = list(uniq.values())
-    for it in uniq_list:
-        if not title_is_security_related(it.title, conf.match_patterns):
-            continue
+    n_upserted = 0
+    for it in uniq.values():
         upsert_news_item(
             conf.db_path,
             day=today,
@@ -125,8 +120,8 @@ def run_once(conf: AppConfig, *, update_opml: bool = False, rss_dir: Path | None
             url=it.url,
             published_at=it.published_at,
         )
-        n_security += 1
-    log.info("selected security_related=%s", n_security)
+        n_upserted += 1
+    log.info("upserted=%s", n_upserted)
 
     # 从 DB 读取“今天全量”渲染（不是本次运行抓到的子集）
     acc_sec, acc_vuln = list_news_items_for_day(conf.db_path, today)
@@ -143,7 +138,7 @@ def run_once(conf: AppConfig, *, update_opml: bool = False, rss_dir: Path | None
 
 
 def main(argv: list[str] | None = None) -> int:
-    ap = argparse.ArgumentParser(prog="vulnwatch", description="Hourly RSS → static title match → today.md + archive")
+    ap = argparse.ArgumentParser(prog="vulnwatch", description="Hourly RSS → keywords/window filter → today.md + archive")
     ap.add_argument("--config", default="config.yaml", help="Path to config.yaml")
     ap.add_argument("-u", "--update-opml", action="store_true", help="Update remote OPML into local rss/ then read local OPML")
     ap.add_argument("--rss-dir", default="rss", help="Local OPML directory (default: rss)")

@@ -20,9 +20,6 @@ keywords:
     - 招聘
     - 抽奖
     - 课程
-# 标题静态匹配（内置中英文安全相关子串 + 下列额外子串；大小写不敏感）
-security_match:
-  patterns: []
 content_dir: content
 db_path: state/state.db
 max_items_per_run: 200

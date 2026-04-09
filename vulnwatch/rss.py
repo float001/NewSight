@@ -81,14 +81,14 @@ def expand_opml_sources(
     timeout_s: int = 25,
     retries: int = 3,
     retry_backoff_s: float = 1.5,
-) -> list[str]:
+) -> list[tuple[str, str]]:
     """
-    sources 支持：
-    - RSS URL
-    - OPML 文件路径（*.opml）
-    - OPML URL（http(s)://.../*.opml）
+    展开 config 中的 RSS / OPML，返回 (feed_xml_url, opml_outline_title)。
+
+    OPML 中每个带 xmlUrl 的 outline 会取其 ``title`` 或 ``text`` 作为第二项；
+    非 OPML 的直接 RSS 地址第二项为空字符串，拉取后仍用 RSS feed 自带标题作 source。
     """
-    out: list[str] = []
+    out: list[tuple[str, str]] = []
     for s in sources:
         s = (s or "").strip()
         if not s:
@@ -111,39 +111,47 @@ def expand_opml_sources(
             found = 0
             for el in root.iter():
                 xml_url = el.attrib.get("xmlUrl") or el.attrib.get("xmlurl")
-                if xml_url and str(xml_url).strip():
-                    out.append(str(xml_url).strip())
-                    found += 1
+                if not xml_url or not str(xml_url).strip():
+                    continue
+                xml_url = str(xml_url).strip()
+                label = (el.attrib.get("title") or el.attrib.get("text") or "").strip()
+                out.append((xml_url, label))
+                found += 1
             log.info("opml expanded source=%s feeds=%s", s, found)
         else:
-            out.append(s)
-    # 去重保持顺序
+            out.append((s, ""))
+    # 去重保持顺序（同一 xmlUrl 只保留首次出现的 OPML 标题）
     seen: set[str] = set()
-    uniq: list[str] = []
-    for u in out:
+    uniq: list[tuple[str, str]] = []
+    for u, lab in out:
         if u in seen:
             continue
         seen.add(u)
-        uniq.append(u)
+        uniq.append((u, lab))
     return uniq
 
 
 def fetch_rss(
-    urls: Iterable[str],
+    feeds: Iterable[tuple[str, str]],
     *,
     timeout_s: int = 25,
     max_feeds: int | None = None,
     max_workers: int = 24,
 ) -> list[RssItem]:
-    url_list: list[str] = []
-    for u in urls:
+    """
+    feeds: (feed_xml_url, opml_outline_title_or_empty)。
+    若第二项非空，则作为 ``RssItem.source``（与 Markdown 里按源分组名称一致）；否则用 RSS feed 自带 title。
+    """
+    feed_list: list[tuple[str, str]] = []
+    for u, opml_title in feeds:
         u = (u or "").strip()
-        if u:
-            url_list.append(u)
-        if max_feeds is not None and int(max_feeds) > 0 and len(url_list) >= int(max_feeds):
+        if not u:
+            continue
+        feed_list.append((u, (opml_title or "").strip()))
+        if max_feeds is not None and int(max_feeds) > 0 and len(feed_list) >= int(max_feeds):
             break
 
-    def _fetch_one(u: str) -> list[RssItem]:
+    def _fetch_one(u: str, opml_title: str) -> list[RssItem]:
         try:
             r = requests.get(
                 u,
@@ -157,7 +165,7 @@ def fetch_rss(
         except requests.RequestException:
             log.info("feed error url=%s", u)
             return []
-        feed_title = (parsed.feed.get("title") or u).strip()
+        feed_title = (opml_title or (parsed.feed.get("title") or u) or "").strip()
         out: list[RssItem] = []
         for e in parsed.entries or []:
             title = (e.get("title") or "").strip()
@@ -172,14 +180,14 @@ def fetch_rss(
                     published_at=_to_iso(e),
                 )
             )
-        log.info("feed ok url=%s items=%s", u, len(out))
+        log.info("feed ok url=%s items=%s source=%s", u, len(out), feed_title[:80])
         return out
 
     items: list[RssItem] = []
-    if not url_list:
+    if not feed_list:
         return items
     with ThreadPoolExecutor(max_workers=max_workers) as ex:
-        futs = [ex.submit(_fetch_one, u) for u in url_list]
+        futs = [ex.submit(_fetch_one, u, ot) for u, ot in feed_list]
         for fut in as_completed(futs):
             try:
                 items.extend(fut.result())
