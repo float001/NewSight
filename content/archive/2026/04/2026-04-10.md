@@ -5,6 +5,10 @@
   - [之前莫名其妙在 linuxdo 被封了 封号原因是{在错误的地方}](https://2libra.com/post/community/8yguKnu)
 - 404 Media
   - [World’s Largest Group of Chimps Waging Deadly ‘Civil War,’ Scientists Discover](https://www.404media.co/worlds-largest-group-of-chimps-waging-deadly-civil-war-scientists-discover/)
+- Ars Technica
+  - [Trump-appointed judges refuse to block Trump blacklisting of Anthropic AI tech](https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/)
+- blog.jim-nielsen.com
+  - [Fewer Computers, Fewer Problems: Going Local With Builds & Deployments](https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/)
 - Cheesy Rumbles
   - [Crystal Mask](https://rastamouse.me/crystal-mask/)
 - daringfireball.net
@@ -14,8 +18,11 @@
 - Fidelis Security
   - [Sybil Attacks Explained: How They Work and Why They Matter](https://fidelissecurity.com/threatgeek/threat-detection-response/sybil-attacks-explained-how-they-work-and-why-they-matter/)
 - Hacker News Frontpage
+  - [ChatGPT Pro now starts at $100/month](https://chatgpt.com/pricing/)
+  - [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev)
   - [I Let Claude Code Autonomously Run Ads for a Month](https://read.technically.dev/p/i-let-claude-code-autonomously-run)
   - [The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy](https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo)
+  - [What Game Engines Know About Data That Databases Forgot](https://nockawa.github.io/blog/what-game-engines-know-about-data/)
 - IEEE Spectrum
   - [Remembering Gus Gaynor: A Devoted IEEE Volunteer](https://spectrum.ieee.org/remembering-gus-gaynor)
 - johndcook.com
@@ -23,17 +30,23 @@
   - [The Great Pyramid of Giza and the Speed of Light](https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-15260 exploit](https://sploitus.com/exploit?id=136807E3-F06F-5289-AE22-B1CBE28B8FEE&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-39912 exploit](https://sploitus.com/exploit?id=E64D8AAD-B20A-5B0E-8F1A-9D1C31338DDA&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Xibosignage Xibo exploit](https://sploitus.com/exploit?id=313DB74B-1C7D-5E84-925C-DA6C834996D5&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Google and Intel deepen AI infrastructure partnership](https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/)
   - [How to make the Startup Battlefield Top 20 — and what every company gets regardless](https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/)
+  - [Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)
   - [Sierra’s Bret Taylor says the era of clicking buttons is over](https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/)
   - [You can now edit your Instagram comments](https://techcrunch.com/2026/04/09/you-can-now-edit-your-instagram-comments/)
 - The Decoder
+  - [Claude Cowork expands to all paid plans on macOS and Windows with new org controls](https://the-decoder.com/claude-cowork-expands-to-all-paid-plans-on-macos-and-windows-with-new-org-controls/)
   - [Google Gemini now generates interactive visualizations you can tweak and explore right in the chat](https://the-decoder.com/google-gemini-now-generates-interactive-visualizations-you-can-tweak-and-explore-right-in-the-chat/)
 - The Verge
   - [Castlevania headlines a big list of exciting indie game reveals](https://www.theverge.com/games/908898/triple-i-initiative-indie-game-showcase-2026-recap-trailers)
+  - [Framework is teasing a lot of Linux for its April 21st event](https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser)
   - [Google&#8217;s Gemini AI can answer your questions with 3D models and simulations](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations)
   - [Mastodon is about to launch its take on Bluesky&#8217;s starter packs](https://www.theverge.com/tech/909308/mastodon-collections-bluesky-starter-packs)
+  - [Netflix&#8217;s TV games get a big boost with Jackbox collection](https://www.theverge.com/streaming/909415/netflix-games-jackbox-party-essentials)
   - [The MacBook Neo is the best thing to happen to Windows in years](https://www.theverge.com/tech/909140/microsoft-windows-11-fixes-macbook-neo-response-notepad)
   - [The team behind 1000xResist is making a game about convincing an AI that it isn’t human](https://www.theverge.com/entertainment/909180/prove-youre-human-announcement-sunset-visitor-1000xresist)
 - VulDB Recent Entries
