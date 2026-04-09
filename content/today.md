@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-04-09）
 
 - 2Libra
+  - [300 元左右，求推荐骨传导耳机](https://2libra.com/post/earphones/h268uL9)
   - [Anthropic 模型进化太猛了，天天这么搞，即强又快，能不焦虑吗](https://2libra.com/post/large-models/KOil75g)
   - [B 站视频播放页暂停广告 4 月 10 日上线](https://2libra.com/post/big-company-news/Fg-eM5c)
   - [cc switch 会导致封 cc 吗？](https://2libra.com/post/large-models/9xPv_n7)
@@ -11,6 +12,7 @@
   - [【💰】有没有这样一个徽章呵护呵护非酋](https://2libra.com/post/forum-function/IM0-fOZ)
   - [一个思考：智能体的核心，不是怎么写 prompt 、Agent ，而是——如何准确控制一个会说话的概率引擎。](https://2libra.com/post/ai-tools/F68dkyn)
   - [以前会急写不出好代码，现在急写给 ai 的 prompt 缺少关键信息](https://2libra.com/post/vibe-coding/Sk05bWy)
+  - [全职猎人要恢复连载了？](https://2libra.com/post/animation-sharing/VqiOGNA)
   - [和 ai 聊天](https://2libra.com/post/ai-tools/Ch1h4kg)
   - [国漫排行榜~](https://2libra.com/post/movie-sharing/W-MgMpH)
   - [夏天出门电风扇有无推荐](https://2libra.com/post/worth-buying/jBmK1wL)
@@ -150,6 +152,8 @@
   - [Fnsi, il 16 aprile sciopero per il contratto. E domani in piazza a Roma per l’equo compenso](https://dicorinto.it/associazionismo/fnsi-il-16-aprile-sciopero-per-il-contratto-e-domani-in-piazza-a-roma-per-lequo-compenso/)
 - berthub.eu
   - [Rapport digitale autonomie binnen de energie-intensieve industrie voor Energy Innovation Nl](https://berthub.eu/articles/posts/rapport-digitale-afhankelijkheden-energy-innovation-nl/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#536588: Multiple Heap Buffer Overflows in Orthanc DICOM Server](https://kb.cert.org/vuls/id/536588)
 - darkreading
   - [AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties](https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties)
 - Data Breach
@@ -160,6 +164,7 @@
   - [Osborne Computer liquidated April 9, 1986](https://dfarq.homeip.net/osborne-computer-liquidated-april-9-1986/?utm_source=rss&utm_medium=rss&utm_campaign=osborne-computer-liquidated-april-9-1986)
 - Hacker News Frontpage
   - [Claude mixes up who said what and that's not OK](https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html)
+  - [Clean code in the age of coding agents](https://www.yanist.com/clean-code-in-the-age-of-coding-agents/)
   - [Creating the Futurescape for the Fifth Element [2019]](https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element)
   - [Launch HN: Relvy (YC F24) – On-call runbooks, automated](https://www.relvy.ai)
   - [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
@@ -185,8 +190,12 @@
   - [“Bug Bounty Bootcamp #30: Time-Based Blind SQL Injection — When Silence Speaks Through Delays”](https://infosecwriteups.com/bug-bounty-bootcamp-30-time-based-blind-sql-injection-when-silence-speaks-through-delays-7e2107b6dc18?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [Atomic Stealer MacOS ClickFix Attack Bypasses Apple Security Warnings](https://www.infosecurity-magazine.com/news/atomic-stealer-macos-clickfix/)
+- LangChain Blog
+  - [Human judgment in the agent improvement loop](https://blog.langchain.com/human-judgment-in-the-agent-improvement-loop/)
 - matduggan.com
   - [You can absolutely have an RSS dependent website in 2026](https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/)
+- miguelgrinberg.com
+  - [SQLAlchemy 2 In Practice - Chapter 4 - Many-To-Many Relationships](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-4---many-to-many-relationships)
 - MIT Technology Review
   - [The Download: AstroTurf wars and exponential AI growth](https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/)
 - NetSPI
@@ -237,6 +246,7 @@
 - steveblank.com
   - [Nowhere Is Safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
 - TechCrunch
+  - [Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter](https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/)
   - [British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto](https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/)
   - [Collide Capital raises $95M fund to back fintech, future-of-work startups](https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups/)
   - [Ex-Tesla engineer’s startup taps Pronto to help automate a copper mine](https://techcrunch.com/2026/04/09/mariana-minerals-taps-pronto-to-help-automate-a-copper-mine/)
@@ -267,6 +277,7 @@
 - VulDB Recent Entries
   - [CVE-2023-46945 | QD 20230821 server-side request forgery](https://vuldb.com/vuln/356287)
   - [CVE-2025-14243 | Red Hat OpenShift Mirror Registry information exposure](https://vuldb.com/vuln/356281)
+  - [CVE-2025-45806 | rrweb-snapshot up to 2.0.0-alpha.17 cross site scripting (ID 1817)](https://vuldb.com/vuln/356565)
   - [CVE-2025-57175 | Siklu EtherHaul 8010 10_6_2-18707-ea552dc00b hard-coded password](https://vuldb.com/vuln/356286)
   - [CVE-2026-1092 | GitLab Community Edition/Enterprise Edition up to 18.8.8/18.9.4/18.10.2 improper validation of specified quantity in input](https://vuldb.com/vuln/356398)
   - [CVE-2026-1101 | GitLab Enterprise Edition up to 18.8.8/18.9.4/18.10.2 improper validation of specified quantity in input](https://vuldb.com/vuln/356399)
@@ -337,6 +348,7 @@
   - [CVE-2026-4336 | rustaurius Ultimate FAQ Accordion Plugin up to 2.4.7 on WordPress View.FAQ.class.php cross site scripting (EUVD-2026-20845)](https://vuldb.com/vuln/356500)
   - [CVE-2026-4429 | photoweblog OSM Plugin up to 6.1.15 on WordPress Shortcode file_color_list cross site scripting](https://vuldb.com/vuln/356505)
   - [CVE-2026-4498 | Elastic Kibana up to 8.19.13 unnecessary privileges](https://vuldb.com/vuln/356285)
+  - [CVE-2026-4660 | HashiCorp Tooling up to 1.8.5 information disclosure](https://vuldb.com/vuln/356564)
   - [CVE-2026-4837 | Rapid7 Insight Agent up to 3.3.0 on Linux Beacon eval eval injection](https://vuldb.com/vuln/356268)
   - [CVE-2026-5173 | GitLab Community Edition/Enterprise Edition up to 18.8.8/18.9.4/18.10.2 Websocket Connection routine](https://vuldb.com/vuln/356480)
   - [CVE-2026-5357 | codename065 Download Manager Plugin up to 3.3.52 on WordPress Shortcode members.php sid cross site scripting](https://vuldb.com/vuln/356501)
@@ -457,6 +469,15 @@
   - [CVE-2026-6005 | code-projects Patient Record Management System 1.0 /hematology_print.php hem_id sql injection](https://vuldb.com/vuln/356561)
   - [CVE-2026-6006 | code-projects Patient Record Management System 1.0 /edit_hpatient.php ID sql injection](https://vuldb.com/vuln/356562)
   - [CVE-2026-6007 | itsourcecode Construction Management System 1.0 /del.php equipname sql injection](https://vuldb.com/vuln/356563)
+  - [CVE-2026-6010 | CodeAstro Online Classroom 1.0/2.php takeassessment2.php?exid=14 Q1 sql injection](https://vuldb.com/vuln/356566)
+  - [CVE-2026-6011 | OpenClaw up to 2026.1.26 assertPublicHostname web-fetch.ts server-side request forgery](https://vuldb.com/vuln/356567)
+  - [CVE-2026-6012 | D-Link DIR-513 1.10 POST Request /goform/formSetPassword curTime buffer overflow](https://vuldb.com/vuln/356568)
+  - [CVE-2026-6013 | D-Link DIR-513 1.10 POST Request /goform/formSetRoute curTime buffer overflow](https://vuldb.com/vuln/356569)
+  - [CVE-2026-6014 | D-Link DIR-513 1.10 POST Request /goform/formAdvanceSetup webpage buffer overflow](https://vuldb.com/vuln/356570)
+  - [CVE-2026-6015 | Tenda AC9 15.03.02.13 POST Request /goform/QuickIndex formQuickIndex PPPOEPassword stack-based overflow](https://vuldb.com/vuln/356571)
+  - [CVE-2026-6016 | Tenda AC9 15.03.02.13 POST Request /goform/WizardHandle decodePwd WANS stack-based overflow](https://vuldb.com/vuln/356572)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [12 Best Practices for Securing AWS Cloud in 2026](https://blog.qualys.com/category/product-tech)
 - Wired
   - [10% Dell Coupon Codes | April 2026](https://www.wired.com/story/dell-coupon-code/)
   - [20% Off Brooks Promo Code & Deals for | April 2026](https://www.wired.com/story/brooks-promo-code/)
