@@ -26,6 +26,8 @@
   - [Arm首席执行官哈斯有望领导软银的大部分国际业务](https://36kr.com/newsflashes/3759156883735304?f=rss)
   - [A股三大指数午间休盘集体下跌，光模块逆势走强](https://36kr.com/newsflashes/3759039359812355?f=rss)
   - [A股三大指数集体收跌](https://36kr.com/newsflashes/3759245003571969?f=rss)
+  - [CoreWeave与Meta宣布210亿美元扩展人工智能基础设施协议](https://36kr.com/newsflashes/3759493974802946?f=rss)
+  - [Coreweave宣布发行30亿美元可转换优先票据](https://36kr.com/newsflashes/3759519276974593?f=rss)
   - [INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线](https://36kr.com/p/3759045427937793?f=rss)
   - [MiniMax发布命令行工具MMX-CLI](https://36kr.com/newsflashes/3759016669922056?f=rss)
   - [OBSBOT寻影新品发布，在口袋直播摄像头中实现AI智能跟踪与4K画质｜最前线](https://36kr.com/p/3759286934356744?f=rss)
@@ -43,10 +45,13 @@
   - [上期所：对部分客户采取限制开仓监管措施](https://36kr.com/newsflashes/3759401713713668?f=rss)
   - [世界黄金协会：全球黄金ETF在3月流出120亿美元，亚洲市场逆势买入](https://36kr.com/newsflashes/3759286603629321?f=rss)
   - [业绩预告“大变脸”，股价跌停，中化岩土回应](https://36kr.com/newsflashes/3759288784716548?f=rss)
+  - [两部门：用3年左右时间集中力量支持30个左右城市（群）实施新一轮国家综合货运枢纽补链强链提升行动](https://36kr.com/newsflashes/3759504391488258?f=rss)
   - [中信证券业绩快报：一季度净利润102.16亿元，同比增长54.6%](https://36kr.com/newsflashes/3759347801604609?f=rss)
   - [中国人民银行副行长宣昌能出席东盟与中日韩财政和央行副手会](https://36kr.com/newsflashes/3759468788908807?f=rss)
   - [中国自贸试验区扩围至23个](https://36kr.com/newsflashes/3759395795894793?f=rss)
+  - [中微半导：今年MUC行业景气度向好 目前主要矛盾是供应紧张](https://36kr.com/newsflashes/3759504846225927?f=rss)
   - [中汽协：1-2月中国出口到“一带一路”沿线国家的汽车商品累计金额达263.3亿美元](https://36kr.com/newsflashes/3759027088441858?f=rss)
+  - [中钨高新：一季度净利润同比预增256%—276%](https://36kr.com/newsflashes/3759528365802240?f=rss)
   - [乘联分会：3月全国乘用车市场零售164.8万辆，同比下降15.0%](https://36kr.com/newsflashes/3759330648244743?f=rss)
   - [乘联分会：3月新能源乘用车市场零售84.8万辆，同比下降14.4%](https://36kr.com/newsflashes/3759316475740672?f=rss)
   - [九岭锂业沪主板IPO终止，原计划募资31.35亿元](https://36kr.com/newsflashes/3759029636612871?f=rss)
@@ -57,6 +62,7 @@
   - [具身智能企业“零次方机器人”完成超亿元融资，由清华00后团队创办](https://36kr.com/newsflashes/3758962984141317?f=rss)
   - [利通电子澄清“谷歌推动液冷链价值增长”：公司液冷产品的研发尚处于前期探讨阶段](https://36kr.com/newsflashes/3759463921582598?f=rss)
   - [半日主力资金加仓电子板块，抛售传媒板块](https://36kr.com/newsflashes/3759043791733506?f=rss)
+  - [华远控股：实控人北京市西城区国资委正在筹划对下属部分企业集团进行重组](https://36kr.com/newsflashes/3759510045671938?f=rss)
   - [南向资金净买入额达100亿港元](https://36kr.com/newsflashes/3759290886914569?f=rss)
   - [南向资金净买入额达70亿港元](https://36kr.com/newsflashes/3759273846063879?f=rss)
   - [南大光电：2025年净利润同比增长18%，拟10派2.8元](https://36kr.com/newsflashes/3759474656002569?f=rss)
@@ -74,14 +80,18 @@
   - [对话前阿里高管、天猫设计家CEO：这些年烧掉千亿，家装行业还能怎么做？](https://36kr.com/p/3758979573121538?f=rss)
   - [对话美团GN06刘炯：美团为什么做了一款AI浏览器？](https://36kr.com/p/3759372854706953?f=rss)
   - [小马智行全球化布局再迎新进展，克罗地亚开启欧洲首个商业化Robotaxi服务](https://36kr.com/newsflashes/3758953408660227?f=rss)
+  - [工业和信息化部等四部门召开动力及储能电池行业企业座谈会](https://36kr.com/newsflashes/3759492366729735?f=rss)
   - [工信部等五部门：开展中小企业人才服务专项行动](https://36kr.com/newsflashes/3759315049153024?f=rss)
   - [市场消息： 获高盛投资的 “GO” 打车应用计划今年在日本上市](https://36kr.com/newsflashes/3759337876275973?f=rss)
+  - [市场消息：三星将在越南投资40亿美元建设芯片封装基地](https://36kr.com/newsflashes/3759542094824200?f=rss)
   - [康恩贝：替米沙坦氨氯地平片（Ⅱ）获药品注册证书](https://36kr.com/newsflashes/3759392046006790?f=rss)
   - [微信支付发布“AI接入工具箱”](https://36kr.com/newsflashes/3759289959809793?f=rss)
+  - [德业股份：一季度净利同比预增55.91%—70.08%](https://36kr.com/newsflashes/3759538556060168?f=rss)
   - [恒指午间休盘跌0.35%，恒生科技指数跌1.26%](https://36kr.com/newsflashes/3759069221651203?f=rss)
   - [恒指收跌0.54%，恒生科技指数跌2.06%](https://36kr.com/newsflashes/3759312964059910?f=rss)
   - [报告：预估2026年中国人形机器人市场产量将年增94%](https://36kr.com/newsflashes/3759188280640000?f=rss)
   - [报道称OpenAI因安全风险采取了分阶段推出新模型的策略](https://36kr.com/newsflashes/3759370763043329?f=rss)
+  - [招金黄金：2025年净利润1.59亿元，同比扭亏](https://36kr.com/newsflashes/3759490448556548?f=rss)
   - [新希望：3月商品猪销售收入15.47亿元，同比降19.86%](https://36kr.com/newsflashes/3759349290910209?f=rss)
   - [新石器无人车旗下公司在广东成立新公司，含外卖递送服务业务](https://36kr.com/newsflashes/3759076239770368?f=rss)
   - [日本考虑再释放合20天需求量的石油储备](https://36kr.com/newsflashes/3759182669627912?f=rss)
@@ -99,6 +109,7 @@
   - [消息称特斯拉Cybercab量产启动](https://36kr.com/newsflashes/3758993965646593?f=rss)
   - [淘宝闪购上线行业首个支持语音搜索能力的商家端AI Agent](https://36kr.com/newsflashes/3758988609438210?f=rss)
   - [港股AI应用股持续走高 讯策大涨超15%](https://36kr.com/newsflashes/3758999578067714?f=rss)
+  - [湖南发展：2026年第一季度净利同比预增165%—223.89%](https://36kr.com/newsflashes/3759536247259907?f=rss)
   - [焱融存储与沐曦股份完成产品兼容性认证](https://36kr.com/newsflashes/3759040458851080?f=rss)
   - [特斯拉正在研发一款体型更小、价格更低的全新电动汽车](https://36kr.com/newsflashes/3759454309433858?f=rss)
   - [环旭电子：3月合并营业收入46.88亿元，同比下降6.08%](https://36kr.com/newsflashes/3759303864140290?f=rss)
@@ -117,6 +128,8 @@
   - [雅化集团：与津巴布韦政府进行了沟通，力争早日恢复锂精矿出口](https://36kr.com/newsflashes/3759072664044036?f=rss)
   - [马斯克称FSD V15版本安全性将远超人类水平](https://36kr.com/newsflashes/3759045052547847?f=rss)
   - [高盛：将布油和美油第二季度价格预测分别下调至90美元和87美元](https://36kr.com/newsflashes/3759005132554759?f=rss)
+  - [黑莓公司2026财年第四季度营收为1.56亿美元，同比增长10%](https://36kr.com/newsflashes/3759511341204232?f=rss)
+  - [黑莓预计2027年营收5.84亿美元至6.11亿美元](https://36kr.com/newsflashes/3759505515627011?f=rss)
 - Arturo Di Corinto
   - [Fnsi, il 16 aprile sciopero per il contratto. E domani in piazza a Roma per l’equo compenso](https://dicorinto.it/associazionismo/fnsi-il-16-aprile-sciopero-per-il-contratto-e-domani-in-piazza-a-roma-per-lequo-compenso/)
 - berthub.eu
@@ -152,16 +165,22 @@
   - [My eCPPTv3 Exam Review](https://infosecwriteups.com/my-ecpptv3-exam-review-e5d57dc1ff78?source=rss----7b722bfd1b8d---4)
   - [OWASP API Security Top 10 (Part 1) — TryHackMe Walkthrough ️](https://infosecwriteups.com/owasp-api-security-top-10-part-1-tryhackme-walkthrough-%EF%B8%8F-7b232b4ac745?source=rss----7b722bfd1b8d---4)
   - [“Bug Bounty Bootcamp #30: Time-Based Blind SQL Injection — When Silence Speaks Through Delays”](https://infosecwriteups.com/bug-bounty-bootcamp-30-time-based-blind-sql-injection-when-silence-speaks-through-delays-7e2107b6dc18?source=rss----7b722bfd1b8d---4)
+- infosecurity-magazine.com
+  - [Atomic Stealer MacOS ClickFix Attack Bypasses Apple Security Warnings](https://www.infosecurity-magazine.com/news/atomic-stealer-macos-clickfix/)
 - matduggan.com
   - [You can absolutely have an RSS dependent website in 2026](https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/)
 - NetSPI
   - [Anthropic’s Mythos Announcement: What it Means for Security Teams](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/anthropics-mythos-announcement-what-it-means-for-security-teams/)
+- Pen Test Partners
+  - [You can pen test OT networks without breaking them](https://www.pentestpartners.com/security-blog/you-can-pen-test-ot-networks-without-breaking-them/)
 - pluralistic.net
   - [Pluralistic: Cindy Cohn's "Privacy's Defender" (09 Apr 2026)](https://pluralistic.net/2026/04/09/bernstein-2/)
 - Product Hunt
   - [Lunagraph (Alpha)](https://www.producthunt.com/products/lunagraph)
   - [Orca](https://www.producthunt.com/products/orca-5)
   - [Startups.RIP](https://www.producthunt.com/products/startups-rip)
+- Recent Commits to cve:main
+  - [Update Thu Apr  9 11:20:06 UTC 2026](https://github.com/trickest/cve/commit/603904ef7dcd1d8e17ad3f48da92c4b8c0e1b6fe)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Thursday, April 9th, 2026 https://isc.sans.edu/podcastdetail/9886, (Thu, Apr 9th)](https://isc.sans.edu/diary/rss/32882)
   - [TeamPCP Supply Chain Campaign: Update 007 - Cisco Source Code Stolen via Trivy-Linked Breach, Google GTIG Tracks TeamPCP as UNC6780, and CISA KEV Deadline Arrives with No Standalone Advisory, (Wed, Apr 8th)](https://isc.sans.edu/diary/rss/32880)
@@ -173,19 +192,24 @@
   - [Internet-Exposed ICS Devices Raise Alarm for Critical Sectors](https://securityaffairs.com/190525/ics-scada/internet-exposed-ics-devices-raise-alarm-for-critical-sectors.html)
   - [Russia-linked APT28 uses PRISMEX to infiltrate Ukraine and allied infrastructure with advanced tactics](https://securityaffairs.com/190510/apt/russia-linked-apt28-uses-prismex-to-infiltrate-ukraine-and-allied-infrastructure-with-advanced-tactics.html)
   - [U.S. CISA adds a flaw in Ivanti EPMM to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190519/security/u-s-cisa-adds-a-flaw-in-ivanti-epmm-to-its-known-exploited-vulnerabilities-catalog-2.html)
+- shkspr.mobi
+  - [Book Review: Small Comfort by Ia Genberg ★★☆☆☆](https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/)
 - Sploitus.com Exploits RSS Feed
   - [AutoRunScan- exploit](https://sploitus.com/exploit?id=0F782044-7C17-5528-8C74-0CAE7D8BB106&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Mariadb exploit](https://sploitus.com/exploit?id=C65F644C-2F8C-578B-8E2E-9545302B1DA2&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2020-12446 exploit](https://sploitus.com/exploit?id=D817D64E-9204-57D0-8E24-0104A8B807ED&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-23398 exploit](https://sploitus.com/exploit?id=6FD67DE8-8953-568D-A428-C089D15FD604&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-34197 exploit](https://sploitus.com/exploit?id=2E0523BA-5A5F-59A6-A067-CDA22B5089E8&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-40271 exploit](https://sploitus.com/exploit?id=131ACA91-A2DF-51F0-928B-7F1BCF92351A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-4747 exploit](https://sploitus.com/exploit?id=5EE3EDB2-A59E-5356-8F34-765561A9CB56&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Input Validation in N8N exploit](https://sploitus.com/exploit?id=7CD34E30-5479-5FC6-BF65-5F47C18F60DA&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Gnu Bash exploit](https://sploitus.com/exploit?id=A0D95186-6519-5586-9004-945885F38457&utm_source=rss&utm_medium=rss)
   - [Exploit for Type Confusion in Mozilla Firefox exploit](https://sploitus.com/exploit?id=45A5E0F9-BDE4-5160-B842-0471907AB791&utm_source=rss&utm_medium=rss)
   - [Exploit for Type Confusion in Mozilla Firefox exploit](https://sploitus.com/exploit?id=85AEBD7C-DCFD-5FE3-A27B-BD351A95168F&utm_source=rss&utm_medium=rss)
   - [sqlmap-gui exploit](https://sploitus.com/exploit?id=B0BA8C7E-F129-56A6-85C7-C1DC7D6E89AA&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto](https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/)
+  - [Ex-Tesla engineer’s startup taps Pronto to help automate a copper mine](https://techcrunch.com/2026/04/09/mariana-minerals-taps-pronto-to-help-automate-a-copper-mine/)
   - [These are the countries moving to ban social media for children](https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/)
 - The Decoder
   - [Anthropic launches managed infrastructure for autonomous AI agents](https://the-decoder.com/anthropic-launches-managed-infrastructure-for-autonomous-ai-agents/)
@@ -404,6 +428,7 @@
 - 奇客Solidot–传递最新科技情报
   - [纽时记者称 Adam Back 是中本聪](https://www.solidot.org/story?sid=83993)
 - 爱范儿
+  - [接下来，苹果的 iPhone 和小米手机一样多](https://www.ifanr.com/1661580?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [时薪 6 毛钱，Anthropic 开始出租 AI 牛马](https://www.ifanr.com/1661513?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [星巴克「千店千面」战略启动，产品更重要了，门店依旧是星巴克的核心竞争力](https://www.ifanr.com/1661532?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
@@ -411,3 +436,4 @@
   - [马斯克死磕奥特曼：赔款我不要，但他必须离开OpenAI董事会](https://www.qbitai.com/2026/04/398071.html)
 - 黑海洋
   - [Gemini获得笔记本功能来帮助你组织项目](https://blog.upx8.com/Gemini%E8%8E%B7%E5%BE%97%E7%AC%94%E8%AE%B0%E6%9C%AC%E5%8A%9F%E8%83%BD%E6%9D%A5%E5%B8%AE%E5%8A%A9%E4%BD%A0%E7%BB%84%E7%BB%87%E9%A1%B9%E7%9B%AE)
+  - [Spotify现在允许用户关闭应用内所有视频](https://blog.upx8.com/Spotify%E7%8E%B0%E5%9C%A8%E5%85%81%E8%AE%B8%E7%94%A8%E6%88%B7%E5%85%B3%E9%97%AD%E5%BA%94%E7%94%A8%E5%86%85%E6%89%80%E6%9C%89%E8%A7%86%E9%A2%91)
