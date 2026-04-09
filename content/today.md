@@ -29,6 +29,7 @@
   - [INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线](https://36kr.com/p/3759045427937793?f=rss)
   - [MiniMax发布命令行工具MMX-CLI](https://36kr.com/newsflashes/3759016669922056?f=rss)
   - [OBSBOT寻影新品发布，在口袋直播摄像头中实现AI智能跟踪与4K画质｜最前线](https://36kr.com/p/3759286934356744?f=rss)
+  - [OpenAI因能源成本问题暂停英国“星际之门”项目](https://36kr.com/newsflashes/3759479804543497?f=rss)
   - [OpenAI预计今年将实现25亿美元的广告收入](https://36kr.com/newsflashes/3759404912181764?f=rss)
   - [Polygon Labs正为支付业务融资至多1亿美元](https://36kr.com/newsflashes/3759359536742914?f=rss)
   - [ST人福：控股子公司药品RFUS-1646片获药物临床试验批准通知书](https://36kr.com/newsflashes/3759389762355712?f=rss)
@@ -43,6 +44,7 @@
   - [世界黄金协会：全球黄金ETF在3月流出120亿美元，亚洲市场逆势买入](https://36kr.com/newsflashes/3759286603629321?f=rss)
   - [业绩预告“大变脸”，股价跌停，中化岩土回应](https://36kr.com/newsflashes/3759288784716548?f=rss)
   - [中信证券业绩快报：一季度净利润102.16亿元，同比增长54.6%](https://36kr.com/newsflashes/3759347801604609?f=rss)
+  - [中国人民银行副行长宣昌能出席东盟与中日韩财政和央行副手会](https://36kr.com/newsflashes/3759468788908807?f=rss)
   - [中国自贸试验区扩围至23个](https://36kr.com/newsflashes/3759395795894793?f=rss)
   - [中汽协：1-2月中国出口到“一带一路”沿线国家的汽车商品累计金额达263.3亿美元](https://36kr.com/newsflashes/3759027088441858?f=rss)
   - [乘联分会：3月全国乘用车市场零售164.8万辆，同比下降15.0%](https://36kr.com/newsflashes/3759330648244743?f=rss)
@@ -50,10 +52,14 @@
   - [九岭锂业沪主板IPO终止，原计划募资31.35亿元](https://36kr.com/newsflashes/3759029636612871?f=rss)
   - [五粮液在四川成立数智营销公司](https://36kr.com/newsflashes/3759206841598472?f=rss)
   - [五部门：做好2026年享受税收优惠政策的集成电路企业或项目、软件企业清单制定工作](https://36kr.com/newsflashes/3759003203207939?f=rss)
+  - [亚马逊芯片业务年化营收现已超过200亿美元](https://36kr.com/newsflashes/3759448031773447?f=rss)
+  - [全志科技：第一季度净利同比预增112.99%—140.3%](https://36kr.com/newsflashes/3759467593909001?f=rss)
   - [具身智能企业“零次方机器人”完成超亿元融资，由清华00后团队创办](https://36kr.com/newsflashes/3758962984141317?f=rss)
+  - [利通电子澄清“谷歌推动液冷链价值增长”：公司液冷产品的研发尚处于前期探讨阶段](https://36kr.com/newsflashes/3759463921582598?f=rss)
   - [半日主力资金加仓电子板块，抛售传媒板块](https://36kr.com/newsflashes/3759043791733506?f=rss)
   - [南向资金净买入额达100亿港元](https://36kr.com/newsflashes/3759290886914569?f=rss)
   - [南向资金净买入额达70亿港元](https://36kr.com/newsflashes/3759273846063879?f=rss)
+  - [南大光电：2025年净利润同比增长18%，拟10派2.8元](https://36kr.com/newsflashes/3759474656002569?f=rss)
   - [吉利远程汽车换帅完成工商变更](https://36kr.com/newsflashes/3759253187642116?f=rss)
   - [后视摄像头存在故障，通用在美召回超27万辆汽车](https://36kr.com/newsflashes/3759236242145796?f=rss)
   - [哈啰出行在太原成立网络科技新公司](https://36kr.com/newsflashes/3759216242262537?f=rss)
@@ -80,10 +86,13 @@
   - [新石器无人车旗下公司在广东成立新公司，含外卖递送服务业务](https://36kr.com/newsflashes/3759076239770368?f=rss)
   - [日本考虑再释放合20天需求量的石油储备](https://36kr.com/newsflashes/3759182669627912?f=rss)
   - [机器人租赁平台擎天租成智元新款人形机器人A3���首发应用场”](https://36kr.com/newsflashes/3759024946971138?f=rss)
+  - [机构今日买入东山精密等20股，卖出神剑股份2.14亿元](https://36kr.com/newsflashes/3759451290764041?f=rss)
   - [杭氧股份、昆仑信托在上海成立气体公司](https://36kr.com/newsflashes/3759027719684611?f=rss)
   - [杭钢股份：诚通金控拟减持不超2%公司股份](https://36kr.com/newsflashes/3759418485211650?f=rss)
   - [武汉光谷金融控股集团增资至约215.9亿元](https://36kr.com/newsflashes/3759281855578627?f=rss)
   - [比亚迪成功注册一枚“比亚迪闪充”商标](https://36kr.com/newsflashes/3759075576595207?f=rss)
+  - [氪星晚报｜李佳琦回应“缺席”直播：没有退休；市场消息： 获高盛投资的 “GO” 打车应用计划今年在日本上市](https://36kr.com/p/3759461864424195?f=rss)
+  - [汇源通信：没有石英光纤预制棒及石英光纤制造产能](https://36kr.com/newsflashes/3759460704780809?f=rss)
   - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3758977330856453?f=rss)
   - [海南：出台入境旅游支持措施，推动优化免签政策](https://36kr.com/newsflashes/3759280461742850?f=rss)
   - [海尔消费金融公司增资至约31.2亿元](https://36kr.com/newsflashes/3759042881553159?f=rss)
@@ -91,7 +100,9 @@
   - [淘宝闪购上线行业首个支持语音搜索能力的商家端AI Agent](https://36kr.com/newsflashes/3758988609438210?f=rss)
   - [港股AI应用股持续走高 讯策大涨超15%](https://36kr.com/newsflashes/3758999578067714?f=rss)
   - [焱融存储与沐曦股份完成产品兼容性认证](https://36kr.com/newsflashes/3759040458851080?f=rss)
+  - [特斯拉正在研发一款体型更小、价格更低的全新电动汽车](https://36kr.com/newsflashes/3759454309433858?f=rss)
   - [环旭电子：3月合并营业收入46.88亿元，同比下降6.08%](https://36kr.com/newsflashes/3759303864140290?f=rss)
+  - [瑞芯微：2026年第一季度净利同比预增52.76%—62.31%](https://36kr.com/newsflashes/3759440950657801?f=rss)
   - [由于业绩不佳，柒和伊控股推迟美国便利店业务上市计划](https://36kr.com/newsflashes/3759221189837320?f=rss)
   - [穆巴达拉：2025年资产管理规模同比增长17%](https://36kr.com/newsflashes/3759294172414467?f=rss)
   - [美银：预计到2030年，半导体市场规模达2万亿美元](https://36kr.com/newsflashes/3759408794190344?f=rss)
@@ -116,6 +127,8 @@
   - [The alleged breach of China’s National Supercomputing Center can have serious geopolitical consequences](https://securityaffairs.com/190536/hacking/the-alleged-breach-of-chinas-national-supercomputing-center-can-have-serious-geopolitical-consequences.html)
 - defend.network
   - [Daily Threat Briefing – April 9, 2026](https://defend.network/briefings/apt28-prismex-activemq-rce-router-tokens-2026-04-09.html)
+- dfarq.homeip.net
+  - [Osborne Computer liquidated April 9, 1986](https://dfarq.homeip.net/osborne-computer-liquidated-april-9-1986/?utm_source=rss&utm_medium=rss&utm_campaign=osborne-computer-liquidated-april-9-1986)
 - Hacker News Frontpage
   - [Claude mixes up who said what and that's not OK](https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html)
   - [Creating the Futurescape for the Fifth Element [2019]](https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element)
@@ -128,7 +141,9 @@
 - Horizon3.ai
   - [CVE-2026-20160](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-20160/)
 - ICT Security Magazine
+  - [APT28 e la campagna FrostArmada: come il GRU russo ruba credenziali Microsoft senza installare malware](https://www.ictsecuritymagazine.com/notizie/apt28-frostarmada-microsoft/)
   - [Ransomware senza cifratura: come il data extortion sta sostituendo l’attacco classico](https://www.ictsecuritymagazine.com/notizie/ransomware-senza-cifratura/)
+  - [Supply Chain Attack nordcoreano, Contagious Interview prende di mira gli sviluppatori: 1.700 pacchetti malevoli in cinque ecosistemi open source](https://www.ictsecuritymagazine.com/notizie/supply-chain-attack-nordcorea/)
 - InfoSec Write-ups - Medium
   - [CI/CD Takeover & Supply Chain Risk! $$$$ Bounty](https://infosecwriteups.com/linktrees-entire-mobile-infrastructure-exposed-hardcoded-secrets-in-strings-xml-bb881b0a86d7?source=rss----7b722bfd1b8d---4)
   - [Dig Dug TryHackMe Walkthrough](https://infosecwriteups.com/dig-dug-tryhackme-walkthrough-5ecaf8fb0f33?source=rss----7b722bfd1b8d---4)
@@ -137,8 +152,12 @@
   - [My eCPPTv3 Exam Review](https://infosecwriteups.com/my-ecpptv3-exam-review-e5d57dc1ff78?source=rss----7b722bfd1b8d---4)
   - [OWASP API Security Top 10 (Part 1) — TryHackMe Walkthrough ️](https://infosecwriteups.com/owasp-api-security-top-10-part-1-tryhackme-walkthrough-%EF%B8%8F-7b232b4ac745?source=rss----7b722bfd1b8d---4)
   - [“Bug Bounty Bootcamp #30: Time-Based Blind SQL Injection — When Silence Speaks Through Delays”](https://infosecwriteups.com/bug-bounty-bootcamp-30-time-based-blind-sql-injection-when-silence-speaks-through-delays-7e2107b6dc18?source=rss----7b722bfd1b8d---4)
+- matduggan.com
+  - [You can absolutely have an RSS dependent website in 2026](https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/)
 - NetSPI
   - [Anthropic’s Mythos Announcement: What it Means for Security Teams](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/anthropics-mythos-announcement-what-it-means-for-security-teams/)
+- pluralistic.net
+  - [Pluralistic: Cindy Cohn's "Privacy's Defender" (09 Apr 2026)](https://pluralistic.net/2026/04/09/bernstein-2/)
 - Product Hunt
   - [Lunagraph (Alpha)](https://www.producthunt.com/products/lunagraph)
   - [Orca](https://www.producthunt.com/products/orca-5)
@@ -146,6 +165,8 @@
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Thursday, April 9th, 2026 https://isc.sans.edu/podcastdetail/9886, (Thu, Apr 9th)](https://isc.sans.edu/diary/rss/32882)
   - [TeamPCP Supply Chain Campaign: Update 007 - Cisco Source Code Stolen via Trivy-Linked Breach, Google GTIG Tracks TeamPCP as UNC6780, and CISA KEV Deadline Arrives with No Standalone Advisory, (Wed, Apr 8th)](https://isc.sans.edu/diary/rss/32880)
+- Schneier on Security
+  - [On Microsoft’s Lousy Cloud Security](https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html)
 - Securelist
   - [The long road to your crypto: ClipBanker and its marathon infection chain](https://securelist.com/clipbanker-malware-distributed-via-trojanized-proxifier/119341/)
 - Security Affairs
@@ -153,6 +174,7 @@
   - [Russia-linked APT28 uses PRISMEX to infiltrate Ukraine and allied infrastructure with advanced tactics](https://securityaffairs.com/190510/apt/russia-linked-apt28-uses-prismex-to-infiltrate-ukraine-and-allied-infrastructure-with-advanced-tactics.html)
   - [U.S. CISA adds a flaw in Ivanti EPMM to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190519/security/u-s-cisa-adds-a-flaw-in-ivanti-epmm-to-its-known-exploited-vulnerabilities-catalog-2.html)
 - Sploitus.com Exploits RSS Feed
+  - [AutoRunScan- exploit](https://sploitus.com/exploit?id=0F782044-7C17-5528-8C74-0CAE7D8BB106&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Mariadb exploit](https://sploitus.com/exploit?id=C65F644C-2F8C-578B-8E2E-9545302B1DA2&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-23398 exploit](https://sploitus.com/exploit?id=6FD67DE8-8953-568D-A428-C089D15FD604&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-34197 exploit](https://sploitus.com/exploit?id=2E0523BA-5A5F-59A6-A067-CDA22B5089E8&utm_source=rss&utm_medium=rss)
@@ -169,6 +191,10 @@
   - [Anthropic launches managed infrastructure for autonomous AI agents](https://the-decoder.com/anthropic-launches-managed-infrastructure-for-autonomous-ai-agents/)
 - The Verge
   - [Amflow’s latest e-bikes raise the bar again](https://www.theverge.com/transportation/909060/amflows-latest-e-bikes-raise-the-bar-again)
+  - [Google makes it easy to deepfake yourself](https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar)
+  - [Spotify now lets you turn off all its videos](https://www.theverge.com/entertainment/909099/spotify-video-controls-music-podcasts-canvas)
+- Trail of Bits Blog
+  - [Master C and C++ with our new Testing Handbook chapter](https://blog.trailofbits.com/2026/04/09/master-c-and-c-with-our-new-testing-handbook-chapter/)
 - VMRay
   - [The CISO’s Guide to Preventing Phishing Attacks](https://www.vmray.com/phishing-prevention-techniques/)
 - VulDB Recent Entries
@@ -336,6 +362,7 @@
   - [CVE-2026-5919 | Google Chrome up to 146.0.7680.178 WebSockets cross-domain policy (ID 483423)](https://vuldb.com/vuln/356451)
   - [CVE-2026-5959 | GL.iNet GL-RM1/GL-RM10/GL-RM10RC/GL-RM1PE 1.8.1 Factory Reset improper authentication](https://vuldb.com/vuln/356512)
   - [CVE-2026-5960 | code-projects Patient Record Management System 1.0 SQL Database Backup File /db/hcpms.sql information disclosure](https://vuldb.com/vuln/356513)
+  - [CVE-2026-5962 | Tenda CH22 1.0.0.6(468) httpd R7WebsSecurityHandlerfunction path traversal](https://vuldb.com/vuln/356515)
 - Wired
   - [10% Dell Coupon Codes | April 2026](https://www.wired.com/story/dell-coupon-code/)
   - [20% Off Brooks Promo Code & Deals for | April 2026](https://www.wired.com/story/brooks-promo-code/)
@@ -344,8 +371,11 @@
   - [Altra Promo Codes: Get 20% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)
   - [AT&T Promo Codes and Bundle Deals: Save $50 in April](https://www.wired.com/story/att-promo-code/)
   - [Bartesian Discount Codes and Deals: Up to 35% Off](https://www.wired.com/story/bartesian-discount-code/)
+  - [Fi Mini for Cats Review: Track Your Pets and Monitor Their Activity](https://www.wired.com/review/fi-mini-for-cats/)
   - [Google Workspace Promo Code: Up to 14% Off in 2026](https://www.wired.com/story/google-workspace-promo-code/)
+  - [I Asked Netflix’s Reality TV Boss Why So Many Men On Dating Shows Are Terrible](https://www.wired.com/story/netflix-love-is-blind-brandon-riegg-on-why-so-many-men-on-dating-shows-are-terrible/)
   - [Medicube Coupon Code: Top Promo Codes and Discounts for April 2026](https://www.wired.com/story/medicube-coupon-code/)
+  - [Meta Cafeteria Workers Did What Execs Won’t: Took on ICE and Won](https://www.wired.com/story/how-meta-cafeteria-workers-rallied-to-take-on-ice/)
   - [NordVPN Coupons and Deals: 77% Off in April 2026](https://www.wired.com/story/nordvpn-coupon/)
   - [NZXT Discount Codes: 50% Off in April 2026](https://www.wired.com/story/nzxt-discount-code/)
   - [Peacock Promo Codes: 40% Off April 2026](https://www.wired.com/story/peacock-promo-code/)
