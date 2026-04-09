@@ -17,10 +17,14 @@
   - [EFF is Leaving X](https://www.eff.org/deeplinks/2026/04/eff-leaving-x)
 - Fidelis Security
   - [Sybil Attacks Explained: How They Work and Why They Matter](https://fidelissecurity.com/threatgeek/threat-detection-response/sybil-attacks-explained-how-they-work-and-why-they-matter/)
+- gilesthomas.com
+  - [Writing an LLM from scratch, part 32j -- Interventions: trying to train a better model in the cloud](https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud)
 - Hacker News Frontpage
+  - [Bitmap fonts make computers feel like computers again](https://korigamik.dev/blog/bitmap_fonts/)
   - [ChatGPT Pro now starts at $100/month](https://chatgpt.com/pricing/)
   - [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev)
   - [I Let Claude Code Autonomously Run Ads for a Month](https://read.technically.dev/p/i-let-claude-code-autonomously-run)
+  - [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
   - [The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy](https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo)
   - [What Game Engines Know About Data That Databases Forgot](https://nockawa.github.io/blog/what-game-engines-know-about-data/)
 - IEEE Spectrum
@@ -28,14 +32,19 @@
 - johndcook.com
   - [Random hexagon fractal](https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/)
   - [The Great Pyramid of Giza and the Speed of Light](https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/)
+- Security Affairs
+  - [Malicious PDF reveals active Adobe Reader zero-day in the wild](https://securityaffairs.com/190558/hacking/malicious-pdf-reveals-active-adobe-reader-zero-day-in-the-wild.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-15260 exploit](https://sploitus.com/exploit?id=136807E3-F06F-5289-AE22-B1CBE28B8FEE&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-39912 exploit](https://sploitus.com/exploit?id=E64D8AAD-B20A-5B0E-8F1A-9D1C31338DDA&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Read in Microsoft exploit](https://sploitus.com/exploit?id=BC112C5A-7015-5759-8CC8-383B5E92D95C&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Xibosignage Xibo exploit](https://sploitus.com/exploit?id=313DB74B-1C7D-5E84-925C-DA6C834996D5&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [After data breach, $10B valued startup Mercor is having a month](https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/)
   - [Google and Intel deepen AI infrastructure partnership](https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/)
   - [How to make the Startup Battlefield Top 20 — and what every company gets regardless](https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/)
   - [Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)
+  - [Meta AI app climbs to No. 5 on the App Store after Muse Spark launch](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/)
   - [Sierra’s Bret Taylor says the era of clicking buttons is over](https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/)
   - [You can now edit your Instagram comments](https://techcrunch.com/2026/04/09/you-can-now-edit-your-instagram-comments/)
 - The Decoder
@@ -45,6 +54,7 @@
   - [Castlevania headlines a big list of exciting indie game reveals](https://www.theverge.com/games/908898/triple-i-initiative-indie-game-showcase-2026-recap-trailers)
   - [Framework is teasing a lot of Linux for its April 21st event](https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser)
   - [Google&#8217;s Gemini AI can answer your questions with 3D models and simulations](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations)
+  - [Instagram now lets you edit your own comments](https://www.theverge.com/tech/909455/instagram-edit-comments)
   - [Mastodon is about to launch its take on Bluesky&#8217;s starter packs](https://www.theverge.com/tech/909308/mastodon-collections-bluesky-starter-packs)
   - [Netflix&#8217;s TV games get a big boost with Jackbox collection](https://www.theverge.com/streaming/909415/netflix-games-jackbox-party-essentials)
   - [The MacBook Neo is the best thing to happen to Windows in years](https://www.theverge.com/tech/909140/microsoft-windows-11-fixes-macbook-neo-response-notepad)
@@ -53,8 +63,13 @@
   - [CVE-2025-63238 | LimeSurvey up to 6.15.11 URL QuestionCreate.php getInstance gid cross site scripting](https://vuldb.com/vuln/356627)
   - [CVE-2025-70364 | Kiamo up to 8.3 privilege escalation](https://vuldb.com/vuln/356611)
   - [CVE-2025-70365 | Kiamo up to 8.3 Administrative Interface cross site scripting](https://vuldb.com/vuln/356614)
+  - [CVE-2026-34941 | bytecodealliance wasmtime up to 24.0.6/36.0.6/42.0.1/44.0.0 out-of-bounds (GHSA-hx6p-xpx3-jvvv)](https://vuldb.com/vuln/356649)
+  - [CVE-2026-34942 | bytecodealliance wasmtime up to 24.0.6/36.0.6/42.0.1/44.0.0 array index (GHSA-jxhv-7h78-9775)](https://vuldb.com/vuln/356650)
+  - [CVE-2026-35207 | linuxdeepin dde-control-center/deepin-deepinid-plugin prior 5.9.9/6.1.80 Deepinid Cloud Service certificate validation (GHSA-jf2h-4vqc-3jgc)](https://vuldb.com/vuln/356651)
+  - [CVE-2026-39315 | unjs unhead up to 2.1.12 safe.ts useHeadSafe incomplete blacklist (GHSA-95h2-gj7x-gx9w)](https://vuldb.com/vuln/356647)
   - [CVE-2026-39843 | makeplane up to 1.2.x fetch_and_encode_favicon server-side request forgery](https://vuldb.com/vuln/356612)
   - [CVE-2026-39853 | mtrojnar osslsigncode up to 2.11 stack-based overflow](https://vuldb.com/vuln/356613)
+  - [CVE-2026-39911 | hashgraph guardian up to 3.5.0 Environment Variable exposure of resource](https://vuldb.com/vuln/356648)
   - [CVE-2026-39941 | ChurchCRM up to 7.0.x EditEventAttendees.php EName/EDesc cross site scripting](https://vuldb.com/vuln/356610)
   - [CVE-2026-39957 | Lychee up to 7.5.3 listAll authorization (GHSA-4v4c-g2jv-4g25)](https://vuldb.com/vuln/356625)
   - [CVE-2026-39958 | AOSC oma up to 1.25.0 topics.json Name crlf injection (GHSA-86jc-7r6q-cr3f)](https://vuldb.com/vuln/356626)
@@ -64,6 +79,7 @@
   - [CVE-2026-39974 | czlonkowski n8n-mcp up to 2.47.3 Model Context Protocol server-side request forgery (GHSA-4ggg-h7ph-26qr)](https://vuldb.com/vuln/356621)
   - [CVE-2026-39980 | OpenCTI up to 6.9.4 safeEjs.ts special elements used in a template engine](https://vuldb.com/vuln/356629)
   - [CVE-2026-39987 | marimo-team marimo up to 0.22.x WebSocket Endpoint /terminal/ws validate_auth missing authentication](https://vuldb.com/vuln/356624)
+  - [CVE-2026-5329 | Rapid7 Velociraptor up to 0.74.6/0.75.6/0.76.1 Client Monitoring Message handler input validation](https://vuldb.com/vuln/356646)
   - [CVE-2026-6030 | itsourcecode Construction Management System 1.0 /del1.php toolname sql injection](https://vuldb.com/vuln/356606)
   - [CVE-2026-6031 | code-projects Simple IT Discussion Forum 1.0 add-category-function.php Category sql injection](https://vuldb.com/vuln/356607)
   - [CVE-2026-6032 | code-projects Simple Laundry System 1.0 /checkcheckout.php serviceId cross site scripting](https://vuldb.com/vuln/356608)
@@ -77,6 +93,7 @@
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Scaling Modern AppSec: Moving from Static Profiles to AI-Powered Scan Optimization](https://blog.qualys.com/category/product-tech)
 - Wired
+  - [China Is Cracking Down on Scams. Just Not the Ones Hitting Americans](https://www.wired.com/story/made-in-china-inside-chinas-selective-war-on-the-scam-economy/)
   - [John Deere Is Paying Farmers $99 Million for Allegedly Monopolizing Repair](https://www.wired.com/story/john-deere-is-paying-farmers-99-million-for-allegedly-monopolizing-repair/)
   - [Save $20 on This Already Inexpensive Wireless Mic Set](https://www.wired.com/story/dji-mic-mini-deal-426/)
 - 代码审计星球
