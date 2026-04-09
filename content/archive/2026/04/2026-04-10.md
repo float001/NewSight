@@ -25,6 +25,7 @@
   - ['BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues](https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues)
 - EFF
   - [EFF is Leaving X](https://www.eff.org/deeplinks/2026/04/eff-leaving-x)
+  - [Yikes, Encryption’s Y2K Moment is Coming Years Early](https://www.eff.org/deeplinks/2026/04/yikes-encryptions-y2k-moment-coming-years-early)
 - Fidelis Security
   - [Sybil Attacks Explained: How They Work and Why They Matter](https://fidelissecurity.com/threatgeek/threat-detection-response/sybil-attacks-explained-how-they-work-and-why-they-matter/)
 - gilesthomas.com
@@ -35,11 +36,15 @@
   - [ChatGPT Pro now starts at $100/month](https://chatgpt.com/pricing/)
   - [Discovering, detecting, and surgically removing Google's AI watermark](https://github.com/aloshdenny/reverse-SynthID)
   - [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev)
+  - [How Microsoft Abuses Its Users](https://lzon.ca/posts/other/microsoft-user-abuse/)
   - [I Let Claude Code Autonomously Run Ads for a Month](https://read.technically.dev/p/i-let-claude-code-autonomously-run)
   - [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
   - [Netflix Prices Went Up Again – I Bought a DVD Player Instead](https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/)
   - [The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy](https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo)
   - [What Game Engines Know About Data That Databases Forgot](https://nockawa.github.io/blog/what-game-engines-know-about-data/)
+- HackerNoon
+  - [Enhanced Secures $1M in Strategic Pre-Seed Funding to Bring Structured Yield to More Assets Onchain](https://hackernoon.com/enhanced-secures-$1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain?source=rss)
+  - [Here's Why You Should Build Fortresses in Disturbed Markets: The Illusion of Stability](https://hackernoon.com/heres-why-you-should-build-fortresses-in-disturbed-markets-the-illusion-of-stability?source=rss)
 - IEEE Spectrum
   - [Remembering Gus Gaynor: A Devoted IEEE Volunteer](https://spectrum.ieee.org/remembering-gus-gaynor)
 - johndcook.com
@@ -48,6 +53,8 @@
 - Security Affairs
   - [Eurail data breach impacted 308,777 people](https://securityaffairs.com/190570/data-breach/eurail-data-breach-impacted-308777-people.html)
   - [Malicious PDF reveals active Adobe Reader zero-day in the wild](https://securityaffairs.com/190558/hacking/malicious-pdf-reveals-active-adobe-reader-zero-day-in-the-wild.html)
+- simonwillison.net
+  - [GitHub Repo Size](https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-15260 exploit](https://sploitus.com/exploit?id=136807E3-F06F-5289-AE22-B1CBE28B8FEE&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-39912 exploit](https://sploitus.com/exploit?id=E64D8AAD-B20A-5B0E-8F1A-9D1C31338DDA&utm_source=rss&utm_medium=rss)
@@ -56,6 +63,8 @@
   - [Exploit for Path Traversal in Xibosignage Xibo exploit](https://sploitus.com/exploit?id=313DB74B-1C7D-5E84-925C-DA6C834996D5&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [After data breach, $10B valued startup Mercor is having a month](https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/)
+  - [ChatGPT finally offers $100/month Pro plan](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)
+  - [EFF is the latest organization to leave X](https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/)
   - [Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT](https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/)
   - [Google and Intel deepen AI infrastructure partnership](https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/)
   - [How to make the Startup Battlefield Top 20 — and what every company gets regardless](https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/)
@@ -63,6 +72,7 @@
   - [Meta AI app climbs to No. 5 on the App Store after Muse Spark launch](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/)
   - [Sierra’s Bret Taylor says the era of clicking buttons is over](https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/)
   - [Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs](https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/)
+  - [What founders can learn from Anjuna’s layoffs and recovery](https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/)
   - [You can now edit your Instagram comments](https://techcrunch.com/2026/04/09/you-can-now-edit-your-instagram-comments/)
 - The Decoder
   - [Claude Cowork expands to all paid plans on macOS and Windows with new org controls](https://the-decoder.com/claude-cowork-expands-to-all-paid-plans-on-macos-and-windows-with-new-org-controls/)
@@ -72,9 +82,12 @@
   - [Framework is teasing a lot of Linux for its April 21st event](https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser)
   - [Google&#8217;s Gemini AI can answer your questions with 3D models and simulations](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations)
   - [Instagram now lets you edit your own comments](https://www.theverge.com/tech/909455/instagram-edit-comments)
+  - [John Deere will pay farmers $99 million over right-to-repair lawsuit](https://www.theverge.com/policy/909524/john-deere-class-action-settlement-farmers)
   - [Mastodon is about to launch its take on Bluesky&#8217;s starter packs](https://www.theverge.com/tech/909308/mastodon-collections-bluesky-starter-packs)
   - [NASA’s Artemis II mission to fly around the far side of the Moon](https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing)
   - [Netflix&#8217;s TV games get a big boost with Jackbox collection](https://www.theverge.com/streaming/909415/netflix-games-jackbox-party-essentials)
+  - [Samsung’s Galaxy Watch 8 is easier to recommend now it starts at $260](https://www.theverge.com/gadgets/909502/samsung-galaxy-watch-8-classic-deal-sale)
+  - [The EFF is quitting X](https://www.theverge.com/tech/909550/eff-electronic-frontier-foundation-leaving-x-twitter)
   - [The MacBook Neo is the best thing to happen to Windows in years](https://www.theverge.com/tech/909140/microsoft-windows-11-fixes-macbook-neo-response-notepad)
   - [The team behind 1000xResist is making a game about convincing an AI that it isn’t human](https://www.theverge.com/entertainment/909180/prove-youre-human-announcement-sunset-visitor-1000xresist)
 - VulDB Recent Entries
