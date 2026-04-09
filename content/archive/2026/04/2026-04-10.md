@@ -3,6 +3,11 @@
 - 2Libra
   - [MacBookPro，屏幕保持一个角度久了后调整遇到的问题。](https://2libra.com/post/computers-accessories/9RVYDh9)
   - [之前莫名其妙在 linuxdo 被封了 封号原因是{在错误的地方}](https://2libra.com/post/community/8yguKnu)
+- 36氪
+  - [OpenAI抨击Anthropic算力资源受限](https://36kr.com/newsflashes/3760189812179715?f=rss)
+  - [美国至4月3日当周EIA天然气库存500亿立方英尺](https://36kr.com/newsflashes/3760189103882759?f=rss)
+  - [美股三大指数集体收涨，亚马逊涨超5%](https://36kr.com/newsflashes/3760187188740870?f=rss)
+  - [马斯克的xAI就科罗拉多州新的人工智能法律提起诉讼](https://36kr.com/newsflashes/3760188449276423?f=rss)
 - 404 Media
   - [World’s Largest Group of Chimps Waging Deadly ‘Civil War,’ Scientists Discover](https://www.404media.co/worlds-largest-group-of-chimps-waging-deadly-civil-war-scientists-discover/)
 - Ars Technica
@@ -21,6 +26,7 @@
 - daringfireball.net
   - [Adobe Diddles With Your /etc/hosts File](https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/)
   - [Lickspittle of the Week: Todd Blanche](https://politicalwire.com/2026/04/09/extra-bonus-quote-of-the-day-1022/)
+  - [MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe](https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/)
 - darkreading
   - ['BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues](https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues)
 - EFF
@@ -38,6 +44,7 @@
   - [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev)
   - [How Microsoft Abuses Its Users](https://lzon.ca/posts/other/microsoft-user-abuse/)
   - [I Let Claude Code Autonomously Run Ads for a Month](https://read.technically.dev/p/i-let-claude-code-autonomously-run)
+  - [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor)
   - [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
   - [Netflix Prices Went Up Again – I Bought a DVD Player Instead](https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/)
   - [The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy](https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo)
@@ -66,6 +73,7 @@
   - [ChatGPT finally offers $100/month Pro plan](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)
   - [EFF is the latest organization to leave X](https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/)
   - [Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT](https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/)
+  - [Florida AG to probe OpenAI, alleging possible connection to FSU shooting](https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/)
   - [Google and Intel deepen AI infrastructure partnership](https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/)
   - [How to make the Startup Battlefield Top 20 — and what every company gets regardless](https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/)
   - [Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)
@@ -79,8 +87,11 @@
   - [Google Gemini now generates interactive visualizations you can tweak and explore right in the chat](https://the-decoder.com/google-gemini-now-generates-interactive-visualizations-you-can-tweak-and-explore-right-in-the-chat/)
 - The Verge
   - [Castlevania headlines a big list of exciting indie game reveals](https://www.theverge.com/games/908898/triple-i-initiative-indie-game-showcase-2026-recap-trailers)
+  - [ChatGPT has a new $100 per month Pro subscription](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new)
+  - [Florida launches investigation into OpenAI](https://www.theverge.com/policy/909557/openai-florida-investigation)
   - [Framework is teasing a lot of Linux for its April 21st event](https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser)
   - [Google&#8217;s Gemini AI can answer your questions with 3D models and simulations](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations)
+  - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
   - [Instagram now lets you edit your own comments](https://www.theverge.com/tech/909455/instagram-edit-comments)
   - [John Deere will pay farmers $99 million over right-to-repair lawsuit](https://www.theverge.com/policy/909524/john-deere-class-action-settlement-farmers)
   - [Mastodon is about to launch its take on Bluesky&#8217;s starter packs](https://www.theverge.com/tech/909308/mastodon-collections-bluesky-starter-packs)
