@@ -3,6 +3,7 @@
 - 2Libra
   - [夏天出门电风扇有无推荐](https://2libra.com/post/worth-buying/jBmK1wL)
 - 36氪
+  - [五部门：做好2026年享受税收优惠政策的集成电路企业或项目、软件企业清单制定工作](https://36kr.com/newsflashes/3759003203207939?f=rss)
   - [具身智能企业“零次方机器人”完成超亿元融资，由清华00后团队创办](https://36kr.com/newsflashes/3758962984141317?f=rss)
   - [天合光能旗下公司等在上海成立新能源科技公司](https://36kr.com/newsflashes/3758991310865158?f=rss)
   - [对话前阿里高管、天猫设计家CEO：这些年烧掉千亿，家装行业还能怎么做？](https://36kr.com/p/3758979573121538?f=rss)
