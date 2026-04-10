@@ -8,6 +8,7 @@
   - [How to Avoid Aperture Collapse](https://danielmiessler.com/blog/aperture-collapse?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - daringfireball.net
   - [Ed Bindels’s Apple Museum in Utrecht, Netherlands](https://applemuseum.nl/)
+  - [★ Let Us Learn to Show Our Friendship for a Man When He Is Alive and Not After He Is Dead](https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead)
 - darkreading
   - [Your Next Breach Will Look Like Business as Usual](https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual)
 - Hacker News Frontpage
@@ -29,6 +30,7 @@
 - TechCrunch
   - [Anthropic temporarily banned OpenClaw’s creator from accessing Claude](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)
   - [Battery recycler Ascend Elements files for bankruptcy](https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/)
+  - [How to watch NASA’s Artemis II splash back down to Earth](https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/)
   - [Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/)
   - [TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it](https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/)
 - text/plain
@@ -60,6 +62,8 @@
   - [CVE-2026-32930 | Chamilo LMS up to 1.11.37 editeval authorization](https://vuldb.com/vuln/356902)
   - [CVE-2026-32931 | Chamilo LMS up to 1.11.37/2.0.0-RC.2 File unrestricted upload](https://vuldb.com/vuln/356865)
   - [CVE-2026-32932 | Chamilo LMS up to 1.11.37/2.0.0-RC.2 External URL id_session redirect](https://vuldb.com/vuln/356903)
+  - [CVE-2026-33118 | Microsoft Edge up to 146.0.3856.84](https://vuldb.com/vuln/356944)
+  - [CVE-2026-33119 | Microsoft Edge up to 146.0.3856.84 on Android clickjacking](https://vuldb.com/vuln/356947)
   - [CVE-2026-33141 | Chamilo LMS up to 2.0.0-RC.2 REST API Stats Endpoint authorization](https://vuldb.com/vuln/356904)
   - [CVE-2026-33618 | Chamilo LMS up to 2.0.0-RC.2 /platform-config/list decodeSettingArray eval injection](https://vuldb.com/vuln/356915)
   - [CVE-2026-33698 | Chamilo LMS up to 1.11.37 file access](https://vuldb.com/vuln/356916)
@@ -142,9 +146,13 @@
   - [CVE-2026-40189 | patrickhener goshs up to 2.0.0-beta.3 ACL/basic-auth authorization (GHSA-wvhv-qcqf-f3cx)](https://vuldb.com/vuln/356927)
   - [CVE-2026-40190 | langchain-ai langsmith-sdk up to 0.5.17 set prototype pollution](https://vuldb.com/vuln/356928)
   - [CVE-2026-40191 | craigjbass clearancekit up to 5.0.3 Destination authorization](https://vuldb.com/vuln/356941)
+  - [CVE-2026-40194 | phpseclib up to 1.0.27/2.0.52/3.0.50 SSH2::get_binary_packet timing discrepancy (GHSA-r854-jrxh-36qx)](https://vuldb.com/vuln/356945)
   - [CVE-2026-40200 | musl libc up to 1.2.6 control flow](https://vuldb.com/vuln/356863)
   - [CVE-2026-40228 | systemd 259 ANSI Escape Sequence resource transfer](https://vuldb.com/vuln/356911)
+  - [CVE-2026-40242 | getarcaneapp arcane up to 1.17.2 /api/templates/fetch url server-side request forgery (GHSA-ff24-4prj-gpmj)](https://vuldb.com/vuln/356949)
+  - [CVE-2026-40252 | labring FastGPT up to 4.14.10.4 access control (GHSA-gc8m-w37w-24hw)](https://vuldb.com/vuln/356948)
   - [CVE-2026-5483 | Red Hat OpenShift AI Kubernetes Service insertion of sensitive information into sent data (RHSA-2026:7397)](https://vuldb.com/vuln/356852)
+  - [CVE-2026-5724 | temporal up to 1.28.3/1.29.5/1.30.3 StreamWorkflowReplicationMessages endpoint missing authentication](https://vuldb.com/vuln/356946)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [The Mythos Inflection Point: Dealing With the Upcoming Vulnerability Disclosure Avalanche and Compressed Exploitation Window](https://blog.qualys.com/category/product-tech)
 - Wired
