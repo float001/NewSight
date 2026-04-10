@@ -245,10 +245,14 @@
   - [MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe](https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/)
 - darkreading
   - ['BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues](https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues)
+  - [Industrial Controllers Still Vulnerable As Conflicts Move to Cyber](https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber)
 - defend.network
   - [Daily Threat Briefing – April 10, 2026](https://defend.network/briefings/adobe-zero-day-apt28-router-attacks-2026-04-10.html)
+- Der Flounder
+  - [Detecting installed Intel-based applications on macOS Tahoe](https://derflounder.wordpress.com/2026/04/10/detecting-installed-intel-based-applications-on-macos-tahoe/)
 - EFF
   - [EFF is Leaving X](https://www.eff.org/deeplinks/2026/04/eff-leaving-x)
+  - [We Need You: Our Privacy Cannot Afford a Clean Extension of Section 702](https://www.eff.org/deeplinks/2026/04/we-need-you-our-privacy-cannot-afford-clean-extension-section-702)
   - [Yikes, Encryption’s Y2K Moment is Coming Years Early](https://www.eff.org/deeplinks/2026/04/yikes-encryptions-y2k-moment-coming-years-early)
 - eli.thegreenplace.net
   - [watgo - a WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
@@ -273,6 +277,7 @@
   - [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
   - [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
   - [Netflix Prices Went Up Again – I Bought a DVD Player Instead](https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/)
+  - [The effects of caffeine consumption do not decay with a ~5 hour half-life](https://www.lesswrong.com/posts/vefsxkGWkEMmDcZ7v/the-effects-of-caffeine-consumption-do-not-decay-with-a-5)
   - [The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy](https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo)
   - [The tool that won't let AI say anything it can't cite](https://github.com/grainulation/grainulator)
   - [What Game Engines Know About Data That Databases Forgot](https://nockawa.github.io/blog/what-game-engines-know-about-data/)
@@ -350,7 +355,9 @@
   - [Google and Intel deepen AI infrastructure partnership](https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/)
   - [How to make the Startup Battlefield Top 20 — and what every company gets regardless](https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/)
   - [Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)
+  - [Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/)
   - [Meta AI app climbs to No. 5 on the App Store after Muse Spark launch](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/)
+  - [PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing](https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/)
   - [Sierra’s Bret Taylor says the era of clicking buttons is over](https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/)
   - [Snap gets closer to releasing new AI glasses after years-long hiatus](https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/)
   - [Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs](https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/)
@@ -364,6 +371,7 @@
 - The Verge
   - [Castlevania headlines a big list of exciting indie game reveals](https://www.theverge.com/games/908898/triple-i-initiative-indie-game-showcase-2026-recap-trailers)
   - [ChatGPT has a new $100 per month Pro subscription](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new)
+  - [Cloudflare made a WordPress for AI agents](https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community)
   - [Fear and loathing at OpenAI](https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast)
   - [Florida launches investigation into OpenAI](https://www.theverge.com/policy/909557/openai-florida-investigation)
   - [Framework is teasing a lot of Linux for its April 21st event](https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser)
@@ -381,6 +389,7 @@
   - [The EFF is quitting X](https://www.theverge.com/tech/909550/eff-electronic-frontier-foundation-leaving-x-twitter)
   - [The MacBook Neo is the best thing to happen to Windows in years](https://www.theverge.com/tech/909140/microsoft-windows-11-fixes-macbook-neo-response-notepad)
   - [The team behind 1000xResist is making a game about convincing an AI that it isn’t human](https://www.theverge.com/entertainment/909180/prove-youre-human-announcement-sunset-visitor-1000xresist)
+  - [Why your Whoop might tell you to up your testosterone](https://www.theverge.com/column/909736/optimizer-whoop-oura-wearable-hype-cycle)
   - [YouTube Premium is getting pricier](https://www.theverge.com/streaming/909698/youtube-premium-price-hike-us)
 - VulDB Recent Entries
   - [CVE-2023-54358 | Adivaha WordPress adivaha Travel Plugin 2.3 GET Parameter /mobile-app/v3/ isMobile cross site scripting (Exploit 51663 / EDB-51663)](https://vuldb.com/vuln/356711)
@@ -539,11 +548,13 @@
   - [How to find best NPM packages?](https://buaq.net/go-409176.html)
   - [How We Cut LLM Costs by 59% With Prompt Caching](https://buaq.net/go-409081.html)
   - [Instagram现允许用户在15分钟内编辑评论](https://buaq.net/go-409094.html)
+  - [Nuitka to python. Nuitka is not really cython code due to dependencies I recommend to create new python compiler for protect your source not by weak compiler like Nuitka also you need decrypt xored nuitka blob in 4.0 (very easy task)](https://buaq.net/go-409232.html)
   - [OpenAI缩减ChatGPT Plus订阅的Codex权益 每天可进行的对话将减少](https://buaq.net/go-409061.html)
   - [SPECTRAL-GSM: A Web-Based GSM Interception Platform Built on OsmocomBB](https://buaq.net/go-409090.html)
   - [Static analysis of iOS App Store binaries: common vulnerabilities I keep finding after 15 years in mobile security](https://buaq.net/go-409181.html)
   - [出于对博通授权政策的不满 包括西联汇款在内的大量企业从VMware迁移到Nutanix](https://buaq.net/go-409099.html)
   - [微软正在改进Windows 11右键菜单和快速设置 点击和操作时速度将会更快](https://buaq.net/go-409075.html)
+  - [苹果将关闭美国首家加入工会的零售门店](https://buaq.net/go-409235.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 嘶吼
@@ -580,3 +591,4 @@
   - [白宫严禁员工利用伊朗战事在预测市场押注](https://blog.upx8.com/%E7%99%BD%E5%AE%AB%E4%B8%A5%E7%A6%81%E5%91%98%E5%B7%A5%E5%88%A9%E7%94%A8%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E5%9C%A8%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E6%8A%BC%E6%B3%A8)
   - [约翰迪尔就维修权诉讼与农民达成和解](https://blog.upx8.com/%E7%BA%A6%E7%BF%B0%E8%BF%AA%E5%B0%94%E5%B0%B1%E7%BB%B4%E4%BF%AE%E6%9D%83%E8%AF%89%E8%AE%BC%E4%B8%8E%E5%86%9C%E6%B0%91%E8%BE%BE%E6%88%90%E5%92%8C%E8%A7%A3)
   - [美国佛罗里达州对OpenAI公司展开调查](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%B7%9E%E5%AF%B9OpenAI%E5%85%AC%E5%8F%B8%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5)
+  - [苹果将关闭美国首家加入工会的零售门店](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%B0%86%E5%85%B3%E9%97%AD%E7%BE%8E%E5%9B%BD%E9%A6%96%E5%AE%B6%E5%8A%A0%E5%85%A5%E5%B7%A5%E4%BC%9A%E7%9A%84%E9%9B%B6%E5%94%AE%E9%97%A8%E5%BA%97)
