@@ -14,6 +14,7 @@
 - Hacker News Frontpage
   - [Chimpanzees in Uganda locked in vicious 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
   - [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
+  - [Filing the Corners Off MacBooks](https://kentwalters.com/posts/corners/)
   - [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
   - [Nowhere Is Safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
   - [Peers vote to ban pornography depicting sex acts between stepfamily members](https://www.theguardian.com/society/2026/apr/10/porngraphy-depicting-sex-acts-between-stepfamily-members-banned-in-uk)
