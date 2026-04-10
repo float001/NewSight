@@ -18,10 +18,12 @@
   - [【羊毛】移动话费 2 张，20-2 ，看得上的撸](https://2libra.com/post/deal-hunter/5CN4oQP)
   - [【许愿】同时佩戴多个徽章](https://2libra.com/post/community/_BJ9_mU)
   - [【💰】2 友们上班摸鱼都在干嘛呢](https://2libra.com/post/forum-function/8UoxXLH)
+  - [【💰】【投票】Codex 4 月九日更新之后 token 完全不够用了](https://2libra.com/post/ai-updates/pd7Kt8O)
   - [【💰】假如有天从单位毕业了，少儿编程有没有搞头？](https://2libra.com/post/indie-dev/IFyQ4Uz)
   - [【💰】再来一次，为了观点不错！](https://2libra.com/post/forum-function/q1siP8W)
   - [【💰】急需一个注册注册 discord 教程`(金币拉满了望佬救)](https://2libra.com/post/tech-qa/Myaih7G)
   - [【💰】我想看看 2 站有多少搞硬件的，是不是都是软件大佬？](https://2libra.com/post/office-life/74DLTZb)
+  - [【🔒】50 一月的 Grok supergrok，印度卢布支付攻略](https://2libra.com/post/ai-tools/CytIKTf)
   - [之前莫名其妙在 linuxdo 被封了 封号原因是{在错误的地方}](https://2libra.com/post/community/8yguKnu)
   - [你们在什么时候生活品质获得较大的提升？](https://2libra.com/post/personal-life/vEyeJFO)
   - [你的 SBTI 是什么](https://2libra.com/post/hotspot-tracking/20YKLLb)
@@ -246,6 +248,8 @@
 - darkreading
   - ['BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues](https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues)
   - [Industrial Controllers Still Vulnerable As Conflicts Move to Cyber](https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber)
+- Data Breach
+  - [Ransomware attack on ChipSoft knocks EHR services offline across hospitals in the Netherlands and Belgium](https://securityaffairs.com/190615/cyber-crime/ransomware-attack-on-chipsoft-knocks-ehr-services-offline-across-hospitals-in-the-netherlands-and-belgium.html)
 - defend.network
   - [Daily Threat Briefing – April 10, 2026](https://defend.network/briefings/adobe-zero-day-apt28-router-attacks-2026-04-10.html)
 - Der Flounder
@@ -265,6 +269,7 @@
   - [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
   - [ChatGPT Pro now starts at $100/month](https://chatgpt.com/pricing/)
   - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)
+  - [CPU-Z and HWMonitor Compromised](https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/)
   - [Discovering, detecting, and surgically removing Google's AI watermark](https://github.com/aloshdenny/reverse-SynthID)
   - [FBI used iPhone notification data to retrieve deleted Signal messages](https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/)
   - [France Launches Government Linux Desktop Plan as Windows Exit Begins](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/)
@@ -281,6 +286,7 @@
   - [The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy](https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo)
   - [The tool that won't let AI say anything it can't cite](https://github.com/grainulation/grainulator)
   - [What Game Engines Know About Data That Databases Forgot](https://nockawa.github.io/blog/what-game-engines-know-about-data/)
+  - [Why do we tell ourselves scary stories about AI?](https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/)
   - [Women are getting most of the new jobs. What's going on with men?](https://text.npr.org/nx-s1-5773327)
   - [Zero-build privacy policies with Astro](https://www.openpolicy.sh/blog/no-build-astro)
 - HackerNews
@@ -302,6 +308,7 @@
 - joanwestenberg.com
   - [Why I quit "The Strive"](https://www.joanwestenberg.com/why-i-quit-the-strive/)
 - johndcook.com
+  - [Distribution of digits in fractions](https://www.johndcook.com/blog/2026/04/10/fraction-digits/)
   - [Random hexagon fractal](https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/)
   - [The Great Pyramid of Giza and the Speed of Light](https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/)
 - MIT Technology Review
@@ -352,6 +359,7 @@
   - [EFF is the latest organization to leave X](https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/)
   - [Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT](https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/)
   - [Florida AG to probe OpenAI, alleging possible connection to FSU shooting](https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/)
+  - [France to ditch Windows for Linux to reduce reliance on US tech](https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/)
   - [Google and Intel deepen AI infrastructure partnership](https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/)
   - [How to make the Startup Battlefield Top 20 — and what every company gets regardless](https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/)
   - [Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)
@@ -363,7 +371,9 @@
   - [Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs](https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/)
   - [What founders can learn from Anjuna’s layoffs and recovery](https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/)
   - [You can now edit your Instagram comments](https://techcrunch.com/2026/04/09/you-can-now-edit-your-instagram-comments/)
+  - [YouTube Premium and YouTube Music are getting more expensive](https://techcrunch.com/2026/04/10/youtube-premium-youtube-music-subscription-price-increase/)
 - The Decoder
+  - [CIA plans to integrate AI assistants into all analysis platforms](https://the-decoder.com/cia-plans-to-integrate-ai-assistants-into-all-analysis-platforms/)
   - [Claude Cowork expands to all paid plans on macOS and Windows with new org controls](https://the-decoder.com/claude-cowork-expands-to-all-paid-plans-on-macos-and-windows-with-new-org-controls/)
   - [Google Gemini now generates interactive visualizations you can tweak and explore right in the chat](https://the-decoder.com/google-gemini-now-generates-interactive-visualizations-you-can-tweak-and-explore-right-in-the-chat/)
   - [LLMs crush coding and math but choke on casual questions, and that's not a contradiction](https://the-decoder.com/llms-crush-coding-and-math-but-choke-on-casual-questions-and-thats-not-a-contradiction/)
@@ -488,6 +498,7 @@
   - [CVE-2026-40152 | MervinPraison PraisonAIAgents up to 1.5.127 list_files directory path traversal (GHSA-7j2f-xc8p-fjmq)](https://vuldb.com/vuln/356753)
   - [CVE-2026-40154 | MervinPraison PraisonAI up to 4.5.127 inclusion of functionality from untrusted control sphere (GHSA-pv9q-275h-rh7x)](https://vuldb.com/vuln/356761)
   - [CVE-2026-40212 | OpenStack Skyline up to 5.0.0/6.0.0/7.0.0 Console Web Interface cross site scripting](https://vuldb.com/vuln/356804)
+  - [CVE-2026-40217 | BerriAI LiteLLM test_custom_code unprotected alternate channel](https://vuldb.com/vuln/356821)
   - [CVE-2026-4057 | codename065 Download Manager Plugin up to 3.3.51 on WordPress makeMediaPublic ID authorization](https://vuldb.com/vuln/356709)
   - [CVE-2026-4305 | wproyal Royal WordPress Backup, Restore & Migration Plugin cross site scripting](https://vuldb.com/vuln/356717)
   - [CVE-2026-4351 | Perfmatters Plugin up to 2.5.9 on WordPress PMCS::action_handler snippets path traversal](https://vuldb.com/vuln/356689)
@@ -545,6 +556,7 @@
   - [We-Vibe Discount Codes and Deals: Up to 60% Off](https://www.wired.com/story/we-vibe-discount-code/)
 - 不安全
   - [Best Sentry Alternatives for Error Tracking and Monitoring (2026)](https://buaq.net/go-409209.html)
+  - [Help](https://buaq.net/go-409266.html)
   - [How to find best NPM packages?](https://buaq.net/go-409176.html)
   - [How We Cut LLM Costs by 59% With Prompt Caching](https://buaq.net/go-409081.html)
   - [Instagram现允许用户在15分钟内编辑评论](https://buaq.net/go-409094.html)
