@@ -13,7 +13,13 @@
   - [Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/)
   - [TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it](https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/)
 - The Verge
+  - [Amazon Luna axes third-party game purchases](https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions)
   - [Little Snitch&#8217;s software counter surveillance jumps from Mac to Linux](https://www.theverge.com/tech/909975/little-snitch-linux-launch)
+  - [Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool](https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool)
+  - [My go-to electric screwdriver is on sale for over 50 percent off today](https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale)
+  - [The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;](https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [The Mythos Inflection Point: Dealing With the Upcoming Vulnerability Disclosure Avalanche and Compressed Exploitation Window](https://blog.qualys.com/category/product-tech)
 - Wired
   - ["Uncanny Valley": OpenAI and Musk Fight Again; DOJ Mishandles Voter Data; Artemis II Comes Home](https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home/)
   - [Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman's Home](https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/)
