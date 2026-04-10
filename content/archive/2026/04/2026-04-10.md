@@ -2,14 +2,19 @@
 
 - 2Libra
   - [2 站要活跃起来，估计得有羊毛和福利才行](https://2libra.com/post/forum-function/j5tDvCl)
+  - [ai 在 c++的应用怎么样？](https://2libra.com/post/ai-programming/l0mbHHB)
   - [cc switch 请教](https://2libra.com/post/tech-qa/7u5oXue)
   - [MacBookPro，屏幕保持一个角度久了后调整遇到的问题。](https://2libra.com/post/computers-accessories/9RVYDh9)
+  - [SBTI 是怎么突然一夜火起来的](https://2libra.com/post/social-observation/jMQuWsx)
   - [WSL Dashboard v0.6.0 版本发布：网络管理与自动化能力全面升级](https://2libra.com/post/open-source-sharing/JNAzkZh)
+  - [【投票】【💰】建议 2 站也增加一个类似 V2EX 的 VXNA 节点](https://2libra.com/post/forum-function/cKqtKS7)
   - [【💰】假如有天从单位毕业了，少儿编程有没有搞头？](https://2libra.com/post/indie-dev/IFyQ4Uz)
+  - [【💰】再来一次，为了观点不错！](https://2libra.com/post/forum-function/q1siP8W)
   - [之前莫名其妙在 linuxdo 被封了 封号原因是{在错误的地方}](https://2libra.com/post/community/8yguKnu)
   - [你的 SBTI 是什么](https://2libra.com/post/hotspot-tracking/20YKLLb)
   - [你的 sbti 是什么？](https://2libra.com/post/hotspot-tracking/NQTXX-2)
   - [感觉字体有点小](https://2libra.com/post/community/TCS3y7K)
+  - [科技数码下面的子节点不一致](https://2libra.com/post/community/-FQ--qy)
 - 36氪
   - [8点1氪｜“张雪峰.skill”上线GitHub引争议；康师傅“再来一瓶”被曝多店不兑换；微信回应“夫妻用AI写公众号年赚200万”](https://36kr.com/p/3760260422648327?f=rss)
   - [AI超级周期推动需求激增，多家存储芯片企业一季度业绩预喜](https://36kr.com/newsflashes/3760217402016521?f=rss)
@@ -40,10 +45,13 @@
   - [华尔街大行股票交易收入料创纪录新高，或达180亿美元](https://36kr.com/newsflashes/3760233971876609?f=rss)
   - [华泰证券：建议重点关注具备海外电解铝产能布局的相关公司](https://36kr.com/newsflashes/3760228159537920?f=rss)
   - [华西证券：建议关注高景气成长赛道以及政策、科技加持下服务业景气拐点赛道](https://36kr.com/newsflashes/3760277738226439?f=rss)
+  - [印度央行强制银行平仓卢比空头头寸，银行面临数亿美元潜在亏损](https://36kr.com/newsflashes/3760401456382726?f=rss)
   - [国家统计局：2026年3月份，全国居民消费价格同比上涨1.0%。](https://36kr.com/newsflashes/3760335656665601?f=rss)
   - [国家统计局：2026年3月份，全国工业生产者出厂价格同比由上月下降0.9%转为上涨0.5%](https://36kr.com/newsflashes/3760336926261767?f=rss)
   - [多模态大模型HappyHorse或由阿里团队研发](https://36kr.com/newsflashes/3760355006153474?f=rss)
   - [央行今日开展20亿元7天逆回购操作](https://36kr.com/newsflashes/3760327525548808?f=rss)
+  - [将投产全新小型SUV？特斯拉中国：谣言](https://36kr.com/newsflashes/3760376972116486?f=rss)
+  - [工信部：2025年国家高新区上市企业数量较“十三五”末增长70%](https://36kr.com/newsflashes/3760417176191491?f=rss)
   - [微盟推出智慧服务和智慧美业解决方案](https://36kr.com/newsflashes/3760280479990529?f=rss)
   - [微软称AI语音技术仍有待完善](https://36kr.com/newsflashes/3760217798116104?f=rss)
   - [快看漫画秘密研发AI娱乐产品，近期将以独立App上线](https://36kr.com/newsflashes/3760367689745154?f=rss)
@@ -52,6 +60,7 @@
   - [欧洲央行管委Sleijpen称必要时将采取行���，以确保通胀达标](https://36kr.com/newsflashes/3760244575027716?f=rss)
   - [民航局：第一季度民航旅客运输量2亿人次，同比增长6.5%](https://36kr.com/newsflashes/3760289919992582?f=rss)
   - [沪指重回4000点](https://36kr.com/newsflashes/3760351281480196?f=rss)
+  - [沪深两市成交额突破1万亿](https://36kr.com/newsflashes/3760384243499527?f=rss)
   - [深港通下的港股通标的证券名单调整，调入挚达科技](https://36kr.com/newsflashes/3760295130678023?f=rss)
   - [港股恒生科技指数涨超2%](https://36kr.com/newsflashes/3760351812928264?f=rss)
   - [美国至4月3日当周EIA天然气库存500亿立方英尺](https://36kr.com/newsflashes/3760189103882759?f=rss)
@@ -61,6 +70,7 @@
   - [美财长和美联储主席据悉召集华尔街高管，讨论Anthropic新AI模型风险](https://36kr.com/newsflashes/3760304235528965?f=rss)
   - [联想集团收购高端存储公司infinidat](https://36kr.com/newsflashes/3760357866537729?f=rss)
   - [苹果将关闭美国首家成立工会的零售店](https://36kr.com/newsflashes/3760227885646344?f=rss)
+  - [蔚来ES9 开启预售，整车售价52.8万起](https://36kr.com/newsflashes/3760392327398151?f=rss)
   - [韩国央行将基准利率维持在2.50%不变](https://36kr.com/newsflashes/3760296504214024?f=rss)
   - [马斯克的xAI就科罗拉多州新的人工智能法律提起诉讼](https://36kr.com/newsflashes/3760188449276423?f=rss)
 - 404 Media
@@ -90,6 +100,8 @@
 - EFF
   - [EFF is Leaving X](https://www.eff.org/deeplinks/2026/04/eff-leaving-x)
   - [Yikes, Encryption’s Y2K Moment is Coming Years Early](https://www.eff.org/deeplinks/2026/04/yikes-encryptions-y2k-moment-coming-years-early)
+- eli.thegreenplace.net
+  - [watgo - a WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
 - Fidelis Security
   - [Sybil Attacks Explained: How They Work and Why They Matter](https://fidelissecurity.com/threatgeek/threat-detection-response/sybil-attacks-explained-how-they-work-and-why-they-matter/)
 - gilesthomas.com
@@ -118,6 +130,8 @@
 - johndcook.com
   - [Random hexagon fractal](https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/)
   - [The Great Pyramid of Giza and the Speed of Light](https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/)
+- ProjectDiscovery.io | Blog
+  - [How We Cut LLM Costs by 59% With Prompt Caching](https://projectdiscovery.io/blog/how-we-cut-llm-cost-with-prompt-caching)
 - Security Affairs
   - [Eurail data breach impacted 308,777 people](https://securityaffairs.com/190570/data-breach/eurail-data-breach-impacted-308777-people.html)
   - [Malicious PDF reveals active Adobe Reader zero-day in the wild](https://securityaffairs.com/190558/hacking/malicious-pdf-reveals-active-adobe-reader-zero-day-in-the-wild.html)
@@ -216,8 +230,15 @@
   - [OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
   - [Save $20 on This Already Inexpensive Wireless Mic Set](https://www.wired.com/story/dji-mic-mini-deal-426/)
 - 不安全
+  - [How We Cut LLM Costs by 59% With Prompt Caching](https://buaq.net/go-409081.html)
   - [OpenAI缩减ChatGPT Plus订阅的Codex权益 每天可进行的对话将减少](https://buaq.net/go-409061.html)
+  - [微软正在改进Windows 11右键菜单和快速设置 点击和操作时速度将会更快](https://buaq.net/go-409075.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [SBTI说我废物，这是今年听过最舒服的一句话](https://www.ifanr.com/1661628?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [创造力时代，需要更多创造力机器｜安克 eufyMake E1 体验](https://www.ifanr.com/1661629?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜大疆Pocket 4官宣，下周发布/芯片用完，曝苹果为MacBook Neo补货/ChatGPT推出100美元Pro订阅](https://www.ifanr.com/1661625?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [苹果瞒着你给 iPhone 打了个补丁，为什么？](https://www.ifanr.com/1661633?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [别只用AI写脚本了，现在AI打广告可真是城会玩了！](https://www.qbitai.com/2026/04/398181.html)
