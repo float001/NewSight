@@ -111,11 +111,13 @@
 - The Decoder
   - [AI models would rather guess than ask for help, researchers find](https://the-decoder.com/when-ai-models-cant-see-they-just-make-something-up/)
   - [Claude Code's new Ultraplan feature moves task planning to the cloud](https://the-decoder.com/claude-codes-new-ultraplan-feature-moves-task-planning-to-the-cloud/)
+  - [Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware](https://the-decoder.com/overworlds-waypoint-1-5-brings-ai-generated-3d-worlds-to-mac-and-windows-on-consumer-hardware/)
   - [Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night](https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/)
 - The Verge
   - [20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail)
   - [Amazon Luna axes third-party game purchases](https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions)
   - [How to watch the Artemis II astronauts return to Earth](https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth)
+  - [Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?](https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china)
   - [Little Snitch&#8217;s software counter surveillance jumps from Mac to Linux](https://www.theverge.com/tech/909975/little-snitch-linux-launch)
   - [Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool](https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool)
   - [My go-to electric screwdriver is on sale for over 50 percent off today](https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale)
@@ -263,8 +265,10 @@
   - [The Future of the Artemis Program Is Riding on Reentry](https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/)
   - [This Clever Bike Bell Can Even Be Heard by People Wearing Noise-Canceling Headphones](https://www.wired.com/story/skoda-duobell-bike-bell-can-be-heard-by-people-wearing-noise-canceling-headphones/)
   - [This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts](https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/)
+  - [Your Push Notifications Aren’t Safe From the FBI](https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/)
 - 不安全
   - [Built a Python MITM tool (ARP Spoofing + Sniffer + Nmap)](https://buaq.net/go-409365.html)
+  - [I need help with finding active websites on the deepweb](https://buaq.net/go-409400.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
