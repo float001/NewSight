@@ -19,6 +19,7 @@
   - [“锐盟半导体”完成近亿元A轮融资](https://36kr.com/newsflashes/3761831512965895?f=rss)
   - [“阿基视觉”完成数千万元天使轮融资](https://36kr.com/newsflashes/3761832341864968?f=rss)
   - [一季度全国铁路完成固定资产投资1379亿元，同比增长5.1%](https://36kr.com/newsflashes/3761803669078786?f=rss)
+  - [中信证券：流动性冲击扰动，互联网板块关注业绩韧性与AI主线](https://36kr.com/newsflashes/3761947040989958?f=rss)
   - [交易商仍押注美联储2026年全年将维持利率不变](https://36kr.com/newsflashes/3761705459712516?f=rss)
   - [京东否认进入网约车领域：正在测试新项目，4月13日上线](https://36kr.com/newsflashes/3761835195810564?f=rss)
   - [低空经济第一股，来了](https://36kr.com/p/3761810181210633?f=rss)
@@ -26,6 +27,8 @@
   - [北向资金一季度持股情况公布，12个行业环比获加仓](https://36kr.com/newsflashes/3761778058101507?f=rss)
   - [华泰证券：美国3月CPI环比增速符合预期，核心通胀仍然温和](https://36kr.com/newsflashes/3761777421271811?f=rss)
   - [多家上市公司预计一季度业绩倍增 上游资源及材料制造类表现抢眼](https://36kr.com/newsflashes/3761731940336393?f=rss)
+  - [奥特曼家被炸了！](https://36kr.com/p/3762027785224707?f=rss)
+  - [崔东树：3月的A00级电动车剧烈萎缩带来均价的上升，2026年销量增长压力较大](https://36kr.com/newsflashes/3761952234504707?f=rss)
   - [工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%](https://36kr.com/newsflashes/3761780346241541?f=rss)
   - [工信部原副部长苏波：新能源汽车发展仍存挑战，治理体系亟待完善](https://36kr.com/newsflashes/3761774948532738?f=rss)
   - [康斯特：压力传感器产品暂未向半导体、新材料等行业客户推广](https://36kr.com/newsflashes/3761942976299529?f=rss)
@@ -61,6 +64,8 @@
   - [★ Let Us Learn to Show Our Friendship for a Man When He Is Alive and Not After He Is Dead](https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead)
 - darkreading
   - [Your Next Breach Will Look Like Business as Usual](https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual)
+- defend.network
+  - [Daily Threat Briefing – April 11, 2026](https://defend.network/briefings/critical-supply-chain-industrial-control-attacks-2026-04-11.html)
 - Hacker News Frontpage
   - [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
   - [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
@@ -70,6 +75,7 @@
   - [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
   - [Nowhere Is Safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
   - [Peers vote to ban pornography depicting sex acts between stepfamily members](https://www.theguardian.com/society/2026/apr/10/porngraphy-depicting-sex-acts-between-stepfamily-members-banned-in-uk)
+  - [Tesla's supervised self-driving software gets Dutch okay, first in Europe](https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/)
 - HackerNoon
   - [AI Subagents: What Works and What Doesn't](https://hackernoon.com/ai-subagents-what-works-and-what-doesnt?source=rss)
 - IEEE Spectrum
