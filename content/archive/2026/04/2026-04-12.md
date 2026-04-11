@@ -6,6 +6,7 @@
   - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
   - [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 - Security Affairs
+  - [Censys finds 5,219 devices exposed to attacks by Iranian APTs, majority in U.S.](https://securityaffairs.com/190646/ics-scada/censys-finds-5219-devices-exposed-to-attacks-by-iranian-apts-majority-in-u-s.html)
   - [GlassWorm evolves with Zig dropper to infect multiple developer tools](https://securityaffairs.com/190638/malware/glassworm-evolves-with-zig-dropper-to-infect-multiple-developer-tools.html)
 - simonwillison.net
   - [SQLite 3.53.0](https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything)
@@ -34,12 +35,16 @@
   - [Exploit for SQL Injection in Wbce Wbce_Cms exploit](https://sploitus.com/exploit?id=7DAB8EC4-5C8D-51BC-8501-5970FAB6970E&utm_source=rss&utm_medium=rss)
   - [vulnscanx exploit](https://sploitus.com/exploit?id=461CC585-F55A-56F8-9576-4A8E0AC0FF41&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok](https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/)
   - [Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/)
 - VulDB Recent Entries
+  - [CVE-2026-31845 | Rukovoditel CRM up to 3.6/3.6.4 API Endpoint /api/tel/zadarma.php zd_echo cross site scripting](https://vuldb.com/vuln/356988)
   - [CVE-2026-6120 | Tenda F451 1.0.0.7 httpd /goform/DhcpListClient fromDhcpListClient page stack-based overflow](https://vuldb.com/vuln/356983)
   - [CVE-2026-6121 | Tenda F451 1.0.0.7 httpd /goform/WrlclientSet GO stack-based overflow](https://vuldb.com/vuln/356984)
   - [CVE-2026-6122 | Tenda F451 1.0.0.7 httpd /goform/L7Prot frmL7ProtForm page stack-based overflow](https://vuldb.com/vuln/356985)
   - [CVE-2026-6123 | Tenda F451 1.0.0.7 httpd /goform/addressNat fromAddressNat entrys stack-based overflow](https://vuldb.com/vuln/356986)
   - [CVE-2026-6124 | Tenda F451 1.0.0.7 httpd /goform/SafeMacFilter fromSafeMacFilter page/menufacturer stack-based overflow](https://vuldb.com/vuln/356987)
+  - [CVE-2026-6125 | Dromara warm-flow up to 1.8.4 Workflow Definition /warm-flow/save-json SpelHelper.parseExpression listenerPath/skipCondition/permissionFlag code injection (IHURVQ)](https://vuldb.com/vuln/356989)
+  - [CVE-2026-6126 | zhayujie chatgpt-on-wechat CowAgent 2.0.4 Administrative HTTP Endpoint missing authentication (Issue 2733)](https://vuldb.com/vuln/356990)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
