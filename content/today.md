@@ -28,19 +28,24 @@
   - [多家上市公司预计一季度业绩倍增 上游资源及材料制造类表现抢眼](https://36kr.com/newsflashes/3761731940336393?f=rss)
   - [工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%](https://36kr.com/newsflashes/3761780346241541?f=rss)
   - [工信部原副部长苏波：新能源汽车发展仍存挑战，治理体系亟待完善](https://36kr.com/newsflashes/3761774948532738?f=rss)
+  - [康斯特：压力传感器产品暂未向半导体、新材料等行业客户推广](https://36kr.com/newsflashes/3761942976299529?f=rss)
   - [我国首个海上注碳增气技术示范应用项目启动](https://36kr.com/newsflashes/3761841708941827?f=rss)
   - [报道：特朗普承诺将在卸任前为政府高级官员颁发特赦令](https://36kr.com/newsflashes/3761734061900549?f=rss)
+  - [日本投入160亿美元，力推初创企业Rapidus进军人工智能芯片领域](https://36kr.com/newsflashes/3761942487990792?f=rss)
   - [汽车行业已在阿里云上使用超10万卡“真武”PPU研发智驾](https://36kr.com/newsflashes/3761838168670977?f=rss)
   - [液冷逐渐成为“刚需”，16只概念股获机构调研](https://36kr.com/newsflashes/3761735684112901?f=rss)
+  - [滴滴自动驾驶张博：聚焦安全和体验，推动自动驾驶全球化落地](https://36kr.com/newsflashes/3762011484340745?f=rss)
   - [特斯拉FSD受监督版本在荷兰获批](https://36kr.com/newsflashes/3761730862596614?f=rss)
   - [私募三月新发产品数量创近一年来新高](https://36kr.com/newsflashes/3761742058144521?f=rss)
   - [美国3月预算赤字为1641亿美元](https://36kr.com/newsflashes/3761733428216328?f=rss)
   - [美股三大指数收盘涨跌不一，纳指涨0.35%并录得八连涨](https://36kr.com/newsflashes/3761701211538180?f=rss)
   - [美载人绕月飞船溅落在预定海域](https://36kr.com/newsflashes/3761705025159686?f=rss)
+  - [蔚来李斌：高阶智驾芯片神玑NX9031与蔚来世界模型上车乐道L90](https://36kr.com/newsflashes/3761992686207752?f=rss)
   - [蔚来董事长李斌：建议尽快推动电芯标准化和芯片归一化](https://36kr.com/newsflashes/3761946596786948?f=rss)
   - [资本“抢跑”量产元年，具身智能产业链迎价值重估](https://36kr.com/newsflashes/3761734668452355?f=rss)
   - [那个“爱马仕”，想拯救“智障”小龙虾](https://36kr.com/p/3761883183530502?f=rss)
   - [郑州出台8条楼市新政](https://36kr.com/newsflashes/3761941670347525?f=rss)
+  - [闪迪公司将于2026年4月20日起纳入纳斯达克100指数](https://36kr.com/newsflashes/3761946038911489?f=rss)
   - [雷军投的"红娘"要去IPO了](https://36kr.com/p/3761856919093768?f=rss)
   - [高盛、摩根士丹利等大行正测试Anthropic的Mythos大模型](https://36kr.com/newsflashes/3761738244981257?f=rss)
   - [黑石为数据中心收购公司IPO提交文件](https://36kr.com/newsflashes/3761737131868931?f=rss)
@@ -57,6 +62,7 @@
 - darkreading
   - [Your Next Breach Will Look Like Business as Usual](https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual)
 - Hacker News Frontpage
+  - [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
   - [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
   - [Chimpanzees in Uganda locked in vicious 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
   - [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
@@ -238,4 +244,5 @@
 - 量子位 QbitAI
   - [刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA](https://www.qbitai.com/2026/04/399393.html)
 - 黑海洋
+  - [CoreWeave宣布与Anthropic达成多年协议](https://blog.upx8.com/CoreWeave%E5%AE%A3%E5%B8%83%E4%B8%8EAnthropic%E8%BE%BE%E6%88%90%E5%A4%9A%E5%B9%B4%E5%8D%8F%E8%AE%AE)
   - [中国官方约谈7家涉火车票销售第三方平台](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E7%BA%A6%E8%B0%887%E5%AE%B6%E6%B6%89%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%94%80%E5%94%AE%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B3%E5%8F%B0)
