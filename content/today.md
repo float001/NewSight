@@ -62,6 +62,7 @@
   - [高盛、摩根士丹利等大行正测试Anthropic的Mythos大模型](https://36kr.com/newsflashes/3761738244981257?f=rss)
   - [黑石为数据中心收购公司IPO提交文件](https://36kr.com/newsflashes/3761737131868931?f=rss)
 - Ars Technica
+  - [AI models are terrible at betting on soccer—especially xAI Grok](https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/)
   - [F1 moves a step closer to fixing its 2026 hybrid problem](https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/)
   - [Four astronauts are back home after a daring ride around the Moon](https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/)
 - Blog - Praetorian
@@ -97,6 +98,8 @@
   - [Friday Squid Blogging: Squid Overfishing in the South Pacific](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html)
 - Security Affairs
   - [CVE-2026-39987: Marimo RCE exploited in hours after disclosure](https://securityaffairs.com/190623/hacking/cve-2026-39987-marimo-rce-exploited-in-hours-after-disclosure.html)
+- shkspr.mobi
+  - [Cheapest way to keep a UK mobile number using an eSIM](https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/)
 - simonwillison.net
   - [Kākāpō parrots](https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything)
 - TechCrunch
@@ -113,6 +116,7 @@
   - [Claude Code's new Ultraplan feature moves task planning to the cloud](https://the-decoder.com/claude-codes-new-ultraplan-feature-moves-task-planning-to-the-cloud/)
   - [Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware](https://the-decoder.com/overworlds-waypoint-1-5-brings-ai-generated-3d-worlds-to-mac-and-windows-on-consumer-hardware/)
   - [Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night](https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/)
+  - [The operator behind the AI agent that defamed an open-source developer calls it a "social experiment"](https://the-decoder.com/the-operator-behind-the-ai-agent-that-defamed-an-open-source-developer-calls-it-a-social-experiment/)
 - The Verge
   - [20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail)
   - [Amazon Luna axes third-party game purchases](https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions)
@@ -123,6 +127,7 @@
   - [My go-to electric screwdriver is on sale for over 50 percent off today](https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale)
   - [Now the FAA says gamers are the answer to its air traffic controller shortage](https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage)
   - [The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;](https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu)
+  - [The new show making fun of tech bros](https://www.theverge.com/tech/910422/audacity-artemis-maul-installer)
 - VulDB Recent Entries
   - [CVE-2025-66447 | Chamilo LMS up to 1.11.0/2.0-beta.1/2.0-beta.2 /login redirect (GHSA-m82x-prv3-rwwv)](https://vuldb.com/vuln/356898)
   - [CVE-2026-1502 | Python CPython up to 3.14.x HTTP Client Proxy Tunnel crlf injection (ID 146211)](https://vuldb.com/vuln/356914)
@@ -260,6 +265,7 @@
   - [Artemis II Returns From Historic Flight Around the Moon](https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/)
   - [Home Depot Spring Black Friday (2026): Best Tool and Grill Deals](https://www.wired.com/story/home-depot-spring-black-friday-deals-2026/)
   - [How the Internet Broke Everyone’s Bullshit Detectors](https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/)
+  - [MacBook Neo vs. MacBook Air: Which One Should You Buy?](https://www.wired.com/story/macbook-neo-vs-macbook-air/)
   - [Motorola’s Souped-Up Folding Phone Is Almost Half Off](https://www.wired.com/story/motorola-razr-ultra-deal-426/)
   - [Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman's Home](https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/)
   - [The Future of the Artemis Program Is Riding on Reentry](https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/)
