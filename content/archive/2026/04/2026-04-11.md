@@ -22,6 +22,7 @@
   - [“阿基视觉”完成数千万元天使轮融资](https://36kr.com/newsflashes/3761832341864968?f=rss)
   - [一季度全国铁路完成固定资产投资1379亿元，同比增长5.1%](https://36kr.com/newsflashes/3761803669078786?f=rss)
   - [中信证券：流动性冲击扰动，互联网板块关注业绩韧性与AI主线](https://36kr.com/newsflashes/3761947040989958?f=rss)
+  - [为什么有钱人也不买GUCCI了？](https://36kr.com/p/3762200670077448?f=rss)
   - [交易商仍押注美联储2026年全年将维持利率不变](https://36kr.com/newsflashes/3761705459712516?f=rss)
   - [京东否认进入网约车领域：正在测试新项目，4月13日上线](https://36kr.com/newsflashes/3761835195810564?f=rss)
   - [低空经济第一股，来了](https://36kr.com/p/3761810181210633?f=rss)
@@ -33,6 +34,7 @@
   - [多家快递公司宣布涨价](https://36kr.com/newsflashes/3762081810760192?f=rss)
   - [奥特曼家被炸了！](https://36kr.com/p/3762027785224707?f=rss)
   - [崔东树：3月的A00级电动车剧烈萎缩带来均价的上升，2026年销量增长压力较大](https://36kr.com/newsflashes/3761952234504707?f=rss)
+  - [工业和信息化部将发布一批“人工智能+”高价值场景](https://36kr.com/newsflashes/3762215677297158?f=rss)
   - [工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%](https://36kr.com/newsflashes/3761780346241541?f=rss)
   - [工信部原副部长苏波：新能源汽车发展仍存挑战，治理体系亟待完善](https://36kr.com/newsflashes/3761774948532738?f=rss)
   - [康斯特：压力传感器产品暂未向半导体、新材料等行业客户推广](https://36kr.com/newsflashes/3761942976299529?f=rss)
@@ -46,6 +48,7 @@
   - [特斯拉FSD受监督版本在荷兰获批](https://36kr.com/newsflashes/3761730862596614?f=rss)
   - [私募三月新发产品数量创近一年来新高](https://36kr.com/newsflashes/3761742058144521?f=rss)
   - [美国3月预算赤字为1641亿美元](https://36kr.com/newsflashes/3761733428216328?f=rss)
+  - [美国土安全部召回员工，下笔薪资无着落](https://36kr.com/newsflashes/3762200013603591?f=rss)
   - [美股三大指数收盘涨跌不一，纳指涨0.35%并录得八连涨](https://36kr.com/newsflashes/3761701211538180?f=rss)
   - [美载人绕月飞船溅落在预定海域](https://36kr.com/newsflashes/3761705025159686?f=rss)
   - [蔚来李斌：高阶智驾芯片神玑NX9031与蔚来世界模型上车乐道L90](https://36kr.com/newsflashes/3761992686207752?f=rss)
@@ -92,6 +95,8 @@
   - [National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/)
 - Schneier on Security
   - [Friday Squid Blogging: Squid Overfishing in the South Pacific](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html)
+- Security Affairs
+  - [CVE-2026-39987: Marimo RCE exploited in hours after disclosure](https://securityaffairs.com/190623/hacking/cve-2026-39987-marimo-rce-exploited-in-hours-after-disclosure.html)
 - simonwillison.net
   - [Kākāpō parrots](https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything)
 - TechCrunch
@@ -104,6 +109,8 @@
 - text/plain
   - [Understanding Defender AV Scans](https://textslashplain.com/2026/04/10/understanding-defender-av-scans/)
 - The Decoder
+  - [AI models would rather guess than ask for help, researchers find](https://the-decoder.com/when-ai-models-cant-see-they-just-make-something-up/)
+  - [Claude Code's new Ultraplan feature moves task planning to the cloud](https://the-decoder.com/claude-codes-new-ultraplan-feature-moves-task-planning-to-the-cloud/)
   - [Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night](https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/)
 - The Verge
   - [20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail)
@@ -250,6 +257,7 @@
   - [Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think](https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/)
   - [Artemis II Returns From Historic Flight Around the Moon](https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/)
   - [Home Depot Spring Black Friday (2026): Best Tool and Grill Deals](https://www.wired.com/story/home-depot-spring-black-friday-deals-2026/)
+  - [How the Internet Broke Everyone’s Bullshit Detectors](https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/)
   - [Motorola’s Souped-Up Folding Phone Is Almost Half Off](https://www.wired.com/story/motorola-razr-ultra-deal-426/)
   - [Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman's Home](https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/)
   - [The Future of the Artemis Program Is Riding on Reentry](https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/)
