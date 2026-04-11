@@ -2,6 +2,8 @@
 
 - daringfireball.net
   - [Pan American Luggage Labels](https://ellafreire.com/collections/pan-american-luggage-labels)
+- Hacker News Frontpage
+  - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
 - Security Affairs
   - [GlassWorm evolves with Zig dropper to infect multiple developer tools](https://securityaffairs.com/190638/malware/glassworm-evolves-with-zig-dropper-to-infect-multiple-developer-tools.html)
 - Sploitus.com Exploits RSS Feed
