@@ -61,6 +61,8 @@
   - [韩国政府将向收入下游70%人群发放现金援助，以缓解油价上涨压力](https://36kr.com/newsflashes/3762117216764677?f=rss)
   - [高盛、摩根士丹利等大行正测试Anthropic的Mythos大模型](https://36kr.com/newsflashes/3761738244981257?f=rss)
   - [黑石为数据中心收购公司IPO提交文件](https://36kr.com/newsflashes/3761737131868931?f=rss)
+- 404 Media
+  - [The Oldest Octopus Fossil Ever Isn’t An Octopus At All, Scientists Discover](https://www.404media.co/the-oldest-octopus-fossil-ever-isnt-an-octopus-at-all-scientists-discover/)
 - Ars Technica
   - [AI models are terrible at betting on soccer—especially xAI Grok](https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/)
   - [F1 moves a step closer to fixing its 2026 hybrid problem](https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/)
@@ -86,6 +88,7 @@
   - [Nowhere Is Safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
   - [Peers vote to ban pornography depicting sex acts between stepfamily members](https://www.theguardian.com/society/2026/apr/10/porngraphy-depicting-sex-acts-between-stepfamily-members-banned-in-uk)
   - [Tesla's supervised self-driving software gets Dutch okay, first in Europe](https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/)
+  - [’Abhorrent’: the inside story of the Polymarket gamblers betting millions on war](https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth)
 - HackerNoon
   - [AI Subagents: What Works and What Doesn't](https://hackernoon.com/ai-subagents-what-works-and-what-doesnt?source=rss)
 - ICT Security Magazine
@@ -120,6 +123,8 @@
 - The Verge
   - [20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail)
   - [Amazon Luna axes third-party game purchases](https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions)
+  - [Demons and pinball are a perfect match](https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate)
+  - [How Iran out-shitposted the White House](https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop)
   - [How to watch the Artemis II astronauts return to Earth](https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth)
   - [Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?](https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china)
   - [Little Snitch&#8217;s software counter surveillance jumps from Mac to Linux](https://www.theverge.com/tech/909975/little-snitch-linux-launch)
@@ -272,9 +277,13 @@
   - [This Clever Bike Bell Can Even Be Heard by People Wearing Noise-Canceling Headphones](https://www.wired.com/story/skoda-duobell-bike-bell-can-be-heard-by-people-wearing-noise-canceling-headphones/)
   - [This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts](https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/)
   - [Your Push Notifications Aren’t Safe From the FBI](https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/)
+  - [Zuvi ColorBox Review: A Hair Dye Printer That Struggles](https://www.wired.com/review/zuvi-colorbox/)
+  - [‘Crimson Desert’ Is a Cat Dad Simulator](https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/)
 - 不安全
   - [Built a Python MITM tool (ARP Spoofing + Sniffer + Nmap)](https://buaq.net/go-409365.html)
+  - [Free cybersecurity learning paths + challenges — built this for people breaking into the industry](https://buaq.net/go-409421.html)
   - [I need help with finding active websites on the deepweb](https://buaq.net/go-409400.html)
+  - [Open-source cross-modal and multimodal prompt injection test suite. 38,000+ attack payloads across text, image, document, and audio modalities. Research-backed by OWASP LLM Top 10, CrossInject (ACM MM 2025), FigStep (AAAI 2025), DolphinAttack, and CSA 2026.](https://buaq.net/go-409423.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
