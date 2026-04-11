@@ -109,6 +109,8 @@
   - [Cheapest way to keep a UK mobile number using an eSIM](https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/)
 - simonwillison.net
   - [Kākāpō parrots](https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-22557 exploit](https://sploitus.com/exploit?id=7D4D4A9C-8854-518B-AE2B-91AC4B6380B9&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic temporarily banned OpenClaw’s creator from accessing Claude](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)
   - [Battery recycler Ascend Elements files for bankruptcy](https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/)
@@ -130,6 +132,7 @@
   - [20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail)
   - [Amazon Luna axes third-party game purchases](https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions)
   - [Demons and pinball are a perfect match](https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate)
+  - [Google’s latest Nest Doorbells just hit their lowest prices of the year](https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale)
   - [How Iran out-shitposted the White House](https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop)
   - [How to watch the Artemis II astronauts return to Earth](https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth)
   - [Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?](https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china)
@@ -138,9 +141,13 @@
   - [My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative](https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion)
   - [My go-to electric screwdriver is on sale for over 50 percent off today](https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale)
   - [Now the FAA says gamers are the answer to its air traffic controller shortage](https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage)
+  - [Pokémon Champions is off to a rough start](https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers)
   - [The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;](https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu)
   - [The new show making fun of tech bros](https://www.theverge.com/tech/910422/audacity-artemis-maul-installer)
   - [You don’t have to spend more than $50 on a great USB-C dock for your Switch 2](https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on)
+  - [Your article about AI doesn’t need AI art](https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai)
+- Threatninja.net
+  - [Hack The Box: Eighteen Machine Walkthrough – Easy Difficulity](https://threatninja.net/hack-the-box-eighteen-machine-walkthrough-easy-difficulity/)
 - VulDB Recent Entries
   - [CVE-2025-66447 | Chamilo LMS up to 1.11.0/2.0-beta.1/2.0-beta.2 /login redirect (GHSA-m82x-prv3-rwwv)](https://vuldb.com/vuln/356898)
   - [CVE-2026-1502 | Python CPython up to 3.14.x HTTP Client Proxy Tunnel crlf injection (ID 146211)](https://vuldb.com/vuln/356914)
