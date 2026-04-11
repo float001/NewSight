@@ -50,3 +50,5 @@
   - [CVE-2026-6126 | zhayujie chatgpt-on-wechat CowAgent 2.0.4 Administrative HTTP Endpoint missing authentication (Issue 2733)](https://vuldb.com/vuln/356990)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [OpenAI指控马斯克搞法律突袭 扰乱诉讼](https://blog.upx8.com/OpenAI%E6%8C%87%E6%8E%A7%E9%A9%AC%E6%96%AF%E5%85%8B%E6%90%9E%E6%B3%95%E5%BE%8B%E7%AA%81%E8%A2%AD-%E6%89%B0%E4%B9%B1%E8%AF%89%E8%AE%BC)
