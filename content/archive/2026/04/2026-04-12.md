@@ -4,6 +4,10 @@
   - [Pan American Luggage Labels](https://ellafreire.com/collections/pan-american-luggage-labels)
 - Security Affairs
   - [GlassWorm evolves with Zig dropper to infect multiple developer tools](https://securityaffairs.com/190638/malware/glassworm-evolves-with-zig-dropper-to-infect-multiple-developer-tools.html)
+- Sploitus.com Exploits RSS Feed
+  - [vulnscanx exploit](https://sploitus.com/exploit?id=461CC585-F55A-56F8-9576-4A8E0AC0FF41&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/)
 - VulDB Recent Entries
   - [CVE-2026-6120 | Tenda F451 1.0.0.7 httpd /goform/DhcpListClient fromDhcpListClient page stack-based overflow](https://vuldb.com/vuln/356983)
   - [CVE-2026-6121 | Tenda F451 1.0.0.7 httpd /goform/WrlclientSet GO stack-based overflow](https://vuldb.com/vuln/356984)
