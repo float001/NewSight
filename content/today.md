@@ -1,5 +1,8 @@
 # 今日安全资讯（2026-04-11）
 
+- 36氪
+  - [9点1氪｜7家涉火车票销售第三方平台被约谈；45秒500万，张雪直播间拍卖冠军复刻赛车“光速”成交；亚马逊辟谣5月将裁员1.4万](https://36kr.com/p/3761718611624707?f=rss)
+  - [美股三大指数收盘涨跌不一，纳指涨0.35%并录得八连涨](https://36kr.com/newsflashes/3761701211538180?f=rss)
 - Ars Technica
   - [F1 moves a step closer to fixing its 2026 hybrid problem](https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/)
 - Blog - Praetorian
@@ -12,6 +15,7 @@
 - darkreading
   - [Your Next Breach Will Look Like Business as Usual](https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual)
 - Hacker News Frontpage
+  - [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
   - [Chimpanzees in Uganda locked in vicious 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
   - [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
   - [Filing the Corners Off MacBooks](https://kentwalters.com/posts/corners/)
@@ -32,6 +36,7 @@
   - [Anthropic temporarily banned OpenClaw’s creator from accessing Claude](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)
   - [Battery recycler Ascend Elements files for bankruptcy](https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/)
   - [How to watch NASA’s Artemis II splash back down to Earth](https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/)
+  - [NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission](https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/)
   - [Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/)
   - [TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it](https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/)
 - text/plain
@@ -159,6 +164,7 @@
 - Wired
   - ["Uncanny Valley": OpenAI and Musk Fight Again; DOJ Mishandles Voter Data; Artemis II Comes Home](https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home/)
   - [Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think](https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/)
+  - [Artemis II Returns From Historic Flight Around the Moon](https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/)
   - [Home Depot Spring Black Friday (2026): Best Tool and Grill Deals](https://www.wired.com/story/home-depot-spring-black-friday-deals-2026/)
   - [Motorola’s Souped-Up Folding Phone Is Almost Half Off](https://www.wired.com/story/motorola-razr-ultra-deal-426/)
   - [Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman's Home](https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/)
@@ -171,3 +177,5 @@
   - [阿根廷企鹅国度发现 PFAS](https://www.solidot.org/story?sid=84016)
 - 安全客
   - [鸿蒙NEXT应用一键加固——AI Agent助力安全开发](https://www.anquanke.com/post/id/315277)
+- 爱范儿
+  - [早报｜「龙虾之父」Claude账号被封又解封/华为Pura 90定档4月20日/AI能力将成教师「必考项」](https://www.ifanr.com/1661838?utm_source=rss&utm_medium=rss&utm_campaign=)
