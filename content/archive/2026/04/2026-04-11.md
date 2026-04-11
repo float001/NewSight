@@ -5,6 +5,7 @@
   - [OPC 感觉是就业蓄水池蓄不下来就再造一个词来安慰自己。](https://2libra.com/post/workplace-stories/DUbPasi)
   - [【💰】公司要买 Ai 套餐，求推荐](https://2libra.com/post/ai-tools/IAfAn9D)
   - [以后 AI 各个厂商对于程序员会不会出怀旧服](https://2libra.com/post/ai-companies/wJTPXaV)
+  - [北京时间 4 月 11 日，8 点 07 分，阿尔忒弥斯二号完成降落，返回地球，结束了历时 10 天环绕月球的人类历史性任务。欢迎回到地球。](https://2libra.com/post/tech-news/PM23G4s)
   - [南京易司拓](https://2libra.com/post/big-company-news/RKHmyME)
   - [弄了一个小程序，30 块认证费都挣不回来](https://2libra.com/post/indie-dev/It0D9ec)
 - 36氪
@@ -29,6 +30,7 @@
   - [千亿诉讼临近 OpenAI指控马斯克搞“突袭”](https://36kr.com/newsflashes/3762063409234434?f=rss)
   - [华泰证券：美国3月CPI环比增速符合预期，核心通胀仍然温和](https://36kr.com/newsflashes/3761777421271811?f=rss)
   - [多家上市公司预计一季度业绩倍增 上游资源及材料制造类表现抢眼](https://36kr.com/newsflashes/3761731940336393?f=rss)
+  - [多家快递公司宣布涨价](https://36kr.com/newsflashes/3762081810760192?f=rss)
   - [奥特曼家被炸了！](https://36kr.com/p/3762027785224707?f=rss)
   - [崔东树：3月的A00级电动车剧烈萎缩带来均价的上升，2026年销量增长压力较大](https://36kr.com/newsflashes/3761952234504707?f=rss)
   - [工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%](https://36kr.com/newsflashes/3761780346241541?f=rss)
@@ -53,6 +55,7 @@
   - [郑州出台8条楼市新政](https://36kr.com/newsflashes/3761941670347525?f=rss)
   - [闪迪公司将于2026年4月20日起纳入纳斯达克100指数](https://36kr.com/newsflashes/3761946038911489?f=rss)
   - [雷军投的"红娘"要去IPO了](https://36kr.com/p/3761856919093768?f=rss)
+  - [韩国政府将向收入下游70%人群发放现金援助，以缓解油价上涨压力](https://36kr.com/newsflashes/3762117216764677?f=rss)
   - [高盛、摩根士丹利等大行正测试Anthropic的Mythos大模型](https://36kr.com/newsflashes/3761738244981257?f=rss)
   - [黑石为数据中心收购公司IPO提交文件](https://36kr.com/newsflashes/3761737131868931?f=rss)
 - Ars Technica
@@ -100,6 +103,8 @@
   - [TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it](https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/)
 - text/plain
   - [Understanding Defender AV Scans](https://textslashplain.com/2026/04/10/understanding-defender-av-scans/)
+- The Decoder
+  - [Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night](https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/)
 - The Verge
   - [20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail)
   - [Amazon Luna axes third-party game purchases](https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions)
@@ -233,6 +238,11 @@
   - [CVE-2026-5483 | Red Hat OpenShift AI Kubernetes Service insertion of sensitive information into sent data (RHSA-2026:7397)](https://vuldb.com/vuln/356852)
   - [CVE-2026-5724 | temporal up to 1.28.3/1.29.5/1.30.3 StreamWorkflowReplicationMessages endpoint missing authentication](https://vuldb.com/vuln/356946)
   - [CVE-2026-6105 | perfree go-fastdfs-web up to 1.3.7 doInstall Interface InstallController.java improper authorization (IGB6M9)](https://vuldb.com/vuln/356964)
+  - [CVE-2026-6112 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setRadvdCfg maxRtrAdvInterval os command injection](https://vuldb.com/vuln/356972)
+  - [CVE-2026-6113 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setTtyServiceCfg ttyEnable os command injection](https://vuldb.com/vuln/356973)
+  - [CVE-2026-6114 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setNetworkCfg proto os command injection](https://vuldb.com/vuln/356974)
+  - [CVE-2026-6115 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setAppCfg enable os command injection](https://vuldb.com/vuln/356975)
+  - [CVE-2026-6116 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setDiagnosisCfg ip os command injection](https://vuldb.com/vuln/356976)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [The Mythos Inflection Point: Dealing With the Upcoming Vulnerability Disclosure Avalanche and Compressed Exploitation Window](https://blog.qualys.com/category/product-tech)
 - Wired
@@ -261,3 +271,4 @@
   - [CoreWeave宣布与Anthropic达成多年协议](https://blog.upx8.com/CoreWeave%E5%AE%A3%E5%B8%83%E4%B8%8EAnthropic%E8%BE%BE%E6%88%90%E5%A4%9A%E5%B9%B4%E5%8D%8F%E8%AE%AE)
   - [中国官方约谈7家涉火车票销售第三方平台](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E7%BA%A6%E8%B0%887%E5%AE%B6%E6%B6%89%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%94%80%E5%94%AE%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B3%E5%8F%B0)
   - [便携式龙虾🦞：VH-Claw U 盘版开源发布](https://blog.upx8.com/VH-Claw-U)
+  - [超越OpenClaw！Hermes Agent一键脚本发布：会成长的AI智能体](https://blog.upx8.com/Hermes-Agent-OpenClaw)
