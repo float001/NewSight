@@ -11,6 +11,7 @@
   - [34家上市房企债务压降8900亿元，打造好项目提升“造血”能力成关键](https://36kr.com/newsflashes/3761739110679041?f=rss)
   - [36氪首发 | 打破日本工业镜头垄断，松山湖团队融资数千万](https://36kr.com/p/3761739153081096?f=rss)
   - [36氪首发 | 深大教授AI芯片项目再融资近亿，主动式散热微系统服务传音](https://36kr.com/p/3761737030894342?f=rss)
+  - [3月北京二手房成交近2万套，创近15个月新高](https://36kr.com/newsflashes/3762052600332801?f=rss)
   - [9点1氪｜7家涉火车票销售第三方平台被约谈；45秒500万，张雪直播间拍卖冠军复刻赛车“光速”成交；亚马逊辟谣5月将裁员1.4万](https://36kr.com/p/3761718611624707?f=rss)
   - [Claude新模型危险，鲍威尔召集华尔街紧急开会！全美安全股暴跌2万亿](https://36kr.com/p/3761709375521288?f=rss)
   - [IBM将支付1700万美元解决美国政府对DEI的调查](https://36kr.com/newsflashes/3761742614823430?f=rss)
@@ -25,6 +26,7 @@
   - [低空经济第一股，来了](https://36kr.com/p/3761810181210633?f=rss)
   - [供需双向博弈上演，化工品涨价持续性存差异](https://36kr.com/newsflashes/3761741158613767?f=rss)
   - [北向资金一季度持股情况公布，12个行业环比获加仓](https://36kr.com/newsflashes/3761778058101507?f=rss)
+  - [千亿诉讼临近 OpenAI指控马斯克搞“突袭”](https://36kr.com/newsflashes/3762063409234434?f=rss)
   - [华泰证券：美国3月CPI环比增速符合预期，核心通胀仍然温和](https://36kr.com/newsflashes/3761777421271811?f=rss)
   - [多家上市公司预计一季度业绩倍增 上游资源及材料制造类表现抢眼](https://36kr.com/newsflashes/3761731940336393?f=rss)
   - [奥特曼家被炸了！](https://36kr.com/p/3762027785224707?f=rss)
@@ -34,6 +36,7 @@
   - [康斯特：压力传感器产品暂未向半导体、新材料等行业客户推广](https://36kr.com/newsflashes/3761942976299529?f=rss)
   - [我国首个海上注碳增气技术示范应用项目启动](https://36kr.com/newsflashes/3761841708941827?f=rss)
   - [报道：特朗普承诺将在卸任前为政府高级官员颁发特赦令](https://36kr.com/newsflashes/3761734061900549?f=rss)
+  - [拿下豪华种子轮，一家明星AI公司宣布倒闭](https://36kr.com/p/3762088319484419?f=rss)
   - [日本投入160亿美元，力推初创企业Rapidus进军人工智能芯片领域](https://36kr.com/newsflashes/3761942487990792?f=rss)
   - [汽车行业已在阿里云上使用超10万卡“真武”PPU研发智驾](https://36kr.com/newsflashes/3761838168670977?f=rss)
   - [液冷逐渐成为“刚需”，16只概念股获机构调研](https://36kr.com/newsflashes/3761735684112901?f=rss)
@@ -78,6 +81,8 @@
   - [Tesla's supervised self-driving software gets Dutch okay, first in Europe](https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/)
 - HackerNoon
   - [AI Subagents: What Works and What Doesn't](https://hackernoon.com/ai-subagents-what-works-and-what-doesnt?source=rss)
+- ICT Security Magazine
+  - [Threat Modeling nel 2026: analisi approfondita, aggiornata e operativa](https://www.ictsecuritymagazine.com/notizie/threat-modeling-2026/)
 - IEEE Spectrum
   - [Working With More Experienced Engineers Can Fast-Track Career Growth](https://spectrum.ieee.org/using-feedback-engineering)
 - NVIDIA AI Blog
@@ -143,6 +148,7 @@
   - [CVE-2026-34477 | Apache Log4j Core up to 2.25.3/3.0.0-beta3 log4j2.sslVerifyHostName certificate host validation](https://vuldb.com/vuln/356842)
   - [CVE-2026-34478 | Apache Log4j Core up to 2.25.3/3.0.0-beta3 Configuration incorrect provision of specified functionality](https://vuldb.com/vuln/356843)
   - [CVE-2026-34480 | Apache Log4j Core up to 2.25.3/3.0.0-beta3 Conforming Parser escape output](https://vuldb.com/vuln/356844)
+  - [CVE-2026-34621 | Adobe Acrobat Reader up to 24.001.30356/26.001.21367 File prototype pollution (apsb26-43)](https://vuldb.com/vuln/356962)
   - [CVE-2026-34727 | go-vikunja up to 2.2.x OIDC Call improper authentication (GHSA-8jvc-mcx6-r4cg)](https://vuldb.com/vuln/356907)
   - [CVE-2026-3498 | wpblockart BlockArt Blocks Plugin up to 2.2.15 on WordPress Block Attribute cross site scripting](https://vuldb.com/vuln/356959)
   - [CVE-2026-35594 | go-vikunja up to 2.2.x link_sharing.go GetLinkShareFromClaims session expiration (GHSA-96q5-xm3p-7m84)](https://vuldb.com/vuln/356867)
@@ -183,6 +189,7 @@
   - [CVE-2026-35668 | OpenClaw up to 2026.3.23 Configuration Data fileUrl path traversal (GHSA-hr5v-j9h9-xjhg)](https://vuldb.com/vuln/356906)
   - [CVE-2026-35669 | OpenClaw up to 2026.3.24 operator.admin incorrect privileged apis (GHSA-qm2m-28pf-hgjw)](https://vuldb.com/vuln/356905)
   - [CVE-2026-35670 | OpenClaw up to 2026.3.21 reliance on untrusted inputs in a security decision (GHSA-wv46-v6xc-2qhf)](https://vuldb.com/vuln/356900)
+  - [CVE-2026-3865 | Kubernetes up to 1.20.0 CSI Driver for SMB path traversal (Issue 138319)](https://vuldb.com/vuln/356963)
   - [CVE-2026-39921 | GeoNode up to 4.4.4/5.0.1 URL doc_url server-side request forgery](https://vuldb.com/vuln/356937)
   - [CVE-2026-39922 | GeoNode up to 4.4.4/5.0.1 WMS Service server-side request forgery](https://vuldb.com/vuln/356940)
   - [CVE-2026-40073 | sveltejs SvelteKit up to 2.57.0 BODY_SIZE_LIMIT allocation of resources (GHSA-2crg-3p73-43xp)](https://vuldb.com/vuln/356858)
@@ -225,6 +232,7 @@
   - [CVE-2026-5226 | Optimole Plugin up to 4.2.3 on WordPress get_current_url cross site scripting](https://vuldb.com/vuln/356960)
   - [CVE-2026-5483 | Red Hat OpenShift AI Kubernetes Service insertion of sensitive information into sent data (RHSA-2026:7397)](https://vuldb.com/vuln/356852)
   - [CVE-2026-5724 | temporal up to 1.28.3/1.29.5/1.30.3 StreamWorkflowReplicationMessages endpoint missing authentication](https://vuldb.com/vuln/356946)
+  - [CVE-2026-6105 | perfree go-fastdfs-web up to 1.3.7 doInstall Interface InstallController.java improper authorization (IGB6M9)](https://vuldb.com/vuln/356964)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [The Mythos Inflection Point: Dealing With the Upcoming Vulnerability Disclosure Avalanche and Compressed Exploitation Window](https://blog.qualys.com/category/product-tech)
 - Wired
@@ -252,3 +260,4 @@
 - 黑海洋
   - [CoreWeave宣布与Anthropic达成多年协议](https://blog.upx8.com/CoreWeave%E5%AE%A3%E5%B8%83%E4%B8%8EAnthropic%E8%BE%BE%E6%88%90%E5%A4%9A%E5%B9%B4%E5%8D%8F%E8%AE%AE)
   - [中国官方约谈7家涉火车票销售第三方平台](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E7%BA%A6%E8%B0%887%E5%AE%B6%E6%B6%89%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%94%80%E5%94%AE%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B3%E5%8F%B0)
+  - [便携式龙虾🦞：VH-Claw U 盘版开源发布](https://blog.upx8.com/VH-Claw-U)
