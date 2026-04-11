@@ -81,12 +81,14 @@
 - Hacker News Frontpage
   - [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
   - [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
+  - [Bitcoin miners are losing $19,000 on every BTC produced as difficulty drops 7.8%](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
   - [Chimpanzees in Uganda locked in vicious 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
   - [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
   - [Filing the Corners Off MacBooks](https://kentwalters.com/posts/corners/)
   - [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
   - [Nowhere Is Safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
   - [Peers vote to ban pornography depicting sex acts between stepfamily members](https://www.theguardian.com/society/2026/apr/10/porngraphy-depicting-sex-acts-between-stepfamily-members-banned-in-uk)
+  - [South Korea introduces universal basic mobile data access](https://www.theregister.com/2026/04/10/south_korea_data_access_universal/)
   - [Tesla's supervised self-driving software gets Dutch okay, first in Europe](https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/)
   - [’Abhorrent’: the inside story of the Polymarket gamblers betting millions on war](https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth)
 - HackerNoon
@@ -97,6 +99,8 @@
   - [Working With More Experienced Engineers Can Fast-Track Career Growth](https://spectrum.ieee.org/using-feedback-engineering)
 - NVIDIA AI Blog
   - [National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/)
+- pluralistic.net
+  - [Pluralistic: Don't Be Evil (11 Apr 2026)](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/)
 - Schneier on Security
   - [Friday Squid Blogging: Squid Overfishing in the South Pacific](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html)
 - Security Affairs
@@ -110,6 +114,7 @@
   - [Battery recycler Ascend Elements files for bankruptcy](https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/)
   - [How to watch NASA’s Artemis II splash back down to Earth](https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/)
   - [NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission](https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/)
+  - [Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips](https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/)
   - [Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/)
   - [TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it](https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/)
 - text/plain
@@ -117,6 +122,7 @@
 - The Decoder
   - [AI models would rather guess than ask for help, researchers find](https://the-decoder.com/when-ai-models-cant-see-they-just-make-something-up/)
   - [Claude Code's new Ultraplan feature moves task planning to the cloud](https://the-decoder.com/claude-codes-new-ultraplan-feature-moves-task-planning-to-the-cloud/)
+  - [Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device](https://the-decoder.com/googles-gemma-4-puts-free-agentic-ai-on-your-phone-and-no-data-ever-leaves-the-device/)
   - [Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware](https://the-decoder.com/overworlds-waypoint-1-5-brings-ai-generated-3d-worlds-to-mac-and-windows-on-consumer-hardware/)
   - [Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night](https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/)
   - [The operator behind the AI agent that defamed an open-source developer calls it a "social experiment"](https://the-decoder.com/the-operator-behind-the-ai-agent-that-defamed-an-open-source-developer-calls-it-a-social-experiment/)
@@ -129,10 +135,12 @@
   - [Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?](https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china)
   - [Little Snitch&#8217;s software counter surveillance jumps from Mac to Linux](https://www.theverge.com/tech/909975/little-snitch-linux-launch)
   - [Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool](https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool)
+  - [My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative](https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion)
   - [My go-to electric screwdriver is on sale for over 50 percent off today](https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale)
   - [Now the FAA says gamers are the answer to its air traffic controller shortage](https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage)
   - [The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;](https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu)
   - [The new show making fun of tech bros](https://www.theverge.com/tech/910422/audacity-artemis-maul-installer)
+  - [You don’t have to spend more than $50 on a great USB-C dock for your Switch 2](https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on)
 - VulDB Recent Entries
   - [CVE-2025-66447 | Chamilo LMS up to 1.11.0/2.0-beta.1/2.0-beta.2 /login redirect (GHSA-m82x-prv3-rwwv)](https://vuldb.com/vuln/356898)
   - [CVE-2026-1502 | Python CPython up to 3.14.x HTTP Client Proxy Tunnel crlf injection (ID 146211)](https://vuldb.com/vuln/356914)
@@ -287,6 +295,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [在 Firefox 浏览器上安装“所有”扩展会发生什么](https://www.solidot.org/story?sid=84020)
   - [阿根廷企鹅国度发现 PFAS](https://www.solidot.org/story?sid=84016)
 - 安全客
   - [鸿蒙NEXT应用一键加固——AI Agent助力安全开发](https://www.anquanke.com/post/id/315277)
