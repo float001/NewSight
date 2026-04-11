@@ -17,6 +17,7 @@
   - [Exploit for Cross-site Scripting in Pw Omega-Psir exploit](https://sploitus.com/exploit?id=5A907AFA-12F4-5A01-8740-7146E6F96289&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-site Scripting in Saleor exploit](https://sploitus.com/exploit?id=1B416F2B-FA8C-5186-92DC-A944DE9B0A23&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-66024 exploit](https://sploitus.com/exploit?id=1A9C70DB-583D-522B-8A60-57D666A76FE3&utm_source=rss&utm_medium=rss)
+  - [Exploit for Deserialization of Untrusted Data in Roundcube Webmail exploit](https://sploitus.com/exploit?id=46450153-A482-5A9B-B23D-BD1ECCA616A9&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authorization in Wbce Wbce_Cms exploit](https://sploitus.com/exploit?id=A4CCC0F6-FE50-594E-8646-EF573BFFE4D7&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Neutralization of Special Elements in Data Query Logic in Facturascripts exploit](https://sploitus.com/exploit?id=DA27B9A6-C321-5BB6-8030-42C8E8069D92&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Devcode Openstamanager exploit](https://sploitus.com/exploit?id=18E9F20E-62EA-5A7F-8CD8-04430F2270D9&utm_source=rss&utm_medium=rss)
@@ -36,6 +37,7 @@
   - [vulnscanx exploit](https://sploitus.com/exploit?id=461CC585-F55A-56F8-9576-4A8E0AC0FF41&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok](https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/)
+  - [Kalshi wins temporary pause in Arizona criminal case](https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/)
   - [Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/)
 - VulDB Recent Entries
   - [CVE-2026-31845 | Rukovoditel CRM up to 3.6/3.6.4 API Endpoint /api/tel/zadarma.php zd_echo cross site scripting](https://vuldb.com/vuln/356988)
