@@ -10,6 +10,7 @@
   - [夸克网盘大规模清理海外剧资源，相关内容陆续下架删除](https://2libra.com/post/tech-news/BEH6isd)
   - [建议优化 @echo 帖子标题](https://2libra.com/post/community/gPNREUQ)
   - [种种迹象显示苹果准备推出 M5 芯片版 Mac mini / Mac Studio。但从目前的行情来看，全球内存芯片短缺潮影响了供货， 都说库克是“库存克星”，显然是库存没有管理好，是另一种失职。](https://2libra.com/post/apple/yY151d9)
+  - [请尊重其他社区，注册完一发帖就是伸手](https://2libra.com/post/forum-function/RxDbdj0)
   - [谁不希望自己的手机里“住”着一个贾维斯呢 😍， Gemma 4 入住手机攻略](https://2libra.com/post/ai-tools/We92oFK)
   - [这几天的天气好到不想被辜负。看看你那里的天空。](https://2libra.com/post/small-things/WUBKL-Z)
   - [阿里的 coding plan lite 版本居然连续费和升级都关闭了，这是什么情况](https://2libra.com/post/large-models/kMcpOBL)
@@ -63,6 +64,7 @@
   - [Pope Leo XIV denounces the 'delusion of omnipotence' he says fuels the Iran war](https://www.politico.com/news/2026/04/11/pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-us-israeli-war-in-iran-00868142)
   - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional)
   - [We spoke to the man making viral Lego-style AI videos for Iran](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
+  - [Why weekends are under threat](https://thehustle.co/originals/why-weekends-are-under-threat)
 - HackerNoon
   - [Architecture for Compliance Scaling Microservices with DDD for High Volume Global Enterprise Systems](https://hackernoon.com/architecture-for-compliance-scaling-microservices-with-ddd-for-high-volume-global-enterprise-systems?source=rss)
   - [How to Evaluate an AI Persona: Beyond Benchmarks and Vibes](https://hackernoon.com/how-to-evaluate-an-ai-persona-beyond-benchmarks-and-vibes?source=rss)
@@ -82,11 +84,14 @@
   - [ThreatLens: Automating IoC Detection Directly in Your Browser](https://infosecwriteups.com/threatlens-automating-ioc-detection-directly-in-your-browser-9547e3c7defa?source=rss----7b722bfd1b8d---4)
 - joanwestenberg.com
   - [Optimism is not a personality flaw](https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/)
+- johndcook.com
+  - [The gap between Eastern and Western Easter](https://www.johndcook.com/blog/2026/04/12/orthodox-western-easter/)
 - Recent Commits to cve:main
   - [Update Sun Apr 12 11:18:45 UTC 2026](https://github.com/trickest/cve/commit/28abb9503d28d59c03e83d3abc80e080749431a5)
 - Security Affairs
   - [Censys finds 5,219 devices exposed to attacks by Iranian APTs, majority in U.S.](https://securityaffairs.com/190646/ics-scada/censys-finds-5219-devices-exposed-to-attacks-by-iranian-apts-majority-in-u-s.html)
   - [GlassWorm evolves with Zig dropper to infect multiple developer tools](https://securityaffairs.com/190638/malware/glassworm-evolves-with-zig-dropper-to-infect-multiple-developer-tools.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 92](https://securityaffairs.com/190672/malware/security-affairs-malware-newsletter-round-92.html)
   - [Security Affairs newsletter Round 572 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190662/security/security-affairs-newsletter-round-572-by-pierluigi-paganini-international-edition.html)
 - simonwillison.net
   - [SQLite 3.53.0](https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything)
@@ -134,6 +139,7 @@
   - [Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior](https://the-decoder.com/anthropic-seeks-advice-from-christian-leaders-on-claudes-moral-and-spiritual-behavior/)
   - [Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks](https://the-decoder.com/arcee-ai-spent-half-its-venture-capital-to-build-an-open-reasoning-model-that-rivals-claude-opus-in-agent-tasks/)
   - [Molotov suspect who attacked Sam Altman's home was likely a Pause AI follower with AI extinction fears](https://the-decoder.com/molotov-suspect-who-attacked-sam-altmans-home-was-likely-a-pause-ai-follower-with-ai-extinction-fears/)
+  - [Researchers define what counts as a world model and text-to-video generators do not](https://the-decoder.com/researchers-define-what-counts-as-a-world-model-and-text-to-video-generators-do-not/)
   - [Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions](https://the-decoder.com/stalking-victim-sues-openai-claiming-chatgpt-fueled-her-ex-partners-delusions/)
 - The Verge
   - [Allow me to explain why I love this camera that can’t shoot color](https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review)
