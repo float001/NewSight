@@ -2,6 +2,9 @@
 
 - 2Libra
   - [24 年 12 月买的徕芬吹风筒坏掉了，返厂检修，对品控很失望](https://2libra.com/post/computers-accessories/Fzn4DsE)
+- 36氪
+  - [MiniMax M2.7正式开源](https://36kr.com/newsflashes/3764430304723457?f=rss)
+  - [苹果正为即将推出的智能眼镜测试四种设计方案](https://36kr.com/newsflashes/3764427890639616?f=rss)
 - Daniel Miessler
   - [AI Only Has to Beat 3/10](https://danielmiessler.com/blog/ai-only-has-to-beat-3-out-of-10?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - daringfireball.net
@@ -10,6 +13,7 @@
 - Hacker News Frontpage
   - [Building a SaaS in 2026 Using Only EU Infrastructure](https://eualternative.eu/guides/building-saas-eu-stack/)
   - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
+  - [Tech valuations are back to pre-AI boom levels](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)
   - [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
 - HackerNoon
   - [China Gave Its AI Away](https://hackernoon.com/china-gave-its-ai-away?source=rss)
@@ -22,6 +26,7 @@
   - [Exploit for CVE-2020-24586 exploit](https://sploitus.com/exploit?id=E3AC4D1E-6D98-5584-88D0-C274C21F6239&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=85EF54BC-A345-51E2-8911-097DB2730411&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Gogs exploit](https://sploitus.com/exploit?id=CBC07C43-DD2F-5789-AB60-50FCEF7069A1&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Xwiki exploit](https://sploitus.com/exploit?id=24C62B95-2460-5B0D-A406-3A11B2C4D26A&utm_source=rss&utm_medium=rss)
   - [exploit900 exploit](https://sploitus.com/exploit?id=0348A057-141B-5578-BDFA-CC82671A0BFD&utm_source=rss&utm_medium=rss)
   - [patchbot exploit](https://sploitus.com/exploit?id=1153CFD2-9DE7-56B3-B522-2CEBEF6D2533&utm_source=rss&utm_medium=rss)
   - [web-pentest-tool exploit](https://sploitus.com/exploit?id=82CB25C3-5704-5BF0-A8CE-A7DAD1B4C695&utm_source=rss&utm_medium=rss)
