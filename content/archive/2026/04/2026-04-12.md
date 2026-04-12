@@ -62,6 +62,9 @@
   - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
   - [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
   - [Pope Leo XIV denounces the 'delusion of omnipotence' he says fuels the Iran war](https://www.politico.com/news/2026/04/11/pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-us-israeli-war-in-iran-00868142)
+  - [Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage](https://github.com/anthropics/claude-code/issues/45756)
+  - [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html)
+  - [Tell HN: OpenAI silently removed Study Mode from ChatGPT](https://news.ycombinator.com/item?id=47739305)
   - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional)
   - [We spoke to the man making viral Lego-style AI videos for Iran](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
   - [Why weekends are under threat](https://thehustle.co/originals/why-weekends-are-under-threat)
@@ -91,6 +94,7 @@
 - Security Affairs
   - [Censys finds 5,219 devices exposed to attacks by Iranian APTs, majority in U.S.](https://securityaffairs.com/190646/ics-scada/censys-finds-5219-devices-exposed-to-attacks-by-iranian-apts-majority-in-u-s.html)
   - [GlassWorm evolves with Zig dropper to infect multiple developer tools](https://securityaffairs.com/190638/malware/glassworm-evolves-with-zig-dropper-to-infect-multiple-developer-tools.html)
+  - [Hackers claim control over Venice San Marco anti-flood pumps](https://securityaffairs.com/190679/hacktivism/hackers-claim-control-over-venice-san-marco-anti-flood-pumps.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 92](https://securityaffairs.com/190672/malware/security-affairs-malware-newsletter-round-92.html)
   - [Security Affairs newsletter Round 572 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190662/security/security-affairs-newsletter-round-572-by-pierluigi-paganini-international-edition.html)
 - simonwillison.net
@@ -98,6 +102,7 @@
   - [SQLite Query Result Formatter Demo](https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Dir-Listing-Auto-Exploit exploit](https://sploitus.com/exploit?id=A485B940-12D9-51C7-99B7-666A5C01C7D1&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Ejs exploit](https://sploitus.com/exploit?id=FB47190E-0DBC-5610-A2E6-69C39FB8842E&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-site Scripting in Churchcrm exploit](https://sploitus.com/exploit?id=21195C09-272C-5E90-9187-70E55BD79A90&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-site Scripting in Devcode Openstamanager exploit](https://sploitus.com/exploit?id=F33F0F9C-D75E-527A-A996-CE53E9BA3624&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-site Scripting in Pw Omega-Psir exploit](https://sploitus.com/exploit?id=5A907AFA-12F4-5A01-8740-7146E6F96289&utm_source=rss&utm_medium=rss)
@@ -133,12 +138,14 @@
   - [AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok](https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/)
   - [Kalshi wins temporary pause in Arizona criminal case](https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/)
   - [Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/)
+  - [Slate Auto: Everything you need to know about the Bezos-backed EV startup](https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/)
   - [Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups](https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/)
 - The Decoder
   - [Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find](https://the-decoder.com/agent-skills-look-great-in-benchmarks-but-fall-apart-under-realistic-conditions-researchers-find/)
   - [Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior](https://the-decoder.com/anthropic-seeks-advice-from-christian-leaders-on-claudes-moral-and-spiritual-behavior/)
   - [Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks](https://the-decoder.com/arcee-ai-spent-half-its-venture-capital-to-build-an-open-reasoning-model-that-rivals-claude-opus-in-agent-tasks/)
   - [Molotov suspect who attacked Sam Altman's home was likely a Pause AI follower with AI extinction fears](https://the-decoder.com/molotov-suspect-who-attacked-sam-altmans-home-was-likely-a-pause-ai-follower-with-ai-extinction-fears/)
+  - [OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans](https://the-decoder.com/openai-employee-tries-to-explain-usage-limits-of-the-new-chatgpt-pro-plans/)
   - [Researchers define what counts as a world model and text-to-video generators do not](https://the-decoder.com/researchers-define-what-counts-as-a-world-model-and-text-to-video-generators-do-not/)
   - [Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions](https://the-decoder.com/stalking-victim-sues-openai-claiming-chatgpt-fueled-her-ex-partners-delusions/)
 - The Verge
@@ -188,6 +195,7 @@
   - [The Accidental Open Source: What Claude Code’s Leaked Source Code Tells Us About the Future of AI…](https://buaq.net/go-409513.html)
   - [Thick Client Pentest for Kiddos](https://buaq.net/go-409516.html)
   - [ThreatLens: Automating IoC Detection Directly in Your Browser](https://buaq.net/go-409512.html)
+  - [Try it](https://buaq.net/go-409564.html)
   - [大量顶尖科研人才正回流中国](https://buaq.net/go-409532.html)
   - [逾八成欧洲人不信任美国和中国科技公司](https://buaq.net/go-409503.html)
 - 代码审计星球
