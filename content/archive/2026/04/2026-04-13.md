@@ -2,11 +2,15 @@
 
 - 2Libra
   - [24 年 12 月买的徕芬吹风筒坏掉了，返厂检修，对品控很失望](https://2libra.com/post/computers-accessories/Fzn4DsE)
+- Daniel Miessler
+  - [AI Only Has to Beat 3/10](https://danielmiessler.com/blog/ai-only-has-to-beat-3-out-of-10?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - daringfireball.net
   - [Golden Tickets](https://www.presentandcorrect.com/blogs/blog/golden-tickets)
+  - [Zed — A Font Superfamily](https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df)
 - Hacker News Frontpage
   - [Building a SaaS in 2026 Using Only EU Infrastructure](https://eualternative.eu/guides/building-saas-eu-stack/)
   - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
+  - [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
 - HackerNoon
   - [China Gave Its AI Away](https://hackernoon.com/china-gave-its-ai-away?source=rss)
 - idiallo.com
@@ -23,5 +27,14 @@
 - The Verge
   - [Rockstar Games says hack will have ‘no impact’](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact)
   - [You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2](https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale)
+- VulDB Recent Entries
+  - [CVE-2026-6154 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setWizardCfg wizard os command injection](https://vuldb.com/vuln/357034)
+  - [CVE-2026-6155 | Totolink A7100RU 7.4cu.2313 CGI /cgi-bin/cstecgi.cgi setWanCfg pppoeServiceName os command injection](https://vuldb.com/vuln/357035)
+  - [CVE-2026-6156 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setIpQosRules Comment os command injection](https://vuldb.com/vuln/357036)
+  - [CVE-2026-6157 | Totolink A800R 4.1.2cu.5137_B20200730 /lib/cste_modules/app.so setAppEasyWizardConfig apcliSsid buffer overflow](https://vuldb.com/vuln/357037)
+  - [CVE-2026-6158 | Totolink N300RH 6.1c.1353_B20190305 upgrade.so setUpgradeUboot FileName os command injection](https://vuldb.com/vuln/357038)
+  - [CVE-2026-6159 | code-projects Simple ChatBox up to 1.0 Endpoint /chatbox/insert.php msg cross site scripting](https://vuldb.com/vuln/357039)
+  - [CVE-2026-6160 | code-projects Simple ChatBox 1.0 Endpoint chatbox.sql SimpleChatbox_PHP file information disclosure](https://vuldb.com/vuln/357040)
+  - [CVE-2026-6161 | code-projects Simple ChatBox up to 1.0 Endpoint /chatbox/insert.php msg sql injection](https://vuldb.com/vuln/357041)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
