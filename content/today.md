@@ -10,6 +10,7 @@
   - [谁不希望自己的手机里“住”着一个贾维斯呢 😍， Gemma 4 入住手机攻略](https://2libra.com/post/ai-tools/We92oFK)
   - [这几天的天气好到不想被辜负。看看你那里的天空。](https://2libra.com/post/small-things/WUBKL-Z)
 - 36氪
+  - [上海二手房单日成交1632套：连续打破5年峰值纪录 高端房源成交占比提升](https://36kr.com/newsflashes/3763453660561920?f=rss)
   - [中央台办受权发布十项促进两岸交流合作的政策措施](https://36kr.com/newsflashes/3763238355501831?f=rss)
   - [中老铁路国际旅客列车发送跨境旅客超80万人次](https://36kr.com/newsflashes/3763204148314631?f=rss)
   - [乘联分会崔东树：预计2026年汽车总批发量3480万辆 同比增长1%](https://36kr.com/newsflashes/3763301928927746?f=rss)
@@ -22,16 +23,21 @@
   - [新渝万高铁正线56座隧道全部贯通](https://36kr.com/newsflashes/3763245273350916?f=rss)
   - [新版“海南省智能网联汽车管理办法”拟4、5月发布](https://36kr.com/newsflashes/3763276186272518?f=rss)
   - [新西兰联储主席：将宣布提高货币政策决策透明度](https://36kr.com/newsflashes/3763249129226754?f=rss)
+  - [日本3月机床订单额增长28% 海外订单增40%](https://36kr.com/newsflashes/3763344613638662?f=rss)
   - [柬埔寨扶南德佐综合水利项目举行第二阶段开工仪式](https://36kr.com/newsflashes/3763248498475780?f=rss)
   - [欧盟航空燃油三周后或系统性短缺](https://36kr.com/newsflashes/3763180182356744?f=rss)
   - [海南自贸港全球产业招商大会低空经济专场将于14日举办](https://36kr.com/newsflashes/3763300885119745?f=rss)
   - [深圳邮轮母港一季度迎客110万人次同比增长6%](https://36kr.com/newsflashes/3763181672448516?f=rss)
+  - [联合国环境署呼吁推动航天活动可持续发展](https://36kr.com/newsflashes/3763344231645699?f=rss)
+  - [自然资源部：一季度我国办理不动产“带押过户”9万笔](https://36kr.com/newsflashes/3763453110502153?f=rss)
   - [菲律宾要求Facebook遏制虚假信息，并警告或将采取法律行动](https://36kr.com/newsflashes/3763244375458568?f=rss)
   - [超七成日本人担心汽油短缺](https://36kr.com/newsflashes/3763275088003849?f=rss)
   - [长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上](https://36kr.com/newsflashes/3763278385349122?f=rss)
   - [马斯克：Grok要达到甚至超越Claude Opus 4.6的水平，需要等到六月](https://36kr.com/newsflashes/3763157489320457?f=rss)
 - daringfireball.net
   - [Pan American Luggage Labels](https://ellafreire.com/collections/pan-american-luggage-labels)
+- defend.network
+  - [Daily Threat Briefing – April 12, 2026](https://defend.network/briefings/iran-plc-russian-token-theft-critical-2026-04-12.html)
 - Hacker News Frontpage
   - [AI Job Loss Tracker](https://jobloss.ai/)
   - [Americans still opt for print books over digital or audio versions](https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/)
