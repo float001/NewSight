@@ -17,6 +17,7 @@
   - [俄罗斯黑海沿岸区域超130只海豚死亡](https://36kr.com/newsflashes/3763301469635332?f=rss)
   - [元戎启行CEO周光：解决小模型的“跷跷板效应”，必须转向大模型范式](https://36kr.com/newsflashes/3763547677590018?f=rss)
   - [台风“森拉克”已加强为强台风级 逐渐靠近美国关岛附近](https://36kr.com/newsflashes/3763148280660739?f=rss)
+  - [启明星辰：第一季度净利润同比预增2279.31%—3281.13%](https://36kr.com/newsflashes/3763568458678790?f=rss)
   - [宇树科技宣布人形机器人跑出10米/秒，逼近人类巅峰水平](https://36kr.com/newsflashes/3763157984740103?f=rss)
   - [崔东树：建议购车支出纳入个税专项抵扣](https://36kr.com/newsflashes/3763248069132801?f=rss)
   - [我国复用航天器关键部件研制成功](https://36kr.com/newsflashes/3763275590648322?f=rss)
@@ -36,6 +37,7 @@
   - [菲律宾要求Facebook遏制虚假信息，并警告或将采取法律行动](https://36kr.com/newsflashes/3763244375458568?f=rss)
   - [超七成日本人担心汽油短缺](https://36kr.com/newsflashes/3763275088003849?f=rss)
   - [长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上](https://36kr.com/newsflashes/3763278385349122?f=rss)
+  - [长药退：公司股票将在4月13日被摘牌](https://36kr.com/newsflashes/3763565289014017?f=rss)
   - [马斯克：Grok要达到甚至超越Claude Opus 4.6的水平，需要等到六月](https://36kr.com/newsflashes/3763157489320457?f=rss)
 - daringfireball.net
   - [Pan American Luggage Labels](https://ellafreire.com/collections/pan-american-luggage-labels)
@@ -44,6 +46,7 @@
 - Hacker News Frontpage
   - [AI Job Loss Tracker](https://jobloss.ai/)
   - [Americans still opt for print books over digital or audio versions](https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/)
+  - [Apple update looks like Czech mate for locked-out iPhone user](https://www.theregister.com/2026/04/12/ios_passcode_bug/)
   - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
   - [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
   - [Pope Leo XIV denounces the 'delusion of omnipotence' he says fuels the Iran war](https://www.politico.com/news/2026/04/11/pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-us-israeli-war-in-iran-00868142)
@@ -65,6 +68,7 @@
 - Security Affairs
   - [Censys finds 5,219 devices exposed to attacks by Iranian APTs, majority in U.S.](https://securityaffairs.com/190646/ics-scada/censys-finds-5219-devices-exposed-to-attacks-by-iranian-apts-majority-in-u-s.html)
   - [GlassWorm evolves with Zig dropper to infect multiple developer tools](https://securityaffairs.com/190638/malware/glassworm-evolves-with-zig-dropper-to-infect-multiple-developer-tools.html)
+  - [Security Affairs newsletter Round 572 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190662/security/security-affairs-newsletter-round-572-by-pierluigi-paganini-international-edition.html)
 - simonwillison.net
   - [SQLite 3.53.0](https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything)
   - [SQLite Query Result Formatter Demo](https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything)
@@ -103,6 +107,8 @@
   - [Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/)
   - [Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups](https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/)
 - The Decoder
+  - [Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks](https://the-decoder.com/arcee-ai-spent-half-its-venture-capital-to-build-an-open-reasoning-model-that-rivals-claude-opus-in-agent-tasks/)
+  - [Molotov suspect who attacked Sam Altman's home was likely a Pause AI follower with AI extinction fears](https://the-decoder.com/molotov-suspect-who-attacked-sam-altmans-home-was-likely-a-pause-ai-follower-with-ai-extinction-fears/)
   - [Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions](https://the-decoder.com/stalking-victim-sues-openai-claiming-chatgpt-fueled-her-ex-partners-delusions/)
 - The Verge
   - [The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving)
@@ -147,6 +153,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [CPUID 网站下载链接被劫持传播恶意程序](https://www.solidot.org/story?sid=84023)
+- 爱范儿
+  - [DeepSeek，该卸下扫地僧的枷锁了](https://www.ifanr.com/1661836?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [IPv6 一键开关 - Windows IPv6 管理工具](https://blog.upx8.com/IPv6-Windows-IPv6)
   - [OpenAI指控马斯克搞法律突袭 扰乱诉讼](https://blog.upx8.com/OpenAI%E6%8C%87%E6%8E%A7%E9%A9%AC%E6%96%AF%E5%85%8B%E6%90%9E%E6%B3%95%E5%BE%8B%E7%AA%81%E8%A2%AD-%E6%89%B0%E4%B9%B1%E8%AF%89%E8%AE%BC)
