@@ -18,6 +18,7 @@
 - Security Affairs
   - [Adobe fixes actively exploited Acrobat Reader flaw CVE-2026-34621](https://securityaffairs.com/190697/security/adobe-fixes-actively-exploited-acrobat-reader-flaw-cve-2026-34621.html)
 - Sploitus.com Exploits RSS Feed
+  - [cve exploit](https://sploitus.com/exploit?id=5EFA19F3-C30F-56FB-BAE4-F038A8CC20F6&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2020-24586 exploit](https://sploitus.com/exploit?id=E3AC4D1E-6D98-5584-88D0-C274C21F6239&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=85EF54BC-A345-51E2-8911-097DB2730411&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Gogs exploit](https://sploitus.com/exploit?id=CBC07C43-DD2F-5789-AB60-50FCEF7069A1&utm_source=rss&utm_medium=rss)
@@ -26,6 +27,7 @@
   - [web-pentest-tool exploit](https://sploitus.com/exploit?id=82CB25C3-5704-5BF0-A8CE-A7DAD1B4C695&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Apple reportedly testing four designs for upcoming smart glasses](https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/)
+  - [Trump officials may be encouraging banks to test Anthropic’s Mythos model](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/)
   - [X says it’s reducing payments to clickbait accounts](https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/)
 - The Verge
   - [Rockstar Games says hack will have ‘no impact’](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact)
