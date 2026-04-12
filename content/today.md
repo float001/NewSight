@@ -21,6 +21,7 @@
   - [Exploit for Improper Authorization in Wbce Wbce_Cms exploit](https://sploitus.com/exploit?id=A4CCC0F6-FE50-594E-8646-EF573BFFE4D7&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Neutralization of Special Elements in Data Query Logic in Facturascripts exploit](https://sploitus.com/exploit?id=DA27B9A6-C321-5BB6-8030-42C8E8069D92&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Devcode Openstamanager exploit](https://sploitus.com/exploit?id=18E9F20E-62EA-5A7F-8CD8-04430F2270D9&utm_source=rss&utm_medium=rss)
+  - [Exploit for Path Traversal in Gogs exploit](https://sploitus.com/exploit?id=950D847D-3640-59D5-A5A4-1BB67F683717&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Redaxo exploit](https://sploitus.com/exploit?id=8D100509-2FC5-521A-8B87-5CDDF68DE547&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Churchcrm exploit](https://sploitus.com/exploit?id=8041A5D3-DA96-5487-8F42-141823F27E6C&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Devcode Openstamanager exploit](https://sploitus.com/exploit?id=10423DBA-85AD-5C77-80E5-A8B9F095574B&utm_source=rss&utm_medium=rss)
@@ -39,6 +40,8 @@
   - [AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok](https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/)
   - [Kalshi wins temporary pause in Arizona criminal case](https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/)
   - [Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/)
+- The Verge
+  - [The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving)
 - VulDB Recent Entries
   - [CVE-2026-31845 | Rukovoditel CRM up to 3.6/3.6.4 API Endpoint /api/tel/zadarma.php zd_echo cross site scripting](https://vuldb.com/vuln/356988)
   - [CVE-2026-6120 | Tenda F451 1.0.0.7 httpd /goform/DhcpListClient fromDhcpListClient page stack-based overflow](https://vuldb.com/vuln/356983)
