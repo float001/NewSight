@@ -1,12 +1,21 @@
 # 今日安全资讯（2026-04-12）
 
 - 2Libra
+  - [m2 用户请谨慎升级 26.4](https://2libra.com/post/apple/wfN4psr)
+  - [PureMac：一款免费开源的 CleanMyMac 平替](https://2libra.com/post/tools-sharing/xjK7V54)
+  - [XChat 将于 4 月 17 日正式上线，现在已开放下载预约](https://2libra.com/post/sharing-discoveries/Wcin_uV)
+  - [夸克网盘大规模清理海外剧资源，相关内容陆续下架删除](https://2libra.com/post/tech-news/BEH6isd)
   - [种种迹象显示苹果准备推出 M5 芯片版 Mac mini / Mac Studio。但从目前的行情来看，全球内存芯片短缺潮影响了供货， 都说库克是“库存克星”，显然是库存没有管理好，是另一种失职。](https://2libra.com/post/apple/yY151d9)
+  - [谁不希望自己的手机里“住”着一个贾维斯呢 😍， Gemma 4 入住手机攻略](https://2libra.com/post/ai-tools/We92oFK)
 - 36氪
   - [中央台办受权发布十项促进两岸交流合作的政策措施](https://36kr.com/newsflashes/3763238355501831?f=rss)
   - [中老铁路国际旅客列车发送跨境旅客超80万人次](https://36kr.com/newsflashes/3763204148314631?f=rss)
   - [台风“森拉克”已加强为强台风级 逐渐靠近美国关岛附近](https://36kr.com/newsflashes/3763148280660739?f=rss)
   - [宇树科技宣布人形机器人跑出10米/秒，逼近人类巅峰水平](https://36kr.com/newsflashes/3763157984740103?f=rss)
+  - [崔东树：建议购车支出纳入个税专项抵扣](https://36kr.com/newsflashes/3763248069132801?f=rss)
+  - [新渝万高铁正线56座隧道全部贯通](https://36kr.com/newsflashes/3763245273350916?f=rss)
+  - [新西兰联储主席：将宣布提高货币政策决策透明度](https://36kr.com/newsflashes/3763249129226754?f=rss)
+  - [柬埔寨扶南德佐综合水利项目举行第二阶段开工仪式](https://36kr.com/newsflashes/3763248498475780?f=rss)
   - [欧盟航空燃油三周后或系统性短缺](https://36kr.com/newsflashes/3763180182356744?f=rss)
   - [深圳邮轮母港一季度迎客110万人次同比增长6%](https://36kr.com/newsflashes/3763181672448516?f=rss)
   - [菲律宾要求Facebook遏制虚假信息，并警告或将采取法律行动](https://36kr.com/newsflashes/3763244375458568?f=rss)
@@ -28,6 +37,7 @@
   - [SQLite 3.53.0](https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything)
   - [SQLite Query Result Formatter Demo](https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Dir-Listing-Auto-Exploit exploit](https://sploitus.com/exploit?id=A485B940-12D9-51C7-99B7-666A5C01C7D1&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-site Scripting in Churchcrm exploit](https://sploitus.com/exploit?id=21195C09-272C-5E90-9187-70E55BD79A90&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-site Scripting in Devcode Openstamanager exploit](https://sploitus.com/exploit?id=F33F0F9C-D75E-527A-A996-CE53E9BA3624&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-site Scripting in Pw Omega-Psir exploit](https://sploitus.com/exploit?id=5A907AFA-12F4-5A01-8740-7146E6F96289&utm_source=rss&utm_medium=rss)
