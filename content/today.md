@@ -5,20 +5,26 @@
   - [PureMac：一款免费开源的 CleanMyMac 平替](https://2libra.com/post/tools-sharing/xjK7V54)
   - [XChat 将于 4 月 17 日正式上线，现在已开放下载预约](https://2libra.com/post/sharing-discoveries/Wcin_uV)
   - [夸克网盘大规模清理海外剧资源，相关内容陆续下架删除](https://2libra.com/post/tech-news/BEH6isd)
+  - [建议优化 @echo 帖子标题](https://2libra.com/post/community/gPNREUQ)
   - [种种迹象显示苹果准备推出 M5 芯片版 Mac mini / Mac Studio。但从目前的行情来看，全球内存芯片短缺潮影响了供货， 都说库克是“库存克星”，显然是库存没有管理好，是另一种失职。](https://2libra.com/post/apple/yY151d9)
   - [谁不希望自己的手机里“住”着一个贾维斯呢 😍， Gemma 4 入住手机攻略](https://2libra.com/post/ai-tools/We92oFK)
+  - [这几天的天气好到不想被辜负。看看你那里的天空。](https://2libra.com/post/small-things/WUBKL-Z)
 - 36氪
   - [中央台办受权发布十项促进两岸交流合作的政策措施](https://36kr.com/newsflashes/3763238355501831?f=rss)
   - [中老铁路国际旅客列车发送跨境旅客超80万人次](https://36kr.com/newsflashes/3763204148314631?f=rss)
   - [台风“森拉克”已加强为强台风级 逐渐靠近美国关岛附近](https://36kr.com/newsflashes/3763148280660739?f=rss)
   - [宇树科技宣布人形机器人跑出10米/秒，逼近人类巅峰水平](https://36kr.com/newsflashes/3763157984740103?f=rss)
   - [崔东树：建议购车支出纳入个税专项抵扣](https://36kr.com/newsflashes/3763248069132801?f=rss)
+  - [我国复用航天器关键部件研制成功](https://36kr.com/newsflashes/3763275590648322?f=rss)
+  - [我国超87%留学人员选择回国发展](https://36kr.com/newsflashes/3763277652968197?f=rss)
   - [新渝万高铁正线56座隧道全部贯通](https://36kr.com/newsflashes/3763245273350916?f=rss)
+  - [新版“海南省智能网联汽车管理办法”拟4、5月发布](https://36kr.com/newsflashes/3763276186272518?f=rss)
   - [新西兰联储主席：将宣布提高货币政策决策透明度](https://36kr.com/newsflashes/3763249129226754?f=rss)
   - [柬埔寨扶南德佐综合水利项目举行第二阶段开工仪式](https://36kr.com/newsflashes/3763248498475780?f=rss)
   - [欧盟航空燃油三周后或系统性短缺](https://36kr.com/newsflashes/3763180182356744?f=rss)
   - [深圳邮轮母港一季度迎客110万人次同比增长6%](https://36kr.com/newsflashes/3763181672448516?f=rss)
   - [菲律宾要求Facebook遏制虚假信息，并警告或将采取法律行动](https://36kr.com/newsflashes/3763244375458568?f=rss)
+  - [超七成日本人担心汽油短缺](https://36kr.com/newsflashes/3763275088003849?f=rss)
   - [马斯克：Grok要达到甚至超越Claude Opus 4.6的水平，需要等到六月](https://36kr.com/newsflashes/3763157489320457?f=rss)
 - daringfireball.net
   - [Pan American Luggage Labels](https://ellafreire.com/collections/pan-american-luggage-labels)
@@ -71,6 +77,7 @@
 - The Verge
   - [The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving)
 - VulDB Recent Entries
+  - [CVE-2026-1116 | parisneo lollms up to 2.1.x AppLollmsMessage from_dict content cross site scripting](https://vuldb.com/vuln/356991)
   - [CVE-2026-31845 | Rukovoditel CRM up to 3.6/3.6.4 API Endpoint /api/tel/zadarma.php zd_echo cross site scripting](https://vuldb.com/vuln/356988)
   - [CVE-2026-6120 | Tenda F451 1.0.0.7 httpd /goform/DhcpListClient fromDhcpListClient page stack-based overflow](https://vuldb.com/vuln/356983)
   - [CVE-2026-6121 | Tenda F451 1.0.0.7 httpd /goform/WrlclientSet GO stack-based overflow](https://vuldb.com/vuln/356984)
@@ -79,6 +86,8 @@
   - [CVE-2026-6124 | Tenda F451 1.0.0.7 httpd /goform/SafeMacFilter fromSafeMacFilter page/menufacturer stack-based overflow](https://vuldb.com/vuln/356987)
   - [CVE-2026-6125 | Dromara warm-flow up to 1.8.4 Workflow Definition /warm-flow/save-json SpelHelper.parseExpression listenerPath/skipCondition/permissionFlag code injection (IHURVQ)](https://vuldb.com/vuln/356989)
   - [CVE-2026-6126 | zhayujie chatgpt-on-wechat CowAgent 2.0.4 Administrative HTTP Endpoint missing authentication (Issue 2733)](https://vuldb.com/vuln/356990)
+  - [CVE-2026-6129 | zhayujie chatgpt-on-wechat CowAgent up to 2.0.4 Agent Mode Service missing authentication (Issue 2741)](https://vuldb.com/vuln/356992)
+  - [CVE-2026-6130 | chatboxai chatbox up to 1.20.0 Model Context Protocol Server Management System ipc-stdio-transport.ts StdioClientTransport args/env os command injection (Issue 3627)](https://vuldb.com/vuln/356993)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
