@@ -12,6 +12,8 @@
 - 36氪
   - [中央台办受权发布十项促进两岸交流合作的政策措施](https://36kr.com/newsflashes/3763238355501831?f=rss)
   - [中老铁路国际旅客列车发送跨境旅客超80万人次](https://36kr.com/newsflashes/3763204148314631?f=rss)
+  - [乘联分会崔东树：预计2026年汽车总批发量3480万辆 同比增长1%](https://36kr.com/newsflashes/3763301928927746?f=rss)
+  - [俄罗斯黑海沿岸区域超130只海豚死亡](https://36kr.com/newsflashes/3763301469635332?f=rss)
   - [台风“森拉克”已加强为强台风级 逐渐靠近美国关岛附近](https://36kr.com/newsflashes/3763148280660739?f=rss)
   - [宇树科技宣布人形机器人跑出10米/秒，逼近人类巅峰水平](https://36kr.com/newsflashes/3763157984740103?f=rss)
   - [崔东树：建议购车支出纳入个税专项抵扣](https://36kr.com/newsflashes/3763248069132801?f=rss)
@@ -22,9 +24,11 @@
   - [新西兰联储主席：将宣布提高货币政策决策透明度](https://36kr.com/newsflashes/3763249129226754?f=rss)
   - [柬埔寨扶南德佐综合水利项目举行第二阶段开工仪式](https://36kr.com/newsflashes/3763248498475780?f=rss)
   - [欧盟航空燃油三周后或系统性短缺](https://36kr.com/newsflashes/3763180182356744?f=rss)
+  - [海南自贸港全球产业招商大会低空经济专场将于14日举办](https://36kr.com/newsflashes/3763300885119745?f=rss)
   - [深圳邮轮母港一季度迎客110万人次同比增长6%](https://36kr.com/newsflashes/3763181672448516?f=rss)
   - [菲律宾要求Facebook遏制虚假信息，并警告或将采取法律行动](https://36kr.com/newsflashes/3763244375458568?f=rss)
   - [超七成日本人担心汽油短缺](https://36kr.com/newsflashes/3763275088003849?f=rss)
+  - [长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上](https://36kr.com/newsflashes/3763278385349122?f=rss)
   - [马斯克：Grok要达到甚至超越Claude Opus 4.6的水平，需要等到六月](https://36kr.com/newsflashes/3763157489320457?f=rss)
 - daringfireball.net
   - [Pan American Luggage Labels](https://ellafreire.com/collections/pan-american-luggage-labels)
@@ -33,6 +37,7 @@
   - [Americans still opt for print books over digital or audio versions](https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/)
   - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
   - [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+  - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional)
   - [We spoke to the man making viral Lego-style AI videos for Iran](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
 - joanwestenberg.com
   - [Optimism is not a personality flaw](https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/)
@@ -55,6 +60,7 @@
   - [Exploit for Improper Neutralization of Special Elements in Data Query Logic in Facturascripts exploit](https://sploitus.com/exploit?id=DA27B9A6-C321-5BB6-8030-42C8E8069D92&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Devcode Openstamanager exploit](https://sploitus.com/exploit?id=18E9F20E-62EA-5A7F-8CD8-04430F2270D9&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Gogs exploit](https://sploitus.com/exploit?id=950D847D-3640-59D5-A5A4-1BB67F683717&utm_source=rss&utm_medium=rss)
+  - [Exploit for Path Traversal in Gogs exploit](https://sploitus.com/exploit?id=FF789810-0F60-530D-A6DB-50BED1D86B55&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Redaxo exploit](https://sploitus.com/exploit?id=8D100509-2FC5-521A-8B87-5CDDF68DE547&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Churchcrm exploit](https://sploitus.com/exploit?id=8041A5D3-DA96-5487-8F42-141823F27E6C&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Devcode Openstamanager exploit](https://sploitus.com/exploit?id=10423DBA-85AD-5C77-80E5-A8B9F095574B&utm_source=rss&utm_medium=rss)
@@ -68,6 +74,7 @@
   - [Exploit for SQL Injection in Egroupware exploit](https://sploitus.com/exploit?id=C39AE5F1-3CBE-5826-82A8-96B23C291ABC&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Facturascripts exploit](https://sploitus.com/exploit?id=5F88E23B-F0F5-5B58-AEBA-7B3A66794AA0&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Wbce Wbce_Cms exploit](https://sploitus.com/exploit?id=7DAB8EC4-5C8D-51BC-8501-5970FAB6970E&utm_source=rss&utm_medium=rss)
+  - [neocorp-ctf-backend exploit](https://sploitus.com/exploit?id=86975A33-9062-5F8F-A318-E56A49193BED&utm_source=rss&utm_medium=rss)
   - [vulnscanx exploit](https://sploitus.com/exploit?id=461CC585-F55A-56F8-9576-4A8E0AC0FF41&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok](https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/)
@@ -88,7 +95,13 @@
   - [CVE-2026-6126 | zhayujie chatgpt-on-wechat CowAgent 2.0.4 Administrative HTTP Endpoint missing authentication (Issue 2733)](https://vuldb.com/vuln/356990)
   - [CVE-2026-6129 | zhayujie chatgpt-on-wechat CowAgent up to 2.0.4 Agent Mode Service missing authentication (Issue 2741)](https://vuldb.com/vuln/356992)
   - [CVE-2026-6130 | chatboxai chatbox up to 1.20.0 Model Context Protocol Server Management System ipc-stdio-transport.ts StdioClientTransport args/env os command injection (Issue 3627)](https://vuldb.com/vuln/356993)
+- 不安全
+  - [CPUID 网站下载链接被劫持传播恶意程序](https://buaq.net/go-409504.html)
+  - [逾八成欧洲人不信任美国和中国科技公司](https://buaq.net/go-409503.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [CPUID 网站下载链接被劫持传播恶意程序](https://www.solidot.org/story?sid=84023)
 - 黑海洋
   - [OpenAI指控马斯克搞法律突袭 扰乱诉讼](https://blog.upx8.com/OpenAI%E6%8C%87%E6%8E%A7%E9%A9%AC%E6%96%AF%E5%85%8B%E6%90%9E%E6%B3%95%E5%BE%8B%E7%AA%81%E8%A2%AD-%E6%89%B0%E4%B9%B1%E8%AF%89%E8%AE%BC)
+  - [逾八成欧洲人不信任美国和中国科技公司](https://blog.upx8.com/%E9%80%BE%E5%85%AB%E6%88%90%E6%AC%A7%E6%B4%B2%E4%BA%BA%E4%B8%8D%E4%BF%A1%E4%BB%BB%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8)
