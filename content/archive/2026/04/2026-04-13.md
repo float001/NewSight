@@ -2,13 +2,21 @@
 
 - 2Libra
   - [24 年 12 月买的徕芬吹风筒坏掉了，返厂检修，对品控很失望](https://2libra.com/post/computers-accessories/Fzn4DsE)
+- daringfireball.net
+  - [Golden Tickets](https://www.presentandcorrect.com/blogs/blog/golden-tickets)
 - Hacker News Frontpage
   - [Building a SaaS in 2026 Using Only EU Infrastructure](https://eualternative.eu/guides/building-saas-eu-stack/)
+  - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
 - HackerNoon
   - [China Gave Its AI Away](https://hackernoon.com/china-gave-its-ai-away?source=rss)
+- idiallo.com
+  - [Your AWS Certificate Makes You an AWS Salesman](https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed)
+- Security Affairs
+  - [Adobe fixes actively exploited Acrobat Reader flaw CVE-2026-34621](https://securityaffairs.com/190697/security/adobe-fixes-actively-exploited-acrobat-reader-flaw-cve-2026-34621.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2020-24586 exploit](https://sploitus.com/exploit?id=E3AC4D1E-6D98-5584-88D0-C274C21F6239&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=85EF54BC-A345-51E2-8911-097DB2730411&utm_source=rss&utm_medium=rss)
+  - [exploit900 exploit](https://sploitus.com/exploit?id=0348A057-141B-5578-BDFA-CC82671A0BFD&utm_source=rss&utm_medium=rss)
   - [patchbot exploit](https://sploitus.com/exploit?id=1153CFD2-9DE7-56B3-B522-2CEBEF6D2533&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [X says it’s reducing payments to clickbait accounts](https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/)
