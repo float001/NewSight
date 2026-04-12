@@ -3,6 +3,7 @@
 - 2Libra
   - [m2 用户请谨慎升级 26.4](https://2libra.com/post/apple/wfN4psr)
   - [PureMac：一款免费开源的 CleanMyMac 平替](https://2libra.com/post/tools-sharing/xjK7V54)
+  - [trae solo 模式真不错](https://2libra.com/post/ai-tools/JbHZMfE)
   - [XChat 将于 4 月 17 日正式上线，现在已开放下载预约](https://2libra.com/post/sharing-discoveries/Wcin_uV)
   - [夸克网盘大规模清理海外剧资源，相关内容陆续下架删除](https://2libra.com/post/tech-news/BEH6isd)
   - [建议优化 @echo 帖子标题](https://2libra.com/post/community/gPNREUQ)
@@ -26,6 +27,7 @@
   - [新版“海南省智能网联汽车管理办法”拟4、5月发布](https://36kr.com/newsflashes/3763276186272518?f=rss)
   - [新西兰联储主席：将宣布提高货币政策决策透明度](https://36kr.com/newsflashes/3763249129226754?f=rss)
   - [日本3月机床订单额增长28% 海外订单增40%](https://36kr.com/newsflashes/3763344613638662?f=rss)
+  - [星元晶算发布1nm芯片路线图](https://36kr.com/newsflashes/3763627559780867?f=rss)
   - [柬埔寨扶南德佐综合水利项目举行第二阶段开工仪式](https://36kr.com/newsflashes/3763248498475780?f=rss)
   - [欧盟航空燃油三周后或系统性短缺](https://36kr.com/newsflashes/3763180182356744?f=rss)
   - [海南自贸港全球产业招商大会低空经济专场将于14日举办](https://36kr.com/newsflashes/3763300885119745?f=rss)
@@ -89,6 +91,7 @@
   - [Exploit for Cross-site Scripting in Pw Omega-Psir exploit](https://sploitus.com/exploit?id=5A907AFA-12F4-5A01-8740-7146E6F96289&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-site Scripting in Saleor exploit](https://sploitus.com/exploit?id=1B416F2B-FA8C-5186-92DC-A944DE9B0A23&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-66024 exploit](https://sploitus.com/exploit?id=1A9C70DB-583D-522B-8A60-57D666A76FE3&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-40175 exploit](https://sploitus.com/exploit?id=D7A9E901-A077-51DA-9D6E-ADA08E39F745&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-4106 exploit](https://sploitus.com/exploit?id=C126C60F-5A69-51DC-AAC8-EA61B8E617A8&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Roundcube Webmail exploit](https://sploitus.com/exploit?id=46450153-A482-5A9B-B23D-BD1ECCA616A9&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authorization in Wbce Wbce_Cms exploit](https://sploitus.com/exploit?id=A4CCC0F6-FE50-594E-8646-EF573BFFE4D7&utm_source=rss&utm_medium=rss)
@@ -118,10 +121,12 @@
   - [Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/)
   - [Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups](https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/)
 - The Decoder
+  - [Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find](https://the-decoder.com/agent-skills-look-great-in-benchmarks-but-fall-apart-under-realistic-conditions-researchers-find/)
   - [Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks](https://the-decoder.com/arcee-ai-spent-half-its-venture-capital-to-build-an-open-reasoning-model-that-rivals-claude-opus-in-agent-tasks/)
   - [Molotov suspect who attacked Sam Altman's home was likely a Pause AI follower with AI extinction fears](https://the-decoder.com/molotov-suspect-who-attacked-sam-altmans-home-was-likely-a-pause-ai-follower-with-ai-extinction-fears/)
   - [Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions](https://the-decoder.com/stalking-victim-sues-openai-claiming-chatgpt-fueled-her-ex-partners-delusions/)
 - The Verge
+  - [Allow me to explain why I love this camera that can’t shoot color](https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review)
   - [The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving)
 - VulDB Recent Entries
   - [CVE-2026-1116 | parisneo lollms up to 2.1.x AppLollmsMessage from_dict content cross site scripting](https://vuldb.com/vuln/356991)
@@ -148,6 +153,8 @@
   - [CVE-2026-6140 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi UploadFirmwareFile FileName os command injection](https://vuldb.com/vuln/357004)
 - Wired
   - [The 3 Best Mug Warmers of 2026: Better Than the Ember Mug?](https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/)
+  - [The Screen Time Maximalists Who Spend an Ungodly Amount of Time on Their Phones](https://www.wired.com/story/the-screenmaxxers-who-spend-every-waking-hour-on-their-phones/)
+  - [There’s a Secret Ingredient to Making Luxury Ice at Home](https://www.wired.com/story/secret-ingredient-to-making-luxury-ice-at-home/)
 - 不安全
   - [App using Cognito for SSO? Use this Methodology to find High Severity Issues](https://buaq.net/go-409507.html)
   - [App using Cognito for SSO? Use this Methodology to find High Severity Issues](https://buaq.net/go-409514.html)
