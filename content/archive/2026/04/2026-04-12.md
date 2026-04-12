@@ -3,6 +3,7 @@
 - daringfireball.net
   - [Pan American Luggage Labels](https://ellafreire.com/collections/pan-american-luggage-labels)
 - Hacker News Frontpage
+  - [AI Job Loss Tracker](https://jobloss.ai/)
   - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
   - [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 - Security Affairs
@@ -17,6 +18,7 @@
   - [Exploit for Cross-site Scripting in Pw Omega-Psir exploit](https://sploitus.com/exploit?id=5A907AFA-12F4-5A01-8740-7146E6F96289&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-site Scripting in Saleor exploit](https://sploitus.com/exploit?id=1B416F2B-FA8C-5186-92DC-A944DE9B0A23&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-66024 exploit](https://sploitus.com/exploit?id=1A9C70DB-583D-522B-8A60-57D666A76FE3&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-4106 exploit](https://sploitus.com/exploit?id=C126C60F-5A69-51DC-AAC8-EA61B8E617A8&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Roundcube Webmail exploit](https://sploitus.com/exploit?id=46450153-A482-5A9B-B23D-BD1ECCA616A9&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authorization in Wbce Wbce_Cms exploit](https://sploitus.com/exploit?id=A4CCC0F6-FE50-594E-8646-EF573BFFE4D7&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Neutralization of Special Elements in Data Query Logic in Facturascripts exploit](https://sploitus.com/exploit?id=DA27B9A6-C321-5BB6-8030-42C8E8069D92&utm_source=rss&utm_medium=rss)
