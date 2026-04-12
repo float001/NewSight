@@ -20,14 +20,20 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2020-24586 exploit](https://sploitus.com/exploit?id=E3AC4D1E-6D98-5584-88D0-C274C21F6239&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=85EF54BC-A345-51E2-8911-097DB2730411&utm_source=rss&utm_medium=rss)
+  - [Exploit for Path Traversal in Gogs exploit](https://sploitus.com/exploit?id=CBC07C43-DD2F-5789-AB60-50FCEF7069A1&utm_source=rss&utm_medium=rss)
   - [exploit900 exploit](https://sploitus.com/exploit?id=0348A057-141B-5578-BDFA-CC82671A0BFD&utm_source=rss&utm_medium=rss)
   - [patchbot exploit](https://sploitus.com/exploit?id=1153CFD2-9DE7-56B3-B522-2CEBEF6D2533&utm_source=rss&utm_medium=rss)
+  - [web-pentest-tool exploit](https://sploitus.com/exploit?id=82CB25C3-5704-5BF0-A8CE-A7DAD1B4C695&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Apple reportedly testing four designs for upcoming smart glasses](https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/)
   - [X says it’s reducing payments to clickbait accounts](https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/)
 - The Verge
   - [Rockstar Games says hack will have ‘no impact’](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact)
   - [You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2](https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale)
 - VulDB Recent Entries
+  - [CVE-2026-40385 | libexif up to 0.6.25 Nikon MakerNote integer overflow](https://vuldb.com/vuln/357044)
+  - [CVE-2026-40386 | libexif up to 0.6.25 MakerNote Decoding integer underflow](https://vuldb.com/vuln/357043)
+  - [CVE-2026-40393 | mesa3d Mesa up to 25.3.5/26.0.0 WebGPU out-of-bounds write](https://vuldb.com/vuln/357042)
   - [CVE-2026-6154 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setWizardCfg wizard os command injection](https://vuldb.com/vuln/357034)
   - [CVE-2026-6155 | Totolink A7100RU 7.4cu.2313 CGI /cgi-bin/cstecgi.cgi setWanCfg pppoeServiceName os command injection](https://vuldb.com/vuln/357035)
   - [CVE-2026-6156 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setIpQosRules Comment os command injection](https://vuldb.com/vuln/357036)
