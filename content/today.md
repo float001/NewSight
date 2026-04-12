@@ -32,10 +32,13 @@
   - [深圳邮轮母港一季度迎客110万人次同比增长6%](https://36kr.com/newsflashes/3763181672448516?f=rss)
   - [特斯拉受监督版全自动驾驶系统获准在荷兰使用](https://36kr.com/newsflashes/3763462028067590?f=rss)
   - [特朗普政府将打击赴美生子](https://36kr.com/newsflashes/3763463510901250?f=rss)
+  - [粤桂股份：第一季度净利润同比预增67.72%—98.53%](https://36kr.com/newsflashes/3763569003676169?f=rss)
   - [联合国环境署呼吁推动航天活动可持续发展](https://36kr.com/newsflashes/3763344231645699?f=rss)
   - [自然资源部：一季度我国办理不动产“带押过户”9万笔](https://36kr.com/newsflashes/3763453110502153?f=rss)
+  - [荣耀机器人“闪电”“元气仔”出征北京亦庄马拉松](https://36kr.com/newsflashes/3763625016476420?f=rss)
   - [菲律宾要求Facebook遏制虚假信息，并警告或将采取法律行动](https://36kr.com/newsflashes/3763244375458568?f=rss)
   - [超七成日本人担心汽油短缺](https://36kr.com/newsflashes/3763275088003849?f=rss)
+  - [轻舟智航于骞：智能汽车的AI能力已完成三次关键进化，2026年迈入超人智能的新阶段](https://36kr.com/newsflashes/3763626360636167?f=rss)
   - [长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上](https://36kr.com/newsflashes/3763278385349122?f=rss)
   - [长药退：公司股票将在4月13日被摘牌](https://36kr.com/newsflashes/3763565289014017?f=rss)
   - [马斯克：Grok要达到甚至超越Claude Opus 4.6的水平，需要等到六月](https://36kr.com/newsflashes/3763157489320457?f=rss)
@@ -45,6 +48,7 @@
   - [Daily Threat Briefing – April 12, 2026](https://defend.network/briefings/iran-plc-russian-token-theft-critical-2026-04-12.html)
 - Hacker News Frontpage
   - [AI Job Loss Tracker](https://jobloss.ai/)
+  - [AI Will Be Met with Violence, and Nothing Good Will Come of It](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
   - [Americans still opt for print books over digital or audio versions](https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/)
   - [Apple update looks like Czech mate for locked-out iPhone user](https://www.theregister.com/2026/04/12/ios_passcode_bug/)
   - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
@@ -52,6 +56,12 @@
   - [Pope Leo XIV denounces the 'delusion of omnipotence' he says fuels the Iran war](https://www.politico.com/news/2026/04/11/pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-us-israeli-war-in-iran-00868142)
   - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional)
   - [We spoke to the man making viral Lego-style AI videos for Iran](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
+- HackerNoon
+  - [Architecture for Compliance Scaling Microservices with DDD for High Volume Global Enterprise Systems](https://hackernoon.com/architecture-for-compliance-scaling-microservices-with-ddd-for-high-volume-global-enterprise-systems?source=rss)
+  - [How to Evaluate an AI Persona: Beyond Benchmarks and Vibes](https://hackernoon.com/how-to-evaluate-an-ai-persona-beyond-benchmarks-and-vibes?source=rss)
+  - [Meet the Writer: Hacker Noon's Contributor Pavel Manovich, Founder & Product Builder](https://hackernoon.com/meet-the-writer-hacker-noons-contributor-pavel-manovich-founder-and-product-builder?source=rss)
+  - [Resident Evil Star Milla Jovovich Shipped an AI Memory System. Devs Shredded Its Benchmarks](https://hackernoon.com/resident-evil-star-milla-jovovich-shipped-an-ai-memory-system-devs-shredded-its-benchmarks?source=rss)
+  - [When AI Becomes the Voice You Think With](https://hackernoon.com/when-ai-becomes-the-voice-you-think-with?source=rss)
 - ICT Security Magazine
   - [APT31 spiava la Russia: cyber spionaggio cinese infiltrato nel tech russo per anni](https://www.ictsecuritymagazine.com/notizie/apt31-cina-spia-russia/)
 - InfoSec Write-ups - Medium
@@ -100,6 +110,7 @@
   - [Exploit for SQL Injection in Facturascripts exploit](https://sploitus.com/exploit?id=5F88E23B-F0F5-5B58-AEBA-7B3A66794AA0&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Wbce Wbce_Cms exploit](https://sploitus.com/exploit?id=7DAB8EC4-5C8D-51BC-8501-5970FAB6970E&utm_source=rss&utm_medium=rss)
   - [neocorp-ctf-backend exploit](https://sploitus.com/exploit?id=86975A33-9062-5F8F-A318-E56A49193BED&utm_source=rss&utm_medium=rss)
+  - [pentest-autopilot-mcps exploit](https://sploitus.com/exploit?id=F353D1E1-3DB7-5615-9A8E-2CFCC60EADC9&utm_source=rss&utm_medium=rss)
   - [vulnscanx exploit](https://sploitus.com/exploit?id=461CC585-F55A-56F8-9576-4A8E0AC0FF41&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok](https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/)
@@ -135,6 +146,8 @@
   - [CVE-2026-6138 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi setAccessDeviceCfg mac os command injection](https://vuldb.com/vuln/357002)
   - [CVE-2026-6139 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi UploadOpenVpnCert FileName os command injection](https://vuldb.com/vuln/357003)
   - [CVE-2026-6140 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi UploadFirmwareFile FileName os command injection](https://vuldb.com/vuln/357004)
+- Wired
+  - [The 3 Best Mug Warmers of 2026: Better Than the Ember Mug?](https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/)
 - 不安全
   - [App using Cognito for SSO? Use this Methodology to find High Severity Issues](https://buaq.net/go-409507.html)
   - [App using Cognito for SSO? Use this Methodology to find High Severity Issues](https://buaq.net/go-409514.html)
@@ -148,6 +161,7 @@
   - [The Accidental Open Source: What Claude Code’s Leaked Source Code Tells Us About the Future of AI…](https://buaq.net/go-409513.html)
   - [Thick Client Pentest for Kiddos](https://buaq.net/go-409516.html)
   - [ThreatLens: Automating IoC Detection Directly in Your Browser](https://buaq.net/go-409512.html)
+  - [大量顶尖科研人才正回流中国](https://buaq.net/go-409532.html)
   - [逾八成欧洲人不信任美国和中国科技公司](https://buaq.net/go-409503.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -158,4 +172,5 @@
 - 黑海洋
   - [IPv6 一键开关 - Windows IPv6 管理工具](https://blog.upx8.com/IPv6-Windows-IPv6)
   - [OpenAI指控马斯克搞法律突袭 扰乱诉讼](https://blog.upx8.com/OpenAI%E6%8C%87%E6%8E%A7%E9%A9%AC%E6%96%AF%E5%85%8B%E6%90%9E%E6%B3%95%E5%BE%8B%E7%AA%81%E8%A2%AD-%E6%89%B0%E4%B9%B1%E8%AF%89%E8%AE%BC)
+  - [大量顶尖科研人才正回流中国](https://blog.upx8.com/%E5%A4%A7%E9%87%8F%E9%A1%B6%E5%B0%96%E7%A7%91%E7%A0%94%E4%BA%BA%E6%89%8D%E6%AD%A3%E5%9B%9E%E6%B5%81%E4%B8%AD%E5%9B%BD)
   - [逾八成欧洲人不信任美国和中国科技公司](https://blog.upx8.com/%E9%80%BE%E5%85%AB%E6%88%90%E6%AC%A7%E6%B4%B2%E4%BA%BA%E4%B8%8D%E4%BF%A1%E4%BB%BB%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8)
