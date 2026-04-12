@@ -1,15 +1,18 @@
 # 今日安全资讯（2026-04-12）
 
 - 2Libra
+  - [AI 厂家为啥不弄类似公钥私钥呢](https://2libra.com/post/ai-tools/-ll_4Uw)
   - [m2 用户请谨慎升级 26.4](https://2libra.com/post/apple/wfN4psr)
   - [PureMac：一款免费开源的 CleanMyMac 平替](https://2libra.com/post/tools-sharing/xjK7V54)
   - [trae solo 模式真不错](https://2libra.com/post/ai-tools/JbHZMfE)
   - [XChat 将于 4 月 17 日正式上线，现在已开放下载预约](https://2libra.com/post/sharing-discoveries/Wcin_uV)
+  - [一些不安全的软件和硬件](https://2libra.com/post/phone/KplCjEk)
   - [夸克网盘大规模清理海外剧资源，相关内容陆续下架删除](https://2libra.com/post/tech-news/BEH6isd)
   - [建议优化 @echo 帖子标题](https://2libra.com/post/community/gPNREUQ)
   - [种种迹象显示苹果准备推出 M5 芯片版 Mac mini / Mac Studio。但从目前的行情来看，全球内存芯片短缺潮影响了供货， 都说库克是“库存克星”，显然是库存没有管理好，是另一种失职。](https://2libra.com/post/apple/yY151d9)
   - [谁不希望自己的手机里“住”着一个贾维斯呢 😍， Gemma 4 入住手机攻略](https://2libra.com/post/ai-tools/We92oFK)
   - [这几天的天气好到不想被辜负。看看你那里的天空。](https://2libra.com/post/small-things/WUBKL-Z)
+  - [阿里的 coding plan lite 版本居然连续费和升级都关闭了，这是什么情况](https://2libra.com/post/large-models/kMcpOBL)
 - 36氪
   - [上海二手房单日成交1632套：连续打破5年峰值纪录 高端房源成交占比提升](https://36kr.com/newsflashes/3763453660561920?f=rss)
   - [中央台办受权发布十项促进两岸交流合作的政策措施](https://36kr.com/newsflashes/3763238355501831?f=rss)
@@ -44,6 +47,8 @@
   - [长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上](https://36kr.com/newsflashes/3763278385349122?f=rss)
   - [长药退：公司股票将在4月13日被摘牌](https://36kr.com/newsflashes/3763565289014017?f=rss)
   - [马斯克：Grok要达到甚至超越Claude Opus 4.6的水平，需要等到六月](https://36kr.com/newsflashes/3763157489320457?f=rss)
+- Ars Technica
+  - [Shock from Iran war has Trump's vision for US energy dominance flailing](https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/)
 - daringfireball.net
   - [Pan American Luggage Labels](https://ellafreire.com/collections/pan-american-luggage-labels)
 - defend.network
@@ -77,6 +82,8 @@
   - [ThreatLens: Automating IoC Detection Directly in Your Browser](https://infosecwriteups.com/threatlens-automating-ioc-detection-directly-in-your-browser-9547e3c7defa?source=rss----7b722bfd1b8d---4)
 - joanwestenberg.com
   - [Optimism is not a personality flaw](https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/)
+- Recent Commits to cve:main
+  - [Update Sun Apr 12 11:18:45 UTC 2026](https://github.com/trickest/cve/commit/28abb9503d28d59c03e83d3abc80e080749431a5)
 - Security Affairs
   - [Censys finds 5,219 devices exposed to attacks by Iranian APTs, majority in U.S.](https://securityaffairs.com/190646/ics-scada/censys-finds-5219-devices-exposed-to-attacks-by-iranian-apts-majority-in-u-s.html)
   - [GlassWorm evolves with Zig dropper to infect multiple developer tools](https://securityaffairs.com/190638/malware/glassworm-evolves-with-zig-dropper-to-infect-multiple-developer-tools.html)
@@ -112,9 +119,11 @@
   - [Exploit for SQL Injection in Egroupware exploit](https://sploitus.com/exploit?id=C39AE5F1-3CBE-5826-82A8-96B23C291ABC&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Facturascripts exploit](https://sploitus.com/exploit?id=5F88E23B-F0F5-5B58-AEBA-7B3A66794AA0&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Wbce Wbce_Cms exploit](https://sploitus.com/exploit?id=7DAB8EC4-5C8D-51BC-8501-5970FAB6970E&utm_source=rss&utm_medium=rss)
+  - [Exploit for Use After Free in Haxx Curl exploit](https://sploitus.com/exploit?id=6B0F6C20-E0C4-5A6C-9C4B-A875D999DBC1&utm_source=rss&utm_medium=rss)
   - [neocorp-ctf-backend exploit](https://sploitus.com/exploit?id=86975A33-9062-5F8F-A318-E56A49193BED&utm_source=rss&utm_medium=rss)
   - [pentest-autopilot-mcps exploit](https://sploitus.com/exploit?id=F353D1E1-3DB7-5615-9A8E-2CFCC60EADC9&utm_source=rss&utm_medium=rss)
   - [vulnscanx exploit](https://sploitus.com/exploit?id=461CC585-F55A-56F8-9576-4A8E0AC0FF41&utm_source=rss&utm_medium=rss)
+  - [Webite-Security-Scanner exploit](https://sploitus.com/exploit?id=AB351A27-6E46-5EFC-B88F-38417224545D&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok](https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/)
   - [Kalshi wins temporary pause in Arizona criminal case](https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/)
@@ -122,11 +131,13 @@
   - [Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups](https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/)
 - The Decoder
   - [Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find](https://the-decoder.com/agent-skills-look-great-in-benchmarks-but-fall-apart-under-realistic-conditions-researchers-find/)
+  - [Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior](https://the-decoder.com/anthropic-seeks-advice-from-christian-leaders-on-claudes-moral-and-spiritual-behavior/)
   - [Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks](https://the-decoder.com/arcee-ai-spent-half-its-venture-capital-to-build-an-open-reasoning-model-that-rivals-claude-opus-in-agent-tasks/)
   - [Molotov suspect who attacked Sam Altman's home was likely a Pause AI follower with AI extinction fears](https://the-decoder.com/molotov-suspect-who-attacked-sam-altmans-home-was-likely-a-pause-ai-follower-with-ai-extinction-fears/)
   - [Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions](https://the-decoder.com/stalking-victim-sues-openai-claiming-chatgpt-fueled-her-ex-partners-delusions/)
 - The Verge
   - [Allow me to explain why I love this camera that can’t shoot color](https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review)
+  - [The AI code wars are heating up](https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic)
   - [The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving)
 - VulDB Recent Entries
   - [CVE-2026-1116 | parisneo lollms up to 2.1.x AppLollmsMessage from_dict content cross site scripting](https://vuldb.com/vuln/356991)
@@ -152,9 +163,12 @@
   - [CVE-2026-6139 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi UploadOpenVpnCert FileName os command injection](https://vuldb.com/vuln/357003)
   - [CVE-2026-6140 | Totolink A7100RU 7.4cu.2313_b20191024 CGI /cgi-bin/cstecgi.cgi UploadFirmwareFile FileName os command injection](https://vuldb.com/vuln/357004)
 - Wired
+  - [Best 2-in-1 Laptops (2026): Microsoft, Lenovo, and the iPad](https://www.wired.com/story/best-2-in-1-laptops/)
   - [The 3 Best Mug Warmers of 2026: Better Than the Ember Mug?](https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/)
   - [The Screen Time Maximalists Who Spend an Ungodly Amount of Time on Their Phones](https://www.wired.com/story/the-screenmaxxers-who-spend-every-waking-hour-on-their-phones/)
   - [There’s a Secret Ingredient to Making Luxury Ice at Home](https://www.wired.com/story/secret-ingredient-to-making-luxury-ice-at-home/)
+  - [Why Is It So Hard to Fix an Electric Bike? (2026)](https://www.wired.com/story/why-is-it-so-hard-to-fix-an-electric-bike/)
+  - [‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For](https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/)
 - 不安全
   - [App using Cognito for SSO? Use this Methodology to find High Severity Issues](https://buaq.net/go-409507.html)
   - [App using Cognito for SSO? Use this Methodology to find High Severity Issues](https://buaq.net/go-409514.html)
