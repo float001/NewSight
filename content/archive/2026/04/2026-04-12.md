@@ -136,6 +136,7 @@
   - [Webite-Security-Scanner exploit](https://sploitus.com/exploit?id=AB351A27-6E46-5EFC-B88F-38417224545D&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok](https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/)
+  - [At the HumanX conference, everyone was talking about Claude](https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/)
   - [Kalshi wins temporary pause in Arizona criminal case](https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/)
   - [Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/)
   - [Slate Auto: Everything you need to know about the Bezos-backed EV startup](https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/)
@@ -152,7 +153,12 @@
   - [Allow me to explain why I love this camera that can’t shoot color](https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review)
   - [The AI code wars are heating up](https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic)
   - [The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving)
+  - [You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99](https://www.theverge.com/gadgets/910482/2021-amazon-kindle-paperwhite-signature-edition-refurbished-woot-deal-sale)
 - VulDB Recent Entries
+  - [CVE-2019-25697 | VictorAlagwu CMSsite 1.0 GET Request category.php cat_id sql injection (Exploit 46259 / EDB-46259)](https://vuldb.com/vuln/357010)
+  - [CVE-2019-25703 | ImpressCMS 1.3.11 POST Request admin.php bid sql injection (Exploit 46239 / EDB-46239)](https://vuldb.com/vuln/357011)
+  - [CVE-2019-25707 | eBrigade ERP 4.5 pdf.php ID sql injection (Exploit 46117 / EDB-46117)](https://vuldb.com/vuln/357008)
+  - [CVE-2019-25710 | Dolibarr ERP-CRM 8.0.4 POST Parameter dict.php rowid sql injection (Exploit 46095 / EDB-46095)](https://vuldb.com/vuln/357009)
   - [CVE-2026-1116 | parisneo lollms up to 2.1.x AppLollmsMessage from_dict content cross site scripting](https://vuldb.com/vuln/356991)
   - [CVE-2026-31413 | Linux Kernel up to 6.12.79/6.18.20/6.19.10/7.0-rc1/7.0-rc4 bpf maybe_fork_scalars runtime out-of-bounds](https://vuldb.com/vuln/356994)
   - [CVE-2026-31845 | Rukovoditel CRM up to 3.6/3.6.4 API Endpoint /api/tel/zadarma.php zd_echo cross site scripting](https://vuldb.com/vuln/356988)
