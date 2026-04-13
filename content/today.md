@@ -13,6 +13,7 @@
   - [《红色沙漠》点评：9 分｜量大管饱的开放世界游戏，该有的开放世界特性基本都有，除了有几个任务引导实在一言难尽外，其实还是挺不错的。另外就是团队的更新积极性可以和《无人深空》坐一桌。](https://2libra.com/post/game-share/YszdON3)
   - [【原创笔记】匈牙利大变局：中国汽车出海的地缘政治考验](https://2libra.com/post/go-global/_EL97nD)
   - [【抽象误会】2 站的水友还是太权威了](https://2libra.com/post/forum-function/ekbJYYV)
+  - [【💰】vscode 在连接到 wsl 时后左边资源管理器显示如何屏蔽掉左边的 dot(.)开头文件(已尽力版)](https://2libra.com/post/tech-qa/9YjNsJB)
   - [【💰】【投票】AI 判官你觉得这个回复是 ai 还是人类](https://2libra.com/post/forum-function/8arAVNK)
   - [【💰】【投票】vibe coding 的时代下，jB 家的 IDE 还有必要续费吗？](https://2libra.com/post/software-tools/stFVISO)
   - [【💰】海外地区电话号码](https://2libra.com/post/tech-qa/NFC4xGO)
@@ -229,6 +230,7 @@
   - [高盛股票交易业务收入再创新高](https://36kr.com/newsflashes/3765242467549697?f=rss)
   - [龙湖集团：一季度总合同销售额74.6亿元](https://36kr.com/newsflashes/3765149643408133?f=rss)
 - 404 Media
+  - [How the Internet Became Hell (with Whitney Phillips)](https://www.404media.co/how-the-internet-became-hell-with-whitney-phillips/)
   - [WebinarTV Secretly Scraped Zoom Meetings of Anonymous Recovery Programs](https://www.404media.co/webinartv-secretly-scraped-zoom-meetings-of-anonymous-recovery-programs/)
 - Bruce's Blog
   - [Sub-Agent Architecture for AI Coding Harnesses: When to Spawn, How to Route, What It Costs](http://www.heyuan110.com/posts/ai/2026-04-13-harness-subagent-architecture/)
@@ -255,6 +257,7 @@
   - [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
   - [They See Your Photos](https://theyseeyourphotos.com/)
   - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/)
+  - [We May Be Living Through the Most Consequential Hundred Days in Cyber History](https://ringmast4r.substack.com/p/we-may-be-living-through-the-most)
 - HackerNews
   - [CPUID 遭入侵，CPU-Z 和 HWMonitor 下载链接被篡改传播恶意软件](https://hackernews.cc/archives/64101)
   - [Marimo 关键预认证 RCE 漏洞遭主动利用](https://hackernews.cc/archives/64099)
@@ -272,6 +275,7 @@
   - [AI Act, l’Unione Europea bandisce le “nudify apps”](https://www.ictsecuritymagazine.com/articoli/ai-act-nudify-apps/)
   - [Anthropic lancia il Project Glasswing: Claude Mythos trova migliaia di zero-day in ogni sistema operativo e browser](https://www.ictsecuritymagazine.com/notizie/anthropic-project-glasswing/)
   - [Gestire il rischio cyber oggi: il modello Cyber Resilience Lifecycle di ReeVo](https://www.ictsecuritymagazine.com/notizie/cyber-resilience-reevo/)
+  - [Violenza di genere online: Polizia Postale, Big Tech e società civile a confronto](https://www.ictsecuritymagazine.com/notizie/violenza-di-genere-online-polizia-postale/)
 - idiallo.com
   - [You paid for it, you should be comfortable in it](https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed)
   - [Your AWS Certificate Makes You an AWS Salesman](https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed)
@@ -285,6 +289,7 @@
   - [Sometimes powerful people just do dumb shit](https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/)
 - johndcook.com
   - [Lunar period approximations](https://www.johndcook.com/blog/2026/04/12/lunations/)
+  - [Mathematical minimalism](https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/)
 - MIT Technology Review
   - [The Download: how humans make decisions, and Moderna’s “vaccine” word games](https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/)
 - Payatu
@@ -313,6 +318,7 @@
   - [cve exploit](https://sploitus.com/exploit?id=5EFA19F3-C30F-56FB-BAE4-F038A8CC20F6&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=0BE42E60-0AF7-5A6A-BDE6-3B3550243F5B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2020-24586 exploit](https://sploitus.com/exploit?id=E3AC4D1E-6D98-5584-88D0-C274C21F6239&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-66849 exploit](https://sploitus.com/exploit?id=B449A2D2-373F-526D-ABF1-E90DAB4E08EA&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=85EF54BC-A345-51E2-8911-097DB2730411&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Gogs exploit](https://sploitus.com/exploit?id=CBC07C43-DD2F-5789-AB60-50FCEF7069A1&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Xwiki exploit](https://sploitus.com/exploit?id=24C62B95-2460-5B0D-A406-3A11B2C4D26A&utm_source=rss&utm_medium=rss)
@@ -323,6 +329,7 @@
   - [xss_hunter.py exploit](https://sploitus.com/exploit?id=F859ADBE-B161-5654-8C85-3BD4CA44953B&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Apple reportedly testing four designs for upcoming smart glasses](https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/)
+  - [Hack at Anodot leaves over a dozen breached companies facing extortion](https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over-a-dozen-breached-companies-facing-extortion/)
   - [Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat](https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/)
   - [Slate Auto raises $650M to fund its affordable EV truck plans](https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/)
   - [The largest orbital compute cluster is open for business](https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/)
@@ -447,6 +454,8 @@
   - [CVE-2026-6204 | LibreNMS up to 26.2.x Netcommand Feature os command injection (GHSA-pr3g-phhr-h8fh)](https://vuldb.com/vuln/357126)
   - [CVE-2026-6215 | DbGate up to 7.1.4 REST/GraphQL openApiDriver.ts apiServerUrl1 server-side request forgery](https://vuldb.com/vuln/357134)
   - [CVE-2026-6216 | DbGate up to 7.1.4 SVG Icon String FontIcon.svelte applicationIcon cross site scripting](https://vuldb.com/vuln/357135)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Deep Scan: Expanding Vulnerability Detection Beyond Traditional Boundaries](https://blog.qualys.com/category/product-tech)
 - Wired
   - [BYD's Fastest-Charging Car in the World Is Astonishing—in Good and Bad Ways](https://www.wired.com/story/byd-denza-z9-gt-fastest-charging-car-in-the-world/)
   - [The 4 Best Water Filter Pitchers (2026): PFAS, Microplastics](https://www.wired.com/story/best-water-filter-pitchers/)
