@@ -7,6 +7,7 @@
   - [John Martellaro, RIP](https://geektells.com/john-martellaro-remembrance/)
   - [MacOS Tip: Enable the Zoom ‘Peek’ Gesture](https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/)
   - [Marcin Wichary Visits the Large Scale Systems Museum](https://flickr.com/photos/mwichary/albums/72177720332956990/)
+  - [Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier](https://mastodon.social/@tuomas_h/116397694769738857)
 - darkreading
   - [Empty Attestations: OT Lacks the Tools for Cryptographic Readiness](https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness)
 - Data Breach
@@ -19,6 +20,7 @@
   - [Austerity Creates Fascism](https://pluralistic.net/2026/04/12/always-great/)
   - [Claude Mythos: The System Card](https://thezvi.substack.com/p/claude-mythos-the-system-card)
   - [Evaluation of Claude Mythos Preview's cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities)
+  - [GitHub Stacked PRs](https://github.github.com/gh-stack/)
   - [Shape Grammar](https://en.wikipedia.org/wiki/Shape_grammar)
   - [Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours](https://www.ithihasas.in)
   - [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
@@ -40,7 +42,9 @@
   - [Booking.com confirms hackers accessed customers’ data](https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/)
   - [FBI announces takedown of phishing operation that targeted thousands of victims](https://techcrunch.com/2026/04/13/fbi-announces-takedown-of-phishing-operation-that-targeted-thousands-of-victims/)
   - [IBM pays $17M fine to end DOJ suit over DEI programs](https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs/)
+  - [Microsoft is officially killing its Outlook Lite app next month](https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/)
   - [Stanford report highlights growing disconnect between AI insiders and everyone else](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
+  - [Thousands of rare concert recordings are landing on the Internet Archive — listen now](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
 - The Decoder
   - [Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost](https://the-decoder.com/google-now-offers-ultra-subscribers-video-generation-with-veo-3-1-lite-at-no-extra-credit-cost/)
   - [New AI model generates 45-minute lip-synced video from one photo and runs in real time](https://the-decoder.com/new-ai-model-generates-45-minute-lip-synced-video-from-one-photo-and-runs-in-real-time/)
@@ -48,6 +52,7 @@
 - The Verge
   - [AI influencers are ‘everywhere’ at Coachella](https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella)
   - [NZXT to pay $3.45 million settlement over Flex PC rentals](https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement)
+  - [RAMageddon has come for Microsoft&#8217;s Surface Pro and Surface Laptop](https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram)
   - [Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic)
   - [Xbox Game Pass &#8216;has become too expensive,’ says Microsoft’s new gaming chief in leaked memo](https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo)
   - [You can make a multicolor MacBook Neo out of Apple&#8217;s spare parts](https://www.theverge.com/tech/911172/macbook-neo-apple-spare-parts-multicolor)
@@ -68,6 +73,7 @@
   - [CVE-2026-30812 | Artica Pandora FMS up to 800 cross site scripting](https://vuldb.com/vuln/357191)
   - [CVE-2026-30813 | Artica Pandora FMS up to 800 sql injection](https://vuldb.com/vuln/357189)
   - [CVE-2026-31048 | Pyro 3.x Pickled privilege escalation](https://vuldb.com/vuln/357206)
+  - [CVE-2026-32270 | Craft CMS up to 4.10.2/5.5.4 actionPay email/shipping address/billing address information disclosure (GHSA-3vxg-x5f8-f5qf)](https://vuldb.com/vuln/357214)
   - [CVE-2026-32316 | jqlang jq up to 1.8.1 jvp_string_append/jvp_string_copy_replace_bad heap-based overflow (GHSA-q3h9-m34w-h76f)](https://vuldb.com/vuln/357204)
   - [CVE-2026-32605 | nimiq core-rs-albatross up to 1.2.x validators.num_validators out-of-bounds](https://vuldb.com/vuln/357207)
   - [CVE-2026-33555 | HAProxy up to 3.3.5 HTTP3 Parser length parameter](https://vuldb.com/vuln/357196)
@@ -89,8 +95,10 @@
   - [CVE-2026-6100 | Python CPython up to 3.14.x Decompression Call use after free (ID 148395)](https://vuldb.com/vuln/357209)
   - [CVE-2026-6231 | MongoDB C Driver up to 1.30.4/2.0.1 bson_validate input validation](https://vuldb.com/vuln/357188)
 - Wired
+  - [Marine Animals in the Strait of Hormuz Don’t Get a Ceasefire](https://www.wired.com/story/marine-animals-in-the-strait-of-hormuz-dont-get-a-ceasefire/)
   - [Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators](https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/)
   - [Staunch Trump Supporters Are Now Asking If He’s the Antichrist](https://www.wired.com/story/staunch-trump-supporters-are-now-asking-if-hes-the-antichrist/)
   - [Top iRestore Deals for Hair Growth and LED Therapy Devices](https://www.wired.com/story/irestore-anniversary-sale-2026/)
+  - [What’s in Hasan Piker’s Starter Pack? Creatine, Zyns, Signal](https://www.wired.com/story/hasan-pikers-starter-pack/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
