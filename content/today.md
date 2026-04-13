@@ -228,6 +228,8 @@
   - [高盛第一季度净营收172.3亿美元，同比增长14%](https://36kr.com/newsflashes/3765180392718852?f=rss)
   - [高盛股票交易业务收入再创新高](https://36kr.com/newsflashes/3765242467549697?f=rss)
   - [龙湖集团：一季度总合同销售额74.6亿元](https://36kr.com/newsflashes/3765149643408133?f=rss)
+- 404 Media
+  - [WebinarTV Secretly Scraped Zoom Meetings of Anonymous Recovery Programs](https://www.404media.co/webinartv-secretly-scraped-zoom-meetings-of-anonymous-recovery-programs/)
 - Bruce's Blog
   - [Sub-Agent Architecture for AI Coding Harnesses: When to Spawn, How to Route, What It Costs](http://www.heyuan110.com/posts/ai/2026-04-13-harness-subagent-architecture/)
 - Cerbero Blog
@@ -251,6 +253,8 @@
   - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
   - [Tech valuations are back to pre-AI boom levels](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)
   - [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
+  - [They See Your Photos](https://theyseeyourphotos.com/)
+  - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/)
 - HackerNews
   - [CPUID 遭入侵，CPU-Z 和 HWMonitor 下载链接被篡改传播恶意软件](https://hackernews.cc/archives/64101)
   - [Marimo 关键预认证 RCE 漏洞遭主动利用](https://hackernews.cc/archives/64099)
@@ -320,6 +324,7 @@
 - TechCrunch
   - [Apple reportedly testing four designs for upcoming smart glasses](https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/)
   - [Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat](https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/)
+  - [Slate Auto raises $650M to fund its affordable EV truck plans](https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/)
   - [The largest orbital compute cluster is open for business](https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/)
   - [Trump officials may be encouraging banks to test Anthropic’s Mythos model](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/)
   - [X says it’s reducing payments to clickbait accounts](https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/)
@@ -329,14 +334,18 @@
   - [OpenAI opens London office with room for over 500 employees](https://the-decoder.com/openai-opens-london-office-with-room-for-over-500-employees/)
   - [Sam Altman's San Francisco home hit by drive-by shooting just two days after Molotov cocktail attack](https://the-decoder.com/sam-altmans-san-francisco-home-hit-by-drive-by-shooting-just-two-days-after-molotov-cocktail-attack/)
   - [Steel giants, automakers, and banks plan to build Japan's answer to US and Chinese AI dominance](https://the-decoder.com/steel-giants-automakers-and-banks-plan-to-build-japans-answer-to-us-and-chinese-ai-dominance/)
+  - [The AI industry is running out of compute, with outages, rationing, and rising GPU prices](https://the-decoder.com/the-ai-industry-is-running-out-of-compute-with-outages-rationing-and-rising-gpu-prices/)
 - The Verge
+  - [Can Puck reinvent the news business for the influencer age?](https://www.theverge.com/podcast/910443/can-puck-reinvent-the-news-business-for-the-influencer-age)
   - [Did Neuralink make the wrong bet?](https://www.theverge.com/tech/910834/neuralink-bcis-bet)
   - [Huawei beats Apple and Samsung with new wide foldable](https://www.theverge.com/tech/910867/huawei-pura-x-max-foldable-phone-wide-china)
+  - [Mark Zuckerberg is reportedly building an AI clone to replace him in meetings](https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone)
   - [Microsoft&#8217;s new Xbox Gamepad Cursor adds a virtual mouse to handhelds](https://www.theverge.com/news/910901/microsoft-xbox-gamepad-cursor-windows-handhelds)
   - [Roblox has games again](https://www.theverge.com/games/910699/roblox-games-experiences-switch-friends-connections)
   - [Roblox will need age verification to make sure you’re at least 9 years old](https://www.theverge.com/games/910218/roblox-age-verification-check-games-kids-select-accounts)
   - [Rockstar Games says hack will have ‘no impact’](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact)
   - [Sam Altman reportedly targeted in second attack](https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting)
+  - [SwitchBot’s button-pressing robot is now available with a rechargeable battery](https://www.theverge.com/tech/909765/switchbot-bot-rechargeable-smart-home-usb-c)
   - [The Strait of Hormuz blockade is causing a slow-moving food crisis](https://www.theverge.com/science/910326/iran-strait-hormuz-fertilizer-feedstock-food-crisis)
   - [You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2](https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale)
 - VulDB Recent Entries
@@ -386,6 +395,9 @@
   - [CVE-2026-36873 | SourceCodester Basic Library System 1.0 /load_admin.php sql injection](https://vuldb.com/vuln/357129)
   - [CVE-2026-36874 | SourceCodester Basic Library System 1.0 /load_student.php sql injection](https://vuldb.com/vuln/357130)
   - [CVE-2026-36919 | SourceCodester Basic Library System 1.0 exam-update.php sql injection](https://vuldb.com/vuln/357131)
+  - [CVE-2026-36920 | SourceCodester Online Reviewer System 1.0 questions-view.php sql injection](https://vuldb.com/vuln/357136)
+  - [CVE-2026-36922 | SourceCodester Cab Management System 1.0 view_category.php sql injection](https://vuldb.com/vuln/357137)
+  - [CVE-2026-36923 | SourceCodester Cab Management System 1.0 view_booking.php sql injection](https://vuldb.com/vuln/357138)
   - [CVE-2026-3830 | WBW Product Filter for WooCommerce Plugin up to 3.1.2 on WordPress sql injection](https://vuldb.com/vuln/357095)
   - [CVE-2026-40385 | libexif up to 0.6.25 Nikon MakerNote integer overflow](https://vuldb.com/vuln/357044)
   - [CVE-2026-40386 | libexif up to 0.6.25 MakerNote Decoding integer underflow](https://vuldb.com/vuln/357043)
@@ -433,14 +445,20 @@
   - [CVE-2026-6199 | Tenda F456 1.0.0.5 /goform/qossetting fromqossetting page stack-based overflow](https://vuldb.com/vuln/357121)
   - [CVE-2026-6200 | Tenda F456 1.0.0.5 /goform/webtypelibrary formwebtypelibrary menufacturer/Go stack-based overflow](https://vuldb.com/vuln/357122)
   - [CVE-2026-6204 | LibreNMS up to 26.2.x Netcommand Feature os command injection (GHSA-pr3g-phhr-h8fh)](https://vuldb.com/vuln/357126)
+  - [CVE-2026-6215 | DbGate up to 7.1.4 REST/GraphQL openApiDriver.ts apiServerUrl1 server-side request forgery](https://vuldb.com/vuln/357134)
+  - [CVE-2026-6216 | DbGate up to 7.1.4 SVG Icon String FontIcon.svelte applicationIcon cross site scripting](https://vuldb.com/vuln/357135)
 - Wired
+  - [BYD's Fastest-Charging Car in the World Is Astonishing—in Good and Bad Ways](https://www.wired.com/story/byd-denza-z9-gt-fastest-charging-car-in-the-world/)
   - [The 4 Best Water Filter Pitchers (2026): PFAS, Microplastics](https://www.wired.com/story/best-water-filter-pitchers/)
   - [The Dumbest Hack of the Year Exposed a Very Real Problem](https://www.wired.com/story/crosswalk-city-hack-cybersecurity-lessons/)
+  - [You Need to Be More Freaked Out by Shingles](https://www.wired.com/story/shingles-is-a-bigger-deal-than-you-think/)
 - 不安全
   - [7 Privilege Management Mistakes That Put Business Data at Risk](https://buaq.net/go-409647.html)
   - [AI Only Has to Beat 3/10](https://buaq.net/go-409579.html)
+  - [Anthropic Just Gave Defenders a Firehose. They’re Already Drowning.](https://buaq.net/go-409746.html)
   - [Anthropic Mythos AI Model Strikes Fear in Trump Administration, U.S. Banks](https://buaq.net/go-409628.html)
   - [CPU-Z被黑后续调查：卡巴斯基的数据显示应该有不少用户感染远程木马](https://buaq.net/go-409639.html)
+  - [CVE-2026-22666: Dolibarr 23.0.0 dol_eval() whitelist bypass -> RCE (full write-up + PoC)](https://buaq.net/go-409764.html)
   - [LUAC Format Package](https://buaq.net/go-409688.html)
   - [Marimo 关键预认证 RCE 漏洞遭主动利用](https://buaq.net/go-409637.html)
   - [Osquery In-House vs Building: What It Takes at Scale](https://buaq.net/go-409737.html)
@@ -469,5 +487,6 @@
 - 黑海洋
   - [两项精密实验解开“质子半径之谜”](https://blog.upx8.com/%E4%B8%A4%E9%A1%B9%E7%B2%BE%E5%AF%86%E5%AE%9E%E9%AA%8C%E8%A7%A3%E5%BC%80-%E8%B4%A8%E5%AD%90%E5%8D%8A%E5%BE%84%E4%B9%8B%E8%B0%9C)
   - [伊朗军方批美军封锁伊朗港口非法 是“海盗行径”](https://blog.upx8.com/%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E6%89%B9%E7%BE%8E%E5%86%9B%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E9%9D%9E%E6%B3%95-%E6%98%AF-%E6%B5%B7%E7%9B%97%E8%A1%8C%E5%BE%84)
+  - [朝鲜IT人力利用AI等造假履历就业渗透全球企业](https://blog.upx8.com/%E6%9C%9D%E9%B2%9CIT%E4%BA%BA%E5%8A%9B%E5%88%A9%E7%94%A8AI%E7%AD%89%E9%80%A0%E5%81%87%E5%B1%A5%E5%8E%86%E5%B0%B1%E4%B8%9A%E6%B8%97%E9%80%8F%E5%85%A8%E7%90%83%E4%BC%81%E4%B8%9A)
   - [苹果正为即将推出的智能眼镜测试四种设计](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%AD%A3%E4%B8%BA%E5%8D%B3%E5%B0%86%E6%8E%A8%E5%87%BA%E7%9A%84%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%B5%8B%E8%AF%95%E5%9B%9B%E7%A7%8D%E8%AE%BE%E8%AE%A1)
   - [阿里云调整API免费额度并支持按量付费](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E4%BA%91%E8%B0%83%E6%95%B4API%E5%85%8D%E8%B4%B9%E9%A2%9D%E5%BA%A6%E5%B9%B6%E6%94%AF%E6%8C%81%E6%8C%89%E9%87%8F%E4%BB%98%E8%B4%B9)
