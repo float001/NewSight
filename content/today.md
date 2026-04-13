@@ -3,13 +3,35 @@
 - 2Libra
   - [24 年 12 月买的徕芬吹风筒坏掉了，返厂检修，对品控很失望](https://2libra.com/post/computers-accessories/Fzn4DsE)
 - 36氪
+  - [3月末银行理财环比下降超万亿元，季节性因素叠加近期股市回调等导致](https://36kr.com/newsflashes/3764450255389443?f=rss)
   - [MiniMax M2.7正式开源](https://36kr.com/newsflashes/3764430304723457?f=rss)
+  - [“左手科技右手资源”，机构两头押注应对震荡](https://36kr.com/newsflashes/3764463860974338?f=rss)
+  - [上市公司春招如火如荼，新兴产业及未来产业成为人才争夺主战场](https://36kr.com/newsflashes/3764480805733123?f=rss)
+  - [中信建投：国内商业航天即将迎来可回收密集验证窗口](https://36kr.com/newsflashes/3764478400709126?f=rss)
+  - [今年以来A股IPO显著回暖，大型IPO聚焦新质生产力](https://36kr.com/newsflashes/3764451877815045?f=rss)
+  - [固体内部量子纠缠获可靠测量](https://36kr.com/newsflashes/3764457517679107?f=rss)
+  - [基金经理布局创新药对冲组合风险，公募对创新药配置逻辑出现新变化](https://36kr.com/newsflashes/3764456072102400?f=rss)
+  - [广发证券：低预期+低估值+高股息，电力板块攻防兼备](https://36kr.com/newsflashes/3764460924060165?f=rss)
+  - [广发证券：市场情绪回升，建议积极关注保险板块](https://36kr.com/newsflashes/3764458499949059?f=rss)
+  - [新型芯片电源实现高效降压转换](https://36kr.com/newsflashes/3764458003219208?f=rss)
+  - [日本10年期国债收益率升至2.49%，创1997年6月以来新高](https://36kr.com/newsflashes/3764482663924485?f=rss)
+  - [日本政府将向半导体公司Rapidus追加支援超6000亿日元](https://36kr.com/newsflashes/3764482443330050?f=rss)
+  - [智能电动汽车发展高层论坛（2026）： 2030年新能源车有望成市场主体](https://36kr.com/newsflashes/3764460515984128?f=rss)
+  - [电池主题ETF再度走强，机构看好产业长期机会](https://36kr.com/newsflashes/3764462024819200?f=rss)
+  - [私募基金产品一季度成绩单出炉：近六成实现正收益](https://36kr.com/newsflashes/3764481760805637?f=rss)
+  - [科技风起，机构看好核心资产配置机遇](https://36kr.com/newsflashes/3764462897939203?f=rss)
+  - [线上拼手速、线下可“捡漏”，新一轮储蓄国债认购再现火爆场面](https://36kr.com/newsflashes/3764464617931273?f=rss)
+  - [美联储4月维持利率不变的概率为98.4%](https://36kr.com/newsflashes/3764450736161537?f=rss)
+  - [苹果AI负责人将离职](https://36kr.com/newsflashes/3764454058328838?f=rss)
   - [苹果正为即将推出的智能眼镜测试四种设计方案](https://36kr.com/newsflashes/3764427890639616?f=rss)
+  - [首批基金一季报披露，加码高景气赛道](https://36kr.com/newsflashes/3764455576060673?f=rss)
 - Daniel Miessler
   - [AI Only Has to Beat 3/10](https://danielmiessler.com/blog/ai-only-has-to-beat-3-out-of-10?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - daringfireball.net
   - [Golden Tickets](https://www.presentandcorrect.com/blogs/blog/golden-tickets)
   - [Zed — A Font Superfamily](https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df)
+- Emergent Minds | paddo.dev
+  - [The Trust Tax: Anthropic's Worst Month](https://paddo.dev/blog/anthropic-trust-erosion/)
 - Hacker News Frontpage
   - [Building a SaaS in 2026 Using Only EU Infrastructure](https://eualternative.eu/guides/building-saas-eu-stack/)
   - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
@@ -19,8 +41,12 @@
   - [China Gave Its AI Away](https://hackernoon.com/china-gave-its-ai-away?source=rss)
 - idiallo.com
   - [Your AWS Certificate Makes You an AWS Salesman](https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed)
+- johndcook.com
+  - [Lunar period approximations](https://www.johndcook.com/blog/2026/04/12/lunations/)
 - Security Affairs
   - [Adobe fixes actively exploited Acrobat Reader flaw CVE-2026-34621](https://securityaffairs.com/190697/security/adobe-fixes-actively-exploited-acrobat-reader-flaw-cve-2026-34621.html)
+- simonwillison.net
+  - [Gemma 4 audio with MLX](https://simonwillison.net/2026/Apr/12/mlx-audio/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [cve exploit](https://sploitus.com/exploit?id=5EFA19F3-C30F-56FB-BAE4-F038A8CC20F6&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2020-24586 exploit](https://sploitus.com/exploit?id=E3AC4D1E-6D98-5584-88D0-C274C21F6239&utm_source=rss&utm_medium=rss)
@@ -62,3 +88,5 @@
   - [CVE-2026-6167 | code-projects Faculty Management System 1.0 /subject-print.php ID sql injection](https://vuldb.com/vuln/357055)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [苹果正为即将推出的智能眼镜测试四种设计](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%AD%A3%E4%B8%BA%E5%8D%B3%E5%B0%86%E6%8E%A8%E5%87%BA%E7%9A%84%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%B5%8B%E8%AF%95%E5%9B%9B%E7%A7%8D%E8%AE%BE%E8%AE%A1)
