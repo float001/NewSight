@@ -9,17 +9,26 @@
   - [Hot Off the Press: EFF's Updated Guide to Tech at the US-Mexico Border](https://www.eff.org/deeplinks/2026/04/hot-press-effs-updated-guide-tech-us-mexico-border)
   - [Speaking Freely: Dr. Jean Linis-Dinco](https://www.eff.org/deeplinks/2026/04/speaking-freely-dr-jean-linis-dinco)
 - Hacker News Frontpage
+  - [Austerity Creates Fascism](https://pluralistic.net/2026/04/12/always-great/)
   - [Claude Mythos: The System Card](https://thezvi.substack.com/p/claude-mythos-the-system-card)
+  - [Evaluation of Claude Mythos Preview's cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities)
   - [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
   - [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion)
+- NetSPI Blog
+  - [Q1 2026 Critical Vulnerability Roundup: Mitigating Risk](https://www.netspi.com/blog/executive-blog/vulnerability-management/q1-2026-critical-vulnerability-roundup-mitigating-risk/)
 - Schneier on Security
   - [On Anthropic’s Mythos Preview and Project Glasswing](https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html)
 - Sploitus.com Exploits RSS Feed
+  - [auditor-v1 exploit](https://sploitus.com/exploit?id=50F08043-930B-5256-B55D-30A1DB876224&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Langflow exploit](https://sploitus.com/exploit?id=1B83B262-82FC-537F-BB58-641F6536FDBC&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-39987 exploit](https://sploitus.com/exploit?id=46FF593A-CAA8-5508-87A1-8805E76CC79D&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-6227 exploit](https://sploitus.com/exploit?id=C53E65E6-9E7C-53AA-A7C1-4E627243A4DE&utm_source=rss&utm_medium=rss)
   - [SENTINELSHIELD-ADVANCED-INTRUSION-DETECTION-WEB-PROTECTION-SYSTEM exploit](https://sploitus.com/exploit?id=A1EFC669-00BA-55E3-8D0B-D968E26FFC5D&utm_source=rss&utm_medium=rss)
   - [wp-pie-exploit exploit](https://sploitus.com/exploit?id=03DE1BB0-AD69-5A2A-9ADC-AAD58DBA1005&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Booking.com confirms hackers accessed customers’ data](https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/)
+  - [FBI announces takedown of phishing operation that targeted thousands of victims](https://techcrunch.com/2026/04/13/fbi-announces-takedown-of-phishing-operation-that-targeted-thousands-of-victims/)
+  - [Stanford report highlights growing disconnect between AI insiders and everyone else](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
 - The Decoder
   - [Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost](https://the-decoder.com/google-now-offers-ultra-subscribers-video-generation-with-veo-3-1-lite-at-no-extra-credit-cost/)
   - [New AI model generates 45-minute lip-synced video from one photo and runs in real time](https://the-decoder.com/new-ai-model-generates-45-minute-lip-synced-video-from-one-photo-and-runs-in-real-time/)
