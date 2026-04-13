@@ -2,13 +2,17 @@
 
 - 404 Media
   - [Hacker Compromises a16z-Backed Phone Farm, Tries to Post Memes Calling a16z the ‘Antichrist’](https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/)
+- Ars Technica
+  - [Google shoehorned Rust into Pixel 10 modem to make legacy code safer](https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/)
 - daringfireball.net
+  - [[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents](https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026)
   - [FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’](https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f)
   - [John Martellaro, RIP](https://geektells.com/john-martellaro-remembrance/)
   - [MacOS Tip: Enable the Zoom ‘Peek’ Gesture](https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/)
   - [Marcin Wichary Visits the Large Scale Systems Museum](https://flickr.com/photos/mwichary/albums/72177720332956990/)
   - [Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier](https://mastodon.social/@tuomas_h/116397694769738857)
 - darkreading
+  - [CSA: CISOs Should Prepare for Post-Mythos Exploit Storm](https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm)
   - [Empty Attestations: OT Lacks the Tools for Cryptographic Readiness](https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness)
 - Data Breach
   - [Hackers access Booking.com user data, company secures systems](https://securityaffairs.com/190757/data-breach/hackers-access-booking-com-user-data-company-secures-systems.html)
@@ -26,12 +30,15 @@
   - [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
   - [The Looming College-Enrollment Death Spiral](https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/)
   - [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion)
+- HackerNoon
+  - [5 Things Crypto Whitepapers Don’t Explain Clearly - And You Should Know](https://hackernoon.com/5-things-crypto-whitepapers-dont-explain-clearly-and-you-should-know?source=rss)
 - NetSPI Blog
   - [Q1 2026 Critical Vulnerability Roundup: Mitigating Risk](https://www.netspi.com/blog/executive-blog/vulnerability-management/q1-2026-critical-vulnerability-roundup-mitigating-risk/)
 - Schneier on Security
   - [On Anthropic’s Mythos Preview and Project Glasswing](https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html)
 - Sploitus.com Exploits RSS Feed
   - [auditor-v1 exploit](https://sploitus.com/exploit?id=50F08043-930B-5256-B55D-30A1DB876224&utm_source=rss&utm_medium=rss)
+  - [enterthevoid exploit](https://sploitus.com/exploit?id=30A50563-7DA0-5336-849B-03DA8205F008&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Langflow exploit](https://sploitus.com/exploit?id=1B83B262-82FC-537F-BB58-641F6536FDBC&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-34621 exploit](https://sploitus.com/exploit?id=75BF961D-F141-501E-AE3B-09A964C47E5E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-39987 exploit](https://sploitus.com/exploit?id=46FF593A-CAA8-5508-87A1-8805E76CC79D&utm_source=rss&utm_medium=rss)
@@ -45,15 +52,18 @@
   - [Microsoft is officially killing its Outlook Lite app next month](https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/)
   - [Stanford report highlights growing disconnect between AI insiders and everyone else](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
   - [Thousands of rare concert recordings are landing on the Internet Archive — listen now](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
+  - [Uber and Nuro begin testing premium robotaxi service in San Francisco](https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/)
 - The Decoder
   - [Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost](https://the-decoder.com/google-now-offers-ultra-subscribers-video-generation-with-veo-3-1-lite-at-no-extra-credit-cost/)
   - [New AI model generates 45-minute lip-synced video from one photo and runs in real time](https://the-decoder.com/new-ai-model-generates-45-minute-lip-synced-video-from-one-photo-and-runs-in-real-time/)
   - [OpenAI's leaked memo says new "Spud" model will make all its products "significantly better"](https://the-decoder.com/openais-leaked-memo-says-new-spud-model-will-make-all-its-products-significantly-better/)
 - The Verge
   - [AI influencers are ‘everywhere’ at Coachella](https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella)
+  - [Justin Bieber&#8217;s YouTube Coachella set had nothing to do with who owns his music](https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella)
   - [NZXT to pay $3.45 million settlement over Flex PC rentals](https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement)
   - [RAMageddon has come for Microsoft&#8217;s Surface Pro and Surface Laptop](https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram)
   - [Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic)
+  - [The Mercedes EQS returns with massive range and charging gains](https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027)
   - [Xbox Game Pass &#8216;has become too expensive,’ says Microsoft’s new gaming chief in leaked memo](https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo)
   - [You can make a multicolor MacBook Neo out of Apple&#8217;s spare parts](https://www.theverge.com/tech/911172/macbook-neo-apple-spare-parts-multicolor)
 - VulDB Recent Entries
