@@ -1,6 +1,45 @@
 # 今日安全资讯（2026-04-14）
 
+- 404 Media
+  - [Hacker Compromises a16z-Backed Phone Farm, Tries to Post Memes Calling a16z the ‘Antichrist’](https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/)
+- daringfireball.net
+  - [FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’](https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f)
+- EFF
+  - [Speaking Freely: Dr. Jean Linis-Dinco](https://www.eff.org/deeplinks/2026/04/speaking-freely-dr-jean-linis-dinco)
+- Hacker News Frontpage
+  - [Claude Mythos: The System Card](https://thezvi.substack.com/p/claude-mythos-the-system-card)
+  - [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
+  - [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion)
+- Schneier on Security
+  - [On Anthropic’s Mythos Preview and Project Glasswing](https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-6227 exploit](https://sploitus.com/exploit?id=C53E65E6-9E7C-53AA-A7C1-4E627243A4DE&utm_source=rss&utm_medium=rss)
+  - [SENTINELSHIELD-ADVANCED-INTRUSION-DETECTION-WEB-PROTECTION-SYSTEM exploit](https://sploitus.com/exploit?id=A1EFC669-00BA-55E3-8D0B-D968E26FFC5D&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Booking.com confirms hackers accessed customers’ data](https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/)
+- The Decoder
+  - [Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost](https://the-decoder.com/google-now-offers-ultra-subscribers-video-generation-with-veo-3-1-lite-at-no-extra-credit-cost/)
+- The Verge
+  - [Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic)
+- VulDB Recent Entries
+  - [CVE-2025-31991 | HCL DevOps Velocity up to 5.1.6 excessive authentication (KB0130138)](https://vuldb.com/vuln/357176)
+  - [CVE-2025-63743 | Snipe-IT Web-based Asset Management System 8.3.0/8.3.1 Display Name Name/Surname cross site scripting](https://vuldb.com/vuln/357180)
+  - [CVE-2025-66769 | Nitro PDF Pro 14.41.1.4 on Windows XFA null pointer dereference](https://vuldb.com/vuln/357183)
+  - [CVE-2025-69624 | Nitro PDF Pro up to 14.41.1.4 on Windows app.alert null pointer dereference](https://vuldb.com/vuln/357184)
+  - [CVE-2025-69627 | Nitro PDF Pro 14.41.1.4 on Windows this.mailDoc use after free](https://vuldb.com/vuln/357177)
+  - [CVE-2026-30804 | Artica Pandora FMS up to 800 unrestricted upload](https://vuldb.com/vuln/357179)
+  - [CVE-2026-30806 | Artica Pandora FMS up to 800 os command injection](https://vuldb.com/vuln/357185)
+  - [CVE-2026-30809 | Artica Pandora FMS up to 800 WebServerModuleDebug os command injection](https://vuldb.com/vuln/357178)
+  - [CVE-2026-30811 | Artica Pandora FMS up to 800 Configuration Endpoint default permission](https://vuldb.com/vuln/357182)
+  - [CVE-2026-30812 | Artica Pandora FMS up to 800 cross site scripting](https://vuldb.com/vuln/357191)
+  - [CVE-2026-30813 | Artica Pandora FMS up to 800 sql injection](https://vuldb.com/vuln/357189)
+  - [CVE-2026-34186 | Artica Pandora FMS up to 800 Custom Fields sql injection](https://vuldb.com/vuln/357190)
+  - [CVE-2026-34188 | Artica Pandora FMS up to 800 os command injection](https://vuldb.com/vuln/357181)
+  - [CVE-2026-36937 | SourceCodester Online Resort Management System 1.0 view_details.php sql injection](https://vuldb.com/vuln/357186)
+  - [CVE-2026-36938 | SourceCodester Online Resort Management System 1.0 view_room.php sql injection](https://vuldb.com/vuln/357187)
+  - [CVE-2026-6231 | MongoDB C Driver up to 1.30.4/2.0.1 bson_validate input validation](https://vuldb.com/vuln/357188)
 - Wired
   - [Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators](https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/)
+  - [Top iRestore Deals for Hair Growth and LED Therapy Devices](https://www.wired.com/story/irestore-anniversary-sale-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
