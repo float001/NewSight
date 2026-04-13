@@ -2,16 +2,25 @@
 
 - 2Libra
   - [24 年 12 月买的徕芬吹风筒坏掉了，返厂检修，对品控很失望](https://2libra.com/post/computers-accessories/Fzn4DsE)
+  - [Google 账号换区问题](https://2libra.com/post/tech-qa/8yZy8Lg)
+  - [QClaw 让我整崩溃了，彻底废了](https://2libra.com/post/ai-tools/GxvZACi)
   - [就离线翻译来说，现在有没有个人电脑能比较轻松驾驭的翻译模型](https://2libra.com/post/ai-tools/jtMasTW)
   - [第三次自己理发，10 分钟搞定。](https://2libra.com/post/personal-life/mJSB6If)
+  - [网易云音乐 4 月黑胶随机自取](https://2libra.com/post/deal-hunter/zksx_uO)
   - [这个社区社员年龄段主要集中在哪个阶段？](https://2libra.com/post/forum-function/prZk2T_)
+  - [随身 FM - 一款干净简洁无广告在线听广播电台的 APP](https://2libra.com/post/personal-works/jgRw-Pt)
 - 36氪
+  - [30多家企业组队，专攻汽车“卡脖子”材料问题](https://36kr.com/newsflashes/3764569172935433?f=rss)
   - [36氪首发｜港中文博士和前大疆智能制造负责人创业，要做AI时代的“个性化乐高”](https://36kr.com/p/3763919765226240?f=rss)
   - [3月末银行理财环比下降超万亿元，季节性因素叠加近期股市回调等导致](https://36kr.com/newsflashes/3764450255389443?f=rss)
+  - [4月13日人民币对美元中间价调贬3个基点](https://36kr.com/newsflashes/3764568354915077?f=rss)
   - [8点1氪丨海底捞通报员工被强制自费买礼物；王石否认被抓；何超蕸去世，信德集团官网已变黑白](https://36kr.com/p/3764503979328001?f=rss)
+  - [A股三大指数集体低开，油气股走强](https://36kr.com/newsflashes/3764578463630089?f=rss)
   - [A股景气度投资或回归主线](https://36kr.com/newsflashes/3764512284426754?f=rss)
   - [MiniMax M2.7正式开源](https://36kr.com/newsflashes/3764430304723457?f=rss)
   - [“左手科技右手资源”，机构两头押注应对震荡](https://36kr.com/newsflashes/3764463860974338?f=rss)
+  - [“易加仿生”完成首轮天使轮融资](https://36kr.com/newsflashes/3764584480637446?f=rss)
+  - [万马科技：液冷服务器机柜业务尚处于前期阶段，目前仅实现少量出货](https://36kr.com/newsflashes/3764566512419332?f=rss)
   - [上市公司春招如火如荼，新兴产业及未来产业成为人才争夺主战场](https://36kr.com/newsflashes/3764480805733123?f=rss)
   - [两市融资余额增加53.31亿元](https://36kr.com/newsflashes/3764543727338247?f=rss)
   - [两项精密实验解开“质子半径之谜”](https://36kr.com/newsflashes/3764531491980038?f=rss)
@@ -24,12 +33,17 @@
   - [中信证券：预计一季度A股上市银行营收与归母净利润增速较2025年全年业绩增速将再上台阶](https://36kr.com/newsflashes/3764507567047428?f=rss)
   - [中金：建议关注在海外渠道布局领先、拥有高倍率锂电技术储备的优质标的](https://36kr.com/newsflashes/3764501926511369?f=rss)
   - [今年以来A股IPO显著回暖，大型IPO聚焦新质生产力](https://36kr.com/newsflashes/3764451877815045?f=rss)
+  - [余承东官宣华为新款大阔折手机](https://36kr.com/newsflashes/3764591172796934?f=rss)
   - [固体内部量子纠缠获可靠测量](https://36kr.com/newsflashes/3764457517679107?f=rss)
   - [基金经理布局创新药对冲组合风险，公募对创新药配置逻辑出现新变化](https://36kr.com/newsflashes/3764456072102400?f=rss)
   - [多只公募REITs申报迎新进展，商业不动产REITs试点积极推进](https://36kr.com/newsflashes/3764520458027520?f=rss)
+  - [大洋生物：尚不具备电子级氢氟酸生产技术与设备](https://36kr.com/newsflashes/3764602214334979?f=rss)
+  - [央行4月13日公开市场开展5亿元7天期逆回购操作](https://36kr.com/newsflashes/3764576428655108?f=rss)
+  - [宁德时代A股股价创历史新高](https://36kr.com/newsflashes/3764590653981445?f=rss)
   - [广发证券：低预期+低估值+高股息，电力板块攻防兼备](https://36kr.com/newsflashes/3764460924060165?f=rss)
   - [广发证券：市场情绪回升，建议积极关注保险板块](https://36kr.com/newsflashes/3764458499949059?f=rss)
   - [建材企业加速“出海”寻增量](https://36kr.com/newsflashes/3764507146732034?f=rss)
+  - [恒指开盘跌0.71%，恒生科技指数跌0.69%](https://36kr.com/newsflashes/3764573589045768?f=rss)
   - [新型芯片电源实现高效降压转换](https://36kr.com/newsflashes/3764458003219208?f=rss)
   - [日本10年期国债收益率升至2.49%，创1997年6月以来新高](https://36kr.com/newsflashes/3764482663924485?f=rss)
   - [日本政府将向半导体公司Rapidus追加支援超6000亿日元](https://36kr.com/newsflashes/3764482443330050?f=rss)
@@ -48,9 +62,14 @@
   - [苹果正为即将推出的智能眼镜测试四种设计方案](https://36kr.com/newsflashes/3764427890639616?f=rss)
   - [荣耀与字节跳动接洽“豆包手机”合作](https://36kr.com/newsflashes/3764549288444673?f=rss)
   - [郭明錤：不存在“压缩KV Cache就能消除内存需求”的逻辑](https://36kr.com/newsflashes/3764504713003523?f=rss)
+  - [钛能化学：磷酸铁产品已批量供货](https://36kr.com/newsflashes/3764567240770309?f=rss)
   - [银河证券：仍需重点关注原油价格走势对市场情绪和交易结构的影响](https://36kr.com/newsflashes/3764502207955718?f=rss)
+  - [阿里云：调整标准版、专业版用户的API免费额度并支持按量付费](https://36kr.com/newsflashes/3764612840243717?f=rss)
+  - [隆基机械：目前与张雪机车暂无业务交集](https://36kr.com/newsflashes/3764587321295365?f=rss)
   - [韩国4月前10天出口同比增长36.7%](https://36kr.com/newsflashes/3764519682064902?f=rss)
   - [首批基金一季报披露，加码高景气赛道](https://36kr.com/newsflashes/3764455576060673?f=rss)
+- Bruce's Blog
+  - [Sub-Agent Architecture for AI Coding Harnesses: When to Spawn, How to Route, What It Costs](http://www.heyuan110.com/posts/ai/2026-04-13-harness-subagent-architecture/)
 - Daniel Miessler
   - [AI Only Has to Beat 3/10](https://danielmiessler.com/blog/ai-only-has-to-beat-3-out-of-10?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - daringfireball.net
@@ -69,6 +88,8 @@
   - [Your AWS Certificate Makes You an AWS Salesman](https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed)
 - johndcook.com
   - [Lunar period approximations](https://www.johndcook.com/blog/2026/04/12/lunations/)
+- SANS Internet Storm Center, InfoCON: green
+  - [ISC Stormcast For Monday, April 13th, 2026 https://isc.sans.edu/podcastdetail/9888, (Mon, Apr 13th)](https://isc.sans.edu/diary/rss/32890)
 - Security Affairs
   - [Adobe fixes actively exploited Acrobat Reader flaw CVE-2026-34621](https://securityaffairs.com/190697/security/adobe-fixes-actively-exploited-acrobat-reader-flaw-cve-2026-34621.html)
 - simonwillison.net
