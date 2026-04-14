@@ -209,6 +209,8 @@
   - [Hacker Compromises a16z-Backed Phone Farm, Tries to Post Memes Calling a16z the ‘Antichrist’](https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/)
 - Ars Technica
   - [Google shoehorned Rust into Pixel 10 modem to make legacy code safer](https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/)
+- Ben's Bites
+  - [Big lab leaks](https://www.bensbites.com/p/big-lab-leaks)
 - daringfireball.net
   - [[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents](https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026)
   - [Apple Frames 4](https://www.macstories.net/stories/introducing-apple-frames-4-a-revamped-shortcut-support-for-frame-colors-proportional-scaling-and-the-apple-frames-cli-for-developers/)
@@ -231,6 +233,8 @@
   - [Hot Off the Press: EFF's Updated Guide to Tech at the US-Mexico Border](https://www.eff.org/deeplinks/2026/04/hot-press-effs-updated-guide-tech-us-mexico-border)
   - [Speaking Freely: Dr. Jean Linis-Dinco](https://www.eff.org/deeplinks/2026/04/speaking-freely-dr-jean-linis-dinco)
   - [The Dangers of California’s Legislation to Censor 3D Printing](https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing)
+- ElcomSoft blog
+  - [Low-Level Extraction for iOS 17 and 18](https://blog.elcomsoft.com/2026/04/low-level-extraction-for-ios-17-and-18/)
 - Emergent Minds | paddo.dev
   - [The AI Scapegoat](https://paddo.dev/blog/ai-scapegoat-layoffs/)
 - Hacker News Frontpage
@@ -250,6 +254,7 @@
   - [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
   - [The Looming College-Enrollment Death Spiral](https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/)
   - [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion)
+  - [Two Months After I Gave an AI $100 and No Instructions](https://www.sebastian-jais.de/blog/two-months-alma-experiment)
   - [UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism](https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf)
 - HackerNews
   - [Rockstar Games ĺˆ†ćžć•°ćŽé­ĺ‹’ç´˘ĺ›˘äź™ćł„éœ˛](http://0.0.0.0:8080/post/64115)
@@ -282,6 +287,7 @@
   - [Attackers target unpatched ShowDoc servers via CVE-2025-0520](https://securityaffairs.com/190790/uncategorized/attackers-target-unpatched-showdoc-servers-via-cve-2025-0520.html)
   - [Fake Claude AI installer abuses DLL sideloading to deploy PlugX](https://securityaffairs.com/190754/malware/fake-claude-ai-installer-abuses-dll-sideloading-to-deploy-plugx.html)
   - [U.S. CISA adds Adobe, Fortinet, Microsoft Exchange Server, and Microsoft Windows flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190775/security/u-s-cisa-adds-adobe-fortinet-microsoft-windows-microsoft-exchange-server-and-microsoft-windows-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [US, UK and Canada disrupt $45M crypto theft in Operation Atlantic](https://securityaffairs.com/190805/cyber-crime/us-uk-and-canada-disrupt-45m-crypto-theft-in-operation-atlantic.html)
 - Sploitus.com Exploits RSS Feed
   - [auditor-v1 exploit](https://sploitus.com/exploit?id=50F08043-930B-5256-B55D-30A1DB876224&utm_source=rss&utm_medium=rss)
   - [CORScanner exploit](https://sploitus.com/exploit?id=8D5B578D-9FE0-5888-8A32-AE6370272398&utm_source=rss&utm_medium=rss)
@@ -294,6 +300,7 @@
   - [Exploit for CVE-2026-35585 exploit](https://sploitus.com/exploit?id=A1A3EA14-8448-57BF-B35B-59AA7674CEDB&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-39987 exploit](https://sploitus.com/exploit?id=46FF593A-CAA8-5508-87A1-8805E76CC79D&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-39987 exploit](https://sploitus.com/exploit?id=FFA02F58-5734-5845-A247-E93976549DE5&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-40175 exploit](https://sploitus.com/exploit?id=89B1C55F-685D-5BAB-919B-CFB908F283A8&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-6227 exploit](https://sploitus.com/exploit?id=C53E65E6-9E7C-53AA-A7C1-4E627243A4DE&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Microsoft exploit](https://sploitus.com/exploit?id=9B8918CE-050B-5438-BE34-CE205F310BC7&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=345530C2-1AD7-5814-91B6-2FD7F110CA8C&utm_source=rss&utm_medium=rss)
@@ -305,6 +312,7 @@
   - [vulnswarm exploit](https://sploitus.com/exploit?id=E833AED6-EC09-5B9E-9850-51074646B35D&utm_source=rss&utm_medium=rss)
   - [wp-pie-exploit exploit](https://sploitus.com/exploit?id=03DE1BB0-AD69-5A2A-9ADC-AAD58DBA1005&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz](https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/)
   - [An Amazon warehouse worker died on the job at Oregon facility](https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/)
   - [Booking.com confirms hackers accessed customers’ data](https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/)
   - [FBI announces takedown of phishing operation that targeted thousands of victims](https://techcrunch.com/2026/04/13/fbi-announces-takedown-of-phishing-operation-that-targeted-thousands-of-victims/)
@@ -317,6 +325,7 @@
   - [Thousands of rare concert recordings are landing on the Internet Archive — listen now](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
   - [Uber and Nuro begin testing premium robotaxi service in San Francisco](https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/)
 - The Decoder
+  - [Claude Mythos is a wake-up call for Europe's AI safety apparatus](https://the-decoder.com/claude-mythos-is-a-wake-up-call-for-europes-ai-safety-apparatus/)
   - [Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost](https://the-decoder.com/google-now-offers-ultra-subscribers-video-generation-with-veo-3-1-lite-at-no-extra-credit-cost/)
   - [New AI model generates 45-minute lip-synced video from one photo and runs in real time](https://the-decoder.com/new-ai-model-generates-45-minute-lip-synced-video-from-one-photo-and-runs-in-real-time/)
   - [OpenAI acquires AI finance startup Hiro, which built a "personal AI CFO"](https://the-decoder.com/openai-acquires-ai-finance-startup-hiro-which-built-a-personal-ai-cfo/)
@@ -326,13 +335,18 @@
   - [A sleek, wearable airbag for cyclists is nearly here](https://www.theverge.com/gadgets/911540/a-sleek-wearable-airbag-for-cyclists-is-nearly-here)
   - [AI influencers are ‘everywhere’ at Coachella](https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella)
   - [Alienware’s new gaming monitor offers a 240Hz QD-OLED panel for just $350](https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs)
+  - [Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen](https://www.theverge.com/tech/911600/anbernic-rg-rotate-square-handheld-gaming-console-emulator)
+  - [Apple and Amazon are teaming up to challenge Starlink’s smartphone ambitions](https://www.theverge.com/tech/911617/amazon-globalstar-apple-iphone-watch-satellite-internet)
+  - [Ben McKenzie vs. crypto](https://www.theverge.com/podcast/911605/ben-mckenzie-crypto-cgm-wearables-vergecast)
   - [Bloodborne is being turned into an R-rated animated film](https://www.theverge.com/entertainment/911576/bloodborne-feature-film)
   - [Ecovacs’ new robovac spots and pretreats dried stains using powerful jets](https://www.theverge.com/tech/910298/ecovacs-deebot-x12-omnicyclone-robot-vacuum-mop-pretreat-ai)
   - [GoPro goes bigger and pro-er with support for Micro Four Thirds lenses](https://www.theverge.com/gadgets/911324/gopro-mission1-pro-action-video-camera-price-specs)
+  - [Has Google’s AI watermarking system been reverse-engineered?](https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered)
   - [Justin Bieber&#8217;s YouTube Coachella set had nothing to do with who owns his music](https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella)
   - [NZXT to pay $3.45 million settlement over Flex PC rentals](https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement)
   - [RAMageddon has come for Microsoft&#8217;s Surface Pro and Surface Laptop](https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram)
   - [Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic)
+  - [Samsung is hiking the prices of its Galaxy phones and tablets](https://www.theverge.com/tech/911623/samsung-galaxy-phones-tablets-price-hike-ram)
   - [The heist of iOS 26](https://www.theverge.com/tech/908476/jon-prosser-apple-liquid-glass)
   - [The Mercedes EQS returns with massive range and charging gains](https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027)
   - [The new Trump Phone design is here](https://www.theverge.com/tech/911503/trump-mobile-t1-phone-redesign-new-website)
@@ -355,6 +369,8 @@
   - [CVE-2026-23891 | Decidim up to 0.30.4/0.31.0 Name cross site scripting (GHSA-fc46-r95f-hq7g)](https://vuldb.com/vuln/357197)
   - [CVE-2026-24032 | Siemens SINEC NMS up to 4.0 SP2 UMC signature verification (ssa-801704)](https://vuldb.com/vuln/357299)
   - [CVE-2026-24069 | Kiuwan SAST prior 2.8.2509.4 User Account authorization](https://vuldb.com/vuln/357305)
+  - [CVE-2026-2449 | upKeeper Instant Privilege Access up to 1.5.0 argument injection](https://vuldb.com/vuln/357306)
+  - [CVE-2026-2450 | upKeeper Instant Privilege Access up to 1.5.0 impersonation](https://vuldb.com/vuln/357307)
   - [CVE-2026-25654 | Siemens SINEC NMS up to 4.0 SP2 Password Reset authorization (ssa-605717)](https://vuldb.com/vuln/357300)
   - [CVE-2026-2582 | vendidero Germanized for WooCommerce Plugin up to 3.20.5 on WordPress Shortcode account_holder code injection](https://vuldb.com/vuln/357291)
   - [CVE-2026-27668 | Siemens RUGGEDCOM CROSSBOW Secure Access Manager Primary up to 5.7 Device Group privileges assignment (ssa-741509)](https://vuldb.com/vuln/357301)
@@ -453,7 +469,9 @@
 - 量子位 QbitAI
   - [AI开始直接交付Excel，千问用Agent重构做表流程](https://www.qbitai.com/2026/04/401041.html)
   - [不只是卖服务器，中兴通讯想做AI时代的基础设施商](https://www.qbitai.com/2026/04/401047.html)
+  - [荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相](https://www.qbitai.com/2026/04/401202.html)
 - 黑海洋
   - [亚马逊接近达成收购GlobalStar的交易](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E6%94%B6%E8%B4%ADGlobalStar%E7%9A%84%E4%BA%A4%E6%98%93)
   - [欧盟拟加增钢铁关税 防堵中国廉价钢冲击](https://blog.upx8.com/%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%8A%A0%E5%A2%9E%E9%92%A2%E9%93%81%E5%85%B3%E7%A8%8E-%E9%98%B2%E5%A0%B5%E4%B8%AD%E5%9B%BD%E5%BB%89%E4%BB%B7%E9%92%A2%E5%86%B2%E5%87%BB)
   - [比亚迪试验及报废车辆专用停放区发生火灾](https://blog.upx8.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%AF%95%E9%AA%8C%E5%8F%8A%E6%8A%A5%E5%BA%9F%E8%BD%A6%E8%BE%86%E4%B8%93%E7%94%A8%E5%81%9C%E6%94%BE%E5%8C%BA%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE)
+  - [金山毒霸与360安全卫士内核驱动曝高危漏洞](https://blog.upx8.com/%E9%87%91%E5%B1%B1%E6%AF%92%E9%9C%B8%E4%B8%8E360%E5%AE%89%E5%85%A8%E5%8D%AB%E5%A3%AB%E5%86%85%E6%A0%B8%E9%A9%B1%E5%8A%A8%E6%9B%9D%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E)
