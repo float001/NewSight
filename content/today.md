@@ -3,6 +3,7 @@
 - 404 Media
   - [Thomson Reuters Fired Worker For Speaking Out About ICE, Former Employee Says](https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says/)
 - Ars Technica
+  - [Americans ask AI for health care. Hospitals think the answer is more chatbots.](https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/)
   - [Rockets and spaceships are cool, but the humanity of Artemis II resonated most](https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most/)
   - [UK gov's Mythos AI tests help separate cybersecurity threat from hype](https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -13,8 +14,11 @@
   - [Good and Bad Harness Engineering](https://danielmiessler.com/blog/good-and-bad-harness-engineering?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - daringfireball.net
   - [Amazon to Acquire Globalstar, Announces Agreement With Apple to Continue Service for iPhone and Apple Watch](https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple)
+  - [Google Will Finally Begin Punishing Sites for Back-Button Hijacking in June](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
   - [John Calhoun on Steve Lemay](https://news.ycombinator.com/item?id=47297653)
   - [Richard Moss’s 2010 Interview With John Calhoun on the Origins of Glider](https://macscene.net/d/4678-interview-john-calhoun-on-the-origins-of-glider-part-1)
+- darkreading
+  - [EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses](https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses)
 - experimental-history.com
   - [Nothing ever dies. It merely becomes embarrassing.](https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes)
 - Google AI Blog
@@ -26,6 +30,7 @@
   - [ClawRun – Deploy and manage AI agents in seconds](https://github.com/clawrun-sh/clawrun)
   - [Gas Town: From Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec)
   - [The cost of building a workflow editor on React Flow](https://www.workflowbuilder.io/blog/build-vs-buy-workflow-editor-hidden-cost-react-flow)
+  - [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
 - HackerNews
   - [Rockstar Games ĺˆ†ćžć•°ćŽé­ĺ‹’ç´˘ĺ›˘äź™ćł„éœ˛](http://0.0.0.0:8080/post/64115)
   - [ćŹ§ć´˛ĺĽčşŤĺˇ¨ĺ¤´ Basic-Fit ć•°ćŽćł„éœ˛ďźŒĺ˝ąĺ“ 100 ä¸‡äźšĺ‘˜](http://0.0.0.0:8080/post/64114)
@@ -44,6 +49,7 @@
 - simonwillison.net
   - [Cybersecurity Looks Like Proof of Work Now](https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [CloudStorageHunter-Pro exploit](https://sploitus.com/exploit?id=EA9BFD6D-645B-55C7-89E3-D9E813A26CE5&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Langflow exploit](https://sploitus.com/exploit?id=D39103A0-C73C-5513-A610-BDF66AC0294F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-24000 exploit](https://sploitus.com/exploit?id=00B103F8-BE7C-5681-9040-F6DCA403D67B&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -290,6 +296,8 @@
   - [CVE-2026-5752 | cohere-ai cohere-terrarium sandbox](https://vuldb.com/vuln/357575)
   - [CVE-2026-5754 | Radware Alteon vADC 34.5.4.0 cross site scripting](https://vuldb.com/vuln/357570)
   - [CVE-2026-5756 | Data Recognition Central Office Services 975 missing authentication](https://vuldb.com/vuln/357573)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Microsoft and Adobe Patch Tuesday, April 2026 Security Update Review](https://blog.qualys.com/category/vulnerabilities-threat-research)
 - wheresyoured.at
   - [I Will Never Respect A Website](https://www.wheresyoured.at/i-will-never-respect-a-website/)
 - Wired
