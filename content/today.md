@@ -2,10 +2,14 @@
 
 - 2Libra
   - [Kimi K2.6 code preview 现已上线](https://2libra.com/post/ai-updates/6Mrny3u)
+  - [webstorm 多窗口合并](https://2libra.com/post/usage-tips/KO9AAzC)
   - [【投票】预言家们出来，微信聊天记录导出工具 wechat-cli 关停了](https://2libra.com/post/tech-qa/zSBqH7T)
   - [【本日羊毛】发一些羊毛供大家薅](https://2libra.com/post/deal-hunter/36cCOIr)
+  - [【🔒】一款适用于 macOS Tahoe 的透明化磁盘清理工具](https://2libra.com/post/tools-sharing/Jt_G6N5)
   - [【🔒】分享一个大模型公益站](https://2libra.com/post/ai-tools/OJoZBSg)
   - [国产主流杀毒软件内核驱动曝高危漏洞](https://2libra.com/post/network-security/TCPEC24)
+  - [怎么订阅 X 上某位博主发的推](https://2libra.com/post/usage-tips/NpJBKTd)
+  - [想问下本站有 APP 吗](https://2libra.com/post/forum-function/9w4Q3DP)
   - [捣蛋鬼后遗症，血亏](https://2libra.com/post/game-discussion/-5vsJRZ)
   - [新人报到!](https://2libra.com/post/newcomer/R0ujiBn)
   - [有什么 PDF 转换、编辑、拆分的软件推荐吗？](https://2libra.com/post/tools-sharing/eLTytiq)
@@ -14,6 +18,7 @@
 - 36氪
   - [8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致](https://36kr.com/p/3765932138103554?f=rss)
   - [AUM越做越大，利润持续承压：银行零售业务“虚胖”待解](https://36kr.com/newsflashes/3765901637222913?f=rss)
+  - [A股三大指数午间休盘集体上涨，半导体板块走强](https://36kr.com/newsflashes/3766117037326851?f=rss)
   - [A股三大指数集体高开，协创数据涨超15%](https://36kr.com/newsflashes/3765993145484034?f=rss)
   - [LVMH集团第一季度收入下滑6%](https://36kr.com/newsflashes/3765949007380994?f=rss)
   - [Omdia：存储成本上涨推升设备价格，2026年中国大陆智能手机市场小幅下滑1%](https://36kr.com/newsflashes/3765921850130946?f=rss)
@@ -37,6 +42,7 @@
   - [华工科技向港交所递交上市申请](https://36kr.com/newsflashes/3765852827746824?f=rss)
   - [华泰证券：具备强品牌力与渠道力的龙头酒企有望率先复苏](https://36kr.com/newsflashes/3765909839512329?f=rss)
   - [华泰证券：预计今年全国房价二阶导有望转正，建议逐步布局地产股](https://36kr.com/newsflashes/3765909027471875?f=rss)
+  - [华谊兄弟电影公司被冻结1亿股权](https://36kr.com/newsflashes/3766082587919110?f=rss)
   - [商业养老金有效账户数超224万户，存量规模超1600亿元](https://36kr.com/newsflashes/3765877788852740?f=rss)
   - [国家统计局：4月上旬生猪（外三元）价格环比下降4.2%](https://36kr.com/newsflashes/3766005109392137?f=rss)
   - [大摩：美股处于调整最后阶段，投资者应准备好增加风险敞口](https://36kr.com/newsflashes/3765872683827971?f=rss)
@@ -47,7 +53,10 @@
   - [市场对业绩关注度逐渐升温，机构建议布局三大方向](https://36kr.com/newsflashes/3765897688941312?f=rss)
   - [微软美区官网Surface全线暴涨：旗舰款起售价上调500美元](https://36kr.com/newsflashes/3765906240635395?f=rss)
   - [德国汉莎航空飞行员因劳资纠纷罢工两天](https://36kr.com/newsflashes/3765944587600644?f=rss)
+  - [快看漫画将研发多款AI应用，涉及AI角色互动等](https://36kr.com/newsflashes/3766119271449346?f=rss)
+  - [恒指午间休盘涨0.43%，恒生科技指数涨0.17%](https://36kr.com/newsflashes/3766146235073029?f=rss)
   - [恒指开盘涨1.05%，恒生科技指数涨1.37%](https://36kr.com/newsflashes/3765990562054659?f=rss)
+  - [报告：欧洲消费者在速卖通的年花费增速达25%](https://36kr.com/newsflashes/3766108299936521?f=rss)
   - [政策创新双驱动，国产手术机器人商业化提速](https://36kr.com/newsflashes/3765905202332163?f=rss)
   - [新加坡第一季度经济增长放缓](https://36kr.com/newsflashes/3765917019357958?f=rss)
   - [新加坡金管局收紧货币政策并上调通胀预期](https://36kr.com/newsflashes/3765934323761671?f=rss)
@@ -64,6 +73,7 @@
   - [海关总署：中国3月以美元计价进口同比增长27.8%](https://36kr.com/newsflashes/3766085362778883?f=rss)
   - [海关总署：我国进出口总值已连续12季度保持在10万亿元以上](https://36kr.com/newsflashes/3766045044409095?f=rss)
   - [现货白银向上触及76美元/盎司](https://36kr.com/newsflashes/3765974597370629?f=rss)
+  - [现货白银站上77美元/盎司](https://36kr.com/newsflashes/3766137064555266?f=rss)
   - [甲骨文与Bloom Energy达成电力采购协议，用于其AI数据中心](https://36kr.com/newsflashes/3765871486190089?f=rss)
   - [美国联合航空公司首席执行官提出与竞争对手美国航空合并的可能性](https://36kr.com/newsflashes/3765884253717249?f=rss)
   - [美国财长贝森特称正在制定要求银行核验公民身份的行政令](https://36kr.com/newsflashes/3766081595048450?f=rss)
@@ -114,11 +124,14 @@
   - [The Looming College-Enrollment Death Spiral](https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/)
   - [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion)
 - HackerNews
+  - [Rockstar Games ĺˆ†ćžć•°ćŽé­ĺ‹’ç´˘ĺ›˘äź™ćł„éœ˛](http://0.0.0.0:8080/post/64115)
   - [ćŹ§ć´˛ĺĽčşŤĺˇ¨ĺ¤´ Basic-Fit ć•°ćŽćł„éœ˛ďźŒĺ˝ąĺ“ 100 ä¸‡äźšĺ‘˜](http://0.0.0.0:8080/post/64114)
 - HackerNoon
   - [5 Things Crypto Whitepapers Don’t Explain Clearly - And You Should Know](https://hackernoon.com/5-things-crypto-whitepapers-dont-explain-clearly-and-you-should-know?source=rss)
 - NetSPI Blog
   - [Q1 2026 Critical Vulnerability Roundup: Mitigating Risk](https://www.netspi.com/blog/executive-blog/vulnerability-management/q1-2026-critical-vulnerability-roundup-mitigating-risk/)
+- rtl-sdr.com
+  - [BrowSDR: Turn Your HackRF or RTL-SDR Into a Browser-Based Remote WebSDR](https://www.rtl-sdr.com/browsdr-turn-your-hackrf-or-rtl-sdr-into-a-browser-based-remote-websdr/)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Tuesday, April 14th, 2026 https://isc.sans.edu/podcastdetail/9890, (Tue, Apr 14th)](https://isc.sans.edu/diary/rss/32894)
 - Schneier on Security
