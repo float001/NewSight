@@ -1,11 +1,72 @@
 # 今日安全资讯（2026-04-15）
 
+- Ars Technica
+  - [Rockets and spaceships are cool, but the humanity of Artemis II resonated most](https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most/)
 - Daniel Miessler
   - [Good and Bad Harness Engineering](https://danielmiessler.com/blog/good-and-bad-harness-engineering?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- daringfireball.net
+  - [Richard Moss’s 2010 Interview With John Calhoun on the Origins of Glider](https://macscene.net/d/4678-interview-john-calhoun-on-the-origins-of-glider-part-1)
+- experimental-history.com
+  - [Nothing ever dies. It merely becomes embarrassing.](https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes)
+- Google AI Blog
+  - [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
+- Hacker News Frontpage
+  - [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/)
 - Schneier on Security
   - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html)
+- TechCrunch
+  - [Google adds AI Skills to Chrome to help you save favorite workflows](https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/)
+  - [How the rewards app Freecash scammed its way to the top of the app stores](https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/)
 - The Verge
+  - [Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;](https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch)
   - [Sony’s latest gaming headset offers great open-back audio](https://www.theverge.com/tech/908132/sony-inzone-h6-air-open-back-gaming-headset-hands-on)
   - [Sony’s new 1440p OLED gaming monitor seems a lot better than its first](https://www.theverge.com/news/907924/sony-inzone-m10s-ii-oled-tandem-gaming-monitor-specs-price-features)
+  - [The world’s oldest art, now in 6K IMAX](https://www.theverge.com/entertainment/911678/werner-herzog-cave-forgotten-dreams-imax)
+- VulDB Recent Entries
+  - [CVE-2024-23104 | Fortinet FortiVoice/FortiNDR HTTP information disclosure (FG-IR-26-124)](https://vuldb.com/vuln/357345)
+  - [CVE-2025-53847 | Fortinet FortiOS up to 7.6.3 missing authentication (FG-IR-26-125)](https://vuldb.com/vuln/357341)
+  - [CVE-2025-61624 | Fortinet FortiOS/FortiProxy/FortiSwitchManager/FortiPAM path traversal (FG-IR-26-122)](https://vuldb.com/vuln/357339)
+  - [CVE-2025-61848 | Fortinet FortiManager sql injection (FG-IR-26-111)](https://vuldb.com/vuln/357358)
+  - [CVE-2025-63939 | anirudhkannan Grocery Store Management System 1.0 POST Parameter search_products_itname.php sitem_name sql injection](https://vuldb.com/vuln/357344)
+  - [CVE-2025-65132 | Public Scripting 1.0 GET Parameter edit_room.php room_id cross site scripting](https://vuldb.com/vuln/357347)
+  - [CVE-2025-65133 | manikandan580 School Management System 1.0 Endpoint sql injection](https://vuldb.com/vuln/357355)
+  - [CVE-2025-65135 | manikandan580 School-Management-System up to 1.0 POST Parameter between-date-reprtsdetails.php fromdate sql injection](https://vuldb.com/vuln/357334)
+  - [CVE-2025-68649 | Fortinet FortiManager Cloud up to 7.0.16/7.2.12/7.4.7/7.6.4 CLI path traversal (FG-IR-26-120)](https://vuldb.com/vuln/357346)
+  - [CVE-2026-21741 | Fortinet FortiNAC-F up to 7.2.9/7.4.3/7.6.5 CSV File Parser redirect (FG-IR-26-118)](https://vuldb.com/vuln/357348)
+  - [CVE-2026-21742 | Fortinet FortiSOAR PaaS/FortiSOAR on-premise up to 7.3.3/7.4.5/7.5.1/7.6.2 Secure Message cleartext transmission (FG-IR-26-106)](https://vuldb.com/vuln/357359)
+  - [CVE-2026-22155 | Fortinet FortiSOAR on-premise/FortiSOAR PaaS cleartext transmission (FG-IR-26-106)](https://vuldb.com/vuln/357349)
+  - [CVE-2026-22573 | Fortinet FortiSOAR on-premise/FortiSOAR PaaS up to 7.3.3/7.4.5/7.5.3/7.6.3 File Content path traversal (FG-IR-26-116)](https://vuldb.com/vuln/357343)
+  - [CVE-2026-22574 | Fortinet FortiSOAR PaaS/FortiSOAR on-premise LDAP Configuration password recoverable (FG-IR-26-105)](https://vuldb.com/vuln/357350)
+  - [CVE-2026-22576 | Fortinet FortiSOAR PaaS/FortiSOAR on-premise up to 7.3.3/7.4.5/7.5.2/7.6.4 Connector Configuration password recoverable (FG-IR-26-104)](https://vuldb.com/vuln/357351)
+  - [CVE-2026-22828 | Fortinet FortiAnalyzer Cloud/FortiManager Cloud up to 7.6.4 heap-based overflow (FG-IR-26-121)](https://vuldb.com/vuln/357352)
+  - [CVE-2026-23708 | Fortinet FortiSOAR PaaS/FortiSOAR on-premise up to 7.5.2/7.6.3 improper authentication (FG-IR-26-101)](https://vuldb.com/vuln/357353)
+  - [CVE-2026-2399 | Schneider Electric PowerChute Serial Shutdown /REST/upssleep path traversal (SEVD-2026-104-01)](https://vuldb.com/vuln/357356)
+  - [CVE-2026-2400 | Schneider Electric PowerChute Serial Shutdown /setPCBEDesc crlf injection (SEVD-2026-104-01)](https://vuldb.com/vuln/357368)
+  - [CVE-2026-2401 | Schneider Electric PowerChute Serial Shutdown File log file (SEVD-2026-104-01)](https://vuldb.com/vuln/357369)
+  - [CVE-2026-2402 | Schneider Electric PowerChute Serial Shutdown excessive authentication (SEVD-2026-104-01)](https://vuldb.com/vuln/357370)
+  - [CVE-2026-2403 | Schneider Electric PowerChute Serial Shutdown /logsettings improper validation of specified quantity in input (SEVD-2026-104-01)](https://vuldb.com/vuln/357371)
+  - [CVE-2026-2405 | Schneider Electric PowerChute Serial Shutdown ZIP File Creation /helpabout resource consumption (SEVD-2026-104-01)](https://vuldb.com/vuln/357357)
+  - [CVE-2026-25691 | Fortinet FortiSandbox PaaS/FortiSandbox Cloud/FortiSandbox path traversal (FG-IR-26-115)](https://vuldb.com/vuln/357354)
+  - [CVE-2026-27316 | Fortinet FortiSandbox/FortiSandbox PaaS up to 4.4.9/5.0.5 LDAP insufficiently protected credentials (FG-IR-26-113)](https://vuldb.com/vuln/357361)
+  - [CVE-2026-34622 | Adobe Acrobat Reader up to 24.001.30360/24.001.30362/26.001.21411 File prototype pollution (apsb26-44)](https://vuldb.com/vuln/357360)
+  - [CVE-2026-34626 | Adobe Acrobat Reader up to 24.001.30360/24.001.30362/26.001.21411 File prototype pollution (apsb26-44)](https://vuldb.com/vuln/357373)
+  - [CVE-2026-38526 | Krayin CRM 2.2.x /admin/tinymce/upload unrestricted upload](https://vuldb.com/vuln/357335)
+  - [CVE-2026-38528 | Krayin CRM 2.2.x /Lead/LeadDataGrid.php rotten_lead sql injection](https://vuldb.com/vuln/357342)
+  - [CVE-2026-38529 | Krayin CRM 2.2.x HTTP UserController.php improper authentication](https://vuldb.com/vuln/357336)
+  - [CVE-2026-38530 | Krayin CRM 2.2.x GET LeadController.php improper authorization](https://vuldb.com/vuln/357337)
+  - [CVE-2026-38532 | Krayin CRM 2.2.x GET PersonController.php improper authorization](https://vuldb.com/vuln/357338)
+  - [CVE-2026-38533 | Snipe-IT 8.4.0 PUT /api/v1/users/ improper authentication](https://vuldb.com/vuln/357372)
+  - [CVE-2026-39808 | Fortinet FortiSandbox/FortiSandbox PaaS up to 4.4.8 os command injection (FG-IR-26-100)](https://vuldb.com/vuln/357362)
+  - [CVE-2026-39809 | Fortinet FortiClientEMS up to 7.4.1/7.4.4 sql injection (FG-IR-26-102)](https://vuldb.com/vuln/357367)
+  - [CVE-2026-39811 | Fortinet FortiWeb up to 7.0.12/7.2.12/7.4.12/7.6.6/8.0.3 integer overflow (FG-IR-26-108)](https://vuldb.com/vuln/357363)
+  - [CVE-2026-39813 | Fortinet FortiSandbox/FortiSandbox Cloud up to 4.4.8/5.0.5 /filedir path traversal (FG-IR-26-112)](https://vuldb.com/vuln/357364)
+  - [CVE-2026-39814 | Fortinet FortiWeb up to 7.4.12/7.6.6/8.0.2 path traversal (FG-IR-26-114)](https://vuldb.com/vuln/357365)
+  - [CVE-2026-39815 | Fortinet FortiDDoS-F up to 7.2.2 sql injection (FG-IR-26-119)](https://vuldb.com/vuln/357366)
+  - [CVE-2026-5713 | Python CPython up to 3.14.x profiling.sampling/asyncio stack-based overflow (ID 148178)](https://vuldb.com/vuln/357340)
+- wheresyoured.at
+  - [I Will Never Respect A Website](https://www.wheresyoured.at/i-will-never-respect-a-website/)
+- Wired
+  - [GoPro’s New Mission 1 Cameras Have 8K Video and Interchangeable Lenses](https://www.wired.com/story/gopro-mission-1-cameras/)
+  - [How to Use Google Chrome’s New AI-Powered ‘Skills’](https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
