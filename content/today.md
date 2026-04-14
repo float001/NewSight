@@ -1,10 +1,19 @@
 # 今日安全资讯（2026-04-15）
 
+- 404 Media
+  - [Thomson Reuters Fired Worker For Speaking Out About ICE, Former Employee Says](https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says/)
 - Ars Technica
   - [Rockets and spaceships are cool, but the humanity of Artemis II resonated most](https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most/)
+  - [UK gov's Mythos AI tests help separate cybersecurity threat from hype](https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/)
+- CXSecurity: World Laboratory of Bugtraq 2
+  - [Easy File Sharing Web Server v7.2 Buffer Overflow](https://cxsecurity.com/issue/WLB-2026040010)
+  - [FortiWeb  8.0.2 Remote Code Execution](https://cxsecurity.com/issue/WLB-2026040011)
+  - [WordPress  Madara Local File Inclusion](https://cxsecurity.com/issue/WLB-2026040012)
 - Daniel Miessler
   - [Good and Bad Harness Engineering](https://danielmiessler.com/blog/good-and-bad-harness-engineering?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - daringfireball.net
+  - [Amazon to Acquire Globalstar, Announces Agreement With Apple to Continue Service for iPhone and Apple Watch](https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple)
+  - [John Calhoun on Steve Lemay](https://news.ycombinator.com/item?id=47297653)
   - [Richard Moss’s 2010 Interview With John Calhoun on the Origins of Glider](https://macscene.net/d/4678-interview-john-calhoun-on-the-origins-of-glider-part-1)
 - experimental-history.com
   - [Nothing ever dies. It merely becomes embarrassing.](https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes)
@@ -13,7 +22,12 @@
 - Hacker News Frontpage
   - [40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal](https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b)
   - [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/)
+  - [California ghost-gun bill wants 3D printers to play cop, EFF says](https://www.theregister.com/2026/04/14/eff_california_3dprinted_firearms/)
+  - [ClawRun – Deploy and manage AI agents in seconds](https://github.com/clawrun-sh/clawrun)
+  - [Gas Town: From Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec)
+  - [The cost of building a workflow editor on React Flow](https://www.workflowbuilder.io/blog/build-vs-buy-workflow-editor-hidden-cost-react-flow)
 - HackerNews
+  - [Rockstar Games ĺˆ†ćžć•°ćŽé­ĺ‹’ç´˘ĺ›˘äź™ćł„éœ˛](http://0.0.0.0:8080/post/64115)
   - [ćŹ§ć´˛ĺĽčşŤĺˇ¨ĺ¤´ Basic-Fit ć•°ćŽćł„éœ˛ďźŒĺ˝ąĺ“ 100 ä¸‡äźšĺ‘˜](http://0.0.0.0:8080/post/64114)
 - IEEE Spectrum
   - [OpenAI Engineer Helps Companies Attract Buyers and Boost Sales](https://spectrum.ieee.org/openai-engineer-sarang-gupta)
@@ -27,6 +41,8 @@
   - [SEC Consult SA-20260414-0 :: Improper Enforcement of Locked Accounts in WebUI (SSO) in Kiuwan SAST on-premise (KOP) & cloud/SaaS](https://seclists.org/fulldisclosure/2026/Apr/5)
 - Security Affairs
   - [Personal data of 1 million gym members compromised in Basic-Fit security incident](https://securityaffairs.com/190815/data-breach/personal-data-of-1-million-gym-members-compromised-in-basic-fit-security-incident.html)
+- simonwillison.net
+  - [Cybersecurity Looks Like Proof of Work Now](https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Code Injection in Langflow exploit](https://sploitus.com/exploit?id=D39103A0-C73C-5513-A610-BDF66AC0294F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-24000 exploit](https://sploitus.com/exploit?id=00B103F8-BE7C-5681-9040-F6DCA403D67B&utm_source=rss&utm_medium=rss)
@@ -45,6 +61,7 @@
   - [Greg Brockman predicts AI will let small teams match the output of large ones if they can afford the compute](https://the-decoder.com/greg-brockman-predicts-ai-will-let-small-teams-match-the-output-of-large-ones-if-they-can-afford-the-compute/)
 - The Verge
   - [Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;](https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch)
+  - [Dozens of 4K Blu-rays are included in Amazon’s three for $33 sale](https://www.theverge.com/gadgets/911806/4k-bluray-movie-three-for-33-amazon-deal-sale)
   - [Google&#8217;s Spotlight-like desktop search bar for Windows is available for everyone](https://www.theverge.com/tech/911741/google-windows-app-launch)
   - [Leaked images reveal a dual-lens pro version of DJI’s next Osmo Pocket camera](https://www.theverge.com/tech/911674/dji-osmo-pocket-4-pro-leak-rumor-dual-camera)
   - [Prime Video is bundling Apple TV Plus and Peacock for a limited time](https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle)
@@ -63,17 +80,22 @@
   - [CVE-2025-65133 | manikandan580 School Management System 1.0 Endpoint sql injection](https://vuldb.com/vuln/357355)
   - [CVE-2025-65135 | manikandan580 School-Management-System up to 1.0 POST Parameter between-date-reprtsdetails.php fromdate sql injection](https://vuldb.com/vuln/357334)
   - [CVE-2025-68649 | Fortinet FortiManager Cloud up to 7.0.16/7.2.12/7.4.7/7.6.4 CLI path traversal (FG-IR-26-120)](https://vuldb.com/vuln/357346)
+  - [CVE-2025-70023 | transloadit uppy 0.25.6 type confusion](https://vuldb.com/vuln/357574)
+  - [CVE-2026-0207 | PureStorage FlashBlade up to 4.4.8/4.5.13/4.6.3 log file](https://vuldb.com/vuln/357576)
+  - [CVE-2026-0209 | PureStorage FlashArray up to 6.10.0 operator precedence logic error](https://vuldb.com/vuln/357577)
   - [CVE-2026-0390 | Microsoft Windows up to Server 2022 UEFI Secure Boot reliance on untrusted inputs in a security decision](https://vuldb.com/vuln/357385)
   - [CVE-2026-20806 | Microsoft Windows up to Server 2025 COM Server type confusion](https://vuldb.com/vuln/357386)
   - [CVE-2026-20928 | Microsoft Windows up to Server 2025 Recovery Environment improper removal of sensitive information before storage or transfer](https://vuldb.com/vuln/357387)
   - [CVE-2026-20930 | Microsoft Windows up to Server 2025 Management Services race condition](https://vuldb.com/vuln/357388)
   - [CVE-2026-20945 | Microsoft SharePoint Server cross site scripting](https://vuldb.com/vuln/357389)
+  - [CVE-2026-21331 | Adobe Connect up to 12.10/2025.3 cross site scripting (apsb26-37)](https://vuldb.com/vuln/357560)
   - [CVE-2026-21741 | Fortinet FortiNAC-F up to 7.2.9/7.4.3/7.6.5 CSV File Parser redirect (FG-IR-26-118)](https://vuldb.com/vuln/357348)
   - [CVE-2026-21742 | Fortinet FortiSOAR PaaS/FortiSOAR on-premise up to 7.3.3/7.4.5/7.5.1/7.6.2 Secure Message cleartext transmission (FG-IR-26-106)](https://vuldb.com/vuln/357359)
   - [CVE-2026-22155 | Fortinet FortiSOAR on-premise/FortiSOAR PaaS cleartext transmission (FG-IR-26-106)](https://vuldb.com/vuln/357349)
   - [CVE-2026-22573 | Fortinet FortiSOAR on-premise/FortiSOAR PaaS up to 7.3.3/7.4.5/7.5.3/7.6.3 File Content path traversal (FG-IR-26-116)](https://vuldb.com/vuln/357343)
   - [CVE-2026-22574 | Fortinet FortiSOAR PaaS/FortiSOAR on-premise LDAP Configuration password recoverable (FG-IR-26-105)](https://vuldb.com/vuln/357350)
   - [CVE-2026-22576 | Fortinet FortiSOAR PaaS/FortiSOAR on-premise up to 7.3.3/7.4.5/7.5.2/7.6.4 Connector Configuration password recoverable (FG-IR-26-104)](https://vuldb.com/vuln/357351)
+  - [CVE-2026-22692 | October CMS up to 3.7.12/4.1.4 collect protection mechanism (GHSA-m5qg-jc75-4jp6)](https://vuldb.com/vuln/357559)
   - [CVE-2026-22828 | Fortinet FortiAnalyzer Cloud/FortiManager Cloud up to 7.6.4 heap-based overflow (FG-IR-26-121)](https://vuldb.com/vuln/357352)
   - [CVE-2026-23653 | Microsoft Visual Studio Code CoPilot Chat Extension prior 0.37.3 command injection](https://vuldb.com/vuln/357390)
   - [CVE-2026-23657 | Microsoft Office LTSC 2024 Word use after free](https://vuldb.com/vuln/357391)
@@ -86,6 +108,8 @@
   - [CVE-2026-2402 | Schneider Electric PowerChute Serial Shutdown excessive authentication (SEVD-2026-104-01)](https://vuldb.com/vuln/357370)
   - [CVE-2026-2403 | Schneider Electric PowerChute Serial Shutdown /logsettings improper validation of specified quantity in input (SEVD-2026-104-01)](https://vuldb.com/vuln/357371)
   - [CVE-2026-2405 | Schneider Electric PowerChute Serial Shutdown ZIP File Creation /helpabout resource consumption (SEVD-2026-104-01)](https://vuldb.com/vuln/357357)
+  - [CVE-2026-24906 | October CMS up to 3.7.13/4.1.9 Setting cross site scripting (GHSA-6qmh-j78v-ffp7)](https://vuldb.com/vuln/357571)
+  - [CVE-2026-24907 | October CMS up to 3.7.13/4.1.9 Mail Message cross site scripting (GHSA-j4j5-9x6g-rgxc)](https://vuldb.com/vuln/357572)
   - [CVE-2026-25184 | Microsoft Windows up to Server 2025 Applocker Filter Driver applockerfltr.sys race condition](https://vuldb.com/vuln/357394)
   - [CVE-2026-25250 | Microsoft Windows up to Server 2025 Secure Boot missing cryptographic step](https://vuldb.com/vuln/357395)
   - [CVE-2026-25691 | Fortinet FortiSandbox PaaS/FortiSandbox Cloud/FortiSandbox path traversal (FG-IR-26-115)](https://vuldb.com/vuln/357354)
@@ -122,6 +146,18 @@
   - [CVE-2026-26182 | Microsoft Windows up to Server 2025 Ancillary Function Driver for WinSock use after free](https://vuldb.com/vuln/357426)
   - [CVE-2026-26183 | Microsoft Windows prior 10.0.26100.32690 RPC Server access control](https://vuldb.com/vuln/357427)
   - [CVE-2026-26184 | Microsoft Windows up to Server 2025 Projected File System buffer over-read](https://vuldb.com/vuln/357428)
+  - [CVE-2026-27238 | Adobe InDesign Desktop up to 20.5.2/21.2 File heap-based overflow (apsb26-32)](https://vuldb.com/vuln/357552)
+  - [CVE-2026-27243 | Adobe Connect up to 12.10/2025.3 cross site scripting (apsb26-37)](https://vuldb.com/vuln/357561)
+  - [CVE-2026-27245 | Adobe Connect up to 12.10/2025.3 cross site scripting (apsb26-37)](https://vuldb.com/vuln/357562)
+  - [CVE-2026-27246 | Adobe Connect up to 12.10/2025.3 cross site scripting (apsb26-37)](https://vuldb.com/vuln/357563)
+  - [CVE-2026-27258 | Adobe DNG SDK up to 1.7.1 2502 File out-of-bounds write (apsb26-41)](https://vuldb.com/vuln/357558)
+  - [CVE-2026-27283 | Adobe InDesign Desktop up to 20.5.2/21.2 File use after free (apsb26-32)](https://vuldb.com/vuln/357553)
+  - [CVE-2026-27284 | Adobe InDesign Desktop up to 20.5.2/21.2 File Parser out-of-bounds (apsb26-32)](https://vuldb.com/vuln/357556)
+  - [CVE-2026-27285 | Adobe InDesign Desktop up to 20.5.2/21.2 File heap-based overflow (apsb26-32)](https://vuldb.com/vuln/357557)
+  - [CVE-2026-27286 | Adobe InDesign Desktop up to 20.5.2/21.2 File heap-based overflow (apsb26-32)](https://vuldb.com/vuln/357554)
+  - [CVE-2026-27288 | Adobe Experience Manager up to FP11.7 form cross site scripting (apsb26-34)](https://vuldb.com/vuln/357566)
+  - [CVE-2026-27291 | Adobe InDesign Desktop up to 20.5.2/21.2 File out-of-bounds write (apsb26-32)](https://vuldb.com/vuln/357555)
+  - [CVE-2026-27303 | Adobe Connect up to 12.10/2025.3 deserialization (apsb26-37)](https://vuldb.com/vuln/357550)
   - [CVE-2026-27316 | Fortinet FortiSandbox/FortiSandbox PaaS up to 4.4.9/5.0.5 LDAP insufficiently protected credentials (FG-IR-26-113)](https://vuldb.com/vuln/357361)
   - [CVE-2026-27906 | Microsoft Windows 10 21H2/11 23H2/11 24H2/11 25H2/11 26H1 Hello Security information disclosure](https://vuldb.com/vuln/357429)
   - [CVE-2026-27907 | Microsoft Windows up to Server 2025 Storage Spaces Controller integer underflow](https://vuldb.com/vuln/357430)
@@ -227,8 +263,17 @@
   - [CVE-2026-33825 | Microsoft insufficient granularity of access control](https://vuldb.com/vuln/357546)
   - [CVE-2026-33826 | Microsoft input validation](https://vuldb.com/vuln/357547)
   - [CVE-2026-33827 | Microsoft race condition](https://vuldb.com/vuln/357548)
+  - [CVE-2026-34614 | Adobe Connect up to 12.10/2025.3 cross site scripting (apsb26-37)](https://vuldb.com/vuln/357564)
+  - [CVE-2026-34615 | Adobe Connect up to 12.10/2025.3 deserialization (apsb26-37)](https://vuldb.com/vuln/357551)
+  - [CVE-2026-34617 | Adobe Connect up to 12.10/2025.3 URL cross site scripting (apsb26-37)](https://vuldb.com/vuln/357565)
   - [CVE-2026-34622 | Adobe Acrobat Reader up to 24.001.30360/24.001.30362/26.001.21411 File prototype pollution (apsb26-44)](https://vuldb.com/vuln/357360)
+  - [CVE-2026-34623 | Adobe Experience Manager prior 6.5.24/FP11.7 cross site scripting (apsb26-34)](https://vuldb.com/vuln/357567)
+  - [CVE-2026-34624 | Adobe Experience Manager up to 6.5.24/FP11.7 cross site scripting (apsb26-34)](https://vuldb.com/vuln/357568)
+  - [CVE-2026-34625 | Adobe Experience Manager up to 6.5.24/FP11.7 cross site scripting (apsb26-34)](https://vuldb.com/vuln/357569)
   - [CVE-2026-34626 | Adobe Acrobat Reader up to 24.001.30360/24.001.30362/26.001.21411 File prototype pollution (apsb26-44)](https://vuldb.com/vuln/357373)
+  - [CVE-2026-34627 | Adobe InDesign Desktop up to 20.5.2/21.2 File heap-based overflow (apsb26-32)](https://vuldb.com/vuln/357578)
+  - [CVE-2026-34628 | Adobe InDesign Desktop up to 20.5.2/21.2 File heap-based overflow (apsb26-32)](https://vuldb.com/vuln/357580)
+  - [CVE-2026-34629 | Adobe InDesign Desktop up to 20.5.2/21.2 File heap-based overflow (apsb26-32)](https://vuldb.com/vuln/357579)
   - [CVE-2026-38526 | Krayin CRM 2.2.x /admin/tinymce/upload unrestricted upload](https://vuldb.com/vuln/357335)
   - [CVE-2026-38528 | Krayin CRM 2.2.x /Lead/LeadDataGrid.php rotten_lead sql injection](https://vuldb.com/vuln/357342)
   - [CVE-2026-38529 | Krayin CRM 2.2.x HTTP UserController.php improper authentication](https://vuldb.com/vuln/357336)
@@ -242,6 +287,9 @@
   - [CVE-2026-39814 | Fortinet FortiWeb up to 7.4.12/7.6.6/8.0.2 path traversal (FG-IR-26-114)](https://vuldb.com/vuln/357365)
   - [CVE-2026-39815 | Fortinet FortiDDoS-F up to 7.2.2 sql injection (FG-IR-26-119)](https://vuldb.com/vuln/357366)
   - [CVE-2026-5713 | Python CPython up to 3.14.x profiling.sampling/asyncio stack-based overflow (ID 148178)](https://vuldb.com/vuln/357340)
+  - [CVE-2026-5752 | cohere-ai cohere-terrarium sandbox](https://vuldb.com/vuln/357575)
+  - [CVE-2026-5754 | Radware Alteon vADC 34.5.4.0 cross site scripting](https://vuldb.com/vuln/357570)
+  - [CVE-2026-5756 | Data Recognition Central Office Services 975 missing authentication](https://vuldb.com/vuln/357573)
 - wheresyoured.at
   - [I Will Never Respect A Website](https://www.wheresyoured.at/i-will-never-respect-a-website/)
 - Wired
@@ -250,5 +298,6 @@
   - [How to Use Google Chrome’s New AI-Powered ‘Skills’](https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/)
   - [I Watched 18 Hours of Coachella’s Vertical Livestream and All I Got Was This Lousy FOMO](https://www.wired.com/story/i-watched-18-hours-of-coachella-on-vertical-video-and-it-was-not-good-for-my-fomo/)
   - [Telegram Is Still Hosting a Sanctioned $21 Billion Crypto Scammer Black Market](https://www.wired.com/story/telegram-is-still-hosting-a-sanctioned-21-billion-crypto-scammer-black-market/)
+  - [The Most WIRED Watches at Watches and Wonders 2026](https://www.wired.com/story/most-wired-watches-at-watches-and-wonders-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
