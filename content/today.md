@@ -1,10 +1,14 @@
 # 今日安全资讯（2026-04-14）
 
 - 2Libra
+  - [Kimi K2.6 code preview 现已上线](https://2libra.com/post/ai-updates/6Mrny3u)
   - [【投票】预言家们出来，微信聊天记录导出工具 wechat-cli 关停了](https://2libra.com/post/tech-qa/zSBqH7T)
   - [【本日羊毛】发一些羊毛供大家薅](https://2libra.com/post/deal-hunter/36cCOIr)
+  - [【🔒】分享一个大模型公益站](https://2libra.com/post/ai-tools/OJoZBSg)
+  - [国产主流杀毒软件内核驱动曝高危漏洞](https://2libra.com/post/network-security/TCPEC24)
   - [捣蛋鬼后遗症，血亏](https://2libra.com/post/game-discussion/-5vsJRZ)
   - [新人报到!](https://2libra.com/post/newcomer/R0ujiBn)
+  - [有什么 PDF 转换、编辑、拆分的软件推荐吗？](https://2libra.com/post/tools-sharing/eLTytiq)
   - [符号链接问题](https://2libra.com/post/file-storage/WZp_sda)
   - [莱恩岛生存指南玩过吗？好不好玩](https://2libra.com/post/game-share/crja2Bx)
 - 36氪
@@ -24,9 +28,11 @@
   - [中信证券：金价或有由流动性驱动的反弹机会](https://36kr.com/newsflashes/3765925859328774?f=rss)
   - [中信证券：随着尾部产能产量的出清，钢铁行业格局将进一步改善](https://36kr.com/newsflashes/3765920796508673?f=rss)
   - [亚马逊卫星联网项目Leo发布航空天线](https://36kr.com/newsflashes/3765936256762375?f=rss)
+  - [亚马逊或接近达成收购GlobalStar的交易，以期与Starlink展开竞争](https://36kr.com/newsflashes/3766059399594760?f=rss)
   - [人民币兑美元中间价报6.8593](https://36kr.com/newsflashes/3765984056787720?f=rss)
   - [创业板指、深成指双双涨逾1%](https://36kr.com/newsflashes/3766025573958405?f=rss)
   - [创业板指涨逾1%](https://36kr.com/newsflashes/3766015117197829?f=rss)
+  - [创业板指涨逾2%，全市场上涨个股超2900只](https://36kr.com/newsflashes/3766061544686089?f=rss)
   - [半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访](https://36kr.com/p/3764953900990977?f=rss)
   - [华工科技向港交所递交上市申请](https://36kr.com/newsflashes/3765852827746824?f=rss)
   - [华泰证券：具备强品牌力与渠道力的龙头酒企有望率先复苏](https://36kr.com/newsflashes/3765909839512329?f=rss)
@@ -35,6 +41,7 @@
   - [国家统计局：4月上旬生猪（外三元）价格环比下降4.2%](https://36kr.com/newsflashes/3766005109392137?f=rss)
   - [大摩：美股处于调整最后阶段，投资者应准备好增加风险敞口](https://36kr.com/newsflashes/3765872683827971?f=rss)
   - [央行今日开展10亿元7天逆回购操作](https://36kr.com/newsflashes/3765990748553729?f=rss)
+  - [宁德时代港股跌幅扩大至7%](https://36kr.com/newsflashes/3766062301807106?f=rss)
   - [对标OpenClaw，微软拟为Copilot开发新功能](https://36kr.com/newsflashes/3765944288150281?f=rss)
   - [岚图汽车：东风公司附属公司拟增持至多2.5亿元股份](https://36kr.com/newsflashes/3765908761215488?f=rss)
   - [市场对业绩关注度逐渐升温，机构建议布局三大方向](https://36kr.com/newsflashes/3765897688941312?f=rss)
@@ -49,11 +56,17 @@
   - [机构研判二季度：A股存在结构性机会，聚焦三大核心投资方向](https://36kr.com/newsflashes/3765909596029446?f=rss)
   - [比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡](https://36kr.com/newsflashes/3765998058980103?f=rss)
   - [汇丰银行在美国推出代币化存款服务](https://36kr.com/newsflashes/3765925638685449?f=rss)
+  - [沪深两市成交额突破1万亿](https://36kr.com/newsflashes/3766047912313601?f=rss)
   - [沪深两市成交额突破5000亿元](https://36kr.com/newsflashes/3766016378372872?f=rss)
   - [油价冲击影响显现，通胀制约美联储降息前景](https://36kr.com/newsflashes/3765881557680897?f=rss)
+  - [海关总署：一季度我国出口机电产品4.34万亿元，同比增长18.3%](https://36kr.com/newsflashes/3766050226782976?f=rss)
+  - [海关总署：一季度我国能源产品、金属矿砂进口分别增加4.4%和13.2%](https://36kr.com/newsflashes/3766050775122697?f=rss)
+  - [海关总署：中国3月以美元计价进口同比增长27.8%](https://36kr.com/newsflashes/3766085362778883?f=rss)
+  - [海关总署：我国进出口总值已连续12季度保持在10万亿元以上](https://36kr.com/newsflashes/3766045044409095?f=rss)
   - [现货白银向上触及76美元/盎司](https://36kr.com/newsflashes/3765974597370629?f=rss)
   - [甲骨文与Bloom Energy达成电力采购协议，用于其AI数据中心](https://36kr.com/newsflashes/3765871486190089?f=rss)
   - [美国联合航空公司首席执行官提出与竞争对手美国航空合并的可能性](https://36kr.com/newsflashes/3765884253717249?f=rss)
+  - [美国财长贝森特称正在制定要求银行核验公民身份的行政令](https://36kr.com/newsflashes/3766081595048450?f=rss)
   - [美联储主席提名人沃什已提交听证会推进前必需的财务披露文件](https://36kr.com/newsflashes/3765851986051590?f=rss)
   - [美股三大指数集体收涨，大型科技股多数走强](https://36kr.com/newsflashes/3765850275185161?f=rss)
   - [英伟达否认“洽购大型PC制造商”传闻](https://36kr.com/newsflashes/3765879448142595?f=rss)
@@ -62,6 +75,7 @@
   - [越疆完成A股IPO辅导验收](https://36kr.com/newsflashes/3765984322322952?f=rss)
   - [雪佛龙通过资产置换巩固委内瑞拉重油业务主导地位](https://36kr.com/newsflashes/3765967777415942?f=rss)
   - [首季增速15%，我国外贸起势有力、开局良好](https://36kr.com/newsflashes/3766029968212739?f=rss)
+  - [香港拟出台低空经济发展纲领，已对接内地推动跨境低空试飞尽快开展](https://36kr.com/newsflashes/3766051182379529?f=rss)
 - 404 Media
   - [Hacker Compromises a16z-Backed Phone Farm, Tries to Post Memes Calling a16z the ‘Antichrist’](https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/)
 - Ars Technica
@@ -99,6 +113,8 @@
   - [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
   - [The Looming College-Enrollment Death Spiral](https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/)
   - [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion)
+- HackerNews
+  - [ćŹ§ć´˛ĺĽčşŤĺˇ¨ĺ¤´ Basic-Fit ć•°ćŽćł„éœ˛ďźŒĺ˝ąĺ“ 100 ä¸‡äźšĺ‘˜](http://0.0.0.0:8080/post/64114)
 - HackerNoon
   - [5 Things Crypto Whitepapers Don’t Explain Clearly - And You Should Know](https://hackernoon.com/5-things-crypto-whitepapers-dont-explain-clearly-and-you-should-know?source=rss)
 - NetSPI Blog
@@ -190,4 +206,8 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [年轻与豪华兼得，12.99 万元起的奇瑞风云 T9L ，是真正的家用「六边形战士」](https://www.ifanr.com/1662037?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [数字排毒，我们这代人的赎罪券｜硬哲学](https://www.ifanr.com/1661961?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iOS 26.5 Beta 2曝光地图广告机制/华为公布大阔折叠外观/不到两天，奥特曼住所再遭袭击](https://www.ifanr.com/1662060?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [AI开始直接交付Excel，千问用Agent重构做表流程](https://www.qbitai.com/2026/04/401041.html)
