@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-04-15）
 
+- 36氪
+  - [美股三大指数集体收涨，纳指连续十个交易日上涨](https://36kr.com/newsflashes/3767256211784451?f=rss)
 - 404 Media
   - [Thomson Reuters Fired Worker For Speaking Out About ICE, Former Employee Says](https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says/)
 - Ars Technica
@@ -31,8 +33,10 @@
   - [40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal](https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b)
   - [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/)
   - [California ghost-gun bill wants 3D printers to play cop, EFF says](https://www.theregister.com/2026/04/14/eff_california_3dprinted_firearms/)
+  - [Civilization Is Not the Default. Violence Is](https://apropos.substack.com/p/civilization-is-a-public-good)
   - [ClawRun – Deploy and manage AI agents in seconds](https://github.com/clawrun-sh/clawrun)
   - [Gas Town: From Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec)
+  - [H.R.8250 – To require operating system providers to verify the age of any user](https://www.congress.gov/bill/119th-congress/house-bill/8250/all-info)
   - [The cost of building a workflow editor on React Flow](https://www.workflowbuilder.io/blog/build-vs-buy-workflow-editor-hidden-cost-react-flow)
   - [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
 - HackerNews
@@ -54,6 +58,8 @@
   - [SEC Consult SA-20260414-0 :: Improper Enforcement of Locked Accounts in WebUI (SSO) in Kiuwan SAST on-premise (KOP) & cloud/SaaS](https://seclists.org/fulldisclosure/2026/Apr/5)
 - Security Affairs
   - [Personal data of 1 million gym members compromised in Basic-Fit security incident](https://securityaffairs.com/190815/data-breach/personal-data-of-1-million-gym-members-compromised-in-basic-fit-security-incident.html)
+- SentinelOne
+  - [Securing the Software Supply Chain: How SentinelOne’s AI EDR Autonomously Blocked the CPU-Z Watering Hole Cyber Attack](https://www.sentinelone.com/blog/securing-the-software-supply-chain-how-sentinelones-ai-edr-autonomously-blocked-the-cpu-z-watering-hole-cyber-attack/)
 - simonwillison.net
   - [Cybersecurity Looks Like Proof of Work Now](https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything)
   - [Trusted access for the next era of cyber defense](https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything)
@@ -61,6 +67,7 @@
   - [CloudStorageHunter-Pro exploit](https://sploitus.com/exploit?id=EA9BFD6D-645B-55C7-89E3-D9E813A26CE5&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Langflow exploit](https://sploitus.com/exploit?id=D39103A0-C73C-5513-A610-BDF66AC0294F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-24000 exploit](https://sploitus.com/exploit?id=00B103F8-BE7C-5681-9040-F6DCA403D67B&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Control of Dynamically-Managed Code Resources in N8N exploit](https://sploitus.com/exploit?id=98E76415-A5CB-5346-9AB1-187C8880BE12&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Adobe Acrobat_Dc exploit](https://sploitus.com/exploit?id=987C5F11-231A-508D-AF25-5658F0958ADB&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI datacenter startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report](https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/)
@@ -81,6 +88,7 @@
   - [Dozens of 4K Blu-rays are included in Amazon’s three for $33 sale](https://www.theverge.com/gadgets/911806/4k-bluray-movie-three-for-33-amazon-deal-sale)
   - [Google&#8217;s Spotlight-like desktop search bar for Windows is available for everyone](https://www.theverge.com/tech/911741/google-windows-app-launch)
   - [Leaked images reveal a dual-lens pro version of DJI’s next Osmo Pocket camera](https://www.theverge.com/tech/911674/dji-osmo-pocket-4-pro-leak-rumor-dual-camera)
+  - [Microsoft&#8217;s finally giving up on its massive Surface Hub touchscreen displays](https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued)
   - [Prime Video is bundling Apple TV Plus and Peacock for a limited time](https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle)
   - [Privacy advocates want Google to stop handing consumer data over to ICE](https://www.theverge.com/news/911789/eff-google-giving-data-ice-california-new-york)
   - [Sony’s latest gaming headset offers great open-back audio](https://www.theverge.com/tech/908132/sony-inzone-h6-air-open-back-gaming-headset-hands-on)
