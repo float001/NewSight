@@ -132,6 +132,7 @@
   - [李力耘将加入众擎机器人，曾是小鹏智驾负责人](https://36kr.com/newsflashes/3767982483931910?f=rss)
   - [李成钢会见美国福特汽车公司全球执行副总裁兼首席政务官柯立](https://36kr.com/newsflashes/3767830158820100?f=rss)
   - [杨利娟辞任特海CEO，接手海底捞红石榴计划](https://36kr.com/newsflashes/3768051997213444?f=rss)
+  - [氪星晚报｜Snap宣布将裁员约1000人；字节启动新一轮期权回购；苹果CEO库克斥资106万美元增持耐克](https://36kr.com/p/3767970803221251?f=rss)
   - [沪深两市成交额突破1万亿](https://36kr.com/newsflashes/3767464327676423?f=rss)
   - [沪深两市成交额连续第6个交易日突破2万亿元](https://36kr.com/newsflashes/3767687337263873?f=rss)
   - [波音一季度共交付143架民用飞机](https://36kr.com/newsflashes/3767312965501442?f=rss)
@@ -194,12 +195,15 @@
   - [马斯克旗下xAI因孟菲斯数据中心项目遭NAACP起诉](https://36kr.com/newsflashes/3767347893109512?f=rss)
   - [马斯克：特斯拉AI5芯片成功流片，将成为产量最高AI芯片之一](https://36kr.com/newsflashes/3767782898795266?f=rss)
 - 404 Media
+  - [Emails Reveal Space Force’s Hardest Mission Is Writing a Song](https://www.404media.co/emails-reveal-space-forces-hardest-mission-is-writing-a-song/)
   - [Podcast: How the FBI Extracted Deleted Signal Messages](https://www.404media.co/podcast-how-the-fbi-extracted-deleted-signal-messages/)
   - [Thomson Reuters Fired Worker For Speaking Out About ICE, Former Employee Says](https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says/)
 - Ars Technica
   - [Americans ask AI for health care. Hospitals think the answer is more chatbots.](https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/)
   - [Rockets and spaceships are cool, but the humanity of Artemis II resonated most](https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most/)
   - [UK gov's Mythos AI tests help separate cybersecurity threat from hype](https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/)
+- Black Hills Information Security
+  - [Signed, Trusted, and Abused: Proxy Execution via WebView2](https://www.blackhillsinfosec.com/proxy-execution-via-webview2/)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Easy File Sharing Web Server v7.2 Buffer Overflow](https://cxsecurity.com/issue/WLB-2026040010)
   - [FortiWeb  8.0.2 Remote Code Execution](https://cxsecurity.com/issue/WLB-2026040011)
@@ -218,6 +222,8 @@
   - [EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses](https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses)
   - [Microsoft, Salesforce Patch AI Agent Data Leak Flaws](https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws)
   - [Privilege Elevation Dominates Massive Microsoft Patch Update](https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update)
+- Der Flounder
+  - [DUNS number no longer required to sign up for Apple Business in the United States](https://derflounder.wordpress.com/2026/04/15/duns-number-no-longer-required-to-sign-up-for-apple-business-in-the-united-states/)
 - EFF
   - [Digital Hopes, Real Power: The Rise of Network Shutdowns](https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-rise-network-shutdowns)
 - Emergent Minds | paddo.dev
@@ -237,8 +243,10 @@
   - [Gas Town: From Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec)
   - [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm)
   - [H.R.8250 – To require operating system providers to verify the age of any user](https://www.congress.gov/bill/119th-congress/house-bill/8250/all-info)
+  - [MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints](https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/)
   - [The cost of building a workflow editor on React Flow](https://www.workflowbuilder.io/blog/build-vs-buy-workflow-editor-hidden-cost-react-flow)
   - [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
+  - [Vibe Coding Fails](https://news.ycombinator.com/item?id=47778946)
   - [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html)
 - HackerNews
   - [PHP Composer ć›ĺ‡şä¸¤ĺ¤„éŤ˜ĺąćźć´žďźŒĺŻĺŻźč‡´äťťć„ĺ‘˝äť¤ć‰§čĄŒ](http://0.0.0.0:8080/post/64125)
@@ -351,12 +359,14 @@
   - [How the rewards app Freecash scammed its way to the top of the app stores](https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/)
   - [London gets closer to its first robotaxi service as Waymo begins testing](https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/)
   - [Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain](https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/)
+  - [Snap is cutting 1,000 jobs, 16% of its workforce](https://techcrunch.com/2026/04/15/snap-is-cutting-1000-jobs-16-of-its-workforce/)
   - [Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites](https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/)
   - [Spotify launches the ability to purchase physical books in the US and UK](https://techcrunch.com/2026/04/15/spotify-launches-the-ability-to-purchase-physical-books-in-the-us-and-uk/)
   - [This energy startup’s bet on 100-year-old grid tech is paying off](https://techcrunch.com/2026/04/15/this-energy-startups-bet-on-100-year-old-grid-tech-is-paying-off/)
   - [This startup is betting tokenmaxxing will create the next compute giant](https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/)
   - [YouTube livestreams will now hold back ads during peak engagement to protect the vibe](https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe/)
 - The Decoder
+  - [Claude beat human researchers on an alignment task, and then the results vanished in production](https://the-decoder.com/claude-beat-human-researchers-on-an-alignment-task-and-then-the-results-vanished-in-production/)
   - [Claude Code routines let AI fix bugs and review code on autopilot](https://the-decoder.com/claude-code-routines-let-ai-fix-bugs-and-review-code-on-autopilot/)
   - [Claude Mythos can autonomously compromise weakly defended enterprise networks end-to-end](https://the-decoder.com/claude-mythos-can-autonomously-compromise-weakly-defended-enterprise-networks-end-to-end/)
   - [Google Chrome's new "Skills" feature lets you save AI prompts and reuse them with a single click](https://the-decoder.com/google-chromes-new-skills-feature-lets-you-save-ai-prompts-and-reuse-them-with-a-single-click/)
@@ -385,6 +395,7 @@
   - [Spotify now sells printed books](https://www.theverge.com/entertainment/912232/spotify-update-physical-book-bookshop-sales)
   - [The new Tomodachi Life is made to be shared — even if Nintendo doesn’t want you to](https://www.theverge.com/entertainment/911950/tomodachi-life-living-the-dream-review-nintendo-switch)
   - [The world’s oldest art, now in 6K IMAX](https://www.theverge.com/entertainment/911678/werner-herzog-cave-forgotten-dreams-imax)
+  - [Walmart is updating its 4K streaming box with Gemini and Matter support](https://www.theverge.com/tech/912334/walmart-onn-4k-pro-streamer-google-tv-gemini-matter-thread-smart-home)
 - VulDB Recent Entries
   - [CVE-2023-20585 | Microsoft Windows 11 24H2/11 25H2/Server 2025 buffer overflow](https://vuldb.com/vuln/357384)
   - [CVE-2024-23104 | Fortinet FortiVoice/FortiNDR HTTP information disclosure (FG-IR-26-124)](https://vuldb.com/vuln/357345)
@@ -680,6 +691,7 @@
 - Wired
   - [AI Slop Is Making the Internet Fake-Happy](https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think/)
   - [Best GoPro Camera (2026): Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
+  - [Best Smart Smoke Detector (and Why You Still Need a Dumb One)](https://www.wired.com/story/should-smoke-alarms-be-smart/)
   - [Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming](https://www.wired.com/gallery/best-wifi-routers/)
   - [Gik Acoustics SoundBlocks Review: Good-Looking Acoustic Treatment](https://www.wired.com/story/gik-acoustics-panels-actually-look-good/)
   - [GoPro’s New Mission 1 Cameras Have 8K Video and Interchangeable Lenses](https://www.wired.com/story/gopro-mission-1-cameras/)
@@ -704,6 +716,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [亚马逊收购 Globalstar](https://www.solidot.org/story?sid=84048)
+  - [俄罗斯流行应用被发现会检测是否安装 VPN](https://www.solidot.org/story?sid=84054)
   - [安娜的档案被勒令向 Spotify 等赔偿 3.22 亿美元](https://www.solidot.org/story?sid=84053)
   - [英国首相表示社媒平台应停止无限滚动](https://www.solidot.org/story?sid=84050)
 - 爱范儿
@@ -717,6 +730,8 @@
 - 绿盟科技技术博客
   - [绿盟科技《Botnet趋势报告》（2026版）正式发布](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e3%80%8abotnet%e8%b6%8b%e5%8a%bf%e6%8a%a5%e5%91%8a%e3%80%8b%ef%bc%882026%e7%89%88%ef%bc%89%e6%ad%a3%e5%bc%8f%e5%8f%91%e5%b8%83/)
   - [绿盟科技携手统信软件，共筑成熟 · 智能国产创新生态——统信桌面操作系统V25发布](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%90%ba%e6%89%8b%e7%bb%9f%e4%bf%a1%e8%bd%af%e4%bb%b6%ef%bc%8c%e5%85%b1%e7%ad%91%e6%88%90%e7%86%9f-%c2%b7-%e6%99%ba%e8%83%bd%e5%9b%bd%e4%ba%a7%e5%88%9b%e6%96%b0/)
+- 量子位 QbitAI
+  - [全球首创16cm极致外扩超级机械臂，MOVA扫地机开启清洁新纪元](https://www.qbitai.com/2026/04/401512.html)
 - 黑海洋
   - [Meta承诺与博通合作打造1吉瓦定制芯片](https://blog.upx8.com/Meta%E6%89%BF%E8%AF%BA%E4%B8%8E%E5%8D%9A%E9%80%9A%E5%90%88%E4%BD%9C%E6%89%93%E9%80%A01%E5%90%89%E7%93%A6%E5%AE%9A%E5%88%B6%E8%8A%AF%E7%89%87)
   - [今年1~3月全球智能手机出货量减少4%](https://blog.upx8.com/%E4%BB%8A%E5%B9%B41-3%E6%9C%88%E5%85%A8%E7%90%83%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E5%87%8F%E5%B0%914)
