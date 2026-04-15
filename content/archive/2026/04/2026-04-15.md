@@ -76,6 +76,7 @@
   - [华泰证券：AI眼镜有望从当前的信息提示工具升级为智能体感知世界的信息入口](https://36kr.com/newsflashes/3767335169065737?f=rss)
   - [华泰证券：风电齿轮箱供需向好，产业链或迎来发展机遇](https://36kr.com/newsflashes/3767371325456901?f=rss)
   - [华西证券：看好锂电产业链高景气度趋势](https://36kr.com/newsflashes/3767374831502080?f=rss)
+  - [华谊兄弟：被债权人申请重整及预重整](https://36kr.com/newsflashes/3767980967232009?f=rss)
   - [博通宣布与Meta扩大合作，总裁兼CEO陈福阳将转任Meta顾问](https://36kr.com/newsflashes/3767282282365445?f=rss)
   - [台光电、台耀、联茂等高阶CCL供应商集体调价，涨幅至高达40%](https://36kr.com/newsflashes/3767372354536200?f=rss)
   - [哈啰回应超量投放共享单车被行政处罚](https://36kr.com/newsflashes/3767882377216772?f=rss)
@@ -90,6 +91,7 @@
   - [奈飞公司CEO与美国影院行业负责人举行会谈，双方未来或将合作？](https://36kr.com/newsflashes/3767698351407873?f=rss)
   - [威迈斯：2025年5.58亿元，同比增长39.51%](https://36kr.com/newsflashes/3767939478864649?f=rss)
   - [字节启动新一轮期权回购](https://36kr.com/newsflashes/3767922444927496?f=rss)
+  - [宁德时代：2025年度每10股派69.57元，分红总额超304亿元](https://36kr.com/newsflashes/3768024936432132?f=rss)
   - [安全气囊可能意外弹出，本田在美召回超44万辆汽车](https://36kr.com/newsflashes/3767755974836737?f=rss)
   - [小米汽车公布降噪处理新专利](https://36kr.com/newsflashes/3767702778757635?f=rss)
   - [年报审计提前被亮“非标”意见，*ST公司扎堆拉响退市“预警”](https://36kr.com/newsflashes/3767284752646660?f=rss)
@@ -104,6 +106,7 @@
   - [恒指午间休盘涨0.76%，恒生科技指数涨1.88%](https://36kr.com/newsflashes/3767563393221380?f=rss)
   - [恒指开盘涨1.14%，恒生科技指数涨2.26%](https://36kr.com/newsflashes/3767405508526598?f=rss)
   - [恒指收涨0.29%，恒生科技指数涨1.23%](https://36kr.com/newsflashes/3767806674125570?f=rss)
+  - [惠丰钻石回应产品涨价：原材料涨价，工业金刚石单晶主要依靠外采](https://36kr.com/newsflashes/3767986600428290?f=rss)
   - [惠丰钻石：5月1日起，对工业金刚石产品价格进行8%-12%结构性上调](https://36kr.com/newsflashes/3767676472328967?f=rss)
   - [我国网络视听用户规模10.99亿人，稳居各互联网应用首位](https://36kr.com/newsflashes/3767465576546820?f=rss)
   - [我国首艘万吨级纯电动智能集装箱船正式投入商业运营](https://36kr.com/newsflashes/3767905048380166?f=rss)
@@ -111,6 +114,7 @@
   - [报告：东南亚电商2025年GMV突破万亿](https://36kr.com/newsflashes/3767667153666823?f=rss)
   - [招金黄金：一季度净利润1.87亿元，同比扭亏为盈](https://36kr.com/newsflashes/3767943879164675?f=rss)
   - [拟赴港上市？接近度小满人士：不实](https://36kr.com/newsflashes/3767879425278728?f=rss)
+  - [摩根士丹利一季度净营收205.8亿美元](https://36kr.com/newsflashes/3768017989911042?f=rss)
   - [摩根大通CEO警告人工智能技术引发的网络攻击风险](https://36kr.com/newsflashes/3767665304240640?f=rss)
   - [新世界旗下Gmarket与阿里合资后GMV实现双位数增长](https://36kr.com/newsflashes/3767517674341127?f=rss)
   - [新华制药：布美他尼注射液获得药品注册证书](https://36kr.com/newsflashes/3767854453867008?f=rss)
@@ -120,11 +124,14 @@
   - [最前线｜追觅生态企业娲宝科技发布宠物智能项圈，布局“项圈+宠粮”数据闭环](https://36kr.com/p/3767424500171271?f=rss)
   - [机构今日买入长源东谷等20股，卖出佛塑科技2.19亿元](https://36kr.com/newsflashes/3767934552277511?f=rss)
   - [机构：全球智能手机出货量同比下降6%，荣耀、苹果逆势增长](https://36kr.com/newsflashes/3767655815938816?f=rss)
+  - [李力耘将加入众擎机器人，曾是小鹏智驾负责人](https://36kr.com/newsflashes/3767982483931910?f=rss)
   - [李成钢会见美国福特汽车公司全球执行副总裁兼首席政务官柯立](https://36kr.com/newsflashes/3767830158820100?f=rss)
   - [沪深两市成交额突破1万亿](https://36kr.com/newsflashes/3767464327676423?f=rss)
   - [沪深两市成交额连续第6个交易日突破2万亿元](https://36kr.com/newsflashes/3767687337263873?f=rss)
   - [波音一季度共交付143架民用飞机](https://36kr.com/newsflashes/3767312965501442?f=rss)
+  - [海南矿业锂矿增储遭合资方公开质疑，公司回应：不存在此问题，目前在进行沟通交流](https://36kr.com/newsflashes/3768030102700803?f=rss)
   - [海口市人民政府与中科曙光签署战略合作协议](https://36kr.com/newsflashes/3767777113260545?f=rss)
+  - [海思科：HSK47388片（I）新增适应症获批临床试验](https://36kr.com/newsflashes/3767999275172616?f=rss)
   - [深成指、创业板指均跌超1%](https://36kr.com/newsflashes/3767692364858119?f=rss)
   - [港股AI储能赛道：思格新能暗盘暴涨超90%，市值破1500亿港元，明日正式上市](https://36kr.com/newsflashes/3767827765691144?f=rss)
   - [澳洲会计师公会调查：85%的受访企业有计划在2026年开展创新业务](https://36kr.com/newsflashes/3767785367847429?f=rss)
@@ -152,6 +159,7 @@
   - [苹果提高印度iPhone产量，塔塔集团组装份额应能达到10-15%](https://36kr.com/newsflashes/3767791865398021?f=rss)
   - [荷兰全球保险集团将以27亿美元向标准人寿出售英国子公司](https://36kr.com/newsflashes/3767870974214919?f=rss)
   - [菜鸟发布攀爬机器人ZeeBot，实测智能化存取效率提升一倍](https://36kr.com/newsflashes/3767429503173382?f=rss)
+  - [蓝色光标：2025年净利润2.25亿元，同比扭亏](https://36kr.com/newsflashes/3768012583109123?f=rss)
   - [诺和诺德携手OpenAI加速药物研发，旨在提升效率](https://36kr.com/newsflashes/3766859780932104?f=rss)
   - [诺基亚联手Orange与英伟达推进AI-RAN创新](https://36kr.com/newsflashes/3767868212101897?f=rss)
   - [财政部将于4月在香港发行155亿元人民币国债](https://36kr.com/newsflashes/3767392904397568?f=rss)
@@ -163,6 +171,7 @@
   - [阿斯麦第一季度营收87.67亿欧元，高于市场预期](https://36kr.com/newsflashes/3767631500804871?f=rss)
   - [阿里ATH事业群发布首款AI开发工具秒悟](https://36kr.com/newsflashes/3767719255360257?f=rss)
   - [阿里云发布DDoS防护产品调价公告](https://36kr.com/newsflashes/3767442932122112?f=rss)
+  - [阿里云：将对部分MU模型单元的服务价格进行适度调整](https://36kr.com/newsflashes/3767993091965699?f=rss)
   - [险资去年四季度重点增持高股息标的](https://36kr.com/newsflashes/3767280970596866?f=rss)
   - [集邦咨询：零部件交期拉长抑制通用型服务器成长动能，预估2026年整体服务器出货量年增13%](https://36kr.com/newsflashes/3767610405110278?f=rss)
   - [韩国3月进口物价同比劲升18.4%，创逾三年最高涨幅](https://36kr.com/newsflashes/3767350547202569?f=rss)
@@ -192,7 +201,10 @@
   - [Speaking of Tips](https://www.houstonchronicle.com/politics/texas/article/kristin-tips-out-texas-funeral-22206178.php)
 - darkreading
   - [EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses](https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses)
+  - [Microsoft, Salesforce Patch AI Agent Data Leak Flaws](https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws)
   - [Privilege Elevation Dominates Massive Microsoft Patch Update](https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update)
+- EFF
+  - [Digital Hopes, Real Power: The Rise of Network Shutdowns](https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-rise-network-shutdowns)
 - Emergent Minds | paddo.dev
   - [Benchmarks Are Bullshit](https://paddo.dev/blog/benchmarks-are-bullshit/)
 - Ethical hacking and penetration testing
@@ -226,6 +238,9 @@
   - [The $12.6 Million "Patient Zero": Healthcare’s Identity Crisis](https://hackernoon.com/the-$126-million-patient-zero-healthcares-identity-crisis?source=rss)
   - [The Complete Guide to Migrating From UIKit to SwiftUI in Large Production Apps](https://hackernoon.com/the-complete-guide-to-migrating-from-uikit-to-swiftui-in-large-production-apps?source=rss)
   - [TinyBrain++: A Compact, Interpretable Alternative to Black-Box AI](https://hackernoon.com/tinybrain-a-compact-interpretable-alternative-to-black-box-ai?source=rss)
+- Horizon3.ai
+  - [CVE-2026-21643](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-21643/)
+  - [From Patch Tuesday to Pentest Wednesday®: When “Clean” Didn’t Mean Secure](https://horizon3.ai/intelligence/blogs/internal-pentest-hidden-attack-paths/)
 - ICT Security Magazine
   - [Oltre le Terze Parti, la cybersecurity della supply chain nel 2026](https://www.ictsecuritymagazine.com/notizie/terze-parti-cybersecurity-supply-chain/)
   - [Risk management nella sanità digitale: prevenire e mitigare i rischi informatici](https://www.ictsecuritymagazine.com/articoli/risk-management-sanita/)
@@ -246,6 +261,10 @@
   - [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-04-13: XLoader (Formbook) infection](https://www.malware-traffic-analysis.net/2026/04/13/index.html)
+- MIT Technology Review
+  - [Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram](https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/)
+- NowSecure
+  - [Emulator vs Real Device Testing in Mobile App Security: Closing Critical Coverage Gaps](https://www.nowsecure.com/blog/2026/04/15/emulator-vs-real-device-testing-in-mobile-app-security-closing-critical-coverage-gaps/)
 - rtl-sdr.com
   - [New YouTube Tutorials for SatDump V2.x.x](https://www.rtl-sdr.com/new-youtube-tutorials-for-satdump-v2-x-x/)
   - [Receiving the Artemis 2 S-Band Carrier With a Wi-Fi Dish and Airspy R2](https://www.rtl-sdr.com/receiving-the-artemis-2-s-band-carrier-with-a-wi-fi-dish-and-airspy-r2/)
@@ -264,12 +283,15 @@
   - [SEC Consult SA-20260414-0 :: Improper Enforcement of Locked Accounts in WebUI (SSO) in Kiuwan SAST on-premise (KOP) & cloud/SaaS](https://seclists.org/fulldisclosure/2026/Apr/5)
 - Security Affairs
   - [Microsoft Patch Tuesday for April 2026 fixed actively exploited SharePoint zero-day](https://securityaffairs.com/190831/security/microsoft-patch-tuesday-for-april-2026-fixed-actively-exploited-sharepoint-zero-day.html)
+  - [Mirax malware campaign hits 220K accounts, enables full remote control](https://securityaffairs.com/190842/uncategorized/mirax-malware-campaign-hits-220k-accounts-enables-full-remote-control.html)
   - [Personal data of 1 million gym members compromised in Basic-Fit security incident](https://securityaffairs.com/190815/data-breach/personal-data-of-1-million-gym-members-compromised-in-basic-fit-security-incident.html)
   - [PHP Composer flaws enable remote command execution via Perforce VCS](https://securityaffairs.com/190824/security/php-composer-flaws-enable-remote-command-execution-via-perforce-vcs.html)
 - Seebug Paper
   - [合法终端管理软件遭滥用：疑似银狐攻击事件分析与溯源](https://paper.seebug.org/3478/)
 - SentinelOne
   - [Securing the Software Supply Chain: How SentinelOne’s AI EDR Autonomously Blocked the CPU-Z Watering Hole Cyber Attack](https://www.sentinelone.com/blog/securing-the-software-supply-chain-how-sentinelones-ai-edr-autonomously-blocked-the-cpu-z-watering-hole-cyber-attack/)
+- shkspr.mobi
+  - [Why is it so hard to passively stalk my friends' locations?](https://shkspr.mobi/blog/2026/04/why-is-it-so-hard-to-passively-stalk-my-friends-locations/)
 - simonwillison.net
   - [Cybersecurity Looks Like Proof of Work Now](https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything)
   - [Trusted access for the next era of cyber defense](https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything)
@@ -280,6 +302,7 @@
   - [Exploit for CVE-2025-24000 exploit](https://sploitus.com/exploit?id=00B103F8-BE7C-5681-9040-F6DCA403D67B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-39987 exploit](https://sploitus.com/exploit?id=EB8A9513-5D21-5BA5-9728-9CD3EBC3C87F&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Control of Dynamically-Managed Code Resources in N8N exploit](https://sploitus.com/exploit?id=98E76415-A5CB-5346-9AB1-187C8880BE12&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=6D08DD28-3E6A-5370-AF92-CA6CC9DAC3D7&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Encryption of Sensitive Data in Apache Tomcat exploit](https://sploitus.com/exploit?id=1285FF13-ABC8-5DC1-84A6-8C3ED7BD1358&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Encryption of Sensitive Data in Apache Tomcat exploit](https://sploitus.com/exploit?id=99018C91-ACD6-5A6C-B40E-9643F4DDD2FF&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Gogs exploit](https://sploitus.com/exploit?id=3F1C84BD-1AB8-527E-87B7-1DC9C032C973&utm_source=rss&utm_medium=rss)
@@ -288,6 +311,9 @@
   - [pentest-with-LLM exploit](https://sploitus.com/exploit?id=50F65E0A-ED63-5501-8371-A9BE66A8233B&utm_source=rss&utm_medium=rss)
   - [ps459 exploit](https://sploitus.com/exploit?id=97B13EC0-55AE-5A24-96E5-1561659FA532&utm_source=rss&utm_medium=rss)
   - [tp-xss exploit](https://sploitus.com/exploit?id=04B92217-71C0-51C0-A113-EE840E9FF8B1&utm_source=rss&utm_medium=rss)
+  - [Venom_xss exploit](https://sploitus.com/exploit?id=5F56AF34-2A70-5BCC-831D-1EFC2A6F7BEB&utm_source=rss&utm_medium=rss)
+- StefLan's Security Blog
+  - [Certified Azure Red Team Expert (CARTE) Review](https://steflan-security.com/certified-azure-red-team-expert-carte-review/?utm_source=rss&utm_medium=rss&utm_campaign=certified-azure-red-team-expert-carte-review)
 - TechCrunch
   - [AI datacenter startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report](https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/)
   - [Anthropic co-founder confirms the company briefed the Trump administration on Mythos](https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/)
@@ -304,6 +330,7 @@
   - [Claude Mythos can autonomously compromise weakly defended enterprise networks end-to-end](https://the-decoder.com/claude-mythos-can-autonomously-compromise-weakly-defended-enterprise-networks-end-to-end/)
   - [Google Chrome's new "Skills" feature lets you save AI prompts and reuse them with a single click](https://the-decoder.com/google-chromes-new-skills-feature-lets-you-save-ai-prompts-and-reuse-them-with-a-single-click/)
   - [Greg Brockman predicts AI will let small teams match the output of large ones if they can afford the compute](https://the-decoder.com/greg-brockman-predicts-ai-will-let-small-teams-match-the-output-of-large-ones-if-they-can-afford-the-compute/)
+  - [Microsoft Copilot in Word can now track changes and manage comments](https://the-decoder.com/microsoft-copilot-in-word-can-now-track-changes-and-manage-comments/)
   - [OpenAI releases GPT-5.4-Cyber, a model built specifically for defensive cybersecurity](https://the-decoder.com/openai-releases-gpt-5-4-cyber-a-model-built-specifically-for-defensive-cybersecurity/)
   - [OpenAI's European Stargate plans shrink as Microsoft and Google take over capacity](https://the-decoder.com/openais-european-stargate-plans-shrink-as-microsoft-and-google-take-over-capacity/)
   - [OpenAI's GPT-5.4 Pro reportedly solves a longstanding open Erdős math problem in under two hours](https://the-decoder.com/openais-gpt-5-4-pro-reportedly-solves-a-longstanding-open-erdos-math-problem-in-under-two-hours/)
@@ -313,12 +340,15 @@
   - [Google&#8217;s Spotlight-like desktop search bar for Windows is available for everyone](https://www.theverge.com/tech/911741/google-windows-app-launch)
   - [Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.](https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes)
   - [Leaked images reveal a dual-lens pro version of DJI’s next Osmo Pocket camera](https://www.theverge.com/tech/911674/dji-osmo-pocket-4-pro-leak-rumor-dual-camera)
+  - [Microsoft faces fresh Windows Recall security concerns](https://www.theverge.com/report/912101/microsoft-windows-recall-new-security-concerns-response)
   - [Microsoft&#8217;s finally giving up on its massive Surface Hub touchscreen displays](https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued)
   - [Prime Video is bundling Apple TV Plus and Peacock for a limited time](https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle)
   - [Privacy advocates want Google to stop handing consumer data over to ICE](https://www.theverge.com/news/911789/eff-google-giving-data-ice-california-new-york)
+  - [Snap is laying off 16 percent of its staff as it leans into AI](https://www.theverge.com/tech/912314/snap-layoffs-1000-staffers-ai-profitability)
   - [Sony’s latest gaming headset offers great open-back audio](https://www.theverge.com/tech/908132/sony-inzone-h6-air-open-back-gaming-headset-hands-on)
   - [Sony’s new 1440p OLED gaming monitor seems a lot better than its first](https://www.theverge.com/news/907924/sony-inzone-m10s-ii-oled-tandem-gaming-monitor-specs-price-features)
   - [Spotify now sells printed books](https://www.theverge.com/entertainment/912232/spotify-update-physical-book-bookshop-sales)
+  - [The new Tomodachi Life is made to be shared — even if Nintendo doesn’t want you to](https://www.theverge.com/entertainment/911950/tomodachi-life-living-the-dream-review-nintendo-switch)
   - [The world’s oldest art, now in 6K IMAX](https://www.theverge.com/entertainment/911678/werner-herzog-cave-forgotten-dreams-imax)
 - VulDB Recent Entries
   - [CVE-2023-20585 | Microsoft Windows 11 24H2/11 25H2/Server 2025 buffer overflow](https://vuldb.com/vuln/357384)
@@ -614,6 +644,8 @@
   - [I Will Never Respect A Website](https://www.wheresyoured.at/i-will-never-respect-a-website/)
 - Wired
   - [AI Slop Is Making the Internet Fake-Happy](https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think/)
+  - [Best GoPro Camera (2026): Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
+  - [Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming](https://www.wired.com/gallery/best-wifi-routers/)
   - [Gik Acoustics SoundBlocks Review: Good-Looking Acoustic Treatment](https://www.wired.com/story/gik-acoustics-panels-actually-look-good/)
   - [GoPro’s New Mission 1 Cameras Have 8K Video and Interchangeable Lenses](https://www.wired.com/story/gopro-mission-1-cameras/)
   - [How to Use Google Chrome’s New AI-Powered ‘Skills’](https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/)
@@ -643,8 +675,13 @@
   - [微软想给所有 Windows 电脑预装龙虾](https://www.ifanr.com/1662224?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [拳打丰田，脚踢本田，吉利发布 i-HEV 技术，百公里油耗仅 2.22L](https://www.ifanr.com/1662203?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果：建议更新iOS保护iPhone数据安全/华为苹果一季度逆势领跑手机市场/比亚迪回应车库起火](https://www.ifanr.com/1662221?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [英特尔发布「AI 高静」游戏本新标准：安静和性能也可兼得](https://www.ifanr.com/1662338?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [首发即绝版！劳斯莱斯近亿元定制跑车「夜莺」问世，全部 100 辆已售光](https://www.ifanr.com/1662313?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [绿盟科技《Botnet趋势报告》（2026版）正式发布](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e3%80%8abotnet%e8%b6%8b%e5%8a%bf%e6%8a%a5%e5%91%8a%e3%80%8b%ef%bc%882026%e7%89%88%ef%bc%89%e6%ad%a3%e5%bc%8f%e5%8f%91%e5%b8%83/)
+  - [绿盟科技携手统信软件，共筑成熟 · 智能国产创新生态——统信桌面操作系统V25发布](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%90%ba%e6%89%8b%e7%bb%9f%e4%bf%a1%e8%bd%af%e4%bb%b6%ef%bc%8c%e5%85%b1%e7%ad%91%e6%88%90%e7%86%9f-%c2%b7-%e6%99%ba%e8%83%bd%e5%9b%bd%e4%ba%a7%e5%88%9b%e6%96%b0/)
 - 黑海洋
   - [Meta承诺与博通合作打造1吉瓦定制芯片](https://blog.upx8.com/Meta%E6%89%BF%E8%AF%BA%E4%B8%8E%E5%8D%9A%E9%80%9A%E5%90%88%E4%BD%9C%E6%89%93%E9%80%A01%E5%90%89%E7%93%A6%E5%AE%9A%E5%88%B6%E8%8A%AF%E7%89%87)
   - [今年1~3月全球智能手机出货量减少4%](https://blog.upx8.com/%E4%BB%8A%E5%B9%B41-3%E6%9C%88%E5%85%A8%E7%90%83%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E5%87%8F%E5%B0%914)
+  - [新法案：游戏关服必出离线版 不然全退款](https://blog.upx8.com/%E6%96%B0%E6%B3%95%E6%A1%88-%E6%B8%B8%E6%88%8F%E5%85%B3%E6%9C%8D%E5%BF%85%E5%87%BA%E7%A6%BB%E7%BA%BF%E7%89%88-%E4%B8%8D%E7%84%B6%E5%85%A8%E9%80%80%E6%AC%BE)
   - [缅因州议会通过大型数据中心建设禁令](https://blog.upx8.com/%E7%BC%85%E5%9B%A0%E5%B7%9E%E8%AE%AE%E4%BC%9A%E9%80%9A%E8%BF%87%E5%A4%A7%E5%9E%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%BB%BA%E8%AE%BE%E7%A6%81%E4%BB%A4)
