@@ -5,24 +5,44 @@
   - [361度：主品牌产品第一季度零售额同比录得约10%正增长](https://36kr.com/newsflashes/3767326430298885?f=rss)
   - [ETF资金流向分化，公募策略趋于多元](https://36kr.com/newsflashes/3767283785761542?f=rss)
   - [IMF下调2026年世界经济增长预期](https://36kr.com/newsflashes/3767298443444745?f=rss)
+  - [KKR将通过购买可转换债券向三星SDS投资8.2亿美元](https://36kr.com/newsflashes/3767346732941832?f=rss)
   - [OpenAI向部分用户发布Cyber模型，与Mythos展开竞争](https://36kr.com/newsflashes/3767318563717891?f=rss)
   - [《明末》团队解散背后，国产单机究竟还缺什么？](https://36kr.com/p/3766718158324489?f=rss)
+  - [一季度A股IPO市场“量质齐升”，未来产业踊跃“报考”](https://36kr.com/newsflashes/3767371900175109?f=rss)
+  - [一季度银行理财规模排名调整，行业竞争关键从渠道转向投研能力](https://36kr.com/newsflashes/3767336136639232?f=rss)
+  - [业绩亮眼股价承压，上市券商将多措并举推动价值回归](https://36kr.com/newsflashes/3767360021119748?f=rss)
+  - [两市融资余额较上日增加163.45亿元](https://36kr.com/newsflashes/3767370583065097?f=rss)
   - [个人养老金基金新增5只，“双线扩容”助力长期投资](https://36kr.com/newsflashes/3767285762671113?f=rss)
   - [中信建投：历次原油供给大冲击之后，全球将寻求能源供应多元化](https://36kr.com/newsflashes/3767312178758148?f=rss)
+  - [中信证券：看好铜板块在2026年第二季度重回市场配置主线](https://36kr.com/newsflashes/3767350954689024?f=rss)
   - [亚马逊将收购全球星，并为苹果iPhone提供卫星服务支持](https://36kr.com/newsflashes/3766865098048261?f=rss)
+  - [债基大额赎回频现，帮忙资金或“卡点”撤离](https://36kr.com/newsflashes/3767349562704647?f=rss)
+  - [光合创投完成开年最大VC募集](https://36kr.com/newsflashes/3767383167844866?f=rss)
+  - [光通信进入可持续景气周期，产业链多环节成长空间打开](https://36kr.com/newsflashes/3767348938129924?f=rss)
   - [华勤技术：拟发售5854.8万股H股](https://36kr.com/newsflashes/3767279397798658?f=rss)
+  - [华泰证券：4月中国出口或仍有望维持较高景气度](https://36kr.com/newsflashes/3767348211433990?f=rss)
+  - [华泰证券：AI眼镜有望从当前的信息提示工具升级为智能体感知世界的信息入口](https://36kr.com/newsflashes/3767335169065737?f=rss)
+  - [华泰证券：风电齿轮箱供需向好，产业链或迎来发展机遇](https://36kr.com/newsflashes/3767371325456901?f=rss)
   - [博通宣布与Meta扩大合作，总裁兼CEO陈福阳将转任Meta顾问](https://36kr.com/newsflashes/3767282282365445?f=rss)
+  - [台光电、台耀、联茂等高阶CCL供应商集体调价，涨幅至高达40%](https://36kr.com/newsflashes/3767372354536200?f=rss)
   - [境外机构今年已发行熊猫债超1022亿元](https://36kr.com/newsflashes/3767281552556553?f=rss)
   - [年报审计提前被亮“非标”意见，*ST公司扎堆拉响退市“预警”](https://36kr.com/newsflashes/3767284752646660?f=rss)
+  - [微软计划扩建美国怀俄明州夏延数据中心](https://36kr.com/newsflashes/3767333413651208?f=rss)
   - [智谱：同意购买安狮红钻投资有限公司持有的目标公司100%股权](https://36kr.com/newsflashes/3766864468394497?f=rss)
   - [波音一季度共交付143架民用飞机](https://36kr.com/newsflashes/3767312965501442?f=rss)
   - [特斯拉机器人出租车推进引发现金流担忧，不断增加的支出给财务带来压力](https://36kr.com/newsflashes/3766861583860481?f=rss)
+  - [特斯拉高管称上海工厂将为擎天柱机器人量产提供“金钥匙”](https://36kr.com/newsflashes/3767370241163780?f=rss)
   - [算力紧缺之下，Anthropic调整定价模式，按企业AI使用量计费](https://36kr.com/newsflashes/3767287174054665?f=rss)
   - [美联储4月维持利率不变的概率为98.4%](https://36kr.com/newsflashes/3767311100035590?f=rss)
   - [美股三大指数集体收涨，纳指连续十个交易日上涨](https://36kr.com/newsflashes/3767256211784451?f=rss)
   - [美财政部寻求接入Anthropic旗下Mythos模型，以发现系统漏洞](https://36kr.com/newsflashes/3766866396578566?f=rss)
+  - [英特尔据悉将在未来几周向员工披露参与马斯克Terafab项目的细节](https://36kr.com/newsflashes/3767334817088009?f=rss)
+  - [苹果官微发文提醒iPhone用户立即更新设备](https://36kr.com/newsflashes/3767352810095367?f=rss)
   - [诺和诺德携手OpenAI加速药物研发，旨在提升效率](https://36kr.com/newsflashes/3766859780932104?f=rss)
   - [险资去年四季度重点增持高股息标的](https://36kr.com/newsflashes/3767280970596866?f=rss)
+  - [韩国3月进口物价同比劲升18.4%，创逾三年最高涨幅](https://36kr.com/newsflashes/3767350547202569?f=rss)
+  - [风险投资机构争相向Anthropic抛出投资要约，估值最高达8000亿美元](https://36kr.com/newsflashes/3767314218713859?f=rss)
+  - [马斯克旗下xAI因孟菲斯数据中心项目遭NAACP起诉](https://36kr.com/newsflashes/3767347893109512?f=rss)
 - 404 Media
   - [Thomson Reuters Fired Worker For Speaking Out About ICE, Former Employee Says](https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says/)
 - Ars Technica
@@ -67,12 +87,15 @@
   - [ćŹ§ć´˛ĺĽčşŤĺˇ¨ĺ¤´ Basic-Fit ć•°ćŽćł„éœ˛ďźŒĺ˝ąĺ“ 100 ä¸‡äźšĺ‘˜](http://0.0.0.0:8080/post/64114)
 - IEEE Spectrum
   - [OpenAI Engineer Helps Companies Attract Buyers and Boost Sales](https://spectrum.ieee.org/openai-engineer-sarang-gupta)
+- johndcook.com
+  - [Oppenheimer’s legacy: How the national labs forged the age of hyperscale AI](https://www.johndcook.com/blog/2026/04/14/oppenheimers-legacy-how-the-national-labs-forged-the-age-of-hyperscale-ai/)
 - krebsonsecurity.com
   - [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-04-13: XLoader (Formbook) infection](https://www.malware-traffic-analysis.net/2026/04/13/index.html)
 - SANS Internet Storm Center, InfoCON: green
   - [Microsoft Patch Tuesday April 2026., (Tue, Apr 14th)](https://isc.sans.edu/diary/rss/32898)
+  - [Scanning for AI Models, (Tue, Apr 14th)](https://isc.sans.edu/diary/rss/32896)
 - Schneier on Security
   - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html)
 - SecLists - Full Disclosure
@@ -373,5 +396,8 @@
   - [I Watched 18 Hours of Coachella’s Vertical Livestream and All I Got Was This Lousy FOMO](https://www.wired.com/story/i-watched-18-hours-of-coachella-on-vertical-video-and-it-was-not-good-for-my-fomo/)
   - [Telegram Is Still Hosting a Sanctioned $21 Billion Crypto Scammer Black Market](https://www.wired.com/story/telegram-is-still-hosting-a-sanctioned-21-billion-crypto-scammer-black-market/)
   - [The Most WIRED Watches at Watches and Wonders 2026](https://www.wired.com/story/most-wired-watches-at-watches-and-wonders-2026/)
+- 不安全
+  - [Scanning for AI Models, (Tue, Apr 14th)](https://buaq.net/go-410186.html)
+  - [苹果主要依赖的卫星紧急消息服务提供商Globalstar被亚马逊以116亿美元收购](https://buaq.net/go-410183.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
