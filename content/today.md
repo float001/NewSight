@@ -202,6 +202,7 @@
   - [Americans ask AI for health care. Hospitals think the answer is more chatbots.](https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/)
   - [Rockets and spaceships are cool, but the humanity of Artemis II resonated most](https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most/)
   - [UK gov's Mythos AI tests help separate cybersecurity threat from hype](https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/)
+  - [What’s the deal with Alzheimer’s disease and amyloid?](https://arstechnica.com/science/2026/04/whats-the-deal-with-alzheimers-disease-and-amyloid/)
 - Black Hills Information Security
   - [Signed, Trusted, and Abused: Proxy Execution via WebView2](https://www.blackhillsinfosec.com/proxy-execution-via-webview2/)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -217,8 +218,10 @@
   - [John Calhoun on Steve Lemay](https://news.ycombinator.com/item?id=47297653)
   - [On the Name of Apple’s Foldable iPhone](https://www.macrumors.com/2026/04/07/foldable-iphone-fold-iphone-ultra/)
   - [Richard Moss’s 2010 Interview With John Calhoun on the Origins of Glider](https://macscene.net/d/4678-interview-john-calhoun-on-the-origins-of-glider-part-1)
+  - [Screen Zooming on iOS](https://mastodon.social/@stroughtonsmith/116404958539831051)
   - [Speaking of Tips](https://www.houstonchronicle.com/politics/texas/article/kristin-tips-out-texas-funeral-22206178.php)
 - darkreading
+  - [Audit: Big Tech Often Ignores CA Privacy Law Opt-Out Requests](https://www.darkreading.com/cyber-risk/audit-big-tech-ignores-data-collection-requests)
   - [EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses](https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses)
   - [Microsoft, Salesforce Patch AI Agent Data Leak Flaws](https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws)
   - [Privilege Elevation Dominates Massive Microsoft Patch Update](https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update)
@@ -226,6 +229,7 @@
   - [DUNS number no longer required to sign up for Apple Business in the United States](https://derflounder.wordpress.com/2026/04/15/duns-number-no-longer-required-to-sign-up-for-apple-business-in-the-united-states/)
 - EFF
   - [Digital Hopes, Real Power: The Rise of Network Shutdowns](https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-rise-network-shutdowns)
+  - [EFF Calls on Kuwait to Release Journalist Ahmed Shihab-Eldin](https://www.eff.org/deeplinks/2026/04/eff-calls-kuwait-release-journalist-ahmed-shihab-eldin)
 - Emergent Minds | paddo.dev
   - [Benchmarks Are Bullshit](https://paddo.dev/blog/benchmarks-are-bullshit/)
 - Ethical hacking and penetration testing
@@ -240,6 +244,7 @@
   - [California ghost-gun bill wants 3D printers to play cop, EFF says](https://www.theregister.com/2026/04/14/eff_california_3dprinted_firearms/)
   - [Civilization Is Not the Default. Violence Is](https://apropos.substack.com/p/civilization-is-a-public-good)
   - [ClawRun – Deploy and manage AI agents in seconds](https://github.com/clawrun-sh/clawrun)
+  - [Daily Claude outage is upon us. Waiting for Claude Status to update](https://claudestatus.com/)
   - [Gas Town: From Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec)
   - [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm)
   - [H.R.8250 – To require operating system providers to verify the age of any user](https://www.congress.gov/bill/119th-congress/house-bill/8250/all-info)
@@ -280,6 +285,8 @@
   - [AI Companies To Play Bigger Role in CVE Program, Says CISA](https://www.infosecurity-magazine.com/news/ai-companies-to-play-bigger-role/)
   - [Microsoft Fixes Two Zero-Days in April Patch Tuesday](https://www.infosecurity-magazine.com/news/microsoft-two-zerodays-april-patch/)
   - [Researchers Spot Surge in Brute-Force Attacks from Middle East](https://www.infosecurity-magazine.com/news/researchers-surge-bruteforce/)
+- jeffgeerling.com
+  - [An Arm Mainboard for the Framework Laptop](https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/)
 - johndcook.com
   - [Oppenheimer’s legacy: How the national labs forged the age of hyperscale AI](https://www.johndcook.com/blog/2026/04/14/oppenheimers-legacy-how-the-national-labs-forged-the-age-of-hyperscale-ai/)
 - krebsonsecurity.com
@@ -293,6 +300,7 @@
   - [Emulator vs Real Device Testing in Mobile App Security: Closing Critical Coverage Gaps](https://www.nowsecure.com/blog/2026/04/15/emulator-vs-real-device-testing-in-mobile-app-security-closing-critical-coverage-gaps/)
 - NVIDIA AI Blog
   - [New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs](https://blogs.nvidia.com/blog/rtx-ai-garage-nab-adobe-premiere-color-mode/)
+  - [Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters](https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/)
 - rtl-sdr.com
   - [New YouTube Tutorials for SatDump V2.x.x](https://www.rtl-sdr.com/new-youtube-tutorials-for-satdump-v2-x-x/)
   - [Receiving the Artemis 2 S-Band Carrier With a Wi-Fi Dish and Airspy R2](https://www.rtl-sdr.com/receiving-the-artemis-2-s-band-carrier-with-a-wi-fi-dish-and-airspy-r2/)
@@ -316,6 +324,8 @@
   - [Mirax malware campaign hits 220K accounts, enables full remote control](https://securityaffairs.com/190842/uncategorized/mirax-malware-campaign-hits-220k-accounts-enables-full-remote-control.html)
   - [Personal data of 1 million gym members compromised in Basic-Fit security incident](https://securityaffairs.com/190815/data-breach/personal-data-of-1-million-gym-members-compromised-in-basic-fit-security-incident.html)
   - [PHP Composer flaws enable remote command execution via Perforce VCS](https://securityaffairs.com/190824/security/php-composer-flaws-enable-remote-command-execution-via-perforce-vcs.html)
+- Security Boulevard
+  - [Claude Mythos and the AI Vulnerability Arms Race – What CISOs Must Know Now](https://securityboulevard.com/2026/04/claude-mythos-and-the-ai-vulnerability-arms-race-what-cisos-must-know-now/)
 - Seebug Paper
   - [合法终端管理软件遭滥用：疑似银狐攻击事件分析与溯源](https://paper.seebug.org/3478/)
 - SentinelOne
@@ -348,6 +358,7 @@
   - [Certified Azure Red Team Expert (CARTE) Review](https://steflan-security.com/certified-azure-red-team-expert-carte-review/?utm_source=rss&utm_medium=rss&utm_campaign=certified-azure-red-team-expert-carte-review)
 - TechCrunch
   - [Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks](https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/)
+  - [After sale of its shoe business, Allbirds pivots to AI](https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/)
   - [AI datacenter startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report](https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/)
   - [Amazon unveils a slimmer Fire TV Stick HD, opens Ember Artline TVs for preorder](https://techcrunch.com/2026/04/15/amazon-unveils-a-slimmer-fire-tv-stick-hd-opens-ember-artline-tvs-for-preorder/)
   - [Anthropic co-founder confirms the company briefed the Trump administration on Mythos](https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/)
@@ -362,10 +373,12 @@
   - [Snap is cutting 1,000 jobs, 16% of its workforce](https://techcrunch.com/2026/04/15/snap-is-cutting-1000-jobs-16-of-its-workforce/)
   - [Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites](https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/)
   - [Spotify launches the ability to purchase physical books in the US and UK](https://techcrunch.com/2026/04/15/spotify-launches-the-ability-to-purchase-physical-books-in-the-us-and-uk/)
+  - [Sweden blames Russian hackers for attempting ‘destructive’ cyberattack on thermal plant](https://techcrunch.com/2026/04/15/sweden-blames-russian-hackers-for-attempting-destructive-cyberattack-on-thermal-plant/)
   - [This energy startup’s bet on 100-year-old grid tech is paying off](https://techcrunch.com/2026/04/15/this-energy-startups-bet-on-100-year-old-grid-tech-is-paying-off/)
   - [This startup is betting tokenmaxxing will create the next compute giant](https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/)
   - [YouTube livestreams will now hold back ads during peak engagement to protect the vibe](https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe/)
 - The Decoder
+  - [Anthropic prepares Opus 4.7 and AI design tool, VCs offer up to 800 billion dollars](https://the-decoder.com/anthropic-prepares-opus-4-7-and-ai-design-tool-vcs-offer-up-to-800-billion-dollars/)
   - [Claude beat human researchers on an alignment task, and then the results vanished in production](https://the-decoder.com/claude-beat-human-researchers-on-an-alignment-task-and-then-the-results-vanished-in-production/)
   - [Claude Code routines let AI fix bugs and review code on autopilot](https://the-decoder.com/claude-code-routines-let-ai-fix-bugs-and-review-code-on-autopilot/)
   - [Claude Mythos can autonomously compromise weakly defended enterprise networks end-to-end](https://the-decoder.com/claude-mythos-can-autonomously-compromise-weakly-defended-enterprise-networks-end-to-end/)
@@ -690,6 +703,7 @@
   - [I Will Never Respect A Website](https://www.wheresyoured.at/i-will-never-respect-a-website/)
 - Wired
   - [AI Slop Is Making the Internet Fake-Happy](https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think/)
+  - [Allbirds Is Pivoting to AI Compute. Sure, Why Not](https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/)
   - [Best GoPro Camera (2026): Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
   - [Best Smart Smoke Detector (and Why You Still Need a Dumb One)](https://www.wired.com/story/should-smoke-alarms-be-smart/)
   - [Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming](https://www.wired.com/gallery/best-wifi-routers/)
@@ -697,6 +711,7 @@
   - [GoPro’s New Mission 1 Cameras Have 8K Video and Interchangeable Lenses](https://www.wired.com/story/gopro-mission-1-cameras/)
   - [How to Use Google Chrome’s New AI-Powered ‘Skills’](https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/)
   - [I Watched 18 Hours of Coachella’s Vertical Livestream and All I Got Was This Lousy FOMO](https://www.wired.com/story/i-watched-18-hours-of-coachella-on-vertical-video-and-it-was-not-good-for-my-fomo/)
+  - [MAGA Is Starting to Look Beyond Trump](https://www.wired.com/story/maga-is-starting-to-look-beyond-trump/)
   - [Telegram Is Still Hosting a Sanctioned $21 Billion Crypto Scammer Black Market](https://www.wired.com/story/telegram-is-still-hosting-a-sanctioned-21-billion-crypto-scammer-black-market/)
   - [The Caves That Could Help Us Find, or Become, Aliens](https://www.wired.com/story/the-caves-that-could-help-us-find-or-become-aliens/)
   - [The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought](https://www.wired.com/story/deepfake-nudify-schools-global-crisis/)
@@ -718,8 +733,13 @@
   - [亚马逊收购 Globalstar](https://www.solidot.org/story?sid=84048)
   - [俄罗斯流行应用被发现会检测是否安装 VPN](https://www.solidot.org/story?sid=84054)
   - [安娜的档案被勒令向 Spotify 等赔偿 3.22 亿美元](https://www.solidot.org/story?sid=84053)
+  - [斯坦福报告凸显了 AI 业内人士和公众之间的分歧](https://www.solidot.org/story?sid=84055)
+  - [美国国会新法案要求操作系统验证用户年龄](https://www.solidot.org/story?sid=84056)
   - [英国首相表示社媒平台应停止无限滚动](https://www.solidot.org/story?sid=84050)
+- 安全研究GoSSIP
+  - [G.O.S.S.I.P 阅读推荐 2026-04-15 大模型安全对齐新思路：让“该不该答”听“安不安全”的话](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501577&idx=1&sn=fc8de3a1853111addb116513f148196b)
 - 爱范儿
+  - [39.98 万元起，小鹏最贵 SUV GX 登场，要豪华有技术，要设计有堆料](https://www.ifanr.com/1662347?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [一千块的录音卡片，凭什么还敢每年多收一千块钱？](https://www.ifanr.com/1662079?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，李飞飞最新成果发布，手机也能跑亿级粒子的 3D 世界了｜附体验地址](https://www.ifanr.com/1662201?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [微软想给所有 Windows 电脑预装龙虾](https://www.ifanr.com/1662224?utm_source=rss&utm_medium=rss&utm_campaign=)
