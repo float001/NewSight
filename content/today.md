@@ -1,11 +1,56 @@
 # 今日安全资讯（2026-04-16）
 
+- Ars Technica
+  - [US jobs too important to risk Chinese car imports, says Ford CEO](https://arstechnica.com/cars/2026/04/us-jobs-too-important-to-risk-chinese-car-imports-says-ford-ceo/)
 - Google DeepMind Blog
   - [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Improper Authentication in Cisco Catalyst_Sd-Wan_Manager exploit](https://sploitus.com/exploit?id=6B90942A-F2F4-569F-A06C-7AD5ECEB8054&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Airwallex is about to take on Stripe and the rest of the payments industry — in the physical world](https://techcrunch.com/2026/04/15/airwallex-is-about-to-take-on-stripe-and-the-rest-of-the-payments-industry-in-the-physical-world/)
+  - [Anthropic shrugs off VC funding offers valuing it at $800B+, for now](https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/)
   - [Motorola sues social platforms and creators over posts, raising speech concerns in India](https://techcrunch.com/2026/04/15/motorola-sues-social-platforms-and-creators-over-posts-raising-speech-concerns-in-india/)
+- The Verge
+  - [Allbirds announced a switch from shoes to AI and its stock jumped 600 percent](https://www.theverge.com/news/912484/allbirds-ai-hyperscale)
+  - [Most people still don’t want anything to do with robotaxis](https://www.theverge.com/transportation/912357/robotaxi-poll-ev-intelligence-report-waymo-tesla)
+  - [The Senate is voting to save free IRS Direct File today](https://www.theverge.com/policy/912490/irs-direct-file-senate-vote)
+- VulDB Recent Entries
+  - [CVE-2025-12141 | Grafana up to 12.3.0 Alerting System information disclosure](https://vuldb.com/vuln/357733)
+  - [CVE-2025-15635 | Zaytech Smart Online Order for Clover Plugin up to 1.6.0 on WordPress cross-site request forgery](https://vuldb.com/vuln/357757)
+  - [CVE-2025-15636 | Emarket-design YouTube Showcase Plugin up to 3.5.1 on WordPress cross site scripting](https://vuldb.com/vuln/357758)
+  - [CVE-2025-53444 | DeluxeThemes Userpro Plugin up to 5.1.10 on WordPress cross-site request forgery](https://vuldb.com/vuln/357740)
+  - [CVE-2025-67841 | Nordic Semiconductor IronSide SE for nRF54H20 up to 23.0.2 privilege escalation](https://vuldb.com/vuln/357739)
+  - [CVE-2026-20059 | Cisco Unity Connection up to 15SU4 Web-based Management Interface cross site scripting (cisco-sa-unity-vulns-n2EJSbbw)](https://vuldb.com/vuln/357754)
+  - [CVE-2026-20060 | Cisco Unity Connection up to 15SU3 Web-based Management Interface Request redirect (cisco-sa-unity-vulns-n2EJSbbw)](https://vuldb.com/vuln/357747)
+  - [CVE-2026-20061 | Cisco Unity Connection up to 15SU3 Web-based Management Interface sql injection (cisco-sa-unity-vulns-n2EJSbbw)](https://vuldb.com/vuln/357748)
+  - [CVE-2026-20078 | Cisco Unity Connection up to 15SU3 HTTPS path traversal (cisco-sa-unity-file-download-RmKEVWPx)](https://vuldb.com/vuln/357749)
+  - [CVE-2026-20081 | Cisco Unity Connection up to 15SU3 HTTPS path traversal (cisco-sa-unity-file-download-RmKEVWPx)](https://vuldb.com/vuln/357750)
+  - [CVE-2026-20132 | Cisco Identity Services Engine Software up to 3.4.0 cross site scripting (cisco-sa-isexss-BS8ctE7U)](https://vuldb.com/vuln/357752)
+  - [CVE-2026-20136 | Cisco Identity Services Engine Software up to 3.5.0 CLI command injection (cisco-sa-ise-cmd-inj-5WSJcYJB)](https://vuldb.com/vuln/357751)
+  - [CVE-2026-20147 | Cisco Identity Services Engine Software command injection (cisco-sa-ise-rce-traversal-8bYndVrZ)](https://vuldb.com/vuln/357741)
+  - [CVE-2026-20148 | Cisco Identity Services Engine Software HTTP path traversal (cisco-sa-ise-rce-traversal-8bYndVrZ)](https://vuldb.com/vuln/357744)
+  - [CVE-2026-20152 | Cisco Secure Web Appliance up to 15.2.5-013 Authentication Service authentication bypass (cisco-sa-wsa-auth-bypass-6YZkTQhd)](https://vuldb.com/vuln/357745)
+  - [CVE-2026-20161 | Cisco ThousandEyes Enterprise Agent up to 5.1.2 CLI link following (cisco-sa-te-agentfilewrite-tqUw3SMU)](https://vuldb.com/vuln/357755)
+  - [CVE-2026-20170 | Cisco Webex Contact Center Contact Center Service cross site scripting (cisco-sa-webexcc-xss-WEX5nUnA)](https://vuldb.com/vuln/357753)
+  - [CVE-2026-20180 | Cisco Identity Services Engine Software up to 3.5.0 path traversal (cisco-sa-ise-rce-4fverepv)](https://vuldb.com/vuln/357742)
+  - [CVE-2026-20184 | Cisco Webex Meetings up to 45.4 certificate validation (cisco-sa-webex-cui-cert-8jSZYhWL)](https://vuldb.com/vuln/357746)
+  - [CVE-2026-20186 | Cisco Identity Services Engine Software up to 3.4.0 command injection (cisco-sa-ise-rce-4fverepv)](https://vuldb.com/vuln/357743)
+  - [CVE-2026-20202 | Splunk Enterprise/Cloud Platform Username edit_user unicode encoding (SVD-2026-0401)](https://vuldb.com/vuln/357732)
+  - [CVE-2026-20203 | Splunk Enterprise/Cloud Platform accelerate_datamodel access control (SVD-2026-0402)](https://vuldb.com/vuln/357734)
+  - [CVE-2026-20204 | Splunk Enterprise/Cloud Platform File apptemp temp file (SVD-2026-0403)](https://vuldb.com/vuln/357727)
+  - [CVE-2026-20205 | Splunk MCP Server App up to 1.0.2 mcp_tool_admin log file (SVD-2026-0407)](https://vuldb.com/vuln/357736)
+  - [CVE-2026-30461 | Daylight Studio FuelCMS 1.5.2 Installer.php add_git_submodule privilege escalation](https://vuldb.com/vuln/357737)
+  - [CVE-2026-30615 | Windsurf up to 1.9544.26 MCP information disclosure](https://vuldb.com/vuln/357735)
+  - [CVE-2026-30616 | Jaaz 1.0.30 MCP STDIO Command privilege escalation](https://vuldb.com/vuln/357729)
+  - [CVE-2026-30617 | chatchat-space LangChain-ChatChat 0.3.1 MCP STDIO Server Configuration command injection](https://vuldb.com/vuln/357730)
+  - [CVE-2026-30624 | Agent Zero 0.9.8 MCP privilege escalation](https://vuldb.com/vuln/357728)
+  - [CVE-2026-30625 | Upsonic 0.71.6 MCP os command injection](https://vuldb.com/vuln/357731)
+  - [CVE-2026-5387 | AVEVA Pipeline Simulation up to 2025 SP1 authorization (AVEVA-2026-004)](https://vuldb.com/vuln/357738)
+  - [CVE-2026-6370 | HashThemes Mini Ajax Cart for WooCommerce Plugin up to 1.3.4 on WordPress cross site scripting](https://vuldb.com/vuln/357756)
 - Wired
   - [The US Government to Ask Data Centers How Much Power They Use](https://www.wired.com/story/the-us-government-to-ask-data-centers-how-much-power-they-use/)
+  - [Why Amazon Is Buying Globalstar—and What It Means for Your iPhone](https://www.wired.com/story/why-amazon-is-buying-globalstar-and-what-it-means-for-your-iphone/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [全球暖化危及水稻产量](https://www.solidot.org/story?sid=84057)
