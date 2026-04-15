@@ -13,6 +13,7 @@
 - daringfireball.net
   - [Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)](https://lisamelton.net/2023/10/05/memories-of-steve/)
 - darkreading
+  - [Critical MCP Integration Flaw Puts NGINX at Risk](https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk)
   - [Navigating the Unique Security Risks of Asia's Digital Supply Chain](https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain)
 - Google DeepMind Blog
   - [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/)
@@ -24,7 +25,11 @@
   - [Kalshi CEO expects US DOJ to prosecute insider trading cases](https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases)
   - [Live Nation Illegally Monopolized Ticketing Market, Jury Finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
   - [Show HN: Jeeves – TUI for browsing and resuming AI agent sessions](https://github.com/robinovitch61/jeeves)
+  - [The buns in McDonald's Japan's burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/)
   - [Thomson Reuters Fired Worker for Speaking Out About ICE, Former Employee Says](https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says/)
+- HackerNoon
+  - [Why Autonomous Agents Need Structural Context](https://hackernoon.com/why-autonomous-agents-need-structural-context?source=rss)
+  - [Your Backtest Is Lying to You: Here's Why](https://hackernoon.com/your-backtest-is-lying-to-you-heres-why?source=rss)
 - Linux Foundation Blogs
   - [Linux Foundation Newsletter: April 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-april-2026)
 - Security Affairs
@@ -44,6 +49,7 @@
   - [Anthropic shrugs off VC funding offers valuing it at $800B+, for now](https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/)
   - [Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers](https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/)
   - [Feds will require data centers to show their power bills](https://techcrunch.com/2026/04/15/feds-will-require-data-centers-to-show-their-power-bills/)
+  - [Ford EV and tech chief leaving automaker](https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/)
   - [Google rolls out a native Gemini app for Mac](https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/)
   - [Hightouch reaches $100M ARR fueled by marketing tools powered by AI](https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/)
   - [India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space](https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/)
@@ -51,6 +57,7 @@
   - [Motorola sues social platforms and creators over posts, raising speech concerns in India](https://techcrunch.com/2026/04/15/motorola-sues-social-platforms-and-creators-over-posts-raising-speech-concerns-in-india/)
   - [OpenAI updates its Agents SDK to help enterprises build safer, more capable agents](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/)
   - [This Khosla-backed autonomous pod startup just raised $170M — now it’s aiming for more](https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/)
+  - [Wait, could they still actually break up Live Nation?](https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/)
 - The Decoder
   - [Google ships its most expressive Gemini 3.1 text-to-speech model yet with 70+ language support](https://the-decoder.com/google-ships-its-most-expressive-gemini-3-1-text-to-speech-model-yet-with-70-language-support/)
 - The Verge
