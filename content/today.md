@@ -8,11 +8,14 @@
   - [外包太难听了，有没有什么好听一点的名称。](https://2libra.com/post/outsourcing/7UP6nJr)
   - [徽章怎么获取？有商城之类的吗？](https://2libra.com/post/forum-function/t0mwYBw)
   - [支持 2Libra 登录的网站](https://2libra.com/post/forum-function/5Qy8djz)
+  - [是不是人的审美水平倒退了](https://2libra.com/post/social-observation/WW4uQ49)
   - [生命的中点其实是 18 岁，愿你我活的全程无尿点](https://2libra.com/post/small-things/0qdXKaI)
+  - [突然发现土区的 gpt plus 只要不到八十块钱](https://2libra.com/post/ai-tools/2EzHqNW)
   - [签到获得一个金币(可怜.jpg)](https://2libra.com/post/forum-function/U95IvDv)
 - 36氪
   - [13家上市银行金融科技投入超1800亿元，大模型应用规模化落地](https://36kr.com/newsflashes/3767289196053249?f=rss)
   - [361度：主品牌产品第一季度零售额同比录得约10%正增长](https://36kr.com/newsflashes/3767326430298885?f=rss)
+  - [A股三大指数午间休盘涨跌不一，沐曦股份涨超13%](https://36kr.com/newsflashes/3767533027836673?f=rss)
   - [A股三大指数集体高开，创业板指高开1.06%创10年新高](https://36kr.com/newsflashes/3767410190057990?f=rss)
   - [CPO概念延续强势 华盛昌12天6板续创历史新高](https://36kr.com/newsflashes/3767422352982528?f=rss)
   - [ETF资金流向分化，公募策略趋于多元](https://36kr.com/newsflashes/3767283785761542?f=rss)
@@ -28,12 +31,14 @@
   - [个人养老金基金新增5只，“双线扩容”助力长期投资](https://36kr.com/newsflashes/3767285762671113?f=rss)
   - [中信建投：历次原油供给大冲击之后，全球将寻求能源供应多元化](https://36kr.com/newsflashes/3767312178758148?f=rss)
   - [中信证券：看好铜板块在2026年第二季度重回市场配置主线](https://36kr.com/newsflashes/3767350954689024?f=rss)
+  - [中航机载系统公司注册资本增至约93.6亿元](https://36kr.com/newsflashes/3767542890578432?f=rss)
   - [亚马逊将收购全球星，并为苹果iPhone提供卫星服务支持](https://36kr.com/newsflashes/3766865098048261?f=rss)
   - [人民币兑美元中间价调升11个基点](https://36kr.com/newsflashes/3767400675852801?f=rss)
   - [债基大额赎回频现，帮忙资金或“卡点”撤离](https://36kr.com/newsflashes/3767349562704647?f=rss)
   - [光合创投完成开年最大VC募集](https://36kr.com/newsflashes/3767383167844866?f=rss)
   - [光通信进入可持续景气周期，产业链多环节成长空间打开](https://36kr.com/newsflashes/3767348938129924?f=rss)
   - [千问AI眼镜S1宣布正式开售](https://36kr.com/newsflashes/3767467065803529?f=rss)
+  - [半日主力资金加仓电子股，抛售有色金属股](https://36kr.com/newsflashes/3767553288258304?f=rss)
   - [华勤技术：拟发售5854.8万股H股](https://36kr.com/newsflashes/3767279397798658?f=rss)
   - [华泰证券：4月中国出口或仍有望维持较高景气度](https://36kr.com/newsflashes/3767348211433990?f=rss)
   - [华泰证券：AI眼镜有望从当前的信息提示工具升级为智能体感知世界的信息入口](https://36kr.com/newsflashes/3767335169065737?f=rss)
@@ -46,8 +51,10 @@
   - [央行公开市场开展5亿元7天期逆回购操作](https://36kr.com/newsflashes/3767405979632136?f=rss)
   - [年报审计提前被亮“非标”意见，*ST公司扎堆拉响退市“预警”](https://36kr.com/newsflashes/3767284752646660?f=rss)
   - [微软计划扩建美国怀俄明州夏延数据中心](https://36kr.com/newsflashes/3767333413651208?f=rss)
+  - [恒指午间休盘涨0.76%，恒生科技指数涨1.88%](https://36kr.com/newsflashes/3767563393221380?f=rss)
   - [恒指开盘涨1.14%，恒生科技指数涨2.26%](https://36kr.com/newsflashes/3767405508526598?f=rss)
   - [我国网络视听用户规模10.99亿人，稳居各互联网应用首位](https://36kr.com/newsflashes/3767465576546820?f=rss)
+  - [新世界旗下Gmarket与阿里合资后GMV实现双位数增长](https://36kr.com/newsflashes/3767517674341127?f=rss)
   - [智谱：同意购买安狮红钻投资有限公司持有的目标公司100%股权](https://36kr.com/newsflashes/3766864468394497?f=rss)
   - [最前线｜追觅生态企业娲宝科技发布宠物智能项圈，布局“项圈+宠粮”数据闭环](https://36kr.com/p/3767424500171271?f=rss)
   - [沪深两市成交额突破1万亿](https://36kr.com/newsflashes/3767464327676423?f=rss)
@@ -98,6 +105,8 @@
   - [Privilege Elevation Dominates Massive Microsoft Patch Update](https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update)
 - Emergent Minds | paddo.dev
   - [Benchmarks Are Bullshit](https://paddo.dev/blog/benchmarks-are-bullshit/)
+- Ethical hacking and penetration testing
+  - [11. Transforming non-photographic images into photographs (photorealistic images) using AI](https://miloserdov.org/?p=8547)
 - experimental-history.com
   - [Nothing ever dies. It merely becomes embarrassing.](https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes)
 - Google AI Blog
@@ -130,7 +139,9 @@
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-04-13: XLoader (Formbook) infection](https://www.malware-traffic-analysis.net/2026/04/13/index.html)
 - rtl-sdr.com
+  - [New YouTube Tutorials for SatDump V2.x.x](https://www.rtl-sdr.com/new-youtube-tutorials-for-satdump-v2-x-x/)
   - [Receiving the Artemis 2 S-Band Carrier With a Wi-Fi Dish and Airspy R2](https://www.rtl-sdr.com/receiving-the-artemis-2-s-band-carrier-with-a-wi-fi-dish-and-airspy-r2/)
+  - [Saveitforparts: Receiving Artemis 2 Signals](https://www.rtl-sdr.com/saveitforparts-receiving-artemis-2-signals/)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Wednesday, April 15th, 2026 https://isc.sans.edu/podcastdetail/9892, (Wed, Apr 15th)](https://isc.sans.edu/diary/rss/32900)
   - [Microsoft Patch Tuesday April 2026., (Tue, Apr 14th)](https://isc.sans.edu/diary/rss/32898)
@@ -143,6 +154,8 @@
   - [SEC Consult SA-20260414-0 :: Improper Enforcement of Locked Accounts in WebUI (SSO) in Kiuwan SAST on-premise (KOP) & cloud/SaaS](https://seclists.org/fulldisclosure/2026/Apr/5)
 - Security Affairs
   - [Personal data of 1 million gym members compromised in Basic-Fit security incident](https://securityaffairs.com/190815/data-breach/personal-data-of-1-million-gym-members-compromised-in-basic-fit-security-incident.html)
+- Seebug Paper
+  - [合法终端管理软件遭滥用：疑似银狐攻击事件分析与溯源](https://paper.seebug.org/3478/)
 - SentinelOne
   - [Securing the Software Supply Chain: How SentinelOne’s AI EDR Autonomously Blocked the CPU-Z Watering Hole Cyber Attack](https://www.sentinelone.com/blog/securing-the-software-supply-chain-how-sentinelones-ai-edr-autonomously-blocked-the-cpu-z-watering-hole-cyber-attack/)
 - simonwillison.net
