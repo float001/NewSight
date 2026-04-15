@@ -1,7 +1,28 @@
 # 今日安全资讯（2026-04-15）
 
 - 36氪
+  - [13家上市银行金融科技投入超1800亿元，大模型应用规模化落地](https://36kr.com/newsflashes/3767289196053249?f=rss)
+  - [361度：主品牌产品第一季度零售额同比录得约10%正增长](https://36kr.com/newsflashes/3767326430298885?f=rss)
+  - [ETF资金流向分化，公募策略趋于多元](https://36kr.com/newsflashes/3767283785761542?f=rss)
+  - [IMF下调2026年世界经济增长预期](https://36kr.com/newsflashes/3767298443444745?f=rss)
+  - [OpenAI向部分用户发布Cyber模型，与Mythos展开竞争](https://36kr.com/newsflashes/3767318563717891?f=rss)
+  - [《明末》团队解散背后，国产单机究竟还缺什么？](https://36kr.com/p/3766718158324489?f=rss)
+  - [个人养老金基金新增5只，“双线扩容”助力长期投资](https://36kr.com/newsflashes/3767285762671113?f=rss)
+  - [中信建投：历次原油供给大冲击之后，全球将寻求能源供应多元化](https://36kr.com/newsflashes/3767312178758148?f=rss)
+  - [亚马逊将收购全球星，并为苹果iPhone提供卫星服务支持](https://36kr.com/newsflashes/3766865098048261?f=rss)
+  - [华勤技术：拟发售5854.8万股H股](https://36kr.com/newsflashes/3767279397798658?f=rss)
+  - [博通宣布与Meta扩大合作，总裁兼CEO陈福阳将转任Meta顾问](https://36kr.com/newsflashes/3767282282365445?f=rss)
+  - [境外机构今年已发行熊猫债超1022亿元](https://36kr.com/newsflashes/3767281552556553?f=rss)
+  - [年报审计提前被亮“非标”意见，*ST公司扎堆拉响退市“预警”](https://36kr.com/newsflashes/3767284752646660?f=rss)
+  - [智谱：同意购买安狮红钻投资有限公司持有的目标公司100%股权](https://36kr.com/newsflashes/3766864468394497?f=rss)
+  - [波音一季度共交付143架民用飞机](https://36kr.com/newsflashes/3767312965501442?f=rss)
+  - [特斯拉机器人出租车推进引发现金流担忧，不断增加的支出给财务带来压力](https://36kr.com/newsflashes/3766861583860481?f=rss)
+  - [算力紧缺之下，Anthropic调整定价模式，按企业AI使用量计费](https://36kr.com/newsflashes/3767287174054665?f=rss)
+  - [美联储4月维持利率不变的概率为98.4%](https://36kr.com/newsflashes/3767311100035590?f=rss)
   - [美股三大指数集体收涨，纳指连续十个交易日上涨](https://36kr.com/newsflashes/3767256211784451?f=rss)
+  - [美财政部寻求接入Anthropic旗下Mythos模型，以发现系统漏洞](https://36kr.com/newsflashes/3766866396578566?f=rss)
+  - [诺和诺德携手OpenAI加速药物研发，旨在提升效率](https://36kr.com/newsflashes/3766859780932104?f=rss)
+  - [险资去年四季度重点增持高股息标的](https://36kr.com/newsflashes/3767280970596866?f=rss)
 - 404 Media
   - [Thomson Reuters Fired Worker For Speaking Out About ICE, Former Employee Says](https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says/)
 - Ars Technica
@@ -25,6 +46,8 @@
 - darkreading
   - [EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses](https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses)
   - [Privilege Elevation Dominates Massive Microsoft Patch Update](https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update)
+- Emergent Minds | paddo.dev
+  - [Benchmarks Are Bullshit](https://paddo.dev/blog/benchmarks-are-bullshit/)
 - experimental-history.com
   - [Nothing ever dies. It merely becomes embarrassing.](https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes)
 - Google AI Blog
