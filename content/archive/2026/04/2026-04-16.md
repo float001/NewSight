@@ -3,6 +3,7 @@
 - 404 Media
   - [Ukraine Says Russians are Surrendering to Robots](https://www.404media.co/ukraine-says-russians-are-surrendering-to-robots/)
 - Ars Technica
+  - ["TotalRecall Reloaded" tool finds a side entrance to Windows 11's Recall database](https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/)
   - [Space Force looks at moving "significant number" of launches from ULA to SpaceX](https://arstechnica.com/space/2026/04/space-force-looks-at-moving-significant-number-of-launches-from-ula-to-spacex/)
   - [US jobs too important to risk Chinese car imports, says Ford CEO](https://arstechnica.com/cars/2026/04/us-jobs-too-important-to-risk-chinese-car-imports-says-ford-ceo/)
 - Blog - Praetorian
@@ -32,6 +33,8 @@
   - [Gemini 3.1 Flash TTS](https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything)
   - [Quoting John Gruber](https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2024-12029 exploit](https://sploitus.com/exploit?id=6EBE351D-9575-5A82-BAED-B68ED620738B&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-35031 exploit](https://sploitus.com/exploit?id=94F85AA7-B15A-5950-8EE5-C03E37FF8A2D&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Cisco Catalyst_Sd-Wan_Manager exploit](https://sploitus.com/exploit?id=6B90942A-F2F4-569F-A06C-7AD5ECEB8054&utm_source=rss&utm_medium=rss)
   - [ios-26-activation-research exploit](https://sploitus.com/exploit?id=606456C9-DD0F-552E-BAB4-3EE8E6B85381&utm_source=rss&utm_medium=rss)
 - TechCrunch
