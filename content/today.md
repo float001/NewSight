@@ -9,11 +9,20 @@
   - [Shadow Admins in Active Directory: Hidden Privilege Paths Attackers Exploit](https://www.praetorian.com/blog/shadow-admins-active-directory/)
 - blog.jim-nielsen.com
   - [Speed is Not Conducive to Wisdom](https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/)
+- daringfireball.net
+  - [Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)](https://lisamelton.net/2023/10/05/memories-of-steve/)
+- darkreading
+  - [Navigating the Unique Security Risks of Asia's Digital Supply Chain](https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain)
 - Google DeepMind Blog
   - [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/)
 - Hacker News Frontpage
   - [AI-Assisted Cognition Endangers Human Development](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
+  - [Flock employees caught watching kids gymnastic class and pools](https://substack.com/home/post/p-193593234)
+  - [Is anyone actually using OpenClaw?](https://news.ycombinator.com/item?id=47783940)
+  - [Jury Finds Live Nation Acts as a Monopoly in a Victory for States](https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html)
   - [Kalshi CEO expects US DOJ to prosecute insider trading cases](https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases)
+  - [Live Nation Illegally Monopolized Ticketing Market, Jury Finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
+  - [Show HN: Jeeves – TUI for browsing and resuming AI agent sessions](https://github.com/robinovitch61/jeeves)
   - [Thomson Reuters Fired Worker for Speaking Out About ICE, Former Employee Says](https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says/)
 - Linux Foundation Blogs
   - [Linux Foundation Newsletter: April 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-april-2026)
@@ -37,6 +46,7 @@
   - [India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space](https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/)
   - [LinkedIn data shows AI isn’t to blame for hiring decline… yet](https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/)
   - [Motorola sues social platforms and creators over posts, raising speech concerns in India](https://techcrunch.com/2026/04/15/motorola-sues-social-platforms-and-creators-over-posts-raising-speech-concerns-in-india/)
+  - [OpenAI updates its Agents SDK to help enterprises build safer, more capable agents](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/)
   - [This Khosla-backed autonomous pod startup just raised $170M — now it’s aiming for more](https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/)
 - The Decoder
   - [Google ships its most expressive Gemini 3.1 text-to-speech model yet with 70+ language support](https://the-decoder.com/google-ships-its-most-expressive-gemini-3-1-text-to-speech-model-yet-with-70-language-support/)
@@ -48,6 +58,7 @@
   - [Microsoft counters the MacBook Neo with freebies for students](https://www.theverge.com/news/912639/microsoft-counters-the-macbook-neo-with-freebies-for-students)
   - [Most people still don’t want anything to do with robotaxis](https://www.theverge.com/transportation/912357/robotaxi-poll-ev-intelligence-report-waymo-tesla)
   - [The Senate is voting to save free IRS Direct File today](https://www.theverge.com/policy/912490/irs-direct-file-senate-vote)
+  - [Ticketmaster is an illegal monopoly, jury finds](https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict)
 - VulDB Recent Entries
   - [CVE-2025-12141 | Grafana up to 12.3.0 Alerting System information disclosure](https://vuldb.com/vuln/357733)
   - [CVE-2025-15635 | Zaytech Smart Online Order for Clover Plugin up to 1.6.0 on WordPress cross-site request forgery](https://vuldb.com/vuln/357757)
