@@ -1,27 +1,49 @@
 # 今日安全资讯（2026-04-16）
 
+- 2Libra
+  - [21 世纪羽毛球六大超一流全部退役](https://2libra.com/post/sports/4erKthw)
 - 36氪
+  - [13只个人养老金基金年内净值涨幅超10%](https://36kr.com/newsflashes/3768749923533572?f=rss)
   - [8点1氪丨美国将退还超1万亿元关税；多家银行密集停发信用卡；滴露回应使用宠物消毒液后5只幼猫死亡](https://36kr.com/p/3768734631527176?f=rss)
+  - [Adobe推出可操作Claude的创意工具AI助手](https://36kr.com/newsflashes/3768783839871491?f=rss)
   - [AI战略落地和国际化业务布局成券商业绩说明会两大核心主线](https://36kr.com/newsflashes/3768701858808579?f=rss)
   - [AMD、高通、安谋为自动驾驶初创公司Wayve提供新资金](https://36kr.com/newsflashes/3768223374918409?f=rss)
   - [EIA称美国石油出口总量跃升至纪录高位](https://36kr.com/newsflashes/3768205715505672?f=rss)
+  - [MiniMax宣布云端沙箱Hermes“MaxHermes”上线](https://36kr.com/newsflashes/3768780394857225?f=rss)
   - [OpenAI退出挪威“星门”数据中心合作，微软接手](https://36kr.com/newsflashes/3768220910912009?f=rss)
+  - [两市融资余额增加101.82亿元](https://36kr.com/newsflashes/3768786868437769?f=rss)
   - [中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链](https://36kr.com/newsflashes/3768720143057669?f=rss)
   - [中信建投：生猪养殖板块将存在分化，效率高、成本低的企业将赢得竞争优势](https://36kr.com/newsflashes/3768733731062534?f=rss)
+  - [中信证券：坚定看好存储产业趋势 推荐存储原厂及贴近原厂的设计公司](https://36kr.com/newsflashes/3768768375292416?f=rss)
+  - [中信证券：坚定看好存储产业趋势，核心推荐存储原厂及贴近原厂的设计公司](https://36kr.com/newsflashes/3768778559718147?f=rss)
   - [中国工程机械工业协会：3月销售各类平地机1007台 同比增长19.6%](https://36kr.com/newsflashes/3768738778120963?f=rss)
   - [互联互通工具持续丰富，公募大力布局香港市场ETF](https://36kr.com/newsflashes/3768674456650497?f=rss)
+  - [亚洲富豪挟250亿美元涌入AI领域，面对高估值毫无惧色](https://36kr.com/newsflashes/3768748632588805?f=rss)
+  - [公募南下布局提速，年内已有47只港股新基金成立](https://36kr.com/newsflashes/3768779853922823?f=rss)
+  - [华泰证券：Bloom Energy大单呼应AI缺电主线，看好三条投资主线](https://36kr.com/newsflashes/3768757883552259?f=rss)
   - [华盛锂电向香港联交所递交H股发行上市申请并刊发申请资料](https://36kr.com/newsflashes/3768711365935874?f=rss)
+  - [华立科技：2025年国内游戏游艺行业整体处于阶段性调整期](https://36kr.com/newsflashes/3768750906606087?f=rss)
+  - [印度航空报告年度亏损超24亿美元，寻求股东支持](https://36kr.com/newsflashes/3768780208669184?f=rss)
+  - [国际原油市场逐渐回归基本面定价，库存消耗继续推升油价](https://36kr.com/newsflashes/3768741798920713?f=rss)
+  - [多重利好叠加提振预期，消费板块能否苦尽甘来](https://36kr.com/newsflashes/3768747861836291?f=rss)
+  - [宠物经济概念股集体大涨，5只个股2025年度净利润增长](https://36kr.com/newsflashes/3768754399609351?f=rss)
   - [年内同业存单发行规模同比减少2.46万亿元](https://36kr.com/newsflashes/3768677169103360?f=rss)
   - [微软加倍押注AI，大胆下注采购3万块英伟达GPU](https://36kr.com/newsflashes/3768217308529412?f=rss)
+  - [摩根大通CEO杰米·戴蒙出售价值4000万美元摩根大通股票](https://36kr.com/newsflashes/3768755752321799?f=rss)
   - [欧盟委员会初步认定元宇宙平台公司调整政策后仍违规](https://36kr.com/newsflashes/3768211906331141?f=rss)
+  - [港股通标的证券名单调整，调入禾赛-W](https://36kr.com/newsflashes/3768789989507845?f=rss)
+  - [特朗普签发多项输油管道许可，以促进美加之间的石油运输](https://36kr.com/newsflashes/3768784624058889?f=rss)
+  - [特朗普：若美联储主席鲍威尔任期届满后仍留任，将对其解职](https://36kr.com/newsflashes/3768752941384199?f=rss)
   - [电子布库存持续紧张，涨价周期尚未结束](https://36kr.com/newsflashes/3768675724706304?f=rss)
   - [绩优基金一季报密集披露：多只基金规模大增，看多AI相关产业链](https://36kr.com/newsflashes/3768667893121799?f=rss)
   - [美国启动非法关税退款流程，已有上亿美元申请待处理](https://36kr.com/newsflashes/3768703106351620?f=rss)
   - [美股三大指数收盘涨跌不一，纳指11连涨创收盘新高](https://36kr.com/newsflashes/3768672676774657?f=rss)
   - [联合利华以448亿美元出售食品业务，并以12亿美元收购Grüns](https://36kr.com/newsflashes/3768213695136256?f=rss)
+  - [联邦陪审团裁定Live Nation非法垄断票务市场](https://36kr.com/newsflashes/3768772006691336?f=rss)
   - [英国首相斯塔默敦促社交媒体公司保障网络安全](https://36kr.com/newsflashes/3768737400570631?f=rss)
   - [谷歌被指在安卓应用分发领域实施垄断控制](https://36kr.com/newsflashes/3768216601051651?f=rss)
   - [追觅科技旗下AI视觉机器人品牌NAVO亮相广交会](https://36kr.com/newsflashes/3768730956759814?f=rss)
+  - [郑栅洁主任赴怀柔国家实验室调研能源科技创新工作](https://36kr.com/newsflashes/3768762366607873?f=rss)
   - [马斯克的xAI据悉将向编程初创公司Cursor提供算力支持](https://36kr.com/newsflashes/3768734282154758?f=rss)
 - 404 Media
   - [Ukraine Says Russians are Surrendering to Robots](https://www.404media.co/ukraine-says-russians-are-surrendering-to-robots/)
@@ -35,6 +57,8 @@
   - [Speed is Not Conducive to Wisdom](https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/)
 - daringfireball.net
   - [Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)](https://lisamelton.net/2023/10/05/memories-of-steve/)
+  - [So Close to Getting It](https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer)
+  - [Sofa 5.0](https://www.sofahq.com/5)
 - darkreading
   - [Critical MCP Integration Flaw Puts NGINX at Risk](https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk)
   - [Navigating the Unique Security Risks of Asia's Digital Supply Chain](https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain)
@@ -65,6 +89,7 @@
   - [CVE-2026-33032: severe nginx-ui bug grants unauthenticated server access](https://securityaffairs.com/190841/hacking/cve-2026-33032-severe-nginx-ui-bug-grants-unauthenticated-server-access.html)
 - simonwillison.net
   - [datasette 1.0a27](https://simonwillison.net/2026/Apr/15/datasette/#atom-everything)
+  - [datasette.io news preview](https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything)
   - [Gemini 3.1 Flash TTS](https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything)
   - [Quoting John Gruber](https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -72,6 +97,7 @@
   - [Exploit for CVE-2026-35031 exploit](https://sploitus.com/exploit?id=94F85AA7-B15A-5950-8EE5-C03E37FF8A2D&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Cisco Catalyst_Sd-Wan_Manager exploit](https://sploitus.com/exploit?id=6B90942A-F2F4-569F-A06C-7AD5ECEB8054&utm_source=rss&utm_medium=rss)
   - [ios-26-activation-research exploit](https://sploitus.com/exploit?id=606456C9-DD0F-552E-BAB4-3EE8E6B85381&utm_source=rss&utm_medium=rss)
+  - [VulnForge exploit](https://sploitus.com/exploit?id=E3FE6607-42E5-52EF-94AB-13394188A766&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Accel raises $5B to back late-stage bets](https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/)
   - [AI learning app Gizmo levels up with 13M users and a $22M investment](https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/)
@@ -150,3 +176,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [全球暖化危及水稻产量](https://www.solidot.org/story?sid=84057)
+- 爱范儿
+  - [早报｜手机销量十季度首降，三星苹果成唯二赢家/李想：不招非原生AI人才/苹果将Siri程序员送进AI「训练营」](https://www.ifanr.com/1662386?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [谷歌有望从对SpaceX的投资中获千亿回报](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E6%9C%89%E6%9C%9B%E4%BB%8E%E5%AF%B9SpaceX%E7%9A%84%E6%8A%95%E8%B5%84%E4%B8%AD%E8%8E%B7%E5%8D%83%E4%BA%BF%E5%9B%9E%E6%8A%A5)
