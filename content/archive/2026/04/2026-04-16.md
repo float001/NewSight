@@ -35,10 +35,12 @@
   - [13只个人养老金基金年内净值涨幅超10%](https://36kr.com/newsflashes/3768749923533572?f=rss)
   - [3天2板晶科科技：拟投约245亿元建设宁夏中卫1GW算力中心项目](https://36kr.com/newsflashes/3769350673662466?f=rss)
   - [3月中国快递发展指数同比增长2.4%](https://36kr.com/newsflashes/3768810450485768?f=rss)
+  - [3连板*ST观典：股票短期内涨幅较大，明起停牌核查](https://36kr.com/newsflashes/3769476224959233?f=rss)
   - [8点1氪丨美国将退还超1万亿元关税；多家银行密集停发信用卡；滴露回应使用宠物消毒液后5只幼猫死亡](https://36kr.com/p/3768734631527176?f=rss)
   - [Adobe推出可操作Claude的创意工具AI助手](https://36kr.com/newsflashes/3768783839871491?f=rss)
   - [AI战略落地和国际化业务布局成券商业绩说明会两大核心主线](https://36kr.com/newsflashes/3768701858808579?f=rss)
   - [AMD、高通、安谋为自动驾驶初创公司Wayve提供新资金](https://36kr.com/newsflashes/3768223374918409?f=rss)
+  - [Anthropico计划下周向英国银行业发布其Mythos模型](https://36kr.com/newsflashes/3769459902546441?f=rss)
   - [A股三大指数午间休盘集体上涨，宁德时代市值突破2万亿](https://36kr.com/newsflashes/3768949821702663?f=rss)
   - [A股三大指数集体收涨，创业板指涨超3%刷新近11年新高](https://36kr.com/newsflashes/3769153618199042?f=rss)
   - [A股三大指数集体高开，新股N大普微上市首日高开349.72%](https://36kr.com/newsflashes/3768825039127040?f=rss)
@@ -76,6 +78,8 @@
   - [互联互通工具持续丰富，公募大力布局香港市场ETF](https://36kr.com/newsflashes/3768674456650497?f=rss)
   - [亚洲富豪挟250亿美元涌入AI领域，面对高估值毫无惧色](https://36kr.com/newsflashes/3768748632588805?f=rss)
   - [亚马逊全球智能枢纽仓（GWD）深圳首仓面向卖家正式开放](https://36kr.com/newsflashes/3769310482514438?f=rss)
+  - [亚马逊支持的X-Energy计划IPO融资8亿美元](https://36kr.com/newsflashes/3769501020029699?f=rss)
+  - [亚马逊未能驳回加州的反垄断诉讼](https://36kr.com/newsflashes/3769491174343172?f=rss)
   - [京东发布机器人产业服务全景图](https://36kr.com/newsflashes/3768952943870467?f=rss)
   - [人民币对美元中间价调贬34个基点](https://36kr.com/newsflashes/3768817936188168?f=rss)
   - [佑驾创新与荣耀达成合作](https://36kr.com/newsflashes/3769350098912000?f=rss)
@@ -145,6 +149,7 @@
   - [摩根大通CEO杰米·戴蒙出售价值4000万美元摩根大通股票](https://36kr.com/newsflashes/3768755752321799?f=rss)
   - [数码视讯：2025年归母净利润同比增长35.97%，拟10派0.2元](https://36kr.com/newsflashes/3769363501941505?f=rss)
   - [新加坡的AI征途：孕育下一个“硅谷”](https://36kr.com/p/3768997634130434?f=rss)
+  - [春光集团披露招股书，拟于近期在深市发行新股并上市](https://36kr.com/newsflashes/3769469495263749?f=rss)
   - [欧盟委员会初步认定元宇宙平台公司调整政策后仍违规](https://36kr.com/newsflashes/3768211906331141?f=rss)
   - [氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型](https://36kr.com/p/3769360179298818?f=rss)
   - [永创智能：控股股东一致行动人拟增持1000万元-2000万元公司股份](https://36kr.com/newsflashes/3769234321768963?f=rss)
@@ -160,6 +165,8 @@
   - [港股通标的证券名单调整，调入禾赛-W](https://36kr.com/newsflashes/3768789989507845?f=rss)
   - [湖南黄金：一季度净利同比预增60%-90%，金锑钨产品销售价格同比上涨](https://36kr.com/newsflashes/3769235683000834?f=rss)
   - [澜舟科技发布可信AI技术体系](https://36kr.com/newsflashes/3769303773233668?f=rss)
+  - [热门中概股美股盘前普涨，百度涨超4%](https://36kr.com/newsflashes/3769498240811778?f=rss)
+  - [熊猫乳品：2025年归母净利润同比增长5.38%，拟10派6元](https://36kr.com/newsflashes/3769466237158145?f=rss)
   - [特斯拉拟在上海生产人形机器人](https://36kr.com/newsflashes/3769341040181765?f=rss)
   - [特朗普签发多项输油管道许可，以促进美加之间的石油运输](https://36kr.com/newsflashes/3768784624058889?f=rss)
   - [特朗普：若美联储主席鲍威尔任期届满后仍留任，将对其解职](https://36kr.com/newsflashes/3768752941384199?f=rss)
@@ -170,8 +177,11 @@
   - [算力涨价潮席卷全球：阿里、Anthropic连续调价，严重算力荒再现](https://36kr.com/newsflashes/3768876462473732?f=rss)
   - [绩优基金一季报密集披露：多只基金规模大增，看多AI相关产业链](https://36kr.com/newsflashes/3768667893121799?f=rss)
   - [网达软件：预计2025年归母净利润为350万元-600万元，股票可能被实施退市风险警示](https://36kr.com/newsflashes/3769323188519683?f=rss)
+  - [美国4月份费城联邦储备银行制造业指数升至26.7，预估为10](https://36kr.com/newsflashes/3769485008159236?f=rss)
+  - [美国上周首次申领失业救济人数为20.7万人，预估为21.3万人](https://36kr.com/newsflashes/3769481056813575?f=rss)
   - [美国启动非法关税退款流程，已有上亿美元申请待处理](https://36kr.com/newsflashes/3768703106351620?f=rss)
   - [美股三大指数收盘涨跌不一，纳指11连涨创收盘新高](https://36kr.com/newsflashes/3768672676774657?f=rss)
+  - [美股大型科技股盘前涨跌不一，微软涨超1%](https://36kr.com/newsflashes/3769497226019589?f=rss)
   - [联合利华以448亿美元出售食品业务，并以12亿美元收购Grüns](https://36kr.com/newsflashes/3768213695136256?f=rss)
   - [联邦陪审团裁定Live Nation非法垄断票务市场](https://36kr.com/newsflashes/3768772006691336?f=rss)
   - [腾讯混元3D世界模型2.0发布并开源](https://36kr.com/newsflashes/3768907361190408?f=rss)
@@ -213,6 +223,7 @@
   - [鸿合科技：子公司迹动体育目前暂无面向C端的相关产品或解决方案](https://36kr.com/newsflashes/3769189653168642?f=rss)
   - [龚政文：湖南广电自研“芒果大模型”已孵化80余款智能体](https://36kr.com/newsflashes/3769055177851397?f=rss)
 - 404 Media
+  - [I Almost Lost My Mind in the Bridal Algorithm](https://www.404media.co/wedding-planning-algorithm-weddingtok/)
   - [Ukraine Says Russians are Surrendering to Robots](https://www.404media.co/ukraine-says-russians-are-surrendering-to-robots/)
 - antirez.com
   - [AI cybersecurity is not proof of work](http://antirez.com/news/163)
@@ -247,6 +258,7 @@
 - Hacker News Frontpage
   - [A Look into NaviDial, Japan's Legacy Phone Service](https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service)
   - [AI-Assisted Cognition Endangers Human Development](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
+  - [Apple accelerates eco progress with highest-ever recycled materials](https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/)
   - [Arguing with Agents](https://blowmage.com/2026/04/14/arguing-with-agents/)
   - [AWS/GCP too expensive? Cloudexit.pro will help you move to bare-metal](https://cloudexit.pro/)
   - [Flock employees caught watching kids gymnastic class and pools](https://substack.com/home/post/p-193593234)
@@ -255,11 +267,13 @@
   - [Jury Finds Live Nation Acts as a Monopoly in a Victory for States](https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html)
   - [Kalshi CEO expects US DOJ to prosecute insider trading cases](https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases)
   - [Live Nation Illegally Monopolized Ticketing Market, Jury Finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
+  - [Show HN: 48 absurd web projects – one every month](https://news.ycombinator.com/item?id=47792026)
   - [Show HN: Jeeves – TUI for browsing and resuming AI agent sessions](https://github.com/robinovitch61/jeeves)
   - [The buns in McDonald's Japan's burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/)
   - [The noise we make is hurting animals. Can we learn to shut up?](https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/)
   - [The Rise of the Em-Dash in Hacker News Comments](https://boazsobrado.com/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/)
   - [Thomson Reuters Fired Worker for Speaking Out About ICE, Former Employee Says](https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says/)
+  - [€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs](https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262)
 - HackerNews
   - [10 çžŽĺ…ƒĺŸŸĺćˆ–č‡´éť‘ĺŽ˘ćŽŒćŽ§ 2.5 ä¸‡ä¸ŞçťˆçŤŻďźŒćś‰čżčĽćŠ€ćœŻĺŠć”żĺşœç˝‘çťœ](http://0.0.0.0:8080/post/64131)
   - [CISA ĺ°†ĺžŽč˝Ż SharePoint Server ĺ’Œ Office Excel ćźć´žĺˆ—ĺ…Ľĺˇ˛çŸĽč˘ŤĺˆŠç”¨ćźć´žç›Žĺ˝•](http://0.0.0.0:8080/post/64132)
@@ -270,8 +284,12 @@
 - HackerNoon
   - [Why Autonomous Agents Need Structural Context](https://hackernoon.com/why-autonomous-agents-need-structural-context?source=rss)
   - [Your Backtest Is Lying to You: Here's Why](https://hackernoon.com/your-backtest-is-lying-to-you-heres-why?source=rss)
+- Horizon3.ai
+  - [Horizon3.ai Accelerates Channel Investment at Global Partner Conference: Americas](https://horizon3.ai/news/press-release/horizon3-ai-accelerates-channel-investment-at-global-partner-conference-americas/)
 - ICT Security Magazine
   - [Misure di sicurezza NIS2: come il Regolamento UE 2024/2690 e le specifiche ACN definiscono gli obblighi di compliance](https://www.ictsecuritymagazine.com/articoli/misure-di-sicurezza-nis2/)
+- infosecurity-magazine.com
+  - [NIST Drops NVD Enrichment for Pre-March 2026 Vulnerabilities](https://www.infosecurity-magazine.com/news/nvd-enrichment-premarch-2026/)
 - Insinuator.net
   - [Disclosure: Command Injection in Geutebrück Cameras](https://insinuator.net/2026/04/disclosure-command-injection-in-geutebruck-cameras/)
 - IT Service Management News
@@ -284,6 +302,8 @@
   - [Linux Foundation Newsletter: April 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-april-2026)
 - miguelgrinberg.com
   - [SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships)
+- MIT Technology Review
+  - [The Download: cyberscammers’ banking bypasses, and carbon removal troubles](https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/)
 - Payatu
   - [IoT Penetration Testing: A Complete Methodology Guide with the OWASP ISTG Framework](https://payatu.com/blog/iot-penetration-testing-a-complete-methodology-guide-with-the-owasp-istg-framework/)
 - pluralistic.net
@@ -338,7 +358,9 @@
   - [Amazon-backed X-energy files to raise up to $800M in IPO](https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/)
   - [Anthropic shrugs off VC funding offers valuing it at $800B+, for now](https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/)
   - [Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers](https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/)
+  - [Canva’s AI assistant can now call various tools to make designs for you](https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/)
   - [DeepL, known for text translation, now wants to translate your voice](https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/)
+  - [Fashion retailer Express left customers’ personal data and order details exposed to the internet](https://techcrunch.com/2026/04/16/fashion-retailer-express-left-customers-personal-data-and-order-details-exposed-to-the-internet/)
   - [Feds will require data centers to show their power bills](https://techcrunch.com/2026/04/15/feds-will-require-data-centers-to-show-their-power-bills/)
   - [Ford EV and tech chief leaving automaker](https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/)
   - [Google rolls out a native Gemini app for Mac](https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/)
@@ -348,6 +370,7 @@
   - [Motorola sues social platforms and creators over posts, raising speech concerns in India](https://techcrunch.com/2026/04/15/motorola-sues-social-platforms-and-creators-over-posts-raising-speech-concerns-in-india/)
   - [OpenAI updates its Agents SDK to help enterprises build safer, more capable agents](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/)
   - [This Khosla-backed autonomous pod startup just raised $170M — now it’s aiming for more](https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/)
+  - [This simulation startup wants to be the Cursor for physical AI](https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/)
   - [Wait, could they still actually break up Live Nation?](https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/)
 - The Decoder
   - [Google ships its most expressive Gemini 3.1 text-to-speech model yet with 70+ language support](https://the-decoder.com/google-ships-its-most-expressive-gemini-3-1-text-to-speech-model-yet-with-70-language-support/)
@@ -356,6 +379,8 @@
   - [FTC pushes ad agencies into dropping brand safety rules](https://www.theverge.com/policy/912680/ftc-ad-agency-settlement-trust-safety)
   - [Google launches a Gemini AI app on Mac](https://www.theverge.com/tech/912638/google-gemini-mac-app)
   - [Ikea&#8217;s smart donut lamp is a sweet treat](https://www.theverge.com/tech/911809/ikea-varmblixt-smart-donut-lamp-review-matter-thread)
+  - [Intel&#8217;s cheaper Panther Lake chips are for budget-friendly laptops](https://www.theverge.com/tech/913026/intel-core-series-3-panther-lake-18a-budget-chips-specs)
+  - [Meta blames RAM shortage for $100 Quest 3 price hike](https://www.theverge.com/tech/912921/meta-quest-3-3s-vr-price-hike-ram-memory-shortage)
   - [Microsoft counters the MacBook Neo with freebies for students](https://www.theverge.com/news/912262/microsoft-macbook-neo-response-college-offer-free-subscriptions)
   - [Microsoft counters the MacBook Neo with freebies for students](https://www.theverge.com/news/912639/microsoft-counters-the-macbook-neo-with-freebies-for-students)
   - [Most people still don’t want anything to do with robotaxis](https://www.theverge.com/transportation/912357/robotaxi-poll-ev-intelligence-report-waymo-tesla)
@@ -541,12 +566,14 @@
   - [AT&T Promo Codes and Bundle Deals: Save $50 in April](https://www.wired.com/story/att-promo-code/)
   - [Best MacBook Accessories (2026): Chargers, Covers, Keyboards, and More](https://www.wired.com/gallery/best-macbook-accessories/)
   - [Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders](https://www.wired.com/story/birdfy-discount-code/)
+  - [Congress Turns Up Pressure on DHS Over Palantir’s Role in Immigration Crackdown](https://www.wired.com/story/congress-turns-up-pressure-on-dhs-over-palantirs-role-in-immigration-crackdown/)
   - [Google Workspace Promo Code: Up to 14% Off in 2026](https://www.wired.com/story/google-workspace-promo-code/)
   - [LG Sound Suite Review: Big Sound for Larger Rooms](https://www.wired.com/review/lg-sound-suite-2026/)
   - [Microsoft Surface PCs Are Getting Big Price Hikes, and the Cheaper Models Are Going Away](https://www.wired.com/story/microsoft-surface-price-hikes-cheaper-models-going-away/)
   - [NASA Wants to Put Nuclear Reactors on the Moon](https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon/)
   - [Robot Vacuum Throwdown: Shark Versus Dyson (2026)](https://www.wired.com/story/dyson-shark-robot-vacuum-comparison/)
   - [Tempo Prepared Meal Subscription Review (2026): Surprisingly Tasty](https://www.wired.com/review/tempo-prepared-meal-delivery-subscription/)
+  - [The 10 Best MagSafe Phone Grips for Your Butter Fingers (2026)](https://www.wired.com/gallery/best-magsafe-grips/)
   - [The Best Pillows for Neck Pain, Recommended by a Sleep Science Coach (2026)](https://www.wired.com/gallery/best-pillows-for-neck-pain/)
   - [The Star Trek Communicator Is Now a High-End Wristwatch](https://www.wired.com/story/the-star-trek-communicator-is-now-a-high-end-wristwatch/)
   - [The US Government to Ask Data Centers How Much Power They Use](https://www.wired.com/story/the-us-government-to-ask-data-centers-how-much-power-they-use/)
@@ -581,9 +608,12 @@
   - [苹果把Siri员工送进AI「补习班」，黄仁勋的暴论开始应验了](https://www.ifanr.com/1662432?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [Claude实名认证引众怒！强制验证是为了更精准封号](https://www.qbitai.com/2026/04/401655.html)
+  - [世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场](https://www.qbitai.com/2026/04/401994.html)
+  - [刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！](https://www.qbitai.com/2026/04/401743.html)
   - [宁王飘了！日赚2.3亿，回应比亚迪“闪充”：跟我学的，构不成挑战](https://www.qbitai.com/2026/04/401719.html)
   - [它石智航Pre-A轮融资4.55亿美金破中国具身智能纪录，高瓴红杉美团联合领投](https://www.qbitai.com/2026/04/401714.html)
   - [我用1分钟开发了个上线应用，有阿里Meoo谁还学编程啊](https://www.qbitai.com/2026/04/401553.html)
+  - [打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施](https://www.qbitai.com/2026/04/402063.html)
   - [智象未来完成新一轮融资，全力打造下一代原生全模态世界模型](https://www.qbitai.com/2026/04/401705.html)
   - [炸奥特曼的人被扒出来了](https://www.qbitai.com/2026/04/401523.html)
 - 黑海洋
@@ -593,3 +623,4 @@
   - [英伟达与楷登电子联合开发机器人AI](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8E%E6%A5%B7%E7%99%BB%E7%94%B5%E5%AD%90%E8%81%94%E5%90%88%E5%BC%80%E5%8F%91%E6%9C%BA%E5%99%A8%E4%BA%BAAI)
   - [谷歌有望从对SpaceX的投资中获千亿回报](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E6%9C%89%E6%9C%9B%E4%BB%8E%E5%AF%B9SpaceX%E7%9A%84%E6%8A%95%E8%B5%84%E4%B8%AD%E8%8E%B7%E5%8D%83%E4%BA%BF%E5%9B%9E%E6%8A%A5)
   - [韩国三星公司请求法院阻止工会举行罢工](https://blog.upx8.com/%E9%9F%A9%E5%9B%BD%E4%B8%89%E6%98%9F%E5%85%AC%E5%8F%B8%E8%AF%B7%E6%B1%82%E6%B3%95%E9%99%A2%E9%98%BB%E6%AD%A2%E5%B7%A5%E4%BC%9A%E4%B8%BE%E8%A1%8C%E7%BD%A2%E5%B7%A5)
+  - [黄仁勋：AI不是核武器 也不会抢走所有工作](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B-AI%E4%B8%8D%E6%98%AF%E6%A0%B8%E6%AD%A6%E5%99%A8-%E4%B9%9F%E4%B8%8D%E4%BC%9A%E6%8A%A2%E8%B5%B0%E6%89%80%E6%9C%89%E5%B7%A5%E4%BD%9C)
