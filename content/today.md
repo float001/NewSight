@@ -1,5 +1,8 @@
 # 今日安全资讯（2026-04-17）
 
+- 36氪
+  - [Meta宣布Quest 3/3S VR头显涨价](https://36kr.com/newsflashes/3770086954943234?f=rss)
+  - [美股三大指数集体收涨，纳指十二连涨再创收盘新高](https://36kr.com/newsflashes/3770085193728769?f=rss)
 - 404 Media
   - [App Stores Push Users Toward Nudify Apps, New Research Shows](https://www.404media.co/app-stores-apple-google-nudify-undress-deepfakes/)
 - Ars Technica
@@ -18,6 +21,8 @@
 - Hacker News Frontpage
   - [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
   - [German Dog Commands](https://www.fluentu.com/blog/german/german-dog-commands/)
+  - [New unsealed records reveal Amazon's price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit)
+  - [U.S. to Create High-Tech Manufacturing Zone in Philippines](https://www.wsj.com/world/asia/u-s-to-create-high-tech-manufacturing-zone-in-philippines-017c1668)
 - HackerNoon
   - [People Aren’t Using AI as Much as You Think](https://hackernoon.com/people-arent-using-ai-as-much-as-you-think?source=rss)
 - Horizon3.ai
@@ -47,6 +52,7 @@
   - [Anthropic CPO leaves Figma’s board after reports he will offer a competing product](https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/)
   - [European police email 75,000 people asking them to stop DDoS attacks](https://techcrunch.com/2026/04/16/european-police-email-75000-people-asking-them-to-stop-ddos-attacks/)
   - [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
+  - [Factory hits $1.5B valuation to build AI coding for enterprises](https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/)
   - [From the Startup Battlefield stage to the International Space Station: geCKo Materials built a sticky product](https://techcrunch.com/2026/04/16/from-the-startup-battlefield-stage-to-the-international-space-station-gecko-materials-built-a-sticky-product/)
   - [Google adds Nano Banana-powered image generation to Gemini’s Personal Intelligence](https://techcrunch.com/2026/04/16/google-adds-nano-banana-powered-image-generation-to-geminis-personal-intelligence/)
   - [Google now lets you explore the web side-by-side with AI Mode](https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/)
@@ -119,3 +125,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [刚刚，Claude Opus 4.7突然发布：不是最强，但奥特曼又得失眠](https://www.ifanr.com/1662528?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [简讯：Telegram移动端新增简体中文语言](https://blog.upx8.com/%E7%AE%80%E8%AE%AF-Telegram%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%96%B0%E5%A2%9E%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E8%AF%AD%E8%A8%80)
