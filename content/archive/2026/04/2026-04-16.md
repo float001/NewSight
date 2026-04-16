@@ -51,6 +51,7 @@
   - [“它石智航”完成超4.5亿美金Pre-A轮融资](https://36kr.com/newsflashes/3768927796314884?f=rss)
   - [一季度国内生产总值同比增长5.0%](https://36kr.com/newsflashes/3768858898153984?f=rss)
   - [一线城市房地产率先出现企稳迹象](https://36kr.com/p/3768928312001028?f=rss)
+  - [万科回应总裁空缺：已由董事长及高管团队分担相关职责](https://36kr.com/newsflashes/3769431715398152?f=rss)
   - [三七互娱：2025年归母净利润29亿元，拟10派4元](https://36kr.com/newsflashes/3769287334625794?f=rss)
   - [三星请求法院禁止工会开展非法罢工活动](https://36kr.com/newsflashes/3769286824280585?f=rss)
   - [东方盛虹：控股股东及其一致行动人拟增持9.80亿元至19.60亿元](https://36kr.com/newsflashes/3769304394793475?f=rss)
@@ -78,6 +79,7 @@
   - [京东发布机器人产业服务全景图](https://36kr.com/newsflashes/3768952943870467?f=rss)
   - [人民币对美元中间价调贬34个基点](https://36kr.com/newsflashes/3768817936188168?f=rss)
   - [佑驾创新与荣耀达成合作](https://36kr.com/newsflashes/3769350098912000?f=rss)
+  - [佰维存储：股东孙静等拟合计减持不超2.00%股份](https://36kr.com/newsflashes/3769446570918409?f=rss)
   - [先正达寻求最早6月在香港以保密方式提交IPO申请](https://36kr.com/newsflashes/3769227928421127?f=rss)
   - [公募南下布局提速，年内已有47只港股新基金成立](https://36kr.com/newsflashes/3768779853922823?f=rss)
   - [农业银行：发行500亿元总损失吸收能力非资本债券](https://36kr.com/newsflashes/3769315066266371?f=rss)
@@ -101,6 +103,8 @@
   - [台积电：一季度税后纯益约5724.8亿元新台币](https://36kr.com/newsflashes/3769077619327751?f=rss)
   - [台积电：预计今年资本支出将接近520亿至560亿美元区间的高标](https://36kr.com/newsflashes/3769124303536900?f=rss)
   - [台积电：预计第二季度毛利率65.5％-67.5％](https://36kr.com/newsflashes/3769102333706756?f=rss)
+  - [合盛硅业：2025年净亏损29.91亿元，同比转亏](https://36kr.com/newsflashes/3769442773795332?f=rss)
+  - [同大股份：股东华盛百利拟减持不超3%公司股份](https://36kr.com/newsflashes/3769412377117444?f=rss)
   - [商务部：截至4月12日消费品以旧换新销售额5029.4亿元，惠及6977.7万人次](https://36kr.com/newsflashes/3769200273441284?f=rss)
   - [国务院国资委：国资央企要因地制宜、稳妥有序推动低空经济高质量发展，加快低空航空装备创新迭代](https://36kr.com/newsflashes/3768978690114055?f=rss)
   - [国家统计局：1—3月份全国房地产开发投资17720亿元，同比下降11.2%](https://36kr.com/newsflashes/3768865016594947?f=rss)
@@ -116,6 +120,7 @@
   - [大韩航空将从下月起提高国际航班燃油附加费](https://36kr.com/newsflashes/3768838627869191?f=rss)
   - [天和磁材：股东南通元龙拟合计减持不超3%公司股份](https://36kr.com/newsflashes/3769347675193858?f=rss)
   - [天岳先进：股东询价转让初步定价为82.32元/股](https://36kr.com/newsflashes/3769271385588228?f=rss)
+  - [太平鸟：2025年净利润1.74亿元，同比下降32.57%](https://36kr.com/newsflashes/3769398868001537?f=rss)
   - [央行今日开展5亿元7天逆回购操作](https://36kr.com/newsflashes/3768827081998854?f=rss)
   - [奥迪高管透露明年将推第三款中国专属车型](https://36kr.com/newsflashes/3769230444134916?f=rss)
   - [奥雅股份：分公司及法定代表人被限制高消费已解除](https://36kr.com/newsflashes/3769247318376960?f=rss)
@@ -129,10 +134,12 @@
   - [小米发行10亿元人民币科创债，票面利率1.60%](https://36kr.com/newsflashes/3769373280502532?f=rss)
   - [市场监管总局开展专项行动打击虚假CCC认证标志，加强质量责任追溯](https://36kr.com/newsflashes/3769244737995526?f=rss)
   - [年内同业存单发行规模同比减少2.46万亿元](https://36kr.com/newsflashes/3768677169103360?f=rss)
+  - [当升科技：拟1.45亿元购买股权并投建磷酸铁锂一体化项目](https://36kr.com/newsflashes/3769414422037255?f=rss)
   - [微软加倍押注AI，大胆下注采购3万块英伟达GPU](https://36kr.com/newsflashes/3768217308529412?f=rss)
   - [恒指午间休盘涨1.38%，恒生科技指数涨2.98%](https://36kr.com/newsflashes/3768978385125892?f=rss)
   - [恒指开盘涨0.68%，恒生科技指数涨1.31%](https://36kr.com/newsflashes/3768820852687362?f=rss)
   - [恒指收涨1.72%，恒生科技指数涨3.67%](https://36kr.com/newsflashes/3769221761696519?f=rss)
+  - [恒瑞医药：子公司药物SHR-A2102纳入突破性治疗品种](https://36kr.com/newsflashes/3769424306749952?f=rss)
   - [恒生科技指数日内涨超2%，宁德时代涨9%](https://36kr.com/newsflashes/3768840720155136?f=rss)
   - [找100个被资本选中的答案｜2026“最受关注”企业名册评选启动](https://36kr.com/p/3768967684096521?f=rss)
   - [摩根大通CEO杰米·戴蒙出售价值4000万美元摩根大通股票](https://36kr.com/newsflashes/3768755752321799?f=rss)
@@ -141,6 +148,7 @@
   - [欧盟委员会初步认定元宇宙平台公司调整政策后仍违规](https://36kr.com/newsflashes/3768211906331141?f=rss)
   - [氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型](https://36kr.com/p/3769360179298818?f=rss)
   - [永创智能：控股股东一致行动人拟增持1000万元-2000万元公司股份](https://36kr.com/newsflashes/3769234321768963?f=rss)
+  - [永辉超市：一季度净利润2.87亿元，同比增长94.40%](https://36kr.com/newsflashes/3769430453895937?f=rss)
   - [江苏信保投资公司增资至约10.9亿元](https://36kr.com/newsflashes/3769383200572164?f=rss)
   - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3768891841937927?f=rss)
   - [沪深两市成交额突破2万亿元](https://36kr.com/newsflashes/3769115801158148?f=rss)
@@ -167,6 +175,7 @@
   - [联合利华以448亿美元出售食品业务，并以12亿美元收购Grüns](https://36kr.com/newsflashes/3768213695136256?f=rss)
   - [联邦陪审团裁定Live Nation非法垄断票务市场](https://36kr.com/newsflashes/3768772006691336?f=rss)
   - [腾讯混元3D世界模型2.0发布并开源](https://36kr.com/newsflashes/3768907361190408?f=rss)
+  - [致远新能：股东王然拟合计减持不超3%公司股份](https://36kr.com/newsflashes/3769420224774920?f=rss)
   - [英国金融行为监管局：推出更清晰、更简化的卖空规则](https://36kr.com/newsflashes/3769288956936969?f=rss)
   - [英国首相斯塔默敦促社交媒体公司保障网络安全](https://36kr.com/newsflashes/3768737400570631?f=rss)
   - [荣旗科技：参与苹果折叠屏手机中VC散热外观缺陷检测](https://36kr.com/newsflashes/3769164579832323?f=rss)
@@ -174,12 +183,14 @@
   - [要做电商Agent OS，前钉钉最年轻副总裁创立的「攀峰智能」再次完成数千万天使轮融资](https://36kr.com/p/3768320373441281?f=rss)
   - [谷歌被指在安卓应用分发领域实施垄断控制](https://36kr.com/newsflashes/3768216601051651?f=rss)
   - [豫园股份：一季度归母净利润1.57亿元，同比增加202.87%](https://36kr.com/newsflashes/3769209671025155?f=rss)
+  - [财政部、住建部：开展2026年度中央财政支持实施城市更新行动](https://36kr.com/newsflashes/3769396712178183?f=rss)
   - [赣锋锂业：预计一季度净利润16亿元-21亿元，同比增长549.65%–690.17%](https://36kr.com/newsflashes/3769354323034887?f=rss)
   - [车企账期整体性回落，行业主动告别“内卷”、修复供应链生态](https://36kr.com/newsflashes/3768788237632006?f=rss)
   - [软银集团发行10年期美元债券，票面利率达到创纪录的8.5%](https://36kr.com/newsflashes/3769252668949251?f=rss)
   - [辉瑞新一代减重药先维盈®开启预售，已正式上线美团买药](https://36kr.com/newsflashes/3768882620531464?f=rss)
   - [迪威尔：2025年归母净利润同比增长39.43%，拟10派2元](https://36kr.com/newsflashes/3769274099204608?f=rss)
   - [追觅科技旗下AI视觉机器人品牌NAVO亮相广交会](https://36kr.com/newsflashes/3768730956759814?f=rss)
+  - [通富微电：2025年净利润12.19亿元，同比增长79.86%](https://36kr.com/newsflashes/3769435448984329?f=rss)
   - [郑州：调整住房公积金个人住房贷款借款人年龄上限](https://36kr.com/newsflashes/3769262356070920?f=rss)
   - [郑栅洁主任赴怀柔国家实验室调研能源科技创新工作](https://36kr.com/newsflashes/3768762366607873?f=rss)
   - [重庆燃气：2025年归母净利润同比下降44.98%，拟10派0.43元](https://36kr.com/newsflashes/3769284011131656?f=rss)
@@ -229,6 +240,8 @@
   - [Daily Threat Briefing – April 16, 2026](https://defend.network/briefings/nginx-ui-critical-zero-day-exploitation-2026-04-16.html)
 - Emergent Minds | paddo.dev
   - [Eight Pull Requests in a Day, and Why You Can't Just Vibe Up a Replacement](https://paddo.dev/blog/eight-prs-and-the-scars/)
+- Fuzzing Labs
+  - [Reproducing CVE-2026-23111: How one character can change everything](https://fuzzinglabs.com/repro-cve-2026-23111/)
 - Google DeepMind Blog
   - [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/)
 - Hacker News Frontpage
@@ -244,6 +257,7 @@
   - [Live Nation Illegally Monopolized Ticketing Market, Jury Finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
   - [Show HN: Jeeves – TUI for browsing and resuming AI agent sessions](https://github.com/robinovitch61/jeeves)
   - [The buns in McDonald's Japan's burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/)
+  - [The noise we make is hurting animals. Can we learn to shut up?](https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/)
   - [The Rise of the Em-Dash in Hacker News Comments](https://boazsobrado.com/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/)
   - [Thomson Reuters Fired Worker for Speaking Out About ICE, Former Employee Says](https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says/)
 - HackerNews
@@ -268,8 +282,12 @@
   - [I truly hate mostpeopleslop](https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/)
 - Linux Foundation Blogs
   - [Linux Foundation Newsletter: April 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-april-2026)
+- miguelgrinberg.com
+  - [SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships)
 - Payatu
   - [IoT Penetration Testing: A Complete Methodology Guide with the OWASP ISTG Framework](https://payatu.com/blog/iot-penetration-testing-a-complete-methodology-guide-with-the-owasp-istg-framework/)
+- pluralistic.net
+  - [Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)](https://pluralistic.net/2026/04/16/pascals-wager/)
 - Product Hunt
   - [Foyer](https://www.producthunt.com/products/foyer-3)
   - [OpenAI Agents SDK](https://www.producthunt.com/products/openai)
@@ -287,6 +305,8 @@
   - [CVE-2026-33032: severe nginx-ui bug grants unauthenticated server access](https://securityaffairs.com/190841/hacking/cve-2026-33032-severe-nginx-ui-bug-grants-unauthenticated-server-access.html)
   - [From clinics to government: UAC-0247 expands cyber campaign across Ukraine](https://securityaffairs.com/190875/apt/from-clinics-to-government-uac-0247-expands-cyber-campaign-across-ukraine.html)
   - [Sweden reports cyberattack attempt on heating plant amid rising energy threats](https://securityaffairs.com/190869/intelligence/sweden-reports-cyberattack-attempt-on-heating-plant-amid-rising-energy-threats.html)
+- shkspr.mobi
+  - [RSS Club for WordPress](https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/)
 - simonwillison.net
   - [datasette 1.0a27](https://simonwillison.net/2026/Apr/15/datasette/#atom-everything)
   - [datasette.io news preview](https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything)
@@ -306,6 +326,7 @@
   - [exploit_kernel exploit](https://sploitus.com/exploit?id=A4E518D8-7951-5CE7-B7C5-E8C824991345&utm_source=rss&utm_medium=rss)
   - [ios-26-activation-research exploit](https://sploitus.com/exploit?id=606456C9-DD0F-552E-BAB4-3EE8E6B85381&utm_source=rss&utm_medium=rss)
   - [TRACE exploit](https://sploitus.com/exploit?id=6E8A526A-DFE4-5E33-A1B2-0D46B25A0B39&utm_source=rss&utm_medium=rss)
+  - [vuln-reproductions exploit](https://sploitus.com/exploit?id=56A006E7-CF6B-5351-BB13-02CCE9C2A224&utm_source=rss&utm_medium=rss)
   - [VulnForge exploit](https://sploitus.com/exploit?id=E3FE6607-42E5-52EF-94AB-13394188A766&utm_source=rss&utm_medium=rss)
   - [XSS exploit](https://sploitus.com/exploit?id=2B21623E-1AD7-5F94-AC78-CC29438B823B&utm_source=rss&utm_medium=rss)
 - Taxodium
@@ -349,6 +370,7 @@
   - [CVE-2024-4867 | WSO2 API Manager prior 3.2.0.408/3.2.1.32/4.0.0.293/4.1.0.187 cross site scripting](https://vuldb.com/vuln/357913)
   - [CVE-2024-8010 | WSO2 API Manager prior 4.3.0.39 Publisher xml external entity reference](https://vuldb.com/vuln/357910)
   - [CVE-2025-12141 | Grafana up to 12.3.0 Alerting System information disclosure](https://vuldb.com/vuln/357733)
+  - [CVE-2025-12624 | WSO2 Identity Server up to 5.2.0.34 Access Token session expiration](https://vuldb.com/vuln/357914)
   - [CVE-2025-13364 | flippercode WP Maps Plugin up to 4.8.7 on WordPress Shortcode put_wpgm cross site scripting](https://vuldb.com/vuln/357895)
   - [CVE-2025-15635 | Zaytech Smart Online Order for Clover Plugin up to 1.6.0 on WordPress cross-site request forgery](https://vuldb.com/vuln/357757)
   - [CVE-2025-15636 | Emarket-design YouTube Showcase Plugin up to 3.5.1 on WordPress cross site scripting](https://vuldb.com/vuln/357758)
@@ -517,8 +539,10 @@
   - [60% HP Discount Codes & Coupons April 2026](https://www.wired.com/story/hp-coupon-code/)
   - [AI Could Democratize One of Tech's Most Valuable Resources](https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/)
   - [AT&T Promo Codes and Bundle Deals: Save $50 in April](https://www.wired.com/story/att-promo-code/)
+  - [Best MacBook Accessories (2026): Chargers, Covers, Keyboards, and More](https://www.wired.com/gallery/best-macbook-accessories/)
   - [Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders](https://www.wired.com/story/birdfy-discount-code/)
   - [Google Workspace Promo Code: Up to 14% Off in 2026](https://www.wired.com/story/google-workspace-promo-code/)
+  - [LG Sound Suite Review: Big Sound for Larger Rooms](https://www.wired.com/review/lg-sound-suite-2026/)
   - [Microsoft Surface PCs Are Getting Big Price Hikes, and the Cheaper Models Are Going Away](https://www.wired.com/story/microsoft-surface-price-hikes-cheaper-models-going-away/)
   - [NASA Wants to Put Nuclear Reactors on the Moon](https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon/)
   - [Robot Vacuum Throwdown: Shark Versus Dyson (2026)](https://www.wired.com/story/dyson-shark-robot-vacuum-comparison/)
@@ -550,6 +574,7 @@
 - 爱范儿
   - [Claude Opus 4.7 或本周上线，但 Anthropic 要查你证件了](https://www.ifanr.com/1662281?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [Mac 可能 Neo，但 Mac Neo 不太可能](https://www.ifanr.com/1662390?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [卸载龙虾后，我找到了更香的爱马仕 Agent，5 分钟带你极速上手](https://www.ifanr.com/1662529?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [快倒闭的硅谷神鞋，转行 AI 股价暴涨 7 倍，龙虾之父都懵了](https://www.ifanr.com/1662327?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜手机销量十季度首降，三星苹果成唯二赢家/李想：不招非原生AI人才/苹果将Siri程序员送进AI「训练营」](https://www.ifanr.com/1662386?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [沃尔沃三车齐发！ES90 卖 42.99 万，XC70 卖 24.99 万，还有一辆旗舰轿车](https://www.ifanr.com/1662452?utm_source=rss&utm_medium=rss&utm_campaign=)
