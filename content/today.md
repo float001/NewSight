@@ -1,7 +1,28 @@
 # 今日安全资讯（2026-04-16）
 
 - 36氪
+  - [8点1氪丨美国将退还超1万亿元关税；多家银行密集停发信用卡；滴露回应使用宠物消毒液后5只幼猫死亡](https://36kr.com/p/3768734631527176?f=rss)
+  - [AI战略落地和国际化业务布局成券商业绩说明会两大核心主线](https://36kr.com/newsflashes/3768701858808579?f=rss)
+  - [AMD、高通、安谋为自动驾驶初创公司Wayve提供新资金](https://36kr.com/newsflashes/3768223374918409?f=rss)
+  - [EIA称美国石油出口总量跃升至纪录高位](https://36kr.com/newsflashes/3768205715505672?f=rss)
+  - [OpenAI退出挪威“星门”数据中心合作，微软接手](https://36kr.com/newsflashes/3768220910912009?f=rss)
+  - [中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链](https://36kr.com/newsflashes/3768720143057669?f=rss)
+  - [中信建投：生猪养殖板块将存在分化，效率高、成本低的企业将赢得竞争优势](https://36kr.com/newsflashes/3768733731062534?f=rss)
+  - [中国工程机械工业协会：3月销售各类平地机1007台 同比增长19.6%](https://36kr.com/newsflashes/3768738778120963?f=rss)
+  - [互联互通工具持续丰富，公募大力布局香港市场ETF](https://36kr.com/newsflashes/3768674456650497?f=rss)
+  - [华盛锂电向香港联交所递交H股发行上市申请并刊发申请资料](https://36kr.com/newsflashes/3768711365935874?f=rss)
+  - [年内同业存单发行规模同比减少2.46万亿元](https://36kr.com/newsflashes/3768677169103360?f=rss)
+  - [微软加倍押注AI，大胆下注采购3万块英伟达GPU](https://36kr.com/newsflashes/3768217308529412?f=rss)
+  - [欧盟委员会初步认定元宇宙平台公司调整政策后仍违规](https://36kr.com/newsflashes/3768211906331141?f=rss)
+  - [电子布库存持续紧张，涨价周期尚未结束](https://36kr.com/newsflashes/3768675724706304?f=rss)
+  - [绩优基金一季报密集披露：多只基金规模大增，看多AI相关产业链](https://36kr.com/newsflashes/3768667893121799?f=rss)
+  - [美国启动非法关税退款流程，已有上亿美元申请待处理](https://36kr.com/newsflashes/3768703106351620?f=rss)
   - [美股三大指数收盘涨跌不一，纳指11连涨创收盘新高](https://36kr.com/newsflashes/3768672676774657?f=rss)
+  - [联合利华以448亿美元出售食品业务，并以12亿美元收购Grüns](https://36kr.com/newsflashes/3768213695136256?f=rss)
+  - [英国首相斯塔默敦促社交媒体公司保障网络安全](https://36kr.com/newsflashes/3768737400570631?f=rss)
+  - [谷歌被指在安卓应用分发领域实施垄断控制](https://36kr.com/newsflashes/3768216601051651?f=rss)
+  - [追觅科技旗下AI视觉机器人品牌NAVO亮相广交会](https://36kr.com/newsflashes/3768730956759814?f=rss)
+  - [马斯克的xAI据悉将向编程初创公司Cursor提供算力支持](https://36kr.com/newsflashes/3768734282154758?f=rss)
 - 404 Media
   - [Ukraine Says Russians are Surrendering to Robots](https://www.404media.co/ukraine-says-russians-are-surrendering-to-robots/)
 - Ars Technica
@@ -17,6 +38,8 @@
 - darkreading
   - [Critical MCP Integration Flaw Puts NGINX at Risk](https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk)
   - [Navigating the Unique Security Risks of Asia's Digital Supply Chain](https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain)
+- Emergent Minds | paddo.dev
+  - [Eight Pull Requests in a Day, and Why You Can't Just Vibe Up a Replacement](https://paddo.dev/blog/eight-prs-and-the-scars/)
 - Google DeepMind Blog
   - [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/)
 - Hacker News Frontpage
@@ -36,9 +59,12 @@
   - [Your Backtest Is Lying to You: Here's Why](https://hackernoon.com/your-backtest-is-lying-to-you-heres-why?source=rss)
 - Linux Foundation Blogs
   - [Linux Foundation Newsletter: April 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-april-2026)
+- SANS Internet Storm Center, InfoCON: green
+  - [&#x5b;Guest Diary&#x5d; Compromised DVRs and Finding Them in the Wild, (Thu, Apr 16th)](https://isc.sans.edu/diary/rss/32886)
 - Security Affairs
   - [CVE-2026-33032: severe nginx-ui bug grants unauthenticated server access](https://securityaffairs.com/190841/hacking/cve-2026-33032-severe-nginx-ui-bug-grants-unauthenticated-server-access.html)
 - simonwillison.net
+  - [datasette 1.0a27](https://simonwillison.net/2026/Apr/15/datasette/#atom-everything)
   - [Gemini 3.1 Flash TTS](https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything)
   - [Quoting John Gruber](https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything)
 - Sploitus.com Exploits RSS Feed
