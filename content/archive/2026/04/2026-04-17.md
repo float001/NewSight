@@ -2,31 +2,49 @@
 
 - 404 Media
   - [App Stores Push Users Toward Nudify Apps, New Research Shows](https://www.404media.co/app-stores-apple-google-nudify-undress-deepfakes/)
+- Ars Technica
+  - [Ad firms settle with Trump FTC over claims they boycotted conservative media](https://arstechnica.com/tech-policy/2026/04/ad-firms-settle-with-trump-ftc-over-claims-they-boycotted-conservative-media/)
 - daringfireball.net
   - [Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers](https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/)
+  - [Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’](https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/)
+- darkreading
+  - ['Harmless' Global Adware Transforms Into an AV Killer](https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer)
 - EFF
   - [How Push Notifications Can Betray Your Privacy (and What to Do About It)](https://www.eff.org/deeplinks/2026/04/how-push-notifications-can-betray-your-privacy-and-what-do-about-it)
+- Hacker News Frontpage
+  - [German Dog Commands](https://www.fluentu.com/blog/german/german-dog-commands/)
 - Horizon3.ai
   - [Using Iranian Tradecraft to Eliminate a Critical AD Risk](https://horizon3.ai/customer-story/zerologon-ad-risk-iranian-tradecraft-case-study/)
 - IEEE Spectrum
   - [IEEE Entrepreneurship Connects Hardware Startups With Investors](https://spectrum.ieee.org/ieee-entrepreneurship-hardware-startups-investors)
+- SANS Internet Storm Center, InfoCON: green
+  - [&#x5b;Guest Diary&#x5d; Compromised DVRs and Finding Them in the Wild, (Thu, Apr 16th)](https://isc.sans.edu/diary/rss/32886)
 - Sec-News 安全文摘
   - [Codex Security代码审计初体验](https://govuln.com/news/url/q6m1)
+- Security Affairs
+  - [Cisco fixed four critical flaws in Identity Services and Webex](https://securityaffairs.com/190909/security/cisco-fixed-four-critical-flaws-in-identity-services-and-webex.html)
+- SentinelOne
+  - [Frontier AI Reinforces the Future of Modern Cyber Defense](https://www.sentinelone.com/blog/frontier-ai-reinforces-the-future-of-modern-cyber-defense/)
 - simonwillison.net
   - [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-37749 exploit](https://sploitus.com/exploit?id=A706DCC3-E0DB-5D10-93BF-40B6C7182D1F&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-37750 exploit](https://sploitus.com/exploit?id=BCA69165-8702-570C-A1B0-314C03C74C96&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Input Validation in Unrealircd exploit](https://sploitus.com/exploit?id=2D9513B3-1205-5B21-B50B-C28393B786EB&utm_source=rss&utm_medium=rss)
   - [ffensive-playbook exploit](https://sploitus.com/exploit?id=F96427D2-B972-581C-8620-E8E4BB1ECA8B&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too](https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/)
   - [Anthropic CPO leaves Figma’s board after reports he will offer a competing product](https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/)
   - [European police email 75,000 people asking them to stop DDoS attacks](https://techcrunch.com/2026/04/16/european-police-email-75000-people-asking-them-to-stop-ddos-attacks/)
   - [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
+  - [From the Startup Battlefield stage to the International Space Station: geCKo Materials built a sticky product](https://techcrunch.com/2026/04/16/from-the-startup-battlefield-stage-to-the-international-space-station-gecko-materials-built-a-sticky-product/)
   - [Google adds Nano Banana-powered image generation to Gemini’s Personal Intelligence](https://techcrunch.com/2026/04/16/google-adds-nano-banana-powered-image-generation-to-geminis-personal-intelligence/)
   - [Google now lets you explore the web side-by-side with AI Mode](https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/)
   - [InsightFinder raises $15M to help companies figure out where AI agents go wrong](https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/)
   - [It’s not just you — Bluesky is (sorta) down](https://techcrunch.com/2026/04/16/its-not-just-you-bluesky-is-sorta-down/)
+  - [OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop](https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/)
   - [Roblox’s AI assistant gets new agentic tools to plan, build, and test games](https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/)
+  - [Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation](https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/)
   - [Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme](https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/)
 - The Decoder
   - [Google launches native Gemini app for Mac](https://the-decoder.com/google-launches-native-gemini-app-for-mac/)
@@ -44,7 +62,15 @@
   - [The only way to fight deepfakes is by making deepfakes](https://www.theverge.com/report/913445/deepfake-detection-reality-defender-pindrop-ai)
 - VulDB Recent Entries
   - [CVE-2025-36579 | Dell Client Platform BIOS password recovery (dsa-2025-153)](https://vuldb.com/vuln/357946)
+  - [CVE-2025-43935 | Dell PowerScale OneFS up to 9.12.0.0 denial of service (dsa-2025-347)](https://vuldb.com/vuln/357954)
+  - [CVE-2026-2336 | Microchip IStaX up to 2026.2 webstax_auth entropy](https://vuldb.com/vuln/357953)
+  - [CVE-2026-24749 | SilverStripe Assets Module up to 2.4.4/3.1.2 getSourceURL authorization (GHSA-jgcf-rf45-2f8v)](https://vuldb.com/vuln/357948)
+  - [CVE-2026-27820 | ruby zlib up to 3.0.0/3.1.1/3.2.2 zlib::GzipReader buffer overflow (GHSA-g857-hhfv-j68w)](https://vuldb.com/vuln/357947)
   - [CVE-2026-30656 | fio 3.41 Job File Parser str_fdp_pli_cb null pointer dereference (Issue 2055)](https://vuldb.com/vuln/357940)
+  - [CVE-2026-33082 | DataEase up to 2.10.20 exportDataset expressionTree sql injection (GHSA-xxpw-2c8q-g693)](https://vuldb.com/vuln/357949)
+  - [CVE-2026-33083 | DataEase up to 2.10.20 enumValueDs Order2SQLObj sql injection (GHSA-f443-95cf-m837)](https://vuldb.com/vuln/357950)
+  - [CVE-2026-33084 | DataEase up to 2.10.20 DatasetDataManage Service Layer enumValueObj sort sql injection](https://vuldb.com/vuln/357951)
+  - [CVE-2026-33121 | DataEase up to 2.10.20 API deTableName sql injection](https://vuldb.com/vuln/357952)
   - [CVE-2026-3324 | Zoho ManageEngine Log360 up to 13013 Filter Configuration authentication bypass](https://vuldb.com/vuln/357938)
   - [CVE-2026-37100 | Yamaha SR-B30A Sound Bar 2.40 Bluetooth Low Energy improper authentication](https://vuldb.com/vuln/357939)
   - [CVE-2026-37336 | SourceCodester Simple Music Cloud Community System 1.0 /music/view_music.php sql injection](https://vuldb.com/vuln/357930)
@@ -62,6 +88,7 @@
   - [CVE-2026-5426 | Digital Knowledge KnowledgeDeliver prior 20260224 ViewState machineKey hard-coded key (MNDT-2026-0009)](https://vuldb.com/vuln/357945)
   - [CVE-2026-6409 | Protocol Buffers Protobuf-php up to 4.33.5/5.33.x Structured Message denial of service (GHSA-p2gh-cfq4-4wjc)](https://vuldb.com/vuln/357929)
 - Wired
+  - [Dark Matter May Be Made of Black Holes From Another Universe](https://www.wired.com/story/dark-matter-may-be-made-of-black-holes-from-another-universe/)
   - [Europe’s Online Age Verification App Is Here](https://www.wired.com/story/europes-online-age-verification-app-is-here/)
   - [Google's AI Mode Update Tries to Kill Tab Hopping in Chrome](https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/)
   - [The Battle for OpenAI’s Soul](https://www.wired.com/story/musk-v-altman-trial-openai-xai/)
