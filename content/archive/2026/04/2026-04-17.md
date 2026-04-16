@@ -2,6 +2,8 @@
 
 - 404 Media
   - [App Stores Push Users Toward Nudify Apps, New Research Shows](https://www.404media.co/app-stores-apple-google-nudify-undress-deepfakes/)
+- daringfireball.net
+  - [Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers](https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/)
 - EFF
   - [How Push Notifications Can Betray Your Privacy (and What to Do About It)](https://www.eff.org/deeplinks/2026/04/how-push-notifications-can-betray-your-privacy-and-what-do-about-it)
 - Horizon3.ai
@@ -13,9 +15,12 @@
 - simonwillison.net
   - [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-37749 exploit](https://sploitus.com/exploit?id=A706DCC3-E0DB-5D10-93BF-40B6C7182D1F&utm_source=rss&utm_medium=rss)
   - [ffensive-playbook exploit](https://sploitus.com/exploit?id=F96427D2-B972-581C-8620-E8E4BB1ECA8B&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too](https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/)
+  - [Anthropic CPO leaves Figma’s board after reports he will offer a competing product](https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/)
+  - [European police email 75,000 people asking them to stop DDoS attacks](https://techcrunch.com/2026/04/16/european-police-email-75000-people-asking-them-to-stop-ddos-attacks/)
   - [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
   - [Google adds Nano Banana-powered image generation to Gemini’s Personal Intelligence](https://techcrunch.com/2026/04/16/google-adds-nano-banana-powered-image-generation-to-geminis-personal-intelligence/)
   - [Google now lets you explore the web side-by-side with AI Mode](https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/)
@@ -30,11 +35,13 @@
   - [OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch](https://the-decoder.com/openai-says-more-women-than-men-now-use-chatgpt-flipping-an-80-20-male-split-at-launch/)
   - [OpenAI turns Codex into an always-on coding agent that watches your screen](https://the-decoder.com/openai-turns-codex-into-an-always-on-coding-agent-that-watches-your-screen/)
 - The Verge
+  - [Casely has reannounced a power bank recall from 2025 following a fatality](https://www.theverge.com/tech/913177/casely-recall-power-pods-wireless-bank-lithium-ion-battery-fire-explosion-uscpsc)
   - [Gemini can now pull from Google Photos to generate personalized images](https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana)
   - [Google’s AI Mode update lets you open links without leaving the page](https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources)
   - [Microsoft planning Surface Laptop with an OLED display](https://www.theverge.com/news/913218/microsoft-surface-laptop-oled-display-rumor)
   - [Microsoft’s new Xbox chief starts making her mark](https://www.theverge.com/tech/913093/microsoft-new-xbox-ceo-asha-sharma-memo-notepad)
   - [OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code](https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos)
+  - [The only way to fight deepfakes is by making deepfakes](https://www.theverge.com/report/913445/deepfake-detection-reality-defender-pindrop-ai)
 - VulDB Recent Entries
   - [CVE-2025-36579 | Dell Client Platform BIOS password recovery (dsa-2025-153)](https://vuldb.com/vuln/357946)
   - [CVE-2026-30656 | fio 3.41 Job File Parser str_fdp_pli_cb null pointer dereference (Issue 2055)](https://vuldb.com/vuln/357940)
@@ -55,8 +62,10 @@
   - [CVE-2026-5426 | Digital Knowledge KnowledgeDeliver prior 20260224 ViewState machineKey hard-coded key (MNDT-2026-0009)](https://vuldb.com/vuln/357945)
   - [CVE-2026-6409 | Protocol Buffers Protobuf-php up to 4.33.5/5.33.x Structured Message denial of service (GHSA-p2gh-cfq4-4wjc)](https://vuldb.com/vuln/357929)
 - Wired
+  - [Europe’s Online Age Verification App Is Here](https://www.wired.com/story/europes-online-age-verification-app-is-here/)
   - [Google's AI Mode Update Tries to Kill Tab Hopping in Chrome](https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/)
   - [The Battle for OpenAI’s Soul](https://www.wired.com/story/musk-v-altman-trial-openai-xai/)
+  - [The Online Fiction Boom Reimagining China’s History](https://www.wired.com/story/made-in-china-what-chinas-sci-fi-boom-is-really-selling/)
   - [The UK Launches Its $675 Million Sovereign AI Fund](https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
