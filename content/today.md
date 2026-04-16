@@ -231,6 +231,8 @@
   - ["TotalRecall Reloaded" tool finds a side entrance to Windows 11's Recall database](https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/)
   - [Space Force looks at moving "significant number" of launches from ULA to SpaceX](https://arstechnica.com/space/2026/04/space-force-looks-at-moving-significant-number-of-launches-from-ula-to-spacex/)
   - [US jobs too important to risk Chinese car imports, says Ford CEO](https://arstechnica.com/cars/2026/04/us-jobs-too-important-to-risk-chinese-car-imports-says-ford-ceo/)
+- Ben's Bites
+  - [My cheatsheet for a clean context](https://www.bensbites.com/p/my-cheatsheet-for-a-clean-context)
 - Blog - Praetorian
   - [Shadow Admins in Active Directory: Hidden Privilege Paths Attackers Exploit](https://www.praetorian.com/blog/shadow-admins-active-directory/)
 - blog.jim-nielsen.com
@@ -261,15 +263,19 @@
   - [Apple accelerates eco progress with highest-ever recycled materials](https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/)
   - [Arguing with Agents](https://blowmage.com/2026/04/14/arguing-with-agents/)
   - [AWS/GCP too expensive? Cloudexit.pro will help you move to bare-metal](https://cloudexit.pro/)
+  - [Cloudflare Email Service: now in public beta. Ready for your agents](https://blog.cloudflare.com/email-for-agents/)
+  - [Cloudflare's AI Platform: an inference layer designed for agents](https://blog.cloudflare.com/ai-platform/)
   - [Flock employees caught watching kids gymnastic class and pools](https://substack.com/home/post/p-193593234)
   - [I made a terminal pager](https://theleo.zone/posts/pager/)
   - [Is anyone actually using OpenClaw?](https://news.ycombinator.com/item?id=47783940)
   - [Jury Finds Live Nation Acts as a Monopoly in a Victory for States](https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html)
   - [Kalshi CEO expects US DOJ to prosecute insider trading cases](https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases)
   - [Live Nation Illegally Monopolized Ticketing Market, Jury Finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
+  - [Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All](https://qwen.ai/blog?id=qwen3.6-35b-a3b)
   - [Show HN: 48 absurd web projects – one every month](https://news.ycombinator.com/item?id=47792026)
   - [Show HN: Jeeves – TUI for browsing and resuming AI agent sessions](https://github.com/robinovitch61/jeeves)
   - [The buns in McDonald's Japan's burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/)
+  - [The Future of Everything Is Lies, I Guess: Where Do We Go from Here?](https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here)
   - [The noise we make is hurting animals. Can we learn to shut up?](https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/)
   - [The Rise of the Em-Dash in Hacker News Comments](https://boazsobrado.com/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/)
   - [Thomson Reuters Fired Worker for Speaking Out About ICE, Former Employee Says](https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says/)
@@ -287,13 +293,16 @@
 - Horizon3.ai
   - [Horizon3.ai Accelerates Channel Investment at Global Partner Conference: Americas](https://horizon3.ai/news/press-release/horizon3-ai-accelerates-channel-investment-at-global-partner-conference-americas/)
 - ICT Security Magazine
+  - [Dopo Claude Mythos, cosa deve fare concretamente un CISO: la guida strategica del 2026](https://www.ictsecuritymagazine.com/notizie/claude-mythos-ciso-guida-2026/)
   - [Misure di sicurezza NIS2: come il Regolamento UE 2024/2690 e le specifiche ACN definiscono gli obblighi di compliance](https://www.ictsecuritymagazine.com/articoli/misure-di-sicurezza-nis2/)
+  - [Third Party Risk Management (TPRM) nel 2026: quando il rischio entra dalla porta dei fornitori](https://www.ictsecuritymagazine.com/notizie/third-party-risk-management/)
 - infosecurity-magazine.com
   - [NIST Drops NVD Enrichment for Pre-March 2026 Vulnerabilities](https://www.infosecurity-magazine.com/news/nvd-enrichment-premarch-2026/)
 - Insinuator.net
   - [Disclosure: Command Injection in Geutebrück Cameras](https://insinuator.net/2026/04/disclosure-command-injection-in-geutebruck-cameras/)
 - IT Service Management News
   - [CNIL e tempi di conservazione dei dati del personale](http://blog.cesaregallotti.it/2026/04/cnil-e-tempi-di-conservazione-dei-dati.html)
+  - [Determinazioni ACN e la minaccia della categorizzazione delle attività](http://blog.cesaregallotti.it/2026/04/determinazioni-acn-e-la-minaccia-della.html)
   - [Etilometri hackerati e la dipendenza tecnologica](http://blog.cesaregallotti.it/2026/04/etilometri-hackerati-e-la-dipendenza.html)
   - [Rapporto Clusit 2026](http://blog.cesaregallotti.it/2026/04/rapporto-clusit-2026.html)
 - joanwestenberg.com
@@ -308,6 +317,8 @@
   - [IoT Penetration Testing: A Complete Methodology Guide with the OWASP ISTG Framework](https://payatu.com/blog/iot-penetration-testing-a-complete-methodology-guide-with-the-owasp-istg-framework/)
 - pluralistic.net
   - [Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)](https://pluralistic.net/2026/04/16/pascals-wager/)
+- PortSwigger Blog
+  - [Introducing the official Burp Ambassador Program](https://portswigger.net/blog/introducing-the-official-burp-ambassador-program)
 - Product Hunt
   - [Foyer](https://www.producthunt.com/products/foyer-3)
   - [OpenAI Agents SDK](https://www.producthunt.com/products/openai)
@@ -333,6 +344,7 @@
   - [Gemini 3.1 Flash TTS](https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything)
   - [Quoting John Gruber](https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [cap-exploit-poc exploit](https://sploitus.com/exploit?id=A0910487-B0E0-58DF-B980-2DD3A92A6123&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Xwiki exploit](https://sploitus.com/exploit?id=2B1B9311-C593-5EBF-A179-57FC0C75C7F4&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2024-12029 exploit](https://sploitus.com/exploit?id=6EBE351D-9575-5A82-BAED-B68ED620738B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-1880 exploit](https://sploitus.com/exploit?id=C5B61818-F670-5710-8674-303DFB73972F&utm_source=rss&utm_medium=rss)
@@ -345,6 +357,7 @@
   - [Exploit for Missing Encryption of Sensitive Data in Apache Tomcat exploit](https://sploitus.com/exploit?id=A0CC9855-3D63-5DD7-B1B0-9A0BF0B2C2F8&utm_source=rss&utm_medium=rss)
   - [exploit_kernel exploit](https://sploitus.com/exploit?id=A4E518D8-7951-5CE7-B7C5-E8C824991345&utm_source=rss&utm_medium=rss)
   - [ios-26-activation-research exploit](https://sploitus.com/exploit?id=606456C9-DD0F-552E-BAB4-3EE8E6B85381&utm_source=rss&utm_medium=rss)
+  - [python-vulnerability-scanner exploit](https://sploitus.com/exploit?id=B38E224D-DDD9-5E93-98C8-0920A80C6CDA&utm_source=rss&utm_medium=rss)
   - [TRACE exploit](https://sploitus.com/exploit?id=6E8A526A-DFE4-5E33-A1B2-0D46B25A0B39&utm_source=rss&utm_medium=rss)
   - [vuln-reproductions exploit](https://sploitus.com/exploit?id=56A006E7-CF6B-5351-BB13-02CCE9C2A224&utm_source=rss&utm_medium=rss)
   - [VulnForge exploit](https://sploitus.com/exploit?id=E3FE6607-42E5-52EF-94AB-13394188A766&utm_source=rss&utm_medium=rss)
@@ -367,6 +380,7 @@
   - [Hightouch reaches $100M ARR fueled by marketing tools powered by AI](https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/)
   - [India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space](https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/)
   - [LinkedIn data shows AI isn’t to blame for hiring decline… yet](https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/)
+  - [Meta raises Quest 3 and Quest 3S prices due to RAM shortage](https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/)
   - [Motorola sues social platforms and creators over posts, raising speech concerns in India](https://techcrunch.com/2026/04/15/motorola-sues-social-platforms-and-creators-over-posts-raising-speech-concerns-in-india/)
   - [OpenAI updates its Agents SDK to help enterprises build safer, more capable agents](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/)
   - [This Khosla-backed autonomous pod startup just raised $170M — now it’s aiming for more](https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/)
@@ -376,6 +390,7 @@
   - [Google ships its most expressive Gemini 3.1 text-to-speech model yet with 70+ language support](https://the-decoder.com/google-ships-its-most-expressive-gemini-3-1-text-to-speech-model-yet-with-70-language-support/)
 - The Verge
   - [Allbirds announced a switch from shoes to AI and its stock jumped 600 percent](https://www.theverge.com/news/912484/allbirds-ai-hyperscale)
+  - [Character.AI’s new Books mode turns reading into roleplay](https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode)
   - [FTC pushes ad agencies into dropping brand safety rules](https://www.theverge.com/policy/912680/ftc-ad-agency-settlement-trust-safety)
   - [Google launches a Gemini AI app on Mac](https://www.theverge.com/tech/912638/google-gemini-mac-app)
   - [Ikea&#8217;s smart donut lamp is a sweet treat](https://www.theverge.com/tech/911809/ikea-varmblixt-smart-donut-lamp-review-matter-thread)
@@ -383,7 +398,10 @@
   - [Meta blames RAM shortage for $100 Quest 3 price hike](https://www.theverge.com/tech/912921/meta-quest-3-3s-vr-price-hike-ram-memory-shortage)
   - [Microsoft counters the MacBook Neo with freebies for students](https://www.theverge.com/news/912262/microsoft-macbook-neo-response-college-offer-free-subscriptions)
   - [Microsoft counters the MacBook Neo with freebies for students](https://www.theverge.com/news/912639/microsoft-counters-the-macbook-neo-with-freebies-for-students)
+  - [Moft adds a tracker and shutter button to its magnetic tripod wallet](https://www.theverge.com/tech/913062/moft-trackable-tripod-wallet-magsafe-magnetic-camera-shutter-button)
   - [Most people still don’t want anything to do with robotaxis](https://www.theverge.com/transportation/912357/robotaxi-poll-ev-intelligence-report-waymo-tesla)
+  - [Ronan Farrow on Sam Altman&#8217;s ‘unconstrained’  relationship with the truth](https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry)
+  - [The Cybertruck of e-bikes is here to replace your car](https://www.theverge.com/transportation/913008/infinite-machine-olto-ebike-review)
   - [The Senate is voting to save free IRS Direct File today](https://www.theverge.com/policy/912490/irs-direct-file-senate-vote)
   - [Ticketmaster is an illegal monopoly, jury finds](https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict)
   - [YouTube now lets you turn off Shorts](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes)
@@ -397,6 +415,7 @@
   - [CVE-2025-12141 | Grafana up to 12.3.0 Alerting System information disclosure](https://vuldb.com/vuln/357733)
   - [CVE-2025-12624 | WSO2 Identity Server up to 5.2.0.34 Access Token session expiration](https://vuldb.com/vuln/357914)
   - [CVE-2025-13364 | flippercode WP Maps Plugin up to 4.8.7 on WordPress Shortcode put_wpgm cross site scripting](https://vuldb.com/vuln/357895)
+  - [CVE-2025-15621 | Sparx Systems Sparx Enterprise Architect up to 16.1.1627/17.1.1713 OAuth2 Credential insufficiently protected credentials (EUVD-2025-209499)](https://vuldb.com/vuln/357920)
   - [CVE-2025-15635 | Zaytech Smart Online Order for Clover Plugin up to 1.6.0 on WordPress cross-site request forgery](https://vuldb.com/vuln/357757)
   - [CVE-2025-15636 | Emarket-design YouTube Showcase Plugin up to 3.5.1 on WordPress cross site scripting](https://vuldb.com/vuln/357758)
   - [CVE-2025-41118 | Grafana Pyroscope up to 1.15.x API secret_key Remote Code Execution](https://vuldb.com/vuln/357818)
@@ -440,6 +459,8 @@
   - [CVE-2026-30617 | chatchat-space LangChain-ChatChat 0.3.1 MCP STDIO Server Configuration command injection](https://vuldb.com/vuln/357730)
   - [CVE-2026-30624 | Agent Zero 0.9.8 MCP privilege escalation](https://vuldb.com/vuln/357728)
   - [CVE-2026-30625 | Upsonic 0.71.6 MCP os command injection](https://vuldb.com/vuln/357731)
+  - [CVE-2026-3155 | OneSignal Plugin up to 3.8.0 on WordPress authorization (EUVD-2026-23219)](https://vuldb.com/vuln/357916)
+  - [CVE-2026-31843 | goodoneuz pay-uz up to 2.2.24 Endpoint update Route::any access control](https://vuldb.com/vuln/357915)
   - [CVE-2026-32179 | Microsoft MsQuic up to 2.4.17/2.5.6 integer underflow](https://vuldb.com/vuln/357877)
   - [CVE-2026-3299 | futtta WP YouTube Lyte Plugin up to 1.7.29 on WordPress Shortcode lyte cross site scripting](https://vuldb.com/vuln/357863)
   - [CVE-2026-33212 | weblate up to 5.16 Tasks API access control](https://vuldb.com/vuln/357768)
@@ -449,6 +470,7 @@
   - [CVE-2026-33440 | weblate up to 5.16 Setting ALLOWED_ASSET_DOMAINS server-side request forgery (GHSA-5fhx-9jwj-867m)](https://vuldb.com/vuln/357807)
   - [CVE-2026-3355 | ivole Customer Reviews for WooCommerce Plugin up to 5.101.0 on WordPress cross site scripting](https://vuldb.com/vuln/357894)
   - [CVE-2026-33667 | opf openproject up to 17.2.x Setting confirm_otp excessive authentication (GHSA-234r-45m2-w6cv)](https://vuldb.com/vuln/357812)
+  - [CVE-2026-3369 | codesolz Better Find and Replace Plugin up to 1.7.9 on WordPress Uploaded Image Title cross site scripting (EUVD-2026-23221)](https://vuldb.com/vuln/357919)
   - [CVE-2026-33877 | apostrophecms apostrophe up to 4.28.x Endpoint reset-request timing discrepancy (GHSA-mj7r-x3h3-7rmr)](https://vuldb.com/vuln/357820)
   - [CVE-2026-33888 | apostrophe up to 4.28.x piece-type checks authorization (GHSA-xhq9-58fw-859p)](https://vuldb.com/vuln/357840)
   - [CVE-2026-33889 | apostrophe up to 4.28.x launder.string Color cross site scripting (GHSA-97v6-998m-fp4g)](https://vuldb.com/vuln/357841)
@@ -457,6 +479,7 @@
   - [CVE-2026-3428 | ASUS Member Center Update code download](https://vuldb.com/vuln/357868)
   - [CVE-2026-34393 | weblate up to 5.16 API Endpoint privileges management (GHSA-3382-gw9x-477v)](https://vuldb.com/vuln/357810)
   - [CVE-2026-34632 | Adobe Photoshop Installer uncontrolled search path](https://vuldb.com/vuln/357811)
+  - [CVE-2026-3489 | designinvento DirectoryPress Plugin up to 3.6.26 on WordPress packages sql injection (EUVD-2026-23223)](https://vuldb.com/vuln/357917)
   - [CVE-2026-3551 | rafasashi Custom New User Notification Plugin up to 1.2.0 on WordPress register_setting cross site scripting](https://vuldb.com/vuln/357898)
   - [CVE-2026-35569 | apostrophe up to 4.28.x Meta Description cross site scripting (GHSA-855c-r2vq-c292)](https://vuldb.com/vuln/357842)
   - [CVE-2026-3581 | iandunn Basic Google Maps Placemarks Plugin up to 1.10.7 on WordPress authorization](https://vuldb.com/vuln/357884)
@@ -555,6 +578,7 @@
   - [CVE-2026-6384 | GIMP GIF Image buffer overflow](https://vuldb.com/vuln/357860)
   - [CVE-2026-6385 | FFmpeg MPEG-PS VOB Media File integer overflow](https://vuldb.com/vuln/357862)
   - [CVE-2026-6388 | Red Hat OpenShift GitOps ArgoCD Image Updater insufficient granularity of access control](https://vuldb.com/vuln/357833)
+  - [CVE-2026-6414 | fastify static up to 9.1.0 url encoding (GHSA-x428-ghpx-8j92)](https://vuldb.com/vuln/357918)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Qualys VMDR and TotalCloud™ Now Available on Oracle Cloud Marketplace](https://blog.qualys.com/category/product-tech)
 - Wired
@@ -563,6 +587,7 @@
   - [50% Off Home Depot Promo Codes | April 2026](https://www.wired.com/story/home-depot-promo-code/)
   - [60% HP Discount Codes & Coupons April 2026](https://www.wired.com/story/hp-coupon-code/)
   - [AI Could Democratize One of Tech's Most Valuable Resources](https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/)
+  - [Anthropic Plots Major London Expansion](https://www.wired.com/story/anthropic-plots-major-london-expansion/)
   - [AT&T Promo Codes and Bundle Deals: Save $50 in April](https://www.wired.com/story/att-promo-code/)
   - [Best MacBook Accessories (2026): Chargers, Covers, Keyboards, and More](https://www.wired.com/gallery/best-macbook-accessories/)
   - [Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders](https://www.wired.com/story/birdfy-discount-code/)
@@ -608,6 +633,7 @@
   - [苹果把Siri员工送进AI「补习班」，黄仁勋的暴论开始应验了](https://www.ifanr.com/1662432?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [Claude实名认证引众怒！强制验证是为了更精准封号](https://www.qbitai.com/2026/04/401655.html)
+  - [PPIO上线PPHermes：云端沙箱一键部署Hermes Agent](https://www.qbitai.com/2026/04/402085.html)
   - [世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场](https://www.qbitai.com/2026/04/401994.html)
   - [刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！](https://www.qbitai.com/2026/04/401743.html)
   - [宁王飘了！日赚2.3亿，回应比亚迪“闪充”：跟我学的，构不成挑战](https://www.qbitai.com/2026/04/401719.html)
@@ -620,6 +646,7 @@
   - [HBO Max通过与JioHotstar合作进入印度](https://blog.upx8.com/HBO-Max%E9%80%9A%E8%BF%87%E4%B8%8EJioHotstar%E5%90%88%E4%BD%9C%E8%BF%9B%E5%85%A5%E5%8D%B0%E5%BA%A6)
   - [中国芯片制造商长江存储计划新建工厂](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%95%86%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E8%AE%A1%E5%88%92%E6%96%B0%E5%BB%BA%E5%B7%A5%E5%8E%82)
   - [福特电动汽车主管将卸任 硅谷人才难留](https://blog.upx8.com/%E7%A6%8F%E7%89%B9%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B8%BB%E7%AE%A1%E5%B0%86%E5%8D%B8%E4%BB%BB-%E7%A1%85%E8%B0%B7%E4%BA%BA%E6%89%8D%E9%9A%BE%E7%95%99)
+  - [美国近半员工在工作中使用AI但每周浪费8小时](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%BF%91%E5%8D%8A%E5%91%98%E5%B7%A5%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%AD%E4%BD%BF%E7%94%A8AI%E4%BD%86%E6%AF%8F%E5%91%A8%E6%B5%AA%E8%B4%B98%E5%B0%8F%E6%97%B6)
   - [英伟达与楷登电子联合开发机器人AI](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8E%E6%A5%B7%E7%99%BB%E7%94%B5%E5%AD%90%E8%81%94%E5%90%88%E5%BC%80%E5%8F%91%E6%9C%BA%E5%99%A8%E4%BA%BAAI)
   - [谷歌有望从对SpaceX的投资中获千亿回报](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E6%9C%89%E6%9C%9B%E4%BB%8E%E5%AF%B9SpaceX%E7%9A%84%E6%8A%95%E8%B5%84%E4%B8%AD%E8%8E%B7%E5%8D%83%E4%BA%BF%E5%9B%9E%E6%8A%A5)
   - [韩国三星公司请求法院阻止工会举行罢工](https://blog.upx8.com/%E9%9F%A9%E5%9B%BD%E4%B8%89%E6%98%9F%E5%85%AC%E5%8F%B8%E8%AF%B7%E6%B1%82%E6%B3%95%E9%99%A2%E9%98%BB%E6%AD%A2%E5%B7%A5%E4%BC%9A%E4%B8%BE%E8%A1%8C%E7%BD%A2%E5%B7%A5)
