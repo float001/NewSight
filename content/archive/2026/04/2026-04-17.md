@@ -7,10 +7,13 @@
 - daringfireball.net
   - [Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers](https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/)
   - [Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’](https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/)
+  - [Colliding With Reality, Indeed](https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html?unlocked_article_code=1.bVA.EB30.mygpleorcQhg&smid=url-share)
+  - [How to Format 10-Digit Phone Numbers](https://www.threads.com/@apstylebook/post/DXKtXVXEh7T)
 - darkreading
   - ['Harmless' Global Adware Transforms Into an AV Killer](https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer)
 - EFF
   - [How Push Notifications Can Betray Your Privacy (and What to Do About It)](https://www.eff.org/deeplinks/2026/04/how-push-notifications-can-betray-your-privacy-and-what-do-about-it)
+  - [Stop New York's Attack on 3D Printing](https://www.eff.org/deeplinks/2026/04/stop-new-yorks-attack-3d-printing)
 - Hacker News Frontpage
   - [German Dog Commands](https://www.fluentu.com/blog/german/german-dog-commands/)
 - Horizon3.ai
@@ -26,12 +29,15 @@
 - SentinelOne
   - [Frontier AI Reinforces the Future of Modern Cyber Defense](https://www.sentinelone.com/blog/frontier-ai-reinforces-the-future-of-modern-cyber-defense/)
 - simonwillison.net
+  - [llm-anthropic 0.25](https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything)
   - [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-37749 exploit](https://sploitus.com/exploit?id=A706DCC3-E0DB-5D10-93BF-40B6C7182D1F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-37750 exploit](https://sploitus.com/exploit?id=BCA69165-8702-570C-A1B0-314C03C74C96&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Unrealircd exploit](https://sploitus.com/exploit?id=2D9513B3-1205-5B21-B50B-C28393B786EB&utm_source=rss&utm_medium=rss)
+  - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Microsoft exploit](https://sploitus.com/exploit?id=B30F4762-572C-5D0B-95DC-CF651DDAB16B&utm_source=rss&utm_medium=rss)
   - [ffensive-playbook exploit](https://sploitus.com/exploit?id=F96427D2-B972-581C-8620-E8E4BB1ECA8B&utm_source=rss&utm_medium=rss)
+  - [web-vulnerability-scanner exploit](https://sploitus.com/exploit?id=1D5B5836-CBC4-5A1B-B7A1-B1F61A9399EB&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too](https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/)
   - [Anthropic CPO leaves Figma’s board after reports he will offer a competing product](https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/)
@@ -43,9 +49,11 @@
   - [InsightFinder raises $15M to help companies figure out where AI agents go wrong](https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/)
   - [It’s not just you — Bluesky is (sorta) down](https://techcrunch.com/2026/04/16/its-not-just-you-bluesky-is-sorta-down/)
   - [OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop](https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/)
+  - [Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught](https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/)
   - [Roblox’s AI assistant gets new agentic tools to plan, build, and test games](https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/)
   - [Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation](https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/)
   - [Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme](https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/)
+  - [Upscale AI in talks to raise at $2B valuation, says report](https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/)
 - The Decoder
   - [Google launches native Gemini app for Mac](https://the-decoder.com/google-launches-native-gemini-app-for-mac/)
   - [India's 1.5 million annual IT graduates face an industry that's moving on without them](https://the-decoder.com/indias-1-5-million-annual-it-graduates-face-an-industry-thats-moving-on-without-them/)
@@ -53,11 +61,15 @@
   - [OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch](https://the-decoder.com/openai-says-more-women-than-men-now-use-chatgpt-flipping-an-80-20-male-split-at-launch/)
   - [OpenAI turns Codex into an always-on coding agent that watches your screen](https://the-decoder.com/openai-turns-codex-into-an-always-on-coding-agent-that-watches-your-screen/)
 - The Verge
+  - [Ballmer gives $80 million to NPR, with strings attached.](https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached)
   - [Casely has reannounced a power bank recall from 2025 following a fatality](https://www.theverge.com/tech/913177/casely-recall-power-pods-wireless-bank-lithium-ion-battery-fire-explosion-uscpsc)
   - [Gemini can now pull from Google Photos to generate personalized images](https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana)
   - [Google’s AI Mode update lets you open links without leaving the page](https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources)
+  - [Gucci-branded Google smart glasses are coming next year](https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027)
   - [Microsoft planning Surface Laptop with an OLED display](https://www.theverge.com/news/913218/microsoft-surface-laptop-oled-display-rumor)
   - [Microsoft’s new Xbox chief starts making her mark](https://www.theverge.com/tech/913093/microsoft-new-xbox-ceo-asha-sharma-memo-notepad)
+  - [Netflix co-founder Reed Hastings is officially leaving the company](https://www.theverge.com/streaming/913201/netflix-reed-hastings-earnings-q1-2026)
+  - [Netflix embraces vertical video with major mobile app update](https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video)
   - [OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code](https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos)
   - [The only way to fight deepfakes is by making deepfakes](https://www.theverge.com/report/913445/deepfake-detection-reality-defender-pindrop-ai)
 - VulDB Recent Entries
@@ -71,6 +83,8 @@
   - [CVE-2026-33083 | DataEase up to 2.10.20 enumValueDs Order2SQLObj sql injection (GHSA-f443-95cf-m837)](https://vuldb.com/vuln/357950)
   - [CVE-2026-33084 | DataEase up to 2.10.20 DatasetDataManage Service Layer enumValueObj sort sql injection](https://vuldb.com/vuln/357951)
   - [CVE-2026-33121 | DataEase up to 2.10.20 API deTableName sql injection](https://vuldb.com/vuln/357952)
+  - [CVE-2026-33122 | DataEase up to 2.10.20 API Datasource Update Process update deTableName sql injection](https://vuldb.com/vuln/357963)
+  - [CVE-2026-33207 | DataEase up to 2.10.20 getTableField tableName sql injection](https://vuldb.com/vuln/357964)
   - [CVE-2026-3324 | Zoho ManageEngine Log360 up to 13013 Filter Configuration authentication bypass](https://vuldb.com/vuln/357938)
   - [CVE-2026-37100 | Yamaha SR-B30A Sound Bar 2.40 Bluetooth Low Energy improper authentication](https://vuldb.com/vuln/357939)
   - [CVE-2026-37336 | SourceCodester Simple Music Cloud Community System 1.0 /music/view_music.php sql injection](https://vuldb.com/vuln/357930)
@@ -85,6 +99,7 @@
   - [CVE-2026-37345 | SourceCodester Vehicle Parking Area Management System 1.0 /parking/manage_park.php sql injection](https://vuldb.com/vuln/357942)
   - [CVE-2026-37346 | SourceCodester Payroll Management and Information System 1.0 view_account.php?emp_id= sql injection](https://vuldb.com/vuln/357943)
   - [CVE-2026-37347 | SourceCodester Payroll Management and Information System 1.0 view_employee.php sql injection](https://vuldb.com/vuln/357944)
+  - [CVE-2026-40899 | DataEase up to 2.10.20 getJdbc permissive list of allowed inputs](https://vuldb.com/vuln/357965)
   - [CVE-2026-5426 | Digital Knowledge KnowledgeDeliver prior 20260224 ViewState machineKey hard-coded key (MNDT-2026-0009)](https://vuldb.com/vuln/357945)
   - [CVE-2026-6409 | Protocol Buffers Protobuf-php up to 4.33.5/5.33.x Structured Message denial of service (GHSA-p2gh-cfq4-4wjc)](https://vuldb.com/vuln/357929)
 - Wired
