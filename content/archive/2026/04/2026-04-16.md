@@ -15,10 +15,13 @@
   - [你电脑里最常用的【截图】工具是什么？](https://2libra.com/post/tools-sharing/lDQqb85)
   - [使用 Codex 写了一个旅游规划网站，大家尝尝咸淡](https://2libra.com/post/ai-programming/89ybIlf)
   - [博客聚合功能安全风险与建议](https://2libra.com/post/network-security/-MQbQze)
+  - [发现了我的青春记录](https://2libra.com/post/devops/PdtazwG)
   - [嘿嘿，终于混到了前排打手](https://2libra.com/post/slacking-off/izoI4TY)
   - [在构建一个 RSS 安全修正版本，可能会无法访问一小会](https://2libra.com/post/community/MgPwQye)
+  - [新法案：游戏关服必出离线版 不然全退款](https://2libra.com/post/game-discussion/7FesE95)
   - [站长没有判定提交的博客是否属于用户自己的，可以提交任何 rss 博客。站长可以考虑下加校验](https://2libra.com/post/community/NH-oAnI)
   - [终于签到勤勉检定大失败啦](https://2libra.com/post/forum-function/iUEHf5k)
+  - [谷歌为 Mac 推出原生 Gemini AI 应用](https://2libra.com/post/ai-updates/0r0u9BY)
 - 36氪
   - [13只个人养老金基金年内净值涨幅超10%](https://36kr.com/newsflashes/3768749923533572?f=rss)
   - [3月中国快递发展指数同比增长2.4%](https://36kr.com/newsflashes/3768810450485768?f=rss)
@@ -27,6 +30,7 @@
   - [AI战略落地和国际化业务布局成券商业绩说明会两大核心主线](https://36kr.com/newsflashes/3768701858808579?f=rss)
   - [AMD、高通、安谋为自动驾驶初创公司Wayve提供新资金](https://36kr.com/newsflashes/3768223374918409?f=rss)
   - [A股三大指数午间休盘集体上涨，宁德时代市值突破2万亿](https://36kr.com/newsflashes/3768949821702663?f=rss)
+  - [A股三大指数集体收涨，创业板指涨超3%刷新近11年新高](https://36kr.com/newsflashes/3769153618199042?f=rss)
   - [A股三大指数集体高开，新股N大普微上市首日高开349.72%](https://36kr.com/newsflashes/3768825039127040?f=rss)
   - [EIA称美国石油出口总量跃升至纪录高位](https://36kr.com/newsflashes/3768205715505672?f=rss)
   - [FF完成股权投资协议修订并将总认购金额增至1200万美元，取消反稀释条款](https://36kr.com/newsflashes/3768847820931591?f=rss)
@@ -36,6 +40,7 @@
   - [“它石智航”完成超4.5亿美金Pre-A轮融资](https://36kr.com/newsflashes/3768927796314884?f=rss)
   - [一季度国内生产总值同比增长5.0%](https://36kr.com/newsflashes/3768858898153984?f=rss)
   - [一线城市房地产率先出现企稳迹象](https://36kr.com/p/3768928312001028?f=rss)
+  - [东风汽车旗下资产管理公司注册资本增至28亿元](https://36kr.com/newsflashes/3769129086305033?f=rss)
   - [东风汽车正式发布“天元智舱”系列平台](https://36kr.com/newsflashes/3768811155128835?f=rss)
   - [两市融资余额增加101.82亿元](https://36kr.com/newsflashes/3768786868437769?f=rss)
   - [中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链](https://36kr.com/newsflashes/3768720143057669?f=rss)
@@ -43,6 +48,7 @@
   - [中信证券：坚定看好存储产业趋势 推荐存储原厂及贴近原厂的设计公司](https://36kr.com/newsflashes/3768768375292416?f=rss)
   - [中信证券：坚定看好存储产业趋势，核心推荐存储原厂及贴近原厂的设计公司](https://36kr.com/newsflashes/3768778559718147?f=rss)
   - [中信证券：稀土管制开启中国高端陶瓷历史机遇期](https://36kr.com/newsflashes/3768781761856260?f=rss)
+  - [中公教育发布AI时代职业能力培养平台“新希天才”](https://36kr.com/newsflashes/3769141465432833?f=rss)
   - [中国工程机械工业协会：3月销售各类平地机1007台 同比增长19.6%](https://36kr.com/newsflashes/3768738778120963?f=rss)
   - [中指研究院：3月以来市场销售出现边际改善，今年新房成交同比降幅有望逐步收窄](https://36kr.com/newsflashes/3769004364579330?f=rss)
   - [中科宇航IPO状态变更为已问询](https://36kr.com/newsflashes/3768852272742915?f=rss)
@@ -52,6 +58,7 @@
   - [人民币对美元中间价调贬34个基点](https://36kr.com/newsflashes/3768817936188168?f=rss)
   - [公募南下布局提速，年内已有47只港股新基金成立](https://36kr.com/newsflashes/3768779853922823?f=rss)
   - [创业板指涨1%](https://36kr.com/newsflashes/3768841036808711?f=rss)
+  - [创业板指涨逾3%，宁德时代等权重领涨](https://36kr.com/newsflashes/3769110156935937?f=rss)
   - [半日主力资金加仓电子板块，抛售银行板块](https://36kr.com/newsflashes/3768961380254215?f=rss)
   - [华东数控：2025年度计提资产减值准备607.16万元 占2024年度净利润的71.48%](https://36kr.com/newsflashes/3768991742509573?f=rss)
   - [华泰证券：Bloom Energy大单呼应AI缺电主线，看好三条投资主线](https://36kr.com/newsflashes/3768757883552259?f=rss)
@@ -62,6 +69,8 @@
   - [古驰母公司开云集团计划今年完成架构重组](https://36kr.com/newsflashes/3769091086058240?f=rss)
   - [台积电：一季度先进制程营收达全季晶圆销售金额的74%](https://36kr.com/newsflashes/3769084262368002?f=rss)
   - [台积电：一季度税后纯益约5724.8亿元新台币](https://36kr.com/newsflashes/3769077619327751?f=rss)
+  - [台积电：预计今年资本支出将接近520亿至560亿美元区间的高标](https://36kr.com/newsflashes/3769124303536900?f=rss)
+  - [台积电：预计第二季度毛利率65.5％-67.5％](https://36kr.com/newsflashes/3769102333706756?f=rss)
   - [国务院国资委：国资央企要因地制宜、稳妥有序推动低空经济高质量发展，加快低空航空装备创新迭代](https://36kr.com/newsflashes/3768978690114055?f=rss)
   - [国家统计局：1—3月份全国房地产开发投资17720亿元，同比下降11.2%](https://36kr.com/newsflashes/3768865016594947?f=rss)
   - [国家统计局：3月份一线城市新建商品住宅销售价格环比由上月持平转为上涨0.2%](https://36kr.com/newsflashes/3768833491550722?f=rss)
@@ -84,12 +93,17 @@
   - [恒指午间休盘涨1.38%，恒生科技指数涨2.98%](https://36kr.com/newsflashes/3768978385125892?f=rss)
   - [恒指开盘涨0.68%，恒生科技指数涨1.31%](https://36kr.com/newsflashes/3768820852687362?f=rss)
   - [恒生科技指数日内涨超2%，宁德时代涨9%](https://36kr.com/newsflashes/3768840720155136?f=rss)
+  - [找100个被资本选中的答案｜2026“最受关注”企业名册评选启动](https://36kr.com/p/3768967684096521?f=rss)
   - [摩根大通CEO杰米·戴蒙出售价值4000万美元摩根大通股票](https://36kr.com/newsflashes/3768755752321799?f=rss)
+  - [新加坡的AI征途：孕育下一个“硅谷”](https://36kr.com/p/3768997634130434?f=rss)
   - [欧盟委员会初步认定元宇宙平台公司调整政策后仍违规](https://36kr.com/newsflashes/3768211906331141?f=rss)
   - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3768891841937927?f=rss)
+  - [沪深两市成交额突破2万亿元](https://36kr.com/newsflashes/3769115801158148?f=rss)
+  - [法国巴黎银行：美国投资者开始重返中国股市](https://36kr.com/newsflashes/3769155809510145?f=rss)
   - [港股通标的证券名单调整，调入禾赛-W](https://36kr.com/newsflashes/3768789989507845?f=rss)
   - [特朗普签发多项输油管道许可，以促进美加之间的石油运输](https://36kr.com/newsflashes/3768784624058889?f=rss)
   - [特朗普：若美联储主席鲍威尔任期届满后仍留任，将对其解职](https://36kr.com/newsflashes/3768752941384199?f=rss)
+  - [现代汽车美国销售副总裁离职](https://36kr.com/newsflashes/3769108102300169?f=rss)
   - [电子布库存持续紧张，涨价周期尚未结束](https://36kr.com/newsflashes/3768675724706304?f=rss)
   - [算力涨价潮席卷全球：阿里、Anthropic连续调价，严重算力荒再现](https://36kr.com/newsflashes/3768876462473732?f=rss)
   - [绩优基金一季报密集披露：多只基金规模大增，看多AI相关产业链](https://36kr.com/newsflashes/3768667893121799?f=rss)
@@ -134,6 +148,8 @@
   - [6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs](https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs)
   - [Critical MCP Integration Flaw Puts NGINX at Risk](https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk)
   - [Navigating the Unique Security Risks of Asia's Digital Supply Chain](https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain)
+- defend.network
+  - [Daily Threat Briefing – April 16, 2026](https://defend.network/briefings/nginx-ui-critical-zero-day-exploitation-2026-04-16.html)
 - Emergent Minds | paddo.dev
   - [Eight Pull Requests in a Day, and Why You Can't Just Vibe Up a Replacement](https://paddo.dev/blog/eight-prs-and-the-scars/)
 - Google DeepMind Blog
@@ -165,10 +181,17 @@
   - [Your Backtest Is Lying to You: Here's Why](https://hackernoon.com/your-backtest-is-lying-to-you-heres-why?source=rss)
 - ICT Security Magazine
   - [Misure di sicurezza NIS2: come il Regolamento UE 2024/2690 e le specifiche ACN definiscono gli obblighi di compliance](https://www.ictsecuritymagazine.com/articoli/misure-di-sicurezza-nis2/)
+- IT Service Management News
+  - [CNIL e tempi di conservazione dei dati del personale](http://blog.cesaregallotti.it/2026/04/cnil-e-tempi-di-conservazione-dei-dati.html)
+  - [Rapporto Clusit 2026](http://blog.cesaregallotti.it/2026/04/rapporto-clusit-2026.html)
 - joanwestenberg.com
   - [I truly hate mostpeopleslop](https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/)
 - Linux Foundation Blogs
   - [Linux Foundation Newsletter: April 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-april-2026)
+- Product Hunt
+  - [Foyer](https://www.producthunt.com/products/foyer-3)
+  - [OpenAI Agents SDK](https://www.producthunt.com/products/openai)
+  - [TaskShell](https://www.producthunt.com/products/taskshell)
 - SANS Internet Storm Center, InfoCON: green
   - [&#x5b;Guest Diary&#x5d; Compromised DVRs and Finding Them in the Wild, (Thu, Apr 16th)](https://isc.sans.edu/diary/rss/32886)
   - [ISC Stormcast For Thursday, April 16th, 2026 https://isc.sans.edu/podcastdetail/9894, (Thu, Apr 16th)](https://isc.sans.edu/diary/rss/32902)
@@ -280,6 +303,7 @@
   - [CVE-2026-34393 | weblate up to 5.16 API Endpoint privileges management (GHSA-3382-gw9x-477v)](https://vuldb.com/vuln/357810)
   - [CVE-2026-34632 | Adobe Photoshop Installer uncontrolled search path](https://vuldb.com/vuln/357811)
   - [CVE-2026-35569 | apostrophe up to 4.28.x Meta Description cross site scripting (GHSA-855c-r2vq-c292)](https://vuldb.com/vuln/357842)
+  - [CVE-2026-3581 | iandunn Basic Google Maps Placemarks Plugin up to 1.10.7 on WordPress authorization](https://vuldb.com/vuln/357884)
   - [CVE-2026-3878 | fahadmahmood WP Docs Plugin up to 2.2.9 on WordPress wpdocs_options[icon_size] cross site scripting (EUVD-2026-23168)](https://vuldb.com/vuln/357853)
   - [CVE-2026-3885 | gn_themes WP Shortcodes Plugin up to 7.4.9 on WordPress cross site scripting (EUVD-2026-23159)](https://vuldb.com/vuln/357855)
   - [CVE-2026-39350 | Istio up to 1.27.8/1.28.5/1.29.1 notServiceAccounts incorrect regex (GHSA-9gcg-w975-3rjh)](https://vuldb.com/vuln/357865)
@@ -402,8 +426,10 @@
 - 量子位 QbitAI
   - [Claude实名认证引众怒！强制验证是为了更精准封号](https://www.qbitai.com/2026/04/401655.html)
   - [我用1分钟开发了个上线应用，有阿里Meoo谁还学编程啊](https://www.qbitai.com/2026/04/401553.html)
+  - [智象未来完成新一轮融资，全力打造下一代原生全模态世界模型](https://www.qbitai.com/2026/04/401705.html)
   - [炸奥特曼的人被扒出来了](https://www.qbitai.com/2026/04/401523.html)
 - 黑海洋
   - [HBO Max通过与JioHotstar合作进入印度](https://blog.upx8.com/HBO-Max%E9%80%9A%E8%BF%87%E4%B8%8EJioHotstar%E5%90%88%E4%BD%9C%E8%BF%9B%E5%85%A5%E5%8D%B0%E5%BA%A6)
+  - [福特电动汽车主管将卸任 硅谷人才难留](https://blog.upx8.com/%E7%A6%8F%E7%89%B9%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B8%BB%E7%AE%A1%E5%B0%86%E5%8D%B8%E4%BB%BB-%E7%A1%85%E8%B0%B7%E4%BA%BA%E6%89%8D%E9%9A%BE%E7%95%99)
   - [英伟达与楷登电子联合开发机器人AI](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8E%E6%A5%B7%E7%99%BB%E7%94%B5%E5%AD%90%E8%81%94%E5%90%88%E5%BC%80%E5%8F%91%E6%9C%BA%E5%99%A8%E4%BA%BAAI)
   - [谷歌有望从对SpaceX的投资中获千亿回报](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E6%9C%89%E6%9C%9B%E4%BB%8E%E5%AF%B9SpaceX%E7%9A%84%E6%8A%95%E8%B5%84%E4%B8%AD%E8%8E%B7%E5%8D%83%E4%BA%BF%E5%9B%9E%E6%8A%A5)
