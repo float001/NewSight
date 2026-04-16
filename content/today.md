@@ -6,8 +6,12 @@
   - [How Push Notifications Can Betray Your Privacy (and What to Do About It)](https://www.eff.org/deeplinks/2026/04/how-push-notifications-can-betray-your-privacy-and-what-do-about-it)
 - Horizon3.ai
   - [Using Iranian Tradecraft to Eliminate a Critical AD Risk](https://horizon3.ai/customer-story/zerologon-ad-risk-iranian-tradecraft-case-study/)
+- IEEE Spectrum
+  - [IEEE Entrepreneurship Connects Hardware Startups With Investors](https://spectrum.ieee.org/ieee-entrepreneurship-hardware-startups-investors)
 - Sec-News 安全文摘
   - [Codex Security代码审计初体验](https://govuln.com/news/url/q6m1)
+- simonwillison.net
+  - [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [ffensive-playbook exploit](https://sploitus.com/exploit?id=F96427D2-B972-581C-8620-E8E4BB1ECA8B&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -16,6 +20,7 @@
   - [Google adds Nano Banana-powered image generation to Gemini’s Personal Intelligence](https://techcrunch.com/2026/04/16/google-adds-nano-banana-powered-image-generation-to-geminis-personal-intelligence/)
   - [Google now lets you explore the web side-by-side with AI Mode](https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/)
   - [InsightFinder raises $15M to help companies figure out where AI agents go wrong](https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/)
+  - [It’s not just you — Bluesky is (sorta) down](https://techcrunch.com/2026/04/16/its-not-just-you-bluesky-is-sorta-down/)
   - [Roblox’s AI assistant gets new agentic tools to plan, build, and test games](https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/)
   - [Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme](https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/)
 - The Decoder
@@ -23,6 +28,7 @@
   - [India's 1.5 million annual IT graduates face an industry that's moving on without them](https://the-decoder.com/indias-1-5-million-annual-it-graduates-face-an-industry-thats-moving-on-without-them/)
   - [Nvidia wants to scale robot simulation training with Lyra 2.0](https://the-decoder.com/nvidia-wants-to-scale-robot-simulation-training-with-lyra-2-0/)
   - [OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch](https://the-decoder.com/openai-says-more-women-than-men-now-use-chatgpt-flipping-an-80-20-male-split-at-launch/)
+  - [OpenAI turns Codex into an always-on coding agent that watches your screen](https://the-decoder.com/openai-turns-codex-into-an-always-on-coding-agent-that-watches-your-screen/)
 - The Verge
   - [Gemini can now pull from Google Photos to generate personalized images](https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana)
   - [Google’s AI Mode update lets you open links without leaving the page](https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources)
@@ -50,5 +56,9 @@
   - [CVE-2026-6409 | Protocol Buffers Protobuf-php up to 4.33.5/5.33.x Structured Message denial of service (GHSA-p2gh-cfq4-4wjc)](https://vuldb.com/vuln/357929)
 - Wired
   - [Google's AI Mode Update Tries to Kill Tab Hopping in Chrome](https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/)
+  - [The Battle for OpenAI’s Soul](https://www.wired.com/story/musk-v-altman-trial-openai-xai/)
+  - [The UK Launches Its $675 Million Sovereign AI Fund](https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [刚刚，Claude Opus 4.7突然发布：不是最强，但奥特曼又得失眠](https://www.ifanr.com/1662528?utm_source=rss&utm_medium=rss&utm_campaign=)
