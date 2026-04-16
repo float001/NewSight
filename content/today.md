@@ -4,6 +4,7 @@
   - [App Stores Push Users Toward Nudify Apps, New Research Shows](https://www.404media.co/app-stores-apple-google-nudify-undress-deepfakes/)
 - Ars Technica
   - [Ad firms settle with Trump FTC over claims they boycotted conservative media](https://arstechnica.com/tech-policy/2026/04/ad-firms-settle-with-trump-ftc-over-claims-they-boycotted-conservative-media/)
+  - [OpenAI starts offering a biology-tuned LLM](https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/)
 - daringfireball.net
   - [Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers](https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/)
   - [Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’](https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/)
@@ -15,7 +16,10 @@
   - [How Push Notifications Can Betray Your Privacy (and What to Do About It)](https://www.eff.org/deeplinks/2026/04/how-push-notifications-can-betray-your-privacy-and-what-do-about-it)
   - [Stop New York's Attack on 3D Printing](https://www.eff.org/deeplinks/2026/04/stop-new-yorks-attack-3d-printing)
 - Hacker News Frontpage
+  - [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
   - [German Dog Commands](https://www.fluentu.com/blog/german/german-dog-commands/)
+- HackerNoon
+  - [People Aren’t Using AI as Much as You Think](https://hackernoon.com/people-arent-using-ai-as-much-as-you-think?source=rss)
 - Horizon3.ai
   - [Using Iranian Tradecraft to Eliminate a Critical AD Risk](https://horizon3.ai/customer-story/zerologon-ad-risk-iranian-tradecraft-case-study/)
 - IEEE Spectrum
@@ -48,6 +52,8 @@
   - [Google now lets you explore the web side-by-side with AI Mode](https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/)
   - [InsightFinder raises $15M to help companies figure out where AI agents go wrong](https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/)
   - [It’s not just you — Bluesky is (sorta) down](https://techcrunch.com/2026/04/16/its-not-just-you-bluesky-is-sorta-down/)
+  - [Luma launches AI-powered production studio with faith-focused Wonder Project](https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/)
+  - [Netflix co-founder and chair Reed Hastings to leave board](https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/)
   - [OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop](https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/)
   - [Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught](https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/)
   - [Roblox’s AI assistant gets new agentic tools to plan, build, and test games](https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/)
