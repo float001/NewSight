@@ -1,8 +1,13 @@
 # 今日安全资讯（2026-04-17）
 
+- 2Libra
+  - [《逆天邪神》](https://2libra.com/post/good-books/ukJfsHv)
+  - [天才车道设计师](https://2libra.com/post/personal-works/fEYe_m5)
 - 36氪
   - [136家化工行业上市公司发布2025年年报，过半企业净利增长 头部公司业绩亮眼](https://36kr.com/newsflashes/3770149596185091?f=rss)
+  - [7只游戏股年内获融资资金加仓超1亿元](https://36kr.com/newsflashes/3770192634069767?f=rss)
   - [8点1氪丨全季大连某酒店账号公开多名客人特殊订单备注；金立手机创始人被曝在印尼卖家具；雷军将连播15小时测试新SU7续航](https://36kr.com/p/3770155029398018?f=rss)
+  - [Anthropic正与美国政府洽谈，拟向其提供Mythos模型使用权限](https://36kr.com/newsflashes/3770175667241472?f=rss)
   - [Anthropic计划在伦敦进行大规模扩张](https://36kr.com/newsflashes/3770129078764034?f=rss)
   - [A股优质企业掀起赴港上市的热潮，AH股溢价持续收窄](https://36kr.com/newsflashes/3770153252651520?f=rss)
   - [A股半导体产业链整体业绩向好，算力、AI仍是关键变量](https://36kr.com/newsflashes/3770146167276041?f=rss)
@@ -10,28 +15,49 @@
   - [OpenAI发布Codex的升级版](https://36kr.com/newsflashes/3770112612713225?f=rss)
   - [Stellantis与微软合作部署逾百款AI工具](https://36kr.com/newsflashes/3770144352764418?f=rss)
   - [“龙虾出行”完成近亿元天使轮融资，致力于打造AI出行助理](https://36kr.com/newsflashes/3768931942973958?f=rss)
+  - [东吴证券：技术革新、规模量产、国产替代共同驱动环卫无人设备降本逻辑](https://36kr.com/newsflashes/3770192259285504?f=rss)
+  - [两市融资余额增加107.35亿元](https://36kr.com/newsflashes/3770207224972035?f=rss)
   - [中信建投：房地产行业整体发展持续受政策支撑，继续看好物管及经营服务赛道](https://36kr.com/newsflashes/3770138344063488?f=rss)
+  - [中信建投：继续看好锂电设备与固态电池板块配置价值](https://36kr.com/newsflashes/3770191805055497?f=rss)
+  - [中信证券：覆铜板全面涨价持续，看好后续利润提升弹性](https://36kr.com/newsflashes/3770171260731911?f=rss)
   - [券商调研风向三度切换，4月重回价值防御](https://36kr.com/newsflashes/3770150110118663?f=rss)
+  - [协创数据：供需缺口格局在3年—5年内难以改变，存储行业缺货状态将持续](https://36kr.com/newsflashes/3770187556061705?f=rss)
+  - [告别野蛮生长，信用卡发行按下减速键](https://36kr.com/newsflashes/3770190967652867?f=rss)
   - [商汤科技拟配售约32亿港元，即将推出“Token Plan”AI词元计划](https://36kr.com/newsflashes/3770132855390983?f=rss)
   - [奈飞第一季度营收122.5亿美元，同比增长16%](https://36kr.com/newsflashes/3770150568952324?f=rss)
+  - [年内外资机构合计调研沪市公司近1400次，重点集中在半导体、高端装备等领域](https://36kr.com/newsflashes/3770165720171273?f=rss)
   - [店匠科技首发AI-Native电商操作系统，多款Agent产品落地](https://36kr.com/newsflashes/3769363002671872?f=rss)
+  - [引入储架发行制度，创业板精准适配创新企业融资需求](https://36kr.com/newsflashes/3770185746137865?f=rss)
+  - [我国核电总装机容量达到1.25亿千瓦，居全球第一](https://36kr.com/newsflashes/3770217785590530?f=rss)
+  - [方一天离任万家基金董事长](https://36kr.com/newsflashes/3770203326759685?f=rss)
+  - [最前线｜大疆发布 Pocket 4 并预告双摄版本，起售价下调500元](https://36kr.com/p/3769604011885316?f=rss)
   - [波音推出新型卫星平台，预计2026年交付26颗](https://36kr.com/newsflashes/3770156492227081?f=rss)
   - [派拉蒙承诺电影至少上映45天再上流媒体](https://36kr.com/newsflashes/3770123685954054?f=rss)
   - [港股科技板块强势反弹，专家对后市投资前景表示乐观](https://36kr.com/newsflashes/3770108459401733?f=rss)
+  - [特斯拉据悉禁止Model S/X签名版一年内转售，违者罚款5万美元并列入黑名单](https://36kr.com/newsflashes/3770200219812610?f=rss)
+  - [红杉资本据悉筹集70亿美元押注AI浪潮，新领导层首次募资](https://36kr.com/newsflashes/3770199017227013?f=rss)
+  - [美国货币市场基金规模缩水1758.1亿美元](https://36kr.com/newsflashes/3770210624225797?f=rss)
   - [美股三大指数集体收涨，纳指十二连涨再创收盘新高](https://36kr.com/newsflashes/3770085193728769?f=rss)
+  - [聚焦科技与医药板块，港股主题基金年内已成立46只](https://36kr.com/newsflashes/3770166865035780?f=rss)
   - [英特尔聘请三星资深高管韩升勋，力拓代工客户版图](https://36kr.com/newsflashes/3770121937732098?f=rss)
+  - [药品定价新政赋能创新，海外授权加速行业双轮驱动](https://36kr.com/newsflashes/3770184553874183?f=rss)
   - [蓝佛安出席2026年二十国集团财长和央行行长第一次会议并举行多场双边会见](https://36kr.com/newsflashes/3770154855055872?f=rss)
   - [调查：美联储4月维持利率不变的概率为99.5%](https://36kr.com/newsflashes/3770112079545092?f=rss)
   - [谷歌推出用于生成合成人工智能数据集的Simula](https://36kr.com/newsflashes/3770133608055557?f=rss)
+  - [近八成A股上市民企去年实现盈利](https://36kr.com/newsflashes/3770183430816265?f=rss)
+  - [避险需求消退，弱美元或逐步回归](https://36kr.com/newsflashes/3770168732172802?f=rss)
+  - [高盛两名亚洲资深银行家据悉将离职](https://36kr.com/newsflashes/3770209363608069?f=rss)
 - 404 Media
   - [App Stores Push Users Toward Nudify Apps, New Research Shows](https://www.404media.co/app-stores-apple-google-nudify-undress-deepfakes/)
 - Ars Technica
   - [Ad firms settle with Trump FTC over claims they boycotted conservative media](https://arstechnica.com/tech-policy/2026/04/ad-firms-settle-with-trump-ftc-over-claims-they-boycotted-conservative-media/)
   - [OpenAI starts offering a biology-tuned LLM](https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/)
 - daringfireball.net
+  - [App Store Reviews Are Busted](https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html)
   - [Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers](https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/)
   - [Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’](https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/)
   - [Colliding With Reality, Indeed](https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html?unlocked_article_code=1.bVA.EB30.mygpleorcQhg&smid=url-share)
+  - [Freecash Was More Like Scamcash](https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/)
   - [How to Format 10-Digit Phone Numbers](https://www.threads.com/@apstylebook/post/DXKtXVXEh7T)
 - darkreading
   - ['Harmless' Global Adware Transforms Into an AV Killer](https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer)
@@ -45,6 +71,8 @@
   - [George Orwell Predicted the Rise of "AI Slop" in Nineteen Eighty-Four (1949)](https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html)
   - [German Dog Commands](https://www.fluentu.com/blog/german/german-dog-commands/)
   - [New unsealed records reveal Amazon's price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit)
+  - [Show HN: Spice simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/)
+  - [Starlink outage hit drone tests, exposing Pentagon's growing reliance on SpaceX](https://www.reuters.com/business/media-telecom/starlink-outage-hit-drone-tests-exposing-pentagons-growing-reliance-spacex-2026-04-16/)
   - [U.S. to Create High-Tech Manufacturing Zone in Philippines](https://www.wsj.com/world/asia/u-s-to-create-high-tech-manufacturing-zone-in-philippines-017c1668)
 - HackerNoon
   - [People Aren’t Using AI as Much as You Think](https://hackernoon.com/people-arent-using-ai-as-much-as-you-think?source=rss)
@@ -56,6 +84,7 @@
   - [IEEE Entrepreneurship Connects Hardware Startups With Investors](https://spectrum.ieee.org/ieee-entrepreneurship-hardware-startups-investors)
 - SANS Internet Storm Center, InfoCON: green
   - [&#x5b;Guest Diary&#x5d; Compromised DVRs and Finding Them in the Wild, (Thu, Apr 16th)](https://isc.sans.edu/diary/rss/32886)
+  - [Lumma Stealer infection with Sectop RAT (ArechClient2), (Fri, Apr 17th)](https://isc.sans.edu/diary/rss/32904)
 - Sec-News 安全文摘
   - [Codex Security代码审计初体验](https://govuln.com/news/url/q6m1)
 - Security Affairs
@@ -66,6 +95,7 @@
   - [llm-anthropic 0.25](https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything)
   - [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-29000 exploit](https://sploitus.com/exploit?id=868EA16E-FBC6-5E34-9CFB-B91ACE06A414&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-37749 exploit](https://sploitus.com/exploit?id=A706DCC3-E0DB-5D10-93BF-40B6C7182D1F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-37750 exploit](https://sploitus.com/exploit?id=BCA69165-8702-570C-A1B0-314C03C74C96&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Unrealircd exploit](https://sploitus.com/exploit?id=2D9513B3-1205-5B21-B50B-C28393B786EB&utm_source=rss&utm_medium=rss)
@@ -153,6 +183,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [DJI Pocket 4：为点赞而生的相机](https://www.ifanr.com/1662433?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Claude Opus 4.7突然发布：不是最强，但奥特曼又得失眠](https://www.ifanr.com/1662528?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [简讯：Telegram移动端新增简体中文语言](https://blog.upx8.com/%E7%AE%80%E8%AE%AF-Telegram%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%96%B0%E5%A2%9E%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E8%AF%AD%E8%A8%80)
