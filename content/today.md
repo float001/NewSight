@@ -1,4 +1,15 @@
 # 今日安全资讯（2026-04-18）
 
+- filfre.net
+  - [The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction](https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/)
+- Hacker News Frontpage
+  - [Hyperscalers have already outspent most famous US megaprojects](https://twitter.com/finmoorhouse/status/2044933442236776794)
+- Sploitus.com Exploits RSS Feed
+  - [hackingtool-kit exploit](https://sploitus.com/exploit?id=174EC3F5-7A80-57E7-8E1A-A08D20850ED0&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why](https://techcrunch.com/2026/04/17/chef-robotics-escaped-the-robot-cooking-graveyard-and-says-its-thriving-heres-why/)
+  - [Gigs turns your concert history into a personal live music archive](https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [美国科技巨头成功在欧盟法律中将数据中心环境影响列为保密信息](https://www.solidot.org/story?sid=84077)
