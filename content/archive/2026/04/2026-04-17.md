@@ -23,6 +23,7 @@
   - [136家化工行业上市公司发布2025年年报，过半企业净利增长 头部公司业绩亮眼](https://36kr.com/newsflashes/3770149596185091?f=rss)
   - [2连板可川科技：全资子公司可川光子正在积极地进行市场开拓工作，暂未形成营收](https://36kr.com/newsflashes/3770778659111426?f=rss)
   - [36氪首发 | “华为天才少年”创业连融超4亿元，做新一代推理芯片重构显存成本](https://36kr.com/p/3770363954954755?f=rss)
+  - [3连板均瑶健康：公司业务不涉及保健食品的注册及生产，AKK菌粉销售目前对公司利润影响极小](https://36kr.com/newsflashes/3770814016586505?f=rss)
   - [4月17日人民币对美元中间价调贬6个基点](https://36kr.com/newsflashes/3770233100731137?f=rss)
   - [5连板博云新材：股东高创投4月14日至4月16日减持407.2万股 持股比例降至5%以下](https://36kr.com/newsflashes/3770797834060550?f=rss)
   - [7只游戏股年内获融资资金加仓超1亿元](https://36kr.com/newsflashes/3770192634069767?f=rss)
@@ -50,6 +51,7 @@
   - [「日清」换高周转，钱大妈筑牢生鲜护城河](https://36kr.com/p/3770699297800707?f=rss)
   - [三安光电：终止联合境外投资人收购Lumileds 100%股权](https://36kr.com/newsflashes/3770647034479113?f=rss)
   - [上交所：本周对117起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施](https://36kr.com/newsflashes/3770767851684357?f=rss)
+  - [专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体](https://36kr.com/p/3770819743728131?f=rss)
   - [东吴证券：技术革新、规模量产、国产替代共同驱动环卫无人设备降本逻辑](https://36kr.com/newsflashes/3770192259285504?f=rss)
   - [东风本田：目前没有工厂关停计划](https://36kr.com/newsflashes/3770777176752640?f=rss)
   - [两市融资余额增加107.35亿元](https://36kr.com/newsflashes/3770207224972035?f=rss)
@@ -95,6 +97,7 @@
   - [国泰航空：3月载客量同比增加24%](https://36kr.com/newsflashes/3770698377642502?f=rss)
   - [大立光第一季度营收155.4亿元台币，同比增长6.6%](https://36kr.com/newsflashes/3770224393552385?f=rss)
   - [奈飞第一季度营收122.5亿美元，同比增长16%](https://36kr.com/newsflashes/3770150568952324?f=rss)
+  - [小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家](https://36kr.com/p/3770688595214857?f=rss)
   - [小红书在上海成立红擎创科技新公司](https://36kr.com/newsflashes/3770588927918848?f=rss)
   - [工业富联：GB200、GB300出货顺畅，CPO全光交换机样机开始生产](https://36kr.com/newsflashes/3770639247524609?f=rss)
   - [年内外资机构合计调研沪市公司近1400次，重点集中在半导体、高端装备等领域](https://36kr.com/newsflashes/3770165720171273?f=rss)
@@ -152,6 +155,7 @@
   - [瑞幸已为即享咖啡小罐子登记作品著作权](https://36kr.com/newsflashes/3770552174985728?f=rss)
   - [生意社：尿素供应短缺影响持续，需关注产能恢复](https://36kr.com/newsflashes/3770328807522817?f=rss)
   - [生意社：短期预计丙二醇市场将继续维持高位窄幅震荡格局](https://36kr.com/newsflashes/3770326472983042?f=rss)
+  - [用友网络：2025年净亏损13.89亿元](https://36kr.com/newsflashes/3770850328199936?f=rss)
   - [申能股份：一季度公司控股发电企业完成发电量139.61 亿千瓦时](https://36kr.com/newsflashes/3770606935523843?f=rss)
   - [盛美上海：筹划发行H股股票并在香港联交所上市](https://36kr.com/newsflashes/3770609260823048?f=rss)
   - [禾赛发布全球首款6D全彩激光雷达](https://36kr.com/newsflashes/3770581218116104?f=rss)
@@ -163,6 +167,7 @@
   - [美股三大指数集体收涨，纳指十二连涨再创收盘新高](https://36kr.com/newsflashes/3770085193728769?f=rss)
   - [联想开天正式对外发布全新一代AI智能体“天禧AI Pro”](https://36kr.com/newsflashes/3770743126180609?f=rss)
   - [聚焦科技与医药板块，港股主题基金年内已成立46只](https://36kr.com/newsflashes/3770166865035780?f=rss)
+  - [芯源微：2025年净利润7170.51万元，同比下降64.64%](https://36kr.com/newsflashes/3770824969339396?f=rss)
   - [苏高新集团注册资本增至约89.1亿元](https://36kr.com/newsflashes/3770699579146756?f=rss)
   - [英特尔聘请三星资深高管韩升勋，力拓代工客户版图](https://36kr.com/newsflashes/3770121937732098?f=rss)
   - [苹果31年元老、营销副总裁斯坦·吴宣布退休](https://36kr.com/newsflashes/3770411543331331?f=rss)
@@ -186,8 +191,10 @@
   - [金螳螂：与越南Sun Group签署的备忘录中不涉及任何具体项目及具体金额](https://36kr.com/newsflashes/3770469160043268?f=rss)
   - [金龙鱼：2025年归母净利润31.53亿元，同比增长26.01%](https://36kr.com/newsflashes/3770787908109064?f=rss)
   - [长沙经开区先进制造产业基金注册成立](https://36kr.com/newsflashes/3770397781246727?f=rss)
+  - [长盈精密：2025年度净利润5.98亿元，同比下降22.53%](https://36kr.com/newsflashes/3770842403521282?f=rss)
   - [长芯博创：终止收购鸿辉光联通讯93.81%股权意向](https://36kr.com/newsflashes/3770733426704900?f=rss)
   - [长鑫存储、长江存储现“先款排产”](https://36kr.com/newsflashes/3770451858965251?f=rss)
+  - [阿里云国内短信服务价格上涨](https://36kr.com/newsflashes/3770817156284929?f=rss)
   - [阿里开源千问3.6系列中等尺寸模型](https://36kr.com/newsflashes/3770357608219395?f=rss)
   - [零跑D19正式上市](https://36kr.com/newsflashes/3770477774799360?f=rss)
   - [雷军：小米未来几年不会做十万元以内车型](https://36kr.com/newsflashes/3770315863048966?f=rss)
@@ -200,6 +207,8 @@
 - Ars Technica
   - [Ad firms settle with Trump FTC over claims they boycotted conservative media](https://arstechnica.com/tech-policy/2026/04/ad-firms-settle-with-trump-ftc-over-claims-they-boycotted-conservative-media/)
   - [OpenAI starts offering a biology-tuned LLM](https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/)
+- Corelan Team
+  - [Debugging - WinDBG(X) Automation & Scripting - Part 1](https://www.corelan.be/index.php/2026/04/17/debugging-windbgx-automation-scripting-part-1/)
 - Daniel Miessler
   - [Jensen vs. Dwarkesh on China Chips](https://danielmiessler.com/blog/jensen-vs-dwarkesh-china-chips?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - daringfireball.net
@@ -249,6 +258,8 @@
   - [Pluralistic: Tiktokification shall set us free (17 Apr 2026)](https://pluralistic.net/2026/04/17/for-youze/)
 - Product Hunt
   - [SpeechPal](https://www.producthunt.com/products/speechpal-speak-intent-not-anxiety)
+- Recent Commits to cve:main
+  - [Update Fri Apr 17 11:17:27 UTC 2026](https://github.com/trickest/cve/commit/23fceaeba3c04ec239dbdce37b207d529c7aea5b)
 - SANS Internet Storm Center, InfoCON: green
   - [&#x5b;Guest Diary&#x5d; Compromised DVRs and Finding Them in the Wild, (Thu, Apr 16th)](https://isc.sans.edu/diary/rss/32886)
   - [ISC Stormcast For Friday, April 17th, 2026 https://isc.sans.edu/podcastdetail/9896, (Fri, Apr 17th)](https://isc.sans.edu/diary/rss/32906)
@@ -262,6 +273,8 @@
   - [U.S. CISA adds a flaw in Apache ActiveMQ to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190917/security/u-s-cisa-adds-a-flaw-in-apache-activemq-to-its-known-exploited-vulnerabilities-catalog.html)
 - SentinelOne
   - [Frontier AI Reinforces the Future of Modern Cyber Defense](https://www.sentinelone.com/blog/frontier-ai-reinforces-the-future-of-modern-cyber-defense/)
+- shkspr.mobi
+  - [Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆](https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/)
 - simonwillison.net
   - [llm-anthropic 0.25](https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything)
   - [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything)
@@ -274,6 +287,7 @@
   - [Exploit for Improper Input Validation in Unrealircd exploit](https://sploitus.com/exploit?id=2D9513B3-1205-5B21-B50B-C28393B786EB&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Nginxui Nginx_Ui exploit](https://sploitus.com/exploit?id=B098EB78-C7D7-5BEA-86E2-ABC4FE65CA5D&utm_source=rss&utm_medium=rss)
   - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Microsoft exploit](https://sploitus.com/exploit?id=B30F4762-572C-5D0B-95DC-CF651DDAB16B&utm_source=rss&utm_medium=rss)
+  - [exploitra exploit](https://sploitus.com/exploit?id=EA7DAF69-81D3-5546-9645-3D96D1C6E8FD&utm_source=rss&utm_medium=rss)
   - [ffensive-playbook exploit](https://sploitus.com/exploit?id=F96427D2-B972-581C-8620-E8E4BB1ECA8B&utm_source=rss&utm_medium=rss)
   - [n-days-poc-benchmark-and-dataset exploit](https://sploitus.com/exploit?id=D3F41F9A-BF8B-57A3-A6B9-5D5B7B2896AE&utm_source=rss&utm_medium=rss)
   - [poc exploit](https://sploitus.com/exploit?id=2C3AC985-AA0C-5998-BBE1-9A1D94699344&utm_source=rss&utm_medium=rss)
@@ -309,6 +323,7 @@
   - [OpenAI launches GPT-Rosalind, a reasoning model built for life sciences research](https://the-decoder.com/openai-launches-gpt-rosalind-a-reasoning-model-built-for-life-sciences-research/)
   - [OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch](https://the-decoder.com/openai-says-more-women-than-men-now-use-chatgpt-flipping-an-80-20-male-split-at-launch/)
   - [OpenAI turns Codex into an always-on coding agent that watches your screen](https://the-decoder.com/openai-turns-codex-into-an-always-on-coding-agent-that-watches-your-screen/)
+  - [Physical Intelligence shows robot model with LLM-like generalization, flaws included](https://the-decoder.com/physical-intelligence-shows-robot-model-with-llm-like-generalization-flaws-included/)
 - The Verge
   - [Ballmer gives $80 million to NPR, with strings attached.](https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached)
   - [Casely has reannounced a power bank recall from 2025 following a fatality](https://www.theverge.com/tech/913177/casely-recall-power-pods-wireless-bank-lithium-ion-battery-fire-explosion-uscpsc)
@@ -362,6 +377,7 @@
   - [CVE-2026-34018 | CubeCart up to 6.5.x sql injection](https://vuldb.com/vuln/358024)
   - [CVE-2026-34164 | valtimo up to 13.21.0 Admin UI Logging log file (ID 653)](https://vuldb.com/vuln/357985)
   - [CVE-2026-3488 | veronalabs WP Statistics Plugin up to 14.16.4 on WordPress AJAX check_ajax_referer authorization](https://vuldb.com/vuln/357971)
+  - [CVE-2026-35153 | Dell PowerProtect Data Domain up to 8.7.0.0 argument injection (dsa-2026-060)](https://vuldb.com/vuln/358065)
   - [CVE-2026-35469 | moby spdystream up to 0.5.0 SPDY3 Frame Parser allocation of resources (GHSA-pc3f-x583-g7j2)](https://vuldb.com/vuln/357983)
   - [CVE-2026-35496 | CubeCart up to 6.5.x path traversal](https://vuldb.com/vuln/358022)
   - [CVE-2026-3605 | HashiCorp Vault/Vault Enterprise up to 1.21.0 Policy authentication bypass](https://vuldb.com/vuln/357990)
@@ -435,6 +451,7 @@
   - [CVE-2026-6497 | prasathmani TinyFileManager up to 2.6 File Upload filemanager.php?p= ajax=true&type=upload uploadurl server-side request forgery](https://vuldb.com/vuln/358040)
 - Wired
   - [6,000 Meters Under the Pacific, Japan Seeks Independence From China on Rare Earths](https://www.wired.com/story/under-the-pacific-japan-seeks-independence-from-china-on-rare-earths/)
+  - [Best Bluetooth Speakers (2026): JBL, Sonos, Bose, and More](https://www.wired.com/gallery/best-bluetooth-speakers/)
   - [Canyon Spectral:ON CF 8 Electric Mountain Bike: Beginner-Friendly, Under $5K](https://www.wired.com/review/canyon-spectralon-cf-8/)
   - [Dark Matter May Be Made of Black Holes From Another Universe](https://www.wired.com/story/dark-matter-may-be-made-of-black-holes-from-another-universe/)
   - [Europe’s Online Age Verification App Is Here](https://www.wired.com/story/europes-online-age-verification-app-is-here/)
@@ -443,6 +460,7 @@
   - [Nothing Phone (4a) Pro Review: A Close Second](https://www.wired.com/review/nothing-phone-4a-pro/)
   - [Spoofed Tankers Are Flooding the Strait of Hormuz. These Analysts Are Tracking Them](https://www.wired.com/story/spoofed-tankers-strait-of-hormuz/)
   - [The Battle for OpenAI’s Soul](https://www.wired.com/story/musk-v-altman-trial-openai-xai/)
+  - [The Best MagSafe Accessories (for Android, Too!): Chargers, Wallets, and More](https://www.wired.com/gallery/best-magsafe-accessories/)
   - [The Influencers Normalizing Not Having Sex](https://www.wired.com/story/the-influencers-normalizing-not-having-sex/)
   - [The Online Fiction Boom Reimagining China’s History](https://www.wired.com/story/made-in-china-what-chinas-sci-fi-boom-is-really-selling/)
   - [The Shocking Secrets of Madison Square Garden's Surveillance Machine](https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/)
@@ -468,5 +486,6 @@
 - 黑海洋
   - [38人遇难的阿客机坠毁系遭俄罗斯误击](https://blog.upx8.com/38%E4%BA%BA%E9%81%87%E9%9A%BE%E7%9A%84%E9%98%BF%E5%AE%A2%E6%9C%BA%E5%9D%A0%E6%AF%81%E7%B3%BB%E9%81%AD%E4%BF%84%E7%BD%97%E6%96%AF%E8%AF%AF%E5%87%BB)
   - [OpenAI将与芯片新贵Cerebras达成重磅协议](https://blog.upx8.com/OpenAI%E5%B0%86%E4%B8%8E%E8%8A%AF%E7%89%87%E6%96%B0%E8%B4%B5Cerebras%E8%BE%BE%E6%88%90%E9%87%8D%E7%A3%85%E5%8D%8F%E8%AE%AE)
+  - [中国出台新规阻止外国公司对华“脱钩”](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84%E9%98%BB%E6%AD%A2%E5%A4%96%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%AF%B9%E5%8D%8E-%E8%84%B1%E9%92%A9)
   - [前往美国定居的AI人才一年减少八成](https://blog.upx8.com/%E5%89%8D%E5%BE%80%E7%BE%8E%E5%9B%BD%E5%AE%9A%E5%B1%85%E7%9A%84AI%E4%BA%BA%E6%89%8D%E4%B8%80%E5%B9%B4%E5%87%8F%E5%B0%91%E5%85%AB%E6%88%90)
   - [简讯：Telegram移动端新增简体中文语言](https://blog.upx8.com/%E7%AE%80%E8%AE%AF-Telegram%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%96%B0%E5%A2%9E%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E8%AF%AD%E8%A8%80)
