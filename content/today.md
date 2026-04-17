@@ -4,6 +4,7 @@
   - [$25,000 buys plenty of used EVs: Here are some options](https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/)
   - [Amazon won’t release Fire Sticks that support sideloading anymore](https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/)
   - [Ridley Scott's post-apocalyptic The Dog Stars drops first trailer](https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer/)
+  - [Russia-friendly exchange says "western special service" behind $15 million cyberattack](https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/)
   - [Satellite and drone images reveal big delays in US data center construction](https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/)
   - [Trump picks qualified, normal health leader to head CDC; experts still cautious](https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/)
 - EFF
@@ -11,9 +12,12 @@
 - filfre.net
   - [The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction](https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/)
 - Hacker News Frontpage
+  - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
   - [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
   - [Hyperscalers have already outspent most famous US megaprojects](https://twitter.com/finmoorhouse/status/2044933442236776794)
   - [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
+- HackerNoon
+  - [How World ID's Biggest Upgrade Replaces Device Trust With Human Continuity](https://hackernoon.com/how-world-ids-biggest-upgrade-replaces-device-trust-with-human-continuity?source=rss)
 - NetSPI Blog
   - [Auditing Salesforce Permission Hierarchies with ForceHound](https://www.netspi.com/blog/technical-blog/web-application-pentesting/auditing-salesforce-permission-hierarchies-with-forcehound/)
   - [Walking Through an Attack Path with ForceHound](https://www.netspi.com/blog/technical-blog/web-application-pentesting/walking-through-an-attack-path-with-forcehound/)
@@ -42,6 +46,7 @@
 - The Verge
   - [Anthropic’s new cybersecurity model could get it back in the government’s good graces](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview)
   - [Betting on the news raises ethical questions for journalists](https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket)
+  - [OpenAI’s former Sora boss is leaving](https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing)
   - [Should you stare into Sam Altman&#8217;s orb before your next date?](https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb)
   - [This charming gadget writes bad AI poetry](https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on)
 - VulDB Recent Entries
