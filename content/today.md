@@ -234,6 +234,7 @@
 - darkreading
   - ['Harmless' Global Adware Transforms Into an AV Killer](https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer)
   - [Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs](https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos)
+  - [Every Old Vulnerability Is Now an AI Vulnerability](https://www.darkreading.com/vulnerabilities-threats/every-old-vulnerability-ai-vulnerability)
 - defend.network
   - [Daily Threat Briefing – April 17, 2026](https://defend.network/briefings/activemq-critical-exploitation-cisa-2026-04-17.html)
 - EFF
@@ -245,6 +246,8 @@
   - [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
   - [George Orwell Predicted the Rise of "AI Slop" in Nineteen Eighty-Four (1949)](https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html)
   - [German Dog Commands](https://www.fluentu.com/blog/german/german-dog-commands/)
+  - [Healthchecks.io Now Uses Self-Hosted Object Storage](https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/)
+  - [It Is Time to Ban the Sale of Precise Geolocation](https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation)
   - [New unsealed records reveal Amazon's price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit)
   - [Show HN: Spice simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/)
   - [Starlink outage hit drone tests, exposing Pentagon's growing reliance on SpaceX](https://www.reuters.com/business/media-telecom/starlink-outage-hit-drone-tests-exposing-pentagons-growing-reliance-spacex-2026-04-16/)
@@ -289,6 +292,7 @@
   - [Codex Security代码审计初体验](https://govuln.com/news/url/q6m1)
 - Security Affairs
   - [Cisco fixed four critical flaws in Identity Services and Webex](https://securityaffairs.com/190909/security/cisco-fixed-four-critical-flaws-in-identity-services-and-webex.html)
+  - [DraftKings hacker sentenced to prison, ordered to pay $1.4 Million](https://securityaffairs.com/190943/cyber-crime/draftkings-hacker-sentenced-to-prison-ordered-to-pay-1-4-million.html)
   - [Operation PowerOFF: 53 DDoS domains seized and 3 Million criminal accounts uncovered](https://securityaffairs.com/190932/cyber-crime/operation-poweroff-53-ddos-domains-seized-and-3-million-criminal-accounts-uncovered.html)
   - [U.S. CISA adds a flaw in Apache ActiveMQ to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190917/security/u-s-cisa-adds-a-flaw-in-apache-activemq-to-its-known-exploited-vulnerabilities-catalog.html)
 - SentinelOne
@@ -319,6 +323,7 @@
 - TechCrunch
   - [AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too](https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/)
   - [Anthropic CPO leaves Figma’s board after reports he will offer a competing product](https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/)
+  - [Anthropic launches Claude Design, a new product for creating quick visuals](https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/)
   - [Bluesky confirms DDoS attack is cause of continued app outages](https://techcrunch.com/2026/04/17/its-not-just-you-bluesky-is-sorta-down/)
   - [European police email 75,000 people asking them to stop DDoS attacks](https://techcrunch.com/2026/04/16/european-police-email-75000-people-asking-them-to-stop-ddos-attacks/)
   - [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
@@ -340,6 +345,7 @@
   - [SaySo is a new short-form video app that aims to restore users’ trust in news](https://techcrunch.com/2026/04/17/sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-trust-in-news/)
   - [Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation](https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/)
   - [Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme](https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/)
+  - [Uber will now pick up your returns from your doorstep](https://techcrunch.com/2026/04/17/uber-will-now-pick-up-your-returns-from-your-doorstep/)
   - [Upscale AI in talks to raise at $2B valuation, says report](https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/)
   - [With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance](https://techcrunch.com/2026/04/17/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/)
 - The Decoder
@@ -522,6 +528,7 @@
   - [大自然仍然在铸造人类基因](https://www.solidot.org/story?sid=84074)
   - [美国主流媒体封禁互联网档案馆的存档机器人](https://www.solidot.org/story?sid=84070)
 - 爱范儿
+  - [35.68 万元起，1400 匹马力、零百 2.9 秒的极氪 8X，要做新能源时代的「公路之王」](https://www.ifanr.com/1662725?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [DJI Pocket 4：为点赞而生的相机](https://www.ifanr.com/1662433?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [一句话，AI 直接给我建了个能跑能跳的「吉卜力」3D小镇](https://www.ifanr.com/1662676?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Claude Opus 4.7突然发布：不是最强，但奥特曼又得失眠](https://www.ifanr.com/1662528?utm_source=rss&utm_medium=rss&utm_campaign=)
