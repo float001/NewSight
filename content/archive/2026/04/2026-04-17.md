@@ -3,6 +3,7 @@
 - 2Libra
   - [MacBook Neo 需求激增四月已全部售罄](https://2libra.com/post/apple/hbqXv7W)
   - [《逆天邪神》](https://2libra.com/post/good-books/ukJfsHv)
+  - [【💰】ai 进行 web 测试有什么好用的工具吗](https://2libra.com/post/automation-testing/l1DKSx8)
   - [关于“产品派”存在漏洞可能导致信息泄漏的风险提示](https://2libra.com/post/network-security/e1MaF-z)
   - [天才车道设计师](https://2libra.com/post/personal-works/fEYe_m5)
   - [当今社会快乐是一种生产力 By 九边](https://2libra.com/post/social-observation/m-xqmGq)
@@ -18,6 +19,7 @@
   - [Anthropic计划在伦敦进行大规模扩张](https://36kr.com/newsflashes/3770129078764034?f=rss)
   - [A股三大指数午间休盘涨跌不一，源杰科技股价超越茅台成A股新“股王”](https://36kr.com/newsflashes/3770364089500419?f=rss)
   - [A股三大指数开盘涨跌不一，贵州茅台跌超4%](https://36kr.com/newsflashes/3770241282621959?f=rss)
+  - [A股三大指数收盘涨跌不一，源杰科技登顶A股新股王](https://36kr.com/newsflashes/3770569580380679?f=rss)
   - [A股优质企业掀起赴港上市的热潮，AH股溢价持续收窄](https://36kr.com/newsflashes/3770153252651520?f=rss)
   - [A股半导体产业链整体业绩向好，算力、AI仍是关键变量](https://36kr.com/newsflashes/3770146167276041?f=rss)
   - [B站发布2025年度ESG报告：日活用户达1.12亿](https://36kr.com/newsflashes/3770244386259716?f=rss)
@@ -43,6 +45,7 @@
   - [具身智能领域首个国际标准成功立项](https://36kr.com/newsflashes/3770264480498440?f=rss)
   - [创业板指涨超1%，继续刷新近11年新高](https://36kr.com/newsflashes/3770265544426246?f=rss)
   - [券商调研风向三度切换，4月重回价值防御](https://36kr.com/newsflashes/3770150110118663?f=rss)
+  - [北证50涨超5%](https://36kr.com/newsflashes/3770526156227081?f=rss)
   - [半日主力资金加仓电子板块，抛售医药生物板块](https://36kr.com/newsflashes/3770383419785987?f=rss)
   - [协创数据在天津成立词元智算科技公司，含AI业务](https://36kr.com/newsflashes/3770311960658441?f=rss)
   - [协创数据：供需缺口格局在3年—5年内难以改变，存储行业缺货状态将持续](https://36kr.com/newsflashes/3770187556061705?f=rss)
@@ -78,6 +81,7 @@
   - [有赞登陆港交所主板](https://36kr.com/newsflashes/3770285217825288?f=rss)
   - [本田据悉将暂停部分在华燃油车厂的运营](https://36kr.com/newsflashes/3770257834885890?f=rss)
   - [机器人租赁平台擎天租官宣出海动作，首批业务落地13国](https://36kr.com/newsflashes/3770370408841984?f=rss)
+  - [机构：受存储价格大幅上涨冲击低端市场影响，2025年下半年ODM/IDH智能手机出货量同比下滑10%](https://36kr.com/newsflashes/3770533304632066?f=rss)
   - [武汉长江存储一季度收入已超200亿元，正进行“史诗级扩产”](https://36kr.com/newsflashes/3770303536825092?f=rss)
   - [沪深两市成交额突破2万亿元](https://36kr.com/newsflashes/3770512769532417?f=rss)
   - [波音推出新型卫星平台，预计2026年交付26颗](https://36kr.com/newsflashes/3770156492227081?f=rss)
@@ -91,6 +95,7 @@
   - [王腾今日宜休在深圳成立科技新公司](https://36kr.com/newsflashes/3770320643637765?f=rss)
   - [现货白银日内涨超1%](https://36kr.com/newsflashes/3770436976001801?f=rss)
   - [瑞幸将上线瓶装咖啡，售价6-7元](https://36kr.com/newsflashes/3770290783060738?f=rss)
+  - [瑞幸已为即享咖啡小罐子登记作品著作权](https://36kr.com/newsflashes/3770552174985728?f=rss)
   - [生意社：尿素供应短缺影响持续，需关注产能恢复](https://36kr.com/newsflashes/3770328807522817?f=rss)
   - [生意社：短期预计丙二醇市场将继续维持高位窄幅震荡格局](https://36kr.com/newsflashes/3770326472983042?f=rss)
   - [索尼与本田将继续在移动出行领域展开合作](https://36kr.com/newsflashes/3770309009687302?f=rss)
@@ -104,9 +109,11 @@
   - [蓝佛安出席2026年二十国集团财长和央行行长第一次会议并举行多场双边会见](https://36kr.com/newsflashes/3770154855055872?f=rss)
   - [调查：美联储4月维持利率不变的概率为99.5%](https://36kr.com/newsflashes/3770112079545092?f=rss)
   - [谷歌推出用于生成合成人工智能数据集的Simula](https://36kr.com/newsflashes/3770133608055557?f=rss)
+  - [豪掷200亿美元，OpenAI据称将与Cerebras达成重磅协议](https://36kr.com/newsflashes/3770552720360194?f=rss)
   - [近八成A股上市民企去年实现盈利](https://36kr.com/newsflashes/3770183430816265?f=rss)
   - [远景动力据悉考虑通过香港IPO筹资至多20亿美元](https://36kr.com/newsflashes/3770376783725314?f=rss)
   - [迪拜启用全球首个综合空中出租车起降场](https://36kr.com/newsflashes/3770413052871169?f=rss)
+  - [追觅科技受邀出席国家商务部中意企委会圆桌会，作为中方企业代表发言](https://36kr.com/newsflashes/3770547590808320?f=rss)
   - [通义千问关联公司增资至2亿元](https://36kr.com/newsflashes/3770417832346116?f=rss)
   - [避险需求消退，弱美元或逐步回归](https://36kr.com/newsflashes/3770168732172802?f=rss)
   - [金螳螂：与越南Sun Group签署的备忘录中不涉及任何具体项目及具体金额](https://36kr.com/newsflashes/3770469160043268?f=rss)
@@ -133,6 +140,8 @@
   - [How to Format 10-Digit Phone Numbers](https://www.threads.com/@apstylebook/post/DXKtXVXEh7T)
 - darkreading
   - ['Harmless' Global Adware Transforms Into an AV Killer](https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer)
+- defend.network
+  - [Daily Threat Briefing – April 17, 2026](https://defend.network/briefings/activemq-critical-exploitation-cisa-2026-04-17.html)
 - EFF
   - [How Push Notifications Can Betray Your Privacy (and What to Do About It)](https://www.eff.org/deeplinks/2026/04/how-push-notifications-can-betray-your-privacy-and-what-do-about-it)
   - [Stop New York's Attack on 3D Printing](https://www.eff.org/deeplinks/2026/04/stop-new-yorks-attack-3d-printing)
@@ -163,6 +172,8 @@
   - [IEEE Entrepreneurship Connects Hardware Startups With Investors](https://spectrum.ieee.org/ieee-entrepreneurship-hardware-startups-investors)
 - InfoSec Write-ups - Medium
   - [[13Cubed] Chaos at Cobalt Challenge — Investigating Windows Endpoint](https://infosecwriteups.com/13cubed-chaos-at-cobalt-challenge-investigating-windows-endpoint-2a43ccb5f0cc?source=rss----7b722bfd1b8d---4)
+- Product Hunt
+  - [SpeechPal](https://www.producthunt.com/products/speechpal-speak-intent-not-anxiety)
 - SANS Internet Storm Center, InfoCON: green
   - [&#x5b;Guest Diary&#x5d; Compromised DVRs and Finding Them in the Wild, (Thu, Apr 16th)](https://isc.sans.edu/diary/rss/32886)
   - [ISC Stormcast For Friday, April 17th, 2026 https://isc.sans.edu/podcastdetail/9896, (Fri, Apr 17th)](https://isc.sans.edu/diary/rss/32906)
@@ -299,10 +310,12 @@
   - [CVE-2026-5426 | Digital Knowledge KnowledgeDeliver prior 20260224 ViewState machineKey hard-coded key (MNDT-2026-0009)](https://vuldb.com/vuln/357945)
   - [CVE-2026-5427 | extendthemes Kubio AI Page Builder Plugin up to 2.7.2 on WordPress REST API kubio_rest_pre_insert_import_assets authorization](https://vuldb.com/vuln/358000)
   - [CVE-2026-5502 | themeum Tutor LMS Plugin up to 3.9.8 on WordPress tutor_update_course_content_order content_parent authorization](https://vuldb.com/vuln/358004)
+  - [CVE-2026-5797 | expresstech Quiz and Survey Master Plugin up to 10.1.0 on WordPress do_shortcode cross site scripting](https://vuldb.com/vuln/358025)
   - [CVE-2026-5807 | HashiCorp Vault/Vault Enterprise up to 1.x Token Generation allocation of resources](https://vuldb.com/vuln/358003)
   - [CVE-2026-6080 | themeum Tutor LMS Plugin up to 3.9.8 on WordPress prepare Date sql injection](https://vuldb.com/vuln/358002)
   - [CVE-2026-6409 | Protocol Buffers Protobuf-php up to 4.33.5/5.33.x Structured Message denial of service (GHSA-p2gh-cfq4-4wjc)](https://vuldb.com/vuln/357929)
   - [CVE-2026-6421 | Mobatek MobaXterm Home Edition up to 26.1 msimg32.dll uncontrolled search path](https://vuldb.com/vuln/358020)
+  - [CVE-2026-6482 | Rapid7 Insight Agent 4.1.0.2 Agent Service openssl.cnf inclusion of functionality from untrusted control sphere](https://vuldb.com/vuln/358026)
   - [CVE-2026-6483 | Wavlink WL-WN530H4 20220721 /cgi-bin/internet.cgi strcat/snprintf os command injection](https://vuldb.com/vuln/358021)
 - Wired
   - [Dark Matter May Be Made of Black Holes From Another Universe](https://www.wired.com/story/dark-matter-may-be-made-of-black-holes-from-another-universe/)
@@ -317,6 +330,8 @@
   - [前往美国定居的AI人才一年减少八成](https://buaq.net/go-410831.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [美国主流媒体封禁互联网档案馆的存档机器人](https://www.solidot.org/story?sid=84070)
 - 爱范儿
   - [DJI Pocket 4：为点赞而生的相机](https://www.ifanr.com/1662433?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Claude Opus 4.7突然发布：不是最强，但奥特曼又得失眠](https://www.ifanr.com/1662528?utm_source=rss&utm_medium=rss&utm_campaign=)
