@@ -6,6 +6,7 @@
   - [【投票】你对 Vibe Coding 产出的代码信任度是多少？](https://2libra.com/post/vibe-coding/w2JmT4w)
   - [【💰】ai 进行 web 测试有什么好用的工具吗](https://2libra.com/post/automation-testing/l1DKSx8)
   - [【💰】【小游戏】猜猜我是谁？](https://2libra.com/post/forum-function/H6MFs8s)
+  - [【💰】我的第一个 AI 小弟](https://2libra.com/post/ai-tools/58T4qKl)
   - [免費體驗 Grok 3 和 Veo 3.1 的 AI 平台分享！](https://2libra.com/post/promotion/Lkmhzz3)
   - [关于“产品派”存在漏洞可能导致信息泄漏的风险提示](https://2libra.com/post/network-security/e1MaF-z)
   - [前端 规范化](https://2libra.com/post/frontend/uzRtQon)
@@ -261,10 +262,13 @@
   - [Using Iranian Tradecraft to Eliminate a Critical AD Risk](https://horizon3.ai/customer-story/zerologon-ad-risk-iranian-tradecraft-case-study/)
 - ICT Security Magazine
   - [La responsabilità penale dell’ethical hacker: confini incerti tra ricerca e reato](https://www.ictsecuritymagazine.com/articoli/ethical-hacker/)
+  - [Usato una volta, hackerato due volte: il debito di sicurezza dei dispositivi IoT ricondizionati](https://www.ictsecuritymagazine.com/articoli/dispositivi-iot-ricondizionati/)
 - IEEE Spectrum
   - [IEEE Entrepreneurship Connects Hardware Startups With Investors](https://spectrum.ieee.org/ieee-entrepreneurship-hardware-startups-investors)
 - InfoSec Write-ups - Medium
   - [[13Cubed] Chaos at Cobalt Challenge — Investigating Windows Endpoint](https://infosecwriteups.com/13cubed-chaos-at-cobalt-challenge-investigating-windows-endpoint-2a43ccb5f0cc?source=rss----7b722bfd1b8d---4)
+- infosecurity-magazine.com
+  - [Commercial AI Models Show Rapid Gains in Vulnerability Research](https://www.infosecurity-magazine.com/news/ai-models-rapid-gains/)
 - IT Service Management News
   - [Privacy: Modello di DPIA dell'EDPB](http://blog.cesaregallotti.it/2026/04/privacy-modello-di-dpia-delledpb.html)
 - MIT Technology Review
@@ -285,6 +289,7 @@
   - [Codex Security代码审计初体验](https://govuln.com/news/url/q6m1)
 - Security Affairs
   - [Cisco fixed four critical flaws in Identity Services and Webex](https://securityaffairs.com/190909/security/cisco-fixed-four-critical-flaws-in-identity-services-and-webex.html)
+  - [Operation PowerOFF: 53 DDoS domains seized and 3 Million criminal accounts uncovered](https://securityaffairs.com/190932/cyber-crime/operation-poweroff-53-ddos-domains-seized-and-3-million-criminal-accounts-uncovered.html)
   - [U.S. CISA adds a flaw in Apache ActiveMQ to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190917/security/u-s-cisa-adds-a-flaw-in-apache-activemq-to-its-known-exploited-vulnerabilities-catalog.html)
 - SentinelOne
   - [Frontier AI Reinforces the Future of Modern Cyber Defense](https://www.sentinelone.com/blog/frontier-ai-reinforces-the-future-of-modern-cyber-defense/)
@@ -314,17 +319,20 @@
 - TechCrunch
   - [AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too](https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/)
   - [Anthropic CPO leaves Figma’s board after reports he will offer a competing product](https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/)
+  - [Bluesky confirms DDoS attack is cause of continued app outages](https://techcrunch.com/2026/04/17/its-not-just-you-bluesky-is-sorta-down/)
   - [European police email 75,000 people asking them to stop DDoS attacks](https://techcrunch.com/2026/04/16/european-police-email-75000-people-asking-them-to-stop-ddos-attacks/)
   - [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
   - [Factory hits $1.5B valuation to build AI coding for enterprises](https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/)
   - [From the Startup Battlefield stage to the International Space Station: geCKo Materials built a sticky product](https://techcrunch.com/2026/04/16/from-the-startup-battlefield-stage-to-the-international-space-station-gecko-materials-built-a-sticky-product/)
   - [Google adds Nano Banana-powered image generation to Gemini’s Personal Intelligence](https://techcrunch.com/2026/04/16/google-adds-nano-banana-powered-image-generation-to-geminis-personal-intelligence/)
   - [Google now lets you explore the web side-by-side with AI Mode](https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/)
+  - [Google’s AI Mode can now help you find products in stock nearby](https://techcrunch.com/2026/04/17/googles-ai-mode-can-now-help-you-find-products-in-stock-nearby/)
   - [InsightFinder raises $15M to help companies figure out where AI agents go wrong](https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/)
   - [It’s not just you — Bluesky is (sorta) down](https://techcrunch.com/2026/04/16/its-not-just-you-bluesky-is-sorta-down/)
   - [Loop raises $95M to build supply chain AI that predicts disruptions](https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/)
   - [Luma launches AI-powered production studio with faith-focused Wonder Project](https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/)
   - [Netflix co-founder and chair Reed Hastings to leave board](https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/)
+  - [Netflix plans to add a vertical video feed, use AI for recommendations](https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/)
   - [New leaders, new fund: Sequoia has raised $7B to expand its AI bets](https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/)
   - [OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop](https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/)
   - [Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught](https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/)
@@ -333,6 +341,7 @@
   - [Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation](https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/)
   - [Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme](https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/)
   - [Upscale AI in talks to raise at $2B valuation, says report](https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/)
+  - [With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance](https://techcrunch.com/2026/04/17/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/)
 - The Decoder
   - [Beijing brands Meta's Manus acquisition as "conspiratorial" and bars founders from leaving China](https://the-decoder.com/beijing-brands-metas-manus-acquisition-as-conspiratorial-and-bars-founders-from-leaving-china/)
   - [Google finds new ways to keep you from ever clicking a link again](https://the-decoder.com/google-finds-new-ways-to-keep-you-from-ever-clicking-a-link-again/)
@@ -347,6 +356,7 @@
   - [Ballmer gives $80 million to NPR, with strings attached.](https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached)
   - [Casely has reannounced a power bank recall from 2025 following a fatality](https://www.theverge.com/tech/913177/casely-recall-power-pods-wireless-bank-lithium-ion-battery-fire-explosion-uscpsc)
   - [Gemini can now pull from Google Photos to generate personalized images](https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana)
+  - [Ghost orchid in the machine](https://www.theverge.com/tech/909806/kinetic-sculpture-fake-flowers-mechanical-artwork-rachel-youn)
   - [Google’s AI Mode update lets you open links without leaving the page](https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources)
   - [Gucci-branded Google smart glasses are coming next year](https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027)
   - [Microsoft planning Surface Laptop with an OLED display](https://www.theverge.com/news/913218/microsoft-surface-laptop-oled-display-rumor)
@@ -354,7 +364,10 @@
   - [Netflix co-founder Reed Hastings is officially leaving the company](https://www.theverge.com/streaming/913201/netflix-reed-hastings-earnings-q1-2026)
   - [Netflix embraces vertical video with major mobile app update](https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video)
   - [OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code](https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos)
+  - [Peloton, stay in your lane](https://www.theverge.com/column/913766/optimizer-peloton-fitness-business-column)
   - [The only way to fight deepfakes is by making deepfakes](https://www.theverge.com/report/913445/deepfake-detection-reality-defender-pindrop-ai)
+  - [The South Korean president is doing quote-post diplomacy](https://www.theverge.com/policy/913587/south-korea-lee-jae-myung-israel)
+  - [The ‘AI is inevitable’ trap](https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast)
   - [YouTube’s mobile app finally lets you share timestamped videos](https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips)
 - Trail of Bits Blog
   - [We beat Google’s zero-knowledge proof of quantum cryptanalysis](https://blog.trailofbits.com/2026/04/17/we-beat-googles-zero-knowledge-proof-of-quantum-cryptanalysis/)
@@ -487,6 +500,7 @@
   - [Europe’s Online Age Verification App Is Here](https://www.wired.com/story/europes-online-age-verification-app-is-here/)
   - [Google's AI Mode Update Tries to Kill Tab Hopping in Chrome](https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/)
   - [How Can Astronauts Tell How Fast They’re Going?](https://www.wired.com/story/how-can-astronauts-tell-how-fast-theyre-going/)
+  - [MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged](https://www.wired.com/story/maga-is-increasingly-convinced-the-trump-assassination-attempt-was-staged/)
   - [Nothing Phone (4a) Pro Review: A Close Second](https://www.wired.com/review/nothing-phone-4a-pro/)
   - [Spoofed Tankers Are Flooding the Strait of Hormuz. These Analysts Are Tracking Them](https://www.wired.com/story/spoofed-tankers-strait-of-hormuz/)
   - [The Battle for OpenAI’s Soul](https://www.wired.com/story/musk-v-altman-trial-openai-xai/)
@@ -499,6 +513,7 @@
   - [[13Cubed] Chaos at Cobalt Challenge — Investigating Windows Endpoint](https://buaq.net/go-410843.html)
   - [A社发布Claude Opus 4.7 可以更长时间运行任务并严格遵循既定指令](https://buaq.net/go-410810.html)
   - [Jensen vs. Dwarkesh on China Chips](https://buaq.net/go-410816.html)
+  - [Painkiller Pipeline: 300 Million Tapentadol Pills Sent from India to West Africa](https://buaq.net/go-410940.html)
   - [前往美国定居的AI人才一年减少八成](https://buaq.net/go-410831.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -520,4 +535,6 @@
   - [OpenAI将与芯片新贵Cerebras达成重磅协议](https://blog.upx8.com/OpenAI%E5%B0%86%E4%B8%8E%E8%8A%AF%E7%89%87%E6%96%B0%E8%B4%B5Cerebras%E8%BE%BE%E6%88%90%E9%87%8D%E7%A3%85%E5%8D%8F%E8%AE%AE)
   - [中国出台新规阻止外国公司对华“脱钩”](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84%E9%98%BB%E6%AD%A2%E5%A4%96%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%AF%B9%E5%8D%8E-%E8%84%B1%E9%92%A9)
   - [前往美国定居的AI人才一年减少八成](https://blog.upx8.com/%E5%89%8D%E5%BE%80%E7%BE%8E%E5%9B%BD%E5%AE%9A%E5%B1%85%E7%9A%84AI%E4%BA%BA%E6%89%8D%E4%B8%80%E5%B9%B4%E5%87%8F%E5%B0%91%E5%85%AB%E6%88%90)
+  - [拼多多被罚没合计15.2亿元 7家平台中最高](https://blog.upx8.com/%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%A2%AB%E7%BD%9A%E6%B2%A1%E5%90%88%E8%AE%A115-2%E4%BA%BF%E5%85%83-7%E5%AE%B6%E5%B9%B3%E5%8F%B0%E4%B8%AD%E6%9C%80%E9%AB%98)
+  - [比亚迪公司计划加入欧洲汽车制造商协会](https://blog.upx8.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%AC%E5%8F%B8%E8%AE%A1%E5%88%92%E5%8A%A0%E5%85%A5%E6%AC%A7%E6%B4%B2%E6%B1%BD%E8%BD%A6%E5%88%B6%E9%80%A0%E5%95%86%E5%8D%8F%E4%BC%9A)
   - [简讯：Telegram移动端新增简体中文语言](https://blog.upx8.com/%E7%AE%80%E8%AE%AF-Telegram%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%96%B0%E5%A2%9E%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E8%AF%AD%E8%A8%80)
