@@ -19,9 +19,12 @@
   - [Exploit for CVE-2026-4631 exploit](https://sploitus.com/exploit?id=2FC7FD64-4D38-5415-A621-B0095202AE73&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI chip startup Cerebras files for IPO](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/)
+  - [Tesla brings its robotaxi service to Dallas and Houston](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/)
   - [VC Ron Conway says he has a ‘rare form of cancer’](https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/)
 - tedium.co
   - [A Taxing Discussion](https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs)
+- The Verge
+  - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
 - VulDB Recent Entries
   - [CVE-2026-6564 | EMQ EMQX Enterprise up to 6.1.0 Session Handling improper authorization](https://vuldb.com/vuln/358201)
   - [CVE-2026-6568 | kodcloud KodExplorer up to 4.52 Public Share share.class.php initShareOld path path traversal](https://vuldb.com/vuln/358202)
