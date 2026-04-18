@@ -1,8 +1,11 @@
 # 今日安全资讯（2026-04-18）
 
 - 2Libra
+  - [“游烟” 我不敢言](https://2libra.com/post/social-observation/Z8S11hB)
   - [一觉起来我的篡改猴插件损坏了，悲剧](https://2libra.com/post/browser-extensions/gSWEwoy)
+  - [感谢 cnskis 的反馈，产品派已经立马更新了](https://2libra.com/post/product-updates/97i7BM5)
   - [明日边缘（All You Need Is Kill）动画版人设有点辣眼啊](https://2libra.com/post/movie-sharing/6mDHbNk)
+  - [社区功能的一个疑惑，关于“私信”](https://2libra.com/post/forum-function/LFERAXe)
   - [还是有点搞不懂签到勤勉检定](https://2libra.com/post/forum-function/MEaOGIh)
 - 36氪
   - [FF：获4500万美元新融资](https://36kr.com/newsflashes/3771782347751942?f=rss)
@@ -67,10 +70,14 @@
 - NetSPI Blog
   - [Auditing Salesforce Permission Hierarchies with ForceHound](https://www.netspi.com/blog/technical-blog/web-application-pentesting/auditing-salesforce-permission-hierarchies-with-forcehound/)
   - [Walking Through an Attack Path with ForceHound](https://www.netspi.com/blog/technical-blog/web-application-pentesting/walking-through-an-attack-path-with-forcehound/)
+- Product Hunt
+  - [Grok Voice API](https://www.producthunt.com/products/grok)
 - ProjectDiscovery.io | Blog
   - [Neo v. DIY: The gap between a single finding and a mature security program](https://projectdiscovery.io/blog/neo-vs-diy)
 - Schneier on Security
   - [Friday Squid Blogging: New Giant Squid Video](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html)
+- Security Affairs
+  - [Microsoft Defender under attack as three zero-days, two of them still unpatched, enable elevated access](https://securityaffairs.com/190961/hacking/microsoft-defender-under-attack-as-three-zero-days-two-of-them-still-unpatched-enable-elevated-access.html)
 - simonwillison.net
   - [Adding a new content type to my blog-to-newsletter tool](https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything)
 - Sploitus.com Exploits RSS Feed
