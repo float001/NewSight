@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-04-18）
 
 - 2Libra
+  - [openclaw 现在熄火了吗 感觉大家不咋提问题了](https://2libra.com/post/forum-function/paPQXFf)
   - [“游烟” 我不敢言](https://2libra.com/post/social-observation/Z8S11hB)
   - [一觉起来我的篡改猴插件损坏了，悲剧](https://2libra.com/post/browser-extensions/gSWEwoy)
   - [感谢 cnskis 的反馈，产品派已经立马更新了](https://2libra.com/post/product-updates/97i7BM5)
@@ -86,6 +87,7 @@
 - simonwillison.net
   - [Adding a new content type to my blog-to-newsletter tool](https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [CVE-2026-27542-CVE-2026-27540- exploit](https://sploitus.com/exploit?id=A1F514F0-9DB7-5283-8202-5C1C9F4B6A41&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-39987 exploit](https://sploitus.com/exploit?id=BDEBC7BC-574F-53BD-A9D7-7CD41789525A&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=82C9578D-505A-5258-BFEB-3CAD819E9D3A&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple exploit](https://sploitus.com/exploit?id=F42BE6C2-EA6F-5B67-B515-244551787396&utm_source=rss&utm_medium=rss)
@@ -105,9 +107,11 @@
 - The Decoder
   - [Alibaba's open model Qwen3.6 leads Google's Gemma 4 across agentic coding benchmarks](https://the-decoder.com/alibabas-open-model-qwen3-6-leads-googles-gemma-4-across-agentic-coding-benchmarks/)
   - [ChatGPT bleeds market share as Claude posts explosive monthly growth](https://the-decoder.com/chatgpt-bleeds-market-share-as-claude-posts-explosive-monthly-growth/)
+  - [Deepseek reportedly seeks outside funding for the first time at $10 billion valuation](https://the-decoder.com/deepseek-reportedly-seeks-outside-funding-for-the-first-time-at-10-billion-valuation/)
   - [Google Deepmind's Gemini Robotics-ER 1.6 gives robots a sharper brain for planning and perception](https://the-decoder.com/google-deepminds-gemini-robotics-er-1-6-gives-robots-a-sharper-brain-for-planning-and-perception/)
   - [Google finds new ways to keep you from ever visiting a website directly again](https://the-decoder.com/google-finds-new-ways-to-keep-you-from-ever-visiting-a-website-directly-again/)
   - [OpenAI loses three executives in one swoop as restructuring reshapes its product lineup](https://the-decoder.com/openai-loses-three-executives-in-one-swoop-as-restructuring-reshapes-its-product-lineup/)
+  - [The myth of Claude Mythos crumbles as small open models hunt the same cybersecurity bugs Anthropic showcased](https://the-decoder.com/the-myth-of-claude-mythos-crumbles-as-small-open-models-hunt-the-same-cybersecurity-bugs-anthropic-showcased/)
   - [The White House weighs whether Anthropic's Mythos is too valuable for the federal government to refuse](https://the-decoder.com/the-white-house-weighs-whether-anthropics-mythos-is-too-valuable-for-the-federal-government-to-refuse/)
 - The Verge
   - [Anthropic’s new cybersecurity model could get it back in the government’s good graces](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview)
@@ -156,6 +160,8 @@
   - [CVE-2026-40525 | volcengine OpenViking up to 0.3.8 Exposed Service api_key failing open](https://vuldb.com/vuln/358092)
   - [CVE-2026-40572 | MinecAnton209 NovumOS up to 0.23 privileges management (GHSA-rg7m-6vh7-f4v2)](https://vuldb.com/vuln/358181)
   - [CVE-2026-40582 | ChurchCRM up to 7.1.x API Endpoint /api/public/user/login authentication bypass (GHSA-8cwr-x83m-mh9x)](https://vuldb.com/vuln/358173)
+  - [CVE-2026-40880 | Zebra Cached Mempool Verification comparison using wrong factors](https://vuldb.com/vuln/358192)
+  - [CVE-2026-40881 | Zebra addr Message resource consumption](https://vuldb.com/vuln/358191)
   - [CVE-2026-41254 | Little CMS up to 2.18 CubeSize cmslut.c incorrect behavior order](https://vuldb.com/vuln/358190)
   - [CVE-2026-4801 | godaddy Page Builder Gutenberg Blocks Plugin up to 3.1.16 on WordPress cross site scripting](https://vuldb.com/vuln/358178)
   - [CVE-2026-5710 | glenwpcoder Drag and Drop Multiple File Upload for Contact Form 7 Plugin Email Attachment dnd_wpcf7_posted_data path traversal](https://vuldb.com/vuln/358090)
