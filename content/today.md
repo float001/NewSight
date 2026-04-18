@@ -77,12 +77,14 @@
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=82C9578D-505A-5258-BFEB-3CAD819E9D3A&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple exploit](https://sploitus.com/exploit?id=F42BE6C2-EA6F-5B67-B515-244551787396&utm_source=rss&utm_medium=rss)
   - [hackingtool-kit exploit](https://sploitus.com/exploit?id=174EC3F5-7A80-57E7-8E1A-A08D20850ED0&utm_source=rss&utm_medium=rss)
+  - [mt6893-security-research exploit](https://sploitus.com/exploit?id=74A4B26B-1168-5C42-967D-EC98EE90C9EA&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why](https://techcrunch.com/2026/04/17/chef-robotics-escaped-the-robot-cooking-graveyard-and-says-its-thriving-heres-why/)
   - [Gigs turns your concert history into a personal live music archive](https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/)
   - [Hackers are abusing unpatched Windows security flaws to hack into organizations](https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/)
   - [Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’](https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/)
   - [Man who hacked US Supreme Court filing system sentenced to probation](https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/)
+  - [Once close enough for an acquisition, Stripe and Airwallex are now going after each other](https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/)
   - [Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/)
   - [Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges](https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/)
   - [Zoom teams up with World to verify humans in meetings](https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting/)
@@ -131,6 +133,9 @@
   - [OpenAI Executive Kevin Weil Is Leaving the Company](https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [ar and tar](https://dyrnq.com/ar-and-tar/)
+  - [Link Editor](https://dyrnq.com/link-editor/)
 - 奇客Solidot–传递最新科技情报
   - [美国科技巨头成功在欧盟法律中将数据中心环境影响列为保密信息](https://www.solidot.org/story?sid=84077)
 - 爱范儿
