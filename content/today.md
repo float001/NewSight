@@ -86,6 +86,8 @@
   - [Grok Voice API](https://www.producthunt.com/products/grok)
 - ProjectDiscovery.io | Blog
   - [Neo v. DIY: The gap between a single finding and a mature security program](https://projectdiscovery.io/blog/neo-vs-diy)
+- PwnDefend
+  - [Using AI in a positive (non scary) way](https://www.pwndefend.com/2026/04/18/using-ai-in-a-positive-non-scary-way/)
 - Schneier on Security
   - [Friday Squid Blogging: New Giant Squid Video](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html)
 - Security Affairs
@@ -106,6 +108,7 @@
   - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple exploit](https://sploitus.com/exploit?id=F42BE6C2-EA6F-5B67-B515-244551787396&utm_source=rss&utm_medium=rss)
   - [hackingtool-kit exploit](https://sploitus.com/exploit?id=174EC3F5-7A80-57E7-8E1A-A08D20850ED0&utm_source=rss&utm_medium=rss)
   - [mt6893-security-research exploit](https://sploitus.com/exploit?id=74A4B26B-1168-5C42-967D-EC98EE90C9EA&utm_source=rss&utm_medium=rss)
+  - [xsspayloads exploit](https://sploitus.com/exploit?id=B5B282BB-387B-5ECD-9B1D-3B8562C6AFDF&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why](https://techcrunch.com/2026/04/17/chef-robotics-escaped-the-robot-cooking-graveyard-and-says-its-thriving-heres-why/)
   - [Gigs turns your concert history into a personal live music archive](https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/)
@@ -119,6 +122,7 @@
   - [“Tokenmaxxing” is making developers less productive than they think](https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/)
 - The Decoder
   - [Alibaba's open model Qwen3.6 leads Google's Gemma 4 across agentic coding benchmarks](https://the-decoder.com/alibabas-open-model-qwen3-6-leads-googles-gemma-4-across-agentic-coding-benchmarks/)
+  - [Anthropic CEO Amodei declares "there is no end to the rainbow" for AI scaling](https://the-decoder.com/anthropic-ceo-amodei-declares-there-is-no-end-to-the-rainbow-for-ai-scaling/)
   - [ChatGPT bleeds market share as Claude posts explosive monthly growth](https://the-decoder.com/chatgpt-bleeds-market-share-as-claude-posts-explosive-monthly-growth/)
   - [Deepseek reportedly seeks outside funding for the first time at $10 billion valuation](https://the-decoder.com/deepseek-reportedly-seeks-outside-funding-for-the-first-time-at-10-billion-valuation/)
   - [Google Deepmind's Gemini Robotics-ER 1.6 gives robots a sharper brain for planning and perception](https://the-decoder.com/google-deepminds-gemini-robotics-er-1-6-gives-robots-a-sharper-brain-for-planning-and-perception/)
@@ -135,9 +139,11 @@
   - [This charming gadget writes bad AI poetry](https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on)
 - VulDB Recent Entries
   - [CVE-2025-65104 | FirebirdSQL Firebird up to 3.x information disclosure (GHSA-mfpr-9886-xjhg)](https://vuldb.com/vuln/358097)
+  - [CVE-2026-0894 | vanderwijk Content Blocks Plugin up to 3.3.9 on WordPress Custom Post Widget content_block cross site scripting](https://vuldb.com/vuln/358193)
   - [CVE-2026-1559 | Youzify Plugin up to 1.3.6 on WordPress checkin_place_id cross site scripting](https://vuldb.com/vuln/358176)
   - [CVE-2026-1838 | prasunsen Hostel Plugin up to 1.1.6 on WordPress Shortcode shortcode_id cross site scripting](https://vuldb.com/vuln/358177)
   - [CVE-2026-2434 | poporon Pz-LinkCard Plugin up to 2.5.8.1 on WordPress Shortcode blogcard cross site scripting](https://vuldb.com/vuln/358175)
+  - [CVE-2026-2505 | elzahlan Categories Images Plugin up to 3.3.1 on WordPress Shortcode z_taxonomy_image cross site scripting](https://vuldb.com/vuln/358194)
   - [CVE-2026-27890 | FirebirdSQL Firebird up to 3.0.13/4.0.6/5.0.3 grow size memory corruption (GHSA-6crx-4g37-7j49)](https://vuldb.com/vuln/358098)
   - [CVE-2026-28212 | FirebirdSQL Firebird up to 3.0.13/4.0.6/5.0.3 Packet SDL_info null pointer dereference (GHSA-9884-9qm3-hqch)](https://vuldb.com/vuln/358099)
   - [CVE-2026-28214 | FirebirdSQL Firebird up to 3.0.13/4.0.6/5.0.3 Batch getClumpletSize integer overflow (GHSA-7cq5-994r-jhrf)](https://vuldb.com/vuln/358100)
@@ -183,9 +189,13 @@
   - [CVE-2026-6048 | dragwyb Flipbox Addon for Elementor Plugin up to 2.0.8 on WordPress custom_attributes cross site scripting](https://vuldb.com/vuln/358179)
   - [CVE-2026-6437 | Amazon AWS EFS CSI Driver up to 3.0.0 argument injection (GHSA-mph4-q2vm-w2pw)](https://vuldb.com/vuln/358096)
 - Wired
+  - [Asus TUF Gaming A14 (2026) Review: GPU-Less Gaming Laptop](https://www.wired.com/review/asus-tuf-gaming-a14-2026/)
   - [Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder](https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/)
+  - [It Takes 2 Minutes to Hack the EU’s New Age-Verification App](https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/)
   - [OpenAI Executive Kevin Weil Is Leaving the Company](https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/)
+  - [Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In](https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/)
   - [The Best Movies to Stream This Month (April 2026)](https://www.wired.com/story/the-best-movies-to-stream-right-now/)
+  - [Where to Shop for Vinyl Records Online (2026): Discogs, Bandcamp, Ebay](https://www.wired.com/story/where-to-shop-for-vinyl-records-online/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
