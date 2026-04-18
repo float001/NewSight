@@ -46,6 +46,8 @@
   - [How World ID's Biggest Upgrade Replaces Device Trust With Human Continuity](https://hackernoon.com/how-world-ids-biggest-upgrade-replaces-device-trust-with-human-continuity?source=rss)
 - Hexacorn
   - [A few more protocol handlers :), Part 2](https://www.hexacorn.com/blog/2026/04/18/a-few-more-protocol-handlers-part-2/)
+- idiallo.com
+  - [We Are All Playing Politics at Work](https://idiallo.com/blog/we-are-playing-politics?src=feed)
 - johndcook.com
   - [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/)
 - NetSPI Blog
