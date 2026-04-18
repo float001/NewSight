@@ -53,6 +53,8 @@
   - [Fish Shell 4.6 Review: Best Interactive Shell, Wrong Default](http://www.heyuan110.com/posts/linux/2026-04-18-fish-shell-rust-2026/)
   - [Harness Engineering: Build the 6 Layers Backwards (6→1, Not 1→6)](http://www.heyuan110.com/posts/ai/2026-04-18-harness-six-layers-reverse-build/)
   - [Playwright CLI + Skills: 0-Token Browser Automation Pattern](http://www.heyuan110.com/posts/ai/2026-04-18-playwright-cli-skill-zero-token-automation/)
+- construction-physics.com
+  - [Reading List 04/18/2026](https://www.construction-physics.com/p/reading-list-04182026)
 - daringfireball.net
   - [Apple’s Developer Guidelines for Ratings and Review Prompts](https://developer.apple.com/design/human-interface-guidelines/ratings-and-reviews#Best-practices)
   - [Follow-Up Regarding App Store Reviews, Which Are Definitely Busted](https://daringfireball.net/linked/2026/04/16/app-store-reviews-are-busted)
@@ -90,11 +92,14 @@
   - [Using AI in a positive (non scary) way](https://www.pwndefend.com/2026/04/18/using-ai-in-a-positive-non-scary-way/)
 - Schneier on Security
   - [Friday Squid Blogging: New Giant Squid Video](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html)
+- Sebastian Raschka
+  - [My Workflow for Understanding LLM Architectures](https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms)
 - Security Affairs
   - [Microsoft Defender under attack as three zero-days, two of them still unpatched, enable elevated access](https://securityaffairs.com/190961/hacking/microsoft-defender-under-attack-as-three-zero-days-two-of-them-still-unpatched-enable-elevated-access.html)
 - simonwillison.net
   - [Adding a new content type to my blog-to-newsletter tool](https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [bounty-stack exploit](https://sploitus.com/exploit?id=D09BAB92-ECED-5E17-B8A3-A03EADBA68F3&utm_source=rss&utm_medium=rss)
   - [CVE-2026-27542-CVE-2026-27540- exploit](https://sploitus.com/exploit?id=A1F514F0-9DB7-5283-8202-5C1C9F4B6A41&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-13342 exploit](https://sploitus.com/exploit?id=7EE94DED-A8FB-51C4-B5FF-B5B8B01EAED9&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-14364 exploit](https://sploitus.com/exploit?id=EA43A806-33AC-5986-AFF4-9184BC25229B&utm_source=rss&utm_medium=rss)
@@ -105,6 +110,8 @@
   - [Exploit for CVE-2026-39808 exploit](https://sploitus.com/exploit?id=0F88C464-CDEB-5235-89C5-50D60E7C53EF&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-39987 exploit](https://sploitus.com/exploit?id=BDEBC7BC-574F-53BD-A9D7-7CD41789525A&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=82C9578D-505A-5258-BFEB-3CAD819E9D3A&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Nginxui Nginx_Ui exploit](https://sploitus.com/exploit?id=9E899FF8-ADEC-5A3D-B90C-1658DF69CA4D&utm_source=rss&utm_medium=rss)
+  - [Exploit for Path Traversal in Python exploit](https://sploitus.com/exploit?id=2C9F6234-51AA-5233-BB11-B19ADC668F01&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple exploit](https://sploitus.com/exploit?id=F42BE6C2-EA6F-5B67-B515-244551787396&utm_source=rss&utm_medium=rss)
   - [hackingtool-kit exploit](https://sploitus.com/exploit?id=174EC3F5-7A80-57E7-8E1A-A08D20850ED0&utm_source=rss&utm_medium=rss)
   - [mt6893-security-research exploit](https://sploitus.com/exploit?id=74A4B26B-1168-5C42-967D-EC98EE90C9EA&utm_source=rss&utm_medium=rss)
