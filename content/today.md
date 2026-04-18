@@ -5,8 +5,15 @@
   - [明日边缘（All You Need Is Kill）动画版人设有点辣眼啊](https://2libra.com/post/movie-sharing/6mDHbNk)
   - [还是有点搞不懂签到勤勉检定](https://2libra.com/post/forum-function/MEaOGIh)
 - 36氪
+  - [Sora负责人离职](https://36kr.com/newsflashes/3771676858827523?f=rss)
+  - [一季度全国完成水利建设投资2070亿元，同比增长4.1%](https://36kr.com/newsflashes/3771682220016388?f=rss)
   - [大华股份：2025年营收超327亿元，2026年一季度业绩稳健增长](https://36kr.com/newsflashes/3771624413463049?f=rss)
+  - [智元机器人，要做AI大模型平台和开放生态](https://36kr.com/p/3770721219035649?f=rss)
+  - [江苏发布2026年消费品以旧换新地方自主品类补贴政策](https://36kr.com/newsflashes/3771682949989128?f=rss)
   - [海康威视一季度营收增长11.78%   净利润同比增长36.42%](https://36kr.com/newsflashes/3771613142024967?f=rss)
+  - [特朗普称很快发布第一批UFO文件](https://36kr.com/newsflashes/3771675938390787?f=rss)
+  - [美股三大指数收盘集体上涨，纳指13连涨再创新高](https://36kr.com/newsflashes/3771673261097736?f=rss)
+  - [金饰价格涨到1475元](https://36kr.com/newsflashes/3771680228918024?f=rss)
 - Ars Technica
   - [$25,000 buys plenty of used EVs: Here are some options](https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/)
   - [Amazon won’t release Fire Sticks that support sideloading anymore](https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/)
@@ -14,6 +21,9 @@
   - [Russia-friendly exchange says "western special service" behind $15 million cyberattack](https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/)
   - [Satellite and drone images reveal big delays in US data center construction](https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/)
   - [Trump picks qualified, normal health leader to head CDC; experts still cautious](https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/)
+- Bruce's Blog
+  - [Fish Shell 4.6 Review: Best Interactive Shell, Wrong Default](http://www.heyuan110.com/posts/linux/2026-04-18-fish-shell-rust-2026/)
+  - [Playwright CLI + Skills: 0-Token Browser Automation Pattern](http://www.heyuan110.com/posts/ai/2026-04-18-playwright-cli-skill-zero-token-automation/)
 - daringfireball.net
   - [Apple’s Developer Guidelines for Ratings and Review Prompts](https://developer.apple.com/design/human-interface-guidelines/ratings-and-reviews#Best-practices)
   - [Follow-Up Regarding App Store Reviews, Which Are Definitely Busted](https://daringfireball.net/linked/2026/04/16/app-store-reviews-are-busted)
@@ -36,6 +46,8 @@
   - [How World ID's Biggest Upgrade Replaces Device Trust With Human Continuity](https://hackernoon.com/how-world-ids-biggest-upgrade-replaces-device-trust-with-human-continuity?source=rss)
 - Hexacorn
   - [A few more protocol handlers :), Part 2](https://www.hexacorn.com/blog/2026/04/18/a-few-more-protocol-handlers-part-2/)
+- johndcook.com
+  - [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/)
 - NetSPI Blog
   - [Auditing Salesforce Permission Hierarchies with ForceHound](https://www.netspi.com/blog/technical-blog/web-application-pentesting/auditing-salesforce-permission-hierarchies-with-forcehound/)
   - [Walking Through an Attack Path with ForceHound](https://www.netspi.com/blog/technical-blog/web-application-pentesting/walking-through-an-attack-path-with-forcehound/)
@@ -44,6 +56,7 @@
 - Schneier on Security
   - [Friday Squid Blogging: New Giant Squid Video](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=82C9578D-505A-5258-BFEB-3CAD819E9D3A&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple exploit](https://sploitus.com/exploit?id=F42BE6C2-EA6F-5B67-B515-244551787396&utm_source=rss&utm_medium=rss)
   - [hackingtool-kit exploit](https://sploitus.com/exploit?id=174EC3F5-7A80-57E7-8E1A-A08D20850ED0&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -102,5 +115,9 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [美国科技巨头成功在欧盟法律中将数据中心环境影响列为保密信息](https://www.solidot.org/story?sid=84077)
+- 爱范儿
+  - [早报｜刚刚，OpenAI两位大牛离职/一季度iPhone出货量激增20%/雷军回应小米做入门车型：10万块难做好智能化](https://www.ifanr.com/1662774?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习](https://www.qbitai.com/2026/04/402636.html)
 - 黑海洋
   - [英国大臣呼吁公众拥抱AI并启动主权AI基金](https://blog.upx8.com/%E8%8B%B1%E5%9B%BD%E5%A4%A7%E8%87%A3%E5%91%BC%E5%90%81%E5%85%AC%E4%BC%97%E6%8B%A5%E6%8A%B1AI%E5%B9%B6%E5%90%AF%E5%8A%A8%E4%B8%BB%E6%9D%83AI%E5%9F%BA%E9%87%91)
