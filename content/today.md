@@ -1,5 +1,8 @@
 # 今日安全资讯（2026-04-18）
 
+- 2Libra
+  - [一觉起来我的篡改猴插件损坏了，悲剧](https://2libra.com/post/browser-extensions/gSWEwoy)
+  - [还是有点搞不懂签到勤勉检定](https://2libra.com/post/forum-function/MEaOGIh)
 - Ars Technica
   - [$25,000 buys plenty of used EVs: Here are some options](https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/)
   - [Amazon won’t release Fire Sticks that support sideloading anymore](https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/)
@@ -9,8 +12,12 @@
   - [Trump picks qualified, normal health leader to head CDC; experts still cautious](https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/)
 - EFF
   - [Keep Pushing: We Get 10 More Days to Reform Section 702](https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702)
+- Emergent Minds | paddo.dev
+  - [Son of Anton](https://paddo.dev/blog/son-of-anton/)
 - filfre.net
   - [The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction](https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/)
+- gilesthomas.com
+  - [How an LLM becomes more coherent as we train it](https://www.gilesthomas.com/2026/04/how-an-llm-becomes-more-coherent-over-training)
 - Hacker News Frontpage
   - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
   - [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
@@ -86,3 +93,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [美国科技巨头成功在欧盟法律中将数据中心环境影响列为保密信息](https://www.solidot.org/story?sid=84077)
+- 黑海洋
+  - [英国大臣呼吁公众拥抱AI并启动主权AI基金](https://blog.upx8.com/%E8%8B%B1%E5%9B%BD%E5%A4%A7%E8%87%A3%E5%91%BC%E5%90%81%E5%85%AC%E4%BC%97%E6%8B%A5%E6%8A%B1AI%E5%B9%B6%E5%90%AF%E5%8A%A8%E4%B8%BB%E6%9D%83AI%E5%9F%BA%E9%87%91)
