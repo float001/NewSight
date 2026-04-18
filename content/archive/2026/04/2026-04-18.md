@@ -2,7 +2,11 @@
 
 - 2Libra
   - [一觉起来我的篡改猴插件损坏了，悲剧](https://2libra.com/post/browser-extensions/gSWEwoy)
+  - [明日边缘（All You Need Is Kill）动画版人设有点辣眼啊](https://2libra.com/post/movie-sharing/6mDHbNk)
   - [还是有点搞不懂签到勤勉检定](https://2libra.com/post/forum-function/MEaOGIh)
+- 36氪
+  - [大华股份：2025年营收超327亿元，2026年一季度业绩稳健增长](https://36kr.com/newsflashes/3771624413463049?f=rss)
+  - [海康威视一季度营收增长11.78%   净利润同比增长36.42%](https://36kr.com/newsflashes/3771613142024967?f=rss)
 - Ars Technica
   - [$25,000 buys plenty of used EVs: Here are some options](https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/)
   - [Amazon won’t release Fire Sticks that support sideloading anymore](https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/)
@@ -10,6 +14,9 @@
   - [Russia-friendly exchange says "western special service" behind $15 million cyberattack](https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/)
   - [Satellite and drone images reveal big delays in US data center construction](https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/)
   - [Trump picks qualified, normal health leader to head CDC; experts still cautious](https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/)
+- daringfireball.net
+  - [Apple’s Developer Guidelines for Ratings and Review Prompts](https://developer.apple.com/design/human-interface-guidelines/ratings-and-reviews#Best-practices)
+  - [Follow-Up Regarding App Store Reviews, Which Are Definitely Busted](https://daringfireball.net/linked/2026/04/16/app-store-reviews-are-busted)
 - EFF
   - [Keep Pushing: We Get 10 More Days to Reform Section 702](https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702)
 - Emergent Minds | paddo.dev
@@ -27,6 +34,8 @@
   - [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
 - HackerNoon
   - [How World ID's Biggest Upgrade Replaces Device Trust With Human Continuity](https://hackernoon.com/how-world-ids-biggest-upgrade-replaces-device-trust-with-human-continuity?source=rss)
+- Hexacorn
+  - [A few more protocol handlers :), Part 2](https://www.hexacorn.com/blog/2026/04/18/a-few-more-protocol-handlers-part-2/)
 - NetSPI Blog
   - [Auditing Salesforce Permission Hierarchies with ForceHound](https://www.netspi.com/blog/technical-blog/web-application-pentesting/auditing-salesforce-permission-hierarchies-with-forcehound/)
   - [Walking Through an Attack Path with ForceHound](https://www.netspi.com/blog/technical-blog/web-application-pentesting/walking-through-an-attack-path-with-forcehound/)
