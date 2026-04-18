@@ -3,6 +3,8 @@
 - daringfireball.net
   - [Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ](https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q)
   - [★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’](https://daringfireball.net/2026/04/kubrick_new_york_subway)
+- Hacker News Frontpage
+  - [America will come to regret its war on taxes](https://economist.com/leaders/2026/04/16/america-will-come-to-regret-its-war-on-taxes)
 - righto.com
   - [The electromechanical angle computer inside the B-52 bomber's star tracker](http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 - Sploitus.com Exploits RSS Feed
@@ -11,3 +13,5 @@
   - [CVE-2026-6564 | EMQ EMQX Enterprise up to 6.1.0 Session Handling improper authorization](https://vuldb.com/vuln/358201)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]通过微调+MCP让小模型也能拥有大模型一样的知识](https://key08.com/index.php/2026/04/19/3166.html)
