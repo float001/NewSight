@@ -85,6 +85,7 @@
   - [We Are All Playing Politics at Work](https://idiallo.com/blog/we-are-playing-politics?src=feed)
 - johndcook.com
   - [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/)
+  - [Gaussian distributed weights for LLMs](https://www.johndcook.com/blog/2026/04/18/qlora/)
 - NetSPI Blog
   - [Auditing Salesforce Permission Hierarchies with ForceHound](https://www.netspi.com/blog/technical-blog/web-application-pentesting/auditing-salesforce-permission-hierarchies-with-forcehound/)
   - [Walking Through an Attack Path with ForceHound](https://www.netspi.com/blog/technical-blog/web-application-pentesting/walking-through-an-attack-path-with-forcehound/)
@@ -119,8 +120,10 @@
   - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple exploit](https://sploitus.com/exploit?id=F42BE6C2-EA6F-5B67-B515-244551787396&utm_source=rss&utm_medium=rss)
   - [hackingtool-kit exploit](https://sploitus.com/exploit?id=174EC3F5-7A80-57E7-8E1A-A08D20850ED0&utm_source=rss&utm_medium=rss)
   - [mt6893-security-research exploit](https://sploitus.com/exploit?id=74A4B26B-1168-5C42-967D-EC98EE90C9EA&utm_source=rss&utm_medium=rss)
+  - [sqli-research exploit](https://sploitus.com/exploit?id=8C428402-EB58-5578-9BE2-6A1A753F581C&utm_source=rss&utm_medium=rss)
   - [xsspayloads exploit](https://sploitus.com/exploit?id=B5B282BB-387B-5ECD-9B1D-3B8562C6AFDF&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Anthropic’s relationship with the Trump administration seems to be thawing](https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/)
   - [Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why](https://techcrunch.com/2026/04/17/chef-robotics-escaped-the-robot-cooking-graveyard-and-says-its-thriving-heres-why/)
   - [Gigs turns your concert history into a personal live music archive](https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/)
   - [Hackers are abusing unpatched Windows security flaws to hack into organizations](https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/)
@@ -151,6 +154,8 @@
   - [OpenAI’s former Sora boss is leaving](https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing)
   - [Should you stare into Sam Altman&#8217;s orb before your next date?](https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb)
   - [This charming gadget writes bad AI poetry](https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on)
+- Threatninja.net
+  - [Hack  The Box: Airtouch Mahcine Walkthrough – Medium Diffiiculty](https://threatninja.net/hack-the-box-airtouch-mahcine-walkthrough-medium-diffiiculty/)
 - VulDB Recent Entries
   - [CVE-2025-65104 | FirebirdSQL Firebird up to 3.x information disclosure (GHSA-mfpr-9886-xjhg)](https://vuldb.com/vuln/358097)
   - [CVE-2026-0894 | vanderwijk Content Blocks Plugin up to 3.3.9 on WordPress Custom Post Widget content_block cross site scripting](https://vuldb.com/vuln/358193)
