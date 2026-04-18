@@ -5,12 +5,29 @@
   - [★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’](https://daringfireball.net/2026/04/kubrick_new_york_subway)
 - Hacker News Frontpage
   - [America will come to regret its war on taxes](https://economist.com/leaders/2026/04/16/america-will-come-to-regret-its-war-on-taxes)
+  - [Young sons of legendary U.S. marshal ride horseback from Oklahoma to New York](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
 - righto.com
   - [The electromechanical angle computer inside the B-52 bomber's star tracker](http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 - Sploitus.com Exploits RSS Feed
   - [CVE-protobufjs-GHSA-xq3m-2v4x-88gg exploit](https://sploitus.com/exploit?id=2D8443AC-DF88-5808-89E6-578FDDBA5092&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-15403 exploit](https://sploitus.com/exploit?id=91A7A0EF-5347-547A-9B56-D9AB6E5864B7&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-15521 exploit](https://sploitus.com/exploit?id=A016274D-6A21-5FC4-AC8D-0AEB8C8BC356&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-6389 exploit](https://sploitus.com/exploit?id=59160A6E-A25D-5C2D-9849-00B314FADCBE&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-68001 exploit](https://sploitus.com/exploit?id=29E7A24C-53B5-5820-9D6C-B597E8A0BDF6&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-0920 exploit](https://sploitus.com/exploit?id=ADC845CF-7E77-5BD0-94FB-E1046BB1C270&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-4257 exploit](https://sploitus.com/exploit?id=12BCB450-9365-5457-BD3E-61E9AFB1F9B5&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [AI chip startup Cerebras files for IPO](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/)
+  - [VC Ron Conway says he has a ‘rare form of cancer’](https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/)
+- tedium.co
+  - [A Taxing Discussion](https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs)
 - VulDB Recent Entries
   - [CVE-2026-6564 | EMQ EMQX Enterprise up to 6.1.0 Session Handling improper authorization](https://vuldb.com/vuln/358201)
+  - [CVE-2026-6568 | kodcloud KodExplorer up to 4.52 Public Share share.class.php initShareOld path path traversal](https://vuldb.com/vuln/358202)
+  - [CVE-2026-6569 | kodcloud KodExplorer up to 4.52 fileGet Endpoint share.class.php fileUrl improper authentication](https://vuldb.com/vuln/358203)
+  - [CVE-2026-6570 | kodcloud KodExplorer up to 4.52 systemMember.class.php initInstall path authorization](https://vuldb.com/vuln/358204)
+  - [CVE-2026-6571 | kodcloud KodExplorer up to 4.52 systemRole.class.php roleGroupAction group_role authorization](https://vuldb.com/vuln/358205)
+  - [CVE-2026-6572 | Collabora KodExplorer up to 4.52 fileUpload Endpoint share.class.php improper authorization](https://vuldb.com/vuln/358206)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 白帽Wiki - 一个简单的wiki
