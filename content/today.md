@@ -42,6 +42,8 @@
   - [马斯克：SpaceX和特斯拉始终是台积电的重要客户](https://36kr.com/newsflashes/3771765305524741?f=rss)
   - [马斯克：从物理学第一原理出发，重新设计了锂提炼工艺](https://36kr.com/newsflashes/3771775440601859?f=rss)
   - [高德动量机器人官宣将首次亮相亦庄机器人马拉松](https://36kr.com/newsflashes/3772117939864073?f=rss)
+- 404 Media
+  - [Babies Born from Dead Parents Will Increase with New Tech. Are We Ready?](https://www.404media.co/babies-born-from-dead-parents-will-increase-with-new-tech-are-we-ready/)
 - Ars Technica
   - [$25,000 buys plenty of used EVs: Here are some options](https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/)
   - [Amazon won’t release Fire Sticks that support sideloading anymore](https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/)
@@ -69,6 +71,7 @@
 - Hacker News Frontpage
   - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
   - [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
+  - [Flock Condemns False Child Predator Allegations, Yet Calls Critics Terrorists](https://ipvm.com/reports/flock-allegations-critics)
   - [How to Host a Blog on a Subdirectory Instead of a Subdomain](https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/)
   - [Hyperscalers have already outspent most famous US megaprojects](https://twitter.com/finmoorhouse/status/2044933442236776794)
   - [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)
@@ -125,6 +128,7 @@
   - [Once close enough for an acquisition, Stripe and Airwallex are now going after each other](https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/)
   - [Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/)
   - [Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges](https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/)
+  - [The App Store is booming again, and AI may be why](https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/)
   - [Zoom teams up with World to verify humans in meetings](https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting/)
   - [“Tokenmaxxing” is making developers less productive than they think](https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/)
 - The Decoder
@@ -134,6 +138,7 @@
   - [Deepseek reportedly seeks outside funding for the first time at $10 billion valuation](https://the-decoder.com/deepseek-reportedly-seeks-outside-funding-for-the-first-time-at-10-billion-valuation/)
   - [Google Deepmind's Gemini Robotics-ER 1.6 gives robots a sharper brain for planning and perception](https://the-decoder.com/google-deepminds-gemini-robotics-er-1-6-gives-robots-a-sharper-brain-for-planning-and-perception/)
   - [Google finds new ways to keep you from ever visiting a website directly again](https://the-decoder.com/google-finds-new-ways-to-keep-you-from-ever-visiting-a-website-directly-again/)
+  - [Just ten minutes of using AI as an answer machine can measurably erode problem-solving skills, new study finds](https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/)
   - [OpenAI loses three executives in one swoop as restructuring reshapes its product lineup](https://the-decoder.com/openai-loses-three-executives-in-one-swoop-as-restructuring-reshapes-its-product-lineup/)
   - [Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding](https://the-decoder.com/self-improving-ai-startup-recursive-superintelligence-pulls-in-500-million-just-four-months-after-founding/)
   - [The myth of Claude Mythos crumbles as small open models hunt the same cybersecurity bugs Anthropic showcased](https://the-decoder.com/the-myth-of-claude-mythos-crumbles-as-small-open-models-hunt-the-same-cybersecurity-bugs-anthropic-showcased/)
@@ -141,6 +146,7 @@
 - The Verge
   - [Anthropic’s new cybersecurity model could get it back in the government’s good graces](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview)
   - [Betting on the news raises ethical questions for journalists](https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket)
+  - [Dyson’s handheld fan is more powerful and louder than I expected](https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on)
   - [OpenAI’s former Sora boss is leaving](https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing)
   - [Should you stare into Sam Altman&#8217;s orb before your next date?](https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb)
   - [This charming gadget writes bad AI poetry](https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on)
