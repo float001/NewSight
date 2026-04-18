@@ -5,15 +5,23 @@
   - [明日边缘（All You Need Is Kill）动画版人设有点辣眼啊](https://2libra.com/post/movie-sharing/6mDHbNk)
   - [还是有点搞不懂签到勤勉检定](https://2libra.com/post/forum-function/MEaOGIh)
 - 36氪
+  - [FF：获4500万美元新融资](https://36kr.com/newsflashes/3771782347751942?f=rss)
   - [Sora负责人离职](https://36kr.com/newsflashes/3771676858827523?f=rss)
   - [一季度全国完成水利建设投资2070亿元，同比增长4.1%](https://36kr.com/newsflashes/3771682220016388?f=rss)
+  - [上海航交所：沿海散货综合运价指数止跌回稳](https://36kr.com/newsflashes/3771786414588416?f=rss)
+  - [公积金使用范围再扩容](https://36kr.com/newsflashes/3771772554265352?f=rss)
   - [大华股份：2025年营收超327亿元，2026年一季度业绩稳健增长](https://36kr.com/newsflashes/3771624413463049?f=rss)
   - [智元机器人，要做AI大模型平台和开放生态](https://36kr.com/p/3770721219035649?f=rss)
+  - [智元稚晖君谈特斯拉：相比于我们有点落后 先阶段性享受领跑快乐](https://36kr.com/newsflashes/3771788613386761?f=rss)
   - [江苏发布2026年消费品以旧换新地方自主品类补贴政策](https://36kr.com/newsflashes/3771682949989128?f=rss)
   - [海康威视一季度营收增长11.78%   净利润同比增长36.42%](https://36kr.com/newsflashes/3771613142024967?f=rss)
   - [特朗普称很快发布第一批UFO文件](https://36kr.com/newsflashes/3771675938390787?f=rss)
+  - [猪价有望逐步企稳回升 全年或将呈现“前低后高、窄幅波动”特征](https://36kr.com/newsflashes/3771780551082502?f=rss)
   - [美股三大指数收盘集体上涨，纳指13连涨再创新高](https://36kr.com/newsflashes/3771673261097736?f=rss)
   - [金饰价格涨到1475元](https://36kr.com/newsflashes/3771680228918024?f=rss)
+  - [霍尔木兹海峡重开 国际金银价格大涨](https://36kr.com/newsflashes/3771764707066630?f=rss)
+  - [马斯克：SpaceX和特斯拉始终是台积电的重要客户](https://36kr.com/newsflashes/3771765305524741?f=rss)
+  - [马斯克：从物理学第一原理出发，重新设计了锂提炼工艺](https://36kr.com/newsflashes/3771775440601859?f=rss)
 - Ars Technica
   - [$25,000 buys plenty of used EVs: Here are some options](https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/)
   - [Amazon won’t release Fire Sticks that support sideloading anymore](https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/)
@@ -57,6 +65,8 @@
   - [Neo v. DIY: The gap between a single finding and a mature security program](https://projectdiscovery.io/blog/neo-vs-diy)
 - Schneier on Security
   - [Friday Squid Blogging: New Giant Squid Video](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html)
+- simonwillison.net
+  - [Adding a new content type to my blog-to-newsletter tool](https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=82C9578D-505A-5258-BFEB-3CAD819E9D3A&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple exploit](https://sploitus.com/exploit?id=F42BE6C2-EA6F-5B67-B515-244551787396&utm_source=rss&utm_medium=rss)
