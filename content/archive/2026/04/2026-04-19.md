@@ -16,6 +16,7 @@
   - [Exploit for CVE-2025-68001 exploit](https://sploitus.com/exploit?id=29E7A24C-53B5-5820-9D6C-B597E8A0BDF6&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-0920 exploit](https://sploitus.com/exploit?id=ADC845CF-7E77-5BD0-94FB-E1046BB1C270&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-4257 exploit](https://sploitus.com/exploit?id=12BCB450-9365-5457-BD3E-61E9AFB1F9B5&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-4631 exploit](https://sploitus.com/exploit?id=2FC7FD64-4D38-5415-A621-B0095202AE73&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI chip startup Cerebras files for IPO](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/)
   - [VC Ron Conway says he has a ‘rare form of cancer’](https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/)
@@ -28,6 +29,7 @@
   - [CVE-2026-6570 | kodcloud KodExplorer up to 4.52 systemMember.class.php initInstall path authorization](https://vuldb.com/vuln/358204)
   - [CVE-2026-6571 | kodcloud KodExplorer up to 4.52 systemRole.class.php roleGroupAction group_role authorization](https://vuldb.com/vuln/358205)
   - [CVE-2026-6572 | Collabora KodExplorer up to 4.52 fileUpload Endpoint share.class.php improper authorization](https://vuldb.com/vuln/358206)
+  - [CVE-2026-6574 | osuuu LightPicture up to 1.2.2 API Upload Endpoint /public/install/lp.sql key hard-coded credentials](https://vuldb.com/vuln/358209)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 白帽Wiki - 一个简单的wiki
