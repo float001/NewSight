@@ -35,6 +35,7 @@
   - [特斯拉将自动驾驶出租车服务扩展至达拉斯和休斯顿](https://36kr.com/newsflashes/3773392715268613?f=rss)
   - [科氪 | 荣耀齐天大圣队机器人“闪电”夺冠  领跑2026亦庄人形机器人马拉松赛场](https://36kr.com/p/3773492357169920?f=rss)
   - [第二人生获数千万融资，加码全彩3D打印与世界大模型](https://36kr.com/newsflashes/3773230282572290?f=rss)
+  - [联翔股份：预计2025年净亏损1080万元至1550万元 公司股票可能在年报披露后被实施退市风险警示](https://36kr.com/newsflashes/3773469714350852?f=rss)
   - [荣耀包揽北京亦庄人形机器人半马前六，新能安电池助力荣耀元气仔斩获“最佳步态控制奖”](https://36kr.com/newsflashes/3773322075357696?f=rss)
   - [荣耀家族机器人包揽冠亚季军](https://36kr.com/newsflashes/3773143699227400?f=rss)
   - [荣耀齐天大圣队“闪电”机器人获得北京亦庄半马冠军](https://36kr.com/newsflashes/3773077608104711?f=rss)
@@ -122,6 +123,7 @@
   - [CVE-2026-6581 | H3C Magic B1 up to 100R004 /goform/aspForm SetMobileAPInfoById param buffer overflow](https://vuldb.com/vuln/358216)
   - [CVE-2026-6588 | serge-chat serge up to 1.4TB Model API Endpoint model.py download_model/delete_model missing authentication](https://vuldb.com/vuln/358223)
 - Wired
+  - [Hisense U7SG TV Review (2026): Better Design, Great Value](https://www.wired.com/review/hisense-u7sg/)
   - [Our Favorite Apple Watch Has Never Been Less Expensive](https://www.wired.com/story/apple-watch-series-11-deal-april-2026/)
 - 不安全
   - [$$, Looking for someone to hack into my boyfriends Facebook and messenger, willing to $$$](https://buaq.net/go-411243.html)
@@ -135,7 +137,10 @@
 - 白帽Wiki - 一个简单的wiki
   - [[2026]通过微调+MCP让小模型也能拥有大模型一样的知识](https://key08.com/index.php/2026/04/19/3166.html)
 - 量子位 QbitAI
+  - [Kimi新论文：把KVCache玩成新商业模式了](https://www.qbitai.com/2026/04/403528.html)
+  - [大模型架构的下半场](https://www.qbitai.com/2026/04/403515.html)
   - [教龙虾玩手机！打通GUI智能体训练-评测-部署全流程，训练、真机、评测一站解决](https://www.qbitai.com/2026/04/403214.html)
+  - [横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开](https://www.qbitai.com/2026/04/403226.html)
   - [王濛代言的方盒子19万开卖，头顶激光雷达，底盘能“预瞄”路况](https://www.qbitai.com/2026/04/403126.html)
   - [马斯克来抖音卖老干妈了？？](https://www.qbitai.com/2026/04/403308.html)
   - [高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环](https://www.qbitai.com/2026/04/403505.html)
