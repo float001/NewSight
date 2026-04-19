@@ -19,6 +19,8 @@
   - [Apna Hacker Lab Setup Karo Kali Linux + VirtualBox + Burp Suite (Hinglish Mein)](https://infosecwriteups.com/apna-hacker-lab-setup-karo-kali-linux-virtualbox-burp-suite-hinglish-mein-59a3adb74b97?source=rss----7b722bfd1b8d---4)
   - [Beyond Good Faith: How AI exploits the “Authorization Gap” by shattering the illusion of human…](https://infosecwriteups.com/beyond-good-faith-how-ai-exploits-the-authorization-gap-by-shattering-the-illusion-of-human-c0384469b530?source=rss----7b722bfd1b8d---4)
   - [How to Get Started with Cybersecurity and Ethical Hacking](https://infosecwriteups.com/how-to-get-started-with-cybersecurity-and-ethical-hacking-5f8147d92970?source=rss----7b722bfd1b8d---4)
+- simonwillison.net
+  - [Headless everything for personal AI](https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Improper Resource Shutdown or Release in Apache Http_Server exploit](https://sploitus.com/exploit?id=556687CB-7B66-53C5-A79C-84B0ED753C7E&utm_source=rss&utm_medium=rss)
   - [Exploit for Special Element Injection in Apache Apisix exploit](https://sploitus.com/exploit?id=FA95D19B-D3C0-5E81-9781-CFB286B3F87C&utm_source=rss&utm_medium=rss)
@@ -26,6 +28,7 @@
   - [Luban-2040 exploit](https://sploitus.com/exploit?id=1CAC0C4E-2DCB-5B62-A1D7-3E213D06C054&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch](https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/)
+  - [OpenAI’s existential questions](https://techcrunch.com/2026/04/19/openais-existential-questions/)
   - [Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures](https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/)
   - [Robots beat human records at Beijing half-marathon](https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/)
   - [TechCrunch Mobility: Uber enters its assetmaxxing era](https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/)
