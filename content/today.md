@@ -13,6 +13,7 @@
   - [“闪电”完成2026人形机器人半马](https://36kr.com/newsflashes/3773065501852161?f=rss)
   - [三星停产两大内存](https://36kr.com/newsflashes/3773244803236354?f=rss)
   - [东升宇航完成新一轮融资](https://36kr.com/newsflashes/3773265636049667?f=rss)
+  - [五一假期售票开始以来 ，12306已拒绝“抢票软件”出票105.6万张](https://36kr.com/newsflashes/3773298657821448?f=rss)
   - [五家AIC去年净赚超184亿元](https://36kr.com/newsflashes/3773203588055558?f=rss)
   - [北京产权交易所去年交易规模超10万亿元](https://36kr.com/newsflashes/3773174639592193?f=rss)
   - [北京首个交警机器人亮相街头 参与指挥亦庄半程马拉松比赛](https://36kr.com/newsflashes/3773134359626503?f=rss)
@@ -21,6 +22,7 @@
   - [年内26只FOF募集规模超10亿元](https://36kr.com/newsflashes/3773241041421058?f=rss)
   - [我国摧毁特大假酒网络](https://36kr.com/newsflashes/3773292355863297?f=rss)
   - [新突破 我国首个十万户级天然气掺氢应用项目启动](https://36kr.com/newsflashes/3773072941990659?f=rss)
+  - [沙特能源公司与沙特电力采购公司签署购电协议](https://36kr.com/newsflashes/3773389840483080?f=rss)
   - [河南省脑机接口康复设备技术创新中心揭牌](https://36kr.com/newsflashes/3773070276887305?f=rss)
   - [油价上涨催生丹麦“电车热”](https://36kr.com/newsflashes/3773177285051138?f=rss)
   - [燃油成本飙升冲击航空业 多家航司上调费用并削减航线](https://36kr.com/newsflashes/3773057893761793?f=rss)
@@ -36,6 +38,8 @@
 - daringfireball.net
   - [Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ](https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q)
   - [★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’](https://daringfireball.net/2026/04/kubrick_new_york_subway)
+- defend.network
+  - [Daily Threat Briefing – April 19, 2026](https://defend.network/briefings/defender-zero-day-ghost-identities-critical-2026-04-19.html)
 - Hacker News Frontpage
   - [America will come to regret its war on taxes](https://economist.com/leaders/2026/04/16/america-will-come-to-regret-its-war-on-taxes)
   - [Young sons of legendary U.S. marshal ride horseback from Oklahoma to New York](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
@@ -54,13 +58,18 @@
   - [The electromechanical angle computer inside the B-52 bomber's star tracker](http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 - Sploitus.com Exploits RSS Feed
   - [CVE-protobufjs-GHSA-xq3m-2v4x-88gg exploit](https://sploitus.com/exploit?id=2D8443AC-DF88-5808-89E6-578FDDBA5092&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Agentfront Enclave exploit](https://sploitus.com/exploit?id=FE8BDAE9-A10D-5C0F-A98F-DF6CD034AF49&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Anthropic Claude_Code exploit](https://sploitus.com/exploit?id=CFC45A30-508B-535C-A8BA-F88E46EC0F03&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-15403 exploit](https://sploitus.com/exploit?id=91A7A0EF-5347-547A-9B56-D9AB6E5864B7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-15521 exploit](https://sploitus.com/exploit?id=A016274D-6A21-5FC4-AC8D-0AEB8C8BC356&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-6389 exploit](https://sploitus.com/exploit?id=59160A6E-A25D-5C2D-9849-00B314FADCBE&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-68001 exploit](https://sploitus.com/exploit?id=29E7A24C-53B5-5820-9D6C-B597E8A0BDF6&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-0920 exploit](https://sploitus.com/exploit?id=ADC845CF-7E77-5BD0-94FB-E1046BB1C270&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-4257 exploit](https://sploitus.com/exploit?id=12BCB450-9365-5457-BD3E-61E9AFB1F9B5&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-4447 exploit](https://sploitus.com/exploit?id=B1B36AD0-975C-5C5A-B4AF-6760C3E6BE47&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-4631 exploit](https://sploitus.com/exploit?id=2FC7FD64-4D38-5415-A621-B0095202AE73&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Certificate Validation in Wolfssl exploit](https://sploitus.com/exploit?id=4CC39E56-1F7E-5D24-92A4-72FD00F0882A&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Read in Citrix Netscaler_Application_Delivery_Controller exploit](https://sploitus.com/exploit?id=0B26E06A-AA7F-5850-A1CA-E4FE6D1DF9FA&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI chip startup Cerebras files for IPO](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/)
   - [Tesla brings its robotaxi service to Dallas and Houston](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/)
@@ -85,6 +94,7 @@
   - [CVE-2026-6580 | liangliangyy DjangoBlog up to 2.1.0.0 Amap API Call owntracks/views.py key hard-coded key](https://vuldb.com/vuln/358215)
   - [CVE-2026-6581 | H3C Magic B1 up to 100R004 /goform/aspForm SetMobileAPInfoById param buffer overflow](https://vuldb.com/vuln/358216)
 - 不安全
+  - [$$, Looking for someone to hack into my boyfriends Facebook and messenger, willing to $$$](https://buaq.net/go-411243.html)
   - [Security Questions Bypassed to Change User’s Password](https://buaq.net/go-411220.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
