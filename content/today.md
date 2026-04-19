@@ -4,6 +4,7 @@
   - [【💰】来试试新网盘](https://2libra.com/post/promotion/mHKqj5X)
   - [【💰】被 AI 惊艳到！用 AI 做了一个 TLMC 音乐播放器，有没有对音乐播放器感兴趣或者有经验的？](https://2libra.com/post/ai-applications/bbf3Tv1)
   - [距离 2027 还有 257 天! 祝大家新年快乐 ! ! !距离羊年还有 293 天! 祝大家羊年大吉 ! ! !](https://2libra.com/post/slacking-off/EJda1Ce)
+  - [金币统计脚本更新](https://2libra.com/post/forum-function/G4x9zL5)
   - [链式代理](https://2libra.com/post/remote-access/R1aVCqO)
 - 36氪
   - [36氪首发 | 前华为工程师创业，实现临时键合载板存量循环，龙头客户已验证](https://36kr.com/p/3773090942321155?f=rss)
@@ -60,6 +61,8 @@
   - [Young sons of legendary U.S. marshal ride horseback from Oklahoma to New York](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
 - HackerNoon
   - [Cognitive Offloading Systems Shift How Knowledge Work Is Managed](https://hackernoon.com/cognitive-offloading-systems-shift-how-knowledge-work-is-managed?source=rss)
+- IEEE Spectrum
+  - [How Engineers Kick-Started the Scientific Method](https://spectrum.ieee.org/francis-bacon-scientific-method)
 - InfoSec Write-ups - Medium
   - [Borderlands — Git History API Key Leak + BGP Hijacking to Flag Interception | TryHackMe](https://infosecwriteups.com/borderlands-git-history-api-key-leak-bgp-hijacking-to-flag-interception-tryhackme-cddd7c32dce1?source=rss----7b722bfd1b8d---4)
   - [Ehx | LLMNR/NBT-NS Poisoning in Depth](https://infosecwriteups.com/llmnr-nbt-ns-poisoning-in-depth-ehxb-ebacf745957d?source=rss----7b722bfd1b8d---4)
@@ -96,11 +99,13 @@
   - [Exploit for Improper Certificate Validation in Wolfssl exploit](https://sploitus.com/exploit?id=4CC39E56-1F7E-5D24-92A4-72FD00F0882A&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Read in Citrix Netscaler_Application_Delivery_Controller exploit](https://sploitus.com/exploit?id=0B26E06A-AA7F-5850-A1CA-E4FE6D1DF9FA&utm_source=rss&utm_medium=rss)
   - [POC---Aikido-Security-BV exploit](https://sploitus.com/exploit?id=189F6E98-A29A-5FFF-B13E-C79B911132DB&utm_source=rss&utm_medium=rss)
+  - [WebVuln-Chain-Framework exploit](https://sploitus.com/exploit?id=02C11F8F-7232-5B7A-8FD6-B0A21939847E&utm_source=rss&utm_medium=rss)
 - Taxodium
   - [日常#13 - I Am Here 深圳 Live](https://taxodium.ink/nichijou-13.html)
 - TechCrunch
   - [AI chip startup Cerebras files for IPO](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/)
   - [Blue Origin successfully re-uses a New Glenn rocket for the first time ever](https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/)
+  - [Cracks are starting to form on fusion energy’s funding boom](https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/)
   - [Tesla brings its robotaxi service to Dallas and Houston](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/)
   - [VC Ron Conway says he has a ‘rare form of cancer’](https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/)
 - tedium.co
@@ -141,6 +146,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [-march=generic vs -march=native](https://dyrnq.com/marchgeneric-vs-marchnative/)
+- 奇客Solidot–传递最新科技情报
+  - [内存芯片短缺可能持续到 2030 年](https://www.solidot.org/story?sid=84085)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]通过微调+MCP让小模型也能拥有大模型一样的知识](https://key08.com/index.php/2026/04/19/3166.html)
 - 量子位 QbitAI
