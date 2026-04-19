@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【💰】来试试新网盘](https://2libra.com/post/promotion/mHKqj5X)
+  - [【💰】被 AI 惊艳到！用 AI 做了一个 TLMC 音乐播放器，有没有对音乐播放器感兴趣或者有经验的？](https://2libra.com/post/ai-applications/bbf3Tv1)
   - [距离 2027 还有 257 天! 祝大家新年快乐 ! ! !距离羊年还有 293 天! 祝大家羊年大吉 ! ! !](https://2libra.com/post/slacking-off/EJda1Ce)
   - [链式代理](https://2libra.com/post/remote-access/R1aVCqO)
 - 36氪
@@ -10,6 +11,7 @@
   - [Hitch Open联合智元发起全球首个AI自主决策机器人乒乓球赛事](https://36kr.com/newsflashes/3773085063496194?f=rss)
   - [WSBK荷兰站第二轮正赛将举行 “张雪机车”今日再战](https://36kr.com/newsflashes/3773100212339205?f=rss)
   - [“闪电”完成2026人形机器人半马](https://36kr.com/newsflashes/3773065501852161?f=rss)
+  - [三星停产两大内存](https://36kr.com/newsflashes/3773244803236354?f=rss)
   - [东升宇航完成新一轮融资](https://36kr.com/newsflashes/3773265636049667?f=rss)
   - [五家AIC去年净赚超184亿元](https://36kr.com/newsflashes/3773203588055558?f=rss)
   - [北京产权交易所去年交易规模超10万亿元](https://36kr.com/newsflashes/3773174639592193?f=rss)
@@ -17,16 +19,19 @@
   - [国产光纤全球爆单 部分产品价格暴涨650%](https://36kr.com/newsflashes/3773080451285507?f=rss)
   - [宇树称打破人类1500米世界纪录](https://36kr.com/newsflashes/3773059870294537?f=rss)
   - [年内26只FOF募集规模超10亿元](https://36kr.com/newsflashes/3773241041421058?f=rss)
+  - [我国摧毁特大假酒网络](https://36kr.com/newsflashes/3773292355863297?f=rss)
   - [新突破 我国首个十万户级天然气掺氢应用项目启动](https://36kr.com/newsflashes/3773072941990659?f=rss)
   - [河南省脑机接口康复设备技术创新中心揭牌](https://36kr.com/newsflashes/3773070276887305?f=rss)
   - [油价上涨催生丹麦“电车热”](https://36kr.com/newsflashes/3773177285051138?f=rss)
   - [燃油成本飙升冲击航空业 多家航司上调费用并削减航线](https://36kr.com/newsflashes/3773057893761793?f=rss)
   - [第二人生获数千万融资，加码全彩3D打印与世界大模型](https://36kr.com/newsflashes/3773230282572290?f=rss)
+  - [荣耀包揽北京亦庄人形机器人半马前六，新能安电池助力荣耀元气仔斩获“最佳步态控制奖”](https://36kr.com/newsflashes/3773322075357696?f=rss)
   - [荣耀家族机器人包揽冠亚季军](https://36kr.com/newsflashes/3773143699227400?f=rss)
   - [荣耀齐天大圣队“闪电”机器人获得北京亦庄半马冠军](https://36kr.com/newsflashes/3773077608104711?f=rss)
   - [蔚来：全国建成8,766座充换电站](https://36kr.com/newsflashes/3773063628194306?f=rss)
   - [飞荣达：现有产能可灵活应对当前订单交付需求 适时规划专用产能](https://36kr.com/newsflashes/3773138534793737?f=rss)
   - [首创证券冲击第14家“A+H”上市券商获证监会备案。](https://36kr.com/newsflashes/3773083674198786?f=rss)
+  - [香港明天将公布新一批重点引进企业](https://36kr.com/newsflashes/3773296038871809?f=rss)
   - [高德发布全球首个面向AGI的全栈具身技术体系“ABot”](https://36kr.com/newsflashes/3773139505185286?f=rss)
 - daringfireball.net
   - [Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ](https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q)
@@ -65,6 +70,7 @@
 - The Verge
   - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
 - VulDB Recent Entries
+  - [CVE-2026-0868 | turn2honey EMC Plugin up to 4.4 on WordPress calendly cross site scripting](https://vuldb.com/vuln/358210)
   - [CVE-2026-6564 | EMQ EMQX Enterprise up to 6.1.0 Session Handling improper authorization](https://vuldb.com/vuln/358201)
   - [CVE-2026-6568 | kodcloud KodExplorer up to 4.52 Public Share share.class.php initShareOld path path traversal](https://vuldb.com/vuln/358202)
   - [CVE-2026-6569 | kodcloud KodExplorer up to 4.52 fileGet Endpoint share.class.php fileUrl improper authentication](https://vuldb.com/vuln/358203)
@@ -72,6 +78,12 @@
   - [CVE-2026-6571 | kodcloud KodExplorer up to 4.52 systemRole.class.php roleGroupAction group_role authorization](https://vuldb.com/vuln/358205)
   - [CVE-2026-6572 | Collabora KodExplorer up to 4.52 fileUpload Endpoint share.class.php improper authorization](https://vuldb.com/vuln/358206)
   - [CVE-2026-6574 | osuuu LightPicture up to 1.2.2 API Upload Endpoint /public/install/lp.sql key hard-coded credentials](https://vuldb.com/vuln/358209)
+  - [CVE-2026-6576 | liangliangyy DjangoBlog up to 2.1.0.0 WeChat Bot Interface commonapi.py CommandHandler Source command injection](https://vuldb.com/vuln/358211)
+  - [CVE-2026-6577 | liangliangyy DjangoBlog up to 2.1.0.0 logtracks Endpoint owntracks/views.py missing authentication](https://vuldb.com/vuln/358212)
+  - [CVE-2026-6578 | liangliangyy DjangoBlog up to 2.1.0.0 Setting djangoblog/settings.py SECRET_KEY hard-coded credentials](https://vuldb.com/vuln/358213)
+  - [CVE-2026-6579 | liangliangyy DjangoBlog up to 2.1.0.0 Clean Endpoint blog/views.py missing authentication](https://vuldb.com/vuln/358214)
+  - [CVE-2026-6580 | liangliangyy DjangoBlog up to 2.1.0.0 Amap API Call owntracks/views.py key hard-coded key](https://vuldb.com/vuln/358215)
+  - [CVE-2026-6581 | H3C Magic B1 up to 100R004 /goform/aspForm SetMobileAPInfoById param buffer overflow](https://vuldb.com/vuln/358216)
 - 不安全
   - [Security Questions Bypassed to Change User’s Password](https://buaq.net/go-411220.html)
 - 代码审计星球
