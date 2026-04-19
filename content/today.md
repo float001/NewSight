@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【💰】来试试新网盘](https://2libra.com/post/promotion/mHKqj5X)
+  - [距离 2027 还有 257 天! 祝大家新年快乐 ! ! !距离羊年还有 293 天! 祝大家羊年大吉 ! ! !](https://2libra.com/post/slacking-off/EJda1Ce)
   - [链式代理](https://2libra.com/post/remote-access/R1aVCqO)
 - 36氪
   - [36氪首发 | 前华为工程师创业，实现临时键合载板存量循环，龙头客户已验证](https://36kr.com/p/3773090942321155?f=rss)
@@ -9,11 +10,13 @@
   - [Hitch Open联合智元发起全球首个AI自主决策机器人乒乓球赛事](https://36kr.com/newsflashes/3773085063496194?f=rss)
   - [WSBK荷兰站第二轮正赛将举行 “张雪机车”今日再战](https://36kr.com/newsflashes/3773100212339205?f=rss)
   - [“闪电”完成2026人形机器人半马](https://36kr.com/newsflashes/3773065501852161?f=rss)
+  - [北京产权交易所去年交易规模超10万亿元](https://36kr.com/newsflashes/3773174639592193?f=rss)
   - [北京首个交警机器人亮相街头 参与指挥亦庄半程马拉松比赛](https://36kr.com/newsflashes/3773134359626503?f=rss)
   - [国产光纤全球爆单 部分产品价格暴涨650%](https://36kr.com/newsflashes/3773080451285507?f=rss)
   - [宇树称打破人类1500米世界纪录](https://36kr.com/newsflashes/3773059870294537?f=rss)
   - [新突破 我国首个十万户级天然气掺氢应用项目启动](https://36kr.com/newsflashes/3773072941990659?f=rss)
   - [河南省脑机接口康复设备技术创新中心揭牌](https://36kr.com/newsflashes/3773070276887305?f=rss)
+  - [油价上涨催生丹麦“电车热”](https://36kr.com/newsflashes/3773177285051138?f=rss)
   - [燃油成本飙升冲击航空业 多家航司上调费用并削减航线](https://36kr.com/newsflashes/3773057893761793?f=rss)
   - [荣耀家族机器人包揽冠亚季军](https://36kr.com/newsflashes/3773143699227400?f=rss)
   - [荣耀齐天大圣队“闪电”机器人获得北京亦庄半马冠军](https://36kr.com/newsflashes/3773077608104711?f=rss)
@@ -27,6 +30,17 @@
 - Hacker News Frontpage
   - [America will come to regret its war on taxes](https://economist.com/leaders/2026/04/16/america-will-come-to-regret-its-war-on-taxes)
   - [Young sons of legendary U.S. marshal ride horseback from Oklahoma to New York](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
+- InfoSec Write-ups - Medium
+  - [Borderlands — Git History API Key Leak + BGP Hijacking to Flag Interception | TryHackMe](https://infosecwriteups.com/borderlands-git-history-api-key-leak-bgp-hijacking-to-flag-interception-tryhackme-cddd7c32dce1?source=rss----7b722bfd1b8d---4)
+  - [Ehx | LLMNR/NBT-NS Poisoning in Depth](https://infosecwriteups.com/llmnr-nbt-ns-poisoning-in-depth-ehxb-ebacf745957d?source=rss----7b722bfd1b8d---4)
+  - [Hardening Gophish: Implementing AES-256-GCM Database Encryption in Anglerphish](https://infosecwriteups.com/hardening-gophish-implementing-aes-256-gcm-database-encryption-in-anglerphish-735617ec8849?source=rss----7b722bfd1b8d---4)
+  - [North Korea-Linked Hackers Use GitHub as C2 Infrastructure to Attack South Korea](https://infosecwriteups.com/north-korea-linked-hackers-use-github-as-c2-infrastructure-to-attack-south-korea-1bdcbaf9a9d8?source=rss----7b722bfd1b8d---4)
+  - [PicoCTF Writeup — AutoRev 1](https://infosecwriteups.com/picoctf-writeup-autorev-1-180a9f350d8f?source=rss----7b722bfd1b8d---4)
+  - [Postman Secret Scanning: A Practical Guide to Finding Exposed APIs](https://infosecwriteups.com/postman-secret-scanning-a-practical-guide-to-finding-exposed-apis-47feabde6843?source=rss----7b722bfd1b8d---4)
+  - [Security Questions Bypassed to Change User’s Password](https://infosecwriteups.com/security-questions-bypassed-to-change-users-password-954547119c0f?source=rss----7b722bfd1b8d---4)
+  - [Sumeru AI CTF 2026 Writeup](https://infosecwriteups.com/sumeru-ai-ctf-2026-writeup-61393f4a2251?source=rss----7b722bfd1b8d---4)
+  - [The Bug Hunting Mistake That Slowed My Progress](https://infosecwriteups.com/the-bug-hunting-mistake-that-slowed-my-progress-5597222e982d?source=rss----7b722bfd1b8d---4)
+  - [TryHackMe W1seGuy: XOR Challenge Walkthrough](https://infosecwriteups.com/tryhackme-w1seguy-xor-challenge-walkthrough-35fa3f36b7c3?source=rss----7b722bfd1b8d---4)
 - righto.com
   - [The electromechanical angle computer inside the B-52 bomber's star tracker](http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 - Sploitus.com Exploits RSS Feed
@@ -54,12 +68,16 @@
   - [CVE-2026-6571 | kodcloud KodExplorer up to 4.52 systemRole.class.php roleGroupAction group_role authorization](https://vuldb.com/vuln/358205)
   - [CVE-2026-6572 | Collabora KodExplorer up to 4.52 fileUpload Endpoint share.class.php improper authorization](https://vuldb.com/vuln/358206)
   - [CVE-2026-6574 | osuuu LightPicture up to 1.2.2 API Upload Endpoint /public/install/lp.sql key hard-coded credentials](https://vuldb.com/vuln/358209)
+- 不安全
+  - [Security Questions Bypassed to Change User’s Password](https://buaq.net/go-411220.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [-march=generic vs -march=native](https://dyrnq.com/marchgeneric-vs-marchnative/)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]通过微调+MCP让小模型也能拥有大模型一样的知识](https://key08.com/index.php/2026/04/19/3166.html)
+- 量子位 QbitAI
+  - [王濛代言的方盒子19万开卖，头顶激光雷达，底盘能“预瞄”路况](https://www.qbitai.com/2026/04/403126.html)
 - 黑海洋
   - [严禁向未成年人提供虚拟亲密关系服务](https://blog.upx8.com/%E4%B8%A5%E7%A6%81%E5%90%91%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%8F%90%E4%BE%9B%E8%99%9A%E6%8B%9F%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E6%9C%8D%E5%8A%A1)
   - [荣耀“闪电”获2026人形机器人半马冠军](https://blog.upx8.com/%E8%8D%A3%E8%80%80-%E9%97%AA%E7%94%B5-%E8%8E%B72026%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E5%86%A0%E5%86%9B)
