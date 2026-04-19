@@ -6,18 +6,24 @@
   - [Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’](https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/)
   - [WorkOS FGA: The Authorization Layer for AI Agents](https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026)
 - Hacker News Frontpage
+  - [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
+  - [MAGA Is Winning Its War Against U.S. Science](https://paulkrugman.substack.com/p/maga-is-winning-its-war-against-us)
   - [PM Carney declares U.S. ties now a 'weakness' in address to Canadians](https://www.ctvnews.ca/politics/article/pm-carney-declares-us-ties-now-a-weakness-in-address-to-canadians/)
   - [Uber's AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
 - InfoSec Write-ups - Medium
   - [Apna Hacker Lab Setup Karo Kali Linux + VirtualBox + Burp Suite (Hinglish Mein)](https://infosecwriteups.com/apna-hacker-lab-setup-karo-kali-linux-virtualbox-burp-suite-hinglish-mein-59a3adb74b97?source=rss----7b722bfd1b8d---4)
   - [Beyond Good Faith: How AI exploits the “Authorization Gap” by shattering the illusion of human…](https://infosecwriteups.com/beyond-good-faith-how-ai-exploits-the-authorization-gap-by-shattering-the-illusion-of-human-c0384469b530?source=rss----7b722bfd1b8d---4)
+  - [How to Get Started with Cybersecurity and Ethical Hacking](https://infosecwriteups.com/how-to-get-started-with-cybersecurity-and-ethical-hacking-5f8147d92970?source=rss----7b722bfd1b8d---4)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Improper Resource Shutdown or Release in Apache Http_Server exploit](https://sploitus.com/exploit?id=556687CB-7B66-53C5-A79C-84B0ED753C7E&utm_source=rss&utm_medium=rss)
   - [Exploit for Special Element Injection in Apache Apisix exploit](https://sploitus.com/exploit?id=FA95D19B-D3C0-5E81-9781-CFB286B3F87C&utm_source=rss&utm_medium=rss)
+  - [Luban-2040 exploit](https://sploitus.com/exploit?id=1CAC0C4E-2DCB-5B62-A1D7-3E213D06C054&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch](https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/)
   - [Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures](https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/)
   - [Robots beat human records at Beijing half-marathon](https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/)
   - [TechCrunch Mobility: Uber enters its assetmaxxing era](https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/)
+  - [The 12-month window](https://techcrunch.com/2026/04/19/the-12-month-window/)
 - VulDB Recent Entries
   - [CVE-2026-6609 | liangliangyy DjangoBlog up to 2.1.0.0 oauth/views.py form_valid oauthid improper authorization](https://vuldb.com/vuln/358244)
   - [CVE-2026-6610 | liangliangyy DjangoBlog up to 2.1.0.0 Setting djangoblog/settings.py USER/PASSWORD hard-coded credentials](https://vuldb.com/vuln/358245)
@@ -39,5 +45,9 @@
   - [CVE-2026-6630 | Tenda F451 1.0.0.7_cn_svn7958 httpd /goform/GstDhcpSetSer fromGstDhcpSetSer dips buffer overflow](https://vuldb.com/vuln/358264)
   - [CVE-2026-6631 | Tenda F451 1.0.0.7_cn_svn7958 httpd webExcptypemanFilter fromwebExcptypemanFilter page buffer overflow](https://vuldb.com/vuln/358265)
   - [CVE-2026-6632 | Tenda F451 1.0.0.7_cn_svn7958 httpd /goform/SafeClientFilter fromSafeClientFilter menufacturer/Go buffer overflow](https://vuldb.com/vuln/358266)
+  - [CVE-2026-6633 | Yifang CMS up to 2.0.5 Extended Management L_rbac_admin.php store Account cross site scripting](https://vuldb.com/vuln/358267)
+  - [CVE-2026-6634 | usememos up to 0.22.1 UpdateInstanceSetting src/App.tsx memos_access_token additionalStyle/additionalScript improper authorization](https://vuldb.com/vuln/358268)
+  - [CVE-2026-6635 | rowboatlabs rowboat up to 0.1.67 tools_webhook app.py tool_call X-Tools-JWE improper authentication](https://vuldb.com/vuln/358269)
+  - [CVE-2026-6636 | p2r3 convert up to 6998584ace3e11db66dff0b423612a5cf91de75b API buildCache.js Bun.serve pathname path traversal](https://vuldb.com/vuln/358270)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
