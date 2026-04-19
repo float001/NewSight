@@ -2,6 +2,10 @@
 
 - 2Libra
   - [推广一下自己的网站，希望通过](https://2libra.com/post/promotion/TySn3Lq)
+- abortretry.fail
+  - [Hitachi Ltd, Part II](https://www.abortretry.fail/p/hitachi-ltd-part-ii)
+- CXSecurity: World Laboratory of Bugtraq 2
+  - [Critical Remote Code Execution Vulnerability in Windows Internet Key Exchange (IKE) Service (CVE-2026-33824)](https://cxsecurity.com/issue/WLB-2026040013)
 - daringfireball.net
   - [Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’](https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/)
   - [WorkOS FGA: The Authorization Layer for AI Agents](https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026)
@@ -9,6 +13,7 @@
   - [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
   - [MAGA Is Winning Its War Against U.S. Science](https://paulkrugman.substack.com/p/maga-is-winning-its-war-against-us)
   - [PM Carney declares U.S. ties now a 'weakness' in address to Canadians](https://www.ctvnews.ca/politics/article/pm-carney-declares-us-ties-now-a-weakness-in-address-to-canadians/)
+  - [Swiss authorities want to reduce dependency on Microsoft](https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532)
   - [Uber's AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
 - InfoSec Write-ups - Medium
   - [Apna Hacker Lab Setup Karo Kali Linux + VirtualBox + Burp Suite (Hinglish Mein)](https://infosecwriteups.com/apna-hacker-lab-setup-karo-kali-linux-virtualbox-burp-suite-hinglish-mein-59a3adb74b97?source=rss----7b722bfd1b8d---4)
@@ -17,6 +22,7 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Improper Resource Shutdown or Release in Apache Http_Server exploit](https://sploitus.com/exploit?id=556687CB-7B66-53C5-A79C-84B0ED753C7E&utm_source=rss&utm_medium=rss)
   - [Exploit for Special Element Injection in Apache Apisix exploit](https://sploitus.com/exploit?id=FA95D19B-D3C0-5E81-9781-CFB286B3F87C&utm_source=rss&utm_medium=rss)
+  - [linux-exploit-suggester-2 exploit](https://sploitus.com/exploit?id=B8ABD20F-D325-54DB-A4F2-188F38087514&utm_source=rss&utm_medium=rss)
   - [Luban-2040 exploit](https://sploitus.com/exploit?id=1CAC0C4E-2DCB-5B62-A1D7-3E213D06C054&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch](https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/)
@@ -24,6 +30,8 @@
   - [Robots beat human records at Beijing half-marathon](https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/)
   - [TechCrunch Mobility: Uber enters its assetmaxxing era](https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/)
   - [The 12-month window](https://techcrunch.com/2026/04/19/the-12-month-window/)
+- The Verge
+  - [Blue Origin successfully reused its New Glenn rocket](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket)
 - VulDB Recent Entries
   - [CVE-2026-6609 | liangliangyy DjangoBlog up to 2.1.0.0 oauth/views.py form_valid oauthid improper authorization](https://vuldb.com/vuln/358244)
   - [CVE-2026-6610 | liangliangyy DjangoBlog up to 2.1.0.0 Setting djangoblog/settings.py USER/PASSWORD hard-coded credentials](https://vuldb.com/vuln/358245)
