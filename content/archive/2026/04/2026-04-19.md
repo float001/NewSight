@@ -14,9 +14,11 @@
   - [万达电影：4月20日起证券简称变更为“儒意电影”](https://36kr.com/newsflashes/3773452723176199?f=rss)
   - [三星停产两大内存](https://36kr.com/newsflashes/3773244803236354?f=rss)
   - [东升宇航完成新一轮融资](https://36kr.com/newsflashes/3773265636049667?f=rss)
+  - [东方环宇：2025年归母净利润同比增长9.43%，拟10派9元](https://36kr.com/newsflashes/3773466148340486?f=rss)
   - [东方证券：拟收购上海证券100%股权，4月20日起停牌](https://36kr.com/newsflashes/3773446380044805?f=rss)
   - [五一假期售票开始以来 ，12306已拒绝“抢票软件”出票105.6万张](https://36kr.com/newsflashes/3773298657821448?f=rss)
   - [五家AIC去年净赚超184亿元](https://36kr.com/newsflashes/3773203588055558?f=rss)
+  - [力源信息：第一季度净利润同比增长241%](https://36kr.com/newsflashes/3773459632210696?f=rss)
   - [北京产权交易所去年交易规模超10万亿元](https://36kr.com/newsflashes/3773174639592193?f=rss)
   - [北京首个交警机器人亮相街头 参与指挥亦庄半程马拉松比赛](https://36kr.com/newsflashes/3773134359626503?f=rss)
   - [匠心家居：持续关注美国相关税收及退税政策，目前具体适用情况及对公司的实际影响仍存在不确定性](https://36kr.com/newsflashes/3773394366677767?f=rss)
@@ -46,11 +48,15 @@
   - [★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’](https://daringfireball.net/2026/04/kubrick_new_york_subway)
 - defend.network
   - [Daily Threat Briefing – April 19, 2026](https://defend.network/briefings/defender-zero-day-ghost-identities-critical-2026-04-19.html)
+- Didier Stevens
+  - [Update: cut-bytes.py Version 0.0.18](https://blog.didierstevens.com/2026/04/19/update-cut-bytes-py-version-0-0-18/)
 - Hacker News Frontpage
   - [America will come to regret its war on taxes](https://economist.com/leaders/2026/04/16/america-will-come-to-regret-its-war-on-taxes)
   - [Android 15's hidden Linux Terminal is a real Debian VM – and it runs Claude Code](https://github.com/JoJa84/Codefone)
   - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf]](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
   - [Young sons of legendary U.S. marshal ride horseback from Oklahoma to New York](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
+- HackerNoon
+  - [Cognitive Offloading Systems Shift How Knowledge Work Is Managed](https://hackernoon.com/cognitive-offloading-systems-shift-how-knowledge-work-is-managed?source=rss)
 - InfoSec Write-ups - Medium
   - [Borderlands — Git History API Key Leak + BGP Hijacking to Flag Interception | TryHackMe](https://infosecwriteups.com/borderlands-git-history-api-key-leak-bgp-hijacking-to-flag-interception-tryhackme-cddd7c32dce1?source=rss----7b722bfd1b8d---4)
   - [Ehx | LLMNR/NBT-NS Poisoning in Depth](https://infosecwriteups.com/llmnr-nbt-ns-poisoning-in-depth-ehxb-ebacf745957d?source=rss----7b722bfd1b8d---4)
@@ -66,6 +72,8 @@
   - [Gli uomini possono fare tutto - Aprile 2026](http://blog.cesaregallotti.it/2026/04/gli-uomini-possono-fare-tutto-aprile.html)
 - righto.com
   - [The electromechanical angle computer inside the B-52 bomber's star tracker](http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
+- Security Affairs
+  - [Security Affairs newsletter Round 573 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190994/breaking-news/security-affairs-newsletter-round-573-by-pierluigi-paganini-international-edition.html)
 - Sploitus.com Exploits RSS Feed
   - [CVE-protobufjs-GHSA-xq3m-2v4x-88gg exploit](https://sploitus.com/exploit?id=2D8443AC-DF88-5808-89E6-578FDDBA5092&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Agentfront Enclave exploit](https://sploitus.com/exploit?id=FE8BDAE9-A10D-5C0F-A98F-DF6CD034AF49&utm_source=rss&utm_medium=rss)
@@ -90,8 +98,10 @@
 - tedium.co
   - [A Taxing Discussion](https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs)
 - The Decoder
+  - [AI-generated influencers flood social media with pro-Trump content ahead of midterms](https://the-decoder.com/ai-generated-influencers-flood-social-media-with-pro-trump-content-ahead-of-midterms/)
   - [Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study](https://the-decoder.com/always-on-ray-ban-meta-glasses-powered-by-openclaw-speed-up-everyday-tasks-in-new-study/)
   - [Even the best AI models lose about half their performance when charts get complicated, new benchmark finds](https://the-decoder.com/even-the-best-ai-models-lose-about-half-their-performance-when-charts-get-complicated-new-benchmark-finds/)
+  - [First token counts reveal Opus 4.7 costs significantly more than 4.6 despite Anthropic's flat pricing](https://the-decoder.com/first-token-counts-reveal-opus-4-7-costs-significantly-more-than-4-6-despite-anthropics-flat-pricing/)
   - [Google launches generative UI standard for AI agents](https://the-decoder.com/google-launches-generative-ui-standard-for-ai-agents/)
 - The Verge
   - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
@@ -110,9 +120,14 @@
   - [CVE-2026-6579 | liangliangyy DjangoBlog up to 2.1.0.0 Clean Endpoint blog/views.py missing authentication](https://vuldb.com/vuln/358214)
   - [CVE-2026-6580 | liangliangyy DjangoBlog up to 2.1.0.0 Amap API Call owntracks/views.py key hard-coded key](https://vuldb.com/vuln/358215)
   - [CVE-2026-6581 | H3C Magic B1 up to 100R004 /goform/aspForm SetMobileAPInfoById param buffer overflow](https://vuldb.com/vuln/358216)
+  - [CVE-2026-6588 | serge-chat serge up to 1.4TB Model API Endpoint model.py download_model/delete_model missing authentication](https://vuldb.com/vuln/358223)
+- Wired
+  - [Our Favorite Apple Watch Has Never Been Less Expensive](https://www.wired.com/story/apple-watch-series-11-deal-april-2026/)
 - 不安全
   - [$$, Looking for someone to hack into my boyfriends Facebook and messenger, willing to $$$](https://buaq.net/go-411243.html)
+  - [Hacking pvp games for accessibility purposes.](https://buaq.net/go-411277.html)
   - [Security Questions Bypassed to Change User’s Password](https://buaq.net/go-411220.html)
+  - [Tmobile rep](https://buaq.net/go-411279.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
