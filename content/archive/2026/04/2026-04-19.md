@@ -44,6 +44,8 @@
   - [首创证券冲击第14家“A+H”上市券商获证监会备案。](https://36kr.com/newsflashes/3773083674198786?f=rss)
   - [香港明天将公布新一批重点引进企业](https://36kr.com/newsflashes/3773296038871809?f=rss)
   - [高德发布全球首个面向AGI的全栈具身技术体系“ABot”](https://36kr.com/newsflashes/3773139505185286?f=rss)
+- Ars Technica
+  - [I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like](https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/)
 - daringfireball.net
   - [Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ](https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q)
   - [★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’](https://daringfireball.net/2026/04/kubrick_new_york_subway)
@@ -71,10 +73,14 @@
   - [TryHackMe W1seGuy: XOR Challenge Walkthrough](https://infosecwriteups.com/tryhackme-w1seguy-xor-challenge-walkthrough-35fa3f36b7c3?source=rss----7b722bfd1b8d---4)
 - IT Service Management News
   - [Gli uomini possono fare tutto - Aprile 2026](http://blog.cesaregallotti.it/2026/04/gli-uomini-possono-fare-tutto-aprile.html)
+- Recent Commits to cve:main
+  - [Update Sun Apr 19 11:20:17 UTC 2026](https://github.com/trickest/cve/commit/7ebbf3d8590db6e2c0afb51257985d8f09d428db)
 - righto.com
   - [The electromechanical angle computer inside the B-52 bomber's star tracker](http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 - Security Affairs
   - [Security Affairs newsletter Round 573 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190994/breaking-news/security-affairs-newsletter-round-573-by-pierluigi-paganini-international-edition.html)
+- shkspr.mobi
+  - [Reprojecting Dual Fisheye Videos to Equirectangular (LG 360)](https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/)
 - Sploitus.com Exploits RSS Feed
   - [CVE-protobufjs-GHSA-xq3m-2v4x-88gg exploit](https://sploitus.com/exploit?id=2D8443AC-DF88-5808-89E6-578FDDBA5092&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Agentfront Enclave exploit](https://sploitus.com/exploit?id=FE8BDAE9-A10D-5C0F-A98F-DF6CD034AF49&utm_source=rss&utm_medium=rss)
@@ -94,6 +100,7 @@
   - [日常#13 - I Am Here 深圳 Live](https://taxodium.ink/nichijou-13.html)
 - TechCrunch
   - [AI chip startup Cerebras files for IPO](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/)
+  - [Blue Origin successfully re-uses a New Glenn rocket for the first time ever](https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/)
   - [Tesla brings its robotaxi service to Dallas and Houston](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/)
   - [VC Ron Conway says he has a ‘rare form of cancer’](https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/)
 - tedium.co
