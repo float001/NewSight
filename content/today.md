@@ -3,6 +3,7 @@
 - 2Libra
   - [【💰】来试试新网盘](https://2libra.com/post/promotion/mHKqj5X)
   - [【💰】被 AI 惊艳到！用 AI 做了一个 TLMC 音乐播放器，有没有对音乐播放器感兴趣或者有经验的？](https://2libra.com/post/ai-applications/bbf3Tv1)
+  - [我搞不懂开发需要出差的逻辑](https://2libra.com/post/workplace-stories/ABRI6tf)
   - [距离 2027 还有 257 天! 祝大家新年快乐 ! ! !距离羊年还有 293 天! 祝大家羊年大吉 ! ! !](https://2libra.com/post/slacking-off/EJda1Ce)
   - [金币统计脚本更新](https://2libra.com/post/forum-function/G4x9zL5)
   - [链式代理](https://2libra.com/post/remote-access/R1aVCqO)
@@ -55,6 +56,7 @@
 - Didier Stevens
   - [Update: cut-bytes.py Version 0.0.18](https://blog.didierstevens.com/2026/04/19/update-cut-bytes-py-version-0-0-18/)
 - Hacker News Frontpage
+  - [Airline worker arrested after sharing photos of bomb damage in WhatsApp group](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
   - [America will come to regret its war on taxes](https://economist.com/leaders/2026/04/16/america-will-come-to-regret-its-war-on-taxes)
   - [Android 15's hidden Linux Terminal is a real Debian VM – and it runs Claude Code](https://github.com/JoJa84/Codefone)
   - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf]](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
@@ -80,6 +82,8 @@
   - [Update Sun Apr 19 11:20:17 UTC 2026](https://github.com/trickest/cve/commit/7ebbf3d8590db6e2c0afb51257985d8f09d428db)
 - righto.com
   - [The electromechanical angle computer inside the B-52 bomber's star tracker](http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
+- Sec-News 安全文摘
+  - [免费代理背后的攻击者行为分析](https://govuln.com/news/url/B1vm)
 - Security Affairs
   - [Security Affairs newsletter Round 573 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190994/breaking-news/security-affairs-newsletter-round-573-by-pierluigi-paganini-international-edition.html)
 - shkspr.mobi
@@ -118,6 +122,7 @@
   - [Google launches generative UI standard for AI agents](https://the-decoder.com/google-launches-generative-ui-standard-for-ai-agents/)
 - The Verge
   - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
+  - [The Stars My Destination is classic proto-cyberpunk](https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk)
 - VulDB Recent Entries
   - [CVE-2026-0868 | turn2honey EMC Plugin up to 4.4 on WordPress calendly cross site scripting](https://vuldb.com/vuln/358210)
   - [CVE-2026-6564 | EMQ EMQX Enterprise up to 6.1.0 Session Handling improper authorization](https://vuldb.com/vuln/358201)
@@ -147,6 +152,7 @@
 - 博客
   - [-march=generic vs -march=native](https://dyrnq.com/marchgeneric-vs-marchnative/)
 - 奇客Solidot–传递最新科技情报
+  - [人形机器人打破人类半马世界纪录](https://www.solidot.org/story?sid=84087)
   - [内存芯片短缺可能持续到 2030 年](https://www.solidot.org/story?sid=84085)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]通过微调+MCP让小模型也能拥有大模型一样的知识](https://key08.com/index.php/2026/04/19/3166.html)
