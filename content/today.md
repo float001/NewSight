@@ -11,14 +11,17 @@
   - [Hitch Open联合智元发起全球首个AI自主决策机器人乒乓球赛事](https://36kr.com/newsflashes/3773085063496194?f=rss)
   - [WSBK荷兰站第二轮正赛将举行 “张雪机车”今日再战](https://36kr.com/newsflashes/3773100212339205?f=rss)
   - [“闪电”完成2026人形机器人半马](https://36kr.com/newsflashes/3773065501852161?f=rss)
+  - [万达电影：4月20日起证券简称变更为“儒意电影”](https://36kr.com/newsflashes/3773452723176199?f=rss)
   - [三星停产两大内存](https://36kr.com/newsflashes/3773244803236354?f=rss)
   - [东升宇航完成新一轮融资](https://36kr.com/newsflashes/3773265636049667?f=rss)
+  - [东方证券：拟收购上海证券100%股权，4月20日起停牌](https://36kr.com/newsflashes/3773446380044805?f=rss)
   - [五一假期售票开始以来 ，12306已拒绝“抢票软件”出票105.6万张](https://36kr.com/newsflashes/3773298657821448?f=rss)
   - [五家AIC去年净赚超184亿元](https://36kr.com/newsflashes/3773203588055558?f=rss)
   - [北京产权交易所去年交易规模超10万亿元](https://36kr.com/newsflashes/3773174639592193?f=rss)
   - [北京首个交警机器人亮相街头 参与指挥亦庄半程马拉松比赛](https://36kr.com/newsflashes/3773134359626503?f=rss)
   - [匠心家居：持续关注美国相关税收及退税政策，目前具体适用情况及对公司的实际影响仍存在不确定性](https://36kr.com/newsflashes/3773394366677767?f=rss)
   - [国产光纤全球爆单 部分产品价格暴涨650%](https://36kr.com/newsflashes/3773080451285507?f=rss)
+  - [天迈科技：筹划收购芬能自动化100%股权 预计构成重大资产重组明起停牌](https://36kr.com/newsflashes/3773448008827649?f=rss)
   - [宇树称打破人类1500米世界纪录](https://36kr.com/newsflashes/3773059870294537?f=rss)
   - [年内26只FOF募集规模超10亿元](https://36kr.com/newsflashes/3773241041421058?f=rss)
   - [我国摧毁特大假酒网络](https://36kr.com/newsflashes/3773292355863297?f=rss)
@@ -28,6 +31,7 @@
   - [油价上涨催生丹麦“电车热”](https://36kr.com/newsflashes/3773177285051138?f=rss)
   - [燃油成本飙升冲击航空业 多家航司上调费用并削减航线](https://36kr.com/newsflashes/3773057893761793?f=rss)
   - [特斯拉将自动驾驶出租车服务扩展至达拉斯和休斯顿](https://36kr.com/newsflashes/3773392715268613?f=rss)
+  - [科氪 | 荣耀齐天大圣队机器人“闪电”夺冠  领跑2026亦庄人形机器人马拉松赛场](https://36kr.com/p/3773492357169920?f=rss)
   - [第二人生获数千万融资，加码全彩3D打印与世界大模型](https://36kr.com/newsflashes/3773230282572290?f=rss)
   - [荣耀包揽北京亦庄人形机器人半马前六，新能安电池助力荣耀元气仔斩获“最佳步态控制奖”](https://36kr.com/newsflashes/3773322075357696?f=rss)
   - [荣耀家族机器人包揽冠亚季军](https://36kr.com/newsflashes/3773143699227400?f=rss)
@@ -45,6 +49,7 @@
 - Hacker News Frontpage
   - [America will come to regret its war on taxes](https://economist.com/leaders/2026/04/16/america-will-come-to-regret-its-war-on-taxes)
   - [Android 15's hidden Linux Terminal is a real Debian VM – and it runs Claude Code](https://github.com/JoJa84/Codefone)
+  - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf]](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
   - [Young sons of legendary U.S. marshal ride horseback from Oklahoma to New York](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
 - InfoSec Write-ups - Medium
   - [Borderlands — Git History API Key Leak + BGP Hijacking to Flag Interception | TryHackMe](https://infosecwriteups.com/borderlands-git-history-api-key-leak-bgp-hijacking-to-flag-interception-tryhackme-cddd7c32dce1?source=rss----7b722bfd1b8d---4)
@@ -57,6 +62,8 @@
   - [Sumeru AI CTF 2026 Writeup](https://infosecwriteups.com/sumeru-ai-ctf-2026-writeup-61393f4a2251?source=rss----7b722bfd1b8d---4)
   - [The Bug Hunting Mistake That Slowed My Progress](https://infosecwriteups.com/the-bug-hunting-mistake-that-slowed-my-progress-5597222e982d?source=rss----7b722bfd1b8d---4)
   - [TryHackMe W1seGuy: XOR Challenge Walkthrough](https://infosecwriteups.com/tryhackme-w1seguy-xor-challenge-walkthrough-35fa3f36b7c3?source=rss----7b722bfd1b8d---4)
+- IT Service Management News
+  - [Gli uomini possono fare tutto - Aprile 2026](http://blog.cesaregallotti.it/2026/04/gli-uomini-possono-fare-tutto-aprile.html)
 - righto.com
   - [The electromechanical angle computer inside the B-52 bomber's star tracker](http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 - Sploitus.com Exploits RSS Feed
@@ -73,6 +80,7 @@
   - [Exploit for CVE-2026-4631 exploit](https://sploitus.com/exploit?id=2FC7FD64-4D38-5415-A621-B0095202AE73&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Certificate Validation in Wolfssl exploit](https://sploitus.com/exploit?id=4CC39E56-1F7E-5D24-92A4-72FD00F0882A&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Read in Citrix Netscaler_Application_Delivery_Controller exploit](https://sploitus.com/exploit?id=0B26E06A-AA7F-5850-A1CA-E4FE6D1DF9FA&utm_source=rss&utm_medium=rss)
+  - [POC---Aikido-Security-BV exploit](https://sploitus.com/exploit?id=189F6E98-A29A-5FFF-B13E-C79B911132DB&utm_source=rss&utm_medium=rss)
 - Taxodium
   - [日常#13 - I Am Here 深圳 Live](https://taxodium.ink/nichijou-13.html)
 - TechCrunch
@@ -83,6 +91,7 @@
   - [A Taxing Discussion](https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs)
 - The Decoder
   - [Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study](https://the-decoder.com/always-on-ray-ban-meta-glasses-powered-by-openclaw-speed-up-everyday-tasks-in-new-study/)
+  - [Even the best AI models lose about half their performance when charts get complicated, new benchmark finds](https://the-decoder.com/even-the-best-ai-models-lose-about-half-their-performance-when-charts-get-complicated-new-benchmark-finds/)
   - [Google launches generative UI standard for AI agents](https://the-decoder.com/google-launches-generative-ui-standard-for-ai-agents/)
 - The Verge
   - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
