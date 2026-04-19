@@ -2,6 +2,8 @@
 
 - 2Libra
   - [推广一下自己的网站，希望通过](https://2libra.com/post/promotion/TySn3Lq)
+- 36氪
+  - [美发射翻新“新格伦”运载火箭并成功回收一级箭体](https://36kr.com/newsflashes/3773866199466503?f=rss)
 - abortretry.fail
   - [Hitachi Ltd, Part II](https://www.abortretry.fail/p/hitachi-ltd-part-ii)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -10,9 +12,11 @@
   - [Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’](https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/)
   - [WorkOS FGA: The Authorization Layer for AI Agents](https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026)
 - Hacker News Frontpage
+  - [Banned by Anthropic](https://bannedbyanthropic.com/)
   - [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
   - [MAGA Is Winning Its War Against U.S. Science](https://paulkrugman.substack.com/p/maga-is-winning-its-war-against-us)
   - [PM Carney declares U.S. ties now a 'weakness' in address to Canadians](https://www.ctvnews.ca/politics/article/pm-carney-declares-us-ties-now-a-weakness-in-address-to-canadians/)
+  - [Reminder: Enable ZRAM on your Linux system to optimize RAM usage](https://www.cnx-software.com/2026/04/15/reminder-enable-zram-on-your-linux-system-to-optimize-ram-usage/)
   - [Swiss authorities want to reduce dependency on Microsoft](https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532)
   - [Uber's AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
 - InfoSec Write-ups - Medium
