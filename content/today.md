@@ -1,6 +1,27 @@
 # 今日安全资讯（2026-04-20）
 
+- Hacker News Frontpage
+  - [PM Carney declares U.S. ties now a 'weakness' in address to Canadians](https://www.ctvnews.ca/politics/article/pm-carney-declares-us-ties-now-a-weakness-in-address-to-canadians/)
 - TechCrunch
+  - [Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures](https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/)
   - [TechCrunch Mobility: Uber enters its assetmaxxing era](https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/)
+- VulDB Recent Entries
+  - [CVE-2026-6609 | liangliangyy DjangoBlog up to 2.1.0.0 oauth/views.py form_valid oauthid improper authorization](https://vuldb.com/vuln/358244)
+  - [CVE-2026-6610 | liangliangyy DjangoBlog up to 2.1.0.0 Setting djangoblog/settings.py USER/PASSWORD hard-coded credentials](https://vuldb.com/vuln/358245)
+  - [CVE-2026-6611 | liangliangyy DjangoBlog up to 2.1.0.0 File Upload Endpoint djangoblog/settings.py SECRET_KEY hard-coded key](https://vuldb.com/vuln/358246)
+  - [CVE-2026-6612 | TransformerOptimus SuperAGI up to 0.0.14 Agent Execution Endpoint agent_execution.py get_agent_execution/update_agent_execution agent_execution_id authorization](https://vuldb.com/vuln/358247)
+  - [CVE-2026-6613 | TransformerOptimus SuperAGI up to 0.0.14 agent.py delete_agent/stop_schedule/get_schedule_data agent_id authorization](https://vuldb.com/vuln/358248)
+  - [CVE-2026-6614 | TransformerOptimus SuperAGI up to 0.0.14 project.py authorization](https://vuldb.com/vuln/358249)
+  - [CVE-2026-6615 | TransformerOptimus SuperAGI up to 0.0.14 Multipart Upload resources.py upload Name path traversal](https://vuldb.com/vuln/358250)
+  - [CVE-2026-6616 | TransformerOptimus SuperAGI up to 0.0.14 WebScraperTool webpage_extractor.py server-side request forgery](https://vuldb.com/vuln/358251)
+  - [CVE-2026-6617 | langgenius dify up to 0.6.9 ApiToolManageService api_tools_manage_service.py get_api_tool_provider_remote_schema url server-side request forgery](https://vuldb.com/vuln/358252)
+  - [CVE-2026-6618 | langgenius dify up to 1.13.3 ApiBasedToolSchemaParser parser.py parse_openai_plugin_json_to_tool_bundle url server-side request forgery](https://vuldb.com/vuln/358253)
+  - [CVE-2026-6619 | langgenius dify up to 1.13.3 ImagePreview image-preview.tsx openInNewTab filename cross site scripting](https://vuldb.com/vuln/358254)
+  - [CVE-2026-6620 | SonicCloudOrg sonic-server up to 2.0.0 File Upload Endpoint FileTool.java upload Type path traversal](https://vuldb.com/vuln/358255)
+  - [CVE-2026-6621 | 1024bit extend-deep up to 0.1.6 index.js __proto__ prototype pollution](https://vuldb.com/vuln/358256)
+  - [CVE-2026-6622 | BichitroGan ISP Billing Software 2025.3.20 Customer edit cross site scripting](https://vuldb.com/vuln/358257)
+  - [CVE-2026-6623 | BichitroGan ISP Billing Software 2025.3.20 Profile Page users-view cross site scripting](https://vuldb.com/vuln/358258)
+  - [CVE-2026-6624 | BichitroGan ISP Billing Software 2025.3.20 Pool List Interface /?\_route=pool/add cross site scripting](https://vuldb.com/vuln/358259)
+  - [CVE-2026-6625 | moxi624 Mogu Blog v2 up to 5.2 Picture Storage Service LocalFileServiceImpl.java LocalFileServiceImpl.uploadPictureByUrl server-side request forgery](https://vuldb.com/vuln/358260)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
