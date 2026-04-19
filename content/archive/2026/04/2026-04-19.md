@@ -60,6 +60,7 @@
   - [America will come to regret its war on taxes](https://economist.com/leaders/2026/04/16/america-will-come-to-regret-its-war-on-taxes)
   - [Android 15's hidden Linux Terminal is a real Debian VM – and it runs Claude Code](https://github.com/JoJa84/Codefone)
   - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf]](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
+  - [Vercel April 2026 security incident](https://vercel.com/kb/bulletin/vercel-april-2026-security-incident)
   - [Young sons of legendary U.S. marshal ride horseback from Oklahoma to New York](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
 - HackerNoon
   - [Cognitive Offloading Systems Shift How Knowledge Work Is Managed](https://hackernoon.com/cognitive-offloading-systems-shift-how-knowledge-work-is-managed?source=rss)
@@ -117,10 +118,12 @@
 - The Decoder
   - [AI-generated influencers flood social media with pro-Trump content ahead of midterms](https://the-decoder.com/ai-generated-influencers-flood-social-media-with-pro-trump-content-ahead-of-midterms/)
   - [Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study](https://the-decoder.com/always-on-ray-ban-meta-glasses-powered-by-openclaw-speed-up-everyday-tasks-in-new-study/)
+  - [Anthropic's revenue surge reportedly fuels talk of trillion-dollar valuation](https://the-decoder.com/anthropics-revenue-surge-reportedly-fuels-talk-of-trillion-dollar-valuation/)
   - [Even the best AI models lose about half their performance when charts get complicated, new benchmark finds](https://the-decoder.com/even-the-best-ai-models-lose-about-half-their-performance-when-charts-get-complicated-new-benchmark-finds/)
   - [First token counts reveal Opus 4.7 costs significantly more than 4.6 despite Anthropic's flat pricing](https://the-decoder.com/first-token-counts-reveal-opus-4-7-costs-significantly-more-than-4-6-despite-anthropics-flat-pricing/)
   - [Google launches generative UI standard for AI agents](https://the-decoder.com/google-launches-generative-ui-standard-for-ai-agents/)
 - The Verge
+  - [Nothing’s modular CMF Headphone Pro are down to their lowest price to date](https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal)
   - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
   - [The Stars My Destination is classic proto-cyberpunk](https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk)
 - VulDB Recent Entries
@@ -139,6 +142,10 @@
   - [CVE-2026-6580 | liangliangyy DjangoBlog up to 2.1.0.0 Amap API Call owntracks/views.py key hard-coded key](https://vuldb.com/vuln/358215)
   - [CVE-2026-6581 | H3C Magic B1 up to 100R004 /goform/aspForm SetMobileAPInfoById param buffer overflow](https://vuldb.com/vuln/358216)
   - [CVE-2026-6588 | serge-chat serge up to 1.4TB Model API Endpoint model.py download_model/delete_model missing authentication](https://vuldb.com/vuln/358223)
+  - [CVE-2026-6603 | modelscope agentscope up to 1.0.18 _python.py execute_python_code/execute_shell_command code injection](https://vuldb.com/vuln/358238)
+  - [CVE-2026-6604 | modelscope agentscope up to 1.0.18 Cloud Metadata Endpoint _openai_tools.py _parse_url/prepare_image/openai_audio_to_text image_url/audio_file_url server-side request forgery](https://vuldb.com/vuln/358239)
+  - [CVE-2026-6605 | modelscope agentscope up to 1.0.18 Internal Service _common.py _get_bytes_from_web_url server-side request forgery](https://vuldb.com/vuln/358240)
+  - [CVE-2026-6606 | modelscope agentscope up to 1.0.18 _agent_base.py _process_audio_block url server-side request forgery](https://vuldb.com/vuln/358241)
 - Wired
   - [Hisense U7SG TV Review (2026): Better Design, Great Value](https://www.wired.com/review/hisense-u7sg/)
   - [Our Favorite Apple Watch Has Never Been Less Expensive](https://www.wired.com/story/apple-watch-series-11-deal-april-2026/)
