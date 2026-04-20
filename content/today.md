@@ -1,15 +1,23 @@
 # 今日安全资讯（2026-04-20）
 
 - 2Libra
+  - [今天早上被追尾了，有问题咨询](https://2libra.com/post/small-things/uKQX-4d)
+  - [刚发现的 macOS 终端小技巧——合并窗口和重命名标签页](https://2libra.com/post/usage-tips/KGoP--O)
+  - [周末烘焙日记 🍞](https://2libra.com/post/personal-life/xiPCS3H)
   - [推广一下自己的网站，希望通过](https://2libra.com/post/promotion/TySn3Lq)
+  - [插眼 👀](https://2libra.com/post/forum-function/6TNacQV)
+  - [有没有老哥推荐一些书籍](https://2libra.com/post/good-books/Kxib2BI)
 - 36氪
+  - [36氪独家专访 | 拿到大疆、美团投资后，智能派追赶拓竹，要打“老二”翻身仗](https://36kr.com/p/3773892499096068?f=rss)
   - [36氪首发｜「东犁退休俱乐部」完成亿元级B轮融资，为300万活力银发族打造“线上+线下”社交生活方式](https://36kr.com/p/3719736708200068?f=rss)
   - [4月LPR报价出炉：5年期和1年期利率均维持不变](https://36kr.com/newsflashes/3774461673685769?f=rss)
   - [8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿](https://36kr.com/p/3774401650656001?f=rss)
   - [AI算力引爆高端PCB需求，基金经理称PCB行业迎结构性增长机遇](https://36kr.com/newsflashes/3774366290543113?f=rss)
+  - [A股三大指数开盘涨跌不一，新股N瑞尔上市首日高开107.39%](https://36kr.com/newsflashes/3774487140991497?f=rss)
   - [ETF资金大挪移：宽基ETF遭遇大幅流出，固收与红利成新宠](https://36kr.com/newsflashes/3774415459287556?f=rss)
   - [SK海力士将开始生产用于Nvidia Vera Rubin芯片的SOCAMM2服务器模块](https://36kr.com/newsflashes/3774391996728064?f=rss)
   - [​中信建投：当前低库存、弱供给、强消费背景下锂价仍有望继续走强](https://36kr.com/newsflashes/3774410379641344?f=rss)
+  - [东方雨虹：公司及行业其他几个头部公司已先后发布产品调价函](https://36kr.com/newsflashes/3774522990887684?f=rss)
   - [两市融资余额增加21.69亿元](https://36kr.com/newsflashes/3774450323718913?f=rss)
   - [严监管态势不改，年内已有8家投顾机构遭处罚](https://36kr.com/newsflashes/3774353174840065?f=rss)
   - [中信建投：关注推理算力和商业航天发展机遇](https://36kr.com/newsflashes/3774397986439942?f=rss)
@@ -17,9 +25,12 @@
   - [中信建投：后续生猪养殖板块将存在分化](https://36kr.com/newsflashes/3774390702768648?f=rss)
   - [中信证券：AI推动激光器芯片量价齐升，关注国产新机遇](https://36kr.com/newsflashes/3774436748247811?f=rss)
   - [中金：建议关注地缘冲突带来的有色金属供给侧结构性重估](https://36kr.com/newsflashes/3774420427653635?f=rss)
+  - [人民币兑美元中间价报6.8648，下调26点](https://36kr.com/newsflashes/3774477814399496?f=rss)
+  - [创业板指翻红](https://36kr.com/newsflashes/3774515331203588?f=rss)
   - [北斗时空智能装备助力人形机器人“��主奔跑”](https://36kr.com/newsflashes/3774355662832129?f=rss)
   - [医渡科技预计2026财年盈利5500万至7000万元，首次扭亏为盈](https://36kr.com/newsflashes/3774419865436680?f=rss)
   - [华泰证券：中期A股向上的趋势判断不变](https://36kr.com/newsflashes/3774416704815624?f=rss)
+  - [华泰证券：关注新能源链、出口链等拥挤度不高的景气方向](https://36kr.com/newsflashes/3774472705245703?f=rss)
   - [华泰证券：强业绩线索中，电池、电力链拥挤度不高仍可参与](https://36kr.com/newsflashes/3774441871065607?f=rss)
   - [发改委：加大逆周期和跨周期调节力度，持续稳增长、稳就业、稳预期](https://36kr.com/newsflashes/3774384773038850?f=rss)
   - [发改委：加强新兴领域安全治理，完善人工智能相关法律法规、政策制度、应用规范、伦理准则](https://36kr.com/newsflashes/3774385992303366?f=rss)
@@ -28,26 +39,36 @@
   - [国光电器：陆宏达辞任董事长、总裁](https://36kr.com/newsflashes/3774393740001798?f=rss)
   - [国家发展改革委党组书记、主任郑栅洁：持续提升国家经济安全保障能力 以新安全格局保障新发展格局](https://36kr.com/newsflashes/3774383759983361?f=rss)
   - [国有大行H股创新高，南向资金与国资背景的资金持续“扫货”](https://36kr.com/newsflashes/3774354856362504?f=rss)
+  - [央行公开市场开展5亿元7天期逆回购操作](https://36kr.com/newsflashes/3774483120423431?f=rss)
   - [头部基金密集捧场港股IPO，或将开启新布局窗口](https://36kr.com/newsflashes/3774418646631177?f=rss)
   - [工信部等部门召开光伏行业座谈会](https://36kr.com/newsflashes/3774451538133767?f=rss)
   - [年内公募机构新发产品规模近3200亿元](https://36kr.com/newsflashes/3774416216769286?f=rss)
+  - [恒指开盘涨0.17%，恒生科技指数涨0.34%](https://36kr.com/newsflashes/3774482914542336?f=rss)
+  - [摩根士丹利：预计中国股市到年底将有约5-10%的温和上行空间](https://36kr.com/newsflashes/3774473708470787?f=rss)
   - [政策周期业绩三重共振，高景气赛道公募持仓集中度抬升](https://36kr.com/newsflashes/3774434777334531?f=rss)
+  - [日本进口车销量7年来首增，日媒：中国电动汽车销量明显增加](https://36kr.com/newsflashes/3774491333247746?f=rss)
   - [机器人ToB规模化提速，数据短板仍是核心卡点](https://36kr.com/newsflashes/3774391299949064?f=rss)
   - [机器人ToB规模化提速，数据短板仍是核心卡点](https://36kr.com/newsflashes/3774441465709064?f=rss)
+  - [氢能产业迈向规模化发展阶段，四大行业上市公司加速“跑马圈地”](https://36kr.com/newsflashes/3774456071291397?f=rss)
   - [深交所：将诺比侃调入港股通标的证券名单](https://36kr.com/newsflashes/3774447611020040?f=rss)
   - [激活增长新动能，重大工程项目牵引投资回升](https://36kr.com/newsflashes/3774356827980550?f=rss)
+  - [砍航班、涨票价m全球多家航司进入“自保”模式](https://36kr.com/newsflashes/3774505198961417?f=rss)
   - [礼来公司接近收购癌症生物技术公司](https://36kr.com/newsflashes/3774421079687937?f=rss)
   - [竞速赛落幕，机器人产业ESG迎来具身智能新命题](https://36kr.com/newsflashes/3774396602663689?f=rss)
   - [美发射翻新“新格伦”运载火箭并成功回收一级箭体](https://36kr.com/newsflashes/3773866199466503?f=rss)
   - [美国航空驳斥与美联航的合并谈判](https://36kr.com/newsflashes/3774442240656133?f=rss)
   - [美联储4月维持利率不变的概率为99.5%](https://36kr.com/newsflashes/3774347781095940?f=rss)
+  - [自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家](https://36kr.com/p/3774502008963841?f=rss)
   - [英调查：近三成英国年轻人选择“回巢”](https://36kr.com/newsflashes/3774351988310534?f=rss)
   - [谷歌正与Marvell Technology洽谈开发两款新芯片](https://36kr.com/newsflashes/3774367149392643?f=rss)
+  - [金饰克价跌至1460元](https://36kr.com/newsflashes/3774513061396998?f=rss)
   - [阿联酋与美国就潜在金融援助方案进行磋商](https://36kr.com/newsflashes/3774411452023557?f=rss)
   - [马斯克希望太空探索技术公司SpaceX纳入主流股指成分股](https://36kr.com/newsflashes/3774349977305863?f=rss)
   - [高盛：需求降温叠加供应变数，2026年油价前景存在双向风险](https://36kr.com/newsflashes/3774418016846343?f=rss)
 - abortretry.fail
   - [Hitachi Ltd, Part II](https://www.abortretry.fail/p/hitachi-ltd-part-ii)
+- Articles | InfoStealers
+  - [Breaking: Vercel Breach Linked to Infostealer Infection at Context.ai](https://www.infostealers.com/article/breaking-vercel-breach-linked-to-infostealer-infection-at-context-ai/)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Critical Remote Code Execution Vulnerability in Windows Internet Key Exchange (IKE) Service (CVE-2026-33824)](https://cxsecurity.com/issue/WLB-2026040013)
 - daringfireball.net
@@ -67,6 +88,8 @@
   - [How to Get Started with Cybersecurity and Ethical Hacking](https://infosecwriteups.com/how-to-get-started-with-cybersecurity-and-ethical-hacking-5f8147d92970?source=rss----7b722bfd1b8d---4)
 - joanwestenberg.com
   - [How we lost the living Now](https://www.joanwestenberg.com/how-we-lost-the-living-now/)
+- SANS Internet Storm Center, InfoCON: green
+  - [ISC Stormcast For Monday, April 20th, 2026 https://isc.sans.edu/podcastdetail/9898, (Mon, Apr 20th)](https://isc.sans.edu/diary/rss/32912)
 - simonwillison.net
   - [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything)
   - [Headless everything for personal AI](https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything)
@@ -112,7 +135,13 @@
   - [CVE-2026-6634 | usememos up to 0.22.1 UpdateInstanceSetting src/App.tsx memos_access_token additionalStyle/additionalScript improper authorization](https://vuldb.com/vuln/358268)
   - [CVE-2026-6635 | rowboatlabs rowboat up to 0.1.67 tools_webhook app.py tool_call X-Tools-JWE improper authentication](https://vuldb.com/vuln/358269)
   - [CVE-2026-6636 | p2r3 convert up to 6998584ace3e11db66dff0b423612a5cf91de75b API buildCache.js Bun.serve pathname path traversal](https://vuldb.com/vuln/358270)
+- 不安全
+  - [华擎联合英特尔推出单通道内存技术 在不影响性能的前提下压缩内存条价格](https://buaq.net/go-411356.html)
+  - [发现频道：最近10日的热门排行榜[2026年第16期]](https://buaq.net/go-411349.html)
+  - [美国司法部拒绝协助法国调查社媒X公司](https://buaq.net/go-411351.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜受内存影响，新MacBook发布或延期/北京机器人半马落幕，冠军打破人类纪录/微信朋友圈迎14周年，官方分享内部细节](https://www.ifanr.com/1662838?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [美国司法部拒绝协助法国调查社媒X公司](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E6%8B%92%E7%BB%9D%E5%8D%8F%E5%8A%A9%E6%B3%95%E5%9B%BD%E8%B0%83%E6%9F%A5%E7%A4%BE%E5%AA%92X%E5%85%AC%E5%8F%B8)
