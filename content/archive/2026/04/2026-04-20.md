@@ -151,6 +151,7 @@
   - [极氪或将在北京车展推出009七座Home版](https://36kr.com/newsflashes/3775101309649672?f=rss)
   - [欣旺达动力在广州成立低空产业发展公司](https://36kr.com/newsflashes/3774601867723525?f=rss)
   - [氢能产业迈向规模化发展阶段，四大行业上市公司加速“跑马圈地”](https://36kr.com/newsflashes/3774456071291397?f=rss)
+  - [氪星晚报 ｜华为发布首款鸿蒙AI眼镜；天齐锂业：一季度净利润同比预增1530.31%—1818.01%](https://36kr.com/p/3775059219792648?f=rss)
   - [永辉超市：大规模闭店已结束，目前调改店已实现收入增长](https://36kr.com/newsflashes/3774847773508358?f=rss)
   - [江天化学：一季度净利润1288.71万元，同比增长1473.96%](https://36kr.com/newsflashes/3775149468516873?f=rss)
   - [江苏银行旗下凯基消费金融公司增资至47.3亿元](https://36kr.com/newsflashes/3774941267149318?f=rss)
@@ -219,6 +220,8 @@
   - [龙湖集团50亿元公司债终止申报：将更换中介，重新走申请流程](https://36kr.com/newsflashes/3774919331627783?f=rss)
 - abortretry.fail
   - [Hitachi Ltd, Part II](https://www.abortretry.fail/p/hitachi-ltd-part-ii)
+- Ars Technica
+  - [Anthropic's Mythos AI model sparks fears of turbocharged hacking](https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/)
 - Articles | InfoStealers
   - [Breaking: Vercel Breach Linked to Infostealer Infection at Context.ai](https://www.infostealers.com/article/breaking-vercel-breach-linked-to-infostealer-infection-at-context-ai/)
 - CERT Recently Published Vulnerability Notes
@@ -228,6 +231,8 @@
 - daringfireball.net
   - [Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’](https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/)
   - [WorkOS FGA: The Authorization Layer for AI Agents](https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026)
+- darkreading
+  - [WhatsApp Leaks User Metadata to Attackers](https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata)
 - Data Breach
   - [Third-party AI hack triggers Vercel breach, internal environments accessed](https://securityaffairs.com/191031/data-breach/third-party-ai-hack-triggers-vercel-breach-internal-environments-accessed.html)
 - defend.network
@@ -277,6 +282,7 @@
 - infosecurity-magazine.com
   - [Attackers Exploit DVR Command Injection Flaw to Deploy  Mirai-Based Botnet](https://www.infosecurity-magazine.com/news/mirai-variant-dvr-flaw-iot-botnet/)
   - [Crypto Exchange Grinex Blames Western Spies for $13m Theft](https://www.infosecurity-magazine.com/news/crypto-exchange-grinex-western/)
+  - [Formbook Malware Campaign Uses Multiple Obfuscation Techniques to Avoid Detection](https://www.infosecurity-magazine.com/news/formbook-malware-multiple/)
   - [NCSC Outlines Coordinated Plan to Boost NHS Cyber Resilience](https://www.infosecurity-magazine.com/news/ncsc-plan-boost-nhs-cyber/)
 - joanwestenberg.com
   - [How we lost the living Now](https://www.joanwestenberg.com/how-we-lost-the-living-now/)
@@ -322,7 +328,9 @@
   - [node-security-poc exploit](https://sploitus.com/exploit?id=CD32D213-517C-590B-B17F-78792D5EC24E&utm_source=rss&utm_medium=rss)
   - [Portswigger_SQLI_LABs_code_review exploit](https://sploitus.com/exploit?id=90C99021-6016-5574-917E-FF770AB5194E&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [App host Vercel says it was hacked and customer data stolen](https://techcrunch.com/2026/04/20/app-host-vercel-confirms-security-incident-says-customer-data-was-stolen-via-breach-at-context-ai/)
   - [Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch](https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/)
+  - [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
   - [OpenAI’s existential questions](https://techcrunch.com/2026/04/19/openais-existential-questions/)
   - [Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures](https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/)
   - [Rivian’s factory hit by tornado ahead of R2 launch](https://techcrunch.com/2026/04/20/rivians-factory-hit-by-tornado-ahead-of-r2-launch/)
@@ -330,12 +338,14 @@
   - [TechCrunch Mobility: Uber enters its assetmaxxing era](https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/)
   - [The 12-month window](https://techcrunch.com/2026/04/19/the-12-month-window/)
 - The Decoder
+  - [Adobe fights AI disruption of its own business model with new enterprise agent platform](https://the-decoder.com/adobe-fights-ai-disruption-of-its-own-business-model-with-new-enterprise-agent-platform/)
   - [Google plans nearly two million new AI chips as it turns to Marvell for custom designs](https://the-decoder.com/google-plans-nearly-two-million-new-ai-chips-as-it-turns-to-marvell-for-custom-designs/)
   - [Humanoid robots outrun humans at Beijing's second robot half marathon](https://the-decoder.com/humanoid-robots-outrun-humans-at-beijings-second-robot-half-marathon/)
   - [Salesforce bets on "Agent Albert" to prove AI won't kill enterprise software](https://the-decoder.com/salesforce-bets-on-agent-albert-to-prove-ai-wont-kill-enterprise-software/)
   - [The NSA is using Anthropic's most powerful AI model Mythos](https://the-decoder.com/the-nsa-is-using-anthropics-most-powerful-ai-model-mythos/)
 - The Verge
   - [Blue Origin successfully reused its New Glenn rocket](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket)
+  - [Canva’s CEO on its big pivot to AI enterprise software](https://www.theverge.com/podcast/913793/melanie-perkins-canva-ai-adobe-affinity-design)
   - [DJI’s latest power station is proof that good things come in mini packages](https://www.theverge.com/reviews/913706/dji-mini-power-station-review-comparison)
   - [Huawei beats Samsung and Apple to market with the first wide foldable](https://www.theverge.com/tech/914807/huawei-pura-x-max-launch-price-specs-availability)
   - [The Elden Ring movie hits theaters in March 2028](https://www.theverge.com/entertainment/914818/elden-ring-movie-date-cast)
@@ -385,6 +395,7 @@
   - [MCP Servers Are the New APIs — And We’re Making the Same Security Mistakes](https://buaq.net/go-411419.html)
   - [Reconstructing a Dead USB protocol: From Unknown Chip to Working Implementation](https://buaq.net/go-411436.html)
   - [Securing Embodied AI: A Technical White Paper on Humanoid Robots](https://buaq.net/go-411363.html)
+  - [Ten Great Cybersecurity Job Opportunities](https://buaq.net/go-411504.html)
   - [The Quantum Threat to Encryption: Why Lattice Cryptography is Your New Best Friend](https://buaq.net/go-411421.html)
   - [Trump Taxes and the Price of Privacy](https://buaq.net/go-411392.html)
   - [You Don’t Need to Hack the System. You Just Need to Make People Think You Did.](https://buaq.net/go-411417.html)
@@ -424,4 +435,5 @@
   - [云开发平台Vercel证实遭到了黑客攻击](https://blog.upx8.com/%E4%BA%91%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0Vercel%E8%AF%81%E5%AE%9E%E9%81%AD%E5%88%B0%E4%BA%86%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
   - [福特CEO透露2024年选择试驾小米SU7原因](https://blog.upx8.com/%E7%A6%8F%E7%89%B9CEO%E9%80%8F%E9%9C%B22024%E5%B9%B4%E9%80%89%E6%8B%A9%E8%AF%95%E9%A9%BE%E5%B0%8F%E7%B1%B3SU7%E5%8E%9F%E5%9B%A0)
   - [美国司法部拒绝协助法国调查社媒X公司](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E6%8B%92%E7%BB%9D%E5%8D%8F%E5%8A%A9%E6%B3%95%E5%9B%BD%E8%B0%83%E6%9F%A5%E7%A4%BE%E5%AA%92X%E5%85%AC%E5%8F%B8)
+  - [苹果公司担忧在印度面临380亿美元罚款，监管机构已准备召开最终听证会](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%8B%85%E5%BF%A7%E5%9C%A8%E5%8D%B0%E5%BA%A6%E9%9D%A2%E4%B8%B4380%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BD%9A%E6%AC%BE-%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E5%B7%B2%E5%87%86%E5%A4%87%E5%8F%AC%E5%BC%80%E6%9C%80%E7%BB%88%E5%90%AC%E8%AF%81%E4%BC%9A)
   - [阿里Qwen系列新一代旗舰模型3.6-Max预览版发布](https://blog.upx8.com/%E9%98%BF%E9%87%8CQwen%E7%B3%BB%E5%88%97%E6%96%B0%E4%B8%80%E4%BB%A3%E6%97%97%E8%88%B0%E6%A8%A1%E5%9E%8B3-6-Max%E9%A2%84%E8%A7%88%E7%89%88%E5%8F%91%E5%B8%83)
