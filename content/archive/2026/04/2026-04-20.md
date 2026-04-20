@@ -3,7 +3,28 @@
 - 2Libra
   - [推广一下自己的网站，希望通过](https://2libra.com/post/promotion/TySn3Lq)
 - 36氪
+  - [8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿](https://36kr.com/p/3774401650656001?f=rss)
+  - [AI算力引爆高端PCB需求，基金经理称PCB行业迎结构性增长机遇](https://36kr.com/newsflashes/3774366290543113?f=rss)
+  - [SK海力士将开始生产用于Nvidia Vera Rubin芯片的SOCAMM2服务器模块](https://36kr.com/newsflashes/3774391996728064?f=rss)
+  - [严监管态势不改，年内已有8家投顾机构遭处罚](https://36kr.com/newsflashes/3774353174840065?f=rss)
+  - [中信建投：关注推理算力和商业航天发展机遇](https://36kr.com/newsflashes/3774397986439942?f=rss)
+  - [中信建投：后续生猪养殖板块将存在分化](https://36kr.com/newsflashes/3774390702768648?f=rss)
+  - [北斗时空智能装备助力人形机器人“��主奔跑”](https://36kr.com/newsflashes/3774355662832129?f=rss)
+  - [发改委：加大逆周期和跨周期调节力度，持续稳增长、稳就业、稳预期](https://36kr.com/newsflashes/3774384773038850?f=rss)
+  - [发改委：加强新兴领域安全治理，完善人工智能相关法律法规、政策制度、应用规范、伦理准则](https://36kr.com/newsflashes/3774385992303366?f=rss)
+  - [发改委：完善经济安全风险防控体系，树立底线思维和风险意识，做到居安思危、未雨绸缪](https://36kr.com/newsflashes/3774385485316867?f=rss)
+  - [商业不动产试点提速，业内人士称REITs市场料持续扩容](https://36kr.com/newsflashes/3774350949630470?f=rss)
+  - [国光电器：陆宏达辞任董事长、总裁](https://36kr.com/newsflashes/3774393740001798?f=rss)
+  - [国家发展改革委党组书记、主任郑栅洁：持续提升国家经济安全保障能力 以新安全格局保障新发展格局](https://36kr.com/newsflashes/3774383759983361?f=rss)
+  - [国有大行H股创新高，南向资金与国资背景的资金持续“扫货”](https://36kr.com/newsflashes/3774354856362504?f=rss)
+  - [机器人ToB规模化提速，数据短板仍是核心卡点](https://36kr.com/newsflashes/3774391299949064?f=rss)
+  - [激活增长新动能，重大工程项目牵引投资回升](https://36kr.com/newsflashes/3774356827980550?f=rss)
+  - [竞速赛落幕，机器人产业ESG迎来具身智能新命题](https://36kr.com/newsflashes/3774396602663689?f=rss)
   - [美发射翻新“新格伦”运载火箭并成功回收一级箭体](https://36kr.com/newsflashes/3773866199466503?f=rss)
+  - [美联储4月维持利率不变的概率为99.5%](https://36kr.com/newsflashes/3774347781095940?f=rss)
+  - [英调查：近三成英国年轻人选择“回巢”](https://36kr.com/newsflashes/3774351988310534?f=rss)
+  - [谷歌正与Marvell Technology洽谈开发两款新芯片](https://36kr.com/newsflashes/3774367149392643?f=rss)
+  - [马斯克希望太空探索技术公司SpaceX纳入主流股指成分股](https://36kr.com/newsflashes/3774349977305863?f=rss)
 - abortretry.fail
   - [Hitachi Ltd, Part II](https://www.abortretry.fail/p/hitachi-ltd-part-ii)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -30,6 +51,8 @@
   - [Exploit for Special Element Injection in Apache Apisix exploit](https://sploitus.com/exploit?id=FA95D19B-D3C0-5E81-9781-CFB286B3F87C&utm_source=rss&utm_medium=rss)
   - [linux-exploit-suggester-2 exploit](https://sploitus.com/exploit?id=B8ABD20F-D325-54DB-A4F2-188F38087514&utm_source=rss&utm_medium=rss)
   - [Luban-2040 exploit](https://sploitus.com/exploit?id=1CAC0C4E-2DCB-5B62-A1D7-3E213D06C054&utm_source=rss&utm_medium=rss)
+  - [node-security-poc exploit](https://sploitus.com/exploit?id=CD32D213-517C-590B-B17F-78792D5EC24E&utm_source=rss&utm_medium=rss)
+  - [Portswigger_SQLI_LABs_code_review exploit](https://sploitus.com/exploit?id=90C99021-6016-5574-917E-FF770AB5194E&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch](https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/)
   - [OpenAI’s existential questions](https://techcrunch.com/2026/04/19/openais-existential-questions/)
