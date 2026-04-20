@@ -14,6 +14,7 @@
   - [想减肥了，有没有轻松加愉快的方式](https://2libra.com/post/sports/suQdpoj)
   - [推广一下自己的网站，希望通过](https://2libra.com/post/promotion/TySn3Lq)
   - [插眼 👀](https://2libra.com/post/forum-function/6TNacQV)
+  - [摆烂](https://2libra.com/post/touch-fish/8Bd-KVR)
   - [最近有种想买电子手表的冲动，想知道大家买电子手表的最主要目的是什么？是选择自己手机品牌的还是什么牌子的呢？（PS：周边同事都是人手一个电子手表）](https://2libra.com/post/smart-wearable/uYog1sA)
   - [有没有老哥推荐一些书籍](https://2libra.com/post/good-books/Kxib2BI)
   - [首半马完赛了，开心～](https://2libra.com/post/sports/M48X7KA)
@@ -26,14 +27,18 @@
   - [AI算力引爆高端PCB需求，基金经理称PCB行业迎结构性增长机遇](https://36kr.com/newsflashes/3774366290543113?f=rss)
   - [A股三大指数午间休盘集体上涨，光纤概念大涨](https://36kr.com/newsflashes/3774611952779780?f=rss)
   - [A股三大指数开盘涨跌不一，新股N瑞尔上市首日高开107.39%](https://36kr.com/newsflashes/3774487140991497?f=rss)
+  - [A股三大指数收盘涨跌不一，中国卫星涨停](https://36kr.com/newsflashes/3774815813763593?f=rss)
   - [ETF资金大挪移：宽基ETF遭遇大幅流出，固收与红利成新宠](https://36kr.com/newsflashes/3774415459287556?f=rss)
   - [IDC：2030年全球人形机器人出货量将突破51万台，年复合增长率近95%](https://36kr.com/newsflashes/3774665483289090?f=rss)
   - [Mythos引发网络攻防新焦虑，新加坡金管局要求银行补上安全漏洞](https://36kr.com/newsflashes/3774634078782215?f=rss)
   - [SK海力士将开始生产用于Nvidia Vera Rubin芯片的SOCAMM2服务器模块](https://36kr.com/newsflashes/3774391996728064?f=rss)
   - [​中信建投：当前低库存、弱供给、强消费背景下锂价仍有望继续走强](https://36kr.com/newsflashes/3774410379641344?f=rss)
   - [“五一”临近航班遭取消？航空公司：优先签转，保障旅客顺利成行](https://36kr.com/newsflashes/3774621185262336?f=rss)
+  - [“智能派”完成数亿元B+轮融资](https://36kr.com/newsflashes/3774795545133576?f=rss)
+  - [“灵机天赐”完成两轮数千万元人民币融资](https://36kr.com/newsflashes/3774793065333256?f=rss)
   - [一季度海南离境退税金额增长8.5倍](https://36kr.com/newsflashes/3774625982120457?f=rss)
   - [万达电影实体店将继续使用“万达影城”名称](https://36kr.com/newsflashes/3774666066330371?f=rss)
+  - [三星SDI与梅赛德斯-奔驰签署电动汽车电池供应协议](https://36kr.com/newsflashes/3774765518684672?f=rss)
   - [上海：力争到2028年打造“10+20+X”产业互联网标杆平台](https://36kr.com/newsflashes/3774593707098625?f=rss)
   - [上海：围绕人形机器人、低空无人机等领域芯片小批量试产需求，推动企业建设电子元器件在线采购交易平台](https://36kr.com/newsflashes/3774598187991808?f=rss)
   - [上海：对企业开展人工智能研发、应用，根据本市“算力券”“模型券”等规定给予支持](https://36kr.com/newsflashes/3774595130819074?f=rss)
@@ -49,6 +54,7 @@
   - [中金：建议关注地缘冲突带来的有色金属供给侧结构性重估](https://36kr.com/newsflashes/3774420427653635?f=rss)
   - [人民币兑美元中间价报6.8648，下调26点](https://36kr.com/newsflashes/3774477814399496?f=rss)
   - [创业板指翻红](https://36kr.com/newsflashes/3774515331203588?f=rss)
+  - [北京具身势能联合上海计算机研究所成立具身智能实验室](https://36kr.com/newsflashes/3774781348839936?f=rss)
   - [北斗时空智能装备助力人形机器人“��主奔跑”](https://36kr.com/newsflashes/3774355662832129?f=rss)
   - [医渡科技预计2026财年盈利5500万至7000万元，首次扭亏为盈](https://36kr.com/newsflashes/3774419865436680?f=rss)
   - [半日主力资金加仓电子板块 抛售房地产板块](https://36kr.com/newsflashes/3774618344456707?f=rss)
@@ -59,6 +65,7 @@
   - [发改委：加大逆周期和跨周期调节力度，持续稳增长、稳就业、稳预期](https://36kr.com/newsflashes/3774384773038850?f=rss)
   - [发改委：加强新兴领域安全治理，完善人工智能相关法律法规、政策制度、应用规范、伦理准则](https://36kr.com/newsflashes/3774385992303366?f=rss)
   - [发改委：完善经济安全风险防控体系，树立底线思维和风险意识，做到居安思危、未雨绸缪](https://36kr.com/newsflashes/3774385485316867?f=rss)
+  - [启明头条 | 连接世界级的科学与顶级的投资者，首届S2S中国研讨会创业提案第二次征集进行中](https://36kr.com/p/3774783568937478?f=rss)
   - [商业不动产试点提速，业内人士称REITs市场料持续扩容](https://36kr.com/newsflashes/3774350949630470?f=rss)
   - [国光电器：陆宏达辞任董事长、总裁](https://36kr.com/newsflashes/3774393740001798?f=rss)
   - [国家发展改革委党组书记、主任郑栅洁：持续提升国家经济安全保障能力 以新安全格局保障新发展格局](https://36kr.com/newsflashes/3774383759983361?f=rss)
@@ -67,6 +74,7 @@
   - [地产一哥业绩“大洗澡”，舍利润稳保现金流](https://36kr.com/p/3774684111634953?f=rss)
   - [央行公开市场开展5亿元7天期逆回购操作](https://36kr.com/newsflashes/3774483120423431?f=rss)
   - [头部基金密集捧场港股IPO，或将开启新布局窗口](https://36kr.com/newsflashes/3774418646631177?f=rss)
+  - [宁德时代“超级科技日”计划发布钠电、快充等相关技术产品](https://36kr.com/newsflashes/3774813833101828?f=rss)
   - [宇树科技机器狗外观设计专利获授权](https://36kr.com/newsflashes/3774666611720705?f=rss)
   - [宗馥莉近日在上海成立两家新公司](https://36kr.com/newsflashes/3774602272227841?f=rss)
   - [小马智行：已在迪拜开启无人化Robotaxi测试](https://36kr.com/newsflashes/3774717704307465?f=rss)
@@ -79,7 +87,9 @@
   - [摩根士丹利：预计中国股市到年底将有约5-10%的温和上行空间](https://36kr.com/newsflashes/3774473708470787?f=rss)
   - [政策周期业绩三重共振，高景气赛道公募持仓集中度抬升](https://36kr.com/newsflashes/3774434777334531?f=rss)
   - [日本央行报告：物价上涨开始挤压日本家庭](https://36kr.com/newsflashes/3774729112240898?f=rss)
+  - [日本精机将收购东洋电装全部股份](https://36kr.com/newsflashes/3774817714815491?f=rss)
   - [日本进口车销量7年来首增，日媒：中国电动汽车销量明显增加](https://36kr.com/newsflashes/3774491333247746?f=rss)
+  - [明阳智能在重庆新设能源发展新公司](https://36kr.com/newsflashes/3774775081386497?f=rss)
   - [机器人ToB规模化提速，数据短板仍是核心卡点](https://36kr.com/newsflashes/3774391299949064?f=rss)
   - [机器人ToB规模化提速，数据短板仍是核心卡点](https://36kr.com/newsflashes/3774441465709064?f=rss)
   - [欣旺达动力在广州成立低空产业发展公司](https://36kr.com/newsflashes/3774601867723525?f=rss)
@@ -97,6 +107,7 @@
   - [礼来公司接近收购癌症生物技术公司](https://36kr.com/newsflashes/3774421079687937?f=rss)
   - [科大讯飞全资子公司入股星链人工智能科技公司](https://36kr.com/newsflashes/3774529115489029?f=rss)
   - [竞速赛落幕，机器人产业ESG迎来具身智能新命题](https://36kr.com/newsflashes/3774396602663689?f=rss)
+  - [第六届消博会期间，海南离岛免税购物金额达4.7亿元](https://36kr.com/newsflashes/3774785901789961?f=rss)
   - [美发射翻新“新格伦”运载火箭并成功回收一级箭体](https://36kr.com/newsflashes/3773866199466503?f=rss)
   - [美国航空驳斥与美联航的合并谈判](https://36kr.com/newsflashes/3774442240656133?f=rss)
   - [美媒：中国从“世界工厂”成功转型为“世界市场”](https://36kr.com/newsflashes/3774746984415752?f=rss)
@@ -109,7 +120,10 @@
   - [贵州茅台盘中股价反超源杰科技，重新成为A股“一哥”](https://36kr.com/newsflashes/3774566330335747?f=rss)
   - [越南计划将电动汽车税收优惠政策延长至2030年](https://36kr.com/newsflashes/3774633339011584?f=rss)
   - [金饰克价跌至1460元](https://36kr.com/newsflashes/3774513061396998?f=rss)
+  - [锦鸡股份股债再度下跌，公司回应：提前赎回可转债是为了降低成本](https://36kr.com/newsflashes/3774800345023240?f=rss)
   - [阿联酋与美国就潜在金融援助方案进行磋商](https://36kr.com/newsflashes/3774411452023557?f=rss)
+  - [阿里HappyHorse将于4月27日开放测试](https://36kr.com/newsflashes/3774773149549315?f=rss)
+  - [阿里发布语音识别大模型Fun-ASR1.5](https://36kr.com/newsflashes/3774789800182530?f=rss)
   - [隆基绿能在广西成立源储未来新能源公司](https://36kr.com/newsflashes/3774544295838215?f=rss)
   - [马克·古尔曼：内存短缺可能导致苹果两款Mac新品推迟发售](https://36kr.com/newsflashes/3774729581412865?f=rss)
   - [马斯克希望太空探索技术公司SpaceX纳入主流股指成分股](https://36kr.com/newsflashes/3774349977305863?f=rss)
@@ -123,6 +137,8 @@
 - daringfireball.net
   - [Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’](https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/)
   - [WorkOS FGA: The Authorization Layer for AI Agents](https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026)
+- defend.network
+  - [Daily Threat Briefing – April 20, 2026](https://defend.network/briefings/defender-zero-day-service-account-breach-2026-04-20.html)
 - Hacker News Frontpage
   - [Banned by Anthropic](https://bannedbyanthropic.com/)
   - [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
@@ -133,7 +149,9 @@
   - [Uber's AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
 - HackerNews
   - [äšŒĺ…‹ĺ…°čŻĺŽžç–‘äźź APT28 çť„çť‡é’ˆĺŻšćŁ€ĺŻŸĺŽ˜ĺŠĺč…č´Ľćœşćž„çš„ć”ťĺ‡ťć´ťĺŠ¨](http://0.0.0.0:8080/post/64139)
+  - [ćƒ…ćŠĽćŒ‡ćŽ§ĺŽďźŒ1374 ä¸‡çžŽĺ…ƒč˘Ťç›—ďźŒé­ĺˆśčŁçš„ć źćž—ĺ…‹ć–Żäş¤ć˜“ć‰€ĺ…łĺœ](http://0.0.0.0:8080/post/64145)
   - [ĺ‹’ç´˘č˝Żäťść”ťĺ‡ťćŒçť­ć‰°äšąäźŚć•ŚĺŒťç–—çłťçťŸčż‘ 2 ĺš´](http://0.0.0.0:8080/post/64140)
+  - [ĺ› ćźć´žć•°é‡ćż€ĺ˘žďźŒNIST ĺ°†ĺœć­˘čŻ„äź°éžäź˜ĺ…ˆçş§ćźć´žčŻ„çş§](http://0.0.0.0:8080/post/64146)
 - ICT Security Magazine
   - [I cavi sottomarini: tra Mediterraneo e Baltico](https://www.ictsecuritymagazine.com/articoli/cavi-sottomarini-mediterraneo-baltico/)
 - InfoSec Write-ups - Medium
@@ -142,10 +160,14 @@
   - [How to Get Started with Cybersecurity and Ethical Hacking](https://infosecwriteups.com/how-to-get-started-with-cybersecurity-and-ethical-hacking-5f8147d92970?source=rss----7b722bfd1b8d---4)
 - joanwestenberg.com
   - [How we lost the living Now](https://www.joanwestenberg.com/how-we-lost-the-living-now/)
+- Product Hunt
+  - [Let's Barter](https://www.producthunt.com/products/let-s-barter)
+  - [QA Crow](https://www.producthunt.com/products/qa-crow)
 - rtl-sdr.com
   - [Setting up a MastChain AIS Tracking System](https://www.rtl-sdr.com/setting-up-a-mastchain-ais-tracking-system/)
   - [Tactical_FSK_Modem: An Open Source MFSK Image & Text Modem for PC and Android](https://www.rtl-sdr.com/tactical_fsk_modem-an-open-source-mfsk-image-text-modem-for-pc-and-android/)
 - SANS Internet Storm Center, InfoCON: green
+  - [Handling the CVE Flood With EPSS, (Mon, Apr 20th)](https://isc.sans.edu/diary/rss/32914)
   - [ISC Stormcast For Monday, April 20th, 2026 https://isc.sans.edu/podcastdetail/9898, (Mon, Apr 20th)](https://isc.sans.edu/diary/rss/32912)
 - simonwillison.net
   - [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything)
@@ -201,12 +223,16 @@
   - [Securing Embodied AI: A Technical White Paper on Humanoid Robots](https://buaq.net/go-411363.html)
   - [华擎联合英特尔推出单通道内存技术 在不影响性能的前提下压缩内存条价格](https://buaq.net/go-411356.html)
   - [发现频道：最近10日的热门排行榜[2026年第16期]](https://buaq.net/go-411349.html)
+  - [微信公众号「知识存档」大肆传播带毒软件 用户下载软件时应保持谨慎](https://buaq.net/go-411385.html)
+  - [福特CEO透露2024年选择试驾小米SU7原因](https://buaq.net/go-411381.html)
   - [美国司法部拒绝协助法国调查社媒X公司](https://buaq.net/go-411351.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [nc: unknown option -X](https://dyrnq.com/nc-unknown-option-x/)
 - 奇客Solidot–传递最新科技情报
+  - [Blue Origin 第二次回收 New Glenn 火箭但上面级未能成功入轨](https://www.solidot.org/story?sid=84091)
+  - [偏头痛发作增加与空气污染相关](https://www.solidot.org/story?sid=84092)
   - [欧盟推动远程办公以缓解能源危机](https://www.solidot.org/story?sid=84090)
   - [蚂蚁也有清洁工](https://www.solidot.org/story?sid=84089)
 - 爱范儿
@@ -214,4 +240,5 @@
   - [早报｜受内存影响，新MacBook发布或延期/北京机器人半马落幕，冠军打破人类纪录/微信朋友圈迎14周年，官方分享内部细节](https://www.ifanr.com/1662838?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [云开发平台Vercel证实遭到了黑客攻击](https://blog.upx8.com/%E4%BA%91%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0Vercel%E8%AF%81%E5%AE%9E%E9%81%AD%E5%88%B0%E4%BA%86%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
+  - [福特CEO透露2024年选择试驾小米SU7原因](https://blog.upx8.com/%E7%A6%8F%E7%89%B9CEO%E9%80%8F%E9%9C%B22024%E5%B9%B4%E9%80%89%E6%8B%A9%E8%AF%95%E9%A9%BE%E5%B0%8F%E7%B1%B3SU7%E5%8E%9F%E5%9B%A0)
   - [美国司法部拒绝协助法国调查社媒X公司](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E6%8B%92%E7%BB%9D%E5%8D%8F%E5%8A%A9%E6%B3%95%E5%9B%BD%E8%B0%83%E6%9F%A5%E7%A4%BE%E5%AA%92X%E5%85%AC%E5%8F%B8)
