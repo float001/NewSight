@@ -12,11 +12,17 @@
 - Arturo Di Corinto
   - [Disinformazione e Deepfake: la democrazia in pericolo](https://dicorinto.it/formazione/disinformazione-e-deepfake-la-democrazia-in-pericolo/)
 - daringfireball.net
+  - [Apple: ‘Tim Cook to Become Apple Executive Chairman; John Ternus to Become Apple CEO’](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
   - [Apple’s Annual Environmental Progress Report](https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/)
+- darkreading
+  - [Serial-to-IP Devices Hide Thousands of Old and New Bugs](https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs)
 - Hacker News Frontpage
+  - [AI Resistance Is Growing](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
   - [At Long Last, InfoWars Is Ours](https://theonion.com/at-long-last-infowars-is-ours/)
   - [At Long Last, InfoWars Is Ours](https://theonion.info/)
+  - [F-35 is a masterpiece built for the wrong war](https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/)
   - [Palantir Wants to Reinstate the Draft](https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/)
+  - [Tim Cook Stepping Down](https://www.macrumors.com/2026/04/20/tim-cook-stepping-down/)
   - [We Accepted Surveillance as Default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
 - IEEE Spectrum
   - [The USC Professor Who Pioneered Socially Assistive Robotics](https://spectrum.ieee.org/socially-assistive-robotics)
@@ -24,11 +30,14 @@
   - [ZionSiphon Malware Targets Water Infrastructure Systems](https://www.infosecurity-magazine.com/news/zionsiphon-malware-water/)
 - Linux Foundation Blogs
   - [Navigating the Agentic AI Guardrails: Why Open Source is the Key to AI in Regulated Industries](https://www.linuxfoundation.org/blog/navigating-the-agentic-ai-guardrails-why-open-source-is-the-key-to-ai-in-regulated-industries)
+- NowSecure
+  - [The Vercel Breach Is a Mobile Supply-Chain Problem, Too](https://www.nowsecure.com/blog/2026/04/20/the-vercel-breach-is-a-mobile-supply-chain-problem-too/)
 - Planet Classpath
   - [Mark Wielaard: Anticipating Valgrind 3.27.0](https://gnu.wildebeest.org/blog/mjw/2026/04/20/anticipating-valgrind-3-27-0/)
 - pluralistic.net
   - [Pluralistic: Comrade Trump (20 Apr 2026)](https://pluralistic.net/2026/04/20/praxis/)
 - Security Affairs
+  - [France’s ANTS ID System website hit by cyberattack, possible data breach](https://securityaffairs.com/191069/data-breach/frances-ants-id-system-website-hit-by-cyberattack-possible-data-breach.html)
   - [Scattered Spider member Tyler Buchanan pleads guilty to major crypto theft](https://securityaffairs.com/191052/cyber-crime/scattered-spider-member-tyler-buchanan-pleads-guilty-to-major-crypto-theft.html)
 - SentinelOne
   - [Automation at Machine Speed: Rethinking Execution in Modern Cybersecurity](https://www.sentinelone.com/blog/automation-at-machine-speed-rethinking-execution-in-modern-cybersecurity/)
@@ -36,19 +45,25 @@
   - [Exploit for Improper Access Control in Fortinet Forticlientems exploit](https://sploitus.com/exploit?id=8020FEB3-DF5E-5D5D-8443-712494B62543&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [FAA orders investigation into Blue Origin’s New Glenn mishap](https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/)
+  - [Google Photos adds new touch-up tools for ‘quick’ fixes](https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/)
   - [It’s not just one thing — it’s another thing](https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/)
   - [Mastodon says its flagship server was hit by a DDoS attack](https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/)
   - [North Korea hackers blamed for $290M crypto theft](https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/)
+  - [Tim Cook stepping down as Apple CEO, John Ternus taking over](https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/)
 - The Decoder
   - [Google builds elite team to close the coding gap with Anthropic](https://the-decoder.com/google-builds-elite-team-to-close-the-coding-gap-with-anthropic/)
   - [Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms](https://the-decoder.com/open-weight-kimi-k2-6-takes-on-gpt-5-4-and-claude-opus-4-6-with-agent-swarms/)
   - [OpenAI's Codex now watches your screen to remember what you're working on](https://the-decoder.com/openais-codex-now-watches-your-screen-to-remember-what-youre-working-on/)
 - The Verge
+  - [Apple CEO Tim Cook is stepping down](https://www.theverge.com/tech/915213/tim-cook-apple-ceo-stepping-down-john-ternus)
   - [Deezer says AI song uploads have nearly overtaken human music](https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads)
   - [Fortnite developers can make AI characters now — just don&#8217;t try to date them](https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations)
   - [Google Photos adds subtle touch-up tools for faces](https://www.theverge.com/tech/915129/google-photos-image-editor-touch-up-whiten-teeth-skin-blemishes)
+  - [Here&#8217;s how Amazon&#8217;s price fixing allegedly drove up prices everywhere](https://www.theverge.com/policy/915209/amazon-price-fixing-california-lawsuit)
   - [Japanese man sentenced to prison for posting spoilers](https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten)
   - [Mercedes’ first all-electric C-Class is its sportiest one yet](https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs)
+  - [Silicon Valley has forgotten what normal people want](https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos)
+  - [WhatsApp tests &#8216;Plus&#8217; subscription that adds stickers and more for a few bucks a month](https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription)
 - VulDB Recent Entries
   - [CVE-2026-23752 | GFI HelpDesk up to 4.99.8 Groups Page companyname cross site scripting](https://vuldb.com/vuln/358347)
   - [CVE-2026-23753 | GFI HelpDesk up to 4.99.8 Languages Page SWIFT_Language::Create charset cross site scripting](https://vuldb.com/vuln/358348)
@@ -58,6 +73,7 @@
   - [Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits](https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/)
 - Wired
   - [A Brief Interview With the Owner of the Hot-Air Balloon That Landed in Someone’s Backyard](https://www.wired.com/story/a-brief-interview-with-the-owner-of-the-hot-air-balloon-that-landed-in-someones-backyard/)
+  - [Ben McKenzie Says Crypto Has a Secret Ingredient: Male Loneliness](https://www.wired.com/story/wired-at-night-event-ben-mckenzie-reads-mean-tweets/)
   - [War Memes Are Turning Conflict Into Content](https://www.wired.com/story/war-memes-turn-conflict-into-content/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
