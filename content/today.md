@@ -51,6 +51,7 @@
   - [“曦望”完成新一轮超10亿元人民币融资](https://36kr.com/newsflashes/3774888986526215?f=rss)
   - [“灵机天赐”完成两轮数千万元人民币融资](https://36kr.com/newsflashes/3774793065333256?f=rss)
   - [一季度海南离境退税金额增长8.5倍](https://36kr.com/newsflashes/3774625982120457?f=rss)
+  - [一鸣食品：2025年净利润5119.34万元，同比增长76.87%](https://36kr.com/newsflashes/3775095069721353?f=rss)
   - [万达电影实体店将继续使用“万达影城”名称](https://36kr.com/newsflashes/3774666066330371?f=rss)
   - [三星SDI与梅赛德斯-奔驰签署电动汽车电池供应协议](https://36kr.com/newsflashes/3774765518684672?f=rss)
   - [三维化学：一季度土木工程建筑业务新签约订单金额合计1.06亿元](https://36kr.com/newsflashes/3774897356374791?f=rss)
@@ -72,6 +73,8 @@
   - [中电环保：一季度净利润2689.84万元，同比下降8.15%](https://36kr.com/newsflashes/3774931861701129?f=rss)
   - [中金：建议关注地缘冲突带来的有色金属供给侧结构性重估](https://36kr.com/newsflashes/3774420427653635?f=rss)
   - [丰田和宁德时代据悉将在印尼合作生产混合动力汽车电池](https://36kr.com/newsflashes/3774919887815173?f=rss)
+  - [丰田计划至11月止削减海外产量3.8万台](https://36kr.com/newsflashes/3775072103531265?f=rss)
+  - [九鼎新材：2025年净利润9056.15万元，同比增长206.51%](https://36kr.com/newsflashes/3775089949065989?f=rss)
   - [人民币兑美元中间价报6.8648，下调26点](https://36kr.com/newsflashes/3774477814399496?f=rss)
   - [余承东：手机定价压力较大，后期可能涨价](https://36kr.com/newsflashes/3774858009575939?f=rss)
   - [冰川网络：2025年净利润4.83亿元，同比扭亏](https://36kr.com/newsflashes/3775032393597697?f=rss)
@@ -87,6 +90,7 @@
   - [华泰证券：中期A股向上的趋势判断不变](https://36kr.com/newsflashes/3774416704815624?f=rss)
   - [华泰证券：关注新能源链、出口链等拥挤度不高的景气方向](https://36kr.com/newsflashes/3774472705245703?f=rss)
   - [华泰证券：强业绩线索中，电池、电力链拥挤度不高仍可参与](https://36kr.com/newsflashes/3774441871065607?f=rss)
+  - [卓易信息：2025年净利润7973.72万元，同比增长142.79%](https://36kr.com/newsflashes/3775104933643010?f=rss)
   - [印尼国家石油公司将与丰田合作开发生物乙醇](https://36kr.com/newsflashes/3774755187950337?f=rss)
   - [发改委：加大逆周期和跨周期调节力度，持续稳增长、稳就业、稳预期](https://36kr.com/newsflashes/3774384773038850?f=rss)
   - [发改委：加强新兴领域安全治理，完善人工智能相关法律法规、政策制度、应用规范、伦理准则](https://36kr.com/newsflashes/3774385992303366?f=rss)
@@ -103,6 +107,7 @@
   - [大族数控：一季度净利润3.23亿元，同比增长176.53%](https://36kr.com/newsflashes/3774928249471750?f=rss)
   - [大族激光：一季度净利润3.54亿元，同比增长116.59%](https://36kr.com/newsflashes/3774864248898306?f=rss)
   - [大湾区首台“华龙一号”机组投产发电](https://36kr.com/newsflashes/3774909947019784?f=rss)
+  - [天地数码：2025年净利润1.08亿元，同比增长17.17%](https://36kr.com/newsflashes/3775079423820546?f=rss)
   - [天孚通信：一季度净利润4.92亿元，同比增长45.79%](https://36kr.com/newsflashes/3775039705203209?f=rss)
   - [央行公开市场开展5亿元7天期逆回购操作](https://36kr.com/newsflashes/3774483120423431?f=rss)
   - [央行：3月上海黄金交易所黄金成交5675.4吨，同比减少6.3%](https://36kr.com/newsflashes/3775037458055688?f=rss)
@@ -131,12 +136,14 @@
   - [日本精机将收购东洋电装全部股份](https://36kr.com/newsflashes/3774817714815491?f=rss)
   - [日本进口车销量7年来首增，日媒：中国电动汽车销量明显增加](https://36kr.com/newsflashes/3774491333247746?f=rss)
   - [昆仑万维：艾捷科芯引入外部投资者长鑫科技全资子公司、彩讯股份等，整体估值达约40.54亿元](https://36kr.com/newsflashes/3775036296528640?f=rss)
+  - [昊志机电：一季度净利润9093.37万元 同比增长483.54%](https://36kr.com/newsflashes/3775109483234049?f=rss)
   - [明阳智能在重庆新设能源发展新公司](https://36kr.com/newsflashes/3774775081386497?f=rss)
   - [机器人ToB规模化提速，数据短板仍是核心卡点](https://36kr.com/newsflashes/3774391299949064?f=rss)
   - [机器人ToB规模化提速，数据短板仍是核心卡点](https://36kr.com/newsflashes/3774441465709064?f=rss)
   - [机构今日买入泰豪科技等23股，卖出立讯精密3.58亿元](https://36kr.com/newsflashes/3775007965184519?f=rss)
   - [机构：2026年Q1 RGB-Mini LED电视月销增2倍](https://36kr.com/newsflashes/3774834628150021?f=rss)
   - [机构：预估2026年全球AI光收发模块市场规模达260亿美元](https://36kr.com/newsflashes/3774881556595461?f=rss)
+  - [极氪或将在北京车展推出009七座Home版](https://36kr.com/newsflashes/3775101309649672?f=rss)
   - [欣旺达动力在广州成立低空产业发展公司](https://36kr.com/newsflashes/3774601867723525?f=rss)
   - [氢能产业迈向规模化发展阶段，四大行业上市公司加速“跑马圈地”](https://36kr.com/newsflashes/3774456071291397?f=rss)
   - [永辉超市：大规模闭店已结束，目前调改店已实现收入增长](https://36kr.com/newsflashes/3774847773508358?f=rss)
@@ -164,6 +171,7 @@
   - [竞速赛落幕，机器人产业ESG迎来具身智能新命题](https://36kr.com/newsflashes/3774396602663689?f=rss)
   - [章源钨业：2025年净利润2.9亿元，同比增长68.82%](https://36kr.com/newsflashes/3774887851721477?f=rss)
   - [第六届消博会期间，海南离岛免税购物金额达4.7亿元](https://36kr.com/newsflashes/3774785901789961?f=rss)
+  - [纳尔股份：拟1500万元—3000万元回购股份](https://36kr.com/newsflashes/3775068555838214?f=rss)
   - [美发射翻新“新格伦”运载火箭并成功回收一级箭体](https://36kr.com/newsflashes/3773866199466503?f=rss)
   - [美国稀土公司拟以28亿美元收购巴西稀土开发商塞拉贝尔德](https://36kr.com/newsflashes/3775012893328135?f=rss)
   - [美国航空驳斥与美联航的合并谈判](https://36kr.com/newsflashes/3774442240656133?f=rss)
@@ -234,6 +242,8 @@
 - ICT Security Magazine
   - [I cavi sottomarini: tra Mediterraneo e Baltico](https://www.ictsecuritymagazine.com/articoli/cavi-sottomarini-mediterraneo-baltico/)
   - [Zero Trust Security: come superare le sfide più comuni](https://www.ictsecuritymagazine.com/notizie/zero-trust-security-threatlocker/)
+- idiallo.com
+  - [Advice from a millionaire](https://idiallo.com/blog/advice-from-a-millionaire?src=feed)
 - InfoSec Write-ups - Medium
   - [AI Agents Think. They Just Don’t Know They’re Being Watched.](https://infosecwriteups.com/ai-agents-think-they-just-dont-know-they-re-being-watched-2f8eec1dc6a9?source=rss----7b722bfd1b8d---4)
   - [Apna Hacker Lab Setup Karo Kali Linux + VirtualBox + Burp Suite (Hinglish Mein)](https://infosecwriteups.com/apna-hacker-lab-setup-karo-kali-linux-virtualbox-burp-suite-hinglish-mein-59a3adb74b97?source=rss----7b722bfd1b8d---4)
@@ -258,6 +268,8 @@
 - Product Hunt
   - [Let's Barter](https://www.producthunt.com/products/let-s-barter)
   - [QA Crow](https://www.producthunt.com/products/qa-crow)
+- Recent Commits to cve:main
+  - [Update Mon Apr 20 11:16:51 UTC 2026](https://github.com/trickest/cve/commit/53db6e956a7fb9cddc69014f419f43a91e27e6e8)
 - rtl-sdr.com
   - [Setting up a MastChain AIS Tracking System](https://www.rtl-sdr.com/setting-up-a-mastchain-ais-tracking-system/)
   - [Tactical_FSK_Modem: An Open Source MFSK Image & Text Modem for PC and Android](https://www.rtl-sdr.com/tactical_fsk_modem-an-open-source-mfsk-image-text-modem-for-pc-and-android/)
@@ -268,6 +280,8 @@
   - [FakeWallet crypto stealer spreading through iOS apps in the App Store](https://securelist.com/fakewallet-cryptostealer-ios-app-store-2/119482/)
 - Security Affairs
   - [AI Model Claude Opus turns bugs into exploits for just $2,283](https://securityaffairs.com/191018/ai/ai-model-claude-opus-turns-bugs-into-exploits-for-just-2283.html)
+- shkspr.mobi
+  - [Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★](https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/)
 - simonwillison.net
   - [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything)
   - [Headless everything for personal AI](https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything)
@@ -295,6 +309,7 @@
   - [The NSA is using Anthropic's most powerful AI model Mythos](https://the-decoder.com/the-nsa-is-using-anthropics-most-powerful-ai-model-mythos/)
 - The Verge
   - [Blue Origin successfully reused its New Glenn rocket](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket)
+  - [DJI’s latest power station is proof that good things come in mini packages](https://www.theverge.com/reviews/913706/dji-mini-power-station-review-comparison)
 - VulDB Recent Entries
   - [CVE-2024-7083 | Email Encoder Plugin up to 2.3.3 on WordPress cross site scripting](https://vuldb.com/vuln/358289)
   - [CVE-2026-31430 | Linux Kernel up to 6.6.134/6.12.81/6.18.22/6.19.12 X.509 Certificate out-of-bounds](https://vuldb.com/vuln/358297)
@@ -364,6 +379,7 @@
   - [十三个人，撬动一条战线，日本自卫队无人化转型，到底在算什么账](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567628&idx=1&sn=e7bdd7f7dbfd0332334aa0484057fcc0)
 - 爱范儿
   - [假如应用也可以像朋友圈一样传播？](https://www.ifanr.com/1662788?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [北京车展前瞻｜不知道车展看什么？我们从 181 台首发新车里挑出了这 21 辆](https://www.ifanr.com/1662917?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [华为Pura 90系列：橘色海面下，深邃的影像底蕴](https://www.ifanr.com/1662889?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测Claude Design：小白也能做出专业级设计｜附最全玩法+官方实用技巧](https://www.ifanr.com/1662860?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜受内存影响，新MacBook发布或延期/北京机器人半马落幕，冠军打破人类纪录/微信朋友圈迎14周年，官方分享内部细节](https://www.ifanr.com/1662838?utm_source=rss&utm_medium=rss&utm_campaign=)
