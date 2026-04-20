@@ -42,6 +42,7 @@
   - [Mythos引发网络攻防新焦虑，新加坡金管局要求银行补上安全漏洞](https://36kr.com/newsflashes/3774634078782215?f=rss)
   - [OPPO海外市场再下两国，Find X9 Ultra系列首次出海](https://36kr.com/newsflashes/3774903467115266?f=rss)
   - [SK海力士将开始生产用于Nvidia Vera Rubin芯片的SOCAMM2服务器模块](https://36kr.com/newsflashes/3774391996728064?f=rss)
+  - [Strategy斥资25.4亿美元增持比特币，持仓量逾81万枚](https://36kr.com/newsflashes/3775131688452609?f=rss)
   - [​中信建投：当前低库存、弱供给、强消费背景下锂价仍有望继续走强](https://36kr.com/newsflashes/3774410379641344?f=rss)
   - [​天齐锂业：一季度净利润同比预增1530.31%—1818.01%](https://36kr.com/newsflashes/3775020935873031?f=rss)
   - [“AI药物递送第一股”剂泰科技正式通过港交所聆讯](https://36kr.com/newsflashes/3774850359853571?f=rss)
@@ -69,6 +70,8 @@
   - [中信建投：关注推理算力和商业航天发展机遇](https://36kr.com/newsflashes/3774442584834817?f=rss)
   - [中信建投：后续生猪养殖板块将存在分化](https://36kr.com/newsflashes/3774390702768648?f=rss)
   - [中信证券：AI推动激光器芯片量价齐升，关注国产新机遇](https://36kr.com/newsflashes/3774436748247811?f=rss)
+  - [中国人民银行行长潘功胜会见国际金融机构负责人](https://36kr.com/newsflashes/3775166152163848?f=rss)
+  - [中国移动：一季度净利润293亿元，同比下降4.2%](https://36kr.com/newsflashes/3775124235420161?f=rss)
   - [中汽协：1-3月汽车销量排名前十位的企业共销售594万辆](https://36kr.com/newsflashes/3774969370772233?f=rss)
   - [中电环保：一季度净利润2689.84万元，同比下降8.15%](https://36kr.com/newsflashes/3774931861701129?f=rss)
   - [中金：建议关注地缘冲突带来的有色金属供给侧结构性重估](https://36kr.com/newsflashes/3774420427653635?f=rss)
@@ -122,6 +125,7 @@
   - [市场消息：顺丰控股据悉可能寻求发行至多10亿美元可转债](https://36kr.com/newsflashes/3775012643701509?f=rss)
   - [市场监管总局无条件批准中国华润有限公司收购北京航天医疗有限公司股权案](https://36kr.com/newsflashes/3774557713351426?f=rss)
   - [年内公募机构新发产品规模近3200亿元](https://36kr.com/newsflashes/3774416216769286?f=rss)
+  - [广东：要用好产业引导基金，加大对集成电路、具身智能、算电协同等领域的投资](https://36kr.com/newsflashes/3775144569029380?f=rss)
   - [彩虹集团：2025年净利润6367.02万元，同比下降41.9%](https://36kr.com/newsflashes/3774892410241542?f=rss)
   - [恒指午间休盘涨0.82%，恒生科技指数涨0.78%](https://36kr.com/newsflashes/3774640176808710?f=rss)
   - [恒指开盘涨0.17%，恒生科技指数涨0.34%](https://36kr.com/newsflashes/3774482914542336?f=rss)
@@ -147,9 +151,11 @@
   - [欣旺达动力在广州成立低空产业发展公司](https://36kr.com/newsflashes/3774601867723525?f=rss)
   - [氢能产业迈向规模化发展阶段，四大行业上市公司加速“跑马圈地”](https://36kr.com/newsflashes/3774456071291397?f=rss)
   - [永辉超市：大规模闭店已结束，目前调改店已实现收入增长](https://36kr.com/newsflashes/3774847773508358?f=rss)
+  - [江天化学：一季度净利润1288.71万元，同比增长1473.96%](https://36kr.com/newsflashes/3775149468516873?f=rss)
   - [江苏银行旗下凯基消费金融公司增资至47.3亿元](https://36kr.com/newsflashes/3774941267149318?f=rss)
   - [沪深两市成交额突破1万亿](https://36kr.com/newsflashes/3774534075040263?f=rss)
   - [沪深两市成交额突破2万亿元](https://36kr.com/newsflashes/3774735972270853?f=rss)
+  - [泰和科技：一季度净利润8603.26万元，同比增长202.43%](https://36kr.com/newsflashes/3775135252824583?f=rss)
   - [泰国寻求三家美国半导体企业赴泰投资](https://36kr.com/newsflashes/3774667358503683?f=rss)
   - [浦项制铁宣布向印度合资钢厂注资1.6万亿韩元](https://36kr.com/newsflashes/3774976060834312?f=rss)
   - [海南：扩大岛内居民免税购物种类，推动免税商品通过跨境电商拓展至岛外](https://36kr.com/newsflashes/3774708934967809?f=rss)
@@ -158,6 +164,7 @@
   - [激活增长新动能，重大工程项目牵引投资回升](https://36kr.com/newsflashes/3774356827980550?f=rss)
   - [灵光发布新一代闪应用“灵光圈”](https://36kr.com/newsflashes/3774533738906375?f=rss)
   - [灵光把手搓应用做成「朋友圈」，一人应用时代来了](https://36kr.com/p/3774865386144519?f=rss)
+  - [热门中概股美股盘前多数下跌，理想汽车涨超1%](https://36kr.com/newsflashes/3775164902228740?f=rss)
   - [爱奇艺：入驻纳逗Pro艺人库仅代表有接洽意愿，具体项目、具体角色需要单独商谈授权](https://36kr.com/newsflashes/3774948129702658?f=rss)
   - [物产环能：一季度净利润1.73亿元，同比增长11.73%](https://36kr.com/newsflashes/3774970902921736?f=rss)
   - [特斯拉：目前并无在上海超级工厂量产机器人的具体计划](https://36kr.com/newsflashes/3774543868838407?f=rss)
@@ -168,6 +175,7 @@
   - [福元医药：获得乙酰半胱氨酸片药品注册证书](https://36kr.com/newsflashes/3775004190736903?f=rss)
   - [私募规模六连创新高，已攀升至22.72万亿](https://36kr.com/newsflashes/3774965485273606?f=rss)
   - [科大讯飞全资子公司入股星链人工智能科技公司](https://36kr.com/newsflashes/3774529115489029?f=rss)
+  - [空悬企业时驾科技获头部车企MPV车型独家定点 | 早期项目](https://36kr.com/p/3775008761004549?f=rss)
   - [竞速赛落幕，机器人产业ESG迎来具身智能新命题](https://36kr.com/newsflashes/3774396602663689?f=rss)
   - [章源钨业：2025年净利润2.9亿元，同比增长68.82%](https://36kr.com/newsflashes/3774887851721477?f=rss)
   - [第六届消博会期间，海南离岛免税购物金额达4.7亿元](https://36kr.com/newsflashes/3774785901789961?f=rss)
@@ -177,6 +185,7 @@
   - [美国航空驳斥与美联航的合并谈判](https://36kr.com/newsflashes/3774442240656133?f=rss)
   - [美媒：中国从“世界工厂”成功转型为“世界市场”](https://36kr.com/newsflashes/3774746984415752?f=rss)
   - [美联储4月维持利率不变的概率为99.5%](https://36kr.com/newsflashes/3774347781095940?f=rss)
+  - [美股大型科技股盘前普跌，英特尔跌超1%](https://36kr.com/newsflashes/3775158077014790?f=rss)
   - [美蓝色起源发射任务受挫，搭载卫星未入预定轨道](https://36kr.com/newsflashes/3774530015003145?f=rss)
   - [腾讯入股哈萨克斯坦金融科技公司Kaspi.kz](https://36kr.com/newsflashes/3775052173656832?f=rss)
   - [自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家](https://36kr.com/p/3774502008963841?f=rss)
@@ -198,6 +207,7 @@
   - [阿里发布Qwen3.6-Max预览版](https://36kr.com/newsflashes/3774846474175238?f=rss)
   - [阿里发布语音识别大模型Fun-ASR1.5](https://36kr.com/newsflashes/3774789800182530?f=rss)
   - [隆基绿能在广西成立源储未来新能源公司](https://36kr.com/newsflashes/3774544295838215?f=rss)
+  - [雪天盐业：一季度净利润1486.75万元，同比下降55.47%](https://36kr.com/newsflashes/3775120181461512?f=rss)
   - [预测市场平台Polymarket正以约150亿美元估值洽谈融资](https://36kr.com/newsflashes/3775044085481988?f=rss)
   - [香港证监会公布新监管框架，容许代币化证监会认可投资产品在二级市场买卖](https://36kr.com/newsflashes/3774934020408070?f=rss)
   - [马克·古尔曼：内存短缺可能导致苹果两款Mac新品推迟发售](https://36kr.com/newsflashes/3774729581412865?f=rss)
@@ -226,6 +236,7 @@
   - [PM Carney declares U.S. ties now a 'weakness' in address to Canadians](https://www.ctvnews.ca/politics/article/pm-carney-declares-us-ties-now-a-weakness-in-address-to-canadians/)
   - [Reminder: Enable ZRAM on your Linux system to optimize RAM usage](https://www.cnx-software.com/2026/04/15/reminder-enable-zram-on-your-linux-system-to-optimize-ram-usage/)
   - [Swiss authorities want to reduce dependency on Microsoft](https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532)
+  - [Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)](https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html)
   - [Uber's AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
 - HackerNews
   - [äšŒĺ…‹ĺ…°čŻĺŽžç–‘äźź APT28 çť„çť‡é’ˆĺŻšćŁ€ĺŻŸĺŽ˜ĺŠĺč…č´Ľćœşćž„çš„ć”ťĺ‡ťć´ťĺŠ¨](http://0.0.0.0:8080/post/64139)
@@ -259,10 +270,13 @@
   - [You Don’t Need to Hack the System. You Just Need to Make People Think You Did.](https://infosecwriteups.com/you-dont-need-to-hack-the-system-you-just-need-to-make-people-think-you-did-605f4ce64fa0?source=rss----7b722bfd1b8d---4)
   - [☢️ The Web2.5 Kill Chain (Part 1): The Oracle’s Whisper](https://infosecwriteups.com/%EF%B8%8F-the-web2-5-kill-chain-part-1-the-oracles-whisper-d2e603c43676?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
+  - [Attackers Exploit DVR Command Injection Flaw to Deploy  Mirai-Based Botnet](https://www.infosecurity-magazine.com/news/mirai-variant-dvr-flaw-iot-botnet/)
   - [Crypto Exchange Grinex Blames Western Spies for $13m Theft](https://www.infosecurity-magazine.com/news/crypto-exchange-grinex-western/)
   - [NCSC Outlines Coordinated Plan to Boost NHS Cyber Resilience](https://www.infosecurity-magazine.com/news/ncsc-plan-boost-nhs-cyber/)
 - joanwestenberg.com
   - [How we lost the living Now](https://www.joanwestenberg.com/how-we-lost-the-living-now/)
+- MIT Technology Review
+  - [The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles](https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/)
 - NVIDIA AI Blog
   - [NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026](https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/)
 - Product Hunt
@@ -287,6 +301,7 @@
   - [Headless everything for personal AI](https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything)
   - [SQL functions in Google Sheets to fetch data from Datasette](https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [autopoc exploit](https://sploitus.com/exploit?id=72AEE45B-D871-574E-9350-34F0CAD3D33D&utm_source=rss&utm_medium=rss)
   - [Exploit for Command Injection in Paloaltonetworks Pan-Os exploit](https://sploitus.com/exploit?id=2D97D281-5B13-5B8F-AF1D-0AD944B591A6&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2017-0144 exploit](https://sploitus.com/exploit?id=43611AC2-66B9-59CD-B35B-17E15C5BC98E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-3462 exploit](https://sploitus.com/exploit?id=38C5C885-00A3-507C-B8B9-2278A7FB5341&utm_source=rss&utm_medium=rss)
@@ -310,9 +325,13 @@
 - The Verge
   - [Blue Origin successfully reused its New Glenn rocket](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket)
   - [DJI’s latest power station is proof that good things come in mini packages](https://www.theverge.com/reviews/913706/dji-mini-power-station-review-comparison)
+  - [Huawei beats Samsung and Apple to market with the first wide foldable](https://www.theverge.com/tech/914807/huawei-pura-x-max-launch-price-specs-availability)
+  - [This pasta sauce wants to record your family](https://www.theverge.com/tech/913874/prego-connection-keeper-bundle-voice-recorder-storycorps)
+  - [Vampire Survivors’ new spinoff switches genres but keeps the good vibes](https://www.theverge.com/games/913410/vampire-survivors-new-spinoff-switches-genres-but-keeps-the-good-vibes)
 - VulDB Recent Entries
   - [CVE-2024-7083 | Email Encoder Plugin up to 2.3.3 on WordPress cross site scripting](https://vuldb.com/vuln/358289)
   - [CVE-2026-31430 | Linux Kernel up to 6.6.134/6.12.81/6.18.22/6.19.12 X.509 Certificate out-of-bounds](https://vuldb.com/vuln/358297)
+  - [CVE-2026-5958 | GNU sed up to 4.9 open_next_file toctou](https://vuldb.com/vuln/358301)
   - [CVE-2026-6609 | liangliangyy DjangoBlog up to 2.1.0.0 oauth/views.py form_valid oauthid improper authorization](https://vuldb.com/vuln/358244)
   - [CVE-2026-6610 | liangliangyy DjangoBlog up to 2.1.0.0 Setting djangoblog/settings.py USER/PASSWORD hard-coded credentials](https://vuldb.com/vuln/358245)
   - [CVE-2026-6611 | liangliangyy DjangoBlog up to 2.1.0.0 File Upload Endpoint djangoblog/settings.py SECRET_KEY hard-coded key](https://vuldb.com/vuln/358246)
@@ -343,6 +362,7 @@
   - [CVE-2026-6649 | Qibo CMS 1.0 /index/image/headers starts server-side request forgery](https://vuldb.com/vuln/358283)
   - [CVE-2026-6650 | Z-BlogPHP 1.7.5 ZBA File app_upload.php App::UnPack unrestricted upload](https://vuldb.com/vuln/358284)
 - Wired
+  - [Prego Has a Dinner-Conversation-Recording Device, Capisce?](https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/)
   - [The Best Hybrid Mattresses for Couples, Back Pain, and More (2026)](https://www.wired.com/gallery/best-hybrid-mattresses/)
 - 不安全
   - [Apple Knows. Visa Knows. Nobody Has Fixed It. Here’s Why.](https://buaq.net/go-411415.html)
@@ -387,6 +407,7 @@
   - [绿盟科技当选中国网络安全产业创新发展联盟副理事长单位， 共启 “十五五” 产业发展新篇](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%bd%93%e9%80%89%e4%b8%ad%e5%9b%bd%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8%e4%ba%a7%e4%b8%9a%e5%88%9b%e6%96%b0%e5%8f%91%e5%b1%95%e8%81%94%e7%9b%9f%e5%89%af%e7%90%86/)
   - [能力升级！绿盟虚拟汽车靶场：清晰易懂，适配高校教学场景](https://blog.nsfocus.net/%e8%83%bd%e5%8a%9b%e5%8d%87%e7%ba%a7%ef%bc%81%e7%bb%bf%e7%9b%9f%e8%99%9a%e6%8b%9f%e6%b1%bd%e8%bd%a6%e9%9d%b6%e5%9c%ba%ef%bc%9a%e6%b8%85%e6%99%b0%e6%98%93%e6%87%82%ef%bc%8c%e9%80%82%e9%85%8d%e9%ab%98/)
 - 黑海洋
+  - [中东战争致能源短缺 孟加拉国恐电信瘫痪](https://blog.upx8.com/%E4%B8%AD%E4%B8%9C%E6%88%98%E4%BA%89%E8%87%B4%E8%83%BD%E6%BA%90%E7%9F%AD%E7%BC%BA-%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%E6%81%90%E7%94%B5%E4%BF%A1%E7%98%AB%E7%97%AA)
   - [云开发平台Vercel证实遭到了黑客攻击](https://blog.upx8.com/%E4%BA%91%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0Vercel%E8%AF%81%E5%AE%9E%E9%81%AD%E5%88%B0%E4%BA%86%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
   - [福特CEO透露2024年选择试驾小米SU7原因](https://blog.upx8.com/%E7%A6%8F%E7%89%B9CEO%E9%80%8F%E9%9C%B22024%E5%B9%B4%E9%80%89%E6%8B%A9%E8%AF%95%E9%A9%BE%E5%B0%8F%E7%B1%B3SU7%E5%8E%9F%E5%9B%A0)
   - [美国司法部拒绝协助法国调查社媒X公司](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E6%8B%92%E7%BB%9D%E5%8D%8F%E5%8A%A9%E6%B3%95%E5%9B%BD%E8%B0%83%E6%9F%A5%E7%A4%BE%E5%AA%92X%E5%85%AC%E5%8F%B8)
