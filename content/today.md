@@ -2,15 +2,26 @@
 
 - 2Libra
   - [Deepseek 以 100 亿美元 💵 的金额进行融资，出 3 亿的额度，真的这么便宜吗？仅为竞对的三分之一，我都在想能不能投了。](https://2libra.com/post/ai-companies/ntafn2X)
+  - [Kimi K2.6 发布！！！](https://2libra.com/post/ai-updates/TCO5cv4)
 - 404 Media
   - [Forbes Prediction Market Gamefies Story About Mass Shooting of 8 Children](https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/)
+- Ars Technica
+  - [Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent](https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/)
 - Arturo Di Corinto
   - [Disinformazione e Deepfake: la democrazia in pericolo](https://dicorinto.it/formazione/disinformazione-e-deepfake-la-democrazia-in-pericolo/)
+- daringfireball.net
+  - [Apple’s Annual Environmental Progress Report](https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/)
 - Hacker News Frontpage
+  - [At Long Last, InfoWars Is Ours](https://theonion.com/at-long-last-infowars-is-ours/)
+  - [At Long Last, InfoWars Is Ours](https://theonion.info/)
   - [Palantir Wants to Reinstate the Draft](https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/)
   - [We Accepted Surveillance as Default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
+- IEEE Spectrum
+  - [The USC Professor Who Pioneered Socially Assistive Robotics](https://spectrum.ieee.org/socially-assistive-robotics)
 - infosecurity-magazine.com
   - [ZionSiphon Malware Targets Water Infrastructure Systems](https://www.infosecurity-magazine.com/news/zionsiphon-malware-water/)
+- Linux Foundation Blogs
+  - [Navigating the Agentic AI Guardrails: Why Open Source is the Key to AI in Regulated Industries](https://www.linuxfoundation.org/blog/navigating-the-agentic-ai-guardrails-why-open-source-is-the-key-to-ai-in-regulated-industries)
 - Planet Classpath
   - [Mark Wielaard: Anticipating Valgrind 3.27.0](https://gnu.wildebeest.org/blog/mjw/2026/04/20/anticipating-valgrind-3-27-0/)
 - pluralistic.net
@@ -21,8 +32,12 @@
   - [North Korea hackers blamed for $290M crypto theft](https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/)
 - The Decoder
   - [Google builds elite team to close the coding gap with Anthropic](https://the-decoder.com/google-builds-elite-team-to-close-the-coding-gap-with-anthropic/)
+  - [Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms](https://the-decoder.com/open-weight-kimi-k2-6-takes-on-gpt-5-4-and-claude-opus-4-6-with-agent-swarms/)
 - The Verge
+  - [Deezer says AI song uploads have nearly overtaken human music](https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads)
   - [Fortnite developers can make AI characters now — just don&#8217;t try to date them](https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations)
+- wheresyoured.at
+  - [Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits](https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
