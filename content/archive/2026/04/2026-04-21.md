@@ -5,6 +5,7 @@
   - [Kimi K2.6 发布！！！](https://2libra.com/post/ai-updates/TCO5cv4)
 - 404 Media
   - [Forbes Prediction Market Gamefies Story About Mass Shooting of 8 Children](https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/)
+  - [Scientists Gave a Bunch of Salmon Cocaine. This Is What Happened Next.](https://www.404media.co/scientists-gave-a-bunch-of-salmon-cocaine-this-is-what-happened-next/)
 - Ars Technica
   - [Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent](https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/)
   - [Here's how F1 is tweaking its hybrid systems to try to save the show](https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/)
@@ -35,6 +36,7 @@
   - [Exploit for Improper Access Control in Fortinet Forticlientems exploit](https://sploitus.com/exploit?id=8020FEB3-DF5E-5D5D-8443-712494B62543&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [FAA orders investigation into Blue Origin’s New Glenn mishap](https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/)
+  - [It’s not just one thing — it’s another thing](https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/)
   - [Mastodon says its flagship server was hit by a DDoS attack](https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/)
   - [North Korea hackers blamed for $290M crypto theft](https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/)
 - The Decoder
@@ -44,6 +46,8 @@
 - The Verge
   - [Deezer says AI song uploads have nearly overtaken human music](https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads)
   - [Fortnite developers can make AI characters now — just don&#8217;t try to date them](https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations)
+  - [Google Photos adds subtle touch-up tools for faces](https://www.theverge.com/tech/915129/google-photos-image-editor-touch-up-whiten-teeth-skin-blemishes)
+  - [Japanese man sentenced to prison for posting spoilers](https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten)
   - [Mercedes’ first all-electric C-Class is its sportiest one yet](https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs)
 - VulDB Recent Entries
   - [CVE-2026-23752 | GFI HelpDesk up to 4.99.8 Groups Page companyname cross site scripting](https://vuldb.com/vuln/358347)
