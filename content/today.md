@@ -7,6 +7,7 @@
   - [Forbes Prediction Market Gamefies Story About Mass Shooting of 8 Children](https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/)
 - Ars Technica
   - [Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent](https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/)
+  - [Here's how F1 is tweaking its hybrid systems to try to save the show](https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/)
 - Arturo Di Corinto
   - [Disinformazione e Deepfake: la democrazia in pericolo](https://dicorinto.it/formazione/disinformazione-e-deepfake-la-democrazia-in-pericolo/)
 - daringfireball.net
@@ -26,6 +27,12 @@
   - [Mark Wielaard: Anticipating Valgrind 3.27.0](https://gnu.wildebeest.org/blog/mjw/2026/04/20/anticipating-valgrind-3-27-0/)
 - pluralistic.net
   - [Pluralistic: Comrade Trump (20 Apr 2026)](https://pluralistic.net/2026/04/20/praxis/)
+- Security Affairs
+  - [Scattered Spider member Tyler Buchanan pleads guilty to major crypto theft](https://securityaffairs.com/191052/cyber-crime/scattered-spider-member-tyler-buchanan-pleads-guilty-to-major-crypto-theft.html)
+- SentinelOne
+  - [Automation at Machine Speed: Rethinking Execution in Modern Cybersecurity](https://www.sentinelone.com/blog/automation-at-machine-speed-rethinking-execution-in-modern-cybersecurity/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Improper Access Control in Fortinet Forticlientems exploit](https://sploitus.com/exploit?id=8020FEB3-DF5E-5D5D-8443-712494B62543&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [FAA orders investigation into Blue Origin’s New Glenn mishap](https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/)
   - [Mastodon says its flagship server was hit by a DDoS attack](https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/)
@@ -33,11 +40,21 @@
 - The Decoder
   - [Google builds elite team to close the coding gap with Anthropic](https://the-decoder.com/google-builds-elite-team-to-close-the-coding-gap-with-anthropic/)
   - [Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms](https://the-decoder.com/open-weight-kimi-k2-6-takes-on-gpt-5-4-and-claude-opus-4-6-with-agent-swarms/)
+  - [OpenAI's Codex now watches your screen to remember what you're working on](https://the-decoder.com/openais-codex-now-watches-your-screen-to-remember-what-youre-working-on/)
 - The Verge
   - [Deezer says AI song uploads have nearly overtaken human music](https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads)
   - [Fortnite developers can make AI characters now — just don&#8217;t try to date them](https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations)
+  - [Mercedes’ first all-electric C-Class is its sportiest one yet](https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs)
+- VulDB Recent Entries
+  - [CVE-2026-23752 | GFI HelpDesk up to 4.99.8 Groups Page companyname cross site scripting](https://vuldb.com/vuln/358347)
+  - [CVE-2026-23753 | GFI HelpDesk up to 4.99.8 Languages Page SWIFT_Language::Create charset cross site scripting](https://vuldb.com/vuln/358348)
+  - [CVE-2026-23757 | GFI HelpDesk up to 4.99.9 Reports SWIFT_Report::Create report title cross site scripting](https://vuldb.com/vuln/358349)
+  - [CVE-2026-41389 | OpenClaw up to 2026.4.14 UNC File file inclusion](https://vuldb.com/vuln/358346)
 - wheresyoured.at
   - [Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits](https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/)
+- Wired
+  - [A Brief Interview With the Owner of the Hot-Air Balloon That Landed in Someone’s Backyard](https://www.wired.com/story/a-brief-interview-with-the-owner-of-the-hot-air-balloon-that-landed-in-someones-backyard/)
+  - [War Memes Are Turning Conflict Into Content](https://www.wired.com/story/war-memes-turn-conflict-into-content/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
