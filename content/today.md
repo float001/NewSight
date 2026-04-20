@@ -4,6 +4,10 @@
   - [Deepseek 以 100 亿美元 💵 的金额进行融资，出 3 亿的额度，真的这么便宜吗？仅为竞对的三分之一，我都在想能不能投了。](https://2libra.com/post/ai-companies/ntafn2X)
   - [Kimi K2.6 发布！！！](https://2libra.com/post/ai-updates/TCO5cv4)
   - [这次是关于发帖时间的疑惑](https://2libra.com/post/forum-function/Tf4A7ta)
+- 36氪
+  - [美关税退款系统上线](https://36kr.com/newsflashes/3775320091165191?f=rss)
+  - [美股三大指数小幅收跌，热门科技股多数下跌](https://36kr.com/newsflashes/3775750234276613?f=rss)
+  - [苹果公司宣布特纳斯将接替库克担任CEO](https://36kr.com/newsflashes/3775756677841413?f=rss)
 - 404 Media
   - [Forbes Prediction Market Gamefies Story About Mass Shooting of 8 Children](https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/)
   - [Scientists Gave a Bunch of Salmon Cocaine. This Is What Happened Next.](https://www.404media.co/scientists-gave-a-bunch-of-salmon-cocaine-this-is-what-happened-next/)
@@ -55,6 +59,7 @@
 - SentinelOne
   - [Automation at Machine Speed: Rethinking Execution in Modern Cybersecurity](https://www.sentinelone.com/blog/automation-at-machine-speed-rethinking-execution-in-modern-cybersecurity/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2004-2687 exploit](https://sploitus.com/exploit?id=C23FFD4E-E977-5B2D-A812-6067C16212D5&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Fortinet Forticlientems exploit](https://sploitus.com/exploit?id=8020FEB3-DF5E-5D5D-8443-712494B62543&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [FAA orders investigation into Blue Origin’s New Glenn mishap](https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/)
@@ -79,6 +84,7 @@
   - [Mercedes’ first all-electric C-Class is its sportiest one yet](https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs)
   - [Read Tim Cook&#8217;s letter to the Apple world as he departs as CEO](https://www.theverge.com/tech/915279/tim-cook-ceo-letter-apple-community)
   - [Silicon Valley has forgotten what normal people want](https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos)
+  - [The Lenovo Legion Go S is RAMageddon’s latest victim](https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon)
   - [WhatsApp tests &#8216;Plus&#8217; subscription that adds stickers and more for a few bucks a month](https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription)
 - VulDB Recent Entries
   - [CVE-2026-23752 | GFI HelpDesk up to 4.99.8 Groups Page companyname cross site scripting](https://vuldb.com/vuln/358347)
@@ -89,6 +95,7 @@
   - [Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits](https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/)
 - Wired
   - [A Brief Interview With the Owner of the Hot-Air Balloon That Landed in Someone’s Backyard](https://www.wired.com/story/a-brief-interview-with-the-owner-of-the-hot-air-balloon-that-landed-in-someones-backyard/)
+  - [A Humanoid Robot Set a Half-Marathon Record in China](https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/)
   - [Ben McKenzie Says Crypto Has a Secret Ingredient: Male Loneliness](https://www.wired.com/story/wired-at-night-event-ben-mckenzie-reads-mean-tweets/)
   - [Best Kitchen Composters and Food Recyclers (2026)](https://www.wired.com/story/home-composters-buying-guide/)
   - [War Memes Are Turning Conflict Into Content](https://www.wired.com/story/war-memes-turn-conflict-into-content/)
@@ -96,3 +103,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [科技云报到：AI云，逻辑变了吗？](https://www.anquanke.com/post/id/315337)
+- 黑海洋
+  - [苹果CEO库克将卸任 转任执行董事长](https://blog.upx8.com/%E8%8B%B9%E6%9E%9CCEO%E5%BA%93%E5%85%8B%E5%B0%86%E5%8D%B8%E4%BB%BB-%E8%BD%AC%E4%BB%BB%E6%89%A7%E8%A1%8C%E8%91%A3%E4%BA%8B%E9%95%BF)
