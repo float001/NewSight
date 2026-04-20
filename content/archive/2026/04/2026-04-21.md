@@ -3,6 +3,7 @@
 - 2Libra
   - [Deepseek 以 100 亿美元 💵 的金额进行融资，出 3 亿的额度，真的这么便宜吗？仅为竞对的三分之一，我都在想能不能投了。](https://2libra.com/post/ai-companies/ntafn2X)
   - [Kimi K2.6 发布！！！](https://2libra.com/post/ai-updates/TCO5cv4)
+  - [这次是关于发帖时间的疑惑](https://2libra.com/post/forum-function/Tf4A7ta)
 - 404 Media
   - [Forbes Prediction Market Gamefies Story About Mass Shooting of 8 Children](https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/)
   - [Scientists Gave a Bunch of Salmon Cocaine. This Is What Happened Next.](https://www.404media.co/scientists-gave-a-bunch-of-salmon-cocaine-this-is-what-happened-next/)
@@ -14,16 +15,28 @@
 - daringfireball.net
   - [Apple: ‘Tim Cook to Become Apple Executive Chairman; John Ternus to Become Apple CEO’](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
   - [Apple’s Annual Environmental Progress Report](https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/)
+  - [DF Paraphernalia: T-Shirts and Hoodies Are Back](https://store.daringfireball.net/)
+  - [‘Community Letter From Tim’](https://www.apple.com/community-letter-from-tim/)
 - darkreading
   - [Serial-to-IP Devices Hide Thousands of Old and New Bugs](https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs)
+- EFF
+  - [The Internet Still Works: Reddit Empowers Community Moderation](https://www.eff.org/deeplinks/2026/04/internet-still-works-reddit-empowers-community-moderation)
 - Hacker News Frontpage
   - [AI Resistance Is Growing](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
   - [At Long Last, InfoWars Is Ours](https://theonion.com/at-long-last-infowars-is-ours/)
   - [At Long Last, InfoWars Is Ours](https://theonion.info/)
   - [F-35 is a masterpiece built for the wrong war](https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/)
+  - [Jujutsu Megamerges for Fun and Profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
+  - [OpenAI ad partner now selling ChatGPT ad placements based on "prompt relevance"](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
   - [Palantir Wants to Reinstate the Draft](https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/)
+  - [Show HN: Docker Compose for VM's](https://github.com/zeroecco/holos)
   - [Tim Cook Stepping Down](https://www.macrumors.com/2026/04/20/tim-cook-stepping-down/)
   - [We Accepted Surveillance as Default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
+- HackerNoon
+  - [AI Isn’t The Product, Context Is](https://hackernoon.com/ai-isnt-the-product-context-is?source=rss)
+  - [How I Turned a Mess of GPUs Into a Usable Inference Platform](https://hackernoon.com/how-i-turned-a-mess-of-gpus-into-a-usable-inference-platform?source=rss)
+  - [The AI Class Wars: Hooked on the Good Stuff, Now Paying Street Prices for Claude Sonnet Juice](https://hackernoon.com/the-ai-class-wars-hooked-on-the-good-stuff-now-paying-street-prices-for-claude-sonnet-juice?source=rss)
+  - [What I Learned Vibe Coding Apps as a Non-Coder](https://hackernoon.com/what-i-learned-vibe-coding-apps-as-a-non-coder?source=rss)
 - IEEE Spectrum
   - [The USC Professor Who Pioneered Socially Assistive Robotics](https://spectrum.ieee.org/socially-assistive-robotics)
 - infosecurity-magazine.com
@@ -46,6 +59,7 @@
 - TechCrunch
   - [FAA orders investigation into Blue Origin’s New Glenn mishap](https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/)
   - [Google Photos adds new touch-up tools for ‘quick’ fixes](https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/)
+  - [Google rolls out Gemini in Chrome in seven new countries](https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/)
   - [It’s not just one thing — it’s another thing](https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/)
   - [Mastodon says its flagship server was hit by a DDoS attack](https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/)
   - [North Korea hackers blamed for $290M crypto theft](https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/)
@@ -61,7 +75,9 @@
   - [Google Photos adds subtle touch-up tools for faces](https://www.theverge.com/tech/915129/google-photos-image-editor-touch-up-whiten-teeth-skin-blemishes)
   - [Here&#8217;s how Amazon&#8217;s price fixing allegedly drove up prices everywhere](https://www.theverge.com/policy/915209/amazon-price-fixing-california-lawsuit)
   - [Japanese man sentenced to prison for posting spoilers](https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten)
+  - [John Ternus is taking over from Tim Cook as Apple&#8217;s CEO](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook)
   - [Mercedes’ first all-electric C-Class is its sportiest one yet](https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs)
+  - [Read Tim Cook&#8217;s letter to the Apple world as he departs as CEO](https://www.theverge.com/tech/915279/tim-cook-ceo-letter-apple-community)
   - [Silicon Valley has forgotten what normal people want](https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos)
   - [WhatsApp tests &#8216;Plus&#8217; subscription that adds stickers and more for a few bucks a month](https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription)
 - VulDB Recent Entries
@@ -74,6 +90,7 @@
 - Wired
   - [A Brief Interview With the Owner of the Hot-Air Balloon That Landed in Someone’s Backyard](https://www.wired.com/story/a-brief-interview-with-the-owner-of-the-hot-air-balloon-that-landed-in-someones-backyard/)
   - [Ben McKenzie Says Crypto Has a Secret Ingredient: Male Loneliness](https://www.wired.com/story/wired-at-night-event-ben-mckenzie-reads-mean-tweets/)
+  - [Best Kitchen Composters and Food Recyclers (2026)](https://www.wired.com/story/home-composters-buying-guide/)
   - [War Memes Are Turning Conflict Into Content](https://www.wired.com/story/war-memes-turn-conflict-into-content/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
