@@ -11,6 +11,7 @@
   - [刷短视频刷多了，发现一个现象，有流量的都是带情绪比较大的，只讲观点少讲事实的，也就是如果只是记录生活的视频是难有流量的，除非本身就是一个很抓马的人](https://2libra.com/post/social-observation/E7XQ91n)
   - [周末烘焙日记 🍞](https://2libra.com/post/personal-life/xiPCS3H)
   - [在某个角度，小仙女还是挺好的](https://2libra.com/post/small-things/cle30Mk)
+  - [想减肥了，有没有轻松加愉快的方式](https://2libra.com/post/sports/suQdpoj)
   - [推广一下自己的网站，希望通过](https://2libra.com/post/promotion/TySn3Lq)
   - [插眼 👀](https://2libra.com/post/forum-function/6TNacQV)
   - [最近有种想买电子手表的冲动，想知道大家买电子手表的最主要目的是什么？是选择自己手机品牌的还是什么牌子的呢？（PS：周边同事都是人手一个电子手表）](https://2libra.com/post/smart-wearable/uYog1sA)
@@ -54,6 +55,7 @@
   - [华泰证券：中期A股向上的趋势判断不变](https://36kr.com/newsflashes/3774416704815624?f=rss)
   - [华泰证券：关注新能源链、出口链等拥挤度不高的景气方向](https://36kr.com/newsflashes/3774472705245703?f=rss)
   - [华泰证券：强业绩线索中，电池、电力链拥挤度不高仍可参与](https://36kr.com/newsflashes/3774441871065607?f=rss)
+  - [印尼国家石油公司将与丰田合作开发生物乙醇](https://36kr.com/newsflashes/3774755187950337?f=rss)
   - [发改委：加大逆周期和跨周期调节力度，持续稳增长、稳就业、稳预期](https://36kr.com/newsflashes/3774384773038850?f=rss)
   - [发改委：加强新兴领域安全治理，完善人工智能相关法律法规、政策制度、应用规范、伦理准则](https://36kr.com/newsflashes/3774385992303366?f=rss)
   - [发改委：完善经济安全风险防控体系，树立底线思维和风险意识，做到居安思危、未雨绸缪](https://36kr.com/newsflashes/3774385485316867?f=rss)
@@ -65,7 +67,9 @@
   - [地产一哥业绩“大洗澡”，舍利润稳保现金流](https://36kr.com/p/3774684111634953?f=rss)
   - [央行公开市场开展5亿元7天期逆回购操作](https://36kr.com/newsflashes/3774483120423431?f=rss)
   - [头部基金密集捧场港股IPO，或将开启新布局窗口](https://36kr.com/newsflashes/3774418646631177?f=rss)
+  - [宇树科技机器狗外观设计专利获授权](https://36kr.com/newsflashes/3774666611720705?f=rss)
   - [宗馥莉近日在上海成立两家新公司](https://36kr.com/newsflashes/3774602272227841?f=rss)
+  - [小马智行：已在迪拜开启无人化Robotaxi测试](https://36kr.com/newsflashes/3774717704307465?f=rss)
   - [工信部等部门召开光伏行业座谈会](https://36kr.com/newsflashes/3774451538133767?f=rss)
   - [市场监管总局无条件批准中国华润有限公司收购北京航天医疗有限公司股权案](https://36kr.com/newsflashes/3774557713351426?f=rss)
   - [年内公募机构新发产品规模近3200亿元](https://36kr.com/newsflashes/3774416216769286?f=rss)
@@ -74,12 +78,17 @@
   - [我国持续完善人工智能、大数据等新兴领域知识产权保护制度](https://36kr.com/newsflashes/3774617859277320?f=rss)
   - [摩根士丹利：预计中国股市到年底将有约5-10%的温和上行空间](https://36kr.com/newsflashes/3774473708470787?f=rss)
   - [政策周期业绩三重共振，高景气赛道公募持仓集中度抬升](https://36kr.com/newsflashes/3774434777334531?f=rss)
+  - [日本央行报告：物价上涨开始挤压日本家庭](https://36kr.com/newsflashes/3774729112240898?f=rss)
   - [日本进口车销量7年来首增，日媒：中国电动汽车销量明显增加](https://36kr.com/newsflashes/3774491333247746?f=rss)
   - [机器人ToB规模化提速，数据短板仍是核心卡点](https://36kr.com/newsflashes/3774391299949064?f=rss)
   - [机器人ToB规模化提速，数据短板仍是核心卡点](https://36kr.com/newsflashes/3774441465709064?f=rss)
   - [欣旺达动力在广州成立低空产业发展公司](https://36kr.com/newsflashes/3774601867723525?f=rss)
   - [氢能产业迈向规模化发展阶段，四大行业上市公司加速“跑马圈地”](https://36kr.com/newsflashes/3774456071291397?f=rss)
   - [沪深两市成交额突破1万亿](https://36kr.com/newsflashes/3774534075040263?f=rss)
+  - [沪深两市成交额突破2万亿元](https://36kr.com/newsflashes/3774735972270853?f=rss)
+  - [泰国寻求三家美国半导体企业赴泰投资](https://36kr.com/newsflashes/3774667358503683?f=rss)
+  - [海南：扩大岛内居民免税购物种类，推动免税商品通过跨境电商拓展至岛外](https://36kr.com/newsflashes/3774708934967809?f=rss)
+  - [海南：提升航天产业全链条技术服务](https://36kr.com/newsflashes/3774709222900228?f=rss)
   - [深交所：将诺比侃调入港股通标的证券名单](https://36kr.com/newsflashes/3774447611020040?f=rss)
   - [激活增长新动能，重大工程项目牵引投资回升](https://36kr.com/newsflashes/3774356827980550?f=rss)
   - [灵光发布新一代闪应用“灵光圈”](https://36kr.com/newsflashes/3774533738906375?f=rss)
@@ -90,9 +99,11 @@
   - [竞速赛落幕，机器人产业ESG迎来具身智能新命题](https://36kr.com/newsflashes/3774396602663689?f=rss)
   - [美发射翻新“新格伦”运载火箭并成功回收一级箭体](https://36kr.com/newsflashes/3773866199466503?f=rss)
   - [美国航空驳斥与美联航的合并谈判](https://36kr.com/newsflashes/3774442240656133?f=rss)
+  - [美媒：中国从“世界工厂”成功转型为“世界市场”](https://36kr.com/newsflashes/3774746984415752?f=rss)
   - [美联储4月维持利率不变的概率为99.5%](https://36kr.com/newsflashes/3774347781095940?f=rss)
   - [美蓝色起源发射任务受挫，搭载卫星未入预定轨道](https://36kr.com/newsflashes/3774530015003145?f=rss)
   - [自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家](https://36kr.com/p/3774502008963841?f=rss)
+  - [艾梵达Aveda押注“微酵护发”，雅诗兰黛集团加码高端护发赛道｜最前线](https://36kr.com/p/3774625128481539?f=rss)
   - [英调查：近三成英国年轻人选择“回巢”](https://36kr.com/newsflashes/3774351988310534?f=rss)
   - [谷歌正与Marvell Technology洽谈开发两款新芯片](https://36kr.com/newsflashes/3774367149392643?f=rss)
   - [贵州茅台盘中股价反超源杰科技，重新成为A股“一哥”](https://36kr.com/newsflashes/3774566330335747?f=rss)
@@ -100,6 +111,7 @@
   - [金饰克价跌至1460元](https://36kr.com/newsflashes/3774513061396998?f=rss)
   - [阿联酋与美国就潜在金融援助方案进行磋商](https://36kr.com/newsflashes/3774411452023557?f=rss)
   - [隆基绿能在广西成立源储未来新能源公司](https://36kr.com/newsflashes/3774544295838215?f=rss)
+  - [马克·古尔曼：内存短缺可能导致苹果两款Mac新品推迟发售](https://36kr.com/newsflashes/3774729581412865?f=rss)
   - [马斯克希望太空探索技术公司SpaceX纳入主流股指成分股](https://36kr.com/newsflashes/3774349977305863?f=rss)
   - [高盛：需求降温叠加供应变数，2026年油价前景存在双向风险](https://36kr.com/newsflashes/3774418016846343?f=rss)
 - abortretry.fail
@@ -122,12 +134,17 @@
 - HackerNews
   - [äšŒĺ…‹ĺ…°čŻĺŽžç–‘äźź APT28 çť„çť‡é’ˆĺŻšćŁ€ĺŻŸĺŽ˜ĺŠĺč…č´Ľćœşćž„çš„ć”ťĺ‡ťć´ťĺŠ¨](http://0.0.0.0:8080/post/64139)
   - [ĺ‹’ç´˘č˝Żäťść”ťĺ‡ťćŒçť­ć‰°äšąäźŚć•ŚĺŒťç–—çłťçťŸčż‘ 2 ĺš´](http://0.0.0.0:8080/post/64140)
+- ICT Security Magazine
+  - [I cavi sottomarini: tra Mediterraneo e Baltico](https://www.ictsecuritymagazine.com/articoli/cavi-sottomarini-mediterraneo-baltico/)
 - InfoSec Write-ups - Medium
   - [Apna Hacker Lab Setup Karo Kali Linux + VirtualBox + Burp Suite (Hinglish Mein)](https://infosecwriteups.com/apna-hacker-lab-setup-karo-kali-linux-virtualbox-burp-suite-hinglish-mein-59a3adb74b97?source=rss----7b722bfd1b8d---4)
   - [Beyond Good Faith: How AI exploits the “Authorization Gap” by shattering the illusion of human…](https://infosecwriteups.com/beyond-good-faith-how-ai-exploits-the-authorization-gap-by-shattering-the-illusion-of-human-c0384469b530?source=rss----7b722bfd1b8d---4)
   - [How to Get Started with Cybersecurity and Ethical Hacking](https://infosecwriteups.com/how-to-get-started-with-cybersecurity-and-ethical-hacking-5f8147d92970?source=rss----7b722bfd1b8d---4)
 - joanwestenberg.com
   - [How we lost the living Now](https://www.joanwestenberg.com/how-we-lost-the-living-now/)
+- rtl-sdr.com
+  - [Setting up a MastChain AIS Tracking System](https://www.rtl-sdr.com/setting-up-a-mastchain-ais-tracking-system/)
+  - [Tactical_FSK_Modem: An Open Source MFSK Image & Text Modem for PC and Android](https://www.rtl-sdr.com/tactical_fsk_modem-an-open-source-mfsk-image-text-modem-for-pc-and-android/)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Monday, April 20th, 2026 https://isc.sans.edu/podcastdetail/9898, (Mon, Apr 20th)](https://isc.sans.edu/diary/rss/32912)
 - simonwillison.net
@@ -136,6 +153,7 @@
   - [SQL functions in Google Sheets to fetch data from Datasette](https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Command Injection in Paloaltonetworks Pan-Os exploit](https://sploitus.com/exploit?id=2D97D281-5B13-5B8F-AF1D-0AD944B591A6&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2017-0144 exploit](https://sploitus.com/exploit?id=43611AC2-66B9-59CD-B35B-17E15C5BC98E&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Resource Shutdown or Release in Apache Http_Server exploit](https://sploitus.com/exploit?id=556687CB-7B66-53C5-A79C-84B0ED753C7E&utm_source=rss&utm_medium=rss)
   - [Exploit for Special Element Injection in Apache Apisix exploit](https://sploitus.com/exploit?id=FA95D19B-D3C0-5E81-9781-CFB286B3F87C&utm_source=rss&utm_medium=rss)
   - [linux-exploit-suggester-2 exploit](https://sploitus.com/exploit?id=B8ABD20F-D325-54DB-A4F2-188F38087514&utm_source=rss&utm_medium=rss)
@@ -176,6 +194,9 @@
   - [CVE-2026-6634 | usememos up to 0.22.1 UpdateInstanceSetting src/App.tsx memos_access_token additionalStyle/additionalScript improper authorization](https://vuldb.com/vuln/358268)
   - [CVE-2026-6635 | rowboatlabs rowboat up to 0.1.67 tools_webhook app.py tool_call X-Tools-JWE improper authentication](https://vuldb.com/vuln/358269)
   - [CVE-2026-6636 | p2r3 convert up to 6998584ace3e11db66dff0b423612a5cf91de75b API buildCache.js Bun.serve pathname path traversal](https://vuldb.com/vuln/358270)
+  - [CVE-2026-6648 | Qibo CMS 1.0 Internal Message cross site scripting](https://vuldb.com/vuln/358282)
+  - [CVE-2026-6649 | Qibo CMS 1.0 /index/image/headers starts server-side request forgery](https://vuldb.com/vuln/358283)
+  - [CVE-2026-6650 | Z-BlogPHP 1.7.5 ZBA File app_upload.php App::UnPack unrestricted upload](https://vuldb.com/vuln/358284)
 - 不安全
   - [Securing Embodied AI: A Technical White Paper on Humanoid Robots](https://buaq.net/go-411363.html)
   - [华擎联合英特尔推出单通道内存技术 在不影响性能的前提下压缩内存条价格](https://buaq.net/go-411356.html)
@@ -183,6 +204,11 @@
   - [美国司法部拒绝协助法国调查社媒X公司](https://buaq.net/go-411351.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [nc: unknown option -X](https://dyrnq.com/nc-unknown-option-x/)
+- 奇客Solidot–传递最新科技情报
+  - [欧盟推动远程办公以缓解能源危机](https://www.solidot.org/story?sid=84090)
+  - [蚂蚁也有清洁工](https://www.solidot.org/story?sid=84089)
 - 爱范儿
   - [假如应用也可以像朋友圈一样传播？](https://www.ifanr.com/1662788?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜受内存影响，新MacBook发布或延期/北京机器人半马落幕，冠军打破人类纪录/微信朋友圈迎14周年，官方分享内部细节](https://www.ifanr.com/1662838?utm_source=rss&utm_medium=rss&utm_campaign=)
