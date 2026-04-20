@@ -9,6 +9,7 @@
   - [【读书笔记】拜读《美国反对美国》：三十年前的神作](https://2libra.com/post/good-books/9R6P5eL)
   - [【💰】接下来几个月务必更新你的所有软件](https://2libra.com/post/network-security/i99etl7)
   - [【💰】送你一份光鸭云盘会员，畅享 500T 空间，极速云添加，下载不限速](https://2libra.com/post/deal-hunter/eSBcpVF)
+  - [下周热闹了，Deepseek V4，kimi 2.6 ，GLM5.2 等都要发布。AI 大战，唉，未来咋办呀](https://2libra.com/post/ai-updates/y7Hv5wG)
   - [今天凌晨用手机上 2 站，后来发现其实是梦](https://2libra.com/post/forum-function/cG-x1D5)
   - [今天早上被追尾了，有问题咨询](https://2libra.com/post/small-things/uKQX-4d)
   - [刚发现的 macOS 终端小技巧——合并窗口和重命名标签页](https://2libra.com/post/usage-tips/KGoP--O)
@@ -220,6 +221,8 @@
   - [Hitachi Ltd, Part II](https://www.abortretry.fail/p/hitachi-ltd-part-ii)
 - Articles | InfoStealers
   - [Breaking: Vercel Breach Linked to Infostealer Infection at Context.ai](https://www.infostealers.com/article/breaking-vercel-breach-linked-to-infostealer-infection-at-context-ai/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#915947: SGLang is vulnerable to remote code execution when rendering chat templates from a model file](https://kb.cert.org/vuls/id/915947)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Critical Remote Code Execution Vulnerability in Windows Internet Key Exchange (IKE) Service (CVE-2026-33824)](https://cxsecurity.com/issue/WLB-2026040013)
 - daringfireball.net
@@ -230,11 +233,13 @@
 - defend.network
   - [Daily Threat Briefing – April 20, 2026](https://defend.network/briefings/defender-zero-day-service-account-breach-2026-04-20.html)
 - Hacker News Frontpage
+  - [All phones sold in the EU to have replaceable batteries from 2027](https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/)
   - [Banned by Anthropic](https://bannedbyanthropic.com/)
   - [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
   - [MAGA Is Winning Its War Against U.S. Science](https://paulkrugman.substack.com/p/maga-is-winning-its-war-against-us)
   - [PM Carney declares U.S. ties now a 'weakness' in address to Canadians](https://www.ctvnews.ca/politics/article/pm-carney-declares-us-ties-now-a-weakness-in-address-to-canadians/)
   - [Reminder: Enable ZRAM on your Linux system to optimize RAM usage](https://www.cnx-software.com/2026/04/15/reminder-enable-zram-on-your-linux-system-to-optimize-ram-usage/)
+  - [Show HN: Saunas lower nighttime heart rate more than exercise (n=59,000)](https://tryterra.co/research/sauna-effect-on-heart-rate)
   - [Swiss authorities want to reduce dependency on Microsoft](https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532)
   - [Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)](https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html)
   - [Uber's AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
@@ -275,6 +280,8 @@
   - [NCSC Outlines Coordinated Plan to Boost NHS Cyber Resilience](https://www.infosecurity-magazine.com/news/ncsc-plan-boost-nhs-cyber/)
 - joanwestenberg.com
   - [How we lost the living Now](https://www.joanwestenberg.com/how-we-lost-the-living-now/)
+- johndcook.com
+  - [More on Newton’s diameter theorem](https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/)
 - MIT Technology Review
   - [The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles](https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/)
 - NVIDIA AI Blog
@@ -294,6 +301,7 @@
   - [FakeWallet crypto stealer spreading through iOS apps in the App Store](https://securelist.com/fakewallet-cryptostealer-ios-app-store-2/119482/)
 - Security Affairs
   - [AI Model Claude Opus turns bugs into exploits for just $2,283](https://securityaffairs.com/191018/ai/ai-model-claude-opus-turns-bugs-into-exploits-for-just-2283.html)
+  - [CVE-2023-33538 under attack for a year, but exploitation still unsuccessful](https://securityaffairs.com/191040/hacking/cve-2023-33538-under-attack-for-a-year-but-exploitation-still-unsuccessful.html)
 - shkspr.mobi
   - [Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★](https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/)
 - simonwillison.net
@@ -317,15 +325,20 @@
   - [Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch](https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/)
   - [OpenAI’s existential questions](https://techcrunch.com/2026/04/19/openais-existential-questions/)
   - [Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures](https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/)
+  - [Rivian’s factory hit by tornado ahead of R2 launch](https://techcrunch.com/2026/04/20/rivians-factory-hit-by-tornado-ahead-of-r2-launch/)
   - [Robots beat human records at Beijing half-marathon](https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/)
   - [TechCrunch Mobility: Uber enters its assetmaxxing era](https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/)
   - [The 12-month window](https://techcrunch.com/2026/04/19/the-12-month-window/)
 - The Decoder
+  - [Google plans nearly two million new AI chips as it turns to Marvell for custom designs](https://the-decoder.com/google-plans-nearly-two-million-new-ai-chips-as-it-turns-to-marvell-for-custom-designs/)
+  - [Humanoid robots outrun humans at Beijing's second robot half marathon](https://the-decoder.com/humanoid-robots-outrun-humans-at-beijings-second-robot-half-marathon/)
+  - [Salesforce bets on "Agent Albert" to prove AI won't kill enterprise software](https://the-decoder.com/salesforce-bets-on-agent-albert-to-prove-ai-wont-kill-enterprise-software/)
   - [The NSA is using Anthropic's most powerful AI model Mythos](https://the-decoder.com/the-nsa-is-using-anthropics-most-powerful-ai-model-mythos/)
 - The Verge
   - [Blue Origin successfully reused its New Glenn rocket](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket)
   - [DJI’s latest power station is proof that good things come in mini packages](https://www.theverge.com/reviews/913706/dji-mini-power-station-review-comparison)
   - [Huawei beats Samsung and Apple to market with the first wide foldable](https://www.theverge.com/tech/914807/huawei-pura-x-max-launch-price-specs-availability)
+  - [The Elden Ring movie hits theaters in March 2028](https://www.theverge.com/entertainment/914818/elden-ring-movie-date-cast)
   - [This pasta sauce wants to record your family](https://www.theverge.com/tech/913874/prego-connection-keeper-bundle-voice-recorder-storycorps)
   - [Vampire Survivors’ new spinoff switches genres but keeps the good vibes](https://www.theverge.com/games/913410/vampire-survivors-new-spinoff-switches-genres-but-keeps-the-good-vibes)
 - VulDB Recent Entries
