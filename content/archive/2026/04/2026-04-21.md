@@ -8,6 +8,8 @@
   - [Kimi K2.6 发布！！！](https://2libra.com/post/ai-updates/TCO5cv4)
   - [“猛兽”也要退役了](https://2libra.com/post/game-discussion/OBQEYo7)
   - [【庸 AI 自扰】医院「一分钟游」](https://2libra.com/post/health-consultation/aypLT2O)
+  - [【💰】【投票】api 文档编辑器暂时出了一版, 先部署在了腾讯云的 EO 上面, api 的调试可能调试不了, 正式版应该没有这个问题, 发出来主要是让兄弟们给提提意见 🤡](https://2libra.com/post/personal-works/VD7KY82)
+  - [办公键盘求推荐](https://2libra.com/post/computers-accessories/HQcpPnd)
   - [厨子要卸任 CEO 了，苹果未来何去何从](https://2libra.com/post/tech-news/GNt-ph1)
   - [奥特曼重置额度了，昨天还在小心翼翼的省着用，今天发现额度重置了](https://2libra.com/post/forum-function/Hkiv9_y)
   - [如何提高自己的输出能力呢？](https://2libra.com/post/workplace-stories/Wv9aUBE)
@@ -21,6 +23,7 @@
   - [空闲时间](https://2libra.com/post/personal-life/zkVLzqk)
   - [还有哪些获取国内节假日的 API](https://2libra.com/post/api/MPgcCdl)
   - [这次是关于发帖时间的疑惑](https://2libra.com/post/forum-function/Tf4A7ta)
+  - [骑驴找 🐎 尴尬事](https://2libra.com/post/job-hunting/z8_wTFj)
 - 36氪
   - [*ST太和：因涉嫌信披违规被证监会立案](https://36kr.com/newsflashes/3775330567930369?f=rss)
   - [4月以来机构调研270家公司](https://36kr.com/newsflashes/3775752708178689?f=rss)
@@ -65,8 +68,10 @@
   - [华泰证券：地缘扰动下，继续推荐货运铁路、集运、快递](https://36kr.com/newsflashes/3775844801544963?f=rss)
   - [华泰证券：量价边际改善，关注地产股布局机遇](https://36kr.com/newsflashes/3775834345898503?f=rss)
   - [协鑫集成：公司的钙钛矿叠层产品正处于研发阶段，尚未实现量产](https://36kr.com/newsflashes/3776088708252165?f=rss)
+  - [博纳影业在上海成立影视科技新公司](https://36kr.com/newsflashes/3776283606795013?f=rss)
   - [印度与韩国拟深化经济合作，力争双边贸易额翻倍至500亿美元](https://36kr.com/newsflashes/3775844450894598?f=rss)
   - [印度贸易代表团本周将抵达美国商讨贸易协议](https://36kr.com/newsflashes/3775843795878401?f=rss)
+  - [取消电动车项目后，索尼本田移动将缩减运营规模、另寻业务方向](https://36kr.com/newsflashes/3776252538143493?f=rss)
   - [受益PCB扩产潮，设备厂商一季度业绩大增](https://36kr.com/newsflashes/3775829979644673?f=rss)
   - [可转债“破面”频现，信用风险须警惕](https://36kr.com/newsflashes/3775835183235590?f=rss)
   - [启明创投“先拿壳再装资产”，VC/PE探路退出新模式](https://36kr.com/newsflashes/3775876032889606?f=rss)
@@ -88,12 +93,16 @@
   - [工信部：正在开展算电协同政策研究和标准制定](https://36kr.com/newsflashes/3775954067702273?f=rss)
   - [市场消息：PIXVERSE计划在香港上市](https://36kr.com/newsflashes/3776196231643648?f=rss)
   - [年报季透视A股：逾1700家上市公司拟分红](https://36kr.com/newsflashes/3775751230702341?f=rss)
+  - [微信：韩国、斯里兰卡、泰国、马来西亚、新加坡的国家码接入微信支付](https://36kr.com/newsflashes/3776287315837696?f=rss)
   - [德国商业银行正式拒绝裕信银行敌意收购策略，收购战言辞交锋升级](https://36kr.com/newsflashes/3775835671315203?f=rss)
   - [恒指午间休盘涨0.13%，恒生科技指数跌0.74%](https://36kr.com/newsflashes/3776056140448519?f=rss)
   - [恒指开盘涨0.31%，胜宏科技上市首日高开57.23%](https://36kr.com/newsflashes/3775899137737225?f=rss)
   - [我国智能算力规模达1882EFLOPS](https://36kr.com/newsflashes/3776210058658313?f=rss)
+  - [截至2025年底，SpaceX总资产为920亿美元](https://36kr.com/newsflashes/3776242603311874?f=rss)
   - [截至3月底，全国5G基站总数已达495.8万个](https://36kr.com/newsflashes/3775955093422599?f=rss)
+  - [摩根大通力争今年获批在华推出主动型ETF](https://36kr.com/newsflashes/3776241215308289?f=rss)
   - [文件显示通用汽车为新产品主管提供4000万美元薪酬方案](https://36kr.com/newsflashes/3775807094571524?f=rss)
+  - [文件：马斯克和内部人士将在IPO后保留对SpaceX的投票控制权](https://36kr.com/newsflashes/3776239839838722?f=rss)
   - [日本突发7.4级地震，影响多家半导体公司](https://36kr.com/newsflashes/3775333952865024?f=rss)
   - [星巴克中国回应开放加盟传闻：不实信息](https://36kr.com/newsflashes/3776043801953027?f=rss)
   - [景气度“光”芒四射，基金经理把握光通信投资机会](https://36kr.com/newsflashes/3775845469749765?f=rss)
@@ -105,6 +114,7 @@
   - [消息人士：SpaceX 本周举办为期三天的分析师会议，积极拉拢华尔街备战IPO](https://36kr.com/newsflashes/3776059346125569?f=rss)
   - [淡马锡支持的CuspAI据悉正洽谈融资，估值将超10亿美元](https://36kr.com/newsflashes/3775331981509120?f=rss)
   - [滴滴成为香港引进办重点企业，两地乘客可顺畅使用同一个App](https://36kr.com/newsflashes/3775980135793415?f=rss)
+  - [猛士汽车携手华为乾崑发布智能越野黑科技](https://36kr.com/newsflashes/3776274756387586?f=rss)
   - [猪价开启“回暖”模式，5家公司去年净利润超1亿元](https://36kr.com/newsflashes/3775854890123776?f=rss)
   - [理想汽车宣布首发高德汽车出行AI Agent](https://36kr.com/newsflashes/3776210798199556?f=rss)
   - [理想汽车将与高德在座舱Agent进行深入合作](https://36kr.com/newsflashes/3775981216547328?f=rss)
@@ -120,6 +130,7 @@
   - [股价“一”字跌停，液冷龙头股英维克回应](https://36kr.com/newsflashes/3776014356775430?f=rss)
   - [股票私募连续四周加仓 仓位指数升至82.16%](https://36kr.com/newsflashes/3775893342470917?f=rss)
   - [自然资源部：推进战略性矿产资源增储上产](https://36kr.com/newsflashes/3775808966902278?f=rss)
+  - [航旅纵横致歉：部分功能出现使用异常，正全力抢修](https://36kr.com/newsflashes/3776251538194950?f=rss)
   - [苹果公司宣布特纳斯将接替库克担任CEO](https://36kr.com/newsflashes/3775756677841413?f=rss)
   - [谷歌据悉组建团队以改进AI编程模型](https://36kr.com/newsflashes/3775327152669190?f=rss)
   - [谷歌：Chrome浏览器的Gemini功能将扩展至更多亚太地区国家](https://36kr.com/newsflashes/3775899763311107?f=rss)
@@ -127,11 +138,14 @@
   - [赣锋锂业在甘肃成立锋桥新能源公司](https://36kr.com/newsflashes/3776027574043392?f=rss)
   - [速腾聚创发布“创世”架构及双旗舰芯片](https://36kr.com/newsflashes/3776005578752515?f=rss)
   - [锂矿股逆势活跃，天齐锂业逼近涨停](https://36kr.com/newsflashes/3775925030683136?f=rss)
+  - [长安汽车朱华荣：2030年公司年产销目标400万辆，新能源占比超60%](https://36kr.com/newsflashes/3776255559500291?f=rss)
+  - [长安汽车朱华荣：2030年力争实现营收6000亿元](https://36kr.com/newsflashes/3776262610273028?f=rss)
   - [雅诗兰黛据悉为收购Puig寻求50亿欧元融资](https://36kr.com/newsflashes/3776173441188355?f=rss)
   - [霍华德・马克斯：眼下便宜股票极少，“好货只在人们恐慌时才出现”](https://36kr.com/newsflashes/3775866377913093?f=rss)
   - [韩国电动汽车累计注册量突破100万](https://36kr.com/newsflashes/3776194148057603?f=rss)
   - [飞猪：五一期间，江苏包车游预订量同比增长45%](https://36kr.com/newsflashes/3775967599493640?f=rss)
   - [香港金发局：已有美资基金在港设点 态度较去年更开放](https://36kr.com/newsflashes/3775867569799937?f=rss)
+  - [马斯克去年增持14亿美元SpaceX股份](https://36kr.com/newsflashes/3776260685071109?f=rss)
   - [马斯克缺席法国检方听证会](https://36kr.com/newsflashes/3775799051928073?f=rss)
   - [高瓴据悉拟为新基金募集80亿美元，包括接洽外部投资者及动用自有资金](https://36kr.com/newsflashes/3776013542605321?f=rss)
   - [高盛分析师：苹果扫货内存不会压垮其利润率，2026年iPhone将出货2.4EB LPDDR5](https://36kr.com/newsflashes/3776149411037959?f=rss)
@@ -158,6 +172,8 @@
   - [Daily Threat Briefing – April 21, 2026](https://defend.network/briefings/critical-ai-rce-apt-supply-chain-2026-04-21.html)
 - EFF
   - [The Internet Still Works: Reddit Empowers Community Moderation](https://www.eff.org/deeplinks/2026/04/internet-still-works-reddit-empowers-community-moderation)
+- ElcomSoft blog
+  - [Low-Level Extraction for M-Series iPads](https://blog.elcomsoft.com/2026/04/low-level-extraction-for-m-series-ipads/)
 - Hacker News Frontpage
   - [A Roblox cheat and one AI tool brought down Vercel's platform](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
   - [AI Resistance Is Growing](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
@@ -188,6 +204,9 @@
   - [The USC Professor Who Pioneered Socially Assistive Robotics](https://spectrum.ieee.org/socially-assistive-robotics)
 - InfoSec Write-ups - Medium
   - [Curl Is More Than a Downloader. It’s a Weapon.](https://infosecwriteups.com/curl-is-more-than-a-downloader-its-a-weapon-665d471da63f?source=rss----7b722bfd1b8d---4)
+  - [How I Found an Exposed Google Maps API Key in a Production Config File](https://infosecwriteups.com/how-i-found-an-exposed-google-maps-api-key-in-a-production-config-file-53453b909521?source=rss----7b722bfd1b8d---4)
+  - [How I Found and Bypassed a Newsletter Confirmation System (IDOR).](https://infosecwriteups.com/how-i-found-and-bypassed-a-newsletter-confirmation-system-idor-4698d1012317?source=rss----7b722bfd1b8d---4)
+  - [SSRF Server-Side Request Forgery: Server Ko Apna Agent Banao, Internal Network Explore Karo!](https://infosecwriteups.com/ssrf-server-side-request-forgery-server-ko-apna-agent-banao-internal-network-explore-karo-4b48abb86e34?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [ZionSiphon Malware Targets Water Infrastructure Systems](https://www.infosecurity-magazine.com/news/zionsiphon-malware-water/)
 - Linux Foundation Blogs
@@ -201,8 +220,10 @@
 - Product Hunt
   - [Fabi](https://www.producthunt.com/products/fabi)
 - SANS Internet Storm Center, InfoCON: green
+  - [A .WAV With A Payload, (Tue, Apr 21st)](https://isc.sans.edu/diary/rss/32910)
   - [ISC Stormcast For Tuesday, April 21st, 2026 https://isc.sans.edu/podcastdetail/9900, (Tue, Apr 21st)](https://isc.sans.edu/diary/rss/32916)
 - Security Affairs
+  - [Bluesky hit by 24-hour DDoS attack as pro-Iran group claims responsibility](https://securityaffairs.com/191059/security/bluesky-hit-by-24-hour-ddos-attack-as-pro-iran-group-claims-responsibility.html)
   - [France’s ANTS ID System website hit by cyberattack, possible data breach](https://securityaffairs.com/191069/data-breach/frances-ants-id-system-website-hit-by-cyberattack-possible-data-breach.html)
   - [Scattered Spider member Tyler Buchanan pleads guilty to major crypto theft](https://securityaffairs.com/191052/cyber-crime/scattered-spider-member-tyler-buchanan-pleads-guilty-to-major-crypto-theft.html)
 - SentinelOne
@@ -310,9 +331,13 @@
   - [War Memes Are Turning Conflict Into Content](https://www.wired.com/story/war-memes-turn-conflict-into-content/)
 - 不安全
   - [Curl Is More Than a Downloader. It’s a Weapon.](https://buaq.net/go-411647.html)
+  - [Deezer 称 44% 的新上传音乐是 AI 生成的](https://buaq.net/go-411666.html)
+  - [SSRF Server-Side Request Forgery: Server Ko Apna Agent Banao, Internal Network Explore Karo!](https://buaq.net/go-411661.html)
+  - [微软与SpeedTest加深合作在Windows 11里集成网速测试 但配图是macOS](https://buaq.net/go-411669.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Deezer 称 44% 的新上传音乐是 AI 生成的](https://www.solidot.org/story?sid=84103)
   - [洋葱新闻再次达成协议接管阴谋论网站 Infowars](https://www.solidot.org/story?sid=84101)
 - 安全客
   - [科技云报到：AI云，逻辑变了吗？](https://www.anquanke.com/post/id/315337)
