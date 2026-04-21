@@ -5,21 +5,34 @@
 - Blog - Praetorian
   - [500,000 Vulnerabilities, 14 That Matter: How Exploit Chain Analysis Cuts Through the Noise](https://www.praetorian.com/blog/exploit-chain-analysis/)
 - Hacker News Frontpage
+  - [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
   - [Show HN: Daemons – we pivoted from building agents to cleaning up after them](https://charlielabs.ai/)
+  - [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
 - HackerNoon
   - [The FBI Got Hacked. Here's What That Actually Means](https://hackernoon.com/the-fbi-got-hacked-heres-what-that-actually-means?source=rss)
 - IEEE Spectrum
   - [What to Consider Before You Accept a Management Role](https://spectrum.ieee.org/ic-or-manager)
 - infosecurity-magazine.com
   - [Trojanized Android App Fuels New Wave of NFC Fraud](https://www.infosecurity-magazine.com/news/trojanized-android-handle-nfc/)
+- MIT Technology Review
+  - [Building agent-first governance and security](https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/)
 - simonwillison.net
   - [Quoting Andreas Påhlsson-Notini](https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Improper Input Validation in Apache Tomcat exploit](https://sploitus.com/exploit?id=D28B72BF-5625-5AF2-BDC3-AE7C8D56C46C&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [A look at Tim Cook’s 15-year legacy as CEO of Apple](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/)
   - [AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs](https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/)
+  - [Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says](https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/)
   - [Former Pinterest team redesigns email with Extra — and it’s actually good](https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/)
 - The Verge
+  - [Celebrities will be able to find and request removal of AI deepfakes on YouTube](https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube)
   - [Dyson’s newest floor scrubber is already on sale for 20 percent off](https://www.theverge.com/gadgets/915137/dyson-clean-wash-hygiene-wet-cleaner-hades-2-deal-nintendo-sale)
+  - [Govee’s new rechargeable table lamp is less than half the price of Hue’s](https://www.theverge.com/tech/915959/govee-table-smart-lamp-classic-battery-rechargeable-matter-pricing)
   - [Ordering with the Starbucks ChatGPT app was a true coffee nightmare](https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing)
+  - [The AirPods are Tim Cook’s most underrated achievement](https://www.theverge.com/tech/916031/tim-cook-apple-airpods-legacy)
+  - [The Mac is in good hands in Apple’s post-Cook era](https://www.theverge.com/tech/915896/john-ternus-apple-ceo-tim-cook-johny-srouji-mac-future)
+  - [Twelve South’s magnetic PowerBug charger is down to just $35](https://www.theverge.com/gadgets/915978/twelve-south-powerbug-deal-sale)
 - VulDB Recent Entries
   - [CVE-2017-20230 | NWCLARK Storable up to 3.04 on Perl retrieve_hook stack-based overflow (Issue 15831)](https://vuldb.com/vuln/358504)
   - [CVE-2025-10354 | Semantic MediaWiki 5.0.2 URL Speciaal:GefacetteerdZoeken cross site scripting](https://vuldb.com/vuln/358495)
@@ -27,13 +40,30 @@
   - [CVE-2025-31981 | HCL BigFix Service Management 23 Discovery cleartext transmission (KB0127605)](https://vuldb.com/vuln/358498)
   - [CVE-2025-41011 | PHP Point of Sale 19.4 specific_customer start_date_formatted/end_date_formatted cross site scripting](https://vuldb.com/vuln/358496)
   - [CVE-2025-41029 | Zeon Global Tech Zeon Academy Pro POST Request continue-upload.php phonenumber sql injection](https://vuldb.com/vuln/358494)
+  - [CVE-2026-21571 | Atlassian Bamboo Data Center up to 9.6.24/10.2.17/12.1.5 Release Note os command injection](https://vuldb.com/vuln/358527)
+  - [CVE-2026-24176 | NVIDIA KAI Scheduler authorization](https://vuldb.com/vuln/358514)
+  - [CVE-2026-25542 | tektoncd pipeline up to 1.11.0 incorrect regex](https://vuldb.com/vuln/358513)
+  - [CVE-2026-26067 | October CMS up to 3.7.13/4.1.9 CSS Preprocessor File authorization](https://vuldb.com/vuln/358515)
+  - [CVE-2026-27937 | October CMS up to 3.7.15/4.1.15 DataTable Widget cross site scripting](https://vuldb.com/vuln/358516)
+  - [CVE-2026-30452 | Textpattern CMS 4.9.0 txp_article.php duplicate-and-save article ID access control](https://vuldb.com/vuln/358518)
   - [CVE-2026-31013 | Softwares ADPhonebook up to 4.0.1.0 ADPhonebook?Department=HR Search cross site scripting](https://vuldb.com/vuln/358501)
   - [CVE-2026-31014 | Dovestones AD Self Update up to 4.0.0.4 Endpoint cross-site request forgery](https://vuldb.com/vuln/358502)
   - [CVE-2026-31019 | Dolibarr ERP CRM up to 22.0.4 Website permission](https://vuldb.com/vuln/358493)
   - [CVE-2026-3298 | Python CPython up to 3.14.x on Windows sock_recvfrom_into nbytes out-of-bounds write (ID 148808)](https://vuldb.com/vuln/358499)
+  - [CVE-2026-35451 | twentyhq twenty up to 1.20.5 FileBlock cross site scripting (GHSA-7w89-7q26-gj7q)](https://vuldb.com/vuln/358525)
   - [CVE-2026-37748 | Visitor Management System 1.0 admin_user_insert.php move_uploaded_file unrestricted upload](https://vuldb.com/vuln/358503)
+  - [CVE-2026-40050 | CrowdStrike LogScale Self-Hosted up to 1.235.0 API Endpoint missing authentication](https://vuldb.com/vuln/358528)
+  - [CVE-2026-40161 | tektoncd pipeline up to 1.10.0 insertion of sensitive information into sent data (ID 9608)](https://vuldb.com/vuln/358519)
+  - [CVE-2026-40279 | bacnet-stack BACnet Stack up to 1.4.2 src/bacnet/bacint.c decode_signed32 reliance on undefined, unspecified, or implementation-defined behavior (GHSA-326g-j95f-gmxv)](https://vuldb.com/vuln/358520)
   - [CVE-2026-40498 | freescout-help-desk freescout up to 1.8.212 GET Request /system/cron information disclosure](https://vuldb.com/vuln/358497)
   - [CVE-2026-40565 | freescout-help-desk freescout up to 1.8.212 HTML Attribute app/Misc/Helper.php linkify HTML injection (GHSA-49pm-xwqj-vwjp)](https://vuldb.com/vuln/358506)
+  - [CVE-2026-40567 | freescout-help-desk freescout up to 1.8.212 From {%customer.fullName%} cross site scripting (GHSA-q8v4-v62h-5528)](https://vuldb.com/vuln/358524)
+  - [CVE-2026-40568 | freescout-help-desk freescout up to 1.8.212 Conversation app/Misc/Helper.php stripDangerousTags cross site scripting (GHSA-w2f5-6wcv-677r)](https://vuldb.com/vuln/358517)
+  - [CVE-2026-40569 | freescout-help-desk freescout up to 1.8.212 Mailbox Connection Settings Endpoint MailboxesController.php connectionIncomingSave access control (GHSA-hmqm-33wp-858j)](https://vuldb.com/vuln/358526)
+  - [CVE-2026-40574 | oauth2-proxy OAuth2 Proxy up to 7.15.1 authorization (GHSA-c5c4-8r6x-56w3)](https://vuldb.com/vuln/358522)
+  - [CVE-2026-40576 | haris-musa excel-mcp-server up to 0.1.7 get_excel_path filepath path traversal (GHSA-j98m-w3xp-9f56)](https://vuldb.com/vuln/358521)
+  - [CVE-2026-40583 | UltraDAGcom Core 0.1 Transaction SmartOp::Vote cleanup (GHSA-q8wx-2crx-c7pp)](https://vuldb.com/vuln/358529)
+  - [CVE-2026-5652 | Arcadia Crafty Controller up to 4.10.2 Users API authorization](https://vuldb.com/vuln/358523)
   - [CVE-2026-5789 | CivetWeb 1.16 CivetWeb.exe unquoted search path](https://vuldb.com/vuln/358500)
 - wheresyoured.at
   - [Four Horsemen of the AIpocalypse](https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/)
@@ -41,5 +71,6 @@
   - [Meta Is Sued Over Scam Ads on Facebook and Instagram](https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/)
   - [TAG Heuer Has Dropped New Polylight-Powered F1s](https://www.wired.com/story/tag-heuer-has-dropped-new-pastel-powered-f1s/)
   - [The Best Casio Watches You Can Wear Anywhere](https://www.wired.com/gallery/best-casio-watches/)
+  - [Tim Cook’s Legacy Is Turning Apple Into a Subscription](https://www.wired.com/story/apple-tim-cook-subscription-business/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
