@@ -8,6 +8,14 @@
   - [Microsoft removes Call of Duty from Game Pass, lowers subscription pricing](https://arstechnica.com/gaming/2026/04/microsofts-game-pass-gets-cheaper-loses-launch-day-call-of-duty-access/)
 - Blog - Praetorian
   - [500,000 Vulnerabilities, 14 That Matter: How Exploit Chain Analysis Cuts Through the Noise](https://www.praetorian.com/blog/exploit-chain-analysis/)
+- daringfireball.net
+  - [Trump on Tim Apple](https://truthsocial.com/@realDonaldTrump/posts/116442276577696798)
+- darkreading
+  - [Exploits Turn Windows Defender into Attacker Tool](https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool)
+- Fidelis Security
+  - [How to Detect & Prevent Remote Code Execution (RCE)](https://fidelissecurity.com/threatgeek/threat-detection-response/remote-code-execution-rce-attacks/)
+- gilesthomas.com
+  - [Writing an LLM from scratch, part 32m -- Interventions: conclusion](https://www.gilesthomas.com/2026/04/llm-from-scratch-32m-interventions-conclusion)
 - Hacker News Frontpage
   - [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
   - [Show HN: Daemons – we pivoted from building agents to cleaning up after them](https://charlielabs.ai/)
@@ -29,6 +37,8 @@
 - TechCrunch
   - [A look at Tim Cook’s 15-year legacy as CEO of Apple](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/)
   - [AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs](https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/)
+  - [AI research lab NeoCognition lands $40M seed to build agents that learn like humans](https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/)
+  - [Apple’s Cal AI crackdown signals it’s still policing the App Store](https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/)
   - [ChatGPT’s new Images 2.0 model is surprisingly good at generating text](https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/)
   - [Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says](https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/)
   - [Former Pinterest team redesigns email with Extra — and it’s actually good](https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/)
@@ -36,6 +46,7 @@
   - [SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people](https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/)
 - The Decoder
   - [Google launches Deep Research and Deep Research Max agents to automate complex research](https://the-decoder.com/google-launches-deep-research-and-deep-research-max-agents-to-automate-complex-research/)
+  - [OpenAI's ChatGPT Images 2.0 thinks before it generates, adding reasoning and web search to image creation](https://the-decoder.com/openais-chatgpt-images-2-0-thinks-before-it-generates-adding-reasoning-and-web-search-to-image-creation/)
 - The Verge
   - [AI backlash is coming for elections](https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs)
   - [Celebrities will be able to find and request removal of AI deepfakes on YouTube](https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube)
@@ -48,6 +59,7 @@
   - [Ordering with the Starbucks ChatGPT app was a true coffee nightmare](https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing)
   - [The AirPods are Tim Cook’s most underrated achievement](https://www.theverge.com/tech/916031/tim-cook-apple-airpods-legacy)
   - [The Mac is in good hands in Apple’s post-Cook era](https://www.theverge.com/tech/915896/john-ternus-apple-ceo-tim-cook-johny-srouji-mac-future)
+  - [Tim Cook was an innovator — just not the Jobs kind](https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo)
   - [Twelve South’s magnetic PowerBug charger is down to just $35](https://www.theverge.com/gadgets/915978/twelve-south-powerbug-deal-sale)
   - [X makes it 1,900 percent more expensive to post links](https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme)
 - VulDB Recent Entries
@@ -85,6 +97,7 @@
 - wheresyoured.at
   - [Four Horsemen of the AIpocalypse](https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/)
 - Wired
+  - [Framework Has a Better, More Take-Apart-Able Laptop](https://www.wired.com/story/framework-laptop-13-pro/)
   - [Meta Is Sued Over Scam Ads on Facebook and Instagram](https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/)
   - [Mozilla Used Anthropic’s Mythos to Find and Fix 151 Bugs in Firefox](https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/)
   - [TAG Heuer Has Dropped New Polylight-Powered F1s](https://www.wired.com/story/tag-heuer-has-dropped-new-pastel-powered-f1s/)
