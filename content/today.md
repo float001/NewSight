@@ -2,6 +2,8 @@
 
 - 2Libra
   - [Github Copilot pro/pro+ 下线 Claude opus 模型](https://2libra.com/post/ai-tools/4tjQ6-o)
+- 36氪
+  - [美股三大指数集体收跌，热门中概股普跌](https://36kr.com/newsflashes/3777117957835009?f=rss)
 - Ars Technica
   - [Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop](https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/)
   - [Framework Laptop 16 upgrades make it look less like an unfinished prototype](https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/)
@@ -20,6 +22,7 @@
 - Hacker News Frontpage
   - [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
   - [Show HN: Daemons – we pivoted from building agents to cleaning up after them](https://charlielabs.ai/)
+  - [SpaceX Strikes Deal With Cursor for $60 Billion](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html)
   - [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
 - HackerNoon
   - [Beyond the Tokenization Hype: How GCL New Energy and Pharos Are Putting Real Energy Assets on Chain](https://hackernoon.com/beyond-the-tokenization-hype-how-gcl-new-energy-and-pharos-are-putting-real-energy-assets-on-chain?source=rss)
@@ -32,6 +35,7 @@
   - [An AI Odyssey, Part 4: Astounding Coding Agents](https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/)
 - MIT Technology Review
   - [Building agent-first governance and security](https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/)
+  - [Roundtables: Unveiling The 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/)
 - Security Affairs
   - [North Korea’s Lazarus APT stole $290M from Kelp DAO](https://securityaffairs.com/191092/digital-id/north-koreas-lazarus-apt-stole-290m-from-kelp-dao.html)
   - [Ransomware negotiator caught secretly assisting BlackCat extortion scheme](https://securityaffairs.com/191100/security/ransomware-negotiator-caught-secretly-assisting-blackcat-extortion-scheme.html)
@@ -40,6 +44,7 @@
   - [Where's the raccoon with the ham radio? (ChatGPT Images 2.0)](https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Improper Input Validation in Apache Tomcat exploit](https://sploitus.com/exploit?id=D28B72BF-5625-5AF2-BDC3-AE7C8D56C46C&utm_source=rss&utm_medium=rss)
+  - [Exploit for OS Command Injection in Fortinet Fortisandbox exploit](https://sploitus.com/exploit?id=FAA1A934-A62D-5448-8D9B-5248D4D27C6B&utm_source=rss&utm_medium=rss)
   - [vulnscanx_v2 exploit](https://sploitus.com/exploit?id=00AB357F-70C6-5538-92B1-5429DE68451E&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A look at Tim Cook’s 15-year legacy as CEO of Apple](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/)
@@ -51,6 +56,7 @@
   - [Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says](https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/)
   - [Former Pinterest team redesigns email with Extra — and it’s actually good](https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/)
   - [Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’](https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/)
+  - [SpaceX is working with Cursor and has an option to buy the startup for $60 billion](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/)
   - [SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people](https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/)
   - [Tim Cook is stepping down as CEO of Apple. Here’s a look at his 15-year legacy, from new products and services to China expansion.](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/)
 - The Decoder
@@ -67,6 +73,7 @@
   - [ISS astronauts are getting new laptops](https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9)
   - [OpenAI’s updated image generator can now pull information from the web](https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2)
   - [Ordering with the Starbucks ChatGPT app was a true coffee nightmare](https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing)
+  - [SpaceX cuts a deal to maybe buy Cursor for $60 billion](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition)
   - [The AirPods are Tim Cook’s most underrated achievement](https://www.theverge.com/tech/916031/tim-cook-apple-airpods-legacy)
   - [The Mac is in good hands in Apple’s post-Cook era](https://www.theverge.com/tech/915896/john-ternus-apple-ceo-tim-cook-johny-srouji-mac-future)
   - [Tim Cook was an innovator — just not the Jobs kind](https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo)
@@ -139,6 +146,7 @@
   - [CVE-2026-6819 | HKUDS OpenHarness up to 155 Plugin Installation /plugin default permission](https://vuldb.com/vuln/358593)
 - wheresyoured.at
   - [Four Horsemen of the AIpocalypse](https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/)
+  - [News: Anthropic Removes Claude Code From $20-A-Month "Pro" Subscription Plan For New Users (Developing)](https://www.wheresyoured.at/news-anthropic-removes-pro-cc/)
 - Wired
   - [Framework Has a Better, More Take-Apart-Able Laptop](https://www.wired.com/story/framework-laptop-13-pro/)
   - [Meta Is Sued Over Scam Ads on Facebook and Instagram](https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/)
