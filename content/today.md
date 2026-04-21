@@ -2,6 +2,10 @@
 
 - 2Libra
   - [Github Copilot pro/pro+ 下线 Claude opus 模型](https://2libra.com/post/ai-tools/4tjQ6-o)
+- Ars Technica
+  - [Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop](https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/)
+  - [Framework Laptop 16 upgrades make it look less like an unfinished prototype](https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/)
+  - [Microsoft removes Call of Duty from Game Pass, lowers subscription pricing](https://arstechnica.com/gaming/2026/04/microsofts-game-pass-gets-cheaper-loses-launch-day-call-of-duty-access/)
 - Blog - Praetorian
   - [500,000 Vulnerabilities, 14 That Matter: How Exploit Chain Analysis Cuts Through the Noise](https://www.praetorian.com/blog/exploit-chain-analysis/)
 - Hacker News Frontpage
@@ -16,6 +20,8 @@
   - [Trojanized Android App Fuels New Wave of NFC Fraud](https://www.infosecurity-magazine.com/news/trojanized-android-handle-nfc/)
 - MIT Technology Review
   - [Building agent-first governance and security](https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/)
+- Security Affairs
+  - [North Korea’s Lazarus APT stole $290M from Kelp DAO](https://securityaffairs.com/191092/digital-id/north-koreas-lazarus-apt-stole-290m-from-kelp-dao.html)
 - simonwillison.net
   - [Quoting Andreas Påhlsson-Notini](https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -23,16 +29,27 @@
 - TechCrunch
   - [A look at Tim Cook’s 15-year legacy as CEO of Apple](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/)
   - [AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs](https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/)
+  - [ChatGPT’s new Images 2.0 model is surprisingly good at generating text](https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/)
   - [Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says](https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/)
   - [Former Pinterest team redesigns email with Extra — and it’s actually good](https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/)
+  - [Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’](https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/)
+  - [SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people](https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/)
+- The Decoder
+  - [Google launches Deep Research and Deep Research Max agents to automate complex research](https://the-decoder.com/google-launches-deep-research-and-deep-research-max-agents-to-automate-complex-research/)
 - The Verge
+  - [AI backlash is coming for elections](https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs)
   - [Celebrities will be able to find and request removal of AI deepfakes on YouTube](https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube)
   - [Dyson’s newest floor scrubber is already on sale for 20 percent off](https://www.theverge.com/gadgets/915137/dyson-clean-wash-hygiene-wet-cleaner-hades-2-deal-nintendo-sale)
+  - [Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’](https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users)
+  - [Framework’s first eGPUs turn its laptop into a desktop PC](https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16)
+  - [Framework’s Laptop 13 Pro launch event](https://www.theverge.com/gadgets/916168/framework-next-gen-laptop-13-pro-event)
   - [Govee’s new rechargeable table lamp is less than half the price of Hue’s](https://www.theverge.com/tech/915959/govee-table-smart-lamp-classic-battery-rechargeable-matter-pricing)
+  - [OpenAI’s updated image generator can now pull information from the web](https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2)
   - [Ordering with the Starbucks ChatGPT app was a true coffee nightmare](https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing)
   - [The AirPods are Tim Cook’s most underrated achievement](https://www.theverge.com/tech/916031/tim-cook-apple-airpods-legacy)
   - [The Mac is in good hands in Apple’s post-Cook era](https://www.theverge.com/tech/915896/john-ternus-apple-ceo-tim-cook-johny-srouji-mac-future)
   - [Twelve South’s magnetic PowerBug charger is down to just $35](https://www.theverge.com/gadgets/915978/twelve-south-powerbug-deal-sale)
+  - [X makes it 1,900 percent more expensive to post links](https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme)
 - VulDB Recent Entries
   - [CVE-2017-20230 | NWCLARK Storable up to 3.04 on Perl retrieve_hook stack-based overflow (Issue 15831)](https://vuldb.com/vuln/358504)
   - [CVE-2025-10354 | Semantic MediaWiki 5.0.2 URL Speciaal:GefacetteerdZoeken cross site scripting](https://vuldb.com/vuln/358495)
@@ -69,6 +86,7 @@
   - [Four Horsemen of the AIpocalypse](https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/)
 - Wired
   - [Meta Is Sued Over Scam Ads on Facebook and Instagram](https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/)
+  - [Mozilla Used Anthropic’s Mythos to Find and Fix 151 Bugs in Firefox](https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/)
   - [TAG Heuer Has Dropped New Polylight-Powered F1s](https://www.wired.com/story/tag-heuer-has-dropped-new-pastel-powered-f1s/)
   - [The Best Casio Watches You Can Wear Anywhere](https://www.wired.com/gallery/best-casio-watches/)
   - [Tim Cook’s Legacy Is Turning Apple Into a Subscription](https://www.wired.com/story/apple-tim-cook-subscription-business/)
