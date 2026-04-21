@@ -270,18 +270,23 @@
   - [The Internet Still Works: Reddit Empowers Community Moderation](https://www.eff.org/deeplinks/2026/04/internet-still-works-reddit-empowers-community-moderation)
 - ElcomSoft blog
   - [Low-Level Extraction for M-Series iPads](https://blog.elcomsoft.com/2026/04/low-level-extraction-for-m-series-ipads/)
+- Google AI Blog
+  - [3 new ways Ads Advisor is making Google Ads safer and faster](https://blog.google/products/ads-commerce/ads-advisor-google-ads/)
 - Hacker News Frontpage
   - [A Roblox cheat and one AI tool brought down Vercel's platform](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
   - [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)
   - [AI Resistance Is Growing](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+  - [As Oceans Warm, Great White Sharks Are Overheating](https://e360.yale.edu/digest/great-white-sharks-climate)
   - [At Long Last, InfoWars Is Ours](https://theonion.com/at-long-last-infowars-is-ours/)
   - [At Long Last, InfoWars Is Ours](https://theonion.info/)
   - [F-35 is a masterpiece built for the wrong war](https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/)
+  - [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
   - [Jujutsu Megamerges for Fun and Profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
   - [KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit](https://arxiv.org/abs/2604.15356)
   - [OpenAI ad partner now selling ChatGPT ad placements based on "prompt relevance"](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
   - [Palantir Wants to Reinstate the Draft](https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/)
   - [Show HN: Docker Compose for VM's](https://github.com/zeroecco/holos)
+  - [Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM](https://github.com/ENTERPILOT/GOModel/)
   - [Tim Cook Stepping Down](https://www.macrumors.com/2026/04/20/tim-cook-stepping-down/)
   - [We Accepted Surveillance as Default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
 - HackerNews
@@ -317,12 +322,16 @@
   - [Unchecked AI Agents Cause Cybersecurity Incidents at Two Thirds of Firms](https://www.infosecurity-magazine.com/news/unchecked-ai-agents-cause/)
   - [Vercel Confirms Cyber Incident After Sophisticated Attacker Exploits Third‑Party Tool](https://www.infosecurity-magazine.com/news/vercel-cyber-incident-threat-actor/)
   - [ZionSiphon Malware Targets Water Infrastructure Systems](https://www.infosecurity-magazine.com/news/zionsiphon-malware-water/)
+- krebsonsecurity.com
+  - [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
 - Linux Foundation Blogs
   - [Navigating the Agentic AI Guardrails: Why Open Source is the Key to AI in Regulated Industries](https://www.linuxfoundation.org/blog/navigating-the-agentic-ai-guardrails-why-open-source-is-the-key-to-ai-in-regulated-industries)
 - MIT Technology Review
   - [The Download: turning down human noise, and LA’s stunning subway upgrade](https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/)
 - NowSecure
   - [The Vercel Breach Is a Mobile Supply-Chain Problem, Too](https://www.nowsecure.com/blog/2026/04/20/the-vercel-breach-is-a-mobile-supply-chain-problem-too/)
+- Pen Test Partners
+  - [AI can help in DFIR, but it cannot replace investigator judgement](https://www.pentestpartners.com/security-blog/ai-can-help-in-dfir-but-it-cannot-replace-investigator-judgement/)
 - Planet Classpath
   - [Mark Wielaard: Anticipating Valgrind 3.27.0](https://gnu.wildebeest.org/blog/mjw/2026/04/20/anticipating-valgrind-3-27-0/)
 - pluralistic.net
@@ -351,6 +360,7 @@
   - [Exploit for CVE-2004-2687 exploit](https://sploitus.com/exploit?id=C23FFD4E-E977-5B2D-A812-6067C16212D5&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Fortinet Forticlientems exploit](https://sploitus.com/exploit?id=8020FEB3-DF5E-5D5D-8443-712494B62543&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Google Chrome exploit](https://sploitus.com/exploit?id=75FF06D4-F535-5975-9365-D087FF6B4847&utm_source=rss&utm_medium=rss)
+  - [OSCP-CVE-exploit-suggester exploit](https://sploitus.com/exploit?id=FF54DD28-FE4D-540C-8D0A-8ED0C85BB82A&utm_source=rss&utm_medium=rss)
   - [PatchChain-Multi-Agent-Agentic-Pipeline-for-Autonomous-Code-Vulnerability-Analysis exploit](https://sploitus.com/exploit?id=9049E877-5206-5471-8D2C-9CD1AA98FDE9&utm_source=rss&utm_medium=rss)
   - [vuln-scanner exploit](https://sploitus.com/exploit?id=8ADA83BB-701B-5188-952C-2100B61C80BB&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -370,6 +380,7 @@
   - [Who is John Ternus, the incoming Apple CEO?](https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/)
   - [With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance](https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/)
   - [Yelp’s updated AI assistant can answer questions and book a restaurant or service in one conversation](https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/)
+  - [YouTube expands its AI likeness detection technology to celebrities](https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/)
 - The Decoder
   - [Amazon pours $33B into Anthropic, which promises to spend $100B right back on AWS](https://the-decoder.com/amazon-pours-33b-into-anthropic-which-promises-to-spend-100b-right-back-on-aws/)
   - [Anthropic is building its first data center team outside the US](https://the-decoder.com/anthropic-is-building-its-first-data-center-team-outside-the-us/)
@@ -399,18 +410,26 @@
   - [Tim Cook will still be Apple’s Trump whisperer](https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy)
   - [WhatsApp tests &#8216;Plus&#8217; subscription that adds stickers and more for a few bucks a month](https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription)
 - VulDB Recent Entries
+  - [CVE-2025-1241 | Fortra GoAnywhere MFT up to 7.9.x inadequate encryption](https://vuldb.com/vuln/358483)
   - [CVE-2025-13826 | Zervit Portable Web Server Configuration Reset Request denial of service](https://vuldb.com/vuln/358426)
+  - [CVE-2025-14362 | Fortra GoAnywhere MFT up to 7.9.x SFTP Service excessive authentication](https://vuldb.com/vuln/358480)
+  - [CVE-2025-31958 | HCL BigFix Service Management 23 request smuggling (KB0124209)](https://vuldb.com/vuln/358485)
   - [CVE-2026-0930 | wolfSSL wolfSSH up to 1.4.x on Windows buffer over-read](https://vuldb.com/vuln/358376)
+  - [CVE-2026-0971 | Fortra GoAnywhere MFT up to 7.9.x SAML Login Page session expiration](https://vuldb.com/vuln/358486)
+  - [CVE-2026-0972 | Fortra GoAnywhere MFT up to 7.9.x SFTP Service excessive authentication](https://vuldb.com/vuln/358482)
+  - [CVE-2026-1089 | Fortra GoAnywhere MFT up to 7.9.x HTTP Header injection](https://vuldb.com/vuln/358484)
   - [CVE-2026-22051 | NetApp StorageGRID prior 11.9.0.13/12.0.0.6 information disclosure (ntap-20260420-0001)](https://vuldb.com/vuln/358374)
   - [CVE-2026-23752 | GFI HelpDesk up to 4.99.8 Groups Page companyname cross site scripting](https://vuldb.com/vuln/358347)
   - [CVE-2026-23753 | GFI HelpDesk up to 4.99.8 Languages Page SWIFT_Language::Create charset cross site scripting](https://vuldb.com/vuln/358348)
   - [CVE-2026-23757 | GFI HelpDesk up to 4.99.9 Reports SWIFT_Report::Create report title cross site scripting](https://vuldb.com/vuln/358349)
   - [CVE-2026-29642 | OpenXiangShan aecf601e803bfd2371667a3fb60bfcd83c333027 information disclosure (Issue 3934)](https://vuldb.com/vuln/358365)
   - [CVE-2026-29643 | OpenXiangShan edb1dfaf7d290ae99724594507dc46c2c2125384 CSR Subsystem denial of service (Issue 3959)](https://vuldb.com/vuln/358373)
+  - [CVE-2026-29644 | OpenXiangShan edb1dfaf7d290ae99724594507dc46c2c2125384 denial of service](https://vuldb.com/vuln/358487)
   - [CVE-2026-29646 | OpenXiangShan NEMU Hypervisor Extension access control (ID 951 / 55295c4)](https://vuldb.com/vuln/358367)
   - [CVE-2026-29647 | OpenXiangShan NEMU stopei/vstopei permission (Issue 691)](https://vuldb.com/vuln/358361)
   - [CVE-2026-29648 | OpenXiangShan NEMU henvcfg/senvcfg information disclosure (Issue 690)](https://vuldb.com/vuln/358368)
   - [CVE-2026-29649 | OpenXiangShan NEMU RISC-V Hypervisor CSR denial of service (Issue 681)](https://vuldb.com/vuln/358360)
+  - [CVE-2026-31018 | Dolibarr ERP CRM up to 22.0.4 Website code injection](https://vuldb.com/vuln/358481)
   - [CVE-2026-32147 | Erlang OTP System Configuration ssh_sftpd.erl path traversal (GHSA-28jg-mw9x-hpm5)](https://vuldb.com/vuln/358438)
   - [CVE-2026-32311 | reconurge flowsint org_to_asn os command injection (GHSA-9g44-8xv2-f2m9)](https://vuldb.com/vuln/358359)
   - [CVE-2026-32604 | Spinnaker up to 2025.3.1/2025.4. Clouddriver Pod input validation (GHSA-x3j7-7pgj-h87r)](https://vuldb.com/vuln/358362)
@@ -458,7 +477,9 @@
   - [CVE-2026-41331 | OpenClaw up to 2026.3.30 Telegram Audio Preflight Transcription amplification (GHSA-m6fx-m8hc-572m)](https://vuldb.com/vuln/358413)
   - [CVE-2026-41389 | OpenClaw up to 2026.4.14 UNC File file inclusion](https://vuldb.com/vuln/358346)
   - [CVE-2026-4852 | webzunft Image Source Control Lite Plugin up to 3.9.1 on WordPress Attachment Field cross site scripting](https://vuldb.com/vuln/358375)
+  - [CVE-2026-5265 | OVN Open Virtual Network ICMP Error Response Generation out-of-bounds](https://vuldb.com/vuln/358488)
   - [CVE-2026-5358 | GNU C Library up to 2.43 UDP nis_local_principal buffer overflow](https://vuldb.com/vuln/358372)
+  - [CVE-2026-5367 | OVN Open Virtual Network DHCPv6 Client ID out-of-bounds](https://vuldb.com/vuln/358489)
   - [CVE-2026-5450 | GNU C Library up to 2.43 malloc Character Match heap-based overflow](https://vuldb.com/vuln/358371)
   - [CVE-2026-5721 | wpDataTables Plugin up to 6.5.0.4 on WordPress prepareCellOutput LinkWDTColumn/ImageWDTColumn/EmailWDTColumn cross site scripting](https://vuldb.com/vuln/358378)
   - [CVE-2026-5928 | GNU C Library up to 2.43 Unicode Character libio/wgenops.c _IO_wdefault_pbackfail buffer under-read](https://vuldb.com/vuln/358370)
@@ -497,6 +518,9 @@
   - [CVE-2026-6784 | Mozilla Firefox up to 149 memory corruption](https://vuldb.com/vuln/358458)
   - [CVE-2026-6785 | Mozilla Firefox up to 149 memory corruption](https://vuldb.com/vuln/358459)
   - [CVE-2026-6786 | Mozilla Firefox up to 149 memory corruption](https://vuldb.com/vuln/358460)
+  - [CVE-2026-6796 | Sanluan PublicCMS up to 6.202506.d Failed Login LoginAdminController.java log_login errorPassword cleartext storage in file](https://vuldb.com/vuln/358490)
+  - [CVE-2026-6797 | Sanluan PublicCMS up to 6.202506.d DocToHtmlUtils.java ZipSecureFile.setMinflateRatio resource consumption](https://vuldb.com/vuln/358491)
+  - [CVE-2026-6799 | Comfast CF-N1-S 2.6.0.1 Endpoint mbox-config?method=SET&section=ping_config destination command injection](https://vuldb.com/vuln/358492)
 - Wallarm
   - [Why API Discovery Is the First Step to Securing AI](https://lab.wallarm.com/why-api-discovery-is-the-first-step-to-securing-ai/)
 - wheresyoured.at
@@ -523,6 +547,8 @@
   - [SSRF Server-Side Request Forgery: Server Ko Apna Agent Banao, Internal Network Explore Karo!](https://buaq.net/go-411661.html)
   - [VBA Beautifier Package](https://buaq.net/go-411730.html)
   - [Why forensic readiness is emerging as a real enterprise security market](https://buaq.net/go-411722.html)
+  - [Why you see targeted ads online after an IRL conversation](https://buaq.net/go-411774.html)
+  - [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://buaq.net/go-411780.html)
   - [微软与SpeedTest加深合作在Windows 11里集成网速测试 但配图是macOS](https://buaq.net/go-411669.html)
   - [纵横网络靶场社区正式发布 以虚实融合技术构建工业信息安全实战生态](https://buaq.net/go-411732.html)
 - 代码审计星球
@@ -543,7 +569,9 @@
   - [在苹果新 CEO 上任前，我们和他聊了聊 AI 与 iPhone](https://www.ifanr.com/1662980?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [大疆 Pocket 4 刷屏，而 GoPro 正在死去](https://www.ifanr.com/1662464?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [我和 AI 搭子工作了一周，再也回不去了](https://www.ifanr.com/1663008?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [把 DeepSeek、Kimi、智谱和 MiniMax 拉进群聊](https://www.ifanr.com/1663150?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果官宣新CEO，设立首席硬件官职位/华为发布大阔折叠，余承东：扛不住了也可能涨价/多平台回应12306拒绝出票](https://www.ifanr.com/1662987?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [租电 17.98 万元起，补齐智驾短板的乐道 L90，变得更能打了](https://www.ifanr.com/1663200?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [等等，这些图是GPT-Image-2出的？！](https://www.ifanr.com/1663106?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [OpenClaw安全实战系列三：利用网关劫持实现 OpenClaw控制端1-Click RCE (CVE-2026-25253)](https://blog.nsfocus.net/openclaw%e5%ae%89%e5%85%a8%e5%ae%9e%e6%88%98%e7%b3%bb%e5%88%97%e4%b8%89%ef%bc%9a%e5%88%a9%e7%94%a8%e7%bd%91%e5%85%b3%e5%8a%ab%e6%8c%81%e5%ae%9e%e7%8e%b0-openclaw%e6%8e%a7%e5%88%b6%e7%ab%af1-click-rce/)
@@ -551,6 +579,7 @@
 - 量子位 QbitAI
   - [ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态](https://www.qbitai.com/2026/04/404082.html)
   - [K型分化，如何破局？| 第20届中国投资年会·年度峰会即将启幕](https://www.qbitai.com/2026/04/403822.html)
+  - [前小鹏汽车自动驾驶一号位李力耘出任众擎CTO，加速打造具身大脑](https://www.qbitai.com/2026/04/404124.html)
   - [天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物](https://www.qbitai.com/2026/04/403825.html)
   - [这次，库克真的要卸任苹果CEO了！](https://www.qbitai.com/2026/04/403790.html)
 - 黑海洋
