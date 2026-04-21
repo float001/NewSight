@@ -1,13 +1,44 @@
 # 今日安全资讯（2026-04-22）
 
+- 2Libra
+  - [Github Copilot pro/pro+ 下线 Claude opus 模型](https://2libra.com/post/ai-tools/4tjQ6-o)
+- Blog - Praetorian
+  - [500,000 Vulnerabilities, 14 That Matter: How Exploit Chain Analysis Cuts Through the Noise](https://www.praetorian.com/blog/exploit-chain-analysis/)
+- Hacker News Frontpage
+  - [Show HN: Daemons – we pivoted from building agents to cleaning up after them](https://charlielabs.ai/)
 - HackerNoon
   - [The FBI Got Hacked. Here's What That Actually Means](https://hackernoon.com/the-fbi-got-hacked-heres-what-that-actually-means?source=rss)
+- IEEE Spectrum
+  - [What to Consider Before You Accept a Management Role](https://spectrum.ieee.org/ic-or-manager)
 - infosecurity-magazine.com
   - [Trojanized Android App Fuels New Wave of NFC Fraud](https://www.infosecurity-magazine.com/news/trojanized-android-handle-nfc/)
+- simonwillison.net
+  - [Quoting Andreas Påhlsson-Notini](https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything)
 - TechCrunch
   - [AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs](https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/)
   - [Former Pinterest team redesigns email with Extra — and it’s actually good](https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/)
+- The Verge
+  - [Dyson’s newest floor scrubber is already on sale for 20 percent off](https://www.theverge.com/gadgets/915137/dyson-clean-wash-hygiene-wet-cleaner-hades-2-deal-nintendo-sale)
+  - [Ordering with the Starbucks ChatGPT app was a true coffee nightmare](https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing)
+- VulDB Recent Entries
+  - [CVE-2017-20230 | NWCLARK Storable up to 3.04 on Perl retrieve_hook stack-based overflow (Issue 15831)](https://vuldb.com/vuln/358504)
+  - [CVE-2025-10354 | Semantic MediaWiki 5.0.2 URL Speciaal:GefacetteerdZoeken cross site scripting](https://vuldb.com/vuln/358495)
+  - [CVE-2025-15638 | ATRODO Net::Dropbear up to 0.13 on Perl libtomcrypt vulnerable third-party component](https://vuldb.com/vuln/358505)
+  - [CVE-2025-31981 | HCL BigFix Service Management 23 Discovery cleartext transmission (KB0127605)](https://vuldb.com/vuln/358498)
+  - [CVE-2025-41011 | PHP Point of Sale 19.4 specific_customer start_date_formatted/end_date_formatted cross site scripting](https://vuldb.com/vuln/358496)
+  - [CVE-2025-41029 | Zeon Global Tech Zeon Academy Pro POST Request continue-upload.php phonenumber sql injection](https://vuldb.com/vuln/358494)
+  - [CVE-2026-31013 | Softwares ADPhonebook up to 4.0.1.0 ADPhonebook?Department=HR Search cross site scripting](https://vuldb.com/vuln/358501)
+  - [CVE-2026-31014 | Dovestones AD Self Update up to 4.0.0.4 Endpoint cross-site request forgery](https://vuldb.com/vuln/358502)
+  - [CVE-2026-31019 | Dolibarr ERP CRM up to 22.0.4 Website permission](https://vuldb.com/vuln/358493)
+  - [CVE-2026-3298 | Python CPython up to 3.14.x on Windows sock_recvfrom_into nbytes out-of-bounds write (ID 148808)](https://vuldb.com/vuln/358499)
+  - [CVE-2026-37748 | Visitor Management System 1.0 admin_user_insert.php move_uploaded_file unrestricted upload](https://vuldb.com/vuln/358503)
+  - [CVE-2026-40498 | freescout-help-desk freescout up to 1.8.212 GET Request /system/cron information disclosure](https://vuldb.com/vuln/358497)
+  - [CVE-2026-40565 | freescout-help-desk freescout up to 1.8.212 HTML Attribute app/Misc/Helper.php linkify HTML injection (GHSA-49pm-xwqj-vwjp)](https://vuldb.com/vuln/358506)
+  - [CVE-2026-5789 | CivetWeb 1.16 CivetWeb.exe unquoted search path](https://vuldb.com/vuln/358500)
+- wheresyoured.at
+  - [Four Horsemen of the AIpocalypse](https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/)
 - Wired
+  - [Meta Is Sued Over Scam Ads on Facebook and Instagram](https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/)
   - [TAG Heuer Has Dropped New Polylight-Powered F1s](https://www.wired.com/story/tag-heuer-has-dropped-new-pastel-powered-f1s/)
   - [The Best Casio Watches You Can Wear Anywhere](https://www.wired.com/gallery/best-casio-watches/)
 - 代码审计星球
