@@ -13,6 +13,7 @@
   - [【💰】【投票】api 文档编辑器暂时出了一版, 先部署在了腾讯云的 EO 上面, api 的调试可能调试不了, 正式版应该没有这个问题, 发出来主要是让兄弟们给提提意见 🤡](https://2libra.com/post/personal-works/VD7KY82)
   - [【💰】你会倒腾你的电脑桌吗，请秀出你的桌面/布置心得](https://2libra.com/post/small-things/NanHKOK)
   - [今天周围都下雪了](https://2libra.com/post/personal-life/UitkFsy)
+  - [今日的乐子，这里的 token 究竟是"词元"还是“令牌”？](https://2libra.com/post/hotspot-tracking/05AnXgc)
   - [入门摄影想问问大家人像摄影买哪款合适~~~~](https://2libra.com/post/photography-equipment/_S2ty8L)
   - [办公键盘求推荐](https://2libra.com/post/computers-accessories/HQcpPnd)
   - [厨子要卸任 CEO 了，苹果未来何去何从](https://2libra.com/post/tech-news/GNt-ph1)
@@ -53,6 +54,7 @@
   - [Kimi K2.6 发布并开源代码及Agent](https://36kr.com/newsflashes/3775335514407685?f=rss)
   - [NX集团将收购加拿大Metro Supply Chain Group全部股份](https://36kr.com/newsflashes/3776305357734663?f=rss)
   - [OpenAI正与顾问合作，拟出售Codex](https://36kr.com/newsflashes/3776503418063112?f=rss)
+  - [OPPO刘作虎：今年行业新机普遍大幅涨价，OPPO 面临不小成本压力](https://36kr.com/newsflashes/3776581628872968?f=rss)
   - [PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器](https://36kr.com/p/3769659305427459?f=rss)
   - [QClaw海外版正式开启内测](https://36kr.com/newsflashes/3776012479644416?f=rss)
   - [Snap任命Doug Hott为新任首席财务官](https://36kr.com/newsflashes/3776058088636930?f=rss)
@@ -61,7 +63,9 @@
   - [一季度31个省份规上工业增加值全部实现正增长](https://36kr.com/newsflashes/3775948883084041?f=rss)
   - [一季度中央企业固定资产投资同比增长23.5%](https://36kr.com/newsflashes/3775908612424450?f=rss)
   - [一季度工业机器人产量同比增长33.2%](https://36kr.com/newsflashes/3775944919663105?f=rss)
+  - [一季度广东实现地区生产总值同比增长4.6%](https://36kr.com/newsflashes/3776559192869128?f=rss)
   - [万兴科技旗下万兴脑图手绘模式开启公测](https://36kr.com/newsflashes/3775985207951877?f=rss)
+  - [三博脑科：2025年净利润8418.28万元，同比下降19.85%](https://36kr.com/newsflashes/3776565322106884?f=rss)
   - [上海机电：一季度净利润1.78亿元，同比下降12.32%](https://36kr.com/newsflashes/3776371097076485?f=rss)
   - [上海：加快千帆星座建设，推动卫星互联网业务商用试点](https://36kr.com/newsflashes/3776179845186308?f=rss)
   - [上海：加快新一代通用人工智能、智能软件、智算系统等技术攻关](https://36kr.com/newsflashes/3776185459196679?f=rss)
@@ -85,6 +89,8 @@
   - [众兴菌业：第一季度净利润1.63亿元，同比增长237.55%](https://36kr.com/newsflashes/3776317935649285?f=rss)
   - [做多半导体成“最拥挤交易”，全球机构跳出“抱团”寻觅细分方向](https://36kr.com/newsflashes/3775753715630594?f=rss)
   - [光华股份：一季度净利润2458.24万元，同比下降3.75%](https://36kr.com/newsflashes/3776340048855558?f=rss)
+  - [光线传媒：一季度净利润2327.56万元，同比下降98.85%](https://36kr.com/newsflashes/3776571145078791?f=rss)
+  - [全志科技：一季度净利润2.03亿元，同比增长121.77%](https://36kr.com/newsflashes/3776547648980999?f=rss)
   - [凯美特气：一季度净利润1073.2万元，同比下降66.2%](https://36kr.com/newsflashes/3776362628219654?f=rss)
   - [创业板指跌超1%](https://36kr.com/newsflashes/3775914616734468?f=rss)
   - [初步贸易数据显示：韩国出口势头依旧强劲](https://36kr.com/newsflashes/3775829213790977?f=rss)
@@ -104,6 +110,7 @@
   - [可转债“破面”频现，信用风险须警惕](https://36kr.com/newsflashes/3775835183235590?f=rss)
   - [可达5G的10倍，全国首个Pre6G试验网在江苏南京投入运行](https://36kr.com/newsflashes/3776297754477318?f=rss)
   - [启明创投“先拿壳再装资产”，VC/PE探路退出新模式](https://36kr.com/newsflashes/3775876032889606?f=rss)
+  - [唯捷创芯：股东及其一致行动人拟减持不超2%公司股份](https://36kr.com/newsflashes/3776561129965573?f=rss)
   - [嘉士伯将结束与可口可乐合作，成为百事在北欧大部分地区装瓶商](https://36kr.com/newsflashes/3776385747059203?f=rss)
   - [国内油价今年首次下调，加满一箱50升92号汽油将少花22元](https://36kr.com/newsflashes/3776230444974597?f=rss)
   - [国务院印发《关于推进服务业扩能提质的意见》](https://36kr.com/newsflashes/3776350909071879?f=rss)
@@ -114,6 +121,7 @@
   - [国泰海通：美妆行业Q1整体维持良好表现，板块估值逐步进入击球区](https://36kr.com/newsflashes/3775810967683585?f=rss)
   - [地产中介“二当家”去年亏损9663万，租赁业务成了压舱石](https://36kr.com/p/3776220864103171?f=rss)
   - [大众汽车CEO：或再削减100万辆汽车产能](https://36kr.com/newsflashes/3776199103644163?f=rss)
+  - [大众集团2026年将推出超20款新车，2030年实现50款车型交付](https://36kr.com/newsflashes/3776548541515781?f=rss)
   - [央行公开市场开展50亿元7天期逆回购操作](https://36kr.com/newsflashes/3775903296913929?f=rss)
   - [奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线](https://36kr.com/p/3774891479712514?f=rss)
   - [娃哈哈旗下黑龙江饮料公司完成更名](https://36kr.com/newsflashes/3776058580714242?f=rss)
@@ -168,6 +176,7 @@
   - [消息人士：SpaceX 本周举办为期三天的分析师会议，积极拉拢华尔街备战IPO](https://36kr.com/newsflashes/3776059346125569?f=rss)
   - [淡马锡支持的CuspAI据悉正洽谈融资，估值将超10亿美元](https://36kr.com/newsflashes/3775331981509120?f=rss)
   - [滴滴成为香港引进办重点企业，两地乘客可顺畅使用同一个App](https://36kr.com/newsflashes/3775980135793415?f=rss)
+  - [热门中概股美股盘前多数下跌，哔哩哔哩跌超3%](https://36kr.com/newsflashes/3776581043751177?f=rss)
   - [牧原股份：一季度亏损12.15亿元](https://36kr.com/newsflashes/3776404448051721?f=rss)
   - [猛士汽车携手华为乾崑发布智能越野黑科技](https://36kr.com/newsflashes/3776274756387586?f=rss)
   - [猪价开启“回暖”模式，5家公司去年净利润超1亿元](https://36kr.com/newsflashes/3775854890123776?f=rss)
@@ -185,11 +194,14 @@
   - [科兴制药：2025年净利润1.56亿元，同比增长394.17%](https://36kr.com/newsflashes/3776511612782856?f=rss)
   - [科大讯飞发布AIPC新品“讯飞星火·燎原N30m笔记本”](https://36kr.com/newsflashes/3776336962716421?f=rss)
   - [空客将收购法国网络安全公司Quarkslab](https://36kr.com/newsflashes/3776307010552329?f=rss)
+  - [紫金矿业：一季度净利润200.79亿元，同比增长97.5%](https://36kr.com/newsflashes/3776552144931080?f=rss)
   - [美关税退款系统上线](https://36kr.com/newsflashes/3775320091165191?f=rss)
+  - [美国3月零售销售环比升1.7%](https://36kr.com/newsflashes/3776558101219329?f=rss)
   - [美国将向美国国家铁路客运公司东北铁路走廊投资近50亿美元](https://36kr.com/newsflashes/3775836206367241?f=rss)
   - [美国白宫宣布劳工部长将离职](https://36kr.com/newsflashes/3775771270464257?f=rss)
   - [美联储主席提名人沃什承诺进行新的资产剥离](https://36kr.com/newsflashes/3775818279404040?f=rss)
   - [美股三大指数小幅收跌，热门科技股多数下跌](https://36kr.com/newsflashes/3775750234276613?f=rss)
+  - [美股大型科技股盘前多数上涨，亚马逊涨超2%](https://36kr.com/newsflashes/3776576001886468?f=rss)
   - [联合健康集团：第一季度合并收入为1117亿美元，同比增长2%](https://36kr.com/newsflashes/3776423609434628?f=rss)
   - [股价“一”字跌停，液冷龙头股英维克回应](https://36kr.com/newsflashes/3776014356775430?f=rss)
   - [股票私募连续四周加仓 仓位指数升至82.16%](https://36kr.com/newsflashes/3775893342470917?f=rss)
@@ -211,6 +223,8 @@
   - [长安汽车朱华荣：2030年力争实现营收6000亿元](https://36kr.com/newsflashes/3776262610273028?f=rss)
   - [长安汽车朱华荣：将战略性整合阿维塔和深蓝汽车](https://36kr.com/newsflashes/3776300837863941?f=rss)
   - [长春高新：一季度净利润2.76亿元，同比下降41.67%](https://36kr.com/newsflashes/3776422142427652?f=rss)
+  - [长电科技：2025年先进封装营收创历史新高](https://36kr.com/newsflashes/3776553971451904?f=rss)
+  - [陆家嘴：一季度净利润1.99亿元，同比下降68.41%](https://36kr.com/newsflashes/3776541213181955?f=rss)
   - [雅诗兰黛据悉为收购Puig寻求50亿欧元融资](https://36kr.com/newsflashes/3776173441188355?f=rss)
   - [霍华德・马克斯：眼下便宜股票极少，“好货只在人们恐慌时才出现”](https://36kr.com/newsflashes/3775866377913093?f=rss)
   - [韩国电动汽车累计注册量突破100万](https://36kr.com/newsflashes/3776194148057603?f=rss)
@@ -224,6 +238,7 @@
 - 404 Media
   - [Forbes Prediction Market Gamefies Story About Mass Shooting of 8 Children](https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/)
   - [Scientists Gave a Bunch of Salmon Cocaine. This Is What Happened Next.](https://www.404media.co/scientists-gave-a-bunch-of-salmon-cocaine-this-is-what-happened-next/)
+  - [This AI Tool Rips Off Open Source Software Without Violating Copyright](https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/)
 - Ars Technica
   - [Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent](https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/)
   - [Here's how F1 is tweaking its hybrid systems to try to save the show](https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/)
@@ -280,9 +295,12 @@
   - [The Price of Borrowed Life](https://hackernoon.com/the-price-of-borrowed-life?source=rss)
   - [What I Learned Vibe Coding Apps as a Non-Coder](https://hackernoon.com/what-i-learned-vibe-coding-apps-as-a-non-coder?source=rss)
 - ICT Security Magazine
+  - [AI Forensics: quando l’algoritmo diventa corpo del reato](https://www.ictsecuritymagazine.com/articoli/ai-forensics/)
+  - [E-evidence, l’Italia chiude il cerchio: cosa cambia davvero con i d.lgs. 215 e 216 del 2025](https://www.ictsecuritymagazine.com/cyber-crime/e-evidence-italia-d-lgs-215-216/)
   - [ID.RA-08: la misura ACN che trasforma la gestione delle vulnerabilità in un processo strutturato](https://www.ictsecuritymagazine.com/notizie/id-ra-08-acn-vulnerabilita/)
   - [Underwater IoT (IoUT). Sfide geopolitiche, innovazioni tecnologiche e direzioni future dell’ecosistema nazionale](https://www.ictsecuritymagazine.com/articoli/underwater-iot-iout/)
 - IEEE Spectrum
+  - [The Forgotten History of Hershey’s Electric Railway in Cuba](https://spectrum.ieee.org/hershey-electric-railway-cuba)
   - [The USC Professor Who Pioneered Socially Assistive Robotics](https://spectrum.ieee.org/socially-assistive-robotics)
 - InfoSec Write-ups - Medium
   - [Curl Is More Than a Downloader. It’s a Weapon.](https://infosecwriteups.com/curl-is-more-than-a-downloader-its-a-weapon-665d471da63f?source=rss----7b722bfd1b8d---4)
@@ -291,10 +309,13 @@
   - [SSRF Server-Side Request Forgery: Server Ko Apna Agent Banao, Internal Network Explore Karo!](https://infosecwriteups.com/ssrf-server-side-request-forgery-server-ko-apna-agent-banao-internal-network-explore-karo-4b48abb86e34?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [North Korean Blamed for $290m KelpDAO Crypto Heist](https://www.infosecurity-magazine.com/news/north-korean-blamed-290m-kelpdao/)
+  - [Unchecked AI Agents Cause Cybersecurity Incidents at Two Thirds of Firms](https://www.infosecurity-magazine.com/news/unchecked-ai-agents-cause/)
   - [Vercel Confirms Cyber Incident After Sophisticated Attacker Exploits Third‑Party Tool](https://www.infosecurity-magazine.com/news/vercel-cyber-incident-threat-actor/)
   - [ZionSiphon Malware Targets Water Infrastructure Systems](https://www.infosecurity-magazine.com/news/zionsiphon-malware-water/)
 - Linux Foundation Blogs
   - [Navigating the Agentic AI Guardrails: Why Open Source is the Key to AI in Regulated Industries](https://www.linuxfoundation.org/blog/navigating-the-agentic-ai-guardrails-why-open-source-is-the-key-to-ai-in-regulated-industries)
+- MIT Technology Review
+  - [The Download: turning down human noise, and LA’s stunning subway upgrade](https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/)
 - NowSecure
   - [The Vercel Breach Is a Mobile Supply-Chain Problem, Too](https://www.nowsecure.com/blog/2026/04/20/the-vercel-breach-is-a-mobile-supply-chain-problem-too/)
 - Planet Classpath
@@ -319,6 +340,7 @@
 - shkspr.mobi
   - [Better TTS on Linux](https://shkspr.mobi/blog/2026/04/better-tts-on-linux/)
 - Sploitus.com Exploits RSS Feed
+  - [BuildReview2 exploit](https://sploitus.com/exploit?id=4971BB29-0C64-537E-903F-63867E5442C7&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-site Scripting in Bdtask Multi_Store_Inventory_Management_System exploit](https://sploitus.com/exploit?id=98F9A3A1-6101-55DE-8C79-3F8E80A941D8&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2004-2687 exploit](https://sploitus.com/exploit?id=C23FFD4E-E977-5B2D-A812-6067C16212D5&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Fortinet Forticlientems exploit](https://sploitus.com/exploit?id=8020FEB3-DF5E-5D5D-8443-712494B62543&utm_source=rss&utm_medium=rss)
@@ -328,22 +350,28 @@
 - TechCrunch
   - [Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)
   - [Blue Energy raises $380M to build grid-scale nuclear reactors in shipyards](https://techcrunch.com/2026/04/21/blue-energy-raises-380m-to-build-grid-scale-nuclear-reactors-in-shipyards/)
+  - [Cash App is targeting a new kind of customer: 6-12 year olds](https://techcrunch.com/2026/04/21/cash-app-is-targeting-a-new-kind-of-customer-6-12-year-olds/)
   - [FAA orders investigation into Blue Origin’s New Glenn mishap](https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/)
   - [Google Photos adds new touch-up tools for ‘quick’ fixes](https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/)
   - [Google rolls out Gemini in Chrome in seven new countries](https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/)
+  - [GRAI believes AI can make music more social, not replace artists](https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/)
   - [It’s not just one thing — it’s another thing](https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/)
   - [Mastodon says its flagship server was hit by a DDoS attack](https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/)
   - [North Korea hackers blamed for $290M crypto theft](https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/)
   - [Tim Cook stepping down as Apple CEO, John Ternus taking over](https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/)
+  - [What’s the key to better vegan cheese? Microbreweries, one startup says](https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/)
   - [Who is John Ternus, the incoming Apple CEO?](https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/)
+  - [With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance](https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/)
   - [Yelp’s updated AI assistant can answer questions and book a restaurant or service in one conversation](https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/)
 - The Decoder
   - [Amazon pours $33B into Anthropic, which promises to spend $100B right back on AWS](https://the-decoder.com/amazon-pours-33b-into-anthropic-which-promises-to-spend-100b-right-back-on-aws/)
   - [Anthropic is building its first data center team outside the US](https://the-decoder.com/anthropic-is-building-its-first-data-center-team-outside-the-us/)
+  - [Corporate America's favorite ChatGPT phrase doubled twice since 2024](https://the-decoder.com/corporate-americas-favorite-chatgpt-phrase-doubled-twice-since-2024/)
   - [Google builds elite team to close the coding gap with Anthropic](https://the-decoder.com/google-builds-elite-team-to-close-the-coding-gap-with-anthropic/)
   - [Jeff Bezos nears $10 billion funding round for AI lab "Project Prometheus"](https://the-decoder.com/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-project-prometheus/)
   - [Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms](https://the-decoder.com/open-weight-kimi-k2-6-takes-on-gpt-5-4-and-claude-opus-4-6-with-agent-swarms/)
   - [OpenAI's Codex now watches your screen to remember what you're working on](https://the-decoder.com/openais-codex-now-watches-your-screen-to-remember-what-youre-working-on/)
+  - [The flood of AI music is reshaping how streaming platforms handle new uploads](https://the-decoder.com/the-flood-of-ai-music-is-reshaping-how-streaming-platforms-handle-new-uploads/)
 - The Verge
   - [Apple CEO Tim Cook is stepping down](https://www.theverge.com/tech/915213/tim-cook-apple-ceo-stepping-down-john-ternus)
   - [Apple Sports now lets you follow scores in a CarPlay widget](https://www.theverge.com/news/915564/apple-sports-widget-carplay)
@@ -360,6 +388,7 @@
   - [Read Tim Cook&#8217;s letter to the Apple world as he departs as CEO](https://www.theverge.com/tech/915279/tim-cook-ceo-letter-apple-community)
   - [Silicon Valley has forgotten what normal people want](https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos)
   - [The Lenovo Legion Go S is RAMageddon’s latest victim](https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon)
+  - [The SpaceX IPO is a trillion-dollar gamble on the future of space](https://www.theverge.com/science/915244/spacex-ipo-trillion-dollar-commercial-iss-nasa-launch)
   - [Tim Cook will still be Apple’s Trump whisperer](https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy)
   - [WhatsApp tests &#8216;Plus&#8217; subscription that adds stickers and more for a few bucks a month](https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription)
 - VulDB Recent Entries
@@ -430,6 +459,8 @@
   - [CVE-2026-6674 | tholstkabelbwde CMS für Motorrad Werkstätten Plugin up to 1.0.0 on WordPress arttype sql injection](https://vuldb.com/vuln/358403)
   - [CVE-2026-6675 | cyberchimps Responsive Blocks Plugin up to 2.2.0 on WordPress Public REST API Route input validation](https://vuldb.com/vuln/358401)
   - [CVE-2026-6729 | HKUDS OpenHarness up to 158 Conversation improper authentication](https://vuldb.com/vuln/358379)
+- Wallarm
+  - [Why API Discovery Is the First Step to Securing AI](https://lab.wallarm.com/why-api-discovery-is-the-first-step-to-securing-ai/)
 - wheresyoured.at
   - [Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits](https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/)
 - Wired
@@ -467,6 +498,7 @@
 - 安全客
   - [科技云报到：AI云，逻辑变了吗？](https://www.anquanke.com/post/id/315337)
 - 爱范儿
+  - [OPPO Pad mini 体验：小小的很全能，塞进口袋的大手机](https://www.ifanr.com/1663122?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [具身智能公司自变量发布了机器人模型 WALL-B，35 天后进入真实家庭](https://www.ifanr.com/1663081?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [在苹果新 CEO 上任前，我们和他聊了聊 AI 与 iPhone](https://www.ifanr.com/1662980?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [大疆 Pocket 4 刷屏，而 GoPro 正在死去](https://www.ifanr.com/1662464?utm_source=rss&utm_medium=rss&utm_campaign=)
