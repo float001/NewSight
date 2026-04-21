@@ -12,6 +12,7 @@
   - [Trump on Tim Apple](https://truthsocial.com/@realDonaldTrump/posts/116442276577696798)
 - darkreading
   - [Exploits Turn Windows Defender into Attacker Tool](https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool)
+  - [Ransomware Negotiator Pleads Guilty to BlackCat Scheme](https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme)
 - Fidelis Security
   - [How to Detect & Prevent Remote Code Execution (RCE)](https://fidelissecurity.com/threatgeek/threat-detection-response/remote-code-execution-rce-attacks/)
 - gilesthomas.com
@@ -21,6 +22,7 @@
   - [Show HN: Daemons – we pivoted from building agents to cleaning up after them](https://charlielabs.ai/)
   - [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
 - HackerNoon
+  - [Beyond the Tokenization Hype: How GCL New Energy and Pharos Are Putting Real Energy Assets on Chain](https://hackernoon.com/beyond-the-tokenization-hype-how-gcl-new-energy-and-pharos-are-putting-real-energy-assets-on-chain?source=rss)
   - [The FBI Got Hacked. Here's What That Actually Means](https://hackernoon.com/the-fbi-got-hacked-heres-what-that-actually-means?source=rss)
 - IEEE Spectrum
   - [What to Consider Before You Accept a Management Role](https://spectrum.ieee.org/ic-or-manager)
@@ -50,6 +52,7 @@
   - [Former Pinterest team redesigns email with Extra — and it’s actually good](https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/)
   - [Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’](https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/)
   - [SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people](https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/)
+  - [Tim Cook is stepping down as CEO of Apple. Here’s a look at his 15-year legacy, from new products and services to China expansion.](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/)
 - The Decoder
   - [Google launches Deep Research and Deep Research Max agents to automate complex research](https://the-decoder.com/google-launches-deep-research-and-deep-research-max-agents-to-automate-complex-research/)
   - [OpenAI's ChatGPT Images 2.0 thinks before it generates, adding reasoning and web search to image creation](https://the-decoder.com/openais-chatgpt-images-2-0-thinks-before-it-generates-adding-reasoning-and-web-search-to-image-creation/)
