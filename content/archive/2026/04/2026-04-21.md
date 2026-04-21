@@ -3,6 +3,7 @@
 - 2Libra
   - [[炫耀贴] 勤勉鉴定大成功！](https://2libra.com/post/forum-function/rcVKawB)
   - [Deepseek 以 100 亿美元 💵 的金额进行融资，出 3 亿的额度，真的这么便宜吗？仅为竞对的三分之一，我都在想能不能投了。](https://2libra.com/post/ai-companies/ntafn2X)
+  - [Jimmy 又在肝了？](https://2libra.com/post/community/H0aZafG)
   - [Kimi K2.6 发布！！！](https://2libra.com/post/ai-updates/TCO5cv4)
   - [“猛兽”也要退役了](https://2libra.com/post/game-discussion/OBQEYo7)
   - [厨子要卸任 CEO 了，苹果未来何去何从](https://2libra.com/post/tech-news/GNt-ph1)
@@ -13,6 +14,7 @@
   - [我突然发现自己好像不知道自己是不是到底饿了的啊](https://2libra.com/post/health-consultation/IuLo9ah)
   - [推一下自己的 app](https://2libra.com/post/personal-works/YRCXR1w)
   - [有没有接到民警电话问有没有买过无人机的？](https://2libra.com/post/small-things/pq1stSn)
+  - [消息页面点进去的时候，能不能默认已读本页呢？](https://2libra.com/post/community/M8Fd8UW)
   - [这次是关于发帖时间的疑惑](https://2libra.com/post/forum-function/Tf4A7ta)
 - 36氪
   - [*ST太和：因涉嫌信披违规被证监会立案](https://36kr.com/newsflashes/3775330567930369?f=rss)
@@ -24,13 +26,17 @@
   - [A股三大指数集体低开，新股N盛合上市首日高开406.71%](https://36kr.com/newsflashes/3775902896046851?f=rss)
   - [FAA下令调查蓝色起源发射事故，AST SpaceMobile卫星报废](https://36kr.com/newsflashes/3775854076642052?f=rss)
   - [Kimi K2.6 发布并开源代码及Agent](https://36kr.com/newsflashes/3775335514407685?f=rss)
+  - [一季度31个省份规上工业增加值全部实现正增长](https://36kr.com/newsflashes/3775948883084041?f=rss)
   - [一季度中央企业固定资产投资同比增长23.5%](https://36kr.com/newsflashes/3775908612424450?f=rss)
+  - [一季度工业机器人产量同比增长33.2%](https://36kr.com/newsflashes/3775944919663105?f=rss)
+  - [万兴科技旗下万兴脑图手绘模式开启公测](https://36kr.com/newsflashes/3775985207951877?f=rss)
   - [专访Eight Sleep CTO：被马斯克们买爆的AI床垫，进中国先砍一刀订阅费](https://36kr.com/p/3775892441301511?f=rss)
   - [东京出租车涨价，涨幅约10%](https://36kr.com/newsflashes/3775937141932809?f=rss)
   - [两市融资余额增加290.57亿元](https://36kr.com/newsflashes/3775864579818240?f=rss)
   - [中信证券：二季度建议布局高确定性板块的同时灵活参与交易机会](https://36kr.com/newsflashes/3775857996120584?f=rss)
   - [中信证券：坚定看好商业航天产业长期发展，投资端应更聚焦核心资产](https://36kr.com/newsflashes/3775828393640452?f=rss)
   - [中国银河证券：车展及人形机器人大会开幕在即，带动汽车行业情绪修复](https://36kr.com/newsflashes/3775875495674376?f=rss)
+  - [中国高科在上海成立启芯科技公司](https://36kr.com/newsflashes/3775976899691272?f=rss)
   - [人形机器人产业大放异彩，概念股业绩持续高增可期](https://36kr.com/newsflashes/3775752119550728?f=rss)
   - [人民币对美元中间价报6.8594，调升54个点](https://36kr.com/newsflashes/3775893851063044?f=rss)
   - [做多半导体成“最拥挤交易”，全球机构跳出“抱团”寻觅细分方向](https://36kr.com/newsflashes/3775753715630594?f=rss)
@@ -46,9 +52,16 @@
   - [启明创投“先拿壳再装资产”，VC/PE探路退出新模式](https://36kr.com/newsflashes/3775876032889606?f=rss)
   - [国泰海通：美妆行业Q1整体维持良好表现，板块估值逐步进入击球区](https://36kr.com/newsflashes/3775810967683585?f=rss)
   - [央行公开市场开展50亿元7天期逆回购操作](https://36kr.com/newsflashes/3775903296913929?f=rss)
+  - [宁德时代港股涨超5%，再创历史新高](https://36kr.com/newsflashes/3775963102347781?f=rss)
+  - [小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测](https://36kr.com/newsflashes/3775943297139461?f=rss)
+  - [工信部回应存储器价格上涨情况，将多措并举保障产业链供应链稳定](https://36kr.com/newsflashes/3775972229169922?f=rss)
+  - [工信部：一季度规模以上高技术制造业增加值同比增长12.5%](https://36kr.com/newsflashes/3775949327581958?f=rss)
+  - [工信部：将系统布局6G下一代互联网等前沿技术研发](https://36kr.com/newsflashes/3775960015077890?f=rss)
+  - [工信部：正在开展算电协同政策研究和标准制定](https://36kr.com/newsflashes/3775954067702273?f=rss)
   - [年报季透视A股：逾1700家上市公司拟分红](https://36kr.com/newsflashes/3775751230702341?f=rss)
   - [德国商业银行正式拒绝裕信银行敌意收购策略，收购战言辞交锋升级](https://36kr.com/newsflashes/3775835671315203?f=rss)
   - [恒指开盘涨0.31%，胜宏科技上市首日高开57.23%](https://36kr.com/newsflashes/3775899137737225?f=rss)
+  - [截至3月底，全国5G基站总数已达495.8万个](https://36kr.com/newsflashes/3775955093422599?f=rss)
   - [文件显示通用汽车为新产品主管提供4000万美元薪酬方案](https://36kr.com/newsflashes/3775807094571524?f=rss)
   - [日本突发7.4级地震，影响多家半导体公司](https://36kr.com/newsflashes/3775333952865024?f=rss)
   - [景气度“光”芒四射，基金经理把握光通信投资机会](https://36kr.com/newsflashes/3775845469749765?f=rss)
@@ -56,7 +69,9 @@
   - [永鼎股份：第一季度净利润1.59亿元，同比下降45.19%](https://36kr.com/newsflashes/3775331374219777?f=rss)
   - [海南离岛免税政策实施15周年，免税购物金额达2864亿元](https://36kr.com/newsflashes/3775332762223106?f=rss)
   - [淡马锡支持的CuspAI据悉正洽谈融资，估值将超10亿美元](https://36kr.com/newsflashes/3775331981509120?f=rss)
+  - [滴滴成为香港引进办重点企业，两地乘客可顺畅使用同一个App](https://36kr.com/newsflashes/3775980135793415?f=rss)
   - [猪价开启“回暖”模式，5家公司去年净利润超1亿元](https://36kr.com/newsflashes/3775854890123776?f=rss)
+  - [理想汽车将与高德在座舱Agent进行深入合作](https://36kr.com/newsflashes/3775981216547328?f=rss)
   - [监管新规重塑期货行业生态，“重资本时代”加速到来](https://36kr.com/newsflashes/3775866855686659?f=rss)
   - [礼来宣布至多70亿美元收购癌症生物技术公司Kelonia](https://36kr.com/newsflashes/3775334453674756?f=rss)
   - [私募基金总规模连续6个月创新高，行业延续稳健增长态势](https://36kr.com/newsflashes/3775856362898182?f=rss)
@@ -73,6 +88,7 @@
   - [贝佐斯旗下人工智能实验室融资交易接近敲定，估值逼近380亿美元](https://36kr.com/newsflashes/3775911052378633?f=rss)
   - [锂矿股逆势活跃，天齐锂业逼近涨停](https://36kr.com/newsflashes/3775925030683136?f=rss)
   - [霍华德・马克斯：眼下便宜股票极少，“好货只在人们恐慌时才出现”](https://36kr.com/newsflashes/3775866377913093?f=rss)
+  - [飞猪：五一期间，江苏包车游预订量同比增长45%](https://36kr.com/newsflashes/3775967599493640?f=rss)
   - [香港金发局：已有美资基金在港设点 态度较去年更开放](https://36kr.com/newsflashes/3775867569799937?f=rss)
   - [马斯克缺席法国检方听证会](https://36kr.com/newsflashes/3775799051928073?f=rss)
 - 404 Media
@@ -81,6 +97,7 @@
 - Ars Technica
   - [Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent](https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/)
   - [Here's how F1 is tweaking its hybrid systems to try to save the show](https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/)
+  - [Pentagon pulls the plug on one of the military's most troubled space programs](https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/)
 - Arturo Di Corinto
   - [Disinformazione e Deepfake: la democrazia in pericolo](https://dicorinto.it/formazione/disinformazione-e-deepfake-la-democrazia-in-pericolo/)
 - Bruce's Blog
@@ -100,11 +117,16 @@
   - [At Long Last, InfoWars Is Ours](https://theonion.info/)
   - [F-35 is a masterpiece built for the wrong war](https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/)
   - [Jujutsu Megamerges for Fun and Profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
+  - [KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit](https://arxiv.org/abs/2604.15356)
   - [OpenAI ad partner now selling ChatGPT ad placements based on "prompt relevance"](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
   - [Palantir Wants to Reinstate the Draft](https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/)
   - [Show HN: Docker Compose for VM's](https://github.com/zeroecco/holos)
   - [Tim Cook Stepping Down](https://www.macrumors.com/2026/04/20/tim-cook-stepping-down/)
   - [We Accepted Surveillance as Default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
+- HackerNews
+  - [Anthropic MCP čŽžčŽĄćźć´žĺŻč‡´čżœç¨‹äťŁç ć‰§čĄŒďźŒĺ¨čƒäşşĺˇĽć™şčƒ˝äž›ĺş”é“ž](http://0.0.0.0:8080/post/64153)
+  - [KelpDAO é­ 2.9 äşżçžŽĺ…ƒç›—çŞƒďźŒćˆ–ä¸Ž Lazarus éť‘ĺŽ˘çť„çť‡ćœ‰ĺ…ł](http://0.0.0.0:8080/post/64155)
+  - [SGLang ćźć´žĺŻé€ščż‡ćść„ GGUF ć¨Ąĺž‹ć–‡äťśĺŽžçŽ°čżœç¨‹äťŁç ć‰§čĄŒ](http://0.0.0.0:8080/post/64154)
 - HackerNoon
   - [AI Isn’t The Product, Context Is](https://hackernoon.com/ai-isnt-the-product-context-is?source=rss)
   - [How I Turned a Mess of GPUs Into a Usable Inference Platform](https://hackernoon.com/how-i-turned-a-mess-of-gpus-into-a-usable-inference-platform?source=rss)
@@ -132,6 +154,7 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2004-2687 exploit](https://sploitus.com/exploit?id=C23FFD4E-E977-5B2D-A812-6067C16212D5&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Fortinet Forticlientems exploit](https://sploitus.com/exploit?id=8020FEB3-DF5E-5D5D-8443-712494B62543&utm_source=rss&utm_medium=rss)
+  - [Exploit for Use After Free in Google Chrome exploit](https://sploitus.com/exploit?id=75FF06D4-F535-5975-9365-D087FF6B4847&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)
   - [FAA orders investigation into Blue Origin’s New Glenn mishap](https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/)
@@ -178,6 +201,7 @@
 - 安全客
   - [科技云报到：AI云，逻辑变了吗？](https://www.anquanke.com/post/id/315337)
 - 爱范儿
+  - [在苹果新 CEO 上任前，我们和他聊了聊 AI 与 iPhone](https://www.ifanr.com/1662980?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [大疆 Pocket 4 刷屏，而 GoPro 正在死去](https://www.ifanr.com/1662464?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果官宣新CEO，设立首席硬件官职位/华为发布大阔折叠，余承东：扛不住了也可能涨价/多平台回应12306拒绝出票](https://www.ifanr.com/1662987?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
