@@ -245,10 +245,14 @@
   - [Pentagon pulls the plug on one of the military's most troubled space programs](https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/)
 - Arturo Di Corinto
   - [Disinformazione e Deepfake: la democrazia in pericolo](https://dicorinto.it/formazione/disinformazione-e-deepfake-la-democrazia-in-pericolo/)
+- Ben's Bites
+  - [That's my designer - Claude](https://www.bensbites.com/p/thats-my-designer-claude)
 - Bruce's Blog
   - [wshobson/agents Deep Dive: What 184 Claude Code Agents Actually Do](http://www.heyuan110.com/posts/ai/2026-04-20-wshobson-agents-deep-dive/)
 - Cerbero Blog
   - [VBA Beautifier Package](https://blog.cerbero.io/vba-beautifier-package/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#414811: Terrarium contains a vulnerability that allows arbitrary code execution](https://kb.cert.org/vuls/id/414811)
 - daringfireball.net
   - [Apple: ‘Tim Cook to Become Apple Executive Chairman; John Ternus to Become Apple CEO’](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
   - [Apple’s Annual Environmental Progress Report](https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/)
@@ -309,6 +313,7 @@
   - [SSRF Server-Side Request Forgery: Server Ko Apna Agent Banao, Internal Network Explore Karo!](https://infosecwriteups.com/ssrf-server-side-request-forgery-server-ko-apna-agent-banao-internal-network-explore-karo-4b48abb86e34?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [North Korean Blamed for $290m KelpDAO Crypto Heist](https://www.infosecurity-magazine.com/news/north-korean-blamed-290m-kelpdao/)
+  - [The Gentlemen Ransomware Expands With Rapid Affiliate Growth](https://www.infosecurity-magazine.com/news/gentlemen-ransomware-rapid/)
   - [Unchecked AI Agents Cause Cybersecurity Incidents at Two Thirds of Firms](https://www.infosecurity-magazine.com/news/unchecked-ai-agents-cause/)
   - [Vercel Confirms Cyber Incident After Sophisticated Attacker Exploits Third‑Party Tool](https://www.infosecurity-magazine.com/news/vercel-cyber-incident-threat-actor/)
   - [ZionSiphon Malware Targets Water Infrastructure Systems](https://www.infosecurity-magazine.com/news/zionsiphon-malware-water/)
@@ -322,6 +327,7 @@
   - [Mark Wielaard: Anticipating Valgrind 3.27.0](https://gnu.wildebeest.org/blog/mjw/2026/04/20/anticipating-valgrind-3-27-0/)
 - pluralistic.net
   - [Pluralistic: Comrade Trump (20 Apr 2026)](https://pluralistic.net/2026/04/20/praxis/)
+  - [Pluralistic: Quinn Slobodian and Ben Tarnoff's "Muskism: A Guide for the Perplexed" (21 Apr 2026)](https://pluralistic.net/2026/04/21/torment-nexusism/)
 - Product Hunt
   - [Fabi](https://www.producthunt.com/products/fabi)
 - SANS Internet Storm Center, InfoCON: green
@@ -358,6 +364,7 @@
   - [It’s not just one thing — it’s another thing](https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/)
   - [Mastodon says its flagship server was hit by a DDoS attack](https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/)
   - [North Korea hackers blamed for $290M crypto theft](https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/)
+  - [Revolut eyes valuation of up to $200B in eventual IPO](https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/)
   - [Tim Cook stepping down as Apple CEO, John Ternus taking over](https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/)
   - [What’s the key to better vegan cheese? Microbreweries, one startup says](https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/)
   - [Who is John Ternus, the incoming Apple CEO?](https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/)
@@ -404,6 +411,7 @@
   - [CVE-2026-29647 | OpenXiangShan NEMU stopei/vstopei permission (Issue 691)](https://vuldb.com/vuln/358361)
   - [CVE-2026-29648 | OpenXiangShan NEMU henvcfg/senvcfg information disclosure (Issue 690)](https://vuldb.com/vuln/358368)
   - [CVE-2026-29649 | OpenXiangShan NEMU RISC-V Hypervisor CSR denial of service (Issue 681)](https://vuldb.com/vuln/358360)
+  - [CVE-2026-32147 | Erlang OTP System Configuration ssh_sftpd.erl path traversal (GHSA-28jg-mw9x-hpm5)](https://vuldb.com/vuln/358438)
   - [CVE-2026-32311 | reconurge flowsint org_to_asn os command injection (GHSA-9g44-8xv2-f2m9)](https://vuldb.com/vuln/358359)
   - [CVE-2026-32604 | Spinnaker up to 2025.3.1/2025.4. Clouddriver Pod input validation (GHSA-x3j7-7pgj-h87r)](https://vuldb.com/vuln/358362)
   - [CVE-2026-32613 | Spinnaker up to 2025.3.1/2025.4.1 Spring Expression Language code injection (GHSA-69rw-45wj-g4v6)](https://vuldb.com/vuln/358363)
@@ -429,6 +437,7 @@
   - [CVE-2026-40250 | AcademySoftwareFoundation OpenEXR up to 3.2.7/3.3.9/3.4.9 EXR File internal_dwa_compressor.h integer overflow (GHSA-m5qw-23x2-6phj)](https://vuldb.com/vuln/358385)
   - [CVE-2026-40496 | freescout-help-desk freescout up to 1.8.212 Attachments random values (GHSA-2783-wxmm-wmwr)](https://vuldb.com/vuln/358382)
   - [CVE-2026-40497 | freescout-help-desk freescout up to 1.8.212 Mailbox Signature Field /mailbox/settings/ stripDangerousTags cross site scripting (GHSA-fh99-wr77-pxq3)](https://vuldb.com/vuln/358406)
+  - [CVE-2026-40520 | FreePBX api up to 17.0.8 GraphQL initiateGqlAPIProcess os command injection](https://vuldb.com/vuln/358437)
   - [CVE-2026-41036 | Quantum Router QN-I-470 6.1.1.B1 Management CLI Interface os command injection (CIVN-2026-0200)](https://vuldb.com/vuln/358427)
   - [CVE-2026-41037 | Quantum Router QN-I-470 6.1.1.B1 Web-based Management Interface excessive authentication (CIVN-2026-0200)](https://vuldb.com/vuln/358428)
   - [CVE-2026-41038 | Quantum Router QN-I-470 6.1.1.B1 Web-based Management Interface weak password (CIVN-2026-0200)](https://vuldb.com/vuln/358429)
@@ -459,6 +468,35 @@
   - [CVE-2026-6674 | tholstkabelbwde CMS für Motorrad Werkstätten Plugin up to 1.0.0 on WordPress arttype sql injection](https://vuldb.com/vuln/358403)
   - [CVE-2026-6675 | cyberchimps Responsive Blocks Plugin up to 2.2.0 on WordPress Public REST API Route input validation](https://vuldb.com/vuln/358401)
   - [CVE-2026-6729 | HKUDS OpenHarness up to 158 Conversation improper authentication](https://vuldb.com/vuln/358379)
+  - [CVE-2026-6746 | Mozilla Firefox up to 149 HTML use after free](https://vuldb.com/vuln/358443)
+  - [CVE-2026-6747 | Mozilla Firefox up to 149 WebRTC use after free](https://vuldb.com/vuln/358444)
+  - [CVE-2026-6748 | Mozilla Firefox up to 149 Web Codecs uninitialized pointer](https://vuldb.com/vuln/358445)
+  - [CVE-2026-6749 | Mozilla Firefox up to 149 Canvas2D uninitialized pointer](https://vuldb.com/vuln/358439)
+  - [CVE-2026-6750 | Mozilla Firefox up to 149 WebRender Remote Code Execution](https://vuldb.com/vuln/358446)
+  - [CVE-2026-6751 | Mozilla Firefox up to 149 Web Codecs uninitialized pointer](https://vuldb.com/vuln/358447)
+  - [CVE-2026-6752 | Mozilla Firefox up to 149 WebRTC memory corruption](https://vuldb.com/vuln/358448)
+  - [CVE-2026-6753 | Mozilla Firefox up to 149 WebRTC memory corruption](https://vuldb.com/vuln/358449)
+  - [CVE-2026-6754 | Mozilla Firefox up to 149 JavaScript Engine use after free](https://vuldb.com/vuln/358450)
+  - [CVE-2026-6755 | Mozilla Firefox up to 149 postMessage Remote Code Execution](https://vuldb.com/vuln/358440)
+  - [CVE-2026-6756 | Mozilla Firefox up to 149 on Android](https://vuldb.com/vuln/358457)
+  - [CVE-2026-6757 | Mozilla Firefox up to 149 WebAssembly Remote Code Execution](https://vuldb.com/vuln/358451)
+  - [CVE-2026-6758 | Mozilla Firefox up to 149 WebAssembly use after free](https://vuldb.com/vuln/358452)
+  - [CVE-2026-6759 | Mozilla Firefox up to 149 Cocoa use after free](https://vuldb.com/vuln/358453)
+  - [CVE-2026-6760 | Mozilla Firefox up to 149 Cookies Remote Code Execution](https://vuldb.com/vuln/358441)
+  - [CVE-2026-6761 | Mozilla Firefox up to 149 Networking Remote Code Execution](https://vuldb.com/vuln/358454)
+  - [CVE-2026-6762 | Mozilla Firefox up to 149 HTML](https://vuldb.com/vuln/358455)
+  - [CVE-2026-6763 | Mozilla Firefox up to 149 File Remote Code Execution](https://vuldb.com/vuln/358442)
+  - [CVE-2026-6764 | Mozilla Firefox up to 149 Device Interfaces memory corruption](https://vuldb.com/vuln/358456)
+  - [CVE-2026-6765 | Mozilla Firefox up to 149 Form Autofill information disclosure](https://vuldb.com/vuln/358461)
+  - [CVE-2026-6766 | Mozilla Firefox up to 149 NSS memory corruption](https://vuldb.com/vuln/358466)
+  - [CVE-2026-6767 | Mozilla Firefox up to 149 NSS Remote Code Execution](https://vuldb.com/vuln/358467)
+  - [CVE-2026-6768 | Mozilla Firefox up to 149 Cookies](https://vuldb.com/vuln/358462)
+  - [CVE-2026-6771 | Mozilla Firefox up to 149 Security](https://vuldb.com/vuln/358463)
+  - [CVE-2026-6774 | Mozilla Firefox up to 149 Security](https://vuldb.com/vuln/358464)
+  - [CVE-2026-6782 | Mozilla Firefox up to 149 IP Protection information disclosure](https://vuldb.com/vuln/358465)
+  - [CVE-2026-6784 | Mozilla Firefox up to 149 memory corruption](https://vuldb.com/vuln/358458)
+  - [CVE-2026-6785 | Mozilla Firefox up to 149 memory corruption](https://vuldb.com/vuln/358459)
+  - [CVE-2026-6786 | Mozilla Firefox up to 149 memory corruption](https://vuldb.com/vuln/358460)
 - Wallarm
   - [Why API Discovery Is the First Step to Securing AI](https://lab.wallarm.com/why-api-discovery-is-the-first-step-to-securing-ai/)
 - wheresyoured.at
@@ -471,6 +509,7 @@
   - [Best Kitchen Composters and Food Recyclers (2026)](https://www.wired.com/story/home-composters-buying-guide/)
   - [H2O Audio Tri Run Workout Headphones Review: A Little Underwhelming](https://www.wired.com/review/h2o-audio-tri-run-workout-headphones/)
   - [How to Watch the 2026 Lyrids Meteor Shower at Its Peak](https://www.wired.com/story/how-to-watch-the-lyrids-meteor-shower-at-its-peak-2026/)
+  - [The 10 Best Electrolyte Powders (We Tested Nearly 20)](https://www.wired.com/story/best-electrolyte-powders/)
   - [The Internet’s Favorite Lawyer Says We’re Living Through ‘Multiple Watergates per Week’](https://www.wired.com/story/the-big-interview-podcast-legal-eagle-devin-stone/)
   - [War Memes Are Turning Conflict Into Content](https://www.wired.com/story/war-memes-turn-conflict-into-content/)
 - Zgao's blog
@@ -499,6 +538,7 @@
   - [科技云报到：AI云，逻辑变了吗？](https://www.anquanke.com/post/id/315337)
 - 爱范儿
   - [OPPO Pad mini 体验：小小的很全能，塞进口袋的大手机](https://www.ifanr.com/1663122?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [OPPO 发布 Find X9 Ultra：演唱会手机的最优解](https://www.ifanr.com/1663069?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [具身智能公司自变量发布了机器人模型 WALL-B，35 天后进入真实家庭](https://www.ifanr.com/1663081?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [在苹果新 CEO 上任前，我们和他聊了聊 AI 与 iPhone](https://www.ifanr.com/1662980?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [大疆 Pocket 4 刷屏，而 GoPro 正在死去](https://www.ifanr.com/1662464?utm_source=rss&utm_medium=rss&utm_campaign=)
