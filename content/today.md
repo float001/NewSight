@@ -130,6 +130,7 @@
   - [景旺电子：第一季度净利润2.33亿元，同比下降28.37%](https://36kr.com/newsflashes/3777783084078080?f=rss)
   - [晶核能源与阳光新能源正式达成战略合作](https://36kr.com/newsflashes/3777924943009031?f=rss)
   - [智平方发布AlphaBrain Platform一站式具身智能模型开源社区](https://36kr.com/newsflashes/3777810823468289?f=rss)
+  - [最前线｜华为猛士深化战略合作，新技术将逐步落地4款以上全新车型](https://36kr.com/p/3777981126644745?f=rss)
   - [机构：千问AI眼镜线上市场份额达53%，持续位居市场第一](https://36kr.com/newsflashes/3777626884805634?f=rss)
   - [杉杉股份：实际控制人将变更为安徽省国资委](https://36kr.com/newsflashes/3777779004790018?f=rss)
   - [果麦文化：一季度归母净利润亏损822.76万元，上年同期归母净利润亏损196.88万元](https://36kr.com/newsflashes/3777738100626697?f=rss)
@@ -207,6 +208,7 @@
   - [鲍斯股份：冷媒压缩机业务板块产品销售占比较少，暂不涉及液冷类产品](https://36kr.com/newsflashes/3777292767758599?f=rss)
 - 404 Media
   - [Podcast: How Algorithms Make Us Feel Bad and Weird](https://www.404media.co/podcast-how-algorithms-make-us-feel-bad-and-weird/)
+  - [Startups Brag They Spend More Money on AI Than Human Employees](https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/)
 - Ars Technica
   - [Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop](https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/)
   - [Framework Laptop 16 upgrades make it look less like an unfinished prototype](https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/)
@@ -231,6 +233,7 @@
 - gilesthomas.com
   - [Writing an LLM from scratch, part 32m -- Interventions: conclusion](https://www.gilesthomas.com/2026/04/llm-from-scratch-32m-interventions-conclusion)
 - Hacker News Frontpage
+  - [Books Are Not Remotely Too Expensive](https://www.millersbookreview.com/p/no-books-are-not-remotely-too-expensive)
   - [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
   - [Global growth in solar "the largest ever observed for any source"](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/)
   - [I'm Sick of AI Everything](https://news.ycombinator.com/item?id=47857461)
@@ -255,6 +258,7 @@
 - Hexacorn
   - [Some unintelligent fun with ms-notepad protocol](https://www.hexacorn.com/blog/2026/04/22/some-unintelligent-fun-with-ms-notepad-protocol/)
 - ICT Security Magazine
+  - [Attribuzione degli attacchi cyber: dal naming and shaming alle conseguenze giuridiche](https://www.ictsecuritymagazine.com/articoli/attribuzione-degli-attacchi-cyber/)
   - [Da Internet of Things ad Intelligence of Things: analisi degli impatti della tecnologia nei servizi segreti e nell’antiterrorismo](https://www.ictsecuritymagazine.com/articoli/intelligence-of-things/)
   - [Sentenza Tribunale di Siracusa 338/2026: colpa grave per uso non verificato dell’IA negli atti processuali](https://www.ictsecuritymagazine.com/notizie/sentenza-siracusa-338-2026-ai/)
   - [Sicurezza AI: i router LLM diventano il punto debole della supply chain (caso LiteLLM)](https://www.ictsecuritymagazine.com/notizie/sicurezza-ai-router-llm/)
@@ -288,6 +292,7 @@
 - Schneier on Security
   - [ICE Uses Graphite Spyware](https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html)
 - Security Affairs
+  - [Critical BRIDGE:BREAK flaws impact Lantronix and Silex Technology converters](https://securityaffairs.com/191114/hacking/critical-bridgebreak-flaws-impact-lantronix-and-silex-technology-converters.html)
   - [North Korea’s Lazarus APT stole $290M from Kelp DAO](https://securityaffairs.com/191092/digital-id/north-koreas-lazarus-apt-stole-290m-from-kelp-dao.html)
   - [Ransomware negotiator caught secretly assisting BlackCat extortion scheme](https://securityaffairs.com/191100/security/ransomware-negotiator-caught-secretly-assisting-blackcat-extortion-scheme.html)
   - [Venezuela energy sector targeted by highly destructive Lotus wiper](https://securityaffairs.com/191106/malware/venezuela-energy-sector-targeted-by-highly-destructive-lotus-wiper.html)
@@ -301,6 +306,7 @@
   - [Where's the raccoon with the ham radio? (ChatGPT Images 2.0)](https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Bug-Bounty-Hunting-Methodology-2026 exploit](https://sploitus.com/exploit?id=B230BD45-A29C-5866-A087-BBF9C2B37B66&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Glpi-Project Glpi exploit](https://sploitus.com/exploit?id=A2B804DF-BEB7-5594-AAE7-E246ECFA0361&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-26903 exploit](https://sploitus.com/exploit?id=622FE954-B229-5DE1-B058-7F59DD5B727C&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Apache Tomcat exploit](https://sploitus.com/exploit?id=D28B72BF-5625-5AF2-BDC3-AE7C8D56C46C&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Microsoft exploit](https://sploitus.com/exploit?id=977967C0-E084-5D63-9A62-D39A4DB89852&utm_source=rss&utm_medium=rss)
@@ -314,6 +320,7 @@
   - [smartaudit exploit](https://sploitus.com/exploit?id=A5D6A44E-26FA-5264-8E80-815433A49A59&utm_source=rss&utm_medium=rss)
   - [SQLi-Injection-Payloads exploit](https://sploitus.com/exploit?id=82B32413-7D55-5CEE-9954-CB853CA975A4&utm_source=rss&utm_medium=rss)
   - [vulnscanx_v2 exploit](https://sploitus.com/exploit?id=00AB357F-70C6-5538-92B1-5429DE68451E&utm_source=rss&utm_medium=rss)
+  - [xss-demo-blog exploit](https://sploitus.com/exploit?id=88514302-C92B-5DB3-AC0D-35D243AC71E3&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A look at Tim Cook’s 15-year legacy as CEO of Apple](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/)
   - [AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs](https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/)
@@ -336,7 +343,9 @@
   - [The most interesting startups showcased at Google Cloud Next 2026](https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/)
   - [Tim Cook is stepping down as CEO of Apple. Here’s a look at his 15-year legacy, from new products and services to China expansion.](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/)
   - [Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/)
+  - [X makes it more expensive to post links through its API](https://techcrunch.com/2026/04/22/x-makes-it-more-expensive-to-post-links-through-its-api/)
 - The Decoder
+  - [Anthropic manager hints that Pro and Max plans are outgrown by today's Claude workloads](https://the-decoder.com/anthropic-manager-hints-that-pro-and-max-plans-are-outgrown-by-todays-claude-workloads/)
   - [Google launches Deep Research and Deep Research Max agents to automate complex research](https://the-decoder.com/google-launches-deep-research-and-deep-research-max-agents-to-automate-complex-research/)
   - [Meta tracks US employees' clicks and keystrokes to train AI agents](https://the-decoder.com/meta-tracks-us-employees-clicks-and-keystrokes-to-train-ai-agents/)
   - [Musk's SpaceX bets $60 billion on Cursor to fix xAI's coding gap](https://the-decoder.com/musks-spacex-bets-60-billion-on-cursor-to-fix-xais-coding-gap/)
@@ -347,6 +356,7 @@
   - [Anker made its own chip to bring AI to all its products](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
   - [Anthropic’s most dangerous AI model just fell into the wrong hands](https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security)
   - [BMW’s flagship 7 Series gets its ‘Neue Klasse’ upgrade](https://www.theverge.com/transportation/915630/bmw-7-series-neue-klasse-range-price-specs)
+  - [Call of Duty never made much sense for Xbox Game Pass](https://www.theverge.com/games/916627/call-of-duty-xbox-game-pass)
   - [Celebrities will be able to find and request removal of AI deepfakes on YouTube](https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube)
   - [Dyson’s newest floor scrubber is already on sale for 20 percent off](https://www.theverge.com/gadgets/915137/dyson-clean-wash-hygiene-wet-cleaner-hades-2-deal-nintendo-sale)
   - [First vacuums — then the world](https://www.theverge.com/report/914244/dreame-china-vacuums-hypercars-elon-musk)
@@ -355,6 +365,7 @@
   - [Framework’s Laptop 13 Pro launch event](https://www.theverge.com/gadgets/916168/framework-next-gen-laptop-13-pro-event)
   - [Govee’s new rechargeable table lamp is less than half the price of Hue’s](https://www.theverge.com/tech/915959/govee-table-smart-lamp-classic-battery-rechargeable-matter-pricing)
   - [ISS astronauts are getting new laptops](https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9)
+  - [It’s amazing how good Alienware’s $350 OLED monitor is](https://www.theverge.com/tech/916277/alienware-aw2726dm-qdoled-gaming-monitor-specs-hands-on)
   - [OpenAI’s updated image generator can now pull information from the web](https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2)
   - [Ordering with the Starbucks ChatGPT app was a true coffee nightmare](https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing)
   - [SpaceX cuts a deal to maybe buy Cursor for $60 billion](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition)
@@ -374,6 +385,7 @@
   - [CVE-2025-41011 | PHP Point of Sale 19.4 specific_customer start_date_formatted/end_date_formatted cross site scripting](https://vuldb.com/vuln/358496)
   - [CVE-2025-41029 | Zeon Global Tech Zeon Academy Pro POST Request continue-upload.php phonenumber sql injection](https://vuldb.com/vuln/358494)
   - [CVE-2025-70420 | Genesys Latitude 25.1.0.420 sql injection](https://vuldb.com/vuln/358749)
+  - [CVE-2026-0539 | pcvisit Remote Host Modul up to 22.6.22.1329 on Windows Service Binary default permission](https://vuldb.com/vuln/358853)
   - [CVE-2026-1354 | Zero Motorcycles Firmware up to 44 Update key exchange without entity authentication (icsa-26-111-06)](https://vuldb.com/vuln/358733)
   - [CVE-2026-1379 | zinoui HTTP Headers Plugin up to 1.19.2 on WordPress Setting cross site scripting](https://vuldb.com/vuln/358802)
   - [CVE-2026-1913 | gallagherwebsitedesign Gallagher Website Design Plugin up to 2.6.4 on WordPress Shortcode login_link cross site scripting](https://vuldb.com/vuln/358835)
@@ -556,6 +568,7 @@
   - [CVE-2026-41457 | owntone owntone-server up to 29.0.x Expressions sql injection](https://vuldb.com/vuln/358761)
   - [CVE-2026-41458 | owntone owntone-server up to 29.0.x /login race condition](https://vuldb.com/vuln/358758)
   - [CVE-2026-41527 | KDE Kleopatra up to 26.7.x on Windows control flow](https://vuldb.com/vuln/358755)
+  - [CVE-2026-41651 | PackageKit up to 1.3.4 src/pk-transaction.c InstallFiles toctou](https://vuldb.com/vuln/358852)
   - [CVE-2026-41664 | Samsung Open Source ONE 1.30.0 Tensor Shape integer overflow](https://vuldb.com/vuln/358769)
   - [CVE-2026-41665 | Samsung Open Source ONE up to 1.29.x integer overflow](https://vuldb.com/vuln/358773)
   - [CVE-2026-41666 | Samsung Open Source ONE up to 1.29.x integer overflow](https://vuldb.com/vuln/358774)
@@ -569,6 +582,8 @@
   - [CVE-2026-5512 | GitHub Enterprise Server up to 3.20.0 API Endpoint insertion of sensitive information into sent data](https://vuldb.com/vuln/358741)
   - [CVE-2026-5652 | Arcadia Crafty Controller up to 4.10.2 Users API authorization](https://vuldb.com/vuln/358523)
   - [CVE-2026-5748 | snedled Text Snippets Plugin up to 0.0.1 on WordPress Shortcode cross site scripting](https://vuldb.com/vuln/358820)
+  - [CVE-2026-5749 | Fullstep up to 5.30.06 API missing authentication](https://vuldb.com/vuln/358848)
+  - [CVE-2026-5750 | Fullstep up to 5.30.06 Endpoint false authorization](https://vuldb.com/vuln/358849)
   - [CVE-2026-5767 | luetkemj SlideShowPro SC Plugin up to 1.0.2 on WordPress Shortcode slideShowProSC cross site scripting](https://vuldb.com/vuln/358818)
   - [CVE-2026-5789 | CivetWeb 1.16 CivetWeb.exe unquoted search path](https://vuldb.com/vuln/358500)
   - [CVE-2026-5820 | sproutient Zypento Blocks Plugin up to 1.06 on WordPress cross site scripting](https://vuldb.com/vuln/358819)
@@ -579,6 +594,8 @@
   - [CVE-2026-6236 | lucdecri Posts map Plugin up to 0.1.3 on WordPress Shortcode cross site scripting](https://vuldb.com/vuln/358827)
   - [CVE-2026-6246 | mkerstner Simple Random Posts Shortcode Plugin up to 0.3 on WordPress simple_random_posts container_right_width cross site scripting](https://vuldb.com/vuln/358828)
   - [CVE-2026-6294 | byybora Google PageRank Display Plugin up to 1.4 on WordPress Google Page gpdisplay_option cross-site request forgery](https://vuldb.com/vuln/358832)
+  - [CVE-2026-6355 | Augmentt Web Application 1.0 access control](https://vuldb.com/vuln/358850)
+  - [CVE-2026-6356 | Augmentt Web Application 1.0 insufficient granularity of access control](https://vuldb.com/vuln/358851)
   - [CVE-2026-6386 | FreeBSD Kernel pmap_pkru_update_range privileges management](https://vuldb.com/vuln/358762)
   - [CVE-2026-6392 | Tanium Threat Response up to 4.6.576/4.9.378 information disclosure (TAN-2026-011)](https://vuldb.com/vuln/358767)
   - [CVE-2026-6396 | webarea Fast & Fancy Filter Plugin up to 1.2.2 on WordPress Setting saveFields cross-site request forgery](https://vuldb.com/vuln/358829)
@@ -598,6 +615,9 @@
   - [CVE-2026-6844 | GNU Binutils readelf resource consumption](https://vuldb.com/vuln/358822)
   - [CVE-2026-6845 | GNU Binutils readelf null pointer dereference](https://vuldb.com/vuln/358830)
   - [CVE-2026-6846 | GNU Binutils XCOFF heap-based overflow](https://vuldb.com/vuln/358823)
+  - [CVE-2026-6855 | Red Hat Enterprise Linux AI 3 logs_dir path traversal](https://vuldb.com/vuln/358846)
+  - [CVE-2026-6857 | Apache camel-infinispan deserialization](https://vuldb.com/vuln/358845)
+  - [CVE-2026-6859 | Red Hat Enterprise Linux AI 3 linux_train.py inclusion of functionality from untrusted control sphere](https://vuldb.com/vuln/358847)
 - Wallarm
   - [Attacking the MCP Trust Boundary](https://lab.wallarm.com/attacking-the-mcp-trust-boundary/)
 - wheresyoured.at
@@ -668,4 +688,5 @@
   - [Mozilla 使用 Claude Mythos 找到并修复了 Firefox 中的 271 个漏洞](https://blog.upx8.com/Mozilla-%E4%BD%BF%E7%94%A8-Claude-Mythos-%E6%89%BE%E5%88%B0%E5%B9%B6%E4%BF%AE%E5%A4%8D%E4%BA%86-Firefox-%E4%B8%AD%E7%9A%84-271-%E4%B8%AA%E6%BC%8F%E6%B4%9E)
   - [OpenAI在佛罗里达州遭刑事调查涉及枪击案](https://blog.upx8.com/OpenAI%E5%9C%A8%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%B7%9E%E9%81%AD%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5%E6%B6%89%E5%8F%8A%E6%9E%AA%E5%87%BB%E6%A1%88)
   - [​勒索软件谈判专家承认帮助勒索软件团伙](https://blog.upx8.com/%E5%8B%92%E7%B4%A2%E8%BD%AF%E4%BB%B6%E8%B0%88%E5%88%A4%E4%B8%93%E5%AE%B6%E6%89%BF%E8%AE%A4%E5%B8%AE%E5%8A%A9%E5%8B%92%E7%B4%A2%E8%BD%AF%E4%BB%B6%E5%9B%A2%E4%BC%99)
+  - [美国军方在沙特部署乌克兰反无人机系统](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%86%9B%E6%96%B9%E5%9C%A8%E6%B2%99%E7%89%B9%E9%83%A8%E7%BD%B2%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8F%8D%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%B3%BB%E7%BB%9F)
   - [谷歌内部政治导致其在AI编程领域落后](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%86%85%E9%83%A8%E6%94%BF%E6%B2%BB%E5%AF%BC%E8%87%B4%E5%85%B6%E5%9C%A8AI%E7%BC%96%E7%A8%8B%E9%A2%86%E5%9F%9F%E8%90%BD%E5%90%8E)
