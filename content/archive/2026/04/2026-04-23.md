@@ -7,7 +7,12 @@
   - [Our newsroom AI policy](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
   - [RFK Jr. won't back CDC director on vaccines as agency scraps positive data](https://arstechnica.com/health/2026/04/rfk-jr-doubles-down-on-vaccine-meddling-as-cdc-junks-scientific-study/)
   - [Tabloid reports linking 10 missing and dead scientists spur FBI probe](https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe/)
+  - [Tesla reports Q1 2026 earnings: Still profitable](https://arstechnica.com/cars/2026/04/tesla-reports-q1-2026-earnings-still-profitable/)
   - [You want your Moon landings in HDTV? So does NASA—here's how it's happening.](https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/)
+- CXSecurity: World Laboratory of Bugtraq 2
+  - [OpenClaw <  2026.3.28 Discord Text Approval Authorization Bypass](https://cxsecurity.com/issue/WLB-2026040015)
+  - [Throttlestop Kernel Driver Kernel Out-of-Bounds Write Privilege Escalation](https://cxsecurity.com/issue/WLB-2026040014)
+  - [Trojan-Spy.Win32.Small / Remote Command Execution](https://cxsecurity.com/issue/WLB-2026040016)
 - daringfireball.net
   - [Ben Thompson on Tim Cook’s Legacy](https://stratechery.com/2026/tim-cooks-impeccable-timing/)
   - [DF T-Shirts and Hoodies: Get Them While the Getting Is Good](https://store.daringfireball.net/)
@@ -25,8 +30,12 @@
   - [Show HN: Broccoli, one shot coding agent on the cloud](https://github.com/besimple-oss/broccoli)
   - [Surveillance Pricing: Exploiting Information Asymmetries](https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/)
   - [The Illuminated Man: an unconventional portrait of JG Ballard](https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard)
+  - [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king)
   - [The Tech Oligarch's Republic](https://www.forever-wars.com/the-tech-oligarchs-republic/)
   - [Youth Suicides Declined After Creation of National Hotline](https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html)
+- HackerNoon
+  - [Coinlocally Lists Tesla, Amazon, Apple, More Tokenized Stock Pairs, Launches Zero-Fee Trading](https://hackernoon.com/coinlocally-lists-tesla-amazon-apple-more-tokenized-stock-pairs-launches-zero-fee-trading?source=rss)
+  - [Explain the Cursor Elon Musk Deal to Me Like I'm 5: A Technical Report on the $60B Option to Acquire](https://hackernoon.com/explain-the-cursor-elon-musk-deal-to-me-like-im-5-a-technical-report-on-the-$60b-option-to-acquire?source=rss)
 - Horizon3.ai
   - [Mythos in Practice: Attack Paths, Exploitability, and What Actually Matters Most](https://horizon3.ai/intelligence/blogs/mythos-attack-paths-exploitability/)
 - infosecurity-magazine.com
@@ -38,6 +47,8 @@
   - [Hypersonic Supply Chain Attacks: One Solution That Didn’t Need to Know the Payload](https://www.sentinelone.com/blog/hypersonic-supply-chain-attacks-one-solution-that-didnt-need-to-know-the-payload/)
 - simonwillison.net
   - [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Improper Input Validation in Microsoft exploit](https://sploitus.com/exploit?id=47373EE1-4958-5E36-829F-2892D366ECFB&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI Overviews are coming to your Gmail at work](https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/)
   - [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
@@ -47,6 +58,7 @@
   - [Google makes an interesting choice with its new agent building tool for enterprises](https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/)
   - [Google turns Chrome into an AI coworker for the workplace](https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/)
   - [How SpaceX preempted a $2B fundraise with a $60B buyout offer](https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/)
+  - [LinkedIn’s CEO is moving on; please hold your tearful video tributes](https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/)
   - [NASA’s Artemis II moon mission shows space-to-Earth laser comms can scale](https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/)
   - [Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions](https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/)
   - [Threads is adding Live Chats to boost real-time engagement](https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/)
@@ -135,7 +147,9 @@
 - Wired
   - [5 AI Models Tried to Scam Me. Some of Them Were Scary Good](https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/)
   - [AI Tools Are Helping Mediocre North Korean Hackers Steal Millions](https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/)
+  - [Cocaine-Fueled Wild Salmon Swam Twice as Far as Sober Ones](https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/)
   - [New York Bans Government Employees from Insider Trading on Prediction Markets](https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/)
+  - [US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose](https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
