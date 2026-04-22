@@ -2,29 +2,51 @@
 
 - 2Libra
   - [Github Copilot pro/pro+ 下线 Claude opus 模型](https://2libra.com/post/ai-tools/4tjQ6-o)
+  - [广东移动 token plan 免费体验包，有人抢到吗？](https://2libra.com/post/deal-hunter/OnlC_fn)
 - 36氪
   - [8点1氪丨MCN机构回应女孩挪用上千万打赏主播；苹果更换CEO原因曝光；国内油价2026年首次下调](https://36kr.com/p/3777227930224900?f=rss)
   - [A股公司可转债再融资升温，监管“扶优限劣”严防盲目跨界投资](https://36kr.com/newsflashes/3777227456661510?f=rss)
   - [GPT-Image-2正式发布](https://36kr.com/newsflashes/3777228104370181?f=rss)
+  - [Keurig与雀巢续签协议，延续星巴克咖啡分销合作](https://36kr.com/newsflashes/3777274442696969?f=rss)
+  - [SpaceX宣布有权在今年晚些时候以600亿美元收购Cursor](https://36kr.com/newsflashes/3777254680430593?f=rss)
+  - [SpaceX放出“IPO重磅炸弹”：公司太空AI技术未经验证，未必能商业化](https://36kr.com/newsflashes/3777282800125952?f=rss)
   - [一季度公募基金重点增配信息技术等板块](https://36kr.com/newsflashes/3777221466327048?f=rss)
+  - [一季度我国邮政行业寄递业务量同比增长4.5%](https://36kr.com/newsflashes/3777294627194887?f=rss)
+  - [两市融资余额增加64.03亿元](https://36kr.com/newsflashes/3777285857134849?f=rss)
   - [中信建投：预计2027年钠电进入平价放量时代，碳酸锂涨价预期加速进程](https://36kr.com/newsflashes/3777211463976966?f=rss)
   - [中信证券：人形机器人放量在即，电机绕线设备快速发展](https://36kr.com/newsflashes/3777235688573192?f=rss)
+  - [中信证券：医美行业当前竞争较为激烈，但结构性机会持续存在](https://36kr.com/newsflashes/3777252665673731?f=rss)
+  - [中信证券：运动鞋服仍将是兼具高景气和清晰格局的优质消费赛道](https://36kr.com/newsflashes/3777256818526210?f=rss)
   - [全日空将在2027财年考虑对日本国内航班收取附加费](https://36kr.com/newsflashes/3777234436196358?f=rss)
   - [关键量子机制揭示芯片运行为何“变慢”](https://36kr.com/newsflashes/3777234863081479?f=rss)
   - [券商交出资管业务“成绩单”，头部集中趋势有所加剧](https://36kr.com/newsflashes/3777215774115847?f=rss)
   - [华泰证券：关注光模块上游核心材料发展机遇](https://36kr.com/newsflashes/3777216616466432?f=rss)
   - [原子钟技术验证时间存在量子叠加态](https://36kr.com/newsflashes/3777232030631941?f=rss)
   - [双向脑机接口同步恢复患者行走与感觉](https://36kr.com/newsflashes/3777231323826439?f=rss)
+  - [多家银行创新金融服务赋能人形机器人赛道](https://36kr.com/newsflashes/3777240503159048?f=rss)
   - [并购整合夯实根基，券商协同价值持续兑现](https://36kr.com/newsflashes/3777224830650624?f=rss)
   - [库克亮相苹果员工大会，称身体健康并计划长期担任执行董事长](https://36kr.com/newsflashes/3777232606889984?f=rss)
   - [微软下调Xbox Game Pass价格，取消《使命召唤》首发入库](https://36kr.com/newsflashes/3777228909545480?f=rss)
   - [必和必拓：已与中国矿产资源集团完成铁矿石销售合同谈判](https://36kr.com/newsflashes/3777210864011272?f=rss)
+  - [押注AAV体内CAR-T，「西湖云谷智药」即将启动IIT研究](https://36kr.com/p/3774632804057607?f=rss)
+  - [甘咨询：一季度ESG咨询、绿色建筑认证等领域无相关订单落地](https://36kr.com/newsflashes/3777290138388739?f=rss)
   - [看好权益资产后市，今年以来新发基金规模超3500亿元](https://36kr.com/newsflashes/3777213451945985?f=rss)
+  - [美联储主席候选人沃什多次强调独立性，但对利率路径含糊其辞](https://36kr.com/newsflashes/3777283920513027?f=rss)
   - [美股三大指数集体收跌，热门中概股普跌](https://36kr.com/newsflashes/3777117957835009?f=rss)
+  - [航旅纵横：App各项功能已恢复正常](https://36kr.com/newsflashes/3777265503340806?f=rss)
+  - [英维克：全球2025年液冷渗透率已很高，但国内相对滞后](https://36kr.com/newsflashes/3777256304822533?f=rss)
+  - [英维克：公司液冷相关业务收入持续快速增长](https://36kr.com/newsflashes/3777253263689984?f=rss)
+  - [英维克：目前趋势来看，电子散热业务2026年增速会加快](https://36kr.com/newsflashes/3777266200414214?f=rss)
+  - [英维克：经过产能扩张和优化后，当前产能已不是瓶颈制约](https://36kr.com/newsflashes/3777255601146121?f=rss)
+  - [证监会主席吴清：加大力度支持北京科技创新和产业创新深度融合，推动科创板、创业板等改革在京落地见效](https://36kr.com/newsflashes/3777282261043461?f=rss)
+  - [财政部今日在港发行155亿元人民币国债](https://36kr.com/newsflashes/3777239612246278?f=rss)
   - [通用汽车据悉无限期推迟下一代电动皮卡项目](https://36kr.com/newsflashes/3777210513901831?f=rss)
+  - [银行理财规模近三周累计增长4395亿元](https://36kr.com/newsflashes/3777241460427017?f=rss)
   - [锂矿企业重启“赚钱模式”](https://36kr.com/newsflashes/3777223439681797?f=rss)
   - [集成光路芯片能发出多种颜色激光](https://36kr.com/newsflashes/3777233782786307?f=rss)
   - [韩国3月份PPI环比上涨1.6%，创近四年最大涨幅](https://36kr.com/newsflashes/3777236437600262?f=rss)
+  - [韩国现代重工签署价值5148亿韩元的销售和供应合同](https://36kr.com/newsflashes/3777285477156868?f=rss)
+  - [鲍斯股份：冷媒压缩机业务板块产品销售占比较少，暂不涉及液冷类产品](https://36kr.com/newsflashes/3777292767758599?f=rss)
 - Ars Technica
   - [Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop](https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/)
   - [Framework Laptop 16 upgrades make it look less like an unfinished prototype](https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/)
@@ -50,6 +72,8 @@
 - HackerNoon
   - [Beyond the Tokenization Hype: How GCL New Energy and Pharos Are Putting Real Energy Assets on Chain](https://hackernoon.com/beyond-the-tokenization-hype-how-gcl-new-energy-and-pharos-are-putting-real-energy-assets-on-chain?source=rss)
   - [The FBI Got Hacked. Here's What That Actually Means](https://hackernoon.com/the-fbi-got-hacked-heres-what-that-actually-means?source=rss)
+- Hexacorn
+  - [Some unintelligent fun with ms-notepad protocol](https://www.hexacorn.com/blog/2026/04/22/some-unintelligent-fun-with-ms-notepad-protocol/)
 - IEEE Spectrum
   - [What to Consider Before You Accept a Management Role](https://spectrum.ieee.org/ic-or-manager)
 - infosecurity-magazine.com
@@ -68,6 +92,7 @@
   - [Quoting Andreas Påhlsson-Notini](https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything)
   - [Where's the raccoon with the ham radio? (ChatGPT Images 2.0)](https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-26903 exploit](https://sploitus.com/exploit?id=622FE954-B229-5DE1-B058-7F59DD5B727C&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Apache Tomcat exploit](https://sploitus.com/exploit?id=D28B72BF-5625-5AF2-BDC3-AE7C8D56C46C&utm_source=rss&utm_medium=rss)
   - [Exploit for Injection in Ghost exploit](https://sploitus.com/exploit?id=4D61F063-E58B-50B7-B411-ED9BB7DA278B&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Fortinet Fortisandbox exploit](https://sploitus.com/exploit?id=FAA1A934-A62D-5448-8D9B-5248D4D27C6B&utm_source=rss&utm_medium=rss)
@@ -83,6 +108,7 @@
   - [Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says](https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/)
   - [Former Pinterest team redesigns email with Extra — and it’s actually good](https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/)
   - [Meta will record employees’ keystrokes and use it to train its AI models](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/)
+  - [Redwood Materials lays off 10% in restructuring to chase energy storage business](https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/)
   - [Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’](https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/)
   - [SpaceX is working with Cursor and has an option to buy the startup for $60 billion](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/)
   - [SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people](https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/)
@@ -187,3 +213,5 @@
   - [Tim Cook’s Legacy Is Turning Apple Into a Subscription](https://www.wired.com/story/apple-tim-cook-subscription-business/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜GPT Image 2全量上线，中文渲染大突破/OPPO发布多款新机，刘作虎：无法承诺全年不涨价/长安汽车宣布整合阿维塔与深蓝](https://www.ifanr.com/1663271?utm_source=rss&utm_medium=rss&utm_campaign=)
