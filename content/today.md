@@ -2,9 +2,12 @@
 
 - Ars Technica
   - [Google unveils two new TPUs designed for the "agentic era"](https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/)
+  - [Microsoft issues emergency update for macOS and Linux ASP.NET threat](https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/)
   - [Tabloid reports linking 10 missing and dead scientists spur FBI probe](https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe/)
+  - [You want your Moon landings in HDTV? So does NASA—here's how it's happening.](https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/)
 - daringfireball.net
   - [Ben Thompson on Tim Cook’s Legacy](https://stratechery.com/2026/tim-cooks-impeccable-timing/)
+  - [DF T-Shirts and Hoodies: Get Them While the Getting Is Good](https://store.daringfireball.net/)
   - [There Are Corrections, and There Are Corrections](https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html?unlocked_article_code=1.c1A.iLO0.Kqdo8aBhNAY1)
 - EFF
   - [📁 How ICE Got My Data | EFFector 38.8](https://www.eff.org/deeplinks/2026/04/how-ice-got-my-data-effector-388)
@@ -14,6 +17,7 @@
   - [Alberta Startup Sells No-Tech Tractors for Half Price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
   - [Anker made its own chip to bring AI to all its products](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
   - [Coding Models Are Doing Too Much](https://nrehiew.github.io/blog/minimal_editing/)
+  - [New study compares growing corn for energy to solar production. It's no contest](https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/)
   - [Parallel Agents in Zed](https://zed.dev/blog/parallel-agents)
   - [Show HN: Broccoli, one shot coding agent on the cloud](https://github.com/besimple-oss/broccoli)
   - [Surveillance Pricing: Exploiting Information Asymmetries](https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/)
@@ -32,10 +36,13 @@
   - [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything)
 - TechCrunch
   - [AI Overviews are coming to your Gmail at work](https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/)
+  - [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
+  - [France confirms data breach at government agency that manages citizens’ IDs](https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/)
   - [From the stage to the future: Where are Startup Battlefield’s alumni now?](https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/)
   - [Google Cloud launches two new AI chips to compete with Nvidia](https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/)
   - [Google makes an interesting choice with its new agent building tool for enterprises](https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/)
   - [Google turns Chrome into an AI coworker for the workplace](https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/)
+  - [How SpaceX preempted a $2B fundraise with a $60B buyout offer](https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/)
   - [Threads is adding Live Chats to boost real-time engagement](https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/)
 - The Decoder
   - [Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world](https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/)
