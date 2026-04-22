@@ -2,33 +2,49 @@
 
 - 2Libra
   - [Github Copilot pro/pro+ 下线 Claude opus 模型](https://2libra.com/post/ai-tools/4tjQ6-o)
+  - [GPT-image-2 灰度了，你看到什么离谱的很真实的生成图？](https://2libra.com/post/ai-updates/Ku3M3dc)
+  - [你们的爸妈存在思想固化吗？](https://2libra.com/post/family/vCOXAUu)
   - [广东移动 token plan 免费体验包，有人抢到吗？](https://2libra.com/post/deal-hunter/OnlC_fn)
+  - [梯子 PC 客户端工具推荐](https://2libra.com/post/tools-sharing/yEhkx4d)
 - 36氪
+  - [4月22日人民币对美元中间价调贬41个基点](https://36kr.com/newsflashes/3777308858190084?f=rss)
   - [8点1氪丨MCN机构回应女孩挪用上千万打赏主播；苹果更换CEO原因曝光；国内油价2026年首次下调](https://36kr.com/p/3777227930224900?f=rss)
+  - [A股三大指数集体低开，商业航天概念下挫](https://36kr.com/newsflashes/3777319815448833?f=rss)
   - [A股公司可转债再融资升温，监管“扶优限劣”严防盲目跨界投资](https://36kr.com/newsflashes/3777227456661510?f=rss)
   - [GPT-Image-2正式发布](https://36kr.com/newsflashes/3777228104370181?f=rss)
   - [Keurig与雀巢续签协议，延续星巴克咖啡分销合作](https://36kr.com/newsflashes/3777274442696969?f=rss)
+  - [LG人工智能研究院与英伟达同意加强AI合作](https://36kr.com/newsflashes/3777321625225219?f=rss)
   - [SpaceX宣布有权在今年晚些时候以600亿美元收购Cursor](https://36kr.com/newsflashes/3777254680430593?f=rss)
   - [SpaceX放出“IPO重磅炸弹”：公司太空AI技术未经验证，未必能商业化](https://36kr.com/newsflashes/3777282800125952?f=rss)
+  - [“恒宇医疗”获超亿元融资](https://36kr.com/newsflashes/3777326706297094?f=rss)
   - [一季度公募基金重点增配信息技术等板块](https://36kr.com/newsflashes/3777221466327048?f=rss)
   - [一季度我国邮政行业寄递业务量同比增长4.5%](https://36kr.com/newsflashes/3777294627194887?f=rss)
+  - [三大指数集体翻红](https://36kr.com/newsflashes/3777335839885319?f=rss)
   - [两市融资余额增加64.03亿元](https://36kr.com/newsflashes/3777285857134849?f=rss)
   - [中信建投：预计2027年钠电进入平价放量时代，碳酸锂涨价预期加速进程](https://36kr.com/newsflashes/3777211463976966?f=rss)
   - [中信证券：人形机器人放量在即，电机绕线设备快速发展](https://36kr.com/newsflashes/3777235688573192?f=rss)
   - [中信证券：医美行业当前竞争较为激烈，但结构性机会持续存在](https://36kr.com/newsflashes/3777252665673731?f=rss)
   - [中信证券：运动鞋服仍将是兼具高景气和清晰格局的优质消费赛道](https://36kr.com/newsflashes/3777256818526210?f=rss)
+  - [乐聚智能IPO辅导状态变更为“辅导验收”](https://36kr.com/newsflashes/3777328269248518?f=rss)
   - [全日空将在2027财年考虑对日本国内航班收取附加费](https://36kr.com/newsflashes/3777234436196358?f=rss)
   - [关键量子机制揭示芯片运行为何“变慢”](https://36kr.com/newsflashes/3777234863081479?f=rss)
   - [券商交出资管业务“成绩单”，头部集中趋势有所加剧](https://36kr.com/newsflashes/3777215774115847?f=rss)
   - [华泰证券：关注光模块上游核心材料发展机遇](https://36kr.com/newsflashes/3777216616466432?f=rss)
+  - [印尼计划推出电动摩托车购买奖励计划](https://36kr.com/newsflashes/3777331785713929?f=rss)
   - [原子钟技术验证时间存在量子叠加态](https://36kr.com/newsflashes/3777232030631941?f=rss)
   - [双向脑机接口同步恢复患者行走与感觉](https://36kr.com/newsflashes/3777231323826439?f=rss)
   - [多家银行创新金融服务赋能人形机器人赛道](https://36kr.com/newsflashes/3777240503159048?f=rss)
+  - [央行今日开展60亿元7天期逆回购操作](https://36kr.com/newsflashes/3777323029972993?f=rss)
+  - [宁德时代：正与数家中国高端车企探讨凝聚态电池合作](https://36kr.com/newsflashes/3777324535597320?f=rss)
+  - [希音一季度向供应商交付自主研发工具设备1200件](https://36kr.com/newsflashes/3777349805754631?f=rss)
   - [并购整合夯实根基，券商协同价值持续兑现](https://36kr.com/newsflashes/3777224830650624?f=rss)
   - [库克亮相苹果员工大会，称身体健康并计划长期担任执行董事长](https://36kr.com/newsflashes/3777232606889984?f=rss)
   - [微软下调Xbox Game Pass价格，取消《使命召唤》首发入库](https://36kr.com/newsflashes/3777228909545480?f=rss)
   - [必和必拓：已与中国矿产资源集团完成铁矿石销售合同谈判](https://36kr.com/newsflashes/3777210864011272?f=rss)
+  - [恒指开盘跌0.69%，恒生科技指数跌1.02%](https://36kr.com/newsflashes/3777313863829764?f=rss)
   - [押注AAV体内CAR-T，「西湖云谷智药」即将启动IIT研究](https://36kr.com/p/3774632804057607?f=rss)
+  - [牧原股份：2026年公司对屠宰量级增长与盈利水平提升有信心](https://36kr.com/newsflashes/3777347410790659?f=rss)
+  - [牧原股份：预计二季度生猪养殖成本仍会进一步下降](https://36kr.com/newsflashes/3777341089024258?f=rss)
   - [甘咨询：一季度ESG咨询、绿色建筑认证等领域无相关订单落地](https://36kr.com/newsflashes/3777290138388739?f=rss)
   - [看好权益资产后市，今年以来新发基金规模超3500亿元](https://36kr.com/newsflashes/3777213451945985?f=rss)
   - [美联储主席候选人沃什多次强调独立性，但对利率路径含糊其辞](https://36kr.com/newsflashes/3777283920513027?f=rss)
@@ -66,12 +82,17 @@
   - [Writing an LLM from scratch, part 32m -- Interventions: conclusion](https://www.gilesthomas.com/2026/04/llm-from-scratch-32m-interventions-conclusion)
 - Hacker News Frontpage
   - [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
+  - [Global growth in solar "the largest ever observed for any source"](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/)
+  - [I'm Sick of AI Everything](https://news.ycombinator.com/item?id=47857461)
+  - [San Diego rents declined more than 19 of 20 top US markets after surge in supply](https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply)
   - [Show HN: Daemons – we pivoted from building agents to cleaning up after them](https://charlielabs.ai/)
   - [SpaceX Strikes Deal With Cursor for $60 Billion](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html)
   - [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
 - HackerNoon
   - [Beyond the Tokenization Hype: How GCL New Energy and Pharos Are Putting Real Energy Assets on Chain](https://hackernoon.com/beyond-the-tokenization-hype-how-gcl-new-energy-and-pharos-are-putting-real-energy-assets-on-chain?source=rss)
   - [The FBI Got Hacked. Here's What That Actually Means](https://hackernoon.com/the-fbi-got-hacked-heres-what-that-actually-means?source=rss)
+- herman.bearblog.dev
+  - [The commodification of travel](https://herman.bearblog.dev/the-commodification-of-travel/)
 - Hexacorn
   - [Some unintelligent fun with ms-notepad protocol](https://www.hexacorn.com/blog/2026/04/22/some-unintelligent-fun-with-ms-notepad-protocol/)
 - IEEE Spectrum
@@ -85,6 +106,7 @@
   - [Roundtables: Unveiling The 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/)
 - SANS Internet Storm Center, InfoCON: green
   - [&#x5b;Guest Diary&#x5d; Beyond Cryptojacking: Telegram tdata as a Credential Harvesting Vector, Lessons from a Honeypot Incident, (Wed, Apr 22nd)](https://isc.sans.edu/diary/rss/32888)
+  - [ISC Stormcast For Wednesday, April 22nd, 2026 https://isc.sans.edu/podcastdetail/9902, (Wed, Apr 22nd)](https://isc.sans.edu/diary/rss/32918)
 - Security Affairs
   - [North Korea’s Lazarus APT stole $290M from Kelp DAO](https://securityaffairs.com/191092/digital-id/north-koreas-lazarus-apt-stole-290m-from-kelp-dao.html)
   - [Ransomware negotiator caught secretly assisting BlackCat extortion scheme](https://securityaffairs.com/191100/security/ransomware-negotiator-caught-secretly-assisting-blackcat-extortion-scheme.html)
@@ -95,6 +117,7 @@
   - [Exploit for CVE-2026-26903 exploit](https://sploitus.com/exploit?id=622FE954-B229-5DE1-B058-7F59DD5B727C&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Apache Tomcat exploit](https://sploitus.com/exploit?id=D28B72BF-5625-5AF2-BDC3-AE7C8D56C46C&utm_source=rss&utm_medium=rss)
   - [Exploit for Injection in Ghost exploit](https://sploitus.com/exploit?id=4D61F063-E58B-50B7-B411-ED9BB7DA278B&utm_source=rss&utm_medium=rss)
+  - [Exploit for Origin Validation Error in Apache Airflow_Providers_Amazon exploit](https://sploitus.com/exploit?id=F4427F45-0EAA-5A2E-A203-5A502B9376F4&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Fortinet Fortisandbox exploit](https://sploitus.com/exploit?id=FAA1A934-A62D-5448-8D9B-5248D4D27C6B&utm_source=rss&utm_medium=rss)
   - [SQLi-Injection-Payloads exploit](https://sploitus.com/exploit?id=82B32413-7D55-5CEE-9954-CB853CA975A4&utm_source=rss&utm_medium=rss)
   - [vulnscanx_v2 exploit](https://sploitus.com/exploit?id=00AB357F-70C6-5538-92B1-5429DE68451E&utm_source=rss&utm_medium=rss)
@@ -214,4 +237,9 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [三车齐发！荣威联手字节跳动，推出全新「家越」序列](https://www.ifanr.com/1663224?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜GPT Image 2全量上线，中文渲染大突破/OPPO发布多款新机，刘作虎：无法承诺全年不涨价/长安汽车宣布整合阿维塔与深蓝](https://www.ifanr.com/1663271?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [单Agent时代结束，AI们开始组团上班](https://www.qbitai.com/2026/04/404130.html)
+- 黑海洋
+  - [​勒索软件谈判专家承认帮助勒索软件团伙](https://blog.upx8.com/%E5%8B%92%E7%B4%A2%E8%BD%AF%E4%BB%B6%E8%B0%88%E5%88%A4%E4%B8%93%E5%AE%B6%E6%89%BF%E8%AE%A4%E5%B8%AE%E5%8A%A9%E5%8B%92%E7%B4%A2%E8%BD%AF%E4%BB%B6%E5%9B%A2%E4%BC%99)
