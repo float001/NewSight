@@ -212,6 +212,7 @@
 - Ars Technica
   - [Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop](https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/)
   - [Framework Laptop 16 upgrades make it look less like an unfinished prototype](https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/)
+  - [Indian med student rakes in thousands with AI-generated MAGA hottie](https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/)
   - [Microsoft removes Call of Duty from Game Pass, lowers subscription pricing](https://arstechnica.com/gaming/2026/04/microsofts-game-pass-gets-cheaper-loses-launch-day-call-of-duty-access/)
   - [Our favorite gear at Sea Otter Classic wasn't the bikes—it was the accessories](https://arstechnica.com/cars/2026/04/our-favorite-gear-at-sea-otter-classic-wasnt-the-bikes-it-was-the-accessories/)
 - Blog - Praetorian
@@ -222,6 +223,7 @@
   - [[Sponsor] Rec League](https://recleague.com/?lyr_campaign=df)
   - [Trump on Tim Apple](https://truthsocial.com/@realDonaldTrump/posts/116442276577696798)
 - darkreading
+  - [DPRK Fake Job Scams Self-Propagate in 'Contagious Interview'](https://www.darkreading.com/cyberattacks-data-breaches/dprk-fake-job-scams-self-propagate-contagious-interview)
   - [Exploits Turn Windows Defender into Attacker Tool](https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool)
   - [Ransomware Negotiator Pleads Guilty to BlackCat Scheme](https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme)
 - Der Flounder
@@ -235,12 +237,14 @@
 - Hacker News Frontpage
   - [Books Are Not Remotely Too Expensive](https://www.millersbookreview.com/p/no-books-are-not-remotely-too-expensive)
   - [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
+  - [DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser](https://duckdb.org/2026/04/13/announcing-duckdb-152)
   - [Global growth in solar "the largest ever observed for any source"](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/)
   - [I'm Sick of AI Everything](https://news.ycombinator.com/item?id=47857461)
   - [Iran claims US exploited networking equipment backdoors during strikes](https://www.tomshardware.com/tech-industry/cyber-security/iran-claims-us-exploited-networking-equipment-backdoors-during-strikes)
   - [OpenAI reinvents Recall except everything is stored remotely](https://developers.openai.com/codex/memories/chronicle)
   - [Our eighth generation TPUs: two chips for the agentic era](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/)
   - [San Diego rents declined more than 19 of 20 top US markets after surge in supply](https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply)
+  - [Show HN submissions tripled and are now mostly vibe-coded](https://www.adriankrebs.ch/blog/design-slop/)
   - [Show HN: Daemons – we pivoted from building agents to cleaning up after them](https://charlielabs.ai/)
   - [SpaceX Strikes Deal With Cursor for $60 Billion](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html)
   - [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
@@ -269,9 +273,11 @@
   - [What to Consider Before You Accept a Management Role](https://spectrum.ieee.org/ic-or-manager)
 - infosecurity-magazine.com
   - [Former Ransomware Negotiator Pleads Guilty to Working For BlackCat Cyber Gang](https://www.infosecurity-magazine.com/news/former-ransomware-negotiator/)
+  - [NCSC Unveils SilentGlass, a Plug-In Device to Protect Monitors from Cyber-Attacks](https://www.infosecurity-magazine.com/news/ncsc-silentglass-a-plugin-stop/)
   - [Researchers Uncover ProxySmart Software Powering 90+ SIM Farms](https://www.infosecurity-magazine.com/news/researchers-proxysmart-software-90/)
   - [Surge in Silent Subject Phishing Attacks Targets VIP Users](https://www.infosecurity-magazine.com/news/silent-subject-phishing-campaigns/)
   - [Trojanized Android App Fuels New Wave of NFC Fraud](https://www.infosecurity-magazine.com/news/trojanized-android-handle-nfc/)
+  - [UK Commits £90m for Cybersecurity and Pushes for ‘Resilience Pledge’](https://www.infosecurity-magazine.com/news/uk-pledges-90m-for-cybersecurity/)
 - johndcook.com
   - [An AI Odyssey, Part 4: Astounding Coding Agents](https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/)
 - MIT Technology Review
@@ -328,6 +334,7 @@
   - [AI research lab NeoCognition lands $40M seed to build agents that learn like humans](https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/)
   - [Apple’s Cal AI crackdown signals it’s still policing the App Store](https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/)
   - [Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield](https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/)
+  - [Cathie Woods’ ARK makes its first lead investment in startup Lucra — and it isn’t AI](https://techcrunch.com/2026/04/22/cathie-woods-ark-makes-its-first-lead-investment-in-startup-lucra-and-it-isnt-ai/)
   - [ChatGPT’s new Images 2.0 model is surprisingly good at generating text](https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/)
   - [Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says](https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/)
   - [Duolingo is now giving free users access to advanced learning content](https://techcrunch.com/2026/04/22/duolingo-is-now-giving-free-users-access-to-advanced-learning-content-that-was-previously-reserved-for-paid-subs/)
@@ -335,6 +342,7 @@
   - [Former Pinterest team redesigns email with Extra — and it’s actually good](https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/)
   - [Google Maps is about to get a big dose of AI](https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/)
   - [Meta will record employees’ keystrokes and use it to train its AI models](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/)
+  - [OpenAI teams up with Infosys to bring AI tools to more businesses](https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/)
   - [Redwood Materials lays off 10% in restructuring to chase energy storage business](https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/)
   - [Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’](https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/)
   - [Snap Map’s new ‘Place Loyalty’ badges will show the spots you visit most often](https://techcrunch.com/2026/04/22/snap-maps-new-place-loyalty-badges-will-show-the-spots-you-visit-most-often/)
@@ -351,6 +359,8 @@
   - [Musk's SpaceX bets $60 billion on Cursor to fix xAI's coding gap](https://the-decoder.com/musks-spacex-bets-60-billion-on-cursor-to-fix-xais-coding-gap/)
   - [OpenAI's ChatGPT Images 2.0 thinks before it generates, adding reasoning and web search to image creation](https://the-decoder.com/openais-chatgpt-images-2-0-thinks-before-it-generates-adding-reasoning-and-web-search-to-image-creation/)
   - [Unauthorized users breach Anthropic's restricted Mythos AI model](https://the-decoder.com/unauthorized-users-breach-anthropics-restricted-mythos-ai-model/)
+- The DFIR Report
+  - [Bissa Scanner Exposed: AI-Assisted Mass Exploitation and Credential Harvesting](https://thedfirreport.com/2026/04/22/bissa-scanner-exposed-ai-assisted-mass-exploitation-and-credential-harvesting/)
 - The Verge
   - [AI backlash is coming for elections](https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs)
   - [Anker made its own chip to bring AI to all its products](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
@@ -366,8 +376,10 @@
   - [Govee’s new rechargeable table lamp is less than half the price of Hue’s](https://www.theverge.com/tech/915959/govee-table-smart-lamp-classic-battery-rechargeable-matter-pricing)
   - [ISS astronauts are getting new laptops](https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9)
   - [It’s amazing how good Alienware’s $350 OLED monitor is](https://www.theverge.com/tech/916277/alienware-aw2726dm-qdoled-gaming-monitor-specs-hands-on)
+  - [Now Meta will track what employees do on their computers to train its AI agents](https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking)
   - [OpenAI’s updated image generator can now pull information from the web](https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2)
   - [Ordering with the Starbucks ChatGPT app was a true coffee nightmare](https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing)
+  - [Sony’s PlayStation 5 is $200 off for the first time since December](https://www.theverge.com/gadgets/916610/ps5-digital-4k-bluray-fitbit-google-pixel-watch-deal-sale)
   - [SpaceX cuts a deal to maybe buy Cursor for $60 billion](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition)
   - [The AirPods are Tim Cook’s most underrated achievement](https://www.theverge.com/tech/916031/tim-cook-apple-airpods-legacy)
   - [The Mac is in good hands in Apple’s post-Cook era](https://www.theverge.com/tech/915896/john-ternus-apple-ceo-tim-cook-johny-srouji-mac-future)
@@ -417,6 +429,21 @@
   - [CVE-2026-31013 | Softwares ADPhonebook up to 4.0.1.0 ADPhonebook?Department=HR Search cross site scripting](https://vuldb.com/vuln/358501)
   - [CVE-2026-31014 | Dovestones AD Self Update up to 4.0.0.4 Endpoint cross-site request forgery](https://vuldb.com/vuln/358502)
   - [CVE-2026-31019 | Dolibarr ERP CRM up to 22.0.4 Website permission](https://vuldb.com/vuln/358493)
+  - [CVE-2026-31192 | Raindrop Bookmark Manager Web App 5.6.76.0 information disclosure](https://vuldb.com/vuln/358856)
+  - [CVE-2026-31434 | Linux Kernel up to 6.19.10 btrfs create_space_info_sub_group sub_group[] memory leak](https://vuldb.com/vuln/358854)
+  - [CVE-2026-31435 | Linux Kernel up to 6.18.20/6.19.10 netfs infinite loop](https://vuldb.com/vuln/358855)
+  - [CVE-2026-31436 | Linux Kernel up to 6.12.79/6.18.20/6.19.10 dmaengine llist_abort_desc null pointer dereference](https://vuldb.com/vuln/358858)
+  - [CVE-2026-31437 | Linux Kernel up to 6.18.20/6.19.10 fs/netfs/direct_write.c netfs_unbuffered_write null pointer dereference](https://vuldb.com/vuln/358857)
+  - [CVE-2026-31450 | Linux Kernel up to 6.19.10 ext4 ext4_inode_attach_jinode memory corruption](https://vuldb.com/vuln/358863)
+  - [CVE-2026-31452 | Linux Kernel up to 6.19.10 ext4 ext4_setattr denial of service](https://vuldb.com/vuln/358865)
+  - [CVE-2026-31464 | Linux Kernel up to 6.19.10 ibmvfc_discover_targets_done out-of-bounds](https://vuldb.com/vuln/358860)
+  - [CVE-2026-31466 | Linux Kernel up to 6.19.10 huge_memory softleaf_to_folio privilege escalation](https://vuldb.com/vuln/358862)
+  - [CVE-2026-31469 | Linux Kernel up to 6.19.10 virtio_net lib/percpu_counter.c free_old_xmit use after free](https://vuldb.com/vuln/358867)
+  - [CVE-2026-31488 | Linux Kernel up to 6.12.79/6.18.20/6.19.10 pre_validate_dsc use after free](https://vuldb.com/vuln/358866)
+  - [CVE-2026-31490 | Linux Kernel up to 6.19.10 xe_sriov_pf_migration_restore_produce use after free](https://vuldb.com/vuln/358868)
+  - [CVE-2026-31505 | Linux Kernel up to 6.12.79/6.18.20/6.19.10 iavf iavf_get_ethtool_stats out-of-bounds write](https://vuldb.com/vuln/358864)
+  - [CVE-2026-31520 | Linux Kernel up to 6.19.10 HID apple_report_fixup memory leak](https://vuldb.com/vuln/358859)
+  - [CVE-2026-31530 | Linux Kernel up to 6.12.79/6.18.20/6.19.10 cxl_detach_ep use after free](https://vuldb.com/vuln/358861)
   - [CVE-2026-3298 | Python CPython up to 3.14.x on Windows sock_recvfrom_into nbytes out-of-bounds write (ID 148808)](https://vuldb.com/vuln/358499)
   - [CVE-2026-3307 | GitHub Enterprise Server up to 3.20.0 Request Body owner_id authorization](https://vuldb.com/vuln/358607)
   - [CVE-2026-33256 | PowerDNS Recursor up to 5.2.8/5.3.5/5.4.0 denial of service](https://vuldb.com/vuln/358838)
@@ -618,6 +645,8 @@
   - [CVE-2026-6855 | Red Hat Enterprise Linux AI 3 logs_dir path traversal](https://vuldb.com/vuln/358846)
   - [CVE-2026-6857 | Apache camel-infinispan deserialization](https://vuldb.com/vuln/358845)
   - [CVE-2026-6859 | Red Hat Enterprise Linux AI 3 linux_train.py inclusion of functionality from untrusted control sphere](https://vuldb.com/vuln/358847)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Oracle Critical Patch Update, April 2026 Security Update Review](https://blog.qualys.com/category/vulnerabilities-threat-research)
 - Wallarm
   - [Attacking the MCP Trust Boundary](https://lab.wallarm.com/attacking-the-mcp-trust-boundary/)
 - wheresyoured.at
@@ -651,6 +680,7 @@
   - [Tim Cook’s Legacy Is Turning Apple Into a Subscription](https://www.wired.com/story/apple-tim-cook-subscription-business/)
   - [Tuft & Needle Promo Codes: 20% Off | April 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
   - [Ulta Promo Codes: Up to 50% Off in April](https://www.wired.com/story/ulta-coupon/)
+  - [USAID Whistleblower Says It Was Even Worse Than People Knew](https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/)
   - [Valvoline Coupons & Promo Codes for April 2026](https://www.wired.com/story/valvoline-coupons/)
   - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
   - [Walmart Promo Codes: 65% Off](https://www.wired.com/story/top-walmart-promo-codes/)
@@ -665,7 +695,9 @@
   - [Firefox 150 释出](https://www.solidot.org/story?sid=84111)
   - [Meta 开始记录员工鼠标移动和按键用于 AI 训练](https://www.solidot.org/story?sid=84112)
   - [SpaceX 达成协议可选以 600 亿美元收购 Cursor](https://www.solidot.org/story?sid=84110)
+  - [中国选拔出两名巴基斯坦预备宇航员](https://www.solidot.org/story?sid=84121)
   - [微软降低 Game Pass 订阅费](https://www.solidot.org/story?sid=84113)
+  - [英国 17 岁以下儿童终身禁止购烟](https://www.solidot.org/story?sid=84120)
 - 爱范儿
   - [6 分钟充满！宁德时代发布四款全新电池，续航突破 1500 公里](https://www.ifanr.com/1663250?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [三车齐发！荣威联手字节跳动，推出全新「家越」序列](https://www.ifanr.com/1663224?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -687,6 +719,8 @@
   - [Meta将记录员工的按键数据用于训练AI模型](https://blog.upx8.com/Meta%E5%B0%86%E8%AE%B0%E5%BD%95%E5%91%98%E5%B7%A5%E7%9A%84%E6%8C%89%E9%94%AE%E6%95%B0%E6%8D%AE%E7%94%A8%E4%BA%8E%E8%AE%AD%E7%BB%83AI%E6%A8%A1%E5%9E%8B)
   - [Mozilla 使用 Claude Mythos 找到并修复了 Firefox 中的 271 个漏洞](https://blog.upx8.com/Mozilla-%E4%BD%BF%E7%94%A8-Claude-Mythos-%E6%89%BE%E5%88%B0%E5%B9%B6%E4%BF%AE%E5%A4%8D%E4%BA%86-Firefox-%E4%B8%AD%E7%9A%84-271-%E4%B8%AA%E6%BC%8F%E6%B4%9E)
   - [OpenAI在佛罗里达州遭刑事调查涉及枪击案](https://blog.upx8.com/OpenAI%E5%9C%A8%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%B7%9E%E9%81%AD%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5%E6%B6%89%E5%8F%8A%E6%9E%AA%E5%87%BB%E6%A1%88)
+  - [X向Premium用户推出由AI自定义时间线](https://blog.upx8.com/X%E5%90%91Premium%E7%94%A8%E6%88%B7%E6%8E%A8%E5%87%BA%E7%94%B1AI%E8%87%AA%E5%AE%9A%E4%B9%89%E6%97%B6%E9%97%B4%E7%BA%BF)
   - [​勒索软件谈判专家承认帮助勒索软件团伙](https://blog.upx8.com/%E5%8B%92%E7%B4%A2%E8%BD%AF%E4%BB%B6%E8%B0%88%E5%88%A4%E4%B8%93%E5%AE%B6%E6%89%BF%E8%AE%A4%E5%B8%AE%E5%8A%A9%E5%8B%92%E7%B4%A2%E8%BD%AF%E4%BB%B6%E5%9B%A2%E4%BC%99)
+  - [日产三月份在华新车销量逆势增长23%](https://blog.upx8.com/%E6%97%A5%E4%BA%A7%E4%B8%89%E6%9C%88%E4%BB%BD%E5%9C%A8%E5%8D%8E%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E9%80%86%E5%8A%BF%E5%A2%9E%E9%95%BF23)
   - [美国军方在沙特部署乌克兰反无人机系统](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%86%9B%E6%96%B9%E5%9C%A8%E6%B2%99%E7%89%B9%E9%83%A8%E7%BD%B2%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8F%8D%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%B3%BB%E7%BB%9F)
   - [谷歌内部政治导致其在AI编程领域落后](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%86%85%E9%83%A8%E6%94%BF%E6%B2%BB%E5%AF%BC%E8%87%B4%E5%85%B6%E5%9C%A8AI%E7%BC%96%E7%A8%8B%E9%A2%86%E5%9F%9F%E8%90%BD%E5%90%8E)
