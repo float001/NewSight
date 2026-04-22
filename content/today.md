@@ -3,7 +3,28 @@
 - 2Libra
   - [Github Copilot pro/pro+ 下线 Claude opus 模型](https://2libra.com/post/ai-tools/4tjQ6-o)
 - 36氪
+  - [8点1氪丨MCN机构回应女孩挪用上千万打赏主播；苹果更换CEO原因曝光；国内油价2026年首次下调](https://36kr.com/p/3777227930224900?f=rss)
+  - [A股公司可转债再融资升温，监管“扶优限劣”严防盲目跨界投资](https://36kr.com/newsflashes/3777227456661510?f=rss)
+  - [GPT-Image-2正式发布](https://36kr.com/newsflashes/3777228104370181?f=rss)
+  - [一季度公募基金重点增配信息技术等板块](https://36kr.com/newsflashes/3777221466327048?f=rss)
+  - [中信建投：预计2027年钠电进入平价放量时代，碳酸锂涨价预期加速进程](https://36kr.com/newsflashes/3777211463976966?f=rss)
+  - [中信证券：人形机器人放量在即，电机绕线设备快速发展](https://36kr.com/newsflashes/3777235688573192?f=rss)
+  - [全日空将在2027财年考虑对日本国内航班收取附加费](https://36kr.com/newsflashes/3777234436196358?f=rss)
+  - [关键量子机制揭示芯片运行为何“变慢”](https://36kr.com/newsflashes/3777234863081479?f=rss)
+  - [券商交出资管业务“成绩单”，头部集中趋势有所加剧](https://36kr.com/newsflashes/3777215774115847?f=rss)
+  - [华泰证券：关注光模块上游核心材料发展机遇](https://36kr.com/newsflashes/3777216616466432?f=rss)
+  - [原子钟技术验证时间存在量子叠加态](https://36kr.com/newsflashes/3777232030631941?f=rss)
+  - [双向脑机接口同步恢复患者行走与感觉](https://36kr.com/newsflashes/3777231323826439?f=rss)
+  - [并购整合夯实根基，券商协同价值持续兑现](https://36kr.com/newsflashes/3777224830650624?f=rss)
+  - [库克亮相苹果员工大会，称身体健康并计划长期担任执行董事长](https://36kr.com/newsflashes/3777232606889984?f=rss)
+  - [微软下调Xbox Game Pass价格，取消《使命召唤》首发入库](https://36kr.com/newsflashes/3777228909545480?f=rss)
+  - [必和必拓：已与中国矿产资源集团完成铁矿石销售合同谈判](https://36kr.com/newsflashes/3777210864011272?f=rss)
+  - [看好权益资产后市，今年以来新发基金规模超3500亿元](https://36kr.com/newsflashes/3777213451945985?f=rss)
   - [美股三大指数集体收跌，热门中概股普跌](https://36kr.com/newsflashes/3777117957835009?f=rss)
+  - [通用汽车据悉无限期推迟下一代电动皮卡项目](https://36kr.com/newsflashes/3777210513901831?f=rss)
+  - [锂矿企业重启“赚钱模式”](https://36kr.com/newsflashes/3777223439681797?f=rss)
+  - [集成光路芯片能发出多种颜色激光](https://36kr.com/newsflashes/3777233782786307?f=rss)
+  - [韩国3月份PPI环比上涨1.6%，创近四年最大涨幅](https://36kr.com/newsflashes/3777236437600262?f=rss)
 - Ars Technica
   - [Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop](https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/)
   - [Framework Laptop 16 upgrades make it look less like an unfinished prototype](https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/)
@@ -15,6 +36,8 @@
 - darkreading
   - [Exploits Turn Windows Defender into Attacker Tool](https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool)
   - [Ransomware Negotiator Pleads Guilty to BlackCat Scheme](https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme)
+- Der Flounder
+  - [Apple enforcing stricter network security requirements for future versions of Apple’s platform operating systems](https://derflounder.wordpress.com/2026/04/21/apple-enforcing-stricter-network-security-requirements-for-future-versions-of-apples-platform-operating-systems/)
 - Fidelis Security
   - [How to Detect & Prevent Remote Code Execution (RCE)](https://fidelissecurity.com/threatgeek/threat-detection-response/remote-code-execution-rce-attacks/)
 - gilesthomas.com
@@ -36,6 +59,8 @@
 - MIT Technology Review
   - [Building agent-first governance and security](https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/)
   - [Roundtables: Unveiling The 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/)
+- SANS Internet Storm Center, InfoCON: green
+  - [&#x5b;Guest Diary&#x5d; Beyond Cryptojacking: Telegram tdata as a Credential Harvesting Vector, Lessons from a Honeypot Incident, (Wed, Apr 22nd)](https://isc.sans.edu/diary/rss/32888)
 - Security Affairs
   - [North Korea’s Lazarus APT stole $290M from Kelp DAO](https://securityaffairs.com/191092/digital-id/north-koreas-lazarus-apt-stole-290m-from-kelp-dao.html)
   - [Ransomware negotiator caught secretly assisting BlackCat extortion scheme](https://securityaffairs.com/191100/security/ransomware-negotiator-caught-secretly-assisting-blackcat-extortion-scheme.html)
@@ -44,7 +69,9 @@
   - [Where's the raccoon with the ham radio? (ChatGPT Images 2.0)](https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Improper Input Validation in Apache Tomcat exploit](https://sploitus.com/exploit?id=D28B72BF-5625-5AF2-BDC3-AE7C8D56C46C&utm_source=rss&utm_medium=rss)
+  - [Exploit for Injection in Ghost exploit](https://sploitus.com/exploit?id=4D61F063-E58B-50B7-B411-ED9BB7DA278B&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Fortinet Fortisandbox exploit](https://sploitus.com/exploit?id=FAA1A934-A62D-5448-8D9B-5248D4D27C6B&utm_source=rss&utm_medium=rss)
+  - [SQLi-Injection-Payloads exploit](https://sploitus.com/exploit?id=82B32413-7D55-5CEE-9954-CB853CA975A4&utm_source=rss&utm_medium=rss)
   - [vulnscanx_v2 exploit](https://sploitus.com/exploit?id=00AB357F-70C6-5538-92B1-5429DE68451E&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A look at Tim Cook’s 15-year legacy as CEO of Apple](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/)
@@ -55,10 +82,12 @@
   - [ChatGPT’s new Images 2.0 model is surprisingly good at generating text](https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/)
   - [Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says](https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/)
   - [Former Pinterest team redesigns email with Extra — and it’s actually good](https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/)
+  - [Meta will record employees’ keystrokes and use it to train its AI models](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/)
   - [Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’](https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/)
   - [SpaceX is working with Cursor and has an option to buy the startup for $60 billion](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/)
   - [SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people](https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/)
   - [Tim Cook is stepping down as CEO of Apple. Here’s a look at his 15-year legacy, from new products and services to China expansion.](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/)
+  - [Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/)
 - The Decoder
   - [Google launches Deep Research and Deep Research Max agents to automate complex research](https://the-decoder.com/google-launches-deep-research-and-deep-research-max-agents-to-automate-complex-research/)
   - [OpenAI's ChatGPT Images 2.0 thinks before it generates, adding reasoning and web search to image creation](https://the-decoder.com/openais-chatgpt-images-2-0-thinks-before-it-generates-adding-reasoning-and-web-search-to-image-creation/)
@@ -79,6 +108,8 @@
   - [Tim Cook was an innovator — just not the Jobs kind](https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo)
   - [Twelve South’s magnetic PowerBug charger is down to just $35](https://www.theverge.com/gadgets/915978/twelve-south-powerbug-deal-sale)
   - [X makes it 1,900 percent more expensive to post links](https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme)
+- troyhunt.com
+  - [Weekly Update 500](https://www.troyhunt.com/weekly-update-500/)
 - VulDB Recent Entries
   - [CVE-2017-20230 | NWCLARK Storable up to 3.04 on Perl retrieve_hook stack-based overflow (Issue 15831)](https://vuldb.com/vuln/358504)
   - [CVE-2025-10354 | Semantic MediaWiki 5.0.2 URL Speciaal:GefacetteerdZoeken cross site scripting](https://vuldb.com/vuln/358495)
