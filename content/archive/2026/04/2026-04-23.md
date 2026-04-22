@@ -5,6 +5,9 @@
   - [Tabloid reports linking 10 missing and dead scientists spur FBI probe](https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe/)
 - daringfireball.net
   - [Ben Thompson on Tim Cook’s Legacy](https://stratechery.com/2026/tim-cooks-impeccable-timing/)
+  - [There Are Corrections, and There Are Corrections](https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html?unlocked_article_code=1.c1A.iLO0.Kqdo8aBhNAY1)
+- EFF
+  - [📁 How ICE Got My Data | EFFector 38.8](https://www.eff.org/deeplinks/2026/04/how-ice-got-my-data-effector-388)
 - gilesthomas.com
   - [Writing an LLM from scratch, part 33 -- what I learned from finally getting round to the appendices](https://www.gilesthomas.com/2026/04/llm-from-scratch-33-what-i-learned-from-the-appendices)
 - Hacker News Frontpage
@@ -16,9 +19,12 @@
   - [Surveillance Pricing: Exploiting Information Asymmetries](https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/)
   - [The Tech Oligarch's Republic](https://www.forever-wars.com/the-tech-oligarchs-republic/)
   - [Youth Suicides Declined After Creation of National Hotline](https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html)
+- Horizon3.ai
+  - [Mythos in Practice: Attack Paths, Exploitability, and What Actually Matters Most](https://horizon3.ai/intelligence/blogs/mythos-attack-paths-exploitability/)
 - infosecurity-magazine.com
   - [MacOS Native Tools Enable Stealthy Enterprise Attacks](https://www.infosecurity-magazine.com/news/macos-lotl-techniques-enterprise/)
 - Security Affairs
+  - [DDoS wave continues as Mastodon hit after Bluesky incident](https://securityaffairs.com/191144/cyber-crime/ddos-wave-continues-as-mastodon-hit-after-bluesky-incident.html)
   - [Mirai Botnet exploits CVE-2025-29635 to target legacy D-Link routers](https://securityaffairs.com/191135/malware/mirai-botnet-exploits-cve-2025-29635-to-target-legacy-d-link-routers.html)
 - SentinelOne
   - [Hypersonic Supply Chain Attacks: One Solution That Didn’t Need to Know the Payload](https://www.sentinelone.com/blog/hypersonic-supply-chain-attacks-one-solution-that-didnt-need-to-know-the-payload/)
@@ -26,13 +32,18 @@
   - [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything)
 - TechCrunch
   - [AI Overviews are coming to your Gmail at work](https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/)
+  - [From the stage to the future: Where are Startup Battlefield’s alumni now?](https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/)
+  - [Google Cloud launches two new AI chips to compete with Nvidia](https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/)
   - [Google makes an interesting choice with its new agent building tool for enterprises](https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/)
   - [Google turns Chrome into an AI coworker for the workplace](https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/)
   - [Threads is adding Live Chats to boost real-time engagement](https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/)
 - The Decoder
+  - [Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world](https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/)
   - [Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes](https://the-decoder.com/googles-new-ai-tools-put-film-scouting-in-street-view-and-promise-to-cut-weeks-of-satellite-analysis-to-minutes/)
+  - [OpenAI launches workspace agents that turn ChatGPT from a chatbot into a team automation platform](https://the-decoder.com/openai-launches-workspace-agents-that-turn-chatgpt-from-a-chatbot-into-a-team-automation-platform/)
 - The Verge
   - [Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day](https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal)
+  - [Former MrBeast exec sues over ‘years’ of alleged harassment](https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit)
   - [Google Meet will take AI notes for in-person meetings too](https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings)
   - [Microsoft says the ‘idea’ of an Xbox mobile store ‘is not dead’](https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment)
   - [Microsoft teases mysterious Discord and Xbox Game Pass partnership](https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership)
@@ -43,6 +54,7 @@
   - [CVE-2025-6016 | GitLab Community Edition/Enterprise Edition up to 18.9.5/18.10.3/18.11.0 allocation of resources](https://vuldb.com/vuln/359001)
   - [CVE-2025-9957 | GitLab Community Edition/Enterprise Edition up to 18.9.5/18.10.3/18.11.0 authorization](https://vuldb.com/vuln/359020)
   - [CVE-2026-1660 | GitLab Community Edition/Enterprise Edition up to 18.9.5/18.10.3/18.11.0 allocation of resources](https://vuldb.com/vuln/359021)
+  - [CVE-2026-32885 | DDEV up to 1.25.1 pkg/archive/archive.go Untar/Unzip path traversal (GHSA-x2xq-qhjf-5mvg)](https://vuldb.com/vuln/359038)
   - [CVE-2026-35338 | Uutils coreutils up to 0.5.x chmod Utility path traversal](https://vuldb.com/vuln/359002)
   - [CVE-2026-35339 | Uutils coreutils up to 0.5.x Recursive Mode function return value](https://vuldb.com/vuln/359003)
   - [CVE-2026-35340 | Uutils coreutils up to 0.5.x ChownExecutor function return value](https://vuldb.com/vuln/359004)
@@ -79,6 +91,8 @@
   - [CVE-2026-35379 | Uutils coreutils up to 0.7.x tr Utility character incorrect provision of specified functionality](https://vuldb.com/vuln/358992)
   - [CVE-2026-35380 | Uutils coreutils up to 0.7.x Cut Utility input validation](https://vuldb.com/vuln/359016)
   - [CVE-2026-35381 | Uutils coreutils up to 0.7.x incorrect provision of specified functionality](https://vuldb.com/vuln/358988)
+  - [CVE-2026-6874 | ericc-ch copilot-api up to 0.7.0 Header /token Host dns rebinding](https://vuldb.com/vuln/359039)
+  - [CVE-2026-6878 | ByteDance verl up to 0.7.0 prime_math/grader.py math_equal sandbox](https://vuldb.com/vuln/359040)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Don’t Wait for a Patch. Mitigate RedSun Zero-Day Risk in Microsoft Defender Today](https://blog.qualys.com/category/product-tech/vulnmgmt-detection-response)
 - wheresyoured.at
