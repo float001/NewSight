@@ -3,6 +3,8 @@
 - 2Libra
   - [2 友们，你们觉得保险有必要购买吗，有的话，有推荐吗](https://2libra.com/post/financial-management/ZvUl1tr)
   - [V 站账号登录不上去了，这里有 V 站的大佬吗？](https://2libra.com/post/questions/qPK8rao)
+  - [v2rayA 问题](https://2libra.com/post/tech-qa/D80Mivy)
+  - [偶尔会感觉年纪大了，很难给别人提供情绪价值，当然也不会主动去索取。](https://2libra.com/post/mental-health/lOtC7ZZ)
   - [好喜欢吃糯米鸡啊](https://2libra.com/post/slacking-off/XM7JD90)
   - [有没有八字交流群 交流一下](https://2libra.com/post/interest-groups/_Uu66rc)
 - 36氪
@@ -12,11 +14,13 @@
   - [8点1氪丨张雪机车发布召回通告；哪吒汽车创始人已被列为“老赖”；英国新法案规定08后终身不得购烟](https://36kr.com/p/3778660962505989?f=rss)
   - [A股三大指数集体高开，半导体板块领涨](https://36kr.com/newsflashes/3778733535073282?f=rss)
   - [Lululemon任命耐克前高管奥尼尔为新CEO](https://36kr.com/newsflashes/3778593213682948?f=rss)
+  - [Pallada游心新车型首次亮相](https://36kr.com/newsflashes/3778779191874562?f=rss)
   - [SK海力士：计划下半年向客户提供HBM4E样品，2027年实现量产](https://36kr.com/newsflashes/3778716738278401?f=rss)
   - [SK海力士：预计DRAM和NAND闪存市场均将维持有利的价格环境](https://36kr.com/newsflashes/3778631797232900?f=rss)
   - [SpaceX受邀加入开发“金穹顶”软件的行业团队](https://36kr.com/newsflashes/3778611201938694?f=rss)
   - [T3出行向港交所提交上市申请](https://36kr.com/newsflashes/3778711855322370?f=rss)
   - [WPS 365发布私有化AI解决方案“轻舟AI”](https://36kr.com/newsflashes/3778684412007426?f=rss)
+  - [“普渡机器人”完成近10亿元融资，估值突破100亿元](https://36kr.com/newsflashes/3777806406440192?f=rss)
   - [一个对话框、一只青蛙、一周4万用户，Ribbi做对了什么？](https://36kr.com/p/3778121523025154?f=rss)
   - [三大指数全部翻绿](https://36kr.com/newsflashes/3778759856804865?f=rss)
   - [两市融资余额增加136.61亿元](https://36kr.com/newsflashes/3778695224071428?f=rss)
@@ -33,11 +37,14 @@
   - [人民币兑美元中间价报6.8650](https://36kr.com/newsflashes/3778724225324041?f=rss)
   - [光线传媒：公司第一款3A游戏开发进展比较顺利](https://36kr.com/newsflashes/3778668459561987?f=rss)
   - [公募行业规模走势分化加剧，“固收+”成排位关键变量](https://36kr.com/newsflashes/3778626505118984?f=rss)
+  - [创业板指跌逾1%，下跌个股近3700只](https://36kr.com/newsflashes/3778809906680837?f=rss)
+  - [千问总裁吴嘉：“AI办事”对外开放，首家接入东方航空](https://36kr.com/newsflashes/3778790744724484?f=rss)
   - [华泰证券：2026北京车展将启幕，建议关注自主品牌高端车型](https://36kr.com/newsflashes/3778673966896136?f=rss)
   - [台积电高管称亚利桑那州芯片工厂将于2029年投产](https://36kr.com/newsflashes/3778622130770950?f=rss)
   - [台积电高管：暂不采用阿斯麦最新光刻机](https://36kr.com/newsflashes/3778646335738880?f=rss)
   - [向综合化转型打造增长新引擎，上市银行非息收入占比稳步提高](https://36kr.com/newsflashes/3778628768093192?f=rss)
   - [固态电池产业化提速，机构青睐高成长潜力股](https://36kr.com/newsflashes/3778635332474112?f=rss)
+  - [图书业在小红书电商营收规模年增超30%](https://36kr.com/newsflashes/3778823786566918?f=rss)
   - [基金挖掘小众品种，隐形龙头迎来价值发现](https://36kr.com/newsflashes/3778637254399239?f=rss)
   - [多重利好催化，AI硬件开启消费电子新成长周期](https://36kr.com/newsflashes/3778642842129410?f=rss)
   - [央行公开市场今日资金投放量持平到期量](https://36kr.com/newsflashes/3778730121483522?f=rss)
@@ -50,11 +57,14 @@
   - [恒生科技指数跌超2%](https://36kr.com/newsflashes/3778760742425606?f=rss)
   - [新模型上线期间出现功能异常，月之暗面公布补偿方案：全员额度重置](https://36kr.com/newsflashes/3778614811218947?f=rss)
   - [日经225指数首次突破6万点关口，续创新高](https://36kr.com/newsflashes/3778660519154691?f=rss)
+  - [欧莱雅集团启动可持续创新加速器“L’AcceleratOR”项目第二轮申报征集](https://36kr.com/newsflashes/3778808324625666?f=rss)
+  - [沪深两市成交额突破1.5万亿元](https://36kr.com/newsflashes/3778800931165187?f=rss)
   - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3778765753570569?f=rss)
   - [特斯拉上调今年投资预期至超250亿美元](https://36kr.com/newsflashes/3778612004214019?f=rss)
   - [特斯拉：Cortex 2算力集群现已上线，并已开始运行训练任务](https://36kr.com/newsflashes/3778658978960387?f=rss)
   - [特斯拉：一季度营收223.9亿美元，同比增长16%](https://36kr.com/newsflashes/3778590914024456?f=rss)
   - [特斯拉：正努力早日在中国市场推出智能辅助驾驶](https://36kr.com/newsflashes/3778759529092360?f=rss)
+  - [特斯拉：电池产能仍然是限制公司电动车产量提升的关键因素](https://36kr.com/newsflashes/3778796527408390?f=rss)
   - [科创板市值超千亿公司已达15家，“科特估”重塑硬科技价值](https://36kr.com/newsflashes/3778617538434312?f=rss)
   - [美股三大指数集体收涨，Arm涨超12%](https://36kr.com/newsflashes/3778588631913472?f=rss)
   - [腾讯云发布Xinference供应链投毒风险通告](https://36kr.com/newsflashes/3778691259339784?f=rss)
@@ -85,6 +95,8 @@
   - [There Are Corrections, and There Are Corrections](https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html?unlocked_article_code=1.c1A.iLO0.Kqdo8aBhNAY1)
 - EFF
   - [📁 How ICE Got My Data | EFFector 38.8](https://www.eff.org/deeplinks/2026/04/how-ice-got-my-data-effector-388)
+- eli.thegreenplace.net
+  - [Debugging WASM in Chrome DevTools](https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/)
 - gilesthomas.com
   - [Writing an LLM from scratch, part 33 -- what I learned from finally getting round to the appendices](https://www.gilesthomas.com/2026/04/llm-from-scratch-33-what-i-learned-from-the-appendices)
 - Hacker News Frontpage
@@ -99,6 +111,13 @@
   - [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king)
   - [The Tech Oligarch's Republic](https://www.forever-wars.com/the-tech-oligarchs-republic/)
   - [Youth Suicides Declined After Creation of National Hotline](https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html)
+- HackerNews
+  - [Claude Mythos ĺ‘çŽ° 271 ä¸ŞçŤç‹ćľč§ˆĺ™¨ćźć´ž](http://0.0.0.0:8080/post/64170)
+  - [â€œć”śĺ‰˛č€…â€ ĺˆŠç”¨ĺžŽč˝Żĺ›žĺ˝˘ API ĺœ¨ĺ—äşšéƒ¨ç˝˛ Linux ç‰ˆ GoGra ĺŽé—¨ç¨‹ĺş](http://0.0.0.0:8080/post/64166)
+  - [çť§ Bluesky ĺŽďźŒMastodon é­ DDoS ć”ťĺ‡ť](http://0.0.0.0:8080/post/64171)
+  - [ć–°ĺž‹ npm äž›ĺş”é“žć”ťĺ‡ťč‡Şćˆ‘äź ć’­äťĽçŞƒĺ–čŽ¤čŻäť¤ç‰Œ](http://0.0.0.0:8080/post/64168)
+  - [čś… 1300 ĺ°ĺžŽč˝Ż SharePoint ćœĺŠĄĺ™¨ć˜“ĺ—ćŹşéŞ—ć”ťĺ‡ť](http://0.0.0.0:8080/post/64169)
+  - [č‹šćžœäżŽĺ¤ iOS çłťçťŸäżç•™ĺˇ˛ĺˆ é™¤é€šçŸĽć•°ćŽçš„ćźć´ž](http://0.0.0.0:8080/post/64167)
 - HackerNoon
   - [Coinlocally Lists Tesla, Amazon, Apple, More Tokenized Stock Pairs, Launches Zero-Fee Trading](https://hackernoon.com/coinlocally-lists-tesla-amazon-apple-more-tokenized-stock-pairs-launches-zero-fee-trading?source=rss)
   - [Explain the Cursor Elon Musk Deal to Me Like I'm 5: A Technical Report on the $60B Option to Acquire](https://hackernoon.com/explain-the-cursor-elon-musk-deal-to-me-like-im-5-a-technical-report-on-the-$60b-option-to-acquire?source=rss)
@@ -117,6 +136,7 @@
   - [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Improper Input Validation in Microsoft exploit](https://sploitus.com/exploit?id=47373EE1-4958-5E36-829F-2892D366ECFB&utm_source=rss&utm_medium=rss)
+  - [hospital-waf-mcp exploit](https://sploitus.com/exploit?id=D666A62A-BD38-568C-99A4-62E6393B5531&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI Overviews are coming to your Gmail at work](https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/)
   - [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
@@ -230,6 +250,7 @@
 - 奇客Solidot–传递最新科技情报
   - [阴谋论引发美国总统关注促使 FBI 调查](https://www.solidot.org/story?sid=84123)
 - 爱范儿
+  - [全新一代瑞虎 9上市：当新能源成为话题主流后，奇瑞的燃油旗舰正在寻找新的答案](https://www.ifanr.com/1663450?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜库克称将长期担任苹果执行董事长/张雪机车召回286台820RR/特斯拉车机将接入豆包与DeepSeek](https://www.ifanr.com/1663447?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [【公益译文】2026年国际AI安全报告（四）](https://blog.nsfocus.net/%e3%80%90%e5%85%ac%e7%9b%8a%e8%af%91%e6%96%87%e3%80%912026%e5%b9%b4%e5%9b%bd%e9%99%85ai%e5%ae%89%e5%85%a8%e6%8a%a5%e5%91%8a%ef%bc%88%e5%9b%9b%ef%bc%89/)
