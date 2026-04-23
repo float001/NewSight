@@ -35,6 +35,7 @@
   - [“普渡机器人”完成近10亿元融资，估值突破100亿元](https://36kr.com/newsflashes/3777806406440192?f=rss)
   - [一个对话框、一只青蛙、一周4万用户，Ribbi做对了什么？](https://36kr.com/p/3778121523025154?f=rss)
   - [三大指数全部翻绿](https://36kr.com/newsflashes/3778759856804865?f=rss)
+  - [三星电子工会举行集会，要求公司发放占营业利润15%的绩效奖金并废除奖金上限](https://36kr.com/newsflashes/3779112053658880?f=rss)
   - [两市融资余额增加136.61亿元](https://36kr.com/newsflashes/3778695224071428?f=rss)
   - [两部门：到2030年，基本建立覆盖服务贸易多领域、全链条并适应服务贸易高质量发展需要的标准体系](https://36kr.com/newsflashes/3778867342464260?f=rss)
   - [两部门：培育重点领域中国标准品牌，加大标准宣贯实施和国际对接合作](https://36kr.com/newsflashes/3778868254135554?f=rss)
@@ -55,15 +56,20 @@
   - [光线传媒：公司第一款3A游戏开发进展比较顺利](https://36kr.com/newsflashes/3778668459561987?f=rss)
   - [公募行业规模走势分化加剧，“固收+”成排位关键变量](https://36kr.com/newsflashes/3778626505118984?f=rss)
   - [创业板指跌逾1%，下跌个股近3700只](https://36kr.com/newsflashes/3778809906680837?f=rss)
+  - [刹车功能或丧失，大众在美召回18853辆汽车](https://36kr.com/newsflashes/3779076111356933?f=rss)
+  - [千寻位置正式发布“具身时空大脑”产品集](https://36kr.com/newsflashes/3779069785134087?f=rss)
   - [千问总裁吴嘉：“AI办事”对外开放，首家接入东方航空](https://36kr.com/newsflashes/3778790744724484?f=rss)
   - [半日主力资金加仓食品饮料股，抛售电子股](https://36kr.com/newsflashes/3778885078783241?f=rss)
   - [华泰证券：2026北京车展将启幕，建议关注自主品牌高端车型](https://36kr.com/newsflashes/3778673966896136?f=rss)
   - [去哪儿：五一前后，“多城串游”预订量增118%](https://36kr.com/newsflashes/3778859036710145?f=rss)
+  - [受燃油价格冲击，德国汉莎拟削减2万架次航班](https://36kr.com/newsflashes/3779097637983490?f=rss)
   - [台积电高管称亚利桑那州芯片工厂将于2029年投产](https://36kr.com/newsflashes/3778622130770950?f=rss)
   - [台积电高管：暂不采用阿斯麦最新光刻机](https://36kr.com/newsflashes/3778646335738880?f=rss)
   - [向综合化转型打造增长新引擎，上市银行非息收入占比稳步提高](https://36kr.com/newsflashes/3778628768093192?f=rss)
   - [固态电池产业化提速，机构青睐高成长潜力股](https://36kr.com/newsflashes/3778635332474112?f=rss)
+  - [国家知识产权局：2025年我国共授权发明专利97.2万件](https://36kr.com/newsflashes/3779102747858183?f=rss)
   - [国家能源局：截至3月底全国累计发电装机容量39.6亿千瓦，同比增长15.5%](https://36kr.com/newsflashes/3779007397893377?f=rss)
+  - [国电南自：第一季度净利润4205.41万元，同比增长41.10%](https://36kr.com/newsflashes/3779108601042182?f=rss)
   - [图书业在小红书电商营收规模年增超30%](https://36kr.com/newsflashes/3778823786566918?f=rss)
   - [基金挖掘小众品种，隐形龙头迎来价值发现](https://36kr.com/newsflashes/3778637254399239?f=rss)
   - [多重利好催化，AI硬件开启消费电子新成长周期](https://36kr.com/newsflashes/3778642842129410?f=rss)
@@ -90,6 +96,7 @@
   - [杭州芯云半导体集团注册资本增至13.5亿元](https://36kr.com/newsflashes/3778845717501185?f=rss)
   - [欧莱雅集团启动可持续创新加速器“L’AcceleratOR”项目第二轮申报征集](https://36kr.com/newsflashes/3778808324625666?f=rss)
   - [正泰电器获评AAA主体信用评级](https://36kr.com/newsflashes/3779064627893257?f=rss)
+  - [汇顶科技：第一季度净利润1.17亿元，同比下降40.01%](https://36kr.com/newsflashes/3779115256468486?f=rss)
   - [沪深两市成交额突破1.5万亿元](https://36kr.com/newsflashes/3778800931165187?f=rss)
   - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3778765753570569?f=rss)
   - [沪深两市成交额突破2万亿](https://36kr.com/newsflashes/3778951305434368?f=rss)
@@ -104,17 +111,22 @@
   - [科创板市值超千亿公司已达15家，“科特估”重塑硬科技价值](https://36kr.com/newsflashes/3778617538434312?f=rss)
   - [美股三大指数集体收涨，Arm涨超12%](https://36kr.com/newsflashes/3778588631913472?f=rss)
   - [腾讯云发布Xinference供应链投毒风险通告](https://36kr.com/newsflashes/3778691259339784?f=rss)
+  - [腾讯汤道生：腾讯智慧出行目前业务已覆盖100%的头部车企及泛出行公司](https://36kr.com/newsflashes/3779124400821508?f=rss)
   - [苏黎世保险获股东批准，109亿美元收购Beazley](https://36kr.com/newsflashes/3778615706457093?f=rss)
+  - [蓝科高新：第一季度净利润1230.02万元，同比增长89.69%](https://36kr.com/newsflashes/3779114553267461?f=rss)
   - [行业景气度高位运行，光模块企业扩产忙](https://36kr.com/newsflashes/3778631298307330?f=rss)
   - [诺基亚第一季度调整后运营利润为2.81亿欧元，高于市场预期](https://36kr.com/newsflashes/3778951728567557?f=rss)
   - [软银寻求以OpenAI股份为担保，获取100亿美元保证金贷款](https://36kr.com/newsflashes/3778681423140097?f=rss)
+  - [量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能](https://36kr.com/newsflashes/3779092611142658?f=rss)
   - [银河证券：预计美股的进一步上行动力仍受财报季业绩兑现影响](https://36kr.com/newsflashes/3778695594333191?f=rss)
+  - [闪送开源CLI，为同城即时速递行业首家](https://36kr.com/newsflashes/3779076715500809?f=rss)
   - [雀巢确认将蓝瓶咖啡出售给大钲资本](https://36kr.com/newsflashes/3778983113839876?f=rss)
   - [雀巢集团一季度销售额213亿瑞士法郎，同比下降5.7%](https://36kr.com/newsflashes/3778980864709896?f=rss)
   - [雷诺集团一季度营收125.3亿欧元，同比增长7.3%](https://36kr.com/newsflashes/3778998613218564?f=rss)
   - [非货管理规模排名生变，公募机构各有高招](https://36kr.com/newsflashes/3778649599431681?f=rss)
   - [韩国第一季度GDP同比增长3.6%](https://36kr.com/newsflashes/3778593564185605?f=rss)
   - [马斯克确认特斯拉HW3芯片无法支持无监督FSD](https://36kr.com/newsflashes/3779039345710080?f=rss)
+  - [鸿蒙智行发布问界M6等多款产品](https://36kr.com/newsflashes/3779087117030402?f=rss)
   - [黑湖科技完成近10亿元D轮融资](https://36kr.com/newsflashes/3778705169077513?f=rss)
 - Ars Technica
   - [Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage](https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/)
@@ -138,6 +150,8 @@
   - [Daily Threat Briefing – April 23, 2026](https://defend.network/briefings/supply-chain-wiper-malware-critical-2026-04-23.html)
 - EFF
   - [📁 How ICE Got My Data | EFFector 38.8](https://www.eff.org/deeplinks/2026/04/how-ice-got-my-data-effector-388)
+- ElcomSoft blog
+  - [Recovering Windows Credentials with Elcomsoft System Recovery](https://blog.elcomsoft.com/2026/04/recovering-windows-credentials-with-elcomsoft-system-recovery/)
 - eli.thegreenplace.net
   - [Debugging WASM in Chrome DevTools](https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/)
 - Fidelis Security
@@ -178,6 +192,7 @@
   - [ISC Stormcast For Thursday, April 23rd, 2026 https://isc.sans.edu/podcastdetail/9904, (Thu, Apr 23rd)](https://isc.sans.edu/diary/rss/32920)
 - Security Affairs
   - [DDoS wave continues as Mastodon hit after Bluesky incident](https://securityaffairs.com/191144/cyber-crime/ddos-wave-continues-as-mastodon-hit-after-bluesky-incident.html)
+  - [Microsoft Graph API misused by new GoGra Linux malware for hidden communication](https://securityaffairs.com/191153/uncategorized/microsoft-graph-api-misused-by-new-gogra-linux-malware-for-hidden-communication.html)
   - [Mirai Botnet exploits CVE-2025-29635 to target legacy D-Link routers](https://securityaffairs.com/191135/malware/mirai-botnet-exploits-cve-2025-29635-to-target-legacy-d-link-routers.html)
 - SentinelOne
   - [Hypersonic Supply Chain Attacks: One Solution That Didn’t Need to Know the Payload](https://www.sentinelone.com/blog/hypersonic-supply-chain-attacks-one-solution-that-didnt-need-to-know-the-payload/)
@@ -216,6 +231,7 @@
   - [Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day](https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal)
   - [Former MrBeast exec sues over ‘years’ of alleged harassment](https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit)
   - [Google Meet will take AI notes for in-person meetings too](https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings)
+  - [Honor’s new phones look like iPhones for Android](https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android)
   - [Microsoft says the ‘idea’ of an Xbox mobile store ‘is not dead’](https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment)
   - [Microsoft teases mysterious Discord and Xbox Game Pass partnership](https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership)
   - [OpenAI now lets teams make custom bots that can do work on their own](https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots)
@@ -348,6 +364,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [乒乓球机器人击败了人类顶尖选手](https://www.solidot.org/story?sid=84125)
+  - [孙宇晨起诉特朗普家族的加密货币公司 World Liberty](https://www.solidot.org/story?sid=84127)
   - [苹果修复了在原始信息删除之后预览仍然保留在通知数据库里的 Bug](https://www.solidot.org/story?sid=84124)
   - [阴谋论引发美国总统关注促使 FBI 调查](https://www.solidot.org/story?sid=84123)
 - 爱范儿
@@ -356,5 +373,7 @@
 - 绿盟科技技术博客
   - [【公益译文】2026年国际AI安全报告（一）](https://blog.nsfocus.net/%e3%80%90%e5%85%ac%e7%9b%8a%e8%af%91%e6%96%87%e3%80%912026%e5%b9%b4%e5%9b%bd%e9%99%85ai%e5%ae%89%e5%85%a8%e6%8a%a5%e5%91%8a%ef%bc%88%e4%b8%80%ef%bc%89/)
   - [【公益译文】2026年国际AI安全报告（四）](https://blog.nsfocus.net/%e3%80%90%e5%85%ac%e7%9b%8a%e8%af%91%e6%96%87%e3%80%912026%e5%b9%b4%e5%9b%bd%e9%99%85ai%e5%ae%89%e5%85%a8%e6%8a%a5%e5%91%8a%ef%bc%88%e5%9b%9b%ef%bc%89/)
+  - [权威认可 | 绿盟科技防火墙实力入选“2025中国网络安全防火墙市场销量明星品牌”](https://blog.nsfocus.net/%e6%9d%83%e5%a8%81%e8%ae%a4%e5%8f%af-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e9%98%b2%e7%81%ab%e5%a2%99%e5%ae%9e%e5%8a%9b%e5%85%a5%e9%80%892025%e4%b8%ad%e5%9b%bd%e7%bd%91%e7%bb%9c%e5%ae%89/)
 - 阿小信的博客
   - [“中国AI拿下这一轮，我没意见”——Kimi K2.6引爆Hacker News，海外开发者怎么看中国开源AI大模型？](https://blog.axiaoxin.com/post/china-open-source-ai-kimi-k2-6/)
+  - [阿小信自由职业语录全集（2026.04 AI总结版）](https://blog.axiaoxin.com/post/quotations-of-axiaoxin/)
