@@ -2,16 +2,21 @@
 
 - 2Libra
   - [2 友们，你们觉得保险有必要购买吗，有的话，有推荐吗](https://2libra.com/post/financial-management/ZvUl1tr)
+  - [netcup 过年了，机子都可以买了](https://2libra.com/post/servers/IXOyr6w)
   - [V 站账号登录不上去了，这里有 V 站的大佬吗？](https://2libra.com/post/questions/qPK8rao)
   - [v2rayA 问题](https://2libra.com/post/tech-qa/D80Mivy)
+  - [世界读书日看点啥啊？](https://2libra.com/post/good-books/wcVtZcY)
   - [偶尔会感觉年纪大了，很难给别人提供情绪价值，当然也不会主动去索取。](https://2libra.com/post/mental-health/lOtC7ZZ)
   - [好喜欢吃糯米鸡啊](https://2libra.com/post/slacking-off/XM7JD90)
   - [有没有八字交流群 交流一下](https://2libra.com/post/interest-groups/_Uu66rc)
+  - [目前 iPhone 的无线充体验还是不够完美](https://2libra.com/post/phone/NX-WFvT)
 - 36氪
+  - [36氪官方AI专属社群，正式开放招募！](https://36kr.com/p/3777870287737860?f=rss)
   - [36氪首发 | 清华、哈工大团队做灵巧手，成本降到三分之一，三个月融资近亿元](https://36kr.com/p/3778730451391751?f=rss)
   - [36氪首发 | 电磁零部件厂商完成数千万元融资，核心团队来自德企，产品已规模化上车](https://36kr.com/p/3778732502095106?f=rss)
   - [37家公募月内发布限购令保护持有人利益](https://36kr.com/newsflashes/3778639860339970?f=rss)
   - [8点1氪丨张雪机车发布召回通告；哪吒汽车创始人已被列为“老赖”；英国新法案规定08后终身不得购烟](https://36kr.com/p/3778660962505989?f=rss)
+  - [A股三大指数午间休盘集体下跌，通信设备板块走弱](https://36kr.com/newsflashes/3778857164067845?f=rss)
   - [A股三大指数集体高开，半导体板块领涨](https://36kr.com/newsflashes/3778733535073282?f=rss)
   - [Lululemon任命耐克前高管奥尼尔为新CEO](https://36kr.com/newsflashes/3778593213682948?f=rss)
   - [Pallada游心新车型首次亮相](https://36kr.com/newsflashes/3778779191874562?f=rss)
@@ -24,6 +29,8 @@
   - [一个对话框、一只青蛙、一周4万用户，Ribbi做对了什么？](https://36kr.com/p/3778121523025154?f=rss)
   - [三大指数全部翻绿](https://36kr.com/newsflashes/3778759856804865?f=rss)
   - [两市融资余额增加136.61亿元](https://36kr.com/newsflashes/3778695224071428?f=rss)
+  - [两部门：到2030年，基本建立覆盖服务贸易多领域、全链条并适应服务贸易高质量发展需要的标准体系](https://36kr.com/newsflashes/3778867342464260?f=rss)
+  - [两部门：培育重点领域中国标准品牌，加大标准宣贯实施和国际对接合作](https://36kr.com/newsflashes/3778868254135554?f=rss)
   - [中信建投：半导体设备零部件空间广阔，海外限制下国产替代加速推进](https://36kr.com/newsflashes/3778629084747012?f=rss)
   - [中信建投：固态电池中试线招标在即，看好锂电设备春季行情](https://36kr.com/newsflashes/3778627331445763?f=rss)
   - [中信建投：碳酸锂涨价预期叠加钠电降本，27年钠电进入平价放量时代](https://36kr.com/newsflashes/3778632368116996?f=rss)
@@ -31,6 +38,7 @@
   - [中信证券：中国创新药产业有望迎来管线潜力的验证与价值提升](https://36kr.com/newsflashes/3778683301106694?f=rss)
   - [中信证券：光模块设备伴随下游资本开支与高效化、国产化趋势迎来高景气](https://36kr.com/newsflashes/3778666196063234?f=rss)
   - [中信证券：漫剧行业景气度仍在持续](https://36kr.com/newsflashes/3778671351075846?f=rss)
+  - [中国航空工业集团等在成都成立科技公司](https://36kr.com/newsflashes/3778857753187591?f=rss)
   - [中金：A股市场近期建议关注三条主线](https://36kr.com/newsflashes/3778698889729028?f=rss)
   - [中金：公募一季度加仓通信、化工及电力设备，减仓有色和电子](https://36kr.com/newsflashes/3778692808365063?f=rss)
   - [产业化落地加速，人形机器人产业链迎历史性机遇](https://36kr.com/newsflashes/3778656388928513?f=rss)
@@ -40,6 +48,7 @@
   - [创业板指跌逾1%，下跌个股近3700只](https://36kr.com/newsflashes/3778809906680837?f=rss)
   - [千问总裁吴嘉：“AI办事”对外开放，首家接入东方航空](https://36kr.com/newsflashes/3778790744724484?f=rss)
   - [华泰证券：2026北京车展将启幕，建议关注自主品牌高端车型](https://36kr.com/newsflashes/3778673966896136?f=rss)
+  - [去哪儿：五一前后，“多城串游”预订量增118%](https://36kr.com/newsflashes/3778859036710145?f=rss)
   - [台积电高管称亚利桑那州芯片工厂将于2029年投产](https://36kr.com/newsflashes/3778622130770950?f=rss)
   - [台积电高管：暂不采用阿斯麦最新光刻机](https://36kr.com/newsflashes/3778646335738880?f=rss)
   - [向综合化转型打造增长新引擎，上市银行非息收入占比稳步提高](https://36kr.com/newsflashes/3778628768093192?f=rss)
@@ -52,11 +61,13 @@
   - [并购重组步入业绩兑现阶段，助力上市公司质量稳步提升](https://36kr.com/newsflashes/3778622726116613?f=rss)
   - [开年连融两轮的“可以玩的抖音”，又融了5000万美金｜涌现新项目](https://36kr.com/p/3778135439709446?f=rss)
   - [微软承诺投资180亿美元以建设澳大利亚人工智能能力](https://36kr.com/newsflashes/3778699335226625?f=rss)
+  - [恒指午间休盘跌1.12%，恒生科技指数跌2.31%](https://36kr.com/newsflashes/3778886718149890?f=rss)
   - [恒指开盘跌0.25%，恒生科技指数跌0.04%](https://36kr.com/newsflashes/3778729916797960?f=rss)
   - [恒生科技指数日内跌幅扩大至1%](https://36kr.com/newsflashes/3778746041324804?f=rss)
   - [恒生科技指数跌超2%](https://36kr.com/newsflashes/3778760742425606?f=rss)
   - [新模型上线期间出现功能异常，月之暗面公布补偿方案：全员额度重置](https://36kr.com/newsflashes/3778614811218947?f=rss)
   - [日经225指数首次突破6万点关口，续创新高](https://36kr.com/newsflashes/3778660519154691?f=rss)
+  - [杭州芯云半导体集团注册资本增至13.5亿元](https://36kr.com/newsflashes/3778845717501185?f=rss)
   - [欧莱雅集团启动可持续创新加速器“L’AcceleratOR”项目第二轮申报征集](https://36kr.com/newsflashes/3778808324625666?f=rss)
   - [沪深两市成交额突破1.5万亿元](https://36kr.com/newsflashes/3778800931165187?f=rss)
   - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3778765753570569?f=rss)
@@ -125,6 +136,8 @@
   - [Mythos in Practice: Attack Paths, Exploitability, and What Actually Matters Most](https://horizon3.ai/intelligence/blogs/mythos-attack-paths-exploitability/)
 - infosecurity-magazine.com
   - [MacOS Native Tools Enable Stealthy Enterprise Attacks](https://www.infosecurity-magazine.com/news/macos-lotl-techniques-enterprise/)
+- joanwestenberg.com
+  - [Why prediction markets are a sure sign that our civilisation is in decay](https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Thursday, April 23rd, 2026 https://isc.sans.edu/podcastdetail/9904, (Thu, Apr 23rd)](https://isc.sans.edu/diary/rss/32920)
 - Security Affairs
@@ -136,6 +149,7 @@
   - [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Improper Input Validation in Microsoft exploit](https://sploitus.com/exploit?id=47373EE1-4958-5E36-829F-2892D366ECFB&utm_source=rss&utm_medium=rss)
+  - [Exploit for Path Traversal in Jenkins exploit](https://sploitus.com/exploit?id=9930AE1F-1612-5406-AA5D-0E26C41E018F&utm_source=rss&utm_medium=rss)
   - [hospital-waf-mcp exploit](https://sploitus.com/exploit?id=D666A62A-BD38-568C-99A4-62E6393B5531&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI Overviews are coming to your Gmail at work](https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/)
@@ -248,6 +262,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [苹果修复了在原始信息删除之后预览仍然保留在通知数据库里的 Bug](https://www.solidot.org/story?sid=84124)
   - [阴谋论引发美国总统关注促使 FBI 调查](https://www.solidot.org/story?sid=84123)
 - 爱范儿
   - [全新一代瑞虎 9上市：当新能源成为话题主流后，奇瑞的燃油旗舰正在寻找新的答案](https://www.ifanr.com/1663450?utm_source=rss&utm_medium=rss&utm_campaign=)
