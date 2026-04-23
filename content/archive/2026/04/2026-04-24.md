@@ -3,9 +3,13 @@
 - BorderGate
   - [Cloudfront C2 Redirectors](https://www.bordergate.co.uk/cloudfront-c2-redirectors/)
 - daringfireball.net
+  - [Eight for Eight](https://mastodon.social/@Cdespinosa/116439702239797827)
   - [Microsoft Offers Voluntary Retirement to Long-Serving Employees](https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes)
   - [Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users)
+- EFF
+  - [Speaking Freely: Lizzie O'Shea](https://www.eff.org/deeplinks/2026/04/speaking-freely-lizzie-oshea)
 - Hacker News Frontpage
+  - [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo)
   - [Incident with Multple GitHub Services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
   - [Middle Eastern News Sites Are U.S. Government Propaganda Ops](https://theintercept.com/2026/04/20/pentagon-middle-eastern-news-propaganda-iran/)
   - [Palantir Employees Are Starting to Wonder If They're the Bad Guys](https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/)
@@ -17,6 +21,8 @@
   - [OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work](https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/)
 - Security Affairs
   - [Luxury cosmetics giant Rituals discloses data breach impacting member personal details](https://securityaffairs.com/191192/data-breach/rituals-discloses-a-data-breach-impacting-member-personal-details.html)
+- simonwillison.net
+  - [A pelican for GPT-5.5 via the semi-official Codex backdoor API](https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-5880 exploit](https://sploitus.com/exploit?id=7C51B7CE-BAEB-5F4C-844D-386B678EB2E7&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Apache Tomcat exploit](https://sploitus.com/exploit?id=15A6CDF4-8DBB-5A3A-82E6-BBF6AC3C5629&utm_source=rss&utm_medium=rss)
@@ -25,10 +31,13 @@
   - [Bluesky now supports better quality photos](https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/)
   - [Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says](https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/)
   - [Era computer raises $11M to build a software platform for AI gadgets](https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/)
+  - [Instagram tests a new ‘Instants’ app for sharing disappearing photos](https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/)
+  - [Meet Noscroll, an AI bot that does your doomscrolling for you](https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/)
   - [Meta is revamping its cross-app management system](https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/)
   - [Meta to cut 10% of jobs, or 8,000 employees, report says](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
   - [Microsoft offers buyout for up to 7% of U.S. employees](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/)
   - [OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’](https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/)
+  - [Trump’s pick to run US cyber agency CISA asks to drop out](https://techcrunch.com/2026/04/23/trumps-pick-to-run-us-cyber-agency-cisa-asks-to-drop-out/)
 - The Decoder
   - [Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design](https://the-decoder.com/googles-open-source-design-md-gives-ai-agents-a-prompt-ready-blueprint-for-brand-consistent-design/)
   - [OpenAI unveils GPT-5.5, claims a "new class of intelligence" at double the API price](https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/)
@@ -39,8 +48,10 @@
   - [Great news, the Moto G Stylus is no longer teeming with bloatware](https://www.theverge.com/tech/917497/motorola-moto-g-stylus-2026-review)
   - [Ikea&#8217;s new inflatable chair doesn&#8217;t look like an inflatable chair](https://www.theverge.com/design/917567/ikea-ps-collection-2026-inflatable-easy-chair-experimental-design)
   - [Inside Microsoft’s wave of executive departures](https://www.theverge.com/tech/917361/microsoft-executive-departures-notepad)
+  - [Meta is laying off 10 percent of its staff](https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff)
   - [Microsoft brings Xbox back, scraps Microsoft Gaming](https://www.theverge.com/report/917485/microsoft-return-of-xbox-no-more-microsoft-gaming)
   - [Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games](https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma)
+  - [Sonos’ big sale on refurbished speakers is about to end](https://www.theverge.com/gadgets/917611/sonos-refurbished-era-beam-move-speaker-deal-sale)
   - [Spirit is broken](https://www.theverge.com/transportation/917629/spirit-airlines-bankrupt-bailout-merger-ultra-low-cost)
   - [‘We Are Xbox’: read the memo defining Microsoft’s gaming future](https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty)
 - VulDB Recent Entries
@@ -72,6 +83,7 @@
   - [CVE-2026-6920 | Google Chrome up to 147.0.7727.101 on Android GPU out-of-bounds](https://vuldb.com/vuln/359159)
   - [CVE-2026-6921 | Google Chrome up to 147.0.7727.101 on Windows GPU race condition](https://vuldb.com/vuln/359169)
 - Wired
+  - [Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto](https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/)
   - [At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty](https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
