@@ -19,9 +19,12 @@
   - [有时候想想，下辈子当一个 蚁后 也不错。](https://2libra.com/post/idea/2WtoEDr)
   - [有没有八字交流群 交流一下](https://2libra.com/post/interest-groups/_Uu66rc)
   - [朋友们， 你们还在发朋友圈么？](https://2libra.com/post/weekend-life/iZeb0NB)
+  - [汇报一个 bug（疑似）](https://2libra.com/post/community/An6rWeK)
   - [现在有什么推荐的语音输入法吗？](https://2libra.com/post/tools-sharing/DLpG0qr)
   - [目前 iPhone 的无线充体验还是不够完美](https://2libra.com/post/phone/NX-WFvT)
   - [竞拍这个功能可以啊? @Jimmy 要不要致敬一下?](https://2libra.com/post/forum-function/KxlSpsq)
+  - [说个开心的事，小白第一次用 WorkBuddy 完成了一个浏览器插件](https://2libra.com/post/personal-works/Yvf--iN)
+  - [说个趣事，关于家母](https://2libra.com/post/personal-life/OrP5JtK)
   - [都有哪些文本加密传输方案？](https://2libra.com/post/network-security/nHTwvrj)
 - 36氪
   - [2连板杭电股份：股东富春江通信集团及4位董高4月22日-4月23日合计减持615.6万股](https://36kr.com/newsflashes/3779241279198209?f=rss)
@@ -238,6 +241,7 @@
   - [There Are Corrections, and There Are Corrections](https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html?unlocked_article_code=1.c1A.iLO0.Kqdo8aBhNAY1)
 - darkreading
   - ['Zealot' Shows What AI's Capable of in Staged Cloud Attack](https://www.darkreading.com/cyber-risk/zealot-shows-ai-execute-full-cloud-attacks)
+  - [Bad Memories Still Haunt AI Agents](https://www.darkreading.com/vulnerabilities-threats/bad-memories-haunt-ai-agents)
 - defend.network
   - [Daily Threat Briefing – April 23, 2026](https://defend.network/briefings/supply-chain-wiper-malware-critical-2026-04-23.html)
 - EFF
@@ -352,14 +356,17 @@
   - [LinkedIn’s CEO is moving on; please hold your tearful video tributes](https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/)
   - [Meta will now allow parents to see the topics their child discussed with Meta AI](https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/)
   - [NASA’s Artemis II moon mission shows space-to-Earth laser comms can scale](https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/)
+  - [Salmon raises $100M in equity and debt to bring digital credit to underbanked Filipinos](https://techcrunch.com/2026/04/23/salmon-raises-100m-in-equity-and-debt-to-bring-digital-credit-to-underbanked-filipinos/)
   - [Shade lands $14M to let creative teams search their video libraries in plain English](https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/)
   - [Surveillance vendors caught abusing access to telcos to track people’s phone locations, researchers say](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/)
   - [Tesla drops Musk’s $29B ‘interim’ award after Delaware court restored larger pay package](https://techcrunch.com/2026/04/23/tesla-drops-musks-29b-interim-award-after-delaware-court-restored-larger-pay-package/)
   - [Tesla just increased its capex to $25B. Here’s where the money is going.](https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/)
   - [Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions](https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/)
   - [Threads is adding Live Chats to boost real-time engagement](https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/)
+  - [Vercel says some of its customers’ data was stolen prior to its recent hack](https://techcrunch.com/2026/04/23/vercel-says-some-of-its-customers-data-was-stolen-prior-to-its-recent-hack/)
   - [WhatsApp adds prepaid phone recharges in India as its payments usage still lags](https://techcrunch.com/2026/04/23/whatsapp-adds-prepaid-phone-recharges-in-india-as-its-payments-usage-still-lags/)
 - The Decoder
+  - [Claude survey: new capabilities beat speed as top AI benefit, but creatives feel left behind](https://the-decoder.com/claude-survey-new-capabilities-beat-speed-as-top-ai-benefit-but-creatives-feel-left-behind/)
   - [Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world](https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/)
   - [Google says 75 percent of its new code is now written by AI](https://the-decoder.com/google-says-75-percent-of-its-new-code-is-now-written-by-ai/)
   - [Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes](https://the-decoder.com/googles-new-ai-tools-put-film-scouting-in-street-view-and-promise-to-cut-weeks-of-satellite-analysis-to-minutes/)
@@ -370,6 +377,7 @@
   - [Sony AI builds the first robot to reach expert level in a sport](https://the-decoder.com/sony-ai-builds-the-first-robot-to-reach-expert-level-in-a-sport/)
 - The Verge
   - [AI failure could trigger the next financial crisis, warns Elizabeth Warren](https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren)
+  - [DJI’s new Lito Series beginner drones start at less than $400](https://www.theverge.com/tech/917426/dji-drone-lito-1-x1-amateur-4k-obstacle-avoidance-pricing-availability)
   - [Elon Musk admits that millions of Tesla vehicles won&#8217;t get unsupervised FSD](https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd)
   - [Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day](https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal)
   - [Former MrBeast exec sues over ‘years’ of alleged harassment](https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit)
@@ -379,6 +387,7 @@
   - [Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint](https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint)
   - [Microsoft says the ‘idea’ of an Xbox mobile store ‘is not dead’](https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment)
   - [Microsoft teases mysterious Discord and Xbox Game Pass partnership](https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership)
+  - [Netflix can’t seem to follow up its biggest shows](https://www.theverge.com/entertainment/917121/stranger-things-tales-from-85-netflix-spinoffs)
   - [OpenAI now lets teams make custom bots that can do work on their own](https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots)
   - [Tesla&#8217;s revenue rises again as it prepares for more AI and robotics](https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue)
   - [The Iranian women Trump &#8216;saved&#8217; from execution are simultaneously real and AI-manipulated](https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati)
@@ -530,6 +539,7 @@
 - 博客
   - [Bcrypt](https://dyrnq.com/bcrypt/)
 - 奇客Solidot–传递最新科技情报
+  - [53 国齐聚哥伦比亚商讨淘汰化石燃料](https://www.solidot.org/story?sid=84132)
   - [乒乓球机器人击败了人类顶尖选手](https://www.solidot.org/story?sid=84125)
   - [加密货币骗子瞄准滞留在霍尔木兹海峡附近的船只](https://www.solidot.org/story?sid=84131)
   - [古代人类曾三次迁徙到南美洲](https://www.solidot.org/story?sid=84130)
@@ -553,6 +563,8 @@
   - [【公益译文】2026年国际AI安全报告（四）](https://blog.nsfocus.net/%e3%80%90%e5%85%ac%e7%9b%8a%e8%af%91%e6%96%87%e3%80%912026%e5%b9%b4%e5%9b%bd%e9%99%85ai%e5%ae%89%e5%85%a8%e6%8a%a5%e5%91%8a%ef%bc%88%e5%9b%9b%ef%bc%89/)
   - [权威认可 | 绿盟科技防火墙实力入选“2025中国网络安全防火墙市场销量明星品牌”](https://blog.nsfocus.net/%e6%9d%83%e5%a8%81%e8%ae%a4%e5%8f%af-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e9%98%b2%e7%81%ab%e5%a2%99%e5%ae%9e%e5%8a%9b%e5%85%a5%e9%80%892025%e4%b8%ad%e5%9b%bd%e7%bd%91%e7%bb%9c%e5%ae%89/)
   - [绿盟NF防火墙：筑牢OpenClaw安全防线，构筑AI时代安全基石](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9fnf%e9%98%b2%e7%81%ab%e5%a2%99%ef%bc%9a%e7%ad%91%e7%89%a2openclaw%e5%ae%89%e5%85%a8%e9%98%b2%e7%ba%bf%ef%bc%8c%e6%9e%84%e7%ad%91ai%e6%97%b6%e4%bb%a3%e5%ae%89%e5%85%a8%e5%9f%ba-2/)
+- 量子位 QbitAI
+  - [国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家](https://www.qbitai.com/2026/04/406020.html)
 - 阿小信的博客
   - [“中国AI拿下这一轮，我没意见”——Kimi K2.6引爆Hacker News，海外开发者怎么看中国开源AI大模型？](https://blog.axiaoxin.com/post/china-open-source-ai-kimi-k2-6/)
   - [如何在客户端将网页HTML转为PDF？html2pdf.js 完全实战指南](https://blog.axiaoxin.com/post/html2pdf-guide/)
