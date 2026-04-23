@@ -1,11 +1,36 @@
 # 今日安全资讯（2026-04-24）
 
+- BorderGate
+  - [Cloudfront C2 Redirectors](https://www.bordergate.co.uk/cloudfront-c2-redirectors/)
+- Hacker News Frontpage
+  - [Incident with Multple GitHub Services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
 - Include Security Research Blog
   - [CTFs in the AI Era](https://blog.includesecurity.com/2026/04/ctfs-in-the-ai-era/)
+- infosecurity-magazine.com
+  - [Google Favors General‑Purpose Gemini Models Over Cybersecurity‑Specific AI](https://www.infosecurity-magazine.com/news/google-gemini-over-cyber-specific/)
 - TechCrunch
+  - [Bluesky now supports better quality photos](https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/)
   - [Era computer raises $11M to build a software platform for AI gadgets](https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/)
   - [Meta is revamping its cross-app management system](https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/)
+  - [Microsoft offers buyout for up to 7% of U.S. employees](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/)
+- The Decoder
+  - [OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense](https://the-decoder.com/openais-new-trusted-access-program-gives-microsoft-its-most-capable-models-for-cyber-defense/)
 - The Verge
   - [Inside Microsoft’s wave of executive departures](https://www.theverge.com/tech/917361/microsoft-executive-departures-notepad)
+- VulDB Recent Entries
+  - [CVE-2025-50229 | Jizhicms 2.5.4 Product Editing sql injection](https://vuldb.com/vuln/359157)
+  - [CVE-2025-62373 | pipecat-ai pipecat up to 0.0.93 Pickle livekit.py deserialize deserialization](https://vuldb.com/vuln/359147)
+  - [CVE-2026-23751 | Tungsten Automation Kofax Capture 6.0.0.0 Ascent Capture Service missing authentication](https://vuldb.com/vuln/359148)
+  - [CVE-2026-33999 | X.org X Server XKB Compatibility Map integer underflow](https://vuldb.com/vuln/359150)
+  - [CVE-2026-34001 | X.org X Server miSyncTriggerFence expired pointer dereference](https://vuldb.com/vuln/359149)
+  - [CVE-2026-34003 | X.org X Server XKB Key Types Request out-of-bounds](https://vuldb.com/vuln/359151)
+  - [CVE-2026-39087 | Via Code up to 2.20 ntfy.sh parseActions privilege escalation](https://vuldb.com/vuln/359154)
+  - [CVE-2026-40470 | hackage-server/hackage.haskell.org up to 0.5 cross site scripting (HSEC-2024-0004)](https://vuldb.com/vuln/359152)
+  - [CVE-2026-40471 | hackage-server cross-site request forgery (HSEC-2026-0002)](https://vuldb.com/vuln/359155)
+  - [CVE-2026-40472 | hackage-server cabal File cross site scripting (HSEC-2026-0004)](https://vuldb.com/vuln/359158)
+  - [CVE-2026-41239 | cure53 DOMPurify up to 3.3.x cross site scripting](https://vuldb.com/vuln/359156)
+  - [CVE-2026-41240 | cure53 DOMPurify up to 3.3.x permissive list of allowed inputs](https://vuldb.com/vuln/359153)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [Bitwarden CLI在持续的Checkmarx供应链攻击中被入侵](https://blog.upx8.com/Bitwarden-CLI%E5%9C%A8%E6%8C%81%E7%BB%AD%E7%9A%84Checkmarx%E4%BE%9B%E5%BA%94%E9%93%BE%E6%94%BB%E5%87%BB%E4%B8%AD%E8%A2%AB%E5%85%A5%E4%BE%B5)
