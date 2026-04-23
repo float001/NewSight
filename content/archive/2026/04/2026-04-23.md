@@ -133,6 +133,7 @@
   - [恒生科技指数跌超2%](https://36kr.com/newsflashes/3778760742425606?f=rss)
   - [恒辉安防：“公司腱绳海外送样被否决”的信息不实](https://36kr.com/newsflashes/3778884242723843?f=rss)
   - [抖音整治AI不当内容，重点处置利用AI技术换脸、盗声](https://36kr.com/newsflashes/3778909321008130?f=rss)
+  - [新易盛：第一季度净利润27.8亿元，同比增长76.80%](https://36kr.com/newsflashes/3779427744175112?f=rss)
   - [新模型上线期间出现功能异常，月之暗面公布补偿方案：全员额度重置](https://36kr.com/newsflashes/3778614811218947?f=rss)
   - [日本政府反对韩国MBK Partners收购牧野铣床](https://36kr.com/newsflashes/3778909755233539?f=rss)
   - [日经225指数首次突破6万点关口，续创新高](https://36kr.com/newsflashes/3778660519154691?f=rss)
@@ -170,6 +171,7 @@
   - [破局“智驾双雄”，千里科技如何以AI之力重塑行业格局](https://36kr.com/p/3779369343144965?f=rss)
   - [科创板市值超千亿公司已达15家，“科特估”重塑硬科技价值](https://36kr.com/newsflashes/3778617538434312?f=rss)
   - [维峰电子：拟1元受让关联方所持维泰精密36.25%股权 后者重点布局高速板端连接器](https://36kr.com/newsflashes/3779270142809094?f=rss)
+  - [美国百年太妃糖易手，Roca乐家被全资收购](https://36kr.com/p/3779468716938499?f=rss)
   - [美国航空CEO称与美联航合并“对消费者不利”](https://36kr.com/newsflashes/3779360045782280?f=rss)
   - [美股三大指数集体收涨，Arm涨超12%](https://36kr.com/newsflashes/3778588631913472?f=rss)
   - [美股大型科技股盘前多数下跌，特斯拉跌超3%](https://36kr.com/newsflashes/3779408499168263?f=rss)
@@ -206,6 +208,8 @@
   - [鸿蒙智行发布问界M6等多款产品](https://36kr.com/newsflashes/3779087117030402?f=rss)
   - [黑湖科技完成近10亿元D轮融资](https://36kr.com/newsflashes/3778705169077513?f=rss)
   - [黑石盈利超预期，预计IPO将迎来“史上最佳年份”](https://36kr.com/newsflashes/3779355506251012?f=rss)
+- 404 Media
+  - [Researchers Simulated a Delusional User to Test Chatbot Safety](https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/)
 - Ars Technica
   - [Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage](https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/)
   - [Google unveils two new TPUs designed for the "agentic era"](https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/)
@@ -216,6 +220,8 @@
   - [Tabloid reports linking 10 missing and dead scientists spur FBI probe](https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe/)
   - [Tesla reports Q1 2026 earnings: Still profitable](https://arstechnica.com/cars/2026/04/tesla-reports-q1-2026-earnings-still-profitable/)
   - [You want your Moon landings in HDTV? So does NASA—here's how it's happening.](https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/)
+- Ben's Bites
+  - [ChatGPT's Nano Banana](https://www.bensbites.com/p/chatgpts-nano-banana)
 - Cerbero Blog
   - [CRAMFS Format Package](https://blog.cerbero.io/cramfs-format-package/)
 - CERT Recently Published Vulnerability Notes
@@ -258,6 +264,7 @@
   - [The Illuminated Man: an unconventional portrait of JG Ballard](https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard)
   - [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king)
   - [The Tech Oligarch's Republic](https://www.forever-wars.com/the-tech-oligarchs-republic/)
+  - [Trump administration reclassifies cannabis as less dangerous](https://www.bbc.com/news/articles/cdxd0xxp0jko)
   - [Youth Suicides Declined After Creation of National Hotline](https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html)
 - HackerNews
   - [Claude Mythos ĺ‘çŽ° 271 ä¸ŞçŤç‹ćľč§ˆĺ™¨ćźć´ž](http://0.0.0.0:8080/post/64170)
@@ -272,9 +279,11 @@
 - Horizon3.ai
   - [Mythos in Practice: Attack Paths, Exploitability, and What Actually Matters Most](https://horizon3.ai/intelligence/blogs/mythos-attack-paths-exploitability/)
 - ICT Security Magazine
+  - [Cybersecurity e cavi sottomarini: la nuova sfida strategica nell’era della competizione globale](https://www.ictsecuritymagazine.com/articoli/cavi-sottomarini-cyber/)
   - [Intelligenza artificiale e criminalità Informatica: quando lo stesso strumento difende e attacca](https://www.ictsecuritymagazine.com/articoli/ai-criminalita-informatica/)
 - IEEE Spectrum
   - [This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC](https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica)
+  - [What Anthropic’s Mythos Means for the Future of Cybersecurity](https://spectrum.ieee.org/ai-cybersecurity-mythos)
 - infosecurity-magazine.com
   - [Apple Fixes iOS Notification Bug Exposing Deleted Messages](https://www.infosecurity-magazine.com/news/apple-ios-notification-bug-deleted/)
   - [Cyber-Attacks Surge 63% Annually in Education Sector](https://www.infosecurity-magazine.com/news/cyberattacks-surge-63-annually/)
@@ -286,6 +295,8 @@
   - [Why prediction markets are a sure sign that our civilisation is in decay](https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/)
 - johndcook.com
   - [Simple approximation for solving a right triangle](https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/)
+- miguelgrinberg.com
+  - [SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution)
 - MIT Technology Review
   - [The Download: introducing the Nature issue](https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/)
 - NowSecure
@@ -308,10 +319,12 @@
 - shkspr.mobi
   - [Sneaky spam in conversational replies to blog posts](https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/)
 - simonwillison.net
+  - [Quoting Maggie Appleton](https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything)
   - [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Command-Injection exploit](https://sploitus.com/exploit?id=0808822C-F80C-5547-A0A9-CB02236B8AE6&utm_source=rss&utm_medium=rss)
   - [DangXPloit exploit](https://sploitus.com/exploit?id=62EC2FEC-0D00-5D8D-9A33-D2A7D13D1055&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-38751 exploit](https://sploitus.com/exploit?id=B4E06FDE-857C-5C10-AC3D-AC2C008AC2A9&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-41651 exploit](https://sploitus.com/exploit?id=A702F200-28D8-5BE1-A7FB-F5A36FA7E0FA&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Microsoft exploit](https://sploitus.com/exploit?id=47373EE1-4958-5E36-829F-2892D366ECFB&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Jenkins exploit](https://sploitus.com/exploit?id=9930AE1F-1612-5406-AA5D-0E26C41E018F&utm_source=rss&utm_medium=rss)
@@ -331,22 +344,30 @@
   - [Google makes an interesting choice with its new agent building tool for enterprises](https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/)
   - [Google turns Chrome into an AI coworker for the workplace](https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/)
   - [Google updates Workspace to make AI your new office intern](https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/)
+  - [Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco](https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/)
   - [Hands on with X’s new AI-powered custom feeds](https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/)
   - [How SpaceX preempted a $2B fundraise with a $60B buyout offer](https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/)
   - [India’s app market is booming — but global platforms are capturing most of the gains](https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/)
+  - [Labor unrest at Samsung may worsen memory chip supply issues](https://techcrunch.com/2026/04/23/labor-unrest-at-samsung-may-worsen-memory-chip-supply-issues/)
   - [LinkedIn’s CEO is moving on; please hold your tearful video tributes](https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/)
   - [Meta will now allow parents to see the topics their child discussed with Meta AI](https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/)
   - [NASA’s Artemis II moon mission shows space-to-Earth laser comms can scale](https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/)
   - [Shade lands $14M to let creative teams search their video libraries in plain English](https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/)
   - [Surveillance vendors caught abusing access to telcos to track people’s phone locations, researchers say](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/)
+  - [Tesla drops Musk’s $29B ‘interim’ award after Delaware court restored larger pay package](https://techcrunch.com/2026/04/23/tesla-drops-musks-29b-interim-award-after-delaware-court-restored-larger-pay-package/)
   - [Tesla just increased its capex to $25B. Here’s where the money is going.](https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/)
   - [Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions](https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/)
   - [Threads is adding Live Chats to boost real-time engagement](https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/)
+  - [WhatsApp adds prepaid phone recharges in India as its payments usage still lags](https://techcrunch.com/2026/04/23/whatsapp-adds-prepaid-phone-recharges-in-india-as-its-payments-usage-still-lags/)
 - The Decoder
   - [Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world](https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/)
+  - [Google says 75 percent of its new code is now written by AI](https://the-decoder.com/google-says-75-percent-of-its-new-code-is-now-written-by-ai/)
   - [Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes](https://the-decoder.com/googles-new-ai-tools-put-film-scouting-in-street-view-and-promise-to-cut-weeks-of-satellite-analysis-to-minutes/)
   - [OpenAI launches workspace agents that turn ChatGPT from a chatbot into a team automation platform](https://the-decoder.com/openai-launches-workspace-agents-that-turn-chatgpt-from-a-chatbot-into-a-team-automation-platform/)
+  - [OpenAI releases open-source model that strips personal data from text](https://the-decoder.com/openai-releases-open-source-model-that-strips-personal-data-from-text/)
   - [OpenAI says its new ChatGPT for Clinicians outperforms doctors on clinical tasks even when they have unlimited time and web access](https://the-decoder.com/openai-says-its-new-chatgpt-for-clinicians-outperforms-doctors-on-clinical-tasks-even-when-they-have-unlimited-time-and-web-access/)
+  - [Researchers warn US politics is repeating its ChatGPT mistake with world models](https://the-decoder.com/researchers-warn-us-politics-is-repeating-its-chatgpt-mistake-with-world-models/)
+  - [Sony AI builds the first robot to reach expert level in a sport](https://the-decoder.com/sony-ai-builds-the-first-robot-to-reach-expert-level-in-a-sport/)
 - The Verge
   - [AI failure could trigger the next financial crisis, warns Elizabeth Warren](https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren)
   - [Elon Musk admits that millions of Tesla vehicles won&#8217;t get unsupervised FSD](https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd)
@@ -361,9 +382,11 @@
   - [OpenAI now lets teams make custom bots that can do work on their own](https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots)
   - [Tesla&#8217;s revenue rises again as it prepares for more AI and robotics](https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue)
   - [The Iranian women Trump &#8216;saved&#8217; from execution are simultaneously real and AI-manipulated](https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati)
+  - [THE PEOPLE DO NOT YEARN FOR AUTOMATION](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)
   - [Tim Cook’s departure is the start of a new era at Apple](https://www.theverge.com/tech/916585/tim-cook-apple-new-era)
   - [Watch Sony’s elite ping-pong robot beat top-ranked players](https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras)
   - [X is going to let Grok curate your timeline](https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation)
+  - [You’re about to feel the AI money squeeze](https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue)
 - Trail of Bits Blog
   - [Trailmark turns code into graphs](https://blog.trailofbits.com/2026/04/23/trailmark-turns-code-into-graphs/)
 - VulDB Recent Entries
@@ -536,4 +559,5 @@
   - [阿小信自由职业语录全集（2026.04 AI总结版）](https://blog.axiaoxin.com/post/quotations-of-axiaoxin/)
 - 黑海洋
   - [三星电子前职员向中方泄露芯片技术被判七年](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%89%8D%E8%81%8C%E5%91%98%E5%90%91%E4%B8%AD%E6%96%B9%E6%B3%84%E9%9C%B2%E8%8A%AF%E7%89%87%E6%8A%80%E6%9C%AF%E8%A2%AB%E5%88%A4%E4%B8%83%E5%B9%B4)
+  - [微软承诺斥资建设澳大利亚AI产业能力](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%89%BF%E8%AF%BA%E6%96%A5%E8%B5%84%E5%BB%BA%E8%AE%BE%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9AAI%E4%BA%A7%E4%B8%9A%E8%83%BD%E5%8A%9B)
   - [法国在预测市场投注激增后调查天气数据篡改](https://blog.upx8.com/%E6%B3%95%E5%9B%BD%E5%9C%A8%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E6%8A%95%E6%B3%A8%E6%BF%80%E5%A2%9E%E5%90%8E%E8%B0%83%E6%9F%A5%E5%A4%A9%E6%B0%94%E6%95%B0%E6%8D%AE%E7%AF%A1%E6%94%B9)
