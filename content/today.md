@@ -86,6 +86,7 @@
   - [千问总裁吴嘉：“AI办事”对外开放，首家接入东方航空](https://36kr.com/newsflashes/3778790744724484?f=rss)
   - [半日主力资金加仓食品饮料股，抛售电子股](https://36kr.com/newsflashes/3778885078783241?f=rss)
   - [华泰证券：2026北京车展将启幕，建议关注自主品牌高端车型](https://36kr.com/newsflashes/3778673966896136?f=rss)
+  - [华谊兄弟：法院决定启动预重整并指定临时管理人](https://36kr.com/newsflashes/3779413228295431?f=rss)
   - [厦门钨业：第一季度净利润11.07亿元，同比增长189.14%](https://36kr.com/newsflashes/3779302838752256?f=rss)
   - [去哪儿：五一前后，“多城串游”预订量增118%](https://36kr.com/newsflashes/3778859036710145?f=rss)
   - [双杰电气：一季度净利润2.81亿元，同比增长29615%](https://36kr.com/newsflashes/3779342765118469?f=rss)
@@ -135,6 +136,7 @@
   - [新模型上线期间出现功能异常，月之暗面公布补偿方案：全员额度重置](https://36kr.com/newsflashes/3778614811218947?f=rss)
   - [日本政府反对韩国MBK Partners收购牧野铣床](https://36kr.com/newsflashes/3778909755233539?f=rss)
   - [日经225指数首次突破6万点关口，续创新高](https://36kr.com/newsflashes/3778660519154691?f=rss)
+  - [昆仑万维：2025年净亏损15.93亿元](https://36kr.com/newsflashes/3779382230062340?f=rss)
   - [星宸科技：一季度净利润2.20亿元，同比增长330.29%](https://36kr.com/newsflashes/3779321317823492?f=rss)
   - [景嘉微：2025年净亏损1.65亿元](https://36kr.com/newsflashes/3779332562441473?f=rss)
   - [晶合集成：拟使用不超过80亿元闲置自有资金进行现金管理](https://36kr.com/newsflashes/3779195345294336?f=rss)
@@ -147,11 +149,15 @@
   - [正泰电器获评AAA主体信用评级](https://36kr.com/newsflashes/3779064627893257?f=rss)
   - [氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件](https://36kr.com/p/3774776226923272?f=rss)
   - [汇顶科技：第一季度净利润1.17亿元，同比下降40.01%](https://36kr.com/newsflashes/3779115256468486?f=rss)
+  - [沃尔核材：第一季度净利润2.31亿元，同比下降7.63%](https://36kr.com/newsflashes/3779367658476803?f=rss)
   - [沪深两市成交额突破1.5万亿元](https://36kr.com/newsflashes/3778800931165187?f=rss)
   - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3778765753570569?f=rss)
   - [沪深两市成交额突破2万亿](https://36kr.com/newsflashes/3778951305434368?f=rss)
   - [沪深两市成交额连续第3个交易日突破2.5万亿](https://36kr.com/newsflashes/3779027847255304?f=rss)
+  - [法国卫星企业Univity完成A轮融资，计划成为“欧洲最大”](https://36kr.com/newsflashes/3779376942765058?f=rss)
   - [海天瑞声：一季度净利润840.30万元，同比增长2161%](https://36kr.com/newsflashes/3779337277166592?f=rss)
+  - [漫步者：一季度净利润1.02亿元，同比增长0.05%](https://36kr.com/newsflashes/3779365890381060?f=rss)
+  - [热门中概股美股盘前普跌，小鹏集团跌超3%](https://36kr.com/newsflashes/3779410634052609?f=rss)
   - [特斯拉上调今年投资预期至超250亿美元](https://36kr.com/newsflashes/3778612004214019?f=rss)
   - [特斯拉：Cortex 2算力集群现已上线，并已开始运行训练任务](https://36kr.com/newsflashes/3778658978960387?f=rss)
   - [特斯拉：一季度营收223.9亿美元，同比增长16%](https://36kr.com/newsflashes/3778590914024456?f=rss)
@@ -161,18 +167,24 @@
   - [特斯拉：第三代人形机器人预计年中亮相，7-8月启动正式投产](https://36kr.com/newsflashes/3778960685831430?f=rss)
   - [生益电子：2025年净利润14.73亿元，同比增长343.76%](https://36kr.com/newsflashes/3779312371848194?f=rss)
   - [电科网安：公司安全智能体尚处在探索阶段，未实际投入应用](https://36kr.com/newsflashes/3778883926496260?f=rss)
+  - [破局“智驾双雄”，千里科技如何以AI之力重塑行业格局](https://36kr.com/p/3779369343144965?f=rss)
   - [科创板市值超千亿公司已达15家，“科特估”重塑硬科技价值](https://36kr.com/newsflashes/3778617538434312?f=rss)
   - [维峰电子：拟1元受让关联方所持维泰精密36.25%股权 后者重点布局高速板端连接器](https://36kr.com/newsflashes/3779270142809094?f=rss)
+  - [美国航空CEO称与美联航合并“对消费者不利”](https://36kr.com/newsflashes/3779360045782280?f=rss)
   - [美股三大指数集体收涨，Arm涨超12%](https://36kr.com/newsflashes/3778588631913472?f=rss)
+  - [美股大型科技股盘前多数下跌，特斯拉跌超3%](https://36kr.com/newsflashes/3779408499168263?f=rss)
   - [老凤祥：第一季度净利润5.47亿元，同比下降10.76%](https://36kr.com/newsflashes/3779272873612291?f=rss)
   - [腾讯云发布Xinference供应链投毒风险通告](https://36kr.com/newsflashes/3778691259339784?f=rss)
   - [腾讯汤道生：腾讯智慧出行目前业务已覆盖100%的头部车企及泛出行公司](https://36kr.com/newsflashes/3779124400821508?f=rss)
   - [腾讯混元Hy3 preview发布并开源](https://36kr.com/newsflashes/3779165640692992?f=rss)
   - [苏黎世保险获股东批准，109亿美元收购Beazley](https://36kr.com/newsflashes/3778615706457093?f=rss)
+  - [莫高股份：自4月27日开市起复牌并实施退市风险警示，股票简称变更为“*ST莫高”](https://36kr.com/newsflashes/3779366360421638?f=rss)
   - [蓝科高新：第一季度净利润1230.02万元，同比增长89.69%](https://36kr.com/newsflashes/3779114553267461?f=rss)
   - [行业景气度高位运行，光模块企业扩产忙](https://36kr.com/newsflashes/3778631298307330?f=rss)
   - [诺基亚CEO称：欧洲在人工智能数据中心建设方面恐落后于中美](https://36kr.com/newsflashes/3779173413737479?f=rss)
   - [诺基亚第一季度调整后运营利润为2.81亿欧元，高于市场预期](https://36kr.com/newsflashes/3778951728567557?f=rss)
+  - [财信发展：同时触及实施退市风险警示和其他风险警示的情形，4月27日起简称变更为“*ST发展”](https://36kr.com/newsflashes/3779403013460997?f=rss)
+  - [超纯股份创业板IPO定于4月30日上会](https://36kr.com/newsflashes/3779369397343496?f=rss)
   - [软银寻求以OpenAI股份为担保，获取100亿美元保证金贷款](https://36kr.com/newsflashes/3778681423140097?f=rss)
   - [途牛：自驾游成为途牛用户五一假期境内游的主流方式之一](https://36kr.com/newsflashes/3779229305459714?f=rss)
   - [量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能](https://36kr.com/newsflashes/3779092611142658?f=rss)
@@ -181,6 +193,7 @@
   - [银河证券：预计美股的进一步上行动力仍受财报季业绩兑现影响](https://36kr.com/newsflashes/3778695594333191?f=rss)
   - [闪送开源CLI，为同城即时速递行业首家](https://36kr.com/newsflashes/3779076715500809?f=rss)
   - [阿里云：企业级Agent构建平台JVS Crew上线](https://36kr.com/newsflashes/3779141566846212?f=rss)
+  - [雀巢在战略重组之际公布销售额下滑](https://36kr.com/newsflashes/3779383144731650?f=rss)
   - [雀巢确认将蓝瓶咖啡出售给大钲资本](https://36kr.com/newsflashes/3778983113839876?f=rss)
   - [雀巢集团一季度销售额213亿瑞士法郎，同比下降5.7%](https://36kr.com/newsflashes/3778980864709896?f=rss)
   - [雷诺集团一季度营收125.3亿欧元，同比增长7.3%](https://36kr.com/newsflashes/3778998613218564?f=rss)
@@ -189,8 +202,10 @@
   - [香农芯创：第一季度净利润13.27亿元，同比增长7835.06%](https://36kr.com/newsflashes/3779339016377604?f=rss)
   - [香港证监会：因中国恒大虚假财务报表问题，普华永道向股东赔偿10亿港元](https://36kr.com/newsflashes/3779154826908676?f=rss)
   - [马斯克确认特斯拉HW3芯片无法支持无监督FSD](https://36kr.com/newsflashes/3779039345710080?f=rss)
+  - [鸿蒙座舱HarmonySpace 6发布](https://36kr.com/newsflashes/3779375900005380?f=rss)
   - [鸿蒙智行发布问界M6等多款产品](https://36kr.com/newsflashes/3779087117030402?f=rss)
   - [黑湖科技完成近10亿元D轮融资](https://36kr.com/newsflashes/3778705169077513?f=rss)
+  - [黑石盈利超预期，预计IPO将迎来“史上最佳年份”](https://36kr.com/newsflashes/3779355506251012?f=rss)
 - Ars Technica
   - [Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage](https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/)
   - [Google unveils two new TPUs designed for the "agentic era"](https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/)
@@ -203,6 +218,8 @@
   - [You want your Moon landings in HDTV? So does NASA—here's how it's happening.](https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/)
 - Cerbero Blog
   - [CRAMFS Format Package](https://blog.cerbero.io/cramfs-format-package/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#748485: Unauthenticated configuration modification vulnerability in Central Office Services - Content Hosting Component](https://kb.cert.org/vuls/id/748485)
 - Checkmarx.com
   - [Checkmarx Security Update: April 22](https://checkmarx.com/blog/checkmarx-security-update-april-22/)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -256,7 +273,10 @@
   - [Mythos in Practice: Attack Paths, Exploitability, and What Actually Matters Most](https://horizon3.ai/intelligence/blogs/mythos-attack-paths-exploitability/)
 - ICT Security Magazine
   - [Intelligenza artificiale e criminalità Informatica: quando lo stesso strumento difende e attacca](https://www.ictsecuritymagazine.com/articoli/ai-criminalita-informatica/)
+- IEEE Spectrum
+  - [This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC](https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica)
 - infosecurity-magazine.com
+  - [Apple Fixes iOS Notification Bug Exposing Deleted Messages](https://www.infosecurity-magazine.com/news/apple-ios-notification-bug-deleted/)
   - [Cyber-Attacks Surge 63% Annually in Education Sector](https://www.infosecurity-magazine.com/news/cyberattacks-surge-63-annually/)
   - [Google Introduces Unique AI Agent Identities in New Gemini Enterprise Platform](https://www.infosecurity-magazine.com/news/google-ai-agent-identities-gemini/)
   - [MacOS Native Tools Enable Stealthy Enterprise Attacks](https://www.infosecurity-magazine.com/news/macos-lotl-techniques-enterprise/)
@@ -264,8 +284,14 @@
   - [Researchers Uncover 10 In-the-Wild Prompt Injection Payloads Targeting AI Agents](https://www.infosecurity-magazine.com/news/researchers-10-wild-indirect/)
 - joanwestenberg.com
   - [Why prediction markets are a sure sign that our civilisation is in decay](https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/)
+- johndcook.com
+  - [Simple approximation for solving a right triangle](https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/)
+- MIT Technology Review
+  - [The Download: introducing the Nature issue](https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/)
 - NowSecure
   - [Vibe Coding Risk: Securing AI-Generated Mobile Apps](https://www.nowsecure.com/blog/2026/04/23/vibe-coding-risk-securing-ai-generated-mobile-apps/)
+- pluralistic.net
+  - [Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)](https://pluralistic.net/2026/04/23/poison-pill/)
 - SANS Internet Storm Center, InfoCON: green
   - [Apple Patches Exploited Notification Flaw, (Thu, Apr 23rd)](https://isc.sans.edu/diary/rss/32922)
   - [ISC Stormcast For Thursday, April 23rd, 2026 https://isc.sans.edu/podcastdetail/9904, (Thu, Apr 23rd)](https://isc.sans.edu/diary/rss/32920)
@@ -289,10 +315,12 @@
   - [Exploit for CVE-2026-41651 exploit](https://sploitus.com/exploit?id=A702F200-28D8-5BE1-A7FB-F5A36FA7E0FA&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Microsoft exploit](https://sploitus.com/exploit?id=47373EE1-4958-5E36-829F-2892D366ECFB&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Jenkins exploit](https://sploitus.com/exploit?id=9930AE1F-1612-5406-AA5D-0E26C41E018F&utm_source=rss&utm_medium=rss)
+  - [Exploits exploit](https://sploitus.com/exploit?id=C398C91F-243A-5C08-A77A-E2DAE927BECC&utm_source=rss&utm_medium=rss)
   - [hospital-waf-mcp exploit](https://sploitus.com/exploit?id=D666A62A-BD38-568C-99A4-62E6393B5531&utm_source=rss&utm_medium=rss)
   - [web-vulnerability-scanner exploit](https://sploitus.com/exploit?id=869897BB-3020-5875-A092-BCBF4152BD59&utm_source=rss&utm_medium=rss)
   - [Web-Vulnerability-Tester exploit](https://sploitus.com/exploit?id=F1D2F422-E9F6-5180-BE8A-6D153C7E0EE1&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [AI galaxy hunters are adding to the global GPU crunch](https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/)
   - [AI Overviews are coming to your Gmail at work](https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/)
   - [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
   - [Beehiiv rolls out new creator tools, including webinars and customizable paywalls](https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/)
@@ -462,6 +490,7 @@
   - [Cocaine-Fueled Wild Salmon Swam Twice as Far as Sober Ones](https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/)
   - [Dermstore Promo Codes: 25% Off](https://www.wired.com/story/dermstore-promo-code/)
   - [Hoka Coupon Codes: 30% Off | April 2026](https://www.wired.com/story/hoka-coupon-code/)
+  - [Lume Cube Edge Light Go Review (2026): Versatile, Portable](https://www.wired.com/review/lume-cube-edge-light-go-portable-lamp/)
   - [New York Bans Government Employees from Insider Trading on Prediction Markets](https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/)
   - [Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist](https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/)
   - [Sony Inzone H6 Air Review: Comfortable Headphones, Great Sound](https://www.wired.com/review/sony-inzone-h6-air/)
@@ -475,8 +504,12 @@
   - [三星电子前职员向中方泄露芯片技术被判七年](https://buaq.net/go-412181.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [Bcrypt](https://dyrnq.com/bcrypt/)
 - 奇客Solidot–传递最新科技情报
   - [乒乓球机器人击败了人类顶尖选手](https://www.solidot.org/story?sid=84125)
+  - [加密货币骗子瞄准滞留在霍尔木兹海峡附近的船只](https://www.solidot.org/story?sid=84131)
+  - [古代人类曾三次迁徙到南美洲](https://www.solidot.org/story?sid=84130)
   - [孙宇晨起诉特朗普家族的加密货币公司 World Liberty](https://www.solidot.org/story?sid=84127)
   - [盖茨基金会准备裁员，正在审查与爱泼斯坦的关联](https://www.solidot.org/story?sid=84129)
   - [苹果修复了在原始信息删除之后预览仍然保留在通知数据库里的 Bug](https://www.solidot.org/story?sid=84124)
@@ -490,6 +523,7 @@
   - [我们需要更多阔折叠｜硬哲学](https://www.ifanr.com/1663293?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜库克称将长期担任苹果执行董事长/张雪机车召回286台820RR/特斯拉车机将接入豆包与DeepSeek](https://www.ifanr.com/1663447?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [纯正的美式豪华味儿！「电动大 V8」凯迪拉克凯威德上市，46.88 万元起](https://www.ifanr.com/1663573?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [荣耀 WIN 游戏本功耗拉到 270W，加风扇是散热永恒的真理](https://www.ifanr.com/1663628?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [起底 GPT Image 2 团队后，我扒出了一张华人师徒网](https://www.ifanr.com/1663499?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [【公益译文】2026年国际AI安全报告（一）](https://blog.nsfocus.net/%e3%80%90%e5%85%ac%e7%9b%8a%e8%af%91%e6%96%87%e3%80%912026%e5%b9%b4%e5%9b%bd%e9%99%85ai%e5%ae%89%e5%85%a8%e6%8a%a5%e5%91%8a%ef%bc%88%e4%b8%80%ef%bc%89/)
