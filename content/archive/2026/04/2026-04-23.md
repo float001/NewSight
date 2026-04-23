@@ -2,6 +2,7 @@
 
 - 2Libra
   - [2 友们，你们觉得保险有必要购买吗，有的话，有推荐吗](https://2libra.com/post/financial-management/ZvUl1tr)
+  - [cpa(cli proxy api) 导入的 codex 认证文件在哪存储呢](https://2libra.com/post/help-requests/z_wF7DN)
   - [Java Agent 项目选择](https://2libra.com/post/ai-applications/Pq53zQP)
   - [netcup 过年了，机子都可以买了](https://2libra.com/post/servers/IXOyr6w)
   - [V 站账号登录不上去了，这里有 V 站的大佬吗？](https://2libra.com/post/questions/qPK8rao)
@@ -10,8 +11,11 @@
   - [世界读书日看点啥啊？](https://2libra.com/post/good-books/wcVtZcY)
   - [偶尔会感觉年纪大了，很难给别人提供情绪价值，当然也不会主动去索取。](https://2libra.com/post/mental-health/lOtC7ZZ)
   - [好喜欢吃糯米鸡啊](https://2libra.com/post/slacking-off/XM7JD90)
+  - [小版本迭代，优化用户体验【编辑器、动态、发帖的 AI 检定等】](https://2libra.com/post/update-logs/7MOzHr6)
   - [工作中的你是戴着面具的吗](https://2libra.com/post/office-life/eJXIjLe)
   - [有没有八字交流群 交流一下](https://2libra.com/post/interest-groups/_Uu66rc)
+  - [朋友们， 你们还在发朋友圈么？](https://2libra.com/post/weekend-life/iZeb0NB)
+  - [现在有什么推荐的语音输入法吗？](https://2libra.com/post/tools-sharing/DLpG0qr)
   - [目前 iPhone 的无线充体验还是不够完美](https://2libra.com/post/phone/NX-WFvT)
   - [竞拍这个功能可以啊? @Jimmy 要不要致敬一下?](https://2libra.com/post/forum-function/KxlSpsq)
 - 36氪
@@ -31,6 +35,7 @@
   - [SpaceX受邀加入开发“金穹顶”软件的行业团队](https://36kr.com/newsflashes/3778611201938694?f=rss)
   - [SpaceX警告称将面临“巨额资本支出”，其中包括用于图形处理器制造的支出](https://36kr.com/newsflashes/3778941177419013?f=rss)
   - [T3出行向港交所提交上市申请](https://36kr.com/newsflashes/3778711855322370?f=rss)
+  - [ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%](https://36kr.com/newsflashes/3779138287981826?f=rss)
   - [WPS 365发布私有化AI解决方案“轻舟AI”](https://36kr.com/newsflashes/3778684412007426?f=rss)
   - [“普渡机器人”完成近10亿元融资，估值突破100亿元](https://36kr.com/newsflashes/3777806406440192?f=rss)
   - [一个对话框、一只青蛙、一周4万用户，Ribbi做对了什么？](https://36kr.com/p/3778121523025154?f=rss)
@@ -46,6 +51,7 @@
   - [中信证券：中国创新药产业有望迎来管线潜力的验证与价值提升](https://36kr.com/newsflashes/3778683301106694?f=rss)
   - [中信证券：光模块设备伴随下游资本开支与高效化、国产化趋势迎来高景气](https://36kr.com/newsflashes/3778666196063234?f=rss)
   - [中信证券：漫剧行业景气度仍在持续](https://36kr.com/newsflashes/3778671351075846?f=rss)
+  - [中国电信：第一季度净利润73.5亿元，同比下降17.08%](https://36kr.com/newsflashes/3779172791670025?f=rss)
   - [中国航空工业集团等在成都成立科技公司](https://36kr.com/newsflashes/3778857753187591?f=rss)
   - [中船汉光回应业绩下滑：原材料涨价对成本有一定影响，向下游传导涨价有难度](https://36kr.com/newsflashes/3779018433598470?f=rss)
   - [中金：A股市场近期建议关注三条主线](https://36kr.com/newsflashes/3778698889729028?f=rss)
@@ -76,14 +82,17 @@
   - [大麦娱乐联合阿里通义发布全球首个潮玩创作者AI设计平台“妙呀”](https://36kr.com/newsflashes/3779009587254533?f=rss)
   - [央行公开市场今日资金投放量持平到期量](https://36kr.com/newsflashes/3778730121483522?f=rss)
   - [字节跳动发布3D生成大模型Seed3D 2.0](https://36kr.com/newsflashes/3778928879129865?f=rss)
+  - [宁德时代在古田成立新能源科技公司，注册资本20亿元](https://36kr.com/newsflashes/3779147390424071?f=rss)
   - [小米MiMo-V2.5系列模型开启公测](https://36kr.com/newsflashes/3778741584843782?f=rss)
   - [工信部：一季度电信业务收入累计完成4394亿元，同比下降1.8%](https://36kr.com/newsflashes/3779016308593925?f=rss)
   - [工信部：一季度移动互联网累计流量达1044亿GB，同比增长19.1%](https://36kr.com/newsflashes/3779024428241923?f=rss)
+  - [市场监管总局：督促电商平台切实履行责任，堵住“幽灵网店”监管漏洞](https://36kr.com/newsflashes/3779166731916552?f=rss)
   - [并购重组步入业绩兑现阶段，助力上市公司质量稳步提升](https://36kr.com/newsflashes/3778622726116613?f=rss)
   - [开年连融两轮的“可以玩的抖音”，又融了5000万美金｜涌现新项目](https://36kr.com/p/3778135439709446?f=rss)
   - [微软承诺投资180亿美元以建设澳大利亚人工智能能力](https://36kr.com/newsflashes/3778699335226625?f=rss)
   - [恒指午间休盘跌1.12%，恒生科技指数跌2.31%](https://36kr.com/newsflashes/3778886718149890?f=rss)
   - [恒指开盘跌0.25%，恒生科技指数跌0.04%](https://36kr.com/newsflashes/3778729916797960?f=rss)
+  - [恒指收跌0.95%，恒生科技指数跌1.98%](https://36kr.com/newsflashes/3779131167151113?f=rss)
   - [恒生科技指数日内跌幅扩大至1%](https://36kr.com/newsflashes/3778746041324804?f=rss)
   - [恒生科技指数跌超2%](https://36kr.com/newsflashes/3778760742425606?f=rss)
   - [恒辉安防：“公司腱绳海外送样被否决”的信息不实](https://36kr.com/newsflashes/3778884242723843?f=rss)
@@ -112,19 +121,24 @@
   - [美股三大指数集体收涨，Arm涨超12%](https://36kr.com/newsflashes/3778588631913472?f=rss)
   - [腾讯云发布Xinference供应链投毒风险通告](https://36kr.com/newsflashes/3778691259339784?f=rss)
   - [腾讯汤道生：腾讯智慧出行目前业务已覆盖100%的头部车企及泛出行公司](https://36kr.com/newsflashes/3779124400821508?f=rss)
+  - [腾讯混元Hy3 preview发布并开源](https://36kr.com/newsflashes/3779165640692992?f=rss)
   - [苏黎世保险获股东批准，109亿美元收购Beazley](https://36kr.com/newsflashes/3778615706457093?f=rss)
   - [蓝科高新：第一季度净利润1230.02万元，同比增长89.69%](https://36kr.com/newsflashes/3779114553267461?f=rss)
   - [行业景气度高位运行，光模块企业扩产忙](https://36kr.com/newsflashes/3778631298307330?f=rss)
+  - [诺基亚CEO称：欧洲在人工智能数据中心建设方面恐落后于中美](https://36kr.com/newsflashes/3779173413737479?f=rss)
   - [诺基亚第一季度调整后运营利润为2.81亿欧元，高于市场预期](https://36kr.com/newsflashes/3778951728567557?f=rss)
   - [软银寻求以OpenAI股份为担保，获取100亿美元保证金贷款](https://36kr.com/newsflashes/3778681423140097?f=rss)
   - [量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能](https://36kr.com/newsflashes/3779092611142658?f=rss)
+  - [金山办公发布全新WPS多维表格](https://36kr.com/newsflashes/3779162006000648?f=rss)
   - [银河证券：预计美股的进一步上行动力仍受财报季业绩兑现影响](https://36kr.com/newsflashes/3778695594333191?f=rss)
   - [闪送开源CLI，为同城即时速递行业首家](https://36kr.com/newsflashes/3779076715500809?f=rss)
+  - [阿里云：企业级Agent构建平台JVS Crew上线](https://36kr.com/newsflashes/3779141566846212?f=rss)
   - [雀巢确认将蓝瓶咖啡出售给大钲资本](https://36kr.com/newsflashes/3778983113839876?f=rss)
   - [雀巢集团一季度销售额213亿瑞士法郎，同比下降5.7%](https://36kr.com/newsflashes/3778980864709896?f=rss)
   - [雷诺集团一季度营收125.3亿欧元，同比增长7.3%](https://36kr.com/newsflashes/3778998613218564?f=rss)
   - [非货管理规模排名生变，公募机构各有高招](https://36kr.com/newsflashes/3778649599431681?f=rss)
   - [韩国第一季度GDP同比增长3.6%](https://36kr.com/newsflashes/3778593564185605?f=rss)
+  - [香港证监会：因中国恒大虚假财务报表问题，普华永道向股东赔偿10亿港元](https://36kr.com/newsflashes/3779154826908676?f=rss)
   - [马斯克确认特斯拉HW3芯片无法支持无监督FSD](https://36kr.com/newsflashes/3779039345710080?f=rss)
   - [鸿蒙智行发布问界M6等多款产品](https://36kr.com/newsflashes/3779087117030402?f=rss)
   - [黑湖科技完成近10亿元D轮融资](https://36kr.com/newsflashes/3778705169077513?f=rss)
@@ -138,6 +152,8 @@
   - [Tabloid reports linking 10 missing and dead scientists spur FBI probe](https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe/)
   - [Tesla reports Q1 2026 earnings: Still profitable](https://arstechnica.com/cars/2026/04/tesla-reports-q1-2026-earnings-still-profitable/)
   - [You want your Moon landings in HDTV? So does NASA—here's how it's happening.](https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/)
+- Checkmarx.com
+  - [Checkmarx Security Update: April 22](https://checkmarx.com/blog/checkmarx-security-update-april-22/)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [OpenClaw <  2026.3.28 Discord Text Approval Authorization Bypass](https://cxsecurity.com/issue/WLB-2026040015)
   - [Throttlestop Kernel Driver Kernel Out-of-Bounds Write Privilege Escalation](https://cxsecurity.com/issue/WLB-2026040014)
@@ -158,6 +174,8 @@
   - [Securing Hybrid Cloud Environments with Zero Trust Principles](https://fidelissecurity.com/threatgeek/cloud-security/zero-trust-for-securing-hybrid-cloud-environments/)
 - gilesthomas.com
   - [Writing an LLM from scratch, part 33 -- what I learned from finally getting round to the appendices](https://www.gilesthomas.com/2026/04/llm-from-scratch-33-what-i-learned-from-the-appendices)
+- Google AI Blog
+  - [Elevating Austria: Google invests in its first data center in the Alps.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/)
 - Hacker News Frontpage
   - [Alberta Startup Sells No-Tech Tractors for Half Price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
   - [Anker made its own chip to bring AI to all its products](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
@@ -186,6 +204,7 @@
   - [Intelligenza artificiale e criminalità Informatica: quando lo stesso strumento difende e attacca](https://www.ictsecuritymagazine.com/articoli/ai-criminalita-informatica/)
 - infosecurity-magazine.com
   - [MacOS Native Tools Enable Stealthy Enterprise Attacks](https://www.infosecurity-magazine.com/news/macos-lotl-techniques-enterprise/)
+  - [NCSC Backs Passkeys, Hailing a New Era of Sign-in](https://www.infosecurity-magazine.com/news/ncsc-backs-passkeys-new-era-of/)
 - joanwestenberg.com
   - [Why prediction markets are a sure sign that our civilisation is in decay](https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/)
 - SANS Internet Storm Center, InfoCON: green
@@ -199,6 +218,8 @@
 - simonwillison.net
   - [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [DangXPloit exploit](https://sploitus.com/exploit?id=62EC2FEC-0D00-5D8D-9A33-D2A7D13D1055&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-41651 exploit](https://sploitus.com/exploit?id=A702F200-28D8-5BE1-A7FB-F5A36FA7E0FA&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Microsoft exploit](https://sploitus.com/exploit?id=47373EE1-4958-5E36-829F-2892D366ECFB&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Jenkins exploit](https://sploitus.com/exploit?id=9930AE1F-1612-5406-AA5D-0E26C41E018F&utm_source=rss&utm_medium=rss)
   - [hospital-waf-mcp exploit](https://sploitus.com/exploit?id=D666A62A-BD38-568C-99A4-62E6393B5531&utm_source=rss&utm_medium=rss)
@@ -358,8 +379,11 @@
   - [Hoka Coupon Codes: 30% Off | April 2026](https://www.wired.com/story/hoka-coupon-code/)
   - [New York Bans Government Employees from Insider Trading on Prediction Markets](https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/)
   - [Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist](https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/)
+  - [Sony Inzone H6 Air Review: Comfortable Headphones, Great Sound](https://www.wired.com/review/sony-inzone-h6-air/)
   - [US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose](https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/)
   - [Verizon Promo Codes: $200 Verizon Gift Cards | April 2026](https://www.wired.com/story/verizon-promo-code/)
+- 不安全
+  - [三星电子前职员向中方泄露芯片技术被判七年](https://buaq.net/go-412181.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
@@ -370,10 +394,14 @@
 - 爱范儿
   - [全新一代瑞虎 9上市：当新能源成为话题主流后，奇瑞的燃油旗舰正在寻找新的答案](https://www.ifanr.com/1663450?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜库克称将长期担任苹果执行董事长/张雪机车召回286台820RR/特斯拉车机将接入豆包与DeepSeek](https://www.ifanr.com/1663447?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [起底 GPT Image 2 团队后，我扒出了一张华人师徒网](https://www.ifanr.com/1663499?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [【公益译文】2026年国际AI安全报告（一）](https://blog.nsfocus.net/%e3%80%90%e5%85%ac%e7%9b%8a%e8%af%91%e6%96%87%e3%80%912026%e5%b9%b4%e5%9b%bd%e9%99%85ai%e5%ae%89%e5%85%a8%e6%8a%a5%e5%91%8a%ef%bc%88%e4%b8%80%ef%bc%89/)
   - [【公益译文】2026年国际AI安全报告（四）](https://blog.nsfocus.net/%e3%80%90%e5%85%ac%e7%9b%8a%e8%af%91%e6%96%87%e3%80%912026%e5%b9%b4%e5%9b%bd%e9%99%85ai%e5%ae%89%e5%85%a8%e6%8a%a5%e5%91%8a%ef%bc%88%e5%9b%9b%ef%bc%89/)
   - [权威认可 | 绿盟科技防火墙实力入选“2025中国网络安全防火墙市场销量明星品牌”](https://blog.nsfocus.net/%e6%9d%83%e5%a8%81%e8%ae%a4%e5%8f%af-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e9%98%b2%e7%81%ab%e5%a2%99%e5%ae%9e%e5%8a%9b%e5%85%a5%e9%80%892025%e4%b8%ad%e5%9b%bd%e7%bd%91%e7%bb%9c%e5%ae%89/)
+  - [绿盟NF防火墙：筑牢OpenClaw安全防线，构筑AI时代安全基石](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9fnf%e9%98%b2%e7%81%ab%e5%a2%99%ef%bc%9a%e7%ad%91%e7%89%a2openclaw%e5%ae%89%e5%85%a8%e9%98%b2%e7%ba%bf%ef%bc%8c%e6%9e%84%e7%ad%91ai%e6%97%b6%e4%bb%a3%e5%ae%89%e5%85%a8%e5%9f%ba-2/)
 - 阿小信的博客
   - [“中国AI拿下这一轮，我没意见”——Kimi K2.6引爆Hacker News，海外开发者怎么看中国开源AI大模型？](https://blog.axiaoxin.com/post/china-open-source-ai-kimi-k2-6/)
   - [阿小信自由职业语录全集（2026.04 AI总结版）](https://blog.axiaoxin.com/post/quotations-of-axiaoxin/)
+- 黑海洋
+  - [三星电子前职员向中方泄露芯片技术被判七年](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%89%8D%E8%81%8C%E5%91%98%E5%90%91%E4%B8%AD%E6%96%B9%E6%B3%84%E9%9C%B2%E8%8A%AF%E7%89%87%E6%8A%80%E6%9C%AF%E8%A2%AB%E5%88%A4%E4%B8%83%E5%B9%B4)
