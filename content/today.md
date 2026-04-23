@@ -7,29 +7,42 @@
   - [Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users)
 - Hacker News Frontpage
   - [Incident with Multple GitHub Services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
+  - [Middle Eastern News Sites Are U.S. Government Propaganda Ops](https://theintercept.com/2026/04/20/pentagon-middle-eastern-news-propaganda-iran/)
   - [Palantir Employees Are Starting to Wonder If They're the Bad Guys](https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/)
 - Include Security Research Blog
   - [CTFs in the AI Era](https://blog.includesecurity.com/2026/04/ctfs-in-the-ai-era/)
 - infosecurity-magazine.com
   - [Google Favors General‑Purpose Gemini Models Over Cybersecurity‑Specific AI](https://www.infosecurity-magazine.com/news/google-gemini-over-cyber-specific/)
+- NVIDIA AI Blog
+  - [OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work](https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/)
 - Security Affairs
   - [Luxury cosmetics giant Rituals discloses data breach impacting member personal details](https://securityaffairs.com/191192/data-breach/rituals-discloses-a-data-breach-impacting-member-personal-details.html)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2025-5880 exploit](https://sploitus.com/exploit?id=7C51B7CE-BAEB-5F4C-844D-386B678EB2E7&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Apache Tomcat exploit](https://sploitus.com/exploit?id=15A6CDF4-8DBB-5A3A-82E6-BBF6AC3C5629&utm_source=rss&utm_medium=rss)
   - [Nex.AI exploit](https://sploitus.com/exploit?id=A9C5DA89-72A5-5824-8FA7-3896C11DD297&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Bluesky now supports better quality photos](https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/)
+  - [Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says](https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/)
   - [Era computer raises $11M to build a software platform for AI gadgets](https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/)
   - [Meta is revamping its cross-app management system](https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/)
+  - [Meta to cut 10% of jobs, or 8,000 employees, report says](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
   - [Microsoft offers buyout for up to 7% of U.S. employees](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/)
+  - [OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’](https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/)
 - The Decoder
   - [Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design](https://the-decoder.com/googles-open-source-design-md-gives-ai-agents-a-prompt-ready-blueprint-for-brand-consistent-design/)
+  - [OpenAI unveils GPT-5.5, claims a "new class of intelligence" at double the API price](https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/)
   - [OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense](https://the-decoder.com/openais-new-trusted-access-program-gives-microsoft-its-most-capable-models-for-cyber-defense/)
 - The Verge
+  - [Anthropic&#8217;s Mythos breach was humiliating](https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation)
+  - [Democrats want to ban ICE from turning warehouses into detention centers](https://www.theverge.com/policy/917643/ban-warehouse-detention-act-ice-dhs)
   - [Great news, the Moto G Stylus is no longer teeming with bloatware](https://www.theverge.com/tech/917497/motorola-moto-g-stylus-2026-review)
   - [Ikea&#8217;s new inflatable chair doesn&#8217;t look like an inflatable chair](https://www.theverge.com/design/917567/ikea-ps-collection-2026-inflatable-easy-chair-experimental-design)
   - [Inside Microsoft’s wave of executive departures](https://www.theverge.com/tech/917361/microsoft-executive-departures-notepad)
   - [Microsoft brings Xbox back, scraps Microsoft Gaming](https://www.theverge.com/report/917485/microsoft-return-of-xbox-no-more-microsoft-gaming)
+  - [Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games](https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma)
+  - [Spirit is broken](https://www.theverge.com/transportation/917629/spirit-airlines-bankrupt-bailout-merger-ultra-low-cost)
+  - [‘We Are Xbox’: read the memo defining Microsoft’s gaming future](https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty)
 - VulDB Recent Entries
   - [CVE-2025-50229 | Jizhicms 2.5.4 Product Editing sql injection](https://vuldb.com/vuln/359157)
   - [CVE-2025-62373 | pipecat-ai pipecat up to 0.0.93 Pickle livekit.py deserialize deserialization](https://vuldb.com/vuln/359147)
@@ -58,6 +71,8 @@
   - [CVE-2026-6919 | Google Chrome up to 147.0.7727.101 DevTools use after free](https://vuldb.com/vuln/359166)
   - [CVE-2026-6920 | Google Chrome up to 147.0.7727.101 on Android GPU out-of-bounds](https://vuldb.com/vuln/359159)
   - [CVE-2026-6921 | Google Chrome up to 147.0.7727.101 on Windows GPU race condition](https://vuldb.com/vuln/359169)
+- Wired
+  - [At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty](https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
