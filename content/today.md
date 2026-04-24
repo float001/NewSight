@@ -1,6 +1,11 @@
 # 今日安全资讯（2026-04-25）
 
+- 2Libra
+  - [你的微信推送“折叠发图”功能了吗？](https://2libra.com/post/product-updates/d2KVBHj)
+  - [去年开站不久时候说的这件事，是不是又该提起日程了](https://2libra.com/post/forum-function/j6tSQrV)
+  - [现在手机小功能挺有趣，灵动岛地图红绿灯](https://2libra.com/post/phone/iRSmXDd)
 - Ars Technica
+  - [Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine](https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/)
   - [FCC: Router ban includes portable hotspots, but not phones with hotspot features](https://arstechnica.com/tech-policy/2026/04/fcc-says-ban-on-foreign-made-routers-includes-portable-wi-fi-hotspots/)
 - daringfireball.net
   - [★ Norwegian Boating Licenses and Generational Law](https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law)
@@ -12,19 +17,25 @@
   - [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
   - [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
   - [SFO Quiet Airport (2025)](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
+  - [Show HN: I've built a nice home server OS](https://lightwhale.asklandd.dk/)
 - IEEE Spectrum
   - [Yong Wang Turns Information Into Insights](https://spectrum.ieee.org/yong-wang-data-visualization)
+- MIT Technology Review
+  - [Three reasons why DeepSeek’s new model V4 matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/)
 - Schneier on Security
   - [Friday Squid Blogging: How Squid Survived Extinction Events](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html)
 - Security Affairs
   - [12-year-old Pack2TheRoot bug lets Linux users gain root privileges](https://securityaffairs.com/191231/security/12-year-old-pack2theroot-bug-lets-linux-users-gain-root-privileges.html)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Missing Authentication for Critical Function in Frangoteam Fuxa exploit](https://sploitus.com/exploit?id=56876268-5FBE-5C5E-8C4B-970AAF8B6BBB&utm_source=rss&utm_medium=rss)
   - [POC_base_25 exploit](https://sploitus.com/exploit?id=2BF96BCC-0950-55AE-9A3F-C83035FD0AC2&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Cohere acquires, merges with German-based startup to create a ‘transatlantic AI powerhouse’](https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/)
   - [ComfyUI hits $500M valuation as creators seek more control over AI-generated media](https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/)
   - [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
   - [Marked-up Mac minis flood eBay amid shortages driven by AI](https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/)
   - [Meta’s loss is Thinking Machines’ gain](https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/)
+  - [Palantir is reportedly helping the IRS investigate financial crimes](https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/)
   - [X launches standalone XChat app on iOS](https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/)
   - [X-energy stock pops 27% on first day of trading following upsized IPO](https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/)
 - text/plain
@@ -88,6 +99,11 @@
   - [CVE-2026-41428 | budibase up to 3.35.3 Query Parameter status improper authentication](https://vuldb.com/vuln/359549)
   - [CVE-2026-41429 | Espressif arduino-esp32 up to 3.3.7 name_len stack-based overflow](https://vuldb.com/vuln/359552)
   - [CVE-2026-41433 | open-telemetry opentelemetry-ebpf-instrumentation up to 0.7.x File Creation path traversal](https://vuldb.com/vuln/359553)
+  - [CVE-2026-41475 | bacnet-stack BACnet Stack up to 1.4.2 WritePropertyMultiple Service wpm_decode_object_property out-of-bounds (GHSA-cvv4-v3g6-4jmv)](https://vuldb.com/vuln/359562)
+  - [CVE-2026-41476 | Deskflow up to 1.26.0.138 IClipboard.cpp ClipboardChunk::assemble buffer overflow (GHSA-3jp5-g964-cgmh)](https://vuldb.com/vuln/359565)
+  - [CVE-2026-41477 | deskflow up to 1.20.0/1.26.0.134 missing authentication (GHSA-6rx5-g478-775c)](https://vuldb.com/vuln/359569)
+  - [CVE-2026-41502 | bacnet-stack BACnet Stack up to 1.4.2 ReadPropertyMultiple Service src/bacnet/rpm.c rpm_decode_object_id out-of-bounds (GHSA-7545-3fpx-4xw3)](https://vuldb.com/vuln/359563)
+  - [CVE-2026-41503 | bacnet-stack BACnet Stack up to 1.4.2 ReadPropertyMultiple Service src/bacnet/rpm.c rpm_decode_object_property out-of-bounds (GHSA-5w2v-mwqj-pr2c)](https://vuldb.com/vuln/359564)
   - [CVE-2026-41676 | rust-openssl up to 0.10.77 derive out-of-bounds write (GHSA-pqf5-4pqq-29f5)](https://vuldb.com/vuln/359491)
   - [CVE-2026-41677 | rust-openssl up to 0.10.77 API _from_pem_callback out-of-bounds (GHSA-xmgf-hq76-4vx2)](https://vuldb.com/vuln/359492)
   - [CVE-2026-41678 | rust-openssl up to 0.10.77 aes::unwrap_key out-of-bounds write (GHSA-8c75-8mhr-p7r9)](https://vuldb.com/vuln/359493)
@@ -108,6 +124,9 @@
   - [CVE-2026-42042 | Axios up to 0.31.0/1.15.0 permissive list of allowed inputs (GHSA-xx6v-rp6x-q39c)](https://vuldb.com/vuln/359510)
   - [CVE-2026-42043 | Axios up to 0.31.0/1.15.0 permissive list of allowed inputs (GHSA-pmwg-cvhr-8vh7)](https://vuldb.com/vuln/359515)
   - [CVE-2026-42044 | Axios up to 1.15.1 lib/defaults/index.js dynamically-determined object attributes (GHSA-3w6x-2g7m-8v23)](https://vuldb.com/vuln/359516)
+  - [CVE-2026-6966 | AWS tough/tuftool prior tough-v0.22.0 signature verification](https://vuldb.com/vuln/359566)
+  - [CVE-2026-6967 | AWS tough/tuftool up to 0.21.x load_delegations data authenticity](https://vuldb.com/vuln/359568)
+  - [CVE-2026-6968 | AWS tough/tuftool prior 0.22.0 copy_target/link_target path traversal](https://vuldb.com/vuln/359567)
   - [CVE-2026-6977 | vanna-ai vanna up to 2.0.2 Legacy Flask API improper authorization](https://vuldb.com/vuln/359520)
   - [CVE-2026-6978 | JiZhiCMS up to 2.5.6 addcache.html htmlspecialchars_decode sqls sql injection](https://vuldb.com/vuln/359521)
   - [CVE-2026-6982 | star7th ShowDoc up to 2.10.10/3.6.2/3.8.0 API Page Sort Endpoint PageController.class.PHP pages sql injection](https://vuldb.com/vuln/359525)
