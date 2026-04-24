@@ -1,25 +1,37 @@
 # 今日安全资讯（2026-04-25）
 
+- Ars Technica
+  - [FCC: Router ban includes portable hotspots, but not phones with hotspot features](https://arstechnica.com/tech-policy/2026/04/fcc-says-ban-on-foreign-made-routers-includes-portable-wi-fi-hotspots/)
 - daringfireball.net
   - [★ Norwegian Boating Licenses and Generational Law](https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law)
+- EFF
+  - [California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower](https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower)
 - filfre.net
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/)
 - Hacker News Frontpage
+  - [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
   - [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
   - [SFO Quiet Airport (2025)](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
 - IEEE Spectrum
   - [Yong Wang Turns Information Into Insights](https://spectrum.ieee.org/yong-wang-data-visualization)
+- Security Affairs
+  - [12-year-old Pack2TheRoot bug lets Linux users gain root privileges](https://securityaffairs.com/191231/security/12-year-old-pack2theroot-bug-lets-linux-users-gain-root-privileges.html)
 - Sploitus.com Exploits RSS Feed
   - [POC_base_25 exploit](https://sploitus.com/exploit?id=2BF96BCC-0950-55AE-9A3F-C83035FD0AC2&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [ComfyUI hits $500M valuation as creators seek more control over AI-generated media](https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/)
   - [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
   - [Marked-up Mac minis flood eBay amid shortages driven by AI](https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/)
+  - [X launches standalone XChat app on iOS](https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/)
+- text/plain
+  - [Attack Techniques: RMM Abuse](https://textslashplain.com/2026/04/24/attack-techniques-rmm-abuse/)
 - The Decoder
   - [OpenAI's chief scientist says AI progress has been "surprisingly slow" and promises big leaps ahead](https://the-decoder.com/openais-chief-scientist-says-ai-progress-has-been-surprisingly-slow-and-promises-big-leaps-ahead/)
 - The Verge
   - [BMW is one step closer to selling you a color-changing car](https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing)
   - [Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations](https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale)
   - [How Project Maven taught the military to love AI](https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson)
+  - [The person who allegedly leaked Paramount’s new Avatar movie has been arrested](https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus)
   - [The RAM shortage could get even worse if Samsung labor protests cut production](https://www.theverge.com/tech/918301/samsung-south-korea-union-protests)
   - [Xreal’s best AR glasses are $599 for good now](https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale)
 - VulDB Recent Entries
@@ -51,15 +63,31 @@
   - [CVE-2026-41067 | withastro up to 6.1.5 HTML Parser defineScriptVars HTML injection (GHSA-j687-52p2-xcff)](https://vuldb.com/vuln/359512)
   - [CVE-2026-41079 | OpenPrinting cups up to 2.4.16 on Linux Web Interface out-of-bounds (GHSA-6wpw-g8g6-wvrv)](https://vuldb.com/vuln/359489)
   - [CVE-2026-41140 | python-poetry up to 2.3.3 helpers.py extractall path traversal (GHSA-73h3-mf4w-8647)](https://vuldb.com/vuln/359490)
+  - [CVE-2026-41244 | notamitgamer mojic up to 2.1.3 timing discrepancy](https://vuldb.com/vuln/359548)
   - [CVE-2026-41321 | withastro up to 13.1.9 HTTP Redirect image-binding-transform.ts fetch server-side request forgery (GHSA-88gm-j2wx-58h6)](https://vuldb.com/vuln/359503)
   - [CVE-2026-41322 | withastro up to 10.0.4 _astro web browser cache containing sensitive information (GHSA-c57f-mm3j-27q9)](https://vuldb.com/vuln/359504)
+  - [CVE-2026-41326 | kata-containers Kata Containers up to 3.28.x CopyFile symlink (GHSA-q49m-57vm-c8cc)](https://vuldb.com/vuln/359533)
+  - [CVE-2026-41327 | dgraph-io dgraph up to 25.3.2 DQL Parser /mutate?commitNow=true cond data query logic injection](https://vuldb.com/vuln/359532)
   - [CVE-2026-41328 | dgraph-io dgraph up to 25.3.2 JSON /alter x.PredicateLang pred.Lang data query logic injection](https://vuldb.com/vuln/359502)
   - [CVE-2026-41411 | vim up to 9.2.0356 Command Line os command injection (GHSA-cwgx-gcj7-6qh8)](https://vuldb.com/vuln/359498)
+  - [CVE-2026-41414 | skim-rs skim github/workflows/pr.yml code injection (GHSA-9g93-rxr5-xhqw)](https://vuldb.com/vuln/359535)
+  - [CVE-2026-41415 | pjsip pjproject up to 2.16 Multipart Message out-of-bounds (GHSA-935m-fmf5-j4pm)](https://vuldb.com/vuln/359536)
+  - [CVE-2026-41416 | pjsip pjproject up to 2.16 integer overflow (GHSA-f33g-8hjq-62xr)](https://vuldb.com/vuln/359537)
+  - [CVE-2026-41418 | RARgames 4gaBoards up to 3.3.4 Login Endpoint /api/access-tokens bcrypt.compareSync timing discrepancy (GHSA-8mj9-p99h-jhxp)](https://vuldb.com/vuln/359534)
+  - [CVE-2026-41419 | RARgames 4gaBoards up to 3.3.4 Application Interface path traversal (GHSA-rrjq-7x8g-cmgm)](https://vuldb.com/vuln/359539)
+  - [CVE-2026-41421 | SiYuan up to 3.6.4 Notification Message pushMsg msg os command injection (GHSA-grjj-6f6g-cq8q)](https://vuldb.com/vuln/359538)
+  - [CVE-2026-41425 | Authlib up to 1.6.10 authlib.integrations.starlette_client.OAuth cross-site request forgery](https://vuldb.com/vuln/359547)
+  - [CVE-2026-41426 | pretalx 2.3.1/2.3.2 cross site scripting](https://vuldb.com/vuln/359550)
+  - [CVE-2026-41427 | better-auth oauth-provider up to 1.6.4/1.7.0-beta.1 OAuth Client Creation Endpoint authorization](https://vuldb.com/vuln/359551)
+  - [CVE-2026-41428 | budibase up to 3.35.3 Query Parameter status improper authentication](https://vuldb.com/vuln/359549)
+  - [CVE-2026-41429 | Espressif arduino-esp32 up to 3.3.7 name_len stack-based overflow](https://vuldb.com/vuln/359552)
+  - [CVE-2026-41433 | open-telemetry opentelemetry-ebpf-instrumentation up to 0.7.x File Creation path traversal](https://vuldb.com/vuln/359553)
   - [CVE-2026-41676 | rust-openssl up to 0.10.77 derive out-of-bounds write (GHSA-pqf5-4pqq-29f5)](https://vuldb.com/vuln/359491)
   - [CVE-2026-41677 | rust-openssl up to 0.10.77 API _from_pem_callback out-of-bounds (GHSA-xmgf-hq76-4vx2)](https://vuldb.com/vuln/359492)
   - [CVE-2026-41678 | rust-openssl up to 0.10.77 aes::unwrap_key out-of-bounds write (GHSA-8c75-8mhr-p7r9)](https://vuldb.com/vuln/359493)
   - [CVE-2026-41680 | markedjs marked up to 18.0.1 resource consumption (GHSA-6v9c-7cg6-27q7)](https://vuldb.com/vuln/359513)
   - [CVE-2026-41681 | rust-openssl up to 0.10.77 EVP_DigestFinal stack-based overflow (GHSA-ghm9-cr32-g9qj)](https://vuldb.com/vuln/359494)
+  - [CVE-2026-41894 | SiYuan up to 3.6.4 url.PathUnescape path traversal](https://vuldb.com/vuln/359531)
   - [CVE-2026-41898 | rust-openssl up to 0.10.77 buffer over-read (GHSA-hppc-g8h3-xhp3)](https://vuldb.com/vuln/359495)
   - [CVE-2026-41907 | uuidjs uuid up to 13.x out-of-range pointer offset](https://vuldb.com/vuln/359518)
   - [CVE-2026-42033 | Axios up to 0.31.0/1.15.0 prototype pollution (GHSA-pf86-5x62-jrwf)](https://vuldb.com/vuln/359505)
@@ -76,6 +104,19 @@
   - [CVE-2026-42044 | Axios up to 1.15.1 lib/defaults/index.js dynamically-determined object attributes (GHSA-3w6x-2g7m-8v23)](https://vuldb.com/vuln/359516)
   - [CVE-2026-6977 | vanna-ai vanna up to 2.0.2 Legacy Flask API improper authorization](https://vuldb.com/vuln/359520)
   - [CVE-2026-6978 | JiZhiCMS up to 2.5.6 addcache.html htmlspecialchars_decode sqls sql injection](https://vuldb.com/vuln/359521)
+  - [CVE-2026-6982 | star7th ShowDoc up to 2.10.10/3.6.2/3.8.0 API Page Sort Endpoint PageController.class.PHP pages sql injection](https://vuldb.com/vuln/359525)
+  - [CVE-2026-6983 | pagekit up to 1.0.18 download url server-side request forgery](https://vuldb.com/vuln/359526)
+  - [CVE-2026-6984 | AstrBotDevs AstrBot up to 4.22.1 Dashboard API t2i.py create_template special elements used in a template engine (Issue 7330)](https://vuldb.com/vuln/359527)
+  - [CVE-2026-6985 | Cesanta Mongoose up to 7.20 TCP Option /src/net_builtin.c handle_opt optlen infinite loop](https://vuldb.com/vuln/359528)
+  - [CVE-2026-6986 | Cesanta Mongoose up to 7.20 GCM Authentication Tag /src/tls_aes128.c mg_aes_gcm_decrypt signature verification](https://vuldb.com/vuln/359529)
+  - [CVE-2026-6987 | PicoClaw up to 0.2.4 Web Launcher Management Plane /api/gateway/restart command injection (Issue 2307)](https://vuldb.com/vuln/359530)
+  - [CVE-2026-6988 | Tenda HG10 HG7_HG9_HG10re_300001138_en_xpon Boa Service /boaform/formRouting formRoute nextHop buffer overflow](https://vuldb.com/vuln/359540)
+  - [CVE-2026-6989 | Tenda F453 up to 1.0.0.3 Telnet Service /goform/telnet TendaTelnet command injection](https://vuldb.com/vuln/359541)
+  - [CVE-2026-6990 | projeto-siga 11.0.3.18 novo Nome/Descrição cross site scripting (Issue 2491)](https://vuldb.com/vuln/359542)
+  - [CVE-2026-6991 | colinhacks Zod up to 4.3.6 CUID Data Type regexes.ts sql injection](https://vuldb.com/vuln/359543)
+  - [CVE-2026-6992 | Linksys MR9600 2.0.6.206937 JNAP Action run_central2.sh BTRequestGetSmartConnectStatus pin os command injection](https://vuldb.com/vuln/359544)
+  - [CVE-2026-6993 | go-kratos up to 2.9.2 http.DefaultServeMux Fallback transport/http/server.go NewServer confused deputy (Issue 3810)](https://vuldb.com/vuln/359545)
+  - [CVE-2026-6994 | Envoy up to 1.33.0 Query Parameter header_mutation.cc params.add injection (ID 43502)](https://vuldb.com/vuln/359546)
 - wheresyoured.at
   - [Premium: How OpenAI Kills Oracle](https://www.wheresyoured.at/how-openai-kills-oracle/)
 - Wired
