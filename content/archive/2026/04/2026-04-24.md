@@ -21,6 +21,7 @@
   - [才知道小时候用的 999 皮炎平实际上就是地塞米松](https://2libra.com/post/health-consultation/F7N4HeO)
   - [找不到工作了，这周一个面试都没有](https://2libra.com/post/job-hunting/LC5Udzr)
   - [新发现了个摸鱼网站:煎蛋网;感觉运营的挺好的,现在就用 2 站 v2 和这个煎蛋了还有什么好玩的网站推荐吗](https://2libra.com/post/slacking-off/IrzZzUF)
+  - [求推荐头戴耳机](https://2libra.com/post/recommendations/jcGm8Dx)
   - [温子仁的恐怖影片有点让人无语](https://2libra.com/post/movie-experience/cWIET2M)
   - [现在的地图是不是都只能搜索地点，而不能搜索一条街道](https://2libra.com/post/software-tools/gy_pJiG)
   - [隔壁 V 站说 最近墙变高了，大家目前使用下来啥情况，注意保护隐私。](https://2libra.com/post/networking/V5vSfAy)
@@ -236,16 +237,20 @@
   - [黑芝麻：公司及董事长韦清文因涉嫌信披违规被证监会立案](https://36kr.com/newsflashes/3780718375394563?f=rss)
 - 404 Media
   - [Community Votes to Deny Water to Nuclear Weapons Data Center](https://www.404media.co/community-votes-to-deny-water-to-nuclear-weapons-data-center/)
+  - [The AI Compute Crunch Is Here (and It's Affecting the Entire Economy)](https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/)
 - BorderGate
   - [Cloudfront C2 Redirectors](https://www.bordergate.co.uk/cloudfront-c2-redirectors/)
 - daringfireball.net
   - [Eight for Eight](https://mastodon.social/@Cdespinosa/116439702239797827)
   - [Microsoft Offers Voluntary Retirement to Long-Serving Employees](https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes)
+  - [New Zealand Passed a Generational Smoking Ban in 2022, But Repealed It Before It Went Into Effect](https://www.theguardian.com/world/2023/nov/27/new-zealand-scraps-world-first-smoking-generation-ban-to-fund-tax-cuts)
   - [Nilay Patel: ‘Beware Software Brain’](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)
   - [Trump’s Blog Has Somehow Lost $1.1 Billion](https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/)
   - [Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users)
   - [United Kingdom to Pass Smoking Ban Only for Those Who Are Not Yet Legal Adults](https://www.nytimes.com/2026/04/21/world/europe/uk-smoking-ban-2009.html?unlocked_article_code=1.dVA.f9yJ.YMVg9N8QOlio)
+  - [XOXO Explore](https://xoxofest.com/blog/2026-launching-xoxo-explore/)
 - darkreading
+  - [AI Phishing Is No. 1 With a Bullet for Cyberattackers](https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers)
   - [Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia)
   - [North Korea's Lazarus Targets macOS Users via ClickFix](https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix)
   - [Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets](https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets)
@@ -278,12 +283,14 @@
   - [éť‘ĺŽ˘ĺˆŠç”¨ Breeze Cache WordPress ć’äťść–‡äťśä¸Šäź ćźć´žĺ‘ĺŠ¨ć”ťĺ‡ť](http://0.0.0.0:8080/post/64172)
   - [ĺŒ–ĺŚ†ĺ“ĺˇ¨ĺ¤´ Rituals ćŠŤéœ˛ć•°ćŽćł„éœ˛äş‹äťśďźŒĺŽ˘ćˆˇĺ—ĺ˝ąĺ“](http://0.0.0.0:8080/post/64176)
 - ICT Security Magazine
+  - [Sotto la superficie: la sfida della cybersecurity negli habitat sottomarini](https://www.ictsecuritymagazine.com/articoli/cybersecurity-negli-habitat-sottomarini/)
   - [The Compliance Triple Threat: navigare la regulatory collision tra DORA, NIS2 e AI Act](https://www.ictsecuritymagazine.com/articoli/regulatory-collision/)
 - Include Security Research Blog
   - [CTFs in the AI Era](https://blog.includesecurity.com/2026/04/ctfs-in-the-ai-era/)
 - infosecurity-magazine.com
   - [Google Favors General‑Purpose Gemini Models Over Cybersecurity‑Specific AI](https://www.infosecurity-magazine.com/news/google-gemini-over-cyber-specific/)
   - [Npm Supply Chain Malware Attack Targets Developers With Worm-Like Propagation](https://www.infosecurity-magazine.com/news/npm-supply-chain-worm-canister/)
+  - [UK Biobank Data Breach: Health Data of 500,000 Listed for Sale in China](https://www.infosecurity-magazine.com/news/uk-biobank-data-beach-health-data/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-04-23: SmartApeSG activity](https://www.malware-traffic-analysis.net/2026/04/23/index.html)
 - NVIDIA AI Blog
@@ -336,6 +343,7 @@
   - [Bluesky now supports better quality photos](https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/)
   - [Bob Iger rejoins Thrive Capital as advisor after Disney exit](https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/)
   - [Bret Taylor’s Sierra buys YC-backed AI startup Fragment](https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/)
+  - [DeepSeek previews new AI model that ‘closes the gap’ with frontier models](https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/)
   - [Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says](https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/)
   - [Era computer raises $11M to build a software platform for AI gadgets](https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/)
   - [In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs](https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/)
@@ -344,11 +352,13 @@
   - [Meta is revamping its cross-app management system](https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/)
   - [Meta to cut 10% of jobs, or 8,000 employees, report says](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
   - [Microsoft offers buyout for up to 7% of U.S. employees](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/)
+  - [Nothing introduces an AI-powered dictation tool](https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/)
   - [OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’](https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/)
   - [Porsche is adding an all-electric Cayenne coupe to its lineup](https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/)
   - [Redwood Materials loses COO amid layoffs, restructuring](https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/)
   - [These are the countries moving to ban social media for children](https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/)
   - [Trump’s pick to run US cyber agency CISA asks to drop out](https://techcrunch.com/2026/04/23/trumps-pick-to-run-us-cyber-agency-cisa-asks-to-drop-out/)
+  - [Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event](https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/)
 - The Decoder
   - [Anthropic confirms Claude Code problems and promises stricter quality controls](https://the-decoder.com/anthropic-confirms-claude-code-problems-and-promises-stricter-quality-controls/)
   - [As agentic AI pushes rivals to raise prices and cap usage, Deepseek ships a good-enough model for almost nothing](https://the-decoder.com/as-agentic-ai-pushes-rivals-to-raise-prices-and-cap-usage-deepseek-ships-a-good-enough-model-for-almost-nothing/)
@@ -363,6 +373,7 @@
   - [Democrats want to ban ICE from turning warehouses into detention centers](https://www.theverge.com/policy/917643/ban-warehouse-detention-act-ice-dhs)
   - [Elon Musk and Sam Altman’s court showdown will dish the dirt](https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip)
   - [Great news, the Moto G Stylus is no longer teeming with bloatware](https://www.theverge.com/tech/917497/motorola-moto-g-stylus-2026-review)
+  - [I don&#8217;t think Gwyneth Paltrow knows what a peptide is](https://www.theverge.com/column/918084/optimizer-gwyneth-paltrow-peptides)
   - [Ikea&#8217;s new inflatable chair doesn&#8217;t look like an inflatable chair](https://www.theverge.com/design/917567/ikea-ps-collection-2026-inflatable-easy-chair-experimental-design)
   - [Inside Microsoft’s wave of executive departures](https://www.theverge.com/tech/917361/microsoft-executive-departures-notepad)
   - [Instagram has launched another Snapchat clone](https://www.theverge.com/tech/918061/instagram-instants-app-launch-snapchat-bereal)
@@ -374,6 +385,7 @@
   - [Saros is pure action nirvana](https://www.theverge.com/entertainment/917462/saros-review-ps5)
   - [Sonos’ big sale on refurbished speakers is about to end](https://www.theverge.com/gadgets/917611/sonos-refurbished-era-beam-move-speaker-deal-sale)
   - [Spirit is broken](https://www.theverge.com/transportation/917629/spirit-airlines-bankrupt-bailout-merger-ultra-low-cost)
+  - [The Trump phone still isn’t real](https://www.theverge.com/tech/918011/trump-mobile-t1-phone-real-redesign-release-date)
   - [US arrests soldier who allegedly made $400k on Maduro Polymarket bets](https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke)
   - [‘We Are Xbox’: read the memo defining Microsoft’s gaming future](https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty)
 - VulDB Recent Entries
