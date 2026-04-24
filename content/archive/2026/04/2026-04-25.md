@@ -4,6 +4,9 @@
   - [★ Norwegian Boating Licenses and Generational Law](https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law)
 - filfre.net
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/)
+- Hacker News Frontpage
+  - [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
+  - [SFO Quiet Airport (2025)](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
 - IEEE Spectrum
   - [Yong Wang Turns Information Into Insights](https://spectrum.ieee.org/yong-wang-data-visualization)
 - Sploitus.com Exploits RSS Feed
@@ -11,6 +14,8 @@
 - TechCrunch
   - [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
   - [Marked-up Mac minis flood eBay amid shortages driven by AI](https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/)
+- The Decoder
+  - [OpenAI's chief scientist says AI progress has been "surprisingly slow" and promises big leaps ahead](https://the-decoder.com/openais-chief-scientist-says-ai-progress-has-been-surprisingly-slow-and-promises-big-leaps-ahead/)
 - The Verge
   - [BMW is one step closer to selling you a color-changing car](https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing)
   - [Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations](https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale)
@@ -38,10 +43,44 @@
   - [CVE-2026-31645 | Linux Kernel up to 6.12.81/6.18.22/6.19.12 net lan966x_fdma_rx_alloc denial of service](https://vuldb.com/vuln/359458)
   - [CVE-2026-31658 | Linux Kernel up to 6.19.12 net tse_start_xmit stack-based overflow](https://vuldb.com/vuln/359449)
   - [CVE-2026-31659 | Linux Kernel up to 6.19.12 Response Buffer batadv_tt_prepare_tvlv_global_data heap-based overflow](https://vuldb.com/vuln/359450)
+  - [CVE-2026-33524 | ndsev zserio up to 2.18.0 memory allocation](https://vuldb.com/vuln/359509)
+  - [CVE-2026-33662 | OP-TEE optee_os up to 4.10 on ARM rsassa.c emsa_pkcs1_v1_5_encode integer overflow](https://vuldb.com/vuln/359499)
+  - [CVE-2026-33666 | ndsev zserio up to 2.18.0 BitStreamReader.h readBytes/readString/setBitPosition integer overflow](https://vuldb.com/vuln/359517)
+  - [CVE-2026-40897 | josdejong mathjs up to 15.1.x Expressions Math.js dynamically-determined object attributes (GHSA-29qv-4j9f-fjw5)](https://vuldb.com/vuln/359511)
+  - [CVE-2026-41066 | lxml up to 6.0.x xml external entity reference (GHSA-vfmq-68hx-4jfw)](https://vuldb.com/vuln/359497)
+  - [CVE-2026-41067 | withastro up to 6.1.5 HTML Parser defineScriptVars HTML injection (GHSA-j687-52p2-xcff)](https://vuldb.com/vuln/359512)
+  - [CVE-2026-41079 | OpenPrinting cups up to 2.4.16 on Linux Web Interface out-of-bounds (GHSA-6wpw-g8g6-wvrv)](https://vuldb.com/vuln/359489)
+  - [CVE-2026-41140 | python-poetry up to 2.3.3 helpers.py extractall path traversal (GHSA-73h3-mf4w-8647)](https://vuldb.com/vuln/359490)
+  - [CVE-2026-41321 | withastro up to 13.1.9 HTTP Redirect image-binding-transform.ts fetch server-side request forgery (GHSA-88gm-j2wx-58h6)](https://vuldb.com/vuln/359503)
+  - [CVE-2026-41322 | withastro up to 10.0.4 _astro web browser cache containing sensitive information (GHSA-c57f-mm3j-27q9)](https://vuldb.com/vuln/359504)
+  - [CVE-2026-41328 | dgraph-io dgraph up to 25.3.2 JSON /alter x.PredicateLang pred.Lang data query logic injection](https://vuldb.com/vuln/359502)
+  - [CVE-2026-41411 | vim up to 9.2.0356 Command Line os command injection (GHSA-cwgx-gcj7-6qh8)](https://vuldb.com/vuln/359498)
+  - [CVE-2026-41676 | rust-openssl up to 0.10.77 derive out-of-bounds write (GHSA-pqf5-4pqq-29f5)](https://vuldb.com/vuln/359491)
+  - [CVE-2026-41677 | rust-openssl up to 0.10.77 API _from_pem_callback out-of-bounds (GHSA-xmgf-hq76-4vx2)](https://vuldb.com/vuln/359492)
+  - [CVE-2026-41678 | rust-openssl up to 0.10.77 aes::unwrap_key out-of-bounds write (GHSA-8c75-8mhr-p7r9)](https://vuldb.com/vuln/359493)
+  - [CVE-2026-41680 | markedjs marked up to 18.0.1 resource consumption (GHSA-6v9c-7cg6-27q7)](https://vuldb.com/vuln/359513)
+  - [CVE-2026-41681 | rust-openssl up to 0.10.77 EVP_DigestFinal stack-based overflow (GHSA-ghm9-cr32-g9qj)](https://vuldb.com/vuln/359494)
+  - [CVE-2026-41898 | rust-openssl up to 0.10.77 buffer over-read (GHSA-hppc-g8h3-xhp3)](https://vuldb.com/vuln/359495)
+  - [CVE-2026-41907 | uuidjs uuid up to 13.x out-of-range pointer offset](https://vuldb.com/vuln/359518)
+  - [CVE-2026-42033 | Axios up to 0.31.0/1.15.0 prototype pollution (GHSA-pf86-5x62-jrwf)](https://vuldb.com/vuln/359505)
+  - [CVE-2026-42034 | Axios up to 0.31.0/1.15.0 allocation of resources (GHSA-5c9x-8gcm-mpgx)](https://vuldb.com/vuln/359506)
+  - [CVE-2026-42035 | Axios up to 0.31.0/1.15.0 lib/adapters/http.js getHeaders response splitting (GHSA-6chq-wfr3-2hj9)](https://vuldb.com/vuln/359500)
+  - [CVE-2026-42036 | Axios up to 0.31.0/1.15.0 allocation of resources (GHSA-vf2m-468p-8v99)](https://vuldb.com/vuln/359507)
+  - [CVE-2026-42037 | Axios up to 1.15.0 Content-Type Header formDataToStream.js crlf injection (GHSA-445q-vr5w-6q77)](https://vuldb.com/vuln/359514)
+  - [CVE-2026-42038 | Axios up to 0.31.0/1.15.0 Normalization shouldBypassProxy server-side request forgery (GHSA-m7pr-hjqh-92cm)](https://vuldb.com/vuln/359519)
+  - [CVE-2026-42039 | Axios up to 0.31.0/1.15.0 recursion (GHSA-62hf-57xw-28j9)](https://vuldb.com/vuln/359508)
+  - [CVE-2026-42040 | Axios up to 0.31.0/1.15.0 AxiosURLSearchParams.js encode escape output (GHSA-xhjh-pmcv-23jw)](https://vuldb.com/vuln/359496)
+  - [CVE-2026-42041 | Axios up to 0.31.0/1.15.0 improper authentication (GHSA-w9j2-pvgh-6h63)](https://vuldb.com/vuln/359501)
+  - [CVE-2026-42042 | Axios up to 0.31.0/1.15.0 permissive list of allowed inputs (GHSA-xx6v-rp6x-q39c)](https://vuldb.com/vuln/359510)
+  - [CVE-2026-42043 | Axios up to 0.31.0/1.15.0 permissive list of allowed inputs (GHSA-pmwg-cvhr-8vh7)](https://vuldb.com/vuln/359515)
+  - [CVE-2026-42044 | Axios up to 1.15.1 lib/defaults/index.js dynamically-determined object attributes (GHSA-3w6x-2g7m-8v23)](https://vuldb.com/vuln/359516)
+  - [CVE-2026-6977 | vanna-ai vanna up to 2.0.2 Legacy Flask API improper authorization](https://vuldb.com/vuln/359520)
+  - [CVE-2026-6978 | JiZhiCMS up to 2.5.6 addcache.html htmlspecialchars_decode sqls sql injection](https://vuldb.com/vuln/359521)
 - wheresyoured.at
   - [Premium: How OpenAI Kills Oracle](https://www.wheresyoured.at/how-openai-kills-oracle/)
 - Wired
   - [AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials](https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/)
   - [Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time](https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026/)
+  - [Give Mom Warm Coffee Year-Long With This Ember Smart Mug Deal](https://www.wired.com/story/ember-mug-2-deal-april-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
