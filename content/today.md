@@ -12,11 +12,15 @@
   - [才知道小时候用的 999 皮炎平实际上就是地塞米松](https://2libra.com/post/health-consultation/F7N4HeO)
   - [温子仁的恐怖影片有点让人无语](https://2libra.com/post/movie-experience/cWIET2M)
   - [现在的地图是不是都只能搜索地点，而不能搜索一条街道](https://2libra.com/post/software-tools/gy_pJiG)
+  - [隔壁 V 站说 最近墙变高了，大家目前使用下来啥情况，注意保护隐私。](https://2libra.com/post/networking/V5vSfAy)
+  - [龙虾助手 QClaw 版本迭代后的现状](https://2libra.com/post/ai-tools/xK3y_13)
 - 36氪
   - [2026年大众汽车将在中国推出13款新能源车型](https://36kr.com/newsflashes/3780238596805896?f=rss)
   - [70股获10家及以上机构评级，部分机构关注股获社保基金青睐](https://36kr.com/newsflashes/3780107212329986?f=rss)
+  - [A股三大指数午间休盘集体下跌，贵金属板块领跌](https://36kr.com/newsflashes/3780272546386945?f=rss)
   - [A股三大指数集体低开，新易盛跌超9%](https://36kr.com/newsflashes/3780149193151745?f=rss)
   - [DeepSeek官网公布DeepSeek-v4接口文档](https://36kr.com/newsflashes/3780240752186627?f=rss)
+  - [Gartner：2025年阿里云中国市场份额32.8%，同比提升2.7个百分点](https://36kr.com/newsflashes/3780255546660099?f=rss)
   - [OMV新西兰公司预计毛伊气田将于2026年停产](https://36kr.com/newsflashes/3780180896732424?f=rss)
   - [OPPO云台相机项目启动，预计四季度上市](https://36kr.com/newsflashes/3780114020308227?f=rss)
   - [SpaceX上个月获得200亿美元的过渡贷款，以在美国IPO前重组其大部分债务](https://36kr.com/newsflashes/3780018498491397?f=rss)
@@ -30,6 +34,7 @@
   - [中信证券：持续看好国产算力和存储，新增推荐被动元件](https://36kr.com/newsflashes/3780106521007112?f=rss)
   - [中信证券：煤炭板块有望进入新一轮反弹行情](https://36kr.com/newsflashes/3780094446851330?f=rss)
   - [中信证券：看好物理AI落地提速机遇](https://36kr.com/newsflashes/3780092162888964?f=rss)
+  - [中国首款原生开发Robotaxi亮相北京车展，曹操出行定制版计划2027年量产](https://36kr.com/newsflashes/3780259317421057?f=rss)
   - [亚马逊支持的X-Energy通过IPO募资10.2亿美元](https://36kr.com/newsflashes/3780170443199751?f=rss)
   - [人工智能初创公司Cognition AI进行融资谈判，估值达250亿美元](https://36kr.com/newsflashes/3780189527741441?f=rss)
   - [人民币兑美元中间价报6.8674](https://36kr.com/newsflashes/3780139214492681?f=rss)
@@ -55,10 +60,13 @@
   - [小米汽车：新一代SU7已交付26000台](https://36kr.com/newsflashes/3780133918348546?f=rss)
   - [市场热议一季度存款“搬家”，保险成重要吸金方向](https://36kr.com/newsflashes/3780027765576961?f=rss)
   - [年内上交所科创债发行规模已超1950亿元](https://36kr.com/newsflashes/3780049498330119?f=rss)
+  - [恒指午间休盘跌0.2%，恒生科技指数涨0.34%](https://36kr.com/newsflashes/3780302173984000?f=rss)
   - [恒指开盘跌0.7%，恒生科技指数跌0.8%](https://36kr.com/newsflashes/3780144694924292?f=rss)
   - [恒生指数跌幅扩大至1%](https://36kr.com/newsflashes/3780184848831489?f=rss)
   - [打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发](https://36kr.com/p/3778831119897600?f=rss)
+  - [摩根士丹利：新兴市场股票远未进入新的长期牛市](https://36kr.com/newsflashes/3780259272823817?f=rss)
   - [日本3月份核心消费物价同比上涨1.8%](https://36kr.com/newsflashes/3780036707226886?f=rss)
+  - [江苏省环保集团注册资本增至约63.6亿元](https://36kr.com/newsflashes/3780273126528005?f=rss)
   - [沪深两市成交额突破5000亿元](https://36kr.com/newsflashes/3780164754789637?f=rss)
   - [沪深两市成交额连续第222个交易日突破1万亿元](https://36kr.com/newsflashes/3780192749901058?f=rss)
   - [深证成指跌逾1%](https://36kr.com/newsflashes/3780181090407427?f=rss)
@@ -74,6 +82,8 @@
   - [美国航空CEO否认合并传闻](https://36kr.com/newsflashes/3780026189992966?f=rss)
   - [美联储4月维持利率不变的概率为99%](https://36kr.com/newsflashes/3780022065665286?f=rss)
   - [美股三大指数集体收跌，小鹏集团跌超6%](https://36kr.com/newsflashes/3780006313972995?f=rss)
+  - [英特尔CEO：半导体行业整体潜在市场规模已逼近1万亿美元](https://36kr.com/newsflashes/3780274564191234?f=rss)
+  - [英特尔CEO：所有业务板块需求仍高于供给，预计至强服务器CPU今明两年保持强劲增长势头](https://36kr.com/newsflashes/3780265732002816?f=rss)
   - [菲律宾央行暗示将小幅加息以抑制通胀](https://36kr.com/newsflashes/3780213485786119?f=rss)
   - [蔚来在武汉成立新能源科技公司](https://36kr.com/newsflashes/3780227192837127?f=rss)
   - [赛微电子回应股价大跌：业绩为影响因素之一](https://36kr.com/newsflashes/3780057501553928?f=rss)
@@ -104,6 +114,7 @@
   - [The Idiot Savant Needs Guardrails](https://paddo.dev/blog/idiot-savant-needs-guardrails/)
   - [Vibing the Tool with the Tool](https://paddo.dev/blog/vibing-the-tool-with-the-tool/)
 - Hacker News Frontpage
+  - [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)
   - [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo)
   - [Incident with Multple GitHub Services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
   - [Middle Eastern News Sites Are U.S. Government Propaganda Ops](https://theintercept.com/2026/04/20/pentagon-middle-eastern-news-propaganda-iran/)
@@ -111,7 +122,10 @@
   - [Using the internet like it's 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
   - [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
 - HackerNews
+  - [Checkmarx äž›ĺş”é“žć–°ćźć´žĺ˝ąĺ“ KICS ĺˆ†ćžĺˇĽĺ…ˇ](http://0.0.0.0:8080/post/64175)
+  - [â€œä¸‰č§’éž™â€ ĺ‹’ç´˘č˝Żäťść”ťĺ‡ťĺˆŠç”¨ĺŽšĺˆść•°ćŽć¸—ĺ‡şĺˇĽĺ…ˇçŞƒĺ–ć•°ćŽ](http://0.0.0.0:8080/post/64174)
   - [éť‘ĺŽ˘ĺˆŠç”¨ Breeze Cache WordPress ć’äťść–‡äťśä¸Šäź ćźć´žĺ‘ĺŠ¨ć”ťĺ‡ť](http://0.0.0.0:8080/post/64172)
+  - [ĺŒ–ĺŚ†ĺ“ĺˇ¨ĺ¤´ Rituals ćŠŤéœ˛ć•°ćŽćł„éœ˛äş‹äťśďźŒĺŽ˘ćˆˇĺ—ĺ˝ąĺ“](http://0.0.0.0:8080/post/64176)
 - Include Security Research Blog
   - [CTFs in the AI Era](https://blog.includesecurity.com/2026/04/ctfs-in-the-ai-era/)
 - infosecurity-magazine.com
@@ -150,6 +164,7 @@
   - [Meta to cut 10% of jobs, or 8,000 employees, report says](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
   - [Microsoft offers buyout for up to 7% of U.S. employees](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/)
   - [OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’](https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/)
+  - [Porsche is adding an all-electric Cayenne coupe to its lineup](https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/)
   - [Redwood Materials loses COO amid layoffs, restructuring](https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/)
   - [These are the countries moving to ban social media for children](https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/)
   - [Trump’s pick to run US cyber agency CISA asks to drop out](https://techcrunch.com/2026/04/23/trumps-pick-to-run-us-cyber-agency-cisa-asks-to-drop-out/)
@@ -246,14 +261,18 @@
   - [At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty](https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/)
   - [Rednote Draws a Line Between China and the World](https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/)
   - [US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid](https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/)
+- 不安全
+  - [OpenAI开源发布1.5B的隐私过滤模型 可以精确识别文本中包含的个人隐私信息](https://buaq.net/go-412425.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [刚刚，GPT-5.5 发布！Claude Code 连夜治好降智，「奥特曼瘫倒」喜提续集](https://www.ifanr.com/1663666?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [小米 YU7 GT 定档 5 月底，更长更宽更低趴，马力超千匹｜北京车展](https://www.ifanr.com/1663691?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣](https://www.ifanr.com/1663686?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [【公益译文】2026年国际AI安全报告（五）](https://blog.nsfocus.net/33621-2/)
 - 黑海洋
   - [Bitwarden CLI在持续的Checkmarx供应链攻击中被入侵](https://blog.upx8.com/Bitwarden-CLI%E5%9C%A8%E6%8C%81%E7%BB%AD%E7%9A%84Checkmarx%E4%BE%9B%E5%BA%94%E9%93%BE%E6%94%BB%E5%87%BB%E4%B8%AD%E8%A2%AB%E5%85%A5%E4%BE%B5)
+  - [DeepSeek-V4预览版本正式上线并开源](https://blog.upx8.com/DeepSeek-V4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%BC%80%E6%BA%90)
   - [OpenAI公司正式发布了GPT-5.5模型](https://blog.upx8.com/OpenAI%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E4%BA%86GPT-5-5%E6%A8%A1%E5%9E%8B)
   - [WhatsApp在印度新增预付电话卡充值功能](https://blog.upx8.com/WhatsApp%E5%9C%A8%E5%8D%B0%E5%BA%A6%E6%96%B0%E5%A2%9E%E9%A2%84%E4%BB%98%E7%94%B5%E8%AF%9D%E5%8D%A1%E5%85%85%E5%80%BC%E5%8A%9F%E8%83%BD)
