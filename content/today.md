@@ -3,8 +3,13 @@
 - 2Libra
   - [做一个开源小项目得到最大的感触：写代码只占 30%，剩下 70% 都在写文档、做演示、搞推广... 你们做开源项目也是这样吗？](https://2libra.com/post/open-source-sharing/9X2TI4n)
   - [哈哈，这次轮到我中了](https://2libra.com/post/forum-function/uxrCzav)
+  - [在物质越来越富足的时代，为什么人反而越来越难感到真正的快乐与安宁？ ？](https://2libra.com/post/social-observation/bua4ssY)
+  - [怎么查看等级对应的权限](https://2libra.com/post/forum-function/JH1k61c)
+  - [才知道小时候用的 999 皮炎平实际上就是地塞米松](https://2libra.com/post/health-consultation/F7N4HeO)
 - 36氪
   - [70股获10家及以上机构评级，部分机构关注股获社保基金青睐](https://36kr.com/newsflashes/3780107212329986?f=rss)
+  - [A股三大指数集体低开，新易盛跌超9%](https://36kr.com/newsflashes/3780149193151745?f=rss)
+  - [OMV新西兰公司预计毛伊气田将于2026年停产](https://36kr.com/newsflashes/3780180896732424?f=rss)
   - [OPPO云台相机项目启动，预计四季度上市](https://36kr.com/newsflashes/3780114020308227?f=rss)
   - [SpaceX上个月获得200亿美元的过渡贷款，以在美国IPO前重组其大部分债务](https://36kr.com/newsflashes/3780018498491397?f=rss)
   - [上市券商一季度成绩单陆续出炉，头部机构配置价值更受青睐](https://36kr.com/newsflashes/3780076272751875?f=rss)
@@ -16,25 +21,38 @@
   - [中信证券：持续看好国产算力和存储，新增推荐被动元件](https://36kr.com/newsflashes/3780106521007112?f=rss)
   - [中信证券：煤炭板块有望进入新一轮反弹行情](https://36kr.com/newsflashes/3780094446851330?f=rss)
   - [中信证券：看好物理AI落地提速机遇](https://36kr.com/newsflashes/3780092162888964?f=rss)
+  - [亚马逊支持的X-Energy通过IPO募资10.2亿美元](https://36kr.com/newsflashes/3780170443199751?f=rss)
+  - [人民币兑美元中间价报6.8674](https://36kr.com/newsflashes/3780139214492681?f=rss)
   - [今年1.3万亿元超长期特别国债发行开启](https://36kr.com/newsflashes/3780030115238916?f=rss)
   - [伊卡路斯递表港交所](https://36kr.com/newsflashes/3780024246129665?f=rss)
   - [分红回购增持并举，A股价值投资底气更足](https://36kr.com/newsflashes/3780083685430279?f=rss)
+  - [千问加速上车，10多家车企同日宣布接入](https://36kr.com/newsflashes/3780168928941058?f=rss)
   - [华泰证券：双碳刚性考核释放电、证、碳新价值](https://36kr.com/newsflashes/3780075037086985?f=rss)
   - [华泰证券：淡季价格稳定，看好电商快递盈利持续修复](https://36kr.com/newsflashes/3780062464005379?f=rss)
   - [华西证券：出海持续提速，看好工程机械板块业绩长虹](https://36kr.com/newsflashes/3780091536512006?f=rss)
+  - [博裕、经纬、顺为等投资前新石器COO超亿元，押注AI超便携电子纸｜硬氪独家](https://36kr.com/p/3778175428777218?f=rss)
   - [商业航天企业资本化进程提速，供应链重构成商业航天降本关键](https://36kr.com/newsflashes/3780042172404992?f=rss)
   - [天星医疗拟在��港IPO募资8.296亿港元](https://36kr.com/newsflashes/3780019561977093?f=rss)
+  - [天问三号任务计划于2031年前后携带火星样品返回地球](https://36kr.com/newsflashes/3780168098600201?f=rss)
+  - [央行今日开展50亿元7天逆回购操作](https://36kr.com/newsflashes/3780144825865473?f=rss)
   - [奈飞批准250亿美元股票回购计划](https://36kr.com/newsflashes/3780021187482886?f=rss)
   - [存储“超级周期”进入业绩兑现阶段](https://36kr.com/newsflashes/3780061926757381?f=rss)
+  - [小米汽车：新一代SU7已交付26000台](https://36kr.com/newsflashes/3780133918348546?f=rss)
   - [市场热议一季度存款“搬家”，保险成重要吸金方向](https://36kr.com/newsflashes/3780027765576961?f=rss)
   - [年内上交所科创债发行规模已超1950亿元](https://36kr.com/newsflashes/3780049498330119?f=rss)
+  - [恒指开盘跌0.7%，恒生科技指数跌0.8%](https://36kr.com/newsflashes/3780144694924292?f=rss)
+  - [恒生指数跌幅扩大至1%](https://36kr.com/newsflashes/3780184848831489?f=rss)
   - [打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发](https://36kr.com/p/3778831119897600?f=rss)
   - [日本3月份核心消费物价同比上涨1.8%](https://36kr.com/newsflashes/3780036707226886?f=rss)
+  - [沪深两市成交额突破5000亿元](https://36kr.com/newsflashes/3780164754789637?f=rss)
+  - [深证成指跌逾1%](https://36kr.com/newsflashes/3780181090407427?f=rss)
   - [港股IPO高破发背后：高定价高包装如影随形](https://36kr.com/newsflashes/3780091841696768?f=rss)
   - [特朗普称正考虑由美国政府收购Spirit Airlines](https://36kr.com/newsflashes/3780028545913864?f=rss)
   - [现货黄金向上触及4700美元](https://36kr.com/newsflashes/3780042367014146?f=rss)
   - [百亿元级私募机构数量创新高](https://36kr.com/newsflashes/3780101169386759?f=rss)
   - [经营23年，本田决定撤出韩国汽车市场](https://36kr.com/newsflashes/3780025220551689?f=rss)
+  - [统筹推进商业航天标准化建设，商业航天标准体系（1.0版）发布](https://36kr.com/newsflashes/3780167427953929?f=rss)
+  - [维塔流动近日完成数千万元Pre-Seed轮融资](https://36kr.com/newsflashes/3780177193227267?f=rss)
   - [美国航空CEO否认合并传闻](https://36kr.com/newsflashes/3780026189992966?f=rss)
   - [美联储4月维持利率不变的概率为99%](https://36kr.com/newsflashes/3780022065665286?f=rss)
   - [美股三大指数集体收跌，小鹏集团跌超6%](https://36kr.com/newsflashes/3780006313972995?f=rss)
@@ -54,6 +72,7 @@
   - [Nilay Patel: ‘Beware Software Brain’](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)
   - [Trump’s Blog Has Somehow Lost $1.1 Billion](https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/)
   - [Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users)
+  - [United Kingdom to Pass Smoking Ban Only for Those Who Are Not Yet Legal Adults](https://www.nytimes.com/2026/04/21/world/europe/uk-smoking-ban-2009.html?unlocked_article_code=1.dVA.f9yJ.YMVg9N8QOlio)
 - darkreading
   - [Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia)
   - [Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets](https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets)
@@ -62,6 +81,7 @@
   - [Speaking Freely: Lizzie O'Shea](https://www.eff.org/deeplinks/2026/04/speaking-freely-lizzie-oshea)
 - Emergent Minds | paddo.dev
   - [The Idiot Savant Needs Guardrails](https://paddo.dev/blog/idiot-savant-needs-guardrails/)
+  - [Vibing the Tool with the Tool](https://paddo.dev/blog/vibing-the-tool-with-the-tool/)
 - Hacker News Frontpage
   - [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo)
   - [Incident with Multple GitHub Services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
@@ -76,11 +96,16 @@
   - [2026-04-23: SmartApeSG activity](https://www.malware-traffic-analysis.net/2026/04/23/index.html)
 - NVIDIA AI Blog
   - [OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work](https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/)
+- SANS Internet Storm Center, InfoCON: green
+  - [ISC Stormcast For Friday, April 24th, 2026 https://isc.sans.edu/podcastdetail/9906, (Fri, Apr 24th)](https://isc.sans.edu/diary/rss/32924)
 - Security Affairs
   - [Luxury cosmetics giant Rituals discloses data breach impacting member personal details](https://securityaffairs.com/191192/data-breach/rituals-discloses-a-data-breach-impacting-member-personal-details.html)
 - simonwillison.net
   - [A pelican for GPT-5.5 via the semi-official Codex backdoor API](https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything)
+  - [An update on recent Claude Code quality reports](https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything)
   - [Extract PDF text in your browser with LiteParse for the web](https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything)
+  - [russellromney/honker](https://simonwillison.net/2026/Apr/24/honker/#atom-everything)
+  - [Serving the For You feed](https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2017-0144 exploit](https://sploitus.com/exploit?id=68A71640-577C-524E-BF05-7C40B9834AAC&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-5880 exploit](https://sploitus.com/exploit?id=7C51B7CE-BAEB-5F4C-844D-386B678EB2E7&utm_source=rss&utm_medium=rss)
@@ -199,7 +224,10 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [小米 YU7 GT 定档 5 月底，更长更宽更低趴，马力超千匹｜北京车展](https://www.ifanr.com/1663691?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣](https://www.ifanr.com/1663686?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [【公益译文】2026年国际AI安全报告（五）](https://blog.nsfocus.net/33621-2/)
 - 黑海洋
   - [Bitwarden CLI在持续的Checkmarx供应链攻击中被入侵](https://blog.upx8.com/Bitwarden-CLI%E5%9C%A8%E6%8C%81%E7%BB%AD%E7%9A%84Checkmarx%E4%BE%9B%E5%BA%94%E9%93%BE%E6%94%BB%E5%87%BB%E4%B8%AD%E8%A2%AB%E5%85%A5%E4%BE%B5)
   - [OpenAI公司正式发布了GPT-5.5模型](https://blog.upx8.com/OpenAI%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E4%BA%86GPT-5-5%E6%A8%A1%E5%9E%8B)
