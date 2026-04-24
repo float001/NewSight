@@ -4,10 +4,18 @@
   - [★ Norwegian Boating Licenses and Generational Law](https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law)
 - filfre.net
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/)
+- IEEE Spectrum
+  - [Yong Wang Turns Information Into Insights](https://spectrum.ieee.org/yong-wang-data-visualization)
+- Sploitus.com Exploits RSS Feed
+  - [POC_base_25 exploit](https://sploitus.com/exploit?id=2BF96BCC-0950-55AE-9A3F-C83035FD0AC2&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
   - [Marked-up Mac minis flood eBay amid shortages driven by AI](https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/)
 - The Verge
+  - [BMW is one step closer to selling you a color-changing car](https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing)
+  - [Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations](https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale)
   - [How Project Maven taught the military to love AI](https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson)
+  - [The RAM shortage could get even worse if Samsung labor protests cut production](https://www.theverge.com/tech/918301/samsung-south-korea-union-protests)
   - [Xreal’s best AR glasses are $599 for good now](https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale)
 - VulDB Recent Entries
   - [CVE-2026-31610 | Linux Kernel up to 6.12.82/6.18.23/6.19.13/7.0.0 BER Decoder ksmbd_decode_negTokenInit memory leak](https://vuldb.com/vuln/359448)
@@ -32,5 +40,8 @@
   - [CVE-2026-31659 | Linux Kernel up to 6.19.12 Response Buffer batadv_tt_prepare_tvlv_global_data heap-based overflow](https://vuldb.com/vuln/359450)
 - wheresyoured.at
   - [Premium: How OpenAI Kills Oracle](https://www.wheresyoured.at/how-openai-kills-oracle/)
+- Wired
+  - [AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials](https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/)
+  - [Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time](https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
