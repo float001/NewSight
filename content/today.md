@@ -1,7 +1,28 @@
 # 今日安全资讯（2026-04-24）
 
 - 36氪
+  - [SpaceX上个月获得200亿美元的过渡贷款，以在美国IPO前重组其大部分债务](https://36kr.com/newsflashes/3780018498491397?f=rss)
+  - [今年1.3万亿元超长期特别国债发行开启](https://36kr.com/newsflashes/3780030115238916?f=rss)
+  - [伊卡路斯递表港交所](https://36kr.com/newsflashes/3780024246129665?f=rss)
+  - [华泰证券：淡季价格稳定，看好电商快递盈利持续修复](https://36kr.com/newsflashes/3780062464005379?f=rss)
+  - [商业航天企业资本化进程提速，供应链重构成商业航天降本关键](https://36kr.com/newsflashes/3780042172404992?f=rss)
+  - [天星医疗拟在��港IPO募资8.296亿港元](https://36kr.com/newsflashes/3780019561977093?f=rss)
+  - [奈飞批准250亿美元股票回购计划](https://36kr.com/newsflashes/3780021187482886?f=rss)
+  - [存储“超级周期”进入业绩兑现阶段](https://36kr.com/newsflashes/3780061926757381?f=rss)
+  - [市场热议一季度存款“搬家”，保险成重要吸金方向](https://36kr.com/newsflashes/3780027765576961?f=rss)
+  - [年内上交所科创债发行规模已超1950亿元](https://36kr.com/newsflashes/3780049498330119?f=rss)
+  - [打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发](https://36kr.com/p/3778831119897600?f=rss)
+  - [日本3月份核心消费物价同比上涨1.8%](https://36kr.com/newsflashes/3780036707226886?f=rss)
+  - [特朗普称正考虑由美国政府收购Spirit Airlines](https://36kr.com/newsflashes/3780028545913864?f=rss)
+  - [现货黄金向上触及4700美元](https://36kr.com/newsflashes/3780042367014146?f=rss)
+  - [经营23年，本田决定撤出韩国汽车市场](https://36kr.com/newsflashes/3780025220551689?f=rss)
+  - [美国航空CEO否认合并传闻](https://36kr.com/newsflashes/3780026189992966?f=rss)
+  - [美联储4月维持利率不变的概率为99%](https://36kr.com/newsflashes/3780022065665286?f=rss)
   - [美股三大指数集体收跌，小鹏集团跌超6%](https://36kr.com/newsflashes/3780006313972995?f=rss)
+  - [赛微电子回应股价大跌：业绩为影响因素之一](https://36kr.com/newsflashes/3780057501553928?f=rss)
+  - [重庆千里科技股份有限公司递表港交所](https://36kr.com/newsflashes/3780023704900866?f=rss)
+  - [需求回暖，特斯拉格林海德工厂将扩招1000人并提升产量](https://36kr.com/newsflashes/3780018931389444?f=rss)
+  - [首批银行一季报出炉，营收、净利润全部实现正增长](https://36kr.com/newsflashes/3780047141721091?f=rss)
 - 404 Media
   - [Community Votes to Deny Water to Nuclear Weapons Data Center](https://www.404media.co/community-votes-to-deny-water-to-nuclear-weapons-data-center/)
 - BorderGate
@@ -15,6 +36,8 @@
 - EFF
   - [EFF to 9th Circuit (Again): App Stores Shouldn’t Be Liable for Processing Payments for User Content](https://www.eff.org/deeplinks/2026/04/eff-9th-circuit-again-app-stores-shouldnt-be-liable-processing-payments-user)
   - [Speaking Freely: Lizzie O'Shea](https://www.eff.org/deeplinks/2026/04/speaking-freely-lizzie-oshea)
+- Emergent Minds | paddo.dev
+  - [The Idiot Savant Needs Guardrails](https://paddo.dev/blog/idiot-savant-needs-guardrails/)
 - Hacker News Frontpage
   - [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo)
   - [Incident with Multple GitHub Services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
@@ -25,6 +48,8 @@
   - [CTFs in the AI Era](https://blog.includesecurity.com/2026/04/ctfs-in-the-ai-era/)
 - infosecurity-magazine.com
   - [Google Favors General‑Purpose Gemini Models Over Cybersecurity‑Specific AI](https://www.infosecurity-magazine.com/news/google-gemini-over-cyber-specific/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-04-23: SmartApeSG activity](https://www.malware-traffic-analysis.net/2026/04/23/index.html)
 - NVIDIA AI Blog
   - [OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work](https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/)
 - Security Affairs
@@ -36,8 +61,10 @@
   - [Exploit for CVE-2017-0144 exploit](https://sploitus.com/exploit?id=68A71640-577C-524E-BF05-7C40B9834AAC&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-5880 exploit](https://sploitus.com/exploit?id=7C51B7CE-BAEB-5F4C-844D-386B678EB2E7&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Apache Tomcat exploit](https://sploitus.com/exploit?id=15A6CDF4-8DBB-5A3A-82E6-BBF6AC3C5629&utm_source=rss&utm_medium=rss)
+  - [Exploit for OS Command Injection in Zyxel Vmg8623-T50B_Firmware exploit](https://sploitus.com/exploit?id=0B58C56C-E043-5DF6-A4A5-3F3137C59939&utm_source=rss&utm_medium=rss)
   - [Nex.AI exploit](https://sploitus.com/exploit?id=A9C5DA89-72A5-5824-8FA7-3896C11DD297&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation](https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/)
   - [Bluesky now supports better quality photos](https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/)
   - [Bret Taylor’s Sierra buys YC-backed AI startup Fragment](https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/)
   - [Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says](https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/)
@@ -143,7 +170,9 @@
   - [Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto](https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/)
   - [At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty](https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/)
   - [Rednote Draws a Line Between China and the World](https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/)
+  - [US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid](https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
   - [Bitwarden CLI在持续的Checkmarx供应链攻击中被入侵](https://blog.upx8.com/Bitwarden-CLI%E5%9C%A8%E6%8C%81%E7%BB%AD%E7%9A%84Checkmarx%E4%BE%9B%E5%BA%94%E9%93%BE%E6%94%BB%E5%87%BB%E4%B8%AD%E8%A2%AB%E5%85%A5%E4%BE%B5)
+  - [WhatsApp在印度新增预付电话卡充值功能](https://blog.upx8.com/WhatsApp%E5%9C%A8%E5%8D%B0%E5%BA%A6%E6%96%B0%E5%A2%9E%E9%A2%84%E4%BB%98%E7%94%B5%E8%AF%9D%E5%8D%A1%E5%85%85%E5%80%BC%E5%8A%9F%E8%83%BD)
