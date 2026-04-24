@@ -14,6 +14,8 @@
   - [SFO Quiet Airport (2025)](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
 - IEEE Spectrum
   - [Yong Wang Turns Information Into Insights](https://spectrum.ieee.org/yong-wang-data-visualization)
+- Schneier on Security
+  - [Friday Squid Blogging: How Squid Survived Extinction Events](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html)
 - Security Affairs
   - [12-year-old Pack2TheRoot bug lets Linux users gain root privileges](https://securityaffairs.com/191231/security/12-year-old-pack2theroot-bug-lets-linux-users-gain-root-privileges.html)
 - Sploitus.com Exploits RSS Feed
@@ -22,15 +24,19 @@
   - [ComfyUI hits $500M valuation as creators seek more control over AI-generated media](https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/)
   - [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
   - [Marked-up Mac minis flood eBay amid shortages driven by AI](https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/)
+  - [Meta’s loss is Thinking Machines’ gain](https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/)
   - [X launches standalone XChat app on iOS](https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/)
+  - [X-energy stock pops 27% on first day of trading following upsized IPO](https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/)
 - text/plain
   - [Attack Techniques: RMM Abuse](https://textslashplain.com/2026/04/24/attack-techniques-rmm-abuse/)
 - The Decoder
   - [OpenAI's chief scientist says AI progress has been "surprisingly slow" and promises big leaps ahead](https://the-decoder.com/openais-chief-scientist-says-ai-progress-has-been-surprisingly-slow-and-promises-big-leaps-ahead/)
 - The Verge
+  - [Alex Jones has uncovered another massive conspiracy](https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker)
   - [BMW is one step closer to selling you a color-changing car](https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing)
   - [Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations](https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale)
   - [How Project Maven taught the military to love AI](https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson)
+  - [Microsoft will let you pause Windows Updates indefinitely, 35 days at a time](https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days)
   - [The person who allegedly leaked Paramount’s new Avatar movie has been arrested](https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus)
   - [The RAM shortage could get even worse if Samsung labor protests cut production](https://www.theverge.com/tech/918301/samsung-south-korea-union-protests)
   - [Xreal’s best AR glasses are $599 for good now](https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale)
@@ -117,6 +123,10 @@
   - [CVE-2026-6992 | Linksys MR9600 2.0.6.206937 JNAP Action run_central2.sh BTRequestGetSmartConnectStatus pin os command injection](https://vuldb.com/vuln/359544)
   - [CVE-2026-6993 | go-kratos up to 2.9.2 http.DefaultServeMux Fallback transport/http/server.go NewServer confused deputy (Issue 3810)](https://vuldb.com/vuln/359545)
   - [CVE-2026-6994 | Envoy up to 1.33.0 Query Parameter header_mutation.cc params.add injection (ID 43502)](https://vuldb.com/vuln/359546)
+  - [CVE-2026-6999 | BIVOCOM TR321 21.1.1.50 Wireless Setting Network Name SSID cross site scripting](https://vuldb.com/vuln/359558)
+  - [CVE-2026-7000 | Datacom DM4100 1.3.6.1.4.1.3709 VLAN Page VLAN Name cross site scripting](https://vuldb.com/vuln/359559)
+  - [CVE-2026-7001 | Datacom DM4100 1.3.6.1.4.1.3709 Ethernet Configuration Page Name cross site scripting](https://vuldb.com/vuln/359560)
+  - [CVE-2026-7002 | KLiK SocialMediaWebsite up to 1.0.1 Private Message get_message_ajax.php c_id sql injection](https://vuldb.com/vuln/359561)
 - wheresyoured.at
   - [Premium: How OpenAI Kills Oracle](https://www.wheresyoured.at/how-openai-kills-oracle/)
 - Wired
