@@ -4,11 +4,15 @@
   - [你的微信推送“折叠发图”功能了吗？](https://2libra.com/post/product-updates/d2KVBHj)
   - [去年开站不久时候说的这件事，是不是又该提起日程了](https://2libra.com/post/forum-function/j6tSQrV)
   - [现在手机小功能挺有趣，灵动岛地图红绿灯](https://2libra.com/post/phone/iRSmXDd)
+- 36氪
+  - [9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元](https://36kr.com/p/3781532841581576?f=rss)
+  - [美股三大指数收盘涨跌不一，英特尔涨超23%](https://36kr.com/newsflashes/3781521736719369?f=rss)
 - Ars Technica
   - [Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine](https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/)
   - [FCC: Router ban includes portable hotspots, but not phones with hotspot features](https://arstechnica.com/tech-policy/2026/04/fcc-says-ban-on-foreign-made-routers-includes-portable-wi-fi-hotspots/)
 - daringfireball.net
   - [★ Norwegian Boating Licenses and Generational Law](https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law)
+  - [★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition](https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition)
 - EFF
   - [Act Now to Stop California’s Paternalistic and Privacy-Destroying Social Media Ban](https://www.eff.org/deeplinks/2026/04/act-now-stop-californias-paternalistic-and-privacy-destroying-social-media-ban)
   - [California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower](https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower)
@@ -164,3 +168,5 @@
   - [Give Mom Warm Coffee Year-Long With This Ember Smart Mug Deal](https://www.wired.com/story/ember-mug-2-deal-april-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜小米YU7 GT定档五月底/罗福莉：中美顶尖模型代差仅两三个月/餐馆「反向抹零」被立案调查](https://www.ifanr.com/1663855?utm_source=rss&utm_medium=rss&utm_campaign=)
