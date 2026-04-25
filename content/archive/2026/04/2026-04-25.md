@@ -17,14 +17,18 @@
   - [中国进出口银行一季度投放外贸领域贷款超3000亿元](https://36kr.com/newsflashes/3781601726586119?f=rss)
   - [佑驾创新发布国内首款“真无图”L4级无人物流车](https://36kr.com/newsflashes/3781527687879944?f=rss)
   - [华泰证券：中国方便面企业出海有望迎来新机遇](https://36kr.com/newsflashes/3781578196360198?f=rss)
+  - [天���618推家电"送装一体"，覆盖全国95%区域](https://36kr.com/newsflashes/3781735819222022?f=rss)
   - [数据中心提供商Csquare秘密提交美国IPO申请](https://36kr.com/newsflashes/3781526996917251?f=rss)
   - [本周多只市场热门股接受超百家机构调研](https://36kr.com/newsflashes/3781599264480520?f=rss)
   - [浩思动力发布行业首个面向纯电原生平台的X-Range增程系统解决方案](https://36kr.com/newsflashes/3781577271155971?f=rss)
+  - [潘功胜：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”](https://36kr.com/newsflashes/3781734984473856?f=rss)
   - [甲骨文密歇根数据中心获160亿美元融资](https://36kr.com/newsflashes/3781600900176901?f=rss)
+  - [美图立方视觉艺术中心开工，预计2028年投入使用](https://36kr.com/newsflashes/3781662685371396?f=rss)
   - [美股三大指数收盘涨跌不一，英特尔涨超23%](https://36kr.com/newsflashes/3781521736719369?f=rss)
   - [谷歌计划向Anthropic投资至多400亿美元，支持后者大幅扩展算力](https://36kr.com/newsflashes/3781546314357767?f=rss)
   - [超聚变完成A股IPO辅导](https://36kr.com/newsflashes/3781599814589702?f=rss)
   - [阿塞拜疆主权财富基金第一季度抛售约22吨黄金，十多年来首次减持](https://36kr.com/newsflashes/3781654300450048?f=rss)
+  - [首个全国产控制系统水光互补项目今天投运](https://36kr.com/newsflashes/3781761309400068?f=rss)
   - [黑芝麻智能发布FAD天衍L3级自动驾驶平台](https://36kr.com/newsflashes/3781525799672841?f=rss)
 - Ars Technica
   - [Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine](https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/)
@@ -42,8 +46,10 @@
   - [FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)](https://github.com/manankharwar/fusioncore)
   - [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
   - [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
+  - [Oxford All Souls College General Examination [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf)
   - [SFO Quiet Airport (2025)](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
   - [Show HN: I've built a nice home server OS](https://lightwhale.asklandd.dk/)
+  - [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
 - IEEE Spectrum
   - [Yong Wang Turns Information Into Insights](https://spectrum.ieee.org/yong-wang-data-visualization)
 - johndcook.com
@@ -55,9 +61,11 @@
 - Security Affairs
   - [12-year-old Pack2TheRoot bug lets Linux users gain root privileges](https://securityaffairs.com/191231/security/12-year-old-pack2theroot-bug-lets-linux-users-gain-root-privileges.html)
 - simonwillison.net
+  - [GPT-5.5 prompting guide](https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything)
   - [The people do not yearn for automation](https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-2304 exploit](https://sploitus.com/exploit?id=01E82C1C-4154-5D5C-9167-7FD9593B9E23&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-27407 exploit](https://sploitus.com/exploit?id=C872D08E-1C35-5AEF-B757-8EB75B8B2228&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Frangoteam Fuxa exploit](https://sploitus.com/exploit?id=56876268-5FBE-5C5E-8C4B-970AAF8B6BBB&utm_source=rss&utm_medium=rss)
   - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Packagekit_Project Packagekit exploit](https://sploitus.com/exploit?id=17DBE2B1-DEF0-51A5-B745-0096B4F01603&utm_source=rss&utm_medium=rss)
   - [Kai-Tools exploit](https://sploitus.com/exploit?id=10F1CA4D-FD47-5FA6-B149-DB8259A17068&utm_source=rss&utm_medium=rss)
@@ -186,6 +194,7 @@
   - [Premium: How OpenAI Kills Oracle](https://www.wheresyoured.at/how-openai-kills-oracle/)
 - Wired
   - [AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials](https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/)
+  - [Altra Promo Codes: Get 20% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)
   - [Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time](https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026/)
   - [Give Mom Warm Coffee Year-Long With This Ember Smart Mug Deal](https://www.wired.com/story/ember-mug-2-deal-april-2026/)
 - 代码审计星球
