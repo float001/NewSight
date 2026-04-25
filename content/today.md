@@ -1,6 +1,8 @@
 # 今日安全资讯（2026-04-25）
 
 - 2Libra
+  - [【投票】【💰】2 站有多少是大小周的，说出来让我心里平衡一下](https://2libra.com/post/workplace-stories/uMRMwML)
+  - [人形机器人是 真风口 还是又一次出现昙花一现的 科技泡沫 ？](https://2libra.com/post/robot/4hj4t-i)
   - [你的微信推送“折叠发图”功能了吗？](https://2libra.com/post/product-updates/d2KVBHj)
   - [刚刚在隔壁论坛看到 Jinx 限免，有用的可以领一下](https://2libra.com/post/tools-sharing/_Kb7pmc)
   - [去年开站不久时候说的这件事，是不是又该提起日程了](https://2libra.com/post/forum-function/j6tSQrV)
@@ -9,6 +11,8 @@
 - 36氪
   - [36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里](https://36kr.com/p/3781548853533959?f=rss)
   - [9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元](https://36kr.com/p/3781532841581576?f=rss)
+  - [smart亮相2026北京车展](https://36kr.com/newsflashes/3781618197453828?f=rss)
+  - [“固收+”基金规模突破3万亿元](https://36kr.com/newsflashes/3781603152780293?f=rss)
   - [“智用开物”完成近亿元天使+轮融资](https://36kr.com/newsflashes/3781575122344966?f=rss)
   - [中国进出口银行一季度投放外贸领域贷款超3000亿元](https://36kr.com/newsflashes/3781601726586119?f=rss)
   - [佑驾创新发布国内首款“真无图”L4级无人物流车](https://36kr.com/newsflashes/3781527687879944?f=rss)
@@ -20,6 +24,7 @@
   - [美股三大指数收盘涨跌不一，英特尔涨超23%](https://36kr.com/newsflashes/3781521736719369?f=rss)
   - [谷歌计划向Anthropic投资至多400亿美元，支持后者大幅扩展算力](https://36kr.com/newsflashes/3781546314357767?f=rss)
   - [超聚变完成A股IPO辅导](https://36kr.com/newsflashes/3781599814589702?f=rss)
+  - [阿塞拜疆主权财富基金第一季度抛售约22吨黄金，十多年来首次减持](https://36kr.com/newsflashes/3781654300450048?f=rss)
   - [黑芝麻智能发布FAD天衍L3级自动驾驶平台](https://36kr.com/newsflashes/3781525799672841?f=rss)
 - Ars Technica
   - [Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine](https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/)
@@ -54,12 +59,15 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-2304 exploit](https://sploitus.com/exploit?id=01E82C1C-4154-5D5C-9167-7FD9593B9E23&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Frangoteam Fuxa exploit](https://sploitus.com/exploit?id=56876268-5FBE-5C5E-8C4B-970AAF8B6BBB&utm_source=rss&utm_medium=rss)
+  - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Packagekit_Project Packagekit exploit](https://sploitus.com/exploit?id=17DBE2B1-DEF0-51A5-B745-0096B4F01603&utm_source=rss&utm_medium=rss)
+  - [Kai-Tools exploit](https://sploitus.com/exploit?id=10F1CA4D-FD47-5FA6-B149-DB8259A17068&utm_source=rss&utm_medium=rss)
   - [POC_base_25 exploit](https://sploitus.com/exploit?id=2BF96BCC-0950-55AE-9A3F-C83035FD0AC2&utm_source=rss&utm_medium=rss)
   - [zero-click-exploit-analysis exploit](https://sploitus.com/exploit?id=D8FACA64-1110-588B-842D-21E7EB2DC638&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Cohere acquires, merges with German-based startup to create a ‘transatlantic AI powerhouse’](https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/)
   - [ComfyUI hits $500M valuation as creators seek more control over AI-generated media](https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/)
   - [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
+  - [Lachy Groom to back India startup Pronto at a $200M valuation, sources say](https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/)
   - [Marked-up Mac minis flood eBay amid shortages driven by AI](https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/)
   - [Meta’s loss is Thinking Machines’ gain](https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/)
   - [Palantir is reportedly helping the IRS investigate financial crimes](https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/)
@@ -185,3 +193,8 @@
 - 爱范儿
   - [早报｜小米YU7 GT定档五月底/罗福莉：中美顶尖模型代差仅两三个月/餐馆「反向抹零」被立案调查](https://www.ifanr.com/1663855?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [纵横在北京车展上发了 6 款新车，想要打造一个 700 系宇宙](https://www.ifanr.com/1663858?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [领克 GT 概念跑车全球首秀，领克 10+ 与 10 开启预售，20.99 万起](https://www.ifanr.com/1663866?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神](https://www.qbitai.com/2026/04/406892.html)
+  - [DeepSeek V4报告太详尽了！484天换代之路全公开](https://www.qbitai.com/2026/04/406809.html)
+  - [华人再破硅谷天花板！AI黑马新任CTO，中科大80后](https://www.qbitai.com/2026/04/406934.html)
