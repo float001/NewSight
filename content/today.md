@@ -2,15 +2,21 @@
 
 - 2Libra
   - [你的微信推送“折叠发图”功能了吗？](https://2libra.com/post/product-updates/d2KVBHj)
+  - [刚刚在隔壁论坛看到 Jinx 限免，有用的可以领一下](https://2libra.com/post/tools-sharing/_Kb7pmc)
   - [去年开站不久时候说的这件事，是不是又该提起日程了](https://2libra.com/post/forum-function/j6tSQrV)
+  - [最近的科技新闻聚焦在 AI 上，而 AI 正将全球资本分割为三个阵营。](https://2libra.com/post/tech-news/d3l7bpF)
   - [现在手机小功能挺有趣，灵动岛地图红绿灯](https://2libra.com/post/phone/iRSmXDd)
 - 36氪
   - [36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里](https://36kr.com/p/3781548853533959?f=rss)
   - [9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元](https://36kr.com/p/3781532841581576?f=rss)
   - [“智用开物”完成近亿元天使+轮融资](https://36kr.com/newsflashes/3781575122344966?f=rss)
+  - [中国进出口银行一季度投放外贸领域贷款超3000亿元](https://36kr.com/newsflashes/3781601726586119?f=rss)
   - [佑驾创新发布国内首款“真无图”L4级无人物流车](https://36kr.com/newsflashes/3781527687879944?f=rss)
+  - [华泰证券：中国方便面企业出海有望迎来新机遇](https://36kr.com/newsflashes/3781578196360198?f=rss)
   - [数据中心提供商Csquare秘密提交美国IPO申请](https://36kr.com/newsflashes/3781526996917251?f=rss)
+  - [本周多只市场热门股接受超百家机构调研](https://36kr.com/newsflashes/3781599264480520?f=rss)
   - [浩思动力发布行业首个面向纯电原生平台的X-Range增程系统解决方案](https://36kr.com/newsflashes/3781577271155971?f=rss)
+  - [甲骨文密歇根数据中心获160亿美元融资](https://36kr.com/newsflashes/3781600900176901?f=rss)
   - [美股三大指数收盘涨跌不一，英特尔涨超23%](https://36kr.com/newsflashes/3781521736719369?f=rss)
   - [谷歌计划向Anthropic投资至多400亿美元，支持后者大幅扩展算力](https://36kr.com/newsflashes/3781546314357767?f=rss)
   - [超聚变完成A股IPO辅导](https://36kr.com/newsflashes/3781599814589702?f=rss)
@@ -178,3 +184,4 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜小米YU7 GT定档五月底/罗福莉：中美顶尖模型代差仅两三个月/餐馆「反向抹零」被立案调查](https://www.ifanr.com/1663855?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [纵横在北京车展上发了 6 款新车，想要打造一个 700 系宇宙](https://www.ifanr.com/1663858?utm_source=rss&utm_medium=rss&utm_campaign=)
