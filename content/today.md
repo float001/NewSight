@@ -7,6 +7,7 @@
   - [科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA](https://36kr.com/p/3782434723355655?f=rss)
 - Hacker News Frontpage
   - [The AI Industry Is Discovering That the Public Hates It](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
+  - [Trump fires all 24 members of the U.S. National Science Foundation](https://www.science.org/content/article/trump-fires-nsf-s-oversight-board)
 - idiallo.com
   - [The Satisfaction of a ChatGPT Plan](https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed)
 - johndcook.com
