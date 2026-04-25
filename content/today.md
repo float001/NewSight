@@ -12,6 +12,7 @@
   - [发现自己身上一个小 bug](https://2libra.com/post/slacking-off/6cfo_Z1)
   - [如何终结，隐藏，或者删除已经发布的帖子?](https://2libra.com/post/feature-request/zKMGH6g)
   - [我们是 AI 时代的纺织工人](https://2libra.com/post/social-observation/cQ1bBSP)
+  - [按 Laravel 社区风格制作了一份 Springboot 文档](https://2libra.com/post/personal-works/lFNhnTA)
   - [最近的科技新闻聚焦在 AI 上，而 AI 正将全球资本分割为三个阵营。](https://2libra.com/post/tech-news/d3l7bpF)
   - [现在手机小功能挺有趣，灵动岛地图红绿灯](https://2libra.com/post/phone/iRSmXDd)
   - [腾讯云 DeepSeek-V4-Pro 领 1M Token 的试用, 7.30 号到期.](https://2libra.com/post/large-models/iqMt_Z4)
@@ -60,6 +61,8 @@
   - [FCC: Router ban includes portable hotspots, but not phones with hotspot features](https://arstechnica.com/tech-policy/2026/04/fcc-says-ban-on-foreign-made-routers-includes-portable-wi-fi-hotspots/)
 - Cheesy Rumbles
   - [Atomic BOFs](https://rastamouse.me/atomic-bofs/)
+- construction-physics.com
+  - [Reading List 04/25/26](https://www.construction-physics.com/p/reading-list-042526)
 - Daniel Miessler
   - [A Conversation With Claude on Deutsch, Knowledge, and the PAI Algorithm](https://danielmiessler.com/blog/conversation-with-claude-on-deutsch-and-the-pai-algorithm?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - daringfireball.net
@@ -97,6 +100,7 @@
   - [我做了个工具让 8GB 显卡跑 30B 模型从 3 tok/s 提到 21 tok/s，记录一下技术发现](https://govuln.com/news/url/a6dl)
 - Security Affairs
   - [12-year-old Pack2TheRoot bug lets Linux users gain root privileges](https://securityaffairs.com/191231/security/12-year-old-pack2theroot-bug-lets-linux-users-gain-root-privileges.html)
+  - [Over 400,000 sites at risk as hackers exploit Breeze Cache plugin flaw (CVE-2026-3844)](https://securityaffairs.com/191267/uncategorized/over-400000-sites-at-risk-as-hackers-exploit-breeze-cache-plugin-flaw-cve-2026-3844.html)
 - shkspr.mobi
   - [You can parse an .env file as an .ini with PHP - but there's a catch](https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/)
 - simonwillison.net
@@ -106,6 +110,7 @@
   - [Exploit for CVE-2025-2304 exploit](https://sploitus.com/exploit?id=01E82C1C-4154-5D5C-9167-7FD9593B9E23&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-27407 exploit](https://sploitus.com/exploit?id=C872D08E-1C35-5AEF-B757-8EB75B8B2228&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-21847 exploit](https://sploitus.com/exploit?id=1870802A-7BBE-500E-ACAE-0564C60179FC&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Authorization in Canonical Ubuntu_Linux exploit](https://sploitus.com/exploit?id=8012774F-4507-57EF-AE42-469F8E744623&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Frangoteam Fuxa exploit](https://sploitus.com/exploit?id=56876268-5FBE-5C5E-8C4B-970AAF8B6BBB&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Apache Http_Server exploit](https://sploitus.com/exploit?id=A5C74C9A-6C27-5BE2-A6C6-5515F64F9AF9&utm_source=rss&utm_medium=rss)
   - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Packagekit_Project Packagekit exploit](https://sploitus.com/exploit?id=17DBE2B1-DEF0-51A5-B745-0096B4F01603&utm_source=rss&utm_medium=rss)
@@ -115,14 +120,18 @@
   - [web-vuln-scanner exploit](https://sploitus.com/exploit?id=BB81C264-FDC1-559D-9F14-D1E022D06463&utm_source=rss&utm_medium=rss)
   - [zero-click-exploit-analysis exploit](https://sploitus.com/exploit?id=D8FACA64-1110-588B-842D-21E7EB2DC638&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Apple under Ternus: what comes next for the tech giant’s hardware strategy](https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/)
+  - [Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/04/25/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/)
   - [Cohere acquires, merges with German-based startup to create a ‘transatlantic AI powerhouse’](https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/)
   - [ComfyUI hits $500M valuation as creators seek more control over AI-generated media](https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/)
   - [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
+  - [India’s Snabbit seeks fresh funding at a $400M valuation, sources say](https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/)
   - [Lachy Groom to back India startup Pronto at a $200M valuation, sources say](https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/)
   - [Marked-up Mac minis flood eBay amid shortages driven by AI](https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/)
   - [Meta’s loss is Thinking Machines’ gain](https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/)
   - [Palantir is reportedly helping the IRS investigate financial crimes](https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/)
   - [Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’](https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/)
+  - [Why Tokyo is the most important tech destination of 2026](https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/)
   - [X launches standalone XChat app on iOS](https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/)
   - [X-energy stock pops 27% on first day of trading following upsized IPO](https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/)
 - text/plain
@@ -147,6 +156,8 @@
   - [The US gets the worst phones](https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus)
   - [Xbox’s weirdest studio is on a roll](https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam)
   - [Xreal’s best AR glasses are $599 for good now](https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale)
+- Threatninja.net
+  - [Hack The Box: Sorcery Machine Walkthrough – Insane Difficulty](https://threatninja.net/hack-the-box-sorcery-machine-walkthrough-insane-difficulty/)
 - VulDB Recent Entries
   - [CVE-2026-31610 | Linux Kernel up to 6.12.82/6.18.23/6.19.13/7.0.0 BER Decoder ksmbd_decode_negTokenInit memory leak](https://vuldb.com/vuln/359448)
   - [CVE-2026-31611 | Linux Kernel up to 6.12.82/6.18.23/6.19.13/7.0.0 ksmbd parse_dacl comparison](https://vuldb.com/vuln/359441)
@@ -190,6 +201,7 @@
   - [CVE-2026-41079 | OpenPrinting cups up to 2.4.16 on Linux Web Interface out-of-bounds (GHSA-6wpw-g8g6-wvrv)](https://vuldb.com/vuln/359489)
   - [CVE-2026-41140 | python-poetry up to 2.3.3 helpers.py extractall path traversal (GHSA-73h3-mf4w-8647)](https://vuldb.com/vuln/359490)
   - [CVE-2026-41244 | notamitgamer mojic up to 2.1.3 timing discrepancy](https://vuldb.com/vuln/359548)
+  - [CVE-2026-41263 | Traefik BasicAuth Middleware timing discrepancy](https://vuldb.com/vuln/359604)
   - [CVE-2026-41321 | withastro up to 13.1.9 HTTP Redirect image-binding-transform.ts fetch server-side request forgery (GHSA-88gm-j2wx-58h6)](https://vuldb.com/vuln/359503)
   - [CVE-2026-41322 | withastro up to 10.0.4 _astro web browser cache containing sensitive information (GHSA-c57f-mm3j-27q9)](https://vuldb.com/vuln/359504)
   - [CVE-2026-41326 | kata-containers Kata Containers up to 3.28.x CopyFile symlink (GHSA-q49m-57vm-c8cc)](https://vuldb.com/vuln/359533)
@@ -261,6 +273,18 @@
   - [CVE-2026-7021 | SmythOS sre up to 0.0.15 Connector Service utils.ts baseURL information disclosure](https://vuldb.com/vuln/359600)
   - [CVE-2026-7022 | SmythOS sre up to 0.0.15 HTTP Header AgentRuntime.class.ts AgentRuntime X-DEBUG-RUN/X-DEBUG-INJ improper authentication](https://vuldb.com/vuln/359601)
   - [CVE-2026-7023 | ByteDance coze-studio up to 0.5.1 databaseTool database_impl.go ExecuteSQL sql injection](https://vuldb.com/vuln/359602)
+  - [CVE-2026-7024 | rawchen sims up to 004f783b1db5ecdfad81c8fdc3b34171211112de deleteFileServlet Endpoint DeleteFileServlet.java filename path traversal](https://vuldb.com/vuln/359603)
+  - [CVE-2026-7025 | Typecho up to 1.3.0 Ping Back Service Endpoint var/Widget/Service.php Service::sendPingHandle X-Pingback/link server-side request forgery](https://vuldb.com/vuln/359605)
+  - [CVE-2026-7026 | D-Link DGS-3420 1.50.018 System Information Settings Page System Name cross site scripting](https://vuldb.com/vuln/359606)
+  - [CVE-2026-7027 | D-Link DSL-2740R EU_01.15 Wireless Setup Section Wireless Network Name cross site scripting](https://vuldb.com/vuln/359607)
+  - [CVE-2026-7028 | CodeAstro Online Job Portal 1.0 All Jobs Page delete-jobs.php ID sql injection](https://vuldb.com/vuln/359608)
+  - [CVE-2026-7029 | Tenda F456 1.0.0.5 /goform/addressNat fromaddressNat menufacturer/Go buffer overflow](https://vuldb.com/vuln/359609)
+  - [CVE-2026-7030 | Tenda F456 1.0.0.5 /goform/RouteStatic fromRouteStatic page buffer overflow](https://vuldb.com/vuln/359610)
+  - [CVE-2026-7031 | Tenda F456 1.0.0.5 /goform/SafeMacFilter fromSafeMacFilter page buffer overflow](https://vuldb.com/vuln/359611)
+  - [CVE-2026-7032 | Tenda F456 1.0.0.5 /goform/SafeEmailFilter page buffer overflow](https://vuldb.com/vuln/359612)
+  - [CVE-2026-7033 | Tenda F456 1.0.0.5 /goform/SafeClientFilter fromSafeClientFilter menufacturer/Go buffer overflow](https://vuldb.com/vuln/359613)
+  - [CVE-2026-7034 | Tenda FH1202 1.2.0.14(408) httpd /goform/WrlExtraSet Go stack-based overflow](https://vuldb.com/vuln/359614)
+  - [CVE-2026-7035 | Tenda 1.2.0.14 httpd /goform/WrlclientSet fromWrlclientSet Go stack-based overflow](https://vuldb.com/vuln/359615)
 - wheresyoured.at
   - [Premium: How OpenAI Kills Oracle](https://www.wheresyoured.at/how-openai-kills-oracle/)
 - Wired
