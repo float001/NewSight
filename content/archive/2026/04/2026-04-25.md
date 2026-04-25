@@ -8,6 +8,7 @@
   - [你的微信推送“折叠发图”功能了吗？](https://2libra.com/post/product-updates/d2KVBHj)
   - [刚刚在隔壁论坛看到 Jinx 限免，有用的可以领一下](https://2libra.com/post/tools-sharing/_Kb7pmc)
   - [去年开站不久时候说的这件事，是不是又该提起日程了](https://2libra.com/post/forum-function/j6tSQrV)
+  - [发现自己身上一个小 bug](https://2libra.com/post/slacking-off/6cfo_Z1)
   - [最近的科技新闻聚焦在 AI 上，而 AI 正将全球资本分割为三个阵营。](https://2libra.com/post/tech-news/d3l7bpF)
   - [现在手机小功能挺有趣，灵动岛地图红绿灯](https://2libra.com/post/phone/iRSmXDd)
 - 36氪
@@ -16,7 +17,9 @@
   - [smart亮相2026北京车展](https://36kr.com/newsflashes/3781618197453828?f=rss)
   - [“固收+”基金规模突破3万亿元](https://36kr.com/newsflashes/3781603152780293?f=rss)
   - [“智用开物”完成近亿元天使+轮融资](https://36kr.com/newsflashes/3781575122344966?f=rss)
+  - [下游需求激增，CPU重回AI核心，A股布局公司梳理](https://36kr.com/newsflashes/3781844281007361?f=rss)
   - [中国进出口银行一季度投放外贸领域贷款超3000亿元](https://36kr.com/newsflashes/3781601726586119?f=rss)
+  - [五菱与华为乾崑签署深化战略合作协议，华境S 5月8日正式上市](https://36kr.com/newsflashes/3781847846264071?f=rss)
   - [亚洲首个盐穴储氢工程投产运行](https://36kr.com/newsflashes/3781785011412226?f=rss)
   - [佑驾创新发布国内首款“真无图”L4级无人物流车](https://36kr.com/newsflashes/3781527687879944?f=rss)
   - [华泰证券：中国方便面企业出海有望迎来新机遇](https://36kr.com/newsflashes/3781578196360198?f=rss)
@@ -25,6 +28,7 @@
   - [市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核](https://36kr.com/newsflashes/3781787983813890?f=rss)
   - [数据中心提供商Csquare秘密提交美国IPO申请](https://36kr.com/newsflashes/3781526996917251?f=rss)
   - [本周多只市场热门股接受超百家机构调研](https://36kr.com/newsflashes/3781599264480520?f=rss)
+  - [本田在华研发转向中方主导](https://36kr.com/newsflashes/3781884274318344?f=rss)
   - [浩思动力发布行业首个面向纯电原生平台的X-Range增程系统解决方案](https://36kr.com/newsflashes/3781577271155971?f=rss)
   - [潘功胜：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”](https://36kr.com/newsflashes/3781734984473856?f=rss)
   - [甲骨文密歇根数据中心获160亿美元融资](https://36kr.com/newsflashes/3781600900176901?f=rss)
@@ -41,6 +45,8 @@
 - daringfireball.net
   - [★ Norwegian Boating Licenses and Generational Law](https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law)
   - [★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition](https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition)
+- defend.network
+  - [Daily Threat Briefing – April 25, 2026](https://defend.network/briefings/firestarter-backdoor-federal-cisco-firepower-2026-04-25.html)
 - EFF
   - [Act Now to Stop California’s Paternalistic and Privacy-Destroying Social Media Ban](https://www.eff.org/deeplinks/2026/04/act-now-stop-californias-paternalistic-and-privacy-destroying-social-media-ban)
   - [California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower](https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower)
@@ -212,3 +218,6 @@
   - [0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神](https://www.qbitai.com/2026/04/406892.html)
   - [DeepSeek V4报告太详尽了！484天换代之路全公开](https://www.qbitai.com/2026/04/406809.html)
   - [华人再破硅谷天花板！AI黑马新任CTO，中科大80后](https://www.qbitai.com/2026/04/406934.html)
+  - [硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？](https://www.qbitai.com/2026/04/406994.html)
+- 黑海洋
+  - [美国政府通过英特尔赚取了大笔收益](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%80%9A%E8%BF%87%E8%8B%B1%E7%89%B9%E5%B0%94%E8%B5%9A%E5%8F%96%E4%BA%86%E5%A4%A7%E7%AC%94%E6%94%B6%E7%9B%8A)
