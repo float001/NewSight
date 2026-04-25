@@ -10,6 +10,7 @@
 - daringfireball.net
   - [★ Norwegian Boating Licenses and Generational Law](https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law)
 - EFF
+  - [Act Now to Stop California’s Paternalistic and Privacy-Destroying Social Media Ban](https://www.eff.org/deeplinks/2026/04/act-now-stop-californias-paternalistic-and-privacy-destroying-social-media-ban)
   - [California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower](https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower)
   - [EFF Challenges Secrecy In Eastern District of Texas Patent Case](https://www.eff.org/deeplinks/2026/04/eff-challenges-secrecy-eastern-district-texas-patent-case)
 - filfre.net
@@ -22,6 +23,8 @@
   - [Show HN: I've built a nice home server OS](https://lightwhale.asklandd.dk/)
 - IEEE Spectrum
   - [Yong Wang Turns Information Into Insights](https://spectrum.ieee.org/yong-wang-data-visualization)
+- johndcook.com
+  - [How nonlinearity affects a pendulum](https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/)
 - MIT Technology Review
   - [Three reasons why DeepSeek’s new model V4 matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/)
 - Schneier on Security
@@ -34,6 +37,7 @@
   - [Exploit for CVE-2025-2304 exploit](https://sploitus.com/exploit?id=01E82C1C-4154-5D5C-9167-7FD9593B9E23&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Frangoteam Fuxa exploit](https://sploitus.com/exploit?id=56876268-5FBE-5C5E-8C4B-970AAF8B6BBB&utm_source=rss&utm_medium=rss)
   - [POC_base_25 exploit](https://sploitus.com/exploit?id=2BF96BCC-0950-55AE-9A3F-C83035FD0AC2&utm_source=rss&utm_medium=rss)
+  - [zero-click-exploit-analysis exploit](https://sploitus.com/exploit?id=D8FACA64-1110-588B-842D-21E7EB2DC638&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Cohere acquires, merges with German-based startup to create a ‘transatlantic AI powerhouse’](https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/)
   - [ComfyUI hits $500M valuation as creators seek more control over AI-generated media](https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/)
@@ -41,6 +45,7 @@
   - [Marked-up Mac minis flood eBay amid shortages driven by AI](https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/)
   - [Meta’s loss is Thinking Machines’ gain](https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/)
   - [Palantir is reportedly helping the IRS investigate financial crimes](https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/)
+  - [Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’](https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/)
   - [X launches standalone XChat app on iOS](https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/)
   - [X-energy stock pops 27% on first day of trading following upsized IPO](https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/)
 - text/plain
