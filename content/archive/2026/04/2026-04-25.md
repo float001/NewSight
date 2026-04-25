@@ -9,9 +9,11 @@
   - [刚刚在隔壁论坛看到 Jinx 限免，有用的可以领一下](https://2libra.com/post/tools-sharing/_Kb7pmc)
   - [去年开站不久时候说的这件事，是不是又该提起日程了](https://2libra.com/post/forum-function/j6tSQrV)
   - [发现自己身上一个小 bug](https://2libra.com/post/slacking-off/6cfo_Z1)
+  - [我们是 AI 时代的纺织工人](https://2libra.com/post/social-observation/cQ1bBSP)
   - [最近的科技新闻聚焦在 AI 上，而 AI 正将全球资本分割为三个阵营。](https://2libra.com/post/tech-news/d3l7bpF)
   - [现在手机小功能挺有趣，灵动岛地图红绿灯](https://2libra.com/post/phone/iRSmXDd)
   - [腾讯云 DeepSeek-V4-Pro 领 1M Token 的试用, 7.30 号到期.](https://2libra.com/post/large-models/iqMt_Z4)
+  - [连续几次跳票后，Xchat 终于准备推出了。](https://2libra.com/post/product-updates/oqZEule)
 - 36氪
   - [36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里](https://36kr.com/p/3781548853533959?f=rss)
   - [9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元](https://36kr.com/p/3781532841581576?f=rss)
@@ -111,6 +113,7 @@
 - text/plain
   - [Attack Techniques: RMM Abuse](https://textslashplain.com/2026/04/24/attack-techniques-rmm-abuse/)
 - The Decoder
+  - [Anthropic says stronger AI models cut better deals, and the losers don't even notice](https://the-decoder.com/anthropic-says-stronger-ai-models-cut-better-deals-and-the-losers-dont-even-notice/)
   - [Google pours up to $40 billion into ChatGPT rival Anthropic](https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic/)
   - [OpenAI unveils GPT-5.5, claims a "new class of intelligence" at double the API price](https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/)
   - [OpenAI's chief scientist says AI progress has been "surprisingly slow" and promises big leaps ahead](https://the-decoder.com/openais-chief-scientist-says-ai-progress-has-been-surprisingly-slow-and-promises-big-leaps-ahead/)
@@ -123,6 +126,7 @@
   - [Microsoft will let you pause Windows Updates indefinitely, 35 days at a time](https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days)
   - [The person who allegedly leaked Paramount’s new Avatar movie has been arrested](https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus)
   - [The RAM shortage could get even worse if Samsung labor protests cut production](https://www.theverge.com/tech/918301/samsung-south-korea-union-protests)
+  - [The US gets the worst phones](https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus)
   - [Xreal’s best AR glasses are $599 for good now](https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale)
 - VulDB Recent Entries
   - [CVE-2026-31610 | Linux Kernel up to 6.12.82/6.18.23/6.19.13/7.0.0 BER Decoder ksmbd_decode_negTokenInit memory leak](https://vuldb.com/vuln/359448)
@@ -240,9 +244,14 @@
   - [AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials](https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/)
   - [Altra Promo Codes: Get 20% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)
   - [Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time](https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026/)
+  - [Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos](https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/)
   - [Give Mom Warm Coffee Year-Long With This Ember Smart Mug Deal](https://www.wired.com/story/ember-mug-2-deal-april-2026/)
+  - [‘Saros’ Shows Off the PS5’s DualSense Tricks](https://www.wired.com/story/saros-shows-off-the-ps5-dualsense-tricks/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [挪威计划禁止 16 岁以下儿童使用社交媒体](https://www.solidot.org/story?sid=84148)
+  - [韩国逮捕一名发布逃跑公狼 AI 照片的男子](https://www.solidot.org/story?sid=84147)
 - 爱范儿
   - [早报｜小米YU7 GT定档五月底/罗福莉：中美顶尖模型代差仅两三个月/餐馆「反向抹零」被立案调查](https://www.ifanr.com/1663855?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [纵横在北京车展上发了 6 款新车，想要打造一个 700 系宇宙](https://www.ifanr.com/1663858?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -254,5 +263,6 @@
   - [硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？](https://www.qbitai.com/2026/04/406994.html)
   - [自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI](https://www.qbitai.com/2026/04/407026.html)
 - 黑海洋
+  - [YouTube移动端直播引入画中画广告](https://blog.upx8.com/YouTube%E7%A7%BB%E5%8A%A8%E7%AB%AF%E7%9B%B4%E6%92%AD%E5%BC%95%E5%85%A5%E7%94%BB%E4%B8%AD%E7%94%BB%E5%B9%BF%E5%91%8A)
   - [美国政府通过英特尔赚取了大笔收益](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%80%9A%E8%BF%87%E8%8B%B1%E7%89%B9%E5%B0%94%E8%B5%9A%E5%8F%96%E4%BA%86%E5%A4%A7%E7%AC%94%E6%94%B6%E7%9B%8A)
   - [马斯克旗下即时聊天应用 XChat 现已上线](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8B%E5%8D%B3%E6%97%B6%E8%81%8A%E5%A4%A9%E5%BA%94%E7%94%A8-XChat-%E7%8E%B0%E5%B7%B2%E4%B8%8A%E7%BA%BF)
