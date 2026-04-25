@@ -1,8 +1,12 @@
 # 今日安全资讯（2026-04-26）
 
+- 2Libra
+  - [你“社死”过吗？从社死想到的语义磨损](https://2libra.com/post/social-observation/7XWJ25H)
 - 36氪
   - [科氪 | 国民好车深蓝L06增程版亮相北京车展 京东PLUS会员购车直减7000多元](https://36kr.com/p/3782437007039488?f=rss)
   - [科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA](https://36kr.com/p/3782434723355655?f=rss)
+- Hacker News Frontpage
+  - [The AI Industry Is Discovering That the Public Hates It](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
 - idiallo.com
   - [The Satisfaction of a ChatGPT Plan](https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed)
 - johndcook.com
@@ -17,6 +21,7 @@
   - [Exploit for CVE-2026-7020 exploit](https://sploitus.com/exploit?id=9A37C547-026D-5436-87C8-5559D3066E17&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo exploit](https://sploitus.com/exploit?id=3FB6634C-D5B2-5558-836C-394AF35624C1&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Anthropic created a test marketplace for agent-on-agent commerce](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)
   - [Maine’s governor vetoes data center moratorium](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/)
   - [OpenAI CEO apologizes to Tumbler Ridge community](https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/)
   - [The climate tech IPO window could finally be cracking open](https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/)
