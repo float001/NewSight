@@ -10,6 +10,7 @@
 - simonwillison.net
   - [WHY ARE YOU LIKE THIS](https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [binary-exploitation-buffer-overflow exploit](https://sploitus.com/exploit?id=C809D7AF-B96A-5BF2-8B09-3F6EEEDF554A&utm_source=rss&utm_medium=rss)
   - [CodeAlpha_Bug-Bounties-Tool exploit](https://sploitus.com/exploit?id=BF335B0F-FEE2-598E-A490-917D808B9D74&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-3844 exploit](https://sploitus.com/exploit?id=6CE770C7-6A87-5F3E-8503-233B6FB19113&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-7020 exploit](https://sploitus.com/exploit?id=9A37C547-026D-5436-87C8-5559D3066E17&utm_source=rss&utm_medium=rss)
@@ -20,6 +21,8 @@
   - [Why Cohere is merging with Aleph Alpha](https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/)
 - The Decoder
   - [GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API](https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/)
+- The Verge
+  - [An influx of used EVs could drive down prices](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices)
 - VulDB Recent Entries
   - [CVE-2026-7045 | baomidou dynamic-datasource 2.5.0 StandardEvaluationContext/SpelExpressionParser DsSpelExpressionProcessor.java DsSpelExpressionProcessor#doDetermineDatasource injection (Issue 766)](https://vuldb.com/vuln/359624)
 - 代码审计星球
