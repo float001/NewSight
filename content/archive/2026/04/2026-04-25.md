@@ -10,6 +10,7 @@
   - [刚刚在隔壁论坛看到 Jinx 限免，有用的可以领一下](https://2libra.com/post/tools-sharing/_Kb7pmc)
   - [去年开站不久时候说的这件事，是不是又该提起日程了](https://2libra.com/post/forum-function/j6tSQrV)
   - [发现自己身上一个小 bug](https://2libra.com/post/slacking-off/6cfo_Z1)
+  - [如何终结，隐藏，或者删除已经发布的帖子?](https://2libra.com/post/feature-request/zKMGH6g)
   - [我们是 AI 时代的纺织工人](https://2libra.com/post/social-observation/cQ1bBSP)
   - [最近的科技新闻聚焦在 AI 上，而 AI 正将全球资本分割为三个阵营。](https://2libra.com/post/tech-news/d3l7bpF)
   - [现在手机小功能挺有趣，灵动岛地图红绿灯](https://2libra.com/post/phone/iRSmXDd)
@@ -85,6 +86,7 @@
   - [Yong Wang Turns Information Into Insights](https://spectrum.ieee.org/yong-wang-data-visualization)
 - johndcook.com
   - [How nonlinearity affects a pendulum](https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/)
+  - [nth derivative of a quotient](https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/)
 - MIT Technology Review
   - [Three reasons why DeepSeek’s new model V4 matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/)
 - pluralistic.net
@@ -139,6 +141,7 @@
   - [Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations](https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale)
   - [How Project Maven taught the military to love AI](https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson)
   - [Microsoft will let you pause Windows Updates indefinitely, 35 days at a time](https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days)
+  - [The Govee smart lamp brightened up my room, and then my life](https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease)
   - [The person who allegedly leaked Paramount’s new Avatar movie has been arrested](https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus)
   - [The RAM shortage could get even worse if Samsung labor protests cut production](https://www.theverge.com/tech/918301/samsung-south-korea-union-protests)
   - [The US gets the worst phones](https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus)
@@ -255,6 +258,9 @@
   - [CVE-2026-7002 | KLiK SocialMediaWebsite up to 1.0.1 Private Message get_message_ajax.php c_id sql injection](https://vuldb.com/vuln/359561)
   - [CVE-2026-7019 | Tenda F456 1.0.0.5 /goform/P2pListFilter fromP2pListFilter menufacturer/Go buffer overflow](https://vuldb.com/vuln/359598)
   - [CVE-2026-7020 | Ollama up to 0.20.2 Tensor Model Transfer transfer.go digestToPath digest path traversal](https://vuldb.com/vuln/359599)
+  - [CVE-2026-7021 | SmythOS sre up to 0.0.15 Connector Service utils.ts baseURL information disclosure](https://vuldb.com/vuln/359600)
+  - [CVE-2026-7022 | SmythOS sre up to 0.0.15 HTTP Header AgentRuntime.class.ts AgentRuntime X-DEBUG-RUN/X-DEBUG-INJ improper authentication](https://vuldb.com/vuln/359601)
+  - [CVE-2026-7023 | ByteDance coze-studio up to 0.5.1 databaseTool database_impl.go ExecuteSQL sql injection](https://vuldb.com/vuln/359602)
 - wheresyoured.at
   - [Premium: How OpenAI Kills Oracle](https://www.wheresyoured.at/how-openai-kills-oracle/)
 - Wired
@@ -270,6 +276,8 @@
   - [A Conversation With Claude on Deutsch, Knowledge, and the PAI Algorithm](https://buaq.net/go-412678.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [Sectors and Clusters](https://dyrnq.com/sectors-and-clusters/)
 - 奇客Solidot–传递最新科技情报
   - [挪威计划禁止 16 岁以下儿童使用社交媒体](https://www.solidot.org/story?sid=84148)
   - [韩国逮捕一名发布逃跑公狼 AI 照片的男子](https://www.solidot.org/story?sid=84147)
@@ -284,6 +292,7 @@
   - [硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？](https://www.qbitai.com/2026/04/406994.html)
   - [自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI](https://www.qbitai.com/2026/04/407026.html)
 - 黑海洋
+  - [DeepSeek-V4 正式发布：开源模型首次具备百万上下文与工程级Agent能力](https://blog.upx8.com/DeepSeek-V4-Agent)
   - [YouTube移动端直播引入画中画广告](https://blog.upx8.com/YouTube%E7%A7%BB%E5%8A%A8%E7%AB%AF%E7%9B%B4%E6%92%AD%E5%BC%95%E5%85%A5%E7%94%BB%E4%B8%AD%E7%94%BB%E5%B9%BF%E5%91%8A)
   - [美国政府通过英特尔赚取了大笔收益](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%80%9A%E8%BF%87%E8%8B%B1%E7%89%B9%E5%B0%94%E8%B5%9A%E5%8F%96%E4%BA%86%E5%A4%A7%E7%AC%94%E6%94%B6%E7%9B%8A)
   - [马斯克旗下即时聊天应用 XChat 现已上线](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8B%E5%8D%B3%E6%97%B6%E8%81%8A%E5%A4%A9%E5%BA%94%E7%94%A8-XChat-%E7%8E%B0%E5%B7%B2%E4%B8%8A%E7%BA%BF)
