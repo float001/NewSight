@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-04-25）
 
 - 2Libra
+  - [【BUG 反馈】签到页面连续翻页导致已签到记录异常](https://2libra.com/post/community/Jt-dghs)
   - [【投票】【💰】2 站有多少是大小周的，说出来让我心里平衡一下](https://2libra.com/post/workplace-stories/uMRMwML)
   - [【💰】受够了大小周，请各位帮忙出谋划策](https://2libra.com/post/workplace-stories/CYNsr1h)
   - [【💰】有没有懂 Invalid tool parameters 解决方案的(金币已拉满)](https://2libra.com/post/ai-tools/GPrGcxc)
@@ -29,6 +30,7 @@
   - [保时捷清仓布加迪股份](https://36kr.com/newsflashes/3782044031818757?f=rss)
   - [元戎启行全面押注大模型自动驾驶](https://36kr.com/newsflashes/3782028988882178?f=rss)
   - [华泰证券：中国方便面企业出海有望迎来新机遇](https://36kr.com/newsflashes/3781578196360198?f=rss)
+  - [卡尔动力发布KargoBot Inside](https://36kr.com/newsflashes/3782201831742724?f=rss)
   - [司美格鲁肽专利到期月余未见“国产首证”，多家申报企业称审批因数据保护期“暂缓”](https://36kr.com/newsflashes/3781834150976773?f=rss)
   - [天���618推家电"送装一体"，覆盖全国95%区域](https://36kr.com/newsflashes/3781735819222022?f=rss)
   - [巨星农牧：一季度公司的商品肥猪完全成本约为6.35元/斤](https://36kr.com/newsflashes/3782000516635648?f=rss)
@@ -50,9 +52,13 @@
   - [阿塞拜疆主权财富基金第一季度抛售约22吨黄金，十多年来首次减持](https://36kr.com/newsflashes/3781654300450048?f=rss)
   - [首个全国产控制系统水光互补项目今天投运](https://36kr.com/newsflashes/3781761309400068?f=rss)
   - [黑芝麻智能发布FAD天衍L3级自动驾驶平台](https://36kr.com/newsflashes/3781525799672841?f=rss)
+- 404 Media
+  - [A Mysterious Golden Orb Was Discovered Under the Sea. We Finally Know What It Is.](https://www.404media.co/a-mysterious-golden-orb-was-discovered-under-the-sea-we-finally-know-what-it-is/)
 - Ars Technica
   - [Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine](https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/)
   - [FCC: Router ban includes portable hotspots, but not phones with hotspot features](https://arstechnica.com/tech-policy/2026/04/fcc-says-ban-on-foreign-made-routers-includes-portable-wi-fi-hotspots/)
+- Cheesy Rumbles
+  - [Atomic BOFs](https://rastamouse.me/atomic-bofs/)
 - Daniel Miessler
   - [A Conversation With Claude on Deutsch, Knowledge, and the PAI Algorithm](https://danielmiessler.com/blog/conversation-with-claude-on-deutsch-and-the-pai-algorithm?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - daringfireball.net
@@ -104,6 +110,7 @@
   - [Kai-Tools exploit](https://sploitus.com/exploit?id=10F1CA4D-FD47-5FA6-B149-DB8259A17068&utm_source=rss&utm_medium=rss)
   - [POC_base_25 exploit](https://sploitus.com/exploit?id=2BF96BCC-0950-55AE-9A3F-C83035FD0AC2&utm_source=rss&utm_medium=rss)
   - [SafeVault exploit](https://sploitus.com/exploit?id=6E6AA518-4140-5382-A418-12B7A597AE98&utm_source=rss&utm_medium=rss)
+  - [web-vuln-scanner exploit](https://sploitus.com/exploit?id=BB81C264-FDC1-559D-9F14-D1E022D06463&utm_source=rss&utm_medium=rss)
   - [zero-click-exploit-analysis exploit](https://sploitus.com/exploit?id=D8FACA64-1110-588B-842D-21E7EB2DC638&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Cohere acquires, merges with German-based startup to create a ‘transatlantic AI powerhouse’](https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/)
@@ -123,7 +130,9 @@
   - [Google pours up to $40 billion into ChatGPT rival Anthropic](https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic/)
   - [OpenAI unveils GPT-5.5, claims a "new class of intelligence" at double the API price](https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/)
   - [OpenAI's chief scientist says AI progress has been "surprisingly slow" and promises big leaps ahead](https://the-decoder.com/openais-chief-scientist-says-ai-progress-has-been-surprisingly-slow-and-promises-big-leaps-ahead/)
+  - [Qwen3.6-27B beats much larger predecessor on most coding benchmarks](https://the-decoder.com/qwen3-6-27b-beats-much-larger-predecessor-on-most-coding-benchmarks/)
   - [The UAE wants half its government run by autonomous AI agents within two years](https://the-decoder.com/the-uae-wants-half-its-government-run-by-autonomous-ai-agents-within-two-years/)
+  - [US programmer job growth nearly halved since ChatGPT launched, Fed study finds](https://the-decoder.com/us-programmer-job-growth-nearly-halved-since-chatgpt-launched-fed-study-finds/)
 - The Verge
   - [Alex Jones has uncovered another massive conspiracy](https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker)
   - [BMW is one step closer to selling you a color-changing car](https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing)
@@ -133,6 +142,7 @@
   - [The person who allegedly leaked Paramount’s new Avatar movie has been arrested](https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus)
   - [The RAM shortage could get even worse if Samsung labor protests cut production](https://www.theverge.com/tech/918301/samsung-south-korea-union-protests)
   - [The US gets the worst phones](https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus)
+  - [Xbox’s weirdest studio is on a roll](https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam)
   - [Xreal’s best AR glasses are $599 for good now](https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale)
 - VulDB Recent Entries
   - [CVE-2026-31610 | Linux Kernel up to 6.12.82/6.18.23/6.19.13/7.0.0 BER Decoder ksmbd_decode_negTokenInit memory leak](https://vuldb.com/vuln/359448)
