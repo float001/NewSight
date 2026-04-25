@@ -11,6 +11,7 @@
   - [发现自己身上一个小 bug](https://2libra.com/post/slacking-off/6cfo_Z1)
   - [最近的科技新闻聚焦在 AI 上，而 AI 正将全球资本分割为三个阵营。](https://2libra.com/post/tech-news/d3l7bpF)
   - [现在手机小功能挺有趣，灵动岛地图红绿灯](https://2libra.com/post/phone/iRSmXDd)
+  - [腾讯云 DeepSeek-V4-Pro 领 1M Token 的试用, 7.30 号到期.](https://2libra.com/post/large-models/iqMt_Z4)
 - 36氪
   - [36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里](https://36kr.com/p/3781548853533959?f=rss)
   - [9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元](https://36kr.com/p/3781532841581576?f=rss)
@@ -26,12 +27,14 @@
   - [司美格鲁肽专利到期月余未见“国产首证”，多家申报企业称审批因数据保护期“暂缓”](https://36kr.com/newsflashes/3781834150976773?f=rss)
   - [天���618推家电"送装一体"，覆盖全国95%区域](https://36kr.com/newsflashes/3781735819222022?f=rss)
   - [市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核](https://36kr.com/newsflashes/3781787983813890?f=rss)
+  - [我国单机容量最大“超级充电宝”3号机组顺利投运](https://36kr.com/newsflashes/3781921407507459?f=rss)
   - [数据中心提供商Csquare秘密提交美国IPO申请](https://36kr.com/newsflashes/3781526996917251?f=rss)
   - [本周多只市场热门股接受超百家机构调研](https://36kr.com/newsflashes/3781599264480520?f=rss)
   - [本田在华研发转向中方主导](https://36kr.com/newsflashes/3781884274318344?f=rss)
   - [浩思动力发布行业首个面向纯电原生平台的X-Range增程系统解决方案](https://36kr.com/newsflashes/3781577271155971?f=rss)
   - [潘功胜：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”](https://36kr.com/newsflashes/3781734984473856?f=rss)
   - [甲骨文密歇根数据中心获160亿美元融资](https://36kr.com/newsflashes/3781600900176901?f=rss)
+  - [百度智能云上线DeepSeek-V4](https://36kr.com/newsflashes/3781942204128513?f=rss)
   - [美图立方视觉艺术中心开工，预计2028年投入使用](https://36kr.com/newsflashes/3781662685371396?f=rss)
   - [美股三大指数收盘涨跌不一，英特尔涨超23%](https://36kr.com/newsflashes/3781521736719369?f=rss)
   - [谷歌计划向Anthropic投资至多400亿美元，支持后者大幅扩展算力](https://36kr.com/newsflashes/3781546314357767?f=rss)
@@ -69,6 +72,8 @@
   - [Three reasons why DeepSeek’s new model V4 matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/)
 - Schneier on Security
   - [Friday Squid Blogging: How Squid Survived Extinction Events](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html)
+- Sec-News 安全文摘
+  - [我做了个工具让 8GB 显卡跑 30B 模型从 3 tok/s 提到 21 tok/s，记录一下技术发现](https://govuln.com/news/url/a6dl)
 - Security Affairs
   - [12-year-old Pack2TheRoot bug lets Linux users gain root privileges](https://securityaffairs.com/191231/security/12-year-old-pack2theroot-bug-lets-linux-users-gain-root-privileges.html)
 - simonwillison.net
@@ -81,6 +86,7 @@
   - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Packagekit_Project Packagekit exploit](https://sploitus.com/exploit?id=17DBE2B1-DEF0-51A5-B745-0096B4F01603&utm_source=rss&utm_medium=rss)
   - [Kai-Tools exploit](https://sploitus.com/exploit?id=10F1CA4D-FD47-5FA6-B149-DB8259A17068&utm_source=rss&utm_medium=rss)
   - [POC_base_25 exploit](https://sploitus.com/exploit?id=2BF96BCC-0950-55AE-9A3F-C83035FD0AC2&utm_source=rss&utm_medium=rss)
+  - [SafeVault exploit](https://sploitus.com/exploit?id=6E6AA518-4140-5382-A418-12B7A597AE98&utm_source=rss&utm_medium=rss)
   - [zero-click-exploit-analysis exploit](https://sploitus.com/exploit?id=D8FACA64-1110-588B-842D-21E7EB2DC638&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Cohere acquires, merges with German-based startup to create a ‘transatlantic AI powerhouse’](https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/)
@@ -219,5 +225,6 @@
   - [DeepSeek V4报告太详尽了！484天换代之路全公开](https://www.qbitai.com/2026/04/406809.html)
   - [华人再破硅谷天花板！AI黑马新任CTO，中科大80后](https://www.qbitai.com/2026/04/406934.html)
   - [硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？](https://www.qbitai.com/2026/04/406994.html)
+  - [自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI](https://www.qbitai.com/2026/04/407026.html)
 - 黑海洋
   - [美国政府通过英特尔赚取了大笔收益](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%80%9A%E8%BF%87%E8%8B%B1%E7%89%B9%E5%B0%94%E8%B5%9A%E5%8F%96%E4%BA%86%E5%A4%A7%E7%AC%94%E6%94%B6%E7%9B%8A)
