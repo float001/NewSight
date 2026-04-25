@@ -13,9 +13,11 @@
   - [binary-exploitation-buffer-overflow exploit](https://sploitus.com/exploit?id=C809D7AF-B96A-5BF2-8B09-3F6EEEDF554A&utm_source=rss&utm_medium=rss)
   - [CodeAlpha_Bug-Bounties-Tool exploit](https://sploitus.com/exploit?id=BF335B0F-FEE2-598E-A490-917D808B9D74&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-3844 exploit](https://sploitus.com/exploit?id=6CE770C7-6A87-5F3E-8503-233B6FB19113&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-41177 exploit](https://sploitus.com/exploit?id=76F1F456-F01E-53B3-924F-C403EB5A228A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-7020 exploit](https://sploitus.com/exploit?id=9A37C547-026D-5436-87C8-5559D3066E17&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo exploit](https://sploitus.com/exploit?id=3FB6634C-D5B2-5558-836C-394AF35624C1&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Maine’s governor vetoes data center moratorium](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/)
   - [OpenAI CEO apologizes to Tumbler Ridge community](https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/)
   - [The climate tech IPO window could finally be cracking open](https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/)
   - [Why Cohere is merging with Aleph Alpha](https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/)
@@ -25,6 +27,7 @@
   - [An influx of used EVs could drive down prices](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices)
   - [Trump fires the entire National Science Board](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board)
 - VulDB Recent Entries
+  - [CVE-2026-41163 | containers bubblewrap 0.11.0/0.11.1 ptrace access control](https://vuldb.com/vuln/359625)
   - [CVE-2026-7045 | baomidou dynamic-datasource 2.5.0 StandardEvaluationContext/SpelExpressionParser DsSpelExpressionProcessor.java DsSpelExpressionProcessor#doDetermineDatasource injection (Issue 766)](https://vuldb.com/vuln/359624)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
