@@ -15,6 +15,7 @@
 - 36氪
   - [36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里](https://36kr.com/p/3781548853533959?f=rss)
   - [9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元](https://36kr.com/p/3781532841581576?f=rss)
+  - [Momenta一年间量产搭载量逾80万台](https://36kr.com/newsflashes/3781966595234825?f=rss)
   - [smart亮相2026北京车展](https://36kr.com/newsflashes/3781618197453828?f=rss)
   - [“固收+”基金规模突破3万亿元](https://36kr.com/newsflashes/3781603152780293?f=rss)
   - [“智用开物”完成近亿元天使+轮融资](https://36kr.com/newsflashes/3781575122344966?f=rss)
@@ -26,6 +27,7 @@
   - [华泰证券：中国方便面企业出海有望迎来新机遇](https://36kr.com/newsflashes/3781578196360198?f=rss)
   - [司美格鲁肽专利到期月余未见“国产首证”，多家申报企业称审批因数据保护期“暂缓”](https://36kr.com/newsflashes/3781834150976773?f=rss)
   - [天���618推家电"送装一体"，覆盖全国95%区域](https://36kr.com/newsflashes/3781735819222022?f=rss)
+  - [巨星农牧：一季度公司的商品肥猪完全成本约为6.35元/斤](https://36kr.com/newsflashes/3782000516635648?f=rss)
   - [市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核](https://36kr.com/newsflashes/3781787983813890?f=rss)
   - [我国单机容量最大“超级充电宝”3号机组顺利投运](https://36kr.com/newsflashes/3781921407507459?f=rss)
   - [数据中心提供商Csquare秘密提交美国IPO申请](https://36kr.com/newsflashes/3781526996917251?f=rss)
@@ -62,6 +64,7 @@
   - [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
   - [Oxford All Souls College General Examination [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf)
   - [SFO Quiet Airport (2025)](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
+  - [Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)
   - [Show HN: I've built a nice home server OS](https://lightwhale.asklandd.dk/)
   - [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
 - IEEE Spectrum
@@ -102,6 +105,8 @@
 - text/plain
   - [Attack Techniques: RMM Abuse](https://textslashplain.com/2026/04/24/attack-techniques-rmm-abuse/)
 - The Decoder
+  - [Google pours up to $40 billion into ChatGPT rival Anthropic](https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic/)
+  - [OpenAI unveils GPT-5.5, claims a "new class of intelligence" at double the API price](https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/)
   - [OpenAI's chief scientist says AI progress has been "surprisingly slow" and promises big leaps ahead](https://the-decoder.com/openais-chief-scientist-says-ai-progress-has-been-surprisingly-slow-and-promises-big-leaps-ahead/)
 - The Verge
   - [Alex Jones has uncovered another massive conspiracy](https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker)
@@ -228,3 +233,4 @@
   - [自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI](https://www.qbitai.com/2026/04/407026.html)
 - 黑海洋
   - [美国政府通过英特尔赚取了大笔收益](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%80%9A%E8%BF%87%E8%8B%B1%E7%89%B9%E5%B0%94%E8%B5%9A%E5%8F%96%E4%BA%86%E5%A4%A7%E7%AC%94%E6%94%B6%E7%9B%8A)
+  - [马斯克旗下即时聊天应用 XChat 现已上线](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8B%E5%8D%B3%E6%97%B6%E8%81%8A%E5%A4%A9%E5%BA%94%E7%94%A8-XChat-%E7%8E%B0%E5%B7%B2%E4%B8%8A%E7%BA%BF)
