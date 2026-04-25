@@ -35,6 +35,7 @@
   - [市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核](https://36kr.com/newsflashes/3781787983813890?f=rss)
   - [我国单机容量最大“超级充电宝”3号机组顺利投运](https://36kr.com/newsflashes/3781921407507459?f=rss)
   - [数据中心提供商Csquare秘密提交美国IPO申请](https://36kr.com/newsflashes/3781526996917251?f=rss)
+  - [最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局](https://36kr.com/p/3782137908403457?f=rss)
   - [本周多只市场热门股接受超百家机构调研](https://36kr.com/newsflashes/3781599264480520?f=rss)
   - [本田在华研发转向中方主导](https://36kr.com/newsflashes/3781884274318344?f=rss)
   - [江苏如东能源岛LNG输出量突破1000亿立方米](https://36kr.com/newsflashes/3782060061563910?f=rss)
@@ -80,18 +81,23 @@
   - [How nonlinearity affects a pendulum](https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/)
 - MIT Technology Review
   - [Three reasons why DeepSeek’s new model V4 matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/)
+- pluralistic.net
+  - [Pluralistic: Ada Palmer's "Inventing the Renaissance" (25 Apr 2026)](https://pluralistic.net/2026/04/25/machiavellian/)
 - Schneier on Security
   - [Friday Squid Blogging: How Squid Survived Extinction Events](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html)
 - Sec-News 安全文摘
   - [我做了个工具让 8GB 显卡跑 30B 模型从 3 tok/s 提到 21 tok/s，记录一下技术发现](https://govuln.com/news/url/a6dl)
 - Security Affairs
   - [12-year-old Pack2TheRoot bug lets Linux users gain root privileges](https://securityaffairs.com/191231/security/12-year-old-pack2theroot-bug-lets-linux-users-gain-root-privileges.html)
+- shkspr.mobi
+  - [You can parse an .env file as an .ini with PHP - but there's a catch](https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/)
 - simonwillison.net
   - [GPT-5.5 prompting guide](https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything)
   - [The people do not yearn for automation](https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-2304 exploit](https://sploitus.com/exploit?id=01E82C1C-4154-5D5C-9167-7FD9593B9E23&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-27407 exploit](https://sploitus.com/exploit?id=C872D08E-1C35-5AEF-B757-8EB75B8B2228&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-21847 exploit](https://sploitus.com/exploit?id=1870802A-7BBE-500E-ACAE-0564C60179FC&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Frangoteam Fuxa exploit](https://sploitus.com/exploit?id=56876268-5FBE-5C5E-8C4B-970AAF8B6BBB&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Apache Http_Server exploit](https://sploitus.com/exploit?id=A5C74C9A-6C27-5BE2-A6C6-5515F64F9AF9&utm_source=rss&utm_medium=rss)
   - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Packagekit_Project Packagekit exploit](https://sploitus.com/exploit?id=17DBE2B1-DEF0-51A5-B745-0096B4F01603&utm_source=rss&utm_medium=rss)
@@ -237,6 +243,8 @@
   - [CVE-2026-7000 | Datacom DM4100 1.3.6.1.4.1.3709 VLAN Page VLAN Name cross site scripting](https://vuldb.com/vuln/359559)
   - [CVE-2026-7001 | Datacom DM4100 1.3.6.1.4.1.3709 Ethernet Configuration Page Name cross site scripting](https://vuldb.com/vuln/359560)
   - [CVE-2026-7002 | KLiK SocialMediaWebsite up to 1.0.1 Private Message get_message_ajax.php c_id sql injection](https://vuldb.com/vuln/359561)
+  - [CVE-2026-7019 | Tenda F456 1.0.0.5 /goform/P2pListFilter fromP2pListFilter menufacturer/Go buffer overflow](https://vuldb.com/vuln/359598)
+  - [CVE-2026-7020 | Ollama up to 0.20.2 Tensor Model Transfer transfer.go digestToPath digest path traversal](https://vuldb.com/vuln/359599)
 - wheresyoured.at
   - [Premium: How OpenAI Kills Oracle](https://www.wheresyoured.at/how-openai-kills-oracle/)
 - Wired
@@ -244,9 +252,12 @@
   - [AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials](https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/)
   - [Altra Promo Codes: Get 20% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)
   - [Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time](https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026/)
+  - [Best Apps for Focus (2026): Focus Friend, Forest, Focus Traveller](https://www.wired.com/story/3-focus-timer-apps-focus-friend-forest-focus-traveller/)
   - [Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos](https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/)
   - [Give Mom Warm Coffee Year-Long With This Ember Smart Mug Deal](https://www.wired.com/story/ember-mug-2-deal-april-2026/)
   - [‘Saros’ Shows Off the PS5’s DualSense Tricks](https://www.wired.com/story/saros-shows-off-the-ps5-dualsense-tricks/)
+- 不安全
+  - [A Conversation With Claude on Deutsch, Knowledge, and the PAI Algorithm](https://buaq.net/go-412678.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
