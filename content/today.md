@@ -2,6 +2,8 @@
 
 - 2Libra
   - [【投票】【💰】2 站有多少是大小周的，说出来让我心里平衡一下](https://2libra.com/post/workplace-stories/uMRMwML)
+  - [【💰】受够了大小周，请各位帮忙出谋划策](https://2libra.com/post/workplace-stories/CYNsr1h)
+  - [【💰】有没有懂 Invalid tool parameters 解决方案的(金币已拉满)](https://2libra.com/post/ai-tools/GPrGcxc)
   - [人形机器人是 真风口 还是又一次出现昙花一现的 科技泡沫 ？](https://2libra.com/post/robot/4hj4t-i)
   - [你的微信推送“折叠发图”功能了吗？](https://2libra.com/post/product-updates/d2KVBHj)
   - [刚刚在隔壁论坛看到 Jinx 限免，有用的可以领一下](https://2libra.com/post/tools-sharing/_Kb7pmc)
@@ -15,9 +17,12 @@
   - [“固收+”基金规模突破3万亿元](https://36kr.com/newsflashes/3781603152780293?f=rss)
   - [“智用开物”完成近亿元天使+轮融资](https://36kr.com/newsflashes/3781575122344966?f=rss)
   - [中国进出口银行一季度投放外贸领域贷款超3000亿元](https://36kr.com/newsflashes/3781601726586119?f=rss)
+  - [亚洲首个盐穴储氢工程投产运行](https://36kr.com/newsflashes/3781785011412226?f=rss)
   - [佑驾创新发布国内首款“真无图”L4级无人物流车](https://36kr.com/newsflashes/3781527687879944?f=rss)
   - [华泰证券：中国方便面企业出海有望迎来新机遇](https://36kr.com/newsflashes/3781578196360198?f=rss)
+  - [司美格鲁肽专利到期月余未见“国产首证”，多家申报企业称审批因数据保护期“暂缓”](https://36kr.com/newsflashes/3781834150976773?f=rss)
   - [天���618推家电"送装一体"，覆盖全国95%区域](https://36kr.com/newsflashes/3781735819222022?f=rss)
+  - [市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核](https://36kr.com/newsflashes/3781787983813890?f=rss)
   - [数据中心提供商Csquare秘密提交美国IPO申请](https://36kr.com/newsflashes/3781526996917251?f=rss)
   - [本周多只市场热门股接受超百家机构调研](https://36kr.com/newsflashes/3781599264480520?f=rss)
   - [浩思动力发布行业首个面向纯电原生平台的X-Range增程系统解决方案](https://36kr.com/newsflashes/3781577271155971?f=rss)
