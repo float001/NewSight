@@ -3,14 +3,19 @@
 - 36氪
   - [科氪 | 国民好车深蓝L06增程版亮相北京车展 京东PLUS会员购车直减7000多元](https://36kr.com/p/3782437007039488?f=rss)
   - [科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA](https://36kr.com/p/3782434723355655?f=rss)
+- idiallo.com
+  - [The Satisfaction of a ChatGPT Plan](https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed)
 - johndcook.com
   - [Closed-form solution to the nonlinear pendulum equation](https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/)
 - simonwillison.net
   - [WHY ARE YOU LIKE THIS](https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [CodeAlpha_Bug-Bounties-Tool exploit](https://sploitus.com/exploit?id=BF335B0F-FEE2-598E-A490-917D808B9D74&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-3844 exploit](https://sploitus.com/exploit?id=6CE770C7-6A87-5F3E-8503-233B6FB19113&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-7020 exploit](https://sploitus.com/exploit?id=9A37C547-026D-5436-87C8-5559D3066E17&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo exploit](https://sploitus.com/exploit?id=3FB6634C-D5B2-5558-836C-394AF35624C1&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [OpenAI CEO apologizes to Tumbler Ridge community](https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/)
   - [The climate tech IPO window could finally be cracking open](https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/)
   - [Why Cohere is merging with Aleph Alpha](https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/)
 - The Decoder
@@ -19,5 +24,7 @@
   - [CVE-2026-7045 | baomidou dynamic-datasource 2.5.0 StandardEvaluationContext/SpelExpressionParser DsSpelExpressionProcessor.java DsSpelExpressionProcessor#doDetermineDatasource injection (Issue 766)](https://vuldb.com/vuln/359624)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 阿小信的博客
+  - [Ollama 命令速查手册：全命令参数、用法与实操指南](https://blog.axiaoxin.com/post/ollama-cmd-guide/)
 - 黑海洋
   - [维基媒体与印度尼西亚达成妥协以避免被屏蔽](https://blog.upx8.com/%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E4%B8%8E%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E8%BE%BE%E6%88%90%E5%A6%A5%E5%8D%8F%E4%BB%A5%E9%81%BF%E5%85%8D%E8%A2%AB%E5%B1%8F%E8%94%BD)
