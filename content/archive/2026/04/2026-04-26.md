@@ -9,6 +9,8 @@
   - [捣蛋鬼徽章导致评论的金币记录描述不正确](https://2libra.com/post/community/z1itCcE)
 - 36氪
   - [DeepSeek-V4-Pro模型API官宣限时2.5折优惠](https://36kr.com/newsflashes/3782954220608512?f=rss)
+  - [“海上高速路”再扩容，青岛港开通西非新集装箱航线](https://36kr.com/newsflashes/3783319954480131?f=rss)
+  - [上海国际旅游度假区10年累计接待游客超1.8亿人次](https://36kr.com/newsflashes/3783320490630148?f=rss)
   - [中国长安汽车发布“海纳百川”计划2.0](https://36kr.com/newsflashes/3783123460988167?f=rss)
   - [乘联分会崔东树：1-3月中国汽车进口10万辆，同比增3%](https://36kr.com/newsflashes/3783278185389313?f=rss)
   - [京东启动AI硬件孵化计划](https://36kr.com/newsflashes/3783158630948103?f=rss)
@@ -18,6 +20,8 @@
   - [华泰证券：光纤光缆产业进入历史大周期](https://36kr.com/newsflashes/3782964689148937?f=rss)
   - [去年全国大型演唱会票房295.58亿](https://36kr.com/newsflashes/3783242589691144?f=rss)
   - [国信证券：结构上结合行业拥挤度均衡配置，重视科技成长主线、战略资源、以及白酒地产](https://36kr.com/newsflashes/3783131237653763?f=rss)
+  - [捷佳伟创：第一季度净利润同比下降61.83%](https://36kr.com/newsflashes/3783349951864065?f=rss)
+  - [摩尔线程：一季报营收7.38亿元，同比增长155.35%](https://36kr.com/newsflashes/3783351447460869?f=rss)
   - [欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线](https://36kr.com/p/3783249100397570?f=rss)
   - [润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革](https://36kr.com/p/3782901034785801?f=rss)
   - [湖南AI中心落地湘江新区](https://36kr.com/newsflashes/3782957337926921?f=rss)
@@ -31,12 +35,14 @@
   - [超算互联网推出DeepSeek-V4限时免费对话服务](https://36kr.com/newsflashes/3783020652518401?f=rss)
   - [近一周机构调研个股超350只，鼎泰高科热度第一](https://36kr.com/newsflashes/3782965648235777?f=rss)
   - [长三角海铁联运提前14天突破百万标箱，同比增长11.3%](https://36kr.com/newsflashes/3783153957788680?f=rss)
+  - [陈茂波：今年以来香港新股集资额继续位列全球首位](https://36kr.com/newsflashes/3783317153209348?f=rss)
 - Articles | InfoStealers
   - [Korean matchmaking service Duo fined over £600,000 over sensitive data leak from Infostealer infection](https://www.infostealers.com/article/korean-matchmaking-service-duo-fined-over-600000-over-sensitive-data-leak-from-infostealer-infection/)
 - defend.network
   - [Daily Threat Briefing – April 26, 2026](https://defend.network/briefings/firestarter-cisco-firepower-persistence-2026-04-26.html)
 - Hacker News Frontpage
   - [Europe to burned American scientists: We'll take you in](https://www.politico.eu/article/europe-exploit-dunald-trump-brain-drain-academic-research-progressive-institutions/)
+  - [Exposing Floating Point – Bartosz Ciechanowski](https://ciechanow.ski/exposing-floating-point/)
   - [The AI Industry Is Discovering That the Public Hates It](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
   - [The West Forgot How to Make Things. Now It's Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
   - [Trump fires all 24 members of the U.S. National Science Foundation](https://www.science.org/content/article/trump-fires-nsf-s-oversight-board)
@@ -91,6 +97,18 @@
   - [CVE-2026-7058 | 666ghj MiroFish up to 0.1.2 Inter-Process Communication simulation_ipc.py SimulationIPCClient.send_command command injection (Issue 488)](https://vuldb.com/vuln/359631)
   - [CVE-2026-7059 | 666ghj MiroFish up to 0.1.2 Query Parameter simulation.py get_simulation_posts Platform path traversal (Issue 489)](https://vuldb.com/vuln/359632)
   - [CVE-2026-7060 | liyupi yu-picture up to a053632c41340152bf75b66b3c543d129123d8ec MyBatis-Plus PictureServiceImpl.java PageRequest sortField sql injection](https://vuldb.com/vuln/359633)
+  - [CVE-2026-7061 | Toowiredd chatgpt-mcp-server up to 0.1.0 MCP/HTTP docker.service.ts os command injection](https://vuldb.com/vuln/359636)
+  - [CVE-2026-7062 | Intina47 context-sync up to 2.0.0 Git Integration src/git-integration.ts os command injection (Issue 31)](https://vuldb.com/vuln/359637)
+  - [CVE-2026-7063 | code-projects Employee Management System 1.0 Endpoint eprocess.php pwd sql injection](https://vuldb.com/vuln/359638)
+  - [CVE-2026-7064 | AgentDeskAI browser-tools-mcp up to 1.2.0 browser-connector.ts os command injection (Issue 232)](https://vuldb.com/vuln/359639)
+  - [CVE-2026-7065 | BidingCC BuildingAI up to 26.0.1 Remote Upload API file-storage.service.ts uploadRemoteFile url server-side request forgery (Issue 110)](https://vuldb.com/vuln/359640)
+  - [CVE-2026-7066 | choieastsea simple-openstack-mcp up to 767b2f4a8154cca344344b9725537a58399e6036 server.py exec_openstack os command injection](https://vuldb.com/vuln/359641)
+  - [CVE-2026-7067 | D-Link DIR-822 A_101 udhcpd DHCP Service /udhcpcd/dhcpd.c system Hostname command injection](https://vuldb.com/vuln/359642)
+  - [CVE-2026-7068 | D-Link DIR-825 3.00b32 nmbd sserver.c NMBD_process buffer overflow](https://vuldb.com/vuln/359643)
+  - [CVE-2026-7069 | D-Link DIR-825 up to 3.00b32 miniupnpd upnpsoap.c AddPortMapping NewPortMappingDescription buffer overflow](https://vuldb.com/vuln/359644)
+  - [CVE-2026-7070 | code-projects Inventory Management System 1.0 Login Username sql injection](https://vuldb.com/vuln/359645)
+  - [CVE-2026-7071 | CodeAstro Online Job Portal 1.0 /users/user-cvs/ file information disclosure](https://vuldb.com/vuln/359646)
+  - [CVE-2026-7072 | CodePanda Source canteen_management_system 1.0 /api/login.php Username sql injection](https://vuldb.com/vuln/359647)
 - Wired
   - [California Engineer Identified in Suspected Shooting at White House Correspondents' Dinner](https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/)
 - 不安全
@@ -105,5 +123,6 @@
   - [Ollama 命令速查手册：全命令参数、用法与实操指南](https://blog.axiaoxin.com/post/ollama-cmd-guide/)
 - 黑海洋
   - [SpaceX、安杜里尔等12家公司获“金穹”合同](https://blog.upx8.com/SpaceX-%E5%AE%89%E6%9D%9C%E9%87%8C%E5%B0%94%E7%AD%8912%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%8E%B7-%E9%87%91%E7%A9%B9-%E5%90%88%E5%90%8C)
+  - [北京禁令影响 大疆将全面下架无人机产品](https://blog.upx8.com/%E5%8C%97%E4%BA%AC%E7%A6%81%E4%BB%A4%E5%BD%B1%E5%93%8D-%E5%A4%A7%E7%96%86%E5%B0%86%E5%85%A8%E9%9D%A2%E4%B8%8B%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BA%A7%E5%93%81)
   - [维基媒体与印度尼西亚达成妥协以避免被屏蔽](https://blog.upx8.com/%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E4%B8%8E%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E8%BE%BE%E6%88%90%E5%A6%A5%E5%8D%8F%E4%BB%A5%E9%81%BF%E5%85%8D%E8%A2%AB%E5%B1%8F%E8%94%BD)
   - [英伟达公司市值再次突破5万亿美元大关](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%85%AC%E5%8F%B8%E5%B8%82%E5%80%BC%E5%86%8D%E6%AC%A1%E7%AA%81%E7%A0%B45%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A7%E5%85%B3)
