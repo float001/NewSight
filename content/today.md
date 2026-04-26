@@ -2,12 +2,17 @@
 
 - 2Libra
   - [你“社死”过吗？从社死想到的语义磨损](https://2libra.com/post/social-observation/7XWJ25H)
+  - [徽章获取现在有祝贺界面了？新增加的效果吗？](https://2libra.com/post/forum-function/UNdExeA)
 - 36氪
+  - [DeepSeek-V4-Pro模型API官宣限时2.5折优惠](https://36kr.com/newsflashes/3782954220608512?f=rss)
+  - [润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革](https://36kr.com/p/3782901034785801?f=rss)
   - [科氪 | 国民好车深蓝L06增程版亮相北京车展 京东PLUS会员购车直减7000多元](https://36kr.com/p/3782437007039488?f=rss)
   - [科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA](https://36kr.com/p/3782434723355655?f=rss)
 - Hacker News Frontpage
+  - [Europe to burned American scientists: We'll take you in](https://www.politico.eu/article/europe-exploit-dunald-trump-brain-drain-academic-research-progressive-institutions/)
   - [The AI Industry Is Discovering That the Public Hates It](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
   - [Trump fires all 24 members of the U.S. National Science Foundation](https://www.science.org/content/article/trump-fires-nsf-s-oversight-board)
+  - [Why Has There Been So Little Progress on Alzheimer's Disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)
 - idiallo.com
   - [The Satisfaction of a ChatGPT Plan](https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed)
 - johndcook.com
@@ -38,6 +43,8 @@
   - [CVE-2026-7045 | baomidou dynamic-datasource 2.5.0 StandardEvaluationContext/SpelExpressionParser DsSpelExpressionProcessor.java DsSpelExpressionProcessor#doDetermineDatasource injection (Issue 766)](https://vuldb.com/vuln/359624)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [ZHITAI Ti600 4T nvme0n1 critical medium error, dev nvme0n1 Media and Data Integrity Errors](https://dyrnq.com/zhitai-ti600-4t-nvme0n1-critical-medium-error-dev-nvme0n1-media-and-data-integrity-errors/)
 - 阿小信的博客
   - [Ollama 命令速查手册：全命令参数、用法与实操指南](https://blog.axiaoxin.com/post/ollama-cmd-guide/)
 - 黑海洋
