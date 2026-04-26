@@ -2,6 +2,8 @@
 
 - 2Libra
   - [半夜饿了，去搞了碗糖水](https://2libra.com/post/small-things/YyZaFPm)
+- 36氪
+  - [美联储本周维持利率不变的概率为100%](https://36kr.com/newsflashes/3784252858932230?f=rss)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Insecure Permissions vulnerability in Nagios Network Analyzer v.2024R1.02-64 and before allows a local attacker to escalate pri](https://cxsecurity.com/issue/WLB-2026040019)
   - [Samsung ONE Integer Overflow in CircleConst Tensor Size Calculation](https://cxsecurity.com/issue/WLB-2026040018)
@@ -13,6 +15,7 @@
 - Hacker News Frontpage
   - [An AI agent deleted our production database. The agent's confession is below](https://twitter.com/lifeof_jer/status/2048103471019434248)
   - [Fast16: Cyberweapon that predates Stuxnet by five years](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
+  - [Show HN: Startup Equity Adventure Game](https://options-game-polymathrobotics.pythonanywhere.com/)
 - IT Service Management News
   - [Bozze standard ETSI per CRA](http://blog.cesaregallotti.it/2026/04/bozze-standard-etsi-per-cra.html)
 - Sploitus.com Exploits RSS Feed
