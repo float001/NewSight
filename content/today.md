@@ -3,17 +3,21 @@
 - 2Libra
   - [【周末闲聊】王之蔑视](https://2libra.com/post/small-things/OlrJNMa)
   - [你“社死”过吗？从社死想到的语义磨损](https://2libra.com/post/social-observation/7XWJ25H)
+  - [做了个在线拼多多组队拆福袋工具,快速换取折扣劵,快来!](https://2libra.com/post/sharing-discoveries/9ZYGN3N)
   - [徽章获取现在有祝贺界面了？新增加的效果吗？](https://2libra.com/post/forum-function/UNdExeA)
   - [捣蛋鬼徽章导致评论的金币记录描述不正确](https://2libra.com/post/community/z1itCcE)
 - 36氪
   - [DeepSeek-V4-Pro模型API官宣限时2.5折优惠](https://36kr.com/newsflashes/3782954220608512?f=rss)
   - [中国长安汽车发布“海纳百川”计划2.0](https://36kr.com/newsflashes/3783123460988167?f=rss)
+  - [京东启动AI硬件孵化计划](https://36kr.com/newsflashes/3783158630948103?f=rss)
   - [俞敏洪回应东方甄选主播集体离职：是平台的损失](https://36kr.com/newsflashes/3783032831859712?f=rss)
   - [利亚德：将进一步推进沙特工厂建设，预计7月投产后将覆盖亚非拉及中东地区](https://36kr.com/newsflashes/3782972773080329?f=rss)
   - [北京发布土地经营权流转价格模型](https://36kr.com/newsflashes/3783019761933318?f=rss)
   - [华泰证券：光纤光缆产业进入历史大周期](https://36kr.com/newsflashes/3782964689148937?f=rss)
+  - [国信证券：结构上结合行业拥挤度均衡配置，重视科技成长主线、战略资源、以及白酒地产](https://36kr.com/newsflashes/3783131237653763?f=rss)
   - [润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革](https://36kr.com/p/3782901034785801?f=rss)
   - [湖南AI中心落地湘江新区](https://36kr.com/newsflashes/3782957337926921?f=rss)
+  - [申万宏源：一季度公募持仓聚焦科技硬件，增配能源安全产业链](https://36kr.com/newsflashes/3783130507025673?f=rss)
   - [破解行李中转难题 民航新版指南明确全新保障模式](https://36kr.com/newsflashes/3783087154552067?f=rss)
   - [科氪 | 国民好车深蓝L06增程版亮相北京车展 京东PLUS会员购车直减7000多元](https://36kr.com/p/3782437007039488?f=rss)
   - [科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA](https://36kr.com/p/3782434723355655?f=rss)
@@ -21,6 +25,9 @@
   - [芯擎科技发布新一代AI座舱芯片“龍鹰二号”，将于2027年Q1启动适配](https://36kr.com/newsflashes/3783080587926793?f=rss)
   - [超算互联网推出DeepSeek-V4限时免费对话服务](https://36kr.com/newsflashes/3783020652518401?f=rss)
   - [近一周机构调研个股超350只，鼎泰高科热度第一](https://36kr.com/newsflashes/3782965648235777?f=rss)
+  - [长三角海铁联运提前14天突破百万标箱，同比增长11.3%](https://36kr.com/newsflashes/3783153957788680?f=rss)
+- Articles | InfoStealers
+  - [Korean matchmaking service Duo fined over £600,000 over sensitive data leak from Infostealer infection](https://www.infostealers.com/article/korean-matchmaking-service-duo-fined-over-600000-over-sensitive-data-leak-from-infostealer-infection/)
 - Hacker News Frontpage
   - [Europe to burned American scientists: We'll take you in](https://www.politico.eu/article/europe-exploit-dunald-trump-brain-drain-academic-research-progressive-institutions/)
   - [The AI Industry Is Discovering That the Public Hates It](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
@@ -84,6 +91,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [ZHITAI Ti600 4T nvme0n1 critical medium error, dev nvme0n1 Media and Data Integrity Errors](https://dyrnq.com/zhitai-ti600-4t-nvme0n1-critical-medium-error-dev-nvme0n1-media-and-data-integrity-errors/)
+- 量子位 QbitAI
+  - [DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍](https://www.qbitai.com/2026/04/407465.html)
 - 阿小信的博客
   - [Ollama 命令速查手册：全命令参数、用法与实操指南](https://blog.axiaoxin.com/post/ollama-cmd-guide/)
 - 黑海洋
