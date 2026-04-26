@@ -1,18 +1,24 @@
 # 今日安全资讯（2026-04-26）
 
 - 2Libra
+  - [【周末闲聊】王之蔑视](https://2libra.com/post/small-things/OlrJNMa)
   - [你“社死”过吗？从社死想到的语义磨损](https://2libra.com/post/social-observation/7XWJ25H)
   - [徽章获取现在有祝贺界面了？新增加的效果吗？](https://2libra.com/post/forum-function/UNdExeA)
+  - [捣蛋鬼徽章导致评论的金币记录描述不正确](https://2libra.com/post/community/z1itCcE)
 - 36氪
   - [DeepSeek-V4-Pro模型API官宣限时2.5折优惠](https://36kr.com/newsflashes/3782954220608512?f=rss)
+  - [中国长安汽车发布“海纳百川”计划2.0](https://36kr.com/newsflashes/3783123460988167?f=rss)
   - [俞敏洪回应东方甄选主播集体离职：是平台的损失](https://36kr.com/newsflashes/3783032831859712?f=rss)
   - [利亚德：将进一步推进沙特工厂建设，预计7月投产后将覆盖亚非拉及中东地区](https://36kr.com/newsflashes/3782972773080329?f=rss)
   - [北京发布土地经营权流转价格模型](https://36kr.com/newsflashes/3783019761933318?f=rss)
   - [华泰证券：光纤光缆产业进入历史大周期](https://36kr.com/newsflashes/3782964689148937?f=rss)
   - [润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革](https://36kr.com/p/3782901034785801?f=rss)
   - [湖南AI中心落地湘江新区](https://36kr.com/newsflashes/3782957337926921?f=rss)
+  - [破解行李中转难题 民航新版指南明确全新保障模式](https://36kr.com/newsflashes/3783087154552067?f=rss)
   - [科氪 | 国民好车深蓝L06增程版亮相北京车展 京东PLUS会员购车直减7000多元](https://36kr.com/p/3782437007039488?f=rss)
   - [科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA](https://36kr.com/p/3782434723355655?f=rss)
+  - [美国太空军披露“金穹”合同细节：SpaceX、安杜里尔等12家公司获32亿美元订单](https://36kr.com/newsflashes/3783054579326213?f=rss)
+  - [芯擎科技发布新一代AI座舱芯片“龍鹰二号”，将于2027年Q1启动适配](https://36kr.com/newsflashes/3783080587926793?f=rss)
   - [超算互联网推出DeepSeek-V4限时免费对话服务](https://36kr.com/newsflashes/3783020652518401?f=rss)
   - [近一周机构调研个股超350只，鼎泰高科热度第一](https://36kr.com/newsflashes/3782965648235777?f=rss)
 - Hacker News Frontpage
@@ -23,11 +29,17 @@
 - idiallo.com
   - [The Satisfaction of a ChatGPT Plan](https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed)
 - InfoSec Write-ups - Medium
+  - [Everything You Need to Know About the DPDPA Act](https://infosecwriteups.com/everything-you-need-to-know-about-the-dpdpa-act-758eaf91ffb7?source=rss----7b722bfd1b8d---4)
   - [Hacking into Eternal.com | Hackerone](https://infosecwriteups.com/hacking-into-eternal-com-hackerone-f6600683ee47?source=rss----7b722bfd1b8d---4)
+  - [How to Learn Web & API Hacking in 2026: The Complete Roadmap](https://infosecwriteups.com/how-to-learn-web-api-hacking-in-2026-the-complete-roadmap-4225510adf4d?source=rss----7b722bfd1b8d---4)
   - [I Tried to Social Engineer My Friends (With Permission) — Every Single One Fell For It](https://infosecwriteups.com/i-tried-to-social-engineer-my-friends-with-permission-every-single-one-fell-for-it-baaf0a73d84e?source=rss----7b722bfd1b8d---4)
+  - [Malware Analysis: payloadfinal.bin (Agent Tesla)](https://infosecwriteups.com/malware-analysis-payloadfinal-bin-agent-tesla-c38cb9bc8c88?source=rss----7b722bfd1b8d---4)
   - [Malware That Lives in Your GPU : The Idea Is Simple and Brilliant](https://infosecwriteups.com/malware-that-lives-in-your-gpu-the-idea-is-simple-and-brilliant-1132e3e21cc6?source=rss----7b722bfd1b8d---4)
   - [PicoCTF Challenge useless — Writeup](https://infosecwriteups.com/picoctf-challenge-useless-writeup-f031744d7499?source=rss----7b722bfd1b8d---4)
+  - [SSH vs SSL/TLS — Lessons I Learned While Studying Cybersecurity and Solving Labs](https://infosecwriteups.com/ssh-vs-ssl-tls-lessons-i-learned-while-studying-cybersecurity-and-solving-labs-026ba83941b1?source=rss----7b722bfd1b8d---4)
   - [Understanding DNS — The Internet’s Phonebook](https://infosecwriteups.com/understanding-dns-the-internets-phonebook-24d3d26ee355?source=rss----7b722bfd1b8d---4)
+  - [Why Phishing Still Works (Even If You Know About It)](https://infosecwriteups.com/why-phishing-still-works-even-if-you-know-about-it-74a0b4c2b8f5?source=rss----7b722bfd1b8d---4)
+  - [Your Email Inbox is Lying to You (And How to Catch It Red-Handed)](https://infosecwriteups.com/your-email-inbox-is-lying-to-you-and-how-to-catch-it-red-handed-7d42fbc62711?source=rss----7b722bfd1b8d---4)
 - johndcook.com
   - [Closed-form solution to the nonlinear pendulum equation](https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/)
 - simonwillison.net
@@ -64,6 +76,10 @@
   - [CVE-2026-7058 | 666ghj MiroFish up to 0.1.2 Inter-Process Communication simulation_ipc.py SimulationIPCClient.send_command command injection (Issue 488)](https://vuldb.com/vuln/359631)
   - [CVE-2026-7059 | 666ghj MiroFish up to 0.1.2 Query Parameter simulation.py get_simulation_posts Platform path traversal (Issue 489)](https://vuldb.com/vuln/359632)
   - [CVE-2026-7060 | liyupi yu-picture up to a053632c41340152bf75b66b3c543d129123d8ec MyBatis-Plus PictureServiceImpl.java PageRequest sortField sql injection](https://vuldb.com/vuln/359633)
+- Wired
+  - [California Engineer Identified in Suspected Shooting at White House Correspondents' Dinner](https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/)
+- 不安全
+  - [How to Learn Web & API Hacking in 2026: The Complete Roadmap](https://buaq.net/go-412785.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
