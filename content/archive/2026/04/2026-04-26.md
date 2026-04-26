@@ -73,7 +73,10 @@
   - [Your Email Inbox is Lying to You (And How to Catch It Red-Handed)](https://infosecwriteups.com/your-email-inbox-is-lying-to-you-and-how-to-catch-it-red-handed-7d42fbc62711?source=rss----7b722bfd1b8d---4)
 - johndcook.com
   - [Closed-form solution to the nonlinear pendulum equation](https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/)
+- Recent Commits to cve:main
+  - [Update Sun Apr 26 11:18:36 UTC 2026](https://github.com/trickest/cve/commit/b2b7be74780fb8a8e3ccfb1f8a47689f065fd5da)
 - Security Affairs
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 94](https://securityaffairs.com/191312/malware/security-affairs-malware-newsletter-round-94.html)
   - [Security Affairs newsletter Round 574 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/191305/breaking-news/security-affairs-newsletter-round-574-by-pierluigi-paganini-international-edition.html)
   - [Trigona ransomware adopts custom tool to steal data and evade detection](https://securityaffairs.com/191294/cyber-crime/trigona-ransomware-adopts-custom-tool-to-steal-data-and-evade-detection.html)
 - simonwillison.net
@@ -144,6 +147,7 @@
   - [California Engineer Identified in Suspected Shooting at White House Correspondents' Dinner](https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/)
   - [Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and (Mostly) Reliable](https://www.wired.com/review/della-optima-tp-series-mini-split-air-conditioner/)
   - [Ikea's New Blow-Up Chair Was Tested by Cats](https://www.wired.com/story/ikea-new-blow-up-chair-was-tested-by-cats/)
+  - [The Best Kindle Accessories (2026): Cases, Page Turners, Stickers](https://www.wired.com/story/best-kindle-accessories/)
   - [The Best Permanent Outdoor Lights (2026): Govee, Eufy, Cync](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)
   - [What Type of Mattress Is Right for You? (2026)](https://www.wired.com/story/mattress-types-explained/)
 - 不安全
