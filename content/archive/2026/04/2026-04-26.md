@@ -10,6 +10,7 @@
   - [捣蛋鬼徽章导致评论的金币记录描述不正确](https://2libra.com/post/community/z1itCcE)
 - 36氪
   - [DeepSeek-V4-Pro模型API官宣限时2.5折优惠](https://36kr.com/newsflashes/3782954220608512?f=rss)
+  - [ST西发：法院裁定受理重整 股票将被实施退市风险警示](https://36kr.com/newsflashes/3783425594465281?f=rss)
   - [“海上高速路”再扩容，青岛港开通西非新集装箱航线](https://36kr.com/newsflashes/3783319954480131?f=rss)
   - [上海国际旅游度假区10年累计接待游客超1.8亿人次](https://36kr.com/newsflashes/3783320490630148?f=rss)
   - [中信尼雅：股票可能被实施退市风险警示](https://36kr.com/newsflashes/3783354381081609?f=rss)
@@ -22,6 +23,7 @@
   - [华泰证券：光纤光缆产业进入历史大周期](https://36kr.com/newsflashes/3782964689148937?f=rss)
   - [去年全国大型演唱会票房295.58亿](https://36kr.com/newsflashes/3783242589691144?f=rss)
   - [国信证券：结构上结合行业拥挤度均衡配置，重视科技成长主线、战略资源、以及白酒地产](https://36kr.com/newsflashes/3783131237653763?f=rss)
+  - [安波福发布“中国定义”核心战略](https://36kr.com/newsflashes/3783419976391684?f=rss)
   - [巨人网络：2025年营收超50亿元，同比增长72.69%](https://36kr.com/newsflashes/3783419369823240?f=rss)
   - [恒宇信通：筹划购买神导科技100%股权，股票停牌](https://36kr.com/newsflashes/3783353736649734?f=rss)
   - [捷佳伟创：第一季度净利润同比下降61.83%](https://36kr.com/newsflashes/3783349951864065?f=rss)
@@ -32,6 +34,7 @@
   - [湖南黄金：第一季度净利润同比增长79.21%](https://36kr.com/newsflashes/3783353113598985?f=rss)
   - [申万宏源：一季度公募持仓聚焦科技硬件，增配能源安全产业链](https://36kr.com/newsflashes/3783130507025673?f=rss)
   - [申万宏源：市场超跌反弹后震荡休整或将延续，二季度关注5月关键事件验证](https://36kr.com/newsflashes/3783182326062085?f=rss)
+  - [矽电股份：与兆驰股份子公司签署3.35亿元Mini/MicroLED测试分选设备合同](https://36kr.com/newsflashes/3783420765789441?f=rss)
   - [破解行李中转难题 民航新版指南明确全新保障模式](https://36kr.com/newsflashes/3783087154552067?f=rss)
   - [科氪 | 国民好车深蓝L06增程版亮相北京车展 京东PLUS会员购车直减7000多元](https://36kr.com/p/3782437007039488?f=rss)
   - [科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA](https://36kr.com/p/3782434723355655?f=rss)
@@ -48,6 +51,7 @@
 - Hacker News Frontpage
   - [Europe to burned American scientists: We'll take you in](https://www.politico.eu/article/europe-exploit-dunald-trump-brain-drain-academic-research-progressive-institutions/)
   - [Exposing Floating Point – Bartosz Ciechanowski](https://ciechanow.ski/exposing-floating-point/)
+  - [Statecharts: hierarchical state machines](https://statecharts.dev/)
   - [The AI Industry Is Discovering That the Public Hates It](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
   - [The West Forgot How to Make Things. Now It's Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
   - [Trump fires all 24 members of the U.S. National Science Foundation](https://www.science.org/content/article/trump-fires-nsf-s-oversight-board)
@@ -70,6 +74,7 @@
   - [Closed-form solution to the nonlinear pendulum equation](https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/)
 - Security Affairs
   - [Security Affairs newsletter Round 574 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/191305/breaking-news/security-affairs-newsletter-round-574-by-pierluigi-paganini-international-edition.html)
+  - [Trigona ransomware adopts custom tool to steal data and evade detection](https://securityaffairs.com/191294/cyber-crime/trigona-ransomware-adopts-custom-tool-to-steal-data-and-evade-detection.html)
 - simonwillison.net
   - [WHY ARE YOU LIKE THIS](https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -89,6 +94,7 @@
   - [The climate tech IPO window could finally be cracking open](https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/)
   - [Why Cohere is merging with Aleph Alpha](https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/)
 - The Decoder
+  - [500 investment bankers review AI outputs and find none ready for client delivery](https://the-decoder.com/500-investment-bankers-review-ai-outputs-and-find-none-ready-for-client-delivery/)
   - [AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue](https://the-decoder.com/ai-agents-arent-replacing-software-engineering-but-expanding-it-far-beyond-code-researchers-argue/)
   - [GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API](https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/)
   - [Survey finds Claude's weekly active users in the US skew far wealthier than any rival AI assistant](https://the-decoder.com/survey-finds-claudes-weekly-active-users-in-the-us-skew-far-wealthier-than-any-rival-ai-assistant/)
@@ -130,8 +136,12 @@
   - [CVE-2026-7092 | code-projects Invoice System in Laravel 1.0 Profile /profile/ ID improper authorization](https://vuldb.com/vuln/359667)
   - [CVE-2026-7093 | code-projects Invoice System in Laravel 1.0 Invoice Endpoint /invoice/ ID improper authorization](https://vuldb.com/vuln/359668)
   - [CVE-2026-7094 | ShadowCloneLabs GlutamateMCPServers up to e2de73280b01e5d943593dd1aa2c01c5b9112f78 puppeteer_navigate src/puppeteer/index.ts url server-side request forgery](https://vuldb.com/vuln/359669)
+  - [CVE-2026-7103 | code-projects Chat System 1.0 MD5 Hash update_user.php Password weak hash](https://vuldb.com/vuln/359678)
 - Wired
   - [California Engineer Identified in Suspected Shooting at White House Correspondents' Dinner](https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/)
+  - [Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and (Mostly) Reliable](https://www.wired.com/review/della-optima-tp-series-mini-split-air-conditioner/)
+  - [Ikea's New Blow-Up Chair Was Tested by Cats](https://www.wired.com/story/ikea-new-blow-up-chair-was-tested-by-cats/)
+  - [What Type of Mattress Is Right for You? (2026)](https://www.wired.com/story/mattress-types-explained/)
 - 不安全
   - [How to Learn Web & API Hacking in 2026: The Complete Roadmap](https://buaq.net/go-412785.html)
 - 代码审计星球
@@ -141,6 +151,7 @@
 - 量子位 QbitAI
   - [DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍](https://www.qbitai.com/2026/04/407465.html)
 - 阿小信的博客
+  - [Ollama launch用法详解：Claude Code、Codex、Hermes Agent、OpenClaw、VS Code等主流工具集成一步到位，本地AI大模型多场景复用](https://blog.axiaoxin.com/post/ollama-integrations/)
   - [Ollama 命令速查手册：全命令参数、用法与实操指南](https://blog.axiaoxin.com/post/ollama-cmd-guide/)
 - 黑海洋
   - [SpaceX、安杜里尔等12家公司获“金穹”合同](https://blog.upx8.com/SpaceX-%E5%AE%89%E6%9D%9C%E9%87%8C%E5%B0%94%E7%AD%8912%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%8E%B7-%E9%87%91%E7%A9%B9-%E5%90%88%E5%90%8C)
@@ -148,3 +159,4 @@
   - [维基媒体与印度尼西亚达成妥协以避免被屏蔽](https://blog.upx8.com/%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E4%B8%8E%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E8%BE%BE%E6%88%90%E5%A6%A5%E5%8D%8F%E4%BB%A5%E9%81%BF%E5%85%8D%E8%A2%AB%E5%B1%8F%E8%94%BD)
   - [美国产原油运抵日本 中东局势恶化后尚属首次](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E4%BA%A7%E5%8E%9F%E6%B2%B9%E8%BF%90%E6%8A%B5%E6%97%A5%E6%9C%AC-%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E6%81%B6%E5%8C%96%E5%90%8E%E5%B0%9A%E5%B1%9E%E9%A6%96%E6%AC%A1)
   - [英伟达公司市值再次突破5万亿美元大关](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%85%AC%E5%8F%B8%E5%B8%82%E5%80%BC%E5%86%8D%E6%AC%A1%E7%AA%81%E7%A0%B45%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A7%E5%85%B3)
+  - [造谣雷军“被围堵维权”者被行拘十日](https://blog.upx8.com/%E9%80%A0%E8%B0%A3%E9%9B%B7%E5%86%9B-%E8%A2%AB%E5%9B%B4%E5%A0%B5%E7%BB%B4%E6%9D%83-%E8%80%85%E8%A2%AB%E8%A1%8C%E6%8B%98%E5%8D%81%E6%97%A5)
