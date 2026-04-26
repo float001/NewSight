@@ -5,9 +5,13 @@
   - [徽章获取现在有祝贺界面了？新增加的效果吗？](https://2libra.com/post/forum-function/UNdExeA)
 - 36氪
   - [DeepSeek-V4-Pro模型API官宣限时2.5折优惠](https://36kr.com/newsflashes/3782954220608512?f=rss)
+  - [利亚德：将进一步推进沙特工厂建设，预计7月投产后将覆盖亚非拉及中东地区](https://36kr.com/newsflashes/3782972773080329?f=rss)
+  - [华泰证券：光纤光缆产业进入历史大周期](https://36kr.com/newsflashes/3782964689148937?f=rss)
   - [润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革](https://36kr.com/p/3782901034785801?f=rss)
+  - [湖南AI中心落地湘江新区](https://36kr.com/newsflashes/3782957337926921?f=rss)
   - [科氪 | 国民好车深蓝L06增程版亮相北京车展 京东PLUS会员购车直减7000多元](https://36kr.com/p/3782437007039488?f=rss)
   - [科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA](https://36kr.com/p/3782434723355655?f=rss)
+  - [近一周机构调研个股超350只，鼎泰高科热度第一](https://36kr.com/newsflashes/3782965648235777?f=rss)
 - Hacker News Frontpage
   - [Europe to burned American scientists: We'll take you in](https://www.politico.eu/article/europe-exploit-dunald-trump-brain-drain-academic-research-progressive-institutions/)
   - [The AI Industry Is Discovering That the Public Hates It](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
@@ -20,6 +24,7 @@
 - simonwillison.net
   - [WHY ARE YOU LIKE THIS](https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [arm-64-exploit-demo exploit](https://sploitus.com/exploit?id=456FEB2E-04AF-592E-8175-BACF1C057D59&utm_source=rss&utm_medium=rss)
   - [binary-exploitation-buffer-overflow exploit](https://sploitus.com/exploit?id=C809D7AF-B96A-5BF2-8B09-3F6EEEDF554A&utm_source=rss&utm_medium=rss)
   - [CodeAlpha_Bug-Bounties-Tool exploit](https://sploitus.com/exploit?id=BF335B0F-FEE2-598E-A490-917D808B9D74&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-3844 exploit](https://sploitus.com/exploit?id=6CE770C7-6A87-5F3E-8503-233B6FB19113&utm_source=rss&utm_medium=rss)
@@ -41,6 +46,14 @@
 - VulDB Recent Entries
   - [CVE-2026-41163 | containers bubblewrap 0.11.0/0.11.1 ptrace access control](https://vuldb.com/vuln/359625)
   - [CVE-2026-7045 | baomidou dynamic-datasource 2.5.0 StandardEvaluationContext/SpelExpressionParser DsSpelExpressionProcessor.java DsSpelExpressionProcessor#doDetermineDatasource injection (Issue 766)](https://vuldb.com/vuln/359624)
+  - [CVE-2026-7053 | Tenda F456 1.0.0.5 httpd /goform/L7Prot frmL7ProtForm page buffer overflow](https://vuldb.com/vuln/359626)
+  - [CVE-2026-7054 | Tenda F456 1.0.0.5 httpd /goform/PPTPDClient fromPptpUserAdd opttype/usernamewith buffer overflow](https://vuldb.com/vuln/359627)
+  - [CVE-2026-7055 | Tenda F456 1.0.0.5 httpd /goform/VirtualSer fromVirtualSer menufacturer/Go buffer overflow](https://vuldb.com/vuln/359628)
+  - [CVE-2026-7056 | Tenda F456 1.0.0.5 httpd /goform/SafeUrlFilter fromSafeUrlFilter page buffer overflow](https://vuldb.com/vuln/359629)
+  - [CVE-2026-7057 | Tenda F456 1.0.0.5 httpd /goform/setcfm funcname/funcpara1 buffer overflow](https://vuldb.com/vuln/359630)
+  - [CVE-2026-7058 | 666ghj MiroFish up to 0.1.2 Inter-Process Communication simulation_ipc.py SimulationIPCClient.send_command command injection (Issue 488)](https://vuldb.com/vuln/359631)
+  - [CVE-2026-7059 | 666ghj MiroFish up to 0.1.2 Query Parameter simulation.py get_simulation_posts Platform path traversal (Issue 489)](https://vuldb.com/vuln/359632)
+  - [CVE-2026-7060 | liyupi yu-picture up to a053632c41340152bf75b66b3c543d129123d8ec MyBatis-Plus PictureServiceImpl.java PageRequest sortField sql injection](https://vuldb.com/vuln/359633)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
