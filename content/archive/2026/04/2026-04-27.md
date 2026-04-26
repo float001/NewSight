@@ -2,6 +2,10 @@
 
 - 2Libra
   - [半夜饿了，去搞了碗糖水](https://2libra.com/post/small-things/YyZaFPm)
+- CXSecurity: World Laboratory of Bugtraq 2
+  - [Insecure Permissions vulnerability in Nagios Network Analyzer v.2024R1.02-64 and before allows a local attacker to escalate pri](https://cxsecurity.com/issue/WLB-2026040019)
+  - [Samsung ONE Integer Overflow in CircleConst Tensor Size Calculation](https://cxsecurity.com/issue/WLB-2026040018)
+  - [solaredge-CSRF-OOB-Injection](https://cxsecurity.com/issue/WLB-2026040017)
 - daringfireball.net
   - [DF Paraphernalia: Last Call for This Round of T-Shirts and Hoodies](https://store.daringfireball.net/)
   - [Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis](https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/)
@@ -15,7 +19,9 @@
   - [Advanced-AI-Recon-and-Exploit-Framework exploit](https://sploitus.com/exploit?id=2FC53BBC-FEED-522F-8B52-72FBD0BAB2CA&utm_source=rss&utm_medium=rss)
   - [secureflow exploit](https://sploitus.com/exploit?id=223B7991-AEA3-53D7-8CE6-EC207C15BDFF&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Amazon’s new podcast strategy: Monetize everything](https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/)
   - [TechCrunch Mobility: Elon’s admission](https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/)
+  - [The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder](https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/)
   - [What Tim Cook built](https://techcrunch.com/2026/04/26/what-tim-cook-built/)
 - The Verge
   - [Google’s new gradient icon design is coming to more apps](https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps)
