@@ -5,12 +5,15 @@
   - [徽章获取现在有祝贺界面了？新增加的效果吗？](https://2libra.com/post/forum-function/UNdExeA)
 - 36氪
   - [DeepSeek-V4-Pro模型API官宣限时2.5折优惠](https://36kr.com/newsflashes/3782954220608512?f=rss)
+  - [俞敏洪回应东方甄选主播集体离职：是平台的损失](https://36kr.com/newsflashes/3783032831859712?f=rss)
   - [利亚德：将进一步推进沙特工厂建设，预计7月投产后将覆盖亚非拉及中东地区](https://36kr.com/newsflashes/3782972773080329?f=rss)
+  - [北京发布土地经营权流转价格模型](https://36kr.com/newsflashes/3783019761933318?f=rss)
   - [华泰证券：光纤光缆产业进入历史大周期](https://36kr.com/newsflashes/3782964689148937?f=rss)
   - [润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革](https://36kr.com/p/3782901034785801?f=rss)
   - [湖南AI中心落地湘江新区](https://36kr.com/newsflashes/3782957337926921?f=rss)
   - [科氪 | 国民好车深蓝L06增程版亮相北京车展 京东PLUS会员购车直减7000多元](https://36kr.com/p/3782437007039488?f=rss)
   - [科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA](https://36kr.com/p/3782434723355655?f=rss)
+  - [超算互联网推出DeepSeek-V4限时免费对话服务](https://36kr.com/newsflashes/3783020652518401?f=rss)
   - [近一周机构调研个股超350只，鼎泰高科热度第一](https://36kr.com/newsflashes/3782965648235777?f=rss)
 - Hacker News Frontpage
   - [Europe to burned American scientists: We'll take you in](https://www.politico.eu/article/europe-exploit-dunald-trump-brain-drain-academic-research-progressive-institutions/)
@@ -19,6 +22,12 @@
   - [Why Has There Been So Little Progress on Alzheimer's Disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)
 - idiallo.com
   - [The Satisfaction of a ChatGPT Plan](https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed)
+- InfoSec Write-ups - Medium
+  - [Hacking into Eternal.com | Hackerone](https://infosecwriteups.com/hacking-into-eternal-com-hackerone-f6600683ee47?source=rss----7b722bfd1b8d---4)
+  - [I Tried to Social Engineer My Friends (With Permission) — Every Single One Fell For It](https://infosecwriteups.com/i-tried-to-social-engineer-my-friends-with-permission-every-single-one-fell-for-it-baaf0a73d84e?source=rss----7b722bfd1b8d---4)
+  - [Malware That Lives in Your GPU : The Idea Is Simple and Brilliant](https://infosecwriteups.com/malware-that-lives-in-your-gpu-the-idea-is-simple-and-brilliant-1132e3e21cc6?source=rss----7b722bfd1b8d---4)
+  - [PicoCTF Challenge useless — Writeup](https://infosecwriteups.com/picoctf-challenge-useless-writeup-f031744d7499?source=rss----7b722bfd1b8d---4)
+  - [Understanding DNS — The Internet’s Phonebook](https://infosecwriteups.com/understanding-dns-the-internets-phonebook-24d3d26ee355?source=rss----7b722bfd1b8d---4)
 - johndcook.com
   - [Closed-form solution to the nonlinear pendulum equation](https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/)
 - simonwillison.net
@@ -27,6 +36,7 @@
   - [arm-64-exploit-demo exploit](https://sploitus.com/exploit?id=456FEB2E-04AF-592E-8175-BACF1C057D59&utm_source=rss&utm_medium=rss)
   - [binary-exploitation-buffer-overflow exploit](https://sploitus.com/exploit?id=C809D7AF-B96A-5BF2-8B09-3F6EEEDF554A&utm_source=rss&utm_medium=rss)
   - [CodeAlpha_Bug-Bounties-Tool exploit](https://sploitus.com/exploit?id=BF335B0F-FEE2-598E-A490-917D808B9D74&utm_source=rss&utm_medium=rss)
+  - [ethical-hacking-ctf exploit](https://sploitus.com/exploit?id=89FA941F-CED4-58DE-AA9E-1DF4276CA136&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-3844 exploit](https://sploitus.com/exploit?id=6CE770C7-6A87-5F3E-8503-233B6FB19113&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-41177 exploit](https://sploitus.com/exploit?id=76F1F456-F01E-53B3-924F-C403EB5A228A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-7020 exploit](https://sploitus.com/exploit?id=9A37C547-026D-5436-87C8-5559D3066E17&utm_source=rss&utm_medium=rss)
