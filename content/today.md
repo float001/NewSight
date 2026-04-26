@@ -5,6 +5,7 @@
 - daringfireball.net
   - [DF Paraphernalia: Last Call for This Round of T-Shirts and Hoodies](https://store.daringfireball.net/)
   - [Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis](https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/)
+  - [★ The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous](https://daringfireball.net/2026/04/nyt_wrong_crossword_grid)
 - Hacker News Frontpage
   - [An AI agent deleted our production database. The agent's confession is below](https://twitter.com/lifeof_jer/status/2048103471019434248)
 - IT Service Management News
@@ -19,5 +20,25 @@
   - [Trump turns the WHCD shooting into a pitch for the White House ballroom](https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom)
 - VulDB Recent Entries
   - [CVE-2026-7119 | Tenda HG3 2.0 /boaform/formCountrystr countrystr os command injection](https://vuldb.com/vuln/359719)
+  - [CVE-2026-7121 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setWizardCfg wizard os command injection](https://vuldb.com/vuln/359720)
+  - [CVE-2026-7122 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setUPnPCfg enable os command injection](https://vuldb.com/vuln/359721)
+  - [CVE-2026-7123 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setIptvCfg os command injection](https://vuldb.com/vuln/359722)
+  - [CVE-2026-7124 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setIpv6LanCfg addrPrefixLen os command injection](https://vuldb.com/vuln/359723)
+  - [CVE-2026-7125 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setWiFiEasyCfg merge os command injection](https://vuldb.com/vuln/359724)
+  - [CVE-2026-7126 | SourceCodester Pharmacy Sales and Inventory System 1.0 ajax.php?action=save_category ID sql injection](https://vuldb.com/vuln/359725)
+  - [CVE-2026-7127 | SourceCodester Pharmacy Sales and Inventory System 1.0 ajax.php?action=delete_receiving ID sql injection](https://vuldb.com/vuln/359726)
+  - [CVE-2026-7128 | SourceCodester Pharmacy Sales and Inventory System 1.0 ajax.php?action=save_type ID sql injection](https://vuldb.com/vuln/359727)
+  - [CVE-2026-7129 | SourceCodester Pharmacy Sales and Inventory System 1.0 index.php?page=categories ID cross site scripting](https://vuldb.com/vuln/359728)
+  - [CVE-2026-7130 | SourceCodester Pharmacy Sales and Inventory System 1.0 ajax.php?action=delete_category ID sql injection](https://vuldb.com/vuln/359729)
+  - [CVE-2026-7131 | code-projects Online Lot Reservation System up to 1.0 /loginuser.php email/password sql injection](https://vuldb.com/vuln/359730)
+  - [CVE-2026-7132 | code-projects Online Lot Reservation System up to 1.0 /download.php readfile File path traversal](https://vuldb.com/vuln/359731)
+  - [CVE-2026-7133 | code-projects Online Lot Reservation System 1.0 /activity.php directory unrestricted upload](https://vuldb.com/vuln/359732)
+  - [CVE-2026-7134 | code-projects Online Lot Reservation System 1.0 /edithousepic.php image unrestricted upload](https://vuldb.com/vuln/359733)
+  - [CVE-2026-7135 | GPAC up to 26.03-DEV-rev105-g8f39a1eb3-master MP4Box box_code_base.c elng_box_read elng out-of-bounds (Issue 3516)](https://vuldb.com/vuln/359734)
+  - [CVE-2026-7136 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setDmzCfg wanIdx os command injection](https://vuldb.com/vuln/359735)
+  - [CVE-2026-7137 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setStorageCfg sambaEnabled os command injection](https://vuldb.com/vuln/359736)
+  - [CVE-2026-7138 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setNtpCfg tz os command injection](https://vuldb.com/vuln/359737)
+  - [CVE-2026-7139 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setWiFiAclRules mode os command injection](https://vuldb.com/vuln/359738)
+  - [CVE-2026-7140 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi CsteSystem HTTP os command injection](https://vuldb.com/vuln/359739)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
