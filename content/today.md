@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【周末闲聊】王之蔑视](https://2libra.com/post/small-things/OlrJNMa)
+  - [【💰】?!广东人狂喜!?,自制蟑螂幸存者小游戏卵鞘危机 V1.0 版本发布,纯浏览器也能玩的肉鸽小游戏](https://2libra.com/post/personal-works/UfJ2Z_2)
   - [你“社死”过吗？从社死想到的语义磨损](https://2libra.com/post/social-observation/7XWJ25H)
   - [做了个在线拼多多组队拆福袋工具,快速换取折扣劵,快来!](https://2libra.com/post/sharing-discoveries/9ZYGN3N)
   - [大失败之后是不是就是 600 了](https://2libra.com/post/forum-function/vgf_SvF)
@@ -11,6 +12,7 @@
   - [DeepSeek-V4-Pro模型API官宣限时2.5折优惠](https://36kr.com/newsflashes/3782954220608512?f=rss)
   - [“海上高速路”再扩容，青岛港开通西非新集装箱航线](https://36kr.com/newsflashes/3783319954480131?f=rss)
   - [上海国际旅游度假区10年累计接待游客超1.8亿人次](https://36kr.com/newsflashes/3783320490630148?f=rss)
+  - [中信尼雅：股票可能被实施退市风险警示](https://36kr.com/newsflashes/3783354381081609?f=rss)
   - [中国长安汽车发布“海纳百川”计划2.0](https://36kr.com/newsflashes/3783123460988167?f=rss)
   - [乘联分会崔东树：1-3月中国汽车进口10万辆，同比增3%](https://36kr.com/newsflashes/3783278185389313?f=rss)
   - [京东启动AI硬件孵化计划](https://36kr.com/newsflashes/3783158630948103?f=rss)
@@ -20,11 +22,14 @@
   - [华泰证券：光纤光缆产业进入历史大周期](https://36kr.com/newsflashes/3782964689148937?f=rss)
   - [去年全国大型演唱会票房295.58亿](https://36kr.com/newsflashes/3783242589691144?f=rss)
   - [国信证券：结构上结合行业拥挤度均衡配置，重视科技成长主线、战略资源、以及白酒地产](https://36kr.com/newsflashes/3783131237653763?f=rss)
+  - [巨人网络：2025年营收超50亿元，同比增长72.69%](https://36kr.com/newsflashes/3783419369823240?f=rss)
+  - [恒宇信通：筹划购买神导科技100%股权，股票停牌](https://36kr.com/newsflashes/3783353736649734?f=rss)
   - [捷佳伟创：第一季度净利润同比下降61.83%](https://36kr.com/newsflashes/3783349951864065?f=rss)
   - [摩尔线程：一季报营收7.38亿元，同比增长155.35%](https://36kr.com/newsflashes/3783351447460869?f=rss)
   - [欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线](https://36kr.com/p/3783249100397570?f=rss)
   - [润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革](https://36kr.com/p/3782901034785801?f=rss)
   - [湖南AI中心落地湘江新区](https://36kr.com/newsflashes/3782957337926921?f=rss)
+  - [湖南黄金：第一季度净利润同比增长79.21%](https://36kr.com/newsflashes/3783353113598985?f=rss)
   - [申万宏源：一季度公募持仓聚焦科技硬件，增配能源安全产业链](https://36kr.com/newsflashes/3783130507025673?f=rss)
   - [申万宏源：市场超跌反弹后震荡休整或将延续，二季度关注5月关键事件验证](https://36kr.com/newsflashes/3783182326062085?f=rss)
   - [破解行李中转难题 民航新版指南明确全新保障模式](https://36kr.com/newsflashes/3783087154552067?f=rss)
@@ -63,6 +68,8 @@
   - [Your Email Inbox is Lying to You (And How to Catch It Red-Handed)](https://infosecwriteups.com/your-email-inbox-is-lying-to-you-and-how-to-catch-it-red-handed-7d42fbc62711?source=rss----7b722bfd1b8d---4)
 - johndcook.com
   - [Closed-form solution to the nonlinear pendulum equation](https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/)
+- Security Affairs
+  - [Security Affairs newsletter Round 574 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/191305/breaking-news/security-affairs-newsletter-round-574-by-pierluigi-paganini-international-edition.html)
 - simonwillison.net
   - [WHY ARE YOU LIKE THIS](https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -82,7 +89,9 @@
   - [The climate tech IPO window could finally be cracking open](https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/)
   - [Why Cohere is merging with Aleph Alpha](https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/)
 - The Decoder
+  - [AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue](https://the-decoder.com/ai-agents-arent-replacing-software-engineering-but-expanding-it-far-beyond-code-researchers-argue/)
   - [GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API](https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/)
+  - [Survey finds Claude's weekly active users in the US skew far wealthier than any rival AI assistant](https://the-decoder.com/survey-finds-claudes-weekly-active-users-in-the-us-skew-far-wealthier-than-any-rival-ai-assistant/)
 - The Verge
   - [An influx of used EVs could drive down prices](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices)
   - [Trump fires the entire National Science Board](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board)
@@ -109,6 +118,18 @@
   - [CVE-2026-7070 | code-projects Inventory Management System 1.0 Login Username sql injection](https://vuldb.com/vuln/359645)
   - [CVE-2026-7071 | CodeAstro Online Job Portal 1.0 /users/user-cvs/ file information disclosure](https://vuldb.com/vuln/359646)
   - [CVE-2026-7072 | CodePanda Source canteen_management_system 1.0 /api/login.php Username sql injection](https://vuldb.com/vuln/359647)
+  - [CVE-2026-7083 | likeadmin-likeshop likeadmin_php up to 1.9.6 dataTable Admin API DataTableLists.php queryResult sql injection](https://vuldb.com/vuln/359658)
+  - [CVE-2026-7084 | HBAI-Ltd Toonflow-app up to 1.1.1 getCodeByLink Endpoint getCodeByLink.ts fetch server-side request forgery (Issue 95)](https://vuldb.com/vuln/359659)
+  - [CVE-2026-7085 | HBAI-Ltd Toonflow-app up to 1.1.1 downloadApp Endpoint downloadApp.ts z.url path traversal (Issue 96)](https://vuldb.com/vuln/359660)
+  - [CVE-2026-7086 | HBAI-Ltd Toonflow-app up to 1.1.1 Storyboard Export replaceUrl.ts updateStoryboardUrl url path traversal (Issue 97)](https://vuldb.com/vuln/359661)
+  - [CVE-2026-7087 | SourceCodester Pharmacy Sales and Inventory System 1.0 ajax.php?action=save_sales ID sql injection](https://vuldb.com/vuln/359662)
+  - [CVE-2026-7088 | SourceCodester Pharmacy Sales and Inventory System 1.0 ajax.php?action=save_receiving ID sql injection](https://vuldb.com/vuln/359663)
+  - [CVE-2026-7089 | code-projects Home Service System 1.0 Appointment Booking /booking.php fname/lname cross site scripting](https://vuldb.com/vuln/359664)
+  - [CVE-2026-7090 | code-projects Chat System 1.0 Chat Interface /admin/send_message.php msg cross site scripting](https://vuldb.com/vuln/359665)
+  - [CVE-2026-7091 | code-projects Invoice System in Laravel 1.0 User Management /user improper authorization](https://vuldb.com/vuln/359666)
+  - [CVE-2026-7092 | code-projects Invoice System in Laravel 1.0 Profile /profile/ ID improper authorization](https://vuldb.com/vuln/359667)
+  - [CVE-2026-7093 | code-projects Invoice System in Laravel 1.0 Invoice Endpoint /invoice/ ID improper authorization](https://vuldb.com/vuln/359668)
+  - [CVE-2026-7094 | ShadowCloneLabs GlutamateMCPServers up to e2de73280b01e5d943593dd1aa2c01c5b9112f78 puppeteer_navigate src/puppeteer/index.ts url server-side request forgery](https://vuldb.com/vuln/359669)
 - Wired
   - [California Engineer Identified in Suspected Shooting at White House Correspondents' Dinner](https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/)
 - 不安全
@@ -125,4 +146,5 @@
   - [SpaceX、安杜里尔等12家公司获“金穹”合同](https://blog.upx8.com/SpaceX-%E5%AE%89%E6%9D%9C%E9%87%8C%E5%B0%94%E7%AD%8912%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%8E%B7-%E9%87%91%E7%A9%B9-%E5%90%88%E5%90%8C)
   - [北京禁令影响 大疆将全面下架无人机产品](https://blog.upx8.com/%E5%8C%97%E4%BA%AC%E7%A6%81%E4%BB%A4%E5%BD%B1%E5%93%8D-%E5%A4%A7%E7%96%86%E5%B0%86%E5%85%A8%E9%9D%A2%E4%B8%8B%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BA%A7%E5%93%81)
   - [维基媒体与印度尼西亚达成妥协以避免被屏蔽](https://blog.upx8.com/%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E4%B8%8E%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E8%BE%BE%E6%88%90%E5%A6%A5%E5%8D%8F%E4%BB%A5%E9%81%BF%E5%85%8D%E8%A2%AB%E5%B1%8F%E8%94%BD)
+  - [美国产原油运抵日本 中东局势恶化后尚属首次](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E4%BA%A7%E5%8E%9F%E6%B2%B9%E8%BF%90%E6%8A%B5%E6%97%A5%E6%9C%AC-%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E6%81%B6%E5%8C%96%E5%90%8E%E5%B0%9A%E5%B1%9E%E9%A6%96%E6%AC%A1)
   - [英伟达公司市值再次突破5万亿美元大关](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%85%AC%E5%8F%B8%E5%B8%82%E5%80%BC%E5%86%8D%E6%AC%A1%E7%AA%81%E7%A0%B45%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A7%E5%85%B3)
