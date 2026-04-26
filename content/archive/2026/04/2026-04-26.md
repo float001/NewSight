@@ -10,6 +10,7 @@
 - 36氪
   - [DeepSeek-V4-Pro模型API官宣限时2.5折优惠](https://36kr.com/newsflashes/3782954220608512?f=rss)
   - [中国长安汽车发布“海纳百川”计划2.0](https://36kr.com/newsflashes/3783123460988167?f=rss)
+  - [乘联分会崔东树：1-3月中国汽车进口10万辆，同比增3%](https://36kr.com/newsflashes/3783278185389313?f=rss)
   - [京东启动AI硬件孵化计划](https://36kr.com/newsflashes/3783158630948103?f=rss)
   - [俞敏洪回应东方甄选主播集体离职：是平台的损失](https://36kr.com/newsflashes/3783032831859712?f=rss)
   - [利亚德：将进一步推进沙特工厂建设，预计7月投产后将覆盖亚非拉及中东地区](https://36kr.com/newsflashes/3782972773080329?f=rss)
@@ -32,9 +33,12 @@
   - [长三角海铁联运提前14天突破百万标箱，同比增长11.3%](https://36kr.com/newsflashes/3783153957788680?f=rss)
 - Articles | InfoStealers
   - [Korean matchmaking service Duo fined over £600,000 over sensitive data leak from Infostealer infection](https://www.infostealers.com/article/korean-matchmaking-service-duo-fined-over-600000-over-sensitive-data-leak-from-infostealer-infection/)
+- defend.network
+  - [Daily Threat Briefing – April 26, 2026](https://defend.network/briefings/firestarter-cisco-firepower-persistence-2026-04-26.html)
 - Hacker News Frontpage
   - [Europe to burned American scientists: We'll take you in](https://www.politico.eu/article/europe-exploit-dunald-trump-brain-drain-academic-research-progressive-institutions/)
   - [The AI Industry Is Discovering That the Public Hates It](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
+  - [The West Forgot How to Make Things. Now It's Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
   - [Trump fires all 24 members of the U.S. National Science Foundation](https://www.science.org/content/article/trump-fires-nsf-s-oversight-board)
   - [Why Has There Been So Little Progress on Alzheimer's Disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)
 - idiallo.com
