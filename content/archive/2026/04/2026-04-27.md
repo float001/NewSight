@@ -8,12 +8,15 @@
   - [★ The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous](https://daringfireball.net/2026/04/nyt_wrong_crossword_grid)
 - Hacker News Frontpage
   - [An AI agent deleted our production database. The agent's confession is below](https://twitter.com/lifeof_jer/status/2048103471019434248)
+  - [Fast16: Cyberweapon that predates Stuxnet by five years](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
 - IT Service Management News
   - [Bozze standard ETSI per CRA](http://blog.cesaregallotti.it/2026/04/bozze-standard-etsi-per-cra.html)
 - Sploitus.com Exploits RSS Feed
   - [Advanced-AI-Recon-and-Exploit-Framework exploit](https://sploitus.com/exploit?id=2FC53BBC-FEED-522F-8B52-72FBD0BAB2CA&utm_source=rss&utm_medium=rss)
+  - [secureflow exploit](https://sploitus.com/exploit?id=223B7991-AEA3-53D7-8CE6-EC207C15BDFF&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [TechCrunch Mobility: Elon’s admission](https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/)
+  - [What Tim Cook built](https://techcrunch.com/2026/04/26/what-tim-cook-built/)
 - The Verge
   - [Google’s new gradient icon design is coming to more apps](https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps)
   - [Tomora’s Come Closer is an ecstatic love letter to 90s dance music](https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music)
@@ -40,5 +43,17 @@
   - [CVE-2026-7138 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setNtpCfg tz os command injection](https://vuldb.com/vuln/359737)
   - [CVE-2026-7139 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setWiFiAclRules mode os command injection](https://vuldb.com/vuln/359738)
   - [CVE-2026-7140 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi CsteSystem HTTP os command injection](https://vuldb.com/vuln/359739)
+  - [CVE-2026-7149 | dexhunter kaggle-mcp up to 406127ffcb2b91b8c10e20e6c2ca787fbc1dc92d src/kaggle_mcp/server.py prepare_kaggle_dataset competition_id path traversal](https://vuldb.com/vuln/359748)
+  - [CVE-2026-7150 | dh1011 auto-favicon up to f189116a9259950c2393f114dbcb94dde0ad864b MCP Tool server.py generate_favicon_from_url image_url server-side request forgery](https://vuldb.com/vuln/359749)
+  - [CVE-2026-7151 | Tenda HG3 2.0 /boaform/formIPv6Routing formUploadConfig destNet stack-based overflow](https://vuldb.com/vuln/359750)
+  - [CVE-2026-7152 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setTelnetCfg telnet_enabled os command injection](https://vuldb.com/vuln/359751)
+  - [CVE-2026-7153 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setMiniuiHomeInfoShow sys_info os command injection](https://vuldb.com/vuln/359752)
+  - [CVE-2026-7154 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setAdvancedInfoShow tty_server os command injection](https://vuldb.com/vuln/359753)
+  - [CVE-2026-7155 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setLoginPasswordCfg admpass os command injection](https://vuldb.com/vuln/359754)
+  - [CVE-2026-7156 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi CsteSystem HTTP os command injection](https://vuldb.com/vuln/359755)
+  - [CVE-2026-7157 | disler aider-mcp-server up to b2516fa466d0d851932da92ee6d0e66946db9efc aider_ai_code server.py relative_editable_files command injection](https://vuldb.com/vuln/359756)
+  - [CVE-2026-7158 | dmitryglhf mcp-url-downloader up to 4b8cf2de55f6e8864a77d108e8a94a5b8e4394c6 server.py _validate_url_safe url server-side request forgery](https://vuldb.com/vuln/359757)
+  - [CVE-2026-7159 | douinc mkdocs-mcp-plugin up to 0.4.1 server.py read_document/list_documents docs_dir/file_path path traversal](https://vuldb.com/vuln/359758)
+  - [CVE-2026-7160 | Tenda HG3 2.0 /boaform/formTracert datasize command injection](https://vuldb.com/vuln/359759)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
