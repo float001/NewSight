@@ -21,6 +21,7 @@
   - [Exploit for CVE-2026-41177 exploit](https://sploitus.com/exploit?id=76F1F456-F01E-53B3-924F-C403EB5A228A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-7020 exploit](https://sploitus.com/exploit?id=9A37C547-026D-5436-87C8-5559D3066E17&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo exploit](https://sploitus.com/exploit?id=3FB6634C-D5B2-5558-836C-394AF35624C1&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple exploit](https://sploitus.com/exploit?id=6BBAA2EA-B4E8-551D-B7CF-5498D322F8A1&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic created a test marketplace for agent-on-agent commerce](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)
   - [Maine’s governor vetoes data center moratorium](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/)
@@ -40,4 +41,6 @@
 - 阿小信的博客
   - [Ollama 命令速查手册：全命令参数、用法与实操指南](https://blog.axiaoxin.com/post/ollama-cmd-guide/)
 - 黑海洋
+  - [SpaceX、安杜里尔等12家公司获“金穹”合同](https://blog.upx8.com/SpaceX-%E5%AE%89%E6%9D%9C%E9%87%8C%E5%B0%94%E7%AD%8912%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%8E%B7-%E9%87%91%E7%A9%B9-%E5%90%88%E5%90%8C)
   - [维基媒体与印度尼西亚达成妥协以避免被屏蔽](https://blog.upx8.com/%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E4%B8%8E%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E8%BE%BE%E6%88%90%E5%A6%A5%E5%8D%8F%E4%BB%A5%E9%81%BF%E5%85%8D%E8%A2%AB%E5%B1%8F%E8%94%BD)
+  - [英伟达公司市值再次突破5万亿美元大关](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%85%AC%E5%8F%B8%E5%B8%82%E5%80%BC%E5%86%8D%E6%AC%A1%E7%AA%81%E7%A0%B45%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A7%E5%85%B3)
