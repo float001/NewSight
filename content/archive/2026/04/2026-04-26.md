@@ -91,6 +91,7 @@
   - [Exploit for CVE-2026-7020 exploit](https://sploitus.com/exploit?id=9A37C547-026D-5436-87C8-5559D3066E17&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo exploit](https://sploitus.com/exploit?id=3FB6634C-D5B2-5558-836C-394AF35624C1&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple exploit](https://sploitus.com/exploit?id=6BBAA2EA-B4E8-551D-B7CF-5498D322F8A1&utm_source=rss&utm_medium=rss)
+  - [exploit.se exploit](https://sploitus.com/exploit?id=FE8F1941-98B5-5B5F-9858-5962BE661263&utm_source=rss&utm_medium=rss)
   - [secops-ai-threat-analyzer exploit](https://sploitus.com/exploit?id=35870507-2E57-5481-9303-E928FC58CC69&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic created a test marketplace for agent-on-agent commerce](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)
@@ -102,9 +103,11 @@
   - [500 investment bankers review AI outputs and find none ready for client delivery](https://the-decoder.com/500-investment-bankers-review-ai-outputs-and-find-none-ready-for-client-delivery/)
   - [AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue](https://the-decoder.com/ai-agents-arent-replacing-software-engineering-but-expanding-it-far-beyond-code-researchers-argue/)
   - [GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API](https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/)
+  - [OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5](https://the-decoder.com/openai-kills-its-dedicated-coding-model-codex-again-folding-it-into-gpt-5-5/)
   - [OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline](https://the-decoder.com/openai-says-old-prompts-are-holding-gpt-5-5-back-and-developers-need-a-fresh-baseline/)
   - [Survey finds Claude's weekly active users in the US skew far wealthier than any rival AI assistant](https://the-decoder.com/survey-finds-claudes-weekly-active-users-in-the-us-skew-far-wealthier-than-any-rival-ai-assistant/)
 - The Verge
+  - [After three months on Linux, I don’t miss Windows at all](https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows)
   - [An influx of used EVs could drive down prices](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices)
   - [Trump fires the entire National Science Board](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board)
 - VulDB Recent Entries
