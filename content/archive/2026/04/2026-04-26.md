@@ -97,6 +97,7 @@
   - [Anthropic created a test marketplace for agent-on-agent commerce](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)
   - [Maine’s governor vetoes data center moratorium](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/)
   - [OpenAI CEO apologizes to Tumbler Ridge community](https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/)
+  - [SpeakOn’s dictation device is a good idea marred by platform limitations](https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/)
   - [The climate tech IPO window could finally be cracking open](https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/)
   - [Why Cohere is merging with Aleph Alpha](https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/)
 - The Decoder
@@ -129,6 +130,16 @@
   - [CVE-2018-25286 | Hdtune Easy PhotoResQ 1.0 folder/filename buffer overflow (Exploit 45300)](https://vuldb.com/vuln/359694)
   - [CVE-2018-25287 | Hdtune Drive Power Manager 1.10 Name buffer overflow (Exploit 45299)](https://vuldb.com/vuln/359695)
   - [CVE-2018-25288 | Editorsoftware StyleWriter 1.0 Advice Message buffer overflow (Exploit 45250)](https://vuldb.com/vuln/359696)
+  - [CVE-2018-25289 | Ezbsystems Softdisk 3.0.3 Registration Name buffer overflow (Exploit 45245)](https://vuldb.com/vuln/359700)
+  - [CVE-2018-25290 | Ezbsystems Easyboot 6.6.0 buffer overflow (Exploit 45241)](https://vuldb.com/vuln/359701)
+  - [CVE-2018-25291 | Pj64-Emu Project64 2.3.2 Directories Interface buffer overflow (Exploit 45229)](https://vuldb.com/vuln/359705)
+  - [CVE-2018-25292 | Bome Restorator 1793 Name buffer overflow (Exploit 45223)](https://vuldb.com/vuln/359702)
+  - [CVE-2018-25293 | Mersenne Prime95 29.4b7 optional proxy password buffer overflow (Exploit 45226)](https://vuldb.com/vuln/359703)
+  - [CVE-2018-25295 | P10 ObserverIP Scan Tool 1.4.0.1 memory allocation (Exploit 45204)](https://vuldb.com/vuln/359698)
+  - [CVE-2018-25296 | P10 Central Management Software 1.4.13 Password buffer overflow (Exploit 45207)](https://vuldb.com/vuln/359699)
+  - [CVE-2018-25297 | Wansview 1.0.2 Camera name/DID number buffer overflow (Exploit 45194)](https://vuldb.com/vuln/359704)
+  - [CVE-2026-40557 | Apache Storm Prometheus Reporter up to 2.8.6 certificate validation](https://vuldb.com/vuln/359706)
+  - [CVE-2026-41081 | Apache Storm Client up to 2.8.6 TLS Client Authentication Failure certificate validation](https://vuldb.com/vuln/359707)
   - [CVE-2026-41163 | containers bubblewrap 0.11.0/0.11.1 ptrace access control](https://vuldb.com/vuln/359625)
   - [CVE-2026-7045 | baomidou dynamic-datasource 2.5.0 StandardEvaluationContext/SpelExpressionParser DsSpelExpressionProcessor.java DsSpelExpressionProcessor#doDetermineDatasource injection (Issue 766)](https://vuldb.com/vuln/359624)
   - [CVE-2026-7053 | Tenda F456 1.0.0.5 httpd /goform/L7Prot frmL7ProtForm page buffer overflow](https://vuldb.com/vuln/359626)
@@ -171,6 +182,7 @@
   - [The Best Kindle Accessories (2026): Cases, Page Turners, Stickers](https://www.wired.com/story/best-kindle-accessories/)
   - [The Best Permanent Outdoor Lights (2026): Govee, Eufy, Cync](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)
   - [What Type of Mattress Is Right for You? (2026)](https://www.wired.com/story/mattress-types-explained/)
+  - [‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents' Dinner Shooting](https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/)
 - 不安全
   - [How to Learn Web & API Hacking in 2026: The Complete Roadmap](https://buaq.net/go-412785.html)
 - 代码审计星球
