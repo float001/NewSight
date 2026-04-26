@@ -8,6 +8,7 @@
   - [大失败之后是不是就是 600 了](https://2libra.com/post/forum-function/vgf_SvF)
   - [徽章获取现在有祝贺界面了？新增加的效果吗？](https://2libra.com/post/forum-function/UNdExeA)
   - [捣蛋鬼徽章导致评论的金币记录描述不正确](https://2libra.com/post/community/z1itCcE)
+  - [新版本为签到日历和金币页面新增了一些金币数据可视化](https://2libra.com/post/update-logs/F9cPFjR)
 - 36氪
   - [DeepSeek-V4-Pro模型API官宣限时2.5折优惠](https://36kr.com/newsflashes/3782954220608512?f=rss)
   - [ST西发：法院裁定受理重整 股票将被实施退市风险警示](https://36kr.com/newsflashes/3783425594465281?f=rss)
@@ -87,6 +88,7 @@
   - [Exploit for CVE-2026-7020 exploit](https://sploitus.com/exploit?id=9A37C547-026D-5436-87C8-5559D3066E17&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo exploit](https://sploitus.com/exploit?id=3FB6634C-D5B2-5558-836C-394AF35624C1&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple exploit](https://sploitus.com/exploit?id=6BBAA2EA-B4E8-551D-B7CF-5498D322F8A1&utm_source=rss&utm_medium=rss)
+  - [secops-ai-threat-analyzer exploit](https://sploitus.com/exploit?id=35870507-2E57-5481-9303-E928FC58CC69&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic created a test marketplace for agent-on-agent commerce](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)
   - [Maine’s governor vetoes data center moratorium](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/)
@@ -97,6 +99,7 @@
   - [500 investment bankers review AI outputs and find none ready for client delivery](https://the-decoder.com/500-investment-bankers-review-ai-outputs-and-find-none-ready-for-client-delivery/)
   - [AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue](https://the-decoder.com/ai-agents-arent-replacing-software-engineering-but-expanding-it-far-beyond-code-researchers-argue/)
   - [GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API](https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/)
+  - [OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline](https://the-decoder.com/openai-says-old-prompts-are-holding-gpt-5-5-back-and-developers-need-a-fresh-baseline/)
   - [Survey finds Claude's weekly active users in the US skew far wealthier than any rival AI assistant](https://the-decoder.com/survey-finds-claudes-weekly-active-users-in-the-us-skew-far-wealthier-than-any-rival-ai-assistant/)
 - The Verge
   - [An influx of used EVs could drive down prices](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices)
@@ -141,6 +144,7 @@
   - [California Engineer Identified in Suspected Shooting at White House Correspondents' Dinner](https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/)
   - [Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and (Mostly) Reliable](https://www.wired.com/review/della-optima-tp-series-mini-split-air-conditioner/)
   - [Ikea's New Blow-Up Chair Was Tested by Cats](https://www.wired.com/story/ikea-new-blow-up-chair-was-tested-by-cats/)
+  - [The Best Permanent Outdoor Lights (2026): Govee, Eufy, Cync](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)
   - [What Type of Mattress Is Right for You? (2026)](https://www.wired.com/story/mattress-types-explained/)
 - 不安全
   - [How to Learn Web & API Hacking in 2026: The Complete Roadmap](https://buaq.net/go-412785.html)
@@ -153,6 +157,7 @@
 - 阿小信的博客
   - [Ollama launch用法详解：Claude Code、Codex、Hermes Agent、OpenClaw、VS Code等主流工具集成一步到位，本地AI大模型多场景复用](https://blog.axiaoxin.com/post/ollama-integrations/)
   - [Ollama 命令速查手册：全命令参数、用法与实操指南](https://blog.axiaoxin.com/post/ollama-cmd-guide/)
+  - [本地大模型进阶｜Ollama Tool Calling完全教程：工具调用原理、实操与Agent循环实战](https://blog.axiaoxin.com/post/ollama-tool-calling/)
 - 黑海洋
   - [SpaceX、安杜里尔等12家公司获“金穹”合同](https://blog.upx8.com/SpaceX-%E5%AE%89%E6%9D%9C%E9%87%8C%E5%B0%94%E7%AD%8912%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%8E%B7-%E9%87%91%E7%A9%B9-%E5%90%88%E5%90%8C)
   - [北京禁令影响 大疆将全面下架无人机产品](https://blog.upx8.com/%E5%8C%97%E4%BA%AC%E7%A6%81%E4%BB%A4%E5%BD%B1%E5%93%8D-%E5%A4%A7%E7%96%86%E5%B0%86%E5%85%A8%E9%9D%A2%E4%B8%8B%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BA%A7%E5%93%81)
