@@ -2,6 +2,9 @@
 
 - 2Libra
   - [半夜饿了，去搞了碗糖水](https://2libra.com/post/small-things/YyZaFPm)
+- daringfireball.net
+  - [DF Paraphernalia: Last Call for This Round of T-Shirts and Hoodies](https://store.daringfireball.net/)
+  - [Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis](https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/)
 - Hacker News Frontpage
   - [An AI agent deleted our production database. The agent's confession is below](https://twitter.com/lifeof_jer/status/2048103471019434248)
 - IT Service Management News
