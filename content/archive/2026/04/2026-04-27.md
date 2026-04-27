@@ -2,12 +2,15 @@
 
 - 2Libra
   - [【原创笔记】鸡汤有毒：风筝并不需要逆风](https://2libra.com/post/workplace-stories/dZ1tX1Q)
+  - [【💰】【解梦】最近老是梦见骑电动车刹车刹不住，是什么情况](https://2libra.com/post/idea/aRV1yM5)
   - [【💰】大学生补剂推荐](https://2libra.com/post/health-consultation/poKwCHl)
+  - [今天上班发现有人已经请假了，直接请四天，然后直接休 11 天，居然没意识到这种玩法！](https://2libra.com/post/office-life/wQc78y3)
   - [半夜饿了，去搞了碗糖水](https://2libra.com/post/small-things/YyZaFPm)
   - [如何控制花钱？——长期主义（消费资产记录软件对比）](https://2libra.com/post/tools-sharing/6tp_cip)
 - 36氪
   - [8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整](https://36kr.com/p/3784311487945735?f=rss)
   - [A股三大指数开盘涨跌不一，白酒股走弱](https://36kr.com/newsflashes/3784395740929288?f=rss)
+  - [B站举办首届AI造物联赛，AI智能体搜索增长超500%](https://36kr.com/newsflashes/3784476665617673?f=rss)
   - [“中数睿智”完成亿元B轮融资](https://36kr.com/newsflashes/3784415697476867?f=rss)
   - [“固收+”基金规模突破3万亿元，年内增幅近18%](https://36kr.com/newsflashes/3784350956067847?f=rss)
   - [「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人](https://36kr.com/p/3784365164322055?f=rss)
@@ -32,17 +35,24 @@
   - [华泰证券港股策略：布局现金流确定性与产业确定性](https://36kr.com/newsflashes/3784298221149185?f=rss)
   - [华泰证券：A股情绪修复动能出现边际放缓的迹象](https://36kr.com/newsflashes/3784285805943812?f=rss)
   - [古尔曼：苹果CEO蒂姆·库克正将一条重要的产品线移交给继任者约翰·特努斯](https://36kr.com/newsflashes/3784255202467075?f=rss)
+  - [商务部：一季度我国批发和零售业增加值同比增长4.1%](https://36kr.com/newsflashes/3784479254453509?f=rss)
   - [国家统计局：1-3月份全国规模以上工业企业利润增长15.5%](https://36kr.com/newsflashes/3784401141177609?f=rss)
   - [国家统计局：一季度规模以上工业企业利润较快增长](https://36kr.com/newsflashes/3784402787294466?f=rss)
+  - [国家能源局：截至3月底我国电动汽车充电基础设施（枪）总数达到2148.1万个 同比增长46.9%](https://36kr.com/newsflashes/3784466482027777?f=rss)
+  - [国家能源局：截至3月底我国电动汽车充电基础设施（枪）总数达到2148.1万个 同比增长46.9%](https://36kr.com/newsflashes/3784466482208006?f=rss)
   - [外资公募展业竞争进入深水区，多家新机构正探索差异化发展路径](https://36kr.com/newsflashes/3784297762790405?f=rss)
   - [央行今日开展2185亿元人民币7天期逆回购操作](https://36kr.com/newsflashes/3784392528354307?f=rss)
   - [头部公募大举招兵买马，马太效应在人才端显现](https://36kr.com/newsflashes/3784314086071303?f=rss)
   - [审计机构接连“吹哨”，年报审计意见折射A股生态新变化](https://36kr.com/newsflashes/3784340300979461?f=rss)
+  - [小米汽车线控转向力反馈发明专利获授权](https://36kr.com/newsflashes/3784462286675201?f=rss)
+  - [小鹏汽车在广州成立新科技公司](https://36kr.com/newsflashes/3784442962156804?f=rss)
   - [工业金刚石企业密集上调价格](https://36kr.com/newsflashes/3784279969717253?f=rss)
   - [恒指平开，恒生科技指数开盘涨0.56%](https://36kr.com/newsflashes/3784392197938176?f=rss)
   - [恒生科技指数涨超1%](https://36kr.com/newsflashes/3784418791955717?f=rss)
   - [早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货](https://36kr.com/p/3783824870317312?f=rss)
+  - [晨光生物：叶黄素产品价格近期再次小幅上调，当前价格有望维持](https://36kr.com/newsflashes/3784452770880521?f=rss)
   - [汽车���部件企业“人形机器人”布局持续加码](https://36kr.com/newsflashes/3784366844157185?f=rss)
+  - [沪深两市成交额突破1.5万亿](https://36kr.com/newsflashes/3784483316505857?f=rss)
   - [深圳乐动机器人通过港交所上市聆讯](https://36kr.com/newsflashes/3784256727063811?f=rss)
   - [电装公司称正考虑撤回对罗姆的收购要约](https://36kr.com/newsflashes/3784325261450243?f=rss)
   - [瞄准政策风口，企业积极布局卫星互联网新基建](https://36kr.com/newsflashes/3784364064840709?f=rss)
@@ -71,6 +81,9 @@
   - [Fast16: Cyberweapon that predates Stuxnet by five years](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
   - [Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
   - [Show HN: Startup Equity Adventure Game](https://options-game-polymathrobotics.pythonanywhere.com/)
+- HackerNews
+  - [ç ”çŠśäşşĺ‘˜ĺ‘çŽ° â€œéœ‡ç˝‘â€ ç—…ćŻ’ĺ‰çš„ â€œfast16â€ ćść„č˝ŻäťśďźŒç›Žć ‡ä¸şĺˇĽç¨‹č˝Żäťś](http://0.0.0.0:8080/post/64178)
+  - [çžŽĺ›˝ĺ…Źç”¨äş‹ä¸šĺ…Źĺ¸ Itron ćŠŤéœ˛ĺ†…éƒ¨ IT ç˝‘çťœé­ĺ…Ľäžľ](http://0.0.0.0:8080/post/64179)
 - IT Service Management News
   - [Bozze standard ETSI per CRA](http://blog.cesaregallotti.it/2026/04/bozze-standard-etsi-per-cra.html)
 - Sploitus.com Exploits RSS Feed
@@ -81,6 +94,7 @@
   - [Amazon’s new podcast strategy: Monetize everything](https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/)
   - [TechCrunch Mobility: Elon’s admission](https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/)
   - [The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder](https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/)
+  - [Truecaller faces mounting pressures as its growth matures](https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/)
   - [What Tim Cook built](https://techcrunch.com/2026/04/26/what-tim-cook-built/)
 - The Verge
   - [Google’s new gradient icon design is coming to more apps](https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps)
@@ -122,11 +136,16 @@
   - [CVE-2026-7160 | Tenda HG3 2.0 /boaform/formTracert datasize command injection](https://vuldb.com/vuln/359759)
 - 不安全
   - [[教程] Rufus U盘启动Windows 11出现安全启动验证失败的解决方案](https://buaq.net/go-412886.html)
+  - [谷歌掌握着全球约1/4的AI算力](https://buaq.net/go-412896.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜曝苹果未来将进入10个全新品类/内存涨疯了，三星手机部门面临史上首次亏损/DeepSeek V4成龙虾默认模型](https://www.ifanr.com/1663888?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [巅峰加冕！绿盟科技强势斩获“黑客松-智能渗透挑战赛”第一](https://blog.nsfocus.net/%e5%b7%85%e5%b3%b0%e5%8a%a0%e5%86%95%ef%bc%81%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%bc%ba%e5%8a%bf%e6%96%a9%e8%8e%b7%e9%bb%91%e5%ae%a2%e6%9d%be-%e6%99%ba%e8%83%bd%e6%b8%97%e9%80%8f%e6%8c%91/)
+- 量子位 QbitAI
+  - [硅谷5月将迎“Science for AI”峰会，全球科学界及企业界“最强大脑”首次线下集结](https://www.qbitai.com/2026/04/407707.html)
+  - [诠释契约的力量，长城汽车全明星阵容登陆2026北京车展](https://www.qbitai.com/2026/04/407705.html)
 - 黑海洋
   - [研究警告人类逐渐减少说话 14年跌近28%](https://blog.upx8.com/%E7%A0%94%E7%A9%B6%E8%AD%A6%E5%91%8A%E4%BA%BA%E7%B1%BB%E9%80%90%E6%B8%90%E5%87%8F%E5%B0%91%E8%AF%B4%E8%AF%9D-14%E5%B9%B4%E8%B7%8C%E8%BF%9128)
+  - [谷歌掌握着全球约1/4的AI算力](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E6%8E%8C%E6%8F%A1%E7%9D%80%E5%85%A8%E7%90%83%E7%BA%A61-4%E7%9A%84AI%E7%AE%97%E5%8A%9B)
