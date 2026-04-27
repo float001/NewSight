@@ -6,10 +6,13 @@
   - [最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎](https://36kr.com/p/3784806758243587?f=rss)
 - 404 Media
   - [Did a Time Traveling Superintelligent AI Try to Warn About White House Correspondents Dinner Shooting? An Investigation](https://www.404media.co/did-a-time-traveling-superintelligent-ai-try-to-warn-about-white-house-correspondents-dinner-shooting-an-investigation/)
+  - [People Using AI to Represent Themselves in Court Are Clogging the System](https://www.404media.co/people-using-ai-to-represent-themselves-in-court-are-clogging-the-system/)
 - Ars Technica
   - [China kills Meta’s acquisition of Manus as US-China AI rivalry deepens](https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/)
 - daringfireball.net
   - [Yours Truly on The Vergecast](https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition)
+- Data Breach
+  - [Medtronic discloses security incident after ShinyHunters claimed theft of 9M+ records](https://securityaffairs.com/191391/cyber-crime/medtronic-discloses-security-incident-after-shinyhunters-claimed-theft-of-9m-records.html)
 - Der Flounder
   - [Managing Apple Intelligence settings for macOS using Blueprints in Jamf Pro](https://derflounder.wordpress.com/2026/04/27/managing-apple-intelligence-settings-for-macos-using-blueprints-in-jamf-pro/)
 - EFF
@@ -22,6 +25,7 @@
 - Swing'Blog 有恨无人省
   - [CVE-2026-41651 PackageKit TOCTOU 本地提权漏洞分析](https://bestwing.me/CVE-2026-41651-analysis.html)
 - TechCrunch
+  - [Consumers lost $2.1 billion to social media scams in 2025, FTC reports](https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/)
   - [DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data](https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/)
   - [Hacker who allegedly carried out cyberattacks for China is extradited to U.S.](https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/)
   - [Investors back Skye’s AI home screen app for iPhone ahead of launch](https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/)
@@ -56,5 +60,7 @@
   - [CVE-2026-7244 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setWiFiEasyGuestCfg merge os command injection](https://vuldb.com/vuln/359851)
   - [CVE-2026-7247 | D-Link DI-8100 16.07.26A1 File Extension file_exten.asp file_exten_asp Name buffer overflow](https://vuldb.com/vuln/359856)
   - [CVE-2026-7248 | D-Link DI-8100 16.07.26A1 CGI Endpoint tgfile.htm tgfile_htm fn buffer overflow](https://vuldb.com/vuln/359857)
+- Wired
+  - [Cole Allen Charged With Attempting to Assassinate Trump](https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
