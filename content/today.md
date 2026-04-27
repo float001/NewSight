@@ -3,7 +3,23 @@
 - 2Libra
   - [半夜饿了，去搞了碗糖水](https://2libra.com/post/small-things/YyZaFPm)
 - 36氪
+  - [8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整](https://36kr.com/p/3784311487945735?f=rss)
+  - [中信建投：DeepSeek V4等多模型更新，算力需求持续紧张](https://36kr.com/newsflashes/3784314297768965?f=rss)
+  - [中信证券：建议关注港股科技板块的投资机会](https://36kr.com/newsflashes/3784315171953667?f=rss)
+  - [公募重仓科技股创纪录，短期需警惕均值回归风险](https://36kr.com/newsflashes/3784292439055624?f=rss)
+  - [加州亿万富翁税已集齐法定签名，可纳入公投议程](https://36kr.com/newsflashes/3784267560180741?f=rss)
+  - [华泰证券港股策略：布局现金流确定性与产业确定性](https://36kr.com/newsflashes/3784298221149185?f=rss)
+  - [华泰证券：A股情绪修复动能出现边际放缓的迹象](https://36kr.com/newsflashes/3784285805943812?f=rss)
+  - [古尔曼：苹果CEO蒂姆·库克正将一条重要的产品线移交给继任者约翰·特努斯](https://36kr.com/newsflashes/3784255202467075?f=rss)
+  - [外资公募展业竞争进入深水区，多家新机构正探索差异化发展路径](https://36kr.com/newsflashes/3784297762790405?f=rss)
+  - [头部公募大举招兵买马，马太效应在人才端显现](https://36kr.com/newsflashes/3784314086071303?f=rss)
+  - [工业金刚石企业密集上调价格](https://36kr.com/newsflashes/3784279969717253?f=rss)
+  - [深圳乐动机器人通过港交所上市聆讯](https://36kr.com/newsflashes/3784256727063811?f=rss)
   - [美联储本周维持利率不变的概率为100%](https://36kr.com/newsflashes/3784252858932230?f=rss)
+  - [近千只主动权益基金净值创新高，科技浪潮成净值修复核心动力](https://36kr.com/newsflashes/3784314800479497?f=rss)
+  - [马斯克力图将X打造成超级应用，银行和支付功能预计很快推出](https://36kr.com/newsflashes/3784296664243209?f=rss)
+- Checkmarx.com
+  - [Checkmarx Security Update: April 26](https://checkmarx.com/blog/checkmarx-security-update-april-26/)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Insecure Permissions vulnerability in Nagios Network Analyzer v.2024R1.02-64 and before allows a local attacker to escalate pri](https://cxsecurity.com/issue/WLB-2026040019)
   - [Samsung ONE Integer Overflow in CircleConst Tensor Size Calculation](https://cxsecurity.com/issue/WLB-2026040018)
@@ -12,6 +28,8 @@
   - [DF Paraphernalia: Last Call for This Round of T-Shirts and Hoodies](https://store.daringfireball.net/)
   - [Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis](https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/)
   - [★ The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous](https://daringfireball.net/2026/04/nyt_wrong_crossword_grid)
+- Emergent Minds | paddo.dev
+  - [Compute Demands: Copilot Joins the Trilogy](https://paddo.dev/blog/copilot-tokenizes-trilogy/)
 - Hacker News Frontpage
   - [An AI agent deleted our production database. The agent's confession is below](https://twitter.com/lifeof_jer/status/2048103471019434248)
   - [Fast16: Cyberweapon that predates Stuxnet by five years](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
@@ -20,6 +38,7 @@
   - [Bozze standard ETSI per CRA](http://blog.cesaregallotti.it/2026/04/bozze-standard-etsi-per-cra.html)
 - Sploitus.com Exploits RSS Feed
   - [Advanced-AI-Recon-and-Exploit-Framework exploit](https://sploitus.com/exploit?id=2FC53BBC-FEED-522F-8B52-72FBD0BAB2CA&utm_source=rss&utm_medium=rss)
+  - [info-security-portfolio exploit](https://sploitus.com/exploit?id=600F488D-4037-5A7C-80CF-BD9C70C57099&utm_source=rss&utm_medium=rss)
   - [secureflow exploit](https://sploitus.com/exploit?id=223B7991-AEA3-53D7-8CE6-EC207C15BDFF&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon’s new podcast strategy: Monetize everything](https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/)
