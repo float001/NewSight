@@ -45,6 +45,7 @@
   - [一季度保险业保费收入同比增长6.2%](https://36kr.com/newsflashes/3784513118739464?f=rss)
   - [一季度全国新发放普惠型小微企业贷款平均利率3.64%](https://36kr.com/newsflashes/3784430340971528?f=rss)
   - [一季度经济大省“挑大梁”更有力，新质生产力加速释放增长动能](https://36kr.com/newsflashes/3784332604103683?f=rss)
+  - [万兴科技：2025年营收15.3亿元，归母净利减亏44.2%](https://36kr.com/newsflashes/3785054828911878?f=rss)
   - [上交所向正弦电气下发监管工作函](https://36kr.com/newsflashes/3784714488913152?f=rss)
   - [上海11家数据跨境服务中心正式成立](https://36kr.com/newsflashes/3784692040817669?f=rss)
   - [业绩排名压力与长期价值投资难权衡，部分基金经理调仓策略面临“言行背离”困境](https://36kr.com/newsflashes/3784360559614982?f=rss)
@@ -60,6 +61,7 @@
   - [中信证券：建议关注港股科技板块的投资机会](https://36kr.com/newsflashes/3784315171953667?f=rss)
   - [中信证券：支付清算层和基础模型层具备较强投资确定性](https://36kr.com/newsflashes/3784363152874761?f=rss)
   - [中国信通院：2026年3月国内市场手机出货量2115万部，其中5G手机占比93.0%](https://36kr.com/newsflashes/3784707405110529?f=rss)
+  - [中坚科技：因涉嫌信披违规被证监会立案](https://36kr.com/newsflashes/3785016631811081?f=rss)
   - [中电港：第一季度净利润1.58亿元，同比增长87.38%](https://36kr.com/newsflashes/3784879490030594?f=rss)
   - [中科创达推出滴水AIOS 2.1和Kanzi 4](https://36kr.com/newsflashes/3784526119279619?f=rss)
   - [中赋科技：计划以10亿元对价收购军科正源87%股权](https://36kr.com/newsflashes/3784501634407433?f=rss)
@@ -83,6 +85,7 @@
   - [加州亿万富翁税已集齐法定签名，可纳入公投议程](https://36kr.com/newsflashes/3784267560180741?f=rss)
   - [北京人工智能产投基金等入股新石器无人车关联公司](https://36kr.com/newsflashes/3784964389477377?f=rss)
   - [北京车展聚焦“全球化布局”，中国车企加速“驶向世界”](https://36kr.com/newsflashes/3784327272832263?f=rss)
+  - [千里科技：第一季度营收23.61亿元，同比增长31.37%](https://36kr.com/newsflashes/3785034706918660?f=rss)
   - [千问首发灰测HappyHorse模型](https://36kr.com/newsflashes/3784975155911686?f=rss)
   - [半日主力资金加仓电子板块，抛售国防军工板块](https://36kr.com/newsflashes/3784567068728577?f=rss)
   - [华泰证券港股策略：布局现金流确定性与产业确定性](https://36kr.com/newsflashes/3784298221149185?f=rss)
@@ -164,10 +167,12 @@
   - [源杰科技：一季度净利润1.79亿元，同比增长1153.07%](https://36kr.com/newsflashes/3784942429723650?f=rss)
   - [滴滴“五一”发放近4亿元司机补贴，打车优惠活动上线全国超200城](https://36kr.com/newsflashes/3784781634427905?f=rss)
   - [澜起科技：第一季度净利润8.47亿元，同比增长61.30%](https://36kr.com/newsflashes/3784926772976899?f=rss)
+  - [热门中概股美股盘前普跌，阿里巴巴跌超2%](https://36kr.com/newsflashes/3785076313283586?f=rss)
   - [现货白银日内涨超1%](https://36kr.com/newsflashes/3784534443924739?f=rss)
   - [电装公司称正考虑撤回对罗姆的收购要约](https://36kr.com/newsflashes/3784325261450243?f=rss)
   - [白银有色：2025年净亏损7.55亿元](https://36kr.com/newsflashes/3784983442840585?f=rss)
   - [百度文库网盘发布通用智能体GenFlow4.0](https://36kr.com/newsflashes/3784782506663172?f=rss)
+  - [盒马升级大区制，设立AI委员会](https://36kr.com/newsflashes/3785032906546183?f=rss)
   - [真爱美家：要约收购结果出炉，4月28日复牌](https://36kr.com/newsflashes/3784848320355333?f=rss)
   - [瞄准政策风口，企业积极布局卫星互联网新基建](https://36kr.com/newsflashes/3784364064840709?f=rss)
   - [科创50涨超4%](https://36kr.com/newsflashes/3784637201652994?f=rss)
@@ -179,10 +184,12 @@
   - [美团“小团”AI入口升级](https://36kr.com/newsflashes/3784855122844931?f=rss)
   - [美国法律界和预测市场一致认为，马斯克对OpenAI的诉讼胜算不高](https://36kr.com/newsflashes/3784686959598599?f=rss)
   - [美联储本周维持利率不变的概率为100%](https://36kr.com/newsflashes/3784252858932230?f=rss)
+  - [美股大型科技股盘前多数下跌，苹果跌超1%](https://36kr.com/newsflashes/3785074859416840?f=rss)
   - [腾讯QClaw发布版本更新：支持Hermes，接入DS-V4、Hy3 preview](https://36kr.com/newsflashes/3784568712436741?f=rss)
   - [英国大型企业普遍不清楚自身数据在海外被人工智能如何使用](https://36kr.com/newsflashes/3784861077986306?f=rss)
   - [英国央行本周召开货币政策会议，预计维持基准利率不变](https://36kr.com/newsflashes/3784832889461769?f=rss)
   - [药明康德：第一季度净利润46.52亿元，同比增长26.68%](https://36kr.com/newsflashes/3784822518308100?f=rss)
+  - [菜鸟拟发行公募 REITs，持续加大智慧物流建设](https://36kr.com/newsflashes/3785028031307008?f=rss)
   - [融捷股份：2026年第一季度净利润2.78亿元，同比增长1296.26%](https://36kr.com/newsflashes/3784845687938056?f=rss)
   - [谷歌将在韩国新建人工智能园区，韩国总统府证实](https://36kr.com/newsflashes/3784924206750979?f=rss)
   - [财政部：对穆迪作出维持中国主权信用评级并上调展望至“稳定”的决定表示赞赏](https://36kr.com/newsflashes/3784939646540809?f=rss)
@@ -195,6 +202,7 @@
   - [银河证券：4月下旬将成为验证盈利修复的关键窗口](https://36kr.com/newsflashes/3784344102837509?f=rss)
   - [锂电“淡季不淡”](https://36kr.com/newsflashes/3784341354634244?f=rss)
   - [长安汽车：阿维塔与深蓝开启全面战略协同](https://36kr.com/newsflashes/3784817830681608?f=rss)
+  - [阳光电源：第一季度净利润22.91亿元，同比下降40.12%](https://36kr.com/newsflashes/3785006082989061?f=rss)
   - [阿波罗将以18.2亿欧元企业价值收购Forvia的汽车内饰业务](https://36kr.com/newsflashes/3784696550759428?f=rss)
   - [阿里HappyHorse开启灰测](https://36kr.com/newsflashes/3784934646127623?f=rss)
   - [阿里巴巴：拟议分拆获香港联交所批准](https://36kr.com/newsflashes/3785021397114118?f=rss)
@@ -216,10 +224,14 @@
   - [DF Paraphernalia: Last Call for This Round of T-Shirts and Hoodies](https://store.daringfireball.net/)
   - [Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis](https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/)
   - [★ The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous](https://daringfireball.net/2026/04/nyt_wrong_crossword_grid)
+- darkreading
+  - [Parsing Agentic Offensive Security's Existential Threat](https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat)
 - defend.network
   - [Daily Threat Briefing – April 27, 2026](https://defend.network/briefings/firestarter-russian-tokens-chinese-apt-2026-04-27.html)
 - Emergent Minds | paddo.dev
   - [Compute Demands: Copilot Joins the Trilogy](https://paddo.dev/blog/copilot-tokenizes-trilogy/)
+- Google AI Blog
+  - [Join the new AI Agents Vibe Coding Course from Google and Kaggle](https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/)
 - Google DeepMind Blog
   - [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/)
 - Hacker News Frontpage
@@ -228,6 +240,7 @@
   - [Fast16: Cyberweapon that predates Stuxnet by five years](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
   - [Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
   - [It's OK to abandon your side-project](https://robbowen.digital/wrote-about/abandoned-side-projects/)
+  - [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac)
   - [Show HN: Startup Equity Adventure Game](https://options-game-polymathrobotics.pythonanywhere.com/)
   - [The Mushroom That Makes People Have the Exact Same Hallucination](https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/)
 - HackerNews
@@ -241,7 +254,9 @@
 - ICT Security Magazine
   - [NIS2 Enforcement Q1 2026: quando la compliance smette di essere un esercizio teorico](https://www.ictsecuritymagazine.com/articoli/nis2-enforcement-q1-2026/)
 - IEEE Spectrum
+  - [Engineering Collisions: How NYU Is Remaking Health Research](https://spectrum.ieee.org/nyu-health-research)
   - [Modeling and Simulation Approaches for Modern Power System Studies](https://content.knowledgehub.wiley.com/power-systems-studies-with-simulink-and-simscape-electrical/)
+  - [What Makes eVTOL Motors Different Than EV Motors?](https://spectrum.ieee.org/evtol-joby-jon-wagner-motors)
 - InfoSec Write-ups - Medium
   - [When Email Speaks to Machines](https://infosecwriteups.com/when-email-speaks-to-machines-5505922bb130?source=rss----7b722bfd1b8d---4)
   - [“Bug Bounty Bootcamp #36: SSRF Hands-On — Confirming the Server Makes the Request and Reading Local…](https://infosecwriteups.com/bug-bounty-bootcamp-36-ssrf-hands-on-confirming-the-server-makes-the-request-and-reading-local-7229cff03049?source=rss----7b722bfd1b8d---4)
@@ -253,6 +268,8 @@
   - [Bozze standard ETSI per CRA](http://blog.cesaregallotti.it/2026/04/bozze-standard-etsi-per-cra.html)
 - Max Kersten
   - [My impression of Botconf 2026](https://maxkersten.nl/2026/04/27/my-impression-of-botconf-2026/)
+- MIT Technology Review
+  - [The Download: DeepSeek’s latest AI breakthrough, and the race to build world models](https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/)
 - pluralistic.net
   - [Pluralistic: The enshittification multiverse (27 Apr 2026)](https://pluralistic.net/2026/04/27/analogs-and-analogies/)
 - Product Hunt
@@ -276,6 +293,7 @@
   - [xss exploit](https://sploitus.com/exploit?id=DA2F564D-33BB-59E8-AFA3-F5767E564DB4&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon’s new podcast strategy: Monetize everything](https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/)
+  - [Critical infrastructure giant Itron says it was hacked](https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/)
   - [Meta inks deal for solar power at night, beamed from space](https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/)
   - [Spotify’s next frontier: fitness content](https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content/)
   - [TechCrunch Mobility: Elon’s admission](https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/)
@@ -284,6 +302,7 @@
   - [What Tim Cook built](https://techcrunch.com/2026/04/26/what-tim-cook-built/)
 - The Decoder
   - [China blocks Meta's $2 billion acquisition of AI startup Manus](https://the-decoder.com/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus/)
+  - [Meta wants to power AI data centers with solar energy from space](https://the-decoder.com/meta-wants-to-power-ai-data-centers-with-solar-energy-from-space/)
   - [OpenAI reportedly developing its own smartphone chips with MediaTek and Qualcomm](https://the-decoder.com/openai-reportedly-developing-its-own-smartphone-chips-with-mediatek-and-qualcomm/)
   - [The company with a monopoly on AI's most critical machine is racing to build more](https://the-decoder.com/the-company-with-a-monopoly-on-ais-most-critical-machine-is-racing-to-build-more/)
 - The Verge
@@ -353,6 +372,7 @@
   - [What Is Ethernet? Everything You Need to Know About Wired Networks](https://www.wired.com/story/what-is-ethernet/)
 - 不安全
   - [[教程] Rufus U盘启动Windows 11出现安全启动验证失败的解决方案](https://buaq.net/go-412886.html)
+  - [China-Backed Groups are Using Massive Botnets in Espionage, Intrusion Campaigns](https://buaq.net/go-413001.html)
   - [“Bug Bounty Bootcamp #36: SSRF Hands-On — Confirming the Server Makes the Request and Reading Local…](https://buaq.net/go-412918.html)
   - [分析师称OpenAI将在2028年推出AI手机 完全由AI驱动而不是要用户安装各类应用](https://buaq.net/go-412922.html)
   - [谷歌掌握着全球约1/4的AI算力](https://buaq.net/go-412896.html)
@@ -362,6 +382,8 @@
   - [AI 成本可能高于人工成本](https://www.solidot.org/story?sid=84159)
   - [Linux 7.1-rc1 释出](https://www.solidot.org/story?sid=84157)
   - [切尔诺贝利灾难 40 年后](https://www.solidot.org/story?sid=84156)
+  - [发改委要求撤销对 Manus 的收购](https://www.solidot.org/story?sid=84161)
+  - [杀虫剂导致北美蝴蝶数量大减](https://www.solidot.org/story?sid=84162)
   - [调查称半数澳大利亚青少年仍然能访问社交媒体](https://www.solidot.org/story?sid=84155)
 - 爱范儿
   - [GPT-Image-2 现在最火的玩法：给人看手相，AI 把我夸飘了](https://www.ifanr.com/1663920?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -372,6 +394,7 @@
   - [早报｜曝苹果未来将进入10个全新品类/内存涨疯了，三星手机部门面临史上首次亏损/DeepSeek V4成龙虾默认模型](https://www.ifanr.com/1663888?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [盲猜要火！北京车展最帅「方盒子」找到了](https://www.ifanr.com/1663944?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [盲猜要火！北京车展最帅「方盒子」找到了](https://www.ifanr.com/1664047?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [这届年轻人用 AI 造的「新物种」：活过来的画框、会叹气的台灯、会写信的龟背竹……](https://www.ifanr.com/1664000?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [首发实测｜期待已久的HappyHorse 1.0，在千问能免费体验了](https://www.ifanr.com/1663891?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [AI赋能医疗卫生安全运营 以主动防御守护数智健康](https://blog.nsfocus.net/ai%e8%b5%8b%e8%83%bd%e5%8c%bb%e7%96%97%e5%8d%ab%e7%94%9f%e5%ae%89%e5%85%a8%e8%bf%90%e8%90%a5-%e4%bb%a5%e4%b8%bb%e5%8a%a8%e9%98%b2%e5%be%a1%e5%ae%88%e6%8a%a4%e6%95%b0%e6%99%ba%e5%81%a5%e5%ba%b7/)
@@ -393,6 +416,7 @@
   - [诠释契约的力量，长城汽车全明星阵容登陆2026北京车展](https://www.qbitai.com/2026/04/407705.html)
   - [车长5米3！华为乾崑奕境首款旗舰大六座SUV定名 X9](https://www.qbitai.com/2026/04/407908.html)
 - 黑海洋
+  - [ChatGPT参加东大和京大入学考试夺得头名](https://blog.upx8.com/ChatGPT%E5%8F%82%E5%8A%A0%E4%B8%9C%E5%A4%A7%E5%92%8C%E4%BA%AC%E5%A4%A7%E5%85%A5%E5%AD%A6%E8%80%83%E8%AF%95%E5%A4%BA%E5%BE%97%E5%A4%B4%E5%90%8D)
   - [Meta计划利用太空定向传输能源为数据中心供电](https://blog.upx8.com/Meta%E8%AE%A1%E5%88%92%E5%88%A9%E7%94%A8%E5%A4%AA%E7%A9%BA%E5%AE%9A%E5%90%91%E4%BC%A0%E8%BE%93%E8%83%BD%E6%BA%90%E4%B8%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E4%BE%9B%E7%94%B5)
   - [东京电子台湾子公司因台积电泄密案被判有罪](https://blog.upx8.com/%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%AD%90%E5%8F%B0%E6%B9%BE%E5%AD%90%E5%85%AC%E5%8F%B8%E5%9B%A0%E5%8F%B0%E7%A7%AF%E7%94%B5%E6%B3%84%E5%AF%86%E6%A1%88%E8%A2%AB%E5%88%A4%E6%9C%89%E7%BD%AA)
   - [中国信通院启动DeepSeek V4国产化适配测试工作](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E4%BF%A1%E9%80%9A%E9%99%A2%E5%90%AF%E5%8A%A8DeepSeek-V4%E5%9B%BD%E4%BA%A7%E5%8C%96%E9%80%82%E9%85%8D%E6%B5%8B%E8%AF%95%E5%B7%A5%E4%BD%9C)
