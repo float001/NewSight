@@ -4,9 +4,12 @@
   - [[产品派榜单] 这周榜单 AI 扎堆了？聊聊几个有意思的 AI 新玩意儿](https://2libra.com/post/sharing-discoveries/jvBLq1Y)
   - [OpenAI 将重新定义手机，联发科、Qualcomm 与立讯为该 AI agent 手机关键供应商](https://2libra.com/post/ai-trends/xVWJJDF)
   - [【原创笔记】鸡汤有毒：风筝并不需要逆风](https://2libra.com/post/workplace-stories/dZ1tX1Q)
+  - [【投票】(纯思维实验)100 亿 or 带记忆回到 8 岁](https://2libra.com/post/idea/_31fYdK)
   - [【💰】【解梦】最近老是梦见骑电动车刹车刹不住，是什么情况](https://2libra.com/post/idea/aRV1yM5)
   - [【💰】大学生补剂推荐](https://2libra.com/post/health-consultation/poKwCHl)
+  - [【💰】如果与 20 年前的某人联系上了，如何让自己从现在开始获得非常大的成功或财富？](https://2libra.com/post/brainstorming/m-l45iM)
   - [今天上班发现有人已经请假了，直接请四天，然后直接休 11 天，居然没意识到这种玩法！](https://2libra.com/post/office-life/wQc78y3)
+  - [兄弟们开心就好](https://2libra.com/post/slacking-off/2GE5W1Z)
   - [半夜饿了，去搞了碗糖水](https://2libra.com/post/small-things/YyZaFPm)
   - [如何控制花钱？——长期主义（消费资产记录软件对比）](https://2libra.com/post/tools-sharing/6tp_cip)
   - [新人报道](https://2libra.com/post/newcomer/K8oBfhv)
@@ -16,6 +19,7 @@
   - [8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整](https://36kr.com/p/3784311487945735?f=rss)
   - [A股三大指数午间休盘涨跌不一，汽车股领涨](https://36kr.com/newsflashes/3784519385095176?f=rss)
   - [A股三大指数开盘涨跌不一，白酒股走弱](https://36kr.com/newsflashes/3784395740929288?f=rss)
+  - [A股三大指数收盘涨跌不一，芯片产业链爆发](https://36kr.com/newsflashes/3784725822758144?f=rss)
   - [B站举办首届AI造物联赛，AI智能体搜索增长超500%](https://36kr.com/newsflashes/3784476665617673?f=rss)
   - [QFII一季度新进增持440余股](https://36kr.com/newsflashes/3784597011897600?f=rss)
   - [“中数睿智”完成亿元B轮融资](https://36kr.com/newsflashes/3784415697476867?f=rss)
@@ -25,6 +29,8 @@
   - [一季度保险业保费收入同比增长6.2%](https://36kr.com/newsflashes/3784513118739464?f=rss)
   - [一季度全国新发放普惠型小微企业贷款平均利率3.64%](https://36kr.com/newsflashes/3784430340971528?f=rss)
   - [一季度经济大省“挑大梁”更有力，新质生产力加速释放增长动能](https://36kr.com/newsflashes/3784332604103683?f=rss)
+  - [上交所向正弦电气下发监管工作函](https://36kr.com/newsflashes/3784714488913152?f=rss)
+  - [上海11家数据跨境服务中心正式成立](https://36kr.com/newsflashes/3784692040817669?f=rss)
   - [业绩排名压力与长期价值投资难权衡，部分基金经理调仓策略面临“言行背离”困境](https://36kr.com/newsflashes/3784360559614982?f=rss)
   - [东南电子：证券事务代表张祎鹏因个人原因辞职](https://36kr.com/newsflashes/3784563263167495?f=rss)
   - [两市融资余额减少112.38亿元](https://36kr.com/newsflashes/3784357662530824?f=rss)
@@ -35,6 +41,7 @@
   - [中信证券：半导体硅片再迎上行周期](https://36kr.com/newsflashes/3784327482235907?f=rss)
   - [中信证券：建议关注港股科技板块的投资机会](https://36kr.com/newsflashes/3784315171953667?f=rss)
   - [中信证券：支付清算层和基础模型层具备较强投资确定性](https://36kr.com/newsflashes/3784363152874761?f=rss)
+  - [中国信通院：2026年3月国内市场手机出货量2115万部，其中5G手机占比93.0%](https://36kr.com/newsflashes/3784707405110529?f=rss)
   - [中科创达推出滴水AIOS 2.1和Kanzi 4](https://36kr.com/newsflashes/3784526119279619?f=rss)
   - [中赋科技：计划以10亿元对价收购军科正源87%股权](https://36kr.com/newsflashes/3784501634407433?f=rss)
   - [丰田汽车3月全球销量同比下降7.3%](https://36kr.com/newsflashes/3784608213064710?f=rss)
@@ -55,6 +62,7 @@
   - [国家统计局：一季度规模以上工业企业利润较快增长](https://36kr.com/newsflashes/3784402787294466?f=rss)
   - [国家能源局：一季度国内油气供应总体平稳有序](https://36kr.com/newsflashes/3784501016402947?f=rss)
   - [国家能源局：一季度氢能、煤制油气、新型储能等领域投资加快释放](https://36kr.com/newsflashes/3784503813102596?f=rss)
+  - [国家能源局：多用户绿电直连相关政策将于近期发布](https://36kr.com/newsflashes/3784713441319941?f=rss)
   - [国家能源局：将围绕重卡充电等应用场景，进一步推动充电设施扩规模、提质效](https://36kr.com/newsflashes/3784580979481608?f=rss)
   - [国家能源局：截至3月底我国电动汽车充电基础设施（枪）总数达到2148.1万个 同比增长46.9%](https://36kr.com/newsflashes/3784466482027777?f=rss)
   - [国家能源局：截至3月底我国电动汽车充电基础设施（枪）总数达到2148.1万个 同比增长46.9%](https://36kr.com/newsflashes/3784466482208006?f=rss)
@@ -84,6 +92,10 @@
   - [电装公司称正考虑撤回对罗姆的收购要约](https://36kr.com/newsflashes/3784325261450243?f=rss)
   - [瞄准政策风口，企业积极布局卫星互联网新基建](https://36kr.com/newsflashes/3784364064840709?f=rss)
   - [科创50涨超4%](https://36kr.com/newsflashes/3784637201652994?f=rss)
+  - [经合组织：韩国潜在经济增长率明年底降至1.52%](https://36kr.com/newsflashes/3784685755685897?f=rss)
+  - [网传公司给DeepSeek提供算力服务？浙数文化：与DeepSeek未开展业务合作](https://36kr.com/newsflashes/3784677387001091?f=rss)
+  - [网易有道云笔记推出“LLM Wiki”技能套件](https://36kr.com/newsflashes/3784722022538241?f=rss)
+  - [美国法律界和预测市场一致认为，马斯克对OpenAI的诉讼胜算不高](https://36kr.com/newsflashes/3784686959598599?f=rss)
   - [美联储本周维持利率不变的概率为100%](https://36kr.com/newsflashes/3784252858932230?f=rss)
   - [腾讯QClaw发布版本更新：支持Hermes，接入DS-V4、Hy3 preview](https://36kr.com/newsflashes/3784568712436741?f=rss)
   - [贾国龙天边的焖面关联公司企业名称接连变更](https://36kr.com/newsflashes/3784522732821511?f=rss)
@@ -92,6 +104,7 @@
   - [配置占比近半，险资大举掘金机构间REITs](https://36kr.com/newsflashes/3784335738280961?f=rss)
   - [银河证券：4月下旬将成为验证盈利修复的关键窗口](https://36kr.com/newsflashes/3784344102837509?f=rss)
   - [锂电“淡季不淡”](https://36kr.com/newsflashes/3784341354634244?f=rss)
+  - [阿波罗将以18.2亿欧元企业价值收购Forvia的汽车内饰业务](https://36kr.com/newsflashes/3784696550759428?f=rss)
   - [需求能见度提升，光模块景气持续性超预期](https://36kr.com/newsflashes/3784353163402249?f=rss)
   - [面壁智能发布SuperMate端侧智能座舱方案的全新升级版本](https://36kr.com/newsflashes/3784425478183939?f=rss)
   - [韩国上市公司总市值首次突破6000万亿韩元](https://36kr.com/newsflashes/3784609506876676?f=rss)
@@ -108,8 +121,12 @@
   - [DF Paraphernalia: Last Call for This Round of T-Shirts and Hoodies](https://store.daringfireball.net/)
   - [Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis](https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/)
   - [★ The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous](https://daringfireball.net/2026/04/nyt_wrong_crossword_grid)
+- defend.network
+  - [Daily Threat Briefing – April 27, 2026](https://defend.network/briefings/firestarter-russian-tokens-chinese-apt-2026-04-27.html)
 - Emergent Minds | paddo.dev
   - [Compute Demands: Copilot Joins the Trilogy](https://paddo.dev/blog/copilot-tokenizes-trilogy/)
+- Google DeepMind Blog
+  - [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/)
 - Hacker News Frontpage
   - [AI can cost more than human workers now](https://www.axios.com/2026/04/26/ai-cost-human-workers)
   - [An AI agent deleted our production database. The agent's confession is below](https://twitter.com/lifeof_jer/status/2048103471019434248)
@@ -128,10 +145,15 @@
   - [“Bug Bounty Bootcamp #36: SSRF Hands-On — Confirming the Server Makes the Request and Reading Local…](https://infosecwriteups.com/bug-bounty-bootcamp-36-ssrf-hands-on-confirming-the-server-makes-the-request-and-reading-local-7229cff03049?source=rss----7b722bfd1b8d---4)
 - IT Service Management News
   - [Bozze standard ETSI per CRA](http://blog.cesaregallotti.it/2026/04/bozze-standard-etsi-per-cra.html)
+- Product Hunt
+  - [Subgrapher](https://www.producthunt.com/products/subgrapher)
+- Security Affairs
+  - [U.S. utility giant Itron discloses a security breach](https://securityaffairs.com/191360/data-breach/u-s-utility-giant-itron-discloses-a-security-breach.html)
 - Sploitus.com Exploits RSS Feed
   - [Advanced-AI-Recon-and-Exploit-Framework exploit](https://sploitus.com/exploit?id=2FC53BBC-FEED-522F-8B52-72FBD0BAB2CA&utm_source=rss&utm_medium=rss)
   - [info-security-portfolio exploit](https://sploitus.com/exploit?id=600F488D-4037-5A7C-80CF-BD9C70C57099&utm_source=rss&utm_medium=rss)
   - [secureflow exploit](https://sploitus.com/exploit?id=223B7991-AEA3-53D7-8CE6-EC207C15BDFF&utm_source=rss&utm_medium=rss)
+  - [unicas_docker_exploit exploit](https://sploitus.com/exploit?id=B79EAC15-9629-5995-83AC-ECB654E634C7&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon’s new podcast strategy: Monetize everything](https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/)
   - [TechCrunch Mobility: Elon’s admission](https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/)
@@ -196,8 +218,11 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Linux 7.1-rc1 释出](https://www.solidot.org/story?sid=84157)
+  - [切尔诺贝利灾难 40 年后](https://www.solidot.org/story?sid=84156)
   - [调查称半数澳大利亚青少年仍然能访问社交媒体](https://www.solidot.org/story?sid=84155)
 - 爱范儿
+  - [GPT-Image-2 现在最火的玩法：给人看手相，AI 把我夸飘了](https://www.ifanr.com/1663920?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [smart 精灵 6 号开启预售：从城市小车到豪华掀背，smart 变大了，也变得更复杂了丨北京车展](https://www.ifanr.com/1663929?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，OpenAI 手机曝光！2028 年量产](https://www.ifanr.com/1663916?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [所有人都在骂爱奇艺AI艺人库，但他们压根不需要你喜欢](https://www.ifanr.com/1663082?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -205,9 +230,17 @@
 - 绿盟科技技术博客
   - [巅峰加冕！绿盟科技强势斩获“黑客松-智能渗透挑战赛”第一](https://blog.nsfocus.net/%e5%b7%85%e5%b3%b0%e5%8a%a0%e5%86%95%ef%bc%81%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%bc%ba%e5%8a%bf%e6%96%a9%e8%8e%b7%e9%bb%91%e5%ae%a2%e6%9d%be-%e6%99%ba%e8%83%bd%e6%b8%97%e9%80%8f%e6%8c%91/)
 - 量子位 QbitAI
+  - [B站官宣首届AI造物联赛 打破传统黑客马拉松模式](https://www.qbitai.com/2026/04/407917.html)
   - [DeepSeek V4永久降价！缓存命中再打1折，实测编程成本骤降83%](https://www.qbitai.com/2026/04/407850.html)
+  - [Token驱动未来，城市如何抢占算力新赛道？](https://www.qbitai.com/2026/04/407960.html)
+  - [一台中国空间相机，打破索尼富士Adobe的影像垄断](https://www.qbitai.com/2026/04/407915.html)
+  - [世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast](https://www.qbitai.com/2026/04/407972.html)
   - [硅谷5月将迎“Science for AI”峰会，全球科学界及企业界“最强大脑”首次线下集结](https://www.qbitai.com/2026/04/407707.html)
+  - [自主AI汽车芯片「一姐」出手，机器人终于有了专属「小脑」](https://www.qbitai.com/2026/04/407975.html)
   - [诠释契约的力量，长城汽车全明星阵容登陆2026北京车展](https://www.qbitai.com/2026/04/407705.html)
+  - [车长5米3！华为乾崑奕境首款旗舰大六座SUV定名 X9](https://www.qbitai.com/2026/04/407908.html)
 - 黑海洋
+  - [东京电子台湾子公司因台积电泄密案被判有罪](https://blog.upx8.com/%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%AD%90%E5%8F%B0%E6%B9%BE%E5%AD%90%E5%85%AC%E5%8F%B8%E5%9B%A0%E5%8F%B0%E7%A7%AF%E7%94%B5%E6%B3%84%E5%AF%86%E6%A1%88%E8%A2%AB%E5%88%A4%E6%9C%89%E7%BD%AA)
+  - [深度求索打价格战：百万Token输入0.25元](https://blog.upx8.com/%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%E6%89%93%E4%BB%B7%E6%A0%BC%E6%88%98-%E7%99%BE%E4%B8%87Token%E8%BE%93%E5%85%A50-25%E5%85%83)
   - [研究警告人类逐渐减少说话 14年跌近28%](https://blog.upx8.com/%E7%A0%94%E7%A9%B6%E8%AD%A6%E5%91%8A%E4%BA%BA%E7%B1%BB%E9%80%90%E6%B8%90%E5%87%8F%E5%B0%91%E8%AF%B4%E8%AF%9D-14%E5%B9%B4%E8%B7%8C%E8%BF%9128)
   - [谷歌掌握着全球约1/4的AI算力](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E6%8E%8C%E6%8F%A1%E7%9D%80%E5%85%A8%E7%90%83%E7%BA%A61-4%E7%9A%84AI%E7%AE%97%E5%8A%9B)
