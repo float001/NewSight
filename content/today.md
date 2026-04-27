@@ -275,6 +275,7 @@
   - [BlackFile Group Targets Retail and Hospitality with Vishing Attacks](https://www.infosecurity-magazine.com/news/blackfile-group-targets-retail/)
   - [Most Cybersecurity  Professionals Feel Undervalued and Underpaid](https://www.infosecurity-magazine.com/news/cybersecurity-pros-feel/)
   - [Researchers Identify Fast16 Sabotage Malware That Pre-Dates Stuxnet](https://www.infosecurity-magazine.com/news/fast16-sabotage-malware-winds/)
+  - [US Sanctions Target Cambodian Scam Network Leaders](https://www.infosecurity-magazine.com/news/us-sanctions-cambodian-scam-network/)
   - [Utilities Tech Supplier Itron Discloses Cyber-Attack, Operations Unaffected](https://www.infosecurity-magazine.com/news/utilities-tech-supplier-itron/)
   - [Widely Used Browser Extensions Selling User Data](https://www.infosecurity-magazine.com/news/browser-extensions-sell-user-data/)
 - IT Service Management News
@@ -320,16 +321,20 @@
   - [The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder](https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/)
   - [Truecaller faces mounting pressures as its growth matures](https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/)
   - [What Tim Cook built](https://techcrunch.com/2026/04/26/what-tim-cook-built/)
+  - [What’s behind Europe’s efforts to ditch US software in favor of sovereign tech](https://techcrunch.com/2026/04/27/whats-behind-europes-efforts-to-ditch-u-s-software-in-favor-of-sovereign-tech/)
 - The Decoder
   - [China blocks Meta's $2 billion acquisition of AI startup Manus](https://the-decoder.com/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus/)
   - [Meta wants to power AI data centers with solar energy from space](https://the-decoder.com/meta-wants-to-power-ai-data-centers-with-solar-energy-from-space/)
+  - [OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause](https://the-decoder.com/openai-and-microsoft-rewrite-their-deal-no-more-exclusivity-no-more-agi-clause/)
   - [OpenAI reportedly developing its own smartphone chips with MediaTek and Qualcomm](https://the-decoder.com/openai-reportedly-developing-its-own-smartphone-chips-with-mediatek-and-qualcomm/)
   - [The company with a monopoly on AI's most critical machine is racing to build more](https://the-decoder.com/the-company-with-a-monopoly-on-ais-most-critical-machine-is-racing-to-build-more/)
 - The Verge
   - [Amazon snaps up Oprah Winfrey’s podcast](https://www.theverge.com/tech/918962/amazon-wondery-oprah-podcast-show)
+  - [Canva apologizes after its AI tool replaces ‘Palestine’ in designs](https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine)
   - [Google’s new gradient icon design is coming to more apps](https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps)
   - [That UL safety logo is a lot more complicated than it looks](https://www.theverge.com/podcast/918082/ul-testing-fire-safety-ai-standards-jennifer-scanlon)
   - [The AI-designed car is taking shape](https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept)
+  - [The Verge’s 2026 Mother’s Day gift guide](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)
   - [This touchscreen mouse is my over-engineering nightmare](https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series)
   - [Tomora’s Come Closer is an ecstatic love letter to 90s dance music](https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music)
   - [Trump turns the WHCD shooting into a pitch for the White House ballroom](https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom)
@@ -400,6 +405,7 @@
   - [CVE-2026-7178 | ChatGPTNextWeb NextChat up to 2.16.1 Artifacts Endpoint route.ts storeUrl ID server-side request forgery (Issue 6741)](https://vuldb.com/vuln/359780)
   - [CVE-2026-7179 | OSPG binwalk up to 2.4.3 WinCE Extraction Plugin winceextract.py read_null_terminated_string self.file_name path traversal](https://vuldb.com/vuln/359781)
   - [CVE-2026-7194 | SourceCodester Pharmacy Sales and Inventory System 1.0 ajax.php?action=save_product ID sql injection](https://vuldb.com/vuln/359798)
+  - [CVE-2026-7206 | dubydu sqlite-mcp up to 0.1.0 src/entry.py extract_to_json output_filename sql injection](https://vuldb.com/vuln/359806)
 - Wired
   - [Pokémon 30th Anniversary Collabs—What You Can Still Buy and What’s Coming](https://www.wired.com/story/pokemon-30th-anniversary-collabs/)
   - [The Iran War Is Impacting the Environment in Unseen Ways](https://www.wired.com/story/war-on-iran-unseen-impact-on-environment/)
@@ -409,6 +415,7 @@
 - 不安全
   - [[教程] Rufus U盘启动Windows 11出现安全启动验证失败的解决方案](https://buaq.net/go-412886.html)
   - [China-Backed Groups are Using Massive Botnets in Espionage, Intrusion Campaigns](https://buaq.net/go-413001.html)
+  - [Ten Great Cybersecurity Job Opportunities](https://buaq.net/go-413030.html)
   - [“Bug Bounty Bootcamp #36: SSRF Hands-On — Confirming the Server Makes the Request and Reading Local…](https://buaq.net/go-412918.html)
   - [分析师称OpenAI将在2028年推出AI手机 完全由AI驱动而不是要用户安装各类应用](https://buaq.net/go-412922.html)
   - [谷歌掌握着全球约1/4的AI算力](https://buaq.net/go-412896.html)
