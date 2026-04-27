@@ -1,19 +1,25 @@
 # 今日安全资讯（2026-04-27）
 
 - 2Libra
+  - [[产品派榜单] 这周榜单 AI 扎堆了？聊聊几个有意思的 AI 新玩意儿](https://2libra.com/post/sharing-discoveries/jvBLq1Y)
+  - [OpenAI 将重新定义手机，联发科、Qualcomm 与立讯为该 AI agent 手机关键供应商](https://2libra.com/post/ai-trends/xVWJJDF)
   - [【原创笔记】鸡汤有毒：风筝并不需要逆风](https://2libra.com/post/workplace-stories/dZ1tX1Q)
   - [【💰】【解梦】最近老是梦见骑电动车刹车刹不住，是什么情况](https://2libra.com/post/idea/aRV1yM5)
   - [【💰】大学生补剂推荐](https://2libra.com/post/health-consultation/poKwCHl)
   - [今天上班发现有人已经请假了，直接请四天，然后直接休 11 天，居然没意识到这种玩法！](https://2libra.com/post/office-life/wQc78y3)
   - [半夜饿了，去搞了碗糖水](https://2libra.com/post/small-things/YyZaFPm)
   - [如何控制花钱？——长期主义（消费资产记录软件对比）](https://2libra.com/post/tools-sharing/6tp_cip)
+  - [新人报道](https://2libra.com/post/newcomer/K8oBfhv)
+  - [还有 200 天就过年了，问一下大家存到钱了吗?](https://2libra.com/post/personal-life/iD8dPDr)
 - 36氪
   - [8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整](https://36kr.com/p/3784311487945735?f=rss)
+  - [A股三大指数午间休盘涨跌不一，汽车股领涨](https://36kr.com/newsflashes/3784519385095176?f=rss)
   - [A股三大指数开盘涨跌不一，白酒股走弱](https://36kr.com/newsflashes/3784395740929288?f=rss)
   - [B站举办首届AI造物联赛，AI智能体搜索增长超500%](https://36kr.com/newsflashes/3784476665617673?f=rss)
   - [“中数睿智”完成亿元B轮融资](https://36kr.com/newsflashes/3784415697476867?f=rss)
   - [“固收+”基金规模突破3万亿元，年内增幅近18%](https://36kr.com/newsflashes/3784350956067847?f=rss)
   - [「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人](https://36kr.com/p/3784365164322055?f=rss)
+  - [一季度保险业保费收入同比增长6.2%](https://36kr.com/newsflashes/3784513118739464?f=rss)
   - [一季度全国新发放普惠型小微企业贷款平均利率3.64%](https://36kr.com/newsflashes/3784430340971528?f=rss)
   - [一季度经济大省“挑大梁”更有力，新质生产力加速释放增长动能](https://36kr.com/newsflashes/3784332604103683?f=rss)
   - [业绩排名压力与长期价值投资难权衡，部分基金经理调仓策略面临“言行背离”困境](https://36kr.com/newsflashes/3784360559614982?f=rss)
@@ -25,6 +31,8 @@
   - [中信证券：半导体硅片再迎上行周期](https://36kr.com/newsflashes/3784327482235907?f=rss)
   - [中信证券：建议关注港股科技板块的投资机会](https://36kr.com/newsflashes/3784315171953667?f=rss)
   - [中信证券：支付清算层和基础模型层具备较强投资确定性](https://36kr.com/newsflashes/3784363152874761?f=rss)
+  - [中科创达推出滴水AIOS 2.1和Kanzi 4](https://36kr.com/newsflashes/3784526119279619?f=rss)
+  - [中赋科技：计划以10亿元对价收购军科正源87%股权](https://36kr.com/newsflashes/3784501634407433?f=rss)
   - [人民币兑美元中间价报6.8579](https://36kr.com/newsflashes/3784385645403136?f=rss)
   - [供需刚性缺口增大，光纤行业量价齐升](https://36kr.com/newsflashes/3784348203310083?f=rss)
   - [公募重仓科技股创纪录，短期需警惕均值回归风险](https://36kr.com/newsflashes/3784292439055624?f=rss)
@@ -38,6 +46,8 @@
   - [商务部：一季度我国批发和零售业增加值同比增长4.1%](https://36kr.com/newsflashes/3784479254453509?f=rss)
   - [国家统计局：1-3月份全国规模以上工业企业利润增长15.5%](https://36kr.com/newsflashes/3784401141177609?f=rss)
   - [国家统计局：一季度规模以上工业企业利润较快增长](https://36kr.com/newsflashes/3784402787294466?f=rss)
+  - [国家能源局：一季度国内油气供应总体平稳有序](https://36kr.com/newsflashes/3784501016402947?f=rss)
+  - [国家能源局：一季度氢能、煤制油气、新型储能等领域投资加快释放](https://36kr.com/newsflashes/3784503813102596?f=rss)
   - [国家能源局：截至3月底我国电动汽车充电基础设施（枪）总数达到2148.1万个 同比增长46.9%](https://36kr.com/newsflashes/3784466482027777?f=rss)
   - [国家能源局：截至3月底我国电动汽车充电基础设施（枪）总数达到2148.1万个 同比增长46.9%](https://36kr.com/newsflashes/3784466482208006?f=rss)
   - [外资公募展业竞争进入深水区，多家新机构正探索差异化发展路径](https://36kr.com/newsflashes/3784297762790405?f=rss)
@@ -47,6 +57,7 @@
   - [小米汽车线控转向力反馈发明专利获授权](https://36kr.com/newsflashes/3784462286675201?f=rss)
   - [小鹏汽车在广州成立新科技公司](https://36kr.com/newsflashes/3784442962156804?f=rss)
   - [工业金刚石企业密集上调价格](https://36kr.com/newsflashes/3784279969717253?f=rss)
+  - [恒指午间休盘涨0.15%，恒生科技指数涨1.31%](https://36kr.com/newsflashes/3784548654030083?f=rss)
   - [恒指平开，恒生科技指数开盘涨0.56%](https://36kr.com/newsflashes/3784392197938176?f=rss)
   - [恒生科技指数涨超1%](https://36kr.com/newsflashes/3784418791955717?f=rss)
   - [早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货](https://36kr.com/p/3783824870317312?f=rss)
@@ -54,16 +65,20 @@
   - [汽车���部件企业“人形机器人”布局持续加码](https://36kr.com/newsflashes/3784366844157185?f=rss)
   - [沪深两市成交额突破1.5万亿](https://36kr.com/newsflashes/3784483316505857?f=rss)
   - [深圳乐动机器人通过港交所上市聆讯](https://36kr.com/newsflashes/3784256727063811?f=rss)
+  - [现货白银日内涨超1%](https://36kr.com/newsflashes/3784534443924739?f=rss)
   - [电装公司称正考虑撤回对罗姆的收购要约](https://36kr.com/newsflashes/3784325261450243?f=rss)
   - [瞄准政策风口，企业积极布局卫星互联网新基建](https://36kr.com/newsflashes/3784364064840709?f=rss)
   - [美联储本周维持利率不变的概率为100%](https://36kr.com/newsflashes/3784252858932230?f=rss)
+  - [贾国龙天边的焖面关联公司企业名称接连变更](https://36kr.com/newsflashes/3784522732821511?f=rss)
   - [近千只主动权益基金净值创新高，科技浪潮成净值修复核心动力](https://36kr.com/newsflashes/3784314800479497?f=rss)
+  - [郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器](https://36kr.com/newsflashes/3784514046926081?f=rss)
   - [配置占比近半，险资大举掘金机构间REITs](https://36kr.com/newsflashes/3784335738280961?f=rss)
   - [银河证券：4月下旬将成为验证盈利修复的关键窗口](https://36kr.com/newsflashes/3784344102837509?f=rss)
   - [锂电“淡季不淡”](https://36kr.com/newsflashes/3784341354634244?f=rss)
   - [需求能见度提升，光模块景气持续性超预期](https://36kr.com/newsflashes/3784353163402249?f=rss)
   - [面壁智能发布SuperMate端侧智能座舱方案的全新升级版本](https://36kr.com/newsflashes/3784425478183939?f=rss)
   - [马斯克力图将X打造成超级应用，银行和支付功能预计很快推出](https://36kr.com/newsflashes/3784296664243209?f=rss)
+  - [麦德龙中国任命山姆会员店前高管文安德为执行主席](https://36kr.com/newsflashes/3784532969856000?f=rss)
 - Checkmarx.com
   - [Checkmarx Security Update: April 26](https://checkmarx.com/blog/checkmarx-security-update-april-26/)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -84,6 +99,8 @@
 - HackerNews
   - [ç ”çŠśäşşĺ‘˜ĺ‘çŽ° â€œéœ‡ç˝‘â€ ç—…ćŻ’ĺ‰çš„ â€œfast16â€ ćść„č˝ŻäťśďźŒç›Žć ‡ä¸şĺˇĽç¨‹č˝Żäťś](http://0.0.0.0:8080/post/64178)
   - [çžŽĺ›˝ĺ…Źç”¨äş‹ä¸šĺ…Źĺ¸ Itron ćŠŤéœ˛ĺ†…éƒ¨ IT ç˝‘çťœé­ĺ…Ľäžľ](http://0.0.0.0:8080/post/64179)
+  - [čŽąç‰šĺ¸é›ść—Ľćźć´žé­ĺˆŠç”¨ĺź•ĺ‘ć‹’çťćœĺŠĄć”ťĺ‡ťďźŒ major mining pools ĺ—ĺ˝ąĺ“](http://0.0.0.0:8080/post/64183)
+  - [ĺ— ShinyHunters ćł„ĺŻ†ĺ¨čƒĺŽďźŒADT čŻĺŽžć•°ćŽćł„éœ˛äş‹äťś](http://0.0.0.0:8080/post/64182)
 - IT Service Management News
   - [Bozze standard ETSI per CRA](http://blog.cesaregallotti.it/2026/04/bozze-standard-etsi-per-cra.html)
 - Sploitus.com Exploits RSS Feed
@@ -139,7 +156,10 @@
   - [谷歌掌握着全球约1/4的AI算力](https://buaq.net/go-412896.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [调查称半数澳大利亚青少年仍然能访问社交媒体](https://www.solidot.org/story?sid=84155)
 - 爱范儿
+  - [刚刚，OpenAI 手机曝光！2028 年量产](https://www.ifanr.com/1663916?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝苹果未来将进入10个全新品类/内存涨疯了，三星手机部门面临史上首次亏损/DeepSeek V4成龙虾默认模型](https://www.ifanr.com/1663888?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [巅峰加冕！绿盟科技强势斩获“黑客松-智能渗透挑战赛”第一](https://blog.nsfocus.net/%e5%b7%85%e5%b3%b0%e5%8a%a0%e5%86%95%ef%bc%81%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%bc%ba%e5%8a%bf%e6%96%a9%e8%8e%b7%e9%bb%91%e5%ae%a2%e6%9d%be-%e6%99%ba%e8%83%bd%e6%b8%97%e9%80%8f%e6%8c%91/)
