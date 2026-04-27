@@ -2,21 +2,43 @@
 
 - 2Libra
   - [半夜饿了，去搞了碗糖水](https://2libra.com/post/small-things/YyZaFPm)
+  - [如何控制花钱？——长期主义（消费资产记录软件对比）](https://2libra.com/post/tools-sharing/6tp_cip)
 - 36氪
   - [8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整](https://36kr.com/p/3784311487945735?f=rss)
+  - [“固收+”基金规模突破3万亿元，年内增幅近18%](https://36kr.com/newsflashes/3784350956067847?f=rss)
+  - [「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人](https://36kr.com/p/3784365164322055?f=rss)
+  - [一季度经济大省“挑大梁”更有力，新质生产力加速释放增长动能](https://36kr.com/newsflashes/3784332604103683?f=rss)
+  - [业绩排名压力与长期价值投资难权衡，部分基金经理调仓策略面临“言行背离”困境](https://36kr.com/newsflashes/3784360559614982?f=rss)
+  - [两市融资余额减少112.38亿元](https://36kr.com/newsflashes/3784357662530824?f=rss)
+  - [个人投资者渐成ETF认购绝对主力，偏好医药等热门主题产品](https://36kr.com/newsflashes/3784322365414660?f=rss)
   - [中信建投：DeepSeek V4等多模型更新，算力需求持续紧张](https://36kr.com/newsflashes/3784314297768965?f=rss)
+  - [中信建投：供给扰动仍在持续，节前备库支撑锂价](https://36kr.com/newsflashes/3784321916574728?f=rss)
+  - [中信证券：上市银行一季度收入和盈利增速延续上行趋势，预计全年趋势延续](https://36kr.com/newsflashes/3784364842360073?f=rss)
+  - [中信证券：半导体硅片再迎上行周期](https://36kr.com/newsflashes/3784327482235907?f=rss)
   - [中信证券：建议关注港股科技板块的投资机会](https://36kr.com/newsflashes/3784315171953667?f=rss)
+  - [中信证券：支付清算层和基础模型层具备较强投资确定性](https://36kr.com/newsflashes/3784363152874761?f=rss)
+  - [供需刚性缺口增大，光纤行业量价齐升](https://36kr.com/newsflashes/3784348203310083?f=rss)
   - [公募重仓科技股创纪录，短期需警惕均值回归风险](https://36kr.com/newsflashes/3784292439055624?f=rss)
+  - [券商资管公募资产榜单有变化，华泰证券资管公募资产站上2000亿元](https://36kr.com/newsflashes/3784326485089543?f=rss)
   - [加州亿万富翁税已集齐法定签名，可纳入公投议程](https://36kr.com/newsflashes/3784267560180741?f=rss)
+  - [北京车展聚焦“全球化布局”，中国车企加速“驶向世界”](https://36kr.com/newsflashes/3784327272832263?f=rss)
   - [华泰证券港股策略：布局现金流确定性与产业确定性](https://36kr.com/newsflashes/3784298221149185?f=rss)
   - [华泰证券：A股情绪修复动能出现边际放缓的迹象](https://36kr.com/newsflashes/3784285805943812?f=rss)
   - [古尔曼：苹果CEO蒂姆·库克正将一条重要的产品线移交给继任者约翰·特努斯](https://36kr.com/newsflashes/3784255202467075?f=rss)
   - [外资公募展业竞争进入深水区，多家新机构正探索差异化发展路径](https://36kr.com/newsflashes/3784297762790405?f=rss)
   - [头部公募大举招兵买马，马太效应在人才端显现](https://36kr.com/newsflashes/3784314086071303?f=rss)
+  - [审计机构接连“吹哨”，年报审计意见折射A股生态新变化](https://36kr.com/newsflashes/3784340300979461?f=rss)
   - [工业金刚石企业密集上调价格](https://36kr.com/newsflashes/3784279969717253?f=rss)
+  - [汽车���部件企业“人形机器人”布局持续加码](https://36kr.com/newsflashes/3784366844157185?f=rss)
   - [深圳乐动机器人通过港交所上市聆讯](https://36kr.com/newsflashes/3784256727063811?f=rss)
+  - [电装公司称正考虑撤回对罗姆的收购要约](https://36kr.com/newsflashes/3784325261450243?f=rss)
+  - [瞄准政策风口，企业积极布局卫星互联网新基建](https://36kr.com/newsflashes/3784364064840709?f=rss)
   - [美联储本周维持利率不变的概率为100%](https://36kr.com/newsflashes/3784252858932230?f=rss)
   - [近千只主动权益基金净值创新高，科技浪潮成净值修复核心动力](https://36kr.com/newsflashes/3784314800479497?f=rss)
+  - [配置占比近半，险资大举掘金机构间REITs](https://36kr.com/newsflashes/3784335738280961?f=rss)
+  - [银河证券：4月下旬将成为验证盈利修复的关键窗口](https://36kr.com/newsflashes/3784344102837509?f=rss)
+  - [锂电“淡季不淡”](https://36kr.com/newsflashes/3784341354634244?f=rss)
+  - [需求能见度提升，光模块景气持续性超预期](https://36kr.com/newsflashes/3784353163402249?f=rss)
   - [马斯克力图将X打造成超级应用，银行和支付功能预计很快推出](https://36kr.com/newsflashes/3784296664243209?f=rss)
 - Checkmarx.com
   - [Checkmarx Security Update: April 26](https://checkmarx.com/blog/checkmarx-security-update-april-26/)
@@ -33,6 +55,7 @@
 - Hacker News Frontpage
   - [An AI agent deleted our production database. The agent's confession is below](https://twitter.com/lifeof_jer/status/2048103471019434248)
   - [Fast16: Cyberweapon that predates Stuxnet by five years](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
+  - [Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
   - [Show HN: Startup Equity Adventure Game](https://options-game-polymathrobotics.pythonanywhere.com/)
 - IT Service Management News
   - [Bozze standard ETSI per CRA](http://blog.cesaregallotti.it/2026/04/bozze-standard-etsi-per-cra.html)
@@ -85,3 +108,5 @@
   - [CVE-2026-7160 | Tenda HG3 2.0 /boaform/formTracert datasize command injection](https://vuldb.com/vuln/359759)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜曝苹果未来将进入10个全新品类/内存涨疯了，三星手机部门面临史上首次亏损/DeepSeek V4成龙虾默认模型](https://www.ifanr.com/1663888?utm_source=rss&utm_medium=rss&utm_campaign=)
