@@ -21,6 +21,11 @@
   - [Managing Apple Intelligence settings for macOS using Blueprints in Jamf Pro](https://derflounder.wordpress.com/2026/04/27/managing-apple-intelligence-settings-for-macos-using-blueprints-in-jamf-pro/)
 - EFF
   - [The Internet Still Works: SmugMug Powers Online Photography](https://www.eff.org/deeplinks/2026/04/internet-still-works-smugmug-powers-online-photography)
+- Hacker News Frontpage
+  - [NPM Website Is Down](https://status.npmjs.org)
+- HackerNoon
+  - [Challenges Facing the MCP in 2026: Critical Security, Architectual, and More](https://hackernoon.com/challenges-facing-the-mcp-in-2026-critical-security-architectual-and-more?source=rss)
+  - [Israel Just Tokenized the World's Best Performing Currency. Why Wall Street Is Paying Attention](https://hackernoon.com/israel-just-tokenized-the-worlds-best-performing-currency-why-wall-street-is-paying-attention?source=rss)
 - MIT Technology Review
   - [The missing step between hype and profit](https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/)
 - simonwillison.net
