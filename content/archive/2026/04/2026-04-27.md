@@ -85,6 +85,7 @@
   - [加州亿万富翁税已集齐法定签名，可纳入公投议程](https://36kr.com/newsflashes/3784267560180741?f=rss)
   - [北京人工智能产投基金等入股新石器无人车关联公司](https://36kr.com/newsflashes/3784964389477377?f=rss)
   - [北京车展聚焦“全球化布局”，中国车企加速“驶向世界”](https://36kr.com/newsflashes/3784327272832263?f=rss)
+  - [北京银行：科技金融贷款“十四五”期间增长178%](https://36kr.com/newsflashes/3785091807091972?f=rss)
   - [千里科技：第一季度营收23.61亿元，同比增长31.37%](https://36kr.com/newsflashes/3785034706918660?f=rss)
   - [千问首发灰测HappyHorse模型](https://36kr.com/newsflashes/3784975155911686?f=rss)
   - [半日主力资金加仓电子板块，抛售国防军工板块](https://36kr.com/newsflashes/3784567068728577?f=rss)
@@ -214,6 +215,11 @@
   - [马斯克力图将X打造成超级应用，银行和支付功能预计很快推出](https://36kr.com/newsflashes/3784296664243209?f=rss)
   - [马斯克在针对OpenAI的1800亿美元诉讼中处于下风](https://36kr.com/newsflashes/3784595869522945?f=rss)
   - [麦德龙中国任命山姆会员店前高管文安德为执行主席](https://36kr.com/newsflashes/3784532969856000?f=rss)
+- 404 Media
+  - [Google DeepMind Paper Argues LLMs Will Never Be Conscious](https://www.404media.co/google-deepmind-paper-argues-llms-will-never-be-conscious/)
+  - [Government Hacking Tools Are Now in Criminals' Hands (with Lorenzo Franceschi-Bicchierai)](https://www.404media.co/government-hacking-tools-are-now-in-criminals-hands-with-lorenzo-franceschi-bicchierai/)
+- Articles | InfoStealers
+  - [Inside the Coinbase Cartel: How Infostealer Credentials Fueled a 100+ Company Ransomware Spree](https://www.infostealers.com/article/inside-the-coinbase-cartel-how-infostealer-credentials-fueled-a-100-company-ransomware-spree/)
 - Checkmarx.com
   - [Checkmarx Security Update: April 26](https://checkmarx.com/blog/checkmarx-security-update-april-26/)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -225,6 +231,7 @@
   - [Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis](https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/)
   - [★ The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous](https://daringfireball.net/2026/04/nyt_wrong_crossword_grid)
 - darkreading
+  - [20-Year-Old Malware Rewrites History of Cyber Sabotage](https://www.darkreading.com/cyber-risk/20-year-old-malware-rewrites-history-of-cyber-sabotage)
   - [Parsing Agentic Offensive Security's Existential Threat](https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat)
 - defend.network
   - [Daily Threat Briefing – April 27, 2026](https://defend.network/briefings/firestarter-russian-tokens-chinese-apt-2026-04-27.html)
@@ -240,9 +247,12 @@
   - [Fast16: Cyberweapon that predates Stuxnet by five years](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
   - [Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
   - [It's OK to abandon your side-project](https://robbowen.digital/wrote-about/abandoned-side-projects/)
+  - [Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
   - [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac)
   - [Show HN: Startup Equity Adventure Game](https://options-game-polymathrobotics.pythonanywhere.com/)
   - [The Mushroom That Makes People Have the Exact Same Hallucination](https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/)
+  - [The next phase of the Microsoft OpenAI partnership – OpenAI](https://openai.com/index/next-phase-of-microsoft-partnership/)
+  - [Tim Cook Is Leaving. Good](https://routerjockey.com/tim-cook-is-leaving-good/)
 - HackerNews
   - [ç ”çŠśäşşĺ‘˜ĺ‘çŽ° â€œéœ‡ç˝‘â€ ç—…ćŻ’ĺ‰çš„ â€œfast16â€ ćść„č˝ŻäťśďźŒç›Žć ‡ä¸şĺˇĽç¨‹č˝Żäťś](http://0.0.0.0:8080/post/64178)
   - [çžŽĺ›˝ĺ…Źç”¨äş‹ä¸šĺ…Źĺ¸ Itron ćŠŤéœ˛ĺ†…éƒ¨ IT ç˝‘çťœé­ĺ…Ľäžľ](http://0.0.0.0:8080/post/64179)
@@ -252,6 +262,7 @@
   - [The Hidden Costs of AI Agents: Why Local vs Cloud Decisions Matter More Than Models](https://hackernoon.com/the-hidden-costs-of-ai-agents-why-local-vs-cloud-decisions-matter-more-than-models?source=rss)
   - [Why AI Agents Need Self-Updating Data Infrastructure to Stay Intelligent](https://hackernoon.com/why-ai-agents-need-self-updating-data-infrastructure-to-stay-intelligent?source=rss)
 - ICT Security Magazine
+  - [La sicurezza dei cavi sottomarini: quadro normativo e prospettive regolatorie](https://www.ictsecuritymagazine.com/articoli/sicurezza-dei-cavi-sottomarini/)
   - [NIS2 Enforcement Q1 2026: quando la compliance smette di essere un esercizio teorico](https://www.ictsecuritymagazine.com/articoli/nis2-enforcement-q1-2026/)
 - IEEE Spectrum
   - [Engineering Collisions: How NYU Is Remaking Health Research](https://spectrum.ieee.org/nyu-health-research)
@@ -264,8 +275,11 @@
   - [BlackFile Group Targets Retail and Hospitality with Vishing Attacks](https://www.infosecurity-magazine.com/news/blackfile-group-targets-retail/)
   - [Most Cybersecurity  Professionals Feel Undervalued and Underpaid](https://www.infosecurity-magazine.com/news/cybersecurity-pros-feel/)
   - [Researchers Identify Fast16 Sabotage Malware That Pre-Dates Stuxnet](https://www.infosecurity-magazine.com/news/fast16-sabotage-malware-winds/)
+  - [Utilities Tech Supplier Itron Discloses Cyber-Attack, Operations Unaffected](https://www.infosecurity-magazine.com/news/utilities-tech-supplier-itron/)
+  - [Widely Used Browser Extensions Selling User Data](https://www.infosecurity-magazine.com/news/browser-extensions-sell-user-data/)
 - IT Service Management News
   - [Bozze standard ETSI per CRA](http://blog.cesaregallotti.it/2026/04/bozze-standard-etsi-per-cra.html)
+  - [NIS e categorizzazione attività per ACN](http://blog.cesaregallotti.it/2026/04/nis-e-categorizzazione-attivita-per-acn.html)
 - Max Kersten
   - [My impression of Botconf 2026](https://maxkersten.nl/2026/04/27/my-impression-of-botconf-2026/)
 - MIT Technology Review
@@ -274,16 +288,21 @@
   - [Pluralistic: The enshittification multiverse (27 Apr 2026)](https://pluralistic.net/2026/04/27/analogs-and-analogies/)
 - Product Hunt
   - [Subgrapher](https://www.producthunt.com/products/subgrapher)
+- SANS Internet Storm Center, InfoCON: green
+  - [TeamPCP Supply Chain Campaign: Update 008 - 26-Day Pause Ends with Three Concurrent Compromises (Checkmarx KICS, Bitwarden CLI Cascade, xinference PyPI), CanisterSprawl npm Worm Identified, and Tier 1 Coverage Returns, (Mon, Apr 27th)](https://isc.sans.edu/diary/rss/32926)
 - Schneier on Security
   - [Medieval Encrypted Letter Decoded](https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html)
 - Security Affairs
+  - [Chinese spy posed as researcher in spear-phishing campaign targeting NASA to steal defense software](https://securityaffairs.com/191347/intelligence/chinese-spy-posed-as-researcher-in-spear-phishing-campaign-targeting-nasa-to-steal-defense-software.html)
   - [Fast16: Pre-Stuxnet malware that targeted precision engineering software](https://securityaffairs.com/191325/malware/fast16-pre-stuxnet-malware-that-targeted-precision-engineering-software.html)
   - [Firefox bug CVE-2026-6770 enabled cross-site tracking and Tor fingerprinting](https://securityaffairs.com/191374/security/firefox-bug-cve-2026-6770-enabled-cross-site-tracking-and-tor-fingerprinting.html)
+  - [LINKEDIN BROWSERGATE](https://securityaffairs.com/191383/security/linkedin-browsergate.html)
   - [U.S. utility giant Itron discloses a security breach](https://securityaffairs.com/191360/data-breach/u-s-utility-giant-itron-discloses-a-security-breach.html)
 - shkspr.mobi
   - [Theatre Review: Hadestown ★★★★★](https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/)
 - Sploitus.com Exploits RSS Feed
   - [Advanced-AI-Recon-and-Exploit-Framework exploit](https://sploitus.com/exploit?id=2FC53BBC-FEED-522F-8B52-72FBD0BAB2CA&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Input Validation in Microsoft exploit](https://sploitus.com/exploit?id=966AF4FE-0086-5E27-ABCE-66D2C28F7BE0&utm_source=rss&utm_medium=rss)
   - [info-security-portfolio exploit](https://sploitus.com/exploit?id=600F488D-4037-5A7C-80CF-BD9C70C57099&utm_source=rss&utm_medium=rss)
   - [MTK exploit](https://sploitus.com/exploit?id=50EDBB37-FF5C-536B-8F80-160C72F33B7C&utm_source=rss&utm_medium=rss)
   - [Pack2TheRoot exploit](https://sploitus.com/exploit?id=D2A9B9DD-4CEB-526D-99D3-0FF16E8EF36E&utm_source=rss&utm_medium=rss)
@@ -293,6 +312,7 @@
   - [xss exploit](https://sploitus.com/exploit?id=DA2F564D-33BB-59E8-AFA3-F5767E564DB4&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon’s new podcast strategy: Monetize everything](https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/)
+  - [China vetoes Meta’s $2B Manus deal after months-long probe](https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/)
   - [Critical infrastructure giant Itron says it was hacked](https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/)
   - [Meta inks deal for solar power at night, beamed from space](https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/)
   - [Spotify’s next frontier: fitness content](https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content/)
@@ -306,13 +326,17 @@
   - [OpenAI reportedly developing its own smartphone chips with MediaTek and Qualcomm](https://the-decoder.com/openai-reportedly-developing-its-own-smartphone-chips-with-mediatek-and-qualcomm/)
   - [The company with a monopoly on AI's most critical machine is racing to build more](https://the-decoder.com/the-company-with-a-monopoly-on-ais-most-critical-machine-is-racing-to-build-more/)
 - The Verge
+  - [Amazon snaps up Oprah Winfrey’s podcast](https://www.theverge.com/tech/918962/amazon-wondery-oprah-podcast-show)
   - [Google’s new gradient icon design is coming to more apps](https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps)
+  - [That UL safety logo is a lot more complicated than it looks](https://www.theverge.com/podcast/918082/ul-testing-fire-safety-ai-standards-jennifer-scanlon)
   - [The AI-designed car is taking shape](https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept)
   - [This touchscreen mouse is my over-engineering nightmare](https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series)
   - [Tomora’s Come Closer is an ecstatic love letter to 90s dance music](https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music)
   - [Trump turns the WHCD shooting into a pitch for the White House ballroom](https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom)
 - VulDB Recent Entries
+  - [CVE-2025-15626 | Ribblr Crotchet and Knitting 2.5 on iOS authorization](https://vuldb.com/vuln/359796)
   - [CVE-2026-22077 | OPPO Wallet App Trusted Domain access control](https://vuldb.com/vuln/359776)
+  - [CVE-2026-25710 | KDE Plasma plasma-login-manager privilege dropping](https://vuldb.com/vuln/359795)
   - [CVE-2026-3006 | WinFSP up to 2.1.25156 Kernel heap-based overflow](https://vuldb.com/vuln/359764)
   - [CVE-2026-3008 | Notepad++ 8.9.3 injection (Alert 17960)](https://vuldb.com/vuln/359777)
   - [CVE-2026-33277 | JPCERT LogonTracer up to 1.x os command injection](https://vuldb.com/vuln/359765)
@@ -328,6 +352,16 @@
   - [CVE-2026-41635 | Apache MINA up to 2.0.27/2.1.10/2.2.5 acceptMatchers Filter AbstractIoBuffer.resolveClass deserialization](https://vuldb.com/vuln/359782)
   - [CVE-2026-42363 | GeoVision GV-IP Device Utility 9.0.5.0 Broadcast Message reliance on security through obscurity](https://vuldb.com/vuln/359762)
   - [CVE-2026-42371 | uriparser up to 1.0.0 URI numeric truncation error](https://vuldb.com/vuln/359778)
+  - [CVE-2026-42410 | CodexThemes TheGem Theme Elements Plugin prior 5.12.1.1 on WordPress cross site scripting](https://vuldb.com/vuln/359792)
+  - [CVE-2026-5937 | Foxit PDF Editor/PDF Reader std::invalid_argument uncaught exception](https://vuldb.com/vuln/359787)
+  - [CVE-2026-5938 | Foxit PDF Editor/PDF Reader Document Action Chain insufficient control flow management](https://vuldb.com/vuln/359793)
+  - [CVE-2026-5939 | Foxit PDF Editor/PDF Reader XFA PDF use after free](https://vuldb.com/vuln/359791)
+  - [CVE-2026-5940 | Foxit PDF Editor/PDF Reader UI Handler use after free](https://vuldb.com/vuln/359794)
+  - [CVE-2026-5941 | Foxit PDF Editor/PDF Reader Data Structure denial of service](https://vuldb.com/vuln/359788)
+  - [CVE-2026-5942 | Foxit PDF Editor/PDF Reader Page Lifecycle Management use after free](https://vuldb.com/vuln/359786)
+  - [CVE-2026-5943 | Foxit PDF Editor/PDF Reader Page Information Query use after free](https://vuldb.com/vuln/359789)
+  - [CVE-2026-6265 | Cerberus FTP Server up to 2025.4.2/2026.0 on Windows insecure preserved inherited permissions](https://vuldb.com/vuln/359797)
+  - [CVE-2026-7040 | RRWO Text::Minify::XS up to 0.7.7 UTF-8 Character minify unicode encoding](https://vuldb.com/vuln/359790)
   - [CVE-2026-7106 | jgrodgers Highland Software Custom Role Manager Plugin up to 1.0.0 on WordPress Profile Page hscrm_save_user_roles privileges management](https://vuldb.com/vuln/359761)
   - [CVE-2026-7119 | Tenda HG3 2.0 /boaform/formCountrystr countrystr os command injection](https://vuldb.com/vuln/359719)
   - [CVE-2026-7121 | Totolink A8000RU 7.1cu.643_b20200521 CGI /cgi-bin/cstecgi.cgi setWizardCfg wizard os command injection](https://vuldb.com/vuln/359720)
@@ -365,9 +399,11 @@
   - [CVE-2026-7177 | ChatGPTNextWeb NextChat up to 2.16.1 route.ts proxyHandler server-side request forgery (Issue 6742)](https://vuldb.com/vuln/359779)
   - [CVE-2026-7178 | ChatGPTNextWeb NextChat up to 2.16.1 Artifacts Endpoint route.ts storeUrl ID server-side request forgery (Issue 6741)](https://vuldb.com/vuln/359780)
   - [CVE-2026-7179 | OSPG binwalk up to 2.4.3 WinCE Extraction Plugin winceextract.py read_null_terminated_string self.file_name path traversal](https://vuldb.com/vuln/359781)
+  - [CVE-2026-7194 | SourceCodester Pharmacy Sales and Inventory System 1.0 ajax.php?action=save_product ID sql injection](https://vuldb.com/vuln/359798)
 - Wired
   - [Pokémon 30th Anniversary Collabs—What You Can Still Buy and What’s Coming](https://www.wired.com/story/pokemon-30th-anniversary-collabs/)
   - [The Iran War Is Impacting the Environment in Unseen Ways](https://www.wired.com/story/war-on-iran-unseen-impact-on-environment/)
+  - [The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path](https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/)
   - [The Tech Bros Are All In on Zyn](https://www.wired.com/story/tech-bros-are-all-in-on-zyn/)
   - [What Is Ethernet? Everything You Need to Know About Wired Networks](https://www.wired.com/story/what-is-ethernet/)
 - 不安全
