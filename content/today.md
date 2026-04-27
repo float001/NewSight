@@ -3,10 +3,13 @@
 - 2Libra
   - [出来看星星 ✨：今天大风北京空气质量极好，此时西部天空可以非常清晰地看到天狼星、木星、南河三、北河三、参宿四、金星等一系列亮星。](https://2libra.com/post/astronomy-observation/j8Me_x8)
 - 36氪
+  - [微软公司：将不再向OpenAI支付收入分成，微软的OpenAI许可现将转为非独家许可](https://36kr.com/newsflashes/3785671513021698?f=rss)
   - [最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎](https://36kr.com/p/3784806758243587?f=rss)
+  - [美股三大指数收盘涨跌不一，英伟达涨4%创新高](https://36kr.com/newsflashes/3785617500429577?f=rss)
 - 404 Media
   - [Did a Time Traveling Superintelligent AI Try to Warn About White House Correspondents Dinner Shooting? An Investigation](https://www.404media.co/did-a-time-traveling-superintelligent-ai-try-to-warn-about-white-house-correspondents-dinner-shooting-an-investigation/)
   - [People Using AI to Represent Themselves in Court Are Clogging the System](https://www.404media.co/people-using-ai-to-represent-themselves-in-court-are-clogging-the-system/)
+  - [University Professors Disturbed to Find Their Lectures Chopped Up and Turned Into AI Slop](https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/)
 - Ars Technica
   - [China kills Meta’s acquisition of Manus as US-China AI rivalry deepens](https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/)
   - [Musk and Altman face off in trial that will determine OpenAI's future](https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/)
@@ -26,11 +29,17 @@
 - HackerNoon
   - [Challenges Facing the MCP in 2026: Critical Security, Architectual, and More](https://hackernoon.com/challenges-facing-the-mcp-in-2026-critical-security-architectual-and-more?source=rss)
   - [Israel Just Tokenized the World's Best Performing Currency. Why Wall Street Is Paying Attention](https://hackernoon.com/israel-just-tokenized-the-worlds-best-performing-currency-why-wall-street-is-paying-attention?source=rss)
+- joanwestenberg.com
+  - [The Loop: everything has happened before, and everything will happen again](https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/)
 - MIT Technology Review
+  - [Elon Musk and Sam Altman are going to court over OpenAI’s future](https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/)
   - [The missing step between hype and profit](https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/)
 - simonwillison.net
   - [Speech translation in Google Meet is now rolling out to mobile devices](https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything)
   - [Tracking the history of the now-deceased OpenAI Microsoft AGI clause](https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Deserialization of Untrusted Data in Siemens 6Bk1602-0Aa12-0Tp0_Firmware exploit](https://sploitus.com/exploit?id=D2947D08-088D-59B0-9055-6CAACF0C5DC6&utm_source=rss&utm_medium=rss)
+  - [Exploit-Hub exploit](https://sploitus.com/exploit?id=897CB705-45D0-50FF-BB0B-4EFC5CDAFAA9&utm_source=rss&utm_medium=rss)
 - Swing'Blog 有恨无人省
   - [CVE-2026-41651 PackageKit TOCTOU 本地提权漏洞分析](https://bestwing.me/CVE-2026-41651-analysis.html)
 - TechCrunch
