@@ -3,7 +3,10 @@
 - 404 Media
   - [Scientists Investigated a Frequency Linked to ‘Paranormal’ Encounters. The Results Were Unsettling.](https://www.404media.co/scientists-investigated-a-frequency-linked-to-paranormal-encounters-the-results-were-unsettling/)
 - darkreading
+  - [Feuding Ransomware Groups Leak Each Other's Data](https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data)
   - [Vidar Rises to Top of Chaotic Infostealer Market](https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market)
+- EFF
+  - [The Open Social Web Needs Section 230 to Survive](https://www.eff.org/deeplinks/2026/04/open-social-web-needs-section-230-survive)
 - experimental-history.com
   - [The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree](https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition)
 - gilesthomas.com
@@ -15,10 +18,13 @@
   - [BookStack Moves from GitHub to Codeberg](https://github.com/BookStackApp/BookStack/issues/4551)
   - [Cybersec is a thankless job: expanding workload and shrinking pay packet](https://www.theregister.com/2026/04/27/from_a_massive_skills_gap/)
   - [Greece to ban anonymity on social media](https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media/)
+  - [I Won a Championship That Doesn't Exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
   - [Laguna XS.2 and M.1](https://poolside.ai/blog/laguna-a-deeper-dive)
   - [Waymo in Portland](https://waymo.com/blog/shorts/waymo-in-portland/)
 - IEEE Spectrum
   - [The Chip That Made Hardware Rewriteable](https://spectrum.ieee.org/fpga-chip-ieee-milestone)
+- Security Affairs
+  - [CVE-2026-3854 GitHub flaw enables remote code execution](https://securityaffairs.com/191434/security/cve-2026-3854-github-flaw-enables-remote-code-execution.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-1306 exploit](https://sploitus.com/exploit?id=69BCB641-A79A-5B3F-B4CB-8F788F31C22C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-6807 exploit](https://sploitus.com/exploit?id=08B53495-61C6-5F9D-B63B-BEA3ADDB0C6F&utm_source=rss&utm_medium=rss)
@@ -38,11 +44,13 @@
   - [Apple TV’s new horror series is scarier because it’s also hilarious](https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview)
   - [Claude can now plug directly into Photoshop, Blender, and Ableton](https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender)
   - [Elon Musk takes the stand in high-profile trial against OpenAI](https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman)
+  - [Elon Musk tells the jury that all he wants to do is save humanity](https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity)
   - [Former FCC officials want to force a vote on the ‘weapon’ Brendan Carr has invoked against broadcasters](https://www.theverge.com/policy/919536/former-fcc-officials-brendan-car-news-distortion-policy)
   - [Google Home makes it easier to understand why devices aren&#8217;t working](https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update)
   - [Google Translate can now help you with pronunciation](https://www.theverge.com/tech/919510/google-translate-pronunciation-practice-availability)
   - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
   - [Logitech made a analog and mechanical keyboard in one](https://www.theverge.com/news/919517/logitech-g512x-gaming-keyboard-hall-effect-tmr-mechanical-swap)
+  - [Taylor Swift is stepping up the legal war on AI copycats](https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats)
   - [The latest Kindle Paperwhite drops to its best price all year](https://www.theverge.com/gadgets/919644/kindle-paperwhite-marathon-deal-sale)
   - [The Nex Playground gaming console is $60 off this week](https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale)
   - [The resurrected Commodore 64 is getting a facelift like the original](https://www.theverge.com/tech/919625/commodore-64c-ultimate-fpga-computer-retro-c64c)
@@ -65,6 +73,7 @@
   - [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
   - [AI's Economics Don't Make Sense [Ad Free]](https://www.wheresyoured.at/ais-economics-dont-make-sense-ad-free/)
 - Wired
+  - [Sniffies’ Users Worry About a ‘Straightification’ of the Gay Hookup App](https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/)
   - [The UK’s Answer to Darpa Wants to Rewire the Human Brain](https://www.wired.com/story/kathleen-fisher-jacques-carolan-aria-wired-health/)
   - [Why Sharing a Screenshot Can Get You Jailed in the UAE](https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/)
   - [‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off](https://www.wired.com/story/meta-covalen-ai-workers-layoffs/)
