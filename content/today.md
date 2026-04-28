@@ -1,5 +1,8 @@
 # 今日安全资讯（2026-04-29）
 
+- 36氪
+  - [美股三大指数集体收跌，大型科技股多数下跌](https://36kr.com/newsflashes/3787075827195139?f=rss)
+  - [阿联酋宣布将退出欧佩克及“欧佩克+”](https://36kr.com/newsflashes/3786660152581385?f=rss)
 - 404 Media
   - [Scientists Investigated a Frequency Linked to ‘Paranormal’ Encounters. The Results Were Unsettling.](https://www.404media.co/scientists-investigated-a-frequency-linked-to-paranormal-encounters-the-results-were-unsettling/)
 - darkreading
@@ -81,6 +84,7 @@
 - wheresyoured.at
   - [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
   - [AI's Economics Don't Make Sense [Ad Free]](https://www.wheresyoured.at/ais-economics-dont-make-sense-ad-free/)
+  - [OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)](https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/)
 - Wired
   - [Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’](https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/)
   - [Sniffies’ Users Worry About a ‘Straightification’ of the Gay Hookup App](https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/)
