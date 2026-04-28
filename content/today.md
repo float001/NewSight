@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-04-28）
 
 - 2Libra
+  - [【期待五一】宅家玩游戏！大菠萝 4 完结篇](https://2libra.com/post/game-discussion/-BrHWIF)
   - [出来看星星 ✨：今天大风北京空气质量极好，此时西部天空可以非常清晰地看到天狼星、木星、南河三、北河三、参宿四、金星等一系列亮星。](https://2libra.com/post/astronomy-observation/j8Me_x8)
 - 36氪
   - [8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元](https://36kr.com/p/3785730095127817?f=rss)
@@ -11,23 +12,40 @@
   - [「寻明生科」完成3500万美元A+轮融资，首个抗体药物即将进入临床｜36氪首发](https://36kr.com/p/3784480103455748?f=rss)
   - [一季度公募FOF规模超2800亿元，环比增逾三成](https://36kr.com/newsflashes/3785713086110729?f=rss)
   - [上市期货公司一季度业绩爆发，多家公司营收、净利润均实现大幅增长](https://36kr.com/newsflashes/3785706339949833?f=rss)
+  - [两市融资余额增加155.42亿元](https://36kr.com/newsflashes/3785775196560642?f=rss)
+  - [中信建投：二级债基份额再创历史新高，转债供需矛盾尖锐](https://36kr.com/newsflashes/3785736495242246?f=rss)
   - [中信建投：看好AI应用落地与AI算力需求增长](https://36kr.com/newsflashes/3785707179154694?f=rss)
   - [二手时尚交易平台Vinted估值达80亿欧元](https://36kr.com/newsflashes/3785697577475333?f=rss)
+  - [五一视界SimOne4.0先行版正式发布，已完成与英伟达产品深度融合](https://36kr.com/newsflashes/3785783585266689?f=rss)
+  - [利甘制药斥资约7.4亿美元收购佐马公司](https://36kr.com/newsflashes/3785724050136324?f=rss)
   - [前谷歌DeepMind研究员创办AI初创公司，斩获11亿美元创纪录种子轮融资](https://36kr.com/newsflashes/3785710148230151?f=rss)
+  - [加拿大将设立首只主权财富基金，初始规模250亿加元](https://36kr.com/newsflashes/3785740640378117?f=rss)
+  - [台积电：正以“二倍速”推进扩产计划](https://36kr.com/newsflashes/3785771117862148?f=rss)
   - [多家上市钨企一季度大赚，分析人士称钨价有望长期维持高位运行](https://36kr.com/newsflashes/3785695794748680?f=rss)
+  - [大庆油田川渝探区天然气累产��品气量破50亿立方米](https://36kr.com/newsflashes/3785766455712769?f=rss)
+  - [太空金属3D打印技术在轨完成演示验证](https://36kr.com/newsflashes/3785751397768456?f=rss)
+  - [宁德时代50亿美元股票配售据悉获得超过150名投资者认购](https://36kr.com/newsflashes/3785783467171076?f=rss)
   - [宁德时代香港股票配售价据悉为每股628.20港元](https://36kr.com/newsflashes/3785693066746886?f=rss)
+  - [宁德时代：拟配售6238.5万股股份，配售价每股628.2港元](https://36kr.com/newsflashes/3785737704512520?f=rss)
   - [年内逾200家港股公司回购，科技、消费类公司最积极](https://36kr.com/newsflashes/3785719280950534?f=rss)
   - [微软公司：将不再向OpenAI支付收入分成，微软的OpenAI许可现将转为非独家许可](https://36kr.com/newsflashes/3785671513021698?f=rss)
   - [折叠屏手机赛道再度火热，各大厂商竞相发布新技术](https://36kr.com/newsflashes/3785713889156353?f=rss)
   - [拆除多层分销、API导流“暗门”，中小助贷机构面临出局风险](https://36kr.com/newsflashes/3785718299073542?f=rss)
+  - [日本航空将测试用人形机器人在机场搬货，以应对人手短缺](https://36kr.com/newsflashes/3785775694372096?f=rss)
   - [最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎](https://36kr.com/p/3784806758243587?f=rss)
   - [最新人身险产品预定利率研究值首次回升](https://36kr.com/newsflashes/3785720366570504?f=rss)
+  - [格林美：已向香港联交所更新递交H股发行上市申请](https://36kr.com/newsflashes/3785745701838089?f=rss)
+  - [派拉蒙寻求FCC批准中东资本大幅持股](https://36kr.com/newsflashes/3785773500341256?f=rss)
+  - [深交所：港股通标的证券名单调入迈威生物-B](https://36kr.com/newsflashes/3785774641994757?f=rss)
+  - [特斯拉注册与马斯克2018年薪酬方案相关的逾3亿股股票，价值近1150亿美元](https://36kr.com/newsflashes/3785753398991878?f=rss)
   - [用AI做IP，文娱科技公司星迹互动完成数千万元天使轮融资｜36氪融资首发](https://36kr.com/p/3784697499786503?f=rss)
   - [磷酸铁锂行业掀扩产潮，瞄准高端化布局一体化](https://36kr.com/newsflashes/3785696735058951?f=rss)
   - [美股三大指数收盘涨跌不一，英伟达涨4%创新高](https://36kr.com/newsflashes/3785617500429577?f=rss)
   - [自组织光束让3D成像速度提升25倍](https://36kr.com/newsflashes/3785710805327109?f=rss)
+  - [行业景气度持续上行，光纤光缆上市公司一季度“成绩单”亮眼](https://36kr.com/newsflashes/3785738873511173?f=rss)
   - [软银携手科技巨头，打造5000亿美元AI数据中心](https://36kr.com/newsflashes/3785705259179010?f=rss)
   - [银行密集“上锁”基金代销，原油基金被推至最高风险档位](https://36kr.com/newsflashes/3785716983372801?f=rss)
+  - [长周期考核“压力测试”，基金经理行为模式演绎“进化论”](https://36kr.com/newsflashes/3785761130945801?f=rss)
   - [险资一季度优化权益配置，泛科技与新能源成核心主线](https://36kr.com/newsflashes/3785703905909760?f=rss)
 - 404 Media
   - [Did a Time Traveling Superintelligent AI Try to Warn About White House Correspondents Dinner Shooting? An Investigation](https://www.404media.co/did-a-time-traveling-superintelligent-ai-try-to-warn-about-white-house-correspondents-dinner-shooting-an-investigation/)
@@ -38,6 +56,7 @@
   - [Musk and Altman face off in trial that will determine OpenAI's future](https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/)
   - [OpenAI ends its exclusive partnership with Microsoft](https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/)
 - daringfireball.net
+  - [Rec League](https://recleague.com/?lyr_campaign=df)
   - [Sponsor The Talk Show](https://daringfireball.net/feeds/sponsors/)
   - [Yours Truly on The Vergecast](https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition)
 - darkreading
@@ -51,6 +70,7 @@
 - Emergent Minds | paddo.dev
   - [The 43% Denominator: AI Productivity Net of Rework](https://paddo.dev/blog/ai-pr-denominator/)
 - Hacker News Frontpage
+  - [Generative AI Vegetarianism](https://sboots.ca/2026/03/11/generative-ai-vegetarianism/)
   - [New Integrated by Design FreeBSD Book](https://vivianvoss.net/blog/integrated-by-design-launch)
   - [NPM Website Is Down](https://status.npmjs.org)
 - HackerNoon
@@ -113,8 +133,11 @@
 - Wired
   - [Cole Allen Charged With Attempting to Assassinate Trump](https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/)
   - [Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins](https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/)
+  - [Some Musk v. Altman Jurors Don't Like Elon Musk](https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/)
   - [The M5 MacBook Air Has Never Been Cheaper](https://www.wired.com/story/m5-macbook-air-never-been-cheaper/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜小米玄戒O1出货破百万，未来还将「上车」/OpenAI与微软「分手」/小红书发布首份AI治理主张](https://www.ifanr.com/1664127?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [美国苹果公司面临不公平劳动行为指控](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%9D%A2%E4%B8%B4%E4%B8%8D%E5%85%AC%E5%B9%B3%E5%8A%B3%E5%8A%A8%E8%A1%8C%E4%B8%BA%E6%8C%87%E6%8E%A7)
