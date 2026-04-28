@@ -3,9 +3,32 @@
 - 2Libra
   - [出来看星星 ✨：今天大风北京空气质量极好，此时西部天空可以非常清晰地看到天狼星、木星、南河三、北河三、参宿四、金星等一系列亮星。](https://2libra.com/post/astronomy-observation/j8Me_x8)
 - 36氪
+  - [8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元](https://36kr.com/p/3785730095127817?f=rss)
+  - [DeepSeek V4引爆半导体行情，国产算力投资逻辑升级](https://36kr.com/newsflashes/3785721071803394?f=rss)
+  - [Spotify携手Peloton推出全球健身内容中心](https://36kr.com/newsflashes/3785698876153089?f=rss)
+  - [“市退”首超“面退”，A股多元化出清格局加速成形](https://36kr.com/newsflashes/3785700296154372?f=rss)
+  - [“干法转移”实现晶圆级单晶二维半导体柔性集成](https://36kr.com/newsflashes/3785711453035785?f=rss)
+  - [「寻明生科」完成3500万美元A+轮融资，首个抗体药物即将进入临床｜36氪首发](https://36kr.com/p/3784480103455748?f=rss)
+  - [一季度公募FOF规模超2800亿元，环比增逾三成](https://36kr.com/newsflashes/3785713086110729?f=rss)
+  - [上市期货公司一季度业绩爆发，多家公司营收、净利润均实现大幅增长](https://36kr.com/newsflashes/3785706339949833?f=rss)
+  - [中信建投：看好AI应用落地与AI算力需求增长](https://36kr.com/newsflashes/3785707179154694?f=rss)
+  - [二手时尚交易平台Vinted估值达80亿欧元](https://36kr.com/newsflashes/3785697577475333?f=rss)
+  - [前谷歌DeepMind研究员创办AI初创公司，斩获11亿美元创纪录种子轮融资](https://36kr.com/newsflashes/3785710148230151?f=rss)
+  - [多家上市钨企一季度大赚，分析人士称钨价有望长期维持高位运行](https://36kr.com/newsflashes/3785695794748680?f=rss)
+  - [宁德时代香港股票配售价据悉为每股628.20港元](https://36kr.com/newsflashes/3785693066746886?f=rss)
+  - [年内逾200家港股公司回购，科技、消费类公司最积极](https://36kr.com/newsflashes/3785719280950534?f=rss)
   - [微软公司：将不再向OpenAI支付收入分成，微软的OpenAI许可现将转为非独家许可](https://36kr.com/newsflashes/3785671513021698?f=rss)
+  - [折叠屏手机赛道再度火热，各大厂商竞相发布新技术](https://36kr.com/newsflashes/3785713889156353?f=rss)
+  - [拆除多层分销、API导流“暗门”，中小助贷机构面临出局风险](https://36kr.com/newsflashes/3785718299073542?f=rss)
   - [最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎](https://36kr.com/p/3784806758243587?f=rss)
+  - [最新人身险产品预定利率研究值首次回升](https://36kr.com/newsflashes/3785720366570504?f=rss)
+  - [用AI做IP，文娱科技公司星迹互动完成数千万元天使轮融资｜36氪融资首发](https://36kr.com/p/3784697499786503?f=rss)
+  - [磷酸铁锂行业掀扩产潮，瞄准高端化布局一体化](https://36kr.com/newsflashes/3785696735058951?f=rss)
   - [美股三大指数收盘涨跌不一，英伟达涨4%创新高](https://36kr.com/newsflashes/3785617500429577?f=rss)
+  - [自组织光束让3D成像速度提升25倍](https://36kr.com/newsflashes/3785710805327109?f=rss)
+  - [软银携手科技巨头，打造5000亿美元AI数据中心](https://36kr.com/newsflashes/3785705259179010?f=rss)
+  - [银行密集“上锁”基金代销，原油基金被推至最高风险档位](https://36kr.com/newsflashes/3785716983372801?f=rss)
+  - [险资一季度优化权益配置，泛科技与新能源成核心主线](https://36kr.com/newsflashes/3785703905909760?f=rss)
 - 404 Media
   - [Did a Time Traveling Superintelligent AI Try to Warn About White House Correspondents Dinner Shooting? An Investigation](https://www.404media.co/did-a-time-traveling-superintelligent-ai-try-to-warn-about-white-house-correspondents-dinner-shooting-an-investigation/)
   - [People Using AI to Represent Themselves in Court Are Clogging the System](https://www.404media.co/people-using-ai-to-represent-themselves-in-court-are-clogging-the-system/)
@@ -15,6 +38,7 @@
   - [Musk and Altman face off in trial that will determine OpenAI's future](https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/)
   - [OpenAI ends its exclusive partnership with Microsoft](https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/)
 - daringfireball.net
+  - [Sponsor The Talk Show](https://daringfireball.net/feeds/sponsors/)
   - [Yours Truly on The Vergecast](https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition)
 - darkreading
   - [UNC6692 Combines Social Engineering, Malware, Cloud Abuse](https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse)
@@ -24,17 +48,23 @@
   - [Managing Apple Intelligence settings for macOS using Blueprints in Jamf Pro](https://derflounder.wordpress.com/2026/04/27/managing-apple-intelligence-settings-for-macos-using-blueprints-in-jamf-pro/)
 - EFF
   - [The Internet Still Works: SmugMug Powers Online Photography](https://www.eff.org/deeplinks/2026/04/internet-still-works-smugmug-powers-online-photography)
+- Emergent Minds | paddo.dev
+  - [The 43% Denominator: AI Productivity Net of Rework](https://paddo.dev/blog/ai-pr-denominator/)
 - Hacker News Frontpage
+  - [New Integrated by Design FreeBSD Book](https://vivianvoss.net/blog/integrated-by-design-launch)
   - [NPM Website Is Down](https://status.npmjs.org)
 - HackerNoon
   - [Challenges Facing the MCP in 2026: Critical Security, Architectual, and More](https://hackernoon.com/challenges-facing-the-mcp-in-2026-critical-security-architectual-and-more?source=rss)
   - [Israel Just Tokenized the World's Best Performing Currency. Why Wall Street Is Paying Attention](https://hackernoon.com/israel-just-tokenized-the-worlds-best-performing-currency-why-wall-street-is-paying-attention?source=rss)
+- idiallo.com
+  - [Don't use localhost:3000, use your own custom domain](https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed)
 - joanwestenberg.com
   - [The Loop: everything has happened before, and everything will happen again](https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/)
 - MIT Technology Review
   - [Elon Musk and Sam Altman are going to court over OpenAI’s future](https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/)
   - [The missing step between hype and profit](https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/)
 - simonwillison.net
+  - [microsoft/VibeVoice](https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything)
   - [Speech translation in Google Meet is now rolling out to mobile devices](https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything)
   - [Tracking the history of the now-deceased OpenAI Microsoft AGI clause](https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -86,3 +116,5 @@
   - [The M5 MacBook Air Has Never Been Cheaper](https://www.wired.com/story/m5-macbook-air-never-been-cheaper/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [美国苹果公司面临不公平劳动行为指控](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%9D%A2%E4%B8%B4%E4%B8%8D%E5%85%AC%E5%B9%B3%E5%8A%B3%E5%8A%A8%E8%A1%8C%E4%B8%BA%E6%8C%87%E6%8E%A7)
