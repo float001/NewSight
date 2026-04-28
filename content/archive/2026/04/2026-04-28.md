@@ -31,6 +31,7 @@
   - [36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单](https://36kr.com/p/3785955616152839?f=rss)
   - [4月28日人民币对美元中间价调贬10个基点](https://36kr.com/newsflashes/3785802702429448?f=rss)
   - [8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元](https://36kr.com/p/3785730095127817?f=rss)
+  - [ADP：截至4月11日四周美国私营部门就业人数平均每周增加3.925万](https://36kr.com/newsflashes/3786453125324033?f=rss)
   - [A股三大指数午间收盘集体下跌，药明康德涨停](https://36kr.com/newsflashes/3785935042895105?f=rss)
   - [A股三大指数集体低开，药明康德涨超9%](https://36kr.com/newsflashes/3785812612668424?f=rss)
   - [A股三大指数集体收跌，航天军工板块领跌](https://36kr.com/newsflashes/3786140241091842?f=rss)
@@ -86,10 +87,12 @@
   - [华曙高科：拟募资不超39.1亿元，用于先进增材制造设备产能提升项目等](https://36kr.com/newsflashes/3786438056582403?f=rss)
   - [华电国际：第一季度净利润17.89亿元，同比下降9.93%](https://36kr.com/newsflashes/3786196940495878?f=rss)
   - [南向资金净买入额达100亿港元](https://36kr.com/newsflashes/3786170106715399?f=rss)
+  - [古井贡酒：第一季度净利润16.07亿元，同比下降31.03%](https://36kr.com/newsflashes/3786443969305607?f=rss)
   - [可口可乐第一季度净营收124.72亿美元](https://36kr.com/newsflashes/3786403225164809?f=rss)
   - [台积电：正以“二倍速”推进扩产计划](https://36kr.com/newsflashes/3785771117862148?f=rss)
   - [名创优品旗下公司在上海成立画廊公司](https://36kr.com/newsflashes/3785855989751047?f=rss)
   - [唐山港：一季度归母净利润4.71亿元，同比增加23.46%](https://36kr.com/newsflashes/3786255121603589?f=rss)
+  - [商汤科技正式发布并开源日日新SenseNova U1系列模型](https://36kr.com/newsflashes/3786492691782919?f=rss)
   - [四创电子：聘任余保华为公司副总经理](https://36kr.com/newsflashes/3786230950321412?f=rss)
   - [复星医药：一季度归母净利润8.71亿元，同比增长13.87%](https://36kr.com/newsflashes/3786245167734023?f=rss)
   - [多家上市钨企一季度大赚，分析人士称钨价有望长期维持高位运行](https://36kr.com/newsflashes/3785695794748680?f=rss)
@@ -156,7 +159,9 @@
   - [深交所：港股通标的证券名单调入迈威生物-B](https://36kr.com/newsflashes/3785774641994757?f=rss)
   - [深圳华强：第一季度净利润2.01亿元，同比增长90.28%](https://36kr.com/newsflashes/3786335656795140?f=rss)
   - [深圳市汇川技术股份有限公司向港交所提交上市申请书](https://36kr.com/newsflashes/3786310001400840?f=rss)
+  - [清越科技：实施其他风险警示，股票停牌](https://36kr.com/newsflashes/3786468315733251?f=rss)
   - [澳大利亚拟对科技巨头征收约2%税费，除非达成本地新闻付费协议](https://36kr.com/newsflashes/3786018967280898?f=rss)
+  - [热门中概股美股盘前多数下跌，理想汽车跌超4%](https://36kr.com/newsflashes/3786484642372615?f=rss)
   - [特斯拉注册与马斯克2018年薪酬方案相关的逾3亿股股票，价值近1150亿美元](https://36kr.com/newsflashes/3785753398991878?f=rss)
   - [独家对谈｜缘启智慧CEO邓江，一个80后银行码农出身的AI医疗创业者](https://36kr.com/p/3786252394945795?f=rss)
   - [环旭电子：一季度归母净利润4.17亿元，同比增加24.57%](https://36kr.com/newsflashes/3786243980811266?f=rss)
@@ -177,6 +182,7 @@
   - [美国会预算办公室：未来十年美政府赤字增加超万亿美元](https://36kr.com/newsflashes/3785954012552200?f=rss)
   - [美的集团旗下公司等成立创投合伙企业](https://36kr.com/newsflashes/3785957141634308?f=rss)
   - [美股三大指数收盘涨跌不一，英伟达涨4%创新高](https://36kr.com/newsflashes/3785617500429577?f=rss)
+  - [美股大型科技股盘前跌多涨少，Arm跌超7%](https://36kr.com/newsflashes/3786480947404041?f=rss)
   - [翔鹭钨业：第一季度净利润2.51亿元，同比增长2917%](https://36kr.com/newsflashes/3786225871690756?f=rss)
   - [联想上海科技公司注册资本增至6.22亿元](https://36kr.com/newsflashes/3786152135990533?f=rss)
   - [胜宏科技：惠州厂房四项目已分阶段逐步投产，目前处于爬坡与量产阶段](https://36kr.com/newsflashes/3786009369337090?f=rss)
@@ -199,6 +205,7 @@
   - [通用汽车第一季度净利润26.27亿美元，同比减少5.7%](https://36kr.com/newsflashes/3786352560332038?f=rss)
   - [银行密集“上锁”基金代销，原油基金被推至最高风险档位](https://36kr.com/newsflashes/3785716983372801?f=rss)
   - [长周期考核“压力测试”，基金经理行为模式演绎“进化论”](https://36kr.com/newsflashes/3785761130945801?f=rss)
+  - [长芯博创：拟1.96亿元收购高速有源光缆公司长芯盛2.20%股份](https://36kr.com/newsflashes/3786452077763584?f=rss)
   - [阳光电源：未来三年储能的整体装机规模会增加，预计增速在30%—50%之间](https://36kr.com/newsflashes/3785818272800008?f=rss)
   - [阿里发布第三个癌症AI模型DAMO COCA](https://36kr.com/newsflashes/3785962831797249?f=rss)
   - [险资一季度优化权益配置，泛科技与新能源成核心主线](https://36kr.com/newsflashes/3785703905909760?f=rss)
@@ -270,15 +277,20 @@
 - idiallo.com
   - [Don't use localhost:3000, use your own custom domain](https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed)
 - infosecurity-magazine.com
+  - [Chinese National Extradited Over Silk Typhoon Cyber Campaign](https://www.infosecurity-magazine.com/news/chinese-national-extradited-silk/)
   - [No Metrics Are Better Than Bad Metrics in the SOC, Says NCSC](https://www.infosecurity-magazine.com/news/no-metrics-better-bad-metrics-soc/)
   - [North Korean Hackers Target Crypto Firms with ClickFix and AI-Made Zoom Lures](https://www.infosecurity-magazine.com/news/bluenoroff-dprk-hackers-target/)
+  - [Ransomware Turf War as 0APT and KryBit Groups Trade Blows](https://www.infosecurity-magazine.com/news/ransomware-turf-war-0apt-krybit/)
 - joanwestenberg.com
   - [The Loop: everything has happened before, and everything will happen again](https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/)
 - MIT Technology Review
   - [Elon Musk and Sam Altman are going to court over OpenAI’s future](https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/)
+  - [The Download: Musk and Altman’s legal showdown, and AI’s profit problem](https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/)
   - [The missing step between hype and profit](https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/)
 - NowSecure
   - [The Third-Party Mobile App Risk Hidden Inside Your Approved Apps](https://www.nowsecure.com/blog/2026/04/28/the-third-party-mobile-app-risk-hidden-inside-your-approved-apps/)
+- NVIDIA AI Blog
+  - [Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived](https://blogs.nvidia.com/blog/manufacturing-simulation-first/)
 - pluralistic.net
   - [Pluralistic: Vicky Osterweil's "The Extended Universe" (28 Apr 2026)](https://pluralistic.net/2026/04/27/mouseketeers/)
 - PortSwigger Blog
@@ -308,6 +320,8 @@
   - [Exploit for Out-of-bounds Read in Polkit_Project Polkit exploit](https://sploitus.com/exploit?id=5CEFC968-CC34-5896-BE86-5F94DB97D577&utm_source=rss&utm_medium=rss)
   - [Exploit-Hub exploit](https://sploitus.com/exploit?id=897CB705-45D0-50FF-BB0B-4EFC5CDAFAA9&utm_source=rss&utm_medium=rss)
   - [IPDevicePenTest exploit](https://sploitus.com/exploit?id=A935BABF-D0CA-5A2A-98CF-6768FC0E8297&utm_source=rss&utm_medium=rss)
+- steveblank.com
+  - [Anthropic Mythos – We’ve Opened Pandora’s Box](https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/)
 - Swing'Blog 有恨无人省
   - [CVE-2026-41651 PackageKit TOCTOU 本地提权漏洞分析](https://bestwing.me/CVE-2026-41651-analysis.html)
 - TechCrunch
@@ -320,9 +334,11 @@
   - [Letterboxd, the social platform for film buffs, reportedly looking for new owner](https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/)
   - [OpenAI ends Microsoft legal peril over its $50B Amazon deal](https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/)
   - [Otter’s new feature lets users search across their enterprise tools](https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/)
+  - [Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer](https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/)
 - The Decoder
   - [Google signs AI deal with the Pentagon, ignoring protest from over 600 employees](https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/)
   - [Google's "Ask YouTube" turns video search into a conversation](https://the-decoder.com/googles-ask-youtube-turns-video-search-into-a-conversation/)
+  - [Researchers find AI text is making the internet more uniform and weirdly cheerful](https://the-decoder.com/researchers-find-ai-text-is-making-the-internet-more-uniform-and-weirdly-cheerful/)
 - The Verge
   - [Canonical lays out a plan for AI in Ubuntu Linux](https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features)
   - [Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting](https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories)
@@ -422,6 +438,7 @@
   - [Best Buy Discount Codes: Up to 60% Off](https://www.wired.com/story/best-buy-discount-code/)
   - [Cole Allen Charged With Attempting to Assassinate Trump](https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/)
   - [Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins](https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/)
+  - [Get Ready for More Brain-Scanning Consumer Gadgets](https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/)
   - [Hulu Promo Codes & Discounts: 20% Off in April](https://www.wired.com/story/hulu-promo-code/)
   - [InkPoster Tela 28.5 Review: A Luxe Home Digital Frame](https://www.wired.com/review/inkposter-tela/)
   - [OnePlus Promo Code: $70 Off | April 2026](https://www.wired.com/story/oneplus-promo-code/)
@@ -432,6 +449,7 @@
   - [The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not](https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/)
   - [The Hottest Anti-AI Gadget Is a Cyberdeck](https://www.wired.com/story/cyberdecks-tiktok-ube-boobey-diy-computer-gadget/)
   - [The M5 MacBook Air Has Never Been Cheaper](https://www.wired.com/story/m5-macbook-air-never-been-cheaper/)
+  - [The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards](https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/)
   - [WIRED’s Smart Home Ecosystem Guide (2026)](https://www.wired.com/story/how-to-choose-your-smart-home-ecosystem/)
 - 不安全
   - [Bending the Flipper Zero’s CC1101 Into an APRS Transmitter](https://buaq.net/go-413122.html)
@@ -439,6 +457,7 @@
   - [pgBackRest 作者宣布停止维护该项目](https://buaq.net/go-413143.html)
   - [北京市海淀区工商联领导一行莅临绿盟科技调研指导](https://buaq.net/go-413208.html)
   - [国安部称境外组织资助煽动“躺平”思想](https://buaq.net/go-413107.html)
+  - [德国稀土磁铁回收厂启用 降低对中国依赖](https://buaq.net/go-413248.html)
   - [欧盟要求谷歌向AI竞争对手开放安卓系统](https://buaq.net/go-413124.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -460,12 +479,15 @@
   - [第68期《绿盟+》《安全+》上线啦~](https://blog.nsfocus.net/%e7%ac%ac68%e6%9c%9f%e3%80%8a%e7%bb%bf%e7%9b%9f%e3%80%8b%e3%80%8a%e5%ae%89%e5%85%a8%e3%80%8b%e4%b8%8a%e7%ba%bf%e5%95%a6/)
 - 量子位 QbitAI
   - [我嘞个豆！中国企业牵头，ICLR这场Workshop被挤爆了](https://www.qbitai.com/2026/04/410463.html)
+- 阿小信的博客
+  - [前端表格操作库 Tabulator 常用功能整理：排序、过滤、编辑](https://blog.axiaoxin.com/post/tabulator-guide/)
 - 黑海洋
   - [DeepSeek注册资本增加 梁文锋总持股超84%](https://blog.upx8.com/DeepSeek%E6%B3%A8%E5%86%8C%E8%B5%84%E6%9C%AC%E5%A2%9E%E5%8A%A0-%E6%A2%81%E6%96%87%E9%94%8B%E6%80%BB%E6%8C%81%E8%82%A1%E8%B6%8584)
   - [Meta 已着手准备撤销其对 Manus 的收购](https://blog.upx8.com/Meta-%E5%B7%B2%E7%9D%80%E6%89%8B%E5%87%86%E5%A4%87%E6%92%A4%E9%94%80%E5%85%B6%E5%AF%B9-Manus-%E7%9A%84%E6%94%B6%E8%B4%AD)
   - [Ubuntu将在接下来的一年中开始引入AI功能](https://blog.upx8.com/Ubuntu%E5%B0%86%E5%9C%A8%E6%8E%A5%E4%B8%8B%E6%9D%A5%E7%9A%84%E4%B8%80%E5%B9%B4%E4%B8%AD%E5%BC%80%E5%A7%8B%E5%BC%95%E5%85%A5AI%E5%8A%9F%E8%83%BD)
   - [三星将撤出中国家电销售 最快本月低决定](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E5%B0%86%E6%92%A4%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%AE%B6%E7%94%B5%E9%94%80%E5%94%AE-%E6%9C%80%E5%BF%AB%E6%9C%AC%E6%9C%88%E4%BD%8E%E5%86%B3%E5%AE%9A)
   - [国安部称境外组织资助煽动“躺平”思想](https://blog.upx8.com/%E5%9B%BD%E5%AE%89%E9%83%A8%E7%A7%B0%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87%E8%B5%84%E5%8A%A9%E7%85%BD%E5%8A%A8-%E8%BA%BA%E5%B9%B3-%E6%80%9D%E6%83%B3)
+  - [德国稀土磁铁回收厂启用 降低对中国依赖](https://blog.upx8.com/%E5%BE%B7%E5%9B%BD%E7%A8%80%E5%9C%9F%E7%A3%81%E9%93%81%E5%9B%9E%E6%94%B6%E5%8E%82%E5%90%AF%E7%94%A8-%E9%99%8D%E4%BD%8E%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BE%9D%E8%B5%96)
   - [数据中心需求驱动天然气发电厂成本飙升66%](https://blog.upx8.com/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%9C%80%E6%B1%82%E9%A9%B1%E5%8A%A8%E5%A4%A9%E7%84%B6%E6%B0%94%E5%8F%91%E7%94%B5%E5%8E%82%E6%88%90%E6%9C%AC%E9%A3%99%E5%8D%8766)
   - [欧盟要求谷歌向AI竞争对手开放安卓系统](https://blog.upx8.com/%E6%AC%A7%E7%9B%9F%E8%A6%81%E6%B1%82%E8%B0%B7%E6%AD%8C%E5%90%91AI%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E5%BC%80%E6%94%BE%E5%AE%89%E5%8D%93%E7%B3%BB%E7%BB%9F)
   - [美国苹果公司面临不公平劳动行为指控](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%9D%A2%E4%B8%B4%E4%B8%8D%E5%85%AC%E5%B9%B3%E5%8A%B3%E5%8A%A8%E8%A1%8C%E4%B8%BA%E6%8C%87%E6%8E%A7)
