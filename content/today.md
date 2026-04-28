@@ -2,8 +2,39 @@
 
 - Google AI Blog
   - [Celebrating 20 years of Google Translate: Fun facts, tips and new features to try](https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/)
+- Hacker News Frontpage
+  - [Anthropic Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/)
+  - [Cybersec is a thankless job: expanding workload and shrinking pay packet](https://www.theregister.com/2026/04/27/from_a_massive_skills_gap/)
+  - [Greece to ban anonymity on social media](https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media/)
+  - [Laguna XS.2 and M.1](https://poolside.ai/blog/laguna-a-deeper-dive)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-1306 exploit](https://sploitus.com/exploit?id=69BCB641-A79A-5B3F-B4CB-8F788F31C22C&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Australia forces Big Tech firms to pay for news or face a 2.25% tax](https://techcrunch.com/2026/04/28/australia-forces-big-tech-firms-to-pay-for-news-or-face-a-2-25-tax/)
+  - [Lovable launches its vibe-coding app on iOS and Android](https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/)
+  - [US Supreme Court appears split over controversial use of ‘geofence’ search warrants](https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/)
 - The Verge
+  - [Apple TV’s new horror series is scarier because it’s also hilarious](https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview)
+  - [Claude can now plug directly into Photoshop, Blender, and Ableton](https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender)
   - [Former FCC officials want to force a vote on the ‘weapon’ Brendan Carr has invoked against broadcasters](https://www.theverge.com/policy/919536/former-fcc-officials-brendan-car-news-distortion-policy)
   - [Google Translate can now help you with pronunciation](https://www.theverge.com/tech/919510/google-translate-pronunciation-practice-availability)
+  - [The latest Kindle Paperwhite drops to its best price all year](https://www.theverge.com/gadgets/919644/kindle-paperwhite-marathon-deal-sale)
+- VulDB Recent Entries
+  - [CVE-2025-60887 | Cista up to 0.15 Untrusted Page cista::raw deserialized deserialization](https://vuldb.com/vuln/359990)
+  - [CVE-2025-67223 | Aranda Service Desk up to 8.3.11 unrestricted upload](https://vuldb.com/vuln/359988)
+  - [CVE-2026-27760 | OpenCATS up to 0.9.7.4 AJAX Endpoint config.php define action code injection](https://vuldb.com/vuln/359978)
+  - [CVE-2026-40556 | GNU nano up to 8.x Local Directory Page ~/.local permission assignment](https://vuldb.com/vuln/359979)
+  - [CVE-2026-40969 | Vmware Spring gRPC up to 1.0.2 Raw Message information exposure](https://vuldb.com/vuln/359989)
+  - [CVE-2026-41873 | Apache Pony Mail HTTP Request request smuggling](https://vuldb.com/vuln/359980)
+  - [CVE-2026-7320 | Mozilla Firefox up to 150.0.0 Video information disclosure](https://vuldb.com/vuln/359981)
+  - [CVE-2026-7322 | Mozilla Firefox up to 150.0.0 memory corruption](https://vuldb.com/vuln/359982)
+  - [CVE-2026-7322 | Mozilla Thunderbird up to 150.0.0 memory corruption](https://vuldb.com/vuln/359983)
+  - [CVE-2026-7323 | Mozilla Firefox up to 150.0.0 memory corruption](https://vuldb.com/vuln/359984)
+  - [CVE-2026-7323 | Mozilla Thunderbird up to 150.0.0 memory corruption](https://vuldb.com/vuln/359985)
+  - [CVE-2026-7324 | Mozilla Firefox up to 150.0.0 memory corruption](https://vuldb.com/vuln/359986)
+  - [CVE-2026-7324 | Mozilla Thunderbird up to 150.0.0 memory corruption](https://vuldb.com/vuln/359987)
+- wheresyoured.at
+  - [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
+  - [AI's Economics Don't Make Sense [Ad Free]](https://www.wheresyoured.at/ais-economics-dont-make-sense-ad-free/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
