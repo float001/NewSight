@@ -20,6 +20,7 @@
   - [小米 MIMO 赠送的一个月 Standard 会员已到账](https://2libra.com/post/tech-news/oG5qoEf)
   - [我们的 AI 进程，你们的尼？](https://2libra.com/post/ai-applications/Tgi_Pt6)
   - [推特账号](https://2libra.com/post/networking/elprsyD)
+  - [根据【I'm rich】徽章获得率和金币排行榜数据计算出 2libra 有 7500 名用户？](https://2libra.com/post/forum-function/UgJW1s4)
   - [现在麦当劳越来越小了，曹，大汉堡两三口就没了，曹。记得以前不是这样的。](https://2libra.com/post/small-things/vJ1QAHI)
   - [看到 V 站有人讨论“本升专” ，我觉得是好事。 有不少本科都是内容太虚离就业太远，真不如学点真正有价值的能直接就业的大专](https://2libra.com/post/social-observation/EFDlQTP)
   - [胡思乱想](https://2libra.com/post/tech-rumination/MHckMiO)
@@ -306,6 +307,8 @@
   - [Pluralistic: Vicky Osterweil's "The Extended Universe" (28 Apr 2026)](https://pluralistic.net/2026/04/27/mouseketeers/)
 - PortSwigger Blog
   - [PortSwigger recognized at the Northern Tech Awards 2026.](https://portswigger.net/blog/portswigger-recognized-at-the-northern-tech-awards-2026)
+- Product Hunt
+  - [Kinhub](https://www.producthunt.com/products/kinhub)
 - Recent Commits to cve:main
   - [Update Tue Apr 28 11:33:50 UTC 2026](https://github.com/trickest/cve/commit/e6645bd9efcbfd08cbd93e82a9dadd5ab2018a79)
 - rtl-sdr.com
@@ -328,6 +331,8 @@
   - [Tracking the history of the now-deceased OpenAI Microsoft AGI clause](https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything)
   - [What's new in pip 26.1 - lockfiles and dependency cooldowns!](https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Code Injection in Vmware Spring_Cloud_Function exploit](https://sploitus.com/exploit?id=A4DE7943-235D-5CDA-9110-735BB44BC3A8&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-42167 exploit](https://sploitus.com/exploit?id=AA06DC52-7C1A-5600-AB1F-D2B5C8CD2EC8&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Openidentityplatform Openam exploit](https://sploitus.com/exploit?id=C6A70E26-FECB-5C4F-B1E4-895B2AA6AE70&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Siemens 6Bk1602-0Aa12-0Tp0_Firmware exploit](https://sploitus.com/exploit?id=B3930E42-6310-557F-8259-07112CB81E44&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Siemens 6Bk1602-0Aa12-0Tp0_Firmware exploit](https://sploitus.com/exploit?id=D2947D08-088D-59B0-9055-6CAACF0C5DC6&utm_source=rss&utm_medium=rss)
@@ -339,6 +344,7 @@
 - Swing'Blog 有恨无人省
   - [CVE-2026-41651 PackageKit TOCTOU 本地提权漏洞分析](https://bestwing.me/CVE-2026-41651-analysis.html)
 - TechCrunch
+  - [Apple introduces a cheaper option for App Store subscriptions](https://techcrunch.com/2026/04/28/apple-introduces-a-cheaper-option-for-app-store-subscriptions/)
   - [BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables](https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/)
   - [Consumers lost $2.1 billion to social media scams in 2025, FTC reports](https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/)
   - [DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data](https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/)
@@ -355,6 +361,8 @@
 - The Decoder
   - [Google signs AI deal with the Pentagon, ignoring protest from over 600 employees](https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/)
   - [Google's "Ask YouTube" turns video search into a conversation](https://the-decoder.com/googles-ask-youtube-turns-video-search-into-a-conversation/)
+  - [Meta scrambles to unwind Manus deal as Beijing's deadline looms](https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/)
+  - [Mistral AI takes on enterprise AI orchestration with Workflows](https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/)
   - [Researchers find AI text is making the internet more uniform and weirdly cheerful](https://the-decoder.com/researchers-find-ai-text-is-making-the-internet-more-uniform-and-weirdly-cheerful/)
 - The Verge
   - [Canonical lays out a plan for AI in Ubuntu Linux](https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features)
@@ -364,6 +372,7 @@
   - [It’s a busy time for sci-fi, but don’t miss Aphelion](https://www.theverge.com/entertainment/919379/aphelion-review-sci-fi-game-steam-ps5-xbox)
   - [Jury selection in Musk v. Altman: ‘People don’t like him’](https://www.theverge.com/tech/919469/elon-musk-dont-like)
   - [Microsoft and OpenAI’s famed AGI agreement is dead](https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract)
+  - [Musk and Altman go to court](https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast)
   - [Samsung&#8217;s first smart glasses have leaked](https://www.theverge.com/gadgets/919189/samsung-galaxy-glasses-leaked-images)
   - [Trump demands ABC fire Jimmy Kimmel](https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc)
 - troyhunt.com
@@ -460,7 +469,9 @@
 - Wallarm
   - [6 Lessons Security Leaders Must Learn About AI and APIs](https://lab.wallarm.com/6-lessons-security-leaders-must-learn-about-ai-and-apis/)
 - Wired
+  - [A DOGE Affiliate Is Now in Charge of the US Government's ID Platform](https://www.wired.com/story/a-doge-affiliate-is-now-in-charge-of-the-us-governments-id-platform/)
   - [Acer Swift 16 AI (2026) Review: Where Do Your Hands Go?](https://www.wired.com/review/acer-swift-16-ai-2026/)
+  - [Amazon's Kindle Colorsoft Gets a Dark Mode (2026)](https://www.wired.com/story/kindle-colorsoft-dark-mode-2026/)
   - [Best Buy Discount Codes: Up to 60% Off](https://www.wired.com/story/best-buy-discount-code/)
   - [Cole Allen Charged With Attempting to Assassinate Trump](https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/)
   - [Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins](https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/)
@@ -495,6 +506,7 @@
 - 奇客Solidot–传递最新科技情报
   - [GitHub Copilot 切换到基于使用量的计费方式](https://www.solidot.org/story?sid=84168)
   - [pgBackRest 作者宣布停止维护该项目](https://www.solidot.org/story?sid=84166)
+  - [尼安德特人和现代人类大脑之间主要是外观上的差异](https://www.solidot.org/story?sid=84174)
 - 爱范儿
   - [9秒删光公司数据库，我花最贵的钱，买了一个「删库跑路」的AI](https://www.ifanr.com/1664182?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [OpenAI 和微软官宣「分手」，七年 CP 终成塑料](https://www.ifanr.com/1664039?utm_source=rss&utm_medium=rss&utm_campaign=)
