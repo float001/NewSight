@@ -2,6 +2,8 @@
 
 - 404 Media
   - [Scientists Investigated a Frequency Linked to ‘Paranormal’ Encounters. The Results Were Unsettling.](https://www.404media.co/scientists-investigated-a-frequency-linked-to-paranormal-encounters-the-results-were-unsettling/)
+- darkreading
+  - [Vidar Rises to Top of Chaotic Infostealer Market](https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market)
 - experimental-history.com
   - [The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree](https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition)
 - gilesthomas.com
@@ -19,8 +21,10 @@
   - [The Chip That Made Hardware Rewriteable](https://spectrum.ieee.org/fpga-chip-ieee-milestone)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-1306 exploit](https://sploitus.com/exploit?id=69BCB641-A79A-5B3F-B4CB-8F788F31C22C&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-6807 exploit](https://sploitus.com/exploit?id=08B53495-61C6-5F9D-B63B-BEA3ADDB0C6F&utm_source=rss&utm_medium=rss)
   - [offensive-security-labs exploit](https://sploitus.com/exploit?id=496A3197-1274-5881-9D8C-045C0264CB28&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Amazon is already offering new OpenAI products on AWS](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/)
   - [Amazon launches an AI-powered audio Q&A experience on product pages](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/)
   - [Australia forces Big Tech firms to pay for news or face a 2.25% tax](https://techcrunch.com/2026/04/28/australia-forces-big-tech-firms-to-pay-for-news-or-face-a-2-25-tax/)
   - [Google expands Pentagon’s access to its AI after Anthropic’s refusal](https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/)
