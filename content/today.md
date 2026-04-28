@@ -3,6 +3,7 @@
 - 404 Media
   - [Scientists Investigated a Frequency Linked to ‘Paranormal’ Encounters. The Results Were Unsettling.](https://www.404media.co/scientists-investigated-a-frequency-linked-to-paranormal-encounters-the-results-were-unsettling/)
 - darkreading
+  - [BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures](https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures)
   - [Feuding Ransomware Groups Leak Each Other's Data](https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data)
   - [Vidar Rises to Top of Chaotic Infostealer Market](https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market)
 - EFF
@@ -15,14 +16,19 @@
   - [Celebrating 20 years of Google Translate: Fun facts, tips and new features to try](https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/)
 - Hacker News Frontpage
   - [Anthropic Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/)
+  - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
   - [BookStack Moves from GitHub to Codeberg](https://github.com/BookStackApp/BookStack/issues/4551)
   - [Cybersec is a thankless job: expanding workload and shrinking pay packet](https://www.theregister.com/2026/04/27/from_a_massive_skills_gap/)
   - [Greece to ban anonymity on social media](https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media/)
   - [I Won a Championship That Doesn't Exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
   - [Laguna XS.2 and M.1](https://poolside.ai/blog/laguna-a-deeper-dive)
   - [Waymo in Portland](https://waymo.com/blog/shorts/waymo-in-portland/)
+- HackerNoon
+  - [Building a Reactive SPA by Using PHP, Twig, and JavaScript via Stimulus: Part One](https://hackernoon.com/building-a-reactive-spa-by-using-php-twig-and-javascript-via-stimulus-part-one?source=rss)
 - IEEE Spectrum
   - [The Chip That Made Hardware Rewriteable](https://spectrum.ieee.org/fpga-chip-ieee-milestone)
+- johndcook.com
+  - [Turning a trick into a technique](https://www.johndcook.com/blog/2026/04/28/even-series-trick/)
 - Security Affairs
   - [CVE-2026-3854 GitHub flaw enables remote code execution](https://securityaffairs.com/191434/security/cve-2026-3854-github-flaw-enables-remote-code-execution.html)
 - Sploitus.com Exploits RSS Feed
@@ -38,6 +44,8 @@
   - [Match Group invests $100M in Sniffies, a cruising app for gay men](https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/)
   - [Paragon is not collaborating with Italian authorities probing spyware attacks, report says](https://techcrunch.com/2026/04/28/paragon-is-not-collaborating-with-italian-authorities-probing-spyware-attacks-report-says/)
   - [US Supreme Court appears split over controversial use of ‘geofence’ search warrants](https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/)
+- text/plain
+  - [Smart App Control](https://textslashplain.com/2026/04/28/smart-app-control/)
 - The Decoder
   - [Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026](https://the-decoder.com/here-is-what-an-llm-that-knows-nothing-after-1930-thinks-our-world-looks-like-in-2026/)
 - The Verge
@@ -48,6 +56,7 @@
   - [Former FCC officials want to force a vote on the ‘weapon’ Brendan Carr has invoked against broadcasters](https://www.theverge.com/policy/919536/former-fcc-officials-brendan-car-news-distortion-policy)
   - [Google Home makes it easier to understand why devices aren&#8217;t working](https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update)
   - [Google Translate can now help you with pronunciation](https://www.theverge.com/tech/919510/google-translate-pronunciation-practice-availability)
+  - [James Comey indicted over Instagram seashell photo that allegedly threatened Trump](https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump)
   - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
   - [Logitech made a analog and mechanical keyboard in one](https://www.theverge.com/news/919517/logitech-g512x-gaming-keyboard-hall-effect-tmr-mechanical-swap)
   - [Taylor Swift is stepping up the legal war on AI copycats](https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats)
@@ -73,6 +82,7 @@
   - [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
   - [AI's Economics Don't Make Sense [Ad Free]](https://www.wheresyoured.at/ais-economics-dont-make-sense-ad-free/)
 - Wired
+  - [Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’](https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/)
   - [Sniffies’ Users Worry About a ‘Straightification’ of the Gay Hookup App](https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/)
   - [The UK’s Answer to Darpa Wants to Rewire the Human Brain](https://www.wired.com/story/kathleen-fisher-jacques-carolan-aria-wired-health/)
   - [Why Sharing a Screenshot Can Get You Jailed in the UAE](https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/)
