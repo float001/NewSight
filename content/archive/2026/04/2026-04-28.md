@@ -10,6 +10,10 @@
   - [你会一个人出去旅游吗？比如五一十一和其他假期等。](https://2libra.com/post/travel-logs/avHpt0N)
   - [做了一款在线 GPU 推理速度计算器，希望可以帮助到大家](https://2libra.com/post/ai-tools/Hj2rfMF)
   - [出来看星星 ✨：今天大风北京空气质量极好，此时西部天空可以非常清晰地看到天狼星、木星、南河三、北河三、参宿四、金星等一系列亮星。](https://2libra.com/post/astronomy-observation/j8Me_x8)
+  - [前端工种 消亡还是蜕变？](https://2libra.com/post/ai-trends/eZehaMc)
+  - [大家多久清理一次电脑，用的是什么清理工具？](https://2libra.com/post/tools-sharing/W6okkFq)
+  - [大家有没有什么写 excel/文档比较好用的 agent 推荐啊](https://2libra.com/post/tools-sharing/9sv9vXM)
+  - [安装了一个猫猫的 chrome 插件！哈哈有点意思](https://2libra.com/post/browser-extensions/t3GURqI)
   - [小 App 开发者如何高效解决变现痛点？](https://2libra.com/post/indie-dev/2Xa1hxQ)
   - [小米 MIMO 赠送的一个月 Standard 会员已到账](https://2libra.com/post/tech-news/oG5qoEf)
   - [我们的 AI 进程，你们的尼？](https://2libra.com/post/ai-applications/Tgi_Pt6)
@@ -48,6 +52,7 @@
   - [中共中央政治局：精准有效实施更加积极的财政政策和适度宽松的货币政策](https://36kr.com/newsflashes/3786051649608960?f=rss)
   - [中国物流集团控股公司注册资本增至8亿元](https://36kr.com/newsflashes/3786126803524872?f=rss)
   - [中指研究院：3月房地产债券融资总额环比增长48.4%](https://36kr.com/newsflashes/3785836608445447?f=rss)
+  - [中晶科技：第一季度净利润1384.92万元，同比增长95.93%](https://36kr.com/newsflashes/3786194251259142?f=rss)
   - [丰田合成将进行股票拆分，1股拆分为5股](https://36kr.com/newsflashes/3786000297008133?f=rss)
   - [二手时尚交易平台Vinted估值达80亿欧元](https://36kr.com/newsflashes/3785697577475333?f=rss)
   - [五一视界SimOne4.0先行版正式发布，已完成与英伟达产品深度融合](https://36kr.com/newsflashes/3785783585266689?f=rss)
@@ -58,6 +63,8 @@
   - [前谷歌DeepMind研究员创办AI初创公司，斩获11亿美元创纪录种子轮融资](https://36kr.com/newsflashes/3785710148230151?f=rss)
   - [加拿大将设立首只主权财富基金，初始规模250亿加元](https://36kr.com/newsflashes/3785740640378117?f=rss)
   - [半日主力资金加仓非银金融股，抛售通信股](https://36kr.com/newsflashes/3785942687767553?f=rss)
+  - [华电国际：第一季度净利润17.89亿元，同比下降9.93%](https://36kr.com/newsflashes/3786196940495878?f=rss)
+  - [南向资金净买入额达100亿港元](https://36kr.com/newsflashes/3786170106715399?f=rss)
   - [台积电：正以“二倍速”推进扩产计划](https://36kr.com/newsflashes/3785771117862148?f=rss)
   - [名创优品旗下公司在上海成立画廊公司](https://36kr.com/newsflashes/3785855989751047?f=rss)
   - [多家上市钨企一季度大赚，分析人士称钨价有望长期维持高位运行](https://36kr.com/newsflashes/3785695794748680?f=rss)
@@ -69,9 +76,11 @@
   - [宁德时代香港股票配售价据悉为每股628.20港元](https://36kr.com/newsflashes/3785693066746886?f=rss)
   - [宁德时代：拟配售6238.5万股股份，配售价每股628.2港元](https://36kr.com/newsflashes/3785737704512520?f=rss)
   - [宁德核电项目二期工程5号机组核岛安装开工](https://36kr.com/newsflashes/3785827640925188?f=rss)
+  - [宁水集团：一季度归母净利润1079.32万元，同比下降61.76%](https://36kr.com/newsflashes/3786185044663304?f=rss)
   - [小米已注册多枚玄戒系列商标](https://36kr.com/newsflashes/3785894799760640?f=rss)
   - [小鹏汽车旗下公司成立鹏禹汽车贸易新公司](https://36kr.com/newsflashes/3785920424123653?f=rss)
   - [山东省财金创业投资公司注册资本增至50亿元](https://36kr.com/newsflashes/3785957664054535?f=rss)
+  - [巨化股份：第一季度净利润11.73亿元，同比增长46%](https://36kr.com/newsflashes/3786193816230915?f=rss)
   - [巴克莱一季度利润总额81.6亿英镑，高于预期](https://36kr.com/newsflashes/3786108294650880?f=rss)
   - [市场消息：Meta准备撤销对Manus的收购](https://36kr.com/newsflashes/3785999714786310?f=rss)
   - [年内逾200家港股公司回购，科技、消费类公司最积极](https://36kr.com/newsflashes/3785719280950534?f=rss)
@@ -96,6 +105,7 @@
   - [最新人身险产品预定利率研究值首次回升](https://36kr.com/newsflashes/3785720366570504?f=rss)
   - [格力电器：已具备做“人形机器人”的能力](https://36kr.com/newsflashes/3786090907278595?f=rss)
   - [格林美：已向香港联交所更新递交H股发行上市申请](https://36kr.com/newsflashes/3785745701838089?f=rss)
+  - [比亚迪：部分车型选装天神之眼B辅助驾驶激光版的价格将从9900元上调为12000元](https://36kr.com/newsflashes/3786161782791169?f=rss)
   - [沃尔核材：公司单通道224G高速通信线已实现量产](https://36kr.com/newsflashes/3786013517765897?f=rss)
   - [沪深两市成交额突破2万亿](https://36kr.com/newsflashes/3786068465835015?f=rss)
   - [泡泡玛特LABUBU冰箱Home款将于京东发售](https://36kr.com/newsflashes/3786114418514951?f=rss)
@@ -105,21 +115,29 @@
   - [特斯拉注册与马斯克2018年薪酬方案相关的逾3亿股股票，价值近1150亿美元](https://36kr.com/newsflashes/3785753398991878?f=rss)
   - [现货白银日内跌幅达2%](https://36kr.com/newsflashes/3786035559636227?f=rss)
   - [现货黄金日内跌幅扩大至1%](https://36kr.com/newsflashes/3786062416387337?f=rss)
+  - [生益电子：第一季度净利润4.45亿元，同比增长122%](https://36kr.com/newsflashes/3786180400290821?f=rss)
   - [用AI做IP，文娱科技公司星迹互动完成数千万元天使轮融资｜36氪融资首发](https://36kr.com/p/3784697499786503?f=rss)
   - [电装公司拟斥资至多3136亿日元回购自身股票](https://36kr.com/newsflashes/3785862776888583?f=rss)
   - [百度发全员信通知职级体系大调整](https://36kr.com/newsflashes/3785900568812802?f=rss)
   - [磷酸铁锂行业掀扩产潮，瞄准高端化布局一体化](https://36kr.com/newsflashes/3785696735058951?f=rss)
+  - [红日药业：一季度归母净利润6571.48万元，同比增加8.93%](https://36kr.com/newsflashes/3786200049818880?f=rss)
   - [美国会预算办公室：未来十年美政府赤字增加超万亿美元](https://36kr.com/newsflashes/3785954012552200?f=rss)
   - [美的集团旗下公司等成立创投合伙企业](https://36kr.com/newsflashes/3785957141634308?f=rss)
   - [美股三大指数收盘涨跌不一，英伟达涨4%创新高](https://36kr.com/newsflashes/3785617500429577?f=rss)
+  - [联想上海科技公司注册资本增至6.22亿元](https://36kr.com/newsflashes/3786152135990533?f=rss)
   - [胜宏科技：惠州厂房四项目已分阶段逐步投产，目前处于爬坡与量产阶段](https://36kr.com/newsflashes/3786009369337090?f=rss)
   - [腾讯入股珠海横琴红杉见远创投基金](https://36kr.com/newsflashes/3785844768496901?f=rss)
   - [自组织光束让3D成像速度提升25倍](https://36kr.com/newsflashes/3785710805327109?f=rss)
+  - [航空燃油成本上涨，泰国亚航宣布大幅削减航班](https://36kr.com/newsflashes/3786157389208841?f=rss)
   - [英国石油一季度调整后净利润32亿美元，高于预期](https://36kr.com/newsflashes/3786102194314245?f=rss)
   - [行业景气度持续上行，光纤光缆上市公司一季度“成绩单”亮眼](https://36kr.com/newsflashes/3785738873511173?f=rss)
   - [诺华第一季度核心每股收益1.99美元，低于预估](https://36kr.com/newsflashes/3786046302756104?f=rss)
   - [谷歌DeepMind首席执行官访韩，会见现代汽车和LG集团负责人](https://36kr.com/newsflashes/3786114942786823?f=rss)
+  - [轮毂螺栓可能脱落，特斯拉在美召回173辆Cybertruck](https://36kr.com/newsflashes/3786159467912200?f=rss)
   - [软银携手科技巨头，打造5000亿美元AI数据中心](https://36kr.com/newsflashes/3785705259179010?f=rss)
+  - [近期全国生猪价格企稳回升](https://36kr.com/newsflashes/3786163452534017?f=rss)
+  - [追尾后油箱或泄漏，大众在美召回38710辆Taos](https://36kr.com/newsflashes/3786155831745797?f=rss)
+  - [追觅硅谷发布会首日，火箭车Nebula NEXT 01 JET Edition亮相](https://36kr.com/newsflashes/3786155479194627?f=rss)
   - [银行密集“上锁”基金代销，原油基金被推至最高风险档位](https://36kr.com/newsflashes/3785716983372801?f=rss)
   - [长周期考核“压力测试”，基金经理行为模式演绎“进化论”](https://36kr.com/newsflashes/3785761130945801?f=rss)
   - [阳光电源：未来三年储能的整体装机规模会增加，预计增速在30%—50%之间](https://36kr.com/newsflashes/3785818272800008?f=rss)
@@ -129,6 +147,7 @@
   - [韩国散户“扫货”中国PCB龙头](https://36kr.com/newsflashes/3785802412563461?f=rss)
   - [韩国法院下令取消对奈飞征收的687亿韩元税款](https://36kr.com/newsflashes/3785878173522945?f=rss)
   - [韩股市值超越英国，成为全球第八大股市](https://36kr.com/newsflashes/3785979428084736?f=rss)
+  - [骑士乳业：一季度归母净利润1245.95万元，同比增长16.97%](https://36kr.com/newsflashes/3786176435575814?f=rss)
 - 404 Media
   - [Did a Time Traveling Superintelligent AI Try to Warn About White House Correspondents Dinner Shooting? An Investigation](https://www.404media.co/did-a-time-traveling-superintelligent-ai-try-to-warn-about-white-house-correspondents-dinner-shooting-an-investigation/)
   - [People Using AI to Represent Themselves in Court Are Clogging the System](https://www.404media.co/people-using-ai-to-represent-themselves-in-court-are-clogging-the-system/)
@@ -151,6 +170,8 @@
   - [Managing Apple Intelligence settings for macOS using Blueprints in Jamf Pro](https://derflounder.wordpress.com/2026/04/27/managing-apple-intelligence-settings-for-macos-using-blueprints-in-jamf-pro/)
 - EFF
   - [The Internet Still Works: SmugMug Powers Online Photography](https://www.eff.org/deeplinks/2026/04/internet-still-works-smugmug-powers-online-photography)
+- ElcomSoft blog
+  - [Digital Triage Masterclass](https://blog.elcomsoft.com/2026/04/digital-triage-masterclass/)
 - Emergent Minds | paddo.dev
   - [The 43% Denominator: AI Productivity Net of Rework](https://paddo.dev/blog/ai-pr-denominator/)
 - Hacker News Frontpage
@@ -160,6 +181,7 @@
   - [I quit drinking for a year](https://dynomight.net/drinking/)
   - [New Integrated by Design FreeBSD Book](https://vivianvoss.net/blog/integrated-by-design-launch)
   - [NPM Website Is Down](https://status.npmjs.org)
+  - [Scraping 241 UK council planning portals – 2.6M decisions so far](https://news.ycombinator.com/item?id=47931470)
   - [Show HN: AgentSwift – Open-source iOS builder agent](https://github.com/hpennington/agentswift)
 - HackerNews
   - [OpenSSH ćźć´žćš—č— 15 ĺš´ďźŒĺŻč‡´ĺŽŒĺ…¨ root ćƒé™čŽżé—Ž](http://0.0.0.0:8080/post/64184)
@@ -174,6 +196,8 @@
   - [Automotive Cybersecurity: dal Regolamento UN R155 alla realtà delle officine italiane](https://www.ictsecuritymagazine.com/articoli/automotive-cybersecurity/)
 - idiallo.com
   - [Don't use localhost:3000, use your own custom domain](https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed)
+- infosecurity-magazine.com
+  - [North Korean Hackers Target Crypto Firms with ClickFix and AI-Made Zoom Lures](https://www.infosecurity-magazine.com/news/bluenoroff-dprk-hackers-target/)
 - joanwestenberg.com
   - [The Loop: everything has happened before, and everything will happen again](https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/)
 - MIT Technology Review
@@ -187,6 +211,8 @@
   - [Fixing a Locked-Up RTL-SDR 700 km Away Using uhubctl USB Power Cycling](https://www.rtl-sdr.com/fixing-a-locked-up-rtl-sdr-700-km-away-using-uhubctl-usb-power-cycling/)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Tuesday, April 28th, 2026 https://isc.sans.edu/podcastdetail/9908, (Tue, Apr 28th)](https://isc.sans.edu/diary/rss/32928)
+- Security Affairs
+  - [NCSC launches SilentGlass, a plug-in device to secure HDMI and DisplayPort links](https://securityaffairs.com/191408/security/ncsc-launches-silentglass-a-plug-in-device-to-secure-hdmi-and-displayport-links.html)
 - simonwillison.net
   - [Introducing talkie: a 13B vintage language model from 1930](https://simonwillison.net/2026/Apr/28/talkie/#atom-everything)
   - [microsoft/VibeVoice](https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything)
@@ -194,6 +220,7 @@
   - [Tracking the history of the now-deceased OpenAI Microsoft AGI clause](https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything)
   - [What's new in pip 26.1 - lockfiles and dependency cooldowns!](https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Deserialization of Untrusted Data in Openidentityplatform Openam exploit](https://sploitus.com/exploit?id=C6A70E26-FECB-5C4F-B1E4-895B2AA6AE70&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Siemens 6Bk1602-0Aa12-0Tp0_Firmware exploit](https://sploitus.com/exploit?id=D2947D08-088D-59B0-9055-6CAACF0C5DC6&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Read in Polkit_Project Polkit exploit](https://sploitus.com/exploit?id=5CEFC968-CC34-5896-BE86-5F94DB97D577&utm_source=rss&utm_medium=rss)
   - [Exploit-Hub exploit](https://sploitus.com/exploit?id=897CB705-45D0-50FF-BB0B-4EFC5CDAFAA9&utm_source=rss&utm_medium=rss)
@@ -220,6 +247,9 @@
 - troyhunt.com
   - [Weekly Update 501](https://www.troyhunt.com/weekly-update-501/)
 - VulDB Recent Entries
+  - [CVE-2024-54011 | Hanwha Vision QND-8080R up to 2.23.x denial of service](https://vuldb.com/vuln/359932)
+  - [CVE-2024-54012 | Hanwha Vision QND-8080R up to 2.23.x Request os command injection](https://vuldb.com/vuln/359933)
+  - [CVE-2024-54013 | Hanwha Vision QND-8080R up to 2.23.x missing authentication](https://vuldb.com/vuln/359935)
   - [CVE-2025-69689 | Fan Control Application prior 251 permission](https://vuldb.com/vuln/359864)
   - [CVE-2026-0711 | Zyxel DX3300-T0 up to 5.50(ABVY.7.1)C0 EasyMesh-related API os command injection](https://vuldb.com/vuln/359886)
   - [CVE-2026-1460 | Zyxel DX3301-T0/EX3301-T0 up to 5.50(ABVY.7.1)C0 Configuration File DomainName os command injection](https://vuldb.com/vuln/359887)
@@ -260,7 +290,9 @@
   - [CVE-2026-41370 | OpenClaw up to 2026.3.30 ACP Dispatch path traversal (GHSA-58q2-7r52-jq62)](https://vuldb.com/vuln/359894)
   - [CVE-2026-41371 | OpenClaw up to 2026.3.27 Gateway Caller chat.send authorization (GHSA-5r8f-96gm-5j6g)](https://vuldb.com/vuln/359895)
   - [CVE-2026-41372 | OpenClaw up to 2026.4.1 Remote CDP Discovery Response authorization (GHSA-fh32-73r9-rgh5)](https://vuldb.com/vuln/359903)
+  - [CVE-2026-41526 | KDE KCoreAddons up to 6.24 sendInput control sequence](https://vuldb.com/vuln/359934)
   - [CVE-2026-42510 | OpenStack Ironic up to 25.0.0 ipmitool inclusion of functionality from untrusted control sphere](https://vuldb.com/vuln/359925)
+  - [CVE-2026-4911 | masaakitanaka Booking Package Plugin up to 1.7.06 on WordPress Stripe PaymentIntent API CreditCard.php intentForStripe Amount external control of assumed-immutable web parameter](https://vuldb.com/vuln/359931)
   - [CVE-2026-5306 | Check & Log Email Plugin up to 2.0.12 on WordPress Setting cross site scripting](https://vuldb.com/vuln/359930)
   - [CVE-2026-6551 | techeshta Timeline Blocks for Gutenberg Plugin up to 1.1.10 on WordPress cross site scripting](https://vuldb.com/vuln/359923)
   - [CVE-2026-6725 | wpclever WPC Smart Messages for WooCommerce Plugin up to 4.2.8 on WordPress wpcsm_text_rotator text cross site scripting](https://vuldb.com/vuln/359922)
@@ -300,13 +332,17 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [GitHub Copilot 切换到基于使用量的计费方式](https://www.solidot.org/story?sid=84168)
   - [pgBackRest 作者宣布停止维护该项目](https://www.solidot.org/story?sid=84166)
 - 爱范儿
+  - [9秒删光公司数据库，我花最贵的钱，买了一个「删库跑路」的AI](https://www.ifanr.com/1664182?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜小米玄戒O1出货破百万，未来还将「上车」/OpenAI与微软「分手」/小红书发布首份AI治理主张](https://www.ifanr.com/1664127?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [DeepSeek注册资本增加 梁文锋总持股超84%](https://blog.upx8.com/DeepSeek%E6%B3%A8%E5%86%8C%E8%B5%84%E6%9C%AC%E5%A2%9E%E5%8A%A0-%E6%A2%81%E6%96%87%E9%94%8B%E6%80%BB%E6%8C%81%E8%82%A1%E8%B6%8584)
   - [Meta 已着手准备撤销其对 Manus 的收购](https://blog.upx8.com/Meta-%E5%B7%B2%E7%9D%80%E6%89%8B%E5%87%86%E5%A4%87%E6%92%A4%E9%94%80%E5%85%B6%E5%AF%B9-Manus-%E7%9A%84%E6%94%B6%E8%B4%AD)
+  - [Ubuntu将在接下来的一年中开始引入AI功能](https://blog.upx8.com/Ubuntu%E5%B0%86%E5%9C%A8%E6%8E%A5%E4%B8%8B%E6%9D%A5%E7%9A%84%E4%B8%80%E5%B9%B4%E4%B8%AD%E5%BC%80%E5%A7%8B%E5%BC%95%E5%85%A5AI%E5%8A%9F%E8%83%BD)
   - [三星将撤出中国家电销售 最快本月低决定](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E5%B0%86%E6%92%A4%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%AE%B6%E7%94%B5%E9%94%80%E5%94%AE-%E6%9C%80%E5%BF%AB%E6%9C%AC%E6%9C%88%E4%BD%8E%E5%86%B3%E5%AE%9A)
   - [国安部称境外组织资助煽动“躺平”思想](https://blog.upx8.com/%E5%9B%BD%E5%AE%89%E9%83%A8%E7%A7%B0%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87%E8%B5%84%E5%8A%A9%E7%85%BD%E5%8A%A8-%E8%BA%BA%E5%B9%B3-%E6%80%9D%E6%83%B3)
+  - [数据中心需求驱动天然气发电厂成本飙升66%](https://blog.upx8.com/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%9C%80%E6%B1%82%E9%A9%B1%E5%8A%A8%E5%A4%A9%E7%84%B6%E6%B0%94%E5%8F%91%E7%94%B5%E5%8E%82%E6%88%90%E6%9C%AC%E9%A3%99%E5%8D%8766)
   - [欧盟要求谷歌向AI竞争对手开放安卓系统](https://blog.upx8.com/%E6%AC%A7%E7%9B%9F%E8%A6%81%E6%B1%82%E8%B0%B7%E6%AD%8C%E5%90%91AI%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E5%BC%80%E6%94%BE%E5%AE%89%E5%8D%93%E7%B3%BB%E7%BB%9F)
   - [美国苹果公司面临不公平劳动行为指控](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%9D%A2%E4%B8%B4%E4%B8%8D%E5%85%AC%E5%B9%B3%E5%8A%B3%E5%8A%A8%E8%A1%8C%E4%B8%BA%E6%8C%87%E6%8E%A7)
