@@ -227,6 +227,8 @@
   - [China kills Meta’s acquisition of Manus as US-China AI rivalry deepens](https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/)
   - [Musk and Altman face off in trial that will determine OpenAI's future](https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/)
   - [OpenAI ends its exclusive partnership with Microsoft](https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/)
+- Ben's Bites
+  - [Builders](https://www.bensbites.com/p/builders)
 - Cerbero Blog
   - [ROMFS Format Package](https://blog.cerbero.io/romfs-format-package/)
 - daringfireball.net
@@ -255,10 +257,14 @@
   - [New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Whole Nations](https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/)
   - [New Integrated by Design FreeBSD Book](https://vivianvoss.net/blog/integrated-by-design-launch)
   - [NPM Website Is Down](https://status.npmjs.org)
+  - [OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership](https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/)
   - [Period tracking app has been yapping about your flow to Meta](https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been)
   - [Scraping 241 UK council planning portals – 2.6M decisions so far](https://news.ycombinator.com/item?id=47931470)
   - [Show HN: AgentSwift – Open-source iOS builder agent](https://github.com/hpennington/agentswift)
+  - [Show HN: Live Sun and Moon Dashboard with NASA Footage](https://www.lumara-space.app/)
   - [The Social Edge of Intellgience: Individual Gain, Collective Loss](https://www.theideasletter.org/essay/the-social-edge-of-intelligence/)
+  - [UAE Leaves OPEC and OPEC+](https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/)
+  - [United Arab Emirates to quit oil cartel OPEC](https://www.bbc.co.uk/news/articles/cj4pxwlr52yo)
   - [Who owns the code Claude Code wrote?](https://legallayer.substack.com/p/who-owns-the-claude-code-wrote)
 - HackerNews
   - [OpenSSH ćźć´žćš—č— 15 ĺš´ďźŒĺŻč‡´ĺŽŒĺ…¨ root ćƒé™čŽżé—Ž](http://0.0.0.0:8080/post/64184)
@@ -274,13 +280,18 @@
 - ICT Security Magazine
   - [Automotive Cybersecurity: dal Regolamento UN R155 alla realtà delle officine italiane](https://www.ictsecuritymagazine.com/articoli/automotive-cybersecurity/)
   - [Dalla teoria alla realtà: cosa manca davvero nella gestione delle crisi cyber](https://www.ictsecuritymagazine.com/notizie/gestione-delle-crisi-cyber/)
+  - [Stato e mercato nella dimensione underwater](https://www.ictsecuritymagazine.com/articoli/dimensione-underwater/)
 - idiallo.com
   - [Don't use localhost:3000, use your own custom domain](https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed)
+- IEEE Spectrum
+  - [“Entanglement: A Brief History of Human Connection”](https://spectrum.ieee.org/entanglement-poem)
 - infosecurity-magazine.com
   - [Chinese National Extradited Over Silk Typhoon Cyber Campaign](https://www.infosecurity-magazine.com/news/chinese-national-extradited-silk/)
   - [No Metrics Are Better Than Bad Metrics in the SOC, Says NCSC](https://www.infosecurity-magazine.com/news/no-metrics-better-bad-metrics-soc/)
   - [North Korean Hackers Target Crypto Firms with ClickFix and AI-Made Zoom Lures](https://www.infosecurity-magazine.com/news/bluenoroff-dprk-hackers-target/)
   - [Ransomware Turf War as 0APT and KryBit Groups Trade Blows](https://www.infosecurity-magazine.com/news/ransomware-turf-war-0apt-krybit/)
+- IT Service Management News
+  - [IT-Grundschutz 2022](http://blog.cesaregallotti.it/2026/04/it-grundschutz-2022.html)
 - joanwestenberg.com
   - [The Loop: everything has happened before, and everything will happen again](https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/)
 - MIT Technology Review
@@ -302,14 +313,17 @@
   - [Detecting Hidden GPS Trackers via Electromagnetic Unintentional Emissions with a HackRF](https://www.rtl-sdr.com/detecting-hidden-gps-trackers-via-electromagnetic-unintentional-emissions-with-a-hackrf/)
   - [Fixing a Locked-Up RTL-SDR 700 km Away Using uhubctl USB Power Cycling](https://www.rtl-sdr.com/fixing-a-locked-up-rtl-sdr-700-km-away-using-uhubctl-usb-power-cycling/)
 - SANS Internet Storm Center, InfoCON: green
+  - [HTTP Requests with X-Vercel-Set-Bypass-Cookie Header, (Tue, Apr 28th)](https://isc.sans.edu/diary/rss/32930)
   - [ISC Stormcast For Tuesday, April 28th, 2026 https://isc.sans.edu/podcastdetail/9908, (Tue, Apr 28th)](https://isc.sans.edu/diary/rss/32928)
 - Security Affairs
   - [Microsoft fixes Entra ID flaw enabling privilege escalation](https://securityaffairs.com/191414/security/microsoft-fixes-entra-id-flaw-enabling-privilege-escalation.html)
   - [NCSC launches SilentGlass, a plug-in device to secure HDMI and DisplayPort links](https://securityaffairs.com/191408/security/ncsc-launches-silentglass-a-plug-in-device-to-secure-hdmi-and-displayport-links.html)
   - [New Android spyware Morpheus linked to Italian surveillance firm](https://securityaffairs.com/191398/malware/new-android-spyware-morpheus-linked-to-italian-surveillance-firm.html)
+  - [Signal Phishing Campaign Targets German Officials in Suspected Russian Operation](https://securityaffairs.com/191425/intelligence/signal-phishing-campaign-targets-german-officials-in-suspected-russian-operation.html)
 - simonwillison.net
   - [Introducing talkie: a 13B vintage language model from 1930](https://simonwillison.net/2026/Apr/28/talkie/#atom-everything)
   - [microsoft/VibeVoice](https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything)
+  - [Quoting Matthew Yglesias](https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything)
   - [Speech translation in Google Meet is now rolling out to mobile devices](https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything)
   - [Tracking the history of the now-deceased OpenAI Microsoft AGI clause](https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything)
   - [What's new in pip 26.1 - lockfiles and dependency cooldowns!](https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything)
@@ -325,6 +339,7 @@
 - Swing'Blog 有恨无人省
   - [CVE-2026-41651 PackageKit TOCTOU 本地提权漏洞分析](https://bestwing.me/CVE-2026-41651-analysis.html)
 - TechCrunch
+  - [BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables](https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/)
   - [Consumers lost $2.1 billion to social media scams in 2025, FTC reports](https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/)
   - [DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data](https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/)
   - [Drizzle on top: a new high-end dog food brand is coming for the 1%](https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/)
@@ -335,6 +350,8 @@
   - [OpenAI ends Microsoft legal peril over its $50B Amazon deal](https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/)
   - [Otter’s new feature lets users search across their enterprise tools](https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/)
   - [Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer](https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/)
+  - [Snapchat brings AI-powered conversational advertising to its app](https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/)
+  - [YouTube is testing an AI-powered search feature that shows guided answers](https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/)
 - The Decoder
   - [Google signs AI deal with the Pentagon, ignoring protest from over 600 employees](https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/)
   - [Google's "Ask YouTube" turns video search into a conversation](https://the-decoder.com/googles-ask-youtube-turns-video-search-into-a-conversation/)
@@ -401,6 +418,10 @@
   - [CVE-2026-42510 | OpenStack Ironic up to 25.0.0 ipmitool inclusion of functionality from untrusted control sphere](https://vuldb.com/vuln/359925)
   - [CVE-2026-4911 | masaakitanaka Booking Package Plugin up to 1.7.06 on WordPress Stripe PaymentIntent API CreditCard.php intentForStripe Amount external control of assumed-immutable web parameter](https://vuldb.com/vuln/359931)
   - [CVE-2026-5306 | Check & Log Email Plugin up to 2.0.12 on WordPress Setting cross site scripting](https://vuldb.com/vuln/359930)
+  - [CVE-2026-5435 | GNU C Library up to 2.2 ns_printrrf/ns_printrr/fp_nquery out-of-bounds write](https://vuldb.com/vuln/359966)
+  - [CVE-2026-5779 | MphRx Minerva 3.6.0 updateUserProfile access control](https://vuldb.com/vuln/359969)
+  - [CVE-2026-5780 | MphRx Minerva 3.6.0 Endpoint /minerva/moUser/show/ access control](https://vuldb.com/vuln/359967)
+  - [CVE-2026-5781 | MphRx Minerva 3.6.0 Graphical User Interface /minerva/moUser/update Identifier improper authorization](https://vuldb.com/vuln/359970)
   - [CVE-2026-6551 | techeshta Timeline Blocks for Gutenberg Plugin up to 1.1.10 on WordPress cross site scripting](https://vuldb.com/vuln/359923)
   - [CVE-2026-6725 | wpclever WPC Smart Messages for WooCommerce Plugin up to 4.2.8 on WordPress wpcsm_text_rotator text cross site scripting](https://vuldb.com/vuln/359922)
   - [CVE-2026-6809 | dartiss Social Post Embed Plugin up to 2.0.1 on WordPress cross site scripting](https://vuldb.com/vuln/359924)
@@ -431,6 +452,11 @@
   - [CVE-2026-7295 | SourceCodester Pizzafy Ecommerce System 1.0 ajax.php?action=save_menu Name cross site scripting](https://vuldb.com/vuln/359955)
   - [CVE-2026-7296 | SourceCodester Pizzafy Ecommerce System 1.0 ajax.php?action=save_order first_name cross site scripting](https://vuldb.com/vuln/359956)
   - [CVE-2026-7297 | SourceCodester Pizzafy Ecommerce System 1.0 ajax.php?action=save_user Name cross site scripting](https://vuldb.com/vuln/359957)
+  - [CVE-2026-7309 | Red Hat OpenShift Container Platform 4 Environment Variable LD_PRELOAD/http_proxy information disclosure](https://vuldb.com/vuln/359968)
+  - [CVE-2026-7316 | eiliyaabedini aider-mcp up to 667b914301aada695aab0e46d1fb3a7d5e32c8af code_with_ai aider_mcp.py working_dir/editable_files command injection](https://vuldb.com/vuln/359964)
+  - [CVE-2026-7317 | Grav CMS up to 1.7.49.5/2.0.0-beta.1 Cache Value FileCache.php FileCache::doGet deserialization (GHSA-gwfr-jfjf-92vv / c66dfeb5f)](https://vuldb.com/vuln/359965)
+  - [CVE-2026-7318 | elie mcp-project 0.1.0 research_server.py search_papers topic path traversal](https://vuldb.com/vuln/359971)
+  - [CVE-2026-7319 | elinsky execution-system-mcp 0.1.0 add_action Tool server.py _get_context_file_path context path traversal](https://vuldb.com/vuln/359972)
 - Wallarm
   - [6 Lessons Security Leaders Must Learn About AI and APIs](https://lab.wallarm.com/6-lessons-security-leaders-must-learn-about-ai-and-apis/)
 - Wired
@@ -453,6 +479,7 @@
   - [WIRED’s Smart Home Ecosystem Guide (2026)](https://www.wired.com/story/how-to-choose-your-smart-home-ecosystem/)
 - 不安全
   - [Bending the Flipper Zero’s CC1101 Into an APRS Transmitter](https://buaq.net/go-413122.html)
+  - [HTTP Requests with X-Vercel-Set-Bypass-Cookie Header, (Tue, Apr 28th)](https://buaq.net/go-413260.html)
   - [Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover](https://buaq.net/go-413145.html)
   - [pgBackRest 作者宣布停止维护该项目](https://buaq.net/go-413143.html)
   - [北京市海淀区工商联领导一行莅临绿盟科技调研指导](https://buaq.net/go-413208.html)
@@ -490,6 +517,7 @@
   - [德国稀土磁铁回收厂启用 降低对中国依赖](https://blog.upx8.com/%E5%BE%B7%E5%9B%BD%E7%A8%80%E5%9C%9F%E7%A3%81%E9%93%81%E5%9B%9E%E6%94%B6%E5%8E%82%E5%90%AF%E7%94%A8-%E9%99%8D%E4%BD%8E%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BE%9D%E8%B5%96)
   - [数据中心需求驱动天然气发电厂成本飙升66%](https://blog.upx8.com/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%9C%80%E6%B1%82%E9%A9%B1%E5%8A%A8%E5%A4%A9%E7%84%B6%E6%B0%94%E5%8F%91%E7%94%B5%E5%8E%82%E6%88%90%E6%9C%AC%E9%A3%99%E5%8D%8766)
   - [欧盟要求谷歌向AI竞争对手开放安卓系统](https://blog.upx8.com/%E6%AC%A7%E7%9B%9F%E8%A6%81%E6%B1%82%E8%B0%B7%E6%AD%8C%E5%90%91AI%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E5%BC%80%E6%94%BE%E5%AE%89%E5%8D%93%E7%B3%BB%E7%BB%9F)
+  - [泰勒·斯威夫特申请声音和肖像注册商标](https://blog.upx8.com/%E6%B3%B0%E5%8B%92-%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9%E7%94%B3%E8%AF%B7%E5%A3%B0%E9%9F%B3%E5%92%8C%E8%82%96%E5%83%8F%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87)
   - [美国苹果公司面临不公平劳动行为指控](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%9D%A2%E4%B8%B4%E4%B8%8D%E5%85%AC%E5%B9%B3%E5%8A%B3%E5%8A%A8%E8%A1%8C%E4%B8%BA%E6%8C%87%E6%8E%A7)
   - [谷歌员工要求CEO对机密军事AI用途说不](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%91%98%E5%B7%A5%E8%A6%81%E6%B1%82CEO%E5%AF%B9%E6%9C%BA%E5%AF%86%E5%86%9B%E4%BA%8BAI%E7%94%A8%E9%80%94%E8%AF%B4%E4%B8%8D)
   - [谷歌的新渐变图标设计将应用于更多App](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E7%9A%84%E6%96%B0%E6%B8%90%E5%8F%98%E5%9B%BE%E6%A0%87%E8%AE%BE%E8%AE%A1%E5%B0%86%E5%BA%94%E7%94%A8%E4%BA%8E%E6%9B%B4%E5%A4%9AApp)
