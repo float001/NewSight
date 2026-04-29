@@ -7,13 +7,17 @@
   - [别急着All-in DeepSeek V4，先看看这10位从业者的真心话](https://36kr.com/p/3788151000751364?f=rss)
 - darkreading
   - [AI Finds 38 Security Flaws in Electronic Health Record Platform](https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr)
+  - [Reverse Engineering With AI Unearths High-Severity GitHub Bug](https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug)
 - Hacker News Frontpage
   - ["People who don't use AI will be left behind"](https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/)
+  - [Alphabet Announces First Quarter 2026 Results](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx)
   - [Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)
   - [Copy Fail – CVE-2026-31431](https://copy.fail/)
   - [FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
   - [Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years](https://jivx.com/kyoto-bloom)
   - [The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness](https://deepmind.google/research/publications/231971/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-04-22: Malicious ad leads to ClickFix-style page for macOS malware](https://www.malware-traffic-analysis.net/2026/04/22/index.html)
 - SecLists - Full Disclosure
   - [[IWCC 2026] CfP: 15th International Workshop on Cyber Crime - Linköping, Sweden, Aug 24-27, 2026](https://seclists.org/fulldisclosure/2026/Apr/9)
   - [[KIS-2026-07] SocialEngine <= 7.8.0 Blind Server-Side Request	Forgery Vulnerability](https://seclists.org/fulldisclosure/2026/Apr/11)
@@ -29,12 +33,18 @@
   - [SEC Consult SA-20260423-0 :: DLL Hijacking in EfficientLab Controlio (cloud-based employee monitoring service)](https://seclists.org/fulldisclosure/2026/Apr/19)
   - [SEC Consult SA-20260427-0 :: Missing TLS Certificate Validation leading to RCE in DeskTime Time Tracking App](https://seclists.org/fulldisclosure/2026/Apr/20)
   - [Trojan-Spy.Win32.Small / Remote Command Execution](https://seclists.org/fulldisclosure/2026/Apr/10)
+- Security Affairs
+  - [CVE-2026-42208: LiteLLM bug exploited 36 hours after its disclosure](https://securityaffairs.com/191483/hacking/cve-2026-42208-litellm-bug-exploited-36-hours-after-its-disclosure.html)
 - simonwillison.net
   - [LLM 0.32a0  is a major backwards-compatible refactor](https://simonwillison.net/2026/Apr/29/llm/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-36957 exploit](https://sploitus.com/exploit?id=D3844EF0-691D-5A32-8788-F4D28228E9EA&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-36958 exploit](https://sploitus.com/exploit?id=47F13C16-649D-5FFC-8499-B7894921782F&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=42BD4D56-3716-5026-B5B8-1F89FF1FA2B8&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government](https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/)
+  - [Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix](https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/)
+  - [Google gains 25M subscriptions in Q1, driven by YouTube and Google One](https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/)
   - [Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality](https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/)
   - [More Gemini features are coming to Google TV](https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/)
   - [Parallel Web Systems hits $2B valuation five months after its last big raise](https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/)
@@ -45,6 +55,8 @@
   - [Mistral's Le Chat spreads Iran war disinformation in 60 percent of leading prompts](https://the-decoder.com/mistrals-le-chat-spreads-iran-war-disinformation-in-60-percent-of-leading-prompts/)
 - The Verge
   - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
+  - [Google Search queries hit an ‘all time high’ last quarter](https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai)
+  - [Microsoft reports sinking Xbox revenue as its cloud business climbs](https://www.theverge.com/tech/920785/microsoft-xbox-revenue-q3-2026-earnings)
   - [Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;](https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch)
 - VulDB Recent Entries
   - [CVE-2026-27105 | Dell Alienware Purchased Apps up to 1.1.31.0 link following (dsa-2026-131)](https://vuldb.com/vuln/360203)
@@ -56,8 +68,10 @@
   - [CVE-2026-7469 | Tenda 4G300 US_4G300V1.0Mt_V1.01.42_CN_TDC01 /goform/DelFil sub_425A28 delflag command injection](https://vuldb.com/vuln/360205)
   - [CVE-2026-7470 | Tenda 4G300 US_4G300V1.0Mt_V1.01.42_CN_TDC01 /goform/SafeMacFilter sub_427C3C page stack-based overflow](https://vuldb.com/vuln/360206)
 - Wired
+  - [Emergency First Responders Say Waymos Are Getting Worse](https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/)
   - [Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery](https://www.wired.com/story/female-looksmaxxer-alorah-ziva-suing-clavicular-for-alleged-battery/)
   - [Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed](https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/)
+  - [Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why](https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
