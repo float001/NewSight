@@ -5,6 +5,8 @@
   - [有知道为什么在线测试网的速率不一样的吗](https://2libra.com/post/tech-qa/VU5ilwB)
 - 36氪
   - [别急着All-in DeepSeek V4，先看看这10位从业者的真心话](https://36kr.com/p/3788151000751364?f=rss)
+  - [微软第三财季营收829亿美元，同比增长18%](https://36kr.com/newsflashes/3788494339120385?f=rss)
+  - [美股三大指数收盘涨跌不一，英特尔涨超12%](https://36kr.com/newsflashes/3788492083518471?f=rss)
 - daringfireball.net
   - [Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’](https://sfstandard.com/2026/04/28/oak-sfo-reach-naming-settlement/)
 - darkreading
@@ -21,6 +23,7 @@
   - [Gooseworks (YC W23) Is Hiring a Founding Growth Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer)
   - [Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years](https://jivx.com/kyoto-bloom)
   - [The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness](https://deepmind.google/research/publications/231971/)
+  - [View transactions sent to a Monero address](https://localmonero.co/blocks/search/47xmhbRuYpSYSrVZx2RsPBhaAQByZq3ucAT6ULxHvDAu8c853ErpLHqBdDmpVzcmWFdZFCWrfZYwp3rqs14zxXx95S7Fyv2)
 - HackerNoon
   - [The Agentic SQL Architect: Engineering Databases That Reason](https://hackernoon.com/the-agentic-sql-architect-engineering-databases-that-reason?source=rss)
 - Malware-Traffic-Analysis.net - Blog Entries
@@ -46,6 +49,7 @@
   - [LLM 0.32a0  is a major backwards-compatible refactor](https://simonwillison.net/2026/Apr/29/llm/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CRLF Injection in Useplunk Plunk exploit](https://sploitus.com/exploit?id=625A1290-B999-5DE8-A515-F82DE126BAE4&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=1CA7DFEB-4BA1-505A-8B75-CF3345E70207&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=52EB96E9-BBA2-536C-A65E-0C6CC28D0D6C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-36957 exploit](https://sploitus.com/exploit?id=D3844EF0-691D-5A32-8788-F4D28228E9EA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-36958 exploit](https://sploitus.com/exploit?id=47F13C16-649D-5FFC-8499-B7894921782F&utm_source=rss&utm_medium=rss)
@@ -58,8 +62,10 @@
 - TechCrunch
   - [Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government](https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/)
   - [Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix](https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/)
+  - [Google Cloud surpasses $20B but says growth was capacity-constrained](https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/)
   - [Google gains 25M subscriptions in Q1, driven by YouTube and Google One](https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/)
   - [Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality](https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/)
+  - [Microsoft says it has over 20M paid Copilot users, and they really are using it](https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/)
   - [More Gemini features are coming to Google TV](https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/)
   - [Parallel Web Systems hits $2B valuation five months after its last big raise](https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/)
 - text/plain
