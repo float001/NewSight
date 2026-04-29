@@ -16,6 +16,7 @@
   - [免费方案与商业方案的选择，为什么我选择和推荐使用后者。](https://2libra.com/post/small-things/sqy1JSg)
   - [列表 padding 太窄显得紧凑看得太难受了，用油猴调整了下样式，舒服了](https://2libra.com/post/frontend/On11PN5)
   - [好价](https://2libra.com/post/worth-buying/wItmDI0)
+  - [学生党，有没有平板推荐](https://2libra.com/post/recommendations/XxCvFN7)
   - [我该如何在家庭里，不再继续消耗那个最爱我的人](https://2libra.com/post/marriage/_azTOh6)
   - [所以, Rich 徽章的 50% 概率是有 Bug 吗? @Jimmy](https://2libra.com/post/forum-function/84kASaF)
   - [是……卡皮巴拉！快来吸](https://2libra.com/post/forum-function/OTrA-rj)
@@ -245,8 +246,12 @@
   - [Anti-Trump Instagram pic of seashells now enough to indict ex-FBI directors](https://arstechnica.com/tech-policy/2026/04/anti-trump-instagram-pic-of-seashells-now-enough-to-indict-ex-fbi-directors/)
 - Bitdefender Labs
   - [Operation Road Trap: Fake toll and parking texts are spreading worldwide](https://www.bitdefender.com/en-us/blog/labs/operation-road-trap)
+- Black Hills Information Security
+  - [A Practical Guide to BloodHound Data Collection](https://www.blackhillsinfosec.com/bloodhound-data-collection/)
 - daniel.haxx.se
   - [curl 8.20.0](https://daniel.haxx.se/blog/2026/04/29/curl-8-20-0/)
+- daringfireball.net
+  - [Playing With Fire](https://x.com/lifeof_jer/status/2048103471019434248?s=12)
 - darkreading
   - [BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures](https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures)
   - [Feuding Ransomware Groups Leak Each Other's Data](https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data)
@@ -290,6 +295,7 @@
 - ICT Security Magazine
   - [Caso Mythos: l’AI che trova zero-day in autonomia, il leak su Discord e la nuova economia delle vulnerabilità](https://www.ictsecuritymagazine.com/notizie/claude-mythos-leak-discord/)
   - [Cloud forensics e il labirinto giurisdizionale: acquisire prove oltre i confini](https://www.ictsecuritymagazine.com/articoli/cloud-forensics-prove-digitali/)
+  - [Le vie nascoste del digitale: vulnerabilità e sicurezza dei cavi sottomarini](https://www.ictsecuritymagazine.com/articoli/vulnerabilita-cavi-sottomarini/)
 - IEEE Spectrum
   - [The Chip That Made Hardware Rewriteable](https://spectrum.ieee.org/fpga-chip-ieee-milestone)
 - InfoSec Write-ups - Medium
@@ -300,6 +306,7 @@
   - [WaTF Bank Walkthrough (Part 4): Exploiting Android App Security Flaws](https://infosecwriteups.com/watf-bank-walkthrough-part-4-exploiting-android-app-security-flaws-fb8c8bc6da14?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [Critical Flaw Turns Vect Ransomware into Data Destroying Wiper](https://www.infosecurity-magazine.com/news/critical-flaw-vect-ransomware-data/)
+  - [Malicious npm Dependency Linked to AI Assisted Commit Targets Crypto Wallets](https://www.infosecurity-magazine.com/news/ai-npm-dependency-targets-crypto/)
   - [Researchers Track 2.9 Billion Compromised Credentials](https://www.infosecurity-magazine.com/news/29-billion-compromised-credentials/)
 - IT Service Management News
   - [Privacy filter di Open AI](http://blog.cesaregallotti.it/2026/04/privacy-filter-di-open-ai.html)
@@ -315,9 +322,11 @@
   - [Update Wed Apr 29 11:15:54 UTC 2026](https://github.com/trickest/cve/commit/9edbb018c0d81e99e33edf3064ce19ffcd1635d8)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Wednesday, April 29th, 2026 https://isc.sans.edu/podcastdetail/9910, (Wed, Apr 29th)](https://isc.sans.edu/diary/rss/32932)
+  - [Today's Odd Web Requests, (Wed, Apr 29th)](https://isc.sans.edu/diary/rss/32934)
 - Schneier on Security
   - [Claude Mythos Has Found 271 Zero-Days in Firefox](https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html)
 - Security Affairs
+  - [All supported cPanel versions hit by critical auth bug, now patched](https://securityaffairs.com/191465/security/all-supported-cpanel-versions-hit-by-critical-auth-bug-now-patched.html)
   - [CVE-2026-3854 GitHub flaw enables remote code execution](https://securityaffairs.com/191434/security/cve-2026-3854-github-flaw-enables-remote-code-execution.html)
   - [ShinyHunters exploit Anodot incident to target Vimeo](https://securityaffairs.com/191448/security/shinyhunters-exploit-anodot-incident-to-target-vimeo.html)
   - [U.S. CISA adds Microsoft Windows Shell and ConnectWise ScreenConnect flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/191442/security/u-s-cisa-adds-microsoft-windows-shell-and-connectwise-screenconnect-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
@@ -333,12 +342,16 @@
   - [offensive-security-labs exploit](https://sploitus.com/exploit?id=496A3197-1274-5881-9D8C-045C0264CB28&utm_source=rss&utm_medium=rss)
   - [Script-for-profile-press-exploit-in-wordpress exploit](https://sploitus.com/exploit?id=797BC6F1-F8D4-5859-BEBB-BEC2BDCD97C8&utm_source=rss&utm_medium=rss)
   - [Web-Client-Side-Vulnerabilities-Practical-Exploitation-and-Mitigation exploit](https://sploitus.com/exploit?id=24289FB0-4665-5890-8426-96FB494A0F4F&utm_source=rss&utm_medium=rss)
+  - [WP-Plugin-Fuzzer-PoC- exploit](https://sploitus.com/exploit?id=9156EB1D-1489-56B8-9E71-F6BF7D7E9915&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon is already offering new OpenAI products on AWS](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/)
   - [Amazon launches an AI-powered audio Q&A experience on product pages](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/)
   - [At his OpenAI trial, Musk relitigates an old friendship](https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/)
   - [Australia forces Big Tech firms to pay for news or face a 2.25% tax](https://techcrunch.com/2026/04/28/australia-forces-big-tech-firms-to-pay-for-news-or-face-a-2-25-tax/)
+  - [BMW i Ventures has a new $300M fund and AI is riding shotgun](https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/)
   - [Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.](https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/)
+  - [Earth AI is vertically integrating the search for critical minerals](https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals/)
+  - [Firestorm Labs raises $82M to take drone factories into the field](https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/)
   - [Google expands Pentagon’s access to its AI after Anthropic’s refusal](https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/)
   - [Google Translate now lets you practice pronunciation](https://techcrunch.com/2026/04/29/google-translate-now-lets-you-practice-pronunciation/)
   - [How one venture firm is investing in an increasingly fragmented world](https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/)
@@ -347,6 +360,7 @@
   - [Match Group invests $100M in Sniffies, a cruising app for gay men](https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/)
   - [Meet Shapes, the app bringing humans and AI into the same group chats](https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/)
   - [Paragon is not collaborating with Italian authorities probing spyware attacks, report says](https://techcrunch.com/2026/04/28/paragon-is-not-collaborating-with-italian-authorities-probing-spyware-attacks-report-says/)
+  - [Sri Lanka discloses another missing payment, days after hackers stole $2.5M from its finance ministry](https://techcrunch.com/2026/04/29/sri-lanka-discloses-another-missing-payment-days-after-hackers-stole-2-5m-from-its-finance-ministry/)
   - [US Supreme Court appears split over controversial use of ‘geofence’ search warrants](https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/)
 - text/plain
   - [Smart App Control](https://textslashplain.com/2026/04/28/smart-app-control/)
@@ -354,6 +368,7 @@
   - [Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along](https://the-decoder.com/google-rolls-out-gemini-memory-in-europe-and-wants-you-to-bring-your-chatgpt-data-along/)
   - [Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026](https://the-decoder.com/here-is-what-an-llm-that-knows-nothing-after-1930-thinks-our-world-looks-like-in-2026/)
   - [Musk and Altman face off in court over OpenAI's for-profit pivot](https://the-decoder.com/musk-and-altman-face-off-in-court-over-openais-for-profit-pivot/)
+  - [White House moves to restore Anthropic access after Pentagon standoff](https://the-decoder.com/white-house-moves-to-restore-anthropic-access-after-pentagon-standoff/)
   - [With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model](https://the-decoder.com/with-nemotron-3-nano-omni-nvidia-reveals-what-really-goes-into-a-modern-multimodal-model/)
 - The Verge
   - [Apple TV’s new horror series is scarier because it’s also hilarious](https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview)
@@ -366,6 +381,7 @@
   - [Google Home makes it easier to understand why devices aren&#8217;t working](https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update)
   - [Google Translate can now help you with pronunciation](https://www.theverge.com/tech/919510/google-translate-pronunciation-practice-availability)
   - [James Comey indicted over Instagram seashell photo that allegedly threatened Trump](https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump)
+  - [Larry’s risky business](https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout)
   - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
   - [Logitech made a analog and mechanical keyboard in one](https://www.theverge.com/news/919517/logitech-g512x-gaming-keyboard-hall-effect-tmr-mechanical-swap)
   - [Saros reminded me how great the DualSense can be](https://www.theverge.com/games/920070/saros-ps5-dualsense-controller-haptics-rumble)
@@ -444,6 +460,10 @@
   - [CVE-2026-7398 | florensiawidjaja BioinfoMCP up to 7ada7918b9e515604d3c0ae264d3a9af10bf6e54 Upload Endpoint app.py upload Name path traversal](https://vuldb.com/vuln/360122)
   - [CVE-2026-7400 | geekgod382 filesystem-mcp-server 1.0.0 read_file_tool/write_file_tool server.py is_path_allowed path traversal](https://vuldb.com/vuln/360123)
   - [CVE-2026-7401 | SourceCodester CET Automated Grading System with AI Predictive Analytics Registration index.php?action=register cross site scripting](https://vuldb.com/vuln/360133)
+  - [CVE-2026-7407 | SourceCodester Pizzafy Ecommerce System 1.0 Setting ajax.php?action=save_settings sql injection](https://vuldb.com/vuln/360141)
+  - [CVE-2026-7408 | SourceCodester Pizzafy Ecommerce System 1.0 ajax.php?action=save_menu sql injection](https://vuldb.com/vuln/360142)
+  - [CVE-2026-7409 | SourceCodester Pizzafy Ecommerce System 1.0 ajax.php?action=save_user sql injection](https://vuldb.com/vuln/360143)
+  - [CVE-2026-7410 | SourceCodester Pizzafy Ecommerce System 1.0 ajax.php?action=add_to_cart pid sql injection](https://vuldb.com/vuln/360144)
 - wheresyoured.at
   - [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
   - [AI's Economics Don't Make Sense [Ad Free]](https://www.wheresyoured.at/ais-economics-dont-make-sense-ad-free/)
@@ -482,9 +502,12 @@
   - [LLM 能帮一个安全工程师干些什么](https://xz.aliyun.com/news/92058)
   - [面向大模型隐私推理的安全协议-MPC与ZK的角色分工](https://xz.aliyun.com/news/92061)
 - 奇客Solidot–传递最新科技情报
+  - [.icu 域名被短暂劫持](https://www.solidot.org/story?sid=84185)
   - [Fedora Linux 44 释出](https://www.solidot.org/story?sid=84177)
   - [报告称逾三分之二婴儿使用屏幕，最多花 8 小时在屏幕上](https://www.solidot.org/story?sid=84183)
   - [食肉细菌在三天内就破坏了男子的手臂和腿](https://www.solidot.org/story?sid=84180)
+- 安全客
+  - [深度分析Sorry勒索软件的加密实现与行为特征](https://www.anquanke.com/post/id/315390)
 - 爱范儿
   - [ChatGPT 拎包入住云计算一哥，你的下一任好同事可能是 AI](https://www.ifanr.com/1664406?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [iOS 27 发力 AI 修图，苹果也开始 AI 焦虑了](https://www.ifanr.com/1664512?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -503,6 +526,7 @@
 - 黑海洋
   - [GitHub服务故障：拉取请求结果不完整及服务组件运行状况](https://blog.upx8.com/GitHub%E6%9C%8D%E5%8A%A1%E6%95%85%E9%9A%9C-%E6%8B%89%E5%8F%96%E8%AF%B7%E6%B1%82%E7%BB%93%E6%9E%9C%E4%B8%8D%E5%AE%8C%E6%95%B4%E5%8F%8A%E6%9C%8D%E5%8A%A1%E7%BB%84%E4%BB%B6%E8%BF%90%E8%A1%8C%E7%8A%B6%E5%86%B5)
   - [代码编辑器Notepad++登陆macOS平台](https://blog.upx8.com/%E4%BB%A3%E7%A0%81%E7%BC%96%E8%BE%91%E5%99%A8Notepad-%E7%99%BB%E9%99%86macOS%E5%B9%B3%E5%8F%B0)
+  - [微信朋友圈改版 右上角新增“朋友圈相册”入口](https://blog.upx8.com/%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B9%E7%89%88-%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%96%B0%E5%A2%9E-%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9B%B8%E5%86%8C-%E5%85%A5%E5%8F%A3)
   - [美国要求芯片设备公司停止向华虹供应设备](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%B1%82%E8%8A%AF%E7%89%87%E8%AE%BE%E5%A4%87%E5%85%AC%E5%8F%B8%E5%81%9C%E6%AD%A2%E5%90%91%E5%8D%8E%E8%99%B9%E4%BE%9B%E5%BA%94%E8%AE%BE%E5%A4%87)
   - [苹果拟在iOS 27中借助AI革新照片编辑功能](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%8B%9F%E5%9C%A8iOS-27%E4%B8%AD%E5%80%9F%E5%8A%A9AI%E9%9D%A9%E6%96%B0%E7%85%A7%E7%89%87%E7%BC%96%E8%BE%91%E5%8A%9F%E8%83%BD)
   - [议员敦促特朗普禁止中国车企在美建厂造车](https://blog.upx8.com/%E8%AE%AE%E5%91%98%E6%95%A6%E4%BF%83%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E5%9C%A8%E7%BE%8E%E5%BB%BA%E5%8E%82%E9%80%A0%E8%BD%A6)
