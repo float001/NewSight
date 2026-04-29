@@ -1,13 +1,38 @@
 # 今日安全资讯（2026-04-30）
 
+- 36氪
+  - [别急着All-in DeepSeek V4，先看看这10位从业者的真心话](https://36kr.com/p/3788151000751364?f=rss)
 - Hacker News Frontpage
   - [FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
+  - [The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness](https://deepmind.google/research/publications/231971/)
+- SecLists - Full Disclosure
+  - [[IWCC 2026] CfP: 15th International Workshop on Cyber Crime - Linköping, Sweden, Aug 24-27, 2026](https://seclists.org/fulldisclosure/2026/Apr/9)
+  - [[KIS-2026-07] SocialEngine <= 7.8.0 Blind Server-Side Request	Forgery Vulnerability](https://seclists.org/fulldisclosure/2026/Apr/11)
+  - [[KIS-2026-08] SocialEngine <= 7.8.0 (get-memberall) SQL	Injection Vulnerability](https://seclists.org/fulldisclosure/2026/Apr/12)
+  - [[SBA-ADV-20251120-01] CVE-2026-0972: GoAnywhere MFT Email HTML Injection](https://seclists.org/fulldisclosure/2026/Apr/8)
+  - [APPLE-SA-04-22-2026-1 iOS 26.4.2 and iPadOS 26.4.2](https://seclists.org/fulldisclosure/2026/Apr/14)
+  - [APPLE-SA-04-22-2026-2 iOS 18.7.8 and iPadOS 18.7.8](https://seclists.org/fulldisclosure/2026/Apr/15)
+  - [ESP-RFID-Tool v2 PRO — Full Public Disclosure](https://seclists.org/fulldisclosure/2026/Apr/18)
+  - [Re: SEC Consult SA-20260427-0 :: Missing TLS Certificate Validation leading to RCE in DeskTime Time Tracking App](https://seclists.org/fulldisclosure/2026/Apr/21)
+  - [Research: When Trusted Tools Become Attack Primitives](https://seclists.org/fulldisclosure/2026/Apr/13)
+  - [SEC Consult SA-20260415-0 :: Exposed Private Key of X.509 Certificate in SAP HANA Cockpit & SAP HANA Database Explorer](https://seclists.org/fulldisclosure/2026/Apr/16)
+  - [SEC Consult SA-20260421-0 :: Broken Access Control in Config Endpoint in LiteLLM](https://seclists.org/fulldisclosure/2026/Apr/17)
+  - [SEC Consult SA-20260423-0 :: DLL Hijacking in EfficientLab Controlio (cloud-based employee monitoring service)](https://seclists.org/fulldisclosure/2026/Apr/19)
+  - [SEC Consult SA-20260427-0 :: Missing TLS Certificate Validation leading to RCE in DeskTime Time Tracking App](https://seclists.org/fulldisclosure/2026/Apr/20)
+  - [Trojan-Spy.Win32.Small / Remote Command Execution](https://seclists.org/fulldisclosure/2026/Apr/10)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=42BD4D56-3716-5026-B5B8-1F89FF1FA2B8&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government](https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/)
   - [Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality](https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/)
   - [More Gemini features are coming to Google TV](https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/)
+- The Decoder
+  - [Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat](https://the-decoder.com/google-gemini-now-generates-full-documents-spreadsheets-and-presentations-directly-inside-the-chat/)
+- The Verge
+  - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
+  - [Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;](https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch)
+- Wired
+  - [Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed](https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
