@@ -23,6 +23,7 @@
   - [每天上班感觉像是在坐牢一样](https://2libra.com/post/office-life/PzEw5iA)
   - [用户名](https://2libra.com/post/forum-function/IYdvlaC)
   - [第一次写的 wordpress 主题，看看怎么样？](https://2libra.com/post/personal-works/mNoamn0)
+  - [这份工作能要吗？](https://2libra.com/post/workplace-stories/2QRjXQB)
   - [逃不了，跑不掉，怎么办](https://2libra.com/post/workplace-stories/54dOKdP)
 - 36氪
   - [2025年我国全年词元累计调用量达21100万亿，日均调用量呈指数级增长](https://36kr.com/newsflashes/3787291440831488?f=rss)
@@ -240,6 +241,7 @@
   - [魔法原子：目标到2036年营收达140亿美元](https://36kr.com/newsflashes/3787431828856072?f=rss)
 - 404 Media
   - [Apple Fixes Bug That Let FBI Extract Deleted Signal Messages After 404 Media Coverage](https://www.404media.co/apple-fixes-bug-that-let-fbi-extract-deleted-signal-messages-after-404-media-coverage/)
+  - [DHS Plans to Buy More Predator-Style Drones](https://www.404media.co/dhs-plans-to-buy-more-predator-style-drones/)
   - [Podcast: How This Trippy Image Started A Massive Conspiracy Theory](https://www.404media.co/podcast-how-this-trippy-image-started-a-massive-conspiracy-theory/)
   - [Scientists Investigated a Frequency Linked to ‘Paranormal’ Encounters. The Results Were Unsettling.](https://www.404media.co/scientists-investigated-a-frequency-linked-to-paranormal-encounters-the-results-were-unsettling/)
 - Ars Technica
@@ -251,6 +253,7 @@
 - daniel.haxx.se
   - [curl 8.20.0](https://daniel.haxx.se/blog/2026/04/29/curl-8-20-0/)
 - daringfireball.net
+  - [OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years](https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html?unlocked_article_code=1.elA.u75G.-STmUe_pILOO)
   - [Playing With Fire](https://x.com/lifeof_jer/status/2048103471019434248?s=12)
 - darkreading
   - [BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures](https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures)
@@ -267,6 +270,7 @@
   - [The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree](https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition)
 - gilesthomas.com
   - [10Gb Ethernet: what I had to (re)learn](https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-relearned)
+  - [10Gb/s Ethernet: what I actually did to get it working in my home](https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did)
 - Google AI Blog
   - [Celebrating 20 years of Google Translate: Fun facts, tips and new features to try](https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/)
 - Hacker News Frontpage
@@ -306,6 +310,7 @@
   - [WaTF Bank Walkthrough (Part 4): Exploiting Android App Security Flaws](https://infosecwriteups.com/watf-bank-walkthrough-part-4-exploiting-android-app-security-flaws-fb8c8bc6da14?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [Critical Flaw Turns Vect Ransomware into Data Destroying Wiper](https://www.infosecurity-magazine.com/news/critical-flaw-vect-ransomware-data/)
+  - [Cursor Extension Flaw Exposes Developer API Keys](https://www.infosecurity-magazine.com/news/cursor-extension-flaw-exposes-api/)
   - [Malicious npm Dependency Linked to AI Assisted Commit Targets Crypto Wallets](https://www.infosecurity-magazine.com/news/ai-npm-dependency-targets-crypto/)
   - [Researchers Track 2.9 Billion Compromised Credentials](https://www.infosecurity-magazine.com/news/29-billion-compromised-credentials/)
 - IT Service Management News
@@ -328,6 +333,7 @@
 - Security Affairs
   - [All supported cPanel versions hit by critical auth bug, now patched](https://securityaffairs.com/191465/security/all-supported-cpanel-versions-hit-by-critical-auth-bug-now-patched.html)
   - [CVE-2026-3854 GitHub flaw enables remote code execution](https://securityaffairs.com/191434/security/cve-2026-3854-github-flaw-enables-remote-code-execution.html)
+  - [Internet censorship index reveals Russia’s lead and widespread content blocking](https://securityaffairs.com/191475/security/internet-censorship-index-reveals-russias-lead-and-widespread-content-blocking.html)
   - [ShinyHunters exploit Anodot incident to target Vimeo](https://securityaffairs.com/191448/security/shinyhunters-exploit-anodot-incident-to-target-vimeo.html)
   - [U.S. CISA adds Microsoft Windows Shell and ConnectWise ScreenConnect flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/191442/security/u-s-cisa-adds-microsoft-windows-shell-and-connectwise-screenconnect-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
 - shkspr.mobi
@@ -372,6 +378,7 @@
   - [With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model](https://the-decoder.com/with-nemotron-3-nano-omni-nvidia-reveals-what-really-goes-into-a-modern-multimodal-model/)
 - The Verge
   - [Apple TV’s new horror series is scarier because it’s also hilarious](https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview)
+  - [ChatGPT downloads are slowing — and may cause problems for OpenAI&#8217;s IPO](https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo)
   - [China freezes new robotaxi licenses after Baidu chaos](https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos)
   - [Claude can now plug directly into Photoshop, Blender, and Ableton](https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender)
   - [Electric air taxis are finally taking flight — just not with passengers](https://www.theverge.com/transportation/919532/joby-aviation-electric-air-taxi-jfk-manhattan-faa)
@@ -380,6 +387,7 @@
   - [Former FCC officials want to force a vote on the ‘weapon’ Brendan Carr has invoked against broadcasters](https://www.theverge.com/policy/919536/former-fcc-officials-brendan-car-news-distortion-policy)
   - [Google Home makes it easier to understand why devices aren&#8217;t working](https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update)
   - [Google Translate can now help you with pronunciation](https://www.theverge.com/tech/919510/google-translate-pronunciation-practice-availability)
+  - [Google TV is getting a dedicated row for YouTube Shorts](https://www.theverge.com/tech/920354/google-tv-youtube-shorts-row-update)
   - [James Comey indicted over Instagram seashell photo that allegedly threatened Trump](https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump)
   - [Larry’s risky business](https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout)
   - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
@@ -390,6 +398,8 @@
   - [The latest Kindle Paperwhite drops to its best price all year](https://www.theverge.com/gadgets/919644/kindle-paperwhite-marathon-deal-sale)
   - [The Nex Playground gaming console is $60 off this week](https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale)
   - [The resurrected Commodore 64 is getting a facelift like the original](https://www.theverge.com/tech/919625/commodore-64c-ultimate-fpga-computer-retro-c64c)
+  - [Tumbler Ridge families sue OpenAI for not alerting police to the suspect’s ChatGPT activity](https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit)
+  - [Uber adds hotels to its app in big travel swing](https://www.theverge.com/transportation/919393/uber-hotel-expedia-vrbo-ai-voice-search)
   - [You can get dragged into a police investigation by proximity alone — for now](https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants)
   - [Your PS5 can now transform into a Linux PC](https://www.theverge.com/news/920322/ps5-linux-project-exploit-install)
 - VulDB Recent Entries
@@ -411,6 +421,12 @@
   - [CVE-2026-42516 | CDAC-Noida e-Sushrut Hospital Management Information System encoded authorization (CIVN-2026-0207)](https://vuldb.com/vuln/360110)
   - [CVE-2026-42517 | CDAC-Noida e-Sushrut Hospital Management Information System Base64 Encoding authorization (CIVN-2026-0207)](https://vuldb.com/vuln/360111)
   - [CVE-2026-42518 | CDAC-Noida e-Sushrut Hospital Management Information System hard-coded key (CIVN-2026-0207)](https://vuldb.com/vuln/360109)
+  - [CVE-2026-42519 | Jenkins Script Security Plugin up to 1399.ve6a_66547f6e1 permission](https://vuldb.com/vuln/360150)
+  - [CVE-2026-42520 | Jenkins Credentials Binding Plugin up to 719.v80e905ef14eb_ privilege escalation](https://vuldb.com/vuln/360148)
+  - [CVE-2026-42521 | Jenkins Matrix Authorization Strategy Plugin up to 3.2.9 Configuration permission](https://vuldb.com/vuln/360149)
+  - [CVE-2026-42522 | Jenkins GitHub Branch Source Plugin up to 1967.vdea_d580c1a_b_a_ permission](https://vuldb.com/vuln/360151)
+  - [CVE-2026-42523 | Jenkins GitHub Plugin up to 1.46.0 cross site scripting](https://vuldb.com/vuln/360152)
+  - [CVE-2026-42524 | Jenkins HTML Publisher Plugin up to 427 cross site scripting](https://vuldb.com/vuln/360153)
   - [CVE-2026-42641 | ILLID Share This Image Plugin up to 2.14 on WordPress server-side request forgery](https://vuldb.com/vuln/360129)
   - [CVE-2026-42642 | StellarWP GiveWP Plugin up to 4.14.5 on WordPress authorization](https://vuldb.com/vuln/360127)
   - [CVE-2026-42643 | StellarWP Image Widget Plugin up to 4.4.11 on WordPress cross site scripting](https://vuldb.com/vuln/360131)
@@ -419,6 +435,7 @@
   - [CVE-2026-42646 | Steve Burge TaxoPress Plugin up to 3.44.0 on WordPress sql injection](https://vuldb.com/vuln/360128)
   - [CVE-2026-42648 | Brainstorm Force Spectra Plugin up to 2.19.22 on WordPress authorization](https://vuldb.com/vuln/360124)
   - [CVE-2026-42652 | wpeverest User Registration Plugin up to 5.1.5 on WordPress cross site scripting](https://vuldb.com/vuln/360132)
+  - [CVE-2026-5140 | Tubitak Bilgem Pardus Update up to 0.7.x crlf injection](https://vuldb.com/vuln/360147)
   - [CVE-2026-7009 | cURL up to 8.19.0 OCSP Stapling certificate validation (51905671e07f087e28e57)](https://vuldb.com/vuln/360100)
   - [CVE-2026-7320 | Mozilla Firefox up to 150.0.0 Video information disclosure](https://vuldb.com/vuln/359981)
   - [CVE-2026-7322 | Mozilla Firefox up to 150.0.0 memory corruption](https://vuldb.com/vuln/359982)
@@ -464,6 +481,10 @@
   - [CVE-2026-7408 | SourceCodester Pizzafy Ecommerce System 1.0 ajax.php?action=save_menu sql injection](https://vuldb.com/vuln/360142)
   - [CVE-2026-7409 | SourceCodester Pizzafy Ecommerce System 1.0 ajax.php?action=save_user sql injection](https://vuldb.com/vuln/360143)
   - [CVE-2026-7410 | SourceCodester Pizzafy Ecommerce System 1.0 ajax.php?action=add_to_cart pid sql injection](https://vuldb.com/vuln/360144)
+  - [CVE-2026-7417 | Algovate xhs-mcp 0.8.11 MCP Interface src/server/mcp.server.ts xhs_publish_content media_paths server-side request forgery](https://vuldb.com/vuln/360154)
+  - [CVE-2026-7418 | UTT HiPER 1250GW up to 3.2.7-210907-180535 route/goform/NTP strcpy Profile buffer overflow](https://vuldb.com/vuln/360155)
+  - [CVE-2026-7419 | UTT HiPER 1250GW up to 3.2.7-210907-180535 formTaskEdit_ap strcpy Profile buffer overflow](https://vuldb.com/vuln/360156)
+  - [CVE-2026-7420 | UTT HiPER 1250GW up to 3.2.7-210907-180535 ConfigAdvideo strcpy Profile buffer overflow](https://vuldb.com/vuln/360157)
 - wheresyoured.at
   - [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
   - [AI's Economics Don't Make Sense [Ad Free]](https://www.wheresyoured.at/ais-economics-dont-make-sense-ad-free/)
