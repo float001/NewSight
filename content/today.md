@@ -1,8 +1,13 @@
 # 今日安全资讯（2026-04-30）
 
+- 2Libra
+  - [CLIProxyAPIPlus 删库了，社区维护的同步版 Plus 项目又没有提供 Docker 镜像，所以我自己维护了一个](https://2libra.com/post/tool-sharing/9B8JV73)
+  - [有知道为什么在线测试网的速率不一样的吗](https://2libra.com/post/tech-qa/VU5ilwB)
 - 36氪
   - [别急着All-in DeepSeek V4，先看看这10位从业者的真心话](https://36kr.com/p/3788151000751364?f=rss)
 - Hacker News Frontpage
+  - [Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)
+  - [Copy Fail – CVE-2026-31431](https://copy.fail/)
   - [FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
   - [The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness](https://deepmind.google/research/publications/231971/)
 - SecLists - Full Disclosure
@@ -20,14 +25,20 @@
   - [SEC Consult SA-20260423-0 :: DLL Hijacking in EfficientLab Controlio (cloud-based employee monitoring service)](https://seclists.org/fulldisclosure/2026/Apr/19)
   - [SEC Consult SA-20260427-0 :: Missing TLS Certificate Validation leading to RCE in DeskTime Time Tracking App](https://seclists.org/fulldisclosure/2026/Apr/20)
   - [Trojan-Spy.Win32.Small / Remote Command Execution](https://seclists.org/fulldisclosure/2026/Apr/10)
+- simonwillison.net
+  - [LLM 0.32a0  is a major backwards-compatible refactor](https://simonwillison.net/2026/Apr/29/llm/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=42BD4D56-3716-5026-B5B8-1F89FF1FA2B8&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government](https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/)
   - [Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality](https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/)
   - [More Gemini features are coming to Google TV](https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/)
+  - [Parallel Web Systems hits $2B valuation five months after its last big raise](https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/)
+- text/plain
+  - [Exploiting Vulnerable Drivers](https://textslashplain.com/2026/04/29/exploiting-vulnerable-drivers/)
 - The Decoder
   - [Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat](https://the-decoder.com/google-gemini-now-generates-full-documents-spreadsheets-and-presentations-directly-inside-the-chat/)
+  - [Mistral's Le Chat spreads Iran war disinformation in 60 percent of leading prompts](https://the-decoder.com/mistrals-le-chat-spreads-iran-war-disinformation-in-60-percent-of-leading-prompts/)
 - The Verge
   - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
   - [Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;](https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch)
