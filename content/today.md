@@ -5,17 +5,24 @@
   - [有知道为什么在线测试网的速率不一样的吗](https://2libra.com/post/tech-qa/VU5ilwB)
 - 36氪
   - [别急着All-in DeepSeek V4，先看看这10位从业者的真心话](https://36kr.com/p/3788151000751364?f=rss)
+- daringfireball.net
+  - [Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’](https://sfstandard.com/2026/04/28/oak-sfo-reach-naming-settlement/)
 - darkreading
   - [AI Finds 38 Security Flaws in Electronic Health Record Platform](https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr)
   - [Reverse Engineering With AI Unearths High-Severity GitHub Bug](https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug)
+- EFF
+  - [EFF Submission to UN Report on the Role of Media in the Context of Israel’s Policies Toward Palestinians](https://www.eff.org/deeplinks/2026/04/eff-submission-un-report-role-media-context-israels-policies-toward-palestinians)
 - Hacker News Frontpage
   - ["People who don't use AI will be left behind"](https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/)
   - [Alphabet Announces First Quarter 2026 Results](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx)
   - [Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)
   - [Copy Fail – CVE-2026-31431](https://copy.fail/)
   - [FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
+  - [Gooseworks (YC W23) Is Hiring a Founding Growth Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer)
   - [Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years](https://jivx.com/kyoto-bloom)
   - [The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness](https://deepmind.google/research/publications/231971/)
+- HackerNoon
+  - [The Agentic SQL Architect: Engineering Databases That Reason](https://hackernoon.com/the-agentic-sql-architect-engineering-databases-that-reason?source=rss)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-04-22: Malicious ad leads to ClickFix-style page for macOS malware](https://www.malware-traffic-analysis.net/2026/04/22/index.html)
 - SecLists - Full Disclosure
@@ -38,9 +45,16 @@
 - simonwillison.net
   - [LLM 0.32a0  is a major backwards-compatible refactor](https://simonwillison.net/2026/Apr/29/llm/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CRLF Injection in Useplunk Plunk exploit](https://sploitus.com/exploit?id=625A1290-B999-5DE8-A515-F82DE126BAE4&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=52EB96E9-BBA2-536C-A65E-0C6CC28D0D6C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-36957 exploit](https://sploitus.com/exploit?id=D3844EF0-691D-5A32-8788-F4D28228E9EA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-36958 exploit](https://sploitus.com/exploit?id=47F13C16-649D-5FFC-8499-B7894921782F&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Neutralization of Special Elements in Data Query Logic in Getzep Graphiti exploit](https://sploitus.com/exploit?id=29F6A346-293F-556C-B0CE-8ABDFBC56F39&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Neutralization of Special Elements in Data Query Logic in Pab1It0 Azure_Data_Explorer_Mcp_Server exploit](https://sploitus.com/exploit?id=A690E7CB-1D5C-5A24-B35F-E2C48A70E1E7&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=42BD4D56-3716-5026-B5B8-1F89FF1FA2B8&utm_source=rss&utm_medium=rss)
+  - [Exploit for OS Command Injection in Kubeai exploit](https://sploitus.com/exploit?id=B13F4FEE-2B3C-5AF8-A171-2FC9D2733ABC&utm_source=rss&utm_medium=rss)
+  - [Exploit for Path Traversal in Mcp-Atlassian Mcp_Atlassian exploit](https://sploitus.com/exploit?id=D6CF8998-EC14-5E08-8C47-E2D2B4EBF17E&utm_source=rss&utm_medium=rss)
+  - [Exploit for Server-Side Request Forgery in Chamilo Chamilo_Lms exploit](https://sploitus.com/exploit?id=63B900F3-D8DD-56B1-A26C-C6F58869B0D7&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government](https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/)
   - [Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix](https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/)
@@ -56,7 +70,9 @@
 - The Verge
   - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
   - [Google Search queries hit an ‘all time high’ last quarter](https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai)
+  - [Grindr — yes, Grindr — won the WHCD party circuit](https://www.theverge.com/column/920845/grindr-whcd-party-2026)
   - [Microsoft reports sinking Xbox revenue as its cloud business climbs](https://www.theverge.com/tech/920785/microsoft-xbox-revenue-q3-2026-earnings)
+  - [Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off](https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale)
   - [Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;](https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch)
 - VulDB Recent Entries
   - [CVE-2026-27105 | Dell Alienware Purchased Apps up to 1.1.31.0 link following (dsa-2026-131)](https://vuldb.com/vuln/360203)
