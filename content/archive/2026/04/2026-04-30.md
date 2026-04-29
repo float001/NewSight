@@ -5,10 +5,14 @@
   - [有知道为什么在线测试网的速率不一样的吗](https://2libra.com/post/tech-qa/VU5ilwB)
 - 36氪
   - [别急着All-in DeepSeek V4，先看看这10位从业者的真心话](https://36kr.com/p/3788151000751364?f=rss)
+- darkreading
+  - [AI Finds 38 Security Flaws in Electronic Health Record Platform](https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr)
 - Hacker News Frontpage
+  - ["People who don't use AI will be left behind"](https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/)
   - [Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)
   - [Copy Fail – CVE-2026-31431](https://copy.fail/)
   - [FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
+  - [Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years](https://jivx.com/kyoto-bloom)
   - [The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness](https://deepmind.google/research/publications/231971/)
 - SecLists - Full Disclosure
   - [[IWCC 2026] CfP: 15th International Workshop on Cyber Crime - Linköping, Sweden, Aug 24-27, 2026](https://seclists.org/fulldisclosure/2026/Apr/9)
@@ -42,7 +46,17 @@
 - The Verge
   - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
   - [Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;](https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch)
+- VulDB Recent Entries
+  - [CVE-2026-27105 | Dell Alienware Purchased Apps up to 1.1.31.0 link following (dsa-2026-131)](https://vuldb.com/vuln/360203)
+  - [CVE-2026-7422 | AWS FreeRTOS-Plus-TCP up to 4.2.5/4.4.0 Loopback Detection authentication spoofing](https://vuldb.com/vuln/360202)
+  - [CVE-2026-7423 | AWS FreeRTOS-Plus-TCP up to 4.2.5/4.4.0 Packet Length integer underflow](https://vuldb.com/vuln/360200)
+  - [CVE-2026-7424 | AWS FreeRTOS-Plus-TCP up to 4.2.5/4.4.0 integer underflow](https://vuldb.com/vuln/360201)
+  - [CVE-2026-7466 | berabuddies AgentFlow /api/runs pipeline_path code injection (1667fa3)](https://vuldb.com/vuln/360199)
+  - [CVE-2026-7468 | 1024-lab smart-admin up to 3.30.0 Demo Site index.html access control (Issue 117)](https://vuldb.com/vuln/360204)
+  - [CVE-2026-7469 | Tenda 4G300 US_4G300V1.0Mt_V1.01.42_CN_TDC01 /goform/DelFil sub_425A28 delflag command injection](https://vuldb.com/vuln/360205)
+  - [CVE-2026-7470 | Tenda 4G300 US_4G300V1.0Mt_V1.01.42_CN_TDC01 /goform/SafeMacFilter sub_427C3C page stack-based overflow](https://vuldb.com/vuln/360206)
 - Wired
+  - [Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery](https://www.wired.com/story/female-looksmaxxer-alorah-ziva-suing-clavicular-for-alleged-battery/)
   - [Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed](https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
