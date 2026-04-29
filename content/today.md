@@ -23,6 +23,7 @@
   - [A股三大指数午间休盘集体上涨，新能源产业链大涨](https://36kr.com/newsflashes/3787350761331714?f=rss)
   - [A股三大指数集体低开，五粮液股价跌破100元](https://36kr.com/newsflashes/3787227863194628?f=rss)
   - [CoreWeave：OpenAI是“极佳的合作伙伴”，但并非唯一](https://36kr.com/newsflashes/3786651357993985?f=rss)
+  - [OpenAI强硬回击增长质疑：一切业务“运转如飞”](https://36kr.com/newsflashes/3787493432925445?f=rss)
   - [OpenAI预计用户将大幅转向更便宜的ChatGPT套餐](https://36kr.com/newsflashes/3787131818368000?f=rss)
   - [OpenAI：企业和广告业务正在增长](https://36kr.com/newsflashes/3786658519292934?f=rss)
   - [OpenRouter发布最新大模型调用量排行榜，混元Hy3 preview登顶](https://36kr.com/newsflashes/3787373798333696?f=rss)
@@ -32,6 +33,7 @@
   - [两市融资余额增加1.57亿元](https://36kr.com/newsflashes/3787189226085635?f=rss)
   - [中信建投：中东有望成为中国物流企业全球化的重要增长极](https://36kr.com/newsflashes/3787131224431881?f=rss)
   - [中泰证券：Q1被动基金、北向资金流出银行板块，继续看好银行股稳健性和持续性](https://36kr.com/newsflashes/3787172379057155?f=rss)
+  - [乐道L80开启预售](https://36kr.com/newsflashes/3787457346821379?f=rss)
   - [亚马逊已在AWS上架多款全新OpenAI产品](https://36kr.com/newsflashes/3787162342726662?f=rss)
   - [人民币兑美元中间价报6.8608，下调19点](https://36kr.com/newsflashes/3787218043001857?f=rss)
   - [传闻拓竹科技存在入股、入主公司相关规划？银禧科技：不属实](https://36kr.com/newsflashes/3787413473811460?f=rss)
@@ -61,7 +63,9 @@
   - [国金证券：大规模AI集群带动CPO加速，看好产业链公司](https://36kr.com/newsflashes/3787171576290567?f=rss)
   - [多地银行加速旗下村镇银行整合重组](https://36kr.com/newsflashes/3787165643070723?f=rss)
   - [央行今日开展259亿元7天期逆回购操作](https://36kr.com/newsflashes/3787224562932742?f=rss)
+  - [宁波甬投先导股权投资基金注册成立](https://36kr.com/newsflashes/3787474331294724?f=rss)
   - [巴拿马航空宣布订购至多60架波音737 MAX飞机](https://36kr.com/newsflashes/3787170850757894?f=rss)
+  - [影石创新2025营收近百亿，新品云台相机将发布](https://36kr.com/newsflashes/3787489244339459?f=rss)
   - [徐工汽车据悉考虑香港IPO，拟融资至多5亿美元](https://36kr.com/newsflashes/3787440400980992?f=rss)
   - [恒指午间休盘涨1.23%，恒生科技指数涨1.07%](https://36kr.com/newsflashes/3787380693638148?f=rss)
   - [恒指开盘涨0.63%，恒生科技指数涨1.07%](https://36kr.com/newsflashes/3787224093023490?f=rss)
@@ -72,12 +76,16 @@
   - [新政后首单“H转深A”诞生，越疆科技创业板IPO获受理](https://36kr.com/newsflashes/3787137966382341?f=rss)
   - [最前线｜未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场](https://36kr.com/p/3787376553876737?f=rss)
   - [期货市场交投活跃，上市期货公司首季盈利集体倍增](https://36kr.com/newsflashes/3787146901429504?f=rss)
+  - [梅赛德斯-奔驰营收利润下滑，但对全年业绩持乐观态度](https://36kr.com/newsflashes/3787457905204228?f=rss)
   - [欧盟《数字市场法》监管范围拟扩大至云服务与AI领域](https://36kr.com/newsflashes/3787149562682627?f=rss)
   - [欧盟报告称欧洲升温加速，多项气候指标破纪录](https://36kr.com/newsflashes/3787263280618500?f=rss)
   - [武汉聚芯微电子股份有限公司向港交所提交上市申请书](https://36kr.com/newsflashes/3786668812164356?f=rss)
   - [比博斯特完成超10亿元B轮融资，智能底盘三轴产品全覆盖｜36氪独家](https://36kr.com/p/3740907027054600?f=rss)
+  - [毕马威丢失五角大楼合同后，退出美国联邦政府审计业务](https://36kr.com/newsflashes/3787398530489345?f=rss)
   - [汇川技术：向香港联交所递交H股发行与上市申请](https://36kr.com/newsflashes/3787117084679425?f=rss)
+  - [沪指突破4100点整数关口](https://36kr.com/newsflashes/3787466276019208?f=rss)
   - [沪深两市成交额突破1万亿](https://36kr.com/newsflashes/3787281253784576?f=rss)
+  - [沪深两市成交额突破2万亿元](https://36kr.com/newsflashes/3787488208739333?f=rss)
   - [港股IPO热潮中的中资券商：保荐数量与市场份额领跑](https://36kr.com/newsflashes/3787179604679683?f=rss)
   - [源杰科技股价创新高](https://36kr.com/newsflashes/3787308877782274?f=rss)
   - [特斯拉称计划将FSD V14 Lite扩展到国际市场的HW3车辆](https://36kr.com/newsflashes/3787394460081410?f=rss)
@@ -99,6 +107,7 @@
   - [苹果计划在iOS 27中借助AI对照片编辑功能进行全面升级](https://36kr.com/newsflashes/3787148066593798?f=rss)
   - [蓝焰控股：近期LNG价格上涨对公司经营业绩有一定正向影响](https://36kr.com/newsflashes/3787393627446275?f=rss)
   - [铁矿石巨头淡水河谷业绩不及预期，受运营成本压力影响](https://36kr.com/newsflashes/3787148861332737?f=rss)
+  - [锂电产业链涨势扩大，鹏辉能源等十余股涨停](https://36kr.com/newsflashes/3787449432743170?f=rss)
   - [阶跃星辰发布新一代图像生成编辑模型Step Image Edit 2](https://36kr.com/newsflashes/3787364295482632?f=rss)
   - [阿克曼旗下潘兴广场通过IPO和配股融资50亿美元](https://36kr.com/newsflashes/3787168604921095?f=rss)
   - [阿联酋宣布将退出欧佩克及“欧佩克+”](https://36kr.com/newsflashes/3786660152581385?f=rss)
@@ -140,8 +149,16 @@
   - [ĺˇ´čĽż LofyGang ĺ›˘äź™ć˛‰ĺŻ‚ä¸‰ĺš´ĺŽĺˇĺœŸé‡ćĽďźŒĺ‘čľˇ Minecraft LofyStealer çŞƒĺ–ĺ™¨ć´ťĺŠ¨](http://0.0.0.0:8080/post/64195)
 - HackerNoon
   - [Building a Reactive SPA by Using PHP, Twig, and JavaScript via Stimulus: Part One](https://hackernoon.com/building-a-reactive-spa-by-using-php-twig-and-javascript-via-stimulus-part-one?source=rss)
+- ICT Security Magazine
+  - [Cloud forensics e il labirinto giurisdizionale: acquisire prove oltre i confini](https://www.ictsecuritymagazine.com/articoli/cloud-forensics-prove-digitali/)
 - IEEE Spectrum
   - [The Chip That Made Hardware Rewriteable](https://spectrum.ieee.org/fpga-chip-ieee-milestone)
+- InfoSec Write-ups - Medium
+  - [Backup Files + .env Exposure Developers Ki Sabse Badi Galti: Config Files Se Credentials Nikalo!](https://infosecwriteups.com/backup-files-env-exposure-developers-ki-sabse-badi-galti-config-files-se-credentials-nikalo-1432674639b8?source=rss----7b722bfd1b8d---4)
+  - [From Zero Reports to My First Hall of Fame](https://infosecwriteups.com/from-zero-reports-to-my-first-hall-of-fame-177eb70afd58?source=rss----7b722bfd1b8d---4)
+  - [PaloAltoRCE Lab Write-Up | By BnHany](https://infosecwriteups.com/paloaltorce-lab-write-up-by-bnhany-03e767059788?source=rss----7b722bfd1b8d---4)
+  - [URL Anatomy & Encoding: Why Your Payloads Break](https://infosecwriteups.com/url-anatomy-encoding-why-your-payloads-break-faec39eef0c5?source=rss----7b722bfd1b8d---4)
+  - [WaTF Bank Walkthrough (Part 4): Exploiting Android App Security Flaws](https://infosecwriteups.com/watf-bank-walkthrough-part-4-exploiting-android-app-security-flaws-fb8c8bc6da14?source=rss----7b722bfd1b8d---4)
 - joanwestenberg.com
   - [On wintering.](https://www.joanwestenberg.com/on-wintering/)
 - johndcook.com
@@ -237,6 +254,8 @@
   - [美国要求芯片设备公司停止向华虹供应设备](https://buaq.net/go-413372.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [Fedora Linux 44 释出](https://www.solidot.org/story?sid=84177)
 - 爱范儿
   - [iPhone 18「缩水」？苹果新 CEO 正在下一盘大棋](https://www.ifanr.com/1664130?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [我一点也不想要 OpenAI 手机｜AI 器物志](https://www.ifanr.com/1664344?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -245,6 +264,7 @@
 - 绿盟科技技术博客
   - [权威认证 | 绿盟科技再次荣膺CNCERT甲级支撑单位](https://blog.nsfocus.net/%e6%9d%83%e5%a8%81%e8%ae%a4%e8%af%81-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%86%8d%e6%ac%a1%e8%8d%a3%e8%86%bacncert%e7%94%b2%e7%ba%a7%e6%94%af%e6%92%91%e5%8d%95%e4%bd%8d/)
 - 黑海洋
+  - [GitHub服务故障：拉取请求结果不完整及服务组件运行状况](https://blog.upx8.com/GitHub%E6%9C%8D%E5%8A%A1%E6%95%85%E9%9A%9C-%E6%8B%89%E5%8F%96%E8%AF%B7%E6%B1%82%E7%BB%93%E6%9E%9C%E4%B8%8D%E5%AE%8C%E6%95%B4%E5%8F%8A%E6%9C%8D%E5%8A%A1%E7%BB%84%E4%BB%B6%E8%BF%90%E8%A1%8C%E7%8A%B6%E5%86%B5)
   - [美国要求芯片设备公司停止向华虹供应设备](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%B1%82%E8%8A%AF%E7%89%87%E8%AE%BE%E5%A4%87%E5%85%AC%E5%8F%B8%E5%81%9C%E6%AD%A2%E5%90%91%E5%8D%8E%E8%99%B9%E4%BE%9B%E5%BA%94%E8%AE%BE%E5%A4%87)
   - [苹果拟在iOS 27中借助AI革新照片编辑功能](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%8B%9F%E5%9C%A8iOS-27%E4%B8%AD%E5%80%9F%E5%8A%A9AI%E9%9D%A9%E6%96%B0%E7%85%A7%E7%89%87%E7%BC%96%E8%BE%91%E5%8A%9F%E8%83%BD)
   - [议员敦促特朗普禁止中国车企在美建厂造车](https://blog.upx8.com/%E8%AE%AE%E5%91%98%E6%95%A6%E4%BF%83%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E5%9C%A8%E7%BE%8E%E5%BB%BA%E5%8E%82%E9%80%A0%E8%BD%A6)
