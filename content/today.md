@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-05-01）
 
 - 2Libra
+  - [五一假期第一天，大家都在干啥呢？](https://2libra.com/post/small-things/xHdoOe4)
   - [五一签到 1800 金币](https://2libra.com/post/forum-function/G6eI3Bj)
   - [授权登录页面展示问题](https://2libra.com/post/community/EcdBZqD)
 - Ars Technica
@@ -18,6 +19,7 @@
   - [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
   - [SatoshiGuesser – Roll for Bitcoin](https://github.com/Pathos0925/SatoshiGuesser)
   - [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+  - [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)
   - [The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
   - [U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets](https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd)
 - infosecurity-magazine.com
@@ -36,8 +38,10 @@
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=C8F8D9CA-A2A7-50CB-8C55-917943AC644F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=FE7993FE-7F81-5B38-B954-61AC3883C00C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-41940 exploit](https://sploitus.com/exploit?id=30A9AC7C-E560-5AB8-A736-4D5F73275685&utm_source=rss&utm_medium=rss)
+  - [hacktrix exploit](https://sploitus.com/exploit?id=D8012EBD-2CD6-5526-9E05-5019EB7FE5C0&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too](https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/)
+  - [Apple was surprised by AI-driven demand for Macs](https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/)
   - [Elon Musk testifies that xAI trained Grok on OpenAI models](https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/)
   - [EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting](https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/)
   - [FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder](https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/)
