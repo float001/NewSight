@@ -19,6 +19,7 @@
   - [刚刚 Jimmy 打赏了一下，然后就发现了一个 bug](https://2libra.com/post/community/2gY2OUn)
   - [咦 金币的收入支出颜色怎么不太一样](https://2libra.com/post/forum-function/P0GAsO1)
   - [大头兵干活，项目经理拿奖](https://2libra.com/post/workplace-stories/ccCLYeN)
+  - [感谢各位老哥作为过来人的宝贵经验，新开一帖瞎扯一下我自己](https://2libra.com/post/workplace-stories/WAF-iuy)
   - [我用 AI 折腾的第二个 Wordpress 主题 🔥🔥](https://2libra.com/post/personal-works/2rvcp6X)
   - [明天五一，感觉今天好多人水在 2 站](https://2libra.com/post/festival-things/C7EgWdT)
   - [昨天未描述清楚的表态打赏功能是一键三连](https://2libra.com/post/forum-function/LqSOqJr)
@@ -219,7 +220,11 @@
   - [香港金管局：3月份港元货币供应量M2及M3同比均上升1.2%](https://36kr.com/newsflashes/3789083440061446?f=rss)
   - [高通第二财季营收105.99亿美元，同比减少3%](https://36kr.com/newsflashes/3788539822660612?f=rss)
 - 404 Media
+  - [City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Pitch Demo, Renews Contract Anyway](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/)
   - [Japan Is Building Cardboard Suicide Drones](https://www.404media.co/japan-cardboard-drones-air-kamuy/)
+  - [People Are Selling Kills of Marathon’s Hardest Boss on eBay](https://www.404media.co/buy-marathon-compiler-kill/)
+- Ars Technica
+  - [More than half of all "long shot" bets on Polymarket pay off](https://arstechnica.com/tech-policy/2026/04/more-than-half-of-all-long-shot-bets-on-polymarket-pay-off/)
 - Cerbero Blog
   - [EROFS Format Package](https://blog.cerbero.io/erofs-format-package/)
 - daniel.haxx.se
@@ -230,6 +235,7 @@
 - darkreading
   - [AI Finds 38 Security Flaws in Electronic Health Record Platform](https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr)
   - [Claude Mythos Fears Startle Japan's Financial Services Sector](https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector)
+  - [Oracle Red Bull Racing Team Revs Up Automation to Boost Security](https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security)
   - [Reverse Engineering With AI Unearths High-Severity GitHub Bug](https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug)
 - defend.network
   - [Daily Threat Briefing – April 30, 2026](https://defend.network/briefings/sap-npm-cpanel-supply-chain-authentication-2026-04-30.html)
@@ -274,7 +280,9 @@
 - idiallo.com
   - [Have You Seen the New Excel?](https://idiallo.com/blog/have-you-seen-the-new-xl-ai-parody?src=feed)
 - IEEE Spectrum
+  - [DAIMON Robotics Wants to Give Robot Hands a Sense of Touch](https://spectrum.ieee.org/daimon-robotics-physical-ai)
   - [Transmission Hardware Corona Performance and HVDC Submarine Cable EM Fields](https://events.bizzabo.com/860041)
+  - [With $1 Cyberattacks on the Rise, Durable Defenses Pay Off](https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code)
 - InfoSec Write-ups - Medium
   - [AI Offensive Security: Practical Attacks Against LLM Agents](https://infosecwriteups.com/ai-offensive-security-practical-attacks-against-llm-agents-516dbdabbf86?source=rss----7b722bfd1b8d---4)
   - [Android Emulation & Virtualisation](https://infosecwriteups.com/android-emulation-virtualisation-2f6b33fcc4aa?source=rss----7b722bfd1b8d---4)
@@ -284,8 +292,10 @@
   - [Vulnerable AI Lab](https://infosecwriteups.com/vulnerable-ai-lab-3747e96314dd?source=rss----7b722bfd1b8d---4)
   - [We Got Targeted: How Attackers Used Microsoft Teams to Own an Employee’s Machine, And How We Caught…](https://infosecwriteups.com/we-got-targeted-how-attackers-used-microsoft-teams-to-own-an-employees-machine-and-how-we-caught-40fcf202098b?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
+  - [CISA and Partners Publish Zero Trust Guidance For OT Security](https://www.infosecurity-magazine.com/news/zero-trust-guidance-operational/)
   - [Cyber is the Number One Global “People Risk,” Says Marsh](https://www.infosecurity-magazine.com/news/cyber-number-one-global-people/)
   - [Europol Busts Albanian Scam Call Centers in Major Online Fraud Case](https://www.infosecurity-magazine.com/news/europol-albanian-scam-call-centers/)
+  - [UK: Education Sector Faces Surge in Cyber Breaches Despite Stable National Threat Levels](https://www.infosecurity-magazine.com/news/uk-education-sector-faces-surge-in/)
 - IT Service Management News
   - [Incontro ACN e Clusit](http://blog.cesaregallotti.it/2026/04/incontro-acn-e-clusit.html)
 - Malware-Traffic-Analysis.net - Blog Entries
@@ -362,6 +372,7 @@
   - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=42BD4D56-3716-5026-B5B8-1F89FF1FA2B8&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Kubeai exploit](https://sploitus.com/exploit?id=B13F4FEE-2B3C-5AF8-A171-2FC9D2733ABC&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Read in Linaro Op-Tee exploit](https://sploitus.com/exploit?id=1FD51FBC-55E5-5759-8474-D26B2C76ECF6&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Read in Microsoft exploit](https://sploitus.com/exploit?id=55A8A302-B850-536E-BA93-897D6CF1D9EB&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Mcp-Atlassian Mcp_Atlassian exploit](https://sploitus.com/exploit?id=D6CF8998-EC14-5E08-8C47-E2D2B4EBF17E&utm_source=rss&utm_medium=rss)
   - [Exploit for Server-Side Request Forgery in Chamilo Chamilo_Lms exploit](https://sploitus.com/exploit?id=63B900F3-D8DD-56B1-A26C-C6F58869B0D7&utm_source=rss&utm_medium=rss)
   - [exploit-db-skill exploit](https://sploitus.com/exploit?id=5B50159E-79F5-5F3A-AE20-9297601F907C&utm_source=rss&utm_medium=rss)
@@ -392,6 +403,7 @@
 - The Decoder
   - [Anthropic's new benchmark claims Claude can match human experts in bioinformatics](https://the-decoder.com/anthropics-new-benchmark-claims-claude-can-match-human-experts-in-bioinformatics/)
   - [FDA bets on AI and cloud monitoring for clinical trials as it looks to rebuild after DOGE layoffs](https://the-decoder.com/fda-bets-on-ai-and-cloud-monitoring-for-clinical-trials-as-it-looks-to-rebuild-after-doge-layoffs/)
+  - [Google CEO says Pichai says people "love" AI Overviews and keep coming back to search more](https://the-decoder.com/google-ceo-says-pichai-says-people-love-ai-overviews-and-keep-coming-back-to-search-more/)
   - [Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat](https://the-decoder.com/google-gemini-now-generates-full-documents-spreadsheets-and-presentations-directly-inside-the-chat/)
   - [Mistral's Le Chat spreads Iran war disinformation in 60 percent of leading prompts](https://the-decoder.com/mistrals-le-chat-spreads-iran-war-disinformation-in-60-percent-of-leading-prompts/)
   - [OpenAI says it hit its 10 gigawatt compute goal years ahead of schedule](https://the-decoder.com/openai-says-it-hit-its-10-gigawatt-compute-goal-years-ahead-of-schedule/)
@@ -407,9 +419,12 @@
   - [Is this ‘de-extinction’ project actually onto something?](https://www.theverge.com/science/921088/colossal-de-extinction-antelope-reproduction)
   - [Meta lost 20 million users last quarter](https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments)
   - [Microsoft reports sinking Xbox revenue as its cloud business climbs](https://www.theverge.com/tech/920785/microsoft-xbox-revenue-q3-2026-earnings)
+  - [OpenAI talks about not talking about goblins](https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins)
   - [OpenAI’s new security model is for ‘critical cyber defenders’ only](https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber)
   - [PlayStation now requires a ‘one-time online check’ to confirm you own a game](https://www.theverge.com/games/921064/sony-playstation-drm-online-license-statement)
+  - [Samsung says the RAM shortage could get even worse next year](https://www.theverge.com/tech/921190/samsung-ram-shortage-getting-worse-2027)
   - [Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off](https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale)
+  - [The Commodore 64 and ZX Spectrum have been turned into retrofuturistic handhelds](https://www.theverge.com/tech/921178/blaze-entertainment-retro-games-commodore-64-zx-spectrum-handhelds)
   - [Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;](https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch)
 - VulDB Recent Entries
   - [CVE-2018-25298 | Merge PACS 7.0 POST Request summary cross-site request forgery (Exploit 44681 / EDB-44681)](https://vuldb.com/vuln/360209)
@@ -537,6 +552,7 @@
   - [mawk and gawk](https://dyrnq.com/mawk-and-gawk/)
   - [SO_REUSEADDR and SO_REUSEPORT](https://dyrnq.com/so_reuseaddr-and-so_reuseport/)
   - [what is lets-encrypt-x3-cross-signed.pem](https://dyrnq.com/what-is-lets-encrypt-x3-cross-signed-pem/)
+  - [why key Enter called 确认键](https://dyrnq.com/why-key-enter-called-%e7%a1%ae%e8%ae%a4%e9%94%ae/)
   - [x86_64-pc-linux-gnu](https://dyrnq.com/x86_64-pc-linux-gnu/)
 - 奇客Solidot–传递最新科技情报
   - [Google 给你贴上的价格标签](https://www.solidot.org/story?sid=84196)
