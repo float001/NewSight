@@ -4,16 +4,40 @@
   - [CLIProxyAPIPlus 删库了，社区维护的同步版 Plus 项目又没有提供 Docker 镜像，所以我自己维护了一个](https://2libra.com/post/tool-sharing/9B8JV73)
   - [有知道为什么在线测试网的速率不一样的吗](https://2libra.com/post/tech-qa/VU5ilwB)
 - 36氪
+  - [A股公司2025年合计盈利5.36万亿元，同比增长近3%](https://36kr.com/newsflashes/3788523674180615?f=rss)
+  - [Meta一季度营收563.1亿美元，同比增长33%](https://36kr.com/newsflashes/3788513858772226?f=rss)
+  - [PayPal重组：Venmo将分拆为独立业务部门](https://36kr.com/newsflashes/3788517111291136?f=rss)
+  - [「微滔生物」A轮次融资超5000万美元，LNP路线体内CAR-T已发表初步人体数据](https://36kr.com/p/3787339522432256?f=rss)
+  - [一季度上市险企负债端亮点频现，资产端阶段性承压](https://36kr.com/newsflashes/3788540801424385?f=rss)
+  - [三星电子第一季度净利润47.10万亿韩元](https://36kr.com/newsflashes/3788549532097541?f=rss)
+  - [传雅诗兰黛考虑以每股18-19欧元收购Puig](https://36kr.com/newsflashes/3788525035756548?f=rss)
   - [别急着All-in DeepSeek V4，先看看这10位从业者的真心话](https://36kr.com/p/3788151000751364?f=rss)
+  - [年内基金自购超20亿元，主要配置权益类产品](https://36kr.com/newsflashes/3788539101125888?f=rss)
   - [微软第三财季营收829亿美元，同比增长18%](https://36kr.com/newsflashes/3788494339120385?f=rss)
+  - [报道称软银计划将其人工智能公司ROZE上市](https://36kr.com/newsflashes/3788531821583616?f=rss)
+  - [推特前CEO创办AI初创公司完成融资，估值达20亿美元](https://36kr.com/newsflashes/3788514523864066?f=rss)
+  - [核心指标增长提速，六大行一季度净赚逾3500亿元](https://36kr.com/newsflashes/3788530562440193?f=rss)
+  - [汽车供应商Tenneco准备今年IPO](https://36kr.com/newsflashes/3788515391282176?f=rss)
+  - [环球音乐将出售半数Spotify持股，回购股票并回馈艺人](https://36kr.com/newsflashes/3788516241169408?f=rss)
+  - [福特汽车第一季度总营收433亿美元，同比增长6.4%](https://36kr.com/newsflashes/3788529836776707?f=rss)
+  - [算力租赁加速集中，头部企业步入业绩兑现期](https://36kr.com/newsflashes/3788528820280326?f=rss)
+  - [美联储6月维持利率不变的概率为99%](https://36kr.com/newsflashes/3788526834834432?f=rss)
   - [美股三大指数收盘涨跌不一，英特尔涨超12%](https://36kr.com/newsflashes/3788492083518471?f=rss)
+  - [财务指标精准阻击“壳公司”，A股加速风险“出清”提质量](https://36kr.com/newsflashes/3788531313335555?f=rss)
+  - [车企盈利分化加剧，谋划新增长极成共识](https://36kr.com/newsflashes/3788524139764745?f=rss)
+  - [近2.4万亿元，A股公司年度现金分红创新高](https://36kr.com/newsflashes/3788528204897280?f=rss)
+  - [近七成上市券商一季度营收、净利润双增长](https://36kr.com/newsflashes/3788529497037833?f=rss)
+  - [高通第二财季营收105.99亿美元，同比减少3%](https://36kr.com/newsflashes/3788539822660612?f=rss)
 - daringfireball.net
   - [Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’](https://sfstandard.com/2026/04/28/oak-sfo-reach-naming-settlement/)
 - darkreading
   - [AI Finds 38 Security Flaws in Electronic Health Record Platform](https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr)
+  - [Claude Mythos Fears Startle Japan's Financial Services Sector](https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector)
   - [Reverse Engineering With AI Unearths High-Severity GitHub Bug](https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug)
 - EFF
   - [EFF Submission to UN Report on the Role of Media in the Context of Israel’s Policies Toward Palestinians](https://www.eff.org/deeplinks/2026/04/eff-submission-un-report-role-media-context-israels-policies-toward-palestinians)
+- Emergent Minds | paddo.dev
+  - [Codex Hits 4M: Quality Is What's Left to Brag About](https://paddo.dev/blog/codex-4m-quality-defense/)
 - Hacker News Frontpage
   - ["People who don't use AI will be left behind"](https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/)
   - [Alphabet Announces First Quarter 2026 Results](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx)
@@ -26,6 +50,8 @@
   - [View transactions sent to a Monero address](https://localmonero.co/blocks/search/47xmhbRuYpSYSrVZx2RsPBhaAQByZq3ucAT6ULxHvDAu8c853ErpLHqBdDmpVzcmWFdZFCWrfZYwp3rqs14zxXx95S7Fyv2)
 - HackerNoon
   - [The Agentic SQL Architect: Engineering Databases That Reason](https://hackernoon.com/the-agentic-sql-architect-engineering-databases-that-reason?source=rss)
+- idiallo.com
+  - [Have You Seen the New Excel?](https://idiallo.com/blog/have-you-seen-the-new-xl-ai-parody?src=feed)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-04-22: Malicious ad leads to ClickFix-style page for macOS malware](https://www.malware-traffic-analysis.net/2026/04/22/index.html)
 - SecLists - Full Disclosure
@@ -49,25 +75,31 @@
   - [LLM 0.32a0  is a major backwards-compatible refactor](https://simonwillison.net/2026/Apr/29/llm/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CRLF Injection in Useplunk Plunk exploit](https://sploitus.com/exploit?id=625A1290-B999-5DE8-A515-F82DE126BAE4&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=052EF974-A427-5B17-8A55-8AE7C1C493E0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=1CA7DFEB-4BA1-505A-8B75-CF3345E70207&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=52EB96E9-BBA2-536C-A65E-0C6CC28D0D6C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-36957 exploit](https://sploitus.com/exploit?id=D3844EF0-691D-5A32-8788-F4D28228E9EA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-36958 exploit](https://sploitus.com/exploit?id=47F13C16-649D-5FFC-8499-B7894921782F&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-41940 exploit](https://sploitus.com/exploit?id=959CC099-F219-5262-8583-4876759E29BE&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Neutralization of Special Elements in Data Query Logic in Getzep Graphiti exploit](https://sploitus.com/exploit?id=29F6A346-293F-556C-B0CE-8ABDFBC56F39&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Neutralization of Special Elements in Data Query Logic in Pab1It0 Azure_Data_Explorer_Mcp_Server exploit](https://sploitus.com/exploit?id=A690E7CB-1D5C-5A24-B35F-E2C48A70E1E7&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=42BD4D56-3716-5026-B5B8-1F89FF1FA2B8&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Kubeai exploit](https://sploitus.com/exploit?id=B13F4FEE-2B3C-5AF8-A171-2FC9D2733ABC&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Mcp-Atlassian Mcp_Atlassian exploit](https://sploitus.com/exploit?id=D6CF8998-EC14-5E08-8C47-E2D2B4EBF17E&utm_source=rss&utm_medium=rss)
   - [Exploit for Server-Side Request Forgery in Chamilo Chamilo_Lms exploit](https://sploitus.com/exploit?id=63B900F3-D8DD-56B1-A26C-C6F58869B0D7&utm_source=rss&utm_medium=rss)
+  - [exploit-db-skill exploit](https://sploitus.com/exploit?id=5B50159E-79F5-5F3A-AE20-9297601F907C&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government](https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/)
   - [Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix](https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/)
   - [Google Cloud surpasses $20B but says growth was capacity-constrained](https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/)
   - [Google gains 25M subscriptions in Q1, driven by YouTube and Google One](https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/)
   - [Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality](https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/)
+  - [Meta is still burning money on AR/VR](https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/)
   - [Microsoft says it has over 20M paid Copilot users, and they really are using it](https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/)
   - [More Gemini features are coming to Google TV](https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/)
+  - [On the stand, Elon Musk can’t escape his own tweets](https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/)
   - [Parallel Web Systems hits $2B valuation five months after its last big raise](https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/)
+  - [Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal](https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/)
 - text/plain
   - [Exploiting Vulnerable Drivers](https://textslashplain.com/2026/04/29/exploiting-vulnerable-drivers/)
 - The Decoder
@@ -75,6 +107,7 @@
   - [Mistral's Le Chat spreads Iran war disinformation in 60 percent of leading prompts](https://the-decoder.com/mistrals-le-chat-spreads-iran-war-disinformation-in-60-percent-of-leading-prompts/)
 - The Verge
   - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
+  - [Elon Musk’s worst enemy in court is Elon Musk](https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman)
   - [Google Search queries hit an ‘all time high’ last quarter](https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai)
   - [Grindr — yes, Grindr — won the WHCD party circuit](https://www.theverge.com/column/920845/grindr-whcd-party-2026)
   - [Microsoft reports sinking Xbox revenue as its cloud business climbs](https://www.theverge.com/tech/920785/microsoft-xbox-revenue-q3-2026-earnings)
@@ -92,10 +125,13 @@
 - Wired
   - [Emergency First Responders Say Waymos Are Getting Worse](https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/)
   - [Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery](https://www.wired.com/story/female-looksmaxxer-alorah-ziva-suing-clavicular-for-alleged-battery/)
+  - [How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’](https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/)
   - [Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed](https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/)
   - [Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why](https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [Apt Conflicts and Replaces](https://dyrnq.com/apt-conflicts-and-replaces/)
 - 安全客
   - [安全进入“AI自主攻击”时代，瑞数信息如何用AI对抗AI](https://www.anquanke.com/post/id/315417)
   - [智能体关键年：Agent扎根业务流，AI生产力正在形成](https://www.anquanke.com/post/id/315419)
