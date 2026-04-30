@@ -2,15 +2,27 @@
 
 - 2Libra
   - [五一签到 1800 金币](https://2libra.com/post/forum-function/G6eI3Bj)
+  - [授权登录页面展示问题](https://2libra.com/post/community/EcdBZqD)
 - Ars Technica
   - [RFK Jr. appeals ruling that wiped out his vaccine advisory panel](https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/)
 - Hacker News Frontpage
+  - [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
   - [Largest Digital Human Rights Conference Suddenly Canceled](https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/)
   - [SatoshiGuesser – Roll for Bitcoin](https://github.com/Pathos0925/SatoshiGuesser)
   - [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
   - [The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
 - infosecurity-magazine.com
   - [Three Arrested for Hacking Over 610,000 Roblox Accounts](https://www.infosecurity-magazine.com/news/three-arrested-over-roblox-hacking/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-41940 exploit](https://sploitus.com/exploit?id=30A9AC7C-E560-5AB8-A736-4D5F73275685&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Elon Musk testifies that xAI trained Grok on OpenAI models](https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/)
+  - [FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder](https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/)
+  - [Google’s Gemini AI assistant is hitting the road in millions of vehicles](https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/)
+  - [Stripe introduces Link, a digital wallet that autonomous AI agents can use, too](https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/)
+  - [TikTok’s new ‘Campus Hub’ features college group chats and feeds](https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/)
+- The Decoder
+  - [Microsoft CEO Satya Nadella says AI success is "more about getting intense users and intense usage" than seat counts](https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-success-is-more-about-getting-intense-users-and-intense-usage-than-seat-counts/)
 - The Verge
   - [Cricut’s Joy 2 makes creating stickers easier for beginners, and it’s on sale](https://www.theverge.com/gadgets/921355/cricut-joy-2-mothers-day-deal-sale)
   - [Gemini is rolling out to cars with Google built-in](https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade)
@@ -18,6 +30,7 @@
   - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
   - [Meta is running get-rich-quick ads for its AI tools](https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop)
   - [Microsoft’s DLSS competitor is now available on the Xbox Ally X handheld](https://www.theverge.com/news/921112/microsoft-auto-sr-xbox-ally-x-preview)
+  - [Xbox owners can now disable Quick Resume for specific games](https://www.theverge.com/games/921504/xbox-update-quick-resume-disable)
 - VulDB Recent Entries
   - [CVE-2025-14543 | RTI Connext Professional prior 7.7.0 xml external entity reference](https://vuldb.com/vuln/360327)
   - [CVE-2026-36340 | Krayin CRM 2.1.5 Compose Email privilege escalation](https://vuldb.com/vuln/360330)
@@ -29,6 +42,9 @@
   - [CVE-2026-7518 | Open5GS up to 2.7.7 AMF SBI Endpoint sdmsubscription-notify amf_namf_callback_handle_sdm_data_change_notify changeItem.newValue denial of service (Issue 4395)](https://vuldb.com/vuln/360332)
   - [CVE-2026-7519 | Fujian Apex LiveBOS up to 2.0 Endpoint /feed/UploadImage.do filename path traversal](https://vuldb.com/vuln/360333)
 - Wired
+  - [Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed](https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/)
+  - [Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own](https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/)
+  - [OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts](https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/)
   - [Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System](https://www.wired.com/story/daniel-davis-immunology-wired-health/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
