@@ -2,9 +2,13 @@
 
 - 2Libra
   - [CLIProxyAPIPlus 删库了，社区维护的同步版 Plus 项目又没有提供 Docker 镜像，所以我自己维护了一个](https://2libra.com/post/tool-sharing/9B8JV73)
+  - [【兑换码】提前祝大家节日快乐](https://2libra.com/post/forum-function/_DsIhce)
   - [【新闻转载】Claude AI 代理 9 秒删库！Cursor+Opus 4.6 自主删除创业公司全部生产数据](https://2libra.com/post/ai-trends/I0G9Mhc)
+  - [【漏洞通知】Linux Kernel "Copy Fail" 本地权限提升漏洞(CVE-2026-31431)](https://2libra.com/post/network-security/1L0ffnk)
   - [【💰】求助一下，2 友帮忙测试一下浏览器插件](https://2libra.com/post/tech-qa/Na-C-OD)
   - [【💰】醒醒！距离劳动节假期只有 1 天了！](https://2libra.com/post/personal-life/k_ZTW8G)
+  - [人生感悟：人生就是葱姜蒜，葱明一点，姜就一点，不行就蒜了。](https://2libra.com/post/small-things/ztE5o_c)
+  - [什么时候可以内置下图片的上传呢](https://2libra.com/post/forum-function/CmUp3Zo)
   - [关于金币的红涨绿跌，现在支持配置了](https://2libra.com/post/update-logs/l08Gu-2)
   - [昨天未描述清楚的表态打赏功能是一键三连](https://2libra.com/post/forum-function/LqSOqJr)
   - [有知道为什么在线测试网的速率不一样的吗](https://2libra.com/post/tech-qa/VU5ilwB)
@@ -23,6 +27,7 @@
   - [PayPal重组：Venmo将分拆为独立业务部门](https://36kr.com/newsflashes/3788517111291136?f=rss)
   - [QFII最新重仓布局揭晓，锚定价值与成长双主线](https://36kr.com/newsflashes/3788552814714120?f=rss)
   - [“特朗普关税”首批退款将于5月11日左右发放](https://36kr.com/newsflashes/3788613758147587?f=rss)
+  - [「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发](https://36kr.com/p/3788687934249989?f=rss)
   - [「微滔生物」A轮次融资超5000万美元，LNP路线体内CAR-T已发表初步人体数据](https://36kr.com/p/3787339522432256?f=rss)
   - [一季度上市险企负债端亮点频现，资产端阶段性承压](https://36kr.com/newsflashes/3788540801424385?f=rss)
   - [三星电子第一季度净利润47.10万亿韩元](https://36kr.com/newsflashes/3788549532097541?f=rss)
@@ -33,8 +38,11 @@
   - [中信建投：油轮、散货船接力周期向上，新船价格边际回升](https://36kr.com/newsflashes/3788545210014727?f=rss)
   - [中国4月RatingDog制造业PMI 52.2](https://36kr.com/newsflashes/3788662682655746?f=rss)
   - [中金公司：继续看好光通信、芯片定制服务、存储、晶圆代工等核心投资方向](https://36kr.com/newsflashes/3788597224365060?f=rss)
+  - [云迹科技发布2025年报，智能体应用收入增长194%](https://36kr.com/newsflashes/3788697238166790?f=rss)
   - [人民币兑美元中间价报6.8628](https://36kr.com/newsflashes/3788634970594306?f=rss)
+  - [今年第二批，超长期特别国债支持设备更新资金下达](https://36kr.com/newsflashes/3788708720958722?f=rss)
   - [传雅诗兰黛考虑以每股18-19欧元收购Puig](https://36kr.com/newsflashes/3788525035756548?f=rss)
+  - [俞浩：追觅智能汽车正按640亿估值推进融资](https://36kr.com/newsflashes/3788715259960583?f=rss)
   - [别急着All-in DeepSeek V4，先看看这10位从业者的真心话](https://36kr.com/p/3788151000751364?f=rss)
   - [华泰证券：美联储在2026年降息的门槛有所提高](https://36kr.com/newsflashes/3788555395750916?f=rss)
   - [印度首家私营新闻电视台连续第十个季度录得亏损](https://36kr.com/newsflashes/3788549230140419?f=rss)
@@ -42,17 +50,24 @@
   - [国家统计局：中国4月官方制造业PMI 50.3](https://36kr.com/newsflashes/3788647421697033?f=rss)
   - [多元资产配置风起，FOF年内发行规模已近900亿元](https://36kr.com/newsflashes/3788546093538306?f=rss)
   - [寒武纪盘中一度大涨超8%，成为A股新晋“股王”](https://36kr.com/newsflashes/3788670615165955?f=rss)
+  - [寒武纪盘中涨超12%，股价刷新历史新高](https://36kr.com/newsflashes/3788715529985026?f=rss)
   - [巴西电机制造商WEG一季度净利润下滑5.7%](https://36kr.com/newsflashes/3788554146356231?f=rss)
   - [巴西零售商CVLB申请破产保护，旗下运营CASA&VIDEO和Le Biscuit](https://36kr.com/newsflashes/3788553673743368?f=rss)
+  - [市场消息：软银寻求400亿美元贷款用于投资OpenAI的计划吸引了更多银行参与](https://36kr.com/newsflashes/3788730370415618?f=rss)
   - [年内基金自购超20亿元，主要配置权益类产品](https://36kr.com/newsflashes/3788539101125888?f=rss)
   - [微软第三财季营收829亿美元，同比增长18%](https://36kr.com/newsflashes/3788494339120385?f=rss)
   - [恒指开盘跌0.4%，恒生科技指数跌0.68%](https://36kr.com/newsflashes/3788639098789128?f=rss)
   - [报道称软银计划将其人工智能公司ROZE上市](https://36kr.com/newsflashes/3788531821583616?f=rss)
   - [招行“换帅”：王良到龄退休，王小青接棒](https://36kr.com/newsflashes/3788674837732355?f=rss)
   - [推特前CEO创办AI初创公司完成融资，估值达20亿美元](https://36kr.com/newsflashes/3788514523864066?f=rss)
+  - [摩根资产管理认为美联储加息的门槛很高](https://36kr.com/newsflashes/3788696181349635?f=rss)
   - [核心指标增长提速，六大行一季度净赚逾3500亿元](https://36kr.com/newsflashes/3788530562440193?f=rss)
+  - [欧莱雅一季度增长6.7%，中国区再现重大人事变动｜独家](https://36kr.com/p/3786192457063685?f=rss)
   - [汽车供应商Tenneco准备今年IPO](https://36kr.com/newsflashes/3788515391282176?f=rss)
   - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3788679145364480?f=rss)
+  - [海南：将推进航天旅游平台组建，培育本土特色航天文旅企业](https://36kr.com/newsflashes/3788687369886721?f=rss)
+  - [海南：拟布局亚轨道太空旅游中心等前沿设施，做强文昌“航天旅游之都”](https://36kr.com/newsflashes/3788687888948485?f=rss)
+  - [特斯拉：电动卡车Semi进入量产新阶段](https://36kr.com/newsflashes/3788703209954568?f=rss)
   - [环球音乐将出售半数Spotify持股，回购股票并回馈艺人](https://36kr.com/newsflashes/3788516241169408?f=rss)
   - [福特汽车第一季度总营收433亿美元，同比增长6.4%](https://36kr.com/newsflashes/3788529836776707?f=rss)
   - [科技题材强势领涨，小市值成长股或有大机会](https://36kr.com/newsflashes/3788544301849603?f=rss)
@@ -61,12 +76,14 @@
   - [美国钢铁将投资19亿美元在阿肯色州新建直接还原铁工厂](https://36kr.com/newsflashes/3788543666904064?f=rss)
   - [美联储6月维持利率不变的概率为99%](https://36kr.com/newsflashes/3788526834834432?f=rss)
   - [美股三大指数收盘涨跌不一，英特尔涨超12%](https://36kr.com/newsflashes/3788492083518471?f=rss)
+  - [菲律宾央行：2026年4月的通胀率将保持在5.6%至6.4%之间](https://36kr.com/newsflashes/3788682407910404?f=rss)
   - [财务指标精准阻击“壳公司”，A股加速风险“出清”提质量](https://36kr.com/newsflashes/3788531313335555?f=rss)
   - [车企盈利分化加剧，谋划新增长极成共识](https://36kr.com/newsflashes/3788524139764745?f=rss)
   - [近2.4万亿元，A股公司年度现金分红创新高](https://36kr.com/newsflashes/3788528204897280?f=rss)
   - [近七成上市券商一季度营收、净利润双增长](https://36kr.com/newsflashes/3788529497037833?f=rss)
   - [通用汽车拟投14亿美元在美国和加拿大工厂生产燃油发动机](https://36kr.com/newsflashes/3788590505991432?f=rss)
   - [钉钉正式推出DingTalk A1 Pro](https://36kr.com/newsflashes/3788677998304518?f=rss)
+  - [阿迪达斯全球2026年Q1营收66亿欧元，同比增14%](https://36kr.com/newsflashes/3788690092317701?f=rss)
   - [阿里发布数字员工产品QoderWake，可承担工程师、运营、销售等岗位角色](https://36kr.com/newsflashes/3788672778788100?f=rss)
   - [高通第二财季营收105.99亿美元，同比减少3%](https://36kr.com/newsflashes/3788539822660612?f=rss)
 - daringfireball.net
@@ -77,6 +94,8 @@
   - [Reverse Engineering With AI Unearths High-Severity GitHub Bug](https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug)
 - EFF
   - [EFF Submission to UN Report on the Role of Media in the Context of Israel’s Policies Toward Palestinians](https://www.eff.org/deeplinks/2026/04/eff-submission-un-report-role-media-context-israels-policies-toward-palestinians)
+- eli.thegreenplace.net
+  - [Thoughts on WebAssembly as a stack machine](https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/)
 - Emergent Minds | paddo.dev
   - [Codex Hits 4M: Quality Is What's Left to Brag About](https://paddo.dev/blog/codex-4m-quality-defense/)
 - Hacker News Frontpage
@@ -91,6 +110,9 @@
   - [Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years](https://jivx.com/kyoto-bloom)
   - [The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness](https://deepmind.google/research/publications/231971/)
   - [View transactions sent to a Monero address](https://localmonero.co/blocks/search/47xmhbRuYpSYSrVZx2RsPBhaAQByZq3ucAT6ULxHvDAu8c853ErpLHqBdDmpVzcmWFdZFCWrfZYwp3rqs14zxXx95S7Fyv2)
+- HackerNews
+  - [çƒ­é—¨ WordPress é‡ĺŽšĺ‘ć’äťśćš—č—äź‘çœ ĺŽé—¨ĺ¤šĺš´](http://0.0.0.0:8080/post/64196)
+  - [ĺŽ˜ć–š SAP npm č˝ŻäťśĺŒ…é­ĺ…ĽäžľďźŒç”¨äşŽçŞƒĺ–ĺ‡­čŻ](http://0.0.0.0:8080/post/64197)
 - HackerNoon
   - [The Agentic SQL Architect: Engineering Databases That Reason](https://hackernoon.com/the-agentic-sql-architect-engineering-databases-that-reason?source=rss)
 - idiallo.com
@@ -99,6 +121,9 @@
   - [2026-04-22: Malicious ad leads to ClickFix-style page for macOS malware](https://www.malware-traffic-analysis.net/2026/04/22/index.html)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Thursday, April 30th, 2026 https://isc.sans.edu/podcastdetail/9912, (Thu, Apr 30th)](https://isc.sans.edu/diary/rss/32938)
+- Sec-News 安全文摘
+  - [Copy Fail — CVE-2026-31431](https://govuln.com/news/url/g80d)
+  - [Copy Fail: 732 Bytes to Root on Every Major Linux Distributions](https://govuln.com/news/url/ZNd0)
 - SecLists - Full Disclosure
   - [[IWCC 2026] CfP: 15th International Workshop on Cyber Crime - Linköping, Sweden, Aug 24-27, 2026](https://seclists.org/fulldisclosure/2026/Apr/9)
   - [[KIS-2026-07] SocialEngine <= 7.8.0 Blind Server-Side Request	Forgery Vulnerability](https://seclists.org/fulldisclosure/2026/Apr/11)
@@ -125,6 +150,7 @@
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=1CA7DFEB-4BA1-505A-8B75-CF3345E70207&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=34FF09E4-1C45-5B5D-8CA0-ED611315DE38&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=52EB96E9-BBA2-536C-A65E-0C6CC28D0D6C&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=9E6D1F04-6DE4-533F-8A2D-C8EE2ECD6BC4&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-36957 exploit](https://sploitus.com/exploit?id=D3844EF0-691D-5A32-8788-F4D28228E9EA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-36958 exploit](https://sploitus.com/exploit?id=47F13C16-649D-5FFC-8499-B7894921782F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-41940 exploit](https://sploitus.com/exploit?id=959CC099-F219-5262-8583-4876759E29BE&utm_source=rss&utm_medium=rss)
