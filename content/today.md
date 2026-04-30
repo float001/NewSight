@@ -1,10 +1,34 @@
 # 今日安全资讯（2026-05-01）
 
+- 2Libra
+  - [五一签到 1800 金币](https://2libra.com/post/forum-function/G6eI3Bj)
+- Ars Technica
+  - [RFK Jr. appeals ruling that wiped out his vaccine advisory panel](https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/)
+- Hacker News Frontpage
+  - [Largest Digital Human Rights Conference Suddenly Canceled](https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/)
+  - [SatoshiGuesser – Roll for Bitcoin](https://github.com/Pathos0925/SatoshiGuesser)
+  - [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+  - [The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
 - infosecurity-magazine.com
   - [Three Arrested for Hacking Over 610,000 Roblox Accounts](https://www.infosecurity-magazine.com/news/three-arrested-over-roblox-hacking/)
 - The Verge
+  - [Cricut’s Joy 2 makes creating stickers easier for beginners, and it’s on sale](https://www.theverge.com/gadgets/921355/cricut-joy-2-mothers-day-deal-sale)
   - [Gemini is rolling out to cars with Google built-in](https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade)
   - [Here&#8217;s how the new Microsoft and OpenAI deal breaks down](https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad)
+  - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+  - [Meta is running get-rich-quick ads for its AI tools](https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop)
   - [Microsoft’s DLSS competitor is now available on the Xbox Ally X handheld](https://www.theverge.com/news/921112/microsoft-auto-sr-xbox-ally-x-preview)
+- VulDB Recent Entries
+  - [CVE-2025-14543 | RTI Connext Professional prior 7.7.0 xml external entity reference](https://vuldb.com/vuln/360327)
+  - [CVE-2026-36340 | Krayin CRM 2.1.5 Compose Email privilege escalation](https://vuldb.com/vuln/360330)
+  - [CVE-2026-36960 | U-SPEED N300 Router 1.0.0 API Endpoint cross-site request forgery](https://vuldb.com/vuln/360331)
+  - [CVE-2026-38939 | andrewtch88 mvc-ecommerce 1.0 product_catalogue.php cross site scripting](https://vuldb.com/vuln/360325)
+  - [CVE-2026-38940 | RafyMrX TOKO-ONLINE-ROTI 1.0 detail_produk.php cross site scripting](https://vuldb.com/vuln/360326)
+  - [CVE-2026-4670 | Progress MOVEit Automation up to 2024.1.7/2025.0.8 authentication bypass](https://vuldb.com/vuln/360328)
+  - [CVE-2026-5174 | Progress MOVEit Automation up to 2024.1.7/2025.0.8/2025.1.4 input validation](https://vuldb.com/vuln/360329)
+  - [CVE-2026-7518 | Open5GS up to 2.7.7 AMF SBI Endpoint sdmsubscription-notify amf_namf_callback_handle_sdm_data_change_notify changeItem.newValue denial of service (Issue 4395)](https://vuldb.com/vuln/360332)
+  - [CVE-2026-7519 | Fujian Apex LiveBOS up to 2.0 Endpoint /feed/UploadImage.do filename path traversal](https://vuldb.com/vuln/360333)
+- Wired
+  - [Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System](https://www.wired.com/story/daniel-davis-immunology-wired-health/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
