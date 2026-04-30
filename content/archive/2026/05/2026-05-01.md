@@ -7,10 +7,13 @@
   - [Blue Origin certainly has ambitious launch targets for New Glenn](https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/)
   - [Researchers try to cut the genetic code from 20 to 19 amino acids](https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/)
   - [RFK Jr. appeals ruling that wiped out his vaccine advisory panel](https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/)
+- darkreading
+  - [Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug](https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug)
 - Hacker News Frontpage
   - [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
   - [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
   - [Largest Digital Human Rights Conference Suddenly Canceled](https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/)
+  - [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
   - [SatoshiGuesser – Roll for Bitcoin](https://github.com/Pathos0925/SatoshiGuesser)
   - [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
   - [The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
@@ -22,6 +25,8 @@
 - simonwillison.net
   - [We need RSS for sharing abundant vibe-coded apps](https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=1796DBF7-058F-5948-8098-92FB3E29BFDD&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=C3A89907-1D82-59E4-971B-552E7E141BE7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=FE7993FE-7F81-5B38-B954-61AC3883C00C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-41940 exploit](https://sploitus.com/exploit?id=30A9AC7C-E560-5AB8-A736-4D5F73275685&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -31,6 +36,7 @@
   - [FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder](https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/)
   - [Google’s Gemini AI assistant is hitting the road in millions of vehicles](https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/)
   - [Hackers are actively exploiting a bug in cPanel, used by millions of websites](https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/)
+  - [Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter](https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/)
   - [OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico](https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/)
   - [Rivian downsizes DOE loan to $4.5B, while boosting capacity of Georgia factory](https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-while-boosting-capacity-of-georgia-factory/)
   - [Stripe introduces Link, a digital wallet that autonomous AI agents can use, too](https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/)
@@ -39,6 +45,8 @@
   - [Microsoft CEO Satya Nadella says AI success is "more about getting intense users and intense usage" than seat counts](https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-success-is-more-about-getting-intense-users-and-intense-usage-than-seat-counts/)
 - The Verge
   - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
+  - [Apple&#8217;s iPhone revenue jumps to $57 billion despite chip shortages](https://www.theverge.com/tech/921527/apple-iphone-revenue-q2-2026-earnings)
+  - [Congress keeps kicking surveillance reform down the road](https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension)
   - [Cricut’s Joy 2 makes creating stickers easier for beginners, and it’s on sale](https://www.theverge.com/gadgets/921355/cricut-joy-2-mothers-day-deal-sale)
   - [Elon Musk confirms xAI used OpenAI’s models to train Grok](https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation)
   - [Gemini is rolling out to cars with Google built-in](https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade)
