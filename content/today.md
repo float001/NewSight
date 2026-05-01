@@ -7,6 +7,7 @@
   - [China Pressure Canceled World’s Largest Digital Human Rights Conference](https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/)
 - Ars Technica
   - [Scorpions go terminator mode and reinforce their weapons with metal](https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/)
+  - [Study: AI models that consider user's feeling are more likely to make errors](https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/)
   - [Ubuntu infrastructure has been down for more than a day](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/)
 - daringfireball.net
   - [Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet](https://www.bbc.com/news/articles/c5y7yvgy0w6o)
@@ -25,6 +26,8 @@
   - [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
 - HackerNoon
   - [Why GPT’s Mathematical Foundations Cannot Guarantee Reliable Outputs](https://hackernoon.com/why-gpts-mathematical-foundations-cannot-guarantee-reliable-outputs?source=rss)
+- MIT Technology Review
+  - [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Code Injection in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=2304888E-D711-5136-9188-D8C3C876EA64&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=1B91CFD3-6DA7-5F7F-85A1-B9F4D8346CDA&utm_source=rss&utm_medium=rss)
@@ -34,9 +37,12 @@
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=01C65730-15C6-5AC3-AE03-12BEC73FA02F&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=FA77C8E9-EFCD-5D6A-9A7F-7AC31070980F&utm_source=rss&utm_medium=rss)
   - [OWASP-Pentest-Suite exploit](https://sploitus.com/exploit?id=87801FE3-A28E-54D7-9AF2-D36063AC3C4A&utm_source=rss&utm_medium=rss)
+  - [suricata-detections exploit](https://sploitus.com/exploit?id=CFAE4595-1820-519E-8268-CF021790D959&utm_source=rss&utm_medium=rss)
   - [Xseta-WP-Exploit exploit](https://sploitus.com/exploit?id=97197B36-D0BF-5302-8728-757AF15342F4&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Coatue has a plan to buy up land for data centers, possibly for Anthropic](https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/)
+  - [Meta buys robotics startup to bolster its humanoid AI ambitions](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)
+  - [Musely secures $360M from General Catalyst without giving up equity](https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/)
   - [Pentagon inks deals with Nvidia, Microsoft and AWS to deploy AI on classified networks](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/)
 - The Decoder
   - [Eight tech giants sign Pentagon deals to build an "AI-first fighting force" across classified networks](https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/)
@@ -130,5 +136,6 @@
   - [OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users](https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/)
   - [The Chinese Government Just Got the World’s Largest Digital Rights Conference Canceled](https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/)
   - [The Next Alzheimer’s Breakthrough Will Take More Than Just Science](https://www.wired.com/story/john-hardy-dementia-wired-health/)
+  - [Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars](https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
