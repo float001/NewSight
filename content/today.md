@@ -63,6 +63,7 @@
   - [Researchers try to cut the genetic code from 20 to 19 amino acids](https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/)
   - [RFK Jr. appeals ruling that wiped out his vaccine advisory panel](https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/)
   - [Russia cloaks launch schedule after spaceport falls in Ukraine's sights](https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/)
+  - [Women sue the men who used their Instagram feed to create AI porn influencers](https://arstechnica.com/tech-policy/2026/05/women-sue-men-who-used-their-instagram-feed-to-create-ai-porn-influencers/)
 - daringfireball.net
   - [Apple Q2 2026 Results](https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/)
   - [Scientology ‘Speed Running’ Trend](https://www.theguardian.com/us-news/2026/apr/30/hollywood-church-of-scientology-speed-runs?CMP=bsky_gu)
@@ -70,6 +71,8 @@
   - [★ On the Future of Apple’s Vision Platform](https://daringfireball.net/2026/04/on_the_future_of_apples_vision_platform)
 - darkreading
   - [Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug](https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug)
+- Data Breach
+  - [Carding service Jerry’s Store leak exposes 345,000 stolen payment cards](https://securityaffairs.com/191536/cyber-crime/carding-service-jerrys-store-leak-exposes-345000-stolen-payment-cards.html)
 - defend.network
   - [Daily Threat Briefing – May 1, 2026](https://defend.network/briefings/supply-chain-ai-state-sponsored-critical-2026-05-01.html)
 - Didier Stevens
@@ -105,6 +108,8 @@
   - [Exclusive eBook: Inside the stealthy startup that pitched brainless human clones](https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/)
   - [Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining](https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/)
   - [The Download: a new Christian phone network, and debugging LLMs](https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/)
+- PwnDefend
+  - [cPanel Vulnerability Exploited ITW](https://www.pwndefend.com/2026/05/01/cpanel-vulnerability-exploited-itw/)
 - Sec-News 安全文摘
   - [CVE-2026-31431 真的只值 7.8 么](https://govuln.com/news/url/ApNN)
 - SentinelOne
@@ -130,6 +135,7 @@
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=E476ED22-8DC0-58CC-A1BC-415DA7A57BBE&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=FE7993FE-7F81-5B38-B954-61AC3883C00C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-41940 exploit](https://sploitus.com/exploit?id=30A9AC7C-E560-5AB8-A736-4D5F73275685&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-42167 exploit](https://sploitus.com/exploit?id=3522B931-4FE8-5250-93B7-465D616321B4&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Check for Unusual or Exceptional Conditions in Mozilla Firefox exploit](https://sploitus.com/exploit?id=16989E90-2C5A-53B8-A637-EF6031B0596E&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Handling of Insufficient Permissions or Privileges  in Google Android exploit](https://sploitus.com/exploit?id=C3E9251E-4FF9-59FD-AE92-266794E6812A&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=45A263F9-3CDF-57F8-9637-E0D5F28635FF&utm_source=rss&utm_medium=rss)
@@ -167,18 +173,22 @@
   - [Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says](https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/)
 - The Decoder
   - [Anthropic launches Claude Security to give defenders the same AI edge attackers already have](https://the-decoder.com/anthropic-launches-claude-security-to-give-defenders-the-same-ai-edge-attackers-already-have/)
+  - [ChatGPT's goblin obsession may be hilarious, but it points to a deeper problem in AI training](https://the-decoder.com/chatgpts-goblin-obsession-may-be-hilarious-but-it-points-to-a-deeper-problem-in-ai-training/)
   - [Google Deepmind's "AI co-clinician" beats GPT-5.4 in blind doctor tests but still trails experienced physicians](https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/)
   - [GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds](https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/)
   - [Microsoft CEO Satya Nadella says AI success is "more about getting intense users and intense usage" than seat counts](https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-success-is-more-about-getting-intense-users-and-intense-usage-than-seat-counts/)
+  - [Microsoft puts an AI legal agent inside Word for contract review](https://the-decoder.com/microsoft-puts-an-ai-legal-agent-inside-word-for-contract-review/)
   - [Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model](https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/)
 - The Verge
   - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
   - [Apple&#8217;s iPhone revenue jumps to $57 billion despite chip shortages](https://www.theverge.com/tech/921527/apple-iphone-revenue-q2-2026-earnings)
+  - [Christian content creators are outsourcing AI slop to gig workers on Fiverr](https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop)
   - [Congress keeps kicking surveillance reform down the road](https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension)
   - [Cricut’s Joy 2 makes creating stickers easier for beginners, and it’s on sale](https://www.theverge.com/gadgets/921355/cricut-joy-2-mothers-day-deal-sale)
   - [Dyson finally made a better robot, but a worse vacuum](https://www.theverge.com/tech/921136/dyson-spot-scrub-ai-wet-dry-robot-vacuum-cleaner-review)
   - [Dyson put someone else’s motor in its robot vacuum](https://www.theverge.com/tech/921432/dyson-robot-vacuum-motor-picea)
   - [Elon Musk confirms xAI used OpenAI’s models to train Grok](https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation)
+  - [Elon Musk had a bad week in court](https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast)
   - [Gemini is rolling out to cars with Google built-in](https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade)
   - [Here&#8217;s how the new Microsoft and OpenAI deal breaks down](https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad)
   - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
@@ -186,11 +196,13 @@
   - [Microsoft wants lawyers to trust its new AI agent in Word documents](https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai)
   - [Microsoft’s DLSS competitor is now available on the Xbox Ally X handheld](https://www.theverge.com/news/921112/microsoft-auto-sr-xbox-ally-x-preview)
   - [Microsoft’s Xbox mode is now available for all Windows 11 PCs](https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11)
+  - [My $5K smart bed needs to shut the hell up](https://www.theverge.com/column/921654/optimizer-eight-sleep-ai-summaries-health-wellness)
   - [Oura adds birth control support to its period tracker](https://www.theverge.com/tech/921955/oura-hormonal-birth-control-tracking-update)
   - [Roblox’s daily users continue to drop as age-checks slow growth](https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau)
   - [The logic of the racist Supreme Court isn’t adding up](https://www.theverge.com/policy/921597/callais-louisiana-voting-rights-act)
   - [With Saros, Housemarque makes a case for doing next-gen games differently](https://www.theverge.com/games/921391/housemarque-interview-saros-ps5)
   - [Xbox owners can now disable Quick Resume for specific games](https://www.theverge.com/games/921504/xbox-update-quick-resume-disable)
+  - [Your guide to sci-fi streaming season](https://www.theverge.com/tech/921610/sci-fi-streaming-shows-2026)
 - VulDB Recent Entries
   - [CVE-2022-50992 | Weaver Network e-cology up to 10.51 XmlRpcServlet Interface path traversal](https://vuldb.com/vuln/360339)
   - [CVE-2022-50993 | Weaver E-office up to 10.0_20221200 OfficeServer.php unrestricted upload](https://vuldb.com/vuln/360335)
@@ -443,4 +455,6 @@
 - 爱范儿
   - [早报｜苹果：下季度内存成本压力将显著加大/宇树最便宜人形机器发布/5月1日高速车流或创历史纪录](https://www.ifanr.com/1664760?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [他用AI办了个音乐节，主题：别读博](https://www.qbitai.com/2026/05/412597.html)
+  - [华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑](https://www.qbitai.com/2026/05/412696.html)
   - [太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架](https://www.qbitai.com/2026/05/412447.html)
