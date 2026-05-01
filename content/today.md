@@ -8,23 +8,33 @@
 - Ars Technica
   - [Scorpions go terminator mode and reinforce their weapons with metal](https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/)
   - [Ubuntu infrastructure has been down for more than a day](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/)
+- daringfireball.net
+  - [Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet](https://www.bbc.com/news/articles/c5y7yvgy0w6o)
+  - [Tim Cook’s Clever Solution to the Tariff Refund Puzzle](https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/)
+- darkreading
+  - [76% of All Crypto Stolen in 2026 Is Now in North Korea](https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea)
 - Hacker News Frontpage
   - [A statement about why RightsCon 2026 will not take place in Zambia](https://www.rightscon.org/rc26-statement/)
   - [City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/)
+  - [Credit Cards Are Vulnerable to Brute Force Kind Attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
   - [Flock cameras keep telling police a man who doesn't have a warrant has a warrant](https://www.youtube.com/watch?v=nHwxV0Sd9V8)
   - [Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/)
   - [Show HN: My Private GitHub on Postgres](https://github.com/calebwin/gitgres)
+  - [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
   - [Uber Torches 2026 AI Budget on Claude Code in Four Months](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
   - [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
 - HackerNoon
   - [Why GPT’s Mathematical Foundations Cannot Guarantee Reliable Outputs](https://hackernoon.com/why-gpts-mathematical-foundations-cannot-guarantee-reliable-outputs?source=rss)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Code Injection in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=2304888E-D711-5136-9188-D8C3C876EA64&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=1B91CFD3-6DA7-5F7F-85A1-B9F4D8346CDA&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=6AD5A914-B820-5648-AF5E-8379DE029A30&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=B930CC5E-9CA7-5ECF-A183-1F669EF3BA2F&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=CB3E6F6E-9DB5-5488-A998-2ACCA2FEEB27&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=01C65730-15C6-5AC3-AE03-12BEC73FA02F&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=FA77C8E9-EFCD-5D6A-9A7F-7AC31070980F&utm_source=rss&utm_medium=rss)
   - [OWASP-Pentest-Suite exploit](https://sploitus.com/exploit?id=87801FE3-A28E-54D7-9AF2-D36063AC3C4A&utm_source=rss&utm_medium=rss)
+  - [Xseta-WP-Exploit exploit](https://sploitus.com/exploit?id=97197B36-D0BF-5302-8728-757AF15342F4&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Coatue has a plan to buy up land for data centers, possibly for Anthropic](https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/)
   - [Pentagon inks deals with Nvidia, Microsoft and AWS to deploy AI on classified networks](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/)
@@ -70,6 +80,9 @@
   - [CVE-2026-37541 | Open Vehicle Monitoring System 3.3.005 GVRET canformat_gvret.cpp length buffer overflow](https://vuldb.com/vuln/360767)
   - [CVE-2026-37552 | MixPHP Framework up to 2.2.17 Server.php unserialize deserialization](https://vuldb.com/vuln/360731)
   - [CVE-2026-37554 | Vanetza V2X up to 26.02 openssl_wrapper.cpp Router::indicate denial of service](https://vuldb.com/vuln/360748)
+  - [CVE-2026-40682 | Apache OpenNLP up to 2.5.8/3.0.0-M2 Dictionary Parser DictionaryEntryPersistor xml external entity reference](https://vuldb.com/vuln/360785)
+  - [CVE-2026-42027 | Apache OpenNLP up to 2.5.8/3.0.0-M2 Model Manifest ExtensionLoader privilege escalation](https://vuldb.com/vuln/360786)
+  - [CVE-2026-42440 | Apache OpenNLP up to 2.5.8/3.0.0-M2 AbstractModelReader denial of service](https://vuldb.com/vuln/360787)
   - [CVE-2026-42467 | collin80 Open-SAE-J1939 up to 2025-11-30 CAN Frame SAE_J1939_Read_Binary_Data_Transfer_DM16 denial of service](https://vuldb.com/vuln/360759)
   - [CVE-2026-42468 | Open Vehicle Monitoring System 3.3.005 PCAP canformat_pcap.cpp phdr.len buffer overflow](https://vuldb.com/vuln/360768)
   - [CVE-2026-42469 | Open Vehicle Monitoring System 3.3.005 CANswitch canformat_canswitch.cpp buffer overflow](https://vuldb.com/vuln/360769)
@@ -111,6 +124,8 @@
   - [CVE-2026-7645 | ruvnet sublinear-time-solver 1.5.0 MCP Interface server.js export_state path traversal (Issue 19)](https://vuldb.com/vuln/360757)
   - [CVE-2026-7653 | r-huijts mcp-server-rijksmuseum up to 1.0.4 MCP Interface src/index.ts open_image_in_browser imageUrl os command injection](https://vuldb.com/vuln/360778)
 - Wired
+  - [A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat](https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/)
+  - [Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers](https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/)
   - [The Chinese Government Just Got the World’s Largest Digital Rights Conference Canceled](https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/)
   - [The Next Alzheimer’s Breakthrough Will Take More Than Just Science](https://www.wired.com/story/john-hardy-dementia-wired-health/)
 - 代码审计星球
