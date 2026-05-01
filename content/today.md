@@ -43,6 +43,7 @@
 - The Verge
   - [All the evidence revealed so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
   - [Amazon&#8217;s built-in AI price history expands to show the entire last year](https://www.theverge.com/tech/922302/amazon-price-tracker-year)
+  - [Apple raises the Mac Mini&#8217;s starting price](https://www.theverge.com/tech/922572/apple-mac-mini-256-model)
   - [Dreame — the vacuum company — just ‘launched’ its own phones](https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular)
   - [Dreame’s rocket-powered car can do 0–60 in 0.9 seconds because you can just say things now](https://www.theverge.com/transportation/921204/dreame-ev-car-rocket-boosted-zero-sixty-reality)
   - [Players from the NBA, NFL, and MLB call for a ban on betting &#8216;unders&#8217;](https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets)
@@ -126,6 +127,7 @@
 - Wired
   - [A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat](https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/)
   - [Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers](https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/)
+  - [OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users](https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/)
   - [The Chinese Government Just Got the World’s Largest Digital Rights Conference Canceled](https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/)
   - [The Next Alzheimer’s Breakthrough Will Take More Than Just Science](https://www.wired.com/story/john-hardy-dementia-wired-health/)
 - 代码审计星球
