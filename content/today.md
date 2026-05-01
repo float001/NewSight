@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-05-01）
 
 - 2Libra
+  - [#历史上的今天# 1995 年 5 月 1 日，中国人第一次开始“双休”，目前依旧有很多人事实上没有双休。](https://2libra.com/post/workplace-stories/ViHpGQ5)
   - [[反馈]长按打赏贴表情对于移动端，左手刷站的人很不友好！](https://2libra.com/post/community/UESN3UY)
   - [【假期生活】五一假期的正确打开方式](https://2libra.com/post/game-discussion/R1rquTR)
   - [五一 pt 站发药，PTS（拾刻）*3 学校*N nice 老师*1 pttime*N](https://2libra.com/post/PT/gU69xSa)
@@ -77,6 +78,7 @@
   - [Boring Agents Ship: The Triage Lane Nobody Is Writing About](https://paddo.dev/blog/boring-agents-ship/)
 - Hacker News Frontpage
   - [$500M for Virtual Biology Initiative, Funded by Zuckerbergs](https://biohub.org/news/virtual-biology-initiative/)
+  - [Apple accidentally left Claude.md files Apple Support app](https://xcancel.com/aaronp613/status/2049986504617820551)
   - [Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months](https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/)
   - [ClawIRC – IRC Chat for Agents](https://clawirc.com/)
   - [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
@@ -91,9 +93,12 @@
   - [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)
   - [The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
   - [U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets](https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd)
+  - [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/)
 - infosecurity-magazine.com
+  - [Anthropic Rolls Out Claude Security for AI Vulnerability Scanning](https://www.infosecurity-magazine.com/news/anthropic-claude-security-for-ai/)
   - [Nine-Year-Old Zero-Day Flaw in Linux Kernel Discovered by AI-Equipped Security Researcher](https://www.infosecurity-magazine.com/news/zero-day-2017-linux-kernel/)
   - [Three Arrested for Hacking Over 610,000 Roblox Accounts](https://www.infosecurity-magazine.com/news/three-arrested-over-roblox-hacking/)
+  - [Two American Cybersecurity Workers Jailed for BlackCat Ransomware Attacks](https://www.infosecurity-magazine.com/news/cybersecurity-workers-jailed/)
 - Insinuator.net
   - [When paradigms are shifting: InfoSec in the age of AI](https://insinuator.net/2026/04/when-paradigms-are-shifting-infosec-in-the-age-of-ai/)
 - MIT Technology Review
@@ -101,11 +106,14 @@
   - [Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining](https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/)
 - Sec-News 安全文摘
   - [CVE-2026-31431 真的只值 7.8 么](https://govuln.com/news/url/ApNN)
+- shkspr.mobi
+  - [NHS Goes To War Against Open Source](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/)
 - simonwillison.net
   - [Codex CLI 0.128.0 adds /goal](https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything)
   - [Quoting Andrew Kelley](https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything)
   - [We need RSS for sharing abundant vibe-coded apps](https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2025-48757 exploit](https://sploitus.com/exploit?id=53F0FFE5-0D5B-58F3-B59B-BEF88CEB7A42&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-3143 exploit](https://sploitus.com/exploit?id=5E1C664A-76FD-543A-97AD-FF1A9B4E02F5&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=1796DBF7-058F-5948-8098-92FB3E29BFDD&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=30FDC2E0-770B-5910-9F7A-A4280EBAB5F2&utm_source=rss&utm_medium=rss)
@@ -115,6 +123,7 @@
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=BBD045DE-431D-5EC8-B3D2-66404103E17B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=C3A89907-1D82-59E4-971B-552E7E141BE7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=C8F8D9CA-A2A7-50CB-8C55-917943AC644F&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=D98D126C-CD0E-5C31-8484-9527EE974E28&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=E476ED22-8DC0-58CC-A1BC-415DA7A57BBE&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=FE7993FE-7F81-5B38-B954-61AC3883C00C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-41940 exploit](https://sploitus.com/exploit?id=30A9AC7C-E560-5AB8-A736-4D5F73275685&utm_source=rss&utm_medium=rss)
@@ -122,6 +131,7 @@
   - [Exploit for Improper Handling of Insufficient Permissions or Privileges  in Google Android exploit](https://sploitus.com/exploit?id=C3E9251E-4FF9-59FD-AE92-266794E6812A&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=4DB91BEB-9C6E-5416-A96F-6501BAD46564&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=55501F20-AF66-5346-9001-9E2EB09B4D0B&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=7D0D14A7-6FF6-5BF2-BA38-F3B838E89B33&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=A102F74B-FD05-5EE8-B2C3-BD37211B5380&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=BC436FB3-74DD-51CA-B4BA-C6E6D76DDA61&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=E414FD2C-33F9-560F-A367-198FB076252F&utm_source=rss&utm_medium=rss)
@@ -145,6 +155,7 @@
   - [Hackers are actively exploiting a bug in cPanel, used by millions of websites](https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/)
   - [Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter](https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/)
   - [OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico](https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/)
+  - [People are finally using Reddit’s search](https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/)
   - [Rivian downsizes DOE loan to $4.5B, while boosting capacity of Georgia factory](https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-while-boosting-capacity-of-georgia-factory/)
   - [Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks](https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/)
   - [Stripe introduces Link, a digital wallet that autonomous AI agents can use, too](https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/)
@@ -167,6 +178,7 @@
   - [Here&#8217;s how the new Microsoft and OpenAI deal breaks down](https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad)
   - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
   - [Meta is running get-rich-quick ads for its AI tools](https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop)
+  - [Microsoft wants lawyers to trust its new AI agent in Word documents](https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai)
   - [Microsoft’s DLSS competitor is now available on the Xbox Ally X handheld](https://www.theverge.com/news/921112/microsoft-auto-sr-xbox-ally-x-preview)
   - [Microsoft’s Xbox mode is now available for all Windows 11 PCs](https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11)
   - [Roblox’s daily users continue to drop as age-checks slow growth](https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau)
@@ -381,8 +393,10 @@
   - [CVE-2026-7598 | libssh2 up to 1.11.1 src/userauth.c userauth_password username_len/password_len integer overflow (ID 1858)](https://vuldb.com/vuln/360555)
   - [CVE-2026-7599 | Dayoooun hwpx-mcp 0.2.0 MCP Interface mcp-server/src/index.ts save_document/export_to_text/export_to_html output_path path traversal](https://vuldb.com/vuln/360556)
   - [CVE-2026-7600 | ArtMin96 yii2-mcp-server 1.0.2 MCP Interface src/index.ts yii_command_help/yii_execute_command os command injection](https://vuldb.com/vuln/360557)
+  - [CVE-2026-7601 | Open5GS up to 2.7.6 AMF src/amf/gmm-handler.c reg_type denial of service (Issue 4321)](https://vuldb.com/vuln/360558)
 - Wired
   - [10% Dell Coupon Codes | May 2026](https://www.wired.com/story/dell-coupon-code/)
+  - [17 Best Graduation Gifts That Aren't Totally Cringe (2026)](https://www.wired.com/gallery/best-graduation-gifts/)
   - [30% Off Samsung Promo Code | May 2026](https://www.wired.com/story/samsung-promo-codes/)
   - [50% Off DoorDash Promo Code | May 2026](https://www.wired.com/story/doordash-promo-code/)
   - [50% Off Home Depot Promo Codes | May 2026](https://www.wired.com/story/home-depot-promo-code/)
