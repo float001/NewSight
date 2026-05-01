@@ -104,8 +104,11 @@
 - MIT Technology Review
   - [Exclusive eBook: Inside the stealthy startup that pitched brainless human clones](https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/)
   - [Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining](https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/)
+  - [The Download: a new Christian phone network, and debugging LLMs](https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/)
 - Sec-News 安全文摘
   - [CVE-2026-31431 真的只值 7.8 么](https://govuln.com/news/url/ApNN)
+- SentinelOne
+  - [The Good, the Bad and the Ugly in Cybersecurity – Week 18](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-18-7/)
 - shkspr.mobi
   - [NHS Goes To War Against Open Source](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/)
 - simonwillison.net
@@ -129,6 +132,7 @@
   - [Exploit for CVE-2026-41940 exploit](https://sploitus.com/exploit?id=30A9AC7C-E560-5AB8-A736-4D5F73275685&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Check for Unusual or Exceptional Conditions in Mozilla Firefox exploit](https://sploitus.com/exploit?id=16989E90-2C5A-53B8-A637-EF6031B0596E&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Handling of Insufficient Permissions or Privileges  in Google Android exploit](https://sploitus.com/exploit?id=C3E9251E-4FF9-59FD-AE92-266794E6812A&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=45A263F9-3CDF-57F8-9637-E0D5F28635FF&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=4DB91BEB-9C6E-5416-A96F-6501BAD46564&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=55501F20-AF66-5346-9001-9E2EB09B4D0B&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=7D0D14A7-6FF6-5BF2-BA38-F3B838E89B33&utm_source=rss&utm_medium=rss)
@@ -162,6 +166,7 @@
   - [TikTok’s new ‘Campus Hub’ features college group chats and feeds](https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/)
   - [Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says](https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/)
 - The Decoder
+  - [Anthropic launches Claude Security to give defenders the same AI edge attackers already have](https://the-decoder.com/anthropic-launches-claude-security-to-give-defenders-the-same-ai-edge-attackers-already-have/)
   - [Google Deepmind's "AI co-clinician" beats GPT-5.4 in blind doctor tests but still trails experienced physicians](https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/)
   - [GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds](https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/)
   - [Microsoft CEO Satya Nadella says AI success is "more about getting intense users and intense usage" than seat counts](https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-success-is-more-about-getting-intense-users-and-intense-usage-than-seat-counts/)
@@ -181,6 +186,7 @@
   - [Microsoft wants lawyers to trust its new AI agent in Word documents](https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai)
   - [Microsoft’s DLSS competitor is now available on the Xbox Ally X handheld](https://www.theverge.com/news/921112/microsoft-auto-sr-xbox-ally-x-preview)
   - [Microsoft’s Xbox mode is now available for all Windows 11 PCs](https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11)
+  - [Oura adds birth control support to its period tracker](https://www.theverge.com/tech/921955/oura-hormonal-birth-control-tracking-update)
   - [Roblox’s daily users continue to drop as age-checks slow growth](https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau)
   - [The logic of the racist Supreme Court isn’t adding up](https://www.theverge.com/policy/921597/callais-louisiana-voting-rights-act)
   - [With Saros, Housemarque makes a case for doing next-gen games differently](https://www.theverge.com/games/921391/housemarque-interview-saros-ps5)
@@ -300,6 +306,7 @@
   - [CVE-2026-2311 | IBM i up to 7.5.0 Web Administration GUI access control](https://vuldb.com/vuln/360404)
   - [CVE-2026-28532 | FRRouting FRR up to 10.5.3 Segment Routing TLV Parser TLV_SIZE integer overflow](https://vuldb.com/vuln/360381)
   - [CVE-2026-28909 | Apple Container up to 0.12.2 Hostname Validator missing encryption (GHSA-m5rp-xcpf-r8m7)](https://vuldb.com/vuln/360415)
+  - [CVE-2026-3140 | davidvongries Ultimate Dashboard Plugin up to 3.8.14 on WordPress handle_module_actions cross-site request forgery](https://vuldb.com/vuln/360571)
   - [CVE-2026-32148 | hexpm hex up to 2.4.1 RemoteConverger integrity check (GHSA-hmv9-4mfr-m92v)](https://vuldb.com/vuln/360371)
   - [CVE-2026-3340 | IBM Langflow Desktop up to 1.8.4 server-side request forgery](https://vuldb.com/vuln/360407)
   - [CVE-2026-33449 | Absolute Secure Access up to 14.49 buffer overflow](https://vuldb.com/vuln/360382)
@@ -324,6 +331,7 @@
   - [CVE-2026-36765 | chillzhuang SpringBlade 4.8.0 /designer/loadReport xml external entity reference](https://vuldb.com/vuln/360345)
   - [CVE-2026-36767 | shopizer 3.2.5 POST /content/images/add path traversal (ID 1091)](https://vuldb.com/vuln/360348)
   - [CVE-2026-36960 | U-SPEED N300 Router 1.0.0 API Endpoint cross-site request forgery](https://vuldb.com/vuln/360331)
+  - [CVE-2026-3772 | benjaminprojas WP Editor Plugin up to 1.2.9.2 on WordPress add_plugins_page/add_themes_page cross-site request forgery](https://vuldb.com/vuln/360570)
   - [CVE-2026-3832 | GnuTLS Certificate Status Protocol early validation](https://vuldb.com/vuln/360338)
   - [CVE-2026-3833 | GnuTLS Certificate dNSName/rfc822Name case sensitivity](https://vuldb.com/vuln/360336)
   - [CVE-2026-38939 | andrewtch88 mvc-ecommerce 1.0 product_catalogue.php cross site scripting](https://vuldb.com/vuln/360325)
@@ -394,6 +402,13 @@
   - [CVE-2026-7599 | Dayoooun hwpx-mcp 0.2.0 MCP Interface mcp-server/src/index.ts save_document/export_to_text/export_to_html output_path path traversal](https://vuldb.com/vuln/360556)
   - [CVE-2026-7600 | ArtMin96 yii2-mcp-server 1.0.2 MCP Interface src/index.ts yii_command_help/yii_execute_command os command injection](https://vuldb.com/vuln/360557)
   - [CVE-2026-7601 | Open5GS up to 2.7.6 AMF src/amf/gmm-handler.c reg_type denial of service (Issue 4321)](https://vuldb.com/vuln/360558)
+  - [CVE-2026-7606 | TRENDnet TEW-821DAP 1.12B01 Firmware Update find_hwid/new_gui_update_firmware dest data authenticity](https://vuldb.com/vuln/360563)
+  - [CVE-2026-7607 | TRENDnet TEW-821DAP 1.12B01 Firmware Udpate auto_update_firmware str buffer overflow](https://vuldb.com/vuln/360564)
+  - [CVE-2026-7608 | TRENDnet TEW-821DAP up to 1.12B01 tools_diagnostic os command injection](https://vuldb.com/vuln/360565)
+  - [CVE-2026-7609 | TRENDnet TEW-821DAP up to 1.12B01 Firmware Udpate /tmp/diagnostic tools_diagnostic os command injection](https://vuldb.com/vuln/360566)
+  - [CVE-2026-7610 | TRENDnet TEW-821DAP 1.12B01 Firmware Update /www/cgi/ssi cleartext transmission](https://vuldb.com/vuln/360567)
+  - [CVE-2026-7611 | TRENDnet TEW-821DAP up to 1.12B01 Firmware Update cameo_dev.sh platform_do_upgrade_cameo_dev data authenticity](https://vuldb.com/vuln/360568)
+  - [CVE-2026-7612 | itsourcecode Courier Management System 1.0 /edit_user.php ID sql injection](https://vuldb.com/vuln/360569)
 - Wired
   - [10% Dell Coupon Codes | May 2026](https://www.wired.com/story/dell-coupon-code/)
   - [17 Best Graduation Gifts That Aren't Totally Cringe (2026)](https://www.wired.com/gallery/best-graduation-gifts/)
