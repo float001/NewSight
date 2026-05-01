@@ -43,8 +43,10 @@
   - [第四批全国中成药联盟采购开标，覆盖89种临床常用药品](https://36kr.com/newsflashes/3790112731438340?f=rss)
   - [美股三大指数集体收涨，高通涨超15%](https://36kr.com/newsflashes/3790017015454721?f=rss)
   - [美股总市值首次突破75万亿美元 创历史新高](https://36kr.com/newsflashes/3790477862755586?f=rss)
+  - [美银：全球超大规模云计算企业2027年AI资本开支或达1万亿美元](https://36kr.com/newsflashes/3790542827576582?f=rss)
   - [腾讯已入股游戏科学，持股24%](https://36kr.com/newsflashes/3790203580603655?f=rss)
   - [苹果CEO库克：预计第三季度的内存成本将显著高于第二季度](https://36kr.com/newsflashes/3790023172185097?f=rss)
+  - [苹果现金战略重大转向](https://36kr.com/newsflashes/3790561458183424?f=rss)
   - [苹果称印度反垄断机构越权，双方争端愈演愈烈](https://36kr.com/newsflashes/3790383428082946?f=rss)
   - [苹果第二财季营收1111.8亿美元，同比增长17%](https://36kr.com/newsflashes/3790016302095363?f=rss)
   - [苹果美股盘前涨近3%](https://36kr.com/newsflashes/3790479873203461?f=rss)
@@ -67,6 +69,8 @@
   - [Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug](https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug)
 - defend.network
   - [Daily Threat Briefing – May 1, 2026](https://defend.network/briefings/supply-chain-ai-state-sponsored-critical-2026-05-01.html)
+- Didier Stevens
+  - [Overview of Content Published in April](https://blog.didierstevens.com/2026/05/01/overview-of-content-published-in-april-10/)
 - Emergent Minds | paddo.dev
   - [Boring Agents Ship: The Triage Lane Nobody Is Writing About](https://paddo.dev/blog/boring-agents-ship/)
 - Hacker News Frontpage
@@ -80,6 +84,7 @@
   - [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
   - [SatoshiGuesser – Roll for Bitcoin](https://github.com/Pathos0925/SatoshiGuesser)
   - [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+  - [Show HN: Perfect Bluetooth MIDI for Windows](https://news.ycombinator.com/item?id=47972888)
   - [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx)
   - [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)
   - [The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
@@ -90,6 +95,7 @@
   - [When paradigms are shifting: InfoSec in the age of AI](https://insinuator.net/2026/04/when-paradigms-are-shifting-infosec-in-the-age-of-ai/)
 - MIT Technology Review
   - [Exclusive eBook: Inside the stealthy startup that pitched brainless human clones](https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/)
+  - [Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining](https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/)
 - Sec-News 安全文摘
   - [CVE-2026-31431 真的只值 7.8 么](https://govuln.com/news/url/ApNN)
 - simonwillison.net
@@ -110,8 +116,10 @@
   - [Exploit for Improper Handling of Insufficient Permissions or Privileges  in Google Android exploit](https://sploitus.com/exploit?id=C3E9251E-4FF9-59FD-AE92-266794E6812A&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=4DB91BEB-9C6E-5416-A96F-6501BAD46564&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=55501F20-AF66-5346-9001-9E2EB09B4D0B&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=A102F74B-FD05-5EE8-B2C3-BD37211B5380&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=BC436FB3-74DD-51CA-B4BA-C6E6D76DDA61&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=E414FD2C-33F9-560F-A367-198FB076252F&utm_source=rss&utm_medium=rss)
+  - [exploit_cve_2026_31431_py36 exploit](https://sploitus.com/exploit?id=3722D1E6-AC8B-5EEB-AD0F-DE15B5BDD947&utm_source=rss&utm_medium=rss)
   - [hacktrix exploit](https://sploitus.com/exploit?id=D8012EBD-2CD6-5526-9E05-5019EB7FE5C0&utm_source=rss&utm_medium=rss)
   - [homelab-security exploit](https://sploitus.com/exploit?id=09B89183-FE26-5690-A12C-7BEC34B1AAE4&utm_source=rss&utm_medium=rss)
   - [PDFGenerator exploit](https://sploitus.com/exploit?id=B3F30AAD-2D8A-593F-8A2D-7E7D6519073F&utm_source=rss&utm_medium=rss)
@@ -136,6 +144,7 @@
   - [TikTok’s new ‘Campus Hub’ features college group chats and feeds](https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/)
   - [Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says](https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/)
 - The Decoder
+  - [Google Deepmind's "AI co-clinician" beats GPT-5.4 in blind doctor tests but still trails experienced physicians](https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/)
   - [Microsoft CEO Satya Nadella says AI success is "more about getting intense users and intense usage" than seat counts](https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-success-is-more-about-getting-intense-users-and-intense-usage-than-seat-counts/)
   - [Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model](https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/)
 - The Verge
@@ -298,6 +307,7 @@
   - [CVE-2026-38939 | andrewtch88 mvc-ecommerce 1.0 product_catalogue.php cross site scripting](https://vuldb.com/vuln/360325)
   - [CVE-2026-38940 | RafyMrX TOKO-ONLINE-ROTI 1.0 detail_produk.php cross site scripting](https://vuldb.com/vuln/360326)
   - [CVE-2026-39858 | Traefik up to 2.11.42/3.6.13/3.7.0-rc.1 X_Forwarded_Proto authentication spoofing](https://vuldb.com/vuln/360385)
+  - [CVE-2026-40201 | diplodoc-platform search-extension up to 3.0.2 md File Title cross site scripting](https://vuldb.com/vuln/360539)
   - [CVE-2026-40280 | gotenberg 8.1.0 webhook/downloadFrom server-side request forgery](https://vuldb.com/vuln/360392)
   - [CVE-2026-40595 | Chartbrew 4.9.0 Public Chart Retrieval access control (GHSA-mq7q-6xh6-5649)](https://vuldb.com/vuln/360367)
   - [CVE-2026-40600 | Chartbrew 4.9.0 policy_id authorization (GHSA-pq8h-2h99-39xm)](https://vuldb.com/vuln/360368)
@@ -313,6 +323,8 @@
   - [CVE-2026-40950 | Absolute Secure Access up to 14.49 Message buffer overflow](https://vuldb.com/vuln/360386)
   - [CVE-2026-40951 | Absolute Secure Access up to 14.49 memory corruption](https://vuldb.com/vuln/360391)
   - [CVE-2026-41174 | Traefik up to 2.11.42/3.6.13/3.7.0-rc.1 Reverse Proxy spec.chain.middlewares middlewares[] authorization](https://vuldb.com/vuln/360380)
+  - [CVE-2026-42402 | Apache Neethi up to 3.2.1 resource consumption](https://vuldb.com/vuln/360537)
+  - [CVE-2026-42403 | Apache Neethi up to 3.2.1 resource consumption](https://vuldb.com/vuln/360538)
   - [CVE-2026-42994 | Bitwarden CLI 2026.4.0 os command injection](https://vuldb.com/vuln/360418)
   - [CVE-2026-4502 | IBM Langflow Desktop up to 1.8.4 URL path traversal](https://vuldb.com/vuln/360405)
   - [CVE-2026-4503 | IBM Langflow Desktop up to 1.8.4 authorization](https://vuldb.com/vuln/360413)
@@ -342,6 +354,16 @@
   - [CVE-2026-7555 | itsourcecode Electronic Judging System 1.0 /intrams/login.php Username sql injection](https://vuldb.com/vuln/360363)
   - [CVE-2026-7583 | Open5GS up to 2.7.7 BSF /src/bsf/context.c bsf_sess_find_by_ipv6prefix ipv6Prefix denial of service (Issue 4401)](https://vuldb.com/vuln/360530)
   - [CVE-2026-7585 | Open5GS up to 2.7.7 AMF /src/amf/nudm-handler.c amf_nudm_sdm_handle_provisioned denial of service (Issue 4403)](https://vuldb.com/vuln/360533)
+  - [CVE-2026-7587 | Open5GS up to 2.7.7 AMF /src/amf/nsmf-handler.c amf_nsmf_pdusession_handle_update_sm_context denial of service (Issue 4408)](https://vuldb.com/vuln/360540)
+  - [CVE-2026-7588 | ggerve coding-standards-mcp server.py get_style_guide/get_best_practices Language path traversal](https://vuldb.com/vuln/360541)
+  - [CVE-2026-7589 | ghantakiran splunk-mcp-integration up to 0b86b09d5e5adf0433acd43c975951224613a1a6 CSV Export csv_export.py create_csv_export job_name path traversal (Issue 49)](https://vuldb.com/vuln/360542)
+  - [CVE-2026-7590 | eyal-gor p_69_branch_monkey_mcp up to 69bc71874ce40050ef45fde5a435855f18af3373 Preview Endpoint advanced.py dev_script os command injection](https://vuldb.com/vuln/360543)
+  - [CVE-2026-7591 | TimBroddin astro-mcp-server up to 1.1.1 MCP Tool Query Construction src/index.ts request.params.arguments sql injection](https://vuldb.com/vuln/360544)
+  - [CVE-2026-7592 | itsourcecode Courier Management System 1.0 /edit_staff.php ID sql injection](https://vuldb.com/vuln/360545)
+  - [CVE-2026-7593 | Sunwood-ai-labs command-executor-mcp-server up to 0.1.0 MCP Interface src/index.ts execute_command os command injection](https://vuldb.com/vuln/360546)
+  - [CVE-2026-7594 | Flux159 mcp-game-asset-gen 0.1.0 MCP Interface src/index.ts image_to_3d_async statusFile path traversal](https://vuldb.com/vuln/360547)
+  - [CVE-2026-7595 | nextlevelbuilder ui-ux-pro-max-skill up to 2.5.0 Tailwind Config Generator tailwind_config_gen.py _format_plugins code injection (Issue 246)](https://vuldb.com/vuln/360548)
+  - [CVE-2026-7596 | nextlevelbuilder ui-ux-pro-max-skill up to 2.5.0 Slide Generator generate-slide.py data.get cross site scripting (Issue 247)](https://vuldb.com/vuln/360549)
 - Wired
   - [10% Dell Coupon Codes | May 2026](https://www.wired.com/story/dell-coupon-code/)
   - [30% Off Samsung Promo Code | May 2026](https://www.wired.com/story/samsung-promo-codes/)
@@ -361,6 +383,7 @@
   - [Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System](https://www.wired.com/story/daniel-davis-immunology-wired-health/)
   - [Squarespace Promo Codes: 20% Off in May 2026](https://www.wired.com/story/squarespace-promo-code/)
   - [This Indigenous Language Survived Russian Occupation. Can It Survive YouTube?](https://www.wired.com/story/youtube-promote-russian-language-kyrgyzstan/)
+  - [This Treatment Could Reverse Osteoarthritis Joint Damage With a Single Injection](https://www.wired.com/story/osteoarthritis-joint-damage-single-injection-treatment/)
   - [Top Google Workspace Promo Codes for May](https://www.wired.com/story/google-workspace-promo-code/)
   - [Top Paramount+ Coupon Codes and Deals for May 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
   - [Top Peacock Promo Codes: 40% Off May 2026](https://www.wired.com/story/peacock-promo-code/)
