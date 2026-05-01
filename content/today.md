@@ -12,6 +12,8 @@
   - [Russia cloaks launch schedule after spaceport falls in Ukraine's sights](https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/)
 - darkreading
   - [Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug](https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug)
+- Emergent Minds | paddo.dev
+  - [Boring Agents Ship: The Triage Lane Nobody Is Writing About](https://paddo.dev/blog/boring-agents-ship/)
 - Hacker News Frontpage
   - [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
   - [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
@@ -29,19 +31,24 @@
 - MIT Technology Review
   - [Exclusive eBook: Inside the stealthy startup that pitched brainless human clones](https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/)
 - simonwillison.net
+  - [Codex CLI 0.128.0 adds /goal](https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything)
   - [Quoting Andrew Kelley](https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything)
   - [We need RSS for sharing abundant vibe-coded apps](https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-3143 exploit](https://sploitus.com/exploit?id=5E1C664A-76FD-543A-97AD-FF1A9B4E02F5&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=1796DBF7-058F-5948-8098-92FB3E29BFDD&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=30FDC2E0-770B-5910-9F7A-A4280EBAB5F2&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=B9D274A2-4F9D-5E56-BAC0-6E32FE00CC48&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=C3A89907-1D82-59E4-971B-552E7E141BE7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=C8F8D9CA-A2A7-50CB-8C55-917943AC644F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=FE7993FE-7F81-5B38-B954-61AC3883C00C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-41940 exploit](https://sploitus.com/exploit?id=30A9AC7C-E560-5AB8-A736-4D5F73275685&utm_source=rss&utm_medium=rss)
   - [hacktrix exploit](https://sploitus.com/exploit?id=D8012EBD-2CD6-5526-9E05-5019EB7FE5C0&utm_source=rss&utm_medium=rss)
+  - [homelab-security exploit](https://sploitus.com/exploit?id=09B89183-FE26-5690-A12C-7BEC34B1AAE4&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too](https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/)
   - [Apple was surprised by AI-driven demand for Macs](https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/)
+  - [As Tim Cook steps down, Apple hit record sales — but a chip shortage looms](https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/)
   - [Elon Musk testifies that xAI trained Grok on OpenAI models](https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/)
   - [EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting](https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/)
   - [FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder](https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/)
@@ -50,8 +57,10 @@
   - [Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter](https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/)
   - [OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico](https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/)
   - [Rivian downsizes DOE loan to $4.5B, while boosting capacity of Georgia factory](https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-while-boosting-capacity-of-georgia-factory/)
+  - [Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks](https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/)
   - [Stripe introduces Link, a digital wallet that autonomous AI agents can use, too](https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/)
   - [TikTok’s new ‘Campus Hub’ features college group chats and feeds](https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/)
+  - [Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says](https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/)
 - The Decoder
   - [Microsoft CEO Satya Nadella says AI success is "more about getting intense users and intense usage" than seat counts](https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-success-is-more-about-getting-intense-users-and-intense-usage-than-seat-counts/)
 - The Verge
