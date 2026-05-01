@@ -7,6 +7,7 @@
   - [China Pressure Canceled World’s Largest Digital Human Rights Conference](https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/)
 - Ars Technica
   - [Scorpions go terminator mode and reinforce their weapons with metal](https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/)
+  - [Ubuntu infrastructure has been down for more than a day](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/)
 - Hacker News Frontpage
   - [A statement about why RightsCon 2026 will not take place in Zambia](https://www.rightscon.org/rc26-statement/)
   - [City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/)
@@ -14,6 +15,7 @@
   - [Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/)
   - [Show HN: My Private GitHub on Postgres](https://github.com/calebwin/gitgres)
   - [Uber Torches 2026 AI Budget on Claude Code in Four Months](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
+  - [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
 - HackerNoon
   - [Why GPT’s Mathematical Foundations Cannot Guarantee Reliable Outputs](https://hackernoon.com/why-gpts-mathematical-foundations-cannot-guarantee-reliable-outputs?source=rss)
 - Sploitus.com Exploits RSS Feed
@@ -21,6 +23,7 @@
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=6AD5A914-B820-5648-AF5E-8379DE029A30&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=CB3E6F6E-9DB5-5488-A998-2ACCA2FEEB27&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=01C65730-15C6-5AC3-AE03-12BEC73FA02F&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=FA77C8E9-EFCD-5D6A-9A7F-7AC31070980F&utm_source=rss&utm_medium=rss)
   - [OWASP-Pentest-Suite exploit](https://sploitus.com/exploit?id=87801FE3-A28E-54D7-9AF2-D36063AC3C4A&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Coatue has a plan to buy up land for data centers, possibly for Anthropic](https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/)
@@ -28,6 +31,7 @@
 - The Decoder
   - [Eight tech giants sign Pentagon deals to build an "AI-first fighting force" across classified networks](https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/)
 - The Verge
+  - [All the evidence revealed so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
   - [Amazon&#8217;s built-in AI price history expands to show the entire last year](https://www.theverge.com/tech/922302/amazon-price-tracker-year)
   - [Dreame — the vacuum company — just ‘launched’ its own phones](https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular)
   - [Dreame’s rocket-powered car can do 0–60 in 0.9 seconds because you can just say things now](https://www.theverge.com/transportation/921204/dreame-ev-car-rocket-boosted-zero-sixty-reality)
