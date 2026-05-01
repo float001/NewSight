@@ -1,10 +1,15 @@
 # 今日安全资讯（2026-05-02）
 
+- 2Libra
+  - [【💰】五一假期快乐,🎉 许愿](https://2libra.com/post/personal-life/CIBUpdT)
 - 404 Media
   - [Behind the Blog: Big Questions of Consciousness](https://www.404media.co/behind-the-blog-big-questions-of-consciousness/)
+  - [China Pressure Canceled World’s Largest Digital Human Rights Conference](https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/)
 - Ars Technica
   - [Scorpions go terminator mode and reinforce their weapons with metal](https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/)
 - Hacker News Frontpage
+  - [A statement about why RightsCon 2026 will not take place in Zambia](https://www.rightscon.org/rc26-statement/)
+  - [City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/)
   - [Flock cameras keep telling police a man who doesn't have a warrant has a warrant](https://www.youtube.com/watch?v=nHwxV0Sd9V8)
   - [Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/)
   - [Show HN: My Private GitHub on Postgres](https://github.com/calebwin/gitgres)
@@ -18,6 +23,7 @@
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=01C65730-15C6-5AC3-AE03-12BEC73FA02F&utm_source=rss&utm_medium=rss)
   - [OWASP-Pentest-Suite exploit](https://sploitus.com/exploit?id=87801FE3-A28E-54D7-9AF2-D36063AC3C4A&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Coatue has a plan to buy up land for data centers, possibly for Anthropic](https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/)
   - [Pentagon inks deals with Nvidia, Microsoft and AWS to deploy AI on classified networks](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/)
 - The Decoder
   - [Eight tech giants sign Pentagon deals to build an "AI-first fighting force" across classified networks](https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/)
@@ -30,6 +36,8 @@
   - [This accessory can snap a Steam Controller to your phone — or almost anything else](https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock)
   - [We just got a new reason to believe the Trump phone is real(ish)](https://www.theverge.com/gadgets/922180/trump-mobile-t1-phone-ptcrb-certification-t-mobile)
 - VulDB Recent Entries
+  - [CVE-2025-63547 | Eprosima Micro-XREC-DDS Agent 3.0.1 Packet denial of service](https://vuldb.com/vuln/360775)
+  - [CVE-2025-63548 | Eprosima Micro-XREC-DDS Agent 3.0.1 denial of service](https://vuldb.com/vuln/360776)
   - [CVE-2026-22165 | Imagination Graphics DDK up to 1.18 RTM/23.2 RTM/24.2 RTM/25.3 RTM use after free](https://vuldb.com/vuln/360751)
   - [CVE-2026-22166 | Imagination Graphics DDK up to 1.18 RTM/23.2 RTM/24.2 RTM/25.3 RTM use after free](https://vuldb.com/vuln/360752)
   - [CVE-2026-22167 | Imagination Graphics DDK up to 1.18 RTM/23.2 RTM/24.2 RTM/25.3 RTM GPU Driver memory corruption](https://vuldb.com/vuln/360749)
@@ -39,11 +47,28 @@
   - [CVE-2026-31737 | Linux Kernel up to 6.19.11 net ftgmac100_alloc_rings allocation of resources](https://vuldb.com/vuln/360711)
   - [CVE-2026-31773 | Linux Kernel up to 6.19.11 smp_random channel accessible](https://vuldb.com/vuln/360712)
   - [CVE-2026-31778 | Linux Kernel up to 6.19.11 ALSA sound/core/init.c snd_card_set_id off-by-one](https://vuldb.com/vuln/360713)
+  - [CVE-2026-37457 | FRRouting FRR 10.0 FlowSpec bgpd/bgp_flowspec_util.c bgp_flowspec_op_decode off-by-one](https://vuldb.com/vuln/360773)
   - [CVE-2026-37503 | V2Board up to 1.7.4 saveThemeConfig API dashboard.blade.php custom_html cross site scripting](https://vuldb.com/vuln/360734)
   - [CVE-2026-37504 | V2Board up to 1.7.4 Authentication Token UniProxyController.php server_token information disclosure](https://vuldb.com/vuln/360715)
   - [CVE-2026-37505 | V2Board up to 1.7.4 UserController.php sort sql injection](https://vuldb.com/vuln/360732)
+  - [CVE-2026-37525 | AGL app-framework-binder up to 19.90.0 src/afb-supervision.c on_supervision_call api/verb improper authorization](https://vuldb.com/vuln/360760)
+  - [CVE-2026-37526 | AGL app-framework-binder up to 19.90.0 API Call src/afb-supervision.c on_supervision_call Local Privilege Escalation](https://vuldb.com/vuln/360774)
+  - [CVE-2026-37530 | AGL agl-service-can-low-level/but copies up to 17.1.12 Destination uds.c send_diagnostic_request payload_length buffer overflow](https://vuldb.com/vuln/360761)
+  - [CVE-2026-37531 | AGL app-framework-main up to 17.1.12 wgtpkg-zip.c install_widget toctou](https://vuldb.com/vuln/360770)
+  - [CVE-2026-37532 | AGL agl-service-can-low-level/reads up to 17.1.12 receive.c isotp_continue_receive heap-based overflow](https://vuldb.com/vuln/360772)
+  - [CVE-2026-37534 | collin80 Open-SAE-J1939 up to 2025-11-30 SAE_J1939_Read_Transport_Protocol_Data_Transfer integer underflow](https://vuldb.com/vuln/360763)
+  - [CVE-2026-37535 | openxc isotp-c up to 2021-08-09 ISO-TP Single Frame openxc/isotp-c out-of-bounds](https://vuldb.com/vuln/360758)
+  - [CVE-2026-37536 | miaofng uds-c 2016-10-05 miaofng/uds-c send_diagnostic_request buffer overflow](https://vuldb.com/vuln/360764)
+  - [CVE-2026-37537 | collin80 Open-SAE-J1939 up to 2023-03-08 integer underflow](https://vuldb.com/vuln/360765)
+  - [CVE-2026-37538 | socketcand 0.4.2 socketcand.c main bus_name buffer overflow](https://vuldb.com/vuln/360777)
+  - [CVE-2026-37539 | cannelloni 2.0.0 CAN Frame Parser parser.cpp parseCANFrame buffer overflow](https://vuldb.com/vuln/360766)
+  - [CVE-2026-37540 | OpenAMP 2025.10.0 Firmware Image elf_loader.c integer overflow](https://vuldb.com/vuln/360771)
+  - [CVE-2026-37541 | Open Vehicle Monitoring System 3.3.005 GVRET canformat_gvret.cpp length buffer overflow](https://vuldb.com/vuln/360767)
   - [CVE-2026-37552 | MixPHP Framework up to 2.2.17 Server.php unserialize deserialization](https://vuldb.com/vuln/360731)
   - [CVE-2026-37554 | Vanetza V2X up to 26.02 openssl_wrapper.cpp Router::indicate denial of service](https://vuldb.com/vuln/360748)
+  - [CVE-2026-42467 | collin80 Open-SAE-J1939 up to 2025-11-30 CAN Frame SAE_J1939_Read_Binary_Data_Transfer_DM16 denial of service](https://vuldb.com/vuln/360759)
+  - [CVE-2026-42468 | Open Vehicle Monitoring System 3.3.005 PCAP canformat_pcap.cpp phdr.len buffer overflow](https://vuldb.com/vuln/360768)
+  - [CVE-2026-42469 | Open Vehicle Monitoring System 3.3.005 CANswitch canformat_canswitch.cpp buffer overflow](https://vuldb.com/vuln/360769)
   - [CVE-2026-42471 | MixPHP Framework up to 2.2.17 Connection.php unserialize deserialization](https://vuldb.com/vuln/360730)
   - [CVE-2026-42472 | MixPHP Framework up to 2.2.17 RedisHandler unserialize deserialization](https://vuldb.com/vuln/360735)
   - [CVE-2026-42473 | MixPHP Framework up to 2.2.17 FileHandler unserialize deserialization](https://vuldb.com/vuln/360736)
@@ -55,6 +80,7 @@
   - [CVE-2026-42479 | Open CASCADE Technology OCCT 8.0.0.rc5 VRML Parser VrmlData_IndexedLineSet coordIndex out-of-bounds](https://vuldb.com/vuln/360746)
   - [CVE-2026-42480 | Open CASCADE Technology OCCT 8.0.0.rc5 VRML Parser VrmlData_Scene out-of-bounds](https://vuldb.com/vuln/360747)
   - [CVE-2026-42481 | Open CASCADE Technology OCCT 8.0.0.rc5 EvalD0 out-of-bounds](https://vuldb.com/vuln/360744)
+  - [CVE-2026-42485 | AGL agl-service-can-low-level Destination uds.c send_diagnostic_request payload_length buffer overflow](https://vuldb.com/vuln/360762)
   - [CVE-2026-43015 | Linux Kernel up to 6.19.11 platform_device_unregister use after free](https://vuldb.com/vuln/360710)
   - [CVE-2026-43035 | Linux Kernel up to 6.19.11 Netlink Message tc_chain_fill_node tcm_info privilege escalation](https://vuldb.com/vuln/360714)
   - [CVE-2026-43044 | Linux Kernel up to 6.6.133/6.12.80/6.18.21/6.19.11 crypto buffer overflow](https://vuldb.com/vuln/360725)
@@ -79,7 +105,9 @@
   - [CVE-2026-7643 | ChatGPTNextWeb NextChat up to 2.16.1 API Endpoint Next.js cross-domain policy (Issue 6756)](https://vuldb.com/vuln/360755)
   - [CVE-2026-7644 | ChatGPTNextWeb NextChat up to 2.16.1 app/mcp/actions.ts addMcpServer improper authorization (Issue 6757)](https://vuldb.com/vuln/360756)
   - [CVE-2026-7645 | ruvnet sublinear-time-solver 1.5.0 MCP Interface server.js export_state path traversal (Issue 19)](https://vuldb.com/vuln/360757)
+  - [CVE-2026-7653 | r-huijts mcp-server-rijksmuseum up to 1.0.4 MCP Interface src/index.ts open_image_in_browser imageUrl os command injection](https://vuldb.com/vuln/360778)
 - Wired
   - [The Chinese Government Just Got the World’s Largest Digital Rights Conference Canceled](https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/)
+  - [The Next Alzheimer’s Breakthrough Will Take More Than Just Science](https://www.wired.com/story/john-hardy-dementia-wired-health/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
