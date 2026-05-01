@@ -4,17 +4,25 @@
   - [五一假期第一天，大家都在干啥呢？](https://2libra.com/post/small-things/xHdoOe4)
   - [五一签到 1800 金币](https://2libra.com/post/forum-function/G6eI3Bj)
   - [授权登录页面展示问题](https://2libra.com/post/community/EcdBZqD)
+- 36氪
+  - [美股三大指数集体收涨，高通涨超15%](https://36kr.com/newsflashes/3790017015454721?f=rss)
+  - [苹果第二财季营收1111.8亿美元，同比增长17%](https://36kr.com/newsflashes/3790016302095363?f=rss)
 - Ars Technica
   - [Blue Origin certainly has ambitious launch targets for New Glenn](https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/)
   - [Elon Musk's 7 biggest stumbles on the stand at OpenAI trial](https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/)
   - [Researchers try to cut the genetic code from 20 to 19 amino acids](https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/)
   - [RFK Jr. appeals ruling that wiped out his vaccine advisory panel](https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/)
   - [Russia cloaks launch schedule after spaceport falls in Ukraine's sights](https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/)
+- daringfireball.net
+  - [Apple Q2 2026 Results](https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/)
+  - [★ On the Future of Apple’s Vision Platform](https://daringfireball.net/2026/04/on_the_future_of_apples_vision_platform)
 - darkreading
   - [Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug](https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug)
 - Emergent Minds | paddo.dev
   - [Boring Agents Ship: The Triage Lane Nobody Is Writing About](https://paddo.dev/blog/boring-agents-ship/)
 - Hacker News Frontpage
+  - [$500M for Virtual Biology Initiative, Funded by Zuckerbergs](https://biohub.org/news/virtual-biology-initiative/)
+  - [ClawIRC – IRC Chat for Agents](https://clawirc.com/)
   - [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
   - [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
   - [Largest Digital Human Rights Conference Suddenly Canceled](https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/)
@@ -43,6 +51,7 @@
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=C8F8D9CA-A2A7-50CB-8C55-917943AC644F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31431 exploit](https://sploitus.com/exploit?id=FE7993FE-7F81-5B38-B954-61AC3883C00C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-41940 exploit](https://sploitus.com/exploit?id=30A9AC7C-E560-5AB8-A736-4D5F73275685&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=E414FD2C-33F9-560F-A367-198FB076252F&utm_source=rss&utm_medium=rss)
   - [hacktrix exploit](https://sploitus.com/exploit?id=D8012EBD-2CD6-5526-9E05-5019EB7FE5C0&utm_source=rss&utm_medium=rss)
   - [homelab-security exploit](https://sploitus.com/exploit?id=09B89183-FE26-5690-A12C-7BEC34B1AAE4&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -146,9 +155,12 @@
 - Wired
   - [Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed](https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/)
   - [Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own](https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/)
+  - [How Shivon Zilis Operated as Elon Musk’s OpenAI Insider](https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/)
   - [MAGA Is Confused About ‘Animal Farm’](https://www.wired.com/story/maga-is-confused-about-animal-farm/)
   - [Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?](https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/)
   - [OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts](https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/)
   - [Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System](https://www.wired.com/story/daniel-davis-immunology-wired-health/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜苹果：下季度内存成本压力将显著加大/宇树最便宜人形机器发布/5月1日高速车流或创历史纪录](https://www.ifanr.com/1664760?utm_source=rss&utm_medium=rss&utm_campaign=)
