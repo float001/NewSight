@@ -44,6 +44,7 @@
   - [Meta buys robotics startup to bolster its humanoid AI ambitions](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)
   - [Musely secures $360M from General Catalyst without giving up equity](https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/)
   - [Pentagon inks deals with Nvidia, Microsoft and AWS to deploy AI on classified networks](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/)
+  - [Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/)
 - The Decoder
   - [Eight tech giants sign Pentagon deals to build an "AI-first fighting force" across classified networks](https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/)
 - The Verge
@@ -130,6 +131,8 @@
   - [CVE-2026-7644 | ChatGPTNextWeb NextChat up to 2.16.1 app/mcp/actions.ts addMcpServer improper authorization (Issue 6757)](https://vuldb.com/vuln/360756)
   - [CVE-2026-7645 | ruvnet sublinear-time-solver 1.5.0 MCP Interface server.js export_state path traversal (Issue 19)](https://vuldb.com/vuln/360757)
   - [CVE-2026-7653 | r-huijts mcp-server-rijksmuseum up to 1.0.4 MCP Interface src/index.ts open_image_in_browser imageUrl os command injection](https://vuldb.com/vuln/360778)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Handling the Vulnerability Surge in the Post-Mythos Era](https://blog.qualys.com/category/qualys-insights)
 - Wired
   - [A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat](https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/)
   - [Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers](https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/)
@@ -139,3 +142,5 @@
   - [Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars](https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [泰勒的深伪视频正在TikTok上推销诈骗](https://blog.upx8.com/%E6%B3%B0%E5%8B%92%E7%9A%84%E6%B7%B1%E4%BC%AA%E8%A7%86%E9%A2%91%E6%AD%A3%E5%9C%A8TikTok%E4%B8%8A%E6%8E%A8%E9%94%80%E8%AF%88%E9%AA%97)
