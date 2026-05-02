@@ -5,6 +5,9 @@
 - Hacker News Frontpage
   - [Ask HN: Is the Job Market Actually Bad?](https://news.ycombinator.com/item?id=47988268)
   - [Roblox shares plummet 18% as child safety measures weigh on bookings](https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html)
+  - [Show HN: State of the Art of Coding Models, According to Hacker News Commenters](https://hnup.date/hn-sota)
+  - [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/)
+  - [The agent harness belongs outside the sandbox](https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox)
   - [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
 - Shells.Systems
   - [Chaining ISC DHCP Server Features for Unauthenticated Root Remote Code Execution](https://shells.systems/chaining-isc-dhcp-server-features-for-unauthenticated-root-remote-code-execution/)
@@ -13,9 +16,12 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Openbsd Openssh exploit](https://sploitus.com/exploit?id=A4C45A40-ADC5-50EF-8FFC-4047AA0F987B&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=4AC933DA-07DA-552C-9400-A960A8BB8BB7&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=B4197764-0E8E-5E50-969A-F57B7CEB4431&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=BBB9AEDA-89D0-5471-83A7-388934C96DD4&utm_source=rss&utm_medium=rss)
   - [Lyussfyuring002 exploit](https://sploitus.com/exploit?id=6D0AB2BD-3771-55E2-B173-B4372927493D&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
+  - [Farewell, Jeeves: Ask.com shuts down](https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/)
   - [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)
 - The Verge
   - [Aura’s delightful Aspen photo frame is on sale for $30 off this weekend](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale)
