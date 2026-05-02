@@ -26,5 +26,10 @@
   - [CVE-2026-7687 | langflow-ai langflow up to 1.8.4 Full Builtins code_parser.py CodeParser.parse_callable_details command injection](https://vuldb.com/vuln/360857)
   - [CVE-2026-7688 | Dolibarr ERP CRM up to 23.0.2 Shipments API Endpoint expedition.class.php _checkValForAPI fields sql injection](https://vuldb.com/vuln/360858)
   - [CVE-2026-7689 | Dolibarr ERP CRM up to 23.0.2 Online Signature security.lib.php dol_verifyHash signature verification](https://vuldb.com/vuln/360859)
+  - [CVE-2026-7698 | Tiandy Easy7 Integrated Management Platform 7.17.0 updateDbBackupInfo week os command injection](https://vuldb.com/vuln/360867)
+  - [CVE-2026-7699 | Dromara MaxKey up to 3.5.13 StrUtils.java StrUtils.checkSqlInjection filtersfields sql injection](https://vuldb.com/vuln/360868)
+  - [CVE-2026-7700 | langflow-ai langflow up to 1.8.4 LambdaFilterComponent lambda_filter.p eval code injection](https://vuldb.com/vuln/360869)
+  - [CVE-2026-7701 | Telegram Desktop up to 6.7.5 Bot API url_auth_box.cpp RequestButton login_url null pointer dereference](https://vuldb.com/vuln/360870)
+  - [CVE-2026-7702 | toeverything AFFiNE up to 0.26.3 Public Markdown Preview Endpoint :docId allowDocPreview authorization](https://vuldb.com/vuln/360871)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
