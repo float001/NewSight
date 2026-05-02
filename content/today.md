@@ -1,16 +1,23 @@
 # 今日安全资讯（2026-05-03）
 
+- 2Libra
+  - [夜猫子徽章拿到 🦉](https://2libra.com/post/forum-function/Kj6GvQs)
 - Hacker News Frontpage
   - [Ask HN: Is the Job Market Actually Bad?](https://news.ycombinator.com/item?id=47988268)
   - [Roblox shares plummet 18% as child safety measures weigh on bookings](https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html)
+  - [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
 - Shells.Systems
   - [Chaining ISC DHCP Server Features for Unauthenticated Root Remote Code Execution](https://shells.systems/chaining-isc-dhcp-server-features-for-unauthenticated-root-remote-code-execution/)
 - simonwillison.net
   - [Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=4AC933DA-07DA-552C-9400-A960A8BB8BB7&utm_source=rss&utm_medium=rss)
+  - [Lyussfyuring002 exploit](https://sploitus.com/exploit?id=6D0AB2BD-3771-55E2-B173-B4372927493D&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)
 - The Verge
   - [Aura’s delightful Aspen photo frame is on sale for $30 off this weekend](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale)
+  - [Meta&#8217;s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety)
   - [Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices](https://www.theverge.com/business/922788/spirit-airlines-shutdown)
 - VulDB Recent Entries
   - [CVE-2026-7686 | eyeo Adblock Plus up to 4.36.2 on Chrome Legacy Premium Activation premium.preload.js postMessage access control](https://vuldb.com/vuln/360856)
