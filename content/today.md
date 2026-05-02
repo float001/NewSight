@@ -41,6 +41,7 @@
   - [特朗普：将于下周对欧盟输美汽车和卡车加征25%关税](https://36kr.com/newsflashes/3790945973296131?f=rss)
   - [百亿私募一季报调仓换股情况曝光](https://36kr.com/newsflashes/3791651881966595?f=rss)
   - [科创板向新向优活力蓬勃，2025年净利大增26%](https://36kr.com/newsflashes/3791833394027784?f=rss)
+  - [科氪 | 张雪机车再夺冠军！荣耀宣布推出张雪机车冠军联名款手表](https://36kr.com/p/3792228036615430?f=rss)
   - [续集没翻车 ，但这次“女魔头”也顶不住了](https://36kr.com/p/3791555958922504?f=rss)
   - [美联储6月维持利率不变的概率为92.8%](https://36kr.com/newsflashes/3791567088704773?f=rss)
   - [美联储副主席鲍曼：监管机构必须考虑如何应对Mythos等新技术](https://36kr.com/newsflashes/3791559252466950?f=rss)
@@ -67,6 +68,8 @@
   - [Tim Cook’s Clever Solution to the Tariff Refund Puzzle](https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/)
 - darkreading
   - [76% of All Crypto Stolen in 2026 Is Now in North Korea](https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea)
+- eli.thegreenplace.net
+  - [Scaling, stretching and shifting sinusoids](https://eli.thegreenplace.net/2026/scaling-stretching-and-shifting-sinusoids/)
 - Hacker News Frontpage
   - [A statement about why RightsCon 2026 will not take place in Zambia](https://www.rightscon.org/rc26-statement/)
   - [Ask.com has closed](https://www.ask.com/)
@@ -100,6 +103,8 @@
   - [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/)
 - pluralistic.net
   - [Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)](https://pluralistic.net/2026/05/02/denazification/)
+- PwnDefend
+  - [2026: Why have we not solved DDoS Yet?](https://www.pwndefend.com/2026/05/02/2026-why-have-we-not-solved-ddos-yet/)
 - Recent Commits to cve:main
   - [Update Sat May  2 11:22:26 UTC 2026](https://github.com/trickest/cve/commit/8859c745e6c14d7d268e112d458ebba4f69118f1)
 - Sploitus.com Exploits RSS Feed
@@ -112,6 +117,7 @@
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=188B2E6D-9568-5D39-B3D5-AF979AAAE0C0&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=1B91CFD3-6DA7-5F7F-85A1-B9F4D8346CDA&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=2C106F26-E45D-5CCB-B8DE-716E75E4F9EB&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=565CEDC2-76B0-524D-B395-D7A39CA82E5C&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=6780F1E2-8E5F-57C6-9A3A-FFCEBCC0A591&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=6AD5A914-B820-5648-AF5E-8379DE029A30&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=78C5767A-8AFB-5ED2-BF94-4CDD266DC9E2&utm_source=rss&utm_medium=rss)
