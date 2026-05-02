@@ -25,6 +25,7 @@
   - [历史首次，LNG Canada公司的单月出口量达到100万公吨](https://36kr.com/newsflashes/3791566412930305?f=rss)
   - [又一算力独角兽，冲击IPO](https://36kr.com/p/3791796527602951?f=rss)
   - [受美国拖欠会费等因素影响，世贸组织计划削减10%预算](https://36kr.com/newsflashes/3791443108224008?f=rss)
+  - [周杰伦伙伴，要被卖了](https://36kr.com/p/3791838183234816?f=rss)
   - [国际海事组织决定加开会议商讨净零排放框架](https://36kr.com/newsflashes/3791671614462984?f=rss)
   - [巴西石油公司第一季度对美出口降至零](https://36kr.com/newsflashes/3791572988828935?f=rss)
   - [新一代SU7锁单超7万台](https://36kr.com/newsflashes/3791527856037124?f=rss)
@@ -69,6 +70,7 @@
   - [Credit Cards Are Vulnerable to Brute Force Kind Attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
   - [Flock cameras keep telling police a man who doesn't have a warrant has a warrant](https://www.youtube.com/watch?v=nHwxV0Sd9V8)
   - [Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/)
+  - [Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)
   - [Show HN: My Private GitHub on Postgres](https://github.com/calebwin/gitgres)
   - [Spirit Airlines Is Winding Down All Operations](https://www.spiritrestructuring.com/)
   - [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
@@ -89,6 +91,7 @@
   - [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Code Injection in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=2304888E-D711-5136-9188-D8C3C876EA64&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-42167 exploit](https://sploitus.com/exploit?id=EE17E53E-C92B-5F91-BF4B-9E9511471132&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Apache Mina exploit](https://sploitus.com/exploit?id=81E26AF9-DF79-5E5C-8AFA-8994AD840D4D&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Neutralization of Line Delimiters in Cacti exploit](https://sploitus.com/exploit?id=DB2ABE4D-FABF-5911-AE98-CD9B095C1320&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=0B7C34AD-0571-59D2-9F46-0A800FCA918A&utm_source=rss&utm_medium=rss)
@@ -106,6 +109,7 @@
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=9F256C1B-A510-5540-A856-CBCCDA226C78&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=FA77C8E9-EFCD-5D6A-9A7F-7AC31070980F&utm_source=rss&utm_medium=rss)
   - [Exploit for PHP Remote File Inclusion in Boidcms exploit](https://sploitus.com/exploit?id=3DE71F60-D728-5411-9CF9-3BBDE5384D49&utm_source=rss&utm_medium=rss)
+  - [kernel-exploits exploit](https://sploitus.com/exploit?id=A7B0AC37-9027-5DF2-BFB5-CFC0D2B07AEB&utm_source=rss&utm_medium=rss)
   - [linux-exploit-study exploit](https://sploitus.com/exploit?id=7FF68FAF-C76E-5AF2-9794-802F6855D7E5&utm_source=rss&utm_medium=rss)
   - [OWASP-Pentest-Suite exploit](https://sploitus.com/exploit?id=87801FE3-A28E-54D7-9AF2-D36063AC3C4A&utm_source=rss&utm_medium=rss)
   - [suricata-detections exploit](https://sploitus.com/exploit?id=CFAE4595-1820-519E-8268-CF021790D959&utm_source=rss&utm_medium=rss)
@@ -120,6 +124,7 @@
 - The Decoder
   - [ChatGPT now tracks users for ads by default as OpenAI looks for new revenue](https://the-decoder.com/chatgpt-now-tracks-users-for-ads-by-default-as-openai-looks-for-new-revenue/)
   - [Eight tech giants sign Pentagon deals to build an "AI-first fighting force" across classified networks](https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/)
+  - [Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company](https://the-decoder.com/elon-musk-calls-himself-a-fool-for-giving-openai-38-million-that-became-an-800-billion-company/)
   - [xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects](https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/)
 - The Verge
   - [All the evidence revealed so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
@@ -246,6 +251,7 @@
   - [30% Off Canon Promo Codes | May 2026](https://www.wired.com/story/canon-promo-code/)
   - [30% VistaPrint Coupon & Promo Codes | May 2026](https://www.wired.com/story/vistaprint-coupon-code/)
   - [A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat](https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/)
+  - [An Editor’s Picks: The Best Gifts for Bird Lovers](https://www.wired.com/story/best-gifts-for-bird-lovers/)
   - [Columbia Promo Codes: 	15% Off | May2026](https://www.wired.com/story/columbia-promo-code/)
   - [Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers](https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/)
   - [Newegg Promo Code: 10% Off in May 2026](https://www.wired.com/story/newegg-promo-code/)
@@ -253,16 +259,19 @@
   - [Sony Coupons: 45% Off Sony Headphones, WF-1000XM6 Earbuds, and Sony Cameras for May](https://www.wired.com/story/sony-promo-code/)
   - [Surfshark Promo Codes: 87% Off | May 2026](https://www.wired.com/story/surfshark-coupon/)
   - [The Chinese Government Just Got the World’s Largest Digital Rights Conference Canceled](https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/)
+  - [The Mother's Day Gifts Our Editors Love (2026)](https://www.wired.com/gallery/best-mothers-day-gifts-2026/)
   - [The Next Alzheimer’s Breakthrough Will Take More Than Just Science](https://www.wired.com/story/john-hardy-dementia-wired-health/)
   - [Therabody Promo Codes: 15% Off May 2026](https://www.wired.com/story/therabody-promo-code/)
   - [Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars](https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/)
 - 不安全
+  - [中国完成5G小区广播预警应用商用验证](https://buaq.net/go-414217.html)
   - [社交平台Instagram严厉打击内容聚合者](https://buaq.net/go-414199.html)
   - [阅星曈墨水屏阅读器国行版开始限制刷机](https://buaq.net/go-414183.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
   - [OpenAI宣布为其账户提供新的高级安全措施](https://blog.upx8.com/OpenAI%E5%AE%A3%E5%B8%83%E4%B8%BA%E5%85%B6%E8%B4%A6%E6%88%B7%E6%8F%90%E4%BE%9B%E6%96%B0%E7%9A%84%E9%AB%98%E7%BA%A7%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD)
+  - [中国完成5G小区广播预警应用商用验证](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%AE%8C%E6%88%905G%E5%B0%8F%E5%8C%BA%E5%B9%BF%E6%92%AD%E9%A2%84%E8%AD%A6%E5%BA%94%E7%94%A8%E5%95%86%E7%94%A8%E9%AA%8C%E8%AF%81)
   - [泰勒的深伪视频正在TikTok上推销诈骗](https://blog.upx8.com/%E6%B3%B0%E5%8B%92%E7%9A%84%E6%B7%B1%E4%BC%AA%E8%A7%86%E9%A2%91%E6%AD%A3%E5%9C%A8TikTok%E4%B8%8A%E6%8E%A8%E9%94%80%E8%AF%88%E9%AA%97)
   - [研究发现GPT-5.5在网络安全能力上与备受吹捧的Mythos不相上下](https://blog.upx8.com/%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0GPT-5-5%E5%9C%A8%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%83%BD%E5%8A%9B%E4%B8%8A%E4%B8%8E%E5%A4%87%E5%8F%97%E5%90%B9%E6%8D%A7%E7%9A%84Mythos%E4%B8%8D%E7%9B%B8%E4%B8%8A%E4%B8%8B)
   - [社交平台Instagram严厉打击内容聚合者](https://blog.upx8.com/%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0Instagram%E4%B8%A5%E5%8E%89%E6%89%93%E5%87%BB%E5%86%85%E5%AE%B9%E8%81%9A%E5%90%88%E8%80%85)
