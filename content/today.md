@@ -7,10 +7,13 @@
   - [突然不知道坚持什么 或者 为了什么坚持 怎么办？](https://2libra.com/post/small-things/LOECVbY)
   - [连续签到 66 天！签到勤勉检定大失败，获得 1 金币。大失败！！！](https://2libra.com/post/forum-function/ZsfpDmO)
 - 36氪
+  - [2026年五一档新片票房突破3亿元](https://36kr.com/newsflashes/3791810462555140?f=rss)
   - [5月1日铁路发送旅客量创历史新高](https://36kr.com/newsflashes/3791668514446344?f=rss)
   - [9.35万, 威马破产大甩卖](https://36kr.com/p/3791546608049152?f=rss)
   - [LABUBU冰箱二手价回落，一夜跌10000元](https://36kr.com/newsflashes/3791787182710017?f=rss)
   - [Meta收购机器人AI公司，加速布局人形机器人技术](https://36kr.com/newsflashes/3791455361113344?f=rss)
+  - [WildFire Energy股东正寻求按逾40亿美元出售该美国页岩油运营商](https://36kr.com/newsflashes/3791697672527104?f=rss)
+  - [“五一”假期运输火车票已售1.17亿张](https://36kr.com/newsflashes/3791855130369033?f=rss)
   - [“五一”假期首日高速公路充电量同比增长55.6%](https://36kr.com/newsflashes/3791783404166402?f=rss)
   - [上汽大通4月销量23860辆，同比增长35%](https://36kr.com/newsflashes/3791563859893512?f=rss)
   - [上海4月二手房网签量创近10年同期新高](https://36kr.com/newsflashes/3791457372183558?f=rss)
@@ -20,10 +23,12 @@
   - [伯克希尔股东大会即将召开，新任CEO顶替巴菲特主导问答环节](https://36kr.com/newsflashes/3791672011300096?f=rss)
   - [全球第四大黄金矿业公司据悉暂停IPO计划](https://36kr.com/newsflashes/3791652713602312?f=rss)
   - [历史首次，LNG Canada公司的单月出口量达到100万公吨](https://36kr.com/newsflashes/3791566412930305?f=rss)
+  - [又一算力独角兽，冲击IPO](https://36kr.com/p/3791796527602951?f=rss)
   - [受美国拖欠会费等因素影响，世贸组织计划削减10%预算](https://36kr.com/newsflashes/3791443108224008?f=rss)
   - [国际海事组织决定加开会议商讨净零排放框架](https://36kr.com/newsflashes/3791671614462984?f=rss)
   - [巴西石油公司第一季度对美出口降至零](https://36kr.com/newsflashes/3791572988828935?f=rss)
   - [新一代SU7锁单超7万台](https://36kr.com/newsflashes/3791527856037124?f=rss)
+  - [日本央行前行长黑田东彦称2%的通胀目标已实现](https://36kr.com/newsflashes/3791696180059392?f=rss)
   - [沃什执掌美联储后交易难度或上升](https://36kr.com/newsflashes/3791440139033858?f=rss)
   - [深圳口岸今年出入境人数突破1亿人次](https://36kr.com/newsflashes/3791565820025856?f=rss)
   - [特斯拉去年为马斯克支付安保费480万美元](https://36kr.com/newsflashes/3791531152186376?f=rss)
@@ -38,6 +43,7 @@
   - [苹果下架256GB入门版Mac Mini，售价涨至799美元起](https://36kr.com/newsflashes/3791561923271685?f=rss)
   - [苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？](https://36kr.com/p/3791662444911617?f=rss)
   - [辉瑞与Arvinas公司乳腺癌新药获得美国FDA批准](https://36kr.com/newsflashes/3791440535788551?f=rss)
+  - [雅诗兰黛：中国大陆连续五个季度市场份额增长](https://36kr.com/newsflashes/3791843421002760?f=rss)
   - [马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT](https://36kr.com/p/3791460373929221?f=rss)
 - 404 Media
   - [Behind the Blog: Big Questions of Consciousness](https://www.404media.co/behind-the-blog-big-questions-of-consciousness/)
@@ -70,6 +76,12 @@
   - [Why GPT’s Mathematical Foundations Cannot Guarantee Reliable Outputs](https://hackernoon.com/why-gpts-mathematical-foundations-cannot-guarantee-reliable-outputs?source=rss)
 - idiallo.com
   - [Editing my LLM assisted articles](https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed)
+- InfoSec Write-ups - Medium
+  - [eCPPT Powershell for Pentesters INE’s CTF 1 : A Practical Attack Story](https://infosecwriteups.com/ecppt-powershell-for-pentesters-ines-ctf-1-a-practical-attack-story-cdb40c55d476?source=rss----7b722bfd1b8d---4)
+  - [Ha-Natraj — LFI Log Poisoning + Apache2 User Hijack + sudo nmap to Root | OffSec PG Play](https://infosecwriteups.com/ha-natraj-lfi-log-poisoning-apache2-user-hijack-sudo-nmap-to-root-offsec-pg-play-dbbd1fa12bee?source=rss----7b722bfd1b8d---4)
+  - [PART 2: I Published a Scam Expose.](https://infosecwriteups.com/part-2-i-published-a-scam-expose-bc420e0bbc00?source=rss----7b722bfd1b8d---4)
+  - [TryHackMe Walkthrough: MBR and GPT Analysis (Beginner to Intermediate Guide)](https://infosecwriteups.com/before-windows-loads-the-hidden-boot-architecture-every-tech-person-should-understand-d2217d9b0b2b?source=rss----7b722bfd1b8d---4)
+  - [When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug.](https://infosecwriteups.com/when-logout-isnt-really-goodbye-a-subtle-data-exposure-bug-271b683ddb9a?source=rss----7b722bfd1b8d---4)
 - MIT Technology Review
   - [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/)
 - Sploitus.com Exploits RSS Feed
@@ -81,12 +93,15 @@
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=2C106F26-E45D-5CCB-B8DE-716E75E4F9EB&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=6AD5A914-B820-5648-AF5E-8379DE029A30&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=78C5767A-8AFB-5ED2-BF94-4CDD266DC9E2&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=85062495-B889-5011-8A79-5B535E725970&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=B930CC5E-9CA7-5ECF-A183-1F669EF3BA2F&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=CB3E6F6E-9DB5-5488-A998-2ACCA2FEEB27&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=F55719A2-6372-5768-9FB8-72F27C0FE545&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=01C65730-15C6-5AC3-AE03-12BEC73FA02F&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=9F256C1B-A510-5540-A856-CBCCDA226C78&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=FA77C8E9-EFCD-5D6A-9A7F-7AC31070980F&utm_source=rss&utm_medium=rss)
   - [Exploit for PHP Remote File Inclusion in Boidcms exploit](https://sploitus.com/exploit?id=3DE71F60-D728-5411-9CF9-3BBDE5384D49&utm_source=rss&utm_medium=rss)
+  - [linux-exploit-study exploit](https://sploitus.com/exploit?id=7FF68FAF-C76E-5AF2-9794-802F6855D7E5&utm_source=rss&utm_medium=rss)
   - [OWASP-Pentest-Suite exploit](https://sploitus.com/exploit?id=87801FE3-A28E-54D7-9AF2-D36063AC3C4A&utm_source=rss&utm_medium=rss)
   - [suricata-detections exploit](https://sploitus.com/exploit?id=CFAE4595-1820-519E-8268-CF021790D959&utm_source=rss&utm_medium=rss)
   - [Xseta-WP-Exploit exploit](https://sploitus.com/exploit?id=97197B36-D0BF-5302-8728-757AF15342F4&utm_source=rss&utm_medium=rss)
@@ -99,6 +114,7 @@
   - [Uber wants to turn its millions of drivers into a sensor grid for self-driving companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
 - The Decoder
   - [Eight tech giants sign Pentagon deals to build an "AI-first fighting force" across classified networks](https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/)
+  - [xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects](https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/)
 - The Verge
   - [All the evidence revealed so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
   - [Amazon&#8217;s built-in AI price history expands to show the entire last year](https://www.theverge.com/tech/922302/amazon-price-tracker-year)
@@ -218,6 +234,7 @@
   - [Therabody Promo Codes: 15% Off May 2026](https://www.wired.com/story/therabody-promo-code/)
   - [Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars](https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/)
 - 不安全
+  - [社交平台Instagram严厉打击内容聚合者](https://buaq.net/go-414199.html)
   - [阅星曈墨水屏阅读器国行版开始限制刷机](https://buaq.net/go-414183.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -225,4 +242,5 @@
   - [OpenAI宣布为其账户提供新的高级安全措施](https://blog.upx8.com/OpenAI%E5%AE%A3%E5%B8%83%E4%B8%BA%E5%85%B6%E8%B4%A6%E6%88%B7%E6%8F%90%E4%BE%9B%E6%96%B0%E7%9A%84%E9%AB%98%E7%BA%A7%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD)
   - [泰勒的深伪视频正在TikTok上推销诈骗](https://blog.upx8.com/%E6%B3%B0%E5%8B%92%E7%9A%84%E6%B7%B1%E4%BC%AA%E8%A7%86%E9%A2%91%E6%AD%A3%E5%9C%A8TikTok%E4%B8%8A%E6%8E%A8%E9%94%80%E8%AF%88%E9%AA%97)
   - [研究发现GPT-5.5在网络安全能力上与备受吹捧的Mythos不相上下](https://blog.upx8.com/%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0GPT-5-5%E5%9C%A8%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%83%BD%E5%8A%9B%E4%B8%8A%E4%B8%8E%E5%A4%87%E5%8F%97%E5%90%B9%E6%8D%A7%E7%9A%84Mythos%E4%B8%8D%E7%9B%B8%E4%B8%8A%E4%B8%8B)
+  - [社交平台Instagram严厉打击内容聚合者](https://blog.upx8.com/%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0Instagram%E4%B8%A5%E5%8E%89%E6%89%93%E5%87%BB%E5%86%85%E5%AE%B9%E8%81%9A%E5%90%88%E8%80%85)
   - [阅星曈墨水屏阅读器国行版开始限制刷机](https://blog.upx8.com/%E9%98%85%E6%98%9F%E6%9B%88%E5%A2%A8%E6%B0%B4%E5%B1%8F%E9%98%85%E8%AF%BB%E5%99%A8%E5%9B%BD%E8%A1%8C%E7%89%88%E5%BC%80%E5%A7%8B%E9%99%90%E5%88%B6%E5%88%B7%E6%9C%BA)
