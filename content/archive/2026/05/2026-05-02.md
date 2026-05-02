@@ -3,8 +3,15 @@
 - 2Libra
   - [【💰】五一假期快乐,🎉 许愿](https://2libra.com/post/personal-life/CIBUpdT)
 - 36氪
+  - [Meta收购机器人AI公司，加速布局人形机器人技术](https://36kr.com/newsflashes/3791455361113344?f=rss)
+  - [五角大楼与七家AI巨头签约，Anthropic遭排除](https://36kr.com/newsflashes/3791458087836675?f=rss)
+  - [受美国拖欠会费等因素影响，世贸组织计划削减10%预算](https://36kr.com/newsflashes/3791443108224008?f=rss)
+  - [沃什执掌美联储后交易难度或上升](https://36kr.com/newsflashes/3791440139033858?f=rss)
   - [特朗普：将于下周对欧盟输美汽车和卡车加征25%关税](https://36kr.com/newsflashes/3790945973296131?f=rss)
   - [美股三大指数收盘涨跌不一，大型科技股多数上涨](https://36kr.com/newsflashes/3791435582544897?f=rss)
+  - [节后首日，将有31只基金齐发](https://36kr.com/newsflashes/3791454829042696?f=rss)
+  - [辉瑞与Arvinas公司乳腺癌新药获得美国FDA批准](https://36kr.com/newsflashes/3791440535788551?f=rss)
+  - [马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT](https://36kr.com/p/3791460373929221?f=rss)
 - 404 Media
   - [Behind the Blog: Big Questions of Consciousness](https://www.404media.co/behind-the-blog-big-questions-of-consciousness/)
   - [China Pressure Canceled World’s Largest Digital Human Rights Conference](https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/)
@@ -14,6 +21,7 @@
   - [Ubuntu infrastructure has been down for more than a day](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/)
 - daringfireball.net
   - [Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet](https://www.bbc.com/news/articles/c5y7yvgy0w6o)
+  - [More on Apple’s Logically Elegant Tariff Refund Puzzle Solution](https://daringfireball.net/linked/2026/05/01/tim-cooks-clever-solution-to-the-tariff-refund-puzzle)
   - [Tim Cook’s Clever Solution to the Tariff Refund Puzzle](https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/)
 - darkreading
   - [76% of All Crypto Stolen in 2026 Is Now in North Korea](https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea)
