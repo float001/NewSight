@@ -3,8 +3,12 @@
 - 2Libra
   - [【💰】五一假期快乐,🎉 许愿](https://2libra.com/post/personal-life/CIBUpdT)
   - [御坂美琴 0502 生日快乐 ！！！](https://2libra.com/post/animation-sharing/N988usy)
+  - [突然不知道坚持什么 或者 为了什么坚持 怎么办？](https://2libra.com/post/small-things/LOECVbY)
+  - [连续签到 66 天！签到勤勉检定大失败，获得 1 金币。大失败！！！](https://2libra.com/post/forum-function/ZsfpDmO)
 - 36氪
+  - [9.35万, 威马破产大甩卖](https://36kr.com/p/3791546608049152?f=rss)
   - [Meta收购机器人AI公司，加速布局人形机器人技术](https://36kr.com/newsflashes/3791455361113344?f=rss)
+  - [上汽大通4月销量23860辆，同比增长35%](https://36kr.com/newsflashes/3791563859893512?f=rss)
   - [上海4月二手房网签量创近10年同期新高](https://36kr.com/newsflashes/3791457372183558?f=rss)
   - [五角大楼与七家AI巨头签约，Anthropic遭排除](https://36kr.com/newsflashes/3791458087836675?f=rss)
   - [今天全国铁路预计发送旅客1970万人次](https://36kr.com/newsflashes/3791559898078209?f=rss)
@@ -15,8 +19,10 @@
   - [特朗普：将于下周对欧盟输美汽车和卡车加征25%关税](https://36kr.com/newsflashes/3790945973296131?f=rss)
   - [续集没翻车 ，但这次“女魔头”也顶不住了](https://36kr.com/p/3791555958922504?f=rss)
   - [美联储6月维持利率不变的概率为92.8%](https://36kr.com/newsflashes/3791567088704773?f=rss)
+  - [美联储副主席鲍曼：监管机构必须考虑如何应对Mythos等新技术](https://36kr.com/newsflashes/3791559252466950?f=rss)
   - [美股三大指数收盘涨跌不一，大型科技股多数上涨](https://36kr.com/newsflashes/3791435582544897?f=rss)
   - [节后首日，将有31只基金齐发](https://36kr.com/newsflashes/3791454829042696?f=rss)
+  - [苹果下架256GB入门版Mac Mini，售价涨至799美元起](https://36kr.com/newsflashes/3791561923271685?f=rss)
   - [辉瑞与Arvinas公司乳腺癌新药获得美国FDA批准](https://36kr.com/newsflashes/3791440535788551?f=rss)
   - [马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT](https://36kr.com/p/3791460373929221?f=rss)
 - 404 Media
@@ -59,6 +65,7 @@
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=CB3E6F6E-9DB5-5488-A998-2ACCA2FEEB27&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=01C65730-15C6-5AC3-AE03-12BEC73FA02F&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=FA77C8E9-EFCD-5D6A-9A7F-7AC31070980F&utm_source=rss&utm_medium=rss)
+  - [Exploit for PHP Remote File Inclusion in Boidcms exploit](https://sploitus.com/exploit?id=3DE71F60-D728-5411-9CF9-3BBDE5384D49&utm_source=rss&utm_medium=rss)
   - [OWASP-Pentest-Suite exploit](https://sploitus.com/exploit?id=87801FE3-A28E-54D7-9AF2-D36063AC3C4A&utm_source=rss&utm_medium=rss)
   - [suricata-detections exploit](https://sploitus.com/exploit?id=CFAE4595-1820-519E-8268-CF021790D959&utm_source=rss&utm_medium=rss)
   - [Xseta-WP-Exploit exploit](https://sploitus.com/exploit?id=97197B36-D0BF-5302-8728-757AF15342F4&utm_source=rss&utm_medium=rss)
@@ -170,4 +177,5 @@
 - 黑海洋
   - [OpenAI宣布为其账户提供新的高级安全措施](https://blog.upx8.com/OpenAI%E5%AE%A3%E5%B8%83%E4%B8%BA%E5%85%B6%E8%B4%A6%E6%88%B7%E6%8F%90%E4%BE%9B%E6%96%B0%E7%9A%84%E9%AB%98%E7%BA%A7%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD)
   - [泰勒的深伪视频正在TikTok上推销诈骗](https://blog.upx8.com/%E6%B3%B0%E5%8B%92%E7%9A%84%E6%B7%B1%E4%BC%AA%E8%A7%86%E9%A2%91%E6%AD%A3%E5%9C%A8TikTok%E4%B8%8A%E6%8E%A8%E9%94%80%E8%AF%88%E9%AA%97)
+  - [研究发现GPT-5.5在网络安全能力上与备受吹捧的Mythos不相上下](https://blog.upx8.com/%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0GPT-5-5%E5%9C%A8%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%83%BD%E5%8A%9B%E4%B8%8A%E4%B8%8E%E5%A4%87%E5%8F%97%E5%90%B9%E6%8D%A7%E7%9A%84Mythos%E4%B8%8D%E7%9B%B8%E4%B8%8A%E4%B8%8B)
   - [阅星曈墨水屏阅读器国行版开始限制刷机](https://blog.upx8.com/%E9%98%85%E6%98%9F%E6%9B%88%E5%A2%A8%E6%B0%B4%E5%B1%8F%E9%98%85%E8%AF%BB%E5%99%A8%E5%9B%BD%E8%A1%8C%E7%89%88%E5%BC%80%E5%A7%8B%E9%99%90%E5%88%B6%E5%88%B7%E6%9C%BA)
