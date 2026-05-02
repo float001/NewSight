@@ -2,12 +2,19 @@
 
 - 2Libra
   - [【💰】五一假期快乐,🎉 许愿](https://2libra.com/post/personal-life/CIBUpdT)
+  - [御坂美琴 0502 生日快乐 ！！！](https://2libra.com/post/animation-sharing/N988usy)
 - 36氪
   - [Meta收购机器人AI公司，加速布局人形机器人技术](https://36kr.com/newsflashes/3791455361113344?f=rss)
+  - [上海4月二手房网签量创近10年同期新高](https://36kr.com/newsflashes/3791457372183558?f=rss)
   - [五角大楼与七家AI巨头签约，Anthropic遭排除](https://36kr.com/newsflashes/3791458087836675?f=rss)
+  - [今天全国铁路预计发送旅客1970万人次](https://36kr.com/newsflashes/3791559898078209?f=rss)
   - [受美国拖欠会费等因素影响，世贸组织计划削减10%预算](https://36kr.com/newsflashes/3791443108224008?f=rss)
+  - [新一代SU7锁单超7万台](https://36kr.com/newsflashes/3791527856037124?f=rss)
   - [沃什执掌美联储后交易难度或上升](https://36kr.com/newsflashes/3791440139033858?f=rss)
+  - [特斯拉去年为马斯克支付安保费480万美元](https://36kr.com/newsflashes/3791531152186376?f=rss)
   - [特朗普：将于下周对欧盟输美汽车和卡车加征25%关税](https://36kr.com/newsflashes/3790945973296131?f=rss)
+  - [续集没翻车 ，但这次“女魔头”也顶不住了](https://36kr.com/p/3791555958922504?f=rss)
+  - [美联储6月维持利率不变的概率为92.8%](https://36kr.com/newsflashes/3791567088704773?f=rss)
   - [美股三大指数收盘涨跌不一，大型科技股多数上涨](https://36kr.com/newsflashes/3791435582544897?f=rss)
   - [节后首日，将有31只基金齐发](https://36kr.com/newsflashes/3791454829042696?f=rss)
   - [辉瑞与Arvinas公司乳腺癌新药获得美国FDA批准](https://36kr.com/newsflashes/3791440535788551?f=rss)
@@ -38,12 +45,16 @@
   - [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
 - HackerNoon
   - [Why GPT’s Mathematical Foundations Cannot Guarantee Reliable Outputs](https://hackernoon.com/why-gpts-mathematical-foundations-cannot-guarantee-reliable-outputs?source=rss)
+- idiallo.com
+  - [Editing my LLM assisted articles](https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed)
 - MIT Technology Review
   - [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Code Injection in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=2304888E-D711-5136-9188-D8C3C876EA64&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=1B91CFD3-6DA7-5F7F-85A1-B9F4D8346CDA&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=2C106F26-E45D-5CCB-B8DE-716E75E4F9EB&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=6AD5A914-B820-5648-AF5E-8379DE029A30&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=78C5767A-8AFB-5ED2-BF94-4CDD266DC9E2&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=B930CC5E-9CA7-5ECF-A183-1F669EF3BA2F&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=CB3E6F6E-9DB5-5488-A998-2ACCA2FEEB27&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=01C65730-15C6-5AC3-AE03-12BEC73FA02F&utm_source=rss&utm_medium=rss)
@@ -152,8 +163,11 @@
   - [The Chinese Government Just Got the World’s Largest Digital Rights Conference Canceled](https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/)
   - [The Next Alzheimer’s Breakthrough Will Take More Than Just Science](https://www.wired.com/story/john-hardy-dementia-wired-health/)
   - [Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars](https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/)
+- 不安全
+  - [阅星曈墨水屏阅读器国行版开始限制刷机](https://buaq.net/go-414183.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
   - [OpenAI宣布为其账户提供新的高级安全措施](https://blog.upx8.com/OpenAI%E5%AE%A3%E5%B8%83%E4%B8%BA%E5%85%B6%E8%B4%A6%E6%88%B7%E6%8F%90%E4%BE%9B%E6%96%B0%E7%9A%84%E9%AB%98%E7%BA%A7%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD)
   - [泰勒的深伪视频正在TikTok上推销诈骗](https://blog.upx8.com/%E6%B3%B0%E5%8B%92%E7%9A%84%E6%B7%B1%E4%BC%AA%E8%A7%86%E9%A2%91%E6%AD%A3%E5%9C%A8TikTok%E4%B8%8A%E6%8E%A8%E9%94%80%E8%AF%88%E9%AA%97)
+  - [阅星曈墨水屏阅读器国行版开始限制刷机](https://blog.upx8.com/%E9%98%85%E6%98%9F%E6%9B%88%E5%A2%A8%E6%B0%B4%E5%B1%8F%E9%98%85%E8%AF%BB%E5%99%A8%E5%9B%BD%E8%A1%8C%E7%89%88%E5%BC%80%E5%A7%8B%E9%99%90%E5%88%B6%E5%88%B7%E6%9C%BA)
