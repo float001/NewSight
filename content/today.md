@@ -1,6 +1,15 @@
 # 今日安全资讯（2026-05-03）
 
+- Shells.Systems
+  - [Chaining ISC DHCP Server Features for Unauthenticated Root Remote Code Execution](https://shells.systems/chaining-isc-dhcp-server-features-for-unauthenticated-root-remote-code-execution/)
 - TechCrunch
   - [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)
+- The Verge
+  - [Aura’s delightful Aspen photo frame is on sale for $30 off this weekend](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale)
+- VulDB Recent Entries
+  - [CVE-2026-7686 | eyeo Adblock Plus up to 4.36.2 on Chrome Legacy Premium Activation premium.preload.js postMessage access control](https://vuldb.com/vuln/360856)
+  - [CVE-2026-7687 | langflow-ai langflow up to 1.8.4 Full Builtins code_parser.py CodeParser.parse_callable_details command injection](https://vuldb.com/vuln/360857)
+  - [CVE-2026-7688 | Dolibarr ERP CRM up to 23.0.2 Shipments API Endpoint expedition.class.php _checkValForAPI fields sql injection](https://vuldb.com/vuln/360858)
+  - [CVE-2026-7689 | Dolibarr ERP CRM up to 23.0.2 Online Signature security.lib.php dol_verifyHash signature verification](https://vuldb.com/vuln/360859)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
