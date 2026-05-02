@@ -28,6 +28,7 @@
   - [受美国拖欠会费等因素影响，世贸组织计划削减10%预算](https://36kr.com/newsflashes/3791443108224008?f=rss)
   - [周杰伦伙伴，要被卖了](https://36kr.com/p/3791838183234816?f=rss)
   - [国际海事组织决定加开会议商讨净零排放框架](https://36kr.com/newsflashes/3791671614462984?f=rss)
+  - [在硅谷，中美具身公司聊了聊了4个问题的解法](https://36kr.com/p/3792155815304450?f=rss)
   - [巴西石油公司第一季度对美出口降至零](https://36kr.com/newsflashes/3791572988828935?f=rss)
   - [新一代SU7锁单超7万台](https://36kr.com/newsflashes/3791527856037124?f=rss)
   - [日本央行前行长黑田东彦称2%的通胀目标已实现](https://36kr.com/newsflashes/3791696180059392?f=rss)
@@ -54,6 +55,7 @@
 - 404 Media
   - [Behind the Blog: Big Questions of Consciousness](https://www.404media.co/behind-the-blog-big-questions-of-consciousness/)
   - [China Pressure Canceled World’s Largest Digital Human Rights Conference](https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/)
+  - [This Personality Trait Makes Dreams More Bizarre, Scientists Discover](https://www.404media.co/this-personality-trait-makes-dreams-more-bizarre-scientists-discover/)
 - Ars Technica
   - [Scorpions go terminator mode and reinforce their weapons with metal](https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/)
   - [Study: AI models that consider user's feeling are more likely to make errors](https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/)
@@ -71,12 +73,14 @@
   - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
   - [Credit Cards Are Vulnerable to Brute Force Kind Attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
   - [Flock cameras keep telling police a man who doesn't have a warrant has a warrant](https://www.youtube.com/watch?v=nHwxV0Sd9V8)
+  - [Open Design: Use Your Coding Agent as a Design Engine](https://github.com/nexu-io/open-design)
   - [Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/)
   - [Pushed by Trump policies, top U.S. battery scientist is moving to Singapore](https://www.science.org/content/article/pushed-trump-policies-top-u-s-battery-scientist-moving-singapore)
   - [Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)
   - [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/)
   - [Show HN: My Private GitHub on Postgres](https://github.com/calebwin/gitgres)
   - [Spirit Airlines Is Winding Down All Operations](https://www.spiritrestructuring.com/)
+  - [The Century-Long Pause in Fundamental Physics](https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics)
   - [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
   - [Uber Torches 2026 AI Budget on Claude Code in Four Months](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
   - [What did you love about VB6?](https://evilgeniuslabs.ca/blog/vb6-modern-dotnet-question)
@@ -98,6 +102,7 @@
 - Recent Commits to cve:main
   - [Update Sat May  2 11:22:26 UTC 2026](https://github.com/trickest/cve/commit/8859c745e6c14d7d268e112d458ebba4f69118f1)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Frangoteam Fuxa exploit](https://sploitus.com/exploit?id=36B09711-9C64-5523-AE62-87CB12AF58B3&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=2304888E-D711-5136-9188-D8C3C876EA64&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42167 exploit](https://sploitus.com/exploit?id=EE17E53E-C92B-5F91-BF4B-9E9511471132&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Apache Mina exploit](https://sploitus.com/exploit?id=81E26AF9-DF79-5E5C-8AFA-8994AD840D4D&utm_source=rss&utm_medium=rss)
@@ -136,6 +141,7 @@
   - [Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company](https://the-decoder.com/elon-musk-calls-himself-a-fool-for-giving-openai-38-million-that-became-an-800-billion-company/)
   - [Nvidia CEO Jensen Huang calls out tech leaders' "god complex" over reckless AI job loss predictions](https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/)
   - [xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects](https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/)
+  - [xAI's new Custom Voices feature turns a minute of speech into a usable voice clone](https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/)
 - The Verge
   - [All the evidence revealed so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
   - [Amazon&#8217;s built-in AI price history expands to show the entire last year](https://www.theverge.com/tech/922302/amazon-price-tracker-year)
@@ -297,6 +303,7 @@
 - 黑海洋
   - [OpenAI宣布为其账户提供新的高级安全措施](https://blog.upx8.com/OpenAI%E5%AE%A3%E5%B8%83%E4%B8%BA%E5%85%B6%E8%B4%A6%E6%88%B7%E6%8F%90%E4%BE%9B%E6%96%B0%E7%9A%84%E9%AB%98%E7%BA%A7%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD)
   - [中国完成5G小区广播预警应用商用验证](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%AE%8C%E6%88%905G%E5%B0%8F%E5%8C%BA%E5%B9%BF%E6%92%AD%E9%A2%84%E8%AD%A6%E5%BA%94%E7%94%A8%E5%95%86%E7%94%A8%E9%AA%8C%E8%AF%81)
+  - [中国首支机器人交警中队在杭州正式上岗](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%94%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%A4%E8%AD%A6%E4%B8%AD%E9%98%9F%E5%9C%A8%E6%9D%AD%E5%B7%9E%E6%AD%A3%E5%BC%8F%E4%B8%8A%E5%B2%97)
   - [亚马逊价格历史功能现在将显示一年的信息](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%BB%B7%E6%A0%BC%E5%8E%86%E5%8F%B2%E5%8A%9F%E8%83%BD%E7%8E%B0%E5%9C%A8%E5%B0%86%E6%98%BE%E7%A4%BA%E4%B8%80%E5%B9%B4%E7%9A%84%E4%BF%A1%E6%81%AF)
   - [泰勒的深伪视频正在TikTok上推销诈骗](https://blog.upx8.com/%E6%B3%B0%E5%8B%92%E7%9A%84%E6%B7%B1%E4%BC%AA%E8%A7%86%E9%A2%91%E6%AD%A3%E5%9C%A8TikTok%E4%B8%8A%E6%8E%A8%E9%94%80%E8%AF%88%E9%AA%97)
   - [研究发现GPT-5.5在网络安全能力上与备受吹捧的Mythos不相上下](https://blog.upx8.com/%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0GPT-5-5%E5%9C%A8%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%83%BD%E5%8A%9B%E4%B8%8A%E4%B8%8E%E5%A4%87%E5%8F%97%E5%90%B9%E6%8D%A7%E7%9A%84Mythos%E4%B8%8D%E7%9B%B8%E4%B8%8A%E4%B8%8B)
