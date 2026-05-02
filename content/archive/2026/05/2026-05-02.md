@@ -2,6 +2,9 @@
 
 - 2Libra
   - [【💰】五一假期快乐,🎉 许愿](https://2libra.com/post/personal-life/CIBUpdT)
+- 36氪
+  - [特朗普：将于下周对欧盟输美汽车和卡车加征25%关税](https://36kr.com/newsflashes/3790945973296131?f=rss)
+  - [美股三大指数收盘涨跌不一，大型科技股多数上涨](https://36kr.com/newsflashes/3791435582544897?f=rss)
 - 404 Media
   - [Behind the Blog: Big Questions of Consciousness](https://www.404media.co/behind-the-blog-big-questions-of-consciousness/)
   - [China Pressure Canceled World’s Largest Digital Human Rights Conference](https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/)
@@ -23,6 +26,7 @@
   - [Show HN: My Private GitHub on Postgres](https://github.com/calebwin/gitgres)
   - [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
   - [Uber Torches 2026 AI Budget on Claude Code in Four Months](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
+  - [What did you love about VB6?](https://evilgeniuslabs.ca/blog/vb6-modern-dotnet-question)
   - [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
 - HackerNoon
   - [Why GPT’s Mathematical Foundations Cannot Guarantee Reliable Outputs](https://hackernoon.com/why-gpts-mathematical-foundations-cannot-guarantee-reliable-outputs?source=rss)
@@ -143,4 +147,5 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [OpenAI宣布为其账户提供新的高级安全措施](https://blog.upx8.com/OpenAI%E5%AE%A3%E5%B8%83%E4%B8%BA%E5%85%B6%E8%B4%A6%E6%88%B7%E6%8F%90%E4%BE%9B%E6%96%B0%E7%9A%84%E9%AB%98%E7%BA%A7%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD)
   - [泰勒的深伪视频正在TikTok上推销诈骗](https://blog.upx8.com/%E6%B3%B0%E5%8B%92%E7%9A%84%E6%B7%B1%E4%BC%AA%E8%A7%86%E9%A2%91%E6%AD%A3%E5%9C%A8TikTok%E4%B8%8A%E6%8E%A8%E9%94%80%E8%AF%88%E9%AA%97)
