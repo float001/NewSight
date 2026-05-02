@@ -72,6 +72,7 @@
   - [Credit Cards Are Vulnerable to Brute Force Kind Attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
   - [Flock cameras keep telling police a man who doesn't have a warrant has a warrant](https://www.youtube.com/watch?v=nHwxV0Sd9V8)
   - [Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/)
+  - [Pushed by Trump policies, top U.S. battery scientist is moving to Singapore](https://www.science.org/content/article/pushed-trump-policies-top-u-s-battery-scientist-moving-singapore)
   - [Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)
   - [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/)
   - [Show HN: My Private GitHub on Postgres](https://github.com/calebwin/gitgres)
@@ -92,6 +93,10 @@
   - [When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug.](https://infosecwriteups.com/when-logout-isnt-really-goodbye-a-subtle-data-exposure-bug-271b683ddb9a?source=rss----7b722bfd1b8d---4)
 - MIT Technology Review
   - [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/)
+- pluralistic.net
+  - [Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)](https://pluralistic.net/2026/05/02/denazification/)
+- Recent Commits to cve:main
+  - [Update Sat May  2 11:22:26 UTC 2026](https://github.com/trickest/cve/commit/8859c745e6c14d7d268e112d458ebba4f69118f1)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Code Injection in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=2304888E-D711-5136-9188-D8C3C876EA64&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42167 exploit](https://sploitus.com/exploit?id=EE17E53E-C92B-5F91-BF4B-9E9511471132&utm_source=rss&utm_medium=rss)
@@ -255,6 +260,10 @@
   - [CVE-2026-7679 | YunaiV yudao-cloud up to 2026.01 OAuth2TokenServiceImpl.java getAccessToken improper authentication](https://vuldb.com/vuln/360832)
   - [CVE-2026-7680 | jsbroks COCO Annotator up to 0.11.1 Data Endpoint datasets.py folder path traversal](https://vuldb.com/vuln/360833)
   - [CVE-2026-7681 | jsbroks COCO Annotator up to 0.11.1 Dataset API datasets.py DatasetId authorization](https://vuldb.com/vuln/360834)
+  - [CVE-2026-7682 | Edimax BR-6208AC 1.02 L2TP Mode /goform/setWAN L2TPUserName command injection](https://vuldb.com/vuln/360841)
+  - [CVE-2026-7683 | Edimax BR-6428nC up to 1.16 Web Interface /goform/setWAN pppUserName/pptpUserName command injection](https://vuldb.com/vuln/360842)
+  - [CVE-2026-7684 | Edimax BR-6428nC up to 1.16 /goform/setWAN pptpDfGateway  buffer overflow](https://vuldb.com/vuln/360843)
+  - [CVE-2026-7685 | Edimax BR-6208AC up to 1.02 /goform/setWAN pptpDfGateway  buffer overflow](https://vuldb.com/vuln/360844)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Handling the Vulnerability Surge in the Post-Mythos Era](https://blog.qualys.com/category/qualys-insights)
 - Wired
@@ -278,6 +287,7 @@
   - [The Next Alzheimer’s Breakthrough Will Take More Than Just Science](https://www.wired.com/story/john-hardy-dementia-wired-health/)
   - [Therabody Promo Codes: 15% Off May 2026](https://www.wired.com/story/therabody-promo-code/)
   - [Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars](https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/)
+  - [What You Need to Know About the Foreign-Made Router Ban in the US](https://www.wired.com/story/us-government-foreign-made-router-ban-explained/)
 - 不安全
   - [中国完成5G小区广播预警应用商用验证](https://buaq.net/go-414217.html)
   - [社交平台Instagram严厉打击内容聚合者](https://buaq.net/go-414199.html)
@@ -287,6 +297,7 @@
 - 黑海洋
   - [OpenAI宣布为其账户提供新的高级安全措施](https://blog.upx8.com/OpenAI%E5%AE%A3%E5%B8%83%E4%B8%BA%E5%85%B6%E8%B4%A6%E6%88%B7%E6%8F%90%E4%BE%9B%E6%96%B0%E7%9A%84%E9%AB%98%E7%BA%A7%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD)
   - [中国完成5G小区广播预警应用商用验证](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%AE%8C%E6%88%905G%E5%B0%8F%E5%8C%BA%E5%B9%BF%E6%92%AD%E9%A2%84%E8%AD%A6%E5%BA%94%E7%94%A8%E5%95%86%E7%94%A8%E9%AA%8C%E8%AF%81)
+  - [亚马逊价格历史功能现在将显示一年的信息](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%BB%B7%E6%A0%BC%E5%8E%86%E5%8F%B2%E5%8A%9F%E8%83%BD%E7%8E%B0%E5%9C%A8%E5%B0%86%E6%98%BE%E7%A4%BA%E4%B8%80%E5%B9%B4%E7%9A%84%E4%BF%A1%E6%81%AF)
   - [泰勒的深伪视频正在TikTok上推销诈骗](https://blog.upx8.com/%E6%B3%B0%E5%8B%92%E7%9A%84%E6%B7%B1%E4%BC%AA%E8%A7%86%E9%A2%91%E6%AD%A3%E5%9C%A8TikTok%E4%B8%8A%E6%8E%A8%E9%94%80%E8%AF%88%E9%AA%97)
   - [研究发现GPT-5.5在网络安全能力上与备受吹捧的Mythos不相上下](https://blog.upx8.com/%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0GPT-5-5%E5%9C%A8%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%83%BD%E5%8A%9B%E4%B8%8A%E4%B8%8E%E5%A4%87%E5%8F%97%E5%90%B9%E6%8D%A7%E7%9A%84Mythos%E4%B8%8D%E7%9B%B8%E4%B8%8A%E4%B8%8B)
   - [社交平台Instagram严厉打击内容聚合者](https://blog.upx8.com/%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0Instagram%E4%B8%A5%E5%8E%89%E6%89%93%E5%87%BB%E5%86%85%E5%AE%B9%E8%81%9A%E5%90%88%E8%80%85)
