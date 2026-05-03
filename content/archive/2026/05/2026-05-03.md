@@ -52,6 +52,8 @@
   - [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
 - Shells.Systems
   - [Chaining ISC DHCP Server Features for Unauthenticated Root Remote Code Execution](https://shells.systems/chaining-isc-dhcp-server-features-for-unauthenticated-root-remote-code-execution/)
+- shkspr.mobi
+  - [Vertically Aligning Roman Numerals in Code](https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/)
 - simonwillison.net
   - [Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -80,6 +82,7 @@
   - [Same prompt, different morals: how frontier AI models diverge on ethical dilemmas](https://the-decoder.com/same-prompt-different-morals-how-frontier-ai-models-diverge-on-ethical-dilemmas/)
   - [Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding](https://the-decoder.com/xiaomis-open-weight-mimo-v2-5-pro-takes-aim-at-claude-opus-with-hours-long-autonomous-coding/)
 - The Verge
+  - [AI music is flooding streaming services — but who wants it?](https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it)
   - [Aura’s delightful Aspen photo frame is on sale for $30 off this weekend](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale)
   - [Meta&#8217;s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety)
   - [Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices](https://www.theverge.com/business/922788/spirit-airlines-shutdown)
@@ -165,8 +168,12 @@
   - [CVE-2026-7689 Dolibarr ERP CRM Online Signature security.lib.php dol_verifyHash signature verification](https://vulners.com/cve/CVE-2026-7689?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7689 Dolibarr ERP CRM Online Signature security.lib.php dol_verifyHash signature verification](https://vulners.com/cvelist/CVELIST:CVE-2026-7689?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7690](https://vulners.com/nvd/NVD:CVE-2026-7690?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7691](https://vulners.com/nvd/NVD:CVE-2026-7691?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7691 Wavlink WL-WN570HA1 adm.cgi set_sys_cmd command injection](https://vulners.com/cve/CVE-2026-7691?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7691 Wavlink WL-WN570HA1 adm.cgi set_sys_cmd command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-7691?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7692](https://vulners.com/nvd/NVD:CVE-2026-7692?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7694 Acrel Electrical ECEMS Enterprise Microgrid Energy Efficiency Management System elecMaxMinAvgValue sql injection](https://vulners.com/cve/CVE-2026-7694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7694 Acrel Electrical ECEMS Enterprise Microgrid Energy Efficiency Management System elecMaxMinAvgValue sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-7694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Cross-site Scripting in Jquery](https://vulners.com/githubexploit/25AC7626-2C6F-58FA-8F54-4A592B74B7B2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-29000](https://vulners.com/githubexploit/C1584E98-D17D-541C-95E4-E1976A04C575?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/0249870D-3C61-59E0-9BE6-D5981E0A1412?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -179,6 +186,7 @@
   - [Webmin-1.910-Exploit-Script](https://vulners.com/githubexploit/C0611526-E7AA-50E2-897D-A94E631ABBE2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [15 Best Gifts for Plant Lovers and Gardeners (2026)](https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners/)
+  - [Asus Zenbook A16 (2026) Review: Savor the Power, Ignore the Beige](https://www.wired.com/review/asus-zenbook-a16-2026/)
   - [Best Travel Tote Bags for Every Kind of Excursion (2026): Away, Le Pliage, Topo Designs](https://www.wired.com/gallery/best-travel-tote/)
   - [Coway Airmega Mighty2 Review: The Sequel Is Better Than the Original](https://www.wired.com/review/coway-airmega-mighty2/)
   - [How to Track Your Luggage (2026): AirTag, Pebblebee, CaseSafe](https://www.wired.com/story/how-to-track-your-luggage/)
