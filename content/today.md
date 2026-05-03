@@ -3,6 +3,8 @@
 - 2Libra
   - [100 收 chatgpt free business 空间账号](https://2libra.com/post/second-hand/25ChLIa)
   - [三天了，都没有大成功](https://2libra.com/post/forum-function/pKmybrP)
+  - [五一被临时通知加班](https://2libra.com/post/office-life/esA08L1)
+  - [今天驱车 300 公里](https://2libra.com/post/travel-logs/1w5dN19)
   - [夜猫子徽章拿到 🦉](https://2libra.com/post/forum-function/Kj6GvQs)
   - [求一个奶昔论坛的邀请码](https://2libra.com/post/invite-code/iz8eksW)
   - [立场互换：开车时候骂骑小电动的，骑小电动的时候骂开车的。](https://2libra.com/post/social-observation/9zKkBzh)
@@ -12,6 +14,7 @@
   - [A股2025年销售毛利率排行榜：医药生物+计算机两大行业霸榜](https://36kr.com/newsflashes/3793150367849735?f=rss)
   - [“五一”假期第二日广东4A级及以上景区接待游客394.2万人次，同比增长5.2%](https://36kr.com/newsflashes/3792906773535751?f=rss)
   - [“开市客北京”已申请注销公司](https://36kr.com/newsflashes/3793127649500168?f=rss)
+  - [三星继承人已付清12万亿韩元遗产税](https://36kr.com/newsflashes/3793156139195401?f=rss)
   - [中东局势扰动全球市场 欧佩克+原则上同意6月增产](https://36kr.com/newsflashes/3793152990387207?f=rss)
   - [义龙庆高速公路首座隧道双幅贯通](https://36kr.com/newsflashes/3793012553784329?f=rss)
   - [今天全国高速公路车流量预计超6300万辆次](https://36kr.com/newsflashes/3792907681357061?f=rss)
@@ -29,6 +32,7 @@
   - [第二艘油轮经红海向韩国运送原油](https://36kr.com/newsflashes/3793008686439426?f=rss)
   - [第四届链博会哥斯达黎加推介会成功举办](https://36kr.com/newsflashes/3793151671720963?f=rss)
   - [网信部门严管“自媒体”未规范标注信息来源行为](https://36kr.com/newsflashes/3792999844338951?f=rss)
+  - [越南1-4月咖啡出口量同比增长16%，至81万吨](https://36kr.com/newsflashes/3793157858073608?f=rss)
   - [铁路12306回应热门车次开售即售罄](https://36kr.com/newsflashes/3793128720112647?f=rss)
   - [长江下75米 海太长江隧道工程施工抵达江底最深处](https://36kr.com/newsflashes/3792985405299721?f=rss)
   - [雨雾影响通行 湘皖鄂共11个路段关闭收费站](https://36kr.com/newsflashes/3792910457740544?f=rss)
@@ -50,6 +54,7 @@
 - simonwillison.net
   - [Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Cross-site Scripting in Jquery exploit](https://sploitus.com/exploit?id=25AC7626-2C6F-58FA-8F54-4A592B74B7B2&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-29000 exploit](https://sploitus.com/exploit?id=C1584E98-D17D-541C-95E4-E1976A04C575&utm_source=rss&utm_medium=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Openbsd Openssh exploit](https://sploitus.com/exploit?id=A4C45A40-ADC5-50EF-8FFC-4047AA0F987B&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Neutralization of Line Delimiters in Cacti exploit](https://sploitus.com/exploit?id=8B1FECF4-FFC4-55F3-AC07-E77BCBC344F7&utm_source=rss&utm_medium=rss)
@@ -69,6 +74,7 @@
   - [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)
 - The Decoder
   - [China is falling behind in the AI race, according to a US government benchmark](https://the-decoder.com/china-is-falling-behind-in-the-ai-race-according-to-a-us-government-benchmark/)
+  - [Microsoft caught sneaking "Co-Authored-by Copilot" into VS Code commits - even with AI off](https://the-decoder.com/co-pilot-becomes-a-co-author-in-vs-code-without-being-asked/)
   - [MIT study explains why scaling language models works so reliably](https://the-decoder.com/mit-study-explains-why-scaling-language-models-works-so-reliably/)
   - [Same prompt, different morals: how frontier AI models diverge on ethical dilemmas](https://the-decoder.com/same-prompt-different-morals-how-frontier-ai-models-diverge-on-ethical-dilemmas/)
   - [Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding](https://the-decoder.com/xiaomis-open-weight-mimo-v2-5-pro-takes-aim-at-claude-opus-with-hours-long-autonomous-coding/)
@@ -107,6 +113,10 @@
   - [CVE-2026-7719 | Totolink WA300 5.2cu.7112_B20190227 POST Request /cgi-bin/cstecgi.cgi loginauth http_host buffer overflow](https://vuldb.com/vuln/360895)
   - [CVE-2026-7720 | Totolink WA300 5.2cu.7112_B20190227 POST Request /cgi-bin/cstecgi.cgi setLanguageCfg langType command injection](https://vuldb.com/vuln/360896)
   - [CVE-2026-7721 | Totolink WA300 5.2cu.7112_B20190227 /cgi-bin/cstecgi.cgi NTPSyncWithHost hostTime command injection](https://vuldb.com/vuln/360897)
+  - [CVE-2026-7722 | PrefectHQ prefect up to 3.6.21 Health Check API /api/health endswith improper authentication](https://vuldb.com/vuln/360898)
+  - [CVE-2026-7723 | PrefectHQ prefect up to 3.6.13 WebSocket Endpoint /api/events/in missing authentication](https://vuldb.com/vuln/360899)
+  - [CVE-2026-7724 | PrefectHQ prefect up to 3.6.28.dev1 Webhook/Notification validate_restricted_url toctou](https://vuldb.com/vuln/360900)
+  - [CVE-2026-7725 | PrefectHQ prefect up to 3.6.25.dev6 GitRepository Pull storage.py commit_sha/directories argument injection](https://vuldb.com/vuln/360901)
 - Vulners.com RSS Feed
   - [[SECURITY] Fedora 42 Update: insight-18.0.50.20260306-3.fc42](https://vulners.com/fedora/FEDORA:EDDC17ED80?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 42 Update: rust-sequoia-git-0.6.0-1.fc42](https://vulners.com/fedora/FEDORA:353996DABC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -146,6 +156,12 @@
   - [CVE-2026-7685](https://vulners.com/nvd/NVD:CVE-2026-7685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7686](https://vulners.com/nvd/NVD:CVE-2026-7686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7686 eyeo Adblock Plus Legacy Premium Activation premium.preload.js postMessage access control](https://vulners.com/cvelist/CVELIST:CVE-2026-7686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7687](https://vulners.com/nvd/NVD:CVE-2026-7687?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7688 Dolibarr ERP CRM Shipments API Endpoint expedition.class.php _checkValForAPI sql injection](https://vulners.com/cve/CVE-2026-7688?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7688 Dolibarr ERP CRM Shipments API Endpoint expedition.class.php _checkValForAPI sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-7688?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7689 Dolibarr ERP CRM Online Signature security.lib.php dol_verifyHash signature verification](https://vulners.com/cve/CVE-2026-7689?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7689 Dolibarr ERP CRM Online Signature security.lib.php dol_verifyHash signature verification](https://vulners.com/cvelist/CVELIST:CVE-2026-7689?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Cross-site Scripting in Jquery](https://vulners.com/githubexploit/25AC7626-2C6F-58FA-8F54-4A592B74B7B2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-29000](https://vulners.com/githubexploit/C1584E98-D17D-541C-95E4-E1976A04C575?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/0249870D-3C61-59E0-9BE6-D5981E0A1412?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/20851882-C949-5F96-940A-3AF7B9A460B4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -157,6 +173,7 @@
   - [Webmin-1.910-Exploit-Script](https://vulners.com/githubexploit/C0611526-E7AA-50E2-897D-A94E631ABBE2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Coway Airmega Mighty2 Review: The Sequel Is Better Than the Original](https://www.wired.com/review/coway-airmega-mighty2/)
+  - [KitchenAid Artisan Plus Stand Mixer Review: Tiny Additions, Big Difference](https://www.wired.com/review/kitchenaid-artisan-plus-stand-mixer/)
 - 不安全
   - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://buaq.net/go-414275.html)
   - [问答搜索引擎先驱Ask.com网站正式关闭](https://buaq.net/go-414278.html)
