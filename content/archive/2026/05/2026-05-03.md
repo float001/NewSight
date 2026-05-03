@@ -3,9 +3,14 @@
 - 2Libra
   - [夜猫子徽章拿到 🦉](https://2libra.com/post/forum-function/Kj6GvQs)
 - 36氪
+  - [2026五一档新片票房破4亿](https://36kr.com/newsflashes/3792811412806913?f=rss)
+  - [“五一”假期第二日广东4A级及以上景区接待游客394.2万人次，同比增长5.2%](https://36kr.com/newsflashes/3792906773535751?f=rss)
+  - [今日全国铁路预计发送旅客1855万人次](https://36kr.com/newsflashes/3792906088291584?f=rss)
+  - [广汽国际：1—4月出口量同比增长133.9%](https://36kr.com/newsflashes/3792810932804872?f=rss)
   - [本田将对自动驾驶AI软件初创公司helm_ai追加投资](https://36kr.com/newsflashes/3792810419543301?f=rss)
 - Hacker News Frontpage
   - [Ask HN: Is the Job Market Actually Bad?](https://news.ycombinator.com/item?id=47988268)
+  - [Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
   - [Roblox shares plummet 18% as child safety measures weigh on bookings](https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html)
   - [Show HN: State of the Art of Coding Models, According to Hacker News Commenters](https://hnup.date/hn-sota)
   - [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/)
@@ -41,8 +46,20 @@
   - [CVE-2026-7701 | Telegram Desktop up to 6.7.5 Bot API url_auth_box.cpp RequestButton login_url null pointer dereference](https://vuldb.com/vuln/360870)
   - [CVE-2026-7702 | toeverything AFFiNE up to 0.26.3 Public Markdown Preview Endpoint :docId allowDocPreview authorization](https://vuldb.com/vuln/360871)
 - Vulners.com RSS Feed
+  - [[SECURITY] Fedora 42 Update: insight-18.0.50.20260306-3.fc42](https://vulners.com/fedora/FEDORA:EDDC17ED80?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 42 Update: rust-sequoia-git-0.6.0-1.fc42](https://vulners.com/fedora/FEDORA:353996DABC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: firefox-150.0-1.fc43](https://vulners.com/fedora/FEDORA:7C8876DA92?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: glibc-2.42-12.fc43](https://vulners.com/fedora/FEDORA:F2AD57F04B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: insight-18.0.50.20260306-3.fc43](https://vulners.com/fedora/FEDORA:BF07B6DA92?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: nss-3.122.1-1.fc43](https://vulners.com/fedora/FEDORA:20C246DA92?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: rust-sequoia-git-0.6.0-1.fc43](https://vulners.com/fedora/FEDORA:C19127ED8E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40561](https://vulners.com/nvd/NVD:CVE-2026-40561?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7671](https://vulners.com/nvd/NVD:CVE-2026-7671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7672](https://vulners.com/nvd/NVD:CVE-2026-7672?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7673 crmeb_java Admin Upload UploadServiceImpl.java unrestricted upload](https://vulners.com/cve/CVE-2026-7673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7673 crmeb_java Admin Upload UploadServiceImpl.java unrestricted upload](https://vulners.com/cvelist/CVELIST:CVE-2026-7673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7674 Shenzhen Libituo Technology LBT-T300-HW1 Web Management start_single_service buffer overflow](https://vulners.com/cve/CVE-2026-7674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7674 Shenzhen Libituo Technology LBT-T300-HW1 Web Management start_single_service buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-7674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/7690416B-143E-53EE-AC16-FCD6D6CE5ECA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
