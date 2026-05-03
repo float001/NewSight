@@ -6,13 +6,16 @@
 - dfarq.homeip.net
   - [Microsoft’s open sourcing of 86-DOS and what it means](https://dfarq.homeip.net/microsofts-open-sourcing-of-86-dos-and-what-it-means/?utm_source=rss&utm_medium=rss&utm_campaign=microsofts-open-sourcing-of-86-dos-and-what-it-means)
 - Hacker News Frontpage
+  - [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude)
   - [How Kepler built verifiable AI for financial services with Claude](https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude)
+  - [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html)
   - [Uncle Bob: It's Over](https://old.reddit.com/r/vibecoding/comments/1srfqm0/uncle_bob_its_over/)
 - johndcook.com
   - [The shape of a guitar pick](https://www.johndcook.com/blog/2026/05/03/guitar-pick/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=A32F02DB-BE71-5831-BEAB-38983A6B8ADB&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=8C342626-75CE-5DB6-935E-A431EECC0B39&utm_source=rss&utm_medium=rss)
+  - [pentest-automation-framework exploit](https://sploitus.com/exploit?id=817BC301-E0E2-56FC-9B87-CD52EF456C99&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [In Harvard study, AI offered more accurate diagnoses than emergency room doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)
   - [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)
@@ -45,6 +48,12 @@
   - [CVE-2026-7703 AV Stumpfl Pixera Two Media Server Websocket API code injection](https://vulners.com/cve/CVE-2026-7703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7703 AV Stumpfl Pixera Two Media Server Websocket API code injection](https://vulners.com/cvelist/CVELIST:CVE-2026-7703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7704](https://vulners.com/nvd/NVD:CVE-2026-7704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7706 Open5GS AMF gmm-handler.c gmm_handle_service_request denial of service](https://vulners.com/cve/CVE-2026-7706?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7706 Open5GS AMF gmm-handler.c gmm_handle_service_request denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-7706?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7707 Open5GS UDR nudr-handler.c udr_nudr_dr_handle_subscription_context denial of service](https://vulners.com/cve/CVE-2026-7707?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7707 Open5GS UDR nudr-handler.c udr_nudr_dr_handle_subscription_context denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-7707?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7708 Open5GS UDR subscription.c ogs_dbi_subscription_data denial of service](https://vulners.com/cve/CVE-2026-7708?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7708 Open5GS UDR subscription.c ogs_dbi_subscription_data denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-7708?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE_2026_41940_scan_exploit](https://vulners.com/githubexploit/86FADDD6-D954-50F1-99D2-A2723BF897EC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-36356](https://vulners.com/githubexploit/5FCA17C0-9C5E-502E-8986-1AB9D0B163B9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-40776](https://vulners.com/githubexploit/445C517A-FBD0-5894-80F1-5C6758783847?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -53,6 +62,7 @@
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/F86C0BF4-3B9B-560C-AD71-6CF4777D0675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel](https://vulners.com/githubexploit/8C342626-75CE-5DB6-935E-A431EECC0B39?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [linux-copy-fail-exploit](https://vulners.com/githubexploit/8AD3055F-1763-59E6-927E-C30C7EAE22D3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [pentest-automation-framework](https://vulners.com/githubexploit/817BC301-E0E2-56FC-9B87-CD52EF456C99?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [websec-sql-injection](https://vulners.com/githubexploit/40E319BF-0986-50B5-BDEF-7FE2757BA74E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
