@@ -15,6 +15,7 @@
   - [Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Openbsd Openssh exploit](https://sploitus.com/exploit?id=A4C45A40-ADC5-50EF-8FFC-4047AA0F987B&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Neutralization of Line Delimiters in Cacti exploit](https://sploitus.com/exploit?id=8B1FECF4-FFC4-55F3-AC07-E77BCBC344F7&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=4AC933DA-07DA-552C-9400-A960A8BB8BB7&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=B4197764-0E8E-5E50-969A-F57B7CEB4431&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=BBB9AEDA-89D0-5471-83A7-388934C96DD4&utm_source=rss&utm_medium=rss)
@@ -39,3 +40,5 @@
   - [CVE-2026-7702 | toeverything AFFiNE up to 0.26.3 Public Markdown Preview Endpoint :docId allowDocPreview authorization](https://vuldb.com/vuln/360871)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [美国脑植入公司在中国对四人开展测试](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%84%91%E6%A4%8D%E5%85%A5%E5%85%AC%E5%8F%B8%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AF%B9%E5%9B%9B%E4%BA%BA%E5%BC%80%E5%B1%95%E6%B5%8B%E8%AF%95)
