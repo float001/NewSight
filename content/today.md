@@ -2,12 +2,17 @@
 
 - 2Libra
   - [夜猫子徽章拿到 🦉](https://2libra.com/post/forum-function/Kj6GvQs)
+  - [网易 claw mail 邀请码](https://2libra.com/post/promotion/ENRrHYd)
 - 36氪
   - [2026五一档新片票房破4亿](https://36kr.com/newsflashes/3792811412806913?f=rss)
   - [“五一”假期第二日广东4A级及以上景区接待游客394.2万人次，同比增长5.2%](https://36kr.com/newsflashes/3792906773535751?f=rss)
+  - [今天全国高速公路车流量预计超6300万辆次](https://36kr.com/newsflashes/3792907681357061?f=rss)
   - [今日全国铁路预计发送旅客1855万人次](https://36kr.com/newsflashes/3792906088291584?f=rss)
   - [广汽国际：1—4月出口量同比增长133.9%](https://36kr.com/newsflashes/3792810932804872?f=rss)
   - [本田将对自动驾驶AI软件初创公司helm_ai追加投资](https://36kr.com/newsflashes/3792810419543301?f=rss)
+  - [雨雾影响通行 湘皖鄂共11个路段关闭收费站](https://36kr.com/newsflashes/3792910457740544?f=rss)
+  - [韩国银行业一季度发放的近3万亿韩元贷款预计无法收回](https://36kr.com/newsflashes/3792909909433353?f=rss)
+  - [马来西亚称大米供应充足，足以维持到年底](https://36kr.com/newsflashes/3792909466082305?f=rss)
 - Hacker News Frontpage
   - [Ask HN: Is the Job Market Actually Bad?](https://news.ycombinator.com/item?id=47988268)
   - [Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
@@ -23,9 +28,12 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Openbsd Openssh exploit](https://sploitus.com/exploit?id=A4C45A40-ADC5-50EF-8FFC-4047AA0F987B&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Neutralization of Line Delimiters in Cacti exploit](https://sploitus.com/exploit?id=8B1FECF4-FFC4-55F3-AC07-E77BCBC344F7&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=0249870D-3C61-59E0-9BE6-D5981E0A1412&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=20851882-C949-5F96-940A-3AF7B9A460B4&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=4AC933DA-07DA-552C-9400-A960A8BB8BB7&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=B4197764-0E8E-5E50-969A-F57B7CEB4431&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=BBB9AEDA-89D0-5471-83A7-388934C96DD4&utm_source=rss&utm_medium=rss)
+  - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Packagekit_Project Packagekit exploit](https://sploitus.com/exploit?id=0623A273-08F3-5E63-A0D6-D69D10FB8664&utm_source=rss&utm_medium=rss)
   - [Lyussfyuring002 exploit](https://sploitus.com/exploit?id=6D0AB2BD-3771-55E2-B173-B4372927493D&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
@@ -56,11 +64,17 @@
   - [CVE-2026-40561](https://vulners.com/nvd/NVD:CVE-2026-40561?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7671](https://vulners.com/nvd/NVD:CVE-2026-7671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7672](https://vulners.com/nvd/NVD:CVE-2026-7672?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7673](https://vulners.com/nvd/NVD:CVE-2026-7673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7673 crmeb_java Admin Upload UploadServiceImpl.java unrestricted upload](https://vulners.com/cve/CVE-2026-7673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7673 crmeb_java Admin Upload UploadServiceImpl.java unrestricted upload](https://vulners.com/cvelist/CVELIST:CVE-2026-7673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7674](https://vulners.com/nvd/NVD:CVE-2026-7674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7674 Shenzhen Libituo Technology LBT-T300-HW1 Web Management start_single_service buffer overflow](https://vulners.com/cve/CVE-2026-7674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7674 Shenzhen Libituo Technology LBT-T300-HW1 Web Management start_single_service buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-7674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7675 Shenzhen Libituo Technology LBT-T300-HW1 apply.cgi start_lan buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-7675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/0249870D-3C61-59E0-9BE6-D5981E0A1412?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/20851882-C949-5F96-940A-3AF7B9A460B4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/7690416B-143E-53EE-AC16-FCD6D6CE5ECA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Packagekit_Project Packagekit](https://vulners.com/githubexploit/0623A273-08F3-5E63-A0D6-D69D10FB8664?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
