@@ -2,6 +2,8 @@
 
 - 2Libra
   - [夜猫子徽章拿到 🦉](https://2libra.com/post/forum-function/Kj6GvQs)
+- 36氪
+  - [本田将对自动驾驶AI软件初创公司helm_ai追加投资](https://36kr.com/newsflashes/3792810419543301?f=rss)
 - Hacker News Frontpage
   - [Ask HN: Is the Job Market Actually Bad?](https://news.ycombinator.com/item?id=47988268)
   - [Roblox shares plummet 18% as child safety measures weigh on bookings](https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html)
@@ -38,6 +40,10 @@
   - [CVE-2026-7700 | langflow-ai langflow up to 1.8.4 LambdaFilterComponent lambda_filter.p eval code injection](https://vuldb.com/vuln/360869)
   - [CVE-2026-7701 | Telegram Desktop up to 6.7.5 Bot API url_auth_box.cpp RequestButton login_url null pointer dereference](https://vuldb.com/vuln/360870)
   - [CVE-2026-7702 | toeverything AFFiNE up to 0.26.3 Public Markdown Preview Endpoint :docId allowDocPreview authorization](https://vuldb.com/vuln/360871)
+- Vulners.com RSS Feed
+  - [CVE-2026-7671](https://vulners.com/nvd/NVD:CVE-2026-7671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7672](https://vulners.com/nvd/NVD:CVE-2026-7672?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/7690416B-143E-53EE-AC16-FCD6D6CE5ECA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
