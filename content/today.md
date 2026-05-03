@@ -8,6 +8,7 @@
   - [网易 claw mail 邀请码](https://2libra.com/post/promotion/ENRrHYd)
 - 36氪
   - [2026五一档新片票房破4亿](https://36kr.com/newsflashes/3792811412806913?f=rss)
+  - [A股2025年销售毛利率排行榜：医药生物+计算机两大行业霸榜](https://36kr.com/newsflashes/3793150367849735?f=rss)
   - [“五一”假期第二日广东4A级及以上景区接待游客394.2万人次，同比增长5.2%](https://36kr.com/newsflashes/3792906773535751?f=rss)
   - [“开市客北京”已申请注销公司](https://36kr.com/newsflashes/3793127649500168?f=rss)
   - [义龙庆高速公路首座隧道双幅贯通](https://36kr.com/newsflashes/3793012553784329?f=rss)
@@ -20,6 +21,8 @@
   - [普京签署法案批准“移动售药”试点](https://36kr.com/newsflashes/3792985893428224?f=rss)
   - [本田将对自动驾驶AI软件初创公司helm_ai追加投资](https://36kr.com/newsflashes/3792810419543301?f=rss)
   - [横琴口岸“五一”假期单日客流创历史新高](https://36kr.com/newsflashes/3792998871915779?f=rss)
+  - [江苏扬州：人才5年内在市区购买新建商品住房 “人才安家券”最高抵扣200万元首付款](https://36kr.com/newsflashes/3793129769917703?f=rss)
+  - [福州地铁客流连创新高](https://36kr.com/newsflashes/3793129214123012?f=rss)
   - [第二艘油轮经红海向韩国运送原油](https://36kr.com/newsflashes/3793008686439426?f=rss)
   - [网信部门严管“自媒体”未规范标注信息来源行为](https://36kr.com/newsflashes/3792999844338951?f=rss)
   - [铁路12306回应热门车次开售即售罄](https://36kr.com/newsflashes/3793128720112647?f=rss)
@@ -27,6 +30,8 @@
   - [雨雾影响通行 湘皖鄂共11个路段关闭收费站](https://36kr.com/newsflashes/3792910457740544?f=rss)
   - [韩国银行业一季度发放的近3万亿韩元贷款预计无法收回](https://36kr.com/newsflashes/3792909909433353?f=rss)
   - [马来西亚称大米供应充足，足以维持到年底](https://36kr.com/newsflashes/3792909466082305?f=rss)
+- defend.network
+  - [Daily Threat Briefing – May 3, 2026](https://defend.network/briefings/cpanel-critical-rce-ransomware-exploitation-2026-05-03.html)
 - Hacker News Frontpage
   - [Ask HN: Is the Job Market Actually Bad?](https://news.ycombinator.com/item?id=47988268)
   - [Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
@@ -56,11 +61,20 @@
   - [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
   - [Farewell, Jeeves: Ask.com shuts down](https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/)
   - [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)
+- The Decoder
+  - [Same prompt, different morals: how frontier AI models diverge on ethical dilemmas](https://the-decoder.com/same-prompt-different-morals-how-frontier-ai-models-diverge-on-ethical-dilemmas/)
 - The Verge
   - [Aura’s delightful Aspen photo frame is on sale for $30 off this weekend](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale)
   - [Meta&#8217;s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety)
   - [Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices](https://www.theverge.com/business/922788/spirit-airlines-shutdown)
 - VulDB Recent Entries
+  - [CVE-2026-40561 | KAZUHO Starlet up to 0.31 on Perl Reverse Proxy Content-Length request smuggling](https://vuldb.com/vuln/360875)
+  - [CVE-2026-42809 | Apache Polaris up to 1.4.0 Staged Table Creation information disclosure](https://vuldb.com/vuln/360877)
+  - [CVE-2026-42810 | Apache Polaris up to 1.4.0 Asterisk escape output](https://vuldb.com/vuln/360878)
+  - [CVE-2026-42811 | Apache Polaris up to 1.4.0 improper authentication](https://vuldb.com/vuln/360879)
+  - [CVE-2026-42812 | Apache Polaris up to 1.4.0 access control](https://vuldb.com/vuln/360880)
+  - [CVE-2026-5063 | webaways NEX-Forms Plugin up to 9.1.11 on WordPress POST Parameter submit_nex_form cross site scripting](https://vuldb.com/vuln/360874)
+  - [CVE-2026-5337 | Frontend File Manager Plugin up to 23.6 on WordPress Download Endpoint wpfm_download file_id authorization](https://vuldb.com/vuln/360876)
   - [CVE-2026-7686 | eyeo Adblock Plus up to 4.36.2 on Chrome Legacy Premium Activation premium.preload.js postMessage access control](https://vuldb.com/vuln/360856)
   - [CVE-2026-7687 | langflow-ai langflow up to 1.8.4 Full Builtins code_parser.py CodeParser.parse_callable_details command injection](https://vuldb.com/vuln/360857)
   - [CVE-2026-7688 | Dolibarr ERP CRM up to 23.0.2 Shipments API Endpoint expedition.class.php _checkValForAPI fields sql injection](https://vuldb.com/vuln/360858)
@@ -78,7 +92,9 @@
   - [[SECURITY] Fedora 43 Update: insight-18.0.50.20260306-3.fc43](https://vulners.com/fedora/FEDORA:BF07B6DA92?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: nss-3.122.1-1.fc43](https://vulners.com/fedora/FEDORA:20C246DA92?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: rust-sequoia-git-0.6.0-1.fc43](https://vulners.com/fedora/FEDORA:C19127ED8E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://vulners.com/thn/THN:D5189EECCEAF333C7E00EF57C2008A61?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40561](https://vulners.com/nvd/NVD:CVE-2026-40561?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5063](https://vulners.com/nvd/NVD:CVE-2026-5063?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7671](https://vulners.com/nvd/NVD:CVE-2026-7671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7672](https://vulners.com/nvd/NVD:CVE-2026-7672?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7673](https://vulners.com/nvd/NVD:CVE-2026-7673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -95,6 +111,11 @@
   - [CVE-2026-7679](https://vulners.com/nvd/NVD:CVE-2026-7679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7679 YunaiV yudao-cloud OAuth2TokenServiceImpl.java getAccessToken improper authentication](https://vulners.com/cve/CVE-2026-7679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7679 YunaiV yudao-cloud OAuth2TokenServiceImpl.java getAccessToken improper authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-7679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7680](https://vulners.com/nvd/NVD:CVE-2026-7680?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7681](https://vulners.com/nvd/NVD:CVE-2026-7681?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7682](https://vulners.com/attackerkb/AKB:35C0C922-04B6-4C40-8CCC-22758C0E11D8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7682 Edimax BR-6208AC L2TP Mode setWAN command injection](https://vulners.com/cve/CVE-2026-7682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7682 Edimax BR-6208AC L2TP Mode setWAN command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-7682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/0249870D-3C61-59E0-9BE6-D5981E0A1412?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/20851882-C949-5F96-940A-3AF7B9A460B4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/7690416B-143E-53EE-AC16-FCD6D6CE5ECA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -102,6 +123,8 @@
   - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Packagekit_Project Packagekit](https://vulners.com/githubexploit/0623A273-08F3-5E63-A0D6-D69D10FB8664?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [offensive-Sqli](https://vulners.com/githubexploit/C74D23B8-B7A1-5270-B133-AF0C0CBFE7A9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Webmin-1.910-Exploit-Script](https://vulners.com/githubexploit/C0611526-E7AA-50E2-897D-A94E631ABBE2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://buaq.net/go-414275.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 量子位 QbitAI
