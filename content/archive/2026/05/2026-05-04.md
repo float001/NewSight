@@ -47,6 +47,7 @@
   - [CVE-2026-7704](https://vulners.com/nvd/NVD:CVE-2026-7704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE_2026_41940_scan_exploit](https://vulners.com/githubexploit/86FADDD6-D954-50F1-99D2-A2723BF897EC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-36356](https://vulners.com/githubexploit/5FCA17C0-9C5E-502E-8986-1AB9D0B163B9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-40776](https://vulners.com/githubexploit/445C517A-FBD0-5894-80F1-5C6758783847?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/6520FB88-03F7-551B-9D92-D3FBC4CCF152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/A32F02DB-BE71-5831-BEAB-38983A6B8ADB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/F86C0BF4-3B9B-560C-AD71-6CF4777D0675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
