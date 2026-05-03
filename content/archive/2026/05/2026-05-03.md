@@ -11,6 +11,7 @@
   - [A股2025年销售毛利率排行榜：医药生物+计算机两大行业霸榜](https://36kr.com/newsflashes/3793150367849735?f=rss)
   - [“五一”假期第二日广东4A级及以上景区接待游客394.2万人次，同比增长5.2%](https://36kr.com/newsflashes/3792906773535751?f=rss)
   - [“开市客北京”已申请注销公司](https://36kr.com/newsflashes/3793127649500168?f=rss)
+  - [中东局势扰动全球市场 欧佩克+原则上同意6月增产](https://36kr.com/newsflashes/3793152990387207?f=rss)
   - [义龙庆高速公路首座隧道双幅贯通](https://36kr.com/newsflashes/3793012553784329?f=rss)
   - [今天全国高速公路车流量预计超6300万辆次](https://36kr.com/newsflashes/3792907681357061?f=rss)
   - [今日全国铁路预计发送旅客1855万人次](https://36kr.com/newsflashes/3792906088291584?f=rss)
@@ -24,6 +25,7 @@
   - [江苏扬州：人才5年内在市区购买新建商品住房 “人才安家券”最高抵扣200万元首付款](https://36kr.com/newsflashes/3793129769917703?f=rss)
   - [福州地铁客流连创新高](https://36kr.com/newsflashes/3793129214123012?f=rss)
   - [第二艘油轮经红海向韩国运送原油](https://36kr.com/newsflashes/3793008686439426?f=rss)
+  - [第四届链博会哥斯达黎加推介会成功举办](https://36kr.com/newsflashes/3793151671720963?f=rss)
   - [网信部门严管“自媒体”未规范标注信息来源行为](https://36kr.com/newsflashes/3792999844338951?f=rss)
   - [铁路12306回应热门车次开售即售罄](https://36kr.com/newsflashes/3793128720112647?f=rss)
   - [长江下75米 海太长江隧道工程施工抵达江底最深处](https://36kr.com/newsflashes/3792985405299721?f=rss)
@@ -45,6 +47,7 @@
 - simonwillison.net
   - [Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-29000 exploit](https://sploitus.com/exploit?id=C1584E98-D17D-541C-95E4-E1976A04C575&utm_source=rss&utm_medium=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Openbsd Openssh exploit](https://sploitus.com/exploit?id=A4C45A40-ADC5-50EF-8FFC-4047AA0F987B&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Neutralization of Line Delimiters in Cacti exploit](https://sploitus.com/exploit?id=8B1FECF4-FFC4-55F3-AC07-E77BCBC344F7&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=0249870D-3C61-59E0-9BE6-D5981E0A1412&utm_source=rss&utm_medium=rss)
@@ -63,6 +66,7 @@
   - [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)
 - The Decoder
   - [Same prompt, different morals: how frontier AI models diverge on ethical dilemmas](https://the-decoder.com/same-prompt-different-morals-how-frontier-ai-models-diverge-on-ethical-dilemmas/)
+  - [Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding](https://the-decoder.com/xiaomis-open-weight-mimo-v2-5-pro-takes-aim-at-claude-opus-with-hours-long-autonomous-coding/)
 - The Verge
   - [Aura’s delightful Aspen photo frame is on sale for $30 off this weekend](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale)
   - [Meta&#8217;s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety)
@@ -84,6 +88,14 @@
   - [CVE-2026-7700 | langflow-ai langflow up to 1.8.4 LambdaFilterComponent lambda_filter.p eval code injection](https://vuldb.com/vuln/360869)
   - [CVE-2026-7701 | Telegram Desktop up to 6.7.5 Bot API url_auth_box.cpp RequestButton login_url null pointer dereference](https://vuldb.com/vuln/360870)
   - [CVE-2026-7702 | toeverything AFFiNE up to 0.26.3 Public Markdown Preview Endpoint :docId allowDocPreview authorization](https://vuldb.com/vuln/360871)
+  - [CVE-2026-7705 | JD Cloud JDCOS 4.5.1.r4518 Service Interface /jdcap set_iptv_info vid command injection](https://vuldb.com/vuln/360881)
+  - [CVE-2026-7706 | Open5GS up to 2.7.7 AMF /src/amf/gmm-handler.c gmm_handle_service_request denial of service (Issue 4409)](https://vuldb.com/vuln/360882)
+  - [CVE-2026-7707 | Open5GS up to 2.7.7 UDR /src/udr/nudr-handler.c udr_nudr_dr_handle_subscription_context pei denial of service (4410/4411)](https://vuldb.com/vuln/360883)
+  - [CVE-2026-7708 | Open5GS up to 2.7.7 UDR /lib/dbi/subscription.c ogs_dbi_subscription_data supi_id denial of service (Issue 4412)](https://vuldb.com/vuln/360884)
+  - [CVE-2026-7709 | janeczku Calibre-Web up to 0.6.26 Endpoint cps/kobo_auth.py generate_auth_token user_id improper authorization](https://vuldb.com/vuln/360885)
+  - [CVE-2026-7710 | YunaiV yudao-cloud up to 3.8.0 Ruoyi-Vue-Pro JwtAuthenticationTokenFilter.java doFilterInternal mock-token improper authentication](https://vuldb.com/vuln/360886)
+  - [CVE-2026-7711 | MindsDB up to 26.01 Engine proc_wrapper.py exec unrestricted upload](https://vuldb.com/vuln/360887)
+  - [CVE-2026-7712 | MindsDB up to 26.01 Pickle pickle.loads deserialization](https://vuldb.com/vuln/360888)
 - Vulners.com RSS Feed
   - [[SECURITY] Fedora 42 Update: insight-18.0.50.20260306-3.fc42](https://vulners.com/fedora/FEDORA:EDDC17ED80?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 42 Update: rust-sequoia-git-0.6.0-1.fc42](https://vulners.com/fedora/FEDORA:353996DABC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -95,6 +107,7 @@
   - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://vulners.com/thn/THN:D5189EECCEAF333C7E00EF57C2008A61?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40561](https://vulners.com/nvd/NVD:CVE-2026-40561?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5063](https://vulners.com/nvd/NVD:CVE-2026-5063?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5337](https://vulners.com/nvd/NVD:CVE-2026-5337?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7671](https://vulners.com/nvd/NVD:CVE-2026-7671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7672](https://vulners.com/nvd/NVD:CVE-2026-7672?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7673](https://vulners.com/nvd/NVD:CVE-2026-7673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -114,20 +127,31 @@
   - [CVE-2026-7680](https://vulners.com/nvd/NVD:CVE-2026-7680?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7681](https://vulners.com/nvd/NVD:CVE-2026-7681?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7682](https://vulners.com/attackerkb/AKB:35C0C922-04B6-4C40-8CCC-22758C0E11D8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7682](https://vulners.com/nvd/NVD:CVE-2026-7682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7682 Edimax BR-6208AC L2TP Mode setWAN command injection](https://vulners.com/cve/CVE-2026-7682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7682 Edimax BR-6208AC L2TP Mode setWAN command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-7682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7683](https://vulners.com/nvd/NVD:CVE-2026-7683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7684](https://vulners.com/nvd/NVD:CVE-2026-7684?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7685](https://vulners.com/nvd/NVD:CVE-2026-7685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7686 eyeo Adblock Plus Legacy Premium Activation premium.preload.js postMessage access control](https://vulners.com/cvelist/CVELIST:CVE-2026-7686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-29000](https://vulners.com/githubexploit/C1584E98-D17D-541C-95E4-E1976A04C575?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/0249870D-3C61-59E0-9BE6-D5981E0A1412?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/20851882-C949-5F96-940A-3AF7B9A460B4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/7690416B-143E-53EE-AC16-FCD6D6CE5ECA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/D1FEAE23-8C2C-50F8-8F28-8351B5DDE0DA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/F8CFB5E6-6897-57F0-A9F4-FAC386382911?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Packagekit_Project Packagekit](https://vulners.com/githubexploit/0623A273-08F3-5E63-A0D6-D69D10FB8664?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [offensive-Sqli](https://vulners.com/githubexploit/C74D23B8-B7A1-5270-B133-AF0C0CBFE7A9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Webmin-1.910-Exploit-Script](https://vulners.com/githubexploit/C0611526-E7AA-50E2-897D-A94E631ABBE2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://buaq.net/go-414275.html)
+  - [问答搜索引擎先驱Ask.com网站正式关闭](https://buaq.net/go-414278.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [TProxy and NAT](https://dyrnq.com/tproxy-and-nat/)
 - 量子位 QbitAI
   - [DeepSeek V4最大的遗憾](https://www.qbitai.com/2026/05/412737.html)
 - 黑海洋
   - [美国脑植入公司在中国对四人开展测试](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%84%91%E6%A4%8D%E5%85%A5%E5%85%AC%E5%8F%B8%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AF%B9%E5%9B%9B%E4%BA%BA%E5%BC%80%E5%B1%95%E6%B5%8B%E8%AF%95)
+  - [问答搜索引擎先驱Ask.com网站正式关闭](https://blog.upx8.com/%E9%97%AE%E7%AD%94%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%85%88%E9%A9%B1Ask-com%E7%BD%91%E7%AB%99%E6%AD%A3%E5%BC%8F%E5%85%B3%E9%97%AD)
