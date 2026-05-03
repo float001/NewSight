@@ -1,9 +1,14 @@
 # 今日安全资讯（2026-05-04）
 
 - 2Libra
+  - [Telegram+86 的手机号显示收费怎么解决](https://2libra.com/post/tech-qa/-C8HLic)
   - [鹤守抄暴雷了](https://2libra.com/post/good-books/jyq6yT1)
+- dfarq.homeip.net
+  - [Microsoft’s open sourcing of 86-DOS and what it means](https://dfarq.homeip.net/microsofts-open-sourcing-of-86-dos-and-what-it-means/?utm_source=rss&utm_medium=rss&utm_campaign=microsofts-open-sourcing-of-86-dos-and-what-it-means)
 - Hacker News Frontpage
   - [Uncle Bob: It's Over](https://old.reddit.com/r/vibecoding/comments/1srfqm0/uncle_bob_its_over/)
+- TechCrunch
+  - [In Harvard study, AI offered more accurate diagnoses than emergency room doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)
 - VulDB Recent Entries
   - [CVE-2026-7728 | ryanjoachim mcp-rtfm 0.1.0 MCP Interface get_doc_content/read_doc/update_doc docFile path traversal](https://vuldb.com/vuln/360903)
   - [CVE-2026-7729 | pixelsock directus-mcp 1.0.0 MCP Interface index.ts validateUrl fileUrl server-side request forgery](https://vuldb.com/vuln/360904)
@@ -16,9 +21,23 @@
   - [CVE-2026-7736 | osrg GoBGP up to 4.3.0 pkg/packet/mrt/mrt.go parseRibEntry integer underflow](https://vuldb.com/vuln/360911)
   - [CVE-2026-7737 | osrg GoBGP up to 4.3.0 BMP Parser pkg/packet/bmp/bmp.go out-of-bounds](https://vuldb.com/vuln/360912)
   - [CVE-2026-7738 | puchunjie doc-tools-mcp 1.0.18 MCP Interface src/mcp-server.ts create_document/open_document filePath path traversal](https://vuldb.com/vuln/360913)
+  - [CVE-2026-7739 | justdan96 tsMuxer up to 2.7.0 hevc.cpp HevcVpsUnit::setFPS track_id denial of service (Issue 895)](https://vuldb.com/vuln/360914)
+  - [CVE-2026-7740 | justdan96 tsMuxer up to 2.7.0 tsMuxer/vvc.cpp VvcVpsUnit::setFPS track_id denial of service (Issue 899)](https://vuldb.com/vuln/360915)
+  - [CVE-2026-7741 | CodeAstro Online Classroom 1.0 studentlogin sid sql injection](https://vuldb.com/vuln/360916)
+  - [CVE-2026-7742 | CodeAstro Online Classroom 1.0 facultylogin fid sql injection](https://vuldb.com/vuln/360917)
+  - [CVE-2026-7743 | CodeAstro Online Classroom 1.0 studentdetails deleteid sql injection](https://vuldb.com/vuln/360918)
+  - [CVE-2026-7744 | CodeAstro Online Classroom 1.0 addnewstudent fname sql injection](https://vuldb.com/vuln/360919)
+  - [CVE-2026-7745 | CodeAstro Online Classroom 1.0 facultydetails deleteid sql injection](https://vuldb.com/vuln/360920)
+  - [CVE-2026-7746 | SourceCodester Web-based Pharmacy Product Management System 1.0 edit-admin.php ID sql injection](https://vuldb.com/vuln/360921)
+  - [CVE-2026-7747 | Totolink N300RH 3.2.4-B20220812 Parameter /cgi-bin/cstecgi.cgi loginauth Password buffer overflow](https://vuldb.com/vuln/360922)
+  - [CVE-2026-7748 | Totolink N300RH 3.2.4-B20220812 POST Request /cgi-bin/cstecgi.cgi setUpgradeFW FileName buffer overflow](https://vuldb.com/vuln/360923)
+  - [CVE-2026-7749 | Totolink N300RH 3.2.4-B20220812 POST Request /cgi-bin/cstecgi.cgi setWanConfig priDns buffer overflow](https://vuldb.com/vuln/360924)
+  - [CVE-2026-7750 | Totolink N300RH 3.2.4-B20220812 POST Request /cgi-bin/cstecgi.cgi setMacFilterRules mac_address buffer overflow](https://vuldb.com/vuln/360925)
 - Vulners.com RSS Feed
+  - [CVE-2026-7703](https://vulners.com/nvd/NVD:CVE-2026-7703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7703 AV Stumpfl Pixera Two Media Server Websocket API code injection](https://vulners.com/cve/CVE-2026-7703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7703 AV Stumpfl Pixera Two Media Server Websocket API code injection](https://vulners.com/cvelist/CVELIST:CVE-2026-7703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7704](https://vulners.com/nvd/NVD:CVE-2026-7704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE_2026_41940_scan_exploit](https://vulners.com/githubexploit/86FADDD6-D954-50F1-99D2-A2723BF897EC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
