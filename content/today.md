@@ -1,15 +1,22 @@
 # 今日安全资讯（2026-05-03）
 
 - 2Libra
+  - [100 收 chatgpt free business 空间账号](https://2libra.com/post/second-hand/25ChLIa)
+  - [三天了，都没有大成功](https://2libra.com/post/forum-function/pKmybrP)
   - [夜猫子徽章拿到 🦉](https://2libra.com/post/forum-function/Kj6GvQs)
+  - [立场互换：开车时候骂骑小电动的，骑小电动的时候骂开车的。](https://2libra.com/post/social-observation/9zKkBzh)
   - [网易 claw mail 邀请码](https://2libra.com/post/promotion/ENRrHYd)
 - 36氪
   - [2026五一档新片票房破4亿](https://36kr.com/newsflashes/3792811412806913?f=rss)
   - [“五一”假期第二日广东4A级及以上景区接待游客394.2万人次，同比增长5.2%](https://36kr.com/newsflashes/3792906773535751?f=rss)
   - [今天全国高速公路车流量预计超6300万辆次](https://36kr.com/newsflashes/3792907681357061?f=rss)
   - [今日全国铁路预计发送旅客1855万人次](https://36kr.com/newsflashes/3792906088291584?f=rss)
+  - [因伊朗战争导致能源成本上升，越南通胀加速](https://36kr.com/newsflashes/3792999278812418?f=rss)
   - [广汽国际：1—4月出口量同比增长133.9%](https://36kr.com/newsflashes/3792810932804872?f=rss)
+  - [普京签署法案批准“移动售药”试点](https://36kr.com/newsflashes/3792985893428224?f=rss)
   - [本田将对自动驾驶AI软件初创公司helm_ai追加投资](https://36kr.com/newsflashes/3792810419543301?f=rss)
+  - [横琴口岸“五一”假期单日客流创历史新高](https://36kr.com/newsflashes/3792998871915779?f=rss)
+  - [长江下75米 海太长江隧道工程施工抵达江底最深处](https://36kr.com/newsflashes/3792985405299721?f=rss)
   - [雨雾影响通行 湘皖鄂共11个路段关闭收费站](https://36kr.com/newsflashes/3792910457740544?f=rss)
   - [韩国银行业一季度发放的近3万亿韩元贷款预计无法收回](https://36kr.com/newsflashes/3792909909433353?f=rss)
   - [马来西亚称大米供应充足，足以维持到年底](https://36kr.com/newsflashes/3792909466082305?f=rss)
@@ -32,9 +39,11 @@
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=20851882-C949-5F96-940A-3AF7B9A460B4&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=4AC933DA-07DA-552C-9400-A960A8BB8BB7&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=B4197764-0E8E-5E50-969A-F57B7CEB4431&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=D1FEAE23-8C2C-50F8-8F28-8351B5DDE0DA&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=BBB9AEDA-89D0-5471-83A7-388934C96DD4&utm_source=rss&utm_medium=rss)
   - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Packagekit_Project Packagekit exploit](https://sploitus.com/exploit?id=0623A273-08F3-5E63-A0D6-D69D10FB8664&utm_source=rss&utm_medium=rss)
   - [Lyussfyuring002 exploit](https://sploitus.com/exploit?id=6D0AB2BD-3771-55E2-B173-B4372927493D&utm_source=rss&utm_medium=rss)
+  - [offensive-Sqli exploit](https://sploitus.com/exploit?id=C74D23B8-B7A1-5270-B133-AF0C0CBFE7A9&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
   - [Farewell, Jeeves: Ask.com shuts down](https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/)
@@ -70,12 +79,17 @@
   - [CVE-2026-7674](https://vulners.com/nvd/NVD:CVE-2026-7674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7674 Shenzhen Libituo Technology LBT-T300-HW1 Web Management start_single_service buffer overflow](https://vulners.com/cve/CVE-2026-7674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7674 Shenzhen Libituo Technology LBT-T300-HW1 Web Management start_single_service buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-7674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7675](https://vulners.com/nvd/NVD:CVE-2026-7675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7675 Shenzhen Libituo Technology LBT-T300-HW1 apply.cgi start_lan buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-7675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/0249870D-3C61-59E0-9BE6-D5981E0A1412?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/20851882-C949-5F96-940A-3AF7B9A460B4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/7690416B-143E-53EE-AC16-FCD6D6CE5ECA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/D1FEAE23-8C2C-50F8-8F28-8351B5DDE0DA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Packagekit_Project Packagekit](https://vulners.com/githubexploit/0623A273-08F3-5E63-A0D6-D69D10FB8664?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [offensive-Sqli](https://vulners.com/githubexploit/C74D23B8-B7A1-5270-B133-AF0C0CBFE7A9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 量子位 QbitAI
+  - [DeepSeek V4最大的遗憾](https://www.qbitai.com/2026/05/412737.html)
 - 黑海洋
   - [美国脑植入公司在中国对四人开展测试](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%84%91%E6%A4%8D%E5%85%A5%E5%85%AC%E5%8F%B8%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AF%B9%E5%9B%9B%E4%BA%BA%E5%BC%80%E5%B1%95%E6%B5%8B%E8%AF%95)
