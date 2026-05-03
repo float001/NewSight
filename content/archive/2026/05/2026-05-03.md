@@ -4,6 +4,7 @@
   - [100 收 chatgpt free business 空间账号](https://2libra.com/post/second-hand/25ChLIa)
   - [三天了，都没有大成功](https://2libra.com/post/forum-function/pKmybrP)
   - [夜猫子徽章拿到 🦉](https://2libra.com/post/forum-function/Kj6GvQs)
+  - [求一个奶昔论坛的邀请码](https://2libra.com/post/invite-code/iz8eksW)
   - [立场互换：开车时候骂骑小电动的，骑小电动的时候骂开车的。](https://2libra.com/post/social-observation/9zKkBzh)
   - [网易 claw mail 邀请码](https://2libra.com/post/promotion/ENRrHYd)
 - 36氪
@@ -15,6 +16,7 @@
   - [义龙庆高速公路首座隧道双幅贯通](https://36kr.com/newsflashes/3793012553784329?f=rss)
   - [今天全国高速公路车流量预计超6300万辆次](https://36kr.com/newsflashes/3792907681357061?f=rss)
   - [今日全国铁路预计发送旅客1855万人次](https://36kr.com/newsflashes/3792906088291584?f=rss)
+  - [余额宝收益率跌破1%，资金依旧看好](https://36kr.com/newsflashes/3793154358402052?f=rss)
   - [全球单机容量最大漂浮式海上风电平台安装完成](https://36kr.com/newsflashes/3793128185601031?f=rss)
   - [因伊朗战争导致能源成本上升，越南通胀加速](https://36kr.com/newsflashes/3792999278812418?f=rss)
   - [婴儿食品投毒勒索案嫌疑人在奥地利落网](https://36kr.com/newsflashes/3793009134542084?f=rss)
@@ -30,6 +32,7 @@
   - [铁路12306回应热门车次开售即售罄](https://36kr.com/newsflashes/3793128720112647?f=rss)
   - [长江下75米 海太长江隧道工程施工抵达江底最深处](https://36kr.com/newsflashes/3792985405299721?f=rss)
   - [雨雾影响通行 湘皖鄂共11个路段关闭收费站](https://36kr.com/newsflashes/3792910457740544?f=rss)
+  - [韩国政府将向AI初创公司Upstage投资5600亿韩元](https://36kr.com/newsflashes/3793154827000832?f=rss)
   - [韩国银行业一季度发放的近3万亿韩元贷款预计无法收回](https://36kr.com/newsflashes/3792909909433353?f=rss)
   - [马来西亚称大米供应充足，足以维持到年底](https://36kr.com/newsflashes/3792909466082305?f=rss)
 - defend.network
@@ -65,6 +68,8 @@
   - [Farewell, Jeeves: Ask.com shuts down](https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/)
   - [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)
 - The Decoder
+  - [China is falling behind in the AI race, according to a US government benchmark](https://the-decoder.com/china-is-falling-behind-in-the-ai-race-according-to-a-us-government-benchmark/)
+  - [MIT study explains why scaling language models works so reliably](https://the-decoder.com/mit-study-explains-why-scaling-language-models-works-so-reliably/)
   - [Same prompt, different morals: how frontier AI models diverge on ethical dilemmas](https://the-decoder.com/same-prompt-different-morals-how-frontier-ai-models-diverge-on-ethical-dilemmas/)
   - [Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding](https://the-decoder.com/xiaomis-open-weight-mimo-v2-5-pro-takes-aim-at-claude-opus-with-hours-long-autonomous-coding/)
 - The Verge
@@ -96,6 +101,12 @@
   - [CVE-2026-7710 | YunaiV yudao-cloud up to 3.8.0 Ruoyi-Vue-Pro JwtAuthenticationTokenFilter.java doFilterInternal mock-token improper authentication](https://vuldb.com/vuln/360886)
   - [CVE-2026-7711 | MindsDB up to 26.01 Engine proc_wrapper.py exec unrestricted upload](https://vuldb.com/vuln/360887)
   - [CVE-2026-7712 | MindsDB up to 26.01 Pickle pickle.loads deserialization](https://vuldb.com/vuln/360888)
+  - [CVE-2026-7716 | code-projects Gym Management System In PHP/Windows NT 1.0 /index.php day sql injection](https://vuldb.com/vuln/360892)
+  - [CVE-2026-7717 | Totolink WA300 5.2cu.7112_B20190227 POST Request /cgi-bin/cstecgi.cgi UploadCustomModule File buffer overflow](https://vuldb.com/vuln/360893)
+  - [CVE-2026-7718 | Totolink WA300 5.2cu.7112_B20190227 POST Request /cgi-bin/cstecgi.cgi setWebWlanIdx webWlanIdx command injection](https://vuldb.com/vuln/360894)
+  - [CVE-2026-7719 | Totolink WA300 5.2cu.7112_B20190227 POST Request /cgi-bin/cstecgi.cgi loginauth http_host buffer overflow](https://vuldb.com/vuln/360895)
+  - [CVE-2026-7720 | Totolink WA300 5.2cu.7112_B20190227 POST Request /cgi-bin/cstecgi.cgi setLanguageCfg langType command injection](https://vuldb.com/vuln/360896)
+  - [CVE-2026-7721 | Totolink WA300 5.2cu.7112_B20190227 /cgi-bin/cstecgi.cgi NTPSyncWithHost hostTime command injection](https://vuldb.com/vuln/360897)
 - Vulners.com RSS Feed
   - [[SECURITY] Fedora 42 Update: insight-18.0.50.20260306-3.fc42](https://vulners.com/fedora/FEDORA:EDDC17ED80?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 42 Update: rust-sequoia-git-0.6.0-1.fc42](https://vulners.com/fedora/FEDORA:353996DABC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -133,6 +144,7 @@
   - [CVE-2026-7683](https://vulners.com/nvd/NVD:CVE-2026-7683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7684](https://vulners.com/nvd/NVD:CVE-2026-7684?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7685](https://vulners.com/nvd/NVD:CVE-2026-7685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7686](https://vulners.com/nvd/NVD:CVE-2026-7686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7686 eyeo Adblock Plus Legacy Premium Activation premium.preload.js postMessage access control](https://vulners.com/cvelist/CVELIST:CVE-2026-7686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-29000](https://vulners.com/githubexploit/C1584E98-D17D-541C-95E4-E1976A04C575?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/0249870D-3C61-59E0-9BE6-D5981E0A1412?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -143,6 +155,8 @@
   - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Packagekit_Project Packagekit](https://vulners.com/githubexploit/0623A273-08F3-5E63-A0D6-D69D10FB8664?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [offensive-Sqli](https://vulners.com/githubexploit/C74D23B8-B7A1-5270-B133-AF0C0CBFE7A9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Webmin-1.910-Exploit-Script](https://vulners.com/githubexploit/C0611526-E7AA-50E2-897D-A94E631ABBE2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Coway Airmega Mighty2 Review: The Sequel Is Better Than the Original](https://www.wired.com/review/coway-airmega-mighty2/)
 - 不安全
   - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://buaq.net/go-414275.html)
   - [问答搜索引擎先驱Ask.com网站正式关闭](https://buaq.net/go-414278.html)
@@ -150,6 +164,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [TProxy and NAT](https://dyrnq.com/tproxy-and-nat/)
+- 爱范儿
+  - [OpenAI「复活」了 QQ宠物，网友直接玩疯，把奥特曼和他死对头都养在了电脑里](https://www.ifanr.com/1664765?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [DeepSeek V4最大的遗憾](https://www.qbitai.com/2026/05/412737.html)
 - 黑海洋
