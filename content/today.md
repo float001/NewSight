@@ -13,8 +13,10 @@
   - [Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away](https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security)
   - [App Store Search Ads and the Slippery Slope](https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten)
   - [Google Owns a Big Chunk of Anthropic](https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html?unlocked_article_code=1.f1A.eSTf.D5ECvk6f4DZ7)
+  - [Paul Thurrott Might Write a Book on Markdown](https://www.thurrott.com/paul/334577/the-markdown-book-on-writing?utm_source=dlvr.it&utm_medium=mastodon)
   - [Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)](https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/)
   - [‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’](https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the)
+  - [★ Y Combinator’s Stake in OpenAI](https://daringfireball.net/2026/05/y_combinators_stake_in_openai)
 - Fidelis Security
   - [CI/CD Pipeline Security Tools and Technologies](https://fidelissecurity.com/threatgeek/cloud-security/ci-cd-pipeline-security-tools-and-technologies/)
 - Hacker News Frontpage
@@ -36,11 +38,15 @@
   - [Meet Modulate: HackerNoon Company of the Week](https://hackernoon.com/meet-modulate-hackernoon-company-of-the-week?source=rss)
   - [The Debug Diaries: How PlayerZero Triaged a "Bug" That Wasn't Actually Broken](https://hackernoon.com/the-debug-diaries-how-playerzero-triaged-a-bug-that-wasnt-actually-broken?source=rss)
   - [When a Microscope Alters Destiny](https://hackernoon.com/when-a-microscope-alters-destiny?source=rss)
+- idiallo.com
+  - [AI didn't delete your database, you did](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed)
 - IEEE Spectrum
   - [IEEE Smart Village Is Helping to Electrify Rural Cameroon](https://spectrum.ieee.org/ieee-smart-village-rei-cameroon)
 - PwnDefend
   - [When AI goes wrong…](https://www.pwndefend.com/2026/05/04/when-ai-goes-wrong/)
 - simonwillison.net
+  - [April 2026 newsletter](https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything)
+  - [Quoting Andy Masley](https://simonwillison.net/2026/May/4/andy-masley/#atom-everything)
   - [TRE Python binding — ReDoS robustness demo](https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Blind_SQLI_FlaskProject exploit](https://sploitus.com/exploit?id=6E7BED01-CC64-52EB-BC60-D0BC2493AF9F&utm_source=rss&utm_medium=rss)
@@ -60,7 +66,9 @@
   - [Katie Haun raises $1B for new venture funds](https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/)
   - [OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO](https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/)
   - [Sierra raises $950M as the race to own enterprise AI gets serious](https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/)
+  - [US government warns of severe CopyFail bug affecting major versions of Linux](https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/)
 - The Verge
+  - [Elon Musk will settle the feds’ Twitter lawsuit with pocket change](https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x)
   - [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale)
   - [SwitchBot’s rechargeable button pusher is on sale for over 20 percent off](https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal)
   - [The best Star Wars Day deals](https://www.theverge.com/gadgets/922905/best-star-wars-day-2026-may-the-fourth-4th-deals-sale)
@@ -86,11 +94,14 @@
   - [CVE-2026-42374 | D-Link DIR-600L B1 /bin/telnetd.sh strcmp hard-coded credentials](https://vuldb.com/vuln/360989)
   - [CVE-2026-42375 | D-Link DIR-600L A1 /bin/telnetd.sh strcmp hard-coded credentials](https://vuldb.com/vuln/360990)
   - [CVE-2026-42376 | D-Link DIR-456U A1 S80telnetd.sh strcmp hard-coded credentials](https://vuldb.com/vuln/360991)
+  - [CVE-2026-7776 | HashiCorp Boundary/Boundary Enterprise up to 0.19.4/0.20.2/0.21.2 Node Enrollment TLS Handshake allocation of resources](https://vuldb.com/vuln/361073)
   - [CVE-2026-7785 | A-G-U-P-T-A wireshark-mcp pyshark_mcp.py quick_capture os command injection](https://vuldb.com/vuln/360985)
   - [CVE-2026-7788 | Axle-Bucamp MCP-Docusaurus up to 404bc028e15ec304c9a045528560f4b5f27a17e0 app/routes/document.py DOCS_DIR/path path traversal](https://vuldb.com/vuln/360994)
   - [CVE-2026-7810 | UsamaK98 python-notebook-mcp up to a05a232815809a7e425b5fa7be26e0d4369894c2 server.py create_notebook/read_notebook/edit_cell/add_cell path traversal](https://vuldb.com/vuln/361070)
   - [CVE-2026-7811 | 54yyyu code-mcp up to 4cfc4643541a110c906d93635b391bf7e357f4a8 MCP File src/code_mcp/server.py is_safe_path path traversal](https://vuldb.com/vuln/361071)
   - [CVE-2026-7812 | 54yyyu code-mcp up to 4cfc4643541a110c906d93635b391bf7e357f4a8 MCP Tool src/code_mcp/server.py git_operation command injection](https://vuldb.com/vuln/361072)
+  - [CVE-2026-7822 | itsourcecode Courier Management System 1.0 /print_pdets.php ids sql injection](https://vuldb.com/vuln/361074)
+  - [CVE-2026-7823 | Totolink A8000RU 7.1cu.643_b20200521 /cgi-bin/cstecgi.cgi setAppFilterCfg enable os command injection](https://vuldb.com/vuln/361075)
 - Vulners.com RSS Feed
   - [apko `DiscoverKeys` has a panic on non-rsa jwks key that causes crash during key discovery](https://vulners.com/github/GHSA-M7HM-VM4X-28JF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [apko dirFS has a symlink-following path traversal that allows multiple entry points to escape the build root](https://vulners.com/github/GHSA-QQ3R-W4HJ-GJP6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -253,11 +264,18 @@
   - [CVE-2026-7779](https://vulners.com/nvd/NVD:CVE-2026-7779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7779 Open5GS authentication-subscription Endpoint nudr-handler.c udm_nudr_dr_handle_subscription_authentication denial of service](https://vulners.com/cve/CVE-2026-7779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7779 Open5GS authentication-subscription Endpoint nudr-handler.c udm_nudr_dr_handle_subscription_authentication denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-7779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7781 Open5GS amf-3gpp-access Endpoint nudm-handler.c udm_nudm_uecm_handle_amf_registration_update denial of service](https://vulners.com/cve/CVE-2026-7781?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7781 Open5GS amf-3gpp-access Endpoint nudm-handler.c udm_nudm_uecm_handle_amf_registration_update denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-7781?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7782 CodeCanyon Perfex CRM Tenant Clients.php project authorization](https://vulners.com/cve/CVE-2026-7782?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7782 CodeCanyon Perfex CRM Tenant Clients.php project authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-7782?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7791](https://vulners.com/cve/CVE-2026-7791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7791](https://vulners.com/cvelist/CVELIST:CVE-2026-7791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DotNetRemotingExploitPy](https://vulners.com/githubexploit/FF57EA6D-C266-525A-B120-C8A648487159?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-40271](https://vulners.com/githubexploit/ABA9F7C7-1AFE-5C98-BDD1-779889D1629A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-68930](https://vulners.com/githubexploit/2BB21CF4-4D6A-5B52-89B2-8B73C182FBC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-31341](https://vulners.com/githubexploit/A310CBC4-CE91-509B-ADDF-881523045AF1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Heap-based Buffer Overflow in Postgresql](https://vulners.com/githubexploit/B49600A6-B130-55AB-BBE9-5FF0474D9BD2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/1B799F93-A538-557E-AFBB-612396EAD174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel](https://vulners.com/githubexploit/D324DF9D-9F64-5DA2-BACE-4EA55C41EF7D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Microsoft](https://vulners.com/githubexploit/7C38CECC-2A55-5BB7-8F34-D5925E1C2C0F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-83PH-9QXX-HFJX vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-83PH-9QXX-HFJX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -269,6 +287,11 @@
   - [GHSA-RG96-8JMP-9MWC vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-RG96-8JMP-9MWC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-RG96-8JMP-9MWC vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-RG96-8JMP-9MWC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-V9JR-RG53-9PGP vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-V9JR-RG53-9PGP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: kernel security update](https://vulners.com/redhat/RHSA-2026:13566?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kernel: crypto: algif_aead - Revert to operating out-of-place](https://vulners.com/redhat/RHSA-2026:13566-CVE-2026-31431?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kernel: Linux kernel: Use-after-free in bonding driver leads to denial of service](https://vulners.com/redhat/RHSA-2026:13566-CVE-2026-31419?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kernel: Linux kernel: Use-after-free in traffic control (act_ct) may lead to denial of service or privilege escalation](https://vulners.com/redhat/RHSA-2026:13566-CVE-2026-23270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kernel: nfsd: fix heap overflow in NFSv4.0 LOCK replay cache](https://vulners.com/redhat/RHSA-2026:13566-CVE-2026-31402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in rogiant-quick-install (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-3333?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [mediatek-mt8365-preloader-exploit](https://vulners.com/githubexploit/2C31F084-3E15-5EF8-A10B-FE0CC3AFFC15?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenClaw's Gateway Control UI bootstrap config required Gateway auth](https://vulners.com/github/GHSA-93RG-2XM5-2P9V?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -282,6 +305,7 @@
 - Wired
   - [7 Best Smart Locks (2026) for Front Doors, Side Doors, and Even Garages](https://www.wired.com/story/best-smart-locks/)
   - [Best Mother's Day Deals on Mom-Approved Gifts (2026)](https://www.wired.com/story/mothers-day-deals-2026/)
+  - [What the Spirit Airlines Implosion Means for Your Vacation](https://www.wired.com/story/what-the-spirit-airlines-implosion-means-for-your-vacation/)
   - [What to Know About Sony’s $7.85 Million PlayStation Settlement](https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
