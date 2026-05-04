@@ -3,7 +3,10 @@
 - 2Libra
   - [Telegram+86 的手机号显示收费怎么解决](https://2libra.com/post/tech-qa/-C8HLic)
   - [鹤守抄暴雷了](https://2libra.com/post/good-books/jyq6yT1)
+- 36氪
+  - [游戏驿站提出近560亿美元收购eBay](https://36kr.com/newsflashes/3794262182993161?f=rss)
 - daringfireball.net
+  - [X, the Platform of Free Speech](https://bsky.app/profile/gilduran.com/post/3mky5taqg3222)
   - [‘2 Letters From Steve’](https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/)
   - [★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law](https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law)
 - dfarq.homeip.net
@@ -19,6 +22,7 @@
 - martinalderson.com
   - [29th August 2026: a scenario](https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&utm_medium=rss&utm_campaign=feed)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-42167 exploit](https://sploitus.com/exploit?id=CB4E4765-38DF-5BC4-AD88-3DC5E99F329F&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=A32F02DB-BE71-5831-BEAB-38983A6B8ADB&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=8C342626-75CE-5DB6-935E-A431EECC0B39&utm_source=rss&utm_medium=rss)
   - [pentest-automation-framework exploit](https://sploitus.com/exploit?id=817BC301-E0E2-56FC-9B87-CD52EF456C99&utm_source=rss&utm_medium=rss)
@@ -69,6 +73,7 @@
   - [CVE_2026_41940_scan_exploit](https://vulners.com/githubexploit/86FADDD6-D954-50F1-99D2-A2723BF897EC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-36356](https://vulners.com/githubexploit/5FCA17C0-9C5E-502E-8986-1AB9D0B163B9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-40776](https://vulners.com/githubexploit/445C517A-FBD0-5894-80F1-5C6758783847?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-42167](https://vulners.com/githubexploit/CB4E4765-38DF-5BC4-AD88-3DC5E99F329F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/6520FB88-03F7-551B-9D92-D3FBC4CCF152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/A32F02DB-BE71-5831-BEAB-38983A6B8ADB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/F86C0BF4-3B9B-560C-AD71-6CF4777D0675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
