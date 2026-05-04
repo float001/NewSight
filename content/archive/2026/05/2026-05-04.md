@@ -2,8 +2,16 @@
 
 - 2Libra
   - [Telegram+86 的手机号显示收费怎么解决](https://2libra.com/post/tech-qa/-C8HLic)
+  - [不搞了，搞不动了。](https://2libra.com/post/vibe-coding/qKM2las)
+  - [骑电摩不上牌](https://2libra.com/post/questions/YRRxVYH)
   - [鹤守抄暴雷了](https://2libra.com/post/good-books/jyq6yT1)
 - 36氪
+  - [三星电子任命新的视觉显示业务负责人](https://36kr.com/newsflashes/3794309684255751?f=rss)
+  - [东阳光药甘精胰岛素获FDA批准](https://36kr.com/newsflashes/3794266619665417?f=rss)
+  - [今天全国铁路预计发送旅客2030万人次](https://36kr.com/newsflashes/3794319829670918?f=rss)
+  - [恒指开盘涨1.4%，恒生科技指数涨1.58%](https://36kr.com/newsflashes/3794303505292545?f=rss)
+  - [恒生科技指数涨3%，升破5000点关口](https://36kr.com/newsflashes/3794323081026816?f=rss)
+  - [恒生科技指数高开高走，涨幅扩大至2%](https://36kr.com/newsflashes/3794317199203592?f=rss)
   - [游戏驿站提出近560亿美元收购eBay](https://36kr.com/newsflashes/3794262182993161?f=rss)
 - daringfireball.net
   - [X, the Platform of Free Speech](https://bsky.app/profile/gilduran.com/post/3mky5taqg3222)
@@ -22,12 +30,15 @@
 - martinalderson.com
   - [29th August 2026: a scenario](https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&utm_medium=rss&utm_campaign=feed)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Frangoteam Fuxa exploit](https://sploitus.com/exploit?id=51B15117-BA05-5423-8E80-2F6A6172C497&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-60751 exploit](https://sploitus.com/exploit?id=BF5654F7-AA7A-5B2E-9E72-EADA01925A49&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42167 exploit](https://sploitus.com/exploit?id=CB4E4765-38DF-5BC4-AD88-3DC5E99F329F&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=A32F02DB-BE71-5831-BEAB-38983A6B8ADB&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=8C342626-75CE-5DB6-935E-A431EECC0B39&utm_source=rss&utm_medium=rss)
   - [pentest-automation-framework exploit](https://sploitus.com/exploit?id=817BC301-E0E2-56FC-9B87-CD52EF456C99&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [In Harvard study, AI offered more accurate diagnoses than emergency room doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)
+  - [We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/)
   - [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)
 - VulDB Recent Entries
   - [CVE-2026-7728 | ryanjoachim mcp-rtfm 0.1.0 MCP Interface get_doc_content/read_doc/update_doc docFile path traversal](https://vuldb.com/vuln/360903)
@@ -54,6 +65,7 @@
   - [CVE-2026-7749 | Totolink N300RH 3.2.4-B20220812 POST Request /cgi-bin/cstecgi.cgi setWanConfig priDns buffer overflow](https://vuldb.com/vuln/360924)
   - [CVE-2026-7750 | Totolink N300RH 3.2.4-B20220812 POST Request /cgi-bin/cstecgi.cgi setMacFilterRules mac_address buffer overflow](https://vuldb.com/vuln/360925)
 - Vulners.com RSS Feed
+  - [[SECURITY] Fedora 42 Update: chromium-147.0.7727.137-1.fc42](https://vulners.com/fedora/FEDORA:A8DD2796A0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7703](https://vulners.com/nvd/NVD:CVE-2026-7703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7703 AV Stumpfl Pixera Two Media Server Websocket API code injection](https://vulners.com/cve/CVE-2026-7703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7703 AV Stumpfl Pixera Two Media Server Websocket API code injection](https://vulners.com/cvelist/CVELIST:CVE-2026-7703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -71,6 +83,8 @@
   - [CVE-2026-7712 MindsDB Pickle pickle.loads deserialization](https://vulners.com/cve/CVE-2026-7712?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7712 MindsDB Pickle pickle.loads deserialization](https://vulners.com/cvelist/CVELIST:CVE-2026-7712?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE_2026_41940_scan_exploit](https://vulners.com/githubexploit/86FADDD6-D954-50F1-99D2-A2723BF897EC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Frangoteam Fuxa](https://vulners.com/githubexploit/51B15117-BA05-5423-8E80-2F6A6172C497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2025-60751](https://vulners.com/githubexploit/BF5654F7-AA7A-5B2E-9E72-EADA01925A49?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-36356](https://vulners.com/githubexploit/5FCA17C0-9C5E-502E-8986-1AB9D0B163B9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-40776](https://vulners.com/githubexploit/445C517A-FBD0-5894-80F1-5C6758783847?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42167](https://vulners.com/githubexploit/CB4E4765-38DF-5BC4-AD88-3DC5E99F329F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
