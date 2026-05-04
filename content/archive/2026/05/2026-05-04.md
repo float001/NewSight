@@ -47,11 +47,14 @@
   - [X, the Platform of Free Speech](https://bsky.app/profile/gilduran.com/post/3mky5taqg3222)
   - [‘2 Letters From Steve’](https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/)
   - [★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law](https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law)
+- darkreading
+  - [How Dark Reading Lifted Off the Launchpad in 2006](https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006)
 - defend.network
   - [Daily Threat Briefing – May 4, 2026](https://defend.network/briefings/linux-cve-actively-exploited-kev-2026-05-04.html)
 - dfarq.homeip.net
   - [Microsoft’s open sourcing of 86-DOS and what it means](https://dfarq.homeip.net/microsofts-open-sourcing-of-86-dos-and-what-it-means/?utm_source=rss&utm_medium=rss&utm_campaign=microsofts-open-sourcing-of-86-dos-and-what-it-means)
 - Hacker News Frontpage
+  - [ASML's Best Selling Product Isn't What You Think It Is](https://www.siliconimist.com/p/asmls-best-selling-product)
   - [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude)
   - [How Kepler built verifiable AI for financial services with Claude](https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude)
   - [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html)
@@ -63,12 +66,16 @@
   - [29th August 2026: a scenario](https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&utm_medium=rss&utm_campaign=feed)
 - pluralistic.net
   - [Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)](https://pluralistic.net/2026/05/04/hope-in-the-dark/)
+- Recent Commits to cve:main
+  - [Update Mon May  4 11:19:22 UTC 2026](https://github.com/trickest/cve/commit/d1002b79808de30371f90c0f5c51d53e87413adf)
 - rtl-sdr.com
   - [L-Band Weather Imagery Soon Coming Back to Western Europe via Elektro-L3](https://www.rtl-sdr.com/l-band-weather-imagery-soon-coming-back-to-western-europe-via-elektro-l3/)
   - [P25-Survey: A Tool for Scanning and Logging P25 Control Channels with an SDR](https://www.rtl-sdr.com/p25-survey-a-tool-for-scanning-and-logging-p25-control-channels-with-an-sdr/)
   - [Portable ADS-B Receiver Firmware for the ESP32-P4 Based LILYGO T-Display-P4 with RTL-SDR](https://www.rtl-sdr.com/portable-ads-b-receiver-firmware-for-the-esp32-p4-based-lilygo-t-display-p4-with-rtl-sdr/)
 - Securelist
   - [“Legitimate” phishing: how attackers weaponize Amazon SES to bypass email security](https://securelist.com/amazon-ses-phishing-and-bec-attacks/119623/)
+- shkspr.mobi
+  - [[RSS Club] Where are you from?](https://shkspr.mobi/blog/2026/05/rss-club-where-are-you-from/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Frangoteam Fuxa exploit](https://sploitus.com/exploit?id=51B15117-BA05-5423-8E80-2F6A6172C497&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-60751 exploit](https://sploitus.com/exploit?id=BF5654F7-AA7A-5B2E-9E72-EADA01925A49&utm_source=rss&utm_medium=rss)
@@ -78,9 +85,12 @@
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=53E3DB45-7970-557D-9561-647A6733696A&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=A2499462-6B80-55D9-8E37-C97B5026EE9E&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=A32F02DB-BE71-5831-BEAB-38983A6B8ADB&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=EE9C6FA8-1293-5E82-A679-62D645F2AE75&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=FC728476-FA81-5F7E-ADD6-C35DAB2677C8&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=5594483C-6BE4-5815-989A-419B36AC3894&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=8C342626-75CE-5DB6-935E-A431EECC0B39&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=B719E7B8-A835-5AB3-AE3F-CB042CA6E3EB&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=FFC454D1-5B30-59A4-A8DE-7C4C5D236F6A&utm_source=rss&utm_medium=rss)
   - [Exploit for Use of Externally-Controlled Format String in Ghs Integrity_Rtos exploit](https://sploitus.com/exploit?id=394B9C15-6ADA-53E5-89BA-23ADA1308863&utm_source=rss&utm_medium=rss)
   - [pentest-automation-framework exploit](https://sploitus.com/exploit?id=817BC301-E0E2-56FC-9B87-CD52EF456C99&utm_source=rss&utm_medium=rss)
   - [vulnerability-research exploit](https://sploitus.com/exploit?id=20291B1A-76F5-54D4-ADC4-F5ACA03E0FB7&utm_source=rss&utm_medium=rss)
@@ -91,6 +101,7 @@
   - [We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/)
   - [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)
 - The Decoder
+  - [Cerebras targets $40 billion valuation in second IPO attempt](https://the-decoder.com/cerebras-targets-40-billion-valuation-in-second-ipo-attempt/)
   - [OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves](https://the-decoder.com/openai-says-human-attention-is-the-bottleneck-so-it-built-a-system-to-let-agents-manage-themselves/)
 - VulDB Recent Entries
   - [CVE-2025-14320 | Tegsoft Online Support Application up to 31122025 cross site scripting](https://vuldb.com/vuln/360951)
@@ -136,6 +147,7 @@
   - [CVE-2026-7749 | Totolink N300RH 3.2.4-B20220812 POST Request /cgi-bin/cstecgi.cgi setWanConfig priDns buffer overflow](https://vuldb.com/vuln/360924)
   - [CVE-2026-7750 | Totolink N300RH 3.2.4-B20220812 POST Request /cgi-bin/cstecgi.cgi setMacFilterRules mac_address buffer overflow](https://vuldb.com/vuln/360925)
 - Vulners.com RSS Feed
+  - [2026: The Year of AI-Assisted Attacks](https://vulners.com/thn/THN:C564EC122F8804583A1096AD2F253DC6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 42 Update: chromium-147.0.7727.137-1.fc42](https://vulners.com/fedora/FEDORA:A8DD2796A0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks](https://vulners.com/thn/THN:9F536DAE6F1DB8BC6899886A5AAA7592?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-33846](https://vulners.com/attackerkb/AKB:CEA72C4E-6439-4BAA-8A3E-ED9A940DB9C1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -209,12 +221,15 @@
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/6520FB88-03F7-551B-9D92-D3FBC4CCF152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/A2499462-6B80-55D9-8E37-C97B5026EE9E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/A32F02DB-BE71-5831-BEAB-38983A6B8ADB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/EE9C6FA8-1293-5E82-A679-62D645F2AE75?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/F86C0BF4-3B9B-560C-AD71-6CF4777D0675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/FC728476-FA81-5F7E-ADD6-C35DAB2677C8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://vulners.com/githubexploit/32041CF4-76E1-5E02-A5F7-EDF900909E5D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://vulners.com/githubexploit/C4018EE9-1433-5092-AC19-CF08ED3E03E4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel](https://vulners.com/githubexploit/5594483C-6BE4-5815-989A-419B36AC3894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel](https://vulners.com/githubexploit/8C342626-75CE-5DB6-935E-A431EECC0B39?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Missing Authentication for Critical Function in Cpanel](https://vulners.com/githubexploit/B719E7B8-A835-5AB3-AE3F-CB042CA6E3EB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Missing Authentication for Critical Function in Cpanel](https://vulners.com/githubexploit/FFC454D1-5B30-59A4-A8DE-7C4C5D236F6A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Out-of-bounds Write in Zeromq Libzmq](https://vulners.com/githubexploit/B42A5191-DCB6-5252-9940-662869B0218D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use of Externally-Controlled Format String in Ghs Integrity_Rtos](https://vulners.com/githubexploit/394B9C15-6ADA-53E5-89BA-23ADA1308863?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [firefox: thunderbird: Incorrect boundary conditions, integer overflow in the Graphics: Text component](https://vulners.com/redhat/RHSA-2026:13342-CVE-2026-5732?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -223,6 +238,7 @@
   - [libpng: libpng: Information disclosure and denial of service via out-of-bounds read/write in Neon palette expansion](https://vulners.com/redhat/RHSA-2026:13342-CVE-2026-33636?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [linux-copy-fail-exploit](https://vulners.com/githubexploit/8AD3055F-1763-59E6-927E-C30C7EAE22D3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [pentest-automation-framework](https://vulners.com/githubexploit/817BC301-E0E2-56FC-9B87-CD52EF456C99?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia](https://vulners.com/thn/THN:2EB3DEFC2B82C88A5C50AA21BE8E8524?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [thunderbird: firefox: Memory safety bugs fixed in Firefox ESR 115.34.1, Firefox ESR 140.9.1, Thunderbird ESR 140.9.1, Firefox 149.0.2 and Thunderbird 149.0.2](https://vulners.com/redhat/RHSA-2026:13342-CVE-2026-5731?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [thunderbird: firefox: Memory safety bugs fixed in Firefox ESR 140.9.1, Thunderbird ESR 140.9.1, Firefox 149.0.2 and Thunderbird 149.0.2](https://vulners.com/redhat/RHSA-2026:13342-CVE-2026-5734?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vulnerability-research](https://vulners.com/githubexploit/20291B1A-76F5-54D4-ADC4-F5ACA03E0FB7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -241,6 +257,7 @@
   - [Welcome to the Great American Satellite Age](https://www.wired.com/story/welcome-to-the-great-american-satellite-age/)
   - [What I Packed to Run 80 Miles Across the Italian Apennine Mountains](https://www.wired.com/story/what-i-packed-to-run-80-miles-italian-apennine/)
 - 不安全
+  - [AI for Security Infrastructure: Rebalancing Cybersecurity for the Decade Ahead](https://buaq.net/go-414391.html)
   - [L-Band Weather Imagery Soon Coming Back to Western Europe via Elektro-L3](https://buaq.net/go-414363.html)
   - [P25-Survey: A Tool for Scanning and Logging P25 Control Channels with an SDR](https://buaq.net/go-414364.html)
 - 代码审计星球
