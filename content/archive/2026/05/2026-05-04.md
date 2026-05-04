@@ -23,6 +23,8 @@
   - [游戏驿站提出近560亿美元收购eBay](https://36kr.com/newsflashes/3794262182993161?f=rss)
   - [潍柴动力港股涨近14%，股价再创历史新高](https://36kr.com/newsflashes/3794364928695554?f=rss)
   - [现代起亚4月份美国销量同比下降2.1%，混动车销量创新高](https://36kr.com/newsflashes/3794415218793737?f=rss)
+  - [精锻科技：当前公司机器人业务尚未形成销售收入](https://36kr.com/newsflashes/3794483360046337?f=rss)
+  - [豆包将在免费模式外新增付费订阅，官方回应](https://36kr.com/newsflashes/3794495772712195?f=rss)
   - [高盛据悉将向与Anthropico合资的企业注资约1.5亿美元](https://36kr.com/newsflashes/3794354869869833?f=rss)
 - daringfireball.net
   - [X, the Platform of Free Speech](https://bsky.app/profile/gilduran.com/post/3mky5taqg3222)
@@ -55,6 +57,17 @@
   - [We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/)
   - [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)
 - VulDB Recent Entries
+  - [CVE-2026-42364 | GeoVision GV-LPC2011/LPC2211 up to 1.10 DDNS DdnsSetting.cgi os command injection](https://vuldb.com/vuln/360932)
+  - [CVE-2026-42365 | GeoVision GV-LPC2011/LPC2211 up to 1.10 Web Interface predictable state](https://vuldb.com/vuln/360929)
+  - [CVE-2026-42366 | GeoVision GV-LPC2011/LPC2211 up to 1.10 Web Interface cross site scripting](https://vuldb.com/vuln/360935)
+  - [CVE-2026-42367 | GeoVision GV-LPC2011/LPC2211 up to 1.10 Web Interface insufficiently protected credentials](https://vuldb.com/vuln/360933)
+  - [CVE-2026-42368 | GeoVision GV-LPC2011/LPC2211 up to 1.10 Web Interface privileges assignment](https://vuldb.com/vuln/360926)
+  - [CVE-2026-42369 | GeoVision GV-VMS up to 20.0.2 Web Interface out-of-bounds write](https://vuldb.com/vuln/360931)
+  - [CVE-2026-42370 | GeoVision GV-VMS V20.0.2 up to 20.0.2 WebCam Server Login out-of-bounds write](https://vuldb.com/vuln/360930)
+  - [CVE-2026-6948 | Rapid7 Velociraptor up to 0.76.3 Agent Control Channel allocation of resources](https://vuldb.com/vuln/360928)
+  - [CVE-2026-7161 | GeoVision GV-IP Device Utility up to 9.0.5.0 Broadcast Message reliance on security through obscurity](https://vuldb.com/vuln/360934)
+  - [CVE-2026-7371 | GeoVision GV-LPC2011/LPC2211 up to 1.10 Web Interface cross site scripting](https://vuldb.com/vuln/360936)
+  - [CVE-2026-7372 | GeoVision GV-VMS V20.0.2 up to 20.0.2 WebCam Server Login out-of-bounds write](https://vuldb.com/vuln/360927)
   - [CVE-2026-7728 | ryanjoachim mcp-rtfm 0.1.0 MCP Interface get_doc_content/read_doc/update_doc docFile path traversal](https://vuldb.com/vuln/360903)
   - [CVE-2026-7729 | pixelsock directus-mcp 1.0.0 MCP Interface index.ts validateUrl fileUrl server-side request forgery](https://vuldb.com/vuln/360904)
   - [CVE-2026-7730 | privsim mcp-test-runner 0.2.0 MCP Interface src/index.ts child_process.spawn command os command injection](https://vuldb.com/vuln/360905)
@@ -124,4 +137,5 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [最新预测：全球内存短缺将持续到2027年](https://blog.upx8.com/%E6%9C%80%E6%96%B0%E9%A2%84%E6%B5%8B-%E5%85%A8%E7%90%83%E5%86%85%E5%AD%98%E7%9F%AD%E7%BC%BA%E5%B0%86%E6%8C%81%E7%BB%AD%E5%88%B02027%E5%B9%B4)
   - [生成的演员和剧本不能获得奥斯卡奖](https://blog.upx8.com/%E7%94%9F%E6%88%90%E7%9A%84%E6%BC%94%E5%91%98%E5%92%8C%E5%89%A7%E6%9C%AC%E4%B8%8D%E8%83%BD%E8%8E%B7%E5%BE%97%E5%A5%A5%E6%96%AF%E5%8D%A1%E5%A5%96)
