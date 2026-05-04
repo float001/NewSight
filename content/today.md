@@ -21,6 +21,7 @@
   - [三星电子任命新的视觉显示业务负责人](https://36kr.com/newsflashes/3794309684255751?f=rss)
   - [东阳光药甘精胰岛素获FDA批准](https://36kr.com/newsflashes/3794266619665417?f=rss)
   - [今天全国铁路预计发送旅客2030万人次](https://36kr.com/newsflashes/3794319829670918?f=rss)
+  - [全球最大汽车滚装船首靠上海港](https://36kr.com/newsflashes/3794774353796105?f=rss)
   - [国开行一季度发放专项转贷款285.4亿元支持外贸小微企业发展](https://36kr.com/newsflashes/3794378433830144?f=rss)
   - [巴克莱预计美联储将在2026年维持利率不变](https://36kr.com/newsflashes/3794592047013122?f=rss)
   - [恒指午间休盘涨1.7%，恒生科技指数涨2.86%](https://36kr.com/newsflashes/3794457822059523?f=rss)
@@ -36,6 +37,8 @@
   - [现代起亚4月份美国销量同比下降2.1%，混动车销量创新高](https://36kr.com/newsflashes/3794415218793737?f=rss)
   - [精锻科技：当前公司机器人业务尚未形成销售收入](https://36kr.com/newsflashes/3794483360046337?f=rss)
   - [豆包将在免费模式外新增付费订阅，官方回应](https://36kr.com/newsflashes/3794495772712195?f=rss)
+  - [豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线](https://36kr.com/p/3794799114476809?f=rss)
+  - [陈发树一季度新进伊利股份，持股市值近16亿元](https://36kr.com/newsflashes/3794771402185991?f=rss)
   - [韩国3月网购销售额突破25万亿韩元创新高，特斯拉需求激增](https://36kr.com/newsflashes/3794527211707398?f=rss)
   - [韩国KOSPI指数收盘上涨5.12%，刷新历史新高](https://36kr.com/newsflashes/3794606254398728?f=rss)
   - [高盛据悉将向与Anthropico合资的企业注资约1.5亿美元](https://36kr.com/newsflashes/3794354869869833?f=rss)
@@ -57,10 +60,14 @@
   - [The shape of a guitar pick](https://www.johndcook.com/blog/2026/05/03/guitar-pick/)
 - martinalderson.com
   - [29th August 2026: a scenario](https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&utm_medium=rss&utm_campaign=feed)
+- pluralistic.net
+  - [Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)](https://pluralistic.net/2026/05/04/hope-in-the-dark/)
 - rtl-sdr.com
   - [L-Band Weather Imagery Soon Coming Back to Western Europe via Elektro-L3](https://www.rtl-sdr.com/l-band-weather-imagery-soon-coming-back-to-western-europe-via-elektro-l3/)
   - [P25-Survey: A Tool for Scanning and Logging P25 Control Channels with an SDR](https://www.rtl-sdr.com/p25-survey-a-tool-for-scanning-and-logging-p25-control-channels-with-an-sdr/)
   - [Portable ADS-B Receiver Firmware for the ESP32-P4 Based LILYGO T-Display-P4 with RTL-SDR](https://www.rtl-sdr.com/portable-ads-b-receiver-firmware-for-the-esp32-p4-based-lilygo-t-display-p4-with-rtl-sdr/)
+- Securelist
+  - [“Legitimate” phishing: how attackers weaponize Amazon SES to bypass email security](https://securelist.com/amazon-ses-phishing-and-bec-attacks/119623/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Frangoteam Fuxa exploit](https://sploitus.com/exploit?id=51B15117-BA05-5423-8E80-2F6A6172C497&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-60751 exploit](https://sploitus.com/exploit?id=BF5654F7-AA7A-5B2E-9E72-EADA01925A49&utm_source=rss&utm_medium=rss)
@@ -77,9 +84,13 @@
 - TechCrunch
   - [In Harvard study, AI offered more accurate diagnoses than emergency room doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)
   - [Nicolas Sauvage is betting on the boring parts of AI](https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/)
+  - [Ouster’s new color lidar is coming to replace cameras](https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/)
   - [We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/)
   - [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)
+- The Decoder
+  - [OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves](https://the-decoder.com/openai-says-human-attention-is-the-bottleneck-so-it-built-a-system-to-let-agents-manage-themselves/)
 - VulDB Recent Entries
+  - [CVE-2025-14320 | Tegsoft Online Support Application up to 31122025 cross site scripting](https://vuldb.com/vuln/360951)
   - [CVE-2026-20451 | MediaTek MT8910 slbc type confusion](https://vuldb.com/vuln/360944)
   - [CVE-2026-42364 | GeoVision GV-LPC2011/LPC2211 up to 1.10 DDNS DdnsSetting.cgi os command injection](https://vuldb.com/vuln/360932)
   - [CVE-2026-42365 | GeoVision GV-LPC2011/LPC2211 up to 1.10 Web Interface predictable state](https://vuldb.com/vuln/360929)
@@ -123,6 +134,10 @@
   - [CVE-2026-7750 | Totolink N300RH 3.2.4-B20220812 POST Request /cgi-bin/cstecgi.cgi setMacFilterRules mac_address buffer overflow](https://vuldb.com/vuln/360925)
 - Vulners.com RSS Feed
   - [[SECURITY] Fedora 42 Update: chromium-147.0.7727.137-1.fc42](https://vulners.com/fedora/FEDORA:A8DD2796A0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks](https://vulners.com/thn/THN:9F536DAE6F1DB8BC6899886A5AAA7592?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-33846](https://vulners.com/attackerkb/AKB:CEA72C4E-6439-4BAA-8A3E-ED9A940DB9C1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-33846 Gnutls: gnutls: denial of service via heap buffer overflow in dtls handshake fragment reassembly](https://vulners.com/cve/CVE-2026-33846?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-33846 Gnutls: gnutls: denial of service via heap buffer overflow in dtls handshake fragment reassembly](https://vulners.com/cvelist/CVELIST:CVE-2026-33846?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43864](https://vulners.com/cve/CVE-2026-43864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43864](https://vulners.com/cvelist/CVELIST:CVE-2026-43864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7703](https://vulners.com/nvd/NVD:CVE-2026-7703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -201,7 +216,10 @@
 - Wallarm
   - [Introducing Wallarm Middle East Cloud: Built for Data Residency Compliance](https://lab.wallarm.com/introducing-wallarm-middle-east-cloud-data-residency-compliance/)
 - Wired
+  - [15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
+  - [Can Listening to ‘Subliminals’ Make You Beautiful? Plenty of Women Believe It](https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/)
   - [Dating Is a Rich Person’s Game Now](https://www.wired.com/story/dating-is-a-rich-persons-game-now/)
+  - [Science Has Found Even More Ways Coffee Is Good for You](https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/)
   - [The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters (2026)](https://www.wired.com/gallery/best-star-wars-gifts/)
   - [Welcome to the Great American Satellite Age](https://www.wired.com/story/welcome-to-the-great-american-satellite-age/)
 - 不安全
