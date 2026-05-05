@@ -13,10 +13,12 @@
   - [有没有秦皇岛的小伙伴,想去玩几天,咨询一个问题!](https://2libra.com/post/recommendations/TZPpew1)
   - [朋友们，什么时候适合买金镯子？想买一个，价格一直不合适。](https://2libra.com/post/worth-buying/ILGOlgc)
   - [豆包要开始收费了，每月 68 元](https://2libra.com/post/ai-tools/lBqUVV2)
+  - [音乐，修正版，想要创作一个好听音乐很困难](https://2libra.com/post/music-sharing/QVmNHhi)
 - 36氪
   - [2026年五一档档期票房破7亿元](https://36kr.com/newsflashes/3795956834147585?f=rss)
   - [4月份中国大宗商品价格指数为132.1点 同比上涨20.2%](https://36kr.com/newsflashes/3795710248361225?f=rss)
   - [80次出价成交较二级市场溢价超9% ST华谊0.06%股权由横琴天晟拍得](https://36kr.com/newsflashes/3796000873635076?f=rss)
+  - [东阳光：控股子公司签署算力服务采购框架合同 预计总额160亿元至190亿元](https://36kr.com/newsflashes/3796122229644550?f=rss)
   - [中国移动将推出AI-eSIM产品](https://36kr.com/newsflashes/3795830533643523?f=rss)
   - [五一假期全国铁路累计发送旅客超1亿人次](https://36kr.com/newsflashes/3796004767128582?f=rss)
   - [今天全国铁路预计发送旅客2300万人次](https://36kr.com/newsflashes/3795716010793990?f=rss)
@@ -33,12 +35,16 @@
   - [百威亚太：一季度收入14.93亿美元 同比下降0.7%](https://36kr.com/newsflashes/3795706009934851?f=rss)
   - [英派药业：拟全球发售4197.70万股H股，发售价不超21.75港元](https://36kr.com/newsflashes/3795711742778632?f=rss)
   - [苹果考虑让英特尔、三星代工设备处理器](https://36kr.com/newsflashes/3795834368302088?f=rss)
+  - [金利华电：筹划发行股份及支付现金购买中科西光股权并募集配套资金 股票停牌](https://36kr.com/newsflashes/3796124251921415?f=rss)
+  - [长和将终止确认其于VodafoneThree的投资](https://36kr.com/newsflashes/3796058692885504?f=rss)
   - [马斯克就推特持股披露诉讼与美证监会达成和解](https://36kr.com/newsflashes/3795700018093317?f=rss)
   - [高通前高管将加入英特尔，领导客户端计算与物理AI事业部](https://36kr.com/newsflashes/3795844563934467?f=rss)
 - 404 Media
   - ['Nature' Retracts Paper on the Benefits of ChatGPT in Education](https://www.404media.co/nature-retracts-paper-on-the-benefits-of-chatgpt-in-education/)
 - Ars Technica
   - [AMD is adding HDMI 2.1 support for Linux. That's good news for the Steam Machine.](https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/)
+- Articles | InfoStealers
+  - [The Missing Link: How Infostealers Fuel Ransomware Attacks (and Our New Partnership with Ransomware.live)](https://www.infostealers.com/article/the-missing-link-how-infostealers-fuel-ransomware-attacks-and-our-new-partnership-with-ransomware-live/)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Erugo  0.2.14 Remote Code Execution (RCE)](https://cxsecurity.com/issue/WLB-2026050004)
   - [Green Hills INTEGRITY RTOS IPCOMShell TELNET Format String Vulnerability - Realistic Full Chain Attack on F-16 Avionics (Ground](https://cxsecurity.com/issue/WLB-2026050002)
@@ -87,6 +93,8 @@
   - [AI didn't delete your database, you did](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed)
 - IEEE Spectrum
   - [IEEE Smart Village Is Helping to Electrify Rural Cameroon](https://spectrum.ieee.org/ieee-smart-village-rei-cameroon)
+- infosecurity-magazine.com
+  - [Trellix Reveals Unauthorized Access to Source Code](https://www.infosecurity-magazine.com/news/trellix-reveals-unauthorized/)
 - joanwestenberg.com
   - [Outrage is letting someone else set the frame](https://www.joanwestenberg.com/outrag/)
 - PwnDefend
@@ -100,12 +108,14 @@
   - [Quoting John Gruber](https://simonwillison.net/2026/May/5/john-gruber/#atom-everything)
   - [TRE Python binding — ReDoS robustness demo](https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Automation-Exploit-Legacy exploit](https://sploitus.com/exploit?id=0725F40C-1A72-5C8A-8B5C-E63D3AC478E8&utm_source=rss&utm_medium=rss)
   - [Blind_SQLI_FlaskProject exploit](https://sploitus.com/exploit?id=6E7BED01-CC64-52EB-BC60-D0BC2493AF9F&utm_source=rss&utm_medium=rss)
   - [BtlKiller exploit](https://sploitus.com/exploit?id=EE7F5426-15DD-55DD-8C0B-B2A333A6898D&utm_source=rss&utm_medium=rss)
   - [DotNetRemotingExploitPy exploit](https://sploitus.com/exploit?id=FF57EA6D-C266-525A-B120-C8A648487159&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-40271 exploit](https://sploitus.com/exploit?id=ABA9F7C7-1AFE-5C98-BDD1-779889D1629A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-68930 exploit](https://sploitus.com/exploit?id=2BB21CF4-4D6A-5B52-89B2-8B73C182FBC1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-31341 exploit](https://sploitus.com/exploit?id=A310CBC4-CE91-509B-ADDF-881523045AF1&utm_source=rss&utm_medium=rss)
+  - [Exploit for Heap-based Buffer Overflow in Postgresql exploit](https://sploitus.com/exploit?id=751B640D-0553-5C7C-8078-DF916AE09578&utm_source=rss&utm_medium=rss)
   - [Exploit for Heap-based Buffer Overflow in Postgresql exploit](https://sploitus.com/exploit?id=B49600A6-B130-55AB-BBE9-5FF0474D9BD2&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=D324DF9D-9F64-5DA2-BACE-4EA55C41EF7D&utm_source=rss&utm_medium=rss)
   - [mediatek-mt8365-preloader-exploit exploit](https://sploitus.com/exploit?id=2C31F084-3E15-5EF8-A10B-FE0CC3AFFC15&utm_source=rss&utm_medium=rss)
@@ -183,6 +193,7 @@
   - [apko `DiscoverKeys` has a panic on non-rsa jwks key that causes crash during key discovery](https://vulners.com/github/GHSA-M7HM-VM4X-28JF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [apko dirFS has a symlink-following path traversal that allows multiple entry points to escape the build root](https://vulners.com/github/GHSA-QQ3R-W4HJ-GJP6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [apko doesn't verify downloaded apk packages against APKINDEX checksum (package substitution possible)](https://vulners.com/github/GHSA-HCWR-PQ9G-RQ3M?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Automation-Exploit-Legacy](https://vulners.com/githubexploit/0725F40C-1A72-5C8A-8B5C-E63D3AC478E8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Axios has prototype pollution read-side gadgets in HTTP adapter that allow credential injection and request hijacking](https://vulners.com/github/GHSA-Q8QP-CVCW-X6JJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Axios: Authentication Bypass via Prototype Pollution Gadget in `validateStatus` Merge Strategy](https://vulners.com/github/GHSA-W9J2-PVGH-6H63?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Axios: Header Injection via Prototype Pollution](https://vulners.com/github/GHSA-6CHQ-WFR3-2HJ9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -233,6 +244,8 @@
   - [CVE-2026-3456 GeekyBot — Generate AI Content Without Prompt, Chatbot and Lead Generation <= 1.2.0 - Unauthenticated SQL Injection via 'attributekey'](https://vulners.com/cvelist/CVELIST:CVE-2026-3456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-35228](https://vulners.com/cve/CVE-2026-35228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-35228](https://vulners.com/cvelist/CVELIST:CVE-2026-35228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-3601 User Registration & Membership <= 5.1.4 - Missing Authorization to Authenticated (Contributor+) Limited Page Content Modification](https://vulners.com/cve/CVE-2026-3601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-3601 User Registration & Membership <= 5.1.4 - Missing Authorization to Authenticated (Contributor+) Limited Page Content Modification](https://vulners.com/cvelist/CVELIST:CVE-2026-3601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-37461](https://vulners.com/nvd/NVD:CVE-2026-37461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38669](https://vulners.com/nvd/NVD:CVE-2026-38669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38751](https://vulners.com/nvd/NVD:CVE-2026-38751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -364,6 +377,7 @@
   - [CVE-2026-43616 Detect-It-Easy < 3.21 Path Traversal Arbitrary File Write](https://vulners.com/cvelist/CVELIST:CVE-2026-43616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4362](https://vulners.com/nvd/NVD:CVE-2026-4362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4362 ElementsKit Elementor Addons <= 3.8.2 - Missing Authorization to Unauthenticated Widget Content Overwrite](https://vulners.com/cvelist/CVELIST:CVE-2026-4362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-43869](https://vulners.com/nvd/NVD:CVE-2026-43869?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43869 Apache Thrift: TSSLTransportFactory.java hostname verification](https://vulners.com/cve/CVE-2026-43869?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43869 Apache Thrift: TSSLTransportFactory.java hostname verification](https://vulners.com/cvelist/CVELIST:CVE-2026-43869?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43964](https://vulners.com/cve/CVE-2026-43964?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -453,6 +467,7 @@
   - [Exploit for CVE-2025-40271](https://vulners.com/githubexploit/ABA9F7C7-1AFE-5C98-BDD1-779889D1629A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-68930](https://vulners.com/githubexploit/2BB21CF4-4D6A-5B52-89B2-8B73C182FBC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-31341](https://vulners.com/githubexploit/A310CBC4-CE91-509B-ADDF-881523045AF1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Heap-based Buffer Overflow in Postgresql](https://vulners.com/githubexploit/751B640D-0553-5C7C-8078-DF916AE09578?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Heap-based Buffer Overflow in Postgresql](https://vulners.com/githubexploit/B49600A6-B130-55AB-BBE9-5FF0474D9BD2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/1B799F93-A538-557E-AFBB-612396EAD174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/EDA6BA70-68B9-5D54-9C53-1DE0BCA51BAA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -503,6 +518,7 @@
   - [Litter-Robot Promo Codes and Deals: Up to $150 Off](https://www.wired.com/story/litter-robot-promo-code/)
   - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
   - [Meta Quest Promo Codes: $50 Off | May 2026](https://www.wired.com/story/meta-quest-promo-code/)
+  - [The Best Sustainable Surf Gear (2026): Patagonia, Billabong, Outerknown](https://www.wired.com/story/best-sustainable-surf-gear/)
   - [Uplift Desk Coupon Codes & Discounts: Up to $570 Off](https://www.wired.com/story/uplift-desk-coupon-code/)
   - [Visible Promo Code: Save Over $400 in May 2026](https://www.wired.com/story/visible-promo-code/)
   - [What the Spirit Airlines Implosion Means for Your Vacation](https://www.wired.com/story/what-the-spirit-airlines-implosion-means-for-your-vacation/)
@@ -514,6 +530,7 @@
 - 博客
   - [gecos](https://dyrnq.com/gecos/)
   - [lane pipeline sink tunnel funnel channel canal](https://dyrnq.com/lane-pipeline-sink-tunnel-funnel-channel-canal/)
+  - [Spooling](https://dyrnq.com/spooling/)
   - [Subway Underground Metro](https://dyrnq.com/subway-underground-metro/)
 - 黑海洋
   - [Notepad++ 原创者称从未推出 macOS 版](https://blog.upx8.com/Notepad-%E5%8E%9F%E5%88%9B%E8%80%85%E7%A7%B0%E4%BB%8E%E6%9C%AA%E6%8E%A8%E5%87%BA-macOS-%E7%89%88)
