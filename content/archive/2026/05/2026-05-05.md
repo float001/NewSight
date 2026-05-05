@@ -46,6 +46,7 @@
   - [When AI goes wrong…](https://www.pwndefend.com/2026/05/04/when-ai-goes-wrong/)
 - simonwillison.net
   - [April 2026 newsletter](https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything)
+  - [Granite 4.1 3B SVG Pelican Gallery](https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything)
   - [Quoting Andy Masley](https://simonwillison.net/2026/May/4/andy-masley/#atom-everything)
   - [TRE Python binding — ReDoS robustness demo](https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -69,11 +70,13 @@
   - [US government warns of severe CopyFail bug affecting major versions of Linux](https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/)
 - The Verge
   - [Elon Musk will settle the feds’ Twitter lawsuit with pocket change](https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x)
+  - [OpenAI’s president does ‘all the things,’ except answer a question](https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial)
   - [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale)
   - [SwitchBot’s rechargeable button pusher is on sale for over 20 percent off](https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal)
   - [The best Star Wars Day deals](https://www.theverge.com/gadgets/922905/best-star-wars-day-2026-may-the-fourth-4th-deals-sale)
   - [The creator of Roomba is back with a furry robot companion](https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch)
   - [The Pixel 11 could be the next victim of the RAM shortage](https://www.theverge.com/tech/923252/google-pixel-11-spec-leak-lower-ram)
+  - [Valve just imported 50 tons of game consoles in two days](https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026)
 - VulDB Recent Entries
   - [CVE-2025-47404 | Qualcomm Snapdragon Auto up to WSA8845H buffer overflow](https://vuldb.com/vuln/361062)
   - [CVE-2025-47405 | Qualcomm Snapdragon Compute/Snapdragon Industrial IOT FastConnect 6900 up to WSA8845 untrusted pointer dereference](https://vuldb.com/vuln/361063)
@@ -264,10 +267,16 @@
   - [CVE-2026-7779](https://vulners.com/nvd/NVD:CVE-2026-7779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7779 Open5GS authentication-subscription Endpoint nudr-handler.c udm_nudr_dr_handle_subscription_authentication denial of service](https://vulners.com/cve/CVE-2026-7779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7779 Open5GS authentication-subscription Endpoint nudr-handler.c udm_nudr_dr_handle_subscription_authentication denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-7779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7781](https://vulners.com/nvd/NVD:CVE-2026-7781?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7781 Open5GS amf-3gpp-access Endpoint nudm-handler.c udm_nudm_uecm_handle_amf_registration_update denial of service](https://vulners.com/cve/CVE-2026-7781?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7781 Open5GS amf-3gpp-access Endpoint nudm-handler.c udm_nudm_uecm_handle_amf_registration_update denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-7781?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7782](https://vulners.com/nvd/NVD:CVE-2026-7782?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7782 CodeCanyon Perfex CRM Tenant Clients.php project authorization](https://vulners.com/cve/CVE-2026-7782?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7782 CodeCanyon Perfex CRM Tenant Clients.php project authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-7782?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7783 CodeCanyon Perfex CRM Admin Kanban Endpoint AbstractKanban.php applySortQuery sql injection](https://vulners.com/cve/CVE-2026-7783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7783 CodeCanyon Perfex CRM Admin Kanban Endpoint AbstractKanban.php applySortQuery sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-7783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7784 RTGS2017 NagaAgent Skills Endpoint extensions.py path traversal](https://vulners.com/cve/CVE-2026-7784?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7784 RTGS2017 NagaAgent Skills Endpoint extensions.py path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-7784?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7791](https://vulners.com/cve/CVE-2026-7791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7791](https://vulners.com/cvelist/CVELIST:CVE-2026-7791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DotNetRemotingExploitPy](https://vulners.com/githubexploit/FF57EA6D-C266-525A-B120-C8A648487159?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -305,7 +314,10 @@
 - Wired
   - [7 Best Smart Locks (2026) for Front Doors, Side Doors, and Even Garages](https://www.wired.com/story/best-smart-locks/)
   - [Best Mother's Day Deals on Mom-Approved Gifts (2026)](https://www.wired.com/story/mothers-day-deals-2026/)
+  - [Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’](https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/)
   - [What the Spirit Airlines Implosion Means for Your Vacation](https://www.wired.com/story/what-the-spirit-airlines-implosion-means-for-your-vacation/)
   - [What to Know About Sony’s $7.85 Million PlayStation Settlement](https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [Pixel 11或成为内存短缺的下一个受害者](https://blog.upx8.com/Pixel-11%E6%88%96%E6%88%90%E4%B8%BA%E5%86%85%E5%AD%98%E7%9F%AD%E7%BC%BA%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%97%E5%AE%B3%E8%80%85)
