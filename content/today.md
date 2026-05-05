@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-05-06）
 
+- 36氪
+  - [美股三大指数集体收涨，英特尔涨超12%](https://36kr.com/newsflashes/3796947838672132?f=rss)
 - daringfireball.net
   - [Pedometer++ 8.0](https://david-smith.org/blog/2026/04/29/maps-on-watchos/)
   - [The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion](https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/)
@@ -17,22 +19,33 @@
   - [Quantum Key Distribution (QKD) and Quantum Cryptography (QC)](https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/)
   - [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/)
   - [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
+  - [Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32)
 - infosecurity-magazine.com
   - [Microsoft Flags Mass Phishing Campaign Using Fake Compliance Emails](https://www.infosecurity-magazine.com/news/microsoft-phishing-fake-compliance/)
+- johndcook.com
+  - [Changing one character in a PDF](https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/)
 - NVIDIA AI Blog
   - [NVIDIA and ServiceNow Partner on New Autonomous AI Agents for Enterprises](https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/)
+- simonwillison.net
+  - [Our AI started a cafe in Stockholm](https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Black_Box-Penetration-Testing exploit](https://sploitus.com/exploit?id=661F6B2B-EBE5-5620-9436-31FF4CD423E4&utm_source=rss&utm_medium=rss)
+  - [db-exposure-scanner exploit](https://sploitus.com/exploit?id=6B61C5AD-CCD3-5E51-B998-48B57B038696&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Microsoft exploit](https://sploitus.com/exploit?id=32B23546-0FA3-5016-BC2F-AA4FAD5FC2BD&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=253AF798-DDEE-5284-A852-A08D39895566&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=3078D003-6246-576B-B811-CEC852AC7798&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=3A387192-78DE-5CE4-9F38-70D1CAE44760&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=8F486651-6CB4-54B6-8532-9AE328F49A9F&utm_source=rss&utm_medium=rss)
+  - [exploit-chains exploit](https://sploitus.com/exploit?id=853A9899-6015-5E64-BFB0-B848BE471E28&utm_source=rss&utm_medium=rss)
   - [poc-react2shell-exploit exploit](https://sploitus.com/exploit?id=7304DA3B-A30D-5BD6-AA88-0F4F8810E8D4&utm_source=rss&utm_medium=rss)
+  - [xss-lab exploit](https://sploitus.com/exploit?id=B8706F9B-83E8-517B-9EA0-7D6C10743132&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Airbnb co-founder taps Peter Arnell as first US chief brand architect](https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/)
+  - [Altara secures $7M to bridge the data gap that’s slowing down physical sciences](https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/)
   - [Apple plans to make iOS 27 a Choose Your Own Adventure of AI models](https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/)
   - [As crypto cools, a16z crypto raises a $2.2B fund](https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/)
   - [ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us](https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/)
+  - [Lucid Motors doesn’t know how many EVs it will build this year](https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/)
   - [OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT](https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/)
   - [Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor](https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/)
   - [Threads finally brings messaging to the web](https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/)
@@ -141,6 +154,7 @@
   - [CVE-2026-23631 redis-server Lua use-after-free may allow remote code execution](https://vulners.com/cvelist/CVELIST:CVE-2026-23631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-27960 OpenCTI privilege escalation and unauthenticated access via default admin account](https://vulners.com/cve/CVE-2026-27960?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-27960 OpenCTI privilege escalation and unauthenticated access via default admin account](https://vulners.com/cvelist/CVELIST:CVE-2026-27960?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-28780](https://vulners.com/nvd/NVD:CVE-2026-28780?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28780 Apache HTTP Server: buffer overflow in mod_proxy_ajp via  ajp_msg_check_header()](https://vulners.com/cve/CVE-2026-28780?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28780 Apache HTTP Server: buffer overflow in mod_proxy_ajp via  ajp_msg_check_header()](https://vulners.com/cvelist/CVELIST:CVE-2026-28780?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-30923 libModSecurity3 denial of service via segfault when using t:hexDecode on single-character query strings](https://vulners.com/cve/CVE-2026-30923?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -178,8 +192,10 @@
   - [CVE-2026-39383 Gotenberg unauthenticated blind SSRF via unfiltered webhook URL](https://vulners.com/cvelist/CVELIST:CVE-2026-39383?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39402 lxc lxc-user-nic insufficient ownership validation allows cross-tenant OVS port deletion](https://vulners.com/cve/CVE-2026-39402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39402 lxc lxc-user-nic insufficient ownership validation allows cross-tenant OVS port deletion](https://vulners.com/cvelist/CVELIST:CVE-2026-39402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40075](https://vulners.com/nvd/NVD:CVE-2026-40075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40075 OpenMRS Core arbitrary file read via path traversal in ModuleResourcesServlet](https://vulners.com/cve/CVE-2026-40075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40075 OpenMRS Core arbitrary file read via path traversal in ModuleResourcesServlet](https://vulners.com/cvelist/CVELIST:CVE-2026-40075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40110](https://vulners.com/nvd/NVD:CVE-2026-40110?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40110 jupyter-server CORS origin validation bypass via unanchored regex in allow_origin_pat](https://vulners.com/cve/CVE-2026-40110?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40110 jupyter-server CORS origin validation bypass via unanchored regex in allow_origin_pat](https://vulners.com/cvelist/CVELIST:CVE-2026-40110?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40280 Gotenberg SSRF via case-insensitive URL scheme bypass in webhook and downloadFrom deny-lists](https://vulners.com/cvelist/CVELIST:CVE-2026-40280?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -187,6 +203,7 @@
   - [CVE-2026-40330 Masa CMS SQL injection via sortDirection parameter in beanFeed](https://vulners.com/cvelist/CVELIST:CVE-2026-40330?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40331 Masa CMS unauthenticated SQL injection via altTable parameter in JSON API](https://vulners.com/cvelist/CVELIST:CVE-2026-40331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40864](https://vulners.com/cve/CVE-2026-40864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40934](https://vulners.com/nvd/NVD:CVE-2026-40934?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40934 jupyter-server authentication cookies remain valid after password reset due to static cookie secret](https://vulners.com/cve/CVE-2026-40934?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40934 jupyter-server authentication cookies remain valid after password reset due to static cookie secret](https://vulners.com/cvelist/CVELIST:CVE-2026-40934?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41417](https://vulners.com/cve/CVE-2026-41417?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -251,6 +268,7 @@
   - [CVE-2026-7855 D-Link DI-8100 HTTP Request tggl.asp tggl_asp buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-7855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7865](https://vulners.com/nvd/NVD:CVE-2026-7865?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://vulners.com/thn/THN:95B1BA245503A92A0F8C0B22F6481297?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [db-exposure-scanner](https://vulners.com/githubexploit/6B61C5AD-CCD3-5E51-B998-48B57B038696?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [dovecot: denial of service via crafted message before authentication](https://vulners.com/redhat/RHSA-2026:13830-CVE-2026-27858?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [dovecot: denial of service via crafted message before authentication](https://vulners.com/redhat/RHSA-2026:13857-CVE-2026-27858?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [dovecot: denial of service via specially crafted NOOP command](https://vulners.com/redhat/RHSA-2026:13830-CVE-2026-27857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -264,6 +282,8 @@
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/253AF798-DDEE-5284-A852-A08D39895566?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/3078D003-6246-576B-B811-CEC852AC7798?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/3A387192-78DE-5CE4-9F38-70D1CAE44760?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Missing Authentication for Critical Function in Cpanel](https://vulners.com/githubexploit/8F486651-6CB4-54B6-8532-9AE328F49A9F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [exploit-chains](https://vulners.com/githubexploit/853A9899-6015-5E64-BFB0-B848BE471E28?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [FireFighter has unauthenticated SSRF in its Raid jira_bot endpoint that allows IAM credential theft](https://vulners.com/github/GHSA-FQVV-JVHR-G5JC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-3RH2-V3GR-35P9 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-3RH2-V3GR-35P9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-5XMW-VC9V-4WF2 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-5XMW-VC9V-4WF2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -322,5 +342,6 @@
   - [webkitgtk: Processing maliciously crafted web content may lead to an unexpected Safari crash](https://vulners.com/redhat/RHSA-2026:13845-CVE-2025-43457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [webkitgtk: Processing maliciously crafted web content may prevent Content Security Policy from being enforced](https://vulners.com/redhat/RHSA-2026:13845-CVE-2026-20665?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [webkitgtk: Visiting a maliciously crafted website may lead to a cross-site scripting attack](https://vulners.com/redhat/RHSA-2026:13845-CVE-2026-28871?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [xss-lab](https://vulners.com/githubexploit/B8706F9B-83E8-517B-9EA0-7D6C10743132?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
