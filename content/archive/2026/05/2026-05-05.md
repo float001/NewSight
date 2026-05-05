@@ -3,20 +3,25 @@
 - 2Libra
   - [【🔒】应用宝 Mac 版【内测】](https://2libra.com/post/tools-sharing/tfknTvc)
   - [一刀切可能真要来了：高校及科研机构的《良民证》陆续分发中](https://2libra.com/post/networking/86FTYWy)
+  - [今天 立夏 2026 年 5 月 第 125 天，第 19 周，习俗： 迎夏、吃立夏饭、斗蛋、称体重、吃乌笋、尝新活动、饮立夏茶](https://2libra.com/post/personal-life/f6gw1Cw)
   - [全国烟花基地，湖南烟花厂爆炸已致 21 死， 61 伤，有没有湖南的？](https://2libra.com/post/social-observation/VmOxwe3)
   - [开始收费，豆包这价格你会买吗？我不买。](https://2libra.com/post/large-models/PaYXRyp)
   - [朋友们，什么时候适合买金镯子？想买一个，价格一直不合适。](https://2libra.com/post/worth-buying/ILGOlgc)
   - [豆包要开始收费了，每月 68 元](https://2libra.com/post/ai-tools/lBqUVV2)
 - 36氪
   - [4月份中国大宗商品价格指数为132.1点 同比上涨20.2%](https://36kr.com/newsflashes/3795710248361225?f=rss)
+  - [中国移动将推出AI-eSIM产品](https://36kr.com/newsflashes/3795830533643523?f=rss)
   - [今天全国铁路预计发送旅客2300万人次](https://36kr.com/newsflashes/3795716010793990?f=rss)
   - [剂泰科技寻求通过香港IPO募资21.1亿港元](https://36kr.com/newsflashes/3795702003981319?f=rss)
   - [去哪儿旅行：五一“宝藏小城串游”预订量增121%](https://36kr.com/newsflashes/3795826320645121?f=rss)
+  - [广汽丰田4月销量54116台](https://36kr.com/newsflashes/3795828697504768?f=rss)
   - [港股汽车股持续走低，赛力斯跌超5%](https://36kr.com/newsflashes/3795751638539522?f=rss)
   - [白宫拟在AI模型发布前实施审查](https://36kr.com/newsflashes/3795818949647618?f=rss)
   - [百威亚太：一季度收入14.93亿美元 同比下降0.7%](https://36kr.com/newsflashes/3795706009934851?f=rss)
   - [英派药业：拟全球发售4197.70万股H股，发售价不超21.75港元](https://36kr.com/newsflashes/3795711742778632?f=rss)
+  - [苹果考虑让英特尔、三星代工设备处理器](https://36kr.com/newsflashes/3795834368302088?f=rss)
   - [马斯克就推特持股披露诉讼与美证监会达成和解](https://36kr.com/newsflashes/3795700018093317?f=rss)
+  - [高通前高管将加入英特尔，领导客户端计算与物理AI事业部](https://36kr.com/newsflashes/3795844563934467?f=rss)
 - 404 Media
   - ['Nature' Retracts Paper on the Benefits of ChatGPT in Education](https://www.404media.co/nature-retracts-paper-on-the-benefits-of-chatgpt-in-education/)
 - Ars Technica
@@ -41,6 +46,7 @@
   - [CI/CD Pipeline Security Tools and Technologies](https://fidelissecurity.com/threatgeek/cloud-security/ci-cd-pipeline-security-tools-and-technologies/)
 - Hacker News Frontpage
   - ["They would never use the death star on us"](https://www.mcsweeneys.net/articles/they-would-never-use-the-death-star-on-us-alderaan-residents-reflect-on-their-support-for-the-empire-as-a-large-imperial-installation-enters-the-system)
+  - [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)
   - [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)
   - [Days Without GitHub Incidents](https://www.dayswithoutgithubincident.com/)
   - [Formatting a 25M-line codebase overnight](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
@@ -50,6 +56,7 @@
   - [OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
   - [Rumor: Disney to Remove Star Wars Sequel Trilogy from Timeline](https://geeksandgamers.com/remove-star-wars-sequel-trilogy/)
   - [Stop big tech from making users behave in ways they don't want to](https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to)
+  - [Train Your Own LLM from Scratch](https://github.com/angelos-p/llm-from-scratch)
   - [Trillions in Retirement Dollars Flow into Opaque Trusts](https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs)
   - [US healthcare marketplaces shared citizenship and race data with ad tech giants](https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/)
   - [Usage-based pricing killing your vibe, here's how to roll your own local AI](https://www.theregister.com/2026/05/02/local_ai_coding_agents/)
@@ -66,6 +73,8 @@
   - [IEEE Smart Village Is Helping to Electrify Rural Cameroon](https://spectrum.ieee.org/ieee-smart-village-rei-cameroon)
 - PwnDefend
   - [When AI goes wrong…](https://www.pwndefend.com/2026/05/04/when-ai-goes-wrong/)
+- rtl-sdr.com
+  - [SatDump V2 Image Product Expressions YouTube Tutorial](https://www.rtl-sdr.com/satdump-v2-image-product-expressions-youtube-tutorial/)
 - simonwillison.net
   - [April 2026 newsletter](https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything)
   - [Granite 4.1 3B SVG Pelican Gallery](https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything)
@@ -314,6 +323,7 @@
   - [CVE-2026-42812 Apache Polaris: No protection on `write.metadata.path`](https://vulners.com/cvelist/CVELIST:CVE-2026-42812?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43616 Detect-It-Easy < 3.21 Path Traversal Arbitrary File Write](https://vulners.com/cve/CVE-2026-43616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43616 Detect-It-Easy < 3.21 Path Traversal Arbitrary File Write](https://vulners.com/cvelist/CVELIST:CVE-2026-43616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-4362 ElementsKit Elementor Addons <= 3.8.2 - Missing Authorization to Unauthenticated Widget Content Overwrite](https://vulners.com/cvelist/CVELIST:CVE-2026-4362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43964](https://vulners.com/cve/CVE-2026-43964?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43964](https://vulners.com/cvelist/CVELIST:CVE-2026-43964?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43964](https://vulners.com/nvd/NVD:CVE-2026-43964?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -386,6 +396,9 @@
   - [CVE-2026-7791](https://vulners.com/cvelist/CVELIST:CVE-2026-7791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7810 UsamaK98 python-notebook-mcp server.py add_cell path traversal](https://vulners.com/cve/CVE-2026-7810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7810 UsamaK98 python-notebook-mcp server.py add_cell path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-7810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7812 54yyyu code-mcp MCP Tool server.py git_operation command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-7812?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7822 itsourcecode Courier Management System print_pdets.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-7822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7823 Totolink A8000RU cstecgi.cgi setAppFilterCfg os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-7823?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DotNetRemotingExploitPy](https://vulners.com/githubexploit/FF57EA6D-C266-525A-B120-C8A648487159?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-40271](https://vulners.com/githubexploit/ABA9F7C7-1AFE-5C98-BDD1-779889D1629A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-68930](https://vulners.com/githubexploit/2BB21CF4-4D6A-5B52-89B2-8B73C182FBC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -426,14 +439,26 @@
   - [Security-Team---Workspace-](https://vulners.com/githubexploit/85215D55-2B33-5619-A256-30B4FE1E7611?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [7 Best Smart Locks (2026) for Front Doors, Side Doors, and Even Garages](https://www.wired.com/story/best-smart-locks/)
+  - [B&H Photo Promo Codes and Deals This May](https://www.wired.com/story/bh-photo-coupon/)
+  - [Babbel Promo Code: Up to 65% Off in May 2026](https://www.wired.com/story/babbel-promo-code/)
   - [Best Mother's Day Deals on Mom-Approved Gifts (2026)](https://www.wired.com/story/mothers-day-deals-2026/)
+  - [Design Within Reach Promo Codes: 30% Off | 2026](https://www.wired.com/story/design-within-reach-promo-code/)
+  - [Exclusive Lovehoney Discount Codes: 15% Off](https://www.wired.com/story/lovehoney-discount-code/)
   - [Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’](https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/)
+  - [Layla Sleep Coupon: Save Up to $600 in May 2026](https://www.wired.com/story/layla-sleep-coupon/)
+  - [Litter-Robot Promo Codes and Deals: Up to $150 Off](https://www.wired.com/story/litter-robot-promo-code/)
+  - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
+  - [Meta Quest Promo Codes: $50 Off | May 2026](https://www.wired.com/story/meta-quest-promo-code/)
+  - [Uplift Desk Coupon Codes & Discounts: Up to $570 Off](https://www.wired.com/story/uplift-desk-coupon-code/)
+  - [Visible Promo Code: Save Over $400 in May 2026](https://www.wired.com/story/visible-promo-code/)
   - [What the Spirit Airlines Implosion Means for Your Vacation](https://www.wired.com/story/what-the-spirit-airlines-implosion-means-for-your-vacation/)
   - [What to Know About Sony’s $7.85 Million PlayStation Settlement](https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/)
 - 不安全
   - [Vimeo - 119,167 breached accounts](https://buaq.net/go-414519.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [lane pipeline sink tunnel funnel channel canal](https://dyrnq.com/lane-pipeline-sink-tunnel-funnel-channel-canal/)
 - 黑海洋
   - [Pixel 11或成为内存短缺的下一个受害者](https://blog.upx8.com/Pixel-11%E6%88%96%E6%88%90%E4%B8%BA%E5%86%85%E5%AD%98%E7%9F%AD%E7%BC%BA%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%97%E5%AE%B3%E8%80%85)
   - [图像AI模型现在推动AI移动应用增长](https://blog.upx8.com/%E5%9B%BE%E5%83%8FAI%E6%A8%A1%E5%9E%8B%E7%8E%B0%E5%9C%A8%E6%8E%A8%E5%8A%A8AI%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E5%A2%9E%E9%95%BF)
