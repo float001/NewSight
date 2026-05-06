@@ -39,6 +39,7 @@
   - [KKR称私募市场困境被夸大](https://36kr.com/newsflashes/3797079057898501?f=rss)
   - [Meta正在开发名为“Hatch”的AI智能体及Instagram内置AI购物工具](https://36kr.com/newsflashes/3797638170483977?f=rss)
   - [Mike Xu旗下食品科技公司GrubMarket入选《时代》TIME100行业领袖榜单](https://36kr.com/newsflashes/3797439210609673?f=rss)
+  - [MiroMind暂停中国服务](https://36kr.com/newsflashes/3797779515251972?f=rss)
   - [OpenAI与Anthropic合资企业洽谈收购AI服务公司](https://36kr.com/newsflashes/3797027135315202?f=rss)
   - [OpenAI：GPT-5.5 Instant从今天开始向所有ChatGPT用户推出](https://36kr.com/newsflashes/3797010059385864?f=rss)
   - [Rivian汽车首席执行官：正在考虑为其自动驾驶汽车生产激光雷达传感器](https://36kr.com/newsflashes/3797072909097987?f=rss)
@@ -72,16 +73,20 @@
   - [今年前3个月，我国全行业对外直接投资同比增长5.4%](https://36kr.com/newsflashes/3797608115395585?f=rss)
   - [从二游到种田：米哈游《星布谷地》能否走出舒适圈](https://36kr.com/p/3797166332206338?f=rss)
   - [佰维存储：国家集成电路基金二期2月4日至5月3日期间减持1.85%公司股份](https://36kr.com/newsflashes/3797682273819907?f=rss)
+  - [元道通信：被证监会立案调查进展披露](https://36kr.com/newsflashes/3797795397983491?f=rss)
   - [兆新股份：与青海聚锂签署《一致行动协议》 可支配63.48%表决权](https://36kr.com/newsflashes/3797610415922437?f=rss)
   - [先正达考虑2026年下半年在香港IPO，估值可能达到500亿美元](https://36kr.com/newsflashes/3797046292257800?f=rss)
   - [全市场“固收+”基金规模突破3万亿元](https://36kr.com/newsflashes/3797028277296384?f=rss)
   - [全球AI电源芯片龙头MPS：今年营收目标上调至同比增长85%](https://36kr.com/newsflashes/3797323479325959?f=rss)
   - [八马茶业：中国证监会就公司H股全流通发出备案通知书](https://36kr.com/newsflashes/3797744422804739?f=rss)
   - [农业银行：2025年年度A股每股派发现金红利0.13元合计派发约415亿元 股权登记日为5月12日](https://36kr.com/newsflashes/3797648748748034?f=rss)
+  - [凡拓数创：控股股东之一致行动人拟减持公司不超200万股](https://36kr.com/newsflashes/3797769540771073?f=rss)
   - [创历史同期新高，“五一”假期交通出行人数达15.17亿人次](https://36kr.com/newsflashes/3797533478214663?f=rss)
+  - [北交所：暂免收取非公开发行公司债券挂牌初费和挂牌年费](https://36kr.com/newsflashes/3797757825064200?f=rss)
   - [半日主力资金加仓电子、计算机股，抛售银行股](https://36kr.com/newsflashes/3797266565094657?f=rss)
   - [华泰证券：短期行情或进入震荡期，风格层面建议哑铃配置](https://36kr.com/newsflashes/3797076129471752?f=rss)
   - [卓然股份：公司因未按期披露定期报告被立案](https://36kr.com/newsflashes/3797610653441024?f=rss)
+  - [印尼考虑对16岁以下人群实施“网购禁令”](https://36kr.com/newsflashes/3797794583026944?f=rss)
   - [后视摄像头图像或出现延迟，特斯拉在美召回超21万辆汽车](https://36kr.com/newsflashes/3797476258602245?f=rss)
   - [周大福：截至3月31日止年度净溢利预计比去年增加约45–55%](https://36kr.com/newsflashes/3797574959897856?f=rss)
   - [国家数据领域国际合作上海综合试点启动](https://36kr.com/newsflashes/3797370473749762?f=rss)
@@ -109,6 +114,7 @@
   - [恒指收涨1.22%，恒生科技指数涨0.8%](https://36kr.com/newsflashes/3797532592249863?f=rss)
   - [我国测控装备智能化测评技术迈上新台阶](https://36kr.com/newsflashes/3797213422787848?f=rss)
   - [戴姆勒卡车公司营业利润减半，需求疲软和关税冲击北美市场](https://36kr.com/newsflashes/3797361216429056?f=rss)
+  - [报告：欧盟修订《网络安全法》将造成自身数千亿欧元损失](https://36kr.com/newsflashes/3797787763694852?f=rss)
   - [拜耳斥资24.5亿美元收购Perfuse Therapeutics](https://36kr.com/newsflashes/3797543057775616?f=rss)
   - [日产欧洲裁员900人，桑德兰工厂合并生产线](https://36kr.com/newsflashes/3797024795647235?f=rss)
   - [早期项目 | 德国宇航局工程师创业，让硬件开发进入“vibe时代”](https://36kr.com/p/3797224394284033?f=rss)
@@ -136,6 +142,7 @@
   - [港股通标的证券名单调入可孚医疗、经纬天地（新）](https://36kr.com/newsflashes/3797101726260489?f=rss)
   - [澳大利亚将建造国有燃油储备](https://36kr.com/newsflashes/3797462204669193?f=rss)
   - [灵心巧手增资至11亿，增幅约21%](https://36kr.com/newsflashes/3797571119127810?f=rss)
+  - [热门中概股美股盘前多数上涨，百度涨超6%](https://36kr.com/newsflashes/3797817196731394?f=rss)
   - [牧原股份：2026年4月份公司销售商品猪收入85.03亿元，同比下降32.49%](https://36kr.com/newsflashes/3797669415394310?f=rss)
   - [现货白银日内涨幅扩大至2%](https://36kr.com/newsflashes/3797107355802625?f=rss)
   - [现货白银站上76美元/盎司](https://36kr.com/newsflashes/3797513312197635?f=rss)
@@ -150,7 +157,10 @@
   - [科创50指数涨超7%](https://36kr.com/newsflashes/3797156067368193?f=rss)
   - [税收发票数据显示：“五一”假期消费相关行业销售收入同比增长14.3%](https://36kr.com/newsflashes/3797584215481604?f=rss)
   - [粤传媒： 公司近期生产经营情况正常](https://36kr.com/newsflashes/3797609745030152?f=rss)
+  - [红旗连锁：永辉超市拟减持公司不超3%股份](https://36kr.com/newsflashes/3797770715651073?f=rss)
   - [美团在新疆成立新科技公司，注册资本100万](https://36kr.com/newsflashes/3797292346317824?f=rss)
+  - [美国AI公司Anthropic高管下周将访韩](https://36kr.com/newsflashes/3797800026233856?f=rss)
+  - [美国将季度再融资规模定为1250亿美元](https://36kr.com/newsflashes/3797800530942983?f=rss)
   - [美国汽油价格突破每加仑4.50美元，创2022年7月以来新高](https://36kr.com/newsflashes/3797504672357639?f=rss)
   - [美国证券交易委员会公布允许企业每半年发布财报的提案](https://36kr.com/newsflashes/3797012499225865?f=rss)
   - [美图首度披露AI生产力应用ARR：同比增长56.2%至5.8亿元](https://36kr.com/newsflashes/3797191108090888?f=rss)
@@ -158,6 +168,7 @@
   - [美联储6月维持利率不变的概率为96.0%](https://36kr.com/newsflashes/3797009396702212?f=rss)
   - [美股三大指数集体收涨，英特尔涨超12%](https://36kr.com/newsflashes/3796947838672132?f=rss)
   - [美股光模块巨头Lumentum总裁：产品需求远大于供应能力，订单已排至2028年](https://36kr.com/newsflashes/3797276458163458?f=rss)
+  - [美股大型科技股盘前多数上涨，康宁涨近18%](https://36kr.com/newsflashes/3797809958788100?f=rss)
   - [英伟达全球副总裁Hemant Dhulla到访汉得](https://36kr.com/newsflashes/3797192550767881?f=rss)
   - [英伟达宣布与康宁建立长期合作伙伴关系](https://36kr.com/newsflashes/3797735775952135?f=rss)
   - [英飞凌因AI需求推动增长前景，上调2026年展望](https://36kr.com/newsflashes/3797396829953284?f=rss)
@@ -185,6 +196,7 @@
   - [韩国一季度出口近2200亿美元创历史新高，芯片出口飙升139%](https://36kr.com/newsflashes/3797442919275776?f=rss)
   - [韩国税务部门对涉嫌逃税2万亿韩元的股市违规行为展开调查](https://36kr.com/newsflashes/3797355176762624?f=rss)
   - [韩国综指收涨6.45%，首次收于7300点上方](https://36kr.com/newsflashes/3797438289320969?f=rss)
+  - [预订率低于预期 世界杯前夕美国酒店业遇冷](https://36kr.com/newsflashes/3797773553458433?f=rss)
   - [风范股份：拟挂牌转让晶樱光电60%股权，底价1.79亿元](https://36kr.com/newsflashes/3797668036287490?f=rss)
   - [高景气驱动全球科技股共振，机构：5月A股科技主线有望延续](https://36kr.com/newsflashes/3797037680483593?f=rss)
   - [高盛预计：到2027年，美国数据中心的需求将比2025年增长一倍以上](https://36kr.com/newsflashes/3797671407607049?f=rss)
@@ -231,9 +243,13 @@
   - [Visions in Glass](https://hackernoon.com/nineteen?source=rss)
 - Hexacorn
   - [1 little known secret of forfiles.exe, part 2](https://www.hexacorn.com/blog/2026/05/06/1-little-known-secret-of-forfiles-exe-part-2/)
+- Horizon3.ai
+  - [Autonomous AI Cyber Defense You Can Trust in Production](https://horizon3.ai/attack-research/disclosures/autonomous-ai-cyber-defense-safe-production/)
+  - [Horizon3.ai Announces Breakthrough Research Making Autonomous AI Cyber Defense Safe to Deploy](https://horizon3.ai/news/press-release/horizon3-safe-autonomous-ai-cyber-defense/)
 - idiallo.com
   - [Asimov's three laws are merely a suggestion](https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed)
 - infosecurity-magazine.com
+  - [Iran-Linked APT Posed as Chaos Ransomware Member in Espionage Campaign](https://www.infosecurity-magazine.com/news/iran-linked-apt-chaos-ransomware/)
   - [Microsoft Flags Mass Phishing Campaign Using Fake Compliance Emails](https://www.infosecurity-magazine.com/news/microsoft-phishing-fake-compliance/)
   - [One in Eight Workers Has Sold Their Corporate Logins](https://www.infosecurity-magazine.com/news/one-eight-workers-sold-corporate/)
 - joanwestenberg.com
@@ -241,6 +257,8 @@
 - johndcook.com
   - [Changing one character in a PDF](https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/)
   - [The mythology of category theory](https://www.johndcook.com/blog/2026/05/06/category-mythology/)
+- MIT Technology Review
+  - [The Download: seafloor science and military chatbots](https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/)
 - NowSecure
   - [Governing AI-Generated Mobile Apps: A CISO Blueprint for Security at Scale](https://www.nowsecure.com/blog/2026/05/06/governing-ai-generated-mobile-apps-a-ciso-blueprint-for-security-at-scale/)
 - NVIDIA AI Blog
@@ -255,6 +273,7 @@
 - Sandfly Security Blog RSS Feed
   - [Detecting Copy Fail Linux Vulnerability Agentlessly with Sandfly](https://sandflysecurity.com/blog/detecting-copy-fail-linux-vulnerability-agentlessly-with-sandfly)
 - Securelist
+  - [OceanLotus suspected of using PyPI to deliver ZiChatBot malware](https://securelist.com/oceanlotus-suspected-pypi-zichatbot-campaign/119603/)
   - [Websites with an undefined trust level: avoiding the trap](https://securelist.com/suspicious-websites-undefined-trust-level/119675/)
 - simonwillison.net
   - [datasette-referrer-policy 0.1](https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything)
@@ -273,6 +292,7 @@
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=253AF798-DDEE-5284-A852-A08D39895566&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=3078D003-6246-576B-B811-CEC852AC7798&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=3A387192-78DE-5CE4-9F38-70D1CAE44760&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=A06A4A4A-B08D-5275-9E1A-4F9E92A2D5A9&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=B254F860-8FD7-574F-949F-B36C6CEB1CF2&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=ED1B33D4-D755-5DD7-9273-4ECFCBEEA8FC&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=2F812830-E613-5A8A-99EF-C46071F502E6&utm_source=rss&utm_medium=rss)
@@ -303,7 +323,9 @@
 - text/plain
   - [Cybersecurity Metaphors](https://textslashplain.com/2026/05/05/cybersecurity-metaphors/)
 - The Decoder
+  - [Anthropic commits $200 billion to Google Cloud over five years](https://the-decoder.com/anthropic-commits-200-billion-to-google-cloud-over-five-years/)
   - [Anthropic ships ten AI agents for finance as both it and OpenAI chase IPO-ready revenue](https://the-decoder.com/anthropic-ships-ten-ai-agents-for-finance-as-both-it-and-openai-chase-ipo-ready-revenue/)
+  - [Google and Meta race to build personal AI agents as Anthropic and OpenAI pull further ahead](https://the-decoder.com/google-and-meta-race-to-build-personal-ai-agents-as-anthropic-and-openai-pull-further-ahead/)
   - [OpenAI's first hardware play might be a phone that replaces your app grid with an agent task stream](https://the-decoder.com/openais-first-hardware-play-might-be-a-phone-that-replaces-your-app-grid-with-an-agent-task-stream/)
   - [US government now has pre-release access to AI models from five major labs for national security testing](https://the-decoder.com/us-government-now-has-pre-release-access-to-ai-models-from-five-major-labs-for-national-security-testing/)
 - The Verge
@@ -311,6 +333,8 @@
   - [Chrome’s AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
   - [From Alan Shepard to Artemis, celebrating 65 years of Americans in space](https://www.theverge.com/science/918596/alan-shepard-american-spaceflight-photos-anniversary)
   - [Google Home&#8217;s Gemini AI can handle more complicated requests](https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade)
+  - [Google&#8217;s AI search summaries will now quote Reddit](https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links)
+  - [It’s time to let my iPhone Mini go](https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass)
   - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
   - [Meta sued by major book publishers over copyright infringement](https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright)
   - [Microsoft’s new Xbox shake-up is all about platform changes](https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes)
@@ -432,6 +456,9 @@
   - [CVE-2026-8026 | FlowiseAI Flowise up to 3.0.12 API Response account.service.ts login information disclosure](https://vuldb.com/vuln/361273)
   - [CVE-2026-8027 | FlowiseAI Flowise up to 3.0.12 User Controller userId/organizationId/workspaceId/email authorization](https://vuldb.com/vuln/361274)
   - [CVE-2026-8028 | FlowiseAI Flowise up to 3.0.12 Endpoint account.service.ts verify information disclosure](https://vuldb.com/vuln/361276)
+  - [CVE-2026-8031 | PicoTronica e-Clinic Healthcare System ECHS 5.7 API Endpoint patient-records missing authentication](https://vuldb.com/vuln/361357)
+  - [CVE-2026-8032 | PicoTronica e-Clinic Healthcare System ECHS 5.7 echs.js ADMIN_KEY hard-coded credentials](https://vuldb.com/vuln/361358)
+  - [CVE-2026-8033 | PicoTronica e-Clinic Healthcare System ECHS 5.7 Response Header /cdemos/echs/api/v2/ information disclosure](https://vuldb.com/vuln/361359)
 - Vulners.com RSS Feed
   - [@evomap/evolver has an unbounded request body in proxy /asset/submit that causes persistent disk-exhaustion DoS](https://vulners.com/github/GHSA-7XP7-M392-H92C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [@evomap/evolver's validator sandbox allowlist permits `npm`/`npx`, yielding RCE from Hub-delivered validation tasks via lifecycle scripts](https://vulners.com/github/GHSA-JXH8-JH77-XH6G?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -545,6 +572,7 @@
   - [CVE-2026-40329 SQL Injection vulnerability via sortBy in beanFeed](https://vulners.com/cvelist/CVELIST:CVE-2026-40329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40330 Masa CMS SQL injection via sortDirection parameter in beanFeed](https://vulners.com/cvelist/CVELIST:CVE-2026-40330?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40331 Masa CMS unauthenticated SQL injection via altTable parameter in JSON API](https://vulners.com/cvelist/CVELIST:CVE-2026-40331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40562 Gazelle versions through 0.49 for Perl allows HTTP Request Smuggling via Improper Header Precedence](https://vulners.com/cvelist/CVELIST:CVE-2026-40562?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40864](https://vulners.com/cve/CVE-2026-40864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40934](https://vulners.com/nvd/NVD:CVE-2026-40934?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40934 jupyter-server authentication cookies remain valid after password reset due to static cookie secret](https://vulners.com/cve/CVE-2026-40934?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -644,6 +672,7 @@
   - [CVE-2026-44167](https://vulners.com/cve/CVE-2026-44167?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44331](https://vulners.com/cvelist/CVELIST:CVE-2026-44331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44405](https://vulners.com/nvd/NVD:CVE-2026-44405?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5081 Apache::Session::Generate::ModUniqueId versions from 1.54 through 1.94 for Perl session ids are insecure](https://vulners.com/cvelist/CVELIST:CVE-2026-5081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5758 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-5758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5758 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-5758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5766](https://vulners.com/nvd/NVD:CVE-2026-5766?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -681,6 +710,8 @@
   - [CVE-2026-7855 D-Link DI-8100 HTTP Request tggl.asp tggl_asp buffer overflow](https://vulners.com/cve/CVE-2026-7855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7855 D-Link DI-8100 HTTP Request tggl.asp tggl_asp buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-7855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7865](https://vulners.com/nvd/NVD:CVE-2026-7865?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8026 FlowiseAI Flowise API Response account.service.ts login information disclosure](https://vulners.com/cve/CVE-2026-8026?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8026 FlowiseAI Flowise API Response account.service.ts login information disclosure](https://vulners.com/cvelist/CVELIST:CVE-2026-8026?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-Intelligence](https://vulners.com/githubexploit/C4C43757-15B5-5D3E-B518-F825D7611271?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://vulners.com/thn/THN:95B1BA245503A92A0F8C0B22F6481297?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [db-exposure-scanner](https://vulners.com/githubexploit/6B61C5AD-CCD3-5E51-B998-48B57B038696?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -706,6 +737,7 @@
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/253AF798-DDEE-5284-A852-A08D39895566?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/3078D003-6246-576B-B811-CEC852AC7798?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/3A387192-78DE-5CE4-9F38-70D1CAE44760?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/A06A4A4A-B08D-5275-9E1A-4F9E92A2D5A9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/B254F860-8FD7-574F-949F-B36C6CEB1CF2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/ED1B33D4-D755-5DD7-9273-4ECFCBEEA8FC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel](https://vulners.com/githubexploit/2F812830-E613-5A8A-99EF-C46071F502E6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -804,6 +836,7 @@
   - [xss-lab](https://vulners.com/githubexploit/B8706F9B-83E8-517B-9EA0-7D6C10743132?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?](https://vulners.com/thn/THN:950E087388AB6F8176B156F3FD8F252E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
   - [Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features](https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/)
   - [Best Carry-On Suitcases (2026): Away, Rimowa, Tumi](https://www.wired.com/story/best-carry-on-suitcases/)
   - [Best Indoor Security Cameras (2026): For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
@@ -821,6 +854,7 @@
 - 博客
   - [assembly](https://dyrnq.com/assembly/)
   - [stub client and agent](https://dyrnq.com/stub-client-and-agent/)
+  - [隐形守护者：深度解析 Linux 底层构建引擎 M4](https://dyrnq.com/macro-m4/)
 - 奇客Solidot–传递最新科技情报
   - [研究揭示饮食如何增强免疫力](https://www.solidot.org/story?sid=84222)
   - [苹果同意向美国 iPhone 用户支付 2.5 亿美元和解 AI 功能交付延迟诉讼](https://www.solidot.org/story?sid=84220)
@@ -842,3 +876,4 @@
   - [Character.AI的聊天机器人被指涉嫌冒充医生](https://blog.upx8.com/Character-AI%E7%9A%84%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%8C%87%E6%B6%89%E5%AB%8C%E5%86%92%E5%85%85%E5%8C%BB%E7%94%9F)
   - [Rivian拟自产激光雷达 并考虑与中企合作](https://blog.upx8.com/Rivian%E6%8B%9F%E8%87%AA%E4%BA%A7%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE-%E5%B9%B6%E8%80%83%E8%99%91%E4%B8%8E%E4%B8%AD%E4%BC%81%E5%90%88%E4%BD%9C)
   - [图书出版商就AI的“逐字”抄袭起诉Meta](https://blog.upx8.com/%E5%9B%BE%E4%B9%A6%E5%87%BA%E7%89%88%E5%95%86%E5%B0%B1AI%E7%9A%84-%E9%80%90%E5%AD%97-%E6%8A%84%E8%A2%AD%E8%B5%B7%E8%AF%89Meta)
+  - [韩国三星电子决定退出中国家电市场](https://blog.upx8.com/%E9%9F%A9%E5%9B%BD%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%86%B3%E5%AE%9A%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%AE%B6%E7%94%B5%E5%B8%82%E5%9C%BA)
