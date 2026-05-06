@@ -8,12 +8,15 @@
   - [Broadcast Booths Around Baseball Tip Their Caps to John Sterling](https://www.mlb.com/news/broadcast-booths-around-baseball-mirror-john-sterling-signature-calls)
   - [Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding](https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next)
   - [Luca Maestri Runs the Cafeteria](https://www.apple.com/leadership/luca-maestri/)
+- darkreading
+  - [Yet Another Way to Bypass Google Chrome's Encryption Protection](https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection)
 - Fidelis Security
   - [What Insider Threat Monitoring Reveals About Hidden Organizational Risk](https://fidelissecurity.com/threatgeek/threat-detection-response/insider-threat-monitoring/)
 - Google AI Blog
   - [5 gardening tips you can try right in Search](https://blog.google/products-and-platforms/products/search/gardening-tips/)
 - Hacker News Frontpage
   - [Appearing Productive in the Workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
+  - [Apple is enforcing an old App Store rule against a new kind of software](https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code)
   - [BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets](https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/)
   - [Egg Intake and the Incidence of Alzheimer's Disease in Adventist Health Study-2](https://www.sciencedirect.com/science/article/pii/S0022316626001902)
   - [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth)
@@ -21,12 +24,20 @@
   - [Inkscape 1.4.4 Is Out](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
   - [Show HN: I built an open-source email builder, alternative to Beefree/Unlayer](https://play.templatical.com)
   - [The Disadvantages of an Elite Education (2008)](https://theamericanscholar.org/the-disadvantages-of-an-elite-education/)
+- HackerNoon
+  - [Handling Large Datasets in Spring Boot: A Quick How-to Guide](https://hackernoon.com/handling-large-datasets-in-spring-boot-a-quick-how-to-guide?source=rss)
+  - [How Did the Fourier Transform Translate Eridian? A Deeper Insight](https://hackernoon.com/how-did-the-fourier-transform-translate-eridian-a-deeper-insight?source=rss)
+  - [Roobet Launches Prediction Markets on May 6, The First Major Crypto Casino to Integrate the Format](https://hackernoon.com/roobet-launches-prediction-markets-on-may-6-the-first-major-crypto-casino-to-integrate-the-format?source=rss)
 - IEEE Spectrum
   - [Learn What It Takes to Become a Cybersecurity Consultant](https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant)
 - johndcook.com
   - [Triangular analog of the squircle](https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/)
   - [Unified config files](https://www.johndcook.com/blog/2026/05/06/unified-config-files/)
+- miguelgrinberg.com
+  - [SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy)
 - Sploitus.com Exploits RSS Feed
+  - [alika-vuln-shield exploit](https://sploitus.com/exploit?id=B8BB1B1D-913E-59E1-8838-572C31020CF9&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-0300 exploit](https://sploitus.com/exploit?id=D0C74A17-064A-58EA-B450-B0B95E7DBA35&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-41900 exploit](https://sploitus.com/exploit?id=43546557-02D2-5564-B898-D4A0899DCB36&utm_source=rss&utm_medium=rss)
   - [Exploit for Double Free in Apache Http_Server exploit](https://sploitus.com/exploit?id=92FEC48F-49A0-52E6-916C-4B94BEE6A1BC&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Authorization in Hyland Alfresco_Content_Services exploit](https://sploitus.com/exploit?id=FAB75912-4983-56E5-8009-190C4D9237A3&utm_source=rss&utm_medium=rss)
@@ -36,17 +47,21 @@
   - [ExploitMind exploit](https://sploitus.com/exploit?id=4C8401C4-23BC-5B04-A287-7F1CDCCF0548&utm_source=rss&utm_medium=rss)
   - [trying-to-make-a-website-scanner exploit](https://sploitus.com/exploit?id=C5B595FD-4BBB-5325-AC17-5995873BD0F1&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.](https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/)
   - [DeepSeek could hit $45B valuation from its first investment round](https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/)
   - [DOJ says ransomware gang tapped into Russian government databases](https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/)
   - [How Elon Musk left OpenAI, according to Greg Brockman](https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/)
   - [Insurance startup Corgi hits $1.3B valuation 4 months after its Series A](https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/)
+  - [Is xAI a neocloud now?](https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/)
   - [Microsoft’s AI data center push is colliding with its clean power goals](https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/)
   - [Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says](https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/)
+  - [Snap says its $400M deal with Perplexity ‘amicably ended’](https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/)
   - [SpaceX may spend up to $119 billion on ‘Terafab’ chip factory in Texas](https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/)
 - The Decoder
   - [Anthropic taps SpaceX's Colossus-1 data center for 220,000 GPUs to power Claude](https://the-decoder.com/anthropic-taps-spacexs-colossus-1-data-center-for-220000-gpus-to-power-claude/)
   - [OpenAI built a networking protocol with AMD, Broadcom, Intel, Microsoft, and NVIDIA to fix AI supercomputer bottlenecks](https://the-decoder.com/openai-built-a-networking-protocol-with-amd-broadcom-intel-microsoft-and-nvidia-to-fix-ai-supercomputer-bottlenecks/)
 - The Verge
+  - [Google shuts down Project Mariner](https://www.theverge.com/tech/925559/google-project-mariner-shut-down)
   - [Here&#8217;s what Microsoft is offering long-serving employees to voluntarily retire](https://www.theverge.com/report/925218/microsoft-voluntary-retirement-program-package-details)
   - [How David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)
   - [Mira Murati tells the court that she couldn’t trust Sam Altman’s words](https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati)
@@ -185,6 +200,7 @@
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Before the Breach, There Was a Test Environment](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
+  - [alika-vuln-shield](https://vulners.com/githubexploit/B8BB1B1D-913E-59E1-8838-572C31020CF9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [corosync: Corosync: Denial of Service and information disclosure via crafted UDP packet](https://vulners.com/redhat/RHSA-2026:14214-CVE-2026-35091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [corosync: Corosync: Denial of Service and information disclosure via crafted UDP packet](https://vulners.com/redhat/RHSA-2026:14215-CVE-2026-35091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [corosync: Corosync: Denial of Service and information disclosure via crafted UDP packet](https://vulners.com/redhat/RHSA-2026:14216-CVE-2026-35091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -272,7 +288,10 @@
   - [CVE-2026-42503](https://vulners.com/nvd/NVD:CVE-2026-42503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42503 Accidental binding to INADDR_ANY might lead to RCE in golang.org/x/tools/gopls](https://vulners.com/cve/CVE-2026-42503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42503 Accidental binding to INADDR_ANY might lead to RCE in golang.org/x/tools/gopls](https://vulners.com/cvelist/CVELIST:CVE-2026-42503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42544](https://vulners.com/cve/CVE-2026-42544?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42545](https://vulners.com/cve/CVE-2026-42545?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42554 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-42554?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42844](https://vulners.com/cve/CVE-2026-42844?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44232](https://vulners.com/cve/CVE-2026-44232?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6654 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-6654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7875](https://vulners.com/nvd/NVD:CVE-2026-7875?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -321,6 +340,7 @@
   - [CVE-2026-8033 PicoTronica e-Clinic Healthcare System ECHS Response Header v2 information disclosure](https://vulners.com/cve/CVE-2026-8033?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8033 PicoTronica e-Clinic Healthcare System ECHS Response Header v2 information disclosure](https://vulners.com/cvelist/CVELIST:CVE-2026-8033?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [dssrf: every IPv6 category bypasses is_url_safe](https://vulners.com/github/GHSA-8P33-Q827-GHJ5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-0300](https://vulners.com/githubexploit/D0C74A17-064A-58EA-B450-B0B95E7DBA35?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-40776](https://vulners.com/githubexploit/96815085-6343-5073-B430-4B3BEF6D21BD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Double Free in Apache Http_Server](https://vulners.com/githubexploit/92FEC48F-49A0-52E6-916C-4B94BEE6A1BC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Authorization in Hyland Alfresco_Content_Services](https://vulners.com/githubexploit/FAB75912-4983-56E5-8009-190C4D9237A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -347,13 +367,17 @@
   - [GHSA-XHJH-PMCV-23JW vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-XHJH-PMCV-23JW?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-XP3W-R5P5-63RR vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-XP3W-R5P5-63RR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-XX6V-RP6X-Q39C vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-XX6V-RP6X-Q39C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Granian vulnerable to DoS via WSGI response header panic](https://vulners.com/github/GHSA-F5P7-9FR5-8JMJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Granian vulnerable to unauthenticated DoS via WebSocket subprotocol header panic](https://vulners.com/github/GHSA-VRG7-482J-P6F6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: kernel security update](https://vulners.com/redhat/RHSA-2026:14230?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: Red Hat build of Cryostat security update](https://vulners.com/redhat/RHSA-2026:14391?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: thunderbird security update](https://vulners.com/redhat/RHSA-2026:14303?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [kernel: ALSA: aloop: Fix racy access at PCM trigger](https://vulners.com/redhat/RHSA-2026:14230-CVE-2026-23191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [kernel: crypto: algif_aead - Revert to operating out-of-place](https://vulners.com/redhat/RHSA-2026:14230-CVE-2026-31431?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [kernel: Linux kernel KVM: Privilege escalation or denial of service due to improper shadow page table entry handling](https://vulners.com/redhat/RHSA-2026:14230-CVE-2026-23401?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [libpng: libpng: Arbitrary code execution due to use-after-free vulnerability](https://vulners.com/redhat/RHSA-2026:14303-CVE-2026-33416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [libpng: libpng: Information disclosure and denial of service via out-of-bounds read/write in Neon palette expansion](https://vulners.com/redhat/RHSA-2026:14303-CVE-2026-33636?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Low-privileged Grav API users can create super-admin accounts via blueprint-upload](https://vulners.com/github/GHSA-6XX2-M8WV-756H?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://vulners.com/thn/THN:57A84DFE10DA6184E7AC20F477D4131E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Moderate: Red Hat Security Advisory: corosync security update](https://vulners.com/redhat/RHSA-2026:14214?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Moderate: Red Hat Security Advisory: corosync security update](https://vulners.com/redhat/RHSA-2026:14215?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -365,6 +389,7 @@
   - [trying-to-make-a-website-scanner](https://vulners.com/githubexploit/C5B595FD-4BBB-5325-AC17-5995873BD0F1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [USN-8233-2: nghttp2 vulnerability](https://vulners.com/ubuntu/USN-8233-2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [A Kid With a Fake Mustache Tricked an Online Age-Verification Tool](https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/)
   - [Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird](https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/)
   - [I Am Begging AI Companies to Stop Naming Features After Human Processes](https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/)
   - [Mexico City Is Sinking. A Powerful NASA Satellite Just Exposed How Fast](https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/)
