@@ -1,10 +1,63 @@
 # 今日安全资讯（2026-05-08）
 
+- darkreading
+  - [Has CISA Finally Found Its New Leader in Tom Parker?](https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker)
+- Hacker News Frontpage
+  - [Only 173? Tesla Cybertruck RWD Recall Reveals Low Sales](https://www.motortrend.com/news/tesla-cybertruck-rwd-recall-brake-rotor)
 - Mozilla Hacks – the Web developer blog
   - [Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Integer Overflow or Wraparound in Microsoft exploit](https://sploitus.com/exploit?id=3548C225-1BF9-5372-B726-948D360BBECC&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=69296AF0-B05B-59A4-B9B3-75F683A2AEDC&utm_source=rss&utm_medium=rss)
 - The Verge
   - [A hacker ran me over with a robot lawn mower](https://www.theverge.com/tech/925696/yarbo-robot-lawn-mower-hack-remote-control-camera-access-mqtt)
   - [Inside the return of Xbox](https://www.theverge.com/tech/925966/microsoft-return-to-xbox-town-hall-notepad)
   - [The future of Disney Plus is a confused mess](https://www.theverge.com/streaming/925973/josh-damaro-disney-plus-disney-parks)
+- VulDB Recent Entries
+  - [CVE-2025-63703 | parse-ini 1.0.6 index.js prototype pollution](https://vuldb.com/vuln/361898)
+  - [CVE-2025-63704 | query-parser-string 1.0.0 Query Parameter prototype pollution](https://vuldb.com/vuln/361896)
+  - [CVE-2026-36341 | Krayin CRM 2.1.5 /admin/activities/create Comment cross site scripting](https://vuldb.com/vuln/361899)
+  - [CVE-2026-5787 | Ivanti Endpoint Manager Mobile prior 12.6.1.1/12.7.0.1/12.8.0.1 certificate validation](https://vuldb.com/vuln/361895)
+  - [CVE-2026-5788 | Ivanti Endpoint Manager Mobile 12.6.1.1/12.7.0.1/12.8.0.1 access control](https://vuldb.com/vuln/361897)
+  - [CVE-2026-6973 | Ivanti Endpoint Manager Mobile 12.6.1.1/12.7.0.1/12.8.0.1 input validation](https://vuldb.com/vuln/361893)
+  - [CVE-2026-7821 | Ivanti Endpoint Manager Mobile 12.6.1.1/12.7.0.1/12.8.0.1 certificate validation](https://vuldb.com/vuln/361894)
+  - [CVE-2026-8112 | 8421bit MiniClaw up to 223c16a1088e138838dcbd18cd65a37c35ac5a84 src/kernel.ts executeCognitivePulse os command injection](https://vuldb.com/vuln/361900)
+  - [CVE-2026-8113 | 8421bit MiniClaw up to 43905b934cf76489ab28e4d17da28ee97970f91f executeSkillScript src/kernel.ts isPathInside path traversal](https://vuldb.com/vuln/361901)
+  - [CVE-2026-8114 | JeecgBoot up to 3.9.1 JSON Object /sys/dict/loadTreeData condition sql injection (Issue 9571)](https://vuldb.com/vuln/361902)
+  - [CVE-2026-8115 | gyoridavid short-video-maker up to 1.3.4 REST API rest.ts req.params.tmpFile path traversal (Issue 73)](https://vuldb.com/vuln/361903)
+  - [CVE-2026-8116 | huangjunsen0406 xiaozhi-mcphub up to 1.0.3 dxtController.ts manifest.name path traversal (Issue 29)](https://vuldb.com/vuln/361904)
+  - [CVE-2026-8117 | SourceCodester Pizzafy Ecommerce System 1.0 /admin/index.php page cross site scripting](https://vuldb.com/vuln/361905)
+- Vulners.com RSS Feed
+  - [CVE-2025-4386](https://vulners.com/nvd/NVD:CVE-2025-4386?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-4397](https://vulners.com/nvd/NVD:CVE-2025-4397?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-63703](https://vulners.com/nvd/NVD:CVE-2025-63703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-63704](https://vulners.com/nvd/NVD:CVE-2025-63704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-65122](https://vulners.com/nvd/NVD:CVE-2025-65122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36341](https://vulners.com/nvd/NVD:CVE-2026-36341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36387](https://vulners.com/nvd/NVD:CVE-2026-36387?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36388](https://vulners.com/nvd/NVD:CVE-2026-36388?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5786](https://vulners.com/nvd/NVD:CVE-2026-5786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5787](https://vulners.com/nvd/NVD:CVE-2026-5787?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5788](https://vulners.com/nvd/NVD:CVE-2026-5788?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6973](https://vulners.com/nvd/NVD:CVE-2026-6973?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7413 Persistent undocumented backdoor access in Yarbo robot](https://vulners.com/cve/CVE-2026-7413?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7413 Persistent undocumented backdoor access in Yarbo robot](https://vulners.com/cvelist/CVELIST:CVE-2026-7413?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7414 Hardcoded credentials in Yarbo robot firmware](https://vulners.com/cve/CVE-2026-7414?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7414 Hardcoded credentials in Yarbo robot firmware](https://vulners.com/cvelist/CVELIST:CVE-2026-7414?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7415 Open MQTT orchestration without read/write ACLs in Yarbo robot firmware](https://vulners.com/cve/CVE-2026-7415?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7415 Open MQTT orchestration without read/write ACLs in Yarbo robot firmware](https://vulners.com/cvelist/CVELIST:CVE-2026-7415?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7821](https://vulners.com/nvd/NVD:CVE-2026-7821?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-7482](https://vulners.com/githubexploit/B0ACF3C8-2112-5B03-9F69-68C8CDA00F2F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/085D9715-58A9-5159-9C8A-387F4C3BCBD6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Integer Overflow or Wraparound in Microsoft](https://vulners.com/githubexploit/3548C225-1BF9-5372-B726-948D360BBECC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Missing Authentication for Critical Function in Cpanel](https://vulners.com/githubexploit/69296AF0-B05B-59A4-B9B3-75F683A2AEDC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: OpenShift Container Platform 4.16.61 bug fix and security update](https://vulners.com/redhat/RHSA-2026:13729?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: Red Hat OpenShift distributed tracing platform (Tempo) 3.9.3 release](https://vulners.com/redhat/RHSA-2026:14885?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Best Last-Minute Mother’s Day Deals on Mom-Approved Gifts  (2026)](https://www.wired.com/story/mothers-day-deals-2026/)
+  - [ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'](https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/)
+  - [DOGE’s Ethan Shaotran Is Now Running a Defense Tech Startup](https://www.wired.com/story/doges-ethan-shaotran-is-now-running-a-defense-tech-startup/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [传粉昆虫与农户健康与收入息息相关](https://www.solidot.org/story?sid=84237)
