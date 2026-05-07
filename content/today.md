@@ -13,6 +13,7 @@
   - [早上吃饭时刷视频，看到了一个，山东费县“消失的夫妻”，即便到现在，心里还是久久不能平复。](https://2libra.com/post/social-observation/baDAXUS)
   - [早起锻炼第一天打卡！！！！！！](https://2libra.com/post/sports/EZlwW0Y)
   - [最近看了很多中转站，中转站真的是一个好生意吗？你有使用过吗？](https://2libra.com/post/ai-gateway/S8u_-fs)
+  - [请教一个购买纳指 ETF 的问题！](https://2libra.com/post/financial-management/g4ZPR83)
   - [距离今年高考 只剩 一个月了！哈哈哈哈哈哈哈哈哈哈哈哈哈哈 😄](https://2libra.com/post/personal-life/VLjMu-4)
 - 36氪
   - [8点1氪丨三星宣布停止在中国大陆市场销售所有家电产品；李嘉诚抛售资产套现约455亿；月之暗面将完成20亿美元新融资，估值破200亿美元](https://36kr.com/p/3798462137637892?f=rss)
@@ -37,7 +38,11 @@
   - [中信证券：头部券商优势进一步巩固，关注头部券商以及中型券商](https://36kr.com/newsflashes/3798500653391113?f=rss)
   - [中信证券：算力驱动电力重构，美国自主供电开启万亿新赛道](https://36kr.com/newsflashes/3798485812256003?f=rss)
   - [中国银行业进入新规模叙事，银行资产规模增长显著分化](https://36kr.com/newsflashes/3798433108220931?f=rss)
+  - [中汽协：3月汽车零部件产品进口金额达15.2亿美元，环比增长3.4%](https://36kr.com/newsflashes/3798962015722754?f=rss)
+  - [中证协通报一季度券商投诉处理情况：佣金税费投诉量居首，七方面建议直指服务痛点](https://36kr.com/newsflashes/3798999388019971?f=rss)
   - [中金：看好模型健康、扩张要素齐备的生鲜龙头公司长期成长空间](https://36kr.com/newsflashes/3798460685655300?f=rss)
+  - [丰原药业：复方聚乙二醇电解质散获药品注册证书](https://36kr.com/newsflashes/3798996941724681?f=rss)
+  - [乘联分会：4月全国乘用车厂商新能源批发预估122万辆，同比增长7%](https://36kr.com/newsflashes/3798981312027913?f=rss)
   - [亚华电子战略投资全球化具身养老机器人公司“骅羲科技”](https://36kr.com/newsflashes/3798676368891137?f=rss)
   - [人民币兑美元中间价报6.8487，上调75点](https://36kr.com/newsflashes/3798541192060160?f=rss)
   - [众擎机器人增资至320.7万，增幅约11%](https://36kr.com/newsflashes/3798856819055622?f=rss)
@@ -58,7 +63,9 @@
   - [华纳兄弟探索公司因派拉蒙交易和重组成本录得29亿美元净亏损](https://36kr.com/newsflashes/3798449399110916?f=rss)
   - [印尼考虑对16岁以下人群实施“网购禁令”](https://36kr.com/newsflashes/3798656925981960?f=rss)
   - [印度Zee公司就涉嫌侵犯音乐版权一事起诉信实-迪士尼](https://36kr.com/newsflashes/3798429000621062?f=rss)
+  - [友邦人寿等在天津成立股权投资基金，出资额61亿](https://36kr.com/newsflashes/3798988033416192?f=rss)
   - [国家人工智能产业投资基金等入股云脉芯联](https://36kr.com/newsflashes/3798730211433478?f=rss)
+  - [国家外汇管理局：截至2026年4月末，我国外汇储备规模为34105亿美元](https://36kr.com/newsflashes/3798952743885828?f=rss)
   - [基金降费“三步走”成效显著](https://36kr.com/newsflashes/3798459585879048?f=rss)
   - [壳牌启动30亿美元股票回购计划](https://36kr.com/newsflashes/3798837925911559?f=rss)
   - [多地农商行存款再降息，全国性银行按兵不动](https://36kr.com/newsflashes/3798455957626115?f=rss)
@@ -66,13 +73,16 @@
   - [天舟九号货运飞船已受控再入大气层](https://36kr.com/newsflashes/3798513004125444?f=rss)
   - [央行今日开展270亿元7天逆回购操作](https://36kr.com/newsflashes/3798547689692167?f=rss)
   - [奇瑞商用车等在安徽成立嘉途汽车公司，注册资本19.2亿](https://36kr.com/newsflashes/3798676849908740?f=rss)
+  - [威龙股份：筹划控制权变更事项，股票继续停牌](https://36kr.com/newsflashes/3798968126020869?f=rss)
   - [存储涨价预期持续升温，歌尔股份回应影响](https://36kr.com/newsflashes/3798771610737920?f=rss)
+  - [宁德时代与Togg达成磐石底盘量产合作](https://36kr.com/newsflashes/3798953840221444?f=rss)
   - [宇树UniStore官方共享应用平台正式全面开放](https://36kr.com/newsflashes/3798845321714953?f=rss)
   - [宝马一季度利润降25%，至23亿欧元](https://36kr.com/newsflashes/3798431778118919?f=rss)
   - [对话孙来春：年入25亿的林清轩不想做中国欧莱雅 ｜厚雪专访](https://36kr.com/p/3797662460419337?f=rss)
   - [广西金融投资集团增资至149.67亿](https://36kr.com/newsflashes/3798801096236297?f=rss)
   - [恒指午间休盘涨1.57%，恒生科技指数涨3.09%](https://36kr.com/newsflashes/3798704311688192?f=rss)
   - [恒指开盘涨1.21%，恒生科技指数涨2.41%](https://36kr.com/newsflashes/3798547389324289?f=rss)
+  - [恒指收涨1.57%，恒生科技指数涨3.06%](https://36kr.com/newsflashes/3798948959837191?f=rss)
   - [恒生科技指数盘中涨超3%](https://36kr.com/newsflashes/3798671408815107?f=rss)
   - [抖音火山引擎在苏州成立新科技公司，注册资本1000万](https://36kr.com/newsflashes/3798632064457993?f=rss)
   - [报告：69%的用户基于兴趣决定出行目的地](https://36kr.com/newsflashes/3798841581673473?f=rss)
@@ -96,6 +106,7 @@
   - [沪深两市成交额突破1万亿](https://36kr.com/newsflashes/3798584793816067?f=rss)
   - [沪深两市成交额连续第19个交易日突破2万亿元](https://36kr.com/newsflashes/3798762440858889?f=rss)
   - [沪深两市成交额连续第2个交易日突破3万亿](https://36kr.com/newsflashes/3798877055671303?f=rss)
+  - [波兰电动汽车公司与富士康就电动汽车项目达成合作](https://36kr.com/newsflashes/3798992519879943?f=rss)
   - [泰国央行上调今年GDP增长预期至2.1%](https://36kr.com/newsflashes/3798772100160773?f=rss)
   - [深证成指、创业板指双双涨超1%](https://36kr.com/newsflashes/3798808740470024?f=rss)
   - [港交所计划未来数月推出黄金期货](https://36kr.com/newsflashes/3798940674251784?f=rss)
@@ -120,6 +131,7 @@
   - [英国反垄断重拳出击，正式调查万事达卡、Visa及PayPal](https://36kr.com/newsflashes/3798420068408328?f=rss)
   - [苹果高价买“芯”：MacBook Neo生产目标提高至1000万台](https://36kr.com/newsflashes/3798867347135491?f=rss)
   - [裕信银行签署非约束性协议，出售部分俄罗斯业务](https://36kr.com/newsflashes/3798834421964035?f=rss)
+  - [许继电气：中标12.75亿元国家电网采购项目](https://36kr.com/newsflashes/3798977563303173?f=rss)
   - [豪恩汽电：获头部新能源汽车品牌智能驾驶雷达感知系统产品定点](https://36kr.com/newsflashes/3798930573794565?f=rss)
   - [韩国4月份外汇储备增加42.2亿美元](https://36kr.com/newsflashes/3798433407212545?f=rss)
   - [韩国券商大幅上调SK海力士及三星目标价，较最新股价高出逾80%](https://36kr.com/newsflashes/3798913693506564?f=rss)
@@ -146,6 +158,8 @@
   - [Daily Threat Briefing – May 7, 2026](https://defend.network/briefings/critical-vulnerabilities-apt-supply-chain-attacks-2026-05-07.html)
 - Fidelis Security
   - [What Insider Threat Monitoring Reveals About Hidden Organizational Risk](https://fidelissecurity.com/threatgeek/threat-detection-response/insider-threat-monitoring/)
+- Fuzzing Labs
+  - [Solana’s virtual machine crypto syscall pwned by CTF inspiration](https://fuzzinglabs.com/solana-agave-vm-crypto-syscall-vulnerability/)
 - Google AI Blog
   - [5 gardening tips you can try right in Search](https://blog.google/products-and-platforms/products/search/gardening-tips/)
 - Hacker News Frontpage
@@ -163,12 +177,20 @@
   - [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)
   - [They don't look like me](https://niccolorastrelli.com/they-dont-look-like-me)
   - [UK businesses brace for jet fuel rationing](https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/)
+- HackerNews
+  - [MuddyWater éť‘ĺŽ˘äťĽ Chaos ĺ‹’ç´˘č˝Żäťśä¸şčŻąéĽľĺ‘ĺŠ¨ć”ťĺ‡ť](http://0.0.0.0:8080/post/64212)
+  - [vm2 Node.js ĺş“ć›ĺ¤šä¸Şćźć´žďźŒĺŻč‡´ć˛™çŽąé€ƒé€¸ä¸Žäťťć„äťŁç ć‰§čĄŒ](http://0.0.0.0:8080/post/64209)
+  - [äž›ć°´čŽžć–˝é­ĺ…ĽäžľďźŒClaude AI ĺŠŠĺŠ›éť‘ĺŽ˘é”ĺŽš OT čľ„äş§](http://0.0.0.0:8080/post/64210)
+  - [çžŽĺ›˝ CISA ĺ°† Palo Alto Networks PAN - OS ćźć´žçşłĺ…Ľĺˇ˛çŸĽč˘ŤĺˆŠç”¨ćźć´žç›Žĺ˝•](http://0.0.0.0:8080/post/64211)
+  - [ĺŸşäşŽ Mirai çš„ xlabs_v1 ĺƒľĺ°¸ç˝‘çťœĺˆŠç”¨ ADB ĺŠŤćŒç‰Šč”ç˝‘čŽžĺ¤‡ĺ‘ĺŠ¨ DDoS ć”ťĺ‡ť](http://0.0.0.0:8080/post/64208)
 - HackerNoon
   - [Handling Large Datasets in Spring Boot: A Quick How-to Guide](https://hackernoon.com/handling-large-datasets-in-spring-boot-a-quick-how-to-guide?source=rss)
   - [How Did the Fourier Transform Translate Eridian? A Deeper Insight](https://hackernoon.com/how-did-the-fourier-transform-translate-eridian-a-deeper-insight?source=rss)
   - [Roobet Launches Prediction Markets on May 6, The First Major Crypto Casino to Integrate the Format](https://hackernoon.com/roobet-launches-prediction-markets-on-may-6-the-first-major-crypto-casino-to-integrate-the-format?source=rss)
 - IEEE Spectrum
   - [Learn What It Takes to Become a Cybersecurity Consultant](https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant)
+- infosecurity-magazine.com
+  - [Researchers Spot Uptick in Use of Vercel for Phishing Campaigns](https://www.infosecurity-magazine.com/news/researchers-spot-uptick-vercel/)
 - joanwestenberg.com
   - [The war between fast and legitimate is here](https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/)
 - johndcook.com
@@ -178,6 +200,8 @@
   - [Things to Do After Installing Ubuntu 26.04 LTS for a Fast, Secure Setup](https://kalilinuxtutorials.com/things-to-do-after-installing-ubuntu-26-04-lts-for-a-fast-secure-setup/)
 - miguelgrinberg.com
   - [SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy)
+- pluralistic.net
+  - [Pluralistic: Bubbles are REALLY evil (07 May 2026)](https://pluralistic.net/2026/05/07/dump-the-pumpers/)
 - Sploitus.com Exploits RSS Feed
   - [aerobi-poc exploit](https://sploitus.com/exploit?id=1FF17BFB-42C6-5866-9667-464BD03C4921&utm_source=rss&utm_medium=rss)
   - [alika-vuln-shield exploit](https://sploitus.com/exploit?id=B8BB1B1D-913E-59E1-8838-572C31020CF9&utm_source=rss&utm_medium=rss)
@@ -191,6 +215,7 @@
   - [Exploit for Incorrect Implementation of Authentication Algorithm in Google Android exploit](https://sploitus.com/exploit?id=8462108F-033B-511B-8431-30E69787A891&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Implementation of Authentication Algorithm in Google Android exploit](https://sploitus.com/exploit?id=EC970BDC-C657-5C32-B394-1A23DB70C00F&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=B57EFABC-8F6B-58C6-A3C8-46A274721F27&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=C09EC48D-DD89-51E7-8B3E-6818338B7061&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=FB572744-7C86-5F7A-B49A-1C6046B0BF82&utm_source=rss&utm_medium=rss)
   - [Exploit for Prototype Pollution in N8N exploit](https://sploitus.com/exploit?id=DD446CAA-DE19-5981-A346-BFBEEE3C37E1&utm_source=rss&utm_medium=rss)
   - [ExploitMind exploit](https://sploitus.com/exploit?id=4C8401C4-23BC-5B04-A287-7F1CDCCF0548&utm_source=rss&utm_medium=rss)
@@ -226,8 +251,15 @@
   - [This slim ice cream maker could fit in my already crowded kitchen](https://www.theverge.com/tech/925124/nutribullet-chill-ice-cream-maker)
 - VulDB Recent Entries
   - [CVE-2024-30151 | HCL BigFix Service Management 23 log file (KB0127782)](https://vuldb.com/vuln/361713)
+  - [CVE-2025-1978 | Hitachi Virtual Storage Platform One Block 28 code injection](https://vuldb.com/vuln/361812)
+  - [CVE-2025-2514 | Hitachi Virtual Storage Platform One Block 28 excessive authentication](https://vuldb.com/vuln/361814)
   - [CVE-2025-31960 | HCL BigFix Service Management 23 consumer_company information exposure (KB0128144)](https://vuldb.com/vuln/361714)
   - [CVE-2025-31974 | HCL BigFix Service Management 23 insecure default initialization of resource (KB0128144)](https://vuldb.com/vuln/361712)
+  - [CVE-2025-62127 | WEN Themes WEN Logo Slider Plugin up to 3.4.0 on WordPress cross site scripting](https://vuldb.com/vuln/361819)
+  - [CVE-2025-66105 | Magepeople Bus Ticket Booking with Seat Reservation Plugin up to 5.6.7 on WordPress authorization](https://vuldb.com/vuln/361815)
+  - [CVE-2025-68060 | WPMart Team Member Plugin up to 8.5 on WordPress sql injection](https://vuldb.com/vuln/361816)
+  - [CVE-2025-68604 | WPGraphQL Plugin up to 2.5.3 on WordPress cross-site request forgery](https://vuldb.com/vuln/361821)
+  - [CVE-2025-9661 | Hitachi Virtual Storage Platform One Block 23/24/26/28 os command injection](https://vuldb.com/vuln/361809)
   - [CVE-2026-0300 | Palo Alto Cloud NGFW/PAN-OS/Prisma Access out-of-bounds write](https://vuldb.com/vuln/361707)
   - [CVE-2026-20034 | Cisco Unity Connection up to 15SU3 API path traversal (cisco-sa-unity-rce-ssrf-hENhuASy)](https://vuldb.com/vuln/361560)
   - [CVE-2026-20035 | Cisco Unity Connection up to 15SU3 HTTP server-side request forgery (cisco-sa-unity-rce-ssrf-hENhuASy)](https://vuldb.com/vuln/361562)
@@ -241,6 +273,10 @@
   - [CVE-2026-20193 | Cisco Identity Services Engine Software 3.3.0/3.4.0/3.5.0 RADIUS Policy API Endpoint authorization (cisco-sa-ise-unauth-bypass-uxjRXGpb)](https://vuldb.com/vuln/361569)
   - [CVE-2026-20219 | Cisco Webex Meetings/Slido REST API Endpoint authorization (cisco-sa-slido-idor-CpsFmKxN)](https://vuldb.com/vuln/361575)
   - [CVE-2026-23870 | Meta react-server-dom-turbopack up to 19.0.5/19.1.6/19.2.5 HTTP deserialization (GHSA-rv78-f8rc-xrxh)](https://vuldb.com/vuln/361716)
+  - [CVE-2026-25436 | WProyal Royal Elementor Addons Plugin up to 1.7.1052 on WordPress authorization](https://vuldb.com/vuln/361817)
+  - [CVE-2026-25468 | weDevs Happy Addons for Elementor Plugin up to 3.20.8 on WordPress exposure of sensitive system information to an unauthorized control sphere](https://vuldb.com/vuln/361818)
+  - [CVE-2026-27329 | YITH WooCommerce Wishlist Plugin up to 4.12.0 on WordPress authorization](https://vuldb.com/vuln/361813)
+  - [CVE-2026-27421 | WProyal Royal Elementor Addons Plugin up to 1.7.1052 on WordPress cross site scripting](https://vuldb.com/vuln/361820)
   - [CVE-2026-29080 | rucio up to 35.8.4/38.5.4/39.4.1/40.1.0 DID Search Endpoint filter_engine.py FilterEngine.create_sqla_query sql injection (GHSA-vjr5-c9qv-hgm3)](https://vuldb.com/vuln/361574)
   - [CVE-2026-29090 | Rucio up to 35.8.4/38.5.4/39.4.1/40.1.0 PostgreSQL Feature FilterEngine.create_postgres_query sql injection (GHSA-6j7p-qjhg-9947)](https://vuldb.com/vuln/361577)
   - [CVE-2026-3291 | HP Samsung Print Service Plugin up to 3.12.260419 on Android improper export of android application components](https://vuldb.com/vuln/361746)
@@ -316,6 +352,9 @@
   - [CVE-2026-44117 | OpenClaw up to 2026.4.19 uploadC2CMedia/uploadGroupMedia server-side request forgery (GHSA-c4qg-j8jg-42q5)](https://vuldb.com/vuln/361781)
   - [CVE-2026-44118 | OpenClaw up to 2026.4.21 Request Header authentication spoofing (GHSA-r6xh-pqhr-v4xh)](https://vuldb.com/vuln/361766)
   - [CVE-2026-44232 | dssrf prior 1.3.0 IPv6 Category is_url_safe server-side request forgery](https://vuldb.com/vuln/361717)
+  - [CVE-2026-4430 | LibreOffice up to 25.8.6/26.2.2 OOXML salt out-of-bounds write](https://vuldb.com/vuln/361810)
+  - [CVE-2026-44406 | ZTE ZXCLOUD iRAI 7.2X uSmartViewServiceAgent.exe uncontrolled search path](https://vuldb.com/vuln/361811)
+  - [CVE-2026-44407 | ZTE ZXCLOUD iRAI 7.2X format string](https://vuldb.com/vuln/361822)
   - [CVE-2026-44597 | Tor up to 0.4.9.7 incorrect provision of specified functionality](https://vuldb.com/vuln/361788)
   - [CVE-2026-44599 | Tor up to 0.4.9.7 resource transfer](https://vuldb.com/vuln/361786)
   - [CVE-2026-44600 | Tor up to 0.4.9.7 incorrect behavior order](https://vuldb.com/vuln/361787)
@@ -646,6 +685,7 @@
   - [Exploit for Incorrect Implementation of Authentication Algorithm in Google Android](https://vulners.com/githubexploit/EC970BDC-C657-5C32-B394-1A23DB70C00F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/AD4D2718-3849-56E8-977A-EC52FD0E1AD0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/B57EFABC-8F6B-58C6-A3C8-46A274721F27?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/C09EC48D-DD89-51E7-8B3E-6818338B7061?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Samsung Magicinfo_9_Server](https://vulners.com/githubexploit/2C3563BC-D6C6-5CE5-AEDB-7765A772CDF6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Prototype Pollution in N8N](https://vulners.com/githubexploit/DD446CAA-DE19-5981-A346-BFBEEE3C37E1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ExploitMind](https://vulners.com/githubexploit/4C8401C4-23BC-5B04-A287-7F1CDCCF0548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -744,6 +784,8 @@
 - 不安全
   - [An Adaptive Cyber Analytics UI for Web Honeypot Logs &#x5b;Guest Diary&#x5d;, (Wed, May 6th)](https://buaq.net/go-414938.html)
   - [Bundlehunt 新捆绑包上线，42款特价 macOS 软件，终身授权，无需订阅。](https://buaq.net/go-414960.html)
+  - [Photopea 作者新作：Jampea，在浏览器中编辑 MIDI 音乐](https://buaq.net/go-414988.html)
+  - [Solana’s virtual machine crypto syscall pwned by CTF inspiration](https://buaq.net/go-414987.html)
   - [中美寻求设置护栏 防止AI竞争演变成危机](https://buaq.net/go-414974.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
