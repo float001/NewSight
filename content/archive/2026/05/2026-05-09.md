@@ -7,15 +7,24 @@
 - filfre.net
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/)
 - Hacker News Frontpage
+  - [Apple, Intel have reached preliminary chip-making deal](https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/)
   - [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games)
+- IEEE Spectrum
+  - [Ana Inês Inácio Designs the Future of Wireless](https://spectrum.ieee.org/ana-ines-inacio-wireless)
 - MIT Technology Review
   - [Here’s what you need to know about the cruise ship hantavirus outbreak](https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=3F9ACC28-A0DC-5DE7-B52D-4CB5DB0EDABE&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=5B1FD096-A74A-557D-9C63-602DE92C0576&utm_source=rss&utm_medium=rss)
+  - [Exploit for Server-Side Request Forgery in Espocrm exploit](https://sploitus.com/exploit?id=09E05AEB-8FD1-5F5D-9057-0E54C77EA2A9&utm_source=rss&utm_medium=rss)
+  - [Exploit for Stack-based Buffer Overflow in Dronecode Px4_Drone_Autopilot exploit](https://sploitus.com/exploit?id=995BBC30-CEE5-5D4C-AAAC-4B6A991BB7CF&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Mother Ventures is looking at moms as the ‘economic engine’](https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/)
+  - [Poland says hackers breached water treatment plants, and the US is facing the same threat](https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/)
+  - [Uber partner Avride is under investigation for self-driving crashes](https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/)
   - [US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former employers](https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/)
 - The Decoder
+  - [AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks](https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/)
   - [SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations](https://the-decoder.com/softbank-reportedly-slashes-openai-backed-loan-from-10-billion-to-6-billion-as-lenders-balk-at-private-ai-valuations/)
 - The Verge
   - [PlayStation sees AI as a ‘powerful tool’ to help make games](https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games)
@@ -126,6 +135,7 @@
   - [CVE-2026-29974](https://vulners.com/nvd/NVD:CVE-2026-29974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-29975](https://vulners.com/nvd/NVD:CVE-2026-29975?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-34354](https://vulners.com/nvd/NVD:CVE-2026-34354?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-38360](https://vulners.com/nvd/NVD:CVE-2026-38360?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41070](https://vulners.com/nvd/NVD:CVE-2026-41070?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41591](https://vulners.com/nvd/NVD:CVE-2026-41591?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41683](https://vulners.com/nvd/NVD:CVE-2026-41683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -134,13 +144,22 @@
   - [CVE-2026-41883](https://vulners.com/nvd/NVD:CVE-2026-41883?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41885](https://vulners.com/nvd/NVD:CVE-2026-41885?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41886](https://vulners.com/nvd/NVD:CVE-2026-41886?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41887](https://vulners.com/nvd/NVD:CVE-2026-41887?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41889](https://vulners.com/nvd/NVD:CVE-2026-41889?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42028](https://vulners.com/nvd/NVD:CVE-2026-42028?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42030](https://vulners.com/nvd/NVD:CVE-2026-42030?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42072](https://vulners.com/nvd/NVD:CVE-2026-42072?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42353](https://vulners.com/nvd/NVD:CVE-2026-42353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42793](https://vulners.com/nvd/NVD:CVE-2026-42793?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42794](https://vulners.com/nvd/NVD:CVE-2026-42794?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43967](https://vulners.com/nvd/NVD:CVE-2026-43967?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44499](https://vulners.com/nvd/NVD:CVE-2026-44499?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6659 Crypt::PasswdMD5 versions through 1.42 for Perl generates insecure random values for salts](https://vulners.com/cve/CVE-2026-6659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6659 Crypt::PasswdMD5 versions through 1.42 for Perl generates insecure random values for salts](https://vulners.com/cvelist/CVELIST:CVE-2026-6659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-5718](https://vulners.com/githubexploit/4D9D3221-5643-54EA-A2F7-05C1DD8FFCC6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/3F9ACC28-A0DC-5DE7-B52D-4CB5DB0EDABE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/5B1FD096-A74A-557D-9C63-602DE92C0576?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Server-Side Request Forgery in Espocrm](https://vulners.com/githubexploit/09E05AEB-8FD1-5F5D-9057-0E54C77EA2A9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Stack-based Buffer Overflow in Dronecode Px4_Drone_Autopilot](https://vulners.com/githubexploit/995BBC30-CEE5-5D4C-AAAC-4B6A991BB7CF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
