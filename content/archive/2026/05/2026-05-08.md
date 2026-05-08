@@ -2,6 +2,10 @@
 
 - 2Libra
   - [AI 裁员的全球分化：西方"AI 替代合法"，中国"AI 替代违法"](https://2libra.com/post/ai-trends/o3XgbET)
+  - [【转载】社区这个东西，它的价值来自于门槛。](https://2libra.com/post/forum-function/QmJmNlA)
+  - [怎么感觉怪怪的](https://2libra.com/post/product-details/JgIxv1q)
+  - [想看给我表态的人的主页](https://2libra.com/post/forum-function/aEfM-AF)
+  - [最近开放了热榜站的 api，也给龙虾、hermes 等智能体做了 skill](https://2libra.com/post/tools-sharing/tATgnWw)
   - [马斯克宣布：xAI 解散， 将不再作为独立公司存在， 直接并入 Space，它将直接更名为 SpaceXAI ，该公司估值 1.75 万亿美元。](https://2libra.com/post/ai-companies/U0xD-H4)
 - 36氪
   - [36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构](https://36kr.com/p/3799984046333186?f=rss)
@@ -14,6 +18,7 @@
   - [OpenAI自研芯片遇阻：博通要求微软采购四成产能](https://36kr.com/newsflashes/3799898525047815?f=rss)
   - [Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家](https://36kr.com/p/3799129165863937?f=rss)
   - [SpaceX 冲刺上市，资本开支飙升数百亿](https://36kr.com/newsflashes/3799397980101637?f=rss)
+  - [“阶跃星辰”将完成近25亿美元融资](https://36kr.com/newsflashes/3800006173973760?f=rss)
   - [三星家电门店称月底或下月中旬退市：“被国产压得太厉害” 中国产线仍面向海外](https://36kr.com/newsflashes/3799404936010757?f=rss)
   - [两市融资余额增加294.9亿元](https://36kr.com/newsflashes/3799930531405058?f=rss)
   - [中信建投：温和通胀但扩产克制，锂电储能板块向上信号明确](https://36kr.com/newsflashes/3799867405999368?f=rss)
@@ -26,8 +31,11 @@
   - [创业板指拉升翻红，开盘一度跌超1%](https://36kr.com/newsflashes/3799988450466823?f=rss)
   - [创新药产业链强势发力，有望带动医药板块触底反弹](https://36kr.com/newsflashes/3799817111756038?f=rss)
   - [加码科技金融，中小银行盼AIC试点扩容](https://36kr.com/newsflashes/3799818056506630?f=rss)
+  - [半导体电子材料企业科利德启动上市辅导](https://36kr.com/newsflashes/3800055181433860?f=rss)
   - [华泰证券：供需侧均有利好有望引领大宗化工��2026年下半年步入新一轮景气](https://36kr.com/newsflashes/3799928248147209?f=rss)
   - [华泰证券：计算机板块温和复苏，关注AI结构性主线](https://36kr.com/newsflashes/3799904402529540?f=rss)
+  - [印度投资者转向海外市场，因国内缺乏AI题材且回报率低](https://36kr.com/newsflashes/3800007655480325?f=rss)
+  - [商汤发布日日新SenseNova Token Plan](https://36kr.com/newsflashes/3800042156612871?f=rss)
   - [壳牌一季度利润69亿美元超预期](https://36kr.com/newsflashes/3799394942196993?f=rss)
   - [大容量电芯迭代速度远超行业预期，500+Ah产品将在2026年迎来爆发式增长](https://36kr.com/newsflashes/3799908562263298?f=rss)
   - [央行公开市场开展5亿元7天期逆回购操作](https://36kr.com/newsflashes/3799963943083269?f=rss)
@@ -40,7 +48,9 @@
   - [摩根大通：美企盈利强劲却仍持续加杠杆](https://36kr.com/newsflashes/3799405467933696?f=rss)
   - [日本3月实际薪资连续第三个月攀升为日本央行加息提供支撑](https://36kr.com/newsflashes/3799904517250055?f=rss)
   - [昆仑芯（北京）科技股份有限公司启动上市辅导](https://36kr.com/newsflashes/3799866709842944?f=rss)
+  - [机构：2026年第一季度全球平板电脑市场微增0.1%](https://36kr.com/newsflashes/3800045891378433?f=rss)
   - [欧盟警告航空公司：因油价上涨取消航班必须赔偿乘客](https://36kr.com/newsflashes/3799912617942274?f=rss)
+  - [每日互动：一季度公司AI相关业务收入已接近去年全年水平](https://36kr.com/newsflashes/3800023288569088?f=rss)
   - [法国网络犯罪部门对马斯克及X平台启动刑事侦查](https://36kr.com/newsflashes/3799819633499400?f=rss)
   - [深圳机器人产业产值超2400亿元](https://36kr.com/newsflashes/3799402405338119?f=rss)
   - [澳监管机构敦促金融业应对Mythos等人工智能模型的网络安全风险](https://36kr.com/newsflashes/3799930271128837?f=rss)
@@ -48,10 +58,12 @@
   - [特朗普称欧盟7月4日前必须履行美欧贸易协定承诺](https://36kr.com/newsflashes/3799877250636809?f=rss)
   - [特朗普计划邀请英伟达等公司CEO一同访华，受邀名单竞争激烈](https://36kr.com/newsflashes/3799942338272259?f=rss)
   - [知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段](https://36kr.com/newsflashes/3799907684211971?f=rss)
+  - [第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发](https://36kr.com/p/3800022823951363?f=rss)
   - [美法院：特朗普政府的全球进口关税缺乏法律依据](https://36kr.com/newsflashes/3799876435926277?f=rss)
   - [美股三大指数集体收跌，热门中概股普跌](https://36kr.com/newsflashes/3799816067783944?f=rss)
   - [美财长与保险监管机构会谈，讨论私募信贷问题](https://36kr.com/newsflashes/3799905778801924?f=rss)
   - [翼菲科技：拟全球发售2460万股H股](https://36kr.com/newsflashes/3799893782010886?f=rss)
+  - [联想创投旗下基金等入股微分智飞，后者为飞行具身智能研发商](https://36kr.com/newsflashes/3800034382060552?f=rss)
   - [英伟达CEO黄仁勋：下一代AI基础设施将需要大量的光学连接，铜线已无法满足需求](https://36kr.com/newsflashes/3799989766429697?f=rss)
   - [英伟达将向IREN投资至多21亿美元，拟共同部署大规模数据中心](https://36kr.com/newsflashes/3799890834251017?f=rss)
   - [苹果公司提高2026年MacBook Neo产量目标至1000万台](https://36kr.com/newsflashes/3799387959942150?f=rss)
@@ -61,6 +73,8 @@
   - [银河证券：Token消耗数量预计将呈现较大增长，四大方向加速受益](https://36kr.com/newsflashes/3799909206989829?f=rss)
   - [险资一季度调仓动向：科技电气板块受青睐](https://36kr.com/newsflashes/3799822178491394?f=rss)
   - [预测平台Kalshi完成10亿美元F轮融资，估值达220亿美元](https://36kr.com/newsflashes/3799401290308612?f=rss)
+  - [预计6月交付，全球首艘2.4万箱甲醇双燃料集装箱船建造完工](https://36kr.com/newsflashes/3800035206552584?f=rss)
+  - [高盛将沪深300指数12个月目标位设在5300点，指出投资A股颇具吸引力](https://36kr.com/newsflashes/3800001611422725?f=rss)
 - daringfireball.net
   - [Prolost Watches 1.0](https://prolost.com/blog/prolostwatches)
 - darkreading
@@ -73,8 +87,12 @@
   - [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
   - [Only 173? Tesla Cybertruck RWD Recall Reveals Low Sales](https://www.motortrend.com/news/tesla-cybertruck-rwd-recall-brake-rotor)
   - [Researchers discover advanced language processing in the unconscious human brain](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
+- HackerNews
+  - [PCPJack 凭证窃取器利用 5 个 CVE 漏洞像蠕虫一样在云系统中传播](http://0.0.0.0:8080/post/64214)
 - johndcook.com
   - [Smoothed polygons](https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/)
+- krebsonsecurity.com
+  - [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
 - Mozilla Hacks – the Web developer blog
   - [Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/)
 - NVIDIA AI Blog
@@ -380,10 +398,15 @@
   - [CVE-2026-8121 Open5GS NSSF conv.c ogs_sbi_parse_plmn_list denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-8121?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8122](https://vulners.com/nvd/NVD:CVE-2026-8122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8122 Open5GS NSSF message.c ogs_sbi_discovery_option_add_service_names denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-8122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8123](https://vulners.com/nvd/NVD:CVE-2026-8123?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8124](https://vulners.com/nvd/NVD:CVE-2026-8124?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8124 GPAC box_code_base.c sidx_box_read allocation of resources](https://vulners.com/cve/CVE-2026-8124?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8124 GPAC box_code_base.c sidx_box_read allocation of resources](https://vulners.com/cvelist/CVELIST:CVE-2026-8124?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8125](https://vulners.com/nvd/NVD:CVE-2026-8125?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8125 code-projects Simple Chat System sendMessage.php sql injection](https://vulners.com/cve/CVE-2026-8125?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8125 code-projects Simple Chat System sendMessage.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-8125?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8128 SourceCodester SUP Online Shopping viewmsg.php sql injection](https://vulners.com/cve/CVE-2026-8128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8128 SourceCodester SUP Online Shopping viewmsg.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-8128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8142](https://vulners.com/nvd/NVD:CVE-2026-8142?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8142 CVE-2026-8142](https://vulners.com/cvelist/CVELIST:CVE-2026-8142?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cybersec-lab-trainer](https://vulners.com/githubexploit/F48E3B51-42E6-5D54-A1C1-A9A6148D20D2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
