@@ -14,6 +14,7 @@
   - [如何学会放手](https://2libra.com/post/parent-child/Lac4yuZ)
   - [摸鱼中，再发一贴！各位老哥是学完车，间隔多久第一次上高速的！](https://2libra.com/post/interaction/VB0EZld)
   - [新版降低了图片上传的门槛以及一些问题优化](https://2libra.com/post/update-logs/70PcFlN)
+  - [有没有人看了《给阿嬷的情书》](https://2libra.com/post/movie-experience/ZBmNv6j)
   - [母亲节大家都送了啥](https://2libra.com/post/personal-life/j_zO_F7)
   - [爆料称 DS 估值从 100 亿美元暴涨到 450 亿美元，拟融资 500 亿，其中梁文锋或自投 200 亿。](https://2libra.com/post/angel-investment/TFojw_4)
   - [突然反应过来，五角大楼披露 UFO 资料的事，2 站上没人提呢](https://2libra.com/post/tech-news/E8x0u4S)
@@ -107,10 +108,14 @@
   - [2026-05-08: macOS Shub Stealer infection](https://www.malware-traffic-analysis.net/2026/05/08/index.html)
 - MIT Technology Review
   - [Here’s what you need to know about the cruise ship hantavirus outbreak](https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/)
+- Recent Commits to cve:main
+  - [Update Sat May  9 11:46:19 UTC 2026](https://github.com/trickest/cve/commit/938a682a6f2d40a87549ef633042cc1102b3adaa)
 - Rob Zolkos
   - [Watch Your Agents](https://zolkos.com/2026/05/08/watch-your-agents.html)
 - seangoedecke.com
   - [AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/)
+- shkspr.mobi
+  - [Book Review: The Names by Florence Knapp ★★⯪☆☆](https://shkspr.mobi/blog/2026/05/book-review-the-names-by-florence-knapp/)
 - simonwillison.net
   - [Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -587,8 +592,10 @@
   - [CVE-2026-7807 SmarterTools SmarterMail < Build 9560 Server Local File Inclusion via the /api/v1/report/summary/{type} API](https://vulners.com/cvelist/CVELIST:CVE-2026-7807?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8178](https://vulners.com/nvd/NVD:CVE-2026-8178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8178 Remote Code Execution via Unsafe Class Loading in Amazon Redshift JDBC Driver](https://vulners.com/cvelist/CVELIST:CVE-2026-8178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8185](https://vulners.com/nvd/NVD:CVE-2026-8185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8185 UGREEN CM933 Administrative missing authentication](https://vulners.com/cve/CVE-2026-8185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8185 UGREEN CM933 Administrative missing authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-8185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8187](https://vulners.com/nvd/NVD:CVE-2026-8187?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8207](https://vulners.com/cvelist/CVELIST:CVE-2026-8207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8207](https://vulners.com/nvd/NVD:CVE-2026-8207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8208](https://vulners.com/nvd/NVD:CVE-2026-8208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -687,5 +694,6 @@
 - 阿小信的博客
   - [AI智能体政策落地！19个行业即将被重构，普通人在学习、职业、创业、投资上有哪些机会？](https://blog.axiaoxin.com/post/ai-agent-opportunities-china/)
 - 黑海洋
+  - [“侵犯公民个人信息罪”，多名民警获刑](https://blog.upx8.com/%E4%BE%B5%E7%8A%AF%E5%85%AC%E6%B0%91%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E7%BD%AA-%E5%A4%9A%E5%90%8D%E6%B0%91%E8%AD%A6%E8%8E%B7%E5%88%91)
   - [爱彼迎表示其60%的新代码现由AI编写](https://blog.upx8.com/%E7%88%B1%E5%BD%BC%E8%BF%8E%E8%A1%A8%E7%A4%BA%E5%85%B660-%E7%9A%84%E6%96%B0%E4%BB%A3%E7%A0%81%E7%8E%B0%E7%94%B1AI%E7%BC%96%E5%86%99)
   - [美国制裁十名个人和公司 部分来自中国](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E5%8D%81%E5%90%8D%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%85%AC%E5%8F%B8-%E9%83%A8%E5%88%86%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD)
