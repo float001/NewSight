@@ -6,10 +6,12 @@
   - [DeepSeek-v4-pro 在 coding 的体验里至少有世界 T1 的水准[2026-05]](https://2libra.com/post/ai-programming/aYThyKI)
   - [OpenAI 推出 Codex for Chrome 扩展程序](https://2libra.com/post/ai-programming/IKSWIza)
   - [【💰】最上面的按钮两边和为一的两个百分比是什么啊](https://2libra.com/post/forum-function/Z41zGyG)
+  - [一个技巧仅用 15 美元拿下 4 字符 ENS 域名](https://2libra.com/post/cryptocurrency/eZoss5O)
   - [人的想法真是多变](https://2libra.com/post/office-life/uKISB0J)
   - [分享刘慈欣短篇小说《山》解说视频：地核人十万年历程，教会你何为文明](https://2libra.com/post/good-books/eSvv0lU)
   - [刚刚发现，消费级存储类产品价格已经腰斩！这可太好了，现在要不要买？](https://2libra.com/post/computers-accessories/Byo-CqJ)
   - [发现一个好玩的网站](https://2libra.com/post/game-share/DVRwU0A)
+  - [各位老哥你的女朋友、老婆哪找的啊？](https://2libra.com/post/love/Hez6AOb)
   - [大半夜的 我的夜猫子勋章呢](https://2libra.com/post/forum-function/q3gBKa2)
   - [大家的使用哪个后缀作为自己的主力邮箱 📮 ？](https://2libra.com/post/interaction/HRBpOST)
   - [如何学会放手](https://2libra.com/post/parent-child/Lac4yuZ)
@@ -98,6 +100,7 @@
   - [Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)
   - [Show HN: CADara - I made an open-source in-browser CAD](https://cadara.app)
   - [Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests)
+  - [The FCC Wants Your ID Before You Get a Phone Number](https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number)
 - HackerNews
   - [NVIDIA 证实 GeForce NOW 发生数据泄露，亚美尼亚用户受影响](http://0.0.0.0:8080/post/64221)
   - [RansomHouse 黑客宣称入侵 Trellix 源代码](http://0.0.0.0:8080/post/64225)
@@ -127,6 +130,7 @@
 - Sploitus.com Exploits RSS Feed
   - [claude-skills-exploit exploit](https://sploitus.com/exploit?id=D868C4F1-FCB0-57AE-8C1E-C9983DF0F5B9&utm_source=rss&utm_medium=rss)
   - [CoreExploit-Final exploit](https://sploitus.com/exploit?id=BBAC3269-C823-5DA1-99AE-A53B264D3AD1&utm_source=rss&utm_medium=rss)
+  - [Docker-Privilege-Escalation exploit](https://sploitus.com/exploit?id=F51FF072-EBF9-58E5-AA68-B4C8F2B36289&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-37637 exploit](https://sploitus.com/exploit?id=4DD86603-D3C8-5F61-819D-AD2118ED5869&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=3F9ACC28-A0DC-5DE7-B52D-4CB5DB0EDABE&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=5B1FD096-A74A-557D-9C63-602DE92C0576&utm_source=rss&utm_medium=rss)
@@ -146,6 +150,7 @@
   - [Intel’s comeback story is even wilder than it seems](https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/)
   - [Laid-off Oracle workers tried to negotiate better severance. Oracle said no.](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/)
   - [Mother Ventures is looking at moms as the ‘economic engine’](https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/)
+  - [Nvidia has already committed $40B to equity AI deals this year](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/)
   - [Poland says hackers breached water treatment plants, and the US is facing the same threat](https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/)
   - [Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul](https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/)
   - [Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app](https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/)
@@ -155,6 +160,7 @@
 - The Decoder
   - [AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks](https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/)
   - [Broadcom reportedly won't build OpenAI's custom chip unless Microsoft buys 40 percent of them](https://the-decoder.com/broadcom-reportedly-wont-build-openais-custom-chip-unless-microsoft-buys-40-percent-of-them/)
+  - [Fields Medalist says ChatGPT 5.5 Pro delivered "PhD-level" math research in under two hours with zero human help](https://the-decoder.com/fields-medalist-says-chatgpt-5-5-pro-delivered-phd-level-math-research-in-under-two-hours-with-zero-human-help/)
   - [Google's "Preferred Sources" feature is a free pass for more garbage in search](https://the-decoder.com/googles-preferred-sources-feature-is-a-free-pass-for-more-garbage-in-search/)
   - [Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows](https://the-decoder.com/pseudoscientific-emotion-ai-is-invading-the-workplace-an-atlantic-report-shows/)
   - [SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations](https://the-decoder.com/softbank-reportedly-slashes-openai-backed-loan-from-10-billion-to-6-billion-as-lenders-balk-at-private-ai-valuations/)
@@ -166,6 +172,8 @@
   - [PlayStation sees AI as a ‘powerful tool’ to help make games](https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games)
   - [Teenage Engineering’s KO Sidekick is a mixer with fun performance effects](https://www.theverge.com/tech/926898/teenage-engineerings-ko-sidekick-is-a-mixer-with-fun-performance-effects)
   - [These great digital gifts will arrive just in time for Mother’s Day](https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026)
+- Threatninja.net
+  - [Hack The Box: Overwatch Machine Walkthrough- Medium Difficulity](https://threatninja.net/hack-the-box-overwatch-machine-walkthrough-medium-difficulity/)
 - VulDB Recent Entries
   - [CVE-2025-15633 | HCL BigFix WebUI Configuration authorization (KB0130587)](https://vuldb.com/vuln/362423)
   - [CVE-2026-29201 | WebPros cPanel/WP Squared feature::LOADFEATUREFILE path traversal](https://vuldb.com/vuln/362330)
@@ -623,6 +631,7 @@
   - [CVE-2026-8207](https://vulners.com/nvd/NVD:CVE-2026-8207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8208](https://vulners.com/nvd/NVD:CVE-2026-8208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8209](https://vulners.com/nvd/NVD:CVE-2026-8209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Docker-Privilege-Escalation](https://vulners.com/githubexploit/F51FF072-EBF9-58E5-AA68-B4C8F2B36289?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Classic Buffer Overflow in Gnu Inetutils](https://vulners.com/githubexploit/6CA58CC4-3CA7-5CC6-A317-6E6A00511F85?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-37637](https://vulners.com/githubexploit/4DD86603-D3C8-5F61-819D-AD2118ED5869?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-5718](https://vulners.com/githubexploit/4D9D3221-5643-54EA-A2F7-05C1DD8FFCC6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
