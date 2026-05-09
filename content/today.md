@@ -3,7 +3,12 @@
 - 2Libra
   - [刚刚发现，消费级存储类产品价格已经腰斩！这可太好了，现在要不要买？](https://2libra.com/post/computers-accessories/Byo-CqJ)
   - [大半夜的 我的夜猫子勋章呢](https://2libra.com/post/forum-function/q3gBKa2)
+  - [新版降低了图片上传的门槛以及一些问题优化](https://2libra.com/post/update-logs/70PcFlN)
   - [母亲节大家都送了啥](https://2libra.com/post/personal-life/j_zO_F7)
+- 36氪
+  - [9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉](https://36kr.com/p/3801348046151428?f=rss)
+  - [美股三大指数集体收盘涨，英特尔涨超13%](https://36kr.com/newsflashes/3801342492040709?f=rss)
+  - [英特尔与苹果据悉达成初步协议，将为后者设备制造芯片](https://36kr.com/newsflashes/3801360095289088?f=rss)
 - 404 Media
   - [University Claims Withholding Water From Nuclear Weapons Data Center Is 'Unlawfully Discriminatory' to Data Centers](https://www.404media.co/university-claims-withholding-water-from-nuclear-weapons-data-center-is-unlawfully-discriminatory-to-data-centers/)
 - Ars Technica
@@ -186,6 +191,7 @@
   - [CVE-2026-8195 | JeecgBoot up to 3.9.1 SVG File CommonController.java cross site scripting](https://vuldb.com/vuln/362347)
   - [CVE-2026-8196 | JeecgBoot 3.9.1 mLogin Endpoint LoginController.java authorization](https://vuldb.com/vuln/362348)
 - Vulners.com RSS Feed
+  - [@yoda.digital/gitlab-mcp-server's SSE transport has no authentication and wildcard CORS, exposing all 86 GitLab tools](https://vulners.com/github/GHSA-8JR5-6GVJ-RFPF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 44 Update: gnutls-3.8.13-1.fc44](https://vulners.com/fedora/FEDORA:847C170BC4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 44 Update: kernel-7.0.4-200.fc44](https://vulners.com/fedora/FEDORA:890106DC43?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 44 Update: nodejs22-22.22.2-3.fc44](https://vulners.com/fedora/FEDORA:8D36F6DC51?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -326,6 +332,7 @@
   - [CVE-2026-42452](https://vulners.com/nvd/NVD:CVE-2026-42452?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42453](https://vulners.com/nvd/NVD:CVE-2026-42453?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42454](https://vulners.com/nvd/NVD:CVE-2026-42454?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42455](https://vulners.com/nvd/NVD:CVE-2026-42455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42455 LinkWarden: Stored XSS via Client-Side Archive Upload (Unsanitized HTML served from same origin)](https://vulners.com/cve/CVE-2026-42455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42455 LinkWarden: Stored XSS via Client-Side Archive Upload (Unsanitized HTML served from same origin)](https://vulners.com/cvelist/CVELIST:CVE-2026-42455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42456](https://vulners.com/nvd/NVD:CVE-2026-42456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -345,6 +352,7 @@
   - [CVE-2026-44286](https://vulners.com/nvd/NVD:CVE-2026-44286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44286 FastGPT: SSRF Vulnerability in Laf Workflow Node via Missing Internal Address Validation](https://vulners.com/cve/CVE-2026-44286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44286 FastGPT: SSRF Vulnerability in Laf Workflow Node via Missing Internal Address Validation](https://vulners.com/cvelist/CVELIST:CVE-2026-44286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44313](https://vulners.com/nvd/NVD:CVE-2026-44313?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44313 LinkWarden: Server-Side Request Forgery (SSRF) in Link Creation via fetchTitleAndHeaders Function](https://vulners.com/cve/CVE-2026-44313?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44313 LinkWarden: Server-Side Request Forgery (SSRF) in Link Creation via fetchTitleAndHeaders Function](https://vulners.com/cvelist/CVELIST:CVE-2026-44313?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44400](https://vulners.com/nvd/NVD:CVE-2026-44400?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -356,6 +364,8 @@
   - [CVE-2026-44694](https://vulners.com/nvd/NVD:CVE-2026-44694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44694 n8n-MCP: Authenticated SSRF in n8n-mcp webhook and API client paths](https://vulners.com/cve/CVE-2026-44694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44694 n8n-MCP: Authenticated SSRF in n8n-mcp webhook and API client paths](https://vulners.com/cvelist/CVELIST:CVE-2026-44694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44895](https://vulners.com/cve/CVE-2026-44895?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44897](https://vulners.com/cve/CVE-2026-44897?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44987](https://vulners.com/nvd/NVD:CVE-2026-44987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45130](https://vulners.com/nvd/NVD:CVE-2026-45130?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6019 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-6019?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -390,6 +400,7 @@
   - [GHSA-FV85-JGQF-P95R vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-FV85-JGQF-P95R?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-VF5J-865M-MQ7C vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-VF5J-865M-MQ7C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [justhtml introduces denial-of-service hardening](https://vulners.com/github/GHSA-R8CJ-3554-33MR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Mistune Heading ID Attribute has Injection XSS](https://vulners.com/github/GHSA-V87V-83H2-53W7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [phpseclib guardrails needed on OID length](https://vulners.com/github/GHSA-F2QX-66WF-WVVX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: IBM MQ is affected by multiple vulnerabilities in the IBM Semeru Runtime Environment (CVE-2026-21945,CVE-2026-21932,CVE-2026-21933,CVE-2026-21925,CVE-2026-1188)](https://vulners.com/ibm/93F50DC45491CA02C6733D25AB9835A57B62CCC1F66870E643B47C14C26DA0E1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://vulners.com/thn/THN:62DCD344E5E0FE4CF19831BF91613306?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -398,7 +409,12 @@
   - [Tesla’s Latest Recall? Wheels May Fall Off Cybertrucks](https://www.wired.com/story/the-latest-tesla-recall-wheels-may-fall-off-cybertrucks/)
   - [The Pentagon Releases New Trove of Declassified UFO Files](https://www.wired.com/story/pentagon-drops-new-ufo-files/)
   - [Top Megelin Deals for Laser and LED Therapy Devices (2026)](https://www.wired.com/story/megelin-deals-2026/)
+- Zdziarski
+  - [Never Stop Learning](https://www.zdziarski.com/blog/?p=13883)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜小米增程SUV 曝光，但不叫YU9/苹果与英特尔达成初步芯片代工协议/Cloudflare用AI裁掉20%员工](https://www.ifanr.com/1665264?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [雷克萨斯新纯电 SUV TZ 亮相，比汉兰达更大，将于 27 年引入国内](https://www.ifanr.com/1665210?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [爱彼迎表示其60%的新代码现由AI编写](https://blog.upx8.com/%E7%88%B1%E5%BD%BC%E8%BF%8E%E8%A1%A8%E7%A4%BA%E5%85%B660-%E7%9A%84%E6%96%B0%E4%BB%A3%E7%A0%81%E7%8E%B0%E7%94%B1AI%E7%BC%96%E5%86%99)
