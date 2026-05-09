@@ -10,6 +10,7 @@
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Flexense Syncbreeze exploit](https://sploitus.com/exploit?id=31C34E1A-B2AB-592A-BB9B-596D710FC987&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Fintech startup Parker files for bankruptcy](https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/)
+  - [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
 - The Verge
   - [Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale)
 - VulDB Recent Entries
@@ -80,8 +81,10 @@
   - [CVE-2026-8194 osTicket Dispatcher class.dispatcher.php cross-site request forgery](https://vulners.com/cve/CVE-2026-8194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8194 osTicket Dispatcher class.dispatcher.php cross-site request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-8194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8195](https://vulners.com/nvd/NVD:CVE-2026-8195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8196](https://vulners.com/nvd/NVD:CVE-2026-8196?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8196 JeecgBoot mLogin Endpoint LoginController.java authorization](https://vulners.com/cve/CVE-2026-8196?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8196 JeecgBoot mLogin Endpoint LoginController.java authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-8196?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8210](https://vulners.com/nvd/NVD:CVE-2026-8210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [erebus](https://vulners.com/githubexploit/9A8AAEA3-0324-5DD5-8719-0F68634CC714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2020-1938](https://vulners.com/githubexploit/C89BF23F-DB0F-54AD-9860-4401770601DB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Input Validation in Postgresql](https://vulners.com/githubexploit/F271E10E-74F6-5C2A-953B-E052B8E053FC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
