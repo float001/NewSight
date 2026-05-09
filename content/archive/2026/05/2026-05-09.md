@@ -21,8 +21,11 @@
   - [Dunkin’母公司Inspire Brands秘密提交IPO申请](https://36kr.com/newsflashes/3801456077332226?f=rss)
   - [“北辰航天”完成数千万元天使轮融资](https://36kr.com/newsflashes/3801443958496773?f=rss)
   - [“星识科技”连续完成天使+轮和天使++轮融资，累计金额达数千万元](https://36kr.com/newsflashes/3801420917071366?f=rss)
+  - [东土科技等在湖北成立智能机器人产业发展公司，注册资本3.5亿](https://36kr.com/newsflashes/3801625136684804?f=rss)
+  - [中国家电网成立清洁电器“反虚假测评联盟”，京东与25家品牌率先加入](https://36kr.com/newsflashes/3801615411175168?f=rss)
   - [中国造船业一季度成绩单来了，新接订单快速增长](https://36kr.com/newsflashes/3801409181343234?f=rss)
   - [小雨智造完成数亿元B+轮融资](https://36kr.com/newsflashes/3801527399653121?f=rss)
+  - [广汽埃安否认被约谈及被立案调查](https://36kr.com/newsflashes/3801622709739272?f=rss)
   - [新三板梯度培育体系完善，挂牌企业踊跃筹备北交所IPO](https://36kr.com/newsflashes/3801400639462914?f=rss)
   - [海关总署：中国4月出口（以美元计价）同比增14.1%，进口增25.3%](https://36kr.com/newsflashes/3801467094867461?f=rss)
   - [海辰储能王鹏程：订单已排至2027年，供不应求](https://36kr.com/newsflashes/3801364235050497?f=rss)
@@ -549,6 +552,7 @@
 - Zdziarski
   - [Never Stop Learning](https://www.zdziarski.com/blog/?p=13883)
 - 不安全
+  - [Scammer alert!!!](https://buaq.net/go-415535.html)
   - [美国制裁十名个人和公司 部分来自中国](https://buaq.net/go-415514.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
