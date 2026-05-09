@@ -5,6 +5,7 @@
   - [Cloudflare 裁员超 1100 人 向 AI 运营模式转型](https://2libra.com/post/big-company-news/G6vkYqp)
   - [DeepSeek-v4-pro 在 coding 的体验里至少有世界 T1 的水准[2026-05]](https://2libra.com/post/ai-programming/aYThyKI)
   - [OpenAI 推出 Codex for Chrome 扩展程序](https://2libra.com/post/ai-programming/IKSWIza)
+  - [【💰】最上面的按钮两边和为一的两个百分比是什么啊](https://2libra.com/post/forum-function/Z41zGyG)
   - [人的想法真是多变](https://2libra.com/post/office-life/uKISB0J)
   - [分享刘慈欣短篇小说《山》解说视频：地核人十万年历程，教会你何为文明](https://2libra.com/post/good-books/eSvv0lU)
   - [刚刚发现，消费级存储类产品价格已经腰斩！这可太好了，现在要不要买？](https://2libra.com/post/computers-accessories/Byo-CqJ)
@@ -18,6 +19,7 @@
   - [母亲节大家都送了啥](https://2libra.com/post/personal-life/j_zO_F7)
   - [爆料称 DS 估值从 100 亿美元暴涨到 450 亿美元，拟融资 500 亿，其中梁文锋或自投 200 亿。](https://2libra.com/post/angel-investment/TFojw_4)
   - [突然反应过来，五角大楼披露 UFO 资料的事，2 站上没人提呢](https://2libra.com/post/tech-news/E8x0u4S)
+  - [苹果的质量现在这么差啊？ 买了个手表，有一边表带都卡不上](https://2libra.com/post/apple/uQm2ISW)
   - [计算机小白又来吹龙虾了，虽然祸也是它闯的](https://2libra.com/post/ai-tools/7e2Hyv0)
   - [这怎么又轮转了以前是 html2md 这两天刷 X 都在说 html 格式对 AI 更友好现在要 md2html 了吗](https://2libra.com/post/tech-rumination/jlMlrF7)
 - 36氪
@@ -68,6 +70,7 @@
   - [需求持续升温，AI芯片制造商Cerebras拟上调IPO价格区间](https://36kr.com/newsflashes/3801408298065416?f=rss)
   - [领汇e9正式上市](https://36kr.com/newsflashes/3801413854715395?f=rss)
 - 404 Media
+  - [Scientists Studied 906 Mafia Marriages and Found Something Surprising](https://www.404media.co/scientists-studied-906-mafia-marriages-and-found-something-surprising/)
   - [University Claims Withholding Water From Nuclear Weapons Data Center Is 'Unlawfully Discriminatory' to Data Centers](https://www.404media.co/university-claims-withholding-water-from-nuclear-weapons-data-center-is-unlawfully-discriminatory-to-data-centers/)
 - Ars Technica
   - [ABC refuses to capitulate to Trump admin, fights FCC probe into The View](https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows/)
@@ -108,6 +111,8 @@
   - [2026-05-08: macOS Shub Stealer infection](https://www.malware-traffic-analysis.net/2026/05/08/index.html)
 - MIT Technology Review
   - [Here’s what you need to know about the cruise ship hantavirus outbreak](https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/)
+- pluralistic.net
+  - [Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)](https://pluralistic.net/2026/05/09/cossie-livvie-crissie/)
 - Recent Commits to cve:main
   - [Update Sat May  9 11:46:19 UTC 2026](https://github.com/trickest/cve/commit/938a682a6f2d40a87549ef633042cc1102b3adaa)
 - Rob Zolkos
@@ -595,7 +600,10 @@
   - [CVE-2026-8185](https://vulners.com/nvd/NVD:CVE-2026-8185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8185 UGREEN CM933 Administrative missing authentication](https://vulners.com/cve/CVE-2026-8185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8185 UGREEN CM933 Administrative missing authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-8185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8186](https://vulners.com/nvd/NVD:CVE-2026-8186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8187](https://vulners.com/nvd/NVD:CVE-2026-8187?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8198 Activity Logs, User Activity Tracking, Multisite Activity Log from Logtivity <= 3.3.6 - Unauthenticated Information Disclosure via REST API](https://vulners.com/cve/CVE-2026-8198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8198 Activity Logs, User Activity Tracking, Multisite Activity Log from Logtivity <= 3.3.6 - Unauthenticated Information Disclosure via REST API](https://vulners.com/cvelist/CVELIST:CVE-2026-8198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8207](https://vulners.com/cvelist/CVELIST:CVE-2026-8207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8207](https://vulners.com/nvd/NVD:CVE-2026-8207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8208](https://vulners.com/nvd/NVD:CVE-2026-8208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -674,6 +682,8 @@
   - [美国制裁十名个人和公司 部分来自中国](https://buaq.net/go-415514.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [深入理解 Linux 虚拟内存：从 Swap 逻辑到 OOM 生存指南](https://dyrnq.com/linux-vm-virtual-memory/)
 - 爱范儿
   - [14.98 万元起！标配华为乾崑 ADS，华境 S 正式上市](https://www.ifanr.com/1665230?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [6 分 55 秒 553！保时捷超越小米重回纽北榜首，直言「热搜不是赛道，纽北才是」](https://www.ifanr.com/1665292?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -685,6 +695,7 @@
 - 绿盟科技技术博客
   - [党建共建凝合力，校企联动启新程 | 首都经济贸易大学赴绿盟科技开展联合主题党日活动](https://blog.nsfocus.net/%e5%85%9a%e5%bb%ba%e5%85%b1%e5%bb%ba%e5%87%9d%e5%90%88%e5%8a%9b%ef%bc%8c%e6%a0%a1%e4%bc%81%e8%81%94%e5%8a%a8%e5%90%af%e6%96%b0%e7%a8%8b-%e9%a6%96%e9%83%bd%e7%bb%8f%e6%b5%8e%e8%b4%b8%e6%98%93/)
 - 量子位 QbitAI
+  - [太初元碁携龙虾一体机亮相北京科博会](https://www.qbitai.com/2026/05/415027.html)
   - [梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月](https://www.qbitai.com/2026/05/414432.html)
   - [百度发布文心 5.1：搜索能力登顶国内，预训练成本仅为业界 6%](https://www.qbitai.com/2026/05/414496.html)
   - [空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛](https://www.qbitai.com/2026/05/414826.html)
