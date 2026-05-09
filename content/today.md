@@ -33,7 +33,9 @@
   - [东土科技等在湖北成立智能机器人产业发展公司，注册资本3.5亿](https://36kr.com/newsflashes/3801625136684804?f=rss)
   - [中国家电网成立清洁电器“反虚假测评联盟”，京东与25家品牌率先加入](https://36kr.com/newsflashes/3801615411175168?f=rss)
   - [中国造船业一季度成绩单来了，新接订单快速增长](https://36kr.com/newsflashes/3801409181343234?f=rss)
+  - [保时捷宣布精简三家子公司，重新聚焦核心业务](https://36kr.com/newsflashes/3801861826469636?f=rss)
   - [光帆带摄像头AI耳机本月开售](https://36kr.com/newsflashes/3801812857871876?f=rss)
+  - [员工人均奖金达610万人民币？SK海力士回应](https://36kr.com/newsflashes/3801860062191364?f=rss)
   - [商务部：全球经济亟需新增长动能，APEC贸易部长会议筹备展现各方务实合作态度](https://36kr.com/newsflashes/3801745822703112?f=rss)
   - [天虹元服务上线](https://36kr.com/newsflashes/3801816491237120?f=rss)
   - [字节跳动据悉计划将AI基础设施支出增加25%](https://36kr.com/newsflashes/3801787739282952?f=rss)
@@ -54,6 +56,7 @@
   - [美团闪购联合茅台、五粮液等品牌推出酒水即时零售月度专区](https://36kr.com/newsflashes/3801697390353922?f=rss)
   - [美国网络教育平台Canvas遭黑客攻击，服务已恢复](https://36kr.com/newsflashes/3801689828990722?f=rss)
   - [美股三大指数集体收盘涨，英特尔涨超13%](https://36kr.com/newsflashes/3801342492040709?f=rss)
+  - [美银：美股和黄金今年或将连续第四年录得两位数涨幅](https://36kr.com/newsflashes/3801828487421447?f=rss)
   - [英特尔与苹果据悉达成初步协议，将为后者设备制造芯片](https://36kr.com/newsflashes/3801360095289088?f=rss)
   - [荣耀在宁波成立新公司，注册资本100万](https://36kr.com/newsflashes/3801817110322697?f=rss)
   - [获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发](https://36kr.com/p/3797202414820359?f=rss)
@@ -67,6 +70,8 @@
 - Ars Technica
   - [ABC refuses to capitulate to Trump admin, fights FCC probe into The View](https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows/)
   - [Trump reportedly plans to fire FDA Commissioner Marty Makary](https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/)
+- Ben's Bites
+  - [Ben's Builds #3 - an email app](https://www.bensbites.com/p/bens-builds-3-an-email-app)
 - berthub.eu
   - [George Orwell's review of Russel's Power: A New Social Analysis](https://berthub.eu/articles/posts/orwell-review-bertrand-russells-power/)
 - CERT Recently Published Vulnerability Notes
@@ -90,8 +95,13 @@
 - HackerNews
   - [NVIDIA 证实 GeForce NOW 发生数据泄露，亚美尼亚用户受影响](http://0.0.0.0:8080/post/64221)
   - [RansomHouse 黑客宣称入侵 Trellix 源代码](http://0.0.0.0:8080/post/64225)
+- HackerNoon
+  - [Second Life of Hedon](https://hackernoon.com/second-life-of-hedon?source=rss)
 - IEEE Spectrum
   - [Ana Inês Inácio Designs the Future of Wireless](https://spectrum.ieee.org/ana-ines-inacio-wireless)
+- Kali Linux Tutorials
+  - [How to Install DEB Files on Ubuntu in 2026 (Step-by-Step Beginner Guide)](https://kalilinuxtutorials.com/how-to-install-deb-files-on-ubuntu/)
+  - [How to Install Java on Ubuntu 24.04 Easily in 2026](https://kalilinuxtutorials.com/install-java-ubuntu-24-04/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-05-08: macOS Shub Stealer infection](https://www.malware-traffic-analysis.net/2026/05/08/index.html)
 - MIT Technology Review
@@ -107,6 +117,7 @@
   - [Exploit for CVE-2026-37637 exploit](https://sploitus.com/exploit?id=4DD86603-D3C8-5F61-819D-AD2118ED5869&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=3F9ACC28-A0DC-5DE7-B52D-4CB5DB0EDABE&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=5B1FD096-A74A-557D-9C63-602DE92C0576&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=F288C8FD-F603-535C-B494-E2365303AE04&utm_source=rss&utm_medium=rss)
   - [Exploit for Observable Timing Discrepancy in Apache Http_Server exploit](https://sploitus.com/exploit?id=EA6ADD14-D80B-5DC2-9991-1F9663E2D09F&utm_source=rss&utm_medium=rss)
   - [Exploit for Operator Precedence Logic Error in Freebsd exploit](https://sploitus.com/exploit?id=1774132B-B2ED-5E86-9B6C-AD11D88B262F&utm_source=rss&utm_medium=rss)
   - [Exploit for Server-Side Request Forgery in Espocrm exploit](https://sploitus.com/exploit?id=09E05AEB-8FD1-5F5D-9057-0E54C77EA2A9&utm_source=rss&utm_medium=rss)
@@ -313,6 +324,8 @@
   - [CVE-2026-8219 | Devs Palace ERP Online up to 4.0.0 /inventory/supplier-save cross site scripting](https://vuldb.com/vuln/362436)
   - [CVE-2026-8220 | Devs Palace ERP Online up to 4.0.0 /inventory/customer-save cross site scripting](https://vuldb.com/vuln/362437)
   - [CVE-2026-8221 | Devs Palace ERP Online up to 4.0.0 /inventory/item-save cross site scripting](https://vuldb.com/vuln/362438)
+  - [CVE-2026-8232 | Dotouch XproUPF 2.0.0-release-088aa7c4 UPF Process libvlib.so vlib_worker_loop denial of service](https://vuldb.com/vuln/362449)
+  - [CVE-2026-8233 | Dotouch XproUPF 2.0.0-release-088aa7c4 PFCP Session access control](https://vuldb.com/vuln/362450)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Dirty Frag: Using the Page Caches as an Attack Surface](https://blog.qualys.com/category/vulnerabilities-threat-research)
 - Vulners.com RSS Feed
@@ -332,6 +345,7 @@
   - [CVE-2026-1642 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-1642?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-1749](https://vulners.com/cve/CVE-2026-1749?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-1749](https://vulners.com/cvelist/CVELIST:CVE-2026-1749?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-1749](https://vulners.com/nvd/NVD:CVE-2026-1749?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-29201](https://vulners.com/cvelist/CVELIST:CVE-2026-29201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-29201](https://vulners.com/nvd/NVD:CVE-2026-29201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-29202](https://vulners.com/cvelist/CVELIST:CVE-2026-29202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -344,6 +358,7 @@
   - [CVE-2026-31732 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-31732?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32683](https://vulners.com/cve/CVE-2026-32683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32683](https://vulners.com/cvelist/CVELIST:CVE-2026-32683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-32683](https://vulners.com/nvd/NVD:CVE-2026-32683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-33811 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-33811?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-33811 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-33811?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-33814 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-33814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -351,6 +366,7 @@
   - [CVE-2026-34354](https://vulners.com/nvd/NVD:CVE-2026-34354?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3828](https://vulners.com/cve/CVE-2026-3828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3828](https://vulners.com/cvelist/CVELIST:CVE-2026-3828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-3828](https://vulners.com/nvd/NVD:CVE-2026-3828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38360](https://vulners.com/nvd/NVD:CVE-2026-38360?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39817 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-39817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39817 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-39817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -574,6 +590,7 @@
   - [Exploit for CVE-2026-5718](https://vulners.com/githubexploit/4D9D3221-5643-54EA-A2F7-05C1DD8FFCC6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/3F9ACC28-A0DC-5DE7-B52D-4CB5DB0EDABE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/5B1FD096-A74A-557D-9C63-602DE92C0576?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/F288C8FD-F603-535C-B494-E2365303AE04?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Observable Timing Discrepancy in Apache Http_Server](https://vulners.com/githubexploit/EA6ADD14-D80B-5DC2-9991-1F9663E2D09F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Operator Precedence Logic Error in Freebsd](https://vulners.com/githubexploit/1774132B-B2ED-5E86-9B6C-AD11D88B262F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Server-Side Request Forgery in Espocrm](https://vulners.com/githubexploit/09E05AEB-8FD1-5F5D-9057-0E54C77EA2A9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -630,6 +647,7 @@
   - [Zebra v4.4.0 still accepts V5 SIGHASH_SINGLE without a corresponding output](https://vulners.com/github/GHSA-PVMV-CWG8-V6C8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Tesla’s Latest Recall? Wheels May Fall Off Cybertrucks](https://www.wired.com/story/the-latest-tesla-recall-wheels-may-fall-off-cybertrucks/)
+  - [The 19 Most Exciting Cars at the Beijing Auto Show 2026](https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/)
   - [The Pentagon Releases New Trove of Declassified UFO Files](https://www.wired.com/story/pentagon-drops-new-ufo-files/)
   - [Top Megelin Deals for Laser and LED Therapy Devices (2026)](https://www.wired.com/story/megelin-deals-2026/)
 - Zdziarski
@@ -648,9 +666,13 @@
   - [播放破亿的 AI 短片，名场面是一个「穿帮镜头」| 对话《纸手机》主创](https://www.ifanr.com/1661163?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜小米增程SUV 曝光，但不叫YU9/苹果与英特尔达成初步芯片代工协议/Cloudflare用AI裁掉20%员工](https://www.ifanr.com/1665264?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [雷克萨斯新纯电 SUV TZ 亮相，比汉兰达更大，将于 27 年引入国内](https://www.ifanr.com/1665210?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [党建共建凝合力，校企联动启新程 | 首都经济贸易大学赴绿盟科技开展联合主题党日活动](https://blog.nsfocus.net/%e5%85%9a%e5%bb%ba%e5%85%b1%e5%bb%ba%e5%87%9d%e5%90%88%e5%8a%9b%ef%bc%8c%e6%a0%a1%e4%bc%81%e8%81%94%e5%8a%a8%e5%90%af%e6%96%b0%e7%a8%8b-%e9%a6%96%e9%83%bd%e7%bb%8f%e6%b5%8e%e8%b4%b8%e6%98%93/)
 - 量子位 QbitAI
   - [梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月](https://www.qbitai.com/2026/05/414432.html)
   - [百度发布文心 5.1：搜索能力登顶国内，预训练成本仅为业界 6%](https://www.qbitai.com/2026/05/414496.html)
+  - [空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛](https://www.qbitai.com/2026/05/414826.html)
+  - [美图RoboNeo全新升级：首创影像创作Agent Teams](https://www.qbitai.com/2026/05/415010.html)
   - [谷歌「AI联合数学家」来了！刷新最难数学AI基准SOTA，牛津教授用它解开群论悬案](https://www.qbitai.com/2026/05/414788.html)
 - 黑海洋
   - [爱彼迎表示其60%的新代码现由AI编写](https://blog.upx8.com/%E7%88%B1%E5%BD%BC%E8%BF%8E%E8%A1%A8%E7%A4%BA%E5%85%B660-%E7%9A%84%E6%96%B0%E4%BB%A3%E7%A0%81%E7%8E%B0%E7%94%B1AI%E7%BC%96%E5%86%99)
