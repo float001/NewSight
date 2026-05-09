@@ -18,6 +18,7 @@
   - [爆料称 DS 估值从 100 亿美元暴涨到 450 亿美元，拟融资 500 亿，其中梁文锋或自投 200 亿。](https://2libra.com/post/angel-investment/TFojw_4)
   - [突然反应过来，五角大楼披露 UFO 资料的事，2 站上没人提呢](https://2libra.com/post/tech-news/E8x0u4S)
   - [计算机小白又来吹龙虾了，虽然祸也是它闯的](https://2libra.com/post/ai-tools/7e2Hyv0)
+  - [这怎么又轮转了以前是 html2md 这两天刷 X 都在说 html 格式对 AI 更友好现在要 md2html 了吗](https://2libra.com/post/tech-rumination/jlMlrF7)
 - 36氪
   - [2026年一季度国内黄金ETF增仓量为50.438吨，同比增长114.88%](https://36kr.com/newsflashes/3801447586340616?f=rss)
   - [36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一](https://36kr.com/p/3801398177324550?f=rss)
@@ -114,6 +115,7 @@
   - [Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [claude-skills-exploit exploit](https://sploitus.com/exploit?id=D868C4F1-FCB0-57AE-8C1E-C9983DF0F5B9&utm_source=rss&utm_medium=rss)
+  - [CoreExploit-Final exploit](https://sploitus.com/exploit?id=BBAC3269-C823-5DA1-99AE-A53B264D3AD1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-37637 exploit](https://sploitus.com/exploit?id=4DD86603-D3C8-5F61-819D-AD2118ED5869&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=3F9ACC28-A0DC-5DE7-B52D-4CB5DB0EDABE&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=5B1FD096-A74A-557D-9C63-602DE92C0576&utm_source=rss&utm_medium=rss)
@@ -139,6 +141,8 @@
   - [US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former employers](https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/)
 - The Decoder
   - [AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks](https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/)
+  - [Broadcom reportedly won't build OpenAI's custom chip unless Microsoft buys 40 percent of them](https://the-decoder.com/broadcom-reportedly-wont-build-openais-custom-chip-unless-microsoft-buys-40-percent-of-them/)
+  - [Google's "Preferred Sources" feature is a free pass for more garbage in search](https://the-decoder.com/googles-preferred-sources-feature-is-a-free-pass-for-more-garbage-in-search/)
   - [Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows](https://the-decoder.com/pseudoscientific-emotion-ai-is-invading-the-workplace-an-atlantic-report-shows/)
   - [SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations](https://the-decoder.com/softbank-reportedly-slashes-openai-backed-loan-from-10-billion-to-6-billion-as-lenders-balk-at-private-ai-valuations/)
 - The Verge
@@ -336,6 +340,7 @@
   - [[SECURITY] Fedora 44 Update: proftpd-1.3.9a-1.fc44](https://vulners.com/fedora/FEDORA:5871F7E838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 44 Update: SDL3_image-3.4.4-1.fc44](https://vulners.com/fedora/FEDORA:4533C6DC5F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [claude-skills-exploit](https://vulners.com/githubexploit/D868C4F1-FCB0-57AE-8C1E-C9983DF0F5B9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CoreExploit-Final](https://vulners.com/githubexploit/BBAC3269-C823-5DA1-99AE-A53B264D3AD1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now](https://vulners.com/thn/THN:CB24025D9FCFD497853B664863B2D0C1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-15633](https://vulners.com/nvd/NVD:CVE-2025-15633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-15634](https://vulners.com/nvd/NVD:CVE-2025-15634?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -582,6 +587,8 @@
   - [CVE-2026-7807 SmarterTools SmarterMail < Build 9560 Server Local File Inclusion via the /api/v1/report/summary/{type} API](https://vulners.com/cvelist/CVELIST:CVE-2026-7807?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8178](https://vulners.com/nvd/NVD:CVE-2026-8178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8178 Remote Code Execution via Unsafe Class Loading in Amazon Redshift JDBC Driver](https://vulners.com/cvelist/CVELIST:CVE-2026-8178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8185 UGREEN CM933 Administrative missing authentication](https://vulners.com/cve/CVE-2026-8185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8185 UGREEN CM933 Administrative missing authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-8185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8207](https://vulners.com/cvelist/CVELIST:CVE-2026-8207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8207](https://vulners.com/nvd/NVD:CVE-2026-8207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8208](https://vulners.com/nvd/NVD:CVE-2026-8208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -646,6 +653,8 @@
   - [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://vulners.com/thn/THN:62DCD344E5E0FE4CF19831BF91613306?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Zebra v4.4.0 still accepts V5 SIGHASH_SINGLE without a corresponding output](https://vulners.com/github/GHSA-PVMV-CWG8-V6C8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Best Live-Captioning Smart Glasses (2026), WIRED tested](https://www.wired.com/gallery/best-captioning-glasses/)
+  - [Hackable Robot Lawn Mower Unlocks a New Nightmare](https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/)
   - [Tesla’s Latest Recall? Wheels May Fall Off Cybertrucks](https://www.wired.com/story/the-latest-tesla-recall-wheels-may-fall-off-cybertrucks/)
   - [The 19 Most Exciting Cars at the Beijing Auto Show 2026](https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/)
   - [The Pentagon Releases New Trove of Declassified UFO Files](https://www.wired.com/story/pentagon-drops-new-ufo-files/)
@@ -674,6 +683,9 @@
   - [空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛](https://www.qbitai.com/2026/05/414826.html)
   - [美图RoboNeo全新升级：首创影像创作Agent Teams](https://www.qbitai.com/2026/05/415010.html)
   - [谷歌「AI联合数学家」来了！刷新最难数学AI基准SOTA，牛津教授用它解开群论悬案](https://www.qbitai.com/2026/05/414788.html)
+  - [阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一](https://www.qbitai.com/2026/05/415023.html)
+- 阿小信的博客
+  - [AI智能体政策落地！19个行业即将被重构，普通人在学习、职业、创业、投资上有哪些机会？](https://blog.axiaoxin.com/post/ai-agent-opportunities-china/)
 - 黑海洋
   - [爱彼迎表示其60%的新代码现由AI编写](https://blog.upx8.com/%E7%88%B1%E5%BD%BC%E8%BF%8E%E8%A1%A8%E7%A4%BA%E5%85%B660-%E7%9A%84%E6%96%B0%E4%BB%A3%E7%A0%81%E7%8E%B0%E7%94%B1AI%E7%BC%96%E5%86%99)
   - [美国制裁十名个人和公司 部分来自中国](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E5%8D%81%E5%90%8D%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%85%AC%E5%8F%B8-%E9%83%A8%E5%88%86%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD)
