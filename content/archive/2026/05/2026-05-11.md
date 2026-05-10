@@ -3,6 +3,8 @@
 - 2Libra
   - [夜猫子 我来了 2](https://2libra.com/post/slacking-off/BgFCNtY)
   - [打算买个电动车，价格有些离谱](https://2libra.com/post/worth-buying/qigmkEi)
+- 36氪
+  - [量子温度计可深入单细胞内测温](https://36kr.com/newsflashes/3804071095983879?f=rss)
 - Hacker News Frontpage
   - [GitHub Is Sinking](https://dbushell.com/2026/04/29/github-is-sinking/)
   - [I have seen the dystopian future of elderly care](https://www.telegraph.co.uk/world-news/2026/05/09/testing-the-japanese-airec-robot-for-elderly-care/)
@@ -53,6 +55,12 @@
   - [CVE-2026-45191 Net::CIDR::Lite versions before 0.24 for Perl does not properly consider extraneous zero characters in CIDR mask values, which may allow IP ACL bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-45191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7482 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-7482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8177](https://vulners.com/nvd/NVD:CVE-2026-8177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8248 Open5GS SMF npcf-handler.c update_authorized_pcc_rule_and_qos denial of service](https://vulners.com/cve/CVE-2026-8248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8248 Open5GS SMF npcf-handler.c update_authorized_pcc_rule_and_qos denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-8248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8249 Open5GS SMF npcf-handler.c update_authorized_pcc_rule_and_qos denial of service](https://vulners.com/cve/CVE-2026-8249?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8249 Open5GS SMF npcf-handler.c update_authorized_pcc_rule_and_qos denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-8249?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8250 Open5GS SMF n4-build.c smf_n4_build_qos_flow_to_modify_list denial of service](https://vulners.com/cve/CVE-2026-8250?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8250 Open5GS SMF n4-build.c smf_n4_build_qos_flow_to_modify_list denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-8250?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CyberThreat-Nlp-Intelligence-System](https://vulners.com/githubexploit/118BD7C3-9E08-5E20-B90F-402659FBF5F2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Apache Nifi](https://vulners.com/githubexploit/DF0B883F-133D-5A63-AD0F-67B232C975A5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-36980](https://vulners.com/githubexploit/FF8BA0EC-E718-5A22-8B44-BFC902342407?utm_source=rss&utm_medium=rss&utm_campaign=rss)
