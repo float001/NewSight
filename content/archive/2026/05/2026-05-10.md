@@ -9,6 +9,7 @@
   - [这个“好处不可能三角”：普通人、有好处、不排队，这三件事不可能同时发生。](https://2libra.com/post/social-observation/w0oBw_U)
 - 36氪
   - [2025年度全国秋粮收购超3.38亿吨](https://36kr.com/newsflashes/3803151259966977?f=rss)
+  - [2连板通鼎互联：海南康宁仅作为公司的光棒供应商 不存在其他合作模式](https://36kr.com/newsflashes/3803199588114181?f=rss)
   - [Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访](https://36kr.com/p/3802822550839047?f=rss)
   - [“海洋地质二十六号”完成海洋钻探关键装备海试 多项技术指标优于预期](https://36kr.com/newsflashes/3802961658683144?f=rss)
   - [一季度全国结婚登记169.7万对](https://36kr.com/newsflashes/3802857180339973?f=rss)
@@ -19,6 +20,8 @@
   - [中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息](https://36kr.com/newsflashes/3802793945718276?f=rss)
   - [伊朗为参加美加墨世界杯提多项要求](https://36kr.com/newsflashes/3802936786575105?f=rss)
   - [哈啰员工聚会把青桔和美团单车踩在脚下？官方回应：已展开内部调查，始终尊重行业伙伴](https://36kr.com/newsflashes/3802825421250311?f=rss)
+  - [复星医药：控股子公司药品新增适应症获欧盟批准](https://36kr.com/newsflashes/3803197347356417?f=rss)
+  - [宇环数控：不生产航空航天产品的零部件](https://36kr.com/newsflashes/3803198906392067?f=rss)
   - [我国中华白海豚种群数量总体保持稳定](https://36kr.com/newsflashes/3802939967593987?f=rss)
   - [我国经济增长动能澎湃](https://36kr.com/newsflashes/3802935832616709?f=rss)
   - [我国首条深水油气装备工艺管线智能生产线建设完成](https://36kr.com/newsflashes/3803075895631360?f=rss)
@@ -27,6 +30,7 @@
   - [新修订《婚姻登记条例》施行一年 全国建成户外颁证点1330个](https://36kr.com/newsflashes/3802796128624385?f=rss)
   - [沙特阿美：一季度销售额达4331亿沙特里亚尔。](https://36kr.com/newsflashes/3803070054456834?f=rss)
   - [沙特阿美：即便能源供应恢复 能源体系预计也需要较长时间才能回归常态](https://36kr.com/newsflashes/3803148430204676?f=rss)
+  - [泰坦股份：高端电子布喷气织机尚处于研发阶段 未形成任何销售收入](https://36kr.com/newsflashes/3803198288453384?f=rss)
   - [深圳一直播销售改装电动自行车“黑窝点”被端 12人被刑拘](https://36kr.com/newsflashes/3803077293924100?f=rss)
   - [港交所：前四个月IPO���资金额为1514亿港元 同比上升604%](https://36kr.com/newsflashes/3802791947017732?f=rss)
   - [特斯拉：最后一辆Model S和Model X已在弗里蒙特工厂下线](https://36kr.com/newsflashes/3802823310188292?f=rss)
@@ -39,6 +43,7 @@
 - Hacker News Frontpage
   - [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
   - [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
+  - [Rotten Dot Com](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
 - Sec-News 安全文摘
   - [php5.2.5-8.6通用bypass open_basedir](https://govuln.com/news/url/rmQd)
 - Sploitus.com Exploits RSS Feed
@@ -257,6 +262,9 @@
   - [CVE-2026-8235](https://vulners.com/nvd/NVD:CVE-2026-8235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8235 8421bit MiniClaw System kernel.ts resolveSkillScriptPath os command injection](https://vulners.com/cve/CVE-2026-8235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8235 8421bit MiniClaw System kernel.ts resolveSkillScriptPath os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-8235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8242 Industrial Application Software IAS Canias ERP Login RMI doAction response discrepancy](https://vulners.com/cve/CVE-2026-8242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8242 Industrial Application Software IAS Canias ERP Login RMI doAction response discrepancy](https://vulners.com/cvelist/CVELIST:CVE-2026-8242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8243 Industrial Application Software IAS Canias ERP JNLP Deployment Endpoint hard-coded key](https://vulners.com/cvelist/CVELIST:CVE-2026-8243?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Dark-Moon](https://vulners.com/githubexploit/DE8E257D-D2F1-54AA-A73A-B9AB62576CAF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [erebus](https://vulners.com/githubexploit/9A8AAEA3-0324-5DD5-8719-0F68634CC714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Binding to an Unrestricted IP Address in Openprinting Cups-Browsed](https://vulners.com/githubexploit/4F535E9A-3783-5F5C-871B-055018F8A5AB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -326,3 +334,4 @@
   - [deep-printfilm：把剧本、角色和关键帧串起来的 AI 漫剧工场](https://blog.upx8.com/deep-printfilm-AI)
   - [无人机失控坠落被列车撞击致63趟车晚点](https://blog.upx8.com/%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A4%B1%E6%8E%A7%E5%9D%A0%E8%90%BD%E8%A2%AB%E5%88%97%E8%BD%A6%E6%92%9E%E5%87%BB%E8%87%B463%E8%B6%9F%E8%BD%A6%E6%99%9A%E7%82%B9)
   - [美国接近与TikTok就侵犯儿童隐私达成和解](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%8E%A5%E8%BF%91%E4%B8%8ETikTok%E5%B0%B1%E4%BE%B5%E7%8A%AF%E5%84%BF%E7%AB%A5%E9%9A%90%E7%A7%81%E8%BE%BE%E6%88%90%E5%92%8C%E8%A7%A3)
+  - [谷歌reCAPTCHA验证码将直接拒绝非 Google Play 安卓手机，iOS用户得以豁免](https://blog.upx8.com/%E8%B0%B7%E6%AD%8CreCAPTCHA%E9%AA%8C%E8%AF%81%E7%A0%81%E5%B0%86%E7%9B%B4%E6%8E%A5%E6%8B%92%E7%BB%9D%E9%9D%9E-Google-Play-%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA-iOS%E7%94%A8%E6%88%B7%E5%BE%97%E4%BB%A5%E8%B1%81%E5%85%8D)
