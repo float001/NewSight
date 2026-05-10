@@ -7,6 +7,7 @@
   - [今日打开 2 站有点慢？](https://2libra.com/post/community/FC9KMBG)
   - [在这里吃亏多了，才发现凡事和你讲坏处，那肯定是有好处， 和你讲好处，那肯定是有坏处。](https://2libra.com/post/idea/qGiKJRk)
   - [有无兄弟带 MacBook 去直营店清过灰，要花钱吗](https://2libra.com/post/apple/e6wi_-o)
+  - [程序员副业怎么搞？](https://2libra.com/post/side-business/Lzpb5Tv)
   - [这个“好处不可能三角”：普通人、有好处、不排队，这三件事不可能同时发生。](https://2libra.com/post/social-observation/w0oBw_U)
 - 36氪
   - [2025年度全国秋粮收购超3.38亿吨](https://36kr.com/newsflashes/3803151259966977?f=rss)
@@ -46,8 +47,10 @@
 - daringfireball.net
   - [WorkOS](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026)
 - Hacker News Frontpage
+  - [Chindogu: Weird and Useless Japanese Inventions](https://rarehistoricalphotos.com/weird-japanese-inventions/)
   - [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
   - [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
+  - [Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'](https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer)
   - [Rotten Dot Com](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
   - [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
 - HackerNoon
@@ -58,6 +61,8 @@
   - [php5.2.5-8.6通用bypass open_basedir](https://govuln.com/news/url/rmQd)
 - shkspr.mobi
   - [[RSS Club] A Sneak Preview of Upcoming Posts](https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/)
+- simonwillison.net
+  - [Quoting Andrew Quinn](https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Dark-Moon exploit](https://sploitus.com/exploit?id=DE8E257D-D2F1-54AA-A73A-B9AB62576CAF&utm_source=rss&utm_medium=rss)
   - [erebus exploit](https://sploitus.com/exploit?id=9A8AAEA3-0324-5DD5-8719-0F68634CC714&utm_source=rss&utm_medium=rss)
@@ -87,6 +92,31 @@
   - [Netflix may have finally figured out games](https://www.theverge.com/column/926250/netflix-tv-games-strategy)
   - [Writers are fleeing the Substack Tax](https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv)
 - VulDB Recent Entries
+  - [CVE-2021-47941 | Modalsurvey Survey & Poll 1.5.7.3 on WordPress wp_sap sql injection (Exploit 50269 / EDB-50269)](https://vuldb.com/vuln/362523)
+  - [CVE-2021-47944 | memono Notepad 4.2 memory allocation (Exploit 49977 / EDB-49977)](https://vuldb.com/vuln/362524)
+  - [CVE-2021-47945 | Argus Surveillance DVR 4.0 DVRWatchdog Service unquoted search path (Exploit 50261 / EDB-50261)](https://vuldb.com/vuln/362542)
+  - [CVE-2021-47946 | OpenCart 3.0.3.6 Account Information /account/edit cross-site request forgery (Exploit 49407 / EDB-49407)](https://vuldb.com/vuln/362544)
+  - [CVE-2021-47948 | invoicing Payments Plugin GetPaid 2.4.6 on WordPress Help Text cross site scripting (Exploit 50246 / EDB-50246)](https://vuldb.com/vuln/362525)
+  - [CVE-2021-47949 | CyberPanel up to 2.1 fetchFolderDetails Endpoint /filemanager/controller completeStartingPath link following (Exploit 50230 / EDB-50230)](https://vuldb.com/vuln/362522)
+  - [CVE-2021-47951 | picture-gallery Picture Gallery 1.4.2 Edit Content URL cross site scripting (Exploit 50187 / EDB-50187)](https://vuldb.com/vuln/362526)
+  - [CVE-2021-47953 | OpenCart 3.0.3.7 Requests password/confirm cross-site request forgery (Exploit 49970 / EDB-49970)](https://vuldb.com/vuln/362533)
+  - [CVE-2022-50944 | MegaTKC Aero CMS 0.0.1 posts.php image code injection (Exploit 51085 / EDB-51085)](https://vuldb.com/vuln/362520)
+  - [CVE-2022-50945 | 3dady real-time web stats Plugin 1.0 on WordPress dady_input_text/dady2_input_text cross site scripting (Exploit 51021 / EDB-51021)](https://vuldb.com/vuln/362527)
+  - [CVE-2022-50946 | Netroics Blog Posts Grid Plugin 1.0 on WordPress post_title cross site scripting (Exploit 51008 / EDB-51008)](https://vuldb.com/vuln/362528)
+  - [CVE-2022-50947 | RadiusTheme Testimonial Slider and Showcase 2.2.6 on WordPress post_title cross site scripting (Exploit 51007 / EDB-51007)](https://vuldb.com/vuln/362529)
+  - [CVE-2022-50948 | Motopress Hotel Booking Lite 4.2.4 title/excerpt cross site scripting (Exploit 50951 / EDB-50951)](https://vuldb.com/vuln/362534)
+  - [CVE-2022-50949 | A-J-Evolution Videos Sync PDF 1.7.4 on WordPress nom/pdf/mp4/webm/ogg cross site scripting (Exploit 50874 / EDB-50874)](https://vuldb.com/vuln/362530)
+  - [CVE-2022-50957 | avatar_uploader 7.0-1.0-beta8 on Drupal avatar_uploader.pages.inc File cross site scripting (Exploit 50841 / EDB-50841)](https://vuldb.com/vuln/362521)
+  - [CVE-2022-50961 | IP2Location Country Blocker Plugin 2.26.7 on WordPress Frontend Settings Interface URL cross site scripting (Exploit 50709 / EDB-50709)](https://vuldb.com/vuln/362532)
+  - [CVE-2022-50962 | uBidAuction 2.0.1 orders/myOrders filter date_from/date_to/created_at cross site scripting (Exploit 50693 / EDB-50693)](https://vuldb.com/vuln/362531)
+  - [CVE-2022-50963 | uBidAuction 2.0.1 GET active filter date_created/date_from/date_to/created_at cross site scripting (Exploit 50693 / EDB-50693)](https://vuldb.com/vuln/362535)
+  - [CVE-2022-50964 | uBidAuction 2.0.1 GET loose filter date_created/date_from/date_to/created_at cross site scripting (Exploit 50693 / EDB-50693)](https://vuldb.com/vuln/362536)
+  - [CVE-2022-50965 | uBidAuction 2.0.1 GET filter date_created/date_from/date_to/created_at cross site scripting (Exploit 50693 / EDB-50693)](https://vuldb.com/vuln/362537)
+  - [CVE-2022-50966 | uBidAuction 2.0.1 GET news/manage filter date_created/date_from/date_to/created_at cross site scripting (Exploit 50693 / EDB-50693)](https://vuldb.com/vuln/362538)
+  - [CVE-2022-50967 | uBidAuction 2.0.1 GET tickets/manage filter date_created/date_from/date_to/created_at cross site scripting (Exploit 50693 / EDB-50693)](https://vuldb.com/vuln/362539)
+  - [CVE-2022-50968 | uBidAuction 2.0.1 GET auctions/manage filter date_created/date_from/date_to/created_at cross site scripting (Exploit 50693 / EDB-50693)](https://vuldb.com/vuln/362541)
+  - [CVE-2022-50969 | uBidAuction 2.0.1 GET manage filter date_created/date_from/date_to/created_at cross site scripting (Exploit 50693 / EDB-50693)](https://vuldb.com/vuln/362540)
+  - [CVE-2022-50970 | Getaawp AAWP Plugin 3.16 on WordPress Setting tab cross site scripting (Exploit 50643 / EDB-50643)](https://vuldb.com/vuln/362543)
   - [CVE-2026-41893 | SignalK signalk-server up to 2.24.x HTTP Login Endpoint /login app.securityStrategy.login excessive authentication (GHSA-vmfm-ch9h-5c7g)](https://vuldb.com/vuln/362463)
   - [CVE-2026-42245 | ruby net-imap up to 0.4.23/0.5.13/0.6.3 Net::IMAP algorithmic complexity (GHSA-q2mw-fvj9-vvcw)](https://vuldb.com/vuln/362470)
   - [CVE-2026-42246 | ruby net-imap up to 0.3.9/0.4.23/0.5.13/0.6.3 Net::IMAP error condition (GHSA-vcgp-9326-pqcp)](https://vuldb.com/vuln/362471)
