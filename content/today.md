@@ -65,6 +65,7 @@
   - [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
   - [Voice AI in India is hard. Wispr Flow is betting on it anyway.](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)
 - The Decoder
+  - [Anthropic and OpenAI sit down with religious leaders to seek ethical advice](https://the-decoder.com/anthropic-and-openai-sit-down-with-religious-leaders-to-seek-ethical-advice/)
   - [ByteDance plans over $30 billion for AI expansion, bets big on Chinese chips](https://the-decoder.com/bytedance-plans-over-30-billion-for-ai-expansion-bets-big-on-chinese-chips/)
   - [METR says it can barely measure Claude Mythos, Palo Alto Networks warns of autonomous AI attackers](https://the-decoder.com/metr-says-it-can-barely-measure-claude-mythos-palo-alto-networks-warns-of-autonomous-ai-attackers/)
   - [Researchers may have found a way to stop AI models from intentionally playing dumb during safety evaluations](https://the-decoder.com/researchers-may-have-found-a-way-to-stop-ai-models-from-intentionally-playing-dumb-during-safety-evaluations/)
@@ -274,6 +275,7 @@
   - [CVE-2026-8242 Industrial Application Software IAS Canias ERP Login RMI doAction response discrepancy](https://vulners.com/cvelist/CVELIST:CVE-2026-8242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8243](https://vulners.com/nvd/NVD:CVE-2026-8243?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8243 Industrial Application Software IAS Canias ERP JNLP Deployment Endpoint hard-coded key](https://vulners.com/cvelist/CVELIST:CVE-2026-8243?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8244](https://vulners.com/nvd/NVD:CVE-2026-8244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8244 Industrial Application Software IAS Canias ERP Login RMI improper authentication](https://vulners.com/cve/CVE-2026-8244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8244 Industrial Application Software IAS Canias ERP Login RMI improper authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-8244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Dark-Moon](https://vulners.com/githubexploit/DE8E257D-D2F1-54AA-A73A-B9AB62576CAF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -339,6 +341,8 @@
   - [pocxgen-agent](https://vulners.com/githubexploit/F29A449A-F0E1-5770-81FD-182516C34E23?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [SECURING-AGAINST-XSS](https://vulners.com/githubexploit/F3F47C1C-4437-58C6-9B3E-ED394118CE1B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Could Contact-Tracing Apps Help With the Hantavirus? Not Really](https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/)
+  - [Do City Delivery Drones Make Sense? No One Knows, but They're Flying Over NYC](https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/)
   - [How Handheld Translators Work and Why They’re Handy for Travel](https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/)
   - [‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe](https://www.wired.com/story/reservation-hijacks-scam-safety-tips/)
 - 不安全
