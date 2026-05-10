@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-05-11）
 
 - 2Libra
+  - [夜猫子 我来了 2](https://2libra.com/post/slacking-off/BgFCNtY)
   - [打算买个电动车，价格有些离谱](https://2libra.com/post/worth-buying/qigmkEi)
 - Hacker News Frontpage
   - [GitHub Is Sinking](https://dbushell.com/2026/04/29/github-is-sinking/)
@@ -18,11 +19,15 @@
 - Sploitus.com Exploits RSS Feed
   - [CyberThreat-Nlp-Intelligence-System exploit](https://sploitus.com/exploit?id=118BD7C3-9E08-5E20-B90F-402659FBF5F2&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Apache Nifi exploit](https://sploitus.com/exploit?id=DF0B883F-133D-5A63-AD0F-67B232C975A5&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-36981 exploit](https://sploitus.com/exploit?id=3E59E026-128F-5C36-B972-CC4EF0037F61&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-7458 exploit](https://sploitus.com/exploit?id=B445AB6D-0973-5F74-A242-001A9B645477&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Google Android exploit](https://sploitus.com/exploit?id=CCC89F26-7406-593F-AF66-EA9989B2670F&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/)
   - [Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/)
 - The Verge
   - [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review)
+  - [The Bastl Kalimba is a wild synth that thinks it’s a thumb piano](https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano)
 - VulDB Recent Entries
   - [CVE-2026-8275 | bettercap up to 2.41.5 zerogod IPP Service zerogod_ipp_primitives.go ippReadChunkedBody integer coercion (Issue 1263)](https://vuldb.com/vuln/362572)
   - [CVE-2026-8276 | bettercap up to 2.41.5 MySQL Server mysql_server.go integer coercion (Issue 1265)](https://vuldb.com/vuln/362573)
@@ -30,11 +35,19 @@
   - [CVE-2026-43868 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-43868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44662 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-44662?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44662 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-44662?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45179](https://vulners.com/nvd/NVD:CVE-2026-45179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45179 Plack::Middleware::Statsd versions before 0.9.0 for Perl may leak user IP addresses](https://vulners.com/cve/CVE-2026-45179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45179 Plack::Middleware::Statsd versions before 0.9.0 for Perl may leak user IP addresses](https://vulners.com/cvelist/CVELIST:CVE-2026-45179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45190 Net::CIDR::Lite versions before 0.24 for Perl does not properly validate IP address and CIDR mask inputs, which may allow IP ACL bypass](https://vulners.com/cve/CVE-2026-45190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45190 Net::CIDR::Lite versions before 0.24 for Perl does not properly validate IP address and CIDR mask inputs, which may allow IP ACL bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-45190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45191 Net::CIDR::Lite versions before 0.24 for Perl does not properly consider extraneous zero characters in CIDR mask values, which may allow IP ACL bypass](https://vulners.com/cve/CVE-2026-45191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45191 Net::CIDR::Lite versions before 0.24 for Perl does not properly consider extraneous zero characters in CIDR mask values, which may allow IP ACL bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-45191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7482 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-7482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CyberThreat-Nlp-Intelligence-System](https://vulners.com/githubexploit/118BD7C3-9E08-5E20-B90F-402659FBF5F2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Apache Nifi](https://vulners.com/githubexploit/DF0B883F-133D-5A63-AD0F-67B232C975A5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-36980](https://vulners.com/githubexploit/FF8BA0EC-E718-5A22-8B44-BFC902342407?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-36981](https://vulners.com/githubexploit/3E59E026-128F-5C36-B972-CC4EF0037F61?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-7458](https://vulners.com/githubexploit/B445AB6D-0973-5F74-A242-001A9B645477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Google Android](https://vulners.com/githubexploit/CCC89F26-7406-593F-AF66-EA9989B2670F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2F9F-GQ7V-9H6M vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-2F9F-GQ7V-9H6M?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-X8QC-FGGM-MPQG vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-X8QC-FGGM-MPQG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
