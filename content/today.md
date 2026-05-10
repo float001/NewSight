@@ -40,18 +40,26 @@
   - [英伟达全面布局AI生态 股权投资今年已超400亿美元](https://36kr.com/newsflashes/3802794581991168?f=rss)
   - [融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发](https://36kr.com/p/3801745491943169?f=rss)
   - [韩国产业部长与美方官员洽谈投资协议](https://36kr.com/newsflashes/3802942486060801?f=rss)
+- Ars Technica
+  - [Do you take after your dad’s RNA?](https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/)
 - Hacker News Frontpage
   - [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
   - [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
   - [Rotten Dot Com](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
+  - [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
 - HackerNoon
   - [A Block Editor Is Not Just a Text Field](https://hackernoon.com/a-block-editor-is-not-just-a-text-field?source=rss)
+- Recent Commits to cve:main
+  - [Update Sun May 10 11:42:54 UTC 2026](https://github.com/trickest/cve/commit/a325fd00334ce8bf64a73a0a9377b461349aedec)
 - Sec-News 安全文摘
   - [php5.2.5-8.6通用bypass open_basedir](https://govuln.com/news/url/rmQd)
+- shkspr.mobi
+  - [[RSS Club] A Sneak Preview of Upcoming Posts](https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/)
 - Sploitus.com Exploits RSS Feed
   - [Dark-Moon exploit](https://sploitus.com/exploit?id=DE8E257D-D2F1-54AA-A73A-B9AB62576CAF&utm_source=rss&utm_medium=rss)
   - [erebus exploit](https://sploitus.com/exploit?id=9A8AAEA3-0324-5DD5-8719-0F68634CC714&utm_source=rss&utm_medium=rss)
   - [Exploit for Binding to an Unrestricted IP Address in Openprinting Cups-Browsed exploit](https://sploitus.com/exploit?id=4F535E9A-3783-5F5C-871B-055018F8A5AB&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-1094 exploit](https://sploitus.com/exploit?id=FC1D41BA-69D2-5303-B8A5-BD03641263C8&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-4396 exploit](https://sploitus.com/exploit?id=C787EFDE-5F49-5A43-9493-BD0BD9DC5EB2&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Postgresql exploit](https://sploitus.com/exploit?id=F271E10E-74F6-5C2A-953B-E052B8E053FC&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Flexense Syncbreeze exploit](https://sploitus.com/exploit?id=31C34E1A-B2AB-592A-BB9B-596D710FC987&utm_source=rss&utm_medium=rss)
@@ -65,12 +73,14 @@
   - [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
   - [Voice AI in India is hard. Wispr Flow is betting on it anyway.](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)
 - The Decoder
+  - [AI agents that hack computers and replicate themselves, and they're getting better fast](https://the-decoder.com/ai-agents-that-hack-computers-and-replicate-themselves-and-theyre-getting-better-fast/)
   - [Anthropic and OpenAI sit down with religious leaders to seek ethical advice](https://the-decoder.com/anthropic-and-openai-sit-down-with-religious-leaders-to-seek-ethical-advice/)
   - [ByteDance plans over $30 billion for AI expansion, bets big on Chinese chips](https://the-decoder.com/bytedance-plans-over-30-billion-for-ai-expansion-bets-big-on-chinese-chips/)
   - [METR says it can barely measure Claude Mythos, Palo Alto Networks warns of autonomous AI attackers](https://the-decoder.com/metr-says-it-can-barely-measure-claude-mythos-palo-alto-networks-warns-of-autonomous-ai-attackers/)
   - [Researchers may have found a way to stop AI models from intentionally playing dumb during safety evaluations](https://the-decoder.com/researchers-may-have-found-a-way-to-stop-ai-models-from-intentionally-playing-dumb-during-safety-evaluations/)
 - The Verge
   - [Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale)
+  - [Netflix may have finally figured out games](https://www.theverge.com/column/926250/netflix-tv-games-strategy)
 - VulDB Recent Entries
   - [CVE-2026-41893 | SignalK signalk-server up to 2.24.x HTTP Login Endpoint /login app.securityStrategy.login excessive authentication (GHSA-vmfm-ch9h-5c7g)](https://vuldb.com/vuln/362463)
   - [CVE-2026-42245 | ruby net-imap up to 0.4.23/0.5.13/0.6.3 Net::IMAP algorithmic complexity (GHSA-q2mw-fvj9-vvcw)](https://vuldb.com/vuln/362470)
@@ -282,6 +292,7 @@
   - [erebus](https://vulners.com/githubexploit/9A8AAEA3-0324-5DD5-8719-0F68634CC714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Binding to an Unrestricted IP Address in Openprinting Cups-Browsed](https://vulners.com/githubexploit/4F535E9A-3783-5F5C-871B-055018F8A5AB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2020-1938](https://vulners.com/githubexploit/C89BF23F-DB0F-54AD-9860-4401770601DB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2025-1094](https://vulners.com/githubexploit/FC1D41BA-69D2-5303-B8A5-BD03641263C8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-4396](https://vulners.com/githubexploit/C787EFDE-5F49-5A43-9493-BD0BD9DC5EB2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Input Validation in Postgresql](https://vulners.com/githubexploit/F271E10E-74F6-5C2A-953B-E052B8E053FC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Flexense Syncbreeze](https://vulners.com/githubexploit/31C34E1A-B2AB-592A-BB9B-596D710FC987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
