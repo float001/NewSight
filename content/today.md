@@ -1,4 +1,19 @@
 # 今日安全资讯（2026-05-11）
 
+- 2Libra
+  - [打算买个电动车，价格有些离谱](https://2libra.com/post/worth-buying/qigmkEi)
+- Hacker News Frontpage
+  - [GitHub Is Sinking](https://dbushell.com/2026/04/29/github-is-sinking/)
+  - [I have seen the dystopian future of elderly care](https://www.telegraph.co.uk/world-news/2026/05/09/testing-the-japanese-airec-robot-for-elderly-care/)
+  - [Remind HN: Today is Mother's Day, call your moms](https://news.ycombinator.com/item?id=48085384)
+- Sploitus.com Exploits RSS Feed
+  - [CyberThreat-Nlp-Intelligence-System exploit](https://sploitus.com/exploit?id=118BD7C3-9E08-5E20-B90F-402659FBF5F2&utm_source=rss&utm_medium=rss)
+- The Verge
+  - [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review)
+- VulDB Recent Entries
+  - [CVE-2026-8275 | bettercap up to 2.41.5 zerogod IPP Service zerogod_ipp_primitives.go ippReadChunkedBody integer coercion (Issue 1263)](https://vuldb.com/vuln/362572)
+  - [CVE-2026-8276 | bettercap up to 2.41.5 MySQL Server mysql_server.go integer coercion (Issue 1265)](https://vuldb.com/vuln/362573)
+- Vulners.com RSS Feed
+  - [CyberThreat-Nlp-Intelligence-System](https://vulners.com/githubexploit/118BD7C3-9E08-5E20-B90F-402659FBF5F2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
