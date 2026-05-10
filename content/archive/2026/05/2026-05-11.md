@@ -7,11 +7,17 @@
   - [I have seen the dystopian future of elderly care](https://www.telegraph.co.uk/world-news/2026/05/09/testing-the-japanese-airec-robot-for-elderly-care/)
   - [Remind HN: Today is Mother's Day, call your moms](https://news.ycombinator.com/item?id=48085384)
   - [Tracesofhumanity.org by Joanna Rutkowska](https://tracesofhumanity.org/hello-world/)
+- InfoSec Write-ups - Medium
+  - [Passkeys Aren’t Nearly as Effective as We Thought](https://infosecwriteups.com/passkeys-arent-nearly-as-effective-as-we-thought-54eed4eecf4a?source=rss----7b722bfd1b8d---4)
+  - [Solving “Copy Fail” CVE-2026–31431 Q/A Lab](https://infosecwriteups.com/solving-copy-fail-cve-2026-31431-q-a-lab-aa79db7328cc?source=rss----7b722bfd1b8d---4)
+  - [They Charged $10/Month for a $5 Server, a Free Script, and Three Years of Lies. Here’s the Proof.](https://infosecwriteups.com/they-charged-10-month-for-a-5-server-a-free-script-and-three-years-of-lies-heres-the-proof-b232637e4269?source=rss----7b722bfd1b8d---4)
+  - [You Don’t Need a 0-Day for RCE: A Real-World Kill Chain](https://infosecwriteups.com/you-dont-need-a-0-day-for-rce-a-real-world-kill-chain-e7ec690ba9a4?source=rss----7b722bfd1b8d---4)
 - johndcook.com
   - [Reverse engineering Mersenne Twister with Linear Algebra](https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/)
   - [The linear algebra of bit twiddling](https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/)
 - Sploitus.com Exploits RSS Feed
   - [CyberThreat-Nlp-Intelligence-System exploit](https://sploitus.com/exploit?id=118BD7C3-9E08-5E20-B90F-402659FBF5F2&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Apache Nifi exploit](https://sploitus.com/exploit?id=DF0B883F-133D-5A63-AD0F-67B232C975A5&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Google Android exploit](https://sploitus.com/exploit?id=CCC89F26-7406-593F-AF66-EA9989B2670F&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/)
@@ -21,7 +27,18 @@
   - [CVE-2026-8275 | bettercap up to 2.41.5 zerogod IPP Service zerogod_ipp_primitives.go ippReadChunkedBody integer coercion (Issue 1263)](https://vuldb.com/vuln/362572)
   - [CVE-2026-8276 | bettercap up to 2.41.5 MySQL Server mysql_server.go integer coercion (Issue 1265)](https://vuldb.com/vuln/362573)
 - Vulners.com RSS Feed
+  - [CVE-2026-43868 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-43868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44662 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-44662?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44662 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-44662?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45179 Plack::Middleware::Statsd versions before 0.9.0 for Perl may leak user IP addresses](https://vulners.com/cve/CVE-2026-45179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45179 Plack::Middleware::Statsd versions before 0.9.0 for Perl may leak user IP addresses](https://vulners.com/cvelist/CVELIST:CVE-2026-45179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7482 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-7482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CyberThreat-Nlp-Intelligence-System](https://vulners.com/githubexploit/118BD7C3-9E08-5E20-B90F-402659FBF5F2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Code Injection in Apache Nifi](https://vulners.com/githubexploit/DF0B883F-133D-5A63-AD0F-67B232C975A5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Google Android](https://vulners.com/githubexploit/CCC89F26-7406-593F-AF66-EA9989B2670F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-2F9F-GQ7V-9H6M vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-2F9F-GQ7V-9H6M?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-X8QC-FGGM-MPQG vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-X8QC-FGGM-MPQG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-XV59-967R-8726 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-XV59-967R-8726?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-XV59-967R-8726 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-XV59-967R-8726?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
