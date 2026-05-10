@@ -44,6 +44,8 @@
   - [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
   - [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
   - [Rotten Dot Com](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
+- HackerNoon
+  - [A Block Editor Is Not Just a Text Field](https://hackernoon.com/a-block-editor-is-not-just-a-text-field?source=rss)
 - Sec-News 安全文摘
   - [php5.2.5-8.6通用bypass open_basedir](https://govuln.com/news/url/rmQd)
 - Sploitus.com Exploits RSS Feed
@@ -56,11 +58,15 @@
   - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Sudo_Project Sudo exploit](https://sploitus.com/exploit?id=7912E4CE-1B89-5B74-AAB5-55E2E57CB882&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=09F12617-22FD-5577-ACF9-508C31663CCB&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Litellm exploit](https://sploitus.com/exploit?id=07B8B2D9-F4E3-5CBE-80A3-7287CAAD00E4&utm_source=rss&utm_medium=rss)
+  - [N4V3R41N-Suite exploit](https://sploitus.com/exploit?id=BBF25740-EA52-596E-9DE3-2BB1C0CD3C4B&utm_source=rss&utm_medium=rss)
+  - [pocxgen-agent exploit](https://sploitus.com/exploit?id=F29A449A-F0E1-5770-81FD-182516C34E23&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Fintech startup Parker files for bankruptcy](https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/)
   - [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
   - [Voice AI in India is hard. Wispr Flow is betting on it anyway.](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)
 - The Decoder
+  - [ByteDance plans over $30 billion for AI expansion, bets big on Chinese chips](https://the-decoder.com/bytedance-plans-over-30-billion-for-ai-expansion-bets-big-on-chinese-chips/)
+  - [METR says it can barely measure Claude Mythos, Palo Alto Networks warns of autonomous AI attackers](https://the-decoder.com/metr-says-it-can-barely-measure-claude-mythos-palo-alto-networks-warns-of-autonomous-ai-attackers/)
   - [Researchers may have found a way to stop AI models from intentionally playing dumb during safety evaluations](https://the-decoder.com/researchers-may-have-found-a-way-to-stop-ai-models-from-intentionally-playing-dumb-during-safety-evaluations/)
 - The Verge
   - [Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale)
@@ -262,9 +268,14 @@
   - [CVE-2026-8235](https://vulners.com/nvd/NVD:CVE-2026-8235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8235 8421bit MiniClaw System kernel.ts resolveSkillScriptPath os command injection](https://vulners.com/cve/CVE-2026-8235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8235 8421bit MiniClaw System kernel.ts resolveSkillScriptPath os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-8235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8241](https://vulners.com/nvd/NVD:CVE-2026-8241?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8242](https://vulners.com/nvd/NVD:CVE-2026-8242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8242 Industrial Application Software IAS Canias ERP Login RMI doAction response discrepancy](https://vulners.com/cve/CVE-2026-8242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8242 Industrial Application Software IAS Canias ERP Login RMI doAction response discrepancy](https://vulners.com/cvelist/CVELIST:CVE-2026-8242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8243](https://vulners.com/nvd/NVD:CVE-2026-8243?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8243 Industrial Application Software IAS Canias ERP JNLP Deployment Endpoint hard-coded key](https://vulners.com/cvelist/CVELIST:CVE-2026-8243?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8244 Industrial Application Software IAS Canias ERP Login RMI improper authentication](https://vulners.com/cve/CVE-2026-8244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8244 Industrial Application Software IAS Canias ERP Login RMI improper authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-8244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Dark-Moon](https://vulners.com/githubexploit/DE8E257D-D2F1-54AA-A73A-B9AB62576CAF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [erebus](https://vulners.com/githubexploit/9A8AAEA3-0324-5DD5-8719-0F68634CC714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Binding to an Unrestricted IP Address in Openprinting Cups-Browsed](https://vulners.com/githubexploit/4F535E9A-3783-5F5C-871B-055018F8A5AB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -324,10 +335,18 @@
   - [GHSA-W54W-GCFV-P884 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-W54W-GCFV-P884?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in bttcli (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-3401?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in python-bittensor-config-v2 (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-3402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [N4V3R41N-Suite](https://vulners.com/githubexploit/BBF25740-EA52-596E-9DE3-2BB1C0CD3C4B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [pocxgen-agent](https://vulners.com/githubexploit/F29A449A-F0E1-5770-81FD-182516C34E23?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [SECURING-AGAINST-XSS](https://vulners.com/githubexploit/F3F47C1C-4437-58C6-9B3E-ED394118CE1B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [How Handheld Translators Work and Why They’re Handy for Travel](https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/)
+  - [‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe](https://www.wired.com/story/reservation-hijacks-scam-safety-tips/)
 - 不安全
   - [Tor.link](https://buaq.net/go-415655.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [NVIDIA-SMI has failed because it couldn’t communicate with the NVIDIA driver. Make sure that the latest NVIDIA driver is installed and running.](https://dyrnq.com/nvidia-smi-has-failed-because-it-couldnt-communicate-with-the-nvidia-driver-make-sure-that-the-latest-nvidia-driver-is-installed-and-running/)
 - 爱范儿
   - [早报｜中汽协辟谣8家车企锁电被约谈/曝苹果正在研发全息iPhone/李想回应理想L9四年换代：汽车不是手机](https://www.ifanr.com/1665336?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
