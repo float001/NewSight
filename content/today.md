@@ -8,8 +8,12 @@
 - 36氪
   - [Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访](https://36kr.com/p/3802822550839047?f=rss)
   - [一季度全国结婚登记169.7万对](https://36kr.com/newsflashes/3802857180339973?f=rss)
+  - [世卫官员：建议对涉疫邮轮人员监测42天 公众风险仍然低](https://36kr.com/newsflashes/3802941586890497?f=rss)
   - [中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息](https://36kr.com/newsflashes/3802793945718276?f=rss)
+  - [伊朗为参加美加墨世界杯提多项要求](https://36kr.com/newsflashes/3802936786575105?f=rss)
   - [哈啰员工聚会把青桔和美团单车踩在脚下？官方回应：已展开内部调查，始终尊重行业伙伴](https://36kr.com/newsflashes/3802825421250311?f=rss)
+  - [我国中华白海豚种群数量总体保持稳定](https://36kr.com/newsflashes/3802939967593987?f=rss)
+  - [我国经济增长动能澎湃](https://36kr.com/newsflashes/3802935832616709?f=rss)
   - [报道：美国汽车贷款规模创下1.68万亿美元历史新高](https://36kr.com/newsflashes/3802870804209159?f=rss)
   - [新修订《婚姻登记条例》施行一年 全国建成户外颁证点1330个](https://36kr.com/newsflashes/3802796128624385?f=rss)
   - [港交所：前四个月IPO���资金额为1514亿港元 同比上升604%](https://36kr.com/newsflashes/3802791947017732?f=rss)
@@ -17,8 +21,10 @@
   - [老白干酒董事长主动“放弃连任”：任期已超10年，半个月前才宣布为董事候选人](https://36kr.com/newsflashes/3802826544324100?f=rss)
   - [英伟达全面布局AI生态 股权投资今年已超400亿美元](https://36kr.com/newsflashes/3802794581991168?f=rss)
   - [融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发](https://36kr.com/p/3801745491943169?f=rss)
+  - [韩国产业部长与美方官员洽谈投资协议](https://36kr.com/newsflashes/3802942486060801?f=rss)
 - Hacker News Frontpage
   - [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
+  - [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
 - Sec-News 安全文摘
   - [php5.2.5-8.6通用bypass open_basedir](https://govuln.com/news/url/rmQd)
 - Sploitus.com Exploits RSS Feed
@@ -39,6 +45,10 @@
   - [CVE-2026-8243 | Industrial Application Software IAS Canias ERP 8.03 JNLP Deployment Endpoint hard-coded key](https://vuldb.com/vuln/362459)
   - [CVE-2026-8244 | Industrial Application Software IAS Canias ERP 8.03 Login RMI Interface clientVersion improper authentication](https://vuldb.com/vuln/362460)
 - Vulners.com RSS Feed
+  - [[SECURITY] Fedora 42 Update: dotnet10.0-10.0.107-1.fc42](https://vulners.com/fedora/FEDORA:99076776C3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 42 Update: exim-4.99.2-1.fc42](https://vulners.com/fedora/FEDORA:3153A79386?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 42 Update: nextcloud-33.0.3-1.fc42](https://vulners.com/fedora/FEDORA:9A3F0776C3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 42 Update: prosody-13.0.5-1.fc42](https://vulners.com/fedora/FEDORA:261A67973E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41893](https://vulners.com/nvd/NVD:CVE-2026-41893?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42245](https://vulners.com/nvd/NVD:CVE-2026-42245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42245 net-imap: Quadratic complexity when reading response literals](https://vulners.com/cvelist/CVELIST:CVE-2026-42245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -143,6 +153,11 @@
   - [CVE-2026-8218 Devs Palace ERP Online purchase_return_save cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-8218?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8219](https://vulners.com/nvd/NVD:CVE-2026-8219?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8219 Devs Palace ERP Online supplier-save cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-8219?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8220](https://vulners.com/nvd/NVD:CVE-2026-8220?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8221](https://vulners.com/nvd/NVD:CVE-2026-8221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8222](https://vulners.com/nvd/NVD:CVE-2026-8222?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8223](https://vulners.com/nvd/NVD:CVE-2026-8223?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8224](https://vulners.com/nvd/NVD:CVE-2026-8224?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Dark-Moon](https://vulners.com/githubexploit/DE8E257D-D2F1-54AA-A73A-B9AB62576CAF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [erebus](https://vulners.com/githubexploit/9A8AAEA3-0324-5DD5-8719-0F68634CC714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2020-1938](https://vulners.com/githubexploit/C89BF23F-DB0F-54AD-9860-4401770601DB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -189,5 +204,6 @@
 - 爱范儿
   - [早报｜中汽协辟谣8家车企锁电被约谈/曝苹果正在研发全息iPhone/李想回应理想L9四年换代：汽车不是手机](https://www.ifanr.com/1665336?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [deep-printfilm：把剧本、角色和关键帧串起来的 AI 漫剧工场](https://blog.upx8.com/deep-printfilm-AI)
   - [无人机失控坠落被列车撞击致63趟车晚点](https://blog.upx8.com/%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A4%B1%E6%8E%A7%E5%9D%A0%E8%90%BD%E8%A2%AB%E5%88%97%E8%BD%A6%E6%92%9E%E5%87%BB%E8%87%B463%E8%B6%9F%E8%BD%A6%E6%99%9A%E7%82%B9)
   - [美国接近与TikTok就侵犯儿童隐私达成和解](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%8E%A5%E8%BF%91%E4%B8%8ETikTok%E5%B0%B1%E4%BE%B5%E7%8A%AF%E5%84%BF%E7%AB%A5%E9%9A%90%E7%A7%81%E8%BE%BE%E6%88%90%E5%92%8C%E8%A7%A3)
