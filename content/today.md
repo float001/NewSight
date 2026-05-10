@@ -9,9 +9,12 @@
   - [Tracesofhumanity.org by Joanna Rutkowska](https://tracesofhumanity.org/hello-world/)
 - johndcook.com
   - [Reverse engineering Mersenne Twister with Linear Algebra](https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/)
+  - [The linear algebra of bit twiddling](https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/)
 - Sploitus.com Exploits RSS Feed
   - [CyberThreat-Nlp-Intelligence-System exploit](https://sploitus.com/exploit?id=118BD7C3-9E08-5E20-B90F-402659FBF5F2&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Google Android exploit](https://sploitus.com/exploit?id=CCC89F26-7406-593F-AF66-EA9989B2670F&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/)
 - The Verge
   - [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review)
 - VulDB Recent Entries
