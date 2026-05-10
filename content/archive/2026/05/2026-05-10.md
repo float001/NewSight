@@ -122,6 +122,8 @@
   - [Malicious code in python-bittensor-config-v2 (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-3402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜中汽协辟谣8家车企锁电被约谈/曝苹果正在研发全息iPhone/李想回应理想L9四年换代：汽车不是手机](https://www.ifanr.com/1665336?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [无人机失控坠落被列车撞击致63趟车晚点](https://blog.upx8.com/%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A4%B1%E6%8E%A7%E5%9D%A0%E8%90%BD%E8%A2%AB%E5%88%97%E8%BD%A6%E6%92%9E%E5%87%BB%E8%87%B463%E8%B6%9F%E8%BD%A6%E6%99%9A%E7%82%B9)
   - [美国接近与TikTok就侵犯儿童隐私达成和解](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%8E%A5%E8%BF%91%E4%B8%8ETikTok%E5%B0%B1%E4%BE%B5%E7%8A%AF%E5%84%BF%E7%AB%A5%E9%9A%90%E7%A7%81%E8%BE%BE%E6%88%90%E5%92%8C%E8%A7%A3)
