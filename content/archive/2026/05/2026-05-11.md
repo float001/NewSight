@@ -6,8 +6,13 @@
 - Hacker News Frontpage
   - [GitHub Is Sinking](https://dbushell.com/2026/04/29/github-is-sinking/)
   - [I have seen the dystopian future of elderly care](https://www.telegraph.co.uk/world-news/2026/05/09/testing-the-japanese-airec-robot-for-elderly-care/)
+  - [Maryland citizens hit with $2B power grid upgrade for out-of-state AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
   - [Remind HN: Today is Mother's Day, call your moms](https://news.ycombinator.com/item?id=48085384)
   - [Tracesofhumanity.org by Joanna Rutkowska](https://tracesofhumanity.org/hello-world/)
+- HackerNoon
+  - [Better Search, Smaller Models: Why Retrieval Quality Beats Model Size](https://hackernoon.com/better-search-smaller-models-why-retrieval-quality-beats-model-size?source=rss)
+  - [Building a Production-Grade CI/CD Pipeline — Part 1: Setting Up From Scratch](https://hackernoon.com/building-a-production-grade-cicd-pipeline-part-1-setting-up-from-scratch?source=rss)
+  - [Imagine A Future Where Your AI Negotiates the Internet for You](https://hackernoon.com/imagine-a-future-where-your-ai-negotiates-the-internet-for-you?source=rss)
 - InfoSec Write-ups - Medium
   - [Passkeys Aren’t Nearly as Effective as We Thought](https://infosecwriteups.com/passkeys-arent-nearly-as-effective-as-we-thought-54eed4eecf4a?source=rss----7b722bfd1b8d---4)
   - [Solving “Copy Fail” CVE-2026–31431 Q/A Lab](https://infosecwriteups.com/solving-copy-fail-cve-2026-31431-q-a-lab-aa79db7328cc?source=rss----7b722bfd1b8d---4)
@@ -24,6 +29,7 @@
   - [Exploit for Use After Free in Google Android exploit](https://sploitus.com/exploit?id=CCC89F26-7406-593F-AF66-EA9989B2670F&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/)
+  - [Get ready for the whisper-filled office of the future](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/)
   - [Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/)
 - The Verge
   - [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review)
@@ -38,11 +44,15 @@
   - [CVE-2026-45179](https://vulners.com/nvd/NVD:CVE-2026-45179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45179 Plack::Middleware::Statsd versions before 0.9.0 for Perl may leak user IP addresses](https://vulners.com/cve/CVE-2026-45179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45179 Plack::Middleware::Statsd versions before 0.9.0 for Perl may leak user IP addresses](https://vulners.com/cvelist/CVELIST:CVE-2026-45179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45180](https://vulners.com/nvd/NVD:CVE-2026-45180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45190](https://vulners.com/nvd/NVD:CVE-2026-45190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45190 Net::CIDR::Lite versions before 0.24 for Perl does not properly validate IP address and CIDR mask inputs, which may allow IP ACL bypass](https://vulners.com/cve/CVE-2026-45190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45190 Net::CIDR::Lite versions before 0.24 for Perl does not properly validate IP address and CIDR mask inputs, which may allow IP ACL bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-45190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45191](https://vulners.com/nvd/NVD:CVE-2026-45191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45191 Net::CIDR::Lite versions before 0.24 for Perl does not properly consider extraneous zero characters in CIDR mask values, which may allow IP ACL bypass](https://vulners.com/cve/CVE-2026-45191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45191 Net::CIDR::Lite versions before 0.24 for Perl does not properly consider extraneous zero characters in CIDR mask values, which may allow IP ACL bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-45191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7482 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-7482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8177](https://vulners.com/nvd/NVD:CVE-2026-8177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CyberThreat-Nlp-Intelligence-System](https://vulners.com/githubexploit/118BD7C3-9E08-5E20-B90F-402659FBF5F2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Apache Nifi](https://vulners.com/githubexploit/DF0B883F-133D-5A63-AD0F-67B232C975A5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-36980](https://vulners.com/githubexploit/FF8BA0EC-E718-5A22-8B44-BFC902342407?utm_source=rss&utm_medium=rss&utm_campaign=rss)
