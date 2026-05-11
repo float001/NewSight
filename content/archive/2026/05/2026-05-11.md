@@ -202,6 +202,8 @@
   - [Your AI Use Is Breaking My Brain](https://www.404media.co/your-ai-use-is-breaking-my-brain/)
 - Cerbero Blog
   - [WASM Format & Decompiler Packages](https://blog.cerbero.io/wasm-format-decompiler-packages/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#937808: Casdoor contains Arbitrary File Write vulnerability](https://kb.cert.org/vuls/id/937808)
 - daniel.haxx.se
   - [Mythos finds a curl vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
 - ElcomSoft blog
@@ -210,11 +212,14 @@
   - [GitHub Is Sinking](https://dbushell.com/2026/04/29/github-is-sinking/)
   - [I have seen the dystopian future of elderly care](https://www.telegraph.co.uk/world-news/2026/05/09/testing-the-japanese-airec-robot-for-elderly-care/)
   - [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
+  - [ICE to Develop Own Smart Glasses to 'Supplement' Its Facial Recognition App](https://www.404media.co/ice-plans-to-develop-own-smart-glasses-to-supplement-its-facial-recognition-app/)
+  - [Killed by Apple](https://killedbyapple.theden.sh/)
   - [Make America AI Ready: Strengths, Weaknesses, and Recommendations](https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/)
   - [Maryland citizens hit with $2B power grid upgrade for out-of-state AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
   - [OP's script shuts down every single computer in the company](https://www.reddit.com/r/sysadmin/s/7kD2rPS6yV)
   - [Remind HN: Today is Mother's Day, call your moms](https://news.ycombinator.com/item?id=48085384)
   - [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
+  - [Software engineering may no longer be a lifetime career](https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/)
   - [Tracesofhumanity.org by Joanna Rutkowska](https://tracesofhumanity.org/hello-world/)
 - HackerNews
   - [Ivanti 修复 EPMM 产品中遭针对性攻击利用的零日漏洞](http://0.0.0.0:8080/post/64228)
@@ -237,6 +242,7 @@
   - [Fake Claude Code Page Pushes PowerShell Stealer at Devs](https://www.infosecurity-magazine.com/news/fake-claude-code-installer/)
   - [Hackers Observed Using AI to Develop Zero-Day for the First Time](https://www.infosecurity-magazine.com/news/hackers-using-ai-zero-day-first/)
   - [Police Shut Relaunched Crimenetwork Dark Web Marketplace](https://www.infosecurity-magazine.com/news/police-shut-crimenetwork-may-2025/)
+  - [Rushed Patches Follow Broken Embargo on New Linux Kernel Vulnerabilities](https://www.infosecurity-magazine.com/news/dirty-frag-linux-kernel/)
   - [US: FCC Relaxes Foreign-Made Router Ban to Allow for Security Updates](https://www.infosecurity-magazine.com/news/us-fcc-relaxes-foreign-router-ban/)
   - [Zara Data Breach Impacts Nearly 200,000 Customers](https://www.infosecurity-magazine.com/news/zara-data-breach-impacts-200000/)
 - joanwestenberg.com
@@ -264,6 +270,7 @@
   - [choreo-waf-poc exploit](https://sploitus.com/exploit?id=381D5D17-B033-5BF1-9D4B-86CB6311DBB7&utm_source=rss&utm_medium=rss)
   - [CyberThreat-Nlp-Intelligence-System exploit](https://sploitus.com/exploit?id=118BD7C3-9E08-5E20-B90F-402659FBF5F2&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Apache Nifi exploit](https://sploitus.com/exploit?id=DF0B883F-133D-5A63-AD0F-67B232C975A5&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-0740 exploit](https://sploitus.com/exploit?id=303400E1-7DED-528E-A7E1-0ABA353A5258&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-36981 exploit](https://sploitus.com/exploit?id=3E59E026-128F-5C36-B972-CC4EF0037F61&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-4257 exploit](https://sploitus.com/exploit?id=6F59B4FC-0A05-5D42-9802-9082B4C909E3&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-7458 exploit](https://sploitus.com/exploit?id=B445AB6D-0973-5F74-A242-001A9B645477&utm_source=rss&utm_medium=rss)
@@ -282,6 +289,7 @@
   - [Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost](https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/)
   - [Get ready for the whisper-filled office of the future](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/)
   - [Korea’s biggest manufacturers back Config, the TSMC of robot data](https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/)
+  - [NYT’s Wordle to become a TV game show](https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/)
   - [There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.](https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/)
   - [Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/)
   - [Venmo’s biggest makeover in years comes at a very interesting time](https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/)
@@ -295,6 +303,7 @@
   - [Discord adds a free Xbox Game Pass ‘starter edition’ for Nitro subscribers](https://www.theverge.com/news/927722/discord-xbox-game-pass-starter-edition-nitro-subscribers)
   - [Forza Horizon 6 has been leaked and cracked a week before its release](https://www.theverge.com/news/927704/forza-horizon-6-leak-cracked)
   - [Joanna Stern is not a robot, but she lived with them](https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation)
+  - [Matter and OpenADR team up to connect smart homes to the grid](https://www.theverge.com/tech/927756/matter-openadr-demand-response-smart-home-energy-management)
   - [The Bastl Kalimba is a wild synth that thinks it’s a thumb piano](https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano)
   - [TikTok is letting UK users pay to remove ads](https://www.theverge.com/tech/927761/tiktok-ad-free-paid-subscription-uk)
   - [Wordle is turning into a primetime TV game show on NBC](https://www.theverge.com/games/927536/wordle-game-show-nbc-savannah-guthrie-jimmy-fallon-new-york-times)
@@ -367,6 +376,7 @@
   - [CVE-2026-45191](https://vulners.com/nvd/NVD:CVE-2026-45191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45191 Net::CIDR::Lite versions before 0.24 for Perl does not properly consider extraneous zero characters in CIDR mask values, which may allow IP ACL bypass](https://vulners.com/cve/CVE-2026-45191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45191 Net::CIDR::Lite versions before 0.24 for Perl does not properly consider extraneous zero characters in CIDR mask values, which may allow IP ACL bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-45191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-4802](https://vulners.com/nvd/NVD:CVE-2026-4802?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5084](https://vulners.com/nvd/NVD:CVE-2026-5084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6433](https://vulners.com/nvd/NVD:CVE-2026-6433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6909](https://vulners.com/nvd/NVD:CVE-2026-6909?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -427,8 +437,11 @@
   - [CVE-2026-8288](https://vulners.com/nvd/NVD:CVE-2026-8288?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8288 Open5GS SMF gsm-handler.c denial of service](https://vulners.com/cve/CVE-2026-8288?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8288 Open5GS SMF gsm-handler.c denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-8288?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8289](https://vulners.com/nvd/NVD:CVE-2026-8289?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8290](https://vulners.com/nvd/NVD:CVE-2026-8290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CyberThreat-Nlp-Intelligence-System](https://vulners.com/githubexploit/118BD7C3-9E08-5E20-B90F-402659FBF5F2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Apache Nifi](https://vulners.com/githubexploit/DF0B883F-133D-5A63-AD0F-67B232C975A5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-0740](https://vulners.com/githubexploit/303400E1-7DED-528E-A7E1-0ABA353A5258?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-36980](https://vulners.com/githubexploit/FF8BA0EC-E718-5A22-8B44-BFC902342407?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-36981](https://vulners.com/githubexploit/3E59E026-128F-5C36-B972-CC4EF0037F61?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-4257](https://vulners.com/githubexploit/6F59B4FC-0A05-5D42-9802-9082B4C909E3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -499,6 +512,7 @@
   - [Keyboard Shortcuts I Learned From My Cat](https://www.wired.com/story/keyboard-shortcuts-i-learned-from-my-cat/)
   - [Papa Johns Is Getting Into Drone Delivery—but Not for Pizza](https://www.wired.com/story/papa-johns-is-getting-into-drone-delivery-but-its-not-flying-pizza/)
 - 不安全
+  - [Why we use CAPTCHAs, (Mon, May 11th)](https://buaq.net/go-415908.html)
   - [Windows 11资源管理器获得自适应大小显示 将自动显示KB/MB/GB等](https://buaq.net/go-415797.html)
   - [Yarbo responds to robot flaws that could mow down their owners](https://buaq.net/go-415892.html)
   - [免费下载工具JDownloader遭到黑客攻击 5.6~7日下载该工具的用户请立即查杀](https://buaq.net/go-415752.html)
@@ -531,6 +545,7 @@
   - [黄仁勋喊话毕业生：AI不会取代你，但善用AI的人会](https://www.qbitai.com/2026/05/415403.html)
 - 黑海洋
   - [Acrobat Pro DC 2026.001.21529绿色版](https://blog.upx8.com/Acrobat-Pro-DC-2026-001-21529)
+  - [Reddit开始阻止用户访问移动网站 强推App](https://blog.upx8.com/Reddit%E5%BC%80%E5%A7%8B%E9%98%BB%E6%AD%A2%E7%94%A8%E6%88%B7%E8%AE%BF%E9%97%AE%E7%A7%BB%E5%8A%A8%E7%BD%91%E7%AB%99-%E5%BC%BA%E6%8E%A8App)
   - [互联网档案馆和维基百科因AI热潮陷入困境](https://blog.upx8.com/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86%E5%92%8C%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%9B%A0AI%E7%83%AD%E6%BD%AE%E9%99%B7%E5%85%A5%E5%9B%B0%E5%A2%83)
   - [出版商寻求对“安娜的档案”索赔并封禁其域名](https://blog.upx8.com/%E5%87%BA%E7%89%88%E5%95%86%E5%AF%BB%E6%B1%82%E5%AF%B9-%E5%AE%89%E5%A8%9C%E7%9A%84%E6%A1%A3%E6%A1%88-%E7%B4%A2%E8%B5%94%E5%B9%B6%E5%B0%81%E7%A6%81%E5%85%B6%E5%9F%9F%E5%90%8D)
   - [华为套取开源开发者技术信息后转交低价外包开发](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E5%A5%97%E5%8F%96%E5%BC%80%E6%BA%90%E5%BC%80%E5%8F%91%E8%80%85%E6%8A%80%E6%9C%AF%E4%BF%A1%E6%81%AF%E5%90%8E%E8%BD%AC%E4%BA%A4%E4%BD%8E%E4%BB%B7%E5%A4%96%E5%8C%85%E5%BC%80%E5%8F%91)
