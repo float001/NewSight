@@ -25,6 +25,8 @@
   - [通勤轻便双肩电脑包有无推荐](https://2libra.com/post/worth-buying/miaROV6)
 - 36氪
   - [*ST仕净：被债权人申请预重整 法院已立案审查](https://36kr.com/newsflashes/3804765459160576?f=rss)
+  - [*ST正平：回复上交所监管工作函，称不存在故意损毁财务资料等情形](https://36kr.com/newsflashes/3804832137485825?f=rss)
+  - [*ST观典：收到股票终止上市决定，预计最后交易日期为6月8日](https://36kr.com/newsflashes/3804809867009796?f=rss)
   - [427家公司完成ESG“首考”，18家首次交卷的起点与台阶](https://36kr.com/newsflashes/3804114946694658?f=rss)
   - [5月11日人民币对美元中间价调升35个基点](https://36kr.com/newsflashes/3804206580309767?f=rss)
   - [5连板福达合金：主营业务未发生调整，整体经营态势稳定](https://36kr.com/newsflashes/3804675962248709?f=rss)
@@ -88,6 +90,7 @@
   - [北陆药业：获得碘佛醇注射液药品注册证书](https://36kr.com/newsflashes/3804597002411521?f=rss)
   - [千问与淘宝打通，正式上线AI购物](https://36kr.com/newsflashes/3804258045386505?f=rss)
   - [半日主力资金加仓电子、电力设备股，抛售交通运输股](https://36kr.com/newsflashes/3804353426578945?f=rss)
+  - [华东重机：签署15亿元海外智能化港口装卸设备合同](https://36kr.com/newsflashes/3804789796462344?f=rss)
   - [华健未来向港交所提交上市申请书](https://36kr.com/newsflashes/3804778920320518?f=rss)
   - [华泰证券A股策略：波段操作应对宏观事件密集期](https://36kr.com/newsflashes/3804140224339721?f=rss)
   - [厦门象屿：公开发行不超100亿元公司债券获证监会同意注册批复](https://36kr.com/newsflashes/3804607000862470?f=rss)
@@ -102,6 +105,10 @@
   - [天舟十号货运飞船与空间站组合体完成交会对接](https://36kr.com/newsflashes/3804449387175682?f=rss)
   - [天舟十号货运飞船发射任务取得圆满成功](https://36kr.com/newsflashes/3804164502560517?f=rss)
   - [天舟十号货运飞船瞄准今日8时13分发射](https://36kr.com/newsflashes/3804079424036616?f=rss)
+  - [央行：坚持以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度](https://36kr.com/newsflashes/3804812580003592?f=rss)
+  - [央行：展望未来，人工智能行业将为经济高质量发展注入更多动能](https://36kr.com/newsflashes/3804805665906435?f=rss)
+  - [央行：改革完善贷款市场报价利率（LPR），着重提高LPR报价质量](https://36kr.com/newsflashes/3804812003352066?f=rss)
+  - [央行：继续实施好适度宽松的货币政策，保持流动性充裕和社会融资条件相对宽松](https://36kr.com/newsflashes/3804805304049409?f=rss)
   - [奇瑞回应“进军日本市场”](https://36kr.com/newsflashes/3804533533875714?f=rss)
   - [宁德时代：控股股东向上海交通大学捐赠500万股股份完成过户](https://36kr.com/newsflashes/3804770055413248?f=rss)
   - [宝宝巴士旗下一公司减资90%](https://36kr.com/newsflashes/3804563932192515?f=rss)
@@ -125,7 +132,9 @@
   - [机构：随着市场进入早期商业化阶段，22%的欧洲电信运营商已参与D2D卫星业务](https://36kr.com/newsflashes/3804390761684482?f=rss)
   - [机构：预估2030年Micro LED CPO光收发模块产值达8.48亿美元](https://36kr.com/newsflashes/3804530302770691?f=rss)
   - [欧洲央行科赫尔：若通胀前景未见改善，将调整利率](https://36kr.com/newsflashes/3804643481673225?f=rss)
+  - [欧盟委员会对OpenAI开放新型ChatGPT模型访问权限表示欢迎](https://36kr.com/newsflashes/3804814505123331?f=rss)
   - [段建军任沃尔沃汽车大中华区新任总裁兼CEO](https://36kr.com/newsflashes/3804434485321217?f=rss)
+  - [氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会](https://36kr.com/p/3804795647729411?f=rss)
   - [江苏前沿聚新产业投资基金登记成立，出资额12亿](https://36kr.com/newsflashes/3804352532045569?f=rss)
   - [江苏有线：拟不超过9亿元购买常熟银行不超过3.5%股份](https://36kr.com/newsflashes/3804670282456581?f=rss)
   - [沃格光电：股价短期涨幅较大，玻璃基业务尚处早期阶段](https://36kr.com/newsflashes/3804780953787911?f=rss)
@@ -138,6 +147,7 @@
   - [浙江国金融资租赁公司增资至10.8亿，增幅约592%](https://36kr.com/newsflashes/3804306579676674?f=rss)
   - [消息称先进封测设备采购需求高涨，部分设备交期拉长至1年以上](https://36kr.com/newsflashes/3804432955809282?f=rss)
   - [深圳新星：募投项目“年产1.5万吨六氟磷酸锂建设项目三期”建设完成并投产](https://36kr.com/newsflashes/3804698511564291?f=rss)
+  - [清研环境：股票撤销退市风险警示，5月13日起复牌](https://36kr.com/newsflashes/3804786876276231?f=rss)
   - [港迪技术：股东嘉兴力鼎、松禾成长拟合计减持不超4.99%股份](https://36kr.com/newsflashes/3804684610772486?f=rss)
   - [特变电工电气装备集团增资至约74.5亿](https://36kr.com/newsflashes/3804272543162115?f=rss)
   - [现货黄金日内跌幅扩大至1%](https://36kr.com/newsflashes/3804468774166279?f=rss)
@@ -161,6 +171,7 @@
   - [营收确认规则是否存在调整可能？贵州茅台回应](https://36kr.com/newsflashes/3804670689435395?f=rss)
   - [蔚来申请注册NIOBOT商标](https://36kr.com/newsflashes/3804504194293256?f=rss)
   - [谷歌母公司Alphabet计划首次发行日元债券](https://36kr.com/newsflashes/3804270010851077?f=rss)
+  - [贵州茅台回应是否会再次提价](https://36kr.com/newsflashes/3804801911922435?f=rss)
   - [资源化利用市场升温，环保赛道跑出“绩优生”](https://36kr.com/newsflashes/3804096347119105?f=rss)
   - [进出口化妆品新规12月1日起施行](https://36kr.com/newsflashes/3804325743910663?f=rss)
   - [量子温度计可深入单细胞内测温](https://36kr.com/newsflashes/3804071095983879?f=rss)
@@ -175,6 +186,7 @@
   - [飞凯材料：公司半导体材料可用于PLP封装，但目前营收规模不大](https://36kr.com/newsflashes/3804576319806979?f=rss)
   - [香港政府拟提议首阶段发放至少1万个网约车牌照](https://36kr.com/newsflashes/3804153498427144?f=rss)
   - [香港证监会拟重组首席财务总监职位](https://36kr.com/newsflashes/3804157856685826?f=rss)
+  - [龙湖集团：前4个月总合同销售金额为103.5亿元](https://36kr.com/newsflashes/3804821907463685?f=rss)
 - Cerbero Blog
   - [WASM Format & Decompiler Packages](https://blog.cerbero.io/wasm-format-decompiler-packages/)
 - daniel.haxx.se
@@ -200,6 +212,8 @@
   - [Imagine A Future Where Your AI Negotiates the Internet for You](https://hackernoon.com/imagine-a-future-where-your-ai-negotiates-the-internet-for-you?source=rss)
   - [Meet your new L3 Support Engineer: The Player](https://hackernoon.com/meet-your-new-l3-support-engineer-the-player?source=rss)
   - [The Weightless Clubman](https://hackernoon.com/the-weightless-clubman?source=rss)
+- idiallo.com
+  - [We Are Not Going to Agree on AI](https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed)
 - InfoSec Write-ups - Medium
   - [Passkeys Aren’t Nearly as Effective as We Thought](https://infosecwriteups.com/passkeys-arent-nearly-as-effective-as-we-thought-54eed4eecf4a?source=rss----7b722bfd1b8d---4)
   - [Solving “Copy Fail” CVE-2026–31431 Q/A Lab](https://infosecwriteups.com/solving-copy-fail-cve-2026-31431-q-a-lab-aa79db7328cc?source=rss----7b722bfd1b8d---4)
@@ -219,6 +233,10 @@
   - [OpenAI Campus Network: Student club interest form](https://openai.com/index/openai-campus-network-student-club-interest-form)
 - pluralistic.net
   - [Pluralistic: 2024 (apart from the obvious) (11 May 2026)](https://pluralistic.net/2026/05/11/postmortem/)
+- Recent Commits to cve:main
+  - [Update Mon May 11 11:32:55 UTC 2026](https://github.com/trickest/cve/commit/0da009b0ef08bf3e0944ee62feb2c801d3539770)
+- shkspr.mobi
+  - [Find blog posts with missing featured images - and missing alt text - without a plugin](https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing-alt-text-without-a-plugin/)
 - simonwillison.net
   - [Quoting New York Times Editors’ Note](https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -244,6 +262,7 @@
   - [Get ready for the whisper-filled office of the future](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/)
   - [Korea’s biggest manufacturers back Config, the TSMC of robot data](https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/)
   - [Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/)
+  - [Venmo’s biggest makeover in years comes at a very interesting time](https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/)
 - The Decoder
   - [OpenAI's internal share sale minted roughly 75 multimillionaires who each cashed out the $30 million cap](https://the-decoder.com/openais-internal-share-sale-minted-roughly-75-multimillionaires-who-each-cashed-out-the-30-million-cap/)
 - The Verge
@@ -254,12 +273,17 @@
   - [Weekly Update 503](https://www.troyhunt.com/weekly-update-503/)
   - [Welcoming the Costa Rican Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/)
 - VulDB Recent Entries
+  - [CVE-2024-0391 | WSO2 Identity Server prior 7.0.0.131 response discrepancy](https://vuldb.com/vuln/362594)
+  - [CVE-2025-10470 | WSO2 Identity Server resource consumption](https://vuldb.com/vuln/362595)
+  - [CVE-2025-8325 | WSO2 API Control Plane Gateway API permissions](https://vuldb.com/vuln/362593)
   - [CVE-2026-1677 | zephyrproject-rtos Zephyr up to 4.3 ClientHello downgrade (GHSA-23r2-m5wx-4rvq / EUVD-2026-29033)](https://vuldb.com/vuln/362582)
   - [CVE-2026-45179 | RRWO Plack::Middleware::Statsd up to 0.8.x on Perl statsd cleartext transmission (GHSA-9gwm-665p-w2xx)](https://vuldb.com/vuln/362574)
   - [CVE-2026-45180 | RRWO Catalyst::Plugin::Statsd up to 0.10.0 on Perl statsd cleartext transmission (GHSA-gjvr-hq83-fc38)](https://vuldb.com/vuln/362575)
   - [CVE-2026-45190 | STIGTSP Net::CIDR::Lite up to 0.23 on Perl find/bin_find improper validation of unsafe equivalence in input](https://vuldb.com/vuln/362576)
   - [CVE-2026-45191 | STIGTSP Net::CIDR::Lite up to 0.23 on Perl improper validation of unsafe equivalence in input](https://vuldb.com/vuln/362577)
   - [CVE-2026-6433 | Custom css-js-php Plugin up to 2.0.7 on WordPress eval code injection (EUVD-2026-29034)](https://vuldb.com/vuln/362581)
+  - [CVE-2026-6909 | ATutor 2.2.4 URL /install/upgrade.php cross site scripting](https://vuldb.com/vuln/362591)
+  - [CVE-2026-6956 | ATutor 2.2.4 URL cross site scripting](https://vuldb.com/vuln/362592)
   - [CVE-2026-8177 | SHLOMIF XML::LibXML up to 2.0210 on Perl out-of-bounds (Issue 146)](https://vuldb.com/vuln/362578)
   - [CVE-2026-8275 | bettercap up to 2.41.5 zerogod IPP Service zerogod_ipp_primitives.go ippReadChunkedBody integer coercion (Issue 1263)](https://vuldb.com/vuln/362572)
   - [CVE-2026-8276 | bettercap up to 2.41.5 MySQL Server mysql_server.go integer coercion (Issue 1265)](https://vuldb.com/vuln/362573)
@@ -268,6 +292,7 @@
   - [CVE-2026-8290 | Open5GS up to 2.7.7 SMF /src/smf/nsmf-handler.c smf_nsmf_handle_update_data_in_vsmf denial of service (Issue 4454)](https://vuldb.com/vuln/362587)
   - [CVE-2026-8291 | Open5GS up to 2.7.7 NRF lib/sbi/nnrf-handler.c ogs_nnrf_nfm_handle_nf_profile denial of service (Issue 4456)](https://vuldb.com/vuln/362588)
   - [CVE-2026-8292 | Open5GS up to 2.7.7 NRF /lib/sbi/conv.c yuarel_parse hnrf-uri denial of service (Issue 4457)](https://vuldb.com/vuln/362589)
+  - [CVE-2026-8305 | OpenClaw up to 2026.1.24 bluebubbles Webhook monitor.ts handleBlueBubblesWebhookRequest improper authentication (Issue 13786)](https://vuldb.com/vuln/362590)
 - Vulners.com RSS Feed
   - [c2birtengine](https://vulners.com/githubexploit/E802680A-5034-5B55-AF57-FDCB66E4CAB6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [choreo-waf-poc](https://vulners.com/githubexploit/381D5D17-B033-5BF1-9D4B-86CB6311DBB7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -405,6 +430,7 @@
   - [github.com/sirupsen/logrus: github.com/sirupsen/logrus: Denial-of-Service due to large single-line payload](https://vulners.com/redhat/RHSA-2026:15941-CVE-2025-65637?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: nginx security update](https://vulners.com/redhat/RHSA-2026:15942?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: openssh security update](https://vulners.com/redhat/RHSA-2026:15893?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: Red Hat Ceph Storage](https://vulners.com/redhat/RHSA-2026:15979?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: thunderbird security update](https://vulners.com/redhat/RHSA-2026:15892?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MINI-XF68-VQ5J-P6XC](https://vulners.com/osv/OSV:MINI-XF68-VQ5J-P6XC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Moderate: Red Hat Security Advisory: oci-seccomp-bpf-hook security update](https://vulners.com/redhat/RHSA-2026:15940?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -416,15 +442,18 @@
   - [openssh: OpenSSH GSSAPI: Information disclosure or denial of service due to uninitialized variables](https://vulners.com/redhat/RHSA-2026:15893-CVE-2026-3497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [POC](https://vulners.com/githubexploit/B34E9F69-1D9D-58B4-B314-6A315EA7C35E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [strix-advanced](https://vulners.com/githubexploit/9F54131A-00B4-5351-A521-172F0A85FD53?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room](https://vulners.com/thn/THN:C999B276E295C3530E656239061E3CD2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Chevron Texas Power Plant Seeks School District Tax Break](https://www.wired.com/story/chevron-wants-school-district-tax-break-data-center-power-plant-texas/)
   - [CUDA Proves Nvidia Is a Software Company](https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/)
   - [I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI](https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/)
   - [Keyboard Shortcuts I Learned From My Cat](https://www.wired.com/story/keyboard-shortcuts-i-learned-from-my-cat/)
+  - [Papa Johns Is Getting Into Drone Delivery—but Not for Pizza](https://www.wired.com/story/papa-johns-is-getting-into-drone-delivery-but-its-not-flying-pizza/)
 - 不安全
   - [Windows 11资源管理器获得自适应大小显示 将自动显示KB/MB/GB等](https://buaq.net/go-415797.html)
   - [免费下载工具JDownloader遭到黑客攻击 5.6~7日下载该工具的用户请立即查杀](https://buaq.net/go-415752.html)
   - [出版商寻求对“安娜的档案”索赔并封禁其域名](https://buaq.net/go-415823.html)
+  - [华为套取开源开发者技术信息后转交低价外包开发](https://buaq.net/go-415872.html)
   - [微软反驳通过CPU瞬时超频提升Win11响应速度是懒惰做法 称苹果也这么做](https://buaq.net/go-415753.html)
   - [针对wasm反CFF的尝试](https://buaq.net/go-415821.html)
 - 代码审计星球
@@ -452,5 +481,6 @@
   - [Acrobat Pro DC 2026.001.21529绿色版](https://blog.upx8.com/Acrobat-Pro-DC-2026-001-21529)
   - [互联网档案馆和维基百科因AI热潮陷入困境](https://blog.upx8.com/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86%E5%92%8C%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%9B%A0AI%E7%83%AD%E6%BD%AE%E9%99%B7%E5%85%A5%E5%9B%B0%E5%A2%83)
   - [出版商寻求对“安娜的档案”索赔并封禁其域名](https://blog.upx8.com/%E5%87%BA%E7%89%88%E5%95%86%E5%AF%BB%E6%B1%82%E5%AF%B9-%E5%AE%89%E5%A8%9C%E7%9A%84%E6%A1%A3%E6%A1%88-%E7%B4%A2%E8%B5%94%E5%B9%B6%E5%B0%81%E7%A6%81%E5%85%B6%E5%9F%9F%E5%90%8D)
+  - [华为套取开源开发者技术信息后转交低价外包开发](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E5%A5%97%E5%8F%96%E5%BC%80%E6%BA%90%E5%BC%80%E5%8F%91%E8%80%85%E6%8A%80%E6%9C%AF%E4%BF%A1%E6%81%AF%E5%90%8E%E8%BD%AC%E4%BA%A4%E4%BD%8E%E4%BB%B7%E5%A4%96%E5%8C%85%E5%BC%80%E5%8F%91)
   - [抖音试水自营电商 直面京东、拼多多“围剿”](https://blog.upx8.com/%E6%8A%96%E9%9F%B3%E8%AF%95%E6%B0%B4%E8%87%AA%E8%90%A5%E7%94%B5%E5%95%86-%E7%9B%B4%E9%9D%A2%E4%BA%AC%E4%B8%9C-%E6%8B%BC%E5%A4%9A%E5%A4%9A-%E5%9B%B4%E5%89%BF)
   - [针对宣传文案争议 OPPO官方再发致歉声明](https://blog.upx8.com/%E9%92%88%E5%AF%B9%E5%AE%A3%E4%BC%A0%E6%96%87%E6%A1%88%E4%BA%89%E8%AE%AE-OPPO%E5%AE%98%E6%96%B9%E5%86%8D%E5%8F%91%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E)
