@@ -4,12 +4,33 @@
   - [夜猫子 我来了 2](https://2libra.com/post/slacking-off/BgFCNtY)
   - [打算买个电动车，价格有些离谱](https://2libra.com/post/worth-buying/qigmkEi)
 - 36氪
+  - [427家公司完成ESG“首考”，18家首次交卷的起点与台阶](https://36kr.com/newsflashes/3804114946694658?f=rss)
+  - [A股“红五月”格局有望延续，聚焦科技、资源两大景气方向](https://36kr.com/newsflashes/3804113111326470?f=rss)
+  - [A股并购重组“含科量”持续提升](https://36kr.com/newsflashes/3804118828654341?f=rss)
+  - [一季度银行不良率与净息差倒挂局面缓解，风险安全垫得到修复](https://36kr.com/newsflashes/3804094652587776?f=rss)
+  - [三星电子、SK海力士股价屡创新高，“含韩”ETF业绩与规模双升](https://36kr.com/newsflashes/3804103094624005?f=rss)
+  - [人工智能芯片公司Cerebras Systems拟将IPO发行价区间上调至每股150至160美元](https://36kr.com/newsflashes/3804130793283333?f=rss)
+  - [今年前4个月新备案证券类私募基金超5000只](https://36kr.com/newsflashes/3804078169710339?f=rss)
+  - [从“看概念”到“看落地”，脑机接口投融资逻辑生变](https://36kr.com/newsflashes/3804109202136833?f=rss)
+  - [偏股混合型基金指数创新高 ，光通信超越“宁组合”抱团力度](https://36kr.com/newsflashes/3804097314283268?f=rss)
+  - [天舟十号货运飞船瞄准今日8时13分发射](https://36kr.com/newsflashes/3804079424036616?f=rss)
+  - [年内已有163只公募基金宣布提前结募](https://36kr.com/newsflashes/3804128531668483?f=rss)
+  - [新发基金频现提前结募，公募加快入市步伐](https://36kr.com/newsflashes/3804083940302592?f=rss)
+  - [泉果基金杜凡：本轮科技变革的量级有望超越以往的互联网浪潮](https://36kr.com/newsflashes/3804124173295368?f=rss)
+  - [短剧出海爆发式增长，AI译制服务成为行业刚需](https://36kr.com/newsflashes/3804084482268932?f=rss)
+  - [聚焦“出海”与硬核赛道，4月以来49家北交所公司获机构调研](https://36kr.com/newsflashes/3804103837703939?f=rss)
+  - [苹果A20Pro将迎来两大升级](https://36kr.com/newsflashes/3804119505870340?f=rss)
+  - [苹果将在macOS 27中进行设计调整，以修复Tahoe系统的各类异常问题](https://36kr.com/newsflashes/3804083006168582?f=rss)
+  - [资源化利用市场升温，环保赛道跑出“绩优生”](https://36kr.com/newsflashes/3804096347119105?f=rss)
   - [量子温度计可深入单细胞内测温](https://36kr.com/newsflashes/3804071095983879?f=rss)
+  - [银行理财子公司加速布局权益市场，IPO“打新”有望成为标配策略](https://36kr.com/newsflashes/3804127560638213?f=rss)
+  - [长盛基金代毅：紧跟产业趋势，确保股价上行期一定在场](https://36kr.com/newsflashes/3804112398032649?f=rss)
 - Hacker News Frontpage
   - [GitHub Is Sinking](https://dbushell.com/2026/04/29/github-is-sinking/)
   - [I have seen the dystopian future of elderly care](https://www.telegraph.co.uk/world-news/2026/05/09/testing-the-japanese-airec-robot-for-elderly-care/)
   - [Maryland citizens hit with $2B power grid upgrade for out-of-state AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
   - [Remind HN: Today is Mother's Day, call your moms](https://news.ycombinator.com/item?id=48085384)
+  - [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
   - [Tracesofhumanity.org by Joanna Rutkowska](https://tracesofhumanity.org/hello-world/)
 - HackerNoon
   - [Better Search, Smaller Models: Why Retrieval Quality Beats Model Size](https://hackernoon.com/better-search-smaller-models-why-retrieval-quality-beats-model-size?source=rss)
@@ -23,6 +44,8 @@
 - johndcook.com
   - [Reverse engineering Mersenne Twister with Linear Algebra](https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/)
   - [The linear algebra of bit twiddling](https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/)
+- simonwillison.net
+  - [Quoting New York Times Editors’ Note](https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [CyberThreat-Nlp-Intelligence-System exploit](https://sploitus.com/exploit?id=118BD7C3-9E08-5E20-B90F-402659FBF5F2&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Apache Nifi exploit](https://sploitus.com/exploit?id=DF0B883F-133D-5A63-AD0F-67B232C975A5&utm_source=rss&utm_medium=rss)
@@ -36,7 +59,14 @@
 - The Verge
   - [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review)
   - [The Bastl Kalimba is a wild synth that thinks it’s a thumb piano](https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano)
+- troyhunt.com
+  - [Weekly Update 503](https://www.troyhunt.com/weekly-update-503/)
 - VulDB Recent Entries
+  - [CVE-2026-45179 | RRWO Plack::Middleware::Statsd up to 0.8.x on Perl statsd cleartext transmission (GHSA-9gwm-665p-w2xx)](https://vuldb.com/vuln/362574)
+  - [CVE-2026-45180 | RRWO Catalyst::Plugin::Statsd up to 0.10.0 on Perl statsd cleartext transmission (GHSA-gjvr-hq83-fc38)](https://vuldb.com/vuln/362575)
+  - [CVE-2026-45190 | STIGTSP Net::CIDR::Lite up to 0.23 on Perl find/bin_find improper validation of unsafe equivalence in input](https://vuldb.com/vuln/362576)
+  - [CVE-2026-45191 | STIGTSP Net::CIDR::Lite up to 0.23 on Perl improper validation of unsafe equivalence in input](https://vuldb.com/vuln/362577)
+  - [CVE-2026-8177 | SHLOMIF XML::LibXML up to 2.0210 on Perl out-of-bounds (Issue 146)](https://vuldb.com/vuln/362578)
   - [CVE-2026-8275 | bettercap up to 2.41.5 zerogod IPP Service zerogod_ipp_primitives.go ippReadChunkedBody integer coercion (Issue 1263)](https://vuldb.com/vuln/362572)
   - [CVE-2026-8276 | bettercap up to 2.41.5 MySQL Server mysql_server.go integer coercion (Issue 1265)](https://vuldb.com/vuln/362573)
 - Vulners.com RSS Feed
@@ -55,12 +85,21 @@
   - [CVE-2026-45191 Net::CIDR::Lite versions before 0.24 for Perl does not properly consider extraneous zero characters in CIDR mask values, which may allow IP ACL bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-45191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7482 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-7482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8177](https://vulners.com/nvd/NVD:CVE-2026-8177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8248](https://vulners.com/nvd/NVD:CVE-2026-8248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8248 Open5GS SMF npcf-handler.c update_authorized_pcc_rule_and_qos denial of service](https://vulners.com/cve/CVE-2026-8248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8248 Open5GS SMF npcf-handler.c update_authorized_pcc_rule_and_qos denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-8248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8249](https://vulners.com/nvd/NVD:CVE-2026-8249?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8249 Open5GS SMF npcf-handler.c update_authorized_pcc_rule_and_qos denial of service](https://vulners.com/cve/CVE-2026-8249?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8249 Open5GS SMF npcf-handler.c update_authorized_pcc_rule_and_qos denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-8249?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8250](https://vulners.com/nvd/NVD:CVE-2026-8250?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8250 Open5GS SMF n4-build.c smf_n4_build_qos_flow_to_modify_list denial of service](https://vulners.com/cve/CVE-2026-8250?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8250 Open5GS SMF n4-build.c smf_n4_build_qos_flow_to_modify_list denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-8250?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8251](https://vulners.com/nvd/NVD:CVE-2026-8251?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8252 Open5GS SMF smf_nsmf_handle_create_data_in_hsmf null pointer dereference](https://vulners.com/cve/CVE-2026-8252?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8252 Open5GS SMF smf_nsmf_handle_create_data_in_hsmf null pointer dereference](https://vulners.com/cvelist/CVELIST:CVE-2026-8252?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8253 Devs Palace ERP Online purchase_save cross site scripting](https://vulners.com/cve/CVE-2026-8253?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8253 Devs Palace ERP Online purchase_save cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-8253?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8254 Devs Palace ERP Online sales_save cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-8254?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CyberThreat-Nlp-Intelligence-System](https://vulners.com/githubexploit/118BD7C3-9E08-5E20-B90F-402659FBF5F2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Apache Nifi](https://vulners.com/githubexploit/DF0B883F-133D-5A63-AD0F-67B232C975A5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-36980](https://vulners.com/githubexploit/FF8BA0EC-E718-5A22-8B44-BFC902342407?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -71,5 +110,8 @@
   - [GHSA-X8QC-FGGM-MPQG vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-X8QC-FGGM-MPQG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-XV59-967R-8726 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-XV59-967R-8726?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-XV59-967R-8726 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-XV59-967R-8726?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [MINI-XF68-VQ5J-P6XC](https://vulners.com/osv/OSV:MINI-XF68-VQ5J-P6XC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [抖音试水自营电商 直面京东、拼多多“围剿”](https://blog.upx8.com/%E6%8A%96%E9%9F%B3%E8%AF%95%E6%B0%B4%E8%87%AA%E8%90%A5%E7%94%B5%E5%95%86-%E7%9B%B4%E9%9D%A2%E4%BA%AC%E4%B8%9C-%E6%8B%BC%E5%A4%9A%E5%A4%9A-%E5%9B%B4%E5%89%BF)
