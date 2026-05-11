@@ -8,6 +8,7 @@
   - [【💰】关于竞赛视频请教一下](https://2libra.com/post/usage-tips/Bd3_5dk)
   - [【💰】大失败！有老哥比我更黑吗](https://2libra.com/post/slacking-off/_SlpNr0)
   - [分享个 IP 检测工具：Proxy / WebRTC / TikTok 干净 IP 检查](https://2libra.com/post/tools-sharing/BBLKVD5)
+  - [副业 ai 做自媒体推荐](https://2libra.com/post/side-business/-yjzkqv)
   - [周末发生的几件小事](https://2libra.com/post/small-things/j9Px6q2)
   - [周末陪朋友被拉着去看车，看中一款手动挡，现在买，算是 49 年如国军吗？有些犹豫哈哈](https://2libra.com/post/worth-buying/KrNyMK3)
   - [咱这个 github 也算是小有成就了](https://2libra.com/post/open-source-sharing/-Z13-CJ)
@@ -197,6 +198,8 @@
   - [香港政府拟提议首阶段发放至少1万个网约车牌照](https://36kr.com/newsflashes/3804153498427144?f=rss)
   - [香港证监会拟重组首席财务总监职位](https://36kr.com/newsflashes/3804157856685826?f=rss)
   - [龙湖集团：前4个月总合同销售金额为103.5亿元](https://36kr.com/newsflashes/3804821907463685?f=rss)
+- 404 Media
+  - [Your AI Use Is Breaking My Brain](https://www.404media.co/your-ai-use-is-breaking-my-brain/)
 - Cerbero Blog
   - [WASM Format & Decompiler Packages](https://blog.cerbero.io/wasm-format-decompiler-packages/)
 - daniel.haxx.se
@@ -231,6 +234,7 @@
   - [They Charged $10/Month for a $5 Server, a Free Script, and Three Years of Lies. Here’s the Proof.](https://infosecwriteups.com/they-charged-10-month-for-a-5-server-a-free-script-and-three-years-of-lies-heres-the-proof-b232637e4269?source=rss----7b722bfd1b8d---4)
   - [You Don’t Need a 0-Day for RCE: A Real-World Kill Chain](https://infosecwriteups.com/you-dont-need-a-0-day-for-rce-a-real-world-kill-chain-e7ec690ba9a4?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
+  - [Fake Claude Code Page Pushes PowerShell Stealer at Devs](https://www.infosecurity-magazine.com/news/fake-claude-code-installer/)
   - [Hackers Observed Using AI to Develop Zero-Day for the First Time](https://www.infosecurity-magazine.com/news/hackers-using-ai-zero-day-first/)
   - [Police Shut Relaunched Crimenetwork Dark Web Marketplace](https://www.infosecurity-magazine.com/news/police-shut-crimenetwork-may-2025/)
   - [US: FCC Relaxes Foreign-Made Router Ban to Allow for Security Updates](https://www.infosecurity-magazine.com/news/us-fcc-relaxes-foreign-router-ban/)
@@ -238,9 +242,11 @@
 - joanwestenberg.com
   - [Fear is information.](https://www.joanwestenberg.com/fear-is-information/)
 - johndcook.com
+  - [Probability that a random binary matrix is invertible](https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/)
   - [Reverse engineering Mersenne Twister with Linear Algebra](https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/)
   - [The linear algebra of bit twiddling](https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/)
 - MIT Technology Review
+  - [Fostering breakthrough AI innovation through customer-back engineering](https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/)
   - [The Download: the hantavirus outbreak and Musk v. Altman week 2](https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/)
 - OpenAI Blog
   - [How enterprises are scaling AI](https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai)
@@ -280,6 +286,7 @@
   - [Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/)
   - [Venmo’s biggest makeover in years comes at a very interesting time](https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/)
 - The Decoder
+  - [AI turns patches into working exploits in 30 minutes, and the 90-day disclosure window is the casualty](https://the-decoder.com/ai-turns-patches-into-working-exploits-in-30-minutes-and-the-90-day-disclosure-window-is-the-casualty/)
   - [Generative AI turns identity theft into an industrial-scale operation](https://the-decoder.com/generative-ai-turns-identity-theft-into-an-industrial-scale-operation/)
   - [Nvidia pumps over 40 billion dollars into AI partners so far in 2026](https://the-decoder.com/nvidia-pumps-over-40-billion-dollars-into-ai-partners-so-far-in-2026/)
   - [OpenAI's internal share sale minted roughly 75 multimillionaires who each cashed out the $30 million cap](https://the-decoder.com/openais-internal-share-sale-minted-roughly-75-multimillionaires-who-each-cashed-out-the-30-million-cap/)
@@ -287,6 +294,7 @@
   - [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review)
   - [Discord adds a free Xbox Game Pass ‘starter edition’ for Nitro subscribers](https://www.theverge.com/news/927722/discord-xbox-game-pass-starter-edition-nitro-subscribers)
   - [Forza Horizon 6 has been leaked and cracked a week before its release](https://www.theverge.com/news/927704/forza-horizon-6-leak-cracked)
+  - [Joanna Stern is not a robot, but she lived with them](https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation)
   - [The Bastl Kalimba is a wild synth that thinks it’s a thumb piano](https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano)
   - [TikTok is letting UK users pay to remove ads](https://www.theverge.com/tech/927761/tiktok-ad-free-paid-subscription-uk)
   - [Wordle is turning into a primetime TV game show on NBC](https://www.theverge.com/games/927536/wordle-game-show-nbc-savannah-guthrie-jimmy-fallon-new-york-times)
@@ -302,6 +310,7 @@
   - [CVE-2026-45180 | RRWO Catalyst::Plugin::Statsd up to 0.10.0 on Perl statsd cleartext transmission (GHSA-gjvr-hq83-fc38)](https://vuldb.com/vuln/362575)
   - [CVE-2026-45190 | STIGTSP Net::CIDR::Lite up to 0.23 on Perl find/bin_find improper validation of unsafe equivalence in input](https://vuldb.com/vuln/362576)
   - [CVE-2026-45191 | STIGTSP Net::CIDR::Lite up to 0.23 on Perl improper validation of unsafe equivalence in input](https://vuldb.com/vuln/362577)
+  - [CVE-2026-4802 | Cockpit-HQ Cockpit System Logs User Interface os command injection](https://vuldb.com/vuln/362609)
   - [CVE-2026-6433 | Custom css-js-php Plugin up to 2.0.7 on WordPress eval code injection (EUVD-2026-29034)](https://vuldb.com/vuln/362581)
   - [CVE-2026-6909 | ATutor 2.2.4 URL /install/upgrade.php cross site scripting](https://vuldb.com/vuln/362591)
   - [CVE-2026-6956 | ATutor 2.2.4 URL cross site scripting](https://vuldb.com/vuln/362592)
@@ -314,6 +323,12 @@
   - [CVE-2026-8291 | Open5GS up to 2.7.7 NRF lib/sbi/nnrf-handler.c ogs_nnrf_nfm_handle_nf_profile denial of service (Issue 4456)](https://vuldb.com/vuln/362588)
   - [CVE-2026-8292 | Open5GS up to 2.7.7 NRF /lib/sbi/conv.c yuarel_parse hnrf-uri denial of service (Issue 4457)](https://vuldb.com/vuln/362589)
   - [CVE-2026-8305 | OpenClaw up to 2026.1.24 bluebubbles Webhook monitor.ts handleBlueBubblesWebhookRequest improper authentication (Issue 13786)](https://vuldb.com/vuln/362590)
+  - [CVE-2026-8318 | VectifyAI PageIndex up to f50e52975313c6716c02b20a119577a1929decba PDF Table of Contents pageindex/page_index.py toc_transformer infinite loop (Issue 174)](https://vuldb.com/vuln/362605)
+  - [CVE-2026-8319 | aiwaves-cn agents up to e8c4e3c2d19739d3dff59e577d1c97090cc15f59 cheshire_cat_core stray_cat.py recall_relevant_memories_to_working_memory resource consumption (Issue 219)](https://vuldb.com/vuln/362606)
+  - [CVE-2026-8320 | jishenghua jshERP up to 3.6 updatePlatformConfigByKey Endpoint UserService.java getUserByWeixinCode weixinUrl server-side request forgery (Issue 152)](https://vuldb.com/vuln/362607)
+  - [CVE-2026-8321 | inkeep agents 0.58.14 runAuth Middleware runAuth.ts createDevContext authentication bypass (Issue 3024)](https://vuldb.com/vuln/362608)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Bringing AI Code Security into Qualys ETM](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
   - [c2birtengine](https://vulners.com/githubexploit/E802680A-5034-5B55-AF57-FDCB66E4CAB6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [choreo-waf-poc](https://vulners.com/githubexploit/381D5D17-B033-5BF1-9D4B-86CB6311DBB7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -409,6 +424,7 @@
   - [CVE-2026-8274 npitre cramfs-tools Directory cramfsck.c do_directory path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-8274?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8275](https://vulners.com/nvd/NVD:CVE-2026-8275?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8276](https://vulners.com/nvd/NVD:CVE-2026-8276?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8288](https://vulners.com/nvd/NVD:CVE-2026-8288?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8288 Open5GS SMF gsm-handler.c denial of service](https://vulners.com/cve/CVE-2026-8288?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8288 Open5GS SMF gsm-handler.c denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-8288?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CyberThreat-Nlp-Intelligence-System](https://vulners.com/githubexploit/118BD7C3-9E08-5E20-B90F-402659FBF5F2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -484,14 +500,17 @@
   - [Papa Johns Is Getting Into Drone Delivery—but Not for Pizza](https://www.wired.com/story/papa-johns-is-getting-into-drone-delivery-but-its-not-flying-pizza/)
 - 不安全
   - [Windows 11资源管理器获得自适应大小显示 将自动显示KB/MB/GB等](https://buaq.net/go-415797.html)
+  - [Yarbo responds to robot flaws that could mow down their owners](https://buaq.net/go-415892.html)
   - [免费下载工具JDownloader遭到黑客攻击 5.6~7日下载该工具的用户请立即查杀](https://buaq.net/go-415752.html)
   - [出版商寻求对“安娜的档案”索赔并封禁其域名](https://buaq.net/go-415823.html)
   - [华为套取开源开发者技术信息后转交低价外包开发](https://buaq.net/go-415872.html)
+  - [古尔曼：新款Vision Pro至少两年内不会到来](https://buaq.net/go-415897.html)
   - [微软反驳通过CPU瞬时超频提升Win11响应速度是懒惰做法 称苹果也这么做](https://buaq.net/go-415753.html)
   - [针对wasm反CFF的尝试](https://buaq.net/go-415821.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Mythos 发现了一个 curl 漏洞](https://www.solidot.org/story?sid=84269)
   - [新加坡将对霸凌他人的男生引入鞭刑](https://www.solidot.org/story?sid=84261)
 - 威胁棱镜
   - [IDA 插件大赛 2025](https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488623&idx=1&sn=c370ba85ff9efdf87b1e05c5ba0a6761)
@@ -515,5 +534,6 @@
   - [互联网档案馆和维基百科因AI热潮陷入困境](https://blog.upx8.com/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86%E5%92%8C%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%9B%A0AI%E7%83%AD%E6%BD%AE%E9%99%B7%E5%85%A5%E5%9B%B0%E5%A2%83)
   - [出版商寻求对“安娜的档案”索赔并封禁其域名](https://blog.upx8.com/%E5%87%BA%E7%89%88%E5%95%86%E5%AF%BB%E6%B1%82%E5%AF%B9-%E5%AE%89%E5%A8%9C%E7%9A%84%E6%A1%A3%E6%A1%88-%E7%B4%A2%E8%B5%94%E5%B9%B6%E5%B0%81%E7%A6%81%E5%85%B6%E5%9F%9F%E5%90%8D)
   - [华为套取开源开发者技术信息后转交低价外包开发](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E5%A5%97%E5%8F%96%E5%BC%80%E6%BA%90%E5%BC%80%E5%8F%91%E8%80%85%E6%8A%80%E6%9C%AF%E4%BF%A1%E6%81%AF%E5%90%8E%E8%BD%AC%E4%BA%A4%E4%BD%8E%E4%BB%B7%E5%A4%96%E5%8C%85%E5%BC%80%E5%8F%91)
+  - [古尔曼：新款Vision Pro至少两年内不会到来](https://blog.upx8.com/%E5%8F%A4%E5%B0%94%E6%9B%BC-%E6%96%B0%E6%AC%BEVision-Pro%E8%87%B3%E5%B0%91%E4%B8%A4%E5%B9%B4%E5%86%85%E4%B8%8D%E4%BC%9A%E5%88%B0%E6%9D%A5)
   - [抖音试水自营电商 直面京东、拼多多“围剿”](https://blog.upx8.com/%E6%8A%96%E9%9F%B3%E8%AF%95%E6%B0%B4%E8%87%AA%E8%90%A5%E7%94%B5%E5%95%86-%E7%9B%B4%E9%9D%A2%E4%BA%AC%E4%B8%9C-%E6%8B%BC%E5%A4%9A%E5%A4%9A-%E5%9B%B4%E5%89%BF)
   - [针对宣传文案争议 OPPO官方再发致歉声明](https://blog.upx8.com/%E9%92%88%E5%AF%B9%E5%AE%A3%E4%BC%A0%E6%96%87%E6%A1%88%E4%BA%89%E8%AE%AE-OPPO%E5%AE%98%E6%96%B9%E5%86%8D%E5%8F%91%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E)
