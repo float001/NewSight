@@ -20,6 +20,7 @@
   - [用 AI 搭配着学习新语言新框架真的是太舒服了](https://2libra.com/post/ai-programming/5zOao3G)
   - [谷歌使安卓和苹果之间分享文件变得更容易](https://2libra.com/post/android/8KOJFJp)
   - [通过备案的网络产品安全漏洞收集平台（第 1 批）](https://2libra.com/post/network-security/s0VwJhn)
+  - [闲聊碎碎念](https://2libra.com/post/family/qegRU8P)
 - 36氪
   - [2025年全国广播电视和网络视听行业总收入同比增长5.22%](https://36kr.com/newsflashes/3807356997410569?f=rss)
   - [2026 AI最佳场景渗透案例重磅揭晓](https://36kr.com/p/3807623172235011?f=rss)
@@ -209,10 +210,14 @@
   - [马斯克称星舰第12次试飞将于下周进行](https://36kr.com/newsflashes/3806995475652357?f=rss)
 - 404 Media
   - [Software Developers Say AI Is Rotting Their Brains](https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/)
+  - [War and Data Centers Are Driving Up the Cost of Fiber-Optic Cable](https://www.404media.co/war-and-data-centers-are-driving-up-the-cost-of-fiber-optic-cable/)
 - Ars Technica
+  - [Blue Origin may need external funding to hit ambitious launch targets](https://arstechnica.com/space/2026/05/blue-origin-may-need-external-funding-to-hit-ambitious-launch-targets/)
   - [Daredevil: Born Again S2 gives us a darker, grittier canvas](https://arstechnica.com/culture/2026/05/daredevil-born-again-s2-gives-us-a-darker-grittier-canvas/)
   - [eBay rejects GameStop's $56B offer: "Your proposal is neither credible nor attractive"](https://arstechnica.com/tech-policy/2026/05/ebay-rejects-gamestops-56b-offer-your-proposal-is-neither-credible-nor-attractive/)
   - [“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says](https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/)
+- Articles | InfoStealers
+  - [How The Gentlemen Ransomware Group Operates: A Blueprint Built on Infostealer Credentials](https://www.infostealers.com/article/how-the-gentlemen-ransomware-group-operates-a-blueprint-built-on-infostealer-credentials/)
 - Black Hills Information Security
   - [How to Identify and Exploit New Vulnerabilities](https://www.blackhillsinfosec.com/how-to-identify-and-exploit-new-vulnerabilities/)
 - blog.jim-nielsen.com
@@ -240,6 +245,7 @@
   - [I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
   - [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
   - [Show HN: Agentic interface for mainframes and COBOL](https://www.hypercubic.ai/hopper)
+  - [The AI Backlash Could Get Ugly](https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/)
   - [The Rise of the Bullshittery](https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/)
 - HackerNews
   - [苹果修复 macOS 和 iOS 系统数十个漏洞](http://0.0.0.0:8080/post/64241)
@@ -258,6 +264,7 @@
   - [Phishing-as-a-Service (PhaaS): Inside a Telegram Phishing Bot](https://infosecwriteups.com/phishing-as-a-service-phaas-inside-a-telegram-phishing-bot-d6ebc4be83ad?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [Avada Builder Flaws Expose One Million WordPress Sites](https://www.infosecurity-magazine.com/news/avada-builder-flaws-one-million/)
+  - [Canvas Owner Reaches Agreement With Cybercriminals After Ransomware Attack](https://www.infosecurity-magazine.com/news/canvas-cybercriminals-agreement/)
   - [Global Cyber Agencies Issue New SBOMs for AI Guidance to Tackle AI Supply Chain Risks](https://www.infosecurity-magazine.com/news/new-sboms-for-ai-guidance-2026/)
   - [Microsoft Fixes 17 Critical Flaws in May Patch Tuesday](https://www.infosecurity-magazine.com/news/microsoft-17-critical-flaws-may/)
   - [Ransomware: Over Half of CISOs Would Consider Paying Ransom to Hackers](https://www.infosecurity-magazine.com/news/ransomware-over-half-cisos-would/)
@@ -284,6 +291,7 @@
   - [Exploit for CVE-2025-29338 exploit](https://sploitus.com/exploit?id=90E9817C-EB37-5B54-B408-86D73C806716&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-6664 exploit](https://sploitus.com/exploit?id=23F97CA6-ACC2-5A39-BF81-F5CD44698506&utm_source=rss&utm_medium=rss)
   - [Exploit for Double Free in Apache Http_Server exploit](https://sploitus.com/exploit?id=AEE4B3AA-4C98-5A59-B89E-B854736F36DA&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Implementation of Authentication Algorithm in Google Android exploit](https://sploitus.com/exploit?id=3A682AC4-8730-5460-A9DE-44CE103E4423&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Google Chrome exploit](https://sploitus.com/exploit?id=12330E29-A348-502C-BBB3-28EB5C38D5CC&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple exploit](https://sploitus.com/exploit?id=A5368E12-04A6-5A5A-84C4-0E54E6A84958&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=15D9DC18-7796-556A-95DE-2DE87CA67D14&utm_source=rss&utm_medium=rss)
@@ -293,7 +301,9 @@
   - [wafuzz exploit](https://sploitus.com/exploit?id=C28D23A2-C7A3-5918-A6DF-5B3C0F98E420&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Adaption aims big with AutoScientist, an AI tool that helps models train themselves](https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/)
+  - [Amazon launches an AI shopping assistant for the search bar, powered by Alexa+](https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/)
   - [Android adds a feature to stop you from doomscrolling](https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/)
+  - [Anduril raises $5B, doubles valuation to $61B](https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/)
   - [Anthropic now has more business customers than OpenAI, according to Ramp data](https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/)
   - [Anthropic warns investors against secondary platforms offering access to its shares](https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/)
   - [Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets](https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/)
@@ -308,10 +318,12 @@
   - [Medicare’s new payment model is built for AI, and most of the tech world has no idea](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)
   - [Poppy debuts a proactive AI assistant to help organize your digital life](https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/)
   - [Potholes cost cities millions: This company is using AI and trucks to fix them](https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/)
+  - [r/WallStreetBets really hates the SEC’s proposal to weaken quarterly reporting](https://techcrunch.com/2026/05/13/r-wallstreetbets-really-hates-the-secs-proposal-to-weaken-quarterly-reporting/)
   - [Report: Google and SpaceX in talks to put data centers into orbit](https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/)
   - [The AI legal services industry is heating up. Anthropic is getting in on the action.](https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/)
   - [Threads tests a Meta AI integration that works similarly to Grok](https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/)
   - [U.S. bank disclose security lapse after sharing customer data with AI app](https://techcrunch.com/2026/05/12/u-s-bank-disclose-security-lapse-after-sharing-customer-data-with-ai-app/)
+  - [US lawmakers demand answers from Instructure after Canvas data breaches](https://techcrunch.com/2026/05/13/us-lawmakers-demand-answers-from-instructure-after-canvas-data-breaches/)
 - The Decoder
   - [AI startup Recursive emerges from stealth with $650 million to build self-improving AI](https://the-decoder.com/ai-startup-recursive-emerges-from-stealth-with-650-million-to-build-self-improving-ai/)
   - [Alphabet's Isomorphic Labs raises $2.1 billion to scale AI drug discovery toward clinical trials](https://the-decoder.com/alphabets-isomorphic-labs-raises-2-1-billion-to-scale-ai-drug-discovery-toward-clinical-trials/)
@@ -1108,6 +1120,7 @@
   - [Exploit for CVE-2026-29204](https://vulners.com/githubexploit/73D92211-ECBA-51FA-AFA7-70EA0D985623?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-6664](https://vulners.com/githubexploit/23F97CA6-ACC2-5A39-BF81-F5CD44698506?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Double Free in Apache Http_Server](https://vulners.com/githubexploit/AEE4B3AA-4C98-5A59-B89E-B854736F36DA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Implementation of Authentication Algorithm in Google Android](https://vulners.com/githubexploit/3A682AC4-8730-5460-A9DE-44CE103E4423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Out-of-bounds Write in Google Chrome](https://vulners.com/githubexploit/12330E29-A348-502C-BBB3-28EB5C38D5CC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple](https://vulners.com/githubexploit/A5368E12-04A6-5A5A-84C4-0E54E6A84958?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Chamilo Chamilo_Lms](https://vulners.com/githubexploit/00F0A6F0-DE0C-5E3C-9F8C-88889E34121D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -1181,6 +1194,7 @@
   - [Important: Red Hat Security Advisory: jq security update](https://vulners.com/redhat/RHSA-2026:16693?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: kernel security update](https://vulners.com/redhat/RHSA-2026:16312?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: Kiali 2.22.3 for Red Hat OpenShift Service Mesh 3.3](https://vulners.com/redhat/RHSA-2026:16542?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: OpenShift Container Platform 4.15.64 bug fix and security update](https://vulners.com/redhat/RHSA-2026:14773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: OpenShift Container Platform 4.16.62 bug fix and security update](https://vulners.com/redhat/RHSA-2026:16171?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: podman security update](https://vulners.com/redhat/RHSA-2026:17040?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: python3.12 security update](https://vulners.com/redhat/RHSA-2026:16699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -1240,6 +1254,7 @@
   - [The Top New Features in Google’s Android 17—and Gemini Intelligence—Coming This Summer](https://www.wired.com/story/android-17-gemini-top-new-features/)
   - [The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy](https://www.wired.com/story/unitree-gd01-mecha-robot/)
   - [Top Nomad Goods Promo Codes: Get 25% Off in May 2026](https://www.wired.com/story/nomad-discount-code/)
+  - [Trump's Inner Circle Is Already Scrambling Over the 2028 Presidential Ticket](https://www.wired.com/story/trump-inner-circle-2028-presidential-ticket/)
   - [Valvoline Coupons & Promo Codes for May 2026](https://www.wired.com/story/valvoline-coupons/)
   - [WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private](https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/)
 - 不安全
