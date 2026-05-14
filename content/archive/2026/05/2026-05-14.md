@@ -3,9 +3,30 @@
 - 2Libra
   - [适合国内基金量化的开源项目有没有推荐的](https://2libra.com/post/tech-qa/FZKjg99)
 - 36氪
+  - [8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥](https://36kr.com/p/3808362853834502?f=rss)
+  - [A股上市银行分红近6500亿元，净利息收入开始回暖](https://36kr.com/newsflashes/3808357858238211?f=rss)
+  - [Meta将在WhatsApp上推出“隐身聊天”功能](https://36kr.com/newsflashes/3807885833330185?f=rss)
+  - [一季度我国工程机械产品出口额同比增长24.3%](https://36kr.com/newsflashes/3808358826958340?f=rss)
+  - [专项债项目“自审自发”试点扩围落地](https://36kr.com/newsflashes/3808311931313669?f=rss)
+  - [中泰证券：水泥行业盈利能力有望逐步修复](https://36kr.com/newsflashes/3808342674513414?f=rss)
+  - [丹诺医药寻求通过香港IPO募资6.268亿港元](https://36kr.com/newsflashes/3808363556757257?f=rss)
+  - [今年累计备案私募证券产品同比增逾50%，私募非传统策略悄然升温](https://36kr.com/newsflashes/3808314154343943?f=rss)
+  - [公募存量产品将批量调整业绩比较基准](https://36kr.com/newsflashes/3808313541172737?f=rss)
+  - [微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备](https://36kr.com/newsflashes/3808317289832196?f=rss)
+  - [德国央行行长：通胀若未改善，欧洲央行加息可能性或上升](https://36kr.com/newsflashes/3808321259527686?f=rss)
+  - [思科第三财季净利润34亿美元，同比增长35%](https://36kr.com/newsflashes/3808341013847560?f=rss)
+  - [政策、电网招标等因素共振，电力及设备板块上行逻辑坚实](https://36kr.com/newsflashes/3808311212432905?f=rss)
+  - [权益资产回暖推升净值，“10元基”数量增至百只](https://36kr.com/newsflashes/3808310599392770?f=rss)
+  - [澳大利亚沃利计划未来两年在数字化与人工智能领域投资7000万澳元](https://36kr.com/newsflashes/3808368683867652?f=rss)
+  - [特朗普移动公司开始交付499美元智能手机，在美国组装](https://36kr.com/newsflashes/3808360125112071?f=rss)
+  - [百济神州：百悦达获美国FDA批准治疗复发/难治套细胞淋巴瘤](https://36kr.com/newsflashes/3808368195018240?f=rss)
   - [美参议院批准凯文·沃什出任美联储主席](https://36kr.com/newsflashes/3808314857512708?f=rss)
   - [美股三大指数收盘涨跌不一，热门中概股普涨](https://36kr.com/newsflashes/3808308649041670?f=rss)
+  - [贝莱德向Coinbase转移1.72亿美元加密资产](https://36kr.com/newsflashes/3807886525603584?f=rss)
+  - [超八成偏股型基金年内正收益，不同投资风格多元绽放](https://36kr.com/newsflashes/3808373377637895?f=rss)
   - [阿里吴泳铭：未来三年资本开支可能远超3800亿，可能销售平头哥AI服务器](https://36kr.com/newsflashes/3807869993360902?f=rss)
+  - [需求稳步复苏，A股小金属板块公司业绩向好](https://36kr.com/newsflashes/3808341748129282?f=rss)
+  - [马斯克旗下xAI据悉联手华尔街机构测试Grok，助力SpaceX上市前增收](https://36kr.com/newsflashes/3808343499726337?f=rss)
 - 404 Media
   - [At Least We Know the Washington Post Isn't Buying Views](https://www.404media.co/washington-post-make-it-make-sense-opinion-podcast/)
 - Ars Technica
@@ -27,6 +48,7 @@
   - [Tables Turn on 'The Gentlemen' RaaS Gang With Data Leak](https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak)
 - Hacker News Frontpage
   - [Haiku](https://www.haiku-os.org)
+  - [Intercom changes name to Fin](https://www.intercom.com/blog/today-intercom-becomes-fin/)
   - [Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration](https://www.tryardent.com/)
   - [Making the news available at no cost is a victory](https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/)
   - [Princeton mandates proctoring in-person exams, upending 133 years of precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
@@ -44,8 +66,11 @@
   - [The Convergence of Cloud Secrets & AI Risk](https://www.sentinelone.com/blog/the-convergence-of-cloud-secrets-and-ai-risk/)
 - simonwillison.net
   - [Quoting Boris Mann](https://simonwillison.net/2026/May/13/boris-mann/#atom-everything)
+  - [Welcome to the Datasette blog](https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Rcon-Bruteforce exploit](https://sploitus.com/exploit?id=31B1835E-F913-5B61-A97B-6A3E01808B64&utm_source=rss&utm_medium=rss)
+- susam.net
+  - [Commenting Guidelines](https://susam.net/commenting.html)
 - TechCrunch
   - [Anthropic courts a new kind of customer: small business owners](https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/)
   - [Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/)
@@ -203,8 +228,10 @@
   - [CVE-2026-29205](https://vulners.com/nvd/NVD:CVE-2026-29205?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-29206](https://vulners.com/cve/CVE-2026-29206?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-29206](https://vulners.com/cvelist/CVELIST:CVE-2026-29206?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-29206](https://vulners.com/nvd/NVD:CVE-2026-29206?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32991](https://vulners.com/cve/CVE-2026-32991?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32991](https://vulners.com/cvelist/CVELIST:CVE-2026-32991?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-32991](https://vulners.com/nvd/NVD:CVE-2026-32991?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32992](https://vulners.com/cve/CVE-2026-32992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32992](https://vulners.com/cvelist/CVELIST:CVE-2026-32992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32992](https://vulners.com/nvd/NVD:CVE-2026-32992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -235,6 +262,8 @@
   - [CVE-2026-40327](https://vulners.com/nvd/NVD:CVE-2026-40327?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40328](https://vulners.com/nvd/NVD:CVE-2026-40328?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40976 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-40976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41281](https://vulners.com/cve/CVE-2026-41281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41281](https://vulners.com/cvelist/CVELIST:CVE-2026-41281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42304](https://vulners.com/nvd/NVD:CVE-2026-42304?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42304 Twisted: Denial of Service (DoS) in twisted.names via Crafted DNS Compression Pointer Chains](https://vulners.com/cve/CVE-2026-42304?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42304 Twisted: Denial of Service (DoS) in twisted.names via Crafted DNS Compression Pointer Chains](https://vulners.com/cvelist/CVELIST:CVE-2026-42304?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -419,6 +448,7 @@
   - [CVE-2026-45109 Next.js: Middleware / Proxy bypass in App Router applications via segment-prefetch routes](https://vulners.com/cvelist/CVELIST:CVE-2026-45109?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45158](https://vulners.com/nvd/NVD:CVE-2026-45158?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45228](https://vulners.com/nvd/NVD:CVE-2026-45228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45229](https://vulners.com/circl/CIRCL:CVE-2026-45229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45229](https://vulners.com/nvd/NVD:CVE-2026-45229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45411](https://vulners.com/nvd/NVD:CVE-2026-45411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45411 vm2: Sandbox Breakout Using Async Generator](https://vulners.com/cve/CVE-2026-45411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -438,6 +468,7 @@
   - [CVE-2026-8466 Unbounded buffer accumulation in multipart header parsing causes denial of service in cowboy](https://vulners.com/cve/CVE-2026-8466?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8466 Unbounded buffer accumulation in multipart header parsing causes denial of service in cowboy](https://vulners.com/cvelist/CVELIST:CVE-2026-8466?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8496](https://vulners.com/nvd/NVD:CVE-2026-8496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8500](https://vulners.com/nvd/NVD:CVE-2026-8500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8500 Web::Passwd versions through 0.03 for Perl is vulnerable to RCE](https://vulners.com/cve/CVE-2026-8500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8500 Web::Passwd versions through 0.03 for Perl is vulnerable to RCE](https://vulners.com/cvelist/CVELIST:CVE-2026-8500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-5HRC-GVXJ-W55P vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-5HRC-GVXJ-W55P?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -460,3 +491,5 @@
 - 奇客Solidot–传递最新科技情报
   - [Kickstarter 禁止成人内容](https://www.solidot.org/story?sid=84290)
   - [被解雇兄弟删了 96 个数据库](https://www.solidot.org/story?sid=84291)
+- 黑海洋
+  - [Anthropic目前企业客户数量已超过OpenAI](https://blog.upx8.com/Anthropic%E7%9B%AE%E5%89%8D%E4%BC%81%E4%B8%9A%E5%AE%A2%E6%88%B7%E6%95%B0%E9%87%8F%E5%B7%B2%E8%B6%85%E8%BF%87OpenAI)
