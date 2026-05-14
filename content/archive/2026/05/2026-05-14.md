@@ -209,6 +209,8 @@
   - [Windows Update is getting better at saving your PC from buggy drivers](https://arstechnica.com/gadgets/2026/05/windows-update-is-getting-better-at-saving-your-pc-from-buggy-drivers/)
 - Ben's Bites
   - [Agents feedback tip](https://www.bensbites.com/p/agents-feedback-tip)
+- berthub.eu
+  - [The First Democratic Tech Alliance Assembly](https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/)
 - Blog - Praetorian
   - [Your Login Page Is Lying: What AI Agents Find When They Read Your Frontend](https://www.praetorian.com/blog/spa-frontend-security/)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -227,10 +229,12 @@
 - defend.network
   - [Daily Threat Briefing – May 14, 2026](https://defend.network/briefings/bitlocker-zero-day-exchange-apt-ransomware-2026-05-14.html)
 - Hacker News Frontpage
+  - [Claude AI recovers an 11 yrs old BTC wallet holding 400k USD](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
   - [Haiku](https://www.haiku-os.org)
   - [Intercom changes name to Fin](https://www.intercom.com/blog/today-intercom-becomes-fin/)
   - [Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration](https://www.tryardent.com/)
   - [Making the news available at no cost is a victory](https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/)
+  - [MIT: 20% drop in incoming graduate students](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline)
   - [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom/)
   - [New York, California pension leaders oppose 'extreme' SpaceX control structure](https://www.reuters.com/legal/government/new-york-california-pension-leaders-oppose-extreme-spacex-control-structure-2026-05-14/)
   - [Princeton mandates proctoring in-person exams, upending 133 years of precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
@@ -265,12 +269,15 @@
 - infosecurity-magazine.com
   - [Google Launches Android Spyware Forensics Tool for High-Risk Users](https://www.infosecurity-magazine.com/news/google-launches-android-spyware/)
   - [Most Organizations Now Use AI Agents for Sensitive Security Tasks](https://www.infosecurity-magazine.com/news/most-organizations-ai-agents/)
+  - [Mustang Panda Linked to Updated FDMTP Backdoor in Asia-Pacific Espionage Campaign](https://www.infosecurity-magazine.com/news/mustang-panda-fdmtp-backdoor-apj/)
   - [New Fragnesia Flaw Hands Linux Local Users Root Access](https://www.infosecurity-magazine.com/news/fragnesia-linux-kernel-lpe-root/)
 - Linux Foundation Blogs
   - [Linux Foundation Newsletter: May 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-may-2026)
 - MIT Technology Review
   - [AI chatbots are giving out people’s real phone numbers](https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/)
   - [The Download: deepfake porn’s stolen bodies and AI sharing private numbers](https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/)
+- Pen Test Partners
+  - [OT pen test findings that plant teams can actually use](https://www.pentestpartners.com/security-blog/ot-pen-test-findings-that-plant-teams-can-actually-use/)
 - Product Hunt
   - [Comie.dev](https://www.producthunt.com/products/comie-dev)
   - [Raindrop Workshop](https://www.producthunt.com/products/raindrop)
@@ -299,6 +306,7 @@
   - [Exploit for CVE-2026-8181 exploit](https://sploitus.com/exploit?id=725C7076-F0CE-590C-B993-36F44C104837&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=C280267D-26C4-5FC8-9CCC-D638A359564C&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Insat Masterscada exploit](https://sploitus.com/exploit?id=FB0A9C5D-1E8F-5CAD-AEB7-2C48D4610B5E&utm_source=rss&utm_medium=rss)
+  - [FortiGate-FortiWeb-Multi-Exploit-Extractor exploit](https://sploitus.com/exploit?id=67881ED0-13A9-5546-8E8F-3CD132FD8F59&utm_source=rss&utm_medium=rss)
   - [knet-exploit-2013 exploit](https://sploitus.com/exploit?id=B19908EC-32A5-5EAC-82E5-A172DE5B8DE0&utm_source=rss&utm_medium=rss)
   - [Lodash-CVE-poc exploit](https://sploitus.com/exploit?id=0EFC61DB-6712-5A20-BC15-1A1F40196053&utm_source=rss&utm_medium=rss)
   - [minalic-exploit-2013 exploit](https://sploitus.com/exploit?id=3FF3E5A8-B392-5329-852E-2E861E925918&utm_source=rss&utm_medium=rss)
@@ -310,6 +318,7 @@
 - susam.net
   - [Commenting Guidelines](https://susam.net/commenting.html)
 - TechCrunch
+  - [A spyware investigator exposed Russian government hackers trying to hijack Signal accounts](https://techcrunch.com/2026/05/14/a-spyware-investigator-exposed-russian-government-hackers-trying-to-hijack-signal-accounts/)
   - [Anthropic courts a new kind of customer: small business owners](https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/)
   - [Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/)
   - [Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’](https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/)
@@ -334,6 +343,7 @@
   - [Meta AI gets a private mode where no conversation data is stored on servers](https://the-decoder.com/meta-ai-gets-a-private-mode-where-no-conversation-data-is-stored-on-servers/)
   - [Microsoft's Edge Copilot can now read all your open tabs at once and write for you on LinkedIn](https://the-decoder.com/microsofts-edge-copilot-can-now-read-all-your-open-tabs-at-once-and-write-for-you-on-linkedin/)
   - [New Claude Mythos becomes the first AI model to clear all cyberattack simulations from Britain's AI safety agency](https://the-decoder.com/new-claude-mythos-becomes-the-first-ai-model-to-clear-all-cyberattack-simulations-from-britains-ai-safety-agency/)
+  - [Ten Chinese firms including ByteDance reportedly get US clearance for AI chips they're not allowed to accept](https://the-decoder.com/ten-chinese-firms-including-bytedance-reportedly-get-us-clearance-for-ai-chips-theyre-not-allowed-to-accept/)
   - [Tencent plans to ramp up AI spending as China's chip supply allegedly improves](https://the-decoder.com/tencent-plans-to-ramp-up-ai-spending-as-chinas-chip-supply-allegedly-improves/)
 - The Verge
   - [AMD&#8217;s best CPU tech for gamers is coming to workstations too](https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache)
@@ -341,10 +351,12 @@
   - [Dyson put a camera on its purifier so fresh air can follow you around the room](https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy)
   - [Everything at The Criterion Collection is 30 percent off right now](https://www.theverge.com/gadgets/929760/the-criterion-collection-spring-sale-anora-wes-anderson-deal-sale)
   - [Fighting Trump will make or break Disney’s new CEO](https://www.theverge.com/streaming/930009/johh-damaro-disney-trump-fcc-the-view-equal-time-doctrine)
+  - [How companies weaponize the terms of service against you](https://www.theverge.com/podcast/930342/brendan-ballou-companies-courts-forced-arbitration-lawsuits-scalia)
   - [Insta360’s new viewfinder turns the action cam into a retro shooter](https://www.theverge.com/tech/929125/insta360-360-go-3s-retro-bundle-viewfinder-accessory)
   - [I’m obsessed with Forza Horizon 6, and I’ve barely even raced](https://www.theverge.com/entertainment/929816/forza-horizon-6-review-xbox-pc)
   - [Mark Zuckerberg announces &#8216;completely private&#8217; encrypted Meta AI chat](https://www.theverge.com/tech/929791/meta-ai-incognito-chats)
   - [Netflix’s ad ambitions just keep growing](https://www.theverge.com/streaming/929627/netflix-ads-plan-upfront-2026)
+  - [Razer’s Blade 18 is getting a $500 price hike and a new Intel chip](https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip)
   - [The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.](https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it)
   - [Trump administration defends right to ban content moderation experts from US](https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research)
   - [Windows Update will soon automatically roll back faulty drivers](https://www.theverge.com/news/930303/windows-update-automatic-driver-rollback-feature)
@@ -600,6 +612,7 @@
   - [CVE-2025-14869 Improper Validation of Specified Quantity in Input in GitLab](https://vulners.com/cvelist/CVELIST:CVE-2025-14869?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-14870](https://vulners.com/nvd/NVD:CVE-2025-14870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-14870 Allocation of Resources Without Limits or Throttling in GitLab](https://vulners.com/cvelist/CVELIST:CVE-2025-14870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-15025](https://vulners.com/nvd/NVD:CVE-2025-15025?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-15345](https://vulners.com/nvd/NVD:CVE-2025-15345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-15345 MapGeo - Interactive Geo Maps <= 1.6.27 - Reflected Cross-Site Scripting via 'map' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2025-15345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-27850](https://vulners.com/nvd/NVD:CVE-2025-27850?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -643,6 +656,7 @@
   - [CVE-2026-1322 Business Logic Errors in GitLab](https://vulners.com/cvelist/CVELIST:CVE-2026-1322?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-1338](https://vulners.com/nvd/NVD:CVE-2026-1338?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-1338 Authorization Bypass Through User-Controlled Key in GitLab](https://vulners.com/cvelist/CVELIST:CVE-2026-1338?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-1630](https://vulners.com/nvd/NVD:CVE-2026-1630?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-1630 Reflected XSS in WEBCON BPS](https://vulners.com/cve/CVE-2026-1630?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-1630 Reflected XSS in WEBCON BPS](https://vulners.com/cvelist/CVELIST:CVE-2026-1630?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-1659](https://vulners.com/nvd/NVD:CVE-2026-1659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -1011,6 +1025,14 @@
   - [CVE-2026-6335 Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in GitLab](https://vulners.com/cvelist/CVELIST:CVE-2026-6335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6417](https://vulners.com/nvd/NVD:CVE-2026-6417?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6417 GLS Shipping for WooCommerce <= 1.4.0 - Reflected Cross-Site Scripting via 'failed_orders'](https://vulners.com/cvelist/CVELIST:CVE-2026-6417?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6472](https://vulners.com/nvd/NVD:CVE-2026-6472?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6473](https://vulners.com/nvd/NVD:CVE-2026-6473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6474](https://vulners.com/nvd/NVD:CVE-2026-6474?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6475](https://vulners.com/nvd/NVD:CVE-2026-6475?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6476](https://vulners.com/nvd/NVD:CVE-2026-6476?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6477](https://vulners.com/nvd/NVD:CVE-2026-6477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6478](https://vulners.com/nvd/NVD:CVE-2026-6478?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6479](https://vulners.com/nvd/NVD:CVE-2026-6479?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6504](https://vulners.com/circl/CIRCL:CVE-2026-6504?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6504](https://vulners.com/nvd/NVD:CVE-2026-6504?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6506](https://vulners.com/nvd/NVD:CVE-2026-6506?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -1019,6 +1041,9 @@
   - [CVE-2026-6512](https://vulners.com/nvd/NVD:CVE-2026-6512?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6514](https://vulners.com/circl/CIRCL:CVE-2026-6514?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6514](https://vulners.com/nvd/NVD:CVE-2026-6514?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6575](https://vulners.com/nvd/NVD:CVE-2026-6575?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6637](https://vulners.com/nvd/NVD:CVE-2026-6637?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6638](https://vulners.com/nvd/NVD:CVE-2026-6638?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6670](https://vulners.com/circl/CIRCL:CVE-2026-6670?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6670](https://vulners.com/nvd/NVD:CVE-2026-6670?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6883](https://vulners.com/nvd/NVD:CVE-2026-6883?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -1070,6 +1095,7 @@
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/C280267D-26C4-5FC8-9CCC-D638A359564C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for OS Command Injection in Insat Masterscada](https://vulners.com/githubexploit/FB0A9C5D-1E8F-5CAD-AEB7-2C48D4610B5E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [FamousSparrow Targeted Oil and Gas Industry via MS Exchange Server Exploit](https://vulners.com/hackread/HACKREAD:CEBC2B71D643C2824DE566505C3FC5DA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [FortiGate-FortiWeb-Multi-Exploit-Extractor](https://vulners.com/githubexploit/67881ED0-13A9-5546-8E8F-3CD132FD8F59?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2JP3-2923-9H52 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-2JP3-2923-9H52?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2PR8-PHX7-X9H3 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-2PR8-PHX7-X9H3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-38C5-483C-4QQP vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-38C5-483C-4QQP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -1181,6 +1207,7 @@
 - 奇客Solidot–传递最新科技情报
   - [Kickstarter 禁止成人内容](https://www.solidot.org/story?sid=84290)
   - [Windows Update 将自动回滚问题驱动](https://www.solidot.org/story?sid=84292)
+  - [为什么部分人特别招蚊子？](https://www.solidot.org/story?sid=84299)
   - [天文学家观测 120 亿年前极小星系 LAP1-B](https://www.solidot.org/story?sid=84296)
   - [研究发现在出生前接触蔬菜气味帮助婴儿爱上吃蔬菜](https://www.solidot.org/story?sid=84297)
   - [肥胖率在发展中国家加速](https://www.solidot.org/story?sid=84295)
@@ -1206,6 +1233,7 @@
   - [Spotify将印度的订阅套餐价格降低了30%](https://blog.upx8.com/Spotify%E5%B0%86%E5%8D%B0%E5%BA%A6%E7%9A%84%E8%AE%A2%E9%98%85%E5%A5%97%E9%A4%90%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%BD%8E%E4%BA%8630)
   - [Windows Update将很快自动回滚有问题的驱动程序](https://blog.upx8.com/Windows-Update%E5%B0%86%E5%BE%88%E5%BF%AB%E8%87%AA%E5%8A%A8%E5%9B%9E%E6%BB%9A%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F)
   - [三星准备在今年七月推出AI智能眼镜](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E5%87%86%E5%A4%87%E5%9C%A8%E4%BB%8A%E5%B9%B4%E4%B8%83%E6%9C%88%E6%8E%A8%E5%87%BAAI%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C)
+  - [习近平：美国企业在华将拥有更广阔前景](https://blog.upx8.com/%E4%B9%A0%E8%BF%91%E5%B9%B3-%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%9C%A8%E5%8D%8E%E5%B0%86%E6%8B%A5%E6%9C%89%E6%9B%B4%E5%B9%BF%E9%98%94%E5%89%8D%E6%99%AF)
   - [思科宣布裁员数千人 全面押注人工智能](https://blog.upx8.com/%E6%80%9D%E7%A7%91%E5%AE%A3%E5%B8%83%E8%A3%81%E5%91%98%E6%95%B0%E5%8D%83%E4%BA%BA-%E5%85%A8%E9%9D%A2%E6%8A%BC%E6%B3%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD)
   - [法官拒绝立即批准马斯克与SEC的和解协议](https://blog.upx8.com/%E6%B3%95%E5%AE%98%E6%8B%92%E7%BB%9D%E7%AB%8B%E5%8D%B3%E6%89%B9%E5%87%86%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8ESEC%E7%9A%84%E5%92%8C%E8%A7%A3%E5%8D%8F%E8%AE%AE)
   - [波兰坚持数字服务税计划 拒绝美国的威胁](https://blog.upx8.com/%E6%B3%A2%E5%85%B0%E5%9D%9A%E6%8C%81%E6%95%B0%E5%AD%97%E6%9C%8D%E5%8A%A1%E7%A8%8E%E8%AE%A1%E5%88%92-%E6%8B%92%E7%BB%9D%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%A8%81%E8%83%81)
