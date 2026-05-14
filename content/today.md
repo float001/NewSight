@@ -3,8 +3,13 @@
 - 2Libra
   - [618 快到了，行车记录仪大家有推荐的吗](https://2libra.com/post/worth-buying/Z0XeaX8)
   - [只要努力工作，就一定会有美好未来的，对吗](https://2libra.com/post/workplace-stories/RM8kP96)
+- 36氪
+  - [SpaceX的IPO招股说明书最早可能于下周公布](https://36kr.com/newsflashes/3809734330326785?f=rss)
+  - [美股三大指数集体收涨，B站跌超9%](https://36kr.com/newsflashes/3809732348681993?f=rss)
 - 404 Media
   - [DOGE Cuts Unleashed a Deadly Wave of Violence Across Africa, Study Finds](https://www.404media.co/doge-cuts-unleashed-a-deadly-wave-of-violence-across-africa-study-finds/)
+- antirez.com
+  - [A few words on DS4](http://antirez.com/news/165)
 - Ars Technica
   - [Vaporware or not? Aptera assembles its first five validation models.](https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/)
 - daringfireball.net
@@ -12,6 +17,7 @@
   - [Google Announces Its Chromebook Successor: The Googlebook](https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjNVSjlWdlZESmgiLCJwIjoiL3RlY2gvOTI4NDc5L2dvb2dsZS1nb29nbGVib29rLWxhcHRvcHMtYW5kcm9pZC10ZWFzZS1hbHVtaW5pdW0tY2hyb21lYm9vayIsImV4cCI6MTc3OTIxNjg2NiwiaWF0IjoxNzc4Nzg0ODY2fQ.a74WT34THV0Ih1pGO7NH4daq39ytQXdhO4EAgE6HCeI)
   - [Gurman Reports that OpenAI Is Unhappy With Apple Deal](https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight?srnd=undefined&embedded-checkout=true)
   - [Klack](https://tryklack.com/)
+  - [Meta’s New Reality: Record High Profits. Record Low Morale | WIRED](https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/)
   - [New Driver for the Old Griffin PowerMate](https://github.com/jameslockman/Griffin-PowerMate-Driver)
   - [The Trump T1 Phone Starts Shipping This Week, Supposedly](https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week)
   - [Tim Cook Is in Trump’s Executive Entourage for China Summit](https://www.the-independent.com/news/world/americas/us-politics/elon-musk-tim-cook-trump-china-tech-ceo-b2975568.html)
@@ -20,6 +26,7 @@
   - [Maximum Severity Cisco SD-WAN Bug Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited)
   - [SecurityScorecard Snags Driftnet to Level Up Threat Intelligence](https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence)
 - Hacker News Frontpage
+  - [A Few Words on DS4](https://antirez.com/news/165)
   - [Bun's Rust rewrite has been merged](https://old.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/)
   - [Germany's Sovereign Tech Fund Backs KDE with €1.3M](https://www.theregister.com/oses/2026/05/14/kde-bags-13m-as-europe-realizes-it-might-need-an-os-of-its-own/5240562)
   - [God Damn AI is making me dumb](https://jpain.io/god-damn-ai-is-making-me-dumb/)
@@ -32,8 +39,13 @@
   - [Understanding the Linux Kernel: The Linux Kernel Startup](https://internals-for-interns.com/posts/linux-kernel-startup/)
 - IEEE Spectrum
   - [IEEE Society Helps Researchers Meet Their Next Corporate Backer](https://spectrum.ieee.org/ieee-society-pitch-sessions)
+- PromptLayer
+  - [Best prompt management platforms: Features, comparisons, and recommendations](https://blog.promptlayer.com/best-prompt-management-platforms-features-comparisons-and-recommendations/)
 - Security Uncorked
   - [Chrome is Silently Installing 4GB AI Model on Your Device without Consent. Here’s how to find it and remove it.](https://securityuncorked.com/2026/05/how-to-stop-chrome-from-silently-installing-ai-model-on-your-device/)
+- simonwillison.net
+  - [Not so locked in any more](https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything)
+  - [Quoting Mitchell Hashimoto](https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Apache-Shiro-RememberMe-RCE exploit](https://sploitus.com/exploit?id=317E7C82-DB8A-5733-AC2A-587546CDD299&utm_source=rss&utm_medium=rss)
   - [Banking-Application-Vulnerable exploit](https://sploitus.com/exploit?id=03A79318-D4D5-5EF6-81EB-D60A0E1DE54F&utm_source=rss&utm_medium=rss)
@@ -51,11 +63,13 @@
   - [OpenAI says Codex is coming to your phone](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/)
   - [OpenAI says hackers stole some data after latest code security issue](https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/)
   - [What happens when AI starts building itself?](https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/)
+  - [What the jury will actually decide in the case of Elon Musk vs. Sam Altman](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/)
   - [YouTube viewers watch 2 billion hours of Shorts on TVs each month](https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/)
 - The Decoder
   - [Americans would rather live next to a nuclear plant than an AI data center, Gallup poll finds](https://the-decoder.com/americans-would-rather-live-next-to-a-nuclear-plant-than-an-ai-data-center-gallup-poll-finds/)
 - The Verge
   - [Behold, the Elon Musk jackass trophy](https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue)
+  - [Closing time](https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis)
   - [Leaked images reveal Xbox Elite 3 controller with mysterious new buttons](https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images)
   - [Linux devs are fighting the new age-gated internet](https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source)
   - [Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses](https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer)
@@ -191,8 +205,10 @@
   - [CVE-2026-44348](https://vulners.com/nvd/NVD:CVE-2026-44348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44348 PoDoFo: Double-free vulnerability in compute_hash_to_sign()](https://vulners.com/cve/CVE-2026-44348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44348 PoDoFo: Double-free vulnerability in compute_hash_to_sign()](https://vulners.com/cvelist/CVELIST:CVE-2026-44348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44427](https://vulners.com/nvd/NVD:CVE-2026-44427?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44427 MCP Registry: Open Redirect](https://vulners.com/cve/CVE-2026-44427?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44427 MCP Registry: Open Redirect](https://vulners.com/cvelist/CVELIST:CVE-2026-44427?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44428](https://vulners.com/nvd/NVD:CVE-2026-44428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44428 MCP Registry: GitHub OIDC tokens replayable across registry deployments due to shared audience](https://vulners.com/cve/CVE-2026-44428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44428 MCP Registry: GitHub OIDC tokens replayable across registry deployments due to shared audience](https://vulners.com/cvelist/CVELIST:CVE-2026-44428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44429](https://vulners.com/attackerkb/AKB:376BE9BA-2A4E-465F-A873-92902062C390?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -246,6 +262,7 @@
   - [CVE-2026-44666 HRConvert2: Missing Sanitization enables Unauthenticated Remote Command Execution](https://vulners.com/cvelist/CVELIST:CVE-2026-44666?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44670](https://vulners.com/nvd/NVD:CVE-2026-44670?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44670 SiYuan: Stored XSS via Attribute View name to Electron renderer RCE in SiYuan](https://vulners.com/cvelist/CVELIST:CVE-2026-44670?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44671](https://vulners.com/nvd/NVD:CVE-2026-44671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44671 ZITADEL: LDAP Filter Injection in Login Flow](https://vulners.com/cve/CVE-2026-44671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44671 ZITADEL: LDAP Filter Injection in Login Flow](https://vulners.com/cvelist/CVELIST:CVE-2026-44671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44673](https://vulners.com/nvd/NVD:CVE-2026-44673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -274,6 +291,7 @@
   - [CVE-2026-45147 SiYuan: Broken access control in SiYuan `/api/tag/getTag` — Reader role can mutate `Conf.Tag.Sort` and persist to disk](https://vulners.com/cvelist/CVELIST:CVE-2026-45147?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45148](https://vulners.com/nvd/NVD:CVE-2026-45148?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45148 SiYuan: Broken access control in SiYuan publish-mode Readers can enumerate metadata](https://vulners.com/cvelist/CVELIST:CVE-2026-45148?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45248](https://vulners.com/nvd/NVD:CVE-2026-45248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45248 Hedera Guardian Authentication Bypass Information Disclosure](https://vulners.com/cve/CVE-2026-45248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45248 Hedera Guardian Authentication Bypass Information Disclosure](https://vulners.com/cvelist/CVELIST:CVE-2026-45248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45369](https://vulners.com/nvd/NVD:CVE-2026-45369?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -288,6 +306,7 @@
   - [CVE-2026-46469](https://vulners.com/nvd/NVD:CVE-2026-46469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46470](https://vulners.com/nvd/NVD:CVE-2026-46470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6332](https://vulners.com/nvd/NVD:CVE-2026-6332?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6811](https://vulners.com/nvd/NVD:CVE-2026-6811?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6811 PHP Stack Exhaustion](https://vulners.com/cve/CVE-2026-6811?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6811 PHP Stack Exhaustion](https://vulners.com/cvelist/CVELIST:CVE-2026-6811?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6923](https://vulners.com/nvd/NVD:CVE-2026-6923?utm_source=rss&utm_medium=rss&utm_campaign=rss)
