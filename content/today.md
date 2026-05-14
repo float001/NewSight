@@ -1,32 +1,54 @@
 # 今日安全资讯（2026-05-14）
 
 - 2Libra
+  - [个人爆论：*一人公司*是个伪命题，Ai 是工具，有业务才搭配 Ai 才能百倍，只有 Ai 依旧会被淘汰。目前的大部分依旧会被淘汰。](https://2libra.com/post/startup-logs/-ToxAj0)
   - [适合国内基金量化的开源项目有没有推荐的](https://2libra.com/post/tech-qa/FZKjg99)
 - 36氪
   - [8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥](https://36kr.com/p/3808362853834502?f=rss)
+  - [Anthropic推出Claude for Small Business，瞄准中小企业AI应用洼地](https://36kr.com/newsflashes/3808397526998789?f=rss)
+  - [Arm、软银据悉在AI算力公司Cerebras上市前最后关头曾试图收购该公司](https://36kr.com/newsflashes/3808409777446664?f=rss)
   - [A股上市银行分红近6500亿元，净利息收入开始回暖](https://36kr.com/newsflashes/3808357858238211?f=rss)
+  - [FOF总规模突破3500亿元，偏债混合型FOF成主要增量](https://36kr.com/newsflashes/3808406276644613?f=rss)
   - [Meta将在WhatsApp上推出“隐身聊天”功能](https://36kr.com/newsflashes/3807885833330185?f=rss)
   - [一季度我国工程机械产品出口额同比增长24.3%](https://36kr.com/newsflashes/3808358826958340?f=rss)
   - [专项债项目“自审自发”试点扩围落地](https://36kr.com/newsflashes/3808311931313669?f=rss)
+  - [两市融资余额增加229.25亿元](https://36kr.com/newsflashes/3808423535517447?f=rss)
+  - [中信建投：下半年A股将演绎结构性慢牛行情](https://36kr.com/newsflashes/3808396511616520?f=rss)
+  - [中信证券：A股市场科技和能化等行业景气度有望保持高位](https://36kr.com/newsflashes/3808387453525504?f=rss)
   - [中泰证券：水泥行业盈利能力有望逐步修复](https://36kr.com/newsflashes/3808342674513414?f=rss)
+  - [中金：坚定看好A股市场延续震荡上行趋势 关注景气成长与周期改善主线](https://36kr.com/newsflashes/3808410444013062?f=rss)
   - [丹诺医药寻求通过香港IPO募资6.268亿港元](https://36kr.com/newsflashes/3808363556757257?f=rss)
   - [今年累计备案私募证券产品同比增逾50%，私募非传统策略悄然升温](https://36kr.com/newsflashes/3808314154343943?f=rss)
   - [公募存量产品将批量调整业绩比较基准](https://36kr.com/newsflashes/3808313541172737?f=rss)
+  - [年内地方债券发行突破4万亿元](https://36kr.com/newsflashes/3808377357885186?f=rss)
+  - [微软在OpenAI合作项目上投入逾1000亿美元](https://36kr.com/newsflashes/3808390228696835?f=rss)
   - [微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备](https://36kr.com/newsflashes/3808317289832196?f=rss)
   - [德国央行行长：通胀若未改善，欧洲央行加息可能性或上升](https://36kr.com/newsflashes/3808321259527686?f=rss)
+  - [德明利：预计年内存储行业供应仍将保持偏紧状态](https://36kr.com/newsflashes/3808394388397826?f=rss)
+  - [思科在订单激增之际，计划裁员约4000人](https://36kr.com/newsflashes/3808389960588804?f=rss)
   - [思科第三财季净利润34亿美元，同比增长35%](https://36kr.com/newsflashes/3808341013847560?f=rss)
   - [政策、电网招标等因素共振，电力及设备板块上行逻辑坚实](https://36kr.com/newsflashes/3808311212432905?f=rss)
+  - [明牌珠宝：华越芯装目前没有注入上市公司的计划](https://36kr.com/newsflashes/3808427852013057?f=rss)
+  - [机械设备和医药板块关注度升温，机构5月调研挖掘结构性机遇](https://36kr.com/newsflashes/3808403256663808?f=rss)
   - [权益资产回暖推升净值，“10元基”数量增至百只](https://36kr.com/newsflashes/3808310599392770?f=rss)
   - [澳大利亚沃利计划未来两年在数字化与人工智能领域投资7000万澳元](https://36kr.com/newsflashes/3808368683867652?f=rss)
   - [特朗普移动公司开始交付499美元智能手机，在美国组装](https://36kr.com/newsflashes/3808360125112071?f=rss)
+  - [独家对谈｜林琳：一位耶鲁MBA裸辞转行卖保险之后](https://36kr.com/p/3807535484886786?f=rss)
+  - [理财产品提前退场背后：“规模缩水”与“落袋为安”](https://36kr.com/newsflashes/3808384716250884?f=rss)
   - [百济神州：百悦达获美国FDA批准治疗复发/难治套细胞淋巴瘤](https://36kr.com/newsflashes/3808368195018240?f=rss)
+  - [美众院通过法案，允许全美范围内全年销售乙醇汽油](https://36kr.com/newsflashes/3808404238917380?f=rss)
   - [美参议院批准凯文·沃什出任美联储主席](https://36kr.com/newsflashes/3808314857512708?f=rss)
+  - [美联储再次大幅削减国库券购买规模](https://36kr.com/newsflashes/3808409376022019?f=rss)
   - [美股三大指数收盘涨跌不一，热门中概股普涨](https://36kr.com/newsflashes/3808308649041670?f=rss)
+  - [英国监管机构敦促私募信贷机构分享更多数据](https://36kr.com/newsflashes/3808429883399680?f=rss)
+  - [苹果公司据悉探索将AI智能体整合至应用商店](https://36kr.com/newsflashes/3808384370351623?f=rss)
   - [贝莱德向Coinbase转移1.72亿美元加密资产](https://36kr.com/newsflashes/3807886525603584?f=rss)
   - [超八成偏股型基金年内正收益，不同投资风格多元绽放](https://36kr.com/newsflashes/3808373377637895?f=rss)
+  - [重卡销量走高，绿色运力渗透率攀升](https://36kr.com/newsflashes/3808405623627270?f=rss)
   - [阿里吴泳铭：未来三年资本开支可能远超3800亿，可能销售平头哥AI服务器](https://36kr.com/newsflashes/3807869993360902?f=rss)
   - [需求稳步复苏，A股小金属板块公司业绩向好](https://36kr.com/newsflashes/3808341748129282?f=rss)
   - [马斯克旗下xAI据悉联手华尔街机构测试Grok，助力SpaceX上市前增收](https://36kr.com/newsflashes/3808343499726337?f=rss)
+  - [黑石旗下数据中心REIT通过美国IPO筹集17.5亿美元](https://36kr.com/newsflashes/3808385228660232?f=rss)
 - 404 Media
   - [At Least We Know the Washington Post Isn't Buying Views](https://www.404media.co/washington-post-make-it-make-sense-opinion-podcast/)
 - Ars Technica
@@ -52,6 +74,7 @@
   - [Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration](https://www.tryardent.com/)
   - [Making the news available at no cost is a victory](https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/)
   - [Princeton mandates proctoring in-person exams, upending 133 years of precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
+  - [The Other Half of AI Safety](https://personalaisafety.com/p/the-other-half-of-ai-safety)
 - HackerNoon
   - [BASIS.pro Is Live: Base58Labs Officially Launches Crypto Arbitrage Platform](https://hackernoon.com/basispro-is-live-base58labs-officially-launches-crypto-arbitrage-platform?source=rss)
 - idiallo.com
@@ -62,12 +85,18 @@
   - [AI chatbots are giving out people’s real phone numbers](https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/)
 - PromptLayer
   - [MCP vs API: Architecture Patterns for AI Agents and Applications](https://blog.promptlayer.com/mcp-vs-api-architecture-patterns-for-ai-agents-and-applications/)
+  - [n8n alternatives for AI teams: build LLM workflows with prompt chaining](https://blog.promptlayer.com/n8n-alternatives-for-ai-teams-build-llm-workflows-with-prompt-chaining/)
+- rtl-sdr.com
+  - [Saveitforparts: Seeing Satellites with the Discovery Drive and Discovery Dish](https://www.rtl-sdr.com/saveitforparts-seeing-satellites-with-the-discovery-drive-and-discovery-dish/)
 - SentinelOne
   - [The Convergence of Cloud Secrets & AI Risk](https://www.sentinelone.com/blog/the-convergence-of-cloud-secrets-and-ai-risk/)
 - simonwillison.net
   - [Quoting Boris Mann](https://simonwillison.net/2026/May/13/boris-mann/#atom-everything)
   - [Welcome to the Datasette blog](https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [knet-exploit-2013 exploit](https://sploitus.com/exploit?id=B19908EC-32A5-5EAC-82E5-A172DE5B8DE0&utm_source=rss&utm_medium=rss)
+  - [minalic-exploit-2013 exploit](https://sploitus.com/exploit?id=3FF3E5A8-B392-5329-852E-2E861E925918&utm_source=rss&utm_medium=rss)
+  - [pkexec-exploit-2011 exploit](https://sploitus.com/exploit?id=57340A7C-D1FA-53B8-A2F2-00B5E8AFF1E4&utm_source=rss&utm_medium=rss)
   - [Rcon-Bruteforce exploit](https://sploitus.com/exploit?id=31B1835E-F913-5B61-A97B-6A3E01808B64&utm_source=rss&utm_medium=rss)
 - susam.net
   - [Commenting Guidelines](https://susam.net/commenting.html)
@@ -264,6 +293,7 @@
   - [CVE-2026-40976 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-40976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41281](https://vulners.com/cve/CVE-2026-41281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41281](https://vulners.com/cvelist/CVELIST:CVE-2026-41281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41281](https://vulners.com/nvd/NVD:CVE-2026-41281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42304](https://vulners.com/nvd/NVD:CVE-2026-42304?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42304 Twisted: Denial of Service (DoS) in twisted.names via Crafted DNS Compression Pointer Chains](https://vulners.com/cve/CVE-2026-42304?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42304 Twisted: Denial of Service (DoS) in twisted.names via Crafted DNS Compression Pointer Chains](https://vulners.com/cvelist/CVELIST:CVE-2026-42304?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -477,6 +507,9 @@
   - [GHSA-8V8J-3HXP-93WR vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-8V8J-3HXP-93WR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-MQCG-5X36-VFCG vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-MQCG-5X36-VFCG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-W26R-RMM8-9C29 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-W26R-RMM8-9C29?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [knet-exploit-2013](https://vulners.com/githubexploit/B19908EC-32A5-5EAC-82E5-A172DE5B8DE0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [minalic-exploit-2013](https://vulners.com/githubexploit/3FF3E5A8-B392-5329-852E-2E861E925918?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [pkexec-exploit-2011](https://vulners.com/githubexploit/57340A7C-D1FA-53B8-A2F2-00B5E8AFF1E4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Rcon-Bruteforce](https://vulners.com/githubexploit/31B1835E-F913-5B61-A97B-6A3E01808B64?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Vault KVv2 Metadata and Secret Deletion Policy Bypass Denial-of-Service](https://vulners.com/ibm/61FD498903C7C15C5CD5DC04207FC0D2068647185D0FB0D5BED2C1F417C80014?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Vault Vulnerable to Server-Side Request Forgery in ACME Challenge Validation via Attacker-Controlled DNS](https://vulners.com/ibm/CD59D56EE5D61098798205282275A96B9014D8C9EF6BA70E4E536E9738362E86?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -491,5 +524,7 @@
 - 奇客Solidot–传递最新科技情报
   - [Kickstarter 禁止成人内容](https://www.solidot.org/story?sid=84290)
   - [被解雇兄弟删了 96 个数据库](https://www.solidot.org/story?sid=84291)
+- 爱范儿
+  - [早报｜元宝推出一键总结微信聊天/曝苹果探索将AI Agent引入App Store/小米 17 Max官宣本月发布](https://www.ifanr.com/1665809?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Anthropic目前企业客户数量已超过OpenAI](https://blog.upx8.com/Anthropic%E7%9B%AE%E5%89%8D%E4%BC%81%E4%B8%9A%E5%AE%A2%E6%88%B7%E6%95%B0%E9%87%8F%E5%B7%B2%E8%B6%85%E8%BF%87OpenAI)
