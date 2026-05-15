@@ -5,6 +5,7 @@
   - [codex plus 渠道代充都干到 140 了。 不如自己充了；](https://2libra.com/post/ai-applications/CUzT0US)
   - [vibe 了个极限运动进阶指南小网站](https://2libra.com/post/personal-works/7qYNG4S)
   - [【连载】暗黑世界编年史（六）暗黑 4 剧情](https://2libra.com/post/game-discussion/SwO4wGy)
+  - [【💰】mac 去哪买靠谱](https://2libra.com/post/computers-accessories/_N9G0D5)
   - [【💰】【投票】你现在的工作与生活平衡状态是？](https://2libra.com/post/personal-life/mblRPkg)
   - [【💰】卡皮巴拉 徽章](https://2libra.com/post/forum-function/d3h3U6l)
   - [【💰】发现 Tailscale 免费套餐又升级了](https://2libra.com/post/networking/szbzd3Z)
@@ -19,6 +20,7 @@
   - [多管闲事多吃屁](https://2libra.com/post/small-things/O0hbipC)
   - [天气越来越热了，有什么凉鞋推荐的吗？](https://2libra.com/post/worth-buying/atJLjjV)
   - [好消息！好消息！](https://2libra.com/post/network-security/kVlYWlr)
+  - [微信新增快讯 AI 播客功能](https://2libra.com/post/tech-news/IV8_ZHP)
   - [忘记老手机锁屏密码怎么办](https://2libra.com/post/personal-life/bvIR2hY)
   - [我的 V 站账号是不是废了，降权的厉害](https://2libra.com/post/forum-function/YlHGHyE)
   - [我真的喜欢 opus 的直言不讳](https://2libra.com/post/stock-market/4stT9sP)
@@ -168,6 +170,7 @@
   - [现货白银向下跌破83美元/盎司](https://36kr.com/newsflashes/3809818845060608?f=rss)
   - [现货白银日内跌超4%](https://36kr.com/newsflashes/3810107026972160?f=rss)
   - [现货黄金价格跌1.84%](https://36kr.com/newsflashes/3810125177528066?f=rss)
+  - [理想出牌：全新L9上市，45.98万元起｜最前线](https://36kr.com/p/3810562142445058?f=rss)
   - [瑞为技术港股IPO获中国证监会备案](https://36kr.com/newsflashes/3810378070121985?f=rss)
   - [白云机场：4月旅客吞吐量同比增长6.94%](https://36kr.com/newsflashes/3810256913456644?f=rss)
   - [白银有色：股东中信集团拟减持不超1%股份](https://36kr.com/newsflashes/3810375206772231?f=rss)
@@ -216,6 +219,7 @@
 - antirez.com
   - [A few words on DS4](http://antirez.com/news/165)
 - Ars Technica
+  - [Rocket Report: Russia claims success with new ICBM; spaceplane déjà vu in Europe](https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/)
   - [Vaporware or not? Aptera assembles its first five validation models.](https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/)
 - daringfireball.net
   - [Aided by Mythos Preview, Researchers Announce MacOS Kernel Exploit Circumventing M5 Memory Integrity Enforcement](https://blog.calif.io/p/first-public-kernel-memory-corruption)
@@ -274,6 +278,7 @@
   - [POST, PUT, DELETE: Building Custom Requests from Zero](https://infosecwriteups.com/post-put-delete-building-custom-requests-from-zero-abd73dd88d59?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [China-Linked Hackers Deploy New TencShell Malware Against Global Manufacturer](https://www.infosecurity-magazine.com/news/china-hackers-tencshell-malware/)
+  - [Gremlin Stealer Evolves into Modular Threat with Advanced Evasion Capabilities](https://www.infosecurity-magazine.com/news/gremlin-stealer-evolves-into/)
   - [Microsoft Reports Severe Zero-Day Flaw in On-Prem Exchange Servers](https://www.infosecurity-magazine.com/news/microsoft-zeroday-exchange-servers/)
 - johndcook.com
   - [Recovering the state of xorshift128](https://www.johndcook.com/blog/2026/05/15/xorshift128-state/)
@@ -302,6 +307,7 @@
   - [copyfail-exploit exploit](https://sploitus.com/exploit?id=17152BDC-1194-5229-A3F7-EFE51BDF70A8&utm_source=rss&utm_medium=rss)
   - [cyber-security-project- exploit](https://sploitus.com/exploit?id=8B64167D-6441-5D29-B112-05E65CB35E45&utm_source=rss&utm_medium=rss)
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Silverpeas exploit](https://sploitus.com/exploit?id=6372CB47-3394-5E87-B077-64E64CAC05F3&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Craftcms Craft_Cms exploit](https://sploitus.com/exploit?id=18CF3367-A754-58EE-8847-CFC66551F495&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42897 exploit](https://sploitus.com/exploit?id=6D575D35-4574-521C-A014-D7751E0556C5&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=C954251A-D5DC-581F-99D7-C85DE9846EF2&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=E4E784B6-A59D-5F31-AA0B-4BD1AE4C2A25&utm_source=rss&utm_medium=rss)
@@ -851,6 +857,7 @@
   - [CVE-2026-45448 ntopng - CWE-601: URL Redirection to Untrusted Site ('Open Redirect')](https://vulners.com/cve/CVE-2026-45448?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45448 ntopng - CWE-601: URL Redirection to Untrusted Site ('Open Redirect')](https://vulners.com/cvelist/CVELIST:CVE-2026-45448?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45781](https://vulners.com/nvd/NVD:CVE-2026-45781?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46333](https://vulners.com/nvd/NVD:CVE-2026-46333?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46469](https://vulners.com/nvd/NVD:CVE-2026-46469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46470](https://vulners.com/nvd/NVD:CVE-2026-46470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4683](https://vulners.com/nvd/NVD:CVE-2026-4683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -934,6 +941,7 @@
   - [dbt MCP Server Transmits All MCP Tool Arguments Including Raw SQL and --vars Credentials to dbt Labs Telemetry by Default Without Redaction](https://vulners.com/github/GHSA-JJ54-R8GM-2FCF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [dvwa_xss_lab](https://vulners.com/githubexploit/4B2C0596-6628-5476-9821-A8DF2B1FD4A2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Silverpeas](https://vulners.com/githubexploit/6372CB47-3394-5E87-B077-64E64CAC05F3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Code Injection in Craftcms Craft_Cms](https://vulners.com/githubexploit/18CF3367-A754-58EE-8847-CFC66551F495?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42897](https://vulners.com/githubexploit/6D575D35-4574-521C-A014-D7751E0556C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/249FFDA3-A061-5AA5-90A9-00C4EA088C4C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/3BAFBF73-2648-5540-811A-F95C893D4778?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -972,6 +980,7 @@
   - [X-Omega-Hack](https://vulners.com/githubexploit/227D3EFE-B2B3-578D-8AB6-02609AFED56B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta](https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/)
+  - [Best Early Memorial Day Deals: Garmin, Birdfy, Breville (2026)](https://www.wired.com/story/best-memorial-day-deals-2026/)
   - [Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)](https://www.wired.com/story/memorial-day-mattress-deals-2026/)
   - [Bose Promo Code: 40% Off for May 2026](https://www.wired.com/story/bose-coupon-code/)
   - [Coleman Promo Codes and Deals: Up to 75% Off in May](https://www.wired.com/story/coleman-promo-code/)
