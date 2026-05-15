@@ -2,14 +2,21 @@
 
 - Ars Technica
   - [Making cement from a different type of rock could clean up emissions](https://arstechnica.com/science/2026/05/running-the-numbers-on-a-zero-emission-way-to-make-cement/)
+  - [OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say](https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/)
+  - [Preprint server arXiv will ban submitters of AI-generated hallucinations](https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/)
+- daringfireball.net
+  - [Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks](https://aluminium-os.com/)
 - Hacker News Frontpage
   - [Aperio Lang](https://aperio-lang.github.io/aperio/introduction.html)
   - [I designed a nibble-oriented CPU in Verilog to build a scientific calculator](https://github.com/gdevic/FPGA-Calculator)
   - [OpenAI is connecting ChatGPT to bank accounts via Plaid](https://firethering.com/chatgpt-bank-account-plaid-openai/)
   - [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
+  - [Travelers on Air Force One ordered to throw away gifts, phones after China trip](https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/)
   - [U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app](https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/)
 - Horizon3.ai
   - [CVE-2026-0300 | Palo Alto Networks PAN-OS Remote Code Execution | Critical Remote Access Risk](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-0300/)
+- PromptLayer
+  - [LLM-as-a-Judge: How Do You Know If Your AI Is Actually Good?](https://blog.promptlayer.com/llm-as-a-judge-how-do-you-know-if-your-ai-is-actually-good/)
 - Sec-News 安全文摘
   - [MAD Bugs: Finding and Exploiting a 21-Year-Old Vulnerability in PHP](https://govuln.com/news/url/q6ZY)
 - Sploitus.com Exploits RSS Feed
@@ -17,16 +24,21 @@
   - [Exploit for Improper Access Control in Getgrav Grav-Plugin-Admin exploit](https://sploitus.com/exploit?id=158F166C-880D-5FEC-8089-8B70B2D6237A&utm_source=rss&utm_medium=rss)
   - [Exploit for Server-Side Request Forgery in Vercel Next.Js exploit](https://sploitus.com/exploit?id=ED455DFD-3A3F-5522-B7A0-71F215C7F9AD&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [A hotel check-in system left a million passports and driver’s licenses open for anyone to see](https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/)
   - [OpenAI launches ChatGPT for personal finance, will let you connect bank accounts](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/)
+  - [Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up](https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/)
   - [Tesla reveals two Robotaxi crashes involving teleoperators](https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/)
 - The Decoder
   - [Anthropic's $900 billion valuation would make it more valuable than OpenAI for the first time](https://the-decoder.com/anthropics-900-billion-valuation-would-make-it-more-valuable-than-openai-for-the-first-time/)
   - [ChatGPT now wants access to your bank account so it can tell you to stop ordering takeout](https://the-decoder.com/chatgpt-now-wants-access-to-your-bank-account-so-it-can-tell-you-to-stop-ordering-takeout/)
+  - [Google busts the myth that AI search needs its own SEO playbook](https://the-decoder.com/google-busts-the-myth-that-ai-search-needs-its-own-seo-playbook/)
 - The Verge
   - [AI radio hosts demonstrate why AI can’t be trusted alone](https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies)
   - [Does Trump Mobile know how many stripes are on the American flag?](https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes)
   - [Google updates its spam rules to include attempts to ‘manipulate’ AI](https://www.theverge.com/tech/931416/google-ai-search-spam-policy)
   - [One of Intel’s fastest desktop CPUs is $50 off](https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale)
+  - [OpenAI keeps shuffling its executives in bid to win AI agent battle](https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle)
+  - [The Analogue 3D is finally getting save states](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state)
 - VulDB Recent Entries
   - [CVE-2025-14972 | Silabs Simplicity SDK entropy](https://vuldb.com/vuln/364185)
   - [CVE-2025-67437 | Medical Management System Password Reset password recovery](https://vuldb.com/vuln/364194)
@@ -44,6 +56,8 @@
   - [CVE-2026-46508 | vercel turborepo up to 2.9.13999 command injection](https://vuldb.com/vuln/364192)
   - [CVE-2026-8669 | TONYC Imager up to 1.030 on Perl imgif.c Imager::File::GIF out-of-bounds write](https://vuldb.com/vuln/364184)
 - Vulners.com RSS Feed
+  - [arnika is affected by medium-severity issues in UDP rotation, PQC handling, and KMS TLS](https://vulners.com/github/GHSA-RC6V-5RMX-W5MV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [AVideo's Meet plugin: `uploadRecordedVideo.json.php` derives `users_id` from the uploaded filename and calls passwordless `User->login()`, allowing any caller with the Meet shared secret to obtain a session as arbitrary users including admin](https://vulners.com/github/GHSA-QXVM-R42F-5P8J?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Critical: Red Hat Security Advisory: kernel security update](https://vulners.com/redhat/RHSA-2026:17795?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Critical: Red Hat Security Advisory: nginx security update](https://vulners.com/redhat/RHSA-2026:17790?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Critical: Red Hat Security Advisory: nginx security update](https://vulners.com/redhat/RHSA-2026:17791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -87,16 +101,21 @@
   - [CVE-2026-45773](https://vulners.com/nvd/NVD:CVE-2026-45773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45803](https://vulners.com/nvd/NVD:CVE-2026-45803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46383](https://vulners.com/nvd/NVD:CVE-2026-46383?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46474](https://vulners.com/nvd/NVD:CVE-2026-46474?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46474 Trog::TOTP versions before 1.006 for Perl generate secrets using rand](https://vulners.com/cve/CVE-2026-46474?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46474 Trog::TOTP versions before 1.006 for Perl generate secrets using rand](https://vulners.com/cvelist/CVELIST:CVE-2026-46474?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46491](https://vulners.com/cve/CVE-2026-46491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46508](https://vulners.com/nvd/NVD:CVE-2026-46508?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8695](https://vulners.com/nvd/NVD:CVE-2026-8695?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-9074](https://vulners.com/githubexploit/06B62388-F2E7-59FD-9988-85BCD92D61EC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Getgrav Grav-Plugin-Admin](https://vulners.com/githubexploit/158F166C-880D-5FEC-8089-8B70B2D6237A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Server-Side Request Forgery in Vercel Next.Js](https://vulners.com/githubexploit/ED455DFD-3A3F-5522-B7A0-71F215C7F9AD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [kernel: "Dirty Frag" ESP XFRM variant is a new universal Local Privilege Escalation (LPE) vulnerability in the Linux kernel](https://vulners.com/redhat/RHSA-2026:17795-CVE-2026-43284?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Microsoft APM: Windows absolute-path tar member overwrite during legacy-bundle probing in `apm install`](https://vulners.com/github/GHSA-MQ5J-PW29-JCV3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nginx: NGINX: Arbitrary Code Execution Vulnerability](https://vulners.com/redhat/RHSA-2026:17790-CVE-2026-42945?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nginx: NGINX: Arbitrary Code Execution Vulnerability](https://vulners.com/redhat/RHSA-2026:17791-CVE-2026-42945?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [rkyv: Panic safety bugs in `InlineVec::clear` and `SerVec::clear` enable arbitrary code execution](https://vulners.com/github/GHSA-VFVV-C25P-M7MM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [SimpleSAMLphp casserver FileSystemTicketStore path traversal allows out-of-ticket-directory read/unserialize and conditional deletion](https://vulners.com/github/GHSA-JRRG-99XH-5J2Q?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://vulners.com/thn/THN:ABF8D55EC17616A17F41AE04CCAFCABE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: What If...We're In An AI Bubble? (Part 1)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-1/)
