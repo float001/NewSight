@@ -1,9 +1,61 @@
 # 今日安全资讯（2026-05-16）
 
+- Hacker News Frontpage
+  - [OpenAI is connecting ChatGPT to bank accounts via Plaid](https://firethering.com/chatgpt-bank-account-plaid-openai/)
+  - [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
+- Sec-News 安全文摘
+  - [MAD Bugs: Finding and Exploiting a 21-Year-Old Vulnerability in PHP](https://govuln.com/news/url/q6ZY)
 - TechCrunch
   - [OpenAI launches ChatGPT for personal finance, will let you connect bank accounts](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/)
+- The Decoder
+  - [Anthropic's $900 billion valuation would make it more valuable than OpenAI for the first time](https://the-decoder.com/anthropics-900-billion-valuation-would-make-it-more-valuable-than-openai-for-the-first-time/)
+- The Verge
+  - [Does Trump Mobile know how many stripes are on the American flag?](https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes)
+  - [Google updates its spam rules to include attempts to ‘manipulate’ AI](https://www.theverge.com/tech/931416/google-ai-search-spam-policy)
 - VulDB Recent Entries
+  - [CVE-2025-14972 | Silabs Simplicity SDK entropy](https://vuldb.com/vuln/364185)
+  - [CVE-2025-67437 | Medical Management System Password Reset password recovery](https://vuldb.com/vuln/364194)
+  - [CVE-2026-2031 | Google Cloud Internal Integration Platform API prior 2026-01-23 API Endpoint authorization](https://vuldb.com/vuln/364188)
   - [CVE-2026-34253 | vorbis-tools 1.4.3 ogg123 remote.c remotethread stack-based overflow](https://vuldb.com/vuln/364179)
+  - [CVE-2026-35194 | Apache Flink up to 1.20.3/2.0.1/2.1.1/2.2.0 TaskManagers code injection](https://vuldb.com/vuln/364189)
+  - [CVE-2026-38728 | Nodemailer smtp_server up to 3.18.2 lib/smtp-stream.js SMTPStream._write denial of service](https://vuldb.com/vuln/364187)
+  - [CVE-2026-39053 | Oinone Pamirs 7.0.0 XML Parser xml external entity reference](https://vuldb.com/vuln/364186)
+  - [CVE-2026-39054 | Oinone Pamirs 7.0.0 CommandHelper.executeCommands command injection](https://vuldb.com/vuln/364182)
   - [CVE-2026-45736 | websockets ws up to 8.20.0 websocket.close Reason uninitialized resource (GHSA-58qx-3vcg-4xpx)](https://vuldb.com/vuln/364180)
+  - [CVE-2026-45772 | vercel turborepo/codemod/workspaces up to 2.9.13 untrusted search path](https://vuldb.com/vuln/364190)
+  - [CVE-2026-45773 | vercel turborepo up to 2.9.13 cross-site request forgery](https://vuldb.com/vuln/364193)
+  - [CVE-2026-45803 | cli up to 2.91.x control sequence](https://vuldb.com/vuln/364191)
+  - [CVE-2026-46483 | vim up to 9.2.0478 Archive File runtime/autoload/tar.vim Vimuntar os command injection (GHSA-2fpv-9ff7-xg5w)](https://vuldb.com/vuln/364183)
+  - [CVE-2026-46508 | vercel turborepo up to 2.9.13999 command injection](https://vuldb.com/vuln/364192)
+  - [CVE-2026-8669 | TONYC Imager up to 1.030 on Perl imgif.c Imager::File::GIF out-of-bounds write](https://vuldb.com/vuln/364184)
+- Vulners.com RSS Feed
+  - [Critical: Red Hat Security Advisory: nginx security update](https://vulners.com/redhat/RHSA-2026:17790?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Critical: Red Hat Security Advisory: nginx security update](https://vulners.com/redhat/RHSA-2026:17791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-2031](https://vulners.com/nvd/NVD:CVE-2026-2031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-35194](https://vulners.com/nvd/NVD:CVE-2026-35194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41181 Traefik: Errors middleware forwards Authorization and Cookie headers to separate error page service](https://vulners.com/cve/CVE-2026-41181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41181 Traefik: Errors middleware forwards Authorization and Cookie headers to separate error page service](https://vulners.com/cvelist/CVELIST:CVE-2026-41181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41258 OpenMRS: Stored Velocity SSTI to RCE via ConceptReferenceRange](https://vulners.com/cve/CVE-2026-41258?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41258 OpenMRS: Stored Velocity SSTI to RCE via ConceptReferenceRange](https://vulners.com/cvelist/CVELIST:CVE-2026-41258?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42245](https://vulners.com/redhatcve/RH:CVE-2026-42245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42256](https://vulners.com/redhatcve/RH:CVE-2026-42256?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44309 gitsign verify accepts signatures over go-git-normalized bytes, enabling trust confusion on malformed commits](https://vulners.com/cve/CVE-2026-44309?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44309 gitsign verify accepts signatures over go-git-normalized bytes, enabling trust confusion on malformed commits](https://vulners.com/cvelist/CVELIST:CVE-2026-44309?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44310 gitsign --verify panics on empty-certificate PKCS7 and exits 0, bypassing exit-code callers](https://vulners.com/cve/CVE-2026-44310?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44310 gitsign --verify panics on empty-certificate PKCS7 and exits 0, bypassing exit-code callers](https://vulners.com/cvelist/CVELIST:CVE-2026-44310?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44699 LibJWT: Algorithm confusion allows JWT forgery with RSA JWK as empty-key HMAC](https://vulners.com/cve/CVE-2026-44699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44699 LibJWT: Algorithm confusion allows JWT forgery with RSA JWK as empty-key HMAC](https://vulners.com/cvelist/CVELIST:CVE-2026-44699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44774 Traefik: Gateway API TraefikService backend accepts rest@internal, allowing unauthorized exposure of the REST provider despite providers.rest.insecure=false](https://vulners.com/cve/CVE-2026-44774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44774 Traefik: Gateway API TraefikService backend accepts rest@internal, allowing unauthorized exposure of the REST provider despite providers.rest.insecure=false](https://vulners.com/cvelist/CVELIST:CVE-2026-44774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45772](https://vulners.com/nvd/NVD:CVE-2026-45772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45773](https://vulners.com/nvd/NVD:CVE-2026-45773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45803](https://vulners.com/nvd/NVD:CVE-2026-45803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46508](https://vulners.com/nvd/NVD:CVE-2026-46508?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [nginx: NGINX: Arbitrary Code Execution Vulnerability](https://vulners.com/redhat/RHSA-2026:17790-CVE-2026-42945?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [nginx: NGINX: Arbitrary Code Execution Vulnerability](https://vulners.com/redhat/RHSA-2026:17791-CVE-2026-42945?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- wheresyoured.at
+  - [Premium: What If...We're In An AI Bubble? (Part 1)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-1/)
+- Wired
+  - [The Chinese App That Puts Instagram to Shame](https://www.wired.com/story/rednote-beats-instagram-tourism-infrastructure-china/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
