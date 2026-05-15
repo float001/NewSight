@@ -2,10 +2,33 @@
 
 - 2Libra
   - [618 快到了，行车记录仪大家有推荐的吗](https://2libra.com/post/worth-buying/Z0XeaX8)
+  - [做剪辑视频](https://2libra.com/post/recommendations/Wafynei)
   - [只要努力工作，就一定会有美好未来的，对吗](https://2libra.com/post/workplace-stories/RM8kP96)
+  - [多管闲事多吃屁](https://2libra.com/post/small-things/O0hbipC)
 - 36氪
+  - [4月再融资项目受理量创年内单月新高，科创板、创业板受理数量最多](https://36kr.com/newsflashes/3809749767888646?f=rss)
+  - [8点1氪丨周大福回应金饰又涨价；韩国一季度未成年人股票账户暴涨近十倍；张雪机车820RR暂停生产交付](https://36kr.com/p/3809785128869641?f=rss)
+  - [iPhone17 Pro系列全线下调1000元](https://36kr.com/newsflashes/3809793903910656?f=rss)
   - [SpaceX的IPO招股说明书最早可能于下周公布](https://36kr.com/newsflashes/3809734330326785?f=rss)
+  - [xAI正式推出Grok Build早期测试版](https://36kr.com/newsflashes/3809750061194752?f=rss)
+  - [“海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示](https://36kr.com/newsflashes/3809763102072578?f=rss)
+  - [业绩预告频频“失准”，多家公司收到监管函](https://36kr.com/newsflashes/3809757706739202?f=rss)
+  - [中国黄金国际：一季度净溢利2.36亿美元，创历史新高](https://36kr.com/newsflashes/3809753188048646?f=rss)
+  - [云顶新耀：董事兼主要股东增持2070万港元公司股份](https://36kr.com/newsflashes/3809752538455553?f=rss)
+  - [五家银行A股IPO候场，一季报业绩表现分化](https://36kr.com/newsflashes/3809783286291973?f=rss)
+  - [今年以来券商罚单透视：经纪业务成违规“重灾区”](https://36kr.com/newsflashes/3809760423812609?f=rss)
+  - [今年已有20家公司IPO终止](https://36kr.com/newsflashes/3809767087873536?f=rss)
+  - [公募机构推出ETF主题产品，布局农业赛道](https://36kr.com/newsflashes/3809770281344519?f=rss)
+  - [北交所新股发行迎改革窗口期，市值打新成市场关注焦点](https://36kr.com/newsflashes/3809753689677577?f=rss)
+  - [合捷电器递表港交所](https://36kr.com/newsflashes/3809751079722757?f=rss)
+  - [多路外资齐聚，A股公司获重新“扫描”](https://36kr.com/newsflashes/3809754728504837?f=rss)
+  - [安序源科技递表港交所](https://36kr.com/newsflashes/3809751375781634?f=rss)
+  - [明天起，机票燃油附加费上调](https://36kr.com/newsflashes/3809773171678976?f=rss)
+  - [汇丰：澳大利亚房价将走低](https://36kr.com/newsflashes/3809787402165767?f=rss)
+  - [澳大利亚表示不会实施天然气市场出口管制](https://36kr.com/newsflashes/3809776526712324?f=rss)
+  - [美联储理事巴尔称缩表是“错误目标”，与候任主席沃什主张背道而驰](https://36kr.com/newsflashes/3809763595984388?f=rss)
   - [美股三大指数集体收涨，B站跌超9%](https://36kr.com/newsflashes/3809732348681993?f=rss)
+  - [韩国财长称将努力稳定房地产市场](https://36kr.com/newsflashes/3809772427632131?f=rss)
 - 404 Media
   - [DOGE Cuts Unleashed a Deadly Wave of Violence Across Africa, Study Finds](https://www.404media.co/doge-cuts-unleashed-a-deadly-wave-of-violence-across-africa-study-finds/)
 - antirez.com
@@ -13,6 +36,7 @@
 - Ars Technica
   - [Vaporware or not? Aptera assembles its first five validation models.](https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/)
 - daringfireball.net
+  - [Aided by Mythos Preview, Researchers Announce MacOS Kernel Exploit Circumventing M5 Memory Integrity Enforcement](https://blog.calif.io/p/first-public-kernel-memory-corruption)
   - [Geoffrey Fowler and the Launch of the Youth AI Safety Institute](https://geoffreyfowler.substack.com/p/what-is-ai-doing-to-our-kids-im-going)
   - [Google Announces Its Chromebook Successor: The Googlebook](https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjNVSjlWdlZESmgiLCJwIjoiL3RlY2gvOTI4NDc5L2dvb2dsZS1nb29nbGVib29rLWxhcHRvcHMtYW5kcm9pZC10ZWFzZS1hbHVtaW5pdW0tY2hyb21lYm9vayIsImV4cCI6MTc3OTIxNjg2NiwiaWF0IjoxNzc4Nzg0ODY2fQ.a74WT34THV0Ih1pGO7NH4daq39ytQXdhO4EAgE6HCeI)
   - [Gurman Reports that OpenAI Is Unhappy With Apple Deal](https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight?srnd=undefined&embedded-checkout=true)
@@ -383,3 +407,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [科学家首次从直立人化石中提取出遗传信息](https://www.solidot.org/story?sid=84302)
+- 黑海洋
+  - [亚马逊豪赌AI开始获回报 市值逼近3万亿美元](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%B1%AA%E8%B5%8CAI%E5%BC%80%E5%A7%8B%E8%8E%B7%E5%9B%9E%E6%8A%A5-%E5%B8%82%E5%80%BC%E9%80%BC%E8%BF%913%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
