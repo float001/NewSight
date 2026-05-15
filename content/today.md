@@ -90,6 +90,7 @@
   - [今年已有20家公司IPO终止](https://36kr.com/newsflashes/3809767087873536?f=rss)
   - [仙工智能港股IPO获中国证监会备案](https://36kr.com/newsflashes/3810379816296192?f=rss)
   - [佰维存储：拟为海光芯正代工光电互联产品 并提供不超过2亿元财务资助用于原材料采购](https://36kr.com/newsflashes/3810430645870339?f=rss)
+  - [先锋新材：公司及相关当事人收到《行政处罚事先告知书》](https://36kr.com/newsflashes/3810532133740293?f=rss)
   - [全新理想L9 上市，售价45.98万起](https://36kr.com/newsflashes/3810314391100931?f=rss)
   - [公募机构推出ETF主题产品，布局农业赛道](https://36kr.com/newsflashes/3809770281344519?f=rss)
   - [创业板指涨逾1%](https://36kr.com/newsflashes/3809976853683968?f=rss)
@@ -107,6 +108,7 @@
   - [台积电宣布出售世界先进8.1%股权](https://36kr.com/newsflashes/3810235405983495?f=rss)
   - [合捷电器递表港交所](https://36kr.com/newsflashes/3809751079722757?f=rss)
   - [吉祥航空：4月旅客周转量同比上升2.95%](https://36kr.com/newsflashes/3810376935972613?f=rss)
+  - [同花顺：股东拟合计减持不超0.54%股份](https://36kr.com/newsflashes/3810501093236226?f=rss)
   - [国家外汇管理局：一季度，我国经常账户顺差12821亿元](https://36kr.com/newsflashes/3810330947149573?f=rss)
   - [国常会：听取贯彻落实中央城市工作会议部署和实施城市更新进展情况汇报](https://36kr.com/newsflashes/3810449157774851?f=rss)
   - [外交部：中方愿同英方保持密切交往和对话](https://36kr.com/newsflashes/3810258469920518?f=rss)
@@ -119,14 +121,17 @@
   - [奥比中光：控股股东及其一致行动人等拟减持公司不超1.5421%股份](https://36kr.com/newsflashes/3810464886316800?f=rss)
   - [安序源科技递表港交所](https://36kr.com/newsflashes/3809751375781634?f=rss)
   - [宏达电子：参股公司江苏展芯创业板IPO申请获深交所审议通过](https://36kr.com/newsflashes/3810336584916484?f=rss)
+  - [巨力索具：因涉嫌信息披露误导性陈述违法违规被证监会立案](https://36kr.com/newsflashes/3810538747649798?f=rss)
   - [广州港南沙港区五期工程正式开工，集装箱吞吐能力未来将达3500万标准箱](https://36kr.com/newsflashes/3809931136868103?f=rss)
   - [恒指午间休盘跌0.87%，恒生科技指数跌1.26%](https://36kr.com/newsflashes/3810029496180480?f=rss)
   - [恒指开盘涨0.01%，恒生科技指数跌0.13%](https://36kr.com/newsflashes/3809871962300168?f=rss)
   - [恒指收跌1.62%，恒生科技指数跌2.66%](https://36kr.com/newsflashes/3810274127306246?f=rss)
   - [恒生科技指数午后跌幅扩大至3%](https://36kr.com/newsflashes/3810139986763272?f=rss)
   - [恒生科技指数跌幅扩大至2%](https://36kr.com/newsflashes/3809954359992067?f=rss)
+  - [恒逸石化：拟投资257亿元建设年产240万吨煤制乙二醇项目](https://36kr.com/newsflashes/3810504658607621?f=rss)
   - [抖音商城618百亿补贴、亿级流量扶持商家](https://36kr.com/newsflashes/3810081424744193?f=rss)
   - [抢跑618，iPhone 17 Pro系列首次官方降价](https://36kr.com/newsflashes/3809908500225540?f=rss)
+  - [招商轮船：子公司拟追加8.03亿元增持安通控股股份](https://36kr.com/newsflashes/3810529206328838?f=rss)
   - [挪瓦咖啡2025年营收7至8亿元，利润约为6千万元 | 独家](https://36kr.com/p/3800419059555584?f=rss)
   - [日本财务大臣片山皋月否认需要编制额外预算](https://36kr.com/newsflashes/3809988386250498?f=rss)
   - [明天起，机票燃油附加费上调](https://36kr.com/newsflashes/3809773171678976?f=rss)
@@ -156,6 +161,7 @@
   - [澳大利亚表示不会实施天然气市场出口管制](https://36kr.com/newsflashes/3809776526712324?f=rss)
   - [澳洲法官限令特斯拉7月底前完成对其集体诉讼的调查取证](https://36kr.com/newsflashes/3810238438711044?f=rss)
   - [澳门：一季度GDP修订数值为1075.6亿澳门元，按年实质增长7.1%](https://36kr.com/newsflashes/3810283769355780?f=rss)
+  - [热门中概股美股盘前集体走弱，阿里巴巴跌超3%](https://36kr.com/newsflashes/3810557255425542?f=rss)
   - [独家对谈｜广告人小马宋的烟火与锋芒：非精英们的精英生存指南](https://36kr.com/p/3807543008698118?f=rss)
   - [现货白银向下跌破83美元/盎司](https://36kr.com/newsflashes/3809818845060608?f=rss)
   - [现货白银日内跌超4%](https://36kr.com/newsflashes/3810107026972160?f=rss)
@@ -170,17 +176,20 @@
   - [美国总统特朗普结束访华，将乘专机离开北京](https://36kr.com/newsflashes/3810148471774977?f=rss)
   - [美联储理事巴尔称缩表是“错误目标”，与候任主席沃什主张背道而驰](https://36kr.com/newsflashes/3809763595984388?f=rss)
   - [美股三大指数集体收涨，B站跌超9%](https://36kr.com/newsflashes/3809732348681993?f=rss)
+  - [美股大型科技股盘前普跌，英特尔跌超5%](https://36kr.com/newsflashes/3810550979436293?f=rss)
   - [美证券交易委员会已与印度富豪阿达尼就一项民事欺诈诉讼达成和解](https://36kr.com/newsflashes/3810154113457666?f=rss)
   - [股价大跌因“谈价失败”？胜宏科技回应：不实信息](https://36kr.com/newsflashes/3810143610658305?f=rss)
   - [腾讯地图上线骑手模式](https://36kr.com/newsflashes/3810220230713088?f=rss)
   - [证监会召开资本市场支持现代服务业和新型消费企业发展座谈会](https://36kr.com/newsflashes/3810357595446793?f=rss)
   - [证监会同意华润新能源深市主板IPO注册](https://36kr.com/newsflashes/3810355582639876?f=rss)
   - [证监会：过去一年投资者保护工作持续提质增效，为市场信心增强和经济高质量发展贡献了积极力量](https://36kr.com/newsflashes/3810440182439685?f=rss)
+  - [郑栅洁主任会见波音公司总裁兼首席执行官奥特伯格](https://36kr.com/newsflashes/3810513299348997?f=rss)
   - [金山云旗下云界瞬联科技公司增资至8.9亿，增幅约76%](https://36kr.com/newsflashes/3810025415187972?f=rss)
   - [金融监管总局：一季度末保险公司和保险资产管理公司总资产42.5万亿元，较年初增长2.8%](https://36kr.com/newsflashes/3810471758683657?f=rss)
   - [金融监管总局：一季度末我国银行业金融机构本外币资产总额494.7万亿元，同比增长8.0%](https://36kr.com/newsflashes/3810471319690756?f=rss)
   - [铠侠：正为发行美国存托股票（ADS）上市做准备](https://36kr.com/newsflashes/3810188168994306?f=rss)
   - [长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家](https://36kr.com/p/3810091479293449?f=rss)
+  - [长春高新：子公司GenSci161注射液获美国FDA批准开展临床试验](https://36kr.com/newsflashes/3810507192639235?f=rss)
   - [长盛轴承：拟约2.3亿元购买土地使用权并投资建设项目](https://36kr.com/newsflashes/3810464209116675?f=rss)
   - [长续航Model Y价格上调1.8万元？特斯拉中国：假消息](https://36kr.com/newsflashes/3810132067229186?f=rss)
   - [阳光人寿等在北京成立前沿科创股权投资基金中心，出资额35亿](https://36kr.com/newsflashes/3810179645710082?f=rss)
@@ -194,12 +203,14 @@
   - [香港经济今年第一季度强势扩张](https://36kr.com/newsflashes/3810302518386185?f=rss)
   - [香港：4月初步访港旅客为421.73万人次，按年升10%](https://36kr.com/newsflashes/3810247912611329?f=rss)
   - [高德红外：签订1.03亿元综合光电系统产品订货合同](https://36kr.com/newsflashes/3810352035847687?f=rss)
+  - [麦肯锡推行人工智能时代薪酬改革，削减合伙人现金分红比例](https://36kr.com/newsflashes/3810508672458248?f=rss)
   - [麦肯锡薪酬架构改革，削减合伙人现金薪酬比例](https://36kr.com/newsflashes/3810060983868936?f=rss)
   - [麦记牛奶谢永亮：2025年是唯一窗口期，糖水赛道胜负已定｜厚雪专访](https://36kr.com/p/3809931035844359?f=rss)
   - [鼎泰高科港股上市获中国证监会备案](https://36kr.com/newsflashes/3810377535512321?f=rss)
   - [齐云山食品港股IPO获中国证监会备案](https://36kr.com/newsflashes/3810389065211392?f=rss)
 - 404 Media
   - [DOGE Cuts Unleashed a Deadly Wave of Violence Across Africa, Study Finds](https://www.404media.co/doge-cuts-unleashed-a-deadly-wave-of-violence-across-africa-study-finds/)
+  - [Mayo Clinic is Using AI to Listen to Emergency Room Visits](https://www.404media.co/mayo-clinic-is-using-ai-to-listen-to-emergency-room-visits/)
 - antirez.com
   - [A few words on DS4](http://antirez.com/news/165)
 - Ars Technica
@@ -224,6 +235,8 @@
   - [Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems](https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps)
 - defend.network
   - [Daily Threat Briefing – May 15, 2026](https://defend.network/briefings/cisco-sd-wan-critical-rce-supply-chain-2026-05-15.html)
+- Fidelis Security
+  - [How Hybrid Work and Cloud Adoption Are Changing Enterprise Ransomware Risk](https://fidelissecurity.com/threatgeek/threat-detection-response/enterprise-ransomware-protection-in-hybrid-and-cloud-era/)
 - Hacker News Frontpage
   - [A Few Words on DS4](https://antirez.com/news/165)
   - [Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?](https://news.ycombinator.com/item?id=48145524)
@@ -245,6 +258,7 @@
   - [“幽灵写手” 利用地理围栏 PDF 钓鱼和 “钴蓝突击” 瞄准乌克兰政府](http://0.0.0.0:8080/post/64252)
 - IEEE Spectrum
   - [IEEE Society Helps Researchers Meet Their Next Corporate Backer](https://spectrum.ieee.org/ieee-society-pitch-sessions)
+  - [Striking New Views of the First Atomic Bomb Test](https://spectrum.ieee.org/trinity-nuclear-test)
 - InfoSec Write-ups - Medium
   - [Access to members-only YouTube video content](https://infosecwriteups.com/access-to-members-only-youtube-video-content-6f5d951da209?source=rss----7b722bfd1b8d---4)
   - [From Vercel Typosquatting to an Obfuscated macOS Malware Loader](https://infosecwriteups.com/from-vercel-typosquatting-to-an-obfuscated-macos-malware-loader-0949c7305a5a?source=rss----7b722bfd1b8d---4)
@@ -255,12 +269,23 @@
   - [POST, PUT, DELETE: Building Custom Requests from Zero](https://infosecwriteups.com/post-put-delete-building-custom-requests-from-zero-abd73dd88d59?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [China-Linked Hackers Deploy New TencShell Malware Against Global Manufacturer](https://www.infosecurity-magazine.com/news/china-hackers-tencshell-malware/)
+  - [Microsoft Reports Severe Zero-Day Flaw in On-Prem Exchange Servers](https://www.infosecurity-magazine.com/news/microsoft-zeroday-exchange-servers/)
+- johndcook.com
+  - [Recovering the state of xorshift128](https://www.johndcook.com/blog/2026/05/15/xorshift128-state/)
+- MIT Technology Review
+  - [The Download: China’s AI drama factory and the WHO’s missing health targets](https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/)
+- pluralistic.net
+  - [Pluralistic: No one wants a permanent gerontocracy (15 May 2026)](https://pluralistic.net/2026/05/15/not-ok-boomer/)
+- Product Hunt
+  - [Tiny World Builder](https://www.producthunt.com/products/tiny-world-builder)
 - PromptLayer
   - [Best prompt management platforms: Features, comparisons, and recommendations](https://blog.promptlayer.com/best-prompt-management-platforms-features-comparisons-and-recommendations/)
 - Recent Commits to cve:main
   - [Update Fri May 15 11:49:50 UTC 2026](https://github.com/trickest/cve/commit/ed6dc0bf105b4878bd9be7582ea2d2a955547f20)
 - Security Uncorked
   - [Chrome is Silently Installing 4GB AI Model on Your Device without Consent. Here’s how to find it and remove it.](https://securityuncorked.com/2026/05/how-to-stop-chrome-from-silently-installing-ai-model-on-your-device/)
+- SentinelOne
+  - [The Good, the Bad and the Ugly in Cybersecurity – Week 20](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-20-7/)
 - shkspr.mobi
   - [UK Government Kicks Out Palantir](https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/)
 - simonwillison.net
@@ -279,6 +304,7 @@
   - [Exploit for Missing Authentication for Critical Function in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=9F4FA4D1-83CA-502D-B410-EA396C1A02AC&utm_source=rss&utm_medium=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=0E4A34FC-02A4-5F1E-8BC6-C1D7432EAFB2&utm_source=rss&utm_medium=rss)
   - [OrchidMantis exploit](https://sploitus.com/exploit?id=AE196C5F-21BA-5E96-9153-ECDA5BF61BA2&utm_source=rss&utm_medium=rss)
+  - [SECpocs exploit](https://sploitus.com/exploit?id=4967CC14-FD31-5DAA-9346-7EA75D47DD43&utm_source=rss&utm_medium=rss)
   - [shadow-pentest exploit](https://sploitus.com/exploit?id=F1CE2A81-BFB1-5B60-AEFB-35DC4D23F0F4&utm_source=rss&utm_medium=rss)
   - [Vulnerability-Exploit-Correlation-Engine exploit](https://sploitus.com/exploit?id=3D01EEDF-77BF-59C4-B3FF-BA52FA9A53AD&utm_source=rss&utm_medium=rss)
   - [X-Omega-Hack exploit](https://sploitus.com/exploit?id=227D3EFE-B2B3-578D-8AB6-02609AFED56B&utm_source=rss&utm_medium=rss)
@@ -288,18 +314,23 @@
   - [Elon Musk’s SpaceXAI has been bleeding staff since its merger](https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/)
   - [Indian Uber rival Rapido raises $240M at $3B valuation](https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/)
   - [Lovable just backed a company that’s looking to bring vibe coding to hardware](https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/)
+  - [Meridian Ventures launched $35M fund to back MBA-deferred founders](https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/)
   - [OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned](https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/)
   - [OpenAI says Codex is coming to your phone](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/)
   - [OpenAI says hackers stole some data after latest code security issue](https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/)
+  - [Osaurus brings both local and cloud AI models to your Mac](https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/)
   - [What happens when AI starts building itself?](https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/)
   - [What the jury will actually decide in the case of Elon Musk vs. Sam Altman](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/)
   - [YouTube viewers watch 2 billion hours of Shorts on TVs each month](https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/)
 - The Decoder
   - [Americans would rather live next to a nuclear plant than an AI data center, Gallup poll finds](https://the-decoder.com/americans-would-rather-live-next-to-a-nuclear-plant-than-an-ai-data-center-gallup-poll-finds/)
+  - [Arxiv cracks down on unchecked AI-generated content in research papers](https://the-decoder.com/arxiv-tightens-penalties-for-ai-bungling-in-scientific-papers/)
+  - [Microsoft pulls Claude Code licenses and pushes developers back toward its own AI tool](https://the-decoder.com/microsoft-pulls-claude-code-licenses-and-pushes-developers-back-toward-its-own-ai-tool/)
   - [OpenAI makes its AI coding assistant Codex available on iOS and Android](https://the-decoder.com/openai-makes-its-ai-coding-assistant-codex-available-on-ios-and-android/)
 - The Verge
   - [AI research papers are getting better, and it’s a big problem for scientists](https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem)
   - [Behold, the Elon Musk jackass trophy](https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue)
+  - [Bose&#8217;s new Lifestyle Ultra speakers are now available](https://www.theverge.com/gadgets/930471/bose-lifestyle-ultra-speaker-soundbar-subwoofer-price-release-date-availability)
   - [Closing time](https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis)
   - [Leaked images reveal Xbox Elite 3 controller with mysterious new buttons](https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images)
   - [Linux devs are fighting the new age-gated internet](https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source)
@@ -308,6 +339,7 @@
   - [Metroid Prime 4: Beyond got its first big discount](https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale)
   - [Microsoft starts canceling Claude Code licenses](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad)
   - [Subnautica 2 is having a huge launch on Steam](https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox)
+  - [X agrees to crack down on illegal hate and terror content in the UK](https://www.theverge.com/tech/931147/x-illegal-hate-terror-content-ofcom-commitments)
 - VulDB Recent Entries
   - [CVE-2024-21950 | AMD Instinct MI300X out-of-bounds](https://vuldb.com/vuln/364123)
   - [CVE-2024-36323 | AMD Radeon RX 7000 Graphics Products VCN-JPEG HW Register Space improper authorization](https://vuldb.com/vuln/364127)
@@ -619,6 +651,8 @@
   - [CVE-2026-4094](https://vulners.com/nvd/NVD:CVE-2026-4094?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41315](https://vulners.com/nvd/NVD:CVE-2026-41315?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41315 mdserver-web: Missing Authorization and Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')](https://vulners.com/cvelist/CVELIST:CVE-2026-41315?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41552 Path Traversal in PDF Export Module](https://vulners.com/cvelist/CVELIST:CVE-2026-41552?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41553 Remote Code Execution in PDF Export Module](https://vulners.com/cvelist/CVELIST:CVE-2026-41553?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41615](https://vulners.com/nvd/NVD:CVE-2026-41615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41635 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-41635?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41702](https://vulners.com/nvd/NVD:CVE-2026-41702?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -818,6 +852,7 @@
   - [CVE-2026-6966 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-6966?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6967 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-6967?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7046](https://vulners.com/nvd/NVD:CVE-2026-7046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7182 Path Traversal in Diagram](https://vulners.com/cvelist/CVELIST:CVE-2026-7182?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7373](https://vulners.com/nvd/NVD:CVE-2026-7373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7563](https://vulners.com/nvd/NVD:CVE-2026-7563?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7563 Classified Listing <= 5.3.10 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Modification via add_order_note and send_email_to_user_by_moderator AJAX Actions](https://vulners.com/cve/CVE-2026-7563?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -825,6 +860,8 @@
   - [CVE-2026-7805](https://vulners.com/nvd/NVD:CVE-2026-7805?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8398](https://vulners.com/nvd/NVD:CVE-2026-8398?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8425](https://vulners.com/nvd/NVD:CVE-2026-8425?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8454](https://vulners.com/nvd/NVD:CVE-2026-8454?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8503](https://vulners.com/nvd/NVD:CVE-2026-8503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8557](https://vulners.com/nvd/NVD:CVE-2026-8557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8558](https://vulners.com/nvd/NVD:CVE-2026-8558?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8559](https://vulners.com/nvd/NVD:CVE-2026-8559?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -905,6 +942,7 @@
   - [On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email](https://vulners.com/thn/THN:447FEC50CA106F9CB4074F9C587F2AFE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenEXR: OpenEXR: Arbitrary code execution and information disclosure via crafted EXR file](https://vulners.com/redhat/RHSA-2026:17659-CVE-2026-34588?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OrchidMantis](https://vulners.com/githubexploit/AE196C5F-21BA-5E96-9153-ECDA5BF61BA2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [SECpocs](https://vulners.com/githubexploit/4967CC14-FD31-5DAA-9346-7EA75D47DD43?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [shadow-pentest](https://vulners.com/githubexploit/F1CE2A81-BFB1-5B60-AEFB-35DC4D23F0F4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets](https://vulners.com/thn/THN:7E008AC2F41F8784721A7FC21B43DBC0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vm2 Has a Sandbox Breakout Using Async Generator](https://vulners.com/github/GHSA-248R-7H7Q-CR24?utm_source=rss&utm_medium=rss&utm_campaign=rss)
