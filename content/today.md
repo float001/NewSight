@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-05-17）
 
+- 2Libra
+  - [【投票】Mac 上使用的截图工具](https://2libra.com/post/sharing-discoveries/aYMdYY3)
 - simonwillison.net
   - [Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -41,6 +43,11 @@
   - [CVE-2026-8751 | h2oai h2o-3 up to 7402 JAR Model.java importBinaryModel deserialization](https://vuldb.com/vuln/364378)
   - [CVE-2026-8752 | h2oai h2o-3 up to 7402 Rapids setproperty Primitive AstSetProperty.java exec access control](https://vuldb.com/vuln/364379)
   - [CVE-2026-8753 | kalcaddle Kodbox up to 1.64 fileThumb Plugin VideoResize.class.php parseVideoInfo ffmpegBin command injection](https://vuldb.com/vuln/364380)
+  - [CVE-2026-8754 | AstrBotDevs AstrBot up to 4.23.5 File Upload chat.py post_file filename path traversal](https://vuldb.com/vuln/364381)
+  - [CVE-2026-8755 | fishaudio Bert-VITS2 up to 8f7fbd8c4770965225d258db548da27dc8dd934c Model hiyoriUI.py _get_all_models path traversal](https://vuldb.com/vuln/364382)
+  - [CVE-2026-8756 | fishaudio Bert-VITS2 up to 8f7fbd8c4770965225d258db548da27dc8dd934c Gradio Interface webui_preprocess.py generate_config data_dir path traversal](https://vuldb.com/vuln/364383)
+  - [CVE-2026-8757 | adenhq hive up to 0.11.0 Delete Request routes_sessions.py _read_events_tail path traversal](https://vuldb.com/vuln/364384)
+  - [CVE-2026-8758 | Metasoft 美特软件 MetaCRM up to 6.4.0 Beta06 /common/jsp/upload3.jsp File unrestricted upload](https://vuldb.com/vuln/364385)
 - Vulners.com RSS Feed
   - [CVE-2020-37227](https://vulners.com/nvd/NVD:CVE-2020-37227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2020-37228](https://vulners.com/nvd/NVD:CVE-2020-37228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -85,6 +92,7 @@
   - [CVE-2021-47981](https://vulners.com/nvd/NVD:CVE-2021-47981?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ebpf-cve-analysis](https://vulners.com/githubexploit/D2164002-C940-55C0-9AC7-FB677E0DF7A2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2022-38694](https://vulners.com/githubexploit/B9031C45-1D3A-536E-A5A4-8D236B32EB56?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Path Traversal in Git-Scm Git](https://vulners.com/githubexploit/137BF8D2-259C-552D-B94B-B1A9C6D470E1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/8A220C63-B8DE-5273-85D0-21F1B20930E3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
