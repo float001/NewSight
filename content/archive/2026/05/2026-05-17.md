@@ -5,11 +5,17 @@
 - simonwillison.net
   - [Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [bleak exploit](https://sploitus.com/exploit?id=54AC5BAB-0421-5A0E-972E-5FDFC651924C&utm_source=rss&utm_medium=rss)
   - [ebpf-cve-analysis exploit](https://sploitus.com/exploit?id=D2164002-C940-55C0-9AC7-FB677E0DF7A2&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=B64D6F51-68A9-5171-AE7E-7B669615BA5B&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2021-33393 exploit](https://sploitus.com/exploit?id=128F7126-AAFF-5996-83F6-CD7CC5FABEF0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2022-38694 exploit](https://sploitus.com/exploit?id=B9031C45-1D3A-536E-A5A4-8D236B32EB56&utm_source=rss&utm_medium=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=8A220C63-B8DE-5273-85D0-21F1B20930E3&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Research repository ArXiv will ban authors for a year if they let AI do all the work](https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/)
   - [The offline desk gadget that actually got me to sit up straight](https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/)
+- The Verge
+  - [Snap, YouTube, and TikTok settle suit over harm to students](https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools)
 - VulDB Recent Entries
   - [CVE-2020-37238 | CMS Made Simple 2.2.15 SVG File cross site scripting (Exploit 49199)](https://vuldb.com/vuln/364374)
   - [CVE-2020-37239 | Gegl libbabl 0.1.62 babl_free double free (Exploit 49259)](https://vuldb.com/vuln/364355)
@@ -49,6 +55,7 @@
   - [CVE-2026-8757 | adenhq hive up to 0.11.0 Delete Request routes_sessions.py _read_events_tail path traversal](https://vuldb.com/vuln/364384)
   - [CVE-2026-8758 | Metasoft 美特软件 MetaCRM up to 6.4.0 Beta06 /common/jsp/upload3.jsp File unrestricted upload](https://vuldb.com/vuln/364385)
 - Vulners.com RSS Feed
+  - [bleak](https://vulners.com/githubexploit/54AC5BAB-0421-5A0E-972E-5FDFC651924C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2020-37227](https://vulners.com/nvd/NVD:CVE-2020-37227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2020-37228](https://vulners.com/nvd/NVD:CVE-2020-37228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2020-37229](https://vulners.com/nvd/NVD:CVE-2020-37229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -91,6 +98,8 @@
   - [CVE-2021-47980](https://vulners.com/nvd/NVD:CVE-2021-47980?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2021-47981](https://vulners.com/nvd/NVD:CVE-2021-47981?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ebpf-cve-analysis](https://vulners.com/githubexploit/D2164002-C940-55C0-9AC7-FB677E0DF7A2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Code Injection in Flowiseai Flowise](https://vulners.com/githubexploit/B64D6F51-68A9-5171-AE7E-7B669615BA5B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2021-33393](https://vulners.com/githubexploit/128F7126-AAFF-5996-83F6-CD7CC5FABEF0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2022-38694](https://vulners.com/githubexploit/B9031C45-1D3A-536E-A5A4-8D236B32EB56?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Git-Scm Git](https://vulners.com/githubexploit/137BF8D2-259C-552D-B94B-B1A9C6D470E1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/8A220C63-B8DE-5273-85D0-21F1B20930E3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
