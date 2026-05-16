@@ -2,13 +2,18 @@
 
 - 2Libra
   - [【投票】Mac 上使用的截图工具](https://2libra.com/post/sharing-discoveries/aYMdYY3)
+- daniel.haxx.se
+  - [named globs with curl](https://daniel.haxx.se/blog/2026/05/16/named-globs-with-curl/)
 - daringfireball.net
   - [ArXiv to Ban Researchers for a Year if They Submit AI Slop](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/)
+  - [★ AI Is Technology, Not a Product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
 - Hacker News Frontpage
   - [Japan runs out of robot wolves in fight against bears](https://www.popsci.com/environment/japan-robot-wolf-army/)
+  - [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)
   - [Why is this site named Antipope?](https://www.antipope.org/charlie/old/antipope.html)
 - simonwillison.net
   - [Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything)
+  - [Warelay -> OpenClaw](https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [bleak exploit](https://sploitus.com/exploit?id=54AC5BAB-0421-5A0E-972E-5FDFC651924C&utm_source=rss&utm_medium=rss)
   - [ebpf-cve-analysis exploit](https://sploitus.com/exploit?id=D2164002-C940-55C0-9AC7-FB677E0DF7A2&utm_source=rss&utm_medium=rss)
@@ -19,6 +24,7 @@
 - TechCrunch
   - [Marketing operating system Nectar Social raises $30M Series A led by Menlo](https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/)
   - [Research repository ArXiv will ban authors for a year if they let AI do all the work](https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/)
+  - [The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/)
   - [The offline desk gadget that actually got me to sit up straight](https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/)
 - The Verge
   - [Snap, YouTube, and TikTok settle suit over harm to students](https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools)
@@ -107,6 +113,7 @@
   - [Exploit for Code Injection in Flowiseai Flowise](https://vulners.com/githubexploit/B64D6F51-68A9-5171-AE7E-7B669615BA5B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2021-33393](https://vulners.com/githubexploit/128F7126-AAFF-5996-83F6-CD7CC5FABEF0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2022-38694](https://vulners.com/githubexploit/B9031C45-1D3A-536E-A5A4-8D236B32EB56?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/ED8F5E26-1F6D-53EE-A4B6-63A6CC9E23DF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Git-Scm Git](https://vulners.com/githubexploit/137BF8D2-259C-552D-B94B-B1A9C6D470E1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/8A220C63-B8DE-5273-85D0-21F1B20930E3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
