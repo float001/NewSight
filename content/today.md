@@ -39,6 +39,8 @@
   - [美股三大指数均收跌超1%，标普500指数实现周线七连涨](https://36kr.com/newsflashes/3811288586968839?f=rss)
   - [虚拟动点加入OpenLET工作委员会，共建具身智能数据新生态](https://36kr.com/newsflashes/3811463677533704?f=rss)
   - [蜜雪冰城：蜜桃四季春销量环比前日增长接近140%](https://36kr.com/newsflashes/3811568732790272?f=rss)
+  - [阿里健康正式发布医学AI助手“氢离子”](https://36kr.com/newsflashes/3811712103423746?f=rss)
+  - [马斯克称他不会出售任何SpaceX股票](https://36kr.com/newsflashes/3811678834089475?f=rss)
   - [高瓴增持英伟达、英特尔、台积电、Lumentum](https://36kr.com/newsflashes/3811273252560387?f=rss)
 - 404 Media
   - [Tech Companies to Discuss Iran's Future During 'Private Conference' at Uber HQ](https://www.404media.co/tech-companies-to-discuss-irans-future-during-private-conference-at-uber-hq/)
@@ -77,6 +79,8 @@
   - [Control, Usability and Accessibility: A Deeper Look](https://hackernoon.com/control-usability-and-accessibility-a-deeper-look?source=rss)
 - Horizon3.ai
   - [CVE-2026-0300 | Palo Alto Networks PAN-OS Remote Code Execution | Critical Remote Access Risk](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-0300/)
+- pluralistic.net
+  - [Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)](https://pluralistic.net/2026/05/16/technopoly/)
 - PromptLayer
   - [LLM-as-a-Judge: How Do You Know If Your AI Is Actually Good?](https://blog.promptlayer.com/llm-as-a-judge-how-do-you-know-if-your-ai-is-actually-good/)
 - Sec-News 安全文摘
@@ -109,6 +113,7 @@
   - [Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up](https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/)
   - [Tesla reveals two Robotaxi crashes involving teleoperators](https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/)
 - The Decoder
+  - [AI made a tiny slice of Silicon Valley filthy rich and left the rest wondering why they bother](https://the-decoder.com/ai-made-a-tiny-slice-of-silicon-valley-filthy-rich-and-left-the-rest-wondering-why-they-bother/)
   - [Anthropic's $900 billion valuation would make it more valuable than OpenAI for the first time](https://the-decoder.com/anthropics-900-billion-valuation-would-make-it-more-valuable-than-openai-for-the-first-time/)
   - [ChatGPT now wants access to your bank account so it can tell you to stop ordering takeout](https://the-decoder.com/chatgpt-now-wants-access-to-your-bank-account-so-it-can-tell-you-to-stop-ordering-takeout/)
   - [Google busts the myth that AI search needs its own SEO playbook](https://the-decoder.com/google-busts-the-myth-that-ai-search-needs-its-own-seo-playbook/)
@@ -504,6 +509,7 @@
   - [20% Off Brooks Promo Code | May 2026](https://www.wired.com/story/brooks-promo-code/)
   - [50% Off DoorDash Promo Code | May 2026](https://www.wired.com/story/doordash-promo-code/)
   - [Altra Promo Codes: Get 20% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)
+  - [Asteroid 2026 JH2 Is About to Fly Right Past Earth—Relatively Speaking](https://www.wired.com/story/asteroid-2026-jh2-is-about-to-fly-right-past-the-earth-relatively-speaking/)
   - [AT&T Promo Codes and Bundle Deals: Save $50 in May](https://www.wired.com/story/att-promo-code/)
   - [B&H Photo Promo Codes and Deals This May](https://www.wired.com/story/bh-photo-coupon/)
   - [Best Buy Discount Codes: Up to 60% Off](https://www.wired.com/story/best-buy-discount-code/)
@@ -528,4 +534,5 @@
   - [15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点”](https://www.qbitai.com/2026/05/418150.html)
 - 黑海洋
   - [QEMU曝虚拟机逃逸漏洞，可直接控制底层物理机](https://blog.upx8.com/QEMU%E6%9B%9D%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%80%83%E9%80%B8%E6%BC%8F%E6%B4%9E-%E5%8F%AF%E7%9B%B4%E6%8E%A5%E6%8E%A7%E5%88%B6%E5%BA%95%E5%B1%82%E7%89%A9%E7%90%86%E6%9C%BA)
+  - [“无审查”AI 视频模型来了！Sulphur 2 本地部署实测：8G 显存也能跑！](https://blog.upx8.com/AI-Sulphur-2-8G)
   - [日防卫相对美中AI技术差距缩小表达危机感](https://blog.upx8.com/%E6%97%A5%E9%98%B2%E5%8D%AB%E7%9B%B8%E5%AF%B9%E7%BE%8E%E4%B8%ADAI%E6%8A%80%E6%9C%AF%E5%B7%AE%E8%B7%9D%E7%BC%A9%E5%B0%8F%E8%A1%A8%E8%BE%BE%E5%8D%B1%E6%9C%BA%E6%84%9F)
