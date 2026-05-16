@@ -8,6 +8,7 @@
   - [官方回应来了，前段时间的盲人女孩盲道被撞事件实际为摆拍](https://2libra.com/post/hotspot-tracking/-OjFFNk)
   - [早上好，今天想找点港片看，大伙有没有推荐的](https://2libra.com/post/movie-sharing/koKxzjk)
   - [油猴脚本终于上线 mcp 方便上传了 望周知](https://2libra.com/post/browser-extensions/kT4MNMK)
+  - [自建高优 API 中转站，算力富余，开放上车！倍率 1.0，充值比例 1:10, 满 50 送 100 刀](https://2libra.com/post/ai-gateway/Mhq7s4M)
   - [苏联插图是这种风格吗?](https://2libra.com/post/idea/axUHcTF)
   - [陪练两小时体验](https://2libra.com/post/personal-life/fnB8k_9)
 - 36氪
@@ -85,6 +86,8 @@
   - [Control, Usability and Accessibility: A Deeper Look](https://hackernoon.com/control-usability-and-accessibility-a-deeper-look?source=rss)
 - Horizon3.ai
   - [CVE-2026-0300 | Palo Alto Networks PAN-OS Remote Code Execution | Critical Remote Access Risk](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-0300/)
+- miguelgrinberg.com
+  - [SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web)
 - pluralistic.net
   - [Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)](https://pluralistic.net/2026/05/16/technopoly/)
 - PromptLayer
@@ -127,6 +130,7 @@
   - [RJ Scaringe has raised more than $12 billion across three startups and investors still want more](https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/)
   - [Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up](https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/)
   - [Tesla reveals two Robotaxi crashes involving teleoperators](https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/)
+  - [Users turn to jailbreaking their older Kindles as Amazon ends support](https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/)
 - The Decoder
   - [AI made a tiny slice of Silicon Valley filthy rich and left the rest wondering why they bother](https://the-decoder.com/ai-made-a-tiny-slice-of-silicon-valley-filthy-rich-and-left-the-rest-wondering-why-they-bother/)
   - [Anthropic's $900 billion valuation would make it more valuable than OpenAI for the first time](https://the-decoder.com/anthropics-900-billion-valuation-would-make-it-more-valuable-than-openai-for-the-first-time/)
@@ -255,6 +259,7 @@
   - [Critical: Red Hat Security Advisory: kernel security update](https://vulners.com/redhat/RHSA-2026:17795?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Critical: Red Hat Security Advisory: nginx security update](https://vulners.com/redhat/RHSA-2026:17790?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Critical: Red Hat Security Advisory: nginx security update](https://vulners.com/redhat/RHSA-2026:17791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-4202](https://vulners.com/nvd/NVD:CVE-2025-4202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-4202 Multicollab: Content Team Collaboration and Editorial Workflow <= 5.2 - Missing Authorization to Authenticated (Subscriber+) Collaboration Comment](https://vulners.com/cve/CVE-2025-4202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-4202 Multicollab: Content Team Collaboration and Editorial Workflow <= 5.2 - Missing Authorization to Authenticated (Subscriber+) Collaboration Comment](https://vulners.com/cvelist/CVELIST:CVE-2025-4202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-2031](https://vulners.com/nvd/NVD:CVE-2026-2031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -479,6 +484,8 @@
   - [CVE-2026-46474 Trog::TOTP versions before 1.006 for Perl generate secrets using rand](https://vulners.com/cvelist/CVELIST:CVE-2026-46474?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46491](https://vulners.com/cve/CVE-2026-46491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46508](https://vulners.com/nvd/NVD:CVE-2026-46508?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46719 Net::Statsd::Lite versions before 0.9.0 for Perl allowed metric injections](https://vulners.com/cve/CVE-2026-46719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46719 Net::Statsd::Lite versions before 0.9.0 for Perl allowed metric injections](https://vulners.com/cvelist/CVELIST:CVE-2026-46719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8656](https://vulners.com/nvd/NVD:CVE-2026-8656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8657](https://vulners.com/nvd/NVD:CVE-2026-8657?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8681](https://vulners.com/nvd/NVD:CVE-2026-8681?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -527,6 +534,7 @@
   - [GHSA-9RPM-78H2-FVW5 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-9RPM-78H2-FVW5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-FVVW-8GW5-VW5F vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-FVVW-8GW5-VW5F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-GXHX-2686-5H9G vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-GXHX-2686-5H9G?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-GXHX-2686-5H9G vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-GXHX-2686-5H9G?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-H53C-6597-VMFW vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-H53C-6597-VMFW?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-QG8R-F7X3-25F7 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-QG8R-F7X3-25F7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-QG8R-F7X3-25F7 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-QG8R-F7X3-25F7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
