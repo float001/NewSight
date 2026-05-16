@@ -6,6 +6,8 @@
   - [named globs with curl](https://daniel.haxx.se/blog/2026/05/16/named-globs-with-curl/)
 - daringfireball.net
   - [ArXiv to Ban Researchers for a Year if They Submit AI Slop](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/)
+  - [Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices](https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/)
+  - [Santa Clara County Sues Meta Over Alleged Scam Ads](https://sanjosespotlight.com/santa-clara-county-sues-meta-over-alleged-scam-ads/)
   - [★ AI Is Technology, Not a Product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
 - Hacker News Frontpage
   - [Japan runs out of robot wolves in fight against bears](https://www.popsci.com/environment/japan-robot-wolf-army/)
@@ -109,6 +111,8 @@
   - [CVE-2021-47979](https://vulners.com/nvd/NVD:CVE-2021-47979?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2021-47980](https://vulners.com/nvd/NVD:CVE-2021-47980?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2021-47981](https://vulners.com/nvd/NVD:CVE-2021-47981?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46728](https://vulners.com/cve/CVE-2026-46728?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46728](https://vulners.com/cvelist/CVELIST:CVE-2026-46728?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ebpf-cve-analysis](https://vulners.com/githubexploit/D2164002-C940-55C0-9AC7-FB677E0DF7A2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Flowiseai Flowise](https://vulners.com/githubexploit/B64D6F51-68A9-5171-AE7E-7B669615BA5B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2021-33393](https://vulners.com/githubexploit/128F7126-AAFF-5996-83F6-CD7CC5FABEF0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
