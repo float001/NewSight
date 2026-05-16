@@ -44,6 +44,7 @@
   - [马斯克称他不会出售任何SpaceX股票](https://36kr.com/newsflashes/3811678834089475?f=rss)
   - [高瓴增持英伟达、英特尔、台积电、Lumentum](https://36kr.com/newsflashes/3811273252560387?f=rss)
 - 404 Media
+  - [Scientists Discover Strange New Crystal Formed by Nuclear Blast](https://www.404media.co/scientists-discover-strange-new-crystal-formed-by-nuclear-blast/)
   - [Tech Companies to Discuss Iran's Future During 'Private Conference' at Uber HQ](https://www.404media.co/tech-companies-to-discuss-irans-future-during-private-conference-at-uber-hq/)
 - Ars Technica
   - [Making cement from a different type of rock could clean up emissions](https://arstechnica.com/science/2026/05/running-the-numbers-on-a-zero-emission-way-to-make-cement/)
@@ -65,6 +66,7 @@
 - defend.network
   - [Daily Threat Briefing – May 16, 2026](https://defend.network/briefings/exchange-zero-day-npm-supply-chain-turla-botnet-2026-05-16.html)
 - Hacker News Frontpage
+  - [A Meta employee gets real about the horror of working there](https://sfstandard.com/pacific-standard-time/2026/05/15/meta-employee-gets-real-horror-working-right-now/)
   - [ABC News has taken all FiveThirtyEight articles offline](https://twitter.com/baseballot/status/2055309076209492208)
   - [Aperio Lang](https://aperio-lang.github.io/aperio/introduction.html)
   - [Europe built sovereign clouds to escape US control. Forgot about the processors](https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735)
@@ -86,6 +88,7 @@
 - pluralistic.net
   - [Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)](https://pluralistic.net/2026/05/16/technopoly/)
 - PromptLayer
+  - [A deep dive into LLM observability tools](https://blog.promptlayer.com/a-deep-dive-into-llm-observability-tools/)
   - [LLM-as-a-Judge: How Do You Know If Your AI Is Actually Good?](https://blog.promptlayer.com/llm-as-a-judge-how-do-you-know-if-your-ai-is-actually-good/)
 - Sebastian Raschka
   - [Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention](https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures)
@@ -99,6 +102,7 @@
   - [Exploit for CVE-2026-0532 exploit](https://sploitus.com/exploit?id=277EB64D-DC5C-595F-A235-0A56255CA219&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-45672 exploit](https://sploitus.com/exploit?id=C3B7D1E4-96DB-5CE7-92A6-AAA6AB6084FE&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-46333 exploit](https://sploitus.com/exploit?id=B95F550A-81CB-538B-9F56-C93BD84E831B&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-4882 exploit](https://sploitus.com/exploit?id=DD481546-AB6A-54AA-B91D-10A0FE3ADFA2&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-6433 exploit](https://sploitus.com/exploit?id=E00094E0-2D1F-547A-A06A-6DB48CE00DD0&utm_source=rss&utm_medium=rss)
   - [Exploit for Double Free in Apache Http_Server exploit](https://sploitus.com/exploit?id=A073AC78-1452-570E-B94C-54F2AC0751AA&utm_source=rss&utm_medium=rss)
   - [Exploit for Heap-based Buffer Overflow in Microsoft exploit](https://sploitus.com/exploit?id=4BCED089-F413-58DA-8D2F-0E2121AB75DB&utm_source=rss&utm_medium=rss)
@@ -107,6 +111,8 @@
   - [Exploit for Improper Input Validation in Siemens 6Bk1602-0Aa12-0Tp0_Firmware exploit](https://sploitus.com/exploit?id=EFEB6300-5E40-5922-B25F-5D565002E9BC&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=7726086A-C6BC-53CF-A3CC-F836CFFC0419&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo exploit](https://sploitus.com/exploit?id=AABFEAE2-93E2-55B7-8059-99B47F6740D9&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Write in Google Chrome exploit](https://sploitus.com/exploit?id=AE4F5648-DB4F-5D38-8089-9DBE6A353D96&utm_source=rss&utm_medium=rss)
+  - [Exploit for Server-Side Request Forgery in Apache Axis exploit](https://sploitus.com/exploit?id=371B14AC-8018-52E8-89C5-302C7B59C44F&utm_source=rss&utm_medium=rss)
   - [Exploit for Server-Side Request Forgery in Vercel Next.Js exploit](https://sploitus.com/exploit?id=BC8945AC-A2B7-5A42-9896-748376F17A3D&utm_source=rss&utm_medium=rss)
   - [Exploit for Server-Side Request Forgery in Vercel Next.Js exploit](https://sploitus.com/exploit?id=ED455DFD-3A3F-5522-B7A0-71F215C7F9AD&utm_source=rss&utm_medium=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Stefanprodan Podinfo exploit](https://sploitus.com/exploit?id=1245A3D2-4DCF-56D2-9C61-BF86F8E89D7F&utm_source=rss&utm_medium=rss)
@@ -130,6 +136,7 @@
   - [New benchmark confirms AI video generators look stunning but still can't reason about the world](https://the-decoder.com/new-benchmark-confirms-ai-video-generators-look-stunning-but-still-cant-reason-about-the-world/)
   - [OpenAI bought a voice cloning startup famous for celebrity imitations](https://the-decoder.com/openai-bought-a-voice-cloning-startup-famous-for-celebrity-imitations/)
   - [Researchers train AI model that hits near-full performance with just 12.5 percent of its experts](https://the-decoder.com/researchers-train-ai-model-that-hits-near-full-performance-with-just-12-5-percent-of-its-experts/)
+  - [YouTube opens its deepfake face-swap detection tool to all adult creators](https://the-decoder.com/youtube-opens-its-deepfake-face-swap-detection-tool-to-all-adult-creators/)
 - The Verge
   - [AI radio hosts demonstrate why AI can’t be trusted alone](https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies)
   - [ArXiv will ban researchers who upload papers full of AI slop](https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers)
@@ -238,12 +245,18 @@
   - [CVE-2026-8739 | Sanluan PublicCMS 5.202506.d SafeConfigComponent.java getSignKey privatefile_key hard-coded key](https://vuldb.com/vuln/364327)
   - [CVE-2026-8740 | Sanluan PublicCMS 5.202506.d templateResult API TemplateResultDirective.java execute templateContent special elements used in a template engine](https://vuldb.com/vuln/364328)
   - [CVE-2026-8741 | EMQX up to 6.2.0 QoS 2 PUBLISH Packet emqx_persistent_session_ds.erl race condition](https://vuldb.com/vuln/364329)
+  - [CVE-2026-8743 | Open5GS up to 2.7.6 AMF/MME src/amf/context.c ran_ue_find_by_amf_ue_ngap_id improper authorization (Issue 4498)](https://vuldb.com/vuln/364330)
+  - [CVE-2026-8744 | Open5GS up to 2.7.7 NRF /lib/sbi/context.c denial of service (4465/4466)](https://vuldb.com/vuln/364331)
+  - [CVE-2026-8745 | Open5GS up to 2.7.7 AUSF nausf-handler.c ogs_timer_add denial of service (Issue 4472)](https://vuldb.com/vuln/364332)
+  - [CVE-2026-8746 | Open5GS up to 2.7.7 NRF nghttp2-server.c discover_handler use after free (Issue 4476)](https://vuldb.com/vuln/364333)
 - Vulners.com RSS Feed
   - [arnika is affected by medium-severity issues in UDP rotation, PQC handling, and KMS TLS](https://vulners.com/github/GHSA-RC6V-5RMX-W5MV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [AVideo's Meet plugin: `uploadRecordedVideo.json.php` derives `users_id` from the uploaded filename and calls passwordless `User->login()`, allowing any caller with the Meet shared secret to obtain a session as arbitrary users including admin](https://vulners.com/github/GHSA-QXVM-R42F-5P8J?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Critical: Red Hat Security Advisory: kernel security update](https://vulners.com/redhat/RHSA-2026:17795?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Critical: Red Hat Security Advisory: nginx security update](https://vulners.com/redhat/RHSA-2026:17790?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Critical: Red Hat Security Advisory: nginx security update](https://vulners.com/redhat/RHSA-2026:17791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-4202 Multicollab: Content Team Collaboration and Editorial Workflow <= 5.2 - Missing Authorization to Authenticated (Subscriber+) Collaboration Comment](https://vulners.com/cve/CVE-2025-4202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-4202 Multicollab: Content Team Collaboration and Editorial Workflow <= 5.2 - Missing Authorization to Authenticated (Subscriber+) Collaboration Comment](https://vulners.com/cvelist/CVELIST:CVE-2025-4202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-2031](https://vulners.com/nvd/NVD:CVE-2026-2031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-23695](https://vulners.com/nvd/NVD:CVE-2026-23695?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25854 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-25854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -487,6 +500,7 @@
   - [Exploit for CVE-2025-9074](https://vulners.com/githubexploit/06B62388-F2E7-59FD-9988-85BCD92D61EC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-45672](https://vulners.com/githubexploit/C3B7D1E4-96DB-5CE7-92A6-AAA6AB6084FE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-46333](https://vulners.com/githubexploit/B95F550A-81CB-538B-9F56-C93BD84E831B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-4882](https://vulners.com/githubexploit/DD481546-AB6A-54AA-B91D-10A0FE3ADFA2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-6433](https://vulners.com/githubexploit/E00094E0-2D1F-547A-A06A-6DB48CE00DD0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Double Free in Apache Http_Server](https://vulners.com/githubexploit/A073AC78-1452-570E-B94C-54F2AC0751AA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Heap-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/4BCED089-F413-58DA-8D2F-0E2121AB75DB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -495,6 +509,8 @@
   - [Exploit for Improper Input Validation in Siemens 6Bk1602-0Aa12-0Tp0_Firmware](https://vulners.com/githubexploit/EFEB6300-5E40-5922-B25F-5D565002E9BC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/7726086A-C6BC-53CF-A3CC-F836CFFC0419?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for OS Command Injection in Vsftpd_Project Vsftpd](https://vulners.com/githubexploit/BEE67BEA-45C2-50C0-88F3-9A2E7CC2DECE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Out-of-bounds Write in Google Chrome](https://vulners.com/githubexploit/AE4F5648-DB4F-5D38-8089-9DBE6A353D96?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Server-Side Request Forgery in Apache Axis](https://vulners.com/githubexploit/371B14AC-8018-52E8-89C5-302C7B59C44F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Server-Side Request Forgery in Vercel Next.Js](https://vulners.com/githubexploit/BC8945AC-A2B7-5A42-9896-748376F17A3D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Server-Side Request Forgery in Vercel Next.Js](https://vulners.com/githubexploit/ED455DFD-3A3F-5522-B7A0-71F215C7F9AD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Stefanprodan Podinfo](https://vulners.com/githubexploit/1245A3D2-4DCF-56D2-9C61-BF86F8E89D7F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
