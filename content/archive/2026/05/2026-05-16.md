@@ -2,9 +2,11 @@
 
 - 2Libra
   - [【连载】暗黑世界编年史（七）附录信息](https://2libra.com/post/game-discussion/pQb6-IH)
+  - [专用截图工具有哪些优势？](https://2libra.com/post/recommendations/vsBBtVd)
   - [发现 hugging face 想注册的用户名几乎都被注册了](https://2libra.com/post/sharing-discoveries/BHqXSU1)
   - [四月买了什么好东西？](https://2libra.com/post/worth-buying/uam2BGy)
   - [官方回应来了，前段时间的盲人女孩盲道被撞事件实际为摆拍](https://2libra.com/post/hotspot-tracking/-OjFFNk)
+  - [早上好，今天想找点港片看，大伙有没有推荐的](https://2libra.com/post/movie-sharing/koKxzjk)
   - [油猴脚本终于上线 mcp 方便上传了 望周知](https://2libra.com/post/browser-extensions/kT4MNMK)
   - [苏联插图是这种风格吗?](https://2libra.com/post/idea/axUHcTF)
 - 36氪
@@ -16,13 +18,18 @@
   - [SpaceX据悉最早将于6月11日确定首次公开发行价格](https://36kr.com/newsflashes/3811275655929603?f=rss)
   - [SpaceX货运“龙”飞船为国际空间站送货](https://36kr.com/newsflashes/3811286445416198?f=rss)
   - [上海电信率先发布Token资费套餐：1元对应25万额度点 支持手机账单付](https://36kr.com/newsflashes/3811348121100035?f=rss)
+  - [乐道L80上市，售价24.28万起](https://36kr.com/newsflashes/3811480372141571?f=rss)
   - [今年以来A股上市公司回购持续升温](https://36kr.com/newsflashes/3811289667559172?f=rss)
+  - [华为鸿蒙智行首款旗舰级MPV智界V9上市](https://36kr.com/newsflashes/3811563087798025?f=rss)
   - [商业航天迎来发展黄金期 融资客净买入12只概念股](https://36kr.com/newsflashes/3811281511751177?f=rss)
   - [国内品牌金饰克价跌破1400元](https://36kr.com/newsflashes/3811384242134531?f=rss)
   - [国内航线燃油附加费今起上调](https://36kr.com/newsflashes/3811292346539520?f=rss)
   - [国内首笔，数据中心接入虚拟电厂参与电力现货市场交易](https://36kr.com/newsflashes/3811351357021960?f=rss)
+  - [波音：已获200架中国意向订单初步承诺](https://36kr.com/newsflashes/3811419204198147?f=rss)
+  - [海信与印尼国家投资部门战略合作签约](https://36kr.com/newsflashes/3811509333319428?f=rss)
   - [美联储：沃什正式就任前鲍威尔将暂任“临时主席”](https://36kr.com/newsflashes/3811273834372609?f=rss)
   - [美股三大指数均收跌超1%，标普500指数实现周线七连涨](https://36kr.com/newsflashes/3811288586968839?f=rss)
+  - [虚拟动点加入OpenLET工作委员会，共建具身智能数据新生态](https://36kr.com/newsflashes/3811463677533704?f=rss)
   - [高瓴增持英伟达、英特尔、台积电、Lumentum](https://36kr.com/newsflashes/3811273252560387?f=rss)
 - 404 Media
   - [Tech Companies to Discuss Iran's Future During 'Private Conference' at Uber HQ](https://www.404media.co/tech-companies-to-discuss-irans-future-during-private-conference-at-uber-hq/)
@@ -66,6 +73,7 @@
 - simonwillison.net
   - [inaturalist-clumper 0.1](https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [darksword-Exploit exploit](https://sploitus.com/exploit?id=829BE6A8-0F1E-5321-A2A7-761564BE4814&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-9074 exploit](https://sploitus.com/exploit?id=06B62388-F2E7-59FD-9988-85BCD92D61EC&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-0532 exploit](https://sploitus.com/exploit?id=277EB64D-DC5C-595F-A235-0A56255CA219&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-45672 exploit](https://sploitus.com/exploit?id=C3B7D1E4-96DB-5CE7-92A6-AAA6AB6084FE&utm_source=rss&utm_medium=rss)
@@ -423,6 +431,7 @@
   - [CVE-2026-8704](https://vulners.com/nvd/NVD:CVE-2026-8704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8704 Crypt::DSA versions through 1.19 for Perl use 2-args open, allowing existing files to be modified](https://vulners.com/cve/CVE-2026-8704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8704 Crypt::DSA versions through 1.19 for Perl use 2-args open, allowing existing files to be modified](https://vulners.com/cvelist/CVELIST:CVE-2026-8704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [darksword-Exploit](https://vulners.com/githubexploit/829BE6A8-0F1E-5321-A2A7-761564BE4814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2012-3152](https://vulners.com/githubexploit/3F90DA9C-C8D3-574C-B1CC-AEF89D90FF98?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-9074](https://vulners.com/githubexploit/06B62388-F2E7-59FD-9988-85BCD92D61EC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-45672](https://vulners.com/githubexploit/C3B7D1E4-96DB-5CE7-92A6-AAA6AB6084FE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
