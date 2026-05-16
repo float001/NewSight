@@ -11,14 +11,19 @@
   - [★ AI Is Technology, Not a Product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
 - Hacker News Frontpage
   - [Japan runs out of robot wolves in fight against bears](https://www.popsci.com/environment/japan-robot-wolf-army/)
+  - [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
   - [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)
   - [Why is this site named Antipope?](https://www.antipope.org/charlie/old/antipope.html)
+  - [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
 - simonwillison.net
   - [Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything)
   - [Warelay -> OpenClaw](https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [bleak exploit](https://sploitus.com/exploit?id=54AC5BAB-0421-5A0E-972E-5FDFC651924C&utm_source=rss&utm_medium=rss)
+  - [bug-bounty-reports exploit](https://sploitus.com/exploit?id=EF40C507-9002-578D-A6ED-0C9CC63C94EC&utm_source=rss&utm_medium=rss)
+  - [bun-archive-traversal-poc exploit](https://sploitus.com/exploit?id=73E13021-2D12-5EE4-9FCE-2B677C01BCFB&utm_source=rss&utm_medium=rss)
   - [ebpf-cve-analysis exploit](https://sploitus.com/exploit?id=D2164002-C940-55C0-9AC7-FB677E0DF7A2&utm_source=rss&utm_medium=rss)
+  - [Exploit for Classic Buffer Overflow in Cisco Adaptive_Security_Appliance_Software exploit](https://sploitus.com/exploit?id=6A4F1714-1631-525B-AE36-70710D0425C5&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=B64D6F51-68A9-5171-AE7E-7B669615BA5B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2021-33393 exploit](https://sploitus.com/exploit?id=128F7126-AAFF-5996-83F6-CD7CC5FABEF0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2022-38694 exploit](https://sploitus.com/exploit?id=B9031C45-1D3A-536E-A5A4-8D236B32EB56&utm_source=rss&utm_medium=rss)
@@ -70,6 +75,8 @@
   - [CVE-2026-8758 | Metasoft 美特软件 MetaCRM up to 6.4.0 Beta06 /common/jsp/upload3.jsp File unrestricted upload](https://vuldb.com/vuln/364385)
 - Vulners.com RSS Feed
   - [bleak](https://vulners.com/githubexploit/54AC5BAB-0421-5A0E-972E-5FDFC651924C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [bug-bounty-reports](https://vulners.com/githubexploit/EF40C507-9002-578D-A6ED-0C9CC63C94EC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [bun-archive-traversal-poc](https://vulners.com/githubexploit/73E13021-2D12-5EE4-9FCE-2B677C01BCFB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2020-37227](https://vulners.com/nvd/NVD:CVE-2020-37227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2020-37228](https://vulners.com/nvd/NVD:CVE-2020-37228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2020-37229](https://vulners.com/nvd/NVD:CVE-2020-37229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -113,7 +120,9 @@
   - [CVE-2021-47981](https://vulners.com/nvd/NVD:CVE-2021-47981?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46728](https://vulners.com/cve/CVE-2026-46728?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46728](https://vulners.com/cvelist/CVELIST:CVE-2026-46728?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46728](https://vulners.com/nvd/NVD:CVE-2026-46728?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ebpf-cve-analysis](https://vulners.com/githubexploit/D2164002-C940-55C0-9AC7-FB677E0DF7A2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Classic Buffer Overflow in Cisco Adaptive_Security_Appliance_Software](https://vulners.com/githubexploit/6A4F1714-1631-525B-AE36-70710D0425C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Flowiseai Flowise](https://vulners.com/githubexploit/B64D6F51-68A9-5171-AE7E-7B669615BA5B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2021-33393](https://vulners.com/githubexploit/128F7126-AAFF-5996-83F6-CD7CC5FABEF0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2022-38694](https://vulners.com/githubexploit/B9031C45-1D3A-536E-A5A4-8D236B32EB56?utm_source=rss&utm_medium=rss&utm_campaign=rss)
