@@ -55,6 +55,8 @@
   - [Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app](https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/)
 - Blog - Atredis Partners
   - [Bad News for the Average Pentester](https://www.atredis.com/blog/2026/5/15/bad-news-for-the-average-pentester)
+- construction-physics.com
+  - [Reading List 05/16/26](https://www.construction-physics.com/p/reading-list-051626)
 - daringfireball.net
   - [Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks](https://aluminium-os.com/)
   - [Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking](https://dropoverapp.com/)
@@ -65,6 +67,7 @@
 - Hacker News Frontpage
   - [ABC News has taken all FiveThirtyEight articles offline](https://twitter.com/baseballot/status/2055309076209492208)
   - [Aperio Lang](https://aperio-lang.github.io/aperio/introduction.html)
+  - [Europe built sovereign clouds to escape US control. Forgot about the processors](https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735)
   - [I designed a nibble-oriented CPU in Verilog to build a scientific calculator](https://github.com/gdevic/FPGA-Calculator)
   - [Judge Bars Kars4Kids from Broadcasting 'Misleading' Ads in California](https://www.nytimes.com/2026/05/15/us/kars4kids-advertising-banned-california.html)
   - [London Police Deploy Facial Recognition at Protest for First Time](https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time)
@@ -84,6 +87,8 @@
   - [Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)](https://pluralistic.net/2026/05/16/technopoly/)
 - PromptLayer
   - [LLM-as-a-Judge: How Do You Know If Your AI Is Actually Good?](https://blog.promptlayer.com/llm-as-a-judge-how-do-you-know-if-your-ai-is-actually-good/)
+- Sebastian Raschka
+  - [Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention](https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures)
 - Sec-News 安全文摘
   - [MAD Bugs: Finding and Exploiting a 21-Year-Old Vulnerability in PHP](https://govuln.com/news/url/q6ZY)
 - simonwillison.net
@@ -130,9 +135,12 @@
   - [ArXiv will ban researchers who upload papers full of AI slop](https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers)
   - [Does Trump Mobile know how many stripes are on the American flag?](https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes)
   - [Google updates its spam rules to include attempts to ‘manipulate’ AI](https://www.theverge.com/tech/931416/google-ai-search-spam-policy)
+  - [Mixtape is a musical portrait of teenage life](https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc)
   - [One of Intel’s fastest desktop CPUs is $50 off](https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale)
   - [OpenAI keeps shuffling its executives in bid to win AI agent battle](https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle)
   - [The Analogue 3D is finally getting save states](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state)
+  - [The app you need to clean up your computer](https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer)
+  - [These are the laptops I recommend for pretty much anyone](https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026)
   - [Windows 11 tests an adjustable taskbar and resizable Start menu](https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button)
   - [Xbox is now XBOX](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps)
   - [YouTube is expanding its AI deepfake detection tool to all adult users](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults)
@@ -229,6 +237,7 @@
   - [CVE-2026-8738 | Sanluan PublicCMS 5.202506.d Trade Payment Flow TradeOrderController.java logic error](https://vuldb.com/vuln/364326)
   - [CVE-2026-8739 | Sanluan PublicCMS 5.202506.d SafeConfigComponent.java getSignKey privatefile_key hard-coded key](https://vuldb.com/vuln/364327)
   - [CVE-2026-8740 | Sanluan PublicCMS 5.202506.d templateResult API TemplateResultDirective.java execute templateContent special elements used in a template engine](https://vuldb.com/vuln/364328)
+  - [CVE-2026-8741 | EMQX up to 6.2.0 QoS 2 PUBLISH Packet emqx_persistent_session_ds.erl race condition](https://vuldb.com/vuln/364329)
 - Vulners.com RSS Feed
   - [arnika is affected by medium-severity issues in UDP rotation, PQC handling, and KMS TLS](https://vulners.com/github/GHSA-RC6V-5RMX-W5MV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [AVideo's Meet plugin: `uploadRecordedVideo.json.php` derives `users_id` from the uploaded filename and calls passwordless `User->login()`, allowing any caller with the Meet shared secret to obtain a session as arbitrary users including admin](https://vulners.com/github/GHSA-QXVM-R42F-5P8J?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -564,3 +573,4 @@
   - [“无审查”AI 视频模型来了！Sulphur 2 本地部署实测：8G 显存也能跑！](https://blog.upx8.com/AI-Sulphur-2-8G)
   - [教你用Ollama本地部署Claude Code：私有化免API](https://blog.upx8.com/Ollama-Claude-Code-API)
   - [日防卫相对美中AI技术差距缩小表达危机感](https://blog.upx8.com/%E6%97%A5%E9%98%B2%E5%8D%AB%E7%9B%B8%E5%AF%B9%E7%BE%8E%E4%B8%ADAI%E6%8A%80%E6%9C%AF%E5%B7%AE%E8%B7%9D%E7%BC%A9%E5%B0%8F%E8%A1%A8%E8%BE%BE%E5%8D%B1%E6%9C%BA%E6%84%9F)
+  - [马耳他用户可免费获得ChatGPT Plus一年](https://blog.upx8.com/%E9%A9%AC%E8%80%B3%E4%BB%96%E7%94%A8%E6%88%B7%E5%8F%AF%E5%85%8D%E8%B4%B9%E8%8E%B7%E5%BE%97ChatGPT-Plus%E4%B8%80%E5%B9%B4)
