@@ -38,6 +38,8 @@
   - [LLM-as-a-Judge: How Do You Know If Your AI Is Actually Good?](https://blog.promptlayer.com/llm-as-a-judge-how-do-you-know-if-your-ai-is-actually-good/)
 - Sec-News 安全文摘
   - [MAD Bugs: Finding and Exploiting a 21-Year-Old Vulnerability in PHP](https://govuln.com/news/url/q6ZY)
+- simonwillison.net
+  - [inaturalist-clumper 0.1](https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-9074 exploit](https://sploitus.com/exploit?id=06B62388-F2E7-59FD-9988-85BCD92D61EC&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-0532 exploit](https://sploitus.com/exploit?id=277EB64D-DC5C-595F-A235-0A56255CA219&utm_source=rss&utm_medium=rss)
@@ -66,6 +68,7 @@
   - [OpenAI keeps shuffling its executives in bid to win AI agent battle](https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle)
   - [The Analogue 3D is finally getting save states](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state)
   - [Windows 11 tests an adjustable taskbar and resizable Start menu](https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button)
+  - [Xbox is now XBOX](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps)
   - [YouTube is expanding its AI deepfake detection tool to all adult users](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults)
 - VulDB Recent Entries
   - [CVE-2025-14972 | Silabs Simplicity SDK entropy](https://vuldb.com/vuln/364185)
@@ -293,6 +296,7 @@
   - [CVE-2026-8700](https://vulners.com/cve/CVE-2026-8700?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8700](https://vulners.com/nvd/NVD:CVE-2026-8700?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8700 Crypt::DSA versions before 1.20 for Perl generate seeds using rand](https://vulners.com/cvelist/CVELIST:CVE-2026-8700?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8704](https://vulners.com/nvd/NVD:CVE-2026-8704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8704 Crypt::DSA versions through 1.19 for Perl use 2-args open, allowing existing files to be modified](https://vulners.com/cve/CVE-2026-8704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8704 Crypt::DSA versions through 1.19 for Perl use 2-args open, allowing existing files to be modified](https://vulners.com/cvelist/CVELIST:CVE-2026-8704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2012-3152](https://vulners.com/githubexploit/3F90DA9C-C8D3-574C-B1CC-AEF89D90FF98?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -329,3 +333,5 @@
   - [The Chinese App That Puts Instagram to Shame](https://www.wired.com/story/rednote-beats-instagram-tourism-infrastructure-china/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [日防卫相对美中AI技术差距缩小表达危机感](https://blog.upx8.com/%E6%97%A5%E9%98%B2%E5%8D%AB%E7%9B%B8%E5%AF%B9%E7%BE%8E%E4%B8%ADAI%E6%8A%80%E6%9C%AF%E5%B7%AE%E8%B7%9D%E7%BC%A9%E5%B0%8F%E8%A1%A8%E8%BE%BE%E5%8D%B1%E6%9C%BA%E6%84%9F)
