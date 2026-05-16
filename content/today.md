@@ -2,6 +2,11 @@
 
 - 2Libra
   - [【投票】Mac 上使用的截图工具](https://2libra.com/post/sharing-discoveries/aYMdYY3)
+- daringfireball.net
+  - [ArXiv to Ban Researchers for a Year if They Submit AI Slop](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/)
+- Hacker News Frontpage
+  - [Japan runs out of robot wolves in fight against bears](https://www.popsci.com/environment/japan-robot-wolf-army/)
+  - [Why is this site named Antipope?](https://www.antipope.org/charlie/old/antipope.html)
 - simonwillison.net
   - [Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -12,6 +17,7 @@
   - [Exploit for CVE-2022-38694 exploit](https://sploitus.com/exploit?id=B9031C45-1D3A-536E-A5A4-8D236B32EB56&utm_source=rss&utm_medium=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=8A220C63-B8DE-5273-85D0-21F1B20930E3&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Marketing operating system Nectar Social raises $30M Series A led by Menlo](https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/)
   - [Research repository ArXiv will ban authors for a year if they let AI do all the work](https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/)
   - [The offline desk gadget that actually got me to sit up straight](https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/)
 - The Verge
