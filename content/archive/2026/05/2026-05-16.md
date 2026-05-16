@@ -14,6 +14,7 @@
   - [36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断](https://36kr.com/p/3810520138243593?f=rss)
   - [9点1氪丨央视6000万美元获得世界杯版权；英伟达市值超过德国GDP；iPhone 17 Pro系列全线下调1000元](https://36kr.com/p/3811265856626440?f=rss)
   - [FF获2500万美元新融资](https://36kr.com/newsflashes/3811383661911557?f=rss)
+  - [OpenAI再次重组高管团队：布罗克曼正式接管产品](https://36kr.com/newsflashes/3811623947476489?f=rss)
   - [OpenAI已收购AI声音克隆工具公司weights.gg](https://36kr.com/newsflashes/3811291086233353?f=rss)
   - [SpaceX批准“1拆5”拆股方案，所有C类股将转换为A类股](https://36kr.com/newsflashes/3811375120670215?f=rss)
   - [SpaceX拟推万亿火星薪酬方案，马斯克回应：旨在确保公司专注于多行星生活愿景](https://36kr.com/newsflashes/3811607566163459?f=rss)
@@ -28,9 +29,12 @@
   - [国内品牌金饰克价跌破1400元](https://36kr.com/newsflashes/3811384242134531?f=rss)
   - [国内航线燃油附加费今起上调](https://36kr.com/newsflashes/3811292346539520?f=rss)
   - [国内首笔，数据中心接入虚拟电厂参与电力现货市场交易](https://36kr.com/newsflashes/3811351357021960?f=rss)
+  - [最高涨价200元，贵州茅台宣布公斤茅台等四款产品提价](https://36kr.com/newsflashes/3811612374752772?f=rss)
   - [波音：已获200架中国意向订单初步承诺](https://36kr.com/newsflashes/3811419204198147?f=rss)
   - [海信与印尼国家投资部门战略合作签约](https://36kr.com/newsflashes/3811509333319428?f=rss)
+  - [电影《给阿嬷的情书》观影人次破1000万](https://36kr.com/newsflashes/3811632628670209?f=rss)
   - [秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。](https://36kr.com/newsflashes/3811510125010434?f=rss)
+  - [网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4](https://36kr.com/newsflashes/3811663965560329?f=rss)
   - [美联储：沃什正式就任前鲍威尔将暂任“临时主席”](https://36kr.com/newsflashes/3811273834372609?f=rss)
   - [美股三大指数均收跌超1%，标普500指数实现周线七连涨](https://36kr.com/newsflashes/3811288586968839?f=rss)
   - [虚拟动点加入OpenLET工作委员会，共建具身智能数据新生态](https://36kr.com/newsflashes/3811463677533704?f=rss)
@@ -108,6 +112,7 @@
   - [Anthropic's $900 billion valuation would make it more valuable than OpenAI for the first time](https://the-decoder.com/anthropics-900-billion-valuation-would-make-it-more-valuable-than-openai-for-the-first-time/)
   - [ChatGPT now wants access to your bank account so it can tell you to stop ordering takeout](https://the-decoder.com/chatgpt-now-wants-access-to-your-bank-account-so-it-can-tell-you-to-stop-ordering-takeout/)
   - [Google busts the myth that AI search needs its own SEO playbook](https://the-decoder.com/google-busts-the-myth-that-ai-search-needs-its-own-seo-playbook/)
+  - [Researchers train AI model that hits near-full performance with just 12.5 percent of its experts](https://the-decoder.com/researchers-train-ai-model-that-hits-near-full-performance-with-just-12-5-percent-of-its-experts/)
 - The Verge
   - [AI radio hosts demonstrate why AI can’t be trusted alone](https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies)
   - [ArXiv will ban researchers who upload papers full of AI slop](https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers)
@@ -522,4 +527,5 @@
 - 量子位 QbitAI
   - [15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点”](https://www.qbitai.com/2026/05/418150.html)
 - 黑海洋
+  - [QEMU曝虚拟机逃逸漏洞，可直接控制底层物理机](https://blog.upx8.com/QEMU%E6%9B%9D%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%80%83%E9%80%B8%E6%BC%8F%E6%B4%9E-%E5%8F%AF%E7%9B%B4%E6%8E%A5%E6%8E%A7%E5%88%B6%E5%BA%95%E5%B1%82%E7%89%A9%E7%90%86%E6%9C%BA)
   - [日防卫相对美中AI技术差距缩小表达危机感](https://blog.upx8.com/%E6%97%A5%E9%98%B2%E5%8D%AB%E7%9B%B8%E5%AF%B9%E7%BE%8E%E4%B8%ADAI%E6%8A%80%E6%9C%AF%E5%B7%AE%E8%B7%9D%E7%BC%A9%E5%B0%8F%E8%A1%A8%E8%BE%BE%E5%8D%B1%E6%9C%BA%E6%84%9F)
