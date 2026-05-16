@@ -124,6 +124,7 @@
 - SumSec's Blog
   - [AI 时代 ShiroAttack2 5.x：修改了什么](https://sumsec.me/2026/AI%20%E6%97%B6%E4%BB%A3%20ShiroAttack2%205.x%EF%BC%9A%E4%BF%AE%E6%94%B9%E4%BA%86%E4%BB%80%E4%B9%88.html)
 - TechCrunch
+  - [$60B AI chip darling Cerebras almost died early on, burning $8M a month](https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/)
   - [A hotel check-in system left a million passports and driver’s licenses open for anyone to see](https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/)
   - [General Catalyst posted VC rage bait and it worked, especially on a16z](https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/)
   - [OpenAI launches ChatGPT for personal finance, will let you connect bank accounts](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/)
@@ -147,6 +148,7 @@
   - [Does Trump Mobile know how many stripes are on the American flag?](https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes)
   - [Google updates its spam rules to include attempts to ‘manipulate’ AI](https://www.theverge.com/tech/931416/google-ai-search-spam-policy)
   - [Mixtape is a musical portrait of teenage life](https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc)
+  - [NPR’s Manoush Zomorodi talks about living with too much tech](https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire)
   - [One of Intel’s fastest desktop CPUs is $50 off](https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale)
   - [OpenAI keeps shuffling its executives in bid to win AI agent battle](https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle)
   - [The Analogue 3D is finally getting save states](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state)
@@ -155,6 +157,8 @@
   - [Windows 11 tests an adjustable taskbar and resizable Start menu](https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button)
   - [Xbox is now XBOX](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps)
   - [YouTube is expanding its AI deepfake detection tool to all adult users](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults)
+- Threatninja.net
+  - [Hack The Box: Pterodactyl Machine Walkthrough – Medium Difficulity](https://threatninja.net/pterodactyl/)
 - VulDB Recent Entries
   - [CVE-2021-47958 | CouchCMS 2.2.1 SVG File browse.php server-side request forgery (Exploit 49675 / EDB-49675)](https://vuldb.com/vuln/364227)
   - [CVE-2021-47959 | WPGraphQL 1.3.5 on WordPress allocation of resources (Exploit 49807 / EDB-49807)](https://vuldb.com/vuln/364226)
@@ -484,6 +488,7 @@
   - [CVE-2026-46474 Trog::TOTP versions before 1.006 for Perl generate secrets using rand](https://vulners.com/cvelist/CVELIST:CVE-2026-46474?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46491](https://vulners.com/cve/CVE-2026-46491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46508](https://vulners.com/nvd/NVD:CVE-2026-46508?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46719](https://vulners.com/nvd/NVD:CVE-2026-46719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46719 Net::Statsd::Lite versions before 0.9.0 for Perl allowed metric injections](https://vulners.com/cve/CVE-2026-46719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46719 Net::Statsd::Lite versions before 0.9.0 for Perl allowed metric injections](https://vulners.com/cvelist/CVELIST:CVE-2026-46719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8656](https://vulners.com/nvd/NVD:CVE-2026-8656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
