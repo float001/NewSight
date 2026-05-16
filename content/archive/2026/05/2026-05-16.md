@@ -2,6 +2,8 @@
 
 - 2Libra
   - [发现 hugging face 想注册的用户名几乎都被注册了](https://2libra.com/post/sharing-discoveries/BHqXSU1)
+- 36氪
+  - [9点1氪丨央视6000万美元获得世界杯版权；英伟达市值超过德国GDP；iPhone 17 Pro系列全线下调1000元](https://36kr.com/p/3811265856626440?f=rss)
 - 404 Media
   - [Tech Companies to Discuss Iran's Future During 'Private Conference' at Uber HQ](https://www.404media.co/tech-companies-to-discuss-irans-future-during-private-conference-at-uber-hq/)
 - Ars Technica
@@ -333,5 +335,7 @@
   - [The Chinese App That Puts Instagram to Shame](https://www.wired.com/story/rednote-beats-instagram-tourism-infrastructure-china/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜华为Mate X7官方降价1000元/Anthropic估值超越OpenAI/国行Switch正式停服](https://www.ifanr.com/1666116?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [日防卫相对美中AI技术差距缩小表达危机感](https://blog.upx8.com/%E6%97%A5%E9%98%B2%E5%8D%AB%E7%9B%B8%E5%AF%B9%E7%BE%8E%E4%B8%ADAI%E6%8A%80%E6%9C%AF%E5%B7%AE%E8%B7%9D%E7%BC%A9%E5%B0%8F%E8%A1%A8%E8%BE%BE%E5%8D%B1%E6%9C%BA%E6%84%9F)
