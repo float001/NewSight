@@ -6,6 +6,7 @@
   - [程序员中，养猫的人多吗？发照片分享一下](https://2libra.com/post/pet-sharing/ziuQJya)
 - 36氪
   - [2025年中国绿证交易价格总体呈现上涨趋势](https://36kr.com/newsflashes/3812846694276617?f=rss)
+  - [2026电影总票房已超144亿元](https://36kr.com/newsflashes/3813025172135432?f=rss)
   - [28亿，肯德基也要被卖了？](https://36kr.com/p/3812816225459713?f=rss)
   - [36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院](https://36kr.com/p/3812788568907520?f=rss)
   - [48022桌需退款，这家网红店出了什么事？](https://36kr.com/p/3812706162220548?f=rss)
@@ -14,6 +15,7 @@
   - [三星电子劳资双方明日将重启谈判](https://36kr.com/newsflashes/3812744546557446?f=rss)
   - [中国汽车专利公开量全球领先，新能源领域年均增长率17.1%](https://36kr.com/newsflashes/3812660816813575?f=rss)
   - [中微半导体董事长：希望国内客户给设备公司更多机会](https://36kr.com/newsflashes/3812700014010114?f=rss)
+  - [传三星Exynos 2700芯片正考虑放弃FOWLP先进封装工艺](https://36kr.com/newsflashes/3813031303372293?f=rss)
   - [光力科技：长期来看公司半导体业务毛利率将会得到提升](https://36kr.com/newsflashes/3812845376315137?f=rss)
   - [印度股市市值蒸发9240亿美元，错失人工智能浪潮](https://36kr.com/newsflashes/3812663316274949?f=rss)
   - [史上最大IPO来袭，SpaceX加速驶入纳斯达克](https://36kr.com/p/3812789087264519?f=rss)
@@ -22,6 +24,7 @@
   - [招商策略：主动补库的领域主要集中在TMT和部分中高端制造业](https://36kr.com/newsflashes/3812703734062854?f=rss)
   - [摩尔线程与国家具身智能应用中试基地签署战略合作协议](https://36kr.com/newsflashes/3812778475167490?f=rss)
   - [法拉第未来宣布获得2500万美元融资](https://36kr.com/newsflashes/3812688827817475?f=rss)
+  - [深圳发布2026年住房发展计划，将筹建3万套、供应4万套保障房](https://36kr.com/newsflashes/3812946010660617?f=rss)
   - [特斯拉两年来首次上调Model Y美国售价](https://36kr.com/newsflashes/3812950639927048?f=rss)
   - [盖茨基金会不再持有微软股票](https://36kr.com/newsflashes/3812661253365506?f=rss)
   - [知乎CEO周源：AI时代真实创作者价值不可替代](https://36kr.com/newsflashes/3812678434250498?f=rss)
@@ -34,6 +37,8 @@
   - [阿斯麦与塔塔电子签署谅解备忘录](https://36kr.com/newsflashes/3812704658447875?f=rss)
   - [韩国SK海力士来锡对接深化合作](https://36kr.com/newsflashes/3812953571565312?f=rss)
   - [韩国头部企业一季度营业利润突破千亿美元，超六成来自三星海力士](https://36kr.com/newsflashes/3812848957529860?f=rss)
+  - [韩国将投入超1亿美元扶持中小企业，覆盖半导体产业](https://36kr.com/newsflashes/3812948133437192?f=rss)
+  - [首个东数西算、算电融合的特大型Token工厂落子无锡](https://36kr.com/newsflashes/3812945055342086?f=rss)
 - daniel.haxx.se
   - [named globs with curl](https://daniel.haxx.se/blog/2026/05/16/named-globs-with-curl/)
 - daringfireball.net
@@ -41,6 +46,8 @@
   - [Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices](https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/)
   - [Santa Clara County Sues Meta Over Alleged Scam Ads](https://sanjosespotlight.com/santa-clara-county-sues-meta-over-alleged-scam-ads/)
   - [★ AI Is Technology, Not a Product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
+- defend.network
+  - [Daily Threat Briefing – May 17, 2026](https://defend.network/briefings/cisco-exchange-funnel-builder-critical-exploits-2026-05-17.html)
 - Hacker News Frontpage
   - [Japan runs out of robot wolves in fight against bears](https://www.popsci.com/environment/japan-robot-wolf-army/)
   - [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
@@ -180,6 +187,8 @@
   - [CVE-2026-8733](https://vulners.com/nvd/NVD:CVE-2026-8733?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8733 Investintech SlimPDFReader SlimPDFReader.exe sub_3B4610 stack-based overflow](https://vulners.com/cve/CVE-2026-8733?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8733 Investintech SlimPDFReader SlimPDFReader.exe sub_3B4610 stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-8733?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8734](https://vulners.com/nvd/NVD:CVE-2026-8734?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8735](https://vulners.com/nvd/NVD:CVE-2026-8735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8735 Oinone Pamirs appConfigQuery PamirsParserConfig.java JsonUtils.parseMap deserialization](https://vulners.com/cvelist/CVELIST:CVE-2026-8735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ebpf-cve-analysis](https://vulners.com/githubexploit/D2164002-C940-55C0-9AC7-FB677E0DF7A2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Eternalblue-ms17-010-lab](https://vulners.com/githubexploit/66C876E9-6FE0-54C3-82A9-818A6802C4C9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
