@@ -4,7 +4,13 @@
   - [【投票】Mac 上使用的截图工具](https://2libra.com/post/sharing-discoveries/aYMdYY3)
   - [程序员中，养猫的人多吗？发照片分享一下](https://2libra.com/post/pet-sharing/ziuQJya)
 - 36氪
+  - [48022桌需退款，这家网红店出了什么事？](https://36kr.com/p/3812706162220548?f=rss)
   - [中国汽车专利公开量全球领先，新能源领域年均增长率17.1%](https://36kr.com/newsflashes/3812660816813575?f=rss)
+  - [印度股市市值蒸发9240亿美元，错失人工智能浪潮](https://36kr.com/newsflashes/3812663316274949?f=rss)
+  - [法拉第未来宣布获得2500万美元融资](https://36kr.com/newsflashes/3812688827817475?f=rss)
+  - [盖茨基金会不再持有微软股票](https://36kr.com/newsflashes/3812661253365506?f=rss)
+  - [知乎CEO周源：AI时代真实创作者价值不可替代](https://36kr.com/newsflashes/3812678434250498?f=rss)
+  - [蔚来：已在全国建成8870座充换电站](https://36kr.com/newsflashes/3812695911816707?f=rss)
 - daniel.haxx.se
   - [named globs with curl](https://daniel.haxx.se/blog/2026/05/16/named-globs-with-curl/)
 - daringfireball.net
@@ -33,6 +39,7 @@
   - [Exploit for Code Injection in Rejetto Http_File_Server exploit](https://sploitus.com/exploit?id=12B6BD71-7667-5A58-AF52-B59089630526&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2021-33393 exploit](https://sploitus.com/exploit?id=128F7126-AAFF-5996-83F6-CD7CC5FABEF0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2022-38694 exploit](https://sploitus.com/exploit?id=B9031C45-1D3A-536E-A5A4-8D236B32EB56&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-0265 exploit](https://sploitus.com/exploit?id=8681B30D-BF40-5DC7-9F64-48FDC9988ADB&utm_source=rss&utm_medium=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=8A220C63-B8DE-5273-85D0-21F1B20930E3&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Marketing operating system Nectar Social raises $30M Series A led by Menlo](https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/)
@@ -70,6 +77,7 @@
   - [CVE-2021-47978 | ProcessMaker up to 3.5.4 filename control (Exploit 50229)](https://vuldb.com/vuln/364370)
   - [CVE-2021-47980 | Getfuelcms Fuel CMS 1.4.13 Activity Log Interface col sql injection (Exploit 50523)](https://vuldb.com/vuln/364371)
   - [CVE-2021-47981 | Opensolution Quick.CMS 6.7 sDescription cross site scripting (Exploit 50530)](https://vuldb.com/vuln/364367)
+  - [CVE-2026-8723 | ljharb qs up to 6.15.1 lib/stringify.js null pointer dereference (GHSA-q8mj-m7cp-5q26)](https://vuldb.com/vuln/364387)
   - [CVE-2026-8750 | h2oai h2o-3 up to 7402 ImportFile API PersistNFS.java importFiles information disclosure](https://vuldb.com/vuln/364377)
   - [CVE-2026-8751 | h2oai h2o-3 up to 7402 JAR Model.java importBinaryModel deserialization](https://vuldb.com/vuln/364378)
   - [CVE-2026-8752 | h2oai h2o-3 up to 7402 Rapids setproperty Primitive AstSetProperty.java exec access control](https://vuldb.com/vuln/364379)
@@ -80,6 +88,10 @@
   - [CVE-2026-8757 | adenhq hive up to 0.11.0 Delete Request routes_sessions.py _read_events_tail path traversal](https://vuldb.com/vuln/364384)
   - [CVE-2026-8758 | Metasoft 美特软件 MetaCRM up to 6.4.0 Beta06 /common/jsp/upload3.jsp File unrestricted upload](https://vuldb.com/vuln/364385)
 - Vulners.com RSS Feed
+  - [[SECURITY] Fedora 44 Update: libgit2_1.8-1.8.5-1.fc44](https://vulners.com/fedora/FEDORA:68C696E755?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 44 Update: pypy-7.3.22-2.fc44](https://vulners.com/fedora/FEDORA:D6BCA6FEC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 44 Update: python-jupytext-1.19.1-4.fc44](https://vulners.com/fedora/FEDORA:2177977661?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 44 Update: yelp-49.1-1.fc44](https://vulners.com/fedora/FEDORA:F3B2A77661?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [bleak](https://vulners.com/githubexploit/54AC5BAB-0421-5A0E-972E-5FDFC651924C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [bug-bounty-reports](https://vulners.com/githubexploit/EF40C507-9002-578D-A6ED-0C9CC63C94EC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [bun-archive-traversal-poc](https://vulners.com/githubexploit/73E13021-2D12-5EE4-9FCE-2B677C01BCFB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -137,8 +149,11 @@
   - [Exploit for Code Injection in Rejetto Http_File_Server](https://vulners.com/githubexploit/12B6BD71-7667-5A58-AF52-B59089630526?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2021-33393](https://vulners.com/githubexploit/128F7126-AAFF-5996-83F6-CD7CC5FABEF0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2022-38694](https://vulners.com/githubexploit/B9031C45-1D3A-536E-A5A4-8D236B32EB56?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-0265](https://vulners.com/githubexploit/8681B30D-BF40-5DC7-9F64-48FDC9988ADB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/ED8F5E26-1F6D-53EE-A4B6-63A6CC9E23DF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Git-Scm Git](https://vulners.com/githubexploit/137BF8D2-259C-552D-B94B-B1A9C6D470E1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/8A220C63-B8DE-5273-85D0-21F1B20930E3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-VFVV-C25P-M7MM vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-VFVV-C25P-M7MM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-VFVV-C25P-M7MM vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-VFVV-C25P-M7MM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
