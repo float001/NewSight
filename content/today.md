@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【投票】Mac 上使用的截图工具](https://2libra.com/post/sharing-discoveries/aYMdYY3)
+  - [程序员中，养猫的人多吗？发照片分享一下](https://2libra.com/post/pet-sharing/ziuQJya)
 - daniel.haxx.se
   - [named globs with curl](https://daniel.haxx.se/blog/2026/05/16/named-globs-with-curl/)
 - daringfireball.net
@@ -15,6 +16,8 @@
   - [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)
   - [Why is this site named Antipope?](https://www.antipope.org/charlie/old/antipope.html)
   - [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
+- seangoedecke.com
+  - [How I use LLMs as a staff engineer in 2026](https://seangoedecke.com/how-i-use-llms-in-2026/)
 - simonwillison.net
   - [Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything)
   - [Warelay -> OpenClaw](https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything)
@@ -25,6 +28,7 @@
   - [ebpf-cve-analysis exploit](https://sploitus.com/exploit?id=D2164002-C940-55C0-9AC7-FB677E0DF7A2&utm_source=rss&utm_medium=rss)
   - [Exploit for Classic Buffer Overflow in Cisco Adaptive_Security_Appliance_Software exploit](https://sploitus.com/exploit?id=6A4F1714-1631-525B-AE36-70710D0425C5&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Flowiseai Flowise exploit](https://sploitus.com/exploit?id=B64D6F51-68A9-5171-AE7E-7B669615BA5B&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Rejetto Http_File_Server exploit](https://sploitus.com/exploit?id=12B6BD71-7667-5A58-AF52-B59089630526&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2021-33393 exploit](https://sploitus.com/exploit?id=128F7126-AAFF-5996-83F6-CD7CC5FABEF0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2022-38694 exploit](https://sploitus.com/exploit?id=B9031C45-1D3A-536E-A5A4-8D236B32EB56&utm_source=rss&utm_medium=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=8A220C63-B8DE-5273-85D0-21F1B20930E3&utm_source=rss&utm_medium=rss)
@@ -121,9 +125,13 @@
   - [CVE-2026-46728](https://vulners.com/cve/CVE-2026-46728?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46728](https://vulners.com/cvelist/CVELIST:CVE-2026-46728?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46728](https://vulners.com/nvd/NVD:CVE-2026-46728?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6050](https://vulners.com/nvd/NVD:CVE-2026-6050?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8723 qs.stringify crashes on null/undefined entries in comma-format arrays under encodeValuesOnly](https://vulners.com/cve/CVE-2026-8723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8723 qs.stringify crashes on null/undefined entries in comma-format arrays under encodeValuesOnly](https://vulners.com/cvelist/CVELIST:CVE-2026-8723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ebpf-cve-analysis](https://vulners.com/githubexploit/D2164002-C940-55C0-9AC7-FB677E0DF7A2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Classic Buffer Overflow in Cisco Adaptive_Security_Appliance_Software](https://vulners.com/githubexploit/6A4F1714-1631-525B-AE36-70710D0425C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Flowiseai Flowise](https://vulners.com/githubexploit/B64D6F51-68A9-5171-AE7E-7B669615BA5B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Code Injection in Rejetto Http_File_Server](https://vulners.com/githubexploit/12B6BD71-7667-5A58-AF52-B59089630526?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2021-33393](https://vulners.com/githubexploit/128F7126-AAFF-5996-83F6-CD7CC5FABEF0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2022-38694](https://vulners.com/githubexploit/B9031C45-1D3A-536E-A5A4-8D236B32EB56?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/ED8F5E26-1F6D-53EE-A4B6-63A6CC9E23DF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
