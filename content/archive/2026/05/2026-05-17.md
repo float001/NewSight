@@ -3,6 +3,7 @@
 - 2Libra
   - [【周末家常菜】豆角焖面](https://2libra.com/post/personal-life/feBKELs)
   - [【投票】Mac 上使用的截图工具](https://2libra.com/post/sharing-discoveries/aYMdYY3)
+  - [几个月前朋友的劳动仲裁(被违法开除)以 15 万赔偿和解了](https://2libra.com/post/workplace-stories/pfD8Hve)
   - [程序员中，养猫的人多吗？发照片分享一下](https://2libra.com/post/pet-sharing/ziuQJya)
 - 36氪
   - [2025年中国绿证交易价格总体呈现上涨趋势](https://36kr.com/newsflashes/3812846694276617?f=rss)
@@ -42,6 +43,7 @@
   - [特斯拉两年来首次上调Model Y美国售价](https://36kr.com/newsflashes/3812950639927048?f=rss)
   - [盖茨基金会不再持有微软股票](https://36kr.com/newsflashes/3812661253365506?f=rss)
   - [知乎CEO周源：AI时代真实创作者价值不可替代](https://36kr.com/newsflashes/3812678434250498?f=rss)
+  - [科氪 | 对话韶音高层：开放式耳机，凭什么成为下一场颠覆TWS的“品类革命”？](https://36kr.com/p/3813305543794440?f=rss)
   - [美光科技：深耕中国市场，期待进一步深化与本土客户及合作伙伴合作](https://36kr.com/newsflashes/3812702147600131?f=rss)
   - [美国银行就7-11网点ATM手续费争议达成诉讼和解](https://36kr.com/newsflashes/3812705505500934?f=rss)
   - [美国长岛铁路员工罢工，约30万通勤者受影响](https://36kr.com/newsflashes/3812702785248774?f=rss)
@@ -75,8 +77,12 @@
   - [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
 - HackerNoon
   - [The Neuroscience of Toxic Leadership: Why Shouting Literally Shuts Down the Brain](https://hackernoon.com/the-neuroscience-of-toxic-leadership-why-shouting-literally-shuts-down-the-brain?source=rss)
+- idiallo.com
+  - [In the Empire's Defense](https://idiallo.com/blog/the-empire-won?src=feed)
 - seangoedecke.com
   - [How I use LLMs as a staff engineer in 2026](https://seangoedecke.com/how-i-use-llms-in-2026/)
+- shkspr.mobi
+  - [GDS weighs in on the NHS's decision to retreat from Open Source](https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/)
 - simonwillison.net
   - [Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything)
   - [Warelay -> OpenClaw](https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything)
@@ -93,6 +99,7 @@
   - [Exploit for CVE-2022-38694 exploit](https://sploitus.com/exploit?id=B9031C45-1D3A-536E-A5A4-8D236B32EB56&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-0265 exploit](https://sploitus.com/exploit?id=8681B30D-BF40-5DC7-9F64-48FDC9988ADB&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-46333 exploit](https://sploitus.com/exploit?id=E89B5C69-43C5-5B3D-BED2-0AEE57C4F1BA&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Write in Apple Ipados exploit](https://sploitus.com/exploit?id=93D88BB1-E8FB-5393-B9B7-811D7D646CFA&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Polkit_Project Polkit exploit](https://sploitus.com/exploit?id=5D4606C0-A43A-5EF3-8199-5F79C2481EB6&utm_source=rss&utm_medium=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=8A220C63-B8DE-5273-85D0-21F1B20930E3&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -252,10 +259,16 @@
   - [CVE-2026-8744 Open5GS NRF context.c ogs_sbi_nf_service_add denial of service](https://vulners.com/cve/CVE-2026-8744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8744 Open5GS NRF context.c ogs_sbi_nf_service_add denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-8744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8745](https://vulners.com/nvd/NVD:CVE-2026-8745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8746](https://vulners.com/nvd/NVD:CVE-2026-8746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8746 Open5GS NRF nghttp2-server.c discover_handler use after free](https://vulners.com/cve/CVE-2026-8746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8746 Open5GS NRF nghttp2-server.c discover_handler use after free](https://vulners.com/cvelist/CVELIST:CVE-2026-8746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8747](https://vulners.com/nvd/NVD:CVE-2026-8747?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8747 Z-BlogPHP Commend Approval c_system_event.php CheckComment improper authorization](https://vulners.com/cve/CVE-2026-8747?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8747 Z-BlogPHP Commend Approval c_system_event.php CheckComment improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-8747?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8750](https://vulners.com/nvd/NVD:CVE-2026-8750?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8751 h2oai h2o-3 JAR Model.java importBinaryModel deserialization](https://vulners.com/cve/CVE-2026-8751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8751 h2oai h2o-3 JAR Model.java importBinaryModel deserialization](https://vulners.com/cvelist/CVELIST:CVE-2026-8751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8752 h2oai h2o-3 Rapids setproperty Primitive AstSetProperty.java exec access control](https://vulners.com/cvelist/CVELIST:CVE-2026-8752?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ebpf-cve-analysis](https://vulners.com/githubexploit/D2164002-C940-55C0-9AC7-FB677E0DF7A2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Eternalblue-ms17-010-lab](https://vulners.com/githubexploit/66C876E9-6FE0-54C3-82A9-818A6802C4C9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Classic Buffer Overflow in Cisco Adaptive_Security_Appliance_Software](https://vulners.com/githubexploit/6A4F1714-1631-525B-AE36-70710D0425C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -267,6 +280,7 @@
   - [Exploit for CVE-2026-46333](https://vulners.com/githubexploit/E89B5C69-43C5-5B3D-BED2-0AEE57C4F1BA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Lfprojects Mlflow](https://vulners.com/githubexploit/98577502-2A6B-5482-8AC0-AD25A4774CB9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/ED8F5E26-1F6D-53EE-A4B6-63A6CC9E23DF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Out-of-bounds Write in Apple Ipados](https://vulners.com/githubexploit/93D88BB1-E8FB-5393-B9B7-811D7D646CFA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Out-of-bounds Write in Polkit_Project Polkit](https://vulners.com/githubexploit/5D4606C0-A43A-5EF3-8199-5F79C2481EB6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Git-Scm Git](https://vulners.com/githubexploit/137BF8D2-259C-552D-B94B-B1A9C6D470E1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/8A220C63-B8DE-5273-85D0-21F1B20930E3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
