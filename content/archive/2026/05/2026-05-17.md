@@ -3,6 +3,8 @@
 - 2Libra
   - [【投票】Mac 上使用的截图工具](https://2libra.com/post/sharing-discoveries/aYMdYY3)
   - [程序员中，养猫的人多吗？发照片分享一下](https://2libra.com/post/pet-sharing/ziuQJya)
+- 36氪
+  - [中国汽车专利公开量全球领先，新能源领域年均增长率17.1%](https://36kr.com/newsflashes/3812660816813575?f=rss)
 - daniel.haxx.se
   - [named globs with curl](https://daniel.haxx.se/blog/2026/05/16/named-globs-with-curl/)
 - daringfireball.net
@@ -126,6 +128,7 @@
   - [CVE-2026-46728](https://vulners.com/cvelist/CVELIST:CVE-2026-46728?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46728](https://vulners.com/nvd/NVD:CVE-2026-46728?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6050](https://vulners.com/nvd/NVD:CVE-2026-6050?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8723](https://vulners.com/nvd/NVD:CVE-2026-8723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8723 qs.stringify crashes on null/undefined entries in comma-format arrays under encodeValuesOnly](https://vulners.com/cve/CVE-2026-8723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8723 qs.stringify crashes on null/undefined entries in comma-format arrays under encodeValuesOnly](https://vulners.com/cvelist/CVELIST:CVE-2026-8723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ebpf-cve-analysis](https://vulners.com/githubexploit/D2164002-C940-55C0-9AC7-FB677E0DF7A2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
