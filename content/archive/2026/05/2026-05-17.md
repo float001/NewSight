@@ -6,16 +6,21 @@
 - 36氪
   - [36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院](https://36kr.com/p/3812788568907520?f=rss)
   - [48022桌需退款，这家网红店出了什么事？](https://36kr.com/p/3812706162220548?f=rss)
+  - [OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus](https://36kr.com/newsflashes/3812703324249856?f=rss)
+  - [三星电子劳资双方明日将重启谈判](https://36kr.com/newsflashes/3812744546557446?f=rss)
   - [中国汽车专利公开量全球领先，新能源领域年均增长率17.1%](https://36kr.com/newsflashes/3812660816813575?f=rss)
   - [中微半导体董事长：希望国内客户给设备公司更多机会](https://36kr.com/newsflashes/3812700014010114?f=rss)
   - [印度股市市值蒸发9240亿美元，错失人工智能浪潮](https://36kr.com/newsflashes/3812663316274949?f=rss)
   - [招商策略：A股非金融上市企业开启新一轮产能扩张周期](https://36kr.com/newsflashes/3812689676230400?f=rss)
+  - [招商策略：主动补库的领域主要集中在TMT和部分中高端制造业](https://36kr.com/newsflashes/3812703734062854?f=rss)
   - [法拉第未来宣布获得2500万美元融资](https://36kr.com/newsflashes/3812688827817475?f=rss)
   - [盖茨基金会不再持有微软股票](https://36kr.com/newsflashes/3812661253365506?f=rss)
   - [知乎CEO周源：AI时代真实创作者价值不可替代](https://36kr.com/newsflashes/3812678434250498?f=rss)
   - [美光科技：深耕中国市场，期待进一步深化与本土客户及合作伙伴合作](https://36kr.com/newsflashes/3812702147600131?f=rss)
+  - [美国长岛铁路员工罢工，约30万通勤者受影响](https://36kr.com/newsflashes/3812702785248774?f=rss)
   - [蔚来：已在全国建成8870座充换电站](https://36kr.com/newsflashes/3812695911816707?f=rss)
   - [贝莱德考虑对SpaceX首次公开募股投资数十亿美元](https://36kr.com/newsflashes/3812690270346760?f=rss)
+  - [长安汽车否认与千里科技合作](https://36kr.com/newsflashes/3812843633991425?f=rss)
 - daniel.haxx.se
   - [named globs with curl](https://daniel.haxx.se/blog/2026/05/16/named-globs-with-curl/)
 - daringfireball.net
