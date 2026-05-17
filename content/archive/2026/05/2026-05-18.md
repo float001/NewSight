@@ -10,6 +10,7 @@
   - [The AI water issue is fake](https://blog.andymasley.com/p/the-ai-water-issue-is-fake)
   - [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-3629 exploit](https://sploitus.com/exploit?id=B4CA45A0-D907-580B-BF32-C71E72B4B4A3&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=5ACFBA03-104F-5AF5-AAF1-FB5B7870BF2F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=76C3397C-09F4-5F1E-B0A5-5AC97266BE1B&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=840AF3E7-8107-530A-9DA9-1F248A206A70&utm_source=rss&utm_medium=rss)
@@ -19,6 +20,7 @@
   - [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/)
   - [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)
 - The Verge
+  - [Microsoft is retiring Teams’ Together Mode](https://www.theverge.com/tech/932215/microsoft-teams-together-mode)
   - [Revamped Siri will reportedly offer auto-deleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats)
   - [University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement)
 - Vulners.com RSS Feed
@@ -29,8 +31,12 @@
   - [CVE-2026-8721](https://vulners.com/nvd/NVD:CVE-2026-8721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8721 Crypt::OpenSSL::PKCS12 versions through 1.94 for Perl truncates passwords with embedded NULLs](https://vulners.com/cve/CVE-2026-8721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8721 Crypt::OpenSSL::PKCS12 versions through 1.94 for Perl truncates passwords with embedded NULLs](https://vulners.com/cvelist/CVELIST:CVE-2026-8721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8764 H3C Magic B3 aspForm UpdateWanParams buffer overflow](https://vulners.com/cve/CVE-2026-8764?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8764 H3C Magic B3 aspForm UpdateWanParams buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-8764?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-3629](https://vulners.com/githubexploit/B4CA45A0-D907-580B-BF32-C71E72B4B4A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/5ACFBA03-104F-5AF5-AAF1-FB5B7870BF2F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/76C3397C-09F4-5F1E-B0A5-5AC97266BE1B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-8181](https://vulners.com/githubexploit/300A3F87-96E3-5A9A-BC5B-46F2890EF41B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/840AF3E7-8107-530A-9DA9-1F248A206A70?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/95CD383C-03DE-5113-957F-A3799F721D1D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Flawfinder-ANSI-Exploit-POC](https://vulners.com/githubexploit/5B50AF5A-FBCC-5C42-A9AF-B44F0C59BCB3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
