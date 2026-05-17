@@ -10,18 +10,23 @@
   - [The AI water issue is fake](https://blog.andymasley.com/p/the-ai-water-issue-is-fake)
   - [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=5ACFBA03-104F-5AF5-AAF1-FB5B7870BF2F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=76C3397C-09F4-5F1E-B0A5-5AC97266BE1B&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/)
+  - [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)
 - The Verge
   - [Revamped Siri will reportedly offer auto-deleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats)
   - [University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement)
 - Vulners.com RSS Feed
   - [CVE-2026-46720](https://vulners.com/nvd/NVD:CVE-2026-46720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8507](https://vulners.com/nvd/NVD:CVE-2026-8507?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8507 Crypt::OpenSSL::PKCS12 versions through 1.94 for Perl have out of bound (OOB) write flaws](https://vulners.com/cve/CVE-2026-8507?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8507 Crypt::OpenSSL::PKCS12 versions through 1.94 for Perl have out of bound (OOB) write flaws](https://vulners.com/cvelist/CVELIST:CVE-2026-8507?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8721](https://vulners.com/nvd/NVD:CVE-2026-8721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8721 Crypt::OpenSSL::PKCS12 versions through 1.94 for Perl truncates passwords with embedded NULLs](https://vulners.com/cve/CVE-2026-8721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8721 Crypt::OpenSSL::PKCS12 versions through 1.94 for Perl truncates passwords with embedded NULLs](https://vulners.com/cvelist/CVELIST:CVE-2026-8721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/5ACFBA03-104F-5AF5-AAF1-FB5B7870BF2F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/76C3397C-09F4-5F1E-B0A5-5AC97266BE1B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MillieRCE](https://vulners.com/githubexploit/08F0A607-CC3D-5063-BC97-9181F3BE3F1B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
