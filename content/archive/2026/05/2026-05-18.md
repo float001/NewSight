@@ -12,7 +12,10 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=5ACFBA03-104F-5AF5-AAF1-FB5B7870BF2F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=76C3397C-09F4-5F1E-B0A5-5AC97266BE1B&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=840AF3E7-8107-530A-9DA9-1F248A206A70&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=95CD383C-03DE-5113-957F-A3799F721D1D&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Apple’s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/)
   - [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/)
   - [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)
 - The Verge
@@ -28,6 +31,9 @@
   - [CVE-2026-8721 Crypt::OpenSSL::PKCS12 versions through 1.94 for Perl truncates passwords with embedded NULLs](https://vulners.com/cvelist/CVELIST:CVE-2026-8721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/5ACFBA03-104F-5AF5-AAF1-FB5B7870BF2F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/76C3397C-09F4-5F1E-B0A5-5AC97266BE1B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/840AF3E7-8107-530A-9DA9-1F248A206A70?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/95CD383C-03DE-5113-957F-A3799F721D1D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Flawfinder-ANSI-Exploit-POC](https://vulners.com/githubexploit/5B50AF5A-FBCC-5C42-A9AF-B44F0C59BCB3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MillieRCE](https://vulners.com/githubexploit/08F0A607-CC3D-5063-BC97-9181F3BE3F1B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
