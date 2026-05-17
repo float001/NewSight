@@ -26,6 +26,7 @@
   - [印度股市市值蒸发9240亿美元，错失人工智能浪潮](https://36kr.com/newsflashes/3812663316274949?f=rss)
   - [又诞生一位千亿女富豪](https://36kr.com/p/3813040859258373?f=rss)
   - [史上最大IPO来袭，SpaceX加速驶入纳斯达克](https://36kr.com/p/3812789087264519?f=rss)
+  - [国轩高科：预计2030年将建成10万吨/年固态电解质产能，可满足100GWh固态电池需求](https://36kr.com/newsflashes/3813049075244802?f=rss)
   - [宏和科技：向香港联交所递交境外上市股份（H股）发行并上市申请](https://36kr.com/newsflashes/3813108827069961?f=rss)
   - [宏桥控股：公司2026年预计资本开支约90亿元，目前暂无铝加工板块新增扩张规划](https://36kr.com/newsflashes/3812844853812995?f=rss)
   - [小米卢伟冰：下半年部分国产旗舰直板手机价格或将破万](https://36kr.com/newsflashes/3813056296115975?f=rss)
@@ -33,6 +34,7 @@
   - [招商策略：主动补库的领域主要集中在TMT和部分中高端制造业](https://36kr.com/newsflashes/3812703734062854?f=rss)
   - [摩尔线程与国家具身智能应用中试基地签署战略合作协议](https://36kr.com/newsflashes/3812778475167490?f=rss)
   - [日本2025财年人均大米消费量下滑6%，创七年新低](https://36kr.com/newsflashes/3812952621670152?f=rss)
+  - [星巴克宣布在美关闭多个地区办公室](https://36kr.com/newsflashes/3813111043399171?f=rss)
   - [杭州机器人展吸引全球客商“淘”宝，意向合作总金额突破213亿元](https://36kr.com/newsflashes/3812949703073285?f=rss)
   - [欧洲国债收益率高企，通胀攀升或推动央行加息](https://36kr.com/newsflashes/3813111545388801?f=rss)
   - [法拉第未来宣布获得2500万美元融资](https://36kr.com/newsflashes/3812688827817475?f=rss)
@@ -48,6 +50,7 @@
   - [贝莱德考虑对SpaceX首次公开募股投资数十亿美元](https://36kr.com/newsflashes/3812690270346760?f=rss)
   - [超310家企业落户香港或在港扩充业务](https://36kr.com/newsflashes/3813026865307139?f=rss)
   - [长安汽车否认与千里科技合作](https://36kr.com/newsflashes/3812843633991425?f=rss)
+  - [长鑫科技：预计上半年营收1100-1200亿元](https://36kr.com/newsflashes/3813206799933188?f=rss)
   - [阿斯麦与塔塔电子签署谅解备忘录](https://36kr.com/newsflashes/3812704658447875?f=rss)
   - [阿根廷牛肉消费量降至20年来最低水平](https://36kr.com/newsflashes/3813029735620098?f=rss)
   - [韩国SK海力士来锡对接深化合作](https://36kr.com/newsflashes/3812953571565312?f=rss)
@@ -70,6 +73,8 @@
   - [Tesla Solar Roof is on life support as it pivot to panels](https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/)
   - [Why is this site named Antipope?](https://www.antipope.org/charlie/old/antipope.html)
   - [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
+- HackerNoon
+  - [The Neuroscience of Toxic Leadership: Why Shouting Literally Shuts Down the Brain](https://hackernoon.com/the-neuroscience-of-toxic-leadership-why-shouting-literally-shuts-down-the-brain?source=rss)
 - seangoedecke.com
   - [How I use LLMs as a staff engineer in 2026](https://seangoedecke.com/how-i-use-llms-in-2026/)
 - simonwillison.net
@@ -96,6 +101,8 @@
   - [The offline desk gadget that actually got me to sit up straight](https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/)
 - The Decoder
   - [Four AI models ran radio stations for six months and the results ranged from competent to unhinged](https://the-decoder.com/four-ai-models-ran-radio-stations-for-six-months-and-the-results-ranged-from-competent-to-unhinged/)
+  - [Greg Brockman consolidates OpenAI's product teams to build an "agentic future"](https://the-decoder.com/greg-brockman-consolidates-openais-product-teams-to-build-an-agentic-future/)
+  - [Mistral CEO Arthur Mensch warns France against letting Anthropic's Mythos scan military code bases](https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases/)
   - [New math benchmark reveals AI models confidently solve problems that have no solution](https://the-decoder.com/new-math-benchmark-reveals-ai-models-confidently-solve-problems-that-have-no-solution/)
   - [Oppo open-sources Android AI agent X-OmniClaw that uses your camera, screen, and voice without leaving the phone](https://the-decoder.com/oppo-open-sources-android-ai-agent-x-omniclaw-that-uses-your-camera-screen-and-voice-without-leaving-the-phone/)
 - The Verge
@@ -143,6 +150,18 @@
   - [CVE-2026-8764 | H3C Magic B3 up to 100R002 /goform/aspForm UpdateWanParams param buffer overflow](https://vuldb.com/vuln/364389)
   - [CVE-2026-8765 | Kilo-Org kilocode up to 7.0.47 File Diff API Endpoint worktree-diff.ts Bun.file path traversal](https://vuldb.com/vuln/364390)
   - [CVE-2026-8766 | Kilo-Org kilocode up to 7.0.47 Environment Variable config.ts load KILO_CONFIG_CONTENT information disclosure](https://vuldb.com/vuln/364391)
+  - [CVE-2026-8767 | vercel ai up to 3.0.97 PR Branch Name Interpolation prettier-on-automerge.yml run os command injection](https://vuldb.com/vuln/364392)
+  - [CVE-2026-8768 | vercel ai up to 3.0.97 provider-utils download-blob.ts validateDownloadUrl server-side request forgery](https://vuldb.com/vuln/364393)
+  - [CVE-2026-8769 | vercel ai up to 3.0.97 provider-utils response-handler.ts resource consumption](https://vuldb.com/vuln/364394)
+  - [CVE-2026-8770 | continuedev continue up to 1.2.22 JSON-RPC Server lsTool.ts lsTool dirPath path traversal](https://vuldb.com/vuln/364395)
+  - [CVE-2026-8771 | linlinjava litemall up to 1.8.0 Front-end WeChat API WxGoodsController.java list sql injection](https://vuldb.com/vuln/364396)
+  - [CVE-2026-8772 | linlinjava litemall up to 1.8.0 Admin Endpoint sql injection](https://vuldb.com/vuln/364397)
+  - [CVE-2026-8773 | linlinjava litemall up to 1.8.0 Database Setting DbUtil.java backup/load db/password argument injection](https://vuldb.com/vuln/364398)
+  - [CVE-2026-8774 | Edimax BR-6228NC 1.22 POST Request /goform/mp command command injection](https://vuldb.com/vuln/364399)
+  - [CVE-2026-8775 | Edimax BR-6428NS 1.10 POST Request /goform/formL2TPSetup L2TPUserName buffer overflow](https://vuldb.com/vuln/364400)
+  - [CVE-2026-8776 | Edimax BR-6428NS 1.10 POST Request /goform/formPPTPSetup pptpUserName buffer overflow](https://vuldb.com/vuln/364401)
+  - [CVE-2026-8777 | Edimax BR-6428NS 1.10 POST Request /goform/formStaDrvSetup stadrv_ssid command injection](https://vuldb.com/vuln/364402)
+  - [CVE-2026-8779 | omec-project amf up to 2.1.3-dev ngap/handler.go NGSetupRequest InformationElement memory corruption (Issue 671)](https://vuldb.com/vuln/364403)
 - Vulners.com RSS Feed
   - [[SECURITY] Fedora 44 Update: libgit2_1.8-1.8.5-1.fc44](https://vulners.com/fedora/FEDORA:68C696E755?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 44 Update: pypy-7.3.22-2.fc44](https://vulners.com/fedora/FEDORA:D6BCA6FEC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -220,8 +239,13 @@
   - [CVE-2026-8738 Sanluan PublicCMS Trade Payment Flow TradeOrderController.java AccountGatewayComponent.pay logic error](https://vulners.com/cvelist/CVELIST:CVE-2026-8738?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8739](https://vulners.com/nvd/NVD:CVE-2026-8739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8739 Sanluan PublicCMS SafeConfigComponent.java getSignKey hard-coded key](https://vulners.com/cvelist/CVELIST:CVE-2026-8739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8740](https://vulners.com/nvd/NVD:CVE-2026-8740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8741](https://vulners.com/nvd/NVD:CVE-2026-8741?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8741 EMQX QoS 2 PUBLISH Packet emqx_persistent_session_ds.erl race condition](https://vulners.com/cve/CVE-2026-8741?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8741 EMQX QoS 2 PUBLISH Packet emqx_persistent_session_ds.erl race condition](https://vulners.com/cvelist/CVELIST:CVE-2026-8741?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8744](https://vulners.com/attackerkb/AKB:004ABF19-473A-4AFA-87AD-087AEB149A5D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8744 Open5GS NRF context.c ogs_sbi_nf_service_add denial of service](https://vulners.com/cve/CVE-2026-8744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8744 Open5GS NRF context.c ogs_sbi_nf_service_add denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-8744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ebpf-cve-analysis](https://vulners.com/githubexploit/D2164002-C940-55C0-9AC7-FB677E0DF7A2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Eternalblue-ms17-010-lab](https://vulners.com/githubexploit/66C876E9-6FE0-54C3-82A9-818A6802C4C9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Classic Buffer Overflow in Cisco Adaptive_Security_Appliance_Software](https://vulners.com/githubexploit/6A4F1714-1631-525B-AE36-70710D0425C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -239,6 +263,8 @@
   - [GHSA-VFVV-C25P-M7MM vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-VFVV-C25P-M7MM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://vulners.com/thn/THN:F1D4C08914C278DA635806D0B2A31A26?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Vapt-web-application-lab](https://vulners.com/githubexploit/EED1BF44-78D5-548A-AD0F-7E2B61996F3E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [The First Atomic Bomb Test in 1945 Created an Entirely New Material](https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/)
 - 不安全
   - [Linux 内核新增安全漏洞定义及负责任使用 AI 发现漏洞的文档](https://buaq.net/go-417068.html)
 - 代码审计星球
