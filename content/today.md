@@ -4,13 +4,18 @@
   - [【投票】Mac 上使用的截图工具](https://2libra.com/post/sharing-discoveries/aYMdYY3)
   - [程序员中，养猫的人多吗？发照片分享一下](https://2libra.com/post/pet-sharing/ziuQJya)
 - 36氪
+  - [36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院](https://36kr.com/p/3812788568907520?f=rss)
   - [48022桌需退款，这家网红店出了什么事？](https://36kr.com/p/3812706162220548?f=rss)
   - [中国汽车专利公开量全球领先，新能源领域年均增长率17.1%](https://36kr.com/newsflashes/3812660816813575?f=rss)
+  - [中微半导体董事长：希望国内客户给设备公司更多机会](https://36kr.com/newsflashes/3812700014010114?f=rss)
   - [印度股市市值蒸发9240亿美元，错失人工智能浪潮](https://36kr.com/newsflashes/3812663316274949?f=rss)
+  - [招商策略：A股非金融上市企业开启新一轮产能扩张周期](https://36kr.com/newsflashes/3812689676230400?f=rss)
   - [法拉第未来宣布获得2500万美元融资](https://36kr.com/newsflashes/3812688827817475?f=rss)
   - [盖茨基金会不再持有微软股票](https://36kr.com/newsflashes/3812661253365506?f=rss)
   - [知乎CEO周源：AI时代真实创作者价值不可替代](https://36kr.com/newsflashes/3812678434250498?f=rss)
+  - [美光科技：深耕中国市场，期待进一步深化与本土客户及合作伙伴合作](https://36kr.com/newsflashes/3812702147600131?f=rss)
   - [蔚来：已在全国建成8870座充换电站](https://36kr.com/newsflashes/3812695911816707?f=rss)
+  - [贝莱德考虑对SpaceX首次公开募股投资数十亿美元](https://36kr.com/newsflashes/3812690270346760?f=rss)
 - daniel.haxx.se
   - [named globs with curl](https://daniel.haxx.se/blog/2026/05/16/named-globs-with-curl/)
 - daringfireball.net
@@ -143,6 +148,8 @@
   - [CVE-2026-8723](https://vulners.com/nvd/NVD:CVE-2026-8723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8723 qs.stringify crashes on null/undefined entries in comma-format arrays under encodeValuesOnly](https://vulners.com/cve/CVE-2026-8723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8723 qs.stringify crashes on null/undefined entries in comma-format arrays under encodeValuesOnly](https://vulners.com/cvelist/CVELIST:CVE-2026-8723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8724](https://vulners.com/nvd/NVD:CVE-2026-8724?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8725](https://vulners.com/nvd/NVD:CVE-2026-8725?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ebpf-cve-analysis](https://vulners.com/githubexploit/D2164002-C940-55C0-9AC7-FB677E0DF7A2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Classic Buffer Overflow in Cisco Adaptive_Security_Appliance_Software](https://vulners.com/githubexploit/6A4F1714-1631-525B-AE36-70710D0425C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Flowiseai Flowise](https://vulners.com/githubexploit/B64D6F51-68A9-5171-AE7E-7B669615BA5B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -157,3 +164,5 @@
   - [GHSA-VFVV-C25P-M7MM vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-VFVV-C25P-M7MM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 绿盟科技技术博客
+  - [电信日特稿｜绿盟科技汤旭：智能体安全不再是可选项，产业亟待共建可信生态](https://blog.nsfocus.net/%e7%94%b5%e4%bf%a1%e6%97%a5%e7%89%b9%e7%a8%bf%ef%bd%9c%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%b1%a4%e6%97%ad%ef%bc%9a%e6%99%ba%e8%83%bd%e4%bd%93%e5%ae%89%e5%85%a8%e4%b8%8d%e5%86%8d%e6%98%af%e5%8f%af/)
