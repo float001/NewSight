@@ -226,12 +226,17 @@
   - [马斯克：SpaceX今年或在火箭的完全快速可复用性方面取得成功](https://36kr.com/newsflashes/3814482662661636?f=rss)
   - [马斯克：计划今年进行首例用于治疗失明的Neuralink植入手术](https://36kr.com/newsflashes/3814474703462152?f=rss)
   - [高盛称各国央行料将加大力度购买黄金，预估金价年底可达5400美元](https://36kr.com/newsflashes/3814313402506754?f=rss)
+- 404 Media
+  - [Podcast: The Physical Politics of the Internet with Britt Paris](https://www.404media.co/podcast-the-physical-politics-of-the-internet-with-britt-paris/)
+  - [Researchers Wanted Preschool Teachers to Wear Cameras to Train AI](https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/)
 - CERT Recently Published Vulnerability Notes
   - [VU#777338: SGLang contains two remote code execution and one path traversal vulnerability](https://kb.cert.org/vuls/id/777338)
 - daringfireball.net
   - [Drata](https://drata.com/daring)
 - darkreading
   - [Can Laws Stop Deepfakes? South Korea Aims to Find Out](https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea)
+- Data Breach
+  - [ShinyHunters hack 7-Eleven: franchisee data and Salesforce records exposed](https://securityaffairs.com/192336/data-breach/shinyhunters-hack-7-eleven-franchisee-data-and-salesforce-records-exposed.html)
 - defend.network
   - [Daily Threat Briefing – May 18, 2026](https://defend.network/briefings/nginx-exchange-supply-chain-critical-2026-05-18.html)
 - ElcomSoft blog
@@ -243,6 +248,7 @@
   - [Linux security mailing list 'almost unmanageable'](https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633)
   - [Meta deletes popular 1M follower account after Kuwaiti request](https://twitter.com/ryangrim/status/2055992439031185782)
   - [Scientists "bottle the sun" with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm)
+  - [Show HN: Files.md – open-source alternative to Obsidian](https://github.com/zakirullin/files.md)
   - [The AI water issue is fake](https://blog.andymasley.com/p/the-ai-water-issue-is-fake)
   - [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
   - [Why is Google Maps back to showing old satellite images of Altadena?](https://www.reddit.com/r/pasadena/s/94BHlkE84r)
@@ -268,8 +274,10 @@
   - [The Trojan PR: Achieving Code Execution in GitHub Actions via Pipeline Poisoning](https://infosecwriteups.com/the-trojan-pr-achieving-code-execution-in-github-actions-via-pipeline-poisoning-a3494bde3f70?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [Bank of England, FCA and Treasury Raise Alarm Over Frontier AI](https://www.infosecurity-magazine.com/news/bank-england-fca-treasury-alarm/)
+  - [Interpol Launches Sweeping Cybercrime Crackdown in MENA Region](https://www.infosecurity-magazine.com/news/interpol-cybercrime-crackdown-mena/)
   - [NCSC Publishes Guidance on Securing Agentic AI Use](https://www.infosecurity-magazine.com/news/ncsc-publishes-guidance-securing/)
   - [Security Researchers Find 47 Zero-Days at Pwn2Own Berlin](https://www.infosecurity-magazine.com/news/security-researchers-47-zerodays/)
+  - [The Infosecurity Europe Cyber Startup Competition: Meet the Finalists](https://www.infosecurity-magazine.com/news/infosec-europe-cyber-startup/)
 - it-notes.dragas.net
   - [FediMeteo, HAProxy, and the art of not wasting snac threads](https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/)
 - joanwestenberg.com
@@ -297,6 +305,7 @@
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=76C3397C-09F4-5F1E-B0A5-5AC97266BE1B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-8053 exploit](https://sploitus.com/exploit?id=6F3CBDD6-D539-546A-BE8F-2A0BD44EF01D&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Lfprojects Mlflow exploit](https://sploitus.com/exploit?id=EFFC08B0-C452-5333-8096-DFFBB35B450C&utm_source=rss&utm_medium=rss)
+  - [Exploit for Double Free in Microsoft exploit](https://sploitus.com/exploit?id=7BEE978E-5152-57B1-A60E-5C364AC4A0BC&utm_source=rss&utm_medium=rss)
   - [Exploit for Embedded Malicious Code in Tanstack Tanstack\/Arktype-Adapter exploit](https://sploitus.com/exploit?id=4D70655E-6858-5FC9-9F7B-DEDE5131B599&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Handling of Exceptional Conditions in Apache Struts exploit](https://sploitus.com/exploit?id=480E212C-BE8C-575B-943A-F546559EF7B5&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Privilege Management in Microsoft exploit](https://sploitus.com/exploit?id=2EC3D06F-616D-5241-853D-154D108F0DA7&utm_source=rss&utm_medium=rss)
@@ -308,12 +317,16 @@
   - [pentest-report-clinic-sangabriel exploit](https://sploitus.com/exploit?id=07AC44A5-5DE2-5F4D-907F-59566EB006B2&utm_source=rss&utm_medium=rss)
   - [search-cve exploit](https://sploitus.com/exploit?id=9A32A3B1-BA55-5EDD-A200-30432EDB282C&utm_source=rss&utm_medium=rss)
   - [sec-recon-agent exploit](https://sploitus.com/exploit?id=FC680F1F-BC43-53D0-AA72-216012BA3A1E&utm_source=rss&utm_medium=rss)
+- Taxodium
+  - [Zine#49](https://taxodium.ink/49.html)
 - TechCrunch
   - [Apple’s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/)
   - [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/)
+  - [Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom](https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/)
   - [South Korea’s LetinAR is building optics behind AI glasses](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/)
   - [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)
 - The Decoder
+  - [A Stanford student reflects on his ChatGPT class and a culture of "just a little bit of fraud"](https://the-decoder.com/a-stanford-student-reflects-on-his-chatgpt-class-and-a-culture-of-just-a-little-bit-of-fraud/)
   - [AI startup revenue hits $80 billion, but Anthropic and OpenAI take almost all of it](https://the-decoder.com/ai-startup-revenue-hits-80-billion-but-anthropic-and-openai-take-almost-all-of-it/)
   - [Anthropic to brief global financial regulators on cyber flaws found by Claude Mythos](https://the-decoder.com/anthropic-to-brief-global-financial-regulators-on-cyber-flaws-found-by-claude-mythos/)
   - [MAGA-aligned groups want government oversight of frontier AI models](https://the-decoder.com/maga-aligned-groups-want-government-oversight-of-frontier-ai-models/)
@@ -376,11 +389,17 @@
   - [CVE-2026-3495](https://vulners.com/nvd/NVD:CVE-2026-3495?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3637](https://vulners.com/nvd/NVD:CVE-2026-3637?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41119](https://vulners.com/nvd/NVD:CVE-2026-41119?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41487 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-41487?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41487 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-41487?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42009](https://vulners.com/nvd/NVD:CVE-2026-42009?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42009 Gnutls: gnutls: denial of service via dtls packet reordering vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-42009?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4273](https://vulners.com/nvd/NVD:CVE-2026-4273?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4286](https://vulners.com/nvd/NVD:CVE-2026-4286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4286 Playbooks Plugin fails to validate team transfers, allowing unauthorized removal of member access via playbook update](https://vulners.com/cvelist/CVELIST:CVE-2026-4286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4320](https://vulners.com/nvd/NVD:CVE-2026-4320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44902 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-44902?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45134 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-45134?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45134 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-45134?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4643](https://vulners.com/nvd/NVD:CVE-2026-4643?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4643 Calling window.close() from server-side content causes crash in the Mattermost Desktop App](https://vulners.com/cve/CVE-2026-4643?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4643 Calling window.close() from server-side content causes crash in the Mattermost Desktop App](https://vulners.com/cvelist/CVELIST:CVE-2026-4643?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -480,6 +499,7 @@
   - [Exploit for CVE-2026-8053](https://vulners.com/githubexploit/6F3CBDD6-D539-546A-BE8F-2A0BD44EF01D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-8181](https://vulners.com/githubexploit/300A3F87-96E3-5A9A-BC5B-46F2890EF41B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Lfprojects Mlflow](https://vulners.com/githubexploit/EFFC08B0-C452-5333-8096-DFFBB35B450C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Double Free in Microsoft](https://vulners.com/githubexploit/7BEE978E-5152-57B1-A60E-5C364AC4A0BC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Embedded Malicious Code in Tanstack Tanstack\/Arktype-Adapter](https://vulners.com/githubexploit/4D70655E-6858-5FC9-9F7B-DEDE5131B599?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Heap-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/41425084-C54D-5030-AFEE-28B3414850BE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Handling of Exceptional Conditions in Apache Struts](https://vulners.com/githubexploit/480E212C-BE8C-575B-943A-F546559EF7B5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -491,6 +511,9 @@
   - [Exploit for Out-of-bounds Write in Polkit_Project Polkit](https://vulners.com/githubexploit/BBFCE6F4-94F5-5E2C-A857-5B7BF90A13AB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Flawfinder-ANSI-Exploit-POC](https://vulners.com/githubexploit/5B50AF5A-FBCC-5C42-A9AF-B44F0C59BCB3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware](https://vulners.com/thn/THN:597EC3E36639398344F30722E2497149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-3644-Q5CJ-C5C7 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-3644-Q5CJ-C5C7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-3644-Q5CJ-C5C7 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-3644-Q5CJ-C5C7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-Q7RR-3CGH-J5R3 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-Q7RR-3CGH-J5R3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: jq security update](https://vulners.com/redhat/RHSA-2026:18040?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: jq security update](https://vulners.com/redhat/RHSA-2026:18042?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: jq security update](https://vulners.com/redhat/RHSA-2026:18047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -523,11 +546,13 @@
   - [sec-recon-agent](https://vulners.com/githubexploit/FC680F1F-BC43-53D0-AA72-216012BA3A1E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: DevOps Test Performance contains a vulnerability related to use of netty-handler-proxy](https://vulners.com/ibm/FBE091D255360F5227DB03C65B185EAD0C3A07C808ED004A1580797A900C5007?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress AI Engine – The Chatbot, AI Framework & MCP for WordPress plugin 3.4.9-3.4.9 - Authenticated (Subscriber+) Privilege Escalation vulnerability](https://vulners.com/patchstack/PATCHSTACK:8DF0EA2DC8A01AD80BEC282F63899922?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More](https://vulners.com/thn/THN:026780639FFAC7EB1535708E446DD2B9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wallarm
   - [What Your Board Gets Wrong About AI Security](https://lab.wallarm.com/what-your-board-gets-wrong-about-ai-security/)
 - Wired
   - [An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings](https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/)
   - [Supercharging Immune Cells May Help Control HIV Long-Term](https://www.wired.com/story/car-t-therapy-may-help-control-hiv-long-term/)
+  - [The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable](https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable/)
 - 不安全
   - [Broken Authentication: How Attackers Gain Unauthorized Access to Your Application.](https://buaq.net/go-417237.html)
   - [Developer Workstations Are Now Part of the Software Supply Chain](https://buaq.net/go-417242.html)
@@ -546,5 +571,6 @@
 - 量子位 QbitAI
   - [AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议](https://www.qbitai.com/2026/05/419528.html)
   - [openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕](https://www.qbitai.com/2026/05/419515.html)
+  - [重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代](https://www.qbitai.com/2026/05/419585.html)
 - 黑海洋
   - [特斯拉公开17起Robotaxi碰撞事故详情：多为被追尾](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%AC%E5%BC%8017%E8%B5%B7Robotaxi%E7%A2%B0%E6%92%9E%E4%BA%8B%E6%95%85%E8%AF%A6%E6%83%85-%E5%A4%9A%E4%B8%BA%E8%A2%AB%E8%BF%BD%E5%B0%BE)
