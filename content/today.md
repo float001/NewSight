@@ -1,4 +1,19 @@
 # 今日安全资讯（2026-05-19）
 
+- daringfireball.net
+  - [Existing Stakeholders Have a Say in the Future](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
+  - [Ted Turner’s Small Apartment Above the Former CNN Center](https://www.youtube.com/watch?v=OUIVs58oyPI)
+  - [‘AI, “Humanity”, and Dr. Manhattan Syndrome’](https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome)
+- Fidelis Security
+  - [How to Choose the Right EDR Solution in 2026](https://fidelissecurity.com/threatgeek/endpoint-security/choose-best-edr-solution/)
+- TechCrunch
+  - [NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people](https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/)
+- Vulners.com RSS Feed
+  - [CVE-2025-56352](https://vulners.com/nvd/NVD:CVE-2025-56352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-57282](https://vulners.com/nvd/NVD:CVE-2025-57282?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-20685](https://vulners.com/nvd/NVD:CVE-2026-20685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36438](https://vulners.com/nvd/NVD:CVE-2026-36438?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [当攻击开始“自主决策”，安全体系如何应战？](https://www.anquanke.com/post/id/315518)
