@@ -4,11 +4,14 @@
   - [【去水印】有没有可以去图片水印的工具啊](https://2libra.com/post/recommendations/BNyiKZb)
   - [【🔒】2 站周边试错第三弹，手机壳](https://2libra.com/post/personal-works/G1cmmEZ)
   - [今天早上，在公司楼下排队迟到了。又要乐捐二十了](https://2libra.com/post/office-life/3sup5RL)
+  - [刚才 codex 给全家网弄断了 😭😭😭😭](https://2libra.com/post/remote-access/4_nJJA3)
+  - [半小时不到就困了](https://2libra.com/post/personal-life/3OrA4Jc)
   - [原创 wordpress 主题【山风 ShanFeng】公测上线！](https://2libra.com/post/promotion/FTe5CqR)
   - [喂喂喂，大伙人呢，最近都用 ai 开发了啥](https://2libra.com/post/indie-dev/X8V3tha)
   - [春暖花开，天气炎热，是个好季节，最近有点思春了怎么办？](https://2libra.com/post/love/hGw2Ok3)
   - [最近在购买 TOkens 词元上花了不少钱，以后词元会和手机流量一样是刚需吗？](https://2libra.com/post/ai-trends/vLZs6dA)
   - [有没有 chatgpt (mac 平台)的平替工具啊](https://2libra.com/post/recommendations/jYWeCJx)
+  - [灵气复苏……就是指这个季节有白蚁那么大的蚊子跟你亲热吗？](https://2libra.com/post/travel-logs/_54msQU)
   - [隔壁 v 站 好像墙了花云](https://2libra.com/post/excessive-things/c2EnXcO)
 - 36氪
   - [2025年全国博物馆接待观众15.6亿人次](https://36kr.com/newsflashes/3814145260117765?f=rss)
@@ -16,11 +19,13 @@
   - [36氪首发 | 获超千万融资，「律动节拍」用演出票撬起千亿跨城观演赛道](https://36kr.com/p/3813463119863553?f=rss)
   - [5月18日人民币对美元中间价调贬20个基点](https://36kr.com/newsflashes/3814113595825924?f=rss)
   - [8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元](https://36kr.com/p/3814030630084354?f=rss)
+  - [Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI](https://36kr.com/p/3814408307711492?f=rss)
   - [AI数据中心致光纤价格暴涨，交货期限延长至20周以上](https://36kr.com/newsflashes/3814199213121280?f=rss)
   - [AI高景气与盈利持续兑现，机构：资金或往科技方向进一步集中](https://36kr.com/newsflashes/3813994525416969?f=rss)
   - [Anthropic据悉将向金融稳定委员会简报AI模型Mythos发现的网络防御漏洞](https://36kr.com/newsflashes/3814300899532295?f=rss)
   - [A股三大指数午间休盘集体下跌，中曼石油涨超4%](https://36kr.com/newsflashes/3814246602939913?f=rss)
   - [A股三大指数集体低开，湖南白银跌超3%](https://36kr.com/newsflashes/3814123778579969?f=rss)
+  - [A股三大指数集体收跌，存储器概念走强](https://36kr.com/newsflashes/3814452093771269?f=rss)
   - [A股五大上市险企均宣布不再设立监事会](https://36kr.com/newsflashes/3814066852109833?f=rss)
   - [NextEra拟以660亿美元收购Dominion，或创史上最大规模电力并购纪录](https://36kr.com/newsflashes/3814011573772040?f=rss)
   - [WTI原油期货涨超2%](https://36kr.com/newsflashes/3814092723346952?f=rss)
@@ -38,6 +43,7 @@
   - [个人养老金基金产品再现集中“上新”](https://36kr.com/newsflashes/3814048599809798?f=rss)
   - [中信建投：供给改善需求旺盛，锂价高位震荡运行](https://36kr.com/newsflashes/3814021090746112?f=rss)
   - [中信证券：模型加速商业化，看好AI产业后续催化](https://36kr.com/newsflashes/3814064605257225?f=rss)
+  - [中国人民银行原副行长朱民：需要形成适当的政策来引领AI使用](https://36kr.com/newsflashes/3814414952668676?f=rss)
   - [乐天集团：正在考虑重组我们的金融科技业务](https://36kr.com/newsflashes/3814046881717767?f=rss)
   - [五粮液：2025年度百亿分红两月内到账，严格兑现200亿元分红承诺](https://36kr.com/newsflashes/3814191718899209?f=rss)
   - [今年以来近七成浮动费率基金实现正收益](https://36kr.com/newsflashes/3814001201257984?f=rss)
@@ -82,7 +88,10 @@
   - [新东方在珠海成立文旅投资公司，注册资本2亿](https://36kr.com/newsflashes/3814293064490757?f=rss)
   - [新加坡监管机构暂停对11亿美元M1-Tuas交易的审查](https://36kr.com/newsflashes/3814109664435721?f=rss)
   - [新版Siri支持自动删除聊天记录](https://36kr.com/newsflashes/3814049933336066?f=rss)
+  - [星宸科技：车载激光雷达芯片预计2027年起将进入规模化量产，目标出货量有望达千万级别](https://36kr.com/newsflashes/3814410270203401?f=rss)
+  - [机构：MLCC价格循环已来到反转向上的关键点](https://36kr.com/newsflashes/3814403772079623?f=rss)
   - [村田拟斥资169亿日元扩建八日市工厂热敏电阻产能](https://36kr.com/newsflashes/3814093250665985?f=rss)
+  - [沪深两市成交额突破2.5万亿元](https://36kr.com/newsflashes/3814412543155715?f=rss)
   - [沪深两市成交额突破2万亿](https://36kr.com/newsflashes/3814339957382916?f=rss)
   - [沪银期货主力合约跌超10%](https://36kr.com/newsflashes/3814107460247300?f=rss)
   - [浙江时迈药业股份有限公司-B向港交所提交上市申请书](https://36kr.com/newsflashes/3814304544415238?f=rss)
@@ -94,6 +103,7 @@
   - [现货白银跌超2%](https://36kr.com/newsflashes/3814081798709001?f=rss)
   - [现货黄金日内跌1%](https://36kr.com/newsflashes/3814073530244872?f=rss)
   - [理财产品表现分化加剧，行业加速转向质量与收益导向](https://36kr.com/newsflashes/3814076861931012?f=rss)
+  - [瑞安航空实现创纪录盈利，但警告国际原油可能导致利润下行](https://36kr.com/newsflashes/3814412398124801?f=rss)
   - [由常住地提供基本公共服务相关文件将出台](https://36kr.com/newsflashes/3814373582872329?f=rss)
   - [电子布需求旺盛，上市公司加速扩产](https://36kr.com/newsflashes/3814000531398408?f=rss)
   - [离境退税优化举措推出在即，持续激活入境消费潜力](https://36kr.com/newsflashes/3813997045456643?f=rss)
@@ -105,19 +115,24 @@
   - [腾讯AI设计智能体协作平台Ardot正式开启公测](https://36kr.com/newsflashes/3814355782737670?f=rss)
   - [英伟达正与SIMPLISMART进行谈判，拟牵头参与一轮规模为2000万美元的融资活动](https://36kr.com/newsflashes/3814074527194889?f=rss)
   - [英杰电气：截至目前公司AI电源产品尚未获得北美市场相关厂商认证](https://36kr.com/newsflashes/3814321719959299?f=rss)
+  - [英美资源拟最高38.75亿美元现金出售其澳洲炼焦煤业务](https://36kr.com/newsflashes/3814413064920584?f=rss)
   - [证监会副主席李超：将全力稳定和增强资本市场信心，以更大力度推进北交所深化改革](https://36kr.com/newsflashes/3814139684167168?f=rss)
   - [证监会副主席李超：截至今年4月底，“并购六条”发布以来，上市公司披露资产重组3422单](https://36kr.com/newsflashes/3814138006429184?f=rss)
   - [贝恩资本完成105亿美元亚洲基金的募集](https://36kr.com/newsflashes/3814084617068035?f=rss)
   - [贵州茅台：优化茅台酒线下门店营业时间及i茅台App开售时间](https://36kr.com/newsflashes/3814184363384581?f=rss)
+  - [贾跃亭FF中国公司近一年6次增资](https://36kr.com/newsflashes/3814440690408967?f=rss)
   - [赛力斯增资至约17.4亿](https://36kr.com/newsflashes/3814389059313415?f=rss)
   - [阳狮集团宣布以22亿美元全现金收购LiveRamp](https://36kr.com/newsflashes/3814021584068105?f=rss)
   - [韩国法院要求三星电子罢工行动不得影响产量](https://36kr.com/newsflashes/3814221657218569?f=rss)
   - [韩国股市触发“边车”机制，KOSPI 200期货暴跌超5%暂停程序化卖单](https://36kr.com/newsflashes/3814065171013383?f=rss)
+  - [飞猪针对柳州地震启动应急响应机制，已保障部分消费者全额退款](https://36kr.com/newsflashes/3814419124838144?f=rss)
   - [高盛称各国央行料将加大力度购买黄金，预估金价年底可达5400美元](https://36kr.com/newsflashes/3814313402506754?f=rss)
 - daringfireball.net
   - [Drata](https://drata.com/daring)
 - darkreading
   - [Can Laws Stop Deepfakes? South Korea Aims to Find Out](https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea)
+- defend.network
+  - [Daily Threat Briefing – May 18, 2026](https://defend.network/briefings/nginx-exchange-supply-chain-critical-2026-05-18.html)
 - Hacker News Frontpage
   - [Americans Are Smashing Flock Cameras](https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/)
   - [EU weighs restricting use of US cloud platforms to process sensitive gov data](https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/)
@@ -129,6 +144,8 @@
   - [How to be inspired without copying](https://www.joanwestenberg.com/how-to-be-inspired-without-copying/)
 - Kali Linux Tutorials
   - [How to Install LEMP Stack on Ubuntu 26.04 for Beginners](https://kalilinuxtutorials.com/install-lemp-stack-ubuntu/)
+- Product Hunt
+  - [Voiser AI](https://www.producthunt.com/products/voiser-ai-text-to-speech)
 - Sploitus.com Exploits RSS Feed
   - [Alfred-TryHackMe-Walkthrough-Jenkins-Exploitation-Windows-Token-Privilege-Escalation exploit](https://sploitus.com/exploit?id=0A2230D0-E734-5EAE-9149-EDFB7EBE2C8F&utm_source=rss&utm_medium=rss)
   - [DC-1-VulnHub- exploit](https://sploitus.com/exploit?id=A3D87459-8590-5D45-868C-54C5BDCDF0D4&utm_source=rss&utm_medium=rss)
@@ -226,6 +243,8 @@
   - [news-video-poc](https://vulners.com/githubexploit/1AC9FC78-C33E-5BCE-AADE-42F7EB7B8ACE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sec-recon-agent](https://vulners.com/githubexploit/FC680F1F-BC43-53D0-AA72-216012BA3A1E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress AI Engine – The Chatbot, AI Framework & MCP for WordPress plugin 3.4.9-3.4.9 - Authenticated (Subscriber+) Privilege Escalation vulnerability](https://vulners.com/patchstack/PATCHSTACK:8DF0EA2DC8A01AD80BEC282F63899922?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [开源短链接 Kutt 官方警告：域名忘记续费，现在丢了，不要再访问 kutt[.]it 了](https://buaq.net/go-417185.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
