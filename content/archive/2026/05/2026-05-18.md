@@ -32,6 +32,7 @@
   - [2026年A股掀起“高端扩产潮”，AI与新能源领跑](https://36kr.com/newsflashes/3814003663724038?f=rss)
   - [2026电影总票房已超145亿元](https://36kr.com/newsflashes/3814625889066496?f=rss)
   - [36氪首发 | 获超千万融资，「律动节拍」用演出票撬起千亿跨城观演赛道](https://36kr.com/p/3813463119863553?f=rss)
+  - [4连板京能电力：公司尚无新投运的大型新能源项目](https://36kr.com/newsflashes/3814636538371593?f=rss)
   - [5月18日人民币对美元中间价调贬20个基点](https://36kr.com/newsflashes/3814113595825924?f=rss)
   - [8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元](https://36kr.com/p/3814030630084354?f=rss)
   - [Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI](https://36kr.com/p/3814408307711492?f=rss)
@@ -50,8 +51,11 @@
   - [“绮算法”完成数千万元融资](https://36kr.com/newsflashes/3814142548762372?f=rss)
   - [“避险神器”失灵，美元固收产品面临信任危机](https://36kr.com/newsflashes/3814031828147971?f=rss)
   - [「宇石空间」完成5亿元A轮融资，今年计划交付三枚火箭，累计融资额已达10亿元｜36氪首发](https://36kr.com/p/3814368445259270?f=rss)
+  - [一季度沪市33家银行合计营收上升逾7%，净息差现企稳拐点](https://36kr.com/newsflashes/3814669768941320?f=rss)
+  - [丁薛祥在调研算力网建设时强调 加快构建全国一体化算力网 赋能经济社会高质量发展](https://36kr.com/newsflashes/3814660225801985?f=rss)
   - [三大指数集体翻红](https://36kr.com/newsflashes/3814146540363271?f=rss)
   - [三星与工会的谈判据悉将持续至19日](https://36kr.com/newsflashes/3814265265331713?f=rss)
+  - [三星电子管理层与工会重启谈判，力求避免罢工](https://36kr.com/newsflashes/3814629364882945?f=rss)
   - [三星重工获7.5亿美元LNG运输船订单](https://36kr.com/newsflashes/3814065778269960?f=rss)
   - [上交所：上周新增8家IPO受理企业](https://36kr.com/newsflashes/3814610977431302?f=rss)
   - [上海市市长龚正：到2030年全社会研发经费支出GDP占比提高到5%以上](https://36kr.com/newsflashes/3814222214389509?f=rss)
@@ -65,8 +69,10 @@
   - [中国核建：2026年1-4月新签合同241.48亿元，营收282.54亿元](https://36kr.com/newsflashes/3814598891544320?f=rss)
   - [中国铁建：中标阿联酋航空迪拜世界中心机场新工程项目](https://36kr.com/newsflashes/3814582550879753?f=rss)
   - [中国音数协游戏工委：4月中国游戏市场实际销售收入303.69亿元，同比增长11.04%](https://36kr.com/newsflashes/3814619703188993?f=rss)
+  - [中金公司：公司的A股换股价格为36.68元/股](https://36kr.com/newsflashes/3814683070209795?f=rss)
   - [乐天集团：正在考虑重组我们的金融科技业务](https://36kr.com/newsflashes/3814046881717767?f=rss)
   - [五粮液：2025年度百亿分红两月内到账，严格兑现200亿元分红承诺](https://36kr.com/newsflashes/3814191718899209?f=rss)
+  - [交建股份：中标交通安全设施工程，中标金额约占公司2025年经审计营业收入的4.71%](https://36kr.com/newsflashes/3814628803190534?f=rss)
   - [今年以来近七成浮动费率基金实现正收益](https://36kr.com/newsflashes/3814001201257984?f=rss)
   - [仓位灵活腾挪，重仓A股的沪港深基金业绩抢眼](https://36kr.com/newsflashes/3813981235764738?f=rss)
   - [利剑高悬，私募基金行业加速扶优限劣](https://36kr.com/newsflashes/3814031208504839?f=rss)
@@ -79,6 +85,7 @@
   - [华泰证券：科技内部切换可考虑半导体设备、分立器件等方向](https://36kr.com/newsflashes/3813978847993351?f=rss)
   - [华泰证券：继续看好本轮锂电涨价周期，同时看好钠电池及固态电池从1到N产业趋势](https://36kr.com/newsflashes/3814035328605702?f=rss)
   - [印度法院要求苹果在反垄断案中“配合”](https://36kr.com/newsflashes/3814563842219781?f=rss)
+  - [同洲电子：股东瑞众人寿拟减持不超1%股份](https://36kr.com/newsflashes/3814629997059848?f=rss)
   - [商务部：正在抓紧筹划出台“人工智能+消费”政策体系](https://36kr.com/newsflashes/3814564513275394?f=rss)
   - [国家外汇局：4月企业结汇意愿稳中有降，外汇收入结汇率环比回落](https://36kr.com/newsflashes/3814552796732930?f=rss)
   - [国家外汇局：4月银行结汇17673亿元人民币，售汇14920亿元人民币](https://36kr.com/newsflashes/3814548222516995?f=rss)
@@ -105,8 +112,11 @@
   - [小米YU7 GT官宣定档5月21日上市](https://36kr.com/newsflashes/3814162983919362?f=rss)
   - [巨力索具旗下十余家企业已注销](https://36kr.com/newsflashes/3814535850565127?f=rss)
   - [巨力索具跌停](https://36kr.com/newsflashes/3814129462632198?f=rss)
+  - [广东明珠：截至目前 公司不存在触发ST风险的情形](https://36kr.com/newsflashes/3814653716454920?f=rss)
   - [广汽昊铂S600开启预售](https://36kr.com/newsflashes/3814268748963336?f=rss)
+  - [延江股份：终止购买甬强科技98.54%股权事项](https://36kr.com/newsflashes/3814636956491266?f=rss)
   - [张朝阳：搜狐未入局大模型研发，将聚焦AI应用落地](https://36kr.com/newsflashes/3814580870110978?f=rss)
+  - [德邦科技：国家集成电路基金5月减持致持股比例降至12.90%](https://36kr.com/newsflashes/3814651863981826?f=rss)
   - [恒光股份：老挝基地硫酸生产线正按计划稳步建设，尚未投产](https://36kr.com/newsflashes/3814329261547267?f=rss)
   - [恒指午间休盘跌1.35%，恒生科技指数跌2.08%](https://36kr.com/newsflashes/3814276431109892?f=rss)
   - [恒指开盘跌0.48%，恒生科技指数跌0.88%](https://36kr.com/newsflashes/3814119114284800?f=rss)
@@ -126,6 +136,7 @@
   - [日本长期国债收益率达新高](https://36kr.com/newsflashes/3814480542113539?f=rss)
   - [星宸科技：车载激光雷达芯片预计2027年起将进入规模化量产，目标出货量有望达千万级别](https://36kr.com/newsflashes/3814410270203401?f=rss)
   - [智元WITA成为全国首例完成大模型备案的具身智能交互模型](https://36kr.com/newsflashes/3814631177575939?f=rss)
+  - [机构今日买入富创精密等29股，卖出优迅股份6.9亿元](https://36kr.com/newsflashes/3814664707677700?f=rss)
   - [机构：MLCC价格循环已来到反转向上的关键点](https://36kr.com/newsflashes/3814403772079623?f=rss)
   - [村田拟斥资169亿日元扩建八日市工厂热敏电阻产能](https://36kr.com/newsflashes/3814093250665985?f=rss)
   - [梦天家居：出资8000万元认购基金份额](https://36kr.com/newsflashes/3814618799103491?f=rss)
@@ -155,6 +166,8 @@
   - [科学家首创用DNA引导CRISPR基因编辑](https://36kr.com/newsflashes/3813988839497480?f=rss)
   - [科氪 | 性能极限与跨界尝试：红魔11S Pro系列深度体验](https://36kr.com/p/3814570248412677?f=rss)
   - [算力设施建设保持热度，上市公司开拓“算电协同”蓝海](https://36kr.com/newsflashes/3814012488588806?f=rss)
+  - [索辰科技：物理AI业务目前尚处于布局初期](https://36kr.com/newsflashes/3814664098569985?f=rss)
+  - [统一股份：控股股东拟公开征集转让股份 控制权或变更](https://36kr.com/newsflashes/3814679961050632?f=rss)
   - [美国电价飙升](https://36kr.com/newsflashes/3814613924044553?f=rss)
   - [美国连锁快餐品牌Wendy's将进入中国市场](https://36kr.com/newsflashes/3814154689257221?f=rss)
   - [联讯仪器股价反超贵州茅台，成为A股“新股王”](https://36kr.com/newsflashes/3814176234856199?f=rss)
@@ -172,6 +185,8 @@
   - [贾跃亭FF中国公司近一年6次增资](https://36kr.com/newsflashes/3814440690408967?f=rss)
   - [赛力斯增资至约17.4亿](https://36kr.com/newsflashes/3814389059313415?f=rss)
   - [酷开发布企业AI操作系统](https://36kr.com/newsflashes/3814473276939780?f=rss)
+  - [金发科技：公司AI产业相关特种工程塑料在特种工程塑料的销量占比近3成](https://36kr.com/newsflashes/3814626663112455?f=rss)
+  - [金橙子：收到上交所问询函](https://36kr.com/newsflashes/3814652924174083?f=rss)
   - [阳狮集团宣布以22亿美元全现金收购LiveRamp](https://36kr.com/newsflashes/3814021584068105?f=rss)
   - [韩国法院要求三星电子罢工行动不得影响产量](https://36kr.com/newsflashes/3814221657218569?f=rss)
   - [韩国股市触发“边车”机制，KOSPI 200期货暴跌超5%暂停程序化卖单](https://36kr.com/newsflashes/3814065171013383?f=rss)
@@ -180,6 +195,8 @@
   - [马斯克：SpaceX今年或在火箭的完全快速可复用性方面取得成功](https://36kr.com/newsflashes/3814482662661636?f=rss)
   - [马斯克：计划今年进行首例用于治疗失明的Neuralink植入手术](https://36kr.com/newsflashes/3814474703462152?f=rss)
   - [高盛称各国央行料将加大力度购买黄金，预估金价年底可达5400美元](https://36kr.com/newsflashes/3814313402506754?f=rss)
+- CERT Recently Published Vulnerability Notes
+  - [VU#777338: SGLang contains two remote code execution and one path traversal vulnerability](https://kb.cert.org/vuls/id/777338)
 - daringfireball.net
   - [Drata](https://drata.com/daring)
 - darkreading
@@ -201,8 +218,18 @@
 - IEEE Spectrum
   - [Agentic AI for Robot Teams](https://events.bizzabo.com/867156)
   - [How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation](https://spectrum.ieee.org/melbourne-ai-data-center-innovation)
+- InfoSec Write-ups - Medium
+  - [Broken Authentication: How Attackers Gain Unauthorized Access to Your Application.](https://infosecwriteups.com/broken-authentication-how-attackers-gain-unauthorized-access-to-your-application-88f7e72439db?source=rss----7b722bfd1b8d---4)
+  - [Building a powerful SIEM with Clickhouse and Clickdetect](https://infosecwriteups.com/building-a-powerful-siem-with-clickhouse-and-clickdetect-ae68a4495a76?source=rss----7b722bfd1b8d---4)
+  - [Create a Mass Assignment Lab With Me](https://infosecwriteups.com/create-a-mass-assignment-lab-with-me-30bcc5d30b0f?source=rss----7b722bfd1b8d---4)
+  - [Digging Up the Dead: Disk Forensics & Git Object Archaeology (PicoCTF Walkthrough)](https://infosecwriteups.com/digging-up-the-dead-disk-forensics-git-object-archaeology-picoctf-walkthrough-465fcfdefd07?source=rss----7b722bfd1b8d---4)
+  - [Docker Compose and Microservices Networks](https://infosecwriteups.com/docker-compose-e6fcaa1e5825?source=rss----7b722bfd1b8d---4)
+  - [ICMP Walkthrough — OffSec Lab (Privilege Escalation via hping3)](https://infosecwriteups.com/icmp-walkthrough-offsec-lab-privilege-escalation-via-hping3-50ebb4589cae?source=rss----7b722bfd1b8d---4)
+  - [LLM Security: Understanding AI as an Attack Surface, A TryHackMe Writeup](https://infosecwriteups.com/llm-security-understanding-ai-as-an-attack-surface-a-tryhackme-writeup-2b03828c29b3?source=rss----7b722bfd1b8d---4)
+  - [The Trojan PR: Achieving Code Execution in GitHub Actions via Pipeline Poisoning](https://infosecwriteups.com/the-trojan-pr-achieving-code-execution-in-github-actions-via-pipeline-poisoning-a3494bde3f70?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [Bank of England, FCA and Treasury Raise Alarm Over Frontier AI](https://www.infosecurity-magazine.com/news/bank-england-fca-treasury-alarm/)
+  - [NCSC Publishes Guidance on Securing Agentic AI Use](https://www.infosecurity-magazine.com/news/ncsc-publishes-guidance-securing/)
   - [Security Researchers Find 47 Zero-Days at Pwn2Own Berlin](https://www.infosecurity-magazine.com/news/security-researchers-47-zerodays/)
 - it-notes.dragas.net
   - [FediMeteo, HAProxy, and the art of not wasting snac threads](https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/)
@@ -230,10 +257,12 @@
 - TechCrunch
   - [Apple’s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/)
   - [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/)
+  - [South Korea’s LetinAR is building optics behind AI glasses](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/)
   - [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)
 - The Decoder
   - [AI startup revenue hits $80 billion, but Anthropic and OpenAI take almost all of it](https://the-decoder.com/ai-startup-revenue-hits-80-billion-but-anthropic-and-openai-take-almost-all-of-it/)
 - The Verge
+  - [Bad, Bad, Bad, Bad Roommate](https://www.theverge.com/cs/features/919365/bad-roommate-housing-los-angeles-eviction)
   - [Disco Elysium’s spiritual successor can&#8217;t escape its phantoms](https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium)
   - [Microsoft is retiring Teams’ Together Mode](https://www.theverge.com/tech/932215/microsoft-teams-together-mode)
   - [Revamped Siri will reportedly offer auto-deleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats)
@@ -241,6 +270,20 @@
 - troyhunt.com
   - [Weekly Update 504](https://www.troyhunt.com/weekly-update-504/)
 - VulDB Recent Entries
+  - [CVE-2026-28732 | Mattermost up to 10.11.13/11.4.3/11.5.1 Command Update API authorization](https://vuldb.com/vuln/364453)
+  - [CVE-2026-3117 | Mattermost up to 11.5.1 Gitlab Plugin authorization](https://vuldb.com/vuln/364461)
+  - [CVE-2026-3471 | Mattermost Desktop App up to 5.4.13/6.0.1/6.1.x improper authorization in handler for custom url scheme](https://vuldb.com/vuln/364462)
+  - [CVE-2026-4286 | Mattermost up to 10.11.13/11.5.1 PUT Api team_id authorization](https://vuldb.com/vuln/364456)
+  - [CVE-2026-4643 | Mattermost Desktop App up to 5.4.13/6.0.1/6.1.x window.close unusual condition](https://vuldb.com/vuln/364464)
+  - [CVE-2026-5163 | Mattermost up to 11.5.1 Post Rewrite Endpoint authorization](https://vuldb.com/vuln/364457)
+  - [CVE-2026-6333 | Mattermost up to 10.11.13/11.5.1 Slash Command server-side request forgery](https://vuldb.com/vuln/364458)
+  - [CVE-2026-6339 | Mattermost up to 11.4.3/11.5.1 Markdown origin validation](https://vuldb.com/vuln/364454)
+  - [CVE-2026-6343 | Mattermost up to 10.11.13/11.4.3/11.5.1/11.5.x authorization](https://vuldb.com/vuln/364459)
+  - [CVE-2026-6345 | Mattermost up to 10.11.13/11.4.3/11.5.1/11.5.x insufficiently protected credentials](https://vuldb.com/vuln/364455)
+  - [CVE-2026-6346 | Mattermost up to 10.11.13/11.4.3/11.5.1 Configuration information disclosure](https://vuldb.com/vuln/364460)
+  - [CVE-2026-6347 | Mattermost up to 10.11.13/11.4.3/11.5.1 Calls Plugin plaintext information disclosure](https://vuldb.com/vuln/364463)
+  - [CVE-2026-6902 | Perforce P4 up to 2025.2 Patch 1 code injection](https://vuldb.com/vuln/364465)
+  - [CVE-2026-7498 | Basamak DernekWeb cross site scripting (ID 30122025)](https://vuldb.com/vuln/364466)
   - [CVE-2026-8802 | opensourcepos Open Source Point of Sale up to 3.4.2 Items.php getPicThumb pic_filename path traversal (GHSA-xq63-3v4g-39r5)](https://vuldb.com/vuln/364435)
   - [CVE-2026-8803 | opensourcepos Open Source Point of Sale up to 3.4.2 Employee Login app/Models/Employee.php login weak hash](https://vuldb.com/vuln/364436)
 - Vulners.com RSS Feed
@@ -376,9 +419,16 @@
   - [PackageKit: race condition vulnerability leads to arbitrary package installation as root](https://vulners.com/redhat/RHSA-2026:18024-CVE-2026-41651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sec-recon-agent](https://vulners.com/githubexploit/FC680F1F-BC43-53D0-AA72-216012BA3A1E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress AI Engine – The Chatbot, AI Framework & MCP for WordPress plugin 3.4.9-3.4.9 - Authenticated (Subscriber+) Privilege Escalation vulnerability](https://vulners.com/patchstack/PATCHSTACK:8DF0EA2DC8A01AD80BEC282F63899922?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wallarm
+  - [What Your Board Gets Wrong About AI Security](https://lab.wallarm.com/what-your-board-gets-wrong-about-ai-security/)
 - Wired
   - [An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings](https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/)
+  - [Supercharging Immune Cells May Help Control HIV Long-Term](https://www.wired.com/story/car-t-therapy-may-help-control-hiv-long-term/)
 - 不安全
+  - [Broken Authentication: How Attackers Gain Unauthorized Access to Your Application.](https://buaq.net/go-417237.html)
+  - [ICMP Walkthrough — OffSec Lab (Privilege Escalation via hping3)](https://buaq.net/go-417236.html)
+  - [Microsoft is changing Edge’s plaintext password behavior](https://buaq.net/go-417234.html)
+  - [The Trojan PR: Achieving Code Execution in GitHub Actions via Pipeline Poisoning](https://buaq.net/go-417238.html)
   - [开源短链接 Kutt 官方警告：域名忘记续费，现在丢了，不要再访问 kutt[.]it 了](https://buaq.net/go-417185.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -388,5 +438,7 @@
   - [昊铂 S600 预售发布，20 万就有四驱和双腔空悬了](https://www.ifanr.com/1666139?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [东北师范大学携手绿盟科技 共筑产学研深度融合示范高地](https://blog.nsfocus.net/%e4%b8%9c%e5%8c%97%e5%b8%88%e8%8c%83%e5%a4%a7%e5%ad%a6%e6%90%ba%e6%89%8b%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80-%e5%85%b1%e7%ad%91%e4%ba%a7%e5%ad%a6%e7%a0%94%e6%b7%b1%e5%ba%a6%e8%9e%8d%e5%90%88%e7%a4%ba/)
+- 量子位 QbitAI
+  - [openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕](https://www.qbitai.com/2026/05/419515.html)
 - 黑海洋
   - [特斯拉公开17起Robotaxi碰撞事故详情：多为被追尾](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%AC%E5%BC%8017%E8%B5%B7Robotaxi%E7%A2%B0%E6%92%9E%E4%BA%8B%E6%95%85%E8%AF%A6%E6%83%85-%E5%A4%9A%E4%B8%BA%E8%A2%AB%E8%BF%BD%E5%B0%BE)
