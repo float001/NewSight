@@ -5,6 +5,7 @@
   - [AI 是不能用了，太吓人了！](https://2libra.com/post/ai-programming/Qs_xdv1)
   - [【去水印】有没有可以去图片水印的工具啊](https://2libra.com/post/recommendations/BNyiKZb)
   - [【周末家常菜】最后没忍住还加了个罐头](https://2libra.com/post/personal-life/FYTDcwV)
+  - [【投票】来投票预测：英伟达会在周三(2026-05-20)公布财报，周四当天的股价会如何收盘？](https://2libra.com/post/stock-market/N60uen9)
   - [【💰】618 快到了，求推荐一些扫拖一体的扫地机器人](https://2libra.com/post/smart-home/ulBBbyF)
   - [【🔒】2 站周边试错第三弹，手机壳](https://2libra.com/post/personal-works/G1cmmEZ)
   - [【🔒】新版优化了幸运属性的算法，该属性新计算后值会有所降低](https://2libra.com/post/update-logs/kSBptDY)
@@ -229,9 +230,12 @@
 - 404 Media
   - [Podcast: The Physical Politics of the Internet with Britt Paris](https://www.404media.co/podcast-the-physical-politics-of-the-internet-with-britt-paris/)
   - [Researchers Wanted Preschool Teachers to Wear Cameras to Train AI](https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/)
+- Ars Technica
+  - [BMW sends off the 6th-gen M3 CS with a manual gearbox, rear-wheel drive](https://arstechnica.com/cars/2026/05/bmw-sends-off-the-6th-gen-m3-cs-with-a-manual-gearbox-rear-wheel-drive/)
 - CERT Recently Published Vulnerability Notes
   - [VU#777338: SGLang contains two remote code execution and one path traversal vulnerability](https://kb.cert.org/vuls/id/777338)
 - daringfireball.net
+  - [AI Data Centers Are Deeply Unpopular, Across the Political Spectrum](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx)
   - [Drata](https://drata.com/daring)
 - darkreading
   - [Can Laws Stop Deepfakes? South Korea Aims to Find Out](https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea)
@@ -298,6 +302,7 @@
   - [The down fall of bug bounties](https://shubs.io/the-down-fall-of-bug-bounties/)
 - Sploitus.com Exploits RSS Feed
   - [Alfred-TryHackMe-Walkthrough-Jenkins-Exploitation-Windows-Token-Privilege-Escalation exploit](https://sploitus.com/exploit?id=0A2230D0-E734-5EAE-9149-EDFB7EBE2C8F&utm_source=rss&utm_medium=rss)
+  - [CVE-ubuntu-server-24.04 exploit](https://sploitus.com/exploit?id=EE19F7C2-BA8C-5A21-B323-9CB23C0F7835&utm_source=rss&utm_medium=rss)
   - [DC-1-VulnHub- exploit](https://sploitus.com/exploit?id=A3D87459-8590-5D45-868C-54C5BDCDF0D4&utm_source=rss&utm_medium=rss)
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Jetbrains Teamcity exploit](https://sploitus.com/exploit?id=05DFD629-3F18-5D72-86FF-7FAE1B2B58D2&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-3629 exploit](https://sploitus.com/exploit?id=B4CA45A0-D907-580B-BF32-C71E72B4B4A3&utm_source=rss&utm_medium=rss)
@@ -308,6 +313,7 @@
   - [Exploit for Double Free in Microsoft exploit](https://sploitus.com/exploit?id=7BEE978E-5152-57B1-A60E-5C364AC4A0BC&utm_source=rss&utm_medium=rss)
   - [Exploit for Embedded Malicious Code in Tanstack Tanstack\/Arktype-Adapter exploit](https://sploitus.com/exploit?id=4D70655E-6858-5FC9-9F7B-DEDE5131B599&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Handling of Exceptional Conditions in Apache Struts exploit](https://sploitus.com/exploit?id=480E212C-BE8C-575B-943A-F546559EF7B5&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Input Validation in Apache Activemq exploit](https://sploitus.com/exploit?id=0EB06AF4-CFA4-5311-9994-15760AF8992B&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Privilege Management in Microsoft exploit](https://sploitus.com/exploit?id=2EC3D06F-616D-5241-853D-154D108F0DA7&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=840AF3E7-8107-530A-9DA9-1F248A206A70&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=95CD383C-03DE-5113-957F-A3799F721D1D&utm_source=rss&utm_medium=rss)
@@ -320,6 +326,7 @@
 - Taxodium
   - [Zine#49](https://taxodium.ink/49.html)
 - TechCrunch
+  - [Amazon’s new Alexa+ powered feature can generate podcast episodes](https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/)
   - [Apple’s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/)
   - [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/)
   - [Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom](https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/)
@@ -333,9 +340,12 @@
 - The Verge
   - [Bad, Bad, Bad, Bad Roommate](https://www.theverge.com/cs/features/919365/bad-roommate-housing-los-angeles-eviction)
   - [Disco Elysium’s spiritual successor can&#8217;t escape its phantoms](https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium)
+  - [Exclusive: Jonah Peretti explains why he sold BuzzFeed](https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media)
   - [Leaked images reveal Sony’s 10th anniversary ‘ColleXion’ headphones](https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks)
+  - [Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports](https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs)
   - [Microsoft is retiring Teams’ Together Mode](https://www.theverge.com/tech/932215/microsoft-teams-together-mode)
   - [Revamped Siri will reportedly offer auto-deleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats)
+  - [The Verge’s 2026 college graduation gift guide](https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas)
   - [University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement)
 - troyhunt.com
   - [Weekly Update 504](https://www.troyhunt.com/weekly-update-504/)
@@ -356,6 +366,7 @@
   - [CVE-2026-7498 | Basamak DernekWeb cross site scripting (ID 30122025)](https://vuldb.com/vuln/364466)
   - [CVE-2026-8802 | opensourcepos Open Source Point of Sale up to 3.4.2 Items.php getPicThumb pic_filename path traversal (GHSA-xq63-3v4g-39r5)](https://vuldb.com/vuln/364435)
   - [CVE-2026-8803 | opensourcepos Open Source Point of Sale up to 3.4.2 Employee Login app/Models/Employee.php login weak hash](https://vuldb.com/vuln/364436)
+  - [CVE-2026-8836 | lwIP up to 2.2.1 snmpv3 USM src/apps/snmp/snmp_msg.c snmp_parse_inbound_frame msgAuthenticationParameters stack-based overflow (Bug 68194)](https://vuldb.com/vuln/364474)
 - Vulners.com RSS Feed
   - [[SECURITY] Fedora 42 Update: apptainer-1.5.0-1.fc42](https://vulners.com/fedora/FEDORA:238B47FBF7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 42 Update: coturn-4.11.0-1.fc42](https://vulners.com/fedora/FEDORA:1D7A46B6FC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -488,6 +499,8 @@
   - [CVE-2026-8803](https://vulners.com/nvd/NVD:CVE-2026-8803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8803 opensourcepos Open Source Point of Sale Employee Login Employee.php login weak hash](https://vulners.com/cve/CVE-2026-8803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8803 opensourcepos Open Source Point of Sale Employee Login Employee.php login weak hash](https://vulners.com/cvelist/CVELIST:CVE-2026-8803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [cve-poc-nuclei](https://vulners.com/githubexploit/17E33F09-238E-5F81-94B0-4D3DA378AF5E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-ubuntu-server-24.04](https://vulners.com/githubexploit/EE19F7C2-BA8C-5A21-B323-9CB23C0F7835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DC-1-VulnHub-](https://vulners.com/githubexploit/A3D87459-8590-5D45-868C-54C5BDCDF0D4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Developer Workstations Are Now Part of the Software Supply Chain](https://vulners.com/thn/THN:1ED6927321D42DFD91AA10415017C238?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [erb: ERB: Arbitrary code execution via deserialization bypass](https://vulners.com/redhat/RHSA-2026:18039-CVE-2026-41316?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -503,6 +516,7 @@
   - [Exploit for Embedded Malicious Code in Tanstack Tanstack\/Arktype-Adapter](https://vulners.com/githubexploit/4D70655E-6858-5FC9-9F7B-DEDE5131B599?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Heap-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/41425084-C54D-5030-AFEE-28B3414850BE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Handling of Exceptional Conditions in Apache Struts](https://vulners.com/githubexploit/480E212C-BE8C-575B-943A-F546559EF7B5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Input Validation in Apache Activemq](https://vulners.com/githubexploit/0EB06AF4-CFA4-5311-9994-15760AF8992B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Privilege Management in Microsoft](https://vulners.com/githubexploit/2EC3D06F-616D-5241-853D-154D108F0DA7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/3E8D4E25-39D3-5D97-B3A1-471E426D9AF1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/840AF3E7-8107-530A-9DA9-1F248A206A70?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -566,6 +580,7 @@
   - [2026 年，手机终于会自己拍照了｜AI 器物志](https://www.ifanr.com/1665732?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜马耳他为全民买单ChatGPT会员/卢伟冰预判年底国产直板旗舰破万元/曝苹果新Siri聊天记录可自动删除](https://www.ifanr.com/1666122?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [昊铂 S600 预售发布，20 万就有四驱和双腔空悬了](https://www.ifanr.com/1666139?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [马斯克花 100 亿想清楚一件事，不做 coding agent 就是等死](https://www.ifanr.com/1666191?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [东北师范大学携手绿盟科技 共筑产学研深度融合示范高地](https://blog.nsfocus.net/%e4%b8%9c%e5%8c%97%e5%b8%88%e8%8c%83%e5%a4%a7%e5%ad%a6%e6%90%ba%e6%89%8b%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80-%e5%85%b1%e7%ad%91%e4%ba%a7%e5%ad%a6%e7%a0%94%e6%b7%b1%e5%ba%a6%e8%9e%8d%e5%90%88%e7%a4%ba/)
 - 量子位 QbitAI
