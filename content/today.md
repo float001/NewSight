@@ -14,6 +14,9 @@
   - [Ted Turner’s Small Apartment Above the Former CNN Center](https://www.youtube.com/watch?v=OUIVs58oyPI)
   - [‘AI, “Humanity”, and Dr. Manhattan Syndrome’](https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome)
   - [‘John Appleseed’](https://om.co/2026/04/20/john-appleseed/)
+- darkreading
+  - ['Claw Chain' Vulnerabilities Threaten OpenClaw Deployments](https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw)
+  - [Microsoft Exchange Zero-Day Under Attack, No Patch Available](https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch)
 - Data Breach
   - [Grafana confirms GitHub token breach cybercrime group claims the attack](https://securityaffairs.com/192347/breaking-news/grafana-confirms-github-token-breach-cybercrime-group-claims-the-attack.html)
 - Fidelis Security
@@ -27,6 +30,8 @@
   - [Haiku OS runs on M1 Macs now](https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/)
   - [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
   - [Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
+- HackerNoon
+  - [OpenToonz Does What Adobe Animate Can't: Power a Studio Ghibli Film](https://hackernoon.com/opentoonz-does-what-adobe-animate-cant-power-a-studio-ghibli-film?source=rss)
 - Horizon3.ai
   - [From Point-in-Time Testing to Continuous Security Validation](https://horizon3.ai/customer-story/continuous-security-validation-public-sector/)
 - IEEE Spectrum
@@ -35,15 +40,21 @@
   - [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 - MIT Technology Review
   - [What to expect from Google this week](https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/)
+- NVIDIA AI Blog
+  - [Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs](https://blogs.nvidia.com/blog/vera-cpu-delivery/)
 - Sploitus.com Exploits RSS Feed
+  - [BUG-BOUNTY-METHODOLOGY exploit](https://sploitus.com/exploit?id=D21F6284-333D-5508-AD54-445B833EF381&utm_source=rss&utm_medium=rss)
   - [db-security-ctf exploit](https://sploitus.com/exploit?id=31C32BF5-F1A7-5713-9CC5-1FF04BDCBF9E&utm_source=rss&utm_medium=rss)
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Jetbrains Teamcity exploit](https://sploitus.com/exploit?id=D6B398F7-FE57-54AC-9E26-6CF71F1FCAB0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2024-32019 exploit](https://sploitus.com/exploit?id=3CC0BC86-418A-52CF-9D1C-9210AF32D3DF&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=0D9A07CA-926B-593B-9839-C81A1FD14DF5&utm_source=rss&utm_medium=rss)
+  - [exploits_atualizados exploit](https://sploitus.com/exploit?id=274321F0-A3FD-5C87-AA1B-9D27B11C5B9E&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/)
   - [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
   - [NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people](https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/)
+  - [OSHA probing worker death at SpaceX’s Starbase site](https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/)
+  - [SandboxAQ brings its drug discovery models to Claude — no PhD in computing required](https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/)
 - The Decoder
   - [Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost](https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/)
   - [Elon Musk loses his $134 billion lawsuit against OpenAI after jury deliberates for just two hours](https://the-decoder.com/elon-musk-loses-his-134-billion-lawsuit-against-openai-after-jury-deliberates-for-just-two-hours/)
@@ -73,6 +84,7 @@
   - [CVE-2026-45829 | Chroma ChromaDB up to 1.0.0 Model collections code injection (ID 6717)](https://vuldb.com/vuln/364489)
   - [CVE-2026-8843 | MongoDB Server up to 7.0.31/8.0.20/8.2.5 2dsphere_bucket Index assertion](https://vuldb.com/vuln/364496)
 - Vulners.com RSS Feed
+  - [BUG-BOUNTY-METHODOLOGY](https://vulners.com/githubexploit/D21F6284-333D-5508-AD54-445B833EF381?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-24215](https://vulners.com/nvd/NVD:CVE-2023-24215?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-56352](https://vulners.com/nvd/NVD:CVE-2025-56352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-57282](https://vulners.com/nvd/NVD:CVE-2025-57282?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -81,10 +93,18 @@
   - [CVE-2026-21789](https://vulners.com/nvd/NVD:CVE-2026-21789?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-21789 HCL Connections is vulnerable to broken access control](https://vulners.com/cve/CVE-2026-21789?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-21789 HCL Connections is vulnerable to broken access control](https://vulners.com/cvelist/CVELIST:CVE-2026-21789?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-22810](https://vulners.com/nvd/NVD:CVE-2026-22810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22810 Joplin: Path traversal in OneNote importer allows overwriting arbitrary files](https://vulners.com/cve/CVE-2026-22810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22810 Joplin: Path traversal in OneNote importer allows overwriting arbitrary files](https://vulners.com/cvelist/CVELIST:CVE-2026-22810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25244](https://vulners.com/nvd/NVD:CVE-2026-25244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25244 WebdriverIO has Command Injection in the BrowserStack Service](https://vulners.com/cve/CVE-2026-25244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25244 WebdriverIO has Command Injection in the BrowserStack Service](https://vulners.com/cvelist/CVELIST:CVE-2026-25244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-26978](https://vulners.com/nvd/NVD:CVE-2026-26978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-27130](https://vulners.com/nvd/NVD:CVE-2026-27130?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-27737 BigBlueButton has Stored XSS in bbb-playback replay](https://vulners.com/cve/CVE-2026-27737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-27737 BigBlueButton has Stored XSS in bbb-playback replay](https://vulners.com/cvelist/CVELIST:CVE-2026-27737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-27891 Remote Code Execution (RCE) via Zip Slip in Plugin Upload Mechanism](https://vulners.com/cve/CVE-2026-27891?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-27891 Remote Code Execution (RCE) via Zip Slip in Plugin Upload Mechanism](https://vulners.com/cvelist/CVELIST:CVE-2026-27891?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-29962](https://vulners.com/nvd/NVD:CVE-2026-29962?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-29963](https://vulners.com/nvd/NVD:CVE-2026-29963?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-29964](https://vulners.com/nvd/NVD:CVE-2026-29964?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -97,6 +117,7 @@
   - [CVE-2026-41148 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-41148?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41150 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-41150?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41159 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-41159?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-4137](https://vulners.com/nvd/NVD:CVE-2026-4137?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4137 Incomplete Fix for CVE-2025-10279: Insecure Temporary Directory Permissions in mlflow/mlflow](https://vulners.com/cve/CVE-2026-4137?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4137 Incomplete Fix for CVE-2025-10279: Insecure Temporary Directory Permissions in mlflow/mlflow](https://vulners.com/cvelist/CVELIST:CVE-2026-4137?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42559](https://vulners.com/circl/CIRCL:CVE-2026-42559?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -123,15 +144,18 @@
   - [CVE-2026-8280 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-8280?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8280 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-8280?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8836](https://vulners.com/nvd/NVD:CVE-2026-8836?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8838](https://vulners.com/nvd/NVD:CVE-2026-8838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8838 Remote Code Execution via eval() Injection in amazon-redshift-python-driver](https://vulners.com/cve/CVE-2026-8838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8838 Remote Code Execution via eval() Injection in amazon-redshift-python-driver](https://vulners.com/cvelist/CVELIST:CVE-2026-8838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8843](https://vulners.com/nvd/NVD:CVE-2026-8843?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8851](https://vulners.com/nvd/NVD:CVE-2026-8851?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8851 SOGo 5.12.7 SQL Injection via addUserInAcls endpoint](https://vulners.com/cve/CVE-2026-8851?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8851 SOGo 5.12.7 SQL Injection via addUserInAcls endpoint](https://vulners.com/cvelist/CVELIST:CVE-2026-8851?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [db-security-ctf](https://vulners.com/githubexploit/31C32BF5-F1A7-5713-9CC5-1FF04BDCBF9E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Jetbrains Teamcity](https://vulners.com/githubexploit/D6B398F7-FE57-54AC-9E26-6CF71F1FCAB0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2024-32019](https://vulners.com/githubexploit/3CC0BC86-418A-52CF-9D1C-9210AF32D3DF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Out-of-bounds Write in Linux Linux_Kernel](https://vulners.com/githubexploit/0D9A07CA-926B-593B-9839-C81A1FD14DF5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [exploits_atualizados](https://vulners.com/githubexploit/274321F0-A3FD-5C87-AA1B-9D27B11C5B9E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-6M6C-36F7-FHXH vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-6M6C-36F7-FHXH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-87F9-HVMW-GH4P vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-87F9-HVMW-GH4P?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-C38F-WX89-P2XG vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-C38F-WX89-P2XG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
