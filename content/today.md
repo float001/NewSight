@@ -1,14 +1,27 @@
 # 今日安全资讯（2026-05-19）
 
+- 2Libra
+  - [2Libra 成分分析器，油猴脚本](https://2libra.com/post/personal-works/Ww9BLy9)
+  - [618 想买个智能手表，但感觉现在的手表都太大了～](https://2libra.com/post/smart-wearable/RzN2evf)
 - 36氪
+  - [8点1氪丨贾跃亭又融资4.77亿元；巨力索具旗下十余家企业已注销；超越茅台，A股“新股王”诞生](https://36kr.com/p/3815459487587847?f=rss)
   - [AI芯片初创公司Tenstorrent可能获得超50亿美元估值](https://36kr.com/newsflashes/3815408570392321?f=rss)
   - [xAI推出Skills](https://36kr.com/newsflashes/3815445008080645?f=rss)
   - [一季度险资逢低买入，股票持仓继续小幅提升](https://36kr.com/newsflashes/3815435231010569?f=rss)
   - [上交所杭州云深处科技股份有限公司IPO审核状态变更为已受理](https://36kr.com/newsflashes/3815419872796167?f=rss)
+  - [两市融资余额增加155.7亿元](https://36kr.com/newsflashes/3815501354213128?f=rss)
+  - [中信建投：Figure机器人直播分拣，关注垂类应用放量拐点](https://36kr.com/newsflashes/3815468727672579?f=rss)
   - [中信建投：算力需求持续强劲，NPO有望加速部署，继续看好AI板块](https://36kr.com/newsflashes/3815444182932995?f=rss)
+  - [中金：美联储年内或难以降息](https://36kr.com/newsflashes/3815461631041030?f=rss)
   - [产业链迎业绩与估值双重驱动，存储芯片板块投资机遇凸显](https://36kr.com/newsflashes/3815454218903305?f=rss)
+  - [今年前四个月全国企业销售收入稳步增长](https://36kr.com/newsflashes/3815512629436168?f=rss)
+  - [华泰证券：交通运输行业大部分子板块步入淡季，建议攻防兼备配置三条主线](https://36kr.com/newsflashes/3815471749176836?f=rss)
+  - [华泰证券：需求旺盛下半导体材料景气或加速](https://36kr.com/newsflashes/3815480441954049?f=rss)
+  - [国盛证券：AI方向期待本周谷歌I/O大会，继续看好Token经济](https://36kr.com/newsflashes/3815484935298568?f=rss)
   - [国际货币基金组织上调英国经济增长预期](https://36kr.com/newsflashes/3815406828707329?f=rss)
+  - [多只绩优基金主动限购控制“体重”](https://36kr.com/newsflashes/3815470907203078?f=rss)
   - [广东金晟新能源递表港交所](https://36kr.com/newsflashes/3815420525649668?f=rss)
+  - [我国建立白名单制度规范医保个人账户使用](https://36kr.com/newsflashes/3815491890093825?f=rss)
   - [戴尔将与谷歌和SpaceX等公司展开合作](https://36kr.com/newsflashes/3815419106696967?f=rss)
   - [斯巴鲁推迟自研纯电车型上市](https://36kr.com/newsflashes/3815417595567616?f=rss)
   - [日产汽车拟缩减横滨工厂，系首次重组日本国内零部件工厂](https://36kr.com/newsflashes/3815421046709767?f=rss)
@@ -16,6 +29,7 @@
   - [渣打集团：目标2030年前削减企业职能相关职位超过15%](https://36kr.com/newsflashes/3815435874082307?f=rss)
   - [特朗普撤销对美国国税局的100亿美元诉讼](https://36kr.com/newsflashes/3815407602507520?f=rss)
   - [电源管理芯片迎涨价潮，二季度以来多只概念股获融资资金青睐](https://36kr.com/newsflashes/3815421916536585?f=rss)
+  - [算电协同推动虚拟电厂迈入“黄金发展期”](https://36kr.com/newsflashes/3815462512647680?f=rss)
   - [美联储古尔斯比：通胀必须成为沃什担任主席时的首要考虑](https://36kr.com/newsflashes/3815412315741953?f=rss)
   - [美股三大指数收盘涨跌不一，理想汽车跌超9%](https://36kr.com/newsflashes/3815389882801923?f=rss)
   - [美陪审团驳回马斯克对OpenAI的诉讼](https://36kr.com/newsflashes/3815396763098881?f=rss)
@@ -23,7 +37,10 @@
   - [英特尔CEO称代工业务取得进展](https://36kr.com/newsflashes/3815410603433480?f=rss)
   - [药捷安康：拟折让18%配售383.6万股H股，净筹约1.52亿港元](https://36kr.com/newsflashes/3815429576220163?f=rss)
   - [西联汇款任命Pedro Alegría为墨西哥及中美洲副总裁兼总经理](https://36kr.com/newsflashes/3815405962452484?f=rss)
+  - [谷歌与黑石集团据悉将组建AI云合资公司](https://36kr.com/newsflashes/3815491471499016?f=rss)
+  - [银河证券：云服务行业进入需求放量、量价共振的上行周期](https://36kr.com/newsflashes/3815507571564296?f=rss)
   - [银行理财收益回暖，四月规模增长超预期](https://36kr.com/newsflashes/3815444668145410?f=rss)
+  - [阿达尼企业与美国财政部达成2.75亿美元和解协议](https://36kr.com/newsflashes/3815472458800649?f=rss)
 - 404 Media
   - [The FBI Wants to Buy Nationwide Access to License Plate Readers](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/)
 - Ars Technica
@@ -163,6 +180,8 @@
   - [CVE-2026-30950](https://vulners.com/nvd/NVD:CVE-2026-30950?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-30950 AutoGPT has Authenticated Session Hijacking via IDOR](https://vulners.com/cve/CVE-2026-30950?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-30950 AutoGPT has Authenticated Session Hijacking via IDOR](https://vulners.com/cvelist/CVELIST:CVE-2026-30950?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-32244](https://vulners.com/nvd/NVD:CVE-2026-32244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-32312](https://vulners.com/nvd/NVD:CVE-2026-32312?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32848](https://vulners.com/nvd/NVD:CVE-2026-32848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32849](https://vulners.com/nvd/NVD:CVE-2026-32849?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36438](https://vulners.com/nvd/NVD:CVE-2026-36438?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -233,3 +252,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [当攻击开始“自主决策”，安全体系如何应战？](https://www.anquanke.com/post/id/315518)
+- 爱范儿
+  - [早报｜苹果开启WWDC邀请，将公布苹果AI新进展/问界M9设计师点赞理想L9内饰/国家反诈中心App上线「AI内容鉴定」](https://www.ifanr.com/1666237?utm_source=rss&utm_medium=rss&utm_campaign=)
