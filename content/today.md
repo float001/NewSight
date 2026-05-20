@@ -2,6 +2,9 @@
 
 - 2Libra
   - [我又来分享我的 VIBE 小玩意了](https://2libra.com/post/open-source-sharing/qEDawyJ)
+- 36氪
+  - [网易520发布会：质量为先，狙击细分赛道](https://36kr.com/p/3817849322964098?f=rss)
+  - [美股三大指数集体收涨，ARM涨超15%](https://36kr.com/newsflashes/3818225784767367?f=rss)
 - Ars Technica
   - ["Ryzen 5800X3D 10th Anniversary Edition" may help you avoid paying for a new PC](https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/)
   - [Buckle up: Google is set to remake search with agentic AI in 2026](https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/)
@@ -30,9 +33,15 @@
   - [The Observability Crisis in AI Systems: Why Your Logs Are Lying to You](https://hackernoon.com/the-observability-crisis-in-ai-systems-why-your-logs-are-lying-to-you?source=rss)
 - Hacking Articles
   - [A Detailed Guide on Nmap Firewall Scan](https://www.hackingarticles.in/a-detailed-guide-on-nmap-firewall-scan/)
+- Hacking Dream
+  - [CVE-2026-2587 GlassFish EL Injection: Exploit POC](https://www.hackingdream.net/2026/05/cve-2026-2587-glassfish-el-injection-exploit-poc.html)
 - Horizon3.ai
   - [CVE-2026-44578 | Next.js Server-Side Request Forgery Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-44578/)
   - [The 2026 Buyer’s Guide to Penetration Testing](https://horizon3.ai/downloads/whitepapers/2026-buyers-guide-penetration-testing/)
+- micahflee.com
+  - [Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance](https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/)
+- simonwillison.net
+  - [Quoting SpaceX S-1](https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [ai-pentest-lab exploit](https://sploitus.com/exploit?id=E356CCEC-7C81-5A77-8CE4-87DF4DB21897&utm_source=rss&utm_medium=rss)
   - [drupal-sa-core-2026-004-lab exploit](https://sploitus.com/exploit?id=108B5C3B-AD91-501B-9F9D-A7F4DC457879&utm_source=rss&utm_medium=rss)
@@ -40,6 +49,7 @@
 - TechCrunch
   - [Airbnb gets into hotels, expands AI for host onboarding and customer support](https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/)
   - [Anthropic will pay xAI $1.25 billion per month for compute](https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/)
+  - [Clouted wants to take the guesswork out of making short videos go viral](https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/)
   - [Global EV market goes K-shaped as the U.S. gets left behind](https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/)
   - [IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed](https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/)
   - [Jeff Bezos, you were so close to making a good point](https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/)
@@ -50,7 +60,9 @@
   - [Sam Altman makes ‘mic drop’ offer to every Y Combinator startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/)
   - [Tesla’s Full Self-Driving software is creeping into Europe](https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/)
   - [The SpaceX IPO filing has arrived](https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-has-arrived/)
+  - [The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center](https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/)
   - [Truecaller gets into the eSIM business to diversify its revenue streams](https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/)
+  - [xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over](https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/)
   - [You don’t need to be an AI startup to raise. Lucra has $20M to prove it.](https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/)
 - The Decoder
   - [Deepseek wants to take on Claude Code and OpenAI's Codex with "Deepseek Code"](https://the-decoder.com/deepseek-wants-to-take-on-claude-code-and-openais-codex-with-deepseek-code/)
@@ -164,12 +176,16 @@
   - [CVE-2026-39352](https://vulners.com/nvd/NVD:CVE-2026-39352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39405](https://vulners.com/nvd/NVD:CVE-2026-39405?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39850](https://vulners.com/nvd/NVD:CVE-2026-39850?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-39960](https://vulners.com/nvd/NVD:CVE-2026-39960?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39960 MantisBT is Vulnerable to Stored XSS through Custom Field Textarea Values](https://vulners.com/cve/CVE-2026-39960?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39960 MantisBT is Vulnerable to Stored XSS through Custom Field Textarea Values](https://vulners.com/cvelist/CVELIST:CVE-2026-39960?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40092](https://vulners.com/nvd/NVD:CVE-2026-40092?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40092 nimiq-keys: Unchecked Ed25519 signature length in TaggedPublicKey::verify causes remote node panic via DHT](https://vulners.com/cve/CVE-2026-40092?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40092 nimiq-keys: Unchecked Ed25519 signature length in TaggedPublicKey::verify causes remote node panic via DHT](https://vulners.com/cvelist/CVELIST:CVE-2026-40092?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40094](https://vulners.com/nvd/NVD:CVE-2026-40094?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40094 nimiq-blockchain: network-libp2p untrusted peer can crash address book via empty peer contact addresses](https://vulners.com/cve/CVE-2026-40094?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40094 nimiq-blockchain: network-libp2p untrusted peer can crash address book via empty peer contact addresses](https://vulners.com/cvelist/CVELIST:CVE-2026-40094?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40102](https://vulners.com/nvd/NVD:CVE-2026-40102?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4293](https://vulners.com/nvd/NVD:CVE-2026-4293?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44923](https://vulners.com/nvd/NVD:CVE-2026-44923?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44924](https://vulners.com/nvd/NVD:CVE-2026-44924?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -185,6 +201,9 @@
   - [CVE-2026-46378 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-46378?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46378 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-46378?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47099](https://vulners.com/nvd/NVD:CVE-2026-47099?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47372](https://vulners.com/cve/CVE-2026-47372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47372](https://vulners.com/nvd/NVD:CVE-2026-47372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47372 Crypt::SaltedHash versions through 0.09 for Perl generate insecure random values for salts](https://vulners.com/cvelist/CVELIST:CVE-2026-47372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47373](https://vulners.com/nvd/NVD:CVE-2026-47373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47373 Crypt::SaltedHash versions through 0.09 for Perl is susceptible to timing attacks](https://vulners.com/cvelist/CVELIST:CVE-2026-47373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5783](https://vulners.com/nvd/NVD:CVE-2026-5783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -248,6 +267,9 @@
   - [CVE-2026-9141](https://vulners.com/nvd/NVD:CVE-2026-9141?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9144](https://vulners.com/nvd/NVD:CVE-2026-9144?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [drupal-sa-core-2026-004-lab](https://vulners.com/githubexploit/108B5C3B-AD91-501B-9F9D-A7F4DC457879?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [EUVD-2026-31198](https://vulners.com/euvd/EUVD-2026-31198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2020-25078](https://vulners.com/githubexploit/78872B93-C171-5DC1-9DAD-70D7A942B2FA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-0265](https://vulners.com/githubexploit/18F7A2BC-0B50-5B94-9F5A-129F9415245E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-2587](https://vulners.com/githubexploit/27AB4091-5F44-5A52-AA96-3CD9317679E1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2Q6X-PG74-2276 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-2Q6X-PG74-2276?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2Q6X-PG74-2276 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-2Q6X-PG74-2276?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -275,6 +297,7 @@
 - Wired
   - [Madison Square Garden Bans Lawyer Representing New York Cop Injured at a Boxing Match](https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/)
   - [SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers](https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/)
+  - [The Best Outdoor Deals From the REI Anniversary Sale 2026](https://www.wired.com/story/rei-anniversary-sale-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
