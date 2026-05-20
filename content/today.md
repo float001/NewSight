@@ -1,9 +1,60 @@
 # 今日安全资讯（2026-05-21）
 
+- 2Libra
+  - [我又来分享我的 VIBE 小玩意了](https://2libra.com/post/open-source-sharing/qEDawyJ)
+- darkreading
+  - [Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control](https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os)
+- Hacker News Frontpage
+  - [Apparently Google hates us now](https://twitter.com/pokemoncentral/status/2057123807404638250)
+  - [OpenAI Is Preparing to File for an IPO Soon](https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5)
+- Hacking Articles
+  - [A Detailed Guide on Nmap Firewall Scan](https://www.hackingarticles.in/a-detailed-guide-on-nmap-firewall-scan/)
+- Horizon3.ai
+  - [The 2026 Buyer’s Guide to Penetration Testing](https://horizon3.ai/downloads/whitepapers/2026-buyers-guide-penetration-testing/)
 - The Verge
   - [Google Search’s AI evolution includes more ads](https://www.theverge.com/tech/934585/google-ai-shopping-ads-search)
+  - [Samsung has a tentative deal with workers to avoid a memory chip strike](https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply)
   - [Xbox hires game industry analyst Matthew Ball to lead strategy](https://www.theverge.com/report/934687/xbox-matthew-ball-strategy-officer-hire)
+  - [You can now remix other people’s YouTube Shorts with AI](https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai)
+- VulDB Recent Entries
+  - [CVE-2023-7346 | Ledger Bitcoin app up to 2.1.0/2.1.1 Miniscript Policy calculation](https://vuldb.com/vuln/364895)
+  - [CVE-2025-32750 | Dell PowerFlex Manager prior IC 48.378.00/IC 48.383.00 exposure of information through directory listing (dsa-2025-435)](https://vuldb.com/vuln/364892)
+  - [CVE-2026-39047 | Epson L14150 FL27PB RAW Printing Service buffer overflow](https://vuldb.com/vuln/364897)
+  - [CVE-2026-4293 | Kieback & Peter DDC520 up to 1.12.14 cross site scripting (icsa-26-139-05)](https://vuldb.com/vuln/364896)
+  - [CVE-2026-5783 | Beyaz CityPLus 24.29375/24.29500.1.0 cross site scripting](https://vuldb.com/vuln/364899)
+  - [CVE-2026-8486 | Progress MOVEit Automation up to 2025.0.10/2025.1.6 allocation of resources](https://vuldb.com/vuln/364890)
+  - [CVE-2026-8487 | Progress MOVEit Automation up to 2025.0.10/2025.1.6 default permission](https://vuldb.com/vuln/364893)
+  - [CVE-2026-8488 | Progress MOVEit Automation up to 2025.0.10/2025.1.6 allocation of resources](https://vuldb.com/vuln/364891)
+  - [CVE-2026-8598 | ZKTeco SSC335-GC2063-Face-0b77 Solution Camera prior 5.0.1.2.20260421 authentication bypass](https://vuldb.com/vuln/364894)
+  - [CVE-2026-9084 | MISP up to 2.5.37 OIDC Authentication Plugin improper authentication](https://vuldb.com/vuln/364898)
+- Vulners.com RSS Feed
+  - [crypto/tls: golang: Go crypto/tls: Denial of Service via multiple TLS 1.3 key update messages](https://vulners.com/redhat/RHSA-2026:19714-CVE-2026-32283?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [crypto/x509: crypto/tls: golang: Go: Denial of Service vulnerability in certificate chain building](https://vulners.com/redhat/RHSA-2026:19714-CVE-2026-32280?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2023-7346](https://vulners.com/nvd/NVD:CVE-2023-7346?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-32750](https://vulners.com/nvd/NVD:CVE-2025-32750?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-20199](https://vulners.com/cve/CVE-2026-20199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-20199](https://vulners.com/cvelist/CVELIST:CVE-2026-20199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-39047](https://vulners.com/nvd/NVD:CVE-2026-39047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-4293](https://vulners.com/nvd/NVD:CVE-2026-4293?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5783](https://vulners.com/nvd/NVD:CVE-2026-5783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7613 Cost of Goods by PixelYourSite <= 1.2.12 - Unauthenticated Stored Cross-Site Scripting via Cost of Goods Import](https://vulners.com/cve/CVE-2026-7613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7613 Cost of Goods by PixelYourSite <= 1.2.12 - Unauthenticated Stored Cross-Site Scripting via Cost of Goods Import](https://vulners.com/cvelist/CVELIST:CVE-2026-7613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8486](https://vulners.com/nvd/NVD:CVE-2026-8486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8487](https://vulners.com/nvd/NVD:CVE-2026-8487?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8488](https://vulners.com/nvd/NVD:CVE-2026-8488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8598](https://vulners.com/nvd/NVD:CVE-2026-8598?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9084](https://vulners.com/nvd/NVD:CVE-2026-9084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9087 Keycloak: cross-session email verification proof not bound to upstream identity in first-broker-login](https://vulners.com/cve/CVE-2026-9087?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9087 Keycloak: cross-session email verification proof not bound to upstream identity in first-broker-login](https://vulners.com/cvelist/CVELIST:CVE-2026-9087?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9101 Prototype pollution in csv parsing](https://vulners.com/cve/CVE-2026-9101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9101 Prototype pollution in csv parsing](https://vulners.com/cvelist/CVELIST:CVE-2026-9101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [golang: internal/syscall/unix: Root.Chmod can follow symlinks out of the root](https://vulners.com/redhat/RHSA-2026:19714-CVE-2026-32282?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: Red Hat AI Inference Server 3.2.2 (ROCm)](https://vulners.com/redhat/RHSA-2026:19725?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: rhc-worker-playbook security update](https://vulners.com/redhat/RHSA-2026:19714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Madison Square Garden Bans Lawyer Representing New York Cop Injured at a Boxing Match](https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
+  - [NGINX惊爆18年老洞，野外攻击已开始](https://www.anquanke.com/post/id/315546)
   - [科技云报到：AI Agent重塑客服战场，容联云用“1脑+多技能”重新定义客服Agent](https://www.anquanke.com/post/id/315533)
