@@ -2,6 +2,8 @@
 
 - 2Libra
   - [我又来分享我的 VIBE 小玩意了](https://2libra.com/post/open-source-sharing/qEDawyJ)
+- Ars Technica
+  - [Buckle up: Google is set to remake search with agentic AI in 2026](https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/)
 - darkreading
   - [Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control](https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os)
 - Hacker News Frontpage
@@ -11,9 +13,17 @@
   - [A Detailed Guide on Nmap Firewall Scan](https://www.hackingarticles.in/a-detailed-guide-on-nmap-firewall-scan/)
 - Horizon3.ai
   - [The 2026 Buyer’s Guide to Penetration Testing](https://horizon3.ai/downloads/whitepapers/2026-buyers-guide-penetration-testing/)
+- TechCrunch
+  - [Global EV market goes K-shaped as the U.S. gets left behind](https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/)
+  - [Jeff Bezos, you were so close to making a good point](https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/)
+  - [OpenAI barrels towards IPO that may happen in September](https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/)
+  - [Truecaller gets into the eSIM business to diversify its revenue streams](https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/)
 - The Verge
+  - [Anthropic and OpenAI take their beef to the midterm elections](https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores)
   - [Google Search’s AI evolution includes more ads](https://www.theverge.com/tech/934585/google-ai-shopping-ads-search)
   - [Samsung has a tentative deal with workers to avoid a memory chip strike](https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply)
+  - [Vibe coding is coming to your phone](https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts)
+  - [Volvo is trying to put its EV stumbles in the rearview](https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy)
   - [Xbox hires game industry analyst Matthew Ball to lead strategy](https://www.theverge.com/report/934687/xbox-matthew-ball-strategy-officer-hire)
   - [You can now remix other people’s YouTube Shorts with AI](https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai)
 - VulDB Recent Entries
@@ -32,29 +42,48 @@
   - [crypto/x509: crypto/tls: golang: Go: Denial of Service vulnerability in certificate chain building](https://vulners.com/redhat/RHSA-2026:19714-CVE-2026-32280?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-7346](https://vulners.com/nvd/NVD:CVE-2023-7346?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-32750](https://vulners.com/nvd/NVD:CVE-2025-32750?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-20171](https://vulners.com/nvd/NVD:CVE-2026-20171?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-20199](https://vulners.com/cve/CVE-2026-20199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-20199](https://vulners.com/cvelist/CVELIST:CVE-2026-20199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-20199](https://vulners.com/nvd/NVD:CVE-2026-20199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-20206](https://vulners.com/nvd/NVD:CVE-2026-20206?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-20223](https://vulners.com/nvd/NVD:CVE-2026-20223?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39047](https://vulners.com/nvd/NVD:CVE-2026-39047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4293](https://vulners.com/nvd/NVD:CVE-2026-4293?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44923](https://vulners.com/nvd/NVD:CVE-2026-44923?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44924](https://vulners.com/nvd/NVD:CVE-2026-44924?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44925](https://vulners.com/nvd/NVD:CVE-2026-44925?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44926](https://vulners.com/nvd/NVD:CVE-2026-44926?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5783](https://vulners.com/nvd/NVD:CVE-2026-5783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7613](https://vulners.com/nvd/NVD:CVE-2026-7613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7613 Cost of Goods by PixelYourSite <= 1.2.12 - Unauthenticated Stored Cross-Site Scripting via Cost of Goods Import](https://vulners.com/cve/CVE-2026-7613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7613 Cost of Goods by PixelYourSite <= 1.2.12 - Unauthenticated Stored Cross-Site Scripting via Cost of Goods Import](https://vulners.com/cvelist/CVELIST:CVE-2026-7613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8342](https://vulners.com/nvd/NVD:CVE-2026-8342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8486](https://vulners.com/nvd/NVD:CVE-2026-8486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8487](https://vulners.com/nvd/NVD:CVE-2026-8487?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8488](https://vulners.com/nvd/NVD:CVE-2026-8488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8598](https://vulners.com/nvd/NVD:CVE-2026-8598?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9084](https://vulners.com/nvd/NVD:CVE-2026-9084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9087](https://vulners.com/nvd/NVD:CVE-2026-9087?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9087 Keycloak: cross-session email verification proof not bound to upstream identity in first-broker-login](https://vulners.com/cve/CVE-2026-9087?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9087 Keycloak: cross-session email verification proof not bound to upstream identity in first-broker-login](https://vulners.com/cvelist/CVELIST:CVE-2026-9087?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9100](https://vulners.com/nvd/NVD:CVE-2026-9100?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9101](https://vulners.com/nvd/NVD:CVE-2026-9101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9101 Prototype pollution in csv parsing](https://vulners.com/cve/CVE-2026-9101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9101 Prototype pollution in csv parsing](https://vulners.com/cvelist/CVELIST:CVE-2026-9101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [golang: internal/syscall/unix: Root.Chmod can follow symlinks out of the root](https://vulners.com/redhat/RHSA-2026:19714-CVE-2026-32282?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: Red Hat AI Inference Server 3.2.2 (ROCm)](https://vulners.com/redhat/RHSA-2026:19725?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: rhc-worker-playbook security update](https://vulners.com/redhat/RHSA-2026:19714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development](https://vulners.com/thn/THN:5AEC1795837B3671ADB6A8F98B856FA9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Madison Square Garden Bans Lawyer Representing New York Cop Injured at a Boxing Match](https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [NGINX惊爆18年老洞，野外攻击已开始](https://www.anquanke.com/post/id/315546)
+  - [从开源投毒到AI生成代码：供应链安全为何成为企业安全的主战场？](https://www.anquanke.com/post/id/315334)
+  - [国务院令第834号已落地：软件供应链安全，企业欠缺的不是工具，是这三件事](https://www.anquanke.com/post/id/315352)
+  - [基于 Hypervisor 的 Denuvo DRM 绕过与 "社工闭环" 威胁模型研究](https://www.anquanke.com/post/id/315457)
+  - [灵境 AIDR 技术首发 | 以 AI 治理 AI，悬镜智能体安全卫士新品发布](https://www.anquanke.com/post/id/315354)
   - [科技云报到：AI Agent重塑客服战场，容联云用“1脑+多技能”重新定义客服Agent](https://www.anquanke.com/post/id/315533)
+  - [重大安全信号藏在这场国际会议的“行动指南”里](https://www.anquanke.com/post/id/315481)
