@@ -12,15 +12,24 @@
 - Hacking Articles
   - [A Detailed Guide on Nmap Firewall Scan](https://www.hackingarticles.in/a-detailed-guide-on-nmap-firewall-scan/)
 - Horizon3.ai
+  - [CVE-2026-44578 | Next.js Server-Side Request Forgery Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-44578/)
   - [The 2026 Buyer’s Guide to Penetration Testing](https://horizon3.ai/downloads/whitepapers/2026-buyers-guide-penetration-testing/)
+- Sploitus.com Exploits RSS Feed
+  - [drupal-sa-core-2026-004-lab exploit](https://sploitus.com/exploit?id=108B5C3B-AD91-501B-9F9D-A7F4DC457879&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Airbnb gets into hotels, expands AI for host onboarding and customer support](https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/)
   - [Global EV market goes K-shaped as the U.S. gets left behind](https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/)
   - [Jeff Bezos, you were so close to making a good point](https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/)
   - [OpenAI barrels towards IPO that may happen in September](https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/)
+  - [Tesla’s Full Self-Driving software is creeping into Europe](https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/)
   - [Truecaller gets into the eSIM business to diversify its revenue streams](https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/)
+- The Decoder
+  - [Deepseek wants to take on Claude Code and OpenAI's Codex with "Deepseek Code"](https://the-decoder.com/deepseek-wants-to-take-on-claude-code-and-openais-codex-with-deepseek-code/)
+  - [LinkedIn's war on AI slop is not just a policy update—it is an admission that the platform lost control of its feed](https://the-decoder.com/linkedins-war-on-ai-slop-is-not-just-a-policy-update-it-is-an-admission-that-the-platform-lost-control-of-its-feed/)
 - The Verge
   - [Anthropic and OpenAI take their beef to the midterm elections](https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores)
   - [Google Search’s AI evolution includes more ads](https://www.theverge.com/tech/934585/google-ai-shopping-ads-search)
+  - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
   - [Samsung has a tentative deal with workers to avoid a memory chip strike](https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply)
   - [Vibe coding is coming to your phone](https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts)
   - [Volvo is trying to put its EV stumbles in the rearview](https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy)
@@ -48,6 +57,10 @@
   - [CVE-2026-20199](https://vulners.com/nvd/NVD:CVE-2026-20199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-20206](https://vulners.com/nvd/NVD:CVE-2026-20206?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-20223](https://vulners.com/nvd/NVD:CVE-2026-20223?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-20238](https://vulners.com/nvd/NVD:CVE-2026-20238?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-20239](https://vulners.com/nvd/NVD:CVE-2026-20239?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-20240](https://vulners.com/nvd/NVD:CVE-2026-20240?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-30691](https://vulners.com/nvd/NVD:CVE-2026-30691?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39047](https://vulners.com/nvd/NVD:CVE-2026-39047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4293](https://vulners.com/nvd/NVD:CVE-2026-4293?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44923](https://vulners.com/nvd/NVD:CVE-2026-44923?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -71,6 +84,7 @@
   - [CVE-2026-9101](https://vulners.com/nvd/NVD:CVE-2026-9101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9101 Prototype pollution in csv parsing](https://vulners.com/cve/CVE-2026-9101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9101 Prototype pollution in csv parsing](https://vulners.com/cvelist/CVELIST:CVE-2026-9101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [drupal-sa-core-2026-004-lab](https://vulners.com/githubexploit/108B5C3B-AD91-501B-9F9D-A7F4DC457879?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [golang: internal/syscall/unix: Root.Chmod can follow symlinks out of the root](https://vulners.com/redhat/RHSA-2026:19714-CVE-2026-32282?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: Red Hat AI Inference Server 3.2.2 (ROCm)](https://vulners.com/redhat/RHSA-2026:19725?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: rhc-worker-playbook security update](https://vulners.com/redhat/RHSA-2026:19714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
