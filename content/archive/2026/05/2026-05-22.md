@@ -8,16 +8,23 @@
   - [Book Notes: “Poor Charlie’s Almanack”](https://blog.jim-nielsen.com/2026/book-notes-charlie-munger/)
 - daringfireball.net
   - [Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup](https://www.apple.com/newsroom/2026/05/apple-sports-expands-to-more-than-90-new-countries-and-regions/)
+- darkreading
+  - [Google API Keys Remain Active After Deletion](https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion)
 - Hacker News Frontpage
   - [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html)
   - [Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team](https://www.runtm.com/)
   - [London Mayor Blocks Palantir](https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir)
   - [Serving Netflix Video Traffic at 400Gb/S and Beyond (2022) [pdf]](https://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf)
+  - [There’s a real chance you will not have the same job by the end of 2027](https://www.elenaverna.com/p/youll-lose-your-job-in-2027)
   - [Waymo pauses Atlanta service as its robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/)
   - [Wes mckinney releases multiple bangers](https://kenn.io/)
+- Horizon3.ai
+  - [CVE-2026-23734 | XWiki Path Traversal Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-23734/)
+  - [CVE-2026-9082 | Drupal SQL Injection Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-9082/)
 - johndcook.com
   - [Couth and uncouth function pairs](https://www.johndcook.com/blog/2026/05/21/couth-and-uncouth-function-pairs/)
 - MIT Technology Review
+  - [Roundtables: Can AI Learn to Understand the World?](https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/)
   - [Scaling creativity in the age of AI](https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/)
 - Mozilla Hacks – the Web developer blog
   - [Announcing Web Serial Support in Firefox](https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/)
@@ -27,6 +34,7 @@
   - [Convective Capital raises an $85 million fund to build disaster resilience](https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/)
   - [Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX](https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/)
   - [Law enforcement shuts down VPN service used by two dozen ransomware gangs](https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/)
+  - [NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers](https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/)
   - [Six search engines worth trying now that Google isn’t really Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
   - [Spotify and Universal Music strike deal allowing fan-made AI covers and remixes](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/)
   - [This young startup is taking on a fragrance industry that hasn’t changed in a almost half century](https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/)
@@ -35,6 +43,7 @@
   - [Google checks websites for llms.txt in new agentic browsing audit](https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/)
   - [OpenAI shifts the boundary of automated reasoning with a "milestone in AI mathematics" that experts are now unpacking](https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/)
 - The Verge
+  - [All of the updates from Elon Musk and Sam Altman’s battle over OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
   - [Bungie gives up on Destiny](https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date)
   - [GitHub faces a fight for its survival at Microsoft](https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad)
   - [In desperate times, graduates find hope in humiliating tech CEOs](https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos)
@@ -99,6 +108,9 @@
   - [CVE-2026-39531](https://vulners.com/nvd/NVD:CVE-2026-39531?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39593](https://vulners.com/nvd/NVD:CVE-2026-39593?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46473](https://vulners.com/nvd/NVD:CVE-2026-46473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47101 LiteLLM < 1.83.14 Privilege Escalation via API Key Generation](https://vulners.com/cvelist/CVELIST:CVE-2026-47101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47102 LiteLLM < 1.83.10 Privilege Escalation via User Update](https://vulners.com/cvelist/CVELIST:CVE-2026-47102?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47114](https://vulners.com/nvd/NVD:CVE-2026-47114?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47114 IINA < 1.4.3 Command Execution via iina://open URL Scheme](https://vulners.com/cve/CVE-2026-47114?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47114 IINA < 1.4.3 Command Execution via iina://open URL Scheme](https://vulners.com/cvelist/CVELIST:CVE-2026-47114?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48207](https://vulners.com/nvd/NVD:CVE-2026-48207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -185,8 +197,25 @@
   - [CVE-2026-48249](https://vulners.com/nvd/NVD:CVE-2026-48249?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48249 Open ISES Tickets < 3.44.2 Disabled TLS Certificate Verification in rm/incs/mobile_login.inc.php](https://vulners.com/cve/CVE-2026-48249?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48249 Open ISES Tickets < 3.44.2 Disabled TLS Certificate Verification in rm/incs/mobile_login.inc.php](https://vulners.com/cvelist/CVELIST:CVE-2026-48249?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-4843](https://vulners.com/nvd/NVD:CVE-2026-4843?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4843 GSheet For Woo Importer <= 2.3.1 - Missing Authorization to Authenticated (Subscriber+) Plugin Settings Reset](https://vulners.com/cve/CVE-2026-4843?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4843 GSheet For Woo Importer <= 2.3.1 - Missing Authorization to Authenticated (Subscriber+) Plugin Settings Reset](https://vulners.com/cvelist/CVELIST:CVE-2026-4843?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6826 Concrete 9.5.0 and below has file usage disclosure via missing permission check in Usage controller](https://vulners.com/cvelist/CVELIST:CVE-2026-6826?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8134 Concrete CMS 9.5.0 and below is vulnerable to Authenticated RCE via Composer customTemplate Path Traversal leading to PHP File Inclusion](https://vulners.com/cve/CVE-2026-8134?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8134 Concrete CMS 9.5.0 and below is vulnerable to Authenticated RCE via Composer customTemplate Path Traversal leading to PHP File Inclusion](https://vulners.com/cvelist/CVELIST:CVE-2026-8134?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8135 Concrete CMS 9.5.0 and below is vulnerable to RCE due to insecure deserialization occurring in the ExpressEntryList block controller.](https://vulners.com/cve/CVE-2026-8135?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8135 Concrete CMS 9.5.0 and below is vulnerable to RCE due to insecure deserialization occurring in the ExpressEntryList block controller.](https://vulners.com/cvelist/CVELIST:CVE-2026-8135?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8140 Concrete CMS 9.5.0 and below is vulnerable to CSRF on download() in the package install controller](https://vulners.com/cvelist/CVELIST:CVE-2026-8140?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8197 Concrete CMS 9.5.0 and below is vulnerable to Stored XSS via OAuth integration name](https://vulners.com/cvelist/CVELIST:CVE-2026-8197?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8203 Concrete CMS 9.5.0 and below has Stored XSS on the height parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-8203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8204 Concrete CMS 9.5.0 and below is vulnerable to Authorization Bypass in the Calendar Event Frontend Dialog](https://vulners.com/cvelist/CVELIST:CVE-2026-8204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8205 Concrete CMS 9.5.0 and below is vulnerable to authorization bypass in Calendar Block since action_get_events does not check canView on the calendar](https://vulners.com/cvelist/CVELIST:CVE-2026-8205?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8350 Concrete CMS 9.5.0 and below is vulnerable to missing authorization in the bulk_user_assignment.php which can lead to privilege escalation to Administrative Group](https://vulners.com/cvelist/CVELIST:CVE-2026-8350?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8417 Concrete CMS 9.5.0 and below is vulnerable to CSRF in do_update() in the package update controller](https://vulners.com/cve/CVE-2026-8417?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8417 Concrete CMS 9.5.0 and below is vulnerable to CSRF in do_update() in the package update controller](https://vulners.com/cvelist/CVELIST:CVE-2026-8417?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8421 Concrete CMS 9.5.0 and below is vulnerable to CSRF on install_package() with conditional token bypass leading to RCE](https://vulners.com/cvelist/CVELIST:CVE-2026-8421?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8426 Concrete CMS 9.5.0 and below is vulnerable to CSRF on prepare_remote_upgrade() leading to one-request RCE via package overwrite](https://vulners.com/cvelist/CVELIST:CVE-2026-8426?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8428 CSRF token is not validated in the core CMS update controller for Concrete CMS 9.5.0 and below](https://vulners.com/cvelist/CVELIST:CVE-2026-8428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8946 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-8946?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8946 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-8946?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8947 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-8947?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -224,6 +253,8 @@
 - wheresyoured.at
   - [Anthropic's "Profitability" Swindle](https://www.wheresyoured.at/anthropics-profitability-swindle/)
 - Wired
+  - [Best Window Air Conditioners of 2026: Midea, Zafro, GE](https://www.wired.com/gallery/best-window-air-conditioners/)
+  - [Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates](https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/)
   - [Mustard Made Storage Lockers Are on a Rare Sale Through May 31](https://www.wired.com/story/mustard-made-sale/)
   - [Palantir Held a Hack Week to Add New Controls to Software Used by ICE](https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/)
 - 代码审计星球
