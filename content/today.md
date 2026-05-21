@@ -27,11 +27,15 @@
   - [8点1氪丨英伟达Q1净利润583亿美元；谷歌CEO：Gemini月活跃用户达9亿；寿司郎回应“盘子抽检10抽10脏”](https://36kr.com/p/3818280989443202?f=rss)
   - [9亿次点击背后，AI应用的真实江湖｜2026中国AI应用全景图谱报告](https://36kr.com/p/3818450346738823?f=rss)
   - [Airbnb官宣跨品类拓展，新增生鲜配送、租车及AI工具等](https://36kr.com/newsflashes/3818248041940099?f=rss)
+  - [AMD宣布采用台积电2nm工艺量产下一代霄龙处理器“Venice”](https://36kr.com/newsflashes/3818652181971843?f=rss)
   - [AMD正与台积电合作，提升下一代CPU的产能](https://36kr.com/newsflashes/3818627970581385?f=rss)
   - [AMD计划将其数据中心CPU产品路线图全面扩展至台积电2nm工艺技术](https://36kr.com/newsflashes/3818630670451588?f=rss)
   - [Anthropic有望首次实现单季盈利，收入大幅增长](https://36kr.com/newsflashes/3818331067483012?f=rss)
+  - [ArtificialAnalysis：千问3.7问鼎国产模型冠军，全球前五](https://36kr.com/newsflashes/3818678530507905?f=rss)
   - [A股三大指数午间休盘集体上涨，汽车零部件板块走强](https://36kr.com/newsflashes/3818493147136902?f=rss)
+  - [A股三大指数集体收跌，全市场超4700股下跌](https://36kr.com/newsflashes/3818699066131584?f=rss)
   - [A股三大指数集体高开，华灿光电涨停](https://36kr.com/newsflashes/3818370861974660?f=rss)
+  - [A股三大股指午后持续下挫，沪指跌超1%](https://36kr.com/newsflashes/3818660257793153?f=rss)
   - [Omdia：倍思2026年一季度OWS耳夹耳机出货量全球第二，非手机厂商第一](https://36kr.com/newsflashes/3818473738077319?f=rss)
   - [SpaceX在“星舰”巨型火箭上已砸超150亿美元](https://36kr.com/newsflashes/3818304575832965?f=rss)
   - [SpaceX招股书披露关联交易：自2023年起向特斯拉采购达8.9亿美元](https://36kr.com/newsflashes/3818275119399809?f=rss)
@@ -58,6 +62,8 @@
   - [国产晶圆代工产业景气度攀升，头部企业纷纷提价](https://36kr.com/newsflashes/3818257990632581?f=rss)
   - [国家发展改革委：将完善公平竞争、投融资、促进科技创新、规范经营等方面政策举措](https://36kr.com/newsflashes/3818459413955464?f=rss)
   - [国家能源局：截至4月底，我国电动汽车充电基础设施（枪）总数达到2195.5万个，同比增长47.4%](https://36kr.com/newsflashes/3818498861565057?f=rss)
+  - [国际资本持续流出印度股市，今年以来全球投资者从印度股市总计撤出约230亿美元](https://36kr.com/newsflashes/3818681110086529?f=rss)
+  - [塔斯汀增资至3亿，增幅约152%](https://36kr.com/newsflashes/3818658451375235?f=rss)
   - [复宏汉霖在南京成立新生物技术公司，注册资本5000万](https://36kr.com/newsflashes/3818630108185731?f=rss)
   - [多家券商密集处置旗下房产，盘活存量资产推动战略聚焦](https://36kr.com/newsflashes/3818259583878021?f=rss)
   - [多晶硅期货主力合约涨超3%](https://36kr.com/newsflashes/3818357431125120?f=rss)
@@ -69,6 +75,7 @@
   - [恒指午间休盘跌0.02%，恒生科技指数跌0.24%](https://36kr.com/newsflashes/3818522205406081?f=rss)
   - [恒指开盘涨0.71%，恒生科技指数涨1.04%](https://36kr.com/newsflashes/3818365084714112?f=rss)
   - [恒生科技指数跌幅扩大至1%](https://36kr.com/newsflashes/3818626617312137?f=rss)
+  - [恒生科技指数跌幅扩大至2%](https://36kr.com/newsflashes/3818686071342215?f=rss)
   - [投顾数量逆势扩容，券业人才结构加速重构](https://36kr.com/newsflashes/3818294863709315?f=rss)
   - [招商证券：“电价+气候+算力”三重催化，看好电力板块结构性行情](https://36kr.com/newsflashes/3818322546082949?f=rss)
   - [摩根大通CEO戴蒙：美国国债收益率和信用利差很容易进一步上升](https://36kr.com/newsflashes/3818483604915072?f=rss)
@@ -81,6 +88,8 @@
   - [权益基金年内分红总额同比增长超八成](https://36kr.com/newsflashes/3818259056788353?f=rss)
   - [权益类新基金屡现“爆款”，年内首募破2660亿元](https://36kr.com/newsflashes/3818260886815879?f=rss)
   - [沪深ETF总规模4月末重返5.1万亿元上方](https://36kr.com/newsflashes/3818291212370818?f=rss)
+  - [沪深两市成交额突破3万亿元](https://36kr.com/newsflashes/3818672355672962?f=rss)
+  - [海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》](https://36kr.com/newsflashes/3818668007736452?f=rss)
   - [深交所：港股通标的证券名单调整，调入华勤技术](https://36kr.com/newsflashes/3818340873880711?f=rss)
   - [深圳市探海游艇产业发展有限公司在大连投资新公司](https://36kr.com/newsflashes/3818445023151232?f=rss)
   - [港股舜宇光学科技午后涨超10%](https://36kr.com/newsflashes/3818604185781124?f=rss)
@@ -92,6 +101,7 @@
   - [科技制造出口旺，公募布局高景气赛道](https://36kr.com/newsflashes/3818255446492297?f=rss)
   - [网易520发布会：质量为先，狙击细分赛道](https://36kr.com/p/3817849322964098?f=rss)
   - [美团无人机低空配送超过90万商业化订单](https://36kr.com/newsflashes/3818484947436675?f=rss)
+  - [美国卫生部：未成年人屏幕时间过长已成公共卫生问题](https://36kr.com/newsflashes/3818685062481031?f=rss)
   - [美国证监会主席：已指示员工就新型ETF引发的市场变化征求公众意见](https://36kr.com/newsflashes/3818350210352258?f=rss)
   - [美联储会议纪要：通胀偏高，中东局势加剧美经济前景不确定性](https://36kr.com/newsflashes/3818251386946440?f=rss)
   - [美联储或因通胀高企收紧货币政策](https://36kr.com/newsflashes/3818562881504389?f=rss)
@@ -117,10 +127,12 @@
   - [韩国5月份贸易数据显示芯片出口继续保持强劲](https://36kr.com/newsflashes/3818310498550662?f=rss)
   - [韩国KOSPI指数日内涨超8%](https://36kr.com/newsflashes/3818567415661447?f=rss)
   - [韩国KOSPI指数涨幅扩大至6%](https://36kr.com/newsflashes/3818345406596225?f=rss)
+  - [韩国公布全球人工智能枢纽愿景](https://36kr.com/newsflashes/3818666623943556?f=rss)
   - [韩国前四月食品出口额同比增长4.7%，方便面出口增长28.9%](https://36kr.com/newsflashes/3818588387984520?f=rss)
   - [韩国将从7月6日起首次启动以韩元计价的现货市场交易，实行24小时不间断交易](https://36kr.com/newsflashes/3818464914424706?f=rss)
   - [韩国将燃油税减免政策延长两月至7月底](https://36kr.com/newsflashes/3818252476973958?f=rss)
   - [韩国证券市场因KOSPI 200期货大涨触发“边车”机制，暂停程序化买单5分钟](https://36kr.com/newsflashes/3818315966808965?f=rss)
+  - [马斯克旗下SpaceX启动史上最大规模IPO计划](https://36kr.com/newsflashes/3818654166434945?f=rss)
   - [黄仁勋：英伟达的GroQ芯片在一段时间内仍将是小众产品](https://36kr.com/newsflashes/3818307822388099?f=rss)
 - Ars Technica
   - ["Ryzen 5800X3D 10th Anniversary Edition" may help you avoid paying for a new PC](https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/)
@@ -137,6 +149,8 @@
 - darkreading
   - [GitHub Confirms Breach, 4K Internal Repos Stolen](https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen)
   - [Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control](https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os)
+- defend.network
+  - [GitHub breach, SonicWall VPN MFA bypass, Drupal critical flaw demand patching](https://defend.network/briefings/github-breach-sonicwall-drupal-critical-vulnerabilities-2026-05-21.html)
 - Google AI Blog
   - [100 things we announced at I/O 2026](https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/)
 - Hacker News Frontpage
@@ -159,6 +173,9 @@
   - [The 2026 Buyer’s Guide to Penetration Testing](https://horizon3.ai/downloads/whitepapers/2026-buyers-guide-penetration-testing/)
 - joanwestenberg.com
   - [Nobody is destined for greatness.](https://www.joanwestenberg.com/nobody-is-destined-for-greatness/)
+- Kali Linux Tutorials
+  - [How to Perform Ubuntu Hostname Change Without Rebooting](https://kalilinuxtutorials.com/ubuntu-hostname-change/)
+  - [Install Docker on Ubuntu 26.04 Like a Pro](https://kalilinuxtutorials.com/install-docker-ubuntu/)
 - micahflee.com
   - [Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance](https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/)
 - rtl-sdr.com
@@ -512,6 +529,8 @@
   - [The EU Is Going Through a Trump-Fueled Breakup With Big Tech](https://www.wired.com/story/the-eu-is-going-through-a-trump-fueled-breakup-with-big-tech/)
   - [The Motley Fool Promo Code: Save Up to $200 on Stock Advisor May 2026](https://www.wired.com/story/the-motley-fool-promo-code/)
   - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
+- 不安全
+  - [Bitwarden 被私募基金收购了吗？](https://buaq.net/go-417922.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 半块西瓜皮
@@ -531,4 +550,5 @@
 - 量子位 QbitAI
   - [520当天400万AI人，都在量子位听这近20场演讲&对谈｜第四届中国AIGC产业峰会](https://www.qbitai.com/2026/05/421691.html)
   - [刚刚，马斯克公开SpaceX招股书！](https://www.qbitai.com/2026/05/420761.html)
+  - [得场景者得AI天下，出行赛道跑出了一家值得关注的数据玩家](https://www.qbitai.com/2026/05/421694.html)
   - [顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一](https://www.qbitai.com/2026/05/420918.html)
