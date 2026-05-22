@@ -3,8 +3,11 @@
 - 2Libra
   - [打了几把王者给自己整破防了](https://2libra.com/post/game-discussion/pKxxvSz)
 - Ars Technica
+  - [Police boast of hacking VPN where criminals "believed themselves to be safe"](https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/)
   - [PSA: The Steam Controller’s magnetic charger can be a fire hazard](https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/)
+  - [Review: The Mandalorian and Grogu is ... fine](https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/)
   - [Soaring solar and a surge in hydro push more coal off the US grid](https://arstechnica.com/science/2026/05/soaring-solar-and-a-surge-in-hydro-push-more-coal-off-the-us-grid/)
+  - [Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption](https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/)
 - daringfireball.net
   - [Stephen Colbert’s ‘The Late Show’ Finale](https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html?unlocked_article_code=1.kVA.GO3I.gVq9KeUrHEyM)
   - [The Ninth Circuit Appeal Ruling in ‘Epic v. Apple’ That Apple Is Seeking to Overturn at the Supreme Court (PDF)](https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf)
@@ -17,7 +20,10 @@
   - [Catch up on the Dialogues stage at Google I/O 2026.](https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/)
 - Hacker News Frontpage
   - [Microsoft Drops Claude Code After Budget Overrun](https://aiweekly.co/alerts/microsoft-drops-claude-code-after-budget-overrun)
+  - [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
   - [U.S. researchers face new restrictions on publishing with foreign collaborators](https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators)
+- idiallo.com
+  - [How to Talk to Your Coworkers](https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed)
 - krebsonsecurity.com
   - [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
 - Security Sift
@@ -27,6 +33,7 @@
   - [Solving the 2013 Verizon DBIR Cover Challenge](https://mikeczumak.com/solving-the-2013-verizon-dbir-cover-challenge-f79c0bddbd17?source=rss----b73b8ccc7897---4)
   - [XSS with a little help from ASP.NET and Internet Explorer 9](https://mikeczumak.com/xss-with-a-little-help-from-asp-net-and-internet-explorer-9-1dfdc9d166b3?source=rss----b73b8ccc7897---4)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=AF24E2C9-C4BC-5179-9E2E-AF21ECCFA255&utm_source=rss&utm_medium=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Wordpress exploit](https://sploitus.com/exploit?id=8FE45B89-87C8-5E13-97D0-05804D436CF5&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers](https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/)
@@ -57,7 +64,11 @@
   - [CVE-2026-36227 | Easy Chat Server 3.1 Username path traversal](https://vuldb.com/vuln/365239)
   - [CVE-2026-36228 | Easy Chat Server 3.1 Chat Message buffer overflow](https://vuldb.com/vuln/365240)
   - [CVE-2026-37470 | ClipBucket 5.5.2 Authentication Interface privilege escalation](https://vuldb.com/vuln/365232)
+  - [CVE-2026-39964 | baptisteArno typebot.io up to 3.15.x packages/embeds/js cross site scripting](https://vuldb.com/vuln/365255)
+  - [CVE-2026-39965 | baptisteArno typebot.io up to 3.15.x HTTP Request validateHttpReqUrl server-side request forgery](https://vuldb.com/vuln/365256)
   - [CVE-2026-42626 | HP ENVY 5000 VERBASPP1N003.2237A.00 JetDirect/RAW denial of service](https://vuldb.com/vuln/365234)
+  - [CVE-2026-42627 | Arm ArmNN up to 2026-03-27 TFLite armnn/Tensor.cpp GetNumElements integer overflow](https://vuldb.com/vuln/365257)
+  - [CVE-2026-46727 | Ruby up to 4.0.4 Authoritative ext/socket/raddrinfo.c rb_getaddrinfo race condition](https://vuldb.com/vuln/365254)
   - [CVE-2026-9248 | Devolutions Server up to 2025.3.20.0/2026.1.16.0 authorization (DEVO-2026-0013 / EUVD-2026-31454)](https://vuldb.com/vuln/365225)
   - [CVE-2026-9249 | Devolutions Server up to 2025.3.20.0/2026.1.16.0 unverified password change (DEVO-2026-0013 / EUVD-2026-31457)](https://vuldb.com/vuln/365226)
   - [CVE-2026-9255 | AWS Kiro CLI up to 1.27.x authorization](https://vuldb.com/vuln/365237)
@@ -69,6 +80,8 @@
   - [CVE-2026-9299 | omec-project amf up to 2.1.1 handler.go PDUSessionResourceModifyIndication memory corruption (Issue 681)](https://vuldb.com/vuln/365246)
   - [CVE-2026-9300 | omec-project amf up to 2.1.1 NGSetupRequest memory corruption (Issue 679)](https://vuldb.com/vuln/365247)
   - [CVE-2026-9301 | omec-project amf up to 2.1.1 NGReset Message memory corruption (Issue 678)](https://vuldb.com/vuln/365248)
+  - [CVE-2026-9305 | QuantumNous new-api up to 0.12.1 self Endpoint model/topup.go SearchUserTopUps/SearchAllTopUps sql injection](https://vuldb.com/vuln/365252)
+  - [CVE-2026-9306 | QuantumNous new-api up to 0.12.1 Midjourney Image Relay Endpoint router/relay-router.go RelayMidjourneyImage/GetByOnlyMJId authorization](https://vuldb.com/vuln/365253)
 - Vulners.com RSS Feed
   - [CVE-2026-28445 Typebot: Stored XSS via Rating Block Custom Icon Bypasses isUnsafe Sandbox in Builder Preview](https://vulners.com/cve/CVE-2026-28445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28445 Typebot: Stored XSS via Rating Block Custom Icon Bypasses isUnsafe Sandbox in Builder Preview](https://vulners.com/cvelist/CVELIST:CVE-2026-28445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -80,6 +93,13 @@
   - [CVE-2026-34207 TypeBot: SSRF Protection Bypass via DNS-Resolved Hostnames in Webhook / HTTP Request Validation](https://vulners.com/cvelist/CVELIST:CVE-2026-34207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39964 TypeBot: Stored XSS via javascript: URI in text bubble links — bot author executes JS on visitors' browsers](https://vulners.com/cvelist/CVELIST:CVE-2026-39964?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39965 TypeBot: SSRF via Open Redirect Bypass in HTTP Request and Code Blocks](https://vulners.com/cvelist/CVELIST:CVE-2026-39965?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-39966 TypeBot: Async filter() bypasses authorization, allowing IDOR in getLinkedTypebots and leaking cross-workspace bot definitions](https://vulners.com/cve/CVE-2026-39966?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-39966 TypeBot: Async filter() bypasses authorization, allowing IDOR in getLinkedTypebots and leaking cross-workspace bot definitions](https://vulners.com/cvelist/CVELIST:CVE-2026-39966?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-39968 TypeBot: Cross-Workspace Credential Theft via Bot-Engine Preview Endpoint](https://vulners.com/cve/CVE-2026-39968?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-39968 TypeBot: Cross-Workspace Credential Theft via Bot-Engine Preview Endpoint](https://vulners.com/cvelist/CVELIST:CVE-2026-39968?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9291 Insecure Deserialization in Amazon Braket SDK Job Results Processing](https://vulners.com/cve/CVE-2026-9291?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9291 Insecure Deserialization in Amazon Braket SDK Job Results Processing](https://vulners.com/cvelist/CVELIST:CVE-2026-9291?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/AF24E2C9-C4BC-5179-9E2E-AF21ECCFA255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Wordpress](https://vulners.com/githubexploit/8FE45B89-87C8-5E13-97D0-05804D436CF5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://vulners.com/thn/THN:26F570E58EDE95FBA61CB603FE1EB1BB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware](https://vulners.com/thn/THN:715C732DCF8A155C86B08A3DA384434C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -87,6 +107,7 @@
   - [Premium: What If...We're In An AI Bubble? (Part 2)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-2/)
 - Wired
   - [Memorial Day 2026 Grill and Griddle Deals: Weber, Traeger, Recteq](https://www.wired.com/story/memorial-day-grill-griddle-deals-2026/)
+  - [Memorial Day Tech Deals: Sony, Apple, Beats (2026)](https://www.wired.com/story/memorial-day-tech-deals-2026-1/)
   - [Shein Buying Everlane Actually Makes Perfect Sense](https://www.wired.com/story/made-in-china-why-shein-bought-everlane/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
