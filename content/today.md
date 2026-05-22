@@ -237,6 +237,8 @@
   - [A Decade of BitLocker Vulnerabilities: What’s Patched, What’s Not, and What Still Works](https://blog.elcomsoft.com/2026/05/a-decade-of-bitlocker-vulnerabilities-whats-patched-whats-not-and-what-still-works/)
 - Fidelis Security
   - [What I’m Hearing at Security Conferences Worldwide About Ransomware](https://fidelissecurity.com/threatgeek/thought-leadership/hearing-at-security-conferences-worldwide-about-ransomware/)
+- Fox-IT International blog
+  - [RemotePE: The Lazarus RAT that lives in memory](https://blog.fox-it.com/2026/05/22/remotepe-the-lazarus-rat-that-lives-in-memory/)
 - Hacker News Frontpage
   - [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html)
   - [FSFE intervenes against Apple before EUCJ for the second time](https://fsfe.org/news/2026/news-20260519-01.en.html)
@@ -277,6 +279,11 @@
   - [Early Development Plans for Flipper One Announced](https://www.rtl-sdr.com/early-development-plans-for-flipper-one-announced/)
 - Securelist
   - [Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload](https://securelist.com/cloud-atlas-2026/119895/)
+- Security Sift
+  - [Abusing Microsoft Office DDE](https://mikeczumak.com/abusing-microsoft-office-dde-794e96d0a357?source=rss----b73b8ccc7897---4)
+  - [Chaining bugs for maximum impact](https://mikeczumak.com/chaining-bugs-for-maximum-impact-1952e15920f5?source=rss----b73b8ccc7897---4)
+  - [CVE-2026–1839: How Training AI with Heavy Weights Can Still Lead to Light Security](https://mikeczumak.com/cve-2026-1839-how-training-ai-with-heavy-weights-can-still-lead-to-light-security-bf4e34c9799c?source=rss----b73b8ccc7897---4)
+  - [Testing Optionsbleed](https://mikeczumak.com/testing-optionsbleed-42473bdd5974?source=rss----b73b8ccc7897---4)
 - simonwillison.net
   - [Datasette Agent](https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything)
   - [FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service](https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything)
@@ -285,6 +292,7 @@
   - [Exploit for Code Injection in Iptime N104S-R1_Firmware exploit](https://sploitus.com/exploit?id=07475DB5-835F-5DD6-BF42-BCF4088E9F57&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Vmware Spring_Framework exploit](https://sploitus.com/exploit?id=E3932EE9-E16C-54B3-901C-0E66AAF4B0BA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-0680 exploit](https://sploitus.com/exploit?id=3D675A19-A605-5D50-92D8-EBA3F656E0F6&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-36226 exploit](https://sploitus.com/exploit?id=056A3D64-17F5-5D81-959C-75F016136AE8&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-36227 exploit](https://sploitus.com/exploit?id=8F930D98-0751-543B-8C26-106577B892C5&utm_source=rss&utm_medium=rss)
   - [Exploit for Use of Uninitialized Resource in Microsoft exploit](https://sploitus.com/exploit?id=75635AA3-6654-5F52-A1B8-BB43E3BC645D&utm_source=rss&utm_medium=rss)
   - [pynmap exploit](https://sploitus.com/exploit?id=4A5AAECF-6C53-51C0-914F-023583E0ED69&utm_source=rss&utm_medium=rss)
@@ -295,6 +303,7 @@
   - [Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market](https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/)
   - [Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX](https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/)
   - [Law enforcement shuts down VPN service used by two dozen ransomware gangs](https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/)
+  - [Meta quietly launches a new Reddit-like app called Forum](https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/)
   - [NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers](https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/)
   - [Six search engines worth trying now that Google isn’t really Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
   - [Smart ring maker Oura files to go public](https://techcrunch.com/2026/05/22/smart-ring-maker-oura-files-to-go-public/)
@@ -302,12 +311,14 @@
   - [Spotify and Universal Music strike deal allowing fan-made AI covers and remixes](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/)
   - [This young startup is taking on a fragrance industry that hasn’t changed in a almost half century](https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/)
   - [Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’](https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/)
+  - [Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses](https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/)
   - [Waymo expands pause to four cities as robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/)
   - [Waymo halts freeway rides after robotaxis struggle in construction zones](https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/)
   - [Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle](https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/)
 - The Decoder
   - [California governor signs first US executive order to protect workers from AI job loss](https://the-decoder.com/california-governor-signs-first-us-executive-order-to-protect-workers-from-ai-job-loss/)
   - [Google checks websites for llms.txt in new agentic browsing audit](https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/)
+  - [OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation](https://the-decoder.com/openai-burned-through-1-22-per-dollar-earned-even-after-stripping-out-stock-based-compensation/)
   - [OpenAI shifts the boundary of automated reasoning with a "milestone in AI mathematics" that experts are now unpacking](https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/)
   - [Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks](https://the-decoder.com/trump-pulls-ai-safety-order-after-last-minute-calls-from-musk-zuckerberg-and-sacks/)
 - The Verge
@@ -328,8 +339,11 @@
   - [States ask judge to break up Live Nation-Ticketmaster](https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up)
   - [Tesla recalls thousands of Model Ys at risk of&#8230; missing a sticker](https://www.theverge.com/transportation/936078/tesla-model-y-missing-sticker-recall)
   - [The Boys limped through its last season, but made up for it with the finale](https://www.theverge.com/entertainment/935482/the-boys-finale-review)
+  - [The literary world isn’t prepared for AI](https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize)
   - [The post-search Google era begins](https://www.theverge.com/podcast/936037/google-io-2026-search-agents-vergecast)
+  - [The Trump phone is not here](https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped)
   - [Who gets to own the Luigi Mangione story?](https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters)
+  - [Why would you disrespect your favorite artist with an AI remix?](https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan)
 - Trail of Bits Blog
   - [We hardened zizmor's GitHub Actions static analyzer](https://blog.trailofbits.com/2026/05/22/we-hardened-zizmors-github-actions-static-analyzer/)
 - VulDB Recent Entries
@@ -448,6 +462,8 @@
   - [Chromium: CVE-2026-9126 Use after free in DOM](https://vulners.com/mscve/MS:CVE-2026-9121?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV](https://vulners.com/thn/THN:542DCC54A54A4BA7149FC37622AFB0AD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access](https://vulners.com/thn/THN:43B1D95177ED31C76B1B51C84F14FE8D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2021-21508](https://vulners.com/cve/CVE-2021-21508?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2021-21508](https://vulners.com/cvelist/CVELIST:CVE-2021-21508?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-34620 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2023-34620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-34620 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2023-34620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-26483](https://vulners.com/cve/CVE-2025-26483?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -659,6 +675,8 @@
   - [CVE-2026-8337](https://vulners.com/nvd/NVD:CVE-2026-8337?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8350](https://vulners.com/nvd/NVD:CVE-2026-8350?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8350 Concrete CMS 9.5.0 and below is vulnerable to missing authorization in the bulk_user_assignment.php which can lead to privilege escalation to Administrative Group](https://vulners.com/cvelist/CVELIST:CVE-2026-8350?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8353 Concrete CMS version 9.0 to 9.5.0 is vulnerable to Stored XSS via page name in atomik theme](https://vulners.com/cve/CVE-2026-8353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8353 Concrete CMS version 9.0 to 9.5.0 is vulnerable to Stored XSS via page name in atomik theme](https://vulners.com/cvelist/CVELIST:CVE-2026-8353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8381](https://vulners.com/nvd/NVD:CVE-2026-8381?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8381 Broken Access Control in TeamViewer DEX Platform (On Premises)](https://vulners.com/cve/CVE-2026-8381?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8381 Broken Access Control in TeamViewer DEX Platform (On Premises)](https://vulners.com/cvelist/CVELIST:CVE-2026-8381?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -727,6 +745,8 @@
   - [CVE-2026-8953 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-8953?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8954 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-8954?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8954 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-8954?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8992](https://vulners.com/cve/CVE-2026-8992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8992](https://vulners.com/cvelist/CVELIST:CVE-2026-8992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8997 Heap Buffer Overflow in vifm](https://vulners.com/cve/CVE-2026-8997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8997 Heap Buffer Overflow in vifm](https://vulners.com/cvelist/CVELIST:CVE-2026-8997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9011](https://vulners.com/nvd/NVD:CVE-2026-9011?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -740,6 +760,8 @@
   - [CVE-2026-9054 Invalid IP packets cause a kernel panic](https://vulners.com/cvelist/CVELIST:CVE-2026-9054?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9089](https://vulners.com/nvd/NVD:CVE-2026-9089?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9104](https://vulners.com/nvd/NVD:CVE-2026-9104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9256 NGINX ngx_http_rewrite_module vulnerability](https://vulners.com/cve/CVE-2026-9256?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9256 NGINX ngx_http_rewrite_module vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-9256?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9264](https://vulners.com/nvd/NVD:CVE-2026-9264?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9277 shell-quote `quote()` does not validate object-token shapes, allowing command injection via line terminators in `.op`](https://vulners.com/cve/CVE-2026-9277?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9277 shell-quote `quote()` does not validate object-token shapes, allowing command injection via line terminators in `.op`](https://vulners.com/cvelist/CVELIST:CVE-2026-9277?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -758,9 +780,13 @@
   - [EUVD-2026-31432](https://vulners.com/euvd/EUVD-2026-31432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [EUVD-2026-31433](https://vulners.com/euvd/EUVD-2026-31433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [EUVD-2026-31434](https://vulners.com/euvd/EUVD-2026-31434?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [EUVD-2026-31443](https://vulners.com/euvd/EUVD-2026-31443?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [EUVD-2026-31444](https://vulners.com/euvd/EUVD-2026-31444?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [EUVD-2026-31445](https://vulners.com/euvd/EUVD-2026-31445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Iptime N104S-R1_Firmware](https://vulners.com/githubexploit/07475DB5-835F-5DD6-BF42-BCF4088E9F57?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Vmware Spring_Framework](https://vulners.com/githubexploit/E3932EE9-E16C-54B3-901C-0E66AAF4B0BA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-0680](https://vulners.com/githubexploit/3D675A19-A605-5D50-92D8-EBA3F656E0F6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-36226](https://vulners.com/githubexploit/056A3D64-17F5-5D81-959C-75F016136AE8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-36227](https://vulners.com/githubexploit/8F930D98-0751-543B-8C26-106577B892C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-36228](https://vulners.com/githubexploit/3BBEE2D2-4091-51A5-8645-E85B1785032E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-5118](https://vulners.com/githubexploit/B4DABD5C-431B-519B-B5DB-C7A24B7D91ED?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -809,6 +835,7 @@
   - [vulnlab](https://vulners.com/githubexploit/9D072F8E-44F5-5274-A323-B4D5BADDF295?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Anthropic's "Profitability" Swindle](https://www.wheresyoured.at/anthropics-profitability-swindle/)
+  - [News: OpenAI Had A Negative 122% Non-GAAP Operating Margin In Q1 2026, and ChatGPT Growth Has Stalled](https://www.wheresyoured.at/news-openai-had-a-negative-122-operating-margin-in-q1-2026-and-chatgpt-growth-has-stalled/)
 - Wired
   - [30% Off Samsung Promo Code | May 2026](https://www.wired.com/story/samsung-promo-codes/)
   - [AT&T Promo Codes: $50 Off This May 2026](https://www.wired.com/story/att-promo-code/)
@@ -816,6 +843,7 @@
   - [Best Window Air Conditioners of 2026: Midea, Zafro, GE](https://www.wired.com/gallery/best-window-air-conditioners/)
   - [Chewy Promo Codes: $20 Off May 2026](https://www.wired.com/story/chewy-promo-code/)
   - [Dyson Promo Codes: 25% Off in May 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+  - [Even If You Hate AI, You Will Use Google AI Search](https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/)
   - [Finally, a Great Free Radio App for Windows](https://www.wired.com/story/trdo-is-a-great-free-radio-app-for-windows/)
   - [Google Workspace Promo Codes: 14% Off for May](https://www.wired.com/story/google-workspace-promo-code/)
   - [Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates](https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/)
@@ -829,7 +857,10 @@
   - [What to Do in LA if You’re Here for Business (2025)](https://www.wired.com/story/los-angeles-tech-travel-guide/)
   - [‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says](https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/)
 - 不安全
+  - [Chaining bugs for maximum impact](https://buaq.net/go-418312.html)
   - [Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access](https://buaq.net/go-418179.html)
+  - [CVE-2026–1839: How Training AI with Heavy Weights Can Still Lead to Light Security](https://buaq.net/go-418313.html)
+  - [Linus Torvalds 谈 AI](https://buaq.net/go-418285.html)
   - [Securing AI systems without overconfidence or fear – Part 2: Attack surfaces and the checkpoint flow](https://buaq.net/go-418279.html)
   - [SpaceX计划在得州奥斯丁附近建设一座10吉瓦太阳能工厂](https://buaq.net/go-418153.html)
   - [TabulaBili-Plus – 让 B 站暂时忘记你是谁[Chrome]](https://buaq.net/go-418182.html)
@@ -849,6 +880,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Linus Torvalds 谈 AI](https://www.solidot.org/story?sid=84376)
   - [亚马逊去年在破坏工会的咨询服务上的支出为 2660 万美元](https://www.solidot.org/story?sid=84366)
   - [国际空间站俄罗斯舱段再次发生漏气事故](https://www.solidot.org/story?sid=84367)
 - 爱范儿
