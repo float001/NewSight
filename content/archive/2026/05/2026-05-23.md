@@ -15,6 +15,8 @@
   - [The Ninth Circuit Appeal Ruling in ‘Epic v. Apple’ That Apple Is Seeking to Overturn at the Supreme Court (PDF)](https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf)
   - [Zero Sum Problems and Apple Sports](https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/)
   - [★ The Fonts of the U.S. Federal Courts](https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts)
+- Der Flounder
+  - [Reporting on Jamf Pro API clients and assigned API roles](https://derflounder.wordpress.com/2026/05/22/13403/)
 - Fidelis Security
   - [What Makes Fidelis CSPM Enterprise-Ready for Modern Cloud Security?](https://fidelissecurity.com/threatgeek/cloud-security/enterprise-ready-cloud-security-posture-management/)
 - filfre.net
@@ -33,15 +35,20 @@
   - [How to Talk to Your Coworkers](https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed)
 - krebsonsecurity.com
   - [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-05-22: SmartApeSG ClickFix --> Unidentified RAT --> NetSupport RAT](https://www.malware-traffic-analysis.net/2026/05/22/index.html)
 - Security Sift
   - [ASK/L(OOK)/Listen! — Basic Signal Decoding and Replay](https://mikeczumak.com/ask-l-ook-listen-basic-signal-decoding-and-replay-3bd95b9804a4?source=rss----b73b8ccc7897---4)
   - [Cross Origin Request Forgery Pt 2 — Exploiting Browser Security](https://mikeczumak.com/cross-origin-request-forgery-pt-2-exploiting-browser-security-d47e48320151?source=rss----b73b8ccc7897---4)
   - [Cross Origin Request Forgery — Attacking HTTPS via HTTP MiTM Injection](https://mikeczumak.com/cross-origin-request-forgery-attacking-https-via-http-mitm-injection-66f72f07c161?source=rss----b73b8ccc7897---4)
   - [Solving the 2013 Verizon DBIR Cover Challenge](https://mikeczumak.com/solving-the-2013-verizon-dbir-cover-challenge-f79c0bddbd17?source=rss----b73b8ccc7897---4)
   - [XSS with a little help from ASP.NET and Internet Explorer 9](https://mikeczumak.com/xss-with-a-little-help-from-asp-net-and-internet-explorer-9-1dfdc9d166b3?source=rss----b73b8ccc7897---4)
+- simonwillison.net
+  - [The memory shortage is causing a repricing of consumer electronics](https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=AF24E2C9-C4BC-5179-9E2E-AF21ECCFA255&utm_source=rss&utm_medium=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Strapi exploit](https://sploitus.com/exploit?id=5D9D0C87-A33C-5D49-A334-5304C1AF63BD&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Authentication in Cisco Catalyst_Sd-Wan_Manager exploit](https://sploitus.com/exploit?id=13DF22F3-E9C6-58EE-B458-EB585C4D715D&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Implementation of Authentication Algorithm in Google Android exploit](https://sploitus.com/exploit?id=5AA76C64-851E-53E7-B012-89CF34805B75&utm_source=rss&utm_medium=rss)
   - [Exploit for Origin Validation Error in Langflow exploit](https://sploitus.com/exploit?id=5AB85FC2-7A7B-5CF1-ABF2-AC44C5026986&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Beyondtrust Privileged_Remote_Access exploit](https://sploitus.com/exploit?id=C038D4F7-FA03-5561-B6EF-FCF830B00A6D&utm_source=rss&utm_medium=rss)
@@ -49,6 +56,7 @@
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Wordpress exploit](https://sploitus.com/exploit?id=8FE45B89-87C8-5E13-97D0-05804D436CF5&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers](https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/)
+  - [Blue Origin cleared to fly New Glenn mega-rocket after April mishap](https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/)
   - [Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/)
   - [How VCs and founders use inflated ‘ARR’ to crown AI startups](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/)
   - [Kash Patel’s clothing brand website shut down after reports it was hacked](https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/)
@@ -130,6 +138,19 @@
   - [CVE-2026-40864 JupyterHub: Cross-origin form POSTs bypass XSRF](https://vulners.com/cve/CVE-2026-40864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40864 JupyterHub: Cross-origin form POSTs bypass XSRF](https://vulners.com/cvelist/CVELIST:CVE-2026-40864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41069 libheif allows Out-of-bounds vector access leading to invalid dereference (DoS)](https://vulners.com/cvelist/CVELIST:CVE-2026-41069?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41073](https://vulners.com/attackerkb/AKB:709803E2-BA51-442B-AFE1-7CF5D7092DD8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41073 RT: Spreadsheet downloads vulnerable to CSV/formula injection in Microsoft Excel and similar apps](https://vulners.com/cve/CVE-2026-41073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41073 RT: Spreadsheet downloads vulnerable to CSV/formula injection in Microsoft Excel and similar apps](https://vulners.com/cvelist/CVELIST:CVE-2026-41073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41074](https://vulners.com/attackerkb/AKB:02C8DE09-84D1-4DEC-A603-447627232534?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41074 RT has broken CSRF protection for authenticated users](https://vulners.com/cve/CVE-2026-41074?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41074 RT has broken CSRF protection for authenticated users](https://vulners.com/cvelist/CVELIST:CVE-2026-41074?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41075](https://vulners.com/attackerkb/AKB:0E1BBEBB-D0B5-4E82-9083-1353223E6719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41075 RT: SQL injection via entry_aggregator parameter in JSON search](https://vulners.com/cve/CVE-2026-41075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41075 RT: SQL injection via entry_aggregator parameter in JSON search](https://vulners.com/cvelist/CVELIST:CVE-2026-41075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41076 RT: LDAP authentication bypass via empty password](https://vulners.com/cve/CVE-2026-41076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41076 RT: LDAP authentication bypass via empty password](https://vulners.com/cvelist/CVELIST:CVE-2026-41076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41147 NukeViet CMS: Stored Cross-Site Scripting (XSS) via insufficient server-side input sanitization in Request class](https://vulners.com/cve/CVE-2026-41147?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41147 NukeViet CMS: Stored Cross-Site Scripting (XSS) via insufficient server-side input sanitization in Request class](https://vulners.com/cvelist/CVELIST:CVE-2026-41147?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42154 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-42154?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42154 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-42154?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42304 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-42304?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -148,6 +169,7 @@
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/AF24E2C9-C4BC-5179-9E2E-AF21ECCFA255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-9082](https://vulners.com/githubexploit/1774D6F8-2B0F-5C66-A7AB-BE7B8E7A0B85?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Strapi](https://vulners.com/githubexploit/5D9D0C87-A33C-5D49-A334-5304C1AF63BD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Authentication in Cisco Catalyst_Sd-Wan_Manager](https://vulners.com/githubexploit/13DF22F3-E9C6-58EE-B458-EB585C4D715D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Implementation of Authentication Algorithm in Google Android](https://vulners.com/githubexploit/5AA76C64-851E-53E7-B012-89CF34805B75?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Origin Validation Error in Langflow](https://vulners.com/githubexploit/5AB85FC2-7A7B-5CF1-ABF2-AC44C5026986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for OS Command Injection in Beyondtrust Privileged_Remote_Access](https://vulners.com/githubexploit/C038D4F7-FA03-5561-B6EF-FCF830B00A6D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
