@@ -2,6 +2,8 @@
 
 - 2Libra
   - [打了几把王者给自己整破防了](https://2libra.com/post/game-discussion/pKxxvSz)
+- 404 Media
+  - [Here's the Bodycam Footage of the Cybertruck That Drove Into a Lake](https://www.404media.co/heres-the-bodycam-footage-of-the-cybertruck-that-drove-into-a-lake/)
 - Ars Technica
   - [Police boast of hacking VPN where criminals "believed themselves to be safe"](https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/)
   - [PSA: The Steam Controller’s magnetic charger can be a fire hazard](https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/)
@@ -12,6 +14,7 @@
   - [Stephen Colbert’s ‘The Late Show’ Finale](https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html?unlocked_article_code=1.kVA.GO3I.gVq9KeUrHEyM)
   - [The Ninth Circuit Appeal Ruling in ‘Epic v. Apple’ That Apple Is Seeking to Overturn at the Supreme Court (PDF)](https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf)
   - [Zero Sum Problems and Apple Sports](https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/)
+  - [★ The Fonts of the U.S. Federal Courts](https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts)
 - Fidelis Security
   - [What Makes Fidelis CSPM Enterprise-Ready for Modern Cloud Security?](https://fidelissecurity.com/threatgeek/cloud-security/enterprise-ready-cloud-security-posture-management/)
 - filfre.net
@@ -21,6 +24,7 @@
 - Hacker News Frontpage
   - [Anthropic's "Profitability" Swindle](https://www.wheresyoured.at/anthropics-profitability-swindle/)
   - [Microsoft Drops Claude Code After Budget Overrun](https://aiweekly.co/alerts/microsoft-drops-claude-code-after-budget-overrun)
+  - [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
   - [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
   - [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
   - [U.S. researchers face new restrictions on publishing with foreign collaborators](https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators)
@@ -38,9 +42,15 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=AF24E2C9-C4BC-5179-9E2E-AF21ECCFA255&utm_source=rss&utm_medium=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Strapi exploit](https://sploitus.com/exploit?id=5D9D0C87-A33C-5D49-A334-5304C1AF63BD&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Implementation of Authentication Algorithm in Google Android exploit](https://sploitus.com/exploit?id=5AA76C64-851E-53E7-B012-89CF34805B75&utm_source=rss&utm_medium=rss)
+  - [Exploit for Origin Validation Error in Langflow exploit](https://sploitus.com/exploit?id=5AB85FC2-7A7B-5CF1-ABF2-AC44C5026986&utm_source=rss&utm_medium=rss)
+  - [Exploit for OS Command Injection in Beyondtrust Privileged_Remote_Access exploit](https://sploitus.com/exploit?id=C038D4F7-FA03-5561-B6EF-FCF830B00A6D&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Write in Paloaltonetworks Pan-Os exploit](https://sploitus.com/exploit?id=35444CDA-A063-54CD-9D1C-589CEAFB8FE0&utm_source=rss&utm_medium=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Wordpress exploit](https://sploitus.com/exploit?id=8FE45B89-87C8-5E13-97D0-05804D436CF5&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers](https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/)
+  - [Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/)
+  - [How VCs and founders use inflated ‘ARR’ to crown AI startups](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/)
   - [Kash Patel’s clothing brand website shut down after reports it was hacked](https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/)
   - [Spotify’s AI bet: more of everything, less of what you want](https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/)
   - [You can no longer Google the word ‘disregard’](https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/)
@@ -94,6 +104,7 @@
   - [CVE-2026-28735 GitHub OAuth Scope Validation](https://vulners.com/cvelist/CVELIST:CVE-2026-28735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32253 Sunshine: Authentication bypass via improper client certificate validation](https://vulners.com/cve/CVE-2026-32253?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32253 Sunshine: Authentication bypass via improper client certificate validation](https://vulners.com/cvelist/CVELIST:CVE-2026-32253?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-3294 Authentication Logic Vulnerability on Multiple TP-Link Range Extenders](https://vulners.com/cvelist/CVELIST:CVE-2026-3294?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-34207 TypeBot: SSRF Protection Bypass via DNS-Resolved Hostnames in Webhook / HTTP Request Validation](https://vulners.com/cve/CVE-2026-34207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-34207 TypeBot: SSRF Protection Bypass via DNS-Resolved Hostnames in Webhook / HTTP Request Validation](https://vulners.com/cvelist/CVELIST:CVE-2026-34207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39824 Invoking  integer overflow in NewNTUnicodeString in golang.org/x/sys/windows](https://vulners.com/cve/CVE-2026-39824?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -116,6 +127,9 @@
   - [CVE-2026-40607 MantisBT is Vulnerable to Stored XSS Through its Saved-Filter Owner Column](https://vulners.com/cvelist/CVELIST:CVE-2026-40607?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40610 BentoML has Information Disclosure in `bentoml build` via symlink traversal in the build context](https://vulners.com/cve/CVE-2026-40610?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40610 BentoML has Information Disclosure in `bentoml build` via symlink traversal in the build context](https://vulners.com/cvelist/CVELIST:CVE-2026-40610?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40864 JupyterHub: Cross-origin form POSTs bypass XSRF](https://vulners.com/cve/CVE-2026-40864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40864 JupyterHub: Cross-origin form POSTs bypass XSRF](https://vulners.com/cvelist/CVELIST:CVE-2026-40864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41069 libheif allows Out-of-bounds vector access leading to invalid dereference (DoS)](https://vulners.com/cvelist/CVELIST:CVE-2026-41069?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42154 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-42154?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42154 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-42154?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42304 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-42304?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -130,9 +144,14 @@
   - [CVE-2026-5843 Docker Model Runner container-to-host code execution via MLX-LM model_file importlib loading](https://vulners.com/cvelist/CVELIST:CVE-2026-5843?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9291 Insecure Deserialization in Amazon Braket SDK Job Results Processing](https://vulners.com/cve/CVE-2026-9291?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9291 Insecure Deserialization in Amazon Braket SDK Job Results Processing](https://vulners.com/cvelist/CVELIST:CVE-2026-9291?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Command Injection in Github Enterprise_Server](https://vulners.com/githubexploit/31B6B424-D597-5017-BF9C-F0E237987A5B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/AF24E2C9-C4BC-5179-9E2E-AF21ECCFA255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-9082](https://vulners.com/githubexploit/1774D6F8-2B0F-5C66-A7AB-BE7B8E7A0B85?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Strapi](https://vulners.com/githubexploit/5D9D0C87-A33C-5D49-A334-5304C1AF63BD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Implementation of Authentication Algorithm in Google Android](https://vulners.com/githubexploit/5AA76C64-851E-53E7-B012-89CF34805B75?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Origin Validation Error in Langflow](https://vulners.com/githubexploit/5AB85FC2-7A7B-5CF1-ABF2-AC44C5026986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for OS Command Injection in Beyondtrust Privileged_Remote_Access](https://vulners.com/githubexploit/C038D4F7-FA03-5561-B6EF-FCF830B00A6D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Out-of-bounds Write in Paloaltonetworks Pan-Os](https://vulners.com/githubexploit/35444CDA-A063-54CD-9D1C-589CEAFB8FE0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Wordpress](https://vulners.com/githubexploit/8FE45B89-87C8-5E13-97D0-05804D436CF5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Untrusted Pointer Dereference in Microsoft](https://vulners.com/githubexploit/6FF86B95-3B7F-52AA-B6C9-4C223CBCCB9D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://vulners.com/thn/THN:26F570E58EDE95FBA61CB603FE1EB1BB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
