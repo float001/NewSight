@@ -2,6 +2,7 @@
 
 - 2Libra
   - [《年少有为》这部电视剧，猜一下你们的老板看了有什么感想？](https://2libra.com/post/workplace-stories/TboF4xO)
+  - [【兑换码】玩一玩：对中奖者进行 800 金币的打赏，额外再进行 188 的金币红包](https://2libra.com/post/forum-function/bYTzFX7)
   - [【本周结束】完美的加班夜宵](https://2libra.com/post/personal-life/dWSF-vP)
   - [【💰】幸运儿徽章 get](https://2libra.com/post/forum-function/57lyvIL)
   - [仿生人会梦到电子羊吗？——给大家看看我的 QClaw 都梦到了什么](https://2libra.com/post/ai-tools/6PRKy1i)
@@ -9,10 +10,12 @@
   - [分析性格、情绪、情商和职业的关系](https://2libra.com/post/mental-health/kFQAqdg)
   - [嗯？终于拿到第一个徽章了！卡皮巴拉！！！](https://2libra.com/post/forum-function/GpmGWK2)
   - [打了几把王者给自己整破防了](https://2libra.com/post/game-discussion/pKxxvSz)
+  - [早上星舰 v3 飞行截图，快找找你在哪](https://2libra.com/post/tech-news/b_GndWp)
   - [昨天竞拍的优化已落实了](https://2libra.com/post/update-logs/czHJ0Y3)
   - [终于遇到正品 gpt5.5 防伪标识了](https://2libra.com/post/ai-tools/TMFQ2T8)
   - [软考成功捐款 200](https://2libra.com/post/workplace-stories/mZEAqil)
 - 36氪
+  - [2026全国电影总票房破150亿](https://36kr.com/newsflashes/3821384007143553?f=rss)
   - [36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资](https://36kr.com/p/3821371042877575?f=rss)
   - [9点1氪丨永辉超市向王健林等追债超36亿元；《柳叶刀》：全球近12亿人有精神障碍；微信回应“只能撤回2分钟内消息”](https://36kr.com/p/3821177784881541?f=rss)
   - [Anthropic最快下周完成逾300亿美元融资轮](https://36kr.com/newsflashes/3821194878947715?f=rss)
@@ -22,7 +25,10 @@
   - [供需格局持续重构，铝价后市上行可期](https://36kr.com/newsflashes/3821223420580228?f=rss)
   - [千禧年流行的老式漂亮饭，居然翻红了](https://36kr.com/p/3821213026570627?f=rss)
   - [商务部：1-4月全国吸收外资2876.9亿元人民币](https://36kr.com/newsflashes/3821372272660615?f=rss)
+  - [圆桌对话：AI浓度与转化率：数字体验的实战增长法则](https://36kr.com/p/3821519307591811?f=rss)
   - [富途：已回购约1.6亿美元美国存托股份](https://36kr.com/newsflashes/3821372698661251?f=rss)
+  - [对话王小川：离开通用人工智能的主干道之后](https://36kr.com/p/3821521291038856?f=rss)
+  - [康斯特回应是否与SpaceX扩大合作，称单一用户影响有限](https://36kr.com/newsflashes/3821498732302723?f=rss)
   - [微软支付2.5亿美元了结动视暴雪股东诉讼](https://36kr.com/newsflashes/3821197911675268?f=rss)
   - [护航政府债券发行，MLF操作重回净投放](https://36kr.com/newsflashes/3821222287069568?f=rss)
   - [新任首席执行官上任，沃尔玛高层人事调整多名高管离职](https://36kr.com/newsflashes/3821208144744835?f=rss)
@@ -57,6 +63,8 @@
   - [The Ninth Circuit Appeal Ruling in ‘Epic v. Apple’ That Apple Is Seeking to Overturn at the Supreme Court (PDF)](https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf)
   - [Zero Sum Problems and Apple Sports](https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/)
   - [★ The Fonts of the U.S. Federal Courts](https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts)
+- defend.network
+  - [GitHub supply-chain attack, Drupal RCE, AWS GovCloud credential leak](https://defend.network/briefings/github-drupal-aws-credentials-active-exploits-2026-05-23.html)
 - Der Flounder
   - [Reporting on Jamf Pro API clients and assigned API roles](https://derflounder.wordpress.com/2026/05/22/13403/)
 - Fidelis Security
@@ -94,9 +102,11 @@
   - [The memory shortage is causing a repricing of consumer electronics](https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [cve-researcher exploit](https://sploitus.com/exploit?id=1371A338-7DF8-534F-B254-F22A16F0A2D0&utm_source=rss&utm_medium=rss)
+  - [Exploit for Allocation of Resources Without Limits or Throttling in Openwebui Open_Webui exploit](https://sploitus.com/exploit?id=9065A75B-1453-5558-A3D3-67341E3FACF0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-46822 exploit](https://sploitus.com/exploit?id=AA8247AE-F38F-566A-8205-BC645E3F33C5&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-23813 exploit](https://sploitus.com/exploit?id=5138E609-7524-5859-A85E-CCDAA5FA5027&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=AF24E2C9-C4BC-5179-9E2E-AF21ECCFA255&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-6279 exploit](https://sploitus.com/exploit?id=50587955-5592-5287-A03D-6AB5FB6A1C8E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-6960 exploit](https://sploitus.com/exploit?id=F76E2DDB-D056-5DC1-A339-48C68FAA568B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-9018 exploit](https://sploitus.com/exploit?id=BC1D8C43-7174-5774-8282-A8C6F19DE6FC&utm_source=rss&utm_medium=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Strapi exploit](https://sploitus.com/exploit?id=5D9D0C87-A33C-5D49-A334-5304C1AF63BD&utm_source=rss&utm_medium=rss)
@@ -117,6 +127,7 @@
   - [Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/)
   - [How VCs and founders use inflated ‘ARR’ to crown AI startups](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/)
   - [Kash Patel’s clothing brand website shut down after reports it was hacked](https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/)
+  - [Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say](https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/)
   - [SpaceX launches Starship V3 for the first time, but loses booster on return](https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/)
   - [Spotify’s AI bet: more of everything, less of what you want](https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/)
   - [You can no longer Google the word ‘disregard’](https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/)
@@ -300,10 +311,12 @@
   - [CVE-2026-9291 Insecure Deserialization in Amazon Braket SDK Job Results Processing](https://vulners.com/cvelist/CVELIST:CVE-2026-9291?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cve-researcher](https://vulners.com/githubexploit/1371A338-7DF8-534F-B254-F22A16F0A2D0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVEsWorpriss](https://vulners.com/githubexploit/2E876FE2-B291-5CDC-92EC-3D659A16625D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Allocation of Resources Without Limits or Throttling in Openwebui Open_Webui](https://vulners.com/githubexploit/9065A75B-1453-5558-A3D3-67341E3FACF0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Command Injection in Github Enterprise_Server](https://vulners.com/githubexploit/31B6B424-D597-5017-BF9C-F0E237987A5B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-46822](https://vulners.com/githubexploit/AA8247AE-F38F-566A-8205-BC645E3F33C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-23813](https://vulners.com/githubexploit/5138E609-7524-5859-A85E-CCDAA5FA5027?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/AF24E2C9-C4BC-5179-9E2E-AF21ECCFA255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-6279](https://vulners.com/githubexploit/50587955-5592-5287-A03D-6AB5FB6A1C8E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-6960](https://vulners.com/githubexploit/F76E2DDB-D056-5DC1-A339-48C68FAA568B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-9018](https://vulners.com/githubexploit/BC1D8C43-7174-5774-8282-A8C6F19DE6FC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-9082](https://vulners.com/githubexploit/1774D6F8-2B0F-5C66-A7AB-BE7B8E7A0B85?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -351,6 +364,8 @@
 - wheresyoured.at
   - [Premium: What If...We're In An AI Bubble? (Part 2)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-2/)
 - Wired
+  - [All Vehicles Sold in the EU Must Be Able to Hook Up to a Breathalyzer](https://www.wired.com/story/all-vehicles-sold-in-the-eu-must-have-breathalyzer-hook-up/)
+  - [Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)](https://www.wired.com/story/memorial-day-mattress-deals-2026-1/)
   - [Hoka Coupon Codes: 30% Off | May 2026](https://www.wired.com/story/hoka-coupon-code/)
   - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
   - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)
