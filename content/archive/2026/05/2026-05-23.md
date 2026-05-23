@@ -4,10 +4,12 @@
   - [【本周结束】完美的加班夜宵](https://2libra.com/post/personal-life/dWSF-vP)
   - [【💰】幸运儿徽章 get](https://2libra.com/post/forum-function/57lyvIL)
   - [仿生人会梦到电子羊吗？——给大家看看我的 QClaw 都梦到了什么](https://2libra.com/post/ai-tools/6PRKy1i)
+  - [做了一个新的代办事项 APP--桌面端，快捷键打开，极简风格；有没有人感兴趣啊](https://2libra.com/post/personal-works/EtxQwVC)
   - [分析性格、情绪、情商和职业的关系](https://2libra.com/post/mental-health/kFQAqdg)
   - [嗯？终于拿到第一个徽章了！卡皮巴拉！！！](https://2libra.com/post/forum-function/GpmGWK2)
   - [打了几把王者给自己整破防了](https://2libra.com/post/game-discussion/pKxxvSz)
   - [昨天竞拍的优化已落实了](https://2libra.com/post/update-logs/czHJ0Y3)
+  - [软考成功捐款 200](https://2libra.com/post/workplace-stories/mZEAqil)
 - 36氪
   - [9点1氪丨永辉超市向王健林等追债超36亿元；《柳叶刀》：全球近12亿人有精神障碍；微信回应“只能撤回2分钟内消息”](https://36kr.com/p/3821177784881541?f=rss)
   - [Anthropic最快下周完成逾300亿美元融资轮](https://36kr.com/newsflashes/3821194878947715?f=rss)
@@ -15,11 +17,14 @@
   - [传京东考虑20亿英镑竞购英国电商平台The Very Group](https://36kr.com/newsflashes/3821218974879878?f=rss)
   - [千禧年流行的老式漂亮饭，居然翻红了](https://36kr.com/p/3821213026570627?f=rss)
   - [微软支付2.5亿美元了结动视暴雪股东诉讼](https://36kr.com/newsflashes/3821197911675268?f=rss)
+  - [护航政府债券发行，MLF操作重回净投放](https://36kr.com/newsflashes/3821222287069568?f=rss)
   - [新任首席执行官上任，沃尔玛高层人事调整多名高管离职](https://36kr.com/newsflashes/3821208144744835?f=rss)
+  - [星巴克叫停AI库存自动盘点工具：上线9个月，错误频出](https://36kr.com/newsflashes/3821221746266498?f=rss)
   - [普祥健康递表港交所](https://36kr.com/newsflashes/3821196551016835?f=rss)
   - [本周机构调研热情不减，超三成机构调研股实现正收益](https://36kr.com/newsflashes/3821209183522952?f=rss)
   - [沃什宣誓就职，强调美联储将“以改革为导向”](https://36kr.com/newsflashes/3821195485352072?f=rss)
   - [用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目](https://36kr.com/p/3819979202253189?f=rss)
+  - [短期态度转冷，国际投行下调黄金目标价](https://36kr.com/newsflashes/3821220090646657?f=rss)
   - [美“星舰”实施第12次试飞](https://36kr.com/newsflashes/3821193075954054?f=rss)
   - [美股三大指数集体收涨，蔚来跌超7%](https://36kr.com/newsflashes/3821168952004741?f=rss)
   - [融泰药业递表港交所](https://36kr.com/newsflashes/3821196295295111?f=rss)
@@ -57,6 +62,8 @@
 - idiallo.com
   - [How to Talk to Your Coworkers](https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed)
   - [The commencement speech that shook the world](https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed)
+- johndcook.com
+  - [Building complex functions out of real parts](https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/)
 - krebsonsecurity.com
   - [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
 - Malware-Traffic-Analysis.net - Blog Entries
@@ -71,6 +78,8 @@
   - [The memory shortage is causing a repricing of consumer electronics](https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [cve-researcher exploit](https://sploitus.com/exploit?id=1371A338-7DF8-534F-B254-F22A16F0A2D0&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-46822 exploit](https://sploitus.com/exploit?id=AA8247AE-F38F-566A-8205-BC645E3F33C5&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-23813 exploit](https://sploitus.com/exploit?id=5138E609-7524-5859-A85E-CCDAA5FA5027&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=AF24E2C9-C4BC-5179-9E2E-AF21ECCFA255&utm_source=rss&utm_medium=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Strapi exploit](https://sploitus.com/exploit?id=5D9D0C87-A33C-5D49-A334-5304C1AF63BD&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Cisco Catalyst_Sd-Wan_Manager exploit](https://sploitus.com/exploit?id=13DF22F3-E9C6-58EE-B458-EB585C4D715D&utm_source=rss&utm_medium=rss)
@@ -222,6 +231,8 @@
   - [cve-researcher](https://vulners.com/githubexploit/1371A338-7DF8-534F-B254-F22A16F0A2D0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVEsWorpriss](https://vulners.com/githubexploit/2E876FE2-B291-5CDC-92EC-3D659A16625D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Command Injection in Github Enterprise_Server](https://vulners.com/githubexploit/31B6B424-D597-5017-BF9C-F0E237987A5B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2025-46822](https://vulners.com/githubexploit/AA8247AE-F38F-566A-8205-BC645E3F33C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-23813](https://vulners.com/githubexploit/5138E609-7524-5859-A85E-CCDAA5FA5027?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/AF24E2C9-C4BC-5179-9E2E-AF21ECCFA255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-9082](https://vulners.com/githubexploit/1774D6F8-2B0F-5C66-A7AB-BE7B8E7A0B85?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Strapi](https://vulners.com/githubexploit/5D9D0C87-A33C-5D49-A334-5304C1AF63BD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -271,6 +282,8 @@
   - [Memorial Day 2026 Grill and Griddle Deals: Weber, Traeger, Recteq](https://www.wired.com/story/memorial-day-grill-griddle-deals-2026/)
   - [Memorial Day Tech Deals: Sony, Apple, Beats (2026)](https://www.wired.com/story/memorial-day-tech-deals-2026-1/)
   - [Shein Buying Everlane Actually Makes Perfect Sense](https://www.wired.com/story/made-in-china-why-shein-bought-everlane/)
+- 不安全
+  - [深度求索宣布将DeepSeek V4 Pro永久降价到原价的1/4 也就是优惠价变正价](https://buaq.net/go-418432.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
