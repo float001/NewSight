@@ -9,7 +9,11 @@
 - simonwillison.net
   - [On the <dl>](https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-0926 exploit](https://sploitus.com/exploit?id=1B9C6622-D743-5371-8395-89787C259520&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-0926 exploit](https://sploitus.com/exploit?id=4960F0C9-A5BA-546D-A6E1-E813744AE2A3&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Apple Ipados exploit](https://sploitus.com/exploit?id=19E5C0C2-0ADB-5CE5-9AD5-4D4B19A95247&utm_source=rss&utm_medium=rss)
+  - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow exploit](https://sploitus.com/exploit?id=559C6DAA-CC86-5B56-B4A7-F65B8E5780C0&utm_source=rss&utm_medium=rss)
+  - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow exploit](https://sploitus.com/exploit?id=AC1F8429-BAD6-5D3D-8AF3-41CCD89A601E&utm_source=rss&utm_medium=rss)
   - [exploits exploit](https://sploitus.com/exploit?id=62399653-938A-5715-9E77-8D49CBEE3BE4&utm_source=rss&utm_medium=rss)
   - [icg-hackathon-api-server-exploits exploit](https://sploitus.com/exploit?id=1C338252-B789-52CF-ABBA-5B6CAD16EFB0&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -56,8 +60,12 @@
   - [CVE-2018-25357 Dolibarr ERP CRM 7.0.3 Remote Code Evaluation via install/step1.php](https://vulners.com/cvelist/CVELIST:CVE-2018-25357?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2018-25358 D-Link DIR601 2.02NA Credential Disclosure via my_cgi.cgi](https://vulners.com/cve/CVE-2018-25358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2018-25358 D-Link DIR601 2.02NA Credential Disclosure via my_cgi.cgi](https://vulners.com/cvelist/CVELIST:CVE-2018-25358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-0926](https://vulners.com/githubexploit/1B9C6622-D743-5371-8395-89787C259520?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-0926](https://vulners.com/githubexploit/4960F0C9-A5BA-546D-A6E1-E813744AE2A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-4885](https://vulners.com/githubexploit/4E8D6B62-3ADF-5D83-889E-739A0E3DD7CC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Apple Ipados](https://vulners.com/githubexploit/19E5C0C2-0ADB-5CE5-9AD5-4D4B19A95247?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow](https://vulners.com/githubexploit/559C6DAA-CC86-5B56-B4A7-F65B8E5780C0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow](https://vulners.com/githubexploit/AC1F8429-BAD6-5D3D-8AF3-41CCD89A601E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [exploits](https://vulners.com/githubexploit/62399653-938A-5715-9E77-8D49CBEE3BE4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [icg-hackathon-api-server-exploits](https://vulners.com/githubexploit/1C338252-B789-52CF-ABBA-5B6CAD16EFB0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://vulners.com/thn/THN:1F5DB06F0A1CBAE3C17369D47934772C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
