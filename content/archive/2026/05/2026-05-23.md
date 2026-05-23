@@ -51,10 +51,13 @@
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Strapi exploit](https://sploitus.com/exploit?id=5D9D0C87-A33C-5D49-A334-5304C1AF63BD&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Cisco Catalyst_Sd-Wan_Manager exploit](https://sploitus.com/exploit?id=13DF22F3-E9C6-58EE-B458-EB585C4D715D&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Implementation of Authentication Algorithm in Google Android exploit](https://sploitus.com/exploit?id=5AA76C64-851E-53E7-B012-89CF34805B75&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=D4F4E293-4781-541E-8A7B-7AC546177A0D&utm_source=rss&utm_medium=rss)
   - [Exploit for Origin Validation Error in Langflow exploit](https://sploitus.com/exploit?id=5AB85FC2-7A7B-5CF1-ABF2-AC44C5026986&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Beyondtrust Privileged_Remote_Access exploit](https://sploitus.com/exploit?id=C038D4F7-FA03-5561-B6EF-FCF830B00A6D&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Paloaltonetworks Pan-Os exploit](https://sploitus.com/exploit?id=35444CDA-A063-54CD-9D1C-589CEAFB8FE0&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Litellm exploit](https://sploitus.com/exploit?id=83147CB4-EDC3-57ED-85A7-4EF3893454E3&utm_source=rss&utm_medium=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Wordpress exploit](https://sploitus.com/exploit?id=8FE45B89-87C8-5E13-97D0-05804D436CF5&utm_source=rss&utm_medium=rss)
+  - [web-app-security-lab exploit](https://sploitus.com/exploit?id=4383F0C7-EBE8-5B56-BF36-62B145F70D77&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/)
   - [Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers](https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/)
@@ -177,9 +180,11 @@
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Strapi](https://vulners.com/githubexploit/5D9D0C87-A33C-5D49-A334-5304C1AF63BD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Authentication in Cisco Catalyst_Sd-Wan_Manager](https://vulners.com/githubexploit/13DF22F3-E9C6-58EE-B458-EB585C4D715D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Implementation of Authentication Algorithm in Google Android](https://vulners.com/githubexploit/5AA76C64-851E-53E7-B012-89CF34805B75?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/D4F4E293-4781-541E-8A7B-7AC546177A0D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Origin Validation Error in Langflow](https://vulners.com/githubexploit/5AB85FC2-7A7B-5CF1-ABF2-AC44C5026986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for OS Command Injection in Beyondtrust Privileged_Remote_Access](https://vulners.com/githubexploit/C038D4F7-FA03-5561-B6EF-FCF830B00A6D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Out-of-bounds Write in Paloaltonetworks Pan-Os](https://vulners.com/githubexploit/35444CDA-A063-54CD-9D1C-589CEAFB8FE0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for SQL Injection in Litellm](https://vulners.com/githubexploit/83147CB4-EDC3-57ED-85A7-4EF3893454E3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Wordpress](https://vulners.com/githubexploit/8FE45B89-87C8-5E13-97D0-05804D436CF5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Untrusted Pointer Dereference in Microsoft](https://vulners.com/githubexploit/6FF86B95-3B7F-52AA-B6C9-4C223CBCCB9D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://vulners.com/thn/THN:26F570E58EDE95FBA61CB603FE1EB1BB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -193,6 +198,7 @@
   - [GHSA-JXXR-4GWJ-5JF2 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-JXXR-4GWJ-5JF2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-XH8F-G2QW-GCM7 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-XH8F-G2QW-GCM7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Multiple vulnerabilities in Aspera applications.](https://vulners.com/ibm/25BE73DAC80E972021DD5568C691605A850401664C820BA40BCBCF9DAF6D6FCE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [web-app-security-lab](https://vulners.com/githubexploit/4383F0C7-EBE8-5B56-BF36-62B145F70D77?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: What If...We're In An AI Bubble? (Part 2)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-2/)
 - Wired
@@ -201,3 +207,5 @@
   - [Shein Buying Everlane Actually Makes Perfect Sense](https://www.wired.com/story/made-in-china-why-shein-bought-everlane/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [搜索“Disregard”等会导致谷歌搜索崩溃](https://blog.upx8.com/%E6%90%9C%E7%B4%A2-Disregard-%E7%AD%89%E4%BC%9A%E5%AF%BC%E8%87%B4%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E5%B4%A9%E6%BA%83)
