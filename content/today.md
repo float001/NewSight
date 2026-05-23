@@ -6,7 +6,10 @@
   - [How to Automate Android While Big Tech Kills the Web Dream](https://hackernoon.com/how-to-automate-android-while-big-tech-kills-the-web-dream?source=rss)
 - righto.com
   - [Reverse engineering circuitry in a Spacelab computer from 1980](http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
+- simonwillison.net
+  - [On the <dl>](https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Apple Ipados exploit](https://sploitus.com/exploit?id=19E5C0C2-0ADB-5CE5-9AD5-4D4B19A95247&utm_source=rss&utm_medium=rss)
   - [exploits exploit](https://sploitus.com/exploit?id=62399653-938A-5715-9E77-8D49CBEE3BE4&utm_source=rss&utm_medium=rss)
   - [icg-hackathon-api-server-exploits exploit](https://sploitus.com/exploit?id=1C338252-B789-52CF-ABBA-5B6CAD16EFB0&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -54,6 +57,7 @@
   - [CVE-2018-25358 D-Link DIR601 2.02NA Credential Disclosure via my_cgi.cgi](https://vulners.com/cve/CVE-2018-25358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2018-25358 D-Link DIR601 2.02NA Credential Disclosure via my_cgi.cgi](https://vulners.com/cvelist/CVELIST:CVE-2018-25358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-4885](https://vulners.com/githubexploit/4E8D6B62-3ADF-5D83-889E-739A0E3DD7CC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Apple Ipados](https://vulners.com/githubexploit/19E5C0C2-0ADB-5CE5-9AD5-4D4B19A95247?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [exploits](https://vulners.com/githubexploit/62399653-938A-5715-9E77-8D49CBEE3BE4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [icg-hackathon-api-server-exploits](https://vulners.com/githubexploit/1C338252-B789-52CF-ABBA-5B6CAD16EFB0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://vulners.com/thn/THN:1F5DB06F0A1CBAE3C17369D47934772C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
