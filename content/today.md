@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-05-23）
 
 - 2Libra
+  - [Tibo 还不重置吗，我已经燃尽了](https://2libra.com/post/ai-tools/U8qZuIE)
   - [《年少有为》这部电视剧，猜一下你们的老板看了有什么感想？](https://2libra.com/post/workplace-stories/TboF4xO)
   - [【兑换码】玩一玩：对中奖者进行 800 金币的打赏，额外再进行 188 的金币红包](https://2libra.com/post/forum-function/bYTzFX7)
   - [【本周结束】完美的加班夜宵](https://2libra.com/post/personal-life/dWSF-vP)
@@ -66,6 +67,8 @@
   - [Review: The Mandalorian and Grogu is ... fine](https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/)
   - [Soaring solar and a surge in hydro push more coal off the US grid](https://arstechnica.com/science/2026/05/soaring-solar-and-a-surge-in-hydro-push-more-coal-off-the-us-grid/)
   - [Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption](https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/)
+- Articles | InfoStealers
+  - [Infostealers Just Spawned a 5,000+ Repo GitHub Supply Chain Attack](https://www.infostealers.com/article/infostealers-just-spawned-a-5000-repo-github-supply-chain-attack/)
 - berthub.eu
   - [Some notes on how we ended up with Palantir & how to replace it](https://berthub.eu/articles/posts/some-notes-on-palantir/)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -375,6 +378,8 @@
   - [CVE-2026-9298 omec-project amf PathSwitchRequest memory corruption](https://vulners.com/cve/CVE-2026-9298?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9298 omec-project amf PathSwitchRequest memory corruption](https://vulners.com/cvelist/CVELIST:CVE-2026-9298?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9300 omec-project amf NGSetupRequest memory corruption](https://vulners.com/cvelist/CVELIST:CVE-2026-9300?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9302 546669204 vps-inventory-monitoring VpsTest Console VpsTest.php eval code injection](https://vulners.com/cve/CVE-2026-9302?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9302 546669204 vps-inventory-monitoring VpsTest Console VpsTest.php eval code injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9302?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cve-researcher](https://vulners.com/githubexploit/1371A338-7DF8-534F-B254-F22A16F0A2D0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVEsWorpriss](https://vulners.com/githubexploit/2E876FE2-B291-5CDC-92EC-3D659A16625D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://vulners.com/thn/THN:090748905BCD2E05CB2679EBE28F1EAD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -395,6 +400,7 @@
   - [Exploit for Origin Validation Error in Langflow](https://vulners.com/githubexploit/5AB85FC2-7A7B-5CF1-ABF2-AC44C5026986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for OS Command Injection in Beyondtrust Privileged_Remote_Access](https://vulners.com/githubexploit/C038D4F7-FA03-5561-B6EF-FCF830B00A6D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Out-of-bounds Write in Paloaltonetworks Pan-Os](https://vulners.com/githubexploit/35444CDA-A063-54CD-9D1C-589CEAFB8FE0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Path Traversal in Fortinet Fortiproxy](https://vulners.com/githubexploit/1BD01929-4022-5FDD-91DB-F38A3D59355B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Litellm](https://vulners.com/githubexploit/83147CB4-EDC3-57ED-85A7-4EF3893454E3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Wordpress](https://vulners.com/githubexploit/8FE45B89-87C8-5E13-97D0-05804D436CF5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Untrusted Pointer Dereference in Microsoft](https://vulners.com/githubexploit/6FF86B95-3B7F-52AA-B6C9-4C223CBCCB9D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -454,6 +460,7 @@
   - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
   - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)
   - [Memorial Day 2026 Grill and Griddle Deals: Weber, Traeger, Recteq](https://www.wired.com/story/memorial-day-grill-griddle-deals-2026/)
+  - [Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale](https://www.wired.com/story/dyson-vacuum-deals-memorial-day-2026/)
   - [Memorial Day Tech Deals: Sony, Apple, Beats (2026)](https://www.wired.com/story/memorial-day-tech-deals-2026-1/)
   - [Newegg Promo Code: 10% Off in May 2026](https://www.wired.com/story/newegg-promo-code/)
   - [Quantum ‘Jamming’ Could Help Unlock the Mysteries of Causality](https://www.wired.com/story/quantum-jamming-could-help-unlock-the-mysteries-of-causality/)
