@@ -4,6 +4,7 @@
   - [《年少有为》这部电视剧，猜一下你们的老板看了有什么感想？](https://2libra.com/post/workplace-stories/TboF4xO)
   - [【兑换码】玩一玩：对中奖者进行 800 金币的打赏，额外再进行 188 的金币红包](https://2libra.com/post/forum-function/bYTzFX7)
   - [【本周结束】完美的加班夜宵](https://2libra.com/post/personal-life/dWSF-vP)
+  - [【💰】和其他人拼的家宽没办法用 gemini](https://2libra.com/post/networking/UbAme9v)
   - [【💰】幸运儿徽章 get](https://2libra.com/post/forum-function/57lyvIL)
   - [仿生人会梦到电子羊吗？——给大家看看我的 QClaw 都梦到了什么](https://2libra.com/post/ai-tools/6PRKy1i)
   - [做了一个新的代办事项 APP--桌面端，快捷键打开，极简风格；有没有人感兴趣啊](https://2libra.com/post/personal-works/EtxQwVC)
@@ -41,12 +42,15 @@
   - [普祥健康递表港交所](https://36kr.com/newsflashes/3821196551016835?f=rss)
   - [本周机构调研热情不减，超三成机构调研股实现正收益](https://36kr.com/newsflashes/3821209183522952?f=rss)
   - [沃什宣誓就职，强调美联储将“以改革为导向”](https://36kr.com/newsflashes/3821195485352072?f=rss)
+  - [海关总署：对铁路、公路运输方式进口煤炭检验实施采信管理](https://36kr.com/newsflashes/3821606834573442?f=rss)
   - [用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目](https://36kr.com/p/3819979202253189?f=rss)
+  - [电影《给阿嬷的情书》总票房破9亿](https://36kr.com/newsflashes/3821605591732353?f=rss)
   - [短期态度转冷，国际投行下调黄金目标价](https://36kr.com/newsflashes/3821220090646657?f=rss)
   - [美“星舰”实施第12次试飞](https://36kr.com/newsflashes/3821193075954054?f=rss)
   - [美国消费者信心指数跌至历史新低](https://36kr.com/newsflashes/3821373400797577?f=rss)
   - [美国调整移民政策，申请绿卡须返回本国递交申请](https://36kr.com/newsflashes/3821375742005381?f=rss)
   - [美股三大指数集体收涨，蔚来跌超7%](https://36kr.com/newsflashes/3821168952004741?f=rss)
+  - [老虎国际：未有“拒不配合监管”等言论，2023年起已全停内地开户营销](https://36kr.com/newsflashes/3821606327111813?f=rss)
   - [融泰药业递表港交所](https://36kr.com/newsflashes/3821196295295111?f=rss)
   - [香港国际机场二号客运大楼将启用，15家航空公司分批进驻](https://36kr.com/newsflashes/3821376542216580?f=rss)
 - 404 Media
@@ -57,6 +61,8 @@
   - [Review: The Mandalorian and Grogu is ... fine](https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/)
   - [Soaring solar and a surge in hydro push more coal off the US grid](https://arstechnica.com/science/2026/05/soaring-solar-and-a-surge-in-hydro-push-more-coal-off-the-us-grid/)
   - [Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption](https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/)
+- berthub.eu
+  - [Some notes on how we ended up with Palantir & how to replace it](https://berthub.eu/articles/posts/some-notes-on-palantir/)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Frigate NVR 0.16.3 Remote Code Execution](https://cxsecurity.com/issue/WLB-2026050020)
   - [Linux Kernel Local Privilege Escalation (CVE-2026-43284 / CVE-2026-43500 / CVE-2026-46300)](https://cxsecurity.com/issue/WLB-2026050017)
@@ -92,6 +98,17 @@
 - idiallo.com
   - [How to Talk to Your Coworkers](https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed)
   - [The commencement speech that shook the world](https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed)
+- InfoSec Write-ups - Medium
+  - [A Simple Session Management Bug Every Beginner Bug Hunter Should Test.](https://infosecwriteups.com/a-simple-session-management-bug-every-beginner-bug-hunter-should-test-72d346e4deee?source=rss----7b722bfd1b8d---4)
+  - [Auth Mastery Part 1: Credential Types curl Handles](https://infosecwriteups.com/auth-mastery-part-1-credential-types-curl-handles-7b10a5b810d2?source=rss----7b722bfd1b8d---4)
+  - [Dev Diaries TryHackMe Walkthrough](https://infosecwriteups.com/dev-diaries-tryhackme-walkthrough-5aa1866de9bf?source=rss----7b722bfd1b8d---4)
+  - [Finding & Exploiting Exposed Google API Keys for Bug $Bounties](https://infosecwriteups.com/finding-exploiting-exposed-google-api-keys-for-bug-bounties-5ce6685a4927?source=rss----7b722bfd1b8d---4)
+  - [How Hackers Are Manipulating AI Using Prompt Injection](https://infosecwriteups.com/how-hackers-are-manipulating-ai-using-prompt-injection-7b58e792a88f?source=rss----7b722bfd1b8d---4)
+  - [Ninja Skills — TryHackMe Walkthrough](https://infosecwriteups.com/ninja-skills-tryhackme-walkthrough-cbab5b2dfcb2?source=rss----7b722bfd1b8d---4)
+  - [Poster TryHackMe Walkthrough | PostgreSQL Exploitation & Privilege Escalation](https://infosecwriteups.com/poster-tryhackme-walkthrough-postgresql-exploitation-privilege-escalation-1e89381212c9?source=rss----7b722bfd1b8d---4)
+  - [Recon Isn’t Just Technical — It’s Psychological](https://infosecwriteups.com/recon-isnt-just-technical-it-s-psychological-0bc51a58487b?source=rss----7b722bfd1b8d---4)
+  - [SSRF in APIs: How a Single URL Parameter Can Expose Internal Systems](https://infosecwriteups.com/ssrf-in-apis-how-a-single-url-parameter-can-expose-internal-systems-63128bff63a4?source=rss----7b722bfd1b8d---4)
+  - [“Bug Bounty Bootcamp #38: SSRF Chaining — Bypassing Domain Whitelists with Open Redirects and PDF…](https://infosecwriteups.com/bug-bounty-bootcamp-38-ssrf-chaining-bypassing-domain-whitelists-with-open-redirects-and-pdf-8c344246a1c7?source=rss----7b722bfd1b8d---4)
 - johndcook.com
   - [Building complex functions out of real parts](https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/)
 - krebsonsecurity.com
@@ -387,6 +404,7 @@
 - wheresyoured.at
   - [Premium: What If...We're In An AI Bubble? (Part 2)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-2/)
 - Wired
+  - [A 'Golden Orb' on the Ocean Floor Came From a Mysterious Animal](https://www.wired.com/story/a-golden-orb-on-the-ocean-floor-came-from-a-mysterious-animal/)
   - [All Vehicles Sold in the EU Must Be Able to Hook Up to a Breathalyzer](https://www.wired.com/story/all-vehicles-sold-in-the-eu-must-have-breathalyzer-hook-up/)
   - [Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)](https://www.wired.com/story/memorial-day-mattress-deals-2026-1/)
   - [Hoka Coupon Codes: 30% Off | May 2026](https://www.wired.com/story/hoka-coupon-code/)
