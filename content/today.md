@@ -2,6 +2,8 @@
 
 - 2Libra
   - [打了几把王者给自己整破防了](https://2libra.com/post/game-discussion/pKxxvSz)
+- 36氪
+  - [美股三大指数集体收涨，蔚来跌超7%](https://36kr.com/newsflashes/3821168952004741?f=rss)
 - 404 Media
   - [Here's the Bodycam Footage of the Cybertruck That Drove Into a Lake](https://www.404media.co/heres-the-bodycam-footage-of-the-cybertruck-that-drove-into-a-lake/)
 - Ars Technica
@@ -25,6 +27,7 @@
   - [Catch up on the Dialogues stage at Google I/O 2026.](https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/)
 - Hacker News Frontpage
   - [Anthropic's "Profitability" Swindle](https://www.wheresyoured.at/anthropics-profitability-swindle/)
+  - [FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack](https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware)
   - [Microsoft Drops Claude Code After Budget Overrun](https://aiweekly.co/alerts/microsoft-drops-claude-code-after-budget-overrun)
   - [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
   - [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
@@ -58,6 +61,7 @@
   - [Exploit for SQL Injection in Litellm exploit](https://sploitus.com/exploit?id=83147CB4-EDC3-57ED-85A7-4EF3893454E3&utm_source=rss&utm_medium=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Wordpress exploit](https://sploitus.com/exploit?id=8FE45B89-87C8-5E13-97D0-05804D436CF5&utm_source=rss&utm_medium=rss)
   - [web-app-security-lab exploit](https://sploitus.com/exploit?id=4383F0C7-EBE8-5B56-BF36-62B145F70D77&utm_source=rss&utm_medium=rss)
+  - [WebStack-Secure exploit](https://sploitus.com/exploit?id=0D750076-D636-5A6C-9280-769278FDE7CD&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/)
   - [Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers](https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/)
@@ -112,6 +116,8 @@
   - [CVE-2026-9305 | QuantumNous new-api up to 0.12.1 self Endpoint model/topup.go SearchUserTopUps/SearchAllTopUps sql injection](https://vuldb.com/vuln/365252)
   - [CVE-2026-9306 | QuantumNous new-api up to 0.12.1 Midjourney Image Relay Endpoint router/relay-router.go RelayMidjourneyImage/GetByOnlyMJId authorization](https://vuldb.com/vuln/365253)
 - Vulners.com RSS Feed
+  - [aiograpi: Unsafe signup challenge path handling](https://vulners.com/github/GHSA-JH37-X3FV-4X72?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Arcane: Missing admin authorization on global variables endpoint](https://vulners.com/github/GHSA-JPJH-JM2P-39HH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28445 Typebot: Stored XSS via Rating Block Custom Icon Bypasses isUnsafe Sandbox in Builder Preview](https://vulners.com/cve/CVE-2026-28445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28445 Typebot: Stored XSS via Rating Block Custom Icon Bypasses isUnsafe Sandbox in Builder Preview](https://vulners.com/cvelist/CVELIST:CVE-2026-28445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28735 GitHub OAuth Scope Validation](https://vulners.com/cve/CVE-2026-28735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -167,6 +173,13 @@
   - [CVE-2026-45736 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-45736?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46680 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-46680?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46680 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-46680?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46716](https://vulners.com/cve/CVE-2026-46716?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46717](https://vulners.com/cve/CVE-2026-46717?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47120](https://vulners.com/cve/CVE-2026-47120?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47124](https://vulners.com/cve/CVE-2026-47124?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47125](https://vulners.com/cve/CVE-2026-47125?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47138](https://vulners.com/cve/CVE-2026-47138?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47157](https://vulners.com/cve/CVE-2026-47157?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5817 Docker Model Runner container-to-host code execution via unsandboxed trust_remote_code in Python inference backends](https://vulners.com/cve/CVE-2026-5817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5817 Docker Model Runner container-to-host code execution via unsandboxed trust_remote_code in Python inference backends](https://vulners.com/cvelist/CVELIST:CVE-2026-5817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5843 Docker Model Runner container-to-host code execution via MLX-LM model_file importlib loading](https://vulners.com/cve/CVE-2026-5843?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -197,8 +210,15 @@
   - [GHSA-GRGV-6HW6-V9G4 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-GRGV-6HW6-V9G4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-JXXR-4GWJ-5JF2 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-JXXR-4GWJ-5JF2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-XH8F-G2QW-GCM7 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-XH8F-G2QW-GCM7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [instagrapi: Unsafe signup challenge path handling in instagrapi](https://vulners.com/github/GHSA-GGXF-37HM-9WQF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Nezha Monitoring: Nezha WebSocket server stream discloses cross-tenant server telemetry to authenticated members](https://vulners.com/github/GHSA-HVV7-HFRH-7GXJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Nezha Monitoring: RoleMember can fire other users' cron tasks via AlertRule.FailTriggerTasks (no ownership check)](https://vulners.com/github/GHSA-RXF6-WJH4-JFJ6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Nezha Monitoring: RoleMember can run shell on every server (cross-tenant RCE) via POST /api/v1/cron](https://vulners.com/github/GHSA-99GV-2M7H-3HH9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Nezha Monitoring: RoleMember-reachable SSRF with full response-body reflection via POST /api/v1/notification](https://vulners.com/github/GHSA-W4G9-MXGG-J532?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Parse Server: Pre-authentication denial of service via client version header regex backtracking](https://vulners.com/github/GHSA-38M6-82C8-4XFM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Multiple vulnerabilities in Aspera applications.](https://vulners.com/ibm/25BE73DAC80E972021DD5568C691605A850401664C820BA40BCBCF9DAF6D6FCE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-app-security-lab](https://vulners.com/githubexploit/4383F0C7-EBE8-5B56-BF36-62B145F70D77?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [WebStack-Secure](https://vulners.com/githubexploit/0D750076-D636-5A6C-9280-769278FDE7CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: What If...We're In An AI Bubble? (Part 2)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-2/)
 - Wired
