@@ -59,6 +59,7 @@
   - [香港国际机场二号客运大楼将启用，15家航空公司分批进驻](https://36kr.com/newsflashes/3821376542216580?f=rss)
 - 404 Media
   - [Here's the Bodycam Footage of the Cybertruck That Drove Into a Lake](https://www.404media.co/heres-the-bodycam-footage-of-the-cybertruck-that-drove-into-a-lake/)
+  - [‘Corpse Point’ In the Arctic Is Melting, Disturbing Centuries-Old Bodies](https://www.404media.co/corpse-point-in-the-arctic-is-melting-disturbing-centuries-old-bodies/)
 - Ars Technica
   - [Police boast of hacking VPN where criminals "believed themselves to be safe"](https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/)
   - [PSA: The Steam Controller’s magnetic charger can be a fire hazard](https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/)
@@ -152,12 +153,14 @@
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Wordpress exploit](https://sploitus.com/exploit?id=8FE45B89-87C8-5E13-97D0-05804D436CF5&utm_source=rss&utm_medium=rss)
   - [Old-Xssconsole- exploit](https://sploitus.com/exploit?id=49DEB84F-8D28-534F-A26F-DD9F40096677&utm_source=rss&utm_medium=rss)
   - [Walksnail-Ascent-FPV-VRX-Rooting-Exploit exploit](https://sploitus.com/exploit?id=74B0F019-5A36-53CA-8CD1-9568E933601E&utm_source=rss&utm_medium=rss)
+  - [WannaCry-Netscanner exploit](https://sploitus.com/exploit?id=A77E87D4-FD8F-55F5-A7A2-EACD1787542A&utm_source=rss&utm_medium=rss)
   - [web-app-security-lab exploit](https://sploitus.com/exploit?id=4383F0C7-EBE8-5B56-BF36-62B145F70D77&utm_source=rss&utm_medium=rss)
   - [WebStack-Secure exploit](https://sploitus.com/exploit?id=0D750076-D636-5A6C-9280-769278FDE7CD&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/)
   - [Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers](https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/)
   - [Blue Origin cleared to fly New Glenn mega-rocket after April mishap](https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/)
+  - [Elon Musk has given up on solar power (on Earth)](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/)
   - [Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/)
   - [How VCs and founders use inflated ‘ARR’ to crown AI startups](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/)
   - [Kash Patel’s clothing brand website shut down after reports it was hacked](https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/)
@@ -178,6 +181,7 @@
   - [Elon, stop trying to make Grok happen](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen)
   - [Google appeals search monopoly ruling, says it won business &#8216;fair and square’](https://www.theverge.com/policy/936175/google-search-monopoly-ruling-appeal)
   - [Govee’s colorful, JBL-tuned Lamp Pro 2 is matching its best price to date](https://www.theverge.com/gadgets/935685/govee-table-lamp-2-pro-owala-freesip-sway-water-bottle-deal-sale)
+  - [Hanging out in my favorite virtual coffee shop in Tokyo](https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam)
   - [I have a new go-to browser](https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer)
   - [Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview](https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on)
   - [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
@@ -434,6 +438,7 @@
   - [SIG(0) validation during query flood may lead to undefined behavior](https://vulners.com/mscve/MS:CVE-2026-5947?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Unbounded resend loop in BIND 9 resolver](https://vulners.com/mscve/MS:CVE-2026-5950?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Walksnail-Ascent-FPV-VRX-Rooting-Exploit](https://vulners.com/githubexploit/74B0F019-5A36-53CA-8CD1-9568E933601E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [WannaCry-Netscanner](https://vulners.com/githubexploit/A77E87D4-FD8F-55F5-A7A2-EACD1787542A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-app-security-lab](https://vulners.com/githubexploit/4383F0C7-EBE8-5B56-BF36-62B145F70D77?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WebStack-Secure](https://vulners.com/githubexploit/0D750076-D636-5A6C-9280-769278FDE7CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
