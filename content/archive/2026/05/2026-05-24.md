@@ -10,6 +10,7 @@
   - [exploits exploit](https://sploitus.com/exploit?id=62399653-938A-5715-9E77-8D49CBEE3BE4&utm_source=rss&utm_medium=rss)
   - [icg-hackathon-api-server-exploits exploit](https://sploitus.com/exploit?id=1C338252-B789-52CF-ABBA-5B6CAD16EFB0&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/)
   - [These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)
 - The Decoder
   - [Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5](https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/)
