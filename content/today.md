@@ -8,6 +8,7 @@
   - [【💰】幸运儿徽章 get](https://2libra.com/post/forum-function/57lyvIL)
   - [仿生人会梦到电子羊吗？——给大家看看我的 QClaw 都梦到了什么](https://2libra.com/post/ai-tools/6PRKy1i)
   - [做了一个新的代办事项 APP--桌面端，快捷键打开，极简风格；有没有人感兴趣啊](https://2libra.com/post/personal-works/EtxQwVC)
+  - [写了一个极简且免费的 IP 地址查询服务](https://2libra.com/post/personal-works/X6x4Ilh)
   - [分析性格、情绪、情商和职业的关系](https://2libra.com/post/mental-health/kFQAqdg)
   - [嗯？终于拿到第一个徽章了！卡皮巴拉！！！](https://2libra.com/post/forum-function/GpmGWK2)
   - [打了几把王者给自己整破防了](https://2libra.com/post/game-discussion/pKxxvSz)
@@ -81,6 +82,8 @@
   - [GitHub supply-chain attack, Drupal RCE, AWS GovCloud credential leak](https://defend.network/briefings/github-drupal-aws-credentials-active-exploits-2026-05-23.html)
 - Der Flounder
   - [Reporting on Jamf Pro API clients and assigned API roles](https://derflounder.wordpress.com/2026/05/22/13403/)
+- Didier Stevens
+  - [Update: search-for-compression.py Version 0.0.7](https://blog.didierstevens.com/2026/05/23/update-search-for-compression-py-version-0-0-7/)
 - Fidelis Security
   - [What Makes Fidelis CSPM Enterprise-Ready for Modern Cloud Security?](https://fidelissecurity.com/threatgeek/cloud-security/enterprise-ready-cloud-security-posture-management/)
 - filfre.net
@@ -124,6 +127,8 @@
   - [Cross Origin Request Forgery — Attacking HTTPS via HTTP MiTM Injection](https://mikeczumak.com/cross-origin-request-forgery-attacking-https-via-http-mitm-injection-66f72f07c161?source=rss----b73b8ccc7897---4)
   - [Solving the 2013 Verizon DBIR Cover Challenge](https://mikeczumak.com/solving-the-2013-verizon-dbir-cover-challenge-f79c0bddbd17?source=rss----b73b8ccc7897---4)
   - [XSS with a little help from ASP.NET and Internet Explorer 9](https://mikeczumak.com/xss-with-a-little-help-from-asp-net-and-internet-explorer-9-1dfdc9d166b3?source=rss----b73b8ccc7897---4)
+- shkspr.mobi
+  - [Which age-gates should be skill-gates and vice-versa?](https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/)
 - simonwillison.net
   - [The memory shortage is causing a repricing of consumer electronics](https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -146,6 +151,7 @@
   - [Exploit for SQL Injection in Litellm exploit](https://sploitus.com/exploit?id=83147CB4-EDC3-57ED-85A7-4EF3893454E3&utm_source=rss&utm_medium=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Wordpress exploit](https://sploitus.com/exploit?id=8FE45B89-87C8-5E13-97D0-05804D436CF5&utm_source=rss&utm_medium=rss)
   - [Old-Xssconsole- exploit](https://sploitus.com/exploit?id=49DEB84F-8D28-534F-A26F-DD9F40096677&utm_source=rss&utm_medium=rss)
+  - [Walksnail-Ascent-FPV-VRX-Rooting-Exploit exploit](https://sploitus.com/exploit?id=74B0F019-5A36-53CA-8CD1-9568E933601E&utm_source=rss&utm_medium=rss)
   - [web-app-security-lab exploit](https://sploitus.com/exploit?id=4383F0C7-EBE8-5B56-BF36-62B145F70D77&utm_source=rss&utm_medium=rss)
   - [WebStack-Secure exploit](https://sploitus.com/exploit?id=0D750076-D636-5A6C-9280-769278FDE7CD&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -172,6 +178,7 @@
   - [Elon, stop trying to make Grok happen](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen)
   - [Google appeals search monopoly ruling, says it won business &#8216;fair and square’](https://www.theverge.com/policy/936175/google-search-monopoly-ruling-appeal)
   - [Govee’s colorful, JBL-tuned Lamp Pro 2 is matching its best price to date](https://www.theverge.com/gadgets/935685/govee-table-lamp-2-pro-owala-freesip-sway-water-bottle-deal-sale)
+  - [I have a new go-to browser](https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer)
   - [Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview](https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on)
   - [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
   - [Waymo suspends freeway driving amid safety concerns](https://www.theverge.com/transportation/936129/waymo-freeway-suspend-atlanta-san-antonio-flood-pause)
@@ -264,6 +271,7 @@
   - [aiograpi: Unsafe signup challenge path handling](https://vulners.com/github/GHSA-JH37-X3FV-4X72?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Arcane: Missing admin authorization on global variables endpoint](https://vulners.com/github/GHSA-JPJH-JM2P-39HH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [BIND 9 server memory exhaustion during GSS-API TKEY negotiation](https://vulners.com/mscve/MS:CVE-2026-3039?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software](https://vulners.com/thn/THN:F3DF0F1FAAD5F0559EB7E7FFF600C23D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28445 Typebot: Stored XSS via Rating Block Custom Icon Bypasses isUnsafe Sandbox in Builder Preview](https://vulners.com/cve/CVE-2026-28445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28445 Typebot: Stored XSS via Rating Block Custom Icon Bypasses isUnsafe Sandbox in Builder Preview](https://vulners.com/cvelist/CVELIST:CVE-2026-28445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28735 GitHub OAuth Scope Validation](https://vulners.com/cve/CVE-2026-28735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -316,12 +324,14 @@
   - [CVE-2026-42154 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-42154?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42304 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-42304?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42600 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-42600?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-43503 net: skbuff: preserve shared-frag marker during coalescing](https://vulners.com/cvelist/CVELIST:CVE-2026-43503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43514 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-43514?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43515 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-43515?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45076 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-45076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45078 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-45078?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45149 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-45149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45736 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-45736?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46300 net: skbuff: propagate shared-frag marker through frag-transfer helpers](https://vulners.com/cvelist/CVELIST:CVE-2026-46300?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46625 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-46625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46628 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-46628?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46633 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-46633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -360,6 +370,7 @@
   - [CVE-2026-9297 Edimax BR-6428NS POST Request formWlbasic command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9297?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9298 omec-project amf PathSwitchRequest memory corruption](https://vulners.com/cve/CVE-2026-9298?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9298 omec-project amf PathSwitchRequest memory corruption](https://vulners.com/cvelist/CVELIST:CVE-2026-9298?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9300 omec-project amf NGSetupRequest memory corruption](https://vulners.com/cvelist/CVELIST:CVE-2026-9300?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cve-researcher](https://vulners.com/githubexploit/1371A338-7DF8-534F-B254-F22A16F0A2D0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVEsWorpriss](https://vulners.com/githubexploit/2E876FE2-B291-5CDC-92EC-3D659A16625D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://vulners.com/thn/THN:090748905BCD2E05CB2679EBE28F1EAD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -422,6 +433,7 @@
   - [Security Bulletin: Multiple vulnerabilities in Aspera applications.](https://vulners.com/ibm/25BE73DAC80E972021DD5568C691605A850401664C820BA40BCBCF9DAF6D6FCE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [SIG(0) validation during query flood may lead to undefined behavior](https://vulners.com/mscve/MS:CVE-2026-5947?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Unbounded resend loop in BIND 9 resolver](https://vulners.com/mscve/MS:CVE-2026-5950?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Walksnail-Ascent-FPV-VRX-Rooting-Exploit](https://vulners.com/githubexploit/74B0F019-5A36-53CA-8CD1-9568E933601E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-app-security-lab](https://vulners.com/githubexploit/4383F0C7-EBE8-5B56-BF36-62B145F70D77?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WebStack-Secure](https://vulners.com/githubexploit/0D750076-D636-5A6C-9280-769278FDE7CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
