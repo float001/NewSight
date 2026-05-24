@@ -82,6 +82,7 @@
   - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow exploit](https://sploitus.com/exploit?id=559C6DAA-CC86-5B56-B4A7-F65B8E5780C0&utm_source=rss&utm_medium=rss)
   - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow exploit](https://sploitus.com/exploit?id=AC1F8429-BAD6-5D3D-8AF3-41CCD89A601E&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=81E394B0-D826-571A-BAFD-EA6DCF409748&utm_source=rss&utm_medium=rss)
+  - [Exploit for Write-what-where Condition in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=252EDA6E-5C4C-5F9C-9042-FBB88E3B53B6&utm_source=rss&utm_medium=rss)
   - [exploits exploit](https://sploitus.com/exploit?id=62399653-938A-5715-9E77-8D49CBEE3BE4&utm_source=rss&utm_medium=rss)
   - [icg-hackathon-api-server-exploits exploit](https://sploitus.com/exploit?id=1C338252-B789-52CF-ABBA-5B6CAD16EFB0&utm_source=rss&utm_medium=rss)
   - [og-clews-mini-rce-cve exploit](https://sploitus.com/exploit?id=CF111B0F-59CD-5284-BA34-A316CA829559&utm_source=rss&utm_medium=rss)
@@ -91,9 +92,11 @@
   - [Win32-Exploit-Dev-Labs-Vulnserver- exploit](https://sploitus.com/exploit?id=5C204ADF-4470-5A5B-9B82-4F2BB362B3C7&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/)
+  - [The Dreamie alarm clock got me to stop using my phone in bed](https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/)
   - [These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)
 - The Decoder
   - [Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon](https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/)
+  - [Deepmind's Hassabis sees humanity "in the foothills of the singularity" while LeCun says current AI isn't intelligent](https://the-decoder.com/deepminds-hassabis-sees-humanity-in-the-foothills-of-the-singularity-while-lecun-says-current-ai-isnt-intelligent/)
   - [Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5](https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/)
   - [Why you shouldn't leave model selection on default in Copilot, Gemini and other AI tools](https://the-decoder.com/why-you-shouldnt-leave-model-selection-on-default-in-copilot-gemini-and-other-ai-tools/)
 - The Verge
@@ -246,6 +249,10 @@
   - [CVE-2026-9378 Edimax BR-6675nD POST Request formHwSet command injection](https://vulners.com/cve/CVE-2026-9378?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9378 Edimax BR-6675nD POST Request formHwSet command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9378?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9379 Edimax BR-6675nD POST Request formWpsStart command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9380 Edimax BR-6675nD POST Request formL2TPSetup buffer overflow](https://vulners.com/cve/CVE-2026-9380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9380 Edimax BR-6675nD POST Request formL2TPSetup buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-9380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9381 Edimax BR-6675nD POST Request formPPPoESetup buffer overflow](https://vulners.com/cve/CVE-2026-9381?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9381 Edimax BR-6675nD POST Request formPPPoESetup buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-9381?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Database-Exploitation-Manual](https://vulners.com/githubexploit/0015C9FF-C5C5-5DAC-88F3-84542BA62C01?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [evershop-stored-xss-cve](https://vulners.com/githubexploit/5105E4EC-12F2-5777-8E75-A3DF306D1800?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-0926](https://vulners.com/githubexploit/1B9C6622-D743-5371-8395-89787C259520?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -258,6 +265,7 @@
   - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow](https://vulners.com/githubexploit/AC1F8429-BAD6-5D3D-8AF3-41CCD89A601E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel](https://vulners.com/githubexploit/81E394B0-D826-571A-BAFD-EA6DCF409748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for OS Command Injection in Arcane](https://vulners.com/githubexploit/586F86CE-33F2-5D45-98CA-F25F7730B080?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Write-what-where Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/252EDA6E-5C4C-5F9C-9042-FBB88E3B53B6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [exploits](https://vulners.com/githubexploit/62399653-938A-5715-9E77-8D49CBEE3BE4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [icg-hackathon-api-server-exploits](https://vulners.com/githubexploit/1C338252-B789-52CF-ABBA-5B6CAD16EFB0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Invincibility](https://vulners.com/githubexploit/F40AA230-105C-596A-B819-3FB28B55D39C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -279,6 +287,7 @@
   - [These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin](https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/)
   - [Why Garlic Repels Mosquitoes and Keeps Them From Breeding](https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/)
 - 不安全
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 98](https://buaq.net/go-418576.html)
   - [SpaceX的AI前景遭质疑，400个美国政府项目只有3个涉及Grok](https://buaq.net/go-418543.html)
   - [微软旗下职场社交平台LinkedIn宣布打击AI生成的内容 检测到后将屏蔽推荐](https://buaq.net/go-418540.html)
 - 代码审计星球
@@ -290,6 +299,7 @@
   - [卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛](https://www.qbitai.com/2026/05/423421.html)
 - 黑海洋
   - [SpaceX的AI前景遭质疑，400个美国政府项目只有3个涉及Grok](https://blog.upx8.com/SpaceX%E7%9A%84AI%E5%89%8D%E6%99%AF%E9%81%AD%E8%B4%A8%E7%96%91-400%E4%B8%AA%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%A1%B9%E7%9B%AE%E5%8F%AA%E6%9C%893%E4%B8%AA%E6%B6%89%E5%8F%8AGrok)
+  - [声优津田健次郎起诉要求TikTok删除AI模仿自己声音的视频](https://blog.upx8.com/%E5%A3%B0%E4%BC%98%E6%B4%A5%E7%94%B0%E5%81%A5%E6%AC%A1%E9%83%8E%E8%B5%B7%E8%AF%89%E8%A6%81%E6%B1%82TikTok%E5%88%A0%E9%99%A4AI%E6%A8%A1%E4%BB%BF%E8%87%AA%E5%B7%B1%E5%A3%B0%E9%9F%B3%E7%9A%84%E8%A7%86%E9%A2%91)
   - [微软支付2.5亿美元了结动视暴雪股东诉讼](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%94%AF%E4%BB%982-5%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BA%86%E7%BB%93%E5%8A%A8%E8%A7%86%E6%9A%B4%E9%9B%AA%E8%82%A1%E4%B8%9C%E8%AF%89%E8%AE%BC)
   - [苹果在Q1首次荣登全球智能手机市场榜首](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%9C%A8Q1%E9%A6%96%E6%AC%A1%E8%8D%A3%E7%99%BB%E5%85%A8%E7%90%83%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E6%A6%9C%E9%A6%96)
   - [虎牙旗下apkpure应用商店正在分发恶意软件](https://blog.upx8.com/%E8%99%8E%E7%89%99%E6%97%97%E4%B8%8Bapkpure%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E6%AD%A3%E5%9C%A8%E5%88%86%E5%8F%91%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6)
