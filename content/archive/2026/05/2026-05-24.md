@@ -5,14 +5,19 @@
 - 36氪
   - [AMD宣布下一代EPYC CPU进入量产](https://36kr.com/newsflashes/3822607641841801?f=rss)
   - [“天韵相机”项目负责人：香港航天员操作港研仪器意义重大](https://36kr.com/newsflashes/3822609989734531?f=rss)
+  - [《给阿嬷的情书》票房破十亿](https://36kr.com/newsflashes/3822746070995077?f=rss)
+  - [一季度AI领域融资超1100亿元 国产大模型融资金额暴增](https://36kr.com/newsflashes/3822775103607172?f=rss)
   - [两名证券从业人员领190万罚单](https://36kr.com/newsflashes/3822735099875459?f=rss)
   - [两次流拍后，王健林名下上海万达小额贷款70%股权将被变卖](https://36kr.com/newsflashes/3822659880308870?f=rss)
   - [中证投服提名独立董事已扩展至14家A股公司，最高年薪达25万元](https://36kr.com/newsflashes/3822733352390786?f=rss)
+  - [亚泰集团与吉勤集团签署战略合作协议](https://36kr.com/newsflashes/3822757516857479?f=rss)
   - [加密货币市场全线拉升](https://36kr.com/newsflashes/3822732684513672?f=rss)
   - [华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长](https://36kr.com/newsflashes/3822612389941383?f=rss)
   - [国家统计局：5月中旬流通领域重要生产资料20种产品价格上涨](https://36kr.com/newsflashes/3822660594421888?f=rss)
   - [国家统计局：5月中旬生猪（外三元）价格环比下跌1%](https://36kr.com/newsflashes/3822656512921987?f=rss)
+  - [国家防减救灾委针对重庆启动国家四级救灾应急响应](https://36kr.com/newsflashes/3822815876862345?f=rss)
   - [我国中东部局地降雨量或破纪录 华南江南多地将现高温](https://36kr.com/newsflashes/3822609558196610?f=rss)
+  - [水利部针对安徽、河南、重庆、陕西4省份启动洪水防御Ⅳ级应急响应](https://36kr.com/newsflashes/3822754581418116?f=rss)
   - [第79届世界卫生大会达成系列共识](https://36kr.com/newsflashes/3822734669631621?f=rss)
   - [韩国4月中东原油进口同比下滑37%](https://36kr.com/newsflashes/3822659387265160?f=rss)
 - Cybersecurity News
@@ -24,6 +29,7 @@
   - [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
   - [Polsia raised $30M; source map: fake ARR, dead users, god-mode over your company](https://zero-arr.vercel.app)
   - [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
+  - [Why Is Vivado 2026.1 Dropping Linux Support for Free Tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
 - HackerNoon
   - [How to Automate Android While Big Tech Kills the Web Dream](https://hackernoon.com/how-to-automate-android-while-big-tech-kills-the-web-dream?source=rss)
 - JonLuca’s Blog
@@ -98,6 +104,10 @@
   - [CVE-2026-9351](https://vulners.com/attackerkb/AKB:B1342584-07DD-472A-AD81-5C8DFC4FB3B6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9351 NousResearch hermes-agent read_file Tool file_tools.py _is_blocked_device path traversal](https://vulners.com/cve/CVE-2026-9351?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9351 NousResearch hermes-agent read_file Tool file_tools.py _is_blocked_device path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-9351?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9354 NousResearch hermes-agent Slack Agent/Mattermost Agent escape output](https://vulners.com/cve/CVE-2026-9354?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9354 NousResearch hermes-agent Slack Agent/Mattermost Agent escape output](https://vulners.com/cvelist/CVELIST:CVE-2026-9354?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9355 SourceCodester Hospitals Patient Records Management System Master.php save_patient_history sql injection](https://vulners.com/cve/CVE-2026-9355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9355 SourceCodester Hospitals Patient Records Management System Master.php save_patient_history sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Database-Exploitation-Manual](https://vulners.com/githubexploit/0015C9FF-C5C5-5DAC-88F3-84542BA62C01?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [evershop-stored-xss-cve](https://vulners.com/githubexploit/5105E4EC-12F2-5777-8E75-A3DF306D1800?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-0926](https://vulners.com/githubexploit/1B9C6622-D743-5371-8395-89787C259520?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -110,13 +120,18 @@
   - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow](https://vulners.com/githubexploit/AC1F8429-BAD6-5D3D-8AF3-41CCD89A601E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [exploits](https://vulners.com/githubexploit/62399653-938A-5715-9E77-8D49CBEE3BE4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [icg-hackathon-api-server-exploits](https://vulners.com/githubexploit/1C338252-B789-52CF-ABBA-5B6CAD16EFB0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Invincibility](https://vulners.com/githubexploit/F40AA230-105C-596A-B819-3FB28B55D39C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://vulners.com/thn/THN:1F5DB06F0A1CBAE3C17369D47934772C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [programming-for-penetration-testing-buffer-overflow-exploit](https://vulners.com/githubexploit/12ABD7B2-CA54-5E16-BC07-5FAF1D40C8ED?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Stored-XSS-in-Inventory-System-using-PHP-and-MySQL](https://vulners.com/githubexploit/F25EBE33-64F2-56B1-9C60-5B5A2FB4D486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
+  - [SpaceX的AI前景遭质疑，400个美国政府项目只有3个涉及Grok](https://buaq.net/go-418543.html)
   - [微软旗下职场社交平台LinkedIn宣布打击AI生成的内容 检测到后将屏蔽推荐](https://buaq.net/go-418540.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 量子位 QbitAI
+  - [什么！你说胡彦斌也在苦修Vibe Coding](https://www.qbitai.com/2026/05/423213.html)
 - 黑海洋
+  - [SpaceX的AI前景遭质疑，400个美国政府项目只有3个涉及Grok](https://blog.upx8.com/SpaceX%E7%9A%84AI%E5%89%8D%E6%99%AF%E9%81%AD%E8%B4%A8%E7%96%91-400%E4%B8%AA%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%A1%B9%E7%9B%AE%E5%8F%AA%E6%9C%893%E4%B8%AA%E6%B6%89%E5%8F%8AGrok)
   - [微软支付2.5亿美元了结动视暴雪股东诉讼](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%94%AF%E4%BB%982-5%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BA%86%E7%BB%93%E5%8A%A8%E8%A7%86%E6%9A%B4%E9%9B%AA%E8%82%A1%E4%B8%9C%E8%AF%89%E8%AE%BC)
   - [苹果在Q1首次荣登全球智能手机市场榜首](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%9C%A8Q1%E9%A6%96%E6%AC%A1%E8%8D%A3%E7%99%BB%E5%85%A8%E7%90%83%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E6%A6%9C%E9%A6%96)
