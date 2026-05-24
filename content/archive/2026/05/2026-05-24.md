@@ -7,6 +7,7 @@
   - [“天韵相机”项目负责人：香港航天员操作港研仪器意义重大](https://36kr.com/newsflashes/3822609989734531?f=rss)
   - [《给阿嬷的情书》票房破十亿](https://36kr.com/newsflashes/3822746070995077?f=rss)
   - [一季度AI领域融资超1100亿元 国产大模型融资金额暴增](https://36kr.com/newsflashes/3822775103607172?f=rss)
+  - [一季度韩国前五大企业出口占比达44%](https://36kr.com/newsflashes/3822778731368838?f=rss)
   - [两名证券从业人员领190万罚单](https://36kr.com/newsflashes/3822735099875459?f=rss)
   - [两次流拍后，王健林名下上海万达小额贷款70%股权将被变卖](https://36kr.com/newsflashes/3822659880308870?f=rss)
   - [中证投服提名独立董事已扩展至14家A股公司，最高年薪达25万元](https://36kr.com/newsflashes/3822733352390786?f=rss)
@@ -19,8 +20,12 @@
   - [我国中东部局地降雨量或破纪录 华南江南多地将现高温](https://36kr.com/newsflashes/3822609558196610?f=rss)
   - [水利部针对安徽、河南、重庆、陕西4省份启动洪水防御Ⅳ级应急响应](https://36kr.com/newsflashes/3822754581418116?f=rss)
   - [第79届世界卫生大会达成系列共识](https://36kr.com/newsflashes/3822734669631621?f=rss)
+  - [第79届世界卫生大会达成系列共识](https://36kr.com/newsflashes/3822776525361280?f=rss)
+  - [芬兰大学说新型AI聊天机器人有助抵抗错误健康信息](https://36kr.com/newsflashes/3822778010079362?f=rss)
   - [韩国4月中东原油进口同比下滑37%](https://36kr.com/newsflashes/3822659387265160?f=rss)
+  - [韩国4月中东原油进口同比下滑37%](https://36kr.com/newsflashes/3822779285148034?f=rss)
 - Cybersecurity News
+  - [Operation Saffron: Authorities Smash ‘First VPN’ Cybercrime Network](https://securityonline.info/first-vpn-service-takedown-europol/)
   - [The 10,000-Bug AI: How Anthropic’s Secret “Mythos” Model is Rewriting Cyber-Resilience](https://securityonline.info/anthropic-project-glasswing-claude-mythos-vulnerability-detection/)
 - Hacker News Frontpage
   - [CA declares state of emergency as fire crews race to contain toxic chemical leak](https://www.bbc.com/news/articles/c3w2l249j8go)
@@ -50,6 +55,7 @@
   - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow exploit](https://sploitus.com/exploit?id=AC1F8429-BAD6-5D3D-8AF3-41CCD89A601E&utm_source=rss&utm_medium=rss)
   - [exploits exploit](https://sploitus.com/exploit?id=62399653-938A-5715-9E77-8D49CBEE3BE4&utm_source=rss&utm_medium=rss)
   - [icg-hackathon-api-server-exploits exploit](https://sploitus.com/exploit?id=1C338252-B789-52CF-ABBA-5B6CAD16EFB0&utm_source=rss&utm_medium=rss)
+  - [OSWE-Notes exploit](https://sploitus.com/exploit?id=B51CB666-2576-51E7-9880-3BCA3F7730D1&utm_source=rss&utm_medium=rss)
   - [programming-for-penetration-testing-buffer-overflow-exploit exploit](https://sploitus.com/exploit?id=12ABD7B2-CA54-5E16-BC07-5FAF1D40C8ED&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/)
@@ -122,6 +128,7 @@
   - [icg-hackathon-api-server-exploits](https://vulners.com/githubexploit/1C338252-B789-52CF-ABBA-5B6CAD16EFB0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Invincibility](https://vulners.com/githubexploit/F40AA230-105C-596A-B819-3FB28B55D39C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://vulners.com/thn/THN:1F5DB06F0A1CBAE3C17369D47934772C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OSWE-Notes](https://vulners.com/githubexploit/B51CB666-2576-51E7-9880-3BCA3F7730D1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [programming-for-penetration-testing-buffer-overflow-exploit](https://vulners.com/githubexploit/12ABD7B2-CA54-5E16-BC07-5FAF1D40C8ED?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Stored-XSS-in-Inventory-System-using-PHP-and-MySQL](https://vulners.com/githubexploit/F25EBE33-64F2-56B1-9C60-5B5A2FB4D486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
@@ -129,6 +136,8 @@
   - [微软旗下职场社交平台LinkedIn宣布打击AI生成的内容 检测到后将屏蔽推荐](https://buaq.net/go-418540.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [特朗普政府要求绿卡申请者离开美国申请](https://www.solidot.org/story?sid=84381)
 - 量子位 QbitAI
   - [什么！你说胡彦斌也在苦修Vibe Coding](https://www.qbitai.com/2026/05/423213.html)
 - 黑海洋
