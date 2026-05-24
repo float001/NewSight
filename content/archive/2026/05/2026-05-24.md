@@ -58,6 +58,9 @@
 - JonLuca’s Blog
   - [The Last Renaissance Man](https://blog.jonlu.ca/posts/the-last-renaissance-man)
 - Kali Linux Tutorials
+  - [How To Run A Bash Script In Linux Step By Step](https://kalilinuxtutorials.com/how-to-run-a-bash-script-in-linux-step-by-step/)
+  - [How To Use Variables In Bash Scripts](https://kalilinuxtutorials.com/how-to-use-variables-in-bash-scripts/)
+  - [How To Write Your First Bash Script In Linux Step By Step](https://kalilinuxtutorials.com/how-to-write-your-first-bash-script-in-linux-step-by-step/)
   - [Install Docker on Ubuntu 24.04 With Easy Setup Guide](https://kalilinuxtutorials.com/install-docker-ubuntu-2/)
 - righto.com
   - [Reverse engineering circuitry in a Spacelab computer from 1980](http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
@@ -83,8 +86,10 @@
 - The Decoder
   - [Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon](https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/)
   - [Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5](https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/)
+  - [Why you shouldn't leave model selection on default in Copilot, Gemini and other AI tools](https://the-decoder.com/why-you-shouldnt-leave-model-selection-on-default-in-copilot-gemini-and-other-ai-tools/)
 - The Verge
   - [Record Club is trying to be Letterboxd for music nerds](https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds)
+  - [Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage](https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo)
 - troyhunt.com
   - [Weekly Update 505](https://www.troyhunt.com/weekly-update-505/)
 - VulDB Recent Entries
@@ -223,6 +228,10 @@
   - [CVE-2026-9370 ulisesbocchio jasypt-spring-boot Password Hash SimpleGCMConfig.java getSecretKeySaltGenerator hash predictable salt](https://vulners.com/cvelist/CVELIST:CVE-2026-9370?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9371 ItzCrazyKns Vane API route.ts missing authentication](https://vulners.com/cve/CVE-2026-9371?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9371 ItzCrazyKns Vane API route.ts missing authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-9371?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9373 JeecgBoot OpenAPI Endpoint call improper authentication](https://vulners.com/cve/CVE-2026-9373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9373 JeecgBoot OpenAPI Endpoint call improper authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-9373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9374 yangzongzhuan RuoYi-Vue Common Upload Endpoint upload FileUploadUtils.upload unrestricted upload](https://vulners.com/cvelist/CVELIST:CVE-2026-9374?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9376 JPress UCenter Article Submission Endpoint doWriteSave improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-9376?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Database-Exploitation-Manual](https://vulners.com/githubexploit/0015C9FF-C5C5-5DAC-88F3-84542BA62C01?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [evershop-stored-xss-cve](https://vulners.com/githubexploit/5105E4EC-12F2-5777-8E75-A3DF306D1800?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-0926](https://vulners.com/githubexploit/1B9C6622-D743-5371-8395-89787C259520?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -245,7 +254,9 @@
 - Wired
   - [14 New Tools for Taking on the Great Outdoors Properly](https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/)
   - [A Fundamental Principle of Aeronautical Engineering Has Been Overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
+  - [The Best Browser Extensions to Get More Out of YouTube](https://www.wired.com/story/the-best-browser-extensions-to-get-more-out-of-youtube/)
   - [The Universe Is Full of ‘Impossible’ Black Holes. Now Scientists Know Why](https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/)
+  - [These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin](https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/)
   - [Why Garlic Repels Mosquitoes and Keeps Them From Breeding](https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/)
 - 不安全
   - [SpaceX的AI前景遭质疑，400个美国政府项目只有3个涉及Grok](https://buaq.net/go-418543.html)
@@ -256,6 +267,7 @@
   - [特朗普政府要求绿卡申请者离开美国申请](https://www.solidot.org/story?sid=84381)
 - 量子位 QbitAI
   - [什么！你说胡彦斌也在苦修Vibe Coding](https://www.qbitai.com/2026/05/423213.html)
+  - [卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛](https://www.qbitai.com/2026/05/423421.html)
 - 黑海洋
   - [SpaceX的AI前景遭质疑，400个美国政府项目只有3个涉及Grok](https://blog.upx8.com/SpaceX%E7%9A%84AI%E5%89%8D%E6%99%AF%E9%81%AD%E8%B4%A8%E7%96%91-400%E4%B8%AA%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%A1%B9%E7%9B%AE%E5%8F%AA%E6%9C%893%E4%B8%AA%E6%B6%89%E5%8F%8AGrok)
   - [微软支付2.5亿美元了结动视暴雪股东诉讼](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%94%AF%E4%BB%982-5%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BA%86%E7%BB%93%E5%8A%A8%E8%A7%86%E6%9A%B4%E9%9B%AA%E8%82%A1%E4%B8%9C%E8%AF%89%E8%AE%BC)
