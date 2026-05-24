@@ -4,15 +4,24 @@
   - [OpenClaw 才是 100 天前的事情，整个快速的进展，却恍如隔世。](https://2libra.com/post/ai-updates/wZkBDci)
 - daringfireball.net
   - [Why Steve Kerr Stayed With the Warriors](https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry)
+- ongoing by Tim Bray
+  - [Tab Trick](https://www.tbray.org/ongoing/When/202x/2026/05/24/Tab-Lore)
+- simonwillison.net
+  - [Quoting Armin Ronacher](https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [ClipBucket-EDB-44250 exploit](https://sploitus.com/exploit?id=81738E6F-592A-558F-886D-1F2C08F70045&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-13673 exploit](https://sploitus.com/exploit?id=96CCC73F-82BC-543A-83A5-59B99E658BD2&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Adobe Commerce exploit](https://sploitus.com/exploit?id=93C77ACD-C1F0-5CC1-94B8-B3B0112F0F96&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple exploit](https://sploitus.com/exploit?id=281500D0-CEF4-5D3A-B207-AFB2D8D6BAD0&utm_source=rss&utm_medium=rss)
   - [rt-toolkit exploit](https://sploitus.com/exploit?id=D0E8ECCE-3996-5262-972C-FC43595E0E65&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [6 kitchen gadgets that make adulting feel easier](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/)
+  - [Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)
 - Vulners.com RSS Feed
   - [ClipBucket-EDB-44250](https://vulners.com/githubexploit/81738E6F-592A-558F-886D-1F2C08F70045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2025-13673](https://vulners.com/githubexploit/96CCC73F-82BC-543A-83A5-59B99E658BD2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Input Validation in Adobe Commerce](https://vulners.com/githubexploit/93C77ACD-C1F0-5CC1-94B8-B3B0112F0F96?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple](https://vulners.com/githubexploit/281500D0-CEF4-5D3A-B207-AFB2D8D6BAD0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [rt-toolkit](https://vulners.com/githubexploit/D0E8ECCE-3996-5262-972C-FC43595E0E65?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
