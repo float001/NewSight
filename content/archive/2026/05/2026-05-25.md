@@ -2,6 +2,10 @@
 
 - 2Libra
   - [OpenClaw 才是 100 天前的事情，整个快速的进展，却恍如隔世。](https://2libra.com/post/ai-updates/wZkBDci)
+  - [运动打卡贴](https://2libra.com/post/sports/OVHgCWG)
+- 36氪
+  - [神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”](https://36kr.com/newsflashes/3823877195272322?f=rss)
+  - [美国罗素指数调整，谷歌与AMD被调出罗素1000价值指数](https://36kr.com/newsflashes/3823878173069440?f=rss)
 - daringfireball.net
   - [Why Steve Kerr Stayed With the Warriors](https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry)
 - ongoing by Tim Bray
@@ -11,6 +15,7 @@
 - Sploitus.com Exploits RSS Feed
   - [ClipBucket-EDB-44250 exploit](https://sploitus.com/exploit?id=81738E6F-592A-558F-886D-1F2C08F70045&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-13673 exploit](https://sploitus.com/exploit?id=96CCC73F-82BC-543A-83A5-59B99E658BD2&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-29923 exploit](https://sploitus.com/exploit?id=2E733323-0682-5CAA-8070-BE3ACAB6F292&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Adobe Commerce exploit](https://sploitus.com/exploit?id=93C77ACD-C1F0-5CC1-94B8-B3B0112F0F96&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple exploit](https://sploitus.com/exploit?id=281500D0-CEF4-5D3A-B207-AFB2D8D6BAD0&utm_source=rss&utm_medium=rss)
   - [rt-toolkit exploit](https://sploitus.com/exploit?id=D0E8ECCE-3996-5262-972C-FC43595E0E65&utm_source=rss&utm_medium=rss)
@@ -20,6 +25,7 @@
   - [Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)
 - Vulners.com RSS Feed
   - [ClipBucket-EDB-44250](https://vulners.com/githubexploit/81738E6F-592A-558F-886D-1F2C08F70045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48832](https://vulners.com/cvelist/CVELIST:CVE-2026-48832?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9394 Besen BS20 EV Charging Station Bluetooth Low Energy weak password](https://vulners.com/cve/CVE-2026-9394?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9394 Besen BS20 EV Charging Station Bluetooth Low Energy weak password](https://vulners.com/cvelist/CVELIST:CVE-2026-9394?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9396 Besen BS20 EV Charging Station Firmware Version Check ui layer](https://vulners.com/cve/CVE-2026-9396?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -28,7 +34,16 @@
   - [CVE-2026-9397 Besen BS20 EV Charging Station OTA Update Installation improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-9397?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9398 Besen BS20 EV Charging Station BLE/WiFi authentication replay](https://vulners.com/cve/CVE-2026-9398?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9398 Besen BS20 EV Charging Station BLE/WiFi authentication replay](https://vulners.com/cvelist/CVELIST:CVE-2026-9398?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9401 Edimax BR-6675nD POST Request formWanTcpipSetup buffer overflow](https://vulners.com/cve/CVE-2026-9401?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9401 Edimax BR-6675nD POST Request formWanTcpipSetup buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-9401?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9402 Edimax BR-6675nD POST Request formWlanMP command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9403 Edimax BR-6675nD POST Request formWlSiteSurvey buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-9403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [EUVD-2026-31601](https://vulners.com/euvd/EUVD-2026-31601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [EUVD-2026-31602](https://vulners.com/euvd/EUVD-2026-31602?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [EUVD-2026-31604](https://vulners.com/euvd/EUVD-2026-31604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [EUVD-2026-31605](https://vulners.com/euvd/EUVD-2026-31605?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-13673](https://vulners.com/githubexploit/96CCC73F-82BC-543A-83A5-59B99E658BD2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-29923](https://vulners.com/githubexploit/2E733323-0682-5CAA-8070-BE3ACAB6F292?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Input Validation in Adobe Commerce](https://vulners.com/githubexploit/93C77ACD-C1F0-5CC1-94B8-B3B0112F0F96?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple](https://vulners.com/githubexploit/281500D0-CEF4-5D3A-B207-AFB2D8D6BAD0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [rt-toolkit](https://vulners.com/githubexploit/D0E8ECCE-3996-5262-972C-FC43595E0E65?utm_source=rss&utm_medium=rss&utm_campaign=rss)
