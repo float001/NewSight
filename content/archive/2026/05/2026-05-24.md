@@ -22,6 +22,7 @@
   - [国家统计局：5月中旬流通领域重要生产资料20种产品价格上涨](https://36kr.com/newsflashes/3822660594421888?f=rss)
   - [国家统计局：5月中旬生猪（外三元）价格环比下跌1%](https://36kr.com/newsflashes/3822656512921987?f=rss)
   - [国家防减救灾委针对重庆启动国家四级救灾应急响应](https://36kr.com/newsflashes/3822815876862345?f=rss)
+  - [大金重工：与荷兰船东签署约10.69亿元船舶建造合同](https://36kr.com/newsflashes/3823019238838408?f=rss)
   - [巴基斯坦总理夏巴兹在杭州出席中巴企业投资大会](https://36kr.com/newsflashes/3822858041512326?f=rss)
   - [我国中东部局地降雨量或破纪录 华南江南多地将现高温](https://36kr.com/newsflashes/3822609558196610?f=rss)
   - [水利部针对安徽、河南、重庆、陕西4省份启动洪水防御Ⅳ级应急响应](https://36kr.com/newsflashes/3822754581418116?f=rss)
@@ -76,6 +77,7 @@
   - [SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/)
   - [These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)
 - The Decoder
+  - [Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon](https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/)
   - [Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5](https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/)
 - The Verge
   - [Record Club is trying to be Letterboxd for music nerds](https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds)
@@ -139,6 +141,12 @@
   - [CVE-2026-9449 | code-projects Employee Management System 1.0 /changepassemp.php sql injection](https://vuldb.com/vuln/365430)
   - [CVE-2026-9450 | code-projects Employee Management System 1.0 /psubmit.php pid sql injection](https://vuldb.com/vuln/365431)
   - [CVE-2026-9451 | code-projects Employee Management System 1.0 applyleaveprocess.php ID sql injection](https://vuldb.com/vuln/365432)
+  - [CVE-2026-9459 | Edimax EW-7438RPn 1.31 formConnectionSetting max_Conn/timeOut stack-based overflow](https://vuldb.com/vuln/365440)
+  - [CVE-2026-9460 | Edimax EW-7438RPn 1.31 /goform/formAccept submit-url stack-based overflow](https://vuldb.com/vuln/365441)
+  - [CVE-2026-9461 | Edimax EW-7438RPn 1.31 /goform/formRadius submit-url stack-based overflow](https://vuldb.com/vuln/365442)
+  - [CVE-2026-9462 | Edimax EW-7438RPn 1.31 formWpsProxyEnable submit-url stack-based overflow](https://vuldb.com/vuln/365443)
+  - [CVE-2026-9463 | Edimax EW-7438RPn 1.31 /goform/formLicence submit-url stack-based overflow](https://vuldb.com/vuln/365444)
+  - [CVE-2026-9464 | YunaiV yudao-cloud 2026.03 Admin API Endpoint create IotDataSinkHttpConfig server-side request forgery](https://vuldb.com/vuln/365445)
 - Vulners.com RSS Feed
   - [CVE-2018-25340 Smartshop 1 SQL Injection via category.php](https://vulners.com/cve/CVE-2018-25340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2018-25340 Smartshop 1 SQL Injection via category.php](https://vulners.com/cvelist/CVELIST:CVE-2018-25340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -199,6 +207,7 @@
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Apple Ipados](https://vulners.com/githubexploit/19E5C0C2-0ADB-5CE5-9AD5-4D4B19A95247?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow](https://vulners.com/githubexploit/559C6DAA-CC86-5B56-B4A7-F65B8E5780C0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow](https://vulners.com/githubexploit/AC1F8429-BAD6-5D3D-8AF3-41CCD89A601E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for OS Command Injection in Arcane](https://vulners.com/githubexploit/586F86CE-33F2-5D45-98CA-F25F7730B080?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [exploits](https://vulners.com/githubexploit/62399653-938A-5715-9E77-8D49CBEE3BE4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [icg-hackathon-api-server-exploits](https://vulners.com/githubexploit/1C338252-B789-52CF-ABBA-5B6CAD16EFB0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Invincibility](https://vulners.com/githubexploit/F40AA230-105C-596A-B819-3FB28B55D39C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -206,8 +215,11 @@
   - [OSWE-Notes](https://vulners.com/githubexploit/B51CB666-2576-51E7-9880-3BCA3F7730D1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [programming-for-penetration-testing-buffer-overflow-exploit](https://vulners.com/githubexploit/12ABD7B2-CA54-5E16-BC07-5FAF1D40C8ED?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Stored-XSS-in-Inventory-System-using-PHP-and-MySQL](https://vulners.com/githubexploit/F25EBE33-64F2-56B1-9C60-5B5A2FB4D486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [XSS_REPORTS](https://vulners.com/githubexploit/66297EBC-7B77-58D2-9FB0-278FE74480A6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [A Fundamental Principle of Aeronautical Engineering Has Been Overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
   - [The Universe Is Full of ‘Impossible’ Black Holes. Now Scientists Know Why](https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/)
+  - [Why Garlic Repels Mosquitoes and Keeps Them From Breeding](https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/)
 - 不安全
   - [SpaceX的AI前景遭质疑，400个美国政府项目只有3个涉及Grok](https://buaq.net/go-418543.html)
   - [微软旗下职场社交平台LinkedIn宣布打击AI生成的内容 检测到后将屏蔽推荐](https://buaq.net/go-418540.html)
