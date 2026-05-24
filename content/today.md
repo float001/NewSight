@@ -16,6 +16,7 @@
   - [rt-toolkit exploit](https://sploitus.com/exploit?id=D0E8ECCE-3996-5262-972C-FC43595E0E65&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [6 kitchen gadgets that make adulting feel easier](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/)
+  - [Everyone is navigating AI security in real time — even Google](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)
   - [Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)
 - Vulners.com RSS Feed
   - [ClipBucket-EDB-44250](https://vulners.com/githubexploit/81738E6F-592A-558F-886D-1F2C08F70045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
