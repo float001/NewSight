@@ -3,6 +3,8 @@
 - 2Libra
   - [分享星辰变动漫 4K 不错哦](https://2libra.com/post/movie-sharing/4yTQK69)
   - [想玩什么，就自己做](https://2libra.com/post/personal-works/AGoh_Rd)
+  - [被未知恐惧击穿](https://2libra.com/post/workplace-stories/h5khIdG)
+  - [这里有多少货真价实的 老板？](https://2libra.com/post/workplace-stories/ueH-QGD)
 - 36氪
   - [AMD宣布下一代EPYC CPU进入量产](https://36kr.com/newsflashes/3822607641841801?f=rss)
   - [“天韵相机”项目负责人：香港航天员操作港研仪器意义重大](https://36kr.com/newsflashes/3822609989734531?f=rss)
@@ -53,6 +55,7 @@
   - [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
   - [Polsia raised $30M; source map: fake ARR, dead users, god-mode over your company](https://zero-arr.vercel.app)
   - [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
+  - [The seed oil panic is hurting my cardiac patients](https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/)
   - [Why Is Vivado 2026.1 Dropping Linux Support for Free Tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
 - HackerNoon
   - [How to Automate Android While Big Tech Kills the Web Dream](https://hackernoon.com/how-to-automate-android-while-big-tech-kills-the-web-dream?source=rss)
@@ -64,6 +67,8 @@
   - [How To Use Variables In Bash Scripts](https://kalilinuxtutorials.com/how-to-use-variables-in-bash-scripts/)
   - [How To Write Your First Bash Script In Linux Step By Step](https://kalilinuxtutorials.com/how-to-write-your-first-bash-script-in-linux-step-by-step/)
   - [Install Docker on Ubuntu 24.04 With Easy Setup Guide](https://kalilinuxtutorials.com/install-docker-ubuntu-2/)
+- michael.stapelberg.ch
+  - [How my minimal, memory-safe Go rsync steers clear of vulnerabilities](https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/)
 - Recent Commits to cve:main
   - [Update Sun May 24 11:47:42 UTC 2026](https://github.com/trickest/cve/commit/9870aaaa6ac3d9d2c479293fa9269d555c908f29)
 - righto.com
@@ -78,6 +83,7 @@
   - [Exploit for CVE-2026-0926 exploit](https://sploitus.com/exploit?id=4960F0C9-A5BA-546D-A6E1-E813744AE2A3&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=50EDCE34-DAEB-5E91-BC63-D438DAB812DA&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=85A9C59F-4F17-551E-A27F-31C45D481C5F&utm_source=rss&utm_medium=rss)
+  - [Exploit for Heap-based Buffer Overflow in Microsoft exploit](https://sploitus.com/exploit?id=74CC6AFB-86FC-5129-80CC-141F1D29B338&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Apple Ipados exploit](https://sploitus.com/exploit?id=19E5C0C2-0ADB-5CE5-9AD5-4D4B19A95247&utm_source=rss&utm_medium=rss)
   - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow exploit](https://sploitus.com/exploit?id=559C6DAA-CC86-5B56-B4A7-F65B8E5780C0&utm_source=rss&utm_medium=rss)
   - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow exploit](https://sploitus.com/exploit?id=AC1F8429-BAD6-5D3D-8AF3-41CCD89A601E&utm_source=rss&utm_medium=rss)
@@ -92,6 +98,7 @@
   - [sql-injection exploit](https://sploitus.com/exploit?id=B89B3A96-83AC-5B07-95A1-8DF1E84B4B4D&utm_source=rss&utm_medium=rss)
   - [Win32-Exploit-Dev-Labs-Vulnserver- exploit](https://sploitus.com/exploit?id=5C204ADF-4470-5A5B-9B82-4F2BB362B3C7&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out](https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/)
   - [SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/)
   - [The Dreamie alarm clock got me to stop using my phone in bed](https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/)
   - [These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)
@@ -263,6 +270,12 @@
   - [CVE-2026-9384 Totolink A8000RU Web Management cstecgi.cgi setDiagnosisCfg os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9384?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9385 Totolink A8000RU Web Management cstecgi.cgi setTracerouteCfg os command injection](https://vulners.com/cve/CVE-2026-9385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9385 Totolink A8000RU Web Management cstecgi.cgi setTracerouteCfg os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9387 Totolink A8000RU Web Management cstecgi.cgi setUpgradeFW os command injection](https://vulners.com/cve/CVE-2026-9387?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9387 Totolink A8000RU Web Management cstecgi.cgi setUpgradeFW os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9387?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9388 Totolink A8000RU Web Management cstecgi.cgi setScheduleCfg os command injection](https://vulners.com/cve/CVE-2026-9388?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9388 Totolink A8000RU Web Management cstecgi.cgi setScheduleCfg os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9388?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9389 Tenda F456 L7Im frmL7ImForm buffer overflow](https://vulners.com/cve/CVE-2026-9389?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9389 Tenda F456 L7Im frmL7ImForm buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-9389?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Database-Exploitation-Manual](https://vulners.com/githubexploit/0015C9FF-C5C5-5DAC-88F3-84542BA62C01?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [evershop-stored-xss-cve](https://vulners.com/githubexploit/5105E4EC-12F2-5777-8E75-A3DF306D1800?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-0926](https://vulners.com/githubexploit/1B9C6622-D743-5371-8395-89787C259520?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -270,6 +283,7 @@
   - [Exploit for CVE-2026-4885](https://vulners.com/githubexploit/4E8D6B62-3ADF-5D83-889E-739A0E3DD7CC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React](https://vulners.com/githubexploit/50EDCE34-DAEB-5E91-BC63-D438DAB812DA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React](https://vulners.com/githubexploit/85A9C59F-4F17-551E-A27F-31C45D481C5F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Heap-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/74CC6AFB-86FC-5129-80CC-141F1D29B338?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Apple Ipados](https://vulners.com/githubexploit/19E5C0C2-0ADB-5CE5-9AD5-4D4B19A95247?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow](https://vulners.com/githubexploit/559C6DAA-CC86-5B56-B4A7-F65B8E5780C0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow](https://vulners.com/githubexploit/AC1F8429-BAD6-5D3D-8AF3-41CCD89A601E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
