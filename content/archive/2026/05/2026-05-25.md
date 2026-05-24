@@ -19,6 +19,8 @@
   - [Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)
 - Vulners.com RSS Feed
   - [ClipBucket-EDB-44250](https://vulners.com/githubexploit/81738E6F-592A-558F-886D-1F2C08F70045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9394 Besen BS20 EV Charging Station Bluetooth Low Energy weak password](https://vulners.com/cve/CVE-2026-9394?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9394 Besen BS20 EV Charging Station Bluetooth Low Energy weak password](https://vulners.com/cvelist/CVELIST:CVE-2026-9394?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-13673](https://vulners.com/githubexploit/96CCC73F-82BC-543A-83A5-59B99E658BD2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Input Validation in Adobe Commerce](https://vulners.com/githubexploit/93C77ACD-C1F0-5CC1-94B8-B3B0112F0F96?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Cmsmadesimple Cms_Made_Simple](https://vulners.com/githubexploit/281500D0-CEF4-5D3A-B207-AFB2D8D6BAD0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
