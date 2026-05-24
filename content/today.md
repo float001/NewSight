@@ -3,6 +3,7 @@
 - Hacker News Frontpage
   - [CA declares state of emergency as fire crews race to contain toxic chemical leak](https://www.bbc.com/news/articles/c3w2l249j8go)
   - [Don't Roll Your Own](https://susam.net/do-not-roll-your-own.html)
+  - [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
   - [Polsia raised $30M; source map: fake ARR, dead users, god-mode over your company](https://zero-arr.vercel.app)
   - [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
 - HackerNoon
@@ -19,6 +20,7 @@
   - [Exploit for Inclusion of Functionality from Untrusted Control Sphere in Langflow exploit](https://sploitus.com/exploit?id=AC1F8429-BAD6-5D3D-8AF3-41CCD89A601E&utm_source=rss&utm_medium=rss)
   - [exploits exploit](https://sploitus.com/exploit?id=62399653-938A-5715-9E77-8D49CBEE3BE4&utm_source=rss&utm_medium=rss)
   - [icg-hackathon-api-server-exploits exploit](https://sploitus.com/exploit?id=1C338252-B789-52CF-ABBA-5B6CAD16EFB0&utm_source=rss&utm_medium=rss)
+  - [programming-for-penetration-testing-buffer-overflow-exploit exploit](https://sploitus.com/exploit?id=12ABD7B2-CA54-5E16-BC07-5FAF1D40C8ED&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/)
   - [These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)
@@ -76,5 +78,10 @@
   - [exploits](https://vulners.com/githubexploit/62399653-938A-5715-9E77-8D49CBEE3BE4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [icg-hackathon-api-server-exploits](https://vulners.com/githubexploit/1C338252-B789-52CF-ABBA-5B6CAD16EFB0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://vulners.com/thn/THN:1F5DB06F0A1CBAE3C17369D47934772C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [programming-for-penetration-testing-buffer-overflow-exploit](https://vulners.com/githubexploit/12ABD7B2-CA54-5E16-BC07-5FAF1D40C8ED?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Stored-XSS-in-Inventory-System-using-PHP-and-MySQL](https://vulners.com/githubexploit/F25EBE33-64F2-56B1-9C60-5B5A2FB4D486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [微软支付2.5亿美元了结动视暴雪股东诉讼](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%94%AF%E4%BB%982-5%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BA%86%E7%BB%93%E5%8A%A8%E8%A7%86%E6%9A%B4%E9%9B%AA%E8%82%A1%E4%B8%9C%E8%AF%89%E8%AE%BC)
+  - [苹果在Q1首次荣登全球智能手机市场榜首](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%9C%A8Q1%E9%A6%96%E6%AC%A1%E8%8D%A3%E7%99%BB%E5%85%A8%E7%90%83%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E6%A6%9C%E9%A6%96)
