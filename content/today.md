@@ -3,8 +3,14 @@
 - 36氪
   - [AMD宣布下一代EPYC CPU进入量产](https://36kr.com/newsflashes/3822607641841801?f=rss)
   - [“天韵相机”项目负责人：香港航天员操作港研仪器意义重大](https://36kr.com/newsflashes/3822609989734531?f=rss)
+  - [两次流拍后，王健林名下上海万达小额贷款70%股权将被变卖](https://36kr.com/newsflashes/3822659880308870?f=rss)
   - [华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长](https://36kr.com/newsflashes/3822612389941383?f=rss)
+  - [国家统计局：5月中旬流通领域重要生产资料20种产品价格上涨](https://36kr.com/newsflashes/3822660594421888?f=rss)
+  - [国家统计局：5月中旬生猪（外三元）价格环比下跌1%](https://36kr.com/newsflashes/3822656512921987?f=rss)
   - [我国中东部局地降雨量或破纪录 华南江南多地将现高温](https://36kr.com/newsflashes/3822609558196610?f=rss)
+  - [韩国4月中东原油进口同比下滑37%](https://36kr.com/newsflashes/3822659387265160?f=rss)
+- Cybersecurity News
+  - [The 10,000-Bug AI: How Anthropic’s Secret “Mythos” Model is Rewriting Cyber-Resilience](https://securityonline.info/anthropic-project-glasswing-claude-mythos-vulnerability-detection/)
 - Hacker News Frontpage
   - [CA declares state of emergency as fire crews race to contain toxic chemical leak](https://www.bbc.com/news/articles/c3w2l249j8go)
   - [Don't Roll Your Own](https://susam.net/do-not-roll-your-own.html)
