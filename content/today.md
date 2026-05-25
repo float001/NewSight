@@ -4,13 +4,38 @@
   - [OpenClaw 才是 100 天前的事情，整个快速的进展，却恍如隔世。](https://2libra.com/post/ai-updates/wZkBDci)
   - [运动打卡贴](https://2libra.com/post/sports/OVHgCWG)
 - 36氪
+  - [8点1氪丨“壹号土猪”商标被宣告无效；山西煤矿爆炸时近一半下井工人在系统中查不到有效信息；小米通报空调抽真空造假事件](https://36kr.com/p/3823941399826566?f=rss)
+  - [AI数据中心电力需求催热A股电力设备板块](https://36kr.com/newsflashes/3823942860951682?f=rss)
+  - [A股市场波动有所放大，科技主线韧性仍存，机构：建议聚焦盈利兑现和高景气方向](https://36kr.com/newsflashes/3823914672181641?f=rss)
+  - [中信建投：医疗器械板块业绩估值双修复](https://36kr.com/newsflashes/3823936985387139?f=rss)
+  - [优步董事会讨论提高对Delivery Hero收购报价](https://36kr.com/newsflashes/3823950108283013?f=rss)
+  - [内外资机构密集调研，瞄准A股景气赛道](https://36kr.com/newsflashes/3823926520435075?f=rss)
+  - [年内69家公募机构高管发生变动](https://36kr.com/newsflashes/3823910257594755?f=rss)
+  - [年内公募机构参与A股公司定增获配超282亿元](https://36kr.com/newsflashes/3823917589778563?f=rss)
+  - [年内已有22家港股公司退市](https://36kr.com/newsflashes/3823909646635396?f=rss)
+  - [政策红利持续释放，今年以来科创债发行超8000亿元](https://36kr.com/newsflashes/3823911831572608?f=rss)
+  - [新型政策性金融工具如箭在弦，年内基建投资仍具充足增长韧性](https://36kr.com/newsflashes/3823910799790473?f=rss)
+  - [智能戒指厂商Oura在美秘密提交上市申请](https://36kr.com/newsflashes/3823949346787461?f=rss)
+  - [河南“十五五”规划纲要：加快中原量子谷、卫星产业园区等产业基地建设](https://36kr.com/newsflashes/3823931952566657?f=rss)
+  - [河南“十五五”规划纲要：培育壮大人工智能、商业航天等特色产业](https://36kr.com/newsflashes/3823935406707077?f=rss)
+  - [澳大利亚矿业巨头FMG宣布董事会变更：前CEO伊丽莎白·盖恩斯辞任执行董事](https://36kr.com/newsflashes/3823929011114119?f=rss)
+  - [现货白银日内涨幅扩大至4%](https://36kr.com/newsflashes/3823912121487751?f=rss)
+  - [理财产品提前终止趋于常态化，主动“瘦身”成理财公司风控新策略](https://36kr.com/newsflashes/3823915505963140?f=rss)
   - [神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”](https://36kr.com/newsflashes/3823877195272322?f=rss)
   - [美国罗素指数调整，谷歌与AMD被调出罗素1000价值指数](https://36kr.com/newsflashes/3823878173069440?f=rss)
+  - [董秘监管规则正式施行，近千家上市公司启动董秘专职化调整](https://36kr.com/newsflashes/3823920423342472?f=rss)
+  - [融资模式持续优化，金融活水赋能城市更新](https://36kr.com/newsflashes/3823913541587074?f=rss)
+  - [资金涌入成长风格ETF，韩国投资者积极买入中国标的](https://36kr.com/newsflashes/3823908434841984?f=rss)
+  - [险资今年以来调研A股公司5723次，硬科技是主线](https://36kr.com/newsflashes/3823916402905481?f=rss)
 - daringfireball.net
   - [Why Steve Kerr Stayed With the Warriors](https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry)
+- Emergent Minds | paddo.dev
+  - [The Seat Was Never Priced for the Fleet](https://paddo.dev/blog/seat-priced-for-the-fleet/)
 - ongoing by Tim Bray
   - [Tab Trick](https://www.tbray.org/ongoing/When/202x/2026/05/24/Tab-Lore)
 - simonwillison.net
+  - [datasette 1.0a30](https://simonwillison.net/2026/May/24/datasette/#atom-everything)
+  - [datasette-agent 0.1a4](https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything)
   - [Quoting Armin Ronacher](https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [ClipBucket-EDB-44250 exploit](https://sploitus.com/exploit?id=81738E6F-592A-558F-886D-1F2C08F70045&utm_source=rss&utm_medium=rss)
@@ -38,6 +63,10 @@
   - [CVE-2026-9401 Edimax BR-6675nD POST Request formWanTcpipSetup buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-9401?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9402 Edimax BR-6675nD POST Request formWlanMP command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9403 Edimax BR-6675nD POST Request formWlSiteSurvey buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-9403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9405 Totolink A8000RU Web Management cstecgi.cgi setGameSpeedCfg os command injection](https://vulners.com/cve/CVE-2026-9405?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9405 Totolink A8000RU Web Management cstecgi.cgi setGameSpeedCfg os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9405?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9406 Totolink A8000RU Web Management cstecgi.cgi setRemoteCfg os command injection](https://vulners.com/cve/CVE-2026-9406?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9406 Totolink A8000RU Web Management cstecgi.cgi setRemoteCfg os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9406?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [EUVD-2026-31601](https://vulners.com/euvd/EUVD-2026-31601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [EUVD-2026-31602](https://vulners.com/euvd/EUVD-2026-31602?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [EUVD-2026-31604](https://vulners.com/euvd/EUVD-2026-31604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -51,3 +80,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]基于大模型的下一代杀毒引擎](https://key08.com/index.php/2026/05/25/3197.html)
+- 黑海洋
+  - [谷歌上诉反垄断裁决，辩称搜索成功全靠产品创新而非排他协议](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E8%AF%89%E5%8F%8D%E5%9E%84%E6%96%AD%E8%A3%81%E5%86%B3-%E8%BE%A9%E7%A7%B0%E6%90%9C%E7%B4%A2%E6%88%90%E5%8A%9F%E5%85%A8%E9%9D%A0%E4%BA%A7%E5%93%81%E5%88%9B%E6%96%B0%E8%80%8C%E9%9D%9E%E6%8E%92%E4%BB%96%E5%8D%8F%E8%AE%AE)
