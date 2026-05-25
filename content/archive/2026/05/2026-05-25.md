@@ -3,6 +3,7 @@
 - 2Libra
   - [OpenClaw 才是 100 天前的事情，整个快速的进展，却恍如隔世。](https://2libra.com/post/ai-updates/wZkBDci)
   - [【投票】还有人用 T9 布局吗？你手机用的什么输入法键盘？](https://2libra.com/post/phone/xALW3l3)
+  - [【💰】#88vip 2026-05-25 网易云 41r ｜优酷或芒果 36r](https://2libra.com/post/second-hand/OHe2Y59)
   - [【💰】现在开发 android 应用都用什么工具或是语言啦？](https://2libra.com/post/programming-languages/xWpOUYK)
   - [作为竞拍终极欧皇，这不得庆祝一下，快来沾沾欧气...](https://2libra.com/post/forum-function/2b8ekaz)
   - [戒色的第 8 小时，此时，无事发生！](https://2libra.com/post/personal-life/H7eLGWo)
@@ -10,6 +11,7 @@
   - [求推荐，随身 wifi](https://2libra.com/post/recommendations/qO06_tk)
   - [账号所属权的一点点疑问](https://2libra.com/post/community/PG8l-QR)
   - [运动打卡贴](https://2libra.com/post/sports/OVHgCWG)
+  - [这个月脸也太黑了吧 🌚](https://2libra.com/post/forum-function/zZNAjqq)
   - [闲鱼上的贩子这么多啊，怎么全是机器人](https://2libra.com/post/social-observation/Wip0iPv)
   - [阿里云 DNS-公网权威解析免费版限速通知！](https://2libra.com/post/servers/2Lua_9N)
 - 36氪
@@ -25,6 +27,7 @@
   - [ima Copilot今日全面开放，并发布新能力知识号支持发布Skill](https://36kr.com/newsflashes/3824136947437704?f=rss)
   - [TCL科技：目前对玻璃基封装领域尚处于前期调研与技术预研阶段](https://36kr.com/newsflashes/3824241872490631?f=rss)
   - [“具脑磐石”完成新一轮亿元级融资](https://36kr.com/newsflashes/3824042643771523?f=rss)
+  - [“天机智能”完成10亿元融资](https://36kr.com/newsflashes/3824259717566848?f=rss)
   - [“蓝点触控”完成C++轮数亿元人民币融资](https://36kr.com/newsflashes/3824077372690569?f=rss)
   - [“黑格科技”完成超3亿元人民币C轮融资](https://36kr.com/newsflashes/3824044595679619?f=rss)
   - [一季度63家人身险公司合计银保渠道保费占比近48%](https://36kr.com/newsflashes/3823962985795975?f=rss)
@@ -49,6 +52,7 @@
   - [华为哈勃今年已入股多家公司](https://36kr.com/newsflashes/3824182483062919?f=rss)
   - [华为正式发表半导体领域新定律](https://36kr.com/newsflashes/3824028118962304?f=rss)
   - [国金证券：太空光伏建议围绕四大主线布局](https://36kr.com/newsflashes/3823969022349704?f=rss)
+  - [外资上周净抛售逾10万亿韩元三星和SK海力士股票](https://36kr.com/newsflashes/3824272576041090?f=rss)
   - [央行今日开展2580亿元7天期逆回购操作](https://36kr.com/newsflashes/3824036334440583?f=rss)
   - [奥克股份：参股公司申请公开发行股票获得中国证监会同意注册批复](https://36kr.com/newsflashes/3823974426202242?f=rss)
   - [寒武纪涨逾11%，股价刷新历史新高](https://36kr.com/newsflashes/3824053542326402?f=rss)
@@ -81,8 +85,10 @@
   - [理财产品提前终止趋于常态化，主动“瘦身”成理财公司风控新策略](https://36kr.com/newsflashes/3823915505963140?f=rss)
   - [碧水源：公司没有云南水务的应收账款](https://36kr.com/newsflashes/3823982239388041?f=rss)
   - [神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”](https://36kr.com/newsflashes/3823877195272322?f=rss)
+  - [科创50指数大涨超5%](https://36kr.com/newsflashes/3824249262706817?f=rss)
   - [科技主题新基金发行火热，AI后市预判现分歧](https://36kr.com/newsflashes/3823961644535944?f=rss)
   - [立讯精密：光铜并进路线与头部客户布局光芯片、光纤厂商并不矛盾](https://36kr.com/newsflashes/3824003104362624?f=rss)
+  - [经港珠澳大桥珠海公路口岸出入境港澳单牌车总量突破1000万辆次](https://36kr.com/newsflashes/3824279909372041?f=rss)
   - [美国罗素指数调整，谷歌与AMD被调出罗素1000价值指数](https://36kr.com/newsflashes/3823878173069440?f=rss)
   - [自主攻克技术难题，胜利济阳页岩油产量突破200万吨](https://36kr.com/newsflashes/3823992301916548?f=rss)
   - [董秘监管规则正式施行，近千家上市公司启动董秘专职化调整](https://36kr.com/newsflashes/3823920423342472?f=rss)
@@ -93,8 +99,10 @@
   - [银河证券：钠离子电池行业2026年有望迎来产业奇点](https://36kr.com/newsflashes/3824000341594241?f=rss)
   - [阿里达摩院玄铁9系列处理器正式适配安卓，RISC-V加速规模化商业落地](https://36kr.com/newsflashes/3824113690546567?f=rss)
   - [险资今年以来调研A股公司5723次，硬科技是主线](https://36kr.com/newsflashes/3823916402905481?f=rss)
+  - [韩国股市将上线个股杠杆ETF，或受到散户热捧](https://36kr.com/newsflashes/3824284767539335?f=rss)
   - [飞凯材料：公司二季度光纤涂料排班合理、产线利用率较高](https://36kr.com/newsflashes/3824174801408392?f=rss)
   - [香港交易所回应“算力期货布局规划”：暂无评论可提供，将来如有相关信息将及时公布](https://36kr.com/newsflashes/3824047189971332?f=rss)
+  - [马斯克：Grok基础模型V9-Medium（1.5T）已完成训练](https://36kr.com/newsflashes/3824296477249929?f=rss)
   - [高德问店选址Skill接入钉钉悟空](https://36kr.com/newsflashes/3824063200301449?f=rss)
 - Cybersecurity News
   - [Critical TYPO3 Extension Exploit: Content Element Selector Flaw (CVE-2026-46725) Triggers Unauthenticated RCE](https://securityonline.info/typo3-extension-content-element-selector-rce-cve-2026-46725/)
@@ -129,6 +137,8 @@
   - [exploits exploit](https://sploitus.com/exploit?id=A6807947-0A17-59A1-9E52-AE323E109FE2&utm_source=rss&utm_medium=rss)
   - [netsec-agent exploit](https://sploitus.com/exploit?id=486C0AC5-4613-5BB2-A01C-57C320F5C264&utm_source=rss&utm_medium=rss)
   - [rt-toolkit exploit](https://sploitus.com/exploit?id=D0E8ECCE-3996-5262-972C-FC43595E0E65&utm_source=rss&utm_medium=rss)
+- SumSec's Blog
+  - [模型人人都能用，什么才是你能带走的？我的答案是一个可进化的SKILL库](https://sumsec.me/2026/why-personal-agent-skills-repo.html)
 - TechCrunch
   - [6 kitchen gadgets that make adulting feel easier](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/)
   - [Everyone is navigating AI security in real time — even Google](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)
@@ -181,8 +191,10 @@
   - [exploits](https://vulners.com/githubexploit/A6807947-0A17-59A1-9E52-AE323E109FE2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [netsec-agent](https://vulners.com/githubexploit/486C0AC5-4613-5BB2-A01C-57C320F5C264?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [rt-toolkit](https://vulners.com/githubexploit/D0E8ECCE-3996-5262-972C-FC43595E0E65?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO](https://vulners.com/thn/THN:5A78D74D437AA99549A244FECBD74F10?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [火狐浏览器正在预览2026新设计(新星项目) 现在可以通过每夜构建版提前体验](https://buaq.net/go-418624.html)
+  - [白嫖启动！新中转站PulseNeko Bridge免费无限用14天 提供Claude等诸多模型](https://buaq.net/go-418655.html)
   - [苹果WWDC将成库克“绝唱” 董事长身份不再发表主题演讲](https://buaq.net/go-418620.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
