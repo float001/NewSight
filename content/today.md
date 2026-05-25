@@ -2,14 +2,34 @@
 
 - 2Libra
   - [买基金赚钱了，给秤友发点羊毛 今晚 gpt5.5 fast 分组 400 刀 速蹬](https://2libra.com/post/ai-gateway/BCvpKNf)
+- daringfireball.net
+  - [The History of ‘OK’](https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay)
+- Data Breach
+  - [340 Million OnlyFans Profiles Allegedly Rebuilt from Leaks](https://securityaffairs.com/192643/cyber-crime/340-million-onlyfans-profiles-allegedly-rebuilt-from-leaks.html)
+- Fidelis Security
+  - [The Role of Endpoint Forensics in Ransomware Investigations](https://fidelissecurity.com/threatgeek/endpoint-security/endpoint-forensics-in-ransomware-investigations/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2012-1803 exploit](https://sploitus.com/exploit?id=7BB1119D-5632-56F1-992B-276593906EE1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-33712 exploit](https://sploitus.com/exploit?id=A85EEC31-EAC4-57B3-A574-1BAE8302BA48&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Restriction of XML External Entity Reference in Adobe Commerce exploit](https://sploitus.com/exploit?id=A364DBD6-75C0-5592-99E6-15C90F955355&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [What ClickUp’s mass layoff tells us about the future of work](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)
 - Vulners.com RSS Feed
   - [CVE-2026-9473 c-rick jimeng-mcp api.ts generateVideo path traversal](https://vulners.com/cve/CVE-2026-9473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9473 c-rick jimeng-mcp api.ts generateVideo path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-9473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9477 Totolink A8000RU Web Management cstecgi.cgi setAccessDeviceCfg os command injection](https://vulners.com/cve/CVE-2026-9477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9477 Totolink A8000RU Web Management cstecgi.cgi setAccessDeviceCfg os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9478 Totolink A8000RU Web Management cstecgi.cgi setParentalRules os command injection](https://vulners.com/cve/CVE-2026-9478?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9478 Totolink A8000RU Web Management cstecgi.cgi setParentalRules os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9478?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9479 Edimax EW-7438RPn formLogout stack-based overflow](https://vulners.com/cve/CVE-2026-9479?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9479 Edimax EW-7438RPn formLogout stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-9479?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2012-1803](https://vulners.com/githubexploit/7BB1119D-5632-56F1-992B-276593906EE1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-33712](https://vulners.com/githubexploit/A85EEC31-EAC4-57B3-A574-1BAE8302BA48?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Restriction of XML External Entity Reference in Adobe Commerce](https://vulners.com/githubexploit/A364DBD6-75C0-5592-99E6-15C90F955355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [A Swimmer Broke a World Record at the Enhanced Games](https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/)
+  - [Best Memorial Day Mattress Deals: Helix, Saatva (2026)](https://www.wired.com/story/memorial-day-mattress-deals-2026-2/)
+  - [Memorial Day Tech Deals: Sony, Apple, Anker, and More](https://www.wired.com/story/memorial-day-tech-deals-2026-2/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
