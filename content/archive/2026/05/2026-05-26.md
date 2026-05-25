@@ -4,17 +4,27 @@
   - [买基金赚钱了，给秤友发点羊毛 今晚 gpt5.5 fast 分组 400 刀 速蹬](https://2libra.com/post/ai-gateway/BCvpKNf)
 - daringfireball.net
   - [The History of ‘OK’](https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay)
+  - [Trump Mobile Website Exposed the Number of Pre-Orders — Both Completed and Abandoned — and the Associated Customer Information](https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information)
 - Data Breach
   - [340 Million OnlyFans Profiles Allegedly Rebuilt from Leaks](https://securityaffairs.com/192643/cyber-crime/340-million-onlyfans-profiles-allegedly-rebuilt-from-leaks.html)
 - Fidelis Security
   - [The Role of Endpoint Forensics in Ransomware Investigations](https://fidelissecurity.com/threatgeek/endpoint-security/endpoint-forensics-in-ransomware-investigations/)
+- Hacker News Frontpage
+  - [Alaska's oil revival sparks a new energy rush Into the Arctic](https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/)
+  - [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law)
+  - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/workweave)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2012-1803 exploit](https://sploitus.com/exploit?id=7BB1119D-5632-56F1-992B-276593906EE1&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-33137 exploit](https://sploitus.com/exploit?id=6A54DAD9-2BC4-566C-ADCD-9042F845AEC0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-33712 exploit](https://sploitus.com/exploit?id=A85EEC31-EAC4-57B3-A574-1BAE8302BA48&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of XML External Entity Reference in Adobe Commerce exploit](https://sploitus.com/exploit?id=A364DBD6-75C0-5592-99E6-15C90F955355&utm_source=rss&utm_medium=rss)
+  - [MS16-032-Cobalt-Strike-LPE-BOF exploit](https://sploitus.com/exploit?id=370BF8DA-EF5F-51F1-AD02-E28072D52F11&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [What ClickUp’s mass layoff tells us about the future of work](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)
+- The Verge
+  - [Cox Media fined after bragging it spied on users through their phones](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine)
 - Vulners.com RSS Feed
+  - [CVE-2026-39831](https://vulners.com/circl/CIRCL:CVE-2026-39831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9473 c-rick jimeng-mcp api.ts generateVideo path traversal](https://vulners.com/cve/CVE-2026-9473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9473 c-rick jimeng-mcp api.ts generateVideo path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-9473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9477 Totolink A8000RU Web Management cstecgi.cgi setAccessDeviceCfg os command injection](https://vulners.com/cve/CVE-2026-9477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -23,9 +33,16 @@
   - [CVE-2026-9478 Totolink A8000RU Web Management cstecgi.cgi setParentalRules os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9478?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9479 Edimax EW-7438RPn formLogout stack-based overflow](https://vulners.com/cve/CVE-2026-9479?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9479 Edimax EW-7438RPn formLogout stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-9479?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9481](https://vulners.com/attackerkb/AKB:FD021C11-D5D6-4C5F-AAA4-3A9FBE6714B4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9481 Edimax EW-7438RPn formStats stack-based overflow](https://vulners.com/cve/CVE-2026-9481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9481 Edimax EW-7438RPn formStats stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-9481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9482 Edimax EW-7438RPn formSDHCP stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-9482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9483 SourceCodester Student Grades Management System grades.php improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-9483?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2012-1803](https://vulners.com/githubexploit/7BB1119D-5632-56F1-992B-276593906EE1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-33137](https://vulners.com/githubexploit/6A54DAD9-2BC4-566C-ADCD-9042F845AEC0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-33712](https://vulners.com/githubexploit/A85EEC31-EAC4-57B3-A574-1BAE8302BA48?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Restriction of XML External Entity Reference in Adobe Commerce](https://vulners.com/githubexploit/A364DBD6-75C0-5592-99E6-15C90F955355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [MS16-032-Cobalt-Strike-LPE-BOF](https://vulners.com/githubexploit/370BF8DA-EF5F-51F1-AD02-E28072D52F11?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Swimmer Broke a World Record at the Enhanced Games](https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/)
   - [Best Memorial Day Mattress Deals: Helix, Saatva (2026)](https://www.wired.com/story/memorial-day-mattress-deals-2026-2/)
