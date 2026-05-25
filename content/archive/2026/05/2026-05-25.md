@@ -213,6 +213,7 @@
   - [The Seat Was Never Priced for the Fleet](https://paddo.dev/blog/seat-priced-for-the-fleet/)
 - Hacker News Frontpage
   - [Magnifica Humanitas (Encyclical Letter)](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
+  - [Pope Leo XIV says AI must serve humanity, not the powerful few](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
   - [Search engines alternatives now that Google isn't Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
 - HackerNews
   - [荷兰扣押了一家支持网络攻击的托管服务商的 800 台服务器](http://0.0.0.0:8080/post/64259)
@@ -236,6 +237,8 @@
   - [Why I can't stand the word "driven"](https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/)
 - Kali Linux Tutorials
   - [List Installed Packages on Ubuntu Like a Pro](https://kalilinuxtutorials.com/list-installed-packages/)
+- krebsonsecurity.com
+  - [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 - ongoing by Tim Bray
   - [Tab Trick](https://www.tbray.org/ongoing/When/202x/2026/05/24/Tab-Lore)
 - pluralistic.net
@@ -258,6 +261,7 @@
   - [Exploit for CVE-2026-38427 exploit](https://sploitus.com/exploit?id=F03A36CE-08F4-59DF-B4D9-99156AEA0C10&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=27CA994D-1B4B-5CBB-BA5F-4B69CFD6BBAF&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-47101 exploit](https://sploitus.com/exploit?id=B89C55B6-BB97-51C5-8FE2-2043E73BE1A8&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-47102 exploit](https://sploitus.com/exploit?id=16141140-4972-503C-85D5-308A4B232C22&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=3E3C8061-171A-5938-8471-03B786DB14FB&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Adobe Commerce exploit](https://sploitus.com/exploit?id=93C77ACD-C1F0-5CC1-94B8-B3B0112F0F96&utm_source=rss&utm_medium=rss)
   - [Exploit for Infinite Loop in Dbgpt Db-Gpt exploit](https://sploitus.com/exploit?id=33EE0937-5E4A-5218-B29B-E8409CBA9ED5&utm_source=rss&utm_medium=rss)
@@ -272,11 +276,13 @@
 - SumSec's Blog
   - [模型人人都能用，什么才是你能带走的？我的答案是一个可进化的SKILL库](https://sumsec.me/2026/why-personal-agent-skills-repo.html)
 - TechCrunch
+  - [5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase](https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/)
   - [6 kitchen gadgets that make adulting feel easier](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/)
   - [Everyone is navigating AI security in real time — even Google](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)
   - [Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)
 - The Decoder
   - [AI models often give the right answers but point to the wrong sources](https://the-decoder.com/ai-models-often-give-the-right-answers-but-point-to-the-wrong-sources/)
+  - [At the launch of Pope Leo XIV's encyclical, Anthropic co-founder says AI models show signs of introspection](https://the-decoder.com/at-the-launch-of-pope-leo-xivs-encyclical-anthropic-co-founder-says-ai-models-show-signs-of-introspection/)
   - [Google Deepmind's AlphaProof Nexus solves decades-old math problems for a few hundred dollars](https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/)
 - VulDB Recent Entries
   - [CVE-2026-25193 | Gallagher Command Centre Server log file](https://vuldb.com/vuln/365475)
@@ -310,6 +316,8 @@
   - [CVE-2026-45361 Apache Airflow Google provider: SSH host key verification disabled in ComputeEngineSSHHook (paramiko AutoAddPolicy default)](https://vulners.com/cve/CVE-2026-45361?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45361 Apache Airflow Google provider: SSH host key verification disabled in ComputeEngineSSHHook (paramiko AutoAddPolicy default)](https://vulners.com/cvelist/CVELIST:CVE-2026-45361?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48832](https://vulners.com/cvelist/CVELIST:CVE-2026-48832?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9058 Improper Certificate Verification in Szafir SDK](https://vulners.com/cve/CVE-2026-9058?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9058 Improper Certificate Verification in Szafir SDK](https://vulners.com/cvelist/CVELIST:CVE-2026-9058?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9274 Information Exposure Vulnerability in CP-Plus Wi-Fi Camera](https://vulners.com/cve/CVE-2026-9274?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9274 Information Exposure Vulnerability in CP-Plus Wi-Fi Camera](https://vulners.com/cvelist/CVELIST:CVE-2026-9274?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9394 Besen BS20 EV Charging Station Bluetooth Low Energy weak password](https://vulners.com/cve/CVE-2026-9394?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -343,6 +351,8 @@
   - [CVE-2026-9445 SourceCodester Simple POS and Inventory System File Extension addproduct.php unrestricted upload](https://vulners.com/cvelist/CVELIST:CVE-2026-9445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9446 SourceCodester Simple POS and Inventory System edit_customer.php sql injection](https://vulners.com/cve/CVE-2026-9446?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9446 SourceCodester Simple POS and Inventory System edit_customer.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9446?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9461 Edimax EW-7438RPn formRadius stack-based overflow](https://vulners.com/cve/CVE-2026-9461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9461 Edimax EW-7438RPn formRadius stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-9461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-X4992-Uniswap-PoC](https://vulners.com/githubexploit/5D30B3B5-EB47-5802-810C-946C66DDD919?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [dvwa_web_security_labs](https://vulners.com/githubexploit/1BA82890-B9C2-5B5A-BF01-241E59E8B1B6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [EUVD-2026-31601](https://vulners.com/euvd/EUVD-2026-31601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -359,6 +369,7 @@
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/27CA994D-1B4B-5CBB-BA5F-4B69CFD6BBAF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-43494](https://vulners.com/githubexploit/D7730908-0A42-510D-B9EE-C4FC91E73D21?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-47101](https://vulners.com/githubexploit/B89C55B6-BB97-51C5-8FE2-2043E73BE1A8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-47102](https://vulners.com/githubexploit/16141140-4972-503C-85D5-308A4B232C22?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React](https://vulners.com/githubexploit/3E3C8061-171A-5938-8471-03B786DB14FB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Input Validation in Adobe Commerce](https://vulners.com/githubexploit/93C77ACD-C1F0-5CC1-94B8-B3B0112F0F96?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Infinite Loop in Dbgpt Db-Gpt](https://vulners.com/githubexploit/33EE0937-5E4A-5218-B29B-E8409CBA9ED5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -378,6 +389,7 @@
   - [XssDaisy](https://vulners.com/githubexploit/313FD06E-EBDF-5389-AF4E-01FA59E37D6A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid](https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/)
+  - [Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)](https://www.wired.com/story/best-memorial-day-deals-2026-2/)
   - [In Defense of My Attachment to This Lululemon Duffel Bag (2026)](https://www.wired.com/story/i-stopped-tolerating-crossbody-pain-thanks-to-this-lululemon-duffel/)
   - [The AI Era Is Creating a Bug Hunting Arms Race](https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/)
   - [These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr](https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/)
