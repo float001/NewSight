@@ -3,14 +3,38 @@
 - 2Libra
   - [买基金赚钱了，给秤友发点羊毛 今晚 gpt5.5 fast 分组 400 刀 速蹬](https://2libra.com/post/ai-gateway/BCvpKNf)
 - 36氪
+  - [13只机器人主题ETF总规模达574亿元](https://36kr.com/newsflashes/3825306996544131?f=rss)
+  - [3D打印系统可快速培育更复杂肠道类器官](https://36kr.com/newsflashes/3825308445119363?f=rss)
+  - [8点1氪丨胖东来投资65亿的“梦之城”开工；“稚晖君”彭志辉正式出任上纬新材董事长；“死了么”App改名“在么在么”](https://36kr.com/p/3825357879497346?f=rss)
+  - [PCB上市公司瞄准高端项目推出扩产计划](https://36kr.com/newsflashes/3825327807189895?f=rss)
+  - [“零一汽车”完成2亿美元B2轮融资](https://36kr.com/newsflashes/3825360953971593?f=rss)
+  - [业绩不错股价反跌，多家券商被投资者反复追问](https://36kr.com/newsflashes/3825323574268804?f=rss)
+  - [中信建投：铍价中枢有望持续抬升](https://36kr.com/newsflashes/3825362307634057?f=rss)
+  - [做“时间的朋友”，主动权益类基金超额收益全面回归](https://36kr.com/newsflashes/3825325617140355?f=rss)
+  - [半导体板块引领A股走强，机构建议关注三条主线](https://36kr.com/newsflashes/3825330498474880?f=rss)
+  - [华泰证券：SpaceX上市或提升商业航天板块投资情绪](https://36kr.com/newsflashes/3825363454644871?f=rss)
+  - [多家人工智能企业月内斩获亿元级融资](https://36kr.com/newsflashes/3825353629782912?f=rss)
+  - [央行加码呵护流动性，资金面将回归均衡偏松](https://36kr.com/newsflashes/3825343844389760?f=rss)
+  - [政策与产业共振，算电协同三大细分赛道迎来价值重估](https://36kr.com/newsflashes/3825339197690756?f=rss)
+  - [欧盟计划对谷歌处以数亿欧元罚款](https://36kr.com/newsflashes/3825301704970888?f=rss)
   - [法拉利发布首款纯电动汽车Luce](https://36kr.com/newsflashes/3825298542203778?f=rss)
+  - [港股IPO储备充足，410家上市申请状态为“处理中”](https://36kr.com/newsflashes/3825306281399170?f=rss)
+  - [特斯拉入局，自动驾驶产业链添动能](https://36kr.com/newsflashes/3825324735992709?f=rss)
+  - [理财资金入市进化论： 借道“固收+”“股”中掘金](https://36kr.com/newsflashes/3825329159377542?f=rss)
+  - [赣锋锂业与MinRes就Mt Marion锂矿建设及地下开采达成最终投资决定](https://36kr.com/newsflashes/3825337025778305?f=rss)
+  - [逾百万亿元贷款到期，银行迎战资产端“大考”](https://36kr.com/newsflashes/3825334050542211?f=rss)
+  - [阿洛酮糖正成为代糖产业“必争之地”，行业产能持续扩容](https://36kr.com/newsflashes/3825331869930377?f=rss)
+  - [陈克明食品：即日起，全面停止生产、销售带有“手擀”相关表述的产品](https://36kr.com/newsflashes/3825358700909190?f=rss)
 - daringfireball.net
+  - [[Sponsor] exe.dev](https://exe.dev/?df)
   - [Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap](https://daringfireball.net/linked/2014/01/29/haynes-aapl)
   - [The History of ‘OK’](https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay)
   - [Thieves Are Texting Threats to Victims of iPhone Theft in London](https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html?unlocked_article_code=1.lFA.OUt7.VJ_FoDpINr0L)
   - [Trump Mobile Website Exposed the Number of Pre-Orders — Both Completed and Abandoned — and the Associated Customer Information](https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information)
 - Data Breach
   - [340 Million OnlyFans Profiles Allegedly Rebuilt from Leaks](https://securityaffairs.com/192643/cyber-crime/340-million-onlyfans-profiles-allegedly-rebuilt-from-leaks.html)
+- Emergent Minds | paddo.dev
+  - [AI Found the Bug. Who's Going to Fix It?](https://paddo.dev/blog/ai-found-the-bug-who-fixes-it/)
 - Fidelis Security
   - [The Role of Endpoint Forensics in Ransomware Investigations](https://fidelissecurity.com/threatgeek/endpoint-security/endpoint-forensics-in-ransomware-investigations/)
 - grantslatton.com
@@ -21,13 +45,16 @@
   - [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law)
   - [Canada losing top talent as workers head to the U.S.](https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/)
   - [Ferrari Luce, Maranello's first ever electric car](https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car)
+  - [Nobody cracks open a programming book anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/)
   - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/workweave)
   - [Yoti age checks share facial photos and device fingerprints with third parties](https://techxplore.com/news/2026-05-online-age-pointless-privacy.html)
 - Sploitus.com Exploits RSS Feed
+  - [-authencesn-poc exploit](https://sploitus.com/exploit?id=7BF63EF6-1CE5-5D7C-8E5E-AEEEC6358898&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2012-1803 exploit](https://sploitus.com/exploit?id=7BB1119D-5632-56F1-992B-276593906EE1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-33137 exploit](https://sploitus.com/exploit?id=6A54DAD9-2BC4-566C-ADCD-9042F845AEC0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-33712 exploit](https://sploitus.com/exploit?id=A85EEC31-EAC4-57B3-A574-1BAE8302BA48&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=DD6A7006-1ABB-5831-85A6-A88F30A724CC&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Access Control in Fiberhome Hg6145F1_Firmware exploit](https://sploitus.com/exploit?id=38BEC4C9-4C8D-5ACB-912D-D3874B1A408E&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of XML External Entity Reference in Adobe Commerce exploit](https://sploitus.com/exploit?id=A364DBD6-75C0-5592-99E6-15C90F955355&utm_source=rss&utm_medium=rss)
   - [exploit-lab exploit](https://sploitus.com/exploit?id=E6812B62-9BA3-552D-B770-87B3114229D0&utm_source=rss&utm_medium=rss)
   - [MS16-032-Cobalt-Strike-LPE-BOF exploit](https://sploitus.com/exploit?id=370BF8DA-EF5F-51F1-AD02-E28072D52F11&utm_source=rss&utm_medium=rss)
@@ -67,6 +94,7 @@
   - [CVE-2026-9533 | Totolink CA750-PoE 6.2c.510 Setting /cgi-bin/cstecgi.cgi recvUpgradeNewFw fwUrl/magicid os command injection](https://vuldb.com/vuln/365560)
   - [CVE-2026-9534 | Totolink CA750-PoE 6.2c.510 Setting /cgi-bin/cstecgi.cgi setWiFiWpsConfig PIN os command injection](https://vuldb.com/vuln/365561)
 - Vulners.com RSS Feed
+  - [-authencesn-poc](https://vulners.com/githubexploit/7BF63EF6-1CE5-5D7C-8E5E-AEEEC6358898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-62745 WordPress Team Showcase plugin <= 1.22.28 - Cross Site Scripting (XSS) vulnerability](https://vulners.com/cve/CVE-2025-62745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-62745 WordPress Team Showcase plugin <= 1.22.28 - Cross Site Scripting (XSS) vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2025-62745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-24545](https://vulners.com/attackerkb/AKB:680CA2B3-1BD4-4012-ADD3-1AD1D5A333E3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -156,10 +184,13 @@
   - [CVE-2026-9512 Totolink CA750-PoE Setting cstecgi.cgi setPasswordCfg os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9512?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9513 Totolink CA750-PoE Setting cstecgi.cgi NTPSyncWithHost os command injection](https://vulners.com/cve/CVE-2026-9513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9513 Totolink CA750-PoE Setting cstecgi.cgi NTPSyncWithHost os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9515 Totolink CA750-PoE Setting cstecgi.cgi setUnloadUserData os command injection](https://vulners.com/cve/CVE-2026-9515?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9515 Totolink CA750-PoE Setting cstecgi.cgi setUnloadUserData os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9515?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2012-1803](https://vulners.com/githubexploit/7BB1119D-5632-56F1-992B-276593906EE1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-33137](https://vulners.com/githubexploit/6A54DAD9-2BC4-566C-ADCD-9042F845AEC0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-33712](https://vulners.com/githubexploit/A85EEC31-EAC4-57B3-A574-1BAE8302BA48?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React](https://vulners.com/githubexploit/DD6A7006-1ABB-5831-85A6-A88F30A724CC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Access Control in Fiberhome Hg6145F1_Firmware](https://vulners.com/githubexploit/38BEC4C9-4C8D-5ACB-912D-D3874B1A408E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Restriction of XML External Entity Reference in Adobe Commerce](https://vulners.com/githubexploit/A364DBD6-75C0-5592-99E6-15C90F955355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [exploit-lab](https://vulners.com/githubexploit/E6812B62-9BA3-552D-B770-87B3114229D0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MS16-032-Cobalt-Strike-LPE-BOF](https://vulners.com/githubexploit/370BF8DA-EF5F-51F1-AD02-E28072D52F11?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -176,3 +207,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [欧洲执法部门黑进 VPN 服务识别勒索组织用户](https://www.solidot.org/story?sid=84397)
+- 黑海洋
+  - [Anthropic模型震动金融圈 欧洲央行紧急开会要求升级网络防御](https://blog.upx8.com/Anthropic%E6%A8%A1%E5%9E%8B%E9%9C%87%E5%8A%A8%E9%87%91%E8%9E%8D%E5%9C%88-%E6%AC%A7%E6%B4%B2%E5%A4%AE%E8%A1%8C%E7%B4%A7%E6%80%A5%E5%BC%80%E4%BC%9A%E8%A6%81%E6%B1%82%E5%8D%87%E7%BA%A7%E7%BD%91%E7%BB%9C%E9%98%B2%E5%BE%A1)
