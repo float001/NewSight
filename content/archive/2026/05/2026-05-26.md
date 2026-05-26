@@ -243,6 +243,12 @@
   - [韩智库将今年经济增长预期上调至2.5%，出口有望增长超过30%](https://36kr.com/newsflashes/3825795723662215?f=rss)
   - [香农芯创：预计2026年来自阿里、腾讯、字节跳动等客户收入有较大增长](https://36kr.com/newsflashes/3825856957977476?f=rss)
   - [马来西亚对金条加征10%进口税，黄金贸易遭遇震荡](https://36kr.com/newsflashes/3825815741764485?f=rss)
+- 404 Media
+  - [‘BusPatrol’ Put AI Cameras in Tens of Thousands of School Buses. Now They Want to Give Cops Access](https://www.404media.co/buspatrol-put-ai-cameras-in-tens-of-thousands-of-school-buses-now-they-want-to-give-cops-access/)
+- Ars Technica
+  - [Analyst on China's spent rocket stages: "Things only continue to get worse"](https://arstechnica.com/space/2026/05/analyst-on-chinas-spent-rocket-stages-things-only-continue-to-get-worse/)
+- Ben's Bites
+  - [Is SaaS dead?](https://www.bensbites.com/p/is-saas-dead)
 - Cerbero Blog
   - [LittleFS Format Package](https://blog.cerbero.io/littlefs-format-package/)
 - Cybersecurity News
@@ -298,6 +304,7 @@
 - idiallo.com
   - [Amber Alert with Spam URL?](https://idiallo.com/byte-size/amber-alert-with-spam-link?src=feed)
 - infosecurity-magazine.com
+  - [BTMOB Android RAT Spreads Through No-Code Builder Tooling](https://www.infosecurity-magazine.com/news/btmob-android-rat-maas-builder/)
   - [India's CERT-In Sets 12-Hour Patch Deadline for Exposed Flaws](https://www.infosecurity-magazine.com/news/cert-in-12-hour-patch-deadline-ai/)
   - [Iran-Linked Hackers Target US Aviation with Phishing and SEO Poisoning Campaign](https://www.infosecurity-magazine.com/news/iranian-hackers-us-aviation/)
 - it-notes.dragas.net
@@ -322,7 +329,9 @@
   - [Exploit for CVE-2026-33712 exploit](https://sploitus.com/exploit?id=A85EEC31-EAC4-57B3-A574-1BAE8302BA48&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=DD6A7006-1ABB-5831-85A6-A88F30A724CC&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Fiberhome Hg6145F1_Firmware exploit](https://sploitus.com/exploit?id=38BEC4C9-4C8D-5ACB-912D-D3874B1A408E&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Input Validation in Siemens 6Bk1602-0Aa12-0Tp0_Firmware exploit](https://sploitus.com/exploit?id=FE566C03-40AC-51B9-BB51-6FB77264D115&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of XML External Entity Reference in Adobe Commerce exploit](https://sploitus.com/exploit?id=A364DBD6-75C0-5592-99E6-15C90F955355&utm_source=rss&utm_medium=rss)
+  - [Exploit for OS Command Injection in Olivetin exploit](https://sploitus.com/exploit?id=B9D62132-F56E-5322-9338-AE191298A577&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Grafana exploit](https://sploitus.com/exploit?id=C745DD53-7AE4-5A94-B669-C401DB0C0BAB&utm_source=rss&utm_medium=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=9B3D53CA-E954-5110-8888-1957B931A61B&utm_source=rss&utm_medium=rss)
   - [exploit-lab exploit](https://sploitus.com/exploit?id=E6812B62-9BA3-552D-B770-87B3114229D0&utm_source=rss&utm_medium=rss)
@@ -331,9 +340,11 @@
   - [YKWriter exploit](https://sploitus.com/exploit?id=06132C20-3357-5CD6-B6C7-17A68C70D49B&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon fulfillment competitor Stord raises $250M at $3B valuation](https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/)
+  - [TechCrunch Disrupt 2026 Early Bird ticket rates end May 29](https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/)
   - [What ClickUp’s mass layoff tells us about the future of work](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)
 - The Decoder
   - [AI-hallucinated citations are creeping into papers that shape clinical guidelines, researchers warn](https://the-decoder.com/ai-hallucinated-citations-are-creeping-into-papers-that-shape-clinical-guidelines-researchers-warn/)
+  - [Google Cloud COO says AI security belongs in the boardroom, not just the server room](https://the-decoder.com/google-cloud-coo-says-ai-security-belongs-in-the-boardroom-not-just-the-server-room/)
   - [The AI justice gap solution is slowly turning into an existential paperwork nightmare for US federal courts](https://the-decoder.com/the-ai-justice-gap-solution-is-slowly-turning-into-an-existential-paperwork-nightmare-for-us-federal-courts/)
   - [Y Combinator founder Paul Graham says AI-written founder emails feel like being lied to](https://the-decoder.com/y-combinator-founder-paul-graham-says-ai-written-founder-emails-feel-like-being-lied-to/)
 - The Verge
@@ -341,9 +352,11 @@
   - [AI warfare is already here](https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines)
   - [Cox Media fined after bragging it spied on users through their phones](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine)
   - [Ferrari reveals its first EV, with design help from Jony Ive](https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom)
+  - [How clips ate the internet](https://www.theverge.com/podcast/937188/clips-internet-feed-fitbit-air-vergecast)
   - [Nobody wants to tell me why they only listen to their own Suno slop](https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop)
   - [Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery](https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth)
   - [Spotify is narrating magazine articles now](https://www.theverge.com/entertainment/937126/spotify-long-form-magazine-article-narration-availability)
+  - [Sundar Pichai on AI, the future of search, and what’s happening to the web](https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web)
   - [Uber president says AI spending is getting ‘harder to justify’](https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify)
 - troyhunt.com
   - [Welcoming the Bhutanese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/)
@@ -492,6 +505,8 @@
   - [CVE-2026-39436 WordPress CformsII plugin <= 15.1.3 - Cross Site Request Forgery (CSRF) vulnerability](https://vulners.com/cve/CVE-2026-39436?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39436 WordPress CformsII plugin <= 15.1.3 - Cross Site Request Forgery (CSRF) vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-39436?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39831](https://vulners.com/circl/CIRCL:CVE-2026-39831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42151 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-42151?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42151 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-42151?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43827 Apache Shiro: Session fixation: new session is not created after login by default](https://vulners.com/cve/CVE-2026-43827?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43827 Apache Shiro: Session fixation: new session is not created after login by default](https://vulners.com/cvelist/CVELIST:CVE-2026-43827?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43828 Apache Shiro: Shiro's native session and rememberMe cookies do not have secure flag set by default](https://vulners.com/cve/CVE-2026-43828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -532,6 +547,8 @@
   - [CVE-2026-48851](https://vulners.com/cvelist/CVELIST:CVE-2026-48851?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48852](https://vulners.com/cve/CVE-2026-48852?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48852](https://vulners.com/cvelist/CVELIST:CVE-2026-48852?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7374 Kubevirt: kubevirt virt-handler: privilege escalation and node compromise via symlink following vulnerability](https://vulners.com/cve/CVE-2026-7374?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7374 Kubevirt: kubevirt virt-handler: privilege escalation and node compromise via symlink following vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-7374?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9473 c-rick jimeng-mcp api.ts generateVideo path traversal](https://vulners.com/cve/CVE-2026-9473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9473 c-rick jimeng-mcp api.ts generateVideo path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-9473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9477 Totolink A8000RU Web Management cstecgi.cgi setAccessDeviceCfg os command injection](https://vulners.com/cve/CVE-2026-9477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -585,7 +602,9 @@
   - [Exploit for CVE-2026-6741](https://vulners.com/githubexploit/34582754-106B-53E6-8378-F86E73C48C3F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React](https://vulners.com/githubexploit/DD6A7006-1ABB-5831-85A6-A88F30A724CC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Fiberhome Hg6145F1_Firmware](https://vulners.com/githubexploit/38BEC4C9-4C8D-5ACB-912D-D3874B1A408E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Input Validation in Siemens 6Bk1602-0Aa12-0Tp0_Firmware](https://vulners.com/githubexploit/FE566C03-40AC-51B9-BB51-6FB77264D115?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Restriction of XML External Entity Reference in Adobe Commerce](https://vulners.com/githubexploit/A364DBD6-75C0-5592-99E6-15C90F955355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for OS Command Injection in Olivetin](https://vulners.com/githubexploit/B9D62132-F56E-5322-9338-AE191298A577?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Grafana](https://vulners.com/githubexploit/C745DD53-7AE4-5A94-B669-C401DB0C0BAB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/9B3D53CA-E954-5110-8888-1957B931A61B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [exploit-lab](https://vulners.com/githubexploit/E6812B62-9BA3-552D-B770-87B3114229D0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -593,6 +612,8 @@
   - [GHSA-C32J-VQHX-RX3X vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-C32J-VQHX-RX3X?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-RVV3-G6HJ-G44X vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-RVV3-G6HJ-G44X?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-RVV3-G6HJ-G44X vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-RVV3-G6HJ-G44X?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-WG65-39GG-5WFJ vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-WG65-39GG-5WFJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-WG65-39GG-5WFJ vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-WG65-39GG-5WFJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GIMP: GIMP: Arbitrary code execution via specially crafted PSD file](https://vulners.com/redhat/RHSA-2026:20552-CVE-2026-4150?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GIMP: GIMP: Arbitrary code execution via specially crafted PSD file](https://vulners.com/redhat/RHSA-2026:20553-CVE-2026-4150?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [gimp: GIMP: Remote Code Execution via PSP file parsing](https://vulners.com/redhat/RHSA-2026:20552-CVE-2026-4153?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -694,6 +715,7 @@
   - [惠普正在调查部分高端笔记本电脑BIOS固件更新后无法启动/黑屏死机等](https://buaq.net/go-418881.html)
   - [离谱！有网友使用Gemini生成简单的头像视频 4分钟直接耗尽5小时额度](https://buaq.net/go-418932.html)
   - [黄仁勋批评CEO以AI为理由裁员：太敷衍](https://buaq.net/go-418861.html)
+  - [黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力](https://buaq.net/go-419039.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇安信CERT
@@ -729,3 +751,4 @@
   - [优步总裁：AI支出正变得“更难证明合理性”](https://blog.upx8.com/%E4%BC%98%E6%AD%A5%E6%80%BB%E8%A3%81-AI%E6%94%AF%E5%87%BA%E6%AD%A3%E5%8F%98%E5%BE%97-%E6%9B%B4%E9%9A%BE%E8%AF%81%E6%98%8E%E5%90%88%E7%90%86%E6%80%A7)
   - [滴滴出行回应系统异常：因云厂商网络专线故障，目前服务已全部恢复](https://blog.upx8.com/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%B3%BB%E7%BB%9F%E5%BC%82%E5%B8%B8-%E5%9B%A0%E4%BA%91%E5%8E%82%E5%95%86%E7%BD%91%E7%BB%9C%E4%B8%93%E7%BA%BF%E6%95%85%E9%9A%9C-%E7%9B%AE%E5%89%8D%E6%9C%8D%E5%8A%A1%E5%B7%B2%E5%85%A8%E9%83%A8%E6%81%A2%E5%A4%8D)
   - [黄仁勋批评CEO以AI为理由裁员：太敷衍](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E6%89%B9%E8%AF%84CEO%E4%BB%A5AI%E4%B8%BA%E7%90%86%E7%94%B1%E8%A3%81%E5%91%98-%E5%A4%AA%E6%95%B7%E8%A1%8D)
+  - [黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B-AI%E6%97%B6%E4%BB%A3-%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%BB%80%E4%B9%88%E4%B8%93%E4%B8%9A%E5%B9%B6%E4%B8%8D%E9%87%8D%E8%A6%81-%E5%85%B3%E9%94%AE%E6%98%AF%E5%A6%82%E4%BD%95%E7%94%A8AI%E6%94%BE%E5%A4%A7%E8%83%BD%E5%8A%9B)
