@@ -3,8 +3,28 @@
 - 2Libra
   - [小米 mimo 2.5 pro 降价，和 deepseek v4 pro 完全一致 99 块套餐用量到达原来的 54 倍](https://2libra.com/post/ai-tools/0Hh_VNy)
 - 36氪
+  - [AI眼镜新品频发，产业链追“光”逐“芯”](https://36kr.com/newsflashes/3826751104914308?f=rss)
+  - [NASA授予蓝色起源等公司月球任务合同](https://36kr.com/newsflashes/3826744131474313?f=rss)
+  - [Quantinuum拟IPO募资10.5亿美元，此前列入美国政府量子计算支持计划](https://36kr.com/newsflashes/3826734954648193?f=rss)
   - [SpaceX“星链”和亚马逊或将参与欧盟移动卫星频谱计划](https://36kr.com/newsflashes/3826722068108169?f=rss)
+  - [“港版纳指”掉队，恒生科技指数迎来“AI化”重估](https://36kr.com/newsflashes/3826750735094664?f=rss)
+  - [中信建投：机器人是AI最好的物理载体之一，看好板块行情演绎](https://36kr.com/newsflashes/3826762917909385?f=rss)
+  - [中信建投：缺电仍是全年主线，继续看好燃机产业链](https://36kr.com/newsflashes/3826759377556097?f=rss)
+  - [今年以来22家公司从港交所退市](https://36kr.com/newsflashes/3826780657046145?f=rss)
+  - [从规模扩张到价值回归，37万亿元规模公募基金谋变](https://36kr.com/newsflashes/3826755460747905?f=rss)
+  - [境外机构非法跨境展业被“叫停”，持牌券商迎业务增长新机遇](https://36kr.com/newsflashes/3826750163194502?f=rss)
+  - [外资持续流入，国际投行看好A股三大投资方向](https://36kr.com/newsflashes/3826749522301831?f=rss)
+  - [奇富科技：一季度净利润8.8亿元，同比下降51%](https://36kr.com/newsflashes/3826762538832519?f=rss)
+  - [工具化投资成新宠，基金标签“失灵”引争议](https://36kr.com/newsflashes/3826747610059651?f=rss)
+  - [年内578家A股公司发布回购预案涉及金额超1000亿元](https://36kr.com/newsflashes/3826754769932931?f=rss)
+  - [浙江晶通新材料集团股份有限公司提交IPO申请](https://36kr.com/newsflashes/3826735465026437?f=rss)
+  - [百亿元级私募机构已率先加仓](https://36kr.com/newsflashes/3826776692806531?f=rss)
+  - [福瑞泰克（浙江）智能科技股份有限公司递表港交所](https://36kr.com/newsflashes/3826737001943686?f=rss)
+  - [美国消费者信心下滑，物价担忧普遍加剧](https://36kr.com/newsflashes/3826771213357700?f=rss)
   - [美股三大指数收盘涨跌不一，热门中概股涨多跌少](https://36kr.com/newsflashes/3826720078025608?f=rss)
+  - [脑机接口商业化进程加速，机构密切关注脑机接口概念股](https://36kr.com/newsflashes/3826740122456961?f=rss)
+  - [莲花控股：拟对阶跃星辰增资不超过3亿元](https://36kr.com/newsflashes/3826736187495304?f=rss)
+  - [追逐资产管理规模增长，银行打响零售“资产争夺战”](https://36kr.com/newsflashes/3826746859475846?f=rss)
 - Ars Technica
   - [3D-printable humanoid legs let robotics experiments run wild](https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/)
   - [FBI agent explains how easy it is to ID people posting AI porn without consent](https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/)
@@ -24,8 +44,12 @@
 - HackerNoon
   - [How Startups Can Survive (and Thrive) in a Ruthless Economy](https://hackernoon.com/how-startups-can-survive-and-thrive-in-a-ruthless-economy?source=rss)
   - [What Happened When Hetzner Banned Solana Validators: 1,000 Nodes Taken Offline Overnight](https://hackernoon.com/what-happened-when-hetzner-banned-solana-validators-1000-nodes-taken-offline-overnight?source=rss)
+- Linux Foundation Blogs
+  - [Navigating the 2026 Tech Talent Landscape: Why Upskilling Is Our Best Answer to the AI Skills Crisis](https://www.linuxfoundation.org/blog/navigating-the-2026-tech-talent-landscape-why-upskilling-is-our-best-answer-to-the-ai-skills-crisis)
 - NVIDIA AI Blog
   - [NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition](https://blogs.nvidia.com/blog/vera-cpu-phoronix/)
+- simonwillison.net
+  - [The pressure](https://simonwillison.net/2026/May/26/the-pressure/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [CVE---EXPLOIT exploit](https://sploitus.com/exploit?id=E221B421-6197-532B-9E18-61E70F83EC6E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=AE90551B-CA7C-52E0-8D54-D563649CBD22&utm_source=rss&utm_medium=rss)
@@ -40,6 +64,7 @@
   - [This startup is betting India’s gig economy can train the world’s robots](https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/)
   - [Trump Admin permits Volvo to keep selling connected cars in the U.S.](https://techcrunch.com/2026/05/26/trump-admin-permits-volvo-to-keep-selling-connected-cars-in-the-u-s/)
   - [Trump admin wants nuclear startups to use plutonium for their reactors](https://techcrunch.com/2026/05/26/trump-admin-wants-nuclear-startups-to-use-plutonium-for-their-reactors/)
+  - [UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak](https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/)
   - [What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline](https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/)
 - The Decoder
   - [Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a "cute, simple proof"](https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof/)
@@ -128,6 +153,7 @@
   - [CVE-2026-9628 | UTT HiPER 1200GW up to 2.5.3-170306 Web Management Interface formPptpClientConfig PPTP server address/username/password/tunnel name stack-based overflow](https://vuldb.com/vuln/365684)
   - [CVE-2026-9642 | Delta Electronics DIAView 4.4 hard-coded key](https://vuldb.com/vuln/365818)
 - Vulners.com RSS Feed
+  - [[slackware-security]  mozilla-thunderbird](https://vulners.com/slackware/SSA-2026-146-01?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-33221](https://vulners.com/cvelist/CVELIST:CVE-2025-33221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-43289](https://vulners.com/cve/CVE-2025-43289?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-43289](https://vulners.com/cvelist/CVELIST:CVE-2025-43289?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -292,6 +318,7 @@
   - [CVE-2026-46431 Algernon: Auto-refresh SSE event server sets Access-Control-Allow-Origin: *](https://vulners.com/cvelist/CVELIST:CVE-2026-46431?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46620](https://vulners.com/nvd/NVD:CVE-2026-46620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46624](https://vulners.com/nvd/NVD:CVE-2026-46624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46740](https://vulners.com/nvd/NVD:CVE-2026-46740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47202](https://vulners.com/nvd/NVD:CVE-2026-47202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47202 Kavita: Pre-Auth Account Takeover](https://vulners.com/cvelist/CVELIST:CVE-2026-47202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47715 Bugsink: Issue event views can show an event from another project if its UUID is known](https://vulners.com/cvelist/CVELIST:CVE-2026-47715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -350,7 +377,9 @@
   - [CVE-2026-8620](https://vulners.com/nvd/NVD:CVE-2026-8620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8633](https://vulners.com/nvd/NVD:CVE-2026-8633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8633 IBM WebSphere Application Server and WebSphere Application Server Liberty are affected by multiple vulnerabilities when using when using Web Server Plug-ins](https://vulners.com/cvelist/CVELIST:CVE-2026-8633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8647](https://vulners.com/nvd/NVD:CVE-2026-8647?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8676](https://vulners.com/nvd/NVD:CVE-2026-8676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8680](https://vulners.com/nvd/NVD:CVE-2026-8680?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8723 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-8723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8723 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-8723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8834](https://vulners.com/circl/CIRCL:CVE-2026-8834?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -394,8 +423,13 @@
   - [CVE-2026-9583](https://vulners.com/nvd/NVD:CVE-2026-9583?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9584](https://vulners.com/nvd/NVD:CVE-2026-9584?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9603](https://vulners.com/nvd/NVD:CVE-2026-9603?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9604](https://vulners.com/nvd/NVD:CVE-2026-9604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9604 JeecgBoot AiragModelController access control](https://vulners.com/cve/CVE-2026-9604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9604 JeecgBoot AiragModelController access control](https://vulners.com/cvelist/CVELIST:CVE-2026-9604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9605 GNU libredwg Dwgbmp Utility bits.c bit_read_RC heap-based overflow](https://vulners.com/cve/CVE-2026-9605?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9605 GNU libredwg Dwgbmp Utility bits.c bit_read_RC heap-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-9605?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9606 itsourcecode Courier Management System manage_user.php sql injection](https://vulners.com/cve/CVE-2026-9606?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9606 itsourcecode Courier Management System manage_user.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-9606?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9642](https://vulners.com/nvd/NVD:CVE-2026-9642?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-HFFM-XVC3-VPRC vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-HFFM-XVC3-VPRC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-HFFM-XVC3-VPRC vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-HFFM-XVC3-VPRC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -410,6 +444,7 @@
 - Wired
   - [7 Best Outdoor Security Cameras (2026) After Testing Dozens](https://www.wired.com/gallery/best-outdoor-security-cameras/)
   - [Internet Starts to Return in Iran After 3-Month Blackout](https://www.wired.com/story/internet-in-iran-starts-to-return-after-3-month-blackout/)
+  - [Pope Leo Schooled the Tech Bros on Tolkien](https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/)
   - [The Best Movies to Stream This Month (May 2026)](https://www.wired.com/story/the-9-best-movies-to-stream-right-now/)
   - [What Pope Leo XIV’s First Encyclical Says About the Power of AI](https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/)
   - [Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation](https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/)
