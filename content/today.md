@@ -2,10 +2,12 @@
 
 - 2Libra
   - [mimo 是啥情况，820 亿？？](https://2libra.com/post/tech-news/56twX_8)
+  - [【兑换码·🔒】本站用户专属福利，一键登录，畅享中转](https://2libra.com/post/ai-gateway/6I6o1Jf)
   - [【学习笔记】蔡格尼克效应](https://2libra.com/post/sharing-discoveries/HEXc7qY)
   - [【建议】新增 OAuth 用户信息字段](https://2libra.com/post/community/vLM1cDG)
   - [【💰】大件快递怎么寄划算](https://2libra.com/post/help-requests/XpDV2bw)
   - [【🔒】mimo 更新了 credit...5 月 28 日到期但是还有 110 亿用不完](https://2libra.com/post/ai-gateway/25rqM87)
+  - [你们都有蛀牙吗？](https://2libra.com/post/health-consultation/qbGI3ZR)
   - [各位大佬，个人开发收款有哪些可选项](https://2libra.com/post/indie-dev/P__bCqr)
   - [小米 mimo 2.5 pro 降价，和 deepseek v4 pro 完全一致 99 块套餐用量到达原来的 54 倍](https://2libra.com/post/ai-tools/0Hh_VNy)
   - [小米大模型 1 分钱续费一个月](https://2libra.com/post/ai-updates/8czMzcc)
@@ -13,6 +15,7 @@
   - [有人在 windows 平台 vibecoding 吗，写了一个 coding agent 的通知中心，支持交互式权限请求](https://2libra.com/post/personal-works/YKT5da1)
   - [求推荐电竞椅](https://2libra.com/post/recommendations/OOii4a0)
   - [自己捣鼓了一个浏览器插件](https://2libra.com/post/personal-works/dpwcZSO)
+  - [请教，制作企业官网，如何实现多语言切换](https://2libra.com/post/tech-qa/l1JdEYd)
   - [问下各位，你们平均正经打卡拿钱的每段职场经历时长是多少？最长和最短的分别是多久？多久换一次。](https://2libra.com/post/interaction/i9gmWnZ)
 - 36氪
   - [29股股息率超4%，机构依然看好价值板块中长期配置价值](https://36kr.com/newsflashes/3826794677506945?f=rss)
@@ -20,6 +23,7 @@
   - [AI眼镜新品频发，产业链追“光”逐“芯”](https://36kr.com/newsflashes/3826751104914308?f=rss)
   - [A股三大指数午间休盘涨跌不一，半导体板块走强](https://36kr.com/newsflashes/3826986118632073?f=rss)
   - [A股三大指数开盘涨跌不一，贵金属板块领跌](https://36kr.com/newsflashes/3826863197508225?f=rss)
+  - [A股三大指数收盘涨跌不一，全市场超4400股下跌](https://36kr.com/newsflashes/3827193129194376?f=rss)
   - [MiniMax申请注册Mavis商标](https://36kr.com/newsflashes/3826970543395460?f=rss)
   - [NASA授予蓝色起源等公司月球任务合同](https://36kr.com/newsflashes/3826744131474313?f=rss)
   - [NBBOSS发布AI决策机器人，瞄准企业决策场景](https://36kr.com/newsflashes/3826958517113731?f=rss)
@@ -29,11 +33,13 @@
   - [PingPong推出航旅业一站式支付解决方案](https://36kr.com/newsflashes/3826936610296710?f=rss)
   - [Quantinuum拟IPO募资10.5亿美元，此前列入美国政府量子计算支持计划](https://36kr.com/newsflashes/3826734954648193?f=rss)
   - [SpaceX“星链”和亚马逊或将参与欧盟移动卫星频谱计划](https://36kr.com/newsflashes/3826722068108169?f=rss)
+  - [WPS for Pad登顶印尼App Store免费总榜](https://36kr.com/newsflashes/3827156512002690?f=rss)
   - [“杉岩数据”完成亿元级D轮融资](https://36kr.com/newsflashes/3826910909092480?f=rss)
   - [“港版纳指”掉队，恒生科技指数迎来“AI化”重估](https://36kr.com/newsflashes/3826750735094664?f=rss)
   - [《超自然行动组》海外版《Tomb Busters》登陆美日韩市场](https://36kr.com/newsflashes/3826949600285316?f=rss)
   - [三星正计划在越南建设一座投资15亿美元的存储芯片测试工厂](https://36kr.com/newsflashes/3826918985224838?f=rss)
   - [三星电子工会称成员批准初步薪资协议](https://36kr.com/newsflashes/3826864944485253?f=rss)
+  - [三星达成人工智能利润分成协议，员工人均将获 40 万美元奖金](https://36kr.com/newsflashes/3827160188228225?f=rss)
   - [上海：到2030年，服务业增加值达6万亿元左右](https://36kr.com/newsflashes/3827004091372167?f=rss)
   - [上海：强化绿色能源服务，完善推广绿电直连、绿电交易、绿电证书交易](https://36kr.com/newsflashes/3827004395885443?f=rss)
   - [上海：推动AI+广告全链路应用，培育一批拥有核心技术和国际化能力的本土广告品牌企业](https://36kr.com/newsflashes/3827004757595012?f=rss)
@@ -50,6 +56,7 @@
   - [今年以来22家公司从港交所退市](https://36kr.com/newsflashes/3826780657046145?f=rss)
   - [从规模扩张到价值回归，37万亿元规模公募基金谋变](https://36kr.com/newsflashes/3826755460747905?f=rss)
   - [保时捷融资租赁公司增资至10亿，增幅约23](https://36kr.com/newsflashes/3827036068959108?f=rss)
+  - [兆易创新A股成交额超300亿元](https://36kr.com/newsflashes/3827139942240897?f=rss)
   - [公司有意于阿布扎比进行第二上市？英矽智能回应](https://36kr.com/newsflashes/3827109721756291?f=rss)
   - [创业板指涨逾1%](https://36kr.com/newsflashes/3826872098067330?f=rss)
   - [创业板指涨逾2%](https://36kr.com/newsflashes/3826907697697671?f=rss)
@@ -57,6 +64,7 @@
   - [创业板指翻绿，此前一度涨近2.6%](https://36kr.com/newsflashes/3827112298975880?f=rss)
   - [前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录](https://36kr.com/p/3826932509364869?f=rss)
   - [半日主力资金加仓电子股，抛售有色金属股](https://36kr.com/newsflashes/3827050186331017?f=rss)
+  - [华为申请注册TokEnergy商标](https://36kr.com/newsflashes/3827146948989827?f=rss)
   - [华泰证券：券商板块经营已进入良性发展阶段，业绩增长具备可持续性](https://36kr.com/newsflashes/3826792501842562?f=rss)
   - [协鑫能科：目前阶段公司算力相关收入占总营收比重较低](https://36kr.com/newsflashes/3827010128319113?f=rss)
   - [合景泰富集团：拟1.6亿元出售合资公司股份](https://36kr.com/newsflashes/3826806459732608?f=rss)
@@ -66,17 +74,21 @@
   - [国家统计局：1-4月份规模以上工业企业利润较快增长](https://36kr.com/newsflashes/3826872576070280?f=rss)
   - [境外机构非法跨境展业被“叫停”，持牌券商迎业务增长新机遇](https://36kr.com/newsflashes/3826750163194502?f=rss)
   - [外资持续流入，国际投行看好A股三大投资方向](https://36kr.com/newsflashes/3826749522301831?f=rss)
+  - [多点数智联合灵心巧手成立灵美智能](https://36kr.com/newsflashes/3827162275877768?f=rss)
   - [天猫618酒水品牌爆发，133个品牌同比增长超100%](https://36kr.com/newsflashes/3826973392147078?f=rss)
   - [央行今天将在香港发行两期300亿元央票](https://36kr.com/newsflashes/3826859899802501?f=rss)
   - [央行今日开展1776亿元7天逆回购操作](https://36kr.com/newsflashes/3826859677504133?f=rss)
+  - [央行：今天在香港成功发行两期共计300亿元央票](https://36kr.com/newsflashes/3827140377613187?f=rss)
   - [奇富科技：一季度净利润8.8亿元，同比下降51%](https://36kr.com/newsflashes/3826762538832519?f=rss)
   - [字节跳动本月向Seed员工开放“豆包股”认购？知情人士：没有“认购”一说，可选择年终](https://36kr.com/newsflashes/3827074899776132?f=rss)
   - [工具化投资成新宠，基金标签“失灵”引争议](https://36kr.com/newsflashes/3826747610059651?f=rss)
   - [年内578家A股公司发布回购预案涉及金额超1000亿元](https://36kr.com/newsflashes/3826754769932931?f=rss)
   - [微信小游戏月活跃用户超过5亿](https://36kr.com/newsflashes/3827051893740168?f=rss)
+  - [德国工商大会大幅下调今年德国增长预期至0.3%](https://36kr.com/newsflashes/3827152946631302?f=rss)
   - [恒指午间休盘跌0.85%，恒生科技指数跌0.25%](https://36kr.com/newsflashes/3827015845794433?f=rss)
   - [恒指开盘涨0.04%，恒生科技指数涨0.66%](https://36kr.com/newsflashes/3826859508568964?f=rss)
   - [恒生科技指数升破5000点关口](https://36kr.com/newsflashes/3826882048709510?f=rss)
+  - [恒生科技指数跌幅扩大至1%](https://36kr.com/newsflashes/3827181433295490?f=rss)
   - [我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等](https://36kr.com/newsflashes/3826943472947847?f=rss)
   - [报道称台积电3纳米下半年涨价15%](https://36kr.com/newsflashes/3827032407609990?f=rss)
   - [日产量超2800吨，我国海上最大规模浅层岩性油田项目全面投产](https://36kr.com/newsflashes/3826789544973185?f=rss)
@@ -84,13 +96,16 @@
   - [最高法：研究制定涉AI案件和数据产权司法保护规范性文件](https://36kr.com/newsflashes/3826929999434370?f=rss)
   - [望石智慧与广药集团、华为签署生态合作](https://36kr.com/newsflashes/3827023043040135?f=rss)
   - [欧洲4月新车注册量增长7%，达115万辆](https://36kr.com/newsflashes/3827039442653833?f=rss)
+  - [毕马威效仿四大会计师事务所模式，赴硅谷挖掘人工智能领域创新企业](https://36kr.com/newsflashes/3827177894417281?f=rss)
   - [沪指跌逾1%，下跌个股近4600只](https://36kr.com/newsflashes/3826979410629256?f=rss)
   - [沪深两市成交额突破1.5万亿元](https://36kr.com/newsflashes/3826926591890051?f=rss)
   - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3826895833027460?f=rss)
   - [沪深两市成交额突破2.5万亿](https://36kr.com/newsflashes/3827121586852743?f=rss)
   - [沪深两市成交额突破2万亿元](https://36kr.com/newsflashes/3826979538588546?f=rss)
+  - [沪深两市成交额连续第3个交易日突破3万亿元](https://36kr.com/newsflashes/3827173711237765?f=rss)
   - [浙江晶通新材料集团股份有限公司提交IPO申请](https://36kr.com/newsflashes/3826735465026437?f=rss)
   - [淘宝闪购宣布推出“城盟”系统：为城市经营伙伴打造专属AI智能体](https://36kr.com/newsflashes/3826970472796807?f=rss)
+  - [深科技回应股价“抢跑”质疑：一直有扩产计划，不是突然放出来的利好消息](https://36kr.com/newsflashes/3827167196828547?f=rss)
   - [深证成指跌逾1%](https://36kr.com/newsflashes/3827118238061445?f=rss)
   - [澳大利亚4月核心通胀仍高于目标](https://36kr.com/newsflashes/3827074463502983?f=rss)
   - [百亿元级私募机构已率先加仓](https://36kr.com/newsflashes/3826776692806531?f=rss)
@@ -113,6 +128,7 @@
   - [阿维塔：已筹备重新递交招股书，IPO进程不受影响](https://36kr.com/newsflashes/3826879145841283?f=rss)
   - [韩国综合股价指数涨幅扩大至5%](https://36kr.com/newsflashes/3826784195072647?f=rss)
   - [魔法原子登记熊猫机器人作品著作权](https://36kr.com/newsflashes/3827099065275013?f=rss)
+  - [鸿蒙智行累计交付139万辆车](https://36kr.com/newsflashes/3827170589381511?f=rss)
   - [鹏鼎控股：不涉及半导体和芯片业务](https://36kr.com/newsflashes/3827054810124936?f=rss)
 - Ars Technica
   - [3D-printable humanoid legs let robotics experiments run wild](https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/)
@@ -127,9 +143,12 @@
   - [Critical Defect Exposed: Flaw In Apache Fory Bypasses Deserialization Protections](https://securityonline.info/pyfory-deserialization-policy-bypass/)
   - [Dual Sandbox Bypasses Threaten PHP Applications](https://securityonline.info/critical-twig-rce-flaws-patched/)
   - [GitHub Patches Critical Flaws in Enterprise Server Update](https://securityonline.info/github-enterprise-server-vulnerabilities/)
+  - [Global Malicious AI Installer Campaign Targets Developer Workstations](https://securityonline.info/malicious-ai-installer-campaign-infostealer/)
   - [Overhaul Your Site Defense: Concrete CMS Security Fixes Arrive in Version 9.5.1](https://securityonline.info/concrete-cms-security-fixes-9-5-1/)
 - darkreading
   - [The Hackers Behind Shai-Hulud: Lucky or Skilled?](https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled)
+- defend.network
+  - [Critical RCEs and credential leaks: Microsoft SharePoint, CISA AWS exposure, MuddyWater espionage](https://defend.network/briefings/sharepoint-rce-cisa-github-leak-muddywater-2026-05-27.html)
 - experimental-history.com
   - [Only insane people use the internet](https://www.experimental-history.com/p/only-insane-people-use-the-internet)
 - Hacker News Frontpage
@@ -146,6 +165,8 @@
 - HackerNoon
   - [How Startups Can Survive (and Thrive) in a Ruthless Economy](https://hackernoon.com/how-startups-can-survive-and-thrive-in-a-ruthless-economy?source=rss)
   - [What Happened When Hetzner Banned Solana Validators: 1,000 Nodes Taken Offline Overnight](https://hackernoon.com/what-happened-when-hetzner-banned-solana-validators-1000-nodes-taken-offline-overnight?source=rss)
+- herman.bearblog.dev
+  - [Resurfacing posts](https://herman.bearblog.dev/resurfacing-posts/)
 - idiallo.com
   - [How Many Tokens Did You Burn Today](https://idiallo.com/blog/how-many-tokens-did-you-burn-today?src=feed)
 - jeffgeerling.com
@@ -155,6 +176,7 @@
 - NVIDIA AI Blog
   - [NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition](https://blogs.nvidia.com/blog/vera-cpu-phoronix/)
 - simonwillison.net
+  - [Quoting Kyle Ferrana](https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything)
   - [The pressure](https://simonwillison.net/2026/May/26/the-pressure/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [CVE---EXPLOIT exploit](https://sploitus.com/exploit?id=E221B421-6197-532B-9E18-61E70F83EC6E&utm_source=rss&utm_medium=rss)
@@ -681,9 +703,14 @@
   - [assembly history](https://dyrnq.com/assembly-history/)
   - [buildah-guide](https://dyrnq.com/buildah-guide/)
   - [Understanding SNI Proxy Mechanics and TLS Domain Identification](https://dyrnq.com/understanding-sni-proxy-mechanics-and-tls-domain-identification/)
+- 奇客Solidot–传递最新科技情报
+  - [维基媒体基金会解雇工会组织者引发社区抗议](https://www.solidot.org/story?sid=84410)
 - 威胁棱镜
   - [SOC 中的大模型：安全运营中心人机协作研究](https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488659&idx=1&sn=1286f70b49e96f9fe9589fa1c65de07c)
 - 爱范儿
   - [早报｜小米卢伟冰：大型新车今年下半年上市/支付宝推出全球首个Token Pay服务/滴滴崩了，官方致歉](https://www.ifanr.com/1667026?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [OpenAI挖来了个F1级别车手搞公关](https://www.qbitai.com/2026/05/425857.html)
 - 黑海洋
   - [苹果、谷歌抨击加拿大数据访问法案](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C-%E8%B0%B7%E6%AD%8C%E6%8A%A8%E5%87%BB%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE%E6%B3%95%E6%A1%88)
+  - [荷兰以公共利益风险为由阻止美企进行收购](https://blog.upx8.com/%E8%8D%B7%E5%85%B0%E4%BB%A5%E5%85%AC%E5%85%B1%E5%88%A9%E7%9B%8A%E9%A3%8E%E9%99%A9%E4%B8%BA%E7%94%B1%E9%98%BB%E6%AD%A2%E7%BE%8E%E4%BC%81%E8%BF%9B%E8%A1%8C%E6%94%B6%E8%B4%AD)
