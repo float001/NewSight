@@ -29,6 +29,7 @@
 - 36氪
   - [*ST三房：全资子公司PTA生产装置延期复产至7月31日前](https://36kr.com/newsflashes/3828782288016256?f=rss)
   - [*ST亚太：6月1日复牌并撤销退市风险警示，股票简称变更为“亚太实业”](https://36kr.com/newsflashes/3828882814538632?f=rss)
+  - [*ST雅博：控股股东拟变更为枣庄财金，实控人将变更为枣庄市财政局](https://36kr.com/newsflashes/3828923890246537?f=rss)
   - [2025年超千家A股上市公司母公司营收占合并报表比重不足10%，子公司信披短板待补](https://36kr.com/newsflashes/3828238994461571?f=rss)
   - [3连板*ST景谷：公司主营业务不存在其他变动计划](https://36kr.com/newsflashes/3828762614256520?f=rss)
   - [4月单月增长逾1.8万亿元，公募基金规模逼近40万亿元](https://36kr.com/newsflashes/3828131260158852?f=rss)
@@ -54,6 +55,7 @@
   - [两部门联手，系统布局人工智能计量能力建设](https://36kr.com/newsflashes/3828815414891398?f=rss)
   - [中信建投：隐性库存显性化锂价回落，下游补库强有望支撑反弹](https://36kr.com/newsflashes/3828221969912448?f=rss)
   - [中信证券：仍需关注外需环境的变化，以及原材料涨价对企业生产扩张意愿和利润的中长期影响](https://36kr.com/newsflashes/3828240630846081?f=rss)
+  - [中信证券：拟向中国中信金融控股有限公司发行H股股票，募资总额为人民币160亿元](https://36kr.com/newsflashes/3828914002105216?f=rss)
   - [中信证券：矿端扰动再起，继续推荐铝板块机会](https://36kr.com/newsflashes/3828234621637505?f=rss)
   - [中信银行在上海成立新公司](https://36kr.com/newsflashes/3828577995641730?f=rss)
   - [中兴通讯：5月27日首次回购1925.91万股A股股份](https://36kr.com/newsflashes/3828220299973253?f=rss)
@@ -78,6 +80,7 @@
   - [创业板指涨幅扩大至2%](https://36kr.com/newsflashes/3828567141520008?f=rss)
   - [创业板指跌超1%](https://36kr.com/newsflashes/3828290645152390?f=rss)
   - [剑桥科技：将配售股份筹集约19.8亿港元](https://36kr.com/newsflashes/3828182378189441?f=rss)
+  - [北京科锐澄清：与特斯拉采购协议仅为意向性约定 存在重大不确定性](https://36kr.com/newsflashes/3828953371600257?f=rss)
   - [半导体产业链快速回暖，华虹公司股价续创历史新高](https://36kr.com/newsflashes/3828294985388935?f=rss)
   - [半日主力资金加仓电子股，抛售非银金融股](https://36kr.com/newsflashes/3828414945038985?f=rss)
   - [华盛锂电：公司现阶段暂无海外产能布局](https://36kr.com/newsflashes/3828666476745351?f=rss)
@@ -117,6 +120,7 @@
   - [微博：2026年Q1，AI相关讨论量同比增长18%](https://36kr.com/newsflashes/3828459955180417?f=rss)
   - [德国或因高温天气面临上千亿欧元经济损失](https://36kr.com/newsflashes/3828678571446920?f=rss)
   - [德邦科技：股东国家集成电路基金持股比例降至11.90%](https://36kr.com/newsflashes/3828875423683204?f=rss)
+  - [快手基本面韧性凸显，可灵AI成第二增长曲线](https://36kr.com/p/3828915666441090?f=rss)
   - [恒指午间休盘跌2.29%，恒生科技指数跌1.49%](https://36kr.com/newsflashes/3828432531215234?f=rss)
   - [恒指开盘跌0.39%，恒生科技指数跌0.25%](https://36kr.com/newsflashes/3828275483497346?f=rss)
   - [恒指收跌1.27%，恒生科技指数跌0.39%](https://36kr.com/newsflashes/3828675780170374?f=rss)
@@ -126,6 +130,7 @@
   - [扎克伯格称Meta考虑进军云计算市场](https://36kr.com/newsflashes/3828168762151558?f=rss)
   - [拜耳因涉嫌垄断美国转基因玉米种子市场而被起诉](https://36kr.com/newsflashes/3828206927598210?f=rss)
   - [摩根大通CEO：预计Q2投行手续费收入将增长10%或更多](https://36kr.com/newsflashes/3827700847137409?f=rss)
+  - [日本数百种面粉类产品将于8月涨价](https://36kr.com/newsflashes/3828934641034630?f=rss)
   - [晨光股份：拟以5亿元至10亿元回购股份用于股权激励或员工持股计划](https://36kr.com/newsflashes/3828811667739526?f=rss)
   - [智元机器人、地铁设计等在广州成立新科技公司，注册资本3000万](https://36kr.com/newsflashes/3828356055257732?f=rss)
   - [智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型](https://36kr.com/p/3820602297208966?f=rss)
@@ -146,6 +151,7 @@
   - [深天马Ａ回应“京东方恰谈兼并收购传闻”：相关说法不属实](https://36kr.com/newsflashes/3828623694451584?f=rss)
   - [港股持续走低，恒指下破25000点关口](https://36kr.com/newsflashes/3828304849474178?f=rss)
   - [澳大利亚政府就“永久化学品”污染起诉3M公司](https://36kr.com/newsflashes/3828338828333696?f=rss)
+  - [热门中概股美股盘前多数下跌，理想汽车跌超3%](https://36kr.com/newsflashes/3828948117038470?f=rss)
   - [爱玛科技：拟2亿元至4亿元回购股份](https://36kr.com/newsflashes/3828691791843973?f=rss)
   - [理想汽车：一季度交付新车95142辆，同比增长2.5%](https://36kr.com/newsflashes/3828696447439744?f=rss)
   - [皖能电力：公司未直接持有长鑫科技股份](https://36kr.com/newsflashes/3828627395679105?f=rss)
@@ -156,10 +162,14 @@
   - [科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵](https://36kr.com/p/3828898785858185?f=rss)
   - [科氪 | 雷鸟创新双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告](https://36kr.com/p/3828851140350592?f=rss)
   - [美团发布首个即时零售商家经营专属AI解决方案“牵牛花Claw”](https://36kr.com/newsflashes/3828524929913481?f=rss)
+  - [美国4月核心PCE环比增长0.2%](https://36kr.com/newsflashes/3828943667520897?f=rss)
   - [美国NASA局长预计最早2030年代初在月球上建成永久基地](https://36kr.com/newsflashes/3828419464106627?f=rss)
+  - [美国上周首次申领失业救济人数21.5万](https://36kr.com/newsflashes/3828934020555913?f=rss)
   - [美国监管机构正着手撤销对温克莱沃斯兄弟旗下加密交易所的500万美元罚款](https://36kr.com/newsflashes/3828334727893633?f=rss)
+  - [美年健康：股东杭州灏月拟减持不超3%公司股份](https://36kr.com/newsflashes/3828921345123205?f=rss)
   - [美联储监督机构正在审查地区联储总裁的重新任命程序](https://36kr.com/newsflashes/3828221194654598?f=rss)
   - [美股三大股指小幅收涨，美光科技涨超3%续创新高](https://36kr.com/newsflashes/3828128355652227?f=rss)
+  - [美股大型科技股盘前涨跌不一，Meta涨近1%](https://36kr.com/newsflashes/3828947146073222?f=rss)
   - [美银CEO预计第二季度交易业务收入同比增长15%](https://36kr.com/newsflashes/3828178180232066?f=rss)
   - [联邦快递货运控股公司即将加入标普500指数](https://36kr.com/newsflashes/3828168174293635?f=rss)
   - [腾讯发布AI创意智能体Miora](https://36kr.com/newsflashes/3828499301651336?f=rss)
@@ -180,6 +190,7 @@
   - [诺诚健华：奥布替尼治疗ITP新药上市申请获受理](https://36kr.com/newsflashes/3828692423217797?f=rss)
   - [谷歌员工被控利用内幕消息在Polymarket上押注，获利120万美元](https://36kr.com/newsflashes/3828229394764680?f=rss)
   - [贝尔生物北交所IPO过会](https://36kr.com/newsflashes/3828892878934659?f=rss)
+  - [途牛：端午叠加父亲节，家庭出游热成热门选择](https://36kr.com/newsflashes/3828918112506755?f=rss)
   - [通合科技：拟募集不超5.22亿元，用于数据中心用供配电系统及模块研发生产项目等](https://36kr.com/newsflashes/3828863775888264?f=rss)
   - [造物时代makera Z1桌面CNC海外众筹超8000万元](https://36kr.com/newsflashes/3828382399861380?f=rss)
   - [金山办公入选2026年《财富》最受赞赏的中国公司](https://36kr.com/newsflashes/3828344500540040?f=rss)
@@ -236,6 +247,7 @@
 - Hacker News Frontpage
   - [Can we have the day off?](https://mlsu.io/posts/day-off/)
   - [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
+  - [Five frontier LLMs disagree on 67% of 1k real-world fact-check claims](https://lenz.io/research/llm-disagreement)
   - [Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS](https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/)
   - [Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction](https://arxiv.org/abs/2605.21779)
   - [Objective metrics that change the most as we age](https://www.empirical.health/blog/biomarkers-that-change-with-age/)
@@ -256,10 +268,13 @@
 - IEEE Spectrum
   - [Understanding Phase Noise and Its Impact on RF System Performance](https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/)
 - InfoSec Write-ups - Medium
+  - [Extending Wazuh detection capabilities with clickdetect, Opensearch PPL and Sigma Rules](https://infosecwriteups.com/extending-wazuh-detection-capabilities-with-clickdetect-opensearch-ppl-and-sigma-rules-3a52e706cac5?source=rss----7b722bfd1b8d---4)
   - [How a GraphQL Invitation Flow Exposed Users at Scale](https://infosecwriteups.com/how-a-graphql-invitation-flow-exposed-users-at-scale-0dfb2bf3cc59?source=rss----7b722bfd1b8d---4)
   - [I Booked a ₹30,000 Conference Ticket for ₹1. The Site Let Me.](https://infosecwriteups.com/i-booked-a-30-000-conference-ticket-for-1-the-site-let-me-975075949de2?source=rss----7b722bfd1b8d---4)
   - [I Sent You a JPEG. Now I Own Your Mac.](https://infosecwriteups.com/i-sent-you-a-jpeg-now-i-own-your-mac-e49c5c27374f?source=rss----7b722bfd1b8d---4)
   - [Prompt Engineering: TryHackMe Walkthrough](https://infosecwriteups.com/prompt-engineering-tryhackme-walkthrough-64993bb662bc?source=rss----7b722bfd1b8d---4)
+  - [“Bug Bounty Bootcamp #39: PDF SSRF and Blind Exfiltration — When Headless Browsers Become Your Data…](https://infosecwriteups.com/bug-bounty-bootcamp-39-pdf-ssrf-and-blind-exfiltration-when-headless-browsers-become-your-data-507d6543d167?source=rss----7b722bfd1b8d---4)
+  - [“Bug Bounty Bootcamp #40: XXE — Reading Server Files and Pivoting to Internal Networks Through XML”](https://infosecwriteups.com/bug-bounty-bootcamp-40-xxe-reading-server-files-and-pivoting-to-internal-networks-through-xml-17708cf6029b?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [Infosecurity Europe: Cybersecurity Staff Prefer CISOs With Real Attack Response Experience, Study Reveals](https://www.infosecurity-magazine.com/news/infosecurity-europe-isc2/)
   - [Microsoft Condemns "Uncoordinated" Zero Day Disclosures](https://www.infosecurity-magazine.com/news/microsoft-uncoordinated-zeroday/)
@@ -268,14 +283,20 @@
   - [The Costco theory of the internet](https://www.joanwestenberg.com/the-costco-theory-of-the-internet/)
 - johndcook.com
   - [Turning K-L divergence into a metric](https://www.johndcook.com/blog/2026/05/27/jensen-shannon/)
+- Kali Linux Tutorials
+  - [Install Java on Ubuntu 22.04 With OpenJDK and Oracle JDK](https://kalilinuxtutorials.com/install-java-ubuntu/)
 - miguelgrinberg.com
   - [SQLAlchemy 2 In Practice - Solutions to the Exercises](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises)
+- MIT Technology Review
+  - [The Download: climate tech goes public and the AI Hype Index returns](https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/)
 - pluralistic.net
   - [Pluralistic: Hold on for dear life (28 May 2026)](https://pluralistic.net/2026/05/28/we-live-in-a-society/)
 - PromptLayer
   - [Context Engineering vs. Prompt Engineering](https://blog.promptlayer.com/context-engineering-vs-prompt-engineering/)
 - rtl-sdr.com
   - [Receiving ADS-B With a Semtech LR2021 LoRa Chip](https://www.rtl-sdr.com/receiving-ads-b-with-a-semtech-lr2021-lora-chip/)
+- simone.org
+  - [Every Enemy Wears Your Face](https://simone.org/projection/)
 - simonwillison.net
   - [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything)
   - [sqlite AGENTS.md](https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything)
@@ -295,6 +316,7 @@
   - [AI coding startup Cognition raises $1B at $25B pre-money valuation](https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/)
   - [CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks](https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/)
   - [Google engineer charged with insider trading after making $1.2M on Polymarket](https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/)
+  - [Has the hunt for AI compute uncovered the next Cerebras?](https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/)
   - [In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips](https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/)
   - [Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
   - [Oura unveils its Ring 5 with a thinner, lighter design starting at $399](https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/)
@@ -311,6 +333,7 @@
   - [ElevenLabs Music v2 promises opera-to-metal transitions without losing musical coherence](https://the-decoder.com/elevenlabs-music-v2-promises-opera-to-metal-transitions-without-losing-musical-coherence/)
   - [Meta One: Zuckerberg finally puts a price tag on all that AI spending](https://the-decoder.com/meta-one-zuckerberg-finally-puts-a-price-tag-on-all-that-ai-spending/)
   - [Microsoft's MAI-Image-2.5 pulls even with Google's Nano Banana 2 on benchmarks](https://the-decoder.com/microsofts-mai-image-2-5-pulls-even-with-googles-nano-banana-2-on-benchmarks/)
+  - [Mistral rebrands LeChat as Vibe, betting its chatbot's future is as a full-blown work agent](https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/)
   - [Robinhood lets AI agents trade shares and make credit card purchases for customers](https://the-decoder.com/robinhood-lets-ai-agents-trade-shares-and-make-credit-card-purchases-for-customers/)
   - [YouTube will try to automatically flag AI videos starting this month](https://the-decoder.com/youtube-will-try-to-automatically-flag-ai-videos-starting-this-month/)
 - The Verge
@@ -701,6 +724,8 @@
   - [CVE-2026-32998](https://vulners.com/nvd/NVD:CVE-2026-32998?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32999](https://vulners.com/nvd/NVD:CVE-2026-32999?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-33552](https://vulners.com/nvd/NVD:CVE-2026-33552?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40914 Apache Artemis Stomp Protocol, Apache ActiveMQ Artemis Stomp Protocol: Address routing-type can be updated by STOMP protocol user without the createAddress permission](https://vulners.com/cve/CVE-2026-40914?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40914 Apache Artemis Stomp Protocol, Apache ActiveMQ Artemis Stomp Protocol: Address routing-type can be updated by STOMP protocol user without the createAddress permission](https://vulners.com/cvelist/CVELIST:CVE-2026-40914?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42197](https://vulners.com/nvd/NVD:CVE-2026-42197?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42553 Cinny: Access token disclosure via invalidated emoji pack avatar URL in service worker](https://vulners.com/cve/CVE-2026-42553?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42553 Cinny: Access token disclosure via invalidated emoji pack avatar URL in service worker](https://vulners.com/cvelist/CVELIST:CVE-2026-42553?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -925,6 +950,7 @@
   - [CVE-2026-7634](https://vulners.com/nvd/NVD:CVE-2026-7634?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7651](https://vulners.com/nvd/NVD:CVE-2026-7651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7660](https://vulners.com/nvd/NVD:CVE-2026-7660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7797](https://vulners.com/circl/CIRCL:CVE-2026-7797?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7797](https://vulners.com/nvd/NVD:CVE-2026-7797?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7802](https://vulners.com/nvd/NVD:CVE-2026-7802?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7862](https://vulners.com/nvd/NVD:CVE-2026-7862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -998,6 +1024,8 @@
   - [CVE-2026-9806](https://vulners.com/nvd/NVD:CVE-2026-9806?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9807](https://vulners.com/nvd/NVD:CVE-2026-9807?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9813](https://vulners.com/nvd/NVD:CVE-2026-9813?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9818 Roundcube Local/Private URL Fetch Bypass](https://vulners.com/cve/CVE-2026-9818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9818 Roundcube Local/Private URL Fetch Bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-9818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-47227](https://vulners.com/githubexploit/E6675310-1ED8-5FE8-A6FA-C0EB9BA6DD15?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-48030](https://vulners.com/githubexploit/F0DF4512-BAAA-54E1-B871-F32304F2B157?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-48710](https://vulners.com/githubexploit/2BD05E53-56D6-5376-821B-9F1C5CF31FD0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -1159,6 +1187,7 @@
 - 黑海洋
   - [Meta新一轮裁员落地 华盛顿近1400名员工被裁](https://blog.upx8.com/Meta%E6%96%B0%E4%B8%80%E8%BD%AE%E8%A3%81%E5%91%98%E8%90%BD%E5%9C%B0-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E8%BF%911400%E5%90%8D%E5%91%98%E5%B7%A5%E8%A2%AB%E8%A3%81)
   - [Snowflake与AWS签订60亿美元采购协议](https://blog.upx8.com/Snowflake%E4%B8%8EAWS%E7%AD%BE%E8%AE%A260%E4%BA%BF%E7%BE%8E%E5%85%83%E9%87%87%E8%B4%AD%E5%8D%8F%E8%AE%AE)
+  - [Temu因销售危险玩具和充电器被欧盟罚款](https://blog.upx8.com/Temu%E5%9B%A0%E9%94%80%E5%94%AE%E5%8D%B1%E9%99%A9%E7%8E%A9%E5%85%B7%E5%92%8C%E5%85%85%E7%94%B5%E5%99%A8%E8%A2%AB%E6%AC%A7%E7%9B%9F%E7%BD%9A%E6%AC%BE)
   - [三星计划在越南投资建设芯片测试工厂](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E8%AE%A1%E5%88%92%E5%9C%A8%E8%B6%8A%E5%8D%97%E6%8A%95%E8%B5%84%E5%BB%BA%E8%AE%BE%E8%8A%AF%E7%89%87%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%8E%82)
   - [京东创始人誓言保护中国就业岗位免受AI和机器人的影响](https://blog.upx8.com/%E4%BA%AC%E4%B8%9C%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%AA%93%E8%A8%80%E4%BF%9D%E6%8A%A4%E4%B8%AD%E5%9B%BD%E5%B0%B1%E4%B8%9A%E5%B2%97%E4%BD%8D%E5%85%8D%E5%8F%97AI%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D)
   - [富士电机新技术使数据中心冷却耗电减少85%](https://blog.upx8.com/%E5%AF%8C%E5%A3%AB%E7%94%B5%E6%9C%BA%E6%96%B0%E6%8A%80%E6%9C%AF%E4%BD%BF%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%86%B7%E5%8D%B4%E8%80%97%E7%94%B5%E5%87%8F%E5%B0%9185)
