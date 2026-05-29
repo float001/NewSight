@@ -7,21 +7,50 @@
   - [One Group, Clearly, Is Deranged](https://paulkrugman.substack.com/p/whos-deranged-exactly)
 - filfre.net
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/)
+- Hacker News Frontpage
+  - [Robinhood now lets your AI agents trade stocks](https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/)
 - Horizon3.ai
   - [Rapid Response](https://horizon3.ai/downloads/factsheets/rapid-response/)
 - Microsoft Security Blog
   - [Microsoft is named a Leader in the 2026 Gartner® Magic Quadrant™ for Endpoint Protection](https://www.microsoft.com/en-us/security/blog/2026/05/29/microsoft-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-endpoint-protection/)
 - PromptLayer
   - [How to Automate AI Workflows in Production](https://blog.promptlayer.com/how-to-automate-ai-workflows-in-production/)
+  - [How to Build Agentic Workflows in Google AI Studio](https://blog.promptlayer.com/how-to-build-agentic-workflows-in-google-ai-studio/)
+  - [How to Define Few-Shot Context](https://blog.promptlayer.com/how-to-define-few-shot-context/)
   - [How to Explain What Agentic Means in AI Apps](https://blog.promptlayer.com/how-to-explain-what-agentic-means-in-ai-apps/)
   - [How to Start Anthropic Prompt Engineering](https://blog.promptlayer.com/how-to-start-anthropic-prompt-engineering/)
+  - [How to Write a Reliable ChatGPT Prompt](https://blog.promptlayer.com/how-to-write-a-reliable-chatgpt-prompt/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-46840 exploit](https://sploitus.com/exploit?id=3D6FBB98-36AB-5F6C-BD65-545B7A10A138&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/)
   - [Cognition’s Scott Wu says AI coding agents shouldn’t replace humans](https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/)
   - [Microsoft under fire for threatening security researcher with criminal investigation](https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/)
+  - [What happens when companies become too AI-pilled?](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/)
 - The Decoder
+  - [Google fixes several bugs in Gemini usage limits that burned through quotas too fast](https://the-decoder.com/google-fixes-several-bugs-in-gemini-usage-limits-that-burned-through-quotas-too-fast/)
+  - [One company reportedly spent $500 million on Claude in one month after failing to cap AI usage](https://the-decoder.com/one-company-reportedly-spent-500-million-on-claude-in-one-month-after-failing-to-cap-ai-usage/)
   - [OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic](https://the-decoder.com/openai-is-giving-away-its-life-sciences-ai-model-to-help-governments-prepare-for-the-next-pandemic/)
+- The Verge
+  - [Tech companies desperately want to film you doing chores](https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data)
+- VulDB Recent Entries
+  - [CVE-2026-10110 | code-projects Student Details Management System 1.0 /index.php roll sql injection](https://vuldb.com/vuln/367288)
+  - [CVE-2026-10111 | sambitraj STUDENT-MANAGEMENT-SYSTEM 1.0 Login Page email sql injection](https://vuldb.com/vuln/367289)
+  - [CVE-2026-10112 | sambitraj STUDENT-MANAGEMENT-SYSTEM 1.0 Dashboard Page Name cross site scripting](https://vuldb.com/vuln/367290)
+  - [CVE-2026-10113 | Open5GS up to 2.7.7 Shared NF-profile Parser lib/sbi/nnrf-handler.c denial of service (Issue 4467)](https://vuldb.com/vuln/367291)
+  - [CVE-2026-10114 | Open5GS up to 2.7.7 Shared NF-profile Parser lib/sbi/nnrf-handler.c handle_scp_info out-of-bounds write (Issue 4468)](https://vuldb.com/vuln/367292)
+  - [CVE-2026-10115 | Open5GS up to 2.7.7 Shared NF-profile Parser lib/sbi/nnrf-handler.c denial of service (Issue 4469)](https://vuldb.com/vuln/367293)
+  - [CVE-2026-10116 | Open5GS up to 2.7.7 ue-authentications Endpoint /lib/core/ogs-timer.c ogs_sbi_xact_add denial of service (Issue 4473)](https://vuldb.com/vuln/367294)
+  - [CVE-2026-10117 | Open5GS up to 2.7.7 nghttp2-server.c ogs_pool_id_calloc denial of service (Issue 4474)](https://vuldb.com/vuln/367295)
+  - [CVE-2026-10119 | TRENDnet TEW-432BRP 3.10B20 /goform/formSetMACFilter filter_name stack-based overflow](https://vuldb.com/vuln/367296)
+  - [CVE-2026-10120 | TRENDnet TEW-432BRP 3.10B20 formSetFirewallRule firewall_name stack-based overflow](https://vuldb.com/vuln/367297)
+  - [CVE-2026-10121 | TRENDnet TEW-432BRP 3.10B20 /goform/formSetUrlFilter keyword_list/keyword stack-based overflow](https://vuldb.com/vuln/367298)
+  - [CVE-2026-10122 | TRENDnet TEW-432BRP 3.10B20 formSetProtocolFilter protocol_name stack-based overflow](https://vuldb.com/vuln/367299)
+  - [CVE-2026-10123 | TRENDnet TEW-432BRP 3.10B20 formSetDomainFilter stack-based overflow](https://vuldb.com/vuln/367300)
+  - [CVE-2026-10124 | Shibby Tomato up to 1.28 Zserv /usr/sbin/ripd rip_zebra_read_ipv4 stack-based overflow (IJ9FFG)](https://vuldb.com/vuln/367301)
+  - [CVE-2026-10125 | Edimax BR-6478AC 1.23 POST Request /goform/formPPPoESetup pppUserName stack-based overflow](https://vuldb.com/vuln/367302)
+  - [CVE-2026-10126 | Edimax BR-6478AC 1.23 POST Request /goform/formQoS selSSID buffer overflow](https://vuldb.com/vuln/367303)
+  - [CVE-2026-10127 | Edimax BR-6478AC 1.23 POST Request /goform/formStaDrvSetup rootAPmac command injection](https://vuldb.com/vuln/367304)
 - Vulners.com RSS Feed
   - [CVE-2018-25382](https://vulners.com/nvd/NVD:CVE-2018-25382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2018-25383](https://vulners.com/nvd/NVD:CVE-2018-25383?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -63,14 +92,31 @@
   - [CVE-2026-36324](https://vulners.com/nvd/NVD:CVE-2026-36324?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39229](https://vulners.com/nvd/NVD:CVE-2026-39229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39276](https://vulners.com/nvd/NVD:CVE-2026-39276?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44697 Klever-Go MultiDataInterceptor: remote OOM via crafted compressed P2P payload](https://vulners.com/cve/CVE-2026-44697?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44697 Klever-Go MultiDataInterceptor: remote OOM via crafted compressed P2P payload](https://vulners.com/cvelist/CVELIST:CVE-2026-44697?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44962](https://vulners.com/nvd/NVD:CVE-2026-44962?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45625 Arcane: Missing admin authorization on git repository endpoints allows non-admin users to exfiltrate stored Git credentials and tamper with GitOps configs](https://vulners.com/cve/CVE-2026-45625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45625 Arcane: Missing admin authorization on git repository endpoints allows non-admin users to exfiltrate stored Git credentials and tamper with GitOps configs](https://vulners.com/cvelist/CVELIST:CVE-2026-45625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45626 Arcane: OS Command Injection in Volume Browser ListDirectory via path query parameter](https://vulners.com/cve/CVE-2026-45626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45626 Arcane: OS Command Injection in Volume Browser ListDirectory via path query parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-45626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45627 Arcane: Unauthenticated reflected XSS via SVG color parameter in /api/app-images/logo enables admin account takeover](https://vulners.com/cve/CVE-2026-45627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45627 Arcane: Unauthenticated reflected XSS via SVG color parameter in /api/app-images/logo enables admin account takeover](https://vulners.com/cvelist/CVELIST:CVE-2026-45627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45662](https://vulners.com/nvd/NVD:CVE-2026-45662?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45663](https://vulners.com/nvd/NVD:CVE-2026-45663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45668 Trilium Notes : Note Import to RCE via #docName Path Traversal (Safe Import Enabled)](https://vulners.com/cve/CVE-2026-45668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45668 Trilium Notes : Note Import to RCE via #docName Path Traversal (Safe Import Enabled)](https://vulners.com/cvelist/CVELIST:CVE-2026-45668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47125 Arcane: Missing admin authorization on global variables endpoint](https://vulners.com/cve/CVE-2026-47125?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47125 Arcane: Missing admin authorization on global variables endpoint](https://vulners.com/cvelist/CVELIST:CVE-2026-47125?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47179 Arcane: Authenticated Arbitrary Host File Read via Docker Compose Include Directives in Arcane](https://vulners.com/cve/CVE-2026-47179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47179 Arcane: Authenticated Arbitrary Host File Read via Docker Compose Include Directives in Arcane](https://vulners.com/cvelist/CVELIST:CVE-2026-47179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48501](https://vulners.com/nvd/NVD:CVE-2026-48501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7786 Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter Use of Hard-coded Credentials](https://vulners.com/cve/CVE-2026-7786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7786 Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter Use of Hard-coded Credentials](https://vulners.com/cvelist/CVELIST:CVE-2026-7786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9194](https://vulners.com/nvd/NVD:CVE-2026-9194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: What If...We're In An AI Bubble? (Part 3)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/)
 - Wired
+  - [The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame](https://www.wired.com/story/best-pool-cleaning-robots/)
   - [We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well](https://www.wired.com/story/future-of-truth-ai-interview/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
