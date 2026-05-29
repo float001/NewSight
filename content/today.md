@@ -5,6 +5,8 @@
 - 36氪
   - [千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家](https://36kr.com/p/3830580716365449?f=rss)
   - [连续15年披露ESG报告，自然堂开始把“可持续”做成一门生意｜最前线](https://36kr.com/p/3830545234552452?f=rss)
+- Ars Technica
+  - [Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there](https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/)
 - daringfireball.net
   - [One Group, Clearly, Is Deranged](https://paulkrugman.substack.com/p/whos-deranged-exactly)
 - darkreading
@@ -15,6 +17,7 @@
   - [AI will be used to estimate age of asylum seekers from next year](https://www.bbc.co.uk/news/articles/ce3pe36qe7ro)
   - [Canada in Technical Recession](https://www.cbc.ca/news/business/recession-gdp-may-2026-statscan-9.7216352)
   - [CVE-Bench: testing LLM agents on real-world vulnerability patches](https://giovannigatti.github.io/cve-bench/)
+  - [EV Stupidity Checklist](http://hypercritical.co/2026/05/29/ev-stupidity-checklist)
   - [Robinhood now lets your AI agents trade stocks](https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/)
   - [Rothko for your current weather conditions](https://rothko.joonas.wtf/)
   - [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
@@ -54,6 +57,7 @@
   - [OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic](https://the-decoder.com/openai-is-giving-away-its-life-sciences-ai-model-to-help-governments-prepare-for-the-next-pandemic/)
 - The Verge
   - [Acer’s launching a Linux handheld for streaming your PC games](https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld)
+  - [SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites](https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract)
   - [Tech companies desperately want to film you doing chores](https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data)
 - VulDB Recent Entries
   - [CVE-2026-10110 | code-projects Student Details Management System 1.0 /index.php roll sql injection](https://vuldb.com/vuln/367288)
@@ -105,6 +109,7 @@
   - [CVE-2026-5768 | Fourth Frontier Frontier X App up to 14.x missing authentication](https://vuldb.com/vuln/367335)
   - [CVE-2026-6824 | CP Plus CP-UNR-108F1 Hardware 1.0 Device Backend cross site scripting](https://vuldb.com/vuln/367346)
 - Vulners.com RSS Feed
+  - [Authelia Missing Username Canonicalization in Basic Auth (LDAP)](https://vulners.com/github/GHSA-HJJ4-HFJM-FMRJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [coolblue-poc](https://vulners.com/githubexploit/7817E7C9-F95F-5DCC-9E21-D2DB84077DDC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2018-25382](https://vulners.com/nvd/NVD:CVE-2018-25382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2018-25383](https://vulners.com/nvd/NVD:CVE-2018-25383?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -221,6 +226,8 @@
   - [CVE-2026-47179 Arcane: Authenticated Arbitrary Host File Read via Docker Compose Include Directives in Arcane](https://vulners.com/cve/CVE-2026-47179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47179 Arcane: Authenticated Arbitrary Host File Read via Docker Compose Include Directives in Arcane](https://vulners.com/cvelist/CVELIST:CVE-2026-47179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47190](https://vulners.com/cve/CVE-2026-47190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47203](https://vulners.com/cve/CVE-2026-47203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47211](https://vulners.com/cve/CVE-2026-47211?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47266](https://vulners.com/nvd/NVD:CVE-2026-47266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47742](https://vulners.com/nvd/NVD:CVE-2026-47742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47744](https://vulners.com/nvd/NVD:CVE-2026-47744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -271,6 +278,8 @@
   - [CVE-2026-7786 Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter Use of Hard-coded Credentials](https://vulners.com/cvelist/CVELIST:CVE-2026-7786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9051](https://vulners.com/nvd/NVD:CVE-2026-9051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9194](https://vulners.com/nvd/NVD:CVE-2026-9194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9831 ExtremeCloud IQ Cross Tenant Data Exposure via Extreme Platform One Authentication Race Condition](https://vulners.com/cve/CVE-2026-9831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9831 ExtremeCloud IQ Cross Tenant Data Exposure via Extreme Platform One Authentication Race Condition](https://vulners.com/cvelist/CVELIST:CVE-2026-9831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-0257](https://vulners.com/githubexploit/9BEB47F3-0FCC-511F-9E72-F956A850A85D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-22557](https://vulners.com/githubexploit/25B4314F-857E-50A3-8FD2-33252F85B49A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-46376](https://vulners.com/githubexploit/12BD25E5-8340-5DD6-A872-0FFBEF75AD54?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -285,7 +294,9 @@
   - [IPAM controller service account granted unnecessary full access to Secrets](https://vulners.com/github/GHSA-49PM-43HF-6XFQ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Ironic Standalone Operator's controller modifies user-owned resources without consent](https://vulners.com/github/GHSA-HFC8-W5F4-3X6M?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Ironic Standalone Operator's prometheus metrics exporter bound to all interfaces](https://vulners.com/github/GHSA-7CWM-FPFH-RRCH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [NileBank-Vulnerable-App](https://vulners.com/githubexploit/3D0A1229-1084-5FB4-ACD0-1416172B2807?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NodeVM observability builtins leak host process and HTTP request data](https://vulners.com/github/GHSA-9G8X-92Q2-P28F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ouroboros-ai Vulnerable to Remote Code Execution via Untrusted Project-Directory .env](https://vulners.com/github/GHSA-C4M7-2GWP-VW76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: What If...We're In An AI Bubble? (Part 3)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/)
 - Wired
