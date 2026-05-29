@@ -18,9 +18,11 @@
   - [Canada in Technical Recession](https://www.cbc.ca/news/business/recession-gdp-may-2026-statscan-9.7216352)
   - [CVE-Bench: testing LLM agents on real-world vulnerability patches](https://giovannigatti.github.io/cve-bench/)
   - [EV Stupidity Checklist](http://hypercritical.co/2026/05/29/ev-stupidity-checklist)
+  - [Free full BGP feed. IPv4 and IPv6](https://lukasz.bromirski.net/post/bgp-w-labie-3/)
   - [Robinhood now lets your AI agents trade stocks](https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/)
   - [Rothko for your current weather conditions](https://rothko.joonas.wtf/)
   - [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
+  - [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/secluso/core)
   - [Why I collect DLES](https://dles.gg/blog/dles-gg-manifesto)
 - Horizon3.ai
   - [Rapid Response](https://horizon3.ai/downloads/factsheets/rapid-response/)
@@ -31,9 +33,12 @@
   - [How to Apply Prompt Engineering Best Practices](https://blog.promptlayer.com/how-to-apply-prompt-engineering-best-practices/)
   - [How to Automate AI Workflows in Production](https://blog.promptlayer.com/how-to-automate-ai-workflows-in-production/)
   - [How to Build Agentic Workflows in Google AI Studio](https://blog.promptlayer.com/how-to-build-agentic-workflows-in-google-ai-studio/)
+  - [How to Build From AI Agent Examples](https://blog.promptlayer.com/how-to-build-from-ai-agent-examples/)
   - [How to Build With the OpenAI Responses API](https://blog.promptlayer.com/how-to-build-with-the-openai-responses-api/)
+  - [How to Choose AI Agent Tools](https://blog.promptlayer.com/how-to-choose-ai-agent-tools/)
   - [How to Define a Prompt for an LLM App](https://blog.promptlayer.com/how-to-define-a-prompt-for-an-llm-app/)
   - [How to Define Few-Shot Context](https://blog.promptlayer.com/how-to-define-few-shot-context/)
+  - [How to Do AI Prompt Engineering in LLM Apps](https://blog.promptlayer.com/how-to-do-ai-prompt-engineering-in-llm-apps/)
   - [How to Explain What Agentic Means in AI Apps](https://blog.promptlayer.com/how-to-explain-what-agentic-means-in-ai-apps/)
   - [How to Fix Bad Tool Arguments](https://blog.promptlayer.com/how-to-fix-bad-tool-arguments/)
   - [How to Start Anthropic Prompt Engineering](https://blog.promptlayer.com/how-to-start-anthropic-prompt-engineering/)
@@ -46,9 +51,11 @@
   - [Exploit for Improper Privilege Management in Apache Couchdb exploit](https://sploitus.com/exploit?id=91E99754-E8D0-5B4C-A0EC-525AF2DFC914&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/)
+  - [Coders are refusing to work without AI — and that could come back to bite them](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/)
   - [Cognition’s Scott Wu says AI coding agents shouldn’t replace humans](https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/)
   - [Microsoft under fire for threatening security researcher with criminal investigation](https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/)
   - [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
+  - [SpaceX awarded $6.45B in Space Force contracts ahead of IPO](https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/)
   - [What happens when companies become too AI-pilled?](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/)
 - The Decoder
   - [Google fixes several bugs in Gemini usage limits that burned through quotas too fast](https://the-decoder.com/google-fixes-several-bugs-in-gemini-usage-limits-that-burned-through-quotas-too-fast/)
@@ -278,6 +285,7 @@
   - [CVE-2026-7786 Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter Use of Hard-coded Credentials](https://vulners.com/cvelist/CVELIST:CVE-2026-7786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9051](https://vulners.com/nvd/NVD:CVE-2026-9051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9194](https://vulners.com/nvd/NVD:CVE-2026-9194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9831](https://vulners.com/nvd/NVD:CVE-2026-9831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9831 ExtremeCloud IQ Cross Tenant Data Exposure via Extreme Platform One Authentication Race Condition](https://vulners.com/cve/CVE-2026-9831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9831 ExtremeCloud IQ Cross Tenant Data Exposure via Extreme Platform One Authentication Race Condition](https://vulners.com/cvelist/CVELIST:CVE-2026-9831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-0257](https://vulners.com/githubexploit/9BEB47F3-0FCC-511F-9E72-F956A850A85D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -300,6 +308,7 @@
 - wheresyoured.at
   - [Premium: What If...We're In An AI Bubble? (Part 3)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/)
 - Wired
+  - [24 Best Father’s Day Gifts for Dads (2026)](https://www.wired.com/story/the-best-gifts-for-dads-2026/)
   - [Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious](https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/)
   - [Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend](https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/)
   - [The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame](https://www.wired.com/story/best-pool-cleaning-robots/)
