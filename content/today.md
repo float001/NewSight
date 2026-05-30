@@ -11,6 +11,8 @@
   - [One Group, Clearly, Is Deranged](https://paulkrugman.substack.com/p/whos-deranged-exactly)
 - darkreading
   - [Name That Toon: Mark of (Cybersecurity) Progress](https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress)
+- Emergent Minds | paddo.dev
+  - [The Last Slow Thing](https://paddo.dev/blog/the-last-slow-thing/)
 - filfre.net
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/)
 - Hacker News Frontpage
