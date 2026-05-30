@@ -5,6 +5,7 @@
 - Hacker News Frontpage
   - [Hormuz crisis side effect: a sharp rise in container shipping rates](https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates)
   - [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b)
+  - [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/)
   - [White House's Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/)
   - [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30)
 - PromptLayer
@@ -12,10 +13,13 @@
 - righto.com
   - [Microcode inside the Intel 8087 floating-point chip: register exchange](http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
 - simonwillison.net
+  - [I Am Retiring from Tech to Live Offline](https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything)
   - [Quoting Daniel Jalkut](https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [cyanide exploit](https://sploitus.com/exploit?id=5D4ACCD9-4702-5539-9E04-EEF51C46C477&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Access Control in Papercut Papercut_Mf exploit](https://sploitus.com/exploit?id=53A0E0A7-1BA9-5582-BCDA-8EBAD523813D&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Paloaltonetworks Pan-Os exploit](https://sploitus.com/exploit?id=F6610C79-ABD9-5BAC-BCCB-D3173C22B58D&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector exploit](https://sploitus.com/exploit?id=7C44A645-D3FC-5C14-8A16-F4D02F5C0D88&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Snap alums unveil Ghost Angels fund](https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/)
   - [‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)
@@ -74,10 +78,14 @@
   - [CVE-2026-10127](https://vulners.com/nvd/NVD:CVE-2026-10127?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10127 Edimax BR-6478AC POST Request formStaDrvSetup command injection](https://vulners.com/cve/CVE-2026-10127?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10127 Edimax BR-6478AC POST Request formStaDrvSetup command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10127?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10152 TaleLin lin-cms-spring-boot book Endpoint BookController.java access control](https://vulners.com/cve/CVE-2026-10152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10152 TaleLin lin-cms-spring-boot book Endpoint BookController.java access control](https://vulners.com/cvelist/CVELIST:CVE-2026-10152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46242](https://vulners.com/circl/CIRCL:CVE-2026-46242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8594](https://vulners.com/nvd/NVD:CVE-2026-8594?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cyanide](https://vulners.com/githubexploit/5D4ACCD9-4702-5539-9E04-EEF51C46C477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-48778](https://vulners.com/githubexploit/9C4BCDEB-7C67-5AE3-B5CD-A9A351CBBFC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Access Control in Papercut Papercut_Mf](https://vulners.com/githubexploit/53A0E0A7-1BA9-5582-BCDA-8EBAD523813D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Input Validation in Paloaltonetworks Pan-Os](https://vulners.com/githubexploit/F6610C79-ABD9-5BAC-BCCB-D3173C22B58D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/7C44A645-D3FC-5C14-8A16-F4D02F5C0D88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
