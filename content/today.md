@@ -1,5 +1,14 @@
 # 今日安全资讯（2026-05-31）
 
+- Hacker News Frontpage
+  - [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b)
+  - [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30)
+- PromptLayer
+  - [How to Build an AI Engineering Stack](https://blog.promptlayer.com/how-to-build-an-ai-engineering-stack/)
+- righto.com
+  - [Microcode inside the Intel 8087 floating-point chip: register exchange](http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
+- simonwillison.net
+  - [Quoting Daniel Jalkut](https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything)
 - TechCrunch
   - [Snap alums unveil Ghost Angels fund](https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/)
   - [‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)
@@ -50,11 +59,14 @@
   - [CVE-2026-10123](https://vulners.com/nvd/NVD:CVE-2026-10123?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10124](https://vulners.com/nvd/NVD:CVE-2026-10124?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10125](https://vulners.com/nvd/NVD:CVE-2026-10125?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10126](https://vulners.com/nvd/NVD:CVE-2026-10126?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10126 Edimax BR-6478AC POST Request formQoS buffer overflow](https://vulners.com/cve/CVE-2026-10126?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10126 Edimax BR-6478AC POST Request formQoS buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-10126?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10127](https://vulners.com/nvd/NVD:CVE-2026-10127?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10127 Edimax BR-6478AC POST Request formStaDrvSetup command injection](https://vulners.com/cve/CVE-2026-10127?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10127 Edimax BR-6478AC POST Request formStaDrvSetup command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10127?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46242](https://vulners.com/circl/CIRCL:CVE-2026-46242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8594](https://vulners.com/nvd/NVD:CVE-2026-8594?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-48778](https://vulners.com/githubexploit/9C4BCDEB-7C67-5AE3-B5CD-A9A351CBBFC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
