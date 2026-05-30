@@ -46,10 +46,13 @@
   - [集采百元一盒药，药店竟卖3960元，央视调查“高价药”疑云](https://36kr.com/newsflashes/3831277475030918?f=rss)
   - [霍尼韦尔旗下量子计算公司 Quantinuum 拟扩大IPO规模](https://36kr.com/newsflashes/3831156793108099?f=rss)
   - [龙行天下IPO申请获受理](https://36kr.com/newsflashes/3831334882912134?f=rss)
+- 404 Media
+  - [‘Highly Plausible’ Aliens on Europa Are Earthlings’ Descendants, Study Says](https://www.404media.co/highly-plausible-aliens-on-europa-are-earthlings-descendants-study-says/)
 - Ars Technica
   - [Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there](https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/)
 - daringfireball.net
   - [One Group, Clearly, Is Deranged](https://paulkrugman.substack.com/p/whos-deranged-exactly)
+  - [Yours Truly on TBPN Yesterday](https://www.youtube.com/live/sQVwLUxFdMY?t=1997)
 - darkreading
   - [Name That Toon: Mark of (Cybersecurity) Progress](https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress)
 - defend.network
@@ -59,6 +62,7 @@
 - filfre.net
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/)
 - Hacker News Frontpage
+  - [Adding Linux support back for the BASIC (free) version of Vivado](https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US)
   - [AI will be used to estimate age of asylum seekers from next year](https://www.bbc.co.uk/news/articles/ce3pe36qe7ro)
   - [Canada in Technical Recession](https://www.cbc.ca/news/business/recession-gdp-may-2026-statscan-9.7216352)
   - [CVE-Bench: testing LLM agents on real-world vulnerability patches](https://giovannigatti.github.io/cve-bench/)
@@ -128,6 +132,7 @@
   - [RestroPress-WordPress-Plugin-Sensitive-API-Key-amp-Token-Exposure-Vulnerability-Exploitation exploit](https://sploitus.com/exploit?id=021A7C40-40E4-5B2D-AC96-99297BA23047&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/)
+  - [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026](https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)
   - [Coders are refusing to work without AI — and that could come back to bite them](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/)
   - [Cognition’s Scott Wu says AI coding agents shouldn’t replace humans](https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/)
   - [Founders seize on Indian court ruling to revive criticism of Google’s ad business](https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/)
@@ -135,10 +140,13 @@
   - [Microsoft under fire for threatening security researcher with criminal investigation](https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/)
   - [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
   - [SpaceX awarded $6.45B in Space Force contracts ahead of IPO](https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/)
+  - [This $300 pizza oven can easily help elevate your summer pizza nights](https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/)
+  - [TikTok’s road to becoming a super app](https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/)
   - [What happens when companies become too AI-pilled?](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/)
 - The Decoder
   - [Attackers abuse shared ChatGPT and Claude chats to spread malware](https://the-decoder.com/attackers-abuse-shared-chatgpt-and-claude-chats-to-spread-malware/)
   - [Google fixes several bugs in Gemini usage limits that burned through quotas too fast](https://the-decoder.com/google-fixes-several-bugs-in-gemini-usage-limits-that-burned-through-quotas-too-fast/)
+  - [Making AI chatbots helpful weakens their ability to simulate human behavior, large-scale study finds](https://the-decoder.com/making-ai-chatbots-helpful-weakens-their-ability-to-simulate-human-behavior-large-scale-study-finds/)
   - [Meta's leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy](https://the-decoder.com/metas-leaked-memo-reveals-ai-pendant-supersensing-glasses-and-enterprise-wearables-strategy/)
   - [One company reportedly spent $500 million on Claude in one month after failing to cap AI usage](https://the-decoder.com/one-company-reportedly-spent-500-million-on-claude-in-one-month-after-failing-to-cap-ai-usage/)
   - [OpenAI gives GPT-5.5 Instant a readability upgrade while phasing out two older models](https://the-decoder.com/openai-gives-gpt-5-5-instant-a-readability-upgrade-while-phasing-out-two-older-models/)
@@ -147,6 +155,8 @@
   - [Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents](https://the-decoder.com/salesforce-claims-ai-agents-cut-a-231-day-migration-to-13-days-with-fewer-incidents/)
 - The Verge
   - [Acer’s launching a Linux handheld for streaming your PC games](https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld)
+  - [AI grifters are creating fake Black people to sell Shein junk](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping)
+  - [How one founder’s bet on ‘the old school web’ is paying off](https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai)
   - [Sometimes, a short game hits the spot](https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc)
   - [SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites](https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract)
   - [Tech companies desperately want to film you doing chores](https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data)
@@ -284,6 +294,9 @@
   - [CVE-2026-10115](https://vulners.com/nvd/NVD:CVE-2026-10115?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10115 Open5GS Shared NF-profile nnrf-handler.c denial of service](https://vulners.com/cve/CVE-2026-10115?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10115 Open5GS Shared NF-profile nnrf-handler.c denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-10115?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10116](https://vulners.com/nvd/NVD:CVE-2026-10116?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10117 Open5GS nghttp2-server.c ogs_pool_id_calloc denial of service](https://vulners.com/cve/CVE-2026-10117?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10117 Open5GS nghttp2-server.c ogs_pool_id_calloc denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-10117?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-1402 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-1402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28374 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-28374?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28374 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-28374?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -370,6 +383,8 @@
   - [CVE-2026-45668 Trilium Notes : Note Import to RCE via #docName Path Traversal (Safe Import Enabled)](https://vulners.com/cvelist/CVELIST:CVE-2026-45668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45697](https://vulners.com/nvd/NVD:CVE-2026-45697?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45700](https://vulners.com/nvd/NVD:CVE-2026-45700?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46242 eventpoll: fix ep_remove struct eventpoll / struct file UAF](https://vulners.com/cve/CVE-2026-46242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46242 eventpoll: fix ep_remove struct eventpoll / struct file UAF](https://vulners.com/cvelist/CVELIST:CVE-2026-46242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46344](https://vulners.com/nvd/NVD:CVE-2026-46344?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46372](https://vulners.com/nvd/NVD:CVE-2026-46372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46384](https://vulners.com/nvd/NVD:CVE-2026-46384?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -529,6 +544,7 @@
   - [We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well](https://www.wired.com/story/future-of-truth-ai-interview/)
   - [‘We’re Just Getting the Crumbs Here’: Contractors Protest Layoffs at Meta’s European Headquarters](https://www.wired.com/story/meta-covalen-protest-strike-dublin/)
 - 不安全
+  - [150+ 正版软件大降价任选！PixPin / Typora / Bartender / UPDF 等…](https://buaq.net/go-419966.html)
   - [Festa della Repubblica](https://buaq.net/go-419895.html)
   - [搬瓦工上线新加坡机房 全程CN2GIA/CTGNET精品线路 直连下载速度高达25MB/秒](https://buaq.net/go-419922.html)
   - [深圳网约车市场已饱和 官方发布风险提示](https://buaq.net/go-419925.html)
