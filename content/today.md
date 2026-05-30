@@ -2,6 +2,8 @@
 
 - 2Libra
   - [20260530 03.53 前来报道了](https://2libra.com/post/newcomer/dmkXy9N)
+  - [AI + 终端 Rumus v0.1.19 发布带来全新的 Fleet 模式](https://2libra.com/post/promotion/NeWfEny)
+  - [真羡慕他们有一个美好的童年](https://2libra.com/post/small-things/HXilXS9)
 - 36氪
   - [36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资](https://36kr.com/p/3831135917107075?f=rss)
   - [40余款AI大模型集中亮相2026世界智能产业博览会](https://36kr.com/newsflashes/3831203586745984?f=rss)
@@ -9,11 +11,15 @@
   - [Apple Music崩了 部分用户可能遇到间歇性问题](https://36kr.com/newsflashes/3831194207037061?f=rss)
   - [Meta计划今年下半年售出1000万台可穿戴设备](https://36kr.com/newsflashes/3831107976013700?f=rss)
   - [MiniMax启动A股上市辅导](https://36kr.com/newsflashes/3831103200192134?f=rss)
+  - [“张雪机车”车手德比斯获阿拉贡站排位赛第二名](https://36kr.com/newsflashes/3831192058816393?f=rss)
   - [丰田汽车计划11月在巴西开设新工厂](https://36kr.com/newsflashes/3831096744142726?f=rss)
+  - [丹麦养老基金称SpaceX被“严重高估”](https://36kr.com/newsflashes/3831206788065153?f=rss)
   - [千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家](https://36kr.com/p/3830580716365449?f=rss)
   - [周六福就“售卖不合格足银手镯”致歉](https://36kr.com/newsflashes/3831155704391302?f=rss)
   - [商业载人航天穿越者完成Pre-A轮亿元融资](https://36kr.com/newsflashes/3831149360260994?f=rss)
+  - [国家能源局：2026年4月，核发绿证2.37亿个](https://36kr.com/newsflashes/3831212862137990?f=rss)
   - [宁德时代首席科学家吴凯：今年实现钠离子电池规模量产，下一步聚焦锂空气电池研发](https://36kr.com/newsflashes/3831189798872963?f=rss)
+  - [宁德时代首席科学家吴凯：新国标实施后，中国新能源车的自燃率会比燃油车低一个数量级](https://36kr.com/newsflashes/3831211012335237?f=rss)
   - [最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策](https://36kr.com/p/3831071878358659?f=rss)
   - [欧足联携手阿里巴巴，达成多年战略合作](https://36kr.com/newsflashes/3831187716941441?f=rss)
   - [百胜据悉与LongRange就出售必胜客独家洽谈](https://36kr.com/newsflashes/3831092160407429?f=rss)
@@ -36,6 +42,7 @@
   - [EV Stupidity Checklist](http://hypercritical.co/2026/05/29/ev-stupidity-checklist)
   - [Free full BGP feed. IPv4 and IPv6](https://lukasz.bromirski.net/post/bgp-w-labie-3/)
   - [Naphtha Shortages Having a Growing Impact in Japan](https://www.nippon.com/en/japan-data/h02783/)
+  - [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
   - [Robinhood now lets your AI agents trade stocks](https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/)
   - [Rothko for your current weather conditions](https://rothko.joonas.wtf/)
   - [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
