@@ -3,7 +3,9 @@
 - 2Libra
   - [20260530 03.53 前来报道了](https://2libra.com/post/newcomer/dmkXy9N)
 - 36氪
+  - [9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”](https://36kr.com/p/3831073348855433?f=rss)
   - [千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家](https://36kr.com/p/3830580716365449?f=rss)
+  - [最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策](https://36kr.com/p/3831071878358659?f=rss)
   - [连续15年披露ESG报告，自然堂开始把“可持续”做成一门生意｜最前线](https://36kr.com/p/3830545234552452?f=rss)
 - Ars Technica
   - [Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there](https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/)
@@ -47,6 +49,7 @@
   - [How to Track Prompt Engineering News](https://blog.promptlayer.com/how-to-track-prompt-engineering-news/)
   - [How to Write a Reliable ChatGPT Prompt](https://blog.promptlayer.com/how-to-write-a-reliable-chatgpt-prompt/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2025-66478 exploit](https://sploitus.com/exploit?id=0264A3FE-0D69-5105-A23B-BE166598AA47&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-0257 exploit](https://sploitus.com/exploit?id=9BEB47F3-0FCC-511F-9E72-F956A850A85D&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-22557 exploit](https://sploitus.com/exploit?id=25B4314F-857E-50A3-8FD2-33252F85B49A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-46840 exploit](https://sploitus.com/exploit?id=3D6FBB98-36AB-5F6C-BD65-545B7A10A138&utm_source=rss&utm_medium=rss)
@@ -55,6 +58,7 @@
   - [After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/)
   - [Coders are refusing to work without AI — and that could come back to bite them](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/)
   - [Cognition’s Scott Wu says AI coding agents shouldn’t replace humans](https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/)
+  - [I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides](https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/)
   - [Microsoft under fire for threatening security researcher with criminal investigation](https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/)
   - [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
   - [SpaceX awarded $6.45B in Space Force contracts ahead of IPO](https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/)
@@ -290,6 +294,7 @@
   - [CVE-2026-9831](https://vulners.com/nvd/NVD:CVE-2026-9831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9831 ExtremeCloud IQ Cross Tenant Data Exposure via Extreme Platform One Authentication Race Condition](https://vulners.com/cve/CVE-2026-9831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9831 ExtremeCloud IQ Cross Tenant Data Exposure via Extreme Platform One Authentication Race Condition](https://vulners.com/cvelist/CVELIST:CVE-2026-9831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2025-66478](https://vulners.com/githubexploit/0264A3FE-0D69-5105-A23B-BE166598AA47?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-0257](https://vulners.com/githubexploit/9BEB47F3-0FCC-511F-9E72-F956A850A85D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-22557](https://vulners.com/githubexploit/25B4314F-857E-50A3-8FD2-33252F85B49A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-46376](https://vulners.com/githubexploit/12BD25E5-8340-5DD6-A872-0FFBEF75AD54?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -304,6 +309,7 @@
   - [IPAM controller service account granted unnecessary full access to Secrets](https://vulners.com/github/GHSA-49PM-43HF-6XFQ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Ironic Standalone Operator's controller modifies user-owned resources without consent](https://vulners.com/github/GHSA-HFC8-W5F4-3X6M?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Ironic Standalone Operator's prometheus metrics exporter bound to all interfaces](https://vulners.com/github/GHSA-7CWM-FPFH-RRCH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Malicious npm packages abuse dependency confusion to profile developer environments](https://vulners.com/mssecure/MSSECURE:3C5DF3D0AA26613EA1FD65DED6D3D94F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NileBank-Vulnerable-App](https://vulners.com/githubexploit/3D0A1229-1084-5FB4-ACD0-1416172B2807?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NodeVM observability builtins leak host process and HTTP request data](https://vulners.com/github/GHSA-9G8X-92Q2-P28F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ouroboros-ai Vulnerable to Remote Code Execution via Untrusted Project-Directory .env](https://vulners.com/github/GHSA-C4M7-2GWP-VW76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -321,3 +327,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [英伟达税](https://www.solidot.org/story?sid=84438)
+- 爱范儿
+  - [早报｜曝苹果用谷歌AI训练自己模型/黄仁勋：工程师不烧Token我会气炸/工信部：动力电池进入规模化退役阶段](https://www.ifanr.com/1667559?utm_source=rss&utm_medium=rss&utm_campaign=)
