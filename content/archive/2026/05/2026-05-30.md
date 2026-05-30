@@ -17,13 +17,16 @@
   - [千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家](https://36kr.com/p/3830580716365449?f=rss)
   - [周六福就“售卖不合格足银手镯”致歉](https://36kr.com/newsflashes/3831155704391302?f=rss)
   - [商业载人航天穿越者完成Pre-A轮亿元融资](https://36kr.com/newsflashes/3831149360260994?f=rss)
+  - [国务院正式批复同意 粤港澳游艇自由行要来了](https://36kr.com/newsflashes/3831271278569089?f=rss)
   - [国家能源局：2026年4月，核发绿证2.37亿个](https://36kr.com/newsflashes/3831212862137990?f=rss)
   - [宁德时代首席科学家吴凯：今年实现钠离子电池规模量产，下一步聚焦锂空气电池研发](https://36kr.com/newsflashes/3831189798872963?f=rss)
   - [宁德时代首席科学家吴凯：新国标实施后，中国新能源车的自燃率会比燃油车低一个数量级](https://36kr.com/newsflashes/3831211012335237?f=rss)
   - [最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策](https://36kr.com/p/3831071878358659?f=rss)
   - [欧足联携手阿里巴巴，达成多年战略合作](https://36kr.com/newsflashes/3831187716941441?f=rss)
   - [百胜据悉与LongRange就出售必胜客独家洽谈](https://36kr.com/newsflashes/3831092160407429?f=rss)
+  - [神州数码63岁董事长天价离婚案有了新进展](https://36kr.com/newsflashes/3831275074348672?f=rss)
   - [连续15年披露ESG报告，自然堂开始把“可持续”做成一门生意｜最前线](https://36kr.com/p/3830545234552452?f=rss)
+  - [集采百元一盒药，药店竟卖3960元，央视调查“高价药”疑云](https://36kr.com/newsflashes/3831277475030918?f=rss)
   - [霍尼韦尔旗下量子计算公司 Quantinuum 拟扩大IPO规模](https://36kr.com/newsflashes/3831156793108099?f=rss)
 - Ars Technica
   - [Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there](https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/)
@@ -64,9 +67,12 @@
   - [How to Choose AI Agent Tools](https://blog.promptlayer.com/how-to-choose-ai-agent-tools/)
   - [How to Define a Prompt for an LLM App](https://blog.promptlayer.com/how-to-define-a-prompt-for-an-llm-app/)
   - [How to Define Few-Shot Context](https://blog.promptlayer.com/how-to-define-few-shot-context/)
+  - [How to Define Google Gemini Input and Output](https://blog.promptlayer.com/how-to-define-google-gemini-input-and-output/)
   - [How to Do AI Prompt Engineering in LLM Apps](https://blog.promptlayer.com/how-to-do-ai-prompt-engineering-in-llm-apps/)
+  - [How to Do Contextual Engineering](https://blog.promptlayer.com/how-to-do-contextual-engineering/)
   - [How to Explain What Agentic Means in AI Apps](https://blog.promptlayer.com/how-to-explain-what-agentic-means-in-ai-apps/)
   - [How to Fix Bad Tool Arguments](https://blog.promptlayer.com/how-to-fix-bad-tool-arguments/)
+  - [How to Prototype LLM Apps in Google AI Studio](https://blog.promptlayer.com/how-to-prototype-llm-apps-in-google-ai-studio/)
   - [How to Run AI Software Development for LLM Apps](https://blog.promptlayer.com/how-to-run-ai-software-development-for-llm-apps/)
   - [How to Start Anthropic Prompt Engineering](https://blog.promptlayer.com/how-to-start-anthropic-prompt-engineering/)
   - [How to Track Prompt Engineering News](https://blog.promptlayer.com/how-to-track-prompt-engineering-news/)
@@ -395,6 +401,7 @@
   - [‘We’re Just Getting the Crumbs Here’: Contractors Protest Layoffs at Meta’s European Headquarters](https://www.wired.com/story/meta-covalen-protest-strike-dublin/)
 - 不安全
   - [Festa della Repubblica](https://buaq.net/go-419895.html)
+  - [搬瓦工上线新加坡机房 全程CN2GIA/CTGNET精品线路 直连下载速度高达25MB/秒](https://buaq.net/go-419922.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
