@@ -79,6 +79,7 @@
   - [Show HN: Helios – what plug-in solar could generate for any address in Britain](https://helios.southlondonscientific.com/)
   - [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/secluso/core)
   - [The Kaiser and a "Mediocre Man" Theory of History](https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory)
+  - [Voxel Space](https://s-macke.github.io/VoxelSpace/)
   - [Why I collect DLES](https://dles.gg/blog/dles-gg-manifesto)
 - Horizon3.ai
   - [Rapid Response](https://horizon3.ai/downloads/factsheets/rapid-response/)
@@ -141,6 +142,7 @@
   - [Microsoft under fire for threatening security researcher with criminal investigation](https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/)
   - [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
   - [SpaceX awarded $6.45B in Space Force contracts ahead of IPO](https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/)
+  - [The groupthink boom: what three top VCs really think about the AI frenzy](https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/)
   - [This $300 pizza oven can easily help elevate your summer pizza nights](https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/)
   - [TikTok’s road to becoming a super app](https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/)
   - [What happens when companies become too AI-pilled?](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/)
@@ -158,11 +160,14 @@
   - [Acer’s launching a Linux handheld for streaming your PC games](https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld)
   - [AI grifters are creating fake Black people to sell Shein junk](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping)
   - [How one founder’s bet on ‘the old school web’ is paying off](https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai)
+  - [Some of our favorite art TVs are more than 40 percent off this weekend](https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal)
   - [Sometimes, a short game hits the spot](https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc)
   - [SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites](https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract)
   - [Tech companies desperately want to film you doing chores](https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data)
   - [The SpaceX IPO is great for Elon Musk and terrible for you](https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai)
   - [This is the James Bond game we’ve been waiting for](https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer)
+- Threatninja.net
+  - [Hack The Box:Interpreter Machine Walkthrough – Medium Difficulty](https://threatninja.net/hack-the-box-interpreter-machine-walkthrough-medium-difficulity/)
 - VulDB Recent Entries
   - [CVE-2024-13745 | TianoCore EDK2 Partition Table injection](https://vuldb.com/vuln/367395)
   - [CVE-2026-10110 | code-projects Student Details Management System 1.0 /index.php roll sql injection](https://vuldb.com/vuln/367288)
@@ -299,8 +304,11 @@
   - [CVE-2026-10117](https://vulners.com/nvd/NVD:CVE-2026-10117?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10117 Open5GS nghttp2-server.c ogs_pool_id_calloc denial of service](https://vulners.com/cve/CVE-2026-10117?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10117 Open5GS nghttp2-server.c ogs_pool_id_calloc denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-10117?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10119](https://vulners.com/nvd/NVD:CVE-2026-10119?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10119 TRENDnet TEW-432BRP formSetMACFilter stack-based overflow](https://vulners.com/cve/CVE-2026-10119?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10119 TRENDnet TEW-432BRP formSetMACFilter stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-10119?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10120 TRENDnet TEW-432BRP formSetFirewallRule stack-based overflow](https://vulners.com/cve/CVE-2026-10120?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10120 TRENDnet TEW-432BRP formSetFirewallRule stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-10120?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-1402 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-1402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28374 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-28374?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28374 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-28374?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -481,6 +489,7 @@
   - [Exploit for Code Injection in Geoserver](https://vulners.com/githubexploit/2FC56BF1-7571-5170-90BB-929A3E855A45?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-66478](https://vulners.com/githubexploit/0264A3FE-0D69-5105-A23B-BE166598AA47?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-9074](https://vulners.com/githubexploit/E581ECBE-1CD2-55F7-8F05-3CC6DFD5264A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2025-9485](https://vulners.com/githubexploit/949259F4-E0E4-5C4D-A9B7-2299752EC21D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-0257](https://vulners.com/githubexploit/9BEB47F3-0FCC-511F-9E72-F956A850A85D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-22557](https://vulners.com/githubexploit/25B4314F-857E-50A3-8FD2-33252F85B49A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-29000](https://vulners.com/githubexploit/E5F015F5-2527-5C8C-9121-DFE5716A24F8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -557,6 +566,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [一家美国公司一个月内在 Claude AI 上花费了 5 亿美元](https://www.solidot.org/story?sid=84441)
   - [气候变化扰乱北冰洋食物链](https://www.solidot.org/story?sid=84439)
   - [英伟达税](https://www.solidot.org/story?sid=84438)
 - 爱范儿
