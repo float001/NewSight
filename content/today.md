@@ -3,6 +3,7 @@
 - 2Libra
   - [20260530 03.53 前来报道了](https://2libra.com/post/newcomer/dmkXy9N)
   - [AI + 终端 Rumus v0.1.19 发布带来全新的 Fleet 模式](https://2libra.com/post/promotion/NeWfEny)
+  - [博客网址更新，老网站快到期，没钱续费](https://2libra.com/post/sharing-discoveries/im46SnE)
   - [真羡慕他们有一个美好的童年](https://2libra.com/post/small-things/HXilXS9)
 - 36氪
   - [36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资](https://36kr.com/p/3831135917107075?f=rss)
@@ -16,6 +17,7 @@
   - [丹麦养老基金称SpaceX被“严重高估”](https://36kr.com/newsflashes/3831206788065153?f=rss)
   - [千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家](https://36kr.com/p/3830580716365449?f=rss)
   - [周六福就“售卖不合格足银手镯”致歉](https://36kr.com/newsflashes/3831155704391302?f=rss)
+  - [哈总统：欧亚经济联盟内贸易额今年将破千亿美元](https://36kr.com/newsflashes/3831338125076103?f=rss)
   - [商业载人航天穿越者完成Pre-A轮亿元融资](https://36kr.com/newsflashes/3831149360260994?f=rss)
   - [国务院正式批复同意 粤港澳游艇自由行要来了](https://36kr.com/newsflashes/3831271278569089?f=rss)
   - [国家能源局：2026年4月，核发绿证2.37亿个](https://36kr.com/newsflashes/3831212862137990?f=rss)
@@ -32,12 +34,15 @@
   - [连续15年披露ESG报告，自然堂开始把“可持续”做成一门生意｜最前线](https://36kr.com/p/3830545234552452?f=rss)
   - [集采百元一盒药，药店竟卖3960元，央视调查“高价药”疑云](https://36kr.com/newsflashes/3831277475030918?f=rss)
   - [霍尼韦尔旗下量子计算公司 Quantinuum 拟扩大IPO规模](https://36kr.com/newsflashes/3831156793108099?f=rss)
+  - [龙行天下IPO申请获受理](https://36kr.com/newsflashes/3831334882912134?f=rss)
 - Ars Technica
   - [Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there](https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/)
 - daringfireball.net
   - [One Group, Clearly, Is Deranged](https://paulkrugman.substack.com/p/whos-deranged-exactly)
 - darkreading
   - [Name That Toon: Mark of (Cybersecurity) Progress](https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress)
+- defend.network
+  - [ChatGPT malware abuse, Marimo CVE-2026-39987 LLM exploitation, Russian infrastructure arrests](https://defend.network/briefings/chatgpt-marimo-russian-infrastructure-disruption-2026-05-30.html)
 - Emergent Minds | paddo.dev
   - [The Last Slow Thing](https://paddo.dev/blog/the-last-slow-thing/)
 - filfre.net
@@ -86,8 +91,10 @@
   - [Exploit for CVE-2026-0257 exploit](https://sploitus.com/exploit?id=9BEB47F3-0FCC-511F-9E72-F956A850A85D&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-22557 exploit](https://sploitus.com/exploit?id=25B4314F-857E-50A3-8FD2-33252F85B49A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-46840 exploit](https://sploitus.com/exploit?id=3D6FBB98-36AB-5F6C-BD65-545B7A10A138&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-8732 exploit](https://sploitus.com/exploit?id=105190B4-DF97-59F6-91BF-BF55716FCF79&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Microsoft exploit](https://sploitus.com/exploit?id=FC7CA8E5-7335-592D-A09A-12A7400B94DC&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Privilege Management in Apache Couchdb exploit](https://sploitus.com/exploit?id=91E99754-E8D0-5B4C-A0EC-525AF2DFC914&utm_source=rss&utm_medium=rss)
+  - [exploit_db.md exploit](https://sploitus.com/exploit?id=60CB9ED1-1614-518B-87B5-F3F5D3CFBFB0&utm_source=rss&utm_medium=rss)
   - [RestroPress-WordPress-Plugin-Sensitive-API-Key-amp-Token-Exposure-Vulnerability-Exploitation exploit](https://sploitus.com/exploit?id=021A7C40-40E4-5B2D-AC96-99297BA23047&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/)
@@ -127,6 +134,8 @@
   - [CVE-2026-10125 | Edimax BR-6478AC 1.23 POST Request /goform/formPPPoESetup pppUserName stack-based overflow](https://vuldb.com/vuln/367302)
   - [CVE-2026-10126 | Edimax BR-6478AC 1.23 POST Request /goform/formQoS selSSID buffer overflow](https://vuldb.com/vuln/367303)
   - [CVE-2026-10127 | Edimax BR-6478AC 1.23 POST Request /goform/formStaDrvSetup rootAPmac command injection](https://vuldb.com/vuln/367304)
+  - [CVE-2026-10156 | Open5GS up to 2.7.7 nf-instances Endpoint /lib/sbi/nnrf-handler.c handle_amf_info nf_info_pool resource consumption (Issue 4480)](https://vuldb.com/vuln/367409)
+  - [CVE-2026-10157 | Open5GS up to 2.7.6 NGAP PathSwitchRequest Message src/amf/ngap-handler.c improper authentication (Issue 4393)](https://vuldb.com/vuln/367410)
   - [CVE-2026-42929 | Danelec MacGregor Voyage Data Recorder G4e up to 5.249 hard-coded credentials](https://vuldb.com/vuln/367347)
   - [CVE-2026-42941 | Danelec MacGregor Voyage Data Recorder G4e up to 5.249 Password Change default credentials](https://vuldb.com/vuln/367342)
   - [CVE-2026-42951 | Danelec MacGregor Voyage Data Recorder G4e up to 5.249 Password Hash Handler insufficiently protected credentials](https://vuldb.com/vuln/367348)
@@ -379,8 +388,10 @@
   - [Exploit for CVE-2026-0257](https://vulners.com/githubexploit/9BEB47F3-0FCC-511F-9E72-F956A850A85D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-22557](https://vulners.com/githubexploit/25B4314F-857E-50A3-8FD2-33252F85B49A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-46376](https://vulners.com/githubexploit/12BD25E5-8340-5DD6-A872-0FFBEF75AD54?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-8732](https://vulners.com/githubexploit/105190B4-DF97-59F6-91BF-BF55716FCF79?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Input Validation in Microsoft](https://vulners.com/githubexploit/FC7CA8E5-7335-592D-A09A-12A7400B94DC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Privilege Management in Apache Couchdb](https://vulners.com/githubexploit/91E99754-E8D0-5B4C-A0EC-525AF2DFC914?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [exploit_db.md](https://vulners.com/githubexploit/60CB9ED1-1614-518B-87B5-F3F5D3CFBFB0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-29P4-5443-X453 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-29P4-5443-X453?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2H4P-VJRC-8XPQ vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-2H4P-VJRC-8XPQ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-3R2P-7499-27Q3 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-3R2P-7499-27Q3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -418,6 +429,7 @@
   - [NileBank-Vulnerable-App](https://vulners.com/githubexploit/3D0A1229-1084-5FB4-ACD0-1416172B2807?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NodeVM observability builtins leak host process and HTTP request data](https://vulners.com/github/GHSA-9G8X-92Q2-P28F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ouroboros-ai Vulnerable to Remote Code Execution via Untrusted Project-Directory .env](https://vulners.com/github/GHSA-C4M7-2GWP-VW76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation](https://vulners.com/thn/THN:5420E05836399B582D9F84504D254736?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [RestroPress-WordPress-Plugin-Sensitive-API-Key-amp-Token-Exposure-Vulnerability-Exploitation](https://vulners.com/githubexploit/021A7C40-40E4-5B2D-AC96-99297BA23047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: What If...We're In An AI Bubble? (Part 3)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/)
@@ -439,5 +451,9 @@
   - [英伟达税](https://www.solidot.org/story?sid=84438)
 - 爱范儿
   - [早报｜曝苹果用谷歌AI训练自己模型/黄仁勋：工程师不烧Token我会气炸/工信部：动力电池进入规模化退役阶段](https://www.ifanr.com/1667559?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家](https://www.qbitai.com/2026/05/426706.html)
+  - [英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」](https://www.qbitai.com/2026/05/426662.html)
 - 黑海洋
+  - [七国集团宣言将合作在网络空间保护儿童](https://blog.upx8.com/%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E5%AE%A3%E8%A8%80%E5%B0%86%E5%90%88%E4%BD%9C%E5%9C%A8%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E4%BF%9D%E6%8A%A4%E5%84%BF%E7%AB%A5)
   - [深圳网约车市场已饱和 官方发布风险提示](https://blog.upx8.com/%E6%B7%B1%E5%9C%B3%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%B8%82%E5%9C%BA%E5%B7%B2%E9%A5%B1%E5%92%8C-%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA)
