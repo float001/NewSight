@@ -13,6 +13,9 @@
   - [Another Gaussian approximation](https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/)
 - simonwillison.net
   - [The solution might be cancelling my AI subscription](https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Improper Authentication in Google Android exploit](https://sploitus.com/exploit?id=37704002-38D1-5D2A-A253-413D29AFF09D&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector exploit](https://sploitus.com/exploit?id=254A6F19-4F33-5786-90FC-3146F3468F08&utm_source=rss&utm_medium=rss)
 - VulDB Recent Entries
   - [CVE-2026-10276 | hekmon8 Jenkins-server-mcp 0.1.0 get_build_status/get_build_log/trigger_build src/index.ts jobPath server-side request forgery](https://vuldb.com/vuln/367569)
   - [CVE-2026-10277 | j3k0 mcp-google-workspace up to 831790e7d5c2663325733d9f5579cc339a267c4c MCP Gmail Tool src/tools/gmail.ts saveToDisk access control](https://vuldb.com/vuln/367570)
@@ -33,9 +36,14 @@
   - [CVE-2026-10189](https://vulners.com/nvd/NVD:CVE-2026-10189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10190](https://vulners.com/nvd/NVD:CVE-2026-10190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10191](https://vulners.com/nvd/NVD:CVE-2026-10191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10192](https://vulners.com/nvd/NVD:CVE-2026-10192?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10193](https://vulners.com/nvd/NVD:CVE-2026-10193?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10193 OFCMS ComnController ComnController.java query sql injection](https://vulners.com/cve/CVE-2026-10193?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10193 OFCMS ComnController ComnController.java query sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10193?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10194](https://vulners.com/nvd/NVD:CVE-2026-10194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10194 OFFIS DCMTK dcmqrscp dcmqrdbi.cc deleteOldestImages heap-based overflow](https://vulners.com/cve/CVE-2026-10194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10194 OFFIS DCMTK dcmqrscp dcmqrdbi.cc deleteOldestImages heap-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-10194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Authentication in Google Android](https://vulners.com/githubexploit/37704002-38D1-5D2A-A253-413D29AFF09D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/254A6F19-4F33-5786-90FC-3146F3468F08?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
