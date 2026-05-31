@@ -8,6 +8,11 @@
   - [Steam Deck sells out in North America within 24 hours of price hike](https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/)
   - [Talk Is Cheap: The Operational Impact of LLM Use](https://unessays.substack.com/p/talk-is-cheap)
   - [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
+- HackerNoon
+  - [Are New Turing Tests Measuring Intelligence or Human Anxiety?](https://hackernoon.com/are-new-turing-tests-measuring-intelligence-or-human-anxiety?source=rss)
+  - [Five Common Failure Modes in FLUX Illustration LoRA Training](https://hackernoon.com/five-common-failure-modes-in-flux-illustration-lora-training?source=rss)
+  - [llms-txt-gen Earns a 49.78 Proof of Usefulness Score by Building an AI-Readiness CLI Tool](https://hackernoon.com/llms-txt-gen-earns-a-4978-proof-of-usefulness-score-by-building-an-ai-readiness-cli-tool?source=rss)
+  - [New AI Benchmarks Are Testing Consistency Instead of Memorization](https://hackernoon.com/new-ai-benchmarks-are-testing-consistency-instead-of-memorization?source=rss)
 - Hacking Articles
   - [AI Powered Nmap using ShellGPT](https://www.hackingarticles.in/ai-powered-nmap-using-shellgpt/)
 - johndcook.com
@@ -23,6 +28,7 @@
   - [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
   - [‘This is fine’ artist KC Green reaches agreement with AI startup Artisan](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/)
 - The Verge
+  - [Apple’s strategy for smart glasses is the same as smart watches](https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches)
   - [Here’s your first look at ‘A Minecraft Movie Squared’ with Kirsten Dunst as Alex](https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex)
   - [How to watch Nvidia&#8217;s Computex keynote](https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote)
 - VulDB Recent Entries
@@ -61,6 +67,9 @@
   - [CVE-2026-10194 OFFIS DCMTK dcmqrscp dcmqrdbi.cc deleteOldestImages heap-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-10194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45505](https://vulners.com/circl/CIRCL:CVE-2026-45505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45505](https://vulners.com/cve/CVE-2026-45505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48210](https://vulners.com/attackerkb/AKB:73882C65-AF1C-4F0F-8069-140D0D64FD4B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48210 Possible information disclosure via External Interface](https://vulners.com/cve/CVE-2026-48210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48210 Possible information disclosure via External Interface](https://vulners.com/cvelist/CVELIST:CVE-2026-48210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8796](https://vulners.com/nvd/NVD:CVE-2026-8796?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2022-42005](https://vulners.com/githubexploit/8E6F30BE-6CC2-502D-8EB3-AEB3B042DEBA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Authentication in Google Android](https://vulners.com/githubexploit/37704002-38D1-5D2A-A253-413D29AFF09D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
