@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-05-31）
 
+- 36氪
+  - [我国成功发射卫星互联网技术试验卫星](https://36kr.com/newsflashes/3832495203657606?f=rss)
 - Emergent Minds | paddo.dev
   - [Cheap Is a Hardware Strategy](https://paddo.dev/blog/cheap-is-a-hardware-strategy/)
 - gilesthomas.com
@@ -12,6 +14,17 @@
   - [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/)
   - [White House's Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/)
   - [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30)
+- InfoSec Write-ups - Medium
+  - [Blockchain Kya Hota Hai? Bilkul Zero Se Samjho!](https://infosecwriteups.com/blockchain-kya-hota-hai-bilkul-zero-se-samjho-7eb4a11d0596?source=rss----7b722bfd1b8d---4)
+  - [ColdBoxEasy — WordPress Theme Editor RCE via curl and Three Paths to Root via sudo | OffSec PG](https://infosecwriteups.com/coldboxeasy-wordpress-theme-editor-rce-via-curl-and-three-paths-to-root-via-sudo-offsec-pg-71bde0374470?source=rss----7b722bfd1b8d---4)
+  - [How I Exposed an AI Company’s Finances](https://infosecwriteups.com/how-i-exposed-an-ai-companys-finances-d1e162a3b996?source=rss----7b722bfd1b8d---4)
+  - [I Am 17. I Built a Free Security Scanner Because the Industry Left Small Businesses Behind.](https://infosecwriteups.com/i-am-17-i-built-a-free-security-scanner-because-the-industry-left-small-businesses-behind-54892cf2dc6a?source=rss----7b722bfd1b8d---4)
+  - [I Stopped Trying To Learn Everything In Cybersecurity](https://infosecwriteups.com/i-stopped-trying-to-learn-everything-in-cybersecurity-d07449cee5e6?source=rss----7b722bfd1b8d---4)
+  - [Introduction to SQL Injection](https://infosecwriteups.com/introduction-to-sql-injection-f4f0911f3461?source=rss----7b722bfd1b8d---4)
+  - [Is This The End of Cybersecurity?](https://infosecwriteups.com/is-this-the-end-of-traditional-cybersecurity-bb299f8c8819?source=rss----7b722bfd1b8d---4)
+  - [SantaStealer Emerges as Advanced MaaS Infostealer Targeting Credentials, Crypto Wallets, and…](https://infosecwriteups.com/santastealer-emerges-as-advanced-maas-infostealer-targeting-credentials-crypto-wallets-and-2b8d9707d985?source=rss----7b722bfd1b8d---4)
+  - [The Regex Said Safe. The Parser Disagreed, NASA Earth Science Platform had a Critical Vulnerability](https://infosecwriteups.com/the-regex-said-safe-the-parser-disagreed-nasa-earth-science-platform-had-a-critical-vulnerability-d79245e81086?source=rss----7b722bfd1b8d---4)
+  - [When Bug Bounty Hunting Hit Me Back: How Losing $500 Led Me to a Web Cache Poisoning Bug.](https://infosecwriteups.com/when-bug-bounty-hunting-hit-me-back-how-losing-500-led-me-to-a-web-cache-poisoning-bug-36fb2f196b9a?source=rss----7b722bfd1b8d---4)
 - johndcook.com
   - [Spot checking polynomial identities](https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/)
 - PromptLayer
@@ -96,8 +109,11 @@
   - [CVE-2026-10152 TaleLin lin-cms-spring-boot book Endpoint BookController.java access control](https://vulners.com/cve/CVE-2026-10152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10152 TaleLin lin-cms-spring-boot book Endpoint BookController.java access control](https://vulners.com/cvelist/CVELIST:CVE-2026-10152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10153](https://vulners.com/nvd/NVD:CVE-2026-10153?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10154](https://vulners.com/nvd/NVD:CVE-2026-10154?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10155](https://vulners.com/nvd/NVD:CVE-2026-10155?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10155 Bdtask Multi-Store Inventory Management System Accounts Report Accounts.php accounts_report_search sql injection](https://vulners.com/cve/CVE-2026-10155?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10155 Bdtask Multi-Store Inventory Management System Accounts Report Accounts.php accounts_report_search sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10155?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10156](https://vulners.com/nvd/NVD:CVE-2026-10156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10156 Open5GS nf-instances Endpoint nnrf-handler.c handle_amf_info resource consumption](https://vulners.com/cve/CVE-2026-10156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10156 Open5GS nf-instances Endpoint nnrf-handler.c handle_amf_info resource consumption](https://vulners.com/cvelist/CVELIST:CVE-2026-10156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46242](https://vulners.com/circl/CIRCL:CVE-2026-46242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -113,3 +129,4 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
   - [软银将投资750亿欧元建设法国数据中心](https://blog.upx8.com/%E8%BD%AF%E9%93%B6%E5%B0%86%E6%8A%95%E8%B5%84750%E4%BA%BF%E6%AC%A7%E5%85%83%E5%BB%BA%E8%AE%BE%E6%B3%95%E5%9B%BD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
+  - [黄仁勋评价华为突破：台积电领先10年](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E8%AF%84%E4%BB%B7%E5%8D%8E%E4%B8%BA%E7%AA%81%E7%A0%B4-%E5%8F%B0%E7%A7%AF%E7%94%B5%E9%A2%86%E5%85%8810%E5%B9%B4)
