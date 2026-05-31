@@ -2,6 +2,7 @@
 
 - 2Libra
   - [感觉 Gemini 疯狂降智了，是我的错觉吗](https://2libra.com/post/ai-tools/u3Ewqpa)
+  - [需要配音,无从下手?一个软件足矣! 欢迎使用 Neiroha--多端接入、多平台适配的配音工作站](https://2libra.com/post/ai-tools/uKd2pHW)
 - 36氪
   - [中国汽车流通协会：5月中国汽车经销商库存预警指数为57.9%](https://36kr.com/newsflashes/3832514855839617?f=rss)
   - [丰田回应将中止雷克萨斯下一代纯电轿车开发](https://36kr.com/newsflashes/3832495904171908?f=rss)
@@ -14,12 +15,15 @@
   - [收获进度18.18%，全国冬小麦机收进度逐步加快](https://36kr.com/newsflashes/3832526695851908?f=rss)
   - [智元机器人合伙人姚卯青：今年上半年智元海外收入占比已近20%](https://36kr.com/newsflashes/3832506045818500?f=rss)
   - [欧洲央行管委佩雷拉：必须尽早应对通胀](https://36kr.com/newsflashes/3832504586577798?f=rss)
+  - [软银承诺斥资750亿欧元在法国建设人工智能设施](https://36kr.com/newsflashes/3832585694193541?f=rss)
+  - [银轮股份：为数据中心用大马力发电机组配套大型冷却模块已量产](https://36kr.com/newsflashes/3832661750572930?f=rss)
   - [预计减免关税近600万元，封关后首架“零关税”客机通关](https://36kr.com/newsflashes/3832506934388354?f=rss)
 - Emergent Minds | paddo.dev
   - [Cheap Is a Hardware Strategy](https://paddo.dev/blog/cheap-is-a-hardware-strategy/)
 - gilesthomas.com
   - [On first looking into JAX](https://www.gilesthomas.com/2026/05/on-first-looking-into-jax)
 - Hacker News Frontpage
+  - [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html)
   - [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)
   - [Hormuz crisis side effect: a sharp rise in container shipping rates](https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates)
   - [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
@@ -63,6 +67,7 @@
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector exploit](https://sploitus.com/exploit?id=C963A78F-A92E-5681-831B-9F33FBEC9998&utm_source=rss&utm_medium=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=0E2F14F3-0BCD-5A3A-B25D-1FCD5DBF497B&utm_source=rss&utm_medium=rss)
   - [rm-oneview-poc exploit](https://sploitus.com/exploit?id=B7E559EF-D75D-5EF9-8719-8055B9CE28E6&utm_source=rss&utm_medium=rss)
+  - [TypiCMS-Search-LIKE-Wildcard-Info-Disclosure exploit](https://sploitus.com/exploit?id=5B5D068E-CE5E-554B-BA2D-316D029FD92A&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Snap alums unveil Ghost Angels fund](https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/)
   - [SoftBank says it will invest up to €75 billion to build French data centers](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)
@@ -142,9 +147,14 @@
   - [CVE-2026-10160](https://vulners.com/nvd/NVD:CVE-2026-10160?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10161](https://vulners.com/nvd/NVD:CVE-2026-10161?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10162](https://vulners.com/nvd/NVD:CVE-2026-10162?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10163](https://vulners.com/nvd/NVD:CVE-2026-10163?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10164](https://vulners.com/nvd/NVD:CVE-2026-10164?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10165](https://vulners.com/nvd/NVD:CVE-2026-10165?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10166](https://vulners.com/nvd/NVD:CVE-2026-10166?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10166 Edimax BR-6478AC POST Request formWlbasic command injection](https://vulners.com/cve/CVE-2026-10166?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10166 Edimax BR-6478AC POST Request formWlbasic command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10166?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46242](https://vulners.com/circl/CIRCL:CVE-2026-46242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8382](https://vulners.com/nvd/NVD:CVE-2026-8382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8594](https://vulners.com/nvd/NVD:CVE-2026-8594?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cyanide](https://vulners.com/githubexploit/5D4ACCD9-4702-5539-9E04-EEF51C46C477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-10162](https://vulners.com/githubexploit/5EDA98FC-35C9-56B3-933B-20E7F256054E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -155,7 +165,9 @@
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/C963A78F-A92E-5681-831B-9F33FBEC9998?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/0E2F14F3-0BCD-5A3A-B25D-1FCD5DBF497B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [rm-oneview-poc](https://vulners.com/githubexploit/B7E559EF-D75D-5EF9-8719-8055B9CE28E6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [TypiCMS-Search-LIKE-Wildcard-Info-Disclosure](https://vulners.com/githubexploit/5B5D068E-CE5E-554B-BA2D-316D029FD92A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
+  - [123云盘宣布清理长期未登录用户 超过365天+30天未登录最终数据将被删除](https://buaq.net/go-420024.html)
   - [社媒巨头支付2700万美元 平息学区成瘾控诉](https://buaq.net/go-420009.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
