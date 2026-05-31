@@ -5,6 +5,7 @@
   - [【💰】谁还不是宝宝呢！？儿童节快乐 🎉](https://2libra.com/post/festival-things/Hap-Vvo)
   - [胡彦斌都 vibe 出一个 APP 了，2 佬们的 vibe coding 项目有成功的吗](https://2libra.com/post/ai-programming/tpZPn-R)
 - Hacker News Frontpage
+  - [Steam Deck sells out in North America within 24 hours of price hike](https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/)
   - [Talk Is Cheap: The Operational Impact of LLM Use](https://unessays.substack.com/p/talk-is-cheap)
   - [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
 - Hacking Articles
@@ -16,10 +17,13 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2022-42005 exploit](https://sploitus.com/exploit?id=8E6F30BE-6CC2-502D-8EB3-AEB3B042DEBA&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Google Android exploit](https://sploitus.com/exploit?id=37704002-38D1-5D2A-A253-413D29AFF09D&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector exploit](https://sploitus.com/exploit?id=1637C461-1BF8-54A7-A369-12D8EC7CEEEC&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector exploit](https://sploitus.com/exploit?id=254A6F19-4F33-5786-90FC-3146F3468F08&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
   - [‘This is fine’ artist KC Green reaches agreement with AI startup Artisan](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/)
+- The Verge
+  - [Here’s your first look at ‘A Minecraft Movie Squared’ with Kirsten Dunst as Alex](https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex)
 - VulDB Recent Entries
   - [CVE-2026-10276 | hekmon8 Jenkins-server-mcp 0.1.0 get_build_status/get_build_log/trigger_build src/index.ts jobPath server-side request forgery](https://vuldb.com/vuln/367569)
   - [CVE-2026-10277 | j3k0 mcp-google-workspace up to 831790e7d5c2663325733d9f5579cc339a267c4c MCP Gmail Tool src/tools/gmail.ts saveToDisk access control](https://vuldb.com/vuln/367570)
@@ -58,6 +62,7 @@
   - [CVE-2026-45505](https://vulners.com/cve/CVE-2026-45505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2022-42005](https://vulners.com/githubexploit/8E6F30BE-6CC2-502D-8EB3-AEB3B042DEBA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Authentication in Google Android](https://vulners.com/githubexploit/37704002-38D1-5D2A-A253-413D29AFF09D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/1637C461-1BF8-54A7-A369-12D8EC7CEEEC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/254A6F19-4F33-5786-90FC-3146F3468F08?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
