@@ -95,6 +95,7 @@
   - [natsio-poc exploit](https://sploitus.com/exploit?id=4E826428-5B1A-52A7-8BA1-4799D9CDE336&utm_source=rss&utm_medium=rss)
   - [rm-oneview-poc exploit](https://sploitus.com/exploit?id=B7E559EF-D75D-5EF9-8719-8055B9CE28E6&utm_source=rss&utm_medium=rss)
   - [TypiCMS-Search-LIKE-Wildcard-Info-Disclosure exploit](https://sploitus.com/exploit?id=5B5D068E-CE5E-554B-BA2D-316D029FD92A&utm_source=rss&utm_medium=rss)
+  - [WeSecure exploit](https://sploitus.com/exploit?id=32D3263F-B28C-540B-9C2F-0BD259B76961&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Snap alums unveil Ghost Angels fund](https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/)
   - [SoftBank says it will invest up to €75 billion to build French data centers](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)
@@ -102,10 +103,12 @@
   - [‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)
 - The Decoder
   - [AI search agents often confirm what they already know instead of actually researching the web](https://the-decoder.com/ai-search-agents-often-confirm-what-they-already-know-instead-of-actually-researching-the-web/)
+  - [Anthropic bans AI tools during job interviews to see how candidates actually think](https://the-decoder.com/anthropic-bans-ai-tools-during-job-interviews-to-see-how-candidates-actually-think/)
   - [Anthropic study finds men use AI coding agents more than twice as often as women in social science research](https://the-decoder.com/anthropic-study-finds-men-use-ai-coding-agents-more-than-twice-as-often-as-women-in-social-science-research/)
   - [Microsoft and Nvidia reportedly team up on AI PCs that run actual agents instead of Copilot](https://the-decoder.com/microsoft-and-nvidia-reportedly-team-up-on-ai-pcs-that-run-actual-agents-instead-of-copilot/)
   - [SoftBank plans 75 billion euro AI data center buildout in France](https://the-decoder.com/softbank-plans-75-billion-euro-ai-data-center-buildout-in-france/)
 - The Verge
+  - [The Mercedes CLA offers great EV specs for an average price](https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs)
   - [Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves)
 - VulDB Recent Entries
   - [CVE-2026-10174 | Aider-AI Aider 0.86.3 Pre-commit Hook aider/args.py git-commit-verify protection mechanism (Issue 5057)](https://vuldb.com/vuln/367455)
@@ -157,6 +160,18 @@
   - [CVE-2026-10235 | CodeAstro Ingredients Stock Management System 1.0 stock_manager.php txt_search_category sql injection](https://vuldb.com/vuln/367514)
   - [CVE-2026-10236 | SourceCodester Water Billing Management System 1.0 User Management Endpoint Users.php?f=save improper authorization](https://vuldb.com/vuln/367515)
   - [CVE-2026-10237 | SourceCodester Water Billing Management System 1.0 User Management manage_user ID sql injection](https://vuldb.com/vuln/367516)
+  - [CVE-2026-10242 | itsourcecode Content Management System 1.0 /instructions.php topic_id sql injection](https://vuldb.com/vuln/367520)
+  - [CVE-2026-10243 | code-projects Smart Parking System 1.0 Admin Endpoint missing authentication](https://vuldb.com/vuln/367521)
+  - [CVE-2026-10244 | SourceCodester Pharmacy Sales and Inventory System 1.0 main create_medicine_name cross site scripting](https://vuldb.com/vuln/367522)
+  - [CVE-2026-10245 | SourceCodester Pharmacy Sales and Inventory System 1.0 main create_supplier company_name cross site scripting](https://vuldb.com/vuln/367523)
+  - [CVE-2026-10246 | SourceCodester Pharmacy Sales and Inventory System 1.0 main create_medicine_presentation cross site scripting](https://vuldb.com/vuln/367524)
+  - [CVE-2026-10247 | SourceCodester Pharmacy Sales and Inventory System 1.0 main create_generic_name cross site scripting](https://vuldb.com/vuln/367525)
+  - [CVE-2026-10248 | SourceCodester Pharmacy Sales and Inventory System up to 1.0 Supplier Creation Interface /Export_csv/export create_supplier Address/Company Name csv injection](https://vuldb.com/vuln/367526)
+  - [CVE-2026-10249 | itsourcecode Online Blood Bank Management System 1.0 /admin/viewrequest.php ID sql injection](https://vuldb.com/vuln/367527)
+  - [CVE-2026-10250 | itsourcecode Online Blood Bank Management System 1.0 /admin/campsdetails.php hospital sql injection](https://vuldb.com/vuln/367528)
+  - [CVE-2026-10251 | itsourcecode Online House Rental System 1.0 /ajax.php?action=login Username sql injection](https://vuldb.com/vuln/367529)
+  - [CVE-2026-10252 | itsourcecode Online House Rental System 1.0 /manage_tenant.php ID sql injection](https://vuldb.com/vuln/367530)
+  - [CVE-2026-10253 | itsourcecode Online House Rental System 1.0 /manage_payment.php ID sql injection](https://vuldb.com/vuln/367531)
 - Vulners.com RSS Feed
   - [CVE-2018-25405](https://vulners.com/nvd/NVD:CVE-2018-25405?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2018-25406](https://vulners.com/nvd/NVD:CVE-2018-25406?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -228,6 +243,11 @@
   - [CVE-2026-10175](https://vulners.com/nvd/NVD:CVE-2026-10175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10175 Aider-AI Aider Architect Mode auth.py editor_coder.run code injection](https://vulners.com/cve/CVE-2026-10175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10175 Aider-AI Aider Architect Mode auth.py editor_coder.run code injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10176](https://vulners.com/nvd/NVD:CVE-2026-10176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10177 Aider-AI Aider AWS EC2 Metadata Endpoint api_docs.py requests.get server-side request forgery](https://vulners.com/cve/CVE-2026-10177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10177 Aider-AI Aider AWS EC2 Metadata Endpoint api_docs.py requests.get server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-10177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10178 code-projects Online Music Site AdminEditAlbum.php sql injection](https://vulners.com/cve/CVE-2026-10178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10178 code-projects Online Music Site AdminEditAlbum.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46242](https://vulners.com/circl/CIRCL:CVE-2026-46242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8382](https://vulners.com/nvd/NVD:CVE-2026-8382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8594](https://vulners.com/nvd/NVD:CVE-2026-8594?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -245,10 +265,13 @@
   - [natsio-poc](https://vulners.com/githubexploit/4E826428-5B1A-52A7-8BA1-4799D9CDE336?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [rm-oneview-poc](https://vulners.com/githubexploit/B7E559EF-D75D-5EF9-8719-8055B9CE28E6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [TypiCMS-Search-LIKE-Wildcard-Info-Disclosure](https://vulners.com/githubexploit/5B5D068E-CE5E-554B-BA2D-316D029FD92A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [WeSecure](https://vulners.com/githubexploit/32D3263F-B28C-540B-9C2F-0BD259B76961?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [6 Best Prepaid Phone Plans (2026): Tello, Boost, Google Fi, More](https://www.wired.com/gallery/best-prepaid-phone-plans/)
   - [Best Unlimited Phone Plan: T-Mobile, AT&T, Verizon Compared](https://www.wired.com/story/best-unlimited-phone-plans/)
   - [How Turkey Hacked the Hair Transplant Industry](https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/)
+  - [M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens](https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/)
+  - [Wi-Fi Router vs. Mesh System: Which Is Best for You?](https://www.wired.com/story/mesh-system-vs-wi-fi-router/)
 - 不安全
   - [123云盘宣布清理长期未登录用户 超过365天+30天未登录最终数据将被删除](https://buaq.net/go-420024.html)
   - [files.md：极简 Markdown 编辑器｜在线、开源、本地](https://buaq.net/go-420036.html)
@@ -256,6 +279,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [3C认证实施规则移动电源新增多项安全测试要求](https://blog.upx8.com/3C%E8%AE%A4%E8%AF%81%E5%AE%9E%E6%96%BD%E8%A7%84%E5%88%99%E7%A7%BB%E5%8A%A8%E7%94%B5%E6%BA%90%E6%96%B0%E5%A2%9E%E5%A4%9A%E9%A1%B9%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95%E8%A6%81%E6%B1%82)
   - [OpenLess：开源语音输入工具，把口述需求整理成 AI Prompt](https://blog.upx8.com/OpenLess-AI-Prompt)
   - [社媒巨头支付2700万美元 平息学区成瘾控诉](https://blog.upx8.com/%E7%A4%BE%E5%AA%92%E5%B7%A8%E5%A4%B4%E6%94%AF%E4%BB%982700%E4%B8%87%E7%BE%8E%E5%85%83-%E5%B9%B3%E6%81%AF%E5%AD%A6%E5%8C%BA%E6%88%90%E7%98%BE%E6%8E%A7%E8%AF%89)
   - [软银将投资750亿欧元建设法国数据中心](https://blog.upx8.com/%E8%BD%AF%E9%93%B6%E5%B0%86%E6%8A%95%E8%B5%84750%E4%BA%BF%E6%AC%A7%E5%85%83%E5%BB%BA%E8%AE%BE%E6%B3%95%E5%9B%BD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
