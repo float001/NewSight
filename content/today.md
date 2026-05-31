@@ -54,6 +54,7 @@
   - [Backpressure is all you need](https://www.lucasfcosta.com/blog/backpressure-is-all-you-need)
   - [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)
   - [Hormuz crisis side effect: a sharp rise in container shipping rates](https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates)
+  - [Human brains are misaligned, hallucinative, stochastic parrots](https://substack.com/@samuelfitoussi/p-191268395)
   - [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
   - [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b)
   - [Please Do Not Vibe Fuck Up This Software – Rsync](https://github.com/RsyncProject/rsync/issues/929)
@@ -74,6 +75,8 @@
   - [When Bug Bounty Hunting Hit Me Back: How Losing $500 Led Me to a Web Cache Poisoning Bug.](https://infosecwriteups.com/when-bug-bounty-hunting-hit-me-back-how-losing-500-led-me-to-a-web-cache-poisoning-bug-36fb2f196b9a?source=rss----7b722bfd1b8d---4)
 - johndcook.com
   - [Spot checking polynomial identities](https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/)
+- No Headback
+  - [AI 能做复杂需求吗（一）](http://xargin.com/can-ai-impl-complex-requirements/)
 - PromptLayer
   - [How to Build an AI Engineering Stack](https://blog.promptlayer.com/how-to-build-an-ai-engineering-stack/)
   - [How to Build an Anthropic Agent Loop](https://blog.promptlayer.com/how-to-build-an-anthropic-agent-loop/)
@@ -281,13 +284,18 @@
   - [CVE-2026-10180](https://vulners.com/nvd/NVD:CVE-2026-10180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10180 TRENDnet TEW-432BRP formSysCmd command injection](https://vulners.com/cve/CVE-2026-10180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10180 TRENDnet TEW-432BRP formSysCmd command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10181](https://vulners.com/nvd/NVD:CVE-2026-10181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10181 TRENDnet TEW-432BRP formSysCmd stack-based overflow](https://vulners.com/cve/CVE-2026-10181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10181 TRENDnet TEW-432BRP formSysCmd stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-10181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10183 TRENDnet TEW-432BRP formWlanSetup stack-based overflow](https://vulners.com/cve/CVE-2026-10183?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10183 TRENDnet TEW-432BRP formWlanSetup stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-10183?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40963](https://vulners.com/circl/CIRCL:CVE-2026-40963?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40963](https://vulners.com/cve/CVE-2026-40963?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41014](https://vulners.com/circl/CIRCL:CVE-2026-41014?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41014](https://vulners.com/cve/CVE-2026-41014?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46242](https://vulners.com/circl/CIRCL:CVE-2026-46242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49489](https://vulners.com/nvd/NVD:CVE-2026-49489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49490](https://vulners.com/nvd/NVD:CVE-2026-49490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8382](https://vulners.com/nvd/NVD:CVE-2026-8382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8594](https://vulners.com/nvd/NVD:CVE-2026-8594?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cyanide](https://vulners.com/githubexploit/5D4ACCD9-4702-5539-9E04-EEF51C46C477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -314,6 +322,7 @@
   - [Wi-Fi Router vs. Mesh System: Which Is Best for You?](https://www.wired.com/story/mesh-system-vs-wi-fi-router/)
 - 不安全
   - [123云盘宣布清理长期未登录用户 超过365天+30天未登录最终数据将被删除](https://buaq.net/go-420024.html)
+  - [AI 能做复杂需求吗（一）](https://buaq.net/go-420058.html)
   - [files.md：极简 Markdown 编辑器｜在线、开源、本地](https://buaq.net/go-420036.html)
   - [社媒巨头支付2700万美元 平息学区成瘾控诉](https://buaq.net/go-420009.html)
 - 代码审计星球
