@@ -4,6 +4,8 @@
   - [2 站一周龙虎榜，看看你上周上榜了吗？](https://2libra.com/post/forum-function/W7hX2GA)
   - [【💰】谁还不是宝宝呢！？儿童节快乐 🎉](https://2libra.com/post/festival-things/Hap-Vvo)
   - [胡彦斌都 vibe 出一个 APP 了，2 佬们的 vibe coding 项目有成功的吗](https://2libra.com/post/ai-programming/tpZPn-R)
+- 36氪
+  - [MiniMax：拟于科创板上市](https://36kr.com/newsflashes/3833797236336261?f=rss)
 - Hacker News Frontpage
   - [Steam Deck sells out in North America within 24 hours of price hike](https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/)
   - [Talk Is Cheap: The Operational Impact of LLM Use](https://unessays.substack.com/p/talk-is-cheap)
@@ -24,6 +26,7 @@
   - [Exploit for Improper Authentication in Google Android exploit](https://sploitus.com/exploit?id=37704002-38D1-5D2A-A253-413D29AFF09D&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector exploit](https://sploitus.com/exploit?id=1637C461-1BF8-54A7-A369-12D8EC7CEEEC&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector exploit](https://sploitus.com/exploit?id=254A6F19-4F33-5786-90FC-3146F3468F08&utm_source=rss&utm_medium=rss)
+  - [Software-Security-Exploits exploit](https://sploitus.com/exploit?id=D8F0F842-ECD7-538C-9DC7-C07CFA0AEC4B&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
   - [‘This is fine’ artist KC Green reaches agreement with AI startup Artisan](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/)
@@ -65,9 +68,15 @@
   - [CVE-2026-10194](https://vulners.com/nvd/NVD:CVE-2026-10194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10194 OFFIS DCMTK dcmqrscp dcmqrdbi.cc deleteOldestImages heap-based overflow](https://vulners.com/cve/CVE-2026-10194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10194 OFFIS DCMTK dcmqrscp dcmqrdbi.cc deleteOldestImages heap-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-10194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10197](https://vulners.com/nvd/NVD:CVE-2026-10197?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10198 Assimp glTFImporter glTFImporter.cpp ImportMeshes null pointer dereference](https://vulners.com/cve/CVE-2026-10198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10198 Assimp glTFImporter glTFImporter.cpp ImportMeshes null pointer dereference](https://vulners.com/cvelist/CVELIST:CVE-2026-10198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10199 Assimp glTF2Asset.h LazyDict null pointer dereference](https://vulners.com/cve/CVE-2026-10199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10199 Assimp glTF2Asset.h LazyDict null pointer dereference](https://vulners.com/cvelist/CVELIST:CVE-2026-10199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45505](https://vulners.com/circl/CIRCL:CVE-2026-45505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45505](https://vulners.com/cve/CVE-2026-45505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48210](https://vulners.com/attackerkb/AKB:73882C65-AF1C-4F0F-8069-140D0D64FD4B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48210](https://vulners.com/nvd/NVD:CVE-2026-48210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48210 Possible information disclosure via External Interface](https://vulners.com/cve/CVE-2026-48210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48210 Possible information disclosure via External Interface](https://vulners.com/cvelist/CVELIST:CVE-2026-48210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8796](https://vulners.com/nvd/NVD:CVE-2026-8796?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -75,5 +84,10 @@
   - [Exploit for Improper Authentication in Google Android](https://vulners.com/githubexploit/37704002-38D1-5D2A-A253-413D29AFF09D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/1637C461-1BF8-54A7-A369-12D8EC7CEEEC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/254A6F19-4F33-5786-90FC-3146F3468F08?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Software-Security-Exploits](https://vulners.com/githubexploit/D8F0F842-ECD7-538C-9DC7-C07CFA0AEC4B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Everyone Has Their Targets Set on the MacBook Neo](https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [人民锐评：APP窗口乱跳转的“传送门”该关上了](https://blog.upx8.com/%E4%BA%BA%E6%B0%91%E9%94%90%E8%AF%84-APP%E7%AA%97%E5%8F%A3%E4%B9%B1%E8%B7%B3%E8%BD%AC%E7%9A%84-%E4%BC%A0%E9%80%81%E9%97%A8-%E8%AF%A5%E5%85%B3%E4%B8%8A%E4%BA%86)
