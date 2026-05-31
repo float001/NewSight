@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-05-31）
 
 - 2Libra
+  - [为什么本月 14、17、22、当天的收入+300 实际是 收入 0 ，支出 0 ？](https://2libra.com/post/questions/B8KGOzg)
   - [冲淡一切的不是时间，而是不断涌来的新事物](https://2libra.com/post/personal-life/EfPpzGX)
   - [感觉 Gemini 疯狂降智了，是我的错觉吗](https://2libra.com/post/ai-tools/u3Ewqpa)
   - [需要配音,无从下手?一个软件足矣! 欢迎使用 Neiroha--多端接入、多平台适配的配音工作站](https://2libra.com/post/ai-tools/uKd2pHW)
@@ -18,6 +19,7 @@
   - [天猫618：多品牌手机集体降价，iPhone降2500元，华为降3500元](https://36kr.com/newsflashes/3832582092252808?f=rss)
   - [宝鼎科技：公司未与英伟达有过接触或业务合作，目前未有高速覆铜板M7和M9产品销售](https://36kr.com/newsflashes/3832893774391173?f=rss)
   - [小米技术：MiMo-V2.5实现五大核心突破，降价后仍能实现收支平衡](https://36kr.com/newsflashes/3832525007284097?f=rss)
+  - [思林杰：股东拟合计减持不超6%股份](https://36kr.com/newsflashes/3832895152187009?f=rss)
   - [我国儿童新药连续五年增长，2025年批准138个](https://36kr.com/newsflashes/3832730058565512?f=rss)
   - [我国成功发射卫星互联网技术试验卫星](https://36kr.com/newsflashes/3832495203657606?f=rss)
   - [收获进度18.18%，全国冬小麦机收进度逐步加快](https://36kr.com/newsflashes/3832526695851908?f=rss)
@@ -28,6 +30,7 @@
   - [申万宏源：短期结构分化走向极致，市场再突破仍需蓄力](https://36kr.com/newsflashes/3832743456695943?f=rss)
   - [百诚医药：终止筹划控制权变更事项，股票复牌](https://36kr.com/newsflashes/3832891865180035?f=rss)
   - [美团披露公益数据：6.2亿用户助力建成超5000座乡村儿童操场](https://36kr.com/newsflashes/3832739990972038?f=rss)
+  - [艾德生物：筹划控制权变更事项，股票停牌](https://36kr.com/newsflashes/3832893336888968?f=rss)
   - [软银承诺斥资750亿欧元在法国建设人工智能设施](https://36kr.com/newsflashes/3832585694193541?f=rss)
   - [银轮股份：为数据中心用大马力发电机组配套大型冷却模块已量产](https://36kr.com/newsflashes/3832661750572930?f=rss)
   - [韩国外汇委员会：韩国将于7月6日启动韩元全天候外汇交易](https://36kr.com/newsflashes/3832742483568258?f=rss)
@@ -83,11 +86,13 @@
 - Sploitus.com Exploits RSS Feed
   - [cyanide exploit](https://sploitus.com/exploit?id=5D4ACCD9-4702-5539-9E04-EEF51C46C477&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-10162 exploit](https://sploitus.com/exploit?id=5EDA98FC-35C9-56B3-933B-20E7F256054E&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-8836 exploit](https://sploitus.com/exploit?id=BA80B217-96D1-5CD2-A769-98B7CC6179E5&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Papercut Papercut_Mf exploit](https://sploitus.com/exploit?id=53A0E0A7-1BA9-5582-BCDA-8EBAD523813D&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Paloaltonetworks Pan-Os exploit](https://sploitus.com/exploit?id=F6610C79-ABD9-5BAC-BCCB-D3173C22B58D&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector exploit](https://sploitus.com/exploit?id=7C44A645-D3FC-5C14-8A16-F4D02F5C0D88&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector exploit](https://sploitus.com/exploit?id=C963A78F-A92E-5681-831B-9F33FBEC9998&utm_source=rss&utm_medium=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=0E2F14F3-0BCD-5A3A-B25D-1FCD5DBF497B&utm_source=rss&utm_medium=rss)
+  - [natsio-poc exploit](https://sploitus.com/exploit?id=4E826428-5B1A-52A7-8BA1-4799D9CDE336&utm_source=rss&utm_medium=rss)
   - [rm-oneview-poc exploit](https://sploitus.com/exploit?id=B7E559EF-D75D-5EF9-8719-8055B9CE28E6&utm_source=rss&utm_medium=rss)
   - [TypiCMS-Search-LIKE-Wildcard-Info-Disclosure exploit](https://sploitus.com/exploit?id=5B5D068E-CE5E-554B-BA2D-316D029FD92A&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -97,6 +102,7 @@
   - [‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)
 - The Decoder
   - [AI search agents often confirm what they already know instead of actually researching the web](https://the-decoder.com/ai-search-agents-often-confirm-what-they-already-know-instead-of-actually-researching-the-web/)
+  - [Anthropic study finds men use AI coding agents more than twice as often as women in social science research](https://the-decoder.com/anthropic-study-finds-men-use-ai-coding-agents-more-than-twice-as-often-as-women-in-social-science-research/)
   - [Microsoft and Nvidia reportedly team up on AI PCs that run actual agents instead of Copilot](https://the-decoder.com/microsoft-and-nvidia-reportedly-team-up-on-ai-pcs-that-run-actual-agents-instead-of-copilot/)
   - [SoftBank plans 75 billion euro AI data center buildout in France](https://the-decoder.com/softbank-plans-75-billion-euro-ai-data-center-buildout-in-france/)
 - The Verge
@@ -218,6 +224,8 @@
   - [CVE-2026-10171](https://vulners.com/nvd/NVD:CVE-2026-10171?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10172](https://vulners.com/nvd/NVD:CVE-2026-10172?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10173](https://vulners.com/nvd/NVD:CVE-2026-10173?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10174](https://vulners.com/nvd/NVD:CVE-2026-10174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10175](https://vulners.com/nvd/NVD:CVE-2026-10175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10175 Aider-AI Aider Architect Mode auth.py editor_coder.run code injection](https://vulners.com/cve/CVE-2026-10175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10175 Aider-AI Aider Architect Mode auth.py editor_coder.run code injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46242](https://vulners.com/circl/CIRCL:CVE-2026-46242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -225,16 +233,21 @@
   - [CVE-2026-8594](https://vulners.com/nvd/NVD:CVE-2026-8594?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cyanide](https://vulners.com/githubexploit/5D4ACCD9-4702-5539-9E04-EEF51C46C477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-10162](https://vulners.com/githubexploit/5EDA98FC-35C9-56B3-933B-20E7F256054E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-3891](https://vulners.com/githubexploit/0D182D4B-D9B1-5CA4-8036-DD0DB1BC588E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-48778](https://vulners.com/githubexploit/9C4BCDEB-7C67-5AE3-B5CD-A9A351CBBFC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-8836](https://vulners.com/githubexploit/BA80B217-96D1-5CD2-A769-98B7CC6179E5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Papercut Papercut_Mf](https://vulners.com/githubexploit/53A0E0A7-1BA9-5582-BCDA-8EBAD523813D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Input Validation in Paloaltonetworks Pan-Os](https://vulners.com/githubexploit/F6610C79-ABD9-5BAC-BCCB-D3173C22B58D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/7C44A645-D3FC-5C14-8A16-F4D02F5C0D88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/AC6E4A52-9139-53AB-92DA-7E77FED988C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/C963A78F-A92E-5681-831B-9F33FBEC9998?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/0E2F14F3-0BCD-5A3A-B25D-1FCD5DBF497B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [natsio-poc](https://vulners.com/githubexploit/4E826428-5B1A-52A7-8BA1-4799D9CDE336?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [rm-oneview-poc](https://vulners.com/githubexploit/B7E559EF-D75D-5EF9-8719-8055B9CE28E6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [TypiCMS-Search-LIKE-Wildcard-Info-Disclosure](https://vulners.com/githubexploit/5B5D068E-CE5E-554B-BA2D-316D029FD92A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [6 Best Prepaid Phone Plans (2026): Tello, Boost, Google Fi, More](https://www.wired.com/gallery/best-prepaid-phone-plans/)
+  - [Best Unlimited Phone Plan: T-Mobile, AT&T, Verizon Compared](https://www.wired.com/story/best-unlimited-phone-plans/)
   - [How Turkey Hacked the Hair Transplant Industry](https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/)
 - 不安全
   - [123云盘宣布清理长期未登录用户 超过365天+30天未登录最终数据将被删除](https://buaq.net/go-420024.html)
