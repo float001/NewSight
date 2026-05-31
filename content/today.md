@@ -4,6 +4,7 @@
   - [为什么本月 14、17、22、当天的收入+300 实际是 收入 0 ，支出 0 ？](https://2libra.com/post/questions/B8KGOzg)
   - [冲淡一切的不是时间，而是不断涌来的新事物](https://2libra.com/post/personal-life/EfPpzGX)
   - [感觉 Gemini 疯狂降智了，是我的错觉吗](https://2libra.com/post/ai-tools/u3Ewqpa)
+  - [晒晒第一辆摩托车](https://2libra.com/post/motorcycle/A-Jh2hh)
   - [需要配音,无从下手?一个软件足矣! 欢迎使用 Neiroha--多端接入、多平台适配的配音工作站](https://2libra.com/post/ai-tools/uKd2pHW)
 - 36氪
   - [17股上榜本周南向资金成交活跃股名单](https://36kr.com/newsflashes/3832740552075138?f=rss)
@@ -36,6 +37,8 @@
   - [韩国外汇委员会：韩国将于7月6日启动韩元全天候外汇交易](https://36kr.com/newsflashes/3832742483568258?f=rss)
   - [预计减免关税近600万元，封关后首架“零关税”客机通关](https://36kr.com/newsflashes/3832506934388354?f=rss)
   - [风华高科：不涉及英伟达认证及暂停接单传闻不实](https://36kr.com/newsflashes/3832892582553221?f=rss)
+- Ars Technica
+  - [On its 40th anniversary, we reassess 1986's SpaceCamp](https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/)
 - Cybersecurity News
   - [Inside a Massive Elderly Lottery Fraud Scam](https://securityonline.info/elderly-lottery-fraud-scam-sentence/)
   - [SolyxImmortal Info Stealer Exploits Systems via Discord](https://securityonline.info/solyximmortal-info-stealer-discord-webhooks/)
@@ -75,8 +78,12 @@
   - [How to Build an Anthropic Agent Loop](https://blog.promptlayer.com/how-to-build-an-anthropic-agent-loop/)
   - [How to Build an Anthropic Prompt Generator](https://blog.promptlayer.com/how-to-build-an-anthropic-prompt-generator/)
   - [How to Set Up AI Evaluation for LLM Apps](https://blog.promptlayer.com/how-to-set-up-ai-evaluation-for-llm-apps/)
+- Recent Commits to cve:main
+  - [Update Sun May 31 11:59:23 UTC 2026](https://github.com/trickest/cve/commit/24c57871dd1a8803992820b7f3738e5c52435832)
 - righto.com
   - [Microcode inside the Intel 8087 floating-point chip: register exchange](http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
+- shkspr.mobi
+  - [Who are the actors in the UK's 2015 passport?](https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/)
 - simonwillison.net
   - [How we contain Claude across products](https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything)
   - [I Am Retiring from Tech to Live Offline](https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything)
@@ -84,6 +91,7 @@
   - [Quoting Karen Kwok for Reuters Breakingviews](https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything)
   - [Running Python ASGI apps in the browser via Pyodide + a service worker](https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [CodeAlpha_SQLInjectionSecurity exploit](https://sploitus.com/exploit?id=4FC70776-9CC5-5592-9219-F13CF899F58F&utm_source=rss&utm_medium=rss)
   - [cyanide exploit](https://sploitus.com/exploit?id=5D4ACCD9-4702-5539-9E04-EEF51C46C477&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-10162 exploit](https://sploitus.com/exploit?id=5EDA98FC-35C9-56B3-933B-20E7F256054E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-8836 exploit](https://sploitus.com/exploit?id=BA80B217-96D1-5CD2-A769-98B7CC6179E5&utm_source=rss&utm_medium=rss)
@@ -105,10 +113,12 @@
   - [AI search agents often confirm what they already know instead of actually researching the web](https://the-decoder.com/ai-search-agents-often-confirm-what-they-already-know-instead-of-actually-researching-the-web/)
   - [Anthropic bans AI tools during job interviews to see how candidates actually think](https://the-decoder.com/anthropic-bans-ai-tools-during-job-interviews-to-see-how-candidates-actually-think/)
   - [Anthropic study finds men use AI coding agents more than twice as often as women in social science research](https://the-decoder.com/anthropic-study-finds-men-use-ai-coding-agents-more-than-twice-as-often-as-women-in-social-science-research/)
+  - [Ask AI what goes with chicken and the answer depends on whether it learned from recipes or molecules](https://the-decoder.com/ask-ai-what-goes-with-chicken-and-the-answer-depends-on-whether-it-learned-from-recipes-or-molecules/)
   - [Microsoft and Nvidia reportedly team up on AI PCs that run actual agents instead of Copilot](https://the-decoder.com/microsoft-and-nvidia-reportedly-team-up-on-ai-pcs-that-run-actual-agents-instead-of-copilot/)
   - [SoftBank plans 75 billion euro AI data center buildout in France](https://the-decoder.com/softbank-plans-75-billion-euro-ai-data-center-buildout-in-france/)
 - The Verge
   - [The Mercedes CLA offers great EV specs for an average price](https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs)
+  - [User-replaceable batteries are coming back in a big way](https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation)
   - [Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves)
 - VulDB Recent Entries
   - [CVE-2026-10174 | Aider-AI Aider 0.86.3 Pre-commit Hook aider/args.py git-commit-verify protection mechanism (Issue 5057)](https://vuldb.com/vuln/367455)
@@ -173,6 +183,7 @@
   - [CVE-2026-10252 | itsourcecode Online House Rental System 1.0 /manage_tenant.php ID sql injection](https://vuldb.com/vuln/367530)
   - [CVE-2026-10253 | itsourcecode Online House Rental System 1.0 /manage_payment.php ID sql injection](https://vuldb.com/vuln/367531)
 - Vulners.com RSS Feed
+  - [CodeAlpha_SQLInjectionSecurity](https://vulners.com/githubexploit/4FC70776-9CC5-5592-9219-F13CF899F58F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2018-25405](https://vulners.com/nvd/NVD:CVE-2018-25405?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2018-25406](https://vulners.com/nvd/NVD:CVE-2018-25406?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2018-25407](https://vulners.com/nvd/NVD:CVE-2018-25407?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -244,10 +255,15 @@
   - [CVE-2026-10175 Aider-AI Aider Architect Mode auth.py editor_coder.run code injection](https://vulners.com/cve/CVE-2026-10175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10175 Aider-AI Aider Architect Mode auth.py editor_coder.run code injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10176](https://vulners.com/nvd/NVD:CVE-2026-10176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10177](https://vulners.com/nvd/NVD:CVE-2026-10177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10177 Aider-AI Aider AWS EC2 Metadata Endpoint api_docs.py requests.get server-side request forgery](https://vulners.com/cve/CVE-2026-10177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10177 Aider-AI Aider AWS EC2 Metadata Endpoint api_docs.py requests.get server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-10177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10178](https://vulners.com/nvd/NVD:CVE-2026-10178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10178 code-projects Online Music Site AdminEditAlbum.php sql injection](https://vulners.com/cve/CVE-2026-10178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10178 code-projects Online Music Site AdminEditAlbum.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10179](https://vulners.com/nvd/NVD:CVE-2026-10179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10180 TRENDnet TEW-432BRP formSysCmd command injection](https://vulners.com/cve/CVE-2026-10180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10180 TRENDnet TEW-432BRP formSysCmd command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46242](https://vulners.com/circl/CIRCL:CVE-2026-46242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8382](https://vulners.com/nvd/NVD:CVE-2026-8382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8594](https://vulners.com/nvd/NVD:CVE-2026-8594?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -281,6 +297,7 @@
 - 黑海洋
   - [3C认证实施规则移动电源新增多项安全测试要求](https://blog.upx8.com/3C%E8%AE%A4%E8%AF%81%E5%AE%9E%E6%96%BD%E8%A7%84%E5%88%99%E7%A7%BB%E5%8A%A8%E7%94%B5%E6%BA%90%E6%96%B0%E5%A2%9E%E5%A4%9A%E9%A1%B9%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95%E8%A6%81%E6%B1%82)
   - [OpenLess：开源语音输入工具，把口述需求整理成 AI Prompt](https://blog.upx8.com/OpenLess-AI-Prompt)
+  - [特朗普拟改《美墨加协定》：半数汽车部件须“美国制造”](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E6%94%B9-%E7%BE%8E%E5%A2%A8%E5%8A%A0%E5%8D%8F%E5%AE%9A-%E5%8D%8A%E6%95%B0%E6%B1%BD%E8%BD%A6%E9%83%A8%E4%BB%B6%E9%A1%BB-%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0)
   - [社媒巨头支付2700万美元 平息学区成瘾控诉](https://blog.upx8.com/%E7%A4%BE%E5%AA%92%E5%B7%A8%E5%A4%B4%E6%94%AF%E4%BB%982700%E4%B8%87%E7%BE%8E%E5%85%83-%E5%B9%B3%E6%81%AF%E5%AD%A6%E5%8C%BA%E6%88%90%E7%98%BE%E6%8E%A7%E8%AF%89)
   - [软银将投资750亿欧元建设法国数据中心](https://blog.upx8.com/%E8%BD%AF%E9%93%B6%E5%B0%86%E6%8A%95%E8%B5%84750%E4%BA%BF%E6%AC%A7%E5%85%83%E5%BB%BA%E8%AE%BE%E6%B3%95%E5%9B%BD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
   - [黄仁勋评价华为突破：台积电领先10年](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E8%AF%84%E4%BB%B7%E5%8D%8E%E4%B8%BA%E7%AA%81%E7%A0%B4-%E5%8F%B0%E7%A7%AF%E7%94%B5%E9%A2%86%E5%85%8810%E5%B9%B4)
