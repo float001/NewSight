@@ -4,6 +4,7 @@
   - [感觉 Gemini 疯狂降智了，是我的错觉吗](https://2libra.com/post/ai-tools/u3Ewqpa)
   - [需要配音,无从下手?一个软件足矣! 欢迎使用 Neiroha--多端接入、多平台适配的配音工作站](https://2libra.com/post/ai-tools/uKd2pHW)
 - 36氪
+  - [17股上榜本周南向资金成交活跃股名单](https://36kr.com/newsflashes/3832740552075138?f=rss)
   - [中国汽车流通协会：5月中国汽车经销商库存预警指数为57.9%](https://36kr.com/newsflashes/3832514855839617?f=rss)
   - [丰田回应将中止雷克萨斯下一代纯电轿车开发](https://36kr.com/newsflashes/3832495904171908?f=rss)
   - [前4个月我国软件业务收入46686亿元，同比增长10.9%](https://36kr.com/newsflashes/3832525421635200?f=rss)
@@ -16,16 +17,21 @@
   - [收获进度18.18%，全国冬小麦机收进度逐步加快](https://36kr.com/newsflashes/3832526695851908?f=rss)
   - [智元机器人合伙人姚卯青：今年上半年智元海外收入占比已近20%](https://36kr.com/newsflashes/3832506045818500?f=rss)
   - [欧洲央行管委佩雷拉：必须尽早应对通胀](https://36kr.com/newsflashes/3832504586577798?f=rss)
+  - [深圳800元养老消费券来了](https://36kr.com/newsflashes/3832741808645764?f=rss)
   - [美团披露公益数据：6.2亿用户助力建成超5000座乡村儿童操场](https://36kr.com/newsflashes/3832739990972038?f=rss)
   - [软银承诺斥资750亿欧元在法国建设人工智能设施](https://36kr.com/newsflashes/3832585694193541?f=rss)
   - [银轮股份：为数据中心用大马力发电机组配套大型冷却模块已量产](https://36kr.com/newsflashes/3832661750572930?f=rss)
+  - [韩国外汇委员会：韩国将于7月6日启动韩元全天候外汇交易](https://36kr.com/newsflashes/3832742483568258?f=rss)
   - [预计减免关税近600万元，封关后首架“零关税”客机通关](https://36kr.com/newsflashes/3832506934388354?f=rss)
+- defend.network
+  - [Active exploits: Palo Alto GlobalProtect, CISA credential leak, Linux kernel RCE](https://defend.network/briefings/pan-os-globalprotect-cisa-github-linux-kernel-exploits-2026-05-31.html)
 - Emergent Minds | paddo.dev
   - [Cheap Is a Hardware Strategy](https://paddo.dev/blog/cheap-is-a-hardware-strategy/)
 - gilesthomas.com
   - [On first looking into JAX](https://www.gilesthomas.com/2026/05/on-first-looking-into-jax)
 - Hacker News Frontpage
   - [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html)
+  - [Avian Visitors](https://theodore.net/projects/AvianVisitors/)
   - [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)
   - [Hormuz crisis side effect: a sharp rise in container shipping rates](https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates)
   - [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
@@ -95,6 +101,16 @@
   - [CVE-2026-10186 | code-projects Online Hospital Management System 1.0 /patient.php editid sql injection](https://vuldb.com/vuln/367467)
   - [CVE-2026-10187 | Totolink N300RH 6.1c.1353_B20190305 Web Management Interface wireless.so setWiFiBasicConfig KeyStr stack-based overflow](https://vuldb.com/vuln/367468)
   - [CVE-2026-10194 | OFFIS DCMTK 3.7.0 dcmqrscp dcmqrdbi.cc deleteOldestImages heap-based overflow](https://vuldb.com/vuln/367475)
+  - [CVE-2026-10197 | Assimp up to 6.0.4 TF File glTF2Importer.cpp ImportEmbeddedTextures null pointer dereference (Issue 6608)](https://vuldb.com/vuln/367477)
+  - [CVE-2026-10198 | Assimp up to 6.0.4 glTFImporter glTFImporter.cpp ImportMeshes null pointer dereference (Issue 6609)](https://vuldb.com/vuln/367478)
+  - [CVE-2026-10199 | Assimp up to 6.0.4 glTF2Asset.h glTF2::LazyDict operator[] null pointer dereference (Issue 6611)](https://vuldb.com/vuln/367479)
+  - [CVE-2026-10200 | Assimp up to 6.0.4 4x4 Matrix Parser glTFCommon.h glTFCommon::CopyValue heap-based overflow (Issue 6612)](https://vuldb.com/vuln/367480)
+  - [CVE-2026-10201 | Assimp up to 6.0.4 UV Channel FBXExporter.cpp WriteObjects divide by zero (Issue 6613)](https://vuldb.com/vuln/367481)
+  - [CVE-2026-10202 | OFCMS 1.1.3 JSON Query Interface SystemDictController.java query sql injection (IJLIBT)](https://vuldb.com/vuln/367482)
+  - [CVE-2026-10203 | OFCMS 1.1.3 JSON Query Interface SystemParamController.java query sql injection (IJLIYP)](https://vuldb.com/vuln/367483)
+  - [CVE-2026-10204 | OFCMS 1.1.3 JSON Query Interface SysUserController.java query sql injection (IJLL09)](https://vuldb.com/vuln/367484)
+  - [CVE-2026-10205 | Metasoft 美特软件 MetaCRM 6.4.0 upload.jsp unrestricted upload](https://vuldb.com/vuln/367485)
+  - [CVE-2026-10206 | D-Link DI-8400 up to 16.07.26A1 /dbsrv.asp str stack-based overflow](https://vuldb.com/vuln/367486)
 - Vulners.com RSS Feed
   - [CVE-2018-25405](https://vulners.com/nvd/NVD:CVE-2018-25405?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2018-25406](https://vulners.com/nvd/NVD:CVE-2018-25406?utm_source=rss&utm_medium=rss&utm_campaign=rss)
