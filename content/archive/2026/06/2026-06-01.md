@@ -24,6 +24,7 @@
   - [‘This is fine’ artist KC Green reaches agreement with AI startup Artisan](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/)
 - The Verge
   - [Here’s your first look at ‘A Minecraft Movie Squared’ with Kirsten Dunst as Alex](https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex)
+  - [How to watch Nvidia&#8217;s Computex keynote](https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote)
 - VulDB Recent Entries
   - [CVE-2026-10276 | hekmon8 Jenkins-server-mcp 0.1.0 get_build_status/get_build_log/trigger_build src/index.ts jobPath server-side request forgery](https://vuldb.com/vuln/367569)
   - [CVE-2026-10277 | j3k0 mcp-google-workspace up to 831790e7d5c2663325733d9f5579cc339a267c4c MCP Gmail Tool src/tools/gmail.ts saveToDisk access control](https://vuldb.com/vuln/367570)
@@ -60,6 +61,7 @@
   - [CVE-2026-10194 OFFIS DCMTK dcmqrscp dcmqrdbi.cc deleteOldestImages heap-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-10194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45505](https://vulners.com/circl/CIRCL:CVE-2026-45505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45505](https://vulners.com/cve/CVE-2026-45505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8796](https://vulners.com/nvd/NVD:CVE-2026-8796?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2022-42005](https://vulners.com/githubexploit/8E6F30BE-6CC2-502D-8EB3-AEB3B042DEBA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Authentication in Google Android](https://vulners.com/githubexploit/37704002-38D1-5D2A-A253-413D29AFF09D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/1637C461-1BF8-54A7-A369-12D8EC7CEEEC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
