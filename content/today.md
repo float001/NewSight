@@ -1,7 +1,11 @@
 # 今日安全资讯（2026-05-31）
 
 - 36氪
+  - [丰田回应将中止雷克萨斯下一代纯电轿车开发](https://36kr.com/newsflashes/3832495904171908?f=rss)
+  - [小米技术：MiMo-V2.5实现五大核心突破，降价后仍能实现收支平衡](https://36kr.com/newsflashes/3832525007284097?f=rss)
   - [我国成功发射卫星互联网技术试验卫星](https://36kr.com/newsflashes/3832495203657606?f=rss)
+  - [智元机器人合伙人姚卯青：今年上半年智元海外收入占比已近20%](https://36kr.com/newsflashes/3832506045818500?f=rss)
+  - [欧洲央行管委佩雷拉：必须尽早应对通胀](https://36kr.com/newsflashes/3832504586577798?f=rss)
 - Emergent Minds | paddo.dev
   - [Cheap Is a Hardware Strategy](https://paddo.dev/blog/cheap-is-a-hardware-strategy/)
 - gilesthomas.com
@@ -37,6 +41,7 @@
   - [How we contain Claude across products](https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything)
   - [I Am Retiring from Tech to Live Offline](https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything)
   - [Quoting Daniel Jalkut](https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything)
+  - [Quoting Karen Kwok for Reuters Breakingviews](https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything)
   - [Running Python ASGI apps in the browser via Pyodide + a service worker](https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [cyanide exploit](https://sploitus.com/exploit?id=5D4ACCD9-4702-5539-9E04-EEF51C46C477&utm_source=rss&utm_medium=rss)
@@ -116,6 +121,8 @@
   - [CVE-2026-10156](https://vulners.com/nvd/NVD:CVE-2026-10156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10156 Open5GS nf-instances Endpoint nnrf-handler.c handle_amf_info resource consumption](https://vulners.com/cve/CVE-2026-10156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10156 Open5GS nf-instances Endpoint nnrf-handler.c handle_amf_info resource consumption](https://vulners.com/cvelist/CVELIST:CVE-2026-10156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10159 TRENDnet TEW-432BRP formSysLog stack-based overflow](https://vulners.com/cve/CVE-2026-10159?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10159 TRENDnet TEW-432BRP formSysLog stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-10159?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46242](https://vulners.com/circl/CIRCL:CVE-2026-46242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8594](https://vulners.com/nvd/NVD:CVE-2026-8594?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cyanide](https://vulners.com/githubexploit/5D4ACCD9-4702-5539-9E04-EEF51C46C477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -125,8 +132,11 @@
   - [Exploit for Improper Input Validation in Paloaltonetworks Pan-Os](https://vulners.com/githubexploit/F6610C79-ABD9-5BAC-BCCB-D3173C22B58D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/7C44A645-D3FC-5C14-8A16-F4D02F5C0D88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/0E2F14F3-0BCD-5A3A-B25D-1FCD5DBF497B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [社媒巨头支付2700万美元 平息学区成瘾控诉](https://buaq.net/go-420009.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [社媒巨头支付2700万美元 平息学区成瘾控诉](https://blog.upx8.com/%E7%A4%BE%E5%AA%92%E5%B7%A8%E5%A4%B4%E6%94%AF%E4%BB%982700%E4%B8%87%E7%BE%8E%E5%85%83-%E5%B9%B3%E6%81%AF%E5%AD%A6%E5%8C%BA%E6%88%90%E7%98%BE%E6%8E%A7%E8%AF%89)
   - [软银将投资750亿欧元建设法国数据中心](https://blog.upx8.com/%E8%BD%AF%E9%93%B6%E5%B0%86%E6%8A%95%E8%B5%84750%E4%BA%BF%E6%AC%A7%E5%85%83%E5%BB%BA%E8%AE%BE%E6%B3%95%E5%9B%BD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
   - [黄仁勋评价华为突破：台积电领先10年](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E8%AF%84%E4%BB%B7%E5%8D%8E%E4%B8%BA%E7%AA%81%E7%A0%B4-%E5%8F%B0%E7%A7%AF%E7%94%B5%E9%A2%86%E5%85%8810%E5%B9%B4)
