@@ -1,9 +1,13 @@
 # 今日安全资讯（2026-05-31）
 
+- Emergent Minds | paddo.dev
+  - [Cheap Is a Hardware Strategy](https://paddo.dev/blog/cheap-is-a-hardware-strategy/)
 - gilesthomas.com
   - [On first looking into JAX](https://www.gilesthomas.com/2026/05/on-first-looking-into-jax)
 - Hacker News Frontpage
+  - [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)
   - [Hormuz crisis side effect: a sharp rise in container shipping rates](https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates)
+  - [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
   - [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b)
   - [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/)
   - [White House's Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/)
@@ -12,6 +16,7 @@
   - [Spot checking polynomial identities](https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/)
 - PromptLayer
   - [How to Build an AI Engineering Stack](https://blog.promptlayer.com/how-to-build-an-ai-engineering-stack/)
+  - [How to Build an Anthropic Agent Loop](https://blog.promptlayer.com/how-to-build-an-anthropic-agent-loop/)
   - [How to Set Up AI Evaluation for LLM Apps](https://blog.promptlayer.com/how-to-set-up-ai-evaluation-for-llm-apps/)
 - righto.com
   - [Microcode inside the Intel 8087 floating-point chip: register exchange](http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
@@ -91,6 +96,10 @@
   - [CVE-2026-10152 TaleLin lin-cms-spring-boot book Endpoint BookController.java access control](https://vulners.com/cve/CVE-2026-10152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10152 TaleLin lin-cms-spring-boot book Endpoint BookController.java access control](https://vulners.com/cvelist/CVELIST:CVE-2026-10152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10153](https://vulners.com/nvd/NVD:CVE-2026-10153?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10155 Bdtask Multi-Store Inventory Management System Accounts Report Accounts.php accounts_report_search sql injection](https://vulners.com/cve/CVE-2026-10155?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10155 Bdtask Multi-Store Inventory Management System Accounts Report Accounts.php accounts_report_search sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10155?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10156 Open5GS nf-instances Endpoint nnrf-handler.c handle_amf_info resource consumption](https://vulners.com/cve/CVE-2026-10156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10156 Open5GS nf-instances Endpoint nnrf-handler.c handle_amf_info resource consumption](https://vulners.com/cvelist/CVELIST:CVE-2026-10156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46242](https://vulners.com/circl/CIRCL:CVE-2026-46242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8594](https://vulners.com/nvd/NVD:CVE-2026-8594?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cyanide](https://vulners.com/githubexploit/5D4ACCD9-4702-5539-9E04-EEF51C46C477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -102,3 +111,5 @@
   - [Exploit for Write-what-where Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/0E2F14F3-0BCD-5A3A-B25D-1FCD5DBF497B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [软银将投资750亿欧元建设法国数据中心](https://blog.upx8.com/%E8%BD%AF%E9%93%B6%E5%B0%86%E6%8A%95%E8%B5%84750%E4%BA%BF%E6%AC%A7%E5%85%83%E5%BB%BA%E8%AE%BE%E6%B3%95%E5%9B%BD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
