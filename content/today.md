@@ -14,8 +14,12 @@
 - simonwillison.net
   - [The solution might be cancelling my AI subscription](https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2022-42005 exploit](https://sploitus.com/exploit?id=8E6F30BE-6CC2-502D-8EB3-AEB3B042DEBA&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Google Android exploit](https://sploitus.com/exploit?id=37704002-38D1-5D2A-A253-413D29AFF09D&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector exploit](https://sploitus.com/exploit?id=254A6F19-4F33-5786-90FC-3146F3468F08&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
+  - [‘This is fine’ artist KC Green reaches agreement with AI startup Artisan](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/)
 - VulDB Recent Entries
   - [CVE-2026-10276 | hekmon8 Jenkins-server-mcp 0.1.0 get_build_status/get_build_log/trigger_build src/index.ts jobPath server-side request forgery](https://vuldb.com/vuln/367569)
   - [CVE-2026-10277 | j3k0 mcp-google-workspace up to 831790e7d5c2663325733d9f5579cc339a267c4c MCP Gmail Tool src/tools/gmail.ts saveToDisk access control](https://vuldb.com/vuln/367570)
@@ -32,6 +36,13 @@
   - [CVE-2026-10288 | code-projects Hotel and Tourism Reservation System 1.0 Admin Login /admin/login.php password_verify Password improper authentication](https://vuldb.com/vuln/367581)
   - [CVE-2026-10289 | code-projects Hotel and Tourism Reservation System 1.0 /ht/tour.php name /email /people /number cross site scripting](https://vuldb.com/vuln/367582)
   - [CVE-2026-10290 | code-projects Hotel and Tourism Reservation System 1.0 GET Parameter tour.php tour sql injection](https://vuldb.com/vuln/367583)
+  - [CVE-2026-10296 | itsourcecode Fees Management System 1.0 /ajax.php Username sql injection](https://vuldb.com/vuln/367589)
+  - [CVE-2026-10297 | itsourcecode Fees Management System 1.0 /manage_course.php ID sql injection](https://vuldb.com/vuln/367590)
+  - [CVE-2026-10298 | ggml-org whisper.cpp up to 1.8.2 ggml/src/ggml.c whisper_model_load null pointer dereference (Issue 3807)](https://vuldb.com/vuln/367591)
+  - [CVE-2026-10299 | code-projects Online Hospital Management System 1.0 viewdoctortimings.php delid resource injection](https://vuldb.com/vuln/367592)
+  - [CVE-2026-10300 | SGLang 0.5.10.post1 Inference HTTP Endpoint lora_manager.py lora_path assertion (Issue 23141)](https://vuldb.com/vuln/367593)
+  - [CVE-2026-10301 | itsourcecode Fees Management System 1.0 index.php page cross site scripting](https://vuldb.com/vuln/367594)
+  - [CVE-2026-10302 | itsourcecode Fees Management System 1.0 /manage_fee.php ID sql injection](https://vuldb.com/vuln/367595)
 - Vulners.com RSS Feed
   - [CVE-2026-10189](https://vulners.com/nvd/NVD:CVE-2026-10189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10190](https://vulners.com/nvd/NVD:CVE-2026-10190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -43,6 +54,9 @@
   - [CVE-2026-10194](https://vulners.com/nvd/NVD:CVE-2026-10194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10194 OFFIS DCMTK dcmqrscp dcmqrdbi.cc deleteOldestImages heap-based overflow](https://vulners.com/cve/CVE-2026-10194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10194 OFFIS DCMTK dcmqrscp dcmqrdbi.cc deleteOldestImages heap-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-10194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45505](https://vulners.com/circl/CIRCL:CVE-2026-45505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45505](https://vulners.com/cve/CVE-2026-45505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2022-42005](https://vulners.com/githubexploit/8E6F30BE-6CC2-502D-8EB3-AEB3B042DEBA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Authentication in Google Android](https://vulners.com/githubexploit/37704002-38D1-5D2A-A253-413D29AFF09D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/254A6F19-4F33-5786-90FC-3146F3468F08?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
