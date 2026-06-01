@@ -5,7 +5,24 @@
   - [【💰】谁还不是宝宝呢！？儿童节快乐 🎉](https://2libra.com/post/festival-things/Hap-Vvo)
   - [胡彦斌都 vibe 出一个 APP 了，2 佬们的 vibe coding 项目有成功的吗](https://2libra.com/post/ai-programming/tpZPn-R)
 - 36氪
+  - [6月基金经理调研：A股仍是最受青睐的方向之一](https://36kr.com/newsflashes/3833803823753091?f=rss)
   - [MiniMax：拟于科创板上市](https://36kr.com/newsflashes/3833797236336261?f=rss)
+  - [下半年车市进入智驾“下半场”，高阶辅助驾驶下探至15万元级市场](https://36kr.com/newsflashes/3833804846769794?f=rss)
+  - [中信建投：供应扰动已成事实，耐心等待需求改善推动铝价上行](https://36kr.com/newsflashes/3833828803225480?f=rss)
+  - [中信建投：海外商业航天出现短期扰动，持续看好卫星互联网及可复用火箭方向](https://36kr.com/newsflashes/3833828518553480?f=rss)
+  - [中信建投：看好香港房地产市场头部企业经营与业绩的持续提升](https://36kr.com/newsflashes/3833828268091269?f=rss)
+  - [中金：2028年前后房企或在经营基本面上迎来全面回暖](https://36kr.com/newsflashes/3833849455076998?f=rss)
+  - [券商：A股6月将延续高位震荡，科技主线或内部聚焦](https://36kr.com/newsflashes/3833803349108352?f=rss)
+  - [华泰证券A股策略：配置上沿再平衡线索展开，科技成长仍是中期主线](https://36kr.com/newsflashes/3833827864602244?f=rss)
+  - [华泰证券：建筑建材板块深挖科技链新材料、存量翻新新模式和老树开新花三条主线](https://36kr.com/newsflashes/3833848949745542?f=rss)
+  - [南向资金密集扫货港股科技股，对多只标的持仓倍增](https://36kr.com/newsflashes/3833826630543238?f=rss)
+  - [国家统计局今日启动入户调查](https://36kr.com/newsflashes/3833798441281161?f=rss)
+  - [多家PCB上市公司发布扩产计划](https://36kr.com/newsflashes/3833804428306050?f=rss)
+  - [成都卡诺普机器人技术股份有限公司向港交所提交上市申请书](https://36kr.com/newsflashes/3833801704269443?f=rss)
+  - [数量与规模双攀升，5月新基金发行破千亿](https://36kr.com/newsflashes/3833827562628745?f=rss)
+  - [汇源通信：终止向特定对象发行股票事项，公司控制权变更终止](https://36kr.com/newsflashes/3833851029448320?f=rss)
+  - [私募业规模站上23万亿元，证券类产品不断“上新”](https://36kr.com/newsflashes/3833829412317056?f=rss)
+  - [美联储6月维持利率不变的概率为99.3%](https://36kr.com/newsflashes/3833799499868036?f=rss)
 - Hacker News Frontpage
   - [Steam Deck sells out in North America within 24 hours of price hike](https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/)
   - [Talk Is Cheap: The Operational Impact of LLM Use](https://unessays.substack.com/p/talk-is-cheap)
@@ -17,9 +34,12 @@
   - [New AI Benchmarks Are Testing Consistency Instead of Memorization](https://hackernoon.com/new-ai-benchmarks-are-testing-consistency-instead-of-memorization?source=rss)
 - Hacking Articles
   - [AI Powered Nmap using ShellGPT](https://www.hackingarticles.in/ai-powered-nmap-using-shellgpt/)
+- joanwestenberg.com
+  - [Be thou not pilled](https://www.joanwestenberg.com/be-thou-not-pilled/)
 - johndcook.com
   - [Another Gaussian approximation](https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/)
 - simonwillison.net
+  - [datasette 1.0a32](https://simonwillison.net/2026/May/31/datasette/#atom-everything)
   - [The solution might be cancelling my AI subscription](https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2022-42005 exploit](https://sploitus.com/exploit?id=8E6F30BE-6CC2-502D-8EB3-AEB3B042DEBA&utm_source=rss&utm_medium=rss)
@@ -31,6 +51,7 @@
   - [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
   - [‘This is fine’ artist KC Green reaches agreement with AI startup Artisan](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/)
 - The Verge
+  - [AMD’s new pitch: our old tech is so good you should just keep using it](https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d)
   - [Apple’s strategy for smart glasses is the same as smart watches](https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches)
   - [Here’s your first look at ‘A Minecraft Movie Squared’ with Kirsten Dunst as Alex](https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex)
   - [How to watch Nvidia&#8217;s Computex keynote](https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote)
@@ -69,10 +90,19 @@
   - [CVE-2026-10194 OFFIS DCMTK dcmqrscp dcmqrdbi.cc deleteOldestImages heap-based overflow](https://vulners.com/cve/CVE-2026-10194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10194 OFFIS DCMTK dcmqrscp dcmqrdbi.cc deleteOldestImages heap-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-10194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10197](https://vulners.com/nvd/NVD:CVE-2026-10197?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10198](https://vulners.com/nvd/NVD:CVE-2026-10198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10198 Assimp glTFImporter glTFImporter.cpp ImportMeshes null pointer dereference](https://vulners.com/cve/CVE-2026-10198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10198 Assimp glTFImporter glTFImporter.cpp ImportMeshes null pointer dereference](https://vulners.com/cvelist/CVELIST:CVE-2026-10198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10199](https://vulners.com/nvd/NVD:CVE-2026-10199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10199 Assimp glTF2Asset.h LazyDict null pointer dereference](https://vulners.com/cve/CVE-2026-10199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10199 Assimp glTF2Asset.h LazyDict null pointer dereference](https://vulners.com/cvelist/CVELIST:CVE-2026-10199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10200](https://vulners.com/nvd/NVD:CVE-2026-10200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10202 OFCMS JSON Query SystemDictController.java query sql injection](https://vulners.com/cve/CVE-2026-10202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10202 OFCMS JSON Query SystemDictController.java query sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10203 OFCMS JSON Query SystemParamController.java query sql injection](https://vulners.com/cve/CVE-2026-10203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10203 OFCMS JSON Query SystemParamController.java query sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10204 OFCMS JSON Query SysUserController.java query sql injection](https://vulners.com/cve/CVE-2026-10204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10204 OFCMS JSON Query SysUserController.java query sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45505](https://vulners.com/circl/CIRCL:CVE-2026-45505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45505](https://vulners.com/cve/CVE-2026-45505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48210](https://vulners.com/attackerkb/AKB:73882C65-AF1C-4F0F-8069-140D0D64FD4B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -91,3 +121,4 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
   - [人民锐评：APP窗口乱跳转的“传送门”该关上了](https://blog.upx8.com/%E4%BA%BA%E6%B0%91%E9%94%90%E8%AF%84-APP%E7%AA%97%E5%8F%A3%E4%B9%B1%E8%B7%B3%E8%BD%AC%E7%9A%84-%E4%BC%A0%E9%80%81%E9%97%A8-%E8%AF%A5%E5%85%B3%E4%B8%8A%E4%BA%86)
+  - [天涯社区宣布：6月1日起正式恢复访问](https://blog.upx8.com/%E5%A4%A9%E6%B6%AF%E7%A4%BE%E5%8C%BA%E5%AE%A3%E5%B8%83-6%E6%9C%881%E6%97%A5%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%81%A2%E5%A4%8D%E8%AE%BF%E9%97%AE)
