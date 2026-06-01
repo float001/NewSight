@@ -11,6 +11,7 @@
 - Der Flounder
   - [Reporting on Jamf Pro local account permissions](https://derflounder.wordpress.com/2026/06/01/reporting-on-jamf-pro-local-account-permissions/)
 - Hacker News Frontpage
+  - [Debug Project](https://debug.com/)
   - [DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
   - [The Newest Instagram "Exploit" Is the Goofiest I've Seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
 - idiallo.com
@@ -21,13 +22,19 @@
   - [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
 - ProjectDiscovery.io | Blog
   - [How Neo's Agent Architecture Evolved: From One Agent → Plan, Execute & Verify](https://projectdiscovery.io/blog/neo-agent-architecture)
+- PromptLayer
+  - [How to Build a Marketing AI Workflow](https://blog.promptlayer.com/suggestion-pending-arorxqlxpd-2/)
+  - [How to Define Tools for LLM Agents](https://blog.promptlayer.com/suggestion-pending-lzsdyjr8hp-2/)
+  - [How to Prompt AI Models for Production Tasks](https://blog.promptlayer.com/suggestion-pending-yoh_fufhvi-2/)
 - Sploitus.com Exploits RSS Feed
   - [CVE-2026-ThreemaWeb-PrototypePollution exploit](https://sploitus.com/exploit?id=AA426892-2C2F-595E-8F61-7F32051099EC&utm_source=rss&utm_medium=rss)
+  - [cve-arsenal exploit](https://sploitus.com/exploit?id=ECAFE318-F67E-5F49-8E24-3AAFF9AFFAE0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-8206 exploit](https://sploitus.com/exploit?id=404E68B4-550F-51C1-B107-460F8E9F767F&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A new app, The Mall, is building a universal feed for online shopping](https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/)
   - [Anthropic files to go public](https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/)
   - [Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents](https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/)
+  - [From the stage to the future: Where are Startup Battlefield’s alumni now?](https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/)
   - [Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers](https://techcrunch.com/2026/06/01/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers/)
   - [Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access](https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/)
   - [SpaceX says it may issue ‘significant’ equity in ‘future transactions’](https://techcrunch.com/2026/06/01/spacex-says-it-may-issue-significant-equity-in-future-transactions/)
@@ -41,7 +48,9 @@
   - [Anthropic has officially filed to go public](https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public)
   - [Casey Neistat’s guide to posting every day](https://www.theverge.com/podcast/941140/casey-neistat-daily-vergecast)
   - [Meta&#8217;s own AI was exploited to hijack Instagram accounts](https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked)
+  - [Pebblebee&#8217;s Halo can help track lost items and keep you safe, and it&#8217;s on sale for $50](https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale)
   - [Sony’s new fight stick and gaming monitor launch in August](https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price)
+  - [The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands](https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands)
 - VulDB Recent Entries
   - [CVE-2024-52011 | vitejs launch-editor up to 2.8.x on Windows Special Character launchEditor File command injection](https://vuldb.com/vuln/367711)
   - [CVE-2026-0072 | Google Android XR 14 addInputMethodListener improper authorization](https://vuldb.com/vuln/367712)
@@ -189,6 +198,7 @@
   - [CVE-2026-9330](https://vulners.com/nvd/NVD:CVE-2026-9330?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9614](https://vulners.com/nvd/NVD:CVE-2026-9614?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-ThreemaWeb-PrototypePollution](https://vulners.com/githubexploit/AA426892-2C2F-595E-8F61-7F32051099EC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [cve-arsenal](https://vulners.com/githubexploit/ECAFE318-F67E-5F49-8E24-3AAFF9AFFAE0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-8206](https://vulners.com/githubexploit/404E68B4-550F-51C1-B107-460F8E9F767F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-35JP-WW65-95WH vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-35JP-WW65-95WH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-5CV4-JP36-H3MW vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-5CV4-JP36-H3MW?utm_source=rss&utm_medium=rss&utm_campaign=rss)
