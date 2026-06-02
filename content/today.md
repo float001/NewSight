@@ -6,6 +6,7 @@
   - [你们的徽章都是怎么获得的？？？](https://2libra.com/post/forum-function/Oh7o3ll)
   - [我获得了卡皮巴拉徽章，这个怎么玩？](https://2libra.com/post/forum-function/sxuJd-N)
   - [戒烟一整年有感](https://2libra.com/post/personal-life/4qmMlgG)
+  - [某竞技场太差了](https://2libra.com/post/tech-rumination/r-o9s7m)
   - [要是你突然得知你继承了 6800 万，明早起床你先做什么？](https://2libra.com/post/idea/W92spkF)
 - 36氪
   - [10年期国债收益率低见1.704%，债市交易逻辑重回基本面](https://36kr.com/newsflashes/3835252204483968?f=rss)
@@ -28,8 +29,10 @@
   - [主动与量化“双向奔赴”，基金业探索超额收益获取新途径](https://36kr.com/newsflashes/3835261578245508?f=rss)
   - [人民币兑美元中间价报6.8187，下调20点](https://36kr.com/newsflashes/3835347017593990?f=rss)
   - [今年以来超600只理财产品提前退场](https://36kr.com/newsflashes/3835249422873992?f=rss)
+  - [今日头条半年内再度换帅](https://36kr.com/newsflashes/3835451821782403?f=rss)
   - [储蓄国债即将纳入个人养老金产品池，为投资者提供长期稳健投资选择](https://36kr.com/newsflashes/3835234809165189?f=rss)
   - [创业板指涨超1%](https://36kr.com/newsflashes/3835360988837001?f=rss)
+  - [创业板指涨超2%](https://36kr.com/newsflashes/3835446179476869?f=rss)
   - [前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”](https://36kr.com/p/3834292242130825?f=rss)
   - [华泰证券：618低价竞争降温 平台聚焦效率升级](https://36kr.com/newsflashes/3835292960994438?f=rss)
   - [华泰证券：AI驱动感光干膜需求爬升，国产化替代空间广阔](https://36kr.com/newsflashes/3835284709012608?f=rss)
@@ -39,9 +42,13 @@
   - [央行今日开展2亿元7天逆回购操作](https://36kr.com/newsflashes/3835353112638856?f=rss)
   - [应用需求旺盛，年内多种小金属价格攀升](https://36kr.com/newsflashes/3835269055182211?f=rss)
   - [恒指开盘跌0.01%，恒生科技指数涨0.62%](https://36kr.com/newsflashes/3835352807060617?f=rss)
+  - [恒生指数涨超1%](https://36kr.com/newsflashes/3835402744821129?f=rss)
+  - [恒生科技指数日内涨幅扩大至3%](https://36kr.com/newsflashes/3835410257261959?f=rss)
   - [恒生科技指数涨超2%](https://36kr.com/newsflashes/3835392858190981?f=rss)
   - [机构：2026年智能手机出货量预计同比下降13.9%](https://36kr.com/newsflashes/3835318280435077?f=rss)
   - [李宁品牌与库里品牌达成长期合作](https://36kr.com/newsflashes/3835331819025540?f=rss)
+  - [沪深两市成交额突破1.5万亿元](https://36kr.com/newsflashes/3835445079078025?f=rss)
+  - [沪深两市成交额突破1万亿](https://36kr.com/newsflashes/3835398702281862?f=rss)
   - [沪深两市成交额突破5000亿元](https://36kr.com/newsflashes/3835378617136256?f=rss)
   - [澳大利亚竞争监管机构向亚马逊等企业发出下架通知，要求下架某些玩具](https://36kr.com/newsflashes/3835231408911497?f=rss)
   - [燃油涨价，印度多家航空公司大幅削减航班](https://36kr.com/newsflashes/3835378484655490?f=rss)
@@ -58,6 +65,7 @@
   - [韩国家庭一季度酒精饮料支出同比下降9%，创七年来最大降幅](https://36kr.com/newsflashes/3835283251475841?f=rss)
   - [韩国市值突破5万亿美元](https://36kr.com/newsflashes/3835297856042117?f=rss)
   - [首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发](https://36kr.com/p/3834400181741440?f=rss)
+  - [黑石旗下最大亚洲私募基金筹资131亿美元](https://36kr.com/newsflashes/3835432082830472?f=rss)
 - Ars Technica
   - [Doctors blast Trump for doubling down on vaccine policy modeled after Denmark](https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/)
   - [Why cats prefer silver vine to catnip and other May highlights](https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/)
@@ -67,7 +75,10 @@
   - [VU#158530: PCTCore64.sys Windows kernel driver contains missing access control vulnerability](https://kb.cert.org/vuls/id/158530)
 - Cybersecurity News
   - [Android Zero-Day Flaw Exploited in the Wild: June 2026 Patches Released](https://securityonline.info/android-zero-day-flaw-june-2026/)
+  - [Anthropic Approaches IPO: The Leap to Public Capital](https://securityonline.info/anthropic-confidential-ipo-filing/)
   - [Critical ArcGIS Server Security Patch Fixes Severe Flaws](https://securityonline.info/arcgis-server-security-patch/)
+  - [Critical Fleet Security Vulnerabilities Threaten Multi-Tenant Clusters](https://securityonline.info/fleet-security-vulnerabilities-kubernetes/)
+  - [Critical KMW CCTV Vulnerability Exposes Live Surveillance Feeds](https://securityonline.info/kmw-cctv-vulnerability-password-reset/)
   - [Rancher Security Flaws: Multiple Vulnerabilities Threaten Kubernetes Clusters](https://securityonline.info/rancher-security-flaws-cluster-privilege-escalation/)
 - daringfireball.net
   - [[Sponsor] Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF)
@@ -86,12 +97,15 @@
   - [DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
   - [macOS Needs Its Grid Back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
   - [The Newest Instagram "Exploit" Is the Goofiest I've Seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+  - [U.S. Midterms Have a Cyber Problem, but It's Not at the Ballot Box](https://blog.checkpoint.com/exposure-management/the-2026-u-s-midterms-have-a-cyber-problem-but-its-not-at-the-ballot-box/)
 - Horizon3.ai
   - [CVE-2026-42271 Chained with CVE-2026-48710 | LiteLLM Unauthenticated Remote Code Execution via Starlette Host Header Validation Bypass](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-42271-chained-with-cve-2026-48710/)
 - idiallo.com
   - [The web is changing, and we are not going back](https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed)
 - IEEE Spectrum
   - [IEEE President’s Note: Designing a Safer Digital World for Kids](https://spectrum.ieee.org/ieee-presidents-note-june-2026)
+- Kali Linux Tutorials
+  - [Why Generative AI is the New Standard for Video Restoration in 2026](https://kalilinuxtutorials.com/why-generative-ai-is-the-new-standard-for-video-restoration-in-2026/)
 - krebsonsecurity.com
   - [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
 - ProjectDiscovery.io | Blog
@@ -99,9 +113,12 @@
 - PromptLayer
   - [How to Build a Marketing AI Workflow](https://blog.promptlayer.com/suggestion-pending-arorxqlxpd-2/)
   - [How to Build Agentic AI Into an LLM App](https://blog.promptlayer.com/suggestion-pending-gyorvkyq-4-2/)
+  - [How to Debug Grok Conversation Loading Errors](https://blog.promptlayer.com/suggestion-pending-fn7afeb932-2/)
   - [How to Define Tools for LLM Agents](https://blog.promptlayer.com/suggestion-pending-lzsdyjr8hp-2/)
   - [How to Engineer AI Features](https://blog.promptlayer.com/suggestion-pending-irjur9n2ix-2/)
+  - [How to Manage an LLM Context Window](https://blog.promptlayer.com/suggestion-pending-1lpyure1zk-2/)
   - [How to Prompt AI Models for Production Tasks](https://blog.promptlayer.com/suggestion-pending-yoh_fufhvi-2/)
+  - [How to Write Image Prompts for AI Apps](https://blog.promptlayer.com/suggestion-pending-y9-q0wmjdv-2/)
   - [如何建立生产级提示词工程流程](https://blog.promptlayer.com/suggestion-pending-_3u8el37vg/)
 - simonwillison.net
   - [Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked](https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything)
@@ -253,6 +270,13 @@
   - [CVE-2026-10514](https://vulners.com/nvd/NVD:CVE-2026-10514?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10528](https://vulners.com/cve/CVE-2026-10528?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10528](https://vulners.com/nvd/NVD:CVE-2026-10528?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10529](https://vulners.com/nvd/NVD:CVE-2026-10529?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10548](https://vulners.com/nvd/NVD:CVE-2026-10548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10550](https://vulners.com/nvd/NVD:CVE-2026-10550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10558](https://vulners.com/nvd/NVD:CVE-2026-10558?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10559](https://vulners.com/nvd/NVD:CVE-2026-10559?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10568 itsourcecode Fees Management System manage_payment.php sql injection](https://vulners.com/cve/CVE-2026-10568?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10568 itsourcecode Fees Management System manage_payment.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10568?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-24085](https://vulners.com/cve/CVE-2026-24085?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-24085](https://vulners.com/nvd/NVD:CVE-2026-24085?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-24089](https://vulners.com/cve/CVE-2026-24089?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -431,6 +455,7 @@
   - [CVE-2026-ThreemaWeb-PrototypePollution](https://vulners.com/githubexploit/AA426892-2C2F-595E-8F61-7F32051099EC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cve-arsenal](https://vulners.com/githubexploit/ECAFE318-F67E-5F49-8E24-3AAFF9AFFAE0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-8206](https://vulners.com/githubexploit/404E68B4-550F-51C1-B107-460F8E9F767F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/6D8CA767-F358-5C56-BADD-6DFCD0A054E9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-35JP-WW65-95WH vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-35JP-WW65-95WH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-35JP-WW65-95WH vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-35JP-WW65-95WH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-3PV8-6F4R-FFG2 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-3PV8-6F4R-FFG2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -475,15 +500,18 @@
   - [Anthropic Confidentially Files for What Could Be the Largest IPO Ever](https://www.wired.com/story/anthropic-files-s1-ipo-sec/)
 - 不安全
   - [上手倉頡輸入法](https://buaq.net/go-420286.html)
+  - [比亚迪销量9个月来首次增长 海外需求强劲](https://buaq.net/go-420358.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [巴西亚马逊出现旱季延长和降雨模式改变](https://www.solidot.org/story?sid=84455)
 - 爱范儿
+  - [制糖工厂发布 AI 小电拼 Mirror：琥珀屏、双支架与可拼拆设计，重构桌面能源设备](https://www.ifanr.com/1667822?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜OpenAI官宣进军机器人领域/AI误把文物照片上架，闲鱼致歉/天涯社区重启首日被挤爆](https://www.ifanr.com/1667792?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路](https://www.qbitai.com/2026/06/427472.html)
   - [老黄的Token经济学翻车了！微软亚马逊通通跳车](https://www.qbitai.com/2026/06/427541.html)
 - 黑海洋
+  - [比亚迪销量9个月来首次增长 海外需求强劲](https://blog.upx8.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%94%80%E9%87%8F9%E4%B8%AA%E6%9C%88%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%A2%9E%E9%95%BF-%E6%B5%B7%E5%A4%96%E9%9C%80%E6%B1%82%E5%BC%BA%E5%8A%B2)
   - [阿里发布Qwen3.7-Plus多模态智能体](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%8F%91%E5%B8%83Qwen3-7-Plus%E5%A4%9A%E6%A8%A1%E6%80%81%E6%99%BA%E8%83%BD%E4%BD%93)
   - [马来西亚政府周一起强制社媒年龄验证](https://blog.upx8.com/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%94%BF%E5%BA%9C%E5%91%A8%E4%B8%80%E8%B5%B7%E5%BC%BA%E5%88%B6%E7%A4%BE%E5%AA%92%E5%B9%B4%E9%BE%84%E9%AA%8C%E8%AF%81)
