@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【💰】jym 们，助我一臂之力，隐隐到了突破的边界](https://2libra.com/post/slacking-off/zdoaeZh)
+  - [上班摸鱼，找个话题聊聊：好奇某鱼上的代充模式](https://2libra.com/post/slacking-off/vnFsXHF)
   - [有没有好用的梯子](https://2libra.com/post/tools-sharing/BovGtjG)
 - 36氪
   - [36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑](https://36kr.com/p/3836744788014208?f=rss)
@@ -32,13 +33,18 @@
   - [公募逆势布局价值洼地，“好做不好发”困境缓解](https://36kr.com/newsflashes/3836658204161159?f=rss)
   - [创业板指日内涨幅扩大至2%](https://36kr.com/newsflashes/3836796285416583?f=rss)
   - [创业板指涨超1%](https://36kr.com/newsflashes/3836782607316353?f=rss)
+  - [创业板指盘中涨近3%，创历史新高](https://36kr.com/newsflashes/3836834293838977?f=rss)
   - [加拿大正式提议续签美墨加协定](https://36kr.com/newsflashes/3836638949766272?f=rss)
   - [华泰证券：光模块功耗提升驱动液冷加速渗透](https://36kr.com/newsflashes/3836708359222656?f=rss)
   - [多元投融资体系，协同助力城市更新](https://36kr.com/newsflashes/3836675830674567?f=rss)
   - [多家民营银行中长期定存利率跌至“1字头”](https://36kr.com/newsflashes/3836709087147397?f=rss)
   - [天风证券：煤化工盈利或进入上行周期](https://36kr.com/newsflashes/3836732741858440?f=rss)
   - [央行6月3日7天期逆回购操作量为零](https://36kr.com/newsflashes/3836776944924035?f=rss)
+  - [奇瑞汽车在安徽成立新股权投资公司，注册资本1亿](https://36kr.com/newsflashes/3836854874125703?f=rss)
+  - [奇瑞汽车旗下奇达动力公司增资至25.3亿，增幅约1004%](https://36kr.com/newsflashes/3836863461209481?f=rss)
   - [宇树回应与英伟达合作机器人：下半年新产品亮相](https://36kr.com/newsflashes/3836685980464259?f=rss)
+  - [微信将推出一款AI智能体？腾讯人士回应](https://36kr.com/newsflashes/3836820673574024?f=rss)
+  - [微盟内测国内首个“电商AI增长引擎”](https://36kr.com/newsflashes/3836847649322369?f=rss)
   - [微软发布全新量子芯片，计划2029年造出实用量子计算机](https://36kr.com/newsflashes/3836653822784905?f=rss)
   - [恒指开盘跌0.33%，恒生科技指数跌0.7%](https://36kr.com/newsflashes/3836769708782729?f=rss)
   - [日元汇率走低，再度跌至1美元兑换160日元](https://36kr.com/newsflashes/3836730586018945?f=rss)
@@ -56,8 +62,10 @@
   - [美股三大指数集体收涨，大型科技股多数下跌](https://36kr.com/newsflashes/3836582358971785?f=rss)
   - [美铜伦铜差值走阔，铜价短中期或仍具备上行动能](https://36kr.com/newsflashes/3836678252295304?f=rss)
   - [联发科：下一代芯片独家采用英特尔EMIB-T封装，预计2027年Q4量产](https://36kr.com/newsflashes/3836719832184197?f=rss)
+  - [腾讯AI产业应用大会在即，即将发布系列智能体应用新品](https://36kr.com/newsflashes/3836838876935557?f=rss)
   - [英伟达与微软达成合作：推出统一技术栈，用于部署Agentic AI](https://36kr.com/newsflashes/3836623180101001?f=rss)
   - [资本市场向“新”而行，硬科技企业IPO步入集群突破周期](https://36kr.com/newsflashes/3836687734453636?f=rss)
+  - [长三角铁路端午假期5天预计发送旅客1745万人次](https://36kr.com/newsflashes/3836830635472006?f=rss)
   - [马斯克关联空壳公司在休斯顿郊外购地，550亿美元芯片厂或落地于此](https://36kr.com/newsflashes/3836659543651721?f=rss)
   - [黄仁勋称Marvell将成为下一个万亿美元公司](https://36kr.com/newsflashes/3836652557759876?f=rss)
 - 404 Media
@@ -66,7 +74,11 @@
 - blog.jim-nielsen.com
   - [An Ode to the Exacting Pedantry of Computers](https://blog.jim-nielsen.com/2026/pedantry-of-computing/)
 - Cybersecurity News
+  - [Actively Exploited Vulnerabilities Added to CISA KEV Catalog](https://securityonline.info/cisa-kev-actively-exploited-vulnerabilities/)
+  - [Critical Apache Solr Security Flaw Exposes Clusters to Remote Takeover](https://securityonline.info/apache-solr-default-credentials-cve-2026-44825/)
+  - [Critical GitHub Token Stealing Bug Exploits Web-Based Code Editors](https://securityonline.info/github-token-stealing-bug-vscode/)
   - [Critical Security Flaw Exposes Industrial IoT Converters](https://securityonline.info/usr-w610-vulnerability-hardcoded-credentials/)
+  - [InHand Router Flaws: Command Injection Patches Released](https://securityonline.info/inhand-router-flaws-command-injection/)
   - [Laravel CRLF Injection Vulnerability Threatens Web Applications](https://securityonline.info/laravel-crlf-injection-vulnerability-patch/)
 - daringfireball.net
   - [Apple, the Anti-‘Metaverse’ VR Company](https://daringfireball.net/2025/12/meta_says_fuck_that_metaverse_shit)
@@ -90,6 +102,8 @@
   - [Morningstar values SpaceX at $780B, half its IPO target](https://www.reuters.com/business/media-telecom/morningstar-values-spacex-780-billion-half-its-ipo-target-2026-06-02/)
   - [Open Repair Data Standard – Open Repair Alliance](https://openrepair.org/open-data/open-standard/)
   - [The advertising cartel coming to your web browser](https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/)
+- HackerNews
+  - [惠普 VoIP 电话现严重漏洞，或致企业网络遭入侵](http://0.0.0.0:8080/post/64289)
 - Horizon3.ai
   - [CVE-2026-44825 | Apache Solr AuthTool Hardcoded Credentials Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-44825/)
 - NVIDIA AI Blog
@@ -103,7 +117,9 @@
 - simonwillison.net
   - [Microsoft's new MAI models](https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [cybersec-mcp exploit](https://sploitus.com/exploit?id=74E570DB-A721-5253-AF4D-820CFCB2BA98&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-46243 exploit](https://sploitus.com/exploit?id=4844D9DA-C29D-5877-9267-D476E4320671&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-9256 exploit](https://sploitus.com/exploit?id=ACDFF314-157E-5A20-868D-9DAFBC9A20A4&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Grafana exploit](https://sploitus.com/exploit?id=40F8D208-F71D-51CF-9EFB-BEE62A4FBF14&utm_source=rss&utm_medium=rss)
   - [Linux-privesc-PoC exploit](https://sploitus.com/exploit?id=A91DA5A9-9F01-5898-AD64-4416D436FF4E&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -274,6 +290,9 @@
   - [CVE-2026-10694 SourceCodester Online Food Ordering System index.php include file inclusion](https://vulners.com/cvelist/CVELIST:CVE-2026-10694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10701](https://vulners.com/nvd/NVD:CVE-2026-10701?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10702](https://vulners.com/nvd/NVD:CVE-2026-10702?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10703](https://vulners.com/nvd/NVD:CVE-2026-10703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10704](https://vulners.com/nvd/NVD:CVE-2026-10704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10705](https://vulners.com/nvd/NVD:CVE-2026-10705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10705 dask HLL hyperloglog.py nunique_approx resource consumption](https://vulners.com/cve/CVE-2026-10705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10705 dask HLL hyperloglog.py nunique_approx resource consumption](https://vulners.com/cvelist/CVELIST:CVE-2026-10705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10717](https://vulners.com/nvd/NVD:CVE-2026-10717?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -437,8 +456,10 @@
   - [CVE-2026-9732](https://vulners.com/nvd/NVD:CVE-2026-9732?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9732 EmergencyWP <= 1.4.2 - Cross-Site Request Forgery to Plugin Settings Update](https://vulners.com/cve/CVE-2026-9732?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9732 EmergencyWP <= 1.4.2 - Cross-Site Request Forgery to Plugin Settings Update](https://vulners.com/cvelist/CVELIST:CVE-2026-9732?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [cybersec-mcp](https://vulners.com/githubexploit/74E570DB-A721-5253-AF4D-820CFCB2BA98?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-45332](https://vulners.com/githubexploit/C21DAAE1-B419-5788-B35E-CE7E357E7438?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-46243](https://vulners.com/githubexploit/4844D9DA-C29D-5877-9267-D476E4320671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-9256](https://vulners.com/githubexploit/ACDFF314-157E-5A20-868D-9DAFBC9A20A4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/D99A0BB7-56FB-5C9E-A5E5-63F845A32F54?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Grafana](https://vulners.com/githubexploit/40F8D208-F71D-51CF-9EFB-BEE62A4FBF14?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine](https://vulners.com/thn/THN:EC1CA545F493C8BBF09867DC93311116?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -469,6 +490,7 @@
   - [He Blew the Whistle on DOGE. Then His Brakes Were Cut](https://www.wired.com/story/he-blew-the-whistle-on-doge-then-his-brakes-were-cut/)
 - 不安全
   - [DMIT宣布清退TYO EB系列产品(东京) 用户需在6月15日前备份数据和迁移业务](https://buaq.net/go-420598.html)
+  - [惠普 VoIP 电话现严重漏洞，或致企业网络遭入侵](https://buaq.net/go-420606.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
