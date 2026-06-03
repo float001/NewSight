@@ -6,6 +6,7 @@
   - [大家对 trae 有什么意见？](https://2libra.com/post/ai-programming/n_GfFGJ)
   - [导航程序，超级大气，最合适做导航程序](https://2libra.com/post/promotion/gOI378Y)
   - [有没有好用的梯子](https://2libra.com/post/tools-sharing/BovGtjG)
+  - [本月起，豆包收费，收费的豆包服务，你会买吗？一年小千，这价格你觉得值吗？](https://2libra.com/post/worth-buying/0AebRDC)
 - 36氪
   - [36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑](https://36kr.com/p/3836744788014208?f=rss)
   - [5月一线城市楼市热度持续，释放结构性修复信号](https://36kr.com/newsflashes/3836675007362437?f=rss)
@@ -16,6 +17,7 @@
   - [Anthropic拓展其AI网络安全项目](https://36kr.com/newsflashes/3836649529226631?f=rss)
   - [A股三大指数午间休盘集体上涨，半导体板块走强](https://36kr.com/newsflashes/3836895782352008?f=rss)
   - [A股三大指数开盘涨跌不一，贵金属板块下挫](https://36kr.com/newsflashes/3836772731254146?f=rss)
+  - [DeepSeek计划在首轮融资中募资约70亿美元](https://36kr.com/newsflashes/3836944039228549?f=rss)
   - [Meta在全球范围扩大青少年内容管控](https://36kr.com/newsflashes/3836680397370501?f=rss)
   - [OpenAI计划在金融领域和法律领域开发人工智能工具，与Anthropic展开竞争](https://36kr.com/newsflashes/3836684323386503?f=rss)
   - [PitchBook分析师：SpaceX合理估值1.5万亿美元，AI业务5年内难扭亏](https://36kr.com/newsflashes/3836915776959620?f=rss)
@@ -30,9 +32,11 @@
   - [中信证券：年内铜价高点有望冲击15000美元/吨](https://36kr.com/newsflashes/3836701456201091?f=rss)
   - [中国5月RatingDog服务业PMI 54.4](https://36kr.com/newsflashes/3836791425824132?f=rss)
   - [中小银行按下代销货币基金申购业务“暂停键”](https://36kr.com/newsflashes/3836715203212673?f=rss)
+  - [中韩半导体ETF华泰柏瑞：6月3日下午开市起至当日收市停牌](https://36kr.com/newsflashes/3836983009260932?f=rss)
   - [今年前5个月上海口岸离境退税20.1万票，居全国首位](https://36kr.com/newsflashes/3836903481537666?f=rss)
   - [今年前五月我国新开国际航空货运航线80条](https://36kr.com/newsflashes/3836655094183299?f=rss)
   - [供给偏紧、AI需求托底，锡价中长期上行可期](https://36kr.com/newsflashes/3836711800845698?f=rss)
+  - [全球芯片LOF：6月3日下午开市起停牌至当日收市](https://36kr.com/newsflashes/3836977037194377?f=rss)
   - [公募发行市场升温，科技赛道最“吸金”](https://36kr.com/newsflashes/3836716947944582?f=rss)
   - [公募基金回流港股互联网，避开拥挤赛道聚焦确定性](https://36kr.com/newsflashes/3836676406244736?f=rss)
   - [公募逆势布局价值洼地，“好做不好发”困境缓解](https://36kr.com/newsflashes/3836658204161159?f=rss)
@@ -58,10 +62,13 @@
   - [恒指开盘跌0.33%，恒生科技指数跌0.7%](https://36kr.com/newsflashes/3836769708782729?f=rss)
   - [日元汇率走低，再度跌至1美元兑换160日元](https://36kr.com/newsflashes/3836730586018945?f=rss)
   - [日经225指数首次突破68000点](https://36kr.com/newsflashes/3836732320363655?f=rss)
+  - [普渡机器人CEO称公司正在为香港上市做准备](https://36kr.com/newsflashes/3836959792018567?f=rss)
   - [景兴纸业：公司瓦楞原纸销售价格5月有多轮上调](https://36kr.com/newsflashes/3836761637401986?f=rss)
   - [机器人公司帕西尼据悉正考虑在香港上市](https://36kr.com/newsflashes/3836925919425928?f=rss)
   - [机构持续入局，ETF竞争迈入品牌化阶段](https://36kr.com/newsflashes/3836665118733442?f=rss)
   - [机构：预计今年全球OLED面板厂商发光材料采购额为25.4亿美元](https://36kr.com/newsflashes/3836720791205001?f=rss)
+  - [杭州4宗涉宅用地46.23亿元成交 最高溢价率超61%](https://36kr.com/newsflashes/3836926842467463?f=rss)
+  - [汤臣倍健等在天津成立新合伙企业，出资额6.8亿](https://36kr.com/newsflashes/3836933583189384?f=rss)
   - [沪指重返4100点上方](https://36kr.com/newsflashes/3836875683476869?f=rss)
   - [消息人士：SpaceX计划以每股135美元的价格通过首次公开募股（IPO）筹集750亿美元](https://36kr.com/newsflashes/3836727461704838?f=rss)
   - [深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发](https://36kr.com/p/3836068296209537?f=rss)
@@ -92,7 +99,9 @@
   - [Critical Security Flaw Exposes Industrial IoT Converters](https://securityonline.info/usr-w610-vulnerability-hardcoded-credentials/)
   - [InHand Router Flaws: Command Injection Patches Released](https://securityonline.info/inhand-router-flaws-command-injection/)
   - [Laravel CRLF Injection Vulnerability Threatens Web Applications](https://securityonline.info/laravel-crlf-injection-vulnerability-patch/)
+  - [NVIDIA NVTabular Vulnerability Patched to Block Remote Code Execution](https://securityonline.info/nvidia-nvtabular-vulnerability-patch/)
   - [The Silicon Harvest: Google Seeks Premium Codebases for AI Refinement](https://securityonline.info/google-licenses-app-code-gemini-ai/)
+  - [The Sunset of Windsurf: Corporate Convergence and the Rise of Devin](https://securityonline.info/windsurf-devin-desktop-integration/)
 - daringfireball.net
   - [Apple, the Anti-‘Metaverse’ VR Company](https://daringfireball.net/2025/12/meta_says_fuck_that_metaverse_shit)
   - [Meta Reportedly Has a Slew of New Smart Glasses Planned for This Year](https://gizmodo.com/meta-has-a-ridiculous-amount-of-smart-glasses-planned-for-this-year-2000765741)
@@ -122,6 +131,8 @@
   - [CVE-2026-44825 | Apache Solr AuthTool Hardcoded Credentials Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-44825/)
 - Kali Linux Tutorials
   - [Bash If Else Statement Explained For Beginners](https://kalilinuxtutorials.com/bash-if-else/)
+- Microsoft Security Blog
+  - [Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign](https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/)
 - NVIDIA AI Blog
   - [NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local](https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/)
 - PromptLayer
@@ -451,6 +462,7 @@
   - [CVE-2026-49943](https://vulners.com/nvd/NVD:CVE-2026-49943?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50031](https://vulners.com/cve/CVE-2026-50031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50031](https://vulners.com/cvelist/CVELIST:CVE-2026-50031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50031](https://vulners.com/nvd/NVD:CVE-2026-50031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5073](https://vulners.com/nvd/NVD:CVE-2026-5073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5074](https://vulners.com/nvd/NVD:CVE-2026-5074?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5076](https://vulners.com/nvd/NVD:CVE-2026-5076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -508,15 +520,25 @@
   - [Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation](https://vulners.com/thn/THN:1DB8C609A0019C07637C95FF2CBAEDDE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress Sunshine Photo Cart plugin <= 3.6.7 - Broken Access Control vulnerability](https://vulners.com/patchstack/PATCHSTACK:1E7F78D2CCC362F68A1BD774BCCDD66E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Bose Promo Code: 40% Off for June 2026](https://www.wired.com/story/bose-coupon-code/)
   - [He Blew the Whistle on DOGE. Then His Brakes Were Cut](https://www.wired.com/story/he-blew-the-whistle-on-doge-then-his-brakes-were-cut/)
+  - [Hotels.com Coupon: 25% Off June 2026](https://www.wired.com/story/hotels-com-coupon/)
+  - [Nike Promo Codes and Discounts: 30% for June 2026](https://www.wired.com/story/nike-promo-code/)
+  - [Paramount+ Coupon Codes and Deals for June 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
+  - [Peacock Promo Codes: 40% Off June 2026](https://www.wired.com/story/peacock-promo-code/)
+  - [Valvoline Coupons and Promo Codes for June 2026](https://www.wired.com/story/valvoline-coupons/)
 - 不安全
   - [DMIT宣布清退TYO EB系列产品(东京) 用户需在6月15日前备份数据和迁移业务](https://buaq.net/go-420598.html)
+  - [微软发布Surface RTX SPARK开发工作站 利用英伟达芯片提供本地AI算力](https://buaq.net/go-420609.html)
   - [惠普 VoIP 电话现严重漏洞，或致企业网络遭入侵](https://buaq.net/go-420606.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 极客公园
+  - [驭势科技吴甘沙：见过 1000 种创新死法，才知道自动驾驶怎么活下去](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108069&idx=1&sn=da54532b2c37f430ed2bcb48cdce45fc)
 - 爱范儿
   - [制糖工厂发布 AI 小电拼 Mirror，支持 AI Agent 原生接入](https://www.ifanr.com/1667908?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜微软发布Windows「梦中神机」/腾讯云DeepSeek-V4最高降价97.5%/徕卡相机或被中国资本收购](https://www.ifanr.com/1667902?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [礼让行人挥手被判赔 30%？纯属胡扯！别被营销号逼得不敢当好人](https://www.ifanr.com/1667889?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [亚马逊因Ring面部识别功能面临集体诉讼](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%9B%A0Ring%E9%9D%A2%E9%83%A8%E8%AF%86%E5%88%AB%E5%8A%9F%E8%83%BD%E9%9D%A2%E4%B8%B4%E9%9B%86%E4%BD%93%E8%AF%89%E8%AE%BC)
   - [谷歌推出虚假通话检测以防范深伪冒充诈骗](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E6%8E%A8%E5%87%BA%E8%99%9A%E5%81%87%E9%80%9A%E8%AF%9D%E6%A3%80%E6%B5%8B%E4%BB%A5%E9%98%B2%E8%8C%83%E6%B7%B1%E4%BC%AA%E5%86%92%E5%85%85%E8%AF%88%E9%AA%97)
