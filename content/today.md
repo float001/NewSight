@@ -1,13 +1,18 @@
 # 今日安全资讯（2026-06-03）
 
 - 2Libra
+  - [x 账号被冻结了，有啥办法吗](https://2libra.com/post/questions/LoUDFsL)
   - [【💰】jym 们，助我一臂之力，隐隐到了突破的边界](https://2libra.com/post/slacking-off/zdoaeZh)
+  - [【🔒】竞拍一个 GPT-5.5 系列的 token 密钥，额度$15](https://2libra.com/post/large-models/XqhiPRq)
   - [上班摸鱼，找个话题聊聊：好奇某鱼上的代充模式](https://2libra.com/post/slacking-off/vnFsXHF)
+  - [分享 V 站帖，2 人 2 猫裁员后旅行](https://2libra.com/post/personal-life/FIybnqx)
   - [大家对 trae 有什么意见？](https://2libra.com/post/ai-programming/n_GfFGJ)
   - [导航程序，超级大气，最合适做导航程序](https://2libra.com/post/promotion/gOI378Y)
+  - [懒人饿肚子减肥心得（13 天后）](https://2libra.com/post/personal-life/RNltmEt)
   - [有没有好用的梯子](https://2libra.com/post/tools-sharing/BovGtjG)
   - [本月起，豆包收费，收费的豆包服务，你会买吗？一年小千，这价格你觉得值吗？](https://2libra.com/post/worth-buying/0AebRDC)
 - 36氪
+  - [36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元](https://36kr.com/p/3836973710423429?f=rss)
   - [36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑](https://36kr.com/p/3836744788014208?f=rss)
   - [5月一线城市楼市热度持续，释放结构性修复信号](https://36kr.com/newsflashes/3836675007362437?f=rss)
   - [5月份中国物流业景气指数为50.3%，重回扩张区间](https://36kr.com/newsflashes/3836747964593542?f=rss)
@@ -21,6 +26,7 @@
   - [Meta在全球范围扩大青少年内容管控](https://36kr.com/newsflashes/3836680397370501?f=rss)
   - [OpenAI计划在金融领域和法律领域开发人工智能工具，与Anthropic展开竞争](https://36kr.com/newsflashes/3836684323386503?f=rss)
   - [PitchBook分析师：SpaceX合理估值1.5万亿美元，AI业务5年内难扭亏](https://36kr.com/newsflashes/3836915776959620?f=rss)
+  - [RCEP全面生效三周年，广东口岸连续三年税款减让大幅增长](https://36kr.com/newsflashes/3837024699102341?f=rss)
   - [Silvio Napoli已出任Lucid首席执行官](https://36kr.com/newsflashes/3836677215581576?f=rss)
   - [SpaceX正就IPO承销费进行谈判，希望费率低于0.75%](https://36kr.com/newsflashes/3836662353638792?f=rss)
   - [“千寻智能”获15亿元A+轮融资](https://36kr.com/newsflashes/3836724847703432?f=rss)
@@ -40,6 +46,7 @@
   - [公募发行市场升温，科技赛道最“吸金”](https://36kr.com/newsflashes/3836716947944582?f=rss)
   - [公募基金回流港股互联网，避开拥挤赛道聚焦确定性](https://36kr.com/newsflashes/3836676406244736?f=rss)
   - [公募逆势布局价值洼地，“好做不好发”困境缓解](https://36kr.com/newsflashes/3836658204161159?f=rss)
+  - [创业板指午后涨幅扩大至4%](https://36kr.com/newsflashes/3836990576686471?f=rss)
   - [创业板指日内涨幅扩大至2%](https://36kr.com/newsflashes/3836796285416583?f=rss)
   - [创业板指涨超1%](https://36kr.com/newsflashes/3836782607316353?f=rss)
   - [创业板指盘中涨近3%，创历史新高](https://36kr.com/newsflashes/3836834293838977?f=rss)
@@ -61,6 +68,7 @@
   - [恒指午间休盘跌1.69%，恒生科技指数跌2.35%](https://36kr.com/newsflashes/3836925025695107?f=rss)
   - [恒指开盘跌0.33%，恒生科技指数跌0.7%](https://36kr.com/newsflashes/3836769708782729?f=rss)
   - [日元汇率走低，再度跌至1美元兑换160日元](https://36kr.com/newsflashes/3836730586018945?f=rss)
+  - [日本生命保险将向黑石集团的信贷策略投资约94亿美元](https://36kr.com/newsflashes/3836991306577286?f=rss)
   - [日经225指数首次突破68000点](https://36kr.com/newsflashes/3836732320363655?f=rss)
   - [普渡机器人CEO称公司正在为香港上市做准备](https://36kr.com/newsflashes/3836959792018567?f=rss)
   - [景兴纸业：公司瓦楞原纸销售价格5月有多轮上调](https://36kr.com/newsflashes/3836761637401986?f=rss)
@@ -68,11 +76,14 @@
   - [机构持续入局，ETF竞争迈入品牌化阶段](https://36kr.com/newsflashes/3836665118733442?f=rss)
   - [机构：预计今年全球OLED面板厂商发光材料采购额为25.4亿美元](https://36kr.com/newsflashes/3836720791205001?f=rss)
   - [杭州4宗涉宅用地46.23亿元成交 最高溢价率超61%](https://36kr.com/newsflashes/3836926842467463?f=rss)
+  - [江小白在重庆成立新科技公司](https://36kr.com/newsflashes/3837027005068418?f=rss)
   - [汤臣倍健等在天津成立新合伙企业，出资额6.8亿](https://36kr.com/newsflashes/3836933583189384?f=rss)
   - [沪指重返4100点上方](https://36kr.com/newsflashes/3836875683476869?f=rss)
+  - [沪深两市成交额突破2万亿](https://36kr.com/newsflashes/3836991664354432?f=rss)
   - [消息人士：SpaceX计划以每股135美元的价格通过首次公开募股（IPO）筹集750亿美元](https://36kr.com/newsflashes/3836727461704838?f=rss)
   - [深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发](https://36kr.com/p/3836068296209537?f=rss)
   - [港股回购热度升温，机构建议关注结构性机会](https://36kr.com/newsflashes/3836679412413825?f=rss)
+  - [火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元](https://36kr.com/newsflashes/3837011985577088?f=rss)
   - [现货白银日内跌幅扩大至1%](https://36kr.com/newsflashes/3836660220195976?f=rss)
   - [现货白银转涨，此前跌逾1%](https://36kr.com/newsflashes/3836745456039044?f=rss)
   - [科技仍是长期主线，短期交易拥挤度需充分消化](https://36kr.com/newsflashes/3836656834934144?f=rss)
@@ -82,7 +93,9 @@
   - [联发科：下一代芯片独家采用英特尔EMIB-T封装，预计2027年Q4量产](https://36kr.com/newsflashes/3836719832184197?f=rss)
   - [腾讯AI产业应用大会在即，即将发布系列智能体应用新品](https://36kr.com/newsflashes/3836838876935557?f=rss)
   - [英伟达与微软达成合作：推出统一技术栈，用于部署Agentic AI](https://36kr.com/newsflashes/3836623180101001?f=rss)
+  - [英国竞争与市场管理局：已对谷歌搜索实施新行为要求](https://36kr.com/newsflashes/3837008220910725?f=rss)
   - [蔚来在丽水成立汽车销售服务公司](https://36kr.com/newsflashes/3836912533927303?f=rss)
+  - [谷歌扩大Quick Share与AirDrop互传适配范围，覆盖更多安卓机型](https://36kr.com/newsflashes/3837028715197572?f=rss)
   - [资本市场向“新”而行，硬科技企业IPO步入集群突破周期](https://36kr.com/newsflashes/3836687734453636?f=rss)
   - [长三角铁路端午假期5天预计发送旅客1745万人次](https://36kr.com/newsflashes/3836830635472006?f=rss)
   - [马斯克关联空壳公司在休斯顿郊外购地，550亿美元芯片厂或落地于此](https://36kr.com/newsflashes/3836659543651721?f=rss)
@@ -131,6 +144,7 @@
   - [CVE-2026-44825 | Apache Solr AuthTool Hardcoded Credentials Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-44825/)
 - Kali Linux Tutorials
   - [Bash If Else Statement Explained For Beginners](https://kalilinuxtutorials.com/bash-if-else/)
+  - [How To Compare Strings In Bash Scripts](https://kalilinuxtutorials.com/bash-string-comparison/)
 - Microsoft Security Blog
   - [Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign](https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/)
 - NVIDIA AI Blog
@@ -147,7 +161,9 @@
 - Sploitus.com Exploits RSS Feed
   - [cybersec-mcp exploit](https://sploitus.com/exploit?id=74E570DB-A721-5253-AF4D-820CFCB2BA98&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-46243 exploit](https://sploitus.com/exploit?id=4844D9DA-C29D-5877-9267-D476E4320671&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-49943 exploit](https://sploitus.com/exploit?id=9E1E6A0F-9C8C-50CC-95CB-35623B3DA472&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-9256 exploit](https://sploitus.com/exploit?id=ACDFF314-157E-5A20-868D-9DAFBC9A20A4&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Erlang Erlang\/Otp exploit](https://sploitus.com/exploit?id=5EF2AA92-61A3-599D-BA62-AC333D058FC7&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Grafana exploit](https://sploitus.com/exploit?id=40F8D208-F71D-51CF-9EFB-BEE62A4FBF14&utm_source=rss&utm_medium=rss)
   - [Linux-privesc-PoC exploit](https://sploitus.com/exploit?id=A91DA5A9-9F01-5898-AD64-4416D436FF4E&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -208,6 +224,7 @@
   - [CVE-2026-10705 | dask up to 3.0 HLL hyperloglog.py nunique_approx resource consumption (Issue 12403)](https://vuldb.com/vuln/368018)
   - [CVE-2026-10717 | Seagate openSeaChest up to 25.05.3/26.03.0 SCSI out-of-bounds write](https://vuldb.com/vuln/368041)
   - [CVE-2026-10718 | Seagate openSeaChest up to 26.03.0 out-of-bounds write](https://vuldb.com/vuln/368036)
+  - [CVE-2026-10722 | cilium ebpf up to 0.21.0 LoadCollectionSpec/LoadCollectionSpecFromReader btf/btf.go loadRawSpec integer overflow (Issue 2019)](https://vuldb.com/vuln/368091)
   - [CVE-2026-1871 | TP-Link Tapo C200 v5 stack-based overflow](https://vuldb.com/vuln/368002)
   - [CVE-2026-24221 | NVIDIA NVTabular deserialization](https://vuldb.com/vuln/368000)
   - [CVE-2026-24237 | NVIDIA NVTabular deserialization](https://vuldb.com/vuln/368001)
@@ -260,7 +277,12 @@
   - [CVE-2026-49753 | elixir-mint up to 1.8.x Length Parser lib/mint/http1/parse.ex content_length_header request smuggling (GHSA-mjqx-c6f6-7rc2)](https://vuldb.com/vuln/367976)
   - [CVE-2026-49754 | elixir-mint up to 1.8.x conn.headers_being_processed peer-advertised allocation of resources (GHSA-2p26-p43x-fhp8)](https://vuldb.com/vuln/367977)
   - [CVE-2026-49943 | CZ.NIC BIRD up to 2.19.0 Expressions nest/a-path.c as_path_match stack-based overflow](https://vuldb.com/vuln/368011)
+  - [CVE-2026-50031 | FreeIPMI up to 1.6.17 Intelligent Platform Management Interface stack-based overflow](https://vuldb.com/vuln/368086)
+  - [CVE-2026-7421 | Passeum Ticketing Plugin up to 1.0 on WordPress Setting get_shop_url shop_name cross site scripting](https://vuldb.com/vuln/368089)
+  - [CVE-2026-9334 | RURBAN Cpanel::JSON::XS up to 4.40 on Perl decode_hv type confusion](https://vuldb.com/vuln/368090)
+  - [CVE-2026-9516 | RURBAN Cpanel::JSON::XS up to 4.40 on Perl decode_json release of reference](https://vuldb.com/vuln/368088)
   - [CVE-2026-9590 | Devolutions Server up to 2026.1.19 Permission Validation access control (DEVO-2026-0014)](https://vuldb.com/vuln/367994)
+  - [CVE-2026-9732 | planetshaker EmergencyWP Plugin up to 1.4.2 on WordPress Setting add_cap/remove_cap form_settings_ui cross-site request forgery](https://vuldb.com/vuln/368087)
 - Vulners.com RSS Feed
   - [[SECURITY] Fedora 43 Update: hplip-3.26.4-2.fc43](https://vulners.com/fedora/FEDORA:1F3AD7E82A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: python-wsgidav-4.3.4-1.fc43](https://vulners.com/fedora/FEDORA:B305A6E74D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -492,7 +514,9 @@
   - [cybersec-mcp](https://vulners.com/githubexploit/74E570DB-A721-5253-AF4D-820CFCB2BA98?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-45332](https://vulners.com/githubexploit/C21DAAE1-B419-5788-B35E-CE7E357E7438?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-46243](https://vulners.com/githubexploit/4844D9DA-C29D-5877-9267-D476E4320671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-49943](https://vulners.com/githubexploit/9E1E6A0F-9C8C-50CC-95CB-35623B3DA472?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-9256](https://vulners.com/githubexploit/ACDFF314-157E-5A20-868D-9DAFBC9A20A4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Missing Authentication for Critical Function in Erlang Erlang\/Otp](https://vulners.com/githubexploit/5EF2AA92-61A3-599D-BA62-AC333D058FC7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector](https://vulners.com/githubexploit/D99A0BB7-56FB-5C9E-A5E5-63F845A32F54?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Grafana](https://vulners.com/githubexploit/40F8D208-F71D-51CF-9EFB-BEE62A4FBF14?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine](https://vulners.com/thn/THN:EC1CA545F493C8BBF09867DC93311116?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -515,6 +539,7 @@
   - [GHSA-X8MH-94WC-33GV vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-X8MH-94WC-33GV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-X8MH-94WC-33GV vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-X8MH-94WC-33GV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited](https://vulners.com/thn/THN:5042E49AA00F0CB8BDF02D51DF7758F5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [guided-pentest-infra](https://vulners.com/githubexploit/5F27EFAD-D6FE-5C0C-9A00-6DA75AE5038B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: Red Hat Advanced Cluster Management for Kubernetes v2.13.8 security update](https://vulners.com/redhat/RHSA-2026:22645?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Linux-privesc-PoC](https://vulners.com/githubexploit/A91DA5A9-9F01-5898-AD64-4416D436FF4E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation](https://vulners.com/thn/THN:1DB8C609A0019C07637C95FF2CBAEDDE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -533,6 +558,8 @@
   - [惠普 VoIP 电话现严重漏洞，或致企业网络遭入侵](https://buaq.net/go-420606.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [欧洲议会默认搜索引擎从 Google 切换到 Qwant](https://www.solidot.org/story?sid=84468)
 - 极客公园
   - [驭势科技吴甘沙：见过 1000 种创新死法，才知道自动驾驶怎么活下去](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108069&idx=1&sn=da54532b2c37f430ed2bcb48cdce45fc)
 - 爱范儿
