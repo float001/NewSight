@@ -3,12 +3,16 @@
 - 404 Media
   - [Demand Is Booming for New No Tech, Repairable Tractor](https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/)
   - [Podcast: Hackers Asked Meta AI To Let Them In. It Worked](https://www.404media.co/podcast-hackers-asked-meta-ai-to-let-them-in-it-worked/)
+- Ars Technica
+  - [Flesh-eating screwworm infection detected in South Texas, USDA says](https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/)
 - CERT Recently Published Vulnerability Notes
   - [VU#595768: Securly Chrome Extension contains multiple weak encryption and access control vulnerabilities](https://kb.cert.org/vuls/id/595768)
 - daringfireball.net
   - [CBS News Fires Scott Pelley of ‘60 Minutes’](https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html)
   - [The Underworld Market to Remove the Recording Indicator Light on Meta Glasses](https://www.youtube.com/watch?v=EaJSPeJmqis)
+  - [The ‘60 Minutes’ Purge](https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/talent/)
 - darkreading
+  - [Attackers Use AI to Automate EDR Evasion Testing](https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing)
   - [Cyber Insurance Rates Are Dropping, but Exclusions Widen](https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen)
 - Hacker News Frontpage
   - [A Man Who Reads Books for a Living (One Every Two Days)](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
@@ -17,8 +21,15 @@
   - [Launch HN: Hyper (YC P26) – Company brain to power agentic development](https://news.ycombinator.com/item?id=48387095)
   - [Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)](https://github.com/zaydmulani09/mnemo)
   - [Show HN: Nutrepedia – nutrition info in 29 locales built with Clojure and Htmx](https://nutrepedia.com/en-us/)
+- HackerNoon
+  - [Your Team Isn't the Problem, But Your WIP Is](https://hackernoon.com/your-team-isnt-the-problem-but-your-wip-is?source=rss)
+- idiallo.com
+  - [Now that your newsletter is AI-generated, I've Unsubscribed](https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed)
 - IEEE Spectrum
   - [7 Ways New Engineers Can Flourish in the Age of AI](https://spectrum.ieee.org/7-ways-engineers-flourish-ai)
+- PromptLayer
+  - [How to Define x_i for LLM Evals](https://blog.promptlayer.com/suggestion-pending-f6otbl1lmn-2/)
+  - [How to Version Prompts for Production](https://blog.promptlayer.com/suggestion-pending-m7_sn69nkm-2/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-2256 exploit](https://sploitus.com/exploit?id=243CDB42-BE28-5810-BB45-078630950EB9&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42945 exploit](https://sploitus.com/exploit?id=8AD1A192-E34A-5E8C-A3B9-4AAECCED2A20&utm_source=rss&utm_medium=rss)
@@ -41,6 +52,7 @@
   - [Trump's new executive order wants AI companies to voluntarily submit models for government safety reviews](https://the-decoder.com/trumps-new-executive-order-wants-ai-companies-to-voluntarily-submit-models-for-government-safety-reviews/)
 - The Verge
   - [Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy](https://www.theverge.com/tech/942547/amazon-search-bar-ai-images)
+  - [WiiM expands its whole-home ecosystem with a new soundbar](https://www.theverge.com/tech/942748/wiim-releases-first-soundbar)
 - VulDB Recent Entries
   - [CVE-2019-25720 | Dräger SC 6002XL/SC6802XL/SC 7000/SC8000/SC90000 XL Network Packet improper validation of syntactic correctness of input](https://vuldb.com/vuln/368191)
   - [CVE-2022-31114 | Laravel-Backpack CRUD up to 4.0.62/4.1.68/5.0.12 getMessage cross site scripting](https://vuldb.com/vuln/368147)
@@ -153,6 +165,12 @@
   - [CVE-2026-42839](https://vulners.com/nvd/NVD:CVE-2026-42839?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42840](https://vulners.com/nvd/NVD:CVE-2026-42840?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43924](https://vulners.com/nvd/NVD:CVE-2026-43924?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-43980](https://vulners.com/cve/CVE-2026-43980?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44016](https://vulners.com/cve/CVE-2026-44016?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44018](https://vulners.com/cve/CVE-2026-44018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44020](https://vulners.com/cve/CVE-2026-44020?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44022](https://vulners.com/cve/CVE-2026-44022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44023](https://vulners.com/cve/CVE-2026-44023?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44281](https://vulners.com/nvd/NVD:CVE-2026-44281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44609](https://vulners.com/nvd/NVD:CVE-2026-44609?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44682](https://vulners.com/nvd/NVD:CVE-2026-44682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -188,6 +206,7 @@
   - [CVE-2026-46271](https://vulners.com/nvd/NVD:CVE-2026-46271?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46272](https://vulners.com/nvd/NVD:CVE-2026-46272?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46273](https://vulners.com/nvd/NVD:CVE-2026-46273?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47214](https://vulners.com/cve/CVE-2026-47214?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50033](https://vulners.com/nvd/NVD:CVE-2026-50033?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6657](https://vulners.com/nvd/NVD:CVE-2026-6657?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7888](https://vulners.com/nvd/NVD:CVE-2026-7888?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -198,6 +217,13 @@
   - [CVE-2026-8881](https://vulners.com/nvd/NVD:CVE-2026-8881?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8888](https://vulners.com/nvd/NVD:CVE-2026-8888?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8889](https://vulners.com/nvd/NVD:CVE-2026-8889?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Docling Core: Insufficient validation of image reference URIs](https://vulners.com/github/GHSA-J5XP-7M2F-49JV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Docling Core: Unsafe remote filename resolution](https://vulners.com/github/GHSA-JMMV-H3MP-59V8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Docling: Potential Path Traversal via LaTeX \includegraphics and \input Commands](https://vulners.com/github/GHSA-2J5P-7P5M-CVQR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Docling: Unsafe Archive Extraction and XML Parsing in METS-GBS Backend](https://vulners.com/github/GHSA-R3XG-RG9J-67FV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Docling: Unsafe Playwright-based HTML Rendering](https://vulners.com/github/GHSA-PJ2V-GGQH-CMQ2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Docling: Unsafe URI and Path Handling in HTML Backend](https://vulners.com/github/GHSA-Q29V-XC37-WH5M?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Docling: Unsafe XML Entity Expansion in USPTO Patent Backend](https://vulners.com/github/GHSA-M88R-RG27-5XFG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-2256](https://vulners.com/githubexploit/243CDB42-BE28-5810-BB45-078630950EB9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-26897](https://vulners.com/githubexploit/420BEB65-BD63-521E-90B1-5065E05B96C0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/8AD1A192-E34A-5E8C-A3B9-4AAECCED2A20?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -211,6 +237,7 @@
   - [Important: Red Hat Security Advisory: Red Hat Web Terminal Operator 1.14.0 release.](https://vulners.com/redhat/RHSA-2026:22959?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: Red Hat Web Terminal Operator 1.15.0 release.](https://vulners.com/redhat/RHSA-2026:22961?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: satellite/foreman-mcp-server-rhel9 container image available as a Technology Preview](https://vulners.com/redhat/RHSA-2026:22993?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [malla: Stored XSS via Meshtastic node names in multiple frontend pages](https://vulners.com/github/GHSA-CH57-39Q2-4CRM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WhatsApp, Slack Notifications Could Hijack Google Gemini on Android](https://vulners.com/thn/THN:39C53E7940941BA527D7D41B5E56D8C8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers](https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/)
