@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-06-04）
 
+- 36氪
+  - [美股三大股指集体收跌，热门中概股普跌](https://36kr.com/newsflashes/3838036836518407?f=rss)
 - 404 Media
   - [Demand Is Booming for New No Tech, Repairable Tractor](https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/)
   - [Podcast: Hackers Asked Meta AI To Let Them In. It Worked](https://www.404media.co/podcast-hackers-asked-meta-ai-to-let-them-in-it-worked/)
@@ -27,6 +29,8 @@
   - [Now that your newsletter is AI-generated, I've Unsubscribed](https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed)
 - IEEE Spectrum
   - [7 Ways New Engineers Can Flourish in the Age of AI](https://spectrum.ieee.org/7-ways-engineers-flourish-ai)
+- Linux Foundation Blogs
+  - [Taking Stock of the State of European Cyber Resilience Act (CRA) Compliance: An Urgent Wake-up Call for the Open Source Ecosystem](https://www.linuxfoundation.org/blog/taking-stock-of-the-state-of-european-cyber-resilience-act-cra-compliance-an-urgent-wake-up-call-for-the-open-source-ecosystem)
 - PromptLayer
   - [How to Define x_i for LLM Evals](https://blog.promptlayer.com/suggestion-pending-f6otbl1lmn-2/)
   - [How to Version Prompts for Production](https://blog.promptlayer.com/suggestion-pending-m7_sn69nkm-2/)
@@ -41,6 +45,7 @@
   - [Defense tech is flooded with money, but who’s built to last?](https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/)
   - [Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon](https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/)
   - [Instagram is alerting users who were targeted by hackers during AI chatbot attacks](https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/)
+  - [Lovable signs multi-year deal with Google Cloud to up usage 5x, source says](https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/)
   - [Meta mercifully spun out VR fitness game Supernatural instead of just killing it](https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/)
   - [Substack’s new ‘Reply Rules’ feature lets creators control how people respond](https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/)
   - [Uber to put 500 data-collection vehicles on the road this year](https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/)
@@ -130,6 +135,9 @@
 - Vulners.com RSS Feed
   - [CVE-2022-31114](https://vulners.com/nvd/NVD:CVE-2022-31114?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10766](https://vulners.com/nvd/NVD:CVE-2026-10766?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10771](https://vulners.com/nvd/NVD:CVE-2026-10771?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-22054](https://vulners.com/nvd/NVD:CVE-2026-22054?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-22055](https://vulners.com/nvd/NVD:CVE-2026-22055?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-26378](https://vulners.com/nvd/NVD:CVE-2026-26378?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-26379](https://vulners.com/nvd/NVD:CVE-2026-26379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-26824](https://vulners.com/nvd/NVD:CVE-2026-26824?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -206,6 +214,7 @@
   - [CVE-2026-46271](https://vulners.com/nvd/NVD:CVE-2026-46271?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46272](https://vulners.com/nvd/NVD:CVE-2026-46272?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46273](https://vulners.com/nvd/NVD:CVE-2026-46273?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46447](https://vulners.com/nvd/NVD:CVE-2026-46447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47214](https://vulners.com/cve/CVE-2026-47214?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50033](https://vulners.com/nvd/NVD:CVE-2026-50033?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6657](https://vulners.com/nvd/NVD:CVE-2026-6657?utm_source=rss&utm_medium=rss&utm_campaign=rss)
