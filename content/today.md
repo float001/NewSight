@@ -2,11 +2,24 @@
 
 - 404 Media
   - [Podcast: Hackers Asked Meta AI To Let Them In. It Worked](https://www.404media.co/podcast-hackers-asked-meta-ai-to-let-them-in-it-worked/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#595768: Securly Chrome Extension contains multiple weak encryption and access control vulnerabilities](https://kb.cert.org/vuls/id/595768)
 - Hacker News Frontpage
   - [ESP32-S31](https://www.espressif.com/en/products/socs/esp32-s31)
+  - [Gooey: A GPU-accelerated UI framework for Zig](https://github.com/duanebester/gooey)
+  - [Launch HN: Hyper (YC P26) – Company brain to power agentic development](https://news.ycombinator.com/item?id=48387095)
   - [Show HN: Nutrepedia – nutrition info in 29 locales built with Clojure and Htmx](https://nutrepedia.com/en-us/)
+- IEEE Spectrum
+  - [7 Ways New Engineers Can Flourish in the Age of AI](https://spectrum.ieee.org/7-ways-engineers-flourish-ai)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Eval Injection in Geoserver exploit](https://sploitus.com/exploit?id=93EFFA1D-01DF-57C9-9826-139DBF9FD985&utm_source=rss&utm_medium=rss)
+  - [Exploit for Prototype Pollution in Cure53 Dompurify exploit](https://sploitus.com/exploit?id=7FE5A510-990A-5CCB-9427-6AA5D7B10937&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Carvana ties up with Bezos-backed Slate Auto as it plans new car sales](https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/)
   - [Instagram is alerting users who were targeted by hackers during AI chatbot attacks](https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/)
+  - [Ultrahuman says hackers accessed customers’ wellness data via internal tool](https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/)
+- The Decoder
+  - [Trump's new executive order wants AI companies to voluntarily submit models for government safety reviews](https://the-decoder.com/trumps-new-executive-order-wants-ai-companies-to-voluntarily-submit-models-for-government-safety-reviews/)
 - The Verge
   - [Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy](https://www.theverge.com/tech/942547/amazon-search-bar-ai-images)
 - VulDB Recent Entries
@@ -36,6 +49,8 @@
   - [CVE-2026-42321](https://vulners.com/nvd/NVD:CVE-2026-42321?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44281](https://vulners.com/nvd/NVD:CVE-2026-44281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6657](https://vulners.com/nvd/NVD:CVE-2026-6657?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Eval Injection in Geoserver](https://vulners.com/githubexploit/93EFFA1D-01DF-57C9-9826-139DBF9FD985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Prototype Pollution in Cure53 Dompurify](https://vulners.com/githubexploit/7FE5A510-990A-5CCB-9427-6AA5D7B10937?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT](https://vulners.com/thn/THN:EBEF4474475574D09B83167D16690C6D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
