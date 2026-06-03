@@ -1,4 +1,41 @@
 # 今日安全资讯（2026-06-04）
 
+- 404 Media
+  - [Podcast: Hackers Asked Meta AI To Let Them In. It Worked](https://www.404media.co/podcast-hackers-asked-meta-ai-to-let-them-in-it-worked/)
+- Hacker News Frontpage
+  - [ESP32-S31](https://www.espressif.com/en/products/socs/esp32-s31)
+  - [Show HN: Nutrepedia – nutrition info in 29 locales built with Clojure and Htmx](https://nutrepedia.com/en-us/)
+- TechCrunch
+  - [Instagram is alerting users who were targeted by hackers during AI chatbot attacks](https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/)
+- The Verge
+  - [Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy](https://www.theverge.com/tech/942547/amazon-search-bar-ai-images)
+- VulDB Recent Entries
+  - [CVE-2022-31114 | Laravel-Backpack CRUD up to 4.0.62/4.1.68/5.0.12 getMessage cross site scripting](https://vuldb.com/vuln/368147)
+  - [CVE-2026-10783 | gradio-app gradio 6.14.0 Audio Cache Key save_audio_to_cache weak hash (Issue 13395 / ID 13394)](https://vuldb.com/vuln/368140)
+  - [CVE-2026-3276 | Python CPython Unicode unicodedata.normalize algorithmic complexity](https://vuldb.com/vuln/368143)
+  - [CVE-2026-36574 | CactusViewer 2.3.0 uncontrolled search path](https://vuldb.com/vuln/368148)
+  - [CVE-2026-36576 | openlabs docker-wkhtmltopdf-aas POST Request app.py os command injection](https://vuldb.com/vuln/368141)
+  - [CVE-2026-36748 | RockRMS up to 16.13/17.7.0 User Profile cross site scripting](https://vuldb.com/vuln/368150)
+  - [CVE-2026-37462 | gobgp 4.3.0 BGP /bgp/bgp.go BGPUpdate.DecodeFromBytes integer underflow](https://vuldb.com/vuln/368142)
+  - [CVE-2026-42317 | glpi-project glpi up to 10.0.24/11.0.6 authorization](https://vuldb.com/vuln/368144)
+  - [CVE-2026-42318 | glpi-project glpi up to 10.0.24/11.0.6 Software Package authorization](https://vuldb.com/vuln/368145)
+  - [CVE-2026-42320 | glpi-project glpi up to 10.0.24/11.0.6 GLPI_DOC_DIR authorization](https://vuldb.com/vuln/368146)
+  - [CVE-2026-42321 | glpi-project glpi up to 10.0.24 Asset Locked Tab cross site scripting](https://vuldb.com/vuln/368149)
+  - [CVE-2026-44281 | glpi-project glpi up to 10.0.24/11.0.6 authorization](https://vuldb.com/vuln/368152)
+  - [CVE-2026-6657 | jupyter jupyter-server up to up to 2.17.0 re.match origin validation](https://vuldb.com/vuln/368151)
+- Vulners.com RSS Feed
+  - [CVE-2022-31114](https://vulners.com/nvd/NVD:CVE-2022-31114?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-3276](https://vulners.com/nvd/NVD:CVE-2026-3276?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36574](https://vulners.com/nvd/NVD:CVE-2026-36574?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36576](https://vulners.com/nvd/NVD:CVE-2026-36576?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36748](https://vulners.com/nvd/NVD:CVE-2026-36748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-37462](https://vulners.com/nvd/NVD:CVE-2026-37462?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42317](https://vulners.com/nvd/NVD:CVE-2026-42317?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42318](https://vulners.com/nvd/NVD:CVE-2026-42318?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42320](https://vulners.com/nvd/NVD:CVE-2026-42320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42321](https://vulners.com/nvd/NVD:CVE-2026-42321?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44281](https://vulners.com/nvd/NVD:CVE-2026-44281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6657](https://vulners.com/nvd/NVD:CVE-2026-6657?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT](https://vulners.com/thn/THN:EBEF4474475574D09B83167D16690C6D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
