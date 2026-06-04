@@ -2,6 +2,9 @@
 
 - 2Libra
   - [青春再也不回来，过去都是一场梦的朦胧和惆怅，像是出现在虚幻中的画面。](https://2libra.com/post/mental-health/bbJQxbb)
+- 404 Media
+  - [Immigrant Rights Lawyers File Lawsuit Over Palantir’s ELITE](https://www.404media.co/immigrant-rights-lawyers-file-lawsuit-over-palantirs-elite/)
+  - [The LEGO YouTube Scandal Has Broken Containment, Can No Longer Be Ignored](https://www.404media.co/the-lego-bricks-and-minifigs-reckless-benyoutube-scandal-has-broken-containment-can-no-longer-be-ignored/)
 - Cybersecurity News
   - [Apache Fory Vulnerability: High Severity Flaw Bypasses Core Java Serialization Checks](https://securityonline.info/apache-fory-vulnerability-patch/)
   - [Refining the Interface: Microsoft Addresses the Cluttered Windows 11 Context Menu](https://securityonline.info/windows-11-context-menu/)
@@ -9,6 +12,8 @@
   - [The Renaissance of Native Architecture: Microsoft Rebrands WinUI to Salvage Windows 11 Performance](https://securityonline.info/microsoft-winui-rebrand/)
 - daringfireball.net
   - [Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous](https://gemini.google/mac/)
+  - [Lingon and Lingon Pro 10](https://www.peterborgapps.com/lingon/)
+  - [Remember When Chrome Went Bad on MacOS?](https://chromeisbad.com/)
 - Fidelis Security
   - [How CWPP Solutions Work with Your Current Security Stack](https://fidelissecurity.com/threatgeek/cloud-security/cwpp-integration-with-your-security-stack/)
 - Hacker News Frontpage
@@ -19,6 +24,7 @@
   - [Integrating smooth periodic functions](https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/)
 - PromptLayer
   - [How to Evaluate Summary Relevance](https://blog.promptlayer.com/suggestion-pending-nkrfeot4w2-2/)
+  - [How to Shortlist the Best LLM Visibility Tools](https://blog.promptlayer.com/suggestion-pending-f7xkmwpgrz/)
 - simonwillison.net
   - [Quoting Emanuel Maiberg, 404 Media](https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -28,33 +34,47 @@
 - TechCrunch
   - [A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it](https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/)
   - [Cash App launches a wand for tap-and-pay](https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/)
+  - [Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft](https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/)
   - [Meta rolls out a new AI creator assistant on Facebook](https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/)
   - [Meta’s Oversight Board says account bans lack due process, transparency](https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/)
   - [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
 - The Decoder
   - [Bain study finds companies miss AI savings targets because humans keep getting in the way](https://the-decoder.com/bain-study-finds-companies-miss-ai-savings-targets-because-humans-keep-getting-in-the-way/)
   - [ChatGPT now saves narrative dossiers about you sorted by work, hobbies, and travel preferences](https://the-decoder.com/chatgpt-now-saves-narrative-dossiers-about-you-sorted-by-work-hobbies-and-travel-preferences/)
+  - [Cloudflare CEO says the web's future is "pay to crawl" as bots overtake human traffic](https://the-decoder.com/cloudflare-ceo-says-the-webs-future-is-pay-to-crawl-as-bots-overtake-human-traffic/)
 - The Verge
   - [Belkin’s new Joy-Con grips also boost the Switch 2’s battery life](https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller)
   - [Cash App made a magic wand for contactless payments](https://www.theverge.com/tech/942897/cash-app-tags-magic-wand-contactless-payments-price-launch)
+  - [Google is letting social media stars customize their search result page](https://www.theverge.com/tech/943233/google-search-profiles-custom-page)
+  - [Kevin O’Leary agrees to downsize massive Utah data center](https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center)
   - [Windows is back on the Microsoft menu](https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad)
+- VulDB Recent Entries
+  - [CVE-2026-11312 | bytedance InfiniStore up to 0.2.33 KV Map /src/infinistore.h purge_kv_map algorithmic complexity (Issue 200)](https://vuldb.com/vuln/368398)
 - Vulners.com RSS Feed
   - [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://vulners.com/thn/THN:3045B0C60DCD251B7744C460F8FD4A2C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-67446](https://vulners.com/nvd/NVD:CVE-2025-67446?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-67447](https://vulners.com/nvd/NVD:CVE-2025-67447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-67448](https://vulners.com/nvd/NVD:CVE-2025-67448?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-69755](https://vulners.com/nvd/NVD:CVE-2025-69755?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10796](https://vulners.com/nvd/NVD:CVE-2026-10796?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10813](https://vulners.com/nvd/NVD:CVE-2026-10813?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10814](https://vulners.com/nvd/NVD:CVE-2026-10814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10815](https://vulners.com/nvd/NVD:CVE-2026-10815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10868](https://vulners.com/nvd/NVD:CVE-2026-10868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10880](https://vulners.com/nvd/NVD:CVE-2026-10880?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10880 Unauthenticated SQL Injection in Osnexus Quantastor](https://vulners.com/cve/CVE-2026-10880?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10880 Unauthenticated SQL Injection in Osnexus Quantastor](https://vulners.com/cvelist/CVELIST:CVE-2026-10880?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25550](https://vulners.com/nvd/NVD:CVE-2026-25550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25550 Seagull Software BarTender Unauthenticated RCE via .NET Remoting Service](https://vulners.com/cve/CVE-2026-25550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25550 Seagull Software BarTender Unauthenticated RCE via .NET Remoting Service](https://vulners.com/cvelist/CVELIST:CVE-2026-25550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25551](https://vulners.com/nvd/NVD:CVE-2026-25551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25551 Seagull Software BarTender Deserialization Privilege Escalation via .NET Remoting Service](https://vulners.com/cve/CVE-2026-25551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25551 Seagull Software BarTender Deserialization Privilege Escalation via .NET Remoting Service](https://vulners.com/cvelist/CVELIST:CVE-2026-25551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36182](https://vulners.com/nvd/NVD:CVE-2026-36182?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38570](https://vulners.com/nvd/NVD:CVE-2026-38570?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40930](https://vulners.com/nvd/NVD:CVE-2026-40930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41178](https://vulners.com/nvd/NVD:CVE-2026-41178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41207](https://vulners.com/nvd/NVD:CVE-2026-41207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41207 netty-incubator-codec-ohttp's HPKEContext operations may produce empty byte[] on failures](https://vulners.com/cve/CVE-2026-41207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41207 netty-incubator-codec-ohttp's HPKEContext operations may produce empty byte[] on failures](https://vulners.com/cvelist/CVELIST:CVE-2026-41207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43984](https://vulners.com/nvd/NVD:CVE-2026-43984?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -64,6 +84,7 @@
   - [CVE-2026-45287](https://vulners.com/nvd/NVD:CVE-2026-45287?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46739](https://vulners.com/nvd/NVD:CVE-2026-46739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46741](https://vulners.com/nvd/NVD:CVE-2026-46741?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48040](https://vulners.com/nvd/NVD:CVE-2026-48040?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48040 netty-incubator-codec-ohttp's Incorrect Native Pointer Derivation in Pooled Direct ByteBuf Fallback Leads to Out-of-Bounds Native Memory Access](https://vulners.com/cve/CVE-2026-48040?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48040 netty-incubator-codec-ohttp's Incorrect Native Pointer Derivation in Pooled Direct ByteBuf Fallback Leads to Out-of-Bounds Native Memory Access](https://vulners.com/cvelist/CVELIST:CVE-2026-48040?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49940](https://vulners.com/nvd/NVD:CVE-2026-49940?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -81,13 +102,19 @@
   - [CVE-2026-50266](https://vulners.com/cve/CVE-2026-50266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50266](https://vulners.com/cvelist/CVELIST:CVE-2026-50266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50266](https://vulners.com/nvd/NVD:CVE-2026-50266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50292](https://vulners.com/nvd/NVD:CVE-2026-50292?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5228](https://vulners.com/nvd/NVD:CVE-2026-5228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7774](https://vulners.com/nvd/NVD:CVE-2026-7774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-8732](https://vulners.com/githubexploit/309255BC-02CF-52BD-9DA4-CEAB202BEECD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/18D066FB-7925-51D0-8F62-50C464096DBA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/5FF26F40-4D2D-54FA-A5E0-88A648FA0864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [flatpak: Flatpak: Arbitrary code execution via crafted symlinks in sandbox-expose options](https://vulners.com/redhat/RHSA-2026:23420-CVE-2026-34078?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [flatpak: Flatpak: Arbitrary file deletion on host via improper cache file path validation](https://vulners.com/redhat/RHSA-2026:23420-CVE-2026-34079?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: flatpak security update](https://vulners.com/redhat/RHSA-2026:23420?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones](https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/)
+  - [Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working](https://www.wired.com/story/phoebe-bridgers-ditched-the-internet-to-hype-up-her-new-music-its-working/)
+  - [The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked](https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/)
   - [The TikTok Ban Was Never About TikTok](https://www.wired.com/story/made-in-china-tiktok-never-dies/)
   - [Wave Cash App’s Magic Wand to Pay for Stuff](https://www.wired.com/story/wave-cash-apps-magic-wand-to-pay-for-stuff/)
 - 代码审计星球
