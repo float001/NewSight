@@ -2,9 +2,11 @@
 
 - 2Libra
   - [Codex 工程化指南：16 条可复用、可验证的工作流](https://2libra.com/post/ai-programming/xz57Lzn)
+  - [codex 重置了](https://2libra.com/post/ai-programming/dyLU16j)
   - [Gemini 出现该提示与什么有关？](https://2libra.com/post/large-models/P504utE)
   - [~~潘多拉魔盒？~~金币回收计划！](https://2libra.com/post/mental-health/BgaMx-p)
   - [【投票·💰】是否需要隔开社区讨论与常规内容](https://2libra.com/post/forum-function/_K7Xsgk)
+  - [【竞猜】本次 Codex 周额度会提前重置吗](https://2libra.com/post/forum-function/EmhfxGt)
   - [【竞猜】本次 Codex 周额度会提前重置吗](https://2libra.com/post/forum-function/ucmwk1b)
   - [【💰】一个好消息一个坏消息](https://2libra.com/post/forum-function/mofkSLJ)
   - [【💰】潘多拉的盒子，放 500 金币，助我完成任务，一起领金币](https://2libra.com/post/slacking-off/m1kfHE2)
@@ -29,6 +31,7 @@
   - [AI与新能源需求共振，高端铜箔产能供不应求](https://36kr.com/newsflashes/3838145260505602?f=rss)
   - [AI基建催生“算力金属”热潮，供给端“硬约束”成为核心逻辑](https://36kr.com/newsflashes/3838146032077056?f=rss)
   - [Anthropic选定摩根士丹利和高盛牵头IPO，最快10月上市](https://36kr.com/newsflashes/3838086999443973?f=rss)
+  - [A股三大指数午间收盘集体下跌，半导体产业链走强](https://36kr.com/newsflashes/3838312658209286?f=rss)
   - [A股三大指数集体低开，光模块概念领跌](https://36kr.com/newsflashes/3838188370856201?f=rss)
   - [A股公司再掀回购热潮，年内披露金额已超千亿元](https://36kr.com/newsflashes/3838039725410817?f=rss)
   - [Meta考虑为“Hatch”AI代理每月收取最高200美元费用](https://36kr.com/newsflashes/3838079747606790?f=rss)
@@ -44,9 +47,12 @@
   - [中信建投：模拟IC大厂集中开启新一轮涨价](https://36kr.com/newsflashes/3838084134930944?f=rss)
   - [中信证券：国内外AI算力与具身智能产业将迎重要产业进展](https://36kr.com/newsflashes/3838133016054276?f=rss)
   - [中信证券：建议将汇率纳入盈利分析，关注高出海高汇兑敏感公司的业绩预期差](https://36kr.com/newsflashes/3838153801566727?f=rss)
+  - [中国信通院：即将召开研讨会，启动高质量Token服务能力攀登计划](https://36kr.com/newsflashes/3838303496342019?f=rss)
+  - [中文在线：AI短剧成为第一大Token消耗场景](https://36kr.com/newsflashes/3838316766071045?f=rss)
   - [京东方A：玻璃基封装载板试验线良率尚未达到量产水平](https://36kr.com/newsflashes/3838134733146376?f=rss)
   - [人民币兑美元中间价报6.8203，下调19点](https://36kr.com/newsflashes/3838179124250886?f=rss)
   - [今夏国家电网最大用电负荷将超13亿千瓦，同比增约6%](https://36kr.com/newsflashes/3838246360811779?f=rss)
+  - [半日主力资金加仓电子股，抛售有色金属股](https://36kr.com/newsflashes/3838323077499137?f=rss)
   - [华泰证券：下半年风险资产或延续占优](https://36kr.com/newsflashes/3838149147838984?f=rss)
   - [华泰证券：厄尔尼诺来袭，关注白糖、天然橡胶及棕榈油产业链](https://36kr.com/newsflashes/3838116826778116?f=rss)
   - [博通AI营收展望不及预期](https://36kr.com/newsflashes/3838269370829058?f=rss)
@@ -57,9 +63,11 @@
   - [央行今日7天期逆回购操作量为零](https://36kr.com/newsflashes/3838190393428226?f=rss)
   - [央行公开市场再现“零操作”，技术性回笼不改资金面宽松预期](https://36kr.com/newsflashes/3838038477162756?f=rss)
   - [央行购金托底，黄金坐上储备资产“头把交椅”](https://36kr.com/newsflashes/3838042402048262?f=rss)
+  - [工信部：1—4月我国规上电子信息制造业增加值同比增长14%](https://36kr.com/newsflashes/3838334721362441?f=rss)
   - [年内券商发债突破1万亿元，同比增长114.86%](https://36kr.com/newsflashes/3838123112532482?f=rss)
   - [强化覆盖力度、发力未来汽车，汽车行业标准化建设提速进阶](https://36kr.com/newsflashes/3838120266353153?f=rss)
   - [微信正与手机厂商合作推出Agent-to-Agent助手能力](https://36kr.com/newsflashes/3838138218662404?f=rss)
+  - [恒指午间休盘跌1.4%，恒生科技指数跌1.43%](https://36kr.com/newsflashes/3838341851466245?f=rss)
   - [恒指开盘跌0.66%，恒生科技指数跌1.23%](https://36kr.com/newsflashes/3838184547371529?f=rss)
   - [恒生指数跌幅扩大至1%](https://36kr.com/newsflashes/3838209507428612?f=rss)
   - [意法半导体：AI需求强劲，上调数据中心收入预期](https://36kr.com/newsflashes/3838136983538181?f=rss)
@@ -69,6 +77,7 @@
   - [新安洁：董事长魏延田被留置时间延长三个月](https://36kr.com/newsflashes/3837625297078790?f=rss)
   - [日本家电零售商山田控股和爱电王计划合并](https://36kr.com/newsflashes/3838150866667776?f=rss)
   - [时隔8年A股再迎航司IPO，长龙航空拟募资20亿元](https://36kr.com/newsflashes/3838081409075465?f=rss)
+  - [易方达基金新进为非货ETF规模第一](https://36kr.com/newsflashes/3838280215709956?f=rss)
   - [李宁需要库里，但库里更需要李宁](https://36kr.com/p/3838185031305474?f=rss)
   - [江波龙：目前存储产业正处于高景气周期中](https://36kr.com/newsflashes/3838135714318597?f=rss)
   - [深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发](https://36kr.com/p/3837650456430851?f=rss)
@@ -80,6 +89,7 @@
   - [科技主题LOF业绩批量翻倍，溢价水平走高触发风控加码](https://36kr.com/newsflashes/3838040845978116?f=rss)
   - [算力大单频现，租赁市场进入规模化增长周期](https://36kr.com/newsflashes/3838039213804033?f=rss)
   - [绩优科技主题基金频频限购，机构：后市关注标的估值与业绩匹配度](https://36kr.com/newsflashes/3838122361489923?f=rss)
+  - [美国火星大气探测器MAVEN任务终结](https://36kr.com/newsflashes/3838290180770054?f=rss)
   - [美股三大股指集体收跌，热门中概股普跌](https://36kr.com/newsflashes/3838036836518407?f=rss)
   - [英伟达据悉收购初创公司Kumo AI](https://36kr.com/newsflashes/3838094499481857?f=rss)
   - [英国监管机构给谷歌AI搜索“立新规”](https://36kr.com/newsflashes/3838268830403077?f=rss)
@@ -112,6 +122,7 @@
 - darkreading
   - [Attackers Use AI to Automate EDR Evasion Testing](https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing)
   - [Cyber Insurance Rates Are Dropping, but Exclusions Widen](https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen)
+  - [Pakistan Spies on Afghan Finance Ministry With Xeno RAT](https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat)
 - Emergent Minds | paddo.dev
   - [The Copilot Meter Turned On, Right on Schedule](https://paddo.dev/blog/copilot-meter-turned-on/)
 - Hacker News Frontpage
@@ -122,6 +133,8 @@
   - [Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)](https://github.com/zaydmulani09/mnemo)
   - [Show HN: Nutrepedia – nutrition info in 29 locales built with Clojure and Htmx](https://nutrepedia.com/en-us/)
   - [The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude)
+- HackerNews
+  - [“HTTP/2 炸弹” 漏洞利用可数秒内瘫痪 Web 服务器](http://0.0.0.0:8080/post/64296)
 - HackerNoon
   - [Your Team Isn't the Problem, But Your WIP Is](https://hackernoon.com/your-team-isnt-the-problem-but-your-wip-is?source=rss)
 - idiallo.com
@@ -133,7 +146,9 @@
 - martinalderson.com
   - [Is datacentre sovereignty really that important?](https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&utm_medium=rss&utm_campaign=feed)
 - PromptLayer
+  - [How to Add Langfuse Tracing to an LLM App](https://blog.promptlayer.com/suggestion-pending-51540tumr_-2/)
   - [How to Define x_i for LLM Evals](https://blog.promptlayer.com/suggestion-pending-f6otbl1lmn-2/)
+  - [How to Set Up OpenLLMetry for LLM Tracing](https://blog.promptlayer.com/suggestion-pending-dwjtvi1biq-2/)
   - [How to Version Prompts for Production](https://blog.promptlayer.com/suggestion-pending-m7_sn69nkm-2/)
 - rtl-sdr.com
   - [Further Tutorials on SatDump Map Projections](https://www.rtl-sdr.com/further-tutorials-on-satdump-map-projections/)
@@ -146,6 +161,7 @@
   - [Exploit for Prototype Pollution in Cure53 Dompurify exploit](https://sploitus.com/exploit?id=7FE5A510-990A-5CCB-9427-6AA5D7B10937&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal](https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/)
+  - [Benchmark raises its first-ever growth fund as part of $2B capital raise](https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/)
   - [Carvana ties up with Bezos-backed Slate Auto as it plans new car sales](https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/)
   - [Defense tech is flooded with money, but who’s built to last?](https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/)
   - [Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon](https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/)
@@ -246,6 +262,7 @@
   - [crypto/x509: crypto/tls: golang: Go: Denial of Service vulnerability in certificate chain building](https://vulners.com/redhat/RHSA-2026:23102-CVE-2026-32280?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [crypto/x509: golang: Go crypto/x509: Denial of Service via inefficient certificate chain validation](https://vulners.com/redhat/RHSA-2026:23102-CVE-2026-32281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2022-31114](https://vulners.com/nvd/NVD:CVE-2022-31114?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10597](https://vulners.com/nvd/NVD:CVE-2026-10597?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10597 ITPison｜OMICARD EDM - Insecure Direct Object Reference](https://vulners.com/cve/CVE-2026-10597?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10597 ITPison｜OMICARD EDM - Insecure Direct Object Reference](https://vulners.com/cvelist/CVELIST:CVE-2026-10597?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10737](https://vulners.com/nvd/NVD:CVE-2026-10737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -290,8 +307,12 @@
   - [CVE-2026-40495](https://vulners.com/nvd/NVD:CVE-2026-40495?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41011](https://vulners.com/cve/CVE-2026-41011?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41011](https://vulners.com/cvelist/CVELIST:CVE-2026-41011?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41011](https://vulners.com/nvd/NVD:CVE-2026-41011?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41858](https://vulners.com/cve/CVE-2026-41858?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41858](https://vulners.com/cvelist/CVELIST:CVE-2026-41858?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41858](https://vulners.com/nvd/NVD:CVE-2026-41858?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41859](https://vulners.com/nvd/NVD:CVE-2026-41859?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41860](https://vulners.com/nvd/NVD:CVE-2026-41860?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42061](https://vulners.com/nvd/NVD:CVE-2026-42061?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42317](https://vulners.com/nvd/NVD:CVE-2026-42317?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42318](https://vulners.com/nvd/NVD:CVE-2026-42318?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -345,6 +366,8 @@
   - [CVE-2026-46338 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-46338?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46447](https://vulners.com/nvd/NVD:CVE-2026-46447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47214](https://vulners.com/cve/CVE-2026-47214?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49186 Lack of MQTT Broker Topic Access Control Lists](https://vulners.com/cve/CVE-2026-49186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49186 Lack of MQTT Broker Topic Access Control Lists](https://vulners.com/cvelist/CVELIST:CVE-2026-49186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50033](https://vulners.com/nvd/NVD:CVE-2026-50033?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6657](https://vulners.com/nvd/NVD:CVE-2026-6657?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7764](https://vulners.com/nvd/NVD:CVE-2026-7764?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -353,6 +376,7 @@
   - [CVE-2026-8653 MasterStudy LMS Pro Plus <= 4.8.20 - Authenticated (Instructor+) SQL Injection via 'columns' Parameter](https://vulners.com/cve/CVE-2026-8653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8653 MasterStudy LMS Pro Plus <= 4.8.20 - Authenticated (Instructor+) SQL Injection via 'columns' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-8653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8722](https://vulners.com/nvd/NVD:CVE-2026-8722?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8829](https://vulners.com/nvd/NVD:CVE-2026-8829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8874](https://vulners.com/nvd/NVD:CVE-2026-8874?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8876](https://vulners.com/nvd/NVD:CVE-2026-8876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8878](https://vulners.com/nvd/NVD:CVE-2026-8878?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -394,7 +418,10 @@
   - [OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons](https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/)
   - [xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity](https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/)
 - 不安全
+  - [AI公司联合呼吁美国立法以防范生物武器](https://buaq.net/go-420868.html)
+  - [“HTTP/2 炸弹” 漏洞利用可数秒内瘫痪 Web 服务器](https://buaq.net/go-420865.html)
   - [摩根士丹利称搭载英伟达RTX SPARK N1X芯片的PC售价将达到2,900美元](https://buaq.net/go-420850.html)
+  - [每天卖5.2万台！都是谁在买 Macbook Neo？](https://buaq.net/go-420864.html)
   - [真重置！Codex因昨日连续发生的多次故障重置本周额度 继续向后顺延7天](https://buaq.net/go-420851.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -403,7 +430,11 @@
 - 爱范儿
   - [制糖工厂发布 AI 小电拼 Mirror：FluxAI 自由流让多口充电进入「功率复用」时代](https://www.ifanr.com/1667933?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝苹果Vision Pro系列被砍/多地高考将查验智能眼镜/DeepSeek首轮融资规模约500亿元](https://www.ifanr.com/1668044?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [一个GPT Plus会员的钱，够机器人跑一个月世界模型了](https://www.qbitai.com/2026/06/428791.html)
+  - [戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型](https://www.qbitai.com/2026/06/428778.html)
 - 黑海洋
+  - [AI公司联合呼吁美国立法以防范生物武器](https://blog.upx8.com/AI%E5%85%AC%E5%8F%B8%E8%81%94%E5%90%88%E5%91%BC%E5%90%81%E7%BE%8E%E5%9B%BD%E7%AB%8B%E6%B3%95%E4%BB%A5%E9%98%B2%E8%8C%83%E7%94%9F%E7%89%A9%E6%AD%A6%E5%99%A8)
   - [Meta为平台上的企业推出AI客服智能体](https://blog.upx8.com/Meta%E4%B8%BA%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%9A%84%E4%BC%81%E4%B8%9A%E6%8E%A8%E5%87%BAAI%E5%AE%A2%E6%9C%8D%E6%99%BA%E8%83%BD%E4%BD%93)
   - [Pinkbin：开源 Windows 磁盘清理工具，让 AI 帮你看懂文件夹能不能删](https://blog.upx8.com/Pinkbin-Windows-AI)
   - [《三角洲行动》情报站：一站式掌握每日密码、改枪与市场行情](https://blog.upx8.com/8553)
