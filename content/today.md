@@ -1,7 +1,28 @@
 # 今日安全资讯（2026-06-04）
 
 - 36氪
+  - [8点1氪丨腾讯称无法确定微信AI智能体推出时间；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元](https://36kr.com/p/3838091144464644?f=rss)
+  - [Anthropic选定摩根士丹利和高盛牵头IPO，最快10月上市](https://36kr.com/newsflashes/3838086999443973?f=rss)
+  - [A股公司再掀回购热潮，年内披露金额已超千亿元](https://36kr.com/newsflashes/3838039725410817?f=rss)
+  - [Meta考虑为“Hatch”AI代理每月收取最高200美元费用](https://36kr.com/newsflashes/3838079747606790?f=rss)
+  - [Quantinuum IPO获得逾20倍的超额认购](https://36kr.com/newsflashes/3837624129358089?f=rss)
+  - [SK集团和台积电董事长同意深化在HBM和先进封装领域的合作](https://36kr.com/newsflashes/3838078741235975?f=rss)
+  - [SpaceX敲定IPO发行价，拟募资750亿美元、估值有望接近1.77万亿美元](https://36kr.com/newsflashes/3838062817462789?f=rss)
+  - [世界半导体贸易统计组织：预计2026年全球半导体市场规模或超10万亿元](https://36kr.com/newsflashes/3837622864218625?f=rss)
+  - [中信建投：国产燃机出海趋势明确，人形机器人是物理AI最好载体](https://36kr.com/newsflashes/3838084511238664?f=rss)
+  - [中信建投：模拟IC大厂集中开启新一轮涨价](https://36kr.com/newsflashes/3838084134930944?f=rss)
+  - [多家上市公司正扩产高性能碳纤维产品](https://36kr.com/newsflashes/3838095510047241?f=rss)
+  - [央行公开市场再现“零操作”，技术性回笼不改资金面宽松预期](https://36kr.com/newsflashes/3838038477162756?f=rss)
+  - [央行购金托底，黄金坐上储备资产“头把交椅”](https://36kr.com/newsflashes/3838042402048262?f=rss)
+  - [摩根士丹利即将开放万亿资管业务接口，接入各类人工智能智能体](https://36kr.com/newsflashes/3837621952236041?f=rss)
+  - [新一轮国资国企改革三维度协同发力](https://36kr.com/newsflashes/3838080518490368?f=rss)
+  - [新安洁：董事长魏延田被留置时间延长三个月](https://36kr.com/newsflashes/3837625297078790?f=rss)
+  - [时隔8年A股再迎航司IPO，长龙航空拟募资20亿元](https://36kr.com/newsflashes/3838081409075465?f=rss)
+  - [福特5月在美汽车销量同比下降13.6%](https://36kr.com/newsflashes/3837625983879684?f=rss)
+  - [科技主题LOF业绩批量翻倍，溢价水平走高触发风控加码](https://36kr.com/newsflashes/3838040845978116?f=rss)
+  - [算力大单频现，租赁市场进入规模化增长周期](https://36kr.com/newsflashes/3838039213804033?f=rss)
   - [美股三大股指集体收跌，热门中概股普跌](https://36kr.com/newsflashes/3838036836518407?f=rss)
+  - [英伟达据悉收购初创公司Kumo AI](https://36kr.com/newsflashes/3838094499481857?f=rss)
 - 404 Media
   - [Demand Is Booming for New No Tech, Repairable Tractor](https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/)
   - [Podcast: Hackers Asked Meta AI To Let Them In. It Worked](https://www.404media.co/podcast-hackers-asked-meta-ai-to-let-them-in-it-worked/)
@@ -11,11 +32,15 @@
   - [VU#595768: Securly Chrome Extension contains multiple weak encryption and access control vulnerabilities](https://kb.cert.org/vuls/id/595768)
 - daringfireball.net
   - [CBS News Fires Scott Pelley of ‘60 Minutes’](https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html)
+  - [Scott Pelley on Leaving ‘60 Minutes’: ‘Incompetence and Unprofessionalism in the New
+> Management Have Wreaked Havoc’](https://www.instagram.com/p/DZHlWAoG3_3/?img_index=1)
   - [The Underworld Market to Remove the Recording Indicator Light on Meta Glasses](https://www.youtube.com/watch?v=EaJSPeJmqis)
   - [The ‘60 Minutes’ Purge](https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/talent/)
 - darkreading
   - [Attackers Use AI to Automate EDR Evasion Testing](https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing)
   - [Cyber Insurance Rates Are Dropping, but Exclusions Widen](https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen)
+- Emergent Minds | paddo.dev
+  - [The Copilot Meter Turned On, Right on Schedule](https://paddo.dev/blog/copilot-meter-turned-on/)
 - Hacker News Frontpage
   - [A Man Who Reads Books for a Living (One Every Two Days)](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
   - [ESP32-S31](https://www.espressif.com/en/products/socs/esp32-s31)
@@ -31,6 +56,8 @@
   - [7 Ways New Engineers Can Flourish in the Age of AI](https://spectrum.ieee.org/7-ways-engineers-flourish-ai)
 - Linux Foundation Blogs
   - [Taking Stock of the State of European Cyber Resilience Act (CRA) Compliance: An Urgent Wake-up Call for the Open Source Ecosystem](https://www.linuxfoundation.org/blog/taking-stock-of-the-state-of-european-cyber-resilience-act-cra-compliance-an-urgent-wake-up-call-for-the-open-source-ecosystem)
+- martinalderson.com
+  - [Is datacentre sovereignty really that important?](https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&utm_medium=rss&utm_campaign=feed)
 - PromptLayer
   - [How to Define x_i for LLM Evals](https://blog.promptlayer.com/suggestion-pending-f6otbl1lmn-2/)
   - [How to Version Prompts for Production](https://blog.promptlayer.com/suggestion-pending-m7_sn69nkm-2/)
@@ -136,8 +163,13 @@
   - [CVE-2022-31114](https://vulners.com/nvd/NVD:CVE-2022-31114?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10766](https://vulners.com/nvd/NVD:CVE-2026-10766?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10771](https://vulners.com/nvd/NVD:CVE-2026-10771?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10775](https://vulners.com/nvd/NVD:CVE-2026-10775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10777](https://vulners.com/nvd/NVD:CVE-2026-10777?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10783 gradio-app gradio Audio Cache Key save_audio_to_cache weak hash](https://vulners.com/cve/CVE-2026-10783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10783 gradio-app gradio Audio Cache Key save_audio_to_cache weak hash](https://vulners.com/cvelist/CVELIST:CVE-2026-10783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22054](https://vulners.com/nvd/NVD:CVE-2026-22054?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22055](https://vulners.com/nvd/NVD:CVE-2026-22055?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-2596](https://vulners.com/nvd/NVD:CVE-2026-2596?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-26378](https://vulners.com/nvd/NVD:CVE-2026-26378?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-26379](https://vulners.com/nvd/NVD:CVE-2026-26379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-26824](https://vulners.com/nvd/NVD:CVE-2026-26824?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -256,3 +288,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [不写代码，照样赢！全国首届文科生AI黑客松圆满落幕](https://www.anquanke.com/post/id/315595)
+- 黑海洋
+  - [Meta为平台上的企业推出AI客服智能体](https://blog.upx8.com/Meta%E4%B8%BA%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%9A%84%E4%BC%81%E4%B8%9A%E6%8E%A8%E5%87%BAAI%E5%AE%A2%E6%9C%8D%E6%99%BA%E8%83%BD%E4%BD%93)
