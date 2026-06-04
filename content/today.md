@@ -5,6 +5,7 @@
   - [青春再也不回来，过去都是一场梦的朦胧和惆怅，像是出现在虚幻中的画面。](https://2libra.com/post/mental-health/bbJQxbb)
 - 404 Media
   - [Immigrant Rights Lawyers File Lawsuit Over Palantir’s ELITE](https://www.404media.co/immigrant-rights-lawyers-file-lawsuit-over-palantirs-elite/)
+  - [Satya Nadella ‘Not Sure’ Who Said Microsoft Wanted to Make Addictive AI, Is Looking for Guy Who Did This](https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/)
   - [The LEGO YouTube Scandal Has Broken Containment, Can No Longer Be Ignored](https://www.404media.co/the-lego-bricks-and-minifigs-reckless-benyoutube-scandal-has-broken-containment-can-no-longer-be-ignored/)
 - Ars Technica
   - [Elon Musk tries again to escape FTC audits of X data handling](https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/)
@@ -19,6 +20,10 @@
   - [Remember When Chrome Went Bad on MacOS?](https://chromeisbad.com/)
   - [‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’](https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ)
   - [‘The Insider’](https://letterboxd.com/film/the-insider/)
+- darkreading
+  - [4 Critical Threats Where Attackers Have the Advantage](https://www.darkreading.com/vulnerabilities-threats/4-critical-threats-attackers-advantage)
+  - [China's TA4922 Expands Cybercrime Attacks Globally](https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally)
+  - [Rust-Written IronWorm Hits NPM Supply Chain](https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain)
 - Fidelis Security
   - [How CWPP Solutions Work with Your Current Security Stack](https://fidelissecurity.com/threatgeek/cloud-security/cwpp-integration-with-your-security-stack/)
 - Hacker News Frontpage
@@ -38,6 +43,7 @@
   - [Quoting Emanuel Maiberg, 404 Media](https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [binary-exploitation-labs-Application-security-ctf-writeups exploit](https://sploitus.com/exploit?id=4D7C1DCB-F52E-5F04-8551-27AE0D41F75B&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-3180 exploit](https://sploitus.com/exploit?id=8A0044D6-4E23-5EC1-9A9D-274941997A78&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-8732 exploit](https://sploitus.com/exploit?id=309255BC-02CF-52BD-9DA4-CEAB202BEECD&utm_source=rss&utm_medium=rss)
   - [Exploit for Stack-based Buffer Overflow in Microsoft exploit](https://sploitus.com/exploit?id=18D066FB-7925-51D0-8F62-50C464096DBA&utm_source=rss&utm_medium=rss)
   - [Exploit for Stack-based Buffer Overflow in Microsoft exploit](https://sploitus.com/exploit?id=5FF26F40-4D2D-54FA-A5E0-88A648FA0864&utm_source=rss&utm_medium=rss)
@@ -47,6 +53,8 @@
   - [A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it](https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/)
   - [Apple approves Poke as the first AI agent on its Messages for Business platform](https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/)
   - [Cash App launches a wand for tap-and-pay](https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/)
+  - [Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18](https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/)
+  - [Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app](https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/)
   - [Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft](https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/)
   - [Meta rolls out a new AI creator assistant on Facebook](https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/)
   - [Meta steals a tactic from Tesla and builds data centers in tents](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/)
@@ -66,6 +74,8 @@
   - [Windows is back on the Microsoft menu](https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad)
 - VulDB Recent Entries
   - [CVE-2026-11312 | bytedance InfiniStore up to 0.2.33 KV Map /src/infinistore.h purge_kv_map algorithmic complexity (Issue 200)](https://vuldb.com/vuln/368398)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [From Operating Model to Product: How We Built the ROC for Detection-Speed Remediation](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
   - [binary-exploitation-labs-Application-security-ctf-writeups](https://vulners.com/githubexploit/4D7C1DCB-F52E-5F04-8551-27AE0D41F75B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://vulners.com/thn/THN:3045B0C60DCD251B7744C460F8FD4A2C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -82,6 +92,7 @@
   - [CVE-2026-10814](https://vulners.com/nvd/NVD:CVE-2026-10814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10815](https://vulners.com/nvd/NVD:CVE-2026-10815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10868](https://vulners.com/nvd/NVD:CVE-2026-10868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10870](https://vulners.com/nvd/NVD:CVE-2026-10870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10870 Shibby Tomato Web UI rc start_dhcpc os command injection](https://vulners.com/cve/CVE-2026-10870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10870 Shibby Tomato Web UI rc start_dhcpc os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-10870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10880](https://vulners.com/nvd/NVD:CVE-2026-10880?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -111,10 +122,15 @@
   - [CVE-2026-41249](https://vulners.com/nvd/NVD:CVE-2026-41249?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41518](https://vulners.com/nvd/NVD:CVE-2026-41518?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41522](https://vulners.com/nvd/NVD:CVE-2026-41522?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42329](https://vulners.com/nvd/NVD:CVE-2026-42329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42329 Iris has an Open Redirect issue](https://vulners.com/cve/CVE-2026-42329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42329 Iris has an Open Redirect issue](https://vulners.com/cvelist/CVELIST:CVE-2026-42329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42538](https://vulners.com/nvd/NVD:CVE-2026-42538?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42538 IRIS has an Insecure File Upload](https://vulners.com/cve/CVE-2026-42538?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42538 IRIS has an Insecure File Upload](https://vulners.com/cvelist/CVELIST:CVE-2026-42538?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42547](https://vulners.com/attackerkb/AKB:44E5CC1A-45A2-4EF3-847A-377D6C4E63A0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42547 IRIS Alerts Can be Falsely Attributed to Customers](https://vulners.com/cve/CVE-2026-42547?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42547 IRIS Alerts Can be Falsely Attributed to Customers](https://vulners.com/cvelist/CVELIST:CVE-2026-42547?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43984](https://vulners.com/nvd/NVD:CVE-2026-43984?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43985](https://vulners.com/nvd/NVD:CVE-2026-43985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43986](https://vulners.com/nvd/NVD:CVE-2026-43986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -152,6 +168,7 @@
   - [CVE-2026-50266](https://vulners.com/cvelist/CVELIST:CVE-2026-50266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50266](https://vulners.com/nvd/NVD:CVE-2026-50266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50292](https://vulners.com/nvd/NVD:CVE-2026-50292?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5066](https://vulners.com/nvd/NVD:CVE-2026-5066?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5066 net: sockets: tls: Potential out-of-bounds write/read in socket_op_vtable::connect function](https://vulners.com/cve/CVE-2026-5066?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5066 net: sockets: tls: Potential out-of-bounds write/read in socket_op_vtable::connect function](https://vulners.com/cvelist/CVELIST:CVE-2026-5066?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5172 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-5172?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -159,6 +176,7 @@
   - [CVE-2026-5228](https://vulners.com/nvd/NVD:CVE-2026-5228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5589](https://vulners.com/nvd/NVD:CVE-2026-5589?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7774](https://vulners.com/nvd/NVD:CVE-2026-7774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-3180](https://vulners.com/githubexploit/8A0044D6-4E23-5EC1-9A9D-274941997A78?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-8732](https://vulners.com/githubexploit/309255BC-02CF-52BD-9DA4-CEAB202BEECD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/18D066FB-7925-51D0-8F62-50C464096DBA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/5FF26F40-4D2D-54FA-A5E0-88A648FA0864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -189,9 +207,13 @@
   - [GHSA-M62J-63MF-XR95 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-M62J-63MF-XR95?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-VVGJ-X9JQ-8CJ9 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-VVGJ-X9JQ-8CJ9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: flatpak security update](https://vulners.com/redhat/RHSA-2026:23420?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: kpatch-patch-4_18_0-477_107_1, kpatch-patch-4_18_0-477_120_1, kpatch-patch-4_18_0-477_130_1, kpatch-patch-4_18_0-477_89_1, and kpatch-patch-4_18_0-477_97_1 security update](https://vulners.com/redhat/RHSA-2026:23471?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kernel: "Fragnesia" is a variant of Dirty Frag vulnerability in the ESP/XFRM leading to Local Privilege Escalation (LPE) vulnerability in the Linux kernel](https://vulners.com/redhat/RHSA-2026:23471-CVE-2026-46300?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kernel: Read root-owned files as an unprivileged user](https://vulners.com/redhat/RHSA-2026:23471-CVE-2026-46333?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Multiple vulnerabilties in IBM Rational Functional Tester / DevOps Test UI](https://vulners.com/ibm/293D8CE5E01512C64B50A9A3B9BDE8B72EC68195415CD03A9D9B60DCC3D0B981?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones](https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/)
+  - [Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US](https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/)
   - [Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working](https://www.wired.com/story/phoebe-bridgers-ditched-the-internet-to-hype-up-her-new-music-its-working/)
   - [The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked](https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/)
   - [The TikTok Ban Was Never About TikTok](https://www.wired.com/story/made-in-china-tiktok-never-dies/)
