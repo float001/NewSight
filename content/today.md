@@ -1,15 +1,29 @@
 # 今日安全资讯（2026-06-05）
 
+- 2Libra
+  - [青春再也不回来，过去都是一场梦的朦胧和惆怅，像是出现在虚幻中的画面。](https://2libra.com/post/mental-health/bbJQxbb)
 - Cybersecurity News
   - [Apache Fory Vulnerability: High Severity Flaw Bypasses Core Java Serialization Checks](https://securityonline.info/apache-fory-vulnerability-patch/)
+  - [Refining the Interface: Microsoft Addresses the Cluttered Windows 11 Context Menu](https://securityonline.info/windows-11-context-menu/)
+  - [The Quantum Bastion: Let’s Encrypt Embraces Merkle Tree Certificates against Post-Quantum Threats](https://securityonline.info/merkle-tree-certificates/)
+  - [The Renaissance of Native Architecture: Microsoft Rebrands WinUI to Salvage Windows 11 Performance](https://securityonline.info/microsoft-winui-rebrand/)
+- daringfireball.net
+  - [Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous](https://gemini.google/mac/)
+- Fidelis Security
+  - [How CWPP Solutions Work with Your Current Security Stack](https://fidelissecurity.com/threatgeek/cloud-security/cwpp-integration-with-your-security-stack/)
+- Hacker News Frontpage
+  - [The desperation of NYTimes](https://rozumem.xyz/posts/16)
 - infosecurity-magazine.com
   - [Everest Forms Pro Vulnerability Allows Remote Code Execution on WordPress Sites](https://www.infosecurity-magazine.com/news/everest-forms-pro-rce-actively/)
+- johndcook.com
+  - [Integrating smooth periodic functions](https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/)
 - PromptLayer
   - [How to Evaluate Summary Relevance](https://blog.promptlayer.com/suggestion-pending-nkrfeot4w2-2/)
 - simonwillison.net
   - [Quoting Emanuel Maiberg, 404 Media](https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-8732 exploit](https://sploitus.com/exploit?id=309255BC-02CF-52BD-9DA4-CEAB202BEECD&utm_source=rss&utm_medium=rss)
+  - [Exploit for Stack-based Buffer Overflow in Microsoft exploit](https://sploitus.com/exploit?id=18D066FB-7925-51D0-8F62-50C464096DBA&utm_source=rss&utm_medium=rss)
   - [Exploit for Stack-based Buffer Overflow in Microsoft exploit](https://sploitus.com/exploit?id=5FF26F40-4D2D-54FA-A5E0-88A648FA0864&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it](https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/)
@@ -26,36 +40,59 @@
   - [Windows is back on the Microsoft menu](https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad)
 - Vulners.com RSS Feed
   - [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://vulners.com/thn/THN:3045B0C60DCD251B7744C460F8FD4A2C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-67446](https://vulners.com/nvd/NVD:CVE-2025-67446?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10813](https://vulners.com/nvd/NVD:CVE-2026-10813?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10814](https://vulners.com/nvd/NVD:CVE-2026-10814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10815](https://vulners.com/nvd/NVD:CVE-2026-10815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10868](https://vulners.com/nvd/NVD:CVE-2026-10868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10880 Unauthenticated SQL Injection in Osnexus Quantastor](https://vulners.com/cve/CVE-2026-10880?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10880 Unauthenticated SQL Injection in Osnexus Quantastor](https://vulners.com/cvelist/CVELIST:CVE-2026-10880?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25550 Seagull Software BarTender Unauthenticated RCE via .NET Remoting Service](https://vulners.com/cve/CVE-2026-25550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25550 Seagull Software BarTender Unauthenticated RCE via .NET Remoting Service](https://vulners.com/cvelist/CVELIST:CVE-2026-25550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25551 Seagull Software BarTender Deserialization Privilege Escalation via .NET Remoting Service](https://vulners.com/cve/CVE-2026-25551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25551 Seagull Software BarTender Deserialization Privilege Escalation via .NET Remoting Service](https://vulners.com/cvelist/CVELIST:CVE-2026-25551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36182](https://vulners.com/nvd/NVD:CVE-2026-36182?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38570](https://vulners.com/nvd/NVD:CVE-2026-38570?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40930](https://vulners.com/nvd/NVD:CVE-2026-40930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41178](https://vulners.com/nvd/NVD:CVE-2026-41178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41207 netty-incubator-codec-ohttp's HPKEContext operations may produce empty byte[] on failures](https://vulners.com/cve/CVE-2026-41207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41207 netty-incubator-codec-ohttp's HPKEContext operations may produce empty byte[] on failures](https://vulners.com/cvelist/CVELIST:CVE-2026-41207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43984](https://vulners.com/nvd/NVD:CVE-2026-43984?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43985](https://vulners.com/nvd/NVD:CVE-2026-43985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43986](https://vulners.com/nvd/NVD:CVE-2026-43986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44393](https://vulners.com/nvd/NVD:CVE-2026-44393?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45287](https://vulners.com/nvd/NVD:CVE-2026-45287?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46739](https://vulners.com/nvd/NVD:CVE-2026-46739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46741](https://vulners.com/nvd/NVD:CVE-2026-46741?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48040 netty-incubator-codec-ohttp's Incorrect Native Pointer Derivation in Pooled Direct ByteBuf Fallback Leads to Out-of-Bounds Native Memory Access](https://vulners.com/cve/CVE-2026-48040?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48040 netty-incubator-codec-ohttp's Incorrect Native Pointer Derivation in Pooled Direct ByteBuf Fallback Leads to Out-of-Bounds Native Memory Access](https://vulners.com/cvelist/CVELIST:CVE-2026-48040?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49940](https://vulners.com/nvd/NVD:CVE-2026-49940?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49940 Net::CIDR::Set versions through 0.20 for Perl accept non-ASCII IP addresses and netmasks](https://vulners.com/cve/CVE-2026-49940?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49940 Net::CIDR::Set versions through 0.20 for Perl accept non-ASCII IP addresses and netmasks](https://vulners.com/cvelist/CVELIST:CVE-2026-49940?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49941](https://vulners.com/nvd/NVD:CVE-2026-49941?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49941 Net::CIDR::Set versions through 0.20 for Perl did not validate IP addresses](https://vulners.com/cve/CVE-2026-49941?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49941 Net::CIDR::Set versions through 0.20 for Perl did not validate IP addresses](https://vulners.com/cvelist/CVELIST:CVE-2026-49941?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49942](https://vulners.com/nvd/NVD:CVE-2026-49942?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49942 Net::CIDR::Set versions through 0.20 for Perl did not validate network masks](https://vulners.com/cve/CVE-2026-49942?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49942 Net::CIDR::Set versions through 0.20 for Perl did not validate network masks](https://vulners.com/cvelist/CVELIST:CVE-2026-49942?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50076](https://vulners.com/nvd/NVD:CVE-2026-50076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50076 Apache Fory: Java ReplaceResolverSerializer deserialization checks bypass](https://vulners.com/cve/CVE-2026-50076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50076 Apache Fory: Java ReplaceResolverSerializer deserialization checks bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-50076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50266](https://vulners.com/cve/CVE-2026-50266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50266](https://vulners.com/cvelist/CVELIST:CVE-2026-50266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50266](https://vulners.com/nvd/NVD:CVE-2026-50266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5228](https://vulners.com/nvd/NVD:CVE-2026-5228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7774](https://vulners.com/nvd/NVD:CVE-2026-7774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-8732](https://vulners.com/githubexploit/309255BC-02CF-52BD-9DA4-CEAB202BEECD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/18D066FB-7925-51D0-8F62-50C464096DBA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/5FF26F40-4D2D-54FA-A5E0-88A648FA0864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones](https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/)
+  - [The TikTok Ban Was Never About TikTok](https://www.wired.com/story/made-in-china-tiktok-never-dies/)
   - [Wave Cash App’s Magic Wand to Pay for Stuff](https://www.wired.com/story/wave-cash-apps-magic-wand-to-pay-for-stuff/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [在失联半年后火星 MAVEN 任务宣告结束](https://www.solidot.org/story?sid=84490)
+- 阿小信的博客
+  - [Hugo 静态博客实现 Google AdSense 广告位懒加载：从原理到实践](https://blog.axiaoxin.com/post/hugo-adsense-lazy-loading/)
