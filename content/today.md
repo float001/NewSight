@@ -16,6 +16,8 @@
   - [Google to pay SpaceX $920M a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
   - [Launch HN: General Instinct (YC P26) – Frontier models on edge devices](https://news.ycombinator.com/item?id=48414869)
   - [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
+- HackerNoon
+  - [Out of 2,159 Cold Messages, Only 4 People Replied](https://hackernoon.com/out-of-2159-cold-messages-only-4-people-replied?source=rss)
 - Horizon3.ai
   - [CVE-2026-0257 | Palo Alto Networks PAN-OS GlobalProtect Authentication Bypass Vulnerability | Active Exploitation](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-0257/)
 - IEEE Spectrum
@@ -33,6 +35,7 @@
 - TechCrunch
   - [As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew](https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/)
   - [Former cyber executive turned whistleblower accuses IBM of covering up several data breaches](https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/)
+  - [Founders share VC horror stories, and some are naming names](https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/)
   - [GM’s electric future depends on a new battery — and this building](https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/)
   - [Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person](https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/)
   - [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
@@ -42,6 +45,8 @@
 - The Decoder
   - [Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance](https://the-decoder.com/floridas-lawsuit-against-openai-and-ceo-altman-treats-chatgpt-as-a-defective-product-and-public-nuisance/)
 - The Verge
+  - [Congress still can’t decide what to do about warrantless surveillance](https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte)
+  - [Control Resonant is a sequel — and also a starting point](https://www.theverge.com/games/944151/control-resonant-hands-on)
   - [Gone in 60 minutes](https://www.theverge.com/entertainment/944337/gone-in-60-minutes)
   - [Summer Game Fest Live 2026: The biggest news, trailers, and announcements](https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements)
   - [This is your laptop… on AI](https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast)
@@ -91,12 +96,19 @@
   - [CVE-2026-11400](https://vulners.com/nvd/NVD:CVE-2026-11400?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11401](https://vulners.com/nvd/NVD:CVE-2026-11401?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11414](https://vulners.com/nvd/NVD:CVE-2026-11414?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11416 MoviePilot Path Traversal via Cloud Storage Download Handlers](https://vulners.com/cve/CVE-2026-11416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11416 MoviePilot Path Traversal via Cloud Storage Download Handlers](https://vulners.com/cvelist/CVELIST:CVE-2026-11416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11419](https://vulners.com/nvd/NVD:CVE-2026-11419?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11420](https://vulners.com/nvd/NVD:CVE-2026-11420?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11422](https://vulners.com/nvd/NVD:CVE-2026-11422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11422 Markdown Preview Enhanced 0.8.x Code Injection via WaveDrom Rendering](https://vulners.com/cve/CVE-2026-11422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11422 Markdown Preview Enhanced 0.8.x Code Injection via WaveDrom Rendering](https://vulners.com/cvelist/CVELIST:CVE-2026-11422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11423](https://vulners.com/nvd/NVD:CVE-2026-11423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11423 Path Traversal in Altium Enterprise Server Collaboration Service Allows Privilege Escalation](https://vulners.com/cve/CVE-2026-11423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11423 Path Traversal in Altium Enterprise Server Collaboration Service Allows Privilege Escalation](https://vulners.com/cvelist/CVELIST:CVE-2026-11423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11431](https://vulners.com/attackerkb/AKB:64CF57C9-78DC-4217-9812-D64A883B79A7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11431 Path Traversal in Altium Projects Service Allows Arbitrary File Read](https://vulners.com/cve/CVE-2026-11431?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11431 Path Traversal in Altium Projects Service Allows Arbitrary File Read](https://vulners.com/cvelist/CVELIST:CVE-2026-11431?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-2379](https://vulners.com/nvd/NVD:CVE-2026-2379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25620](https://vulners.com/nvd/NVD:CVE-2026-25620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25621](https://vulners.com/nvd/NVD:CVE-2026-25621?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -105,6 +117,7 @@
   - [CVE-2026-25624](https://vulners.com/nvd/NVD:CVE-2026-25624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36500](https://vulners.com/nvd/NVD:CVE-2026-36500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36501](https://vulners.com/nvd/NVD:CVE-2026-36501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36785](https://vulners.com/nvd/NVD:CVE-2026-36785?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45290](https://vulners.com/nvd/NVD:CVE-2026-45290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45291](https://vulners.com/nvd/NVD:CVE-2026-45291?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45300](https://vulners.com/nvd/NVD:CVE-2026-45300?utm_source=rss&utm_medium=rss&utm_campaign=rss)
