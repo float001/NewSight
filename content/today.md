@@ -4,8 +4,12 @@
   - [今天潘多拉维护了吗？](https://2libra.com/post/forum-function/1rOp5YE)
   - [入站第一天就获得了卡皮巴拉](https://2libra.com/post/forum-function/jbEx14X)
   - [关于黄金基金的一些问题求教](https://2libra.com/post/financial-management/-i3poy9)
+  - [分享下自建中转站，gpt 模型](https://2libra.com/post/ai-gateway/0Zbfibg)
+  - [宏碁笔记本](https://2libra.com/post/second-hand/GVaFGPP)
+  - [感觉被这个潘多拉骗了，说好的减少 38%](https://2libra.com/post/forum-function/1JrHnow)
   - [求助：9.1 后出生的宝宝，是多上一个小班还是多上一个大班](https://2libra.com/post/interaction/ZpzS1eT)
   - [还有谁！！！](https://2libra.com/post/game-discussion/rl7O9Zp)
+  - [进度 ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 42.9% #2026#，感觉今年过的好啊快](https://2libra.com/post/personal-life/28zY8QN)
 - 36氪
   - [9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事](https://36kr.com/p/3840996342073604?f=rss)
   - [SpaceX IPO已获得2倍认购资金](https://36kr.com/newsflashes/3841030859081984?f=rss)
@@ -22,7 +26,10 @@
   - [网传比亚迪自研人形机器人代号“尧舜禹”、年内自用2万台 比亚迪否认](https://36kr.com/newsflashes/3841124276423176?f=rss)
   - [美股三大指数收盘集体下跌，纳指跌超4%](https://36kr.com/newsflashes/3841026664204546?f=rss)
   - [花旗维持对美联储年内降息3次的预测](https://36kr.com/newsflashes/3841029124016387?f=rss)
+  - [证监会主席吴清：持续完善程序化交易监管的机制安排 坚决打击操纵市场、扰乱市场秩序等违法违规行为](https://36kr.com/newsflashes/3841345628424452?f=rss)
+  - [证监会主席吴清：提升投资运作稳健性 努力为投资者创造更可持续的中长期收益](https://36kr.com/newsflashes/3841347938388227?f=rss)
   - [误发世界杯“0元票”　国际足联催球迷补票款](https://36kr.com/newsflashes/3841114245892355?f=rss)
+  - [银之杰：“被立案调查”等传闻不实 公司已报案追究造谣者法律责任](https://36kr.com/newsflashes/3841346737768712?f=rss)
 - 404 Media
   - [ICE’s Plan to Let Cops Around the Country Scan Faces to Verify Immigration Status](https://www.404media.co/ices-plan-to-let-cops-around-the-country-scan-faces-to-verify-immigration-status/)
 - Ars Technica
@@ -91,6 +98,7 @@
   - [The most interesting startups right now want to get you off your phone](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/)
 - The Decoder
   - [Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance](https://the-decoder.com/floridas-lawsuit-against-openai-and-ceo-altman-treats-chatgpt-as-a-defective-product-and-public-nuisance/)
+  - [Qwen3.7-Plus is Alibaba's bid to turn multimodal AI into a full-blown autonomous agent](https://the-decoder.com/qwen3-7-plus-is-alibabas-bid-to-turn-multimodal-ai-into-a-full-blown-autonomous-agent/)
 - The Verge
   - [Congress still can’t decide what to do about warrantless surveillance](https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte)
   - [Control Resonant is a sequel — and also a starting point](https://www.theverge.com/games/944151/control-resonant-hands-on)
@@ -391,4 +399,5 @@
 - 绿盟科技技术博客
   - [企业文档安全最佳实践（一）：告别混乱，从“分类分级与密级标识”开始](https://blog.nsfocus.net/%e4%bc%81%e4%b8%9a%e6%96%87%e6%a1%a3%e5%ae%89%e5%85%a8%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5%ef%bc%88%e4%b8%80%ef%bc%89%ef%bc%9a%e5%91%8a%e5%88%ab%e6%b7%b7%e4%b9%b1%ef%bc%8c%e4%bb%8e%e5%88%86/)
 - 量子位 QbitAI
+  - [今年CVPR看点是广东：何恺明再获至高大奖，广工大打破大厂名校垄断](https://www.qbitai.com/2026/06/431186.html)
   - [港股鞋王千百度，一夜完成AI数据公司转型](https://www.qbitai.com/2026/06/431056.html)
