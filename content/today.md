@@ -50,6 +50,7 @@
   - [Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it](https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/)
   - [Highly reviewed speaker can be hacked over the air to infect connected devices](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/)
   - [S&P 500 blocks fast SpaceX entry, won’t waive rule for unprofitable AI firms](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
+  - [Some ancient microbes frozen with Ötzi the Iceman are still growing](https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/)
 - Cybersecurity News
   - [CISA Warns of Actively Exploited SolarWinds Serv-U Flaw](https://securityonline.info/serv-u-vulnerability-cve-2026-28318/)
   - [PHANTOMPULSE Malware Analysis: Advanced Cryptographic Implants Exploiting Blockchain Networks](https://securityonline.info/phantompulse-malware-analysis-blockchain-c2/)
@@ -71,6 +72,8 @@
   - [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
 - HackerNoon
   - [Out of 2,159 Cold Messages, Only 4 People Replied](https://hackernoon.com/out-of-2159-cold-messages-only-4-people-replied?source=rss)
+- Hacking Articles
+  - [AI-Powered Penetration Testing with Metasploit](https://www.hackingarticles.in/ai-powered-penetration-testing-with-metasploit/)
 - Horizon3.ai
   - [CVE-2026-0257 | Palo Alto Networks PAN-OS GlobalProtect Authentication Bypass Vulnerability | Active Exploitation](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-0257/)
 - idiallo.com
@@ -82,8 +85,11 @@
 - pluralistic.net
   - [Pluralistic: Refining humanity (05 Jun 2026)](https://pluralistic.net/2026/06/05/defining-humanity/)
 - PromptLayer
+  - [How to Apply Linearity of Variance to Evals](https://blog.promptlayer.com/suggestion-pending-sk16x2este-2/)
   - [How to Build a Prompt Hub](https://blog.promptlayer.com/suggestion-pending-b5-cfui_gu-2/)
+  - [How to Choose Top-Rated LLM Optimization Software](https://blog.promptlayer.com/suggestion-pending-fjbvtxou0y-2/)
   - [How to Evaluate LLM Observability Tools](https://blog.promptlayer.com/suggestion-pending-c_q7-bqmwd-2/)
+  - [How to Implement Model Observability for LLM Apps](https://blog.promptlayer.com/suggestion-pending-0l1ljyaixv-2/)
   - [How to Mine Awesome LLM for Evals](https://blog.promptlayer.com/suggestion-pending-rxdb3dwnww-2/)
   - [How to Run DeepEval from GitHub](https://blog.promptlayer.com/suggestion-pending-dxgzzu21zo-2/)
   - [How to Track LLM Usage, Cost, and Quality](https://blog.promptlayer.com/suggestion-pending-ipdhnceunl-2/)
@@ -91,6 +97,10 @@
 - PwnDefend
   - [DNSSEC](https://www.pwndefend.com/2026/06/06/dnssec/)
   - [Using shame to enable extortion](https://www.pwndefend.com/2026/06/06/using-shame-to-enable-extortion/)
+- Sebastian Raschka
+  - [LLM Research Papers: The 2026 List (January to May)](https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1)
+- shkspr.mobi
+  - [There's still no point in gigabit broadband](https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/)
 - simonwillison.net
   - [micropython-wasm 0.1a2](https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything)
   - [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything)
@@ -118,7 +128,9 @@
   - [Supabase doubles valuation to $10B in 8 months](https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/)
   - [The most interesting startups right now want to get you off your phone](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/)
 - The Decoder
+  - [Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting cut off](https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/)
   - [Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance](https://the-decoder.com/floridas-lawsuit-against-openai-and-ceo-altman-treats-chatgpt-as-a-defective-product-and-public-nuisance/)
+  - [Meta's Hatch AI agent could cost up to $200 a month and marks its first paid AI product](https://the-decoder.com/metas-hatch-ai-agent-could-cost-up-to-200-a-month-and-marks-its-first-paid-ai-product/)
   - [New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent](https://the-decoder.com/new-open-source-voice-model-listens-nonstop-and-decides-every-0-4-seconds-whether-to-speak-or-stay-silent/)
   - [OpenAI and the Trump administration are negotiating a government stake in the AI startup](https://the-decoder.com/openai-and-the-trump-administration-are-negotiating-a-government-stake-in-the-ai-startup/)
   - [Qwen3.7-Plus is Alibaba's bid to turn multimodal AI into a full-blown autonomous agent](https://the-decoder.com/qwen3-7-plus-is-alibabas-bid-to-turn-multimodal-ai-into-a-full-blown-autonomous-agent/)
@@ -128,8 +140,10 @@
   - [Control Resonant is a sequel — and also a starting point](https://www.theverge.com/games/944151/control-resonant-hands-on)
   - [Final Fantasy VII&#8217;s remake trilogy will conclude with Revelation](https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement)
   - [Gone in 60 minutes](https://www.theverge.com/entertainment/944337/gone-in-60-minutes)
+  - [Here comes new Siri again](https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini)
   - [More than a decade later, the team behind N++ is back with a multiplayer sequel](https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel)
   - [Summer Game Fest Live 2026: The biggest news, trailers, and announcements](https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements)
+  - [The next YouTube phenomenon hitting the big screen](https://www.theverge.com/tech/944942/amazing-digital-circus-lego-pokemon-installer)
   - [This is your laptop… on AI](https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast)
   - [What happens when your phone is confiscated at the airport](https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists)
 - VulDB Recent Entries
@@ -251,8 +265,11 @@
   - [CVE-2026-11406](https://vulners.com/nvd/NVD:CVE-2026-11406?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11406 GL.iNet MT3000 OpenVPN Client Import Workflow ovpnclient.sh command injection](https://vulners.com/cve/CVE-2026-11406?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11406 GL.iNet MT3000 OpenVPN Client Import Workflow ovpnclient.sh command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-11406?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11408](https://vulners.com/nvd/NVD:CVE-2026-11408?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11408 vertex-app vertex Log Viewer Endpoint LogMod.js os command injection](https://vulners.com/cve/CVE-2026-11408?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11408 vertex-app vertex Log Viewer Endpoint LogMod.js os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-11408?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11411](https://vulners.com/nvd/NVD:CVE-2026-11411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11412](https://vulners.com/nvd/NVD:CVE-2026-11412?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11414](https://vulners.com/nvd/NVD:CVE-2026-11414?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11416](https://vulners.com/nvd/NVD:CVE-2026-11416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11416 MoviePilot Path Traversal via Cloud Storage Download Handlers](https://vulners.com/cve/CVE-2026-11416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -427,6 +444,7 @@
   - [Exploit for Improper Initialization in Linux Linux_Kernel](https://vulners.com/githubexploit/3A0FB196-510A-59F0-AD4E-7E47BB4CD069?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Input Validation in Apache Activemq](https://vulners.com/githubexploit/E2D2E062-090F-5A3A-84ED-306A6EC90608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Open-Emr Openemr](https://vulners.com/githubexploit/B89B9C6A-46E4-5543-976C-1B968B942D25?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/AF259002-26FE-51BB-AC0E-564458DE81B3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://vulners.com/thn/THN:DA2FCA79C0C6D04CAA866AECB4D6FD68?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2MPM-MP7X-8JHG vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-2MPM-MP7X-8JHG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2RPM-HRH4-422J vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-2RPM-HRH4-422J?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -476,6 +494,8 @@
   - [[官方途径] ChatGPT账号被封禁/误封后如何联系OpenAI提交申诉](https://buaq.net/go-421366.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [A Panoramic View of Popular International Front-End Frameworks (2025-2026)](https://dyrnq.com/a-panoramic-view-of-popular-international-front-end-frameworks-2025-2026/)
 - 爱范儿
   - [300 款车、450 亿美元订单：高通汽车芯片的中国棋局](https://www.ifanr.com/1668242?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋访韩首站去T1网吧/姚顺雨谈腾讯AI下半场/三大运营商提醒高考考点将屏蔽信号，周边或无法上网](https://www.ifanr.com/1668239?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -487,3 +507,4 @@
   - [港股鞋王千百度，一夜完成AI数据公司转型](https://www.qbitai.com/2026/06/431056.html)
 - 黑海洋
   - [12人卖出1.8亿单 国内最大的Steam黑产窝点被捣毁](https://blog.upx8.com/12%E4%BA%BA%E5%8D%96%E5%87%BA1-8%E4%BA%BF%E5%8D%95-%E5%9B%BD%E5%86%85%E6%9C%80%E5%A4%A7%E7%9A%84Steam%E9%BB%91%E4%BA%A7%E7%AA%9D%E7%82%B9%E8%A2%AB%E6%8D%A3%E6%AF%81)
+  - [乌克兰国防AI负责人称五年内实现大量任务无人化](https://blog.upx8.com/%E4%B9%8C%E5%85%8B%E5%85%B0%E5%9B%BD%E9%98%B2AI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E7%A7%B0%E4%BA%94%E5%B9%B4%E5%86%85%E5%AE%9E%E7%8E%B0%E5%A4%A7%E9%87%8F%E4%BB%BB%E5%8A%A1%E6%97%A0%E4%BA%BA%E5%8C%96)
