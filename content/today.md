@@ -1,5 +1,8 @@
 # 今日安全资讯（2026-06-06）
 
+- 2Libra
+  - [今天潘多拉维护了吗？](https://2libra.com/post/forum-function/1rOp5YE)
+  - [求助：9.1 后出生的宝宝，是多上一个小班还是多上一个大班](https://2libra.com/post/interaction/ZpzS1eT)
 - 404 Media
   - [ICE’s Plan to Let Cops Around the Country Scan Faces to Verify Immigration Status](https://www.404media.co/ices-plan-to-let-cops-around-the-country-scan-faces-to-verify-immigration-status/)
 - Ars Technica
@@ -19,6 +22,7 @@
   - [Google to pay SpaceX $920M a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
   - [Launch HN: General Instinct (YC P26) – Frontier models on edge devices](https://news.ycombinator.com/item?id=48414869)
   - [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)
+  - [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
   - [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
 - HackerNoon
   - [Out of 2,159 Cold Messages, Only 4 People Replied](https://hackernoon.com/out-of-2159-cold-messages-only-4-people-replied?source=rss)
@@ -35,6 +39,7 @@
   - [How to Evaluate LLM Observability Tools](https://blog.promptlayer.com/suggestion-pending-c_q7-bqmwd-2/)
   - [How to Version Prompts for LLM Apps](https://blog.promptlayer.com/suggestion-pending-0bxjnc1hbz-2/)
 - Sploitus.com Exploits RSS Feed
+  - [ccdd-poc exploit](https://sploitus.com/exploit?id=FC7A6C9A-3171-59C6-9828-21470DFE1CF9&utm_source=rss&utm_medium=rss)
   - [Dirty-cow-exploit exploit](https://sploitus.com/exploit?id=28BA8DE6-E5F6-5EDA-B23F-99DD01F58B76&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2024-21182 exploit](https://sploitus.com/exploit?id=7B81CC60-8DF3-5406-918C-BADDE19A2773&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2024-34070 exploit](https://sploitus.com/exploit?id=B2320075-9374-5FD1-9A5C-1FB8B4C7FC00&utm_source=rss&utm_medium=rss)
@@ -107,7 +112,9 @@
   - [CVE-2026-49493 | shd101wyy Markdown Preview Enhanced up to 0.8.27 interpretJS code injection](https://vuldb.com/vuln/368961)
   - [CVE-2026-50733 | shd101wyy Markdown Preview Enhanced up to 0.8.27 window.eval eval injection](https://vuldb.com/vuln/368963)
 - Vulners.com RSS Feed
+  - [ccdd-poc](https://vulners.com/githubexploit/FC7A6C9A-3171-59C6-9828-21470DFE1CF9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-50360](https://vulners.com/circl/CIRCL:CVE-2023-50360?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-12656](https://vulners.com/nvd/NVD:CVE-2025-12656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-12656 Migration, Backup, Staging – WPvivid Backup & Migration <= 0.9.128 - Authenticated (Admin+) Arbitrary Directory Deletion](https://vulners.com/cve/CVE-2025-12656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-12656 Migration, Backup, Staging – WPvivid Backup & Migration <= 0.9.128 - Authenticated (Admin+) Arbitrary Directory Deletion](https://vulners.com/cvelist/CVELIST:CVE-2025-12656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-5088](https://vulners.com/nvd/NVD:CVE-2025-5088?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -115,6 +122,7 @@
   - [CVE-2025-5090](https://vulners.com/nvd/NVD:CVE-2025-5090?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71317](https://vulners.com/nvd/NVD:CVE-2025-71317?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71318](https://vulners.com/nvd/NVD:CVE-2025-71318?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10038](https://vulners.com/nvd/NVD:CVE-2026-10038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10038 Charitable <= 1.8.11.1 - Authenticated (Subscriber+) Insecure Direct Object Reference to Arbitrary Attachment Deletion via 'avatar' Parameter](https://vulners.com/cve/CVE-2026-10038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10038 Charitable <= 1.8.11.1 - Authenticated (Subscriber+) Insecure Direct Object Reference to Arbitrary Attachment Deletion via 'avatar' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-10038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11336](https://vulners.com/nvd/NVD:CVE-2026-11336?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -157,6 +165,7 @@
   - [CVE-2026-25622](https://vulners.com/nvd/NVD:CVE-2026-25622?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25623](https://vulners.com/nvd/NVD:CVE-2026-25623?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25624](https://vulners.com/nvd/NVD:CVE-2026-25624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-34123](https://vulners.com/nvd/NVD:CVE-2026-34123?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36500](https://vulners.com/nvd/NVD:CVE-2026-36500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36501](https://vulners.com/nvd/NVD:CVE-2026-36501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36785](https://vulners.com/nvd/NVD:CVE-2026-36785?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -202,8 +211,14 @@
   - [CVE-2026-49492](https://vulners.com/nvd/NVD:CVE-2026-49492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49493](https://vulners.com/nvd/NVD:CVE-2026-49493?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50733](https://vulners.com/nvd/NVD:CVE-2026-50733?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6239](https://vulners.com/nvd/NVD:CVE-2026-6239?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6240](https://vulners.com/nvd/NVD:CVE-2026-6240?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6241](https://vulners.com/nvd/NVD:CVE-2026-6241?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6242](https://vulners.com/nvd/NVD:CVE-2026-6242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6448](https://vulners.com/nvd/NVD:CVE-2026-6448?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6448 Quiz and Survey Master (QSM) <= 11.1.2 - Authenticated (Admin+) SQL Injection via 'order' and 'limit' Parameters](https://vulners.com/cve/CVE-2026-6448?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6448 Quiz and Survey Master (QSM) <= 11.1.2 - Authenticated (Admin+) SQL Injection via 'order' and 'limit' Parameters](https://vulners.com/cvelist/CVELIST:CVE-2026-6448?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7047](https://vulners.com/nvd/NVD:CVE-2026-7047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7047 Frontend User Notes <= 2.1.1 - Cross-Site Request Forgery to Note Content Modification via 'confirmEdit' Action](https://vulners.com/cve/CVE-2026-7047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7047 Frontend User Notes <= 2.1.1 - Cross-Site Request Forgery to Note Content Modification via 'confirmEdit' Action](https://vulners.com/cvelist/CVELIST:CVE-2026-7047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7473](https://vulners.com/nvd/NVD:CVE-2026-7473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -215,20 +230,26 @@
   - [CVE-2026-7654](https://vulners.com/nvd/NVD:CVE-2026-7654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7654 Admin Columns <= 7.0.18 - Authenticated (Contributor+) PHP Object Injection to Remote Code Execution via Custom Field Meta Value](https://vulners.com/cve/CVE-2026-7654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7654 Admin Columns <= 7.0.18 - Authenticated (Contributor+) PHP Object Injection to Remote Code Execution via Custom Field Meta Value](https://vulners.com/cvelist/CVELIST:CVE-2026-7654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8608](https://vulners.com/nvd/NVD:CVE-2026-8608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8608 Event Monster <= 2.1.0 - Unauthenticated Insufficient Verification of Data Authenticity to Payment Bypass via em_capture_payment AJAX Action](https://vulners.com/cve/CVE-2026-8608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8608 Event Monster <= 2.1.0 - Unauthenticated Insufficient Verification of Data Authenticity to Payment Bypass via em_capture_payment AJAX Action](https://vulners.com/cvelist/CVELIST:CVE-2026-8608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8714](https://vulners.com/nvd/NVD:CVE-2026-8714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8714 Denial-of-Service Vulnerability in RTSP Input Handling on TP-Link's Tapo C520WS](https://vulners.com/cve/CVE-2026-8714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8714 Denial-of-Service Vulnerability in RTSP Input Handling on TP-Link's Tapo C520WS](https://vulners.com/cvelist/CVELIST:CVE-2026-8714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8893](https://vulners.com/nvd/NVD:CVE-2026-8893?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8893 Express Payment For Stripe <= 1.28.0 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode Attributes](https://vulners.com/cve/CVE-2026-8893?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8893 Express Payment For Stripe <= 1.28.0 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode Attributes](https://vulners.com/cvelist/CVELIST:CVE-2026-8893?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8900](https://vulners.com/nvd/NVD:CVE-2026-8900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8900 Simple SEO Slideshow <= 1.2.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode Attributes](https://vulners.com/cve/CVE-2026-8900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8900 Simple SEO Slideshow <= 1.2.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode Attributes](https://vulners.com/cvelist/CVELIST:CVE-2026-8900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8976](https://vulners.com/nvd/NVD:CVE-2026-8976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8976 RSS Aggregator by Feedzy <= 5.1.7 - Missing Authorization to Authenticated (Contributor+) Import Job Creation, Execution, Purge, Log Clearing, and Information Disclosure via Multiple AJAX Sub-Actions](https://vulners.com/cve/CVE-2026-8976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8976 RSS Aggregator by Feedzy <= 5.1.7 - Missing Authorization to Authenticated (Contributor+) Import Job Creation, Execution, Purge, Log Clearing, and Information Disclosure via Multiple AJAX Sub-Actions](https://vulners.com/cvelist/CVELIST:CVE-2026-8976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9270](https://vulners.com/nvd/NVD:CVE-2026-9270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9290](https://vulners.com/nvd/NVD:CVE-2026-9290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9290 WP User Manager <= 2.9.17 - Unauthenticated Path Traversal to Local File Inclusion via 'tab' Query Parameter](https://vulners.com/cve/CVE-2026-9290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9290 WP User Manager <= 2.9.17 - Unauthenticated Path Traversal to Local File Inclusion via 'tab' Query Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-9290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9719](https://vulners.com/nvd/NVD:CVE-2026-9719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9719 LatePoint <= 5.6.0 - Cross-Site Request Forgery via invoices__change_status Action](https://vulners.com/cve/CVE-2026-9719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9719 LatePoint <= 5.6.0 - Cross-Site Request Forgery via invoices__change_status Action](https://vulners.com/cvelist/CVELIST:CVE-2026-9719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9917 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-9917?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -294,3 +315,5 @@
   - [The US Has a Plan to Combat Screwworm. It Involves a Lot More Flies](https://www.wired.com/story/us-plans-to-stop-screwworm-texas-outbreak/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜黄仁勋访韩首站去T1网吧/姚顺雨谈腾讯AI下半场/三大运营商提醒高考考点将屏蔽信号，周边或无法上网](https://www.ifanr.com/1668239?utm_source=rss&utm_medium=rss&utm_campaign=)
