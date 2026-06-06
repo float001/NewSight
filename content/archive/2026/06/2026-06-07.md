@@ -2,7 +2,10 @@
 
 - 2Libra
   - [建议这两天可以领取“文曲星”徽章](https://2libra.com/post/forum-function/5QlGxg7)
+- daringfireball.net
+  - [Trump Lawyer Argues Trump Can Tear Down Statue of Liberty](https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer)
 - Hacker News Frontpage
+  - [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
   - [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
 - johndcook.com
   - [From Kepler to Bessel](https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/)
@@ -48,6 +51,8 @@
   - [Exploit for CVE-2026-42926](https://vulners.com/githubexploit/EADB77CD-DA9A-5377-820A-B7574B833CE4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Progress Moveit_Cloud](https://vulners.com/githubexploit/3DF1045B-9B9F-5637-A194-0B386DD874CC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Kernel-Exploit-Dojo-127](https://vulners.com/githubexploit/B4439F2B-2497-5148-8394-FCABC75D82C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Malicious code in encrypted-archive (npm)](https://vulners.com/ossf/OSSF:MAL-2026-5286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Malicious code in uisp-connector (npm)](https://vulners.com/ossf/OSSF:MAL-2026-5288?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [offensive-claude-533](https://vulners.com/githubexploit/F0C8031D-736F-5B47-B1CB-0332CADCC817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [zero2shell-50](https://vulners.com/githubexploit/7D47D73F-F6D1-58FF-8D8F-B4D1F8B7895A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [zoneminder-rce-poc](https://vulners.com/githubexploit/E4935DAF-02D0-5B8B-8773-0B42AAEF6852?utm_source=rss&utm_medium=rss&utm_campaign=rss)
