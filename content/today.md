@@ -1,4 +1,24 @@
 # 今日安全资讯（2026-06-07）
 
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Classic Buffer Overflow in Tp-Link Tl-Wr940N_Firmware exploit](https://sploitus.com/exploit?id=9F11057B-1156-5DBF-BADF-1F4374B44051&utm_source=rss&utm_medium=rss)
+  - [Kernel-Exploit-Dojo-127 exploit](https://sploitus.com/exploit?id=B4439F2B-2497-5148-8394-FCABC75D82C5&utm_source=rss&utm_medium=rss)
+  - [offensive-claude-533 exploit](https://sploitus.com/exploit?id=F0C8031D-736F-5B47-B1CB-0332CADCC817&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [The Trump administration might take an equity stake in OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/)
+- The Verge
+  - [Summer Game Fest 2026: All the news from gaming&#8217;s busiest week](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026)
+  - [The cutest games from the Wholesome Direct 2026 showcase](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers)
+- VulDB Recent Entries
+  - [CVE-2026-11459 | SecureAge CatchPulse up to 10.9.1 IOCTL saappctl.sys information disclosure](https://vuldb.com/vuln/369078)
+- Vulners.com RSS Feed
+  - [CVE-2026-11435](https://vulners.com/nvd/NVD:CVE-2026-11435?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11436](https://vulners.com/nvd/NVD:CVE-2026-11436?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11437 perfree go-fastdfs-web Installation Endpoint checkServer server-side request forgery](https://vulners.com/cve/CVE-2026-11437?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11437 perfree go-fastdfs-web Installation Endpoint checkServer server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-11437?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11438 theonedev projects improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11438?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Classic Buffer Overflow in Tp-Link Tl-Wr940N_Firmware](https://vulners.com/githubexploit/9F11057B-1156-5DBF-BADF-1F4374B44051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Kernel-Exploit-Dojo-127](https://vulners.com/githubexploit/B4439F2B-2497-5148-8394-FCABC75D82C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [offensive-claude-533](https://vulners.com/githubexploit/F0C8031D-736F-5B47-B1CB-0332CADCC817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
