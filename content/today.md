@@ -2,19 +2,31 @@
 
 - 2Libra
   - [建议这两天可以领取“文曲星”徽章](https://2libra.com/post/forum-function/5QlGxg7)
+- CXSecurity: World Laboratory of Bugtraq 2
+  - [Association Management Script - Multiple Vulnerabilities (IDOR, SQLi, Stored XSS)](https://cxsecurity.com/issue/WLB-2026060001)
+  - [BrandIT Consultancy - Blind Sql Injection](https://cxsecurity.com/issue/WLB-2026060002)
+  - [Lenovo LegionSpace 1.7.11.2 DAService Unquoted Service Path](https://cxsecurity.com/issue/WLB-2026060005)
+  - [Tenable Terrascan Server < = v1.18.3 SSRF and Local File Read](https://cxsecurity.com/issue/WLB-2026060006)
+  - [WordPress Contest Gallery 28.1.4 Unauthenticated Blind SQL Injection](https://cxsecurity.com/issue/WLB-2026060003)
+  - [ZTE H298A / H108N Unauthenticated Credential Exposure](https://cxsecurity.com/issue/WLB-2026060004)
 - daringfireball.net
   - [Trump Lawyer Argues Trump Can Tear Down Statue of Liberty](https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer)
 - Hacker News Frontpage
   - [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
   - [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
+  - [Universal Memory Protocol – a shared format for agent memory](https://universalmemoryprotocol.io/)
 - johndcook.com
   - [From Kepler to Bessel](https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/)
 - PromptLayer
   - [How to Choose LLM Tracking Tools](https://blog.promptlayer.com/suggestion-pending-hd3su5f4jy-2/)
+  - [How to Pilot an Enterprise LLM Visibility Platform](https://blog.promptlayer.com/suggestion-pending-fzqcdr1iq8-2/)
   - [How to Track LLM Analytics in PostHog](https://blog.promptlayer.com/suggestion-pending-oldpsligmp-2/)
 - PwnDefend
   - [Email and Domain Security](https://www.pwndefend.com/2026/06/06/email-and-domain-security/)
 - Sploitus.com Exploits RSS Feed
+  - [epiphan_pearlnano_poc exploit](https://sploitus.com/exploit?id=07A4D8CE-5ABE-50A7-9E9B-6A35A6140D6B&utm_source=rss&utm_medium=rss)
+  - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx exploit](https://sploitus.com/exploit?id=C6B5D6BD-CFEC-571A-B766-B82261AE3DD8&utm_source=rss&utm_medium=rss)
+  - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx exploit](https://sploitus.com/exploit?id=C859A543-A5A3-5864-8659-9856045D369A&utm_source=rss&utm_medium=rss)
   - [Exploit for Classic Buffer Overflow in Tp-Link Tl-Wr940N_Firmware exploit](https://sploitus.com/exploit?id=9F11057B-1156-5DBF-BADF-1F4374B44051&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42926 exploit](https://sploitus.com/exploit?id=EADB77CD-DA9A-5377-820A-B7574B833CE4&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Progress Moveit_Cloud exploit](https://sploitus.com/exploit?id=3DF1045B-9B9F-5637-A194-0B386DD874CC&utm_source=rss&utm_medium=rss)
@@ -22,6 +34,7 @@
   - [offensive-claude-533 exploit](https://sploitus.com/exploit?id=F0C8031D-736F-5B47-B1CB-0332CADCC817&utm_source=rss&utm_medium=rss)
   - [zero2shell-50 exploit](https://sploitus.com/exploit?id=7D47D73F-F6D1-58FF-8D8F-B4D1F8B7895A&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
   - [Sriram Krishnan is leaving his role as White House AI advisor](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)
   - [The Trump administration might take an equity stake in OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/)
   - [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
@@ -47,6 +60,9 @@
   - [CVE-2026-11440 theonedev REST API default-branch improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11441](https://vulners.com/nvd/NVD:CVE-2026-11441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11441 theonedev Pull Request issues canAccessIssue improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [epiphan_pearlnano_poc](https://vulners.com/githubexploit/07A4D8CE-5ABE-50A7-9E9B-6A35A6140D6B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx](https://vulners.com/githubexploit/C6B5D6BD-CFEC-571A-B766-B82261AE3DD8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx](https://vulners.com/githubexploit/C859A543-A5A3-5864-8659-9856045D369A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Classic Buffer Overflow in Tp-Link Tl-Wr940N_Firmware](https://vulners.com/githubexploit/9F11057B-1156-5DBF-BADF-1F4374B44051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42926](https://vulners.com/githubexploit/EADB77CD-DA9A-5377-820A-B7574B833CE4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Progress Moveit_Cloud](https://vulners.com/githubexploit/3DF1045B-9B9F-5637-A194-0B386DD874CC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
