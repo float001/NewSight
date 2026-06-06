@@ -2,15 +2,19 @@
 
 - 2Libra
   - [今天潘多拉维护了吗？](https://2libra.com/post/forum-function/1rOp5YE)
+  - [入站第一天就获得了卡皮巴拉](https://2libra.com/post/forum-function/jbEx14X)
   - [关于黄金基金的一些问题求教](https://2libra.com/post/financial-management/-i3poy9)
   - [求助：9.1 后出生的宝宝，是多上一个小班还是多上一个大班](https://2libra.com/post/interaction/ZpzS1eT)
 - 36氪
   - [9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事](https://36kr.com/p/3840996342073604?f=rss)
   - [SpaceX IPO已获得2倍认购资金](https://36kr.com/newsflashes/3841030859081984?f=rss)
   - [SpaceX与谷歌达成每月9.2亿美元的云服务协议](https://36kr.com/newsflashes/3841028145236227?f=rss)
+  - [加息预期升温科技股遭抛售 隔夜美股市值一夜损失近2.3万亿美元](https://36kr.com/newsflashes/3841127080970503?f=rss)
   - [华泰证券：5月非农再超预期推升美联储加息必要性](https://36kr.com/newsflashes/3841105138141443?f=rss)
   - [境外发行人前5个月发行规模超去年全年 外资积极入场助点心债热度高企](https://36kr.com/newsflashes/3841111938877958?f=rss)
   - [沪士电子、曦华科技递表港交所](https://36kr.com/newsflashes/3841109918140930?f=rss)
+  - [淘宝闪购“冰冰节”全面开启，联合百万商家共拓即时零售夏日增量市场](https://36kr.com/newsflashes/3841144920459784?f=rss)
+  - [网传比亚迪自研人形机器人代号“尧舜禹”、年内自用2万台 比亚迪否认](https://36kr.com/newsflashes/3841124276423176?f=rss)
   - [美股三大指数收盘集体下跌，纳指跌超4%](https://36kr.com/newsflashes/3841026664204546?f=rss)
   - [花旗维持对美联储年内降息3次的预测](https://36kr.com/newsflashes/3841029124016387?f=rss)
   - [误发世界杯“0元票”　国际足联催球迷补票款](https://36kr.com/newsflashes/3841114245892355?f=rss)
@@ -36,6 +40,7 @@
   - [Google to pay SpaceX $920M a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
   - [Launch HN: General Instinct (YC P26) – Frontier models on edge devices](https://news.ycombinator.com/item?id=48414869)
   - [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)
+  - [OpenAI Help: Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
   - [Show HN: ABC Classic 100 Rankings visualised](https://classic100.gotski.workers.dev/)
   - [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
   - [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
@@ -55,6 +60,8 @@
   - [How to Build a Prompt Hub](https://blog.promptlayer.com/suggestion-pending-b5-cfui_gu-2/)
   - [How to Evaluate LLM Observability Tools](https://blog.promptlayer.com/suggestion-pending-c_q7-bqmwd-2/)
   - [How to Version Prompts for LLM Apps](https://blog.promptlayer.com/suggestion-pending-0bxjnc1hbz-2/)
+- simonwillison.net
+  - [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [ccdd-poc exploit](https://sploitus.com/exploit?id=FC7A6C9A-3171-59C6-9828-21470DFE1CF9&utm_source=rss&utm_medium=rss)
   - [Dirty-cow-exploit exploit](https://sploitus.com/exploit?id=28BA8DE6-E5F6-5EDA-B23F-99DD01F58B76&utm_source=rss&utm_medium=rss)
@@ -343,3 +350,5 @@
   - [早报｜黄仁勋访韩首站去T1网吧/姚顺雨谈腾讯AI下半场/三大运营商提醒高考考点将屏蔽信号，周边或无法上网](https://www.ifanr.com/1668239?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [企业文档安全最佳实践（一）：告别混乱，从“分类分级与密级标识”开始](https://blog.nsfocus.net/%e4%bc%81%e4%b8%9a%e6%96%87%e6%a1%a3%e5%ae%89%e5%85%a8%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5%ef%bc%88%e4%b8%80%ef%bc%89%ef%bc%9a%e5%91%8a%e5%88%ab%e6%b7%b7%e4%b9%b1%ef%bc%8c%e4%bb%8e%e5%88%86/)
+- 量子位 QbitAI
+  - [港股鞋王千百度，一夜完成AI数据公司转型](https://www.qbitai.com/2026/06/431056.html)
