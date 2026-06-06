@@ -8,8 +8,12 @@
   - [9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事](https://36kr.com/p/3840996342073604?f=rss)
   - [SpaceX IPO已获得2倍认购资金](https://36kr.com/newsflashes/3841030859081984?f=rss)
   - [SpaceX与谷歌达成每月9.2亿美元的云服务协议](https://36kr.com/newsflashes/3841028145236227?f=rss)
+  - [华泰证券：5月非农再超预期推升美联储加息必要性](https://36kr.com/newsflashes/3841105138141443?f=rss)
+  - [境外发行人前5个月发行规模超去年全年 外资积极入场助点心债热度高企](https://36kr.com/newsflashes/3841111938877958?f=rss)
+  - [沪士电子、曦华科技递表港交所](https://36kr.com/newsflashes/3841109918140930?f=rss)
   - [美股三大指数收盘集体下跌，纳指跌超4%](https://36kr.com/newsflashes/3841026664204546?f=rss)
   - [花旗维持对美联储年内降息3次的预测](https://36kr.com/newsflashes/3841029124016387?f=rss)
+  - [误发世界杯“0元票”　国际足联催球迷补票款](https://36kr.com/newsflashes/3841114245892355?f=rss)
 - 404 Media
   - [ICE’s Plan to Let Cops Around the Country Scan Faces to Verify Immigration Status](https://www.404media.co/ices-plan-to-let-cops-around-the-country-scan-faces-to-verify-immigration-status/)
 - Ars Technica
@@ -18,6 +22,7 @@
   - [Highly reviewed speaker can be hacked over the air to infect connected devices](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/)
   - [S&P 500 blocks fast SpaceX entry, won’t waive rule for unprofitable AI firms](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
 - Cybersecurity News
+  - [CISA Warns of Actively Exploited SolarWinds Serv-U Flaw](https://securityonline.info/serv-u-vulnerability-cve-2026-28318/)
   - [PHANTOMPULSE Malware Analysis: Advanced Cryptographic Implants Exploiting Blockchain Networks](https://securityonline.info/phantompulse-malware-analysis-blockchain-c2/)
 - daringfireball.net
   - [Elon Musk’s X Is a Freak Show](https://www.natesilver.net/p/social-media-has-become-a-freak-show)
@@ -243,6 +248,7 @@
   - [CVE-2026-7654](https://vulners.com/nvd/NVD:CVE-2026-7654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7654 Admin Columns <= 7.0.18 - Authenticated (Contributor+) PHP Object Injection to Remote Code Execution via Custom Field Meta Value](https://vulners.com/cve/CVE-2026-7654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7654 Admin Columns <= 7.0.18 - Authenticated (Contributor+) PHP Object Injection to Remote Code Execution via Custom Field Meta Value](https://vulners.com/cvelist/CVELIST:CVE-2026-7654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8438](https://vulners.com/nvd/NVD:CVE-2026-8438?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8608](https://vulners.com/nvd/NVD:CVE-2026-8608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8608 Event Monster <= 2.1.0 - Unauthenticated Insufficient Verification of Data Authenticity to Payment Bypass via em_capture_payment AJAX Action](https://vulners.com/cve/CVE-2026-8608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8608 Event Monster <= 2.1.0 - Unauthenticated Insufficient Verification of Data Authenticity to Payment Bypass via em_capture_payment AJAX Action](https://vulners.com/cvelist/CVELIST:CVE-2026-8608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -255,10 +261,13 @@
   - [CVE-2026-8900](https://vulners.com/nvd/NVD:CVE-2026-8900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8900 Simple SEO Slideshow <= 1.2.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode Attributes](https://vulners.com/cve/CVE-2026-8900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8900 Simple SEO Slideshow <= 1.2.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode Attributes](https://vulners.com/cvelist/CVELIST:CVE-2026-8900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8901](https://vulners.com/nvd/NVD:CVE-2026-8901?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8976](https://vulners.com/nvd/NVD:CVE-2026-8976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8976 RSS Aggregator by Feedzy <= 5.1.7 - Missing Authorization to Authenticated (Contributor+) Import Job Creation, Execution, Purge, Log Clearing, and Information Disclosure via Multiple AJAX Sub-Actions](https://vulners.com/cve/CVE-2026-8976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8976 RSS Aggregator by Feedzy <= 5.1.7 - Missing Authorization to Authenticated (Contributor+) Import Job Creation, Execution, Purge, Log Clearing, and Information Disclosure via Multiple AJAX Sub-Actions](https://vulners.com/cvelist/CVELIST:CVE-2026-8976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9008](https://vulners.com/nvd/NVD:CVE-2026-9008?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9270](https://vulners.com/nvd/NVD:CVE-2026-9270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9281](https://vulners.com/nvd/NVD:CVE-2026-9281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9290](https://vulners.com/nvd/NVD:CVE-2026-9290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9290 WP User Manager <= 2.9.17 - Unauthenticated Path Traversal to Local File Inclusion via 'tab' Query Parameter](https://vulners.com/cve/CVE-2026-9290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9290 WP User Manager <= 2.9.17 - Unauthenticated Path Traversal to Local File Inclusion via 'tab' Query Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-9290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -291,6 +300,7 @@
   - [Exploit for CVE-2026-25860](https://vulners.com/githubexploit/D17E9FD1-70F5-5AA8-8A39-4D40457E2D9D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-34908](https://vulners.com/githubexploit/11E8CD3B-3967-5005-9757-30C2B9C0E571?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React](https://vulners.com/githubexploit/3DCD9D30-4F52-556E-8799-B5F055F48E4B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Initialization in Linux Linux_Kernel](https://vulners.com/githubexploit/3A0FB196-510A-59F0-AD4E-7E47BB4CD069?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2MPM-MP7X-8JHG vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-2MPM-MP7X-8JHG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2RPM-HRH4-422J vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-2RPM-HRH4-422J?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2WCG-7WR3-Q72Q vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-2WCG-7WR3-Q72Q?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -329,6 +339,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [300 款车、450 亿美元订单：高通汽车芯片的中国棋局](https://www.ifanr.com/1668242?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋访韩首站去T1网吧/姚顺雨谈腾讯AI下半场/三大运营商提醒高考考点将屏蔽信号，周边或无法上网](https://www.ifanr.com/1668239?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [企业文档安全最佳实践（一）：告别混乱，从“分类分级与密级标识”开始](https://blog.nsfocus.net/%e4%bc%81%e4%b8%9a%e6%96%87%e6%a1%a3%e5%ae%89%e5%85%a8%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5%ef%bc%88%e4%b8%80%ef%bc%89%ef%bc%9a%e5%91%8a%e5%88%ab%e6%b7%b7%e4%b9%b1%ef%bc%8c%e4%bb%8e%e5%88%86/)
