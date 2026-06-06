@@ -2,7 +2,14 @@
 
 - 2Libra
   - [今天潘多拉维护了吗？](https://2libra.com/post/forum-function/1rOp5YE)
+  - [关于黄金基金的一些问题求教](https://2libra.com/post/financial-management/-i3poy9)
   - [求助：9.1 后出生的宝宝，是多上一个小班还是多上一个大班](https://2libra.com/post/interaction/ZpzS1eT)
+- 36氪
+  - [9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事](https://36kr.com/p/3840996342073604?f=rss)
+  - [SpaceX IPO已获得2倍认购资金](https://36kr.com/newsflashes/3841030859081984?f=rss)
+  - [SpaceX与谷歌达成每月9.2亿美元的云服务协议](https://36kr.com/newsflashes/3841028145236227?f=rss)
+  - [美股三大指数收盘集体下跌，纳指跌超4%](https://36kr.com/newsflashes/3841026664204546?f=rss)
+  - [花旗维持对美联储年内降息3次的预测](https://36kr.com/newsflashes/3841029124016387?f=rss)
 - 404 Media
   - [ICE’s Plan to Let Cops Around the Country Scan Faces to Verify Immigration Status](https://www.404media.co/ices-plan-to-let-cops-around-the-country-scan-faces-to-verify-immigration-status/)
 - Ars Technica
@@ -10,6 +17,8 @@
   - [Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it](https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/)
   - [Highly reviewed speaker can be hacked over the air to infect connected devices](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/)
   - [S&P 500 blocks fast SpaceX entry, won’t waive rule for unprofitable AI firms](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
+- Cybersecurity News
+  - [PHANTOMPULSE Malware Analysis: Advanced Cryptographic Implants Exploiting Blockchain Networks](https://securityonline.info/phantompulse-malware-analysis-blockchain-c2/)
 - daringfireball.net
   - [Elon Musk’s X Is a Freak Show](https://www.natesilver.net/p/social-media-has-become-a-freak-show)
   - [Nieman Journalism Lab: Twitter/X Punishes Accounts That Post Links](https://www.niemanlab.org/2026/04/do-links-hurt-news-publishers-on-twitter-our-analysis-suggests-yes/)
@@ -22,6 +31,7 @@
   - [Google to pay SpaceX $920M a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
   - [Launch HN: General Instinct (YC P26) – Frontier models on edge devices](https://news.ycombinator.com/item?id=48414869)
   - [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)
+  - [Show HN: ABC Classic 100 Rankings visualised](https://classic100.gotski.workers.dev/)
   - [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
   - [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
 - HackerNoon
@@ -32,6 +42,8 @@
   - [Why all the PRs?](https://idiallo.com/blog/why-all-the-prs?src=feed)
 - IEEE Spectrum
   - [50 Years of The Institute](https://spectrum.ieee.org/50-years-ieee-the-institute)
+- joanwestenberg.com
+  - [In pursuit of desirable difficulties](https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/)
 - pluralistic.net
   - [Pluralistic: Refining humanity (05 Jun 2026)](https://pluralistic.net/2026/06/05/defining-humanity/)
 - PromptLayer
@@ -112,6 +124,7 @@
   - [CVE-2026-49493 | shd101wyy Markdown Preview Enhanced up to 0.8.27 interpretJS code injection](https://vuldb.com/vuln/368961)
   - [CVE-2026-50733 | shd101wyy Markdown Preview Enhanced up to 0.8.27 window.eval eval injection](https://vuldb.com/vuln/368963)
 - Vulners.com RSS Feed
+  - [[SECURITY] Fedora 43 Update: thunderbird-149.0.1-3.fc43](https://vulners.com/fedora/FEDORA:A6E476A096?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ccdd-poc](https://vulners.com/githubexploit/FC7A6C9A-3171-59C6-9828-21470DFE1CF9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-50360](https://vulners.com/circl/CIRCL:CVE-2023-50360?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-12656](https://vulners.com/nvd/NVD:CVE-2025-12656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -317,3 +330,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜黄仁勋访韩首站去T1网吧/姚顺雨谈腾讯AI下半场/三大运营商提醒高考考点将屏蔽信号，周边或无法上网](https://www.ifanr.com/1668239?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [企业文档安全最佳实践（一）：告别混乱，从“分类分级与密级标识”开始](https://blog.nsfocus.net/%e4%bc%81%e4%b8%9a%e6%96%87%e6%a1%a3%e5%ae%89%e5%85%a8%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5%ef%bc%88%e4%b8%80%ef%bc%89%ef%bc%9a%e5%91%8a%e5%88%ab%e6%b7%b7%e4%b9%b1%ef%bc%8c%e4%bb%8e%e5%88%86/)
