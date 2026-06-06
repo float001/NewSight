@@ -2,6 +2,10 @@
 
 - 2Libra
   - [建议这两天可以领取“文曲星”徽章](https://2libra.com/post/forum-function/5QlGxg7)
+- Hacker News Frontpage
+  - [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
+- johndcook.com
+  - [From Kepler to Bessel](https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/)
 - PromptLayer
   - [How to Choose LLM Tracking Tools](https://blog.promptlayer.com/suggestion-pending-hd3su5f4jy-2/)
   - [How to Track LLM Analytics in PostHog](https://blog.promptlayer.com/suggestion-pending-oldpsligmp-2/)
@@ -10,11 +14,14 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Classic Buffer Overflow in Tp-Link Tl-Wr940N_Firmware exploit](https://sploitus.com/exploit?id=9F11057B-1156-5DBF-BADF-1F4374B44051&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42926 exploit](https://sploitus.com/exploit?id=EADB77CD-DA9A-5377-820A-B7574B833CE4&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Progress Moveit_Cloud exploit](https://sploitus.com/exploit?id=3DF1045B-9B9F-5637-A194-0B386DD874CC&utm_source=rss&utm_medium=rss)
   - [Kernel-Exploit-Dojo-127 exploit](https://sploitus.com/exploit?id=B4439F2B-2497-5148-8394-FCABC75D82C5&utm_source=rss&utm_medium=rss)
   - [offensive-claude-533 exploit](https://sploitus.com/exploit?id=F0C8031D-736F-5B47-B1CB-0332CADCC817&utm_source=rss&utm_medium=rss)
+  - [zero2shell-50 exploit](https://sploitus.com/exploit?id=7D47D73F-F6D1-58FF-8D8F-B4D1F8B7895A&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Sriram Krishnan is leaving his role as White House AI advisor](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)
   - [The Trump administration might take an equity stake in OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/)
+  - [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
 - The Verge
   - [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun)
   - [Summer Game Fest 2026: All the news from gaming&#8217;s busiest week](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026)
@@ -29,15 +36,20 @@
   - [CVE-2026-11437 perfree go-fastdfs-web Installation Endpoint checkServer server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-11437?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11438](https://vulners.com/nvd/NVD:CVE-2026-11438?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11438 theonedev projects improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11438?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11439](https://vulners.com/nvd/NVD:CVE-2026-11439?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11439 theonedev Parent Project projects improper authorization](https://vulners.com/cve/CVE-2026-11439?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11439 theonedev Parent Project projects improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11439?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11440](https://vulners.com/nvd/NVD:CVE-2026-11440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11440 theonedev REST API default-branch improper authorization](https://vulners.com/cve/CVE-2026-11440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11440 theonedev REST API default-branch improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11441](https://vulners.com/nvd/NVD:CVE-2026-11441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11441 theonedev Pull Request issues canAccessIssue improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Classic Buffer Overflow in Tp-Link Tl-Wr940N_Firmware](https://vulners.com/githubexploit/9F11057B-1156-5DBF-BADF-1F4374B44051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42926](https://vulners.com/githubexploit/EADB77CD-DA9A-5377-820A-B7574B833CE4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for SQL Injection in Progress Moveit_Cloud](https://vulners.com/githubexploit/3DF1045B-9B9F-5637-A194-0B386DD874CC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Kernel-Exploit-Dojo-127](https://vulners.com/githubexploit/B4439F2B-2497-5148-8394-FCABC75D82C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [offensive-claude-533](https://vulners.com/githubexploit/F0C8031D-736F-5B47-B1CB-0332CADCC817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [zero2shell-50](https://vulners.com/githubexploit/7D47D73F-F6D1-58FF-8D8F-B4D1F8B7895A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [zoneminder-rce-poc](https://vulners.com/githubexploit/E4935DAF-02D0-5B8B-8773-0B42AAEF6852?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
