@@ -14,6 +14,7 @@
 - Hacker News Frontpage
   - [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
   - [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
+  - [They are looting your life savings](https://social.bau-ha.us/@raganwald/116705256401454865)
   - [Universal Memory Protocol – a shared format for agent memory](https://universalmemoryprotocol.io/)
 - johndcook.com
   - [From Kepler to Bessel](https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/)
@@ -23,6 +24,7 @@
   - [How to Track LLM Analytics in PostHog](https://blog.promptlayer.com/suggestion-pending-oldpsligmp-2/)
 - PwnDefend
   - [Email and Domain Security](https://www.pwndefend.com/2026/06/06/email-and-domain-security/)
+  - [The State of DNS Security — Where the Top Million Stands: DNSSEC, Email Authentication & DANE by the Numbers](https://www.pwndefend.com/2026/06/06/the-state-of-dns-security-where-the-top-million-stands-dnssec-email-authentication-dane-by-the-numbers/)
 - Sploitus.com Exploits RSS Feed
   - [epiphan_pearlnano_poc exploit](https://sploitus.com/exploit?id=07A4D8CE-5ABE-50A7-9E9B-6A35A6140D6B&utm_source=rss&utm_medium=rss)
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx exploit](https://sploitus.com/exploit?id=C6B5D6BD-CFEC-571A-B766-B82261AE3DD8&utm_source=rss&utm_medium=rss)
@@ -60,6 +62,8 @@
   - [CVE-2026-11440 theonedev REST API default-branch improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11441](https://vulners.com/nvd/NVD:CVE-2026-11441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11441 theonedev Pull Request issues canAccessIssue improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36229](https://vulners.com/attackerkb/AKB:1FED9CB4-F8CF-496C-A939-6372AD6EDD50?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36229](https://vulners.com/nvd/NVD:CVE-2026-36229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [epiphan_pearlnano_poc](https://vulners.com/githubexploit/07A4D8CE-5ABE-50A7-9E9B-6A35A6140D6B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx](https://vulners.com/githubexploit/C6B5D6BD-CFEC-571A-B766-B82261AE3DD8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx](https://vulners.com/githubexploit/C859A543-A5A3-5864-8659-9856045D369A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
