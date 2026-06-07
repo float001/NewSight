@@ -6,6 +6,7 @@
   - [【投票】今年的作文题目你们看了吗？我感觉今年的题目比较简单](https://2libra.com/post/social-observation/SZZBm7a)
   - [【💰】1.昨天跑步累劈了；2.昨天金币池；3.今天情绪稳定；4.高考加油。](https://2libra.com/post/forum-function/WLV3m1u)
   - [建议这两天可以领取“文曲星”徽章](https://2libra.com/post/forum-function/5QlGxg7)
+  - [求推荐 Win 端轻量级代码差异比对软件](https://2libra.com/post/questions/msQUQvx)
 - 36氪
   - [2026年全国统一高考今天开考](https://36kr.com/newsflashes/3842409471429125?f=rss)
   - [2026年度电影总票房已突破160亿元](https://36kr.com/newsflashes/3842558673242628?f=rss)
@@ -18,10 +19,13 @@
   - [中际旭创：公司产能在持续扩建中](https://36kr.com/newsflashes/3842711379446018?f=rss)
   - [京东方A回应存储涨价对显示行业的影响](https://36kr.com/newsflashes/3842708490799369?f=rss)
   - [京东方A：布局玻璃基封装载板、钙钛矿和MicroLED光互联相关应用作为未来业务发展的重要方向】](https://36kr.com/newsflashes/3842735724333569?f=rss)
+  - [优必选：优世界超仿生人形机器人首发预订单量累计超2110台](https://36kr.com/newsflashes/3842800238692609?f=rss)
   - [包钢股份：成功研发并批量生产超高强稀土耐磨钢](https://36kr.com/newsflashes/3842412186142985?f=rss)
+  - [华恒生物：香港联交所审议公司发行H股并在主板挂牌上市申请](https://36kr.com/newsflashes/3842801052174601?f=rss)
   - [国开行：前4月发放4406亿元贷款支持基础设施建设](https://36kr.com/newsflashes/3842411503192576?f=rss)
   - [多家低成本航空公司对登机箱登机收费](https://36kr.com/newsflashes/3842556634778113?f=rss)
   - [多家供给方下调算力价格 算力普惠再提速](https://36kr.com/newsflashes/3842626008647945?f=rss)
+  - [孚能科技：股东拟合计减持不超2%公司股份](https://36kr.com/newsflashes/3842801849076233?f=rss)
   - [小米机器人或将亮相小米17T发布会](https://36kr.com/newsflashes/3842624097569288?f=rss)
   - [崔东树：2025年以来全国乘用车行业促销与降级均回归理性](https://36kr.com/newsflashes/3842463782390272?f=rss)
   - [广州南沙与深圳宝安拟启动住房公积金异地使用](https://36kr.com/newsflashes/3842447807645952?f=rss)
@@ -36,6 +40,7 @@
   - [算力普惠再提速 全球首个“预制算力中心底座”正式投用](https://36kr.com/newsflashes/3842587763493382?f=rss)
   - [经济日报：共享单车不能重收费轻服务](https://36kr.com/newsflashes/3842488832199170?f=rss)
   - [聚杰微纤：已着手建设纱线测试生产线，计划逐步实现原料自给](https://36kr.com/newsflashes/3842589307423235?f=rss)
+  - [金时科技：控股子公司拟投建千吨级多孔炭产线项目](https://36kr.com/newsflashes/3842802928306434?f=rss)
   - [韩国今年1至5月化妆品出口额突破56亿美元](https://36kr.com/newsflashes/3842527743052037?f=rss)
   - [韩国投资者持续买入中国硬科技](https://36kr.com/newsflashes/3842433670941190?f=rss)
   - [黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案](https://36kr.com/newsflashes/3842764594792708?f=rss)
@@ -103,6 +108,7 @@
   - [The Trump administration might take an equity stake in OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/)
   - [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
 - The Decoder
+  - [Anthropic poaches OpenAI's second-ever chip engineer as both companies race toward IPOs](https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/)
   - [Researchers pinpoint why larger language models pick up skills that small ones miss](https://the-decoder.com/researchers-pinpoint-why-larger-language-models-pick-up-skills-that-small-ones-miss/)
 - The Verge
   - [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun)
