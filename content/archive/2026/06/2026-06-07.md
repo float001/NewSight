@@ -77,6 +77,7 @@
   - [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
   - [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
   - [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
+  - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
   - [They are looting your life savings](https://social.bau-ha.us/@raganwald/116705256401454865)
   - [Universal Memory Protocol – a shared format for agent memory](https://universalmemoryprotocol.io/)
 - Hexacorn
@@ -98,6 +99,7 @@
   - [Email and Domain Security](https://www.pwndefend.com/2026/06/06/email-and-domain-security/)
   - [The State of DNS Security — Where the Top Million Stands: DNSSEC, Email Authentication & DANE by the Numbers](https://www.pwndefend.com/2026/06/06/the-state-of-dns-security-where-the-top-million-stands-dnssec-email-authentication-dane-by-the-numbers/)
 - Sploitus.com Exploits RSS Feed
+  - [bugbounty-toolkit exploit](https://sploitus.com/exploit?id=162F180D-9B00-5484-BB77-3E6F508C797B&utm_source=rss&utm_medium=rss)
   - [defi-exploit-pipeline exploit](https://sploitus.com/exploit?id=1E6E1A5B-217E-5BA0-A4DA-85AB7D09A63D&utm_source=rss&utm_medium=rss)
   - [epiphan_pearlnano_poc exploit](https://sploitus.com/exploit?id=07A4D8CE-5ABE-50A7-9E9B-6A35A6140D6B&utm_source=rss&utm_medium=rss)
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx exploit](https://sploitus.com/exploit?id=C6B5D6BD-CFEC-571A-B766-B82261AE3DD8&utm_source=rss&utm_medium=rss)
@@ -117,6 +119,7 @@
 - The Decoder
   - [Anthropic poaches OpenAI's second-ever chip engineer as both companies race toward IPOs](https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/)
   - [ChatGPT's new Lockdown Mode lets you disable web access and more to protect sensitive data from prompt injection](https://the-decoder.com/chatgpts-new-lockdown-mode-lets-you-disable-web-access-and-more-to-protect-sensitive-data-from-prompt-injection/)
+  - [Perplexity's "Search as Code" lets AI models write their own search pipelines instead of calling fixed APIs](https://the-decoder.com/perplexitys-search-as-code-lets-ai-models-write-their-own-search-pipelines-instead-of-calling-fixed-apis/)
   - [Researchers pinpoint why larger language models pick up skills that small ones miss](https://the-decoder.com/researchers-pinpoint-why-larger-language-models-pick-up-skills-that-small-ones-miss/)
 - The Verge
   - [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun)
@@ -143,11 +146,21 @@
   - [CVE-2026-11478 | kokke tiny-regex-c up to f2632c6d9ed25272987471cdb8b70395c2460bdb Pattern re.c matchstar redos (Issue 100)](https://vuldb.com/vuln/369098)
   - [CVE-2026-11479 | yoanbernabeu grepai 0.35.0 Qdrant Backend indexer/chunker.go weak hash (Issue 247)](https://vuldb.com/vuln/369099)
   - [CVE-2026-11480 | Chengdu Everbrite Network Technology BeikeShop up to 1.6.0.22 Admin Design Builder Endpoint admin.php settings.value sql injection](https://vuldb.com/vuln/369100)
+  - [CVE-2026-11487 | Neovim up to 0.12.2 View Branch secure.lua M.read path command injection (Issue 39914)](https://vuldb.com/vuln/369107)
+  - [CVE-2026-11488 | code-projects Simple Flight Ticket Booking System 1.0 POST Parameter checkUser.php Username sql injection](https://vuldb.com/vuln/369108)
+  - [CVE-2026-11489 | code-projects Online Music Site 1.0 AdminDeleteAlbum.php ID sql injection](https://vuldb.com/vuln/369109)
+  - [CVE-2026-11490 | code-projects Online Music Site 1.0 /Frontend/Search.php Category sql injection](https://vuldb.com/vuln/369110)
+  - [CVE-2026-11491 | CodeAstro Human Resource Management System 1.0 Add Notice Page /notice/All_notice Notice Title cross site scripting](https://vuldb.com/vuln/369111)
+  - [CVE-2026-11492 | D-Link DIR-823G 1.0.2B05 vsftpd /etc/vsftpd.conf least privilege violation](https://vuldb.com/vuln/369112)
+  - [CVE-2026-11493 | Tenda AC15 15.03.05.19 Samba /etc_ro/smb.conf weak password](https://vuldb.com/vuln/369113)
+  - [CVE-2026-11494 | TOTOLINK AC1200 T8 4.1.5cu.8611 vsftpd /etc/vsftpd.conf least privilege violation](https://vuldb.com/vuln/369114)
+  - [CVE-2026-11495 | CodeAstro Ingredients Stock Management System 1.0 add_stock.php ID sql injection](https://vuldb.com/vuln/369115)
   - [CVE-2026-26422 | Clash Verge Rev clash-verge-service-ipc up to 2.2.x IPC Endpoint permission assignment](https://vuldb.com/vuln/369079)
 - Vulners.com RSS Feed
   - [[SECURITY] Fedora 43 Update: keylime-7.14.2-1.fc43](https://vulners.com/fedora/FEDORA:A21577992B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: libssh2-1.11.1-6.fc43](https://vulners.com/fedora/FEDORA:419FC70BC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: perl-CryptX-0.089-1.fc43](https://vulners.com/fedora/FEDORA:8BCFF7992B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [bugbounty-toolkit](https://vulners.com/githubexploit/162F180D-9B00-5484-BB77-3E6F508C797B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11435](https://vulners.com/nvd/NVD:CVE-2026-11435?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11436](https://vulners.com/nvd/NVD:CVE-2026-11436?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11437](https://vulners.com/nvd/NVD:CVE-2026-11437?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -182,6 +195,7 @@
   - [CVE-2026-11456](https://vulners.com/nvd/NVD:CVE-2026-11456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11457](https://vulners.com/nvd/NVD:CVE-2026-11457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11458](https://vulners.com/nvd/NVD:CVE-2026-11458?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11459](https://vulners.com/nvd/NVD:CVE-2026-11459?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-26422](https://vulners.com/nvd/NVD:CVE-2026-26422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36229](https://vulners.com/attackerkb/AKB:1FED9CB4-F8CF-496C-A939-6372AD6EDD50?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36229](https://vulners.com/nvd/NVD:CVE-2026-36229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -203,6 +217,7 @@
   - [zoneminder-rce-poc](https://vulners.com/githubexploit/E4935DAF-02D0-5B8B-8773-0B42AAEF6852?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [How to Watch Apple’s WWDC 2026 Keynote—and What to Expect](https://www.wired.com/story/how-to-watch-apple-wwdc-2026/)
+  - [Lauf eElja Electric Mountain Bike Review: Power Trip](https://www.wired.com/review/lauf-eelja-electric-mountain-bike/)
 - 不安全
   - [OpenAI推出锁定模式 可降低数据泄露风险](https://buaq.net/go-421462.html)
 - 代码审计星球
