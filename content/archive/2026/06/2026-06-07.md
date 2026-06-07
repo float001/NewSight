@@ -3,6 +3,7 @@
 - 2Libra
   - [L 站小作文将成为历史](https://2libra.com/post/forum-function/7-LWBRq)
   - [【天上天下】返程飞机上的随手拍～ ☀️☁️🌧️](https://2libra.com/post/travel-logs/BzhPaIO)
+  - [【投票】今年的作文题目你们看了吗？我感觉今年的题目比较简单](https://2libra.com/post/social-observation/SZZBm7a)
   - [【💰】1.昨天跑步累劈了；2.昨天金币池；3.今天情绪稳定；4.高考加油。](https://2libra.com/post/forum-function/WLV3m1u)
   - [建议这两天可以领取“文曲星”徽章](https://2libra.com/post/forum-function/5QlGxg7)
 - 36氪
@@ -16,6 +17,7 @@
   - [中国银河证券：非农走强并不意味着美联储年内加息](https://36kr.com/newsflashes/3842691789654273?f=rss)
   - [中际旭创：公司产能在持续扩建中](https://36kr.com/newsflashes/3842711379446018?f=rss)
   - [京东方A回应存储涨价对显示行业的影响](https://36kr.com/newsflashes/3842708490799369?f=rss)
+  - [京东方A：布局玻璃基封装载板、钙钛矿和MicroLED光互联相关应用作为未来业务发展的重要方向】](https://36kr.com/newsflashes/3842735724333569?f=rss)
   - [包钢股份：成功研发并批量生产超高强稀土耐磨钢](https://36kr.com/newsflashes/3842412186142985?f=rss)
   - [国开行：前4月发放4406亿元贷款支持基础设施建设](https://36kr.com/newsflashes/3842411503192576?f=rss)
   - [多家低成本航空公司对登机箱登机收费](https://36kr.com/newsflashes/3842556634778113?f=rss)
@@ -28,12 +30,15 @@
   - [我国清洁低碳氢煤混烧技术取得重大突破](https://36kr.com/newsflashes/3842408617658885?f=rss)
   - [比特币升破61000美元，日内涨0.34%](https://36kr.com/newsflashes/3842435675932928?f=rss)
   - [沪市下周近千亿红包来袭，共有超8000亿“红包”待发放](https://36kr.com/newsflashes/3842593852344833?f=rss)
+  - [沪市公司将密集分红 未来一周A股分红近千亿元](https://36kr.com/newsflashes/3842799319435784?f=rss)
   - [百度成立数字人创新业务部](https://36kr.com/newsflashes/3842464225921536?f=rss)
+  - [百度成立数字人创新业务部](https://36kr.com/newsflashes/3842798722812164?f=rss)
   - [算力普惠再提速 全球首个“预制算力中心底座”正式投用](https://36kr.com/newsflashes/3842587763493382?f=rss)
   - [经济日报：共享单车不能重收费轻服务](https://36kr.com/newsflashes/3842488832199170?f=rss)
   - [聚杰微纤：已着手建设纱线测试生产线，计划逐步实现原料自给](https://36kr.com/newsflashes/3842589307423235?f=rss)
   - [韩国今年1至5月化妆品出口额突破56亿美元](https://36kr.com/newsflashes/3842527743052037?f=rss)
   - [韩国投资者持续买入中国硬科技](https://36kr.com/newsflashes/3842433670941190?f=rss)
+  - [黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案](https://36kr.com/newsflashes/3842764594792708?f=rss)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Association Management Script - Multiple Vulnerabilities (IDOR, SQLi, Stored XSS)](https://cxsecurity.com/issue/WLB-2026060001)
   - [BrandIT Consultancy - Blind Sql Injection](https://cxsecurity.com/issue/WLB-2026060002)
@@ -43,6 +48,7 @@
   - [ZTE H298A / H108N Unauthenticated Credential Exposure](https://cxsecurity.com/issue/WLB-2026060004)
 - Cybersecurity News
   - [Cryptographic Sanctuaries: OpenAI Unveils “Lockdown Mode” to Counter Prompt Injection Risks](https://securityonline.info/chatgpt-lockdown-mode/)
+  - [Massive PyPI Supply Chain Attack Staged via Malware Startup Hooks](https://securityonline.info/pypi-supply-chain-attack/)
   - [Sovereign Expansion: Google Unveils Gemini Go to Unify Entry-Level Android Architecture](https://securityonline.info/google-gemini-go-app/)
   - [The Compute Coalition: Alphabet Secures $30 Billion AI Lease with SpaceX](https://securityonline.info/google-spacex-cloud-deal/)
   - [The Monopoly Menace: Alliance Assails Microsoft’s Aggressive Browser Promotion](https://securityonline.info/browser-choice-alliance-letter/)
@@ -96,12 +102,19 @@
   - [Sriram Krishnan is leaving his role as White House AI advisor](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)
   - [The Trump administration might take an equity stake in OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/)
   - [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
+- The Decoder
+  - [Researchers pinpoint why larger language models pick up skills that small ones miss](https://the-decoder.com/researchers-pinpoint-why-larger-language-models-pick-up-skills-that-small-ones-miss/)
 - The Verge
   - [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun)
   - [Summer Game Fest 2026: All the news from gaming&#8217;s busiest week](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026)
   - [The cutest games from the Wholesome Direct 2026 showcase](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers)
 - VulDB Recent Entries
   - [CVE-2026-11459 | SecureAge CatchPulse up to 10.9.1 IOCTL saappctl.sys information disclosure](https://vuldb.com/vuln/369078)
+  - [CVE-2026-11460 | Boost Serialization up to 1.91 improper validation of specified type of input (Issue 331)](https://vuldb.com/vuln/369080)
+  - [CVE-2026-11461 | NousResearch hermes-agent up to 0.12.0 resume Endpoint hermes_state.py resolve_session_by_title Title authorization](https://vuldb.com/vuln/369081)
+  - [CVE-2026-11462 | Chengdu Everbrite Network Technology BeikeShop up to 1.6.0.22 Stripe Plugin StripeController.php callback Request improper authorization](https://vuldb.com/vuln/369082)
+  - [CVE-2026-11463 | USCiLab Cereal up to 1.3.2 Shared Pointer type confusion (Issue 870)](https://vuldb.com/vuln/369083)
+  - [CVE-2026-26422 | Clash Verge Rev clash-verge-service-ipc up to 2.2.x IPC Endpoint permission assignment](https://vuldb.com/vuln/369079)
 - Vulners.com RSS Feed
   - [[SECURITY] Fedora 43 Update: keylime-7.14.2-1.fc43](https://vulners.com/fedora/FEDORA:A21577992B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: libssh2-1.11.1-6.fc43](https://vulners.com/fedora/FEDORA:419FC70BC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
