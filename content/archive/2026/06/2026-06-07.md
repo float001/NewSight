@@ -6,6 +6,7 @@
   - [【投票】今年的作文题目你们看了吗？我感觉今年的题目比较简单](https://2libra.com/post/social-observation/SZZBm7a)
   - [【💰】1.昨天跑步累劈了；2.昨天金币池；3.今天情绪稳定；4.高考加油。](https://2libra.com/post/forum-function/WLV3m1u)
   - [建议这两天可以领取“文曲星”徽章](https://2libra.com/post/forum-function/5QlGxg7)
+  - [本周 2Libra 龙虎榜 2026-06-01 ~ 2026-06-07](https://2libra.com/post/forum-function/wgeu_UO)
   - [求推荐 Win 端轻量级代码差异比对软件](https://2libra.com/post/questions/msQUQvx)
 - 36氪
   - [2026年全国统一高考今天开考](https://36kr.com/newsflashes/3842409471429125?f=rss)
@@ -82,6 +83,7 @@
   - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
   - [They are looting your life savings](https://social.bau-ha.us/@raganwald/116705256401454865)
   - [Universal Memory Protocol – a shared format for agent memory](https://universalmemoryprotocol.io/)
+  - [We Need VAT and UBI](https://wilsoniumite.com/2026/06/07/we-need-vat-and-ubi/)
 - Hexacorn
   - [little secret of msconfig.exe](https://www.hexacorn.com/blog/2026/06/07/little-secret-of-msconfig-exe/)
 - joanwestenberg.com
@@ -110,6 +112,7 @@
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx exploit](https://sploitus.com/exploit?id=C859A543-A5A3-5864-8659-9856045D369A&utm_source=rss&utm_medium=rss)
   - [Exploit for Classic Buffer Overflow in Tp-Link Tl-Wr940N_Firmware exploit](https://sploitus.com/exploit?id=9F11057B-1156-5DBF-BADF-1F4374B44051&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42926 exploit](https://sploitus.com/exploit?id=EADB77CD-DA9A-5377-820A-B7574B833CE4&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Drupal exploit](https://sploitus.com/exploit?id=9B5243ED-D9B1-5012-9F82-B3E47E6BC342&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Progress Moveit_Cloud exploit](https://sploitus.com/exploit?id=3DF1045B-9B9F-5637-A194-0B386DD874CC&utm_source=rss&utm_medium=rss)
   - [Kernel-Exploit-Dojo-127 exploit](https://sploitus.com/exploit?id=B4439F2B-2497-5148-8394-FCABC75D82C5&utm_source=rss&utm_medium=rss)
   - [offensive-claude-533 exploit](https://sploitus.com/exploit?id=F0C8031D-736F-5B47-B1CB-0332CADCC817&utm_source=rss&utm_medium=rss)
@@ -213,6 +216,7 @@
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx](https://vulners.com/githubexploit/C859A543-A5A3-5864-8659-9856045D369A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Classic Buffer Overflow in Tp-Link Tl-Wr940N_Firmware](https://vulners.com/githubexploit/9F11057B-1156-5DBF-BADF-1F4374B44051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42926](https://vulners.com/githubexploit/EADB77CD-DA9A-5377-820A-B7574B833CE4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for SQL Injection in Drupal](https://vulners.com/githubexploit/9B5243ED-D9B1-5012-9F82-B3E47E6BC342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Progress Moveit_Cloud](https://vulners.com/githubexploit/3DF1045B-9B9F-5637-A194-0B386DD874CC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Kernel-Exploit-Dojo-127](https://vulners.com/githubexploit/B4439F2B-2497-5148-8394-FCABC75D82C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in encrypted-archive (npm)](https://vulners.com/ossf/OSSF:MAL-2026-5286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -220,6 +224,7 @@
   - [Metasploit2-pentest](https://vulners.com/githubexploit/ED5791E3-8935-5632-A403-CB7E7FA26CB0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [offensive-claude-533](https://vulners.com/githubexploit/F0C8031D-736F-5B47-B1CB-0332CADCC817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [secure-software-development](https://vulners.com/githubexploit/F1717668-06AE-58E8-A269-7D18FB40BCBB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [write-up](https://vulners.com/githubexploit/28A4B665-FFF6-5632-8C2A-520A377BF03A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [zero2shell-50](https://vulners.com/githubexploit/7D47D73F-F6D1-58FF-8D8F-B4D1F8B7895A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [zoneminder-rce-poc](https://vulners.com/githubexploit/E4935DAF-02D0-5B8B-8773-0B42AAEF6852?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
@@ -232,6 +237,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 量子位 QbitAI
   - [教你用AI一节课收17万，华尔街精英排着队付费](https://www.qbitai.com/2026/06/431487.html)
+  - [马斯克39页SpaceX计划，人类史上最伟大的PPT](https://www.qbitai.com/2026/06/431694.html)
 - 黑海洋
   - [IBM被曝曾掩盖多起数据泄露事件](https://blog.upx8.com/IBM%E8%A2%AB%E6%9B%9D%E6%9B%BE%E6%8E%A9%E7%9B%96%E5%A4%9A%E8%B5%B7%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6)
   - [OpenAI推出锁定模式 可降低数据泄露风险](https://blog.upx8.com/OpenAI%E6%8E%A8%E5%87%BA%E9%94%81%E5%AE%9A%E6%A8%A1%E5%BC%8F-%E5%8F%AF%E9%99%8D%E4%BD%8E%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2%E9%A3%8E%E9%99%A9)
