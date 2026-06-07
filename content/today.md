@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-06-07）
 
 - 2Libra
+  - [【💰】1.昨天跑步累劈了；2.昨天金币池；3.今天情绪稳定；4.高考加油。](https://2libra.com/post/forum-function/WLV3m1u)
   - [建议这两天可以领取“文曲星”徽章](https://2libra.com/post/forum-function/5QlGxg7)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Association Management Script - Multiple Vulnerabilities (IDOR, SQLi, Stored XSS)](https://cxsecurity.com/issue/WLB-2026060001)
@@ -11,11 +12,16 @@
   - [ZTE H298A / H108N Unauthenticated Credential Exposure](https://cxsecurity.com/issue/WLB-2026060004)
 - daringfireball.net
   - [Trump Lawyer Argues Trump Can Tear Down Statue of Liberty](https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer)
+- Emergent Minds | paddo.dev
+  - [Eighteen Cents on the Dollar](https://paddo.dev/blog/eighteen-cents-on-the-dollar/)
 - Hacker News Frontpage
+  - [DoD Officially Drops 180 Faiths from Military's Recognized Religion List](https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list)
   - [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
   - [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
   - [They are looting your life savings](https://social.bau-ha.us/@raganwald/116705256401454865)
   - [Universal Memory Protocol – a shared format for agent memory](https://universalmemoryprotocol.io/)
+- joanwestenberg.com
+  - [Update: ending paid subscriptions, + Substack](https://www.joanwestenberg.com/update-ending-paid-subscriptions-substack/)
 - johndcook.com
   - [From Kepler to Bessel](https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/)
 - PromptLayer
@@ -62,6 +68,7 @@
   - [CVE-2026-11440 theonedev REST API default-branch improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11441](https://vulners.com/nvd/NVD:CVE-2026-11441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11441 theonedev Pull Request issues canAccessIssue improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-26422](https://vulners.com/nvd/NVD:CVE-2026-26422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36229](https://vulners.com/attackerkb/AKB:1FED9CB4-F8CF-496C-A939-6372AD6EDD50?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36229](https://vulners.com/nvd/NVD:CVE-2026-36229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [epiphan_pearlnano_poc](https://vulners.com/githubexploit/07A4D8CE-5ABE-50A7-9E9B-6A35A6140D6B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -73,8 +80,12 @@
   - [Kernel-Exploit-Dojo-127](https://vulners.com/githubexploit/B4439F2B-2497-5148-8394-FCABC75D82C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in encrypted-archive (npm)](https://vulners.com/ossf/OSSF:MAL-2026-5286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in uisp-connector (npm)](https://vulners.com/ossf/OSSF:MAL-2026-5288?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Metasploit2-pentest](https://vulners.com/githubexploit/ED5791E3-8935-5632-A403-CB7E7FA26CB0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [offensive-claude-533](https://vulners.com/githubexploit/F0C8031D-736F-5B47-B1CB-0332CADCC817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [zero2shell-50](https://vulners.com/githubexploit/7D47D73F-F6D1-58FF-8D8F-B4D1F8B7895A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [zoneminder-rce-poc](https://vulners.com/githubexploit/E4935DAF-02D0-5B8B-8773-0B42AAEF6852?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [白宫AI政策顾问斯里拉姆·克里希南即将离任](https://blog.upx8.com/%E7%99%BD%E5%AE%ABAI%E6%94%BF%E7%AD%96%E9%A1%BE%E9%97%AE%E6%96%AF%E9%87%8C%E6%8B%89%E5%A7%86-%E5%85%8B%E9%87%8C%E5%B8%8C%E5%8D%97%E5%8D%B3%E5%B0%86%E7%A6%BB%E4%BB%BB)
+  - [领英联合创始人霍夫曼将退出微软董事会](https://blog.upx8.com/%E9%A2%86%E8%8B%B1%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%9C%8D%E5%A4%AB%E6%9B%BC%E5%B0%86%E9%80%80%E5%87%BA%E5%BE%AE%E8%BD%AF%E8%91%A3%E4%BA%8B%E4%BC%9A)
