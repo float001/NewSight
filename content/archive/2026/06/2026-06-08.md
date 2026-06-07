@@ -30,10 +30,13 @@
   - [Powering up a module from the IBM 604: an electronic calculator from 1948](http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html)
 - Sploitus.com Exploits RSS Feed
   - [ARES-v6.0-PRO- exploit](https://sploitus.com/exploit?id=D2735E17-CDCB-550D-8354-B0AE3F5544A2&utm_source=rss&utm_medium=rss)
+  - [Exploit for Use After Free in Redis exploit](https://sploitus.com/exploit?id=76D18275-7321-50D6-BBC8-6A581762726A&utm_source=rss&utm_medium=rss)
+  - [exploit-bot exploit](https://sploitus.com/exploit?id=06E69E54-40DF-562B-8606-D6A0A40FBE3C&utm_source=rss&utm_medium=rss)
   - [gssa-exploit exploit](https://sploitus.com/exploit?id=2DF94B7E-F8D0-561B-ACAA-022B913B025A&utm_source=rss&utm_medium=rss)
   - [HackTheBox exploit](https://sploitus.com/exploit?id=D76A21BF-6752-5EA7-9A28-57E690095E03&utm_source=rss&utm_medium=rss)
   - [llm-endpoint-vulnerability-poc exploit](https://sploitus.com/exploit?id=815640AA-6255-5A1D-B47A-F6F70D963A02&utm_source=rss&utm_medium=rss)
   - [pentestai exploit](https://sploitus.com/exploit?id=674BA3B1-F2D6-51AA-8AD0-31F3ED443D70&utm_source=rss&utm_medium=rss)
+  - [ps4-1350-poc exploit](https://sploitus.com/exploit?id=0A89D4E9-731D-5E88-AF84-840837010E66&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Is this the dawn of the Tokenpocalypse?](https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/)
   - [Notion restores access to Anthropic after service disruption](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/)
@@ -68,9 +71,14 @@
   - [CVE-2026-11460](https://vulners.com/nvd/NVD:CVE-2026-11460?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11460 Boost Serialization improper validation of specified type of input](https://vulners.com/cve/CVE-2026-11460?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11460 Boost Serialization improper validation of specified type of input](https://vulners.com/cvelist/CVELIST:CVE-2026-11460?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11461 NousResearch hermes-agent resume Endpoint hermes_state.py resolve_session_by_title authorization](https://vulners.com/cve/CVE-2026-11461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11461 NousResearch hermes-agent resume Endpoint hermes_state.py resolve_session_by_title authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Use After Free in Redis](https://vulners.com/githubexploit/76D18275-7321-50D6-BBC8-6A581762726A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [exploit-bot](https://vulners.com/githubexploit/06E69E54-40DF-562B-8606-D6A0A40FBE3C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [gssa-exploit](https://vulners.com/githubexploit/2DF94B7E-F8D0-561B-ACAA-022B913B025A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [HackTheBox](https://vulners.com/githubexploit/D76A21BF-6752-5EA7-9A28-57E690095E03?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [llm-endpoint-vulnerability-poc](https://vulners.com/githubexploit/815640AA-6255-5A1D-B47A-F6F70D963A02?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [pentestai](https://vulners.com/githubexploit/674BA3B1-F2D6-51AA-8AD0-31F3ED443D70?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ps4-1350-poc](https://vulners.com/githubexploit/0A89D4E9-731D-5E88-AF84-840837010E66?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
