@@ -2,13 +2,17 @@
 
 - 2Libra
   - [codex 继续零元购 免费蹬孩子们: team 的 bug 竟然还活着 😭](https://2libra.com/post/ai-programming/UX9UrqO)
+  - [【💰】codex 简单配置](https://2libra.com/post/ai-programming/JCXvLc0)
   - [晚上打开淘宝弹出 88vip 开通资格，这个 vip 值得开吗？](https://2libra.com/post/recommendations/OeB9WgF)
   - [纯新手看:傻瓜式一键配置 codex 并且启动 🤓](https://2libra.com/post/ai-programming/e6PjI2Y)
 - daringfireball.net
   - [Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF)
 - Hacker News Frontpage
+  - [Leiden Declaration on Artificial Intelligence and Mathematics](https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics)
+  - [My automated doubt development process](https://www.alexself.dev/blog/automated-doubt)
   - [Powering up a module from the IBM 604: an electronic calculator from 1948](https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html)
   - [Ripping a DVD, a federal crime in 1999, requires $22 and free software in 2026](https://ringmast4r.substack.com/p/in-1999-this-was-a-federal-crime)
+  - [The curious case of low-protein diets](https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer)
   - [The gamers taking on the industry to stop it switching off games](https://www.bbc.com/news/articles/c8e8e7g0r82o)
 - johndcook.com
   - [A crank formula for π](https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/)
@@ -32,6 +36,7 @@
   - [Govee’s all-weather smart lamp post is under $200 for the first time](https://www.theverge.com/gadgets/944439/govee-outdoor-lamp-post-lights-deal-sale)
   - [Halo: Campaign Evolved arrives July 28th](https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026)
   - [Minecraft Dungeons 2 gets a September release date](https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer)
+  - [The 7 biggest storylines from Summer Game Fest 2026](https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories)
   - [The Verge Weekend Questionnaire](https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire)
   - [This is Microsoft’s Xbox 25th anniversary console in translucent green](https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date)
   - [Xbox Games Showcase 2026: All the news and trailers](https://www.theverge.com/entertainment/944191/xbox-games-showcase-2026-news-trailers)
