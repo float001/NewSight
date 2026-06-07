@@ -2,19 +2,24 @@
 
 - 2Libra
   - [L 站小作文将成为历史](https://2libra.com/post/forum-function/7-LWBRq)
+  - [【天上天下】返程飞机上的随手拍～ ☀️☁️🌧️](https://2libra.com/post/travel-logs/BzhPaIO)
   - [【💰】1.昨天跑步累劈了；2.昨天金币池；3.今天情绪稳定；4.高考加油。](https://2libra.com/post/forum-function/WLV3m1u)
   - [建议这两天可以领取“文曲星”徽章](https://2libra.com/post/forum-function/5QlGxg7)
 - 36氪
   - [2026年全国统一高考今天开考](https://36kr.com/newsflashes/3842409471429125?f=rss)
+  - [2026年度电影总票房已突破160亿元](https://36kr.com/newsflashes/3842558673242628?f=rss)
   - [中国央行连续第19个月增持黄金](https://36kr.com/newsflashes/3842485376584196?f=rss)
   - [包钢股份：成功研发并批量生产超高强稀土耐磨钢](https://36kr.com/newsflashes/3842412186142985?f=rss)
   - [国开行：前4月发放4406亿元贷款支持基础设施建设](https://36kr.com/newsflashes/3842411503192576?f=rss)
+  - [多家低成本航空公司对登机箱登机收费](https://36kr.com/newsflashes/3842556634778113?f=rss)
   - [崔东树：2025年以来全国乘用车行业促销与降级均回归理性](https://36kr.com/newsflashes/3842463782390272?f=rss)
   - [广州南沙与深圳宝安拟启动住房公积金异地使用](https://36kr.com/newsflashes/3842447807645952?f=rss)
   - [我国乘用车12年胖了近400公斤 我国新能源车要减肥了](https://36kr.com/newsflashes/3842413796624905?f=rss)
   - [我国清洁低碳氢煤混烧技术取得重大突破](https://36kr.com/newsflashes/3842408617658885?f=rss)
   - [比特币升破61000美元，日内涨0.34%](https://36kr.com/newsflashes/3842435675932928?f=rss)
   - [百度成立数字人创新业务部](https://36kr.com/newsflashes/3842464225921536?f=rss)
+  - [经济日报：共享单车不能重收费轻服务](https://36kr.com/newsflashes/3842488832199170?f=rss)
+  - [韩国今年1至5月化妆品出口额突破56亿美元](https://36kr.com/newsflashes/3842527743052037?f=rss)
   - [韩国投资者持续买入中国硬科技](https://36kr.com/newsflashes/3842433670941190?f=rss)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Association Management Script - Multiple Vulnerabilities (IDOR, SQLi, Stored XSS)](https://cxsecurity.com/issue/WLB-2026060001)
@@ -98,10 +103,15 @@
   - [CVE-2026-11447](https://vulners.com/nvd/NVD:CVE-2026-11447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11447 GL.iNet GL-MT3000 MTK Backend iwinfo.so iwinfo_backend command injection](https://vulners.com/cve/CVE-2026-11447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11447 GL.iNet GL-MT3000 MTK Backend iwinfo.so iwinfo_backend command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-11447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11448](https://vulners.com/nvd/NVD:CVE-2026-11448?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11449](https://vulners.com/nvd/NVD:CVE-2026-11449?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11449 GL.iNet GL-MT3000 LuCI JSON-RPC rpc rpc_sys command injection](https://vulners.com/cve/CVE-2026-11449?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11449 GL.iNet GL-MT3000 LuCI JSON-RPC rpc rpc_sys command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-11449?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11450](https://vulners.com/nvd/NVD:CVE-2026-11450?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11450 GL.iNet GL-MT3000 Path Normalization dlopen command injection](https://vulners.com/cve/CVE-2026-11450?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11450 GL.iNet GL-MT3000 Path Normalization dlopen command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-11450?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11452 GL.iNet GL-MT3000 SET_USER_PWD glc FUN_0042e200 command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-11452?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11453 Tiobon Employee Self-Service System Login Endpoint BlogSearch.aspx sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-11453?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-26422](https://vulners.com/nvd/NVD:CVE-2026-26422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36229](https://vulners.com/attackerkb/AKB:1FED9CB4-F8CF-496C-A939-6372AD6EDD50?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36229](https://vulners.com/nvd/NVD:CVE-2026-36229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -123,6 +133,8 @@
   - [OpenAI推出锁定模式 可降低数据泄露风险](https://buaq.net/go-421462.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 量子位 QbitAI
+  - [教你用AI一节课收17万，华尔街精英排着队付费](https://www.qbitai.com/2026/06/431487.html)
 - 黑海洋
   - [OpenAI推出锁定模式 可降低数据泄露风险](https://blog.upx8.com/OpenAI%E6%8E%A8%E5%87%BA%E9%94%81%E5%AE%9A%E6%A8%A1%E5%BC%8F-%E5%8F%AF%E9%99%8D%E4%BD%8E%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2%E9%A3%8E%E9%99%A9)
   - [白宫AI政策顾问斯里拉姆·克里希南即将离任](https://blog.upx8.com/%E7%99%BD%E5%AE%ABAI%E6%94%BF%E7%AD%96%E9%A1%BE%E9%97%AE%E6%96%AF%E9%87%8C%E6%8B%89%E5%A7%86-%E5%85%8B%E9%87%8C%E5%B8%8C%E5%8D%97%E5%8D%B3%E5%B0%86%E7%A6%BB%E4%BB%BB)
