@@ -5,6 +5,10 @@
   - [【💰】codex 简单配置](https://2libra.com/post/ai-programming/JCXvLc0)
   - [晚上打开淘宝弹出 88vip 开通资格，这个 vip 值得开吗？](https://2libra.com/post/recommendations/OeB9WgF)
   - [纯新手看:傻瓜式一键配置 codex 并且启动 🤓](https://2libra.com/post/ai-programming/e6PjI2Y)
+- Ars Technica
+  - [RIP Anthony Head: Our 10 favorite moments of Buffy's Giles](https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/)
+- Cybersecurity News
+  - [Millions of Servers At Risk: Crucial MariaDB Flaw Carries Maximum 10.0 CVSS Score](https://securityonline.info/mariadb-security-flaw-cvss-10/)
 - daringfireball.net
   - [Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF)
 - Hacker News Frontpage
@@ -14,8 +18,10 @@
   - [Ripping a DVD, a federal crime in 1999, requires $22 and free software in 2026](https://ringmast4r.substack.com/p/in-1999-this-was-a-federal-crime)
   - [The curious case of low-protein diets](https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer)
   - [The gamers taking on the industry to stop it switching off games](https://www.bbc.com/news/articles/c8e8e7g0r82o)
+  - [Why isn't the U.S. better at soccer?](https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer)
 - johndcook.com
   - [A crank formula for π](https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/)
+  - [The Laplace limit](https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/)
 - PwnDefend
   - [Email Security: An Enablement Journey, Not a Maturity Ladder](https://www.pwndefend.com/2026/06/07/email-security-an-enablement-journey-not-a-maturity-ladder/)
 - righto.com
@@ -24,6 +30,7 @@
   - [ARES-v6.0-PRO- exploit](https://sploitus.com/exploit?id=D2735E17-CDCB-550D-8354-B0AE3F5544A2&utm_source=rss&utm_medium=rss)
   - [gssa-exploit exploit](https://sploitus.com/exploit?id=2DF94B7E-F8D0-561B-ACAA-022B913B025A&utm_source=rss&utm_medium=rss)
   - [HackTheBox exploit](https://sploitus.com/exploit?id=D76A21BF-6752-5EA7-9A28-57E690095E03&utm_source=rss&utm_medium=rss)
+  - [llm-endpoint-vulnerability-poc exploit](https://sploitus.com/exploit?id=815640AA-6255-5A1D-B47A-F6F70D963A02&utm_source=rss&utm_medium=rss)
   - [pentestai exploit](https://sploitus.com/exploit?id=674BA3B1-F2D6-51AA-8AD0-31F3ED443D70&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Notion restores access to Anthropic after service disruption](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/)
@@ -46,10 +53,20 @@
   - [CVE-2026-11522 | Tenda W20E 15.11.0.6 /goform/setPortMirror formSetPortMirror portMirrorMirroredPorts stack-based overflow](https://vuldb.com/vuln/369142)
   - [CVE-2026-11523 | Tenda W20E 15.11.0.6 Web Management Interface /goform/PortalAuth formPortalAuth gotoUrl stack-based overflow](https://vuldb.com/vuln/369143)
   - [CVE-2026-11524 | Tenda W20E 15.11.0.6 Web Management Interface modifyWifiFilterRules wifiFilterListRemark stack-based overflow](https://vuldb.com/vuln/369144)
+  - [CVE-2026-11528 | Tenda AC18 15.03.05.05 Web Management Interface /goform/getRebootStatus sub_45304 callback stack-based overflow](https://vuldb.com/vuln/369145)
+  - [CVE-2026-11529 | designcomputer mysql-mcp-server up to 0.2.2 mysql URI server.py read_resource uri_str sql injection (Issue 89)](https://vuldb.com/vuln/369146)
+  - [CVE-2026-11530 | imvks786 student_management_system up to 9599b560ad3c3b83e75d328b76bedcd489ef1f46 Login /index.ph usr/pwd sql injection](https://vuldb.com/vuln/369147)
+  - [CVE-2026-11531 | imvks786 student_management_system up to 9599b560ad3c3b83e75d328b76bedcd489ef1f46 Administrator Login Endpoint admin/admin_login.php a_usr/a_pwd sql injection](https://vuldb.com/vuln/369148)
+  - [CVE-2026-11532 | imvks786 student_management_system up to 9599b560ad3c3b83e75d328b76bedcd489ef1f46 Student Record /add.php access control](https://vuldb.com/vuln/369149)
+  - [CVE-2026-11533 | imvks786 student_management_system up to 9599b560ad3c3b83e75d328b76bedcd489ef1f46 Student Deletion Endpoint /see.php del improper authorization](https://vuldb.com/vuln/369150)
+  - [CVE-2026-11534 | imvks786 student_management_system up to 9599b560ad3c3b83e75d328b76bedcd489ef1f46 /add.php name/address/fname cross site scripting](https://vuldb.com/vuln/369151)
 - Vulners.com RSS Feed
   - [ARES-v6.0-PRO-](https://vulners.com/githubexploit/D2735E17-CDCB-550D-8354-B0AE3F5544A2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11460 Boost Serialization improper validation of specified type of input](https://vulners.com/cve/CVE-2026-11460?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11460 Boost Serialization improper validation of specified type of input](https://vulners.com/cvelist/CVELIST:CVE-2026-11460?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [gssa-exploit](https://vulners.com/githubexploit/2DF94B7E-F8D0-561B-ACAA-022B913B025A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [HackTheBox](https://vulners.com/githubexploit/D76A21BF-6752-5EA7-9A28-57E690095E03?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [llm-endpoint-vulnerability-poc](https://vulners.com/githubexploit/815640AA-6255-5A1D-B47A-F6F70D963A02?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [pentestai](https://vulners.com/githubexploit/674BA3B1-F2D6-51AA-8AD0-31F3ED443D70?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
