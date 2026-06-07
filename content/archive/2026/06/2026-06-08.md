@@ -5,6 +5,9 @@
   - [【💰】codex 简单配置](https://2libra.com/post/ai-programming/JCXvLc0)
   - [晚上打开淘宝弹出 88vip 开通资格，这个 vip 值得开吗？](https://2libra.com/post/recommendations/OeB9WgF)
   - [纯新手看:傻瓜式一键配置 codex 并且启动 🤓](https://2libra.com/post/ai-programming/e6PjI2Y)
+- 36氪
+  - [京东与腾讯就AI Agent将达成重要合作](https://36kr.com/newsflashes/3843709035219456?f=rss)
+  - [英伟达CEO与SK集团董事长将于周一宣布合作计划](https://36kr.com/newsflashes/3843706099091974?f=rss)
 - Ars Technica
   - [RIP Anthony Head: Our 10 favorite moments of Buffy's Giles](https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/)
 - Cybersecurity News
@@ -12,6 +15,7 @@
 - daringfireball.net
   - [Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF)
 - Hacker News Frontpage
+  - [Ask HN: Are we as society going to let LLM companies take all the values?](https://news.ycombinator.com/item?id=48439240)
   - [Leiden Declaration on Artificial Intelligence and Mathematics](https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics)
   - [My automated doubt development process](https://www.alexself.dev/blog/automated-doubt)
   - [Powering up a module from the IBM 604: an electronic calculator from 1948](https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html)
@@ -24,6 +28,8 @@
   - [A crank formula for π](https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/)
   - [Aitken acceleration before Aitken](https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/)
   - [The Laplace limit](https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/)
+- NVIDIA AI Blog
+  - [NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure](https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/)
 - PwnDefend
   - [Email Security: An Enablement Journey, Not a Maturity Ladder](https://www.pwndefend.com/2026/06/07/email-security-an-enablement-journey-not-a-maturity-ladder/)
 - righto.com
@@ -49,6 +55,7 @@
   - [Govee’s all-weather smart lamp post is under $200 for the first time](https://www.theverge.com/gadgets/944439/govee-outdoor-lamp-post-lights-deal-sale)
   - [Halo: Campaign Evolved arrives July 28th](https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026)
   - [Minecraft Dungeons 2 gets a September release date](https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer)
+  - [NASA will wear high-tech Prada long johns to the Moon](https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis)
   - [The 7 biggest storylines from Summer Game Fest 2026](https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories)
   - [The Verge Weekend Questionnaire](https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire)
   - [This is Microsoft’s Xbox 25th anniversary console in translucent green](https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date)
@@ -71,8 +78,13 @@
   - [CVE-2026-11460](https://vulners.com/nvd/NVD:CVE-2026-11460?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11460 Boost Serialization improper validation of specified type of input](https://vulners.com/cve/CVE-2026-11460?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11460 Boost Serialization improper validation of specified type of input](https://vulners.com/cvelist/CVELIST:CVE-2026-11460?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11461](https://vulners.com/nvd/NVD:CVE-2026-11461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11461 NousResearch hermes-agent resume Endpoint hermes_state.py resolve_session_by_title authorization](https://vulners.com/cve/CVE-2026-11461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11461 NousResearch hermes-agent resume Endpoint hermes_state.py resolve_session_by_title authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11463 USCiLab Cereal Shared Pointer type confusion](https://vulners.com/cve/CVE-2026-11463?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11463 USCiLab Cereal Shared Pointer type confusion](https://vulners.com/cvelist/CVELIST:CVE-2026-11463?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11464 JeecgBoot User List Endpoint SysUserController.java queryPageList information disclosure](https://vulners.com/cve/CVE-2026-11464?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11464 JeecgBoot User List Endpoint SysUserController.java queryPageList information disclosure](https://vulners.com/cvelist/CVELIST:CVE-2026-11464?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Redis](https://vulners.com/githubexploit/76D18275-7321-50D6-BBC8-6A581762726A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [exploit-bot](https://vulners.com/githubexploit/06E69E54-40DF-562B-8606-D6A0A40FBE3C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [gssa-exploit](https://vulners.com/githubexploit/2DF94B7E-F8D0-561B-ACAA-022B913B025A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
