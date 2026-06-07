@@ -1,8 +1,37 @@
 # 今日安全资讯（2026-06-08）
 
+- 2Libra
+  - [codex 继续零元购 免费蹬孩子们: team 的 bug 竟然还活着 😭](https://2libra.com/post/ai-programming/UX9UrqO)
+  - [晚上打开淘宝弹出 88vip 开通资格，这个 vip 值得开吗？](https://2libra.com/post/recommendations/OeB9WgF)
+  - [纯新手看:傻瓜式一键配置 codex 并且启动 🤓](https://2libra.com/post/ai-programming/e6PjI2Y)
+- Hacker News Frontpage
+  - [Ripping a DVD, a federal crime in 1999, requires $22 and free software in 2026](https://ringmast4r.substack.com/p/in-1999-this-was-a-federal-crime)
+  - [The gamers taking on the industry to stop it switching off games](https://www.bbc.com/news/articles/c8e8e7g0r82o)
+- johndcook.com
+  - [A crank formula for π](https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/)
 - PwnDefend
   - [Email Security: An Enablement Journey, Not a Maturity Ladder](https://www.pwndefend.com/2026/06/07/email-security-an-enablement-journey-not-a-maturity-ladder/)
+- righto.com
+  - [Powering up a module from the IBM 604: an electronic calculator from 1948](http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html)
+- Sploitus.com Exploits RSS Feed
+  - [ARES-v6.0-PRO- exploit](https://sploitus.com/exploit?id=D2735E17-CDCB-550D-8354-B0AE3F5544A2&utm_source=rss&utm_medium=rss)
+  - [gssa-exploit exploit](https://sploitus.com/exploit?id=2DF94B7E-F8D0-561B-ACAA-022B913B025A&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [OpenAI is still working on that ‘super app’](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/)
+- The Decoder
+  - [Deepseek topped Ramp's trending software vendors in June 2026 as US companies chase cheaper AI](https://the-decoder.com/deepseek-topped-ramps-trending-software-vendors-in-june-2026-as-us-companies-chase-cheaper-ai/)
 - The Verge
   - [Govee’s all-weather smart lamp post is under $200 for the first time](https://www.theverge.com/gadgets/944439/govee-outdoor-lamp-post-lights-deal-sale)
+  - [The Verge Weekend Questionnaire](https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire)
+  - [Xbox Games Showcase 2026: All the news and trailers](https://www.theverge.com/entertainment/944191/xbox-games-showcase-2026-news-trailers)
+- VulDB Recent Entries
+  - [CVE-2026-11520 | SourceCodester Inventory System 1.0 header.php cross site scripting](https://vuldb.com/vuln/369140)
+  - [CVE-2026-11521 | Mohammed-eid35 bank-management-system-springboot up to 7b9bcc65ad7df3db29af71aed9bb500e5f24d948 Transaction Endpoint TransactionController.java improper authorization](https://vuldb.com/vuln/369141)
+  - [CVE-2026-11522 | Tenda W20E 15.11.0.6 /goform/setPortMirror formSetPortMirror portMirrorMirroredPorts stack-based overflow](https://vuldb.com/vuln/369142)
+  - [CVE-2026-11523 | Tenda W20E 15.11.0.6 Web Management Interface /goform/PortalAuth formPortalAuth gotoUrl stack-based overflow](https://vuldb.com/vuln/369143)
+  - [CVE-2026-11524 | Tenda W20E 15.11.0.6 Web Management Interface modifyWifiFilterRules wifiFilterListRemark stack-based overflow](https://vuldb.com/vuln/369144)
+- Vulners.com RSS Feed
+  - [ARES-v6.0-PRO-](https://vulners.com/githubexploit/D2735E17-CDCB-550D-8354-B0AE3F5544A2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [gssa-exploit](https://vulners.com/githubexploit/2DF94B7E-F8D0-561B-ACAA-022B913B025A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
