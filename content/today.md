@@ -4,7 +4,10 @@
   - [codex 继续零元购 免费蹬孩子们: team 的 bug 竟然还活着 😭](https://2libra.com/post/ai-programming/UX9UrqO)
   - [晚上打开淘宝弹出 88vip 开通资格，这个 vip 值得开吗？](https://2libra.com/post/recommendations/OeB9WgF)
   - [纯新手看:傻瓜式一键配置 codex 并且启动 🤓](https://2libra.com/post/ai-programming/e6PjI2Y)
+- daringfireball.net
+  - [Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF)
 - Hacker News Frontpage
+  - [Powering up a module from the IBM 604: an electronic calculator from 1948](https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html)
   - [Ripping a DVD, a federal crime in 1999, requires $22 and free software in 2026](https://ringmast4r.substack.com/p/in-1999-this-was-a-federal-crime)
   - [The gamers taking on the industry to stop it switching off games](https://www.bbc.com/news/articles/c8e8e7g0r82o)
 - johndcook.com
@@ -16,13 +19,21 @@
 - Sploitus.com Exploits RSS Feed
   - [ARES-v6.0-PRO- exploit](https://sploitus.com/exploit?id=D2735E17-CDCB-550D-8354-B0AE3F5544A2&utm_source=rss&utm_medium=rss)
   - [gssa-exploit exploit](https://sploitus.com/exploit?id=2DF94B7E-F8D0-561B-ACAA-022B913B025A&utm_source=rss&utm_medium=rss)
+  - [HackTheBox exploit](https://sploitus.com/exploit?id=D76A21BF-6752-5EA7-9A28-57E690095E03&utm_source=rss&utm_medium=rss)
+  - [pentestai exploit](https://sploitus.com/exploit?id=674BA3B1-F2D6-51AA-8AD0-31F3ED443D70&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Notion restores access to Anthropic after service disruption](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/)
   - [OpenAI is still working on that ‘super app’](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/)
 - The Decoder
   - [Deepseek topped Ramp's trending software vendors in June 2026 as US companies chase cheaper AI](https://the-decoder.com/deepseek-topped-ramps-trending-software-vendors-in-june-2026-as-us-companies-chase-cheaper-ai/)
 - The Verge
+  - [Fable launches in late February after recent delay](https://www.theverge.com/games/939536/fable-xbox-games-showcase-2026)
+  - [Gears of War: E-Day isn’t coming to the PS5](https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch)
   - [Govee’s all-weather smart lamp post is under $200 for the first time](https://www.theverge.com/gadgets/944439/govee-outdoor-lamp-post-lights-deal-sale)
+  - [Halo: Campaign Evolved arrives July 28th](https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026)
+  - [Minecraft Dungeons 2 gets a September release date](https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer)
   - [The Verge Weekend Questionnaire](https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire)
+  - [This is Microsoft’s Xbox 25th anniversary console in translucent green](https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date)
   - [Xbox Games Showcase 2026: All the news and trailers](https://www.theverge.com/entertainment/944191/xbox-games-showcase-2026-news-trailers)
 - VulDB Recent Entries
   - [CVE-2026-11520 | SourceCodester Inventory System 1.0 header.php cross site scripting](https://vuldb.com/vuln/369140)
@@ -33,5 +44,7 @@
 - Vulners.com RSS Feed
   - [ARES-v6.0-PRO-](https://vulners.com/githubexploit/D2735E17-CDCB-550D-8354-B0AE3F5544A2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [gssa-exploit](https://vulners.com/githubexploit/2DF94B7E-F8D0-561B-ACAA-022B913B025A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [HackTheBox](https://vulners.com/githubexploit/D76A21BF-6752-5EA7-9A28-57E690095E03?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [pentestai](https://vulners.com/githubexploit/674BA3B1-F2D6-51AA-8AD0-31F3ED443D70?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
