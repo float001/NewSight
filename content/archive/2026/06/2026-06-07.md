@@ -61,6 +61,7 @@
   - [WordPress Contest Gallery 28.1.4 Unauthenticated Blind SQL Injection](https://cxsecurity.com/issue/WLB-2026060003)
   - [ZTE H298A / H108N Unauthenticated Credential Exposure](https://cxsecurity.com/issue/WLB-2026060004)
 - Cybersecurity News
+  - [Critical Cordova Vulnerability Threatens iOS App Data Boundaries](https://securityonline.info/cordova-vulnerability-inappbrowser-flaw/)
   - [Cryptographic Sanctuaries: OpenAI Unveils “Lockdown Mode” to Counter Prompt Injection Risks](https://securityonline.info/chatgpt-lockdown-mode/)
   - [Massive PyPI Supply Chain Attack Staged via Malware Startup Hooks](https://securityonline.info/pypi-supply-chain-attack/)
   - [Sovereign Expansion: Google Unveils Gemini Go to Unify Entry-Level Android Architecture](https://securityonline.info/google-gemini-go-app/)
@@ -78,6 +79,7 @@
 - Hacker News Frontpage
   - [DoD Officially Drops 180 Faiths from Military's Recognized Religion List](https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list)
   - [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
+  - [Netlify CTO Dana Lawson: Writing code is no longer the job](https://thenewstack.io/netlify-agent-experience-engineers/)
   - [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
   - [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
   - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
@@ -86,6 +88,15 @@
   - [We Need VAT and UBI](https://wilsoniumite.com/2026/06/07/we-need-vat-and-ubi/)
 - Hexacorn
   - [little secret of msconfig.exe](https://www.hexacorn.com/blog/2026/06/07/little-secret-of-msconfig-exe/)
+- InfoSec Write-ups - Medium
+  - [An Introduction to Module Stomping](https://infosecwriteups.com/an-introduction-to-module-stomping-26238af76d43?source=rss----7b722bfd1b8d---4)
+  - [How I Hijacked a CTF Platform with Four Lines of Burp Suite Rules](https://infosecwriteups.com/i-became-admin-on-a-ctf-platform-c26cb49546a5?source=rss----7b722bfd1b8d---4)
+  - [Sensitive Information Disclosure Through an Exposed File Repository.](https://infosecwriteups.com/sensitive-information-disclosure-through-an-exposed-file-repository-9e7cfb74fff6?source=rss----7b722bfd1b8d---4)
+  - [SPIP RCE + Docker SUID Escape | THM Publisher](https://infosecwriteups.com/spip-rce-docker-suid-escape-thm-publisher-7a2c3640c598?source=rss----7b722bfd1b8d---4)
+  - [Splunk Exploring SPL: A Practical SOC Analyst Walkthrough for Search, Detection, and Threat Hunting](https://infosecwriteups.com/splunk-exploring-spl-a-practical-soc-analyst-walkthrough-for-search-detection-and-threat-hunting-ff138c4c7d51?source=rss----7b722bfd1b8d---4)
+  - [The 5 Skills Every Cybersecurity Engineer Needs in 2026 (That Universities Still Aren’t Teaching)](https://infosecwriteups.com/the-5-skills-every-cybersecurity-engineer-needs-in-2026-that-universities-still-arent-teaching-b069a55c74ff?source=rss----7b722bfd1b8d---4)
+  - [The Most Dangerous Security Bug Is the One That Feels Like a Feature](https://infosecwriteups.com/the-most-dangerous-security-bug-is-the-one-that-feels-like-a-feature-6339d438b3a5?source=rss----7b722bfd1b8d---4)
+  - [Update: The Ending of My $500 Loss and Web Cache Poisoning Story.](https://infosecwriteups.com/update-the-ending-of-my-500-loss-and-web-cache-poisoning-story-153603be845a?source=rss----7b722bfd1b8d---4)
 - joanwestenberg.com
   - [Update: ending paid subscriptions, + Substack](https://www.joanwestenberg.com/update-ending-paid-subscriptions-substack/)
 - johndcook.com
@@ -115,6 +126,7 @@
   - [Exploit for SQL Injection in Drupal exploit](https://sploitus.com/exploit?id=9B5243ED-D9B1-5012-9F82-B3E47E6BC342&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Progress Moveit_Cloud exploit](https://sploitus.com/exploit?id=3DF1045B-9B9F-5637-A194-0B386DD874CC&utm_source=rss&utm_medium=rss)
   - [Kernel-Exploit-Dojo-127 exploit](https://sploitus.com/exploit?id=B4439F2B-2497-5148-8394-FCABC75D82C5&utm_source=rss&utm_medium=rss)
+  - [mcp-tool-poisoning-poc exploit](https://sploitus.com/exploit?id=6EAD9945-8343-562B-B32A-A02FABEA441D&utm_source=rss&utm_medium=rss)
   - [offensive-claude-533 exploit](https://sploitus.com/exploit?id=F0C8031D-736F-5B47-B1CB-0332CADCC817&utm_source=rss&utm_medium=rss)
   - [secure-software-development exploit](https://sploitus.com/exploit?id=F1717668-06AE-58E8-A269-7D18FB40BCBB&utm_source=rss&utm_medium=rss)
   - [zero2shell-50 exploit](https://sploitus.com/exploit?id=7D47D73F-F6D1-58FF-8D8F-B4D1F8B7895A&utm_source=rss&utm_medium=rss)
@@ -134,8 +146,10 @@
   - [AI ‘content creators’ are getting harder to spot](https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators)
   - [Dell&#8217;s new XPS 14 is better in almost every way](https://www.theverge.com/tech/944360/dell-xps-14-2026-review)
   - [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun)
+  - [Japanese Gothic is a gorgeously grotesque ghost story](https://www.theverge.com/entertainment/943230/japanese-gothic-kylie-lee-baker-horror-novel)
   - [Summer Game Fest 2026: All the news from gaming&#8217;s busiest week](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026)
   - [The cutest games from the Wholesome Direct 2026 showcase](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers)
+  - [The Virtual OS Museum lets you relive over 600 operating systems right on your desktop](https://www.theverge.com/tech/945246/virtual-os-museum-dos-windows-mac-os)
 - VulDB Recent Entries
   - [CVE-2026-11459 | SecureAge CatchPulse up to 10.9.1 IOCTL saappctl.sys information disclosure](https://vuldb.com/vuln/369078)
   - [CVE-2026-11460 | Boost Serialization up to 1.91 improper validation of specified type of input (Issue 331)](https://vuldb.com/vuln/369080)
@@ -172,6 +186,12 @@
   - [CVE-2026-11500 | Weaviate up to 1.37.7 Static API Key client.go validateConfig StaticApiKey authorization (Issue 11392)](https://vuldb.com/vuln/369120)
   - [CVE-2026-11501 | SourceCodester Hospitals Patient Records Management System 1.0 Master.php?f=save_patient ID sql injection](https://vuldb.com/vuln/369121)
   - [CVE-2026-11502 | JeecgBoot up to 3.9.2 Third-Party Login ThirdLoginController.java HttpServletResponse.sendRedirect state redirect (Issue 9639)](https://vuldb.com/vuln/369122)
+  - [CVE-2026-11505 | GL.iNet XE3000 4.8.x glnassys hard-coded key](https://vuldb.com/vuln/369125)
+  - [CVE-2026-11506 | CodeAstro Leave Management System 1.0 search_staff_for_deletion.php Name sql injection](https://vuldb.com/vuln/369126)
+  - [CVE-2026-11507 | CodeAstro Leave Management System 1.0 delete_leave_type.php leave_type sql injection](https://vuldb.com/vuln/369127)
+  - [CVE-2026-11508 | CodeAstro Leave Management System 1.0 search_staff_to_assign_pc.php Name sql injection](https://vuldb.com/vuln/369128)
+  - [CVE-2026-11509 | CodeAstro Leave Management System 1.0 search_staff_for_updation.php Name sql injection](https://vuldb.com/vuln/369129)
+  - [CVE-2026-11510 | CodeAstro Leave Management System 1.0 /admin/add_leave.php type_of_leave sql injection](https://vuldb.com/vuln/369130)
   - [CVE-2026-26422 | Clash Verge Rev clash-verge-service-ipc up to 2.2.x IPC Endpoint permission assignment](https://vuldb.com/vuln/369079)
   - [CVE-2026-49494 | Comodo Internet Security up to 12.3.4.8162 Inspect.sys integer underflow](https://vuldb.com/vuln/369116)
 - Vulners.com RSS Feed
@@ -231,6 +251,7 @@
   - [Kernel-Exploit-Dojo-127](https://vulners.com/githubexploit/B4439F2B-2497-5148-8394-FCABC75D82C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in encrypted-archive (npm)](https://vulners.com/ossf/OSSF:MAL-2026-5286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in uisp-connector (npm)](https://vulners.com/ossf/OSSF:MAL-2026-5288?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [mcp-tool-poisoning-poc](https://vulners.com/githubexploit/6EAD9945-8343-562B-B32A-A02FABEA441D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Metasploit2-pentest](https://vulners.com/githubexploit/ED5791E3-8935-5632-A403-CB7E7FA26CB0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [offensive-claude-533](https://vulners.com/githubexploit/F0C8031D-736F-5B47-B1CB-0332CADCC817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [secure-software-development](https://vulners.com/githubexploit/F1717668-06AE-58E8-A269-7D18FB40BCBB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -241,6 +262,7 @@
   - [How to Watch Apple’s WWDC 2026 Keynote—and What to Expect](https://www.wired.com/story/how-to-watch-apple-wwdc-2026/)
   - [Lauf eElja Electric Mountain Bike Review: Power Trip](https://www.wired.com/review/lauf-eelja-electric-mountain-bike/)
 - 不安全
+  - [I Became Admin on a CTF Platform](https://buaq.net/go-421494.html)
   - [OpenAI推出锁定模式 可降低数据泄露风险](https://buaq.net/go-421462.html)
   - [Recent LLVM hash table improvements](https://buaq.net/go-421469.html)
 - 代码审计星球
