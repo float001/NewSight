@@ -8,9 +8,14 @@
 - 36氪
   - [2026年全国统一高考今天开考](https://36kr.com/newsflashes/3842409471429125?f=rss)
   - [2026年度电影总票房已突破160亿元](https://36kr.com/newsflashes/3842558673242628?f=rss)
+  - [AI等机器网络请求量首超人类](https://36kr.com/newsflashes/3842694357092869?f=rss)
   - [OpenAI正准备对ChatGPT进行上线以来最大幅度升级](https://36kr.com/newsflashes/3842621948233991?f=rss)
   - [OpenAI芯片元老“002号员工”转投Anthropic](https://36kr.com/newsflashes/3842586501466625?f=rss)
+  - [《给阿嬷的情书》票房突破16亿](https://36kr.com/newsflashes/3842695260768775?f=rss)
   - [中国央行连续第19个月增持黄金](https://36kr.com/newsflashes/3842485376584196?f=rss)
+  - [中国银河证券：非农走强并不意味着美联储年内加息](https://36kr.com/newsflashes/3842691789654273?f=rss)
+  - [中际旭创：公司产能在持续扩建中](https://36kr.com/newsflashes/3842711379446018?f=rss)
+  - [京东方A回应存储涨价对显示行业的影响](https://36kr.com/newsflashes/3842708490799369?f=rss)
   - [包钢股份：成功研发并批量生产超高强稀土耐磨钢](https://36kr.com/newsflashes/3842412186142985?f=rss)
   - [国开行：前4月发放4406亿元贷款支持基础设施建设](https://36kr.com/newsflashes/3842411503192576?f=rss)
   - [多家低成本航空公司对登机箱登机收费](https://36kr.com/newsflashes/3842556634778113?f=rss)
@@ -44,6 +49,8 @@
 - daringfireball.net
   - [Halide Mark III](https://www.lux.camera/halide-mark-iii/)
   - [Trump Lawyer Argues Trump Can Tear Down Statue of Liberty](https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer)
+- defend.network
+  - [Miasma worm hits Microsoft GitHub; SolarWinds actively exploited; Chrome 429 patches](https://defend.network/briefings/miasma-solarwinds-chrome-ffmpeg-exploits-2026-06-07.html)
 - eli.thegreenplace.net
   - [Thoughts on starting new projects with LLM agents](https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/)
 - Emergent Minds | paddo.dev
@@ -61,6 +68,10 @@
   - [Update: ending paid subscriptions, + Substack](https://www.joanwestenberg.com/update-ending-paid-subscriptions-substack/)
 - johndcook.com
   - [From Kepler to Bessel](https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/)
+- MaskRay
+  - [Recent LLVM hash table improvements](https://maskray.me/blog/2026-06-07-recent-llvm-hash-table-improvements)
+- NVIDIA AI Blog
+  - [NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs](https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/)
 - PromptLayer
   - [How to Choose LLM Tracking Tools](https://blog.promptlayer.com/suggestion-pending-hd3su5f4jy-2/)
   - [How to Design an LLM Eval Framework](https://blog.promptlayer.com/suggestion-pending-izow111-vs/)
@@ -150,6 +161,7 @@
 - 量子位 QbitAI
   - [教你用AI一节课收17万，华尔街精英排着队付费](https://www.qbitai.com/2026/06/431487.html)
 - 黑海洋
+  - [IBM被曝曾掩盖多起数据泄露事件](https://blog.upx8.com/IBM%E8%A2%AB%E6%9B%9D%E6%9B%BE%E6%8E%A9%E7%9B%96%E5%A4%9A%E8%B5%B7%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6)
   - [OpenAI推出锁定模式 可降低数据泄露风险](https://blog.upx8.com/OpenAI%E6%8E%A8%E5%87%BA%E9%94%81%E5%AE%9A%E6%A8%A1%E5%BC%8F-%E5%8F%AF%E9%99%8D%E4%BD%8E%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2%E9%A3%8E%E9%99%A9)
   - [白宫AI政策顾问斯里拉姆·克里希南即将离任](https://blog.upx8.com/%E7%99%BD%E5%AE%ABAI%E6%94%BF%E7%AD%96%E9%A1%BE%E9%97%AE%E6%96%AF%E9%87%8C%E6%8B%89%E5%A7%86-%E5%85%8B%E9%87%8C%E5%B8%8C%E5%8D%97%E5%8D%B3%E5%B0%86%E7%A6%BB%E4%BB%BB)
   - [领英联合创始人霍夫曼将退出微软董事会](https://blog.upx8.com/%E9%A2%86%E8%8B%B1%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%9C%8D%E5%A4%AB%E6%9B%BC%E5%B0%86%E9%80%80%E5%87%BA%E5%BE%AE%E8%BD%AF%E8%91%A3%E4%BA%8B%E4%BC%9A)
