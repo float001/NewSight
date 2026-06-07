@@ -5,8 +5,13 @@
   - [【💰】1.昨天跑步累劈了；2.昨天金币池；3.今天情绪稳定；4.高考加油。](https://2libra.com/post/forum-function/WLV3m1u)
   - [建议这两天可以领取“文曲星”徽章](https://2libra.com/post/forum-function/5QlGxg7)
 - 36氪
+  - [2026年全国统一高考今天开考](https://36kr.com/newsflashes/3842409471429125?f=rss)
   - [包钢股份：成功研发并批量生产超高强稀土耐磨钢](https://36kr.com/newsflashes/3842412186142985?f=rss)
+  - [国开行：前4月发放4406亿元贷款支持基础设施建设](https://36kr.com/newsflashes/3842411503192576?f=rss)
+  - [我国乘用车12年胖了近400公斤 我国新能源车要减肥了](https://36kr.com/newsflashes/3842413796624905?f=rss)
   - [我国清洁低碳氢煤混烧技术取得重大突破](https://36kr.com/newsflashes/3842408617658885?f=rss)
+  - [比特币升破61000美元，日内涨0.34%](https://36kr.com/newsflashes/3842435675932928?f=rss)
+  - [韩国投资者持续买入中国硬科技](https://36kr.com/newsflashes/3842433670941190?f=rss)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Association Management Script - Multiple Vulnerabilities (IDOR, SQLi, Stored XSS)](https://cxsecurity.com/issue/WLB-2026060001)
   - [BrandIT Consultancy - Blind Sql Injection](https://cxsecurity.com/issue/WLB-2026060002)
@@ -62,6 +67,9 @@
 - VulDB Recent Entries
   - [CVE-2026-11459 | SecureAge CatchPulse up to 10.9.1 IOCTL saappctl.sys information disclosure](https://vuldb.com/vuln/369078)
 - Vulners.com RSS Feed
+  - [[SECURITY] Fedora 43 Update: keylime-7.14.2-1.fc43](https://vulners.com/fedora/FEDORA:A21577992B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: libssh2-1.11.1-6.fc43](https://vulners.com/fedora/FEDORA:419FC70BC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: perl-CryptX-0.089-1.fc43](https://vulners.com/fedora/FEDORA:8BCFF7992B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11435](https://vulners.com/nvd/NVD:CVE-2026-11435?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11436](https://vulners.com/nvd/NVD:CVE-2026-11436?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11437](https://vulners.com/nvd/NVD:CVE-2026-11437?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -77,6 +85,8 @@
   - [CVE-2026-11440 theonedev REST API default-branch improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11441](https://vulners.com/nvd/NVD:CVE-2026-11441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11441 theonedev Pull Request issues canAccessIssue improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-11441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11447 GL.iNet GL-MT3000 MTK Backend iwinfo.so iwinfo_backend command injection](https://vulners.com/cve/CVE-2026-11447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11447 GL.iNet GL-MT3000 MTK Backend iwinfo.so iwinfo_backend command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-11447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-26422](https://vulners.com/nvd/NVD:CVE-2026-26422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36229](https://vulners.com/attackerkb/AKB:1FED9CB4-F8CF-496C-A939-6372AD6EDD50?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36229](https://vulners.com/nvd/NVD:CVE-2026-36229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
