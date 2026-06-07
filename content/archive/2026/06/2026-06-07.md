@@ -119,6 +119,7 @@
   - [secure-software-development exploit](https://sploitus.com/exploit?id=F1717668-06AE-58E8-A269-7D18FB40BCBB&utm_source=rss&utm_medium=rss)
   - [zero2shell-50 exploit](https://sploitus.com/exploit?id=7D47D73F-F6D1-58FF-8D8F-B4D1F8B7895A&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Hacked, leaked, and held for ransom: the worst breaches of 2026 so far](https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/)
   - [OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
   - [Sriram Krishnan is leaving his role as White House AI advisor](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)
   - [The Trump administration might take an equity stake in OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/)
@@ -131,6 +132,7 @@
   - [Researchers pinpoint why larger language models pick up skills that small ones miss](https://the-decoder.com/researchers-pinpoint-why-larger-language-models-pick-up-skills-that-small-ones-miss/)
 - The Verge
   - [AI ‘content creators’ are getting harder to spot](https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators)
+  - [Dell&#8217;s new XPS 14 is better in almost every way](https://www.theverge.com/tech/944360/dell-xps-14-2026-review)
   - [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun)
   - [Summer Game Fest 2026: All the news from gaming&#8217;s busiest week](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026)
   - [The cutest games from the Wholesome Direct 2026 showcase](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers)
@@ -164,7 +166,14 @@
   - [CVE-2026-11493 | Tenda AC15 15.03.05.19 Samba /etc_ro/smb.conf weak password](https://vuldb.com/vuln/369113)
   - [CVE-2026-11494 | TOTOLINK AC1200 T8 4.1.5cu.8611 vsftpd /etc/vsftpd.conf least privilege violation](https://vuldb.com/vuln/369114)
   - [CVE-2026-11495 | CodeAstro Ingredients Stock Management System 1.0 add_stock.php ID sql injection](https://vuldb.com/vuln/369115)
+  - [CVE-2026-11497 | D-Link DCS-5615 1.01.00 Boa Webserver /etc/conf.d/boa/boa.conf least privilege violation](https://vuldb.com/vuln/369117)
+  - [CVE-2026-11498 | Tenda HG7HG9/HG10 300001138_en_xpon Web Management Interface /boaform/voip_other_set asp_voip_OtherSet funckey_transfer stack-based overflow](https://vuldb.com/vuln/369118)
+  - [CVE-2026-11499 | Tenda HG7HG9/HG10 300001138_en_xpon /boaform/formDOMAINBLK blkDomain stack-based overflow](https://vuldb.com/vuln/369119)
+  - [CVE-2026-11500 | Weaviate up to 1.37.7 Static API Key client.go validateConfig StaticApiKey authorization (Issue 11392)](https://vuldb.com/vuln/369120)
+  - [CVE-2026-11501 | SourceCodester Hospitals Patient Records Management System 1.0 Master.php?f=save_patient ID sql injection](https://vuldb.com/vuln/369121)
+  - [CVE-2026-11502 | JeecgBoot up to 3.9.2 Third-Party Login ThirdLoginController.java HttpServletResponse.sendRedirect state redirect (Issue 9639)](https://vuldb.com/vuln/369122)
   - [CVE-2026-26422 | Clash Verge Rev clash-verge-service-ipc up to 2.2.x IPC Endpoint permission assignment](https://vuldb.com/vuln/369079)
+  - [CVE-2026-49494 | Comodo Internet Security up to 12.3.4.8162 Inspect.sys integer underflow](https://vuldb.com/vuln/369116)
 - Vulners.com RSS Feed
   - [[SECURITY] Fedora 43 Update: keylime-7.14.2-1.fc43](https://vulners.com/fedora/FEDORA:A21577992B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: libssh2-1.11.1-6.fc43](https://vulners.com/fedora/FEDORA:419FC70BC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -208,6 +217,7 @@
   - [CVE-2026-26422](https://vulners.com/nvd/NVD:CVE-2026-26422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36229](https://vulners.com/attackerkb/AKB:1FED9CB4-F8CF-496C-A939-6372AD6EDD50?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36229](https://vulners.com/nvd/NVD:CVE-2026-36229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49494](https://vulners.com/nvd/NVD:CVE-2026-49494?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [defi-exploit-pipeline](https://vulners.com/githubexploit/1E6E1A5B-217E-5BA0-A4DA-85AB7D09A63D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [epiphan_pearlnano_poc](https://vulners.com/githubexploit/07A4D8CE-5ABE-50A7-9E9B-6A35A6140D6B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Mobyproject Moby](https://vulners.com/githubexploit/AF683167-D0EB-5BC5-AFCD-7CFEED7715C2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
