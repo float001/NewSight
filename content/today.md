@@ -50,6 +50,8 @@
   - [黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案](https://36kr.com/newsflashes/3842764594792708?f=rss)
 - antirez.com
   - [A new era for software testing](http://antirez.com/news/168)
+- Ars Technica
+  - [School shooting survivor sues AI gun detection firm after system failed to spot weapon](https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Association Management Script - Multiple Vulnerabilities (IDOR, SQLi, Stored XSS)](https://cxsecurity.com/issue/WLB-2026060001)
   - [BrandIT Consultancy - Blind Sql Injection](https://cxsecurity.com/issue/WLB-2026060002)
@@ -98,6 +100,8 @@
 - PwnDefend
   - [Email and Domain Security](https://www.pwndefend.com/2026/06/06/email-and-domain-security/)
   - [The State of DNS Security — Where the Top Million Stands: DNSSEC, Email Authentication & DANE by the Numbers](https://www.pwndefend.com/2026/06/06/the-state-of-dns-security-where-the-top-million-stands-dnssec-email-authentication-dane-by-the-numbers/)
+- Recent Commits to cve:main
+  - [Update Sun Jun  7 11:56:31 UTC 2026](https://github.com/trickest/cve/commit/b20312bf00d593c107af6e4d5fcc9aff332dce58)
 - Sploitus.com Exploits RSS Feed
   - [bugbounty-toolkit exploit](https://sploitus.com/exploit?id=162F180D-9B00-5484-BB77-3E6F508C797B&utm_source=rss&utm_medium=rss)
   - [defi-exploit-pipeline exploit](https://sploitus.com/exploit?id=1E6E1A5B-217E-5BA0-A4DA-85AB7D09A63D&utm_source=rss&utm_medium=rss)
@@ -119,9 +123,11 @@
 - The Decoder
   - [Anthropic poaches OpenAI's second-ever chip engineer as both companies race toward IPOs](https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/)
   - [ChatGPT's new Lockdown Mode lets you disable web access and more to protect sensitive data from prompt injection](https://the-decoder.com/chatgpts-new-lockdown-mode-lets-you-disable-web-access-and-more-to-protect-sensitive-data-from-prompt-injection/)
+  - [OpenAI says "chat is dead" and plans to rebuild ChatGPT as a full-blown agent app](https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/)
   - [Perplexity's "Search as Code" lets AI models write their own search pipelines instead of calling fixed APIs](https://the-decoder.com/perplexitys-search-as-code-lets-ai-models-write-their-own-search-pipelines-instead-of-calling-fixed-apis/)
   - [Researchers pinpoint why larger language models pick up skills that small ones miss](https://the-decoder.com/researchers-pinpoint-why-larger-language-models-pick-up-skills-that-small-ones-miss/)
 - The Verge
+  - [AI ‘content creators’ are getting harder to spot](https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators)
   - [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun)
   - [Summer Game Fest 2026: All the news from gaming&#8217;s busiest week](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026)
   - [The cutest games from the Wholesome Direct 2026 showcase](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers)
@@ -201,6 +207,7 @@
   - [CVE-2026-36229](https://vulners.com/nvd/NVD:CVE-2026-36229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [defi-exploit-pipeline](https://vulners.com/githubexploit/1E6E1A5B-217E-5BA0-A4DA-85AB7D09A63D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [epiphan_pearlnano_poc](https://vulners.com/githubexploit/07A4D8CE-5ABE-50A7-9E9B-6A35A6140D6B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Mobyproject Moby](https://vulners.com/githubexploit/AF683167-D0EB-5BC5-AFCD-7CFEED7715C2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx](https://vulners.com/githubexploit/087C6F77-A5E1-5344-AD41-F986E6855C8A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx](https://vulners.com/githubexploit/C6B5D6BD-CFEC-571A-B766-B82261AE3DD8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx](https://vulners.com/githubexploit/C859A543-A5A3-5864-8659-9856045D369A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -220,6 +227,7 @@
   - [Lauf eElja Electric Mountain Bike Review: Power Trip](https://www.wired.com/review/lauf-eelja-electric-mountain-bike/)
 - 不安全
   - [OpenAI推出锁定模式 可降低数据泄露风险](https://buaq.net/go-421462.html)
+  - [Recent LLVM hash table improvements](https://buaq.net/go-421469.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 量子位 QbitAI
