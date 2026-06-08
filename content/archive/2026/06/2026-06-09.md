@@ -3,6 +3,13 @@
 - 2Libra
   - [0 元购高潮了吗?现在 0 元蹬分组比 pro 号速度还快 首字已经两秒内里,就离谱](https://2libra.com/post/ai-gateway/hZxKTvb)
   - [WWDC 花大篇幅介绍的 ai 最后你说大陆暂不提供 🥹](https://2libra.com/post/apple/FuWjcyJ)
+  - [笑死我了潘多拉](https://2libra.com/post/forum-function/kaN8BIn)
+- 36氪
+  - [Meta推出“劳工学院”，培训数据中心建设工人](https://36kr.com/newsflashes/3845124944153092?f=rss)
+  - [SpaceX纳斯达克IPO获大幅超额认购](https://36kr.com/newsflashes/3845125311695366?f=rss)
+  - [美股三大指数收盘涨跌不一，热门中概股跌多涨少](https://36kr.com/newsflashes/3845121647905287?f=rss)
+  - [苹果：中国大陆暂不提供最新Siri AI](https://36kr.com/newsflashes/3845124683680006?f=rss)
+  - [通用汽车车轴供应商的罢工仍在继续](https://36kr.com/newsflashes/3845124240279816?f=rss)
 - 404 Media
   - [This Company Will Add Phone, AirPod, and Smartwatch Trackers to License Plate Readers](https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/)
 - Ars Technica
@@ -54,6 +61,8 @@
   - [Apple’s Image Playground doesn’t suck anymore](https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/)
   - [Apple’s long-awaited AI Siri overhaul is finally here](https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/)
   - [Apple’s Photos app is getting new AI editing features](https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/)
+  - [Apple’s WWDC AI demos looked more real after $250M false ad settlement](https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/)
+  - [As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says](https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/)
   - [Following Anthropic, OpenAI files confidentially for IPO](https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/)
   - [How to apply to Startup Battlefield 2026, what you need ahead of today’s June 8 deadline](https://techcrunch.com/2026/06/08/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-todays-june-8-deadline/)
   - [Microsoft’s open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
@@ -75,6 +84,7 @@
   - [Apple announces watchOS 27, now with Siri AI](https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026)
   - [Apple drops support for a long list of iPads and Apple Watches with latest OS updates](https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped)
   - [Apple is redesigning Screen Time and overhauling child controls](https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026)
+  - [Apple is using AI to fix Safari’s extension problem](https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions)
   - [Apple’s new parental controls are for keeping Apple out of trouble](https://www.theverge.com/policy/946331/apple-parental-controls-child-accounts-wwdc)
   - [Cameras get an Apple Intelligence boost in Apple Home](https://www.theverge.com/tech/946032/apple-home-ai-camera-descriptions-search-4k)
   - [NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources](https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update)
