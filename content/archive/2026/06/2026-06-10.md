@@ -7,6 +7,8 @@
   - [【投票】任天堂直面会-塞尔达传说：时之笛 重制版](https://2libra.com/post/switch/XzjRbIz)
   - [【求教贴】如何评论上传图和删除评论](https://2libra.com/post/product-details/wSALyVQ)
   - [【潘多拉魔盒】评论回复只能 10 个字。。以上？](https://2libra.com/post/forum-function/DSBkhW0)
+  - [【💰】赴日西装该怎么选](https://2libra.com/post/travel-tips/7Igel8M)
+  - [【💰】马瑟克 SpaceX 以 135 美元总计 1.75 万亿美元的总市值上市，预测当天涨，后续必大跌，一年跌一半。](https://2libra.com/post/stock-market/wJWDX3S)
   - [【🔒】竞拍一个 GPT-5.5 的 token 密钥，额度$15！](https://2libra.com/post/ai-gateway/OKeTWsd)
   - [万可中转，活动多多，快来参与吧 ❗️](https://2libra.com/post/promotion/ln-Gpl1)
   - [为了不掉徽章，只好交出金币](https://2libra.com/post/forum-function/Wr0u_kH)
@@ -23,6 +25,8 @@
   - [高考期间有必要禁用豆包吗？今天用这 AI 用来做题测试用了一下，感觉能把高考学子成功送入大专！](https://2libra.com/post/ai-tools/EMF642q)
 - 36氪
   - [14家银行理财5月规模增超2200亿，股债波动下销售渠道强化风险适配](https://36kr.com/newsflashes/3846534454708741?f=rss)
+  - [2连板中晶科技：公司正在筹划股权激励事项](https://36kr.com/newsflashes/3847092941015553?f=rss)
+  - [2连板圣泉集团：公司相关产品与媒体报道中提及的PPE在产品体系、技术路线和应用市场上差异显著](https://36kr.com/newsflashes/3847130255919619?f=rss)
   - [36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件](https://36kr.com/p/3846789531404549?f=rss)
   - [5月我国汽车出口量同比增长68.7%，延续快速增长态势](https://36kr.com/newsflashes/3846953132345858?f=rss)
   - [6月基金发行热度不减，集中布局科技周期赛道](https://36kr.com/newsflashes/3846532191422720?f=rss)
@@ -69,10 +73,12 @@
   - [华友钴业旗下广西新材料公司增资至25.9亿，增幅约26%](https://36kr.com/newsflashes/3846824373635329?f=rss)
   - [华泰证券：国产替代窗口期已至，看好超快激光设备行业](https://36kr.com/newsflashes/3846583905782274?f=rss)
   - [南向资金净买入额达80亿港元](https://36kr.com/newsflashes/3847042363656706?f=rss)
+  - [印度多家银行上调外币存款利率以吸引外资流入](https://36kr.com/newsflashes/3847113896544771?f=rss)
   - [去哪儿旅行：18岁旅客出发机票量环比增三成](https://36kr.com/newsflashes/3846860069194243?f=rss)
   - [受股市上涨推动，韩国家庭一季度金融支出创24年最快增速](https://36kr.com/newsflashes/3846648237852931?f=rss)
   - [台积电5月营收同比增长30.1%](https://36kr.com/newsflashes/3846933934017025?f=rss)
   - [台积电CFO：不排除调涨芯片价格，但不会突然暴涨四、五倍](https://36kr.com/newsflashes/3846967265495303?f=rss)
+  - [商务部等8单位：到2030年，在全国范围内打造160列以上铁路旅游列车专用车组](https://36kr.com/newsflashes/3847086989969924?f=rss)
   - [商络电子：公司系三星电机、TDK、国巨等MLCC原厂授权分销商](https://36kr.com/newsflashes/3847057784982017?f=rss)
   - [国信证券：目前基本面改善扩散中，增量资金逐渐入场，这轮牛市有望出现轮涨](https://36kr.com/newsflashes/3846613211335176?f=rss)
   - [国家统计局：2026年5月份CPI总体平稳，PPI继续上涨](https://36kr.com/newsflashes/3846692692216073?f=rss)
@@ -92,13 +98,17 @@
   - [工信部：加快建设400Gbps/800Gbps等骨干传输网络](https://36kr.com/newsflashes/3847002408749574?f=rss)
   - [恒指午间休盘跌1.1%，恒生科技指数跌1.69%](https://36kr.com/newsflashes/3846835457313288?f=rss)
   - [恒指开盘跌0.5%，恒生科技指数跌0.38%](https://36kr.com/newsflashes/3846678657485312?f=rss)
+  - [恒指收跌0.64%，恒生科技指数跌0.94%](https://36kr.com/newsflashes/3847079388612869?f=rss)
+  - [恒通股份在山东成立恒信化学公司，注册资本5000万](https://36kr.com/newsflashes/3847112517126409?f=rss)
   - [恩捷股份等在四川成立新材料科技公司，注册资本约13.7亿](https://36kr.com/newsflashes/3846883912157444?f=rss)
   - [我国已建成五基空天地一体生态监测网络](https://36kr.com/newsflashes/3847017232927240?f=rss)
   - [我国规模最大光氢储一体化项目全面建成](https://36kr.com/newsflashes/3846577122461952?f=rss)
   - [手机装不下的野心，正在被搬进游戏平板丨2026游戏平板使用趋势观察](https://36kr.com/p/3846673443997961?f=rss)
+  - [新五丰：5月生猪销售48.97万头](https://36kr.com/newsflashes/3847120342075657?f=rss)
   - [日本企业物价指数同比涨幅创三年多来新高](https://36kr.com/newsflashes/3846919097846020?f=rss)
   - [星巴克据悉考虑日本业务相关选项，包括出售股权和IPO](https://36kr.com/newsflashes/3846737202104839?f=rss)
   - [智元发布“元苼生态发展计划”：2026年先行投入1亿元，五年规划20亿元](https://36kr.com/newsflashes/3846798425180419?f=rss)
+  - [智库称韩国散户的杠杆股票投资已达到券商设定的上限](https://36kr.com/newsflashes/3847122837817603?f=rss)
   - [智界RX正式官宣，系华为首款超跑SUV](https://36kr.com/newsflashes/3846830924368393?f=rss)
   - [最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店](https://36kr.com/p/3846793046133257?f=rss)
   - [最新报告显示美国社保信托基金预计将于2032年底耗尽资金](https://36kr.com/newsflashes/3846628838983945?f=rss)
@@ -108,6 +118,7 @@
   - [欧陆通：已与Google达成算力设备GPU电源项目合作，正推进至测试及小批量生产](https://36kr.com/newsflashes/3846628037347849?f=rss)
   - [正泰集团与阿里云达成战略合作](https://36kr.com/newsflashes/3847016759429636?f=rss)
   - [毕马威与微软扩大合作，向逾27万员工全面铺开Copilot并引入Agent 365治理框架](https://36kr.com/newsflashes/3846114893154560?f=rss)
+  - [氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市](https://36kr.com/p/3847079661193733?f=rss)
   - [沪深两市成交额突破1万亿](https://36kr.com/newsflashes/3846728230832386?f=rss)
   - [沪深两市成交额突破2万亿](https://36kr.com/newsflashes/3846943606622728?f=rss)
   - [沪深两市成交额连续第33个交易日突破2.5万亿元](https://36kr.com/newsflashes/3847002848070148?f=rss)
@@ -115,6 +126,7 @@
   - [波音5月交付60架飞机](https://36kr.com/newsflashes/3846115277294086?f=rss)
   - [深成指、创业板指均跌超2%](https://36kr.com/newsflashes/3846748237023488?f=rss)
   - [清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发](https://36kr.com/p/3844720012151040?f=rss)
+  - [滴滴接入微信AI生态](https://36kr.com/newsflashes/3847102371940870?f=rss)
   - [澜起科技成功送样9200 MT/s DDR5 RCD芯片](https://36kr.com/newsflashes/3846654582442499?f=rss)
   - [独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段](https://36kr.com/p/3846956646124036?f=rss)
   - [现货黄金失守4200美元，创近3个月新低](https://36kr.com/newsflashes/3846643138840836?f=rss)
@@ -157,11 +169,16 @@
 - CERT Recently Published Vulnerability Notes
   - [VU#616257: Microsoft-signed UEFI shim bootloaders vulnerable to Secure Boot bypass](https://kb.cert.org/vuls/id/616257)
 - Cybersecurity News
+  - [Algorithmic Acceleration: Microsoft Deploys Low-Latency Core Profiles via KB5094126 Cumulative Update](https://securityonline.info/windows-11-cpu-optimization/)
+  - [Algorithmic Fluency: Google Unveils Gemini 3.5 Live Translate for Real-Time Audiocentric Mediation](https://securityonline.info/gemini-live-translate-tool/)
+  - [Architectural Exposure: Developers Extract Apple’s Subterranean Core Prompts for Siri AI](https://securityonline.info/siri-ai-system-prompt/)
   - [CISA Expands Active Exploit Catalog with Cisco, Arista, and Chromium Flaws](https://securityonline.info/cisa-active-exploit-catalog-additions/)
+  - [COXMO Botnet Variant: New Advanced Threat Exploits Router Firmware](https://securityonline.info/coxmo-botnet-variant-malware-analysis/)
   - [Critical FortiSandbox Flaw Requires Immediate Patching](https://securityonline.info/cve-2026-25089-fortisandbox-patch/)
   - [Critical Rclone Command Execution Bug Threatens Cloud Environments](https://securityonline.info/rclone-command-execution/)
   - [Critical Veeam Backup Vulnerability Exposed](https://securityonline.info/veeam-backup-vulnerability-rce/)
   - [Cybercriminals Deploy Malicious AI Extensions to Steal Private Chat Data](https://securityonline.info/malicious-ai-extensions-steal-chats/)
+  - [Deprecating the Legacy: Google Chrome Initiates Final Removal of Manifest v2 Architecture](https://securityonline.info/chrome-manifest-v3-migration/)
   - [Havoc Stager Campaign Exploits Fake Invoices to Compromise Networks](https://securityonline.info/havoc-stager-campaign-report/)
   - [High-Severity Vulnerabilities Addressed in Endpoint Manager Mobile](https://securityonline.info/ivanti-epmm-security-updates/)
   - [Ivanti Sentry RCE: Publicly Disclosed PoC for CVSS 10](https://securityonline.info/ivanti-sentry-rce-poc-disclosed/)
@@ -169,6 +186,7 @@
   - [Microsoft Patch Tuesday Fixes Address Critical Zero-Day Flaws](https://securityonline.info/microsoft-patch-tuesday-fixes/)
   - [New Microsoft Defender Zero Day Exploit Released Publicly Online](https://securityonline.info/defender-zero-day-exploit-rogueplanet/)
   - [OpenSSL Security Patches Fix Remote Code Execution Risk](https://securityonline.info/openssl-security-patches-rce/)
+  - [Regulatory Alignment: Let’s Encrypt Amends Subscriber Agreement to Enforce US Sanctions and Export Compliance](https://securityonline.info/lets-encrypt-subscriber-agreement/)
   - [Sovereign Ascent: Anthropic Deploys Flagship Fable 5 Architecture](https://securityonline.info/anthropic-fable-5-model/)
 - daniel.haxx.se
   - [A human in control](https://daniel.haxx.se/blog/2026/06/10/a-human-in-control/)
@@ -183,6 +201,8 @@
   - [Blame AI: Patch Tuesday Hits Record 206 CVEs](https://www.darkreading.com/vulnerabilities-threats/blame-ai-patch-tuesday-record-206-cves)
   - [Miasma Supply Chain Worm Burrows Into 73 Microsoft Repositories](https://www.darkreading.com/application-security/miasma-supply-chain-worm-73-microsoft-repositories)
   - [Microsoft Exchange Flaw Lets Attackers Spoof Any Email Address](https://www.darkreading.com/vulnerabilities-threats/exchange-flaw-attackers-spoof-email-address)
+- Data Breach
+  - [France’s Government Messaging App Tchap Got Breached](https://securityaffairs.com/193393/security/frances-government-messaging-app-tchap-got-breached.html)
 - defend.network
   - [Microsoft 200-patch record, Veeam RCE critical, GitHub supply-chain worm ongoing](https://defend.network/briefings/microsoft-veeam-github-patch-rce-miasma-2026-06-10.html)
 - Emergent Minds | paddo.dev
@@ -194,6 +214,7 @@
 - Hacker News Frontpage
   - [Apple decided not to roll out Siri in EU after denied request for exemption](https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/)
   - [Ask HN: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=48465702)
+  - [AWS Bedrock to require sharing data with Anthropic for Mythos and future models](https://news.ycombinator.com/item?id=48473166)
   - [Biff.core: system composition for Clojure web apps](https://biffweb.com/p/core/)
   - [Exif Smuggling](https://github.com/signalblur/exifsmugglingpoc)
   - [Google's 20% 'project' has become AI's 120% 'attention'](https://joe.dev/posts/new-20pct-time/)
@@ -210,6 +231,7 @@
   - [ServiceNow 披露泄露客户数据的安全事件](http://0.0.0.0:8080/post/64319)
   - [亲俄黑客组织利用 WinRAR 漏洞在乌克兰部署窃密木马](http://0.0.0.0:8080/post/64318)
 - Horizon3.ai
+  - [Claude Mythos & Enterprise Security: Your Questions Answered](https://horizon3.ai/intelligence/blogs/claude-mythos-enterprise-security/)
   - [The First AI State-Sponsored Attack: What It Means for Defenders](https://horizon3.ai/intelligence/blogs/first-ai-state-sponsored-attack-threat-model/)
 - IEEE Spectrum
   - [The Pros and Cons of Job Hopping as an Engineer](https://spectrum.ieee.org/strategic-job-hopping)
@@ -224,6 +246,9 @@
   - [Reconstructing AI activity in investigations](https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/)
 - NVIDIA AI Blog
   - [NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute](https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/)
+- Payatu
+  - [Agentic AI Security: The Hidden Attack Surface Beyond Prompt Injection](https://payatu.com/blog/agentic-ai-security-the-hidden-attack-surface-beyond-prompt-injection/)
+  - [Binwalk Path Traversal Vulnerability: Turning Firmware Analysis into Code Execution](https://payatu.com/blog/binwalk-path-traversal-vulnerability-turning-firmware-analysis-into-code-execution/)
 - PwnDefend
   - [Unifi Exploitation in the Defused Honeypots](https://www.pwndefend.com/2026/06/10/unifi-exploitation-in-the-defused-honeypots/)
 - simonwillison.net
@@ -258,6 +283,7 @@
   - [It’s not FAANG anymore. It’s MANGOS.](https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/)
   - [Rivian starts deliveries of its all-important R2 SUV](https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/)
   - [Top Lucid Motors executive departs amid new CEO’s leadership shakeup](https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/)
+  - [Waymo says it built a better benchmark for comparing robotaxis to humans](https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/)
 - The Decoder
   - [Anthropic releases Claude Fable 5 and Mythos 5 with major gains in coding and science](https://the-decoder.com/anthropic-releases-claude-fable-5-and-mythos-5-with-major-gains-in-coding-and-science/)
   - [Google's Gemini 3.5 Live Translate delivers real-time voice translation across 70+ languages](https://the-decoder.com/googles-gemini-3-5-live-translate-delivers-real-time-voice-translation-across-70-languages/)
@@ -274,6 +300,8 @@
   - [Nintendo is playing things too safe](https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis)
   - [SwitchBot’s E Ink Weather Station is already 20 percent off](https://www.theverge.com/gadgets/946753/switchbot-weather-station-jackery-explorer-deal-sale)
   - [The App Store is going to add subscription bundles soon](https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store)
+  - [Waymo built a virtual driver to study how humans react to surprises on the road](https://www.theverge.com/transportation/947178/waymo-reference-driver-model-surprise-avoid-collision)
+  - [WhatsApp ordered to host rival AI assistants for free](https://www.theverge.com/tech/947516/meta-whatsapp-eu-third-party-ai-chatbot-ban-order)
 - troyhunt.com
   - [Weekly Update 507](https://www.troyhunt.com/weekly-update-507/)
 - VulDB Recent Entries
@@ -672,6 +700,7 @@
   - [CVE-2026-10045 CVE-2026-10045](https://vulners.com/cvelist/CVELIST:CVE-2026-10045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10520](https://vulners.com/nvd/NVD:CVE-2026-10520?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10523](https://vulners.com/nvd/NVD:CVE-2026-10523?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10721](https://vulners.com/nvd/NVD:CVE-2026-10721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10727](https://vulners.com/nvd/NVD:CVE-2026-10727?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10846](https://vulners.com/nvd/NVD:CVE-2026-10846?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10846 Insufficient verification that responses belong to a query](https://vulners.com/cve/CVE-2026-10846?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -1030,9 +1059,12 @@
   - [CVE-2026-8025](https://vulners.com/nvd/NVD:CVE-2026-8025?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8045](https://vulners.com/nvd/NVD:CVE-2026-8045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8071](https://vulners.com/nvd/NVD:CVE-2026-8071?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8613](https://vulners.com/nvd/NVD:CVE-2026-8613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8853](https://vulners.com/nvd/NVD:CVE-2026-8853?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8863](https://vulners.com/nvd/NVD:CVE-2026-8863?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8863 CVE-2026-8863](https://vulners.com/cve/CVE-2026-8863?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8863 CVE-2026-8863](https://vulners.com/cvelist/CVELIST:CVE-2026-8863?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9019](https://vulners.com/nvd/NVD:CVE-2026-9019?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9060](https://vulners.com/nvd/NVD:CVE-2026-9060?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9067](https://vulners.com/nvd/NVD:CVE-2026-9067?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9735 Keyfile contents are in MongoDB Server logs](https://vulners.com/cvelist/CVELIST:CVE-2026-9735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -1049,6 +1081,7 @@
   - [cve-research](https://vulners.com/githubexploit/D7D37698-534C-5528-9A33-87E8EA671EEF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2017-20251](https://vulners.com/githubexploit/8476D214-A11C-54A2-97EC-85289AF07ED0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2024-21182](https://vulners.com/githubexploit/6BABC14A-9ADE-52FC-B15C-C89719369496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-10520](https://vulners.com/githubexploit/D08D4EF5-0307-5336-8253-F56FE19CCC6B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-48732](https://vulners.com/githubexploit/F61BAFBC-6B82-5BDB-B42A-333382F0F782?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-48907](https://vulners.com/githubexploit/01643F39-D019-5583-8544-216EDDDD8F79?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-48962](https://vulners.com/githubexploit/F6F9F4C8-BEC8-5564-9446-CA91D4F5949C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -1101,6 +1134,8 @@
   - [A human in control](https://buaq.net/go-422118.html)
   - [Anthropic 发布 Claude Fable 5：配备网络安全护栏的 Mythos 级 AI](https://buaq.net/go-422077.html)
   - [Claude Fable 5/Mythos 5模型发布 编码能力远远领先于其他模型](https://buaq.net/go-422088.html)
+  - [Claude Mythos & Enterprise Security: Your Questions Answered](https://buaq.net/go-422128.html)
+  - [How has use of framing protection security headers changed in the past 3 years&#x3f;, (Wed, Jun 10th)](https://buaq.net/go-422135.html)
   - [白宫加强对人工智能测试部门的管制](https://buaq.net/go-422083.html)
   - [谷歌浏览器对MV2扩展支持倒计时 很快uBlock Origin广告拦截扩展就会无法使用](https://buaq.net/go-422064.html)
 - 代码审计星球
