@@ -6,6 +6,7 @@
   - [Being “Good” at Things](https://blog.jim-nielsen.com/2026/good-at-things/)
 - darkreading
   - [Bug Bounty Research Triggers ServiceNow Security Alert](https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert)
+  - [CISA Rewrites Federal Patching Requirements for AI Threat Era](https://www.darkreading.com/cyber-risk/cisa-rewrites-federal-patching-requirements-ai-threat-era)
   - [Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet](https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-microsoft-exploit-rogueplanet)
 - Fidelis Security
   - [Fidelis Deception®: Unified Active Deception Across On-Prem, Endpoint, Network, Cloud, and Hybrid Environments](https://fidelissecurity.com/threatgeek/deception/fidelis-deception-across-on-prem-endpoint-network-cloud-and-hybrid/)
@@ -16,6 +17,7 @@
   - [DiffusionGemma: 4x Faster Text Generation](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
   - [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
   - [How JPL Keeps the 13-Year-Old Curiosity Rover Doing Science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science)
+  - [Organic foods are not healthier or pesticide free](https://news.immunologic.org/p/organic-foods-are-not-healthieror)
   - [Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential)
   - [The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]](https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf)
   - [What Is It Like to Be a Bat? [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
@@ -37,6 +39,7 @@
   - [Exploit for CVE-2026-9067 exploit](https://sploitus.com/exploit?id=642054C4-1CED-5BD6-887A-6F06F63071F5&utm_source=rss&utm_medium=rss)
   - [Exploit for Incomplete Comparison with Missing Factors in Arista Eos exploit](https://sploitus.com/exploit?id=317E04B3-54AE-5CAF-87AE-5F2F7D5797F2&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations](https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/)
   - [Everyone wants a piece of Tesla’s battery business](https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/)
   - [Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues](https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/)
   - [How memory tools can make AI models worse](https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/)
@@ -59,7 +62,9 @@
   - [Kalshi adds required employment verification for some prediction market bets](https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading)
   - [Microsoft restricts Claude Fable for employees over data retention concerns](https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally)
   - [Microsoft, like, totally gets why students are booing AI-pilled graduation speakers](https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft)
+  - [Nearly a million passports and photo IDs were left unprotected on the public internet](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal)
   - [The future of AI regulation is courting the strangest, most anxious bedfellows](https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms)
+  - [Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs](https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma)
   - [You can just tell the Instagram algorithm what you want now](https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell)
 - VulDB Recent Entries
   - [CVE-2026-11417 | Amazon AWS Cloud Development Kit library up to 2.244.x on Windows os command injection (GHSA-999r-qq7v-r334)](https://vuldb.com/vuln/370217)
