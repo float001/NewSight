@@ -1,6 +1,50 @@
 # 今日安全资讯（2026-06-11）
 
+- darkreading
+  - [Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet](https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-microsoft-exploit-rogueplanet)
+- Google DeepMind Blog
+  - [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/)
+- Hacker News Frontpage
+  - [DiffusionGemma: 4x Faster Text Generation](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
 - infosecurity-magazine.com
   - [Fake Software Tutorials on TikTok Spread Vidar Stealer](https://www.infosecurity-magazine.com/news/fake-software-videos-tiktok-vidar/)
+- NVIDIA AI Blog
+  - [NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI](https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/)
+- Sploitus.com Exploits RSS Feed
+  - [DefendX exploit](https://sploitus.com/exploit?id=5A66112E-DD2C-590C-BB12-0D52B5F8BC36&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incomplete Comparison with Missing Factors in Arista Eos exploit](https://sploitus.com/exploit?id=317E04B3-54AE-5CAF-87AE-5F2F7D5797F2&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [How memory tools can make AI models worse](https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/)
+  - [The Indian government got cold feet on Starlink just before SpaceX’s IPO](https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/)
+- text/plain
+  - [Participatory Extensible Security](https://textslashplain.com/2026/06/10/participatory-extensible-security/)
+- The Verge
+  - [Amazon’s Echo speakers can now help kids wind down and fall asleep](https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace)
+  - [Google will save your Lens photos, Search Live recordings, and Translate audio for AI training](https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio)
+  - [Microsoft restricts Claude Fable for employees over data retention concerns](https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally)
+- Vulners.com RSS Feed
+  - [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://vulners.com/thn/THN:F7E7D468AF7210FBEDEFCF347D48B054?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25700](https://vulners.com/nvd/NVD:CVE-2026-25700?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45565](https://vulners.com/nvd/NVD:CVE-2026-45565?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45566](https://vulners.com/nvd/NVD:CVE-2026-45566?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45567](https://vulners.com/nvd/NVD:CVE-2026-45567?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45569](https://vulners.com/nvd/NVD:CVE-2026-45569?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46497](https://vulners.com/nvd/NVD:CVE-2026-46497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46558](https://vulners.com/nvd/NVD:CVE-2026-46558?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48096](https://vulners.com/nvd/NVD:CVE-2026-48096?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48855](https://vulners.com/nvd/NVD:CVE-2026-48855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48856](https://vulners.com/nvd/NVD:CVE-2026-48856?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48858](https://vulners.com/nvd/NVD:CVE-2026-48858?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48859](https://vulners.com/nvd/NVD:CVE-2026-48859?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48860](https://vulners.com/nvd/NVD:CVE-2026-48860?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49759](https://vulners.com/nvd/NVD:CVE-2026-49759?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49760](https://vulners.com/nvd/NVD:CVE-2026-49760?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53693](https://vulners.com/nvd/NVD:CVE-2026-53693?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53694](https://vulners.com/nvd/NVD:CVE-2026-53694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53698](https://vulners.com/nvd/NVD:CVE-2026-53698?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [DefendX](https://vulners.com/githubexploit/5A66112E-DD2C-590C-BB12-0D52B5F8BC36?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incomplete Comparison with Missing Factors in Arista Eos](https://vulners.com/githubexploit/317E04B3-54AE-5CAF-87AE-5F2F7D5797F2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Donald Trump Is Ready for Fight Night. So Are Donors](https://www.wired.com/story/donald-trump-ufc-white-house-south-lawn/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
