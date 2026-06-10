@@ -5,23 +5,52 @@
 - Google DeepMind Blog
   - [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/)
 - Hacker News Frontpage
+  - [Claude Desktop spins up a VM without no way of stopping it](https://github.com/anthropics/claude-code/issues/29045)
   - [DiffusionGemma: 4x Faster Text Generation](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
+  - [How JPL Keeps the 13-Year-Old Curiosity Rover Doing Science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science)
+  - [The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]](https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf)
+- IEEE Spectrum
+  - [EPICS in IEEE’s Awards Honor Outstanding Students and Faculty](https://spectrum.ieee.org/epics-in-ieee)
 - infosecurity-magazine.com
   - [Fake Software Tutorials on TikTok Spread Vidar Stealer](https://www.infosecurity-magazine.com/news/fake-software-videos-tiktok-vidar/)
 - NVIDIA AI Blog
   - [NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI](https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/)
 - Sploitus.com Exploits RSS Feed
   - [DefendX exploit](https://sploitus.com/exploit?id=5A66112E-DD2C-590C-BB12-0D52B5F8BC36&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-49413 exploit](https://sploitus.com/exploit?id=EAA30576-08C9-53A7-9133-3FE75D35DC8A&utm_source=rss&utm_medium=rss)
   - [Exploit for Incomplete Comparison with Missing Factors in Arista Eos exploit](https://sploitus.com/exploit?id=317E04B3-54AE-5CAF-87AE-5F2F7D5797F2&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [How memory tools can make AI models worse](https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/)
+  - [Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming](https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/)
   - [The Indian government got cold feet on Starlink just before SpaceX’s IPO](https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/)
+  - [‘AI-pilled’ firms spend $7,500 per employee each month on AI](https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/)
 - text/plain
   - [Participatory Extensible Security](https://textslashplain.com/2026/06/10/participatory-extensible-security/)
+- The Decoder
+  - [Anthropic study shows AI needs hours, not weeks, to build exploits from security patches](https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches/)
 - The Verge
   - [Amazon’s Echo speakers can now help kids wind down and fall asleep](https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace)
   - [Google will save your Lens photos, Search Live recordings, and Translate audio for AI training](https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio)
+  - [Google won’t just admit it’s feeding YouTube creators to its music AI](https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube)
   - [Microsoft restricts Claude Fable for employees over data retention concerns](https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally)
+  - [Microsoft, like, totally gets why students are booing AI-pilled graduation speakers](https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft)
+  - [The future of AI regulation is courting the strangest, most anxious bedfellows](https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms)
+  - [You can just tell the Instagram algorithm what you want now](https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell)
+- VulDB Recent Entries
+  - [CVE-2026-46497 | apify crawlee-python up to 1.6.x server-side request forgery (GHSA-3r75-xc34-5f44)](https://vuldb.com/vuln/370207)
+  - [CVE-2026-46558 | makeplane up to 1.3.0 authorization (GHSA-qw87-v5w3-6vxx)](https://vuldb.com/vuln/370205)
+  - [CVE-2026-46609 | Umbraco CMS up to 17.3.x cross site scripting](https://vuldb.com/vuln/370215)
+  - [CVE-2026-46616 | Umbraco CMS up to 13.13.x/17.3.x Query Parameter RedirectUrl redirect](https://vuldb.com/vuln/370214)
+  - [CVE-2026-48096 | OpenFGA up to 1.15.x data authenticity (GHSA-8396-jffm-qx4w)](https://vuldb.com/vuln/370208)
+  - [CVE-2026-48855 | Erlang OTP ssh_sftpd.erl information disclosure (GHSA-pv7g-pjrq-x2fh)](https://vuldb.com/vuln/370202)
+  - [CVE-2026-48856 | Erlang OTP httpc_response.erl host redirect (GHSA-m75x-4vwg-ggjh)](https://vuldb.com/vuln/370209)
+  - [CVE-2026-48858 | Erlang OTP up to 6.x PASV ftp_internal.erl server-side request forgery (GHSA-24cv-hwgr-37fq)](https://vuldb.com/vuln/370211)
+  - [CVE-2026-48859 | Erlang OTP up to 29.0.1 lib/ssh/src/ssh_auth.erl timing discrepancy (GHSA-3w6p-vwhf-wvp4)](https://vuldb.com/vuln/370203)
+  - [CVE-2026-48860 | Erlang OTP TLS Certificate inet_tls_dist.erl comparison using wrong factors (GHSA-gp7x-mfv6-52cv)](https://vuldb.com/vuln/370210)
+  - [CVE-2026-49760 | Erlang OTP ei_printterm.c stack-based overflow (GHSA-xcxj-5pg2-v72j)](https://vuldb.com/vuln/370204)
+  - [CVE-2026-53693 | misp bsimvis up to 0.2.0 cross site scripting](https://vuldb.com/vuln/370212)
+  - [CVE-2026-53694 | NoMachine up to 8.23.1/9.5.6 argument injection](https://vuldb.com/vuln/370206)
+  - [CVE-2026-53698 | Silverpeas up to 6.4.6 Personal Space absolute path traversal (ID 15229)](https://vuldb.com/vuln/370213)
 - Vulners.com RSS Feed
   - [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://vulners.com/thn/THN:F7E7D468AF7210FBEDEFCF347D48B054?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25700](https://vulners.com/nvd/NVD:CVE-2026-25700?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -31,6 +60,8 @@
   - [CVE-2026-45569](https://vulners.com/nvd/NVD:CVE-2026-45569?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46497](https://vulners.com/nvd/NVD:CVE-2026-46497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46558](https://vulners.com/nvd/NVD:CVE-2026-46558?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46609](https://vulners.com/nvd/NVD:CVE-2026-46609?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46616](https://vulners.com/nvd/NVD:CVE-2026-46616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48096](https://vulners.com/nvd/NVD:CVE-2026-48096?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48855](https://vulners.com/nvd/NVD:CVE-2026-48855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48856](https://vulners.com/nvd/NVD:CVE-2026-48856?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -43,7 +74,10 @@
   - [CVE-2026-53694](https://vulners.com/nvd/NVD:CVE-2026-53694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53698](https://vulners.com/nvd/NVD:CVE-2026-53698?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DefendX](https://vulners.com/githubexploit/5A66112E-DD2C-590C-BB12-0D52B5F8BC36?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-49413](https://vulners.com/githubexploit/EAA30576-08C9-53A7-9133-3FE75D35DC8A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incomplete Comparison with Missing Factors in Arista Eos](https://vulners.com/githubexploit/317E04B3-54AE-5CAF-87AE-5F2F7D5797F2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: libsndfile security update](https://vulners.com/redhat/RHSA-2026:25092?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [libsndfile: integer overflow in ima_reader_init()](https://vulners.com/redhat/RHSA-2026:25092-CVE-2026-37555?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Donald Trump Is Ready for Fight Night. So Are Donors](https://www.wired.com/story/donald-trump-ufc-white-house-south-lawn/)
 - 代码审计星球
