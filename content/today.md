@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-06-11）
 
+- 36氪
+  - [美股三大指数集体收跌，特斯拉跌超3%](https://36kr.com/newsflashes/3847954475046150?f=rss)
 - Ars Technica
   - [Google's latest DiffusionGemma open AI model comes with a 4x speed boost](https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/)
 - blog.jim-nielsen.com
@@ -13,6 +15,7 @@
 - Google DeepMind Blog
   - [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/)
 - Hacker News Frontpage
+  - [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
   - [Claude Desktop spins up a VM without no way of stopping it](https://github.com/anthropics/claude-code/issues/29045)
   - [DiffusionGemma: 4x Faster Text Generation](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
   - [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
@@ -46,7 +49,9 @@
   - [Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming](https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/)
   - [North Koreans behind nearly half of US tech industry hacks, says CrowdStrike](https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/)
   - [The Indian government got cold feet on Starlink just before SpaceX’s IPO](https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/)
+  - [Why Andrew Yang is building instead of waiting for Washington](https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/)
   - [Wing drone delivery might not be a novelty anymore](https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/)
+  - [xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims](https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/)
   - [‘AI-pilled’ firms spend $7,500 per employee each month on AI](https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/)
 - text/plain
   - [Participatory Extensible Security](https://textslashplain.com/2026/06/10/participatory-extensible-security/)
@@ -57,6 +62,7 @@
 - The Verge
   - [Amazon’s Echo speakers can now help kids wind down and fall asleep](https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace)
   - [Apple, Google add support for Thread 1.4](https://www.theverge.com/tech/947888/apple-google-add-support-for-thread-1-4)
+  - [Apple’s new Siri AI knows when to shut up](https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality)
   - [Google will save your Lens photos, Search Live recordings, and Translate audio for AI training](https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio)
   - [Google won’t just admit it’s feeding YouTube creators to its music AI](https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube)
   - [Kalshi adds required employment verification for some prediction market bets](https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading)
