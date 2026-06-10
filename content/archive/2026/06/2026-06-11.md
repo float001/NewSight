@@ -5,6 +5,7 @@
 - blog.jim-nielsen.com
   - [Being “Good” at Things](https://blog.jim-nielsen.com/2026/good-at-things/)
 - darkreading
+  - [Bug Bounty Research Triggers ServiceNow Security Alert](https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert)
   - [Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet](https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-microsoft-exploit-rogueplanet)
 - Fidelis Security
   - [Fidelis Deception®: Unified Active Deception Across On-Prem, Endpoint, Network, Cloud, and Hybrid Environments](https://fidelissecurity.com/threatgeek/deception/fidelis-deception-across-on-prem-endpoint-network-cloud-and-hybrid/)
@@ -17,8 +18,11 @@
   - [How JPL Keeps the 13-Year-Old Curiosity Rover Doing Science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science)
   - [Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential)
   - [The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]](https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf)
+  - [What Is It Like to Be a Bat? [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
 - Horizon3.ai
   - [Patch Tuesday to Pentest Wednesday: How a Global Investment Firm Reduced Security Surprises](https://horizon3.ai/intelligence/blogs/patch-tuesday-to-pentest-wednesday-reducing-security-surprises/)
+- idiallo.com
+  - [Please, use a link!](https://idiallo.com/blog/use-a-link-please)
 - IEEE Spectrum
   - [EPICS in IEEE’s Awards Honor Outstanding Students and Faculty](https://spectrum.ieee.org/epics-in-ieee)
 - infosecurity-magazine.com
@@ -33,6 +37,8 @@
   - [Exploit for CVE-2026-9067 exploit](https://sploitus.com/exploit?id=642054C4-1CED-5BD6-887A-6F06F63071F5&utm_source=rss&utm_medium=rss)
   - [Exploit for Incomplete Comparison with Missing Factors in Arista Eos exploit](https://sploitus.com/exploit?id=317E04B3-54AE-5CAF-87AE-5F2F7D5797F2&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Everyone wants a piece of Tesla’s battery business](https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/)
+  - [Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues](https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/)
   - [How memory tools can make AI models worse](https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/)
   - [Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming](https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/)
   - [North Koreans behind nearly half of US tech industry hacks, says CrowdStrike](https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/)
@@ -47,13 +53,23 @@
   - [OpenAI's IPO slips as Altman tells staff to expect a public offering "within the next year"](https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/)
 - The Verge
   - [Amazon’s Echo speakers can now help kids wind down and fall asleep](https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace)
+  - [Apple, Google add support for Thread 1.4](https://www.theverge.com/tech/947888/apple-google-add-support-for-thread-1-4)
   - [Google will save your Lens photos, Search Live recordings, and Translate audio for AI training](https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio)
   - [Google won’t just admit it’s feeding YouTube creators to its music AI](https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube)
+  - [Kalshi adds required employment verification for some prediction market bets](https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading)
   - [Microsoft restricts Claude Fable for employees over data retention concerns](https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally)
   - [Microsoft, like, totally gets why students are booing AI-pilled graduation speakers](https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft)
   - [The future of AI regulation is courting the strangest, most anxious bedfellows](https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms)
   - [You can just tell the Instagram algorithm what you want now](https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell)
 - VulDB Recent Entries
+  - [CVE-2026-11417 | Amazon AWS Cloud Development Kit library up to 2.244.x on Windows os command injection (GHSA-999r-qq7v-r334)](https://vuldb.com/vuln/370217)
+  - [CVE-2026-11596 | ConnectWise ScreenConnect up to up to 26.1 Access Token improper validation of specified quantity in input](https://vuldb.com/vuln/370216)
+  - [CVE-2026-20251 | Splunk Enterprise/Cloud Platform/Secure Gateway App Key Value Store deserialization (SVD-2026-0601)](https://vuldb.com/vuln/370219)
+  - [CVE-2026-20252 | Splunk Enterprise/Cloud Platform Dashboard Studio PDF Export server-side request forgery (SVD-2026-0602)](https://vuldb.com/vuln/370220)
+  - [CVE-2026-20253 | Splunk Enterprise/Cloud Platform PostgreSQL Sidecar Service Endpoint missing authentication (SVD-2026-0603)](https://vuldb.com/vuln/370218)
+  - [CVE-2026-20254 | Splunk Enterprise/Cloud Platform CSS injection (SVD-2026-0604)](https://vuldb.com/vuln/370221)
+  - [CVE-2026-20255 | Splunk Enterprise/Cloud Platform information disclosure (SVD-2026-0605)](https://vuldb.com/vuln/370222)
+  - [CVE-2026-20256 | Splunk Enterprise/Cloud Platform Relative URL redirect (SVD-2026-0606)](https://vuldb.com/vuln/370223)
   - [CVE-2026-46497 | apify crawlee-python up to 1.6.x server-side request forgery (GHSA-3r75-xc34-5f44)](https://vuldb.com/vuln/370207)
   - [CVE-2026-46558 | makeplane up to 1.3.0 authorization (GHSA-qw87-v5w3-6vxx)](https://vuldb.com/vuln/370205)
   - [CVE-2026-46609 | Umbraco CMS up to 17.3.x cross site scripting](https://vuldb.com/vuln/370215)
@@ -147,7 +163,9 @@
   - [libsndfile: integer overflow in ima_reader_init()](https://vulners.com/redhat/RHSA-2026:25092-CVE-2026-37555?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents](https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/)
+  - [CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats](https://www.wired.com/story/cisa-ai-vulnerability-directive/)
   - [Donald Trump Is Ready for Fight Night. So Are Donors](https://www.wired.com/story/donald-trump-ufc-white-house-south-lawn/)
   - [The Best USB-C Cables (2026): for Smartphones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
+  - [Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick](https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
