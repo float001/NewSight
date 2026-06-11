@@ -3,9 +3,12 @@
 - 2Libra
   - [虽然签到鉴定失败，但是意外解锁了一个很好的金币总额 88888](https://2libra.com/post/forum-function/6CnhfiP)
   - [调侃——大学体测奇葩多](https://2libra.com/post/small-things/H4ONog6)
+- Ars Technica
+  - [Did Iron Age Britons remove brains of the dead?](https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/)
 - Hacker News Frontpage
   - [Fable 5 lies 96% of the time](https://twitter.com/kradleai/status/2064907897373642912)
   - [Introducing Waymo Premier, an elevated rider experience](https://waymo.com/blog/2026/06/waymo-premier/)
+  - [Israel's Paid U.S. Influencer Network Exposed – – Imemc News](https://imemc.org/article/israels-paid-u-s-influencer-network-exposed/)
   - [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
   - [Solar generates more energy in US than coal for first time](https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal)
 - HackerNoon
@@ -13,9 +16,11 @@
   - [Why Agentic Software Development Needs Documentation Stewardship](https://hackernoon.com/why-agentic-software-development-needs-documentation-stewardship?source=rss)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=D039E607-9443-53D4-AA20-578FC0282FE1&utm_source=rss&utm_medium=rss)
+  - [Systems-and-Cyber-Security-Coursework exploit](https://sploitus.com/exploit?id=1B4E1928-22BA-58AE-868A-852185F77BAA&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Coinbase debuts AI agent that can trade and pay for premium research](https://techcrunch.com/2026/06/11/coinbase-debuts-ai-agent-that-can-trade-and-pay-for-premium-research/)
   - [Deezer’s new tool can identify AI music from Spotify, Apple Music, and others](https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/)
+  - [Meta’s Edits app is getting an AI assistant and a desktop version](https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/)
   - [Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave](https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/)
   - [These are the countries moving to ban social media for children](https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/)
   - [Waymo launches a loyalty program with 10% cash back and free cancellations](https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/)
@@ -25,6 +30,7 @@
   - [Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 - The Verge
   - [A warrantless wiretap law is about to expire — but surveillance networks aren’t actually ‘going dark’](https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse)
+  - [Here are the price-matching policies for Best Buy, GameStop, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
   - [I&#8217;ve found the Goldilocks of portable MIDI controllers](https://www.theverge.com/tech/948024/arturia-minilab-37-midi-controller-review)
   - [Waymo introduces $30-a-month premium tier for riders who want faster pickups](https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back)
 - Vulners.com RSS Feed
@@ -32,6 +38,7 @@
   - [CVE-2026-10557](https://vulners.com/circl/CIRCL:CVE-2026-10557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10557](https://vulners.com/cve/CVE-2026-10557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11839](https://vulners.com/nvd/NVD:CVE-2026-11839?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11945](https://vulners.com/nvd/NVD:CVE-2026-11945?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-27022](https://vulners.com/circl/CIRCL:CVE-2026-27022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28277](https://vulners.com/circl/CIRCL:CVE-2026-28277?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28742](https://vulners.com/circl/CIRCL:CVE-2026-28742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -40,6 +47,17 @@
   - [CVE-2026-4096](https://vulners.com/nvd/NVD:CVE-2026-4096?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42947](https://vulners.com/circl/CIRCL:CVE-2026-42947?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42947](https://vulners.com/cve/CVE-2026-42947?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44486](https://vulners.com/nvd/NVD:CVE-2026-44486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44487](https://vulners.com/nvd/NVD:CVE-2026-44487?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44488](https://vulners.com/nvd/NVD:CVE-2026-44488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44489](https://vulners.com/nvd/NVD:CVE-2026-44489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44490](https://vulners.com/nvd/NVD:CVE-2026-44490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44492](https://vulners.com/nvd/NVD:CVE-2026-44492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44494](https://vulners.com/nvd/NVD:CVE-2026-44494?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44495](https://vulners.com/nvd/NVD:CVE-2026-44495?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44496](https://vulners.com/nvd/NVD:CVE-2026-44496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44705](https://vulners.com/nvd/NVD:CVE-2026-44705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49982](https://vulners.com/nvd/NVD:CVE-2026-49982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50108](https://vulners.com/circl/CIRCL:CVE-2026-50108?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50108](https://vulners.com/cve/CVE-2026-50108?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53777](https://vulners.com/nvd/NVD:CVE-2026-53777?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -49,8 +67,13 @@
   - [CVE-2026-7870](https://vulners.com/nvd/NVD:CVE-2026-7870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9648](https://vulners.com/nvd/NVD:CVE-2026-9648?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/D039E607-9443-53D4-AA20-578FC0282FE1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://vulners.com/thn/THN:D5D60D7DB19D929D8A808718ADD09C7F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files](https://vulners.com/thn/THN:D6DFE9A733B5347827F7FD40C745A868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Systems-and-Cyber-Security-Coursework](https://vulners.com/githubexploit/1B4E1928-22BA-58AE-868A-852185F77BAA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm](https://vulners.com/thn/THN:0BD4A62DBE41A6B9A27B7AEF56EC0C96?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Drug Sites Hijacked Spotify’s Search Ranking Through Fake Podcasts](https://www.wired.com/story/drug-sites-hijacked-spotifys-search-ranking-through-fake-podcasts-report-finds/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [Deezer为第三方平台推出AI音乐检测器](https://blog.upx8.com/Deezer%E4%B8%BA%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B3%E5%8F%B0%E6%8E%A8%E5%87%BAAI%E9%9F%B3%E4%B9%90%E6%A3%80%E6%B5%8B%E5%99%A8)
