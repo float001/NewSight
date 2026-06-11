@@ -3,8 +3,12 @@
 - 2Libra
   - [虽然签到鉴定失败，但是意外解锁了一个很好的金币总额 88888](https://2libra.com/post/forum-function/6CnhfiP)
   - [调侃——大学体测奇葩多](https://2libra.com/post/small-things/H4ONog6)
+- 404 Media
+  - [Software Update Automatically Turns off Amazon Delivery Drivers’ AC During Dangerous Summer Heat](https://www.404media.co/software-update-automatically-turns-off-amazon-delivery-drivers-ac-during-dangerous-summer-heat/)
 - Ars Technica
+  - [After nearly breaking, NASA's Deep Space Network "worked well" on Artemis II](https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/)
   - [Did Iron Age Britons remove brains of the dead?](https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/)
+  - [F1 teams spend millions on their simulators—what makes them different?](https://arstechnica.com/cars/2026/06/whats-so-special-about-a-formula-1-driver-in-the-loop-simulator/)
 - Hacker News Frontpage
   - [Fable 5 lies 96% of the time](https://twitter.com/kradleai/status/2064907897373642912)
   - [Introducing Waymo Premier, an elevated rider experience](https://waymo.com/blog/2026/06/waymo-premier/)
@@ -14,6 +18,17 @@
 - HackerNoon
   - [LLMs Shouldn’t Do Math: Why Your Agents Need Classical ML Tools](https://hackernoon.com/llms-shouldnt-do-math-why-your-agents-need-classical-ml-tools?source=rss)
   - [Why Agentic Software Development Needs Documentation Stewardship](https://hackernoon.com/why-agentic-software-development-needs-documentation-stewardship?source=rss)
+- InfoSec Write-ups - Medium
+  - [AI Security: explanation to Exploitation || Part 1](https://infosecwriteups.com/ai-security-explanation-to-exploitation-part-1-4e63637f7fd1?source=rss----7b722bfd1b8d---4)
+  - [Analyzing CVE-2026-32743: PX4 MAVLink Buffer Overflow DoS](https://infosecwriteups.com/analyzing-cve-2026-32743-px4-mavlink-buffer-overflow-dos-bda648238293?source=rss----7b722bfd1b8d---4)
+  - [Android App Penetration Testing: From APK Decompilation to Runtime Exploitation [Tools and Labs]](https://infosecwriteups.com/android-app-penetration-testing-from-apk-decompilation-to-runtime-exploitation-tools-and-labs-5fc2fc68fc5d?source=rss----7b722bfd1b8d---4)
+  - [Building Another Vulnerable Lab — SSRF.](https://infosecwriteups.com/building-another-vulnerable-lab-ssrf-01c27ab92b4e?source=rss----7b722bfd1b8d---4)
+  - [Chaining Stored XSS and CSRF in Typemill CMS: A Deep Dive into Attribute Injection](https://infosecwriteups.com/chaining-stored-xss-and-csrf-in-typemill-cms-a-deep-dive-into-attribute-injection-909d20edf903?source=rss----7b722bfd1b8d---4)
+  - [Hacking a Fortune 500 Finance Company via Envoy Proxy Misconfiguration](https://infosecwriteups.com/part-1-of-abusing-envoy-kubernetes-staging-servers-verb-tampering-to-achieve-xss-idors-and-8f4620c035b2?source=rss----7b722bfd1b8d---4)
+  - [Hacking Into A Server Through FTP](https://infosecwriteups.com/hacking-into-a-server-through-ftp-7886b59fa090?source=rss----7b722bfd1b8d---4)
+  - [How I Built a Burp Extension Efficiently with Claude](https://infosecwriteups.com/how-i-built-a-burp-extension-efficiently-with-claude-85d43817b8f3?source=rss----7b722bfd1b8d---4)
+  - [Making A SQLi Lab Is Not Difficult, Build One With Me.](https://infosecwriteups.com/making-a-sqli-lab-is-not-difficult-build-one-with-me-795964b602db?source=rss----7b722bfd1b8d---4)
+  - [Ramnit Blue Team Lab (CyberDefenders)](https://infosecwriteups.com/ramnit-blue-team-lab-cyberdefenders-55e78851d04a?source=rss----7b722bfd1b8d---4)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=D039E607-9443-53D4-AA20-578FC0282FE1&utm_source=rss&utm_medium=rss)
   - [Systems-and-Cyber-Security-Coursework exploit](https://sploitus.com/exploit?id=1B4E1928-22BA-58AE-868A-852185F77BAA&utm_source=rss&utm_medium=rss)
@@ -39,10 +54,12 @@
   - [CVE-2026-10557](https://vulners.com/cve/CVE-2026-10557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11839](https://vulners.com/nvd/NVD:CVE-2026-11839?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11945](https://vulners.com/nvd/NVD:CVE-2026-11945?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11986](https://vulners.com/nvd/NVD:CVE-2026-11986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-27022](https://vulners.com/circl/CIRCL:CVE-2026-27022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28277](https://vulners.com/circl/CIRCL:CVE-2026-28277?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28742](https://vulners.com/circl/CIRCL:CVE-2026-28742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28742](https://vulners.com/cve/CVE-2026-28742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-3329](https://vulners.com/nvd/NVD:CVE-2026-3329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3341](https://vulners.com/nvd/NVD:CVE-2026-3341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4096](https://vulners.com/nvd/NVD:CVE-2026-4096?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42947](https://vulners.com/circl/CIRCL:CVE-2026-42947?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -57,6 +74,11 @@
   - [CVE-2026-44495](https://vulners.com/nvd/NVD:CVE-2026-44495?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44496](https://vulners.com/nvd/NVD:CVE-2026-44496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44705](https://vulners.com/nvd/NVD:CVE-2026-44705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46697](https://vulners.com/nvd/NVD:CVE-2026-46697?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46698](https://vulners.com/nvd/NVD:CVE-2026-46698?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47157](https://vulners.com/nvd/NVD:CVE-2026-47157?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48546](https://vulners.com/nvd/NVD:CVE-2026-48546?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49261](https://vulners.com/nvd/NVD:CVE-2026-49261?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49982](https://vulners.com/nvd/NVD:CVE-2026-49982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50108](https://vulners.com/circl/CIRCL:CVE-2026-50108?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50108](https://vulners.com/cve/CVE-2026-50108?utm_source=rss&utm_medium=rss&utm_campaign=rss)
