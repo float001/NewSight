@@ -8,9 +8,12 @@
   - [《【潘多拉】为什么刷出来两次都是妙笔生花， 而且金额都一样啊啊啊啊啊》点评：5 分｜](https://2libra.com/post/forum-function/CdeiXXt)
   - [【竞猜】2026 年 FIFA 世界杯必看赛程-揭幕战竞猜](https://2libra.com/post/football/Ce88kIw)
   - [【莫名混搭】世界杯 Labubu + 世界杯五粮液 ⚽️⚽️⚽️](https://2libra.com/post/personal-life/1u03o_W)
+  - [【💰】各位有好用的国模分享吗](https://2libra.com/post/ai-tools/EfNqm9A)
   - [【💰】这样真的好吗](https://2libra.com/post/forum-function/1tDMk5v)
+  - [【🔒】竞拍 1000$ GPT Token](https://2libra.com/post/ai-gateway/WKWoTlI)
   - [三大运营商被指“杀熟” 159 元套餐不如 39 元套餐](https://2libra.com/post/social-observation/ffM_S68)
   - [债基连跌好几天了](https://2libra.com/post/financial-management/yGE01VD)
+  - [天塌了，gpt 土区涨价了！！！](https://2libra.com/post/deal-hunter/IGlYGAW)
   - [小米推出了 MiMo Code，限免一个月](https://2libra.com/post/ai-programming/GWTiCyx)
   - [慢讯：1. 黄金跌到 900 元/g 以下了；2.影石 lunaUltra 开售 3999 元。](https://2libra.com/post/sharing-discoveries/26Jg3G5)
   - [新房的下水管被水泥堵了，排水很慢，有什么疏通的好方法吗](https://2libra.com/post/help-requests/Z2QGdT6)
@@ -22,16 +25,19 @@
   - [鼓起勇气，不做舔狗](https://2libra.com/post/love/0nTRaKj)
 - 36氪
   - [36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内](https://36kr.com/p/3848094835217666?f=rss)
+  - [48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标](https://36kr.com/p/3848383082222849?f=rss)
   - [5月末百亿私募升至139家创新高，年内备案产品增长近五成](https://36kr.com/newsflashes/3847982461408517?f=rss)
   - [5款国产脑机接口创新产品在上交会首发](https://36kr.com/newsflashes/3848352591057923?f=rss)
   - [8点1氪丨世界杯门票遇冷，近18万张门票待转售；台积电释放涨价信号；但斌回应“被段永平拉黑”](https://36kr.com/p/3848000003953926?f=rss)
   - [A股三大指数午间休盘集体下跌，软件板块领跌](https://36kr.com/newsflashes/3848220220789767?f=rss)
   - [A股三大指数集体低开，能源股领涨](https://36kr.com/newsflashes/3848096816223497?f=rss)
+  - [A股三大指数集体收跌，全市场超4000股下跌](https://36kr.com/newsflashes/3848426581562370?f=rss)
   - [A股宽基指数样本即将大调整，近9000亿元规模指数基金同步调仓](https://36kr.com/newsflashes/3847990730527750?f=rss)
   - [IDC：第一季度全球智能手表市场出货量3703万台，同比增长4.8%](https://36kr.com/newsflashes/3848261958145027?f=rss)
   - [Omdia：第一季度半导体市场营收突破3000亿美元](https://36kr.com/newsflashes/3848289916196100?f=rss)
   - [OpenAI与甲骨文合作，OCI客户可用云额度直接调用OpenAI模型及Codex](https://36kr.com/newsflashes/3847975275107586?f=rss)
   - [OpenAI考虑大幅降价，以期在与Anthropic的用户争夺战中占据有利地位](https://36kr.com/newsflashes/3848106407040265?f=rss)
+  - [SK海力士多家设备供应商提出涨价要求](https://36kr.com/newsflashes/3848402848175112?f=rss)
   - [“世界杯经济”开场哨将响，A股公司多赛道掘金](https://36kr.com/newsflashes/3847987225629696?f=rss)
   - [东方甄选CEO卸任新东方旗下一分公司负责人](https://36kr.com/newsflashes/3848201698940160?f=rss)
   - [东风汽车集团旗下武汉投资公司增资至61.2亿](https://36kr.com/newsflashes/3848183524398087?f=rss)
@@ -48,6 +54,7 @@
   - [供应偏紧、鸡蛋涨价，蛋鸡养殖企业二季度盈利有望修复](https://36kr.com/newsflashes/3847992399041793?f=rss)
   - [储蓄国债纳入个人养老金账户，首日发行销售火热](https://36kr.com/newsflashes/3847978785969414?f=rss)
   - [创业板指涨超1%](https://36kr.com/newsflashes/3848115744560389?f=rss)
+  - [创业板指跌超2%](https://36kr.com/newsflashes/3848375884944387?f=rss)
   - [券商调研青睐硬科技赛道，关注景气周期与全球化布局](https://36kr.com/newsflashes/3848008365675524?f=rss)
   - [半日主力资金加仓有色金属股，抛售计算机股](https://36kr.com/newsflashes/3848230570316806?f=rss)
   - [华泰证券：AI服务器测试电源或迎国产替代机遇](https://36kr.com/newsflashes/3848019548738822?f=rss)
@@ -60,6 +67,7 @@
   - [奥特曼称OpenAI预计一年内上市](https://36kr.com/newsflashes/3848001589957895?f=rss)
   - [小米已注册多枚小米澎湃OS商标](https://36kr.com/newsflashes/3848163725972739?f=rss)
   - [小米推出AI 编程助手MiMo Code](https://36kr.com/newsflashes/3848111404274945?f=rss)
+  - [崔东树：2026年全国汽车市场总体走势较强，在生产资料高补贴卡车市场和客车市场回暖明显](https://36kr.com/newsflashes/3848398765347843?f=rss)
   - [康方生物：董事会批准动用最多200百万港元以在公开市场上购买公司普通股股份](https://36kr.com/newsflashes/3848269486298121?f=rss)
   - [影石发布全球首款8K徕卡双摄云台相机 Luna Ultra](https://36kr.com/newsflashes/3848340680414467?f=rss)
   - [微盘股行情遇冷，基金经理看好回撤修复能力](https://36kr.com/newsflashes/3847992895624451?f=rss)
@@ -71,6 +79,7 @@
   - [新发规模创新高，低波产品迎热潮](https://36kr.com/newsflashes/3847982033491208?f=rss)
   - [智元推出灵犀X2 EDU（人人造）版本，面向科教实训等丰富场景](https://36kr.com/newsflashes/3848126301541636?f=rss)
   - [暑期出行预订火热，机构预测7股营收高增长](https://36kr.com/newsflashes/3848057652958209?f=rss)
+  - [机构：一季度前五大Enterprise SSD品牌营收突破184.6亿美元创新高](https://36kr.com/newsflashes/3848378947507456?f=rss)
   - [李书福卸任极氪董事长](https://36kr.com/newsflashes/3848358277403656?f=rss)
   - [极兔回应被立案调查：高度重视，全面整改](https://36kr.com/newsflashes/3848307627136005?f=rss)
   - [欧洲央行或进行2023年以来首次加息](https://36kr.com/newsflashes/3848320421385221?f=rss)
@@ -83,7 +92,10 @@
   - [深证成指转涨](https://36kr.com/newsflashes/3848112409711616?f=rss)
   - [港交所CEO陈翊庭：资金流向新经济与科技，科技板块成交额占比大幅提升](https://36kr.com/newsflashes/3848333856363776?f=rss)
   - [特斯拉FSD获比利时批准](https://36kr.com/newsflashes/3848335889437952?f=rss)
+  - [特朗普：很快将与顶尖的人工智能公司高管会面，讨论如何回馈公众](https://36kr.com/newsflashes/3848387791099141?f=rss)
   - [甲骨文CFO：公司积压订单达6380亿美元，体现市场对AI基建和云服务的需求旺盛](https://36kr.com/newsflashes/3848088702260225?f=rss)
+  - [百度爱采购发布AI经营助手“生意搭子”](https://36kr.com/newsflashes/3848410549163269?f=rss)
+  - [科大讯飞在合肥成立词元星火科技公司，注册资本10亿](https://36kr.com/newsflashes/3848395989357574?f=rss)
   - [美股三大指数集体收跌，特斯拉跌超3%](https://36kr.com/newsflashes/3847954475046150?f=rss)
   - [美银：客户上周抛售美国科技股规模创2008年以来最大](https://36kr.com/newsflashes/3848042348073993?f=rss)
   - [谷歌推出DiffusionGemma开源模型](https://36kr.com/newsflashes/3848013541659905?f=rss)
@@ -93,6 +105,7 @@
   - [钉钉换帅，92年技术极客陈宇森接任钉钉CEO](https://36kr.com/newsflashes/3848133613999106?f=rss)
   - [长春市：近年来一汽产销出现下滑，未来或将面临央企战略重组的压力](https://36kr.com/newsflashes/3848150616249603?f=rss)
   - [韩国6月前10天出口额同比飙升86%](https://36kr.com/newsflashes/3848027219252486?f=rss)
+  - [韩国政府约谈主要出口企业联手稳定外汇市场](https://36kr.com/newsflashes/3848381337720070?f=rss)
 - Ars Technica
   - [Google's latest DiffusionGemma open AI model comes with a 4x speed boost](https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/)
 - blog.jim-nielsen.com
@@ -107,6 +120,7 @@
   - [ITScape KVM Escape: Public PoC Exploit Threatens Cloud Hosts](https://securityonline.info/itscape-kvm-escape-cve-2026-46316-poc/)
   - [PeopleSoft RCE Security Bug: New Oracle Fix](https://securityonline.info/peoplesoft-rce-security-bug/)
   - [PhpSpreadsheet RCE Vulnerability: PoC Exploit Disclosed for 312 Million Users](https://securityonline.info/phpspreadsheet-rce-vulnerability-cve-2026-45034/)
+  - [Sovereign Intervention: EU Mandates Unhindered Third-Party AI Access to WhatsApp API](https://securityonline.info/whatsapp-antitrust-api-probe/)
   - [Splunk Enterprise Vulnerabilities: Patch CVSS 9.8 Flaws](https://securityonline.info/splunk-enterprise-vulnerabilities-cvss-9-8/)
   - [Spring Data Vulnerabilities: Patch Five Critical Flaws Now](https://securityonline.info/spring-data-vulnerabilities-patch-flaws/)
 - daringfireball.net
@@ -118,6 +132,8 @@
   - [Chinese, N. Korean Threat Groups Build on Asia-Pacific Success](https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success)
   - [CISA Rewrites Federal Patching Requirements for AI Threat Era](https://www.darkreading.com/cyber-risk/cisa-rewrites-federal-patching-requirements-ai-threat-era)
   - [Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet](https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-microsoft-exploit-rogueplanet)
+- defend.network
+  - [Langflow RCE exploited, JDY botnet expands U.S. military targeting, npm security hardened](https://defend.network/briefings/langflow-jdy-botnet-federal-patching-directives-2026-06-11.html)
 - Fidelis Security
   - [Fidelis Deception®: Unified Active Deception Across On-Prem, Endpoint, Network, Cloud, and Hybrid Environments](https://fidelissecurity.com/threatgeek/deception/fidelis-deception-across-on-prem-endpoint-network-cloud-and-hybrid/)
 - Google DeepMind Blog
@@ -196,6 +212,7 @@
   - [Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs](https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma)
   - [You can just tell the Instagram algorithm what you want now](https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell)
 - VulDB Recent Entries
+  - [CVE-2022-48575 | Apple macOS up to 12.3 Login Window state issue (EUVD-2022-56002)](https://vuldb.com/vuln/370342)
   - [CVE-2024-21944 | AMD EPYC 7003 Processors/EPYC 9004 Processor input validation](https://vuldb.com/vuln/370283)
   - [CVE-2026-0269 | Palo Alto Cloud NGFW/PAN-OS/Panorama/Prisma Access unusual condition](https://vuldb.com/vuln/370261)
   - [CVE-2026-0270 | Palo Alto Cortex XSOAR up to 8.12.0 on Linux path traversal](https://vuldb.com/vuln/370262)
@@ -336,6 +353,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [Codex 大降价要来了，这份官方指南手把手教你高效榨干额度](https://www.ifanr.com/1668621?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [你喜欢喝可口可乐，还是百事可乐？｜影石 Luna Ultra 体验](https://www.ifanr.com/1668113?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果想用一副眼镜，改变你的脸｜WWDC 26](https://www.ifanr.com/1667844?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
@@ -348,5 +366,6 @@
   - [Anthropic呼吁强力监管AI 不应限制州立法权](https://blog.upx8.com/Anthropic%E5%91%BC%E5%90%81%E5%BC%BA%E5%8A%9B%E7%9B%91%E7%AE%A1AI-%E4%B8%8D%E5%BA%94%E9%99%90%E5%88%B6%E5%B7%9E%E7%AB%8B%E6%B3%95%E6%9D%83)
   - [俄罗斯恢复了对Roblox游戏平台的访问](https://blog.upx8.com/%E4%BF%84%E7%BD%97%E6%96%AF%E6%81%A2%E5%A4%8D%E4%BA%86%E5%AF%B9Roblox%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0%E7%9A%84%E8%AE%BF%E9%97%AE)
   - [分析显示朝鲜铀浓缩能力或将很快扩大75%](https://blog.upx8.com/%E5%88%86%E6%9E%90%E6%98%BE%E7%A4%BA%E6%9C%9D%E9%B2%9C%E9%93%80%E6%B5%93%E7%BC%A9%E8%83%BD%E5%8A%9B%E6%88%96%E5%B0%86%E5%BE%88%E5%BF%AB%E6%89%A9%E5%A4%A775)
+  - [维基百科联创警告：AI加剧全球信任危机](https://blog.upx8.com/%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E8%81%94%E5%88%9B%E8%AD%A6%E5%91%8A-AI%E5%8A%A0%E5%89%A7%E5%85%A8%E7%90%83%E4%BF%A1%E4%BB%BB%E5%8D%B1%E6%9C%BA)
   - [美政府监管机构就预测市场交易提出新规](https://blog.upx8.com/%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E5%B0%B1%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E4%BA%A4%E6%98%93%E6%8F%90%E5%87%BA%E6%96%B0%E8%A7%84)
   - [谷歌推出DiffusionGemma开源模型](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E6%8E%A8%E5%87%BADiffusionGemma%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B)
