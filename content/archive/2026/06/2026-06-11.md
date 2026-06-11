@@ -2,13 +2,17 @@
 
 - 2Libra
   - [any router 使用 fabel 5](https://2libra.com/post/tech-qa/VQO-Zxm)
+  - [claude 官方购买问题 有外企的朋友可以来传授下经验](https://2libra.com/post/ai-tools/QrZlpnZ)
+  - [《【潘多拉】为什么刷出来两次都是妙笔生花， 而且金额都一样啊啊啊啊啊》点评：5 分｜](https://2libra.com/post/forum-function/CdeiXXt)
   - [【竞猜】2026 年 FIFA 世界杯必看赛程-揭幕战竞猜](https://2libra.com/post/football/Ce88kIw)
   - [【莫名混搭】世界杯 Labubu + 世界杯五粮液 ⚽️⚽️⚽️](https://2libra.com/post/personal-life/1u03o_W)
   - [三大运营商被指“杀熟” 159 元套餐不如 39 元套餐](https://2libra.com/post/social-observation/ffM_S68)
   - [债基连跌好几天了](https://2libra.com/post/financial-management/yGE01VD)
+  - [小米推出了 MiMo Code，限免一个月](https://2libra.com/post/ai-programming/GWTiCyx)
   - [慢讯：1. 黄金跌到 900 元/g 以下了；2.影石 lunaUltra 开售 3999 元。](https://2libra.com/post/sharing-discoveries/26Jg3G5)
   - [新房的下水管被水泥堵了，排水很慢，有什么疏通的好方法吗](https://2libra.com/post/help-requests/Z2QGdT6)
   - [谁懂这是在干嘛啊](https://2libra.com/post/small-things/s-wak8Z)
+  - [购买电视](https://2libra.com/post/tv/SYAoNFJ)
 - 36氪
   - [36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内](https://36kr.com/p/3848094835217666?f=rss)
   - [5月末百亿私募升至139家创新高，年内备案产品增长近五成](https://36kr.com/newsflashes/3847982461408517?f=rss)
@@ -18,6 +22,7 @@
   - [OpenAI与甲骨文合作，OCI客户可用云额度直接调用OpenAI模型及Codex](https://36kr.com/newsflashes/3847975275107586?f=rss)
   - [OpenAI考虑大幅降价，以期在与Anthropic的用户争夺战中占据有利地位](https://36kr.com/newsflashes/3848106407040265?f=rss)
   - [“世界杯经济”开场哨将响，A股公司多赛道掘金](https://36kr.com/newsflashes/3847987225629696?f=rss)
+  - [东风汽车集团旗下武汉投资公司增资至61.2亿](https://36kr.com/newsflashes/3848183524398087?f=rss)
   - [两市融资余额减少80.91亿元](https://36kr.com/newsflashes/3848058894373888?f=rss)
   - [两部门：深入实施“人工智能+三品”专项行动，建设一批行业大模型和高质量数据集](https://36kr.com/newsflashes/3848066038174724?f=rss)
   - [中信建投：6月行业配置建议采用“杠铃结构”](https://36kr.com/newsflashes/3847993242195208?f=rss)
@@ -38,6 +43,7 @@
   - [多重因素催生被动投资热潮，二季度以来债券型ETF规模增逾千亿元](https://36kr.com/newsflashes/3847996461192196?f=rss)
   - [央行今日开展1885亿元7天逆回购操作](https://36kr.com/newsflashes/3848093587920134?f=rss)
   - [奥特曼称OpenAI预计一年内上市](https://36kr.com/newsflashes/3848001589957895?f=rss)
+  - [小米已注册多枚小米澎湃OS商标](https://36kr.com/newsflashes/3848163725972739?f=rss)
   - [小米推出AI 编程助手MiMo Code](https://36kr.com/newsflashes/3848111404274945?f=rss)
   - [微盘股行情遇冷，基金经理看好回撤修复能力](https://36kr.com/newsflashes/3847992895624451?f=rss)
   - [恒指、恒生科技指数转涨](https://36kr.com/newsflashes/3848104893437191?f=rss)
@@ -46,21 +52,29 @@
   - [新发规模创新高，低波产品迎热潮](https://36kr.com/newsflashes/3847982033491208?f=rss)
   - [智元推出灵犀X2 EDU（人人造）版本，面向科教实训等丰富场景](https://36kr.com/newsflashes/3848126301541636?f=rss)
   - [暑期出行预订火热，机构预测7股营收高增长](https://36kr.com/newsflashes/3848057652958209?f=rss)
+  - [沪深两市成交额突破1万亿](https://36kr.com/newsflashes/3848146714088457?f=rss)
+  - [浪往南走：今年盛夏，WAVES来到番禺](https://36kr.com/p/3848188076381187?f=rss)
+  - [深证成指、创业板指跌逾1%](https://36kr.com/newsflashes/3848168835027973?f=rss)
   - [深证成指转涨](https://36kr.com/newsflashes/3848112409711616?f=rss)
   - [甲骨文CFO：公司积压订单达6380亿美元，体现市场对AI基建和云服务的需求旺盛](https://36kr.com/newsflashes/3848088702260225?f=rss)
   - [美股三大指数集体收跌，特斯拉跌超3%](https://36kr.com/newsflashes/3847954475046150?f=rss)
   - [美银：客户上周抛售美国科技股规模创2008年以来最大](https://36kr.com/newsflashes/3848042348073993?f=rss)
   - [谷歌推出DiffusionGemma开源模型](https://36kr.com/newsflashes/3848013541659905?f=rss)
   - [通用或停止将磷酸铁锂电池用于电动汽车](https://36kr.com/newsflashes/3848022152401920?f=rss)
+  - [郭明錤：CoPoS将于2028年下半年量产，玻璃与ABF不存在替代关系](https://36kr.com/newsflashes/3848191248454663?f=rss)
   - [钉钉换帅，92年技术极客陈宇森接任钉钉CEO](https://36kr.com/newsflashes/3848133613999106?f=rss)
+  - [长春市：近年来一汽产销出现下滑，未来或将面临央企战略重组的压力](https://36kr.com/newsflashes/3848150616249603?f=rss)
   - [韩国6月前10天出口额同比飙升86%](https://36kr.com/newsflashes/3848027219252486?f=rss)
 - Ars Technica
   - [Google's latest DiffusionGemma open AI model comes with a 4x speed boost](https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/)
 - blog.jim-nielsen.com
   - [Being “Good” at Things](https://blog.jim-nielsen.com/2026/good-at-things/)
 - Cybersecurity News
+  - [Critical Jenkins Security Advisory 2026: Patch Multiple Flaws](https://securityonline.info/jenkins-security-advisory-2026-critical-cves/)
   - [Critical NVIDIA DALI Vulnerabilities Require Immediate Action](https://securityonline.info/nvidia-dali-vulnerabilities/)
   - [Critical UpdraftPlus CVE-2026-10795 Exploit Targets Millions](https://securityonline.info/updraftplus-cve-2026-10795-exploit/)
+  - [Important GitLab Security Updates Address 12 Vulnerabilities](https://securityonline.info/gitlab-security-updates-19-0-2/)
+  - [ITScape KVM Escape: Public PoC Exploit Threatens Cloud Hosts](https://securityonline.info/itscape-kvm-escape-cve-2026-46316-poc/)
   - [PhpSpreadsheet RCE Vulnerability: PoC Exploit Disclosed for 312 Million Users](https://securityonline.info/phpspreadsheet-rce-vulnerability-cve-2026-45034/)
   - [Spring Data Vulnerabilities: Patch Five Critical Flaws Now](https://securityonline.info/spring-data-vulnerabilities-patch-flaws/)
 - daringfireball.net
@@ -102,6 +116,9 @@
   - [NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI](https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/)
 - OpenAI Blog
   - [How an astrophysicist uses Codex to help simulate black holes](https://openai.com/index/using-codex-to-simulate-black-holes)
+- rtl-sdr.com
+  - [AirPulse Desktop: Turn an RTL-SDR into an Amateur Radio Repeater Activity Reporting Station](https://www.rtl-sdr.com/airpulse-desktop-turn-an-rtl-sdr-into-an-amateur-radio-repeater-activity-reporting-station/)
+  - [NRSC5 Studio: A New Feature-Rich Windows GUI for the nrsc5 HD Radio Decoder](https://www.rtl-sdr.com/nrsc5-studio-a-new-feature-rich-windows-gui-for-the-nrsc5-hd-radio-decoder/)
 - Sploitus.com Exploits RSS Feed
   - [CVE-2023-2640-CVE-2023-32629-Interactive-PoC exploit](https://sploitus.com/exploit?id=763E086B-B0C5-52EA-B5E2-3E3F15B422B0&utm_source=rss&utm_medium=rss)
   - [DefendX exploit](https://sploitus.com/exploit?id=5A66112E-DD2C-590C-BB12-0D52B5F8BC36&utm_source=rss&utm_medium=rss)
@@ -254,6 +271,7 @@
   - [苹果想用一副眼镜，改变你的脸｜WWDC 26](https://www.ifanr.com/1667844?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付](https://www.qbitai.com/2026/06/434225.html)
+  - [行业首创AI志愿填报+真人专家验真，百度全新升级高考服务](https://www.qbitai.com/2026/06/434268.html)
 - 黑海洋
   - [Anthropic呼吁强力监管AI 不应限制州立法权](https://blog.upx8.com/Anthropic%E5%91%BC%E5%90%81%E5%BC%BA%E5%8A%9B%E7%9B%91%E7%AE%A1AI-%E4%B8%8D%E5%BA%94%E9%99%90%E5%88%B6%E5%B7%9E%E7%AB%8B%E6%B3%95%E6%9D%83)
   - [俄罗斯恢复了对Roblox游戏平台的访问](https://blog.upx8.com/%E4%BF%84%E7%BD%97%E6%96%AF%E6%81%A2%E5%A4%8D%E4%BA%86%E5%AF%B9Roblox%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0%E7%9A%84%E8%AE%BF%E9%97%AE)
