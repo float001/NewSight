@@ -5,7 +5,27 @@
   - [虽然签到鉴定失败，但是意外解锁了一个很好的金币总额 88888](https://2libra.com/post/forum-function/6CnhfiP)
   - [调侃——大学体测奇葩多](https://2libra.com/post/small-things/H4ONog6)
 - 36氪
+  - [Adobe第二财季营收66.2亿美元，同比增长13%](https://36kr.com/newsflashes/3849380138702086?f=rss)
+  - [AI机器人企业Theker获路威酩轩等投资方8500万美元融资](https://36kr.com/newsflashes/3849404234667016?f=rss)
+  - [Alphabet旗下自动驾驶公司Waymo将推出30美元月费会员计划](https://36kr.com/newsflashes/3849421770658823?f=rss)
+  - [Anthropic据悉正在寻求其首批数据中心租约](https://36kr.com/newsflashes/3849380876260352?f=rss)
+  - [OpenAI已达成协议收购ONA](https://36kr.com/newsflashes/3849381479191810?f=rss)
+  - [SpaceX的IPO散户认购额据悉超1000亿美元](https://36kr.com/newsflashes/3849385309295879?f=rss)
+  - [Visa与OpenAI达成战略合作，AI代理将可代为购物付款](https://36kr.com/newsflashes/3849383875367941?f=rss)
+  - [世界银行下调2026年全球经济增长预期至2.5%](https://36kr.com/newsflashes/3849379493205253?f=rss)
+  - [中小银行资产配置逻辑新变化：金融市场业务成稳营收重要抓手](https://36kr.com/newsflashes/3849405986378757?f=rss)
+  - [从“被投者”到“投资者”，硬科技企业密集设立产业基金](https://36kr.com/newsflashes/3849400241018115?f=rss)
+  - [券商打起Skill服务“卡位战”，竞争分水岭在于构建金融业务“数字孪生地图”](https://36kr.com/newsflashes/3849382642897927?f=rss)
+  - [埃夫特：决定对旗下喷涂机器人全系列产品等实施价格调整，整体价格上调5%—8%](https://36kr.com/newsflashes/3849396714099975?f=rss)
+  - [太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏](https://36kr.com/newsflashes/3849405103838470?f=rss)
+  - [应用数字公司完成15.9亿美元AI债务融资](https://36kr.com/newsflashes/3849425680143369?f=rss)
+  - [本田在美召回逾百万辆汽车，主要涵盖CR-V及雅阁混合动力版](https://36kr.com/newsflashes/3849399110030337?f=rss)
+  - [机构间REITs持续上新，机构提示三类项目有吸引力](https://36kr.com/newsflashes/3849406959424521?f=rss)
+  - [沃尔玛与Wing无人机配送扩展至七个新都会区](https://36kr.com/newsflashes/3849398085473542?f=rss)
+  - [秘鲁央行将基准利率维持在4.25%](https://36kr.com/newsflashes/3849407791617031?f=rss)
   - [美股三大指数集体收涨，大型科技股多数上涨](https://36kr.com/newsflashes/3849363818173703?f=rss)
+  - [超百家村镇银行“消失”，中小银行风险化解加速](https://36kr.com/newsflashes/3849423111935237?f=rss)
+  - [银行专项贷强力支持，上市公司频频回购股份](https://36kr.com/newsflashes/3849409069208578?f=rss)
 - 404 Media
   - [Software Update Automatically Turns off Amazon Delivery Drivers’ AC During Dangerous Summer Heat](https://www.404media.co/software-update-automatically-turns-off-amazon-delivery-drivers-ac-during-dangerous-summer-heat/)
 - Ars Technica
@@ -18,6 +38,7 @@
 - Google AI Blog
   - [Our new community investments in Virginia support local jobs and expand energy affordability.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/)
 - Hacker News Frontpage
+  - [Biological Evolution and Information Acquisition](https://www.construction-physics.com/p/biological-evolution-and-information)
   - [Fable 5 lies 96% of the time](https://twitter.com/kradleai/status/2064907897373642912)
   - [I stopped tracking my time. Now I can't focus](https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i)
   - [Introducing Waymo Premier, an elevated rider experience](https://waymo.com/blog/2026/06/waymo-premier/)
@@ -43,6 +64,8 @@
   - [Ramnit Blue Team Lab (CyberDefenders)](https://infosecwriteups.com/ramnit-blue-team-lab-cyberdefenders-55e78851d04a?source=rss----7b722bfd1b8d---4)
 - NowSecure
   - [iOS 27 Security: What WWDC 2026’s AI Features Mean for Mobile App Risk](https://www.nowsecure.com/blog/2026/06/11/ios-27-security-what-wwdc-2026s-ai-features-mean-for-mobile-app-risk/)
+- simonwillison.net
+  - [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=D039E607-9443-53D4-AA20-578FC0282FE1&utm_source=rss&utm_medium=rss)
   - [Systems-and-Cyber-Security-Coursework exploit](https://sploitus.com/exploit?id=1B4E1928-22BA-58AE-868A-852185F77BAA&utm_source=rss&utm_medium=rss)
@@ -201,6 +224,7 @@
   - [CVE-2026-42768 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-42768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42769 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-42769?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42770 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-42770?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42846](https://vulners.com/nvd/NVD:CVE-2026-42846?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42947](https://vulners.com/circl/CIRCL:CVE-2026-42947?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42947](https://vulners.com/cve/CVE-2026-42947?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44249](https://vulners.com/nvd/NVD:CVE-2026-44249?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -216,6 +240,7 @@
   - [CVE-2026-44496](https://vulners.com/nvd/NVD:CVE-2026-44496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44705](https://vulners.com/nvd/NVD:CVE-2026-44705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44890](https://vulners.com/nvd/NVD:CVE-2026-44890?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45060](https://vulners.com/nvd/NVD:CVE-2026-45060?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45171](https://vulners.com/nvd/NVD:CVE-2026-45171?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45172](https://vulners.com/nvd/NVD:CVE-2026-45172?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45173](https://vulners.com/nvd/NVD:CVE-2026-45173?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -223,6 +248,7 @@
   - [CVE-2026-45174 Idira Endpoint Privilege Manager Linux Agent: Potential bypass of Agent Daemon Initialization](https://vulners.com/cve/CVE-2026-45174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45174 Idira Endpoint Privilege Manager Linux Agent: Potential bypass of Agent Daemon Initialization](https://vulners.com/cvelist/CVELIST:CVE-2026-45174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45175](https://vulners.com/nvd/NVD:CVE-2026-45175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45418](https://vulners.com/nvd/NVD:CVE-2026-45418?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45445 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-45445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45446 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-45446?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45447 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-45447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -232,6 +258,7 @@
   - [CVE-2026-46697](https://vulners.com/nvd/NVD:CVE-2026-46697?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46698](https://vulners.com/nvd/NVD:CVE-2026-46698?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47157](https://vulners.com/nvd/NVD:CVE-2026-47157?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47238](https://vulners.com/nvd/NVD:CVE-2026-47238?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48546](https://vulners.com/nvd/NVD:CVE-2026-48546?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49060](https://vulners.com/nvd/NVD:CVE-2026-49060?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49261](https://vulners.com/nvd/NVD:CVE-2026-49261?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -330,9 +357,11 @@
   - [Is It a Super El Niño Year? It Could Turn the World’s Weather Upside Down](https://www.wired.com/story/super-el-nino-turns-worlds-weather-upside-down/)
   - [Massive Effigy of Elon Musk Raised Over Times Square to Protest Grok](https://www.wired.com/story/massive-effigy-of-elon-musk-raised-over-times-square-to-protest-grok/)
   - [Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet](https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/)
+  - [Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine](https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/)
   - [‘Hands Off Our NHS’: Anti-Palantir Protests Break Out in UK Over Deal With National Health Service](https://www.wired.com/story/palantir-protests-nhs-conference-uk/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
   - [Deezer为第三方平台推出AI音乐检测器](https://blog.upx8.com/Deezer%E4%B8%BA%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B3%E5%8F%B0%E6%8E%A8%E5%87%BAAI%E9%9F%B3%E4%B9%90%E6%A3%80%E6%B5%8B%E5%99%A8)
   - [德国法院里程碑判决：AI搜索生成诽谤言论，谷歌不能甩锅](https://blog.upx8.com/%E5%BE%B7%E5%9B%BD%E6%B3%95%E9%99%A2%E9%87%8C%E7%A8%8B%E7%A2%91%E5%88%A4%E5%86%B3-AI%E6%90%9C%E7%B4%A2%E7%94%9F%E6%88%90%E8%AF%BD%E8%B0%A4%E8%A8%80%E8%AE%BA-%E8%B0%B7%E6%AD%8C%E4%B8%8D%E8%83%BD%E7%94%A9%E9%94%85)
+  - [英伟达携手Abridge开发医疗AI模型](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%90%BA%E6%89%8BAbridge%E5%BC%80%E5%8F%91%E5%8C%BB%E7%96%97AI%E6%A8%A1%E5%9E%8B)
