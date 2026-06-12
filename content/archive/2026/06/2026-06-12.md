@@ -29,6 +29,8 @@
   - [隔壁太逗了，堪比大型行为艺术现场](https://2libra.com/post/social-observation/UrNOZV6)
 - 36氪
   - [#顺丰同城在深圳成立科技公司，注册资本100万](https://36kr.com/newsflashes/3849812805031173?f=rss)
+  - [*ST兰黄：6月16日起撤销退市风险警示，证券简称变更为“兰州黄河”](https://36kr.com/newsflashes/3850154419213568?f=rss)
+  - [*ST国华：收到股票终止上市决定，6月23日复牌并进入退市整理期](https://36kr.com/newsflashes/3850170708939779?f=rss)
   - [*ST威领：控股股东签署的《股份转让协议》解除，控制权变更事项终止](https://36kr.com/newsflashes/3849995100099848?f=rss)
   - [*ST广糖：因涉嫌信息披露违法违规被中国证监会立案](https://36kr.com/newsflashes/3849959894144260?f=rss)
   - [*ST立航：撤销退市风险警示，6月16日起股票简称变更为立航科技](https://36kr.com/newsflashes/3850057162740739?f=rss)
@@ -101,6 +103,7 @@
   - [南亚新材：拟减持不超过235.18万股已回购股份](https://36kr.com/newsflashes/3850019477492740?f=rss)
   - [味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品](https://36kr.com/newsflashes/3849779202249732?f=rss)
   - [埃夫特：决定对旗下喷涂机器人全系列产品等实施价格调整，整体价格上调5%—8%](https://36kr.com/newsflashes/3849396714099975?f=rss)
+  - [壳牌宣布暂停30亿美元股票回购计划](https://36kr.com/newsflashes/3850192117912579?f=rss)
   - [天博智能沪市主板IPO获上市委会议通过](https://36kr.com/newsflashes/3850092683236616?f=rss)
   - [太极实业：选举秦晨飞担任董事长](https://36kr.com/newsflashes/3850036375328008?f=rss)
   - [太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏](https://36kr.com/newsflashes/3849405103838470?f=rss)
@@ -130,6 +133,7 @@
   - [招商证券换帅完成工商变更](https://36kr.com/newsflashes/3849775117538567?f=rss)
   - [振江股份：燃气轮机业务主要客户是西门子能源，目前已经排产到明年](https://36kr.com/newsflashes/3849887909188615?f=rss)
   - [新乐道L60发布，售价19.28万元起](https://36kr.com/newsflashes/3849849689265152?f=rss)
+  - [映恩生物IPO审核状态变更为已受理](https://36kr.com/newsflashes/3850165413467398?f=rss)
   - [晶丰明源：股东询价转让初步定价146.55元/股](https://36kr.com/newsflashes/3849965531206660?f=rss)
   - [晶核能源发布全球首款专为机器人场景定制的高性能固态电池](https://36kr.com/newsflashes/3849592681895176?f=rss)
   - [智元机器人等入股蓝点触控](https://36kr.com/newsflashes/3849899016246280?f=rss)
@@ -149,9 +153,11 @@
   - [济南1宗涉宅用地溢价24.52%成交](https://36kr.com/newsflashes/3849705359561986?f=rss)
   - [海光芯正港股IPO获中国证监会备案](https://36kr.com/newsflashes/3850017050629377?f=rss)
   - [海峡股份：开展西沙旅游航线股东专属权益回馈活动](https://36kr.com/newsflashes/3850104322462724?f=rss)
+  - [淘宝闪购：遭同行企业长期有组织造谣，警方已依法查处](https://36kr.com/newsflashes/3850155444147456?f=rss)
   - [港股理想汽车涨超8%](https://36kr.com/newsflashes/3849765401203713?f=rss)
   - [澳大利亚AI云服务商Sharon AI与英伟达达成六年合作](https://36kr.com/newsflashes/3850102005028103?f=rss)
   - [火山引擎在武汉成立科技公司](https://36kr.com/newsflashes/3849923315619075?f=rss)
+  - [热门中概股美股盘前涨跌不一，理想汽车涨超5%](https://36kr.com/newsflashes/3850185722664196?f=rss)
   - [爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市](https://36kr.com/newsflashes/3849794955384072?f=rss)
   - [王占刚任老白干酒董事长](https://36kr.com/newsflashes/3849891654243588?f=rss)
   - [现代汽车工会称薪资谈判未达协议，25日将投票决定是否罢工](https://36kr.com/newsflashes/3849729637438721?f=rss)
@@ -166,6 +172,7 @@
   - [美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元](https://36kr.com/newsflashes/3849773678892033?f=rss)
   - [美联储到7月维持利率不变的概率为91.3%](https://36kr.com/newsflashes/3849439555310848?f=rss)
   - [美股三大指数集体收涨，大型科技股多数上涨](https://36kr.com/newsflashes/3849363818173703?f=rss)
+  - [美股大型科技股盘前普涨，谷歌涨超1%](https://36kr.com/newsflashes/3850184110101509?f=rss)
   - [腾讯云：DatabaseClaw正式商业化计费](https://36kr.com/newsflashes/3849642102183177?f=rss)
   - [腾讯云：下调MiniMax-M3与Hy-MT2-Pro 模型价格](https://36kr.com/newsflashes/3849974304117760?f=rss)
   - [英国4月国内生产总值环比下降0.1%](https://36kr.com/newsflashes/3850041637917698?f=rss)
@@ -183,9 +190,11 @@
   - [银行专项贷强力支持，上市公司频频回购股份](https://36kr.com/newsflashes/3849409069208578?f=rss)
   - [锂同位素高精度原位检测成功实现](https://36kr.com/newsflashes/3849448110183681?f=rss)
   - [长江证券：陈佳辞任副董事长](https://36kr.com/newsflashes/3849915883656199?f=rss)
+  - [长鑫科技集团股份有限公司IPO审核状态变更为注册生效](https://36kr.com/newsflashes/3850149434938631?f=rss)
   - [隧道股份：投资中国能建合计持股4.98%](https://36kr.com/newsflashes/3849967807878151?f=rss)
   - [韩国交易所启动熔断机制，程序交易暂停5分钟](https://36kr.com/newsflashes/3849439229383939?f=rss)
   - [韩美半导体将使用500亿韩元投资于SpaceX](https://36kr.com/newsflashes/3849477988062215?f=rss)
+  - [顺景科技：拟定增募资不超10.77亿元，用于年产1000万套压力传感器建设项目等](https://36kr.com/newsflashes/3850181460432128?f=rss)
   - [首张全球菌根真菌“地下网络”图绘成](https://36kr.com/newsflashes/3849454773851142?f=rss)
   - [香港超级豪宅以7200万美元易手，创下今年最大二手房交易](https://36kr.com/newsflashes/3849724360430599?f=rss)
   - [香港：一季度制造业生产指数同比上升3.1%，生产者价格指数同比上升17.7%](https://36kr.com/newsflashes/3849957973742601?f=rss)
@@ -216,9 +225,12 @@
   - [Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/)
   - [Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film](https://www.youtube.com/watch?v=iEho3brGB64)
 - darkreading
+  - [Claude Fable 5 Doesn't Change the Mythos Security Story](https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story)
   - [Phishing Attack Volume Down 20%, but Risk Still Rising](https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising)
 - defend.network
   - [Critical: Oracle PeopleSoft Zero-Day, Windows BitLocker Bypass, Gentlemen Ransomware](https://defend.network/briefings/oracle-peoplesoft-windows-bitlocker-gentlemen-ransomwar-2026-06-12.html)
+- Fidelis Security
+  - [How to Defend Against Double Extortion Ransomware: Protecting Your Data and Your Reputation](https://fidelissecurity.com/threatgeek/threat-detection-response/double-extortion-ransomware-defense/)
 - Google AI Blog
   - [Our new community investments in Virginia support local jobs and expand energy affordability.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/)
 - Hacker News Frontpage
@@ -242,6 +254,8 @@
 - HackerNoon
   - [LLMs Shouldn’t Do Math: Why Your Agents Need Classical ML Tools](https://hackernoon.com/llms-shouldnt-do-math-why-your-agents-need-classical-ml-tools?source=rss)
   - [Why Agentic Software Development Needs Documentation Stewardship](https://hackernoon.com/why-agentic-software-development-needs-documentation-stewardship?source=rss)
+- Hacking Articles
+  - [Penelope – A Modern Alternative to Netcat for Red Teamers](https://www.hackingarticles.in/penelope-a-modern-alternative-to-netcat-for-red-teamers/)
 - Horizon3.ai
   - [AI-Powered Exploit Generation: Speed, Scale & Cyber Risk](https://horizon3.ai/intelligence/blogs/ai-exploit-speed-scale/)
 - idiallo.com
@@ -264,13 +278,18 @@
   - [Recovering a Forgotten Password in a Self-Hosted n8n Docker Deployment](https://infosecwriteups.com/recovering-a-forgotten-password-in-a-self-hosted-n8n-docker-deployment-251e073757f5?source=rss----7b722bfd1b8d---4)
   - [Six levels, one lesson: LLMs cannot keep a secret](https://infosecwriteups.com/six-levels-one-lesson-llms-cannot-keep-a-secret-742927383722?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
+  - [GitHub to Update npm to Thwart Software Supply Chain Attacks](https://www.infosecurity-magazine.com/news/github-update-npm-supply-chain/)
   - [Over 80% of Sports Organizations Targeted by Hackers in the Last Year](https://www.infosecurity-magazine.com/news/sports-organizations-targeted-by/)
 - miguelgrinberg.com
   - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
+- MIT Technology Review
+  - [The Download: “reprogramming” aging, and the hidden sense of interoception](https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/)
 - NowSecure
   - [iOS 27 Security: What WWDC 2026’s AI Features Mean for Mobile App Risk](https://www.nowsecure.com/blog/2026/06/11/ios-27-security-what-wwdc-2026s-ai-features-mean-for-mobile-app-risk/)
 - Recent Commits to cve:main
   - [Update Fri Jun 12 11:59:56 UTC 2026](https://github.com/trickest/cve/commit/b929b77a31367079507139d4ae2621747ad37284)
+- SentinelOne
+  - [The Good, the Bad and the Ugly in Cybersecurity – Week 24](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-24-7/)
 - shkspr.mobi
   - [Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★](https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/)
 - simonwillison.net
@@ -306,9 +325,13 @@
 - The Verge
   - [A warrantless wiretap law is about to expire — but surveillance networks aren’t actually ‘going dark’](https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse)
   - [Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features](https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign)
+  - [BMW’s Neue Klasse M concept brings next-gen EV tech to motorsports](https://www.theverge.com/transportation/948635/bmw-neue-klasse-m-concept-motorsports-ev)
   - [Here are the price-matching policies for Best Buy, GameStop, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
   - [I&#8217;ve found the Goldilocks of portable MIDI controllers](https://www.theverge.com/tech/948024/arturia-minilab-37-midi-controller-review)
   - [Siri won’t be your AI girlfriend](https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend)
+  - [So you want to buy a gaming handheld PC](https://www.theverge.com/games/947469/best-handheld-gaming-pc)
+  - [Summer Upgrade Week](https://www.theverge.com/tech/942658/summer-upgrade-week-2026)
+  - [The Nintendo DS is still the best gaming handheld for travel](https://www.theverge.com/games/942678/nintendo-ds-rules-for-travel)
   - [This portable light is great for way more than camping](https://www.theverge.com/tech/942932/portable-light-camping-work-travel)
   - [Waymo introduces $30-a-month premium tier for riders who want faster pickups](https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back)
 - VulDB Recent Entries
@@ -812,6 +835,7 @@
   - [Hermes Agent 桌面版正式发布！Windows / macOS / Linux 全平台支持，小白也能轻松上手！](https://blog.upx8.com/Hermes-Agent-Windows-macOS-Linux)
   - [Kimi发布并开源Kimi K2.7 Code编程模型](https://blog.upx8.com/Kimi%E5%8F%91%E5%B8%83%E5%B9%B6%E5%BC%80%E6%BA%90Kimi-K2-7-Code%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B)
   - [Waymo推出会员 30美元/月享优先派车服务](https://blog.upx8.com/Waymo%E6%8E%A8%E5%87%BA%E4%BC%9A%E5%91%98-30%E7%BE%8E%E5%85%83-%E6%9C%88%E4%BA%AB%E4%BC%98%E5%85%88%E6%B4%BE%E8%BD%A6%E6%9C%8D%E5%8A%A1)
+  - [华为官宣智能协作产品7月1日起涨价](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E5%AE%98%E5%AE%A3%E6%99%BA%E8%83%BD%E5%8D%8F%E4%BD%9C%E4%BA%A7%E5%93%817%E6%9C%881%E6%97%A5%E8%B5%B7%E6%B6%A8%E4%BB%B7)
   - [德国法院里程碑判决：AI搜索生成诽谤言论，谷歌不能甩锅](https://blog.upx8.com/%E5%BE%B7%E5%9B%BD%E6%B3%95%E9%99%A2%E9%87%8C%E7%A8%8B%E7%A2%91%E5%88%A4%E5%86%B3-AI%E6%90%9C%E7%B4%A2%E7%94%9F%E6%88%90%E8%AF%BD%E8%B0%A4%E8%A8%80%E8%AE%BA-%E8%B0%B7%E6%AD%8C%E4%B8%8D%E8%83%BD%E7%94%A9%E9%94%85)
   - [英伟达公司向中国客户推销Vera处理器](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%85%AC%E5%8F%B8%E5%90%91%E4%B8%AD%E5%9B%BD%E5%AE%A2%E6%88%B7%E6%8E%A8%E9%94%80Vera%E5%A4%84%E7%90%86%E5%99%A8)
   - [英伟达携手Abridge开发医疗AI模型](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%90%BA%E6%89%8BAbridge%E5%BC%80%E5%8F%91%E5%8C%BB%E7%96%97AI%E6%A8%A1%E5%9E%8B)
