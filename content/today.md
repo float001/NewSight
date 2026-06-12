@@ -1,4 +1,64 @@
 # 今日安全资讯（2026-06-13）
 
+- 2Libra
+  - [萌新报道 这里才是梦寐以求的技术交流站啊](https://2libra.com/post/newcomer/9UUOztm)
+- 404 Media
+  - [‘You Will Not Speak on Flock Tonight’: County Commissioner Refuses to Let Residents Opposing Flock Speak at Meeting](https://www.404media.co/you-will-not-speak-on-flock-tonight-county-commissioner-refuses-to-let-residents-opposing-flock-speak-at-meeting/)
+- Cybersecurity News
+  - [Conti Ransomware Guilty Plea Marks Major Victory Against Cybercrime](https://securityonline.info/conti-ransomware-guilty-plea/)
+  - [International Takedown Smashes Massive Crypto Laundering Service](https://securityonline.info/crypto-laundering-service-dismantled/)
+  - [Seizing Deepfake Porn Websites: Feds Disrupt Major Global Exploitation Ring](https://securityonline.info/seizing-deepfake-porn-websites/)
+- daringfireball.net
+  - [The European Commission Response to Siri AI and the DMA](https://www.linkedin.com/posts/thomas-regnier-24a05810b_what-is-the-true-story-behind-apples-decision-activity-7470439874664280064-TuEt)
+- filfre.net
+  - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit_sin_monitos_v3_4_3 exploit](https://sploitus.com/exploit?id=C08353CA-BBF3-5CE3-B4FA-72F011A3029A&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [SpaceX, Anthropic, and OpenAI’s hot IPO summer](https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/)
+- The Verge
+  - [A trillion dollars is a stupid amount of money](https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization)
+  - [Elon Musk is the world&#8217;s first trillionaire](https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo)
+- Vulners.com RSS Feed
+  - [CVE-2026-40677](https://vulners.com/nvd/NVD:CVE-2026-40677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44206](https://vulners.com/nvd/NVD:CVE-2026-44206?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44975](https://vulners.com/nvd/NVD:CVE-2026-44975?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44976](https://vulners.com/nvd/NVD:CVE-2026-44976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45830](https://vulners.com/nvd/NVD:CVE-2026-45830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45831](https://vulners.com/nvd/NVD:CVE-2026-45831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45832](https://vulners.com/nvd/NVD:CVE-2026-45832?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45833](https://vulners.com/nvd/NVD:CVE-2026-45833?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46690](https://vulners.com/nvd/NVD:CVE-2026-46690?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47182](https://vulners.com/nvd/NVD:CVE-2026-47182?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47190](https://vulners.com/nvd/NVD:CVE-2026-47190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47691](https://vulners.com/nvd/NVD:CVE-2026-47691?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48006](https://vulners.com/nvd/NVD:CVE-2026-48006?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48043](https://vulners.com/nvd/NVD:CVE-2026-48043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48059](https://vulners.com/nvd/NVD:CVE-2026-48059?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48748](https://vulners.com/nvd/NVD:CVE-2026-48748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50009](https://vulners.com/nvd/NVD:CVE-2026-50009?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50010](https://vulners.com/nvd/NVD:CVE-2026-50010?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50011](https://vulners.com/nvd/NVD:CVE-2026-50011?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50020](https://vulners.com/nvd/NVD:CVE-2026-50020?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50026](https://vulners.com/nvd/NVD:CVE-2026-50026?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50082](https://vulners.com/nvd/NVD:CVE-2026-50082?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50083](https://vulners.com/nvd/NVD:CVE-2026-50083?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50084](https://vulners.com/nvd/NVD:CVE-2026-50084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50085](https://vulners.com/nvd/NVD:CVE-2026-50085?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50086](https://vulners.com/nvd/NVD:CVE-2026-50086?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50087](https://vulners.com/nvd/NVD:CVE-2026-50087?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50088](https://vulners.com/nvd/NVD:CVE-2026-50088?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50089](https://vulners.com/nvd/NVD:CVE-2026-50089?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50090](https://vulners.com/nvd/NVD:CVE-2026-50090?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50091](https://vulners.com/nvd/NVD:CVE-2026-50091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50560](https://vulners.com/nvd/NVD:CVE-2026-50560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53568](https://vulners.com/nvd/NVD:CVE-2026-53568?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5792](https://vulners.com/nvd/NVD:CVE-2026-5792?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8828](https://vulners.com/nvd/NVD:CVE-2026-8828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9638](https://vulners.com/nvd/NVD:CVE-2026-9638?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9641](https://vulners.com/nvd/NVD:CVE-2026-9641?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit_sin_monitos_v3_4_3](https://vulners.com/githubexploit/C08353CA-BBF3-5CE3-B4FA-72F011A3029A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [AI 智能体试图扫描 DN42 时把主人搞破产](https://www.solidot.org/story?sid=84565)
