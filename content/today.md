@@ -2,20 +2,33 @@
 
 - 2Libra
   - [公司网站之前用的一个 CSS 的网站变成赌球网站，被网警联系](https://2libra.com/post/office-life/VWUzwBz)
+  - [离谱！这盒子的“魔力”到底有多毒？](https://2libra.com/post/forum-function/EETPpFv)
   - [虽然签到鉴定失败，但是意外解锁了一个很好的金币总额 88888](https://2libra.com/post/forum-function/6CnhfiP)
   - [调侃——大学体测奇葩多](https://2libra.com/post/small-things/H4ONog6)
 - 36氪
   - [Adobe第二财季营收66.2亿美元，同比增长13%](https://36kr.com/newsflashes/3849380138702086?f=rss)
   - [AI机器人企业Theker获路威酩轩等投资方8500万美元融资](https://36kr.com/newsflashes/3849404234667016?f=rss)
+  - [AI重塑底层逻辑，数据库重新站上风口](https://36kr.com/newsflashes/3849438848390144?f=rss)
   - [Alphabet旗下自动驾驶公司Waymo将推出30美元月费会员计划](https://36kr.com/newsflashes/3849421770658823?f=rss)
   - [Anthropic据悉正在寻求其首批数据中心租约](https://36kr.com/newsflashes/3849380876260352?f=rss)
+  - [A股指数体系迈向精细化，年内新增374条指数](https://36kr.com/newsflashes/3849459629643008?f=rss)
   - [OpenAI已达成协议收购ONA](https://36kr.com/newsflashes/3849381479191810?f=rss)
+  - [SK海力士考虑引入ChatGPT等外部人工智能服务](https://36kr.com/newsflashes/3849477119939840?f=rss)
   - [SpaceX的IPO散户认购额据悉超1000亿美元](https://36kr.com/newsflashes/3849385309295879?f=rss)
   - [Visa与OpenAI达成战略合作，AI代理将可代为购物付款](https://36kr.com/newsflashes/3849383875367941?f=rss)
+  - [“对赌协议”即将迎来政策层面规范，机构竞争力将回归价值发现本身](https://36kr.com/newsflashes/3849440819844099?f=rss)
   - [世界银行下调2026年全球经济增长预期至2.5%](https://36kr.com/newsflashes/3849379493205253?f=rss)
+  - [两市融资余额减少52.23亿元](https://36kr.com/newsflashes/3849479985599488?f=rss)
+  - [中信建投：算力等高频高速需求快速增长，电子级PTFE有望大规模应用](https://36kr.com/newsflashes/3849487518798857?f=rss)
+  - [中信证券：非农数据令市场对美联储政策路径重新定价，美联储年内或将维持利率不变](https://36kr.com/newsflashes/3849451073983495?f=rss)
   - [中小银行资产配置逻辑新变化：金融市场业务成稳营收重要抓手](https://36kr.com/newsflashes/3849405986378757?f=rss)
+  - [中金：美元流动性扩张的引擎正在经历一场“大切换”](https://36kr.com/newsflashes/3849437411021827?f=rss)
   - [从“被投者”到“投资者”，硬科技企业密集设立产业基金](https://36kr.com/newsflashes/3849400241018115?f=rss)
+  - [到2030年新增超160列旅游专列，拓展出游场景新可能](https://36kr.com/newsflashes/3849465634510085?f=rss)
+  - [券商密集修订薪酬管理制度，强化长效约束](https://36kr.com/newsflashes/3849468308051200?f=rss)
   - [券商打起Skill服务“卡位战”，竞争分水岭在于构建金融业务“数字孪生地图”](https://36kr.com/newsflashes/3849382642897927?f=rss)
+  - [前5个月超七成私募证券产品“赚钱”](https://36kr.com/newsflashes/3849460544148736?f=rss)
+  - [半导体板块ETF逆势连涨，通信赛道持续获资金布局](https://36kr.com/newsflashes/3849454108431366?f=rss)
   - [埃夫特：决定对旗下喷涂机器人全系列产品等实施价格调整，整体价格上调5%—8%](https://36kr.com/newsflashes/3849396714099975?f=rss)
   - [太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏](https://36kr.com/newsflashes/3849405103838470?f=rss)
   - [应用数字公司完成15.9亿美元AI债务融资](https://36kr.com/newsflashes/3849425680143369?f=rss)
@@ -23,18 +36,30 @@
   - [机构间REITs持续上新，机构提示三类项目有吸引力](https://36kr.com/newsflashes/3849406959424521?f=rss)
   - [沃尔玛与Wing无人机配送扩展至七个新都会区](https://36kr.com/newsflashes/3849398085473542?f=rss)
   - [秘鲁央行将基准利率维持在4.25%](https://36kr.com/newsflashes/3849407791617031?f=rss)
+  - [精研科技：公司光模块壳体目前已有部分开始量产](https://36kr.com/newsflashes/3849486976619522?f=rss)
+  - [美联储到7月维持利率不变的概率为91.3%](https://36kr.com/newsflashes/3849439555310848?f=rss)
   - [美股三大指数集体收涨，大型科技股多数上涨](https://36kr.com/newsflashes/3849363818173703?f=rss)
+  - [药明康德：就被纳入美国1260H名单事项对美国国防部提起诉讼](https://36kr.com/newsflashes/3849458469262592?f=rss)
   - [超百家村镇银行“消失”，中小银行风险化解加速](https://36kr.com/newsflashes/3849423111935237?f=rss)
   - [银行专项贷强力支持，上市公司频频回购股份](https://36kr.com/newsflashes/3849409069208578?f=rss)
+  - [锂同位素高精度原位检测成功实现](https://36kr.com/newsflashes/3849448110183681?f=rss)
+  - [韩国交易所启动熔断机制，程序交易暂停5分钟](https://36kr.com/newsflashes/3849439229383939?f=rss)
+  - [韩美半导体将使用500亿韩元投资于SpaceX](https://36kr.com/newsflashes/3849477988062215?f=rss)
+  - [首张全球菌根真菌“地下网络”图绘成](https://36kr.com/newsflashes/3849454773851142?f=rss)
+  - [高盛下调明年布伦特原油平均价格预期至每桶80美元](https://36kr.com/newsflashes/3849480616940544?f=rss)
 - 404 Media
   - [Software Update Automatically Turns off Amazon Delivery Drivers’ AC During Dangerous Summer Heat](https://www.404media.co/software-update-automatically-turns-off-amazon-delivery-drivers-ac-during-dangerous-summer-heat/)
 - Ars Technica
   - [After nearly breaking, NASA's Deep Space Network "worked well" on Artemis II](https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/)
   - [Did Iron Age Britons remove brains of the dead?](https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/)
   - [F1 teams spend millions on their simulators—what makes them different?](https://arstechnica.com/cars/2026/06/whats-so-special-about-a-formula-1-driver-in-the-loop-simulator/)
+- Cybersecurity News
+  - [Millions at Risk: 9.8 CVSS Remote Code Execution in HTTP.sys](https://securityonline.info/httpsys-rce-cve-2026-47291/)
 - daringfireball.net
   - [Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/)
   - [Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film](https://www.youtube.com/watch?v=iEho3brGB64)
+- darkreading
+  - [Phishing Attack Volume Down 20%, but Risk Still Rising](https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising)
 - Google AI Blog
   - [Our new community investments in Virginia support local jobs and expand energy affordability.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/)
 - Hacker News Frontpage
@@ -43,6 +68,7 @@
   - [I stopped tracking my time. Now I can't focus](https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i)
   - [Introducing Waymo Premier, an elevated rider experience](https://waymo.com/blog/2026/06/waymo-premier/)
   - [Israel's Paid U.S. Influencer Network Exposed – – Imemc News](https://imemc.org/article/israels-paid-u-s-influencer-network-exposed/)
+  - [Nobody ever gets credit for fixing problems that never happened (2002) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
   - [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
   - [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
   - [Solar generates more energy in US than coal for first time](https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal)
@@ -160,6 +186,7 @@
   - [CVE-2024-45636](https://vulners.com/nvd/NVD:CVE-2024-45636?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10557](https://vulners.com/circl/CIRCL:CVE-2026-10557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10557](https://vulners.com/cve/CVE-2026-10557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10676](https://vulners.com/nvd/NVD:CVE-2026-10676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11839](https://vulners.com/nvd/NVD:CVE-2026-11839?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11945](https://vulners.com/nvd/NVD:CVE-2026-11945?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11986](https://vulners.com/nvd/NVD:CVE-2026-11986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -262,6 +289,7 @@
   - [CVE-2026-48546](https://vulners.com/nvd/NVD:CVE-2026-48546?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49060](https://vulners.com/nvd/NVD:CVE-2026-49060?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49261](https://vulners.com/nvd/NVD:CVE-2026-49261?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49482](https://vulners.com/nvd/NVD:CVE-2026-49482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49949](https://vulners.com/nvd/NVD:CVE-2026-49949?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49973](https://vulners.com/nvd/NVD:CVE-2026-49973?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49982](https://vulners.com/nvd/NVD:CVE-2026-49982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -361,6 +389,8 @@
   - [‘Hands Off Our NHS’: Anti-Palantir Protests Break Out in UK Over Deal With National Health Service](https://www.wired.com/story/palantir-protests-nhs-conference-uk/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 量子位 QbitAI
+  - [SpaceX一上市，连食堂阿姨都要成百万富翁了。。。](https://www.qbitai.com/2026/06/434733.html)
 - 黑海洋
   - [Deezer为第三方平台推出AI音乐检测器](https://blog.upx8.com/Deezer%E4%B8%BA%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B3%E5%8F%B0%E6%8E%A8%E5%87%BAAI%E9%9F%B3%E4%B9%90%E6%A3%80%E6%B5%8B%E5%99%A8)
   - [德国法院里程碑判决：AI搜索生成诽谤言论，谷歌不能甩锅](https://blog.upx8.com/%E5%BE%B7%E5%9B%BD%E6%B3%95%E9%99%A2%E9%87%8C%E7%A8%8B%E7%A2%91%E5%88%A4%E5%86%B3-AI%E6%90%9C%E7%B4%A2%E7%94%9F%E6%88%90%E8%AF%BD%E8%B0%A4%E8%A8%80%E8%AE%BA-%E8%B0%B7%E6%AD%8C%E4%B8%8D%E8%83%BD%E7%94%A9%E9%94%85)
