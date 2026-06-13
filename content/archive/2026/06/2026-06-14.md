@@ -2,6 +2,8 @@
 
 - 2Libra
   - [喜提混沌](https://2libra.com/post/interaction/2pLophz)
+- 404 Media
+  - [Scientists Discover Vast Ancient ‘Necropolis’ Teeming With Strange New Creatures](https://www.404media.co/scientists-discover-vast-ancient-necropolis-teeming-with-strange-new-creatures/)
 - daringfireball.net
   - [Apple’s Private Cloud Compute Is Severely Limited for Third-Party Developers](https://developer.apple.com/private-cloud-compute/)
   - [Trump’s Name (Set in the Wrong Font, of Course) Has Been Removed From the Kennedy Center](https://apple.news/ANLNtQOeuSkiJ35tzkYw9oA)
@@ -15,6 +17,7 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-42647 exploit](https://sploitus.com/exploit?id=FD4AA5D0-761A-574B-BE76-55A50B193227&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/)
   - [OpenAI faces investigation from state attorneys general](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/)
   - [This thin under-pillow speaker helped me fall asleep without earbuds](https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/)
 - The Decoder
@@ -23,8 +26,12 @@
   - [Sealed Super Mario Bros. sells for a record $3 million](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction)
 - Vulners.com RSS Feed
   - [CVE-2026-12183](https://vulners.com/nvd/NVD:CVE-2026-12183?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49854 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-49854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49854 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-49854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6428](https://vulners.com/nvd/NVD:CVE-2026-6428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42647](https://vulners.com/githubexploit/FD4AA5D0-761A-574B-BE76-55A50B193227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit-Development-master](https://vulners.com/githubexploit/FB29A6F9-8FD2-5475-894F-D5F10F83FA22?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-CX3H-4QPV-8HC9 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-CX3H-4QPV-8HC9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-CX3H-4QPV-8HC9 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-CX3H-4QPV-8HC9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
