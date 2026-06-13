@@ -22,6 +22,7 @@
   - [Cyber Myth: Attackers only have to be right once, Defenders have to be right all the time!](https://www.pwndefend.com/2026/06/13/cyber-myth-attackers-only-have-to-be-right-once-defenders-have-to-be-right-all-the-time/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-42647 exploit](https://sploitus.com/exploit?id=FD4AA5D0-761A-574B-BE76-55A50B193227&utm_source=rss&utm_medium=rss)
+  - [POC_cve_2026_35273 exploit](https://sploitus.com/exploit?id=6D7408A2-2122-5A74-A614-E322984ACCEE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/)
   - [KPMG pulls report on AI usage due to apparent hallucinations](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
@@ -30,8 +31,10 @@
 - The Decoder
   - [New AI model called "Count Anything" does exactly what it says, and that's harder than it sounds](https://the-decoder.com/new-ai-model-called-count-anything-does-exactly-what-it-says-and-thats-harder-than-it-sounds/)
 - The Verge
+  - [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban)
   - [Sealed Super Mario Bros. sells for a record $3 million](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction)
 - Vulners.com RSS Feed
+  - [CVE-2026-12174](https://vulners.com/nvd/NVD:CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12174 D-Link DCS-935L HTTP rhea snprintf format string](https://vulners.com/cve/CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12174 D-Link DCS-935L HTTP rhea snprintf format string](https://vulners.com/cvelist/CVELIST:CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12183](https://vulners.com/nvd/NVD:CVE-2026-12183?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -42,5 +45,6 @@
   - [Exploit-Development-master](https://vulners.com/githubexploit/FB29A6F9-8FD2-5475-894F-D5F10F83FA22?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-CX3H-4QPV-8HC9 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-CX3H-4QPV-8HC9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-CX3H-4QPV-8HC9 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-CX3H-4QPV-8HC9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [POC_cve_2026_35273](https://vulners.com/githubexploit/6D7408A2-2122-5A74-A614-E322984ACCEE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
