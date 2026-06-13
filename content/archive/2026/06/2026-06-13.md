@@ -5,6 +5,7 @@
   - [【潘多拉】今天这个挺不错](https://2libra.com/post/sharing-discoveries/F7hNJS6)
   - [【💰】小小金币雨，留下你的周末安排和祝福，祝大家周末愉快~](https://2libra.com/post/forum-function/IA4fuxN)
   - [一个人折腾了一个月，把 PDF 六个模板排版彻底重写了](https://2libra.com/post/personal-works/WhfbEgG)
+  - [今日烘焙——凤梨酥](https://2libra.com/post/personal-life/dFQlwA8)
   - [大专生目前在深圳做健身卡销售 很迷茫](https://2libra.com/post/job-hunting/N1XeTjo)
   - [本夏收割季，来了，59/月起，欢迎受刀](https://2libra.com/post/promotion/BlUCEnx)
   - [萌新报道 这里才是梦寐以求的技术交流站啊](https://2libra.com/post/newcomer/9UUOztm)
@@ -17,6 +18,7 @@
   - [H&M重组全球架构，大中华区降级](https://36kr.com/newsflashes/3851272011813896?f=rss)
   - [SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖](https://36kr.com/p/3850902095336449?f=rss)
   - [“宁王系”，排队 IPO](https://36kr.com/p/3851106394117383?f=rss)
+  - [“木头姐”买入逾4亿美元SpaceX股票](https://36kr.com/newsflashes/3851373053056005?f=rss)
   - [《金融信息服务数据分类分级指南》印发](https://36kr.com/newsflashes/3851331950728194?f=rss)
   - [一季度全球前十大晶圆代工商营收季增3.7%](https://36kr.com/newsflashes/3850890624849156?f=rss)
   - [上海独角兽冲刺“脑机接口第一股”](https://36kr.com/newsflashes/3851197687501830?f=rss)
@@ -34,6 +36,7 @@
   - [新通教育与36氪研究院联合发布《AI时代留学就业白皮书》](https://36kr.com/newsflashes/3851097792632066?f=rss)
   - [智谱：GLM-5.2将面向GLM Coding Plan全量用户开放](https://36kr.com/newsflashes/3851264775804160?f=rss)
   - [曼联，要被卖了](https://36kr.com/p/3851350342325504?f=rss)
+  - [江丰电子：公司生产的先端存储芯片用高纯300mm硅靶已批量供货](https://36kr.com/newsflashes/3851370635334919?f=rss)
   - [法国调查显示公众对人工智能态度分化明显](https://36kr.com/newsflashes/3851099090998277?f=rss)
   - [特朗普政府禁止境外主体获取Anthropic旗下最强人工智能模型](https://36kr.com/newsflashes/3850886715446274?f=rss)
   - [甲骨文赢得3.96亿美元联邦人力资源现代化合同](https://36kr.com/newsflashes/3850888921404675?f=rss)
@@ -63,6 +66,8 @@
 - Ars Technica
   - [$130 billion in data center projects blocked by protests so far this year](https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/)
   - [PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data](https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/)
+- Articles | InfoStealers
+  - [The Pulling of Mythos Offline: Why AI KYC Will Fail to Stop Cybercriminals](https://www.infostealers.com/article/the-pulling-of-mythos-offline-why-ai-kyc-will-fail-to-stop-cybercriminals/)
 - Cybersecurity News
   - [Apple Container 1.0: Native Linux VMs on Apple Silicon](https://securityonline.info/apple-container-1-0-apple-silicon-linux-vms/)
   - [Conti Ransomware Guilty Plea Marks Major Victory Against Cybercrime](https://securityonline.info/conti-ransomware-guilty-plea/)
@@ -107,6 +112,7 @@
   - [AutoVAPT exploit](https://sploitus.com/exploit?id=29FDB8F1-C4A9-50FC-8CC7-D022D15622DD&utm_source=rss&utm_medium=rss)
   - [ember exploit](https://sploitus.com/exploit?id=C9229595-56AA-537C-BB8E-E4AA8A4F81D5&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-Site Request Forgery (CSRF) in Jupyter Jupyterhub exploit](https://sploitus.com/exploit?id=6DC85E25-562C-5013-9637-8ECC82BB80F9&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-11450 exploit](https://sploitus.com/exploit?id=F82812B2-209D-560F-A047-2C5FA823E1FD&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-22356 exploit](https://sploitus.com/exploit?id=2B7EC0E8-7984-5387-91E5-615EAC92E0E1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-41490 exploit](https://sploitus.com/exploit?id=CDA85394-5DE8-526C-A69E-987959729784&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-48017 exploit](https://sploitus.com/exploit?id=71DCF1B4-43FB-5CFC-AE79-56678B58E162&utm_source=rss&utm_medium=rss)
@@ -130,6 +136,7 @@
   - [SpaceX, Anthropic, and OpenAI’s hot IPO summer](https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/)
 - The Decoder
   - [Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance](https://the-decoder.com/anthropics-claude-fable-5-costs-twice-as-much-for-5-7-percent-more-performance/)
+  - [Meta shifts from "tokenmaxxing" to token managing as internal AI costs reportedly hit billions](https://the-decoder.com/meta-shifts-from-tokenmaxxing-to-token-managing-as-internal-ai-costs-reportedly-hit-billions/)
   - [Moonshot's open model Kimi K2.7 Code undercuts GPT-5.5 and Claude by up to 12x on price per token](https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/)
   - [OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent](https://the-decoder.com/openai-kicks-off-the-ai-price-wars-with-flexible-rate-limit-resets-for-its-codex-coding-agent/)
   - [Over half of Americans fear losing both their jobs and their independent thinking to AI, survey finds](https://the-decoder.com/over-half-of-americans-fear-losing-both-their-jobs-and-their-independent-thinking-to-ai-survey-finds/)
@@ -623,6 +630,7 @@
   - [CVE-2026-9848 WP Ticket <= 6.0.4 - Unauthenticated SQL Injection via WordPress Search 's' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-9848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ember](https://vulners.com/githubexploit/C9229595-56AA-537C-BB8E-E4AA8A4F81D5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Cross-Site Request Forgery (CSRF) in Jupyter Jupyterhub](https://vulners.com/githubexploit/6DC85E25-562C-5013-9637-8ECC82BB80F9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-11450](https://vulners.com/githubexploit/F82812B2-209D-560F-A047-2C5FA823E1FD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-22356](https://vulners.com/githubexploit/2B7EC0E8-7984-5387-91E5-615EAC92E0E1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-41490](https://vulners.com/githubexploit/CDA85394-5DE8-526C-A69E-987959729784?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-48017](https://vulners.com/githubexploit/71DCF1B4-43FB-5CFC-AE79-56678B58E162?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -682,10 +690,12 @@
   - [Elon Musk Is the World's First Trillionaire](https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/)
   - [Here’s How AI Agents Can Protect EV Chargers](https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/)
   - [Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon](https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/)
+  - [Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails](https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/)
   - [‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess](https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/)
 - 不安全
   - [OpenAI公司遭美国多州检察长联合调查](https://buaq.net/go-422810.html)
   - [SpaceX公司对外出租AI算力的内幕曝光](https://buaq.net/go-422843.html)
+  - [U.S. CISA adds Oracle PeopleSoft Enterprise PeopleTools flaw to its Known Exploited Vulnerabilities catalog](https://buaq.net/go-422864.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
