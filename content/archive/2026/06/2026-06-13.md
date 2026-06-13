@@ -132,6 +132,7 @@
   - [ember exploit](https://sploitus.com/exploit?id=C9229595-56AA-537C-BB8E-E4AA8A4F81D5&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Exiftool_Project Exiftool exploit](https://sploitus.com/exploit?id=A0F6718E-3F97-524C-8420-8BD056FE6751&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-Site Request Forgery (CSRF) in Jupyter Jupyterhub exploit](https://sploitus.com/exploit?id=6DC85E25-562C-5013-9637-8ECC82BB80F9&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-11417 exploit](https://sploitus.com/exploit?id=7080EC9F-850A-5CC6-A380-D0194CD3652B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-11450 exploit](https://sploitus.com/exploit?id=F82812B2-209D-560F-A047-2C5FA823E1FD&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-22356 exploit](https://sploitus.com/exploit?id=2B7EC0E8-7984-5387-91E5-615EAC92E0E1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-41490 exploit](https://sploitus.com/exploit?id=CDA85394-5DE8-526C-A69E-987959729784&utm_source=rss&utm_medium=rss)
@@ -141,6 +142,7 @@
   - [Exploit for Uncontrolled Resource Consumption in Solarwinds Serv-U exploit](https://sploitus.com/exploit?id=3F8B37D2-6288-5724-B73B-D65A8373E501&utm_source=rss&utm_medium=rss)
   - [Exploit_sin_monitos_v3_4_3 exploit](https://sploitus.com/exploit?id=C08353CA-BBF3-5CE3-B4FA-72F011A3029A&utm_source=rss&utm_medium=rss)
   - [exploitGuard exploit](https://sploitus.com/exploit?id=569A5075-CF13-53DE-B391-9B69B29E3031&utm_source=rss&utm_medium=rss)
+  - [kit-exploits-prv exploit](https://sploitus.com/exploit?id=4E24BB50-8B91-5BD9-AB6E-3B7FFA3AB3B0&utm_source=rss&utm_medium=rss)
   - [web-vuln-scanner exploit](https://sploitus.com/exploit?id=83B29156-2E5B-5DE8-A514-617EF308D8E8&utm_source=rss&utm_medium=rss)
   - [web-vulnerability-scanner exploit](https://sploitus.com/exploit?id=08DA759F-8360-516C-8014-413DE29094D7&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -177,6 +179,8 @@
   - [Siri is good now??](https://www.theverge.com/podcast/949079/siri-ai-good-vergecast)
   - [The future of Hollywood isn’t feeding prompts into vanilla gen AI models](https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai)
   - [The world’s first trillionaire is a killer](https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer)
+- Threatninja.net
+  - [Hack The Box – VariaType Machine Walkthrough Medium Difficulty](https://threatninja.net/hack-the-box-variatype-machine-walkthrough-medium-difficulty/)
 - VulDB Recent Entries
   - [CVE-2025-14098 | Gen Digital Avira Antivirus 8.3.70.64 on Windows Executable File out-of-bounds write](https://vuldb.com/vuln/370796)
   - [CVE-2025-7002 | Gen Digital Avira Antivirus 8.3.27.12/8.3.70.64 on Windows PDF File out-of-bounds](https://vuldb.com/vuln/370800)
@@ -677,6 +681,7 @@
   - [ember](https://vulners.com/githubexploit/C9229595-56AA-537C-BB8E-E4AA8A4F81D5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Exiftool_Project Exiftool](https://vulners.com/githubexploit/A0F6718E-3F97-524C-8420-8BD056FE6751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Cross-Site Request Forgery (CSRF) in Jupyter Jupyterhub](https://vulners.com/githubexploit/6DC85E25-562C-5013-9637-8ECC82BB80F9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-11417](https://vulners.com/githubexploit/7080EC9F-850A-5CC6-A380-D0194CD3652B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-11450](https://vulners.com/githubexploit/F82812B2-209D-560F-A047-2C5FA823E1FD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-1555](https://vulners.com/githubexploit/DF2E3CB4-78E1-50A5-8D6D-0BAD9ED75E23?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-22356](https://vulners.com/githubexploit/2B7EC0E8-7984-5387-91E5-615EAC92E0E1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -719,6 +724,7 @@
   - [GHSA-XRHX-7G5J-RCJ5 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-XRHX-7G5J-RCJ5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [katex-xss-test](https://vulners.com/githubexploit/24C26077-B16A-5313-96B8-E08C7903EAD5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [kiro-cybersecurity-skills](https://vulners.com/githubexploit/FE5E2AC9-8661-50CF-9897-C92032574F1D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kit-exploits-prv](https://vulners.com/githubexploit/4E24BB50-8B91-5BD9-AB6E-3B7FFA3AB3B0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in postcss-minify-selector-parser (npm)](https://vulners.com/ossf/OSSF:MAL-2026-5737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in postinstall-logger-7x9z (npm)](https://vulners.com/ossf/OSSF:MAL-2026-5738?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in sheratan_haha (npm)](https://vulners.com/ossf/OSSF:MAL-2026-5739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
