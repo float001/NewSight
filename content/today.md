@@ -1,7 +1,12 @@
 # 今日安全资讯（2026-06-13）
 
 - 2Libra
+  - [【潘多拉】今天这个挺不错](https://2libra.com/post/sharing-discoveries/F7hNJS6)
   - [萌新报道 这里才是梦寐以求的技术交流站啊](https://2libra.com/post/newcomer/9UUOztm)
+- 36氪
+  - [9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍](https://36kr.com/p/3850898430989577?f=rss)
+  - [SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖](https://36kr.com/p/3850902095336449?f=rss)
+  - [美股三大指数收盘集体上涨，SpaceX上市首日涨超19%](https://36kr.com/newsflashes/3850879366943750?f=rss)
 - 404 Media
   - [‘You Will Not Speak on Flock Tonight’: County Commissioner Refuses to Let Residents Opposing Flock Speak at Meeting](https://www.404media.co/you-will-not-speak-on-flock-tonight-county-commissioner-refuses-to-let-residents-opposing-flock-speak-at-meeting/)
 - Ars Technica
@@ -27,6 +32,7 @@
   - [I Won't Buy You a Coffee](https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/)
   - [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
   - [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
+  - [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
 - IEEE Spectrum
   - [Award-Winning Researcher Trains Robots to Make Educated Guesses](https://spectrum.ieee.org/researcher-trains-robots-to-guess)
 - pluralistic.net
@@ -179,6 +185,8 @@
   - [CVE-2026-10715](https://vulners.com/nvd/NVD:CVE-2026-10715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10715 Camaleon CMS 2.9.2 - Improper authorization in draft autosave endpoint](https://vulners.com/cve/CVE-2026-10715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10715 Camaleon CMS 2.9.2 - Improper authorization in draft autosave endpoint](https://vulners.com/cvelist/CVELIST:CVE-2026-10715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11442](https://vulners.com/nvd/NVD:CVE-2026-11442?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11443](https://vulners.com/nvd/NVD:CVE-2026-11443?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12043](https://vulners.com/nvd/NVD:CVE-2026-12043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12043 Heap double-free in AWS Common Runtime aws-c-http](https://vulners.com/cve/CVE-2026-12043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12043 Heap double-free in AWS Common Runtime aws-c-http](https://vulners.com/cvelist/CVELIST:CVE-2026-12043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -464,6 +472,8 @@
   - [Elon Musk Is the World's First Trillionaire](https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/)
   - [Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon](https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/)
   - [‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess](https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/)
+- 不安全
+  - [OpenAI公司遭美国多州检察长联合调查](https://buaq.net/go-422810.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
@@ -471,4 +481,5 @@
 - 爱范儿
   - [我们拉上 vivo，聊聊 AI 时代的折叠屏](https://www.ifanr.com/1668866?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [OpenAI公司遭美国多州检察长联合调查](https://blog.upx8.com/OpenAI%E5%85%AC%E5%8F%B8%E9%81%AD%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%B7%9E%E6%A3%80%E5%AF%9F%E9%95%BF%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5)
   - [法国AI公司Mistral AI洽谈融资30亿欧元](https://blog.upx8.com/%E6%B3%95%E5%9B%BDAI%E5%85%AC%E5%8F%B8Mistral-AI%E6%B4%BD%E8%B0%88%E8%9E%8D%E8%B5%8430%E4%BA%BF%E6%AC%A7%E5%85%83)
