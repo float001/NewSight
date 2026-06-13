@@ -14,8 +14,10 @@
   - [11部门发文推动新能源重卡应用](https://36kr.com/newsflashes/3851093396886529?f=rss)
   - [36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑](https://36kr.com/p/3846972367866119?f=rss)
   - [9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍](https://36kr.com/p/3850898430989577?f=rss)
+  - [A股投资者已超2.5亿](https://36kr.com/newsflashes/3851531714680072?f=rss)
   - [A股本周缩量震荡，能源金属板块指数涨逾7%](https://36kr.com/newsflashes/3850991875200000?f=rss)
   - [H&M重组全球架构，大中华区降级](https://36kr.com/newsflashes/3851272011813896?f=rss)
+  - [HDC 2026：鲸鸿动能2025年广告主数增长200%，助力开发者与合作伙伴可持续增长](https://36kr.com/newsflashes/3851524018001154?f=rss)
   - [SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖](https://36kr.com/p/3850902095336449?f=rss)
   - [“宁王系”，排队 IPO](https://36kr.com/p/3851106394117383?f=rss)
   - [“木头姐”买入逾4亿美元SpaceX股票](https://36kr.com/newsflashes/3851373053056005?f=rss)
@@ -29,6 +31,7 @@
   - [具身智能行业5月融资额环比降近六成](https://36kr.com/newsflashes/3850887488443392?f=rss)
   - [南极半岛出现超过正常水平20多摄氏度异常高温](https://36kr.com/newsflashes/3851188765381635?f=rss)
   - [印度政府出台汽柴油限购措施](https://36kr.com/newsflashes/3851102420325382?f=rss)
+  - [吉利控股董事长李书福：集中资源做强吉利汽车上市公司](https://36kr.com/newsflashes/3851548249412869?f=rss)
   - [国家网信办就《金融信息服务数据分类分级指南》答记者问](https://36kr.com/newsflashes/3851332613870856?f=rss)
   - [埃克森美孚据悉考虑潜在收购目标，包括澳洲最大LNG出口商伍德赛德能源](https://36kr.com/newsflashes/3850895324321025?f=rss)
   - [央行发布5月金融数据：债券融资占比提升，贷款投向结构优化](https://36kr.com/newsflashes/3850894678136070?f=rss)
@@ -59,6 +62,7 @@
   - [迭代快韧性足，A股出口企业估值静待重构](https://36kr.com/newsflashes/3851094130676997?f=rss)
   - [逾200家机构调研两公司，电子元件行业最受青睐](https://36kr.com/newsflashes/3851101538718722?f=rss)
   - [长安“天枢领航”亮相重庆车展，长安启源Q06将全系搭载](https://36kr.com/newsflashes/3851261695022083?f=rss)
+  - [雷军：小米汽车高度重视测试工作，目前整个测试团队有800多人](https://36kr.com/newsflashes/3851530936521728?f=rss)
   - [首尔禁止中小学生戴AI眼镜参加期末考试](https://36kr.com/newsflashes/3851265277220103?f=rss)
   - [魔法原子上交会首秀VLA K02大模型](https://36kr.com/newsflashes/3850998799373319?f=rss)
 - 404 Media
@@ -66,8 +70,11 @@
 - Ars Technica
   - [$130 billion in data center projects blocked by protests so far this year](https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/)
   - [PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data](https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/)
+  - [Threads of underground fungal networks are long enough to reach beyond the Solar System](https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/)
 - Articles | InfoStealers
   - [The Pulling of Mythos Offline: Why AI KYC Will Fail to Stop Cybercriminals](https://www.infostealers.com/article/the-pulling-of-mythos-offline-why-ai-kyc-will-fail-to-stop-cybercriminals/)
+- construction-physics.com
+  - [Reading List 06/13/2026](https://www.construction-physics.com/p/reading-list-06132026)
 - Cybersecurity News
   - [Apple Container 1.0: Native Linux VMs on Apple Silicon](https://securityonline.info/apple-container-1-0-apple-silicon-linux-vms/)
   - [Conti Ransomware Guilty Plea Marks Major Victory Against Cybercrime](https://securityonline.info/conti-ransomware-guilty-plea/)
@@ -84,6 +91,8 @@
   - [ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed](https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed)
 - defend.network
   - [Arch Linux supply-chain worm, Velvet Ant backdoor, Gemini phishing-as-a-service](https://defend.network/briefings/arch-linux-supply-chain-velvet-ant-linux-backdoor-2026-06-13.html)
+- Emergent Minds | paddo.dev
+  - [The Trophy and the Territory](https://paddo.dev/blog/the-trophy-and-the-territory/)
 - Fidelis Security
   - [How Cloud Workload Protection Tools Help Reduce False Positive Alerts](https://fidelissecurity.com/threatgeek/cloud-security/cloud-workload-protection-tools-reduce-false-positives-threat-alerts/)
 - filfre.net
@@ -105,17 +114,22 @@
   - [Award-Winning Researcher Trains Robots to Make Educated Guesses](https://spectrum.ieee.org/researcher-trains-robots-to-guess)
 - pluralistic.net
   - [Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)](https://pluralistic.net/2026/06/12/compelled-speech/)
+- Recent Commits to cve:main
+  - [Update Sat Jun 13 11:51:07 UTC 2026](https://github.com/trickest/cve/commit/97d9f8a5f1f63f76a7f8fd945780041bb57bd99d)
 - simonwillison.net
   - [Quoting Andrew Singleton](https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [aetherion exploit](https://sploitus.com/exploit?id=428AF504-46AA-5342-B996-9B28AD7932B2&utm_source=rss&utm_medium=rss)
   - [AutoVAPT exploit](https://sploitus.com/exploit?id=29FDB8F1-C4A9-50FC-8CC7-D022D15622DD&utm_source=rss&utm_medium=rss)
   - [ember exploit](https://sploitus.com/exploit?id=C9229595-56AA-537C-BB8E-E4AA8A4F81D5&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Exiftool_Project Exiftool exploit](https://sploitus.com/exploit?id=A0F6718E-3F97-524C-8420-8BD056FE6751&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-Site Request Forgery (CSRF) in Jupyter Jupyterhub exploit](https://sploitus.com/exploit?id=6DC85E25-562C-5013-9637-8ECC82BB80F9&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-11450 exploit](https://sploitus.com/exploit?id=F82812B2-209D-560F-A047-2C5FA823E1FD&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-22356 exploit](https://sploitus.com/exploit?id=2B7EC0E8-7984-5387-91E5-615EAC92E0E1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-41490 exploit](https://sploitus.com/exploit?id=CDA85394-5DE8-526C-A69E-987959729784&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-48017 exploit](https://sploitus.com/exploit?id=71DCF1B4-43FB-5CFC-AE79-56678B58E162&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-6279 exploit](https://sploitus.com/exploit?id=A1D50DD6-435E-5B9D-933B-23BDA38B2B7B&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-6279 exploit](https://sploitus.com/exploit?id=B20223AD-B178-5271-9BDA-0376DF827CFA&utm_source=rss&utm_medium=rss)
   - [Exploit for Uncontrolled Resource Consumption in Solarwinds Serv-U exploit](https://sploitus.com/exploit?id=3F8B37D2-6288-5724-B73B-D65A8373E501&utm_source=rss&utm_medium=rss)
   - [Exploit_sin_monitos_v3_4_3 exploit](https://sploitus.com/exploit?id=C08353CA-BBF3-5CE3-B4FA-72F011A3029A&utm_source=rss&utm_medium=rss)
   - [exploitGuard exploit](https://sploitus.com/exploit?id=569A5075-CF13-53DE-B391-9B69B29E3031&utm_source=rss&utm_medium=rss)
@@ -144,7 +158,10 @@
   - [Over half of Americans fear losing both their jobs and their independent thinking to AI, survey finds](https://the-decoder.com/over-half-of-americans-fear-losing-both-their-jobs-and-their-independent-thinking-to-ai-survey-finds/)
   - [US government forces Anthropic to disable Claude Fable 5 and Mythos 5 for all customers worldwide](https://the-decoder.com/us-government-forces-anthropic-to-disable-claude-fable-5-and-mythos-5-for-all-customers-worldwide/)
 - The Verge
+  - [A better way to manage all your screenshots](https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer)
   - [A trillion dollars is a stupid amount of money](https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization)
+  - [Apple’s new AI photo editing tools mostly work, for better and worse](https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on)
+  - [Echo Isle is a pint-sized adventure inspired by classic Zelda](https://www.theverge.com/games/947136/echo-isle-review-pc)
   - [Elon Musk is the world&#8217;s first trillionaire](https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo)
   - [Siri is good now??](https://www.theverge.com/podcast/949079/siri-ai-good-vergecast)
   - [The future of Hollywood isn’t feeding prompts into vanilla gen AI models](https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai)
@@ -612,6 +629,8 @@
   - [CVE-2026-54398](https://vulners.com/nvd/NVD:CVE-2026-54398?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54398 MISP object edit authorization bypass allows unauthorized sharing group assignment](https://vulners.com/cve/CVE-2026-54398?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54398 MISP object edit authorization bypass allows unauthorized sharing group assignment](https://vulners.com/cvelist/CVELIST:CVE-2026-54398?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5513 Online Scheduling and Appointment Booking System – Bookly <= 27.2 - Unauthenticated Stored Cross-Site Scripting via 'bookly-customer-full-name' Cookie](https://vulners.com/cve/CVE-2026-5513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5513 Online Scheduling and Appointment Booking System – Bookly <= 27.2 - Unauthenticated Stored Cross-Site Scripting via 'bookly-customer-full-name' Cookie](https://vulners.com/cvelist/CVELIST:CVE-2026-5513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5792](https://vulners.com/nvd/NVD:CVE-2026-5792?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6046](https://vulners.com/nvd/NVD:CVE-2026-6046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6676](https://vulners.com/nvd/NVD:CVE-2026-6676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -634,11 +653,15 @@
   - [CVE-2026-9848 WP Ticket <= 6.0.4 - Unauthenticated SQL Injection via WordPress Search 's' Parameter](https://vulners.com/cve/CVE-2026-9848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9848 WP Ticket <= 6.0.4 - Unauthenticated SQL Injection via WordPress Search 's' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-9848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ember](https://vulners.com/githubexploit/C9229595-56AA-537C-BB8E-E4AA8A4F81D5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Code Injection in Exiftool_Project Exiftool](https://vulners.com/githubexploit/A0F6718E-3F97-524C-8420-8BD056FE6751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Cross-Site Request Forgery (CSRF) in Jupyter Jupyterhub](https://vulners.com/githubexploit/6DC85E25-562C-5013-9637-8ECC82BB80F9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-11450](https://vulners.com/githubexploit/F82812B2-209D-560F-A047-2C5FA823E1FD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-22356](https://vulners.com/githubexploit/2B7EC0E8-7984-5387-91E5-615EAC92E0E1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-41490](https://vulners.com/githubexploit/CDA85394-5DE8-526C-A69E-987959729784?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-48017](https://vulners.com/githubexploit/71DCF1B4-43FB-5CFC-AE79-56678B58E162?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-48907](https://vulners.com/githubexploit/9362E5FB-8A5E-5D90-AEE0-44FA2E7F560E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-6279](https://vulners.com/githubexploit/A1D50DD6-435E-5B9D-933B-23BDA38B2B7B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-6279](https://vulners.com/githubexploit/B20223AD-B178-5271-9BDA-0376DF827CFA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit_sin_monitos_v3_4_3](https://vulners.com/githubexploit/C08353CA-BBF3-5CE3-B4FA-72F011A3029A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [exploitGuard](https://vulners.com/githubexploit/569A5075-CF13-53DE-B391-9B69B29E3031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [File Browser: Improper Access Control Occurs via Pre-Created Public Share for a Non-existent Path](https://vulners.com/github/GHSA-3Q2P-72CJ-682C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -696,11 +719,13 @@
   - [Elon Musk Is the World's First Trillionaire](https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/)
   - [Here’s How AI Agents Can Protect EV Chargers](https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/)
   - [How Can Soccer Players Bend Their Shots in Midair?](https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair/)
+  - [Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)](https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/)
   - [Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon](https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/)
   - [Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails](https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/)
   - [The FCC Wants to Kill Burner Phones](https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/)
   - [‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess](https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/)
 - 不安全
+  - [Chrome 151 彻底终结旧版扩展：uBlock Origin 时代落幕](https://buaq.net/go-422868.html)
   - [OpenAI公司遭美国多州检察长联合调查](https://buaq.net/go-422810.html)
   - [SpaceX公司对外出租AI算力的内幕曝光](https://buaq.net/go-422843.html)
   - [U.S. CISA adds Oracle PeopleSoft Enterprise PeopleTools flaw to its Known Exploited Vulnerabilities catalog](https://buaq.net/go-422864.html)
