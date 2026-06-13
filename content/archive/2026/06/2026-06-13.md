@@ -14,6 +14,7 @@
 - daringfireball.net
   - [The European Commission Response to Siri AI and the DMA](https://www.linkedin.com/posts/thomas-regnier-24a05810b_what-is-the-true-story-behind-apples-decision-activity-7470439874664280064-TuEt)
   - [The WWDC 2026 Keynote and State of the Union on YouTube](https://www.youtube.com/watch?v=hF8swzNR1-o)
+  - [★ The Talk Show: Live From WWDC 2026](https://daringfireball.net/2026/06/the_talk_show_live_from_wwdc_2026)
 - darkreading
   - [ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed](https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed)
 - Fidelis Security
@@ -22,6 +23,7 @@
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/)
 - Hacker News Frontpage
   - [Cosmodial Sky Atlas](https://killedbyapixel.github.io/Cosmodial/)
+  - [I Think They [Anthropic] Are Lying to You [video]](https://www.youtube.com/watch?v=zfYsSFY4l18)
   - [I Won't Buy You a Coffee](https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/)
   - [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
   - [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
@@ -166,17 +168,21 @@
   - [Budibase: Unanchored Regex in `matchers.ts` Allows CSRF Bypass via Query String Injection in Budibase Worker](https://vulners.com/github/GHSA-WXQ7-X3QP-VCR8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Budibase: Unvalidated VectorDB Host Parameter Enables SSRF](https://vulners.com/github/GHSA-CV96-5348-P5P8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://vulners.com/thn/THN:8A77AE01FE4F3132EEE7710ECBA05C6E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-14098](https://vulners.com/nvd/NVD:CVE-2025-14098?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-52465](https://vulners.com/cve/CVE-2025-52465?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-58175](https://vulners.com/cve/CVE-2025-58175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-7010](https://vulners.com/nvd/NVD:CVE-2025-7010?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-7011](https://vulners.com/nvd/NVD:CVE-2025-7011?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-7019](https://vulners.com/nvd/NVD:CVE-2025-7019?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-9032](https://vulners.com/nvd/NVD:CVE-2025-9032?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-9033](https://vulners.com/nvd/NVD:CVE-2025-9033?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10715](https://vulners.com/nvd/NVD:CVE-2026-10715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10715 Camaleon CMS 2.9.2 - Improper authorization in draft autosave endpoint](https://vulners.com/cve/CVE-2026-10715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10715 Camaleon CMS 2.9.2 - Improper authorization in draft autosave endpoint](https://vulners.com/cvelist/CVELIST:CVE-2026-10715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12043](https://vulners.com/nvd/NVD:CVE-2026-12043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12043 Heap double-free in AWS Common Runtime aws-c-http](https://vulners.com/cve/CVE-2026-12043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12043 Heap double-free in AWS Common Runtime aws-c-http](https://vulners.com/cvelist/CVELIST:CVE-2026-12043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12068](https://vulners.com/nvd/NVD:CVE-2026-12068?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12068 Avira Password Manager credential disclosure via cross-origin autofill in Firefox](https://vulners.com/cve/CVE-2026-12068?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12068 Avira Password Manager credential disclosure via cross-origin autofill in Firefox](https://vulners.com/cvelist/CVELIST:CVE-2026-12068?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12129](https://vulners.com/nvd/NVD:CVE-2026-12129?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -431,6 +437,7 @@
   - [CVE-2026-54398 MISP object edit authorization bypass allows unauthorized sharing group assignment](https://vulners.com/cvelist/CVELIST:CVE-2026-54398?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5792](https://vulners.com/nvd/NVD:CVE-2026-5792?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6046](https://vulners.com/nvd/NVD:CVE-2026-6046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6676](https://vulners.com/nvd/NVD:CVE-2026-6676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6689](https://vulners.com/nvd/NVD:CVE-2026-6689?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6739](https://vulners.com/nvd/NVD:CVE-2026-6739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6961](https://vulners.com/nvd/NVD:CVE-2026-6961?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -447,6 +454,7 @@
   - [GeoServer has a Server-Side Request Forgery (SSRF) Vulnerability in its XML Entity Resolution](https://vulners.com/github/GHSA-X4R9-GMW3-HXWW?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GeoServer has an arbitrary file write vulnerability in its Master Password Dump Page](https://vulners.com/github/GHSA-7QMG-GRCP-QF25?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [katex-xss-test](https://vulners.com/githubexploit/24C26077-B16A-5313-96B8-E08C7903EAD5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kiro-cybersecurity-skills](https://vulners.com/githubexploit/FE5E2AC9-8661-50CF-9897-C92032574F1D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://vulners.com/thn/THN:96229A308F6E8434EB574698CBB95EB6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: The Silicon Valley Bubble (Part 1)](https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/)
@@ -454,6 +462,7 @@
   - [China Didn't Make People Hate Data Centers](https://www.wired.com/story/china-us-data-center-opposition/)
   - [Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards](https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/)
   - [Elon Musk Is the World's First Trillionaire](https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/)
+  - [Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon](https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/)
   - [‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess](https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -461,3 +470,5 @@
   - [AI 智能体试图扫描 DN42 时把主人搞破产](https://www.solidot.org/story?sid=84565)
 - 爱范儿
   - [我们拉上 vivo，聊聊 AI 时代的折叠屏](https://www.ifanr.com/1668866?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [法国AI公司Mistral AI洽谈融资30亿欧元](https://blog.upx8.com/%E6%B3%95%E5%9B%BDAI%E5%85%AC%E5%8F%B8Mistral-AI%E6%B4%BD%E8%B0%88%E8%9E%8D%E8%B5%8430%E4%BA%BF%E6%AC%A7%E5%85%83)
