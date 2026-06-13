@@ -19,7 +19,10 @@
   - [This thin under-pillow speaker helped me fall asleep without earbuds](https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/)
 - The Decoder
   - [New AI model called "Count Anything" does exactly what it says, and that's harder than it sounds](https://the-decoder.com/new-ai-model-called-count-anything-does-exactly-what-it-says-and-thats-harder-than-it-sounds/)
+- The Verge
+  - [Sealed Super Mario Bros. sells for a record $3 million](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction)
 - Vulners.com RSS Feed
+  - [CVE-2026-12183](https://vulners.com/nvd/NVD:CVE-2026-12183?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6428](https://vulners.com/nvd/NVD:CVE-2026-6428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42647](https://vulners.com/githubexploit/FD4AA5D0-761A-574B-BE76-55A50B193227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit-Development-master](https://vulners.com/githubexploit/FB29A6F9-8FD2-5475-894F-D5F10F83FA22?utm_source=rss&utm_medium=rss&utm_campaign=rss)
