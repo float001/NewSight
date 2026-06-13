@@ -19,6 +19,7 @@
   - [H&M重组全球架构，大中华区降级](https://36kr.com/newsflashes/3851272011813896?f=rss)
   - [HDC 2026：鲸鸿动能2025年广告主数增长200%，助力开发者与合作伙伴可持续增长](https://36kr.com/newsflashes/3851524018001154?f=rss)
   - [SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖](https://36kr.com/p/3850902095336449?f=rss)
+  - [SpaceX业务呈现“一极盈利、两极亏损”格局](https://36kr.com/newsflashes/3851534097896712?f=rss)
   - [“宁王系”，排队 IPO](https://36kr.com/p/3851106394117383?f=rss)
   - [“木头姐”买入逾4亿美元SpaceX股票](https://36kr.com/newsflashes/3851373053056005?f=rss)
   - [《金融信息服务数据分类分级指南》印发](https://36kr.com/newsflashes/3851331950728194?f=rss)
@@ -65,6 +66,8 @@
   - [雷军：小米汽车高度重视测试工作，目前整个测试团队有800多人](https://36kr.com/newsflashes/3851530936521728?f=rss)
   - [首尔禁止中小学生戴AI眼镜参加期末考试](https://36kr.com/newsflashes/3851265277220103?f=rss)
   - [魔法原子上交会首秀VLA K02大模型](https://36kr.com/newsflashes/3850998799373319?f=rss)
+  - [鲸鸿动能系统拆解“主动式营销”框架，助广告主实现确定性增长](https://36kr.com/newsflashes/3851524397536515?f=rss)
+  - [鲸鸿动能赋能鸿蒙开发者商业增长，2026年应用媒体收益同比增长37%](https://36kr.com/newsflashes/3851525064217856?f=rss)
 - 404 Media
   - [‘You Will Not Speak on Flock Tonight’: County Commissioner Refuses to Let Residents Opposing Flock Speak at Meeting](https://www.404media.co/you-will-not-speak-on-flock-tonight-county-commissioner-refuses-to-let-residents-opposing-flock-speak-at-meeting/)
 - Ars Technica
@@ -98,6 +101,7 @@
 - filfre.net
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/)
 - Hacker News Frontpage
+  - [An Interview with Intel's Kira Boyko: Xeon 6's Product Director](https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko)
   - [Cosmodial Sky Atlas](https://killedbyapixel.github.io/Cosmodial/)
   - [I Think They [Anthropic] Are Lying to You [video]](https://www.youtube.com/watch?v=zfYsSFY4l18)
   - [I Won't Buy You a Coffee](https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/)
@@ -105,7 +109,9 @@
   - [Open Source AI Must Win](https://opensourceaimustwin.com/?share=v2)
   - [Reddit RSS feeds recent rate limiting and solution](https://lapcatsoftware.com/articles/2026/6/3.html)
   - [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
+  - [Show HN: 2 Weeks of Hallucinate – The Photo Gallery](https://hallucinate.site/gallery)
   - [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow)
+  - [Thoughts on AI and Jobs](https://blog.keyvan.net/p/thoughts-on-ai-and-jobs)
   - [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
   - [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
 - Horizon3.ai
@@ -114,6 +120,8 @@
   - [Award-Winning Researcher Trains Robots to Make Educated Guesses](https://spectrum.ieee.org/researcher-trains-robots-to-guess)
 - pluralistic.net
   - [Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)](https://pluralistic.net/2026/06/12/compelled-speech/)
+- PwnDefend
+  - [The AI Threat: Same Cyber Different Day!](https://www.pwndefend.com/2026/06/13/the-ai-threat-same-cyber-different-day/)
 - Recent Commits to cve:main
   - [Update Sat Jun 13 11:51:07 UTC 2026](https://github.com/trickest/cve/commit/97d9f8a5f1f63f76a7f8fd945780041bb57bd99d)
 - simonwillison.net
@@ -152,7 +160,9 @@
 - The Decoder
   - [Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance](https://the-decoder.com/anthropics-claude-fable-5-costs-twice-as-much-for-5-7-percent-more-performance/)
   - [Claude Fable 5 outpaces GPT-5.5 by 13 points on FrontierMath's toughest problems](https://the-decoder.com/claude-fable-5-outpaces-gpt-5-5-by-13-points-on-frontiermaths-toughest-problems/)
+  - [Google Research's Gemini-SQL2 tops text-to-SQL benchmarks by a wide margin](https://the-decoder.com/google-researchs-gemini-sql2-tops-text-to-sql-benchmarks-by-a-wide-margin/)
   - [Meta shifts from "tokenmaxxing" to token managing as internal AI costs reportedly hit billions](https://the-decoder.com/meta-shifts-from-tokenmaxxing-to-token-managing-as-internal-ai-costs-reportedly-hit-billions/)
+  - [Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file](https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/)
   - [Moonshot's open model Kimi K2.7 Code undercuts GPT-5.5 and Claude by up to 12x on price per token](https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/)
   - [OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent](https://the-decoder.com/openai-kicks-off-the-ai-price-wars-with-flexible-rate-limit-resets-for-its-codex-coding-agent/)
   - [Over half of Americans fear losing both their jobs and their independent thinking to AI, survey finds](https://the-decoder.com/over-half-of-americans-fear-losing-both-their-jobs-and-their-independent-thinking-to-ai-survey-finds/)
@@ -175,10 +185,13 @@
   - [CVE-2025-9033 | Gen Digital Avira Antivirus 8.3.70.64 on Windows PDF File out-of-bounds](https://vuldb.com/vuln/370798)
   - [CVE-2026-10715 | Camaleon CMS 2.9.2 Administrator Draft Autosave Endpoint /admin/post_type authorization](https://vuldb.com/vuln/370715)
   - [CVE-2026-11443 | Allegra 8.1.6.22 downloadAttachment cross site scripting (ZDI-26-358)](https://vuldb.com/vuln/370795)
+  - [CVE-2026-11624 | Google MCP Toolbox for Databases up to 0.24.x origin validation (Issue 3113)](https://vuldb.com/vuln/370823)
   - [CVE-2026-12043 | Amazon AWS aws-c-http up to 0.10.15 double free (GHSA-rmjr-3qpm-vh98)](https://vuldb.com/vuln/370676)
   - [CVE-2026-12143 | form-data up to 2.5.5/3.0.4/4.0.5 crlf injection (GHSA-hmw2-7cc7-3qxx)](https://vuldb.com/vuln/370702)
+  - [CVE-2026-1291 | tigroumeow Meow Gallery Plugin up to 5.4.4 on WordPress REST API Endpoint authorization](https://vuldb.com/vuln/370820)
   - [CVE-2026-28742 | Naxclow Smart Doorbell X3/X Smart Home/V720/ix cam Firmware Image hard-coded key (icsa-26-162-02)](https://vuldb.com/vuln/370711)
   - [CVE-2026-28975 | Apple swift-nio-extras prior 1.34.1 NIOHTTPRequestDecompressor data amplification](https://vuldb.com/vuln/370671)
+  - [CVE-2026-3297 | Softaculous Page Builder Plugin up to 2.0.9 on WordPress cross site scripting](https://vuldb.com/vuln/370824)
   - [CVE-2026-3433 | Mattermost up to 11.6.x Websocket Connection information disclosure](https://vuldb.com/vuln/370645)
   - [CVE-2026-3840 | kedro-org kedro up to up to 1.2.0 kedro/io/core.py _get_versioned_path --load-versions path traversal](https://vuldb.com/vuln/370646)
   - [CVE-2026-40677 | AMD Management Console/Ryzen Master/µProf up to 13.x cleartext transmission](https://vuldb.com/vuln/370665)
@@ -289,6 +302,7 @@
   - [CVE-2026-54361 | MISP up to 2.5.39 edit authorization](https://vuldb.com/vuln/370694)
   - [CVE-2026-54393 | MISP up to 2.5.39 setHomePage Endpoint app/View/News/index.ctp setSettingInternal cross site scripting](https://vuldb.com/vuln/370814)
   - [CVE-2026-54395 | MISP up to 2.5.39 JavaScript json_encode cross site scripting](https://vuldb.com/vuln/370808)
+  - [CVE-2026-5513 | ladela Online Scheduling and Appointment Booking System Plugin setting cross site scripting](https://vuldb.com/vuln/370827)
   - [CVE-2026-5792 | Hedef Related Marketing Cloud authentication spoofing (ID 12052026)](https://vuldb.com/vuln/370651)
   - [CVE-2026-6046 | Mattermost up to 11.6.x Direct Message information disclosure](https://vuldb.com/vuln/370659)
   - [CVE-2026-6676 | Gen Digital Avira Antivirus prior 8.3.27.12 on Windows TAR Archive out-of-bounds write](https://vuldb.com/vuln/370799)
@@ -298,6 +312,11 @@
   - [CVE-2026-7184 | Mattermost up to 11.6.x Remote Cluster API insertion of sensitive information into sent data](https://vuldb.com/vuln/370649)
   - [CVE-2026-7387 | Mattermost up to 11.6.x Crafted API authorization](https://vuldb.com/vuln/370655)
   - [CVE-2026-8828 | Chroma ChromaDB 1.0.0 authorization](https://vuldb.com/vuln/370657)
+  - [CVE-2026-9061 | Store Locator Plugin up to 1.6.8 on WordPress cross site scripting](https://vuldb.com/vuln/370826)
+  - [CVE-2026-9062 | Store Locator WordPress Plugin up to 1.6.8 on WordPress information disclosure](https://vuldb.com/vuln/370819)
+  - [CVE-2026-9109 | john-dagelmore GPTranslate Plugin up to 2.31 on WordPress Deterministically Derived API Key request gptApiKey cross site scripting](https://vuldb.com/vuln/370821)
+  - [CVE-2026-9134 | fooplugins Photo Gallery by FooGallery Plugin up to 3.1.31 on WordPress Shortcode foogallery_sanitize_javascript cross site scripting](https://vuldb.com/vuln/370822)
+  - [CVE-2026-9629 | codesupplyco Canvas Plugin up to 2.5.2 on WordPress day cross site scripting](https://vuldb.com/vuln/370825)
   - [CVE-2026-9638 | ARODLAND Crypt::PBKDF2 up to 0.261629 on Perl rand weak prng](https://vuldb.com/vuln/370667)
   - [CVE-2026-9641 | ARODLAND Crypt::PBKDF2 up to 0.261629 on Perl weak password hash](https://vuldb.com/vuln/370668)
 - Vulners.com RSS Feed
@@ -629,6 +648,7 @@
   - [CVE-2026-54398](https://vulners.com/nvd/NVD:CVE-2026-54398?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54398 MISP object edit authorization bypass allows unauthorized sharing group assignment](https://vulners.com/cve/CVE-2026-54398?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54398 MISP object edit authorization bypass allows unauthorized sharing group assignment](https://vulners.com/cvelist/CVELIST:CVE-2026-54398?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5513](https://vulners.com/nvd/NVD:CVE-2026-5513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5513 Online Scheduling and Appointment Booking System – Bookly <= 27.2 - Unauthenticated Stored Cross-Site Scripting via 'bookly-customer-full-name' Cookie](https://vulners.com/cve/CVE-2026-5513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5513 Online Scheduling and Appointment Booking System – Bookly <= 27.2 - Unauthenticated Stored Cross-Site Scripting via 'bookly-customer-full-name' Cookie](https://vulners.com/cvelist/CVELIST:CVE-2026-5513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5792](https://vulners.com/nvd/NVD:CVE-2026-5792?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -706,6 +726,7 @@
   - [Vim: Out-of-bounds Read in Terminal Screen Snapshot](https://vulners.com/mscve/MS:CVE-2026-52859?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Vim: Vimscript Code Injection in cucumber filetype plugin via crafted step-definition regex](https://vulners.com/mscve/MS:CVE-2026-47167?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Vim: Vimscript Code Injection in netrw NetrwBookHistSave() via crafted directory name](https://vulners.com/mscve/MS:CVE-2026-47162?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Web-kit-exploit-test](https://vulners.com/githubexploit/DE042206-2F9D-5911-A266-79D3C324E08D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-vuln-scanner](https://vulners.com/githubexploit/83B29156-2E5B-5DE8-A514-617EF308D8E8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-vulnerability-scanner](https://vulners.com/githubexploit/08DA759F-8360-516C-8014-413DE29094D7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
