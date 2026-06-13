@@ -10,14 +10,21 @@
   - [U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National Security Grounds](https://www.anthropic.com/news/fable-mythos-access)
 - Hacker News Frontpage
   - [AI Coding at Home Without Going Broke](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
+- Hacking Articles
+  - [Automating Penetration Testing with Claude AI](https://www.hackingarticles.in/automating-penetration-testing-with-claude-ai/)
+- johndcook.com
+  - [RSA munitions T-shirt](https://www.johndcook.com/blog/2026/06/13/rsa-munitions-t-shirt/)
 - Kali Linux Tutorials
   - [Why Deploying AI Is Just the Beginning: The Case for Ongoing AI Operations Monitoring](https://kalilinuxtutorials.com/why-deploying-ai-is-just-the-beginning-the-case-for-ongoing-ai-operations-monitoring/)
 - pluralistic.net
   - [Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)](https://pluralistic.net/2026/06/13/minority-shareholder-report/)
+- PwnDefend
+  - [Cyber Myth: Attackers only have to be right once, Defenders have to be right all the time!](https://www.pwndefend.com/2026/06/13/cyber-myth-attackers-only-have-to-be-right-once-defenders-have-to-be-right-all-the-time/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-42647 exploit](https://sploitus.com/exploit?id=FD4AA5D0-761A-574B-BE76-55A50B193227&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/)
+  - [KPMG pulls report on AI usage due to apparent hallucinations](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
   - [OpenAI faces investigation from state attorneys general](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/)
   - [This thin under-pillow speaker helped me fall asleep without earbuds](https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/)
 - The Decoder
@@ -25,6 +32,8 @@
 - The Verge
   - [Sealed Super Mario Bros. sells for a record $3 million](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction)
 - Vulners.com RSS Feed
+  - [CVE-2026-12174 D-Link DCS-935L HTTP rhea snprintf format string](https://vulners.com/cve/CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12174 D-Link DCS-935L HTTP rhea snprintf format string](https://vulners.com/cvelist/CVELIST:CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12183](https://vulners.com/nvd/NVD:CVE-2026-12183?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49854 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-49854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49854 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-49854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
