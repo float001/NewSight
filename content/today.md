@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-06-13）
 
 - 2Libra
+  - [fable 5 不让用了](https://2libra.com/post/software-tools/lcUHPn6)
   - [【潘多拉】今天这个挺不错](https://2libra.com/post/sharing-discoveries/F7hNJS6)
   - [【💰】小小金币雨，留下你的周末安排和祝福，祝大家周末愉快~](https://2libra.com/post/forum-function/IA4fuxN)
   - [本夏收割季，来了，59/月起，欢迎受刀](https://2libra.com/post/promotion/BlUCEnx)
@@ -14,10 +15,12 @@
   - [SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖](https://36kr.com/p/3850902095336449?f=rss)
   - [“宁王系”，排队 IPO](https://36kr.com/p/3851106394117383?f=rss)
   - [一季度全球前十大晶圆代工商营收季增3.7%](https://36kr.com/newsflashes/3850890624849156?f=rss)
+  - [上海独角兽冲刺“脑机接口第一股”](https://36kr.com/newsflashes/3851197687501830?f=rss)
   - [专家：日本央行或上调利率以抑制通胀](https://36kr.com/newsflashes/3850991171933192?f=rss)
   - [中基协发布公募基金主题投资风格管理指引，严重偏离投资方向将被纳入负面考核指标](https://36kr.com/newsflashes/3850990241043462?f=rss)
   - [今年前五个月全国铁路发送旅客19.69亿人次 创历史新高](https://36kr.com/newsflashes/3851003216418055?f=rss)
   - [具身智能行业5月融资额环比降近六成](https://36kr.com/newsflashes/3850887488443392?f=rss)
+  - [南极半岛出现超过正常水平20多摄氏度异常高温](https://36kr.com/newsflashes/3851188765381635?f=rss)
   - [印度政府出台汽柴油限购措施](https://36kr.com/newsflashes/3851102420325382?f=rss)
   - [埃克森美孚据悉考虑潜在收购目标，包括澳洲最大LNG出口商伍德赛德能源](https://36kr.com/newsflashes/3850895324321025?f=rss)
   - [央行发布5月金融数据：债券融资占比提升，贷款投向结构优化](https://36kr.com/newsflashes/3850894678136070?f=rss)
@@ -34,6 +37,7 @@
   - [美司法部批准派拉蒙收购华纳兄弟探索，称该交易不会损害竞争](https://36kr.com/newsflashes/3850888205800712?f=rss)
   - [美国消费者信心指数略有改善，通胀预期仍处高位](https://36kr.com/newsflashes/3850989311055106?f=rss)
   - [美多州总检察长联合调查OpenAI](https://36kr.com/newsflashes/3850885678306561?f=rss)
+  - [美法院驳回上诉，维持肯尼迪中心移除特朗普名字裁决](https://36kr.com/newsflashes/3851188166137096?f=rss)
   - [美瑞新材：目前PPDA产品已成功产出合格产品，正处于下游客户开发及产品验证阶段](https://36kr.com/newsflashes/3851000746087432?f=rss)
   - [美股三大指数收盘集体上涨，SpaceX上市首日涨超19%](https://36kr.com/newsflashes/3850879366943750?f=rss)
   - [蓝思科技：收购同昇光电，加速布局光通信](https://36kr.com/newsflashes/3851096396322055?f=rss)
@@ -60,6 +64,8 @@
   - [★ The Talk Show: Live From WWDC 2026](https://daringfireball.net/2026/06/the_talk_show_live_from_wwdc_2026)
 - darkreading
   - [ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed](https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed)
+- defend.network
+  - [Arch Linux supply-chain worm, Velvet Ant backdoor, Gemini phishing-as-a-service](https://defend.network/briefings/arch-linux-supply-chain-velvet-ant-linux-backdoor-2026-06-13.html)
 - Fidelis Security
   - [How Cloud Workload Protection Tools Help Reduce False Positive Alerts](https://fidelissecurity.com/threatgeek/cloud-security/cloud-workload-protection-tools-reduce-false-positives-threat-alerts/)
 - filfre.net
@@ -271,6 +277,7 @@
   - [CVE-2026-10715 Camaleon CMS 2.9.2 - Improper authorization in draft autosave endpoint](https://vulners.com/cvelist/CVELIST:CVE-2026-10715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11442](https://vulners.com/nvd/NVD:CVE-2026-11442?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11443](https://vulners.com/nvd/NVD:CVE-2026-11443?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11769](https://vulners.com/nvd/NVD:CVE-2026-11769?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12043](https://vulners.com/nvd/NVD:CVE-2026-12043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12043 Heap double-free in AWS Common Runtime aws-c-http](https://vulners.com/cve/CVE-2026-12043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12043 Heap double-free in AWS Common Runtime aws-c-http](https://vulners.com/cvelist/CVELIST:CVE-2026-12043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -569,6 +576,7 @@
   - [CVE-2026-7387](https://vulners.com/nvd/NVD:CVE-2026-7387?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8828](https://vulners.com/circl/CIRCL:CVE-2026-8828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8828](https://vulners.com/nvd/NVD:CVE-2026-8828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9134 Photo Gallery by FooGallery : Responsive Image Gallery, Masonry Gallery & Carousel <= 3.1.31 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'custom_attribute_key' Shortcode Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-9134?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9638](https://vulners.com/nvd/NVD:CVE-2026-9638?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9641](https://vulners.com/nvd/NVD:CVE-2026-9641?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9848](https://vulners.com/nvd/NVD:CVE-2026-9848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -609,6 +617,7 @@
   - [China Didn't Make People Hate Data Centers](https://www.wired.com/story/china-us-data-center-opposition/)
   - [Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards](https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/)
   - [Elon Musk Is the World's First Trillionaire](https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/)
+  - [Here’s How AI Agents Can Protect EV Chargers](https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/)
   - [Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon](https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/)
   - [‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess](https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/)
 - 不安全
@@ -626,4 +635,6 @@
 - 黑海洋
   - [OpenAI公司遭美国多州检察长联合调查](https://blog.upx8.com/OpenAI%E5%85%AC%E5%8F%B8%E9%81%AD%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%B7%9E%E6%A3%80%E5%AF%9F%E9%95%BF%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5)
   - [SpaceX公司对外出租AI算力的内幕曝光](https://blog.upx8.com/SpaceX%E5%85%AC%E5%8F%B8%E5%AF%B9%E5%A4%96%E5%87%BA%E7%A7%9FAI%E7%AE%97%E5%8A%9B%E7%9A%84%E5%86%85%E5%B9%95%E6%9B%9D%E5%85%89)
+  - [大师兄影视 去广告版](https://blog.upx8.com/8807)
   - [法国AI公司Mistral AI洽谈融资30亿欧元](https://blog.upx8.com/%E6%B3%95%E5%9B%BDAI%E5%85%AC%E5%8F%B8Mistral-AI%E6%B4%BD%E8%B0%88%E8%9E%8D%E8%B5%8430%E4%BA%BF%E6%AC%A7%E5%85%83)
+  - [🖼 美国战争部公布第三批UAP解密文件，揭示FBI对球状飞行物调查](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%88%98%E4%BA%89%E9%83%A8%E5%85%AC%E5%B8%83%E7%AC%AC%E4%B8%89%E6%89%B9UAP%E8%A7%A3%E5%AF%86%E6%96%87%E4%BB%B6-%E6%8F%AD%E7%A4%BAFBI%E5%AF%B9%E7%90%83%E7%8A%B6%E9%A3%9E%E8%A1%8C%E7%89%A9%E8%B0%83%E6%9F%A5)
