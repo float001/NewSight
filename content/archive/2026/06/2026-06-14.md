@@ -57,6 +57,8 @@
   - [Splunk RCE, Arch Linux supply-chain hijack, Velvet Ant decade-long backdoor](https://defend.network/briefings/splunk-rce-arch-linux-supply-chain-velvet-ant-backdoor-2026-06-14.html)
 - eli.thegreenplace.net
   - [Plugins case study: Pluggy](https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/)
+- Emergent Minds | paddo.dev
+  - [The Call Came From Inside the Cap Table](https://paddo.dev/blog/call-from-inside-the-cap-table/)
 - Hacker News Frontpage
   - [4 things to know about the new sunscreen ingredient the FDA approved](https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol)
   - [AI Coding at Home Without Going Broke](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
@@ -67,6 +69,7 @@
 - johndcook.com
   - [RSA munitions T-shirt](https://www.johndcook.com/blog/2026/06/13/rsa-munitions-t-shirt/)
 - Kali Linux Tutorials
+  - [Install Ruby Ubuntu – 3 Easy Ways to Set Up Ruby on Ubuntu 20.04](https://kalilinuxtutorials.com/install-ruby-ubuntu/)
   - [Plex Media Server Setup: Install and Configure on Ubuntu 20.04](https://kalilinuxtutorials.com/plex-media-server-setup/)
   - [Why Deploying AI Is Just the Beginning: The Case for Ongoing AI Operations Monitoring](https://kalilinuxtutorials.com/why-deploying-ai-is-just-the-beginning-the-case-for-ongoing-ai-operations-monitoring/)
 - pluralistic.net
@@ -75,6 +78,7 @@
   - [Cyber Myth: Attackers only have to be right once, Defenders have to be right all the time!](https://www.pwndefend.com/2026/06/13/cyber-myth-attackers-only-have-to-be-right-once-defenders-have-to-be-right-all-the-time/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-42647 exploit](https://sploitus.com/exploit?id=FD4AA5D0-761A-574B-BE76-55A50B193227&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Encoding or Escaping of Output in Cisco Catalyst_Sd-Wan_Manager exploit](https://sploitus.com/exploit?id=1D21D5F1-F7EE-589C-8C6B-82A7EA43E526&utm_source=rss&utm_medium=rss)
   - [Exploit for Unchecked Input for Loop Condition in Isc Bind exploit](https://sploitus.com/exploit?id=1875515F-1163-510B-A697-82A204A481CB&utm_source=rss&utm_medium=rss)
   - [POC_cve_2026_35273 exploit](https://sploitus.com/exploit?id=6D7408A2-2122-5A74-A614-E322984ACCEE&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -127,6 +131,7 @@
   - [CVE-2026-54421](https://vulners.com/nvd/NVD:CVE-2026-54421?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6428](https://vulners.com/nvd/NVD:CVE-2026-6428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42647](https://vulners.com/githubexploit/FD4AA5D0-761A-574B-BE76-55A50B193227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Encoding or Escaping of Output in Cisco Catalyst_Sd-Wan_Manager](https://vulners.com/githubexploit/1D21D5F1-F7EE-589C-8C6B-82A7EA43E526?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Unchecked Input for Loop Condition in Isc Bind](https://vulners.com/githubexploit/1875515F-1163-510B-A697-82A204A481CB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit-Development-master](https://vulners.com/githubexploit/FB29A6F9-8FD2-5475-894F-D5F10F83FA22?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-248M-82V9-Q6G6 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-248M-82V9-Q6G6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -136,8 +141,10 @@
   - [POC_cve_2026_35273](https://vulners.com/githubexploit/6D7408A2-2122-5A74-A614-E322984ACCEE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [TechMyst-Toolkit](https://vulners.com/githubexploit/37CAB76A-08A4-5711-ABC8-1CC5F6A5DEE5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [19 Best Gifts for Plant Lovers and Gardeners (2026)](https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners-2026/)
   - [7 Best Coffee Makers (2026): Ratio, Fellow, Moccamaster](https://www.wired.com/gallery/best-coffee-makers/)
   - [Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals](https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/)
+  - [Suunto Spark Review: The Perfect Pair for Runs and Rides](https://www.wired.com/review/suunto-spark/)
   - [The Strait of Hormuz Has Been Closed for 100 Days. Why Aren’t Oil Prices Higher?](https://www.wired.com/story/strait-of-hormuz-closed-100-days-why-arent-oil-prices-higher/)
   - [Škoda’s New EV Will Likely Be Its Most Expensive Yet](https://www.wired.com/story/skoda-peaq-will-likely-be-its-most-expensive-ev-yet/)
 - 不安全
