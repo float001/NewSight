@@ -3,6 +3,7 @@
 - Emergent Minds | paddo.dev
   - [One Went Dark, Two Went Open](https://paddo.dev/blog/one-went-dark-two-went-open/)
 - Hacker News Frontpage
+  - [Chaosnet](https://tumbleweed.nu/r/lm-3/uv/amber.html)
   - [Rome Fell and Nobody Noticed](https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed)
   - [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
   - [Swiss voters reject proposal to cap population at ten million](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146)
@@ -14,6 +15,11 @@
   - [China may have accessed Mythos](https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos)
   - [Conclave is the sound of a NYC summer block party](https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review)
   - [How to watch most of the World Cup matches with free trials](https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale)
+- VulDB Recent Entries
+  - [CVE-2026-54410 | debevv nanoMODBUS up to 1.23.0 MBAP recv_msg_header off-by-one (EUVD-2026-36661)](https://vuldb.com/vuln/370868)
+  - [CVE-2026-54411 | Linux-PAM up to 1.7.2 pam_userdb.c strncmp timing discrepancy (EUVD-2026-36662)](https://vuldb.com/vuln/370870)
+  - [CVE-2026-54412 | LiamBindle MQTT-C up to 1.1.6 PUBLISH src/mqtt.c mqtt_unpack_publish_response out-of-bounds (EUVD-2026-36663)](https://vuldb.com/vuln/370867)
+  - [CVE-2026-54413 | driftregion iso14229 up to 0.9.0 iso14229.c Handle_0x27_SecurityAccess integer underflow (EUVD-2026-36664)](https://vuldb.com/vuln/370869)
 - Vulners.com RSS Feed
   - [CVE-2026-54410](https://vulners.com/cve/CVE-2026-54410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54410](https://vulners.com/cvelist/CVELIST:CVE-2026-54410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
