@@ -11,6 +11,7 @@
   - [SQLi.py exploit](https://sploitus.com/exploit?id=2990F170-644E-5448-B98A-B01A1BEFA2F0&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [As AI companies race to go public, who else is along for the ride?](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/)
+  - [UK may ban social media for children under 16](https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/)
 - The Verge
   - [China may have accessed Mythos](https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos)
   - [Conclave is the sound of a NYC summer block party](https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review)
@@ -21,6 +22,9 @@
   - [CVE-2026-54412 | LiamBindle MQTT-C up to 1.1.6 PUBLISH src/mqtt.c mqtt_unpack_publish_response out-of-bounds (EUVD-2026-36663)](https://vuldb.com/vuln/370867)
   - [CVE-2026-54413 | driftregion iso14229 up to 0.9.0 iso14229.c Handle_0x27_SecurityAccess integer underflow (EUVD-2026-36664)](https://vuldb.com/vuln/370869)
 - Vulners.com RSS Feed
+  - [CVE-2026-12186 GL.iNet GL-MT3000 Tor Proxy Service Configuration tor replace_country command injection](https://vulners.com/cve/CVE-2026-12186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12186 GL.iNet GL-MT3000 Tor Proxy Service Configuration tor replace_country command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-12186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47701 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-47701?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54410](https://vulners.com/cve/CVE-2026-54410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54410](https://vulners.com/cvelist/CVELIST:CVE-2026-54410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54410](https://vulners.com/nvd/NVD:CVE-2026-54410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -30,6 +34,7 @@
   - [CVE-2026-54412](https://vulners.com/nvd/NVD:CVE-2026-54412?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54413](https://vulners.com/nvd/NVD:CVE-2026-54413?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/A6ABFB6C-1C6C-5010-B6BD-1110C1242606?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-CXH2-4639-VMC5 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-CXH2-4639-VMC5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [SQLi.py](https://vulners.com/githubexploit/2990F170-644E-5448-B98A-B01A1BEFA2F0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Upcoming Speaking Engagements](https://vulners.com/schneier/SCHNEIER:3CCB3946D6B1A64DB51289883DB8900F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
