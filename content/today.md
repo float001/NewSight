@@ -14,6 +14,7 @@
   - [15条特高压直流通道要来了](https://36kr.com/newsflashes/3852345783129352?f=rss)
   - [2026端午档新片预售总票房破2000万](https://36kr.com/newsflashes/3852505564632073?f=rss)
   - [SK海力士去年新增员工超2000人](https://36kr.com/newsflashes/3852722264101889?f=rss)
+  - [上海机场：5月浦东机场旅客吞吐量700.48万人次](https://36kr.com/newsflashes/3852722731799553?f=rss)
   - [世界杯期间英格兰队装备遭窃，大部分已被追回](https://36kr.com/newsflashes/3852377143579652?f=rss)
   - [中企承建马达加斯加12号国道部分竣工](https://36kr.com/newsflashes/3852554726003713?f=rss)
   - [中企承建马达加斯加12号国道部分竣工](https://36kr.com/newsflashes/3852642326877446?f=rss)
@@ -28,6 +29,7 @@
   - [吉利包揽TCR世界巡回赛巴伦西亚站首回合前两名](https://36kr.com/newsflashes/3852507960857603?f=rss)
   - [增长停滞两年后，H&M重组全球架构，大中华区降级｜独家](https://36kr.com/p/3850942780838912?f=rss)
   - [天陇铁路平洛隧道贯通](https://36kr.com/newsflashes/3852442625004802?f=rss)
+  - [崔东树：5月我国动力和其它电池合计产量为192GWh，同比增长38%](https://36kr.com/newsflashes/3852723150525698?f=rss)
   - [德国数字化部长疑用AI写公文遭质疑](https://36kr.com/newsflashes/3852553873462533?f=rss)
   - [成渝中线与成达万高铁枢纽连接工程取得关键突破](https://36kr.com/newsflashes/3852506110645506?f=rss)
   - [我国首批自研海洋工程柔性智能焊接机器人投用](https://36kr.com/newsflashes/3852643642053897?f=rss)
@@ -81,6 +83,8 @@
   - [OpenAI faces investigation from state attorneys general](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/)
   - [This thin under-pillow speaker helped me fall asleep without earbuds](https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/)
 - The Decoder
+  - [AI coding agents find the right file but miss the exact lines that matter, study shows](https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/)
+  - [Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model](https://the-decoder.com/amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model/)
   - [New AI model called "Count Anything" does exactly what it says, and that's harder than it sounds](https://the-decoder.com/new-ai-model-called-count-anything-does-exactly-what-it-says-and-thats-harder-than-it-sounds/)
 - The Verge
   - [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban)
@@ -99,6 +103,7 @@
   - [CVE-2026-54421 | OpenStack Ironic up to 35.0.1 improper removal of sensitive information before storage or transfer](https://vuldb.com/vuln/370830)
   - [CVE-2026-6428 | Koha up to 26.05.0 Reports reports/catalogue_out.pl strsth2 sql injection](https://vuldb.com/vuln/370829)
 - Vulners.com RSS Feed
+  - [CVE-2025-15546](https://vulners.com/nvd/NVD:CVE-2025-15546?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12174](https://vulners.com/nvd/NVD:CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12174 D-Link DCS-935L HTTP rhea snprintf format string](https://vulners.com/cve/CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12174 D-Link DCS-935L HTTP rhea snprintf format string](https://vulners.com/cvelist/CVELIST:CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -126,6 +131,10 @@
   - [GHSA-CX3H-4QPV-8HC9 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-CX3H-4QPV-8HC9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-CX3H-4QPV-8HC9 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-CX3H-4QPV-8HC9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [POC_cve_2026_35273](https://vulners.com/githubexploit/6D7408A2-2122-5A74-A614-E322984ACCEE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [TechMyst-Toolkit](https://vulners.com/githubexploit/37CAB76A-08A4-5711-ABC8-1CC5F6A5DEE5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [7 Best Coffee Makers (2026): Ratio, Fellow, Moccamaster](https://www.wired.com/gallery/best-coffee-makers/)
+  - [Škoda’s New EV Will Likely Be Its Most Expensive Yet](https://www.wired.com/story/skoda-peaq-will-likely-be-its-most-expensive-ev-yet/)
 - 不安全
   - [Anthropic强大新模型为何突遭出口管制？](https://buaq.net/go-422923.html)
 - 代码审计星球
@@ -133,3 +142,4 @@
 - 黑海洋
   - [Anthropic强大新模型为何突遭出口管制？](https://blog.upx8.com/Anthropic%E5%BC%BA%E5%A4%A7%E6%96%B0%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E7%AA%81%E9%81%AD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
   - [DeepSeek研究员控诉字节半夜施工扰民](https://blog.upx8.com/DeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E6%8E%A7%E8%AF%89%E5%AD%97%E8%8A%82%E5%8D%8A%E5%A4%9C%E6%96%BD%E5%B7%A5%E6%89%B0%E6%B0%91)
+  - [阿里巴巴回应“周靖人离职”：纯属谣言](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9B%9E%E5%BA%94-%E5%91%A8%E9%9D%96%E4%BA%BA%E7%A6%BB%E8%81%8C-%E7%BA%AF%E5%B1%9E%E8%B0%A3%E8%A8%80)
