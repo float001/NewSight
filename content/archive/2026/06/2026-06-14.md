@@ -28,6 +28,7 @@
   - [南航第十一架C919国产大飞机正式入列](https://36kr.com/newsflashes/3852511183951106?f=rss)
   - [吉利包揽TCR世界巡回赛巴伦西亚站首回合前两名](https://36kr.com/newsflashes/3852507960857603?f=rss)
   - [增长停滞两年后，H&M重组全球架构，大中华区降级｜独家](https://36kr.com/p/3850942780838912?f=rss)
+  - [外媒曝蚂蚁集团正秘密测试AI 版支付宝](https://36kr.com/newsflashes/3852835263878148?f=rss)
   - [天陇铁路平洛隧道贯通](https://36kr.com/newsflashes/3852442625004802?f=rss)
   - [崔东树：5月我国动力和其它电池合计产量为192GWh，同比增长38%](https://36kr.com/newsflashes/3852723150525698?f=rss)
   - [德国数字化部长疑用AI写公文遭质疑](https://36kr.com/newsflashes/3852553873462533?f=rss)
@@ -66,6 +67,7 @@
 - johndcook.com
   - [RSA munitions T-shirt](https://www.johndcook.com/blog/2026/06/13/rsa-munitions-t-shirt/)
 - Kali Linux Tutorials
+  - [Plex Media Server Setup: Install and Configure on Ubuntu 20.04](https://kalilinuxtutorials.com/plex-media-server-setup/)
   - [Why Deploying AI Is Just the Beginning: The Case for Ongoing AI Operations Monitoring](https://kalilinuxtutorials.com/why-deploying-ai-is-just-the-beginning-the-case-for-ongoing-ai-operations-monitoring/)
 - pluralistic.net
   - [Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)](https://pluralistic.net/2026/06/13/minority-shareholder-report/)
@@ -85,6 +87,7 @@
 - The Decoder
   - [AI coding agents find the right file but miss the exact lines that matter, study shows](https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/)
   - [Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model](https://the-decoder.com/amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model/)
+  - [KPMG fabricated AI case studies in a report designed to sell clients on AI adoption](https://the-decoder.com/kpmg-fabricated-ai-case-studies-in-a-report-designed-to-sell-clients-on-ai-adoption/)
   - [New AI model called "Count Anything" does exactly what it says, and that's harder than it sounds](https://the-decoder.com/new-ai-model-called-count-anything-does-exactly-what-it-says-and-thats-harder-than-it-sounds/)
 - The Verge
   - [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban)
@@ -134,12 +137,17 @@
   - [TechMyst-Toolkit](https://vulners.com/githubexploit/37CAB76A-08A4-5711-ABC8-1CC5F6A5DEE5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [7 Best Coffee Makers (2026): Ratio, Fellow, Moccamaster](https://www.wired.com/gallery/best-coffee-makers/)
+  - [Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals](https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/)
+  - [The Strait of Hormuz Has Been Closed for 100 Days. Why Aren’t Oil Prices Higher?](https://www.wired.com/story/strait-of-hormuz-closed-100-days-why-arent-oil-prices-higher/)
   - [Škoda’s New EV Will Likely Be Its Most Expensive Yet](https://www.wired.com/story/skoda-peaq-will-likely-be-its-most-expensive-ev-yet/)
 - 不安全
   - [Anthropic强大新模型为何突遭出口管制？](https://buaq.net/go-422923.html)
+  - [Gravity – 以物理为基础的太阳系模拟器｜如果家里有喜欢问“为什么”的孩子，推荐收藏](https://buaq.net/go-422940.html)
+  - [美司法部批准派拉蒙与华纳兄弟探索的交易](https://buaq.net/go-422941.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
   - [Anthropic强大新模型为何突遭出口管制？](https://blog.upx8.com/Anthropic%E5%BC%BA%E5%A4%A7%E6%96%B0%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E7%AA%81%E9%81%AD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
   - [DeepSeek研究员控诉字节半夜施工扰民](https://blog.upx8.com/DeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E6%8E%A7%E8%AF%89%E5%AD%97%E8%8A%82%E5%8D%8A%E5%A4%9C%E6%96%BD%E5%B7%A5%E6%89%B0%E6%B0%91)
+  - [美司法部批准派拉蒙与华纳兄弟探索的交易](https://blog.upx8.com/%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E6%89%B9%E5%87%86%E6%B4%BE%E6%8B%89%E8%92%99%E4%B8%8E%E5%8D%8E%E7%BA%B3%E5%85%84%E5%BC%9F%E6%8E%A2%E7%B4%A2%E7%9A%84%E4%BA%A4%E6%98%93)
   - [阿里巴巴回应“周靖人离职”：纯属谣言](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9B%9E%E5%BA%94-%E5%91%A8%E9%9D%96%E4%BA%BA%E7%A6%BB%E8%81%8C-%E7%BA%AF%E5%B1%9E%E8%B0%A3%E8%A8%80)
