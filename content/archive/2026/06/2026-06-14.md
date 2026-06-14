@@ -4,6 +4,7 @@
   - [gpt 转日区订阅](https://2libra.com/post/ai-tools/lwk0jPL)
   - [【周末家常菜】啤酒鸡翅好评～ 🍺🍺🍺](https://2libra.com/post/personal-life/5eNBxMu)
   - [【💰】Blockchain 分享内容推荐](https://2libra.com/post/cryptocurrency/7z7Htx5)
+  - [分享一个新的 CodexBar](https://2libra.com/post/personal-works/q9MDE-P)
   - [分享一个自己开发的 Oracle 设置工具](https://2libra.com/post/personal-works/CRerCvV)
   - [喜提混沌](https://2libra.com/post/interaction/2pLophz)
   - [太有实力了](https://2libra.com/post/slacking-off/JZqxoLP)
@@ -64,11 +65,18 @@
   - [The Call Came From Inside the Cap Table](https://paddo.dev/blog/call-from-inside-the-cap-table/)
 - Hacker News Frontpage
   - [4 things to know about the new sunscreen ingredient the FDA approved](https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol)
+  - [A 'cold blob' in the Atlantic could be a sign of AMOC shutdown – CNN](https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation)
   - [AI Coding at Home Without Going Broke](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
+  - [Conversations with a six-year-old on functional programming (2018)](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
+  - [Dangerous hormone-disrupting chemicals found in US breast milk samples](https://www.theguardian.com/us-news/2026/jun/14/breast-milk-research-chemicals)
+  - [Extinction-Level Capitalism](https://matthewbutterick.com/extinction-level-capitalism.html)
+  - [FarOutCompany](https://faroutcompany.com/)
   - [How to Earn a Billion Dollars](https://paulgraham.com/earn.html)
+  - [Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks](https://twitter.com/zenmagnets/status/2065796012820848699)
   - [Show HN: I built 80 mini-games using Fable before it was shut down](https://minigames.world/en)
   - [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
   - [Tribblix: the retro illumos distribution](http://tribblix.org/)
+  - [UK set to announce social media ban for under-16s](https://www.manchestereveningnews.co.uk/news/uk-news/uk-set-announce-social-media-34119132)
 - Hacking Articles
   - [Automating Penetration Testing with Claude AI](https://www.hackingarticles.in/automating-penetration-testing-with-claude-ai/)
 - johndcook.com
