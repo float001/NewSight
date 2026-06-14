@@ -3,14 +3,22 @@
 - Emergent Minds | paddo.dev
   - [One Went Dark, Two Went Open](https://paddo.dev/blog/one-went-dark-two-went-open/)
 - Hacker News Frontpage
+  - [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
   - [Swiss voters reject proposal to cap population at ten million](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146)
+- Sploitus.com Exploits RSS Feed
+  - [SQLi.py exploit](https://sploitus.com/exploit?id=2990F170-644E-5448-B98A-B01A1BEFA2F0&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [As AI companies race to go public, who else is along for the ride?](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/)
 - The Verge
   - [Conclave is the sound of a NYC summer block party](https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review)
   - [How to watch most of the World Cup matches with free trials](https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale)
 - Vulners.com RSS Feed
+  - [CVE-2026-54410](https://vulners.com/cve/CVE-2026-54410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54410](https://vulners.com/cvelist/CVELIST:CVE-2026-54410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54411](https://vulners.com/cve/CVE-2026-54411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54411](https://vulners.com/cvelist/CVELIST:CVE-2026-54411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/A6ABFB6C-1C6C-5010-B6BD-1110C1242606?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [SQLi.py](https://vulners.com/githubexploit/2990F170-644E-5448-B98A-B01A1BEFA2F0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Upcoming Speaking Engagements](https://vulners.com/schneier/SCHNEIER:3CCB3946D6B1A64DB51289883DB8900F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
