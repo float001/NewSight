@@ -4,6 +4,7 @@
   - [gpt 转日区订阅](https://2libra.com/post/ai-tools/lwk0jPL)
   - [【周末家常菜】啤酒鸡翅好评～ 🍺🍺🍺](https://2libra.com/post/personal-life/5eNBxMu)
   - [【💰】Blockchain 分享内容推荐](https://2libra.com/post/cryptocurrency/7z7Htx5)
+  - [分享一个自己开发的 Oracle 设置工具](https://2libra.com/post/personal-works/CRerCvV)
   - [喜提混沌](https://2libra.com/post/interaction/2pLophz)
   - [太有实力了](https://2libra.com/post/slacking-off/JZqxoLP)
   - [感觉大厂默认周末并非你的个人时间](https://2libra.com/post/workplace-stories/aDnxvVI)
@@ -62,6 +63,7 @@
 - Hacker News Frontpage
   - [4 things to know about the new sunscreen ingredient the FDA approved](https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol)
   - [AI Coding at Home Without Going Broke](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
+  - [How to Earn a Billion Dollars](https://paulgraham.com/earn.html)
   - [Show HN: I built 80 mini-games using Fable before it was shut down](https://minigames.world/en)
   - [Tribblix: the retro illumos distribution](http://tribblix.org/)
 - Hacking Articles
@@ -72,10 +74,16 @@
   - [Install Ruby Ubuntu – 3 Easy Ways to Set Up Ruby on Ubuntu 20.04](https://kalilinuxtutorials.com/install-ruby-ubuntu/)
   - [Plex Media Server Setup: Install and Configure on Ubuntu 20.04](https://kalilinuxtutorials.com/plex-media-server-setup/)
   - [Why Deploying AI Is Just the Beginning: The Case for Ongoing AI Operations Monitoring](https://kalilinuxtutorials.com/why-deploying-ai-is-just-the-beginning-the-case-for-ongoing-ai-operations-monitoring/)
+- No Headback
+  - [fable/mythos 四日谈](http://xargin.com/4-days-with-fable/)
 - pluralistic.net
   - [Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)](https://pluralistic.net/2026/06/13/minority-shareholder-report/)
 - PwnDefend
   - [Cyber Myth: Attackers only have to be right once, Defenders have to be right all the time!](https://www.pwndefend.com/2026/06/13/cyber-myth-attackers-only-have-to-be-right-once-defenders-have-to-be-right-all-the-time/)
+- Recent Commits to cve:main
+  - [Update Sun Jun 14 11:49:48 UTC 2026](https://github.com/trickest/cve/commit/37f87380c7b847f19eb6e940e5724ed0f27f5f68)
+- shkspr.mobi
+  - [Did Frank Sinatra really think "Something" was a Lennon/McCartney song?](https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-42647 exploit](https://sploitus.com/exploit?id=FD4AA5D0-761A-574B-BE76-55A50B193227&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Encoding or Escaping of Output in Cisco Catalyst_Sd-Wan_Manager exploit](https://sploitus.com/exploit?id=1D21D5F1-F7EE-589C-8C6B-82A7EA43E526&utm_source=rss&utm_medium=rss)
@@ -97,6 +105,7 @@
   - [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban)
   - [Sealed Super Mario Bros. sells for a record $3 million](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction)
 - VulDB Recent Entries
+  - [CVE-2025-15546 | Iptanus File Upload Plugin up to 5.1.6 on WordPress Setting duplicatepolicy race condition](https://vuldb.com/vuln/370843)
   - [CVE-2026-12183 | Nefteprodukttekhnika BUK TS-G Gas Station Automation System up to 2.10.2 on Linux System Configuration /php/ajax-login.php improper authentication](https://vuldb.com/vuln/370828)
   - [CVE-2026-12186 | GL.iNet GL-MT3000 up to 4.4.5 Tor Proxy Service Configuration tor replace_country command injection](https://vuldb.com/vuln/370832)
   - [CVE-2026-12187 | GL.iNet GL-MT3000 up to 4.4.5 Online Firmware Upgrade one_click_upgrade command injection](https://vuldb.com/vuln/370833)
@@ -106,6 +115,11 @@
   - [CVE-2026-12191 | Comma AI Openpilot 0.11 Pickle modeld.py pickle.load/pickle.loads deserialization](https://vuldb.com/vuln/370837)
   - [CVE-2026-12192 | GALAYOU Y4 1.0.0 Web Server buffer overflow](https://vuldb.com/vuln/370838)
   - [CVE-2026-12198 | Microweber up to 2.0.20 API Endpoint thumbnail_img userfiles_path cache_path_relative path traversal (Issue 1172)](https://vuldb.com/vuln/370841)
+  - [CVE-2026-12200 | Ritlabs TinyWeb Server up to 1.94 on Win32 Header libeay32.dll.html Authorization stack-based overflow](https://vuldb.com/vuln/370842)
+  - [CVE-2026-12201 | IObit Malware Fighter up to 13.2.0 DLL permission](https://vuldb.com/vuln/370844)
+  - [CVE-2026-12202 | Intelliants Subrion CMS up to 4.0.3 Blocks Endpoint CSS class name cross site scripting](https://vuldb.com/vuln/370845)
+  - [CVE-2026-12203 | HKUDS AI-Trader up to 74caf996f78dcc0c657df8365c8544678a16e215 Research Export /api/research/agents.csv information disclosure (Issue 242)](https://vuldb.com/vuln/370846)
+  - [CVE-2026-12204 | ShopXO up to 6.7.1 Scheduled Task Endpoint Crontab.php authorization](https://vuldb.com/vuln/370847)
   - [CVE-2026-54420 | LiteSpeed cPanel Plugin up to 2.4.7 symlink](https://vuldb.com/vuln/370831)
   - [CVE-2026-54421 | OpenStack Ironic up to 35.0.1 improper removal of sensitive information before storage or transfer](https://vuldb.com/vuln/370830)
   - [CVE-2026-6428 | Koha up to 26.05.0 Reports reports/catalogue_out.pl strsth2 sql injection](https://vuldb.com/vuln/370829)
@@ -142,6 +156,7 @@
   - [TechMyst-Toolkit](https://vulners.com/githubexploit/37CAB76A-08A4-5711-ABC8-1CC5F6A5DEE5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [19 Best Gifts for Plant Lovers and Gardeners (2026)](https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners-2026/)
+  - [20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)](https://www.wired.com/gallery/best-gifts-for-men-2026/)
   - [7 Best Coffee Makers (2026): Ratio, Fellow, Moccamaster](https://www.wired.com/gallery/best-coffee-makers/)
   - [Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals](https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/)
   - [Suunto Spark Review: The Perfect Pair for Runs and Rides](https://www.wired.com/review/suunto-spark/)
