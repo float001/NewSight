@@ -2,6 +2,10 @@
 
 - 2Libra
   - [喜提混沌](https://2libra.com/post/interaction/2pLophz)
+- 36氪
+  - [第10届南博会现场签约超257亿元能源项目](https://36kr.com/newsflashes/3852336977040389?f=rss)
+  - [联合国专家：国际社会应采取实际行动应对气候变化](https://36kr.com/newsflashes/3852346353194243?f=rss)
+  - [高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发](https://36kr.com/p/3851572421432324?f=rss)
 - 404 Media
   - [Scientists Discover Vast Ancient ‘Necropolis’ Teeming With Strange New Creatures](https://www.404media.co/scientists-discover-vast-ancient-necropolis-teeming-with-strange-new-creatures/)
 - daringfireball.net
@@ -9,6 +13,7 @@
   - [Trump’s Name (Set in the Wrong Font, of Course) Has Been Removed From the Kennedy Center](https://apple.news/ANLNtQOeuSkiJ35tzkYw9oA)
   - [U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National Security Grounds](https://www.anthropic.com/news/fable-mythos-access)
 - Hacker News Frontpage
+  - [4 things to know about the new sunscreen ingredient the FDA approved](https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol)
   - [AI Coding at Home Without Going Broke](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
   - [Show HN: I built 80 mini-games using Fable before it was shut down](https://minigames.world/en)
 - Hacking Articles
@@ -45,12 +50,16 @@
   - [CVE-2026-12176 SourceCodester CET Automated Grading System with AI Predictive Analytics index.php cross site scripting](https://vulners.com/cve/CVE-2026-12176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12176 SourceCodester CET Automated Grading System with AI Predictive Analytics index.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-12176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12183](https://vulners.com/nvd/NVD:CVE-2026-12183?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48155 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-48155?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48156 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-48156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49854 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-49854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49854 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-49854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6428](https://vulners.com/nvd/NVD:CVE-2026-6428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42647](https://vulners.com/githubexploit/FD4AA5D0-761A-574B-BE76-55A50B193227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Unchecked Input for Loop Condition in Isc Bind](https://vulners.com/githubexploit/1875515F-1163-510B-A697-82A204A481CB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit-Development-master](https://vulners.com/githubexploit/FB29A6F9-8FD2-5475-894F-D5F10F83FA22?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-248M-82V9-Q6G6 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-248M-82V9-Q6G6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-CJ93-CHG6-VGV8 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-CJ93-CHG6-VGV8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-CX3H-4QPV-8HC9 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-CX3H-4QPV-8HC9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-CX3H-4QPV-8HC9 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-CX3H-4QPV-8HC9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [POC_cve_2026_35273](https://vulners.com/githubexploit/6D7408A2-2122-5A74-A614-E322984ACCEE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
