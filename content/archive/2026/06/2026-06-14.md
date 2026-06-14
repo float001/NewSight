@@ -23,6 +23,7 @@
   - [Cyber Myth: Attackers only have to be right once, Defenders have to be right all the time!](https://www.pwndefend.com/2026/06/13/cyber-myth-attackers-only-have-to-be-right-once-defenders-have-to-be-right-all-the-time/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-42647 exploit](https://sploitus.com/exploit?id=FD4AA5D0-761A-574B-BE76-55A50B193227&utm_source=rss&utm_medium=rss)
+  - [Exploit for Unchecked Input for Loop Condition in Isc Bind exploit](https://sploitus.com/exploit?id=1875515F-1163-510B-A697-82A204A481CB&utm_source=rss&utm_medium=rss)
   - [POC_cve_2026_35273 exploit](https://sploitus.com/exploit?id=6D7408A2-2122-5A74-A614-E322984ACCEE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/)
@@ -40,6 +41,7 @@
   - [CVE-2026-12174 D-Link DCS-935L HTTP rhea snprintf format string](https://vulners.com/cve/CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12174 D-Link DCS-935L HTTP rhea snprintf format string](https://vulners.com/cvelist/CVELIST:CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12175](https://vulners.com/nvd/NVD:CVE-2026-12175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12176](https://vulners.com/nvd/NVD:CVE-2026-12176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12176 SourceCodester CET Automated Grading System with AI Predictive Analytics index.php cross site scripting](https://vulners.com/cve/CVE-2026-12176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12176 SourceCodester CET Automated Grading System with AI Predictive Analytics index.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-12176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12183](https://vulners.com/nvd/NVD:CVE-2026-12183?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -47,11 +49,15 @@
   - [CVE-2026-49854 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-49854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6428](https://vulners.com/nvd/NVD:CVE-2026-6428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42647](https://vulners.com/githubexploit/FD4AA5D0-761A-574B-BE76-55A50B193227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Unchecked Input for Loop Condition in Isc Bind](https://vulners.com/githubexploit/1875515F-1163-510B-A697-82A204A481CB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit-Development-master](https://vulners.com/githubexploit/FB29A6F9-8FD2-5475-894F-D5F10F83FA22?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-CX3H-4QPV-8HC9 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-CX3H-4QPV-8HC9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-CX3H-4QPV-8HC9 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-CX3H-4QPV-8HC9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [POC_cve_2026_35273](https://vulners.com/githubexploit/6D7408A2-2122-5A74-A614-E322984ACCEE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [Anthropic强大新模型为何突遭出口管制？](https://buaq.net/go-422923.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [Anthropic强大新模型为何突遭出口管制？](https://blog.upx8.com/Anthropic%E5%BC%BA%E5%A4%A7%E6%96%B0%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E7%AA%81%E9%81%AD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
   - [DeepSeek研究员控诉字节半夜施工扰民](https://blog.upx8.com/DeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E6%8E%A7%E8%AF%89%E5%AD%97%E8%8A%82%E5%8D%8A%E5%A4%9C%E6%96%BD%E5%B7%A5%E6%89%B0%E6%B0%91)
