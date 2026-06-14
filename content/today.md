@@ -11,6 +11,8 @@
   - [15条特高压直流通道要来了](https://36kr.com/newsflashes/3852345783129352?f=rss)
   - [2026端午档新片预售总票房破2000万](https://36kr.com/newsflashes/3852505564632073?f=rss)
   - [世界杯期间英格兰队装备遭窃，大部分已被追回](https://36kr.com/newsflashes/3852377143579652?f=rss)
+  - [中企承建马达加斯加12号国道部分竣工](https://36kr.com/newsflashes/3852554726003713?f=rss)
+  - [中国裁判傅明首次亮相世界杯](https://36kr.com/newsflashes/3852555218113542?f=rss)
   - [中建六局与大禹集团签署战略合作协议](https://36kr.com/newsflashes/3852510529623045?f=rss)
   - [中老铁路今年以来运输货物突破1000万吨](https://36kr.com/newsflashes/3852441250780169?f=rss)
   - [全球首条百万片级体全息光波导自动化产线在天津投产](https://36kr.com/newsflashes/3852424819807235?f=rss)
@@ -21,6 +23,7 @@
   - [吉利包揽TCR世界巡回赛巴伦西亚站首回合前两名](https://36kr.com/newsflashes/3852507960857603?f=rss)
   - [增长停滞两年后，H&M重组全球架构，大中华区降级｜独家](https://36kr.com/p/3850942780838912?f=rss)
   - [天陇铁路平洛隧道贯通](https://36kr.com/newsflashes/3852442625004802?f=rss)
+  - [德国数字化部长疑用AI写公文遭质疑](https://36kr.com/newsflashes/3852553873462533?f=rss)
   - [成渝中线与成达万高铁枢纽连接工程取得关键突破](https://36kr.com/newsflashes/3852506110645506?f=rss)
   - [我国首次开展蔬菜纯电农机实地综合测评](https://36kr.com/newsflashes/3852376072311808?f=rss)
   - [第10届南博会现场签约超257亿元能源项目](https://36kr.com/newsflashes/3852336977040389?f=rss)
@@ -29,6 +32,7 @@
   - [菲律宾南部强震已致超72万人受灾](https://36kr.com/newsflashes/3852379474498821?f=rss)
   - [金价近乎翻倍，豪华表成了“炼金”原料](https://36kr.com/newsflashes/3852375238628613?f=rss)
   - [阿里巴巴：“周靖人辞职”纯属谣言](https://36kr.com/newsflashes/3852613747463425?f=rss)
+  - [陈茂波：中国香港股市1-5月日均成交额同比增长14%](https://36kr.com/newsflashes/3852554342962435?f=rss)
   - [香港五年规划公众咨询将于6月15日展开](https://36kr.com/newsflashes/3852440880092161?f=rss)
   - [高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发](https://36kr.com/p/3851572421432324?f=rss)
 - 404 Media
@@ -37,6 +41,8 @@
   - [Apple’s Private Cloud Compute Is Severely Limited for Third-Party Developers](https://developer.apple.com/private-cloud-compute/)
   - [Trump’s Name (Set in the Wrong Font, of Course) Has Been Removed From the Kennedy Center](https://apple.news/ANLNtQOeuSkiJ35tzkYw9oA)
   - [U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National Security Grounds](https://www.anthropic.com/news/fable-mythos-access)
+- defend.network
+  - [Splunk RCE, Arch Linux supply-chain hijack, Velvet Ant decade-long backdoor](https://defend.network/briefings/splunk-rce-arch-linux-supply-chain-velvet-ant-backdoor-2026-06-14.html)
 - eli.thegreenplace.net
   - [Plugins case study: Pluggy](https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/)
 - Hacker News Frontpage
@@ -70,6 +76,18 @@
 - The Verge
   - [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban)
   - [Sealed Super Mario Bros. sells for a record $3 million](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction)
+- VulDB Recent Entries
+  - [CVE-2026-12183 | Nefteprodukttekhnika BUK TS-G Gas Station Automation System up to 2.10.2 on Linux System Configuration /php/ajax-login.php improper authentication](https://vuldb.com/vuln/370828)
+  - [CVE-2026-12186 | GL.iNet GL-MT3000 up to 4.4.5 Tor Proxy Service Configuration tor replace_country command injection](https://vuldb.com/vuln/370832)
+  - [CVE-2026-12187 | GL.iNet GL-MT3000 up to 4.4.5 Online Firmware Upgrade one_click_upgrade command injection](https://vuldb.com/vuln/370833)
+  - [CVE-2026-12188 | Grit42 Grit up to 0.11.0 GritEntityController grit_entity_controller.rb sql injection](https://vuldb.com/vuln/370834)
+  - [CVE-2026-12189 | Moovit Bus & Public Transit App 1.18 on Android com.tranzmate improper authorization in handler for custom url scheme](https://vuldb.com/vuln/370835)
+  - [CVE-2026-12190 | Genspark AI Workspace App 2.8.4 on Android ai.mainfunc.genspark improper authorization in handler for custom url scheme](https://vuldb.com/vuln/370836)
+  - [CVE-2026-12191 | Comma AI Openpilot 0.11 Pickle modeld.py pickle.load/pickle.loads deserialization](https://vuldb.com/vuln/370837)
+  - [CVE-2026-12192 | GALAYOU Y4 1.0.0 Web Server buffer overflow](https://vuldb.com/vuln/370838)
+  - [CVE-2026-54420 | LiteSpeed cPanel Plugin up to 2.4.7 symlink](https://vuldb.com/vuln/370831)
+  - [CVE-2026-54421 | OpenStack Ironic up to 35.0.1 improper removal of sensitive information before storage or transfer](https://vuldb.com/vuln/370830)
+  - [CVE-2026-6428 | Koha up to 26.05.0 Reports reports/catalogue_out.pl strsth2 sql injection](https://vuldb.com/vuln/370829)
 - Vulners.com RSS Feed
   - [CVE-2026-12174](https://vulners.com/nvd/NVD:CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12174 D-Link DCS-935L HTTP rhea snprintf format string](https://vulners.com/cve/CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
