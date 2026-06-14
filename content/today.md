@@ -1,10 +1,17 @@
 # 今日安全资讯（2026-06-14）
 
 - 2Libra
+  - [【周末家常菜】啤酒鸡翅好评～ 🍺🍺🍺](https://2libra.com/post/personal-life/5eNBxMu)
   - [喜提混沌](https://2libra.com/post/interaction/2pLophz)
+  - [有线和无线可以同时连上吗](https://2libra.com/post/networking/vE4Lb-4)
 - 36氪
+  - [15条特高压直流通道要来了](https://36kr.com/newsflashes/3852345783129352?f=rss)
+  - [世界杯期间英格兰队装备遭窃，大部分已被追回](https://36kr.com/newsflashes/3852377143579652?f=rss)
+  - [我国首次开展蔬菜纯电农机实地综合测评](https://36kr.com/newsflashes/3852376072311808?f=rss)
   - [第10届南博会现场签约超257亿元能源项目](https://36kr.com/newsflashes/3852336977040389?f=rss)
   - [联合国专家：国际社会应采取实际行动应对气候变化](https://36kr.com/newsflashes/3852346353194243?f=rss)
+  - [菲律宾南部强震已致超72万人受灾](https://36kr.com/newsflashes/3852379474498821?f=rss)
+  - [金价近乎翻倍，豪华表成了“炼金”原料](https://36kr.com/newsflashes/3852375238628613?f=rss)
   - [高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发](https://36kr.com/p/3851572421432324?f=rss)
 - 404 Media
   - [Scientists Discover Vast Ancient ‘Necropolis’ Teeming With Strange New Creatures](https://www.404media.co/scientists-discover-vast-ancient-necropolis-teeming-with-strange-new-creatures/)
@@ -32,6 +39,7 @@
   - [POC_cve_2026_35273 exploit](https://sploitus.com/exploit?id=6D7408A2-2122-5A74-A614-E322984ACCEE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/)
+  - [As Anthropic suspends access to new models, India debates its AI future](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)
   - [KPMG pulls report on AI usage due to apparent hallucinations](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
   - [Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/)
   - [OpenAI faces investigation from state attorneys general](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/)
