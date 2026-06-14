@@ -10,6 +10,7 @@
   - [U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National Security Grounds](https://www.anthropic.com/news/fable-mythos-access)
 - Hacker News Frontpage
   - [AI Coding at Home Without Going Broke](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
+  - [Show HN: I built 80 mini-games using Fable before it was shut down](https://minigames.world/en)
 - Hacking Articles
   - [Automating Penetration Testing with Claude AI](https://www.hackingarticles.in/automating-penetration-testing-with-claude-ai/)
 - johndcook.com
@@ -26,6 +27,7 @@
 - TechCrunch
   - [Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/)
   - [KPMG pulls report on AI usage due to apparent hallucinations](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
+  - [Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/)
   - [OpenAI faces investigation from state attorneys general](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/)
   - [This thin under-pillow speaker helped me fall asleep without earbuds](https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/)
 - The Decoder
@@ -37,6 +39,9 @@
   - [CVE-2026-12174](https://vulners.com/nvd/NVD:CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12174 D-Link DCS-935L HTTP rhea snprintf format string](https://vulners.com/cve/CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12174 D-Link DCS-935L HTTP rhea snprintf format string](https://vulners.com/cvelist/CVELIST:CVE-2026-12174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12175](https://vulners.com/nvd/NVD:CVE-2026-12175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12176 SourceCodester CET Automated Grading System with AI Predictive Analytics index.php cross site scripting](https://vulners.com/cve/CVE-2026-12176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12176 SourceCodester CET Automated Grading System with AI Predictive Analytics index.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-12176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12183](https://vulners.com/nvd/NVD:CVE-2026-12183?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49854 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-49854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49854 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-49854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -48,3 +53,5 @@
   - [POC_cve_2026_35273](https://vulners.com/githubexploit/6D7408A2-2122-5A74-A614-E322984ACCEE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [DeepSeek研究员控诉字节半夜施工扰民](https://blog.upx8.com/DeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E6%8E%A7%E8%AF%89%E5%AD%97%E8%8A%82%E5%8D%8A%E5%A4%9C%E6%96%BD%E5%B7%A5%E6%89%B0%E6%B0%91)
