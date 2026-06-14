@@ -1,10 +1,14 @@
 # 今日安全资讯（2026-06-15）
 
+- 36氪
+  - [SpaceX上市驱动航天ETF反弹，太空产业迎定价��起点](https://36kr.com/newsflashes/3853618049946886?f=rss)
+  - [美联储6月维持利率不变的概率为98.5%](https://36kr.com/newsflashes/3853615125828870?f=rss)
 - Emergent Minds | paddo.dev
   - [One Went Dark, Two Went Open](https://paddo.dev/blog/one-went-dark-two-went-open/)
 - Hacker News Frontpage
   - [Abu Fanous](https://en.wikipedia.org/wiki/Abu_Fanous)
   - [Chaosnet](https://tumbleweed.nu/r/lm-3/uv/amber.html)
+  - [Did Anthropic Ask for This?](https://www.verysane.ai/p/did-anthropic-ask-for-this)
   - [Rome Fell and Nobody Noticed](https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed)
   - [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
   - [Swiss voters reject proposal to cap population at ten million](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146)
@@ -12,6 +16,7 @@
   - [The New AI Power Struggle](https://hackernoon.com/the-new-ai-power-struggle?source=rss)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2022-30190 exploit](https://sploitus.com/exploit?id=28DF07CC-C023-564E-AD8F-1E0B61DE5982&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-36826 exploit](https://sploitus.com/exploit?id=1E3DE00B-953D-5D10-9EA1-764534FCBE4E&utm_source=rss&utm_medium=rss)
   - [SQLi.py exploit](https://sploitus.com/exploit?id=2990F170-644E-5448-B98A-B01A1BEFA2F0&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [As AI companies race to go public, who else is along for the ride?](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/)
@@ -30,6 +35,10 @@
   - [CVE-2026-12186](https://vulners.com/nvd/NVD:CVE-2026-12186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12186 GL.iNet GL-MT3000 Tor Proxy Service Configuration tor replace_country command injection](https://vulners.com/cve/CVE-2026-12186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12186 GL.iNet GL-MT3000 Tor Proxy Service Configuration tor replace_country command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-12186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12188 Grit42 Grit GritEntityController grit_entity_controller.rb sql injection](https://vulners.com/cve/CVE-2026-12188?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12188 Grit42 Grit GritEntityController grit_entity_controller.rb sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-12188?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12189 Moovit Bus & Public Transit App com.tranzmate improper authorization in handler for custom url scheme](https://vulners.com/cve/CVE-2026-12189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12189 Moovit Bus & Public Transit App com.tranzmate improper authorization in handler for custom url scheme](https://vulners.com/cvelist/CVELIST:CVE-2026-12189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47701 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-47701?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54410](https://vulners.com/cve/CVE-2026-54410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54410](https://vulners.com/cvelist/CVELIST:CVE-2026-54410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -40,6 +49,7 @@
   - [CVE-2026-54412](https://vulners.com/nvd/NVD:CVE-2026-54412?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54413](https://vulners.com/nvd/NVD:CVE-2026-54413?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2022-30190](https://vulners.com/githubexploit/28DF07CC-C023-564E-AD8F-1E0B61DE5982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-36826](https://vulners.com/githubexploit/1E3DE00B-953D-5D10-9EA1-764534FCBE4E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42945](https://vulners.com/githubexploit/A6ABFB6C-1C6C-5010-B6BD-1110C1242606?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-CXH2-4639-VMC5 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-CXH2-4639-VMC5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [SQLi.py](https://vulners.com/githubexploit/2990F170-644E-5448-B98A-B01A1BEFA2F0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
