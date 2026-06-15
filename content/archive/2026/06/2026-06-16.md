@@ -5,6 +5,8 @@
   - [记第一次长途出差](https://2libra.com/post/personal-life/Q89U9nD)
 - 404 Media
   - [Disclosure Day's Delusion Is That People Would Think Alien Videos Are Not AI](https://www.404media.co/disclosure-days-delusion-that-people-would-think-alien-videos-are-not-ai/)
+- Ars Technica
+  - [Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021](https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/)
 - Cybersecurity News
   - [Cisco SD-WAN Vulnerability Exploited in the Wild: Patch CVE-2026-20262 Now](https://securityonline.info/cisco-sd-wan-vulnerability-cve-2026-20262/)
 - daringfireball.net
@@ -22,7 +24,10 @@
   - [Adriatic Port Cyber-Attack by Anubis Sparks Warning Over Maritime Security Risks](https://www.infosecurity-magazine.com/news/anubis-ransomware-adriatic-port/)
   - [Attackers Hijack Popular WordPress Plugins to Deploy Backdoors](https://www.infosecurity-magazine.com/news/wordpress-plugin-supply-chain/)
 - johndcook.com
+  - [Quaternion Rotations, Claude, and Lean](https://www.johndcook.com/blog/2026/06/15/quaternions-claude-lean/)
   - [Writing Prolog with ChatGPT](https://www.johndcook.com/blog/2026/06/15/writing-prolog-with-chatgpt/)
+- Kali Linux Tutorials
+  - [NFS Server Setup on Ubuntu 20.04: Complete Configuration Guide](https://kalilinuxtutorials.com/nfs-server-setup-ubuntu/)
 - MIT Technology Review
   - [Why do South Koreans love AI so much?](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/)
 - ProjectDiscovery.io | Blog
@@ -31,6 +36,7 @@
   - [Claude Fable 5's pricing makes Sonar Context Augmentation a potent cost lever](https://www.sonarsource.com/blog/claude-fable-5-pricing-makes-sonar-context-augmentation-a-potent-cost-lever/)
   - [Sonar Leaders recognized as EY Entrepreneur Of The Year Winners for the Gulf South region](https://www.sonarsource.com/blog/sonar-leaders-recognized-as-ey-entrepreneur-of-the-year/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-53519 exploit](https://sploitus.com/exploit?id=196189CB-E82D-5E0B-BD79-68750009496C&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Portwell Engineering_Toolkits exploit](https://sploitus.com/exploit?id=13CA0CE8-12D1-54FC-9A7F-66AE9C6F4402&utm_source=rss&utm_medium=rss)
   - [Exploit for Uncontrolled Resource Consumption in Microsoft exploit](https://sploitus.com/exploit?id=23C71CB7-8C77-57E5-804D-D2FD022715BE&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -40,13 +46,24 @@
 - The Decoder
   - [The US government may be asking Anthropic the impossible by demanding unhackable LLMs](https://the-decoder.com/the-us-government-may-be-asking-anthropic-the-impossible-by-demanding-unhackable-llms/)
 - The Verge
+  - [Amazon&#8217;s Smart Thermostat is on sale for just $58](https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale)
   - [Big Tech’s desperate last push at AI regulation](https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress)
   - [Xbox turmoil continues with a studio closure and executive departures](https://www.theverge.com/games/949964/xbox-compulsion-games-closure-craig-duncan-departure)
 - VulDB Recent Entries
   - [CVE-2025-15658 | rewish WP Emmet Plugin up to 0.3.4 on WordPress cross site scripting](https://vuldb.com/vuln/370933)
   - [CVE-2025-15659 | liseperu Elizaibots Plugin up to 1.0.2 on WordPress cross site scripting](https://vuldb.com/vuln/370926)
   - [CVE-2026-10634 | zephyrproject zephyr up to 4.4.x subsys/net/ip/tcp.c net_tcp_foreach use after free (GHSA-6c57-xfhw-j26x)](https://vuldb.com/vuln/370927)
+  - [CVE-2026-20262 | Cisco Catalyst SD-WAN Manager up to 26.1.1_LI_Images API Endpoint path traversal (cisco-sa-sdwan-arbfw-c2rZvQ)](https://vuldb.com/vuln/370934)
+  - [CVE-2026-47777 | Mastodon up to 4.6.0-beta.0 Setting data authenticity (GHSA-vg36-gxjg-2v46)](https://vuldb.com/vuln/370935)
+  - [CVE-2026-49294 | Valhalla up to 3.6.3 cross site scripting (GHSA-85xx-39j8-r56x)](https://vuldb.com/vuln/370943)
   - [CVE-2026-5038 | multer up to 2.1.x/3.0.0-alpha.1 Multipart Upload Readable.pipe cleanup (GHSA-3p4h-7m6x-2hcm)](https://vuldb.com/vuln/370930)
+  - [CVE-2026-6039 | LibreOffice up to 25.8.6/26.2.2 out-of-bounds write](https://vuldb.com/vuln/370936)
+  - [CVE-2026-6040 | LibreOffice up to 25.8.6/26.2.2 use after free](https://vuldb.com/vuln/370937)
+  - [CVE-2026-6045 | LibreOffice up to 25.8.6/26.2.2 out-of-bounds write](https://vuldb.com/vuln/370938)
+  - [CVE-2026-6047 | LibreOffice up to 25.8.6/26.2.2 out-of-bounds write](https://vuldb.com/vuln/370939)
+  - [CVE-2026-8356 | LibreOffice up to 26.2.3 out-of-bounds write](https://vuldb.com/vuln/370940)
+  - [CVE-2026-8357 | LibreOffice up to 26.2.3 out-of-bounds write](https://vuldb.com/vuln/370941)
+  - [CVE-2026-8358 | LibreOffice up to 26.2.3 type confusion](https://vuldb.com/vuln/370942)
   - [CVE-2026-8683 | Mattermost Desktop App up to 5.5.13/6.1.x window.open allocation of resources](https://vuldb.com/vuln/370932)
   - [CVE-2026-9595 | webpack-dev-server up to 5.2.4 origin validation (GHSA-mx8g-39q3-5c79)](https://vuldb.com/vuln/370928)
   - [CVE-2026-9862 | Fortra Core Privileged Access Manager os command injection](https://vuldb.com/vuln/370929)
@@ -56,6 +73,7 @@
 - Vulners.com RSS Feed
   - [@angular/service-worker: Request Credential & Cache Policy Stripping](https://vulners.com/github/GHSA-95QP-CMMW-MGQV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [@babel/core: Arbitrary File Read via sourceMappingURL Comment](https://vulners.com/github/GHSA-4X5R-PXFX-6JF8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails](https://vulners.com/thn/THN:E5FD7F85C5EE76073D1CE0837CEF2D0D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-15658](https://vulners.com/nvd/NVD:CVE-2025-15658?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-15659](https://vulners.com/nvd/NVD:CVE-2025-15659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10634](https://vulners.com/nvd/NVD:CVE-2026-10634?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -70,7 +88,23 @@
   - [CVE-2026-5038](https://vulners.com/nvd/NVD:CVE-2026-5038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5233](https://vulners.com/circl/CIRCL:CVE-2026-5233?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5242](https://vulners.com/circl/CIRCL:CVE-2026-5242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52718 Gstreamer1-plugins-bad-free: gstreamer: denial of service via av1 tile_list_obu parser byte/bit confusion](https://vulners.com/cve/CVE-2026-52718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52718 Gstreamer1-plugins-bad-free: gstreamer: denial of service via av1 tile_list_obu parser byte/bit confusion](https://vulners.com/cvelist/CVELIST:CVE-2026-52718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52719 Gstreamer1-plugins-bad-free: gstreamer: out-of-bounds read via jpeg segment length validation in va decoder](https://vulners.com/cve/CVE-2026-52719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52719 Gstreamer1-plugins-bad-free: gstreamer: out-of-bounds read via jpeg segment length validation in va decoder](https://vulners.com/cvelist/CVELIST:CVE-2026-52719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52720 Gstreamer1-plugins-bad-free: gstreamer: heap buffer overflow via crafted vnc server rectangle in librfb](https://vulners.com/cve/CVE-2026-52720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52720 Gstreamer1-plugins-bad-free: gstreamer: heap buffer overflow via crafted vnc server rectangle in librfb](https://vulners.com/cvelist/CVELIST:CVE-2026-52720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52721 Gstreamer1-plugins-bad-free: gstreamer: multiple out-of-bounds reads in pcapparse ipv4/tcp header parsing](https://vulners.com/cve/CVE-2026-52721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52721 Gstreamer1-plugins-bad-free: gstreamer: multiple out-of-bounds reads in pcapparse ipv4/tcp header parsing](https://vulners.com/cvelist/CVELIST:CVE-2026-52721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52722 Gstreamer1-plugins-bad-free: gstreamer: signed integer overflow in vmnc decoder cursor payload handling](https://vulners.com/cve/CVE-2026-52722?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52722 Gstreamer1-plugins-bad-free: gstreamer: signed integer overflow in vmnc decoder cursor payload handling](https://vulners.com/cvelist/CVELIST:CVE-2026-52722?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53550](https://vulners.com/cve/CVE-2026-53550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53703 Gstreamer1-plugins-ugly-free: gstreamer: out-of-bounds read in realmedia demuxer audio stream header parser](https://vulners.com/cve/CVE-2026-53703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53703 Gstreamer1-plugins-ugly-free: gstreamer: out-of-bounds read in realmedia demuxer audio stream header parser](https://vulners.com/cvelist/CVELIST:CVE-2026-53703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53704 Gstreamer1-plugins-ugly-free: gstreamer: out-of-bounds read in realmedia demuxer fileinfo metadata parser](https://vulners.com/cve/CVE-2026-53704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53704 Gstreamer1-plugins-ugly-free: gstreamer: out-of-bounds read in realmedia demuxer fileinfo metadata parser](https://vulners.com/cvelist/CVELIST:CVE-2026-53704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53705 Gstreamer1-plugins-good: gstreamer: heap buffer overflow in wavpack decoder via integer overflow](https://vulners.com/cve/CVE-2026-53705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53705 Gstreamer1-plugins-good: gstreamer: heap buffer overflow in wavpack decoder via integer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-53705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6039](https://vulners.com/nvd/NVD:CVE-2026-6039?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6040](https://vulners.com/nvd/NVD:CVE-2026-6040?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6045](https://vulners.com/nvd/NVD:CVE-2026-6045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -83,9 +117,23 @@
   - [CVE-2026-9595](https://vulners.com/nvd/NVD:CVE-2026-9595?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9862](https://vulners.com/nvd/NVD:CVE-2026-9862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9863](https://vulners.com/nvd/NVD:CVE-2026-9863?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-53519](https://vulners.com/githubexploit/196189CB-E82D-5E0B-BD79-68750009496C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Portwell Engineering_Toolkits](https://vulners.com/githubexploit/13CA0CE8-12D1-54FC-9A7F-66AE9C6F4402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Uncontrolled Resource Consumption in Microsoft](https://vulners.com/githubexploit/23C71CB7-8C77-57E5-804D-D2FD022715BE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [JS-YAML: Quadratic-complexity DoS in merge key handling via repeated aliases](https://vulners.com/github/GHSA-H67P-54HQ-RP68?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers](https://vulners.com/thn/THN:DED9C232B49BBF1CB0977760C793F104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels](https://vulners.com/thn/THN:5ECAD1271CF75693FD227FF64E64A476?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin:  IBM Sterling Connect:Direct Web Services is Affected by Cross-Site Scripting.](https://vulners.com/ibm/2C3679812201B996BBD606FF76CC58895F6728B4FCEC6226550892450A7692E1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: IBM Sterling Connect:Direct Web Services is Affected by command injection.](https://vulners.com/ibm/62B17904F5573BBA42CD399871BF463C0AB962AD90D033FF9DF247BC4BB9CEB2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: IBM Sterling Connect:Direct Web Services is Affected by Multiple Vulnerabilities.](https://vulners.com/ibm/0BC93F067A7C310306145410146E3B39F541E0711DF3A6A9994A567EE0DBB3BC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: IBM Sterling Connect:Direct Web Services is Affected by Multiple Vulnerabilities.](https://vulners.com/ibm/428CD8D812F6A0616EA3723F9F306AD6CB4DF01A5D8ACA6AF126C4B55B9A67CE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: IBM Sterling Connect:Direct Web Services is affected by Regular Expression Denial of Service.](https://vulners.com/ibm/7A79B64E32B754D0761FC1E7BCC8EC473F3521246C4054C0710037945C9F47F6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: IBM Sterling Connect:Direct Web Services is Affected by Regular Expression Denial of Service.](https://vulners.com/ibm/A316934B8989B4CF2F5E2678A983204684841EECE90904A84D471798AC72026B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: IBM Sterling Connect:Direct Web Services is Affected by Uncontrolled Resource Consumption.](https://vulners.com/ibm/134FCDE2A8B30E1F3501495F0B41261F74F12E086E6969ADFC7DE1EDD6053308?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: IBM Sterling Connect:Direct Web Services is affected by Uncontrolled Resource Consumption.](https://vulners.com/ibm/95A56C9E49B8B523DCC641FE81F172EEE8164F22217885FC6124937E07542FF7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- wheresyoured.at
+  - [AI's Brokenomics](https://www.wheresyoured.at/brokenomics/)
+- Wired
+  - [TCL A65K Soundbar Review: Small Size, Big Sound](https://www.wired.com/review/tcl-a65k-soundbar/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
