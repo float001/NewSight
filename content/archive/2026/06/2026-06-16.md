@@ -2,13 +2,23 @@
 
 - 2Libra
   - [如何看待花钱上班？](https://2libra.com/post/workplace-stories/xuyvCYn)
+  - [记第一次长途出差](https://2libra.com/post/personal-life/Q89U9nD)
 - Cybersecurity News
   - [Cisco SD-WAN Vulnerability Exploited in the Wild: Patch CVE-2026-20262 Now](https://securityonline.info/cisco-sd-wan-vulnerability-cve-2026-20262/)
+- daringfireball.net
+  - [WorkOS Launches Auth.md — an Open Protocol for Agent Registration](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026)
+  - [‘Anthropic’s Safety Superpower’](https://stratechery.com/2026/anthropics-safety-superpower/)
 - darkreading
   - [China-Nexus Actor Spy on US Researchers Undetected for a Year](https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected)
+- Hacker News Frontpage
+  - [How TimescaleDB compresses time-series data](https://roszigit.com/en/blog/timescaledb-compression-hypercore)
+- IEEE Spectrum
+  - [Engineering Is Critical to Boosting Food Security](https://spectrum.ieee.org/engineering-critical-food-security)
 - infosecurity-magazine.com
   - [Adriatic Port Cyber-Attack by Anubis Sparks Warning Over Maritime Security Risks](https://www.infosecurity-magazine.com/news/anubis-ransomware-adriatic-port/)
   - [Attackers Hijack Popular WordPress Plugins to Deploy Backdoors](https://www.infosecurity-magazine.com/news/wordpress-plugin-supply-chain/)
+- johndcook.com
+  - [Writing Prolog with ChatGPT](https://www.johndcook.com/blog/2026/06/15/writing-prolog-with-chatgpt/)
 - ProjectDiscovery.io | Blog
   - [Continuous PR Security Review](https://projectdiscovery.io/blog/continuous-pr-security-review)
 - Sonar Blog
@@ -16,6 +26,11 @@
   - [Sonar Leaders recognized as EY Entrepreneur Of The Year Winners for the Gulf South region](https://www.sonarsource.com/blog/sonar-leaders-recognized-as-ey-entrepreneur-of-the-year/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Portwell Engineering_Toolkits exploit](https://sploitus.com/exploit?id=13CA0CE8-12D1-54FC-9A7F-66AE9C6F4402&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [These are the countries moving to ban social media for children](https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/)
+- The Verge
+  - [Big Tech’s desperate last push at AI regulation](https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress)
+  - [Xbox turmoil continues with a studio closure and executive departures](https://www.theverge.com/games/949964/xbox-compulsion-games-closure-craig-duncan-departure)
 - VulDB Recent Entries
   - [CVE-2025-15658 | rewish WP Emmet Plugin up to 0.3.4 on WordPress cross site scripting](https://vuldb.com/vuln/370933)
   - [CVE-2025-15659 | liseperu Elizaibots Plugin up to 1.0.2 on WordPress cross site scripting](https://vuldb.com/vuln/370926)
@@ -28,21 +43,27 @@
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [What Changed in OWASP Top 10 2025 and Recommendations for Each Category](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
+  - [@angular/service-worker: Request Credential & Cache Policy Stripping](https://vulners.com/github/GHSA-95QP-CMMW-MGQV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [@babel/core: Arbitrary File Read via sourceMappingURL Comment](https://vulners.com/github/GHSA-4X5R-PXFX-6JF8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-15658](https://vulners.com/nvd/NVD:CVE-2025-15658?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-15659](https://vulners.com/nvd/NVD:CVE-2025-15659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10634](https://vulners.com/nvd/NVD:CVE-2026-10634?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-20262](https://vulners.com/circl/CIRCL:CVE-2026-20262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-20262](https://vulners.com/cve/CVE-2026-20262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49356](https://vulners.com/cve/CVE-2026-49356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49775](https://vulners.com/circl/CIRCL:CVE-2026-49775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50184](https://vulners.com/cve/CVE-2026-50184?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5038](https://vulners.com/nvd/NVD:CVE-2026-5038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5233](https://vulners.com/circl/CIRCL:CVE-2026-5233?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5242](https://vulners.com/circl/CIRCL:CVE-2026-5242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53550](https://vulners.com/cve/CVE-2026-53550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6517](https://vulners.com/circl/CIRCL:CVE-2026-6517?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8683](https://vulners.com/nvd/NVD:CVE-2026-8683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9595](https://vulners.com/nvd/NVD:CVE-2026-9595?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9862](https://vulners.com/nvd/NVD:CVE-2026-9862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9863](https://vulners.com/nvd/NVD:CVE-2026-9863?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Portwell Engineering_Toolkits](https://vulners.com/githubexploit/13CA0CE8-12D1-54FC-9A7F-66AE9C6F4402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [JS-YAML: Quadratic-complexity DoS in merge key handling via repeated aliases](https://vulners.com/github/GHSA-H67P-54HQ-RP68?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers](https://vulners.com/thn/THN:DED9C232B49BBF1CB0977760C793F104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
