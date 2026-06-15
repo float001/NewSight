@@ -1,8 +1,29 @@
 # 今日安全资讯（2026-06-15）
 
 - 36氪
+  - [8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买](https://36kr.com/p/3853670570743040?f=rss)
+  - [SK海力士、三星电子股价均上涨超过6%](https://36kr.com/newsflashes/3853677045142537?f=rss)
   - [SpaceX上市驱动航天ETF反弹，太空产业迎定价��起点](https://36kr.com/newsflashes/3853618049946886?f=rss)
+  - [“10元基”数量破百只，存在三大类投资策略](https://36kr.com/newsflashes/3853661705196545?f=rss)
+  - [“恐慌性抛售”来得有点快，原油期货净多头寸较峰值已腰斩](https://36kr.com/newsflashes/3853634098205705?f=rss)
+  - [三星集团成立能源业务特别工作组](https://36kr.com/newsflashes/3853660937163781?f=rss)
+  - [公募加速布局量化“固收+”，知名量化基金经理相继入局](https://36kr.com/newsflashes/3853660123632902?f=rss)
+  - [包容性改革全链条护航，资本市场加力支持科技创新](https://36kr.com/newsflashes/3853640571458822?f=rss)
+  - [北交所公司调研热度攀升，新能源与医药赛道受关注](https://36kr.com/newsflashes/3853639504303360?f=rss)
+  - [华泰证券A股策略：短期建议均衡配置，待科技板块拥挤度压力释放后吸筹](https://36kr.com/newsflashes/3853675443852291?f=rss)
+  - [华泰证券：政策首提2030年新能源重卡目标，利好国内动力电池及绿氢产业链](https://36kr.com/newsflashes/3853670728209666?f=rss)
+  - [华泰证券：预计美联储6月会议维持利率不变](https://36kr.com/newsflashes/3853657440867592?f=rss)
+  - [年内216只公募基金宣布提前结束募集](https://36kr.com/newsflashes/3853642697774086?f=rss)
+  - [年内公募机构162名高管发生变动](https://36kr.com/newsflashes/3853663643325441?f=rss)
+  - [新发火爆与基金限购并行，公募求解规模业绩平衡难题](https://36kr.com/newsflashes/3853643375875072?f=rss)
+  - [月内153只债基合计分红超45亿元](https://36kr.com/newsflashes/3853636279047431?f=rss)
+  - [海外市场需求持续。业内预计铝产业有望迎来新一轮景气周期](https://36kr.com/newsflashes/3853637916972289?f=rss)
+  - [点心债年内发行量同比增超50%](https://36kr.com/newsflashes/3853662907831557?f=rss)
+  - [相关风险事项清除，7家公司集中“摘帽”](https://36kr.com/newsflashes/3853645953815554?f=rss)
+  - [美伊确认达成协议，国际油价显著下跌](https://36kr.com/newsflashes/3853658602034184?f=rss)
   - [美联储6月维持利率不变的概率为98.5%](https://36kr.com/newsflashes/3853615125828870?f=rss)
+  - [首批商业不动产REITs本周上市交易，机构投资者持有份额占比超90%](https://36kr.com/newsflashes/3853635429750016?f=rss)
+  - [高能同步辐射光源计划年内正式运行](https://36kr.com/newsflashes/3853637219931398?f=rss)
 - Emergent Minds | paddo.dev
   - [One Went Dark, Two Went Open](https://paddo.dev/blog/one-went-dark-two-went-open/)
 - Hacker News Frontpage
@@ -14,6 +35,8 @@
   - [Swiss voters reject proposal to cap population at ten million](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146)
 - HackerNoon
   - [The New AI Power Struggle](https://hackernoon.com/the-new-ai-power-struggle?source=rss)
+- simonwillison.net
+  - [Why AI hasn’t replaced software engineers, and won’t](https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2022-30190 exploit](https://sploitus.com/exploit?id=28DF07CC-C023-564E-AD8F-1E0B61DE5982&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-36826 exploit](https://sploitus.com/exploit?id=1E3DE00B-953D-5D10-9EA1-764534FCBE4E&utm_source=rss&utm_medium=rss)
@@ -35,10 +58,19 @@
   - [CVE-2026-12186](https://vulners.com/nvd/NVD:CVE-2026-12186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12186 GL.iNet GL-MT3000 Tor Proxy Service Configuration tor replace_country command injection](https://vulners.com/cve/CVE-2026-12186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12186 GL.iNet GL-MT3000 Tor Proxy Service Configuration tor replace_country command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-12186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12187](https://vulners.com/nvd/NVD:CVE-2026-12187?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12188](https://vulners.com/nvd/NVD:CVE-2026-12188?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12188 Grit42 Grit GritEntityController grit_entity_controller.rb sql injection](https://vulners.com/cve/CVE-2026-12188?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12188 Grit42 Grit GritEntityController grit_entity_controller.rb sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-12188?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12189](https://vulners.com/nvd/NVD:CVE-2026-12189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12189 Moovit Bus & Public Transit App com.tranzmate improper authorization in handler for custom url scheme](https://vulners.com/cve/CVE-2026-12189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12189 Moovit Bus & Public Transit App com.tranzmate improper authorization in handler for custom url scheme](https://vulners.com/cvelist/CVELIST:CVE-2026-12189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12190](https://vulners.com/nvd/NVD:CVE-2026-12190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12191](https://vulners.com/nvd/NVD:CVE-2026-12191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12192 GALAYOU Y4 Web Server buffer overflow](https://vulners.com/cve/CVE-2026-12192?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12192 GALAYOU Y4 Web Server buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-12192?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12193 VS Revo RevoUninstaller IOCTL RevoDetector.sys IOCtl_Handler heap-based overflow](https://vulners.com/cve/CVE-2026-12193?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12193 VS Revo RevoUninstaller IOCTL RevoDetector.sys IOCtl_Handler heap-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-12193?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47701 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-47701?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54410](https://vulners.com/cve/CVE-2026-54410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54410](https://vulners.com/cvelist/CVELIST:CVE-2026-54410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -56,3 +88,5 @@
   - [Upcoming Speaking Engagements](https://vulners.com/schneier/SCHNEIER:3CCB3946D6B1A64DB51289883DB8900F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [研究：7成AI职位属高级岗位 新人入行更难](https://blog.upx8.com/%E7%A0%94%E7%A9%B6-7%E6%88%90AI%E8%81%8C%E4%BD%8D%E5%B1%9E%E9%AB%98%E7%BA%A7%E5%B2%97%E4%BD%8D-%E6%96%B0%E4%BA%BA%E5%85%A5%E8%A1%8C%E6%9B%B4%E9%9A%BE)
