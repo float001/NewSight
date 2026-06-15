@@ -1,9 +1,48 @@
 # 今日安全资讯（2026-06-16）
 
+- 2Libra
+  - [如何看待花钱上班？](https://2libra.com/post/workplace-stories/xuyvCYn)
+- Cybersecurity News
+  - [Cisco SD-WAN Vulnerability Exploited in the Wild: Patch CVE-2026-20262 Now](https://securityonline.info/cisco-sd-wan-vulnerability-cve-2026-20262/)
+- darkreading
+  - [China-Nexus Actor Spy on US Researchers Undetected for a Year](https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected)
+- infosecurity-magazine.com
+  - [Adriatic Port Cyber-Attack by Anubis Sparks Warning Over Maritime Security Risks](https://www.infosecurity-magazine.com/news/anubis-ransomware-adriatic-port/)
+  - [Attackers Hijack Popular WordPress Plugins to Deploy Backdoors](https://www.infosecurity-magazine.com/news/wordpress-plugin-supply-chain/)
+- ProjectDiscovery.io | Blog
+  - [Continuous PR Security Review](https://projectdiscovery.io/blog/continuous-pr-security-review)
 - Sonar Blog
   - [Claude Fable 5's pricing makes Sonar Context Augmentation a potent cost lever](https://www.sonarsource.com/blog/claude-fable-5-pricing-makes-sonar-context-augmentation-a-potent-cost-lever/)
   - [Sonar Leaders recognized as EY Entrepreneur Of The Year Winners for the Gulf South region](https://www.sonarsource.com/blog/sonar-leaders-recognized-as-ey-entrepreneur-of-the-year/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Portwell Engineering_Toolkits exploit](https://sploitus.com/exploit?id=13CA0CE8-12D1-54FC-9A7F-66AE9C6F4402&utm_source=rss&utm_medium=rss)
+- VulDB Recent Entries
+  - [CVE-2025-15658 | rewish WP Emmet Plugin up to 0.3.4 on WordPress cross site scripting](https://vuldb.com/vuln/370933)
+  - [CVE-2025-15659 | liseperu Elizaibots Plugin up to 1.0.2 on WordPress cross site scripting](https://vuldb.com/vuln/370926)
+  - [CVE-2026-10634 | zephyrproject zephyr up to 4.4.x subsys/net/ip/tcp.c net_tcp_foreach use after free (GHSA-6c57-xfhw-j26x)](https://vuldb.com/vuln/370927)
+  - [CVE-2026-5038 | multer up to 2.1.x/3.0.0-alpha.1 Multipart Upload Readable.pipe cleanup (GHSA-3p4h-7m6x-2hcm)](https://vuldb.com/vuln/370930)
+  - [CVE-2026-8683 | Mattermost Desktop App up to 5.5.13/6.1.x window.open allocation of resources](https://vuldb.com/vuln/370932)
+  - [CVE-2026-9595 | webpack-dev-server up to 5.2.4 origin validation (GHSA-mx8g-39q3-5c79)](https://vuldb.com/vuln/370928)
+  - [CVE-2026-9862 | Fortra Core Privileged Access Manager os command injection](https://vuldb.com/vuln/370929)
+  - [CVE-2026-9863 | Fortra Core Privileged Access Manager os command injection](https://vuldb.com/vuln/370931)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [What Changed in OWASP Top 10 2025 and Recommendations for Each Category](https://blog.qualys.com/category/qualys-insights)
+- Vulners.com RSS Feed
+  - [CVE-2025-15658](https://vulners.com/nvd/NVD:CVE-2025-15658?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-15659](https://vulners.com/nvd/NVD:CVE-2025-15659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10634](https://vulners.com/nvd/NVD:CVE-2026-10634?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-20262](https://vulners.com/circl/CIRCL:CVE-2026-20262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-20262](https://vulners.com/cve/CVE-2026-20262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49775](https://vulners.com/circl/CIRCL:CVE-2026-49775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5038](https://vulners.com/nvd/NVD:CVE-2026-5038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5233](https://vulners.com/circl/CIRCL:CVE-2026-5233?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5242](https://vulners.com/circl/CIRCL:CVE-2026-5242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6517](https://vulners.com/circl/CIRCL:CVE-2026-6517?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8683](https://vulners.com/nvd/NVD:CVE-2026-8683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9595](https://vulners.com/nvd/NVD:CVE-2026-9595?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9862](https://vulners.com/nvd/NVD:CVE-2026-9862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9863](https://vulners.com/nvd/NVD:CVE-2026-9863?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Portwell Engineering_Toolkits](https://vulners.com/githubexploit/13CA0CE8-12D1-54FC-9A7F-66AE9C6F4402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers](https://vulners.com/thn/THN:DED9C232B49BBF1CB0977760C793F104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
