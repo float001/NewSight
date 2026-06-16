@@ -8,6 +8,8 @@
   - [我今天的潘多拉盒子是~~~](https://2libra.com/post/forum-function/uR5PHgG)
   - [有哪些勋章是好获得的？](https://2libra.com/post/forum-function/hy09cyr)
   - [端午节大家怎么过？](https://2libra.com/post/festival-things/rt4o3FX)
+- 36氪
+  - [美股三大指数收盘涨跌不一，热门中概股普跌](https://36kr.com/newsflashes/3856439885714693?f=rss)
 - aresluna.org
   - [Key, in sight](https://aresluna.org/key-in-sight)
 - Ars Technica
@@ -17,6 +19,7 @@
 - daringfireball.net
   - [New in the App Store: Personalized Recommendations](https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/)
 - darkreading
+  - [Fileless Phantom Stealer Targets Browser Credentials](https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials)
   - [Rokarolla Android Trojan Levels Up to Full Device Control, Persistence](https://www.darkreading.com/endpoint-security/rokarolla-android-trojan)
   - [Security Community Slams US Ban on Exporting Mythos, Fable](https://www.darkreading.com/vulnerabilities-threats/security-community-slams-us-ban-on-exporting-mythos-fable)
   - [SprySOCKS Windows Variant Abuses Kernel Drivers to Evade Detection](https://www.darkreading.com/threat-intelligence/sprysocks-windows-variant-kernel-drivers)
@@ -35,6 +38,7 @@
   - [Never talk to the police](https://www.campolalaw.com/why-you-should-never-talk-to-the-po)
   - [Nobody clicks your share buttons](https://ankursethi.com/links/nobody-clicks-your-share-buttons/)
   - [The octopus architecture for AI agents](https://blog.goodman.dev/blog/octopus-agent-architecture/)
+  - [The UK's Teen Social Media Ban Is Political Theater, Not Child Safety Policy](https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/)
   - [U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears](https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874)
 - HackerNoon
   - [Assurance Cases Are Not Paperwork: Why Safety and Security Need One Argument, Not Two](https://hackernoon.com/assurance-cases-are-not-paperwork-why-safety-and-security-need-one-argument-not-two?source=rss)
@@ -54,6 +58,8 @@
 - MIT Technology Review
   - [Exclusive eBook: How AI is becoming the next military advisor](https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/)
 - NVIDIA AI Blog
+  - [Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone](https://blogs.nvidia.com/blog/coherent-texas-ai-optical/)
+  - [Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses](https://blogs.nvidia.com/blog/nvidia-xr-ai/)
   - [HPE AI Factory With NVIDIA Expands for the Era of Agents](https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/)
 - Sonar Blog
   - [SonarQube CLI brings multilayered verification to agentic development](https://www.sonarsource.com/blog/sonarqube-cli-brings-multilayered-verification-to-agentic-development/)
@@ -64,9 +70,12 @@
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=B4A0D8E4-449F-53A9-90ED-6F8D2F6BE281&utm_source=rss&utm_medium=rss)
   - [Grimoire exploit](https://sploitus.com/exploit?id=C3D0F122-BC3F-5AAC-9F18-FA8CB3F96BF4&utm_source=rss&utm_medium=rss)
   - [OffSploit exploit](https://sploitus.com/exploit?id=415A117B-A28B-5B94-A898-C38DDF911AB1&utm_source=rss&utm_medium=rss)
+  - [vulnerability-playtest exploit](https://sploitus.com/exploit?id=E09C528A-9722-5F5D-A7F6-364CB43507B7&utm_source=rss&utm_medium=rss)
   - [vulnerability-scanner exploit](https://sploitus.com/exploit?id=ADE8E0AB-8030-5810-ACB5-37D6ED098B49&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Android 17 launches with new multitasking tools as Google expands Gemini features](https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/)
+  - [Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests](https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/)
+  - [Apple plans to change its Hide My Email privacy feature that could make it less effective](https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/)
   - [Bug in FIFA World Cup internal system gave anyone ability to modify TV stream](https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/)
   - [Mobileye’s US robotaxi launch will put it on both sides of the AV business](https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/)
   - [Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end](https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/)
@@ -200,6 +209,8 @@
   - [CVE-2026-48524 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-48524?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48525 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-48525?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48526 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-48526?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48745 Traccar Client: silent configuration hijack via unverified deep link redirects all GPS telemetry](https://vulners.com/cve/CVE-2026-48745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48745 Traccar Client: silent configuration hijack via unverified deep link redirects all GPS telemetry](https://vulners.com/cvelist/CVELIST:CVE-2026-48745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48746](https://vulners.com/cve/CVE-2026-48746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48748 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-48748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48775](https://vulners.com/nvd/NVD:CVE-2026-48775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -297,6 +308,7 @@
   - [Security Bulletin:  IBM WebSphere Application Server is affected by a remote code execution vulnerability (CVE-2026-9319)](https://vulners.com/ibm/39BC70D0043A13F2BC2003A0BB0D69747960D54781A1431031A2BB75238CF091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vLLM: OpenAI auth bypass](https://vulners.com/github/GHSA-94F4-HR76-P5J6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vLLM: Security Check Bypass via assert Statement in Activation Function Loading Allows Arbitrary Code Execution](https://vulners.com/github/GHSA-Q8GQ-377P-JQ3R?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [vulnerability-playtest](https://vulners.com/githubexploit/E09C528A-9722-5F5D-A7F6-364CB43507B7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vulnerability-scanner](https://vulners.com/githubexploit/ADE8E0AB-8030-5810-ACB5-37D6ED098B49?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Best Robot Vacuum of 2026: Shark, Eufy](https://www.wired.com/story/best-robot-vacuum/)
