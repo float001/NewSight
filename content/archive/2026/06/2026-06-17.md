@@ -3,6 +3,10 @@
 - 2Libra
   - [【潘多拉魔盒】卡皮巴拉空降成功！](https://2libra.com/post/game-discussion/nEhfs-K)
   - [我中了](https://2libra.com/post/sharing-discoveries/lfdYJVi)
+- aresluna.org
+  - [Key, in sight](https://aresluna.org/key-in-sight)
+- Ars Technica
+  - [Pentagon boasts of using AI to write reports mandated by Congress](https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/)
 - Cybersecurity News
   - [ShapedPlugin Supply Chain Attack Exposes WordPress Sites](https://securityonline.info/shapedplugin-supply-chain-attack/)
 - daringfireball.net
@@ -32,14 +36,20 @@
   - [Exploit for CVE-2025-49132 exploit](https://sploitus.com/exploit?id=E01E3A92-8F76-5028-86CD-A0E72231D865&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-55168 exploit](https://sploitus.com/exploit?id=991EB70F-4BBC-503F-933C-F7F6F0BCFE29&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=B4A0D8E4-449F-53A9-90ED-6F8D2F6BE281&utm_source=rss&utm_medium=rss)
+  - [Grimoire exploit](https://sploitus.com/exploit?id=C3D0F122-BC3F-5AAC-9F18-FA8CB3F96BF4&utm_source=rss&utm_medium=rss)
   - [OffSploit exploit](https://sploitus.com/exploit?id=415A117B-A28B-5B94-A898-C38DDF911AB1&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Android 17 launches with new multitasking tools as Google expands Gemini features](https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/)
+  - [Bug in FIFA World Cup internal system gave anyone ability to modify TV stream](https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/)
   - [Mobileye’s US robotaxi launch will put it on both sides of the AV business](https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/)
+  - [Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end](https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/)
   - [Rivian cuts hundreds of workers after R2 deliveries start](https://techcrunch.com/2026/06/16/rivian-cuts-hundreds-of-workers-after-r2-deliveries-start/)
   - [Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds](https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/)
   - [Snap finally debuts its long awaited AR glasses, Specs, and, oof, they aren’t cheap](https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/)
+- The Decoder
+  - [Berlin court rules Google's AI Overviews are just a new search format, not original content](https://the-decoder.com/berlin-court-rules-googles-ai-overviews-are-just-a-new-search-format-not-original-content/)
 - The Verge
+  - [All the latest news on Android 17, Wear OS 7, and Android XR](https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr)
   - [Android 17 arrives on Pixel phones today](https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction)
   - [Everything you need to know about Prime Day 2026](https://www.theverge.com/gadgets/945942/prime-day-2026-frequently-asked-questions)
   - [Google launches Wear OS 7 with Live Updates and a battery life boost](https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch)
@@ -78,6 +88,7 @@
   - [Exploit for CVE-2025-49132](https://vulners.com/githubexploit/E01E3A92-8F76-5028-86CD-A0E72231D865?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-55168](https://vulners.com/githubexploit/991EB70F-4BBC-503F-933C-F7F6F0BCFE29?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel](https://vulners.com/githubexploit/B4A0D8E4-449F-53A9-90ED-6F8D2F6BE281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Grimoire](https://vulners.com/githubexploit/C3D0F122-BC3F-5AAC-9F18-FA8CB3F96BF4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: Red Hat OpenShift Data Foundation 4.16.30 security, enhancement & bug fix update](https://vulners.com/redhat/RHSA-2026:26416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Langflow: IDOR/BOLA in Monitor API — Missing Ownership Enforcement on 7 Endpoints](https://vulners.com/github/GHSA-9C59-2MVC-VFR8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Langflow: Path Traversal in Knowledge Bases API via Creation Endpoint](https://vulners.com/github/GHSA-79PH-745M-6WXQ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -91,6 +102,7 @@
 - Wired
   - [Best Robot Vacuum of 2026: Shark, Eufy](https://www.wired.com/story/best-robot-vacuum/)
   - [Nimble’s New Modular Power Bank Can Be Shared With a Friend](https://www.wired.com/story/nimble-sharepower-rave/)
+  - [Why the Reflecting Pool Is Full of Algae After Trump's Renovation](https://www.wired.com/story/reflecting-pool-full-of-algae-climate-change/)
   - [You Can Finally Buy Snap’s New AR Specs—for $2,150](https://www.wired.com/story/snaps-new-ar-specs-cost-2150/)
   - [‘Dangerous’ AI Models Are Coming No Matter What](https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/)
 - 代码审计星球
