@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-06-16）
 
 - 2Libra
+  - [【投票】产品派全新版本上线，欢迎大佬反馈～](https://2libra.com/post/personal-works/iR-KgdC)
   - [【💰】《在超市后门吸烟的二人》动画点评：9 分](https://2libra.com/post/movie-experience/eaC92ve)
   - [【💰】今天的潘多拉很不错，见者有份](https://2libra.com/post/forum-function/ftPw40t)
   - [【💰】从金币回收计划到卡皮巴拉](https://2libra.com/post/forum-function/9irhY4P)
@@ -10,6 +11,7 @@
   - [大家都有自己的目标吗](https://2libra.com/post/questions/a8GpIIY)
   - [如何看待花钱上班？](https://2libra.com/post/workplace-stories/xuyvCYn)
   - [工友们，有木有什么靠谱点的副业啊~~~](https://2libra.com/post/side-business/ZjVDsr9)
+  - [有没有感觉最近抖音画质下降一万倍](https://2libra.com/post/tech-fun/VKbchDc)
   - [记第一次长途出差](https://2libra.com/post/personal-life/Q89U9nD)
 - 36氪
   - [20余家券商扎堆修订薪酬制度，追索与扣回机制覆盖离退休人员](https://36kr.com/newsflashes/3855025949676806?f=rss)
@@ -18,6 +20,7 @@
   - [AI PC出货量持续增长，产业链公司加紧布局](https://36kr.com/newsflashes/3855026521412608?f=rss)
   - [AI版支付宝正式推出](https://36kr.com/newsflashes/3855257494639874?f=rss)
   - [A股“分步并购”悄然流行，2025年以来十余家公司实施相关资本运作](https://36kr.com/newsflashes/3855091987715073?f=rss)
+  - [A股三大指数午间休盘集体上涨，玻纤概念领涨](https://36kr.com/newsflashes/3855299088258054?f=rss)
   - [A股三大指数开盘涨跌不一，光模块概念走强](https://36kr.com/newsflashes/3855175822202116?f=rss)
   - [A股锁价定增市场化提速，多家公司将定价基准日“后移”](https://36kr.com/newsflashes/3855127741142017?f=rss)
   - [ETF总规模达4.7万亿元，公募机构激烈角逐](https://36kr.com/newsflashes/3855066105025796?f=rss)
@@ -31,14 +34,18 @@
   - [中���证券：工商业土地使用权续期将有助于盘活存量资产](https://36kr.com/newsflashes/3855126446183429?f=rss)
   - [亚马逊宣布投资100亿美元在美国密苏里州建设数据中心园区](https://36kr.com/newsflashes/3855094147224577?f=rss)
   - [人民币兑美元中间价报6.8108，下调20.00点](https://36kr.com/newsflashes/3855168611128322?f=rss)
+  - [今年前5个月我国综保区货物贸易进出口同比增长27.1%](https://36kr.com/newsflashes/3855266714342656?f=rss)
   - [优步将投资逾20亿美元扩张日本业务](https://36kr.com/newsflashes/3854593666995459?f=rss)
+  - [传苹果首款折叠屏将延期发布 产业链人士：假的](https://36kr.com/newsflashes/3855287784969473?f=rss)
   - [光伏需求下半年有望复苏，机构积极评级三十二股](https://36kr.com/newsflashes/3855030139900932?f=rss)
   - [创业板指涨超1%](https://36kr.com/newsflashes/3855183646315523?f=rss)
   - [创业板指涨超2%](https://36kr.com/newsflashes/3855253701432327?f=rss)
   - [半导体行业高景气延续可期，39家公司业绩预期获机构上调](https://36kr.com/newsflashes/3855095927133186?f=rss)
+  - [半日主力资金加仓电子股，抛售交通运输股](https://36kr.com/newsflashes/3855312741176321?f=rss)
   - [华泰证券：AI正在推动游戏行业从内容工业向智能互动工业演进](https://36kr.com/newsflashes/3855073091752966?f=rss)
   - [华泰证券：工信部提升光伏组件效率标准，行业拐点或逐步显现](https://36kr.com/newsflashes/3855091081188356?f=rss)
   - [受高油价影响，5月份全球纯电和插电式混动汽车销量连续三个月增长](https://36kr.com/newsflashes/3855093304562694?f=rss)
+  - [国家大基金等退出中芯北方](https://36kr.com/newsflashes/3855281613837571?f=rss)
   - [国家统计局：1—5月份社会消费品零售总额增长1.4%](https://36kr.com/newsflashes/3855211422192641?f=rss)
   - [国家统计局：5月份一二三线城市商品住宅销售价格同比降幅总体收窄](https://36kr.com/newsflashes/3855182645302272?f=rss)
   - [国家统计局：5月份一线城市新建商品住宅销售价格环比上涨0.2%](https://36kr.com/newsflashes/3855181937431808?f=rss)
@@ -53,18 +60,23 @@
   - [小牛自动化启动IPO辅导](https://36kr.com/newsflashes/3855217600549894?f=rss)
   - [市场监管总局无条件批准亿纬锂能收购亿纬集能](https://36kr.com/newsflashes/3855202078528520?f=rss)
   - [德国劳动年龄人口十年后或减少430万](https://36kr.com/newsflashes/3855188895651076?f=rss)
+  - [恒指午间休盘跌1.25%，恒生科技指数跌1.61%](https://36kr.com/newsflashes/3855328927307017?f=rss)
   - [恒指开盘跌0.07%，恒生科技指数平开](https://36kr.com/newsflashes/3855171517502466?f=rss)
   - [扬杰科技：拟变更部分募集资金投资项目](https://36kr.com/newsflashes/3855120848672007?f=rss)
   - [揽储利器悄然下架，中小银行告别“高息揽储”路径依赖](https://36kr.com/newsflashes/3855073972851720?f=rss)
   - [支付宝新产品Token Pay，首接最新国产大模型MiniMax M3](https://36kr.com/newsflashes/3855194216485890?f=rss)
   - [日本央行周二料加息至31年来最高水平](https://36kr.com/newsflashes/3855116858938377?f=rss)
+  - [日本央行宣布加息，将政策利率上调至1.0%](https://36kr.com/newsflashes/3855289690248451?f=rss)
+  - [日经225指数历史首次突破70000点](https://36kr.com/newsflashes/3855312152974343?f=rss)
   - [消息称三星晶圆代工首获马斯克Neuralink芯片制造订单](https://36kr.com/newsflashes/3855121987113984?f=rss)
   - [清微智能IPO辅导状态变更为“辅导验收”](https://36kr.com/newsflashes/3855218182820873?f=rss)
   - [理想公布马赫VLA能力的进化目标](https://36kr.com/newsflashes/3855231958897923?f=rss)
   - [理想汽车：计划授出3500万份购股权及555.72万份受限制股份单位](https://36kr.com/newsflashes/3855067197297665?f=rss)
   - [电子特气生产企业爆单](https://36kr.com/newsflashes/3854584022013186?f=rss)
+  - [硅基流动完成新一轮超20亿元融资](https://36kr.com/newsflashes/3855302945592321?f=rss)
   - [福克斯公司宣布以约220亿美元收购Roku，打造流媒体与直播内容融合平台](https://36kr.com/newsflashes/3855106773980160?f=rss)
   - [美国汽油价格跌破每加仑4美元心理关卡，为4月以来首见](https://36kr.com/newsflashes/3855081339999232?f=rss)
+  - [美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼](https://36kr.com/newsflashes/3855284930614528?f=rss)
   - [美国零售经纪商处的SpaceX投资者每人至少分得一股IPO股票](https://36kr.com/newsflashes/3855106004866310?f=rss)
   - [美纳里尼、阿里健康与北大第一医院张志超教授联袂对话，为男性健康管理提供清晰路径](https://36kr.com/newsflashes/3855253314655494?f=rss)
   - [美股三大指数集体收涨，SpaceX大涨超19%](https://36kr.com/newsflashes/3855024655455232?f=rss)
@@ -105,6 +117,9 @@
   - [The Dead Economy Theory](https://gmalandrakis.com/writings/ad-economicum.html)
   - [US battery manufacturing output continues to break records](https://fred.stlouisfed.org/series/IPG33591S)
   - [US Government Reportedly Allowing Federal Data Center Rules to Expire](https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083)
+- HackerNews
+  - [LiteLLM 漏洞链让低权限用户接管 AI 网关服务器](http://0.0.0.0:8080/post/64344)
+  - [朝鲜黑客正将开发者工具变为恶意软件投递渠道](http://0.0.0.0:8080/post/64345)
 - IEEE Spectrum
   - [Engineering Is Critical to Boosting Food Security](https://spectrum.ieee.org/engineering-critical-food-security)
 - infosecurity-magazine.com
@@ -121,6 +136,7 @@
   - [Continuous PR Security Review](https://projectdiscovery.io/blog/continuous-pr-security-review)
 - simonwillison.net
   - [Cloudflare CAPTCHA on at least one ampersand](https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything)
+  - [Quoting Matteo Wong, The Atlantic](https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything)
 - Sonar Blog
   - [Claude Fable 5's pricing makes Sonar Context Augmentation a potent cost lever](https://www.sonarsource.com/blog/claude-fable-5-pricing-makes-sonar-context-augmentation-a-potent-cost-lever/)
   - [Sonar Leaders recognized as EY Entrepreneur Of The Year Winners for the Gulf South region](https://www.sonarsource.com/blog/sonar-leaders-recognized-as-ey-entrepreneur-of-the-year/)
@@ -346,6 +362,7 @@
   - [CVE-2026-6517](https://vulners.com/circl/CIRCL:CVE-2026-6517?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7273](https://vulners.com/cve/CVE-2026-7273?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7273](https://vulners.com/cvelist/CVELIST:CVE-2026-7273?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7273](https://vulners.com/nvd/NVD:CVE-2026-7273?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8356](https://vulners.com/nvd/NVD:CVE-2026-8356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8357](https://vulners.com/nvd/NVD:CVE-2026-8357?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8358](https://vulners.com/nvd/NVD:CVE-2026-8358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -386,6 +403,7 @@
   - [LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers](https://vulners.com/thn/THN:DED9C232B49BBF1CB0977760C793F104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in carousel-controller-mixin (npm)](https://vulners.com/ossf/OSSF:MAL-2026-5856?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in setka-editor (npm)](https://vulners.com/ossf/OSSF:MAL-2026-5859?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Mr-Robot-CTF-Automation-Scripts](https://vulners.com/githubexploit/B330A5D9-A16C-5448-ACE0-A24AA4413B17?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels](https://vulners.com/thn/THN:5ECAD1271CF75693FD227FF64E64A476?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [python-multipart: Content-Disposition parameter smuggling via RFC 2231/5987 extended parameters](https://vulners.com/github/GHSA-VFFW-93WF-4J4Q?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [python-multipart: Negative Content-Length in parse_form buffers the entire body in memory](https://vulners.com/github/GHSA-V9PG-7XVM-68HF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -403,11 +421,15 @@
   - [Tornado: Authorization header forwarded across cross-origin redirects in SimpleAsyncHTTPClient](https://vulners.com/github/GHSA-3X9G-8VMP-WQVF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [AI's Brokenomics](https://www.wheresyoured.at/brokenomics/)
+  - [Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion](https://www.wheresyoured.at/exclusive-openai-financials/)
 - Wired
   - [Anthropic Is Still at Odds With the White House Over Claude Fable 5](https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/)
+  - [DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in NAACP Lawsuit](https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/)
   - [Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’](https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/)
   - [TCL A65K Soundbar Review: Small Size, Big Sound](https://www.wired.com/review/tcl-a65k-soundbar/)
   - [The 15 Best Fans to Buy Before It Gets Hot Again (2026)](https://www.wired.com/story/the-best-fans-2026/)
+- 不安全
+  - [A社宣布暂缓Claude订阅规则变更 开发者可以继续在第三方应用中使用订阅额度](https://buaq.net/go-423287.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -417,3 +439,4 @@
   - [Meta喊停Token消耗战 明年起将限制预算](https://blog.upx8.com/Meta%E5%96%8A%E5%81%9CToken%E6%B6%88%E8%80%97%E6%88%98-%E6%98%8E%E5%B9%B4%E8%B5%B7%E5%B0%86%E9%99%90%E5%88%B6%E9%A2%84%E7%AE%97)
   - [摩根士丹利：硬盘驱动器短缺或延至2028](https://blog.upx8.com/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9-%E7%A1%AC%E7%9B%98%E9%A9%B1%E5%8A%A8%E5%99%A8%E7%9F%AD%E7%BC%BA%E6%88%96%E5%BB%B6%E8%87%B32028)
   - [福克斯宣布220亿美元收购Roku平台](https://blog.upx8.com/%E7%A6%8F%E5%85%8B%E6%96%AF%E5%AE%A3%E5%B8%83220%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%ADRoku%E5%B9%B3%E5%8F%B0)
+  - [谷歌地球的“飞行模拟器”功能在网页端上线](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%9C%B0%E7%90%83%E7%9A%84-%E9%A3%9E%E8%A1%8C%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%8A%9F%E8%83%BD%E5%9C%A8%E7%BD%91%E9%A1%B5%E7%AB%AF%E4%B8%8A%E7%BA%BF)
