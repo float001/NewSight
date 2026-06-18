@@ -2,8 +2,11 @@
 
 - 2Libra
   - [27 号用户。。社区已经这么大了](https://2libra.com/post/forum-function/s3XnDtt)
+  - [没想到端午高速也这么塞车](https://2libra.com/post/personal-life/s2hHoWr)
 - 404 Media
   - [A New Fossil Discovery Just Rewrote 150 Years of Evolutionary Theory](https://www.404media.co/a-new-fossil-discovery-just-rewrote-150-years-of-evolutionary-theory/)
+- Ars Technica
+  - [After Senate vote, Trump admin backs off plans to kill ocean monitoring](https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/)
 - Cybersecurity News
   - [Node.js Security Updates: Urgent Action Required](https://securityonline.info/nodejs-security-updates/)
   - [Splunk CVE-2026-20253: CVSS 9.8 RCE Exploited in the Wild](https://securityonline.info/splunk-cve-2026-20253-rce-exploited/)
@@ -11,24 +14,42 @@
   - [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html)
   - [New Domain for Sign In With Apple and iCloud+ Hide My Email](https://developer.apple.com/news/?id=sus6t6ab)
   - [SpaceX, Newly Public, to Acquire Cursor for $60 Billion in SpaceX Funny-Money Stock](https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html)
+- darkreading
+  - [FIFA Bug Exposed World Cup Streams to Remote Takeover](https://www.darkreading.com/application-security/fifa-bug-world-cup-streams-remote-takeover)
 - Fidelis Security
   - [How does deception-based threat detection work in cloud and hybrid environments?](https://fidelissecurity.com/threatgeek/deception/deception-based-threat-detection-in-cloud-and-hybrid-environments/)
 - Hacker News Frontpage
+  - [Ask HN: What is the job market like?](https://news.ycombinator.com/item?id=48589357)
   - [Migrating from GNU Stow to Chezmoi](https://rednafi.com/misc/chezmoi/)
+  - [The AI Hate Progression](https://www.xodium.net/2026/06/the-ai-hate-progression.html)
   - [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
 - krebsonsecurity.com
   - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
+- Linux Foundation Blogs
+  - [Linux Foundation Newsletter: June 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026)
+- ProjectDiscovery.io | Blog
+  - [The Vulnerability Curve Bent With the AI Curve](https://projectdiscovery.io/blog/the-vulnerability-curve-bent-with-the-ai-curve)
 - TechCrunch
   - [AI data centers just got a government-mandated fast lane to the grid](https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/)
+  - [Almost half of U.S. singles feel negatively about AI in dating, Match says](https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/)
+  - [Amazon hopes to challenge Nvidia more directly by selling its AI chips](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)
   - [Mivo’s new app takes a mindful approach to managing screen time](https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/)
   - [Rivian owners sue over false promises on self-driving features](https://techcrunch.com/2026/06/18/rivian-owners-sue-over-false-promises-on-self-driving-features/)
   - [Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports](https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/)
   - [The smartphone era created an attention crisis. Slowtech is fixing it](https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/)
   - [‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone](https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/)
+- text/plain
+  - [A Quarter Century in Tech](https://textslashplain.com/2026/06/18/a-quarter-century-in-tech/)
+- The Decoder
+  - [Alleged China ties at SK Telecom alarmed US officials and triggered Anthropic crisis](https://the-decoder.com/alleged-china-ties-at-sk-telecom-alarmed-us-officials-and-triggered-anthropic-crisis/)
+  - [Anthropic brings Artifacts to Claude Code, letting teams share live pages from coding sessions](https://the-decoder.com/anthropic-brings-artifacts-to-claude-code-letting-teams-share-live-pages-from-coding-sessions/)
+  - [Google Deepmind treats its own AI agents like rogue employees with office keys](https://the-decoder.com/google-deepmind-treats-its-own-ai-agents-like-rogue-employees-with-office-keys/)
 - The Verge
   - [A year of Walmart Plus is half off ahead of Prime Day](https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale)
   - [Firefox’s new home page widgets are helping me focus](https://www.theverge.com/tech/952354/firefox-home-page-widgets)
+  - [The best early Amazon Prime Day deals so far](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals)
   - [The Onion’s rebooted InfoWars is coming July 2nd](https://www.theverge.com/news/952264/the-onion-infowars-takeover-alex-jones-relaunch)
+  - [This robotic self-driving toilet comes to you](https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet)
 - VulDB Recent Entries
   - [CVE-2025-27511 | geoserver org..extension:gs-db2 up to 2.26.x deserialization (GHSA-g628-r368-6vh7)](https://vuldb.com/vuln/372228)
   - [CVE-2025-32392 | Significant-Gravitas AutoGPT up to 0.6.62 resource consumption (GHSA-267x-8jx3-gg6w)](https://vuldb.com/vuln/372232)
@@ -77,6 +98,9 @@
   - [CVE-2026-11982](https://vulners.com/nvd/NVD:CVE-2026-11982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11982 Stored XSS via missing XSS safety check in Admin2 Pages API partial validation](https://vulners.com/cve/CVE-2026-11982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11982 Stored XSS via missing XSS safety check in Admin2 Pages API partial validation](https://vulners.com/cvelist/CVELIST:CVE-2026-11982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12390 Access of resource using incompatible type ('type confusion') in AzeoTech DAQFactory](https://vulners.com/cve/CVE-2026-12390?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12390 Access of resource using incompatible type ('type confusion') in AzeoTech DAQFactory](https://vulners.com/cvelist/CVELIST:CVE-2026-12390?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12475](https://vulners.com/nvd/NVD:CVE-2026-12475?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22551](https://vulners.com/nvd/NVD:CVE-2026-22551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38714](https://vulners.com/nvd/NVD:CVE-2026-38714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38715](https://vulners.com/nvd/NVD:CVE-2026-38715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -86,11 +110,16 @@
   - [CVE-2026-44688](https://vulners.com/nvd/NVD:CVE-2026-44688?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44691](https://vulners.com/nvd/NVD:CVE-2026-44691?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46580](https://vulners.com/nvd/NVD:CVE-2026-46580?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47833](https://vulners.com/cve/CVE-2026-47833?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47833](https://vulners.com/cvelist/CVELIST:CVE-2026-47833?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48617](https://vulners.com/cve/CVE-2026-48617?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48617](https://vulners.com/cvelist/CVELIST:CVE-2026-48617?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48617](https://vulners.com/nvd/NVD:CVE-2026-48617?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48984](https://vulners.com/nvd/NVD:CVE-2026-48984?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48985](https://vulners.com/nvd/NVD:CVE-2026-48985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48985 pam_usb: NULL Dereference Crash in pusb_is_loginctl_local when loginctl Returns Empty Remote Field](https://vulners.com/cve/CVE-2026-48985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48985 pam_usb: NULL Dereference Crash in pusb_is_loginctl_local when loginctl Returns Empty Remote Field](https://vulners.com/cvelist/CVELIST:CVE-2026-48985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48986](https://vulners.com/nvd/NVD:CVE-2026-48986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48986 pam_usb: Infinite loop DoS in process-tree walk when parent process exits during authentication](https://vulners.com/cve/CVE-2026-48986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48986 pam_usb: Infinite loop DoS in process-tree walk when parent process exits during authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-48986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54103](https://vulners.com/nvd/NVD:CVE-2026-54103?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -106,6 +135,7 @@
   - [CVE-2026-54106 U.S. GAO EPDS and CBCA EDS network access control bypass](https://vulners.com/cve/CVE-2026-54106?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54106 U.S. GAO EPDS and CBCA EDS network access control bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-54106?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54319](https://vulners.com/cve/CVE-2026-54319?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54390](https://vulners.com/nvd/NVD:CVE-2026-54390?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54390 JTL Shop < 5.7.2 Server-Side Template Injection via Smarty Renderer](https://vulners.com/cve/CVE-2026-54390?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54390 JTL Shop < 5.7.2 Server-Side Template Injection via Smarty Renderer](https://vulners.com/cvelist/CVELIST:CVE-2026-54390?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55203](https://vulners.com/nvd/NVD:CVE-2026-55203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -133,6 +163,7 @@
   - [net/url: Incorrect parsing of IPv6 host literals in net/url](https://vulners.com/redhat/RHSA-2026:25043-CVE-2026-25679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [netlicensing-mcp: REST Path Traversal Bypasses Token Redaction](https://vulners.com/github/GHSA-HXPF-9XVQ-WPH8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NL Portal Backend Libraries: Document contents remained downloadable by any logged-in user (incomplete fix of CVE-2026-49463)](https://vulners.com/github/GHSA-JR45-52CW-69H5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [sentinelx](https://vulners.com/githubexploit/9E144E63-0DC2-51E9-BCDD-9ED5219846AE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Wordfence Intelligence Weekly WordPress Vulnerability Report (June 8, 2026 to June 14, 2026)](https://vulners.com/wordfence/WORDFENCE:B9604FEE54DABC8BB65104781CDE2E9A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress Avada (Fusion) Builder plugin <= 3.15.3 - Unauthenticated Arbitrary File Deletion via Form Entry Value vulnerability](https://vulners.com/patchstack/PATCHSTACK:6783ADFCB4B0F7F3702856B91D400801?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
