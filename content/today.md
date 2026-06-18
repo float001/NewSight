@@ -5,16 +5,23 @@
   - [【💰】各位佬一般买机票都是怎么买的？有没有什么省钱小妙招分享下](https://2libra.com/post/worth-buying/wpwJ7bG)
   - [【💰】潘多拉之-谁能比我惨](https://2libra.com/post/forum-function/UeGzty4)
   - [今日是什么日子？](https://2libra.com/post/ai-programming/v-gFV43)
+  - [和老婆想暑假期间请两天年假，周五下班玩到周二，广州出发自由行推荐去哪里？](https://2libra.com/post/travel-tips/25tXDjG)
   - [哈基米出来修 bug 了](https://2libra.com/post/community/4f29Ftj)
+  - [喜报！马云发钱了！！](https://2libra.com/post/deal-hunter/ElR2Fy5)
   - [大声告诉我，今天是什么日子？](https://2libra.com/post/worth-buying/R_p5ovz)
   - [庆祝一下，100 天签到，来 2 站，100 天了](https://2libra.com/post/forum-function/8yC0bbN)
+  - [我 Chovy，我就 fork 了个密码部署的仓库，github 直接就给我把账号封了啊](https://2libra.com/post/tech-rumination/cODDuhz)
+  - [我承认我不行](https://2libra.com/post/workplace-stories/pJ_EQoq)
   - [请全体 2 站人员执行以下操作](https://2libra.com/post/small-things/RPpOhYw)
+  - [请教大家一个问题：夏天用不用给猫咪开空调， 位置：帝都！](https://2libra.com/post/pet-sharing/EWLJHGa)
 - 36氪
   - [12306要忙着赚钱了](https://36kr.com/p/3858061678760965?f=rss)
   - [36氪「2026最具价值成长企业100」正式发布](https://36kr.com/p/3857980507919622?f=rss)
   - [8点1氪丨山姆首席采购官张青已提交辞呈；豆包每天收入不足百万；不得以长期、大额补贴扰乱市场秩序，外卖平台新规公开征求意见](https://36kr.com/p/3857925631104004?f=rss)
   - [Anthropic宣布设立韩国办事处](https://36kr.com/newsflashes/3857903037601033?f=rss)
+  - [A股三大指数午间休盘涨跌不一，寒武纪涨超13%](https://36kr.com/newsflashes/3858129047688196?f=rss)
   - [A股三大指数集体低开，贵金属板块领跌](https://36kr.com/newsflashes/3858006137017607?f=rss)
+  - [PayPal任命张弘为中国区首席执行官](https://36kr.com/newsflashes/3858111432086787?f=rss)
   - [PCB板块持续走强，多只重仓基金年内收益率超100%](https://36kr.com/newsflashes/3857945778164997?f=rss)
   - [SK海力士：已向核心客户交付12层新一代HBM4E芯片样品](https://36kr.com/newsflashes/3857909508576517?f=rss)
   - [三大指数全线翻红](https://36kr.com/newsflashes/3858029106795784?f=rss)
@@ -35,6 +42,7 @@
   - [创业板指快速拉升涨超1.7%，再创历史新高](https://36kr.com/newsflashes/3858016650073351?f=rss)
   - [北大科学家下场做脑机接口，种子轮融了近亿元](https://36kr.com/p/3855480467543042?f=rss)
   - [华泰证券：9月前美联储将维持利率不变，年底12月加息概率接近50%](https://36kr.com/newsflashes/3857963955885315?f=rss)
+  - [厦门国升产业链创新基金登记成立](https://36kr.com/newsflashes/3858109196064003?f=rss)
   - [国家发改委：1—5月已下达今年前两批消费品以旧换新资金1250亿元](https://36kr.com/newsflashes/3858092502521088?f=rss)
   - [国家发改委：第三批625亿元国补6月底前下达](https://36kr.com/newsflashes/3858078275638276?f=rss)
   - [国开行已发放技术改造和设备更新贷款2133亿元](https://36kr.com/newsflashes/3858084211610880?f=rss)
@@ -42,13 +50,16 @@
   - [央地多措并举，城市更新按下“快进键”](https://36kr.com/newsflashes/3857918951150857?f=rss)
   - [央行今日开展2480亿元7天逆回购操作](https://36kr.com/newsflashes/3858001884173312?f=rss)
   - [寒武纪盘中大涨逾15%，创历史新高](https://36kr.com/newsflashes/3858097221244165?f=rss)
+  - [巴西央行下调基准利率至14.25%](https://36kr.com/newsflashes/3858120249611267?f=rss)
   - [年内龙虎榜营业部总成交2.18万亿元，前十席位“大洗牌”](https://36kr.com/newsflashes/3857922293748992?f=rss)
   - [张浩任腾讯音乐董事长](https://36kr.com/newsflashes/3858057326925065?f=rss)
+  - [恒指午间休盘跌1.7%，恒生科技指数跌1.38%](https://36kr.com/newsflashes/3858159288751106?f=rss)
   - [恒指开盘跌0.69%，恒生科技指数跌0.88%](https://36kr.com/newsflashes/3858001284191240?f=rss)
   - [我国养老资金投资运营再迎重要突破，社保基金首例期货账户完成开立](https://36kr.com/newsflashes/3857884146373892?f=rss)
   - [日经225指数首次突破71000点](https://36kr.com/newsflashes/3857935239713799?f=rss)
   - [沪深两市成交额突破1.5万亿元](https://36kr.com/newsflashes/3858066748167432?f=rss)
   - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3858038422164488?f=rss)
+  - [沪深两市成交额突破2万亿](https://36kr.com/newsflashes/3858113460933640?f=rss)
   - [沪深两市成交额突破5000亿元](https://36kr.com/newsflashes/3858018936689923?f=rss)
   - [渤健将以最高10亿美元收购RayThera](https://36kr.com/newsflashes/3857898406466563?f=rss)
   - [潮州三环（集团）股份有限公司通过港交所上市聆讯](https://36kr.com/newsflashes/3857975094760713?f=rss)
@@ -56,6 +67,7 @@
   - [现货黄金向上触及4300美元/盎司](https://36kr.com/newsflashes/3857939927487752?f=rss)
   - [玻璃基板赛道升温，多家公司称仍处于技术储备或研发验证阶段](https://36kr.com/newsflashes/3857901341840388?f=rss)
   - [电解液赛道迎来密集签约潮，头部电池厂加速锁定长期产能](https://36kr.com/newsflashes/3857904299873281?f=rss)
+  - [研究显示德国工业就业人数降至十年来的最低水平](https://36kr.com/newsflashes/3858123270509825?f=rss)
   - [福建东南西北科技集团完成亿元B轮、B+轮融资](https://36kr.com/newsflashes/3858046998696962?f=rss)
   - [科创板第五套标准扩围至大模型企业，智谱、MiniMax“回A”有望提速](https://36kr.com/newsflashes/3857939710203144?f=rss)
   - [端午假期运输启动，长三角铁路今日预计发送旅客348万人次](https://36kr.com/newsflashes/3858028850648069?f=rss)
@@ -71,6 +83,8 @@
   - [银行业迎数据安全合规大考，行业合规监管全面趋严](https://36kr.com/newsflashes/3857887940514816?f=rss)
   - [银行发债“补血”账本增厚：9860亿元背后的结构性分化](https://36kr.com/newsflashes/3857916084229127?f=rss)
   - [银行理财多项跨境投资新业务落地，参与全球化资产配置渠道拓宽](https://36kr.com/newsflashes/3857894801085705?f=rss)
+  - [韩国KOSPI指数历史首次上破9000点](https://36kr.com/newsflashes/3858151174689799?f=rss)
+  - [顺丰同城在海南成立供应链公司](https://36kr.com/newsflashes/3858137178461193?f=rss)
   - [马斯克又一位好友加入SpaceX董事会](https://36kr.com/newsflashes/3857915574686727?f=rss)
   - [马斯克将3亿份特斯拉期权转换为带投票权的股票](https://36kr.com/newsflashes/3857893015917832?f=rss)
 - Ars Technica
@@ -99,6 +113,8 @@
   - [The Competitive Moat That AI Can't Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
   - [The hacker sent by Anthropic to calm the government's nerves about AI safety](https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3)
   - [Why Can't Walnut Creek Build 3 Bedroom Apartments with a Playground?](https://kevin.burke.dev/kevin/walnut-creek-single-stair/)
+- HackerNews
+  - [论文导读：面向多种防御策略的自动化越狱攻击](http://0.0.0.0:8080/post/64362)
 - Hacking Articles
   - [A Detailed Guide on Villain C2 Framework](https://www.hackingarticles.in/a-detailed-guide-on-villain-c2-framework/)
 - IEEE Spectrum
@@ -108,11 +124,14 @@
   - [Linux Foundation Newsletter: June 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026)
 - pluralistic.net
   - [Pluralistic: The (real) dead economy theory (17 Jun 2026)](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/)
+- rtl-sdr.com
+  - [HamDash: A Free Real-Time Ham Radio Dashboard with a Browser-Based RTL-SDR Receiver](https://www.rtl-sdr.com/hamdash-a-free-real-time-ham-radio-dashboard-with-a-browser-based-rtl-sdr-receiver/)
 - Sandfly Security Blog RSS Feed
   - [How Linux Malware Works, From Simple to Sophisticated](https://sandflysecurity.com/blog/how-linux-malware-works-from-simple-to-sophisticated)
 - simonwillison.net
   - [Quoting Charity Majors](https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [binary-exploitation-writeup exploit](https://sploitus.com/exploit?id=2B2850BD-5CCC-5FC9-BAFC-E1011A676871&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2015-10141 exploit](https://sploitus.com/exploit?id=C5EFE23A-E7AE-5AC1-BCD5-1817788E4C5B&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Buffalo Open_Xdmod exploit](https://sploitus.com/exploit?id=515FB960-2EB4-5167-8796-0AA62D6B62A4&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Read in Tcpdump exploit](https://sploitus.com/exploit?id=7899990D-54A0-59D2-943B-C68DC3E8E714&utm_source=rss&utm_medium=rss)
@@ -147,6 +166,7 @@
   - [Anthropic got hit by export rules nobody understands](https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls)
   - [Can anyone look cool wearing Snap’s $2,000 glasses?](https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion)
   - [Epic wants to let you bring your Fortnite skins to other games](https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse)
+  - [Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan)
   - [The Echo Dot Max is cheaper than ever in an early Prime Day sale](https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale)
   - [Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices](https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram)
   - [Vibe-decoding the White House-Anthropic fight over Fable](https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house)
@@ -211,6 +231,7 @@
   - [CVE-2026-9697 | undici up to 7.27.x/8.4.x Setting servername certificate validation (GHSA-vmh5-mc38-953g)](https://vuldb.com/vuln/372083)
 - Vulners.com RSS Feed
   - [Attackers Actively Exploiting Sensitive Information Exposure Vulnerability in Gravity SMTP Plugin](https://vulners.com/wordfence/WORDFENCE:4D7FD19B05FD10FFEC715A24C58A8572?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [binary-exploitation-writeup](https://vulners.com/githubexploit/2B2850BD-5CCC-5FC9-BAFC-E1011A676871?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments](https://vulners.com/thn/THN:81B47FC1EA487D6AFFE1A36F06908D5E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2019-10773 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2019-10773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2019-15608 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2019-15608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -468,13 +489,19 @@
   - [Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital](https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/)
   - [The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/)
 - 不安全
+  - [SpaceX扩大董事会：马斯克长期盟友加入](https://buaq.net/go-423817.html)
+  - [用某些旧版客户端登录Ubuntu遭遇OSC控制序列](https://buaq.net/go-423809.html)
+  - [论文导读：面向多种防御策略的自动化越狱攻击](https://buaq.net/go-423810.html)
   - [马克龙寻求绕过特朗普的Anthropic禁令](https://buaq.net/go-423796.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜曝第二代iPhone Air明年春季推出/特斯拉「车顶维权」名誉权案再审被驳回/微信支付推出AI专属卡](https://www.ifanr.com/1669281?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [用某些旧版客户端登录Ubuntu遭遇OSC控制序列](https://blog.nsfocus.net/%e7%94%a8%e6%9f%90%e4%ba%9b%e6%97%a7%e7%89%88%e5%ae%a2%e6%88%b7%e7%ab%af%e7%99%bb%e5%bd%95ubuntu%e9%81%ad%e9%81%87osc%e6%8e%a7%e5%88%b6%e5%ba%8f%e5%88%97/)
 - 黑海洋
   - [iPhone Air二代明春再战 双摄、续航“补课”](https://blog.upx8.com/iPhone-Air%E4%BA%8C%E4%BB%A3%E6%98%8E%E6%98%A5%E5%86%8D%E6%88%98-%E5%8F%8C%E6%91%84-%E7%BB%AD%E8%88%AA-%E8%A1%A5%E8%AF%BE)
+  - [SpaceX扩大董事会：马斯克长期盟友加入](https://blog.upx8.com/SpaceX%E6%89%A9%E5%A4%A7%E8%91%A3%E4%BA%8B%E4%BC%9A-%E9%A9%AC%E6%96%AF%E5%85%8B%E9%95%BF%E6%9C%9F%E7%9B%9F%E5%8F%8B%E5%8A%A0%E5%85%A5)
   - [三分之二的美国人认为AI发展速度过快](https://blog.upx8.com/%E4%B8%89%E5%88%86%E4%B9%8B%E4%BA%8C%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%AE%A4%E4%B8%BAAI%E5%8F%91%E5%B1%95%E9%80%9F%E5%BA%A6%E8%BF%87%E5%BF%AB)
   - [存储涨价的荒诞现实：一块游戏机硬盘已能抵三台完整主机](https://blog.upx8.com/%E5%AD%98%E5%82%A8%E6%B6%A8%E4%BB%B7%E7%9A%84%E8%8D%92%E8%AF%9E%E7%8E%B0%E5%AE%9E-%E4%B8%80%E5%9D%97%E6%B8%B8%E6%88%8F%E6%9C%BA%E7%A1%AC%E7%9B%98%E5%B7%B2%E8%83%BD%E6%8A%B5%E4%B8%89%E5%8F%B0%E5%AE%8C%E6%95%B4%E4%B8%BB%E6%9C%BA)
   - [马克龙寻求绕过特朗普的Anthropic禁令](https://blog.upx8.com/%E9%A9%AC%E5%85%8B%E9%BE%99%E5%AF%BB%E6%B1%82%E7%BB%95%E8%BF%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84Anthropic%E7%A6%81%E4%BB%A4)
