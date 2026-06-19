@@ -21,6 +21,7 @@
   - [BOD 26-04: Risk-based Prioritization is the Latest Mandate to Shake Up Compliance](https://www.guidepointsecurity.com/blog/bod-26-04-risk-based-prioritization-mandate/)
 - Hacker News Frontpage
   - [A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
+  - [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232)
   - [Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
   - [Zenzizenzizenzic](https://en.wikipedia.org/wiki/Zenzizenzizenzic)
 - Hacking Articles
@@ -31,6 +32,8 @@
   - [The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?](https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026)
 - pluralistic.net
   - [Pluralistic: The Big Con (19 Jun 2026)](https://pluralistic.net/2026/06/19/too-big-to-fact-check/)
+- simonwillison.net
+  - [Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [AINEE exploit](https://sploitus.com/exploit?id=5BEBD996-40A7-5820-A505-F8584E84A3BB&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-11551 exploit](https://sploitus.com/exploit?id=F4DB36D1-16B3-5D76-9EDA-1FCB95DDC7E9&utm_source=rss&utm_medium=rss)
@@ -41,6 +44,7 @@
   - [PhantomCommits-CTF exploit](https://sploitus.com/exploit?id=267A765B-AF6E-5280-849A-0BDCD33EBD9F&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Aura’s impressive e-ink photo frame doesn’t even look digital](https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/)
+  - [Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
   - [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/)
   - [Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/)
   - [Is the US government’s Anthropic ban accidentally helping the brand?](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/)
@@ -288,14 +292,19 @@
   - [CVE-2026-51844](https://vulners.com/nvd/NVD:CVE-2026-51844?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-51845](https://vulners.com/nvd/NVD:CVE-2026-51845?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-51846](https://vulners.com/nvd/NVD:CVE-2026-51846?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56073](https://vulners.com/nvd/NVD:CVE-2026-56073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56073 Cap-go - OTP Bypass via Response Manipulation in Email Verification](https://vulners.com/cve/CVE-2026-56073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56073 Cap-go - OTP Bypass via Response Manipulation in Email Verification](https://vulners.com/cvelist/CVELIST:CVE-2026-56073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56079](https://vulners.com/nvd/NVD:CVE-2026-56079?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56079 Capgo - Cross-Tenant Authorization Bypass via PostgREST Webhook Access](https://vulners.com/cve/CVE-2026-56079?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56079 Capgo - Cross-Tenant Authorization Bypass via PostgREST Webhook Access](https://vulners.com/cvelist/CVELIST:CVE-2026-56079?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56080](https://vulners.com/nvd/NVD:CVE-2026-56080?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56080 Cap-go - Authentication Logic Flaw in Enforce Password Policy](https://vulners.com/cve/CVE-2026-56080?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56080 Cap-go - Authentication Logic Flaw in Enforce Password Policy](https://vulners.com/cvelist/CVELIST:CVE-2026-56080?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56081](https://vulners.com/nvd/NVD:CVE-2026-56081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56081 Cap-go - Account Lockout via 2FA Misconfiguration on Unverified Email](https://vulners.com/cve/CVE-2026-56081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56081 Cap-go - Account Lockout via 2FA Misconfiguration on Unverified Email](https://vulners.com/cvelist/CVELIST:CVE-2026-56081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56082](https://vulners.com/nvd/NVD:CVE-2026-56082?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56082 Supabase - Unauthenticated Cross-Tenant Billing Log Tampering via public.record_build_time RPC](https://vulners.com/cve/CVE-2026-56082?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56082 Supabase - Unauthenticated Cross-Tenant Billing Log Tampering via public.record_build_time RPC](https://vulners.com/cvelist/CVELIST:CVE-2026-56082?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56208](https://vulners.com/nvd/NVD:CVE-2026-56208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -315,3 +324,5 @@
   - [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://vulners.com/thn/THN:E7B27AF79906373961790705D467275B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [Jio正考虑打造印度卫星网络与星链竞争](https://blog.upx8.com/Jio%E6%AD%A3%E8%80%83%E8%99%91%E6%89%93%E9%80%A0%E5%8D%B0%E5%BA%A6%E5%8D%AB%E6%98%9F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%98%9F%E9%93%BE%E7%AB%9E%E4%BA%89)
