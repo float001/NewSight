@@ -45,6 +45,7 @@
 - Ars Technica
   - [After Senate vote, Trump admin backs off plans to kill ocean monitoring](https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/)
   - [As global warming threatens corals, scientists search for reefs that can take the heat](https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/)
+  - [Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars](https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/)
 - Articles | InfoStealers
   - [Inside the FortiBleed Response: Hudson Rock’s Insights into the Global Disclosure Effort](https://www.infostealers.com/article/inside-the-fortibleed-response-hudson-rocks-insights-into-the-global-disclosure-effort/)
 - Blog - Praetorian
@@ -58,6 +59,7 @@
   - [Chrome Extension Vulnerabilities: Millions at Risk](https://securityonline.info/chrome-extension-vulnerabilities/)
   - [Claude Code Quota Reset Follows Morning Outage](https://securityonline.info/claude-code-quota-reset/)
   - [Critical iba Deserialization Vulnerability Exposes ibaPDA and ibaDatCoordinator to RCE (CVE-2026-8024)](https://securityonline.info/iba-deserialization-vulnerability/)
+  - [eFAQ Publishes Investigation Into Alleged Scam Activity and Coordinated Reputation Attacks](https://securityonline.info/efaq-publishes-investigation-into-alleged-scam-activity-and-coordinated-reputation-attacks/)
   - [F5 Patches Two Critical NGINX Flaws in HTTP/3 and HTTP/2 Modules (CVE-2026-42530, CVE-2026-42055)](https://securityonline.info/nginx-vulnerabilities/)
   - [Interlock and Rhysida Ransomware: IBM X-Force Maps a Shared Ecosystem](https://securityonline.info/interlock-rhysida-ransomware-ecosystem/)
   - [LiteLLM Authentication Bypass via Host Header Injection (CVE-2026-49468)](https://securityonline.info/litellm-authentication-bypass/)
@@ -110,6 +112,7 @@
   - [Confidence Lacks in Threat Detection Across Non-Email Channels like Slack and Teams](https://www.infosecurity-magazine.com/news/threat-detection-across-nonemail/)
   - [Operation Endgame Disrupts Malware Network Linked to Major Ransomware Gang](https://www.infosecurity-magazine.com/news/operation-endgame-socgholish-evil/)
 - Kali Linux Tutorials
+  - [Best Free OSINT Tools 2026: Build a Zero-Cost Research Stack](https://kalilinuxtutorials.com/best-free-osint-tools-2026/)
   - [Install VLC Ubuntu: Complete VLC Setup Guide](https://kalilinuxtutorials.com/install-vlc-ubuntu/)
 - krebsonsecurity.com
   - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
@@ -133,9 +136,12 @@
 - simonwillison.net
   - [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-11784 exploit](https://sploitus.com/exploit?id=A421CF0C-0048-58EE-A8C4-F3EBF49171F1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-48611 exploit](https://sploitus.com/exploit?id=8AEE2E17-4372-5700-B169-5318D3612CF1&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-54761 exploit](https://sploitus.com/exploit?id=ED3B68F9-73E1-5640-84E4-63E57CA2FFFC&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-7515 exploit](https://sploitus.com/exploit?id=B4119C33-B2E4-5CF6-A38C-1B60A728E117&utm_source=rss&utm_medium=rss)
   - [jfp-console-poc exploit](https://sploitus.com/exploit?id=205601AE-E7C0-5BA7-8522-8C321608314E&utm_source=rss&utm_medium=rss)
+  - [SQL-INJECTION-AGENT exploit](https://sploitus.com/exploit?id=D4E8DA7A-CA62-5E5E-8A8F-51AD4E4BA4A5&utm_source=rss&utm_medium=rss)
   - [vlc-vp9-reschange-crash-poc exploit](https://sploitus.com/exploit?id=E02CB4CB-0913-58BB-BC4A-E816074BC110&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI data centers just got a government-mandated fast lane to the grid](https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/)
@@ -163,6 +169,7 @@
   - [ChatGPT's new health upgrade beats doctor-written answers, OpenAI says](https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/)
   - [Google appeals ruling that made it directly liable for AI-generated search overview content](https://the-decoder.com/google-appeals-ruling-that-made-it-directly-liable-for-ai-generated-search-overview-content/)
   - [Google Deepmind treats its own AI agents like rogue employees with office keys](https://the-decoder.com/google-deepmind-treats-its-own-ai-agents-like-rogue-employees-with-office-keys/)
+  - [New benchmark exposes how badly AI struggles with real knowledge work](https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/)
   - [OpenAI researchers show small doses of "beneficial trait" training make AI models broadly safer and harder to manipulate](https://the-decoder.com/openai-researchers-show-small-doses-of-beneficial-trait-training-make-ai-models-broadly-safer-and-harder-to-manipulate/)
   - [Website "In the Weights" shows whether AI models know who you are](https://the-decoder.com/website-in-the-weights-shows-whether-ai-models-know-who-you-are/)
 - The Verge
@@ -172,6 +179,7 @@
   - [HBO Max&#8217;s annual plans are 28 percent off right now](https://www.theverge.com/gadgets/952326/hbo-max-annual-plan-deal-sale)
   - [In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human](https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv)
   - [Kaleidescape’s movie player blows streaming, and your wallet, away](https://www.theverge.com/tech/951718/kaleidescape-strato-e-review)
+  - [Our long national sunscreen nightmare is almost over](https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health)
   - [Snap’s Specs look good on nobody](https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast)
   - [T1 Phone PR firm is &#8216;not assisting Trump Mobile any further&#8217;](https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further)
   - [The best early Amazon Prime Day deals so far](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals)
@@ -348,6 +356,7 @@
   - [CVE-2026-44663](https://vulners.com/nvd/NVD:CVE-2026-44663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44688](https://vulners.com/nvd/NVD:CVE-2026-44688?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44691](https://vulners.com/nvd/NVD:CVE-2026-44691?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44939](https://vulners.com/nvd/NVD:CVE-2026-44939?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44939 Command injection through unsanitized YAML parameter in Rancher](https://vulners.com/cve/CVE-2026-44939?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44939 Command injection through unsanitized YAML parameter in Rancher](https://vulners.com/cvelist/CVELIST:CVE-2026-44939?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45696](https://vulners.com/nvd/NVD:CVE-2026-45696?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -394,9 +403,11 @@
   - [CVE-2026-49978 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-49978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49978 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-49978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50034](https://vulners.com/nvd/NVD:CVE-2026-50034?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50242](https://vulners.com/nvd/NVD:CVE-2026-50242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50269 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-50269?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-52866](https://vulners.com/nvd/NVD:CVE-2026-52866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53655 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-53655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53915](https://vulners.com/nvd/NVD:CVE-2026-53915?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54017](https://vulners.com/nvd/NVD:CVE-2026-54017?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54017 Open WebUI: Path traversal / SSRF in terminal server proxy via encoded path traversal](https://vulners.com/cve/CVE-2026-54017?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54017 Open WebUI: Path traversal / SSRF in terminal server proxy via encoded path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-54017?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -459,6 +470,8 @@
   - [CVE-2026-56131](https://vulners.com/nvd/NVD:CVE-2026-56131?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56132](https://vulners.com/nvd/NVD:CVE-2026-56132?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56138](https://vulners.com/nvd/NVD:CVE-2026-56138?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56141](https://vulners.com/nvd/NVD:CVE-2026-56141?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56142](https://vulners.com/nvd/NVD:CVE-2026-56142?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6716](https://vulners.com/attackerkb/AKB:3A9D3808-F1F4-4C06-A34D-FE191EBB6900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6716](https://vulners.com/nvd/NVD:CVE-2026-6716?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6798](https://vulners.com/nvd/NVD:CVE-2026-6798?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -487,8 +500,11 @@
   - [CVE-2026-9692](https://vulners.com/nvd/NVD:CVE-2026-9692?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9822](https://vulners.com/nvd/NVD:CVE-2026-9822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Daytona: Path traversal in sandbox volume id mounts arbitrary host paths into the sandbox — cross-tenant data access and host escape](https://vulners.com/github/GHSA-FJV8-J4P5-CR9M?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [eFAQ Publishes Investigation Into Alleged Scam Activity and Coordinated Reputation Attacks](https://vulners.com/hackread/HACKREAD:3035D5C64C91E08AF4597F8366D055C7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-11784](https://vulners.com/githubexploit/A421CF0C-0048-58EE-A8C4-F3EBF49171F1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-4782](https://vulners.com/githubexploit/C202AC27-3587-5FA5-8F6F-5ABF0783B49C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-48611](https://vulners.com/githubexploit/8AEE2E17-4372-5700-B169-5318D3612CF1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-54761](https://vulners.com/githubexploit/ED3B68F9-73E1-5640-84E4-63E57CA2FFFC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-7515](https://vulners.com/githubexploit/B4119C33-B2E4-5CF6-A38C-1B60A728E117?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce](https://vulners.com/githubexploit/D957F9E4-9C77-51C8-ABF6-D8CDEFA692D0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Authorization in Qualcomm Aqt1000_Firmware](https://vulners.com/githubexploit/BCB47C98-0582-5D63-8AD2-BEDC3EE82B1F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -567,6 +583,7 @@
   - [Security Bulletin: Vulnerabilities in OpenSSL (CVE-1015-1793)](https://vulners.com/ibm/805E851ADB8C39CDAA9211FF295D356F4EA33DC98EEC697038087FF7F4E1FE83?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sentinelx](https://vulners.com/githubexploit/9E144E63-0DC2-51E9-BCDD-9ED5219846AE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [SOC127---SQL-Injection-Detected](https://vulners.com/githubexploit/ED80CB07-19B0-55AC-911E-13871B02AA5C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [SQL-INJECTION-AGENT](https://vulners.com/githubexploit/D4E8DA7A-CA62-5E5E-8A8F-51AD4E4BA4A5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Updated libupnp packages fix security vulnerability](https://vulners.com/mageia/MGASA-2026-0223?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Updated luajit packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0225?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Updated opensc packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0224?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -609,9 +626,11 @@
 - 安全客
   - [Splunk AI Toolkit曝高危漏洞：CVSS 9.1，可远程执行任意系统命令](https://www.anquanke.com/post/id/315618)
 - 爱范儿
+  - [刚刚，Codex 大更新，你在电脑的操作正在成为 AI 经验包](https://www.ifanr.com/1669204?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜追觅组织调整，取消未落地业务/DeepSeek识图模式上线/《GTA6》预购时间官宣](https://www.ifanr.com/1669442?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Meta与Crusoe达成新的AI算力合作协议](https://blog.upx8.com/Meta%E4%B8%8ECrusoe%E8%BE%BE%E6%88%90%E6%96%B0%E7%9A%84AI%E7%AE%97%E5%8A%9B%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE)
+  - [中国将启动2026年新能源汽车下乡](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%90%AF%E5%8A%A82026%E5%B9%B4%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%B8%8B%E4%B9%A1)
   - [亚马逊正调查批评AI数据中心扩张的工程师](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%AD%A3%E8%B0%83%E6%9F%A5%E6%89%B9%E8%AF%84AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%89%A9%E5%BC%A0%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%88)
   - [哪吒监控面板高危漏洞（CVE-2026-53519）深度分析与修复指南](https://blog.upx8.com/CVE-2026-53519)
   - [苹果音乐公布平台播放量最高的20位艺人](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E9%9F%B3%E4%B9%90%E5%85%AC%E5%B8%83%E5%B9%B3%E5%8F%B0%E6%92%AD%E6%94%BE%E9%87%8F%E6%9C%80%E9%AB%98%E7%9A%8420%E4%BD%8D%E8%89%BA%E4%BA%BA)
