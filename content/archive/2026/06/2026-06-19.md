@@ -74,6 +74,7 @@
   - [FIFA Bug Exposed World Cup Streams to Remote Takeover](https://www.darkreading.com/application-security/fifa-bug-world-cup-streams-remote-takeover)
   - [Novo Nordisk Breach Exposes Software Development Pipeline Risk](https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk)
   - [Operation Escaneo Signals Shift in LatAm Threat Landscape](https://www.darkreading.com/cybersecurity-operations/operation-escaneo-signals-shift-latam-threat-landscape)
+  - [Stressors, AI Forcing Changes to Cybersecurity Teams](https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams)
 - defend.network
   - [NGINX RCE, Windows crypto-stealer, Salesforce breaches, INC ransomware surge](https://defend.network/briefings/nginx-rce-windows-clipper-salesforce-ransomware-2026-06-19.html)
 - ElcomSoft blog
@@ -85,6 +86,8 @@
 - Hacker News Frontpage
   - [Ask HN: What is the job market like?](https://news.ycombinator.com/item?id=48589357)
   - [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
+  - [From Australia to Europe, countries move to curb children's social media access](https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/)
+  - [Google is turning Android into a 'sloperating' system. Your thoughts?](https://android-developers.googleblog.com/2026/06/Android-17.html)
   - [Integer Quantization: Deep Dive](https://hello-fri-end.github.io/2026/06/integer-quantization-deep-dive/)
   - [Let's Encrypt has been down most of today](https://letsencrypt.status.io/#2026)
   - [McMansions 101: What Makes a McMansion Bad Architecture?](https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad)
@@ -114,6 +117,9 @@
   - [Linux Foundation Newsletter: June 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026)
 - MIT Technology Review
   - [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/)
+  - [The Download: AI bottleneck debates, and BCI trials take off](https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/)
+- PortSwigger Blog
+  - [Burp Extensibility 2026: Awards, Talks, and Highlights](https://portswigger.net/blog/burp-extensibility-2026-awards-talks-and-highlights)
 - ProjectDiscovery.io | Blog
   - [The Vulnerability Curve Bent With the AI Curve](https://projectdiscovery.io/blog/the-vulnerability-curve-bent-with-the-ai-curve)
 - PwnDefend
@@ -122,11 +128,14 @@
   - [Update Fri Jun 19 11:54:58 UTC 2026](https://github.com/trickest/cve/commit/c8c50fb1d033fa42b62368e4e84bdad49f98b028)
 - rtl-sdr.com
   - [Saveitforparts: Testing a Prototype of the NanoFarfield Portable Antenna Measurement System](https://www.rtl-sdr.com/saveitforparts-testing-a-prototype-of-the-nanofarfield-portable-antenna-measurement-system/)
+- SentinelOne
+  - [The Good, the Bad and the Ugly in Cybersecurity – Week 25](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-25-7/)
 - simonwillison.net
   - [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-48611 exploit](https://sploitus.com/exploit?id=8AEE2E17-4372-5700-B169-5318D3612CF1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-7515 exploit](https://sploitus.com/exploit?id=B4119C33-B2E4-5CF6-A38C-1B60A728E117&utm_source=rss&utm_medium=rss)
+  - [jfp-console-poc exploit](https://sploitus.com/exploit?id=205601AE-E7C0-5BA7-8522-8C321608314E&utm_source=rss&utm_medium=rss)
   - [vlc-vp9-reschange-crash-poc exploit](https://sploitus.com/exploit?id=E02CB4CB-0913-58BB-BC4A-E816074BC110&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI data centers just got a government-mandated fast lane to the grid](https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/)
@@ -142,6 +151,7 @@
   - [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
   - [Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports](https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/)
   - [The 11 standout startups from YC’s Demo Day, according to VCs](https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/)
+  - [The CEO of Allbirds’ new AI biz has a plan, but no employees](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/)
   - [The smartphone era created an attention crisis. Slowtech is fixing it](https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/)
   - [The US says ASML’s top chip tool may be in China. ASML says it isn’t](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)
   - [‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone](https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/)
@@ -163,6 +173,7 @@
   - [In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human](https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv)
   - [Kaleidescape’s movie player blows streaming, and your wallet, away](https://www.theverge.com/tech/951718/kaleidescape-strato-e-review)
   - [Snap’s Specs look good on nobody](https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast)
+  - [T1 Phone PR firm is &#8216;not assisting Trump Mobile any further&#8217;](https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further)
   - [The best early Amazon Prime Day deals so far](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals)
   - [The Onion’s rebooted InfoWars is coming July 2nd](https://www.theverge.com/news/952264/the-onion-infowars-takeover-alex-jones-relaunch)
   - [This robotic self-driving toilet comes to you](https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet)
@@ -274,6 +285,7 @@
   - [CVE-2026-11775 User Admin Simplifier <= 3.0.0 - Cross-Site Request Forgery](https://vulners.com/cve/CVE-2026-11775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11775 User Admin Simplifier <= 3.0.0 - Cross-Site Request Forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-11775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11791](https://vulners.com/nvd/NVD:CVE-2026-11791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11941](https://vulners.com/nvd/NVD:CVE-2026-11941?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11982](https://vulners.com/nvd/NVD:CVE-2026-11982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11982 Stored XSS via missing XSS safety check in Admin2 Pages API partial validation](https://vulners.com/cve/CVE-2026-11982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11982 Stored XSS via missing XSS safety check in Admin2 Pages API partial validation](https://vulners.com/cvelist/CVELIST:CVE-2026-11982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -301,6 +313,7 @@
   - [CVE-2026-12430](https://vulners.com/nvd/NVD:CVE-2026-12430?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12475](https://vulners.com/nvd/NVD:CVE-2026-12475?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12644](https://vulners.com/nvd/NVD:CVE-2026-12644?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12706](https://vulners.com/nvd/NVD:CVE-2026-12706?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-1856](https://vulners.com/nvd/NVD:CVE-2026-1856?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22551](https://vulners.com/nvd/NVD:CVE-2026-22551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22674](https://vulners.com/nvd/NVD:CVE-2026-22674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -335,6 +348,8 @@
   - [CVE-2026-44663](https://vulners.com/nvd/NVD:CVE-2026-44663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44688](https://vulners.com/nvd/NVD:CVE-2026-44688?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44691](https://vulners.com/nvd/NVD:CVE-2026-44691?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44939 Command injection through unsanitized YAML parameter in Rancher](https://vulners.com/cve/CVE-2026-44939?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44939 Command injection through unsanitized YAML parameter in Rancher](https://vulners.com/cvelist/CVELIST:CVE-2026-44939?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45696](https://vulners.com/nvd/NVD:CVE-2026-45696?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46461](https://vulners.com/cve/CVE-2026-46461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46461](https://vulners.com/cvelist/CVELIST:CVE-2026-46461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -521,6 +536,7 @@
   - [Important: Red Hat Security Advisory: OpenShift Container Platform 4.16.64 bug fix and security update](https://vulners.com/redhat/RHSA-2026:25044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: OpenShift Container Platform 4.16.64 packages and security update](https://vulners.com/redhat/RHSA-2026:25043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: Red Hat OpenShift distributed tracing platform (Tempo) 3.10.0 release](https://vulners.com/redhat/RHSA-2026:27126?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [jfp-console-poc](https://vulners.com/githubexploit/205601AE-E7C0-5BA7-8522-8C321608314E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MacBook Neo vs Windows Laptops for Cybersecurity Tasks](https://vulners.com/hackread/HACKREAD:ADF2EE618CCE9D26A7EDA7CD8E795096?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in node-slot (npm)](https://vulners.com/ossf/OSSF:MAL-2026-6191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in ordered-btree (npm)](https://vulners.com/ossf/OSSF:MAL-2026-6193?utm_source=rss&utm_medium=rss&utm_campaign=rss)
