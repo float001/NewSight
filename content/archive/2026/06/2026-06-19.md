@@ -2,16 +2,25 @@
 
 - 2Libra
   - [27 号用户。。社区已经这么大了](https://2libra.com/post/forum-function/s3XnDtt)
+  - [今天还这么多人？端午快乐 🎉](https://2libra.com/post/festival-things/oIhBU2T)
   - [没想到端午高速也这么塞车](https://2libra.com/post/personal-life/s2hHoWr)
 - 36氪
+  - [亚马逊拟向第三方数据中心销售AI芯片](https://36kr.com/newsflashes/3859403678684424?f=rss)
+  - [日本央行审议委员：将根据经济和通胀情况继续加息](https://36kr.com/newsflashes/3859402412119043?f=rss)
+  - [现代汽车集团拟将波士顿动力转为全资子公司](https://36kr.com/newsflashes/3859401780434176?f=rss)
+  - [瑞典呼吁禁止特斯拉FSD在欧盟范围内落地，除非其禁用超速功能](https://36kr.com/newsflashes/3859404287480835?f=rss)
+  - [石药创新再度递表港交所](https://36kr.com/newsflashes/3859404644766983?f=rss)
   - [美股三大指数集体收涨，SpaceX跌超3%](https://36kr.com/newsflashes/3859387771852032?f=rss)
 - 404 Media
   - [A New Fossil Discovery Just Rewrote 150 Years of Evolutionary Theory](https://www.404media.co/a-new-fossil-discovery-just-rewrote-150-years-of-evolutionary-theory/)
 - Ars Technica
   - [After Senate vote, Trump admin backs off plans to kill ocean monitoring](https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/)
+- Blog - Praetorian
+  - [GhostPack Necromancy: Reforging C# Tools with WasmForge](https://www.praetorian.com/blog/wasmforge-csharp-ghostpack-edr-evasion/)
 - CERT Recently Published Vulnerability Notes
   - [VU#457458: Vendor-signed UEFI applications found vulnerable to Secure Boot bypass](https://kb.cert.org/vuls/id/457458)
 - Cybersecurity News
+  - [LiteLLM Authentication Bypass via Host Header Injection (CVE-2026-49468)](https://securityonline.info/litellm-authentication-bypass/)
   - [Node.js Security Updates: Urgent Action Required](https://securityonline.info/nodejs-security-updates/)
   - [Rockwell Automation patches multiple ICS flaws](https://securityonline.info/rockwell-factorytalk-flex-io-vulnerabilities/)
   - [Splunk CVE-2026-20253: CVSS 9.8 RCE Exploited in the Wild](https://securityonline.info/splunk-cve-2026-20253-rce-exploited/)
@@ -29,6 +38,7 @@
   - [How does deception-based threat detection work in cloud and hybrid environments?](https://fidelissecurity.com/threatgeek/deception/deception-based-threat-detection-in-cloud-and-hybrid-environments/)
 - Hacker News Frontpage
   - [Ask HN: What is the job market like?](https://news.ycombinator.com/item?id=48589357)
+  - [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
   - [Integer Quantization: Deep Dive](https://hello-fri-end.github.io/2026/06/integer-quantization-deep-dive/)
   - [McMansions 101: What Makes a McMansion Bad Architecture?](https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad)
   - [Migrating from GNU Stow to Chezmoi](https://rednafi.com/misc/chezmoi/)
@@ -93,6 +103,18 @@
   - [CVE-2026-55204 | HAProxy up to 3.4.0 Dynamic Table src/hpack-tbl.c hpack_dht_insert null pointer dereference](https://vuldb.com/vuln/372230)
 - Vulners.com RSS Feed
   - [@acastellon/auth: Authentication bypass via spoofable headers in validateToken()](https://vulners.com/github/GHSA-GFJ5-979R-92PW?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: chromium-149.0.7827.114-1.fc43](https://vulners.com/fedora/FEDORA:C23467E81A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: firefox-152.0-1.fc43](https://vulners.com/fedora/FEDORA:8C25763252?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: nss-3.124.0-1.fc43](https://vulners.com/fedora/FEDORA:D6AD188AB2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: ongres-scram-3.3-1.fc43](https://vulners.com/fedora/FEDORA:EC9366E760?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: ongres-stringprep-2.4-1.fc43](https://vulners.com/fedora/FEDORA:2CB3E6E760?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: perl-Archive-Tar-3.04-522.fc43](https://vulners.com/fedora/FEDORA:C0B446FEFA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: perl-GD-2.86-1.fc43](https://vulners.com/fedora/FEDORA:81C176E76D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: perl-HTTP-Daemon-6.17-1.fc43](https://vulners.com/fedora/FEDORA:327F8838D3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: perl-Net-Statsd-0.13-1.fc43](https://vulners.com/fedora/FEDORA:8F82F7DF1F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: restic-0.19.0-1.fc43](https://vulners.com/fedora/FEDORA:5FD0D65658?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: singularity-ce-4.4.2-1.fc43](https://vulners.com/fedora/FEDORA:E75968552D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: vorbis-tools-1.4.3-4.fc43](https://vulners.com/fedora/FEDORA:E9FBF6E75C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [AgenticMail: Cross-agent task authorization bypass in AgenticMail API](https://vulners.com/github/GHSA-HJWC-26PJ-V3PM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [AgenticMail: Unauthenticated inbound mail triggers bypassPermissions resume of the operator's Claude Code session (bridge-wake)](https://vulners.com/github/GHSA-FQ4X-789W-JG5H?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Armeria: External Control of File Name or Path in xDS SDS DataSource](https://vulners.com/github/GHSA-HGW6-8C77-V4GQ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
