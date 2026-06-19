@@ -12,6 +12,7 @@
   - [17只绩优潜力硬科技小盘股出炉](https://36kr.com/newsflashes/3859737490887944?f=rss)
   - [2026端午档首日电影票房破亿，上映数量创近十年同期新高](https://36kr.com/newsflashes/3859735763014912?f=rss)
   - [Meta或同数据中心公司Crusoe签署AI算力协议](https://36kr.com/newsflashes/3859409018770438?f=rss)
+  - [Meta洽谈投资印度金融科技支付初创公司Cred](https://36kr.com/newsflashes/3859744295965956?f=rss)
   - [SK集团称去年创造社会价值32.2万亿韩元](https://36kr.com/newsflashes/3859406102828288?f=rss)
   - [Waymo因存在驶入施工路段风险，召回3800余辆自动驾驶出租车](https://36kr.com/newsflashes/3859411565532422?f=rss)
   - [亚马逊员工遭公司内部调查，曾公开批评数据中心扩张](https://36kr.com/newsflashes/3859409625256963?f=rss)
@@ -25,6 +26,7 @@
   - [日本5月核心通胀率持稳于1.4%，符合预期](https://36kr.com/newsflashes/3859405161600006?f=rss)
   - [日本央行审议委员：将根据经济和通胀情况继续加息](https://36kr.com/newsflashes/3859402412119043?f=rss)
   - [欧洲央行首席经济学家称中性利率区间上限小幅升至2.5%](https://36kr.com/newsflashes/3859579789431812?f=rss)
+  - [浙江首个“子母”变电站项目投运](https://36kr.com/newsflashes/3859743134241799?f=rss)
   - [深圳传音控股股份有限公司递表港交所](https://36kr.com/newsflashes/3859407547257856?f=rss)
   - [现代汽车集团拟将波士顿动力转为全资子公司](https://36kr.com/newsflashes/3859401780434176?f=rss)
   - [瑞典呼吁禁止特斯拉FSD在欧盟范围内落地，除非其禁用超速功能](https://36kr.com/newsflashes/3859404287480835?f=rss)
@@ -39,6 +41,8 @@
   - [A New Fossil Discovery Just Rewrote 150 Years of Evolutionary Theory](https://www.404media.co/a-new-fossil-discovery-just-rewrote-150-years-of-evolutionary-theory/)
 - Ars Technica
   - [After Senate vote, Trump admin backs off plans to kill ocean monitoring](https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/)
+- Articles | InfoStealers
+  - [Inside the FortiBleed Response: Hudson Rock’s Insights into the Global Disclosure Effort](https://www.infostealers.com/article/inside-the-fortibleed-response-hudson-rocks-insights-into-the-global-disclosure-effort/)
 - Blog - Praetorian
   - [GhostPack Necromancy: Reforging C# Tools with WasmForge](https://www.praetorian.com/blog/wasmforge-csharp-ghostpack-edr-evasion/)
 - CERT Recently Published Vulnerability Notes
@@ -51,6 +55,7 @@
   - [Claude Code Quota Reset Follows Morning Outage](https://securityonline.info/claude-code-quota-reset/)
   - [Critical iba Deserialization Vulnerability Exposes ibaPDA and ibaDatCoordinator to RCE (CVE-2026-8024)](https://securityonline.info/iba-deserialization-vulnerability/)
   - [F5 Patches Two Critical NGINX Flaws in HTTP/3 and HTTP/2 Modules (CVE-2026-42530, CVE-2026-42055)](https://securityonline.info/nginx-vulnerabilities/)
+  - [Interlock and Rhysida Ransomware: IBM X-Force Maps a Shared Ecosystem](https://securityonline.info/interlock-rhysida-ransomware-ecosystem/)
   - [LiteLLM Authentication Bypass via Host Header Injection (CVE-2026-49468)](https://securityonline.info/litellm-authentication-bypass/)
   - [Node.js Security Updates: Urgent Action Required](https://securityonline.info/nodejs-security-updates/)
   - [Rockwell Automation patches multiple ICS flaws](https://securityonline.info/rockwell-factorytalk-flex-io-vulnerabilities/)
@@ -67,6 +72,10 @@
   - [Operation Escaneo Signals Shift in LatAm Threat Landscape](https://www.darkreading.com/cybersecurity-operations/operation-escaneo-signals-shift-latam-threat-landscape)
 - defend.network
   - [NGINX RCE, Windows crypto-stealer, Salesforce breaches, INC ransomware surge](https://defend.network/briefings/nginx-rce-windows-clipper-salesforce-ransomware-2026-06-19.html)
+- ElcomSoft blog
+  - [“Get Verification Code” Is Missing in iOS 18 and iOS 26; Here’s Where It Went](https://blog.elcomsoft.com/2026/06/get-verification-code-is-missing-in-ios-18-and-ios-26-heres-where-it-went/)
+- Emergent Minds | paddo.dev
+  - [The Trap Was Only for the Robots](https://paddo.dev/blog/the-trap-was-only-for-the-robots/)
 - Fidelis Security
   - [How does deception-based threat detection work in cloud and hybrid environments?](https://fidelissecurity.com/threatgeek/deception/deception-based-threat-detection-in-cloud-and-hybrid-environments/)
 - Hacker News Frontpage
@@ -79,6 +88,8 @@
   - [The AI Hate Progression](https://www.xodium.net/2026/06/the-ai-hate-progression.html)
   - [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
   - [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
+- infosecurity-magazine.com
+  - [Confidence Lacks in Threat Detection Across Non-Email Channels like Slack and Teams](https://www.infosecurity-magazine.com/news/threat-detection-across-nonemail/)
 - krebsonsecurity.com
   - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
 - Linux Foundation Blogs
@@ -89,6 +100,8 @@
   - [Saveitforparts: Testing a Prototype of the NanoFarfield Portable Antenna Measurement System](https://www.rtl-sdr.com/saveitforparts-testing-a-prototype-of-the-nanofarfield-portable-antenna-measurement-system/)
 - simonwillison.net
   - [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-7515 exploit](https://sploitus.com/exploit?id=B4119C33-B2E4-5CF6-A38C-1B60A728E117&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI data centers just got a government-mandated fast lane to the grid](https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/)
   - [AI inference startup Baseten reportedly raising $1.5B months after its last mega round](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/)
@@ -113,6 +126,7 @@
   - [Anthropic brings Artifacts to Claude Code, letting teams share live pages from coding sessions](https://the-decoder.com/anthropic-brings-artifacts-to-claude-code-letting-teams-share-live-pages-from-coding-sessions/)
   - [ChatGPT's new health upgrade beats doctor-written answers, OpenAI says](https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/)
   - [Google Deepmind treats its own AI agents like rogue employees with office keys](https://the-decoder.com/google-deepmind-treats-its-own-ai-agents-like-rogue-employees-with-office-keys/)
+  - [Website "In the Weights" shows whether AI models know who you are](https://the-decoder.com/website-in-the-weights-shows-whether-ai-models-know-who-you-are/)
 - The Verge
   - [A year of Walmart Plus is half off ahead of Prime Day](https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale)
   - [Barret Zoph is out at OpenAI again after just five months](https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab)
@@ -259,6 +273,7 @@
   - [CVE-2026-22674 Hashgraph Guardian Stored XSS via branding companyName field](https://vulners.com/cve/CVE-2026-22674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22674 Hashgraph Guardian Stored XSS via branding companyName field](https://vulners.com/cvelist/CVELIST:CVE-2026-22674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-2303 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-2303?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-2303 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-2303?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25865 Punto Switcher 4.5.0.583 Unquoted Search Path via WinExec](https://vulners.com/cve/CVE-2026-25865?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25865 Punto Switcher 4.5.0.583 Unquoted Search Path via WinExec](https://vulners.com/cvelist/CVELIST:CVE-2026-25865?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-2842](https://vulners.com/attackerkb/AKB:55768C6D-EF23-4CA8-9DEE-C234C7418D09?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -266,6 +281,7 @@
   - [CVE-2026-32174 Azure Bot Service Elevation of Privilege Vulnerability](https://vulners.com/cve/CVE-2026-32174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32174 Azure Bot Service Elevation of Privilege Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-32174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3450](https://vulners.com/cve/CVE-2026-3450?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-3640](https://vulners.com/nvd/NVD:CVE-2026-3640?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38714](https://vulners.com/nvd/NVD:CVE-2026-38714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38715](https://vulners.com/nvd/NVD:CVE-2026-38715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38716](https://vulners.com/nvd/NVD:CVE-2026-38716?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -282,6 +298,7 @@
   - [CVE-2026-45696](https://vulners.com/nvd/NVD:CVE-2026-45696?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46461](https://vulners.com/cve/CVE-2026-46461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46461](https://vulners.com/cvelist/CVELIST:CVE-2026-46461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46461](https://vulners.com/nvd/NVD:CVE-2026-46461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46580](https://vulners.com/nvd/NVD:CVE-2026-46580?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46699](https://vulners.com/nvd/NVD:CVE-2026-46699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47633](https://vulners.com/nvd/NVD:CVE-2026-47633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -388,6 +405,7 @@
   - [CVE-2026-56132](https://vulners.com/nvd/NVD:CVE-2026-56132?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6716](https://vulners.com/attackerkb/AKB:3A9D3808-F1F4-4C06-A34D-FE191EBB6900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6716](https://vulners.com/nvd/NVD:CVE-2026-6716?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6798](https://vulners.com/nvd/NVD:CVE-2026-6798?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7253](https://vulners.com/cve/CVE-2026-7253?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7515](https://vulners.com/nvd/NVD:CVE-2026-7515?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7547](https://vulners.com/nvd/NVD:CVE-2026-7547?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -411,6 +429,7 @@
   - [CVE-2026-9822](https://vulners.com/nvd/NVD:CVE-2026-9822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Daytona: Path traversal in sandbox volume id mounts arbitrary host paths into the sandbox — cross-tenant data access and host escape](https://vulners.com/github/GHSA-FJV8-J4P5-CR9M?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-4782](https://vulners.com/githubexploit/C202AC27-3587-5FA5-8F6F-5ABF0783B49C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-7515](https://vulners.com/githubexploit/B4119C33-B2E4-5CF6-A38C-1B60A728E117?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce](https://vulners.com/githubexploit/D957F9E4-9C77-51C8-ABF6-D8CDEFA692D0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Authorization in Qualcomm Aqt1000_Firmware](https://vulners.com/githubexploit/BCB47C98-0582-5D63-8AD2-BEDC3EE82B1F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for OS Command Injection in Fortinet Fortisandbox](https://vulners.com/githubexploit/5E0FB8A6-E884-5589-885F-A7A3B2122BB9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -434,6 +453,7 @@
   - [GHSA-992Q-W5XV-32HH vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-992Q-W5XV-32HH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-992Q-W5XV-32HH vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-992Q-W5XV-32HH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-CP6G-7HQX-QXHP vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-CP6G-7HQX-QXHP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-CP6G-7HQX-QXHP vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-CP6G-7HQX-QXHP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-FM4M-52GR-MP53 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-FM4M-52GR-MP53?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-FM4M-52GR-MP53 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-FM4M-52GR-MP53?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-GVMJ-G25R-R7WR vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-GVMJ-G25R-R7WR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -491,6 +511,7 @@
   - [Updated ruby-rack packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0226?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Wordfence Intelligence Weekly WordPress Vulnerability Report (June 8, 2026 to June 14, 2026)](https://vulners.com/wordfence/WORDFENCE:B9604FEE54DABC8BB65104781CDE2E9A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress Avada (Fusion) Builder plugin <= 3.15.3 - Unauthenticated Arbitrary File Deletion via Form Entry Value vulnerability](https://vulners.com/patchstack/PATCHSTACK:6783ADFCB4B0F7F3702856B91D400801?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [WordPress Bit integrations – Form Integration, Webhook, Spreadsheets, CRM, LMS & Email Automation plugin <= 2.8.7 - Unauthenticated Server-Side Request Forgery vulnerability](https://vulners.com/patchstack/PATCHSTACK:1AAEA48047C072C63F788F139D9C564C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [44 Best Father’s Day Gifts for Dads (2026)](https://www.wired.com/story/the-best-gifts-for-dads-2026-1/)
   - [Chirp Discount Codes: Save Up to 67%](https://www.wired.com/story/chirp-discount-code/)
@@ -510,6 +531,7 @@
   - [Whoop Promo Codes: 20% Off This June 2026](https://www.wired.com/story/whoop-promo-code/)
 - 不安全
   - [BSim-foundry: pre-built function signatures for zlib, OpenSSL, mbedTLS, SQLite, libcurl and 24 more. headless + GUI + IDA/BN via SightHouse](https://buaq.net/go-424047.html)
+  - [eBanking Phishing Delivered Through IPv4-Mapped IPv6 Address, (Fri, Jun 19th)](https://buaq.net/go-424065.html)
   - [Snapchat "My Data" artifact analysis - Complete absence of a specific UID vs soft/hard deletion logging](https://buaq.net/go-424048.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -521,3 +543,4 @@
   - [Meta与Crusoe达成新的AI算力合作协议](https://blog.upx8.com/Meta%E4%B8%8ECrusoe%E8%BE%BE%E6%88%90%E6%96%B0%E7%9A%84AI%E7%AE%97%E5%8A%9B%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE)
   - [亚马逊正调查批评AI数据中心扩张的工程师](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%AD%A3%E8%B0%83%E6%9F%A5%E6%89%B9%E8%AF%84AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%89%A9%E5%BC%A0%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%88)
   - [苹果音乐公布平台播放量最高的20位艺人](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E9%9F%B3%E4%B9%90%E5%85%AC%E5%B8%83%E5%B9%B3%E5%8F%B0%E6%92%AD%E6%94%BE%E9%87%8F%E6%9C%80%E9%AB%98%E7%9A%8420%E4%BD%8D%E8%89%BA%E4%BA%BA)
+  - [马斯克称中国AI明年一季度达到Fable级别](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%B8%AD%E5%9B%BDAI%E6%98%8E%E5%B9%B4%E4%B8%80%E5%AD%A3%E5%BA%A6%E8%BE%BE%E5%88%B0Fable%E7%BA%A7%E5%88%AB)
