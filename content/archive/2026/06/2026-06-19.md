@@ -9,6 +9,7 @@
   - [没想到端午高速也这么塞车](https://2libra.com/post/personal-life/s2hHoWr)
   - [端午节别争什么甜粽咸粽了，能不能先把我身边的杂粽带走！](https://2libra.com/post/festival-things/qxVCe7x)
 - 36氪
+  - [17只绩优潜力硬科技小盘股出炉](https://36kr.com/newsflashes/3859737490887944?f=rss)
   - [2026端午档首日电影票房破亿，上映数量创近十年同期新高](https://36kr.com/newsflashes/3859735763014912?f=rss)
   - [Meta或同数据中心公司Crusoe签署AI算力协议](https://36kr.com/newsflashes/3859409018770438?f=rss)
   - [SK集团称去年创造社会价值32.2万亿韩元](https://36kr.com/newsflashes/3859406102828288?f=rss)
@@ -43,7 +44,9 @@
 - CERT Recently Published Vulnerability Notes
   - [VU#457458: Vendor-signed UEFI applications found vulnerable to Secure Boot bypass](https://kb.cert.org/vuls/id/457458)
 - Cybersecurity News
+  - [1M WordPress Sites at Risk: Critical Unauthenticated Arbitrary File Deletion in Avada Builder (CVSS 9.1)](https://securityonline.info/avada-builder-vulnerability/)
   - [Apple Opens iOS to Third-Party App Stores in Brazil Under CADE Settlement](https://securityonline.info/ios-third-party-app-stores-brazil/)
+  - [APT37 NarwhalRAT Malware: A Python Backdoor Threat](https://securityonline.info/apt37-narwhalrat-malware/)
   - [Chrome Extension Vulnerabilities: Millions at Risk](https://securityonline.info/chrome-extension-vulnerabilities/)
   - [Claude Code Quota Reset Follows Morning Outage](https://securityonline.info/claude-code-quota-reset/)
   - [Critical iba Deserialization Vulnerability Exposes ibaPDA and ibaDatCoordinator to RCE (CVE-2026-8024)](https://securityonline.info/iba-deserialization-vulnerability/)
@@ -101,6 +104,7 @@
   - [Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports](https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/)
   - [The 11 standout startups from YC’s Demo Day, according to VCs](https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/)
   - [The smartphone era created an attention crisis. Slowtech is fixing it](https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/)
+  - [The US says ASML’s top chip tool may be in China. ASML says it isn’t](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)
   - [‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone](https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/)
 - text/plain
   - [A Quarter Century in Tech](https://textslashplain.com/2026/06/18/a-quarter-century-in-tech/)
@@ -276,6 +280,8 @@
   - [CVE-2026-44688](https://vulners.com/nvd/NVD:CVE-2026-44688?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44691](https://vulners.com/nvd/NVD:CVE-2026-44691?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45696](https://vulners.com/nvd/NVD:CVE-2026-45696?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46461](https://vulners.com/cve/CVE-2026-46461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46461](https://vulners.com/cvelist/CVELIST:CVE-2026-46461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46580](https://vulners.com/nvd/NVD:CVE-2026-46580?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46699](https://vulners.com/nvd/NVD:CVE-2026-46699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47633](https://vulners.com/nvd/NVD:CVE-2026-47633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -512,5 +518,6 @@
 - 爱范儿
   - [早报｜追觅组织调整，取消未落地业务/DeepSeek识图模式上线/《GTA6》预购时间官宣](https://www.ifanr.com/1669442?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [Meta与Crusoe达成新的AI算力合作协议](https://blog.upx8.com/Meta%E4%B8%8ECrusoe%E8%BE%BE%E6%88%90%E6%96%B0%E7%9A%84AI%E7%AE%97%E5%8A%9B%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE)
   - [亚马逊正调查批评AI数据中心扩张的工程师](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%AD%A3%E8%B0%83%E6%9F%A5%E6%89%B9%E8%AF%84AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%89%A9%E5%BC%A0%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%88)
   - [苹果音乐公布平台播放量最高的20位艺人](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E9%9F%B3%E4%B9%90%E5%85%AC%E5%B8%83%E5%B9%B3%E5%8F%B0%E6%92%AD%E6%94%BE%E9%87%8F%E6%9C%80%E9%AB%98%E7%9A%8420%E4%BD%8D%E8%89%BA%E4%BA%BA)
