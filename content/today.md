@@ -88,17 +88,29 @@
   - [Let's Encrypt has been down most of today](https://letsencrypt.status.io/#2026)
   - [McMansions 101: What Makes a McMansion Bad Architecture?](https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad)
   - [Migrating from GNU Stow to Chezmoi](https://rednafi.com/misc/chezmoi/)
+  - [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel)
   - [The AI Hate Progression](https://www.xodium.net/2026/06/the-ai-hate-progression.html)
   - [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
   - [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
 - Horizon3.ai
   - [AI Infrastructure Security: Pentesting MCP & Agentic Systems](https://horizon3.ai/intelligence/blogs/ai-infrastructure-pentesting-and-security/)
+- InfoSec Write-ups - Medium
+  - [Brave Blue Team Lab (CyberDefenders)](https://infosecwriteups.com/brave-blue-team-lab-cyberdefenders-2d4b8726669c?source=rss----7b722bfd1b8d---4)
+  - [CRTA Exam Writeup — Passed | CyberWarFare Labs](https://infosecwriteups.com/crta-exam-writeup-passed-cyberwarfare-lab-d55e776c82e7?source=rss----7b722bfd1b8d---4)
+  - [Phone Numbers and Emails to Hidden Subdomains: The OSINT Acquisition Pipeline That Uncovered a…](https://infosecwriteups.com/phone-numbers-and-emails-to-hidden-subdomains-the-osint-acquisition-pipeline-that-uncovered-a-16b1e7d533cd?source=rss----7b722bfd1b8d---4)
+  - [VulnHub — sunset: dawn | Full Walkthrough](https://infosecwriteups.com/vulnhub-sunset-dawn-full-walkthrough-db12d38d2e3b?source=rss----7b722bfd1b8d---4)
+  - [Web-RTA Exam Writeup — Passed | CyberWarFare Labs](https://infosecwriteups.com/web-rta-exam-writeup-passed-cyberwarfare-labs-20c6bd74e675?source=rss----7b722bfd1b8d---4)
+  - [“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
+  - [AWS Unveils 'Continuum,' an AI-Powered Vulnerability Management Platform](https://www.infosecurity-magazine.com/news/aws-continuum-ai-vulnerability/)
   - [Confidence Lacks in Threat Detection Across Non-Email Channels like Slack and Teams](https://www.infosecurity-magazine.com/news/threat-detection-across-nonemail/)
+  - [Operation Endgame Disrupts Malware Network Linked to Major Ransomware Gang](https://www.infosecurity-magazine.com/news/operation-endgame-socgholish-evil/)
 - krebsonsecurity.com
   - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
 - Linux Foundation Blogs
   - [Linux Foundation Newsletter: June 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026)
+- MIT Technology Review
+  - [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/)
 - ProjectDiscovery.io | Blog
   - [The Vulnerability Curve Bent With the AI Curve](https://projectdiscovery.io/blog/the-vulnerability-curve-bent-with-the-ai-curve)
 - PwnDefend
@@ -108,6 +120,7 @@
 - simonwillison.net
   - [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-48611 exploit](https://sploitus.com/exploit?id=8AEE2E17-4372-5700-B169-5318D3612CF1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-7515 exploit](https://sploitus.com/exploit?id=B4119C33-B2E4-5CF6-A38C-1B60A728E117&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI data centers just got a government-mandated fast lane to the grid](https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/)
@@ -134,6 +147,7 @@
   - [ChatGPT's new health upgrade beats doctor-written answers, OpenAI says](https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/)
   - [Google appeals ruling that made it directly liable for AI-generated search overview content](https://the-decoder.com/google-appeals-ruling-that-made-it-directly-liable-for-ai-generated-search-overview-content/)
   - [Google Deepmind treats its own AI agents like rogue employees with office keys](https://the-decoder.com/google-deepmind-treats-its-own-ai-agents-like-rogue-employees-with-office-keys/)
+  - [OpenAI researchers show small doses of "beneficial trait" training make AI models broadly safer and harder to manipulate](https://the-decoder.com/openai-researchers-show-small-doses-of-beneficial-trait-training-make-ai-models-broadly-safer-and-harder-to-manipulate/)
   - [Website "In the Weights" shows whether AI models know who you are](https://the-decoder.com/website-in-the-weights-shows-whether-ai-models-know-who-you-are/)
 - The Verge
   - [A year of Walmart Plus is half off ahead of Prime Day](https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale)
@@ -245,6 +259,7 @@
   - [CVE-2026-10746](https://vulners.com/attackerkb/AKB:1E55100E-CB9A-4426-B494-0E6BF00083CA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10746](https://vulners.com/nvd/NVD:CVE-2026-10746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10779](https://vulners.com/nvd/NVD:CVE-2026-10779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11576](https://vulners.com/nvd/NVD:CVE-2026-11576?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11752](https://vulners.com/cve/CVE-2026-11752?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11752](https://vulners.com/nvd/NVD:CVE-2026-11752?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11775](https://vulners.com/nvd/NVD:CVE-2026-11775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -291,6 +306,7 @@
   - [CVE-2026-32174](https://vulners.com/nvd/NVD:CVE-2026-32174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32174 Azure Bot Service Elevation of Privilege Vulnerability](https://vulners.com/cve/CVE-2026-32174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32174 Azure Bot Service Elevation of Privilege Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-32174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-34192](https://vulners.com/nvd/NVD:CVE-2026-34192?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-34192 GPU DDK - _MMU_AllocLevel error recovery paths leave dangling page table entries](https://vulners.com/cve/CVE-2026-34192?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-34192 GPU DDK - _MMU_AllocLevel error recovery paths leave dangling page table entries](https://vulners.com/cvelist/CVELIST:CVE-2026-34192?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3450](https://vulners.com/cve/CVE-2026-3450?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -301,6 +317,7 @@
   - [CVE-2026-38717](https://vulners.com/nvd/NVD:CVE-2026-38717?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38718](https://vulners.com/nvd/NVD:CVE-2026-38718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40624](https://vulners.com/nvd/NVD:CVE-2026-40624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41156](https://vulners.com/nvd/NVD:CVE-2026-41156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41156 GPU DDK - kernel<->fw CCB contains SYNC_PRIMITIVE_BLOCK firmware address without holding reference](https://vulners.com/cve/CVE-2026-41156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41156 GPU DDK - kernel<->fw CCB contains SYNC_PRIMITIVE_BLOCK firmware address without holding reference](https://vulners.com/cvelist/CVELIST:CVE-2026-41156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4328](https://vulners.com/nvd/NVD:CVE-2026-4328?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -418,6 +435,7 @@
   - [CVE-2026-56099 OpenBSD mpls_do_error Kernel Stack Memory Disclosure via MPLS Input](https://vulners.com/cvelist/CVELIST:CVE-2026-56099?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56131](https://vulners.com/nvd/NVD:CVE-2026-56131?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56132](https://vulners.com/nvd/NVD:CVE-2026-56132?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56138](https://vulners.com/nvd/NVD:CVE-2026-56138?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6716](https://vulners.com/attackerkb/AKB:3A9D3808-F1F4-4C06-A34D-FE191EBB6900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6716](https://vulners.com/nvd/NVD:CVE-2026-6716?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6798](https://vulners.com/nvd/NVD:CVE-2026-6798?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -430,6 +448,7 @@
   - [CVE-2026-8118](https://vulners.com/nvd/NVD:CVE-2026-8118?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8296](https://vulners.com/cve/CVE-2026-8296?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8296](https://vulners.com/cvelist/CVELIST:CVE-2026-8296?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8296](https://vulners.com/nvd/NVD:CVE-2026-8296?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8668](https://vulners.com/nvd/NVD:CVE-2026-8668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8668 Hardcoded credentials in embedded content](https://vulners.com/cve/CVE-2026-8668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8668 Hardcoded credentials in embedded content](https://vulners.com/cvelist/CVELIST:CVE-2026-8668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -446,6 +465,7 @@
   - [CVE-2026-9822](https://vulners.com/nvd/NVD:CVE-2026-9822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Daytona: Path traversal in sandbox volume id mounts arbitrary host paths into the sandbox — cross-tenant data access and host escape](https://vulners.com/github/GHSA-FJV8-J4P5-CR9M?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-4782](https://vulners.com/githubexploit/C202AC27-3587-5FA5-8F6F-5ABF0783B49C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-48611](https://vulners.com/githubexploit/8AEE2E17-4372-5700-B169-5318D3612CF1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-7515](https://vulners.com/githubexploit/B4119C33-B2E4-5CF6-A38C-1B60A728E117?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce](https://vulners.com/githubexploit/D957F9E4-9C77-51C8-ABF6-D8CDEFA692D0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Authorization in Qualcomm Aqt1000_Firmware](https://vulners.com/githubexploit/BCB47C98-0582-5D63-8AD2-BEDC3EE82B1F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -455,6 +475,7 @@
   - [Exploit for SQL Injection in Sangoma Freepbx](https://vulners.com/githubexploit/D3C0976F-73D0-56D5-A6FE-0D68A14D8753?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit-Powershell](https://vulners.com/githubexploit/78C2C0F8-5911-5A4A-95C9-2EA7BC4C262D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://vulners.com/thn/THN:C7FA6B3714F629DCAC6C797403B37CF0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://vulners.com/thn/THN:3C6F9A5A3E9C4B04A5105B4C0B6BA62D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-268H-HP4C-CRQ3 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-268H-HP4C-CRQ3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-34XG-WGJX-8XPH vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-34XG-WGJX-8XPH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-4527-QC36-R4C9 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-4527-QC36-R4C9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -544,10 +565,12 @@
   - [Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump](https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/)
   - [Nike Promo Codes and Discounts: 30% for June 2026](https://www.wired.com/story/nike-promo-code/)
   - [Prediction Market Philosophers Got What They Wanted. They’re Not Happy About It](https://www.wired.com/story/prediction-market-philosophers-got-what-they-wanted/)
+  - [Pump.Fun’s Bounties Platform Is a Black Hole of Circular Grifting](https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/)
   - [Rover Promo Codes and Referral Deals for June 2026](https://www.wired.com/story/rover-promo-code/)
   - [Sam's Club Promo Codes and Membership Deals for June 2026](https://www.wired.com/story/sams-club-coupon/)
   - [Therabody Promo Codes: 15% Off June 2026](https://www.wired.com/story/therabody-promo-code/)
   - [Trump Mocked Mark Zuckerberg and Jeff Bezos by Showing Off Fawning Texts](https://www.wired.com/story/trump-mocked-mark-zuckerberg-and-jeff-bezos-by-showing-off-fawning-texts/)
+  - [Try One of macOS 27’s Best Features Right Now](https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/)
   - [Whoop Promo Codes: 20% Off This June 2026](https://www.wired.com/story/whoop-promo-code/)
 - 不安全
   - [BSim-foundry: pre-built function signatures for zlib, OpenSSL, mbedTLS, SQLite, libcurl and 24 more. headless + GUI + IDA/BN via SightHouse](https://buaq.net/go-424047.html)
