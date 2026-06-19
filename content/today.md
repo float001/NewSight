@@ -3,6 +3,8 @@
 - 2Libra
   - [27 号用户。。社区已经这么大了](https://2libra.com/post/forum-function/s3XnDtt)
   - [没想到端午高速也这么塞车](https://2libra.com/post/personal-life/s2hHoWr)
+- 36氪
+  - [美股三大指数集体收涨，SpaceX跌超3%](https://36kr.com/newsflashes/3859387771852032?f=rss)
 - 404 Media
   - [A New Fossil Discovery Just Rewrote 150 Years of Evolutionary Theory](https://www.404media.co/a-new-fossil-discovery-just-rewrote-150-years-of-evolutionary-theory/)
 - Ars Technica
@@ -11,12 +13,14 @@
   - [VU#457458: Vendor-signed UEFI applications found vulnerable to Secure Boot bypass](https://kb.cert.org/vuls/id/457458)
 - Cybersecurity News
   - [Node.js Security Updates: Urgent Action Required](https://securityonline.info/nodejs-security-updates/)
+  - [Rockwell Automation patches multiple ICS flaws](https://securityonline.info/rockwell-factorytalk-flex-io-vulnerabilities/)
   - [Splunk CVE-2026-20253: CVSS 9.8 RCE Exploited in the Wild](https://securityonline.info/splunk-cve-2026-20253-rce-exploited/)
 - daringfireball.net
   - [Cotypist – Smart Autocomplete Utility for Mac](https://cotypist.app/)
   - [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html)
   - [New Domain for Sign In With Apple and iCloud+ Hide My Email](https://developer.apple.com/news/?id=sus6t6ab)
   - [SpaceX, Newly Public, to Acquire Cursor for $60 Billion in SpaceX Funny-Money Stock](https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html)
+  - [Verizon, Formerly Menace Mobile](https://www.youtube.com/watch?v=lzmntndEXWo)
 - darkreading
   - [FIFA Bug Exposed World Cup Streams to Remote Takeover](https://www.darkreading.com/application-security/fifa-bug-world-cup-streams-remote-takeover)
   - [Novo Nordisk Breach Exposes Software Development Pipeline Risk](https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk)
@@ -49,6 +53,8 @@
   - [Rivian owners file lawsuit alleging false promises on self-driving features](https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/)
   - [Rivian owners sue over false promises on self-driving features](https://techcrunch.com/2026/06/18/rivian-owners-sue-over-false-promises-on-self-driving-features/)
   - [Snap spins off AI video team into new company, Dotmo, due to costs](https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/)
+  - [Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/)
+  - [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
   - [Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports](https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/)
   - [The 11 standout startups from YC’s Demo Day, according to VCs](https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/)
   - [The smartphone era created an attention crisis. Slowtech is fixing it](https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/)
@@ -123,6 +129,13 @@
   - [CVE-2026-11982](https://vulners.com/nvd/NVD:CVE-2026-11982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11982 Stored XSS via missing XSS safety check in Admin2 Pages API partial validation](https://vulners.com/cve/CVE-2026-11982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11982 Stored XSS via missing XSS safety check in Admin2 Pages API partial validation](https://vulners.com/cvelist/CVELIST:CVE-2026-11982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12044](https://vulners.com/nvd/NVD:CVE-2026-12044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12045](https://vulners.com/nvd/NVD:CVE-2026-12045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12046](https://vulners.com/nvd/NVD:CVE-2026-12046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12047](https://vulners.com/nvd/NVD:CVE-2026-12047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12048](https://vulners.com/nvd/NVD:CVE-2026-12048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12049](https://vulners.com/nvd/NVD:CVE-2026-12049?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12050](https://vulners.com/nvd/NVD:CVE-2026-12050?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12320 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-12320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12320 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-12320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12321 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-12321?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -150,6 +163,7 @@
   - [CVE-2026-38716](https://vulners.com/nvd/NVD:CVE-2026-38716?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38717](https://vulners.com/nvd/NVD:CVE-2026-38717?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38718](https://vulners.com/nvd/NVD:CVE-2026-38718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40624](https://vulners.com/nvd/NVD:CVE-2026-40624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43915 Coturn: Stored Cross-Site Scripting (XSS) in web-admin interface via TURN username](https://vulners.com/cve/CVE-2026-43915?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43915 Coturn: Stored Cross-Site Scripting (XSS) in web-admin interface via TURN username](https://vulners.com/cvelist/CVELIST:CVE-2026-43915?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43994](https://vulners.com/nvd/NVD:CVE-2026-43994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -196,6 +210,8 @@
   - [CVE-2026-49454](https://vulners.com/nvd/NVD:CVE-2026-49454?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49978 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-49978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49978 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-49978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50034](https://vulners.com/nvd/NVD:CVE-2026-50034?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52866](https://vulners.com/nvd/NVD:CVE-2026-52866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53655 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-53655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54017](https://vulners.com/nvd/NVD:CVE-2026-54017?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54017 Open WebUI: Path traversal / SSRF in terminal server proxy via encoded path traversal](https://vulners.com/cve/CVE-2026-54017?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -342,3 +358,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [Splunk AI Toolkit曝高危漏洞：CVSS 9.1，可远程执行任意系统命令](https://www.anquanke.com/post/id/315618)
+- 爱范儿
+  - [早报｜追觅组织调整，取消未落地业务/DeepSeek识图模式上线/《GTA6》预购时间官宣](https://www.ifanr.com/1669442?utm_source=rss&utm_medium=rss&utm_campaign=)
