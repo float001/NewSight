@@ -18,6 +18,7 @@
   - [亚马逊员工遭公司内部调查，曾公开批评数据中心扩张](https://36kr.com/newsflashes/3859409625256963?f=rss)
   - [亚马逊拟向第三方数据中心销售AI芯片](https://36kr.com/newsflashes/3859403678684424?f=rss)
   - [华尔街投行筹备SpaceX至少200亿美元潜在债券发行](https://36kr.com/newsflashes/3859573996983560?f=rss)
+  - [商务部：将对澳大利亚进口牛肉加征55%关税](https://36kr.com/newsflashes/3859875405042946?f=rss)
   - [因AI安全隐患遭监管，Anthropic承诺加强与美政府沟通](https://36kr.com/newsflashes/3859408242004996?f=rss)
   - [安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向](https://36kr.com/p/3859469888508933?f=rss)
   - [广州知易生物科技递表港交所](https://36kr.com/newsflashes/3859405582013448?f=rss)
@@ -25,12 +26,14 @@
   - [数说故事递表港交所](https://36kr.com/newsflashes/3859406436783112?f=rss)
   - [日本5月核心通胀率持稳于1.4%，符合预期](https://36kr.com/newsflashes/3859405161600006?f=rss)
   - [日本央行审议委员：将根据经济和通胀情况继续加息](https://36kr.com/newsflashes/3859402412119043?f=rss)
+  - [杰瑞股份：今年以来，公司燃气轮机发电机组销售价格已多次上涨](https://36kr.com/newsflashes/3859744863884292?f=rss)
   - [欧洲央行首席经济学家称中性利率区间上限小幅升至2.5%](https://36kr.com/newsflashes/3859579789431812?f=rss)
   - [浙江首个“子母”变电站项目投运](https://36kr.com/newsflashes/3859743134241799?f=rss)
   - [深圳传音控股股份有限公司递表港交所](https://36kr.com/newsflashes/3859407547257856?f=rss)
   - [现代汽车集团拟将波士顿动力转为全资子公司](https://36kr.com/newsflashes/3859401780434176?f=rss)
   - [瑞典呼吁禁止特斯拉FSD在欧盟范围内落地，除非其禁用超速功能](https://36kr.com/newsflashes/3859404287480835?f=rss)
   - [石药创新再度递表港交所](https://36kr.com/newsflashes/3859404644766983?f=rss)
+  - [硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万](https://36kr.com/p/3859926114161665?f=rss)
   - [端午假期首日，长三角铁路预计发送旅客415万人](https://36kr.com/newsflashes/3859573474268166?f=rss)
   - [美对德国药品定价启动301调查](https://36kr.com/newsflashes/3859572611322886?f=rss)
   - [美股三大指数集体收涨，SpaceX跌超3%](https://36kr.com/newsflashes/3859387771852032?f=rss)
@@ -88,6 +91,8 @@
   - [The AI Hate Progression](https://www.xodium.net/2026/06/the-ai-hate-progression.html)
   - [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
   - [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
+- Horizon3.ai
+  - [AI Infrastructure Security: Pentesting MCP & Agentic Systems](https://horizon3.ai/intelligence/blogs/ai-infrastructure-pentesting-and-security/)
 - infosecurity-magazine.com
   - [Confidence Lacks in Threat Detection Across Non-Email Channels like Slack and Teams](https://www.infosecurity-magazine.com/news/threat-detection-across-nonemail/)
 - krebsonsecurity.com
@@ -96,6 +101,8 @@
   - [Linux Foundation Newsletter: June 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026)
 - ProjectDiscovery.io | Blog
   - [The Vulnerability Curve Bent With the AI Curve](https://projectdiscovery.io/blog/the-vulnerability-curve-bent-with-the-ai-curve)
+- PwnDefend
+  - [Bleeding Out](https://www.pwndefend.com/2026/06/19/bleeding-out/)
 - rtl-sdr.com
   - [Saveitforparts: Testing a Prototype of the NanoFarfield Portable Antenna Measurement System](https://www.rtl-sdr.com/saveitforparts-testing-a-prototype-of-the-nanofarfield-portable-antenna-measurement-system/)
 - simonwillison.net
@@ -125,6 +132,7 @@
   - [Alleged China ties at SK Telecom alarmed US officials and triggered Anthropic crisis](https://the-decoder.com/alleged-china-ties-at-sk-telecom-alarmed-us-officials-and-triggered-anthropic-crisis/)
   - [Anthropic brings Artifacts to Claude Code, letting teams share live pages from coding sessions](https://the-decoder.com/anthropic-brings-artifacts-to-claude-code-letting-teams-share-live-pages-from-coding-sessions/)
   - [ChatGPT's new health upgrade beats doctor-written answers, OpenAI says](https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/)
+  - [Google appeals ruling that made it directly liable for AI-generated search overview content](https://the-decoder.com/google-appeals-ruling-that-made-it-directly-liable-for-ai-generated-search-overview-content/)
   - [Google Deepmind treats its own AI agents like rogue employees with office keys](https://the-decoder.com/google-deepmind-treats-its-own-ai-agents-like-rogue-employees-with-office-keys/)
   - [Website "In the Weights" shows whether AI models know who you are](https://the-decoder.com/website-in-the-weights-shows-whether-ai-models-know-who-you-are/)
 - The Verge
@@ -149,6 +157,7 @@
   - [CVE-2026-12390 | AzeoTech DAQFactory up to 21.1 type confusion (icsa-26-169-02)](https://vuldb.com/vuln/372266)
   - [CVE-2026-22551 | Eclipse Theia up to 1.70.x AI Feature insertion of sensitive information into sent data](https://vuldb.com/vuln/372231)
   - [CVE-2026-25865 | Yandex Punto Switcher up to 4.5.0.583 RunDll32.exe unquoted search path](https://vuldb.com/vuln/372272)
+  - [CVE-2026-3640 | strablengineering STRABL Plugin up to 4.5 on WordPress REST API Webhook Endpoint order __return_true authorization](https://vuldb.com/vuln/372339)
   - [CVE-2026-38714 | InHand IR912/IR915 1.0.0.r20042 Configuration command injection](https://vuldb.com/vuln/372225)
   - [CVE-2026-38715 | InHand IR912/IR915 1.0.0.r20042 command injection](https://vuldb.com/vuln/372227)
   - [CVE-2026-38716 | InHand IR912/IR915 1.0.0.r20042 command injection](https://vuldb.com/vuln/372226)
@@ -158,6 +167,7 @@
   - [CVE-2026-43994 | Coturn up to 4.9.x OAuth Access Token decode_oauth_token_gcm buffer overflow (GHSA-74pg-rfh2-5qw5)](https://vuldb.com/vuln/372278)
   - [CVE-2026-44663 | AcademySoftwareFoundation OpenEXR up to 3.4.10 EXR Image internal_ht.cpp ht_undo_impl integer overflow (GHSA-777r-f9x8-7r84)](https://vuldb.com/vuln/372279)
   - [CVE-2026-45696 | AcademySoftwareFoundation OpenEXR up to 3.4.10 Exrcheck Utility ht_undo_impl i32[] heap-based overflow (GHSA-gjpj-qv64-vwhf)](https://vuldb.com/vuln/372284)
+  - [CVE-2026-46461 | Dell Server Hardware Manager up to 3.2.2 access control (dsa-2026-243)](https://vuldb.com/vuln/372341)
   - [CVE-2026-46699 | conda-forge conda-smithy up to 3.60.x access control (GHSA-g95q-3cmj-fvh8)](https://vuldb.com/vuln/372283)
   - [CVE-2026-47647 | Microsoft Dynamics 365 access control](https://vuldb.com/vuln/372288)
   - [CVE-2026-47833 | Cloud Foundry bpm-release up to 1.4.29 Password Hash bpm.log link following](https://vuldb.com/vuln/372263)
@@ -179,6 +189,7 @@
   - [CVE-2026-55204 | HAProxy up to 3.4.0 Dynamic Table src/hpack-tbl.c hpack_dht_insert null pointer dereference](https://vuldb.com/vuln/372230)
   - [CVE-2026-55392 | nilfs-dev nilfs-utils up to 2.3.0 nilfs_sb_is_valid improper validation of specified quantity in input (Issue 26)](https://vuldb.com/vuln/372262)
   - [CVE-2026-56099 | OpenBSD up to 2026-06-18 MPLS sys/netmpls/mpls_input.c mpls_do_error out-of-bounds](https://vuldb.com/vuln/372276)
+  - [CVE-2026-6798 | 2download Connector for 2DL Hosted Checkout Plugin up to 0.1.5 on WordPress Subscription authorization](https://vuldb.com/vuln/372340)
   - [CVE-2026-8100 | Progress Chef Chef360 up to 1.7.0 API Endpoint path traversal](https://vuldb.com/vuln/372289)
   - [CVE-2026-9692 | HAYAJO Mojolicious::Sessions::Storable up to 0.05 on Perl Default Session ID Generator rand generation of predictable numbers or identifiers](https://vuldb.com/vuln/372264)
 - Vulners.com RSS Feed
@@ -280,6 +291,8 @@
   - [CVE-2026-32174](https://vulners.com/nvd/NVD:CVE-2026-32174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32174 Azure Bot Service Elevation of Privilege Vulnerability](https://vulners.com/cve/CVE-2026-32174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32174 Azure Bot Service Elevation of Privilege Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-32174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-34192 GPU DDK - _MMU_AllocLevel error recovery paths leave dangling page table entries](https://vulners.com/cve/CVE-2026-34192?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-34192 GPU DDK - _MMU_AllocLevel error recovery paths leave dangling page table entries](https://vulners.com/cvelist/CVELIST:CVE-2026-34192?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3450](https://vulners.com/cve/CVE-2026-3450?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3640](https://vulners.com/nvd/NVD:CVE-2026-3640?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38714](https://vulners.com/nvd/NVD:CVE-2026-38714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -288,6 +301,8 @@
   - [CVE-2026-38717](https://vulners.com/nvd/NVD:CVE-2026-38717?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-38718](https://vulners.com/nvd/NVD:CVE-2026-38718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40624](https://vulners.com/nvd/NVD:CVE-2026-40624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41156 GPU DDK - kernel<->fw CCB contains SYNC_PRIMITIVE_BLOCK firmware address without holding reference](https://vulners.com/cve/CVE-2026-41156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41156 GPU DDK - kernel<->fw CCB contains SYNC_PRIMITIVE_BLOCK firmware address without holding reference](https://vulners.com/cvelist/CVELIST:CVE-2026-41156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4328](https://vulners.com/nvd/NVD:CVE-2026-4328?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43915 Coturn: Stored Cross-Site Scripting (XSS) in web-admin interface via TURN username](https://vulners.com/cve/CVE-2026-43915?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43915 Coturn: Stored Cross-Site Scripting (XSS) in web-admin interface via TURN username](https://vulners.com/cvelist/CVELIST:CVE-2026-43915?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -413,6 +428,8 @@
   - [CVE-2026-8100](https://vulners.com/cvelist/CVELIST:CVE-2026-8100?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8100](https://vulners.com/nvd/NVD:CVE-2026-8100?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8118](https://vulners.com/nvd/NVD:CVE-2026-8118?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8296](https://vulners.com/cve/CVE-2026-8296?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8296](https://vulners.com/cvelist/CVELIST:CVE-2026-8296?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8668](https://vulners.com/nvd/NVD:CVE-2026-8668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8668 Hardcoded credentials in embedded content](https://vulners.com/cve/CVE-2026-8668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8668 Hardcoded credentials in embedded content](https://vulners.com/cvelist/CVELIST:CVE-2026-8668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -512,8 +529,10 @@
   - [Wordfence Intelligence Weekly WordPress Vulnerability Report (June 8, 2026 to June 14, 2026)](https://vulners.com/wordfence/WORDFENCE:B9604FEE54DABC8BB65104781CDE2E9A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress Avada (Fusion) Builder plugin <= 3.15.3 - Unauthenticated Arbitrary File Deletion via Form Entry Value vulnerability](https://vulners.com/patchstack/PATCHSTACK:6783ADFCB4B0F7F3702856B91D400801?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress Bit integrations – Form Integration, Webhook, Spreadsheets, CRM, LMS & Email Automation plugin <= 2.8.7 - Unauthenticated Server-Side Request Forgery vulnerability](https://vulners.com/patchstack/PATCHSTACK:1AAEA48047C072C63F788F139D9C564C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [WordPress WP Hotel Booking plugin < 2.3.1 - Subscriber+ Missing Authorization in Multiple AJAX Handlers vulnerability](https://vulners.com/patchstack/PATCHSTACK:07C358FCB0994BF6407350A180D4C644?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [44 Best Father’s Day Gifts for Dads (2026)](https://www.wired.com/story/the-best-gifts-for-dads-2026-1/)
+  - [An Open Strait of Hormuz Won’t Fix Gas Prices Overnight](https://www.wired.com/story/an-open-strait-of-hormuz-wont-fix-gas-prices-overnight/)
   - [Chirp Discount Codes: Save Up to 67%](https://www.wired.com/story/chirp-discount-code/)
   - [Design Within Reach Promo Codes: 30% Off | June 2026](https://www.wired.com/story/design-within-reach-promo-code/)
   - [eBay Coupons: 20% Off in June 2026](https://www.wired.com/story/ebay-coupon-code/)
@@ -524,6 +543,7 @@
   - [Meta Quest Promo Codes and Coupons for June 2026](https://www.wired.com/story/meta-quest-promo-code/)
   - [Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump](https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/)
   - [Nike Promo Codes and Discounts: 30% for June 2026](https://www.wired.com/story/nike-promo-code/)
+  - [Prediction Market Philosophers Got What They Wanted. They’re Not Happy About It](https://www.wired.com/story/prediction-market-philosophers-got-what-they-wanted/)
   - [Rover Promo Codes and Referral Deals for June 2026](https://www.wired.com/story/rover-promo-code/)
   - [Sam's Club Promo Codes and Membership Deals for June 2026](https://www.wired.com/story/sams-club-coupon/)
   - [Therabody Promo Codes: 15% Off June 2026](https://www.wired.com/story/therabody-promo-code/)
@@ -532,6 +552,7 @@
 - 不安全
   - [BSim-foundry: pre-built function signatures for zlib, OpenSSL, mbedTLS, SQLite, libcurl and 24 more. headless + GUI + IDA/BN via SightHouse](https://buaq.net/go-424047.html)
   - [eBanking Phishing Delivered Through IPv4-Mapped IPv6 Address, (Fri, Jun 19th)](https://buaq.net/go-424065.html)
+  - [Martyx00/VulnFanatic-NG: BianryNinja plugin for identifying vulnerabilities in decompiled binaries with both programmatic scans and LLM support.](https://buaq.net/go-424068.html)
   - [Snapchat "My Data" artifact analysis - Complete absence of a specific UID vs soft/hard deletion logging](https://buaq.net/go-424048.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
