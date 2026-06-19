@@ -44,6 +44,7 @@
   - [A New Fossil Discovery Just Rewrote 150 Years of Evolutionary Theory](https://www.404media.co/a-new-fossil-discovery-just-rewrote-150-years-of-evolutionary-theory/)
 - Ars Technica
   - [After Senate vote, Trump admin backs off plans to kill ocean monitoring](https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/)
+  - [As global warming threatens corals, scientists search for reefs that can take the heat](https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/)
 - Articles | InfoStealers
   - [Inside the FortiBleed Response: Hudson Rock’s Insights into the Global Disclosure Effort](https://www.infostealers.com/article/inside-the-fortibleed-response-hudson-rocks-insights-into-the-global-disclosure-effort/)
 - Blog - Praetorian
@@ -105,6 +106,8 @@
   - [AWS Unveils 'Continuum,' an AI-Powered Vulnerability Management Platform](https://www.infosecurity-magazine.com/news/aws-continuum-ai-vulnerability/)
   - [Confidence Lacks in Threat Detection Across Non-Email Channels like Slack and Teams](https://www.infosecurity-magazine.com/news/threat-detection-across-nonemail/)
   - [Operation Endgame Disrupts Malware Network Linked to Major Ransomware Gang](https://www.infosecurity-magazine.com/news/operation-endgame-socgholish-evil/)
+- Kali Linux Tutorials
+  - [Install VLC Ubuntu: Complete VLC Setup Guide](https://kalilinuxtutorials.com/install-vlc-ubuntu/)
 - krebsonsecurity.com
   - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
 - Linux Foundation Blogs
@@ -115,6 +118,8 @@
   - [The Vulnerability Curve Bent With the AI Curve](https://projectdiscovery.io/blog/the-vulnerability-curve-bent-with-the-ai-curve)
 - PwnDefend
   - [Bleeding Out](https://www.pwndefend.com/2026/06/19/bleeding-out/)
+- Recent Commits to cve:main
+  - [Update Fri Jun 19 11:54:58 UTC 2026](https://github.com/trickest/cve/commit/c8c50fb1d033fa42b62368e4e84bdad49f98b028)
 - rtl-sdr.com
   - [Saveitforparts: Testing a Prototype of the NanoFarfield Portable Antenna Measurement System](https://www.rtl-sdr.com/saveitforparts-testing-a-prototype-of-the-nanofarfield-portable-antenna-measurement-system/)
 - simonwillison.net
@@ -122,6 +127,7 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-48611 exploit](https://sploitus.com/exploit?id=8AEE2E17-4372-5700-B169-5318D3612CF1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-7515 exploit](https://sploitus.com/exploit?id=B4119C33-B2E4-5CF6-A38C-1B60A728E117&utm_source=rss&utm_medium=rss)
+  - [vlc-vp9-reschange-crash-poc exploit](https://sploitus.com/exploit?id=E02CB4CB-0913-58BB-BC4A-E816074BC110&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI data centers just got a government-mandated fast lane to the grid](https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/)
   - [AI inference startup Baseten reportedly raising $1.5B months after its last mega round](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/)
@@ -154,6 +160,8 @@
   - [Barret Zoph is out at OpenAI again after just five months](https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab)
   - [Firefox’s new home page widgets are helping me focus](https://www.theverge.com/tech/952354/firefox-home-page-widgets)
   - [HBO Max&#8217;s annual plans are 28 percent off right now](https://www.theverge.com/gadgets/952326/hbo-max-annual-plan-deal-sale)
+  - [In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human](https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv)
+  - [Kaleidescape’s movie player blows streaming, and your wallet, away](https://www.theverge.com/tech/951718/kaleidescape-strato-e-review)
   - [Snap’s Specs look good on nobody](https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast)
   - [The best early Amazon Prime Day deals so far](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals)
   - [The Onion’s rebooted InfoWars is coming July 2nd](https://www.theverge.com/news/952264/the-onion-infowars-takeover-alex-jones-relaunch)
@@ -547,6 +555,7 @@
   - [Updated luajit packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0225?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Updated opensc packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0224?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Updated ruby-rack packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0226?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [vlc-vp9-reschange-crash-poc](https://vulners.com/githubexploit/E02CB4CB-0913-58BB-BC4A-E816074BC110?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Wordfence Intelligence Weekly WordPress Vulnerability Report (June 8, 2026 to June 14, 2026)](https://vulners.com/wordfence/WORDFENCE:B9604FEE54DABC8BB65104781CDE2E9A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress Avada (Fusion) Builder plugin <= 3.15.3 - Unauthenticated Arbitrary File Deletion via Form Entry Value vulnerability](https://vulners.com/patchstack/PATCHSTACK:6783ADFCB4B0F7F3702856B91D400801?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress Bit integrations – Form Integration, Webhook, Spreadsheets, CRM, LMS & Email Automation plugin <= 2.8.7 - Unauthenticated Server-Side Request Forgery vulnerability](https://vulners.com/patchstack/PATCHSTACK:1AAEA48047C072C63F788F139D9C564C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -554,6 +563,7 @@
 - Wired
   - [44 Best Father’s Day Gifts for Dads (2026)](https://www.wired.com/story/the-best-gifts-for-dads-2026-1/)
   - [An Open Strait of Hormuz Won’t Fix Gas Prices Overnight](https://www.wired.com/story/an-open-strait-of-hormuz-wont-fix-gas-prices-overnight/)
+  - [Best Mesh Wi-Fi Systems (2026): Netgear, Asus, Amazon, and More](https://www.wired.com/story/best-mesh-wifi-routers/)
   - [Chirp Discount Codes: Save Up to 67%](https://www.wired.com/story/chirp-discount-code/)
   - [Design Within Reach Promo Codes: 30% Off | June 2026](https://www.wired.com/story/design-within-reach-promo-code/)
   - [eBay Coupons: 20% Off in June 2026](https://www.wired.com/story/ebay-coupon-code/)
@@ -568,6 +578,7 @@
   - [Pump.Fun’s Bounties Platform Is a Black Hole of Circular Grifting](https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/)
   - [Rover Promo Codes and Referral Deals for June 2026](https://www.wired.com/story/rover-promo-code/)
   - [Sam's Club Promo Codes and Membership Deals for June 2026](https://www.wired.com/story/sams-club-coupon/)
+  - [The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini](https://www.wired.com/gallery/the-best-ipad/)
   - [Therabody Promo Codes: 15% Off June 2026](https://www.wired.com/story/therabody-promo-code/)
   - [Trump Mocked Mark Zuckerberg and Jeff Bezos by Showing Off Fawning Texts](https://www.wired.com/story/trump-mocked-mark-zuckerberg-and-jeff-bezos-by-showing-off-fawning-texts/)
   - [Try One of macOS 27’s Best Features Right Now](https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/)
@@ -586,5 +597,6 @@
 - 黑海洋
   - [Meta与Crusoe达成新的AI算力合作协议](https://blog.upx8.com/Meta%E4%B8%8ECrusoe%E8%BE%BE%E6%88%90%E6%96%B0%E7%9A%84AI%E7%AE%97%E5%8A%9B%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE)
   - [亚马逊正调查批评AI数据中心扩张的工程师](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%AD%A3%E8%B0%83%E6%9F%A5%E6%89%B9%E8%AF%84AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%89%A9%E5%BC%A0%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%88)
+  - [哪吒监控面板高危漏洞（CVE-2026-53519）深度分析与修复指南](https://blog.upx8.com/CVE-2026-53519)
   - [苹果音乐公布平台播放量最高的20位艺人](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E9%9F%B3%E4%B9%90%E5%85%AC%E5%B8%83%E5%B9%B3%E5%8F%B0%E6%92%AD%E6%94%BE%E9%87%8F%E6%9C%80%E9%AB%98%E7%9A%8420%E4%BD%8D%E8%89%BA%E4%BA%BA)
   - [马斯克称中国AI明年一季度达到Fable级别](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%B8%AD%E5%9B%BDAI%E6%98%8E%E5%B9%B4%E4%B8%80%E5%AD%A3%E5%BA%A6%E8%BE%BE%E5%88%B0Fable%E7%BA%A7%E5%88%AB)
