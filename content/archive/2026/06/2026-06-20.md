@@ -19,12 +19,15 @@
   - [大渡河金川水电站全容量投产发电](https://36kr.com/newsflashes/3860826831213572?f=rss)
   - [大连坤达完成数千万元A轮融资](https://36kr.com/newsflashes/3860909169366019?f=rss)
   - [德勤：A股上半年IPO预计将达70只，融资近700亿元](https://36kr.com/newsflashes/3860833378620675?f=rss)
+  - [抖音商城618数据：超12万商家直播成交额同比增长翻倍](https://36kr.com/newsflashes/3861055337157637?f=rss)
+  - [理想i6第15万台量产车下线](https://36kr.com/newsflashes/3861020174767109?f=rss)
   - [电影《玩具总动员5》内地总票房破6000万](https://36kr.com/newsflashes/3860888183051270?f=rss)
   - [盛吉盛先进半导体产品孵化与制造中心项目落地无锡](https://36kr.com/newsflashes/3860911711294725?f=rss)
   - [美元指数19日小幅下跌](https://36kr.com/newsflashes/3860834127467529?f=rss)
   - [美联储释放“鹰派”信号 本周金价微涨银价大跌](https://36kr.com/newsflashes/3860905883178248?f=rss)
   - [诺贝尔奖得主约翰·江珀宣布加盟Anthropic](https://36kr.com/newsflashes/3860793998267653?f=rss)
   - [金饰克价一夜又跌11元](https://36kr.com/newsflashes/3860900314584321?f=rss)
+  - [金饰克价年内大跌近450元](https://36kr.com/newsflashes/3861023152444681?f=rss)
   - [锦兴电厂1号机组一次并网成功](https://36kr.com/newsflashes/3860902754555141?f=rss)
   - [长三角铁路今日预计发送249万人次，增开旅客列车93列](https://36kr.com/newsflashes/3860898405913864?f=rss)
   - [陕西：前五月经济平稳向好 工业生产稳定增长](https://36kr.com/newsflashes/3860916355601415?f=rss)
@@ -50,6 +53,7 @@
   - [Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
   - [Hey, N00B, We Didn't Hire You to Complete Tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete)
   - [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film)
+  - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
   - [Iran requires insurance on ships using Strait of Hormuz, fees likely to follow](https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow)
   - [Zenzizenzizenzic](https://en.wikipedia.org/wiki/Zenzizenzizenzic)
 - Hacking Articles
@@ -58,6 +62,8 @@
   - [I know Kung-fu](https://idiallo.com/blog/i-know-kung-fu)
 - IEEE Spectrum
   - [IEEE Rolls Out Large Language Models Virtual Training Course](https://spectrum.ieee.org/large-language-models-ieee-course)
+- Kali Linux Tutorials
+  - [Install Chromium Ubuntu: Quick Browser Setup Guide](https://kalilinuxtutorials.com/install-chromium-ubuntu/)
 - Linux Foundation Blogs
   - [The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?](https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026)
 - pluralistic.net
@@ -395,6 +401,8 @@
   - [YHills-Internship-Projects](https://vulners.com/githubexploit/9BAD2D38-6083-56AE-9C84-7A8216491BA1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [诺奖得主转投Anthropic，谷歌48小时连失两大牛，内部信仰崩塌？](https://www.ifanr.com/1669460?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Jio正考虑打造印度卫星网络与星链竞争](https://blog.upx8.com/Jio%E6%AD%A3%E8%80%83%E8%99%91%E6%89%93%E9%80%A0%E5%8D%B0%E5%BA%A6%E5%8D%AB%E6%98%9F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%98%9F%E9%93%BE%E7%AB%9E%E4%BA%89)
   - [欧盟拟立法推动供应链多元化 降低对华依赖](https://blog.upx8.com/%E6%AC%A7%E7%9B%9F%E6%8B%9F%E7%AB%8B%E6%B3%95%E6%8E%A8%E5%8A%A8%E4%BE%9B%E5%BA%94%E9%93%BE%E5%A4%9A%E5%85%83%E5%8C%96-%E9%99%8D%E4%BD%8E%E5%AF%B9%E5%8D%8E%E4%BE%9D%E8%B5%96)
