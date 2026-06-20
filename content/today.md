@@ -3,8 +3,12 @@
 - Cybersecurity News
   - [Critical ArcGIS Account Recovery Targeted in Active Attacks](https://securityonline.info/arcgis-account-recovery-flaw-security-bulletin/)
 - Hacker News Frontpage
+  - [Dallas Fed: 30% of housing cost increase driven by unauthorized immigration [pdf]](https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2607.pdf)
   - [Show HN: My Windows XP portfolio with working Game Boy and iPod](https://mitchivin.com/)
+  - [Supermarket giant Tesco sues VMware for breach of contract](https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651)
   - [UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence](https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/)
+- johndcook.com
+  - [All pieces on a 6 by 5 board](https://www.johndcook.com/blog/2026/06/20/z3-python-claude/)
 - pluralistic.net
   - [Pluralistic: How the Epstein Class recruits (20 Jun 2026)](https://pluralistic.net/2026/06/20/any-club-that-would-have-me/)
 - Sploitus.com Exploits RSS Feed
