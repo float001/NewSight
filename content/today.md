@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-06-20）
 
 - 2Libra
+  - [【💰】哈基米你太坏了](https://2libra.com/post/forum-function/IYZrYrM)
   - [佛得角的新英雄——国家队 40 岁的门将沃齐尼亚](https://2libra.com/post/sports/4BP8Xhh)
   - [先看最大亏损，不要参与自己输不起的游戏](https://2libra.com/post/financial-management/tnioq3y)
   - [既然如此 就水个徽章出来吧](https://2libra.com/post/forum-function/Ic8Hc06)
@@ -9,20 +10,24 @@
   - [这种情况要不要翻](https://2libra.com/post/questions/Ww4u-nl)
   - [齐达内培养儿子情况](https://2libra.com/post/hotspot-tracking/fiFaytu)
 - 36氪
+  - [2026暑期档电影票房破10亿](https://36kr.com/newsflashes/3861026532742148?f=rss)
   - [7只机构评级股获融资净买入超10亿元](https://36kr.com/newsflashes/3860840238519302?f=rss)
   - [LME期铜收跌96美元，报13595美元/吨](https://36kr.com/newsflashes/3860831464248329?f=rss)
   - [三名中国裁判将亮相世界杯同场比赛](https://36kr.com/newsflashes/3860838059103239?f=rss)
   - [今年7月1日起 赴日签证费用涨价5倍](https://36kr.com/newsflashes/3860800528504064?f=rss)
   - [大众汽车加速推进业务重组 将裁减数万个岗位](https://36kr.com/newsflashes/3860797935834115?f=rss)
   - [大渡河金川水电站全容量投产发电](https://36kr.com/newsflashes/3860826831213572?f=rss)
+  - [大连坤达完成数千万元A轮融资](https://36kr.com/newsflashes/3860909169366019?f=rss)
   - [德勤：A股上半年IPO预计将达70只，融资近700亿元](https://36kr.com/newsflashes/3860833378620675?f=rss)
   - [电影《玩具总动员5》内地总票房破6000万](https://36kr.com/newsflashes/3860888183051270?f=rss)
+  - [盛吉盛先进半导体产品孵化与制造中心项目落地无锡](https://36kr.com/newsflashes/3860911711294725?f=rss)
   - [美元指数19日小幅下跌](https://36kr.com/newsflashes/3860834127467529?f=rss)
   - [美联储释放“鹰派”信号 本周金价微涨银价大跌](https://36kr.com/newsflashes/3860905883178248?f=rss)
   - [诺贝尔奖得主约翰·江珀宣布加盟Anthropic](https://36kr.com/newsflashes/3860793998267653?f=rss)
   - [金饰克价一夜又跌11元](https://36kr.com/newsflashes/3860900314584321?f=rss)
   - [锦兴电厂1号机组一次并网成功](https://36kr.com/newsflashes/3860902754555141?f=rss)
   - [长三角铁路今日预计发送249万人次，增开旅客列车93列](https://36kr.com/newsflashes/3860898405913864?f=rss)
+  - [陕西：前五月经济平稳向好 工业生产稳定增长](https://36kr.com/newsflashes/3860916355601415?f=rss)
   - [韩媒：韩国股市总市值首次突破8000万亿韩元](https://36kr.com/newsflashes/3860901354148867?f=rss)
 - blog.jim-nielsen.com
   - [Full Page Paralysis](https://blog.jim-nielsen.com/2026/full-page-paralysis/)
