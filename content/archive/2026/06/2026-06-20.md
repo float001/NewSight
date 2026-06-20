@@ -9,15 +9,25 @@
   - [这种情况要不要翻](https://2libra.com/post/questions/Ww4u-nl)
   - [齐达内培养儿子情况](https://2libra.com/post/hotspot-tracking/fiFaytu)
 - 36氪
+  - [LME期铜收跌96美元，报13595美元/吨](https://36kr.com/newsflashes/3860831464248329?f=rss)
+  - [三名中国裁判将亮相世界杯同场比赛](https://36kr.com/newsflashes/3860838059103239?f=rss)
+  - [今年7月1日起 赴日签证费用涨价5倍](https://36kr.com/newsflashes/3860800528504064?f=rss)
   - [大众汽车加速推进业务重组 将裁减数万个岗位](https://36kr.com/newsflashes/3860797935834115?f=rss)
+  - [大渡河金川水电站全容量投产发电](https://36kr.com/newsflashes/3860826831213572?f=rss)
+  - [德勤：A股上半年IPO预计将达70只，融资近700亿元](https://36kr.com/newsflashes/3860833378620675?f=rss)
+  - [美元指数19日小幅下跌](https://36kr.com/newsflashes/3860834127467529?f=rss)
   - [诺贝尔奖得主约翰·江珀宣布加盟Anthropic](https://36kr.com/newsflashes/3860793998267653?f=rss)
 - blog.jim-nielsen.com
   - [Full Page Paralysis](https://blog.jim-nielsen.com/2026/full-page-paralysis/)
+- Cybersecurity News
+  - [Device Code Phishing: Microsoft 365 Attack That Steals No Passwords](https://securityonline.info/device-code-phishing/)
 - daringfireball.net
+  - [Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer](https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-world-lager-brewer-a8874016.html)
   - [Fox to Buy Roku Streaming Service in $25 Billion Deal](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=mKdQwC&reflink=desktopwebshare_permalink)
   - [Jerry Seinfeld Tries Out Snap’s Specs](https://youtu.be/siM8NW24QPs?t=217)
   - [Snap Launches Ad Campaign for Specs Starring Michael Caine](https://www.reddit.com/r/funny/comments/1jk6onr/bloody_large_glasses_by_michael_caine/)
   - [Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro](https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-analysis-rcna349293)
+  - [‘What’s the Deal With Old Guys and Giant Glasses?’](https://www.youtube.com/watch?v=8DYGxn6Xvt0)
 - filfre.net
   - [The Goldilocks Principle in Fantasy Strategy](https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/)
 - GuidePoint Security
@@ -27,6 +37,7 @@
   - [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232)
   - [Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
   - [Hey, N00B, We Didn't Hire You to Complete Tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete)
+  - [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film)
   - [Iran requires insurance on ships using Strait of Hormuz, fees likely to follow](https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow)
   - [Zenzizenzizenzic](https://en.wikipedia.org/wiki/Zenzizenzizenzic)
 - Hacking Articles
@@ -131,6 +142,8 @@
   - [CVE-2026-9142 | NI grpc-device/InstrumentStudio up to 2.17.0 TLS Configuration missing authentication (GHSA-fhhw-37q8-6562)](https://vuldb.com/vuln/372386)
 - Vulners.com RSS Feed
   - [AINEE](https://vulners.com/githubexploit/5BEBD996-40A7-5820-A505-F8584E84A3BB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2006-7181](https://vulners.com/circl/CIRCL:CVE-2006-7181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2006-7183](https://vulners.com/circl/CIRCL:CVE-2006-7183?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2017-20252](https://vulners.com/nvd/NVD:CVE-2017-20252?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2017-20253](https://vulners.com/nvd/NVD:CVE-2017-20253?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2017-20254](https://vulners.com/nvd/NVD:CVE-2017-20254?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -321,17 +334,24 @@
   - [CVE-2026-56209](https://vulners.com/nvd/NVD:CVE-2026-56209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56210](https://vulners.com/nvd/NVD:CVE-2026-56210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56211](https://vulners.com/nvd/NVD:CVE-2026-56211?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56212](https://vulners.com/nvd/NVD:CVE-2026-56212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56212 Capgo - Improper 2FA Enforcement Logic via Team Security Settings](https://vulners.com/cve/CVE-2026-56212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56212 Capgo - Improper 2FA Enforcement Logic via Team Security Settings](https://vulners.com/cvelist/CVELIST:CVE-2026-56212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56213](https://vulners.com/nvd/NVD:CVE-2026-56213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56213 Capgo - Unauthenticated Cross-Tenant Metrics Poisoning via upsert_version_meta RPC](https://vulners.com/cve/CVE-2026-56213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56213 Capgo - Unauthenticated Cross-Tenant Metrics Poisoning via upsert_version_meta RPC](https://vulners.com/cvelist/CVELIST:CVE-2026-56213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56214](https://vulners.com/nvd/NVD:CVE-2026-56214?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56214 Capgo - Unauthenticated Organization Enumeration and Billing Status Disclosure via Supabase RPC](https://vulners.com/cve/CVE-2026-56214?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56214 Capgo - Unauthenticated Organization Enumeration and Billing Status Disclosure via Supabase RPC](https://vulners.com/cvelist/CVELIST:CVE-2026-56214?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56215](https://vulners.com/nvd/NVD:CVE-2026-56215?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56215 Capgo - Account Merge via Poisoned public.users.email in SSO Provisioning](https://vulners.com/cve/CVE-2026-56215?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56215 Capgo - Account Merge via Poisoned public.users.email in SSO Provisioning](https://vulners.com/cvelist/CVELIST:CVE-2026-56215?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56216](https://vulners.com/nvd/NVD:CVE-2026-56216?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56216 Capgo - Scope Escalation via API Key Creation in /functions/v1/apikey](https://vulners.com/cve/CVE-2026-56216?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56216 Capgo - Scope Escalation via API Key Creation in /functions/v1/apikey](https://vulners.com/cvelist/CVELIST:CVE-2026-56216?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9375](https://vulners.com/nvd/NVD:CVE-2026-9375?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9843 Database for Contact Form 7, WPforms, Elementor forms <= 1.5.1 - Unauthenticated Arbitrary File Deletion via CF7 File Field POST Value](https://vulners.com/cve/CVE-2026-9843?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9843 Database for Contact Form 7, WPforms, Elementor forms <= 1.5.1 - Unauthenticated Arbitrary File Deletion via CF7 File Field POST Value](https://vulners.com/cvelist/CVELIST:CVE-2026-9843?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-11551](https://vulners.com/githubexploit/F4DB36D1-16B3-5D76-9EDA-1FCB95DDC7E9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42530](https://vulners.com/githubexploit/B132E072-36D8-5390-949D-A06FA9ADC7B5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Execution with Unnecessary Privileges in Percona Monitoring_And_Management](https://vulners.com/githubexploit/44B81EDD-C298-593E-9EA3-5225EF88AC36?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -347,3 +367,4 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
   - [Jio正考虑打造印度卫星网络与星链竞争](https://blog.upx8.com/Jio%E6%AD%A3%E8%80%83%E8%99%91%E6%89%93%E9%80%A0%E5%8D%B0%E5%BA%A6%E5%8D%AB%E6%98%9F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%98%9F%E9%93%BE%E7%AB%9E%E4%BA%89)
+  - [欧盟拟立法推动供应链多元化 降低对华依赖](https://blog.upx8.com/%E6%AC%A7%E7%9B%9F%E6%8B%9F%E7%AB%8B%E6%B3%95%E6%8E%A8%E5%8A%A8%E4%BE%9B%E5%BA%94%E9%93%BE%E5%A4%9A%E5%85%83%E5%8C%96-%E9%99%8D%E4%BD%8E%E5%AF%B9%E5%8D%8E%E4%BE%9D%E8%B5%96)
