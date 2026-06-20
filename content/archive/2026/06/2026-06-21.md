@@ -2,6 +2,8 @@
 
 - Cybersecurity News
   - [Critical ArcGIS Account Recovery Targeted in Active Attacks](https://securityonline.info/arcgis-account-recovery-flaw-security-bulletin/)
+- Hacker News Frontpage
+  - [Show HN: My Windows XP portfolio with working Game Boy and iPod](https://mitchivin.com/)
 - pluralistic.net
   - [Pluralistic: How the Epstein Class recruits (20 Jun 2026)](https://pluralistic.net/2026/06/20/any-club-that-would-have-me/)
 - Sploitus.com Exploits RSS Feed
@@ -10,6 +12,7 @@
   - [web-security-home-lab exploit](https://sploitus.com/exploit?id=A1BEE599-14D1-54E0-B7DF-3543EE06C675&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Founders Fund’s outlier bet on humanely killed fish](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/)
+  - [In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/)
   - [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/)
 - The Decoder
   - [The EU doesn't really know what a deepfake is, and that's becoming a problem for retail](https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/)
@@ -21,6 +24,7 @@
   - [CVE-2022-50972 | WooCommerce 7.1.0 PHP File class-wc-meta-box-product-images.php product-type code injection (Exploit 51156 / EDB-51156)](https://vuldb.com/vuln/372532)
   - [CVE-2024-58351 | Flowise up to 2.1.3 Configuration code injection (GHSA-5cph-wvm9-45gj)](https://vuldb.com/vuln/372538)
   - [CVE-2025-71331 | Flowise up to 3.0.7 Chat Message cross site scripting (GHSA-4fr9-3x69-36wv)](https://vuldb.com/vuln/372551)
+  - [CVE-2025-71379 | vLLM up to 0.8.x OpenAI-compatible Serving Chat Endpoint vllm/lora/utils.py redos (GHSA-j828-28rj-hfhp)](https://vuldb.com/vuln/372565)
   - [CVE-2026-12673 | LiquidFiles up to 4.2.11 improper authorization](https://vuldb.com/vuln/372543)
   - [CVE-2026-12795 | BerriAI litellm up to 1.82.2 SSO Debug Flow ui_sso.py json.dumps missing authentication](https://vuldb.com/vuln/372557)
   - [CVE-2026-12796 | BerriAI litellm up to 1.82.2 SSO Authentication Flow ui_sso.py get_redirect_response_from_openid session expiration](https://vuldb.com/vuln/372558)
@@ -30,6 +34,7 @@
   - [CVE-2026-48908 | joomshaper SP Page Builder extension for Joomla 1.0.0-6.6.1 on Joomla access control](https://vuldb.com/vuln/372537)
   - [CVE-2026-48909 | joomshaper.net SP LMS Extension 1.0.0-4.1.3 deserialization](https://vuldb.com/vuln/372540)
   - [CVE-2026-48939 | iCagenda Extension up to 3.9.14/4.0.7 on Joomla access control](https://vuldb.com/vuln/372536)
+  - [CVE-2026-5366 | prefecthq prefect up to 3.6.23 commit_sha code injection](https://vuldb.com/vuln/372562)
   - [CVE-2026-56218 | Capgo up to 12.128.1 information disclosure (GHSA-c5w9-886p-9j2x)](https://vuldb.com/vuln/372548)
   - [CVE-2026-56227 | Capgo up to 12.128.1 Outbound Requests server-side request forgery (GHSA-48hc-53hv-6x3f)](https://vuldb.com/vuln/372550)
   - [CVE-2026-56228 | Capgo up to 12.128.1 Password Policy denial of service (GHSA-vhjp-62qf-33mx)](https://vuldb.com/vuln/372541)
@@ -46,11 +51,18 @@
   - [CVE-2026-56325 | Capgo up to 12.128.1 missing initialization (GHSA-cw88-ch2j-8vqj)](https://vuldb.com/vuln/372544)
   - [CVE-2026-56330 | Capgo up to 12.128.1 callbackUrl/successUrl/cancelUrl redirect (GHSA-grc7-98pf-h8hq)](https://vuldb.com/vuln/372555)
   - [CVE-2026-56332 | Capgo up to 12.128.1 confirm-signup Endpoint confirmation_url redirect (GHSA-24q8-ghqq-m8cj)](https://vuldb.com/vuln/372553)
+  - [CVE-2026-56340 | vLLM up to 0.12.x prompt-embeds Feature out-of-bounds (GHSA-mcmc-2m55-j8jj)](https://vuldb.com/vuln/372569)
+  - [CVE-2026-56341 | AVideo up to 26.0 API Response list.json.php authorization (GHSA-wprj-9cvc-5w37)](https://vuldb.com/vuln/372566)
+  - [CVE-2026-56342 | AVideo up to 27.0 Network Configuration plugin/Live/test.php isSSRFSafeURL statsURL server-side request forgery (GHSA-wxjx-r2j2-96fx)](https://vuldb.com/vuln/372568)
+  - [CVE-2026-56345 | AVideo Meet Plugin up to 29.0 File uploadRecordedVideo.json.php Login improper authentication (GHSA-qxvm-r42f-5p8j)](https://vuldb.com/vuln/372563)
+  - [CVE-2026-56346 | AVideo up to 25.0 decryptMessage.json.php missing authentication (GHSA-5x2w-37xf-7962)](https://vuldb.com/vuln/372564)
+  - [CVE-2026-56347 | WWBN AVideo up to 26.0 Session Cookie cross site scripting (GHSA-gmpc-fxg2-vcmq)](https://vuldb.com/vuln/372567)
 - Vulners.com RSS Feed
   - [browserlover](https://vulners.com/githubexploit/7D09A83C-C6CD-5EFA-9E1F-FE28400B2E1F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ctf-hackathon-kit](https://vulners.com/githubexploit/F9B25569-99EF-5467-BAC4-D7CB41A642A6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-58351](https://vulners.com/nvd/NVD:CVE-2024-58351?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71331](https://vulners.com/nvd/NVD:CVE-2025-71331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-71379](https://vulners.com/nvd/NVD:CVE-2025-71379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71379 vllm - Regular Expression Denial of Service in Multiple Components](https://vulners.com/cve/CVE-2025-71379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71379 vllm - Regular Expression Denial of Service in Multiple Components](https://vulners.com/cvelist/CVELIST:CVE-2025-71379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5366](https://vulners.com/nvd/NVD:CVE-2026-5366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -70,18 +82,25 @@
   - [CVE-2026-56325](https://vulners.com/nvd/NVD:CVE-2026-56325?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56330](https://vulners.com/nvd/NVD:CVE-2026-56330?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56332](https://vulners.com/nvd/NVD:CVE-2026-56332?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56340](https://vulners.com/nvd/NVD:CVE-2026-56340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56340 vLLM - Denial of Service via Unvalidated Multimodal Embeddings](https://vulners.com/cve/CVE-2026-56340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56340 vLLM - Denial of Service via Unvalidated Multimodal Embeddings](https://vulners.com/cvelist/CVELIST:CVE-2026-56340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56341](https://vulners.com/nvd/NVD:CVE-2026-56341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56341 AVideo - Unauthenticated Access to Payment Log DataTables Endpoints via list.json.php](https://vulners.com/cve/CVE-2026-56341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56341 AVideo - Unauthenticated Access to Payment Log DataTables Endpoints via list.json.php](https://vulners.com/cvelist/CVELIST:CVE-2026-56341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56342](https://vulners.com/nvd/NVD:CVE-2026-56342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56342 AVideo - Server-Side Request Forgery in Live/test.php via statsURL Parameter](https://vulners.com/cve/CVE-2026-56342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56342 AVideo - Server-Side Request Forgery in Live/test.php via statsURL Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-56342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56345](https://vulners.com/nvd/NVD:CVE-2026-56345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56345 AVideo - Arbitrary User Session Hijacking via Meet Plugin uploadRecordedVideo Endpoint](https://vulners.com/cve/CVE-2026-56345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56345 AVideo - Arbitrary User Session Hijacking via Meet Plugin uploadRecordedVideo Endpoint](https://vulners.com/cvelist/CVELIST:CVE-2026-56345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56346](https://vulners.com/nvd/NVD:CVE-2026-56346?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56346 AVideo - Unauthenticated PGP Message Decryption via decryptMessage.json.php Endpoint](https://vulners.com/cve/CVE-2026-56346?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56346 AVideo - Unauthenticated PGP Message Decryption via decryptMessage.json.php Endpoint](https://vulners.com/cvelist/CVELIST:CVE-2026-56346?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56347](https://vulners.com/nvd/NVD:CVE-2026-56347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56347 AVideo TopMenu Plugin - Stored Cross-Site Scripting via Unescaped Menu Item Fields](https://vulners.com/cve/CVE-2026-56347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56347 AVideo TopMenu Plugin - Stored Cross-Site Scripting via Unescaped Menu Item Fields](https://vulners.com/cvelist/CVELIST:CVE-2026-56347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Malicious code in d0rk3r-telemetry (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-6244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-security-home-lab](https://vulners.com/githubexploit/A1BEE599-14D1-54E0-B7DF-3543EE06C675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
