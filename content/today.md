@@ -16,10 +16,12 @@
   - [LME期铜收跌96美元，报13595美元/吨](https://36kr.com/newsflashes/3860831464248329?f=rss)
   - [三名中国裁判将亮相世界杯同场比赛](https://36kr.com/newsflashes/3860838059103239?f=rss)
   - [上交所拟完善股票期权组合策略业务，推出单边平仓功能](https://36kr.com/newsflashes/3861199831700744?f=rss)
+  - [中国在商用光纤端部构建了一种三维光纤微镊 输出力是传统光镊的十万倍以上](https://36kr.com/newsflashes/3861209206740228?f=rss)
   - [今年7月1日起 赴日签证费用涨价5倍](https://36kr.com/newsflashes/3860800528504064?f=rss)
   - [大众汽车加速推进业务重组 将裁减数万个岗位](https://36kr.com/newsflashes/3860797935834115?f=rss)
   - [大渡河金川水电站全容量投产发电](https://36kr.com/newsflashes/3860826831213572?f=rss)
   - [大连坤达完成数千万元A轮融资](https://36kr.com/newsflashes/3860909169366019?f=rss)
+  - [张雪称自己创业时比李书福幸福](https://36kr.com/newsflashes/3861205226787840?f=rss)
   - [德勤：A股上半年IPO预计将达70只，融资近700亿元](https://36kr.com/newsflashes/3860833378620675?f=rss)
   - [抖音商城618数据：超12万商家直播成交额同比增长翻倍](https://36kr.com/newsflashes/3861055337157637?f=rss)
   - [晋江文学城就部分用户充值未到账致歉：已全部处理完毕](https://36kr.com/newsflashes/3861016431449092?f=rss)
@@ -37,6 +39,7 @@
   - [长三角铁路今日预计发送249万人次，增开旅客列车93列](https://36kr.com/newsflashes/3860898405913864?f=rss)
   - [陕西：前五月经济平稳向好 工业生产稳定增长](https://36kr.com/newsflashes/3860916355601415?f=rss)
   - [韩媒：韩国股市总市值首次突破8000万亿韩元](https://36kr.com/newsflashes/3860901354148867?f=rss)
+  - [马斯克已行使了其2018年特斯拉CEO薪酬方案的全部权利 获得了3.04亿股股票](https://36kr.com/newsflashes/3861257361626112?f=rss)
 - blog.jim-nielsen.com
   - [Full Page Paralysis](https://blog.jim-nielsen.com/2026/full-page-paralysis/)
 - Cybersecurity News
@@ -50,6 +53,8 @@
   - [‘What’s the Deal With Old Guys and Giant Glasses?’](https://www.youtube.com/watch?v=8DYGxn6Xvt0)
 - defend.network
   - [Apple A12/A13 unpatchable exploit; Gentlemen RaaS doubles EDR killers; Fortinet FortiBleed escalates](https://defend.network/briefings/apple-a12-a13-fortinet-gentlemen-ransomware-2026-06-20.html)
+- Emergent Minds | paddo.dev
+  - [Cron With Judgment](https://paddo.dev/blog/cron-with-judgment/)
 - filfre.net
   - [The Goldilocks Principle in Fantasy Strategy](https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/)
 - GuidePoint Security
@@ -88,6 +93,7 @@
   - [Exploit for OS Command Injection in Ray_Project Ray exploit](https://sploitus.com/exploit?id=B7F3888A-67A2-5DAE-904A-1F178F5B69DD&utm_source=rss&utm_medium=rss)
   - [ghidra-12.1.2-rce-ace-calc-poc exploit](https://sploitus.com/exploit?id=6942BEF6-F3B9-5F95-986C-70DF7746686F&utm_source=rss&utm_medium=rss)
   - [ghost-bits-toolkit exploit](https://sploitus.com/exploit?id=78CF8AD6-3E6A-58B5-B3C4-2D259401D82F&utm_source=rss&utm_medium=rss)
+  - [jfp-console-poc exploit](https://sploitus.com/exploit?id=21035EF9-5EDC-5620-8320-382C3B11EE13&utm_source=rss&utm_medium=rss)
   - [Nyx-tool-By-Pray-Roman exploit](https://sploitus.com/exploit?id=C84B5231-AD4C-5DFC-B479-4EBB6CB2F6E6&utm_source=rss&utm_medium=rss)
   - [PhantomCommits-CTF exploit](https://sploitus.com/exploit?id=267A765B-AF6E-5280-849A-0BDCD33EBD9F&utm_source=rss&utm_medium=rss)
   - [Sql-injection-demo exploit](https://sploitus.com/exploit?id=EEB1E980-0710-5596-9408-D2B6931CF0DE&utm_source=rss&utm_medium=rss)
@@ -101,6 +107,7 @@
   - [Is the US government’s Anthropic ban accidentally helping the brand?](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/)
 - The Decoder
   - [Amazon drops its OpenAI drama film after signing a $50 billion deal with Sam Altman's company](https://the-decoder.com/amazon-drops-its-openai-drama-film-after-signing-a-50-billion-deal-with-sam-altmans-company/)
+  - [ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls](https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/)
   - [Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic](https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/)
   - [Norway bans generative AI tools in elementary schools to protect kids' basic learning skills](https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/)
   - [OpenAI tripled revenue to $5.7 billion in Q1 but burned through $3.7 billion to get there](https://the-decoder.com/openai-tripled-revenue-to-5-7-billion-in-q1-but-burned-through-3-7-billion-to-get-there/)
@@ -407,6 +414,7 @@
   - [GHSA-VMH5-MC38-953G vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-VMH5-MC38-953G?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-W2H3-VVVQ-3M53 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-W2H3-VVVQ-3M53?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-X96M-RH44-VGV8 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-X96M-RH44-VGV8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [jfp-console-poc](https://vulners.com/githubexploit/21035EF9-5EDC-5620-8320-382C3B11EE13?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Nyx-tool-By-Pray-Roman](https://vulners.com/githubexploit/C84B5231-AD4C-5DFC-B479-4EBB6CB2F6E6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PhantomCommits-CTF](https://vulners.com/githubexploit/267A765B-AF6E-5280-849A-0BDCD33EBD9F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Sql-injection-demo](https://vulners.com/githubexploit/EEB1E980-0710-5596-9408-D2B6931CF0DE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
