@@ -85,6 +85,8 @@
 - PwnDefend
   - [Fortibleed continued…](https://www.pwndefend.com/2026/06/20/fortibleed-continued/)
   - [You Can’t Defend Everything: Threat Modelling as an Economics Problem](https://www.pwndefend.com/2026/06/20/you-cant-defend-everything-threat-modelling-as-an-economics-problem/)
+- shkspr.mobi
+  - [Which Copyleft Licence is Suitable for an SVG?](https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/)
 - simonwillison.net
   - [Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -120,6 +122,7 @@
   - [Hue’s wired wall modules bring non-smart lights into its ecosystem](https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb)
   - [Nothing cancels this year&#8217;s CMF phone due to RAM prices](https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices)
   - [SwitchBot’s Standing Circulator Fan is worth fighting for](https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review)
+  - [Toy Story has the right take on tech](https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer)
 - VulDB Recent Entries
   - [CVE-2016-20085 | Realtek High Definition Audio Driver 6.0.1.6730 unquoted search path (Exploit 40587 / EDB-40587)](https://vuldb.com/vuln/372392)
   - [CVE-2016-20087 | Networkdls Fortitude HTTP 1.0.4.0 unquoted search path (Exploit 40461 / EDB-40461)](https://vuldb.com/vuln/372379)
@@ -437,6 +440,7 @@
   - [GHSA-VMH5-MC38-953G vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-VMH5-MC38-953G?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-W2H3-VVVQ-3M53 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-W2H3-VVVQ-3M53?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-X96M-RH44-VGV8 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-X96M-RH44-VGV8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GumVulns](https://vulners.com/githubexploit/D4275D24-A482-561B-8402-1DE456184863?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Hackers Claim to Leak Stolen Madison Square Garden Data](https://vulners.com/wired/WIRED:6EAA0778FAA6CAA5158FCD6DCCC93CBC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [jfp-console-poc](https://vulners.com/githubexploit/21035EF9-5EDC-5620-8320-382C3B11EE13?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Nyx-tool-By-Pray-Roman](https://vulners.com/githubexploit/C84B5231-AD4C-5DFC-B479-4EBB6CB2F6E6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
