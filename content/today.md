@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【💰】哈基米你太坏了](https://2libra.com/post/forum-function/IYZrYrM)
+  - [【💰】终于轮到我潘多拉开出 卡皮巴拉 了，金币概率 50%](https://2libra.com/post/forum-function/b6m48UO)
   - [佛得角的新英雄——国家队 40 岁的门将沃齐尼亚](https://2libra.com/post/sports/4BP8Xhh)
   - [兄弟们! stepfun 免费蹬 15 天!](https://2libra.com/post/invite-code/Z_HBZ9p)
   - [先看最大亏损，不要参与自己输不起的游戏](https://2libra.com/post/financial-management/tnioq3y)
@@ -81,7 +82,10 @@
   - [IEEE Rolls Out Large Language Models Virtual Training Course](https://spectrum.ieee.org/large-language-models-ieee-course)
   - [War Taught this Ukrainian Entrepreneur the Value of Resilience](https://spectrum.ieee.org/mikadze-struk-resilience-in-entrepreneurship)
 - Kali Linux Tutorials
+  - [Add Remove Users Ubuntu: Complete User Management Guide](https://kalilinuxtutorials.com/add-remove-users-ubuntu/)
+  - [Install Atom Ubuntu: Easy Setup Guide for Developers](https://kalilinuxtutorials.com/install-atom-ubuntu/)
   - [Install Chromium Ubuntu: Quick Browser Setup Guide](https://kalilinuxtutorials.com/install-chromium-ubuntu/)
+  - [Install Slack Ubuntu – Easy Setup Guide for Ubuntu 20.04](https://kalilinuxtutorials.com/install-slack-ubuntu/)
 - Linux Foundation Blogs
   - [The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?](https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026)
 - pluralistic.net
@@ -114,6 +118,7 @@
   - [Aura’s impressive e-ink photo frame doesn’t even look digital](https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/)
   - [Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
   - [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/)
+  - [Every new iOS 27 feature that’s worth knowing about](https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/)
   - [Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/)
   - [He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/)
   - [Is the US government’s Anthropic ban accidentally helping the brand?](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/)
@@ -132,6 +137,8 @@
   - [Nothing cancels this year&#8217;s CMF phone due to RAM prices](https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices)
   - [SwitchBot’s Standing Circulator Fan is worth fighting for](https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review)
   - [Toy Story has the right take on tech](https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer)
+- Threatninja.net
+  - [Hack The Box: Nanocorp Machine Walkhtrough – Hard Difficulity](https://threatninja.net/hack-the-box-nanocorp-machine-walkhtrough-hard-difficulity/)
 - VulDB Recent Entries
   - [CVE-2016-20085 | Realtek High Definition Audio Driver 6.0.1.6730 unquoted search path (Exploit 40587 / EDB-40587)](https://vuldb.com/vuln/372392)
   - [CVE-2016-20087 | Networkdls Fortitude HTTP 1.0.4.0 unquoted search path (Exploit 40461 / EDB-40461)](https://vuldb.com/vuln/372379)
@@ -280,10 +287,13 @@
   - [CVE-2019-25762](https://vulners.com/nvd/NVD:CVE-2019-25762?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2019-25762 Joomla! Component JoomProject 1.1.3.2 Information Disclosure](https://vulners.com/cve/CVE-2019-25762?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2019-25762 Joomla! Component JoomProject 1.1.3.2 Information Disclosure](https://vulners.com/cvelist/CVELIST:CVE-2019-25762?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2019-25763](https://vulners.com/nvd/NVD:CVE-2019-25763?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2019-25763 WordPress Ultimate Addons for Beaver Builder 1.2.4.1 Authentication Bypass](https://vulners.com/cve/CVE-2019-25763?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2019-25763 WordPress Ultimate Addons for Beaver Builder 1.2.4.1 Authentication Bypass](https://vulners.com/cvelist/CVELIST:CVE-2019-25763?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2020-37255](https://vulners.com/nvd/NVD:CVE-2020-37255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2020-37255 WordPress Time Capsule Plugin 1.21.16 Authentication Bypass](https://vulners.com/cve/CVE-2020-37255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2020-37255 WordPress Time Capsule Plugin 1.21.16 Authentication Bypass](https://vulners.com/cvelist/CVELIST:CVE-2020-37255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2022-50972](https://vulners.com/nvd/NVD:CVE-2022-50972?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2022-50972 WooCommerce 7.1.0 Remote Code Execution via class-wc-meta-box-product-images.php](https://vulners.com/cve/CVE-2022-50972?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2022-50972 WooCommerce 7.1.0 Remote Code Execution via class-wc-meta-box-product-images.php](https://vulners.com/cvelist/CVELIST:CVE-2022-50972?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-37264 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2023-37264?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -301,6 +311,7 @@
   - [CVE-2026-12620](https://vulners.com/nvd/NVD:CVE-2026-12620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12621](https://vulners.com/nvd/NVD:CVE-2026-12621?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12622](https://vulners.com/nvd/NVD:CVE-2026-12622?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12673](https://vulners.com/nvd/NVD:CVE-2026-12673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12726](https://vulners.com/nvd/NVD:CVE-2026-12726?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-27878](https://vulners.com/nvd/NVD:CVE-2026-27878?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3195](https://vulners.com/nvd/NVD:CVE-2026-3195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -308,6 +319,7 @@
   - [CVE-2026-32208](https://vulners.com/nvd/NVD:CVE-2026-32208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41178 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-41178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42895](https://vulners.com/nvd/NVD:CVE-2026-42895?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44727 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-44727?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45480](https://vulners.com/nvd/NVD:CVE-2026-45480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47203](https://vulners.com/attackerkb/AKB:E99B816C-660F-4FA0-BF87-A3F226E706CC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47203](https://vulners.com/nvd/NVD:CVE-2026-47203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -404,6 +416,7 @@
   - [CVE-2026-51844](https://vulners.com/nvd/NVD:CVE-2026-51844?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-51845](https://vulners.com/nvd/NVD:CVE-2026-51845?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-51846](https://vulners.com/nvd/NVD:CVE-2026-51846?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55170 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-55170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56073](https://vulners.com/nvd/NVD:CVE-2026-56073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56073 Cap-go - OTP Bypass via Response Manipulation in Email Verification](https://vulners.com/cve/CVE-2026-56073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56073 Cap-go - OTP Bypass via Response Manipulation in Email Verification](https://vulners.com/cvelist/CVELIST:CVE-2026-56073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -454,6 +467,8 @@
   - [ghidra-12.1.2-rce-ace-calc-poc](https://vulners.com/githubexploit/6942BEF6-F3B9-5F95-986C-70DF7746686F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ghost-bits-toolkit](https://vulners.com/githubexploit/78CF8AD6-3E6A-58B5-B3C4-2D259401D82F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-5WRP-CWCJ-Q835 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-5WRP-CWCJ-Q835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-CF98-J28V-49V6 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-CF98-J28V-49V6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-FCW5-X6J4-CCMP vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-FCW5-X6J4-CCMP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-PR7R-676H-XCF6 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-PR7R-676H-XCF6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-VMH5-MC38-953G vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-VMH5-MC38-953G?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-W2H3-VVVQ-3M53 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-W2H3-VVVQ-3M53?utm_source=rss&utm_medium=rss&utm_campaign=rss)
