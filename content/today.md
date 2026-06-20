@@ -42,6 +42,8 @@
   - [陕西：前五月经济平稳向好 工业生产稳定增长](https://36kr.com/newsflashes/3860916355601415?f=rss)
   - [韩媒：韩国股市总市值首次突破8000万亿韩元](https://36kr.com/newsflashes/3860901354148867?f=rss)
   - [马斯克已行使了其2018年特斯拉CEO薪酬方案的全部权利 获得了3.04亿股股票](https://36kr.com/newsflashes/3861257361626112?f=rss)
+- 404 Media
+  - [Scientists Propose Black Holes Don’t Exist, Are Something Much Stranger](https://www.404media.co/scientists-propose-black-holes-dont-exist-are-something-much-stranger/)
 - blog.jim-nielsen.com
   - [Full Page Paralysis](https://blog.jim-nielsen.com/2026/full-page-paralysis/)
 - Cybersecurity News
@@ -76,6 +78,7 @@
   - [I know Kung-fu](https://idiallo.com/blog/i-know-kung-fu)
 - IEEE Spectrum
   - [IEEE Rolls Out Large Language Models Virtual Training Course](https://spectrum.ieee.org/large-language-models-ieee-course)
+  - [War Taught this Ukrainian Entrepreneur the Value of Resilience](https://spectrum.ieee.org/mikadze-struk-resilience-in-entrepreneurship)
 - Kali Linux Tutorials
   - [Install Chromium Ubuntu: Quick Browser Setup Guide](https://kalilinuxtutorials.com/install-chromium-ubuntu/)
 - Linux Foundation Blogs
@@ -104,6 +107,8 @@
   - [PhantomCommits-CTF exploit](https://sploitus.com/exploit?id=267A765B-AF6E-5280-849A-0BDCD33EBD9F&utm_source=rss&utm_medium=rss)
   - [Sql-injection-demo exploit](https://sploitus.com/exploit?id=EEB1E980-0710-5596-9408-D2B6931CF0DE&utm_source=rss&utm_medium=rss)
   - [YHills-Internship-Projects exploit](https://sploitus.com/exploit?id=9BAD2D38-6083-56AE-9C84-7A8216491BA1&utm_source=rss&utm_medium=rss)
+- Taxodium
+  - [Elfeed 4.0.0 使用分享](https://taxodium.ink/elfeed-4-0-0-usage-sharing.html)
 - TechCrunch
   - [Aura’s impressive e-ink photo frame doesn’t even look digital](https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/)
   - [Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
@@ -117,6 +122,7 @@
   - [Data2Story turns a CSV file into a verified interactive news article using seven AI agents](https://the-decoder.com/data2story-turns-a-csv-file-into-a-verified-interactive-news-article-using-seven-ai-agents/)
   - [Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic](https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/)
   - [Norway bans generative AI tools in elementary schools to protect kids' basic learning skills](https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/)
+  - [NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust](https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/)
   - [OpenAI tripled revenue to $5.7 billion in Q1 but burned through $3.7 billion to get there](https://the-decoder.com/openai-tripled-revenue-to-5-7-billion-in-q1-but-burned-through-3-7-billion-to-get-there/)
 - The Verge
   - [Hue’s wired wall modules bring non-smart lights into its ecosystem](https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb)
