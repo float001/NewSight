@@ -84,6 +84,7 @@
   - [Pluralistic: The Big Con (19 Jun 2026)](https://pluralistic.net/2026/06/19/too-big-to-fact-check/)
 - PwnDefend
   - [Fortibleed continued…](https://www.pwndefend.com/2026/06/20/fortibleed-continued/)
+  - [You Can’t Defend Everything: Threat Modelling as an Economics Problem](https://www.pwndefend.com/2026/06/20/you-cant-defend-everything-threat-modelling-as-an-economics-problem/)
 - simonwillison.net
   - [Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -93,6 +94,7 @@
   - [Exploit for CVE-2026-54337 exploit](https://sploitus.com/exploit?id=2EE1B1CE-C7E1-5F5D-9FD6-5C929D87F183&utm_source=rss&utm_medium=rss)
   - [Exploit for Execution with Unnecessary Privileges in Percona Monitoring_And_Management exploit](https://sploitus.com/exploit?id=44B81EDD-C298-593E-9EA3-5225EF88AC36&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Ray_Project Ray exploit](https://sploitus.com/exploit?id=B7F3888A-67A2-5DAE-904A-1F178F5B69DD&utm_source=rss&utm_medium=rss)
+  - [Exploit for Server-Side Request Forgery in Vercel Next.Js exploit](https://sploitus.com/exploit?id=3E4275D3-0547-519B-A6B4-38321844D41A&utm_source=rss&utm_medium=rss)
   - [ghidra-12.1.2-rce-ace-calc-poc exploit](https://sploitus.com/exploit?id=6942BEF6-F3B9-5F95-986C-70DF7746686F&utm_source=rss&utm_medium=rss)
   - [ghost-bits-toolkit exploit](https://sploitus.com/exploit?id=78CF8AD6-3E6A-58B5-B3C4-2D259401D82F&utm_source=rss&utm_medium=rss)
   - [jfp-console-poc exploit](https://sploitus.com/exploit?id=21035EF9-5EDC-5620-8320-382C3B11EE13&utm_source=rss&utm_medium=rss)
@@ -189,6 +191,7 @@
   - [CVE-2026-12781 | EaseUS Partition Master up to 14.5 Kernel Driver epmntdrv.sys access control](https://vuldb.com/vuln/372522)
   - [CVE-2026-12782 | EaseUS Partition Master up to 14.5 Kernel Driver EUEDKEPM.sys access control](https://vuldb.com/vuln/372523)
   - [CVE-2026-12784 | IM-Magic Partition Resizer up to 7.9.0 Kernel Driver MDA_NTDRV.sys access control](https://vuldb.com/vuln/372524)
+  - [CVE-2026-12789 | ILIAS Learning Management System 11.0 Learning Progress Tracking class.ilTrQuery.php executeQueries troup_table_nav sql injection](https://vuldb.com/vuln/372531)
   - [CVE-2026-21768 | HCL Verse 14.5.10 on Android input validation (KB0130866)](https://vuldb.com/vuln/372402)
   - [CVE-2026-3195 | QEMU virtio_snd_pcm_in_cb heap-based overflow](https://vuldb.com/vuln/372441)
   - [CVE-2026-3196 | QEMU integer overflow](https://vuldb.com/vuln/372442)
@@ -426,6 +429,7 @@
   - [Exploit for CVE-2026-54337](https://vulners.com/githubexploit/2EE1B1CE-C7E1-5F5D-9FD6-5C929D87F183?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Execution with Unnecessary Privileges in Percona Monitoring_And_Management](https://vulners.com/githubexploit/44B81EDD-C298-593E-9EA3-5225EF88AC36?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for OS Command Injection in Ray_Project Ray](https://vulners.com/githubexploit/B7F3888A-67A2-5DAE-904A-1F178F5B69DD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Server-Side Request Forgery in Vercel Next.Js](https://vulners.com/githubexploit/3E4275D3-0547-519B-A6B4-38321844D41A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ghidra-12.1.2-rce-ace-calc-poc](https://vulners.com/githubexploit/6942BEF6-F3B9-5F95-986C-70DF7746686F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ghost-bits-toolkit](https://vulners.com/githubexploit/78CF8AD6-3E6A-58B5-B3C4-2D259401D82F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-5WRP-CWCJ-Q835 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-5WRP-CWCJ-Q835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -442,7 +446,9 @@
   - [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://vulners.com/thn/THN:E7B27AF79906373961790705D467275B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [YHills-Internship-Projects](https://vulners.com/githubexploit/9BAD2D38-6083-56AE-9C84-7A8216491BA1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [16 Best Greens Powders (2026): Taste-Tested for Months](https://www.wired.com/gallery/best-greens-powders/)
   - [Hackers Claim to Leak Stolen Madison Square Garden Data](https://www.wired.com/story/security-news-this-week-hackers-claim-to-leak-stolen-madison-square-garden-data/)
+  - [I Found 29 Early Prime Day Deals That Are Worth Shopping Now (2026)](https://www.wired.com/story/early-prime-day-deals-june-2026-2/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
