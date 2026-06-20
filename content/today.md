@@ -4,6 +4,7 @@
   - [Critical ArcGIS Account Recovery Targeted in Active Attacks](https://securityonline.info/arcgis-account-recovery-flaw-security-bulletin/)
 - Hacker News Frontpage
   - [Show HN: My Windows XP portfolio with working Game Boy and iPod](https://mitchivin.com/)
+  - [UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence](https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/)
 - pluralistic.net
   - [Pluralistic: How the Epstein Class recruits (20 Jun 2026)](https://pluralistic.net/2026/06/20/any-club-that-would-have-me/)
 - Sploitus.com Exploits RSS Feed
@@ -14,6 +15,7 @@
   - [Founders Fund’s outlier bet on humanely killed fish](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/)
   - [In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/)
   - [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/)
+  - [Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)
 - The Decoder
   - [The EU doesn't really know what a deepfake is, and that's becoming a problem for retail](https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/)
 - The Verge
@@ -65,6 +67,11 @@
   - [CVE-2025-71379](https://vulners.com/nvd/NVD:CVE-2025-71379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71379 vllm - Regular Expression Denial of Service in Multiple Components](https://vulners.com/cve/CVE-2025-71379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71379 vllm - Regular Expression Denial of Service in Multiple Components](https://vulners.com/cvelist/CVELIST:CVE-2025-71379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47262 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-47262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50195 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-50195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53488 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-53488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53489 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-53489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53492 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-53492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5366](https://vulners.com/nvd/NVD:CVE-2026-5366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56218](https://vulners.com/nvd/NVD:CVE-2026-56218?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56227](https://vulners.com/nvd/NVD:CVE-2026-56227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -100,6 +107,14 @@
   - [CVE-2026-56347](https://vulners.com/nvd/NVD:CVE-2026-56347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56347 AVideo TopMenu Plugin - Stored Cross-Site Scripting via Unescaped Menu Item Fields](https://vulners.com/cve/CVE-2026-56347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56347 AVideo TopMenu Plugin - Stored Cross-Site Scripting via Unescaped Menu Item Fields](https://vulners.com/cvelist/CVELIST:CVE-2026-56347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56355](https://vulners.com/attackerkb/AKB:F6413F96-95A7-4C7E-8C88-88685F51021E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56355](https://vulners.com/cve/CVE-2026-56355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56355](https://vulners.com/cvelist/CVELIST:CVE-2026-56355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-33VJ-92QQ-66HC vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-33VJ-92QQ-66HC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-CVXM-645Q-P574 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-CVXM-645Q-P574?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-JPCC-P29G-P8MQ vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-JPCC-P29G-P8MQ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-RGH6-RFWX-V388 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-RGH6-RFWX-V388?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-XHF5-7WJV-PQXP vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-XHF5-7WJV-PQXP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in d0rk3r-telemetry (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-6244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-security-home-lab](https://vulners.com/githubexploit/A1BEE599-14D1-54E0-B7DF-3543EE06C675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
