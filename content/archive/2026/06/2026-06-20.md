@@ -23,6 +23,7 @@
   - [A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
   - [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232)
   - [Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
+  - [Iran requires insurance on ships using Strait of Hormuz, fees likely to follow](https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow)
   - [Zenzizenzizenzic](https://en.wikipedia.org/wiki/Zenzizenzizenzic)
 - Hacking Articles
   - [BloodHound MCP: Automating Active Directory Analysis with AI](https://www.hackingarticles.in/bloodhound-mcp-automating-active-directory-analysis-with-ai/)
@@ -186,6 +187,8 @@
   - [CVE-2019-25762 Joomla! Component JoomProject 1.1.3.2 Information Disclosure](https://vulners.com/cvelist/CVELIST:CVE-2019-25762?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-37264 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2023-37264?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-54357](https://vulners.com/nvd/NVD:CVE-2023-54357?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11551 Branda – White Label & Branding, Free Login Page Customizer <= 3.4.29 - Unauthenticated Privilege Escalation via Account Takeover](https://vulners.com/cve/CVE-2026-11551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11551 Branda – White Label & Branding, Free Login Page Customizer <= 3.4.29 - Unauthenticated Privilege Escalation via Account Takeover](https://vulners.com/cvelist/CVELIST:CVE-2026-11551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12238](https://vulners.com/nvd/NVD:CVE-2026-12238?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12238 WP Go Maps <= 10.1.01 - Unauthenticated Arbitrary Record Creation](https://vulners.com/cve/CVE-2026-12238?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12238 WP Go Maps <= 10.1.01 - Unauthenticated Arbitrary Record Creation](https://vulners.com/cvelist/CVELIST:CVE-2026-12238?utm_source=rss&utm_medium=rss&utm_campaign=rss)
