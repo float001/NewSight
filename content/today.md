@@ -20,9 +20,11 @@
   - [大连坤达完成数千万元A轮融资](https://36kr.com/newsflashes/3860909169366019?f=rss)
   - [德勤：A股上半年IPO预计将达70只，融资近700亿元](https://36kr.com/newsflashes/3860833378620675?f=rss)
   - [抖音商城618数据：超12万商家直播成交额同比增长翻倍](https://36kr.com/newsflashes/3861055337157637?f=rss)
+  - [晋江文学城就部分用户充值未到账致歉：已全部处理完毕](https://36kr.com/newsflashes/3861016431449092?f=rss)
   - [理想i6第15万台量产车下线](https://36kr.com/newsflashes/3861020174767109?f=rss)
   - [电影《玩具总动员5》内地总票房破6000万](https://36kr.com/newsflashes/3860888183051270?f=rss)
   - [盛吉盛先进半导体产品孵化与制造中心项目落地无锡](https://36kr.com/newsflashes/3860911711294725?f=rss)
+  - [端午假期首日 港珠澳大桥珠海公路口岸迎来出入境客流车流高峰](https://36kr.com/newsflashes/3861028290024448?f=rss)
   - [美元指数19日小幅下跌](https://36kr.com/newsflashes/3860834127467529?f=rss)
   - [美联储释放“鹰派”信号 本周金价微涨银价大跌](https://36kr.com/newsflashes/3860905883178248?f=rss)
   - [诺贝尔奖得主约翰·江珀宣布加盟Anthropic](https://36kr.com/newsflashes/3860793998267653?f=rss)
@@ -43,6 +45,8 @@
   - [Snap Launches Ad Campaign for Specs Starring Michael Caine](https://www.reddit.com/r/funny/comments/1jk6onr/bloody_large_glasses_by_michael_caine/)
   - [Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro](https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-analysis-rcna349293)
   - [‘What’s the Deal With Old Guys and Giant Glasses?’](https://www.youtube.com/watch?v=8DYGxn6Xvt0)
+- defend.network
+  - [Apple A12/A13 unpatchable exploit; Gentlemen RaaS doubles EDR killers; Fortinet FortiBleed escalates](https://defend.network/briefings/apple-a12-a13-fortinet-gentlemen-ransomware-2026-06-20.html)
 - filfre.net
   - [The Goldilocks Principle in Fantasy Strategy](https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/)
 - GuidePoint Security
@@ -68,6 +72,8 @@
   - [The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?](https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026)
 - pluralistic.net
   - [Pluralistic: The Big Con (19 Jun 2026)](https://pluralistic.net/2026/06/19/too-big-to-fact-check/)
+- PwnDefend
+  - [Fortibleed continued…](https://www.pwndefend.com/2026/06/20/fortibleed-continued/)
 - simonwillison.net
   - [Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -97,6 +103,7 @@
 - The Verge
   - [Hue’s wired wall modules bring non-smart lights into its ecosystem](https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb)
   - [Nothing cancels this year&#8217;s CMF phone due to RAM prices](https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices)
+  - [SwitchBot’s Standing Circulator Fan is worth fighting for](https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review)
 - VulDB Recent Entries
   - [CVE-2016-20085 | Realtek High Definition Audio Driver 6.0.1.6730 unquoted search path (Exploit 40587 / EDB-40587)](https://vuldb.com/vuln/372392)
   - [CVE-2016-20087 | Networkdls Fortitude HTTP 1.0.4.0 unquoted search path (Exploit 40461 / EDB-40461)](https://vuldb.com/vuln/372379)
