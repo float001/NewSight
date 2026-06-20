@@ -18,9 +18,12 @@
   - [德勤：A股上半年IPO预计将达70只，融资近700亿元](https://36kr.com/newsflashes/3860833378620675?f=rss)
   - [电影《玩具总动员5》内地总票房破6000万](https://36kr.com/newsflashes/3860888183051270?f=rss)
   - [美元指数19日小幅下跌](https://36kr.com/newsflashes/3860834127467529?f=rss)
+  - [美联储释放“鹰派”信号 本周金价微涨银价大跌](https://36kr.com/newsflashes/3860905883178248?f=rss)
   - [诺贝尔奖得主约翰·江珀宣布加盟Anthropic](https://36kr.com/newsflashes/3860793998267653?f=rss)
   - [金饰克价一夜又跌11元](https://36kr.com/newsflashes/3860900314584321?f=rss)
+  - [锦兴电厂1号机组一次并网成功](https://36kr.com/newsflashes/3860902754555141?f=rss)
   - [长三角铁路今日预计发送249万人次，增开旅客列车93列](https://36kr.com/newsflashes/3860898405913864?f=rss)
+  - [韩媒：韩国股市总市值首次突破8000万亿韩元](https://36kr.com/newsflashes/3860901354148867?f=rss)
 - blog.jim-nielsen.com
   - [Full Page Paralysis](https://blog.jim-nielsen.com/2026/full-page-paralysis/)
 - Cybersecurity News
@@ -46,6 +49,8 @@
   - [Zenzizenzizenzic](https://en.wikipedia.org/wiki/Zenzizenzizenzic)
 - Hacking Articles
   - [BloodHound MCP: Automating Active Directory Analysis with AI](https://www.hackingarticles.in/bloodhound-mcp-automating-active-directory-analysis-with-ai/)
+- idiallo.com
+  - [I know Kung-fu](https://idiallo.com/blog/i-know-kung-fu)
 - IEEE Spectrum
   - [IEEE Rolls Out Large Language Models Virtual Training Course](https://spectrum.ieee.org/large-language-models-ieee-course)
 - Linux Foundation Blogs
@@ -58,11 +63,14 @@
   - [AINEE exploit](https://sploitus.com/exploit?id=5BEBD996-40A7-5820-A505-F8584E84A3BB&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-11551 exploit](https://sploitus.com/exploit?id=F4DB36D1-16B3-5D76-9EDA-1FCB95DDC7E9&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-42530 exploit](https://sploitus.com/exploit?id=B132E072-36D8-5390-949D-A06FA9ADC7B5&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-54337 exploit](https://sploitus.com/exploit?id=2EE1B1CE-C7E1-5F5D-9FD6-5C929D87F183&utm_source=rss&utm_medium=rss)
   - [Exploit for Execution with Unnecessary Privileges in Percona Monitoring_And_Management exploit](https://sploitus.com/exploit?id=44B81EDD-C298-593E-9EA3-5225EF88AC36&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Ray_Project Ray exploit](https://sploitus.com/exploit?id=B7F3888A-67A2-5DAE-904A-1F178F5B69DD&utm_source=rss&utm_medium=rss)
+  - [ghidra-12.1.2-rce-ace-calc-poc exploit](https://sploitus.com/exploit?id=6942BEF6-F3B9-5F95-986C-70DF7746686F&utm_source=rss&utm_medium=rss)
   - [ghost-bits-toolkit exploit](https://sploitus.com/exploit?id=78CF8AD6-3E6A-58B5-B3C4-2D259401D82F&utm_source=rss&utm_medium=rss)
   - [Nyx-tool-By-Pray-Roman exploit](https://sploitus.com/exploit?id=C84B5231-AD4C-5DFC-B479-4EBB6CB2F6E6&utm_source=rss&utm_medium=rss)
   - [PhantomCommits-CTF exploit](https://sploitus.com/exploit?id=267A765B-AF6E-5280-849A-0BDCD33EBD9F&utm_source=rss&utm_medium=rss)
+  - [Sql-injection-demo exploit](https://sploitus.com/exploit?id=EEB1E980-0710-5596-9408-D2B6931CF0DE&utm_source=rss&utm_medium=rss)
   - [YHills-Internship-Projects exploit](https://sploitus.com/exploit?id=9BAD2D38-6083-56AE-9C84-7A8216491BA1&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Aura’s impressive e-ink photo frame doesn’t even look digital](https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/)
@@ -364,8 +372,10 @@
   - [CVE-2026-9843 Database for Contact Form 7, WPforms, Elementor forms <= 1.5.1 - Unauthenticated Arbitrary File Deletion via CF7 File Field POST Value](https://vulners.com/cvelist/CVELIST:CVE-2026-9843?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-11551](https://vulners.com/githubexploit/F4DB36D1-16B3-5D76-9EDA-1FCB95DDC7E9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-42530](https://vulners.com/githubexploit/B132E072-36D8-5390-949D-A06FA9ADC7B5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-54337](https://vulners.com/githubexploit/2EE1B1CE-C7E1-5F5D-9FD6-5C929D87F183?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Execution with Unnecessary Privileges in Percona Monitoring_And_Management](https://vulners.com/githubexploit/44B81EDD-C298-593E-9EA3-5225EF88AC36?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for OS Command Injection in Ray_Project Ray](https://vulners.com/githubexploit/B7F3888A-67A2-5DAE-904A-1F178F5B69DD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ghidra-12.1.2-rce-ace-calc-poc](https://vulners.com/githubexploit/6942BEF6-F3B9-5F95-986C-70DF7746686F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ghost-bits-toolkit](https://vulners.com/githubexploit/78CF8AD6-3E6A-58B5-B3C4-2D259401D82F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-5WRP-CWCJ-Q835 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-5WRP-CWCJ-Q835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-PR7R-676H-XCF6 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-PR7R-676H-XCF6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -374,6 +384,7 @@
   - [GHSA-X96M-RH44-VGV8 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-X96M-RH44-VGV8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Nyx-tool-By-Pray-Roman](https://vulners.com/githubexploit/C84B5231-AD4C-5DFC-B479-4EBB6CB2F6E6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PhantomCommits-CTF](https://vulners.com/githubexploit/267A765B-AF6E-5280-849A-0BDCD33EBD9F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Sql-injection-demo](https://vulners.com/githubexploit/EEB1E980-0710-5596-9408-D2B6931CF0DE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://vulners.com/thn/THN:0B57AAEC379BB19269BA5F6FA540F390?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://vulners.com/thn/THN:E7B27AF79906373961790705D467275B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [YHills-Internship-Projects](https://vulners.com/githubexploit/9BAD2D38-6083-56AE-9C84-7A8216491BA1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
