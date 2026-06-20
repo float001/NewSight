@@ -9,9 +9,12 @@
   - [ctf-hackathon-kit exploit](https://sploitus.com/exploit?id=F9B25569-99EF-5467-BAC4-D7CB41A642A6&utm_source=rss&utm_medium=rss)
   - [web-security-home-lab exploit](https://sploitus.com/exploit?id=A1BEE599-14D1-54E0-B7DF-3543EE06C675&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Founders Fund’s outlier bet on humanely killed fish](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/)
   - [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/)
 - The Decoder
   - [The EU doesn't really know what a deepfake is, and that's becoming a problem for retail](https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/)
+- The Verge
+  - [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data)
 - VulDB Recent Entries
   - [CVE-2019-25763 | Ultimatebeaver Ultimate Addons for Beaver Builder 1.2.4.1 on Beaver admin-ajax.php authentication bypass (Exploit 47832 / EDB-47832)](https://vuldb.com/vuln/372533)
   - [CVE-2020-37255 | Wptimecapsule Time Capsule Plugin up to 1.21.15 authentication bypass (Exploit 47941 / EDB-47941)](https://vuldb.com/vuln/372542)
@@ -48,6 +51,8 @@
   - [ctf-hackathon-kit](https://vulners.com/githubexploit/F9B25569-99EF-5467-BAC4-D7CB41A642A6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-58351](https://vulners.com/nvd/NVD:CVE-2024-58351?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71331](https://vulners.com/nvd/NVD:CVE-2025-71331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-71379 vllm - Regular Expression Denial of Service in Multiple Components](https://vulners.com/cve/CVE-2025-71379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-71379 vllm - Regular Expression Denial of Service in Multiple Components](https://vulners.com/cvelist/CVELIST:CVE-2025-71379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5366](https://vulners.com/nvd/NVD:CVE-2026-5366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56218](https://vulners.com/nvd/NVD:CVE-2026-56218?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56227](https://vulners.com/nvd/NVD:CVE-2026-56227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -65,6 +70,18 @@
   - [CVE-2026-56325](https://vulners.com/nvd/NVD:CVE-2026-56325?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56330](https://vulners.com/nvd/NVD:CVE-2026-56330?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56332](https://vulners.com/nvd/NVD:CVE-2026-56332?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56340 vLLM - Denial of Service via Unvalidated Multimodal Embeddings](https://vulners.com/cve/CVE-2026-56340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56340 vLLM - Denial of Service via Unvalidated Multimodal Embeddings](https://vulners.com/cvelist/CVELIST:CVE-2026-56340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56341 AVideo - Unauthenticated Access to Payment Log DataTables Endpoints via list.json.php](https://vulners.com/cve/CVE-2026-56341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56341 AVideo - Unauthenticated Access to Payment Log DataTables Endpoints via list.json.php](https://vulners.com/cvelist/CVELIST:CVE-2026-56341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56342 AVideo - Server-Side Request Forgery in Live/test.php via statsURL Parameter](https://vulners.com/cve/CVE-2026-56342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56342 AVideo - Server-Side Request Forgery in Live/test.php via statsURL Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-56342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56345 AVideo - Arbitrary User Session Hijacking via Meet Plugin uploadRecordedVideo Endpoint](https://vulners.com/cve/CVE-2026-56345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56345 AVideo - Arbitrary User Session Hijacking via Meet Plugin uploadRecordedVideo Endpoint](https://vulners.com/cvelist/CVELIST:CVE-2026-56345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56346 AVideo - Unauthenticated PGP Message Decryption via decryptMessage.json.php Endpoint](https://vulners.com/cve/CVE-2026-56346?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56346 AVideo - Unauthenticated PGP Message Decryption via decryptMessage.json.php Endpoint](https://vulners.com/cvelist/CVELIST:CVE-2026-56346?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56347 AVideo TopMenu Plugin - Stored Cross-Site Scripting via Unescaped Menu Item Fields](https://vulners.com/cve/CVE-2026-56347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56347 AVideo TopMenu Plugin - Stored Cross-Site Scripting via Unescaped Menu Item Fields](https://vulners.com/cvelist/CVELIST:CVE-2026-56347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-security-home-lab](https://vulners.com/githubexploit/A1BEE599-14D1-54E0-B7DF-3543EE06C675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
