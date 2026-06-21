@@ -6,10 +6,15 @@
   - [【投票·💰】假期最后一天，各位 2 友父亲节快乐](https://2libra.com/post/personal-life/pYPZ3Es)
   - [可否添加自动打开魔盒功能？](https://2libra.com/post/forum-function/2xNFtzS)
   - [好难啊](https://2libra.com/post/personal-life/FIK47eD)
+  - [新疆小黑麦可太强了](https://2libra.com/post/sharing-discoveries/J6tNE0g)
   - [端午节、夏至、父亲节](https://2libra.com/post/festival-things/tMHSUr8)
 - 36氪
+  - [AI投资热潮向上游扩散，美股多家半导体设备龙头今年翻倍](https://36kr.com/newsflashes/3862419587781894?f=rss)
   - [Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险](https://36kr.com/newsflashes/3862373538386952?f=rss)
   - [下周总解禁市值达549.08亿元，多只科技牛股将有限售股解禁](https://36kr.com/newsflashes/3862281489126407?f=rss)
+  - [富国银行：预测标普500指数到2027年底将升至8600-8800点](https://36kr.com/newsflashes/3862376847709189?f=rss)
+  - [广西南宁：新能源智能船舶完成试航](https://36kr.com/newsflashes/3862422164935689?f=rss)
+  - [微信AI助手“小微”小范围灰度上线](https://36kr.com/newsflashes/3862458180359424?f=rss)
   - [报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标](https://36kr.com/newsflashes/3862280121865219?f=rss)
   - [日本三大巨型银行年度分红总额将首次突破2万亿日元](https://36kr.com/newsflashes/3862364977288454?f=rss)
   - [澳大利亚延长燃油消费税减免政策，缓解居民生活成本压力](https://36kr.com/newsflashes/3862264032334854?f=rss)
@@ -63,6 +68,13 @@
   - [CVE-2026-12797 | BerriAI litellm up to 1.82.5 Completions Interface banned_keywords.py async_pre_call_hook prompt authorization](https://vuldb.com/vuln/372559)
   - [CVE-2026-12798 | BerriAI litellm up to 1.82.2 MCP OpenAPI Spec Loader openapi_to_mcp_generator.py load_openapi_spec_async spec_path server-side request forgery](https://vuldb.com/vuln/372560)
   - [CVE-2026-12799 | BerriAI litellm up to 1.82.2 Incomplete Fix CVE-2025-0628 internal_user_endpoints.py ui_view_users improper authorization](https://vuldb.com/vuln/372561)
+  - [CVE-2026-12804 | lemonldap-ng up to 2.23.0 SAML Common Domain Cookie Endpoint CDC.pm url redirect](https://vuldb.com/vuln/372598)
+  - [CVE-2026-12805 | OFFIS DCMTK up to 3.7.0 ofstd/libsrc/ofxml.cc XMLNode::parseFile heap-based overflow (Issue 1208)](https://vuldb.com/vuln/372599)
+  - [CVE-2026-12806 | Edimax BR-6478AC V2 1.23 POST Request /goform/formWlSiteSurvey selSSID buffer overflow](https://vuldb.com/vuln/372600)
+  - [CVE-2026-12807 | Edimax BR-6478AC V2 1.23 POST Request /goform/setWAN pppUserName/pptpUserName/L2TPUserName command injection](https://vuldb.com/vuln/372601)
+  - [CVE-2026-12808 | Edimax BR-6478AC V2 1.23 POST Request /goform/stainfo interface command injection](https://vuldb.com/vuln/372602)
+  - [CVE-2026-12809 | Edimax BR-6478AC V2 1.23 POST Request wiz_5in1_redirect newpass command injection](https://vuldb.com/vuln/372603)
+  - [CVE-2026-12810 | Edimax BR-6478AC V2 1.23 POST Request /goform/mp command command injection](https://vuldb.com/vuln/372604)
   - [CVE-2026-48908 | joomshaper SP Page Builder extension for Joomla 1.0.0-6.6.1 on Joomla access control](https://vuldb.com/vuln/372537)
   - [CVE-2026-48909 | joomshaper.net SP LMS Extension 1.0.0-4.1.3 deserialization](https://vuldb.com/vuln/372540)
   - [CVE-2026-48939 | iCagenda Extension up to 3.9.14/4.0.7 on Joomla access control](https://vuldb.com/vuln/372536)
@@ -175,5 +187,7 @@
   - [web-security-home-lab](https://vulners.com/githubexploit/A1BEE599-14D1-54E0-B7DF-3543EE06C675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 量子位 QbitAI
+  - [2026年，1800个DeepSeek跟我一起守护艾泽拉斯](https://www.qbitai.com/2026/06/437141.html)
 - 黑海洋
   - [🖼 中国推出单兵便携式反无人机激光武器：4秒击穿500米外目标](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%8E%A8%E5%87%BA%E5%8D%95%E5%85%B5%E4%BE%BF%E6%90%BA%E5%BC%8F%E5%8F%8D%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%BF%80%E5%85%89%E6%AD%A6%E5%99%A8-4%E7%A7%92%E5%87%BB%E7%A9%BF500%E7%B1%B3%E5%A4%96%E7%9B%AE%E6%A0%87)
