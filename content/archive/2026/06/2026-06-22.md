@@ -3,6 +3,7 @@
 - Hacker News Frontpage
   - [AI Has Broken Hiring](https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it)
   - [Health Insurance Claim Denial Rates Range from 13% to 35% by Insurer](https://www.randalolson.com/2026/06/16/aca-insurer-claim-denial-rates/)
+  - [Show HN: CleverCrow: give tokens to your favorite projects](https://clevercrow.io)
 - Kali Linux Tutorials
   - [Best AI Tools for OSINT 2026: Automate Research Without Losing Accuracy](https://kalilinuxtutorials.com/best-ai-tools-for-osint-2026/)
   - [Install Apache Cassandra on Ubuntu: Complete Setup Guide](https://kalilinuxtutorials.com/install-apache-cassandra/)
@@ -55,6 +56,12 @@
   - [CVE-2026-56412 | libexpat up to 2.8.1 use after free](https://vuldb.com/vuln/372628)
 - Vulners.com RSS Feed
   - [create-poc-template-skills](https://vulners.com/githubexploit/48CB0B24-8B26-5239-AC5C-FDFA59633797?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12628](https://vulners.com/cve/CVE-2026-12628?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12804](https://vulners.com/nvd/NVD:CVE-2026-12804?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12805 OFFIS DCMTK ofxml.cc parseFile heap-based overflow](https://vulners.com/cve/CVE-2026-12805?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12805 OFFIS DCMTK ofxml.cc parseFile heap-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-12805?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12806 Edimax BR-6478AC V2 POST Request formWlSiteSurvey buffer overflow](https://vulners.com/cve/CVE-2026-12806?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12806 Edimax BR-6478AC V2 POST Request formWlSiteSurvey buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-12806?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56403](https://vulners.com/nvd/NVD:CVE-2026-56403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56404](https://vulners.com/nvd/NVD:CVE-2026-56404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56405](https://vulners.com/nvd/NVD:CVE-2026-56405?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -68,5 +75,6 @@
   - [ECHO-2F8E-E19D-BF58](https://vulners.com/osv/OSV:ECHO-2F8E-E19D-BF58?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-10735](https://vulners.com/githubexploit/6DFCF1F8-508C-5B6F-9973-9B8DDDDF9686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MINI-F8MM-2V3G-9PHP](https://vulners.com/osv/OSV:MINI-F8MM-2V3G-9PHP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: Hardcoded credential in the IBM Storage Protect Snapshot For Windows leads to unauthorized access to system](https://vulners.com/ibm/1AF0FD585992D2BAD69C0E0E47B05C79E3D356B2A735778FDA0073F2B6A29B5B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
