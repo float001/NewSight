@@ -40,6 +40,8 @@
   - [韩国央行警告：存储芯片景气周期或推高通胀压力](https://36kr.com/newsflashes/3862282115749129?f=rss)
   - [高争民爆：取得不超1.8亿元回购股份专项贷款承诺函](https://36kr.com/newsflashes/3862656804656131?f=rss)
   - [高盛大砍黄金目标价，长期多头转趋谨慎](https://36kr.com/newsflashes/3862514491003912?f=rss)
+- Articles | InfoStealers
+  - [Nation-State Level Compute Power From The AI Rush Enabled The Massive Fortibleed Campaign](https://www.infostealers.com/article/nation-state-level-compute-power-from-the-ai-rush-enabled-the-massive-fortibleed-campaign/)
 - Cybersecurity News
   - [Critical ArcGIS Account Recovery Targeted in Active Attacks](https://securityonline.info/arcgis-account-recovery-flaw-security-bulletin/)
   - [NPM Package Tests AI Malware Scanner Evasion](https://securityonline.info/ai-malware-scanner-evasion/)
@@ -65,9 +67,12 @@
   - [All pieces on a 6 by 5 board](https://www.johndcook.com/blog/2026/06/20/z3-python-claude/)
 - pluralistic.net
   - [Pluralistic: How the Epstein Class recruits (20 Jun 2026)](https://pluralistic.net/2026/06/20/any-club-that-would-have-me/)
+- Recent Commits to cve:main
+  - [Update Sun Jun 21 11:54:59 UTC 2026](https://github.com/trickest/cve/commit/31eade4ca90872034a506e7a82fe737690d41cae)
 - Sploitus.com Exploits RSS Feed
   - [browserlover exploit](https://sploitus.com/exploit?id=7D09A83C-C6CD-5EFA-9E1F-FE28400B2E1F&utm_source=rss&utm_medium=rss)
   - [ctf-hackathon-kit exploit](https://sploitus.com/exploit?id=F9B25569-99EF-5467-BAC4-D7CB41A642A6&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Anthropic Claude_Code exploit](https://sploitus.com/exploit?id=D301242C-B53B-53BF-A743-4107276D8DCA&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Joomla Joomla\! exploit](https://sploitus.com/exploit?id=AE467228-AC78-5F1A-93CF-D381D698C936&utm_source=rss&utm_medium=rss)
   - [vulntraceai-plugin exploit](https://sploitus.com/exploit?id=0CF48E28-9697-5A24-B8B7-18B54F21B8B3&utm_source=rss&utm_medium=rss)
   - [web-security-home-lab exploit](https://sploitus.com/exploit?id=A1BEE599-14D1-54E0-B7DF-3543EE06C675&utm_source=rss&utm_medium=rss)
@@ -77,10 +82,12 @@
   - [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/)
   - [Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)
 - The Decoder
+  - [AI is inflating student grades, and the effect points to outsourced work, not better learning](https://the-decoder.com/ai-is-inflating-student-grades-and-the-effect-points-to-outsourced-work-not-better-learning/)
   - [AWS says AI agents lack business context and security, launches two services to patch the gaps](https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/)
   - [Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do](https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/)
   - [The EU doesn't really know what a deepfake is, and that's becoming a problem for retail](https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/)
 - The Verge
+  - [Electric air taxis are stuck in the courtroom](https://www.theverge.com/column/950975/electric-air-taxis-lawsuits)
   - [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data)
 - VulDB Recent Entries
   - [CVE-2019-25763 | Ultimatebeaver Ultimate Addons for Beaver Builder 1.2.4.1 on Beaver admin-ajax.php authentication bypass (Exploit 47832 / EDB-47832)](https://vuldb.com/vuln/372533)
@@ -219,6 +226,7 @@
   - [CVE-2026-56355](https://vulners.com/attackerkb/AKB:F6413F96-95A7-4C7E-8C88-88685F51021E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56355](https://vulners.com/cve/CVE-2026-56355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56355](https://vulners.com/cvelist/CVELIST:CVE-2026-56355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Code Injection in Anthropic Claude_Code](https://vulners.com/githubexploit/D301242C-B53B-53BF-A743-4107276D8DCA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-11561](https://vulners.com/githubexploit/FB774AC0-68D8-53A1-A43B-0733FA9AF1BD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Joomla Joomla\!](https://vulners.com/githubexploit/AE467228-AC78-5F1A-93CF-D381D698C936?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-33VJ-92QQ-66HC vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-33VJ-92QQ-66HC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
