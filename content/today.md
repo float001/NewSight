@@ -1,4 +1,27 @@
 # 今日安全资讯（2026-06-22）
 
+- Hacker News Frontpage
+  - [AI Has Broken Hiring](https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it)
+- Kali Linux Tutorials
+  - [Install Apache Cassandra on Ubuntu: Complete Setup Guide](https://kalilinuxtutorials.com/install-apache-cassandra/)
+  - [Tor Browser Ubuntu: Install and Configure It Securely](https://kalilinuxtutorials.com/tor-browser-ubuntu/)
+- Sploitus.com Exploits RSS Feed
+  - [create-poc-template-skills exploit](https://sploitus.com/exploit?id=48CB0B24-8B26-5239-AC5C-FDFA59633797&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Polymarket reportedly paid creators to post deceptive videos about fake bets](https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/)
+- The Verge
+  - [Cold Court’s debut EP is an infectious, glitchy genre mashup](https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review)
+- Vulners.com RSS Feed
+  - [create-poc-template-skills](https://vulners.com/githubexploit/48CB0B24-8B26-5239-AC5C-FDFA59633797?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56403](https://vulners.com/nvd/NVD:CVE-2026-56403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56404](https://vulners.com/nvd/NVD:CVE-2026-56404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56405](https://vulners.com/nvd/NVD:CVE-2026-56405?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56406](https://vulners.com/nvd/NVD:CVE-2026-56406?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56407](https://vulners.com/nvd/NVD:CVE-2026-56407?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56408](https://vulners.com/nvd/NVD:CVE-2026-56408?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56409](https://vulners.com/nvd/NVD:CVE-2026-56409?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56410](https://vulners.com/nvd/NVD:CVE-2026-56410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ECHO-2F8E-E19D-BF58](https://vulners.com/osv/OSV:ECHO-2F8E-E19D-BF58?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [MINI-F8MM-2V3G-9PHP](https://vulners.com/osv/OSV:MINI-F8MM-2V3G-9PHP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
