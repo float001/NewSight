@@ -1,8 +1,13 @@
 # 今日安全资讯（2026-06-21）
 
 - 2Libra
+  - [VScode 插件 —— 实时预览编辑的 Markdown 编辑器](https://2libra.com/post/open-source-sharing/JhkFSPW)
   - [【投票·💰】假期最后一天，各位 2 友父亲节快乐](https://2libra.com/post/personal-life/pYPZ3Es)
   - [端午节、夏至、父亲节](https://2libra.com/post/festival-things/tMHSUr8)
+- 36氪
+  - [报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标](https://36kr.com/newsflashes/3862280121865219?f=rss)
+  - [澳大利亚延长燃油消费税减免政策，缓解居民生活成本压力](https://36kr.com/newsflashes/3862264032334854?f=rss)
+  - [近一周机构调研个股有170多只](https://36kr.com/newsflashes/3862232895755529?f=rss)
 - Cybersecurity News
   - [Critical ArcGIS Account Recovery Targeted in Active Attacks](https://securityonline.info/arcgis-account-recovery-flaw-security-bulletin/)
 - daniel.haxx.se
@@ -17,6 +22,7 @@
   - [Supermarket giant Tesco sues VMware for breach of contract](https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651)
   - [Tesla allegedly in autopilot mode crashes into Texas house, woman killed](https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374)
   - [UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence](https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/)
+  - [White House delays US voting-machine vulnerability report](https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/)
 - johndcook.com
   - [All pieces on a 6 by 5 board](https://www.johndcook.com/blog/2026/06/20/z3-python-claude/)
 - pluralistic.net
@@ -81,6 +87,7 @@
   - [CVE-2025-71379](https://vulners.com/nvd/NVD:CVE-2025-71379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71379 vllm - Regular Expression Denial of Service in Multiple Components](https://vulners.com/cve/CVE-2025-71379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71379 vllm - Regular Expression Denial of Service in Multiple Components](https://vulners.com/cvelist/CVELIST:CVE-2025-71379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12770](https://vulners.com/nvd/NVD:CVE-2026-12770?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12770 BerriAI litellm Admin Key key_management_endpoints.py improper authorization](https://vulners.com/cve/CVE-2026-12770?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12770 BerriAI litellm Admin Key key_management_endpoints.py improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-12770?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47262 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-47262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
