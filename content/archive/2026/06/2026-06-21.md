@@ -4,13 +4,17 @@
   - [VScode 插件 —— 实时预览编辑的 Markdown 编辑器](https://2libra.com/post/open-source-sharing/JhkFSPW)
   - [【周末家常菜】Mini 东北饭包～ 🥬🥬🥬](https://2libra.com/post/personal-life/znz-Li5)
   - [【投票·💰】假期最后一天，各位 2 友父亲节快乐](https://2libra.com/post/personal-life/pYPZ3Es)
+  - [可否添加自动打开魔盒功能？](https://2libra.com/post/forum-function/2xNFtzS)
   - [好难啊](https://2libra.com/post/personal-life/FIK47eD)
   - [端午节、夏至、父亲节](https://2libra.com/post/festival-things/tMHSUr8)
 - 36氪
+  - [Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险](https://36kr.com/newsflashes/3862373538386952?f=rss)
   - [下周总解禁市值达549.08亿元，多只科技牛股将有限售股解禁](https://36kr.com/newsflashes/3862281489126407?f=rss)
   - [报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标](https://36kr.com/newsflashes/3862280121865219?f=rss)
+  - [日本三大巨型银行年度分红总额将首次突破2万亿日元](https://36kr.com/newsflashes/3862364977288454?f=rss)
   - [澳大利亚延长燃油消费税减免政策，缓解居民生活成本压力](https://36kr.com/newsflashes/3862264032334854?f=rss)
   - [磷酸铁锂价格翻倍，需求依然旺盛](https://36kr.com/newsflashes/3862285675713793?f=rss)
+  - [科技赋能，全国夏播粮食进度近七成](https://36kr.com/newsflashes/3862375326176262?f=rss)
   - [近一周机构调研个股有170多只](https://36kr.com/newsflashes/3862232895755529?f=rss)
   - [韩国央行警告：存储芯片景气周期或推高通胀压力](https://36kr.com/newsflashes/3862282115749129?f=rss)
 - Cybersecurity News
@@ -35,6 +39,7 @@
 - Sploitus.com Exploits RSS Feed
   - [browserlover exploit](https://sploitus.com/exploit?id=7D09A83C-C6CD-5EFA-9E1F-FE28400B2E1F&utm_source=rss&utm_medium=rss)
   - [ctf-hackathon-kit exploit](https://sploitus.com/exploit?id=F9B25569-99EF-5467-BAC4-D7CB41A642A6&utm_source=rss&utm_medium=rss)
+  - [vulntraceai-plugin exploit](https://sploitus.com/exploit?id=0CF48E28-9697-5A24-B8B7-18B54F21B8B3&utm_source=rss&utm_medium=rss)
   - [web-security-home-lab exploit](https://sploitus.com/exploit?id=A1BEE599-14D1-54E0-B7DF-3543EE06C675&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Founders Fund’s outlier bet on humanely killed fish](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/)
@@ -96,6 +101,11 @@
   - [CVE-2026-12770 BerriAI litellm Admin Key key_management_endpoints.py improper authorization](https://vulners.com/cve/CVE-2026-12770?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12770 BerriAI litellm Admin Key key_management_endpoints.py improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-12770?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12771](https://vulners.com/nvd/NVD:CVE-2026-12771?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12772](https://vulners.com/nvd/NVD:CVE-2026-12772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12773 BerriAI litellm MCP Proxy user_api_key_auth_mcp.py UserAPIKeyAuth improper authentication](https://vulners.com/cve/CVE-2026-12773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12773 BerriAI litellm MCP Proxy user_api_key_auth_mcp.py UserAPIKeyAuth improper authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-12773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12774 BerriAI litellm MCP Server Connection Testing rest_endpoints.py _execute_with_mcp_client server-side request forgery](https://vulners.com/cve/CVE-2026-12774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12774 BerriAI litellm MCP Server Connection Testing rest_endpoints.py _execute_with_mcp_client server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-12774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47262 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-47262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50195 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-50195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53488 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-53488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -161,6 +171,9 @@
   - [GHSA-XHF5-7WJV-PQXP vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-XHF5-7WJV-PQXP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in d0rk3r-telemetry (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-6244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in requests-enhancer (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-6247?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [vulntraceai-plugin](https://vulners.com/githubexploit/0CF48E28-9697-5A24-B8B7-18B54F21B8B3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-security-home-lab](https://vulners.com/githubexploit/A1BEE599-14D1-54E0-B7DF-3543EE06C675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [🖼 中国推出单兵便携式反无人机激光武器：4秒击穿500米外目标](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%8E%A8%E5%87%BA%E5%8D%95%E5%85%B5%E4%BE%BF%E6%90%BA%E5%BC%8F%E5%8F%8D%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%BF%80%E5%85%89%E6%AD%A6%E5%99%A8-4%E7%A7%92%E5%87%BB%E7%A9%BF500%E7%B1%B3%E5%A4%96%E7%9B%AE%E6%A0%87)
