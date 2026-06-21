@@ -1,6 +1,9 @@
 # 今日安全资讯（2026-06-22）
 
+- 36氪
+  - [端午假期三天全社会跨区域人员流动量预计超6.5亿人次](https://36kr.com/newsflashes/3863093412680960?f=rss)
 - daringfireball.net
+  - [Before and After: MacOS 27 Golden Gate Beta 1’s App Icons](https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison)
   - [Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF)
 - Hacker News Frontpage
   - [AI Has Broken Hiring](https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it)
@@ -16,6 +19,8 @@
   - [Install Apache Cassandra on Ubuntu: Complete Setup Guide](https://kalilinuxtutorials.com/install-apache-cassandra/)
   - [OSINT Framework Website List of Tools: Best Categories for Beginners](https://kalilinuxtutorials.com/osint-framework-website-list-of-tools/)
   - [Tor Browser Ubuntu: Install and Configure It Securely](https://kalilinuxtutorials.com/tor-browser-ubuntu/)
+- OpenAI Blog
+  - [Samsung Electronics brings ChatGPT and Codex to employees](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment)
 - Sploitus.com Exploits RSS Feed
   - [create-poc-template-skills exploit](https://sploitus.com/exploit?id=48CB0B24-8B26-5239-AC5C-FDFA59633797&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-10735 exploit](https://sploitus.com/exploit?id=6DFCF1F8-508C-5B6F-9973-9B8DDDDF9686&utm_source=rss&utm_medium=rss)
@@ -78,10 +83,18 @@
   - [CVE-2026-12808](https://vulners.com/nvd/NVD:CVE-2026-12808?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12808 Edimax BR-6478AC V2 POST Request stainfo command injection](https://vulners.com/cve/CVE-2026-12808?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12808 Edimax BR-6478AC V2 POST Request stainfo command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-12808?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12809](https://vulners.com/nvd/NVD:CVE-2026-12809?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12809 Edimax BR-6478AC V2 POST Request wiz_5in1_redirect command injection](https://vulners.com/cve/CVE-2026-12809?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12809 Edimax BR-6478AC V2 POST Request wiz_5in1_redirect command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-12809?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12810](https://vulners.com/nvd/NVD:CVE-2026-12810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12810 Edimax BR-6478AC V2 POST Request mp command injection](https://vulners.com/cve/CVE-2026-12810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12810 Edimax BR-6478AC V2 POST Request mp command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-12810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12812 Radware Cyber Controller HTML Report Generation HTML injection](https://vulners.com/cve/CVE-2026-12812?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12812 Radware Cyber Controller HTML Report Generation HTML injection](https://vulners.com/cvelist/CVELIST:CVE-2026-12812?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12813 activepieces File URL file.ts handleUrlFile server-side request forgery](https://vulners.com/cve/CVE-2026-12813?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12813 activepieces File URL file.ts handleUrlFile server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-12813?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12814 Comfast CF-WR631AX V3 API Endpoint mbox-config system os command injection](https://vulners.com/cve/CVE-2026-12814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12814 Comfast CF-WR631AX V3 API Endpoint mbox-config system os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-12814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56403](https://vulners.com/nvd/NVD:CVE-2026-56403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56404](https://vulners.com/nvd/NVD:CVE-2026-56404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56405](https://vulners.com/nvd/NVD:CVE-2026-56405?utm_source=rss&utm_medium=rss&utm_campaign=rss)
