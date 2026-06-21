@@ -5,6 +5,7 @@
   - [VScode 插件 —— 实时预览编辑的 Markdown 编辑器](https://2libra.com/post/open-source-sharing/JhkFSPW)
   - [【周末家常菜】Mini 东北饭包～ 🥬🥬🥬](https://2libra.com/post/personal-life/znz-Li5)
   - [【投票·💰】假期最后一天，各位 2 友父亲节快乐](https://2libra.com/post/personal-life/pYPZ3Es)
+  - [【💰】稳定 GPT 中转](https://2libra.com/post/ai-gateway/f4DOuQ8)
   - [可否添加自动打开魔盒功能？](https://2libra.com/post/forum-function/2xNFtzS)
   - [好难啊](https://2libra.com/post/personal-life/FIK47eD)
   - [新疆小黑麦可太强了](https://2libra.com/post/sharing-discoveries/J6tNE0g)
@@ -54,7 +55,9 @@
   - [Cutting While Winning](https://paddo.dev/blog/cutting-while-winning/)
   - [It Was Never the Jailbreak. It Was the Guest List.](https://paddo.dev/blog/it-was-never-the-jailbreak/)
 - Hacker News Frontpage
+  - [Anthropic to Require ID Verification for Certain Capabilities Starting July 8](https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/)
   - [Dallas Fed: 30% of housing cost increase driven by unauthorized immigration [pdf]](https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2607.pdf)
+  - [David Ahl's Basic Computer Games Ported to C](https://github.com/proteanthread/bcg)
   - [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
   - [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
   - [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books)
@@ -74,6 +77,7 @@
   - [ctf-hackathon-kit exploit](https://sploitus.com/exploit?id=F9B25569-99EF-5467-BAC4-D7CB41A642A6&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Anthropic Claude_Code exploit](https://sploitus.com/exploit?id=D301242C-B53B-53BF-A743-4107276D8DCA&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Joomla Joomla\! exploit](https://sploitus.com/exploit?id=AE467228-AC78-5F1A-93CF-D381D698C936&utm_source=rss&utm_medium=rss)
+  - [nuclei-template-creator exploit](https://sploitus.com/exploit?id=C40A1F53-C56D-57E9-848D-B707E7916E4C&utm_source=rss&utm_medium=rss)
   - [vulntraceai-plugin exploit](https://sploitus.com/exploit?id=0CF48E28-9697-5A24-B8B7-18B54F21B8B3&utm_source=rss&utm_medium=rss)
   - [web-security-home-lab exploit](https://sploitus.com/exploit?id=A1BEE599-14D1-54E0-B7DF-3543EE06C675&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -88,6 +92,7 @@
   - [The EU doesn't really know what a deepfake is, and that's becoming a problem for retail](https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/)
 - The Verge
   - [Electric air taxis are stuck in the courtroom](https://www.theverge.com/column/950975/electric-air-taxis-lawsuits)
+  - [How Roomba started a robot revolution](https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history)
   - [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data)
 - VulDB Recent Entries
   - [CVE-2019-25763 | Ultimatebeaver Ultimate Addons for Beaver Builder 1.2.4.1 on Beaver admin-ajax.php authentication bypass (Exploit 47832 / EDB-47832)](https://vuldb.com/vuln/372533)
@@ -248,6 +253,7 @@
   - [GHSA-XHF5-7WJV-PQXP vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-XHF5-7WJV-PQXP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in d0rk3r-telemetry (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-6244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in requests-enhancer (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-6247?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [nuclei-template-creator](https://vulners.com/githubexploit/C40A1F53-C56D-57E9-848D-B707E7916E4C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vulntraceai-plugin](https://vulners.com/githubexploit/0CF48E28-9697-5A24-B8B7-18B54F21B8B3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-security-home-lab](https://vulners.com/githubexploit/A1BEE599-14D1-54E0-B7DF-3543EE06C675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
