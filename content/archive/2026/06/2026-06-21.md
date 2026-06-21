@@ -6,8 +6,11 @@
   - [Critical ArcGIS Account Recovery Targeted in Active Attacks](https://securityonline.info/arcgis-account-recovery-flaw-security-bulletin/)
 - daniel.haxx.se
   - [QUERY with curl](https://daniel.haxx.se/blog/2026/06/21/query-with-curl/)
+- Emergent Minds | paddo.dev
+  - [It Was Never the Jailbreak. It Was the Guest List.](https://paddo.dev/blog/it-was-never-the-jailbreak/)
 - Hacker News Frontpage
   - [Dallas Fed: 30% of housing cost increase driven by unauthorized immigration [pdf]](https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2607.pdf)
+  - [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
   - [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books)
   - [Show HN: My Windows XP portfolio with working Game Boy and iPod](https://mitchivin.com/)
   - [Supermarket giant Tesco sues VMware for breach of contract](https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651)
@@ -126,6 +129,7 @@
   - [GHSA-RGH6-RFWX-V388 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-RGH6-RFWX-V388?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-XHF5-7WJV-PQXP vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-XHF5-7WJV-PQXP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in d0rk3r-telemetry (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-6244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Malicious code in requests-enhancer (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-6247?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-security-home-lab](https://vulners.com/githubexploit/A1BEE599-14D1-54E0-B7DF-3543EE06C675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
