@@ -168,6 +168,10 @@
   - [CVE-2026-12795](https://vulners.com/nvd/NVD:CVE-2026-12795?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12795 BerriAI litellm SSO Debug Flow ui_sso.py json.dumps missing authentication](https://vulners.com/cve/CVE-2026-12795?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12795 BerriAI litellm SSO Debug Flow ui_sso.py json.dumps missing authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-12795?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12796](https://vulners.com/nvd/NVD:CVE-2026-12796?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12797](https://vulners.com/nvd/NVD:CVE-2026-12797?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12798](https://vulners.com/nvd/NVD:CVE-2026-12798?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12799](https://vulners.com/nvd/NVD:CVE-2026-12799?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47262 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-47262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50195 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-50195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-52911](https://vulners.com/nvd/NVD:CVE-2026-52911?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -239,7 +243,10 @@
   - [vulntraceai-plugin](https://vulners.com/githubexploit/0CF48E28-9697-5A24-B8B7-18B54F21B8B3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-security-home-lab](https://vulners.com/githubexploit/A1BEE599-14D1-54E0-B7DF-3543EE06C675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [28 Tips to Take Your ChatGPT Prompts to the Next Level](https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/)
   - [Buying a Used iPhone Makes More Sense Than Ever](https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/)
+  - [If You’re Searching for a New Skillet, Consider Stainless Steel](https://www.wired.com/story/stainless-steel-skillets-are-great/)
+  - [The Best NAS Devices for Your Home After Months of Testing](https://www.wired.com/story/best-nas-devices/)
 - 不安全
   - [Windows 11 26H2增加DirectX转储文件 帮助GPU开发商收集遥测数据改善稳定性](https://buaq.net/go-424293.html)
 - 代码审计星球
