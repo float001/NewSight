@@ -12,6 +12,7 @@
 - Sploitus.com Exploits RSS Feed
   - [create-poc-template-skills exploit](https://sploitus.com/exploit?id=48CB0B24-8B26-5239-AC5C-FDFA59633797&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-10735 exploit](https://sploitus.com/exploit?id=6DFCF1F8-508C-5B6F-9973-9B8DDDDF9686&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Read in Apple Ipados exploit](https://sploitus.com/exploit?id=FA08775C-6E51-5C9C-9DFC-21E6FEE31DC0&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Polymarket reportedly paid creators to post deceptive videos about fake bets](https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/)
   - [Ubisoft co-founder Claude Guillemot dies in plane crash](https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/)
@@ -58,10 +59,14 @@
   - [create-poc-template-skills](https://vulners.com/githubexploit/48CB0B24-8B26-5239-AC5C-FDFA59633797?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12628](https://vulners.com/cve/CVE-2026-12628?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12804](https://vulners.com/nvd/NVD:CVE-2026-12804?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12805](https://vulners.com/nvd/NVD:CVE-2026-12805?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12805 OFFIS DCMTK ofxml.cc parseFile heap-based overflow](https://vulners.com/cve/CVE-2026-12805?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12805 OFFIS DCMTK ofxml.cc parseFile heap-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-12805?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12806](https://vulners.com/nvd/NVD:CVE-2026-12806?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12806 Edimax BR-6478AC V2 POST Request formWlSiteSurvey buffer overflow](https://vulners.com/cve/CVE-2026-12806?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12806 Edimax BR-6478AC V2 POST Request formWlSiteSurvey buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-12806?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12808 Edimax BR-6478AC V2 POST Request stainfo command injection](https://vulners.com/cve/CVE-2026-12808?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12808 Edimax BR-6478AC V2 POST Request stainfo command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-12808?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56403](https://vulners.com/nvd/NVD:CVE-2026-56403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56404](https://vulners.com/nvd/NVD:CVE-2026-56404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56405](https://vulners.com/nvd/NVD:CVE-2026-56405?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -74,6 +79,7 @@
   - [CVE-2026-56412](https://vulners.com/nvd/NVD:CVE-2026-56412?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ECHO-2F8E-E19D-BF58](https://vulners.com/osv/OSV:ECHO-2F8E-E19D-BF58?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-10735](https://vulners.com/githubexploit/6DFCF1F8-508C-5B6F-9973-9B8DDDDF9686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Out-of-bounds Read in Apple Ipados](https://vulners.com/githubexploit/FA08775C-6E51-5C9C-9DFC-21E6FEE31DC0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MINI-F8MM-2V3G-9PHP](https://vulners.com/osv/OSV:MINI-F8MM-2V3G-9PHP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Hardcoded credential in the IBM Storage Protect Snapshot For Windows leads to unauthorized access to system](https://vulners.com/ibm/1AF0FD585992D2BAD69C0E0E47B05C79E3D356B2A735778FDA0073F2B6A29B5B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
