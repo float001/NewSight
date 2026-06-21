@@ -13,7 +13,9 @@
   - [Exploit for CVE-2026-10735 exploit](https://sploitus.com/exploit?id=6DFCF1F8-508C-5B6F-9973-9B8DDDDF9686&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Polymarket reportedly paid creators to post deceptive videos about fake bets](https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/)
+  - [Ubisoft co-founder Claude Guillemot dies in plane crash](https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/)
 - The Verge
+  - [Bose thinks it can be a media company for some reason](https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company)
   - [Cold Court’s debut EP is an infectious, glitchy genre mashup](https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review)
 - VulDB Recent Entries
   - [CVE-2025-71348 | picklescan up to 0.0.27 torch.utils._config_module.load_config deserialization (GHSA-vv6j-3g6g-2pvj)](https://vuldb.com/vuln/372617)
