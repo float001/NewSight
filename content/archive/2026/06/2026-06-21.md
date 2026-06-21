@@ -13,6 +13,7 @@
   - [Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险](https://36kr.com/newsflashes/3862373538386952?f=rss)
   - [SpaceX上市前被MSCI打最低ESG评级](https://36kr.com/newsflashes/3862439214322691?f=rss)
   - [下周总解禁市值达549.08亿元，多只科技牛股将有限售股解禁](https://36kr.com/newsflashes/3862281489126407?f=rss)
+  - [印度谋求在美印贸易协定中获取竞争优势](https://36kr.com/newsflashes/3862499085686025?f=rss)
   - [富国银行：预测标普500指数到2027年底将升至8600-8800点](https://36kr.com/newsflashes/3862376847709189?f=rss)
   - [广西南宁：新能源智能船舶完成试航](https://36kr.com/newsflashes/3862422164935689?f=rss)
   - [微信AI助手“小微”小范围灰度上线](https://36kr.com/newsflashes/3862458180359424?f=rss)
@@ -25,10 +26,13 @@
   - [科技赋能，全国夏播粮食进度近七成](https://36kr.com/newsflashes/3862375326176262?f=rss)
   - [近一周机构调研个股有170多只](https://36kr.com/newsflashes/3862232895755529?f=rss)
   - [韩国央行警告：存储芯片景气周期或推高通胀压力](https://36kr.com/newsflashes/3862282115749129?f=rss)
+  - [高盛大砍黄金目标价，长期多头转趋谨慎](https://36kr.com/newsflashes/3862514491003912?f=rss)
 - Cybersecurity News
   - [Critical ArcGIS Account Recovery Targeted in Active Attacks](https://securityonline.info/arcgis-account-recovery-flaw-security-bulletin/)
 - daniel.haxx.se
   - [QUERY with curl](https://daniel.haxx.se/blog/2026/06/21/query-with-curl/)
+- defend.network
+  - [BlueNoroff npm supply chain attack; WordPress Gravity SMTP exploited on 100k sites](https://defend.network/briefings/bluenoroff-npm-supply-chain-wordpress-gravity-smtp-2026-06-21.html)
 - Emergent Minds | paddo.dev
   - [It Was Never the Jailbreak. It Was the Guest List.](https://paddo.dev/blog/it-was-never-the-jailbreak/)
 - Hacker News Frontpage
@@ -78,6 +82,9 @@
   - [CVE-2026-12808 | Edimax BR-6478AC V2 1.23 POST Request /goform/stainfo interface command injection](https://vuldb.com/vuln/372602)
   - [CVE-2026-12809 | Edimax BR-6478AC V2 1.23 POST Request wiz_5in1_redirect newpass command injection](https://vuldb.com/vuln/372603)
   - [CVE-2026-12810 | Edimax BR-6478AC V2 1.23 POST Request /goform/mp command command injection](https://vuldb.com/vuln/372604)
+  - [CVE-2026-12813 | activepieces up to 0.83.0 File URL file.ts handleUrlFile server-side request forgery](https://vuldb.com/vuln/372607)
+  - [CVE-2026-12814 | Comfast CF-WR631AX V3 up to 2.7.0.8 API Endpoint mbox-config?section=ping_config system destination os command injection](https://vuldb.com/vuln/372608)
+  - [CVE-2026-12815 | coollabsio coolify 4.0.0 Image Name os command injection](https://vuldb.com/vuln/372609)
   - [CVE-2026-48908 | joomshaper SP Page Builder extension for Joomla 1.0.0-6.6.1 on Joomla access control](https://vuldb.com/vuln/372537)
   - [CVE-2026-48909 | joomshaper.net SP LMS Extension 1.0.0-4.1.3 deserialization](https://vuldb.com/vuln/372540)
   - [CVE-2026-48939 | iCagenda Extension up to 3.9.14/4.0.7 on Joomla access control](https://vuldb.com/vuln/372536)
@@ -121,8 +128,13 @@
   - [CVE-2026-12773 BerriAI litellm MCP Proxy user_api_key_auth_mcp.py UserAPIKeyAuth improper authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-12773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12774 BerriAI litellm MCP Server Connection Testing rest_endpoints.py _execute_with_mcp_client server-side request forgery](https://vulners.com/cve/CVE-2026-12774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12774 BerriAI litellm MCP Server Connection Testing rest_endpoints.py _execute_with_mcp_client server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-12774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12775](https://vulners.com/nvd/NVD:CVE-2026-12775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12776](https://vulners.com/nvd/NVD:CVE-2026-12776?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12778](https://vulners.com/nvd/NVD:CVE-2026-12778?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12779](https://vulners.com/nvd/NVD:CVE-2026-12779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12779 AOMEI Dynamic Disk Manager Kernel Driver ddmdrv.sys access control](https://vulners.com/cve/CVE-2026-12779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12779 AOMEI Dynamic Disk Manager Kernel Driver ddmdrv.sys access control](https://vulners.com/cvelist/CVELIST:CVE-2026-12779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12780](https://vulners.com/nvd/NVD:CVE-2026-12780?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12780 AOMEI Backupper Kernel Driver amwrtdrv.sys access control](https://vulners.com/cve/CVE-2026-12780?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12780 AOMEI Backupper Kernel Driver amwrtdrv.sys access control](https://vulners.com/cvelist/CVELIST:CVE-2026-12780?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47262 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-47262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -171,6 +183,7 @@
   - [CVE-2026-56355](https://vulners.com/attackerkb/AKB:F6413F96-95A7-4C7E-8C88-88685F51021E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56355](https://vulners.com/cve/CVE-2026-56355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56355](https://vulners.com/cvelist/CVELIST:CVE-2026-56355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-11561](https://vulners.com/githubexploit/FB774AC0-68D8-53A1-A43B-0733FA9AF1BD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-33VJ-92QQ-66HC vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-33VJ-92QQ-66HC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-5PRR-V3J2-97MH vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-5PRR-V3J2-97MH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-5V8H-3H3Q-446P vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-5V8H-3H3Q-446P?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -192,6 +205,8 @@
   - [Malicious code in requests-enhancer (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-6247?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vulntraceai-plugin](https://vulners.com/githubexploit/0CF48E28-9697-5A24-B8B7-18B54F21B8B3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-security-home-lab](https://vulners.com/githubexploit/A1BEE599-14D1-54E0-B7DF-3543EE06C675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [Windows 11 26H2增加DirectX转储文件 帮助GPU开发商收集遥测数据改善稳定性](https://buaq.net/go-424293.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 量子位 QbitAI
