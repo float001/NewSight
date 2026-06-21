@@ -15,7 +15,10 @@
   - [SpaceX上市前被MSCI打最低ESG评级](https://36kr.com/newsflashes/3862439214322691?f=rss)
   - [​东方盛虹：1600万吨/年炼化一体化项目装置6月底起例行检修](https://36kr.com/newsflashes/3862645022643464?f=rss)
   - [下周总解禁市值达549.08亿元，多只科技牛股将有限售股解禁](https://36kr.com/newsflashes/3862281489126407?f=rss)
+  - [世嘉科技：拟定增募资不超4.03亿元，用于新能源电气精密箱体及系统集成等项目](https://36kr.com/newsflashes/3862655945102338?f=rss)
+  - [中关村：琥珀酸美托洛尔缓释胶囊上市许可申请获受理](https://36kr.com/newsflashes/3862677236339712?f=rss)
   - [公募REITs上市满五周年，共上市86只REITs募资2450亿元](https://36kr.com/newsflashes/3862617771283463?f=rss)
+  - [北京利尔：调整定增方案，拟募资额调减至不超10.25亿元](https://36kr.com/newsflashes/3862673070625794?f=rss)
   - [博云新材：商业航天产品在2026年度暂未确认销售收入](https://36kr.com/newsflashes/3862646425965575?f=rss)
   - [印度谋求在美印贸易协定中获取竞争优势](https://36kr.com/newsflashes/3862499085686025?f=rss)
   - [富国银行：预测标普500指数到2027年底将升至8600-8800点](https://36kr.com/newsflashes/3862376847709189?f=rss)
@@ -28,16 +31,19 @@
   - [报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标](https://36kr.com/newsflashes/3862280121865219?f=rss)
   - [日本三大巨型银行年度分红总额将首次突破2万亿日元](https://36kr.com/newsflashes/3862364977288454?f=rss)
   - [比特币ETF 30天净流出63.5亿美元，创历史新高](https://36kr.com/newsflashes/3862494481880322?f=rss)
+  - [沪电股份：拟吸并全资子公司普江仓储](https://36kr.com/newsflashes/3862675224777735?f=rss)
   - [澳大利亚延长燃油消费税减免政策，缓解居民生活成本压力](https://36kr.com/newsflashes/3862264032334854?f=rss)
   - [磷酸铁锂价格翻倍，需求依然旺盛](https://36kr.com/newsflashes/3862285675713793?f=rss)
   - [科技赋能，全国夏播粮食进度近七成](https://36kr.com/newsflashes/3862375326176262?f=rss)
   - [贵州茅台：2025年度每股派发现金红利28.02元，股权登记日为2026年6月25日](https://36kr.com/newsflashes/3862658896385289?f=rss)
   - [近一周机构调研个股有170多只](https://36kr.com/newsflashes/3862232895755529?f=rss)
   - [韩国央行警告：存储芯片景气周期或推高通胀压力](https://36kr.com/newsflashes/3862282115749129?f=rss)
+  - [高争民爆：取得不超1.8亿元回购股份专项贷款承诺函](https://36kr.com/newsflashes/3862656804656131?f=rss)
   - [高盛大砍黄金目标价，长期多头转趋谨慎](https://36kr.com/newsflashes/3862514491003912?f=rss)
 - Cybersecurity News
   - [Critical ArcGIS Account Recovery Targeted in Active Attacks](https://securityonline.info/arcgis-account-recovery-flaw-security-bulletin/)
   - [NPM Package Tests AI Malware Scanner Evasion](https://securityonline.info/ai-malware-scanner-evasion/)
+  - [QNAP Patches 14 Vulnerabilities in QTS, QuTS hero, and QVP Devices](https://securityonline.info/qnap-nas-vulnerabilities-qsa-26-10/)
 - daniel.haxx.se
   - [QUERY with curl](https://daniel.haxx.se/blog/2026/06/21/query-with-curl/)
 - defend.network
@@ -62,6 +68,7 @@
 - Sploitus.com Exploits RSS Feed
   - [browserlover exploit](https://sploitus.com/exploit?id=7D09A83C-C6CD-5EFA-9E1F-FE28400B2E1F&utm_source=rss&utm_medium=rss)
   - [ctf-hackathon-kit exploit](https://sploitus.com/exploit?id=F9B25569-99EF-5467-BAC4-D7CB41A642A6&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Access Control in Joomla Joomla\! exploit](https://sploitus.com/exploit?id=AE467228-AC78-5F1A-93CF-D381D698C936&utm_source=rss&utm_medium=rss)
   - [vulntraceai-plugin exploit](https://sploitus.com/exploit?id=0CF48E28-9697-5A24-B8B7-18B54F21B8B3&utm_source=rss&utm_medium=rss)
   - [web-security-home-lab exploit](https://sploitus.com/exploit?id=A1BEE599-14D1-54E0-B7DF-3543EE06C675&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -71,6 +78,7 @@
   - [Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)
 - The Decoder
   - [AWS says AI agents lack business context and security, launches two services to patch the gaps](https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/)
+  - [Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do](https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/)
   - [The EU doesn't really know what a deepfake is, and that's becoming a problem for retail](https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/)
 - The Verge
   - [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data)
@@ -100,6 +108,7 @@
   - [CVE-2026-48908 | joomshaper SP Page Builder extension for Joomla 1.0.0-6.6.1 on Joomla access control](https://vuldb.com/vuln/372537)
   - [CVE-2026-48909 | joomshaper.net SP LMS Extension 1.0.0-4.1.3 deserialization](https://vuldb.com/vuln/372540)
   - [CVE-2026-48939 | iCagenda Extension up to 3.9.14/4.0.7 on Joomla access control](https://vuldb.com/vuln/372536)
+  - [CVE-2026-52911 | Linux Kernel up to 7.0.9 ksmbd ksmbd_session_lookup_all state issue](https://vuldb.com/vuln/372610)
   - [CVE-2026-5366 | prefecthq prefect up to 3.6.23 commit_sha code injection](https://vuldb.com/vuln/372562)
   - [CVE-2026-56218 | Capgo up to 12.128.1 information disclosure (GHSA-c5w9-886p-9j2x)](https://vuldb.com/vuln/372548)
   - [CVE-2026-56227 | Capgo up to 12.128.1 Outbound Requests server-side request forgery (GHSA-48hc-53hv-6x3f)](https://vuldb.com/vuln/372550)
@@ -152,6 +161,11 @@
   - [CVE-2026-12781](https://vulners.com/nvd/NVD:CVE-2026-12781?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12782](https://vulners.com/nvd/NVD:CVE-2026-12782?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12784](https://vulners.com/nvd/NVD:CVE-2026-12784?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12786](https://vulners.com/nvd/NVD:CVE-2026-12786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12787](https://vulners.com/nvd/NVD:CVE-2026-12787?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12788](https://vulners.com/nvd/NVD:CVE-2026-12788?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12789](https://vulners.com/nvd/NVD:CVE-2026-12789?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12795](https://vulners.com/nvd/NVD:CVE-2026-12795?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12795 BerriAI litellm SSO Debug Flow ui_sso.py json.dumps missing authentication](https://vulners.com/cve/CVE-2026-12795?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12795 BerriAI litellm SSO Debug Flow ui_sso.py json.dumps missing authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-12795?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47262 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-47262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -202,6 +216,7 @@
   - [CVE-2026-56355](https://vulners.com/cve/CVE-2026-56355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56355](https://vulners.com/cvelist/CVELIST:CVE-2026-56355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-11561](https://vulners.com/githubexploit/FB774AC0-68D8-53A1-A43B-0733FA9AF1BD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Access Control in Joomla Joomla\!](https://vulners.com/githubexploit/AE467228-AC78-5F1A-93CF-D381D698C936?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-33VJ-92QQ-66HC vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-33VJ-92QQ-66HC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-5PRR-V3J2-97MH vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-5PRR-V3J2-97MH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-5V8H-3H3Q-446P vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-5V8H-3H3Q-446P?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -223,11 +238,14 @@
   - [Malicious code in requests-enhancer (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-6247?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vulntraceai-plugin](https://vulners.com/githubexploit/0CF48E28-9697-5A24-B8B7-18B54F21B8B3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-security-home-lab](https://vulners.com/githubexploit/A1BEE599-14D1-54E0-B7DF-3543EE06C675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Buying a Used iPhone Makes More Sense Than Ever](https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/)
 - 不安全
   - [Windows 11 26H2增加DirectX转储文件 帮助GPU开发商收集遥测数据改善稳定性](https://buaq.net/go-424293.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 量子位 QbitAI
   - [2026年，1800个DeepSeek跟我一起守护艾泽拉斯](https://www.qbitai.com/2026/06/437141.html)
+  - [具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角](https://www.qbitai.com/2026/06/437198.html)
 - 黑海洋
   - [🖼 中国推出单兵便携式反无人机激光武器：4秒击穿500米外目标](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%8E%A8%E5%87%BA%E5%8D%95%E5%85%B5%E4%BE%BF%E6%90%BA%E5%BC%8F%E5%8F%8D%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%BF%80%E5%85%89%E6%AD%A6%E5%99%A8-4%E7%A7%92%E5%87%BB%E7%A9%BF500%E7%B1%B3%E5%A4%96%E7%9B%AE%E6%A0%87)
