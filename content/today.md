@@ -1,5 +1,12 @@
 # 今日安全资讯（2026-06-23）
 
+- 2Libra
+  - [参加微软 Rewards 的领 KFC 或是美团 20 元券](https://2libra.com/post/deal-hunter/ibkGG-o)
+- 36氪
+  - [报道称SpaceX将首次发行投资级债券，银行家正进行推介](https://36kr.com/newsflashes/3864942831424521?f=rss)
+  - [甲骨文上财年裁员约2.1万](https://36kr.com/newsflashes/3864942405129479?f=rss)
+  - [美股三大指数收盘涨跌不一，SpaceX跌超16%](https://36kr.com/newsflashes/3864939830269186?f=rss)
+  - [高通接近收购人工智能芯片初创公司Modular](https://36kr.com/newsflashes/3864943365756162?f=rss)
 - Ars Technica
   - [Doorbell cam filmed Tesla Autopilot crash that killed woman in her home](https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/)
   - [Polymarket's viral videos showed people winning big, but the bets were fake](https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/)
@@ -44,6 +51,7 @@
 - pluralistic.net
   - [Pluralistic: Good politics (22 Jun 2026)](https://pluralistic.net/2026/06/22/8-for-what-we-will/)
 - Sploitus.com Exploits RSS Feed
+  - [bypass-code-defender exploit](https://sploitus.com/exploit?id=959BDE59-627E-5EBC-B239-D7E23BC18A90&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-54806 exploit](https://sploitus.com/exploit?id=6187732A-19DB-57D3-B916-91087E253791&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce exploit](https://sploitus.com/exploit?id=0D7DE32F-DF63-51D0-A699-AAD3D055B58E&utm_source=rss&utm_medium=rss)
   - [Exploit for Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG) in Trustwallet Trust_Wallet_Browser_Extension exploit](https://sploitus.com/exploit?id=A63E68C2-3F8F-5064-93CE-8E4051079D14&utm_source=rss&utm_medium=rss)
@@ -54,8 +62,10 @@
   - [Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal](https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/)
   - [Microsoft and Chevron plan one of the largest gas-powered data center projects in US](https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/)
   - [Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/)
+  - [Shareholders sue Uber’s board over sexual assaults, other incidents](https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/)
   - [SpaceX inks compute deal with Reflection AI, an open-source AI lab](https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/)
   - [Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach](https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/)
+  - [Tesla pushes back on Autopilot narrative after fatal Texas crash](https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/)
   - [The AI world is getting ‘loopy’](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/)
 - The Decoder
   - [Anthropic and Micron want to co-design AI memory architecture](https://the-decoder.com/anthropic-and-micron-want-to-co-design-ai-memory-architecture/)
@@ -126,6 +136,7 @@
   - [CNAPP’s New Normal: Hyper-Prioritization and Autonomous Remediation at Cloud Scale](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
   - [AVideo's Privilege Escalation via Unguarded Permission Parameters in signUp API Allows Self-Granting Upload/Stream/Meet Permissions](https://vulners.com/github/GHSA-8J8M-P79X-G4JM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [bypass-code-defender](https://vulners.com/githubexploit/959BDE59-627E-5EBC-B239-D7E23BC18A90?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-33854](https://vulners.com/nvd/NVD:CVE-2023-33854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-51454](https://vulners.com/nvd/NVD:CVE-2024-51454?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10789](https://vulners.com/attackerkb/AKB:CE20745D-59C0-4D4A-B50F-661CCE04C7CF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -165,6 +176,8 @@
   - [CVE-2026-41479](https://vulners.com/nvd/NVD:CVE-2026-41479?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41479 Authlib OAuth 2.0 authorization endpoint open redirects to attacker-controlled redirect_uri on unsupported response_type](https://vulners.com/cve/CVE-2026-41479?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41479 Authlib OAuth 2.0 authorization endpoint open redirects to attacker-controlled redirect_uri on unsupported response_type](https://vulners.com/cvelist/CVELIST:CVE-2026-41479?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41523 vLLM: Security Check Bypass via assert Statement in Activation Function Loading Allows Arbitrary Code Execution](https://vulners.com/cve/CVE-2026-41523?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41523 vLLM: Security Check Bypass via assert Statement in Activation Function Loading Allows Arbitrary Code Execution](https://vulners.com/cvelist/CVELIST:CVE-2026-41523?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42127](https://vulners.com/nvd/NVD:CVE-2026-42127?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42775](https://vulners.com/circl/CIRCL:CVE-2026-42775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44583](https://vulners.com/cve/CVE-2026-44583?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -178,6 +191,8 @@
   - [CVE-2026-45034 PhpSpreadsheet: File::prohibitWrappers bypass](https://vulners.com/cve/CVE-2026-45034?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45034 PhpSpreadsheet: File::prohibitWrappers bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-45034?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46417](https://vulners.com/nvd/NVD:CVE-2026-46417?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47155 vLLM: Artifact Pin Decay in vLLM allows pinned deployments to load unpinned code, weights, and processors](https://vulners.com/cve/CVE-2026-47155?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47155 vLLM: Artifact Pin Decay in vLLM allows pinned deployments to load unpinned code, weights, and processors](https://vulners.com/cvelist/CVELIST:CVE-2026-47155?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47240](https://vulners.com/nvd/NVD:CVE-2026-47240?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47240 Net::IMAP: Command Injection via non-synchronizing literal in "raw" argument](https://vulners.com/cve/CVE-2026-47240?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47241](https://vulners.com/nvd/NVD:CVE-2026-47241?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -253,6 +268,12 @@
   - [CVE-2026-53779](https://vulners.com/nvd/NVD:CVE-2026-53779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53779 WebP Server Go < 0.15.0 Path Traversal via Backslash Encoding on Windows](https://vulners.com/cve/CVE-2026-53779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53779 WebP Server Go < 0.15.0 Path Traversal via Backslash Encoding on Windows](https://vulners.com/cvelist/CVELIST:CVE-2026-53779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54232 vLLM:  Dependency Confusion Vulnerability in vLLM Dockerfile](https://vulners.com/cve/CVE-2026-54232?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54232 vLLM:  Dependency Confusion Vulnerability in vLLM Dockerfile](https://vulners.com/cvelist/CVELIST:CVE-2026-54232?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54233 vLLM: OOM Denial of Service via Audio Decompression Bomb](https://vulners.com/cve/CVE-2026-54233?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54233 vLLM: OOM Denial of Service via Audio Decompression Bomb](https://vulners.com/cvelist/CVELIST:CVE-2026-54233?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54236 vLLM: incomplete CVE-2026-22778 fix leaks PIL repr addresses via Anthropic router](https://vulners.com/cve/CVE-2026-54236?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54236 vLLM: incomplete CVE-2026-22778 fix leaks PIL repr addresses via Anthropic router](https://vulners.com/cvelist/CVELIST:CVE-2026-54236?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54264](https://vulners.com/nvd/NVD:CVE-2026-54264?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54265](https://vulners.com/nvd/NVD:CVE-2026-54265?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54266](https://vulners.com/nvd/NVD:CVE-2026-54266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -351,6 +372,7 @@
   - [Gogs has an Authentication Bypass via Unvalidated Reverse Proxy Headers](https://vulners.com/github/GHSA-W6J9-VW59-27WV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: .NET 8.0 security update](https://vulners.com/redhat/RHSA-2026:28007?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: .NET 8.0 security update](https://vulners.com/redhat/RHSA-2026:28011?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: vim security update](https://vulners.com/redhat/RHSA-2026:28050?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Inspektor Gadget: Unprivileged container can crash USDT note parser via crafted ELF (no shipped gadget affected)](https://vulners.com/github/GHSA-7CFQ-5MHV-JRP9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Mise Vulnerable to Arbitrary Code Execution via Tera Templates in .tool-versions Files (Trust Bypass)](https://vulners.com/github/GHSA-FJJ5-V948-WHJJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [motionEye has an Arbitrary File Read via Path Traversal in Picture/Movie Preview Endpoint](https://vulners.com/github/GHSA-G9FX-5R4H-PCW3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -359,7 +381,12 @@
   - [Paymenter has Blind Unauthenticated SSRF on the Paypal gateway module](https://vulners.com/github/GHSA-7WWH-XCC3-9FCG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Paymenter has broken object level authorization via service reference manipulation on ticket creation](https://vulners.com/github/GHSA-X93Q-X9PC-W5HW?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://vulners.com/thn/THN:A2D26AE6302BAA068AA98AC6FA38A101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [vim: arbitrary command execution via modeline sandbox bypass](https://vulners.com/redhat/RHSA-2026:28050-CVE-2026-34982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [vim: command injection when decompressing .tgz archives](https://vulners.com/redhat/RHSA-2026:28050-CVE-2026-46483?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [vim: Vim: Command injection allows arbitrary code execution via malicious tag files](https://vulners.com/redhat/RHSA-2026:28050-CVE-2026-41411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [vim: zip.vim: Vim zip.vim plugin: Arbitrary file overwrite via path traversal bypass](https://vulners.com/redhat/RHSA-2026:28050-CVE-2026-35177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [A Source of Mysterious Repeating Radio Signals From Space Has Been Identified](https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/)
   - [I Found 37 Early Prime Day Deals That Are Worth Shopping Now (2026)](https://www.wired.com/story/early-prime-day-deals-june-2026-3/)
   - [Meta Exposed Data Internally From Its Controversial Employee-Tracking Program](https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/)
   - [Meta Pauses Employee-Tracking Program Following Internal Data Leak](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/)
