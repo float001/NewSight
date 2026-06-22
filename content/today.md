@@ -1,10 +1,14 @@
 # 今日安全资讯（2026-06-22）
 
 - 2Libra
+  - [[拼车] Claude Max 20x 7 天 100￥/人](https://2libra.com/post/ai-tools/t8sRMR5)
   - [【投票·💰】假期结束到公司第一件事是干什么](https://2libra.com/post/office-life/xce2I7s)
+  - [【投票】端午假期](https://2libra.com/post/festival-things/jqrqHPO)
+  - [【💰】大佬们都是在哪查看 AI 能力排名的呢？](https://2libra.com/post/large-models/aHLFg_I)
   - [【💰】混沌还能重复获得吗](https://2libra.com/post/forum-function/zyFrP-e)
   - [今日潘多拉给金币 89，勇敢的刷新一下得到“妙笔生花”，满意。](https://2libra.com/post/small-things/71Fitfw)
   - [关于结婚](https://2libra.com/post/marriage/8hh9wne)
+  - [懒人饿肚子减肥心得（又过 19 天后）](https://2libra.com/post/health-consultation/kqVv0Is)
   - [我升级了我的 appstore，欢迎光临 kasusa 的 AppStore](https://2libra.com/post/promotion/tfS72vm)
 - 36氪
   - [*ST海利收监管函后紧急删改三大核心条款](https://36kr.com/newsflashes/3863099513934850?f=rss)
@@ -17,6 +21,7 @@
   - [LG高管将访问英伟达总部，讨论物理人工智能](https://36kr.com/newsflashes/3863629007148297?f=rss)
   - [SpaceX获得三大评级机构授予投资级评级，展望“稳定”](https://36kr.com/newsflashes/3863558813848838?f=rss)
   - [一线岗位人才需求旺盛，券商分支机构遭遇“人才荒”](https://36kr.com/newsflashes/3863631707526146?f=rss)
+  - [三大指数集体翻绿](https://36kr.com/newsflashes/3863756311368705?f=rss)
   - [两市融资余额增加128.08亿元](https://36kr.com/newsflashes/3863630346130692?f=rss)
   - [中信建投：AI重���制药底层逻辑，商业化验证期加速突破](https://36kr.com/newsflashes/3863586255770885?f=rss)
   - [中信建投：国产模型加速迭代，算力景气度持续](https://36kr.com/newsflashes/3863099932464386?f=rss)
@@ -26,11 +31,14 @@
   - [中信证券：看好具备SOTA能力溢价的头部模型厂商及AI基建、AI应用的投资机会](https://36kr.com/newsflashes/3863619874755849?f=rss)
   - [中信证券：预计2026年全球晶圆制造设备市场增长26%](https://36kr.com/newsflashes/3863611341165830?f=rss)
   - [中国央行今日开展4765亿元7天逆回购操作](https://36kr.com/newsflashes/3863665846932744?f=rss)
+  - [今日MMLC电池级碳酸锂（早盘）价格较昨日下跌8750元/吨](https://36kr.com/newsflashes/3863737201382658?f=rss)
   - [供应链公司：已向苹果首款折叠屏iPhone小批量供货](https://36kr.com/newsflashes/3863091111334914?f=rss)
   - [公募REITs上市五周年，86只产品募资达2450亿元](https://36kr.com/newsflashes/3863588042216706?f=rss)
   - [公募基金锚定新质生产力，多维赋能科技创新](https://36kr.com/newsflashes/3863587417740296?f=rss)
   - [创业板指涨超1%](https://36kr.com/newsflashes/3863682399114502?f=rss)
   - [前5个月我国邮政行业寄递业务量同比增长4.3%](https://36kr.com/newsflashes/3863703569585410?f=rss)
+  - [台积电28nm较年初减产25%](https://36kr.com/newsflashes/3863709894202369?f=rss)
+  - [商务部：5月份，新能源汽车国内零售渗透率达62.9%，再创历史新高](https://36kr.com/newsflashes/3863752439862531?f=rss)
   - [商务部：决定将10家美国实体列入出口管制管控名单](https://36kr.com/newsflashes/3863655973229829?f=rss)
   - [商场里最火的女装店，正在变成同一个样子｜商业Friday](https://36kr.com/p/3854347434398980?f=rss)
   - [嘉信理财进军预测市场业务](https://36kr.com/newsflashes/3863621320840192?f=rss)
@@ -45,9 +53,12 @@
   - [截至6月20日，2026年消费品以旧换新惠及1.36亿人次](https://36kr.com/newsflashes/3863089480537345?f=rss)
   - [持续跑输纳斯达克指数，“木头姐”旗舰基金今年遭撤资逾3亿美元](https://36kr.com/newsflashes/3863631032636676?f=rss)
   - [新政带动改善型需求入市，一线城市楼市持续回暖](https://36kr.com/newsflashes/3863569924560137?f=rss)
+  - [木林森子公司对全线PCB产品价格再次上调10%](https://36kr.com/newsflashes/3863740557907203?f=rss)
   - [来福谐波：拟全球发售1344.19万股H股，发售价不超85.50港元](https://36kr.com/newsflashes/3863561058735108?f=rss)
+  - [杨子卸任巨力集团职务](https://36kr.com/newsflashes/3863730354214147?f=rss)
   - [江西生物：拟全球发售3623.45万股H股，发售价不超13.06港元](https://36kr.com/newsflashes/3863565210899721?f=rss)
   - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3863695401325832?f=rss)
+  - [沪深两市成交额突破2万亿元](https://36kr.com/newsflashes/3863749497721859?f=rss)
   - [港股半导体股走强，兆易创新股价突破1000港元](https://36kr.com/newsflashes/3863704339076102?f=rss)
   - [港股智谱涨幅扩大至40%](https://36kr.com/newsflashes/3863694263096583?f=rss)
   - [港股智谱盘中总市值突破1万亿港元](https://36kr.com/newsflashes/3863676393559047?f=rss)
@@ -56,9 +67,14 @@
   - [碳酸锂期货及期权将迎境外交易者，国际化迈出关键一步](https://36kr.com/newsflashes/3863564050240515?f=rss)
   - [私募备案高位分化，两类权益策略潜力可���](https://36kr.com/newsflashes/3863511055143939?f=rss)
   - [端午假期三天全社会跨区域人员流动量预计超6.5亿人次](https://36kr.com/newsflashes/3863093412680960?f=rss)
+  - [端午期间港珠澳大桥珠海公路口岸进出境车辆超6万辆次](https://36kr.com/newsflashes/3863718423647494?f=rss)
+  - [端午期间，海南离岛免税购物金额超2亿元](https://36kr.com/newsflashes/3863727265191171?f=rss)
   - [美联储7月维持利率不变的概率为61.5%](https://36kr.com/newsflashes/3863570612540418?f=rss)
+  - [老登最爱的维密，又复活了](https://36kr.com/p/3858420265292800?f=rss)
+  - [胖东来在郑州成立新餐饮公司，注册资本100万](https://36kr.com/newsflashes/3863744585323520?f=rss)
   - [英国宣布追加投资5000万英镑促进关键材料生产](https://36kr.com/newsflashes/3863571271783432?f=rss)
   - [茉莉奶白纽约闭店始末：品牌与加盟商的“双输”之战](https://36kr.com/p/3863121381709061?f=rss)
+  - [贝壳天津投资公司增资至7.5亿美元# 增幅约15%](https://36kr.com/newsflashes/3863719576835078?f=rss)
   - [财政部：在政府采购活动中对46家美国企业采取相关措施](https://36kr.com/newsflashes/3863659701556228?f=rss)
   - [银河证券：A股下半年建议关注三大主线](https://36kr.com/newsflashes/3863628033807365?f=rss)
   - [银河证券：风波平息后金价有望重回涨势](https://36kr.com/newsflashes/3863630861276160?f=rss)
@@ -81,8 +97,11 @@
   - [FDA advisors unanimously vote to approve Moderna's mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/)
   - [Health Insurance Claim Denial Rates Range from 13% to 35% by Insurer](https://www.randalolson.com/2026/06/16/aca-insurer-claim-denial-rates/)
   - [PowerFox Browser](https://powerfox.jazzzny.me/)
+  - [Sakana Fugu](https://sakana.ai/fugu/)
   - [Show HN: CleverCrow: give tokens to your favorite projects](https://clevercrow.io)
   - [The Anatomy of an AI-Native Org](https://ajeygore.in/content/the-anatomy-of-an-ai-native-org)
+- idiallo.com
+  - [Happy Father's Day.](https://idiallo.com/byte-size/happy-fathers-day-2026)
 - johndcook.com
   - [Queens on a prime order board](https://www.johndcook.com/blog/2026/06/21/queens-prime/)
 - Kali Linux Tutorials
@@ -97,6 +116,7 @@
   - [sqlite-utils 4.0rc1 adds migrations and nested transactions](https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [create-poc-template-skills exploit](https://sploitus.com/exploit?id=48CB0B24-8B26-5239-AC5C-FDFA59633797&utm_source=rss&utm_medium=rss)
+  - [ctf-writeups exploit](https://sploitus.com/exploit?id=F6CA8E93-3DFD-532A-B5E1-17671221C251&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-10735 exploit](https://sploitus.com/exploit?id=6DFCF1F8-508C-5B6F-9973-9B8DDDDF9686&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-39676 exploit](https://sploitus.com/exploit?id=8E435453-9D49-528A-A043-03CC8664AC49&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-47729 exploit](https://sploitus.com/exploit?id=9411F2C5-4EED-5451-B18B-6D79C61FBBAA&utm_source=rss&utm_medium=rss)
@@ -147,6 +167,13 @@
   - [CVE-2026-56412 | libexpat up to 2.8.1 use after free](https://vuldb.com/vuln/372628)
 - Vulners.com RSS Feed
   - [create-poc-template-skills](https://vulners.com/githubexploit/48CB0B24-8B26-5239-AC5C-FDFA59633797?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ctf-writeups](https://vulners.com/githubexploit/F6CA8E93-3DFD-532A-B5E1-17671221C251?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11745](https://vulners.com/cve/CVE-2026-11745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11745](https://vulners.com/cvelist/CVELIST:CVE-2026-11745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11746](https://vulners.com/cve/CVE-2026-11746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11746](https://vulners.com/cvelist/CVELIST:CVE-2026-11746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11748](https://vulners.com/cve/CVE-2026-11748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11748](https://vulners.com/cvelist/CVELIST:CVE-2026-11748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12628](https://vulners.com/cve/CVE-2026-12628?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12804](https://vulners.com/nvd/NVD:CVE-2026-12804?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12805](https://vulners.com/nvd/NVD:CVE-2026-12805?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -209,6 +236,7 @@
   - [Security Bulletin: Hardcoded credential in the IBM Storage Protect Snapshot For Windows leads to unauthorized access to system](https://vulners.com/ibm/1AF0FD585992D2BAD69C0E0E47B05C79E3D356B2A735778FDA0073F2B6A29B5B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [Microsoft Edge将支持谷歌账户登录 当然数据仍保存在微软不可能与Chrome互通](https://buaq.net/go-424362.html)
+  - [谷歌reCAPTCHA验证机制新增手势验证 需要用户拍摄手部视频进行真人验证](https://buaq.net/go-424372.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
