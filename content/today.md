@@ -1,22 +1,45 @@
 # 今日安全资讯（2026-06-23）
 
+- Ars Technica
+  - [Doorbell cam filmed Tesla Autopilot crash that killed woman in her home](https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/)
 - CERT Recently Published Vulnerability Notes
   - [VU#226679: Microsoft WinRE allows for bypass of UEFI/BIOS password enforcement](https://kb.cert.org/vuls/id/226679)
+- Checkmarx.com
+  - [Checkmarx Named a Leader in Inaugural 2026 Gartner® Magic Quadrant™ for Software Supply Chain Security](https://checkmarx.com/blog/checkmarx-named-a-leader-in-inaugural-2026-gartner-magic-quadrant-for-software-supply-chain-security/)
 - Cybersecurity News
   - [FBI Warns of Traffic Distribution Systems in Cyber Attacks](https://securityonline.info/traffic-distribution-systems-fbi-warning/)
+- daringfireball.net
+  - [Dickover of the Week: The Observer](https://bvsveera.net/observer-dickover/)
 - darkreading
   - [Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign](https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign)
 - Hacker News Frontpage
+  - [Blogger Defeats Photographer's Copyright Claim-Sokolskyfilm vs. Messiah](https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm)
+  - [Finding the Best Dog Treat with Statistics](https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html)
   - [National Science Foundation slashes basic science to fund new tech initiative](https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say)
+  - [Steam Machine](https://store.steampowered.com/hardware/steammachine)
+  - [Steam Machine game testing](https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article)
+  - [Steam Machine Launches Today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
+- IEEE Spectrum
+  - [Commemorating 70 Years of Artificial Intelligence](https://spectrum.ieee.org/70-years-of-artificial-intelligence)
+- pluralistic.net
+  - [Pluralistic: Good politics (22 Jun 2026)](https://pluralistic.net/2026/06/22/8-for-what-we-will/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-54806 exploit](https://sploitus.com/exploit?id=6187732A-19DB-57D3-B916-91087E253791&utm_source=rss&utm_medium=rss)
+  - [Exploit for Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG) in Trustwallet Trust_Wallet_Browser_Extension exploit](https://sploitus.com/exploit?id=A63E68C2-3F8F-5064-93CE-8E4051079D14&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Amazon is testing Alexa+ in India with Hindi support](https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/)
   - [SpaceX inks compute deal with Reflection AI, an open-source AI lab](https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/)
 - The Decoder
+  - [Anthropic and Micron want to co-design AI memory architecture](https://the-decoder.com/anthropic-and-micron-want-to-co-design-ai-memory-architecture/)
   - [Microsoft is building a 2-gigawatt data center in Texas with its own gas plant to dodge the grid](https://the-decoder.com/microsoft-is-building-a-2-gigawatt-data-center-in-texas-with-its-own-gas-plant-to-dodge-the-grid/)
 - The Verge
   - [AMD releases FSR 4.1 upscaling for older graphics cards](https://www.theverge.com/news/953664/amd-fsr-4-1-upscaling-rx-7000-series-gpus-rdna-3)
+  - [Google invests in A24 to build AI movie tools](https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership)
+  - [Here’s how you can reserve a Steam Machine](https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process)
   - [RingConn&#8217;s Lord of the Rings promotion assumes smart ring wearers want to be like Gollum](https://www.theverge.com/gadgets/953655/ringconn-lord-of-the-rings)
+  - [The Apple Watch SE 3 is just $199 for Prime Day](https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale)
+  - [The Steam Machine is the start of an even more expensive future for game consoles](https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix)
+  - [Valve is working with AMD to bring FSR 4 to the Steam Machine](https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler)
 - Trail of Bits Blog
   - [Introducing Patch the Planet](https://blog.trailofbits.com/2026/06/22/introducing-patch-the-planet/)
 - VulDB Recent Entries
@@ -45,21 +68,32 @@
   - [CVE-2026-9006 | IBM WebSphere Application Server up to 8.5/9.0 server-side request forgery](https://vuldb.com/vuln/372715)
   - [CVE-2026-9610 | IBM Datacap/Datacap Navigator up to 1.8.4/9.1.8/9.1.9 direct request](https://vuldb.com/vuln/372717)
 - Vulners.com RSS Feed
+  - [AVideo's Privilege Escalation via Unguarded Permission Parameters in signUp API Allows Self-Granting Upload/Stream/Meet Permissions](https://vulners.com/github/GHSA-8J8M-P79X-G4JM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-33854](https://vulners.com/nvd/NVD:CVE-2023-33854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-51454](https://vulners.com/nvd/NVD:CVE-2024-51454?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10789](https://vulners.com/attackerkb/AKB:CE20745D-59C0-4D4A-B50F-661CCE04C7CF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10789 MCP Extension Code Injection Vulnerability in Autodesk Fusion Desktop](https://vulners.com/cve/CVE-2026-10789?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10789 MCP Extension Code Injection Vulnerability in Autodesk Fusion Desktop](https://vulners.com/cvelist/CVELIST:CVE-2026-10789?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10845](https://vulners.com/nvd/NVD:CVE-2026-10845?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11372](https://vulners.com/nvd/NVD:CVE-2026-11372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11825](https://vulners.com/attackerkb/AKB:4FDE7962-D609-4B2E-8FF8-DBDEA43C9365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11942](https://vulners.com/nvd/NVD:CVE-2026-11942?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11943](https://vulners.com/nvd/NVD:CVE-2026-11943?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12479](https://vulners.com/nvd/NVD:CVE-2026-12479?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12549](https://vulners.com/nvd/NVD:CVE-2026-12549?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12628](https://vulners.com/nvd/NVD:CVE-2026-12628?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12725](https://vulners.com/nvd/NVD:CVE-2026-12725?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25119](https://vulners.com/cve/CVE-2026-25119?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-31978](https://vulners.com/cve/CVE-2026-31978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-32315](https://vulners.com/cve/CVE-2026-32315?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-33646](https://vulners.com/cve/CVE-2026-33646?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-33684](https://vulners.com/cve/CVE-2026-33684?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41045](https://vulners.com/nvd/NVD:CVE-2026-41045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41046](https://vulners.com/nvd/NVD:CVE-2026-41046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41047](https://vulners.com/nvd/NVD:CVE-2026-41047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41048](https://vulners.com/nvd/NVD:CVE-2026-41048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41049](https://vulners.com/nvd/NVD:CVE-2026-41049?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42775](https://vulners.com/circl/CIRCL:CVE-2026-42775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49241](https://vulners.com/nvd/NVD:CVE-2026-49241?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50178](https://vulners.com/nvd/NVD:CVE-2026-50178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50557](https://vulners.com/nvd/NVD:CVE-2026-50557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -71,6 +105,18 @@
   - [CVE-2026-54266](https://vulners.com/nvd/NVD:CVE-2026-54266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54267](https://vulners.com/nvd/NVD:CVE-2026-54267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54268](https://vulners.com/nvd/NVD:CVE-2026-54268?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54286](https://vulners.com/attackerkb/AKB:38707B1E-6AA9-458D-943A-293669BDA93C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54286 Hono: Path traversal in `serve-static` on Windows via encoded backslash (`%5C`)](https://vulners.com/cve/CVE-2026-54286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54286 Hono: Path traversal in `serve-static` on Windows via encoded backslash (`%5C`)](https://vulners.com/cvelist/CVELIST:CVE-2026-54286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54287](https://vulners.com/attackerkb/AKB:71C85094-FBDC-47DD-83A5-00510C67AE20?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54287 Hono: AWS Lambda adapter merges multiple `Set-Cookie` headers into one value, dropping cookies on ALB single-header and Lattice](https://vulners.com/cve/CVE-2026-54287?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54287 Hono: AWS Lambda adapter merges multiple `Set-Cookie` headers into one value, dropping cookies on ALB single-header and Lattice](https://vulners.com/cvelist/CVELIST:CVE-2026-54287?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54289](https://vulners.com/attackerkb/AKB:D04D37D9-82CA-4CEE-AEDB-4DB3839DBFB0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54289 Hono: Lambda@Edge adapter keeps only the last value of a repeated request header, dropping the rest](https://vulners.com/cve/CVE-2026-54289?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54289 Hono: Lambda@Edge adapter keeps only the last value of a repeated request header, dropping the rest](https://vulners.com/cvelist/CVELIST:CVE-2026-54289?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54290](https://vulners.com/attackerkb/AKB:F2BAE630-0973-4DFD-B063-C04565F6A53C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54290 Hono: CORS Middleware reflects any Origin with credentials when `origin` defaults to the wildcard](https://vulners.com/cve/CVE-2026-54290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54290 Hono: CORS Middleware reflects any Origin with credentials when `origin` defaults to the wildcard](https://vulners.com/cvelist/CVELIST:CVE-2026-54290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56104](https://vulners.com/nvd/NVD:CVE-2026-56104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7253](https://vulners.com/nvd/NVD:CVE-2026-7253?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7664](https://vulners.com/nvd/NVD:CVE-2026-7664?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -85,7 +131,15 @@
   - [CVE-2026-9072](https://vulners.com/nvd/NVD:CVE-2026-9072?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9320](https://vulners.com/nvd/NVD:CVE-2026-9320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9610](https://vulners.com/nvd/NVD:CVE-2026-9610?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [dotnet: .NET: Local file tampering via link following vulnerability](https://vulners.com/redhat/RHSA-2026:28007-CVE-2026-45491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [dotnet: ASP.NET Core: Denial of Service via uncontrolled resource consumption](https://vulners.com/redhat/RHSA-2026:28007-CVE-2026-45591?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-54806](https://vulners.com/githubexploit/6187732A-19DB-57D3-B916-91087E253791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG) in Trustwallet Trust_Wallet_Browser_Extension](https://vulners.com/githubexploit/A63E68C2-3F8F-5064-93CE-8E4051079D14?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Gogs has an Authentication Bypass via Unvalidated Reverse Proxy Headers](https://vulners.com/github/GHSA-W6J9-VW59-27WV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: .NET 8.0 security update](https://vulners.com/redhat/RHSA-2026:28007?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Mise Vulnerable to Arbitrary Code Execution via Tera Templates in .tool-versions Files (Trust Bypass)](https://vulners.com/github/GHSA-FJJ5-V948-WHJJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [motionEye has an Arbitrary File Read via Path Traversal in Picture/Movie Preview Endpoint](https://vulners.com/github/GHSA-G9FX-5R4H-PCW3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [motionEye's World-Readable Configuration File Exposes Admin Password Hash](https://vulners.com/github/GHSA-RHGP-6WQ6-9J67?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://vulners.com/thn/THN:A2D26AE6302BAA068AA98AC6FA38A101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [I Found 37 Early Prime Day Deals That Are Worth Shopping Now (2026)](https://www.wired.com/story/early-prime-day-deals-june-2026-3/)
