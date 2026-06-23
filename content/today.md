@@ -2,11 +2,13 @@
 
 - 2Libra
   - [WebHook 通知渠道求推荐](https://2libra.com/post/recommendations/7CNgWOJ)
+  - [【💰】各位，mac 的存储空间怎么管理](https://2libra.com/post/software-tools/prCWHb8)
   - [【💰】最近开始看《天道》了，有看过的老哥说说感受吗](https://2libra.com/post/movie-experience/fIw5Ae8)
   - [参加微软 Rewards 的领 KFC 或是美团 20 元券](https://2libra.com/post/deal-hunter/ibkGG-o)
   - [展开折叠回复样式可以再优化](https://2libra.com/post/forum-function/nsYabjr)
   - [忽然想到工作这么多年没尝试去别的城市生活有点可惜](https://2libra.com/post/personal-life/wA0ofE5)
 - 36氪
+  - [36氪首发 | 龚虹嘉、陆奇、海外资本下注，北大���队用肌电腕带做新一代数采终端](https://36kr.com/p/3865125383443463?f=rss)
   - [6月机构研报热度攀升，8只机构评级股获融资净买入超10亿元](https://36kr.com/newsflashes/3864989178238217?f=rss)
   - [8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子](https://36kr.com/p/3865001641006081?f=rss)
   - [AI飞轮驱动加速，半导体更多领域进入上行周期](https://36kr.com/newsflashes/3864975381959942?f=rss)
@@ -15,6 +17,7 @@
   - [Meta因数据安全问题暂停追踪员工鼠标活动的AI训练项目](https://36kr.com/newsflashes/3865041050735875?f=rss)
   - [SpaceX与AI初创公司Reflection达成数十亿美元协议，将向后者提供算力](https://36kr.com/newsflashes/3865030627595529?f=rss)
   - [SpaceX发债交易预计筹资至少200亿美元](https://36kr.com/newsflashes/3864958579987464?f=rss)
+  - [“正行创新”完成近亿美元天使轮融资](https://36kr.com/newsflashes/3865134271599874?f=rss)
   - [三星电子HBM4芯片推出四个月销售额突破10亿美元](https://36kr.com/newsflashes/3864993186583817?f=rss)
   - [两市融资余额增加290.19亿元](https://36kr.com/newsflashes/3865045514376450?f=rss)
   - [中信建投：2026年有望成为人形机器人垂类应用大年](https://36kr.com/newsflashes/3865022492775684?f=rss)
@@ -24,11 +27,14 @@
   - [中信证券：PCIe协议将成为AI时代的慢通胀环节](https://36kr.com/newsflashes/3865040711832841?f=rss)
   - [中信证券：关注景气度蔓延扩散至的新方向](https://36kr.com/newsflashes/3865031281317122?f=rss)
   - [中航光电：兴航光电目前没有面向800G、1.6T等产品开发计划](https://36kr.com/newsflashes/3865058547864836?f=rss)
+  - [亚马逊海外购“海折节”快闪店首次落地成都](https://36kr.com/newsflashes/3865162553381888?f=rss)
   - [人民币兑美元中间价报6.8171](https://36kr.com/newsflashes/3865073777333255?f=rss)
+  - [从用户决策到Agent参与，值得买科技分享AI时代品牌经营新课题](https://36kr.com/p/3865177262101513?f=rss)
   - [光棒个别类型较年初涨价逾五倍，供应紧缺或将延续至2027年](https://36kr.com/newsflashes/3864960298587144?f=rss)
   - [全球资金“加杠杆”押注半导体](https://36kr.com/newsflashes/3864962801128706?f=rss)
   - [创业板指跌超1%](https://36kr.com/newsflashes/3865096983958784?f=rss)
   - [创业板指跌超2%](https://36kr.com/newsflashes/3865104827684097?f=rss)
+  - [华为等在深圳成立新技术服务公司](https://36kr.com/newsflashes/3865126194828291?f=rss)
   - [各地“十五五”规划勾勒消费升级路线图，健康消费站上“C位”](https://36kr.com/newsflashes/3865021101167878?f=rss)
   - [城堡证券：美联储主席沃什的改革或有助于降低长期美债波动性](https://36kr.com/newsflashes/3864961914934529?f=rss)
   - [央行今日开展5245亿元7天期逆回购操作](https://36kr.com/newsflashes/3865080058598661?f=rss)
@@ -39,7 +45,9 @@
   - [智能眼镜行业隐私保护受关注，终端厂商探索数据分级处理等方案](https://36kr.com/newsflashes/3864999635080453?f=rss)
   - [梦腾智驾通过港交所上市聆讯](https://36kr.com/newsflashes/3865029482599431?f=rss)
   - [正浩EcoFlow发布全场景储能新品矩阵](https://36kr.com/newsflashes/3865008753284102?f=rss)
+  - [沪深两市成交额突破1.5万亿元](https://36kr.com/newsflashes/3865132050912259?f=rss)
   - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3865110538032133?f=rss)
+  - [沪深两市成交额突破2万亿元](https://36kr.com/newsflashes/3865170344465415?f=rss)
   - [沪深两市成交额突破5000亿元](https://36kr.com/newsflashes/3865095938168069?f=rss)
   - [深化并购重组与再融资改革，推动上市公司提质增效](https://36kr.com/newsflashes/3865011790173442?f=rss)
   - [深港通下的港股通标的证券名单调整：调入星源材质](https://36kr.com/newsflashes/3865039778141189?f=rss)
@@ -49,12 +57,15 @@
   - [点心债持续扩容，离岸人民币市场融资加速](https://36kr.com/newsflashes/3864982953235462?f=rss)
   - [现货黄金下跌1%](https://36kr.com/newsflashes/3865108838634756?f=rss)
   - [甲骨文上财年裁员约2.1万](https://36kr.com/newsflashes/3864942405129479?f=rss)
+  - [硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达](https://36kr.com/p/3865136165344516?f=rss)
   - [秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐](https://36kr.com/p/3865070004212994?f=rss)
   - [稀有“味精”供需错配加剧，锗价半年涨逾八成](https://36kr.com/newsflashes/3864977692415235?f=rss)
   - [算力光纤需求共振，高纯四氯化硅景气度上行](https://36kr.com/newsflashes/3864969681982726?f=rss)
   - [美股三大指数收盘涨跌不一，SpaceX跌超16%](https://36kr.com/newsflashes/3864939830269186?f=rss)
+  - [腾讯旗下上海启善投资公司增资至8亿](https://36kr.com/newsflashes/3865154123896073?f=rss)
   - [芯谷微更换券商，重启IPO辅导](https://36kr.com/newsflashes/3865118749267202?f=rss)
   - [英国电网运营商预计今冬电力供应将保持充足](https://36kr.com/newsflashes/3864978539418626?f=rss)
+  - [豆包大模型的日均tokens调用量达到180万亿](https://36kr.com/newsflashes/3865137028928774?f=rss)
   - [超1600亿元“红包”本周派发，红利资产配置价值仍获看好](https://36kr.com/newsflashes/3864992799691779?f=rss)
   - [达美乐提升首席运营官乔丹为CEO](https://36kr.com/newsflashes/3864976621343745?f=rss)
   - [近九成上市券商加入“双提升”行动，部分方案仍偏“口号化”](https://36kr.com/newsflashes/3865007142589448?f=rss)
@@ -78,6 +89,8 @@
 - Cybersecurity News
   - [Critical libssh2 Vulnerability CVE-2026-55200 Enables Remote Code Execution](https://securityonline.info/libssh2-vulnerability-cve-2026-55200/)
   - [FBI Warns of Traffic Distribution Systems in Cyber Attacks](https://securityonline.info/traffic-distribution-systems-fbi-warning/)
+  - [Resolving the Codex SSD Wear Issue](https://securityonline.info/codex-ssd-wear-issue-fix/)
+  - [Tinyproxy Request Smuggling Flaws Expose Networks](https://securityonline.info/tinyproxy-request-smuggling-cve/)
   - [Vendor-Signed UEFI Applications Allow Secure Boot Bypass](https://securityonline.info/vendor-signed-uefi-secure-boot-bypass/)
 - daringfireball.net
   - [Apple Is Going to Raise Device Prices — but When?](https://x.com/markgurman/status/2067741507273289766)
@@ -109,6 +122,8 @@
   - [Commemorating 70 Years of Artificial Intelligence](https://spectrum.ieee.org/70-years-of-artificial-intelligence)
 - pluralistic.net
   - [Pluralistic: Good politics (22 Jun 2026)](https://pluralistic.net/2026/06/22/8-for-what-we-will/)
+- rtl-sdr.com
+  - [Meshyface: A Browser Based Chat and Network Dashboard for Meshtastic](https://www.rtl-sdr.com/meshyface-a-browser-based-chat-and-network-dashboard-for-meshtastic/)
 - Security Uncorked
   - [FortiBleed: What Security Teams Need to Know (and Why This Story Is Bigger Than Fortinet)](https://securityuncorked.com/2026/06/fortibleed-what-security-teams-need-to-know-and-why-this-story-is-bigger-than-fortinet/)
 - simonwillison.net
@@ -117,7 +132,9 @@
   - [bypass-code-defender exploit](https://sploitus.com/exploit?id=959BDE59-627E-5EBC-B239-D7E23BC18A90&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-54806 exploit](https://sploitus.com/exploit?id=6187732A-19DB-57D3-B916-91087E253791&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce exploit](https://sploitus.com/exploit?id=0D7DE32F-DF63-51D0-A699-AAD3D055B58E&utm_source=rss&utm_medium=rss)
+  - [Exploit for Untrusted Pointer Dereference in Microsoft exploit](https://sploitus.com/exploit?id=DF5C4368-B596-5A56-B3D2-A29063405520&utm_source=rss&utm_medium=rss)
   - [Exploit for Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG) in Trustwallet Trust_Wallet_Browser_Extension exploit](https://sploitus.com/exploit?id=A63E68C2-3F8F-5064-93CE-8E4051079D14&utm_source=rss&utm_medium=rss)
+  - [sharepoint-sqli-research exploit](https://sploitus.com/exploit?id=8BAB742C-5C9E-5401-B964-9E8F5ACD280A&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak](https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/)
   - [AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/)
@@ -227,6 +244,7 @@
   - [CVE-2026-11525 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-11525?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11825](https://vulners.com/attackerkb/AKB:4FDE7962-D609-4B2E-8FF8-DBDEA43C9365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11825](https://vulners.com/nvd/NVD:CVE-2026-11825?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11833](https://vulners.com/nvd/NVD:CVE-2026-11833?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11834](https://vulners.com/nvd/NVD:CVE-2026-11834?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11942](https://vulners.com/nvd/NVD:CVE-2026-11942?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11943](https://vulners.com/nvd/NVD:CVE-2026-11943?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -466,6 +484,7 @@
   - [dotnet: ASP.NET Core: Denial of Service via uncontrolled resource consumption](https://vulners.com/redhat/RHSA-2026:28011-CVE-2026-45591?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-54806](https://vulners.com/githubexploit/6187732A-19DB-57D3-B916-91087E253791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce](https://vulners.com/githubexploit/0D7DE32F-DF63-51D0-A699-AAD3D055B58E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Untrusted Pointer Dereference in Microsoft](https://vulners.com/githubexploit/DF5C4368-B596-5A56-B3D2-A29063405520?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG) in Trustwallet Trust_Wallet_Browser_Extension](https://vulners.com/githubexploit/A63E68C2-3F8F-5064-93CE-8E4051079D14?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-34XG-WGJX-8XPH vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-34XG-WGJX-8XPH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-35C4-RVC8-FRHM Budibase: POST /api/attachments/:datasourceId/url is unauthenticated and lets anonymous callers mint S3 PUT pre-signed URLs using stored datasource IAM credentials](https://vulners.com/osv/OSV:GHSA-35C4-RVC8-FRHM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -480,6 +499,7 @@
   - [GHSA-RGVG-3WPC-H44P Budibase: Mass Assignment in Webhook Trigger Allows Cross-Workspace Automation Execution via appId Override](https://vulners.com/osv/OSV:GHSA-RGVG-3WPC-H44P?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-VM85-HXW5-5432 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-VM85-HXW5-5432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-VXPW-J846-P89Q vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-VXPW-J846-P89Q?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-WFQX-GJRF-G28R vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-WFQX-GJRF-G28R?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-WPWQ-4J6V-78M3 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-WPWQ-4J6V-78M3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Gogs has an Authentication Bypass via Unvalidated Reverse Proxy Headers](https://vulners.com/github/GHSA-W6J9-VW59-27WV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: .NET 8.0 security update](https://vulners.com/redhat/RHSA-2026:28007?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -493,6 +513,7 @@
   - [Paymenter has Blind Unauthenticated SSRF on the Paypal gateway module](https://vulners.com/github/GHSA-7WWH-XCC3-9FCG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Paymenter has broken object level authorization via service reference manipulation on ticket creation](https://vulners.com/github/GHSA-X93Q-X9PC-W5HW?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://vulners.com/thn/THN:A2D26AE6302BAA068AA98AC6FA38A101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [sharepoint-sqli-research](https://vulners.com/githubexploit/8BAB742C-5C9E-5401-B964-9E8F5ACD280A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vim: arbitrary command execution via modeline sandbox bypass](https://vulners.com/redhat/RHSA-2026:28050-CVE-2026-34982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vim: command injection when decompressing .tgz archives](https://vulners.com/redhat/RHSA-2026:28050-CVE-2026-46483?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vim: Vim: Command injection allows arbitrary code execution via malicious tag files](https://vulners.com/redhat/RHSA-2026:28050-CVE-2026-41411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -513,3 +534,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜豆包联合曹操出行推出打车功能/淘宝闪购灰测高端外卖「家宴」/日本卫浴厂商TOTO计划投800亿日元做1nm芯片](https://www.ifanr.com/1669656?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [英伟达新平台实现100%液冷 能耗用水双降](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%96%B0%E5%B9%B3%E5%8F%B0%E5%AE%9E%E7%8E%B0100-%E6%B6%B2%E5%86%B7-%E8%83%BD%E8%80%97%E7%94%A8%E6%B0%B4%E5%8F%8C%E9%99%8D)
