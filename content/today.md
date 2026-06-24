@@ -2,18 +2,43 @@
 
 - 2Libra
   - [ffmpeg 曝发现严重漏洞，涉及 obs，vlc 等多个应用，播放或存储恶意视频或导致被攻击](https://2libra.com/post/network-security/Zp9eq_D)
+  - [完了完了，这跌的董事长都离职了](https://2libra.com/post/stock-market/OWCNXOa)
 - 36氪
+  - [AI算力需求传导，“纤维之王”对位芳纶步入高景气周期](https://36kr.com/newsflashes/3866383189021954?f=rss)
+  - [Alphabet将于6月29日纳入道琼斯工业平均指数，取代威瑞森](https://36kr.com/newsflashes/3866383739245572?f=rss)
+  - [SK海力士将向韩国金融监督院提交与ADR挂钩的新股票发售计划](https://36kr.com/newsflashes/3866380610262018?f=rss)
   - [SpaceX 250亿美元的债券分五期发行，最长期限达30年](https://36kr.com/newsflashes/3866358331511808?f=rss)
+  - [北交所公司迎来密集调研，机构掘金“专精特新”标的](https://36kr.com/newsflashes/3866380007167236?f=rss)
+  - [告别3%以上利率“躺赚”时代，一批储户正经历收益落差](https://36kr.com/newsflashes/3866381874697219?f=rss)
+  - [年内重要股东增持超350亿元，77家公司打出“增持+回购”组合拳](https://36kr.com/newsflashes/3866387040949249?f=rss)
+  - [摩根士丹利旗下70亿美元私募信贷基金限制赎回，回购上限设为5%](https://36kr.com/newsflashes/3866367176168455?f=rss)
+  - [新型深脑刺激系统改善帕金森患者步态](https://36kr.com/newsflashes/3866385812509699?f=rss)
+  - [模块化设计的纳米递药机器人能自行组装](https://36kr.com/newsflashes/3866386287219712?f=rss)
+  - [港股新股市场火热态势延续，上半年“吸金”有望超2000亿港元](https://36kr.com/newsflashes/3866384567538696?f=rss)
+  - [特朗普政府施压Meta，要求其提交AI模型接受安全审查](https://36kr.com/newsflashes/3866389239174144?f=rss)
+  - [美国半导体初创公司‌xLight据悉寻求筹集3.5亿美元资金](https://36kr.com/newsflashes/3866409113720069?f=rss)
+  - [美国银行称纳斯达克100指数正逼近泡沫水平](https://36kr.com/newsflashes/3866363433030659?f=rss)
+  - [美联储7月维持利率不变的概率为62.6%](https://36kr.com/newsflashes/3866364081067014?f=rss)
   - [美股三大指数集体收跌，大型科技股多数下跌](https://36kr.com/newsflashes/3866313441727744?f=rss)
+  - [耐克任命前辉瑞CFO丹顿接任首席财务官，8月17日生效](https://36kr.com/newsflashes/3866391895364869?f=rss)
+  - [股票私募仓位创近9周新高，百亿级机构积极加仓](https://36kr.com/newsflashes/3866403045102598?f=rss)
+  - [芝加哥期权交易所推出预测市场系列首批产品](https://36kr.com/newsflashes/3866365308359687?f=rss)
+  - [英伟达发布BioNeMo Agent工具包](https://36kr.com/newsflashes/3866365717386499?f=rss)
+  - [锂电行业景气度回升，关注龙头企业盈利修复机遇](https://36kr.com/newsflashes/3866382441501960?f=rss)
+  - [首款折叠屏iPhone落地预期升温，产业链公司将受益](https://36kr.com/newsflashes/3866387902305541?f=rss)
 - Ars Technica
   - [A curious crossover: The Toyota C-HR review](https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/)
   - [Oracle’s 21,000 layoffs help drive its debt-fueled AI investments](https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/)
   - [Police tout using drone to disarm incapacitated person in “nationwide first”](https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/)
   - [US's climate.gov site, taken down by Trump, relaunched by nonprofit](https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/)
 - Cybersecurity News
+  - [CISA Adds Four Exploited UniFi OS and Lantronix Flaws to KEV Catalog](https://securityonline.info/cisa-kev-catalog-exploited-flaws/)
   - [Internet Society Foundation Opens Global Call for Common Good Cyber Fund to Strengthen Cybersecurity](https://securityonline.info/internet-society-foundation-opens-global-call-for-common-good-cyber-fund-to-strengthen-cybersecurity/)
+  - [LastPass Customer Data Stolen in Klue Supply Chain Breach](https://securityonline.info/lastpass-klue-breach/)
 - daringfireball.net
   - [The Talk Show: ‘Perp Walk for Selfies’](https://daringfireball.net/thetalkshow/2026/06/23/ep-450)
+- Emergent Minds | paddo.dev
+  - [Who Does the Refusal Actually Stop?](https://paddo.dev/blog/refusal-asymmetry/)
 - Fidelis Security
   - [How Credential Harvesting Traps Help Detect Attackers Before Privilege Escalation](https://fidelissecurity.com/threatgeek/threat-detection-response/credential-theft-detection-harvesting-traps/)
 - Hacker News Frontpage
@@ -23,6 +48,7 @@
   - [California AB 2047 makes 3d printers off-limits to students, educators, business](https://www.the3dprintingnerd.com/ab2047)
   - [Claude Tag](https://www.anthropic.com/news/introducing-claude-tag)
   - [Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards](https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html)
+  - [Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/)
   - [German Rail Service Suspended Due to Radio Interference](https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297)
   - [I am a person who will look at the Steam Machine and cry](https://blog.zarfhome.com/2026/06/steam-machine-oh-no)
   - [I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/)
@@ -50,9 +76,12 @@
   - [Exploit for Use After Free in Microsoft exploit](https://sploitus.com/exploit?id=C3D90422-8858-5EAC-A8E5-588AF315EA86&utm_source=rss&utm_medium=rss)
   - [vulnerability-assessment-metasploitable2 exploit](https://sploitus.com/exploit?id=01330BA9-9AFB-5AA8-A3E2-3AB2FE216993&utm_source=rss&utm_medium=rss)
   - [web-exploitation-lab exploit](https://sploitus.com/exploit?id=D00ABD7F-A3B6-5F61-A944-65E5960AB87E&utm_source=rss&utm_medium=rss)
+- Sucuri Blog
+  - [PCI Compliance Isn’t a Checkbox: How to Secure Ecommerce Checkouts Before Attackers Arrive](https://blog.sucuri.net/2026/06/pci-compliance-isnt-a-checkbox-how-to-secure-ecommerce-checkouts-before-attackers-arrive.html)
 - TechCrunch
   - [After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund](https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/)
   - [Anthropic’s Claude Tag is learning your company, one Slack message at a time](https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/)
+  - [India’s MoEngage bets that the future of marketing is millions of AI agents](https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/)
   - [Klue says hackers stole credential from 2022 that led to customer data breaches](https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/)
   - [Mark Zuckerberg wants Meta to launch its own prediction market](https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/)
   - [Superhuman acquires AI detection startup GPTZero](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/)
@@ -449,6 +478,7 @@
   - [Important: Red Hat Security Advisory: Red Hat Openshift Mirror Registry v2.0.11](https://vulners.com/redhat/RHSA-2026:28441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Internet Society Foundation Opens Global Call for Common Good Cyber Fund to Strengthen Cybersecurity](https://vulners.com/hackread/HACKREAD:B18ECD3BC16D6012AA85453F7891373F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Moderate: Red Hat Security Advisory: Red Hat Hardened Images RPMs Security Update](https://vulners.com/redhat/RHSA-2026:28491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Moderate: Red Hat Security Advisory: vim security update](https://vulners.com/redhat/RHSA-2026:28553?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenAM Authenticated Privilege Escalation via Raw Token Disclosure Session RPC](https://vulners.com/github/GHSA-VVHJ-W2JQ-263Q?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenAM Unauthenticated Session Hijacking via Information Exposure in CDCServlet](https://vulners.com/github/GHSA-R9PV-5RPP-VM8G?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin:  IBM® Db2®  is vulnerable to remote code execution due to improper pre-auth DRDA handshake handling (CVE-2026-10109)](https://vulners.com/ibm/2DC85D305D97C31387F66807CEB4A0D345D33B637A123E8BF68671CD72C947FA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -457,11 +487,13 @@
   - [Security Bulletin: IBM® Db2® federated server is affected by multiple vulnerabilities in Netty open source libraries.](https://vulners.com/ibm/7CFBAD0990A6231B69B313EC3C457352ECEA49FF3142803F4E30E3EDFC1C9A2B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: IBM® Db2® federated server is vulnerable to a denial of service due to improper neutralization of special elements in the data query logic of XMLTable-derived columns by autheticated user (CVE-2026-11906)](https://vulners.com/ibm/B5EDB24C122EDE7F9E778A50D922A9D5B8C269780FDECDC84F7C3822FD8E4D40?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: IBM® Db2® is affected by vulnerabilities in bcprov-jdk18on-1.82 and bcpkix-jdk18on-1.82.](https://vulners.com/ibm/6E78BB7330323C426C3DEB44E49F1F04E5444374BC68DE819F5B39E5547D00F7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [vim: Vim: Command injection allows arbitrary code execution via malicious tag files](https://vulners.com/redhat/RHSA-2026:28553-CVE-2026-41411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vulnerability-assessment-metasploitable2](https://vulners.com/githubexploit/01330BA9-9AFB-5AA8-A3E2-3AB2FE216993?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [web-exploitation-lab](https://vulners.com/githubexploit/D00ABD7F-A3B6-5F61-A944-65E5960AB87E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [12 Best Prime Day Apple Deals: iPad, Cases, MacBooks, and More](https://www.wired.com/story/best-prime-day-apple-deals-2026/)
   - [95 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On](https://www.wired.com/story/amazon-prime-day-absolute-best-deals/)
+  - [Amazon Prime Day Deal 2026: A Tushy Bidet for Under $100](https://www.wired.com/story/tushy-classic-wave-amazon-prime-day-deal-2026/)
   - [Best Prime Day Deals on Yoto Players and Accessories](https://www.wired.com/story/yoto-player-prime-day-deal-2026/)
   - [Best Prime Day Streaming Deals I’ve Found (2026): HBO, Paramount Plus](https://www.wired.com/story/best-prime-day-streaming-deals-2026/)
   - [Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed](https://www.wired.com/story/dialog-hack-website-misconfiguration/)
@@ -476,3 +508,5 @@
   - [This Prime Day Neck Fan Deal Will Save You from Summer Sweats (2026)](https://www.wired.com/story/jisulife-neck-fan-deal-prime-day-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [以色列前总理承认曾向伊朗走私星链助示威者](https://blog.upx8.com/%E4%BB%A5%E8%89%B2%E5%88%97%E5%89%8D%E6%80%BB%E7%90%86%E6%89%BF%E8%AE%A4%E6%9B%BE%E5%90%91%E4%BC%8A%E6%9C%97%E8%B5%B0%E7%A7%81%E6%98%9F%E9%93%BE%E5%8A%A9%E7%A4%BA%E5%A8%81%E8%80%85)
