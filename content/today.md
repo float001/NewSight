@@ -3,6 +3,8 @@
 - 2Libra
   - [bug](https://2libra.com/post/community/LptoVdu)
   - [ffmpeg 曝发现严重漏洞，涉及 obs，vlc 等多个应用，播放或存储恶意视频或导致被攻击](https://2libra.com/post/network-security/Zp9eq_D)
+  - [【上班没事干都干啥】](https://2libra.com/post/touch-fish/6ySmJsQ)
+  - [【高考】又到查分填报季，却无雪峰再会期](https://2libra.com/post/mental-health/aJIR5Kr)
   - [【💰】[金币]很开心~我有了自己的第一个勋章玛卡巴卡 😊](https://2libra.com/post/forum-function/UJmFT1H)
   - [【💰】困](https://2libra.com/post/personal-life/lG_irvv)
   - [【💰】早晨骑车撞车了](https://2libra.com/post/personal-life/qDBBFtn)
@@ -13,6 +15,7 @@
   - [卡皮巴拉降临](https://2libra.com/post/forum-function/HWwmJ9p)
   - [安装 Zcode 时，火绒报病毒](https://2libra.com/post/tech-qa/lEMmcku)
   - [完了完了，这跌的董事长都离职了](https://2libra.com/post/stock-market/OWCNXOa)
+  - [收到评论，是否有金币](https://2libra.com/post/forum-function/WOg80gX)
   - [闲聊](https://2libra.com/post/slacking-off/b9MVmhg)
 - 36氪
   - [36氪首发 | 同济博士从建筑机器人转战煤矿，押注辅助作业的“结构性蓝海”](https://36kr.com/p/3866531692844034?f=rss)
@@ -29,6 +32,7 @@
   - [“海德氢能”完成B+轮亿元融资](https://36kr.com/newsflashes/3866506417837058?f=rss)
   - [“随擎”完成千万元级天使轮融资](https://36kr.com/newsflashes/3866525704426505?f=rss)
   - [三星或宣布回购价值90万亿韩元的股票用于发放奖金](https://36kr.com/newsflashes/3866461741306888?f=rss)
+  - [三部门组织实施2026年首台（套）重大技术装备保险补偿政策](https://36kr.com/newsflashes/3866578150331648?f=rss)
   - [专访火山引擎谭待：模型好对MaaS是最重要的事，豆包2.1算「上牌桌」了](https://36kr.com/p/3865912900588548?f=rss)
   - [两市融资余额增加61.31亿元](https://36kr.com/newsflashes/3866462793979144?f=rss)
   - [中信建投：业绩修复有望带动保险板块股价回暖，建议把握配置机会](https://36kr.com/newsflashes/3866425973560582?f=rss)
@@ -38,6 +42,7 @@
   - [中信证券：算力、电力相关产业链具备中长期配置价值](https://36kr.com/newsflashes/3866430062269705?f=rss)
   - [中信证券：银行板块有望向“高确定性权益资产”重估](https://36kr.com/newsflashes/3866439482594306?f=rss)
   - [公募扎堆调研，电子行业个股受追捧](https://36kr.com/newsflashes/3866427519308803?f=rss)
+  - [养生堂等在杭州成立新公司，注册资本1亿](https://36kr.com/newsflashes/3866590587393284?f=rss)
   - [力拓计划到2028年将锂产量提高两倍至20万吨，以满足电动汽车和储能电池需求](https://36kr.com/newsflashes/3866444954473481?f=rss)
   - [北交所公司迎来密集调研，机构掘金“专精特新”标的](https://36kr.com/newsflashes/3866380007167236?f=rss)
   - [告别3%以上利率“躺赚”时代，一批储户正经历收益落差](https://36kr.com/newsflashes/3866381874697219?f=rss)
@@ -46,6 +51,7 @@
   - [央行今日开展6625亿元7天期逆回购操作](https://36kr.com/newsflashes/3866502158832647?f=rss)
   - [市场融资融券余额首次突破3万亿元](https://36kr.com/newsflashes/3866507400860928?f=rss)
   - [年内重要股东增持超350亿元，77家公司打出“增持+回购”组合拳](https://36kr.com/newsflashes/3866387040949249?f=rss)
+  - [广东：着力打造世界级新型机电产业集群](https://36kr.com/newsflashes/3866557922415881?f=rss)
   - [微信AI助手小微，还有许多做不到的事情｜产品观察](https://36kr.com/p/3865425714795525?f=rss)
   - [恒指开盘涨0.36%，恒生科技指数涨0.48%](https://36kr.com/newsflashes/3866495105045764?f=rss)
   - [扩产、增效步履不停，多家公司上半年业绩预喜](https://36kr.com/newsflashes/3866379369092356?f=rss)
@@ -56,6 +62,7 @@
   - [沃尔玛旗下的Flipkart计划在IPO前拓展印度快速商务业务](https://36kr.com/newsflashes/3866454531789827?f=rss)
   - [消息称台积电先进制程代工将全线涨价](https://36kr.com/newsflashes/3866472254411779?f=rss)
   - [港股新股市场火热态势延续，上半年“吸金”有望超2000亿港元](https://36kr.com/newsflashes/3866384567538696?f=rss)
+  - [港股智谱涨幅扩大至13%，总市值重回1万亿港元](https://36kr.com/newsflashes/3866555102614535?f=rss)
   - [特斯拉据悉拟在美国市场推出Model Y加长版，以填补Model X停产留下的空白](https://36kr.com/newsflashes/3866451107222785?f=rss)
   - [特朗普政府施压Meta，要求其提交AI模型接受安全审查](https://36kr.com/newsflashes/3866389239174144?f=rss)
   - [现货黄金下跌1%](https://36kr.com/newsflashes/3866481213281542?f=rss)
@@ -63,6 +70,7 @@
   - [美国银行称纳斯达克100指数正逼近泡沫水平](https://36kr.com/newsflashes/3866363433030659?f=rss)
   - [美联储7月维持利率不变的概率为62.6%](https://36kr.com/newsflashes/3866364081067014?f=rss)
   - [美股三大指数集体收跌，大型科技股多数下跌](https://36kr.com/newsflashes/3866313441727744?f=rss)
+  - [考虑通胀经济金融等因素，韩国央行称需要在适当时候提高利率](https://36kr.com/newsflashes/3866563795653632?f=rss)
   - [耐克任命前辉瑞CFO丹顿接任首席财务官，8月17日生效](https://36kr.com/newsflashes/3866391895364869?f=rss)
   - [联邦快递2026财年全年营收947亿美元](https://36kr.com/newsflashes/3866440074269955?f=rss)
   - [股权甩卖和股东增资并存，牌照吸引力分化，信托业加速业务转型](https://36kr.com/newsflashes/3866428257342727?f=rss)
@@ -70,6 +78,9 @@
   - [芝加哥期权交易所推出预测市场系列首批产品](https://36kr.com/newsflashes/3866365308359687?f=rss)
   - [英伟达发布BioNeMo Agent工具包](https://36kr.com/newsflashes/3866365717386499?f=rss)
   - [豆包专业版正式上线](https://36kr.com/newsflashes/3866487937651968?f=rss)
+  - [超威电源集团增资至21.4 亿，增幅约11%](https://36kr.com/newsflashes/3866560656528648?f=rss)
+  - [超长期特别国债已助力超36万台电梯更新](https://36kr.com/newsflashes/3866575685620743?f=rss)
+  - [软银首席执行官孙正义：我们的机器人实体人工智能工厂已开始投产机器人](https://36kr.com/newsflashes/3866570257831175?f=rss)
   - [锂电行业景气度回升，关注龙头企业盈利修复机遇](https://36kr.com/newsflashes/3866382441501960?f=rss)
   - [韩国总统府官员：三星与SK海力士新芯片集群规划进入收尾阶段](https://36kr.com/newsflashes/3866532521825286?f=rss)
   - [首款折叠屏iPhone落地预期升温，产业链公司将受益](https://36kr.com/newsflashes/3866387902305541?f=rss)
@@ -119,6 +130,8 @@
   - [2026-06-22: SHub Stealer infection (macOS)](https://www.malware-traffic-analysis.net/2026/06/22/index.html)
 - OpenAI Blog
   - [How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery](https://openai.com/index/gpt-5-immunology-mystery)
+- rtl-sdr.com
+  - [Rigflow: A Networked HF SDR Transceiver App in Rust with Real-Time DSP Over UDP](https://www.rtl-sdr.com/rigflow-a-networked-hf-sdr-transceiver-app-in-rust-with-real-time-dsp-over-udp/)
 - Sploitus.com Exploits RSS Feed
   - [Audiobookshelf Unauthenticated API Authentication Bypass Scanner exploit](https://sploitus.com/exploit?id=MSF:AUXILIARY-SCANNER-HTTP-AUDIOBOOKSHELF_AUTH_BYPASS-&utm_source=rss&utm_medium=rss)
   - [CyberSentinel-Pro-Web-Vulnerability-Scanner exploit](https://sploitus.com/exploit?id=1575A355-8763-5E2E-A49C-1D91E96B1054&utm_source=rss&utm_medium=rss)
@@ -299,6 +312,7 @@
   - [CVE-2026-12163 Stored XSS in Fortra File Integrity Monitoring (FIM)](https://vulners.com/cvelist/CVELIST:CVE-2026-12163?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12164 Privilege Escalation in Fortra File Integrity Monitoring (FIM)](https://vulners.com/cve/CVE-2026-12164?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12164 Privilege Escalation in Fortra File Integrity Monitoring (FIM)](https://vulners.com/cvelist/CVELIST:CVE-2026-12164?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12681](https://vulners.com/nvd/NVD:CVE-2026-12681?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12891](https://vulners.com/nvd/NVD:CVE-2026-12891?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12892](https://vulners.com/nvd/NVD:CVE-2026-12892?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-23513](https://vulners.com/nvd/NVD:CVE-2026-23513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -574,6 +588,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [实测豆包专业版，我愿意当第一批掏钱的人](https://www.ifanr.com/1669687?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜大疆Pocket 4P开售即售罄/曝三星显示获折叠屏iPhone面板独供认证/追觅辟谣汽车CEO离职](https://www.ifanr.com/1669810?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [耳夹耳机能有多好听？韶音给了参考答案 ｜OpenDots 2 体验](https://www.ifanr.com/1669621?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
