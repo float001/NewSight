@@ -85,6 +85,7 @@
 - idiallo.com
   - [All Chinese Models Will Be Illegal in 3... 2... 1...](https://idiallo.com/blog/all-chinese-models-will-be-illegal)
 - johndcook.com
+  - [Height of harmonic numbers](https://www.johndcook.com/blog/2026/06/27/height-of-harmonic-numbers/)
   - [Writing down harmonic numbers](https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/)
 - Kali Linux Tutorials
   - [Best Legal OSINT Tools 2026: Research Safely Without Crossing Privacy Lines](https://kalilinuxtutorials.com/best-legal-osint-tools-2026/)
@@ -114,6 +115,7 @@
   - [Exploit for Deserialization of Untrusted Data in Splunk exploit](https://sploitus.com/exploit?id=030DAD67-A828-5EBE-BC28-DC3BB6C406CE&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce exploit](https://sploitus.com/exploit?id=449EB399-8D3C-5528-B03B-B58DC4645B9D&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Microsoft exploit](https://sploitus.com/exploit?id=B351E803-26D7-5CFC-8727-D423591F86F5&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Implementation of Authentication Algorithm in Google Android exploit](https://sploitus.com/exploit?id=20557F2C-42AE-5B1F-BCF0-6B6EBE49885A&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Splunk exploit](https://sploitus.com/exploit?id=2A8C8CE0-592F-566A-AD1D-9DB21DEE0C60&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Cacti exploit](https://sploitus.com/exploit?id=C1779145-9574-5457-B610-1891430BF6B2&utm_source=rss&utm_medium=rss)
   - [joomla-exploits-main exploit](https://sploitus.com/exploit?id=ED09B2EE-07B3-547B-93CC-D9DAC465C0D2&utm_source=rss&utm_medium=rss)
@@ -122,6 +124,7 @@
   - [readme-templates exploit](https://sploitus.com/exploit?id=6196E298-0340-5264-B5F8-6E5858DBE114&utm_source=rss&utm_medium=rss)
   - [sentinel exploit](https://sploitus.com/exploit?id=197F5F1A-4022-5470-BA29-351D92AC0901&utm_source=rss&utm_medium=rss)
   - [xss-vulnerability-scanner exploit](https://sploitus.com/exploit?id=73764E05-FE56-54D5-88DB-FC538242C5EB&utm_source=rss&utm_medium=rss)
+  - [zuixingongju-resources exploit](https://sploitus.com/exploit?id=DA7F69A5-CB1C-5349-A64A-8E71383B260A&utm_source=rss&utm_medium=rss)
 - SumSec's Blog
   - [从手改 Skill 到自动进化：评测结果和执行轨迹如何让 Agent 变稳](https://sumsec.me/2026/skill-evolution-results-trace.html)
 - TechCrunch
@@ -143,10 +146,12 @@
   - [ByteDance's "iLLaDA" is a diffusion language model that keeps up with Qwen2.5](https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/)
   - [OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable](https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/)
   - [OpenAI's new flagship model GPT-5.6 Sol cheats on software tests more than any model before it](https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/)
+  - [The companies most likely to automate your job are now funding a $1 billion program to retrain you](https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/)
 - The Verge
   - [24 Prime Day deals Verge readers are grabbing before Prime Day ends](https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers)
   - [After covering Prime Day for 36 hours over four days, this is the one thing I bought](https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor)
   - [Anthropic&#8217;s Mythos 5 is back](https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations)
+  - [Inside the room where the smart home industry is still betting on Matter](https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability)
   - [It’s the last day of Prime Day — here are over 140 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four)
   - [My favorite Govee smart lamps are at their lowest prices ever for Prime Day](https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale)
   - [OpenAI unveils GPT-5.6 amid US AI regulatory drama](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview)
@@ -624,6 +629,7 @@
   - [Exploit for Deserialization of Untrusted Data in Splunk](https://vulners.com/githubexploit/030DAD67-A828-5EBE-BC28-DC3BB6C406CE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce](https://vulners.com/githubexploit/449EB399-8D3C-5528-B03B-B58DC4645B9D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Microsoft](https://vulners.com/githubexploit/B351E803-26D7-5CFC-8727-D423591F86F5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Implementation of Authentication Algorithm in Google Android](https://vulners.com/githubexploit/20557F2C-42AE-5B1F-BCF0-6B6EBE49885A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Splunk](https://vulners.com/githubexploit/2A8C8CE0-592F-566A-AD1D-9DB21DEE0C60?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for OS Command Injection in Cacti](https://vulners.com/githubexploit/C1779145-9574-5457-B610-1891430BF6B2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://vulners.com/thn/THN:7E1EAC23BDB48712E7108993DDE56BCD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -663,6 +669,7 @@
   - [MamaBaohe-ERP-SQLi](https://vulners.com/githubexploit/5A30AF6D-A3F1-5C05-9042-C5ED3EF4AAB8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://vulners.com/thn/THN:7EF04AAF4274557391FF629872DDC867?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nono-py has proxy-only network fallback bypass on older Linux kernels](https://vulners.com/github/GHSA-72W7-MF9G-733P?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards](https://vulners.com/thn/THN:84222DE80E842511E06F77D1F93FE175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenAM Account Takeover via Unverified Password Change in OAuth2 Module](https://vulners.com/github/GHSA-GF57-4MP6-M85X?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenAM Authentication Bypass via MSISDN LDAP Injection](https://vulners.com/github/GHSA-XQ73-FVMR-JVMM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [pnpm: Manifest identity spoof satisfies allowBuilds and runs attacker lifecycle](https://vulners.com/github/GHSA-5WX6-MG75-V57R?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -676,6 +683,7 @@
   - [Statamic CMS's incorrect authorization lets view-only users submit Live Preview content reserved for editors](https://vulners.com/github/GHSA-7MQQ-4V55-88GH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Subsonic API: any authenticated user can delete or read any other user's playlist (IDOR)](https://vulners.com/github/GHSA-HMGP-W9JM-VP95?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [xss-vulnerability-scanner](https://vulners.com/githubexploit/73764E05-FE56-54D5-88DB-FC538242C5EB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [zuixingongju-resources](https://vulners.com/githubexploit/DA7F69A5-CB1C-5349-A64A-8E71383B260A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: Notes From The Bubble, Volume 1](https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/)
 - Wired
@@ -699,6 +707,8 @@
   - [Universal Is Skipping Influencer Screenings for ‘The Odyssey.’ Film Critics Are Thrilled](https://www.wired.com/story/film-critics-thrilled-universal-is-skipping-influencer-screenings-for-the-odyssey/)
 - Zgao's blog
   - [不同数据库被”拖库”特征-托管vs自建+是/否开启审计日志取证实测](https://zgao.top/%e4%b8%8d%e5%90%8c%e6%95%b0%e6%8d%ae%e5%ba%93%e8%a2%ab%e6%8b%96%e5%ba%93%e7%89%b9%e5%be%81-%e6%89%98%e7%ae%a1vs%e8%87%aa%e5%bb%ba%e6%98%af-%e5%90%a6%e5%bc%80%e5%90%af%e5%ae%a1%e8%ae%a1%e6%97%a5/)
+- 不安全
+  - [OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards](https://buaq.net/go-425625.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
