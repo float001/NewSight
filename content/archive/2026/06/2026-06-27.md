@@ -2,12 +2,18 @@
 
 - 2Libra
   - [3 个 Claude 账号都同时失灵了，难道真的是传说中的那个问题？](https://2libra.com/post/ai-tools/q-rGPqx)
+- 36氪
+  - [理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底](https://36kr.com/p/3866946087867394?f=rss)
+  - [追赶FSD V14，理想在补哪些课？｜最前线](https://36kr.com/p/3870292939658242?f=rss)
 - Ars Technica
   - [Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?](https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/)
 - daringfireball.net
   - [Apple’s Full Statement on Yesterday’s Price Increases](https://www.macrumors.com/2026/06/25/apple-explains-why-it-raised-prices/)
+  - [★ Om](https://daringfireball.net/2026/06/om)
 - darkreading
   - [AI Decline? Confidence in Autonomous Penetration Testing Falls](https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing)
+- Emergent Minds | paddo.dev
+  - [We Stopped Calling It Ralph Wiggum](https://paddo.dev/blog/loop-engineering-rename-and-invoice/)
 - filfre.net
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/)
 - Hacker News Frontpage
@@ -54,6 +60,7 @@
   - [OpenAI unveils GPT-5.6 amid US AI regulatory drama](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview)
   - [Our 36 favorite gaming deals on Prime Day for Switch, PS5, and Xbox](https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale)
   - [Our favorite Prime Day gadgets under $100 you don&#8217;t need but will really want](https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale)
+  - [Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
   - [Smart lock maker Level has been gutted and its founders are out](https://www.theverge.com/tech/957802/level-lock-layoffs-assa-abloy-kwikset-smart-lock-cloud)
   - [The World Cup puts the US’s nightmarish immigration policies front and center](https://www.theverge.com/report/957948/world-cup-us-visa-policies-trump)
   - [These are the best deals you can still get on MacBooks before Apple&#8217;s price hike kicks in](https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes)
@@ -255,8 +262,11 @@
   - [CVE-2026-28385](https://vulners.com/nvd/NVD:CVE-2026-28385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28385 SSRF via image import from URL allows internal network probing by authenticated users](https://vulners.com/cve/CVE-2026-28385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28385 SSRF via image import from URL allows internal network probing by authenticated users](https://vulners.com/cvelist/CVELIST:CVE-2026-28385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-28701](https://vulners.com/nvd/NVD:CVE-2026-28701?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28701 Daktronics Controller Firmware Path Traversa](https://vulners.com/cve/CVE-2026-28701?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28701 Daktronics Controller Firmware Path Traversa](https://vulners.com/cvelist/CVELIST:CVE-2026-28701?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-31928](https://vulners.com/nvd/NVD:CVE-2026-31928?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-33560](https://vulners.com/nvd/NVD:CVE-2026-33560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-33646](https://vulners.com/nvd/NVD:CVE-2026-33646?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36478](https://vulners.com/nvd/NVD:CVE-2026-36478?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36907](https://vulners.com/nvd/NVD:CVE-2026-36907?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -333,6 +343,7 @@
   - [CVE-2026-53090](https://vulners.com/redhatcve/RH:CVE-2026-53090?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53576](https://vulners.com/nvd/NVD:CVE-2026-53576?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53577](https://vulners.com/nvd/NVD:CVE-2026-53577?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54244](https://vulners.com/cve/CVE-2026-54244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54341](https://vulners.com/nvd/NVD:CVE-2026-54341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54350](https://vulners.com/nvd/NVD:CVE-2026-54350?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54350 Budibase: Anonymous NoSQL operator injection via published-app query templates](https://vulners.com/cve/CVE-2026-54350?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -367,6 +378,8 @@
   - [CVE-2026-55686](https://vulners.com/nvd/NVD:CVE-2026-55686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55686 Podman: WORKDIR symlink traversal vulnerability](https://vulners.com/cve/CVE-2026-55686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55686 Podman: WORKDIR symlink traversal vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-55686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55975](https://vulners.com/nvd/NVD:CVE-2026-55975?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56414](https://vulners.com/nvd/NVD:CVE-2026-56414?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56663](https://vulners.com/nvd/NVD:CVE-2026-56663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56823](https://vulners.com/nvd/NVD:CVE-2026-56823?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56876](https://vulners.com/nvd/NVD:CVE-2026-56876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -397,6 +410,10 @@
   - [GHSA-PX7Q-GGQJ-HCF2](https://vulners.com/circl/CIRCL:GHSA-PX7Q-GGQJ-HCF2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-Q2GM-54R6-8FWM vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-Q2GM-54R6-8FWM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-VWM4-62GF-X745 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-VWM4-62GF-X745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [gonic has arbitrary file write in createPlaylist: any authenticated user can write playlist M3U content to attacker-controlled path on the host](https://vulners.com/github/GHSA-4GXV-P5G5-J7W7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [gonic: Path Traversal in playlist `id` bypasses ownership check, enabling any user to read/delete other users' playlists](https://vulners.com/github/GHSA-2FP4-5V5C-4448?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ImageMagick has a Heap Buffer Over-Write in SF3 encoder when writing multi-frame image](https://vulners.com/github/GHSA-44CP-C3WW-9RV5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ImageMagick: Memory Leak in wand option parser when providing invalid arguments](https://vulners.com/github/GHSA-J989-F892-2335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in db-plog (npm)](https://vulners.com/ossf/OSSF:MAL-2026-6538?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in db-query-log (npm)](https://vulners.com/ossf/OSSF:MAL-2026-6539?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in db-rake (npm)](https://vulners.com/ossf/OSSF:MAL-2026-6540?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -405,8 +422,14 @@
   - [nono-py has proxy-only network fallback bypass on older Linux kernels](https://vulners.com/github/GHSA-72W7-MF9G-733P?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenAM Account Takeover via Unverified Password Change in OAuth2 Module](https://vulners.com/github/GHSA-GF57-4MP6-M85X?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenAM Authentication Bypass via MSISDN LDAP Injection](https://vulners.com/github/GHSA-XQ73-FVMR-JVMM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [pnpm: Manifest identity spoof satisfies allowBuilds and runs attacker lifecycle](https://vulners.com/github/GHSA-5WX6-MG75-V57R?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [pnpm: Project env lockfile can short-circuit package-manager resolution and execute lockfile-selected pnpm bytes](https://vulners.com/github/GHSA-W466-C33R-3GJP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [pnpm: Repository config can expand victim environment secrets into registry requests before scripts run](https://vulners.com/github/GHSA-3QHV-2RGH-X77R?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [pnpm: Repository-controlled configDependencies can select a pacquet native install engine](https://vulners.com/github/GHSA-GJ8W-MVPF-X27X?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [pocsmith](https://vulners.com/githubexploit/F6F142F3-3C4F-57A3-A265-A7DF88A31A6B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [readme-templates](https://vulners.com/githubexploit/6196E298-0340-5264-B5F8-6E5858DBE114?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Statamic CMS's incorrect authorization lets view-only users submit Live Preview content reserved for editors](https://vulners.com/github/GHSA-7MQQ-4V55-88GH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Subsonic API: any authenticated user can delete or read any other user's playlist (IDOR)](https://vulners.com/github/GHSA-HMGP-W9JM-VP95?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: Notes From The Bubble, Volume 1](https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/)
 - Wired
@@ -421,5 +444,6 @@
   - [The Best Prime Day Laptop Deals on My Personal Favorites](https://www.wired.com/story/best-prime-day-laptop-deals-06-26-2026/)
   - [The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials](https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/)
   - [The Prime Day MacBook Deals I Recommend (2026)](https://www.wired.com/story/best-prime-day-macbook-deals-06-26-2026/)
+  - [Universal Is Skipping Influencer Screenings for ‘The Odyssey.’ Film Critics Are Thrilled](https://www.wired.com/story/film-critics-thrilled-universal-is-skipping-influencer-screenings-for-the-odyssey/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
