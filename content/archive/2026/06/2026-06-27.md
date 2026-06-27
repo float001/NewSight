@@ -3,11 +3,18 @@
 - 2Libra
   - [3 个 Claude 账号都同时失灵了，难道真的是传说中的那个问题？](https://2libra.com/post/ai-tools/q-rGPqx)
   - [可特么算拿到这个徽章了!!!!](https://2libra.com/post/forum-function/V27thk1)
+  - [每到周末，公路就自动变成竞速模式](https://2libra.com/post/social-observation/v6xbF3f)
 - 36氪
+  - [G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线](https://36kr.com/p/3869740772316162?f=rss)
+  - [国际油价26日显著下跌](https://36kr.com/newsflashes/3870760450528512?f=rss)
   - [理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底](https://36kr.com/p/3866946087867394?f=rss)
+  - [美联储官员卡什卡里称出现广泛通胀迹象，美联储或需加息](https://36kr.com/newsflashes/3870761159152903?f=rss)
+  - [美股三大指数收盘集体下跌，大型科技股涨跌不一](https://36kr.com/newsflashes/3870759042028806?f=rss)
   - [追赶FSD V14，理想在补哪些课？｜最前线](https://36kr.com/p/3870292939658242?f=rss)
 - Ars Technica
   - [Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?](https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/)
+- Cybersecurity News
+  - [Mistic Backdoor Linked to Ransomware Access Broker](https://securityonline.info/mistic-backdoor-malware/)
 - daringfireball.net
   - [Apple’s Full Statement on Yesterday’s Price Increases](https://www.macrumors.com/2026/06/25/apple-explains-why-it-raised-prices/)
   - [★ Om](https://daringfireball.net/2026/06/om)
@@ -25,6 +32,8 @@
   - [U.S. government will decide who gets to use latest upgrade to ChatGPT](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
 - Horizon3.ai
   - [NodeZero® Proactive Security Platform](https://horizon3.ai/downloads/factsheets/nodezero-proactive-security-platform/)
+- johndcook.com
+  - [Writing down harmonic numbers](https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/)
 - Linux Foundation Blogs
   - [Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence](https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence)
 - simonwillison.net
@@ -261,6 +270,8 @@
   - [CVE-2016-10082](https://vulners.com/circl/CIRCL:CVE-2016-10082?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-20540](https://vulners.com/nvd/NVD:CVE-2023-20540?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-20572](https://vulners.com/nvd/NVD:CVE-2023-20572?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2023-37524 HCL Traveler for Microsoft Outlook (HTMO) is susceptible to vulnerabilities due to .NET Framework 4.5 being out of service](https://vulners.com/cve/CVE-2023-37524?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2023-37524 HCL Traveler for Microsoft Outlook (HTMO) is susceptible to vulnerabilities due to .NET Framework 4.5 being out of service](https://vulners.com/cvelist/CVELIST:CVE-2023-37524?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-23581](https://vulners.com/nvd/NVD:CVE-2024-23581?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-23581 HCL Traveler for Microsoft Outlook (HTMO) is susceptible to an application modification vulnerability](https://vulners.com/cve/CVE-2024-23581?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-23581 HCL Traveler for Microsoft Outlook (HTMO) is susceptible to an application modification vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2024-23581?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -271,15 +282,27 @@
   - [CVE-2025-32423](https://vulners.com/nvd/NVD:CVE-2025-32423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-32423 AutoGPT: There is a DoS vulnerability in ExtractTextInformationBlock](https://vulners.com/cve/CVE-2025-32423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-32423 AutoGPT: There is a DoS vulnerability in ExtractTextInformationBlock](https://vulners.com/cvelist/CVELIST:CVE-2025-32423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-59868 HCL Traveler for Microsoft Outlook (HTMO) is susceptible to sensitive data exposure](https://vulners.com/cve/CVE-2025-59868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-59868 HCL Traveler for Microsoft Outlook (HTMO) is susceptible to sensitive data exposure](https://vulners.com/cvelist/CVELIST:CVE-2025-59868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-0685](https://vulners.com/nvd/NVD:CVE-2026-0685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-0828](https://vulners.com/nvd/NVD:CVE-2026-0828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11356 Ivory Search <= 5.5.15 - Authenticated (Administrator+) Stored Cross-Site Scripting via 'menu_title' and 'menu_magnifier_color' Settings](https://vulners.com/cve/CVE-2026-11356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11356 Ivory Search <= 5.5.15 - Authenticated (Administrator+) Stored Cross-Site Scripting via 'menu_title' and 'menu_magnifier_color' Settings](https://vulners.com/cvelist/CVELIST:CVE-2026-11356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11779](https://vulners.com/nvd/NVD:CVE-2026-11779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11779 PayloadCMS 3.84.1 - Authenticated account lockout bypass through default unlock access](https://vulners.com/cve/CVE-2026-11779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11779 PayloadCMS 3.84.1 - Authenticated account lockout bypass through default unlock access](https://vulners.com/cvelist/CVELIST:CVE-2026-11779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12411](https://vulners.com/nvd/NVD:CVE-2026-12411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13331 Groundhogg <= 4.5.5 - Authenticated (Marketer+) SQL Injection via 'search' Parameter](https://vulners.com/cve/CVE-2026-13331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13331 Groundhogg <= 4.5.5 - Authenticated (Marketer+) SQL Injection via 'search' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-13331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13333 Groundhogg <= 4.5.5 - Authenticated (Sales Rep+) SQL Injection via 'query[select]' Parameter](https://vulners.com/cve/CVE-2026-13333?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13333 Groundhogg <= 4.5.5 - Authenticated (Sales Rep+) SQL Injection via 'query[select]' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-13333?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13335 CodePeople Post Map for Google Maps <= 1.2.6 - Authenticated (Contributor +) Stored Cross-Site Scripting via 'cpm_point' Post Meta](https://vulners.com/cve/CVE-2026-13335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13335 CodePeople Post Map for Google Maps <= 1.2.6 - Authenticated (Contributor +) Stored Cross-Site Scripting via 'cpm_point' Post Meta](https://vulners.com/cvelist/CVELIST:CVE-2026-13335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13372](https://vulners.com/cve/CVE-2026-13372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13372](https://vulners.com/cvelist/CVELIST:CVE-2026-13372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13372](https://vulners.com/nvd/NVD:CVE-2026-13372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13422 HD Quiz 2.2.0 - 2.2.1 - Cross-Site Request Forgery via Multiple AJAX Handlers](https://vulners.com/cve/CVE-2026-13422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13422 HD Quiz 2.2.0 - 2.2.1 - Cross-Site Request Forgery via Multiple AJAX Handlers](https://vulners.com/cvelist/CVELIST:CVE-2026-13422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13434](https://vulners.com/nvd/NVD:CVE-2026-13434?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-21734](https://vulners.com/nvd/NVD:CVE-2026-21734?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28385](https://vulners.com/nvd/NVD:CVE-2026-28385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
