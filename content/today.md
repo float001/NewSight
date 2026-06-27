@@ -8,6 +8,7 @@
   - [每到周末，公路就自动变成竞速模式](https://2libra.com/post/social-observation/v6xbF3f)
   - [潘多拉的随机性是否是伪随机](https://2libra.com/post/forum-function/4Yiyj4U)
   - [硅基流动的服务器是遭不住了吗？](https://2libra.com/post/ai-applications/b8rZSCF)
+  - [豆包输入法电脑版怎么迟迟端不上来](https://2libra.com/post/software-tools/SL176J5)
 - 36氪
   - [Anthropic：获批将Mythos 5重新部署至部分美国机构](https://36kr.com/newsflashes/3870807206663171?f=rss)
   - [G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线](https://36kr.com/p/3869740772316162?f=rss)
@@ -29,6 +30,7 @@
 - Cybersecurity News
   - [Mistic Backdoor Linked to Ransomware Access Broker](https://securityonline.info/mistic-backdoor-malware/)
   - [US Offers $10 Million Reward for Russian Hacker Group UNC5792](https://securityonline.info/rewards-for-justice-unc5792/)
+  - [US Seizes Domains to Stop Illegal World Cup Streaming](https://securityonline.info/illegal-world-cup-streaming-halted/)
 - daringfireball.net
   - [Apple’s Full Statement on Yesterday’s Price Increases](https://www.macrumors.com/2026/06/25/apple-explains-why-it-raised-prices/)
   - [★ Om](https://daringfireball.net/2026/06/om)
@@ -46,6 +48,8 @@
   - [U.S. government will decide who gets to use latest upgrade to ChatGPT](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
 - Horizon3.ai
   - [NodeZero® Proactive Security Platform](https://horizon3.ai/downloads/factsheets/nodezero-proactive-security-platform/)
+- idiallo.com
+  - [All Chinese Models Will Be Illegal in 3... 2... 1...](https://idiallo.com/blog/all-chinese-models-will-be-illegal)
 - johndcook.com
   - [Writing down harmonic numbers](https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/)
 - Linux Foundation Blogs
@@ -58,10 +62,12 @@
   - [What happened after 2,000 people tried to hack my AI assistant](https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [AliAlFarras exploit](https://sploitus.com/exploit?id=265B6264-FAC9-532F-98AB-1AF1890074E6&utm_source=rss&utm_medium=rss)
+  - [boxmoe-dove-sqli-cve exploit](https://sploitus.com/exploit?id=5E55BB2B-EBD9-5DB8-8B52-3F16A438DA24&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Splunk exploit](https://sploitus.com/exploit?id=030DAD67-A828-5EBE-BC28-DC3BB6C406CE&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Microsoft exploit](https://sploitus.com/exploit?id=B351E803-26D7-5CFC-8727-D423591F86F5&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Splunk exploit](https://sploitus.com/exploit?id=2A8C8CE0-592F-566A-AD1D-9DB21DEE0C60&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Cacti exploit](https://sploitus.com/exploit?id=C1779145-9574-5457-B610-1891430BF6B2&utm_source=rss&utm_medium=rss)
+  - [joomla-exploits-main exploit](https://sploitus.com/exploit?id=ED09B2EE-07B3-547B-93CC-D9DAC465C0D2&utm_source=rss&utm_medium=rss)
   - [MamaBaohe-ERP-SQLi exploit](https://sploitus.com/exploit?id=5A30AF6D-A3F1-5C05-9042-C5ED3EF4AAB8&utm_source=rss&utm_medium=rss)
   - [pocsmith exploit](https://sploitus.com/exploit?id=F6F142F3-3C4F-57A3-A265-A7DF88A31A6B&utm_source=rss&utm_medium=rss)
   - [readme-templates exploit](https://sploitus.com/exploit?id=6196E298-0340-5264-B5F8-6E5858DBE114&utm_source=rss&utm_medium=rss)
@@ -267,6 +273,7 @@
 - Vulners.com RSS Feed
   - [AliAlFarras](https://vulners.com/githubexploit/265B6264-FAC9-532F-98AB-1AF1890074E6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Backpropagate: backprop ui --auth and backprop ui --share do not enforce authentication](https://vulners.com/github/GHSA-F65R-H4G3-3H9H?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [boxmoe-dove-sqli-cve](https://vulners.com/githubexploit/5E55BB2B-EBD9-5DB8-8B52-3F16A438DA24?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign](https://vulners.com/thn/THN:7A6FC6E72B7906A66B33E84A6B61E75E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium: CVE-2026-13021 Inappropriate implementation in DeviceBoundSessionCredentials](https://vulners.com/mscve/MS:CVE-2026-13021?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium: CVE-2026-13022 Inappropriate implementation in Autofill](https://vulners.com/mscve/MS:CVE-2026-13022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -511,6 +518,7 @@
   - [gonic: Path Traversal in playlist `id` bypasses ownership check, enabling any user to read/delete other users' playlists](https://vulners.com/github/GHSA-2FP4-5V5C-4448?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ImageMagick has a Heap Buffer Over-Write in SF3 encoder when writing multi-frame image](https://vulners.com/github/GHSA-44CP-C3WW-9RV5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ImageMagick: Memory Leak in wand option parser when providing invalid arguments](https://vulners.com/github/GHSA-J989-F892-2335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [joomla-exploits-main](https://vulners.com/githubexploit/ED09B2EE-07B3-547B-93CC-D9DAC465C0D2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in db-plog (npm)](https://vulners.com/ossf/OSSF:MAL-2026-6538?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in db-query-log (npm)](https://vulners.com/ossf/OSSF:MAL-2026-6539?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in db-rake (npm)](https://vulners.com/ossf/OSSF:MAL-2026-6540?utm_source=rss&utm_medium=rss&utm_campaign=rss)
