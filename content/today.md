@@ -17,18 +17,29 @@
   - [OpenAI：开启下一代模型GPT-5.6系列的限量预览](https://36kr.com/newsflashes/3870811056821506?f=rss)
   - [SpaceX与电信运营商Charter探讨在美国开展手机服务合作](https://36kr.com/newsflashes/3870941780988937?f=rss)
   - [SpaceX将于7月7日纳入纳斯达克100指数](https://36kr.com/newsflashes/3870812987954181?f=rss)
+  - [WPS回应C盘占用问题：将上线磁盘存储管理功能](https://36kr.com/newsflashes/3871099029771265?f=rss)
+  - [今年以来算力相关产品加速出海，有武汉企业800G以上光模块出口同比增长超过100倍](https://36kr.com/newsflashes/3871102147908867?f=rss)
+  - [今年港股首发募资前十大IPO名单中，A+H企业独占8席](https://36kr.com/newsflashes/3871124521620485?f=rss)
   - [国家统计局：1—5月份全国规模以上工业企业利润增长18.8%](https://36kr.com/newsflashes/3870818137969925?f=rss)
   - [国家统计局：1—5月份有色金属冶炼和压延加工业利润同比增长117.1%](https://36kr.com/newsflashes/3870817530909954?f=rss)
   - [国家统计局：1—5月份电子行业利润同比增长103.9%](https://36kr.com/newsflashes/3870821042312192?f=rss)
   - [国家统计局：1—5月份规模以上工业企业实现营业收入56.55万亿元，同比增长5.5%](https://36kr.com/newsflashes/3870818873775366?f=rss)
   - [国家统计局：1—5月采矿业实现利润总额4795.2亿元，同比增长33.5%](https://36kr.com/newsflashes/3870819336131848?f=rss)
   - [国际油价26日显著下跌](https://36kr.com/newsflashes/3870760450528512?f=rss)
+  - [外媒：苹果寻求获准从长鑫存储购买内存芯片](https://36kr.com/newsflashes/3871131045876995?f=rss)
   - [我国核聚变堆超导磁体研发取得重要突破](https://36kr.com/newsflashes/3870820130018562?f=rss)
+  - [楼市复苏信号？多城核心地块高溢价成交：房企扎堆抢夺，持续刷新当地纪录](https://36kr.com/newsflashes/3871120057848837?f=rss)
   - [理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底](https://36kr.com/p/3866946087867394?f=rss)
+  - [电影《四渡》总票房破5000万](https://36kr.com/newsflashes/3871115919070210?f=rss)
+  - [秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完](https://36kr.com/p/3871109381035011?f=rss)
   - [网传纯净水涨价，娃哈哈回应](https://36kr.com/newsflashes/3870947210187783?f=rss)
+  - [美国监管部门关闭针对特斯拉Model 3及Model Y转向失控调查](https://36kr.com/newsflashes/3871127099315202?f=rss)
   - [美联储官员卡什卡里称出现广泛通胀迹象，美联储或需加息](https://36kr.com/newsflashes/3870761159152903?f=rss)
   - [美股三大指数收盘集体下跌，大型科技股涨跌不一](https://36kr.com/newsflashes/3870759042028806?f=rss)
   - [追赶FSD V14，理想在补哪些课？｜最前线](https://36kr.com/p/3870292939658242?f=rss)
+  - [马克·古尔曼：触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max](https://36kr.com/newsflashes/3871135669048322?f=rss)
+  - [马斯克获FTC批准收购前SpaceX工程师创立的光模块初创公司Mesh](https://36kr.com/newsflashes/3871125571802116?f=rss)
+  - [高通计划将数据中心芯片技术引入智能手机，提升端侧AI能力](https://36kr.com/newsflashes/3871117388174336?f=rss)
 - Ars Technica
   - [Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?](https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/)
 - Cybersecurity News
@@ -88,6 +99,7 @@
   - [pocsmith exploit](https://sploitus.com/exploit?id=F6F142F3-3C4F-57A3-A265-A7DF88A31A6B&utm_source=rss&utm_medium=rss)
   - [readme-templates exploit](https://sploitus.com/exploit?id=6196E298-0340-5264-B5F8-6E5858DBE114&utm_source=rss&utm_medium=rss)
   - [sentinel exploit](https://sploitus.com/exploit?id=197F5F1A-4022-5470-BA29-351D92AC0901&utm_source=rss&utm_medium=rss)
+  - [xss-vulnerability-scanner exploit](https://sploitus.com/exploit?id=73764E05-FE56-54D5-88DB-FC538242C5EB&utm_source=rss&utm_medium=rss)
 - SumSec's Blog
   - [从手改 Skill 到自动进化：评测结果和执行轨迹如何让 Agent 变稳](https://sumsec.me/2026/skill-evolution-results-trace.html)
 - TechCrunch
@@ -104,6 +116,7 @@
   - [Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/)
 - The Decoder
   - [An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run](https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/)
+  - [ByteDance's "iLLaDA" is a diffusion language model that keeps up with Qwen2.5](https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/)
   - [OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable](https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/)
 - The Verge
   - [24 Prime Day deals Verge readers are grabbing before Prime Day ends](https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers)
@@ -135,7 +148,10 @@
   - [CVE-2025-68064 | Everthemess Goya Core Plugin prior 1.0.9.4 on WordPress filename control](https://vuldb.com/vuln/374186)
   - [CVE-2025-68074 | GhozyLab Image Carousel Plugin up to 1.0.0.41 on WordPress cross site scripting](https://vuldb.com/vuln/374190)
   - [CVE-2025-68075 | Kerry BNE Testimonials Plugin up to 2.0.8 on WordPress cross site scripting](https://vuldb.com/vuln/374191)
+  - [CVE-2026-10820 | Paid Membership Plugin, Ecommerce, User Registration Form, Login Form, User Profile & Restrict Content Plugin authorization](https://vuldb.com/vuln/374456)
   - [CVE-2026-11779 | PayloadCMS 3.84.1 excessive authentication](https://vuldb.com/vuln/374284)
+  - [CVE-2026-12404 | webaways NEX-Forms Plugin up to 9.2.2 on WordPress authorization](https://vuldb.com/vuln/374457)
+  - [CVE-2026-13245 | maxfoundry MaxButtons Plugin up to 9.8.5 on WordPress view cross site scripting](https://vuldb.com/vuln/374458)
   - [CVE-2026-13372 | Devolutions Remote Desktop Manager up to 2026.2.10 Powershell Script name resolution (DEVO-2026-0021)](https://vuldb.com/vuln/374340)
   - [CVE-2026-24547 | SiteGround Email Marketing Plugin up to 1.7.5 on WordPress authorization](https://vuldb.com/vuln/374173)
   - [CVE-2026-29509 | wummel patool up to 4.0.4 Archive py_tarfile.py safe_extract path traversal](https://vuldb.com/vuln/374400)
@@ -287,6 +303,7 @@
   - [CVE-2026-57664 | Villame Bopo Plugin up to 1.1.6 on WordPress information expsure](https://vuldb.com/vuln/374319)
   - [CVE-2026-57665 | GravityKit GravityView Plugin up to 3.0.0 on WordPress authorization](https://vuldb.com/vuln/374320)
   - [CVE-2026-57667 | Adrian Tobey Groundhogg Plugin up to 4.5 on WordPress sql injection](https://vuldb.com/vuln/374321)
+  - [CVE-2026-9677 | Shariff for WordPress Plugin up to 1.0.11 on WordPress Setting generateshariff shariff_infourl cross site scripting](https://vuldb.com/vuln/374459)
   - [CVE-2026-9699 | Mattermost Plugins up to 11.6.x OpenAI API mattermost.log log file](https://vuldb.com/vuln/374318)
 - Vulners.com RSS Feed
   - [AliAlFarras](https://vulners.com/githubexploit/265B6264-FAC9-532F-98AB-1AF1890074E6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -500,6 +517,7 @@
   - [CVE-2026-54753](https://vulners.com/nvd/NVD:CVE-2026-54753?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54753 Nx: `nx graph` dev server permissive CORS policy](https://vulners.com/cve/CVE-2026-54753?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54753 Nx: `nx graph` dev server permissive CORS policy](https://vulners.com/cvelist/CVELIST:CVE-2026-54753?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54835](https://vulners.com/circl/CIRCL:CVE-2026-54835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54896 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-54896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54900 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-54900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54901 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-54901?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -526,6 +544,7 @@
   - [CVE-2026-57914](https://vulners.com/redhatcve/RH:CVE-2026-57914?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9639](https://vulners.com/nvd/NVD:CVE-2026-9639?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9640](https://vulners.com/nvd/NVD:CVE-2026-9640?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9677](https://vulners.com/circl/CIRCL:CVE-2026-9677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9677](https://vulners.com/nvd/NVD:CVE-2026-9677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9677 Shariff for WordPress <= 1.0.11 - Admin+ Stored Cross-Site Scripting](https://vulners.com/cve/CVE-2026-9677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9677 Shariff for WordPress <= 1.0.11 - Admin+ Stored Cross-Site Scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-9677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -556,6 +575,7 @@
   - [GHSA-QRV3-253H-G69C](https://vulners.com/circl/CIRCL:GHSA-QRV3-253H-G69C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-R2JR-M2RH-F5HG vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-R2JR-M2RH-F5HG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-R2JR-M2RH-F5HG vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-R2JR-M2RH-F5HG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-V23M-CCFG-PQ9H](https://vulners.com/circl/CIRCL:GHSA-V23M-CCFG-PQ9H?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-VWM4-62GF-X745 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-VWM4-62GF-X745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-W6C6-C85G-MMV6 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-W6C6-C85G-MMV6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-W6C6-C85G-MMV6 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-W6C6-C85G-MMV6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -582,6 +602,7 @@
   - [sentinel](https://vulners.com/githubexploit/197F5F1A-4022-5470-BA29-351D92AC0901?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Statamic CMS's incorrect authorization lets view-only users submit Live Preview content reserved for editors](https://vulners.com/github/GHSA-7MQQ-4V55-88GH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Subsonic API: any authenticated user can delete or read any other user's playlist (IDOR)](https://vulners.com/github/GHSA-HMGP-W9JM-VP95?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [xss-vulnerability-scanner](https://vulners.com/githubexploit/73764E05-FE56-54D5-88DB-FC538242C5EB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: Notes From The Bubble, Volume 1](https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/)
 - Wired
@@ -605,3 +626,5 @@
   - [不同数据库被”拖库”特征-托管vs自建+是/否开启审计日志取证实测](https://zgao.top/%e4%b8%8d%e5%90%8c%e6%95%b0%e6%8d%ae%e5%ba%93%e8%a2%ab%e6%8b%96%e5%ba%93%e7%89%b9%e5%be%81-%e6%89%98%e7%ae%a1vs%e8%87%aa%e5%bb%ba%e6%98%af-%e5%90%a6%e5%bc%80%e5%90%af%e5%ae%a1%e8%ae%a1%e6%97%a5/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了](https://www.ifanr.com/1670225?utm_source=rss&utm_medium=rss&utm_campaign=)
