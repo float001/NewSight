@@ -3,8 +3,10 @@
 - aresluna.org
   - [The curious case of the disappearing Polish S](https://aresluna.org/the-curious-case-of-the-disappearing-polish-s)
 - daringfireball.net
+  - [Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022](https://www.warner.senate.gov/newsroom/press-releases/warner-rubio-urge-dni-to-review-risk-chinese-chipmaker-ymtc-presents-to-national-security/)
   - [FT Reports That Apple Is Lobbying to Buy Memory Chips From Blacklisted Chinese Company CXMT](https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb)
   - [Grok Is a Generative Porno App](https://www.theinformation.com/articles/xai-bets-groks-racy-side?rc=jfy0lk)
+  - [Microsoft Raises Xbox Prices, Drops High-End Storage Model From Lineup](https://news.xbox.com/en-us/2026/06/25/xbox-console-price-update/)
   - [OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models](https://openai.com/index/previewing-gpt-5-6-sol/)
   - [The Steam Machine](https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE&utm_medium=gift-link)
   - [White House Grants Access to Anthropic’s Mythos Model to 100+ U.S. Institutions; Fable Still Shut Down](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
