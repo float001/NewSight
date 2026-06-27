@@ -2,6 +2,7 @@
 
 - 2Libra
   - [3 个 Claude 账号都同时失灵了，难道真的是传说中的那个问题？](https://2libra.com/post/ai-tools/q-rGPqx)
+  - [Apple 本次涨价持续打击金融市场积极性，甚至被归咎于周五股市大跌的原因](https://2libra.com/post/tech-news/nzjFpeM)
   - [GPT5.6“限量预览”版发布，奥特曼也被制裁了](https://2libra.com/post/large-models/2vneIiv)
   - [【PK】假如海床下 100 米有一块巨大空间，里面藏有很多人类文明稀缺的宝藏，但也伴随着许多危险动物，以现有科技，](https://2libra.com/post/idea/rzeTc14)
   - [可特么算拿到这个徽章了!!!!](https://2libra.com/post/forum-function/V27thk1)
@@ -39,6 +40,8 @@
   - [★ Om](https://daringfireball.net/2026/06/om)
 - darkreading
   - [AI Decline? Confidence in Autonomous Penetration Testing Falls](https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing)
+- defend.network
+  - [Signal backup keys targeted; Linux kernel RCE; AWS Q credential theft](https://defend.network/briefings/signal-phishing-linux-kernel-aws-credential-theft-2026-06-27.html)
 - Emergent Minds | paddo.dev
   - [We Stopped Calling It Ralph Wiggum](https://paddo.dev/blog/loop-engineering-rename-and-invoice/)
 - filfre.net
@@ -60,9 +63,12 @@
   - [Best Legal OSINT Tools 2026: Research Safely Without Crossing Privacy Lines](https://kalilinuxtutorials.com/best-legal-osint-tools-2026/)
   - [Best OSINT Tools for Cybersecurity Teams 2026: Threat Intel and Exposure Checks](https://kalilinuxtutorials.com/best-osint-tools-for-cybersecurity-teams-2026/)
   - [Install PHP on Ubuntu: Complete Setup Guide for Apache & Nginx](https://kalilinuxtutorials.com/install-php-ubuntu-apache-nginx/)
+  - [Install Redis on Ubuntu: Configuration and Remote Access](https://kalilinuxtutorials.com/install-redis-on-ubuntu/)
   - [Install Skype on Ubuntu: Two Methods That Actually Work](https://kalilinuxtutorials.com/install-skype-on-ubuntu/)
 - Linux Foundation Blogs
   - [Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence](https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence)
+- MaskRay
+  - [A deep dive into SmallVector::push_back](https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back)
 - simonwillison.net
   - [Incident Report: CVE-2026-LGTM](https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything)
   - [Quoting Dean W. Ball](https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything)
@@ -330,6 +336,7 @@
   - [CVE-2025-59868 HCL Traveler for Microsoft Outlook (HTMO) is susceptible to sensitive data exposure](https://vulners.com/cvelist/CVELIST:CVE-2025-59868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-0685](https://vulners.com/nvd/NVD:CVE-2026-0685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-0828](https://vulners.com/nvd/NVD:CVE-2026-0828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10820](https://vulners.com/nvd/NVD:CVE-2026-10820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10820 ProfilePress < 4.16.17 - Subscriber+ Subscription Cancellation via IDOR](https://vulners.com/cve/CVE-2026-10820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10820 ProfilePress < 4.16.17 - Subscriber+ Subscription Cancellation via IDOR](https://vulners.com/cvelist/CVELIST:CVE-2026-10820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11356](https://vulners.com/nvd/NVD:CVE-2026-11356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -338,6 +345,7 @@
   - [CVE-2026-11779](https://vulners.com/nvd/NVD:CVE-2026-11779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11779 PayloadCMS 3.84.1 - Authenticated account lockout bypass through default unlock access](https://vulners.com/cve/CVE-2026-11779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11779 PayloadCMS 3.84.1 - Authenticated account lockout bypass through default unlock access](https://vulners.com/cvelist/CVELIST:CVE-2026-11779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12404](https://vulners.com/nvd/NVD:CVE-2026-12404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12404 NEX-Forms <= 9.2.2 - Missing Authorization to Unauthenticated Sensitive Information Disclosure via CSVExport Class](https://vulners.com/cve/CVE-2026-12404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12404 NEX-Forms <= 9.2.2 - Missing Authorization to Unauthenticated Sensitive Information Disclosure via CSVExport Class](https://vulners.com/cvelist/CVELIST:CVE-2026-12404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12411](https://vulners.com/nvd/NVD:CVE-2026-12411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -352,6 +360,7 @@
   - [CVE-2026-13037 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-13037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13136](https://vulners.com/circl/CIRCL:CVE-2026-13136?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13136](https://vulners.com/cve/CVE-2026-13136?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13245](https://vulners.com/nvd/NVD:CVE-2026-13245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13245 MaxButtons <= 9.8.5 - Reflected Cross-Site Scripting via 'view' Parameter](https://vulners.com/cve/CVE-2026-13245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13245 MaxButtons <= 9.8.5 - Reflected Cross-Site Scripting via 'view' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-13245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13331](https://vulners.com/nvd/NVD:CVE-2026-13331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -517,6 +526,7 @@
   - [CVE-2026-57914](https://vulners.com/redhatcve/RH:CVE-2026-57914?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9639](https://vulners.com/nvd/NVD:CVE-2026-9639?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9640](https://vulners.com/nvd/NVD:CVE-2026-9640?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9677](https://vulners.com/nvd/NVD:CVE-2026-9677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9677 Shariff for WordPress <= 1.0.11 - Admin+ Stored Cross-Site Scripting](https://vulners.com/cve/CVE-2026-9677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9677 Shariff for WordPress <= 1.0.11 - Admin+ Stored Cross-Site Scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-9677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Splunk](https://vulners.com/githubexploit/030DAD67-A828-5EBE-BC28-DC3BB6C406CE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
