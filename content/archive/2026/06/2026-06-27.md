@@ -45,6 +45,7 @@
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/)
 - Hacker News Frontpage
   - [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
+  - [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
   - [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
   - [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm)
   - [The National Parks Were Reportedly Told to Stay Silent on Deaths](https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook)
@@ -58,6 +59,8 @@
 - Kali Linux Tutorials
   - [Best Legal OSINT Tools 2026: Research Safely Without Crossing Privacy Lines](https://kalilinuxtutorials.com/best-legal-osint-tools-2026/)
   - [Best OSINT Tools for Cybersecurity Teams 2026: Threat Intel and Exposure Checks](https://kalilinuxtutorials.com/best-osint-tools-for-cybersecurity-teams-2026/)
+  - [Install PHP on Ubuntu: Complete Setup Guide for Apache & Nginx](https://kalilinuxtutorials.com/install-php-ubuntu-apache-nginx/)
+  - [Install Skype on Ubuntu: Two Methods That Actually Work](https://kalilinuxtutorials.com/install-skype-on-ubuntu/)
 - Linux Foundation Blogs
   - [Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence](https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence)
 - simonwillison.net
@@ -327,13 +330,18 @@
   - [CVE-2025-59868 HCL Traveler for Microsoft Outlook (HTMO) is susceptible to sensitive data exposure](https://vulners.com/cvelist/CVELIST:CVE-2025-59868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-0685](https://vulners.com/nvd/NVD:CVE-2026-0685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-0828](https://vulners.com/nvd/NVD:CVE-2026-0828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10820 ProfilePress < 4.16.17 - Subscriber+ Subscription Cancellation via IDOR](https://vulners.com/cve/CVE-2026-10820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10820 ProfilePress < 4.16.17 - Subscriber+ Subscription Cancellation via IDOR](https://vulners.com/cvelist/CVELIST:CVE-2026-10820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11356](https://vulners.com/nvd/NVD:CVE-2026-11356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11356 Ivory Search <= 5.5.15 - Authenticated (Administrator+) Stored Cross-Site Scripting via 'menu_title' and 'menu_magnifier_color' Settings](https://vulners.com/cve/CVE-2026-11356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11356 Ivory Search <= 5.5.15 - Authenticated (Administrator+) Stored Cross-Site Scripting via 'menu_title' and 'menu_magnifier_color' Settings](https://vulners.com/cvelist/CVELIST:CVE-2026-11356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11779](https://vulners.com/nvd/NVD:CVE-2026-11779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11779 PayloadCMS 3.84.1 - Authenticated account lockout bypass through default unlock access](https://vulners.com/cve/CVE-2026-11779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11779 PayloadCMS 3.84.1 - Authenticated account lockout bypass through default unlock access](https://vulners.com/cvelist/CVELIST:CVE-2026-11779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12404 NEX-Forms <= 9.2.2 - Missing Authorization to Unauthenticated Sensitive Information Disclosure via CSVExport Class](https://vulners.com/cve/CVE-2026-12404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12404 NEX-Forms <= 9.2.2 - Missing Authorization to Unauthenticated Sensitive Information Disclosure via CSVExport Class](https://vulners.com/cvelist/CVELIST:CVE-2026-12404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12411](https://vulners.com/nvd/NVD:CVE-2026-12411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12415](https://vulners.com/nvd/NVD:CVE-2026-12415?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12415 Invoice Generator <= 1.0.0 - Unauthenticated Privilege Escalation via Account Takeover via 'user_id' Parameter](https://vulners.com/cve/CVE-2026-12415?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12415 Invoice Generator <= 1.0.0 - Unauthenticated Privilege Escalation via Account Takeover via 'user_id' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-12415?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13032 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-13032?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -344,6 +352,8 @@
   - [CVE-2026-13037 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-13037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13136](https://vulners.com/circl/CIRCL:CVE-2026-13136?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13136](https://vulners.com/cve/CVE-2026-13136?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13245 MaxButtons <= 9.8.5 - Reflected Cross-Site Scripting via 'view' Parameter](https://vulners.com/cve/CVE-2026-13245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13245 MaxButtons <= 9.8.5 - Reflected Cross-Site Scripting via 'view' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-13245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13331](https://vulners.com/nvd/NVD:CVE-2026-13331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13331 Groundhogg <= 4.5.5 - Authenticated (Marketer+) SQL Injection via 'search' Parameter](https://vulners.com/cve/CVE-2026-13331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13331 Groundhogg <= 4.5.5 - Authenticated (Marketer+) SQL Injection via 'search' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-13331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -507,6 +517,8 @@
   - [CVE-2026-57914](https://vulners.com/redhatcve/RH:CVE-2026-57914?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9639](https://vulners.com/nvd/NVD:CVE-2026-9639?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9640](https://vulners.com/nvd/NVD:CVE-2026-9640?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9677 Shariff for WordPress <= 1.0.11 - Admin+ Stored Cross-Site Scripting](https://vulners.com/cve/CVE-2026-9677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9677 Shariff for WordPress <= 1.0.11 - Admin+ Stored Cross-Site Scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-9677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Splunk](https://vulners.com/githubexploit/030DAD67-A828-5EBE-BC28-DC3BB6C406CE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce](https://vulners.com/githubexploit/449EB399-8D3C-5528-B03B-B58DC4645B9D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Microsoft](https://vulners.com/githubexploit/B351E803-26D7-5CFC-8727-D423591F86F5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -579,5 +591,7 @@
   - [The Prime Day MacBook Deals I Recommend (2026)](https://www.wired.com/story/best-prime-day-macbook-deals-06-26-2026/)
   - [Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations](https://www.wired.com/story/anthropic-restores-access-to-mythos/)
   - [Universal Is Skipping Influencer Screenings for ‘The Odyssey.’ Film Critics Are Thrilled](https://www.wired.com/story/film-critics-thrilled-universal-is-skipping-influencer-screenings-for-the-odyssey/)
+- Zgao's blog
+  - [不同数据库被”拖库”特征-托管vs自建+是/否开启审计日志取证实测](https://zgao.top/%e4%b8%8d%e5%90%8c%e6%95%b0%e6%8d%ae%e5%ba%93%e8%a2%ab%e6%8b%96%e5%ba%93%e7%89%b9%e5%be%81-%e6%89%98%e7%ae%a1vs%e8%87%aa%e5%bb%ba%e6%98%af-%e5%90%a6%e5%bc%80%e5%90%af%e5%ae%a1%e8%ae%a1%e6%97%a5/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
