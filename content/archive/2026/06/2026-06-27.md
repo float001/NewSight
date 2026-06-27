@@ -6,6 +6,7 @@
   - [GPT5.6“限量预览”版发布，奥特曼也被制裁了](https://2libra.com/post/large-models/2vneIiv)
   - [【PK】假如海床下 100 米有一块巨大空间，里面藏有很多人类文明稀缺的宝藏，但也伴随着许多危险动物，以现有科技，](https://2libra.com/post/idea/rzeTc14)
   - [【💰】今天又中了 83 金币 分享给大家](https://2libra.com/post/forum-function/NoiZwIY)
+  - [书签最新版来了，全站弹窗风格统一，用户体验一致](https://2libra.com/post/tools-sharing/qBs3wvz)
   - [可特么算拿到这个徽章了!!!!](https://2libra.com/post/forum-function/V27thk1)
   - [每到周末，公路就自动变成竞速模式](https://2libra.com/post/social-observation/v6xbF3f)
   - [潘多拉的随机性是否是伪随机](https://2libra.com/post/forum-function/4Yiyj4U)
@@ -26,6 +27,7 @@
   - [兴业银行：上调代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例](https://36kr.com/newsflashes/3871212925588739?f=rss)
   - [具身世界模型“我悟”通过合规备案](https://36kr.com/newsflashes/3871213411128577?f=rss)
   - [功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”](https://36kr.com/newsflashes/3871215128237313?f=rss)
+  - [华为途灵平台完成3轮升级，覆盖鸿蒙智行五界](https://36kr.com/newsflashes/3871321432527875?f=rss)
   - [因利润腰斩，梅赛德斯-奔驰推迟9万名德国员工奖金并谋求无薪延长工时](https://36kr.com/newsflashes/3871212322706690?f=rss)
   - [国家统计局：1—5月份全国规模以上工业企业利润增长18.8%](https://36kr.com/newsflashes/3870818137969925?f=rss)
   - [国家统计局：1—5月份有色金属冶炼和压延加工业利润同比增长117.1%](https://36kr.com/newsflashes/3870817530909954?f=rss)
@@ -51,6 +53,8 @@
   - [高通计划将数据中心芯片技术引入智能手机，提升端侧AI能力](https://36kr.com/newsflashes/3871117388174336?f=rss)
 - Ars Technica
   - [Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?](https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/)
+- construction-physics.com
+  - [Reading List 06/27/26](https://www.construction-physics.com/p/reading-list-062726)
 - Cybersecurity News
   - [Mistic Backdoor Linked to Ransomware Access Broker](https://securityonline.info/mistic-backdoor-malware/)
   - [US Offers $10 Million Reward for Russian Hacker Group UNC5792](https://securityonline.info/rewards-for-justice-unc5792/)
@@ -92,6 +96,10 @@
   - [Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence](https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence)
 - MaskRay
   - [A deep dive into SmallVector::push_back](https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back)
+- pluralistic.net
+  - [Pluralistic: Zuckerberg's increasingly bizarre war on whistleblowers (27 Jun 2026)](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)
+- Sebastian Raschka
+  - [Using Local Coding Agents](https://magazine.sebastianraschka.com/p/using-local-coding-agents)
 - simonwillison.net
   - [Incident Report: CVE-2026-LGTM](https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything)
   - [Quoting Dean W. Ball](https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything)
@@ -117,6 +125,7 @@
 - SumSec's Blog
   - [从手改 Skill 到自动进化：评测结果和执行轨迹如何让 Agent 变稳](https://sumsec.me/2026/skill-evolution-results-trace.html)
 - TechCrunch
+  - [Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
   - [Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product](https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/)
   - [FTC gives Musk the OK to acquire SpaceX alumni startup Mesh](https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/)
   - [It’s not about Anthropic vs. OpenAI anymore](https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/)
@@ -149,6 +158,8 @@
   - [The 17 best robot vacuum deals you can still get before Prime Day ends](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)
   - [The World Cup puts the US’s nightmarish immigration policies front and center](https://www.theverge.com/report/957948/world-cup-us-visa-policies-trump)
   - [These are the best deals you can still get on MacBooks before Apple&#8217;s price hike kicks in](https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes)
+  - [This might be the new best smart speaker](https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer)
+  - [This puzzle game&#8217;s simple premise hides surprising depth](https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android)
   - [This video bird feeder is the surprise hit of Prime Day](https://www.theverge.com/gadgets/957791/birdbuddy-pro-solar-prime-day-deal-sale)
   - [You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike](https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes)
 - VulDB Recent Entries
