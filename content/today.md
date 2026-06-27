@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-06-28）
 
+- aresluna.org
+  - [The curious case of the disappearing Polish S](https://aresluna.org/the-curious-case-of-the-disappearing-polish-s)
 - daringfireball.net
   - [FT Reports That Apple Is Lobbying to Buy Memory Chips From Blacklisted Chinese Company CXMT](https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb)
   - [Grok Is a Generative Porno App](https://www.theinformation.com/articles/xai-bets-groks-racy-side?rc=jfy0lk)
@@ -7,10 +9,14 @@
   - [The Steam Machine](https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE&utm_medium=gift-link)
   - [White House Grants Access to Anthropic’s Mythos Model to 100+ U.S. Institutions; Fable Still Shut Down](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
 - Hacker News Frontpage
+  - ['Careless People' author claims Meta surveilled her for 12mos to enforce silence](https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/)
   - [A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center Meeting](https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting)
   - [Doctors suspected man had brain cancer. He had worms](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/)
+  - [GLP-1 drugs led to weight loss and reversed depression-like behavior in mice](https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis)
   - [IP Crawl: living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
+  - [Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)
   - [Ships keep moving through Hormuz despite strike](https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy)
+  - [Should European housing politics be Americanized?](https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/)
   - [Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](https://github.com/kageroumado/adrafinil)
 - johndcook.com
   - [When will the decimals in a/b repeat?](https://www.johndcook.com/blog/2026/06/27/decimal-period/)
@@ -20,10 +26,12 @@
   - [vulnerability-prioritization-board exploit](https://sploitus.com/exploit?id=F7EF29E5-004F-5EF3-8E94-687EAFF937A4&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)
+  - [Instagram is testing more ways to customize ‘Your Algorithm’](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/)
   - [SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/)
 - The Verge
   - [Apple wants permission to buy memory from a blacklisted Chinese supplier](https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt)
   - [Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out)
+  - [Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler](https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler)
 - VulDB Recent Entries
   - [CVE-2026-13490 | glpi-project glpi 11.0.5/11.0.6/11.0.7 Document front/document.send.php Document::canViewFile docid authorization](https://vuldb.com/vuln/374487)
   - [CVE-2026-13491 | 78 xiaozhi-esp32 up to 2.2.6 MQTT Goodbye mqtt_protocol.cc Application::GetInstance session_id denial of service (Issue 2022)](https://vuldb.com/vuln/374488)
