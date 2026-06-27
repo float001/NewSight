@@ -2,14 +2,26 @@
 
 - Hacker News Frontpage
   - [Doctors suspected man had brain cancer. He had worms](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/)
+- johndcook.com
+  - [When will the decimals in a/b repeat?](https://www.johndcook.com/blog/2026/06/27/decimal-period/)
 - TechCrunch
   - [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)
 - The Verge
   - [Apple wants permission to buy memory from a blacklisted Chinese supplier](https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt)
+  - [Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out)
 - VulDB Recent Entries
   - [CVE-2026-13490 | glpi-project glpi 11.0.5/11.0.6/11.0.7 Document front/document.send.php Document::canViewFile docid authorization](https://vuldb.com/vuln/374487)
   - [CVE-2026-13491 | 78 xiaozhi-esp32 up to 2.2.6 MQTT Goodbye mqtt_protocol.cc Application::GetInstance session_id denial of service (Issue 2022)](https://vuldb.com/vuln/374488)
   - [CVE-2026-13493 | AIDC-AI ComfyUI-Copilot up to 2.0.28 Workflow Checkpoint Restore conversation_api.py resource injection (Issue 149)](https://vuldb.com/vuln/374489)
+  - [CVE-2026-13495 | itsourcecode Hospital Management System 1.0 /adminprofile.php loginid sql injection](https://vuldb.com/vuln/374490)
+  - [CVE-2026-13496 | itsourcecode Hospital Management System 1.0 /ajaxmedicine.php medicineid sql injection](https://vuldb.com/vuln/374491)
+  - [CVE-2026-13497 | itsourcecode Hospital Management System 1.0 /appointment.php editid sql injection](https://vuldb.com/vuln/374492)
+  - [CVE-2026-13498 | yashpokharna2555 restaurent-management-system POST Parameter /forgotpassword.php email sql injection](https://vuldb.com/vuln/374493)
+  - [CVE-2026-13499 | yashpokharna2555 restaurent-management-system Registration login_register.php Username cross site scripting](https://vuldb.com/vuln/374494)
+  - [CVE-2026-13500 | antlr ANTLR4 up to 4.13.2 Grammar Action Block OutputFile.java code injection](https://vuldb.com/vuln/374495)
+  - [CVE-2026-13501 | antlr ANTLR4 up to 4.13.2 gofmt GoTarget.java GoTarget command injection](https://vuldb.com/vuln/374496)
+  - [CVE-2026-13502 | antlr ANTLR4 up to 4.13.2 Maven Plugin GrammarDependencies.java ObjectInputStream.readObject toctou](https://vuldb.com/vuln/374498)
+  - [CVE-2026-13503 | antlr ANTLR4 up to 4.13.2 tokenVocab Grammar Option TokenVocabParser.java getImportedVocabFile path traversal](https://vuldb.com/vuln/374497)
 - Vulners.com RSS Feed
   - [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://vulners.com/thn/THN:CDD3A23529C8E6D87AC4971D6F738D25?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Updated krb5 packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0233?utm_source=rss&utm_medium=rss&utm_campaign=rss)
