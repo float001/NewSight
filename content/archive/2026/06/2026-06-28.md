@@ -3,6 +3,7 @@
 - 2Libra
   - [【💰】今天又中了 199 分享给大家](https://2libra.com/post/sharing-discoveries/WcXpisE)
   - [今日最佳 头像反转 还是那个会整活的吉米](https://2libra.com/post/excessive-things/EOiDfoR)
+  - [导航网站增加收录功能，留下网址，可以自动申请收录](https://2libra.com/post/sharing-discoveries/v5wD4P2)
   - [惊讶 韩国队世界杯惨遭淘汰](https://2libra.com/post/social-observation/-nZe8eN)
   - [真正 免费邮箱，无任何利益需求](https://2libra.com/post/promotion/W48ddB9)
   - [负收入，求安慰](https://2libra.com/post/personal-life/paw6S0P)
@@ -120,6 +121,7 @@
   - [Indian payments chief thinks AI will be heavily involved in next era of digital payment growth](https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/)
   - [Instagram is testing more ways to customize ‘Your Algorithm’](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/)
   - [SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/)
+  - [Why Wall Street thinks US memory maker Micron is the next Nvidia](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/)
 - The Decoder
   - [AI won't become a real coworker until it stops answering and starts finishing tasks](https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/)
   - [Chinese cybersecurity firm builds AI tools to rival Mythos and frames the race as cyber-nuclear deterrence](https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/)
@@ -129,6 +131,7 @@
 - The Verge
   - [Apple wants permission to buy memory from a blacklisted Chinese supplier](https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt)
   - [Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out)
+  - [Prosecutors used ChatGPT logs as evidence in the Palisades fire trial](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial)
   - [Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler](https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler)
   - [TMD’s keyless bike lock is a $280 solution to a $60 problem](https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review)
 - VulDB Recent Entries
@@ -229,8 +232,12 @@
   - [CVE-2026-13496 itsourcecode Hospital Management System ajaxmedicine.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-13496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13497](https://vulners.com/nvd/NVD:CVE-2026-13497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13498](https://vulners.com/nvd/NVD:CVE-2026-13498?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13499](https://vulners.com/nvd/NVD:CVE-2026-13499?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13499 yashpokharna2555 restaurent-management-system Registration login_register.php cross site scripting](https://vulners.com/cve/CVE-2026-13499?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13499 yashpokharna2555 restaurent-management-system Registration login_register.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-13499?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13500](https://vulners.com/attackerkb/AKB:CDF6283D-D98F-4CC7-ADBE-A36B7C86227C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13500 antlr ANTLR4 Grammar Action Block OutputFile.java code injection](https://vulners.com/cve/CVE-2026-13500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13500 antlr ANTLR4 Grammar Action Block OutputFile.java code injection](https://vulners.com/cvelist/CVELIST:CVE-2026-13500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46604 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-46604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46604 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-46604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48496 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-48496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -270,6 +277,7 @@
   - [IITR_Capstone_RedScope_Project](https://vulners.com/githubexploit/4DB773AB-3515-56F0-A117-B6F5C0AA746F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [kleeja-auth-bypass-rce-cve](https://vulners.com/githubexploit/0F3EE27D-82BD-5360-995F-969C90DCAD0F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in ts-ankle (npm)](https://vulners.com/ossf/OSSF:MAL-2026-6548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Moderate: Red Hat Security Advisory: Red Hat Hardened Images RPMs Security Update](https://vulners.com/redhat/RHSA-2026:30647?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Nexploit](https://vulners.com/githubexploit/F6423E9A-0865-54FE-9EDB-D006725C3F77?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [redaxo-cms-multi-vuln-cve](https://vulners.com/githubexploit/B8AA8BC7-97C0-521A-B88C-499AA12B9DBA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Safeguard-Exploit-Vault](https://vulners.com/githubexploit/4A147D4B-6F2A-52CA-9C2F-F20FE406DEC5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
