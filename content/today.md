@@ -4,6 +4,7 @@
   - [【💰】今天又中了 199 分享给大家](https://2libra.com/post/sharing-discoveries/WcXpisE)
   - [今日最佳 头像反转 还是那个会整活的吉米](https://2libra.com/post/excessive-things/EOiDfoR)
   - [惊讶 韩国队世界杯惨遭淘汰](https://2libra.com/post/social-observation/-nZe8eN)
+  - [真正 免费邮箱，无任何利益需求](https://2libra.com/post/promotion/W48ddB9)
   - [负收入，求安慰](https://2libra.com/post/personal-life/paw6S0P)
 - 36氪
   - [《给阿嬷的情书》总票房已突破19亿元](https://36kr.com/newsflashes/3872220264879105?f=rss)
@@ -21,12 +22,16 @@
   - [央视曝手机测评作弊乱象](https://36kr.com/newsflashes/3872143344817158?f=rss)
   - [好利科技：筹划公司控制权变更事项 6月29日起停牌](https://36kr.com/newsflashes/3872561078637577?f=rss)
   - [富信科技：公司近期未新增通信领域重大客户 亦未获取新增大额订单](https://36kr.com/newsflashes/3872268617897217?f=rss)
+  - [悟空安全上线“弹必赔”，主打“0添加”安全软件](https://36kr.com/newsflashes/3872623912571910?f=rss)
   - [智元第15000台通用具身机器人正式量产下线](https://36kr.com/newsflashes/3872498969252864?f=rss)
   - [暑期机票预订量环比增长65%，航司优化航线提前布局](https://36kr.com/newsflashes/3872215366292738?f=rss)
   - [暑期档电影票房破15亿 80部影片集结暑期档](https://36kr.com/newsflashes/3872144382432257?f=rss)
   - [特斯拉Model S签名典藏版限量投放欧洲市场](https://36kr.com/newsflashes/3872325064938497?f=rss)
+  - [登云股份：参股公司采矿许可证到期及3000万元银行借款逾期](https://36kr.com/newsflashes/3872616564757513?f=rss)
+  - [立新能源：2026年公司新增风电装机规模250万千瓦](https://36kr.com/newsflashes/3872658132063236?f=rss)
   - [美国即将允许Anthropic恢复其最新大模型Fable 5访问权限](https://36kr.com/newsflashes/3872423038080004?f=rss)
   - [腾讯小范围内测TenPay Go，面向境外人士来华支付](https://36kr.com/newsflashes/3872322772980738?f=rss)
+  - [艾迪药业：收到政府补助款项共计910万元](https://36kr.com/newsflashes/3872609654560006?f=rss)
   - [蔚来ES8大五座版将于7月9日上市](https://36kr.com/newsflashes/3872283604276228?f=rss)
   - [谷歌对Meta Gemini模型的使用设限，因人工智能需求紧张导致算力吃紧](https://36kr.com/newsflashes/3872321240700160?f=rss)
   - [近一周120多只个股获机构调研，广生堂调研机构数最多](https://36kr.com/newsflashes/3872142280840197?f=rss)
@@ -35,11 +40,14 @@
   - [银河微电：拟收购恒泰柯100%股权 股票及可转债明起复牌](https://36kr.com/newsflashes/3872537881466120?f=rss)
   - [雅克科技：目前没有六氟化钨相关业务](https://36kr.com/newsflashes/3872534085031173?f=rss)
   - [韩国将于周一宣布三星、SK集团的多个大型项目](https://36kr.com/newsflashes/3872502773437701?f=rss)
+  - [飞龙股份：控股股东及其一致行动人拟减持公司不超1.8078%股份](https://36kr.com/newsflashes/3872614769202178?f=rss)
   - [黄河旋风：黄河集团所持公司8.82%股份被轮候冻结](https://36kr.com/newsflashes/3872541066515457?f=rss)
 - aresluna.org
   - [The curious case of the disappearing Polish S](https://aresluna.org/the-curious-case-of-the-disappearing-polish-s)
 - Cybersecurity News
+  - [Claude Mythos 5 Returns: US Government Lifts AI Ban](https://securityonline.info/claude-mythos-5-ai-ban-lifted/)
   - [CPython Tarfile Vulnerability Exposes Systems](https://securityonline.info/cpython-tarfile-vulnerability/)
+  - [GPT-5.6 Sol Model Launched Amid Strict Security Reviews](https://securityonline.info/gpt-5-6-sol-model-release/)
   - [libssh2 Vulnerability CVE-2026-58050 Gets Public PoC Exploit](https://securityonline.info/libssh2-vulnerability-cve-2026-58050/)
 - daringfireball.net
   - [Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022](https://www.warner.senate.gov/newsroom/press-releases/warner-rubio-urge-dni-to-review-risk-chinese-chipmaker-ymtc-presents-to-national-security/)
@@ -105,6 +113,7 @@
   - [Instagram is testing more ways to customize ‘Your Algorithm’](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/)
   - [SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/)
 - The Decoder
+  - [Chinese cybersecurity firm builds AI tools to rival Mythos and frames the race as cyber-nuclear deterrence](https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/)
   - [Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't](https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/)
 - The Verge
   - [Apple wants permission to buy memory from a blacklisted Chinese supplier](https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt)
@@ -140,6 +149,11 @@
   - [CVE-2026-13521 | SourceCodester Class and Exam Timetabling System 1.0/5.php /preview5.php course_year_section sql injection](https://vuldb.com/vuln/374529)
   - [CVE-2026-13522 | Investintech SlimPDFReader up to 2.0.14 PDF File SlimPDFReader.exe TeighaDo+0x25cde0 out-of-bounds](https://vuldb.com/vuln/374530)
   - [CVE-2026-13532 | itsourcecode Hospital Management System 1.0 /departmentDoctor.php deptid sql injection](https://vuldb.com/vuln/374540)
+  - [CVE-2026-13533 | agentejo Cockpit CMS up to 0.12.2 htaccess /config/config.yaml Spyc::YAMLLoad file access](https://vuldb.com/vuln/374541)
+  - [CVE-2026-13534 | CherryHQ cherry-studio up to 1.9.7 CherryIN Preload API MemoryService.ts sha256 state authorization (Issue 15411)](https://vuldb.com/vuln/374542)
+  - [CVE-2026-13535 | CodeAstro Human Resource Management System 1.0 View Endpoint Employee_model.php GetFileInfo ID sql injection](https://vuldb.com/vuln/374543)
+  - [CVE-2026-13536 | GotoHTTP up to 10.2 /reg.12x sn cross site scripting](https://vuldb.com/vuln/374544)
+  - [CVE-2026-13537 | CodeAstro Human Resource Management System 1.0 cross-site request forgery](https://vuldb.com/vuln/374545)
   - [CVE-2026-58049 | FFmpeg Media libavcodec/rasc.c out-of-bounds write](https://vuldb.com/vuln/374502)
   - [CVE-2026-58050 | libssh2 up to 1.11.1 SSH integer overflow](https://vuldb.com/vuln/374507)
   - [CVE-2026-58051 | libssh2 up to 1.11.1 SSH uninitialized resource](https://vuldb.com/vuln/374504)
@@ -166,8 +180,13 @@
   - [CVE-2026-13482 skypilot-org skypilot User ID server.py username.encode weak hash](https://vulners.com/cve/CVE-2026-13482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13482 skypilot-org skypilot User ID server.py username.encode weak hash](https://vulners.com/cvelist/CVELIST:CVE-2026-13482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13483](https://vulners.com/nvd/NVD:CVE-2026-13483?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13484](https://vulners.com/nvd/NVD:CVE-2026-13484?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13484 MLflow Experiment-scoped Label Schema CRUD API authorization](https://vulners.com/cve/CVE-2026-13484?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13484 MLflow Experiment-scoped Label Schema CRUD API authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-13484?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13485 SourceCodester Class and Exam Timetabling System preview.php sql injection](https://vulners.com/cve/CVE-2026-13485?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13485 SourceCodester Class and Exam Timetabling System preview.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-13485?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13486 SourceCodester Class and Exam Timetabling System preview6.php sql injection](https://vulners.com/cve/CVE-2026-13486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13486 SourceCodester Class and Exam Timetabling System preview6.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-13486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46604 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-46604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46604 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-46604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48496 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-48496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -221,6 +240,7 @@
 - Wired
   - [China Defies US Restrictions and Builds the World’s Fastest Supercomputer](https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/)
   - [The Ebike Accessories You Need to Help You Haul the Most Stuff](https://www.wired.com/story/how-to-trick-out-your-ebike/)
+  - [This Is the Most Detailed Image Yet of the Milky Way's Center](https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
