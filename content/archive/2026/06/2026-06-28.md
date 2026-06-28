@@ -6,6 +6,7 @@
   - [惊讶 韩国队世界杯惨遭淘汰](https://2libra.com/post/social-observation/-nZe8eN)
   - [真正 免费邮箱，无任何利益需求](https://2libra.com/post/promotion/W48ddB9)
   - [负收入，求安慰](https://2libra.com/post/personal-life/paw6S0P)
+  - [🏆 本周 2Libra 龙虎榜 : 2026-06-22 ~ 2026-06-28](https://2libra.com/post/forum-function/xnCzYOB)
 - 36氪
   - [《给阿嬷的情书》总票房已突破19亿元](https://36kr.com/newsflashes/3872220264879105?f=rss)
   - [一折买 Miu Miu，谁在做奢侈品牌的"拼多多"？｜商业Friday](https://36kr.com/p/3867976058803459?f=rss)
@@ -67,6 +68,7 @@
 - Hacker News Frontpage
   - ['Careless People' author claims Meta surveilled her for 12mos to enforce silence](https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/)
   - [A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center Meeting](https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting)
+  - [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847)
   - [America's Large Homebuilders Shift the Cost of Shoddy Construction to Buyers](https://hntrbrk.com/investigations/homebuilders)
   - [Doctors suspected man had brain cancer. He had worms](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/)
   - [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
@@ -116,7 +118,9 @@
   - [Instagram is testing more ways to customize ‘Your Algorithm’](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/)
   - [SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/)
 - The Decoder
+  - [AI won't become a real coworker until it stops answering and starts finishing tasks](https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/)
   - [Chinese cybersecurity firm builds AI tools to rival Mythos and frames the race as cyber-nuclear deterrence](https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/)
+  - [Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test](https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/)
   - [Only three AI models finished above starting capital in a 500-day startup survival test](https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/)
   - [Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't](https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/)
 - The Verge
@@ -207,9 +211,16 @@
   - [CVE-2026-13488](https://vulners.com/nvd/NVD:CVE-2026-13488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13488 SourceCodester Class and Exam Timetabling System preview7.php sql injection](https://vulners.com/cve/CVE-2026-13488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13488 SourceCodester Class and Exam Timetabling System preview7.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-13488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13489](https://vulners.com/nvd/NVD:CVE-2026-13489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13490](https://vulners.com/nvd/NVD:CVE-2026-13490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13491](https://vulners.com/attackerkb/AKB:B94F5A78-EB78-4FC9-AC52-5D6617E3FA02?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13491](https://vulners.com/nvd/NVD:CVE-2026-13491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13491 78 xiaozhi-esp32 MQTT Goodbye mqtt_protocol.cc GetInstance denial of service](https://vulners.com/cve/CVE-2026-13491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13491 78 xiaozhi-esp32 MQTT Goodbye mqtt_protocol.cc GetInstance denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-13491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13495 itsourcecode Hospital Management System adminprofile.php sql injection](https://vulners.com/cve/CVE-2026-13495?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13495 itsourcecode Hospital Management System adminprofile.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-13495?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13496 itsourcecode Hospital Management System ajaxmedicine.php sql injection](https://vulners.com/cve/CVE-2026-13496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13496 itsourcecode Hospital Management System ajaxmedicine.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-13496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46604 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-46604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46604 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-46604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48496 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-48496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -264,6 +275,7 @@
   - [China Defies US Restrictions and Builds the World’s Fastest Supercomputer](https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/)
   - [The Ebike Accessories You Need to Help You Haul the Most Stuff](https://www.wired.com/story/how-to-trick-out-your-ebike/)
   - [This Is the Most Detailed Image Yet of the Milky Way's Center](https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/)
+  - [What to Do in Houston If You're Here for Business (2026)](https://www.wired.com/story/the-wired-guide-to-houston-for-business-travelers/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
