@@ -8,6 +8,8 @@
 - 36氪
   - [《给阿嬷的情书》总票房已突破19亿元](https://36kr.com/newsflashes/3872220264879105?f=rss)
   - [一折买 Miu Miu，谁在做奢侈品牌的"拼多多"？｜商业Friday](https://36kr.com/p/3867976058803459?f=rss)
+  - [中京电子：未来PCB市场竞争预计将会加剧](https://36kr.com/newsflashes/3872555153544450?f=rss)
+  - [中富通：股东拟合计减持不超0.671%公司股份](https://36kr.com/newsflashes/3872540399375361?f=rss)
   - [乘联分会崔东树：5月中国汽车进口3.8万辆，同比降19%](https://36kr.com/newsflashes/3872171923723272?f=rss)
   - [五菱印尼与Grab战略签约，Grab租赁平台将批量导入缤果车型](https://36kr.com/newsflashes/3872217703077120?f=rss)
   - [信通电子：部分董事、高管及大股东自愿承诺6个月内不减持公司股份](https://36kr.com/newsflashes/3872533279446277?f=rss)
@@ -17,6 +19,7 @@
   - [博世集团：董事会人事调整不会对博世中国各项业务运营产生任何影响](https://36kr.com/newsflashes/3872219380094217?f=rss)
   - [国内首个第四代半导体材料全产业链项目落户郑州](https://36kr.com/newsflashes/3872140630692872?f=rss)
   - [央视曝手机测评作弊乱象](https://36kr.com/newsflashes/3872143344817158?f=rss)
+  - [好利科技：筹划公司控制权变更事项 6月29日起停牌](https://36kr.com/newsflashes/3872561078637577?f=rss)
   - [富信科技：公司近期未新增通信领域重大客户 亦未获取新增大额订单](https://36kr.com/newsflashes/3872268617897217?f=rss)
   - [智元第15000台通用具身机器人正式量产下线](https://36kr.com/newsflashes/3872498969252864?f=rss)
   - [暑期机票预订量环比增长65%，航司优化航线提前布局](https://36kr.com/newsflashes/3872215366292738?f=rss)
@@ -28,12 +31,16 @@
   - [谷歌对Meta Gemini模型的使用设限，因人工智能需求紧张导致算力吃紧](https://36kr.com/newsflashes/3872321240700160?f=rss)
   - [近一周120多只个股获机构调研，广生堂调研机构数最多](https://36kr.com/newsflashes/3872142280840197?f=rss)
   - [郭明錤：iOS 27将进一步深化与Apple Intelligence的系统级整合](https://36kr.com/newsflashes/3872170864334086?f=rss)
+  - [金山办公：拟以2.5亿元-5亿元回购公司股份](https://36kr.com/newsflashes/3872536345826563?f=rss)
+  - [银河微电：拟收购恒泰柯100%股权 股票及可转债明起复牌](https://36kr.com/newsflashes/3872537881466120?f=rss)
   - [雅克科技：目前没有六氟化钨相关业务](https://36kr.com/newsflashes/3872534085031173?f=rss)
   - [韩国将于周一宣布三星、SK集团的多个大型项目](https://36kr.com/newsflashes/3872502773437701?f=rss)
+  - [黄河旋风：黄河集团所持公司8.82%股份被轮候冻结](https://36kr.com/newsflashes/3872541066515457?f=rss)
 - aresluna.org
   - [The curious case of the disappearing Polish S](https://aresluna.org/the-curious-case-of-the-disappearing-polish-s)
 - Cybersecurity News
   - [CPython Tarfile Vulnerability Exposes Systems](https://securityonline.info/cpython-tarfile-vulnerability/)
+  - [libssh2 Vulnerability CVE-2026-58050 Gets Public PoC Exploit](https://securityonline.info/libssh2-vulnerability-cve-2026-58050/)
 - daringfireball.net
   - [Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022](https://www.warner.senate.gov/newsroom/press-releases/warner-rubio-urge-dni-to-review-risk-chinese-chipmaker-ymtc-presents-to-national-security/)
   - [FT Reports That Apple Is Lobbying to Buy Memory Chips From Blacklisted Chinese Company CXMT](https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb)
@@ -72,6 +79,7 @@
 - PwnDefend
   - [If you ask people, often they just do things!](https://www.pwndefend.com/2026/06/27/if-you-ask-people-often-they-just-do-things/)
 - Sploitus.com Exploits RSS Feed
+  - [astra-poc exploit](https://sploitus.com/exploit?id=82157307-0B2F-55D0-AE0F-446FFE31242C&utm_source=rss&utm_medium=rss)
   - [CVE exploit](https://sploitus.com/exploit?id=8745BE4B-4A7D-50BE-9B13-043C121DDC37&utm_source=rss&utm_medium=rss)
   - [cyber-ai-agent exploit](https://sploitus.com/exploit?id=202575A2-5164-5D51-889C-73240458D5EF&utm_source=rss&utm_medium=rss)
   - [doctorpatientportal-rce-sqli-cve exploit](https://sploitus.com/exploit?id=9F909712-BD5A-5DA3-A1F1-6729769D94B0&utm_source=rss&utm_medium=rss)
@@ -131,6 +139,7 @@
   - [CVE-2026-13520 | itsourcecode Hospital Management System 1.0 Appointment /appointmentapproval.php editid sql injection](https://vuldb.com/vuln/374528)
   - [CVE-2026-13521 | SourceCodester Class and Exam Timetabling System 1.0/5.php /preview5.php course_year_section sql injection](https://vuldb.com/vuln/374529)
   - [CVE-2026-13522 | Investintech SlimPDFReader up to 2.0.14 PDF File SlimPDFReader.exe TeighaDo+0x25cde0 out-of-bounds](https://vuldb.com/vuln/374530)
+  - [CVE-2026-13532 | itsourcecode Hospital Management System 1.0 /departmentDoctor.php deptid sql injection](https://vuldb.com/vuln/374540)
   - [CVE-2026-58049 | FFmpeg Media libavcodec/rasc.c out-of-bounds write](https://vuldb.com/vuln/374502)
   - [CVE-2026-58050 | libssh2 up to 1.11.1 SSH integer overflow](https://vuldb.com/vuln/374507)
   - [CVE-2026-58051 | libssh2 up to 1.11.1 SSH uninitialized resource](https://vuldb.com/vuln/374504)
@@ -143,6 +152,7 @@
   - [CVE-2026-58058 | Nmap up to 7.99 libnetutil/netutil.cc integer underflow](https://vuldb.com/vuln/374506)
   - [CVE-2026-8095 | nmedia Frontend File Manager Plugin up to 23.6 on WordPress AJAX wp-config.php sanitize_key wpfm_dir_path file inclusion](https://vuldb.com/vuln/374501)
 - Vulners.com RSS Feed
+  - [astra-poc](https://vulners.com/githubexploit/82157307-0B2F-55D0-AE0F-446FFE31242C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE](https://vulners.com/githubexploit/8745BE4B-4A7D-50BE-9B13-043C121DDC37?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-8101 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2025-8101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10593](https://vulners.com/nvd/NVD:CVE-2026-10593?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -156,9 +166,14 @@
   - [CVE-2026-13482 skypilot-org skypilot User ID server.py username.encode weak hash](https://vulners.com/cve/CVE-2026-13482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13482 skypilot-org skypilot User ID server.py username.encode weak hash](https://vulners.com/cvelist/CVELIST:CVE-2026-13482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13483](https://vulners.com/nvd/NVD:CVE-2026-13483?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13484 MLflow Experiment-scoped Label Schema CRUD API authorization](https://vulners.com/cve/CVE-2026-13484?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13484 MLflow Experiment-scoped Label Schema CRUD API authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-13484?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46604 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-46604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46604 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-46604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48496 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-48496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49349 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-49349?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49349 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-49349?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55689 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-55689?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56009](https://vulners.com/circl/CIRCL:CVE-2026-56009?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58049](https://vulners.com/nvd/NVD:CVE-2026-58049?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58050](https://vulners.com/circl/CIRCL:CVE-2026-58050?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -185,7 +200,10 @@
   - [Exploit for OS Command Injection in Devcode Openstamanager](https://vulners.com/githubexploit/7A2BFD33-83FB-5B33-86D9-0CC82F7A488C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Devcode Openstamanager](https://vulners.com/githubexploit/52E3EC4D-B3B2-5A5A-B602-597C9814297E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-95JQ-XPH2-CX9H vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-95JQ-XPH2-CX9H?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-F2R5-5M7W-P5CX vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-F2R5-5M7W-P5CX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-HCXC-WF8J-23HV vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-HCXC-WF8J-23HV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-QVQC-4C52-X6QP vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-QVQC-4C52-X6QP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-QVQC-4C52-X6QP vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-QVQC-4C52-X6QP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [IITR_Capstone_RedScope_Project](https://vulners.com/githubexploit/4DB773AB-3515-56F0-A117-B6F5C0AA746F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [kleeja-auth-bypass-rce-cve](https://vulners.com/githubexploit/0F3EE27D-82BD-5360-995F-969C90DCAD0F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in ts-ankle (npm)](https://vulners.com/ossf/OSSF:MAL-2026-6548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -200,6 +218,9 @@
   - [Updated krb5 packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0233?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vuln-corpus](https://vulners.com/githubexploit/14E7A500-B823-50F2-82DC-3F9AB6556A14?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vulnerability-prioritization-board](https://vulners.com/githubexploit/F7EF29E5-004F-5EF3-8E94-687EAFF937A4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [China Defies US Restrictions and Builds the World’s Fastest Supercomputer](https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/)
+  - [The Ebike Accessories You Need to Help You Haul the Most Stuff](https://www.wired.com/story/how-to-trick-out-your-ebike/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
