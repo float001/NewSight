@@ -18,15 +18,20 @@
   - [TOP500 at ISC'26: We Have a New Number 1 – By George Cozma](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
 - righto.com
   - [Examining circuit boards from the Space Shuttle's I/O Processor](http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
+- simonwillison.net
+  - [Quoting Jon Udell](https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-69212 exploit](https://sploitus.com/exploit?id=BF7DCB0D-BCFB-51E5-B8DF-4705A1E07674&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Ownership Management in Debian Debian_Linux exploit](https://sploitus.com/exploit?id=572B89E8-5935-50F9-B51B-39DD29BF38F2&utm_source=rss&utm_medium=rss)
   - [sql-injection-prevention exploit](https://sploitus.com/exploit?id=CF4E779B-8913-5A9C-A695-096903D9996A&utm_source=rss&utm_medium=rss)
   - [WEB-EXPLOITATION-ARSENAL-v1.0 exploit](https://sploitus.com/exploit?id=4574E8D1-D21A-5445-A4E2-40761C2058FE&utm_source=rss&utm_medium=rss)
+  - [websec-labs exploit](https://sploitus.com/exploit?id=6EB6476B-341C-526B-8B5F-5A6BD8C98646&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [California law targeting loud streaming ads takes effect on July 1](https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/)
   - [Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization](https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/)
 - The Verge
   - [China claims the world&#8217;s fastest supercomputer](https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer)
+  - [China’s Z.ai claims it can match Mythos on cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity)
   - [Suno launches Spark incubator program to feed independent artists to its AI machine](https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine)
   - [The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece](https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review)
 - VulDB Recent Entries
@@ -54,6 +59,8 @@
   - [CVE-2009-4480](https://vulners.com/circl/CIRCL:CVE-2009-4480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13503](https://vulners.com/nvd/NVD:CVE-2026-13503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13504](https://vulners.com/nvd/NVD:CVE-2026-13504?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13507 volcengine OpenViking Local VectorDB Primary-key Label str_to_uint64.py str_to_uint64 data authenticity](https://vulners.com/cve/CVE-2026-13507?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13507 volcengine OpenViking Local VectorDB Primary-key Label str_to_uint64.py str_to_uint64 data authenticity](https://vulners.com/cvelist/CVELIST:CVE-2026-13507?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49048](https://vulners.com/nvd/NVD:CVE-2026-49048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49048 Joomla Extension - joomcoder.com - Unauthenticated SQL Injection in JoomCCK extension for Joomla < 6.4.1](https://vulners.com/cve/CVE-2026-49048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49048 Joomla Extension - joomcoder.com - Unauthenticated SQL Injection in JoomCCK extension for Joomla < 6.4.1](https://vulners.com/cvelist/CVELIST:CVE-2026-49048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -67,5 +74,6 @@
   - [Security Bulletin: DataStage on Cloud Pak for Data has several vulnerabilities due to open source software](https://vulners.com/ibm/CAC7EB2814A077AD505BDE86378A251A0D7860D403DA23848DC3526884C5DFFD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sql-injection-prevention](https://vulners.com/githubexploit/CF4E779B-8913-5A9C-A695-096903D9996A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WEB-EXPLOITATION-ARSENAL-v1.0](https://vulners.com/githubexploit/4574E8D1-D21A-5445-A4E2-40761C2058FE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [websec-labs](https://vulners.com/githubexploit/6EB6476B-341C-526B-8B5F-5A6BD8C98646?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
