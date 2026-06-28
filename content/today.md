@@ -9,9 +9,13 @@
   - [Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood](https://www.openculture.com/2020/10/daisugi.html)
   - [Examining circuit boards from the Space Shuttle's I/O Processor](https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
   - [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
+  - [The Cost Yagni Was Never About – By Kent Beck](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
   - [Tokenmaxxing is dead, long live Tokenmaxxing](https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing)
 - righto.com
   - [Examining circuit boards from the Space Shuttle's I/O Processor](http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
+- Sploitus.com Exploits RSS Feed
+  - [sql-injection-prevention exploit](https://sploitus.com/exploit?id=CF4E779B-8913-5A9C-A695-096903D9996A&utm_source=rss&utm_medium=rss)
+  - [WEB-EXPLOITATION-ARSENAL-v1.0 exploit](https://sploitus.com/exploit?id=4574E8D1-D21A-5445-A4E2-40761C2058FE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization](https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/)
 - The Verge
@@ -33,13 +37,21 @@
   - [CVE-2026-13564 | Edimax EW-7478APC 1.04 POST Request /goform/formPPPoESetup pppUserName stack-based overflow](https://vuldb.com/vuln/374572)
   - [CVE-2026-13565 | SourceCodester Class and Exam Timetabling System 1.0/1.php /edit_class1.php ID sql injection](https://vuldb.com/vuln/374573)
   - [CVE-2026-13566 | SourceCodester Class and Exam Timetabling System 1.0 /preview3.php course_year_section sql injection](https://vuldb.com/vuln/374574)
+  - [CVE-2026-13567 | code-projects Online Music Site 1.0 POST Request /Frontend/Feedback.php fname/femail/faddress/fmessage cross site scripting](https://vuldb.com/vuln/374575)
+  - [CVE-2026-13568 | SourceCodester Inventory Management System 1.0 User Registration Endpoint /api/users_handler.php role access control](https://vuldb.com/vuln/374576)
+  - [CVE-2026-13569 | weng-xianhu EyouCMS up to 1.7.1 API /index.php click_like sql injection (Issue 68)](https://vuldb.com/vuln/374577)
+  - [CVE-2026-13570 | SourceCodester Inventory Management System 1.0 User Registration Endpoint /api/users_handler.php full_name cross site scripting](https://vuldb.com/vuln/374578)
 - Vulners.com RSS Feed
   - [CVE-2008-7249](https://vulners.com/circl/CIRCL:CVE-2008-7249?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2009-4480](https://vulners.com/circl/CIRCL:CVE-2009-4480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13503](https://vulners.com/nvd/NVD:CVE-2026-13503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13504](https://vulners.com/nvd/NVD:CVE-2026-13504?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49048 Joomla Extension - joomcoder.com - Unauthenticated SQL Injection in JoomCCK extension for Joomla < 6.4.1](https://vulners.com/cve/CVE-2026-49048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49048 Joomla Extension - joomcoder.com - Unauthenticated SQL Injection in JoomCCK extension for Joomla < 6.4.1](https://vulners.com/cvelist/CVELIST:CVE-2026-49048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53017](https://vulners.com/circl/CIRCL:CVE-2026-53017?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53089](https://vulners.com/circl/CIRCL:CVE-2026-53089?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53158](https://vulners.com/circl/CIRCL:CVE-2026-53158?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [sql-injection-prevention](https://vulners.com/githubexploit/CF4E779B-8913-5A9C-A695-096903D9996A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [WEB-EXPLOITATION-ARSENAL-v1.0](https://vulners.com/githubexploit/4574E8D1-D21A-5445-A4E2-40761C2058FE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
