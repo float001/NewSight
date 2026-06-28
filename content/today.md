@@ -39,6 +39,8 @@
   - [The Steam Machine](https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE&utm_medium=gift-link)
   - [White House Grants Access to Anthropic’s Mythos Model to 100+ U.S. Institutions; Fable Still Shut Down](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
   - [★ Bernie Sanders: Ideologue and Economic Ignoramus](https://daringfireball.net/2026/06/bernie_sanders_ideologue)
+- defend.network
+  - [Russian phishing escalates; Turla malware evolves; GitHub AI agents at risk](https://defend.network/briefings/russian-signal-phishing-turla-malware-github-ai-2026-06-28.html)
 - Emergent Minds | paddo.dev
   - [You Can't Bot a Billboard, But You Can Game a Like](https://paddo.dev/blog/proof-of-post-incentive-design/)
 - Hacker News Frontpage
@@ -57,6 +59,8 @@
   - [Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](https://github.com/kageroumado/adrafinil)
   - [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev)
   - [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
+- idiallo.com
+  - [The Laziest Generation](https://idiallo.com/blog/the-laziest-generation)
 - johndcook.com
   - [Brace expansion tree](https://www.johndcook.com/blog/2026/06/27/brace-expansion-tree/)
   - [When will the decimals in a/b repeat?](https://www.johndcook.com/blog/2026/06/27/decimal-period/)
@@ -71,6 +75,7 @@
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Devcode Openstamanager exploit](https://sploitus.com/exploit?id=52E3EC4D-B3B2-5A5A-B602-597C9814297E&utm_source=rss&utm_medium=rss)
   - [IITR_Capstone_RedScope_Project exploit](https://sploitus.com/exploit?id=4DB773AB-3515-56F0-A117-B6F5C0AA746F&utm_source=rss&utm_medium=rss)
   - [Nexploit exploit](https://sploitus.com/exploit?id=F6423E9A-0865-54FE-9EDB-D006725C3F77&utm_source=rss&utm_medium=rss)
+  - [Safeguard-Exploit-Vault exploit](https://sploitus.com/exploit?id=4A147D4B-6F2A-52CA-9C2F-F20FE406DEC5&utm_source=rss&utm_medium=rss)
   - [school-buslocation-sqli-cve exploit](https://sploitus.com/exploit?id=522F040F-3E67-59B4-8183-025C01D1A67B&utm_source=rss&utm_medium=rss)
   - [student-registration-rce-sqli-cve exploit](https://sploitus.com/exploit?id=1E46CB90-FFD8-54DE-90FF-8577C105192D&utm_source=rss&utm_medium=rss)
   - [vuln-corpus exploit](https://sploitus.com/exploit?id=14E7A500-B823-50F2-82DC-3F9AB6556A14&utm_source=rss&utm_medium=rss)
@@ -84,7 +89,12 @@
   - [Apple wants permission to buy memory from a blacklisted Chinese supplier](https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt)
   - [Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out)
   - [Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler](https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler)
+  - [TMD’s keyless bike lock is a $280 solution to a $60 problem](https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review)
 - VulDB Recent Entries
+  - [CVE-2026-10593 | zephyrproject zephyr up to 4.4.x bap_unicast_client.c unicast_client_ep_qos_state null pointer dereference (GHSA-22q8-m94g-2pwh)](https://vuldb.com/vuln/374513)
+  - [CVE-2026-10643 | zephyrproject zephyr up to 4.4.x Supervisor Mode sockets_inet.c recvmsg out-of-bounds write](https://vuldb.com/vuln/374512)
+  - [CVE-2026-10644 | zephyrproject zephyr up to 4.4.x uart_mchp_sercom_g1.c uart_rx_enable out-of-bounds write (GHSA-xv2x-56j7-6wc3)](https://vuldb.com/vuln/374500)
+  - [CVE-2026-10646 | zephyrproject zephyr up to 4.4.x getaddrinfo.c getaddrinfo ai_arr[] use after free (GHSA-h752-vhmf-29w6)](https://vuldb.com/vuln/374514)
   - [CVE-2026-13490 | glpi-project glpi 11.0.5/11.0.6/11.0.7 Document front/document.send.php Document::canViewFile docid authorization](https://vuldb.com/vuln/374487)
   - [CVE-2026-13491 | 78 xiaozhi-esp32 up to 2.2.6 MQTT Goodbye mqtt_protocol.cc Application::GetInstance session_id denial of service (Issue 2022)](https://vuldb.com/vuln/374488)
   - [CVE-2026-13493 | AIDC-AI ComfyUI-Copilot up to 2.0.28 Workflow Checkpoint Restore conversation_api.py resource injection (Issue 149)](https://vuldb.com/vuln/374489)
@@ -97,6 +107,25 @@
   - [CVE-2026-13501 | antlr ANTLR4 up to 4.13.2 gofmt GoTarget.java GoTarget command injection](https://vuldb.com/vuln/374496)
   - [CVE-2026-13502 | antlr ANTLR4 up to 4.13.2 Maven Plugin GrammarDependencies.java ObjectInputStream.readObject toctou](https://vuldb.com/vuln/374498)
   - [CVE-2026-13503 | antlr ANTLR4 up to 4.13.2 tokenVocab Grammar Option TokenVocabParser.java getImportedVocabFile path traversal](https://vuldb.com/vuln/374497)
+  - [CVE-2026-13507 | volcengine OpenViking up to 0.3.21 Local VectorDB Primary-key Label str_to_uint64.py str_to_uint64 ID data authenticity (Issue 2263)](https://vuldb.com/vuln/374515)
+  - [CVE-2026-13508 | khoj-ai khoj up to 2.0.0-beta.28 Conversation Sharing api_chat.py conversation.agent authorization (Issue 1327)](https://vuldb.com/vuln/374516)
+  - [CVE-2026-13509 | RAGapp up to 0.1.5 Knowledge File files.py FileHandler.upload_file/FileHandler.remove_file path traversal (Issue 293)](https://vuldb.com/vuln/374517)
+  - [CVE-2026-13510 | SimStudioAI sim up to 0.6.92 Password Protection deployment.ts weak hash (Issue 4759)](https://vuldb.com/vuln/374518)
+  - [CVE-2026-13511 | VoltAgent up to 2.1.17 Memory REST API memory.handlers.ts handleGetMemoryConversation conversationId improper authorization (Issue 1315)](https://vuldb.com/vuln/374519)
+  - [CVE-2026-13512 | Databend up to 1.2.881 on HTTP Tenant client_session_manager.rs state_key authorization (Issue 19930)](https://vuldb.com/vuln/374520)
+  - [CVE-2026-13513 | MyScale MyScaleDB up to 1.8.0 SegmentId.h SegmentId::getCacheKey data authenticity (Issue 54)](https://vuldb.com/vuln/374521)
+  - [CVE-2026-13514 | Chess Play and Learn App up to 4.9.42 on Android com.chess AndroidManifest.xml backup](https://vuldb.com/vuln/374522)
+  - [CVE-2026-58049 | FFmpeg Media libavcodec/rasc.c out-of-bounds write](https://vuldb.com/vuln/374502)
+  - [CVE-2026-58050 | libssh2 up to 1.11.1 SSH integer overflow](https://vuldb.com/vuln/374507)
+  - [CVE-2026-58051 | libssh2 up to 1.11.1 SSH uninitialized resource](https://vuldb.com/vuln/374504)
+  - [CVE-2026-58052 | 7-Zip up to 26.02 on Windows File Content protection mechanism](https://vuldb.com/vuln/374508)
+  - [CVE-2026-58053 | Gitea act_runner up to 0.262.0 Docker Backend privileges management](https://vuldb.com/vuln/374503)
+  - [CVE-2026-58054 | MyBB up to 1.8.40 User verify_usergroup privileges management](https://vuldb.com/vuln/374505)
+  - [CVE-2026-58055 | nghttp2 up to 1.69.0 HTTP Request request smuggling](https://vuldb.com/vuln/374509)
+  - [CVE-2026-58056 | RustDesk Control Message authorization](https://vuldb.com/vuln/374510)
+  - [CVE-2026-58057 | Flowise up to 3.1.2 on Windows Environment Variable case sensitivity](https://vuldb.com/vuln/374511)
+  - [CVE-2026-58058 | Nmap up to 7.99 libnetutil/netutil.cc integer underflow](https://vuldb.com/vuln/374506)
+  - [CVE-2026-8095 | nmedia Frontend File Manager Plugin up to 23.6 on WordPress AJAX wp-config.php sanitize_key wpfm_dir_path file inclusion](https://vuldb.com/vuln/374501)
 - Vulners.com RSS Feed
   - [CVE](https://vulners.com/githubexploit/8745BE4B-4A7D-50BE-9B13-043C121DDC37?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-8101 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2025-8101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -141,6 +170,7 @@
   - [IITR_Capstone_RedScope_Project](https://vulners.com/githubexploit/4DB773AB-3515-56F0-A117-B6F5C0AA746F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in ts-ankle (npm)](https://vulners.com/ossf/OSSF:MAL-2026-6548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Nexploit](https://vulners.com/githubexploit/F6423E9A-0865-54FE-9EDB-D006725C3F77?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Safeguard-Exploit-Vault](https://vulners.com/githubexploit/4A147D4B-6F2A-52CA-9C2F-F20FE406DEC5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [school-buslocation-sqli-cve](https://vulners.com/githubexploit/522F040F-3E67-59B4-8183-025C01D1A67B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [student-registration-rce-sqli-cve](https://vulners.com/githubexploit/1E46CB90-FFD8-54DE-90FF-8577C105192D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://vulners.com/thn/THN:CDD3A23529C8E6D87AC4971D6F738D25?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -151,3 +181,4 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [DeepSeeK 突然发布 DSpark，让 AI 的回答不再「挤牙膏」](https://www.ifanr.com/1670249?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [底盘也开始「算」了：华为途灵平台到底在解决什么？](https://www.ifanr.com/1670250?utm_source=rss&utm_medium=rss&utm_campaign=)
