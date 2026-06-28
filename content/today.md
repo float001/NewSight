@@ -1,5 +1,9 @@
 # 今日安全资讯（2026-06-28）
 
+- 2Libra
+  - [负收入，求安慰](https://2libra.com/post/personal-life/paw6S0P)
+- 36氪
+  - [一折买 Miu Miu，谁在做奢侈品牌的"拼多多"？｜商业Friday](https://36kr.com/p/3867976058803459?f=rss)
 - aresluna.org
   - [The curious case of the disappearing Polish S](https://aresluna.org/the-curious-case-of-the-disappearing-polish-s)
 - daringfireball.net
@@ -17,6 +21,7 @@
 - Hacker News Frontpage
   - ['Careless People' author claims Meta surveilled her for 12mos to enforce silence](https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/)
   - [A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center Meeting](https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting)
+  - [America's Large Homebuilders Shift the Cost of Shoddy Construction to Buyers](https://hntrbrk.com/investigations/homebuilders)
   - [Doctors suspected man had brain cancer. He had worms](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/)
   - [GLP-1 drugs led to weight loss and reversed depression-like behavior in mice](https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis)
   - [IP Crawl: living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
@@ -25,6 +30,7 @@
   - [Should European housing politics be Americanized?](https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/)
   - [Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](https://github.com/kageroumado/adrafinil)
 - johndcook.com
+  - [Brace expansion tree](https://www.johndcook.com/blog/2026/06/27/brace-expansion-tree/)
   - [When will the decimals in a/b repeat?](https://www.johndcook.com/blog/2026/06/27/decimal-period/)
 - PwnDefend
   - [If you ask people, often they just do things!](https://www.pwndefend.com/2026/06/27/if-you-ask-people-often-they-just-do-things/)
@@ -56,6 +62,8 @@
   - [CVE-2026-13503 | antlr ANTLR4 up to 4.13.2 tokenVocab Grammar Option TokenVocabParser.java getImportedVocabFile path traversal](https://vuldb.com/vuln/374497)
 - Vulners.com RSS Feed
   - [CVE-2025-8101 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2025-8101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10643](https://vulners.com/nvd/NVD:CVE-2026-10643?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8095](https://vulners.com/nvd/NVD:CVE-2026-8095?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8095 Frontend File Manager Plugin <= 23.6 - Authenticated (Subscriber+) Arbitrary File Deletion](https://vulners.com/cve/CVE-2026-8095?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8095 Frontend File Manager Plugin <= 23.6 - Authenticated (Subscriber+) Arbitrary File Deletion](https://vulners.com/cvelist/CVELIST:CVE-2026-8095?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Devcode Openstamanager](https://vulners.com/githubexploit/52E3EC4D-B3B2-5A5A-B602-597C9814297E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
