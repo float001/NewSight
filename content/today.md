@@ -87,6 +87,8 @@
   - [When will the decimals in a/b repeat?](https://www.johndcook.com/blog/2026/06/27/decimal-period/)
 - PwnDefend
   - [If you ask people, often they just do things!](https://www.pwndefend.com/2026/06/27/if-you-ask-people-often-they-just-do-things/)
+- shkspr.mobi
+  - [Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆](https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/)
 - Sploitus.com Exploits RSS Feed
   - [astra-poc exploit](https://sploitus.com/exploit?id=82157307-0B2F-55D0-AE0F-446FFE31242C&utm_source=rss&utm_medium=rss)
   - [CVE exploit](https://sploitus.com/exploit?id=8745BE4B-4A7D-50BE-9B13-043C121DDC37&utm_source=rss&utm_medium=rss)
@@ -162,6 +164,8 @@
   - [CVE-2026-13543 | Documenso up to 2.11.0 Google OAuth Login handle-oauth-callback-url.ts improper authentication (Issue 2758)](https://vuldb.com/vuln/374551)
   - [CVE-2026-13544 | Feehi CMS up to 2.1.1 API /api/users information disclosure (Issue 88)](https://vuldb.com/vuln/374552)
   - [CVE-2026-13545 | D-Link DCS-935L 1.10.01 POST Parameter setconf.cgi sub_400E40 UID os command injection](https://vuldb.com/vuln/374553)
+  - [CVE-2026-13550 | itsourcecode Baptism Information Management System 1.0 /delbaptism.php ID sql injection](https://vuldb.com/vuln/374558)
+  - [CVE-2026-13551 | itsourcecode Baptism Information Management System 1.0 /editBaptism.php ID sql injection](https://vuldb.com/vuln/374559)
   - [CVE-2026-58049 | FFmpeg Media libavcodec/rasc.c out-of-bounds write](https://vuldb.com/vuln/374502)
   - [CVE-2026-58050 | libssh2 up to 1.11.1 SSH integer overflow](https://vuldb.com/vuln/374507)
   - [CVE-2026-58051 | libssh2 up to 1.11.1 SSH uninitialized resource](https://vuldb.com/vuln/374504)
@@ -197,10 +201,15 @@
   - [CVE-2026-13486](https://vulners.com/nvd/NVD:CVE-2026-13486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13486 SourceCodester Class and Exam Timetabling System preview6.php sql injection](https://vulners.com/cve/CVE-2026-13486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13486 SourceCodester Class and Exam Timetabling System preview6.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-13486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13487](https://vulners.com/nvd/NVD:CVE-2026-13487?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13487 SourceCodester Class and Exam Timetabling System archive.php sql injection](https://vulners.com/cve/CVE-2026-13487?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13487 SourceCodester Class and Exam Timetabling System archive.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-13487?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13488](https://vulners.com/nvd/NVD:CVE-2026-13488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13488 SourceCodester Class and Exam Timetabling System preview7.php sql injection](https://vulners.com/cve/CVE-2026-13488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13488 SourceCodester Class and Exam Timetabling System preview7.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-13488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13491](https://vulners.com/attackerkb/AKB:B94F5A78-EB78-4FC9-AC52-5D6617E3FA02?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13491 78 xiaozhi-esp32 MQTT Goodbye mqtt_protocol.cc GetInstance denial of service](https://vulners.com/cve/CVE-2026-13491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13491 78 xiaozhi-esp32 MQTT Goodbye mqtt_protocol.cc GetInstance denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-13491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46604 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-46604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-46604 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-46604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48496 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-48496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
