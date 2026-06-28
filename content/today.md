@@ -5,15 +5,22 @@
   - [诡秘之主 特别篇：白银城篇·猎物篇](https://2libra.com/post/movie-sharing/PXM5yiT)
 - daringfireball.net
   - [PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users’ Passports](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdjV0Y5TTBuM0ciLCJwIjoiL3RlY2gvOTQ3MTU3L3Bhc3Nwb3J0cy1kYXRhLWJyZWFjaC1jYW5uYWJpcy1jbHViLXN5c3RlbXMtbmVmb3MtcHVmZnBhbCIsImV4cCI6MTc4MzA5NDY0NiwiaWF0IjoxNzgyNjYyNjQ2fQ.7SjX6B8AAGhzsdrtD5asJWBwzQvTDUD31hWte7K1oec)
+- Data Breach
+  - [KDDI Data Breach Impacts up to 14.2 Million Email Accounts at Six ISPs](https://securityaffairs.com/194387/data-breach/kddi-data-breach-impacts-up-to-14-2-million-email-accounts-at-six-isps.html)
 - Hacker News Frontpage
   - [Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood](https://www.openculture.com/2020/10/daisugi.html)
   - [Examining circuit boards from the Space Shuttle's I/O Processor](https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
+  - [Ford rehires 'gray beard' engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
   - [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
   - [The Cost Yagni Was Never About – By Kent Beck](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
+  - [The US Used to Demand the Best Tech. Now We Ban It](https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it)
   - [Tokenmaxxing is dead, long live Tokenmaxxing](https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing)
+  - [TOP500 at ISC'26: We Have a New Number 1 – By George Cozma](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
 - righto.com
   - [Examining circuit boards from the Space Shuttle's I/O Processor](http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-69212 exploit](https://sploitus.com/exploit?id=BF7DCB0D-BCFB-51E5-B8DF-4705A1E07674&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Ownership Management in Debian Debian_Linux exploit](https://sploitus.com/exploit?id=572B89E8-5935-50F9-B51B-39DD29BF38F2&utm_source=rss&utm_medium=rss)
   - [sql-injection-prevention exploit](https://sploitus.com/exploit?id=CF4E779B-8913-5A9C-A695-096903D9996A&utm_source=rss&utm_medium=rss)
   - [WEB-EXPLOITATION-ARSENAL-v1.0 exploit](https://sploitus.com/exploit?id=4574E8D1-D21A-5445-A4E2-40761C2058FE&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -46,11 +53,17 @@
   - [CVE-2009-4480](https://vulners.com/circl/CIRCL:CVE-2009-4480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13503](https://vulners.com/nvd/NVD:CVE-2026-13503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13504](https://vulners.com/nvd/NVD:CVE-2026-13504?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49048](https://vulners.com/nvd/NVD:CVE-2026-49048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49048 Joomla Extension - joomcoder.com - Unauthenticated SQL Injection in JoomCCK extension for Joomla < 6.4.1](https://vulners.com/cve/CVE-2026-49048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49048 Joomla Extension - joomcoder.com - Unauthenticated SQL Injection in JoomCCK extension for Joomla < 6.4.1](https://vulners.com/cvelist/CVELIST:CVE-2026-49048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53017](https://vulners.com/circl/CIRCL:CVE-2026-53017?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53089](https://vulners.com/circl/CIRCL:CVE-2026-53089?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53158](https://vulners.com/circl/CIRCL:CVE-2026-53158?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-69212](https://vulners.com/githubexploit/BF7DCB0D-BCFB-51E5-B8DF-4705A1E07674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Ownership Management in Debian Debian_Linux](https://vulners.com/githubexploit/572B89E8-5935-50F9-B51B-39DD29BF38F2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: DataStage on Cloud Pak for Data  is vulnerable to authorization bypass due to the Moby package (CVE-2026-33997, CVE-2026-34040)](https://vulners.com/ibm/5E2BB565CC5670B71610812906F2311D69E6F0952DD6EBE21B5ADDDCC325D52B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: DataStage on Cloud Pak for Data has several vulnerabilities due to open source software](https://vulners.com/ibm/21423802A18D292DC6E2A28CC83071301DACC0706BEE197BF1EE1FD3CC71A492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: DataStage on Cloud Pak for Data has several vulnerabilities due to open source software](https://vulners.com/ibm/CAC7EB2814A077AD505BDE86378A251A0D7860D403DA23848DC3526884C5DFFD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sql-injection-prevention](https://vulners.com/githubexploit/CF4E779B-8913-5A9C-A695-096903D9996A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WEB-EXPLOITATION-ARSENAL-v1.0](https://vulners.com/githubexploit/4574E8D1-D21A-5445-A4E2-40761C2058FE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
