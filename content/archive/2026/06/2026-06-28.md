@@ -6,10 +6,14 @@
   - [Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022](https://www.warner.senate.gov/newsroom/press-releases/warner-rubio-urge-dni-to-review-risk-chinese-chipmaker-ymtc-presents-to-national-security/)
   - [FT Reports That Apple Is Lobbying to Buy Memory Chips From Blacklisted Chinese Company CXMT](https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb)
   - [Grok Is a Generative Porno App](https://www.theinformation.com/articles/xai-bets-groks-racy-side?rc=jfy0lk)
+  - [Micron Executive Sumit Sadana Tells Tim Cook to Stop Hitting Himself](https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=B1aQCP&reflink=desktopwebshare_permalink)
   - [Microsoft Raises Xbox Prices, Drops High-End Storage Model From Lineup](https://news.xbox.com/en-us/2026/06/25/xbox-console-price-update/)
   - [OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models](https://openai.com/index/previewing-gpt-5-6-sol/)
   - [The Steam Machine](https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE&utm_medium=gift-link)
   - [White House Grants Access to Anthropic’s Mythos Model to 100+ U.S. Institutions; Fable Still Shut Down](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
+  - [★ Bernie Sanders: Ideologue and Economic Ignoramus](https://daringfireball.net/2026/06/bernie_sanders_ideologue)
+- Emergent Minds | paddo.dev
+  - [You Can't Bot a Billboard, But You Can Game a Like](https://paddo.dev/blog/proof-of-post-incentive-design/)
 - Hacker News Frontpage
   - ['Careless People' author claims Meta surveilled her for 12mos to enforce silence](https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/)
   - [A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center Meeting](https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting)
@@ -25,6 +29,9 @@
 - PwnDefend
   - [If you ask people, often they just do things!](https://www.pwndefend.com/2026/06/27/if-you-ask-people-often-they-just-do-things/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Devcode Openstamanager exploit](https://sploitus.com/exploit?id=52E3EC4D-B3B2-5A5A-B602-597C9814297E&utm_source=rss&utm_medium=rss)
+  - [IITR_Capstone_RedScope_Project exploit](https://sploitus.com/exploit?id=4DB773AB-3515-56F0-A117-B6F5C0AA746F&utm_source=rss&utm_medium=rss)
+  - [vuln-corpus exploit](https://sploitus.com/exploit?id=14E7A500-B823-50F2-82DC-3F9AB6556A14&utm_source=rss&utm_medium=rss)
   - [vulnerability-prioritization-board exploit](https://sploitus.com/exploit?id=F7EF29E5-004F-5EF3-8E94-687EAFF937A4&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)
@@ -49,10 +56,15 @@
   - [CVE-2026-13503 | antlr ANTLR4 up to 4.13.2 tokenVocab Grammar Option TokenVocabParser.java getImportedVocabFile path traversal](https://vuldb.com/vuln/374497)
 - Vulners.com RSS Feed
   - [CVE-2025-8101 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2025-8101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8095 Frontend File Manager Plugin <= 23.6 - Authenticated (Subscriber+) Arbitrary File Deletion](https://vulners.com/cve/CVE-2026-8095?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8095 Frontend File Manager Plugin <= 23.6 - Authenticated (Subscriber+) Arbitrary File Deletion](https://vulners.com/cvelist/CVELIST:CVE-2026-8095?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Devcode Openstamanager](https://vulners.com/githubexploit/52E3EC4D-B3B2-5A5A-B602-597C9814297E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-95JQ-XPH2-CX9H vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-95JQ-XPH2-CX9H?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [IITR_Capstone_RedScope_Project](https://vulners.com/githubexploit/4DB773AB-3515-56F0-A117-B6F5C0AA746F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in ts-ankle (npm)](https://vulners.com/ossf/OSSF:MAL-2026-6548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://vulners.com/thn/THN:CDD3A23529C8E6D87AC4971D6F738D25?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Updated krb5 packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0233?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [vuln-corpus](https://vulners.com/githubexploit/14E7A500-B823-50F2-82DC-3F9AB6556A14?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vulnerability-prioritization-board](https://vulners.com/githubexploit/F7EF29E5-004F-5EF3-8E94-687EAFF937A4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
