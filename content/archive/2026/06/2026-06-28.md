@@ -4,6 +4,10 @@
   - [负收入，求安慰](https://2libra.com/post/personal-life/paw6S0P)
 - 36氪
   - [一折买 Miu Miu，谁在做奢侈品牌的"拼多多"？｜商业Friday](https://36kr.com/p/3867976058803459?f=rss)
+  - [华泰证券：5月工业企业利润总体向好，行业分化加剧](https://36kr.com/newsflashes/3872141380080643?f=rss)
+  - [国内首个第四代半导体材料全产业链项目落户郑州](https://36kr.com/newsflashes/3872140630692872?f=rss)
+  - [央视曝手机测评作弊乱象](https://36kr.com/newsflashes/3872143344817158?f=rss)
+  - [近一周120多只个股获机构调研，广生堂调研机构数最多](https://36kr.com/newsflashes/3872142280840197?f=rss)
 - aresluna.org
   - [The curious case of the disappearing Polish S](https://aresluna.org/the-curious-case-of-the-disappearing-polish-s)
 - daringfireball.net
@@ -26,9 +30,11 @@
   - [GLP-1 drugs led to weight loss and reversed depression-like behavior in mice](https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis)
   - [IP Crawl: living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
   - [Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)
+  - [Response to AI slop is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
   - [Ships keep moving through Hormuz despite strike](https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy)
   - [Should European housing politics be Americanized?](https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/)
   - [Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](https://github.com/kageroumado/adrafinil)
+  - [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev)
 - johndcook.com
   - [Brace expansion tree](https://www.johndcook.com/blog/2026/06/27/brace-expansion-tree/)
   - [When will the decimals in a/b repeat?](https://www.johndcook.com/blog/2026/06/27/decimal-period/)
