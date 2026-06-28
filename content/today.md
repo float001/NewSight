@@ -1,4 +1,37 @@
 # 今日安全资讯（2026-06-29）
 
+- 2Libra
+  - [【骡马假日】青春没有售价，铁腚直达北疆～ 🤣🤣🤣](https://2libra.com/post/travel-logs/LuhbkIL)
+  - [诡秘之主 特别篇：白银城篇·猎物篇](https://2libra.com/post/movie-sharing/PXM5yiT)
+- Hacker News Frontpage
+  - [Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood](https://www.openculture.com/2020/10/daisugi.html)
+  - [Examining circuit boards from the Space Shuttle's I/O Processor](https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
+  - [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
+  - [Tokenmaxxing is dead, long live Tokenmaxxing](https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing)
+- righto.com
+  - [Examining circuit boards from the Space Shuttle's I/O Processor](http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
+- TechCrunch
+  - [Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization](https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/)
+- The Verge
+  - [The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece](https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review)
+- VulDB Recent Entries
+  - [CVE-2026-13552 | itsourcecode Online Hotel Management System 1.0 controller.php?action=edit amen_id sql injection](https://vuldb.com/vuln/374560)
+  - [CVE-2026-13553 | itsourcecode Online Hotel Management System 1.0 controller.php?action=add image unrestricted upload](https://vuldb.com/vuln/374561)
+  - [CVE-2026-13554 | itsourcecode Online Hotel Management System 1.0 POST Request controller.php?action=add Name cross site scripting](https://vuldb.com/vuln/374562)
+  - [CVE-2026-13555 | itsourcecode Online Hotel Management System 1.0 controller.php?action=add Name sql injection](https://vuldb.com/vuln/374563)
+  - [CVE-2026-13556 | itsourcecode Online Hotel Management System 1.0 POST Request controller.php?action=edit Name cross site scripting](https://vuldb.com/vuln/374564)
+  - [CVE-2026-13557 | itsourcecode Online Hotel Management System 1.0 POST Request controller.php?action=add Name cross site scripting](https://vuldb.com/vuln/374565)
+  - [CVE-2026-13558 | CodeAstro Complaint Management System 1.0 Report /report/addreport Report Title cross site scripting](https://vuldb.com/vuln/374566)
+  - [CVE-2026-13559 | code-projects Real State Services 1.0 single-list_sale.php?action=add ID sql injection](https://vuldb.com/vuln/374567)
+  - [CVE-2026-13560 | Edimax EW-7478APC 1.04 POST Request /goform/formAccept submit-url os command injection](https://vuldb.com/vuln/374568)
+  - [CVE-2026-13561 | Edimax EW-7478APC 1.04 POST Request /goform/formiNICbasic rootAPmac os command injection](https://vuldb.com/vuln/374569)
+  - [CVE-2026-13562 | Edimax EW-7478APC 1.04 POST Request formiNICSiteSurvey selSSID buffer overflow](https://vuldb.com/vuln/374570)
+  - [CVE-2026-13563 | Edimax EW-7478APC 1.04 POST Request /goform/formL2TPSetup L2TPUserName stack-based overflow](https://vuldb.com/vuln/374571)
+  - [CVE-2026-13564 | Edimax EW-7478APC 1.04 POST Request /goform/formPPPoESetup pppUserName stack-based overflow](https://vuldb.com/vuln/374572)
+  - [CVE-2026-13565 | SourceCodester Class and Exam Timetabling System 1.0/1.php /edit_class1.php ID sql injection](https://vuldb.com/vuln/374573)
+  - [CVE-2026-13566 | SourceCodester Class and Exam Timetabling System 1.0 /preview3.php course_year_section sql injection](https://vuldb.com/vuln/374574)
+- Vulners.com RSS Feed
+  - [CVE-2026-13503](https://vulners.com/nvd/NVD:CVE-2026-13503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13504](https://vulners.com/nvd/NVD:CVE-2026-13504?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
