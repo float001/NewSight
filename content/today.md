@@ -1,9 +1,68 @@
 # 今日安全资讯（2026-06-30）
 
+- 2Libra
+  - [我决定从 7 月开始，好好生活。 1 - 6 月，即当做是和我开玩笑了！](https://2libra.com/post/personal-life/cHC321F)
+- Fidelis Security
+  - [How Fidelis’ Behavioral EDR Improves Threat Detection and Response](https://fidelissecurity.com/threatgeek/endpoint-security/fidelis-edr-behavioral-threat-detection-improves-response/)
+- Hacker News Frontpage
+  - [European ISPs Want Rightsholders Held Accountable for Overblocking Damage](https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/)
+- Kali Linux Tutorials
+  - [Best OSINT Tools for Journalists 2026: Verify Sources, Images and Claims](https://kalilinuxtutorials.com/best-osint-tools-for-journalists-2026/)
+- pluralistic.net
+  - [Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)](https://pluralistic.net/2026/06/29/arsonist-firefighters/)
+- simonwillison.net
+  - [Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding](https://simonwillison.net/2026/Jun/29/ornith/#atom-everything)
 - TechCrunch
+  - [TIDAL cracks down on AI music by cutting off monetization](https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/)
+  - [Trump administration threatens 92 GW of new electricity supply with red tape](https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/)
   - [WhatsApp not lets you reserve usernames](https://techcrunch.com/2026/06/29/whatsapp-not-lets-you-reserve-usernames/)
 - The Verge
   - [Congress wants to ban AI companies from selling your health data](https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon)
+  - [The best July 4th sales we found so far](https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale)
   - [WhatsApp is launching usernames: here’s how to reserve yours](https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability)
+- VulDB Recent Entries
+  - [CVE-2026-46406 | Anthropic claude-code up to 2.1.127 /tmp/claude/response.md link following (GHSA-4vp2-6q8c-pvq2)](https://vuldb.com/vuln/374628)
+  - [CVE-2026-49049 | joomshaper Helix3 Extension 1.0-3.1.1 on Joomla JSON File access control](https://vuldb.com/vuln/374640)
+  - [CVE-2026-55607 | Anthropic claude-code up to 2.1.162 Repository path traversal (GHSA-7835-87q9-rgvv)](https://vuldb.com/vuln/374629)
+  - [CVE-2026-55844 | home-assistant core prior 2025.5.0 Secure Network cleartext transmission (GHSA-cm5v-547m-qh5h)](https://vuldb.com/vuln/374631)
+  - [CVE-2026-56124 | shimosyan phpUploader up to 2.0.1 Database Table private personal information](https://vuldb.com/vuln/374627)
+  - [CVE-2026-56290 | JoomlaCK Page Builder CK Extension 1.0-3.6.0 on Joomla access control](https://vuldb.com/vuln/374630)
+  - [CVE-2026-57320 | RealMag777 BEAR Plugin up to 1.1.8 on WordPress cross site scripting](https://vuldb.com/vuln/374642)
+  - [CVE-2026-57326 | Strategy11 Business Directory Plugin up to 6.4.22 on WordPress cross site scripting](https://vuldb.com/vuln/374643)
+  - [CVE-2026-57327 | MainWP Plugin up to 6.1.1 on WordPress authorization](https://vuldb.com/vuln/374635)
+  - [CVE-2026-57328 | Strategy11 Business Directory Plugin up to 6.4.22 on WordPress cross site scripting](https://vuldb.com/vuln/374644)
+  - [CVE-2026-57329 | WooCommerce Designer Pro Plugin up to 1.9.34 on WordPress cross site scripting](https://vuldb.com/vuln/374641)
+  - [CVE-2026-57330 | Stylemix MasterStudy LMS Plugin up to 3.7.27 on WordPress cross site scripting](https://vuldb.com/vuln/374645)
+  - [CVE-2026-57331 | videowhisper Paid Videochat Turnkey Site Plugin up to 7.4.8 on WordPress path traversal](https://vuldb.com/vuln/374636)
+  - [CVE-2026-57332 | WP Swings Wallet System for WooCommerce Plugin up to 2.7.6 on WordPress authorization](https://vuldb.com/vuln/374632)
+  - [CVE-2026-57333 | Spencer Haws Link Whisper Free Plugin up to 0.9.4 on WordPress cross site scripting](https://vuldb.com/vuln/374646)
+  - [CVE-2026-57334 | weDevs WP User Frontend Plugin up to 4.3.7 on WordPress authorization](https://vuldb.com/vuln/374637)
+  - [CVE-2026-57335 | Ads WPQuads Ads by WPQuads Plugin up to 3.0.3 on WordPress authorization](https://vuldb.com/vuln/374638)
+  - [CVE-2026-57336 | Astoundify Jobify Plugin up to 4.3.2 on WordPress cross site scripting](https://vuldb.com/vuln/374647)
+  - [CVE-2026-57337 | PluginOps Landing Page Builder Plugin up to 1.5.3.5 on WordPress cross site scripting](https://vuldb.com/vuln/374648)
+  - [CVE-2026-57338 | Repute InfoSystems ARForms Plugin up to 7.1.2 on WordPress cross site scripting](https://vuldb.com/vuln/374649)
+  - [CVE-2026-57339 | Strategy11 Business Directory Plugin up to 6.4.23 on WordPress authorization](https://vuldb.com/vuln/374639)
+  - [CVE-2026-57340 | shohei.tanaka Japanized for WooCommerce Plugin up to 2.9.12 on WordPress authorization](https://vuldb.com/vuln/374633)
+  - [CVE-2026-57341 | Colissimo Officiel Plugin up to 2.9.0 on WordPress authorization](https://vuldb.com/vuln/374634)
+- Vulners.com RSS Feed
+  - [CVE-2026-13437](https://vulners.com/nvd/NVD:CVE-2026-13437?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13580](https://vulners.com/nvd/NVD:CVE-2026-13580?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13581](https://vulners.com/nvd/NVD:CVE-2026-13581?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13582](https://vulners.com/nvd/NVD:CVE-2026-13582?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13583](https://vulners.com/nvd/NVD:CVE-2026-13583?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13587](https://vulners.com/nvd/NVD:CVE-2026-13587?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13742](https://vulners.com/nvd/NVD:CVE-2026-13742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13744](https://vulners.com/nvd/NVD:CVE-2026-13744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13746](https://vulners.com/nvd/NVD:CVE-2026-13746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13748](https://vulners.com/nvd/NVD:CVE-2026-13748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13749](https://vulners.com/nvd/NVD:CVE-2026-13749?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13750](https://vulners.com/cve/CVE-2026-13750?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13750](https://vulners.com/nvd/NVD:CVE-2026-13750?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13750 Snowflake CLI Sensitive Credential Exposure Through Debug Logging](https://vulners.com/cvelist/CVELIST:CVE-2026-13750?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41052](https://vulners.com/nvd/NVD:CVE-2026-41052?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9105](https://vulners.com/nvd/NVD:CVE-2026-9105?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [glibc: glibc: Heap Buffer Overflow in `scanf` with `%mc` format specifier and large width](https://vulners.com/redhat/RHSA-2026:33126-CVE-2026-5450?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Moderate: Red Hat Security Advisory: glibc security update](https://vulners.com/redhat/RHSA-2026:33126?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://vulners.com/thn/THN:74266AD71CD94FDB938D1893495B4069?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
