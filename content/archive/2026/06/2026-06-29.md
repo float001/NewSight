@@ -7,6 +7,8 @@
   - [Yukiapi 一家稳定平价 Claude/Codex 中转站，新用户注册送 1 刀评论区留 id 送 5 刀额度！](https://2libra.com/post/ai-gateway/szXicAm)
   - [《AI 音乐》点评：5 分｜一年来对 AI 音乐的体验感受](https://2libra.com/post/ai-emotion-guard/uQg8kKk)
   - [【投票】你有多久没光顾路边摊？ 路边摊 10-13 元一杯的柠檬茶，与蜜雪冰城 4 元一杯有何不同？](https://2libra.com/post/social-observation/USSbyqN)
+  - [【竞猜】小伙伴們，巴西对日本，猜一猜时间到了](https://2libra.com/post/forum-function/gKCsnzc)
+  - [【骡马假日】北疆风光！这确实是中国才能做到的事～ 🇨🇳🇨🇳🇨🇳](https://2libra.com/post/travel-logs/BFBOiPW)
   - [【骡马假日】青春没有售价，铁腚直达北疆～ 🤣🤣🤣](https://2libra.com/post/travel-logs/LuhbkIL)
   - [【💰】严重怀疑我被哈基米针对了](https://2libra.com/post/small-things/hGtobH1)
   - [【💰】今日手气有点黑！](https://2libra.com/post/forum-function/JgsCfrD)
@@ -246,6 +248,10 @@
   - [马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus](https://36kr.com/newsflashes/3873481579746561?f=rss)
   - [马斯克：SpaceX计划今年每月发布一个全新的人工智能模型](https://36kr.com/newsflashes/3873872147272963?f=rss)
   - [高盛：美股或再迎强劲财报季，经济增长和AI热潮料推动每股收益增长](https://36kr.com/newsflashes/3873961627325440?f=rss)
+- 404 Media
+  - [Inside Cannes, the Advertising Industry’s Biggest Party](https://www.404media.co/inside-cannes-the-advertising-industrys-biggest-party/)
+- Ars Technica
+  - [Comcast is splitting its media and broadband properties](https://arstechnica.com/tech-policy/2026/06/comcast-is-splitting-its-media-and-broadband-properties/)
 - Cybersecurity News
   - [Apple Removes Russian Apps VK and MAX from App Store](https://securityonline.info/apple-removes-russian-apps-vk-max/)
   - [Cisco Unified CM RCE Flaw Exploited in the Wild as PoC Code Goes Public](https://securityonline.info/cisco-unified-cm-rce-cve-2026-20230/)
@@ -258,6 +264,7 @@
   - [Public PoC and Exploit Details Released for IPV6_FRAG_ESCAPE on RHEL 10](https://securityonline.info/ipv6-frag-escape-container-escape-poc/)
   - [Thailand Healthcare Malware Exploits RAR Archives](https://securityonline.info/thailand-healthcare-malware-rar-phishing/)
   - [Weekly CVE Report Logs 1,909 New Vulnerabilities and 6 Exploited Flaws](https://securityonline.info/weekly-cve-report-june-2026/)
+  - [WSL Containers Windows 11: Native Linux Orchestration](https://securityonline.info/wsl-containers-windows-11/)
 - daniel.haxx.se
   - [Do excellent vulnerability reports](https://daniel.haxx.se/blog/2026/06/29/do-excellent-vulnerability-reports/)
 - daringfireball.net
@@ -275,16 +282,20 @@
 - Emergent Minds | paddo.dev
   - [Lazy Context: Why Retrieval Beats Compression](https://paddo.dev/blog/lazy-context-compress-cache-retrieve/)
 - Hacker News Frontpage
+  - [Building Principia for Windows XP](https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/)
   - [Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood](https://www.openculture.com/2020/10/daisugi.html)
   - [Examining circuit boards from the Space Shuttle's I/O Processor](https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
   - [Ford rehires 'gray beard' engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
   - [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
+  - [Instagram is incorporating users' photos in ads for Mera Glasses](https://twitter.com/i/status/2071277885646868536)
   - [Knowledge Distillation of Black-Box Large Language Models](https://arxiv.org/abs/2401.07013)
   - [Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM](https://www.phantafield.com/whitepaper)
+  - [Studio Canal Movies purchased on PlayStation Store removed without refund](https://www.playstation.com/en-gb/legal/psvideocontent/)
   - [The Cost Yagni Was Never About – By Kent Beck](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
   - [The US Used to Demand the Best Tech. Now We Ban It](https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it)
   - [Tokenmaxxing is dead, long live Tokenmaxxing](https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing)
   - [TOP500 at ISC'26: We Have a New Number 1 – By George Cozma](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
+  - [What happens when you run a CUDA kernel?](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/)
 - HackerNews
   - [Amazon Q 漏洞使恶意代码仓库可窃取云凭据](http://0.0.0.0:8080/post/64400)
   - [FBI：俄罗斯黑客现在将目标对准 Signal 备份恢复密钥](http://0.0.0.0:8080/post/64398)
@@ -292,6 +303,8 @@
   - [乌克兰称俄罗斯情报机构利用虚假支持短信窃取消息应用凭据](http://0.0.0.0:8080/post/64396)
   - [数据泄露导致六家 ISP 高达 1420 万电子邮件登录信息暴露](http://0.0.0.0:8080/post/64397)
   - [新型 SharkLoader 恶意软件在 StrikeShark 网络攻击中部署 Cobalt Strike](http://0.0.0.0:8080/post/64395)
+- Horizon3.ai
+  - [CTEM Isn’t Failing. It’s Not Being Operationalized.](https://horizon3.ai/intelligence/blogs/ctem-isnt-failing-its-being-operationalized/)
 - idiallo.com
   - [I turned my prologue into a short video](https://idiallo.com/byte-size/my-prologue-to-short-video)
 - IEEE Spectrum
@@ -346,6 +359,8 @@
   - [California law targeting loud streaming ads takes effect on July 1](https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/)
   - [Flipper Device’s new Busy Bar is a customizable display for productivity](https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/)
   - [Omen AI’s plan to optimize data centers is all wet](https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/)
+  - [Pocket raises $11M in bet on rising demand for AI note-taking devices](https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/)
+  - [Robot hand company settles Tesla trade secret suit and announces $11M raise](https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/)
   - [Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization](https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/)
 - The Decoder
   - [Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring](https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/)
@@ -355,6 +370,8 @@
   - [China’s Z.ai claims it can match Mythos on cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity)
   - [Comcast is splitting in two](https://www.theverge.com/tech/958849/comcast-nbcuniversal-company-spinoff-announcement)
   - [How to end a TV show](https://www.theverge.com/entertainment/957707/from-season-4-finale-tv-show-endings)
+  - [Let him cook: How Weber Blackstone CEO Roger Dahle went from upstart to the biggest name in grilling](https://www.theverge.com/podcast/958790/weber-blackstone-ceo-roger-dahle-grilling-griddles-merger-outdoor-cooking)
+  - [Rocket Lab is buying Iridium&#8217;s satellite network for $8 billion to take on SpaceX](https://www.theverge.com/science/958891/rocket-lab-iridium-acquisition-satellite-communications)
   - [Suno launches Spark incubator program to feed independent artists to its AI machine](https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine)
   - [The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece](https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review)
   - [The Flipper Zero creators’ Busy Bar productivity display will go on sale next month](https://www.theverge.com/tech/957784/flipper-devices-busy-bar-productivity-multitool-timer-led-display-presale)
@@ -415,6 +432,10 @@
   - [CVE-2025-7386](https://vulners.com/circl/CIRCL:CVE-2025-7386?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-7386](https://vulners.com/nvd/NVD:CVE-2025-7386?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10083](https://vulners.com/nvd/NVD:CVE-2026-10083?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11979 Stack-Based Buffer Overflow in libxml2](https://vulners.com/cve/CVE-2026-11979?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11979 Stack-Based Buffer Overflow in libxml2](https://vulners.com/cvelist/CVELIST:CVE-2026-11979?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12616](https://vulners.com/cve/CVE-2026-12616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12616](https://vulners.com/cvelist/CVELIST:CVE-2026-12616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13503](https://vulners.com/nvd/NVD:CVE-2026-13503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13504](https://vulners.com/nvd/NVD:CVE-2026-13504?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13507](https://vulners.com/nvd/NVD:CVE-2026-13507?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -524,8 +545,12 @@
   - [CVE-2026-13564](https://vulners.com/nvd/NVD:CVE-2026-13564?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13564 Edimax EW-7478APC POST Request formPPPoESetup stack-based overflow](https://vulners.com/cve/CVE-2026-13564?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13564 Edimax EW-7478APC POST Request formPPPoESetup stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-13564?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13570 SourceCodester Inventory Management System User Registration Endpoint users_handler.php cross site scripting](https://vulners.com/cve/CVE-2026-13570?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13570 SourceCodester Inventory Management System User Registration Endpoint users_handler.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-13570?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13595](https://vulners.com/nvd/NVD:CVE-2026-13595?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13601](https://vulners.com/nvd/NVD:CVE-2026-13601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13676 fast-uri vulnerable to host confusion via failed IDN canonicalization](https://vulners.com/cve/CVE-2026-13676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13676 fast-uri vulnerable to host confusion via failed IDN canonicalization](https://vulners.com/cvelist/CVELIST:CVE-2026-13676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22078](https://vulners.com/nvd/NVD:CVE-2026-22078?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25707](https://vulners.com/nvd/NVD:CVE-2026-25707?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3602](https://vulners.com/cve/CVE-2026-3602?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -542,6 +567,8 @@
   - [CVE-2026-53323](https://vulners.com/redhatcve/RH:CVE-2026-53323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53325](https://vulners.com/nvd/NVD:CVE-2026-53325?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54816](https://vulners.com/circl/CIRCL:CVE-2026-54816?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56457 HCL DevOps Deploy / HCL Launch is susceptible to an exposure of sensitive information](https://vulners.com/cve/CVE-2026-56457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56457 HCL DevOps Deploy / HCL Launch is susceptible to an exposure of sensitive information](https://vulners.com/cvelist/CVELIST:CVE-2026-56457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57346](https://vulners.com/nvd/NVD:CVE-2026-57346?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57676](https://vulners.com/nvd/NVD:CVE-2026-57676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57676 WordPress Simple User Avatar plugin <= 4.9 - Insecure Direct Object References (IDOR) vulnerability](https://vulners.com/cve/CVE-2026-57676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -555,6 +582,7 @@
   - [CVE-2026-9267](https://vulners.com/nvd/NVD:CVE-2026-9267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9676](https://vulners.com/circl/CIRCL:CVE-2026-9676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9676](https://vulners.com/nvd/NVD:CVE-2026-9676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Cybersecurity Firm Cyberbit Shuts Down Israel Operations](https://vulners.com/hackread/HACKREAD:BA2D89DD60D937B43EB12201579B673B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-0133](https://vulners.com/githubexploit/DEF05E9F-F1E3-5A4F-86A8-45AC831C7D74?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-48939](https://vulners.com/githubexploit/A2DC23CB-0791-5A41-828F-25B34E8207C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-69212](https://vulners.com/githubexploit/BF7DCB0D-BCFB-51E5-B8DF-4705A1E07674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -610,6 +638,7 @@
   - [Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App](https://www.wired.com/review/yeasound-ric800-hearing-aids/)
 - 不安全
   - [69 年内存价格史（1957–2026）：每 GB 内存价格下降 3210 亿倍](https://buaq.net/go-425792.html)
+  - [CTEM Isn’t Failing. It’s Not Being Operationalized.](https://buaq.net/go-425899.html)
   - [Sandfly 5.8 - Agentless Response and SSH Key Management](https://buaq.net/go-425769.html)
   - [在苹果下架VK和MAX应用后 俄罗斯建议用户切换到安卓平台以继续获得服务](https://buaq.net/go-425778.html)
   - [欧盟初步决定将亚马逊AWS和微软Azure指定为守门人 通过数字市场法严格监管](https://buaq.net/go-425779.html)
