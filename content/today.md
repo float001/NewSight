@@ -2,12 +2,18 @@
 
 - 2Libra
   - [我决定从 7 月开始，好好生活。 1 - 6 月，即当做是和我开玩笑了！](https://2libra.com/post/personal-life/cHC321F)
+- 404 Media
+  - [Tidal Says It Won’t Pay Royalties for AI-Generated Music](https://www.404media.co/tidal-says-it-wont-pay-royalties-for-ai-generated-music/)
 - Ars Technica
   - [Google warns EU's plans to weaken its monopoly could expose user data](https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/)
+- darkreading
+  - [Can Clothes Make You Invisible to Facial Recognition?](https://www.darkreading.com/cyber-risk/clothes-invisible-facial-recognition)
+  - [Iran, Russia, China Target Water Systems for Sabotage](https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage)
 - Fidelis Security
   - [How Fidelis’ Behavioral EDR Improves Threat Detection and Response](https://fidelissecurity.com/threatgeek/endpoint-security/fidelis-edr-behavioral-threat-detection-improves-response/)
 - Hacker News Frontpage
   - [European ISPs Want Rightsholders Held Accountable for Overblocking Damage](https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/)
+  - [JumpServer: Open-Source Privileged Access Management](https://github.com/jumpserver/jumpserver)
   - [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
   - [The 80% Problem: The Last 20% Is Where the Engineer Used to Live](https://www.jonathanbeard.io/blog/2026/06/27/the-80-percent-problem.html)
 - Kali Linux Tutorials
@@ -18,6 +24,7 @@
   - [Count the number of Safari tabs](https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything)
   - [Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding](https://simonwillison.net/2026/Jun/29/ornith/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [pwn-grind exploit](https://sploitus.com/exploit?id=047D7143-EABB-5F2A-A688-499B4431F3D6&utm_source=rss&utm_medium=rss)
   - [xss_writte_up exploit](https://sploitus.com/exploit?id=0E17DEF0-1222-52CC-A48C-346FDC06E436&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price](https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/)
@@ -25,6 +32,7 @@
   - [South Korean tech giants commit over $550B to ease ‘ RAMageddon’](https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/)
   - [TIDAL cracks down on AI music by cutting off monetization](https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/)
   - [Trump administration threatens 92 GW of new electricity supply with red tape](https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/)
+  - [Watch out, Amazon: the Kobo eReader now has a Goodreads rival](https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/)
   - [Waymo and Uber quietly part ways in Phoenix](https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/)
   - [WhatsApp not lets you reserve usernames](https://techcrunch.com/2026/06/29/whatsapp-not-lets-you-reserve-usernames/)
 - The Decoder
@@ -33,7 +41,9 @@
   - [At $499, Apple&#8217;s M3-powered iPad Air is a good deal](https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale)
   - [Congress wants to ban AI companies from selling your health data](https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon)
   - [OpenAI is teasing new hardware… for Codex](https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder)
+  - [Sony&#8217;s next-gen PlayStation will go ‘beyond the living room’](https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room)
   - [The best July 4th sales we found so far](https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale)
+  - [Tidal won’t pay royalties on AI-generated music but isn’t banning it outright](https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label)
   - [WhatsApp is launching usernames: here’s how to reserve yours](https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability)
 - VulDB Recent Entries
   - [CVE-2026-11720 | Google MCP Toolbox for Databases up to 1.2.x Relative URL /api/v1/users path traversal](https://vuldb.com/vuln/374660)
@@ -115,15 +125,26 @@
   - [CVE-2026-13750 Snowflake CLI Sensitive Credential Exposure Through Debug Logging](https://vulners.com/cvelist/CVELIST:CVE-2026-13750?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13751](https://vulners.com/nvd/NVD:CVE-2026-13751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13752](https://vulners.com/nvd/NVD:CVE-2026-13752?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13757](https://vulners.com/nvd/NVD:CVE-2026-13757?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13757 P11-kit: stack exhaustion via unbounded recursion in rpc attribute parsing](https://vulners.com/cve/CVE-2026-13757?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13757 P11-kit: stack exhaustion via unbounded recursion in rpc attribute parsing](https://vulners.com/cvelist/CVELIST:CVE-2026-13757?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41052](https://vulners.com/nvd/NVD:CVE-2026-41052?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44727](https://vulners.com/redhatcve/RH:CVE-2026-44727?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53305](https://vulners.com/redhatcve/RH:CVE-2026-53305?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53426 Atom-table exhaustion denial-of-service via JSON parse_document in MDEx](https://vulners.com/cve/CVE-2026-53426?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53426 Atom-table exhaustion denial-of-service via JSON parse_document in MDEx](https://vulners.com/cvelist/CVELIST:CVE-2026-53426?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53427](https://vulners.com/nvd/NVD:CVE-2026-53427?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53427 Cross-site scripting in MDEx via unescaped highlight_lines_class code-fence attribute](https://vulners.com/cve/CVE-2026-53427?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53427 Cross-site scripting in MDEx via unescaped highlight_lines_class code-fence attribute](https://vulners.com/cvelist/CVELIST:CVE-2026-53427?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53428](https://vulners.com/nvd/NVD:CVE-2026-53428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53428 Unbounded memory allocation in highlight_lines range expansion in mdex](https://vulners.com/cve/CVE-2026-53428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53428 Unbounded memory allocation in highlight_lines range expansion in mdex](https://vulners.com/cvelist/CVELIST:CVE-2026-53428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53429 Unbounded native memory leak in mdex escaped-tag rendering enables unauthenticated denial of service](https://vulners.com/cve/CVE-2026-53429?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53429 Unbounded native memory leak in mdex escaped-tag rendering enables unauthenticated denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-53429?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54888 Uncontrolled recursion over deeply nested Markdown crashes the BEAM in mdex](https://vulners.com/cve/CVE-2026-54888?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54888 Uncontrolled recursion over deeply nested Markdown crashes the BEAM in mdex](https://vulners.com/cvelist/CVELIST:CVE-2026-54888?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54889 Unsanitized URL schemes in MDEx Quill Delta output allow javascript: injection (XSS)](https://vulners.com/cve/CVE-2026-54889?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54889 Unsanitized URL schemes in MDEx Quill Delta output allow javascript: injection (XSS)](https://vulners.com/cvelist/CVELIST:CVE-2026-54889?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56783 Parseable < 2.9.2 - Cleartext Credential Exposure in Notification Target API](https://vulners.com/cve/CVE-2026-56783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56783 Parseable < 2.9.2 - Cleartext Credential Exposure in Notification Target API](https://vulners.com/cvelist/CVELIST:CVE-2026-56783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57942 LibreTranslate - IP Spoofing via X-Forwarded-For Header](https://vulners.com/cve/CVE-2026-57942?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -168,6 +189,11 @@
   - [CVE-2026-57960](https://vulners.com/nvd/NVD:CVE-2026-57960?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57960 Hi.Events 1.9.0 - Unauthenticated Attendee PII Exposure via Check-in List short_id](https://vulners.com/cve/CVE-2026-57960?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57960 Hi.Events 1.9.0 - Unauthenticated Attendee PII Exposure via Check-in List short_id](https://vulners.com/cvelist/CVELIST:CVE-2026-57960?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57999](https://vulners.com/nvd/NVD:CVE-2026-57999?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58000](https://vulners.com/nvd/NVD:CVE-2026-58000?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7871](https://vulners.com/cve/CVE-2026-7871?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7873](https://vulners.com/cve/CVE-2026-7873?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8057](https://vulners.com/cve/CVE-2026-8057?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9105](https://vulners.com/nvd/NVD:CVE-2026-9105?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [firefox: thunderbird: Denial-of-service in the Graphics: ImageLib component](https://vulners.com/redhat/RHSA-2026:30846-CVE-2026-12325?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [firefox: thunderbird: Incorrect boundary conditions in the Graphics: CanvasWebGL component](https://vulners.com/redhat/RHSA-2026:30846-CVE-2026-12324?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -206,6 +232,10 @@
   - [Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input](https://vulners.com/thn/THN:C8391FC028E73E226BA3BA54EF61F2E4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Moderate: Red Hat Security Advisory: glibc security update](https://vulners.com/redhat/RHSA-2026:33126?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [perl-IO-Compress: perl-IO-Compress: Arbitrary code execution via attacker-controlled output glob](https://vulners.com/redhat/RHSA-2026:30860-CVE-2026-48962?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [pwn-grind](https://vulners.com/githubexploit/047D7143-EABB-5F2A-A688-499B4431F3D6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: Code Injection via Custom Component Endpoint with Authentication Bypass](https://vulners.com/ibm/9513971535B5ED223F510E07BFAA4B8CDF4DF09852F47378AC9114B57430C692?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: Code Injection Vulnerability in Code Validation Endpoint](https://vulners.com/ibm/4120E8B5E4F8208E7A7D3AB8B9FC0EF3C1A3A2AD4CF504B35F375FDE1459D91E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: Insecure Deserialization in Redis Cache Backend](https://vulners.com/ibm/A9797F790121A5CEBB6AEF0DDDD3272F949AC6563397A4F58648A9BBB23B6107?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://vulners.com/thn/THN:74266AD71CD94FDB938D1893495B4069?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [xss_writte_up](https://vulners.com/githubexploit/0E17DEF0-1222-52CC-A48C-346FDC06E436?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
