@@ -2,6 +2,9 @@
 
 - 2Libra
   - [我决定从 7 月开始，好好生活。 1 - 6 月，即当做是和我开玩笑了！](https://2libra.com/post/personal-life/cHC321F)
+- 36氪
+  - [中欧贸易投资磋商机制首次会议发表联合声明](https://36kr.com/newsflashes/3874843033949442?f=rss)
+  - [美股三大指数集体收涨，大型科技股多数上涨](https://36kr.com/newsflashes/3874839408153600?f=rss)
 - 404 Media
   - [Tidal Says It Won’t Pay Royalties for AI-Generated Music](https://www.404media.co/tidal-says-it-wont-pay-royalties-for-ai-generated-music/)
 - Ars Technica
@@ -18,6 +21,7 @@
   - [European ISPs Want Rightsholders Held Accountable for Overblocking Damage](https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/)
   - [JumpServer: Open-Source Privileged Access Management](https://github.com/jumpserver/jumpserver)
   - [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
+  - [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html)
   - [The 80% Problem: The Last 20% Is Where the Engineer Used to Live](https://www.jonathanbeard.io/blog/2026/06/27/the-80-percent-problem.html)
 - HackerNoon
   - [Nobody Asked This Agent to Open This Pull Request - It Did Anyway](https://hackernoon.com/nobody-asked-this-agent-to-open-this-pull-request-it-did-anyway?source=rss)
@@ -35,6 +39,7 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Authentication Bypass by Primary Weakness in Crushftp exploit](https://sploitus.com/exploit?id=964E7791-B2DF-59B8-81F3-BEFC914A712D&utm_source=rss&utm_medium=rss)
   - [Exploit for Authentication Bypass by Primary Weakness in Crushftp exploit](https://sploitus.com/exploit?id=983CAFED-3C66-576E-BB1A-B397A3A030D6&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-56782 exploit](https://sploitus.com/exploit?id=2FA22502-8DE9-5029-A733-3794A93C93F9&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce exploit](https://sploitus.com/exploit?id=65F73DD7-40DF-5117-8110-BB18FDB3BD7C&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Control of Dynamically-Managed Code Resources in Kidocode Crawl4Ai exploit](https://sploitus.com/exploit?id=745E87EB-2F7B-5DE3-8689-0B856028F54D&utm_source=rss&utm_medium=rss)
   - [pwn-grind exploit](https://sploitus.com/exploit?id=047D7143-EABB-5F2A-A688-499B4431F3D6&utm_source=rss&utm_medium=rss)
@@ -122,6 +127,7 @@
 - Vulners.com RSS Feed
   - [212 New Venezuela Earthquake Domains Prompt Donation Scam Warnings](https://vulners.com/hackread/HACKREAD:6CDCF7B154C60DEF8886FE077587FBA7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-68429 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2025-68429?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10647](https://vulners.com/nvd/NVD:CVE-2026-10647?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10647 Deadlock denial of service in USB CDC-NCM device class on TX enqueue failure](https://vulners.com/cve/CVE-2026-10647?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10647 Deadlock denial of service in USB CDC-NCM device class on TX enqueue failure](https://vulners.com/cvelist/CVELIST:CVE-2026-10647?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11720 Path Traversal in googleapis/mcp-toolbox HTTP Tool URL Builder](https://vulners.com/cve/CVE-2026-11720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -152,6 +158,7 @@
   - [CVE-2026-13758](https://vulners.com/nvd/NVD:CVE-2026-13758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13758 CryptX versions before 0.088_001 for Perl compare AEAD authentication tags in non-constant time in the streaming decrypt_done path](https://vulners.com/cve/CVE-2026-13758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13758 CryptX versions before 0.088_001 for Perl compare AEAD authentication tags in non-constant time in the streaming decrypt_done path](https://vulners.com/cvelist/CVELIST:CVE-2026-13758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-34592](https://vulners.com/nvd/NVD:CVE-2026-34592?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-34592 Coolify: Cross-Team IDOR via Unscoped Server and Project Lookups Exposes SSH Keys and Infrastructure](https://vulners.com/cve/CVE-2026-34592?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-34592 Coolify: Cross-Team IDOR via Unscoped Server and Project Lookups Exposes SSH Keys and Infrastructure](https://vulners.com/cvelist/CVELIST:CVE-2026-34592?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-34594](https://vulners.com/nvd/NVD:CVE-2026-34594?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -180,6 +187,7 @@
   - [CVE-2026-50229](https://vulners.com/nvd/NVD:CVE-2026-50229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50229 Apache Tomcat: XSS in number guess example](https://vulners.com/cve/CVE-2026-50229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50229 Apache Tomcat: XSS in number guess example](https://vulners.com/cvelist/CVELIST:CVE-2026-50229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-51221](https://vulners.com/nvd/NVD:CVE-2026-51221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53305](https://vulners.com/redhatcve/RH:CVE-2026-53305?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53404](https://vulners.com/nvd/NVD:CVE-2026-53404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53404 Apache Tomcat: Bad ornext processing in RewriteValve](https://vulners.com/cve/CVE-2026-53404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -265,16 +273,22 @@
   - [CVE-2026-57960](https://vulners.com/nvd/NVD:CVE-2026-57960?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57960 Hi.Events 1.9.0 - Unauthenticated Attendee PII Exposure via Check-in List short_id](https://vulners.com/cve/CVE-2026-57960?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57960 Hi.Events 1.9.0 - Unauthenticated Attendee PII Exposure via Check-in List short_id](https://vulners.com/cvelist/CVELIST:CVE-2026-57960?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57997](https://vulners.com/nvd/NVD:CVE-2026-57997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57997 Strapi users-permissions - JWT Algorithm Confusion via Missing Algorithm Configuration](https://vulners.com/cve/CVE-2026-57997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57997 Strapi users-permissions - JWT Algorithm Confusion via Missing Algorithm Configuration](https://vulners.com/cvelist/CVELIST:CVE-2026-57997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57999](https://vulners.com/nvd/NVD:CVE-2026-57999?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58000](https://vulners.com/nvd/NVD:CVE-2026-58000?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7656 Broken IPv6 Neighbor Discovery input validation allows spoofed RA/NS/NA acceptance in Zephyr net stack](https://vulners.com/cve/CVE-2026-7656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7656 Broken IPv6 Neighbor Discovery input validation allows spoofed RA/NS/NA acceptance in Zephyr net stack](https://vulners.com/cvelist/CVELIST:CVE-2026-7656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7871](https://vulners.com/cve/CVE-2026-7871?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7873](https://vulners.com/cve/CVE-2026-7873?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8023 Path traversal in Zephyr HTTP server static-filesystem resource handler allows unauthenticated remote arbitrary file read](https://vulners.com/cve/CVE-2026-8023?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8023 Path traversal in Zephyr HTTP server static-filesystem resource handler allows unauthenticated remote arbitrary file read](https://vulners.com/cvelist/CVELIST:CVE-2026-8023?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8057](https://vulners.com/cve/CVE-2026-8057?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9105](https://vulners.com/nvd/NVD:CVE-2026-9105?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Authentication Bypass by Primary Weakness in Crushftp](https://vulners.com/githubexploit/964E7791-B2DF-59B8-81F3-BEFC914A712D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Authentication Bypass by Primary Weakness in Crushftp](https://vulners.com/githubexploit/983CAFED-3C66-576E-BB1A-B397A3A030D6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-56782](https://vulners.com/githubexploit/2FA22502-8DE9-5029-A733-3794A93C93F9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce](https://vulners.com/githubexploit/65F73DD7-40DF-5117-8110-BB18FDB3BD7C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Control of Dynamically-Managed Code Resources in Kidocode Crawl4Ai](https://vulners.com/githubexploit/745E87EB-2F7B-5DE3-8689-0B856028F54D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [firefox: thunderbird: Denial-of-service in the Graphics: ImageLib component](https://vulners.com/redhat/RHSA-2026:30846-CVE-2026-12325?utm_source=rss&utm_medium=rss&utm_campaign=rss)
