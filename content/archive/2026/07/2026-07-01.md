@@ -3,27 +3,46 @@
 - 2Libra
   - [【骡马假日】西电东输！探访能量之源～ ⚡️⚡️⚡️](https://2libra.com/post/travel-logs/MvyFEns)
 - Cybersecurity News
+  - [Adobe ColdFusion Vulnerabilities Reach CVSS 10 With Arbitrary Code Execution](https://securityonline.info/adobe-coldfusion-vulnerabilities-apsb26-68/)
   - [Six NetScaler Vulnerabilities Allow Denial of Service and File Read](https://securityonline.info/netscaler-vulnerabilities-cve-2026-8451/)
 - daringfireball.net
   - [CMA Consultation on Mobile App Steering and NFC Access](https://www.gov.uk/government/news/cma-consults-on-new-requirements-for-apple-and-googles-mobile-platforms)
 - Google DeepMind Blog
   - [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/)
 - Hacker News Frontpage
+  - [Claude Science](https://claude.com/product/claude-science)
   - [EU commissioners shut down air conditioning for employees, leave theirs on](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
+  - [I built a mmWave material classification radar](https://gauthier-lechevalier.com/radar)
+  - [Supreme Court takes sledgehammer to federal regulatory structure](https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure)
 - infosecurity-magazine.com
   - [Nissan Discloses Employee Data Breach Linked to Oracle Zero-Day](https://www.infosecurity-magazine.com/news/nissan-oracle-peoplesoft-zero-day/)
+- MIT Technology Review
+  - [Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body](https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/)
 - NVIDIA AI Blog
   - [NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science](https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/)
+- Recent Commits to cve:main
+  - [Update Tue Jun 30 18:01:39 UTC 2026](https://github.com/trickest/cve/commit/e3f4d93d13d3e8579104f71883fe70f9b3a3dee0)
+- Security Uncorked
+  - [The AI Identity Gap Nobody in My CISO Groups Is Solving Yet](https://securityuncorked.com/2026/06/the-ai-identity-gap-nobody-in-my-ciso-groups-is-solving-yet/)
 - simonwillison.net
   - [Have your agent record video demos of its work with shot-scraper video](https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything)
+  - [The AI Compass](https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [cossacks-back-to-war-exploit exploit](https://sploitus.com/exploit?id=62277C7B-7BD2-58C4-91D7-0A8667D8F49A&utm_source=rss&utm_medium=rss)
   - [Exploit for Reliance on Untrusted Inputs in a Security Decision in Microsoft exploit](https://sploitus.com/exploit?id=289C51DB-789E-5BBC-869B-291AC527B641&utm_source=rss&utm_medium=rss)
   - [nationstate-cyber-tools exploit](https://sploitus.com/exploit?id=BE0CD08D-6728-58C0-8A1A-553F21FB9D74&utm_source=rss&utm_medium=rss)
+  - [stack-buffer-overflow-lab exploit](https://sploitus.com/exploit?id=871DDD96-CF98-5B7C-99B6-28D1C125145C&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Acti puts AI agents directly into your smartphone keyboard](https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/)
+  - [Anthropic launches Claude Sonnet 5 as a cheaper way to run agents](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/)
   - [Blue Origin still doesn’t know why its New Glenn rocket blew up last month](https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/)
   - [Threads adds new features to Live Chats as it expands access](https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/)
+- The Decoder
+  - [Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API](https://the-decoder.com/google-launches-nano-banana-2-lite-for-fast-ai-images-and-gemini-omni-flash-for-video-via-api/)
+  - [OpenAI reportedly cut response costs for guest ChatGPT users by more than half](https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/)
 - The Verge
+  - [Moto&#8217;s Tag 2 tracker is $20 for a limited time](https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale)
+  - [Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show](https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder)
   - [What is a quantum computer good for? Absolutely nothing — yet](https://www.theverge.com/science/959466/quantum-computer-majorana-2-microsoft-trump-eo)
 - VulDB Recent Entries
   - [CVE-2026-13455 | Dalibo PostgreSQL Anonymizer up to 3.1.1 anon.hash weak hash](https://vuldb.com/vuln/374868)
@@ -40,13 +59,18 @@
   - [CVE-2026-8452 | Citrix NetScaler ADC/NetScaler Gateway Virtual Server Page denial of service (CTX696604)](https://vuldb.com/vuln/374854)
 - Vulners.com RSS Feed
   - [cossacks-back-to-war-exploit](https://vulners.com/githubexploit/62277C7B-7BD2-58C4-91D7-0A8667D8F49A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10652](https://vulners.com/nvd/NVD:CVE-2026-10652?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10653](https://vulners.com/nvd/NVD:CVE-2026-10653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10653 Non-atomic `net_buf` reference counts cause double-free / free-list corruption under concurrent unref](https://vulners.com/cve/CVE-2026-10653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10653 Non-atomic `net_buf` reference counts cause double-free / free-list corruption under concurrent unref](https://vulners.com/cvelist/CVELIST:CVE-2026-10653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10654](https://vulners.com/nvd/NVD:CVE-2026-10654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10654 RFCOMM session-disconnect race leaks session/L2CAP and denies further RFCOMM service in Zephyr Bluetooth Classic](https://vulners.com/cve/CVE-2026-10654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10654 RFCOMM session-disconnect race leaks session/L2CAP and denies further RFCOMM service in Zephyr Bluetooth Classic](https://vulners.com/cvelist/CVELIST:CVE-2026-10654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10655](https://vulners.com/nvd/NVD:CVE-2026-10655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10655 Use-after-free race in SNTP async client when closing the socket while the socket service is still polling it](https://vulners.com/cve/CVE-2026-10655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10655 Use-after-free race in SNTP async client when closing the socket while the socket service is still polling it](https://vulners.com/cvelist/CVELIST:CVE-2026-10655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13455](https://vulners.com/nvd/NVD:CVE-2026-13455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-29167](https://vulners.com/redhatcve/RH:CVE-2026-29167?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44948](https://vulners.com/nvd/NVD:CVE-2026-44948?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48276](https://vulners.com/nvd/NVD:CVE-2026-48276?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48277](https://vulners.com/nvd/NVD:CVE-2026-48277?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -59,13 +83,41 @@
   - [CVE-2026-48313](https://vulners.com/nvd/NVD:CVE-2026-48313?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48314](https://vulners.com/nvd/NVD:CVE-2026-48314?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48315](https://vulners.com/nvd/NVD:CVE-2026-48315?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49432](https://vulners.com/redhatcve/RH:CVE-2026-49432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49434](https://vulners.com/redhatcve/RH:CVE-2026-49434?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49451](https://vulners.com/nvd/NVD:CVE-2026-49451?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58165](https://vulners.com/nvd/NVD:CVE-2026-58165?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58166](https://vulners.com/nvd/NVD:CVE-2026-58166?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58167](https://vulners.com/nvd/NVD:CVE-2026-58167?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58168](https://vulners.com/nvd/NVD:CVE-2026-58168?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58169](https://vulners.com/nvd/NVD:CVE-2026-58169?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58170](https://vulners.com/nvd/NVD:CVE-2026-58170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58171](https://vulners.com/nvd/NVD:CVE-2026-58171?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58172](https://vulners.com/nvd/NVD:CVE-2026-58172?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58173](https://vulners.com/nvd/NVD:CVE-2026-58173?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58174](https://vulners.com/nvd/NVD:CVE-2026-58174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58176](https://vulners.com/nvd/NVD:CVE-2026-58176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58369](https://vulners.com/nvd/NVD:CVE-2026-58369?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58370](https://vulners.com/nvd/NVD:CVE-2026-58370?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58371](https://vulners.com/nvd/NVD:CVE-2026-58371?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58372](https://vulners.com/nvd/NVD:CVE-2026-58372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58373](https://vulners.com/nvd/NVD:CVE-2026-58373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58375](https://vulners.com/nvd/NVD:CVE-2026-58375?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58376](https://vulners.com/nvd/NVD:CVE-2026-58376?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58377](https://vulners.com/nvd/NVD:CVE-2026-58377?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8864](https://vulners.com/nvd/NVD:CVE-2026-8864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8864 HP Fan Control App – Potential Escalation of Privilege](https://vulners.com/cve/CVE-2026-8864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8864 HP Fan Control App – Potential Escalation of Privilege](https://vulners.com/cvelist/CVELIST:CVE-2026-8864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9263](https://vulners.com/nvd/NVD:CVE-2026-9263?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Reliance on Untrusted Inputs in a Security Decision in Microsoft](https://vulners.com/githubexploit/289C51DB-789E-5BBC-869B-291AC527B641?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: ruby:3.3 security update](https://vulners.com/redhat/RHSA-2026:33515?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data](https://vulners.com/thn/THN:37D29293C42AEFD7504A2E2BEBB8A524?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nationstate-cyber-tools](https://vulners.com/githubexploit/BE0CD08D-6728-58C0-8A1A-553F21FB9D74?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [net-imap: ruby: Net::IMAP: Information disclosure via man-in-the-middle attack bypassing TLS](https://vulners.com/redhat/RHSA-2026:33515-CVE-2026-42246?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [New EvilTokens Attack Exposes Browser Visibility Gap in Enterprise SOCs](https://vulners.com/hackread/HACKREAD:5CB111601946A41581FBDA03554214D0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ruby/net-imap: ruby: Net::IMAP: IMAP Command Injection via Symbol Arguments](https://vulners.com/redhat/RHSA-2026:33515-CVE-2026-42258?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ruby: net-imap: Net::IMAP: Denial of Service via crafted IMAP responses](https://vulners.com/redhat/RHSA-2026:33515-CVE-2026-42245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS](https://vulners.com/thn/THN:56D673F9C000319584F3260FEEE6F37F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [stack-buffer-overflow-lab](https://vulners.com/githubexploit/871DDD96-CF98-5B7C-99B6-28D1C125145C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
