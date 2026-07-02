@@ -2,7 +2,9 @@
 
 - 2Libra
   - [【AI】实测干净的节点不仅不降智，还会有额外好处](https://2libra.com/post/ai-tools/W6csB8b)
+  - [【投票】潘多拉-金币升降机是不是过于亏模了？](https://2libra.com/post/forum-function/856bIMJ)
   - [一人一句：能够瞬间让人醍醐灌顶的一句话](https://2libra.com/post/questions/CiOAple)
+  - [修改 forkgram/tdesktop 实现不查看某人的头像](https://2libra.com/post/open-source-sharing/wRIUyHj)
   - [哈基米 之潘多拉阳谋](https://2libra.com/post/forum-function/bsvB3Dw)
   - [回归起点！](https://2libra.com/post/forum-function/xfNwcdc)
   - [我也混沌了，但头像好像直接变没了](https://2libra.com/post/community/kR78pgJ)
@@ -14,7 +16,9 @@
   - [36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景](https://36kr.com/p/3877863381741577?f=rss)
   - [36氪首发丨北大博士量子团队获高瓴创投领投，国内唯一实现纳开温区量子计算机工程化](https://36kr.com/p/3877814169530630?f=rss)
   - [8点1氪丨宾利低至27万，二手豪华燃油车价格大跳水；Anthropic回应暗藏代码检测中国用户；寒武纪市值一日蒸发700亿](https://36kr.com/p/3877746956611847?f=rss)
+  - [AI版支付宝开放公测，上线72项办事技能](https://36kr.com/newsflashes/3877977394770183?f=rss)
   - [A股IPO保荐半年盘点：三大券商领跑，中小投行借北交所突围](https://36kr.com/newsflashes/3877734576337160?f=rss)
+  - [A股三大指数午间休盘集体下跌，汽车股领涨](https://36kr.com/newsflashes/3877947098230793?f=rss)
   - [A股三大指数均大幅低开，中际旭创跌超5%](https://36kr.com/newsflashes/3877823806566664?f=rss)
   - [IPO业务“半年考”：创业板、科创板受理数量翻倍增长](https://36kr.com/newsflashes/3877708290748678?f=rss)
   - [SAP任命Verena Siow为亚太区总裁](https://36kr.com/newsflashes/3877869812625417?f=rss)
@@ -38,6 +42,7 @@
   - [创业板指跌超4%](https://36kr.com/newsflashes/3877831303131140?f=rss)
   - [创新药板块表现活跃，机构：板块有望迎来新一轮估值修复机会](https://36kr.com/newsflashes/3877777365430530?f=rss)
   - [券商资管管理的公募基金规模逼近万亿关口](https://36kr.com/newsflashes/3877742742597633?f=rss)
+  - [半日主力资金抛售非银金融、电子股](https://36kr.com/newsflashes/3877967342841862?f=rss)
   - [华泰证券：厄尔尼诺或带来大水电估值修复机会](https://36kr.com/newsflashes/3877732252020736?f=rss)
   - [华泰证券：看好本轮锂电涨价周期，同时看好钠电池与固态电池新技术产业化趋势](https://36kr.com/newsflashes/3877734956855555?f=rss)
   - [华泰证券：高股息板块底仓配置价值仍具吸引力](https://36kr.com/newsflashes/3877739812040960?f=rss)
@@ -48,7 +53,9 @@
   - [库迪咖啡旗下安徽高科技公司增资至1亿](https://36kr.com/newsflashes/3877908765552640?f=rss)
   - [微软拟在销售、工程、Xbox领域裁员数千人](https://36kr.com/newsflashes/3877691896606724?f=rss)
   - [必和必拓申请15亿美元智利铜矿重启项目审批](https://36kr.com/newsflashes/3877693263147015?f=rss)
+  - [恒指午间休盘涨1.19%，恒生科技指数涨0.62%](https://36kr.com/newsflashes/3877976877707524?f=rss)
   - [恒指开盘涨0.83%，恒生科技指数涨1.25%](https://36kr.com/newsflashes/3877819691872256?f=rss)
+  - [恒生指数公司联同数码港推出主题指数探索计划，促进以人工智能驱动指数创新](https://36kr.com/newsflashes/3877929435082752?f=rss)
   - [恒生科技指数涨幅扩大至2%](https://36kr.com/newsflashes/3877854473416968?f=rss)
   - [成本上涨与市场需求双轮驱动，半导体开启年内第二轮涨价](https://36kr.com/newsflashes/3877715547287553?f=rss)
   - [本田美国6月销量同比涨17%](https://36kr.com/newsflashes/3877748617261059?f=rss)
@@ -57,13 +64,16 @@
   - [沪深两市成交额突破2万亿元](https://36kr.com/newsflashes/3877915705094144?f=rss)
   - [沪深两市成交额突破5000亿元](https://36kr.com/newsflashes/3877837047492865?f=rss)
   - [现货白银日内涨幅扩大至1%](https://36kr.com/newsflashes/3877800564649991?f=rss)
+  - [现货白银日内涨幅达2%](https://36kr.com/newsflashes/3877959956328449?f=rss)
   - [理财资金滴灌硬科技，股权投资渐入收获期](https://36kr.com/newsflashes/3877708953268486?f=rss)
   - [瑞典法院裁定谷歌须支付近15亿美元反垄断赔偿金](https://36kr.com/newsflashes/3877692702077189?f=rss)
   - [科技主题表现突出，约七成权益类保险资管产品上半年实现正回报](https://36kr.com/newsflashes/3877738149703683?f=rss)
   - [美联储7月维持利率不变的概率为71.7%](https://36kr.com/newsflashes/3877692347560201?f=rss)
   - [美股三大指数集体收跌，SpaceX跌超7%](https://36kr.com/newsflashes/3877680397562115?f=rss)
   - [股权承销马太效应凸显，上半年五大券商投行分得80%以上募资额](https://36kr.com/newsflashes/3877711239655684?f=rss)
+  - [英伟达为GPU采购提供融资支持，并从云计算收入中抽取一定比例分成](https://36kr.com/newsflashes/3877951264239877?f=rss)
   - [苹果或明年将推出新款iPad Pro和重新设计的入门版MacBook Pro](https://36kr.com/newsflashes/3877693547900930?f=rss)
+  - [苹果拟于今明两年推出至少五款新iPhone，折叠屏出货量超预期](https://36kr.com/newsflashes/3877934900441353?f=rss)
   - [融捷股份：南沙正极材料项目尚未投产](https://36kr.com/newsflashes/3877798593310723?f=rss)
   - [购车群体陷入“提车即过时”迭代焦虑，新能源汽车新品红利周期大幅压缩](https://36kr.com/newsflashes/3877768269967616?f=rss)
   - [钉钉凭借悟空入选Gartner首份《企业AI助手市场指南》报告](https://36kr.com/newsflashes/3877897421991937?f=rss)
@@ -108,6 +118,7 @@
   - [Proliferate (YC S25) Is Hiring](https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer)
   - [Reduce GVisor Cold Starts with GPU Snapshotting](https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second)
   - [Show HN: AnalystAIPack – 118 runnable agent skills for malware analysis and RE](https://meltedinhex.com/posts/analyst-ai-pack/)
+  - [Show HN: Meow – The 4th and final JavaScript runtime and toolchain](https://meow.style)
   - [Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps](https://github.com/Division-36/Z-Jail/)
   - [ZCode: Claude Code from the Makers of GLM](https://zcode.z.ai/cn)
 - HackerNoon
@@ -116,6 +127,13 @@
 - IEEE Spectrum
   - [As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration](https://spectrum.ieee.org/ai-energy-systems-melbourne)
   - [Why Public Speaking Skills Are Worth Investing In](https://spectrum.ieee.org/improve-public-speaking-skills)
+- Kali Linux Tutorials
+  - [Install Google Chrome on Ubuntu 20.04: Download and Setup Guide](https://kalilinuxtutorials.com/install-google-chrome-ubuntu/)
+  - [Install Java on Ubuntu 20.04: OpenJDK 11, JDK 8, and JAVA_HOME](https://kalilinuxtutorials.com/install-java-on-ubuntu/)
+  - [Install pip on Ubuntu 20.04: Python 3, Python 2, and Usage Guide](https://kalilinuxtutorials.com/install-pip-on-ubuntu/)
+  - [Install Ubuntu on Raspberry Pi: Flash, Configure, and Boot](https://kalilinuxtutorials.com/install-ubuntu-raspberry-pi/)
+- NVIDIA AI Blog
+  - [NVIDIA Unlocks AI Compute at Scale, Inviting Capital Partners to Power the AI Infrastructure Buildout](https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/)
 - rtl-sdr.com
   - [InmarScope: An Inmarsat AERO and STD-C Decoder with Multichannel Decoding and Automatic Call Following](https://www.rtl-sdr.com/inmarscope-an-inmarsat-aero-and-std-c-decoder-with-multichannel-decoding-and-automatic-call-following/)
   - [QuadRF Now Crowdfunding on Crowd Supply for $499](https://www.rtl-sdr.com/quadrf-now-crowdfunding-on-crowd-supply-for-499/)
@@ -676,7 +694,10 @@
   - [The 49 Best Outdoor Deals From the REI 4th of July Sale](https://www.wired.com/story/rei-4th-of-july-sale-2026/)
   - [The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq](https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/)
   - [You Can Now Sound the Alarm on AI Behaving Badly](https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/)
+- 不安全
+  - [现在的VPS都是天价：DMIT东京和香港CN2GIA服务器补货 起步价22美元/月](https://buaq.net/go-426564.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [ChatGPT 这些翻车回答，居然是 Meta 找外包干的](https://www.ifanr.com/1670735?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝Apple Watch设计将大改，旧表带或被淘汰/封号潮后，Fable 5解禁/三星眼镜外观曝光](https://www.ifanr.com/1670732?utm_source=rss&utm_medium=rss&utm_campaign=)
