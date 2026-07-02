@@ -20,11 +20,16 @@
 - daringfireball.net
   - [Claude Fable and Kayfabe](https://www.anthropic.com/news/redeploying-fable-5)
   - [MG Siegler Got Banned From WhatsApp for No Reason](https://spyglass.org/whatsapp-ban/)
+  - [Truth Social Is Still Just Trump’s Blog](https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog)
+  - [‘A Perfect Reflection of Trump’s Washington’](https://politicalwire.com/2026/06/19/a-perfect-reflection-of-trumps-washington/)
   - [‘Why Is Meta Destroying Its Engineering Organization?’](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering)
 - darkreading
   - [Ransomware Thugs Masquerade as Interpol to Entice Small Biz](https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses)
 - Hacker News Frontpage
   - [Exapunks](https://www.zachtronics.com/exapunks/)
+  - [Job seekers giving up: Labor force participation falls to lowest in 50 years](https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html)
+- krebsonsecurity.com
+  - [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
 - NowSecure
   - [OWASP MAScon Vienna Showed the Future of Mobile Application Security](https://www.nowsecure.com/blog/2026/07/02/owasp-mascon-vienna-showed-the-future-of-mobile-application-security/)
 - simonwillison.net
@@ -32,7 +37,10 @@
   - [Using DSPy to evaluate and improve Datasette Agent's SQL system prompts](https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Improper Verification of Cryptographic Signature in Simple-Help Simplehelp exploit](https://sploitus.com/exploit?id=4718919B-920F-5EFC-BAC2-307537132DE2&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Sangoma Freepbx exploit](https://sploitus.com/exploit?id=AAA83D2F-7B0F-5EDC-8E6D-2EA1286F66A3&utm_source=rss&utm_medium=rss)
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Devcode Openstamanager exploit](https://sploitus.com/exploit?id=A71F4BF2-E95B-58C0-AA13-DA1EBECAF6E5&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [A warning sign about AI’s real cost, courtesy of Google and Amazon](https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/)
   - [Anthropic is discussing a new custom chip with Samsung](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/)
   - [Boeing-owned Wisk Aero accused of firing manager who raised safety concerns](https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/)
   - [Meta quietly launches vibe-coded gaming app Pocket](https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/)
@@ -40,6 +48,7 @@
 - The Decoder
   - [Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters](https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/)
   - [Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models "want a smaller system prompt"](https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/)
+  - [Microsoft launches $2.5 billion "Frontier Company" to embed 6,000 AI engineers inside enterprise clients](https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/)
 - The Verge
   - [The video game disc is dead](https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast)
   - [Weber marks down grills and griddles to their best prices ever for July 4th](https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal)
@@ -49,6 +58,7 @@
   - [CVE-2022-50973](https://vulners.com/nvd/NVD:CVE-2022-50973?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-14037](https://vulners.com/nvd/NVD:CVE-2024-14037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-58352](https://vulners.com/nvd/NVD:CVE-2024-58352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13743](https://vulners.com/nvd/NVD:CVE-2026-13743?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13743 Improper verification of cryptographic signature in CubeSpace CW0057 Reaction Wheel](https://vulners.com/cve/CVE-2026-13743?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13743 Improper verification of cryptographic signature in CubeSpace CW0057 Reaction Wheel](https://vulners.com/cvelist/CVELIST:CVE-2026-13743?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44935](https://vulners.com/nvd/NVD:CVE-2026-44935?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -69,10 +79,16 @@
   - [CVE-2026-55950](https://vulners.com/nvd/NVD:CVE-2026-55950?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55952](https://vulners.com/nvd/NVD:CVE-2026-55952?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58455](https://vulners.com/nvd/NVD:CVE-2026-58455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58465](https://vulners.com/nvd/NVD:CVE-2026-58465?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7311](https://vulners.com/nvd/NVD:CVE-2026-7311?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7311 TinyPNG <= 3.6.13 - Authenticated (Author+) Arbitrary File Deletion via 'convert.path' in 'tiny_compress_images' Post Meta](https://vulners.com/cve/CVE-2026-7311?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7311 TinyPNG <= 3.6.13 - Authenticated (Author+) Arbitrary File Deletion via 'convert.path' in 'tiny_compress_images' Post Meta](https://vulners.com/cvelist/CVELIST:CVE-2026-7311?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8699](https://vulners.com/nvd/NVD:CVE-2026-8699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Verification of Cryptographic Signature in Simple-Help Simplehelp](https://vulners.com/githubexploit/4718919B-920F-5EFC-BAC2-307537132DE2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for SQL Injection in Sangoma Freepbx](https://vulners.com/githubexploit/AAA83D2F-7B0F-5EDC-8E6D-2EA1286F66A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Devcode Openstamanager](https://vulners.com/githubexploit/A71F4BF2-E95B-58C0-AA13-DA1EBECAF6E5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://vulners.com/krebs/KREBS:275238372492A2A644A4389928F4E4C9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [inflateghost](https://vulners.com/githubexploit/9F797081-D831-512F-B297-552427D03E3E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Kerberos Hub private key (X-Kerberos-Hub-PrivateKey) leaked to cross-host redirect target due to redirect-following HTTP client without CheckRedirect](https://vulners.com/github/GHSA-H5GX-45RJ-2H5J?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenClaw: Combined POSIX shell options could confuse exec revalidation](https://vulners.com/github/GHSA-VXX3-6HC9-7CC3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenClaw: Feishu dynamic-agent bindings could miss configWrites enforcement](https://vulners.com/github/GHSA-3WQP-PRF6-2M72?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -87,6 +103,7 @@
   - [OpenClaw: Telegram interactive callbacks could skip commands.allowFrom](https://vulners.com/github/GHSA-W5WW-7CHG-MXCQ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenClaw: Trusted retry endpoint checks could match hostname prefixes](https://vulners.com/github/GHSA-77Q5-RR5V-X43Q?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://vulners.com/thn/THN:77F12A272980622074814C38FB498DF8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [vulconcern](https://vulners.com/githubexploit/292945E9-3FD7-5585-A813-ED58A4E608EF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul](https://www.wired.com/story/spotify-streaming-manipulation-prediction-markets-polymarket-kalshi/)
   - [The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH](https://www.wired.com/story/the-dea-plans-to-ban-kratom-compound-7-oh-sold-as-a-gas-station-opioid/)
