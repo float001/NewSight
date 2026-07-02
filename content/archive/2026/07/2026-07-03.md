@@ -3,6 +3,7 @@
 - 2Libra
   - [linux.do 在网页嵌了一段伪装成”网站规则”的文字](https://2libra.com/post/sharing-discoveries/eQW_I9m)
   - [【骡马假日】坎儿井！火焰山！在吐鲁番感受人类生存极限～ 🔥🔥🔥](https://2libra.com/post/travel-logs/Tj9mKq9)
+  - [我终于也有卡皮巴拉了！](https://2libra.com/post/forum-function/H7FC8Yw)
 - Ars Technica
   - [Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages](https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/)
   - [Ars Live recap: When are the big rockets NASA desperately needs going to be ready?](https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/)
@@ -11,31 +12,45 @@
   - [Plex debuts 5-year membership pass for $250](https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/)
 - Blog - Praetorian
   - [Knossos: Procedurally Generated Decoy Environments](https://www.praetorian.com/blog/knossos-decoy-environments/)
+- blog.jim-nielsen.com
+  - [This Page Left Intentionally Blank](https://blog.jim-nielsen.com/2026/intentionally-blank/)
 - Cybersecurity News
   - [Apache HttpComponents Core Patches Two DoS Vulnerabilities in HTTP Parsers](https://securityonline.info/apache-httpcomponents-core-dos/)
   - [Citrix NetScaler Vulnerability CVE-2026-8451 Exploited in the Wild as PoC Goes Public](https://securityonline.info/citrix-netscaler-cve-2026-8451/)
 - daringfireball.net
+  - [Claude Fable and Kayfabe](https://www.anthropic.com/news/redeploying-fable-5)
   - [MG Siegler Got Banned From WhatsApp for No Reason](https://spyglass.org/whatsapp-ban/)
   - [‘Why Is Meta Destroying Its Engineering Organization?’](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering)
+- darkreading
+  - [Ransomware Thugs Masquerade as Interpol to Entice Small Biz](https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses)
+- Hacker News Frontpage
+  - [Exapunks](https://www.zachtronics.com/exapunks/)
 - NowSecure
   - [OWASP MAScon Vienna Showed the Future of Mobile Application Security](https://www.nowsecure.com/blog/2026/07/02/owasp-mascon-vienna-showed-the-future-of-mobile-application-security/)
 - simonwillison.net
   - [Understand to participate](https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything)
+  - [Using DSPy to evaluate and improve Datasette Agent's SQL system prompts](https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Improper Verification of Cryptographic Signature in Simple-Help Simplehelp exploit](https://sploitus.com/exploit?id=4718919B-920F-5EFC-BAC2-307537132DE2&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Anthropic is discussing a new custom chip with Samsung](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/)
   - [Boeing-owned Wisk Aero accused of firing manager who raised safety concerns](https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/)
+  - [Meta quietly launches vibe-coded gaming app Pocket](https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/)
+  - [Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees](https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/)
 - The Decoder
   - [Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters](https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/)
   - [Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models "want a smaller system prompt"](https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/)
 - The Verge
   - [The video game disc is dead](https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast)
+  - [Weber marks down grills and griddles to their best prices ever for July 4th](https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal)
 - Vulners.com RSS Feed
   - [Cmov/CmovEq on aarch64 can produce wrong results if high-bits of registers are set](https://vulners.com/github/GHSA-3RJW-M598-PQ24?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Contour has Improper JWT Verification for Non-SNI Requests on Virtual Hosts with Fallback Certificate Enabled](https://vulners.com/github/GHSA-G3XR-5W5J-W4Q4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2022-50973](https://vulners.com/nvd/NVD:CVE-2022-50973?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-14037](https://vulners.com/nvd/NVD:CVE-2024-14037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-58352](https://vulners.com/nvd/NVD:CVE-2024-58352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13743 Improper verification of cryptographic signature in CubeSpace CW0057 Reaction Wheel](https://vulners.com/cve/CVE-2026-13743?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13743 Improper verification of cryptographic signature in CubeSpace CW0057 Reaction Wheel](https://vulners.com/cvelist/CVELIST:CVE-2026-13743?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44935](https://vulners.com/nvd/NVD:CVE-2026-44935?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44941](https://vulners.com/nvd/NVD:CVE-2026-44941?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47204](https://vulners.com/redhatcve/RH:CVE-2026-47204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -54,6 +69,8 @@
   - [CVE-2026-55950](https://vulners.com/nvd/NVD:CVE-2026-55950?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55952](https://vulners.com/nvd/NVD:CVE-2026-55952?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58455](https://vulners.com/nvd/NVD:CVE-2026-58455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7311 TinyPNG <= 3.6.13 - Authenticated (Author+) Arbitrary File Deletion via 'convert.path' in 'tiny_compress_images' Post Meta](https://vulners.com/cve/CVE-2026-7311?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7311 TinyPNG <= 3.6.13 - Authenticated (Author+) Arbitrary File Deletion via 'convert.path' in 'tiny_compress_images' Post Meta](https://vulners.com/cvelist/CVELIST:CVE-2026-7311?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8699](https://vulners.com/nvd/NVD:CVE-2026-8699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Verification of Cryptographic Signature in Simple-Help Simplehelp](https://vulners.com/githubexploit/4718919B-920F-5EFC-BAC2-307537132DE2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Kerberos Hub private key (X-Kerberos-Hub-PrivateKey) leaked to cross-host redirect target due to redirect-following HTTP client without CheckRedirect](https://vulners.com/github/GHSA-H5GX-45RJ-2H5J?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -69,7 +86,9 @@
   - [OpenClaw: Slack and Zalo webhook secrets could remain active after secrets.reload](https://vulners.com/github/GHSA-275C-XPVC-JGFW?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenClaw: Telegram interactive callbacks could skip commands.allowFrom](https://vulners.com/github/GHSA-W5WW-7CHG-MXCQ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenClaw: Trusted retry endpoint checks could match hostname prefixes](https://vulners.com/github/GHSA-77Q5-RR5V-X43Q?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://vulners.com/thn/THN:77F12A272980622074814C38FB498DF8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul](https://www.wired.com/story/spotify-streaming-manipulation-prediction-markets-polymarket-kalshi/)
   - [The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH](https://www.wired.com/story/the-dea-plans-to-ban-kratom-compound-7-oh-sold-as-a-gas-station-opioid/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
