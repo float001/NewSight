@@ -9,22 +9,66 @@
   - [Artificial cell manages a few rounds of cell division](https://arstechnica.com/science/2026/07/artificial-cell-manages-a-few-rounds-of-cell-division/)
   - [Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion](https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/)
   - [Plex debuts 5-year membership pass for $250](https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/)
+- Blog - Praetorian
+  - [Knossos: Procedurally Generated Decoy Environments](https://www.praetorian.com/blog/knossos-decoy-environments/)
 - Cybersecurity News
   - [Apache HttpComponents Core Patches Two DoS Vulnerabilities in HTTP Parsers](https://securityonline.info/apache-httpcomponents-core-dos/)
+  - [Citrix NetScaler Vulnerability CVE-2026-8451 Exploited in the Wild as PoC Goes Public](https://securityonline.info/citrix-netscaler-cve-2026-8451/)
 - daringfireball.net
   - [MG Siegler Got Banned From WhatsApp for No Reason](https://spyglass.org/whatsapp-ban/)
+  - [‘Why Is Meta Destroying Its Engineering Organization?’](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering)
+- NowSecure
+  - [OWASP MAScon Vienna Showed the Future of Mobile Application Security](https://www.nowsecure.com/blog/2026/07/02/owasp-mascon-vienna-showed-the-future-of-mobile-application-security/)
+- simonwillison.net
+  - [Understand to participate](https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Improper Verification of Cryptographic Signature in Simple-Help Simplehelp exploit](https://sploitus.com/exploit?id=4718919B-920F-5EFC-BAC2-307537132DE2&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Boeing-owned Wisk Aero accused of firing manager who raised safety concerns](https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/)
 - The Decoder
+  - [Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters](https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/)
   - [Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models "want a smaller system prompt"](https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/)
 - The Verge
   - [The video game disc is dead](https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast)
 - Vulners.com RSS Feed
+  - [Cmov/CmovEq on aarch64 can produce wrong results if high-bits of registers are set](https://vulners.com/github/GHSA-3RJW-M598-PQ24?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Contour has Improper JWT Verification for Non-SNI Requests on Virtual Hosts with Fallback Certificate Enabled](https://vulners.com/github/GHSA-G3XR-5W5J-W4Q4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2022-50973](https://vulners.com/nvd/NVD:CVE-2022-50973?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2024-14037](https://vulners.com/nvd/NVD:CVE-2024-14037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2024-58352](https://vulners.com/nvd/NVD:CVE-2024-58352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44935](https://vulners.com/nvd/NVD:CVE-2026-44935?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44941](https://vulners.com/nvd/NVD:CVE-2026-44941?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47204](https://vulners.com/redhatcve/RH:CVE-2026-47204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-47778](https://vulners.com/redhatcve/RH:CVE-2026-47778?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50149](https://vulners.com/cve/CVE-2026-50149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50185](https://vulners.com/cve/CVE-2026-50185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50192](https://vulners.com/cve/CVE-2026-50192?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50281](https://vulners.com/nvd/NVD:CVE-2026-50281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50282](https://vulners.com/nvd/NVD:CVE-2026-50282?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50282 Craft CMS: Unauthorized Deletion of Destination Folders During Forced Moves](https://vulners.com/cve/CVE-2026-50282?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50282 Craft CMS: Unauthorized Deletion of Destination Folders During Forced Moves](https://vulners.com/cvelist/CVELIST:CVE-2026-50282?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53422](https://vulners.com/nvd/NVD:CVE-2026-53422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54886](https://vulners.com/nvd/NVD:CVE-2026-54886?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54887](https://vulners.com/nvd/NVD:CVE-2026-54887?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54891](https://vulners.com/nvd/NVD:CVE-2026-54891?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55950](https://vulners.com/nvd/NVD:CVE-2026-55950?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55952](https://vulners.com/nvd/NVD:CVE-2026-55952?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58455](https://vulners.com/nvd/NVD:CVE-2026-58455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8699](https://vulners.com/nvd/NVD:CVE-2026-8699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Verification of Cryptographic Signature in Simple-Help Simplehelp](https://vulners.com/githubexploit/4718919B-920F-5EFC-BAC2-307537132DE2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Kerberos Hub private key (X-Kerberos-Hub-PrivateKey) leaked to cross-host redirect target due to redirect-following HTTP client without CheckRedirect](https://vulners.com/github/GHSA-H5GX-45RJ-2H5J?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenClaw: Combined POSIX shell options could confuse exec revalidation](https://vulners.com/github/GHSA-VXX3-6HC9-7CC3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenClaw: Feishu dynamic-agent bindings could miss configWrites enforcement](https://vulners.com/github/GHSA-3WQP-PRF6-2M72?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenClaw: Matrix allowFrom could bind to mutable display names](https://vulners.com/github/GHSA-7HXM-F538-3XP6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenClaw: Mattermost slash token revocation could lag until monitor refresh](https://vulners.com/github/GHSA-4M3V-Q747-PC6H?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenClaw: MCP loopback could skip owner-only tool policy for non-owner callers](https://vulners.com/github/GHSA-RJ6P-XMXR-QJ4H?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenClaw: Native command authorization could skip owner-command enforcement](https://vulners.com/github/GHSA-P73F-W79W-JQR5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenClaw: Paired nodes could forge exec lifecycle events without system.run provenance](https://vulners.com/github/GHSA-3C6J-HQ33-3JV4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenClaw: PowerShell encoded-command aliases could miss exec allowlist checks](https://vulners.com/github/GHSA-J472-GF56-X589?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenClaw: Sandboxed session spawn could expose the real workspace path to child prompts](https://vulners.com/github/GHSA-6C4R-G249-WV3C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenClaw: Slack and Zalo webhook secrets could remain active after secrets.reload](https://vulners.com/github/GHSA-275C-XPVC-JGFW?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenClaw: Telegram interactive callbacks could skip commands.allowFrom](https://vulners.com/github/GHSA-W5WW-7CHG-MXCQ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenClaw: Trusted retry endpoint checks could match hostname prefixes](https://vulners.com/github/GHSA-77Q5-RR5V-X43Q?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH](https://www.wired.com/story/the-dea-plans-to-ban-kratom-compound-7-oh-sold-as-a-gas-station-opioid/)
 - 代码审计星球
