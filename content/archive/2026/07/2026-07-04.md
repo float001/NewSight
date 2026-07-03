@@ -8,6 +8,7 @@
   - [How Fidelis Strengthens Enterprise Container Security Across Docker and Kubernetes](https://fidelissecurity.com/threatgeek/cloud-security/enterprise-container-security-across-docker-and-kubernetes/)
 - Hacker News Frontpage
   - [Africans Are Turning to Starlink](https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink)
+  - [Coding without AI: a revolutionary new way to work](https://isaaclyman.com/blog/posts/coding-without-ai/)
   - [Goodbye, Forever, Probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)
   - [Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead)
   - [Pet projects are getting too big to pet](https://www.nnehdi.me/p/pet-projects-are-getting-too-big)
@@ -91,6 +92,7 @@
   - [CVE-2026-14613](https://vulners.com/nvd/NVD:CVE-2026-14613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14614](https://vulners.com/nvd/NVD:CVE-2026-14614?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14615](https://vulners.com/nvd/NVD:CVE-2026-14615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14617](https://vulners.com/nvd/NVD:CVE-2026-14617?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14617 NousResearch hermes-agent Streaming Reasoning Tag Filter stream_consumer.py GatewayStreamConsumer._filter_and_accumulate case sensitivity](https://vulners.com/cve/CVE-2026-14617?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14617 NousResearch hermes-agent Streaming Reasoning Tag Filter stream_consumer.py GatewayStreamConsumer._filter_and_accumulate case sensitivity](https://vulners.com/cvelist/CVELIST:CVE-2026-14617?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14620](https://vulners.com/nvd/NVD:CVE-2026-14620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -184,6 +186,7 @@
   - [CVE-2026-58424](https://vulners.com/nvd/NVD:CVE-2026-58424?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58426](https://vulners.com/nvd/NVD:CVE-2026-58426?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58522](https://vulners.com/nvd/NVD:CVE-2026-58522?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58523](https://vulners.com/nvd/NVD:CVE-2026-58523?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58523 Microsoft Edge for Android Security Feature Bypass Vulnerability](https://vulners.com/cve/CVE-2026-58523?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58523 Microsoft Edge for Android Security Feature Bypass Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-58523?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58524](https://vulners.com/nvd/NVD:CVE-2026-58524?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -201,3 +204,6 @@
   - [Google DeepMind Unionization Talks Are Off to a Rocky Start](https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [特朗普认为马斯克会向“特朗普账户”捐赠](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A4%E4%B8%BA%E9%A9%AC%E6%96%AF%E5%85%8B%E4%BC%9A%E5%90%91-%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7-%E6%8D%90%E8%B5%A0)
+  - [黄仁勋皮夹克将被拍卖 成交价或超40万！](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9A%AE%E5%A4%B9%E5%85%8B%E5%B0%86%E8%A2%AB%E6%8B%8D%E5%8D%96-%E6%88%90%E4%BA%A4%E4%BB%B7%E6%88%96%E8%B6%8540%E4%B8%87)
