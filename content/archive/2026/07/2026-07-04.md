@@ -8,12 +8,18 @@
   - [A device that revives eyeballs from dead donors could make eye transplants possible](https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/)
 - PromptLayer
   - [(Untitled)](https://blog.promptlayer.com/untitled-4/)
+  - [Humans are responsible for their AI tools](https://blog.promptlayer.com/humans-are-responsible-for-their-ai-tools/)
   - [The PromptLayer Way: Building LLM Applications Through Reflective Iteration](https://blog.promptlayer.com/the-promptlayer-way-building-llm-applications-through-reflective-iteration/)
+- simonwillison.net
+  - [Fable's judgement](https://simonwillison.net/2026/Jul/3/judgement/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [cpcs-prototype exploit](https://sploitus.com/exploit?id=AE10FCF7-3BC3-5373-8A1A-33766F16723C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-14459 exploit](https://sploitus.com/exploit?id=42D2AB27-0085-5020-AA75-F3E233F792A3&utm_source=rss&utm_medium=rss)
+  - [POC_and_EXP exploit](https://sploitus.com/exploit?id=4E32B376-47C0-5509-8263-1E736C811FB6&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Chevy built an All-American EV truck. Why is nobody buying it?](https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/)
+  - [The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)
+  - [The Dune keypad device can be your meeting controller and more](https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/)
 - The Decoder
   - [Claude Code's complicated China problem involves bans on both sides of the Pacific](https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/)
   - [Security vulnerability reports have exploded since AI models started hunting for bugs](https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/)
@@ -36,6 +42,7 @@
   - [CVE-2026-14628 | NousResearch hermes-agent up to 2026.5.16 Live Webhook Endpoint base.py extract_media path traversal](https://vuldb.com/vuln/376144)
   - [CVE-2026-14629 | RT-Thread up to 5.2.2 Parameter lwp_syscall.c read/write/sys_ioctl divide by zero (Issue 11429)](https://vuldb.com/vuln/376145)
   - [CVE-2026-14630 | ForceInjection AI-fundermentals 2.0/3.0 Memory Recall smart_customer_service.py get_conversation_history weak hash (Issue 17)](https://vuldb.com/vuln/376146)
+  - [CVE-2026-14631 | webpack-dev-server up to 5.2.5 WebSocket Upgrade denial of service](https://vuldb.com/vuln/376159)
   - [CVE-2026-14632 | kirilkirkov Ecommerce-CodeIgniter-Bootstrap up to 95dfa8cebbb87ab46ae450643a07241274a74dce Trusted Backend Interface MY_Controller.php setReferrer href redirect (GHSA-x9pg-hvpj-9q44)](https://vuldb.com/vuln/376147)
   - [CVE-2026-14633 | kirilkirkov Ecommerce-CodeIgniter-Bootstrap up to 49b20f53de2b7ec34e920b11c863f1491d911a04 Hidden REST API Endpoint set title/description cross site scripting (GHSA-8q62-q8qx-j49g)](https://vuldb.com/vuln/376148)
   - [CVE-2026-14634 | kirilkirkov Ecommerce-CodeIgniter-Bootstrap up to 213babdbaa949e94557246414db0130e01394517 Subscribed Emails Admin Page MY_Controller.php checkForPostRequests User-Agent cross site scripting (GHSA-v69c-5xg5-q7r8)](https://vuldb.com/vuln/376149)
@@ -45,17 +52,29 @@
   - [CVE-2026-14638 | itsourcecode Hospital Management System 1.0 /patient.php editid sql injection](https://vuldb.com/vuln/376154)
   - [CVE-2026-14639 | CodeAstro Ecommerce Website 1.0 my_account.php?edit_account c_name sql injection](https://vuldb.com/vuln/376155)
   - [CVE-2026-14640 | CodeAstro Apartment Visitor Management System 1.0 Login /index.php Username sql injection](https://vuldb.com/vuln/376156)
+  - [CVE-2026-14647 | onnx up to 1.21.x onnxruntime onnx/defs/nn/old.cc convPoolShapeInference_opset19 out-of-bounds (Issue 8036)](https://vuldb.com/vuln/376160)
+  - [CVE-2026-14648 | code-projects Online Voting System up to 0.x/1.0 Login /authentication.php test_input adminUserName/adminPassword sql injection](https://vuldb.com/vuln/376161)
+  - [CVE-2026-14649 | code-projects Online Voting System 1.0 /saveVote.php test_input voterName/voterEmail/voterID/selectedCandidate sql injection](https://vuldb.com/vuln/376162)
+  - [CVE-2026-14650 | connorskees grass up to 0.13.4 UTF-8 Character raw_to_parse_error denial of service (Issue 116)](https://vuldb.com/vuln/376163)
+  - [CVE-2026-14651 | connorskees grass up to 0.13.4 visitor denial of service (Issue 117)](https://vuldb.com/vuln/376164)
 - Vulners.com RSS Feed
   - [cpcs-prototype](https://vulners.com/githubexploit/AE10FCF7-3BC3-5373-8A1A-33766F16723C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14604 Open Asset Import Library Assimp PLY Model PlyLoader.cpp ExportToBlob double free](https://vulners.com/cve/CVE-2026-14604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14604 Open Asset Import Library Assimp PLY Model PlyLoader.cpp ExportToBlob double free](https://vulners.com/cvelist/CVELIST:CVE-2026-14604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14612](https://vulners.com/nvd/NVD:CVE-2026-14612?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14613](https://vulners.com/nvd/NVD:CVE-2026-14613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14614](https://vulners.com/nvd/NVD:CVE-2026-14614?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14615](https://vulners.com/nvd/NVD:CVE-2026-14615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14620](https://vulners.com/nvd/NVD:CVE-2026-14620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14631](https://vulners.com/nvd/NVD:CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14631 webpack-dev-server vulnerable to denial of service via a malformed Host or Origin header](https://vulners.com/cve/CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14631 webpack-dev-server vulnerable to denial of service via a malformed Host or Origin header](https://vulners.com/cvelist/CVELIST:CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58379 Gimp: gimp: heap buffer overflow in read_channel_data()](https://vulners.com/cve/CVE-2026-58379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58379 Gimp: gimp: heap buffer overflow in read_channel_data()](https://vulners.com/cvelist/CVELIST:CVE-2026-58379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14459](https://vulners.com/githubexploit/42D2AB27-0085-5020-AA75-F3E233F792A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [POC_and_EXP](https://vulners.com/githubexploit/4E32B376-47C0-5509-8263-1E736C811FB6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t](https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/)
   - [Google DeepMind Unionization Talks Are Off to a Rocky Start](https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
