@@ -2,6 +2,8 @@
 
 - Fidelis Security
   - [How Fidelis Strengthens Enterprise Container Security Across Docker and Kubernetes](https://fidelissecurity.com/threatgeek/cloud-security/enterprise-container-security-across-docker-and-kubernetes/)
+- Hacker News Frontpage
+  - [The MJ Rathbun case: How an autonomous AI bot cyberbullied a human programmer](https://chatgptdesactualizado.blogspot.com/2026/07/mj-rathbun-chronicles-of-first-bully.html)
 - IEEE Spectrum
   - [IEEE’s Global Museum Brings Engineering History to You](https://spectrum.ieee.org/ieees-global-museum-engineering-history)
 - MIT Technology Review
@@ -9,12 +11,15 @@
 - PromptLayer
   - [(Untitled)](https://blog.promptlayer.com/untitled-4/)
   - [Humans are responsible for their AI tools](https://blog.promptlayer.com/humans-are-responsible-for-their-ai-tools/)
+  - [Prompt Templates with Jinja2](https://blog.promptlayer.com/prompt-templates-with-jinja2/)
   - [The PromptLayer Way: Building LLM Applications Through Reflective Iteration](https://blog.promptlayer.com/the-promptlayer-way-building-llm-applications-through-reflective-iteration/)
 - simonwillison.net
   - [Fable's judgement](https://simonwillison.net/2026/Jul/3/judgement/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [cpcs-prototype exploit](https://sploitus.com/exploit?id=AE10FCF7-3BC3-5373-8A1A-33766F16723C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-14459 exploit](https://sploitus.com/exploit?id=42D2AB27-0085-5020-AA75-F3E233F792A3&utm_source=rss&utm_medium=rss)
+  - [Exploit for Path Traversal in Gradio_Project Gradio exploit](https://sploitus.com/exploit?id=AE21A054-5CCE-58FA-BEA3-C9ECF0FBA5BD&utm_source=rss&utm_medium=rss)
+  - [Metasploit exploit](https://sploitus.com/exploit?id=3D47D071-B5C5-5BFA-BFEB-AF9A666F7BA1&utm_source=rss&utm_medium=rss)
   - [POC_and_EXP exploit](https://sploitus.com/exploit?id=4E32B376-47C0-5509-8263-1E736C811FB6&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Chevy built an All-American EV truck. Why is nobody buying it?](https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/)
@@ -22,6 +27,7 @@
   - [The Dune keypad device can be your meeting controller and more](https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/)
 - The Decoder
   - [Claude Code's complicated China problem involves bans on both sides of the Pacific](https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/)
+  - [Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents](https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/)
   - [Security vulnerability reports have exploded since AI models started hunting for bugs](https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/)
   - [UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do](https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/)
 - The Verge
@@ -59,8 +65,15 @@
   - [CVE-2026-14651 | connorskees grass up to 0.13.4 visitor denial of service (Issue 117)](https://vuldb.com/vuln/376164)
 - Vulners.com RSS Feed
   - [cpcs-prototype](https://vulners.com/githubexploit/AE10FCF7-3BC3-5373-8A1A-33766F16723C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14604](https://vulners.com/nvd/NVD:CVE-2026-14604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14604 Open Asset Import Library Assimp PLY Model PlyLoader.cpp ExportToBlob double free](https://vulners.com/cve/CVE-2026-14604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14604 Open Asset Import Library Assimp PLY Model PlyLoader.cpp ExportToBlob double free](https://vulners.com/cvelist/CVELIST:CVE-2026-14604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14605 RT-Thread ls1c CAN ls1c_can.h recvmsg stack-based overflow](https://vulners.com/cve/CVE-2026-14605?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14605 RT-Thread ls1c CAN ls1c_can.h recvmsg stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-14605?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14606 RT-Thread SWM341 CAN SWM341.h CAN_Receive stack-based overflow](https://vulners.com/cve/CVE-2026-14606?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14606 RT-Thread SWM341 CAN SWM341.h CAN_Receive stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-14606?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14607 RT-Thread lwp_syscall.c sys_getaddrinfo memory corruption](https://vulners.com/cve/CVE-2026-14607?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14607 RT-Thread lwp_syscall.c sys_getaddrinfo memory corruption](https://vulners.com/cvelist/CVELIST:CVE-2026-14607?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14612](https://vulners.com/nvd/NVD:CVE-2026-14612?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14613](https://vulners.com/nvd/NVD:CVE-2026-14613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14614](https://vulners.com/nvd/NVD:CVE-2026-14614?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -69,9 +82,12 @@
   - [CVE-2026-14631](https://vulners.com/nvd/NVD:CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14631 webpack-dev-server vulnerable to denial of service via a malformed Host or Origin header](https://vulners.com/cve/CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14631 webpack-dev-server vulnerable to denial of service via a malformed Host or Origin header](https://vulners.com/cvelist/CVELIST:CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58379](https://vulners.com/nvd/NVD:CVE-2026-58379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58379 Gimp: gimp: heap buffer overflow in read_channel_data()](https://vulners.com/cve/CVE-2026-58379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58379 Gimp: gimp: heap buffer overflow in read_channel_data()](https://vulners.com/cvelist/CVELIST:CVE-2026-58379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14459](https://vulners.com/githubexploit/42D2AB27-0085-5020-AA75-F3E233F792A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Path Traversal in Gradio_Project Gradio](https://vulners.com/githubexploit/AE21A054-5CCE-58FA-BEA3-C9ECF0FBA5BD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Metasploit](https://vulners.com/githubexploit/3D47D071-B5C5-5BFA-BFEB-AF9A666F7BA1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [POC_and_EXP](https://vulners.com/githubexploit/4E32B376-47C0-5509-8263-1E736C811FB6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t](https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/)
