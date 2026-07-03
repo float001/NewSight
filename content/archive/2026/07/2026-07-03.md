@@ -4,6 +4,7 @@
   - [2026-07-03【羊毛】移动 app 对灵犀 AI 助手 发送【7 月惊喜多】 可领话费券](https://2libra.com/post/deal-hunter/ShvriQp)
   - [LAVA 免年费手续费每笔返现 5%VISA 卡,支持大陆护照 KYC](https://2libra.com/post/deal-hunter/KT1r2Dg)
   - [linux.do 在网页嵌了一段伪装成”网站规则”的文字](https://2libra.com/post/sharing-discoveries/eQW_I9m)
+  - [OpenCode 免费模型提示 “insufficient balance”](https://2libra.com/post/ai-programming/Vo7Fz5S)
   - [v 站崩了嘛](https://2libra.com/post/questions/NfSqoSj)
   - [【竞猜】进来竞猜，本金我出](https://2libra.com/post/forum-function/JM_7QyR)
   - [【骡马假日】坎儿井！火焰山！在吐鲁番感受人类生存极限～ 🔥🔥🔥](https://2libra.com/post/travel-logs/Tj9mKq9)
@@ -32,6 +33,7 @@
 - 36氪
   - [36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投](https://36kr.com/p/3879274157928449?f=rss)
   - [36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一](https://36kr.com/p/3877990989819909?f=rss)
+  - [400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线](https://36kr.com/p/3879807100023040?f=rss)
   - [8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉](https://36kr.com/p/3879158039834629?f=rss)
   - [A股三大指数午间收盘集体上涨，机器人概念领涨](https://36kr.com/newsflashes/3879363635769350?f=rss)
   - [A股三大指数开盘涨跌不一，通信设备板块领跌](https://36kr.com/newsflashes/3879239615082755?f=rss)
@@ -49,6 +51,7 @@
   - [三星电机计划至2040年在釜山投资15万亿韩元](https://36kr.com/newsflashes/3879519550370051?f=rss)
   - [三部门：调整节能汽车、新能源汽车车船税优惠政策](https://36kr.com/newsflashes/3879687847096577?f=rss)
   - [三项能耗能效国标明年起实施，光伏行业落后产能出清“倒计时”](https://36kr.com/newsflashes/3879131424485376?f=rss)
+  - [上交所上市委：沈鼓集团首发获通过](https://36kr.com/newsflashes/3879883414827272?f=rss)
   - [上交所：拟优化适用简易程序定增的授权要求](https://36kr.com/newsflashes/3879859822096392?f=rss)
   - [上交所：本周对中船特气、长盈通、昀冢科技等异常波动股票进行重点监控](https://36kr.com/newsflashes/3879803767844872?f=rss)
   - [上半年13家公司摘牌，ST股扩容至224只，A股优胜劣汰机制深化](https://36kr.com/newsflashes/3879120815976448?f=rss)
@@ -73,6 +76,7 @@
   - [丰田和戴姆勒将出售价值2000亿至3000亿日元的股票](https://36kr.com/newsflashes/3879580158308357?f=rss)
   - [乘联分会：初步统计6月全国乘用车市场新能源车零售103.7万辆，同比下降7%](https://36kr.com/newsflashes/3879675264299013?f=rss)
   - [乘联分会：初步统计6月全国乘用车市场零售165.1万辆，同比下降21%](https://36kr.com/newsflashes/3879673034092552?f=rss)
+  - [云南能投：拟投资建设丽江市宁蒗县100MW/400MWh全钒液流独立共享储能项目](https://36kr.com/newsflashes/3879902125076741?f=rss)
   - [人民币兑美元中间价报6.8047](https://36kr.com/newsflashes/3879229223661829?f=rss)
   - [优必选等在烟台成立新公司，注册资本3200万](https://36kr.com/newsflashes/3879506941817095?f=rss)
   - [何小鹏：小鹏GX本月产能将提升10%](https://36kr.com/newsflashes/3879434630000896?f=rss)
@@ -95,6 +99,7 @@
   - [国务院：加强海上风电、油气等开发建设活动监管](https://36kr.com/newsflashes/3879704396394503?f=rss)
   - [国务院：积极推动气候投融资，有序推进碳金融产品和衍生工具创新](https://36kr.com/newsflashes/3879709608275972?f=rss)
   - [国家发展改革委印发《循环经济发展“十五五”规划》](https://36kr.com/newsflashes/3879543947882755?f=rss)
+  - [国家电影局、市场监管总局联合印发《关于促进电影院多样化经营的通知》](https://36kr.com/newsflashes/3879884098384137?f=rss)
   - [国家金融监督管理总局决定对众邦银行实施接管](https://36kr.com/newsflashes/3879726705357057?f=rss)
   - [国泰海通：上半年净利润同比预增27%到30%](https://36kr.com/newsflashes/3879794730234120?f=rss)
   - [国轩高科：全资子公司上半年出售839.95万股铜冠铜箔A股股票](https://36kr.com/newsflashes/3879701486039302?f=rss)
@@ -102,6 +107,7 @@
   - [多只ETF拆分份额，公募产品普惠性凸显](https://36kr.com/newsflashes/3879194317762817?f=rss)
   - [多家品牌金饰价格大涨，周生生克价1266元](https://36kr.com/newsflashes/3879312159518982?f=rss)
   - [天赐材料：PEEK改性材料目前有小批量销售，占公司营收比例较低](https://36kr.com/newsflashes/3879217088901381?f=rss)
+  - [天赐材料：拟终止年产24.3万吨锂电及含氟新材料项目](https://36kr.com/newsflashes/3879874936795145?f=rss)
   - [央行今日开展630亿元7天逆回购操作](https://36kr.com/newsflashes/3879235591926023?f=rss)
   - [央行等部门就《金融业网络安全管理办法（征求意见稿）》公开征求意见](https://36kr.com/newsflashes/3879754091524357?f=rss)
   - [奇瑞控股在安徽成立新公司，注册资本1亿](https://36kr.com/newsflashes/3879639531581442?f=rss)
@@ -110,7 +116,9 @@
   - [宁波经济技术开发区产业发展投资公司增资至30亿，增幅约1003%](https://36kr.com/newsflashes/3879603722137601?f=rss)
   - [小雨智造首发具身智能焊接机器人](https://36kr.com/newsflashes/3879163059171588?f=rss)
   - [小鹏MONA L03预售开启](https://36kr.com/newsflashes/3879364409192456?f=rss)
+  - [小鹏集团与神州租车达成全场景合作，批量交付1300台新能源车](https://36kr.com/newsflashes/3879911238463493?f=rss)
   - [尔康制药：获得氢氧化钠化学原料药上市申请批准通知书](https://36kr.com/newsflashes/3879656746348553?f=rss)
+  - [市场监管总局发布多项宇航领域国家标准](https://36kr.com/newsflashes/3879886976954372?f=rss)
   - [应能微电子启动北交所IPO辅导](https://36kr.com/newsflashes/3879137531277572?f=rss)
   - [德银：Meta云业务或打开千亿美元级AI投入变现通道，2027年收入最高增300亿美元](https://36kr.com/newsflashes/3879764184199168?f=rss)
   - [快手轻雀在深圳成立新公司，注册资本1000万](https://36kr.com/newsflashes/3879752243474693?f=rss)
@@ -145,6 +153,7 @@
   - [深交所：拟完善锁价定增制度，增加上市公司向特定对象发行股票的储架发行制度](https://36kr.com/newsflashes/3879862355980546?f=rss)
   - [深成指、创业板指均涨超1%](https://36kr.com/newsflashes/3879313135612161?f=rss)
   - [深成指、创业板指涨逾2%](https://36kr.com/newsflashes/3879457535357188?f=rss)
+  - [深水海纳：控股股东等终止公司控制权变更事项](https://36kr.com/newsflashes/3879918674505988?f=rss)
   - [燃油价格冲击后，澳大利亚人纷纷购买电动汽车](https://36kr.com/newsflashes/3879586031431942?f=rss)
   - [特斯拉在美国和波多黎各推出Model Y长轴距版](https://36kr.com/newsflashes/3879129475313923?f=rss)
   - [理想组织再动刀：去中间环节，整车和智驾产品回归研发｜36氪独家](https://36kr.com/p/3877919172047111?f=rss)
@@ -180,6 +189,7 @@
   - [银价波动影响企业利润，光伏行业借金融工具破解保供难题](https://36kr.com/newsflashes/3879137286566145?f=rss)
   - [阿里云发布Qoder企业版](https://36kr.com/newsflashes/3879659625640193?f=rss)
   - [阿里云宣布AI原生数据库服务产品Databridge Agent功能收费](https://36kr.com/newsflashes/3879236702433537?f=rss)
+  - [雪祺电气：股东拟协议转让12.65%公司股份](https://36kr.com/newsflashes/3879894366646532?f=rss)
   - [韩华集团计划到2040年在航空航天和AI领域投资55万亿韩元](https://36kr.com/newsflashes/3879538799456257?f=rss)
   - [韩国拟打造“韩版星链”](https://36kr.com/newsflashes/3879815486025993?f=rss)
   - [韩国据称准备应对SK海力士在美国发���上市带来的资金流动](https://36kr.com/newsflashes/3879535202939140?f=rss)
@@ -233,6 +243,7 @@
   - [‘Why Is Meta Destroying Its Engineering Organization?’](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering)
 - darkreading
   - [Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs](https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs)
+  - [Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders](https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders)
   - [Ransomware Thugs Masquerade as Interpol to Entice Small Biz](https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses)
 - defend.network
   - [NetNut seized; Citrix Bleed 2 exploited; ToddyCat hijacks Gmail via OAuth](https://defend.network/briefings/netnut-citrix-bleed-toddycat-oauth-gmail-2026-07-03.html)
@@ -249,6 +260,7 @@
   - [Wasmer: Fast, secure, lightweight containers based on WebAssembly](https://wasmer.io/)
 - infosecurity-magazine.com
   - [FBI, Google Take Down NetNut Proxy Network Used by Cyber Threat Actors](https://www.infosecurity-magazine.com/news/fbi-google-take-down-netnut-proxy/)
+  - [Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation](https://www.infosecurity-magazine.com/news/qilin-dominates-ransomware-market/)
   - [Warning Over “Industrialized” Cyber-Attacks After Ransomware Gang Partners With TeamPCP](https://www.infosecurity-magazine.com/news/industrialized-cyberattacks/)
 - Kali Linux Tutorials
   - [Add and Delete Users on Ubuntu 18.04: A Practical Guide](https://kalilinuxtutorials.com/add-delete-users-ubuntu/)
@@ -258,6 +270,10 @@
   - [Install Xrdp on Ubuntu 18.04: Remote Desktop Setup Guide](https://kalilinuxtutorials.com/install-xrdp-ubuntu/)
 - krebsonsecurity.com
   - [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
+- matduggan.com
+  - [Midnight Train to Stockholm](https://matduggan.com/midnight-train-to-stockholm/)
+- MIT Technology Review
+  - [The Download: a smoking “endgame” and a new Elizabeth Bear story](https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/)
 - NowSecure
   - [OWASP MAScon Vienna Showed the Future of Mobile Application Security](https://www.nowsecure.com/blog/2026/07/02/owasp-mascon-vienna-showed-the-future-of-mobile-application-security/)
 - Payatu
@@ -270,6 +286,8 @@
   - [Sandfly's Agentless Linux EDR + AI Are a Powerful Combo](https://sandflysecurity.com/blog/sandflys-agentless-linux-edr-ai-are-a-powerful-combo)
 - Securelist
   - [Armored Likho digging a snake pit: inside the covert BusySnake Stealer campaign](https://securelist.com/tr/armored-likho-apt-with-busysnake-stealer/120292/)
+- SentinelOne
+  - [The Good, the Bad and the Ugly in Cybersecurity – Week 27](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-27-7/)
 - simonwillison.net
   - [Understand to participate](https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything)
   - [Using DSPy to evaluate and improve Datasette Agent's SQL system prompts](https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything)
@@ -280,6 +298,7 @@
   - [Exploit for CVE-2026-56782 exploit](https://sploitus.com/exploit?id=068250D8-E2C4-5DDE-A14D-F0ADE902C651&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Privilege Management in Apple Ipados exploit](https://sploitus.com/exploit?id=5E384957-8285-5247-95CE-C7384C91A926&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Verification of Cryptographic Signature in Simple-Help Simplehelp exploit](https://sploitus.com/exploit?id=4718919B-920F-5EFC-BAC2-307537132DE2&utm_source=rss&utm_medium=rss)
+  - [Exploit for OS Command Injection in Devcode Openstamanager exploit](https://sploitus.com/exploit?id=E48AD21A-E01F-5DC4-85A6-F56AF23DBEBD&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Sangoma Freepbx exploit](https://sploitus.com/exploit?id=AAA83D2F-7B0F-5EDC-8E6D-2EA1286F66A3&utm_source=rss&utm_medium=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Devcode Openstamanager exploit](https://sploitus.com/exploit?id=A71F4BF2-E95B-58C0-AA13-DA1EBECAF6E5&utm_source=rss&utm_medium=rss)
   - [iwaf-web-attack-detection exploit](https://sploitus.com/exploit?id=CC76416D-BF4E-5630-A783-47B407A3E5B5&utm_source=rss&utm_medium=rss)
@@ -311,6 +330,7 @@
   - [Meta has a new app called Pocket that is absolutely nothing like the old Pocket](https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai)
   - [Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home](https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges)
   - [The best July 4th sales we found so far](https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale)
+  - [The Verge’s annual summer ‘in’ and ‘out’ list](https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list)
   - [The video game disc is dead](https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast)
   - [Weber marks down grills and griddles to their best prices ever for July 4th](https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal)
 - troyhunt.com
@@ -535,9 +555,15 @@
   - [CVE-2026-41106](https://vulners.com/nvd/NVD:CVE-2026-41106?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41106 Microsoft 365 Copilot Elevation of Privilege Vulnerability](https://vulners.com/cve/CVE-2026-41106?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41106 Microsoft 365 Copilot Elevation of Privilege Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-41106?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41124](https://vulners.com/cve/CVE-2026-41124?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41124](https://vulners.com/cvelist/CVELIST:CVE-2026-41124?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4321](https://vulners.com/circl/CIRCL:CVE-2026-4321?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4321](https://vulners.com/nvd/NVD:CVE-2026-4321?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4322](https://vulners.com/nvd/NVD:CVE-2026-4322?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44268](https://vulners.com/cve/CVE-2026-44268?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44268](https://vulners.com/cvelist/CVELIST:CVE-2026-44268?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44269](https://vulners.com/cve/CVE-2026-44269?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44269](https://vulners.com/cvelist/CVELIST:CVE-2026-44269?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44935](https://vulners.com/nvd/NVD:CVE-2026-44935?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44941](https://vulners.com/nvd/NVD:CVE-2026-44941?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45249 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-45249?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -680,6 +706,7 @@
   - [Exploit for CVE-2026-56782](https://vulners.com/githubexploit/068250D8-E2C4-5DDE-A14D-F0ADE902C651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Privilege Management in Apple Ipados](https://vulners.com/githubexploit/5E384957-8285-5247-95CE-C7384C91A926?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Verification of Cryptographic Signature in Simple-Help Simplehelp](https://vulners.com/githubexploit/4718919B-920F-5EFC-BAC2-307537132DE2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for OS Command Injection in Devcode Openstamanager](https://vulners.com/githubexploit/E48AD21A-E01F-5DC4-85A6-F56AF23DBEBD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Sangoma Freepbx](https://vulners.com/githubexploit/AAA83D2F-7B0F-5EDC-8E6D-2EA1286F66A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Devcode Openstamanager](https://vulners.com/githubexploit/A71F4BF2-E95B-58C0-AA13-DA1EBECAF6E5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://vulners.com/krebs/KREBS:275238372492A2A644A4389928F4E4C9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
