@@ -2,5 +2,24 @@
 
 - PromptLayer
   - [(Untitled)](https://blog.promptlayer.com/untitled-4/)
+- TechCrunch
+  - [Chevy built an All-American EV truck. Why is nobody buying it?](https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/)
+- The Decoder
+  - [Security vulnerability reports have exploded since AI models started hunting for bugs](https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/)
+  - [UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do](https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/)
+- VulDB Recent Entries
+  - [CVE-2026-14612 | Red Hat Enterprise Linux up to 10 IdP Endpoint out-of-bounds write](https://vuldb.com/vuln/376131)
+  - [CVE-2026-14613 | Keycloak on Red Hat permission](https://vuldb.com/vuln/376132)
+  - [CVE-2026-14614 | Keycloak on Red Hat ClientResource permission](https://vuldb.com/vuln/376130)
+  - [CVE-2026-14615 | Keycloak on Red Hat insufficient granularity of access control](https://vuldb.com/vuln/376133)
+  - [CVE-2026-14617 | NousResearch hermes-agent up to 2026.4.30 Streaming Reasoning Tag Filter stream_consumer.py GatewayStreamConsumer._filter_and_accumulate case sensitivity (Issue 27288)](https://vuldb.com/vuln/376134)
+  - [CVE-2026-14618 | Open5GS up to 2.7.7 AMF src/amf/nnrf-handler.c amf_nnrf_handle_nf_discover denial of service (Issue 4517)](https://vuldb.com/vuln/376135)
+- Vulners.com RSS Feed
+  - [CVE-2026-14612](https://vulners.com/nvd/NVD:CVE-2026-14612?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14613](https://vulners.com/nvd/NVD:CVE-2026-14613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14614](https://vulners.com/nvd/NVD:CVE-2026-14614?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14615](https://vulners.com/nvd/NVD:CVE-2026-14615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Google DeepMind Unionization Talks Are Off to a Rocky Start](https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
