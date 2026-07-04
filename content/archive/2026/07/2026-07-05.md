@@ -3,6 +3,7 @@
 - 2Libra
   - [【💰】运气守恒定律](https://2libra.com/post/small-things/IW9wrgu)
 - daringfireball.net
+  - [Day One Journal](https://dayoneapp.com/blog/introducing-daily-chat/)
   - [Fantastical 4.1.15 Adds Calendar Mirroring](https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/)
   - [From the DF Archive: ‘Electron and the Decline of Native Apps’](https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps)
 - Hacker News Frontpage
@@ -10,17 +11,21 @@
   - [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
   - [Curveball](https://mightyburger.net/projects/curveball/)
   - [The End of North America](https://paulkrugman.substack.com/p/the-end-of-north-america-157)
+- PromptLayer
+  - [(Untitled)](https://blog.promptlayer.com/untitled/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Improper Access Control in Ollyo Helix3 exploit](https://sploitus.com/exploit?id=7AA8728A-DBBB-598B-8A88-CDFD3BBC34EE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)
   - [Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)
+  - [New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/)
 - The Decoder
   - [Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%](https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/)
 - The Verge
   - [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies)
   - [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion)
 - VulDB Recent Entries
+  - [CVE-2026-12746 | Dancer2::Plugin::Auth::OAuth::Provider up to 0.22 OAuth 2.0 Flow authentication_url/callback state cross-site request forgery](https://vuldb.com/vuln/376355)
   - [CVE-2026-14757 | radareorg radare2 up to 6.1.6 libr/core/cmd_anal.inc core_anal_bytes integer overflow (Issue 26041)](https://vuldb.com/vuln/376346)
   - [CVE-2026-14758 | radareorg radare2 up to 6.1.6 hexpairs Parser libr/core/cmd_anal.inc.c cmd_anal_opcode integer overflow (Issue 26042)](https://vuldb.com/vuln/376347)
   - [CVE-2026-14759 | radareorg radare2 up to 6.1.6 RBinJava Line Number Table Parser shlr/java/class.c r_bin_java_inner_classes_attr_calc_size heap-based overflow (Issue 26043)](https://vuldb.com/vuln/376348)
@@ -30,6 +35,8 @@
   - [CVE-2026-14763 | code-projects Hotel and Tourism Reservation 1.0 Tour Reservations Page /admin/tour_reserves.php tour sql injection](https://vuldb.com/vuln/376352)
   - [CVE-2026-14764 | code-projects Hotel and Tourism Reservation 1.0 Event Management Page /admin/add_event.php fdetails sql injection](https://vuldb.com/vuln/376353)
 - Vulners.com RSS Feed
+  - [CVE-2024-1248 Role Overwriting via Silent JIT Provisioning in Multiple WSO2 Products Enables Privilege Escalation](https://vulners.com/cve/CVE-2024-1248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2024-1248 Role Overwriting via Silent JIT Provisioning in Multiple WSO2 Products Enables Privilege Escalation](https://vulners.com/cvelist/CVELIST:CVE-2024-1248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12740](https://vulners.com/nvd/NVD:CVE-2026-12740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12746](https://vulners.com/nvd/NVD:CVE-2026-12746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14632](https://vulners.com/nvd/NVD:CVE-2026-14632?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -56,8 +63,18 @@
   - [CVE-2026-14641 SourceCodester Class and Exam Timetabling System edit_course.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14641?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14642](https://vulners.com/nvd/NVD:CVE-2026-14642?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14647](https://vulners.com/nvd/NVD:CVE-2026-14647?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14648](https://vulners.com/nvd/NVD:CVE-2026-14648?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14648 code-projects Online Voting System Login authentication.php test_input sql injection](https://vulners.com/cve/CVE-2026-14648?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14648 code-projects Online Voting System Login authentication.php test_input sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14648?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14649](https://vulners.com/nvd/NVD:CVE-2026-14649?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14650](https://vulners.com/nvd/NVD:CVE-2026-14650?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14651](https://vulners.com/attackerkb/AKB:6AD83EA5-5F3B-4F83-8725-142052D8C0D3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14651 connorskees grass visitor denial of service](https://vulners.com/cve/CVE-2026-14651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14651 connorskees grass visitor denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-14651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14652 SourceCodester Simple and Nice Shopping Cart Script Admin Login login.php sql injection](https://vulners.com/cve/CVE-2026-14652?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14652 SourceCodester Simple and Nice Shopping Cart Script Admin Login login.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14652?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14653 SourceCodester Simple and Nice Shopping Cart Script mensproductdeletequery.php sql injection](https://vulners.com/cve/CVE-2026-14653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14653 SourceCodester Simple and Nice Shopping Cart Script mensproductdeletequery.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3](https://vulners.com/githubexploit/7AA8728A-DBBB-598B-8A88-CDFD3BBC34EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Submit Your Questions: Inside The World of Online Romance Scams](https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/)
