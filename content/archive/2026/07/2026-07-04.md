@@ -16,6 +16,7 @@
   - [每次看到狭小的隧道，洞穴之类的，就心慌的受不了，怎么克服这种感觉？](https://2libra.com/post/mental-health/0u7BL9J)
   - [现在的年轻人真 “狂野” ??](https://2libra.com/post/social-observation/PWm504s)
   - [胳膊肘容易磨破怎么办，办公桌铺了超大鼠标垫也无济于事](https://2libra.com/post/office-life/-agg6CI)
+  - [自动生成的头像好像不会翻转](https://2libra.com/post/forum-function/ra1ubcH)
   - [讨论 | 在 2Libra 推广你的作品](https://2libra.com/post/forum-function/ZYydXM1)
 - 36氪
   - [36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资](https://36kr.com/p/3879991356157952?f=rss)
@@ -109,6 +110,8 @@
   - [The PromptLayer Way: Building LLM Applications Through Reflective Iteration](https://blog.promptlayer.com/the-promptlayer-way-building-llm-applications-through-reflective-iteration/)
 - PwnDefend
   - [AI: Fear it, so I can sell you the cure!](https://www.pwndefend.com/2026/07/04/ai-fear-it-so-i-can-sell-you-the-cure/)
+- Recent Commits to cve:main
+  - [Update Sat Jul  4 12:10:21 UTC 2026](https://github.com/trickest/cve/commit/37b1587b9735b6fbac964eae6c43c20388cc13b2)
 - shkspr.mobi
   - [Combined 1D and 2D Barcodes](https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/)
 - simonwillison.net
@@ -125,6 +128,7 @@
   - [Exploit for Improper Input Validation in Microsoft exploit](https://sploitus.com/exploit?id=582B358A-AAF7-52D4-B2EC-47DB7CB14421&utm_source=rss&utm_medium=rss)
   - [Exploit for Insecure Default Initialization of Resource in Apache Solr exploit](https://sploitus.com/exploit?id=D8C6A283-DD46-5ACA-878B-00C7D40EFAAF&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Gradio_Project Gradio exploit](https://sploitus.com/exploit?id=AE21A054-5CCE-58FA-BEA3-C9ECF0FBA5BD&utm_source=rss&utm_medium=rss)
+  - [Exploit-Chain-Suggestor exploit](https://sploitus.com/exploit?id=33E6F54E-7332-5EA6-948D-18C4B807B34C&utm_source=rss&utm_medium=rss)
   - [exploit-mapper exploit](https://sploitus.com/exploit?id=CB9A0C84-F12E-58C0-8A20-FB5D8C8F23B8&utm_source=rss&utm_medium=rss)
   - [Metasploit exploit](https://sploitus.com/exploit?id=3D47D071-B5C5-5BFA-BFEB-AF9A666F7BA1&utm_source=rss&utm_medium=rss)
   - [payliteng-pentest-portfolio exploit](https://sploitus.com/exploit?id=BD237926-FAF1-5EB5-9375-A14FB570B1EE&utm_source=rss&utm_medium=rss)
@@ -138,6 +142,7 @@
   - [The only AI glossary you’ll need this year](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
 - The Decoder
   - [A 26,000-student study shows AI's hidden learning cost takes two full years to surface](https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/)
+  - [Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first](https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/)
   - [Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable](https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/)
   - [Claude Code's complicated China problem involves bans on both sides of the Pacific](https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/)
   - [Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents](https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/)
@@ -148,6 +153,7 @@
 - The Verge
   - [Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM](https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update)
   - [The fanfiction community is at war with AI — and itself](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector)
+  - [The square-ish phone that I wanted to love](https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on)
 - VulDB Recent Entries
   - [CVE-2025-15667 | GPAC up to 2.5-DEV MP4Box src/isomedia/avc_ext.c gf_isom_nalu_sample_rewrite nalu_out_bs double free (Issue 3403)](https://vuldb.com/vuln/376292)
   - [CVE-2025-15668 | GPAC up to b40ce70f5 MP4Box box_code_base.c sgpd_del_entry data heap-based overflow (Issue 3398)](https://vuldb.com/vuln/376293)
@@ -375,6 +381,8 @@
   - [CVE-2026-12194](https://vulners.com/nvd/NVD:CVE-2026-12194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12195](https://vulners.com/cve/CVE-2026-12195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12195](https://vulners.com/cvelist/CVELIST:CVE-2026-12195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12195](https://vulners.com/nvd/NVD:CVE-2026-12195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12196](https://vulners.com/nvd/NVD:CVE-2026-12196?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12252](https://vulners.com/nvd/NVD:CVE-2026-12252?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12481 Deserialization of Untrusted Data in keras-team/keras](https://vulners.com/cve/CVE-2026-12481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12481 Deserialization of Untrusted Data in keras-team/keras](https://vulners.com/cvelist/CVELIST:CVE-2026-12481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -408,8 +416,10 @@
   - [CVE-2026-14624](https://vulners.com/nvd/NVD:CVE-2026-14624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14624 omec-project amf NGSetupRequest handler.go denial of service](https://vulners.com/cve/CVE-2026-14624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14624 omec-project amf NGSetupRequest handler.go denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-14624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14625](https://vulners.com/nvd/NVD:CVE-2026-14625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14625 NousResearch hermes-agent server.py shell.exec protection mechanism](https://vulners.com/cve/CVE-2026-14625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14625 NousResearch hermes-agent server.py shell.exec protection mechanism](https://vulners.com/cvelist/CVELIST:CVE-2026-14625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14626](https://vulners.com/nvd/NVD:CVE-2026-14626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14631](https://vulners.com/nvd/NVD:CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14631 webpack-dev-server vulnerable to denial of service via a malformed Host or Origin header](https://vulners.com/cve/CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14631 webpack-dev-server vulnerable to denial of service via a malformed Host or Origin header](https://vulners.com/cvelist/CVELIST:CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -417,6 +427,10 @@
   - [CVE-2026-45489 Microsoft Edge (Chromium-based) Spoofing Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-45489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49852 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-49852?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49852 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-49852?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53359](https://vulners.com/nvd/NVD:CVE-2026-53359?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53360](https://vulners.com/nvd/NVD:CVE-2026-53360?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53361](https://vulners.com/nvd/NVD:CVE-2026-53361?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53362](https://vulners.com/nvd/NVD:CVE-2026-53362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54424](https://vulners.com/nvd/NVD:CVE-2026-54424?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56645](https://vulners.com/circl/CIRCL:CVE-2026-56645?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56646](https://vulners.com/nvd/NVD:CVE-2026-56646?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -528,6 +542,7 @@
   - [Exploit for Improper Input Validation in Microsoft](https://vulners.com/githubexploit/582B358A-AAF7-52D4-B2EC-47DB7CB14421?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Insecure Default Initialization of Resource in Apache Solr](https://vulners.com/githubexploit/D8C6A283-DD46-5ACA-878B-00C7D40EFAAF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Gradio_Project Gradio](https://vulners.com/githubexploit/AE21A054-5CCE-58FA-BEA3-C9ECF0FBA5BD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit-Chain-Suggestor](https://vulners.com/githubexploit/33E6F54E-7332-5EA6-948D-18C4B807B34C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [exploit-mapper](https://vulners.com/githubexploit/CB9A0C84-F12E-58C0-8A20-FB5D8C8F23B8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-GG9X-QCX2-XMRH vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-GG9X-QCX2-XMRH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-GG9X-QCX2-XMRH vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-GG9X-QCX2-XMRH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -548,6 +563,7 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case](https://vulners.com/thn/THN:DA3100CCC13CEE2E3FE2D12D2CBAF958?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [VulnClaw](https://vulners.com/githubexploit/DBC6BC7C-9D6B-5026-8996-F8D6D0549F85?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
