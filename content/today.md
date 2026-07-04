@@ -5,6 +5,7 @@
 - daringfireball.net
   - [Fantastical 4.1.15 Adds Calendar Mirroring](https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/)
 - Hacker News Frontpage
+  - [As downtown Seattle offices empty, city facing years of 'zombie' towers](https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/)
   - [Curveball](https://mightyburger.net/projects/curveball/)
   - [The End of North America](https://paulkrugman.substack.com/p/the-end-of-north-america-157)
 - Sploitus.com Exploits RSS Feed
@@ -12,6 +13,8 @@
 - TechCrunch
   - [Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)
   - [Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)
+- The Decoder
+  - [Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%](https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/)
 - The Verge
   - [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion)
 - VulDB Recent Entries
@@ -24,6 +27,8 @@
   - [CVE-2026-14763 | code-projects Hotel and Tourism Reservation 1.0 Tour Reservations Page /admin/tour_reserves.php tour sql injection](https://vuldb.com/vuln/376352)
   - [CVE-2026-14764 | code-projects Hotel and Tourism Reservation 1.0 Event Management Page /admin/add_event.php fdetails sql injection](https://vuldb.com/vuln/376353)
 - Vulners.com RSS Feed
+  - [CVE-2026-12740](https://vulners.com/nvd/NVD:CVE-2026-12740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12746](https://vulners.com/nvd/NVD:CVE-2026-12746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14632](https://vulners.com/nvd/NVD:CVE-2026-14632?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14633](https://vulners.com/nvd/NVD:CVE-2026-14633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14634](https://vulners.com/nvd/NVD:CVE-2026-14634?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -33,10 +38,17 @@
   - [CVE-2026-14635 kirilkirkov Ecommerce-CodeIgniter-Bootstrap Vendor Multi-Image Endpoint AddProduct.php path traversal](https://vulners.com/cve/CVE-2026-14635?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14635 kirilkirkov Ecommerce-CodeIgniter-Bootstrap Vendor Multi-Image Endpoint AddProduct.php path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-14635?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14636](https://vulners.com/nvd/NVD:CVE-2026-14636?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14637](https://vulners.com/nvd/NVD:CVE-2026-14637?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14637 kirilkirkov Ecommerce-CodeIgniter-Bootstrap ShoppingCart.php getCartItems deserialization](https://vulners.com/cve/CVE-2026-14637?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14637 kirilkirkov Ecommerce-CodeIgniter-Bootstrap ShoppingCart.php getCartItems deserialization](https://vulners.com/cvelist/CVELIST:CVE-2026-14637?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14638](https://vulners.com/nvd/NVD:CVE-2026-14638?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14638 itsourcecode Hospital Management System patient.php sql injection](https://vulners.com/cve/CVE-2026-14638?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14638 itsourcecode Hospital Management System patient.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14638?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14639](https://vulners.com/nvd/NVD:CVE-2026-14639?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14640 CodeAstro Apartment Visitor Management System Login index.php sql injection](https://vulners.com/cve/CVE-2026-14640?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14640 CodeAstro Apartment Visitor Management System Login index.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14640?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14641 SourceCodester Class and Exam Timetabling System edit_course.php sql injection](https://vulners.com/cve/CVE-2026-14641?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14641 SourceCodester Class and Exam Timetabling System edit_course.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14641?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3](https://vulners.com/githubexploit/7AA8728A-DBBB-598B-8A88-CDFD3BBC34EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Submit Your Questions: Inside The World of Online Romance Scams](https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/)
