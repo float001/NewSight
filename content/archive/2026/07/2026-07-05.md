@@ -13,8 +13,12 @@
   - [The End of North America](https://paulkrugman.substack.com/p/the-end-of-north-america-157)
 - PromptLayer
   - [(Untitled)](https://blog.promptlayer.com/untitled/)
+- simonwillison.net
+  - [Better Models: Worse Tools](https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-54998 exploit](https://sploitus.com/exploit?id=296E4524-1227-5821-A8C1-006798A0526C&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3 exploit](https://sploitus.com/exploit?id=7AA8728A-DBBB-598B-8A88-CDFD3BBC34EE&utm_source=rss&utm_medium=rss)
+  - [OIBSIP_Cybersecurity_Task9 exploit](https://sploitus.com/exploit?id=2A3C0873-FAD9-537D-BDF2-0AF787CBC62C&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)
   - [Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)
@@ -80,11 +84,20 @@
   - [CVE-2026-14653 SourceCodester Simple and Nice Shopping Cart Script mensproductdeletequery.php sql injection](https://vulners.com/cve/CVE-2026-14653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14653 SourceCodester Simple and Nice Shopping Cart Script mensproductdeletequery.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14654](https://vulners.com/nvd/NVD:CVE-2026-14654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14655](https://vulners.com/nvd/NVD:CVE-2026-14655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14655 code-projects Assessment Management view-users.php cross site scripting](https://vulners.com/cve/CVE-2026-14655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14655 code-projects Assessment Management view-users.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-14655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14656](https://vulners.com/nvd/NVD:CVE-2026-14656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14656 code-projects Assessment Management remove-user.php cross site scripting](https://vulners.com/cve/CVE-2026-14656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14656 code-projects Assessment Management remove-user.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-14656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14657](https://vulners.com/nvd/NVD:CVE-2026-14657?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14659 itsourcecode Hospital Management System patientappointment.php sql injection](https://vulners.com/cve/CVE-2026-14659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14659 itsourcecode Hospital Management System patientappointment.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14660 code-projects Online Job Portal login.php sql injection](https://vulners.com/cve/CVE-2026-14660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14660 code-projects Online Job Portal login.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-54998](https://vulners.com/githubexploit/296E4524-1227-5821-A8C1-006798A0526C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3](https://vulners.com/githubexploit/7AA8728A-DBBB-598B-8A88-CDFD3BBC34EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OIBSIP_Cybersecurity_Task9](https://vulners.com/githubexploit/2A3C0873-FAD9-537D-BDF2-0AF787CBC62C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Submit Your Questions: Inside The World of Online Romance Scams](https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/)
 - 代码审计星球
