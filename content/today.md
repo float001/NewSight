@@ -8,6 +8,7 @@
   - [一个接收 iPhone 短信的 Windows 应用程序界面又升级了一下。](https://2libra.com/post/personal-works/V4bMi74)
   - [你们有多久没在 V2EX 发帖评论了？感觉那边氛围特别差了，附案例](https://2libra.com/post/social-observation/VHJdgue)
   - [修改 forkgram/tdesktop 实现 设置全体群组和 channel 静音 mute all](https://2libra.com/post/open-source-sharing/5znaXCl)
+  - [创建主题-节点选择 BUG（特定操作无法修改节点）](https://2libra.com/post/community/GlAmQDS)
   - [唉周六上班的真是辛苦了，我是真想给你们发 200 块红包，可是我的钱又留着有用，你们看这样行不，我的心意你领一下，然后你再跟我说一声谢谢](https://2libra.com/post/slacking-off/AUphbxm)
   - [山姆是在走下坡路么?](https://2libra.com/post/small-things/EU8LdZ2)
   - [每次看到狭小的隧道，洞穴之类的，就心慌的受不了，怎么克服这种感觉？](https://2libra.com/post/mental-health/0u7BL9J)
@@ -25,13 +26,16 @@
   - [三季度专项债发行或加码](https://36kr.com/newsflashes/3880650844221446?f=rss)
   - [三星第三季DRAM拟提价20% 厂家称已接口头通知](https://36kr.com/newsflashes/3880659597176838?f=rss)
   - [千问智能体功能与服务将于7月15日正式下线](https://36kr.com/newsflashes/3880777666703621?f=rss)
+  - [华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据](https://36kr.com/newsflashes/3880931591254019?f=rss)
   - [印度政府：正调查苹果手机信息泄露事件](https://36kr.com/newsflashes/3880789908631558?f=rss)
   - [同飞股份与良信股份达成战略合作共识](https://36kr.com/newsflashes/3880655163617284?f=rss)
   - [国家统计局发布2026年6月下旬流通领域重要生产资料市场价格变动情况](https://36kr.com/newsflashes/3880713984782601?f=rss)
   - [对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？](https://36kr.com/p/3880770270425089?f=rss)
   - [摩根大通预计黄金短期震荡 第四季度均价回升至4500美元/盎司‌](https://36kr.com/newsflashes/3880641670967560?f=rss)
   - [明日起 国内航线燃油附加费下调](https://36kr.com/newsflashes/3880665856880640?f=rss)
+  - [暑运前三天 全国铁路累计发送旅客超3800万人次](https://36kr.com/newsflashes/3880925561466889?f=rss)
   - [消息称SK海力士考虑在巨额ADR发行中向承销银行支付约0.5%的费用](https://36kr.com/newsflashes/3880786649378821?f=rss)
+  - [瀚银科技被罚没近7445万元](https://36kr.com/newsflashes/3880929825681409?f=rss)
   - [福建：未来5年力争数字经济核心产业增加值年均增长8%以上](https://36kr.com/newsflashes/3880724958752777?f=rss)
   - [美元料创4月来最大周线跌幅，就业数据打击美联储加息预期](https://36kr.com/newsflashes/3880646617018368?f=rss)
   - [美加墨世界杯16强已全部确定](https://36kr.com/newsflashes/3880792300908547?f=rss)
@@ -45,6 +49,8 @@
   - [FBI Warns of TeamPCP Supply Chain Attack](https://securityonline.info/teampcp-supply-chain-attack/)
 - daringfireball.net
   - [★ Claude’s Criminally Bad Electron Mac App Is an Inside Job](https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job)
+- defend.network
+  - [Linux kernel RCE, FatFs firmware flaws, North Korea npm malware](https://defend.network/briefings/linux-kernel-fatfs-npm-supply-chain-threats-2026-07-04.html)
 - Fidelis Security
   - [How Fidelis Strengthens Enterprise Container Security Across Docker and Kubernetes](https://fidelissecurity.com/threatgeek/cloud-security/enterprise-container-security-across-docker-and-kubernetes/)
 - Hacker News Frontpage
@@ -57,6 +63,7 @@
   - [Pet projects are getting too big to pet](https://www.nnehdi.me/p/pet-projects-are-getting-too-big)
   - [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng)
   - [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
+  - [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
   - [The MJ Rathbun case: How an autonomous AI bot cyberbullied a human programmer](https://chatgptdesactualizado.blogspot.com/2026/07/mj-rathbun-chronicles-of-first-bully.html)
 - IEEE Spectrum
   - [IEEE’s Global Museum Brings Engineering History to You](https://spectrum.ieee.org/ieees-global-museum-engineering-history)
@@ -81,6 +88,7 @@
   - [(Untitled)](https://blog.promptlayer.com/untitled-4/)
   - [A How-To Guide On Fine-Tuning](https://blog.promptlayer.com/a-how-to-guide-on-fine-tuning/)
   - [Humans are responsible for their AI tools](https://blog.promptlayer.com/humans-are-responsible-for-their-ai-tools/)
+  - [Prompt Engineering Guide: Function Calling](https://blog.promptlayer.com/prompt-engineering-guide-function-calling/)
   - [Prompt Templates with Jinja2](https://blog.promptlayer.com/prompt-templates-with-jinja2/)
   - [The PromptLayer Way: Building LLM Applications Through Reflective Iteration](https://blog.promptlayer.com/the-promptlayer-way-building-llm-applications-through-reflective-iteration/)
 - simonwillison.net
@@ -90,6 +98,7 @@
   - [cpcs-prototype exploit](https://sploitus.com/exploit?id=AE10FCF7-3BC3-5373-8A1A-33766F16723C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-14459 exploit](https://sploitus.com/exploit?id=42D2AB27-0085-5020-AA75-F3E233F792A3&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce exploit](https://sploitus.com/exploit?id=F1DBF80E-DEF0-5365-8E7A-835524EE0CB2&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Input Validation in Apache Activemq exploit](https://sploitus.com/exploit?id=59103EF8-34AE-5D99-AC69-1E43D784DA44&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Microsoft exploit](https://sploitus.com/exploit?id=582B358A-AAF7-52D4-B2EC-47DB7CB14421&utm_source=rss&utm_medium=rss)
   - [Exploit for Insecure Default Initialization of Resource in Apache Solr exploit](https://sploitus.com/exploit?id=D8C6A283-DD46-5ACA-878B-00C7D40EFAAF&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Gradio_Project Gradio exploit](https://sploitus.com/exploit?id=AE21A054-5CCE-58FA-BEA3-C9ECF0FBA5BD&utm_source=rss&utm_medium=rss)
@@ -448,6 +457,7 @@
   - [CVE-2026-58597 Microsoft Edge (Chromium-based) Spoofing Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-58597?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14459](https://vulners.com/githubexploit/42D2AB27-0085-5020-AA75-F3E233F792A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce](https://vulners.com/githubexploit/F1DBF80E-DEF0-5365-8E7A-835524EE0CB2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Input Validation in Apache Activemq](https://vulners.com/githubexploit/59103EF8-34AE-5D99-AC69-1E43D784DA44?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Input Validation in Microsoft](https://vulners.com/githubexploit/582B358A-AAF7-52D4-B2EC-47DB7CB14421?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Insecure Default Initialization of Resource in Apache Solr](https://vulners.com/githubexploit/D8C6A283-DD46-5ACA-878B-00C7D40EFAAF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Gradio_Project Gradio](https://vulners.com/githubexploit/AE21A054-5CCE-58FA-BEA3-C9ECF0FBA5BD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
