@@ -90,6 +90,7 @@
 - johndcook.com
   - [Does additional data always reduce posterior variance?](https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/)
 - Kali Linux Tutorials
+  - [Install Apache Maven on Ubuntu 18.04: Stable or Latest Version](https://kalilinuxtutorials.com/install-apache-maven-ubuntu/)
   - [Install Gitea on Ubuntu 18.04: Self-Hosted Git Service Guide](https://kalilinuxtutorials.com/install-gitea-on-ubuntu/)
   - [Install Java on Ubuntu 18.04: OpenJDK 11 and OpenJDK 8](https://kalilinuxtutorials.com/install-java-ubuntu-18-04/)
   - [Install Mono on Ubuntu 18.04: C# Compiler and Runtime Guide](https://kalilinuxtutorials.com/install-mono-on-ubuntu/)
@@ -105,6 +106,8 @@
   - [Prompt Engineering Guide: Function Calling](https://blog.promptlayer.com/prompt-engineering-guide-function-calling/)
   - [Prompt Templates with Jinja2](https://blog.promptlayer.com/prompt-templates-with-jinja2/)
   - [The PromptLayer Way: Building LLM Applications Through Reflective Iteration](https://blog.promptlayer.com/the-promptlayer-way-building-llm-applications-through-reflective-iteration/)
+- PwnDefend
+  - [AI: Fear it, so I can sell you the cure!](https://www.pwndefend.com/2026/07/04/ai-fear-it-so-i-can-sell-you-the-cure/)
 - simonwillison.net
   - [Fable's judgement](https://simonwillison.net/2026/Jul/3/judgement/#atom-everything)
   - [Quoting Josh W. Comeau](https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything)
@@ -119,6 +122,7 @@
   - [Exploit for Path Traversal in Gradio_Project Gradio exploit](https://sploitus.com/exploit?id=AE21A054-5CCE-58FA-BEA3-C9ECF0FBA5BD&utm_source=rss&utm_medium=rss)
   - [exploit-mapper exploit](https://sploitus.com/exploit?id=CB9A0C84-F12E-58C0-8A20-FB5D8C8F23B8&utm_source=rss&utm_medium=rss)
   - [Metasploit exploit](https://sploitus.com/exploit?id=3D47D071-B5C5-5BFA-BFEB-AF9A666F7BA1&utm_source=rss&utm_medium=rss)
+  - [payliteng-pentest-portfolio exploit](https://sploitus.com/exploit?id=BD237926-FAF1-5EB5-9375-A14FB570B1EE&utm_source=rss&utm_medium=rss)
   - [POC_and_EXP exploit](https://sploitus.com/exploit?id=4E32B376-47C0-5509-8263-1E736C811FB6&utm_source=rss&utm_medium=rss)
   - [SQL-Injection-on-DVWA-OASIS-TASK-03 exploit](https://sploitus.com/exploit?id=E69FE0C2-34F2-5B27-84F2-834C1EC6C122&utm_source=rss&utm_medium=rss)
   - [VulnClaw exploit](https://sploitus.com/exploit?id=DBC6BC7C-9D6B-5026-8996-F8D6D0549F85&utm_source=rss&utm_medium=rss)
@@ -390,8 +394,11 @@
   - [CVE-2026-14621 FederatedAI FATE OSX Broker QueuePushReqStreamObserver.java QueuePushReqStreamObserver.initEggroll wrong session](https://vulners.com/cve/CVE-2026-14621?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14621 FederatedAI FATE OSX Broker QueuePushReqStreamObserver.java QueuePushReqStreamObserver.initEggroll wrong session](https://vulners.com/cvelist/CVELIST:CVE-2026-14621?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14622](https://vulners.com/nvd/NVD:CVE-2026-14622?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14623](https://vulners.com/nvd/NVD:CVE-2026-14623?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14623 omec-project amf NGAP Message RRCInactiveTransitionReport denial of service](https://vulners.com/cve/CVE-2026-14623?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14623 omec-project amf NGAP Message RRCInactiveTransitionReport denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-14623?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14624 omec-project amf NGSetupRequest handler.go denial of service](https://vulners.com/cve/CVE-2026-14624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14624 omec-project amf NGSetupRequest handler.go denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-14624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14631](https://vulners.com/nvd/NVD:CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14631 webpack-dev-server vulnerable to denial of service via a malformed Host or Origin header](https://vulners.com/cve/CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14631 webpack-dev-server vulnerable to denial of service via a malformed Host or Origin header](https://vulners.com/cvelist/CVELIST:CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -513,6 +520,7 @@
   - [GHSA-GG9X-QCX2-XMRH vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-GG9X-QCX2-XMRH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [hf-model-provenance-scanner](https://vulners.com/githubexploit/AE42F09E-CF8A-5D39-8E20-0DA486FE5B13?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Metasploit](https://vulners.com/githubexploit/3D47D071-B5C5-5BFA-BFEB-AF9A666F7BA1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [payliteng-pentest-portfolio](https://vulners.com/githubexploit/BD237926-FAF1-5EB5-9375-A14FB570B1EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [POC_and_EXP](https://vulners.com/githubexploit/4E32B376-47C0-5509-8263-1E736C811FB6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [SQL-Injection-on-DVWA-OASIS-TASK-03](https://vulners.com/githubexploit/E69FE0C2-34F2-5B27-84F2-834C1EC6C122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerabilities in the net/bluetooth/eir.c and net/bluetooth/mgmt.c modules of Linux kernel allow a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -531,7 +539,9 @@
   - [3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t](https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/)
   - [Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease](https://www.wired.com/story/food-preservatives-may-increase-the-risk-of-high-blood-pressure-and-cardiovascular-disease/)
   - [Google DeepMind Unionization Talks Are Off to a Rocky Start](https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/)
+  - [Security Roundup: Apple’s Hide My Email Service Fails to Hide Your Email](https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/)
   - [The Best Fourth of July Mattress Sales on Beds We Actually Sleep On (2026)](https://www.wired.com/story/best-july-fourth-mattress-deals-2026/)
+  - [This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone](https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
