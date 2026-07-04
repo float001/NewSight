@@ -4,8 +4,10 @@
   - [【💰】运气守恒定律](https://2libra.com/post/small-things/IW9wrgu)
 - daringfireball.net
   - [Fantastical 4.1.15 Adds Calendar Mirroring](https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/)
+  - [From the DF Archive: ‘Electron and the Decline of Native Apps’](https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps)
 - Hacker News Frontpage
   - [As downtown Seattle offices empty, city facing years of 'zombie' towers](https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/)
+  - [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
   - [Curveball](https://mightyburger.net/projects/curveball/)
   - [The End of North America](https://paulkrugman.substack.com/p/the-end-of-north-america-157)
 - Sploitus.com Exploits RSS Feed
@@ -16,6 +18,7 @@
 - The Decoder
   - [Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%](https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/)
 - The Verge
+  - [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies)
   - [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion)
 - VulDB Recent Entries
   - [CVE-2026-14757 | radareorg radare2 up to 6.1.6 libr/core/cmd_anal.inc core_anal_bytes integer overflow (Issue 26041)](https://vuldb.com/vuln/376346)
@@ -45,10 +48,16 @@
   - [CVE-2026-14638 itsourcecode Hospital Management System patient.php sql injection](https://vulners.com/cve/CVE-2026-14638?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14638 itsourcecode Hospital Management System patient.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14638?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14639](https://vulners.com/nvd/NVD:CVE-2026-14639?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14640](https://vulners.com/nvd/NVD:CVE-2026-14640?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14640 CodeAstro Apartment Visitor Management System Login index.php sql injection](https://vulners.com/cve/CVE-2026-14640?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14640 CodeAstro Apartment Visitor Management System Login index.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14640?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14641](https://vulners.com/nvd/NVD:CVE-2026-14641?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14641 SourceCodester Class and Exam Timetabling System edit_course.php sql injection](https://vulners.com/cve/CVE-2026-14641?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14641 SourceCodester Class and Exam Timetabling System edit_course.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14641?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14642](https://vulners.com/nvd/NVD:CVE-2026-14642?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14647](https://vulners.com/nvd/NVD:CVE-2026-14647?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14648 code-projects Online Voting System Login authentication.php test_input sql injection](https://vulners.com/cve/CVE-2026-14648?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14648 code-projects Online Voting System Login authentication.php test_input sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14648?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3](https://vulners.com/githubexploit/7AA8728A-DBBB-598B-8A88-CDFD3BBC34EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Submit Your Questions: Inside The World of Online Romance Scams](https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/)
