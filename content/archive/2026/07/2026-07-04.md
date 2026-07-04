@@ -3,6 +3,8 @@
 - 2Libra
   - [Yukiapi 一家稳定平价 Claude/Codex 中转站，新用户注册送 1 刀评论区留 id 送 5 刀额度！](https://2libra.com/post/ai-gateway/FQb-Ei2)
   - [【兑换码】我也来分享一下我自己 vibe coding 的一个工具](https://2libra.com/post/personal-works/AQBsetT)
+  - [【骡马假日】打工牛马见到了新疆大草原上的亲兄弟～ 🐮🐴](https://2libra.com/post/travel-logs/bMvt5MY)
+  - [【骡马假日】楼兰美女！网红大巴扎！最后一天打卡～ 📷📷📷](https://2libra.com/post/travel-logs/u457qk0)
   - [一个接收 iPhone 短信的 Windows 应用程序界面又升级了一下。](https://2libra.com/post/personal-works/V4bMi74)
   - [你们有多久没在 V2EX 发帖评论了？感觉那边氛围特别差了，附案例](https://2libra.com/post/social-observation/VHJdgue)
   - [修改 forkgram/tdesktop 实现 设置全体群组和 channel 静音 mute all](https://2libra.com/post/open-source-sharing/5znaXCl)
@@ -10,10 +12,12 @@
   - [山姆是在走下坡路么?](https://2libra.com/post/small-things/EU8LdZ2)
   - [每次看到狭小的隧道，洞穴之类的，就心慌的受不了，怎么克服这种感觉？](https://2libra.com/post/mental-health/0u7BL9J)
   - [现在的年轻人真 “狂野” ??](https://2libra.com/post/social-observation/PWm504s)
+  - [胳膊肘容易磨破怎么办，办公桌铺了超大鼠标垫也无济于事](https://2libra.com/post/office-life/-agg6CI)
   - [讨论 | 在 2Libra 推广你的作品](https://2libra.com/post/forum-function/ZYydXM1)
 - 36氪
   - [36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资](https://36kr.com/p/3879991356157952?f=rss)
   - [4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单](https://36kr.com/newsflashes/3880717381382148?f=rss)
+  - [6月海湾地区原油出口激增](https://36kr.com/newsflashes/3880828194041858?f=rss)
   - [7-11起诉耐克 指控其新鞋配色抄袭7-11标志性颜色](https://36kr.com/newsflashes/3880710005256451?f=rss)
   - [7月4日起，喜茶DIY饮品功能陆续在全国门店上线](https://36kr.com/newsflashes/3880722592624648?f=rss)
   - [9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司](https://36kr.com/p/3880629882679301?f=rss)
@@ -35,6 +39,7 @@
   - [豆包：智能体功能将于7月15日下线](https://36kr.com/newsflashes/3880708060901641?f=rss)
   - [进一步明确平台经济各方权利义务 新版电子商务法公开征求意见](https://36kr.com/newsflashes/3880654226337797?f=rss)
   - [长光卫星完成近50亿元股权融资](https://36kr.com/newsflashes/3880783434149893?f=rss)
+  - [首款神经动力学芯片问世 有助于脑机接口等技术发展](https://36kr.com/newsflashes/3880779651248391?f=rss)
 - Cybersecurity News
   - [Critical Security Flaws Found in Langflow OSS](https://securityonline.info/langflow-oss-vulnerabilities/)
   - [FBI Warns of TeamPCP Supply Chain Attack](https://securityonline.info/teampcp-supply-chain-attack/)
@@ -104,6 +109,8 @@
 - The Verge
   - [Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM](https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update)
 - VulDB Recent Entries
+  - [CVE-2025-15667 | GPAC up to 2.5-DEV MP4Box src/isomedia/avc_ext.c gf_isom_nalu_sample_rewrite nalu_out_bs double free (Issue 3403)](https://vuldb.com/vuln/376292)
+  - [CVE-2025-15668 | GPAC up to b40ce70f5 MP4Box box_code_base.c sgpd_del_entry data heap-based overflow (Issue 3398)](https://vuldb.com/vuln/376293)
   - [CVE-2025-71342 | picklescan up to 0.0.29 idlelib.run.Executive.runcode deserialization (GHSA-m869-42cg-3xwr)](https://vuldb.com/vuln/376179)
   - [CVE-2025-71343 | picklescan up to 0.0.29 lib2to3.pgen2.pgen.ParserGenerator.make_label deserialization (GHSA-p9w7-82w4-7q8m)](https://vuldb.com/vuln/376191)
   - [CVE-2025-71345 | picklescan up to 0.0.29 torch.utils.bottleneck.__main__.run_autograd_prof deserialization (GHSA-4whj-rm5r-c2v8)](https://vuldb.com/vuln/376178)
@@ -160,6 +167,13 @@
   - [CVE-2026-14686 | HdrHistogram up to 2.2.2 Range Check DoubleHistogram.java org.HdrHistogram.DoubleHistogram.recordValue comparison (Issue 222)](https://vuldb.com/vuln/376282)
   - [CVE-2026-14687 | 666ghj BettaFish up to 1.2.1 InsightEngine search-result Deduplication InsightEngine/agent.py _deduplicate_results partial string comparison (Issue 688)](https://vuldb.com/vuln/376283)
   - [CVE-2026-14688 | itsourcecode Online Hotel Management System 1.0 /admin/login.php email sql injection](https://vuldb.com/vuln/376284)
+  - [CVE-2026-14698 | SourceCodester Syllabus-Aligned Learning Management and Examination System upload_files.php unrestricted upload](https://vuldb.com/vuln/376294)
+  - [CVE-2026-14699 | zcaceres markdownify-mcp up to 1.1.0 src/Markdownify.ts assertPathAllowed symlink (Issue 108)](https://vuldb.com/vuln/376295)
+  - [CVE-2026-14700 | code-projects Internship Management System 1.0 Employer Login Endpoint employer/login.php email/password sql injection](https://vuldb.com/vuln/376296)
+  - [CVE-2026-14701 | code-projects Internship Management System 1.0 Password Change Endpoint change_password.php Current sql injection](https://vuldb.com/vuln/376297)
+  - [CVE-2026-14702 | zcaceres markdownify-mcp up to 1.1.0 webpage-to-markdown src/Markdownify.ts saveToTempFile random values (Issue 110)](https://vuldb.com/vuln/376298)
+  - [CVE-2026-14703 | itsourcecode Hospital Management System 1.0 /patientorder.php editid sql injection](https://vuldb.com/vuln/376299)
+  - [CVE-2026-14704 | stephen-kruger bluebox up to 4.5.12 code cross site scripting (Issue 32)](https://vuldb.com/vuln/376300)
   - [CVE-2026-20706 | Gitea up to 1.26.1 Web Archive Download Endpoint access control (GHSA-cr4g-f395-h25h)](https://vuldb.com/vuln/376202)
   - [CVE-2026-20779 | Gitea up to 1.26.2 authentication replay (GHSA-gx3v-q759-g323)](https://vuldb.com/vuln/376183)
   - [CVE-2026-20896 | Gitea up to 1.26.2 access control (GHSA-f75j-4cw6-rmx4)](https://vuldb.com/vuln/376184)
