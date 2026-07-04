@@ -63,6 +63,7 @@
 - defend.network
   - [Linux kernel RCE, FatFs firmware flaws, North Korea npm malware](https://defend.network/briefings/linux-kernel-fatfs-npm-supply-chain-threats-2026-07-04.html)
 - Emergent Minds | paddo.dev
+  - [One-Shot Taste: Redesigning This Blog with Claude Fable 5](https://paddo.dev/blog/one-shot-taste/)
   - [The Fifth Rule](https://paddo.dev/blog/the-fifth-rule/)
 - Fidelis Security
   - [How Fidelis Strengthens Enterprise Container Security Across Docker and Kubernetes](https://fidelissecurity.com/threatgeek/cloud-security/enterprise-container-security-across-docker-and-kubernetes/)
@@ -108,6 +109,8 @@
   - [The PromptLayer Way: Building LLM Applications Through Reflective Iteration](https://blog.promptlayer.com/the-promptlayer-way-building-llm-applications-through-reflective-iteration/)
 - PwnDefend
   - [AI: Fear it, so I can sell you the cure!](https://www.pwndefend.com/2026/07/04/ai-fear-it-so-i-can-sell-you-the-cure/)
+- shkspr.mobi
+  - [Combined 1D and 2D Barcodes](https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/)
 - simonwillison.net
   - [Fable's judgement](https://simonwillison.net/2026/Jul/3/judgement/#atom-everything)
   - [Quoting Josh W. Comeau](https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything)
@@ -115,6 +118,8 @@
   - [cpcs-prototype exploit](https://sploitus.com/exploit?id=AE10FCF7-3BC3-5373-8A1A-33766F16723C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-14459 exploit](https://sploitus.com/exploit?id=42D2AB27-0085-5020-AA75-F3E233F792A3&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-23869 exploit](https://sploitus.com/exploit?id=8BD5FDEE-96A4-5971-9C9A-27BE910D90C1&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-54415 exploit](https://sploitus.com/exploit?id=D57038C7-7ED7-56E0-9002-1EBD14909BD6&utm_source=rss&utm_medium=rss)
+  - [Exploit for Eval Injection in Langflow exploit](https://sploitus.com/exploit?id=65503DA9-CC18-52AD-A76E-53CDEFB7DB3F&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce exploit](https://sploitus.com/exploit?id=F1DBF80E-DEF0-5365-8E7A-835524EE0CB2&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Apache Activemq exploit](https://sploitus.com/exploit?id=59103EF8-34AE-5D99-AC69-1E43D784DA44&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Microsoft exploit](https://sploitus.com/exploit?id=582B358A-AAF7-52D4-B2EC-47DB7CB14421&utm_source=rss&utm_medium=rss)
@@ -142,6 +147,7 @@
   - [UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do](https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/)
 - The Verge
   - [Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM](https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update)
+  - [The fanfiction community is at war with AI — and itself](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector)
 - VulDB Recent Entries
   - [CVE-2025-15667 | GPAC up to 2.5-DEV MP4Box src/isomedia/avc_ext.c gf_isom_nalu_sample_rewrite nalu_out_bs double free (Issue 3403)](https://vuldb.com/vuln/376292)
   - [CVE-2025-15668 | GPAC up to b40ce70f5 MP4Box box_code_base.c sgpd_del_entry data heap-based overflow (Issue 3398)](https://vuldb.com/vuln/376293)
@@ -367,6 +373,8 @@
   - [CVE-2025-71380 n8n - Arbitrary Command Execution via Execute Command Node](https://vulners.com/cve/CVE-2025-71380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71380 n8n - Arbitrary Command Execution via Execute Command Node](https://vulners.com/cvelist/CVELIST:CVE-2025-71380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12194](https://vulners.com/nvd/NVD:CVE-2026-12194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12195](https://vulners.com/cve/CVE-2026-12195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12195](https://vulners.com/cvelist/CVELIST:CVE-2026-12195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12252](https://vulners.com/nvd/NVD:CVE-2026-12252?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12481 Deserialization of Untrusted Data in keras-team/keras](https://vulners.com/cve/CVE-2026-12481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12481 Deserialization of Untrusted Data in keras-team/keras](https://vulners.com/cvelist/CVELIST:CVE-2026-12481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -397,8 +405,11 @@
   - [CVE-2026-14623](https://vulners.com/nvd/NVD:CVE-2026-14623?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14623 omec-project amf NGAP Message RRCInactiveTransitionReport denial of service](https://vulners.com/cve/CVE-2026-14623?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14623 omec-project amf NGAP Message RRCInactiveTransitionReport denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-14623?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14624](https://vulners.com/nvd/NVD:CVE-2026-14624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14624 omec-project amf NGSetupRequest handler.go denial of service](https://vulners.com/cve/CVE-2026-14624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14624 omec-project amf NGSetupRequest handler.go denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-14624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14625 NousResearch hermes-agent server.py shell.exec protection mechanism](https://vulners.com/cve/CVE-2026-14625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14625 NousResearch hermes-agent server.py shell.exec protection mechanism](https://vulners.com/cvelist/CVELIST:CVE-2026-14625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14631](https://vulners.com/nvd/NVD:CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14631 webpack-dev-server vulnerable to denial of service via a malformed Host or Origin header](https://vulners.com/cve/CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14631 webpack-dev-server vulnerable to denial of service via a malformed Host or Origin header](https://vulners.com/cvelist/CVELIST:CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -510,6 +521,8 @@
   - [CVE-2026-58597 Microsoft Edge (Chromium-based) Spoofing Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-58597?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14459](https://vulners.com/githubexploit/42D2AB27-0085-5020-AA75-F3E233F792A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-23869](https://vulners.com/githubexploit/8BD5FDEE-96A4-5971-9C9A-27BE910D90C1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-54415](https://vulners.com/githubexploit/D57038C7-7ED7-56E0-9002-1EBD14909BD6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Eval Injection in Langflow](https://vulners.com/githubexploit/65503DA9-CC18-52AD-A76E-53CDEFB7DB3F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce](https://vulners.com/githubexploit/F1DBF80E-DEF0-5365-8E7A-835524EE0CB2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Input Validation in Apache Activemq](https://vulners.com/githubexploit/59103EF8-34AE-5D99-AC69-1E43D784DA44?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Input Validation in Microsoft](https://vulners.com/githubexploit/582B358A-AAF7-52D4-B2EC-47DB7CB14421?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -520,6 +533,7 @@
   - [GHSA-GG9X-QCX2-XMRH vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-GG9X-QCX2-XMRH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [hf-model-provenance-scanner](https://vulners.com/githubexploit/AE42F09E-CF8A-5D39-8E20-0DA486FE5B13?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Metasploit](https://vulners.com/githubexploit/3D47D071-B5C5-5BFA-BFEB-AF9A666F7BA1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign](https://vulners.com/thn/THN:4475C81B7436E8DAA4353902B4F4747F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [payliteng-pentest-portfolio](https://vulners.com/githubexploit/BD237926-FAF1-5EB5-9375-A14FB570B1EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [POC_and_EXP](https://vulners.com/githubexploit/4E32B376-47C0-5509-8263-1E736C811FB6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [SQL-Injection-on-DVWA-OASIS-TASK-03](https://vulners.com/githubexploit/E69FE0C2-34F2-5B27-84F2-834C1EC6C122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -536,6 +550,7 @@
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [VulnClaw](https://vulners.com/githubexploit/DBC6BC7C-9D6B-5026-8996-F8D6D0549F85?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
   - [3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t](https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/)
   - [Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease](https://www.wired.com/story/food-preservatives-may-increase-the-risk-of-high-blood-pressure-and-cardiovascular-disease/)
   - [Google DeepMind Unionization Talks Are Off to a Rocky Start](https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/)
@@ -550,4 +565,5 @@
 - 黑海洋
   - [“耿同学”如何掀起一场中国学术打假风暴](https://blog.upx8.com/%E8%80%BF%E5%90%8C%E5%AD%A6-%E5%A6%82%E4%BD%95%E6%8E%80%E8%B5%B7%E4%B8%80%E5%9C%BA%E4%B8%AD%E5%9B%BD%E5%AD%A6%E6%9C%AF%E6%89%93%E5%81%87%E9%A3%8E%E6%9A%B4)
   - [特朗普认为马斯克会向“特朗普账户”捐赠](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A4%E4%B8%BA%E9%A9%AC%E6%96%AF%E5%85%8B%E4%BC%9A%E5%90%91-%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7-%E6%8D%90%E8%B5%A0)
+  - [网信办就《互联网信息服务管理办法》修订案再次征求意见](https://blog.upx8.com/%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%B0%B1-%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E6%81%AF%E6%9C%8D%E5%8A%A1%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95-%E4%BF%AE%E8%AE%A2%E6%A1%88%E5%86%8D%E6%AC%A1%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81)
   - [黄仁勋皮夹克将被拍卖 成交价或超40万！](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9A%AE%E5%A4%B9%E5%85%8B%E5%B0%86%E8%A2%AB%E6%8B%8D%E5%8D%96-%E6%88%90%E4%BA%A4%E4%BB%B7%E6%88%96%E8%B6%8540%E4%B8%87)
