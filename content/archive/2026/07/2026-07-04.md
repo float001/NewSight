@@ -4,6 +4,10 @@
   - [Yukiapi 一家稳定平价 Claude/Codex 中转站，新用户注册送 1 刀评论区留 id 送 5 刀额度！](https://2libra.com/post/ai-gateway/FQb-Ei2)
   - [【兑换码】我也来分享一下我自己 vibe coding 的一个工具](https://2libra.com/post/personal-works/AQBsetT)
   - [一个接收 iPhone 短信的 Windows 应用程序界面又升级了一下。](https://2libra.com/post/personal-works/V4bMi74)
+  - [山姆是在走下坡路么?](https://2libra.com/post/small-things/EU8LdZ2)
+- 36氪
+  - [36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资](https://36kr.com/p/3879991356157952?f=rss)
+  - [9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司](https://36kr.com/p/3880629882679301?f=rss)
 - daringfireball.net
   - [★ Claude’s Criminally Bad Electron Mac App Is an Inside Job](https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job)
 - Fidelis Security
@@ -16,6 +20,7 @@
   - [Odin, Wikipedia and Engagement Farming](https://katamari64.se/posts/2026/odin-wikipedia/)
   - [Pet projects are getting too big to pet](https://www.nnehdi.me/p/pet-projects-are-getting-too-big)
   - [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng)
+  - [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
   - [The MJ Rathbun case: How an autonomous AI bot cyberbullied a human programmer](https://chatgptdesactualizado.blogspot.com/2026/07/mj-rathbun-chronicles-of-first-bully.html)
 - IEEE Spectrum
   - [IEEE’s Global Museum Brings Engineering History to You](https://spectrum.ieee.org/ieees-global-museum-engineering-history)
@@ -212,6 +217,8 @@
   - [Google DeepMind Unionization Talks Are Off to a Rocky Start](https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务](https://www.ifanr.com/1670957?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [特朗普认为马斯克会向“特朗普账户”捐赠](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A4%E4%B8%BA%E9%A9%AC%E6%96%AF%E5%85%8B%E4%BC%9A%E5%90%91-%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7-%E6%8D%90%E8%B5%A0)
   - [黄仁勋皮夹克将被拍卖 成交价或超40万！](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9A%AE%E5%A4%B9%E5%85%8B%E5%B0%86%E8%A2%AB%E6%8B%8D%E5%8D%96-%E6%88%90%E4%BA%A4%E4%BB%B7%E6%88%96%E8%B6%8540%E4%B8%87)
