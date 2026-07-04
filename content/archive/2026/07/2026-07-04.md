@@ -17,6 +17,7 @@
   - [现在的年轻人真 “狂野” ??](https://2libra.com/post/social-observation/PWm504s)
   - [胳膊肘容易磨破怎么办，办公桌铺了超大鼠标垫也无济于事](https://2libra.com/post/office-life/-agg6CI)
   - [自动生成的头像好像不会翻转](https://2libra.com/post/forum-function/ra1ubcH)
+  - [视频刚剪好，羊毛没了：AI 大末法时代来了吗？😭](https://2libra.com/post/ai-trends/Kx-Rr1S)
   - [讨论 | 在 2Libra 推广你的作品](https://2libra.com/post/forum-function/ZYydXM1)
   - [请教【信用卡申请】的选择](https://2libra.com/post/recommendations/MKlGm_8)
 - 36氪
@@ -70,6 +71,7 @@
 - Fidelis Security
   - [How Fidelis Strengthens Enterprise Container Security Across Docker and Kubernetes](https://fidelissecurity.com/threatgeek/cloud-security/enterprise-container-security-across-docker-and-kubernetes/)
 - Hacker News Frontpage
+  - ['All men are created equal': America has lost its values. It's time to go back](https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence)
   - [Africans Are Turning to Starlink](https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink)
   - [Agentic coding notes from Galapogos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
   - [Coding without AI: a revolutionary new way to work](https://isaaclyman.com/blog/posts/coding-without-ai/)
@@ -123,6 +125,7 @@
   - [Exploit for CVE-2026-14459 exploit](https://sploitus.com/exploit?id=42D2AB27-0085-5020-AA75-F3E233F792A3&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-23869 exploit](https://sploitus.com/exploit?id=8BD5FDEE-96A4-5971-9C9A-27BE910D90C1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-54415 exploit](https://sploitus.com/exploit?id=D57038C7-7ED7-56E0-9002-1EBD14909BD6&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-57517 exploit](https://sploitus.com/exploit?id=AB794952-8E2E-55F8-97FF-1DE1AB6E3835&utm_source=rss&utm_medium=rss)
   - [Exploit for Eval Injection in Langflow exploit](https://sploitus.com/exploit?id=65503DA9-CC18-52AD-A76E-53CDEFB7DB3F&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce exploit](https://sploitus.com/exploit?id=F1DBF80E-DEF0-5365-8E7A-835524EE0CB2&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Apache Activemq exploit](https://sploitus.com/exploit?id=59103EF8-34AE-5D99-AC69-1E43D784DA44&utm_source=rss&utm_medium=rss)
@@ -156,6 +159,8 @@
   - [Hey number pad lovers, this is a keyboard we can finally agree on](https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review)
   - [The fanfiction community is at war with AI — and itself](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector)
   - [The square-ish phone that I wanted to love](https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on)
+- Threatninja.net
+  - [Hack The Box: DevArea Machine Walkthrough – Medium Difficulty](https://threatninja.net/hack-the-box-devarea-machine-walkthrough-medium-difficulty/)
 - VulDB Recent Entries
   - [CVE-2025-15667 | GPAC up to 2.5-DEV MP4Box src/isomedia/avc_ext.c gf_isom_nalu_sample_rewrite nalu_out_bs double free (Issue 3403)](https://vuldb.com/vuln/376292)
   - [CVE-2025-15668 | GPAC up to b40ce70f5 MP4Box box_code_base.c sgpd_del_entry data heap-based overflow (Issue 3398)](https://vuldb.com/vuln/376293)
@@ -390,8 +395,10 @@
   - [CVE-2026-12252](https://vulners.com/nvd/NVD:CVE-2026-12252?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12481 Deserialization of Untrusted Data in keras-team/keras](https://vulners.com/cve/CVE-2026-12481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12481 Deserialization of Untrusted Data in keras-team/keras](https://vulners.com/cvelist/CVELIST:CVE-2026-12481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14534](https://vulners.com/nvd/NVD:CVE-2026-14534?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14534 Fickling check_safety() bypass via unlisted standard library modules (_posixsubprocess, site, atexit)](https://vulners.com/cve/CVE-2026-14534?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14534 Fickling check_safety() bypass via unlisted standard library modules (_posixsubprocess, site, atexit)](https://vulners.com/cvelist/CVELIST:CVE-2026-14534?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14535](https://vulners.com/nvd/NVD:CVE-2026-14535?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14535 Fickling MLAllowlist analysis pass rendered inoperative by shared mutable state in AnalysisContext.shorten_code()](https://vulners.com/cve/CVE-2026-14535?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14535 Fickling MLAllowlist analysis pass rendered inoperative by shared mutable state in AnalysisContext.shorten_code()](https://vulners.com/cvelist/CVELIST:CVE-2026-14535?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14604](https://vulners.com/nvd/NVD:CVE-2026-14604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -430,6 +437,7 @@
   - [CVE-2026-14626](https://vulners.com/nvd/NVD:CVE-2026-14626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14627](https://vulners.com/nvd/NVD:CVE-2026-14627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14628](https://vulners.com/nvd/NVD:CVE-2026-14628?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14629](https://vulners.com/nvd/NVD:CVE-2026-14629?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14629 RT-Thread Parameter lwp_syscall.c sys_ioctl divide by zero](https://vulners.com/cve/CVE-2026-14629?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14629 RT-Thread Parameter lwp_syscall.c sys_ioctl divide by zero](https://vulners.com/cvelist/CVELIST:CVE-2026-14629?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14631](https://vulners.com/nvd/NVD:CVE-2026-14631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -548,6 +556,7 @@
   - [Exploit for CVE-2026-14459](https://vulners.com/githubexploit/42D2AB27-0085-5020-AA75-F3E233F792A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-23869](https://vulners.com/githubexploit/8BD5FDEE-96A4-5971-9C9A-27BE910D90C1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-54415](https://vulners.com/githubexploit/D57038C7-7ED7-56E0-9002-1EBD14909BD6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-57517](https://vulners.com/githubexploit/AB794952-8E2E-55F8-97FF-1DE1AB6E3835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Eval Injection in Langflow](https://vulners.com/githubexploit/65503DA9-CC18-52AD-A76E-53CDEFB7DB3F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce](https://vulners.com/githubexploit/F1DBF80E-DEF0-5365-8E7A-835524EE0CB2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Input Validation in Apache Activemq](https://vulners.com/githubexploit/59103EF8-34AE-5D99-AC69-1E43D784DA44?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -585,6 +594,8 @@
   - [Security Roundup: Apple’s Hide My Email Service Fails to Hide Your Email](https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/)
   - [The Best Fourth of July Mattress Sales on Beds We Actually Sleep On (2026)](https://www.wired.com/story/best-july-fourth-mattress-deals-2026/)
   - [This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone](https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/)
+- 不安全
+  - [My IDA ghost stopped just reading walls and started walking through them it now emulates/hooks/fuzzes what it names [SpectrIDA] SELF PROMO (again, but i promise its worth it)](https://buaq.net/go-427062.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
