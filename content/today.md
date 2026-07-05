@@ -10,6 +10,7 @@
   - [想到一个问题，有没有吃恐龙肉会过敏的群体，因恐龙早已灭绝而躲过一劫 ～](https://2libra.com/post/idea/eqnfN0D)
   - [最近梯子极其不稳定，摇摇晃晃的，经常把我摔下来？](https://2libra.com/post/recommendations/td7XoAt)
   - [最近的 AI 和热点观察：信息爆炸时代如何保持独立思考](https://2libra.com/post/promotion/dv7Zp_X)
+  - [浩浩荡荡的 codex 零元购开始了 😭](https://2libra.com/post/ai-tools/iCOedUE)
 - 36氪
   - [2026年暑期档电影票房（含预售）突破20亿元](https://36kr.com/newsflashes/3882310540357896?f=rss)
   - [6月份中国大宗商品价格指数小幅回落](https://36kr.com/newsflashes/3882068056076550?f=rss)
@@ -63,6 +64,7 @@
   - [Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams](https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/)
   - [Scientists reverse brain aging, with a nasal spray](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/)
   - [The End of North America](https://paulkrugman.substack.com/p/the-end-of-north-america-157)
+  - [The Engineer in the Half-Space](https://yusufaytas.com/the-engineer-in-the-half-space)
 - InfoSec Write-ups - Medium
   - [AdversaryGraph v5.0: From CTI Mapping to Attack Simulation and SIEM Validation](https://infosecwriteups.com/adversarygraph-v5-0-from-cti-mapping-to-attack-simulation-and-siem-validation-21873b2a6c39?source=rss----7b722bfd1b8d---4)
   - [Dive Into Malware Forensics: A Walkthrough of REMnux, The Redux](https://infosecwriteups.com/dive-into-malware-forensics-a-walkthrough-of-remnux-the-redux-88f17ab2a96a?source=rss----7b722bfd1b8d---4)
@@ -89,14 +91,17 @@
   - [sqlite-utils 4.0rc2, mostly written by Claude Fable](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [DTI_APIM exploit](https://sploitus.com/exploit?id=5A9A7FF7-DCD6-530B-A2F0-64127FFEE9DE&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-59382 exploit](https://sploitus.com/exploit?id=8DBACF7E-3F6F-5D82-8253-BDF5D073D33E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-23550 exploit](https://sploitus.com/exploit?id=0F71FCFC-8349-55DC-BFDD-22ABE01CE344&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-39047 exploit](https://sploitus.com/exploit?id=2B9EC353-CF5D-5AEC-9541-42F0F1CE5FEC&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-54998 exploit](https://sploitus.com/exploit?id=296E4524-1227-5821-A8C1-006798A0526C&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3 exploit](https://sploitus.com/exploit?id=7AA8728A-DBBB-598B-8A88-CDFD3BBC34EE&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Access Control in Ollyo Helix3 exploit](https://sploitus.com/exploit?id=80D6207E-1824-5BA9-9159-5ACB30CF76EF&utm_source=rss&utm_medium=rss)
   - [OIBSIP_Cybersecurity_Task9 exploit](https://sploitus.com/exploit?id=2A3C0873-FAD9-537D-BDF2-0AF787CBC62C&utm_source=rss&utm_medium=rss)
   - [VDT exploit](https://sploitus.com/exploit?id=F7DCC272-C68B-5B52-85D0-A0DF46F665BC&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)
+  - [Almost 90 new unicorns have been minted so far this year — here they are](https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/)
   - [Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)
   - [New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/)
 - The Decoder
@@ -106,6 +111,7 @@
   - [Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%](https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/)
 - The Verge
   - [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies)
+  - [Vizio accidentally made the best dumb TV on the market](https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review)
   - [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion)
   - [Xbox is a disaster](https://www.theverge.com/column/960600/xbox-is-a-disaster)
 - VulDB Recent Entries
