@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-07-06）
 
+- Data Breach
+  - [Medtronic Notifies 3.8 Million After ShinyHunters Data Breach](https://securityaffairs.com/194788/cyber-crime/medtronic-notifies-3-8-million-after-shinyhunters-data-breach.html)
 - Hacker News Frontpage
   - ["These cameras are just like the Eye of Sauron"](https://arxiv.org/abs/2602.09239)
   - [Falling fertility on the left as key driver of US birth decline](https://www.nature.com/articles/s41598-026-57582-3)
@@ -9,6 +11,7 @@
 - TechCrunch
   - [Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)
 - The Verge
+  - [Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring](https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review)
   - [Where to preorder Grand Theft Auto VI](https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy)
 - VulDB Recent Entries
   - [CVE-2026-12250 | Pardus Domain Joiner up to 0.5.3 information disclosure](https://vuldb.com/vuln/376382)
@@ -18,6 +21,17 @@
   - [CVE-2026-14788 | radareorg radare2 up to 6.1.6 libr/core/cfile.c r_core_bin_load use after free (Issue 26049)](https://vuldb.com/vuln/376377)
   - [CVE-2026-14789 | radareorg radare2 up to 6.1.6 Memory64ListStream Parser mdmp.c stack-based overflow (Issue 26051)](https://vuldb.com/vuln/376378)
   - [CVE-2026-14790 | GPAC 26.02.0 Media File src/filters/write_nhml.c nhmldump_send_frame null pointer dereference (Issue 3596)](https://vuldb.com/vuln/376379)
+  - [CVE-2026-14791 | crater-invoice-inc crater up to 6.0.6 Invoice Note InvoicesRequest.php getFormattedString notes cross site scripting (Issue 1327)](https://vuldb.com/vuln/376385)
+  - [CVE-2026-14792 | Formbricks 5.0.0 Survey actions.ts access control (ID 8094)](https://vuldb.com/vuln/376386)
+  - [CVE-2026-14793 | Craft CMS up to 4.18.0.1 reorder-sets Endpoint GlobalsController.php actionReorderSets authorization](https://vuldb.com/vuln/376387)
+  - [CVE-2026-14794 | Craft CMS up to 4.18.0.1 Charts Endpoint ChartsController.php actionGetNewUsersData userGroupId improper authorization](https://vuldb.com/vuln/376388)
+  - [CVE-2026-14795 | CodeAstro Apartment Visitor Management System 1.0 action-visitor.php remark sql injection](https://vuldb.com/vuln/376389)
+  - [CVE-2026-14796 | CodeAstro Apartment Visitor Management System 1.0 report.php fromdate sql injection](https://vuldb.com/vuln/376390)
+  - [CVE-2026-14797 | CodeAstro Apartment Visitor Management System 1.0 edit-apartment.php editid sql injection](https://vuldb.com/vuln/376391)
+  - [CVE-2026-14798 | CodeAstro Apartment Visitor Management System 1.0 visitor-entry.php visname sql injection](https://vuldb.com/vuln/376392)
+  - [CVE-2026-14799 | CodeAstro Ecommerce Website 1.0 my_account.php?my_wishlist delete_wishlist sql injection](https://vuldb.com/vuln/376393)
+  - [CVE-2026-14800 | imhamzaazam ecommerceFlask up to cb7d9e24c30a99379651b7493b32048126ef402b cross-site request forgery](https://vuldb.com/vuln/376394)
+  - [CVE-2026-59510 | ail-project AIL Framework PDF Object Handling PDF.get_filepath path traversal](https://vuldb.com/vuln/376384)
   - [CVE-2026-6509 | Pardus Update up to 0.6.5 missing authentication](https://vuldb.com/vuln/376381)
   - [CVE-2026-9085 | Pardus-Parental-Control up to 0.6.x access control](https://vuldb.com/vuln/376380)
 - 代码审计星球
