@@ -93,6 +93,7 @@
 - Sploitus.com Exploits RSS Feed
   - [DTI_APIM exploit](https://sploitus.com/exploit?id=5A9A7FF7-DCD6-530B-A2F0-64127FFEE9DE&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-59382 exploit](https://sploitus.com/exploit?id=8DBACF7E-3F6F-5D82-8253-BDF5D073D33E&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-10104 exploit](https://sploitus.com/exploit?id=741140EB-5F53-53CF-8242-05AAFE34F6A1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-23550 exploit](https://sploitus.com/exploit?id=0F71FCFC-8349-55DC-BFDD-22ABE01CE344&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-39047 exploit](https://sploitus.com/exploit?id=2B9EC353-CF5D-5AEC-9541-42F0F1CE5FEC&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-54998 exploit](https://sploitus.com/exploit?id=296E4524-1227-5821-A8C1-006798A0526C&utm_source=rss&utm_medium=rss)
@@ -101,6 +102,7 @@
   - [OIBSIP_Cybersecurity_Task9 exploit](https://sploitus.com/exploit?id=2A3C0873-FAD9-537D-BDF2-0AF787CBC62C&utm_source=rss&utm_medium=rss)
   - [VDT exploit](https://sploitus.com/exploit?id=F7DCC272-C68B-5B52-85D0-A0DF46F665BC&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [5 desk gadgets that can make your workday better](https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/)
   - [Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)
   - [Almost 90 new unicorns have been minted so far this year — here they are](https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/)
   - [Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)
@@ -113,6 +115,7 @@
   - [Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%](https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/)
 - The Verge
   - [How Keurig saved — and ruined — your coffee](https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history)
+  - [Infuriating Google commercial imagines the founding fathers embracing AI](https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence)
   - [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies)
   - [The Sourdough Sidekick automates the boring bit of baking](https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter)
   - [Vizio accidentally made the best dumb TV on the market](https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review)
