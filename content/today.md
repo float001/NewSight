@@ -1,10 +1,12 @@
 # 今日安全资讯（2026-07-05）
 
 - 2Libra
+  - [apple music 桌面歌词显示](https://2libra.com/post/personal-works/8oyf16q)
   - [【💰】运气守恒定律](https://2libra.com/post/small-things/IW9wrgu)
   - [咱们论坛允许 agent 自己运营账号嘛，哈哈](https://2libra.com/post/forum-function/oy_Nyfg)
   - [嗨嗨嗨，最近我的插件升级了，所以我又来了分享我的开源插件了](https://2libra.com/post/open-source-sharing/fLGKqzS)
   - [在哪里可以有能对 iPhone 18 相关泄露文件进行下载？](https://2libra.com/post/apple/Jx9f-1m)
+  - [工作迷思](https://2libra.com/post/workplace-stories/v-WrJn1)
   - [想到一个问题，有没有吃恐龙肉会过敏的群体，因恐龙早已灭绝而躲过一劫 ～](https://2libra.com/post/idea/eqnfN0D)
   - [最近梯子极其不稳定，摇摇晃晃的，经常把我摔下来？](https://2libra.com/post/recommendations/td7XoAt)
 - 36氪
@@ -16,10 +18,14 @@
   - [加速走向全球，今年前5个月我国机器人出口近200亿元](https://36kr.com/newsflashes/3882054748090626?f=rss)
   - [华强北存储行情回升，多款固态硬盘、内存条价格上涨](https://36kr.com/newsflashes/3882103742083074?f=rss)
   - [大立光6月营收37.12亿元新台币](https://36kr.com/newsflashes/3882215401271303?f=rss)
+  - [张雪称负债接近1亿元，本月将还清全部债务](https://36kr.com/newsflashes/3882255495311362?f=rss)
   - [罕见热浪来袭，预计美国超1.65亿人面临高温健康风险](https://36kr.com/newsflashes/3882213157531905?f=rss)
   - [美光科技投资93亿美元扩建先进存储芯片项目，预计2028下半年出货HBM](https://36kr.com/newsflashes/3882061184413701?f=rss)
   - [超520亿元资金，撤离9只科技股](https://36kr.com/newsflashes/3882205411373062?f=rss)
+  - [马未都发视频，回应“铜像疑云”](https://36kr.com/newsflashes/3882254004924678?f=rss)
   - [高温催生制冷刚需，中国品牌空调海外热销](https://36kr.com/newsflashes/3882209832120585?f=rss)
+  - [鸿准6月营收同比增长10.66%](https://36kr.com/newsflashes/3882233720303621?f=rss)
+  - [麦科医药MT1002完成Ib/II期首例入组，卒中“双管线”布局加速推进](https://36kr.com/newsflashes/3882254845423624?f=rss)
 - daringfireball.net
   - [Day One Journal](https://dayoneapp.com/blog/introducing-daily-chat/)
   - [Fantastical 4.1.15 Adds Calendar Mirroring](https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/)
@@ -31,6 +37,8 @@
   - [Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams](https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/)
   - [Scientists reverse brain aging, with a nasal spray](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/)
   - [The End of North America](https://paulkrugman.substack.com/p/the-end-of-north-america-157)
+- Kali Linux Tutorials
+  - [Install VMware Tools on Ubuntu 18.04: Open VM Tools and ISO Guide](https://kalilinuxtutorials.com/install-vmware-tools-ubuntu/)
 - PromptLayer
   - [(Untitled)](https://blog.promptlayer.com/untitled-3/)
   - [(Untitled)](https://blog.promptlayer.com/untitled/)
@@ -62,6 +70,12 @@
   - [CVE-2026-14762 | code-projects Hotel and Tourism Reservation 1.0 Room Management Page /admin/rooms.php delete sql injection](https://vuldb.com/vuln/376351)
   - [CVE-2026-14763 | code-projects Hotel and Tourism Reservation 1.0 Tour Reservations Page /admin/tour_reserves.php tour sql injection](https://vuldb.com/vuln/376352)
   - [CVE-2026-14764 | code-projects Hotel and Tourism Reservation 1.0 Event Management Page /admin/add_event.php fdetails sql injection](https://vuldb.com/vuln/376353)
+  - [CVE-2026-14773 | itsourcecode Hospital Management System 1.0 /payment.php patientid sql injection](https://vuldb.com/vuln/376363)
+  - [CVE-2026-14774 | itsourcecode Hospital Management System 1.0 /paymentdischarge.php patientid sql injection](https://vuldb.com/vuln/376364)
+  - [CVE-2026-14775 | SourceCodester Onlne Examination & Learning Management System 1.0 /process_lesson.php user_id unrestricted upload](https://vuldb.com/vuln/376365)
+  - [CVE-2026-14776 | SourceCodester Onlne Examination & Learning Management System 1.0 Filename Extension /upload_files.php pathinfo unrestricted upload](https://vuldb.com/vuln/376366)
+  - [CVE-2026-14777 | SourceCodester Onlne Examination & Learning Management System 1.0 /announcements.php unrestricted upload](https://vuldb.com/vuln/376367)
+  - [CVE-2026-14778 | SourceCodester Onlne Examination & Learning Management System 1.0 Enrollment Management /ajax_enroll.php student_id/schedule_id/action improper authorization](https://vuldb.com/vuln/376368)
 - Vulners.com RSS Feed
   - [[SECURITY] Fedora 44 Update: chromium-150.0.7871.46-1.fc44](https://vulners.com/fedora/FEDORA:B36C870BCE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 44 Update: clamav-1.4.5-1.fc44](https://vulners.com/fedora/FEDORA:4889E7629A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -163,6 +177,10 @@
   - [CVE-2026-14695](https://vulners.com/nvd/NVD:CVE-2026-14695?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14695 SourceCodester Multi-Vendor Online Grocery Management System Registration Users.php save_client sql injection](https://vulners.com/cve/CVE-2026-14695?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14695 SourceCodester Multi-Vendor Online Grocery Management System Registration Users.php save_client sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14695?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14703 itsourcecode Hospital Management System patientorder.php sql injection](https://vulners.com/cve/CVE-2026-14703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14703 itsourcecode Hospital Management System patientorder.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14721](https://vulners.com/circl/CIRCL:CVE-2026-14721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14721](https://vulners.com/cve/CVE-2026-14721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-39047](https://vulners.com/githubexploit/2B9EC353-CF5D-5AEC-9541-42F0F1CE5FEC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-54998](https://vulners.com/githubexploit/296E4524-1227-5821-A8C1-006798A0526C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3](https://vulners.com/githubexploit/7AA8728A-DBBB-598B-8A88-CDFD3BBC34EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -188,4 +206,6 @@
   - [中国促进电影院引入AI智能体、卡拉OK](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E4%BF%83%E8%BF%9B%E7%94%B5%E5%BD%B1%E9%99%A2%E5%BC%95%E5%85%A5AI%E6%99%BA%E8%83%BD%E4%BD%93-%E5%8D%A1%E6%8B%89OK)
   - [印度将就儿童性虐待内容问题传唤Meta](https://blog.upx8.com/%E5%8D%B0%E5%BA%A6%E5%B0%86%E5%B0%B1%E5%84%BF%E7%AB%A5%E6%80%A7%E8%99%90%E5%BE%85%E5%86%85%E5%AE%B9%E9%97%AE%E9%A2%98%E4%BC%A0%E5%94%A4Meta)
   - [救援飞船发射升空 防NASA雨燕天文台坠落](https://blog.upx8.com/%E6%95%91%E6%8F%B4%E9%A3%9E%E8%88%B9%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA-%E9%98%B2NASA%E9%9B%A8%E7%87%95%E5%A4%A9%E6%96%87%E5%8F%B0%E5%9D%A0%E8%90%BD)
+  - [燃油危机冲击 俄罗斯出现中国电动车抢购潮](https://blog.upx8.com/%E7%87%83%E6%B2%B9%E5%8D%B1%E6%9C%BA%E5%86%B2%E5%87%BB-%E4%BF%84%E7%BD%97%E6%96%AF%E5%87%BA%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%8A%A2%E8%B4%AD%E6%BD%AE)
   - [美光1.5万亿日元扩建日本广岛项目动工](https://blog.upx8.com/%E7%BE%8E%E5%85%891-5%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83%E6%89%A9%E5%BB%BA%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E9%A1%B9%E7%9B%AE%E5%8A%A8%E5%B7%A5)
+  - [美国三座新私营微型核反应堆达成“临界”状态](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E4%B8%89%E5%BA%A7%E6%96%B0%E7%A7%81%E8%90%A5%E5%BE%AE%E5%9E%8B%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%BE%BE%E6%88%90-%E4%B8%B4%E7%95%8C-%E7%8A%B6%E6%80%81)
