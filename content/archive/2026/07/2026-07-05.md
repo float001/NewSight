@@ -10,6 +10,7 @@
   - [As downtown Seattle offices empty, city facing years of 'zombie' towers](https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/)
   - [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
   - [Curveball](https://mightyburger.net/projects/curveball/)
+  - [Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams](https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/)
   - [Scientists reverse brain aging, with a nasal spray](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/)
   - [The End of North America](https://paulkrugman.substack.com/p/the-end-of-north-america-157)
 - PromptLayer
@@ -17,6 +18,7 @@
 - simonwillison.net
   - [Better Models: Worse Tools](https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything)
   - [Building a World Map with only 500 bytes](https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything)
+  - [sqlite-utils 4.0rc2, mostly written by Claude Fable](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-54998 exploit](https://sploitus.com/exploit?id=296E4524-1227-5821-A8C1-006798A0526C&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3 exploit](https://sploitus.com/exploit?id=7AA8728A-DBBB-598B-8A88-CDFD3BBC34EE&utm_source=rss&utm_medium=rss)
@@ -102,8 +104,10 @@
   - [CVE-2026-14660 code-projects Online Job Portal login.php sql injection](https://vulners.com/cve/CVE-2026-14660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14660 code-projects Online Job Portal login.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-14660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14683](https://vulners.com/nvd/NVD:CVE-2026-14683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14684](https://vulners.com/nvd/NVD:CVE-2026-14684?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14684 HdrHistogram AbstractHistogram.java memory allocation](https://vulners.com/cve/CVE-2026-14684?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14684 HdrHistogram AbstractHistogram.java memory allocation](https://vulners.com/cvelist/CVELIST:CVE-2026-14684?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14685](https://vulners.com/nvd/NVD:CVE-2026-14685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14685 HdrHistogram AbstractHistogram AbstractHistogram.java recordValueWithCount state issue](https://vulners.com/cve/CVE-2026-14685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14685 HdrHistogram AbstractHistogram AbstractHistogram.java recordValueWithCount state issue](https://vulners.com/cvelist/CVELIST:CVE-2026-14685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-54998](https://vulners.com/githubexploit/296E4524-1227-5821-A8C1-006798A0526C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -125,5 +129,6 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单](https://blog.upx8.com/4nm%E8%BF%91%E5%94%AE%E7%BD%84-%E9%83%A8%E5%88%868nm%E6%8E%A5%E8%BF%91%E6%BB%A1%E8%BD%BD-%E4%B8%89%E6%98%9F%E6%99%B6%E5%9C%86%E4%BB%A3%E5%B7%A5%E5%BC%80%E5%A7%8B%E9%80%89%E6%8B%A9%E6%80%A7%E6%8E%A5%E5%8D%95)
   - [AI数据中心耗水量远超多数科技巨头报告的数据](https://blog.upx8.com/AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%80%97%E6%B0%B4%E9%87%8F%E8%BF%9C%E8%B6%85%E5%A4%9A%E6%95%B0%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E6%8A%A5%E5%91%8A%E7%9A%84%E6%95%B0%E6%8D%AE)
   - [美光1.5万亿日元扩建日本广岛项目动工](https://blog.upx8.com/%E7%BE%8E%E5%85%891-5%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83%E6%89%A9%E5%BB%BA%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E9%A1%B9%E7%9B%AE%E5%8A%A8%E5%B7%A5)
