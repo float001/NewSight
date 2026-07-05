@@ -7,11 +7,15 @@
   - [Falling fertility on the left as key driver of US birth decline](https://www.nature.com/articles/s41598-026-57582-3)
   - [Small Penis Rule](https://en.wikipedia.org/wiki/Small_penis_rule)
   - [The Computers Used in Movies](https://www.starringthecomputer.com/computers.html)
+- PromptLayer
+  - [OpenAI model analysis: o1 mini vs o1 preview](https://blog.promptlayer.com/an-analysis-of-openai-models-o1-vs-gpt-4o-2/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2018-10933 exploit](https://sploitus.com/exploit?id=6E016BCE-378F-55D2-8B5F-181B7B4FF958&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-22874 exploit](https://sploitus.com/exploit?id=C2F491B0-E4A1-5E91-864E-AE16138D98DB&utm_source=rss&utm_medium=rss)
+  - [libextractor-ole2-rce exploit](https://sploitus.com/exploit?id=0235A98C-2CDE-5F3B-8090-524B0CE466C9&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)
+  - [Trump memecoin investors lost $3.8 billion, analysis finds](https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/)
 - The Verge
   - [Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring](https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review)
   - [Where to preorder Grand Theft Auto VI](https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy)
