@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-07-06）
 
 - 2Libra
+  - [[资讯] 全球 AI 治理框架初现，开发者与技术团队的“合规压力”是否已触顶？](https://2libra.com/post/ai-trends/SuWW_kV)
   - [gpt5.5 吐槽](https://2libra.com/post/ai-tools/Ke1_PZN)
   - [【💰】有在相亲的兄弟吗，问个问题](https://2libra.com/post/love/sqeB5id)
   - [【💰】铁子们推荐一个安卓备用机。](https://2libra.com/post/phone/bNyghKA)
@@ -8,6 +9,7 @@
   - [下半年的这一周，气氛有点不对劲](https://2libra.com/post/social-observation/bXVjBhN)
   - [与人沟通不如 AI，你经历过怎样离谱的面试](https://2libra.com/post/prompts/iJSZNSk)
   - [中公教育涨停了还有那么多封单](https://2libra.com/post/stock-market/vdwYf1O)
+  - [产品派周榜｜这周新工具好像都想让 AI 直接上手干活了](https://2libra.com/post/ai-tools/bsXVpA6)
   - [今天工作进行如何了](https://2libra.com/post/touch-fish/XkoB5Z9)
   - [动态模块崩了吗](https://2libra.com/post/community/rx9Usb0)
   - [周末玩了 2 天地平线 5，风火轮超爽的跟过山车一样](https://2libra.com/post/game-discussion/G0n-Z5y)
@@ -19,6 +21,7 @@
   - [有人问：打工的尽头是什么？答：工字出头就是入土了。](https://2libra.com/post/workplace-stories/YZCqFlu)
   - [用 Parti 做了一个在线版的“巫师也平板” Rougue Like 游戏](https://2libra.com/post/personal-works/ltze6Rf)
   - [给我整不会了。昨天大失败，今天来个大成功](https://2libra.com/post/forum-function/sTPOz0U)
+  - [英特尔因市场环境变化上调部分 CPU 价格](https://2libra.com/post/computers-accessories/5tK_Aei)
   - [要不要买个 ns 2](https://2libra.com/post/switch/LBpIYd6)
   - [🏆 本周 2Libra 龙虎榜 6.30-7.6](https://2libra.com/post/forum-function/CJmEGg1)
 - 36氪
@@ -55,11 +58,13 @@
   - [人民币兑美元中间价报6.8066](https://36kr.com/newsflashes/3883476325118215?f=rss)
   - [佑驾创新正式发布四轮足机器人](https://36kr.com/newsflashes/3883577662877698?f=rss)
   - [保时捷考虑在德国再裁减4000个岗位](https://36kr.com/newsflashes/3883777489072136?f=rss)
+  - [内蒙古能源集团旗下资本控股公司增资至15亿，增幅 200%](https://36kr.com/newsflashes/3883924678308101?f=rss)
   - [净利预增近10倍后跌停，杭电股份回应：股价波动系市场行为，公司生产经营正常](https://36kr.com/newsflashes/3883697358729480?f=rss)
   - [出门问问与企业微信联合首发TicNote企业微信合作款](https://36kr.com/newsflashes/3883559759130627?f=rss)
   - [创业板指、科创50双双跌逾2%](https://36kr.com/newsflashes/3883552666382592?f=rss)
   - [创业板指涨超1%](https://36kr.com/newsflashes/3883509810933763?f=rss)
   - [创业板指震荡回落跌超1%](https://36kr.com/newsflashes/3883540546466052?f=rss)
+  - [北京利尔：向特定对象发行股票申请获深交所受理](https://36kr.com/newsflashes/3883902907707393?f=rss)
   - [北证50指数跌幅扩大至2%](https://36kr.com/newsflashes/3883723817742341?f=rss)
   - [千问大模型升级实时语音识别大模型Fun-ASR-Realtime](https://36kr.com/newsflashes/3883798757683464?f=rss)
   - [半日主力资金加仓医药生物股，抛售电子股](https://36kr.com/newsflashes/3883639708987648?f=rss)
@@ -71,6 +76,7 @@
   - [南向资金净买入额达120亿港元](https://36kr.com/newsflashes/3883743827537928?f=rss)
   - [南向资金净买入额达170亿港元](https://36kr.com/newsflashes/3883840255045890?f=rss)
   - [南向资金净买入额达200亿港元](https://36kr.com/newsflashes/3883871543603461?f=rss)
+  - [厦钨新能旗下雅安公司增资至12亿，增幅140%](https://36kr.com/newsflashes/3883895106678787?f=rss)
   - [国金证券：锂电7月旺季在即，优选优势格局赛道](https://36kr.com/newsflashes/3883431526510850?f=rss)
   - [天问二号抵达目标小行星开展科学探测](https://36kr.com/newsflashes/3883418390605827?f=rss)
   - [央行今日开展70亿元7天逆回购操作](https://36kr.com/newsflashes/3883482645966854?f=rss)
@@ -79,13 +85,18 @@
   - [宇信科技：公司通过投资专项基金来投资月之暗面股权](https://36kr.com/newsflashes/3883430457733129?f=rss)
   - [宜安科技：台铃订单已开始向客户批量交付](https://36kr.com/newsflashes/3883470778380545?f=rss)
   - [富国基金换帅完成工商变更](https://36kr.com/newsflashes/3883610741174535?f=rss)
+  - [康卡斯特旗下天空电视公司将以高达21.4亿美元收购ITV的媒体与娱乐部门](https://36kr.com/newsflashes/3883915650904073?f=rss)
+  - [微软Teams加强第三方AI智能体权限管理，需会议组织者确认后方可放行](https://36kr.com/newsflashes/3883934303367429?f=rss)
   - [恒指午间休盘涨0.83%，恒生科技指数涨1.16%](https://36kr.com/newsflashes/3883639273779200?f=rss)
   - [恒指开盘涨0.23%，恒生科技指数涨0.55%](https://36kr.com/newsflashes/3883482460582151?f=rss)
+  - [恒指收涨1.14%，快手涨超7%](https://36kr.com/newsflashes/3883884643708928?f=rss)
   - [恒生指数涨幅达1%](https://36kr.com/newsflashes/3883534844162057?f=rss)
   - [悟空安全启动高校电脑安全公益行动](https://36kr.com/newsflashes/3883563211337989?f=rss)
+  - [新凤鸣：上半年净利润同比预增94.59%—111.51%](https://36kr.com/newsflashes/3883932182819074?f=rss)
   - [易捷航空同意卡斯尔莱克52亿英镑收购要约](https://36kr.com/newsflashes/3883342342320130?f=rss)
   - [本周9只ETF上市，个人投资者持有份额比例近八成](https://36kr.com/newsflashes/3883403410501635?f=rss)
   - [欣旺达动力科技公司增资至约140.9亿](https://36kr.com/newsflashes/3883764484649217?f=rss)
+  - [正裕工业：拟约1.88亿元增资泰国全资子公司](https://36kr.com/newsflashes/3883910342783233?f=rss)
   - [沙利文全栈AI云服务报告：阿里云占比40.1%](https://36kr.com/newsflashes/3883658638405896?f=rss)
   - [沪深两市成交额突破1.5万亿](https://36kr.com/newsflashes/3883548232757505?f=rss)
   - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3883519948075272?f=rss)
@@ -95,6 +106,8 @@
   - [注销式回购引关注，上市公司打出“组合拳”](https://36kr.com/newsflashes/3883391892680963?f=rss)
   - [济民健康在台州成立集成电路公司](https://36kr.com/newsflashes/3883568686215171?f=rss)
   - [海力士半导体大连公司法定代表人变更](https://36kr.com/newsflashes/3883596510146562?f=rss)
+  - [海尔新能源在沈阳成立新公司，注册资本50万](https://36kr.com/newsflashes/3883900329718020?f=rss)
+  - [海康机器人移动机器人下线突破20万台](https://36kr.com/newsflashes/3883911070380036?f=rss)
   - [深圳四方精创资讯股份有限公司再次向港交所提交上市申请书](https://36kr.com/newsflashes/3883348123791364?f=rss)
   - [渣打银行与贝莱德合作推出亚太多资产基金](https://36kr.com/newsflashes/3883644251304198?f=rss)
   - [现货黄金站上4200美元](https://36kr.com/newsflashes/3883373975220229?f=rss)
@@ -108,6 +121,8 @@
   - [美联储7月维持利率不变的概率为77%](https://36kr.com/newsflashes/3883346863698185?f=rss)
   - [腾讯混元Hy3正式发布](https://36kr.com/newsflashes/3883833442430979?f=rss)
   - [花旗：印尼盾压力或在第三季度暂时缓解](https://36kr.com/newsflashes/3883688143958278?f=rss)
+  - [英国GEO公司geoSurge完成1200万美元种子轮融资](https://36kr.com/newsflashes/3883918767665408?f=rss)
+  - [苹果供应商立讯精密据悉香港的上市价格定在区间顶端](https://36kr.com/newsflashes/3883897306066953?f=rss)
   - [获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目](https://36kr.com/p/3883591654895873?f=rss)
   - [蔚来在舟山成立新汽车销售公司，注册资本1000万](https://36kr.com/newsflashes/3883778382803209?f=rss)
   - [跨境电商风向转变：新生代不再只拼价格，开始争“定价权”丨最前线](https://36kr.com/p/3883561480876297?f=rss)
@@ -116,6 +131,8 @@
   - [野村证券：市场对于“算力过剩”的担忧可能过度了，韩国芯片投资难以快速转化为产能](https://36kr.com/newsflashes/3883772210917639?f=rss)
   - [铭利达等在天津成立新能源科技公司](https://36kr.com/newsflashes/3883508778872832?f=rss)
   - [长城汽车在义乌成立新汽车销售公司，注册资本500万](https://36kr.com/newsflashes/3883793305481224?f=rss)
+  - [阿布扎比国家石油公司启动全球LNG营销和交易平台](https://36kr.com/newsflashes/3883903459438856?f=rss)
+  - [阿根廷可再生能源公司Genneia冲刺美股IPO](https://36kr.com/newsflashes/3883901611634944?f=rss)
   - [韩国汽油价格时隔三个月重回每升1900韩元以下](https://36kr.com/newsflashes/3883863295143944?f=rss)
   - [韩国考虑利用半导体税收设立增长基金](https://36kr.com/newsflashes/3883493008519169?f=rss)
   - [韩国财长：外汇全天候交易是韩元全球化起点，将进一步提升韩国资本市场和韩元吸引力](https://36kr.com/newsflashes/3883641150042115?f=rss)
@@ -132,6 +149,8 @@
   - [Medtronic Notifies 3.8 Million After ShinyHunters Data Breach](https://securityaffairs.com/194788/cyber-crime/medtronic-notifies-3-8-million-after-shinyhunters-data-breach.html)
 - defend.network
   - [North Korea PolinRider expands to 108 packages; Avalon ransomware framework emerges](https://defend.network/briefings/north-korea-malware-packages-avalon-framework-ransomwar-2026-07-06.html)
+- Emergent Minds | paddo.dev
+  - [You Can't Delete a Hallucination](https://paddo.dev/blog/you-cant-delete-a-hallucination/)
 - Hacker News Frontpage
   - ["These cameras are just like the Eye of Sauron"](https://arxiv.org/abs/2602.09239)
   - [CoCom regulations and GPS receivers for balloons and cubesats](https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube)
@@ -154,12 +173,17 @@
   - [RingZeroCTF Coding Challenge 1 [Hash Me If You Can] Writeup](https://infosecwriteups.com/ringzeroctf-coding-challenge-1-hash-me-if-you-can-writeup-ba55f820a1b8?source=rss----7b722bfd1b8d---4)
   - [The File That Answered Back — XXE Hidden in Cell A2](https://infosecwriteups.com/the-file-that-answered-back-xxe-hidden-in-cell-a2-20dbb8161dd8?source=rss----7b722bfd1b8d---4)
   - [Wazuh File Integrity Monitoring: Tracking Endpoint Modifications in Real Time](https://infosecwriteups.com/wazuh-file-integrity-monitoring-tracking-endpoint-modifications-in-real-time-269e384f3fa7?source=rss----7b722bfd1b8d---4)
+- infosecurity-magazine.com
+  - [NCA Issues Warning to Parents As Shared Child Photos Exploited by AI Tools](https://www.infosecurity-magazine.com/news/nca-warn-parents-volume/)
+  - [Researchers Claim First Fully Agentic Ransomware: JadePuffer](https://www.infosecurity-magazine.com/news/researchers-first-agentic/)
 - Kali Linux Tutorials
   - [Change Timezone on Ubuntu 18.04: Command Line and GUI Methods](https://kalilinuxtutorials.com/change-timezone-ubuntu/)
   - [Install FFmpeg on Ubuntu 18.04: apt, Snap, and Usage Examples](https://kalilinuxtutorials.com/install-ffmpeg-on-ubuntu/)
   - [Install PrestaShop on Ubuntu 18.04 with Nginx and MySQL](https://kalilinuxtutorials.com/install-prestashop-on-ubuntu/)
   - [Install Tomcat 9 on Ubuntu 18.04: Systemd Service Setup Guide](https://kalilinuxtutorials.com/install-tomcat-9-ubuntu-2/)
   - [Set Up SSH Keys on Ubuntu 18.04: Passwordless Login Guide](https://kalilinuxtutorials.com/set-up-ssh-keys-ubuntu/)
+- mjg59.dreamwidth.org
+  - [My blog has moved](https://mjg59.dreamwidth.org/74260.html)
 - PromptLayer
   - [OpenAI model analysis: o1 mini vs o1 preview](https://blog.promptlayer.com/an-analysis-of-openai-models-o1-vs-gpt-4o-2/)
   - [Top 5 Chinese LLMs: The Models Powering China’s AI Surge in 2024–25](https://blog.promptlayer.com/top-5-chinese-llms-the-models-powering-chinas-ai-surge-in-2024-25/)
@@ -169,6 +193,8 @@
   - [Demod: An iOS/iPadOS Client for rtl_tcp, SpyServer and KiwiSDR](https://www.rtl-sdr.com/demod-an-ios-ipados-client-for-rtl_tcp-spyserver-and-kiwisdr/)
   - [NyxScope: A Windows Multi-Protocol SDR Decoder Program with Multiple Digital Native Decoders](https://www.rtl-sdr.com/nyxscope-a-windows-multi-protocol-sdr-decoder-program-with-multiple-digital-native-decoders/)
   - [Testing WSPR HF Propagation with a Raspberry Pi 3B+ and TAPR Shield Running WsprryPi](https://www.rtl-sdr.com/testing-wspr-hf-propagation-with-a-raspberry-pi-3b-and-tapr-shield-running-wsprrypi/)
+- Securelist
+  - [When checking the URL isn’t enough: a Device Code Phishing attack via a Microsoft website](https://securelist.com/microsoft-device-code-phishing-attack/120350/)
 - Sploitus.com Exploits RSS Feed
   - [-DeepSeek-RagFlow-Docker- exploit](https://sploitus.com/exploit?id=94AF9BC3-6699-592A-9B8C-24EF62812A6E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2018-10933 exploit](https://sploitus.com/exploit?id=6E016BCE-378F-55D2-8B5F-181B7B4FF958&utm_source=rss&utm_medium=rss)
@@ -182,6 +208,7 @@
   - [Agent 越改越乱之后，我用评测和轨迹把它拉回来了](https://sumsec.me/2026/skill-evolution-results-trace.html)
 - TechCrunch
   - [Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)
+  - [Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent](https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/)
   - [Trump memecoin investors lost $3.8 billion, analysis finds](https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/)
   - [Uber’s European expansion plans may have hit a speed bump](https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/)
 - The Verge
@@ -250,6 +277,8 @@
   - [CVE-2026-59519 | Softaculous FormLayer Plugin up to 1.0.6 insertion of sensitive information into sent data](https://vuldb.com/vuln/376431)
   - [CVE-2026-6509 | Pardus Update up to 0.6.5 missing authentication](https://vuldb.com/vuln/376381)
   - [CVE-2026-9085 | Pardus-Parental-Control up to 0.6.x access control](https://vuldb.com/vuln/376380)
+- Wired
+  - [How Palestinians Are Building a Digital Archive That Can’t Be Erased](https://www.wired.com/story/how-palestinians-are-building-a-digital-archive-that-cant-be-erased/)
 - 不安全
   - [What Mythos Revealed About Modern Cybersecurity](https://buaq.net/go-427182.html)
   - [三星将推出990固态硬盘(不带PRO/EVO) 采用QLC闪存颗粒和无缓存设计 质保仅3年](https://buaq.net/go-427180.html)
