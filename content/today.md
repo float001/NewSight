@@ -2,21 +2,38 @@
 
 - 2Libra
   - [来设置你专属颜色，看谁的漂亮](https://2libra.com/post/sharing-discoveries/lnMijZk)
+- Ars Technica
+  - [Katalyst's satellite rescue mission is now in pursuit of NASA's Swift](https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/)
+- Cybersecurity News
+  - [CVE-2026-40138 & CVE-2026-40139: BeyondTrust Pre-Auth Flaws (CVSS 9.2)](https://securityonline.info/cve-2026-40138-beyondtrust-pre-authentication-vulnerability/)
+- daringfireball.net
+  - [Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’](https://allenpike.com/2025/why-is-chatgpt-so-good-claude/)
+  - [ATP Member Special: Mac-Assed Mac Apps](https://atp.fm/atp-dev-mac-assed-mac-apps)
+- Fidelis Security
+  - [How Container Security Monitoring Reduces Dwell Time in Cloud-Native Environments](https://fidelissecurity.com/threatgeek/cloud-security/container-security-monitoring-reduces-dwell-time/)
 - Hacker News Frontpage
   - [Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)](https://news.ycombinator.com/item?id=48806976)
 - infosecurity-magazine.com
   - [New Iran-Nexus Hacking Group Targets Israel Government and IT Sectors](https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Argument Injection in Gnu Inetutils exploit](https://sploitus.com/exploit?id=5D5162E4-9130-5E15-A96A-A205E12AF861&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Apple brings back card payments for Apple Account purchases in India after a four-year hiatus](https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/)
+- The Decoder
+  - [GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top](https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/)
 - The Verge
+  - [Five questions for Dr. Rubin, who’s armed with a mic and a bowtie](https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview)
   - [Former Xbox studios Double Fine and Compulsion will keep games after going indie](https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie)
   - [I spy](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy)
 - VulDB Recent Entries
+  - [CVE-2026-12154 | widgetpack Reviews Widgets for Google, Yelp & TripAdvisor Plugin Shortcode Feed_Shortcode::fbrev cross site scripting](https://vuldb.com/vuln/376489)
   - [CVE-2026-40138 | BeyondTrust Remote Support and Privileged Remote Access up to 25.3.2/26.2.0 access control](https://vuldb.com/vuln/376483)
   - [CVE-2026-40139 | BeyondTrust Remote Support up to 25.3.2/26.2.0 Authentication Request access control](https://vuldb.com/vuln/376484)
   - [CVE-2026-40140 | BeyondTrust Remote Support and Privileged Remote Access up to 25.3.2/26.2.0 denial of service](https://vuldb.com/vuln/376485)
   - [CVE-2026-40141 | BeyondTrust Remote Support and Privileged Remote Access up to 26.2.0 Web Application improper authorization](https://vuldb.com/vuln/376482)
   - [CVE-2026-40257 | OP-TEE up to 4.10.x SHA-3 Implementation off-by-one](https://vuldb.com/vuln/376480)
+  - [CVE-2026-41434 | OP-TEE up to 4.10.0 PKCS#11 TA recursion](https://vuldb.com/vuln/376488)
   - [CVE-2026-43825 | Apache OpenNLP up to 3.0.0-M3 Libsvm SvmDoccatModel.deserialize deserialization](https://vuldb.com/vuln/376481)
+  - [CVE-2026-48614 | WebPros Plesk up to 18.0.77 Plesk XML API improper authorization](https://vuldb.com/vuln/376490)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
