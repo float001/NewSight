@@ -9,18 +9,28 @@
 - daringfireball.net
   - [Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’](https://allenpike.com/2025/why-is-chatgpt-so-good-claude/)
   - [ATP Member Special: Mac-Assed Mac Apps](https://atp.fm/atp-dev-mac-assed-mac-apps)
+  - [Backblaze Versus Dropbox](https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/)
 - Fidelis Security
   - [How Container Security Monitoring Reduces Dwell Time in Cloud-Native Environments](https://fidelissecurity.com/threatgeek/cloud-security/container-security-monitoring-reduces-dwell-time/)
 - Hacker News Frontpage
+  - [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
+  - [Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/)
   - [Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)](https://news.ycombinator.com/item?id=48806976)
 - infosecurity-magazine.com
   - [New Iran-Nexus Hacking Group Targets Israel Government and IT Sectors](https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/)
+- Sandfly Security Blog RSS Feed
+  - [Sandfly 5.8 - Agentless Response and SSH Key Management](https://sandflysecurity.com/blog/sandfly-58-agentless-response-and-ssh-key-management)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Argument Injection in Gnu Inetutils exploit](https://sploitus.com/exploit?id=5D5162E4-9130-5E15-A96A-A205E12AF861&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all](https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/)
   - [Apple brings back card payments for Apple Account purchases in India after a four-year hiatus](https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/)
+  - [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+  - [You can now customize Siri’s pace and expressivity in the latest iOS 27 beta](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/)
 - The Decoder
+  - [Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers](https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/)
   - [GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top](https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/)
+  - [Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost](https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/)
 - The Verge
   - [Five questions for Dr. Rubin, who’s armed with a mic and a bowtie](https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview)
   - [Former Xbox studios Double Fine and Compulsion will keep games after going indie](https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie)
