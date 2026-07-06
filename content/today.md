@@ -1,22 +1,38 @@
 # 今日安全资讯（2026-07-06）
 
+- 2Libra
+  - [恭喜挪威进入 1/4 决赛](https://2libra.com/post/sports/esY9V_q)
 - 36氪
   - [8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价](https://36kr.com/p/3883400536453381?f=rss)
   - [Genesis Minerals对Vault Minerals提出39亿美元竞争性收购要约](https://36kr.com/newsflashes/3883350076551177?f=rss)
   - [“油电同权”大幕拉开，新能源汽车产业步入市场驱动新阶段](https://36kr.com/newsflashes/3883354482520067?f=rss)
   - [三季度公募基金调查显示：科技成长仍是“心头好”，极致分化后打法生变](https://36kr.com/newsflashes/3883353374535689?f=rss)
   - [上半年港股市场累计回购超过900亿港元，腾讯控股年内回购金额超240亿港元](https://36kr.com/newsflashes/3883352127844609?f=rss)
+  - [两市融资余额减少196.66亿元](https://36kr.com/newsflashes/3883448455246084?f=rss)
   - [中信建投：供需趋紧钠电放量，格局优异铝箔可期](https://36kr.com/newsflashes/3883373782560768?f=rss)
+  - [中信建投：看好优质商业地产公司、香港开发商、布局核心城市的开发商及二手中介公司](https://36kr.com/newsflashes/3883421111349509?f=rss)
   - [中信建投：算力硬件高波动期，等待财报指引落地](https://36kr.com/newsflashes/3883384178487296?f=rss)
+  - [中信证券：2027年下半年后铝价仍然具备3000美元/吨的成本曲线](https://36kr.com/newsflashes/3883402924798212?f=rss)
+  - [中信证券：下半年建议重点配置中国创新药，聚焦三类公司](https://36kr.com/newsflashes/3883417572208642?f=rss)
+  - [中信证券：底部期待黄金板块估值与盈利的双击](https://36kr.com/newsflashes/3883411200634887?f=rss)
   - [人形机器人产业再迎重要催化，资金持续借道ETF布局](https://36kr.com/newsflashes/3883389371904004?f=rss)
+  - [华泰证券：关注港股高沽空叠加盈利预期改善的方向](https://36kr.com/newsflashes/3883444946956551?f=rss)
+  - [华泰证券：韩国出口高增表明全球AI链贸易仍处上行通道，亚洲AI供应链有望持续受益](https://36kr.com/newsflashes/3883440823578889?f=rss)
+  - [国金证券：锂电7月旺季在即，优选优势格局赛道](https://36kr.com/newsflashes/3883431526510850?f=rss)
+  - [天问二号抵达目标小行星开展科学探测](https://36kr.com/newsflashes/3883418390605827?f=rss)
+  - [宇信科技：公司通过投资专项基金来投资月之暗面股权](https://36kr.com/newsflashes/3883430457733129?f=rss)
   - [易捷航空同意卡斯尔莱克52亿英镑收购要约](https://36kr.com/newsflashes/3883342342320130?f=rss)
+  - [本周9只ETF上市，个人投资者持有份额比例近八成](https://36kr.com/newsflashes/3883403410501635?f=rss)
   - [注销式回购引关注，上市公司打出“组合拳”](https://36kr.com/newsflashes/3883391892680963?f=rss)
   - [深圳四方精创资讯股份有限公司再次向港交所提交上市申请书](https://36kr.com/newsflashes/3883348123791364?f=rss)
   - [现货黄金站上4200美元](https://36kr.com/newsflashes/3883373975220229?f=rss)
   - [电子布价格连涨，产业链上游高端织机紧缺](https://36kr.com/newsflashes/3883374792962307?f=rss)
   - [科技股震���引发分歧，7月业绩基本面或成定价关键](https://36kr.com/newsflashes/3883349197893892?f=rss)
+  - [穆迪：新西兰本周料将维持利率不变](https://36kr.com/newsflashes/3883430790918405?f=rss)
   - [美联储7月维持利率不变的概率为77%](https://36kr.com/newsflashes/3883346863698185?f=rss)
   - [鄂尔多斯、和达金服共同领投，「贻如科技」完成超亿元A轮融资｜36氪首发](https://36kr.com/p/3880060701388809?f=rss)
+- Cybersecurity News
+  - [ModSecurity Vulnerabilities Let Attackers Bypass WAF Rules](https://securityonline.info/modsecurity-vulnerabilities-cve-2026-52747/)
 - Data Breach
   - [Medtronic Notifies 3.8 Million After ShinyHunters Data Breach](https://securityaffairs.com/194788/cyber-crime/medtronic-notifies-3-8-million-after-shinyhunters-data-breach.html)
 - Hacker News Frontpage
@@ -30,6 +46,9 @@
   - [The Computers Used in Movies](https://www.starringthecomputer.com/computers.html)
 - PromptLayer
   - [OpenAI model analysis: o1 mini vs o1 preview](https://blog.promptlayer.com/an-analysis-of-openai-models-o1-vs-gpt-4o-2/)
+  - [Top 5 Chinese LLMs: The Models Powering China’s AI Surge in 2024–25](https://blog.promptlayer.com/top-5-chinese-llms-the-models-powering-chinas-ai-surge-in-2024-25/)
+- rtl-sdr.com
+  - [Testing WSPR HF Propagation with a Raspberry Pi 3B+ and TAPR Shield Running WsprryPi](https://www.rtl-sdr.com/testing-wspr-hf-propagation-with-a-raspberry-pi-3b-and-tapr-shield-running-wsprrypi/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2018-10933 exploit](https://sploitus.com/exploit?id=6E016BCE-378F-55D2-8B5F-181B7B4FF958&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-22874 exploit](https://sploitus.com/exploit?id=C2F491B0-E4A1-5E91-864E-AE16138D98DB&utm_source=rss&utm_medium=rss)
@@ -97,7 +116,11 @@
   - [CVE-2026-59510 | ail-project AIL Framework PDF Object Handling PDF.get_filepath path traversal](https://vuldb.com/vuln/376384)
   - [CVE-2026-6509 | Pardus Update up to 0.6.5 missing authentication](https://vuldb.com/vuln/376381)
   - [CVE-2026-9085 | Pardus-Parental-Control up to 0.6.x access control](https://vuldb.com/vuln/376380)
+- 不安全
+  - [美国地方政府被发现向黑客支付100万美元封口费 轻信黑客承诺的已删除数据](https://buaq.net/go-427171.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [微软将利润转移到低税国家](https://www.solidot.org/story?sid=84760)
+- 黑海洋
+  - [美国自动驾驶出租车Waymo独立日趴窝](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6Waymo%E7%8B%AC%E7%AB%8B%E6%97%A5%E8%B6%B4%E7%AA%9D)
