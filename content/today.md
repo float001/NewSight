@@ -24,6 +24,7 @@
   - [英特尔因市场环境变化上调部分 CPU 价格](https://2libra.com/post/computers-accessories/5tK_Aei)
   - [要不要买个 ns 2](https://2libra.com/post/switch/LBpIYd6)
   - [需求](https://2libra.com/post/forum-function/G-ZGnyB)
+  - [预算十万左右，有哪些二手油车推荐？](https://2libra.com/post/automobile/2qhzXIf)
   - [🏆 本周 2Libra 龙虎榜 6.30-7.6](https://2libra.com/post/forum-function/CJmEGg1)
 - 36氪
   - [2026，量子计算迟到的狂欢：能拿订单、奔赴IPO、市值破百亿](https://36kr.com/p/3883513899380744?f=rss)
@@ -209,6 +210,8 @@
   - [The Fall of HiAnime: Vietnamese Police Arrest Piracy Ring](https://securityonline.info/hianime-piracy-arrests/)
   - [ValleyRAT Malware Hits Japanese and Chinese Users Through Email Attacks](https://securityonline.info/valleyrat-malware-email-campaign/)
   - [Weekly Threat Intelligence: The July 2026 Breaches](https://securityonline.info/weekly-threat-intelligence-july-2026/)
+- daringfireball.net
+  - [Jason Snell Ends His Column, and 28-Year Run, at Macworld](https://www.macworld.com/article/3175482)
 - Data Breach
   - [Medtronic Notifies 3.8 Million After ShinyHunters Data Breach](https://securityaffairs.com/194788/cyber-crime/medtronic-notifies-3-8-million-after-shinyhunters-data-breach.html)
 - defend.network
@@ -229,12 +232,15 @@
   - [Nintendo announces new product revisions in Europe with replaceable batteries](https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html)
   - [Real time map of France's rail network](https://carto.tchoo.net/)
   - [Regression to the Mean: on LLMs and the quiet death of the new](https://rruxandra.github.io/regression-to-the-mean.html)
+  - [Resetting Xbox](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)
   - [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io)
   - [Show HN: Scan your AI agents for dangerous capabilities](https://github.com/makerchecker/MakerChecker)
   - [Small Penis Rule](https://en.wikipedia.org/wiki/Small_penis_rule)
   - [The Computers Used in Movies](https://www.starringthecomputer.com/computers.html)
   - [The Fear of Dying Before You Become Yourself](https://www.dailicle.com/read/the-fear-of-dying-before-you-become-yourself)
   - [The Sneakerweb](https://sneakerweb.org/)
+- Hacking Dream
+  - [Web Application Penetration Testing Enum - Cheatsheet & Checklist](https://www.hackingdream.net/2026/07/web-application-penetration-testing-enum-cheatsheet-checklist.html)
 - Horizon3.ai
   - [How NodeZero® Rapid Response Helps Operationalize BOD 26-04](https://horizon3.ai/intelligence/blogs/nodezero-rapid-response-bod-26-04/)
 - idiallo.com
@@ -250,10 +256,13 @@
   - [The File That Answered Back — XXE Hidden in Cell A2](https://infosecwriteups.com/the-file-that-answered-back-xxe-hidden-in-cell-a2-20dbb8161dd8?source=rss----7b722bfd1b8d---4)
   - [Wazuh File Integrity Monitoring: Tracking Endpoint Modifications in Real Time](https://infosecwriteups.com/wazuh-file-integrity-monitoring-tracking-endpoint-modifications-in-real-time-269e384f3fa7?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
+  - [Indirect Prompt Injection in Web Content Targets AI Agents](https://www.infosecurity-magazine.com/news/indirect-prompt-injection-web/)
   - [NCA Issues Warning to Parents As Shared Child Photos Exploited by AI Tools](https://www.infosecurity-magazine.com/news/nca-warn-parents-volume/)
+  - [Opera GX Flaw Let Sites Auto-Install Mods to Steal Data](https://www.infosecurity-magazine.com/news/opera-gx-flaw-gx-mods-css/)
   - [Researchers Claim First Fully Agentic Ransomware: JadePuffer](https://www.infosecurity-magazine.com/news/researchers-first-agentic/)
 - johndcook.com
   - [e approximation](https://www.johndcook.com/blog/2026/07/06/e-approximation/)
+  - [Reproducing a geometry theorem diagram](https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/)
 - Kali Linux Tutorials
   - [Change Timezone on Ubuntu 18.04: Command Line and GUI Methods](https://kalilinuxtutorials.com/change-timezone-ubuntu/)
   - [Install FFmpeg on Ubuntu 18.04: apt, Snap, and Usage Examples](https://kalilinuxtutorials.com/install-ffmpeg-on-ubuntu/)
@@ -264,6 +273,8 @@
   - [The Download: South Korea’s hottest bachelors, and advancing eye transplants](https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/)
 - mjg59.dreamwidth.org
   - [My blog has moved](https://mjg59.dreamwidth.org/74260.html)
+- NVIDIA AI Blog
+  - [How Nations Are Deploying AI for Strategic Priorities](https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/)
 - PromptLayer
   - [OpenAI model analysis: o1 mini vs o1 preview](https://blog.promptlayer.com/an-analysis-of-openai-models-o1-vs-gpt-4o-2/)
   - [Top 5 Chinese LLMs: The Models Powering China’s AI Surge in 2024–25](https://blog.promptlayer.com/top-5-chinese-llms-the-models-powering-chinas-ai-surge-in-2024-25/)
@@ -295,6 +306,8 @@
   - [Agent 越改越乱之后，我用评测和轨迹把它拉回来了](https://sumsec.me/2026/skill-evolution-results-trace.html)
 - TechCrunch
   - [Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)
+  - [Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year](https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/)
+  - [How to reserve and change your WhatsApp username](https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/)
   - [Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent](https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/)
   - [Station F ramps up as a launchpad for Europe’s hottest AI startups](https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/)
   - [Trump memecoin investors lost $3.8 billion, analysis finds](https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/)
@@ -318,6 +331,7 @@
   - [CVE-2026-12250 | Pardus Domain Joiner up to 0.5.3 information disclosure](https://vuldb.com/vuln/376382)
   - [CVE-2026-12386 | Pardus Pen up to 4.1.5 null termination](https://vuldb.com/vuln/376383)
   - [CVE-2026-12686 | Adiss Biloop 6.1.1 Cross-Tenant Authorization company ID information disclosure](https://vuldb.com/vuln/376459)
+  - [CVE-2026-13698 | OpenVPN up to 2.5.11/2.6.20/2.7.4 memory leak](https://vuldb.com/vuln/376466)
   - [CVE-2026-13705 | Imager up to 1.031 SGI Reader read_rgb_16_rle out-of-bounds](https://vuldb.com/vuln/376463)
   - [CVE-2026-13708 | Imager::File::JPEG up to 1.002 JPEG Marker i_readjpeg_wiol denial of service](https://vuldb.com/vuln/376464)
   - [CVE-2026-14786 | radareorg radare2 up to 6.1.6 libr/util/str.c r_str_word_get0set integer overflow (Issue 26047)](https://vuldb.com/vuln/376375)
@@ -379,11 +393,13 @@
   - [CVE-2026-49852 | joserfc 1.3.5/1.4.1/1.4.2/1.6.7 HS256/HS384/HS512 improper authentication](https://vuldb.com/vuln/376436)
   - [CVE-2026-50181 | Langroid 0.53.4/0.53.15/0.59.32/0.63.0 File Tools path traversal](https://vuldb.com/vuln/376435)
   - [CVE-2026-53913 | Apache Camel up to 4.18.2/4.20.x Camel-Keycloak permission](https://vuldb.com/vuln/376422)
+  - [CVE-2026-54893 | Swoosh up to 1.26.2 MsGraph from injection](https://vuldb.com/vuln/376465)
   - [CVE-2026-55993 | Apache Camel up to 4.14.8/4.18.2/4.20.x Camel-Atmosphere-Websocket server-side request forgery](https://vuldb.com/vuln/376423)
   - [CVE-2026-55994 | Apache Camel up to 4.18.2/4.20.x Camel-Iggy server-side request forgery](https://vuldb.com/vuln/376424)
   - [CVE-2026-56139 | Apache Camel up to 4.14.8/4.18.2/4.20.x Camel-Undertow information exposure](https://vuldb.com/vuln/376425)
   - [CVE-2026-56140 | Apache Camel up to 4.14.8/4.18.2/4.20.x Camel-AWS2-SNS injection](https://vuldb.com/vuln/376426)
   - [CVE-2026-58226 | elixir-mint hpax up to 1.0.3 HPACK Integer Decoder lib/hpax/types.ex decode_remaining_integer denial of service](https://vuldb.com/vuln/376450)
+  - [CVE-2026-58380 | GIMP PNM File pnmscanner_gettoken off-by-one](https://vuldb.com/vuln/376467)
   - [CVE-2026-59510 | ail-project AIL Framework PDF Object Handling PDF.get_filepath path traversal](https://vuldb.com/vuln/376384)
   - [CVE-2026-59511 | Tim Strifler Exclusive Addons Plugin up to 2.7.9.9 information disclosure](https://vuldb.com/vuln/376429)
   - [CVE-2026-59519 | Softaculous FormLayer Plugin up to 1.0.6 insertion of sensitive information into sent data](https://vuldb.com/vuln/376431)
@@ -391,8 +407,11 @@
   - [CVE-2026-6509 | Pardus Update up to 0.6.5 missing authentication](https://vuldb.com/vuln/376381)
   - [CVE-2026-6900 | B&R Industrial Automation APROL up to R 4.4-01P4 certificate validation](https://vuldb.com/vuln/376461)
   - [CVE-2026-6901 | B&R Industrial Automation APROL up to R 4.4-01P4 untrusted search path](https://vuldb.com/vuln/376462)
+  - [CVE-2026-7185 | T-Systems TAO Suite prior 2602.00 File Upload unrestricted upload](https://vuldb.com/vuln/376468)
   - [CVE-2026-9085 | Pardus-Parental-Control up to 0.6.x access control](https://vuldb.com/vuln/376380)
   - [CVE-2026-9165 | Red Hat Advanced Cluster Security for Kubernetes Authenticated GraphQL API resource consumption](https://vuldb.com/vuln/376451)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Is Your AppSec Program Built to Close the OWASP Top 10 2025 Coverage Gap?](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
   - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerabilities in the net/bluetooth/eir.c and net/bluetooth/mgmt.c modules of Linux kernel allow a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -406,12 +425,15 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- wheresyoured.at
+  - [Premium: The Hater's Guide To SoftBank](https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/)
 - Wired
   - [9 Best Keyboards (2025), Tested and Reviewed](https://www.wired.com/gallery/best-keyboards/)
   - [Bentley Torcal EV: Price, Specs, Availability](https://www.wired.com/story/bentley-reveals-its-first-electric-car-amid-the-wreckage-of-the-luxury-ev-market/)
   - [Good News! Turns Out the Earth Will Never Be Swallowed by the Sun](https://www.wired.com/story/good-news-it-turns-out-the-earth-will-never-be-swallowed-by-the-sun/)
   - [How Palestinians Are Building a Digital Archive That Can’t Be Erased](https://www.wired.com/story/how-palestinians-are-building-a-digital-archive-that-cant-be-erased/)
   - [Sony Bravia 7 Mark II: Midrange but Priced High (2026)](https://www.wired.com/review/sony-bravia-7-mark-ii/)
+  - [The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks](https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/)
   - [What if the Universe Isn’t as Uniform as Scientists Think?](https://www.wired.com/story/what-if-the-universe-wasnt-as-uniform-as-scientists-think/)
 - 不安全
   - [France to Stop Certifying Non-Quantum-Safe Encryption](https://buaq.net/go-427268.html)
@@ -431,6 +453,7 @@
   - [GTA 6 没有杀死实体游戏，因为它已经死了](https://www.ifanr.com/1669985?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测腾讯 Hy3 正式版，这次终于赶上了「AI 下半场」](https://www.ifanr.com/1671041?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [纯电 C 级、燃油小 G，奔驰史上最大新车潮要来了](https://www.ifanr.com/1671075?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [预售 25.98 万元起！全新坦克 300 轴距加长，舒适性大提升](https://www.ifanr.com/1671103?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [一加以代金券履行保修 但代金券无法用掉](https://blog.upx8.com/%E4%B8%80%E5%8A%A0%E4%BB%A5%E4%BB%A3%E9%87%91%E5%88%B8%E5%B1%A5%E8%A1%8C%E4%BF%9D%E4%BF%AE-%E4%BD%86%E4%BB%A3%E9%87%91%E5%88%B8%E6%97%A0%E6%B3%95%E7%94%A8%E6%8E%89)
   - [制造工艺问题 英伟达Kyber机架或遇延迟](https://blog.upx8.com/%E5%88%B6%E9%80%A0%E5%B7%A5%E8%89%BA%E9%97%AE%E9%A2%98-%E8%8B%B1%E4%BC%9F%E8%BE%BEKyber%E6%9C%BA%E6%9E%B6%E6%88%96%E9%81%87%E5%BB%B6%E8%BF%9F)
