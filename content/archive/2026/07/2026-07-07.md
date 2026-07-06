@@ -2,6 +2,12 @@
 
 - 2Libra
   - [来设置你专属颜色，看谁的漂亮](https://2libra.com/post/sharing-discoveries/lnMijZk)
+- 36氪
+  - [Rivian拟发行7500万股股票，用于美国能源部贷款相关出资](https://36kr.com/newsflashes/3884760243875843?f=rss)
+  - [三星电子预计第二季度营业利润同比暴增1810%](https://36kr.com/newsflashes/3884759374655749?f=rss)
+  - [快手：腾讯持股比例将由约15.68%下降至9.37%，不再为本公司主要股东](https://36kr.com/newsflashes/3884761339768837?f=rss)
+  - [美股三大指数集体收涨，大型科技股涨跌不一](https://36kr.com/newsflashes/3884757957882120?f=rss)
+  - [英伟达AI服务器架构据传将延后推出，公司回应称路线图并没有改变](https://36kr.com/newsflashes/3884758749016329?f=rss)
 - Ars Technica
   - [Katalyst's satellite rescue mission is now in pursuit of NASA's Swift](https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/)
 - Blog - Praetorian
@@ -17,12 +23,14 @@
   - [ATP Member Special: Mac-Assed Mac Apps](https://atp.fm/atp-dev-mac-assed-mac-apps)
   - [Backblaze Versus Dropbox](https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/)
   - [Markdown Now Has a UTI in Apple’s Version 27 OSes](https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown)
+  - [★ Apple Should Eliminate the App Icon ‘Squircle Jail’](https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail)
 - darkreading
   - ['BusySnake' Infostealer Slithers into Critical Infrastructure Networks](https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks)
   - [CitrixBleed-ing Again? NetScaler Vulnerability Under Attack](https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack)
 - Fidelis Security
   - [How Container Security Monitoring Reduces Dwell Time in Cloud-Native Environments](https://fidelissecurity.com/threatgeek/cloud-security/container-security-monitoring-reduces-dwell-time/)
 - Hacker News Frontpage
+  - [How little exercise can you get away with?](https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with)
   - [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
   - [Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/)
   - [Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)](https://news.ycombinator.com/item?id=48806976)
@@ -56,15 +64,18 @@
   - [I spy](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy)
 - VulDB Recent Entries
   - [CVE-2025-59615 | Qualcomm Snapdragon memory corruption](https://vuldb.com/vuln/376516)
+  - [CVE-2025-59616 | Qualcomm Snapdragon IOCTL Call memory corruption](https://vuldb.com/vuln/376562)
   - [CVE-2026-11405 | Tenda Router Login /bin/httpd login Password backdoor](https://vuldb.com/vuln/376512)
   - [CVE-2026-12154 | widgetpack Reviews Widgets for Google, Yelp & TripAdvisor Plugin Shortcode Feed_Shortcode::fbrev cross site scripting](https://vuldb.com/vuln/376489)
   - [CVE-2026-14468 | HashiCorp Terraform Enterprise up to 2.0.3 VCS Ingestion Boundary information disclosure](https://vuldb.com/vuln/376540)
+  - [CVE-2026-14471 | AWS MCP Gateway Registry up to 1.0.12 Retention Policy Management table_name neutralization](https://vuldb.com/vuln/376563)
   - [CVE-2026-14536 | Devolutions Devolutions Server up to 2026.2.8 privilege escalation](https://vuldb.com/vuln/376506)
   - [CVE-2026-14898 | OpenAI Codex desktop app for macOS up to 26.527.31325 injection](https://vuldb.com/vuln/376507)
   - [CVE-2026-21384 | Qualcomm Snapdragon memory corruption](https://vuldb.com/vuln/376517)
   - [CVE-2026-25271 | Qualcomm Snapdragon Compute Modified memory corruption](https://vuldb.com/vuln/376535)
   - [CVE-2026-33734 | FOSSBilling up to 0.7.x Massmailer sql injection](https://vuldb.com/vuln/376541)
   - [CVE-2026-34038 | coollabsio Coolify up to 4.0.0-beta.468 Deployment Handling command injection](https://vuldb.com/vuln/376537)
+  - [CVE-2026-34153 | coollabsio Coolify up to 4.0.0-beta.470 File Storage LocalFileVolume.php saveStorageOnServer fs_path/parent_dir os command injection](https://vuldb.com/vuln/376560)
   - [CVE-2026-40138 | BeyondTrust Remote Support and Privileged Remote Access up to 25.3.2/26.2.0 access control](https://vuldb.com/vuln/376483)
   - [CVE-2026-40139 | BeyondTrust Remote Support up to 25.3.2/26.2.0 Authentication Request access control](https://vuldb.com/vuln/376484)
   - [CVE-2026-40140 | BeyondTrust Remote Support and Privileged Remote Access up to 25.3.2/26.2.0 denial of service](https://vuldb.com/vuln/376485)
@@ -72,10 +83,18 @@
   - [CVE-2026-40257 | OP-TEE up to 4.10.x SHA-3 Implementation off-by-one](https://vuldb.com/vuln/376480)
   - [CVE-2026-41434 | OP-TEE up to 4.10.0 PKCS#11 TA recursion](https://vuldb.com/vuln/376488)
   - [CVE-2026-41515 | OP-TEE up to 4.10.x NXP CAAM Crypto Driver memcmp missing encryption](https://vuldb.com/vuln/376502)
+  - [CVE-2026-42148 | coollabsio Coolify up to 4.0.0-beta.473 Settings Index.php buildHelperImage dev_helper_version os command injection](https://vuldb.com/vuln/376555)
+  - [CVE-2026-42153 | coollabsio Coolify up to 4.0.0-beta.473 Setting command injection](https://vuldb.com/vuln/376558)
+  - [CVE-2026-42204 | coollabsio Coolify up to 4.0.0-beta.473 Command Execution os command injection](https://vuldb.com/vuln/376559)
   - [CVE-2026-42331 | FOSSBilling up to 0.5.5 Guest API gateway_id improper authorization](https://vuldb.com/vuln/376538)
   - [CVE-2026-42341 | FOSSBilling up to 0.7.2 IPN ipn.php improper authentication](https://vuldb.com/vuln/376536)
   - [CVE-2026-42546 | OP-TEE up to 4.10.x Shared Memory Cleanup core/tee/entry_std.c cleanup_shm_refs memory leak](https://vuldb.com/vuln/376503)
   - [CVE-2026-43825 | Apache OpenNLP up to 3.0.0-M3 Libsvm SvmDoccatModel.deserialize deserialization](https://vuldb.com/vuln/376481)
+  - [CVE-2026-43918 | FOSSBilling up to 0.7.x Session Identity Loader src/di.php session expiration](https://vuldb.com/vuln/376556)
+  - [CVE-2026-43921 | FOSSBilling up to 0.7.2 Config config.php prettyPrintArrayToPHP code injection](https://vuldb.com/vuln/376557)
+  - [CVE-2026-43925 | FOSSBilling up to 0.7.x Client Self-Registration Endpoint dynamically-determined object attributes](https://vuldb.com/vuln/376564)
+  - [CVE-2026-43927 | FOSSBilling up to 0.7.x Promo Code race condition](https://vuldb.com/vuln/376565)
+  - [CVE-2026-43928 | FOSSBilling up to 0.7.x IPN Call mc_gross source code](https://vuldb.com/vuln/376566)
   - [CVE-2026-44362 | OP-TEE up to 4.10.x Subkey Rollback Protection core/crypto/signed_hdr.c shdr_load_pub_key Version downgrade](https://vuldb.com/vuln/376504)
   - [CVE-2026-48614 | WebPros Plesk up to 18.0.77 Plesk XML API improper authorization](https://vuldb.com/vuln/376490)
   - [CVE-2026-50133 | gohugoio Hugo up to 0.161.x cross site scripting](https://vuldb.com/vuln/376514)
@@ -93,6 +112,7 @@
   - [CVE-2026-58403 | gohugoio Hugo up to 0.163.0 Virtual Filesystem fs/rootmappingfs.go statRoot somefile symlink](https://vuldb.com/vuln/376515)
   - [CVE-2026-58404 | gohugoio Hugo up to 0.163.0 Security HTTP URLs server-side request forgery](https://vuldb.com/vuln/376510)
   - [CVE-2026-59089 | GIMP TIM Loader integer overflow](https://vuldb.com/vuln/376511)
+  - [CVE-2026-59710 | showdown up to 2.1.0 Table Parser tables.js parseHeaders cross site scripting](https://vuldb.com/vuln/376561)
   - [CVE-2026-59711 | showdown up to 2.1.0 cross site scripting](https://vuldb.com/vuln/376543)
   - [CVE-2026-59712 | Leantime up to 3.4.4 JSON-RPC API Users::getUser user ID improper authorization](https://vuldb.com/vuln/376544)
 - 代码审计星球
