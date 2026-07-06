@@ -1,9 +1,15 @@
 # 今日安全资讯（2026-07-06）
 
 - 2Libra
+  - [与人沟通不如 AI，你经历过怎样离谱的面试](https://2libra.com/post/prompts/iJSZNSk)
+  - [哈哈，今天被潘多拉照顾到了](https://2libra.com/post/ai-applications/1LRzaqZ)
+  - [广西多地暴雨导致水浸](https://2libra.com/post/social-observation/cJ3V-wF)
   - [恭喜挪威进入 1/4 决赛](https://2libra.com/post/sports/esY9V_q)
+  - [给我整不会了。昨天大失败，今天来个大成功](https://2libra.com/post/forum-function/sTPOz0U)
+  - [🏆 本周 2Libra 龙虎榜 6.30-7.6](https://2libra.com/post/forum-function/CJmEGg1)
 - 36氪
   - [8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价](https://36kr.com/p/3883400536453381?f=rss)
+  - [A股三大指数集体高开，硬件股领涨](https://36kr.com/newsflashes/3883486652100868?f=rss)
   - [Genesis Minerals对Vault Minerals提出39亿美元竞争性收购要约](https://36kr.com/newsflashes/3883350076551177?f=rss)
   - [“油电同权”大幕拉开，新能源汽车产业步入市场驱动新阶段](https://36kr.com/newsflashes/3883354482520067?f=rss)
   - [三季度公募基金调查显示：科技成长仍是“心头好”，极致分化后打法生变](https://36kr.com/newsflashes/3883353374535689?f=rss)
@@ -16,13 +22,19 @@
   - [中信证券：下半年建议重点配置中国创新药，聚焦三类公司](https://36kr.com/newsflashes/3883417572208642?f=rss)
   - [中信证券：底部期待黄金板块估值与盈利的双击](https://36kr.com/newsflashes/3883411200634887?f=rss)
   - [人形机器人产业再迎重要催化，资金持续借道ETF布局](https://36kr.com/newsflashes/3883389371904004?f=rss)
+  - [人民币兑美元中间价报6.8066](https://36kr.com/newsflashes/3883476325118215?f=rss)
+  - [创业板指涨超1%](https://36kr.com/newsflashes/3883509810933763?f=rss)
   - [华泰证券：关注港股高沽空叠加盈利预期改善的方向](https://36kr.com/newsflashes/3883444946956551?f=rss)
   - [华泰证券：韩国出口高增表明全球AI链贸易仍处上行通道，亚洲AI供应链有望持续受益](https://36kr.com/newsflashes/3883440823578889?f=rss)
   - [国金证券：锂电7月旺季在即，优选优势格局赛道](https://36kr.com/newsflashes/3883431526510850?f=rss)
   - [天问二号抵达目标小行星开展科学探测](https://36kr.com/newsflashes/3883418390605827?f=rss)
+  - [央行今日开展70亿元7天逆回购操作](https://36kr.com/newsflashes/3883482645966854?f=rss)
   - [宇信科技：公司通过投资专项基金来投资月之暗面股权](https://36kr.com/newsflashes/3883430457733129?f=rss)
+  - [宜安科技：台铃订单已开始向客户批量交付](https://36kr.com/newsflashes/3883470778380545?f=rss)
+  - [恒指开盘涨0.23%，恒生科技指数涨0.55%](https://36kr.com/newsflashes/3883482460582151?f=rss)
   - [易捷航空同意卡斯尔莱克52亿英镑收购要约](https://36kr.com/newsflashes/3883342342320130?f=rss)
   - [本周9只ETF上市，个人投资者持有份额比例近八成](https://36kr.com/newsflashes/3883403410501635?f=rss)
+  - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3883519948075272?f=rss)
   - [注销式回购引关注，上市公司打出“组合拳”](https://36kr.com/newsflashes/3883391892680963?f=rss)
   - [深圳四方精创资讯股份有限公司再次向港交所提交上市申请书](https://36kr.com/newsflashes/3883348123791364?f=rss)
   - [现货黄金站上4200美元](https://36kr.com/newsflashes/3883373975220229?f=rss)
@@ -31,8 +43,12 @@
   - [穆迪：新西兰本周料将维持利率不变](https://36kr.com/newsflashes/3883430790918405?f=rss)
   - [美联储7月维持利率不变的概率为77%](https://36kr.com/newsflashes/3883346863698185?f=rss)
   - [鄂尔多斯、和达金服共同领投，「贻如科技」完成超亿元A轮融资｜36氪首发](https://36kr.com/p/3880060701388809?f=rss)
+  - [铭利达等在天津成立新能源科技公司](https://36kr.com/newsflashes/3883508778872832?f=rss)
+  - [韩国考虑利用半导体税收设立增长基金](https://36kr.com/newsflashes/3883493008519169?f=rss)
 - Cybersecurity News
+  - [FreeBSD Security Advisories Detail Critical Vulnerabilities](https://securityonline.info/freebsd-security-advisories/)
   - [ModSecurity Vulnerabilities Let Attackers Bypass WAF Rules](https://securityonline.info/modsecurity-vulnerabilities-cve-2026-52747/)
+  - [Weekly Threat Intelligence: The July 2026 Breaches](https://securityonline.info/weekly-threat-intelligence-july-2026/)
 - Data Breach
   - [Medtronic Notifies 3.8 Million After ShinyHunters Data Breach](https://securityaffairs.com/194788/cyber-crime/medtronic-notifies-3-8-million-after-shinyhunters-data-breach.html)
 - Hacker News Frontpage
@@ -44,14 +60,17 @@
   - [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io)
   - [Small Penis Rule](https://en.wikipedia.org/wiki/Small_penis_rule)
   - [The Computers Used in Movies](https://www.starringthecomputer.com/computers.html)
+  - [The Sneakerweb](https://sneakerweb.org/)
 - PromptLayer
   - [OpenAI model analysis: o1 mini vs o1 preview](https://blog.promptlayer.com/an-analysis-of-openai-models-o1-vs-gpt-4o-2/)
   - [Top 5 Chinese LLMs: The Models Powering China’s AI Surge in 2024–25](https://blog.promptlayer.com/top-5-chinese-llms-the-models-powering-chinas-ai-surge-in-2024-25/)
 - rtl-sdr.com
   - [Testing WSPR HF Propagation with a Raspberry Pi 3B+ and TAPR Shield Running WsprryPi](https://www.rtl-sdr.com/testing-wspr-hf-propagation-with-a-raspberry-pi-3b-and-tapr-shield-running-wsprrypi/)
 - Sploitus.com Exploits RSS Feed
+  - [-DeepSeek-RagFlow-Docker- exploit](https://sploitus.com/exploit?id=94AF9BC3-6699-592A-9B8C-24EF62812A6E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2018-10933 exploit](https://sploitus.com/exploit?id=6E016BCE-378F-55D2-8B5F-181B7B4FF958&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-22874 exploit](https://sploitus.com/exploit?id=C2F491B0-E4A1-5E91-864E-AE16138D98DB&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-25555 exploit](https://sploitus.com/exploit?id=8169D84D-4143-597E-BAA8-F4746E806252&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-8713 exploit](https://sploitus.com/exploit?id=6E4D26B8-DE2F-5FAB-85C9-D38C397BEE5F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-9290 exploit](https://sploitus.com/exploit?id=2A53B779-7331-5763-8652-F0D828CF73A6&utm_source=rss&utm_medium=rss)
   - [libextractor-ole2-rce exploit](https://sploitus.com/exploit?id=0235A98C-2CDE-5F3B-8090-524B0CE466C9&utm_source=rss&utm_medium=rss)
@@ -122,5 +141,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [微软将利润转移到低税国家](https://www.solidot.org/story?sid=84760)
+- 爱范儿
+  - [Codex 一键省 Token 大法，亲测有效](https://www.ifanr.com/1669952?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [美国自动驾驶出租车Waymo独立日趴窝](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6Waymo%E7%8B%AC%E7%AB%8B%E6%97%A5%E8%B6%B4%E7%AA%9D)
+  - [韩国拟用芯片税收设基金 助推未来产业](https://blog.upx8.com/%E9%9F%A9%E5%9B%BD%E6%8B%9F%E7%94%A8%E8%8A%AF%E7%89%87%E7%A8%8E%E6%94%B6%E8%AE%BE%E5%9F%BA%E9%87%91-%E5%8A%A9%E6%8E%A8%E6%9C%AA%E6%9D%A5%E4%BA%A7%E4%B8%9A)
