@@ -4,14 +4,19 @@
   - [来设置你专属颜色，看谁的漂亮](https://2libra.com/post/sharing-discoveries/lnMijZk)
 - Ars Technica
   - [Katalyst's satellite rescue mission is now in pursuit of NASA's Swift](https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/)
+- Blog - Praetorian
+  - [FreeBSoD: Leveraging Language Models to Find and Exploit Kernel Bugs (Part 2 of 2)](https://www.praetorian.com/blog/llm-kernel-exploit-development/)
 - CERT Recently Published Vulnerability Notes
   - [VU#213560: Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560)
+- Cheesy Rumbles
+  - [Hook Chains (how I built Crystal Kit incorrectly*)](https://rastamouse.me/cpl-hook-chains/)
 - Cybersecurity News
   - [CVE-2026-40138 & CVE-2026-40139: BeyondTrust Pre-Auth Flaws (CVSS 9.2)](https://securityonline.info/cve-2026-40138-beyondtrust-pre-authentication-vulnerability/)
 - daringfireball.net
   - [Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’](https://allenpike.com/2025/why-is-chatgpt-so-good-claude/)
   - [ATP Member Special: Mac-Assed Mac Apps](https://atp.fm/atp-dev-mac-assed-mac-apps)
   - [Backblaze Versus Dropbox](https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/)
+  - [Markdown Now Has a UTI in Apple’s Version 27 OSes](https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown)
 - Fidelis Security
   - [How Container Security Monitoring Reduces Dwell Time in Cloud-Native Environments](https://fidelissecurity.com/threatgeek/cloud-security/container-security-monitoring-reduces-dwell-time/)
 - Hacker News Frontpage
@@ -40,20 +45,37 @@
 - The Verge
   - [Five questions for Dr. Rubin, who’s armed with a mic and a bowtie](https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview)
   - [Former Xbox studios Double Fine and Compulsion will keep games after going indie](https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie)
+  - [Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price](https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale)
   - [I spy](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy)
 - VulDB Recent Entries
+  - [CVE-2025-59615 | Qualcomm Snapdragon memory corruption](https://vuldb.com/vuln/376516)
+  - [CVE-2026-11405 | Tenda Router Login /bin/httpd login Password backdoor](https://vuldb.com/vuln/376512)
   - [CVE-2026-12154 | widgetpack Reviews Widgets for Google, Yelp & TripAdvisor Plugin Shortcode Feed_Shortcode::fbrev cross site scripting](https://vuldb.com/vuln/376489)
+  - [CVE-2026-14536 | Devolutions Devolutions Server up to 2026.2.8 privilege escalation](https://vuldb.com/vuln/376506)
+  - [CVE-2026-14898 | OpenAI Codex desktop app for macOS up to 26.527.31325 injection](https://vuldb.com/vuln/376507)
+  - [CVE-2026-21384 | Qualcomm Snapdragon memory corruption](https://vuldb.com/vuln/376517)
   - [CVE-2026-40138 | BeyondTrust Remote Support and Privileged Remote Access up to 25.3.2/26.2.0 access control](https://vuldb.com/vuln/376483)
   - [CVE-2026-40139 | BeyondTrust Remote Support up to 25.3.2/26.2.0 Authentication Request access control](https://vuldb.com/vuln/376484)
   - [CVE-2026-40140 | BeyondTrust Remote Support and Privileged Remote Access up to 25.3.2/26.2.0 denial of service](https://vuldb.com/vuln/376485)
   - [CVE-2026-40141 | BeyondTrust Remote Support and Privileged Remote Access up to 26.2.0 Web Application improper authorization](https://vuldb.com/vuln/376482)
   - [CVE-2026-40257 | OP-TEE up to 4.10.x SHA-3 Implementation off-by-one](https://vuldb.com/vuln/376480)
   - [CVE-2026-41434 | OP-TEE up to 4.10.0 PKCS#11 TA recursion](https://vuldb.com/vuln/376488)
+  - [CVE-2026-41515 | OP-TEE up to 4.10.x NXP CAAM Crypto Driver memcmp missing encryption](https://vuldb.com/vuln/376502)
+  - [CVE-2026-42546 | OP-TEE up to 4.10.x Shared Memory Cleanup core/tee/entry_std.c cleanup_shm_refs memory leak](https://vuldb.com/vuln/376503)
   - [CVE-2026-43825 | Apache OpenNLP up to 3.0.0-M3 Libsvm SvmDoccatModel.deserialize deserialization](https://vuldb.com/vuln/376481)
+  - [CVE-2026-44362 | OP-TEE up to 4.10.x Subkey Rollback Protection core/crypto/signed_hdr.c shdr_load_pub_key Version downgrade](https://vuldb.com/vuln/376504)
   - [CVE-2026-48614 | WebPros Plesk up to 18.0.77 Plesk XML API improper authorization](https://vuldb.com/vuln/376490)
+  - [CVE-2026-50133 | gohugoio Hugo up to 0.161.x cross site scripting](https://vuldb.com/vuln/376514)
+  - [CVE-2026-50134 | gohugoio Hugo up to 0.161.x URL Redirect GetRemote redirect](https://vuldb.com/vuln/376505)
+  - [CVE-2026-53763 | OP-TEE up to 4.10.x AES-GCM integer overflow](https://vuldb.com/vuln/376508)
   - [CVE-2026-54059 | Pillow up to 12.2.x PCF Font Parser PIL/PcfFontFile.py _load_bitmaps memory allocation](https://vuldb.com/vuln/376493)
   - [CVE-2026-54060 | Pillow up to 12.2.x FontFile PIL/FontFile.py FontFile.compile allocation of resources](https://vuldb.com/vuln/376494)
   - [CVE-2026-54291 | pgjdbc up to 42.7.11 ScramAuthenticator ScramAuthenticator.java authenticate channelBinding channel accessible](https://vuldb.com/vuln/376492)
   - [CVE-2026-55379 | Pillow up to 12.2.x BDF Font Parser PIL/BdfFontFile.py bdf_char width/height memory allocation](https://vuldb.com/vuln/376495)
+  - [CVE-2026-55646 | vllm-project vLLM up to 0.23.x Audio Transcription/Translation /v1/audio/transcriptions request.file.read File unrestricted upload](https://vuldb.com/vuln/376509)
+  - [CVE-2026-58402 | gohugoio Hugo up to 0.163.2 Code-Block Renderer cross site scripting](https://vuldb.com/vuln/376513)
+  - [CVE-2026-58403 | gohugoio Hugo up to 0.163.0 Virtual Filesystem fs/rootmappingfs.go statRoot somefile symlink](https://vuldb.com/vuln/376515)
+  - [CVE-2026-58404 | gohugoio Hugo up to 0.163.0 Security HTTP URLs server-side request forgery](https://vuldb.com/vuln/376510)
+  - [CVE-2026-59089 | GIMP TIM Loader integer overflow](https://vuldb.com/vuln/376511)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
