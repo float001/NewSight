@@ -1,13 +1,29 @@
 # 今日安全资讯（2026-07-06）
 
 - 36氪
+  - [8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价](https://36kr.com/p/3883400536453381?f=rss)
+  - [Genesis Minerals对Vault Minerals提出39亿美元竞争性收购要约](https://36kr.com/newsflashes/3883350076551177?f=rss)
+  - [“油电同权”大幕拉开，新能源汽车产业步入市场驱动新阶段](https://36kr.com/newsflashes/3883354482520067?f=rss)
+  - [三季度公募基金调查显示：科技成长仍是“心头好”，极致分化后打法生变](https://36kr.com/newsflashes/3883353374535689?f=rss)
+  - [上半年港股市场累计回购超过900亿港元，腾讯控股年内回购金额超240亿港元](https://36kr.com/newsflashes/3883352127844609?f=rss)
+  - [中信建投：供需趋紧钠电放量，格局优异铝箔可期](https://36kr.com/newsflashes/3883373782560768?f=rss)
+  - [中信建投：算力硬件高波动期，等待财报指引落地](https://36kr.com/newsflashes/3883384178487296?f=rss)
+  - [人形机器人产业再迎重要催化，资金持续借道ETF布局](https://36kr.com/newsflashes/3883389371904004?f=rss)
   - [易捷航空同意卡斯尔莱克52亿英镑收购要约](https://36kr.com/newsflashes/3883342342320130?f=rss)
+  - [注销式回购引关注，上市公司打出“组合拳”](https://36kr.com/newsflashes/3883391892680963?f=rss)
+  - [深圳四方精创资讯股份有限公司再次向港交所提交上市申请书](https://36kr.com/newsflashes/3883348123791364?f=rss)
+  - [现货黄金站上4200美元](https://36kr.com/newsflashes/3883373975220229?f=rss)
+  - [电子布价格连涨，产业链上游高端织机紧缺](https://36kr.com/newsflashes/3883374792962307?f=rss)
+  - [科技股震���引发分歧，7月业绩基本面或成定价关键](https://36kr.com/newsflashes/3883349197893892?f=rss)
+  - [美联储7月维持利率不变的概率为77%](https://36kr.com/newsflashes/3883346863698185?f=rss)
+  - [鄂尔多斯、和达金服共同领投，「贻如科技」完成超亿元A轮融资｜36氪首发](https://36kr.com/p/3880060701388809?f=rss)
 - Data Breach
   - [Medtronic Notifies 3.8 Million After ShinyHunters Data Breach](https://securityaffairs.com/194788/cyber-crime/medtronic-notifies-3-8-million-after-shinyhunters-data-breach.html)
 - Hacker News Frontpage
   - ["These cameras are just like the Eye of Sauron"](https://arxiv.org/abs/2602.09239)
   - [CoCom regulations and GPS receivers for balloons and cubesats](https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube)
   - [Completing a Computer Science Degree on Coursera](https://notesbylex.com/completing-a-computer-science-degree-on-coursera)
+  - [Connections in Math: the two kinds of random](https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/)
   - [Falling fertility on the left as key driver of US birth decline](https://www.nature.com/articles/s41598-026-57582-3)
   - [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io)
   - [Small Penis Rule](https://en.wikipedia.org/wiki/Small_penis_rule)
@@ -18,6 +34,7 @@
   - [Exploit for CVE-2018-10933 exploit](https://sploitus.com/exploit?id=6E016BCE-378F-55D2-8B5F-181B7B4FF958&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-22874 exploit](https://sploitus.com/exploit?id=C2F491B0-E4A1-5E91-864E-AE16138D98DB&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-8713 exploit](https://sploitus.com/exploit?id=6E4D26B8-DE2F-5FAB-85C9-D38C397BEE5F&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-9290 exploit](https://sploitus.com/exploit?id=2A53B779-7331-5763-8652-F0D828CF73A6&utm_source=rss&utm_medium=rss)
   - [libextractor-ole2-rce exploit](https://sploitus.com/exploit?id=0235A98C-2CDE-5F3B-8090-524B0CE466C9&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)
