@@ -17,12 +17,17 @@
   - [ATP Member Special: Mac-Assed Mac Apps](https://atp.fm/atp-dev-mac-assed-mac-apps)
   - [Backblaze Versus Dropbox](https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/)
   - [Markdown Now Has a UTI in Apple’s Version 27 OSes](https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown)
+- darkreading
+  - ['BusySnake' Infostealer Slithers into Critical Infrastructure Networks](https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks)
+  - [CitrixBleed-ing Again? NetScaler Vulnerability Under Attack](https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack)
 - Fidelis Security
   - [How Container Security Monitoring Reduces Dwell Time in Cloud-Native Environments](https://fidelissecurity.com/threatgeek/cloud-security/container-security-monitoring-reduces-dwell-time/)
 - Hacker News Frontpage
   - [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
   - [Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/)
   - [Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)](https://news.ycombinator.com/item?id=48806976)
+- HackerNoon
+  - [We Tried Building an In-House AI Routing Layer - It Blew Up at $500/Month Per Engineer](https://hackernoon.com/we-tried-building-an-in-house-ai-routing-layer-it-blew-up-at-$500month-per-engineer?source=rss)
 - infosecurity-magazine.com
   - [New Iran-Nexus Hacking Group Targets Israel Government and IT Sectors](https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/)
 - Sandfly Security Blog RSS Feed
@@ -30,6 +35,8 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Argument Injection in Gnu Inetutils exploit](https://sploitus.com/exploit?id=5D5162E4-9130-5E15-A96A-A205E12AF861&utm_source=rss&utm_medium=rss)
   - [Exploit for Command Injection in Netdata exploit](https://sploitus.com/exploit?id=7E728DBB-AAD1-5FD6-AFCE-86330F2E37FE&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-38526 exploit](https://sploitus.com/exploit?id=6E2053EC-7925-5889-A755-E59122A1E939&utm_source=rss&utm_medium=rss)
+  - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=4494CA76-67C5-5EA8-B785-B06824037479&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all](https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/)
   - [Apple brings back card payments for Apple Account purchases in India after a four-year hiatus](https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/)
@@ -51,9 +58,13 @@
   - [CVE-2025-59615 | Qualcomm Snapdragon memory corruption](https://vuldb.com/vuln/376516)
   - [CVE-2026-11405 | Tenda Router Login /bin/httpd login Password backdoor](https://vuldb.com/vuln/376512)
   - [CVE-2026-12154 | widgetpack Reviews Widgets for Google, Yelp & TripAdvisor Plugin Shortcode Feed_Shortcode::fbrev cross site scripting](https://vuldb.com/vuln/376489)
+  - [CVE-2026-14468 | HashiCorp Terraform Enterprise up to 2.0.3 VCS Ingestion Boundary information disclosure](https://vuldb.com/vuln/376540)
   - [CVE-2026-14536 | Devolutions Devolutions Server up to 2026.2.8 privilege escalation](https://vuldb.com/vuln/376506)
   - [CVE-2026-14898 | OpenAI Codex desktop app for macOS up to 26.527.31325 injection](https://vuldb.com/vuln/376507)
   - [CVE-2026-21384 | Qualcomm Snapdragon memory corruption](https://vuldb.com/vuln/376517)
+  - [CVE-2026-25271 | Qualcomm Snapdragon Compute Modified memory corruption](https://vuldb.com/vuln/376535)
+  - [CVE-2026-33734 | FOSSBilling up to 0.7.x Massmailer sql injection](https://vuldb.com/vuln/376541)
+  - [CVE-2026-34038 | coollabsio Coolify up to 4.0.0-beta.468 Deployment Handling command injection](https://vuldb.com/vuln/376537)
   - [CVE-2026-40138 | BeyondTrust Remote Support and Privileged Remote Access up to 25.3.2/26.2.0 access control](https://vuldb.com/vuln/376483)
   - [CVE-2026-40139 | BeyondTrust Remote Support up to 25.3.2/26.2.0 Authentication Request access control](https://vuldb.com/vuln/376484)
   - [CVE-2026-40140 | BeyondTrust Remote Support and Privileged Remote Access up to 25.3.2/26.2.0 denial of service](https://vuldb.com/vuln/376485)
@@ -61,6 +72,8 @@
   - [CVE-2026-40257 | OP-TEE up to 4.10.x SHA-3 Implementation off-by-one](https://vuldb.com/vuln/376480)
   - [CVE-2026-41434 | OP-TEE up to 4.10.0 PKCS#11 TA recursion](https://vuldb.com/vuln/376488)
   - [CVE-2026-41515 | OP-TEE up to 4.10.x NXP CAAM Crypto Driver memcmp missing encryption](https://vuldb.com/vuln/376502)
+  - [CVE-2026-42331 | FOSSBilling up to 0.5.5 Guest API gateway_id improper authorization](https://vuldb.com/vuln/376538)
+  - [CVE-2026-42341 | FOSSBilling up to 0.7.2 IPN ipn.php improper authentication](https://vuldb.com/vuln/376536)
   - [CVE-2026-42546 | OP-TEE up to 4.10.x Shared Memory Cleanup core/tee/entry_std.c cleanup_shm_refs memory leak](https://vuldb.com/vuln/376503)
   - [CVE-2026-43825 | Apache OpenNLP up to 3.0.0-M3 Libsvm SvmDoccatModel.deserialize deserialization](https://vuldb.com/vuln/376481)
   - [CVE-2026-44362 | OP-TEE up to 4.10.x Subkey Rollback Protection core/crypto/signed_hdr.c shdr_load_pub_key Version downgrade](https://vuldb.com/vuln/376504)
@@ -71,11 +84,16 @@
   - [CVE-2026-54059 | Pillow up to 12.2.x PCF Font Parser PIL/PcfFontFile.py _load_bitmaps memory allocation](https://vuldb.com/vuln/376493)
   - [CVE-2026-54060 | Pillow up to 12.2.x FontFile PIL/FontFile.py FontFile.compile allocation of resources](https://vuldb.com/vuln/376494)
   - [CVE-2026-54291 | pgjdbc up to 42.7.11 ScramAuthenticator ScramAuthenticator.java authenticate channelBinding channel accessible](https://vuldb.com/vuln/376492)
+  - [CVE-2026-54763 | Traefik up to 2.11.50/3.6.21/3.7.5 BasicAuth/DigestAuth/ForwardAuth improper authorization](https://vuldb.com/vuln/376542)
+  - [CVE-2026-54765 | Traefik up to 3.7.5 Kubernetes Gateway API Provider improper authorization](https://vuldb.com/vuln/376539)
   - [CVE-2026-55379 | Pillow up to 12.2.x BDF Font Parser PIL/BdfFontFile.py bdf_char width/height memory allocation](https://vuldb.com/vuln/376495)
   - [CVE-2026-55646 | vllm-project vLLM up to 0.23.x Audio Transcription/Translation /v1/audio/transcriptions request.file.read File unrestricted upload](https://vuldb.com/vuln/376509)
+  - [CVE-2026-57573 | unclecode Crawl4AI up to 0.8.x Streaming Request /crawl/stream handle_stream_crawl_request seed_url server-side request forgery](https://vuldb.com/vuln/376534)
   - [CVE-2026-58402 | gohugoio Hugo up to 0.163.2 Code-Block Renderer cross site scripting](https://vuldb.com/vuln/376513)
   - [CVE-2026-58403 | gohugoio Hugo up to 0.163.0 Virtual Filesystem fs/rootmappingfs.go statRoot somefile symlink](https://vuldb.com/vuln/376515)
   - [CVE-2026-58404 | gohugoio Hugo up to 0.163.0 Security HTTP URLs server-side request forgery](https://vuldb.com/vuln/376510)
   - [CVE-2026-59089 | GIMP TIM Loader integer overflow](https://vuldb.com/vuln/376511)
+  - [CVE-2026-59711 | showdown up to 2.1.0 cross site scripting](https://vuldb.com/vuln/376543)
+  - [CVE-2026-59712 | Leantime up to 3.4.4 JSON-RPC API Users::getUser user ID improper authorization](https://vuldb.com/vuln/376544)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
