@@ -1,18 +1,23 @@
 # 今日安全资讯（2026-07-06）
 
 - 2Libra
+  - [【💰】铁子们推荐一个安卓备用机。](https://2libra.com/post/phone/bNyghKA)
   - [下半年的这一周，气氛有点不对劲](https://2libra.com/post/social-observation/bXVjBhN)
   - [与人沟通不如 AI，你经历过怎样离谱的面试](https://2libra.com/post/prompts/iJSZNSk)
+  - [今天工作进行如何了](https://2libra.com/post/touch-fish/XkoB5Z9)
+  - [周末玩了 2 天地平线 5，风火轮超爽的跟过山车一样](https://2libra.com/post/game-discussion/G0n-Z5y)
   - [哈哈 轮到我了吧 卡皮吧啦](https://2libra.com/post/slacking-off/w1VSgOH)
   - [哈哈，今天被潘多拉照顾到了](https://2libra.com/post/ai-applications/1LRzaqZ)
   - [广西多地暴雨导致水浸](https://2libra.com/post/social-observation/cJ3V-wF)
   - [恭喜挪威进入 1/4 决赛](https://2libra.com/post/sports/esY9V_q)
+  - [用 Parti 做了一个在线版的“巫师也平板” Rougue Like 游戏](https://2libra.com/post/personal-works/ltze6Rf)
   - [给我整不会了。昨天大失败，今天来个大成功](https://2libra.com/post/forum-function/sTPOz0U)
   - [🏆 本周 2Libra 龙虎榜 6.30-7.6](https://2libra.com/post/forum-function/CJmEGg1)
 - 36氪
   - [2026，量子计算迟到的狂欢：能拿订单、奔赴IPO、市值破百亿](https://36kr.com/p/3883513899380744?f=rss)
   - [8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价](https://36kr.com/p/3883400536453381?f=rss)
   - [AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪](https://36kr.com/p/3883456791163138?f=rss)
+  - [A股三大指数午间休盘涨跌不一，通信设备板块走弱](https://36kr.com/newsflashes/3883609876099081?f=rss)
   - [A股三大指数集体高开，硬件股领涨](https://36kr.com/newsflashes/3883486652100868?f=rss)
   - [Genesis Minerals对Vault Minerals提出39亿美元竞争性收购要约](https://36kr.com/newsflashes/3883350076551177?f=rss)
   - [SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模](https://36kr.com/newsflashes/3883579215458567?f=rss)
@@ -35,11 +40,14 @@
   - [创业板指震荡回落跌超1%](https://36kr.com/newsflashes/3883540546466052?f=rss)
   - [华泰证券：关注港股高沽空叠加盈利预期改善的方向](https://36kr.com/newsflashes/3883444946956551?f=rss)
   - [华泰证券：韩国出口高增表明全球AI链贸易仍处上行通道，亚洲AI供应链有望持续受益](https://36kr.com/newsflashes/3883440823578889?f=rss)
+  - [南向资金净买入额达100亿港元](https://36kr.com/newsflashes/3883634140033281?f=rss)
   - [国金证券：锂电7月旺季在即，优选优势格局赛道](https://36kr.com/newsflashes/3883431526510850?f=rss)
   - [天问二号抵达目标小行星开展科学探测](https://36kr.com/newsflashes/3883418390605827?f=rss)
   - [央行今日开展70亿元7天逆回购操作](https://36kr.com/newsflashes/3883482645966854?f=rss)
   - [宇信科技：公司通过投资专项基金来投资月之暗面股权](https://36kr.com/newsflashes/3883430457733129?f=rss)
   - [宜安科技：台铃订单已开始向客户批量交付](https://36kr.com/newsflashes/3883470778380545?f=rss)
+  - [富国基金换帅完成工商变更](https://36kr.com/newsflashes/3883610741174535?f=rss)
+  - [恒指午间休盘涨0.83%，恒生科技指数涨1.16%](https://36kr.com/newsflashes/3883639273779200?f=rss)
   - [恒指开盘涨0.23%，恒生科技指数涨0.55%](https://36kr.com/newsflashes/3883482460582151?f=rss)
   - [恒生指数涨幅达1%](https://36kr.com/newsflashes/3883534844162057?f=rss)
   - [悟空安全启动高校电脑安全公益行动](https://36kr.com/newsflashes/3883563211337989?f=rss)
@@ -47,8 +55,10 @@
   - [本周9只ETF上市，个人投资者持有份额比例近八成](https://36kr.com/newsflashes/3883403410501635?f=rss)
   - [沪深两市成交额突破1.5万亿](https://36kr.com/newsflashes/3883548232757505?f=rss)
   - [沪深两市成交额突破1万亿元](https://36kr.com/newsflashes/3883519948075272?f=rss)
+  - [沪深两市成交额突破2万亿](https://36kr.com/newsflashes/3883585143730183?f=rss)
   - [注销式回购引关注，上市公司打出“组合拳”](https://36kr.com/newsflashes/3883391892680963?f=rss)
   - [济民健康在台州成立集成电路公司](https://36kr.com/newsflashes/3883568686215171?f=rss)
+  - [海力士半导体大连公司法定代表人变更](https://36kr.com/newsflashes/3883596510146562?f=rss)
   - [深圳四方精创资讯股份有限公司再次向港交所提交上市申请书](https://36kr.com/newsflashes/3883348123791364?f=rss)
   - [现货黄金站上4200美元](https://36kr.com/newsflashes/3883373975220229?f=rss)
   - [电子布价格连涨，产业链上游高端织机紧缺](https://36kr.com/newsflashes/3883374792962307?f=rss)
@@ -79,6 +89,7 @@
 - PromptLayer
   - [OpenAI model analysis: o1 mini vs o1 preview](https://blog.promptlayer.com/an-analysis-of-openai-models-o1-vs-gpt-4o-2/)
   - [Top 5 Chinese LLMs: The Models Powering China’s AI Surge in 2024–25](https://blog.promptlayer.com/top-5-chinese-llms-the-models-powering-chinas-ai-surge-in-2024-25/)
+  - [Using Claude Code to Run Deep Research](https://blog.promptlayer.com/using-claude-code-to-run-deep-research/)
 - rtl-sdr.com
   - [NyxScope: A Windows Multi-Protocol SDR Decoder Program with Multiple Digital Native Decoders](https://www.rtl-sdr.com/nyxscope-a-windows-multi-protocol-sdr-decoder-program-with-multiple-digital-native-decoders/)
   - [Testing WSPR HF Propagation with a Raspberry Pi 3B+ and TAPR Shield Running WsprryPi](https://www.rtl-sdr.com/testing-wspr-hf-propagation-with-a-raspberry-pi-3b-and-tapr-shield-running-wsprrypi/)
@@ -163,6 +174,9 @@
   - [微软将利润转移到低税国家](https://www.solidot.org/story?sid=84760)
 - 爱范儿
   - [Codex 一键省 Token 大法，亲测有效](https://www.ifanr.com/1669952?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [GTA 6 没有杀死实体游戏，因为它已经死了](https://www.ifanr.com/1669985?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [制造工艺问题 英伟达Kyber机架或遇延迟](https://blog.upx8.com/%E5%88%B6%E9%80%A0%E5%B7%A5%E8%89%BA%E9%97%AE%E9%A2%98-%E8%8B%B1%E4%BC%9F%E8%BE%BEKyber%E6%9C%BA%E6%9E%B6%E6%88%96%E9%81%87%E5%BB%B6%E8%BF%9F)
   - [美国自动驾驶出租车Waymo独立日趴窝](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6Waymo%E7%8B%AC%E7%AB%8B%E6%97%A5%E8%B6%B4%E7%AA%9D)
+  - [英特尔因市场环境变化上调部分CPU价格](https://blog.upx8.com/%E8%8B%B1%E7%89%B9%E5%B0%94%E5%9B%A0%E5%B8%82%E5%9C%BA%E7%8E%AF%E5%A2%83%E5%8F%98%E5%8C%96%E4%B8%8A%E8%B0%83%E9%83%A8%E5%88%86CPU%E4%BB%B7%E6%A0%BC)
   - [韩国拟用芯片税收设基金 助推未来产业](https://blog.upx8.com/%E9%9F%A9%E5%9B%BD%E6%8B%9F%E7%94%A8%E8%8A%AF%E7%89%87%E7%A8%8E%E6%94%B6%E8%AE%BE%E5%9F%BA%E9%87%91-%E5%8A%A9%E6%8E%A8%E6%9C%AA%E6%9D%A5%E4%BA%A7%E4%B8%9A)
