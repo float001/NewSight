@@ -4,6 +4,8 @@
   - [来设置你专属颜色，看谁的漂亮](https://2libra.com/post/sharing-discoveries/lnMijZk)
 - Ars Technica
   - [Katalyst's satellite rescue mission is now in pursuit of NASA's Swift](https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#213560: Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560)
 - Cybersecurity News
   - [CVE-2026-40138 & CVE-2026-40139: BeyondTrust Pre-Auth Flaws (CVSS 9.2)](https://securityonline.info/cve-2026-40138-beyondtrust-pre-authentication-vulnerability/)
 - daringfireball.net
@@ -22,11 +24,15 @@
   - [Sandfly 5.8 - Agentless Response and SSH Key Management](https://sandflysecurity.com/blog/sandfly-58-agentless-response-and-ssh-key-management)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Argument Injection in Gnu Inetutils exploit](https://sploitus.com/exploit?id=5D5162E4-9130-5E15-A96A-A205E12AF861&utm_source=rss&utm_medium=rss)
+  - [Exploit for Command Injection in Netdata exploit](https://sploitus.com/exploit?id=7E728DBB-AAD1-5FD6-AFCE-86330F2E37FE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all](https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/)
   - [Apple brings back card payments for Apple Account purchases in India after a four-year hiatus](https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/)
   - [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+  - [Vercel CEO Guillermo Rauch on the fight to split off models from agents](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/)
   - [You can now customize Siri’s pace and expressivity in the latest iOS 27 beta](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/)
+- text/plain
+  - [Driving (Large) Electric](https://textslashplain.com/2026/07/06/driving-large-electric/)
 - The Decoder
   - [Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers](https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/)
   - [GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top](https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/)
@@ -45,5 +51,9 @@
   - [CVE-2026-41434 | OP-TEE up to 4.10.0 PKCS#11 TA recursion](https://vuldb.com/vuln/376488)
   - [CVE-2026-43825 | Apache OpenNLP up to 3.0.0-M3 Libsvm SvmDoccatModel.deserialize deserialization](https://vuldb.com/vuln/376481)
   - [CVE-2026-48614 | WebPros Plesk up to 18.0.77 Plesk XML API improper authorization](https://vuldb.com/vuln/376490)
+  - [CVE-2026-54059 | Pillow up to 12.2.x PCF Font Parser PIL/PcfFontFile.py _load_bitmaps memory allocation](https://vuldb.com/vuln/376493)
+  - [CVE-2026-54060 | Pillow up to 12.2.x FontFile PIL/FontFile.py FontFile.compile allocation of resources](https://vuldb.com/vuln/376494)
+  - [CVE-2026-54291 | pgjdbc up to 42.7.11 ScramAuthenticator ScramAuthenticator.java authenticate channelBinding channel accessible](https://vuldb.com/vuln/376492)
+  - [CVE-2026-55379 | Pillow up to 12.2.x BDF Font Parser PIL/BdfFontFile.py bdf_char width/height memory allocation](https://vuldb.com/vuln/376495)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
