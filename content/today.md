@@ -47,6 +47,7 @@
   - [Solstice先进材料拟斥资超120亿美元收购Element解决方案公司](https://36kr.com/newsflashes/3884774517436425?f=rss)
   - [SpaceX公布AI数据中心计划，同步推进星链卫星脱轨](https://36kr.com/newsflashes/3884777410031879?f=rss)
   - [ST海龙：实控人胡兴荣被采取强制措施](https://36kr.com/newsflashes/3885457091145984?f=rss)
+  - [“西非最大锂矿加工厂”投产，九岭锂业与天华新能各持股50%](https://36kr.com/newsflashes/3885521246531848?f=rss)
   - [“迈巨微电子”完成数千万元融资](https://36kr.com/newsflashes/3884959571128584?f=rss)
   - [“逸文科技（Even Realities）”宣布完成Pre-B轮融资](https://36kr.com/newsflashes/3884783193927944?f=rss)
   - [三星电子预计第二季度营业利润同比暴增1810%](https://36kr.com/newsflashes/3884759374655749?f=rss)
@@ -68,11 +69,13 @@
   - [中信证券：铝行业悲观预期定价过度，板块有望理性修复](https://36kr.com/newsflashes/3884840747986951?f=rss)
   - [中信证券：韩国未来有望成为物理AI时代的重要参与者](https://36kr.com/newsflashes/3884831641547011?f=rss)
   - [中国中煤在安徽成立新公司](https://36kr.com/newsflashes/3885029294796801?f=rss)
+  - [中国人民银行等三部门：欢迎中国外汇交易中心与香港交易所共建香港电子固定收益及货币交易平台](https://36kr.com/newsflashes/3885490053607680?f=rss)
   - [中国央行连续第20个月增持黄金](https://36kr.com/newsflashes/3885300035743747?f=rss)
   - [中报预增公司占比走高，新兴产业助力业绩增长](https://36kr.com/newsflashes/3884776478224390?f=rss)
   - [中远海控在海南成立新公司， 注册资本3亿](https://36kr.com/newsflashes/3885328527732738?f=rss)
   - [丰田纺织、华勤技术在上海成立汽车电子公司](https://36kr.com/newsflashes/3885004857094409?f=rss)
   - [亚马逊云服务发布AWS SimuLearn学习计划徽章，提供云端实践技能可信验证](https://36kr.com/newsflashes/3884816680136965?f=rss)
+  - [亚马逊启动八部分美国投资级债券发行](https://36kr.com/newsflashes/3885526136008963?f=rss)
   - [人民币兑美元中间价报6.8054](https://36kr.com/newsflashes/3884892409393160?f=rss)
   - [今年1至5月我国机器人规上企业营业收入突破900亿元](https://36kr.com/newsflashes/3884808009068549?f=rss)
   - [光库科技：上半年净利润同比预增170%—190%](https://36kr.com/newsflashes/3885327460937730?f=rss)
@@ -80,6 +83,7 @@
   - [前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察](https://36kr.com/p/3876837605585160?f=rss)
   - [动力源：筹划控制权变更事项，股票继续停牌](https://36kr.com/newsflashes/3885329587695880?f=rss)
   - [北京中发海创原生引擎创业投资基金中心登记成立](https://36kr.com/newsflashes/3884966366769411?f=rss)
+  - [北京发布2026年第八轮拟供宅地清单，涉及3宗地](https://36kr.com/newsflashes/3885487260676098?f=rss)
   - [北斗人创业，要建太空数据中心，「星际原点」连续完成两轮数千万元融资｜36氪首发](https://36kr.com/p/3885413484163074?f=rss)
   - [半日主力资金加仓电子、传媒股，抛售医药股](https://36kr.com/newsflashes/3885055138869512?f=rss)
   - [华泰证券：看好受益AI产品迭代浪潮的二手消费电子细分赛道](https://36kr.com/newsflashes/3884796928864262?f=rss)
@@ -91,16 +95,19 @@
   - [国家外汇管理局：截至2026年6月末，我国外汇储备规模为34163亿美元](https://36kr.com/newsflashes/3885305175781383?f=rss)
   - [国家电投、中国康富在天津成立新能源投资合伙企业，出资额约17.9亿](https://36kr.com/newsflashes/3885200558715141?f=rss)
   - [埃斯顿：近期生产经营情况正常，经营环境未发生重大变化](https://36kr.com/newsflashes/3885405626249479?f=rss)
+  - [复旦微电：上半年净利同比预增313.19%—416.49%](https://36kr.com/newsflashes/3885497611907080?f=rss)
   - [大秦铁路：6月大秦线货物运输量3689万吨，同比增长13.79%](https://36kr.com/newsflashes/3885384376971527?f=rss)
   - [央行今日开展100亿元7天逆回购操作](https://36kr.com/newsflashes/3884898454106369?f=rss)
   - [宁德时代入股江苏开洋船舶公司](https://36kr.com/newsflashes/3885142311858176?f=rss)
   - [宁德时代在廊坊成立新公司，注册资本500万](https://36kr.com/newsflashes/3885249171992833?f=rss)
   - [对冲基金对日元看跌情绪达到2007年以来最严重程度](https://36kr.com/newsflashes/3884855748603909?f=rss)
   - [山东钢铁：副总经理郭伟达拟不低于30万元增持公司股份](https://36kr.com/newsflashes/3885346697031689?f=rss)
+  - [工业富联：选举郑弘孟为董事长](https://36kr.com/newsflashes/3885479205318920?f=rss)
   - [巨人网络：上半年净利润同比预增157.38%至183.12%](https://36kr.com/newsflashes/3885443818828035?f=rss)
   - [平安好医生与辉瑞中国达成深度合作](https://36kr.com/newsflashes/3885283326488838?f=rss)
   - [广合科技：上半年净利润同比预增85.12%—95.29%](https://36kr.com/newsflashes/3885468884349190?f=rss)
   - [建发集团成立新科技公司，注册资本5亿](https://36kr.com/newsflashes/3885287563472898?f=rss)
+  - [德龙汇能：控股股东、实控人不存在向公司注入资产的计划](https://36kr.com/newsflashes/3885504191688711?f=rss)
   - [必和必拓获批启动智利150亿美元铜矿扩张](https://36kr.com/newsflashes/3885057092284676?f=rss)
   - [快手：腾讯持股比例将由约15.68%下降至9.37%，不再为本公司主要股东](https://36kr.com/newsflashes/3884761339768837?f=rss)
   - [恒指午间休盘跌0.42%，恒生科技指数0.28%](https://36kr.com/newsflashes/3885054658294017?f=rss)
@@ -121,6 +128,7 @@
   - [日本5月劳动现金收入同比增长3.2%](https://36kr.com/newsflashes/3884800898396421?f=rss)
   - [日本增长战略大臣城内实表示政府并未力促低利率](https://36kr.com/newsflashes/3884978626572290?f=rss)
   - [日本财务省：截至6月底日本外汇储备稳定在1.09万亿美元](https://36kr.com/newsflashes/3884851499397382?f=rss)
+  - [易控智驾暗盘破发：盘中一度跌近两成、收涨4%｜敲钟时刻](https://36kr.com/p/3885481886674951?f=rss)
   - [智谱涨幅扩大至10%](https://36kr.com/newsflashes/3885154142007305?f=rss)
   - [智谱：媒体称撤回A股辅导备案报导失实](https://36kr.com/newsflashes/3885042555515144?f=rss)
   - [机构今日买入华天科技等23股，卖出埃斯顿1.44亿元](https://36kr.com/newsflashes/3885446016692487?f=rss)
@@ -157,6 +165,7 @@
   - [美国证监会任命保罗·奈特为首席运营官](https://36kr.com/newsflashes/3884850830356489?f=rss)
   - [美联储理事沃勒为前瞻指引辩护，称运用得当能起到积极作用](https://36kr.com/newsflashes/3884772685770757?f=rss)
   - [美股三大指数集体收涨，大型科技股涨跌不一](https://36kr.com/newsflashes/3884757957882120?f=rss)
+  - [联动科技：上半年净利润同比预增73.39%—139.44%](https://36kr.com/newsflashes/3885512250241289?f=rss)
   - [脑虎科技“三全”脑机接口系统正式启动GCP注册临床试验](https://36kr.com/newsflashes/3885433625636872?f=rss)
   - [腾讯“吐司” iOS版正式上线](https://36kr.com/newsflashes/3885205259317511?f=rss)
   - [腾讯控股获南向资金净买入23.25亿港元](https://36kr.com/newsflashes/3885407878557959?f=rss)
@@ -179,6 +188,7 @@
   - [高域科技在广州成立通用航空公司，注册资本1000万](https://36kr.com/newsflashes/3885310901612806?f=rss)
   - [高德开放平台正式上线新版本世界地图](https://36kr.com/newsflashes/3885422820618248?f=rss)
   - [高德打车：已首批接入支付宝AI开放平台](https://36kr.com/newsflashes/3885195630424072?f=rss)
+  - [高盛：重资产股盈利有望引领涨势，资金轮动进入“持久战”](https://36kr.com/newsflashes/3885483360825351?f=rss)
 - Ars Technica
   - [Katalyst's satellite rescue mission is now in pursuit of NASA's Swift](https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/)
 - berthub.eu
@@ -228,6 +238,13 @@
   - [We Tried Building an In-House AI Routing Layer - It Blew Up at $500/Month Per Engineer](https://hackernoon.com/we-tried-building-an-in-house-ai-routing-layer-it-blew-up-at-$500month-per-engineer?source=rss)
 - Hacking Dream
   - [Advanced DNS Penetration Testing: ADIDNS & Relay Attacks](https://www.hackingdream.net/2026/07/advanced-dns-pentesting-adidns-poisoning.html)
+- InfoSec Write-ups - Medium
+  - [BadSuccessor — Exploiting delegated Managed Service Accounts in Windows Server 2025](https://infosecwriteups.com/badsuccessor-exploiting-delegated-managed-service-accounts-in-windows-server-2025-0f2c84223bbb?source=rss----7b722bfd1b8d---4)
+  - [Chaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…](https://infosecwriteups.com/chaining-a-dom-xss-sink-waf-bypass-cross-origin-smuggling-and-sdk-abuse-into-one-click-account-6c1a7095f8e1?source=rss----7b722bfd1b8d---4)
+  - [JWTweak v2.1: A Guided, Offline Toolkit for Modern JWT Attacks](https://infosecwriteups.com/jwtweak-v2-1-a-guided-offline-toolkit-for-modern-jwt-attacks-d951fa31f964?source=rss----7b722bfd1b8d---4)
+  - [Lookup: TryHackMe CTF Walkthrough](https://infosecwriteups.com/lookup-tryhackme-walkthrough-3caf2a7efb45?source=rss----7b722bfd1b8d---4)
+  - [No Rules, No Locks: Firebase Misconfiguration and the Borrowers It Left Behind](https://infosecwriteups.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss----7b722bfd1b8d---4)
+  - [The HTTP 303 SSRF Hack : From Python HTTP Client Defaults to AWS Credential Exfiltration.](https://infosecwriteups.com/the-http-303-hack-from-python-http-client-defaults-to-aws-credential-exfiltration-a-deep-dive-bfaece6c3805?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [Hackers Exploit Maximum Severity Adobe ColdFusion Flaw](https://www.infosecurity-magazine.com/news/exploit-maximum-severity-adobe/)
   - [New Iran-Nexus Hacking Group Targets Israel Government and IT Sectors](https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/)
@@ -238,10 +255,14 @@
   - [Install Python 3.7 on Ubuntu 18.04: apt and Source Build Methods](https://kalilinuxtutorials.com/install-python-3-7-ubuntu/)
   - [Install Python 3.8 on Ubuntu 18.04: apt and Source Build Methods](https://kalilinuxtutorials.com/install-python-3-8-ubuntu/)
   - [Secure Apache with Let’s Encrypt on Ubuntu 18.04: Free SSL Guide](https://kalilinuxtutorials.com/secure-apache-lets-encrypt-ubuntu/)
+- MIT Technology Review
+  - [The foundational elements of AI architecture that IT leaders need to scale](https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/)
 - NVISO Labs
   - [Reducing Microsoft Sentinel Costs Without Compromising Detection – Part 2: The Firewall Quest](https://blog.nviso.eu/2026/07/07/reducing-microsoft-sentinel-costs-without-compromising-detection-part-2-the-firewall-quest/)
 - Product Hunt
   - [LongCat-2.0](https://www.producthunt.com/products/longcat)
+- Recent Commits to cve:main
+  - [Update Tue Jul  7 12:02:03 UTC 2026](https://github.com/trickest/cve/commit/52d3aba7527ac84b035de65f677ea4fd391cf7cc)
 - rtl-sdr.com
   - [Adding HD Radio Support to FM DX Webservers with an RTL-SDR](https://www.rtl-sdr.com/adding-hd-radio-support-to-fm-dx-webservers-with-an-rtl-sdr/)
 - Sandfly Security Blog RSS Feed
@@ -263,6 +284,7 @@
   - [Exploit for Integer Underflow (Wrap or Wraparound) in Microsoft exploit](https://sploitus.com/exploit?id=165484B6-0DE7-5236-9E96-FD03E6F0986D&utm_source=rss&utm_medium=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Ollyo Sp_Page_Builder exploit](https://sploitus.com/exploit?id=E2A4520E-343C-5B17-9530-563810F86EA4&utm_source=rss&utm_medium=rss)
   - [Inspectra exploit](https://sploitus.com/exploit?id=99F32B43-A5D9-5C0F-A022-930C6A60BA09&utm_source=rss&utm_medium=rss)
+  - [soroban_verify_poc exploit](https://sploitus.com/exploit?id=6C4D29FE-F5CF-538E-AB84-A4D2F4389DF7&utm_source=rss&utm_medium=rss)
   - [sst1_filt3r_bypass exploit](https://sploitus.com/exploit?id=43508C57-FBB3-5923-97A4-792B9A7EE2C5&utm_source=rss&utm_medium=rss)
   - [sui-txblock-deser-poc exploit](https://sploitus.com/exploit?id=D6CE4316-4E63-5E67-9E2D-AF1504A734F0&utm_source=rss&utm_medium=rss)
   - [vuln-poc-research-skill exploit](https://sploitus.com/exploit?id=D04F16C7-2751-571F-B789-A6E5B1B2634B&utm_source=rss&utm_medium=rss)
@@ -270,6 +292,7 @@
   - [Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all](https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/)
   - [Apple brings back card payments for Apple Account purchases in India after a four-year hiatus](https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/)
   - [Netflix invented binge-watching. Now it may have outgrown it.](https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/)
+  - [Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom](https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/)
   - [The first American autonomous ground vehicles are fighting in Ukraine](https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/)
   - [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
   - [The ‘first’ AI-run ransomware attack still needed a human](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)
@@ -280,6 +303,7 @@
   - [Driving (Large) Electric](https://textslashplain.com/2026/07/06/driving-large-electric/)
 - The Decoder
   - [Apollo economist warns AI profit gains outside tech could take "well beyond" what Wall Street expects](https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/)
+  - [Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens](https://the-decoder.com/chinese-ai-models-regularly-pass-30-percent-on-openrouter-as-cost-gap-widens/)
   - [Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers](https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/)
   - [GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top](https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/)
   - [OpenAI and Anthropic are giving away millions in computing power to attract startups](https://the-decoder.com/openai-and-anthropic-are-giving-away-millions-in-computing-power-to-attract-startups/)
@@ -289,13 +313,16 @@
   - [Former Xbox studios Double Fine and Compulsion will keep games after going indie](https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie)
   - [Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price](https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale)
   - [I spy](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy)
+  - [Marshall upgrades the bass and repairability of two wireless speakers](https://www.theverge.com/tech/961601/marshall-acton-stanmore-iv-bluetooth-wireless-speakers-repair)
   - [Nothing’s first B-series phone is also skipping the US](https://www.theverge.com/tech/962020/nothing-phone-4b-price-release-date-specs)
   - [Nothing’s new earbuds can record calls and what you’re listening to](https://www.theverge.com/tech/961845/nothing-ear-3a-wireless-earbuds-call-recording-price-availability)
+  - [Xbox’s bold plan for the future sounds nearly impossible](https://www.theverge.com/entertainment/961924/xbox-billion-users)
 - VulDB Recent Entries
   - [CVE-2025-59615 | Qualcomm Snapdragon memory corruption](https://vuldb.com/vuln/376516)
   - [CVE-2025-59616 | Qualcomm Snapdragon IOCTL Call memory corruption](https://vuldb.com/vuln/376562)
   - [CVE-2026-10834 | WP Travel Engine Plugin up to 6.8.0 file inclusion](https://vuldb.com/vuln/376605)
   - [CVE-2026-11328 | timstrifler Exclusive Addons for Elementor Plugin up to 2.7.9.8 Post Title post title cross site scripting](https://vuldb.com/vuln/376578)
+  - [CVE-2026-11340 | HAVELSAN Liman MYS up to release.master.1106 authorization](https://vuldb.com/vuln/376631)
   - [CVE-2026-11405 | Tenda Router Login /bin/httpd login Password backdoor](https://vuldb.com/vuln/376512)
   - [CVE-2026-12154 | widgetpack Reviews Widgets for Google, Yelp & TripAdvisor Plugin Shortcode Feed_Shortcode::fbrev cross site scripting](https://vuldb.com/vuln/376489)
   - [CVE-2026-12277 | Frontend File Manager Plugin up to 23.6 File Deletion wp-config.php file inclusion](https://vuldb.com/vuln/376604)
@@ -401,6 +428,7 @@
   - [Pura Promo Codes: $20 Off July 2026](https://www.wired.com/story/pura-promo-code/)
   - [Starz Promo Codes: $5 Off for July 2026](https://www.wired.com/story/starz-promo-code/)
   - [Target Promo Code: $50 Off | July 2026](https://www.wired.com/story/target-promo-code/)
+  - [The Best iPhone 17 Cases (2026): Our Picks After Testing 100+](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)
 - 不安全
   - [14 años, estudiante de ciberseguridad, electrónica y robótica: Busco amigos para aprender y compartir proyectos](https://buaq.net/go-427446.html)
   - [PhotoGIMP – 把 GIMP 改成 Photoshop 的样子](https://buaq.net/go-427472.html)
@@ -409,11 +437,14 @@
   - [企业文档安全最佳实践（三）：人员密级匹配与审批流程控制](https://buaq.net/go-427474.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [首个AI全流程勒索攻击来了：JADEPUFFER证明，勒索不再需要人类操盘手](https://www.anquanke.com/post/id/315724)
 - 爱范儿
   - [Marshall BROMLEY 450 派对音响：有音效灯效和 40 小时续航，麦克风吉他都能一包带走](https://www.ifanr.com/1671062?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刷完 Fable 5 爆火玩法，我发现自己用 AI 第一步就错了](https://www.ifanr.com/1671120?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝华为Mate90将搭载「韬定律」新麒麟芯片/英特尔上调CPU售价/企业微信发布AI录音硬件](https://www.ifanr.com/1671116?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [机器人走进产线「打工」，至简动力不想让具身智能停在 PPT 上](https://www.ifanr.com/1671185?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [极飞发布了空中及地面农业机器人，打农药这事儿基本不需要人力参与了](https://www.ifanr.com/1671223?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [【公益译文】2026年AI指数报告（七）](https://blog.nsfocus.net/%e3%80%90%e5%85%ac%e7%9b%8a%e8%af%91%e6%96%87%e3%80%912026%e5%b9%b4ai%e6%8c%87%e6%95%b0%e6%8a%a5%e5%91%8a%ef%bc%88%e4%b8%83%ef%bc%89/)
   - [企业文档安全最佳实践（三）：人员密级匹配与审批流程控制](https://blog.nsfocus.net/%e4%bc%81%e4%b8%9a%e6%96%87%e6%a1%a3%e5%ae%89%e5%85%a8%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5%ef%bc%88%e4%b8%89%ef%bc%89%ef%bc%9a%e4%ba%ba%e5%91%98%e5%af%86%e7%ba%a7%e5%8c%b9%e9%85%8d%e4%b8%8e%e5%ae%a1/)
