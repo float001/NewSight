@@ -4,6 +4,8 @@
   - [【💰】卡皮巴拉：今天开始，情绪更稳定！](https://2libra.com/post/forum-function/WFZnvEc)
   - [对《肖申克的救赎》的一些感悟](https://2libra.com/post/movie-experience/SWnB_0C)
   - [我好像把鱼佬的通用图片上传插件的重复上传 bug 给修复好了](https://2libra.com/post/open-source-sharing/SUnPKLu)
+- Ars Technica
+  - [Google's Pixel 11 launch event is set for August 12, with possible price increases](https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/)
 - Hacker News Frontpage
   - [A new runtime for k and q: l](https://lv1.sh/)
   - [Astro 7.0](https://astro.build/blog/astro-7/)
@@ -20,14 +22,21 @@
   - [CVE-2026-48283 / CVE-2026-48313 | Adobe ColdFusion Pre-Authentication Unrestricted File Upload and Path Traversal Vulnerabilities](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-48283-cve-2026-48313/)
 - Linux Foundation Blogs
   - [From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation](https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation)
+- PromptLayer
+  - [The Best Prompt Management Tools in 2026](https://blog.promptlayer.com/best-prompt-management-tools-2026-field-guide/)
+- simonwillison.net
+  - [sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-23697 exploit](https://sploitus.com/exploit?id=1870CB5D-0489-53DE-9322-1CFCFA00D128&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-23698 exploit](https://sploitus.com/exploit?id=14650063-3D49-54CB-9783-6AB58C984EFA&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-36214 exploit](https://sploitus.com/exploit?id=8B0ABDA6-D053-5B34-9C21-0816802F9B88&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Claude Cowork expands to mobile and web](https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/)
+  - [Discord admits AI moderation bug wrongfully banned users over harmless images](https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/)
   - [Figma acquires team behind a vibe-coding app](https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/)
   - [Google’s Pixel event is set for August 12](https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/)
   - [Hacked, leaked, and held for ransom: The worst breaches of 2026 so far](https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/)
+  - [Microsoft joins AI cost-cutting trend by relying more on its own models](https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/)
   - [Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others](https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/)
 - The Decoder
   - [China eyes export curbs on its top AI models, and Europe is caught in the middle](https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/)
@@ -56,6 +65,8 @@
   - [CVE-2026-55435 | Coder up to 2.32.6/2.33.7/2.34.1 AI Bridge Proxy Endpoint coderd/aibridgedserver IsAuthorized improper authorization](https://vuldb.com/vuln/376669)
   - [CVE-2026-56811 | phoenixframework phoenix prior 1.5.15/1.6.17/1.7.24/1.8.9 Socket lib/phoenix/socket.ex handle_in/4 allocation of resources](https://vuldb.com/vuln/376649)
   - [CVE-2026-56812 | phoenixframework phoenix up to 1.5.14/1.6.16/1.7.23/1.8.8 Presence presence.js Presence.syncState/Presence.syncDiff denial of service](https://vuldb.com/vuln/376658)
+  - [CVE-2026-59708 | Ghostfolio up to 3.6.0 Portfolio Endpoint portfolio.php getPortfolio accessId information disclosure](https://vuldb.com/vuln/376674)
+  - [CVE-2026-59800 | decolua 9Router up to 0.4.43 Tailscale Install tailscale-install sudoPassword os command injection](https://vuldb.com/vuln/376673)
   - [CVE-2026-7017 | HAARG HTTP::Tiny up to 0.94 Redirect _prepare_headers_and_cb redirect](https://vuldb.com/vuln/376670)
 - wheresyoured.at
   - [Let AI Burn](https://www.wheresyoured.at/let-ai-burn/)
