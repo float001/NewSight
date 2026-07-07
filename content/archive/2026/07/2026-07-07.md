@@ -3,11 +3,31 @@
 - 2Libra
   - [来设置你专属颜色，看谁的漂亮](https://2libra.com/post/sharing-discoveries/lnMijZk)
 - 36氪
+  - [A股市场重要股东减持渠道“一降两升”](https://36kr.com/newsflashes/3884781020803334?f=rss)
   - [Rivian拟发行7500万股股票，用于美国能源部贷款相关出资](https://36kr.com/newsflashes/3884760243875843?f=rss)
+  - [Solstice先进材料拟斥资超120亿美元收购Element解决方案公司](https://36kr.com/newsflashes/3884774517436425?f=rss)
+  - [SpaceX公布AI数据中心计划，同步推进星链卫星脱轨](https://36kr.com/newsflashes/3884777410031879?f=rss)
+  - [“逸文科技（Even Realities）”宣布完成Pre-B轮融资](https://36kr.com/newsflashes/3884783193927944?f=rss)
   - [三星电子预计第二季度营业利润同比暴增1810%](https://36kr.com/newsflashes/3884759374655749?f=rss)
+  - [中信建投：2026年上半年A股在硬科技主线驱动下呈现极致的K型结构性行情](https://36kr.com/newsflashes/3884794058190856?f=rss)
+  - [中信建投：投资窗口可能出现在降息尾声、宽松预期充分定价、DR007企稳或资金利率回升阶段](https://36kr.com/newsflashes/3884804043157509?f=rss)
+  - [中报预增公司占比走高，新兴产业助力业绩增长](https://36kr.com/newsflashes/3884776478224390?f=rss)
+  - [亚马逊云服务发布AWS SimuLearn学习计划徽章，提供云端实践技能可信验证](https://36kr.com/newsflashes/3884816680136965?f=rss)
+  - [今年1至5月我国机器人规上企业营业收入突破900亿元](https://36kr.com/newsflashes/3884808009068549?f=rss)
+  - [华泰证券：看好受益AI产品迭代浪潮的二手消费电子细分赛道](https://36kr.com/newsflashes/3884796928864262?f=rss)
   - [快手：腾讯持股比例将由约15.68%下降至9.37%，不再为本公司主要股东](https://36kr.com/newsflashes/3884761339768837?f=rss)
+  - [摩根大通、美国银行等多家银行筹划交易，欲改写支付行业格局](https://36kr.com/newsflashes/3884780437483785?f=rss)
+  - [新能源、人工智能产业带动有色品类全线走强，上市公司盈利显著修复](https://36kr.com/newsflashes/3884772074942727?f=rss)
+  - [日本5月劳动现金收入同比增长3.2%](https://36kr.com/newsflashes/3884800898396421?f=rss)
+  - [玻璃基板进入关键验证期，良率决定产业化拐点](https://36kr.com/newsflashes/3884779328696323?f=rss)
+  - [电解液添加剂VC价格攀升，行业库存降至低位，头部电池厂绑定产能](https://36kr.com/newsflashes/3884775212560385?f=rss)
+  - [福泰制药将以约100亿美元交易规模收购Crinetics，创公司史上最大交易](https://36kr.com/newsflashes/3884773240401929?f=rss)
+  - [第十轮涨价激活煤炭股，机构建议关注配置机遇](https://36kr.com/newsflashes/3884778131960066?f=rss)
+  - [美联储理事沃勒为前瞻指引辩护，称运用得当能起到积极作用](https://36kr.com/newsflashes/3884772685770757?f=rss)
   - [美股三大指数集体收涨，大型科技股涨跌不一](https://36kr.com/newsflashes/3884757957882120?f=rss)
   - [英伟达AI服务器架构据传将延后推出，公司回应称路线图并没有改变](https://36kr.com/newsflashes/3884758749016329?f=rss)
+  - [英国易捷航空与美资达成55亿英镑初步私有化协议，市场对其合规及落地前景持审慎态度](https://36kr.com/newsflashes/3884778665603336?f=rss)
+  - [防范系统性风险与理财越界，英监管机构评估纳管AI金融服务](https://36kr.com/newsflashes/3884784672763906?f=rss)
 - Ars Technica
   - [Katalyst's satellite rescue mission is now in pursuit of NASA's Swift](https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/)
 - Blog - Praetorian
@@ -34,12 +54,15 @@
   - [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
   - [Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/)
   - [Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)](https://news.ycombinator.com/item?id=48806976)
+  - [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
 - HackerNoon
   - [We Tried Building an In-House AI Routing Layer - It Blew Up at $500/Month Per Engineer](https://hackernoon.com/we-tried-building-an-in-house-ai-routing-layer-it-blew-up-at-$500month-per-engineer?source=rss)
 - infosecurity-magazine.com
   - [New Iran-Nexus Hacking Group Targets Israel Government and IT Sectors](https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/)
 - Sandfly Security Blog RSS Feed
   - [Sandfly 5.8 - Agentless Response and SSH Key Management](https://sandflysecurity.com/blog/sandfly-58-agentless-response-and-ssh-key-management)
+- simonwillison.net
+  - [tencent/Hy3](https://simonwillison.net/2026/Jul/6/hy3/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Argument Injection in Gnu Inetutils exploit](https://sploitus.com/exploit?id=5D5162E4-9130-5E15-A96A-A205E12AF861&utm_source=rss&utm_medium=rss)
   - [Exploit for Command Injection in Netdata exploit](https://sploitus.com/exploit?id=7E728DBB-AAD1-5FD6-AFCE-86330F2E37FE&utm_source=rss&utm_medium=rss)
@@ -49,6 +72,8 @@
   - [Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all](https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/)
   - [Apple brings back card payments for Apple Account purchases in India after a four-year hiatus](https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/)
   - [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+  - [The ‘first’ AI-run ransomware attack still needed a human](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)
+  - [US investors will soon get access to SK Hynix, another memory maker riding the AI boom](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/)
   - [Vercel CEO Guillermo Rauch on the fight to split off models from agents](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/)
   - [You can now customize Siri’s pace and expressivity in the latest iOS 27 beta](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/)
 - text/plain
@@ -99,6 +124,11 @@
   - [CVE-2026-48614 | WebPros Plesk up to 18.0.77 Plesk XML API improper authorization](https://vuldb.com/vuln/376490)
   - [CVE-2026-50133 | gohugoio Hugo up to 0.161.x cross site scripting](https://vuldb.com/vuln/376514)
   - [CVE-2026-50134 | gohugoio Hugo up to 0.161.x URL Redirect GetRemote redirect](https://vuldb.com/vuln/376505)
+  - [CVE-2026-53642 | FOSSBilling up to 0.7.2 Email Confirmation Enforcement improper authentication](https://vuldb.com/vuln/376572)
+  - [CVE-2026-53643 | FOSSBilling up to 0.7.x Admin API improper authorization](https://vuldb.com/vuln/376570)
+  - [CVE-2026-53644 | FOSSBilling up to 0.7.x Serviceapikey reset isActive information disclosure](https://vuldb.com/vuln/376571)
+  - [CVE-2026-53645 | Admin API up to 0.7.x permissions_update access control](https://vuldb.com/vuln/376573)
+  - [CVE-2026-53646 | FOSSBilling up to 0.7.2 Password Reset information disclosure](https://vuldb.com/vuln/376569)
   - [CVE-2026-53763 | OP-TEE up to 4.10.x AES-GCM integer overflow](https://vuldb.com/vuln/376508)
   - [CVE-2026-54059 | Pillow up to 12.2.x PCF Font Parser PIL/PcfFontFile.py _load_bitmaps memory allocation](https://vuldb.com/vuln/376493)
   - [CVE-2026-54060 | Pillow up to 12.2.x FontFile PIL/FontFile.py FontFile.compile allocation of resources](https://vuldb.com/vuln/376494)
@@ -117,3 +147,5 @@
   - [CVE-2026-59712 | Leantime up to 3.4.4 JSON-RPC API Users::getUser user ID improper authorization](https://vuldb.com/vuln/376544)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [SpaceX总裁向特朗普账户捐赠个人股票](https://blog.upx8.com/SpaceX%E6%80%BB%E8%A3%81%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7%E6%8D%90%E8%B5%A0%E4%B8%AA%E4%BA%BA%E8%82%A1%E7%A5%A8)
