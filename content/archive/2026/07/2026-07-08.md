@@ -3,6 +3,7 @@
 - 2Libra
   - [【💰】卡皮巴拉：今天开始，情绪更稳定！](https://2libra.com/post/forum-function/WFZnvEc)
   - [对《肖申克的救赎》的一些感悟](https://2libra.com/post/movie-experience/SWnB_0C)
+  - [我好像把鱼佬的通用图片上传插件的重复上传 bug 给修复好了](https://2libra.com/post/open-source-sharing/SUnPKLu)
 - Hacker News Frontpage
   - [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
   - [Jim's TrueType QR Code Font](https://github.com/jimparis/qr-font)
@@ -10,6 +11,8 @@
   - [Mapping homes you can buy from the US government for <$100k](https://govauctions.app/research/cheapest-homes-in-america)
   - [Reducing Doom Loops with Final Token Preference Optimization](https://www.liquid.ai/blog/antidoom)
   - [Weighing smoke: why AI visibility dashboards are mostly useless](https://betterthangood.xyz/blog/weighing-smoke/)
+- Horizon3.ai
+  - [CVE-2026-48283 / CVE-2026-48313 | Adobe ColdFusion Pre-Authentication Unrestricted File Upload and Path Traversal Vulnerabilities](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-48283-cve-2026-48313/)
 - Linux Foundation Blogs
   - [From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation](https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation)
 - Sploitus.com Exploits RSS Feed
@@ -18,8 +21,10 @@
 - TechCrunch
   - [Claude Cowork expands to mobile and web](https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/)
   - [Hacked, leaked, and held for ransom: The worst breaches of 2026 so far](https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/)
+  - [Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others](https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/)
 - The Decoder
   - [China eyes export curbs on its top AI models, and Europe is caught in the middle](https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/)
+  - [Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems](https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/)
 - The Verge
   - [Doom developer id reportedly cut in half as part of Xbox layoffs](https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs)
 - VulDB Recent Entries
@@ -28,6 +33,9 @@
   - [CVE-2026-23697 | Vtiger Vtiger CRM up to 8.3.0 Documents module config.inc.php unrestricted upload](https://vuldb.com/vuln/376651)
   - [CVE-2026-23698 | Vtiger Vtiger CRM up to 8.4.0 Admin Module Import Feature manifest.xml unrestricted upload](https://vuldb.com/vuln/376652)
   - [CVE-2026-56811 | phoenixframework phoenix prior 1.5.15/1.6.17/1.7.24/1.8.9 Socket lib/phoenix/socket.ex handle_in/4 allocation of resources](https://vuldb.com/vuln/376649)
+  - [CVE-2026-56812 | phoenixframework phoenix up to 1.5.14/1.6.16/1.7.23/1.8.8 Presence presence.js Presence.syncState/Presence.syncDiff denial of service](https://vuldb.com/vuln/376658)
+- wheresyoured.at
+  - [Let AI Burn](https://www.wheresyoured.at/let-ai-burn/)
 - Wired
   - [Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone](https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/)
 - 代码审计星球
