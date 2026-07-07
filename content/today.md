@@ -1,14 +1,21 @@
 # 今日安全资讯（2026-07-07）
 
 - 2Libra
+  - [Speed 崩溃，让 C 罗出局不那么难受了](https://2libra.com/post/hotspot-tracking/txpxB5n)
   - [【💰】兄弟們，我要輸出！概率 当前：50%](https://2libra.com/post/forum-function/OGC81xx)
+  - [【💰】头像动图到我了，兄滴们，顺便体验了下 gpt 的五毛钱动图特效](https://2libra.com/post/ai-tools/bXO2dkf)
+  - [主题自定义](https://2libra.com/post/forum-function/vfxePO7)
   - [来设置你专属颜色，看谁的漂亮](https://2libra.com/post/sharing-discoveries/lnMijZk)
+  - [糊了糊了！](https://2libra.com/post/forum-function/1bXp14m)
+  - [西班牙 1-0 绝杀葡萄牙](https://2libra.com/post/football/f8RxPGc)
 - 36氪
   - [36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资](https://36kr.com/p/3884289424437511?f=rss)
   - [6月中国仓储指数重回扩张区间，行业运行恢复向好](https://36kr.com/newsflashes/3884834786209795?f=rss)
   - [8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”](https://36kr.com/p/3884831072514309?f=rss)
+  - [A股三大指数集体低开，半导体板块走弱](https://36kr.com/newsflashes/3884901746454536?f=rss)
   - [A股市场重要股东减持渠道“一降两升”](https://36kr.com/newsflashes/3884781020803334?f=rss)
   - [LG新能源预计第二季度营业利润将因电动汽车需求疲软而下降77%](https://36kr.com/newsflashes/3884874310775043?f=rss)
+  - [MSCI拟缩短部分警示板股票监测期，以减少指数纳入限制](https://36kr.com/newsflashes/3884888646201347?f=rss)
   - [Rivian拟发行7500万股股票，用于美国能源部贷款相关出资](https://36kr.com/newsflashes/3884760243875843?f=rss)
   - [Solstice先进材料拟斥资超120亿美元收购Element解决方案公司](https://36kr.com/newsflashes/3884774517436425?f=rss)
   - [SpaceX公布AI数据中心计划，同步推进星链卫星脱轨](https://36kr.com/newsflashes/3884777410031879?f=rss)
@@ -25,15 +32,21 @@
   - [中信证券：韩国未来有望成为物理AI时代的重要参与者](https://36kr.com/newsflashes/3884831641547011?f=rss)
   - [中报预增公司占比走高，新兴产业助力业绩增长](https://36kr.com/newsflashes/3884776478224390?f=rss)
   - [亚马逊云服务发布AWS SimuLearn学习计划徽章，提供云端实践技能可信验证](https://36kr.com/newsflashes/3884816680136965?f=rss)
+  - [人民币兑美元中间价报6.8054](https://36kr.com/newsflashes/3884892409393160?f=rss)
   - [今年1至5月我国机器人规上企业营业收入突破900亿元](https://36kr.com/newsflashes/3884808009068549?f=rss)
   - [华泰证券：看好受益AI产品迭代浪潮的二手消费电子细分赛道](https://36kr.com/newsflashes/3884796928864262?f=rss)
+  - [央行今日开展100亿元7天逆回购操作](https://36kr.com/newsflashes/3884898454106369?f=rss)
   - [对冲基金对日元看跌情绪达到2007年以来最严重程度](https://36kr.com/newsflashes/3884855748603909?f=rss)
   - [快手：腾讯持股比例将由约15.68%下降至9.37%，不再为本公司主要股东](https://36kr.com/newsflashes/3884761339768837?f=rss)
+  - [恒指开盘跌0.2%，恒生科技指数跌0.37%](https://36kr.com/newsflashes/3884898281222407?f=rss)
+  - [恒生科技指数涨幅扩大至1%](https://36kr.com/newsflashes/3884911964844293?f=rss)
   - [摩根大通、美国银行等多家银行筹划交易，欲改写支付行业格局](https://36kr.com/newsflashes/3884780437483785?f=rss)
   - [新产业：拟1亿元—2亿元回购公司股份](https://36kr.com/newsflashes/3884823614828800?f=rss)
   - [新能源、人工智能产业带动有色品类全线走强，上市公司盈利显著修复](https://36kr.com/newsflashes/3884772074942727?f=rss)
   - [日本5月劳动现金收入同比增长3.2%](https://36kr.com/newsflashes/3884800898396421?f=rss)
   - [日本财务省：截至6月底日本外汇储备稳定在1.09万亿美元](https://36kr.com/newsflashes/3884851499397382?f=rss)
+  - [潘功胜：香港可以抓住有利时机，吸引更多主权财富和国际企业到港发债融资](https://36kr.com/newsflashes/3884919413108995?f=rss)
+  - [现代汽车与韩国政府就电动汽车充电基础设施签署谅解备忘录](https://36kr.com/newsflashes/3884927949648129?f=rss)
   - [现货白银日内跌幅扩大至1%](https://36kr.com/newsflashes/3884878098329864?f=rss)
   - [玻璃基板进入关键验证期，良率决定产业化拐点](https://36kr.com/newsflashes/3884779328696323?f=rss)
   - [玻色量子启动IPO辅导](https://36kr.com/newsflashes/3884878470361093?f=rss)
@@ -59,6 +72,7 @@
   - [Hook Chains (how I built Crystal Kit incorrectly*)](https://rastamouse.me/cpl-hook-chains/)
 - Cybersecurity News
   - [CVE-2026-40138 & CVE-2026-40139: BeyondTrust Pre-Auth Flaws (CVSS 9.2)](https://securityonline.info/cve-2026-40138-beyondtrust-pre-authentication-vulnerability/)
+  - [Windows 11 Storage Bug Causes Massive Log File Bloat](https://securityonline.info/windows-11-storage-bug-fix/)
 - daringfireball.net
   - [Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’](https://allenpike.com/2025/why-is-chatgpt-so-good-claude/)
   - [ATP Member Special: Mac-Assed Mac Apps](https://atp.fm/atp-dev-mac-assed-mac-apps)
@@ -73,6 +87,7 @@
 - Hacker News Frontpage
   - [How little exercise can you get away with?](https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with)
   - [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
+  - [LLMs Are Not a Default Execution Engine](https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt)
   - [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
   - [Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/)
   - [Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)](https://news.ycombinator.com/item?id=48806976)
@@ -90,6 +105,8 @@
   - [Exploit for Command Injection in Netdata exploit](https://sploitus.com/exploit?id=7E728DBB-AAD1-5FD6-AFCE-86330F2E37FE&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-38526 exploit](https://sploitus.com/exploit?id=6E2053EC-7925-5889-A755-E59122A1E939&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=4494CA76-67C5-5EA8-B785-B06824037479&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Neutralization of Special Elements in Data Query Logic in Budibase exploit](https://sploitus.com/exploit?id=E7208285-7740-58AA-9601-BD03EDB2275F&utm_source=rss&utm_medium=rss)
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Ollyo Sp_Page_Builder exploit](https://sploitus.com/exploit?id=E2A4520E-343C-5B17-9530-563810F86EA4&utm_source=rss&utm_medium=rss)
   - [sui-txblock-deser-poc exploit](https://sploitus.com/exploit?id=D6CE4316-4E63-5E67-9E2D-AF1504A734F0&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all](https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/)
@@ -175,4 +192,5 @@
   - [早报｜曝华为Mate90将搭载「韬定律」新麒麟芯片/英特尔上调CPU售价/企业微信发布AI录音硬件](https://www.ifanr.com/1671116?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [SpaceX总裁向特朗普账户捐赠个人股票](https://blog.upx8.com/SpaceX%E6%80%BB%E8%A3%81%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7%E6%8D%90%E8%B5%A0%E4%B8%AA%E4%BA%BA%E8%82%A1%E7%A5%A8)
+  - [任天堂明年将在欧洲停止销售初代Switch](https://blog.upx8.com/%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%98%8E%E5%B9%B4%E5%B0%86%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%81%9C%E6%AD%A2%E9%94%80%E5%94%AE%E5%88%9D%E4%BB%A3Switch)
   - [联合国秘书长呼吁建立全球统一AI监管规则](https://blog.upx8.com/%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%91%BC%E5%90%81%E5%BB%BA%E7%AB%8B%E5%85%A8%E7%90%83%E7%BB%9F%E4%B8%80AI%E7%9B%91%E7%AE%A1%E8%A7%84%E5%88%99)
