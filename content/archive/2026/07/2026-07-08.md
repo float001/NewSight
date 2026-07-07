@@ -6,6 +6,8 @@
   - [我好像把鱼佬的通用图片上传插件的重复上传 bug 给修复好了](https://2libra.com/post/open-source-sharing/SUnPKLu)
 - Ars Technica
   - [Google's Pixel 11 launch event is set for August 12, with possible price increases](https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/)
+- darkreading
+  - [Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft](https://www.darkreading.com/application-security/dialogflow-cx-rogue-agent-flaw-enabled-ai-chatbot-data-theft)
 - Hacker News Frontpage
   - [A new runtime for k and q: l](https://lv1.sh/)
   - [Astro 7.0](https://astro.build/blog/astro-7/)
@@ -15,6 +17,7 @@
   - [MacSurf 1.68 – NetSurf on OS 9 Released](https://github.com/mplsllc/macsurf/releases/tag/v1.86)
   - [Mapping homes you can buy from the US government for <$100k](https://govauctions.app/research/cheapest-homes-in-america)
   - [Notes on Software Quality](https://anthonyhobday.com/blog/20260410)
+  - [Re: I'm Begging You to Leave Your AI Note-Taker at Home](https://firesphere.dev/articles/yes-actually-i-do-fucking-mind)
   - [Reducing Doom Loops with Final Token Preference Optimization](https://www.liquid.ai/blog/antidoom)
   - [Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens](https://github.com/kklimuk/docx-cli)
   - [Weighing smoke: why AI visibility dashboards are mostly useless](https://betterthangood.xyz/blog/weighing-smoke/)
@@ -27,6 +30,8 @@
 - simonwillison.net
   - [sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-12277 exploit](https://sploitus.com/exploit?id=91BD22BB-D989-5A87-A4B3-4725E4F27536&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-20896 exploit](https://sploitus.com/exploit?id=B63E3966-43C5-5FF1-BB9C-649838FB209E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-23697 exploit](https://sploitus.com/exploit?id=1870CB5D-0489-53DE-9322-1CFCFA00D128&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-23698 exploit](https://sploitus.com/exploit?id=14650063-3D49-54CB-9783-6AB58C984EFA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-36214 exploit](https://sploitus.com/exploit?id=8B0ABDA6-D053-5B34-9C21-0816802F9B88&utm_source=rss&utm_medium=rss)
@@ -44,6 +49,7 @@
   - [Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs](https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/)
 - The Verge
   - [Doom developer id reportedly cut in half as part of Xbox layoffs](https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs)
+  - [Meta’s new Muse Image model can pull other Instagram users into AI photos](https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram)
   - [X says top accounts steal videos from other users as it announces new video tools](https://www.theverge.com/tech/962415/x-video-editor-recycled-content)
 - VulDB Recent Entries
   - [CVE-2026-14904 | AWS AWS Research and Engineering Studio up to 2026.03 Authentication GetUserPrivateKey link following](https://vuldb.com/vuln/376653)
