@@ -19,9 +19,11 @@
   - [36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资](https://36kr.com/p/3884289424437511?f=rss)
   - [6月中国仓储指数重回扩张区间，行业运行恢复向好](https://36kr.com/newsflashes/3884834786209795?f=rss)
   - [8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”](https://36kr.com/p/3884831072514309?f=rss)
+  - [A股三大指数午间休盘集体收跌，半导体板块走强](https://36kr.com/newsflashes/3885025040084997?f=rss)
   - [A股三大指数集体低开，半导体板块走弱](https://36kr.com/newsflashes/3884901746454536?f=rss)
   - [A股市场重要股东减持渠道“一降两升”](https://36kr.com/newsflashes/3884781020803334?f=rss)
   - [LG新能源预计第二季度营业利润将因电动汽车需求疲软而下降77%](https://36kr.com/newsflashes/3884874310775043?f=rss)
+  - [Meta称美国四个州在8月的青少年安全诉讼中寻求1.4万亿美元罚款](https://36kr.com/newsflashes/3885040380194818?f=rss)
   - [MSCI拟缩短部分警示板股票监测期，以减少指数纳入限制](https://36kr.com/newsflashes/3884888646201347?f=rss)
   - [Rivian拟发行7500万股股票，用于美国能源部贷款相关出资](https://36kr.com/newsflashes/3884760243875843?f=rss)
   - [Solstice先进材料拟斥资超120亿美元收购Element解决方案公司](https://36kr.com/newsflashes/3884774517436425?f=rss)
@@ -40,7 +42,9 @@
   - [中信证券：建议关注产业资源突出的优质中型券商以及投行业务实力雄厚的头部券商](https://36kr.com/newsflashes/3884846895198215?f=rss)
   - [中信证券：铝行业悲观预期定价过度，板块有望理性修复](https://36kr.com/newsflashes/3884840747986951?f=rss)
   - [中信证券：韩国未来有望成为物理AI时代的重要参与者](https://36kr.com/newsflashes/3884831641547011?f=rss)
+  - [中国中煤在安徽成立新公司](https://36kr.com/newsflashes/3885029294796801?f=rss)
   - [中报预增公司占比走高，新兴产业助力业绩增长](https://36kr.com/newsflashes/3884776478224390?f=rss)
+  - [丰田纺织、华勤技术在上海成立汽车电子公司](https://36kr.com/newsflashes/3885004857094409?f=rss)
   - [亚马逊云服务发布AWS SimuLearn学习计划徽章，提供云端实践技能可信验证](https://36kr.com/newsflashes/3884816680136965?f=rss)
   - [人民币兑美元中间价报6.8054](https://36kr.com/newsflashes/3884892409393160?f=rss)
   - [今年1至5月我国机器人规上企业营业收入突破900亿元](https://36kr.com/newsflashes/3884808009068549?f=rss)
@@ -50,6 +54,7 @@
   - [央行今日开展100亿元7天逆回购操作](https://36kr.com/newsflashes/3884898454106369?f=rss)
   - [对冲基金对日元看跌情绪达到2007年以来最严重程度](https://36kr.com/newsflashes/3884855748603909?f=rss)
   - [快手：腾讯持股比例将由约15.68%下降至9.37%，不再为本公司主要股东](https://36kr.com/newsflashes/3884761339768837?f=rss)
+  - [恒指午间休盘跌0.42%，恒生科技指数0.28%](https://36kr.com/newsflashes/3885054658294017?f=rss)
   - [恒指开盘跌0.2%，恒生科技指数跌0.37%](https://36kr.com/newsflashes/3884898281222407?f=rss)
   - [恒生科技指数日内涨超2%](https://36kr.com/newsflashes/3884949596352514?f=rss)
   - [恒生科技指数涨幅扩大至1%](https://36kr.com/newsflashes/3884911964844293?f=rss)
@@ -61,6 +66,8 @@
   - [日本5月劳动现金收入同比增长3.2%](https://36kr.com/newsflashes/3884800898396421?f=rss)
   - [日本增长战略大臣城内实表示政府并未力促低利率](https://36kr.com/newsflashes/3884978626572290?f=rss)
   - [日本财务省：截至6月底日本外汇储备稳定在1.09万亿美元](https://36kr.com/newsflashes/3884851499397382?f=rss)
+  - [智谱：媒体称撤回A股辅导备案报导失实](https://36kr.com/newsflashes/3885042555515144?f=rss)
+  - [沪深两市成交额突破1.5万亿](https://36kr.com/newsflashes/3885004180484352?f=rss)
   - [沪深两市成交额连续第270个交易日突破1万亿元](https://36kr.com/newsflashes/3884947604025605?f=rss)
   - [深成指、创业板指双双跌逾1%](https://36kr.com/newsflashes/3884963123802373?f=rss)
   - [潘功胜：支持更多优质企业到香港上市和发债，债券通“南向通”年度投资净额度提升至8000亿元](https://36kr.com/newsflashes/3884986577776644?f=rss)
@@ -77,10 +84,12 @@
   - [美股三大指数集体收涨，大型科技股涨跌不一](https://36kr.com/newsflashes/3884757957882120?f=rss)
   - [英伟达AI服务器架构据传将延后推出，公司回应称路线图并没有改变](https://36kr.com/newsflashes/3884758749016329?f=rss)
   - [英国易捷航空与美资达成55亿英镑初步私有化协议，市场对其合规及落地前景持审慎态度](https://36kr.com/newsflashes/3884778665603336?f=rss)
+  - [蚂蚁灵波发布空间感知模型LingBot-Depth 2.0](https://36kr.com/newsflashes/3885019659202566?f=rss)
   - [银河证券：水泥成本支撑下6月价格小幅反弹，预计7月水泥价格呈低位趋弱运行](https://36kr.com/newsflashes/3884857359872009?f=rss)
   - [银河证券：电子布价格每月提涨，高景气厚增企业业绩](https://36kr.com/newsflashes/3884854758715654?f=rss)
   - [防范系统性风险与理财越界，英监管机构评估纳管AI金融服务](https://36kr.com/newsflashes/3884784672763906?f=rss)
   - [面临罢免投票压力，淡水河谷董事会主席宣布辞职](https://36kr.com/newsflashes/3884842541592835?f=rss)
+  - [香港交易所与跨境清算公司签署合作备忘录，加强香港离岸人民币结算基础设施建设](https://36kr.com/newsflashes/3885056363639046?f=rss)
 - Ars Technica
   - [Katalyst's satellite rescue mission is now in pursuit of NASA's Swift](https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/)
 - Blog - Praetorian
@@ -90,6 +99,7 @@
 - Cheesy Rumbles
   - [Hook Chains (how I built Crystal Kit incorrectly*)](https://rastamouse.me/cpl-hook-chains/)
 - Cybersecurity News
+  - [Cloudflare Workers Cache: Edge Caching for Workers](https://securityonline.info/cloudflare-workers-cache/)
   - [CVE-2026-40138 & CVE-2026-40139: BeyondTrust Pre-Auth Flaws (CVSS 9.2)](https://securityonline.info/cve-2026-40138-beyondtrust-pre-authentication-vulnerability/)
   - [Microsoft Xbox Layoffs: Profound Corporate Restructuring](https://securityonline.info/microsoft-xbox-layoffs/)
   - [Ubuntu 26.04 LTS Elevates Arm64 to First-Class Status](https://securityonline.info/ubuntu-26-04-arm64-support/)
@@ -119,7 +129,12 @@
   - [New Iran-Nexus Hacking Group Targets Israel Government and IT Sectors](https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/)
 - Kali Linux Tutorials
   - [Install GCC on Ubuntu 18.04: C and C++ Compiler Setup Guide](https://kalilinuxtutorials.com/install-gcc-on-ubuntu-2/)
+  - [Install Odoo 13 on Ubuntu 18.04: Python Venv and Nginx Guide](https://kalilinuxtutorials.com/install-odoo-13-ubuntu/)
+  - [Install Python 3.7 on Ubuntu 18.04: apt and Source Build Methods](https://kalilinuxtutorials.com/install-python-3-7-ubuntu/)
   - [Install Python 3.8 on Ubuntu 18.04: apt and Source Build Methods](https://kalilinuxtutorials.com/install-python-3-8-ubuntu/)
+  - [Secure Apache with Let’s Encrypt on Ubuntu 18.04: Free SSL Guide](https://kalilinuxtutorials.com/secure-apache-lets-encrypt-ubuntu/)
+- rtl-sdr.com
+  - [Adding HD Radio Support to FM DX Webservers with an RTL-SDR](https://www.rtl-sdr.com/adding-hd-radio-support-to-fm-dx-webservers-with-an-rtl-sdr/)
 - Sandfly Security Blog RSS Feed
   - [Sandfly 5.8 - Agentless Response and SSH Key Management](https://sandflysecurity.com/blog/sandfly-58-agentless-response-and-ssh-key-management)
 - simonwillison.net
@@ -130,6 +145,7 @@
   - [Exploit for CVE-2026-38526 exploit](https://sploitus.com/exploit?id=6E2053EC-7925-5889-A755-E59122A1E939&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=4494CA76-67C5-5EA8-B785-B06824037479&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Neutralization of Special Elements in Data Query Logic in Budibase exploit](https://sploitus.com/exploit?id=E7208285-7740-58AA-9601-BD03EDB2275F&utm_source=rss&utm_medium=rss)
+  - [Exploit for Integer Underflow (Wrap or Wraparound) in Microsoft exploit](https://sploitus.com/exploit?id=165484B6-0DE7-5236-9E96-FD03E6F0986D&utm_source=rss&utm_medium=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Ollyo Sp_Page_Builder exploit](https://sploitus.com/exploit?id=E2A4520E-343C-5B17-9530-563810F86EA4&utm_source=rss&utm_medium=rss)
   - [sui-txblock-deser-poc exploit](https://sploitus.com/exploit?id=D6CE4316-4E63-5E67-9E2D-AF1504A734F0&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -165,7 +181,13 @@
   - [CVE-2026-21384 | Qualcomm Snapdragon memory corruption](https://vuldb.com/vuln/376517)
   - [CVE-2026-25271 | Qualcomm Snapdragon Compute Modified memory corruption](https://vuldb.com/vuln/376535)
   - [CVE-2026-33734 | FOSSBilling up to 0.7.x Massmailer sql injection](https://vuldb.com/vuln/376541)
+  - [CVE-2026-34034 | coollabsio Coolify up to 4.0.0-beta.465 Setting sentinel_token os command injection](https://vuldb.com/vuln/376583)
+  - [CVE-2026-34035 | coollabsio Coolify up to 4.0.0-beta.465 os command injection](https://vuldb.com/vuln/376584)
+  - [CVE-2026-34037 | coollabsio Coolify up to 4.0.0-beta.463 Resource Operations ResourceOperations.php cloneTo improper authorization](https://vuldb.com/vuln/376579)
   - [CVE-2026-34038 | coollabsio Coolify up to 4.0.0-beta.468 Deployment Handling command injection](https://vuldb.com/vuln/376537)
+  - [CVE-2026-34057 | coollabsio Coolify up to 4.0.0-beta.470 Database Import Import.php os command injection](https://vuldb.com/vuln/376580)
+  - [CVE-2026-34058 | coollabsio Coolify up to 4.0.0-beta.470 Livewire startUnmanaged/stopUnmanaged/restartUnmanaged os command injection](https://vuldb.com/vuln/376581)
+  - [CVE-2026-34152 | coollabsio Coolify up to 4.0.0-beta.470 injection](https://vuldb.com/vuln/376582)
   - [CVE-2026-34153 | coollabsio Coolify up to 4.0.0-beta.470 File Storage LocalFileVolume.php saveStorageOnServer fs_path/parent_dir os command injection](https://vuldb.com/vuln/376560)
   - [CVE-2026-40138 | BeyondTrust Remote Support and Privileged Remote Access up to 25.3.2/26.2.0 access control](https://vuldb.com/vuln/376483)
   - [CVE-2026-40139 | BeyondTrust Remote Support up to 25.3.2/26.2.0 Authentication Request access control](https://vuldb.com/vuln/376484)
@@ -215,7 +237,11 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜曝华为Mate90将搭载「韬定律」新麒麟芯片/英特尔上调CPU售价/企业微信发布AI录音硬件](https://www.ifanr.com/1671116?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程](https://www.qbitai.com/2026/07/444859.html)
+  - [征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？](https://www.qbitai.com/2026/07/445067.html)
 - 黑海洋
+  - [iOS 27 beta3允许自定义Siri语速和表现力](https://blog.upx8.com/iOS-27-beta3%E5%85%81%E8%AE%B8%E8%87%AA%E5%AE%9A%E4%B9%89Siri%E8%AF%AD%E9%80%9F%E5%92%8C%E8%A1%A8%E7%8E%B0%E5%8A%9B)
   - [SpaceX总裁向特朗普账户捐赠个人股票](https://blog.upx8.com/SpaceX%E6%80%BB%E8%A3%81%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7%E6%8D%90%E8%B5%A0%E4%B8%AA%E4%BA%BA%E8%82%A1%E7%A5%A8)
   - [任天堂明年将在欧洲停止销售初代Switch](https://blog.upx8.com/%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%98%8E%E5%B9%B4%E5%B0%86%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%81%9C%E6%AD%A2%E9%94%80%E5%94%AE%E5%88%9D%E4%BB%A3Switch)
   - [联合国秘书长呼吁建立全球统一AI监管规则](https://blog.upx8.com/%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%91%BC%E5%90%81%E5%BB%BA%E7%AB%8B%E5%85%A8%E7%90%83%E7%BB%9F%E4%B8%80AI%E7%9B%91%E7%AE%A1%E8%A7%84%E5%88%99)
