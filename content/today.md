@@ -20,6 +20,7 @@
   - [又到了家乡摸爬蚱的时节了](https://2libra.com/post/personal-life/mgeF291)
   - [只能动一天么，我以为永久的](https://2libra.com/post/forum-function/XzesQPY)
   - [在外的游子啊，有没有一瞬间很想家，很想家人](https://2libra.com/post/family/qWoDiJD)
+  - [对{“掺水死全家"中转站可能在掺水}的回应贴](https://2libra.com/post/ai-gateway/M4mg7BK)
   - [愿平安！广西 48 小时内下了 273 亿吨的降雨量，相当于 1900 个杭州西湖](https://2libra.com/post/social-observation/RnGA3Sn)
   - [断签了 😱 补签好费金币啊](https://2libra.com/post/forum-function/UAHlRaC)
   - [来设置你专属颜色，看谁的漂亮](https://2libra.com/post/sharing-discoveries/lnMijZk)
@@ -259,8 +260,10 @@
   - [LLMs Are Not a Default Execution Engine](https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt)
   - [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
   - [Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/)
+  - [Sodium-ion "salt" batteries will revolutionize electric-vehicle and grid storage](https://www.newscientist.com/article/2532997-salt-batteries-are-about-to-shake-up-evs-and-grid-storage/)
   - [Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)](https://news.ycombinator.com/item?id=48806976)
   - [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
+  - [The Revenge of the Philosophy Majors](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)
 - HackerNoon
   - [We Tried Building an In-House AI Routing Layer - It Blew Up at $500/Month Per Engineer](https://hackernoon.com/we-tried-building-an-in-house-ai-routing-layer-it-blew-up-at-$500month-per-engineer?source=rss)
 - Hacking Dream
@@ -313,6 +316,7 @@
   - [Exploit for CVE-2026-14762 exploit](https://sploitus.com/exploit?id=119A4B0A-4AB1-5425-9AFD-E75630FB9E86&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-38526 exploit](https://sploitus.com/exploit?id=6E2053EC-7925-5889-A755-E59122A1E939&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-39492 exploit](https://sploitus.com/exploit?id=C6267772-8D88-57ED-80ED-6E28C1C86040&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-48611 exploit](https://sploitus.com/exploit?id=2823D097-B0CC-5386-B351-B64CE417ED4F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-53359 exploit](https://sploitus.com/exploit?id=4737835A-4C8B-5F56-8158-08DA232A3AB8&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=4494CA76-67C5-5EA8-B785-B06824037479&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Neutralization of Special Elements in Data Query Logic in Budibase exploit](https://sploitus.com/exploit?id=E7208285-7740-58AA-9601-BD03EDB2275F&utm_source=rss&utm_medium=rss)
@@ -325,8 +329,10 @@
   - [sui-txblock-deser-poc exploit](https://sploitus.com/exploit?id=D6CE4316-4E63-5E67-9E2D-AF1504A734F0&utm_source=rss&utm_medium=rss)
   - [vuln-poc-research-skill exploit](https://sploitus.com/exploit?id=D04F16C7-2751-571F-B789-A6E5B1B2634B&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [AI law startup Norm raises $120M, hits unicorn valuation](https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/)
   - [Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all](https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/)
   - [Apple brings back card payments for Apple Account purchases in India after a four-year hiatus](https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/)
+  - [Chemistry Ventures is raising $500M for its second fund](https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/)
   - [Hacktivists call out Trump by hacking and defacing US Army websites](https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/)
   - [Netflix invented binge-watching. Now it may have outgrown it.](https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/)
   - [Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom](https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/)
@@ -342,11 +348,13 @@
 - The Decoder
   - [Apollo economist warns AI profit gains outside tech could take "well beyond" what Wall Street expects](https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/)
   - [Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens](https://the-decoder.com/chinese-ai-models-regularly-pass-30-percent-on-openrouter-as-cost-gap-widens/)
+  - [Claude's hidden inner monologue is now readable thanks to Anthropic's new Jacobian Lens](https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/)
   - [Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers](https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/)
   - [GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top](https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/)
   - [OpenAI and Anthropic are giving away millions in computing power to attract startups](https://the-decoder.com/openai-and-anthropic-are-giving-away-millions-in-computing-power-to-attract-startups/)
   - [Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost](https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/)
 - The Verge
+  - [Anker&#8217;s noise-blocking earbuds for sleeping are nearly half off](https://www.theverge.com/gadgets/961962/anker-soundcore-sleep-a20-jbl-go-5-deal-sale)
   - [Five questions for Dr. Rubin, who’s armed with a mic and a bowtie](https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview)
   - [Former Xbox studios Double Fine and Compulsion will keep games after going indie](https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie)
   - [Google Search lets creators know more about their reach](https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties)
@@ -455,10 +463,26 @@
   - [CVE-2026-59710 | showdown up to 2.1.0 Table Parser tables.js parseHeaders cross site scripting](https://vuldb.com/vuln/376561)
   - [CVE-2026-59711 | showdown up to 2.1.0 cross site scripting](https://vuldb.com/vuln/376543)
   - [CVE-2026-59712 | Leantime up to 3.4.4 JSON-RPC API Users::getUser user ID improper authorization](https://vuldb.com/vuln/376544)
+  - [CVE-2026-6101 | mohammed_kaludi AMP for WP Plugin up to 1.1.12 ZIP file ampforwp_save_local_font unrestricted upload](https://vuldb.com/vuln/376640)
   - [CVE-2026-7380 | Armiya Information Technologies Access Control System up to 1.x cross site scripting](https://vuldb.com/vuln/376617)
   - [CVE-2026-8306 | Armiya Information Technologies Ltd. Access Control System prior 2 cross site scripting](https://vuldb.com/vuln/376618)
   - [CVE-2026-8309 | Armiya Information Technologies Ltd. Access Control System up to 1.x cross site scripting](https://vuldb.com/vuln/376619)
   - [CVE-2026-8377 | Armiya Information Technologies Access Control System GKS 1.x authorization](https://vuldb.com/vuln/376614)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Qualys Joins Cisco Cloud Control Studio as a Launch Partner to Bring Risk Intelligence to Agentic Operations](https://blog.qualys.com/category/product-tech)
+- Vulners.com RSS Feed
+  - [CVE-2026-33555 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-33555?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-33555 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-33555?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55203 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-55203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55203 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-55203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55204 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-55204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55204 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-55204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-4VJ2-5MVX-3VCC vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-4VJ2-5MVX-3VCC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-4VJ2-5MVX-3VCC vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-4VJ2-5MVX-3VCC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-58MJ-CMHG-35RG vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-58MJ-CMHG-35RG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-58MJ-CMHG-35RG vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-58MJ-CMHG-35RG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-5MP8-RQ5M-PJ7M vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-5MP8-RQ5M-PJ7M?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-5MP8-RQ5M-PJ7M vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-5MP8-RQ5M-PJ7M?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [15% Off Adidas Promo Code | July 2026](https://www.wired.com/story/adidas-promo-code/)
   - [20% Off Sephora Promo Code | July 2026](https://www.wired.com/story/sephora-promo-code/)
@@ -486,6 +510,8 @@
   - [企业文档安全最佳实践（三）：人员密级匹配与审批流程控制](https://buaq.net/go-427474.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [内存成本占到了低端智能手机总成本的六成](https://www.solidot.org/story?sid=84776)
 - 安全客
   - [首个AI全流程勒索攻击来了：JADEPUFFER证明，勒索不再需要人类操盘手](https://www.anquanke.com/post/id/315724)
 - 爱范儿
