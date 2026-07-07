@@ -1,6 +1,39 @@
 # 今日安全资讯（2026-07-08）
 
+- 2Libra
+  - [【💰】卡皮巴拉：今天开始，情绪更稳定！](https://2libra.com/post/forum-function/WFZnvEc)
+  - [对《肖申克的救赎》的一些感悟](https://2libra.com/post/movie-experience/SWnB_0C)
+- Hacker News Frontpage
+  - [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
+  - [Jim's TrueType QR Code Font](https://github.com/jimparis/qr-font)
+  - [MacSurf 1.68 – NetSurf on OS 9 Released](https://github.com/mplsllc/macsurf/releases/tag/v1.86)
+  - [Mapping homes you can buy from the US government for <$100k](https://govauctions.app/research/cheapest-homes-in-america)
+  - [Reducing Doom Loops with Final Token Preference Optimization](https://www.liquid.ai/blog/antidoom)
+  - [Weighing smoke: why AI visibility dashboards are mostly useless](https://betterthangood.xyz/blog/weighing-smoke/)
+- Linux Foundation Blogs
+  - [From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation](https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-23697 exploit](https://sploitus.com/exploit?id=1870CB5D-0489-53DE-9322-1CFCFA00D128&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-23698 exploit](https://sploitus.com/exploit?id=14650063-3D49-54CB-9783-6AB58C984EFA&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Claude Cowork expands to mobile and web](https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/)
+  - [Hacked, leaked, and held for ransom: The worst breaches of 2026 so far](https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/)
+- The Decoder
+  - [China eyes export curbs on its top AI models, and Europe is caught in the middle](https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/)
+- The Verge
+  - [Doom developer id reportedly cut in half as part of Xbox layoffs](https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs)
+- VulDB Recent Entries
+  - [CVE-2026-14904 | AWS AWS Research and Engineering Studio up to 2026.03 Authentication GetUserPrivateKey link following](https://vuldb.com/vuln/376653)
+  - [CVE-2026-14969 | Red Hat 389-ds-base LDBM backend missing encryption](https://vuldb.com/vuln/376650)
+  - [CVE-2026-23697 | Vtiger Vtiger CRM up to 8.3.0 Documents module config.inc.php unrestricted upload](https://vuldb.com/vuln/376651)
+  - [CVE-2026-23698 | Vtiger Vtiger CRM up to 8.4.0 Admin Module Import Feature manifest.xml unrestricted upload](https://vuldb.com/vuln/376652)
+  - [CVE-2026-56811 | phoenixframework phoenix prior 1.5.15/1.6.17/1.7.24/1.8.9 Socket lib/phoenix/socket.ex handle_in/4 allocation of resources](https://vuldb.com/vuln/376649)
 - Wired
   - [Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone](https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [学习多种语言能延缓大脑衰老最长 13 年](https://www.solidot.org/story?sid=84778)
+- 安全客
+  - [T3MP3ST 安全框架：集成 35 款工具，将 AI 代码智能体转化为零日漏洞挖掘器](https://www.anquanke.com/post/id/315732)
+  - [恶意Skills利用扫描规避技术攻击Claude Code和Codex](https://www.anquanke.com/post/id/315737)
