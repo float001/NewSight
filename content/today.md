@@ -2,16 +2,20 @@
 
 - 2Libra
   - [Speed 崩溃，让 C 罗出局不那么难受了](https://2libra.com/post/hotspot-tracking/txpxB5n)
+  - [Zooproxy 送住宅 IP，助力各位海外业务](https://2libra.com/post/promotion/V6oJWYR)
   - [【游戏手柄】买了个黑武士 5pro](https://2libra.com/post/game-discussion/Q6iPYTm)
   - [【💰】Doubao-Seedance-2.0 怎么样](https://2libra.com/post/ai-tools/Ta-TG1O)
+  - [【💰】为了不让孩子沉迷三角洲，我想设计一款搜打撤](https://2libra.com/post/sharing-discoveries/4AeEBrs)
   - [【💰】兄弟們，我要輸出！概率 当前：50%](https://2libra.com/post/forum-function/OGC81xx)
   - [【💰】头像动图到我了，兄滴们，顺便体验了下 gpt 的五毛钱动图特效](https://2libra.com/post/ai-tools/bXO2dkf)
   - [【💰】麻了](https://2libra.com/post/forum-function/eUiKwkP)
   - [不懂就问](https://2libra.com/post/startup-logs/9jaMxih)
+  - [为什么 cursor 里又没有 gpt 和 claude 的模型了](https://2libra.com/post/ai-programming/D41zyNd)
   - [主题自定义](https://2libra.com/post/forum-function/vfxePO7)
   - [人真的是随时会死](https://2libra.com/post/personal-life/kqLGAqO)
   - [从凯美瑞到新能源小鼻嘎：3 万块电车的这一年【三、用车篇】](https://2libra.com/post/automobile/q2ingVf)
   - [又到了家乡摸爬蚱的时节了](https://2libra.com/post/personal-life/mgeF291)
+  - [只能动一天么，我以为永久的](https://2libra.com/post/forum-function/XzesQPY)
   - [在外的游子啊，有没有一瞬间很想家，很想家人](https://2libra.com/post/family/qWoDiJD)
   - [愿平安！广西 48 小时内下了 273 亿吨的降雨量，相当于 1900 个杭州西湖](https://2libra.com/post/social-observation/RnGA3Sn)
   - [断签了 😱 补签好费金币啊](https://2libra.com/post/forum-function/UAHlRaC)
@@ -42,6 +46,7 @@
   - [“迈巨微电子”完成数千万元融资](https://36kr.com/newsflashes/3884959571128584?f=rss)
   - [“逸文科技（Even Realities）”宣布完成Pre-B轮融资](https://36kr.com/newsflashes/3884783193927944?f=rss)
   - [三星电子预计第二季度营业利润同比暴增1810%](https://36kr.com/newsflashes/3884759374655749?f=rss)
+  - [上市前夜｜套现十几亿后，他把矿卡开向港股](https://36kr.com/p/3885318981366023?f=rss)
   - [上海黄金交易所：吸收香港贵金属中央结算系统有限公司入会](https://36kr.com/newsflashes/3884838764474368?f=rss)
   - [上证指数跌逾1%](https://36kr.com/newsflashes/3884969620877319?f=rss)
   - [世界银行维持2026年中国经济增速预期不变](https://36kr.com/newsflashes/3884941420851203?f=rss)
@@ -57,29 +62,37 @@
   - [中信证券：铝行业悲观预期定价过度，板块有望理性修复](https://36kr.com/newsflashes/3884840747986951?f=rss)
   - [中信证券：韩国未来有望成为物理AI时代的重要参与者](https://36kr.com/newsflashes/3884831641547011?f=rss)
   - [中国中煤在安徽成立新公司](https://36kr.com/newsflashes/3885029294796801?f=rss)
+  - [中国央行连续第20个月增持黄金](https://36kr.com/newsflashes/3885300035743747?f=rss)
   - [中报预增公司占比走高，新兴产业助力业绩增长](https://36kr.com/newsflashes/3884776478224390?f=rss)
+  - [中远海控在海南成立新公司， 注册资本3亿](https://36kr.com/newsflashes/3885328527732738?f=rss)
   - [丰田纺织、华勤技术在上海成立汽车电子公司](https://36kr.com/newsflashes/3885004857094409?f=rss)
   - [亚马逊云服务发布AWS SimuLearn学习计划徽章，提供云端实践技能可信验证](https://36kr.com/newsflashes/3884816680136965?f=rss)
   - [人民币兑美元中间价报6.8054](https://36kr.com/newsflashes/3884892409393160?f=rss)
   - [今年1至5月我国机器人规上企业营业收入突破900亿元](https://36kr.com/newsflashes/3884808009068549?f=rss)
+  - [光库科技：上半年净利润同比预增170%—190%](https://36kr.com/newsflashes/3885327460937730?f=rss)
   - [创业板指跌超2%](https://36kr.com/newsflashes/3885121571155974?f=rss)
   - [前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察](https://36kr.com/p/3876837605585160?f=rss)
+  - [动力源：筹划控制权变更事项，股票继续停牌](https://36kr.com/newsflashes/3885329587695880?f=rss)
   - [北京中发海创原生引擎创业投资基金中心登记成立](https://36kr.com/newsflashes/3884966366769411?f=rss)
   - [半日主力资金加仓电子、传媒股，抛售医药股](https://36kr.com/newsflashes/3885055138869512?f=rss)
   - [华泰证券：看好受益AI产品迭代浪潮的二手消费电子细分赛道](https://36kr.com/newsflashes/3884796928864262?f=rss)
+  - [南航通航等在湖南成立低空科技公司，注册资本1亿](https://36kr.com/newsflashes/3885328079892484?f=rss)
   - [哈啰出行在沈阳成立科技公司，注册资本100万](https://36kr.com/newsflashes/3885240988151812?f=rss)
   - [商业银行不良处置仍在加速，上半年全行业转让核销合计至少5000亿](https://36kr.com/newsflashes/3885187316920581?f=rss)
+  - [国家外汇管理局：截至2026年6月末，我国外汇储备规模为34163亿美元](https://36kr.com/newsflashes/3885305175781383?f=rss)
   - [国家电投、中国康富在天津成立新能源投资合伙企业，出资额约17.9亿](https://36kr.com/newsflashes/3885200558715141?f=rss)
   - [央行今日开展100亿元7天逆回购操作](https://36kr.com/newsflashes/3884898454106369?f=rss)
   - [宁德时代入股江苏开洋船舶公司](https://36kr.com/newsflashes/3885142311858176?f=rss)
   - [宁德时代在廊坊成立新公司，注册资本500万](https://36kr.com/newsflashes/3885249171992833?f=rss)
   - [对冲基金对日元看跌情绪达到2007年以来最严重程度](https://36kr.com/newsflashes/3884855748603909?f=rss)
+  - [山东钢铁：副总经理郭伟达拟不低于30万元增持公司股份](https://36kr.com/newsflashes/3885346697031689?f=rss)
   - [平安好医生与辉瑞中国达成深度合作](https://36kr.com/newsflashes/3885283326488838?f=rss)
   - [建发集团成立新科技公司，注册资本5亿](https://36kr.com/newsflashes/3885287563472898?f=rss)
   - [必和必拓获批启动智利150亿美元铜矿扩张](https://36kr.com/newsflashes/3885057092284676?f=rss)
   - [快手：腾讯持股比例将由约15.68%下降至9.37%，不再为本公司主要股东](https://36kr.com/newsflashes/3884761339768837?f=rss)
   - [恒指午间休盘跌0.42%，恒生科技指数0.28%](https://36kr.com/newsflashes/3885054658294017?f=rss)
   - [恒指开盘跌0.2%，恒生科技指数跌0.37%](https://36kr.com/newsflashes/3884898281222407?f=rss)
+  - [恒指收跌0.51%，快手跌超12%](https://36kr.com/newsflashes/3885299701166342?f=rss)
   - [恒生科技指数日内涨超2%](https://36kr.com/newsflashes/3884949596352514?f=rss)
   - [恒生科技指数涨幅扩大至1%](https://36kr.com/newsflashes/3884911964844293?f=rss)
   - [我国规上工业企业人工智能应用普及率已超30%](https://36kr.com/newsflashes/3884995291246599?f=rss)
@@ -87,6 +100,7 @@
   - [摩根大通、美国银行等多家银行筹划交易，欲改写支付行业格局](https://36kr.com/newsflashes/3884780437483785?f=rss)
   - [支付宝AI开放平台开启邀测](https://36kr.com/newsflashes/3884959785234689?f=rss)
   - [新产业：拟1亿元—2亿元回购公司股份](https://36kr.com/newsflashes/3884823614828800?f=rss)
+  - [新希望：6月商品猪销售收入13.84亿元，同比下降17.18%](https://36kr.com/newsflashes/3885310197412103?f=rss)
   - [新思科技停产部分传统EDA软件，已通知超10家芯片厂商](https://36kr.com/newsflashes/3885189964378372?f=rss)
   - [新能源、人工智能产业带动有色品类全线走强，上市公司盈利显著修复](https://36kr.com/newsflashes/3884772074942727?f=rss)
   - [日本5月劳动现金收入同比增长3.2%](https://36kr.com/newsflashes/3884800898396421?f=rss)
@@ -94,6 +108,8 @@
   - [日本财务省：截至6月底日本外汇储备稳定在1.09万亿美元](https://36kr.com/newsflashes/3884851499397382?f=rss)
   - [智谱涨幅扩大至10%](https://36kr.com/newsflashes/3885154142007305?f=rss)
   - [智谱：媒体称撤回A股辅导备案报导失实](https://36kr.com/newsflashes/3885042555515144?f=rss)
+  - [正虹科技：6月生猪销售收入757.42万元，同比下降81.68%](https://36kr.com/newsflashes/3885318440988675?f=rss)
+  - [汇宇制药：获政府补助500万元，占最近一个会计年度净利润20.03%](https://36kr.com/newsflashes/3885331459780617?f=rss)
   - [江丰电子旗下晶磐电子材料公司增资至8.2亿，增幅约1533%](https://36kr.com/newsflashes/3885214606045188?f=rss)
   - [沪深两市成交额突破1.5万亿](https://36kr.com/newsflashes/3885004180484352?f=rss)
   - [沪深两市成交额突破2万亿](https://36kr.com/newsflashes/3885153755918592?f=rss)
@@ -110,7 +126,9 @@
   - [电解液添加剂VC价格攀升，行业库存降至低位，头部电池厂绑定产能](https://36kr.com/newsflashes/3884775212560385?f=rss)
   - [百度旗下基金等入股无界智航](https://36kr.com/newsflashes/3885055580794886?f=rss)
   - [福泰制药将以约100亿美元交易规模收购Crinetics，创公司史上最大交易](https://36kr.com/newsflashes/3884773240401929?f=rss)
+  - [科大讯飞公布人机交互口音控制专利](https://36kr.com/newsflashes/3885330434322696?f=rss)
   - [第十轮涨价激活煤炭股，机构建议关注配置机遇](https://36kr.com/newsflashes/3884778131960066?f=rss)
+  - [网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言](https://36kr.com/newsflashes/3885314143416326?f=rss)
   - [罗马仕再变更股东](https://36kr.com/newsflashes/3885221057802496?f=rss)
   - [美国国家公路交通安全管理局：福特汽车正在美召回4.2万辆汽车](https://36kr.com/newsflashes/3885255377006594?f=rss)
   - [美国证监会任命保罗·奈特为首席运营官](https://36kr.com/newsflashes/3884850830356489?f=rss)
@@ -132,6 +150,7 @@
   - [韩国公平交易委员会对CJ集团展开现场调查](https://36kr.com/newsflashes/3885252221219072?f=rss)
   - [韩国监管机构警告股票投资过度杠杆化](https://36kr.com/newsflashes/3885125806206984?f=rss)
   - [香港交易所与跨境清算公司签署合作备忘录，加强香港离岸人民币结算基础设施建设](https://36kr.com/newsflashes/3885056363639046?f=rss)
+  - [高域科技在广州成立通用航空公司，注册资本1000万](https://36kr.com/newsflashes/3885310901612806?f=rss)
   - [高德打车：已首批接入支付宝AI开放平台](https://36kr.com/newsflashes/3885195630424072?f=rss)
 - Ars Technica
   - [Katalyst's satellite rescue mission is now in pursuit of NASA's Swift](https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/)
@@ -142,11 +161,14 @@
 - Cheesy Rumbles
   - [Hook Chains (how I built Crystal Kit incorrectly*)](https://rastamouse.me/cpl-hook-chains/)
 - Cybersecurity News
+  - [ARToken Phishing Platform Steals Microsoft 365 Tokens and Bypasses MFA](https://securityonline.info/artoken-phishing-platform-microsoft-365/)
   - [Cloudflare Workers Cache: Edge Caching for Workers](https://securityonline.info/cloudflare-workers-cache/)
+  - [Critical IBM Power HMC Vulnerability Exposes Systems](https://securityonline.info/ibm-power-hmc-vulnerability/)
   - [CVE-2026-11405: Tenda Undocumented Authentication Backdoor](https://securityonline.info/cve-2026-11405-tenda-authentication-backdoor/)
   - [CVE-2026-40138 & CVE-2026-40139: BeyondTrust Pre-Auth Flaws (CVSS 9.2)](https://securityonline.info/cve-2026-40138-beyondtrust-pre-authentication-vulnerability/)
   - [Linux Kernel Vulnerability CVE-2024-26582: Public PoC Reaches Root Shell](https://securityonline.info/linux-kernel-cve-2024-26582-root-shell/)
   - [Microsoft Xbox Layoffs: Profound Corporate Restructuring](https://securityonline.info/microsoft-xbox-layoffs/)
+  - [SpaceXAI: Elon Musk’s Orbital Data Centers Vision](https://securityonline.info/spacexai-orbital-data-centers/)
   - [Ubuntu 26.04 LTS Elevates Arm64 to First-Class Status](https://securityonline.info/ubuntu-26-04-arm64-support/)
   - [Windows 11 Cloud Rebuild: Reinstall Without USB](https://securityonline.info/windows-11-cloud-rebuild/)
   - [Windows 11 Storage Bug Causes Massive Log File Bloat](https://securityonline.info/windows-11-storage-bug-fix/)
@@ -161,6 +183,8 @@
   - [CitrixBleed-ing Again? NetScaler Vulnerability Under Attack](https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack)
 - defend.network
   - [Adobe ColdFusion RCE, Linux KVM escape, Gitea authentication bypass under active attack](https://defend.network/briefings/adobe-coldfusion-linux-kvm-gitea-active-exploits-2026-07-07.html)
+- Emergent Minds | paddo.dev
+  - [Elon Owns the Whole Stack: Grok 4.5 and the $60 Billion Cursor Buy](https://paddo.dev/blog/elon-owns-the-whole-stack/)
 - Fidelis Security
   - [How Container Security Monitoring Reduces Dwell Time in Cloud-Native Environments](https://fidelissecurity.com/threatgeek/cloud-security/container-security-monitoring-reduces-dwell-time/)
 - Hacker News Frontpage
@@ -173,7 +197,10 @@
   - [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
 - HackerNoon
   - [We Tried Building an In-House AI Routing Layer - It Blew Up at $500/Month Per Engineer](https://hackernoon.com/we-tried-building-an-in-house-ai-routing-layer-it-blew-up-at-$500month-per-engineer?source=rss)
+- Hacking Dream
+  - [Advanced DNS Penetration Testing: ADIDNS & Relay Attacks](https://www.hackingdream.net/2026/07/advanced-dns-pentesting-adidns-poisoning.html)
 - infosecurity-magazine.com
+  - [Hackers Exploit Maximum Severity Adobe ColdFusion Flaw](https://www.infosecurity-magazine.com/news/exploit-maximum-severity-adobe/)
   - [New Iran-Nexus Hacking Group Targets Israel Government and IT Sectors](https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/)
 - Kali Linux Tutorials
   - [Install GCC on Ubuntu 18.04: C and C++ Compiler Setup Guide](https://kalilinuxtutorials.com/install-gcc-on-ubuntu-2/)
@@ -181,6 +208,8 @@
   - [Install Python 3.7 on Ubuntu 18.04: apt and Source Build Methods](https://kalilinuxtutorials.com/install-python-3-7-ubuntu/)
   - [Install Python 3.8 on Ubuntu 18.04: apt and Source Build Methods](https://kalilinuxtutorials.com/install-python-3-8-ubuntu/)
   - [Secure Apache with Let’s Encrypt on Ubuntu 18.04: Free SSL Guide](https://kalilinuxtutorials.com/secure-apache-lets-encrypt-ubuntu/)
+- NVISO Labs
+  - [Reducing Microsoft Sentinel Costs Without Compromising Detection – Part 2: The Firewall Quest](https://blog.nviso.eu/2026/07/07/reducing-microsoft-sentinel-costs-without-compromising-detection-part-2-the-firewall-quest/)
 - Product Hunt
   - [LongCat-2.0](https://www.producthunt.com/products/longcat)
 - rtl-sdr.com
@@ -206,6 +235,7 @@
   - [Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all](https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/)
   - [Apple brings back card payments for Apple Account purchases in India after a four-year hiatus](https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/)
   - [Netflix invented binge-watching. Now it may have outgrown it.](https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/)
+  - [The first American autonomous ground vehicles are fighting in Ukraine](https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/)
   - [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
   - [The ‘first’ AI-run ransomware attack still needed a human](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)
   - [US investors will soon get access to SK Hynix, another memory maker riding the AI boom](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/)
@@ -231,6 +261,7 @@
   - [CVE-2026-12154 | widgetpack Reviews Widgets for Google, Yelp & TripAdvisor Plugin Shortcode Feed_Shortcode::fbrev cross site scripting](https://vuldb.com/vuln/376489)
   - [CVE-2026-12277 | Frontend File Manager Plugin up to 23.6 File Deletion wp-config.php file inclusion](https://vuldb.com/vuln/376604)
   - [CVE-2026-12375 | uncanny-automator-pro Plugin up to 7.3.0.5 backdoor](https://vuldb.com/vuln/376607)
+  - [CVE-2026-13199 | Raspberry Pi EEPROM Firmware up to 28.22-0 RNG Seed Generator entropy](https://vuldb.com/vuln/376620)
   - [CVE-2026-14345 | getwpfunnels WPFunnels Plugin up to 3.12.7 Log wpfnl_show_log postData injection](https://vuldb.com/vuln/376603)
   - [CVE-2026-14468 | HashiCorp Terraform Enterprise up to 2.0.3 VCS Ingestion Boundary information disclosure](https://vuldb.com/vuln/376540)
   - [CVE-2026-14471 | AWS MCP Gateway Registry up to 1.0.12 Retention Policy Management table_name neutralization](https://vuldb.com/vuln/376563)
@@ -302,6 +333,7 @@
   - [CVE-2026-59712 | Leantime up to 3.4.4 JSON-RPC API Users::getUser user ID improper authorization](https://vuldb.com/vuln/376544)
   - [CVE-2026-7380 | Armiya Information Technologies Access Control System up to 1.x cross site scripting](https://vuldb.com/vuln/376617)
   - [CVE-2026-8306 | Armiya Information Technologies Ltd. Access Control System prior 2 cross site scripting](https://vuldb.com/vuln/376618)
+  - [CVE-2026-8309 | Armiya Information Technologies Ltd. Access Control System up to 1.x cross site scripting](https://vuldb.com/vuln/376619)
   - [CVE-2026-8377 | Armiya Information Technologies Access Control System GKS 1.x authorization](https://vuldb.com/vuln/376614)
 - Wired
   - [15% Off Adidas Promo Code | July 2026](https://www.wired.com/story/adidas-promo-code/)
@@ -321,10 +353,15 @@
   - [Target Promo Code: $50 Off | July 2026](https://www.wired.com/story/target-promo-code/)
 - 不安全
   - [14 años, estudiante de ciberseguridad, electrónica y robótica: Busco amigos para aprender y compartir proyectos](https://buaq.net/go-427446.html)
+  - [【公益译文】2026年AI指数报告（七）](https://buaq.net/go-427459.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [Marshall BROMLEY 450 派对音响：有音效灯效和 40 小时续航，麦克风吉他都能一包带走](https://www.ifanr.com/1671062?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [刷完 Fable 5 爆火玩法，我发现自己用 AI 第一步就错了](https://www.ifanr.com/1671120?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝华为Mate90将搭载「韬定律」新麒麟芯片/英特尔上调CPU售价/企业微信发布AI录音硬件](https://www.ifanr.com/1671116?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [【公益译文】2026年AI指数报告（七）](https://blog.nsfocus.net/%e3%80%90%e5%85%ac%e7%9b%8a%e8%af%91%e6%96%87%e3%80%912026%e5%b9%b4ai%e6%8c%87%e6%95%b0%e6%8a%a5%e5%91%8a%ef%bc%88%e4%b8%83%ef%bc%89/)
 - 量子位 QbitAI
   - [征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程](https://www.qbitai.com/2026/07/444859.html)
   - [征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？](https://www.qbitai.com/2026/07/445067.html)
