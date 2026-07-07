@@ -246,6 +246,8 @@
   - [CitrixBleed-ing Again? NetScaler Vulnerability Under Attack](https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack)
 - defend.network
   - [Adobe ColdFusion RCE, Linux KVM escape, Gitea authentication bypass under active attack](https://defend.network/briefings/adobe-coldfusion-linux-kvm-gitea-active-exploits-2026-07-07.html)
+- devblogs.microsoft.com/oldnewthing
+  - [How did Windows 95 decide that a setup program ran?](https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508)
 - Emergent Minds | paddo.dev
   - [Elon Owns the Whole Stack: Grok 4.5 and the $60 Billion Cursor Buy](https://paddo.dev/blog/elon-owns-the-whole-stack/)
 - Fidelis Security
@@ -263,6 +265,8 @@
   - [We Tried Building an In-House AI Routing Layer - It Blew Up at $500/Month Per Engineer](https://hackernoon.com/we-tried-building-an-in-house-ai-routing-layer-it-blew-up-at-$500month-per-engineer?source=rss)
 - Hacking Dream
   - [Advanced DNS Penetration Testing: ADIDNS & Relay Attacks](https://www.hackingdream.net/2026/07/advanced-dns-pentesting-adidns-poisoning.html)
+- Horizon3.ai
+  - [Horizon3.ai Names Matthew Schaner VP of Americas Sales](https://horizon3.ai/news/press-release/horizon3-ai-names-matthew-schaner-vp-of-americas-sales/)
 - InfoSec Write-ups - Medium
   - [BadSuccessor — Exploiting delegated Managed Service Accounts in Windows Server 2025](https://infosecwriteups.com/badsuccessor-exploiting-delegated-managed-service-accounts-in-windows-server-2025-0f2c84223bbb?source=rss----7b722bfd1b8d---4)
   - [Chaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…](https://infosecwriteups.com/chaining-a-dom-xss-sink-waf-bypass-cross-origin-smuggling-and-sdk-abuse-into-one-click-account-6c1a7095f8e1?source=rss----7b722bfd1b8d---4)
@@ -273,6 +277,7 @@
 - infosecurity-magazine.com
   - [Hackers Exploit Maximum Severity Adobe ColdFusion Flaw](https://www.infosecurity-magazine.com/news/exploit-maximum-severity-adobe/)
   - [New Iran-Nexus Hacking Group Targets Israel Government and IT Sectors](https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/)
+  - [Scattered Spider’s Structure More Like a Cybercrime Collective Than a Unified Gang](https://www.infosecurity-magazine.com/news/scattered-spider-as-cybercrime/)
   - [UK Government Launches Cyber Resilience Pledge, Claiming 60+ Signatories](https://www.infosecurity-magazine.com/news/uk-gov-launches-cyber-resilience/)
 - Kali Linux Tutorials
   - [Install GCC on Ubuntu 18.04: C and C++ Compiler Setup Guide](https://kalilinuxtutorials.com/install-gcc-on-ubuntu-2/)
@@ -312,6 +317,7 @@
   - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=4494CA76-67C5-5EA8-B785-B06824037479&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Neutralization of Special Elements in Data Query Logic in Budibase exploit](https://sploitus.com/exploit?id=E7208285-7740-58AA-9601-BD03EDB2275F&utm_source=rss&utm_medium=rss)
   - [Exploit for Integer Underflow (Wrap or Wraparound) in Microsoft exploit](https://sploitus.com/exploit?id=165484B6-0DE7-5236-9E96-FD03E6F0986D&utm_source=rss&utm_medium=rss)
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Cisco Email_Security_Appliance exploit](https://sploitus.com/exploit?id=5F88448A-DD17-5D44-ADF8-D5AF5D256740&utm_source=rss&utm_medium=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Ollyo Sp_Page_Builder exploit](https://sploitus.com/exploit?id=E2A4520E-343C-5B17-9530-563810F86EA4&utm_source=rss&utm_medium=rss)
   - [Inspectra exploit](https://sploitus.com/exploit?id=99F32B43-A5D9-5C0F-A022-930C6A60BA09&utm_source=rss&utm_medium=rss)
   - [soroban_verify_poc exploit](https://sploitus.com/exploit?id=6C4D29FE-F5CF-538E-AB84-A4D2F4389DF7&utm_source=rss&utm_medium=rss)
@@ -321,11 +327,13 @@
 - TechCrunch
   - [Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all](https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/)
   - [Apple brings back card payments for Apple Account purchases in India after a four-year hiatus](https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/)
+  - [Hacktivists call out Trump by hacking and defacing US Army websites](https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/)
   - [Netflix invented binge-watching. Now it may have outgrown it.](https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/)
   - [Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom](https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/)
   - [The first American autonomous ground vehicles are fighting in Ukraine](https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/)
   - [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
   - [The ‘first’ AI-run ransomware attack still needed a human](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)
+  - [This startup pits dealerships against each other to bid on your used car](https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/)
   - [US investors will soon get access to SK Hynix, another memory maker riding the AI boom](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/)
   - [Vercel CEO Guillermo Rauch on the fight to split off models from agents](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/)
   - [You can now customize Siri’s pace and expressivity in the latest iOS 27 beta](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/)
@@ -345,7 +353,9 @@
   - [Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price](https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale)
   - [I spy](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy)
   - [iFixit has a new toolkit for fixing appliances, building furniture, and household repairs](https://www.theverge.com/tech/962055/ifixit-megalodon-tool-kit-household-appliance-repairs)
+  - [iRobot’s newest floor cleaner isn’t a robot](https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums)
   - [Marshall upgrades the bass and repairability of two wireless speakers](https://www.theverge.com/tech/961601/marshall-acton-stanmore-iv-bluetooth-wireless-speakers-repair)
+  - [Microsoft fixes storage-hogging Windows 11 folder](https://www.theverge.com/tech/962084/microsoft-storage-hogging-windows-11-folder)
   - [Nothing’s first B-series phone is also skipping the US](https://www.theverge.com/tech/962020/nothing-phone-4b-price-release-date-specs)
   - [Nothing’s new earbuds can record calls and what you’re listening to](https://www.theverge.com/tech/961845/nothing-ear-3a-wireless-earbuds-call-recording-price-availability)
   - [Solos debuts an even lighter version of its camera-less smart glasses](https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy)
@@ -354,6 +364,7 @@
   - [CVE-2011-10043 | Module::Load up to 0.21 Module Loader load privilege escalation](https://vuldb.com/vuln/376632)
   - [CVE-2025-59615 | Qualcomm Snapdragon memory corruption](https://vuldb.com/vuln/376516)
   - [CVE-2025-59616 | Qualcomm Snapdragon IOCTL Call memory corruption](https://vuldb.com/vuln/376562)
+  - [CVE-2026-10659 | zephyrproject Zephyr up to 4.4.x Dhara Flash Translation Layer Disk Driver drivers/disk/ftl_dhara.c dhara_nand_read null pointer dereference](https://vuldb.com/vuln/376636)
   - [CVE-2026-10834 | WP Travel Engine Plugin up to 6.8.0 file inclusion](https://vuldb.com/vuln/376605)
   - [CVE-2026-11328 | timstrifler Exclusive Addons for Elementor Plugin up to 2.7.9.8 Post Title post title cross site scripting](https://vuldb.com/vuln/376578)
   - [CVE-2026-11340 | HAVELSAN Liman MYS up to release.master.1106 authorization](https://vuldb.com/vuln/376631)
@@ -414,6 +425,8 @@
   - [CVE-2026-49487 | Apache Airflow up to 3.2.x REST API information disclosure](https://vuldb.com/vuln/376630)
   - [CVE-2026-50133 | gohugoio Hugo up to 0.161.x cross site scripting](https://vuldb.com/vuln/376514)
   - [CVE-2026-50134 | gohugoio Hugo up to 0.161.x URL Redirect GetRemote redirect](https://vuldb.com/vuln/376505)
+  - [CVE-2026-53481 | Dell PowerProtect Data Domain up to 8.7 path traversal](https://vuldb.com/vuln/376635)
+  - [CVE-2026-53483 | Dell PowerProtect Data Domain improper authentication](https://vuldb.com/vuln/376637)
   - [CVE-2026-53642 | FOSSBilling up to 0.7.2 Email Confirmation Enforcement improper authentication](https://vuldb.com/vuln/376572)
   - [CVE-2026-53643 | FOSSBilling up to 0.7.x Admin API improper authorization](https://vuldb.com/vuln/376570)
   - [CVE-2026-53644 | FOSSBilling up to 0.7.x Serviceapikey reset isActive information disclosure](https://vuldb.com/vuln/376571)
