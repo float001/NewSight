@@ -1,4 +1,83 @@
 # 今日安全资讯（2026-07-09）
 
+- darkreading
+  - [Vidar Infostealer Hammers SMBs via Malvertising Campaign](https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign)
+- experimental-history.com
+  - [The Decline of Deviance 2](https://www.experimental-history.com/p/the-decline-of-deviance-2)
+- Fidelis Security
+  - [Key Capabilities That Define Effective Insider Threat Detection Solutions](https://fidelissecurity.com/threatgeek/threat-detection-response/insider-threat-detection-solutions-key-capabilities/)
+- Hacker News Frontpage
+  - [SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence](https://cognition.com/blog/swe-1-7)
+- Hacking Articles
+  - [Wireless Pentesting with Claude Using the Aircrack MCP Server](https://www.hackingarticles.in/wireless-pentesting-with-claude-using-the-aircrack-mcp-server/)
+- Horizon3.ai
+  - [CVE-2026-9181 | Esri ArcGIS Server Pre-Authentication Path Traversal Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-9181/)
+- MIT Technology Review
+  - [EmTech AI 2026: The Rise of the AI Platform](https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/)
+- SentinelOne
+  - [HPC AI Workloads Need Runtime Security. The Architecture Already Exists.](https://www.sentinelone.com/blog/hpc-ai-workloads-need-runtime-security-the-architecture-already-exists/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-51788 exploit](https://sploitus.com/exploit?id=0D16558B-1987-55E8-8B0C-78FA3C064D7C&utm_source=rss&utm_medium=rss)
+  - [Exploit for Insecure Default Initialization of Resource in Apache Solr exploit](https://sploitus.com/exploit?id=D6DF66C8-D21B-5D81-B377-D53384F88D34&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Another massive data breach exposed millions of driver’s license numbers](https://techcrunch.com/2026/07/08/another-massive-data-breach-exposed-millions-of-drivers-license-numbers/)
+  - [Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups](https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/)
+  - [Prime Intellect raises $130M Series A to help enterprises build their own AI agents](https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/)
+- The Decoder
+  - [Anthropic's fix for Fable 5's high cost is turning it into a manager that delegates to Sonnet 5](https://the-decoder.com/anthropics-fix-for-fable-5s-high-cost-is-turning-it-into-a-manager-that-delegates-to-sonnet-5/)
+- The Verge
+  - [ChatGPT’s upgraded voice mode is better at shutting up](https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live)
+- VulDB Recent Entries
+  - [CVE-2025-3110 | OpenVPN Access Server up to 3.1.0 HTTP Header Parser request smuggling](https://vuldb.com/vuln/376918)
+  - [CVE-2026-29007 | U-Boot up to 2026.04-rc3 TCP State Machine net/tcp.c tcp_parse_options data offset out-of-bounds](https://vuldb.com/vuln/376919)
+  - [CVE-2026-29008 | U-Boot up to 2026.04-rc3 TCP_SYN_SENT handler net/tcp.c tcp_rx_state_machine offset integer underflow](https://vuldb.com/vuln/376921)
+  - [CVE-2026-29009 | U-Boot up to 2026.04-rc3 NFS Client net/nfs-common.c nfs_readlink_reply buffer overflow](https://vuldb.com/vuln/376922)
+  - [CVE-2026-39822 | Go standard library os up to 1.25.11/1.26.4 Root Open symlink](https://vuldb.com/vuln/376920)
+  - [CVE-2026-42505 | Go standard library crypto-tls up to 1.25.11/1.26.4 TLS Handshake insertion of sensitive information into sent data](https://vuldb.com/vuln/376925)
+  - [CVE-2026-57439 | gchq CyberChef up to 11.1.0 Series Chart prototype pollution](https://vuldb.com/vuln/376906)
+  - [CVE-2026-59261 | OpenClaw up to 2026.5.27 Credential Override workspace/.env information disclosure](https://vuldb.com/vuln/376923)
+  - [CVE-2026-59262 | AFFiNE up to 0.26.2 Histories GraphQL Field permission](https://vuldb.com/vuln/376909)
+  - [CVE-2026-59702 | repomix up to 1.14.0 API Endpoint /api/pack server-side request forgery](https://vuldb.com/vuln/376915)
+  - [CVE-2026-59724 | socketio Socket.IO up to 6.6.6 WebTransport Upgrade input validation](https://vuldb.com/vuln/376910)
+  - [CVE-2026-59725 | socketio Socket.IO up to 6.6.6 Polling Transport resource consumption](https://vuldb.com/vuln/376911)
+  - [CVE-2026-59868 | nodeca js-yaml up to 5.1.x JavaScript YAML Parser resource consumption](https://vuldb.com/vuln/376912)
+  - [CVE-2026-59869 | nodeca js-yaml up to 3.14.x/4.2.x JavaScript YAML Parser resource consumption](https://vuldb.com/vuln/376913)
+  - [CVE-2026-59870 | nodeca js-yaml up to 5.2.0 Omap src/tag/sequence/omap.ts addItem resource consumption](https://vuldb.com/vuln/376914)
+  - [CVE-2026-59871 | isaacs node-tar up to 7.5.17 PAX Path src/pax.ts path/linkpath path traversal](https://vuldb.com/vuln/376907)
+  - [CVE-2026-59873 | isaacs node-tar up to 7.5.18 Decompression src/extract.ts memory corruption](https://vuldb.com/vuln/376908)
+  - [CVE-2026-59879 | Immutable.js up to 4.3.8/5.1.7 setListBounds src/List.js infinite loop](https://vuldb.com/vuln/376924)
+  - [CVE-2026-59882 | guzzle psr7 up to 2.12.2 Host Validator getHost assertion](https://vuldb.com/vuln/376916)
+  - [CVE-2026-59883 | Guzzle up to 7.12.2 CookieJar SetCookie::matchesDomain session fixiation](https://vuldb.com/vuln/376917)
+  - [CVE-2026-59890 | pypa setuptools up to 82.x FileList MANIFEST.in input validation](https://vuldb.com/vuln/376926)
+  - [CVE-2026-59922 | lepture Mistune up to 3.2.x Formatting Plugin formatting.py resource consumption](https://vuldb.com/vuln/376929)
+  - [CVE-2026-59923 | lepture Mistune up to 3.2.x HTMLRenderer safe_url HTML injection](https://vuldb.com/vuln/376927)
+  - [CVE-2026-59929 | lepture mistune up to 3.2.x Safe URL Filter html.py safe_url cross site scripting](https://vuldb.com/vuln/376928)
+- Vulners.com RSS Feed
+  - [CVE-2025-3110](https://vulners.com/cve/CVE-2025-3110?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-3110](https://vulners.com/cvelist/CVELIST:CVE-2025-3110?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-29007 U-Boot 2026.04-rc3 Out-of-Bounds Read in tcp_rx_state_machine via tcp.c](https://vulners.com/cve/CVE-2026-29007?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-29007 U-Boot 2026.04-rc3 Out-of-Bounds Read in tcp_rx_state_machine via tcp.c](https://vulners.com/cvelist/CVELIST:CVE-2026-29007?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-29008 U-Boot 2026.04-rc3 Integer Underflow DoS via tcp_rx_state_machine()](https://vulners.com/cve/CVE-2026-29008?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-29008 U-Boot 2026.04-rc3 Integer Underflow DoS via tcp_rx_state_machine()](https://vulners.com/cvelist/CVELIST:CVE-2026-29008?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-29009 U-Boot 2026.04-rc3 Buffer Overflow in nfs_readlink_reply() via NFS READLINK](https://vulners.com/cve/CVE-2026-29009?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-29009 U-Boot 2026.04-rc3 Buffer Overflow in nfs_readlink_reply() via NFS READLINK](https://vulners.com/cvelist/CVELIST:CVE-2026-29009?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59895 Hono: Server-Side XSS via JSX Escaping Bypass in cx() Utility](https://vulners.com/cve/CVE-2026-59895?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59895 Hono: Server-Side XSS via JSX Escaping Bypass in cx() Utility](https://vulners.com/cvelist/CVELIST:CVE-2026-59895?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59896 hono/jsx does not isolate context per request, leading to cross-request data disclosure](https://vulners.com/cve/CVE-2026-59896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59896 hono/jsx does not isolate context per request, leading to cross-request data disclosure](https://vulners.com/cvelist/CVELIST:CVE-2026-59896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59922 Mistune plugins/formatting: quadratic-time parsing on long runs of `~~x~~`, `==x==`, and `^^x^^` markers (strikethrough / mark / insert)](https://vulners.com/cve/CVE-2026-59922?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59922 Mistune plugins/formatting: quadratic-time parsing on long runs of `~~x~~`, `==x==`, and `^^x^^` markers (strikethrough / mark / insert)](https://vulners.com/cvelist/CVELIST:CVE-2026-59922?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59923 Mistune: XSS via percent-encoded javascript URI bypass in safe_url()](https://vulners.com/cve/CVE-2026-59923?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59923 Mistune: XSS via percent-encoded javascript URI bypass in safe_url()](https://vulners.com/cvelist/CVELIST:CVE-2026-59923?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59925 inline_parser: quadratic-time parsing on long runs of `**x**` and `***x***` emphasis pairs](https://vulners.com/cve/CVE-2026-59925?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59925 inline_parser: quadratic-time parsing on long runs of `**x**` and `***x***` emphasis pairs](https://vulners.com/cvelist/CVELIST:CVE-2026-59925?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59926 Mistune: XSS via unescaped class option in Admonition directive](https://vulners.com/cve/CVE-2026-59926?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59926 Mistune: XSS via unescaped class option in Admonition directive](https://vulners.com/cvelist/CVELIST:CVE-2026-59926?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59929 Mistune renderers/html.safe_url: HARMFUL_PROTOCOLS list misses legacy and chained schemes that historically chain to `javascript:` execution](https://vulners.com/cve/CVE-2026-59929?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59929 Mistune renderers/html.safe_url: HARMFUL_PROTOCOLS list misses legacy and chained schemes that historically chain to `javascript:` execution](https://vulners.com/cvelist/CVELIST:CVE-2026-59929?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59930 Mistune toc / TableOfContents directive: heading IDs use predictable `toc_N` numbering with no slugification, allowing collision with attacker-controlled `id="toc_N"` content](https://vulners.com/cve/CVE-2026-59930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59930 Mistune toc / TableOfContents directive: heading IDs use predictable `toc_N` numbering with no slugification, allowing collision with attacker-controlled `id="toc_N"` content](https://vulners.com/cvelist/CVELIST:CVE-2026-59930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [奔驰全新纯电 GLC 转型 AI，新版型同步开启预售，29.99 万元起](https://www.ifanr.com/1671374?utm_source=rss&utm_medium=rss&utm_campaign=)
