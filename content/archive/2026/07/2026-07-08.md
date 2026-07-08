@@ -12,8 +12,10 @@
   - [【投票】表妹不结婚，老姨让我劝劝，怎么办](https://2libra.com/post/family/Z116sH5)
   - [【读书笔记】中国古代的外族 🇨🇳🇨🇳🇨🇳](https://2libra.com/post/good-books/EC1jUKl)
   - [【💰】卡皮巴拉：今天开始，情绪更稳定！](https://2libra.com/post/forum-function/WFZnvEc)
+  - [【💰】问个问题：你们平时会感觉到累吗？如果感觉累了会怎么在食物和运动和行为和精神上保养自己呢？谢谢](https://2libra.com/post/health-consultation/_eKLNI5)
   - [人真的可以从不加班吗](https://2libra.com/post/workplace-stories/yQPJV0i)
   - [你有没有那样一瞬间, 觉得自己老了?](https://2libra.com/post/small-things/YWMFZ6z)
+  - [刚才挂了？500 Internet Server Error](https://2libra.com/post/community/8MRZbfv)
   - [别让高昂的 API 调用成本阻碍你的 AI 开发进程](https://2libra.com/post/promotion/d-_Agvw)
   - [台风巴威，我的天啊](https://2libra.com/post/excessive-things/H8cDuEk)
   - [对《肖申克的救赎》的一些感悟](https://2libra.com/post/movie-experience/SWnB_0C)
@@ -25,6 +27,7 @@
   - [接 AI 程序开发，申请好几个 API](https://2libra.com/post/indie-dev/EXWeHFe)
   - [推广了下论坛求表扬](https://2libra.com/post/newcomer/7_4Pc_z)
   - [有没有命理群啊 想进去唠唠嗑](https://2libra.com/post/recommendations/EAwX5br)
+  - [有金币池的话题希望注释自己有没有参加过](https://2libra.com/post/forum-function/mPCuE2S)
   - [没有什么问题是一句“好的”回不了的](https://2libra.com/post/personal-life/i4MuSJj)
   - [混沌！](https://2libra.com/post/forum-function/9PcdljZ)
   - [潘多拉 -- gif 头像](https://2libra.com/post/questions/cpfj1Ow)
@@ -59,6 +62,7 @@
   - [Meta测试“超级感知”AI眼镜，可持续摄录引隐私争议](https://36kr.com/newsflashes/3886848224588036?f=rss)
   - [MiniMax解禁前夕，超八成Pre IPO及基石股东表态长期持有](https://36kr.com/newsflashes/3886813479252226?f=rss)
   - [Momenta港股上市，总市值突破700亿港元](https://36kr.com/newsflashes/3886332173561862?f=rss)
+  - [OpenAI前研究员田永龙加入腾讯将参与VLM相关研发](https://36kr.com/newsflashes/3886933459909380?f=rss)
   - [OpenAI将于9日正式发布GPT-5.6系列](https://36kr.com/newsflashes/3886483143667715?f=rss)
   - [OpenAI首席未来学家宣布离职](https://36kr.com/newsflashes/3886267346235400?f=rss)
   - [Piper Sandler：甲骨文云业务2027财年有望超预期](https://36kr.com/newsflashes/3886632915087616?f=rss)
@@ -118,6 +122,7 @@
   - [天壕能源：拟收购天壕新能源100%股权，股票复牌](https://36kr.com/newsflashes/3886874617229575?f=rss)
   - [天海电子：与机器人公司合作事项对公司当前主营业务未构成实质性影响](https://36kr.com/newsflashes/3886868916482048?f=rss)
   - [天风证券：预计上半年归母净利润同比增长429.03%-693.55%](https://36kr.com/newsflashes/3886718693814530?f=rss)
+  - [太阳纸业：拟投资不超过50亿元建设广西南宁林浆纸一体化提质增效技改项目](https://36kr.com/newsflashes/3886930624756225?f=rss)
   - [太龙股份：公司不直接开展物理AI相关产品研发与技术储备](https://36kr.com/newsflashes/3886512622039296?f=rss)
   - [央行7月8日公开市场开展150亿元7天期逆回购操作](https://36kr.com/newsflashes/3886319980785929?f=rss)
   - [央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持](https://36kr.com/newsflashes/3886875090579456?f=rss)
@@ -160,8 +165,10 @@
   - [桑坦德改组亚太企业及投行部门](https://36kr.com/newsflashes/3886520938459137?f=rss)
   - [梅赛德斯-奔驰第二季度全球销量同比下滑6%，纯电车型销量猛增50%](https://36kr.com/newsflashes/3886831580705027?f=rss)
   - [欧盟法院驳回苹果上诉，维持App Store和iOS“看门人”认定](https://36kr.com/newsflashes/3886718251610116?f=rss)
+  - [正帆科技：控股股东拟减持不超0.95%股份](https://36kr.com/newsflashes/3886901366698247?f=rss)
   - [氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于明日向公众开放Grok4.5](https://36kr.com/p/3886678879727880?f=rss)
   - [汉堡王餐厅运营商Minor Food计划在新加坡IPO中筹资至多4亿新加坡元](https://36kr.com/newsflashes/3886561434284290?f=rss)
+  - [江淮汽车：预计上半年净亏损7.4亿元，销量同比下滑](https://36kr.com/newsflashes/3886921078995460?f=rss)
   - [沙特阿美大降价吸引亚洲买家，国际机构看空下半年油价](https://36kr.com/newsflashes/3886218085281801?f=rss)
   - [沪深两市成交额突破2.5万亿](https://36kr.com/newsflashes/3886642666189063?f=rss)
   - [沪深两市成交额突破2万亿](https://36kr.com/newsflashes/3886566645198851?f=rss)
@@ -172,6 +179,7 @@
   - [海思科：预计上半年净利润同比增长513%-575%](https://36kr.com/newsflashes/3886739305426951?f=rss)
   - [淡马锡投资组合价值突破4000亿美元，对AI的押注提升回报率](https://36kr.com/newsflashes/3886744440188933?f=rss)
   - [深圳光模块独角兽新菲光全速扩张：攻入北美大客户，目标年产值400亿元](https://36kr.com/newsflashes/3886294647025922?f=rss)
+  - [深圳市铂科新材料股份有限公司在港交所提交上市申请](https://36kr.com/newsflashes/3886941013293828?f=rss)
   - [深成指、创业板指均跌超2%](https://36kr.com/newsflashes/3886357413458184?f=rss)
   - [港股高开高走，恒生科技指数午后大涨5%](https://36kr.com/newsflashes/3886574595338245?f=rss)
   - [滨化股份：H股发行的最终价格为每股3.48港元](https://36kr.com/newsflashes/3886730352390403?f=rss)
@@ -181,6 +189,7 @@
   - [百度旗下基金等入股智元机器人旗下觅蜂科技](https://36kr.com/newsflashes/3886433739485188?f=rss)
   - [皖通高速：拟与控股股东签订施工工程及相关服务关联交易框架协议，预计总金额不超74.04亿元](https://36kr.com/newsflashes/3886838629789705?f=rss)
   - [盛新锂能：预计上半年净利润10.00亿元-12.00亿元，同比扭亏为盈](https://36kr.com/newsflashes/3886858870436100?f=rss)
+  - [精测电子：筹划收购上海精测部分股权并配套募资，股票停牌](https://36kr.com/newsflashes/3886917051972356?f=rss)
   - [紫燕食品旗下成都公司增资至10亿，增幅100%](https://36kr.com/newsflashes/3886450850590983?f=rss)
   - [红日药业：终止抗丙肝一类化药新药研发项目](https://36kr.com/newsflashes/3886760224550914?f=rss)
   - [纳微科技：预计2026年半年度净利润同比增长102%-137%](https://36kr.com/newsflashes/3886835907539204?f=rss)
@@ -212,8 +221,11 @@
   - [韩国拟2028年起强制要求大型企业披露ESG信息](https://36kr.com/newsflashes/3886307091771394?f=rss)
   - [韵达、圆通、申通退出蜂网投资](https://36kr.com/newsflashes/3886499550752772?f=rss)
   - [香港上海大酒店、顺丰控股在香港成立自保公司](https://36kr.com/newsflashes/3886427372794113?f=rss)
+  - [高德红外：预计上半年净利润同比增长602%-701%](https://36kr.com/newsflashes/3886908952820482?f=rss)
   - [高温热浪催生多维降温刚需，清凉经济扩容升级](https://36kr.com/newsflashes/3886214838710537?f=rss)
   - [高盛集团预计日元贬值趋势仍未结束](https://36kr.com/newsflashes/3886871094964225?f=rss)
+- 404 Media
+  - [LARPING: How Influencers Fake Being Rich](https://www.404media.co/larping-how-influencers-fake-being-rich/)
 - Ars Technica
   - [Google's Pixel 11 launch event is set for August 12, with possible price increases](https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/)
   - [Michigan sees explosive outbreak of diarrheal parasite with over 700 cases](https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/)
@@ -235,6 +247,7 @@
 - Hacker News Frontpage
   - [A new runtime for k and q: l](https://lv1.sh/)
   - [An interactive explorer for Benford's Law across real datasets](https://vatsalbakshi.com/blog/benfords-law/)
+  - [Apple to increase spend with Broadcom to produce billions more U.S. chips](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/)
   - [Astro 7.0](https://astro.build/blog/astro-7/)
   - [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
   - [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
@@ -267,6 +280,8 @@
   - [Orbit for Mac](https://www.producthunt.com/products/orbit-for-mac)
 - PromptLayer
   - [The Best Prompt Management Tools in 2026](https://blog.promptlayer.com/best-prompt-management-tools-2026-field-guide/)
+- shkspr.mobi
+  - [A bug which only affected left-handed users](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/)
 - simonwillison.net
   - [sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -284,6 +299,7 @@
   - [Exploit for Insecure Default Initialization of Resource in Apache Couchdb exploit](https://sploitus.com/exploit?id=1D74CD43-734D-5987-B73D-ECF316196A00&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Read in Citrix Netscaler_Application_Delivery_Controller exploit](https://sploitus.com/exploit?id=7F2810D8-1973-5B10-9CFD-7BAAF31FBA3A&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Adobe Coldfusion exploit](https://sploitus.com/exploit?id=2688E281-0EDF-5062-9EE3-37F69ACB1DA3&utm_source=rss&utm_medium=rss)
+  - [Exploit for Path Traversal in Helm exploit](https://sploitus.com/exploit?id=C919595E-679D-5A59-B6FB-55B8F8030F4D&utm_source=rss&utm_medium=rss)
   - [Exploit for Reliance on Cookies without Validation and Integrity Checking in Paloaltonetworks Pan-Os exploit](https://sploitus.com/exploit?id=0B69C04C-4A70-59C0-96F2-D663E427F3AF&utm_source=rss&utm_medium=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Joomlack Page_Builder_Ck exploit](https://sploitus.com/exploit?id=E331215C-C137-5045-8655-DB1412B88C0D&utm_source=rss&utm_medium=rss)
   - [jumbo_website_manager_1.3.7.-RCE exploit](https://sploitus.com/exploit?id=FF6DD643-AE6F-5CB7-BC23-6EE20C4E618A&utm_source=rss&utm_medium=rss)
@@ -298,6 +314,7 @@
   - [Discord admits AI moderation bug wrongfully banned users over harmless images](https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/)
   - [Figma acquires team behind a vibe-coding app](https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/)
   - [Final extension: Startup Battlefield Australia applications now close July 20](https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/)
+  - [Former OpenAI exec Kevin Weil is now on the board of Stoke Space](https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/)
   - [Google’s Pixel event is set for August 12](https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/)
   - [Hacked, leaked, and held for ransom: The worst breaches of 2026 so far](https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/)
   - [Hot French startup ZML releases free product to speed inference across lots of AI chips](https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/)
@@ -308,6 +325,8 @@
   - [China eyes export curbs on its top AI models, and Europe is caught in the middle](https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/)
   - [Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems](https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/)
   - [Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs](https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/)
+  - [Meta tests always-on AI glasses that capture your entire day](https://the-decoder.com/meta-tests-always-on-ai-glasses-that-capture-your-entire-day/)
+  - [Muse Image is technically impressive, but Meta's use of Instagram photos raises questions](https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions/)
   - [OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government](https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government/)
 - The Verge
   - [Doom developer id reportedly cut in half as part of Xbox layoffs](https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs)
@@ -316,6 +335,7 @@
   - [Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers](https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming)
   - [Of course viewers are giving up on Netflix shows](https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok)
   - [The robotaxi law that could ban Tesla](https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla)
+  - [The Steam Machine fits my TV, my desk, and my life](https://www.theverge.com/games/962561/valve-steam-machine-tv-desk-life)
   - [X says top accounts steal videos from other users as it announces new video tools](https://www.theverge.com/tech/962415/x-video-editor-recycled-content)
 - VulDB Recent Entries
   - [CVE-2026-10570 | idocoh Sympl Repeater Plugin up to 2.3 ACF Repeater Field symp_arfe_replace_content cross site scripting](https://vuldb.com/vuln/376776)
@@ -478,6 +498,7 @@
 - wheresyoured.at
   - [Let AI Burn](https://www.wheresyoured.at/let-ai-burn/)
 - Wired
+  - [9 Best Portable Power Stations (2026), Tested for Capacity and Size](https://www.wired.com/gallery/best-portable-power-stations/)
   - [Free Waymo Rides in California? You Can Thank a Regulatory Quirk](https://www.wired.com/story/a-california-regulatory-quirk-means-free-waymo-rides/)
   - [Groupon Promo Codes: 60% Off in July 2026](https://www.wired.com/story/groupon-promo-code/)
   - [H&R Block Coupon: 25% Off DIY + Tax Pro Assist](https://www.wired.com/story/hr-block-coupon/)
@@ -489,6 +510,7 @@
   - [OpenAI’s Chief Futurist Is Leaving the Company](https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/)
   - [Pickup Artist Mystery Has an AI Girlfriend](https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/)
   - [Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone](https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/)
+  - [The Best MagSafe Power Banks for iPhone and Android, Plus Ones to Avoid](https://www.wired.com/gallery/best-magsafe-power-banks/)
   - [This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster](https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/)
   - [Tuft & Needle Promo Codes: 30% Off | July 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
   - [What Happens if China Hacks the US Water Supply? I Went to a Secret War Game to Find Out](https://www.wired.com/story/what-happens-if-china-hacks-the-us-water-supply-war-game-volt-typhoon/)
@@ -507,6 +529,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Microsoft 365 Copilot 普及率不到 4.5%](https://www.solidot.org/story?sid=84782)
+  - [Waymo 员工看到青少年乘客玩玩具枪后报警](https://www.solidot.org/story?sid=84785)
   - [大多数 AI slop 应用会很快停止维护和抛弃](https://www.solidot.org/story?sid=84784)
   - [学习多种语言能延缓大脑衰老最长 13 年](https://www.solidot.org/story?sid=84778)
   - [长鑫和长江存储正在扩大产能](https://www.solidot.org/story?sid=84783)
