@@ -2,6 +2,8 @@
 
 - 404 Media
   - [Meta Patents AI Device That Tracks Your Emotions, Watches You Take Your Meds](https://www.404media.co/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/)
+- Ars Technica
+  - [Aussie gov't tells volunteers to throw out thousands of functioning test routers](https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/)
 - daringfireball.net
   - [My Conversation With ELIZA](https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0)
   - [The ELIZA Archaeology Project](https://findingeliza.org/)
@@ -11,6 +13,8 @@
   - [The Decline of Deviance 2](https://www.experimental-history.com/p/the-decline-of-deviance-2)
 - Fidelis Security
   - [Key Capabilities That Define Effective Insider Threat Detection Solutions](https://fidelissecurity.com/threatgeek/threat-detection-response/insider-threat-detection-solutions-key-capabilities/)
+- gilesthomas.com
+  - [Writing an LLM from scratch, part 34b -- from bigrams to GPT-2, one component at a time (in JAX)](https://www.gilesthomas.com/2026/07/llm-from-scratch-34b-building-and-training-gpt-2-small-in-jax)
 - Hacker News Frontpage
   - [SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence](https://cognition.com/blog/swe-1-7)
 - Hacking Articles
@@ -27,22 +31,29 @@
   - [HPC AI Workloads Need Runtime Security. The Architecture Already Exists.](https://www.sentinelone.com/blog/hpc-ai-workloads-need-runtime-security-the-architecture-already-exists/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-51788 exploit](https://sploitus.com/exploit?id=0D16558B-1987-55E8-8B0C-78FA3C064D7C&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Handling of Case Sensitivity in Apache Camel exploit](https://sploitus.com/exploit?id=D3379F17-C9FD-5588-8FB8-4A7C177A58EF&utm_source=rss&utm_medium=rss)
   - [Exploit for Insecure Default Initialization of Resource in Apache Solr exploit](https://sploitus.com/exploit?id=D6DF66C8-D21B-5D81-B377-D53384F88D34&utm_source=rss&utm_medium=rss)
   - [Exploit for Unprotected Alternate Channel in Rockwellautomation Allen-Bradley_Stratix_5200_Firmware exploit](https://sploitus.com/exploit?id=A8131B98-2E12-5CC3-8733-6A8BA83F9771&utm_source=rss&utm_medium=rss)
+  - [stack-buffer-overflow-exploit exploit](https://sploitus.com/exploit?id=52773B5A-22AE-5359-83C0-55FEC3391914&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Another massive data breach exposed millions of driver’s license numbers](https://techcrunch.com/2026/07/08/another-massive-data-breach-exposed-millions-of-drivers-license-numbers/)
   - [Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups](https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/)
+  - [Elon Musk says X will send DMs when posts you’ve engaged with are corrected](https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/)
+  - [Google Photos adds a new AI ‘Video Remix’ tool](https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/)
   - [Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.](https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/)
   - [Prime Intellect raises $130M Series A to help enterprises build their own AI agents](https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/)
   - [Why this CEO thinks video games make better training data than the internet](https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/)
 - The Decoder
   - [Anthropic's fix for Fable 5's high cost is turning it into a manager that delegates to Sonnet 5](https://the-decoder.com/anthropics-fix-for-fable-5s-high-cost-is-turning-it-into-a-manager-that-delegates-to-sonnet-5/)
+  - [ChatGPT can now listen and talk at the same time, making AI conversations seem more human](https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human/)
+  - [Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much](https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/)
   - [Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera](https://the-decoder.com/mistral-enters-robotics-with-robostral-navigate-an-8b-model-that-steers-robots-using-just-one-camera/)
 - The Verge
   - [America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph](https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty)
   - [ChatGPT’s upgraded voice mode is better at shutting up](https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live)
   - [Cockroaches will learn to fear my SwitchBot Bot Rechargeable](https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review)
   - [If Microsoft sold off Xbox, who would even buy it?](https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma)
+  - [Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed](https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs)
   - [Twelve South’s AirFly Pro is a great travel companion, and it&#8217;s on sale for $40](https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale)
 - VulDB Recent Entries
   - [CVE-2025-3110 | OpenVPN Access Server up to 3.1.0 HTTP Header Parser request smuggling](https://vuldb.com/vuln/376918)
@@ -57,6 +68,7 @@
   - [CVE-2026-29009 | U-Boot up to 2026.04-rc3 NFS Client net/nfs-common.c nfs_readlink_reply buffer overflow](https://vuldb.com/vuln/376922)
   - [CVE-2026-39822 | Go standard library os up to 1.25.11/1.26.4 Root Open symlink](https://vuldb.com/vuln/376920)
   - [CVE-2026-42505 | Go standard library crypto-tls up to 1.25.11/1.26.4 TLS Handshake insertion of sensitive information into sent data](https://vuldb.com/vuln/376925)
+  - [CVE-2026-57111 | Apache Helix REST up to 2.0.0 REST API cross-domain policy](https://vuldb.com/vuln/376957)
   - [CVE-2026-57439 | gchq CyberChef up to 11.1.0 Series Chart prototype pollution](https://vuldb.com/vuln/376906)
   - [CVE-2026-59261 | OpenClaw up to 2026.5.27 Credential Override workspace/.env information disclosure](https://vuldb.com/vuln/376923)
   - [CVE-2026-59262 | AFFiNE up to 0.26.2 Histories GraphQL Field permission](https://vuldb.com/vuln/376909)
@@ -114,6 +126,7 @@
   - [CVE-2026-59929 Mistune renderers/html.safe_url: HARMFUL_PROTOCOLS list misses legacy and chained schemes that historically chain to `javascript:` execution](https://vulners.com/cvelist/CVELIST:CVE-2026-59929?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59930 Mistune toc / TableOfContents directive: heading IDs use predictable `toc_N` numbering with no slugification, allowing collision with attacker-controlled `id="toc_N"` content](https://vulners.com/cve/CVE-2026-59930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59930 Mistune toc / TableOfContents directive: heading IDs use predictable `toc_N` numbering with no slugification, allowing collision with attacker-controlled `id="toc_N"` content](https://vulners.com/cvelist/CVELIST:CVE-2026-59930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Handling of Case Sensitivity in Apache Camel](https://vulners.com/githubexploit/D3379F17-C9FD-5588-8FB8-4A7C177A58EF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Dimming the Sun Would Help Lower the Risks of El Niño](https://www.wired.com/story/dimming-the-sun-would-lower-risks-of-el-nino/)
 - 代码审计星球
