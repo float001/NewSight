@@ -7,6 +7,7 @@
 - daringfireball.net
   - [My Conversation With ELIZA](https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0)
   - [The ELIZA Archaeology Project](https://findingeliza.org/)
+  - [‘Searching for SmarterChild’ Kickstarter](https://www.kickstarter.com/projects/smarterchild/searching-for-smarterchild-a-feature-documentary/creator)
 - darkreading
   - [Vidar Infostealer Hammers SMBs via Malvertising Campaign](https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign)
 - experimental-history.com
@@ -42,7 +43,10 @@
   - [Google Photos adds a new AI ‘Video Remix’ tool](https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/)
   - [Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.](https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/)
   - [Prime Intellect raises $130M Series A to help enterprises build their own AI agents](https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/)
+  - [SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’](https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/)
+  - [This startup thinks robotics is about to have its ChatGPT moment](https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/)
   - [Why this CEO thinks video games make better training data than the internet](https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/)
+  - [‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon](https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/)
 - The Decoder
   - [Anthropic's fix for Fable 5's high cost is turning it into a manager that delegates to Sonnet 5](https://the-decoder.com/anthropics-fix-for-fable-5s-high-cost-is-turning-it-into-a-manager-that-delegates-to-sonnet-5/)
   - [ChatGPT can now listen and talk at the same time, making AI conversations seem more human](https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human/)
@@ -52,12 +56,14 @@
   - [America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph](https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty)
   - [ChatGPT’s upgraded voice mode is better at shutting up](https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live)
   - [Cockroaches will learn to fear my SwitchBot Bot Rechargeable](https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review)
+  - [Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones](https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder)
   - [If Microsoft sold off Xbox, who would even buy it?](https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma)
   - [Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed](https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs)
   - [Twelve South’s AirFly Pro is a great travel companion, and it&#8217;s on sale for $40](https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale)
 - VulDB Recent Entries
   - [CVE-2025-3110 | OpenVPN Access Server up to 3.1.0 HTTP Header Parser request smuggling](https://vuldb.com/vuln/376918)
   - [CVE-2026-14362 | HashiCorp memberlist up to 0.5.x Push/Pull State denial of service](https://vuldb.com/vuln/376956)
+  - [CVE-2026-14373 | HashiCorp Nomad/Nomad Enterprise prior 2.0.4/1.11.8/1.10.14 Docker Task Driver improper authentication](https://vuldb.com/vuln/376960)
   - [CVE-2026-15105 | davenardella snap7 up to 1.4.3 ReadVar Request src/core/s7_server.cpp PerformFunctionRead deserialization (Issue 16)](https://vuldb.com/vuln/376946)
   - [CVE-2026-15134 | CodeAstro Simple Online Leave Management System 1.0 index.php email sql injection](https://vuldb.com/vuln/376949)
   - [CVE-2026-15135 | code-projects Online Food Order System 1.0 /edit_food_items.php update sql injection](https://vuldb.com/vuln/376951)
@@ -68,6 +74,11 @@
   - [CVE-2026-29009 | U-Boot up to 2026.04-rc3 NFS Client net/nfs-common.c nfs_readlink_reply buffer overflow](https://vuldb.com/vuln/376922)
   - [CVE-2026-39822 | Go standard library os up to 1.25.11/1.26.4 Root Open symlink](https://vuldb.com/vuln/376920)
   - [CVE-2026-42505 | Go standard library crypto-tls up to 1.25.11/1.26.4 TLS Handshake insertion of sensitive information into sent data](https://vuldb.com/vuln/376925)
+  - [CVE-2026-44512 | ONNX up to 1.21.0 Version Converter Adapters upsample_6_7.h adapt_upsample_6_7 inputs null pointer dereference](https://vuldb.com/vuln/376961)
+  - [CVE-2026-45045 | gofiber Fiber up to 2.52.13/3.2.x Proxy Helper proxy.go Header.Add/Header.Set X-Real-IP access control](https://vuldb.com/vuln/376962)
+  - [CVE-2026-50812 | SQLite 3.53.1 Session Extension sqlite3changeset_apply_v3 null pointer dereference](https://vuldb.com/vuln/376958)
+  - [CVE-2026-50813 | SQLite Session Extension information disclosure](https://vuldb.com/vuln/376959)
+  - [CVE-2026-55404 | yt-dlp up to 2026.7.3 Shortcut Files .desktop webpage_url/filename injection](https://vuldb.com/vuln/376963)
   - [CVE-2026-57111 | Apache Helix REST up to 2.0.0 REST API cross-domain policy](https://vuldb.com/vuln/376957)
   - [CVE-2026-57439 | gchq CyberChef up to 11.1.0 Series Chart prototype pollution](https://vuldb.com/vuln/376906)
   - [CVE-2026-59261 | OpenClaw up to 2026.5.27 Credential Override workspace/.env information disclosure](https://vuldb.com/vuln/376923)
@@ -129,6 +140,7 @@
   - [Exploit for Improper Handling of Case Sensitivity in Apache Camel](https://vulners.com/githubexploit/D3379F17-C9FD-5588-8FB8-4A7C177A58EF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Dimming the Sun Would Help Lower the Risks of El Niño](https://www.wired.com/story/dimming-the-sun-would-lower-risks-of-el-nino/)
+  - [Peter Thiel’s Husband Sued a Flight Attendant Who Says He Assaulted Her on a Private Jet](https://www.wired.com/story/peter-thiels-husband-sued-a-flight-attendant-who-says-he-assaulted-her-on-a-private-jet/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
