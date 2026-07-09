@@ -2,13 +2,19 @@
 
 - 2Libra
   - [AI 支付宝现在可以直接用了](https://2libra.com/post/ai-tools/s2dppc4)
+  - [【剁手日志】第五台墨水屏阅读器入手～ 📖📖📖](https://2libra.com/post/tech-fun/34TTRv7)
+  - [为何我的小红书与阿 B 差不多](https://2libra.com/post/mental-health/6ExM6kV)
   - [今天抽中了评论发帖都是 4 金币，](https://2libra.com/post/forum-function/tRlOyau)
   - [关键输出](https://2libra.com/post/forum-function/iMYTWsK)
   - [抖音突然好多散帅视频](https://2libra.com/post/hotspot-tracking/f-V2B4n)
+  - [有一百万是结婚还是投资？](https://2libra.com/post/financial-management/gQhVaFm)
   - [树洞贴](https://2libra.com/post/personal-life/rOxbGOO)
   - [看看头像！](https://2libra.com/post/forum-function/4C2cIT4)
 - 36氪
+  - [36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”](https://36kr.com/p/3887726503688968?f=rss)
+  - [7月9日人民币对美元中间价调升41个基点](https://36kr.com/newsflashes/3887725239810563?f=rss)
   - [8点1氪｜小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席](https://36kr.com/p/3887648675133960?f=rss)
+  - [A股三大指数集体高开，浪潮信息涨超6%](https://36kr.com/newsflashes/3887733202221576?f=rss)
   - [Hy3调用激增，WorkBuddy已紧急扩容](https://36kr.com/newsflashes/3887708659677956?f=rss)
   - [Meta将在艾伯塔省投建130亿加元数据中心](https://36kr.com/newsflashes/3887604088093192?f=rss)
   - [OpenAI发布GPT-Live语音模型，让ChatGPT更像真人对话](https://36kr.com/newsflashes/3887597243218435?f=rss)
@@ -16,6 +22,7 @@
   - [SK海力士美国IPO获得逾七倍的超额认购](https://36kr.com/newsflashes/3887591779744258?f=rss)
   - [SpaceX AI与Cursor发布面向法律、金融场景的Grok AI模型](https://36kr.com/newsflashes/3887598091614725?f=rss)
   - [Waymo未来几周将在美国四个新城市推出无人驾驶出租车服务](https://36kr.com/newsflashes/3887625331063560?f=rss)
+  - [“深度智控”（DeepCtrls）完成数亿元人民币B轮融资](https://36kr.com/newsflashes/3887718051330561?f=rss)
   - [“灵境智源”完成超亿元人民币天使轮及天使+轮融资](https://36kr.com/newsflashes/3887623484062213?f=rss)
   - [上半年险企发债超320亿元，同比下降35.3%](https://36kr.com/newsflashes/3887642715617796?f=rss)
   - [上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二](https://36kr.com/p/3887659913083392?f=rss)
@@ -25,14 +32,21 @@
   - [中泰证券：厄尔尼诺下旺季延长+结构迁移为核心趋势，中大包装水将迎来需求双重利好](https://36kr.com/newsflashes/3887644168108548?f=rss)
   - [今年以来255家企业评级按下终止键，债市信息缺口亟待堵漏](https://36kr.com/newsflashes/3887637533456901?f=rss)
   - [全国首个海陆一体柔直工程换流站启运](https://36kr.com/newsflashes/3887695267854848?f=rss)
+  - [前日本央行官员称本轮加息周期政策利率或升至2%以上](https://36kr.com/newsflashes/3887746160900873?f=rss)
   - [华泰证券：油价回落与客运旺季共振，交运板块布局景气修复+中报确定性+稳健红利](https://36kr.com/newsflashes/3887645053369092?f=rss)
+  - [南向资金净买入额超50亿港元](https://36kr.com/newsflashes/3887759280405250?f=rss)
   - [商务部等9部门：推动平台经营者、柜台出租者将入驻经营者抽检合格率、退货率纳入考核](https://36kr.com/newsflashes/3887683958290947?f=rss)
   - [商务部等9部门：推动消费券发放、结算等环节使用数字人民币](https://36kr.com/newsflashes/3887681764014856?f=rss)
   - [商务部等9部门：支持大型零售经营主体以自建渠道、合作、并购等方式“走出去”](https://36kr.com/newsflashes/3887680973027844?f=rss)
   - [商务部等9部门：支持符合条件的新型优质零售企业上市](https://36kr.com/newsflashes/3887679121144584?f=rss)
   - [商务部等9部门：禁止平台经营者强制或变相强制商户承担补贴、参与促销活动](https://36kr.com/newsflashes/3887682411510280?f=rss)
+  - [国家统计局：6月全国居民消费价格同比上涨1.0%](https://36kr.com/newsflashes/3887738930772744?f=rss)
+  - [国家统计局：6月全国工业生产者出厂价格同比上涨4.1%](https://36kr.com/newsflashes/3887742380538624?f=rss)
+  - [央行7月9日公开市场开展100亿元7天期逆回购操作](https://36kr.com/newsflashes/3887729566628352?f=rss)
   - [年内218家A股公司参与设立产业并购基金](https://36kr.com/newsflashes/3887649003961089?f=rss)
   - [年内港股IPO募资额同比增超95%](https://36kr.com/newsflashes/3887641904036355?f=rss)
+  - [微软Xbox将调整黑曜石工作室，转向开发《辐射》新作](https://36kr.com/newsflashes/3887719588592390?f=rss)
+  - [恒指开盘跌0.07%，恒生科技指数涨0.29%](https://36kr.com/newsflashes/3887729193745154?f=rss)
   - [摩根大通加码并购业务，布局中小企业交易](https://36kr.com/newsflashes/3887601045584642?f=rss)
   - [智谱：配售新H股，所得款项总额预期约314.1亿港元](https://36kr.com/newsflashes/3887616358300168?f=rss)
   - [深交所：港股通标的证券名单调入普源精电、鼎泰高科](https://36kr.com/newsflashes/3887696498358790?f=rss)
@@ -50,6 +64,8 @@
   - [车船税征收政策明年调整，新能源汽车发展重心转移](https://36kr.com/newsflashes/3887638955194882?f=rss)
   - [速腾聚创：上半年激光雷达总销量达719200台，同比增长169.6%](https://36kr.com/newsflashes/3887698872154883?f=rss)
   - [长鑫科技披露招股意向书，预计7月16日发行](https://36kr.com/newsflashes/3887635460635397?f=rss)
+  - [阶跃星辰AI智能体手机代工企业为华勤技术](https://36kr.com/newsflashes/3887763427244809?f=rss)
+  - [阶跃星辰将发布AI智能体手机](https://36kr.com/newsflashes/3887717218089736?f=rss)
   - [韩国央行：考虑到包括价格在内的风险，升息势在必行](https://36kr.com/newsflashes/3887710679333378?f=rss)
   - [高管称贝恩资本已完成对闪存厂商铠侠的退出操作](https://36kr.com/newsflashes/3887602958318088?f=rss)
 - 404 Media
@@ -57,15 +73,21 @@
 - Ars Technica
   - ["We cannot choose to become idiots": The AI cheating scandal roiling Brown University](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
   - [Aussie gov't tells volunteers to throw out thousands of functioning test routers](https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/)
+- Cybersecurity News
+  - [Chrome Security Update Patches 27 Flaws, Including Two Critical Use-After-Free Bugs](https://securityonline.info/chrome-security-update-27-fixes/)
+  - [CVE-2026-0288: PAN-OS Buffer Overflow Can Execute Arbitrary Code](https://securityonline.info/pan-os-cve-2026-0288/)
 - daringfireball.net
   - [My Conversation With ELIZA](https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0)
   - [The ELIZA Archaeology Project](https://findingeliza.org/)
   - [‘PARRY Encounters the DOCTOR’ — Chatbot on Chatbot Action Circa 1973](https://www.rfc-editor.org/info/rfc439/)
   - [‘Searching for SmarterChild’ Kickstarter](https://www.kickstarter.com/projects/smarterchild/searching-for-smarterchild-a-feature-documentary/creator)
+  - [★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander)
 - darkreading
   - [Lone Attacker Uses AI to Breach AWS Cloud Environment in 72 Hours](https://www.darkreading.com/cloud-security/lone-attacker-ai-breach-aws-cloud-environment)
   - [Mexico's New Cyber Plan Faces Its First Real Test](https://www.darkreading.com/cyber-risk/mexicos-cyber-plan-first-real-test)
   - [Vidar Infostealer Hammers SMBs via Malvertising Campaign](https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign)
+- Der Flounder
+  - [Slides from the “FileVault 101” session at Penn State MacAdmins 2026](https://derflounder.wordpress.com/2026/07/09/slides-from-the-filevault-101-session-at-penn-state-macadmins-2026/)
 - experimental-history.com
   - [The Decline of Deviance 2](https://www.experimental-history.com/p/the-decline-of-deviance-2)
 - Fidelis Security
@@ -79,6 +101,7 @@
   - [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)
   - [Multigres Supports Listen/Notify Across Pooled Connections](https://multigres.com/blog/listen-notify)
   - [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
+  - [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/)
   - [Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase](https://github.com/animesh-94/Onboard-CLI)
   - [SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence](https://cognition.com/blog/swe-1-7)
   - [Turning a pile of documents into a searchable useable knowledge base](https://github.com/linuxrebel/DocuBrowser)
@@ -201,6 +224,7 @@
   - [CVE-2026-29007 | U-Boot up to 2026.04-rc3 TCP State Machine net/tcp.c tcp_parse_options data offset out-of-bounds](https://vuldb.com/vuln/376919)
   - [CVE-2026-29008 | U-Boot up to 2026.04-rc3 TCP_SYN_SENT handler net/tcp.c tcp_rx_state_machine offset integer underflow](https://vuldb.com/vuln/376921)
   - [CVE-2026-29009 | U-Boot up to 2026.04-rc3 NFS Client net/nfs-common.c nfs_readlink_reply buffer overflow](https://vuldb.com/vuln/376922)
+  - [CVE-2026-31309 | Mysterium Network Mysterium Node up to 1.35.x Config User Endpoint /tequilapi/config/user improper authorization](https://vuldb.com/vuln/377107)
   - [CVE-2026-35210 | OpenCTI Platform prior 7.260326.0 Authorization Validation synchronized-upsert authorization](https://vuldb.com/vuln/377027)
   - [CVE-2026-35211 | OpenCTI-Platform OpenCTI 6.9.7/7.260227.0 OpenCTI GraphQL API code injection](https://vuldb.com/vuln/377026)
   - [CVE-2026-35552 | CAXperts UPVWebServices/UDiTH Portal up to 2.4.2212.603/2.7.6/2026.0.0/2026.2.0 Administrative API Endpoint authorization](https://vuldb.com/vuln/377045)
@@ -244,6 +268,7 @@
   - [CVE-2026-55542 | grokability Snipe-IT up to 8.6.0 S3 Signature Image Retrieval authorize signature filename improper authorization](https://vuldb.com/vuln/377006)
   - [CVE-2026-55596 | udecode plate up to 53.1.3 Media Embed Renderer url cross site scripting](https://vuldb.com/vuln/377003)
   - [CVE-2026-55778 | parse-community Parse Server up to 8.6.80/9.9.1-alpha.10 FileUpload cross site scripting](https://vuldb.com/vuln/377095)
+  - [CVE-2026-55849 | CycloneDX cyclonedx-node-npm up to 4.x CLI --workspace os command injection](https://vuldb.com/vuln/377106)
   - [CVE-2026-56669 | elysiajs Elysia up to 1.4.28 Form Data Normalization getAll resource consumption](https://vuldb.com/vuln/377005)
   - [CVE-2026-57111 | Apache Helix REST up to 2.0.0 REST API cross-domain policy](https://vuldb.com/vuln/376957)
   - [CVE-2026-57439 | gchq CyberChef up to 11.1.0 Series Chart prototype pollution](https://vuldb.com/vuln/376906)
@@ -368,6 +393,7 @@
   - [CVE-2026-15134](https://vulners.com/nvd/NVD:CVE-2026-15134?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15135](https://vulners.com/nvd/NVD:CVE-2026-15135?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15137](https://vulners.com/nvd/NVD:CVE-2026-15137?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15138](https://vulners.com/nvd/NVD:CVE-2026-15138?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15163](https://vulners.com/nvd/NVD:CVE-2026-15163?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15164](https://vulners.com/nvd/NVD:CVE-2026-15164?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15165](https://vulners.com/nvd/NVD:CVE-2026-15165?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -487,3 +513,5 @@
 - 爱范儿
   - [奔驰全新纯电 GLC 转型 AI，新版型同步开启预售，29.99 万元起](https://www.ifanr.com/1671374?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜努比亚确认推出全球首款AI智能体手机/法拉利高管:中国车企做的是快消品/华为天才少年回应DeepSeek面试争议](https://www.ifanr.com/1671401?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [同声传译一夜失业！GPT-Live瞬间翻译，老太太现场抬杠AI看傻全网](https://www.qbitai.com/2026/07/446425.html)
