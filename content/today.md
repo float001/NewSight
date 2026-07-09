@@ -1,5 +1,48 @@
 # 今日安全资讯（2026-07-10）
 
+- simonwillison.net
+  - [Introducing Muse Spark 1.1](https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Code Injection in Xwiki exploit](https://sploitus.com/exploit?id=66C89009-DD0E-5D15-8E33-F504D3A60063&utm_source=rss&utm_medium=rss)
+  - [Payload exploit](https://sploitus.com/exploit?id=51A9E7A8-7890-592A-9EA1-0EE4B7D1A9DF&utm_source=rss&utm_medium=rss)
+- The Decoder
+  - [Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up](https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/)
+- The Verge
+  - [Microsoft’s patch Tuesdays are about to get bigger](https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates)
+- VulDB Recent Entries
+  - [CVE-2026-23559 | Xen XAPI Configuration access control](https://vuldb.com/vuln/377219)
+  - [CVE-2026-58459 | gpsd up to 3.27.5 gpsprof subtype os command injection](https://vuldb.com/vuln/377224)
+  - [CVE-2026-59206 | n8n-io n8n up to 1.123.60/2.27.3/2.28.0 Workflow API behavioral workflow](https://vuldb.com/vuln/377221)
+  - [CVE-2026-59207 | n8n-io n8n AI Agents Feature behavioral workflow](https://vuldb.com/vuln/377222)
+  - [CVE-2026-59208 | n8n-io n8n up to 2.27.3/2.28.0 Token Identity Resolver behavioral workflow](https://vuldb.com/vuln/377223)
+  - [CVE-2026-59214 | open-webui Open WebUI up to 0.9.x JS Module pyodide.http cross-domain policy](https://vuldb.com/vuln/377225)
+  - [CVE-2026-61474 | MISP up to 2.5.42 Attribute Creation Endpoint sharing_group_id improper authorization](https://vuldb.com/vuln/377220)
+- Vulners.com RSS Feed
+  - [CVE-2025-27462](https://vulners.com/nvd/NVD:CVE-2025-27462?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-27463](https://vulners.com/nvd/NVD:CVE-2025-27463?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-27464](https://vulners.com/nvd/NVD:CVE-2025-27464?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-58146](https://vulners.com/nvd/NVD:CVE-2025-58146?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-58151](https://vulners.com/nvd/NVD:CVE-2025-58151?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11404](https://vulners.com/nvd/NVD:CVE-2026-11404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15187](https://vulners.com/nvd/NVD:CVE-2026-15187?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15188](https://vulners.com/nvd/NVD:CVE-2026-15188?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15189](https://vulners.com/nvd/NVD:CVE-2026-15189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-23556](https://vulners.com/nvd/NVD:CVE-2026-23556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-23559](https://vulners.com/nvd/NVD:CVE-2026-23559?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-23560](https://vulners.com/nvd/NVD:CVE-2026-23560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-23561](https://vulners.com/nvd/NVD:CVE-2026-23561?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-23562](https://vulners.com/nvd/NVD:CVE-2026-23562?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42486](https://vulners.com/nvd/NVD:CVE-2026-42486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58125](https://vulners.com/nvd/NVD:CVE-2026-58125?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58459 gpsd gpsprof Command Injection via gnuplot plot title subtype field](https://vulners.com/cvelist/CVELIST:CVE-2026-58459?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59206](https://vulners.com/nvd/NVD:CVE-2026-59206?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59207](https://vulners.com/nvd/NVD:CVE-2026-59207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59208](https://vulners.com/nvd/NVD:CVE-2026-59208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59220 Open WebUI: ReDoS in skill-mention regexes causes whole-instance DoS on default config](https://vulners.com/cvelist/CVELIST:CVE-2026-59220?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59715 Open WebUI: Unauthenticated WebSocket Access to Collaborative Document Handlers (ydoc:awareness:update, ydoc:document:leave)](https://vulners.com/cvelist/CVELIST:CVE-2026-59715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61474](https://vulners.com/nvd/NVD:CVE-2026-61474?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Code Injection in Xwiki](https://vulners.com/githubexploit/66C89009-DD0E-5D15-8E33-F504D3A60063?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Payload](https://vulners.com/githubexploit/51A9E7A8-7890-592A-9EA1-0EE4B7D1A9DF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [The 1X Neo Robot Has Freaky Fast Fingers](https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/)
 - 代码审计星球
