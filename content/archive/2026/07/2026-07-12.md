@@ -2,6 +2,7 @@
 
 - daringfireball.net
   - [Gurman on Tang Tan and Paul Meade](https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple)
+  - [★ Exactly Like Om Malik](https://daringfireball.net/2026/07/exactly_like_om_malik)
 - Emergent Minds | paddo.dev
   - [Metered Into a Ghost Town: Fable 5 Goes Pay-Per-Token and Everyone Defects to GPT-5.6 Sol](https://paddo.dev/blog/fable-5-metered-ghost-town/)
 - Hacker News Frontpage
