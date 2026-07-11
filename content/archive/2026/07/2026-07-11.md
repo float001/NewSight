@@ -42,9 +42,11 @@
   - [多空因素交织，国际金价本周震荡加剧](https://36kr.com/newsflashes/3890591546358276?f=rss)
   - [市场发行热度大幅升温，熊猫债存量规模首超5000亿元](https://36kr.com/newsflashes/3890587699198473?f=rss)
   - [我国海洋生产总值超11万亿元，多项指标全球领先](https://36kr.com/newsflashes/3890753135196679?f=rss)
+  - [智谱CEO唐杰发内部信：“GLM 时刻”和万亿俱乐部之后，什么是更重要的事](https://36kr.com/newsflashes/3891162734689031?f=rss)
   - [欧洲央行的Moulin认为人工智能可能加剧通胀波动](https://36kr.com/newsflashes/3890739624540680?f=rss)
   - [法国电信大亨或成英国沃达丰最大股东](https://36kr.com/newsflashes/3890637644118787?f=rss)
   - [淘宝闪购骑士制服获法国设计奖，为该奖首次授予劳动职业制服](https://36kr.com/newsflashes/3890549567159048?f=rss)
+  - [独家 | 智谱 CEO唐杰发内部信：「GLM 时刻」和万亿俱乐部之后，什么是更重要的事](https://36kr.com/p/3891132709206784?f=rss)
   - [研究报告：中国电力技术创新位居全球首位](https://36kr.com/newsflashes/3890965044869637?f=rss)
   - [稳定币发行商Circle获银行经营牌照](https://36kr.com/newsflashes/3890740672838404?f=rss)
   - [美股三大指数集体收涨，SK海力士ADR上市首日涨超12%](https://36kr.com/newsflashes/3890531785652998?f=rss)
@@ -65,6 +67,8 @@
   - [Seedance 2.0 Prompt Guide: Best Practices & Failure Modes](http://www.heyuan110.com/posts/ai/2026-07-11-seedance-2-prompt-guide/)
 - CERT Recently Published Vulnerability Notes
   - [VU#564823: GNU Wget enables SSRF via unvalidated FTP PASV IPs](https://kb.cert.org/vuls/id/564823)
+- construction-physics.com
+  - [Reading List 07/11/26](https://www.construction-physics.com/p/reading-list-071126)
 - Cybersecurity News
   - [Apache IoTDB Fixes Path Traversal and Authentication Bypass Flaws (CVE-2026-24014)](https://securityonline.info/apache-iotdb-vulnerabilities/)
   - [Silver Fox Ghost Distributor Delivers MODBEACON Trojan to Chosen Targets](https://securityonline.info/silver-fox-modbeacon/)
@@ -156,6 +160,7 @@
   - [Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal](https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/)
 - The Verge
   - [A decade later, Pokémon Go finally made good on its original promise](https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026)
+  - [A tasty RPG that will make you very hungry](https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch)
   - [Apple sues OpenAI for allegedly stealing hardware secrets](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets)
   - [ICE is threatening to deport witnesses of its latest shooting](https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo)
   - [Meta turns off the Instagram feature that let users make AI deepfakes of public accounts](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes)
@@ -163,6 +168,7 @@
   - [No, Flock isn&#8217;t threatening people for debating surveillance](https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter)
   - [Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street](https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut)
   - [The FCC is cracking down on DJI tech that dodged the foreign drone ban](https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab)
+  - [The perfect kit for all your tiny repairs](https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer)
 - VulDB Recent Entries
   - [CVE-2025-30007 | HestiaCP up to 1.9.4 DNS Record Validator/Parser is_dns_record_format_valid/update_domain_zone dns_record_type os command injection](https://vuldb.com/vuln/377576)
   - [CVE-2025-30008 | HestiaCP up to 1.9.4 DNS Record Rendering list_dns_rec.php htmlspecialchars Value cross site scripting](https://vuldb.com/vuln/377575)
