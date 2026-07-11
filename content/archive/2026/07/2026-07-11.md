@@ -57,6 +57,8 @@
   - [Behind the Blog: The Promise of the Internet](https://www.404media.co/behind-the-blog-the-promise-of-the-internet/)
 - Ars Technica
   - [China recovered its first reusable rocket and showed a new way to do it](https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/)
+- Articles | InfoStealers
+  - [Infostealer Malware Triggers Major Database Breach at the Argentine Football Association](https://www.infostealers.com/article/infostealer-malware-triggers-major-database-breach-at-the-argentine-football-association/)
 - Blog - Praetorian
   - [Bluetooth Low Energy Security Testing, Consolidated: Introducing Caeruleus](https://www.praetorian.com/blog/ble-testing-caeruleus/)
 - Bruce's Blog
@@ -116,6 +118,7 @@
   - [ethical-hacking-labs exploit](https://sploitus.com/exploit?id=8BFD3BD2-B4FA-52E2-AA2F-CF7D0597D05B&utm_source=rss&utm_medium=rss)
   - [Exploit for Classic Buffer Overflow in Freefloat Freefloat_Ftp_Server exploit](https://sploitus.com/exploit?id=9EA64E33-B29A-5BBD-8283-B30AA64E42EB&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2024-13985 exploit](https://sploitus.com/exploit?id=C39C5977-D322-54D2-9B0F-D997C82C40B1&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-15282 exploit](https://sploitus.com/exploit?id=68735ADF-6936-5214-B6B6-0391E83FB363&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-29114 exploit](https://sploitus.com/exploit?id=E9720D7A-AA59-5444-9627-AEFF0E031CDA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-29115 exploit](https://sploitus.com/exploit?id=051FFBEE-24F6-52B4-845D-14694CF4C46B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-40887 exploit](https://sploitus.com/exploit?id=F779FA84-9AD0-52E3-BE11-29A82ABA984E&utm_source=rss&utm_medium=rss)
@@ -228,6 +231,13 @@
   - [CVE-2026-15477 | Bahmni bahmnicore up to 0.93 Search Endpoint sql additionalParams test sql injection (GHSA-cg9w-r5g6-cxq5)](https://vuldb.com/vuln/377782)
   - [CVE-2026-15478 | IceHRM up to 35.0.1 UserReport Endpoint EmployeeAttendanceReport.php employeeList sql injection (Issue 376)](https://vuldb.com/vuln/377783)
   - [CVE-2026-15479 | H3C NX15 V100R017 Administrator Password Modification Endpoint /api/login/modify change_passwd newPass password recovery](https://vuldb.com/vuln/377785)
+  - [CVE-2026-15482 | Aster Telecom Azcall 10/11 HTTP sis.php?t=consultar nome/perfil/status sql injection](https://vuldb.com/vuln/377789)
+  - [CVE-2026-15483 | TRENDnet TEW-821DAP 1.12B01 ssi /goform/tools_nslookup sub_41EC14 nslookup_target buffer overflow](https://vuldb.com/vuln/377790)
+  - [CVE-2026-15484 | TRENDnet TEW-821DAP 1.12B01 ssi /goform/tools_nslookup sub_41EC14 buffer overflow](https://vuldb.com/vuln/377791)
+  - [CVE-2026-15485 | TRENDnet TEW-821DAP 1.11B03 DNS Lookup /goform/tools_nslookup sub_43F2C4 nslookup_target/dns_server os command injection](https://vuldb.com/vuln/377792)
+  - [CVE-2026-15486 | TRENDnet TEW-821DAP 1.11B03 Firmware Update /goform/tools_ddns sub_42026C hostname/username/password os command injection](https://vuldb.com/vuln/377793)
+  - [CVE-2026-15487 | TRENDnet TEW-821DAP 1.11B03 Firmware Update /goform/system_ntp sub_41FBD0 Hostname os command injection](https://vuldb.com/vuln/377794)
+  - [CVE-2026-15488 | hcr707305003 shiroiAdmin 1.1/1.3 FileController.php FileController::upload File unrestricted upload](https://vuldb.com/vuln/377795)
   - [CVE-2026-1667 | Squirrly SEO Plugin up to 14.0.0 on WordPress API Token cross site scripting](https://vuldb.com/vuln/377558)
   - [CVE-2026-20744 | Hydro-Québec Le Circuit Electrique charging station backend Charging Station WebSocket Endpoint improper authentication](https://vuldb.com/vuln/377671)
   - [CVE-2026-2354 | wpmessiah Swiss Toolkit for WP Plugin up to 1.4.6 on WordPress File Upload upload_extension_files filename unrestricted upload](https://vuldb.com/vuln/377745)
@@ -587,6 +597,8 @@
   - [CVE-2026-57575](https://vulners.com/nvd/NVD:CVE-2026-57575?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57584](https://vulners.com/nvd/NVD:CVE-2026-57584?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57807](https://vulners.com/nvd/NVD:CVE-2026-57807?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57827](https://vulners.com/nvd/NVD:CVE-2026-57827?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57828](https://vulners.com/nvd/NVD:CVE-2026-57828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57850](https://vulners.com/nvd/NVD:CVE-2026-57850?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5801](https://vulners.com/nvd/NVD:CVE-2026-5801?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-5801 SQLi in Semtek Informatics' SEM-PMP](https://vulners.com/cve/CVE-2026-5801?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -634,6 +646,7 @@
   - [ethical-hacking-labs](https://vulners.com/githubexploit/8BFD3BD2-B4FA-52E2-AA2F-CF7D0597D05B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Classic Buffer Overflow in Freefloat Freefloat_Ftp_Server](https://vulners.com/githubexploit/9EA64E33-B29A-5BBD-8283-B30AA64E42EB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2024-13985](https://vulners.com/githubexploit/C39C5977-D322-54D2-9B0F-D997C82C40B1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-15282](https://vulners.com/githubexploit/68735ADF-6936-5214-B6B6-0391E83FB363?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-29114](https://vulners.com/githubexploit/E9720D7A-AA59-5444-9627-AEFF0E031CDA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-29115](https://vulners.com/githubexploit/051FFBEE-24F6-52B4-845D-14694CF4C46B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-59734](https://vulners.com/githubexploit/C9D8D26E-43CB-5CB0-AF87-263E8FED095F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -658,7 +671,9 @@
 - wheresyoured.at
   - [Premium: The Hater's Guide To The Memory Crisis](https://www.wheresyoured.at/premium-the-haters-guide-to-the-memory-crisis/)
 - Wired
+  - [AI Found a Root Bug in Linux That Everyone Missed for 15 Years](https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/)
   - [Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets](https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/)
+  - [Beatbot AquaSense X Review: A Pool Robot That Cleans Itself](https://www.wired.com/review/beatbot-aquasense-x/)
   - [Best Hiking Boots (2026): Walking Shoes, Trails, Backpacking](https://www.wired.com/gallery/best-hiking-boots/)
   - [China’s Tianwen-2 Space Probe Has Rendezvoused With Earth’s Quasi-Moon](https://www.wired.com/story/chinas-tianwen-2-space-probe-earth-quasi-moon/)
   - [El Niño Is Already Wreaking Havoc on Pacific Fisheries](https://www.wired.com/story/el-nino-wreaking-havoc-on-pacific-fisheries/)
@@ -666,6 +681,8 @@
   - [Meet the Battery Startup Taking on China’s Giants](https://www.wired.com/story/prologium-battery-startup-betting-against-china/)
   - [Microsoft Reports a Massive 25 Percent Jump in Emissions](https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/)
   - [OpenAI’s Head of Safety Is Leaving the Company](https://www.wired.com/story/openai-head-of-safety-leaving/)
+  - [Samsung Micro RGB R95H Review (2026): Not the Brightest](https://www.wired.com/review/samsung-micro-rgb-r95h/)
+  - [Skylight’s Touchscreen Calendar Got my Whole Family on the Same Page](https://www.wired.com/story/skylight-digital-calendar-for-kids-who-are-touchscreen-natives/)
   - [We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?](https://www.wired.com/story/gourmet-dog-food/)
 - 不安全
   - [AI Blogging From Inside Vim](https://buaq.net/go-428236.html)
