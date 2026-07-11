@@ -11,6 +11,8 @@
   - [Leaded Gas Was a Known Poison the Day It Was Invented (2016)](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/)
   - [OpenAI Forked Git on GitHub](https://github.com/openai/git)
   - [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org)
+- johndcook.com
+  - [Progress on Gilbreath’s conjecture](https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/)
 - Sploitus.com Exploits RSS Feed
   - [a2tools exploit](https://sploitus.com/exploit?id=6E5AC2F7-892E-5664-BC1E-81D736D35DF4&utm_source=rss&utm_medium=rss)
   - [cve-vulnerability-trend-analyzer exploit](https://sploitus.com/exploit?id=3C91A24A-B028-5B4D-BE7C-A8928C842D7A&utm_source=rss&utm_medium=rss)
@@ -20,13 +22,17 @@
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=9265C4D0-7F77-5355-9FA0-48A00F9E811B&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Smart glasses without a camera? Even Realities bets productivity beats recording everyone](https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/)
+  - [This slushie machine was a lifesaver during NYC’s heat wave](https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/)
 - The Decoder
   - [OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour](https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/)
 - The Verge
   - [After years of teasing, the viral Nopia synth is ‘basically finished’](https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo)
   - [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger)
+- VulDB Recent Entries
+  - [CVE-2026-58281 | Microsoft Edge up to 149.0.4022.68 deserialization](https://vuldb.com/vuln/377832)
 - Vulners.com RSS Feed
   - [CVE-2026-10660](https://vulners.com/nvd/NVD:CVE-2026-10660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58281](https://vulners.com/nvd/NVD:CVE-2026-58281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cve-vulnerability-trend-analyzer](https://vulners.com/githubexploit/3C91A24A-B028-5B4D-BE7C-A8928C842D7A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Command Injection in Microsoft](https://vulners.com/githubexploit/833581E3-D09A-5C85-BB3D-46DA43EDAF50?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-7275](https://vulners.com/githubexploit/78361921-E1FF-5878-ADB0-633C41315170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
