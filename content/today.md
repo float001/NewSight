@@ -4,6 +4,7 @@
   - [AI 时代，好多东西必然会变得越来越廉价！那么问题来了，什么新生事物会更加保值或增值？](https://2libra.com/post/social-observation/rWHMfgQ)
   - [“巴威”要来了，打算下班去屯点物资](https://2libra.com/post/personal-life/D5VSpDG)
   - [【💰】二连紫卡，再来个金币池，这下不是吉米黑心池了](https://2libra.com/post/forum-function/nQIDGqj)
+  - [巴威后面这个大家伙是什么](https://2libra.com/post/questions/qz0i_k1)
   - [我发现一个用来检测 Agent + 模型能力的方法](https://2libra.com/post/tech-rumination/8JhUQuM)
   - [我是不是第一个有这个潘多拉的！！](https://2libra.com/post/forum-function/pFEAnPE)
   - [我的头像有光环了吗](https://2libra.com/post/forum-function/3_7ZPBN)
@@ -31,6 +32,8 @@
   - [全球首个潮玩创作者AI设计平台“妙呀”全量公测](https://36kr.com/newsflashes/3890814999870213?f=rss)
   - [六氟磷酸锂需求旺盛，行业盈利能力显著提升](https://36kr.com/newsflashes/3890586419788289?f=rss)
   - [券商业绩迎高光时刻，最高预增693.5%](https://36kr.com/newsflashes/3890592761510409?f=rss)
+  - [国内多家金店金饰价格多数持稳，最高报1255元/克](https://36kr.com/newsflashes/3890848764263170?f=rss)
+  - [国际能源署：欧盟电气化推进迟缓实属失策](https://36kr.com/newsflashes/3890877760895491?f=rss)
   - [多家机场航班全取消](https://36kr.com/newsflashes/3890731841681922?f=rss)
   - [多空因素交织，国际金价本周震荡加剧](https://36kr.com/newsflashes/3890591546358276?f=rss)
   - [市场发行热度大幅升温，熊猫债存量规模首超5000亿元](https://36kr.com/newsflashes/3890587699198473?f=rss)
@@ -68,6 +71,8 @@
   - [‘No Interest’](https://x.com/drewpusateri/status/2075708238650089981)
 - darkreading
   - [Cybercriminals Flock to Healthcare Businesses as Attacks Surge](https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge)
+- defend.network
+  - [Progress ShareFile emergency shutdown; Injective GitHub breach; U-Boot firmware flaws](https://defend.network/briefings/progress-sharefile-injective-uboot-firmware-threats-2026-07-11.html)
 - eli.thegreenplace.net
   - [Dot product: Component vs. Geometric definition](https://eli.thegreenplace.net/2026/dot-product-component-vs-geometric-definition/)
 - Emergent Minds | paddo.dev
@@ -86,10 +91,13 @@
   - [New York City to become first in US to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
   - [Snails' Teeth Beats Spider Silk as Nature's Strongest Material](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/)
   - [SpaceX wants to launch 100k more Starlink satellites – for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/)
+  - [What's the best way to do authentication in modern applications](https://neciudan.dev/most-secure-way-to-store-auth-token)
 - IEEE Spectrum
   - [IEEE Remembers Pioneering Computer Scientist Peter G. Neumann](https://spectrum.ieee.org/ieee-remembers-peter-g-neumann)
 - infosecurity-magazine.com
   - [CISA Details Incident Response to Exposed AWS GovCloud Keys](https://www.infosecurity-magazine.com/news/cisa-incident-response-exposed-aws/)
+- Kali Linux Tutorials
+  - [Install TensorFlow on Ubuntu 18.04: Python venv Setup and Usage](https://kalilinuxtutorials.com/install-tensorflow-ubuntu-2/)
 - SentinelOne
   - [The Good, the Bad and the Ugly in Cybersecurity – Week 28](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-28-8/)
 - Sploitus.com Exploits RSS Feed
@@ -97,8 +105,12 @@
   - [Code_alpha_secure_vault exploit](https://sploitus.com/exploit?id=CF65A735-E3C1-5A24-AEA6-778438128636&utm_source=rss&utm_medium=rss)
   - [ethical-hacking-labs exploit](https://sploitus.com/exploit?id=8BFD3BD2-B4FA-52E2-AA2F-CF7D0597D05B&utm_source=rss&utm_medium=rss)
   - [Exploit for Classic Buffer Overflow in Freefloat Freefloat_Ftp_Server exploit](https://sploitus.com/exploit?id=9EA64E33-B29A-5BBD-8283-B30AA64E42EB&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2024-13985 exploit](https://sploitus.com/exploit?id=C39C5977-D322-54D2-9B0F-D997C82C40B1&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-29114 exploit](https://sploitus.com/exploit?id=E9720D7A-AA59-5444-9627-AEFF0E031CDA&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-29115 exploit](https://sploitus.com/exploit?id=051FFBEE-24F6-52B4-845D-14694CF4C46B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-40887 exploit](https://sploitus.com/exploit?id=F779FA84-9AD0-52E3-BE11-29A82ABA984E&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Motioneye_Project Motioneye exploit](https://sploitus.com/exploit?id=DBDF3A59-16BD-5601-8FB5-18D75DA21EC7&utm_source=rss&utm_medium=rss)
+  - [Exploit for Integer Overflow or Wraparound in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=11837B16-AF24-5BE3-98EE-BE6251A2B965&utm_source=rss&utm_medium=rss)
   - [Exploit for Race Condition in Canonical Ubuntu_Linux exploit](https://sploitus.com/exploit?id=D7D5D2DE-DBCE-58E9-BB12-14E32746576D&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=BFA957C1-B9B9-5A7C-AE17-8A2286059B96&utm_source=rss&utm_medium=rss)
   - [Rambert exploit](https://sploitus.com/exploit?id=4486B82C-43DF-537A-B02D-189F4B1D03A9&utm_source=rss&utm_medium=rss)
@@ -119,6 +131,7 @@
   - [SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs](https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/)
   - [US cyber agency CISA had to build its incident playbook during the incident, agency reveals](https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/)
 - The Decoder
+  - [Apple sues OpenAI for allegedly running a "coordinated campaign" to steal trade secrets through poached employees](https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/)
   - [OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity](https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/)
   - [OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a "fairly underspecified prompt"](https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/)
   - [Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal](https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/)
@@ -134,13 +147,17 @@
 - VulDB Recent Entries
   - [CVE-2025-30007 | HestiaCP up to 1.9.4 DNS Record Validator/Parser is_dns_record_format_valid/update_domain_zone dns_record_type os command injection](https://vuldb.com/vuln/377576)
   - [CVE-2025-30008 | HestiaCP up to 1.9.4 DNS Record Rendering list_dns_rec.php htmlspecialchars Value cross site scripting](https://vuldb.com/vuln/377575)
+  - [CVE-2025-6784 | tigroumeow Code Engine Plugin up to 0.3.5 on WordPress Shortcode code-engine injection](https://vuldb.com/vuln/377755)
   - [CVE-2025-70796 | Wireless Technology, Inc. WTI 3.5.0.r Web Management Interface path traversal](https://vuldb.com/vuln/377553)
+  - [CVE-2026-10041 | wclovers WCFM Plugin up to 6.7.27 on WordPress Product Archive resource injection](https://vuldb.com/vuln/377757)
   - [CVE-2026-10628 | wpswings Points and Rewards for WooCommerce Plugin up to 2.10.1 on WordPress Authorization wps_wpr_generate_custom_wallet nonce authorization](https://vuldb.com/vuln/377732)
   - [CVE-2026-10768 | Drupal LocalGov Workflows up to 1.5.x Authorization authorization](https://vuldb.com/vuln/377681)
   - [CVE-2026-10769 | Drupal Commerce Core up to 3.3.5 cross site scripting](https://vuldb.com/vuln/377676)
   - [CVE-2026-10770 | Drupal Anti-Spam by CleanTalk Plugin up to 9.7.0 cross site scripting](https://vuldb.com/vuln/377678)
+  - [CVE-2026-10865 | stylemix Cost Calculator Builder Plugin up to 4.0.11 on WordPress Global Settings template body client_secret/secret key missing encryption](https://vuldb.com/vuln/377758)
   - [CVE-2026-11321 | DataInjection Plugin up to 2.15.6 Data Injection Feature import.php SLEEP mapped sql injection](https://vuldb.com/vuln/377599)
   - [CVE-2026-11426 | WebFactory Under Construction Page Plugin up to 5.76 on WordPress Template template_thumbnail path traversal](https://vuldb.com/vuln/377723)
+  - [CVE-2026-11901 | thimpress WP Hotel Booking Plugin up to 2.3.1 on WordPress IPN web_hook_process_paypal_standard test_ipn authentication replay](https://vuldb.com/vuln/377756)
   - [CVE-2026-11908 | Drupal Tagify up to 1.2.51 cross site scripting](https://vuldb.com/vuln/377679)
   - [CVE-2026-11909 | Drupal Examples for Developers up to 4.0.5 Authorization authorization](https://vuldb.com/vuln/377677)
   - [CVE-2026-11913 | Drupal Mother May I Remote Code Execution](https://vuldb.com/vuln/377663)
@@ -334,6 +351,7 @@
   - [CVE-2026-13250](https://vulners.com/nvd/NVD:CVE-2026-13250?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13262](https://vulners.com/nvd/NVD:CVE-2026-13262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13353](https://vulners.com/nvd/NVD:CVE-2026-13353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13378](https://vulners.com/nvd/NVD:CVE-2026-13378?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13756](https://vulners.com/nvd/NVD:CVE-2026-13756?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14262](https://vulners.com/nvd/NVD:CVE-2026-14262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14286](https://vulners.com/nvd/NVD:CVE-2026-14286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -546,6 +564,7 @@
   - [CVE-2026-7559](https://vulners.com/nvd/NVD:CVE-2026-7559?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7620](https://vulners.com/nvd/NVD:CVE-2026-7620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7639](https://vulners.com/nvd/NVD:CVE-2026-7639?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7655](https://vulners.com/nvd/NVD:CVE-2026-7655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8595](https://vulners.com/nvd/NVD:CVE-2026-8595?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8609](https://vulners.com/nvd/NVD:CVE-2026-8609?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8678](https://vulners.com/nvd/NVD:CVE-2026-8678?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -553,6 +572,9 @@
   - [CVE-2026-9738](https://vulners.com/nvd/NVD:CVE-2026-9738?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ethical-hacking-labs](https://vulners.com/githubexploit/8BFD3BD2-B4FA-52E2-AA2F-CF7D0597D05B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Classic Buffer Overflow in Freefloat Freefloat_Ftp_Server](https://vulners.com/githubexploit/9EA64E33-B29A-5BBD-8283-B30AA64E42EB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2024-13985](https://vulners.com/githubexploit/C39C5977-D322-54D2-9B0F-D997C82C40B1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-29114](https://vulners.com/githubexploit/E9720D7A-AA59-5444-9627-AEFF0E031CDA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-29115](https://vulners.com/githubexploit/051FFBEE-24F6-52B4-845D-14694CF4C46B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Race Condition in Canonical Ubuntu_Linux](https://vulners.com/githubexploit/D7D5D2DE-DBCE-58E9-BB12-14E32746576D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2WC2-FM75-P42X vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-2WC2-FM75-P42X?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2WC2-FM75-P42X vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-2WC2-FM75-P42X?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -579,6 +601,7 @@
   - [OpenAI’s Head of Safety Is Leaving the Company](https://www.wired.com/story/openai-head-of-safety-leaving/)
 - 不安全
   - [AI Blogging From Inside Vim](https://buaq.net/go-428236.html)
+  - [CCNA or WCA](https://buaq.net/go-428280.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
@@ -592,4 +615,6 @@
 - 黑海洋
   - [Disney+正在考虑推出免费流媒体套餐](https://blog.upx8.com/Disney-%E6%AD%A3%E5%9C%A8%E8%80%83%E8%99%91%E6%8E%A8%E5%87%BA%E5%85%8D%E8%B4%B9%E6%B5%81%E5%AA%92%E4%BD%93%E5%A5%97%E9%A4%90)
   - [中国成功实施重复使用运载火箭回收任务](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%AE%9E%E6%96%BD%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E4%BB%BB%E5%8A%A1)
+  - [日本可重复使用火箭实验机体首次试飞成功](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E5%8F%AF%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8%E7%81%AB%E7%AE%AD%E5%AE%9E%E9%AA%8C%E6%9C%BA%E4%BD%93%E9%A6%96%E6%AC%A1%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F)
   - [欧盟升级对Meta调查 旗下平台或面临罚款](https://blog.upx8.com/%E6%AC%A7%E7%9B%9F%E5%8D%87%E7%BA%A7%E5%AF%B9Meta%E8%B0%83%E6%9F%A5-%E6%97%97%E4%B8%8B%E5%B9%B3%E5%8F%B0%E6%88%96%E9%9D%A2%E4%B8%B4%E7%BD%9A%E6%AC%BE)
+  - [谈判代表因协助勒索软件团伙敲诈而被定罪](https://blog.upx8.com/%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9B%A0%E5%8D%8F%E5%8A%A9%E5%8B%92%E7%B4%A2%E8%BD%AF%E4%BB%B6%E5%9B%A2%E4%BC%99%E6%95%B2%E8%AF%88%E8%80%8C%E8%A2%AB%E5%AE%9A%E7%BD%AA)
