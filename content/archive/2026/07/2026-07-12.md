@@ -6,9 +6,11 @@
   - [Metered Into a Ghost Town: Fable 5 Goes Pay-Per-Token and Everyone Defects to GPT-5.6 Sol](https://paddo.dev/blog/fable-5-metered-ghost-town/)
 - Hacker News Frontpage
   - [BLISS](https://en.wikipedia.org/wiki/BLISS)
+  - [How to Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
   - [Leaded Gas Was a Known Poison the Day It Was Invented (2016)](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/)
 - Sploitus.com Exploits RSS Feed
   - [a2tools exploit](https://sploitus.com/exploit?id=6E5AC2F7-892E-5664-BC1E-81D736D35DF4&utm_source=rss&utm_medium=rss)
+  - [cve-vulnerability-trend-analyzer exploit](https://sploitus.com/exploit?id=3C91A24A-B028-5B4D-BE7C-A8928C842D7A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-7275 exploit](https://sploitus.com/exploit?id=78361921-E1FF-5878-ADB0-633C41315170&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Apache Camel exploit](https://sploitus.com/exploit?id=B1CB42E4-A32C-5689-AD02-E709D96D7AAE&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=9265C4D0-7F77-5355-9FA0-48A00F9E811B&utm_source=rss&utm_medium=rss)
@@ -16,8 +18,11 @@
   - [Smart glasses without a camera? Even Realities bets productivity beats recording everyone](https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/)
 - The Decoder
   - [OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour](https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/)
+- The Verge
+  - [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger)
 - Vulners.com RSS Feed
   - [CVE-2026-10660](https://vulners.com/nvd/NVD:CVE-2026-10660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [cve-vulnerability-trend-analyzer](https://vulners.com/githubexploit/3C91A24A-B028-5B4D-BE7C-A8928C842D7A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-7275](https://vulners.com/githubexploit/78361921-E1FF-5878-ADB0-633C41315170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Apache Camel](https://vulners.com/githubexploit/B1CB42E4-A32C-5689-AD02-E709D96D7AAE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/9265C4D0-7F77-5355-9FA0-48A00F9E811B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
