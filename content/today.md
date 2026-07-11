@@ -3,8 +3,14 @@
 - 2Libra
   - [AI 时代，好多东西必然会变得越来越廉价！那么问题来了，什么新生事物会更加保值或增值？](https://2libra.com/post/social-observation/rWHMfgQ)
   - [【💰】二连紫卡，再来个金币池，这下不是吉米黑心池了](https://2libra.com/post/forum-function/nQIDGqj)
+  - [我发现一个用来检测 Agent + 模型能力的方法](https://2libra.com/post/tech-rumination/8JhUQuM)
+  - [我的头像有光环了吗](https://2libra.com/post/forum-function/3_7ZPBN)
   - [服务器升级完成了，各位看看是否有任何使用异常](https://2libra.com/post/forum-function/xdMpyUA)
   - [现在发帖时可以选择合集了以及可以选择是否停止播放自动 GIF 头像](https://2libra.com/post/update-logs/QMzrYWH)
+  - [还得是 RPG 让我能好好沉浸](https://2libra.com/post/game-discussion/5zemaWC)
+- 36氪
+  - [36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体](https://36kr.com/p/3889516712065799?f=rss)
+  - [美股三大指数集体收涨，SK海力士ADR上市首日涨超12%](https://36kr.com/newsflashes/3890531785652998?f=rss)
 - 404 Media
   - [AI Fiction Is Easy to Detect Because It's Stupid and Bad, Research Finds](https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/)
   - [Behind the Blog: The Promise of the Internet](https://www.404media.co/behind-the-blog-the-promise-of-the-internet/)
@@ -16,6 +22,7 @@
   - [VU#564823: GNU Wget enables SSRF via unvalidated FTP PASV IPs](https://kb.cert.org/vuls/id/564823)
 - daringfireball.net
   - [Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
+  - [John Ternus Calls Sam Altman](https://www.youtube.com/watch?v=ClASuxd8jQY)
 - darkreading
   - [Cybercriminals Flock to Healthcare Businesses as Attacks Surge](https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge)
 - Emergent Minds | paddo.dev
@@ -58,7 +65,9 @@
   - [Disney+ is considering a free streaming tier, report says](https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/)
   - [Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat](https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/)
   - [Meta removes controversial AI feature on Instagram after backlash](https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/)
+  - [Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn](https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/)
   - [SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs](https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/)
+  - [US cyber agency CISA had to build its incident playbook during the incident, agency reveals](https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/)
 - The Decoder
   - [OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity](https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/)
   - [OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a "fairly underspecified prompt"](https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/)
@@ -69,6 +78,7 @@
   - [ICE is threatening to deport witnesses of its latest shooting](https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo)
   - [Meta turns off the Instagram feature that let users make AI deepfakes of public accounts](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes)
   - [Netflix is turning into YouTube](https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast)
+  - [No, Flock isn&#8217;t threatening people for debating surveillance](https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter)
   - [Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street](https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut)
   - [The FCC is cracking down on DJI tech that dodged the foreign drone ban](https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab)
 - VulDB Recent Entries
@@ -95,6 +105,12 @@
   - [CVE-2026-13240 | Drupal Paragraphs up to 1.20.x Authorization authorization](https://vuldb.com/vuln/377688)
   - [CVE-2026-13241 | Drupal Paragraphs up to 1.21.0 authorization](https://vuldb.com/vuln/377691)
   - [CVE-2026-13242 | Drupal Geolocation Field up to 3.15.0 sql injection](https://vuldb.com/vuln/377690)
+  - [CVE-2026-13243 | Drupal Salesforce Suite up to 5.1.2 cross-site request forgery](https://vuldb.com/vuln/377701)
+  - [CVE-2026-15079 | Drupal Login Disable up to 2.1.3 login? excessive authentication](https://vuldb.com/vuln/377696)
+  - [CVE-2026-15080 | Drupal Ray Enterprise Translation up to 4.0.3/4.1.3/11.0.3 cross-site request forgery](https://vuldb.com/vuln/377697)
+  - [CVE-2026-15082 | Drupal Siteimprove Analytics up to 2.0.0 cross site scripting](https://vuldb.com/vuln/377698)
+  - [CVE-2026-15084 | Drupal up to 2.0.17 UI Patterns cross site scripting](https://vuldb.com/vuln/377699)
+  - [CVE-2026-15085 | Drupal AI SEO/GEO Analyzer up to 1.1.3 cross site scripting](https://vuldb.com/vuln/377700)
   - [CVE-2026-15086 | Drupal Raw Formatter Meta Tag Formatter Remote Code Execution](https://vuldb.com/vuln/377668)
   - [CVE-2026-15087 | Drupal Clean RESTful REST privilege escalation](https://vuldb.com/vuln/377669)
   - [CVE-2026-15089 | Drupal Commerce guest registration Remote Code Execution](https://vuldb.com/vuln/377666)
@@ -119,8 +135,11 @@
   - [CVE-2026-47199 | Frappe up to 15.107.x/16.18.2 SQL Query Validation check_safe_sql_query permission](https://vuldb.com/vuln/377655)
   - [CVE-2026-47422 | Frappe up to 6.18.1/15.107.4 Reportview permission](https://vuldb.com/vuln/377658)
   - [CVE-2026-48127 | Frappe up to 15.109.x/16.19.x API Endpoint privilege escalation](https://vuldb.com/vuln/377659)
+  - [CVE-2026-49213 | baptisteArno typebot.io up to 3.17.1 SSRF Validator validateHttpReqUrl.ts validateHttpReqUrl address server-side request forgery](https://vuldb.com/vuln/377711)
   - [CVE-2026-49394 | Frappe up to 16.18.x Workspace Manager authorization](https://vuldb.com/vuln/377660)
   - [CVE-2026-51119 | IXM Invixium IXM WEB 2.3.85.25 SystemUsers/CreateAppUser improper authentication](https://vuldb.com/vuln/377561)
+  - [CVE-2026-52747 | owasp-modsecurity ModSecurity up to 3.0.15 Request Body Parser multipart.cc cross site scripting](https://vuldb.com/vuln/377702)
+  - [CVE-2026-52761 | owasp-modsecurity ModSecurity up to 3.0.15 Transformation utf8_to_unicode.cc snprintf buffer overflow](https://vuldb.com/vuln/377707)
   - [CVE-2026-53363 | Linux Kernel xfrm iptfs_consume_frags buffer overflow](https://vuldb.com/vuln/377533)
   - [CVE-2026-53448 | coturn up to 4.11.x Admin Panel du/ds/dip injection](https://vuldb.com/vuln/377574)
   - [CVE-2026-53449 | Coturn up to 4.12.x CLI Command filename path traversal](https://vuldb.com/vuln/377578)
@@ -128,6 +147,7 @@
   - [CVE-2026-54063 | xuri excelize up to 2.10.x XLSX file checkSheet length denial of service](https://vuldb.com/vuln/377536)
   - [CVE-2026-54714 | logto-io logto up to 1.40.x SamlApplication utils.ts RelayState/SAMLResponse/actionurl cross site scripting](https://vuldb.com/vuln/377601)
   - [CVE-2026-55175 | Spinnaker up to 2025.3.3/2025.4.3/2026.0.2/2026.1.0 Kustomize Bake Operations code injection](https://vuldb.com/vuln/377664)
+  - [CVE-2026-55187 | axllent Link Check API up to 1.30.1 tools.IsInternalIP internal/tools/net.go safeDialContext {ID} access control](https://vuldb.com/vuln/377709)
   - [CVE-2026-55213 | h2o QPACK lib/http3/qpack.c alloca stack-based overflow](https://vuldb.com/vuln/377640)
   - [CVE-2026-55370 | logto-io Logto up to 1.40.x TOTP Verifier authentication replay](https://vuldb.com/vuln/377602)
   - [CVE-2026-55377 | logto-io logto up to 1.40.x Account Center Step-Up Check logto-verification-id improper authentication](https://vuldb.com/vuln/377603)
@@ -157,6 +177,12 @@
   - [CVE-2026-55781 | M2Team NanaZip up to 6.5.1742.0 UFS/FFS Image NanaZip.Codecs.Archive.Ufs.cpp memory allocation](https://vuldb.com/vuln/377556)
   - [CVE-2026-55783 | M2Team NanaZip up to 6.5.1748.0 IInArchive Extract Indices/NumItems null pointer dereference](https://vuldb.com/vuln/377557)
   - [CVE-2026-55789 | logto-io Logto up to 1.40.x SAML Response/Assertion Signing name/email/custom attribute-mapping values escape output](https://vuldb.com/vuln/377613)
+  - [CVE-2026-55803 | Drupal up to 11.3.11 Core injection](https://vuldb.com/vuln/377703)
+  - [CVE-2026-55804 | Drupal up to 11.3.11 injection](https://vuldb.com/vuln/377704)
+  - [CVE-2026-55806 | Drupal core up to 11.3.11 URL redirect](https://vuldb.com/vuln/377705)
+  - [CVE-2026-55807 | Drupal up to 11.3.11 Core server-side request forgery](https://vuldb.com/vuln/377708)
+  - [CVE-2026-55808 | Drupal up to 11.3.11 cross site scripting](https://vuldb.com/vuln/377710)
+  - [CVE-2026-55809 | Drupal Flag attendance field up to 1.2 Object attributes injection](https://vuldb.com/vuln/377706)
   - [CVE-2026-55827 | FreeRDP up to 3.27.0 RemoteFX Decoder gdi_Bitmap_Decompress out-of-bounds write](https://vuldb.com/vuln/377614)
   - [CVE-2026-55843 | grokability Snipe-IT up to 8.5.x Permission Management UsersController::update improper authorization](https://vuldb.com/vuln/377595)
   - [CVE-2026-55852 | Frappe up to 15.111.x/16.22.x Package Import stack-based overflow](https://vuldb.com/vuln/377656)
@@ -428,5 +454,7 @@
   - [现代环境让大脑不堪重负](https://www.solidot.org/story?sid=84803)
 - 安全客
   - [智能体面临的十大安全风险问题](https://www.anquanke.com/post/id/315781)
+- 爱范儿
+  - [早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光](https://www.ifanr.com/1671681?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [欧盟升级对Meta调查 旗下平台或面临罚款](https://blog.upx8.com/%E6%AC%A7%E7%9B%9F%E5%8D%87%E7%BA%A7%E5%AF%B9Meta%E8%B0%83%E6%9F%A5-%E6%97%97%E4%B8%8B%E5%B9%B3%E5%8F%B0%E6%88%96%E9%9D%A2%E4%B8%B4%E7%BD%9A%E6%AC%BE)
