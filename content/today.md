@@ -3,6 +3,7 @@
 - 2Libra
   - [AI 时代，好多东西必然会变得越来越廉价！那么问题来了，什么新生事物会更加保值或增值？](https://2libra.com/post/social-observation/rWHMfgQ)
   - [“巴威”要来了，打算下班去屯点物资](https://2libra.com/post/personal-life/D5VSpDG)
+  - [【慢讯】V2 爆恶意文件的严重安全漏洞，请所有用户立刻升级！](https://2libra.com/post/network-security/JjxaibP)
   - [【💰】二连紫卡，再来个金币池，这下不是吉米黑心池了](https://2libra.com/post/forum-function/nQIDGqj)
   - [巴威后面这个大家伙是什么](https://2libra.com/post/questions/qz0i_k1)
   - [开了 B 站大会员的都看什么](https://2libra.com/post/movie-sharing/OW7FqJ1)
@@ -107,6 +108,7 @@
   - [New York City to become first in US to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
   - [Snails' Teeth Beats Spider Silk as Nature's Strongest Material](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/)
   - [SpaceX wants to launch 100k more Starlink satellites – for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/)
+  - [Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf)
   - [What's the best way to do authentication in modern applications](https://neciudan.dev/most-secure-way-to-store-auth-token)
 - IEEE Spectrum
   - [IEEE Remembers Pioneering Computer Scientist Peter G. Neumann](https://spectrum.ieee.org/ieee-remembers-peter-g-neumann)
@@ -124,6 +126,8 @@
   - [ethical-hacking-labs exploit](https://sploitus.com/exploit?id=8BFD3BD2-B4FA-52E2-AA2F-CF7D0597D05B&utm_source=rss&utm_medium=rss)
   - [Exploit for Classic Buffer Overflow in Freefloat Freefloat_Ftp_Server exploit](https://sploitus.com/exploit?id=9EA64E33-B29A-5BBD-8283-B30AA64E42EB&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2024-13985 exploit](https://sploitus.com/exploit?id=C39C5977-D322-54D2-9B0F-D997C82C40B1&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-0740 exploit](https://sploitus.com/exploit?id=65CA704B-9B8F-5E39-B193-A5966DAE5F2A&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-14894 exploit](https://sploitus.com/exploit?id=ED9BCDF7-AF28-577D-BF6D-43E2548BC780&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-15282 exploit](https://sploitus.com/exploit?id=68735ADF-6936-5214-B6B6-0391E83FB363&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-29114 exploit](https://sploitus.com/exploit?id=E9720D7A-AA59-5444-9627-AEFF0E031CDA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-29115 exploit](https://sploitus.com/exploit?id=051FFBEE-24F6-52B4-845D-14694CF4C46B&utm_source=rss&utm_medium=rss)
@@ -660,6 +664,7 @@
   - [ethical-hacking-labs](https://vulners.com/githubexploit/8BFD3BD2-B4FA-52E2-AA2F-CF7D0597D05B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Classic Buffer Overflow in Freefloat Freefloat_Ftp_Server](https://vulners.com/githubexploit/9EA64E33-B29A-5BBD-8283-B30AA64E42EB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2024-13985](https://vulners.com/githubexploit/C39C5977-D322-54D2-9B0F-D997C82C40B1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-0740](https://vulners.com/githubexploit/65CA704B-9B8F-5E39-B193-A5966DAE5F2A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-15282](https://vulners.com/githubexploit/68735ADF-6936-5214-B6B6-0391E83FB363?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-29114](https://vulners.com/githubexploit/E9720D7A-AA59-5444-9627-AEFF0E031CDA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-29115](https://vulners.com/githubexploit/051FFBEE-24F6-52B4-845D-14694CF4C46B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
