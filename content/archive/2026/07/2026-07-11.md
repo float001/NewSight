@@ -4,13 +4,24 @@
   - [AI 时代，好多东西必然会变得越来越廉价！那么问题来了，什么新生事物会更加保值或增值？](https://2libra.com/post/social-observation/rWHMfgQ)
   - [【💰】二连紫卡，再来个金币池，这下不是吉米黑心池了](https://2libra.com/post/forum-function/nQIDGqj)
   - [我发现一个用来检测 Agent + 模型能力的方法](https://2libra.com/post/tech-rumination/8JhUQuM)
+  - [我是不是第一个有这个潘多拉的！！](https://2libra.com/post/forum-function/pFEAnPE)
   - [我的头像有光环了吗](https://2libra.com/post/forum-function/3_7ZPBN)
   - [服务器升级完成了，各位看看是否有任何使用异常](https://2libra.com/post/forum-function/xdMpyUA)
   - [现在发帖时可以选择合集了以及可以选择是否停止播放自动 GIF 头像](https://2libra.com/post/update-logs/QMzrYWH)
   - [还得是 RPG 让我能好好沉浸](https://2libra.com/post/game-discussion/5zemaWC)
 - 36氪
   - [36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体](https://36kr.com/p/3889516712065799?f=rss)
+  - [9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体](https://36kr.com/p/3890553690192384?f=rss)
+  - [Elliott据悉已成为软件公司CCC的大额投资方‌](https://36kr.com/newsflashes/3890534495795972?f=rss)
+  - [OpenAI安全系统负责人据悉将离职](https://36kr.com/newsflashes/3890587147238152?f=rss)
+  - [SK海力士CEO：美国在未来晶圆厂选址候选名单中，尚未做出决定](https://36kr.com/newsflashes/3890532827052804?f=rss)
+  - [三菱汽车将量产人形机器人，未来或考虑对外销售](https://36kr.com/newsflashes/3890533170248454?f=rss)
+  - [亚马逊与InterDigital的诉讼因视频专利授权协议暂停审理](https://36kr.com/newsflashes/3890548721924612?f=rss)
+  - [六氟磷酸锂需求旺盛，行业盈利能力显著提升](https://36kr.com/newsflashes/3890586419788289?f=rss)
+  - [淘宝闪购骑士制服获法国设计奖，为该奖首次授予劳动职业制服](https://36kr.com/newsflashes/3890549567159048?f=rss)
   - [美股三大指数集体收涨，SK海力士ADR上市首日涨超12%](https://36kr.com/newsflashes/3890531785652998?f=rss)
+  - [遭连日舆论抨击后，Meta暂停AI图像生成功能](https://36kr.com/newsflashes/3890535190444553?f=rss)
+  - [马斯克据悉要求特斯拉员工转向使用Grok](https://36kr.com/newsflashes/3890551915411972?f=rss)
 - 404 Media
   - [AI Fiction Is Easy to Detect Because It's Stupid and Bad, Research Finds](https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/)
   - [Behind the Blog: The Promise of the Internet](https://www.404media.co/behind-the-blog-the-promise-of-the-internet/)
@@ -18,13 +29,21 @@
   - [China recovered its first reusable rocket and showed a new way to do it](https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/)
 - Blog - Praetorian
   - [Bluetooth Low Energy Security Testing, Consolidated: Introducing Caeruleus](https://www.praetorian.com/blog/ble-testing-caeruleus/)
+- Bruce's Blog
+  - [Seedance 2.0 Prompt Guide: Best Practices & Failure Modes](http://www.heyuan110.com/posts/ai/2026-07-11-seedance-2-prompt-guide/)
 - CERT Recently Published Vulnerability Notes
   - [VU#564823: GNU Wget enables SSRF via unvalidated FTP PASV IPs](https://kb.cert.org/vuls/id/564823)
+- Cybersecurity News
+  - [Apache IoTDB Fixes Path Traversal and Authentication Bypass Flaws (CVE-2026-24014)](https://securityonline.info/apache-iotdb-vulnerabilities/)
+  - [Silver Fox Ghost Distributor Delivers MODBEACON Trojan to Chosen Targets](https://securityonline.info/silver-fox-modbeacon/)
 - daringfireball.net
   - [Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
   - [John Ternus Calls Sam Altman](https://www.youtube.com/watch?v=ClASuxd8jQY)
+  - [Squircle Jail Isn’t (Or at Least Shouldn’t Be) About Upcoming Touchscreen Macs](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander)
 - darkreading
   - [Cybercriminals Flock to Healthcare Businesses as Attacks Surge](https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge)
+- eli.thegreenplace.net
+  - [Dot product: Component vs. Geometric definition](https://eli.thegreenplace.net/2026/dot-product-component-vs-geometric-definition/)
 - Emergent Minds | paddo.dev
   - [The Dial Next to the Meter: Stretching Claude Fable 5 Credits with Effort Levels](https://paddo.dev/blog/fable-5-effort-levels/)
   - [The Like-for-Like Trap: How Vendor Lock-In Survives a Platform Migration](https://paddo.dev/blog/like-for-like-trap/)
@@ -50,10 +69,12 @@
 - Sploitus.com Exploits RSS Feed
   - [Apollo_Ultra_Agent exploit](https://sploitus.com/exploit?id=AA83F106-40C9-5260-9353-421C1DDF86E5&utm_source=rss&utm_medium=rss)
   - [Code_alpha_secure_vault exploit](https://sploitus.com/exploit?id=CF65A735-E3C1-5A24-AEA6-778438128636&utm_source=rss&utm_medium=rss)
+  - [ethical-hacking-labs exploit](https://sploitus.com/exploit?id=8BFD3BD2-B4FA-52E2-AA2F-CF7D0597D05B&utm_source=rss&utm_medium=rss)
   - [Exploit for Classic Buffer Overflow in Freefloat Freefloat_Ftp_Server exploit](https://sploitus.com/exploit?id=9EA64E33-B29A-5BBD-8283-B30AA64E42EB&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Input Validation in Motioneye_Project Motioneye exploit](https://sploitus.com/exploit?id=DBDF3A59-16BD-5601-8FB5-18D75DA21EC7&utm_source=rss&utm_medium=rss)
   - [Rambert exploit](https://sploitus.com/exploit?id=4486B82C-43DF-537A-B02D-189F4B1D03A9&utm_source=rss&utm_medium=rss)
   - [SafeVault exploit](https://sploitus.com/exploit?id=090923AF-6D8A-5AFA-9AFD-82B08520323E&utm_source=rss&utm_medium=rss)
+  - [U-Boot-btrfs-oob exploit](https://sploitus.com/exploit?id=07CB3C0E-3727-5A6A-A302-92F9CE87C26E&utm_source=rss&utm_medium=rss)
   - [vuln-tracker exploit](https://sploitus.com/exploit?id=2F9CCB5A-E75E-5DB9-B677-4B38B6EB0A12&utm_source=rss&utm_medium=rss)
   - [xpad2-ionstack-poc exploit](https://sploitus.com/exploit?id=F0E1B0B7-0829-5F99-B52A-C5F2F16041FC&utm_source=rss&utm_medium=rss)
   - [XSS exploit](https://sploitus.com/exploit?id=D737B242-2F32-59B4-B17F-BB9961516191&utm_source=rss&utm_medium=rss)
@@ -188,6 +209,9 @@
   - [CVE-2026-55852 | Frappe up to 15.111.x/16.22.x Package Import stack-based overflow](https://vuldb.com/vuln/377656)
   - [CVE-2026-55879 | OpenReplay up to 1.24.0 Tracking SDK encoding error](https://vuldb.com/vuln/377643)
   - [CVE-2026-55880 | OpenReplay up to 1.27.0 Dashboard/Note Mutation authentication replay](https://vuldb.com/vuln/377641)
+  - [CVE-2026-55882 | tilt-dev Tilt up to 0.37.3 pprof net/http/pprof Handle access control](https://vuldb.com/vuln/377716)
+  - [CVE-2026-55883 | tilt-dev Tilt up to 0.37.3 WebSocket Upgrader /ws/view upgradeWebSocket Origin cross-site request forgery](https://vuldb.com/vuln/377720)
+  - [CVE-2026-55884 | tilt-dev Tilt up to 0.37.3 HUD HTTP Server infinite loop](https://vuldb.com/vuln/377714)
   - [CVE-2026-56664 | ZITADEL up to 3.4.11/4.15.1 External JWT Identity Provider session.go iat improper authentication](https://vuldb.com/vuln/377565)
   - [CVE-2026-56665 | ZITADEL up to 3.4.11/4.15.1 External JWT Identity Provider session.go exp deserialization](https://vuldb.com/vuln/377566)
   - [CVE-2026-56666 | ZITADEL up to 4.15.2 External Identity Provider improper authentication](https://vuldb.com/vuln/377573)
@@ -214,6 +238,11 @@
   - [CVE-2026-58492 | getgrav Grav up to 1.1.x Database Plugin PDO::tableExists table sql injection](https://vuldb.com/vuln/377551)
   - [CVE-2026-58493 | getgrav up to 1.1.x Database Plugin __call path traversal](https://vuldb.com/vuln/377552)
   - [CVE-2026-58503 | Frappe up to 15.105.x/16.15.x Reset Password Endpoint reset_password User information disclosure](https://vuldb.com/vuln/377662)
+  - [CVE-2026-58587 | Drupal Canvas up to 1.4.1/1.5.1/1.6.0/1.7.0 cross site scripting](https://vuldb.com/vuln/377717)
+  - [CVE-2026-58588 | Drupal Canvas up to 1.4.1/1.5.1/1.6.0/1.7.0 cross site scripting](https://vuldb.com/vuln/377718)
+  - [CVE-2026-58589 | Drupal FlowDrop up to 1.5.x Authorization authorization](https://vuldb.com/vuln/377715)
+  - [CVE-2026-58590 | Drupal FlowDrop up to 1.6.0 Authorization authorization](https://vuldb.com/vuln/377721)
+  - [CVE-2026-58591 | Drupal Colorbox up to 2.2.0 cross site scripting](https://vuldb.com/vuln/377719)
   - [CVE-2026-59151 | prowler-cloud Prowler up to 5.30.2 SAML Authentication Flow views.py email assertion](https://vuldb.com/vuln/377579)
   - [CVE-2026-59180 | caronc Apprise up to 1.10.x HTTP Attachment/Config Loader http.py redirect](https://vuldb.com/vuln/377550)
   - [CVE-2026-61459 | Flux159 MCP Server Kubernetes up to 3.8.x Argument Parser resourceType/name argument injection](https://vuldb.com/vuln/377596)
@@ -432,6 +461,7 @@
   - [CVE-2026-8595](https://vulners.com/nvd/NVD:CVE-2026-8595?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8609](https://vulners.com/nvd/NVD:CVE-2026-8609?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9726](https://vulners.com/nvd/NVD:CVE-2026-9726?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ethical-hacking-labs](https://vulners.com/githubexploit/8BFD3BD2-B4FA-52E2-AA2F-CF7D0597D05B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Classic Buffer Overflow in Freefloat Freefloat_Ftp_Server](https://vulners.com/githubexploit/9EA64E33-B29A-5BBD-8283-B30AA64E42EB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-836R-79RF-4M37 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-836R-79RF-4M37?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-9VCR-P3RJ-Q5Q6 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-9VCR-P3RJ-Q5Q6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -448,6 +478,9 @@
   - [Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets](https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/)
   - [Meet the Battery Startup Taking on China’s Giants](https://www.wired.com/story/prologium-battery-startup-betting-against-china/)
   - [Microsoft Reports a Massive 25 Percent Jump in Emissions](https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/)
+  - [OpenAI’s Head of Safety Is Leaving the Company](https://www.wired.com/story/openai-head-of-safety-leaving/)
+- 不安全
+  - [AI Blogging From Inside Vim](https://buaq.net/go-428236.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
@@ -457,4 +490,5 @@
 - 爱范儿
   - [早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光](https://www.ifanr.com/1671681?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [中国成功实施重复使用运载火箭回收任务](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%AE%9E%E6%96%BD%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E4%BB%BB%E5%8A%A1)
   - [欧盟升级对Meta调查 旗下平台或面临罚款](https://blog.upx8.com/%E6%AC%A7%E7%9B%9F%E5%8D%87%E7%BA%A7%E5%AF%B9Meta%E8%B0%83%E6%9F%A5-%E6%97%97%E4%B8%8B%E5%B9%B3%E5%8F%B0%E6%88%96%E9%9D%A2%E4%B8%B4%E7%BD%9A%E6%AC%BE)
