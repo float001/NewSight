@@ -75,6 +75,7 @@
 - defend.network
   - [npm supply-chain attacks: jscrambler infostealer, Injective wallet theft, Zimbra RCE](https://defend.network/briefings/jscrambler-zimbra-injective-npm-supply-chain-2026-07-12.html)
 - Emergent Minds | paddo.dev
+  - [Bring Your Own Model: Claude Code on a ChatGPT Subscription, and the Lock-In That Isn't](https://paddo.dev/blog/bring-your-own-model/)
   - [Metered Into a Ghost Town: Fable 5 Goes Pay-Per-Token and Everyone Defects to GPT-5.6 Sol](https://paddo.dev/blog/fable-5-metered-ghost-town/)
 - Hacker News Frontpage
   - [BLISS](https://en.wikipedia.org/wiki/BLISS)
@@ -84,6 +85,7 @@
   - [How to Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
   - [IT administrators are "fed up" with Microsoft's "useless" apps and Windows 11](https://www.neowin.net/news/it-admins-feel-overwhelmingly-sick-of-microsoft-and-windows-11-garbage-apps-products/)
   - [Leaded Gas Was a Known Poison the Day It Was Invented (2016)](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/)
+  - [Making Crash Bandicoot (2011)](https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/)
   - [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
   - [Oh dear, did someone steal something from Apple?](https://www.businessinsider.com/apple-openai-trade-secrets-masimo-a123-jony-ive-2026-7)
   - [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
@@ -142,6 +144,7 @@
 - The Verge
   - [After years of teasing, the viral Nopia synth is ‘basically finished’](https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo)
   - [Blue Prince became a bonding — and learning — experience for my family](https://www.theverge.com/games/964262/blue-prince-family-bonding)
+  - [Less is more with the Oura Ring 5](https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables)
   - [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger)
   - [The fight against AI data centers is just beginning](https://www.theverge.com/column/963346/ai-data-centers-fight)
 - VulDB Recent Entries
@@ -264,8 +267,12 @@
   - [CVE-2026-15498](https://vulners.com/nvd/NVD:CVE-2026-15498?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15499](https://vulners.com/nvd/NVD:CVE-2026-15499?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15500](https://vulners.com/nvd/NVD:CVE-2026-15500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15501](https://vulners.com/circl/CIRCL:CVE-2026-15501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15501](https://vulners.com/nvd/NVD:CVE-2026-15501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15501 AstrBotDevs AstrBot MCP Test Endpoint tools.py ToolsRoute.test_mcp_connection server-side request forgery](https://vulners.com/cve/CVE-2026-15501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15501 AstrBotDevs AstrBot MCP Test Endpoint tools.py ToolsRoute.test_mcp_connection server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-15501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15502](https://vulners.com/circl/CIRCL:CVE-2026-15502?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15502](https://vulners.com/nvd/NVD:CVE-2026-15502?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54174 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-54174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54174 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-54174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56238](https://vulners.com/nvd/NVD:CVE-2026-56238?utm_source=rss&utm_medium=rss&utm_campaign=rss)
