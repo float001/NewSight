@@ -5,6 +5,8 @@
 - daringfireball.net
   - [Lunacy — Jeff Halter’s Lunatic Fringe Player](https://morphing.cloud/lunacy/)
   - [Sam Altman and Elon Musk Argue Over Who’s Running the Bigger Scam](https://x.com/sama/status/2075982617976230043)
+- Hacker News Frontpage
+  - [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
 - HackerNoon
   - [I Compiled 55 Days of Screen Activity Into Episodic Memory for My AI Agent](https://hackernoon.com/i-compiled-55-days-of-screen-activity-into-episodic-memory-for-my-ai-agent?source=rss)
 - johndcook.com
@@ -12,10 +14,17 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Code Injection in Apache Nifi exploit](https://sploitus.com/exploit?id=14748680-800D-5A5B-8F0A-8FAAA6421030&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Apache Tomcat exploit](https://sploitus.com/exploit?id=CEA2DCF2-7958-513E-B0A6-E43A1A827610&utm_source=rss&utm_medium=rss)
+  - [kang-lab-starter-task exploit](https://sploitus.com/exploit?id=F9E3D8FD-FB87-50DD-8B68-34372B55894A&utm_source=rss&utm_medium=rss)
 - The Verge
   - [Apple’s failed self-driving car program left a legacy of powerful AI chips](https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra)
 - VulDB Recent Entries
   - [CVE-2026-15533 | DedeCMS 5.7.118 Column Management /plus/search.php Column Name code injection](https://vuldb.com/vuln/377878)
+  - [CVE-2026-15538 | primefaces primereact up to 10.9.8 API ObjectUtils.mutateFieldData Field prototype pollution (Issue 8553)](https://vuldb.com/vuln/377888)
+  - [CVE-2026-15539 | SourceCodester Online Book Store System 1.0 Book Image Upload Feature index.php?page=books unrestricted upload](https://vuldb.com/vuln/377889)
+  - [CVE-2026-15540 | SourceCodester Online Book Store System 1.0 Administrative Interface /admin/index.php page php file inclusion](https://vuldb.com/vuln/377890)
+  - [CVE-2026-15541 | will-moss Isaiah up to 1.36.9 Master Websocket server.go Server.Handle Agent authorization (Issue 34)](https://vuldb.com/vuln/377891)
+  - [CVE-2026-15542 | will-moss Isaiah up to 1.36.9 Websocket Connection Authentication app/main.go improper authentication (Issue 33)](https://vuldb.com/vuln/377892)
+  - [CVE-2026-15543 | Tenda CH22 1.0.0.1 /goform/CertListInfo formCertListInfo Name buffer overflow](https://vuldb.com/vuln/377893)
 - Vulners.com RSS Feed
   - [CVE-2026-10663](https://vulners.com/nvd/NVD:CVE-2026-10663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10663 Use-after-free / double-free of the root USB device in the experimental USB host stack](https://vulners.com/cve/CVE-2026-10663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -37,5 +46,6 @@
   - [CVE-2026-10668 Host-triggerable control-endpoint wedge (DoS) in Nuvoton NuMaker HSUSBD UDC driver](https://vulners.com/cvelist/CVELIST:CVE-2026-10668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58596](https://vulners.com/nvd/NVD:CVE-2026-58596?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Apache Nifi](https://vulners.com/githubexploit/14748680-800D-5A5B-8F0A-8FAAA6421030?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kang-lab-starter-task](https://vulners.com/githubexploit/F9E3D8FD-FB87-50DD-8B68-34372B55894A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
