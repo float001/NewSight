@@ -6,12 +6,15 @@
   - [有什么好玩的手机小游戏推荐](https://2libra.com/post/game-share/pbBIkOz)
   - [闪闪光环! 解锁新的潘多拉事件了](https://2libra.com/post/forum-function/mtRljAC)
 - 36氪
+  - [1000℃烧透不变形徒手可拿，中国隔热材料跻身世界第一梯队](https://36kr.com/newsflashes/3892203912608517?f=rss)
+  - [BilibiliWorld三天吸引40万人次](https://36kr.com/newsflashes/3892183652039176?f=rss)
   - [Meta紧急下线争议AI生图功能](https://36kr.com/newsflashes/3891995047033351?f=rss)
   - [SK海力士预计HBM价格2027年实现翻倍](https://36kr.com/newsflashes/3892093059873544?f=rss)
   - [一根登山杖撬动10亿元大市场，超级赛道迎万亿元商机](https://36kr.com/newsflashes/3892127609780743?f=rss)
   - [三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年](https://36kr.com/newsflashes/3892091542288904?f=rss)
   - [上半年高频数据折射我国经济稳中向优](https://36kr.com/newsflashes/3892125069130504?f=rss)
   - [上周154家上市公司披露机构投资者调研纪要，华盛昌迎超120家机构调研](https://36kr.com/newsflashes/3892020306279171?f=rss)
+  - [全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型](https://36kr.com/p/3892222176574211?f=rss)
   - [分析：SK海力士在美融资265亿美元，有望缓解韩汇市压力](https://36kr.com/newsflashes/3892129094679049?f=rss)
   - [受“巴威”影响，上海两机场计划取消航班653架次](https://36kr.com/newsflashes/3891935751649796?f=rss)
   - [小米回应网传澎程价格](https://36kr.com/newsflashes/3892013026195969?f=rss)
@@ -24,6 +27,7 @@
   - [这个周末，科技投资人都得飞一趟成都](https://36kr.com/p/3892096788396806?f=rss)
   - [银河证券A股策略：建议以业绩为锚，在波动中把握结构性机会](https://36kr.com/newsflashes/3892124086958857?f=rss)
   - [长存IPO辅导团队公布，中信证券与中信建投合计31人组成](https://36kr.com/newsflashes/3891936699808512?f=rss)
+  - [面对用电高峰，我国供电保障能力再提升](https://36kr.com/newsflashes/3892132453317121?f=rss)
   - [韩国股指年内大涨八成估值却创低位，机构称存储板块仍具备配置价值](https://36kr.com/newsflashes/3891939054598920?f=rss)
   - [马斯克：下一次星舰发射计划于周四进行](https://36kr.com/newsflashes/3891995350629120?f=rss)
 - Bruce's Blog
@@ -79,6 +83,7 @@
   - [After years of teasing, the viral Nopia synth is ‘basically finished’](https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo)
   - [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger)
 - VulDB Recent Entries
+  - [CVE-2026-15505 | vnotex vnote up to 3.20.1 YAML Frontmatter markdownit.js p_metaData cross site scripting](https://vuldb.com/vuln/377834)
   - [CVE-2026-54071 | BabelDOC prior 0.6.3 cmapdb.py deserialization](https://vuldb.com/vuln/377833)
   - [CVE-2026-58281 | Microsoft Edge up to 149.0.4022.68 deserialization](https://vuldb.com/vuln/377832)
 - Vulners.com RSS Feed
@@ -144,6 +149,8 @@
   - [CVE-2026-15475 MiniTool Partition Wizard Signed Kernel Driver pwdrvio.sys access control](https://vulners.com/cve/CVE-2026-15475?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15475 MiniTool Partition Wizard Signed Kernel Driver pwdrvio.sys access control](https://vulners.com/cvelist/CVELIST:CVE-2026-15475?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15476](https://vulners.com/nvd/NVD:CVE-2026-15476?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15477](https://vulners.com/nvd/NVD:CVE-2026-15477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15478](https://vulners.com/nvd/NVD:CVE-2026-15478?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54174 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-54174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54174 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-54174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58281](https://vulners.com/nvd/NVD:CVE-2026-58281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -172,3 +179,4 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
   - [FCC打击规避外国无人机禁令的白手套公司](https://blog.upx8.com/FCC%E6%89%93%E5%87%BB%E8%A7%84%E9%81%BF%E5%A4%96%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A6%81%E4%BB%A4%E7%9A%84%E7%99%BD%E6%89%8B%E5%A5%97%E5%85%AC%E5%8F%B8)
+  - [日本三大车商上半年在华新车销量均下滑](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E4%B8%89%E5%A4%A7%E8%BD%A6%E5%95%86%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9C%A8%E5%8D%8E%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E5%9D%87%E4%B8%8B%E6%BB%91)
