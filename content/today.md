@@ -12,13 +12,16 @@
   - [SK海力士预计HBM价格2027年实现翻倍](https://36kr.com/newsflashes/3892093059873544?f=rss)
   - [一根登山杖撬动10亿元大市场，超级赛道迎万亿元商机](https://36kr.com/newsflashes/3892127609780743?f=rss)
   - [三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年](https://36kr.com/newsflashes/3892091542288904?f=rss)
+  - [上半年中国创新药对外授权规模接近去年全年](https://36kr.com/newsflashes/3892239437756932?f=rss)
   - [上半年高频数据折射我国经济稳中向优](https://36kr.com/newsflashes/3892125069130504?f=rss)
   - [上周154家上市公司披露机构投资者调研纪要，华盛昌迎超120家机构调研](https://36kr.com/newsflashes/3892020306279171?f=rss)
   - [全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型](https://36kr.com/p/3892222176574211?f=rss)
   - [分析：SK海力士在美融资265亿美元，有望缓解韩汇市压力](https://36kr.com/newsflashes/3892129094679049?f=rss)
+  - [南向资金上周大幅净买入，智谱获超百亿港元资金加仓](https://36kr.com/newsflashes/3892241561238280?f=rss)
   - [受“巴威”影响，上海两机场计划取消航班653架次](https://36kr.com/newsflashes/3891935751649796?f=rss)
   - [小米回应网传澎程价格](https://36kr.com/newsflashes/3892013026195969?f=rss)
   - [年内退出134家，村镇银行改革持续加速](https://36kr.com/newsflashes/3891937180400135?f=rss)
+  - [日本将推动其巨额养老基金增加另类资产配置](https://36kr.com/newsflashes/3892240984668937?f=rss)
   - [机构：到2029年中国国内算力卡采购额将达到1.44万亿元，将诞生多家市值万亿甚至十万亿的上市企业](https://36kr.com/newsflashes/3891934990744327?f=rss)
   - [热浪持续侵袭欧洲，巴黎多处地标缩短开放时间](https://36kr.com/newsflashes/3892128423672325?f=rss)
   - [电影《功夫女足》票房突破3亿](https://36kr.com/newsflashes/3892019467909639?f=rss)
@@ -38,6 +41,8 @@
   - [Gurman on Tang Tan and Paul Meade](https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple)
   - [OpenAI Help Center Describes What Is Wrong With the New ChatGPT](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)
   - [★ Exactly Like Om Malik](https://daringfireball.net/2026/07/exactly_like_om_malik)
+- defend.network
+  - [npm supply-chain attacks: jscrambler infostealer, Injective wallet theft, Zimbra RCE](https://defend.network/briefings/jscrambler-zimbra-injective-npm-supply-chain-2026-07-12.html)
 - Emergent Minds | paddo.dev
   - [Metered Into a Ghost Town: Fable 5 Goes Pay-Per-Token and Everyone Defects to GPT-5.6 Sol](https://paddo.dev/blog/fable-5-metered-ghost-town/)
 - Hacker News Frontpage
@@ -60,6 +65,8 @@
   - [Install Elasticsearch on Ubuntu 18.04: Setup and Config Guide](https://kalilinuxtutorials.com/install-elasticsearch-ubuntu-2/)
   - [Install Flask on Ubuntu 18.04: venv Setup and Hello World App](https://kalilinuxtutorials.com/install-flask-ubuntu-2/)
   - [Install Gogs on Ubuntu 18.04: Self-Hosted Git Server Setup Guide](https://kalilinuxtutorials.com/install-gogs-ubuntu/)
+- MaskRay
+  - [Irreducible loops](https://maskray.me/blog/2026-07-12-irreducible-loops)
 - Sploitus.com Exploits RSS Feed
   - [a2tools exploit](https://sploitus.com/exploit?id=6E5AC2F7-892E-5664-BC1E-81D736D35DF4&utm_source=rss&utm_medium=rss)
   - [Cube-TempRoot exploit](https://sploitus.com/exploit?id=9298B3CC-CF17-56D9-939B-F2479B4E168A&utm_source=rss&utm_medium=rss)
@@ -84,6 +91,9 @@
   - [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger)
 - VulDB Recent Entries
   - [CVE-2026-15505 | vnotex vnote up to 3.20.1 YAML Frontmatter markdownit.js p_metaData cross site scripting](https://vuldb.com/vuln/377834)
+  - [CVE-2026-15512 | pig-mesh Pig up to 3.9.2 pig-codegen GeneratorServiceImpl.java code injection](https://vuldb.com/vuln/377841)
+  - [CVE-2026-15513 | Wavlink WL-NU516U1 260515 /cgi-bin/adm.cgi wlink_uci_set_value lan_ip os command injection](https://vuldb.com/vuln/377842)
+  - [CVE-2026-15514 | Metasoft 美特软件 MetaCRM up to 6.4.0 Beta06 PHPRPC Remote Call Interface /customizemt/xkq/rpc.jsp RPCService.query phprpc_args sql injection](https://vuldb.com/vuln/377843)
   - [CVE-2026-54071 | BabelDOC prior 0.6.3 cmapdb.py deserialization](https://vuldb.com/vuln/377833)
   - [CVE-2026-58281 | Microsoft Edge up to 149.0.4022.68 deserialization](https://vuldb.com/vuln/377832)
 - Vulners.com RSS Feed
@@ -151,6 +161,9 @@
   - [CVE-2026-15476](https://vulners.com/nvd/NVD:CVE-2026-15476?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15477](https://vulners.com/nvd/NVD:CVE-2026-15477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15478](https://vulners.com/nvd/NVD:CVE-2026-15478?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15479](https://vulners.com/nvd/NVD:CVE-2026-15479?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15480](https://vulners.com/nvd/NVD:CVE-2026-15480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15481](https://vulners.com/nvd/NVD:CVE-2026-15481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54174 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-54174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54174 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-54174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58281](https://vulners.com/nvd/NVD:CVE-2026-58281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
