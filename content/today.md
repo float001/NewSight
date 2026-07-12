@@ -135,6 +135,7 @@
   - [This slushie machine was a lifesaver during NYC’s heat wave](https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/)
 - The Decoder
   - [AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory](https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/)
+  - [Claude Code now has a built-in browser that lets the AI read, click, and type on external websites](https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/)
   - [Claude Cowork's biggest use case is the mundane office work nobody wants to own, Anthropic says](https://the-decoder.com/claude-coworks-biggest-use-case-is-the-mundane-office-work-nobody-wants-to-own-anthropic-says/)
   - [Grades dropped from 96 to 48 percent when a Brown professor made students take the exam without AI](https://the-decoder.com/grades-dropped-from-96-to-48-percent-when-a-brown-professor-made-students-take-the-exam-without-ai/)
   - [Meta kills Muse Image feature that let anyone generate AI photos of Instagram users without consent](https://the-decoder.com/meta-kills-muse-image-feature-that-let-anyone-generate-ai-photos-of-instagram-users-without-consent/)
@@ -144,7 +145,9 @@
 - The Verge
   - [After years of teasing, the viral Nopia synth is ‘basically finished’](https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo)
   - [Blue Prince became a bonding — and learning — experience for my family](https://www.theverge.com/games/964262/blue-prince-family-bonding)
+  - [How Philips Hue got the smart home right](https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history)
   - [Less is more with the Oura Ring 5](https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables)
+  - [One of SteelSeries&#8217; best gaming headsets is over $100 off](https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale)
   - [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger)
   - [The fight against AI data centers is just beginning](https://www.theverge.com/column/963346/ai-data-centers-fight)
 - VulDB Recent Entries
@@ -322,6 +325,8 @@
   - [Here’s How Apple Is Updating Its Child Safety Features in iOS 27](https://www.wired.com/story/apple-child-safety-ios-27/)
   - [Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides](https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/)
   - [The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame](https://www.wired.com/story/best-pool-cleaning-robots/)
+- 不安全
+  - [Irreducible loops](https://buaq.net/go-428375.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
