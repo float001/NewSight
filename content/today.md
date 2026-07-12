@@ -6,18 +6,23 @@
 - daringfireball.net
   - [How UIs Degrade Over Time](https://grumpy.website/1723)
   - [Lunacy — Jeff Halter’s Lunatic Fringe Player](https://morphing.cloud/lunacy/)
+  - [Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’](https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/)
   - [Sam Altman and Elon Musk Argue Over Who’s Running the Bigger Scam](https://x.com/sama/status/2075982617976230043)
   - [‘Every Frame Perfect’](https://tonsky.me/blog/every-frame-perfect/)
 - Hacker News Frontpage
   - ["Stop Cutting Down Flock Cameras " (Mass Surveillance Is Good) [video]](https://www.youtube.com/watch?v=su-Ce4PlNz0)
   - [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
   - [Irish datacenters now guzzle 23% of the country's electricity](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013)
+  - [Show HN: Adaptive Recall, persistent memory for AI assistants over MCP](https://www.adaptiverecall.com/)
+  - [Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
   - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
 - HackerNoon
   - [I Compiled 55 Days of Screen Activity Into Episodic Memory for My AI Agent](https://hackernoon.com/i-compiled-55-days-of-screen-activity-into-episodic-memory-for-my-ai-agent?source=rss)
 - johndcook.com
   - [Posterior mean](https://www.johndcook.com/blog/2026/07/12/posterior-mean/)
   - [Posterior variance](https://www.johndcook.com/blog/2026/07/12/posterior-variance/)
+- simonwillison.net
+  - [Fable gets another bump](https://simonwillison.net/2026/Jul/12/bump/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Code Injection in Apache Nifi exploit](https://sploitus.com/exploit?id=14748680-800D-5A5B-8F0A-8FAAA6421030&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Control of Dynamically-Managed Code Resources in Vm2_Project Vm2 exploit](https://sploitus.com/exploit?id=D910CF67-6452-5314-B071-29CF3693F122&utm_source=rss&utm_medium=rss)
@@ -37,6 +42,11 @@
   - [CVE-2026-15541 | will-moss Isaiah up to 1.36.9 Master Websocket server.go Server.Handle Agent authorization (Issue 34)](https://vuldb.com/vuln/377891)
   - [CVE-2026-15542 | will-moss Isaiah up to 1.36.9 Websocket Connection Authentication app/main.go improper authentication (Issue 33)](https://vuldb.com/vuln/377892)
   - [CVE-2026-15543 | Tenda CH22 1.0.0.1 /goform/CertListInfo formCertListInfo Name buffer overflow](https://vuldb.com/vuln/377893)
+  - [CVE-2026-15544 | Shibby Tomato up to 1.28.0000 apcupsd tomatodata.cgi getupsvar Field stack-based overflow (IJTQ5M)](https://vuldb.com/vuln/377894)
+  - [CVE-2026-15545 | Shibby Tomato up to 1.28.0000 apcupsd tomatodata.cgi main out-of-bounds write (IJTQ5N)](https://vuldb.com/vuln/377895)
+  - [CVE-2026-15546 | Shibby Tomato up to 1.28.0000 start_jffs2 sub_2D568 jffs2_exec os command injection (IJTQ5O)](https://vuldb.com/vuln/377896)
+  - [CVE-2026-15547 | Shibby Tomato up to 1.28.0000 CIFS Mount sub_2D048 cifs1/cifs2 os command injection (IJTQ5P)](https://vuldb.com/vuln/377897)
+  - [CVE-2026-15548 | Shibby Tomato up to 1.28.0000 DNS List Rendering /usr/sbin/httpd sub_407220 stack-based overflow (IJTQ5R)](https://vuldb.com/vuln/377898)
 - Vulners.com RSS Feed
   - [CVE-2026-10663](https://vulners.com/nvd/NVD:CVE-2026-10663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10663 Use-after-free / double-free of the root USB device in the experimental USB host stack](https://vulners.com/cve/CVE-2026-10663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -64,6 +74,7 @@
   - [Exploit for Improper Control of Dynamically-Managed Code Resources in Vm2_Project Vm2](https://vulners.com/githubexploit/D910CF67-6452-5314-B071-29CF3693F122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for OS Command Injection in Devcode Openstamanager](https://vulners.com/githubexploit/4542ED4F-2D5B-5A5A-97BA-0EFB5FA7D711?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [kang-lab-starter-task](https://vulners.com/githubexploit/F9E3D8FD-FB87-50DD-8B68-34372B55894A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Malicious code in auto-debug-tool (npm)](https://vulners.com/ossf/OSSF:MAL-2026-10209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Uber’s Autonomous Vehicle Strategy: Slow Their Adoption](https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/)
 - 代码审计星球
