@@ -1,5 +1,9 @@
 # 今日安全资讯（2026-07-12）
 
+- 2Libra
+  - [【💰】发现新的胖哆啦事件，好像不太明显](https://2libra.com/post/forum-function/xzkM1LE)
+- 36氪
+  - [机构：到2029年中国国内算力卡采购额将达到1.44万亿元，将诞生多家市值万亿甚至十万亿的上市企业](https://36kr.com/newsflashes/3891934990744327?f=rss)
 - daringfireball.net
   - [Benedict Evans on the New ‘Super App’ ChatGPT](https://www.threads.com/@benedictevans/post/Dano_uvDr8F)
   - [Can Someone Explain to Me How to Get ‘ChatGPT Classic’?](https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app)
@@ -28,7 +32,9 @@
   - [Exploit for Deserialization of Untrusted Data in Apache Camel exploit](https://sploitus.com/exploit?id=B1CB42E4-A32C-5689-AD02-E709D96D7AAE&utm_source=rss&utm_medium=rss)
   - [Exploit for Protection Mechanism Failure in Jenkins Pipeline\:_Groovy exploit](https://sploitus.com/exploit?id=72010645-CCEA-5018-8292-9DB322D26A82&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=9265C4D0-7F77-5355-9FA0-48A00F9E811B&utm_source=rss&utm_medium=rss)
+  - [wordpress-ocr-internal-pentest exploit](https://sploitus.com/exploit?id=0FFC6A60-5535-549F-9172-7AE6235BF0D0&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Reed Jobs would rather talk about curing cancer than his last name](https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/)
   - [Smart glasses without a camera? Even Realities bets productivity beats recording everyone](https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/)
   - [This slushie machine was a lifesaver during NYC’s heat wave](https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/)
 - The Decoder
@@ -89,6 +95,7 @@
   - [Chromium: CVE-2026-14382 Insufficient validation of untrusted input in ANGLE](https://vulners.com/mscve/MS:CVE-2026-14382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium: CVE-2026-14428 Insufficient validation of untrusted input in Dawn](https://vulners.com/mscve/MS:CVE-2026-14428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10660](https://vulners.com/nvd/NVD:CVE-2026-10660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15470](https://vulners.com/nvd/NVD:CVE-2026-15470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58281](https://vulners.com/nvd/NVD:CVE-2026-58281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cve-vulnerability-trend-analyzer](https://vulners.com/githubexploit/3C91A24A-B028-5B4D-BE7C-A8928C842D7A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Command Injection in Microsoft](https://vulners.com/githubexploit/833581E3-D09A-5C85-BB3D-46DA43EDAF50?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -96,6 +103,7 @@
   - [Exploit for CVE-2026-7275](https://vulners.com/githubexploit/78361921-E1FF-5878-ADB0-633C41315170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Apache Camel](https://vulners.com/githubexploit/B1CB42E4-A32C-5689-AD02-E709D96D7AAE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/9265C4D0-7F77-5355-9FA0-48A00F9E811B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [wordpress-ocr-internal-pentest](https://vulners.com/githubexploit/0FFC6A60-5535-549F-9172-7AE6235BF0D0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
