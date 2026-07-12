@@ -2,8 +2,15 @@
 
 - 2Libra
   - [【💰】发现新的胖哆啦事件，好像不太明显](https://2libra.com/post/forum-function/xzkM1LE)
+  - [有什么好玩的手机小游戏推荐](https://2libra.com/post/game-share/pbBIkOz)
 - 36氪
+  - [受“巴威”影响，上海两机场计划取消航班653架次](https://36kr.com/newsflashes/3891935751649796?f=rss)
+  - [年内退出134家，村镇银行改革持续加速](https://36kr.com/newsflashes/3891937180400135?f=rss)
   - [机构：到2029年中国国内算力卡采购额将达到1.44万亿元，将诞生多家市值万亿甚至十万亿的上市企业](https://36kr.com/newsflashes/3891934990744327?f=rss)
+  - [长存IPO辅导团队公布，中信证券与中信建投合计31人组成](https://36kr.com/newsflashes/3891936699808512?f=rss)
+  - [马斯克：下一次星舰发射计划于周四进行](https://36kr.com/newsflashes/3891995350629120?f=rss)
+- Bruce's Blog
+  - [Codex App Guide (2026): Setup, Workflows, and Real Pitfalls](http://www.heyuan110.com/posts/ai/2026-07-12-openai-codex-app-guide/)
 - daringfireball.net
   - [Benedict Evans on the New ‘Super App’ ChatGPT](https://www.threads.com/@benedictevans/post/Dano_uvDr8F)
   - [Can Someone Explain to Me How to Get ‘ChatGPT Classic’?](https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app)
@@ -46,6 +53,7 @@
   - [CVE-2026-54071 | BabelDOC prior 0.6.3 cmapdb.py deserialization](https://vuldb.com/vuln/377833)
   - [CVE-2026-58281 | Microsoft Edge up to 149.0.4022.68 deserialization](https://vuldb.com/vuln/377832)
 - Vulners.com RSS Feed
+  - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium: CVE-2026-13788 Use after free in Fullscreen](https://vulners.com/mscve/MS:CVE-2026-13788?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium: CVE-2026-13816 Insufficient validation of untrusted input in File Input](https://vulners.com/mscve/MS:CVE-2026-13816?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium: CVE-2026-13822 Inappropriate implementation in Extensions](https://vulners.com/mscve/MS:CVE-2026-13822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -96,6 +104,8 @@
   - [Chromium: CVE-2026-14428 Insufficient validation of untrusted input in Dawn](https://vulners.com/mscve/MS:CVE-2026-14428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10660](https://vulners.com/nvd/NVD:CVE-2026-10660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15470](https://vulners.com/nvd/NVD:CVE-2026-15470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15472 Eleveo Call Recording Software composeEmailAction.do improper authorization](https://vulners.com/cve/CVE-2026-15472?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15472 Eleveo Call Recording Software composeEmailAction.do improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-15472?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58281](https://vulners.com/nvd/NVD:CVE-2026-58281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cve-vulnerability-trend-analyzer](https://vulners.com/githubexploit/3C91A24A-B028-5B4D-BE7C-A8928C842D7A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Command Injection in Microsoft](https://vulners.com/githubexploit/833581E3-D09A-5C85-BB3D-46DA43EDAF50?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -103,6 +113,17 @@
   - [Exploit for CVE-2026-7275](https://vulners.com/githubexploit/78361921-E1FF-5878-ADB0-633C41315170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Apache Camel](https://vulners.com/githubexploit/B1CB42E4-A32C-5689-AD02-E709D96D7AAE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/9265C4D0-7F77-5355-9FA0-48A00F9E811B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerabilities in the net/bluetooth/eir.c and net/bluetooth/mgmt.c modules of Linux kernel allow a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability in the drivers/bluetooth/btnxpuart.c module of Linux operating systems allows a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of Microsoft Office packages and 365 Apps for Enterprise lies in the use of memory after it is freed, allowing an attacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Directum HR Pro system, which exists due to insufficient verification of input data, allows a perpetrator to disclose protected information.](https://vulners.com/bdu_fstec/BDU:2025-09755?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Directum RX ECM system, related to deficiencies in access control, allows a perpetrator to compromise data integrity.](https://vulners.com/bdu_fstec/BDU:2025-09752?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Directum Web Agent component of the Directum RX system, which arises due to insufficient validation of input data, allows a perpetrator to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09754?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Kerberos protocol for Windows operating systems allows attackers to increase their privileges.](https://vulners.com/bdu_fstec/BDU:2025-09690?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the MmMapIoSpace() function in the ThrottleBlood.sys driver allows a hacker to escalate their privileges, execute arbitrary code, or cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wordpress-ocr-internal-pentest](https://vulners.com/githubexploit/0FFC6A60-5535-549F-9172-7AE6235BF0D0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
