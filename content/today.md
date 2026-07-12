@@ -10,6 +10,7 @@
   - [Metered Into a Ghost Town: Fable 5 Goes Pay-Per-Token and Everyone Defects to GPT-5.6 Sol](https://paddo.dev/blog/fable-5-metered-ghost-town/)
 - Hacker News Frontpage
   - [BLISS](https://en.wikipedia.org/wiki/BLISS)
+  - [Doctors die. It's not like the rest of us, but it should be (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)
   - [How to Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
   - [Leaded Gas Was a Known Poison the Day It Was Invented (2016)](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/)
   - [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
@@ -22,6 +23,7 @@
   - [a2tools exploit](https://sploitus.com/exploit?id=6E5AC2F7-892E-5664-BC1E-81D736D35DF4&utm_source=rss&utm_medium=rss)
   - [cve-vulnerability-trend-analyzer exploit](https://sploitus.com/exploit?id=3C91A24A-B028-5B4D-BE7C-A8928C842D7A&utm_source=rss&utm_medium=rss)
   - [Exploit for Command Injection in Microsoft exploit](https://sploitus.com/exploit?id=833581E3-D09A-5C85-BB3D-46DA43EDAF50&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-13768 exploit](https://sploitus.com/exploit?id=569AE4F1-B9CB-54A2-9617-BE765E11B6A4&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-7275 exploit](https://sploitus.com/exploit?id=78361921-E1FF-5878-ADB0-633C41315170&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Apache Camel exploit](https://sploitus.com/exploit?id=B1CB42E4-A32C-5689-AD02-E709D96D7AAE&utm_source=rss&utm_medium=rss)
   - [Exploit for Protection Mechanism Failure in Jenkins Pipeline\:_Groovy exploit](https://sploitus.com/exploit?id=72010645-CCEA-5018-8292-9DB322D26A82&utm_source=rss&utm_medium=rss)
@@ -35,6 +37,7 @@
   - [After years of teasing, the viral Nopia synth is ‘basically finished’](https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo)
   - [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger)
 - VulDB Recent Entries
+  - [CVE-2026-54071 | BabelDOC prior 0.6.3 cmapdb.py deserialization](https://vuldb.com/vuln/377833)
   - [CVE-2026-58281 | Microsoft Edge up to 149.0.4022.68 deserialization](https://vuldb.com/vuln/377832)
 - Vulners.com RSS Feed
   - [Chromium: CVE-2026-13788 Use after free in Fullscreen](https://vulners.com/mscve/MS:CVE-2026-13788?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -89,8 +92,11 @@
   - [CVE-2026-58281](https://vulners.com/nvd/NVD:CVE-2026-58281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cve-vulnerability-trend-analyzer](https://vulners.com/githubexploit/3C91A24A-B028-5B4D-BE7C-A8928C842D7A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Command Injection in Microsoft](https://vulners.com/githubexploit/833581E3-D09A-5C85-BB3D-46DA43EDAF50?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-13768](https://vulners.com/githubexploit/569AE4F1-B9CB-54A2-9617-BE765E11B6A4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-7275](https://vulners.com/githubexploit/78361921-E1FF-5878-ADB0-633C41315170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Apache Camel](https://vulners.com/githubexploit/B1CB42E4-A32C-5689-AD02-E709D96D7AAE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/9265C4D0-7F77-5355-9FA0-48A00F9E811B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [FCC打击规避外国无人机禁令的白手套公司](https://blog.upx8.com/FCC%E6%89%93%E5%87%BB%E8%A7%84%E9%81%BF%E5%A4%96%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A6%81%E4%BB%A4%E7%9A%84%E7%99%BD%E6%89%8B%E5%A5%97%E5%85%AC%E5%8F%B8)
