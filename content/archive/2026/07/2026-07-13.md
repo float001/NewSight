@@ -2,27 +2,40 @@
 
 - 2Libra
   - [【💰】AI 编程这一波，会是程序员们 2010 2015 年那波的加速器和历史大机遇吗？评论区有请正反方进行发言！](https://2libra.com/post/questions/rTzSI8f)
+- daringfireball.net
+  - [Lunacy — Jeff Halter’s Lunatic Fringe Player](https://morphing.cloud/lunacy/)
+  - [Sam Altman and Elon Musk Argue Over Who’s Running the Bigger Scam](https://x.com/sama/status/2075982617976230043)
 - HackerNoon
   - [I Compiled 55 Days of Screen Activity Into Episodic Memory for My AI Agent](https://hackernoon.com/i-compiled-55-days-of-screen-activity-into-episodic-memory-for-my-ai-agent?source=rss)
+- johndcook.com
+  - [Posterior mean](https://www.johndcook.com/blog/2026/07/12/posterior-mean/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Code Injection in Apache Nifi exploit](https://sploitus.com/exploit?id=14748680-800D-5A5B-8F0A-8FAAA6421030&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Apache Tomcat exploit](https://sploitus.com/exploit?id=CEA2DCF2-7958-513E-B0A6-E43A1A827610&utm_source=rss&utm_medium=rss)
 - The Verge
   - [Apple’s failed self-driving car program left a legacy of powerful AI chips](https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra)
 - VulDB Recent Entries
   - [CVE-2026-15533 | DedeCMS 5.7.118 Column Management /plus/search.php Column Name code injection](https://vuldb.com/vuln/377878)
 - Vulners.com RSS Feed
+  - [CVE-2026-10663](https://vulners.com/nvd/NVD:CVE-2026-10663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10663 Use-after-free / double-free of the root USB device in the experimental USB host stack](https://vulners.com/cve/CVE-2026-10663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10663 Use-after-free / double-free of the root USB device in the experimental USB host stack](https://vulners.com/cvelist/CVELIST:CVE-2026-10663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10664](https://vulners.com/nvd/NVD:CVE-2026-10664?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10664 Out-of-bounds write in nRF70 Wi-Fi driver power-save event handler (unbounded TWT flow count)](https://vulners.com/cve/CVE-2026-10664?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10664 Out-of-bounds write in nRF70 Wi-Fi driver power-save event handler (unbounded TWT flow count)](https://vulners.com/cvelist/CVELIST:CVE-2026-10664?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10665](https://vulners.com/nvd/NVD:CVE-2026-10665?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10665 Heap buffer overflow on WireGuard receive path via unbounded incoming packet length](https://vulners.com/cve/CVE-2026-10665?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10665 Heap buffer overflow on WireGuard receive path via unbounded incoming packet length](https://vulners.com/cvelist/CVELIST:CVE-2026-10665?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10666](https://vulners.com/nvd/NVD:CVE-2026-10666?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10666 Stack buffer overflow in `net_ipaddr_parse()` IPv4 address-with-port parsing in `subsys/net/ip/utils.c`](https://vulners.com/cve/CVE-2026-10666?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10666 Stack buffer overflow in `net_ipaddr_parse()` IPv4 address-with-port parsing in `subsys/net/ip/utils.c`](https://vulners.com/cvelist/CVELIST:CVE-2026-10666?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10667](https://vulners.com/nvd/NVD:CVE-2026-10667?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10667 SMP use-after-free in Zephyr `CONFIG_USERSPACE` dynamic kernel-object tracking, reachable from unprivileged user threads](https://vulners.com/cve/CVE-2026-10667?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10667 SMP use-after-free in Zephyr `CONFIG_USERSPACE` dynamic kernel-object tracking, reachable from unprivileged user threads](https://vulners.com/cvelist/CVELIST:CVE-2026-10667?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10668](https://vulners.com/nvd/NVD:CVE-2026-10668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10668 Host-triggerable control-endpoint wedge (DoS) in Nuvoton NuMaker HSUSBD UDC driver](https://vulners.com/cve/CVE-2026-10668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10668 Host-triggerable control-endpoint wedge (DoS) in Nuvoton NuMaker HSUSBD UDC driver](https://vulners.com/cvelist/CVELIST:CVE-2026-10668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58596](https://vulners.com/nvd/NVD:CVE-2026-58596?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Code Injection in Apache Nifi](https://vulners.com/githubexploit/14748680-800D-5A5B-8F0A-8FAAA6421030?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
