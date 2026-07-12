@@ -3,12 +3,17 @@
 - 2Libra
   - [Codex 这是取消 5H 限额了吗？](https://2libra.com/post/ai-programming/XuubFLs)
   - [【💰】AI 编程这一波，会是程序员们 2010 2015 年那波的加速器和历史大机遇吗？评论区有请正反方进行发言！](https://2libra.com/post/questions/rTzSI8f)
+- 36氪
+  - [熊猫债市场存量规模首超5000亿元](https://36kr.com/newsflashes/3892789425699337?f=rss)
 - daringfireball.net
   - [How UIs Degrade Over Time](https://grumpy.website/1723)
   - [Lunacy — Jeff Halter’s Lunatic Fringe Player](https://morphing.cloud/lunacy/)
   - [Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’](https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/)
   - [Sam Altman and Elon Musk Argue Over Who’s Running the Bigger Scam](https://x.com/sama/status/2075982617976230043)
+  - [WorkOS Pipes](https://workos.com/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
   - [‘Every Frame Perfect’](https://tonsky.me/blog/every-frame-perfect/)
+- Emergent Minds | paddo.dev
+  - [Ten Findings, Two Real: Grok 4.5 Reviews the Code That Runs Grok 4.5](https://paddo.dev/blog/ten-findings-two-real/)
 - Hacker News Frontpage
   - ["Stop Cutting Down Flock Cameras " (Mass Surveillance Is Good) [video]](https://www.youtube.com/watch?v=su-Ce4PlNz0)
   - [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
@@ -69,6 +74,12 @@
   - [CVE-2026-15505](https://vulners.com/nvd/NVD:CVE-2026-15505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15505 vnotex vnote YAML Frontmatter markdownit.js cross site scripting](https://vulners.com/cve/CVE-2026-15505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15505 vnotex vnote YAML Frontmatter markdownit.js cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-15505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15506](https://vulners.com/nvd/NVD:CVE-2026-15506?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15507](https://vulners.com/nvd/NVD:CVE-2026-15507?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15508 Helicone ai-gateway AWS Metadata Service service.rs build_target_url server-side request forgery](https://vulners.com/cve/CVE-2026-15508?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15508 Helicone ai-gateway AWS Metadata Service service.rs build_target_url server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-15508?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15509 Leantime JSON-RPC Endpoint addUser improper authorization](https://vulners.com/cve/CVE-2026-15509?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15509 Leantime JSON-RPC Endpoint addUser improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-15509?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58596](https://vulners.com/nvd/NVD:CVE-2026-58596?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Apache Nifi](https://vulners.com/githubexploit/14748680-800D-5A5B-8F0A-8FAAA6421030?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Control of Dynamically-Managed Code Resources in Vm2_Project Vm2](https://vulners.com/githubexploit/D910CF67-6452-5314-B071-29CF3693F122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
