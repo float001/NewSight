@@ -9,7 +9,10 @@
   - [Sam Altman and Elon Musk Argue Over Who’s Running the Bigger Scam](https://x.com/sama/status/2075982617976230043)
   - [‘Every Frame Perfect’](https://tonsky.me/blog/every-frame-perfect/)
 - Hacker News Frontpage
+  - ["Stop Cutting Down Flock Cameras " (Mass Surveillance Is Good) [video]](https://www.youtube.com/watch?v=su-Ce4PlNz0)
   - [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
+  - [Irish datacenters now guzzle 23% of the country's electricity](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013)
+  - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
 - HackerNoon
   - [I Compiled 55 Days of Screen Activity Into Episodic Memory for My AI Agent](https://hackernoon.com/i-compiled-55-days-of-screen-activity-into-episodic-memory-for-my-ai-agent?source=rss)
 - johndcook.com
@@ -24,6 +27,7 @@
   - [web-management-server-compromise-assessment exploit](https://sploitus.com/exploit?id=38548FC8-6BCE-509C-9A0A-FE09A8E489CA&utm_source=rss&utm_medium=rss)
 - The Verge
   - [Apple’s failed self-driving car program left a legacy of powerful AI chips](https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra)
+  - [Lorde says Ray-Ban Meta AI glasses are ‘not sexy’](https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy)
   - [Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful](https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review)
 - VulDB Recent Entries
   - [CVE-2026-15533 | DedeCMS 5.7.118 Column Management /plus/search.php Column Name code injection](https://vuldb.com/vuln/377878)
@@ -52,6 +56,7 @@
   - [CVE-2026-10668](https://vulners.com/nvd/NVD:CVE-2026-10668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10668 Host-triggerable control-endpoint wedge (DoS) in Nuvoton NuMaker HSUSBD UDC driver](https://vulners.com/cve/CVE-2026-10668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10668 Host-triggerable control-endpoint wedge (DoS) in Nuvoton NuMaker HSUSBD UDC driver](https://vulners.com/cvelist/CVELIST:CVE-2026-10668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15505](https://vulners.com/nvd/NVD:CVE-2026-15505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15505 vnotex vnote YAML Frontmatter markdownit.js cross site scripting](https://vulners.com/cve/CVE-2026-15505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15505 vnotex vnote YAML Frontmatter markdownit.js cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-15505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58596](https://vulners.com/nvd/NVD:CVE-2026-58596?utm_source=rss&utm_medium=rss&utm_campaign=rss)
