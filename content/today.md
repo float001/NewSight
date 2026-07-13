@@ -1,31 +1,78 @@
 # 今日安全资讯（2026-07-14）
 
+- 404 Media
+  - [LAPD Regularly Pulled Over Innocent People Because License Plate Readers Flagged Their Cars As Stolen](https://www.404media.co/lapd-regularly-pulled-over-innocent-people-because-license-plate-readers-flagged-their-cars-as-stolen/)
+- Ars Technica
+  - [Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows](https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/)
 - darkreading
   - [GigaWiper Lets Threat Actors Choose Their Own Destructive Attack](https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack)
+- Horizon3.ai
+  - [Meeting the ECB’s AI-Enabled Cybersecurity Mandate with NodeZero®](https://horizon3.ai/downloads/factsheets/meeting-the-ecbs-ai-enabled-cybersecurity-mandate-with-nodezero/)
+- IEEE Spectrum
+  - [Panasonic’s PV-460 Camcorder Stabilized Shaky Videos](https://spectrum.ieee.org/panasonic-camcorder-ieee-milstone)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for SQL Injection in Osgeo Geoserver exploit](https://sploitus.com/exploit?id=F40536BA-91BB-58AB-A86E-F9639916FEC7&utm_source=rss&utm_medium=rss)
+- Taxodium
+  - [Zine#54 - 世界杯、純文本、隨機頁面、巫師三](https://taxodium.ink/54.html)
 - TechCrunch
   - [12 states sue to block Paramount’s $110B Warner Bros deal](https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/)
   - [Investors send General Fusion soaring in debut as first publicly traded fusion company](https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/)
+  - [Sam Altman’s space data center trash talk is what most experts already believe](https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/)
   - [Should AI help you get away with killing your spouse?](https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/)
 - The Decoder
   - [Nobel laureates and AI leaders warn the window to prepare for AI's economic impact is closing fast](https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/)
+  - [OpenAI's new prompting guide tells users to stop overthinking and start with the result](https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/)
+  - [Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own](https://the-decoder.com/turing-award-winner-rich-sutton-founds-oak-lab-to-build-ai-agents-that-learn-on-their-own/)
 - The Verge
   - [The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI](https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims)
 - VulDB Recent Entries
   - [CVE-2026-13221 | Perl up to 5.43.9 Trie Perl_study_chunk branch incorrect regex](https://vuldb.com/vuln/378118)
+  - [CVE-2026-15622 | poco-ai poco-claw up to 0.5.4 Workspace API workspace.py get_workspace_file user_id authorization (Issue 133)](https://vuldb.com/vuln/378125)
+  - [CVE-2026-15624 | nextlevelbuilder GoClaw 3.13.3-beta.3 invoke Endpoint create_video_byteplus.go bytePlusDownloadVideo output.video_url server-side request forgery (Issue 1199)](https://vuldb.com/vuln/378126)
+  - [CVE-2026-15625 | nextlevelbuilder GoClaw 3.11.3 exec_approval.go ExecApprovalManager.CheckCommand incomplete blacklist (1200/1202/1203/1204/1205/1206/1208)](https://vuldb.com/vuln/378127)
+  - [CVE-2026-15626 | nextlevelbuilder GoClaw 3.13.3-beta.3 ACP ToolBridge Workspace tool_bridge.go writeFile path traversal (Issue 1201)](https://vuldb.com/vuln/378128)
+  - [CVE-2026-15627 | nextlevelbuilder GoClaw up to 3.13.3-beta.3 pkg/browser/tool.go handleNavigate args.targetUrl information disclosure (Issue 1207)](https://vuldb.com/vuln/378129)
+  - [CVE-2026-15628 | zhayujie chatgpt-on-wechat CowAgent up to 2.1.1 Vision Tool vision.py Vision._download_to_data_url image server-side request forgery (Issue 2878)](https://vuldb.com/vuln/378130)
+  - [CVE-2026-15629 | louisho5 picobot up to 0.2.0 Workspace filesystem.go CreateSkill/GetSkill link following (Issue 40)](https://vuldb.com/vuln/378131)
+  - [CVE-2026-53365 | Linux Kernel vsock skb_zcopy_set reference count](https://vuldb.com/vuln/378132)
   - [CVE-2026-57432 | Perl up to 5.43.10 S_measure_struct repeat integer overflow](https://vuldb.com/vuln/378119)
   - [CVE-2026-57433 | HAARG Storable up to 3.40 SX_HOOK retrieve_hook_common Count integer overflow](https://vuldb.com/vuln/378120)
 - Vulners.com RSS Feed
   - [crypto/x509: golang: golang crypto/x509: Denial of Service via excessive processing of DNS SAN entries](https://vulners.com/redhat/RHSA-2026:39005-CVE-2026-27145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13221](https://vulners.com/nvd/NVD:CVE-2026-13221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-39245](https://vulners.com/redhatcve/RH:CVE-2026-39245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45378](https://vulners.com/cve/CVE-2026-45378?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45414](https://vulners.com/cve/CVE-2026-45414?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45415](https://vulners.com/cve/CVE-2026-45415?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45572](https://vulners.com/cve/CVE-2026-45572?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45573](https://vulners.com/cve/CVE-2026-45573?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45579](https://vulners.com/cve/CVE-2026-45579?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48118](https://vulners.com/cve/CVE-2026-48118?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48702](https://vulners.com/redhatcve/RH:CVE-2026-48702?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49259](https://vulners.com/cve/CVE-2026-49259?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50162](https://vulners.com/redhatcve/RH:CVE-2026-50162?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57432](https://vulners.com/nvd/NVD:CVE-2026-57432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57433](https://vulners.com/nvd/NVD:CVE-2026-57433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58065](https://vulners.com/nvd/NVD:CVE-2026-58065?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59245](https://vulners.com/nvd/NVD:CVE-2026-59245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61692](https://vulners.com/nvd/NVD:CVE-2026-61692?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Decidim: CSV census record endpoints improper authorization](https://vulners.com/github/GHSA-Q79H-67VX-M9XG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Decidim: HTML content blocks allow stored script execution](https://vulners.com/github/GHSA-533C-2VH9-4R86?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Decidim: JWT-backed authentication can be replayed across organizations](https://vulners.com/github/GHSA-R3V7-5X4C-C69Q?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Decidim: Push subscriptions can be abused for server-side requests](https://vulners.com/github/GHSA-2G9C-VF8H-PRXX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Decidim: Verification documents can be downloaded through reusable links](https://vulners.com/github/GHSA-3MVF-82QP-8QH5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [DIRAC is vulnerable to RCE in RequestManager due to eval on untrusted input](https://vulners.com/github/GHSA-9JPV-C7P4-997X?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Osgeo Geoserver](https://vulners.com/githubexploit/F40536BA-91BB-58AB-A86E-F9639916FEC7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [exploitdb-json](https://vulners.com/githubexploit/D2280452-9925-517E-999B-AE937617D048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [freeipmi: buffer overflows on response messages via ipmi-oem](https://vulners.com/redhat/RHSA-2026:39008-CVE-2026-33554?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [freeipmi: FreeIPMI: Denial of service via buffer overflow in ipmi-oem client](https://vulners.com/redhat/RHSA-2026:39008-CVE-2026-50031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [golang.org/x/net/idna: golang: golang.org/x/net/idna: Privilege escalation via incorrect Punycode label processing](https://vulners.com/redhat/RHSA-2026:39005-CVE-2026-39821?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found](https://vulners.com/thn/THN:645C89CC8757DD7E974C9587C52517E0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: rhc security update](https://vulners.com/redhat/RHSA-2026:39005?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Moderate: Red Hat Security Advisory: freeipmi security update](https://vulners.com/redhat/RHSA-2026:39008?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [NukeViet: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')](https://vulners.com/github/GHSA-W2W5-W2PW-R929?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [NukeViet: Unauthenticated Reflected XSS in Comment Module](https://vulners.com/github/GHSA-MXPF-QGG6-V3FF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Tesla Says It’s Building a Wheelchair-Accessible Robotaxi](https://www.wired.com/story/tesla-says-its-building-a-wheelchair-accessible-robotaxi/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
