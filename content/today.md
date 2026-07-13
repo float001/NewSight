@@ -1,6 +1,31 @@
 # 今日安全资讯（2026-07-14）
 
+- darkreading
+  - [GigaWiper Lets Threat Actors Choose Their Own Destructive Attack](https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for SQL Injection in Osgeo Geoserver exploit](https://sploitus.com/exploit?id=F40536BA-91BB-58AB-A86E-F9639916FEC7&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [12 states sue to block Paramount’s $110B Warner Bros deal](https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/)
+  - [Investors send General Fusion soaring in debut as first publicly traded fusion company](https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/)
+  - [Should AI help you get away with killing your spouse?](https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/)
 - The Decoder
   - [Nobel laureates and AI leaders warn the window to prepare for AI's economic impact is closing fast](https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/)
+- The Verge
+  - [The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI](https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims)
+- VulDB Recent Entries
+  - [CVE-2026-13221 | Perl up to 5.43.9 Trie Perl_study_chunk branch incorrect regex](https://vuldb.com/vuln/378118)
+  - [CVE-2026-57432 | Perl up to 5.43.10 S_measure_struct repeat integer overflow](https://vuldb.com/vuln/378119)
+  - [CVE-2026-57433 | HAARG Storable up to 3.40 SX_HOOK retrieve_hook_common Count integer overflow](https://vuldb.com/vuln/378120)
+- Vulners.com RSS Feed
+  - [crypto/x509: golang: golang crypto/x509: Denial of Service via excessive processing of DNS SAN entries](https://vulners.com/redhat/RHSA-2026:39005-CVE-2026-27145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58065](https://vulners.com/nvd/NVD:CVE-2026-58065?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59245](https://vulners.com/nvd/NVD:CVE-2026-59245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61692](https://vulners.com/nvd/NVD:CVE-2026-61692?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for SQL Injection in Osgeo Geoserver](https://vulners.com/githubexploit/F40536BA-91BB-58AB-A86E-F9639916FEC7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [freeipmi: buffer overflows on response messages via ipmi-oem](https://vulners.com/redhat/RHSA-2026:39008-CVE-2026-33554?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [freeipmi: FreeIPMI: Denial of service via buffer overflow in ipmi-oem client](https://vulners.com/redhat/RHSA-2026:39008-CVE-2026-50031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [golang.org/x/net/idna: golang: golang.org/x/net/idna: Privilege escalation via incorrect Punycode label processing](https://vulners.com/redhat/RHSA-2026:39005-CVE-2026-39821?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: rhc security update](https://vulners.com/redhat/RHSA-2026:39005?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Moderate: Red Hat Security Advisory: freeipmi security update](https://vulners.com/redhat/RHSA-2026:39008?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
