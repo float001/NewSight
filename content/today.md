@@ -2,6 +2,7 @@
 
 - 2Libra
   - [2.8 万亿参数的 Kimi K3 发布，开源模型能和闭源模型扳手腕了吗](https://2libra.com/post/large-models/NY4n9pO)
+  - [7 月 16 日格斗赛：“白色雄鹰”一脚踢断了“斗牛士”的脑袋](https://2libra.com/post/ai-applications/8C65_le)
   - [Google 迟到的清算](https://2libra.com/post/tech-news/mU-fYdR)
   - [KiMi K3 只能说很牛皮，已经用上了，毕竟 3 T 的训练参数，大家赶紧买 TOKEN PLAN ，生产力啊，套餐值得买，用的人多未来可能会大量排队慢。](https://2libra.com/post/promotion/7-VvnKF)
   - [【投票·💰】老悬疑片《恐怖游轮》电影院上映了，另外下半年的院线值得看的电影不少](https://2libra.com/post/movie-sharing/aWNaao5)
@@ -15,9 +16,11 @@
   - [农行微信、支付宝、京东立减金，有农行的可以领](https://2libra.com/post/deal-hunter/Qy1h7bT)
   - [否极泰来](https://2libra.com/post/forum-function/sdsELuy)
   - [呜呜呜，我的 Google AI Pro 掉了](https://2libra.com/post/questions/glESrl5)
+  - [大意了，参加了几个金币池没中，才想起被 debuff 了，鸡米真是个小可爱](https://2libra.com/post/forum-function/w5YIQVx)
   - [小鹏 l03 怎么样？](https://2libra.com/post/automobile/hHDXveX)
   - [很久之前做的一款软件，这样可以更快速的获取微软 Rewards 积分](https://2libra.com/post/personal-works/1If3NIC)
   - [昨天回收计划，今日金币雨](https://2libra.com/post/forum-function/cTn_gaK)
+  - [现在这群自媒体 AI 人已经魔了](https://2libra.com/post/ai-trends/aN8nWI5)
 - 36氪
   - [18家公募接连上报，首批主动ETF渐行渐近](https://36kr.com/newsflashes/3898987883497090?f=rss)
   - [2026暑期档上半程票房35.34亿](https://36kr.com/newsflashes/3898506441639555?f=rss)
@@ -28,8 +31,10 @@
   - [AI手机渗透率有望加速提升，18股获5家及以上机构评级](https://36kr.com/newsflashes/3898995946538624?f=rss)
   - [AI板块遭遇抛售，日本芯片厂商铠侠市值较高点腰斩](https://36kr.com/newsflashes/3899005204399749?f=rss)
   - [AI算力竞争逻辑正在重构，算力调优成关键变量](https://36kr.com/newsflashes/3898979768944515?f=rss)
+  - [A股三大指数午间休盘集体下跌，全市场近4400股飘绿](https://36kr.com/newsflashes/3899182670497414?f=rss)
   - [A股三大指数集体低开，德明利跌停](https://36kr.com/newsflashes/3899059058689671?f=rss)
   - [ETF更名迎来“季度考”，产品识别度有待进一步提升](https://36kr.com/newsflashes/3898988297586564?f=rss)
+  - [SK集团会长崔泰源回应近期股价下跌：内存芯片需求支撑下股价将长期上涨](https://36kr.com/newsflashes/3899177729820297?f=rss)
   - [“固收+”产品权益仓位增加明显，重仓科技成制胜关键](https://36kr.com/newsflashes/3898976723470216?f=rss)
   - [上市脚步临近，Anthropic据悉计划几周内召开IPO投资者会议](https://36kr.com/newsflashes/3898501689952130?f=rss)
   - [上市脚步临近，Anthropic据悉计划几周内召开IPO投资者会议](https://36kr.com/newsflashes/3898921880569737?f=rss)
@@ -46,6 +51,7 @@
   - [从“赚价差”到“赚时间价值”，基金投顾成券商财富管理关键抓手](https://36kr.com/newsflashes/3899025108043652?f=rss)
   - [创业板指跌破3500点](https://36kr.com/newsflashes/3899139957688200?f=rss)
   - [创业板指跌超3%](https://36kr.com/newsflashes/3899065601099401?f=rss)
+  - [半日主力资金加仓公用事业、基础化工股](https://36kr.com/newsflashes/3899199543805831?f=rss)
   - [华尔街银行利润暴涨，欧洲大刀阔斧修订银行业监管规则](https://36kr.com/newsflashes/3898505834088325?f=rss)
   - [华泰证券：当前化工行业结构性机会凸显](https://36kr.com/newsflashes/3898974526326658?f=rss)
   - [哥伦比亚国家石油公司就收购要约上诉获巴西CVM支持，收购进程重启](https://36kr.com/newsflashes/3898974172088200?f=rss)
@@ -296,6 +302,7 @@
   - [CVE-2026-62299 | CoreDNS up to 1.14.4 Rewrite Plugin plugin/rewrite/edns0.go IsEdns0 null pointer dereference](https://vuldb.com/vuln/379644)
   - [CVE-2026-62309 | CoreDNS up to 1.14.3 Proxyproto Plugin proxyproto.go addr.String null pointer dereference](https://vuldb.com/vuln/379643)
   - [CVE-2026-62386 | getgrav Grav 1.0.0-beta.15/1.0.0-beta.17 Grav API extractBearerToken token improper authorization](https://vuldb.com/vuln/379732)
+  - [CVE-2026-62387 | getgrav Grav API Plugin up to 1.0.x CORS Configuration cross-domain policy](https://vuldb.com/vuln/379735)
   - [CVE-2026-62826 | Microsoft SharePoint Server Web Page Generator cross site scripting](https://vuldb.com/vuln/379668)
   - [CVE-2026-62994 | CoreDNS up to 1.14.4 k8s_external transfer transfer.go memory corruption](https://vuldb.com/vuln/379635)
   - [CVE-2026-63081 | Ultimate Fosters Perfect Support Ticketing & Document Management System Notes cross site scripting](https://vuldb.com/vuln/379557)
@@ -594,6 +601,8 @@
   - [Review: Xgimi Titan Noir Max Home Projector (2026)](https://www.wired.com/story/xgimi-titan-noir-max-projector/)
   - [Salad Chains Are Seeing Foot Traffic Drop Over Cyclosporiasis Fears](https://www.wired.com/story/explosive-diarrhea-outbreak-new-victims-salad-chains/)
   - [Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis](https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/)
+- 不安全
+  - [How Agentless Linux EDR Detects Rootkits Over SSH](https://buaq.net/go-429248.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
