@@ -6,12 +6,19 @@
   - [MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other](https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually)
 - Cybersecurity News
   - [Hugging Face Discloses Production Breach Driven by an Autonomous AI Agent](https://securityonline.info/hugging-face-ai-agent-breach/)
+  - [US Justice Department Approves TikTok for Government Devices](https://securityonline.info/doj-approves-tiktok-government-devices/)
 - Hacker News Frontpage
   - [Fake food delivery site for the dopamine](https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/)
+  - [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
   - [Heresy](https://paulgraham.com/heresy.html)
   - [OpenEvidence is bribing spouses of CMI and Genentech leadership](https://news.ycombinator.com/item?id=48959765)
   - [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
   - [Young adults are poor despite every metric which suggests otherwise](https://xcancel.com/i/article/2077113148524417439)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-63030 exploit](https://sploitus.com/exploit?id=86EC71B0-3FDB-53E1-A4CA-5A642F759B3F&utm_source=rss&utm_medium=rss)
+  - [FLOCK_CVE_SCANNER exploit](https://sploitus.com/exploit?id=AB2811CF-7CC8-5F4B-8754-7F9C1A8BE385&utm_source=rss&utm_medium=rss)
+  - [sec-notes exploit](https://sploitus.com/exploit?id=2A14ECFC-9211-596A-9FAA-97C44D036006&utm_source=rss&utm_medium=rss)
+  - [wp2shell exploit](https://sploitus.com/exploit?id=46404B2A-93D5-51B0-8C8E-C3D9FBA89EC7&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [All the EVs that were discontinued or killed off in the U.S. this year](https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/)
 - The Verge
@@ -21,9 +28,17 @@
   - [CVE-2026-16125](https://vulners.com/nvd/NVD:CVE-2026-16125?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16126](https://vulners.com/nvd/NVD:CVE-2026-16126?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16127](https://vulners.com/nvd/NVD:CVE-2026-16127?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16128](https://vulners.com/nvd/NVD:CVE-2026-16128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16128 zevorn rt-claw http_request swarm.c receiver_thread server-side request forgery](https://vulners.com/cve/CVE-2026-16128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16128 zevorn rt-claw http_request swarm.c receiver_thread server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-16128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16129](https://vulners.com/nvd/NVD:CVE-2026-16129?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16130 nearai ironclaw write_file path_utils.rs validate_path link following](https://vulners.com/cve/CVE-2026-16130?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16130 nearai ironclaw write_file path_utils.rs validate_path link following](https://vulners.com/cvelist/CVELIST:CVE-2026-16130?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-60137](https://vulners.com/githubexploit/E7D11A43-3433-53EC-B36F-E85D104B549B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-63030](https://vulners.com/githubexploit/86EC71B0-3FDB-53E1-A4CA-5A642F759B3F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [FLOCK_CVE_SCANNER](https://vulners.com/githubexploit/AB2811CF-7CC8-5F4B-8754-7F9C1A8BE385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [sec-notes](https://vulners.com/githubexploit/2A14ECFC-9211-596A-9FAA-97C44D036006?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [wp2shell](https://vulners.com/githubexploit/46404B2A-93D5-51B0-8C8E-C3D9FBA89EC7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
