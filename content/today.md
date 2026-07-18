@@ -7,23 +7,29 @@
 - Cybersecurity News
   - [Hugging Face Discloses Production Breach Driven by an Autonomous AI Agent](https://securityonline.info/hugging-face-ai-agent-breach/)
   - [US Justice Department Approves TikTok for Government Devices](https://securityonline.info/doj-approves-tiktok-government-devices/)
+- daringfireball.net
+  - [Apple Sends Letters to Dozens of Former Employees Now at OpenAI](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1)
 - Der Flounder
   - [FileVault on versus off on Apple Silicon Macs](https://derflounder.wordpress.com/2026/07/18/filevault-on-versus-off-on-apple-silicon-macs/)
 - Hacker News Frontpage
   - [Fake food delivery site for the dopamine](https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/)
   - [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
   - [Heresy](https://paulgraham.com/heresy.html)
+  - [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
   - [OpenEvidence is bribing spouses of CMI and Genentech leadership](https://news.ycombinator.com/item?id=48959765)
+  - [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf)
   - [REO Trucks I4 4WD Pickup Truck Starts at $21,500](https://reotrucks.com)
   - [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
   - [Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey](https://imaxxing.io/)
   - [Young adults are poor despite every metric which suggests otherwise](https://xcancel.com/i/article/2077113148524417439)
 - Sploitus.com Exploits RSS Feed
   - [APEX_FRAMEWORK exploit](https://sploitus.com/exploit?id=A176F0B6-F52F-5972-A5E7-3639DCDC6F16&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-46420 exploit](https://sploitus.com/exploit?id=40926991-C805-596C-B8C7-7F06AF0E7382&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-60137 exploit](https://sploitus.com/exploit?id=8B320912-B971-590A-9E72-8DC94D63FD0E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-60137 exploit](https://sploitus.com/exploit?id=8C7932A5-0E93-51BC-A8CF-B53A33FAEFFB&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-63030 exploit](https://sploitus.com/exploit?id=86EC71B0-3FDB-53E1-A4CA-5A642F759B3F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-63030 exploit](https://sploitus.com/exploit?id=DE794BDF-395F-5543-8B31-41A8A3A60353&utm_source=rss&utm_medium=rss)
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Balbooa Forms exploit](https://sploitus.com/exploit?id=50A89D7B-D34B-5242-A28B-F172C28091A6&utm_source=rss&utm_medium=rss)
   - [FLOCK_CVE_SCANNER exploit](https://sploitus.com/exploit?id=AB2811CF-7CC8-5F4B-8754-7F9C1A8BE385&utm_source=rss&utm_medium=rss)
   - [sec-notes exploit](https://sploitus.com/exploit?id=2A14ECFC-9211-596A-9FAA-97C44D036006&utm_source=rss&utm_medium=rss)
   - [wp2shell exploit](https://sploitus.com/exploit?id=46404B2A-93D5-51B0-8C8E-C3D9FBA89EC7&utm_source=rss&utm_medium=rss)
@@ -37,6 +43,7 @@
   - [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji)
   - [Google might not kneecap the Pixel 11a with an old processor](https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak)
 - VulDB Recent Entries
+  - [CVE-2026-10130 | FalkorDB QueryWeaver up to 0.2.0/0.3.0 Signup email improper authentication](https://vuldb.com/vuln/380098)
   - [CVE-2026-14266 | 7-Zip up to 26.01 XZ Decompression heap-based overflow (ZDI-26-444)](https://vuldb.com/vuln/380086)
   - [CVE-2026-15899 | Google Chrome up to 150.0.7871.125 CameraCapture use after free](https://vuldb.com/vuln/380087)
   - [CVE-2026-15900 | Google Chrome up to 150.0.7871.125 GPU use after free](https://vuldb.com/vuln/380088)
@@ -50,6 +57,8 @@
   - [CVE-2026-54547 | meta-ads-mcp prior 1.0.115 Header X-Pipeboard-Token authorization](https://vuldb.com/vuln/380085)
 - Vulners.com RSS Feed
   - [APEX_FRAMEWORK](https://vulners.com/githubexploit/A176F0B6-F52F-5972-A5E7-3639DCDC6F16?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10130 QueryWeaver Authentication Bypass via Email Signup Token Issuance for Existing Accounts](https://vulners.com/cve/CVE-2026-10130?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10130 QueryWeaver Authentication Bypass via Email Signup Token Issuance for Existing Accounts](https://vulners.com/cvelist/CVELIST:CVE-2026-10130?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12228](https://vulners.com/nvd/NVD:CVE-2026-12228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12228 Stored XSS in Direct Messages via Prompt Sharing in parisneo/lollms](https://vulners.com/cve/CVE-2026-12228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12228 Stored XSS in Direct Messages via Prompt Sharing in parisneo/lollms](https://vulners.com/cvelist/CVELIST:CVE-2026-12228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -79,8 +88,12 @@
   - [CVE-2026-16154 SourceCodester Class and Exam Timetabling System edit_room1.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-16154?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16155](https://vulners.com/nvd/NVD:CVE-2026-16155?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16155 SourceCodester Class and Exam Timetabling System schoolyr.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-16155?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16156](https://vulners.com/nvd/NVD:CVE-2026-16156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16194](https://vulners.com/nvd/NVD:CVE-2026-16194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16194 zhayujie CowAgent web_fetch.py WebFetch.execute server-side request forgery](https://vulners.com/cve/CVE-2026-16194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16194 zhayujie CowAgent web_fetch.py WebFetch.execute server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-16194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16195 Sipeed PicoClaw Group Message wecom.go dispatchIncoming authorization](https://vulners.com/cve/CVE-2026-16195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16195 Sipeed PicoClaw Group Message wecom.go dispatchIncoming authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-16195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994](https://vulners.com/nvd/NVD:CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994 ProFTPD mod_sftp Heap Buffer Overflow via Unsigned Integer Underflow and Size Truncation](https://vulners.com/cve/CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994 ProFTPD mod_sftp Heap Buffer Overflow via Unsigned Integer Underflow and Size Truncation](https://vulners.com/cvelist/CVELIST:CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -92,6 +105,7 @@
   - [CVE-2026-57857](https://vulners.com/nvd/NVD:CVE-2026-57857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57857 Flow Payment Plugin for WordPress Reflected Cross-Site Scripting via error_message Parameter](https://vulners.com/cve/CVE-2026-57857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57857 Flow Payment Plugin for WordPress Reflected Cross-Site Scripting via error_message Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-57857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-46420](https://vulners.com/githubexploit/40926991-C805-596C-B8C7-7F06AF0E7382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-60137](https://vulners.com/githubexploit/8B320912-B971-590A-9E72-8DC94D63FD0E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-60137](https://vulners.com/githubexploit/8C7932A5-0E93-51BC-A8CF-B53A33FAEFFB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-60137](https://vulners.com/githubexploit/E7D11A43-3433-53EC-B36F-E85D104B549B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -99,6 +113,7 @@
   - [Exploit for CVE-2026-63030](https://vulners.com/githubexploit/86EC71B0-3FDB-53E1-A4CA-5A642F759B3F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-63030](https://vulners.com/githubexploit/A1852F6C-8690-58E1-85E2-865EFA5C06D9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-63030](https://vulners.com/githubexploit/DE794BDF-395F-5543-8B31-41A8A3A60353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Balbooa Forms](https://vulners.com/githubexploit/50A89D7B-D34B-5242-A28B-F172C28091A6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [FLOCK_CVE_SCANNER](https://vulners.com/githubexploit/AB2811CF-7CC8-5F4B-8754-7F9C1A8BE385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sec-notes](https://vulners.com/githubexploit/2A14ECFC-9211-596A-9FAA-97C44D036006?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wp2shell](https://vulners.com/githubexploit/46404B2A-93D5-51B0-8C8E-C3D9FBA89EC7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -107,3 +122,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [手动挡汽车越来越少见](https://www.solidot.org/story?sid=84863)
+- 黑海洋
+  - [联邦雇员又可以在工作手机上安装TikTok](https://blog.upx8.com/%E8%81%94%E9%82%A6%E9%9B%87%E5%91%98%E5%8F%88%E5%8F%AF%E4%BB%A5%E5%9C%A8%E5%B7%A5%E4%BD%9C%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%AE%89%E8%A3%85TikTok)
