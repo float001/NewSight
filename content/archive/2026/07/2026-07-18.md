@@ -2,6 +2,9 @@
 
 - 2Libra
   - [Vibe 成本排行榜出炉，Grok 4.5 拉爆！是 Kimi K3、GPT-5.6 Sol(max)的 1/3，Fable 5 的 1/9](https://2libra.com/post/large-models/4CTPs7g)
+  - [周六一早到望京地铁上的人潮依旧](https://2libra.com/post/social-observation/SIAh0A6)
+- 36氪
+  - [印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界](https://36kr.com/p/3900439867147909?f=rss)
 - 404 Media
   - [You're Invited: 404 Media's Third Anniversary Live Podcast and Party!](https://www.404media.co/three-years/)
 - Ars Technica
@@ -12,7 +15,10 @@
   - [Troubling new details emerge on diabetes ouster controversy](https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/)
 - Cheesy Rumbles
   - [Crystal Palace User Intrinsics](https://rastamouse.me/crystal-palace-user-intrinsics/)
+- Cybersecurity News
+  - [APT-C-60 Attacks Target Japan With SpyGlace Malware](https://securityonline.info/apt-c-60-attacks-spyglace-malware/)
 - daringfireball.net
+  - [Apple Books and Amazon Are Lousy With AI-Generated Books Ripping Off Legitimate Authors](https://thenewthings.com/p/apple-big-ai-book-slop-problem)
   - [Apple Raises Prices for Apple Music and Apple One Subscriptions](https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/)
   - [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html)
   - [Google Runs Out of Appeals, Must Pay Record $4.7 Billion EU Antitrust Fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
@@ -41,9 +47,11 @@
   - [The Good, the Bad and the Ugly in Cybersecurity – Week 29](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-29-8/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-60137 exploit](https://sploitus.com/exploit?id=4031362F-B82C-5C5E-85B4-6FC368C030B3&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-63030 exploit](https://sploitus.com/exploit?id=3EBF671A-6ADD-50DE-8519-72D8FE4F829F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-9271 exploit](https://sploitus.com/exploit?id=82C2E905-C34D-52CE-AF62-DA2DEC5B4A33&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Snakeyaml_Project Snakeyaml exploit](https://sploitus.com/exploit?id=C2E09235-E684-52CF-9A50-1375102D973D&utm_source=rss&utm_medium=rss)
   - [fundapp-capstone exploit](https://sploitus.com/exploit?id=8073F6D6-4EDA-587A-B06A-B75301A82709&utm_source=rss&utm_medium=rss)
+  - [TP-Link-Archer-BE900-v2 exploit](https://sploitus.com/exploit?id=E779542A-71EA-5442-A24E-5A67D7677EB9&utm_source=rss&utm_medium=rss)
   - [university-admission-portal exploit](https://sploitus.com/exploit?id=1F3FE426-6577-517D-9E68-196FD5B06FFF&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)
@@ -184,6 +192,13 @@
   - [CVE-2026-9537 | JBERGER Mojo::JWT up to 1.1 HMAC Signature Verification decode comparison](https://vuldb.com/vuln/379852)
 - Vulners.com RSS Feed
   - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-15899 Use after free in CameraCapture](https://vulners.com/mscve/MS:CVE-2026-15899?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-15900 Use after free in GPU](https://vulners.com/mscve/MS:CVE-2026-15900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-15901 Use after free in Network](https://vulners.com/mscve/MS:CVE-2026-15901?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-15902 Use after free in Cast](https://vulners.com/mscve/MS:CVE-2026-15902?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-15903 Out of bounds read and write in V8](https://vulners.com/mscve/MS:CVE-2026-15903?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-15904 Use after free in Ozone](https://vulners.com/mscve/MS:CVE-2026-15904?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-15905 Use after free in Aura](https://vulners.com/mscve/MS:CVE-2026-15905?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-59866](https://vulners.com/cve/CVE-2025-59866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-59866](https://vulners.com/cvelist/CVELIST:CVE-2025-59866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-59866](https://vulners.com/nvd/NVD:CVE-2025-59866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -433,6 +448,7 @@
   - [CVE-2026-9762 IBM® Data Server driver for JDBC and SQLJ is vulnerable to remote code execution when jdbc url is under user control](https://vulners.com/cvelist/CVELIST:CVE-2026-9762?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ExifReader HEIC/AVIF ISO-BMFF parser throws uncaught RangeError on truncated boxes](https://vulners.com/github/GHSA-G77H-45RF-HCX4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-60137](https://vulners.com/githubexploit/4031362F-B82C-5C5E-85B4-6FC368C030B3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-63030](https://vulners.com/githubexploit/3EBF671A-6ADD-50DE-8519-72D8FE4F829F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-9271](https://vulners.com/githubexploit/82C2E905-C34D-52CE-AF62-DA2DEC5B4A33?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [fundapp-capstone](https://vulners.com/githubexploit/8073F6D6-4EDA-587A-B06A-B75301A82709?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-25XW-CF43-5CCV vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-25XW-CF43-5CCV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -470,6 +486,7 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [TP-Link-Archer-BE900-v2](https://vulners.com/githubexploit/E779542A-71EA-5442-A24E-5A67D7677EB9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [university-admission-portal](https://vulners.com/githubexploit/1F3FE426-6577-517D-9E68-196FD5B06FFF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vLLM: ReDoS via structured_outputs.regex compiled without timeout in xgrammar and outlines backends](https://vulners.com/github/GHSA-RWXX-MRJM-WC2M?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vLLM: Speech-to-text upload size limit is enforced after full UploadFile read](https://vulners.com/github/GHSA-V82G-2437-67M2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -483,7 +500,10 @@
   - [‘The Odyssey’ Backlash Failed Tremendously](https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜苹果上调Apple Music价格/小米SU7虚假碰撞测评博主被判一年八个月/努比亚、阶跃星辰智能体手机亮相WAIC](https://www.ifanr.com/1672338?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU](https://www.qbitai.com/2026/07/453352.html)
 - 黑海洋
+  - [可口可乐乳制品子公司fairlife遭黑客攻击](https://blog.upx8.com/%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E4%B9%B3%E5%88%B6%E5%93%81%E5%AD%90%E5%85%AC%E5%8F%B8fairlife%E9%81%AD%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
   - [每月10万美元！交易员据悉可获取特朗普帖文抢先看服务](https://blog.upx8.com/%E6%AF%8F%E6%9C%8810%E4%B8%87%E7%BE%8E%E5%85%83-%E4%BA%A4%E6%98%93%E5%91%98%E6%8D%AE%E6%82%89%E5%8F%AF%E8%8E%B7%E5%8F%96%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%96%E6%96%87%E6%8A%A2%E5%85%88%E7%9C%8B%E6%9C%8D%E5%8A%A1)
