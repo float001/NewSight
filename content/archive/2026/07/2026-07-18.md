@@ -4,7 +4,14 @@
   - [Vibe 成本排行榜出炉，Grok 4.5 拉爆！是 Kimi K3、GPT-5.6 Sol(max)的 1/3，Fable 5 的 1/9](https://2libra.com/post/large-models/4CTPs7g)
   - [周六一早到望京地铁上的人潮依旧](https://2libra.com/post/social-observation/SIAh0A6)
 - 36氪
+  - [9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源](https://36kr.com/p/3900449325287305?f=rss)
+  - [“智领新程 融创未来” 两岸人工智能系列活动亮相上海世界人工智能大会](https://36kr.com/newsflashes/3900456408631171?f=rss)
+  - [加速器驱动先进核能系统智能解决方案发布](https://36kr.com/newsflashes/3900458277504642?f=rss)
   - [印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界](https://36kr.com/p/3900439867147909?f=rss)
+  - [商务部：王文涛部长会见印尼经济统筹部长艾尔朗加](https://36kr.com/newsflashes/3900456883275652?f=rss)
+  - [壁仞科技推出NPO光互连、分布式解耦架构超节点方案，最大实现1024卡](https://36kr.com/newsflashes/3900457432680067?f=rss)
+  - [美股三大指数收盘集体下跌，大型科技股普跌](https://36kr.com/newsflashes/3900467666077318?f=rss)
+  - [霍尔木兹海峡船舶通过量降至三周来最低点](https://36kr.com/newsflashes/3900457912993411?f=rss)
 - 404 Media
   - [You're Invited: 404 Media's Third Anniversary Live Podcast and Party!](https://www.404media.co/three-years/)
 - Ars Technica
@@ -17,6 +24,7 @@
   - [Crystal Palace User Intrinsics](https://rastamouse.me/crystal-palace-user-intrinsics/)
 - Cybersecurity News
   - [APT-C-60 Attacks Target Japan With SpyGlace Malware](https://securityonline.info/apt-c-60-attacks-spyglace-malware/)
+  - [WordPress Pre-Auth RCE CVE-2026-63030: Vulnerability Details and PoC Exploit Code Now Public](https://securityonline.info/wordpress-pre-auth-rce-cve-2026-63030/)
 - daringfireball.net
   - [Apple Books and Amazon Are Lousy With AI-Generated Books Ripping Off Legitimate Authors](https://thenewthings.com/p/apple-big-ai-book-slop-problem)
   - [Apple Raises Prices for Apple Music and Apple One Subscriptions](https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/)
@@ -33,10 +41,13 @@
 - Fidelis Security
   - [AI is Supercharging Cyberattacks. Can Deception Technology Tip the Balance Back to Defenders?](https://fidelissecurity.com/threatgeek/deception/stop-ai-cyberattacks-with-deception-technology/)
 - Hacker News Frontpage
+  - [Algorithm for NP-Complete Sudoku](https://zenodo.org/records/21420871)
   - [CO2 overload, detected in human blood, suggests toxic atmosphere within 50 years](https://link.springer.com/article/10.1007/s11869-026-01918-5)
   - [Everybody's Weirded Out by AI–Except the People Who Foist It on Us](https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us)
   - [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
+  - [I Started a "Dirt Notebook"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
   - [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+  - [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
   - [The US grocery slowdown is real](https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/)
   - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
 - Horizon3.ai
@@ -498,11 +509,14 @@
   - [Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees](https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/)
   - [What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke](https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/)
   - [‘The Odyssey’ Backlash Failed Tremendously](https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/)
+- 不安全
+  - [[ Removed by Reddit ]](https://buaq.net/go-429474.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜苹果上调Apple Music价格/小米SU7虚假碰撞测评博主被判一年八个月/努比亚、阶跃星辰智能体手机亮相WAIC](https://www.ifanr.com/1672338?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC](https://www.qbitai.com/2026/07/453506.html)
   - [逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU](https://www.qbitai.com/2026/07/453352.html)
 - 黑海洋
   - [可口可乐乳制品子公司fairlife遭黑客攻击](https://blog.upx8.com/%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E4%B9%B3%E5%88%B6%E5%93%81%E5%AD%90%E5%85%AC%E5%8F%B8fairlife%E9%81%AD%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
