@@ -15,12 +15,15 @@
 - daringfireball.net
   - [Apple Raises Prices for Apple Music and Apple One Subscriptions](https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/)
   - [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html)
+  - [Google Runs Out of Appeals, Must Pay Record $4.7 Billion EU Antitrust Fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
   - [Happy iCal Day](https://www.threads.com/@joannastern/post/Da5rgIvjrLM)
   - [Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/)
   - [MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’](https://spyglass.org/chatgpt-brings-back-chatgpt/)
   - [OpenAI Starts Cleaning Up the Utter Mess It Made of ChatGPT](https://x.com/thsottiaux/status/2077928427936710901)
   - [OpenAI’s Product Shake-Up Put the Complexifiers in Charge](https://www.wired.com/story/openai-reorg-greg-brockman-product/)
   - [Roblox Set to Introduce AI Game-Building Feature, Including on iOS](https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox)
+- Emergent Minds | paddo.dev
+  - [Papering Faster: AI Coding Agents and the Root-Cause Fix Nobody Ships](https://paddo.dev/blog/papering-faster/)
 - Fidelis Security
   - [AI is Supercharging Cyberattacks. Can Deception Technology Tip the Balance Back to Defenders?](https://fidelissecurity.com/threatgeek/deception/stop-ai-cyberattacks-with-deception-technology/)
 - Hacker News Frontpage
@@ -37,6 +40,7 @@
 - SentinelOne
   - [The Good, the Bad and the Ugly in Cybersecurity – Week 29](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-29-8/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-60137 exploit](https://sploitus.com/exploit?id=4031362F-B82C-5C5E-85B4-6FC368C030B3&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-9271 exploit](https://sploitus.com/exploit?id=82C2E905-C34D-52CE-AF62-DA2DEC5B4A33&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Snakeyaml_Project Snakeyaml exploit](https://sploitus.com/exploit?id=C2E09235-E684-52CF-9A50-1375102D973D&utm_source=rss&utm_medium=rss)
   - [fundapp-capstone exploit](https://sploitus.com/exploit?id=8073F6D6-4EDA-587A-B06A-B75301A82709&utm_source=rss&utm_medium=rss)
@@ -45,6 +49,7 @@
   - [Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)
   - [AI-driven memory crunch jolts India’s smartphone market](https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/)
   - [Apple and Google ordered to purge ‘nudify’ apps from App Stores](https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/)
+  - [Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield](https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/)
   - [Databricks hits $188B valuation, extending its run as AI’s favorite second act](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/)
   - [FBI arrests man accused of using Steam games to drain victims’ crypto wallets](https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/)
   - [How Apple’s big lawsuit could disrupt OpenAI’s IPO plans](https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/)
@@ -178,6 +183,7 @@
   - [CVE-2026-9135 | IBM Langflow up to 1.10.0 Policies Flow.data node_template["code"] code injection](https://vuldb.com/vuln/379910)
   - [CVE-2026-9537 | JBERGER Mojo::JWT up to 1.1 HMAC Signature Verification decode comparison](https://vuldb.com/vuln/379852)
 - Vulners.com RSS Feed
+  - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-59866](https://vulners.com/cve/CVE-2025-59866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-59866](https://vulners.com/cvelist/CVELIST:CVE-2025-59866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-59866](https://vulners.com/nvd/NVD:CVE-2025-59866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -426,6 +432,7 @@
   - [CVE-2026-9762 IBM® Data Server driver for JDBC and SQLJ is vulnerable to remote code execution when jdbc url is under user control](https://vulners.com/cve/CVE-2026-9762?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9762 IBM® Data Server driver for JDBC and SQLJ is vulnerable to remote code execution when jdbc url is under user control](https://vulners.com/cvelist/CVELIST:CVE-2026-9762?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ExifReader HEIC/AVIF ISO-BMFF parser throws uncaught RangeError on truncated boxes](https://vulners.com/github/GHSA-G77H-45RF-HCX4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-60137](https://vulners.com/githubexploit/4031362F-B82C-5C5E-85B4-6FC368C030B3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-9271](https://vulners.com/githubexploit/82C2E905-C34D-52CE-AF62-DA2DEC5B4A33?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [fundapp-capstone](https://vulners.com/githubexploit/8073F6D6-4EDA-587A-B06A-B75301A82709?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-25XW-CF43-5CCV vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-25XW-CF43-5CCV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -443,6 +450,8 @@
   - [GHSA-WHHX-PV66-XHGQ vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-WHHX-PV66-XHGQ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-XXVR-RJCX-VQW8 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-XXVR-RJCX-VQW8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft](https://vulners.com/thn/THN:7D46DAAE0FDB6B01BA1C1B50AF747557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Malicious code in axios-native (npm)](https://vulners.com/ossf/OSSF:MAL-2026-10772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Malicious code in telemetry-axios (npm)](https://vulners.com/ossf/OSSF:MAL-2026-10773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in trongridme (PyPI)](https://vulners.com/ossf/OSSF:MAL-2026-10771?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://vulners.com/thn/THN:9A79C915FCE1E7FE6CA1FC88F7B69F11?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://vulners.com/thn/THN:73DD59721858992BB0661BA5E3645695?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -450,6 +459,17 @@
   - [NPM: mcp-memory-keeper: Arbitrary local file read in context_import via unvalidated filePath](https://vulners.com/patchstack/PATCHSTACK:1D814013DDD2B6EDFB1A84B83ED50F4F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://vulners.com/thn/THN:C4F4E300B2D200716994F38AC7BA3C02?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PRoot-Distro has Path Traversal in proot-distro copy — Arbitrary Read, Write, and Persistent Code Execution Outside Container Rootfs](https://vulners.com/github/GHSA-MFR4-MQ8W-VMG6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerabilities in the net/bluetooth/eir.c and net/bluetooth/mgmt.c modules of Linux kernel allow a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability in the drivers/bluetooth/btnxpuart.c module of Linux operating systems allows a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of Microsoft Office packages and 365 Apps for Enterprise lies in the use of memory after it is freed, allowing an attacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Directum HR Pro system, which exists due to insufficient verification of input data, allows a perpetrator to disclose protected information.](https://vulners.com/bdu_fstec/BDU:2025-09755?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Directum RX ECM system, related to deficiencies in access control, allows a perpetrator to compromise data integrity.](https://vulners.com/bdu_fstec/BDU:2025-09752?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Directum Web Agent component of the Directum RX system, which arises due to insufficient validation of input data, allows a perpetrator to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09754?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Kerberos protocol for Windows operating systems allows attackers to increase their privileges.](https://vulners.com/bdu_fstec/BDU:2025-09690?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the MmMapIoSpace() function in the ThrottleBlood.sys driver allows a hacker to escalate their privileges, execute arbitrary code, or cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [university-admission-portal](https://vulners.com/githubexploit/1F3FE426-6577-517D-9E68-196FD5B06FFF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vLLM: ReDoS via structured_outputs.regex compiled without timeout in xgrammar and outlines backends](https://vulners.com/github/GHSA-RWXX-MRJM-WC2M?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vLLM: Speech-to-text upload size limit is enforced after full UploadFile read](https://vulners.com/github/GHSA-V82G-2437-67M2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -465,3 +485,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 量子位 QbitAI
   - [逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU](https://www.qbitai.com/2026/07/453352.html)
+- 黑海洋
+  - [每月10万美元！交易员据悉可获取特朗普帖文抢先看服务](https://blog.upx8.com/%E6%AF%8F%E6%9C%8810%E4%B8%87%E7%BE%8E%E5%85%83-%E4%BA%A4%E6%98%93%E5%91%98%E6%8D%AE%E6%82%89%E5%8F%AF%E8%8E%B7%E5%8F%96%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%96%E6%96%87%E6%8A%A2%E5%85%88%E7%9C%8B%E6%9C%8D%E5%8A%A1)
