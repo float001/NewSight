@@ -59,6 +59,7 @@
 - Cybersecurity News
   - [Active Exploitation and Public PoC Disclosed for CVE-2026-6875 ServiceNow Sandbox Escape Remote Code Execution](https://securityonline.info/cve-2026-6875-servicenow-sandbox-escape-rce/)
   - [APT-C-60 Attacks Target Japan With SpyGlace Malware](https://securityonline.info/apt-c-60-attacks-spyglace-malware/)
+  - [Claude Fable 5 Subscription Changes Announced](https://securityonline.info/claude-fable-5-subscription-changes/)
   - [Cloudflare Blocks Critical WordPress wp2shell Vulnerability](https://securityonline.info/wordpress-wp2shell-vulnerability/)
   - [Microsoft Ends OneDrive Support for Windows 10](https://securityonline.info/onedrive-windows-10-support/)
   - [Ubuntu Pro Client Flaw CVE-2026-11386 Allows Arbitrary Code Execution With Root Privileges](https://securityonline.info/ubuntu-pro-client-cve-2026-11386/)
@@ -92,6 +93,7 @@
   - [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
   - [The US grocery slowdown is real](https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/)
   - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
+  - [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 - Horizon3.ai
   - [CVE-2026-15409 / CVE-2026-15410 | SonicWall SMA1000 Server-Side Request Forgery and Code Injection Vulnerabilities](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-15409-cve-2026-15410/)
 - InfoSec Write-ups - Medium
@@ -107,8 +109,12 @@
   - [How I Escalated to Domain Admin Using AD CS (And How to Fix It)](https://infosecwriteups.com/how-i-escalated-to-domain-admin-using-ad-cs-and-how-to-fix-it-a86cc69aed5a?source=rss----7b722bfd1b8d---4)
 - johndcook.com
   - [Visualizing Medical Code Hierarchy](https://www.johndcook.com/blog/2026/07/17/visualizing-medical-code-hierarchy/)
+- Sebastian Raschka
+  - [Controlling Reasoning Effort in LLMs](https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms)
 - SentinelOne
   - [The Good, the Bad and the Ugly in Cybersecurity – Week 29](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-29-8/)
+- shkspr.mobi
+  - [Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪](https://shkspr.mobi/blog/2026/07/book-review-a-city-on-mars-by-dr-kelly-weinersmith-and-zach-weinersmith/)
 - simonwillison.net
   - [Claude make Fable 5 permanent](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything)
   - [nascheme/quixote](https://simonwillison.net/2026/Jul/18/quixote/#atom-everything)
@@ -128,6 +134,9 @@
   - [terminal-poc-corpus exploit](https://sploitus.com/exploit?id=35BA945A-6823-5B28-BB36-9BD7EA5ADB59&utm_source=rss&utm_medium=rss)
   - [TP-Link-Archer-BE900-v2 exploit](https://sploitus.com/exploit?id=E779542A-71EA-5442-A24E-5A67D7677EB9&utm_source=rss&utm_medium=rss)
   - [university-admission-portal exploit](https://sploitus.com/exploit?id=1F3FE426-6577-517D-9E68-196FD5B06FFF&utm_source=rss&utm_medium=rss)
+  - [wp2shell-go exploit](https://sploitus.com/exploit?id=09381E37-66E9-52A2-AF7E-670A9638A774&utm_source=rss&utm_medium=rss)
+- SumSec's Blog
+  - [AI Agent 工程的必然演进：CLI、Skills、Harness 与 Loop](https://sumsec.me/2026/ai-agent-engineering-evolution.html)
 - TechCrunch
   - [Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)
   - [AI-driven memory crunch jolts India’s smartphone market](https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/)
@@ -156,9 +165,11 @@
   - [Apple Music is getting a price hike](https://www.theverge.com/tech/967379/apple-music-price-increase)
   - [Apple’s plot to crush OpenAI](https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast)
   - [Asus’ top-end 4K QD-OLED gaming monitor is $400 off](https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale)
+  - [More games should be on rails (literally)](https://www.theverge.com/games/961152/denshattack-review)
   - [Pebble founder Eric Migicovsky says his 30-day warranty is all about trust](https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview)
   - [Shark&#8217;s versatile ChillPill cooling system is back to its best price](https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale)
   - [Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak](https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce)
+  - [The apps, gadgets, and tools every reader needs](https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer)
   - [TikTok is testing an AI likeness detection tool](https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool)
 - VulDB Recent Entries
   - [CVE-2025-51677 | OpenRISC OR1200 Output Port initialization (83ac6b)](https://vuldb.com/vuln/379941)
@@ -380,8 +391,11 @@
   - [CVE-2026-16093](https://vulners.com/nvd/NVD:CVE-2026-16093?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16093 Keycloak-services: keycloak-services: required signed-jwt assertion policy can be bypassed with unsigned assertion headers](https://vulners.com/cve/CVE-2026-16093?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16093 Keycloak-services: keycloak-services: required signed-jwt assertion policy can be bypassed with unsigned assertion headers](https://vulners.com/cvelist/CVELIST:CVE-2026-16093?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16095](https://vulners.com/nvd/NVD:CVE-2026-16095?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16095 Shibby Tomato rc setup_conntrack out-of-bounds write](https://vulners.com/cve/CVE-2026-16095?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16095 Shibby Tomato rc setup_conntrack out-of-bounds write](https://vulners.com/cvelist/CVELIST:CVE-2026-16095?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16096 Shibby Tomato webmon_recent_domains sub_40BB50 stack-based overflow](https://vulners.com/cve/CVE-2026-16096?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16096 Shibby Tomato webmon_recent_domains sub_40BB50 stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-16096?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16103](https://vulners.com/nvd/NVD:CVE-2026-16103?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16103 Keycloak-services: keycloak-services: incomplete fix for ciba brute-force lockout bypass at token redemption](https://vulners.com/cve/CVE-2026-16103?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16103 Keycloak-services: keycloak-services: incomplete fix for ciba brute-force lockout bypass at token redemption](https://vulners.com/cvelist/CVELIST:CVE-2026-16103?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -643,6 +657,7 @@
   - [WordPress Core <= 7.0.1 - Unauthenticated REST API Batch Request Handler Confusion](https://vulners.com/patchstack/PATCHSTACK:ACACA0AF750AE2E1A1F03F4EE5EF655D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress Core <= 7.0.1 - Unauthenticated SQL Injection vulnerability](https://vulners.com/patchstack/PATCHSTACK:0F28B94FD8FB46D0970AD5ECEF1618A7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WP2Shell](https://vulners.com/githubexploit/94C092D5-7358-59E3-9256-2C17AA548AF0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [wp2shell-go](https://vulners.com/githubexploit/09381E37-66E9-52A2-AF7E-670A9638A774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [AWS Billing Glitch Hits Customers With Billion-Dollar Fees](https://www.wired.com/story/amazon-web-services-glitch-oh-no/)
   - [Balmuda NatureWind Studio Review: A Better Breeze](https://www.wired.com/review/balmuda-naturewind-studio-fan/)
@@ -669,6 +684,7 @@
   - [早报｜苹果上调Apple Music价格/小米SU7虚假碰撞测评博主被判一年八个月/努比亚、阶跃星辰智能体手机亮相WAIC](https://www.ifanr.com/1672338?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50](https://www.qbitai.com/2026/07/453889.html)
+  - [WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀](https://www.qbitai.com/2026/07/454015.html)
   - [全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC](https://www.qbitai.com/2026/07/453506.html)
   - [后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新](https://www.qbitai.com/2026/07/453705.html)
   - [妙啊！无人机直连卫星传Token](https://www.qbitai.com/2026/07/453789.html)
