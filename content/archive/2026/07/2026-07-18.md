@@ -9,6 +9,7 @@
   - [“智领新程 融创未来” 两岸人工智能系列活动亮相上海世界人工智能大会](https://36kr.com/newsflashes/3900456408631171?f=rss)
   - [三季度起班次加密 天津经霍尔果斯口岸图定中亚班列运力翻倍](https://36kr.com/newsflashes/3900623148107398?f=rss)
   - [世界杯决赛首设中场表演 或将打破竞赛规则](https://36kr.com/newsflashes/3900622613431940?f=rss)
+  - [中欧班列（福州）开行4年进出口总货值超16亿元](https://36kr.com/newsflashes/3900680288093828?f=rss)
   - [加速器驱动先进核能系统智能解决方案发布](https://36kr.com/newsflashes/3900458277504642?f=rss)
   - [医疗AI独角兽OpenEvidence再传融资意向，潜在估值升至200亿美元](https://36kr.com/newsflashes/3900510926276486?f=rss)
   - [印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界](https://36kr.com/p/3900439867147909?f=rss)
@@ -17,6 +18,9 @@
   - [国家能源局：将加快构建新型能源体系 赋能AI发展](https://36kr.com/newsflashes/3900549667456901?f=rss)
   - [塔可钟宣布完成全美供应链受影响生菜的撤换，应对环孢子虫病事件](https://36kr.com/newsflashes/3900622059227009?f=rss)
   - [壁仞科技推出NPO光互连、分布式解耦架构超节点方案，最大实现1024卡](https://36kr.com/newsflashes/3900457432680067?f=rss)
+  - [屈臣氏集团考虑推迟伦敦IPO计划](https://36kr.com/newsflashes/3900677565138818?f=rss)
+  - [崔东树：电池企业的竞争格局形成宁德时代和比亚迪两者相对较强的特征](https://36kr.com/newsflashes/3900678751618946?f=rss)
+  - [崔东树：锂电池消费税调整，是对整车企业造电池的有力助推，有利于中国汽车产业做大做强](https://36kr.com/newsflashes/3900678191548040?f=rss)
   - [日媒：印企越来越依赖中国AI大模型](https://36kr.com/newsflashes/3900548047177344?f=rss)
   - [深度原理AI科学家平台获WAIC 2026 SAIL之星奖](https://36kr.com/newsflashes/3900651285726857?f=rss)
   - [澳门上半年入境旅客超2094万人次 同比增长9%](https://36kr.com/newsflashes/3900589153519494?f=rss)
@@ -53,6 +57,8 @@
   - [OpenAI Starts Cleaning Up the Utter Mess It Made of ChatGPT](https://x.com/thsottiaux/status/2077928427936710901)
   - [OpenAI’s Product Shake-Up Put the Complexifiers in Charge](https://www.wired.com/story/openai-reorg-greg-brockman-product/)
   - [Roblox Set to Introduce AI Game-Building Feature, Including on iOS](https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox)
+- defend.network
+  - [WordPress, OpenSSL, Fortinet zero-days: patches shipped and KEV escalations](https://defend.network/briefings/wordpress-openssl-fortinet-exploits-patched-2026-07-18.html)
 - Emergent Minds | paddo.dev
   - [Papering Faster: AI Coding Agents and the Root-Cause Fix Nobody Ships](https://paddo.dev/blog/papering-faster/)
 - Fidelis Security
@@ -78,6 +84,7 @@
   - [Claude make Fable 5 permanent](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything)
   - [nascheme/quixote](https://simonwillison.net/2026/Jul/18/quixote/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-60137 exploit](https://sploitus.com/exploit?id=1AF5C08A-6DE8-580A-AD06-7928A2614235&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-60137 exploit](https://sploitus.com/exploit?id=4031362F-B82C-5C5E-85B4-6FC368C030B3&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-63030 exploit](https://sploitus.com/exploit?id=3EBF671A-6ADD-50DE-8519-72D8FE4F829F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-9271 exploit](https://sploitus.com/exploit?id=82C2E905-C34D-52CE-AF62-DA2DEC5B4A33&utm_source=rss&utm_medium=rss)
@@ -283,6 +290,7 @@
   - [CVE-2026-16073 AstrBotDevs AstrBot T2I Feature base.py NetworkRenderStrategy.render cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-16073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16074](https://vulners.com/nvd/NVD:CVE-2026-16074?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16075](https://vulners.com/nvd/NVD:CVE-2026-16075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16076](https://vulners.com/nvd/NVD:CVE-2026-16076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16076 AstrBotDevs AstrBot API open_api.py OpenApiRoute.chat_send authentication spoofing](https://vulners.com/cvelist/CVELIST:CVE-2026-16076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16093](https://vulners.com/nvd/NVD:CVE-2026-16093?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16093 Keycloak-services: keycloak-services: required signed-jwt assertion policy can be bypassed with unsigned assertion headers](https://vulners.com/cve/CVE-2026-16093?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -486,6 +494,7 @@
   - [CVE-2026-9762 IBM® Data Server driver for JDBC and SQLJ is vulnerable to remote code execution when jdbc url is under user control](https://vulners.com/cve/CVE-2026-9762?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9762 IBM® Data Server driver for JDBC and SQLJ is vulnerable to remote code execution when jdbc url is under user control](https://vulners.com/cvelist/CVELIST:CVE-2026-9762?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ExifReader HEIC/AVIF ISO-BMFF parser throws uncaught RangeError on truncated boxes](https://vulners.com/github/GHSA-G77H-45RF-HCX4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-60137](https://vulners.com/githubexploit/1AF5C08A-6DE8-580A-AD06-7928A2614235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-60137](https://vulners.com/githubexploit/4031362F-B82C-5C5E-85B4-6FC368C030B3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-60137](https://vulners.com/githubexploit/92CDB386-8871-5B12-AE80-BC549C9AC39C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-63030](https://vulners.com/githubexploit/3EBF671A-6ADD-50DE-8519-72D8FE4F829F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -546,12 +555,14 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [6 台机器人拼长城、首款智能体手机首秀：阶跃把 AI 塞进了现实世界｜WAIC 2026](https://www.ifanr.com/1672344?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [iOS 27 公测版上手：国行 AI 准备好了，但系统流畅更值得升级](https://www.ifanr.com/1672364?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果上调Apple Music价格/小米SU7虚假碰撞测评博主被判一年八个月/努比亚、阶跃星辰智能体手机亮相WAIC](https://www.ifanr.com/1672338?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC](https://www.qbitai.com/2026/07/453506.html)
   - [逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU](https://www.qbitai.com/2026/07/453352.html)
 - 黑海洋
   - [AI狂潮大赚 ASML拟向员工发2万欧元奖励](https://blog.upx8.com/AI%E7%8B%82%E6%BD%AE%E5%A4%A7%E8%B5%9A-ASML%E6%8B%9F%E5%90%91%E5%91%98%E5%B7%A5%E5%8F%912%E4%B8%87%E6%AC%A7%E5%85%83%E5%A5%96%E5%8A%B1)
+  - [Netflix称平台上约有300部作品使用了AI](https://blog.upx8.com/Netflix%E7%A7%B0%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%BA%A6%E6%9C%89300%E9%83%A8%E4%BD%9C%E5%93%81%E4%BD%BF%E7%94%A8%E4%BA%86AI)
   - [中国驳斥关于其非法蒸馏外国AI技术的说法](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E9%A9%B3%E6%96%A5%E5%85%B3%E4%BA%8E%E5%85%B6%E9%9D%9E%E6%B3%95%E8%92%B8%E9%A6%8F%E5%A4%96%E5%9B%BDAI%E6%8A%80%E6%9C%AF%E7%9A%84%E8%AF%B4%E6%B3%95)
   - [亚马逊向部分AWS客户开出数十亿美元账单](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%90%91%E9%83%A8%E5%88%86AWS%E5%AE%A2%E6%88%B7%E5%BC%80%E5%87%BA%E6%95%B0%E5%8D%81%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B4%A6%E5%8D%95)
   - [可口可乐乳制品子公司fairlife遭黑客攻击](https://blog.upx8.com/%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E4%B9%B3%E5%88%B6%E5%93%81%E5%AD%90%E5%85%AC%E5%8F%B8fairlife%E9%81%AD%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
