@@ -1,4 +1,30 @@
 # 今日安全资讯（2026-07-19）
 
+- 2Libra
+  - [【💰】签到 201 天，潘多拉拿到卡皮巴拉！！](https://2libra.com/post/forum-function/seZroUZ)
+- ByteByteGo
+  - [MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other](https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually)
+- Cybersecurity News
+  - [Hugging Face Discloses Production Breach Driven by an Autonomous AI Agent](https://securityonline.info/hugging-face-ai-agent-breach/)
+- Hacker News Frontpage
+  - [Fake food delivery site for the dopamine](https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/)
+  - [Heresy](https://paulgraham.com/heresy.html)
+  - [OpenEvidence is bribing spouses of CMI and Genentech leadership](https://news.ycombinator.com/item?id=48959765)
+  - [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
+  - [Young adults are poor despite every metric which suggests otherwise](https://xcancel.com/i/article/2077113148524417439)
+- TechCrunch
+  - [All the EVs that were discontinued or killed off in the U.S. this year](https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/)
+- The Verge
+  - [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji)
+- Vulners.com RSS Feed
+  - [CVE-2026-16124](https://vulners.com/nvd/NVD:CVE-2026-16124?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16125](https://vulners.com/nvd/NVD:CVE-2026-16125?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16126](https://vulners.com/nvd/NVD:CVE-2026-16126?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16127](https://vulners.com/nvd/NVD:CVE-2026-16127?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16128 zevorn rt-claw http_request swarm.c receiver_thread server-side request forgery](https://vulners.com/cve/CVE-2026-16128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16128 zevorn rt-claw http_request swarm.c receiver_thread server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-16128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-60137](https://vulners.com/githubexploit/E7D11A43-3433-53EC-B36F-E85D104B549B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [手动挡汽车越来越少见](https://www.solidot.org/story?sid=84863)
