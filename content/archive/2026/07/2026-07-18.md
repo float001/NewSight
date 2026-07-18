@@ -11,11 +11,15 @@
   - [印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界](https://36kr.com/p/3900439867147909?f=rss)
   - [商务部：王文涛部长会见印尼经济统筹部长艾尔朗加](https://36kr.com/newsflashes/3900456883275652?f=rss)
   - [国家智慧教育平台全面深化应用试点推进会召开](https://36kr.com/newsflashes/3900510413899654?f=rss)
+  - [国家能源局：将加快构建新型能源体系 赋能AI发展](https://36kr.com/newsflashes/3900549667456901?f=rss)
   - [壁仞科技推出NPO光互连、分布式解耦架构超节点方案，最大实现1024卡](https://36kr.com/newsflashes/3900457432680067?f=rss)
+  - [日媒：印企越来越依赖中国AI大模型](https://36kr.com/newsflashes/3900548047177344?f=rss)
   - [美国商业银行存款一周减少740亿美元，降至19.36万亿美元](https://36kr.com/newsflashes/3900513075136130?f=rss)
   - [美股三大指数收盘集体下跌，大型科技股普跌](https://36kr.com/newsflashes/3900467666077318?f=rss)
+  - [苹果与美国司法部就反垄断诉讼展开和解谈判](https://36kr.com/newsflashes/3900551249987203?f=rss)
   - [苹果公司在日本提高iPhone售价，部分机型涨价超2万日元](https://36kr.com/newsflashes/3900511572149890?f=rss)
   - [霍尔木兹海峡船舶通过量降至三周来最低点](https://36kr.com/newsflashes/3900457912993411?f=rss)
+  - [黄仁勋皮夹克拍出96万美元天价](https://36kr.com/newsflashes/3900550483216007?f=rss)
 - 404 Media
   - [You're Invited: 404 Media's Third Anniversary Live Podcast and Party!](https://www.404media.co/three-years/)
 - Ars Technica
@@ -464,6 +468,7 @@
   - [CVE-2026-9762 IBM® Data Server driver for JDBC and SQLJ is vulnerable to remote code execution when jdbc url is under user control](https://vulners.com/cvelist/CVELIST:CVE-2026-9762?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ExifReader HEIC/AVIF ISO-BMFF parser throws uncaught RangeError on truncated boxes](https://vulners.com/github/GHSA-G77H-45RF-HCX4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-60137](https://vulners.com/githubexploit/4031362F-B82C-5C5E-85B4-6FC368C030B3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-60137](https://vulners.com/githubexploit/92CDB386-8871-5B12-AE80-BC549C9AC39C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-63030](https://vulners.com/githubexploit/3EBF671A-6ADD-50DE-8519-72D8FE4F829F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-9271](https://vulners.com/githubexploit/82C2E905-C34D-52CE-AF62-DA2DEC5B4A33?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [fundapp-capstone](https://vulners.com/githubexploit/8073F6D6-4EDA-587A-B06A-B75301A82709?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -519,6 +524,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [6 台机器人拼长城、首款智能体手机首秀：阶跃把 AI 塞进了现实世界｜WAIC 2026](https://www.ifanr.com/1672344?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果上调Apple Music价格/小米SU7虚假碰撞测评博主被判一年八个月/努比亚、阶跃星辰智能体手机亮相WAIC](https://www.ifanr.com/1672338?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC](https://www.qbitai.com/2026/07/453506.html)
