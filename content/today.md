@@ -1,11 +1,23 @@
 # 今日安全资讯（2026-07-20）
 
+- 2Libra
+  - [恭喜阿根廷喜提亚军](https://2libra.com/post/football/zgOsHmz)
+  - [释放液体防飞溅指南 Guide for Preventing Liquid Splashing During Discharge (GPLSDD)](https://2libra.com/post/sharing-discoveries/SC44exZ)
+- 36氪
+  - [AI优化设计并结合人类视觉感知，“隐身于眼前”的无人机研制成功](https://36kr.com/newsflashes/3903163375110018?f=rss)
+  - [SpaceX将“星舰”第13次试飞推迟至7月23日](https://36kr.com/newsflashes/3903160957978496?f=rss)
+  - [上海上半年GDP同比增长5.6%](https://36kr.com/newsflashes/3903160326670212?f=rss)
+  - [科学家开发出更坚韧耐磨的银涂层](https://36kr.com/newsflashes/3903162669778568?f=rss)
+- Ars Technica
+  - [India's first privately-developed rocket reaches orbit on dramatic debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
 - daringfireball.net
   - [9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil](https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/)
+  - [Paper](https://paper.design/?utm_source=df)
 - Hacker News Frontpage
   - [Heavy TV watching associated with smaller brain structures, study finds](https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/)
   - [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g)
   - [Less Is More: Why Audio on SoundCloud Looks Different](https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/)
+  - [Principia Artificialis – Mathematical Foundations of Artificial Thought](https://github.com/holland202/Principia-Artificialis)
 - johndcook.com
   - [Fitting a regular expression to a list of words](https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/)
   - [Sum of low squares](https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/)
