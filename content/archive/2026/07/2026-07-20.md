@@ -3,6 +3,7 @@
 - daringfireball.net
   - [9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil](https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/)
 - Hacker News Frontpage
+  - [Heavy TV watching associated with smaller brain structures, study finds](https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/)
   - [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g)
   - [Less Is More: Why Audio on SoundCloud Looks Different](https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/)
 - johndcook.com
@@ -10,6 +11,7 @@
   - [Sum of low squares](https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/)
 - Sploitus.com Exploits RSS Feed
   - [fz-b2-rootshell exploit](https://sploitus.com/exploit?id=3C68399F-BEA2-59C7-B9D0-1A0E0F60AD03&utm_source=rss&utm_medium=rss)
+  - [PLUGINS-DETECTOR exploit](https://sploitus.com/exploit?id=B0E767CC-AE64-52D6-BC4E-57269672EDBC&utm_source=rss&utm_medium=rss)
   - [VulnFeed exploit](https://sploitus.com/exploit?id=52B9C6F3-9E80-5D8F-86BE-8EF64B223D43&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Can an Apple lawsuit derail OpenAI’s hardware plans?](https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/)
@@ -18,6 +20,7 @@
   - [Kodak EC35 is a dirt-cheap point-and-shoot film camera](https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera)
   - [The FBI reportedly won’t investigate ICE anymore](https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults)
 - VulDB Recent Entries
+  - [CVE-2026-12484 | keras-team keras up to 3.15.0 TorchModuleWrapper TorchModuleWrapper.from_config deserialization](https://vuldb.com/vuln/380531)
   - [CVE-2026-63811 | Linux Kernel F2fs f2fs_write_begin null pointer dereference](https://vuldb.com/vuln/380522)
   - [CVE-2026-63813 | Linux Kernel F2FS move_data_block/folio_put race condition](https://vuldb.com/vuln/380489)
   - [CVE-2026-63815 | Linux Kernel up to 6.12.95/6.18.38/7.1.2 F2fs fs/f2fs/dir.c f2fs_fill_dentries i_inline_xattr_size out-of-bounds](https://vuldb.com/vuln/380512)
@@ -319,6 +322,8 @@
   - [CVE-2026-64185 | Linux Kernel up to 7.0.10 Sysfs sysfs_update_group](https://vuldb.com/vuln/380356)
   - [CVE-2026-64186 | Linux Kernel up to 6.18.33/7.0.10 AMD IOMMU iommu_mmio_write/iommu_capability_write dbg_mmio_offset/dbg_cap_offset out-of-bounds](https://vuldb.com/vuln/380357)
 - Vulners.com RSS Feed
+  - [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://vulners.com/thn/THN:8DBED79D20244DA459FC84CDE774DEFD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12484](https://vulners.com/nvd/NVD:CVE-2026-12484?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64136](https://vulners.com/nvd/NVD:CVE-2026-64136?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64137](https://vulners.com/nvd/NVD:CVE-2026-64137?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64141](https://vulners.com/nvd/NVD:CVE-2026-64141?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -368,6 +373,7 @@
   - [CVE-2026-64185](https://vulners.com/nvd/NVD:CVE-2026-64185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64186](https://vulners.com/nvd/NVD:CVE-2026-64186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [fz-b2-rootshell](https://vulners.com/githubexploit/3C68399F-BEA2-59C7-B9D0-1A0E0F60AD03?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [PLUGINS-DETECTOR](https://vulners.com/githubexploit/B0E767CC-AE64-52D6-BC4E-57269672EDBC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [VulnFeed](https://vulners.com/githubexploit/52B9C6F3-9E80-5D8F-86BE-8EF64B223D43?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
