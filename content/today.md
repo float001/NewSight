@@ -10,11 +10,14 @@
   - [Fitting a regular expression to a list of words](https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/)
   - [Sum of low squares](https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-63030 exploit](https://sploitus.com/exploit?id=C77F9A6D-E67C-5BDB-ABBC-D757A875D17B&utm_source=rss&utm_medium=rss)
   - [fz-b2-rootshell exploit](https://sploitus.com/exploit?id=3C68399F-BEA2-59C7-B9D0-1A0E0F60AD03&utm_source=rss&utm_medium=rss)
   - [PLUGINS-DETECTOR exploit](https://sploitus.com/exploit?id=B0E767CC-AE64-52D6-BC4E-57269672EDBC&utm_source=rss&utm_medium=rss)
   - [VulnFeed exploit](https://sploitus.com/exploit?id=52B9C6F3-9E80-5D8F-86BE-8EF64B223D43&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Can an Apple lawsuit derail OpenAI’s hardware plans?](https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/)
+  - [Netflix paid $587M for Ben Affleck’s AI filmmaking startup](https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/)
+  - [What to watch for after Jensen Huang’s Japan visit](https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/)
 - The Verge
   - [I hate that I don’t hate this song made with Suno](https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music)
   - [Kodak EC35 is a dirt-cheap point-and-shoot film camera](https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera)
@@ -372,6 +375,7 @@
   - [CVE-2026-64184](https://vulners.com/nvd/NVD:CVE-2026-64184?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64185](https://vulners.com/nvd/NVD:CVE-2026-64185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64186](https://vulners.com/nvd/NVD:CVE-2026-64186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-63030](https://vulners.com/githubexploit/C77F9A6D-E67C-5BDB-ABBC-D757A875D17B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [fz-b2-rootshell](https://vulners.com/githubexploit/3C68399F-BEA2-59C7-B9D0-1A0E0F60AD03?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PLUGINS-DETECTOR](https://vulners.com/githubexploit/B0E767CC-AE64-52D6-BC4E-57269672EDBC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [VulnFeed](https://vulners.com/githubexploit/52B9C6F3-9E80-5D8F-86BE-8EF64B223D43?utm_source=rss&utm_medium=rss&utm_campaign=rss)
