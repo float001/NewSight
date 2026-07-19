@@ -2,6 +2,8 @@
 
 - 2Libra
   - [【💰】签到 201 天，潘多拉拿到卡皮巴拉！！](https://2libra.com/post/forum-function/seZroUZ)
+- 36氪
+  - [阶跃与上海期智研究院共建智能体前沿研究院](https://36kr.com/newsflashes/3901840300754822?f=rss)
 - ByteByteGo
   - [MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other](https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually)
 - Cybersecurity News
@@ -9,6 +11,7 @@
   - [US Justice Department Approves TikTok for Government Devices](https://securityonline.info/doj-approves-tiktok-government-devices/)
 - daringfireball.net
   - [Apple Sends Letters to Dozens of Former Employees Now at OpenAI](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1)
+  - [★ Mornings in Cupertino Have the Aroma of Napalm Once Again](https://daringfireball.net/2026/07/mornings_in_cupertino_have_the_aroma_of_napalm_once_again)
 - Der Flounder
   - [FileVault on versus off on Apple Silicon Macs](https://derflounder.wordpress.com/2026/07/18/filevault-on-versus-off-on-apple-silicon-macs/)
 - Emergent Minds | paddo.dev
@@ -102,8 +105,10 @@
   - [CVE-2026-16195 Sipeed PicoClaw Group Message wecom.go dispatchIncoming authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-16195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16196](https://vulners.com/nvd/NVD:CVE-2026-16196?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16197](https://vulners.com/nvd/NVD:CVE-2026-16197?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16198](https://vulners.com/nvd/NVD:CVE-2026-16198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16198 Sipeed PicoClaw First Run Setup access_control.go authentication bypass](https://vulners.com/cve/CVE-2026-16198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16198 Sipeed PicoClaw First Run Setup access_control.go authentication bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-16198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16199](https://vulners.com/nvd/NVD:CVE-2026-16199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994](https://vulners.com/nvd/NVD:CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994 ProFTPD mod_sftp Heap Buffer Overflow via Unsigned Integer Underflow and Size Truncation](https://vulners.com/cve/CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994 ProFTPD mod_sftp Heap Buffer Overflow via Unsigned Integer Underflow and Size Truncation](https://vulners.com/cvelist/CVELIST:CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -144,4 +149,6 @@
 - 奇客Solidot–传递最新科技情报
   - [手动挡汽车越来越少见](https://www.solidot.org/story?sid=84863)
 - 黑海洋
+  - [今年上半年美国CD销量同比增长了16%](https://blog.upx8.com/%E4%BB%8A%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BE%8E%E5%9B%BDCD%E9%94%80%E9%87%8F%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF%E4%BA%8616)
   - [联邦雇员又可以在工作手机上安装TikTok](https://blog.upx8.com/%E8%81%94%E9%82%A6%E9%9B%87%E5%91%98%E5%8F%88%E5%8F%AF%E4%BB%A5%E5%9C%A8%E5%B7%A5%E4%BD%9C%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%AE%89%E8%A3%85TikTok)
+  - [苹果和谷歌被勒令从应用商店下架脱衣App](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%92%8C%E8%B0%B7%E6%AD%8C%E8%A2%AB%E5%8B%92%E4%BB%A4%E4%BB%8E%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E4%B8%8B%E6%9E%B6%E8%84%B1%E8%A1%A3App)
