@@ -3,6 +3,7 @@
 - 2Libra
   - [2Libra 有水深火热节点吗](https://2libra.com/post/forum-function/ghpsLUZ)
   - [7 月 19 日微语报，星期日，农历六月初六，周末愉快！](https://2libra.com/post/hotspot-tracking/5p1irXl)
+  - [【NexoToken 纽智】GPT·Codex 超低价分组上线｜输入低至¥0.03/百万 Token｜全系缓存 1 折](https://2libra.com/post/ai-gateway/QVb_Szm)
   - [【周末吃吃吃】今天吃的分明是水中牛马啊～ 🤣🤣🤣](https://2libra.com/post/personal-life/8vGA9ZI)
   - [【投票】选什么爱好比较好](https://2libra.com/post/questions/MZ8JG5e)
   - [【竞猜】世界杯决赛冠军花落谁家](https://2libra.com/post/forum-function/S4Ph3JQ)
@@ -54,6 +55,8 @@
   - [阶跃与上海期智研究院共建智能体前沿研究院](https://36kr.com/newsflashes/3901840300754822?f=rss)
   - [阿里最新一代大模型千问3.8将至，正式版预计近期开源](https://36kr.com/newsflashes/3902296634050437?f=rss)
   - [韩国财政部表示，将允许外国投资者交易更多以韩元计价的债券，并可从国内外汇银行借入韩元](https://36kr.com/newsflashes/3901994798466952?f=rss)
+- Ars Technica
+  - [As mosquito ranges expand, better monitoring is key to preventing disease](https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/)
 - ByteByteGo
   - [MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other](https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -90,6 +93,8 @@
   - [Young adults are poor despite every metric which suggests otherwise](https://xcancel.com/i/article/2077113148524417439)
 - PwnDefend
   - [WP2SHELL Update](https://www.pwndefend.com/2026/07/19/wp2shell-update/)
+- Recent Commits to cve:main
+  - [Update Sun Jul 19 12:00:28 UTC 2026](https://github.com/trickest/cve/commit/b4f1378756fd26f414d09a97dc81126672830951)
 - Sploitus.com Exploits RSS Feed
   - [APEX_FRAMEWORK exploit](https://sploitus.com/exploit?id=A176F0B6-F52F-5972-A5E7-3639DCDC6F16&utm_source=rss&utm_medium=rss)
   - [engineering-agent-harness-poc exploit](https://sploitus.com/exploit?id=39A23ABF-3846-5D98-A28B-42B9FD99E697&utm_source=rss&utm_medium=rss)
@@ -122,6 +127,7 @@
   - [Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’](https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation)
   - [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji)
   - [Google might not kneecap the Pixel 11a with an old processor](https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak)
+  - [The future of physical games is not looking great](https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games)
   - [The grueling, 630-mile road race where the only fuel is sunlight](https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas)
 - VulDB Recent Entries
   - [CVE-2026-10130 | FalkorDB QueryWeaver up to 0.2.0/0.3.0 Signup email improper authentication](https://vuldb.com/vuln/380098)
@@ -260,6 +266,14 @@
   - [CVE-2026-53372](https://vulners.com/cve/CVE-2026-53372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53372](https://vulners.com/nvd/NVD:CVE-2026-53372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53372 iommu/vt-d: Block PASID attachment to nested domain with dirty tracking](https://vulners.com/cvelist/CVELIST:CVE-2026-53372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53373](https://vulners.com/nvd/NVD:CVE-2026-53373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53374](https://vulners.com/nvd/NVD:CVE-2026-53374?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53375](https://vulners.com/nvd/NVD:CVE-2026-53375?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53376](https://vulners.com/nvd/NVD:CVE-2026-53376?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53377](https://vulners.com/nvd/NVD:CVE-2026-53377?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53378](https://vulners.com/nvd/NVD:CVE-2026-53378?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53379](https://vulners.com/nvd/NVD:CVE-2026-53379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53380](https://vulners.com/nvd/NVD:CVE-2026-53380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994](https://vulners.com/nvd/NVD:CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994 ProFTPD mod_sftp Heap Buffer Overflow via Unsigned Integer Underflow and Size Truncation](https://vulners.com/cve/CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994 ProFTPD mod_sftp Heap Buffer Overflow via Unsigned Integer Underflow and Size Truncation](https://vulners.com/cvelist/CVELIST:CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -324,12 +338,18 @@
   - [这幅 5999 元的眼镜，配不配当电竞玩家的「新装备」｜ROG XREAL R1 体验](https://www.ifanr.com/1672380?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [WAIC 2026“镇馆之宝”STEPX Neo亮相，引领人机交互新范式](https://www.qbitai.com/2026/07/454165.html)
+  - [不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半](https://www.qbitai.com/2026/07/454932.html)
+  - [围观WAIC模型「读心术」！现场火火火火火](https://www.qbitai.com/2026/07/455031.html)
   - [看了20万小时「人类干活实录」，机器人悟了](https://www.qbitai.com/2026/07/454592.html)
+  - [聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议](https://www.qbitai.com/2026/07/454791.html)
+  - [西部数据WAIC 2026媒体资料包](https://www.qbitai.com/2026/07/454824.html)
+  - [逛了趟WAIC，我只想说，AI在物理世界都快卷疯了……](https://www.qbitai.com/2026/07/454802.html)
 - 黑海洋
   - [世嘉在北京开设第二家中国常驻官方门店](https://blog.upx8.com/%E4%B8%96%E5%98%89%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%BC%80%E8%AE%BE%E7%AC%AC%E4%BA%8C%E5%AE%B6%E4%B8%AD%E5%9B%BD%E5%B8%B8%E9%A9%BB%E5%AE%98%E6%96%B9%E9%97%A8%E5%BA%97)
   - [中国国产大飞机C919将首次执飞国际商业航班](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E4%BA%A7%E5%A4%A7%E9%A3%9E%E6%9C%BAC919%E5%B0%86%E9%A6%96%E6%AC%A1%E6%89%A7%E9%A3%9E%E5%9B%BD%E9%99%85%E5%95%86%E4%B8%9A%E8%88%AA%E7%8F%AD)
   - [今年上半年美国CD销量同比增长了16%](https://blog.upx8.com/%E4%BB%8A%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BE%8E%E5%9B%BDCD%E9%94%80%E9%87%8F%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF%E4%BA%8616)
   - [月之暗面新模型打破美领先中国AI固有认知](https://blog.upx8.com/%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%89%93%E7%A0%B4%E7%BE%8E%E9%A2%86%E5%85%88%E4%B8%AD%E5%9B%BDAI%E5%9B%BA%E6%9C%89%E8%AE%A4%E7%9F%A5)
+  - [纽约州长正在使用AI分析该州每一条规定](https://blog.upx8.com/%E7%BA%BD%E7%BA%A6%E5%B7%9E%E9%95%BF%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8AI%E5%88%86%E6%9E%90%E8%AF%A5%E5%B7%9E%E6%AF%8F%E4%B8%80%E6%9D%A1%E8%A7%84%E5%AE%9A)
   - [联邦雇员又可以在工作手机上安装TikTok](https://blog.upx8.com/%E8%81%94%E9%82%A6%E9%9B%87%E5%91%98%E5%8F%88%E5%8F%AF%E4%BB%A5%E5%9C%A8%E5%B7%A5%E4%BD%9C%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%AE%89%E8%A3%85TikTok)
   - [苹果和谷歌被勒令从应用商店下架脱衣App](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%92%8C%E8%B0%B7%E6%AD%8C%E8%A2%AB%E5%8B%92%E4%BB%A4%E4%BB%8E%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E4%B8%8B%E6%9E%B6%E8%84%B1%E8%A1%A3App)
   - [阿里千问输入法App正式发布：以语音输入为核心，支持AI自动润色](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AE%E8%BE%93%E5%85%A5%E6%B3%95App%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83-%E4%BB%A5%E8%AF%AD%E9%9F%B3%E8%BE%93%E5%85%A5%E4%B8%BA%E6%A0%B8%E5%BF%83-%E6%94%AF%E6%8C%81AI%E8%87%AA%E5%8A%A8%E6%B6%A6%E8%89%B2)
