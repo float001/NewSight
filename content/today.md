@@ -2,12 +2,18 @@
 
 - 2Libra
   - [7 月 19 日微语报，星期日，农历六月初六，周末愉快！](https://2libra.com/post/hotspot-tracking/5p1irXl)
+  - [【周末吃吃吃】今天吃的分明是水中牛马啊～ 🤣🤣🤣](https://2libra.com/post/personal-life/8vGA9ZI)
   - [【💰】签到 201 天，潘多拉拿到卡皮巴拉！！](https://2libra.com/post/forum-function/seZroUZ)
 - 36氪
   - [IPO排队券商“半年考” 东莞证券上半年净利大增超70%](https://36kr.com/newsflashes/3901842262132355?f=rss)
+  - [上半年天津实现进出口4059亿元](https://36kr.com/newsflashes/3901852568929920?f=rss)
   - [中国商飞：公司与柬埔寨民航国务秘书处签署战略合作谅解备忘录](https://36kr.com/newsflashes/3901844156991109?f=rss)
+  - [千分一创业板IPO终止审核](https://36kr.com/newsflashes/3901850165151624?f=rss)
   - [市场监管总局发布《个体工商户信用信息应用指南》](https://36kr.com/newsflashes/3901843257870211?f=rss)
+  - [我国具身智能正加速迈向产业应用阶段](https://36kr.com/newsflashes/3901848349165441?f=rss)
   - [比亚迪巴西工厂第10万辆新能源汽车下线](https://36kr.com/newsflashes/3901847114155651?f=rss)
+  - [电影《功夫女足》票房破13亿](https://36kr.com/newsflashes/3901892952917890?f=rss)
+  - [立中集团：预计上半年归母净利润同比增长34.57%-45.78%](https://36kr.com/newsflashes/3901893488805766?f=rss)
   - [阶跃与上海期智研究院共建智能体前沿研究院](https://36kr.com/newsflashes/3901840300754822?f=rss)
 - ByteByteGo
   - [MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other](https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually)
@@ -70,6 +76,7 @@
 - Vulners.com RSS Feed
   - [APEX_FRAMEWORK](https://vulners.com/githubexploit/A176F0B6-F52F-5972-A5E7-3639DCDC6F16?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [BythosEngine](https://vulners.com/githubexploit/ADB14477-EED1-5781-914E-3A48A9D53749?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10130](https://vulners.com/nvd/NVD:CVE-2026-10130?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10130 QueryWeaver Authentication Bypass via Email Signup Token Issuance for Existing Accounts](https://vulners.com/cve/CVE-2026-10130?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10130 QueryWeaver Authentication Bypass via Email Signup Token Issuance for Existing Accounts](https://vulners.com/cvelist/CVELIST:CVE-2026-10130?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -117,10 +124,14 @@
   - [CVE-2026-16199](https://vulners.com/nvd/NVD:CVE-2026-16199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16200](https://vulners.com/nvd/NVD:CVE-2026-16200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16201](https://vulners.com/nvd/NVD:CVE-2026-16201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16202](https://vulners.com/nvd/NVD:CVE-2026-16202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16202 SourceCodester Class and Exam Timetabling System CYS.php cross site scripting](https://vulners.com/cve/CVE-2026-16202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16202 SourceCodester Class and Exam Timetabling System CYS.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-16202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16203](https://vulners.com/nvd/NVD:CVE-2026-16203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16203 SourceCodester Class and Exam Timetabling System forCYS.php cross site scripting](https://vulners.com/cve/CVE-2026-16203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16203 SourceCodester Class and Exam Timetabling System forCYS.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-16203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16206 django-oauth django-oauth-toolkit oauth2_validators.py _load_id_token session expiration](https://vulners.com/cve/CVE-2026-16206?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16206 django-oauth django-oauth-toolkit oauth2_validators.py _load_id_token session expiration](https://vulners.com/cvelist/CVELIST:CVE-2026-16206?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994](https://vulners.com/nvd/NVD:CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994 ProFTPD mod_sftp Heap Buffer Overflow via Unsigned Integer Underflow and Size Truncation](https://vulners.com/cve/CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994 ProFTPD mod_sftp Heap Buffer Overflow via Unsigned Integer Underflow and Size Truncation](https://vulners.com/cvelist/CVELIST:CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -132,6 +143,7 @@
   - [CVE-2026-57857](https://vulners.com/nvd/NVD:CVE-2026-57857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57857 Flow Payment Plugin for WordPress Reflected Cross-Site Scripting via error_message Parameter](https://vulners.com/cve/CVE-2026-57857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57857 Flow Payment Plugin for WordPress Reflected Cross-Site Scripting via error_message Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-57857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [DarkSword-PROV2](https://vulners.com/githubexploit/411E2CE8-7329-5BF9-A6BA-7EECADCDF0D5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-46420](https://vulners.com/githubexploit/40926991-C805-596C-B8C7-7F06AF0E7382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-60137](https://vulners.com/githubexploit/8B320912-B971-590A-9E72-8DC94D63FD0E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-60137](https://vulners.com/githubexploit/8C7932A5-0E93-51BC-A8CF-B53A33FAEFFB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -163,5 +175,6 @@
   - [手动挡汽车越来越少见](https://www.solidot.org/story?sid=84863)
 - 黑海洋
   - [今年上半年美国CD销量同比增长了16%](https://blog.upx8.com/%E4%BB%8A%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BE%8E%E5%9B%BDCD%E9%94%80%E9%87%8F%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF%E4%BA%8616)
+  - [月之暗面新模型打破美领先中国AI固有认知](https://blog.upx8.com/%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%89%93%E7%A0%B4%E7%BE%8E%E9%A2%86%E5%85%88%E4%B8%AD%E5%9B%BDAI%E5%9B%BA%E6%9C%89%E8%AE%A4%E7%9F%A5)
   - [联邦雇员又可以在工作手机上安装TikTok](https://blog.upx8.com/%E8%81%94%E9%82%A6%E9%9B%87%E5%91%98%E5%8F%88%E5%8F%AF%E4%BB%A5%E5%9C%A8%E5%B7%A5%E4%BD%9C%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%AE%89%E8%A3%85TikTok)
   - [苹果和谷歌被勒令从应用商店下架脱衣App](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%92%8C%E8%B0%B7%E6%AD%8C%E8%A2%AB%E5%8B%92%E4%BB%A4%E4%BB%8E%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E4%B8%8B%E6%9E%B6%E8%84%B1%E8%A1%A3App)
