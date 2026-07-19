@@ -1,8 +1,13 @@
 # 今日安全资讯（2026-07-19）
 
 - 2Libra
+  - [7 月 19 日微语报，星期日，农历六月初六，周末愉快！](https://2libra.com/post/hotspot-tracking/5p1irXl)
   - [【💰】签到 201 天，潘多拉拿到卡皮巴拉！！](https://2libra.com/post/forum-function/seZroUZ)
 - 36氪
+  - [IPO排队券商“半年考” 东莞证券上半年净利大增超70%](https://36kr.com/newsflashes/3901842262132355?f=rss)
+  - [中国商飞：公司与柬埔寨民航国务秘书处签署战略合作谅解备忘录](https://36kr.com/newsflashes/3901844156991109?f=rss)
+  - [市场监管总局发布《个体工商户信用信息应用指南》](https://36kr.com/newsflashes/3901843257870211?f=rss)
+  - [比亚迪巴西工厂第10万辆新能源汽车下线](https://36kr.com/newsflashes/3901847114155651?f=rss)
   - [阶跃与上海期智研究院共建智能体前沿研究院](https://36kr.com/newsflashes/3901840300754822?f=rss)
 - ByteByteGo
   - [MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other](https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually)
@@ -39,6 +44,7 @@
   - [FLOCK_CVE_SCANNER exploit](https://sploitus.com/exploit?id=AB2811CF-7CC8-5F4B-8754-7F9C1A8BE385&utm_source=rss&utm_medium=rss)
   - [sec-notes exploit](https://sploitus.com/exploit?id=2A14ECFC-9211-596A-9FAA-97C44D036006&utm_source=rss&utm_medium=rss)
   - [wp2shell exploit](https://sploitus.com/exploit?id=46404B2A-93D5-51B0-8C8E-C3D9FBA89EC7&utm_source=rss&utm_medium=rss)
+  - [wp2shell exploit](https://sploitus.com/exploit?id=BF63DA4D-6F4C-5CD6-85DA-AB01FD91C67F&utm_source=rss&utm_medium=rss)
   - [wp2shell exploit](https://sploitus.com/exploit?id=CE7D99F9-AAFC-55E4-A669-39EB15D980C6&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [All the EVs that were discontinued or killed off in the U.S. this year](https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/)
@@ -109,6 +115,12 @@
   - [CVE-2026-16198 Sipeed PicoClaw First Run Setup access_control.go authentication bypass](https://vulners.com/cve/CVE-2026-16198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16198 Sipeed PicoClaw First Run Setup access_control.go authentication bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-16198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16199](https://vulners.com/nvd/NVD:CVE-2026-16199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16200](https://vulners.com/nvd/NVD:CVE-2026-16200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16201](https://vulners.com/nvd/NVD:CVE-2026-16201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16202 SourceCodester Class and Exam Timetabling System CYS.php cross site scripting](https://vulners.com/cve/CVE-2026-16202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16202 SourceCodester Class and Exam Timetabling System CYS.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-16202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16203 SourceCodester Class and Exam Timetabling System forCYS.php cross site scripting](https://vulners.com/cve/CVE-2026-16203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16203 SourceCodester Class and Exam Timetabling System forCYS.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-16203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994](https://vulners.com/nvd/NVD:CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994 ProFTPD mod_sftp Heap Buffer Overflow via Unsigned Integer Underflow and Size Truncation](https://vulners.com/cve/CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994 ProFTPD mod_sftp Heap Buffer Overflow via Unsigned Integer Underflow and Size Truncation](https://vulners.com/cvelist/CVELIST:CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -143,6 +155,7 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wp2shell](https://vulners.com/githubexploit/46404B2A-93D5-51B0-8C8E-C3D9FBA89EC7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [wp2shell](https://vulners.com/githubexploit/BF63DA4D-6F4C-5CD6-85DA-AB01FD91C67F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wp2shell](https://vulners.com/githubexploit/CE7D99F9-AAFC-55E4-A669-39EB15D980C6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
