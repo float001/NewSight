@@ -7,6 +7,7 @@
 - 36氪
   - [HappyOyster 1.0来了，现已登陆百炼，开启灰测](https://36kr.com/newsflashes/3901954555938437?f=rss)
   - [IPO排队券商“半年考” 东莞证券上半年净利大增超70%](https://36kr.com/newsflashes/3901842262132355?f=rss)
+  - [“人工智能+防震减灾”行动方案发布](https://36kr.com/newsflashes/3902090005743493?f=rss)
   - [上半年天津实现进出口4059亿元](https://36kr.com/newsflashes/3901852568929920?f=rss)
   - [上海“星枢计划”首发星座发布](https://36kr.com/newsflashes/3901993231550085?f=rss)
   - [中信证券与光谷金控签署框架合作协议](https://36kr.com/newsflashes/3901895756679047?f=rss)
@@ -19,7 +20,10 @@
   - [百度一镜WAIC首发数字人视频播客，突破数字人微表情技术](https://36kr.com/newsflashes/3901954083030918?f=rss)
   - [立中集团：预计上半年归母净利润同比增长34.57%-45.78%](https://36kr.com/newsflashes/3901893488805766?f=rss)
   - [蚂蚁数科WAIC发布“智能体超级工厂”，首批预置近200个岗位级数字专家](https://36kr.com/newsflashes/3901996167513985?f=rss)
+  - [蚂蚁韩歆毅：没有企业专属数据，就没有企业专属智能](https://36kr.com/newsflashes/3901996759729799?f=rss)
+  - [量子科技公司两仪万象完成A+轮融资](https://36kr.com/newsflashes/3901995647321736?f=rss)
   - [阶跃与上海期智研究院共建智能体前沿研究院](https://36kr.com/newsflashes/3901840300754822?f=rss)
+  - [韩国财政部表示，将允许外国投资者交易更多以韩元计价的债券，并可从国内外汇银行借入韩元](https://36kr.com/newsflashes/3901994798466952?f=rss)
 - ByteByteGo
   - [MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other](https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually)
 - Cybersecurity News
@@ -140,10 +144,19 @@
   - [CVE-2026-16206](https://vulners.com/nvd/NVD:CVE-2026-16206?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16206 django-oauth django-oauth-toolkit oauth2_validators.py _load_id_token session expiration](https://vulners.com/cve/CVE-2026-16206?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16206 django-oauth django-oauth-toolkit oauth2_validators.py _load_id_token session expiration](https://vulners.com/cvelist/CVELIST:CVE-2026-16206?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16207](https://vulners.com/nvd/NVD:CVE-2026-16207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16208](https://vulners.com/nvd/NVD:CVE-2026-16208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16209](https://vulners.com/nvd/NVD:CVE-2026-16209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16210](https://vulners.com/nvd/NVD:CVE-2026-16210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16210 newpanjing simpleui AjaxAdmin AJAX Endpoint admin.py self.get_action missing authentication](https://vulners.com/cve/CVE-2026-16210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16210 newpanjing simpleui AjaxAdmin AJAX Endpoint admin.py self.get_action missing authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-16210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16211](https://vulners.com/nvd/NVD:CVE-2026-16211?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16211 allegro Hostname Allocation assets.py AssetLastHostname.increment_hostname race condition](https://vulners.com/cve/CVE-2026-16211?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16211 allegro Hostname Allocation assets.py AssetLastHostname.increment_hostname race condition](https://vulners.com/cvelist/CVELIST:CVE-2026-16211?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16214 geex-arts django-jet Dashboard views.py authorization](https://vulners.com/cve/CVE-2026-16214?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16214 geex-arts django-jet Dashboard views.py authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-16214?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16215 geex-arts django-jet OAuth Credential Revoke authorization](https://vulners.com/cve/CVE-2026-16215?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16215 geex-arts django-jet OAuth Credential Revoke authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-16215?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994](https://vulners.com/nvd/NVD:CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994 ProFTPD mod_sftp Heap Buffer Overflow via Unsigned Integer Underflow and Size Truncation](https://vulners.com/cve/CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53994 ProFTPD mod_sftp Heap Buffer Overflow via Unsigned Integer Underflow and Size Truncation](https://vulners.com/cvelist/CVELIST:CVE-2026-53994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -181,8 +194,12 @@
   - [wp2shell](https://vulners.com/githubexploit/46404B2A-93D5-51B0-8C8E-C3D9FBA89EC7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wp2shell](https://vulners.com/githubexploit/BF63DA4D-6F4C-5CD6-85DA-AB01FD91C67F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wp2shell](https://vulners.com/githubexploit/CE7D99F9-AAFC-55E4-A669-39EB15D980C6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [飞牛OS新增支持树莓派3/4/5系列 虽然支持但硬件压力还是非常大的](https://buaq.net/go-429597.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [macrobench and benchmark](https://dyrnq.com/macrobench-and-benchmark/)
 - 奇客Solidot–传递最新科技情报
   - [手动挡汽车越来越少见](https://www.solidot.org/story?sid=84863)
 - 爱范儿
