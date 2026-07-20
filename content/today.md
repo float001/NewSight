@@ -2,6 +2,8 @@
 
 - 2Libra
   - [2026 年 7 月 20 日星期一一分钟知晓天下事](https://2libra.com/post/sharing-discoveries/uHdWrCs)
+  - [7 月的交易日过了大半，这个月你的收益率怎么样？](https://2libra.com/post/financial-management/A4gAHNi)
+  - [Cc 被封了，连着封了三个.....](https://2libra.com/post/personal-life/qLNYURD)
   - [PC 端有什么听歌下载歌曲的软件工具吗？](https://2libra.com/post/recommendations/ANKr6tL)
   - [【今日笔记】实事求是：中国最核心的竞争力 📝📝📝](https://2libra.com/post/social-observation/HTeC3rO)
   - [【💰】如何看待品牌价值与个人 IP 高度绑定，你会因为“祂”选择或者不选择某个产品吗？](https://2libra.com/post/social-observation/v2411kZ)
@@ -9,13 +11,16 @@
   - [恭喜阿根廷喜提亚军](https://2libra.com/post/football/zgOsHmz)
   - [感觉自己炒股的心态有问题](https://2libra.com/post/stock-market/sky-TFk)
   - [最近在纠结要不要买苹果笔记本 计算机行业就用于工作](https://2libra.com/post/apple/oAZPABP)
+  - [西班牙 1-0 战胜阿根廷，夺得世界杯冠军，如何评价本场比赛？ 西班牙时隔 16 年夺得世界杯冠军，获队史第二冠，阿根廷全场仅 2 射门遭完全压制](https://2libra.com/post/football/C54oUci)
   - [释放液体防飞溅指南 Guide for Preventing Liquid Splashing During Discharge (GPLSDD)](https://2libra.com/post/sharing-discoveries/SC44exZ)
 - 36氪
   - [7月20日人民币对美元中间价调贬14个基点](https://36kr.com/newsflashes/3903295769905030?f=rss)
   - [7月LPR报价出炉：1年期和5年期以上利率均维持不变](https://36kr.com/newsflashes/3903279459370633?f=rss)
   - [AI优化设计并结合人类视觉感知，“隐身于眼前”的无人机研制成功](https://36kr.com/newsflashes/3903163375110018?f=rss)
+  - [AI大模型公司零一万物计划2027年在香港上市](https://36kr.com/newsflashes/3903439153186692?f=rss)
   - [AI行情现分歧，基金经理调仓动作出现明显差异](https://36kr.com/newsflashes/3903182048954244?f=rss)
   - [AI软件开发平台Emergent以15亿美元估值完成C轮融资](https://36kr.com/newsflashes/3903289090180741?f=rss)
+  - [A股三大指数午间休盘集体上涨，古井贡酒涨停](https://36kr.com/newsflashes/3903428944676486?f=rss)
   - [A股三大指数集体高开，长盈通涨超13%](https://36kr.com/newsflashes/3903304788985732?f=rss)
   - [Meshy完成近4亿美元B轮融资](https://36kr.com/newsflashes/3903365138270088?f=rss)
   - [SpaceX将“星舰”第13次试飞推迟至7月23日](https://36kr.com/newsflashes/3903160957978496?f=rss)
@@ -39,6 +44,7 @@
   - [光通信全线预告高增，订单能见度充足](https://36kr.com/newsflashes/3903169691322245?f=rss)
   - [公募基金看好长鑫科技上市，称若估值合理“必配”](https://36kr.com/newsflashes/3903183827502977?f=rss)
   - [券商打造T0交易新抓手，商业模式仍有待进一步探索](https://36kr.com/newsflashes/3903223097935746?f=rss)
+  - [半日主力资金加仓计算机、公用事业股](https://36kr.com/newsflashes/3903438712833924?f=rss)
   - [台积电将美国投资承诺增至2650亿美元，称AI需求和竞争压力推动扩产](https://36kr.com/newsflashes/3903173412161415?f=rss)
   - [台积电计划发行185亿元台币债券，其中5年期利率跃升至2.03%](https://36kr.com/newsflashes/3903286666626696?f=rss)
   - [商汤大装置与国信数算签署全国一体化算力网试验场战略合作](https://36kr.com/newsflashes/3903326224254592?f=rss)
@@ -49,6 +55,8 @@
   - [在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存](https://36kr.com/p/3903396279125888?f=rss)
   - [多家国产厂商展示超节点产品，算力竞逐各显神通](https://36kr.com/newsflashes/3903172568647558?f=rss)
   - [头部ETF规模座次大洗牌，产品百花齐放生态今非昔比](https://36kr.com/newsflashes/3903204082845568?f=rss)
+  - [工业和信息化部：今年上半年我国医药工业创新能力显著增强](https://36kr.com/newsflashes/3903407897167748?f=rss)
+  - [工信部：1—5月造船新接订单量占全球总量的81.2%，稳居全球市场份额首位](https://36kr.com/newsflashes/3903415769417349?f=rss)
   - [工信部：上半年规模以上制造业企业AI技术应用普及率超过30%](https://36kr.com/newsflashes/3903346632787840?f=rss)
   - [工信部：上半年规模以上工业增加值同比增长5.4%](https://36kr.com/newsflashes/3903344321742722?f=rss)
   - [工信部：前5个月规模以上工业企业营业收入利润率5.66%，为2024年以来月度累计最高水平](https://36kr.com/newsflashes/3903353678546823?f=rss)
@@ -57,8 +65,10 @@
   - [工信部：将印发实施工信领域行业、专题“十五五”规划](https://36kr.com/newsflashes/3903361364231808?f=rss)
   - [工信部：将印发算力标准体系建设指南，推动建立算力市场化定价等标准](https://36kr.com/newsflashes/3903384861771649?f=rss)
   - [工信部：持续实施新一轮机械、汽车等行业稳增长工作方案，全方位扩大优质供给和有效需求](https://36kr.com/newsflashes/3903369632794241?f=rss)
+  - [工信部：正在加紧制定培育全国一体化技术市场相关文件，破除交易壁垒和制度障碍](https://36kr.com/newsflashes/3903409120987008?f=rss)
   - [已有数十家券商上线标准化T0算法服务，行业竞争进入精细化比拼阶段](https://36kr.com/newsflashes/3903210859693954?f=rss)
   - [年内超80城发放补贴降低购房成本](https://36kr.com/newsflashes/3903185007642503?f=rss)
+  - [恒指午间休盘涨2.07%，恒生科技指数涨2.91%](https://36kr.com/newsflashes/3903458092500871?f=rss)
   - [恒指开盘涨1.11%，恒生科技指数涨2.2%](https://36kr.com/newsflashes/3903301330749062?f=rss)
   - [恒星绘架座β星周围存在第三颗行星，为地面直接成像发现的最暗系外行星](https://36kr.com/newsflashes/3903170626078601?f=rss)
   - [成都：建立上市后备企业多渠道发掘机制](https://36kr.com/newsflashes/3903253925529218?f=rss)
@@ -111,6 +121,8 @@
   - [Sum of low squares](https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/)
 - rtl-sdr.com
   - [War Driving for DECT Devices with a HackRF and Android Device](https://www.rtl-sdr.com/war-driving-for-dect-devices-with-a-hackrf-and-android-device/)
+- simonwillison.net
+  - [Quoting Sam Altman](https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-63030 exploit](https://sploitus.com/exploit?id=38EFFE6B-72A1-527E-B5A3-881D88E071F7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-63030 exploit](https://sploitus.com/exploit?id=C77F9A6D-E67C-5BDB-ABBC-D757A875D17B&utm_source=rss&utm_medium=rss)
@@ -512,11 +524,21 @@
   - [VulnFeed](https://vulners.com/githubexploit/52B9C6F3-9E80-5D8F-86BE-8EF64B223D43?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [Facebook account gone for 10 years](https://buaq.net/go-429699.html)
+  - [HollowByte DDoS 漏洞：仅需 11 字节 payload 即可膨胀 OpenSSL 服务器内存](https://buaq.net/go-429705.html)
+  - [The Neuroscience Behind Why Even Smart People Fall For Social Engineering](https://buaq.net/go-429720.html)
+  - [UAC-0145 利用 ClickFix CAPTCHA 向乌克兰设备植入恶意软件](https://buaq.net/go-429707.html)
   - [War Driving for DECT Devices with a HackRF and Android Device](https://buaq.net/go-429700.html)
+  - [WordPress Core "wp2shell" RCE 漏洞利用代码已公开，请立即修补](https://buaq.net/go-429704.html)
+  - [严重的 NGINX 漏洞可导致 Worker 崩溃，并可能允许远程代码执行](https://buaq.net/go-429702.html)
+  - [微软发布KB5121767紧急带外更新用于替代7月例行更新 解决部分戴尔设备故障](https://buaq.net/go-429711.html)
+  - [网络攻击扰乱日本冷冻食品巨头 Nichirei 运营](https://buaq.net/go-429706.html)
+  - [黑客滥用 ViPNet 软件攻击俄罗斯政府机构](https://buaq.net/go-429703.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜曝月之暗面最快半年内上市/荣耀Robot Phone开启预约/IDC:2030年全球活跃智能体将超22亿个](https://www.ifanr.com/1672471?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [WAIC不筹量子重磅发布“量筹一号”——原子量子人工智能基座](https://www.qbitai.com/2026/07/455136.html)
 - 黑海洋
   - [SpaceX将“星舰”第13次试飞推迟至7月23日](https://blog.upx8.com/SpaceX%E5%B0%86-%E6%98%9F%E8%88%B0-%E7%AC%AC13%E6%AC%A1%E8%AF%95%E9%A3%9E%E6%8E%A8%E8%BF%9F%E8%87%B37%E6%9C%8823%E6%97%A5)
   - [台积电CFO回应竞争：不会给对手任何机会](https://blog.upx8.com/%E5%8F%B0%E7%A7%AF%E7%94%B5CFO%E5%9B%9E%E5%BA%94%E7%AB%9E%E4%BA%89-%E4%B8%8D%E4%BC%9A%E7%BB%99%E5%AF%B9%E6%89%8B%E4%BB%BB%E4%BD%95%E6%9C%BA%E4%BC%9A)
