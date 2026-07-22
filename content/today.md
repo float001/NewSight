@@ -1,6 +1,61 @@
 # 今日安全资讯（2026-07-23）
 
+- CoinTelegraph
+  - [BitGo, OTC Markets plan tokenized securities access for broker-dealers](https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Digital Chamber sues Illinois officials over new state 0.2% crypto tax](https://cointelegraph.com/news/digital-chamber-lawsuit-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Hacker News Frontpage
+  - [Show HN: Web swing through midtown NYC](https://www.swingnyc.com/)
+- PwnDefend
+  - [Logging Reference — Ollama & Agent Zero](https://www.pwndefend.com/2026/07/22/logging-reference-ollama-agent-zero/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for SQL Injection in Wordpress exploit](https://sploitus.com/exploit?id=82DDF240-CE6A-59CB-976A-0F1C3D9D3F91&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Arcee, a US open source AI lab, says Chinese models are not inherently dangerous](https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/)
+  - [OpenAI’s AI spending spree has ballooned to $750B](https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/)
+  - [Substack’s new tool tells you who’s been writing their newsletters with AI](https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/)
 - The Block
   - [Crypto directly employs 34,000 in the US and contributes $55 billion to the economy: NCA report](https://www.theblock.co/post/409417/crypto-directly-employs-34000-in-the-us-and-contributes-55-billion-to-the-economy-nca-report?utm_source=rss&utm_medium=rss)
+  - [SEC reaches settlement with Coinbase over records requests from Gensler era](https://www.theblock.co/post/409437/sec-reaches-settlement-coinbase-over-records-requests-gensler-era?utm_source=rss&utm_medium=rss)
+  - [Senate releases latest version of Clarity Act including software developer protections and ethics provision with ‘sunset’ date in 2029](https://www.theblock.co/post/409442/senate-releases-latest-clarity-act-software-developer-protections-ethics-provision-sunset-date-2029?utm_source=rss&utm_medium=rss)
+- The Decoder
+  - [Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion](https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/)
+  - [Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost](https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/)
+  - [Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations](https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/)
+- The Verge
+  - [Apple is reportedly testing a MacBook Neo with more RAM](https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade)
+  - [Here&#8217;s what Samsung&#8217;s smart glasses actually look like](https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker)
+- VulDB Recent Entries
+  - [CVE-2026-16615 | Red Hat librest 2.0 PKCE GRand random values](https://vuldb.com/vuln/382385)
+  - [CVE-2026-16630 | syncfusion ej2-javascript-ui-controls up to 33.2.3 package.json child_process.exec os command injection (Issue 215)](https://vuldb.com/vuln/382380)
+  - [CVE-2026-16631 | publint up to 0.1.4 package-manager Command src/node/pack.js child_process.exec os command injection (Issue 236)](https://vuldb.com/vuln/382381)
+  - [CVE-2026-16632 | boazsegev facil.io up to 0.7.4 WebSocket Frame Parser websocket_parser.h websocket_on_protocol_error on_message input validation (Issue 169)](https://vuldb.com/vuln/382382)
+  - [CVE-2026-65011 | Graylog Server up to 7.0.10/7.1.5 Duplicate definitionId permission (46a2eeb)](https://vuldb.com/vuln/382384)
+  - [CVE-2026-65012 | invoke-ai InvokeAI up to 6.13.6 scan_folder /api/v2/models/scan_folder scan_path access control](https://vuldb.com/vuln/382386)
+  - [CVE-2026-65013 | Onlook up to 0.2.32 tRPC API projectId/conversationId authorization (423e2e9)](https://vuldb.com/vuln/382383)
+  - [CVE-2026-7328 | Chips Alliance Core Runtime up to 2.1.0 Subsystem Mode authorization](https://vuldb.com/vuln/382387)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)](https://blog.qualys.com/category/vulnerabilities-threat-research)
+- Vulners.com RSS Feed
+  - [CVE-2026-16552](https://vulners.com/nvd/NVD:CVE-2026-16552?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16606](https://vulners.com/nvd/NVD:CVE-2026-16606?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16607](https://vulners.com/nvd/NVD:CVE-2026-16607?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16615 Librest: weak random number generation in pkce implementation](https://vulners.com/cve/CVE-2026-16615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16615 Librest: weak random number generation in pkce implementation](https://vulners.com/cvelist/CVELIST:CVE-2026-16615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40712](https://vulners.com/nvd/NVD:CVE-2026-40712?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40714](https://vulners.com/nvd/NVD:CVE-2026-40714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44276](https://vulners.com/nvd/NVD:CVE-2026-44276?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46737](https://vulners.com/nvd/NVD:CVE-2026-46737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-46738](https://vulners.com/nvd/NVD:CVE-2026-46738?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49499](https://vulners.com/nvd/NVD:CVE-2026-49499?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-64828](https://vulners.com/nvd/NVD:CVE-2026-64828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-65011 Graylog2 Server Missing Permission Check on Event Definition Duplicate](https://vulners.com/cve/CVE-2026-65011?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-65011 Graylog2 Server Missing Permission Check on Event Definition Duplicate](https://vulners.com/cvelist/CVELIST:CVE-2026-65011?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-65012 InvokeAI < 6.13.7 Unauthenticated Directory Enumeration via scan_folder](https://vulners.com/cve/CVE-2026-65012?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-65012 InvokeAI < 6.13.7 Unauthenticated Directory Enumeration via scan_folder](https://vulners.com/cvelist/CVELIST:CVE-2026-65012?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-65013 Onlook tRPC Insecure Direct Object Reference via multiple procedures](https://vulners.com/cve/CVE-2026-65013?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-65013 Onlook tRPC Insecure Direct Object Reference via multiple procedures](https://vulners.com/cvelist/CVELIST:CVE-2026-65013?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7328 Unverified AXI Address in Subsystem Mode Commands Enables Denial of Service](https://vulners.com/cve/CVE-2026-7328?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7328 Unverified AXI Address in Subsystem Mode Commands Enables Denial of Service](https://vulners.com/cvelist/CVELIST:CVE-2026-7328?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for SQL Injection in Wordpress](https://vulners.com/githubexploit/82DDF240-CE6A-59CB-976A-0F1C3D9D3F91?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
