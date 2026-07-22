@@ -1,5 +1,9 @@
 # 今日安全资讯（2026-07-23）
 
+- 404 Media
+  - [What Happened When Flock Came to My Town](https://www.404media.co/what-happened-when-flock-came-to-my-town/)
+- Ars Technica
+  - [Hyundai claims humanoid robot plan is not part of talks with striking workers](https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/)
 - CERT Recently Published Vulnerability Notes
   - [VU#847406: Duplicati backup software v2.3.0.1 is vulnerable to an incorrect permission assignment vulnerability](https://kb.cert.org/vuls/id/847406)
 - CoinTelegraph
@@ -7,6 +11,7 @@
   - [BitGo, OTC Markets plan tokenized securities access for broker-dealers](https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Digital Chamber sues Illinois officials over new state 0.2% crypto tax](https://cointelegraph.com/news/digital-chamber-lawsuit-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC’s Peirce says crypto vaults and onchain lending may fall under securities laws](https://cointelegraph.com/news/secs-hester-peirce-says-crypto-vaults-and-onchain-lending-may-fall-under-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules](https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cybersecurity News
   - [Check Point SmartConsole Auth Bypass CVE-2026-16232 Exploited in the Wild](https://securityonline.info/check-point-smartconsole-cve-2026-16232/)
   - [Exim Directory Traversal Flaw Enables Privilege Escalation, Fixed in 4.99.5](https://securityonline.info/exim-vulnerability-directory-traversal-4-99-5/)
@@ -17,10 +22,15 @@
   - [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
 - IEEE Spectrum
   - [The Computer That Helped Win World War II](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
+- InfoSec Write-ups - Medium
+  - [Two Ways To Mess Up Your JWT Safety Net In Your Own Lab.](https://infosecwriteups.com/two-ways-to-mess-up-your-jwt-safety-net-in-your-own-lab-6d94a963b07d?source=rss----7b722bfd1b8d---4)
 - PwnDefend
   - [Logging Reference — Ollama & Agent Zero](https://www.pwndefend.com/2026/07/22/logging-reference-ollama-agent-zero/)
 - Sploitus.com Exploits RSS Feed
+  - [all-kernel-exploits exploit](https://sploitus.com/exploit?id=CD0B9EDC-6F05-5F64-AFE1-CB20FF2208B2&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-58138 exploit](https://sploitus.com/exploit?id=61CFED1D-ED41-54D0-9973-85826C9E9AC7&utm_source=rss&utm_medium=rss)
+  - [Exploit for Deserialization of Untrusted Data in Pdfminer Pdfminer.Six exploit](https://sploitus.com/exploit?id=00B57449-B433-5378-9A03-0FA7DB8473B0&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Authentication in Microsoft exploit](https://sploitus.com/exploit?id=1994C25F-7EC9-5173-B572-042AF6615038&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Wordpress exploit](https://sploitus.com/exploit?id=82DDF240-CE6A-59CB-976A-0F1C3D9D3F91&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Arcee, a US open source AI lab, says Chinese models are not inherently dangerous](https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/)
@@ -28,7 +38,10 @@
   - [Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)](https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/)
   - [Monday.com lays off hundreds to focus on AI](https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/)
   - [OpenAI’s AI spending spree has ballooned to $750B](https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/)
+  - [Science Corporation’s vision-restoring chip wins EU approval](https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/)
   - [Substack’s new tool tells you who’s been writing their newsletters with AI](https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/)
+  - [Travis Kalanick’s robotics company raises $1.7B, led by a16z](https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/)
+  - [Yope raises $12.3M to build a private social network without algorithms or ads](https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/)
 - The Block
   - [Benchmark sees Hut 8 becoming a ‘power-first data center REIT,’ raises target another 18%](https://www.theblock.co/post/409439/benchmark-hut-8-becoming-power-first-data-center-reit-raises-target-18?utm_source=rss&utm_medium=rss)
   - [Clarity Act’s impact on Circle could be negative over the long term, Mizuho says](https://www.theblock.co/post/409453/clarity-act-impact-on-circle-could-be-negative-over-long-term-mizuho?utm_source=rss&utm_medium=rss)
@@ -46,9 +59,12 @@
 - VulDB Recent Entries
   - [CVE-2026-16157 | Duplicati 2.3.0.1 LocalSystem service permission assignment](https://vuldb.com/vuln/382394)
   - [CVE-2026-16615 | Red Hat librest 2.0 PKCE GRand random values](https://vuldb.com/vuln/382385)
+  - [CVE-2026-16624 | Cal cal.com up to 6.1.x Webhook teamId authorization](https://vuldb.com/vuln/382398)
   - [CVE-2026-16630 | syncfusion ej2-javascript-ui-controls up to 33.2.3 package.json child_process.exec os command injection (Issue 215)](https://vuldb.com/vuln/382380)
   - [CVE-2026-16631 | publint up to 0.1.4 package-manager Command src/node/pack.js child_process.exec os command injection (Issue 236)](https://vuldb.com/vuln/382381)
   - [CVE-2026-16632 | boazsegev facil.io up to 0.7.4 WebSocket Frame Parser websocket_parser.h websocket_on_protocol_error on_message input validation (Issue 169)](https://vuldb.com/vuln/382382)
+  - [CVE-2026-16653 | boazsegev facil.io up to 0.7.58 Public Folder lib/facil/http/http.c http_sendfile2 path traversal (Issue 170)](https://vuldb.com/vuln/382396)
+  - [CVE-2026-3482 | IBM Sterling B2B Integrator/Sterling File Gateway up to 6.2.0.5_2/6.2.1.1_2/6.2.2.0_1 information disclosure](https://vuldb.com/vuln/382397)
   - [CVE-2026-64830 | FFmpeg up to 8.1.2 VobSub subtitle demuxer libavformat/mpeg.c ff_subtitles_queue_insert q heap-based overflow](https://vuldb.com/vuln/382389)
   - [CVE-2026-64831 | FFmpeg up to 8.1.2 Vulkan HEVC hardware decoder vk_hevc_end_frame vps_num_hrd_parameters stack-based overflow](https://vuldb.com/vuln/382388)
   - [CVE-2026-64832 | FFmpeg up to 8.1.2 NVIDIA NVDEC hardware decoder libavcodec/nvdec.c ff_nvdec_start_frame_sep_ref memory corruption](https://vuldb.com/vuln/382392)
@@ -63,6 +79,8 @@
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)](https://blog.qualys.com/category/vulnerabilities-threat-research)
 - Vulners.com RSS Feed
+  - [all-kernel-exploits](https://vulners.com/githubexploit/CD0B9EDC-6F05-5F64-AFE1-CB20FF2208B2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16157](https://vulners.com/nvd/NVD:CVE-2026-16157?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16157 Duplicati backup software v2.3.0.1 is vulnerable to an incorrect permission assignment vulnerability](https://vulners.com/cve/CVE-2026-16157?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16157 Duplicati backup software v2.3.0.1 is vulnerable to an incorrect permission assignment vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-16157?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16552](https://vulners.com/nvd/NVD:CVE-2026-16552?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -71,6 +89,10 @@
   - [CVE-2026-16615](https://vulners.com/nvd/NVD:CVE-2026-16615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16615 Librest: weak random number generation in pkce implementation](https://vulners.com/cve/CVE-2026-16615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16615 Librest: weak random number generation in pkce implementation](https://vulners.com/cvelist/CVELIST:CVE-2026-16615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16624 CVE-2026-16624](https://vulners.com/cve/CVE-2026-16624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16624 CVE-2026-16624](https://vulners.com/cvelist/CVELIST:CVE-2026-16624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-3482 IBM Sterling B2B Integrator and IBM Sterling File Gateway Authorization Bypass](https://vulners.com/cve/CVE-2026-3482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-3482 IBM Sterling B2B Integrator and IBM Sterling File Gateway Authorization Bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-3482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40712](https://vulners.com/nvd/NVD:CVE-2026-40712?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40714](https://vulners.com/nvd/NVD:CVE-2026-40714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44276](https://vulners.com/nvd/NVD:CVE-2026-44276?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -82,6 +104,10 @@
   - [CVE-2026-64828](https://vulners.com/nvd/NVD:CVE-2026-64828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64830](https://vulners.com/nvd/NVD:CVE-2026-64830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64831](https://vulners.com/nvd/NVD:CVE-2026-64831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-64832](https://vulners.com/nvd/NVD:CVE-2026-64832?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-64833](https://vulners.com/nvd/NVD:CVE-2026-64833?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-64834](https://vulners.com/nvd/NVD:CVE-2026-64834?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-64835](https://vulners.com/nvd/NVD:CVE-2026-64835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64835 FFmpeg 4.4 - 8.1.2 Out-of-Bounds Memory Access in ADX Audio Decoder](https://vulners.com/cve/CVE-2026-64835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64835 FFmpeg 4.4 - 8.1.2 Out-of-Bounds Memory Access in ADX Audio Decoder](https://vulners.com/cvelist/CVELIST:CVE-2026-64835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-65011](https://vulners.com/nvd/NVD:CVE-2026-65011?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -95,12 +121,21 @@
   - [CVE-2026-65013 Onlook tRPC Insecure Direct Object Reference via multiple procedures](https://vulners.com/cvelist/CVELIST:CVE-2026-65013?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-65650](https://vulners.com/cve/CVE-2026-65650?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-65650](https://vulners.com/cvelist/CVELIST:CVE-2026-65650?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-65650](https://vulners.com/nvd/NVD:CVE-2026-65650?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7328](https://vulners.com/nvd/NVD:CVE-2026-7328?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7328 Unverified AXI Address in Subsystem Mode Commands Enables Denial of Service](https://vulners.com/cve/CVE-2026-7328?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7328 Unverified AXI Address in Subsystem Mode Commands Enables Denial of Service](https://vulners.com/cvelist/CVELIST:CVE-2026-7328?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-58138](https://vulners.com/githubexploit/61CFED1D-ED41-54D0-9973-85826C9E9AC7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Deserialization of Untrusted Data in Pdfminer Pdfminer.Six](https://vulners.com/githubexploit/00B57449-B433-5378-9A03-0FA7DB8473B0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Authentication in Microsoft](https://vulners.com/githubexploit/1994C25F-7EC9-5173-B572-042AF6615038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Wordpress](https://vulners.com/githubexploit/82DDF240-CE6A-59CB-976A-0F1C3D9D3F91?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier](https://vulners.com/thn/THN:6832F8FA2AC66B0025E0B422BBBE7B9D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [libarchive: libarchive: Signed Integer Overflow in archive_write_zip_header](https://vulners.com/redhat/RHSA-2026:43818-CVE-2026-16517?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [libpng: libpng: Arbitrary code execution due to use-after-free vulnerability](https://vulners.com/redhat/RHSA-2026:43702-CVE-2026-33416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Low: Red Hat Security Advisory: Red Hat Hardened Images RPMs Security Update](https://vulners.com/redhat/RHSA-2026:43818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Moderate: Red Hat Security Advisory: libpng12 security update](https://vulners.com/redhat/RHSA-2026:43702?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenAI Models Escaped Test Environment and Breached Hugging Face](https://vulners.com/hackread/HACKREAD:E18B09BD65C37249C3230F1F0E119AE4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs](https://vulners.com/thn/THN:460ACDEAC82F40A49874C06B7B4B0FBE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Dyson V10 Konical Review (2026): Affordable and Solid](https://www.wired.com/review/dyson-v10-konical-2026/)
 - 代码审计星球
