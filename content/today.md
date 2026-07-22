@@ -10,6 +10,7 @@
   - [Anthropic joins UK FCA’s AI regulatory sandbox as second cohort launches](https://cointelegraph.com/news/anthropic-joins-uk-fcas-ai-regulatory-sandbox-as-second-cohort-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitGo, OTC Markets plan tokenized securities access for broker-dealers](https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Digital Chamber sues Illinois officials over new state 0.2% crypto tax](https://cointelegraph.com/news/digital-chamber-lawsuit-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC’s Peirce says crypto vaults and onchain lending may fall under securities laws](https://cointelegraph.com/news/secs-hester-peirce-says-crypto-vaults-and-onchain-lending-may-fall-under-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules](https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cybersecurity News
@@ -20,6 +21,8 @@
   - [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
   - [Show HN: Web swing through midtown NYC](https://www.swingnyc.com/)
   - [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
+- Horizon3.ai
+  - [CVE-2026-60167, CVE-2026-60168, CVE-2026-60169 & CVE-2026-60170 | Oracle Hospitality Simphony Multiple Vulnerabilities](https://horizon3.ai/attack-research/vulnerabilities/oracle-hospitality-simphony-vulnerabilities/)
 - IEEE Spectrum
   - [The Computer That Helped Win World War II](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
 - InfoSec Write-ups - Medium
@@ -35,10 +38,12 @@
 - TechCrunch
   - [Arcee, a US open source AI lab, says Chinese models are not inherently dangerous](https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/)
   - [Google is making it easier to switch from iPhone to Android](https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/)
+  - [How OpenAI’s human mistake led to the AI-powered hack on Hugging Face](https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/)
   - [Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)](https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/)
   - [Monday.com lays off hundreds to focus on AI](https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/)
   - [OpenAI’s AI spending spree has ballooned to $750B](https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/)
   - [Science Corporation’s vision-restoring chip wins EU approval](https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/)
+  - [SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown](https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/)
   - [Substack’s new tool tells you who’s been writing their newsletters with AI](https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/)
   - [Travis Kalanick’s robotics company raises $1.7B, led by a16z](https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/)
   - [Yope raises $12.3M to build a private social network without algorithms or ads](https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/)
@@ -51,11 +56,14 @@
   - [Senate releases latest version of Clarity Act including software developer protections and ethics provision with ‘sunset’ date in 2029](https://www.theblock.co/post/409442/senate-releases-latest-clarity-act-software-developer-protections-ethics-provision-sunset-date-2029?utm_source=rss&utm_medium=rss)
 - The Decoder
   - [Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion](https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/)
+  - [Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win](https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/)
   - [Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost](https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/)
   - [Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations](https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/)
 - The Verge
   - [Apple is reportedly testing a MacBook Neo with more RAM](https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade)
   - [Here&#8217;s what Samsung&#8217;s smart glasses actually look like](https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker)
+  - [iOS code could reportedly let Apple cut off apps when users miss iPhone payments](https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27)
+  - [Price-hiked iPads are a little cheaper right now](https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale)
 - VulDB Recent Entries
   - [CVE-2026-16157 | Duplicati 2.3.0.1 LocalSystem service permission assignment](https://vuldb.com/vuln/382394)
   - [CVE-2026-16615 | Red Hat librest 2.0 PKCE GRand random values](https://vuldb.com/vuln/382385)
@@ -64,6 +72,7 @@
   - [CVE-2026-16631 | publint up to 0.1.4 package-manager Command src/node/pack.js child_process.exec os command injection (Issue 236)](https://vuldb.com/vuln/382381)
   - [CVE-2026-16632 | boazsegev facil.io up to 0.7.4 WebSocket Frame Parser websocket_parser.h websocket_on_protocol_error on_message input validation (Issue 169)](https://vuldb.com/vuln/382382)
   - [CVE-2026-16653 | boazsegev facil.io up to 0.7.58 Public Folder lib/facil/http/http.c http_sendfile2 path traversal (Issue 170)](https://vuldb.com/vuln/382396)
+  - [CVE-2026-22049 | NetApp ONTAP >=9.16.1/9.19.0 Relying Party ID improper authentication](https://vuldb.com/vuln/382399)
   - [CVE-2026-3482 | IBM Sterling B2B Integrator/Sterling File Gateway up to 6.2.0.5_2/6.2.1.1_2/6.2.2.0_1 information disclosure](https://vuldb.com/vuln/382397)
   - [CVE-2026-64830 | FFmpeg up to 8.1.2 VobSub subtitle demuxer libavformat/mpeg.c ff_subtitles_queue_insert q heap-based overflow](https://vuldb.com/vuln/382389)
   - [CVE-2026-64831 | FFmpeg up to 8.1.2 Vulkan HEVC hardware decoder vk_hevc_end_frame vps_num_hrd_parameters stack-based overflow](https://vuldb.com/vuln/382388)
@@ -89,8 +98,11 @@
   - [CVE-2026-16615](https://vulners.com/nvd/NVD:CVE-2026-16615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16615 Librest: weak random number generation in pkce implementation](https://vulners.com/cve/CVE-2026-16615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16615 Librest: weak random number generation in pkce implementation](https://vulners.com/cvelist/CVELIST:CVE-2026-16615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16624](https://vulners.com/nvd/NVD:CVE-2026-16624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16624 CVE-2026-16624](https://vulners.com/cve/CVE-2026-16624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16624 CVE-2026-16624](https://vulners.com/cvelist/CVELIST:CVE-2026-16624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-22049](https://vulners.com/nvd/NVD:CVE-2026-22049?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-3482](https://vulners.com/nvd/NVD:CVE-2026-3482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3482 IBM Sterling B2B Integrator and IBM Sterling File Gateway Authorization Bypass](https://vulners.com/cve/CVE-2026-3482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3482 IBM Sterling B2B Integrator and IBM Sterling File Gateway Authorization Bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-3482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40712](https://vulners.com/nvd/NVD:CVE-2026-40712?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -135,9 +147,13 @@
   - [Low: Red Hat Security Advisory: Red Hat Hardened Images RPMs Security Update](https://vulners.com/redhat/RHSA-2026:43818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Moderate: Red Hat Security Advisory: libpng12 security update](https://vulners.com/redhat/RHSA-2026:43702?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenAI Models Escaped Test Environment and Breached Hugging Face](https://vulners.com/hackread/HACKREAD:E18B09BD65C37249C3230F1F0E119AE4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: Access Control Security Vulnerability in IBM Sterling B2B Integrator and IBM Sterling File Gateway (CVE-2026-3482)](https://vulners.com/ibm/36D79CAC132ACA8597E12ED9DDEDAFCDECE12D47DC4CE42664F8612EA70109F9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: IBM WebSphere Application Server Liberty is affected by a denial of service vulnerability (CVE-2026-15057)](https://vulners.com/ibm/2F7CA42C10904DF757CDA59EBC410BE180EC1A80918B3D318C6E45BB16EB4A84?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: IBM WebSphere Application Server Liberty is affected by a denial of service vulnerability with HTTP/2 (CVE-2026-11897)](https://vulners.com/ibm/0730C063153C3F0AC4CC3027C814326B14CEC24E79D13EA58CD0D7510FB6ACAD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs](https://vulners.com/thn/THN:460ACDEAC82F40A49874C06B7B4B0FBE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Dyson V10 Konical Review (2026): Affordable and Solid](https://www.wired.com/review/dyson-v10-konical-2026/)
+  - [‘The Odyssey’ Is Inspiring Unprecedented Levels of Cope](https://www.wired.com/story/the-odysseys-success-is-inspiring-unprecedented-levels-of-cope/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 量子位 QbitAI
