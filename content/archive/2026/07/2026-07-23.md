@@ -8,21 +8,40 @@
   - [8点1氪丨小红书回应IPO因前员工举报而受阻传闻：均不属实；谷歌Gemini跌出全球排名前十；耐克宣布终止滔搏线上经销权](https://36kr.com/p/3907461333144711?f=rss)
   - [Alphabe首席财务官：预计全年资本支出1950亿美元至2050亿美元](https://36kr.com/newsflashes/3907442687612036?f=rss)
   - [SpaceXAI筹划在得克萨斯州大规模扩建数据中心](https://36kr.com/newsflashes/3907432709526920?f=rss)
+  - [上市公司回购增持队伍继续壮大，逾20家公司股东终止减持计划](https://36kr.com/newsflashes/3907482795644034?f=rss)
+  - [两市融资余额增加7.46亿元](https://36kr.com/newsflashes/3907516149159298?f=rss)
   - [中信建投：铜铝需求增长将有所好转](https://36kr.com/newsflashes/3907458894894473?f=rss)
+  - [中信证券：看好超跌后的电子板块投资机会](https://36kr.com/newsflashes/3907507736466822?f=rss)
+  - [中信证券：预估2026年下半年去产能有望持续，2027年猪价景气可期](https://36kr.com/newsflashes/3907479853192325?f=rss)
+  - [中信证券：预计Agent将显著拉动CPU需求，带来CPU的价值重估](https://36kr.com/newsflashes/3907483137791113?f=rss)
   - [中国进出口银行上半年新发放外贸领域贷款近6500亿元](https://36kr.com/newsflashes/3907436213408896?f=rss)
+  - [中汽协：6月中国品牌乘用车共销售181.2万辆，同比增长6.2%](https://36kr.com/newsflashes/3907516832830851?f=rss)
   - [二季度券商资管公募权益产品表现强劲，多只基金单季涨幅超50%](https://36kr.com/newsflashes/3907459855422601?f=rss)
   - [亚马逊裁撤通用人工智能部门岗位](https://36kr.com/newsflashes/3907437853070726?f=rss)
   - [优步裁减10%的客服岗位，理由是“拥抱”人工智能](https://36kr.com/newsflashes/3907469484938629?f=rss)
+  - [华泰证券：AI眼镜有望成为AI Agent进入物理世界的高频入口](https://36kr.com/newsflashes/3907479287534724?f=rss)
   - [印度计划到2033年建成至少五座小型模块化反应堆](https://36kr.com/newsflashes/3907447072461954?f=rss)
+  - [多家外资机构发声，看好A股市场看多中国股票](https://36kr.com/newsflashes/3907477559481735?f=rss)
   - [多方承诺不减持，合力应对港股解禁冲击](https://36kr.com/newsflashes/3907462304765061?f=rss)
+  - [多路增量资金入市，逆向布局构筑承接防线](https://36kr.com/newsflashes/3907481283777921?f=rss)
+  - [大型机销量下滑，IBM下调全年营收指引](https://36kr.com/newsflashes/3907485764130181?f=rss)
   - [宜家甩卖8处物业，回应：不代表退出中国市场](https://36kr.com/newsflashes/3907451596707207?f=rss)
   - [实探MLCC产业链：主力企业产线满，出厂价未见松动](https://36kr.com/newsflashes/3907450438685826?f=rss)
   - [欧盟有条件批准派拉蒙收购华纳兄弟](https://36kr.com/newsflashes/3907435822519429?f=rss)
+  - [液冷技术关注度升温，A股液冷产业链公司业绩分化明显](https://36kr.com/newsflashes/3907478878884993?f=rss)
   - [澳大利亚监管机构计划简化卖方研究指南](https://36kr.com/newsflashes/3907441447572872?f=rss)
   - [特斯拉二季度盈利不及预期，AI与机器人投资拖累现金流](https://36kr.com/newsflashes/3907437108925828?f=rss)
   - [百慕大航司BermudAir订购10架A220-300飞机，成空客新客户](https://36kr.com/newsflashes/3907436485645448?f=rss)
+  - [硬科技企业密集登陆，港股IPO市场活力持续释放](https://36kr.com/newsflashes/3907478407697801?f=rss)
+  - [硬科技等企业重塑港股结构，港股新经济板块风生水起](https://36kr.com/newsflashes/3907515859654021?f=rss)
+  - [私募掀起自购热潮，“均衡配置”应对市场波动](https://36kr.com/newsflashes/3907480578561410?f=rss)
   - [美联储7月维持利率不变的概率65.3%](https://36kr.com/newsflashes/3907439383401864?f=rss)
   - [美股三大指数集体收跌，大型科技股多数下跌](https://36kr.com/newsflashes/3907409390130308?f=rss)
+  - [英特尔寻求俄亥俄州芯片厂运营合作伙伴，SK海力士入围潜在名单](https://36kr.com/newsflashes/3907481845142662?f=rss)
+  - [跨境贸易结算等领域取得突破，数字人民币迎来新一轮应用落地高峰](https://36kr.com/newsflashes/3907472025589126?f=rss)
+  - [长安汽车：向特定对象发行A股股票申请获深交所审核通过](https://36kr.com/newsflashes/3907484081067401?f=rss)
+  - [韩国二季度GDP环比增长0.6%](https://36kr.com/newsflashes/3907514332419458?f=rss)
+  - [韩美首个投资项目或于8月公布，或聚焦能源领域](https://36kr.com/newsflashes/3907525380674949?f=rss)
   - [马斯克称美光向特斯拉分配了大量内存芯片，供货条件“非常合理”](https://36kr.com/newsflashes/3907468172121225?f=rss)
   - [马斯克：很快就会宣布Terafab的选址](https://36kr.com/newsflashes/3907441734718599?f=rss)
   - [马斯克：无法在财报电话会议上谈论合并特斯拉与SpaceX的事宜](https://36kr.com/newsflashes/3907440549680256?f=rss)
@@ -43,11 +62,13 @@
   - [SEC’s Peirce says crypto vaults and onchain lending may fall under securities laws](https://cointelegraph.com/news/secs-hester-peirce-says-crypto-vaults-and-onchain-lending-may-fall-under-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules](https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cybersecurity News
+  - [600K Sites at Risk: Ninja Forms Stored XSS Flaw CVE-2026-65048 Hits CVSS 9.3](https://securityonline.info/ninja-forms-vulnerability-cve-2026-65048/)
   - [Check Point SmartConsole Auth Bypass CVE-2026-16232 Exploited in the Wild](https://securityonline.info/check-point-smartconsole-cve-2026-16232/)
   - [Exim Directory Traversal Flaw Enables Privilege Escalation, Fixed in 4.99.5](https://securityonline.info/exim-vulnerability-directory-traversal-4-99-5/)
   - [RefluXFS CVE-2026-64600: XFS Root Privilege Escalation Hits 16.4M Systems](https://securityonline.info/refluxfs-cve-2026-64600-xfs-root/)
 - darkreading
   - [Attackers Are Learning to Live Off the AI Toolchain](https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain)
+  - [Ransomware Attack Puts a Chill On Japanese Frozen-Food Chain](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain)
 - Emergent Minds | paddo.dev
   - [The One Thing Washington Can't Ban: Kimi K3 and the Open-Weight Problem](https://paddo.dev/blog/cant-ban-the-weights/)
 - Hacker News Frontpage
@@ -68,6 +89,12 @@
   - [The Computer That Helped Win World War II](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
 - InfoSec Write-ups - Medium
   - [Two Ways To Mess Up Your JWT Safety Net In Your Own Lab.](https://infosecwriteups.com/two-ways-to-mess-up-your-jwt-safety-net-in-your-own-lab-6d94a963b07d?source=rss----7b722bfd1b8d---4)
+- Kali Linux Tutorials
+  - [Disable UFW Firewall on Ubuntu 18.04: Stop, Reset, and Re-enable](https://kalilinuxtutorials.com/disable-firewall-on-ubuntu/)
+  - [Install PostgreSQL on Ubuntu 18.04 with Remote Access Setup](https://kalilinuxtutorials.com/install-postgresql-ubuntu-2/)
+  - [Install VirtualBox on Ubuntu 18.04 from the Oracle Repository](https://kalilinuxtutorials.com/install-virtualbox-ubuntu-2/)
+  - [Install VMware on Ubuntu 18.04: Workstation Player Setup Guide](https://kalilinuxtutorials.com/install-vmware-ubuntu/)
+  - [Set Up a UFW Firewall on Ubuntu 18.04: Allow, Deny, and Manage](https://kalilinuxtutorials.com/setup-ufw-firewall-ubuntu/)
 - ProjectDiscovery.io | Blog
   - [Oh My Rogue Agent](https://projectdiscovery.io/blog/oh-my-rogue-agent)
 - PwnDefend
@@ -118,6 +145,7 @@
   - [Apple is reportedly testing a MacBook Neo with more RAM](https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade)
   - [Here&#8217;s what Samsung&#8217;s smart glasses actually look like](https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker)
   - [iOS code could reportedly let Apple cut off apps when users miss iPhone payments](https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27)
+  - [Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy](https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine)
   - [Price-hiked iPads are a little cheaper right now](https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale)
   - [Tesla’s revenues are bouncing back, but profits are still weak](https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales)
 - VulDB Recent Entries
@@ -212,6 +240,8 @@
   - [CVE-2026-16630](https://vulners.com/nvd/NVD:CVE-2026-16630?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16630 syncfusion ej2-javascript-ui-controls package.json child_process.exec os command injection](https://vulners.com/cve/CVE-2026-16630?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16630 syncfusion ej2-javascript-ui-controls package.json child_process.exec os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-16630?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16631](https://vulners.com/nvd/NVD:CVE-2026-16631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16632](https://vulners.com/nvd/NVD:CVE-2026-16632?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22049](https://vulners.com/nvd/NVD:CVE-2026-22049?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3482](https://vulners.com/nvd/NVD:CVE-2026-3482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3482 IBM Sterling B2B Integrator and IBM Sterling File Gateway Authorization Bypass](https://vulners.com/cve/CVE-2026-3482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -408,7 +438,11 @@
   - [‘The Odyssey’ Is Inspiring Unprecedented Levels of Cope](https://www.wired.com/story/the-odysseys-success-is-inspiring-unprecedented-levels-of-cope/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜12999起,首台安卓阔折叠发布/曝苹果MacBook将迎全线更新/小红书否认IPO相关传闻](https://www.ifanr.com/1672820?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文](https://www.qbitai.com/2026/07/457249.html)
   - [美图拿出1亿元，面向全行业寻找AI影像Builder](https://www.qbitai.com/2026/07/457223.html)
 - 黑海洋
+  - [OpenAI总裁直言Kimi K3模型“相当不错”](https://blog.upx8.com/OpenAI%E6%80%BB%E8%A3%81%E7%9B%B4%E8%A8%80Kimi-K3%E6%A8%A1%E5%9E%8B-%E7%9B%B8%E5%BD%93%E4%B8%8D%E9%94%99)
   - [OpenAI提高算力支出预测至7500亿美元](https://blog.upx8.com/OpenAI%E6%8F%90%E9%AB%98%E7%AE%97%E5%8A%9B%E6%94%AF%E5%87%BA%E9%A2%84%E6%B5%8B%E8%87%B37500%E4%BA%BF%E7%BE%8E%E5%85%83)
