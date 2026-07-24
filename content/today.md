@@ -3,6 +3,8 @@
 - 404 Media
   - [Behind the Blog: No Spoilers](https://www.404media.co/behind-the-blog-no-spoilers/)
 - Ars Technica
+  - [Anthropic's Opus 5 is about token efficiency, not a capability leap](https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/)
+  - [Canadian legislator reads out apparent LLM response in floor speech](https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/)
   - [RFK Jr.'s hand-picked committee approves manufacture of peptides he uses](https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/)
 - blog.jim-nielsen.com
   - [Podcast Notes: Ed Catmull on David Senra](https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/)
@@ -10,6 +12,7 @@
   - [The EU’s 21st Russia Sanctions Package Targets Crypto Platforms for Sanctions Evasion, Introduces Third-Country Ban Mechanism](https://www.chainalysis.com/blog/eu-21st-russia-sanctions-package-crypto-patforms-july-2026/)
 - CoinTelegraph
   - [Crypto advocacy groups support CLARITY passage as ethics rules face pushback](https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [EU authorities include HTX exchange in Russian sanctions](https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [House passes bill on lawmakers using insider information for stock trading](https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive’s SATA recovers most of June decline, trades within 3% of par](https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -17,6 +20,10 @@
   - [Dickover of the Week: Tomtoc](https://daringfireball.net/2026/05/what_is_a_dickover)
   - [Sixers Sign LeBron James](https://www.inquirer.com/sixers/live/lebron-james-signs-philadelphia-76ers-contract-salary-roster-updates-reaction-20260724.html/card-ee056079-8e8d-49a8-8fb2-ce36a0ad77af)
   - [★ Regarding Ad Blockers and Daring Fireball](https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball)
+- darkreading
+  - [CISOs vs. Boards: Myth or Misunderstanding?](https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-)
+- Der Flounder
+  - [Session videos now available from Penn State MacAdmins Conference 2026](https://derflounder.wordpress.com/2026/07/24/session-videos-now-available-from-penn-state-macadmins-conference-2026/)
 - Fidelis Security
   - [A Complete Guide to Fidelis EDR Agents and Their Core Security Roles](https://fidelissecurity.com/threatgeek/endpoint-security/fidelis-endpoint-agent-capabilities/)
 - filfre.net
@@ -39,6 +46,11 @@
   - [Unitree As2-W](https://www.unitree.com/As2-W/)
 - IEEE Spectrum
   - [2022 IEEE President K.J. Ray Liu Honored for His Leadership](https://spectrum.ieee.org/ieee-president-ray-liu-award)
+- Kali Linux Tutorials
+  - [Install Nginx on Ubuntu 18.04: UFW, Service Control, and Config](https://kalilinuxtutorials.com/install-nginx-ubuntu-2/)
+  - [Install PHP on Ubuntu 18.04: Apache, Nginx FPM, and Ondrej PPA](https://kalilinuxtutorials.com/install-php-ubuntu-2/)
+  - [Install Skype on Ubuntu 18.04: .deb Package and Auto-Updates](https://kalilinuxtutorials.com/install-skype-ubuntu/)
+  - [Secure Nginx with Let’s Encrypt on Ubuntu 18.04: SSL Setup Guide](https://kalilinuxtutorials.com/secure-nginx-lets-encrypt-ubuntu/)
 - Sploitus.com Exploits RSS Feed
   - [Evil-Ollama exploit](https://sploitus.com/exploit?id=D445D817-9A5A-5BB4-84FE-AF1E3E8FD720&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-49952 exploit](https://sploitus.com/exploit?id=E3511389-563B-5AD7-A686-6FA07D46FB08&utm_source=rss&utm_medium=rss)
@@ -53,6 +65,7 @@
   - [OpenAI’s own model went rogue before Kimi had Wall Street sweating](https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/)
   - [Sam Altman’s biometric startup World raises $52.5M via crypto sale](https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/)
   - [US accuses American of allegedly wiping his phone using a ‘duress’ password during border search](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/)
+  - [Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same](https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/)
   - [Volkswagen engineers charged with insider trading tied to Rivian joint venture](https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/)
   - [Waymo reportedly mulling a breakup with Uber](https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/)
   - [Why Cognition bought Poke: AI personality is becoming a competitive advantage](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/)
@@ -72,6 +85,7 @@
   - [Roku raises streaming hardware prices by up to $50](https://www.theverge.com/streaming/970814/roku-streaming-price-increase)
   - [You can’t ignore Google Zero anymore](https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast)
 - VulDB Recent Entries
+  - [CVE-2025-71408 | NLTK up to 3.9.2 collocations collocations.py eval os command injection](https://vuldb.com/vuln/383021)
   - [CVE-2026-17039 | Red Hat Certificate System/Enterprise Linux Renewal Request improper authorization](https://vuldb.com/vuln/382951)
   - [CVE-2026-17107 | Red Hat Multicluster Engine for Kubernetes cluster-proxy service-proxy Impersonate-Group privileges management](https://vuldb.com/vuln/383005)
   - [CVE-2026-48021 | med-united epa4all prior 2026-05-20 improper authorization](https://vuldb.com/vuln/383004)
@@ -139,6 +153,8 @@
   - [CVE-2026-66040 | FFmpeg up to 8.1.2 PNG/APNG encoders png_write_chunk out-of-bounds write (b506faf)](https://vuldb.com/vuln/383017)
   - [CVE-2026-66041 | FFmpeg up to 8.1.2 vf_quirc filter av_image_copy_plane out-of-bounds write](https://vuldb.com/vuln/383020)
 - Vulners.com RSS Feed
+  - [CVE-2025-71408 NLTK < 3.9.2 Eval Injection via collocations.py Command-Line Arguments](https://vulners.com/cve/CVE-2025-71408?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-71408 NLTK < 3.9.2 Eval Injection via collocations.py Command-Line Arguments](https://vulners.com/cvelist/CVELIST:CVE-2025-71408?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14586](https://vulners.com/redhatcve/RH:CVE-2026-14586?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15308 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-15308?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15308 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-15308?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -249,6 +265,7 @@
   - [CVE-2026-7769](https://vulners.com/cve/CVE-2026-7769?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Evil-Ollama](https://vulners.com/githubexploit/D445D817-9A5A-5BB4-84FE-AF1E3E8FD720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-49952](https://vulners.com/githubexploit/E3511389-563B-5AD7-A686-6FA07D46FB08?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Friday Squid Blogging: Illex Squid Catch in the Falklands](https://vulners.com/schneier/SCHNEIER:3E49EC82428ECB3E8F89A1E21BCFC17F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-45RX-2JWX-CXFR vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-45RX-2JWX-CXFR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-48RX-C7PG-Q66R vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-48RX-C7PG-Q66R?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-4C39-4CCG-62R3 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-4C39-4CCG-62R3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -269,6 +286,9 @@
   - [NPM: Mongoose: Prototype pollution in mongoose update casting via __proto__-prefixed dotted path (Schema._getSchema/path getter)](https://vulners.com/patchstack/PATCHSTACK:8CF50BF5DACFFD8CAE7EADF4B600E489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NPM: node-tar: Uncontrolled recursion in mapHas/filesFilter allows uncatchable stack-overflow DoS via crafted long-path tar with member selection](https://vulners.com/patchstack/PATCHSTACK:39A663132050E9D69791A0A091DED5BB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NPM: PostCSS: Path Traversal in Previous Source Map Auto-Loading (sourceMappingURL) leads to Arbitrary .map File Disclosure](https://vulners.com/patchstack/PATCHSTACK:A757A7FF1D20FBA3E7FD3188841E0A0F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [NPM: react-server-dom: Denial of Service in Server Functions](https://vulners.com/patchstack/PATCHSTACK:37B95D0470464DA40E700359DF944D36?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [NPM: react-server-dom: Denial of Service in Server Functions](https://vulners.com/patchstack/PATCHSTACK:84F1371E39E6E0F524257F2AB684BD6C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [NPM: react-server-dom: Denial of Service in Server Functions](https://vulners.com/patchstack/PATCHSTACK:EAA46E86D645FD62DA2DFBCC9671917E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NPM: Trix: Stored XSS via HTMLParser attribute injection on paste](https://vulners.com/patchstack/PATCHSTACK:DB05131C281FE12CA780BC317532F2C8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NPM: Velocity.js: Remote Code Execution via property-read to Function constructor (bypass of GHSA-j658-c2gf-x6pq fix)](https://vulners.com/patchstack/PATCHSTACK:FB09C0711771E18240EDA2AB670DE893?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Security Vulnerability in Eclipse Jetty affects IBM Sterling B2B Integrator and IBM Sterling File Gateway (CVE-2026-1605)](https://vulners.com/ibm/83E263CAF493000225403F2309B22580BF88AE385B7359EFF74AD49EDCDDA285?utm_source=rss&utm_medium=rss&utm_campaign=rss)
