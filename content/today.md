@@ -1,8 +1,13 @@
 # 今日安全资讯（2026-07-25）
 
+- 404 Media
+  - [Behind the Blog: No Spoilers](https://www.404media.co/behind-the-blog-no-spoilers/)
+- blog.jim-nielsen.com
+  - [Podcast Notes: Ed Catmull on David Senra](https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/)
 - CoinTelegraph
   - [Crypto advocacy groups support CLARITY passage as ethics rules face pushback](https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [Coiner of ‘Enshittification’ Endorses ‘Dickover’](https://pluralistic.net/2026/07/21/dickovers/)
   - [Dickover of the Week: Tomtoc](https://daringfireball.net/2026/05/what_is_a_dickover)
   - [Sixers Sign LeBron James](https://www.inquirer.com/sixers/live/lebron-james-signs-philadelphia-76ers-contract-salary-roster-updates-reaction-20260724.html/card-ee056079-8e8d-49a8-8fb2-ce36a0ad77af)
 - filfre.net
@@ -11,6 +16,7 @@
   - [Apple won't let me show my app](https://wisedayplanner.com/blog/apple-wont-let-me-show-my-app/)
   - [As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port](https://openjdk.org/jeps/541)
   - [Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
+  - [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/)
   - [Build Systems Discussion](https://civboot.github.io/blog/2026-07-24-build-systems.html)
   - [Claude Opus 5](https://www.anthropic.com/claude-opus-5-system-card)
   - [Micro-SaaS Is Dead. Service With A Software Replaces It](https://adriengonin.com/writing/service-with-a-software/)
@@ -25,7 +31,10 @@
   - [2022 IEEE President K.J. Ray Liu Honored for His Leadership](https://spectrum.ieee.org/ieee-president-ray-liu-award)
 - Sploitus.com Exploits RSS Feed
   - [Evil-Ollama exploit](https://sploitus.com/exploit?id=D445D817-9A5A-5BB4-84FE-AF1E3E8FD720&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-49952 exploit](https://sploitus.com/exploit?id=E3511389-563B-5AD7-A686-6FA07D46FB08&utm_source=rss&utm_medium=rss)
   - [wp2shell exploit](https://sploitus.com/exploit?id=370A6437-567A-59DC-8F50-24EDC8AE7907&utm_source=rss&utm_medium=rss)
+- Taxodium
+  - [請開啟 JavaScript 以繼續搜尋](https://taxodium.ink/google-turn-on-javascript-to-keep-searching.html)
 - TechCrunch
   - [Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark](https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/)
   - [Anthropic launches Opus 5](https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/)
@@ -34,15 +43,24 @@
   - [OpenAI’s own model went rogue before Kimi had Wall Street sweating](https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/)
   - [Sam Altman’s biometric startup World raises $52.5M via crypto sale](https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/)
   - [US accuses American of allegedly wiping his phone using a ‘duress’ password during border search](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/)
+  - [Why Cognition bought Poke: AI personality is becoming a competitive advantage](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/)
 - The Block
+  - [Cardano co-founder Hoskinson says Bitcoin could lose top spot if governance fails quantum test](https://www.theblock.co/post/409627/cardano-co-founder-hoskinson-bitcoin-lose-top-spot-governance-fails-quantum-test?utm_source=rss&utm_medium=rss)
   - [Wise plans to resubmit national trust bank application under GENIUS Act framework](https://www.theblock.co/post/409631/wise-plans-resubmit-national-trust-bank-application-under-genius-act-framework?utm_source=rss&utm_medium=rss)
+- The Decoder
+  - [Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price](https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/)
 - The Verge
   - [Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release)
   - [Blade Runner 2099’s moody dystopia streams on Amazon in November](https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video)
+  - [DJI camera clone company Xtra is halting and refunding all preorders](https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders)
   - [Meta is making its AI chatbot more like an assistant](https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update)
+  - [Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;](https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b)
+  - [Roku raises streaming hardware prices by up to $50](https://www.theverge.com/streaming/970814/roku-streaming-price-increase)
   - [You can’t ignore Google Zero anymore](https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast)
 - VulDB Recent Entries
   - [CVE-2026-17039 | Red Hat Certificate System/Enterprise Linux Renewal Request improper authorization](https://vuldb.com/vuln/382951)
+  - [CVE-2026-48021 | med-united epa4all prior 2026-05-20 improper authorization](https://vuldb.com/vuln/383004)
+  - [CVE-2026-54342 | med-united epa4all prior 2026-05-20 certificate validation](https://vuldb.com/vuln/383003)
   - [CVE-2026-64208 | Linux Kernel up to 6.18.33/7.0.10 Crypto/Krb5/Rxrpc buffer overflow](https://vuldb.com/vuln/382945)
   - [CVE-2026-64209 | Linux Kernel qmp-usbc out-of-bounds](https://vuldb.com/vuln/382946)
   - [CVE-2026-64212 | Linux Kernel up to 6.18.33/7.0.10 iwlwifi iwl_mld_remove_link use after free](https://vuldb.com/vuln/382947)
@@ -93,6 +111,10 @@
   - [CVE-2026-66035 | libssh2 up to 1.11.1 Encrypt-then-MAC Cipher Negotiation src/transport.c fullpacket heap-based overflow](https://vuldb.com/vuln/382987)
 - Vulners.com RSS Feed
   - [CVE-2026-14586](https://vulners.com/redhatcve/RH:CVE-2026-14586?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48021 epa4all Security Incident: Implement keystore based on Telematik TSL, implement hostname check and certificate check for lib-vau](https://vulners.com/cve/CVE-2026-48021?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48021 epa4all Security Incident: Implement keystore based on Telematik TSL, implement hostname check and certificate check for lib-vau](https://vulners.com/cvelist/CVELIST:CVE-2026-48021?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54342 TLS Certificate Verification Disabled on CXF Transport Clients in epa4all](https://vulners.com/cve/CVE-2026-54342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54342 TLS Certificate Verification Disabled on CXF Transport Clients in epa4all](https://vulners.com/cvelist/CVELIST:CVE-2026-54342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56392](https://vulners.com/redhatcve/RH:CVE-2026-56392?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64214](https://vulners.com/nvd/NVD:CVE-2026-64214?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64222](https://vulners.com/nvd/NVD:CVE-2026-64222?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -147,6 +169,7 @@
   - [CVE-2026-66035](https://vulners.com/nvd/NVD:CVE-2026-66035?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66035 libssh2 Heap Buffer Overflow via ETM Cipher Negotiation](https://vulners.com/cvelist/CVELIST:CVE-2026-66035?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Evil-Ollama](https://vulners.com/githubexploit/D445D817-9A5A-5BB4-84FE-AF1E3E8FD720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-49952](https://vulners.com/githubexploit/E3511389-563B-5AD7-A686-6FA07D46FB08?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NPM: Mongoose: Prototype pollution in mongoose update casting via __proto__-prefixed dotted path (Schema._getSchema/path getter)](https://vulners.com/patchstack/PATCHSTACK:8CF50BF5DACFFD8CAE7EADF4B600E489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NPM: node-tar: Uncontrolled recursion in mapHas/filesFilter allows uncatchable stack-overflow DoS via crafted long-path tar with member selection](https://vulners.com/patchstack/PATCHSTACK:39A663132050E9D69791A0A091DED5BB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NPM: PostCSS: Path Traversal in Previous Source Map Auto-Loading (sourceMappingURL) leads to Arbitrary .map File Disclosure](https://vulners.com/patchstack/PATCHSTACK:A757A7FF1D20FBA3E7FD3188841E0A0F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -157,6 +180,7 @@
   - [Premium: The Hater’s Guide To Oracle (Part 2)](https://www.wheresyoured.at/premium-the-haters-guide-to-oracle-part-2/)
 - Wired
   - [Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models](https://www.wired.com/story/uncanny-valley-podcast/)
+  - [The 2026 El Niño Is on Track to Be the Strongest on Record](https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
