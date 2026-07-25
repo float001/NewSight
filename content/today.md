@@ -4,6 +4,13 @@
   - [7 月 25 日，星期六简要，每天 60 秒知天下](https://2libra.com/post/social-observation/0PPXwg8)
 - 36氪
   - [9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布](https://36kr.com/p/3910351337821318?f=rss)
+  - [Anthropic推出新模型Opus 5](https://36kr.com/newsflashes/3910378700395908?f=rss)
+  - [OpenAI称将发布Hugging Face被黑事件技术报告](https://36kr.com/newsflashes/3910380317381767?f=rss)
+  - [国际原油期货结算价收跌超3% 布油本周累涨近10%](https://36kr.com/newsflashes/3910367668458625?f=rss)
+  - [大众集团上半年税后利润同比下降超三成](https://36kr.com/newsflashes/3910376983483778?f=rss)
+  - [报道称英伟达与SK集团共同推出价值超过5000亿美元的AI计划](https://36kr.com/newsflashes/3910374290707844?f=rss)
+  - [美“星舰”实施第13次试飞](https://36kr.com/newsflashes/3910413081810050?f=rss)
+  - [美股三大指数收盘涨跌不一，存储芯片、光通信跌幅居前](https://36kr.com/newsflashes/3910365150319750?f=rss)
 - 404 Media
   - [Behind the Blog: No Spoilers](https://www.404media.co/behind-the-blog-no-spoilers/)
 - Ars Technica
@@ -182,6 +189,7 @@
   - [CVE-2026-66339 | Red Hat Enterprise Linux libsoup information disclosure](https://vuldb.com/vuln/383031)
 - Vulners.com RSS Feed
   - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2019-13045](https://vulners.com/circl/CIRCL:CVE-2019-13045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2021-25148](https://vulners.com/circl/CIRCL:CVE-2021-25148?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71408](https://vulners.com/nvd/NVD:CVE-2025-71408?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71408 NLTK < 3.9.2 Eval Injection via collocations.py Command-Line Arguments](https://vulners.com/cve/CVE-2025-71408?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -324,7 +332,9 @@
   - [CVE-2026-66338](https://vulners.com/nvd/NVD:CVE-2026-66338?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66339](https://vulners.com/nvd/NVD:CVE-2026-66339?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66373](https://vulners.com/cvelist/CVELIST:CVE-2026-66373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66373](https://vulners.com/nvd/NVD:CVE-2026-66373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66374](https://vulners.com/cvelist/CVELIST:CVE-2026-66374?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66374](https://vulners.com/nvd/NVD:CVE-2026-66374?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7769](https://vulners.com/cve/CVE-2026-7769?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Evil-Ollama](https://vulners.com/githubexploit/D445D817-9A5A-5BB4-84FE-AF1E3E8FD720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-49952](https://vulners.com/githubexploit/E3511389-563B-5AD7-A686-6FA07D46FB08?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -341,6 +351,7 @@
   - [GHSA-89XV-2M56-2M9X vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-89XV-2M56-2M9X?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-C2J3-45GR-MQC4 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-C2J3-45GR-MQC4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-HVRM-45R6-MJFJ vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-HVRM-45R6-MJFJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-JPCW-4WR7-C3VQ](https://vulners.com/circl/CIRCL:GHSA-JPCW-4WR7-C3VQ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-M99W-X7HQ-7VFJ vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-M99W-X7HQ-7VFJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-P9J2-GV94-2WF4 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-P9J2-GV94-2WF4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-Q6CQ-MHR2-JMR5 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-Q6CQ-MHR2-JMR5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -384,3 +395,5 @@
   - [OpenAI智能体逃逸事件是AI时代的分水岭](https://www.anquanke.com/post/id/315851)
 - 爱范儿
   - [早报｜Claude Opus 5发布,半价追平Fable 5/小鹏人形机器人开启小批量试产/曝英伟达将上调显卡价格](https://www.ifanr.com/1673124?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [特朗普之子联手AMD开发新一代人形机器人](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E5%AD%90%E8%81%94%E6%89%8BAMD%E5%BC%80%E5%8F%91%E6%96%B0%E4%B8%80%E4%BB%A3%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA)
