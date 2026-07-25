@@ -9,11 +9,13 @@
   - [每日微语报 7 月 25 日](https://2libra.com/post/social-observation/CP7jAZ6)
   - [车](https://2libra.com/post/personal-life/3u4BwVp)
 - 36氪
+  - [2026年度票房破210亿元](https://36kr.com/newsflashes/3910541410145411?f=rss)
   - [9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布](https://36kr.com/p/3910351337821318?f=rss)
   - [Anthropic推出新模型Opus 5](https://36kr.com/newsflashes/3910378700395908?f=rss)
   - [OpenAI称将发布Hugging Face被黑事件技术报告](https://36kr.com/newsflashes/3910380317381767?f=rss)
   - [TCL科技收购广州华星半导体45%股权事宜获深交所审议通过](https://36kr.com/newsflashes/3910519718270081?f=rss)
   - [Waymo正考虑终止与Uber的合作关系](https://36kr.com/newsflashes/3910429485143429?f=rss)
+  - [“景德镇手工瓷业遗存”申遗成功！我国世界遗产达61项](https://36kr.com/newsflashes/3910543068009602?f=rss)
   - [一审判决支付工程款2449.18万元 翰博高新：不会产生重大不利影响](https://36kr.com/newsflashes/3910444488709513?f=rss)
   - [中国电池工业协会与中国汽车工业协会签订战略合作协议](https://36kr.com/newsflashes/3910441114703232?f=rss)
   - [北汽集团：坚定看好中国资本市场发展前景，全力支持控股上市公司高质量发展](https://36kr.com/newsflashes/3910437664920964?f=rss)
@@ -94,6 +96,7 @@
 - Sploitus.com Exploits RSS Feed
   - [Evil-Ollama exploit](https://sploitus.com/exploit?id=D445D817-9A5A-5BB4-84FE-AF1E3E8FD720&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-49952 exploit](https://sploitus.com/exploit?id=E3511389-563B-5AD7-A686-6FA07D46FB08&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-61946 exploit](https://sploitus.com/exploit?id=6D04155A-85FA-5456-92B9-3FB322D19AC1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-64600 exploit](https://sploitus.com/exploit?id=8449E91B-B7BB-5B21-BF21-EDE34858AE54&utm_source=rss&utm_medium=rss)
   - [wp2shell exploit](https://sploitus.com/exploit?id=370A6437-567A-59DC-8F50-24EDC8AE7907&utm_source=rss&utm_medium=rss)
   - [xss exploit](https://sploitus.com/exploit?id=D4250093-B026-5906-AF71-A7B70A7A6A4C&utm_source=rss&utm_medium=rss)
@@ -374,6 +377,7 @@
   - [CVE-2026-7769](https://vulners.com/cve/CVE-2026-7769?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Evil-Ollama](https://vulners.com/githubexploit/D445D817-9A5A-5BB4-84FE-AF1E3E8FD720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-49952](https://vulners.com/githubexploit/E3511389-563B-5AD7-A686-6FA07D46FB08?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-61946](https://vulners.com/githubexploit/6D04155A-85FA-5456-92B9-3FB322D19AC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64600](https://vulners.com/githubexploit/8449E91B-B7BB-5B21-BF21-EDE34858AE54?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Friday Squid Blogging: Illex Squid Catch in the Falklands](https://vulners.com/schneier/SCHNEIER:3E49EC82428ECB3E8F89A1E21BCFC17F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-3PJW-73GF-8QR5 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-3PJW-73GF-8QR5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -396,6 +400,7 @@
   - [GHSA-8R5M-3F66-QPR3 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-8R5M-3F66-QPR3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-8R6M-32JQ-JX6Q vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-8R6M-32JQ-JX6Q?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-C2J3-45GR-MQC4 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-C2J3-45GR-MQC4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-HMJ8-5XMH-5573](https://vulners.com/circl/CIRCL:GHSA-HMJ8-5XMH-5573?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-HVRM-45R6-MJFJ vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-HVRM-45R6-MJFJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-JPCW-4WR7-C3VQ](https://vulners.com/circl/CIRCL:GHSA-JPCW-4WR7-C3VQ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-M2W4-8GGF-RJ47 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-M2W4-8GGF-RJ47?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -442,6 +447,8 @@
   - [Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models](https://www.wired.com/story/uncanny-valley-podcast/)
   - [One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires](https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/)
   - [The 2026 El Niño Is on Track to Be the Strongest on Record](https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/)
+- 不安全
+  - [微软加强KMS激活验证 要求主机必须支持TPM验证 以后可能无法随便搭建激活服务器](https://buaq.net/go-430826.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
@@ -450,4 +457,5 @@
   - [早报｜Claude Opus 5发布,半价追平Fable 5/小鹏人形机器人开启小批量试产/曝英伟达将上调显卡价格](https://www.ifanr.com/1673124?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [AI浪潮势不可挡？马斯克：不应按下“暂停键” 未来将带来全民富足](https://blog.upx8.com/AI%E6%B5%AA%E6%BD%AE%E5%8A%BF%E4%B8%8D%E5%8F%AF%E6%8C%A1-%E9%A9%AC%E6%96%AF%E5%85%8B-%E4%B8%8D%E5%BA%94%E6%8C%89%E4%B8%8B-%E6%9A%82%E5%81%9C%E9%94%AE-%E6%9C%AA%E6%9D%A5%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%85%A8%E6%B0%91%E5%AF%8C%E8%B6%B3)
+  - [SpaceX“星舰”完成第13次试飞，首次部署二十颗全新星链V3卫星](https://blog.upx8.com/SpaceX-%E6%98%9F%E8%88%B0-%E5%AE%8C%E6%88%90%E7%AC%AC13%E6%AC%A1%E8%AF%95%E9%A3%9E-%E9%A6%96%E6%AC%A1%E9%83%A8%E7%BD%B2%E4%BA%8C%E5%8D%81%E9%A2%97%E5%85%A8%E6%96%B0%E6%98%9F%E9%93%BEV3%E5%8D%AB%E6%98%9F)
   - [特朗普之子联手AMD开发新一代人形机器人](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E5%AD%90%E8%81%94%E6%89%8BAMD%E5%BC%80%E5%8F%91%E6%96%B0%E4%B8%80%E4%BB%A3%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA)
