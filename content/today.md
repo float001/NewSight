@@ -3,15 +3,21 @@
 - 2Libra
   - [7 月 25 日，星期六简要，每天 60 秒知天下](https://2libra.com/post/social-observation/0PPXwg8)
   - [7 级啦](https://2libra.com/post/newcomer/MPf71qc)
+  - [AMD 和 Cerebras 搞了个"分离式推理"方案，号称每瓦 token 速度提升 5 倍](https://2libra.com/post/ai-trends/jPRt654)
   - [【💰】想买一个二手机械硬盘](https://2libra.com/post/second-hand/kK0TmHp)
+  - [车](https://2libra.com/post/personal-life/3u4BwVp)
 - 36氪
   - [9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布](https://36kr.com/p/3910351337821318?f=rss)
   - [Anthropic推出新模型Opus 5](https://36kr.com/newsflashes/3910378700395908?f=rss)
   - [OpenAI称将发布Hugging Face被黑事件技术报告](https://36kr.com/newsflashes/3910380317381767?f=rss)
   - [Waymo正考虑终止与Uber的合作关系](https://36kr.com/newsflashes/3910429485143429?f=rss)
+  - [一审判决支付工程款2449.18万元 翰博高新：不会产生重大不利影响](https://36kr.com/newsflashes/3910444488709513?f=rss)
+  - [中国电池工业协会与中国汽车工业协会签订战略合作协议](https://36kr.com/newsflashes/3910441114703232?f=rss)
+  - [北汽集团：坚定看好中国资本市场发展前景，全力支持控股上市公司高质量发展](https://36kr.com/newsflashes/3910437664920964?f=rss)
   - [国际原油期货结算价收跌超3% 布油本周累涨近10%](https://36kr.com/newsflashes/3910367668458625?f=rss)
   - [大众集团上半年税后利润同比下降超三成](https://36kr.com/newsflashes/3910376983483778?f=rss)
   - [报道称英伟达与SK集团共同推出价值超过5000亿美元的AI计划](https://36kr.com/newsflashes/3910374290707844?f=rss)
+  - [携程回应被处罚：诚恳接受、坚决服从](https://36kr.com/newsflashes/3910496040555652?f=rss)
   - [机构调研券商“高频词”生变 硬科技投资受关注](https://36kr.com/newsflashes/3910383325762689?f=rss)
   - [滥用市场支配地位实施垄断行为，携程被罚没51.79亿元](https://36kr.com/newsflashes/3910426356716674?f=rss)
   - [穆迪警告AI投资狂潮冲击科技巨头财务稳健性 微软、甲骨文等公司自由现金流承压](https://36kr.com/newsflashes/3910433082545536?f=rss)
@@ -33,9 +39,11 @@
   - [House passes bill on lawmakers using insider information for stock trading](https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive’s SATA recovers most of June decline, trades within 3% of par](https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cybersecurity News
+  - [25 Tech Firms Sign Open-Weight AI Letter Backing US Leadership](https://securityonline.info/open-weight-ai-open-letter/)
   - [Anthropic Claude Opus 5 Rivals Fable 5 at Half the Price](https://securityonline.info/claude-opus-5-launch/)
   - [Facebook Verified Adds Free Real-Person Badge to Fight AI Fakes](https://securityonline.info/facebook-verified-real-person-badge/)
   - [FastJson RCE CVE-2026-16723 Exploited in the Wild as Details and PoC Exploit Code Go Public](https://securityonline.info/fastjson-rce-cve-2026-16723/)
+  - [Meta Seller App Brings Pro Tools and Meta AI to Marketplace](https://securityonline.info/meta-seller-app-marketplace/)
 - daringfireball.net
   - [Coiner of ‘Enshittification’ Endorses ‘Dickover’](https://pluralistic.net/2026/07/21/dickovers/)
   - [Dickover of the Week: Tomtoc](https://daringfireball.net/2026/05/what_is_a_dickover)
@@ -84,6 +92,7 @@
   - [Exploit for CVE-2026-49952 exploit](https://sploitus.com/exploit?id=E3511389-563B-5AD7-A686-6FA07D46FB08&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-64600 exploit](https://sploitus.com/exploit?id=8449E91B-B7BB-5B21-BF21-EDE34858AE54&utm_source=rss&utm_medium=rss)
   - [wp2shell exploit](https://sploitus.com/exploit?id=370A6437-567A-59DC-8F50-24EDC8AE7907&utm_source=rss&utm_medium=rss)
+  - [xss exploit](https://sploitus.com/exploit?id=D4250093-B026-5906-AF71-A7B70A7A6A4C&utm_source=rss&utm_medium=rss)
 - Taxodium
   - [請開啟 JavaScript 以繼續搜尋](https://taxodium.ink/google-turn-on-javascript-to-keep-searching.html)
 - TechCrunch
@@ -387,6 +396,7 @@
   - [GHSA-JPCW-4WR7-C3VQ](https://vulners.com/circl/CIRCL:GHSA-JPCW-4WR7-C3VQ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-M2W4-8GGF-RJ47 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-M2W4-8GGF-RJ47?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-M99W-X7HQ-7VFJ vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-M99W-X7HQ-7VFJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-MH99-V99M-4GVG](https://vulners.com/circl/CIRCL:GHSA-MH99-V99M-4GVG?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-P9J2-GV94-2WF4 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-P9J2-GV94-2WF4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-Q6CQ-MHR2-JMR5 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-Q6CQ-MHR2-JMR5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-Q8WF-6R8G-63CH vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-Q8WF-6R8G-63CH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -396,6 +406,7 @@
   - [GHSA-WH89-7897-X99H vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-WH89-7897-X99H?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-X2F5-4PRF-W687 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-X2F5-4PRF-W687?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-X2F5-4PRF-W687 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-X2F5-4PRF-W687?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-XG4H-6GFC-H4M8](https://vulners.com/circl/CIRCL:GHSA-XG4H-6GFC-H4M8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NPM: Mongoose: Prototype pollution in mongoose update casting via __proto__-prefixed dotted path (Schema._getSchema/path getter)](https://vulners.com/patchstack/PATCHSTACK:8CF50BF5DACFFD8CAE7EADF4B600E489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NPM: node-tar: Uncontrolled recursion in mapHas/filesFilter allows uncatchable stack-overflow DoS via crafted long-path tar with member selection](https://vulners.com/patchstack/PATCHSTACK:39A663132050E9D69791A0A091DED5BB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NPM: PostCSS: Path Traversal in Previous Source Map Auto-Loading (sourceMappingURL) leads to Arbitrary .map File Disclosure](https://vulners.com/patchstack/PATCHSTACK:A757A7FF1D20FBA3E7FD3188841E0A0F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -418,6 +429,7 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wp2shell](https://vulners.com/githubexploit/370A6437-567A-59DC-8F50-24EDC8AE7907?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [xss](https://vulners.com/githubexploit/D4250093-B026-5906-AF71-A7B70A7A6A4C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [yt-dlp: Downstream command injection via improper sanitization of yt-dlp --write-link output](https://vulners.com/github/GHSA-6V4J-43GG-VJ32?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: The Hater’s Guide To Oracle (Part 2)](https://www.wheresyoured.at/premium-the-haters-guide-to-oracle-part-2/)
