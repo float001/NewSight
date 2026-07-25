@@ -1,5 +1,8 @@
 # 今日安全资讯（2026-07-26）
 
+- 2Libra
+  - [每天一分钟，知晓天下事！2026 年 7 月 26 日](https://2libra.com/post/social-observation/fBJ8h5y)
+  - [每日微语报 7 月 26 日](https://2libra.com/post/social-observation/o8mst3U)
 - CoinTelegraph
   - [Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program](https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -17,7 +20,10 @@
   - [Rauno's Field Notes #2](https://rauno.me/notes/2)
   - [Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network](https://github.com/lucid-fabrics/proxmox-bluetooth)
   - [Tile's security is so bad it's a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
+  - [We Need a National Ballroom](https://weneedaballroom.com/)
   - [Wind turbine is being used to produce zero-carbon "green ammonia" fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/)
+- simonwillison.net
+  - [Ruff v0.16.0](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Code Injection in Kidocode Crawl4Ai exploit](https://sploitus.com/exploit?id=4DC04EAA-B86C-5E9C-8E7F-20A78C65AA48&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Kidocode Crawl4Ai exploit](https://sploitus.com/exploit?id=83765ED6-017D-5A19-902A-A0BE07B57038&utm_source=rss&utm_medium=rss)
