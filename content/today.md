@@ -11,6 +11,7 @@
   - [携程因垄断被市监总局罚没 51.79 亿元](https://2libra.com/post/social-observation/eu9wJP6)
   - [每日微语报 7 月 25 日](https://2libra.com/post/social-observation/CP7jAZ6)
   - [车](https://2libra.com/post/personal-life/3u4BwVp)
+  - [这是一个带有一点点思考的中转站推广贴（真的是推广 🤡）](https://2libra.com/post/promotion/CZ3e4UE)
 - 36氪
   - [2026年度票房破210亿元](https://36kr.com/newsflashes/3910541410145411?f=rss)
   - [9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布](https://36kr.com/p/3910351337821318?f=rss)
@@ -44,6 +45,8 @@
 - 404 Media
   - [Behind the Blog: No Spoilers](https://www.404media.co/behind-the-blog-no-spoilers/)
   - [Scientists Uncover Lost ‘Golden Age’ of Languages That Ended 1,000 Years Ago](https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/)
+- antirez.com
+  - [Being Linux Torvalds](http://antirez.com/news/171)
 - Ars Technica
   - [Anthropic's Opus 5 is about token efficiency, not a capability leap](https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/)
   - [Canadian legislator reads out apparent LLM response in floor speech](https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/)
@@ -56,6 +59,7 @@
   - [Crypto advocacy groups support CLARITY passage as ethics rules face pushback](https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum ETFs close week in red, end 5-day inflow streak](https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [EU authorities include HTX exchange in Russian sanctions](https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Fidelity joins push for Senate passage of CLARITY Act](https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [House passes bill on lawmakers using insider information for stock trading](https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive’s SATA recovers most of June decline, trades within 3% of par](https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cybersecurity News
@@ -109,6 +113,10 @@
   - [Secure Nginx with Let’s Encrypt on Ubuntu 18.04: SSL Setup Guide](https://kalilinuxtutorials.com/secure-nginx-lets-encrypt-ubuntu/)
 - pluralistic.net
   - [Pluralistic: Apple's robo-repo (25 Jul 2026)](https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/)
+- Recent Commits to cve:main
+  - [Update Sat Jul 25 11:57:35 UTC 2026](https://github.com/trickest/cve/commit/1ba39e3ba737b838bba789f1cc5a339b5a2399ad)
+- shkspr.mobi
+  - [Some Quick Thoughts on EMF Camp 2026](https://shkspr.mobi/blog/2026/07/some-quick-thoughts-on-emf-camp-2026/)
 - simonwillison.net
   - [Introducing Claude Opus 5](https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything)
   - [Quoting Boris Cherny](https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything)
@@ -118,6 +126,7 @@
   - [Exploit for CVE-2026-54900 exploit](https://sploitus.com/exploit?id=42139E34-D3D7-5603-ACA1-B10DEF357786&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-61946 exploit](https://sploitus.com/exploit?id=6D04155A-85FA-5456-92B9-3FB322D19AC1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-64600 exploit](https://sploitus.com/exploit?id=8449E91B-B7BB-5B21-BF21-EDE34858AE54&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-65694 exploit](https://sploitus.com/exploit?id=566642C7-D80C-5E20-9790-03A5CE91EF92&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Sonicwall Directory_Services_Connector exploit](https://sploitus.com/exploit?id=57F61E3F-8906-5A47-81BC-13DB488EAF11&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=DAFFBE5F-F407-58CB-9388-0C4DA6D23828&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Fortra Delivernow exploit](https://sploitus.com/exploit?id=196CF982-151C-5685-9757-5E2B5C4ACF73&utm_source=rss&utm_medium=rss)
@@ -164,6 +173,7 @@
   - [Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;](https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b)
   - [Qualcomm is about to raise prices and that&#8217;s bad news for everyone](https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg)
   - [Roku raises streaming hardware prices by up to $50](https://www.theverge.com/streaming/970814/roku-streaming-price-increase)
+  - [What Surrounds Us will make you think a lot about circles](https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam)
   - [You can’t ignore Google Zero anymore](https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast)
 - VulDB Recent Entries
   - [CVE-2025-71408 | NLTK up to 3.9.2 collocations collocations.py eval os command injection](https://vuldb.com/vuln/383021)
@@ -171,6 +181,8 @@
   - [CVE-2026-16280 | Imagination Graphics DDK up to 26.1 RTM1 integer overflow](https://vuldb.com/vuln/383023)
   - [CVE-2026-17039 | Red Hat Certificate System/Enterprise Linux Renewal Request improper authorization](https://vuldb.com/vuln/382951)
   - [CVE-2026-17107 | Red Hat Multicluster Engine for Kubernetes cluster-proxy service-proxy Impersonate-Group privileges management](https://vuldb.com/vuln/383005)
+  - [CVE-2026-17433 | nanocoai NanoClaw up to 2.0.64 MCP Server Approval chat-sdk-bridge.ts createChatSdkBridge.setup improper authorization (Issue 2761)](https://vuldb.com/vuln/383074)
+  - [CVE-2026-17434 | nanocoai NanoClaw up to 2.0.64 add_mcp_server request.ts handleAddMcpServer improper authorization (Issue 2762)](https://vuldb.com/vuln/383075)
   - [CVE-2026-48021 | med-united epa4all prior 2026-05-20 improper authorization](https://vuldb.com/vuln/383004)
   - [CVE-2026-48032 | kerberosmansour hulumi up to 1.3.x privileges management](https://vuldb.com/vuln/383006)
   - [CVE-2026-48033 | kerberosmansour hulumi up to 1.3.x improper authentication](https://vuldb.com/vuln/383007)
@@ -228,6 +240,14 @@
   - [CVE-2026-64268 | Linux Kernel up to 7.1.3 siw siw_qp_rx.c siw_proc_rresp processed/laddr out-of-bounds](https://vuldb.com/vuln/383057)
   - [CVE-2026-64269 | Linux Kernel up to 7.1.3 RDMA/rtrs-srv rdma_write_sg desc[0].len out-of-bounds](https://vuldb.com/vuln/383058)
   - [CVE-2026-64273 | Linux Kernel up to 7.1.3 iforce iforce_process_packet out-of-bounds](https://vuldb.com/vuln/383059)
+  - [CVE-2026-64279 | Linux Kernel up to 7.1.3 i2c i2c_get_adapter use after free](https://vuldb.com/vuln/383070)
+  - [CVE-2026-64280 | Linux Kernel up to 6.18.38/7.1.3 dfl-afu afu_dma_map_region length numeric truncation error](https://vuldb.com/vuln/383073)
+  - [CVE-2026-64281 | Linux Kernel svcrdma svc_rdma_sq_wait locking](https://vuldb.com/vuln/383077)
+  - [CVE-2026-64282 | Linux Kernel up to 6.18.38/7.1.3 KVM kvm_translate_vncr information disclosure](https://vuldb.com/vuln/383076)
+  - [CVE-2026-64283 | Linux Kernel up to 7.1.3 guest_memfd kvm_mm.h integer overflow](https://vuldb.com/vuln/383069)
+  - [CVE-2026-64284 | Linux Kernel up to 6.12.95/6.18.38/7.1.3 KVM svm_handle_exit state issue](https://vuldb.com/vuln/383071)
+  - [CVE-2026-64285 | Linux Kernel KVM buffer overflow](https://vuldb.com/vuln/383072)
+  - [CVE-2026-64294 | Linux Kernel up to 7.2-rc2 mm file_owner_or_capable/owner_or_capable permission](https://vuldb.com/vuln/383081)
   - [CVE-2026-64524 | Linux Kernel up to 7.0.11 drm/hyperv resolution_count buffer overflow](https://vuldb.com/vuln/383051)
   - [CVE-2026-64525 | Linux Kernel up to 6.12.92/6.18.34/7.0.11 xfrm net_namespace.h xfrm_policy_fini denial of service](https://vuldb.com/vuln/383049)
   - [CVE-2026-64526 | Linux Kernel up to 6.18.34/7.0.11 ethtool tsconfig_prepare_data exceptional condition](https://vuldb.com/vuln/383052)
@@ -241,6 +261,9 @@
   - [CVE-2026-65709 | nuxsmin sysPass up to 3.2.11 JSON-RPC API editPassAction access control](https://vuldb.com/vuln/382989)
   - [CVE-2026-65710 | nuxsmin sysPass up to 3.2.11 Public Link Creation Flow getDataForLink improper authorization](https://vuldb.com/vuln/382990)
   - [CVE-2026-65711 | nuxsmin sysPass up to 3.2.11 FileBackupService exec siteBackupPath os command injection](https://vuldb.com/vuln/382991)
+  - [CVE-2026-66011 | ImageMagick up to 7.1.2-26 Command-Line Interface memory allocation](https://vuldb.com/vuln/383078)
+  - [CVE-2026-66012 | siyuan-note SiYuan up to 3.7.1 MCP Kernel model.CheckAuth improper authorization](https://vuldb.com/vuln/383080)
+  - [CVE-2026-66013 | OpenRemote up to 1.26.1 Console Registration API improper authentication](https://vuldb.com/vuln/383079)
   - [CVE-2026-66027 | kortix-ai suna up to 0.9.101 Message Queue API access control](https://vuldb.com/vuln/383002)
   - [CVE-2026-66032 | libssh2 up to 1.11.1 Sftp src/sftp.c sftp_open double free](https://vuldb.com/vuln/382985)
   - [CVE-2026-66033 | libssh2 up to 1.11.1 src/openssl.c ssh2_cipher_crypt integer underflow](https://vuldb.com/vuln/382983)
@@ -470,6 +493,9 @@
   - [CVE-2026-65912 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-65912?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-65913 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-65913?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-65914 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-65914?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66011](https://vulners.com/nvd/NVD:CVE-2026-66011?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66012](https://vulners.com/nvd/NVD:CVE-2026-66012?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66013](https://vulners.com/nvd/NVD:CVE-2026-66013?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66027](https://vulners.com/nvd/NVD:CVE-2026-66027?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66032](https://vulners.com/nvd/NVD:CVE-2026-66032?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66032 libssh2 Double-Free Heap Corruption via sftp_open()](https://vulners.com/cvelist/CVELIST:CVE-2026-66032?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -496,6 +522,7 @@
   - [Exploit for CVE-2026-54900](https://vulners.com/githubexploit/42139E34-D3D7-5603-ACA1-B10DEF357786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-61946](https://vulners.com/githubexploit/6D04155A-85FA-5456-92B9-3FB322D19AC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64600](https://vulners.com/githubexploit/8449E91B-B7BB-5B21-BF21-EDE34858AE54?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-65694](https://vulners.com/githubexploit/566642C7-D80C-5E20-9790-03A5CE91EF92?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Authentication in Sonicwall Directory_Services_Connector](https://vulners.com/githubexploit/57F61E3F-8906-5A47-81BC-13DB488EAF11?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/DAFFBE5F-F407-58CB-9388-0C4DA6D23828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Fortra Delivernow](https://vulners.com/githubexploit/196CF982-151C-5685-9757-5E2B5C4ACF73?utm_source=rss&utm_medium=rss&utm_campaign=rss)
