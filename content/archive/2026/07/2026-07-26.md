@@ -10,7 +10,9 @@
 - Hacker News Frontpage
   - [Amen Break](https://en.wikipedia.org/wiki/Amen_break)
   - [Canada is taking an outsized role in the construction of the post-American world](https://www.theglobeandmail.com/opinion/article-carney-canada-role-post-american-world-trump/)
+  - [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/)
   - [Rauno's Field Notes #2](https://rauno.me/notes/2)
+  - [Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network](https://github.com/lucid-fabrics/proxmox-bluetooth)
   - [Tile's security is so bad it's a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
   - [Wind turbine is being used to produce zero-carbon "green ammonia" fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/)
 - Sploitus.com Exploits RSS Feed
@@ -20,6 +22,7 @@
   - [Exploit for Improper Authorization in Microsoft exploit](https://sploitus.com/exploit?id=4BB8D859-04B3-5989-8FB9-63D93EAB043F&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Watchguard Fireware exploit](https://sploitus.com/exploit?id=6C82D03E-F97D-5C83-A587-BB51AAB11C10&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation](https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/)
   - [Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary](https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/)
   - [Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/)
 - The Block
@@ -27,6 +30,7 @@
 - The Verge
   - [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)
 - VulDB Recent Entries
+  - [CVE-2026-17459 | perwendel spark up to 2.9.4 SparkJava ExternalResourceHandler.jav staticFiles.externalLocation symlink (Issue 1296)](https://vuldb.com/vuln/383321)
   - [CVE-2026-64385 | Linux Kernel up to 6.6.144/6.12.95/6.18.38/7.1.3 Smb Client SMB2_ioctl double free](https://vuldb.com/vuln/383202)
   - [CVE-2026-64386 | Linux Kernel up to 6.6.144/6.12.95/6.18.38/7.1.3 smb: client SMB2_query_info_init double free](https://vuldb.com/vuln/383203)
   - [CVE-2026-64387 | Linux Kernel up to 6.6.144/6.12.95/6.18.38/7.1.3 SMB Client SMB2_query_directory_init double free](https://vuldb.com/vuln/383204)
