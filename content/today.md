@@ -5,6 +5,8 @@
   - [7 级啦](https://2libra.com/post/newcomer/MPf71qc)
   - [AMD 和 Cerebras 搞了个"分离式推理"方案，号称每瓦 token 速度提升 5 倍](https://2libra.com/post/ai-trends/jPRt654)
   - [【💰】想买一个二手机械硬盘](https://2libra.com/post/second-hand/kK0TmHp)
+  - [【💰】请教：购买笔记本](https://2libra.com/post/computers-accessories/mqWn5nr)
+  - [关于晚上要不要去爬坡](https://2libra.com/post/sports/qUTD_-K)
   - [携程因垄断被市监总局罚没 51.79 亿元](https://2libra.com/post/social-observation/eu9wJP6)
   - [每日微语报 7 月 25 日](https://2libra.com/post/social-observation/CP7jAZ6)
   - [车](https://2libra.com/post/personal-life/3u4BwVp)
@@ -13,10 +15,13 @@
   - [9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布](https://36kr.com/p/3910351337821318?f=rss)
   - [Anthropic推出新模型Opus 5](https://36kr.com/newsflashes/3910378700395908?f=rss)
   - [OpenAI称将发布Hugging Face被黑事件技术报告](https://36kr.com/newsflashes/3910380317381767?f=rss)
+  - [SK集团与英伟达通过一项涵盖人工智能工厂和下一代内存的5000亿美元以上战略合作项目](https://36kr.com/newsflashes/3910690882507907?f=rss)
   - [TCL科技收购广州华星半导体45%股权事宜获深交所审议通过](https://36kr.com/newsflashes/3910519718270081?f=rss)
   - [Waymo正考虑终止与Uber的合作关系](https://36kr.com/newsflashes/3910429485143429?f=rss)
   - [“景德镇手工瓷业遗存”申遗成功！我国世界遗产达61项](https://36kr.com/newsflashes/3910543068009602?f=rss)
   - [一审判决支付工程款2449.18万元 翰博高新：不会产生重大不利影响](https://36kr.com/newsflashes/3910444488709513?f=rss)
+  - [三星电子、SK海力士将与美国科技巨头推进规模达1375万亿韩元的芯片合作项目](https://36kr.com/newsflashes/3910551543289216?f=rss)
+  - [三星电子与博通达成价值2000亿美元的半导体供应合作协议](https://36kr.com/newsflashes/3910562246645128?f=rss)
   - [中国电池工业协会与中国汽车工业协会签订战略合作协议](https://36kr.com/newsflashes/3910441114703232?f=rss)
   - [北汽集团：坚定看好中国资本市场发展前景，全力支持控股上市公司高质量发展](https://36kr.com/newsflashes/3910437664920964?f=rss)
   - [国际原油期货结算价收跌超3% 布油本周累涨近10%](https://36kr.com/newsflashes/3910367668458625?f=rss)
@@ -57,6 +62,8 @@
   - [★ Regarding Ad Blockers and Daring Fireball](https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball)
 - darkreading
   - [CISOs vs. Boards: Myth or Misunderstanding?](https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-)
+- defend.network
+  - [Microsoft 570 patches, Check Point KEV; BlueNoroff crypto phishing escalates](https://defend.network/briefings/microsoft-570-patches-checkpoint-bluenoroff-phishing-2026-07-25.html)
 - Der Flounder
   - [Session videos now available from Penn State MacAdmins Conference 2026](https://derflounder.wordpress.com/2026/07/24/session-videos-now-available-from-penn-state-macadmins-conference-2026/)
 - Fidelis Security
@@ -67,6 +74,7 @@
   - [Benchmarking Qwen 3.6 35B MoE (3B active) on an RTX 3090](https://www.gilesthomas.com/2026/07/benchmarking-qwen-3-6-35b-moe-rtx-3090)
 - Hacker News Frontpage
   - [Apple won't let me show my app](https://wisedayplanner.com/blog/apple-wont-let-me-show-my-app/)
+  - [ARC-AGI Leaderboard](https://arcprize.org/leaderboard)
   - [As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port](https://openjdk.org/jeps/541)
   - [Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
   - [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/)
@@ -98,6 +106,7 @@
   - [Exploit for CVE-2026-49952 exploit](https://sploitus.com/exploit?id=E3511389-563B-5AD7-A686-6FA07D46FB08&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-61946 exploit](https://sploitus.com/exploit?id=6D04155A-85FA-5456-92B9-3FB322D19AC1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-64600 exploit](https://sploitus.com/exploit?id=8449E91B-B7BB-5B21-BF21-EDE34858AE54&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=DAFFBE5F-F407-58CB-9388-0C4DA6D23828&utm_source=rss&utm_medium=rss)
   - [wp2shell exploit](https://sploitus.com/exploit?id=370A6437-567A-59DC-8F50-24EDC8AE7907&utm_source=rss&utm_medium=rss)
   - [xss exploit](https://sploitus.com/exploit?id=D4250093-B026-5906-AF71-A7B70A7A6A4C&utm_source=rss&utm_medium=rss)
 - Taxodium
@@ -129,6 +138,7 @@
   - [Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release)
   - [Blade Runner 2099’s moody dystopia streams on Amazon in November](https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video)
   - [DJI camera clone company Xtra is halting and refunding all preorders](https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders)
+  - [Forget expensive sleepbuds. Buy this pillow instead](https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead)
   - [Meta is making its AI chatbot more like an assistant](https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update)
   - [Midjourney bought the astrology app Co-Star](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition)
   - [Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;](https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b)
@@ -137,6 +147,7 @@
   - [You can’t ignore Google Zero anymore](https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast)
 - VulDB Recent Entries
   - [CVE-2025-71408 | NLTK up to 3.9.2 collocations collocations.py eval os command injection](https://vuldb.com/vuln/383021)
+  - [CVE-2026-14955 | mehigh Checkout Field Editor Plugin up to 3.7.7 on WordPress thwcfe_legacy_file path traversal](https://vuldb.com/vuln/383034)
   - [CVE-2026-16280 | Imagination Graphics DDK up to 26.1 RTM1 integer overflow](https://vuldb.com/vuln/383023)
   - [CVE-2026-17039 | Red Hat Certificate System/Enterprise Linux Renewal Request improper authorization](https://vuldb.com/vuln/382951)
   - [CVE-2026-17107 | Red Hat Multicluster Engine for Kubernetes cluster-proxy service-proxy Impersonate-Group privileges management](https://vuldb.com/vuln/383005)
@@ -379,6 +390,7 @@
   - [Exploit for CVE-2026-49952](https://vulners.com/githubexploit/E3511389-563B-5AD7-A686-6FA07D46FB08?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-61946](https://vulners.com/githubexploit/6D04155A-85FA-5456-92B9-3FB322D19AC1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64600](https://vulners.com/githubexploit/8449E91B-B7BB-5B21-BF21-EDE34858AE54?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/DAFFBE5F-F407-58CB-9388-0C4DA6D23828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Friday Squid Blogging: Illex Squid Catch in the Falklands](https://vulners.com/schneier/SCHNEIER:3E49EC82428ECB3E8F89A1E21BCFC17F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-3PJW-73GF-8QR5 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-3PJW-73GF-8QR5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-3PJW-73GF-8QR5 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-3PJW-73GF-8QR5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
