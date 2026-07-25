@@ -1,24 +1,31 @@
 # 今日安全资讯（2026-07-26）
 
+- CoinTelegraph
+  - [Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program](https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple Maps to Power Navigation Experience for Ford’s New EVs](https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/)
   - [Court Grants SerpApi’s Motion to Dismiss Google Lawsuit](https://serpapi.com/blog/google-v-serpapi-the-court-granted-our-motion-to-dismiss/)
   - [EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful](https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en)
+  - [‘AI Mania Is Eviscerating Global Decision-Making’](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/)
 - Hacker News Frontpage
   - [Amen Break](https://en.wikipedia.org/wiki/Amen_break)
   - [Canada is taking an outsized role in the construction of the post-American world](https://www.theglobeandmail.com/opinion/article-carney-canada-role-post-american-world-trump/)
   - [Rauno's Field Notes #2](https://rauno.me/notes/2)
+  - [Tile's security is so bad it's a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
   - [Wind turbine is being used to produce zero-carbon "green ammonia" fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Code Injection in Kidocode Crawl4Ai exploit](https://sploitus.com/exploit?id=4DC04EAA-B86C-5E9C-8E7F-20A78C65AA48&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Kidocode Crawl4Ai exploit](https://sploitus.com/exploit?id=83765ED6-017D-5A19-902A-A0BE07B57038&utm_source=rss&utm_medium=rss)
   - [Exploit for Command Injection in Microsoft exploit](https://sploitus.com/exploit?id=813B4C18-16E0-5738-997E-FE28DEE16EAF&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authorization in Microsoft exploit](https://sploitus.com/exploit?id=4BB8D859-04B3-5989-8FB9-63D93EAB043F&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Write in Watchguard Fireware exploit](https://sploitus.com/exploit?id=6C82D03E-F97D-5C83-A587-BB51AAB11C10&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary](https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/)
   - [Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/)
 - The Block
   - [Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ](https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss)
+- The Verge
+  - [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)
 - VulDB Recent Entries
   - [CVE-2026-64385 | Linux Kernel up to 6.6.144/6.12.95/6.18.38/7.1.3 Smb Client SMB2_ioctl double free](https://vuldb.com/vuln/383202)
   - [CVE-2026-64386 | Linux Kernel up to 6.6.144/6.12.95/6.18.38/7.1.3 smb: client SMB2_query_info_init double free](https://vuldb.com/vuln/383203)
@@ -128,5 +135,7 @@
   - [Exploit for Code Injection in Kidocode Crawl4Ai](https://vulners.com/githubexploit/83765ED6-017D-5A19-902A-A0BE07B57038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Command Injection in Microsoft](https://vulners.com/githubexploit/813B4C18-16E0-5738-997E-FE28DEE16EAF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Authorization in Microsoft](https://vulners.com/githubexploit/4BB8D859-04B3-5989-8FB9-63D93EAB043F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Out-of-bounds Write in Watchguard Fireware](https://vulners.com/githubexploit/6C82D03E-F97D-5C83-A587-BB51AAB11C10?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://vulners.com/thn/THN:FBB6B814511680020EC3C74DD9D2B659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
