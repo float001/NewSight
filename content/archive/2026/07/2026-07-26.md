@@ -8,8 +8,11 @@
   - [EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful](https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en)
   - [‘AI Mania Is Eviscerating Global Decision-Making’](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/)
 - Hacker News Frontpage
+  - ['AI Mania Is Eviscerating Global Decision-Making'](https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh)
+  - [A 77-year-old Republican man is staging a solo protest against Flock cameras](https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/)
   - [Amen Break](https://en.wikipedia.org/wiki/Amen_break)
   - [Canada is taking an outsized role in the construction of the post-American world](https://www.theglobeandmail.com/opinion/article-carney-canada-role-post-american-world-trump/)
+  - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy)
   - [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/)
   - [Rauno's Field Notes #2](https://rauno.me/notes/2)
   - [Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network](https://github.com/lucid-fabrics/proxmox-bluetooth)
@@ -28,6 +31,7 @@
   - [The hacker who humiliated spyware makers and was never caught](https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/)
   - [Warner Bros. lawsuit accuses Amazon of illegally poaching executives](https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/)
 - The Block
+  - [EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23](https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss)
   - [Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ](https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss)
 - The Verge
   - [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)
