@@ -6,7 +6,16 @@
   - [每天一分钟，知晓天下事！2026 年 7 月 26 日](https://2libra.com/post/social-observation/fBJ8h5y)
   - [每日微语报 7 月 26 日](https://2libra.com/post/social-observation/o8mst3U)
 - 36氪
+  - [2026暑期档电影票房破55亿](https://36kr.com/newsflashes/3911784384451714?f=rss)
+  - [SK崔泰源：韩国需转型为“AI原生”国家](https://36kr.com/newsflashes/3911821420303744?f=rss)
+  - [下周，SK海力士、三星电子和铠侠将公布最新财报，或影响下一阶段芯片股走势](https://36kr.com/newsflashes/3911802943935620?f=rss)
+  - [世界杯带动旅游热度不减：夺冠后西班牙机票搜索量激增33倍，南美游咨询热度翻倍增长](https://36kr.com/newsflashes/3911804395951234?f=rss)
+  - [中南大学：收到费某某学位论文涉嫌抄袭举报，已成立调查组全面核查](https://36kr.com/newsflashes/3911804929332611?f=rss)
+  - [李在明：人工智能时代为韩国带来全新机遇](https://36kr.com/newsflashes/3911788141286792?f=rss)
+  - [特斯拉一周跌没18%，马斯克自嘲回应财富急速缩水](https://36kr.com/newsflashes/3911795043816840?f=rss)
+  - [瑞银：中国再保险升至“买入”评级 目标价上调至1.75港元](https://36kr.com/newsflashes/3911790076368000?f=rss)
   - [硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资](https://36kr.com/p/3911162147640456?f=rss)
+  - [高盛：MiniMax-W重申“买入”评级 目标价860港元](https://36kr.com/newsflashes/3911788906386823?f=rss)
 - CoinTelegraph
   - [Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program](https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -23,6 +32,7 @@
   - [Canada is taking an outsized role in the construction of the post-American world](https://www.theglobeandmail.com/opinion/article-carney-canada-role-post-american-world-trump/)
   - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy)
   - [GNU Hurd gets 9pfs, OpenNTPD, dynamic /dev/ entries, and more](https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/)
+  - [Possible invasive species superspreader event near Strait of Hormuz](https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186)
   - [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/)
   - [Rauno's Field Notes #2](https://rauno.me/notes/2)
   - [Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network](https://github.com/lucid-fabrics/proxmox-bluetooth)
@@ -41,6 +51,7 @@
   - [Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation](https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/)
   - [Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary](https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/)
   - [Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/)
+  - [Monday.com is the latest tech company to blame AI for layoffs — here are 20 others](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
   - [The hacker who humiliated spyware makers and was never caught](https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/)
   - [Warner Bros. lawsuit accuses Amazon of illegally poaching executives](https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/)
 - The Block
@@ -49,6 +60,7 @@
 - The Verge
   - [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)
 - VulDB Recent Entries
+  - [CVE-2026-15962 | techjewel Fluent Forms Pro Add On Pack Plugin up to 6.2.6 on WordPress deserialization](https://vuldb.com/vuln/383322)
   - [CVE-2026-17459 | perwendel spark up to 2.9.4 SparkJava ExternalResourceHandler.jav staticFiles.externalLocation symlink (Issue 1296)](https://vuldb.com/vuln/383321)
   - [CVE-2026-64385 | Linux Kernel up to 6.6.144/6.12.95/6.18.38/7.1.3 Smb Client SMB2_ioctl double free](https://vuldb.com/vuln/383202)
   - [CVE-2026-64386 | Linux Kernel up to 6.6.144/6.12.95/6.18.38/7.1.3 smb: client SMB2_query_info_init double free](https://vuldb.com/vuln/383203)
@@ -156,6 +168,9 @@
 - Vulners.com RSS Feed
   - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14257 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-14257?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15962 Fluent Forms Pro Add On Pack <= 6.2.6 - Authenticated (Subscriber+) PHP Object Injection to Arbitrary User Password Change via User Meta Field](https://vulners.com/cve/CVE-2026-15962?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15962 Fluent Forms Pro Add On Pack <= 6.2.6 - Authenticated (Subscriber+) PHP Object Injection to Arbitrary User Password Change via User Meta Field](https://vulners.com/cvelist/CVELIST:CVE-2026-15962?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17432](https://vulners.com/nvd/NVD:CVE-2026-17432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17432 NousResearch hermes-agent SimpleX Gateway Authorization adapter.py access control](https://vulners.com/cvelist/CVELIST:CVE-2026-17432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57497 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-57497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57497 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-57497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -197,5 +212,7 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [How difficult is it to obfuscate a remote access tool, and bypass real time protection enabled windows defender?](https://buaq.net/go-430920.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
