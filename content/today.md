@@ -1,7 +1,10 @@
 # 今日安全资讯（2026-07-27）
 
+- 2Libra
+  - [我公司现推出 Google Voice 特惠折扣。欢迎联系我们批量购买或了解详情。](https://2libra.com/post/promotion/ATs255Q)
 - CoinTelegraph
   - [CFTC issues second warning to prediction markets on cookie-cutter self-certifications](https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Der Flounder
   - [Fixing automatic login issues on Ubuntu 26.04 LTS](https://derflounder.wordpress.com/2026/07/26/fixing-automatic-login-issues-on-ubuntu-26-04-lts/)
 - Hacker News Frontpage
@@ -11,8 +14,12 @@
   - [How to Write English Prose](https://thelampmagazine.com/blog/how-to-write-english-prose)
   - [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf)
   - [Show HN: The Occult Gatsby](https://occultgatsby.work)
+  - [Teaching Kids Forth – Anna Liberty](https://gracefulliberty.com/articles/teaching-kids-forth/)
   - [The Strongest El Niño Ever](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever)
   - [What if LLMs escape through inferences itself? This is fiction. For now](https://www.agrillo.it/EvasionEn.html)
+- HackerNoon
+  - [3 Ways JWTs Get Forged, and the One Rule That Stops Them All](https://hackernoon.com/3-ways-jwts-get-forged-and-the-one-rule-that-stops-them-all?source=rss)
+  - [The Danger of “Just Scrape It” in AI Strategy](https://hackernoon.com/the-danger-of-just-scrape-it-in-ai-strategy?source=rss)
 - idiallo.com
   - [Why $550 Million Medical Debt only Cost $5.5 Million](https://idiallo.com/byte-size/550-million-only-cost-5-million)
 - johndcook.com
@@ -30,6 +37,7 @@
   - [sharepoint-2026-poc exploit](https://sploitus.com/exploit?id=9C147A49-7570-566A-9ECF-49A50AC974E4&utm_source=rss&utm_medium=rss)
   - [v72-ionstack-exploit exploit](https://sploitus.com/exploit?id=7D725D76-4A38-5480-B049-29F9D9AF014D&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Can Apple make smart glasses that aren’t a constant privacy threat?](https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/)
   - [Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/)
   - [Inside one London founder house rewriting the founder-house rules](https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
   - [Making sense of the panic over Chinese AI](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/)
@@ -38,6 +46,7 @@
   - [Michael Saylor teases ‘another color’ after four straight weeks without a Strategy bitcoin buy](https://www.theblock.co/post/409675/michael-saylor-teases-another-color-after-four-straight-weeks-without-a-strategy-bitcoin-buy?utm_source=rss&utm_medium=rss)
 - The Verge
   - [Apple is banking on privacy to set its smart glasses apart](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy)
+  - [Champagne and Bullets belongs on the Mount Rushmore of bad movies](https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review)
   - [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password)
 - VulDB Recent Entries
   - [CVE-2026-14957 | libreswan X.509 Certificate assertion](https://vuldb.com/vuln/383328)
