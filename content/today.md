@@ -7,6 +7,7 @@
   - [为啥盒子开出混沌徽章，但是在我徽章栏里找不到呀](https://2libra.com/post/forum-function/9yTm-X2)
   - [每天一分钟，知晓天下事！2026 年 7 月 26 日](https://2libra.com/post/social-observation/fBJ8h5y)
   - [每日微语报 7 月 26 日](https://2libra.com/post/social-observation/o8mst3U)
+  - [翻出一盒 15 年前的珠子，我突然想起了那个女孩](https://2libra.com/post/personal-life/ZrkQtPH)
 - 36氪
   - [*ST元道：公司股票可能因市值低于3亿元被终止上市](https://36kr.com/newsflashes/3912183328347269?f=rss)
   - [2026年暑期档电影票房已破55亿元，超去年同期10亿元](https://36kr.com/newsflashes/3912149968409736?f=rss)
@@ -29,12 +30,15 @@
   - [极氪App上线“跨境守护”功能入口](https://36kr.com/newsflashes/3911944182273154?f=rss)
   - [极氪回应“境外车机网络受限”:已在App上线“跨境守护”功能入口](https://36kr.com/newsflashes/3911960881976457?f=rss)
   - [沪市一周新增增持回购计划最高158亿元，年内金额上限776亿元](https://36kr.com/newsflashes/3912147209983368?f=rss)
+  - [湖北能源：江陵电厂二期项目全面建成投产](https://36kr.com/newsflashes/3912223423731074?f=rss)
   - [特斯拉一周跌没18%，马斯克自嘲回应财富急速缩水](https://36kr.com/newsflashes/3911795043816840?f=rss)
   - [瑞银：中国再保险升至“买入”评级 目标价上调至1.75港元](https://36kr.com/newsflashes/3911790076368000?f=rss)
+  - [百利天恒：注射用T-Bren治疗胆道癌III期临床试验完成首例受试者入组](https://36kr.com/newsflashes/3912220595017093?f=rss)
   - [硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资](https://36kr.com/p/3911162147640456?f=rss)
   - [福特公司召回超56万辆汽车](https://36kr.com/newsflashes/3912077033886854?f=rss)
   - [福特公司召回超56万辆汽车](https://36kr.com/newsflashes/3912150835680647?f=rss)
   - [韩国养老金7月首度净买入KOSPI成分股，为今年首次](https://36kr.com/newsflashes/3911979618849920?f=rss)
+  - [马斯克警告SpaceX空头风险](https://36kr.com/newsflashes/3912221918107015?f=rss)
   - [马斯克：未来某个时刻中国极有可能成为AI领导者，美国就算禁用中国模型也挡不住](https://36kr.com/newsflashes/3911959974188425?f=rss)
   - [高盛：MiniMax-W重申“买入”评级 目标价860港元](https://36kr.com/newsflashes/3911788906386823?f=rss)
   - [黄仁勋：杰出的人才总会找到出色的答案，中国注定会产出卓越的AI技术](https://36kr.com/newsflashes/3911959206827139?f=rss)
@@ -74,6 +78,7 @@
 - simonwillison.net
   - [Ruff v0.16.0](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [ethical-hacking-elewayte-projects exploit](https://sploitus.com/exploit?id=289EB1EF-9226-54D7-A5AB-25CED3F18AB7&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Kidocode Crawl4Ai exploit](https://sploitus.com/exploit?id=4DC04EAA-B86C-5E9C-8E7F-20A78C65AA48&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Kidocode Crawl4Ai exploit](https://sploitus.com/exploit?id=83765ED6-017D-5A19-902A-A0BE07B57038&utm_source=rss&utm_medium=rss)
   - [Exploit for Command Injection in Microsoft exploit](https://sploitus.com/exploit?id=813B4C18-16E0-5738-997E-FE28DEE16EAF&utm_source=rss&utm_medium=rss)
@@ -91,6 +96,7 @@
   - [EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23](https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss)
   - [Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ](https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss)
 - The Decoder
+  - [Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides](https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides/)
   - [The AI coding tutor paradox grows as educators scramble to rethink how they test real skills](https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/)
   - [US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns](https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/)
 - The Verge
@@ -223,6 +229,7 @@
   - [CVE-2026-59949 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-59949?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-63720](https://vulners.com/nvd/NVD:CVE-2026-63720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64530](https://vulners.com/nvd/NVD:CVE-2026-64530?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ethical-hacking-elewayte-projects](https://vulners.com/githubexploit/289EB1EF-9226-54D7-A5AB-25CED3F18AB7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Kidocode Crawl4Ai](https://vulners.com/githubexploit/4DC04EAA-B86C-5E9C-8E7F-20A78C65AA48?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Kidocode Crawl4Ai](https://vulners.com/githubexploit/83765ED6-017D-5A19-902A-A0BE07B57038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Command Injection in Microsoft](https://vulners.com/githubexploit/813B4C18-16E0-5738-997E-FE28DEE16EAF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -264,3 +271,5 @@
   - [How difficult is it to obfuscate a remote access tool, and bypass real time protection enabled windows defender?](https://buaq.net/go-430920.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [SpaceX 拒绝猎鹰9火箭新客户 大力押注星舰](https://blog.upx8.com/SpaceX-%E6%8B%92%E7%BB%9D%E7%8C%8E%E9%B9%B09%E7%81%AB%E7%AE%AD%E6%96%B0%E5%AE%A2%E6%88%B7-%E5%A4%A7%E5%8A%9B%E6%8A%BC%E6%B3%A8%E6%98%9F%E8%88%B0)
