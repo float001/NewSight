@@ -17,6 +17,8 @@
   - [Why $550 Million Medical Debt only Cost $5.5 Million](https://idiallo.com/byte-size/550-million-only-cost-5-million)
 - johndcook.com
   - [exp_q](https://www.johndcook.com/blog/2026/07/26/exp-q/)
+- simonwillison.net
+  - [An Inside Look at the Relay Market Powering Token Resellers and Fraud](https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [ctf-writeups exploit](https://sploitus.com/exploit?id=77BE3038-F99D-577D-A775-E0E14C3C0930&utm_source=rss&utm_medium=rss)
   - [Digital-Archiving-Solutions-v1.02-Remote-Code-Execution-POC exploit](https://sploitus.com/exploit?id=10994C9E-8CB7-5050-9FBF-9455180A86B5&utm_source=rss&utm_medium=rss)
@@ -28,8 +30,10 @@
 - TechCrunch
   - [Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/)
   - [Inside one London founder house rewriting the founder-house rules](https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
+  - [Making sense of the panic over Chinese AI](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/)
   - [TechCrunch Mobility: Uber bets on its former CEO](https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/)
 - The Verge
+  - [Apple is banking on privacy to set its smart glasses apart](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy)
   - [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password)
 - VulDB Recent Entries
   - [CVE-2026-14957 | libreswan X.509 Certificate assertion](https://vuldb.com/vuln/383328)
