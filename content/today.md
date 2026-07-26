@@ -22,6 +22,7 @@
   - [交流会纪要外泄影响DeepSeek融资？内部人士：不可信](https://36kr.com/newsflashes/3911975571379331?f=rss)
   - [亿田智能：子公司拟不超20亿元采购服务器及配套设备，为客户提供算力服务](https://36kr.com/newsflashes/3912181723518084?f=rss)
   - [崔东树：2026年6月中国汽车进口3.8万辆降11%](https://36kr.com/newsflashes/3911791891993992?f=rss)
+  - [希音披露聆讯后资料集：2025年营收418亿美元](https://36kr.com/newsflashes/3912399333676422?f=rss)
   - [我国蜂群无人机首次实现台风过境全程立体观测](https://36kr.com/newsflashes/3911980822091137?f=rss)
   - [新点软件：预计上半年净亏损6302.10万元](https://36kr.com/newsflashes/3912184409396353?f=rss)
   - [月之暗面Kimi K3庆功照流出，张予彤疑现身，喊出“冲上月球”口号](https://36kr.com/newsflashes/3911981562270848?f=rss)
@@ -78,6 +79,8 @@
   - [使用AI对天猫精灵IoT模块进行逆向分析（三）](https://nobb.site/2026/07/26/0x9D/)
 - muellis blog
   - [Installing a “full” disk encrypted Ubuntu 26.04 Hetzner server](https://blogs.gnome.org/muelli/2026/07/9715/)
+- shkspr.mobi
+  - [Book Review: Dungeon Crawler Carl by Matt Dinniman ★★⯪☆☆](https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/)
 - simonwillison.net
   - [Ruff v0.16.0](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -235,6 +238,8 @@
   - [CVE-2026-17457](https://vulners.com/nvd/NVD:CVE-2026-17457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17457 mf-yang openclaw-cn Scheme navigation-guard.ts assertBrowserNavigationAllowed information disclosure](https://vulners.com/cve/CVE-2026-17457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17457 mf-yang openclaw-cn Scheme navigation-guard.ts assertBrowserNavigationAllowed information disclosure](https://vulners.com/cvelist/CVELIST:CVE-2026-17457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17458](https://vulners.com/nvd/NVD:CVE-2026-17458?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17459](https://vulners.com/nvd/NVD:CVE-2026-17459?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17459 perwendel spark SparkJava ExternalResourceHandler.jav staticFiles.externalLocation symlink](https://vulners.com/cve/CVE-2026-17459?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17459 perwendel spark SparkJava ExternalResourceHandler.jav staticFiles.externalLocation symlink](https://vulners.com/cvelist/CVELIST:CVE-2026-17459?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57497 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-57497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -286,6 +291,7 @@
   - [tri-services-exploitation-report](https://vulners.com/githubexploit/F581FE3B-5769-51F1-BBA8-1AB552C4AF24?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Best GoPro Camera (2026): Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
+  - [The Best Backpacking Sleeping Pads, Tested on the Trail (2026)](https://www.wired.com/gallery/best-backpacking-sleeping-pad/)
   - [The Best Motorola Phones, From Razr to Moto G (2026)](https://www.wired.com/story/best-motorola-phones/)
   - [The Best Subscription-Free Home Security Cameras I’ve Tried](https://www.wired.com/story/best-subscription-free-security-cameras/)
   - [The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway](https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/)
