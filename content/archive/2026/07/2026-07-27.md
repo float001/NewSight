@@ -2,9 +2,12 @@
 
 - 2Libra
   - [我公司现推出 Google Voice 特惠折扣。欢迎联系我们批量购买或了解详情。](https://2libra.com/post/promotion/ATs255Q)
+- 36氪
+  - [港交所新规生效，科技企业上市门槛再降低](https://36kr.com/newsflashes/3913064367904137?f=rss)
 - CoinTelegraph
   - [CFTC issues second warning to prediction markets on cookie-cutter self-certifications](https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [WEMIX says attacker moved about $724,000 after contract breach](https://cointelegraph.com/news/wemix-attacker-moves-724k-contract-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Der Flounder
   - [Fixing automatic login issues on Ubuntu 26.04 LTS](https://derflounder.wordpress.com/2026/07/26/fixing-automatic-login-issues-on-ubuntu-26-04-lts/)
 - Hacker News Frontpage
@@ -36,6 +39,7 @@
   - [hermes-security-skills exploit](https://sploitus.com/exploit?id=3C8B99C4-8198-5A59-A824-0CCB1D48D1BE&utm_source=rss&utm_medium=rss)
   - [sharepoint-2026-poc exploit](https://sploitus.com/exploit?id=9C147A49-7570-566A-9ECF-49A50AC974E4&utm_source=rss&utm_medium=rss)
   - [v72-ionstack-exploit exploit](https://sploitus.com/exploit?id=7D725D76-4A38-5480-B049-29F9D9AF014D&utm_source=rss&utm_medium=rss)
+  - [Web-Payloads-Arsenal exploit](https://sploitus.com/exploit?id=FC5174E7-BBF0-568D-9651-D62844B7CBAE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Can Apple make smart glasses that aren’t a constant privacy threat?](https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/)
   - [Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/)
@@ -44,6 +48,7 @@
   - [TechCrunch Mobility: Uber bets on its former CEO](https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/)
 - The Block
   - [Michael Saylor teases ‘another color’ after four straight weeks without a Strategy bitcoin buy](https://www.theblock.co/post/409675/michael-saylor-teases-another-color-after-four-straight-weeks-without-a-strategy-bitcoin-buy?utm_source=rss&utm_medium=rss)
+  - [Triple-A hot wallet losses climb to $11.8 million as new deposits keep being swept: report](https://www.theblock.co/post/409678/triple-a-hot-wallet-losses-climb-to-11-8-million-as-new-deposits-keep-being-swept-report?utm_source=rss&utm_medium=rss)
 - The Verge
   - [Apple is banking on privacy to set its smart glasses apart](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy)
   - [Champagne and Bullets belongs on the Mount Rushmore of bad movies](https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review)
@@ -95,5 +100,6 @@
   - [hermes-security-skills](https://vulners.com/githubexploit/3C8B99C4-8198-5A59-A824-0CCB1D48D1BE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sharepoint-2026-poc](https://vulners.com/githubexploit/9C147A49-7570-566A-9ECF-49A50AC974E4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [v72-ionstack-exploit](https://vulners.com/githubexploit/7D725D76-4A38-5480-B049-29F9D9AF014D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Web-Payloads-Arsenal](https://vulners.com/githubexploit/FC5174E7-BBF0-568D-9651-D62844B7CBAE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
