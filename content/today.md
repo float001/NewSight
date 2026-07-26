@@ -17,9 +17,11 @@
   - [Why $550 Million Medical Debt only Cost $5.5 Million](https://idiallo.com/byte-size/550-million-only-cost-5-million)
 - johndcook.com
   - [exp_q](https://www.johndcook.com/blog/2026/07/26/exp-q/)
+  - [Permutation roots](https://www.johndcook.com/blog/2026/07/26/permutation-roots/)
 - simonwillison.net
   - [An Inside Look at the Relay Market Powering Token Resellers and Fraud](https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [CSFR-XSS-IDOR exploit](https://sploitus.com/exploit?id=BB1437D6-05DA-5773-9314-1932CFD1910D&utm_source=rss&utm_medium=rss)
   - [ctf-writeups exploit](https://sploitus.com/exploit?id=77BE3038-F99D-577D-A775-E0E14C3C0930&utm_source=rss&utm_medium=rss)
   - [Digital-Archiving-Solutions-v1.02-Remote-Code-Execution-POC exploit](https://sploitus.com/exploit?id=10994C9E-8CB7-5050-9FBF-9455180A86B5&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authorization in Microsoft exploit](https://sploitus.com/exploit?id=51CFEF85-A85A-58EC-B3AA-594AB892156F&utm_source=rss&utm_medium=rss)
@@ -32,6 +34,8 @@
   - [Inside one London founder house rewriting the founder-house rules](https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
   - [Making sense of the panic over Chinese AI](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/)
   - [TechCrunch Mobility: Uber bets on its former CEO](https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/)
+- The Block
+  - [Michael Saylor teases ‘another color’ after four straight weeks without a Strategy bitcoin buy](https://www.theblock.co/post/409675/michael-saylor-teases-another-color-after-four-straight-weeks-without-a-strategy-bitcoin-buy?utm_source=rss&utm_medium=rss)
 - The Verge
   - [Apple is banking on privacy to set its smart glasses apart](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy)
   - [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password)
@@ -64,6 +68,7 @@
   - [CVE-2026-61548 | rsyslog up to 8.1908.0 mmpstrucdata stack-based overflow](https://vuldb.com/vuln/383351)
   - [CVE-2026-66053 | Apache Thrift up to 0.23.x privilege escalation](https://vuldb.com/vuln/383343)
 - Vulners.com RSS Feed
+  - [CSFR-XSS-IDOR](https://vulners.com/githubexploit/BB1437D6-05DA-5773-9314-1932CFD1910D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ctf-writeups](https://vulners.com/githubexploit/77BE3038-F99D-577D-A775-E0E14C3C0930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57978](https://vulners.com/attackerkb/AKB:4CD7D56D-8B33-478B-90CD-7FFD7AAD001B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57978](https://vulners.com/nvd/NVD:CVE-2026-57978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
