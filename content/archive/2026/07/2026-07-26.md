@@ -13,13 +13,20 @@
   - [下周，SK海力士、三星电子和铠侠将公布最新财报，或影响下一阶段芯片股走势](https://36kr.com/newsflashes/3911802943935620?f=rss)
   - [世界杯带动旅游热度不减：夺冠后西班牙机票搜索量激增33倍，南美游咨询热度翻倍增长](https://36kr.com/newsflashes/3911804395951234?f=rss)
   - [中南大学：收到费某某学位论文涉嫌抄袭举报，已成立调查组全面核查](https://36kr.com/newsflashes/3911804929332611?f=rss)
+  - [交流会纪要外泄影响DeepSeek融资？内部人士：不可信](https://36kr.com/newsflashes/3911975571379331?f=rss)
   - [崔东树：2026年6月中国汽车进口3.8万辆降11%](https://36kr.com/newsflashes/3911791891993992?f=rss)
+  - [我国蜂群无人机首次实现台风过境全程立体观测](https://36kr.com/newsflashes/3911980822091137?f=rss)
+  - [月之暗面Kimi K3庆功照流出，张予彤疑现身，喊出“冲上月球”口号](https://36kr.com/newsflashes/3911981562270848?f=rss)
   - [李在明：人工智能时代为韩国带来全新机遇](https://36kr.com/newsflashes/3911788141286792?f=rss)
   - [极氪App上线“跨境守护”功能入口](https://36kr.com/newsflashes/3911944182273154?f=rss)
+  - [极氪回应“境外车机网络受限”:已在App上线“跨境守护”功能入口](https://36kr.com/newsflashes/3911960881976457?f=rss)
   - [特斯拉一周跌没18%，马斯克自嘲回应财富急速缩水](https://36kr.com/newsflashes/3911795043816840?f=rss)
   - [瑞银：中国再保险升至“买入”评级 目标价上调至1.75港元](https://36kr.com/newsflashes/3911790076368000?f=rss)
   - [硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资](https://36kr.com/p/3911162147640456?f=rss)
+  - [韩国养老金7月首度净买入KOSPI成分股，为今年首次](https://36kr.com/newsflashes/3911979618849920?f=rss)
+  - [马斯克：未来某个时刻中国极有可能成为AI领导者，美国就算禁用中国模型也挡不住](https://36kr.com/newsflashes/3911959974188425?f=rss)
   - [高盛：MiniMax-W重申“买入”评级 目标价860港元](https://36kr.com/newsflashes/3911788906386823?f=rss)
+  - [黄仁勋：杰出的人才总会找到出色的答案，中国注定会产出卓越的AI技术](https://36kr.com/newsflashes/3911959206827139?f=rss)
 - CoinTelegraph
   - [Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program](https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -44,6 +51,8 @@
   - [Tile's security is so bad it's a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
   - [We Need a National Ballroom](https://weneedaballroom.com/)
   - [Wind turbine is being used to produce zero-carbon "green ammonia" fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/)
+- Hcamael
+  - [使用AI对天猫精灵IoT模块进行逆向分析（三）](https://nobb.site/2026/07/26/0x9D/)
 - simonwillison.net
   - [Ruff v0.16.0](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -181,6 +190,7 @@
   - [CVE-2026-17433](https://vulners.com/nvd/NVD:CVE-2026-17433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17433 nanocoai NanoClaw MCP Server Approval chat-sdk-bridge.ts createChatSdkBridge.setup improper authorization](https://vulners.com/cve/CVE-2026-17433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17433 nanocoai NanoClaw MCP Server Approval chat-sdk-bridge.ts createChatSdkBridge.setup improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-17433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17434](https://vulners.com/nvd/NVD:CVE-2026-17434?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57497 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-57497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57497 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-57497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59939 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-59939?utm_source=rss&utm_medium=rss&utm_campaign=rss)
