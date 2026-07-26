@@ -75,6 +75,8 @@
   - [Wind turbine is being used to produce zero-carbon "green ammonia" fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/)
 - Hcamael
   - [使用AI对天猫精灵IoT模块进行逆向分析（三）](https://nobb.site/2026/07/26/0x9D/)
+- muellis blog
+  - [Installing a “full” disk encrypted Ubuntu 26.04 Hetzner server](https://blogs.gnome.org/muelli/2026/07/9715/)
 - simonwillison.net
   - [Ruff v0.16.0](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -82,6 +84,8 @@
   - [Exploit for Code Injection in Kidocode Crawl4Ai exploit](https://sploitus.com/exploit?id=4DC04EAA-B86C-5E9C-8E7F-20A78C65AA48&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Kidocode Crawl4Ai exploit](https://sploitus.com/exploit?id=83765ED6-017D-5A19-902A-A0BE07B57038&utm_source=rss&utm_medium=rss)
   - [Exploit for Command Injection in Microsoft exploit](https://sploitus.com/exploit?id=813B4C18-16E0-5738-997E-FE28DEE16EAF&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-10818 exploit](https://sploitus.com/exploit?id=92EBD3D2-4256-54EE-9C2C-C4BA105BAC3E&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-15981 exploit](https://sploitus.com/exploit?id=ACA86828-5C21-5718-A982-2A0E64261DF1&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authorization in Microsoft exploit](https://sploitus.com/exploit?id=4BB8D859-04B3-5989-8FB9-63D93EAB043F&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Watchguard Fireware exploit](https://sploitus.com/exploit?id=6C82D03E-F97D-5C83-A587-BB51AAB11C10&utm_source=rss&utm_medium=rss)
   - [tri-services-exploitation-report exploit](https://sploitus.com/exploit?id=F581FE3B-5769-51F1-BBA8-1AB552C4AF24&utm_source=rss&utm_medium=rss)
@@ -96,11 +100,14 @@
   - [EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23](https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss)
   - [Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ](https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss)
 - The Decoder
+  - [Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence](https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/)
   - [Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides](https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides/)
   - [The AI coding tutor paradox grows as educators scramble to rethink how they test real skills](https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/)
   - [US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns](https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/)
 - The Verge
   - [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)
+- troyhunt.com
+  - [Weekly Update 514: This Week in Data Breaches](https://www.troyhunt.com/weekly-update-514/)
 - VulDB Recent Entries
   - [CVE-2024-14040 | Linux Kernel nexthop weight/resvd1 allocation of resources](https://vuldb.com/vuln/383325)
   - [CVE-2026-15962 | techjewel Fluent Forms Pro Add On Pack Plugin up to 6.2.6 on WordPress deserialization](https://vuldb.com/vuln/383322)
@@ -223,6 +230,8 @@
   - [CVE-2026-17433 nanocoai NanoClaw MCP Server Approval chat-sdk-bridge.ts createChatSdkBridge.setup improper authorization](https://vulners.com/cve/CVE-2026-17433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17433 nanocoai NanoClaw MCP Server Approval chat-sdk-bridge.ts createChatSdkBridge.setup improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-17433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17434](https://vulners.com/nvd/NVD:CVE-2026-17434?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17457 mf-yang openclaw-cn Scheme navigation-guard.ts assertBrowserNavigationAllowed information disclosure](https://vulners.com/cve/CVE-2026-17457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17457 mf-yang openclaw-cn Scheme navigation-guard.ts assertBrowserNavigationAllowed information disclosure](https://vulners.com/cvelist/CVELIST:CVE-2026-17457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57497 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-57497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57497 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-57497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59939 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-59939?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -233,6 +242,8 @@
   - [Exploit for Code Injection in Kidocode Crawl4Ai](https://vulners.com/githubexploit/4DC04EAA-B86C-5E9C-8E7F-20A78C65AA48?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Kidocode Crawl4Ai](https://vulners.com/githubexploit/83765ED6-017D-5A19-902A-A0BE07B57038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Command Injection in Microsoft](https://vulners.com/githubexploit/813B4C18-16E0-5738-997E-FE28DEE16EAF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-10818](https://vulners.com/githubexploit/92EBD3D2-4256-54EE-9C2C-C4BA105BAC3E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-15981](https://vulners.com/githubexploit/ACA86828-5C21-5718-A982-2A0E64261DF1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Authorization in Microsoft](https://vulners.com/githubexploit/4BB8D859-04B3-5989-8FB9-63D93EAB043F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Out-of-bounds Write in Watchguard Fireware](https://vulners.com/githubexploit/6C82D03E-F97D-5C83-A587-BB51AAB11C10?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-3RP5-JJMW-4WV2 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-3RP5-JJMW-4WV2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -267,6 +278,9 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [tri-services-exploitation-report](https://vulners.com/githubexploit/F581FE3B-5769-51F1-BBA8-1AB552C4AF24?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Best GoPro Camera (2026): Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
+  - [The Best Subscription-Free Home Security Cameras I’ve Tried](https://www.wired.com/story/best-subscription-free-security-cameras/)
 - 不安全
   - [How difficult is it to obfuscate a remote access tool, and bypass real time protection enabled windows defender?](https://buaq.net/go-430920.html)
 - 代码审计星球
