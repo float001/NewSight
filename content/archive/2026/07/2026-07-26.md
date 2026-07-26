@@ -10,6 +10,7 @@
 - 36氪
   - [2026暑期档电影票房破55亿](https://36kr.com/newsflashes/3911784384451714?f=rss)
   - [SK崔泰源：韩国需转型为“AI原生”国家](https://36kr.com/newsflashes/3911821420303744?f=rss)
+  - [三星李在镕与OpenAI据悉磋商人工智能与半导体领域合作方案](https://36kr.com/newsflashes/3912076178789766?f=rss)
   - [下周，SK海力士、三星电子和铠侠将公布最新财报，或影响下一阶段芯片股走势](https://36kr.com/newsflashes/3911802943935620?f=rss)
   - [世界杯带动旅游热度不减：夺冠后西班牙机票搜索量激增33倍，南美游咨询热度翻倍增长](https://36kr.com/newsflashes/3911804395951234?f=rss)
   - [中南大学：收到费某某学位论文涉嫌抄袭举报，已成立调查组全面核查](https://36kr.com/newsflashes/3911804929332611?f=rss)
@@ -23,17 +24,22 @@
   - [特斯拉一周跌没18%，马斯克自嘲回应财富急速缩水](https://36kr.com/newsflashes/3911795043816840?f=rss)
   - [瑞银：中国再保险升至“买入”评级 目标价上调至1.75港元](https://36kr.com/newsflashes/3911790076368000?f=rss)
   - [硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资](https://36kr.com/p/3911162147640456?f=rss)
+  - [福特公司召回超56万辆汽车](https://36kr.com/newsflashes/3912077033886854?f=rss)
   - [韩国养老金7月首度净买入KOSPI成分股，为今年首次](https://36kr.com/newsflashes/3911979618849920?f=rss)
   - [马斯克：未来某个时刻中国极有可能成为AI领导者，美国就算禁用中国模型也挡不住](https://36kr.com/newsflashes/3911959974188425?f=rss)
   - [高盛：MiniMax-W重申“买入”评级 目标价860港元](https://36kr.com/newsflashes/3911788906386823?f=rss)
   - [黄仁勋：杰出的人才总会找到出色的答案，中国注定会产出卓越的AI技术](https://36kr.com/newsflashes/3911959206827139?f=rss)
 - CoinTelegraph
   - [Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program](https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cybersecurity News
+  - [Google Pixel 11 Price Increase Confirmed Amid Memory Cost Surge](https://securityonline.info/google-pixel-11-price-increase/)
 - daringfireball.net
   - [Apple Maps to Power Navigation Experience for Ford’s New EVs](https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/)
   - [Court Grants SerpApi’s Motion to Dismiss Google Lawsuit](https://serpapi.com/blog/google-v-serpapi-the-court-granted-our-motion-to-dismiss/)
   - [EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful](https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en)
   - [‘AI Mania Is Eviscerating Global Decision-Making’](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/)
+- defend.network
+  - [Fastjson RCE under attack, no patch; GitLab exploit public; PTC manufacturing targeted](https://defend.network/briefings/fastjson-gitlab-rce-malvertising-ptc-exploits-2026-07-26.html)
 - Emergent Minds | paddo.dev
   - [Paragraph Nine Was the Payload: Nvidia's Open-Weights Letter and Anthropic Alone](https://paddo.dev/blog/paragraph-nine-was-the-payload/)
 - Hacker News Frontpage
@@ -72,6 +78,8 @@
 - The Block
   - [EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23](https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss)
   - [Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ](https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss)
+- The Decoder
+  - [The AI coding tutor paradox grows as educators scramble to rethink how they test real skills](https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/)
 - The Verge
   - [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)
 - VulDB Recent Entries
