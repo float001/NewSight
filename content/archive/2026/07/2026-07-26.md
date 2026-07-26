@@ -10,6 +10,7 @@
   - [每天一分钟，知晓天下事！2026 年 7 月 26 日](https://2libra.com/post/social-observation/fBJ8h5y)
   - [每日微语报 7 月 26 日](https://2libra.com/post/social-observation/o8mst3U)
   - [翻出一盒 15 年前的珠子，我突然想起了那个女孩](https://2libra.com/post/personal-life/ZrkQtPH)
+  - [🏆 本周 2Libra 龙虎榜: 2026-07-20 ~ 2026-07-26](https://2libra.com/post/forum-function/UQLZTca)
 - 36氪
   - [*ST元道：公司股票可能因市值低于3亿元被终止上市](https://36kr.com/newsflashes/3912183328347269?f=rss)
   - [2026年暑期档电影票房已破55亿元，超去年同期10亿元](https://36kr.com/newsflashes/3912149968409736?f=rss)
@@ -108,6 +109,7 @@
   - [The hacker who humiliated spyware makers and was never caught](https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/)
   - [Warner Bros. lawsuit accuses Amazon of illegally poaching executives](https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/)
 - The Block
+  - [BitMart to wind down trading platform as global CEO says he was not consulted](https://www.theblock.co/post/409670/bitmart-to-wind-down-trading-platform-as-global-ceo-says-he-was-not-consulted?utm_source=rss&utm_medium=rss)
   - [EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23](https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss)
   - [Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ](https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss)
 - The Decoder
@@ -249,6 +251,10 @@
   - [CVE-2026-17459](https://vulners.com/nvd/NVD:CVE-2026-17459?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17459 perwendel spark SparkJava ExternalResourceHandler.jav staticFiles.externalLocation symlink](https://vulners.com/cve/CVE-2026-17459?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17459 perwendel spark SparkJava ExternalResourceHandler.jav staticFiles.externalLocation symlink](https://vulners.com/cvelist/CVELIST:CVE-2026-17459?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17496 NoteGen chat preview XSS via unsanitized AI/skill HTML rendering](https://vulners.com/cve/CVE-2026-17496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17496 NoteGen chat preview XSS via unsanitized AI/skill HTML rendering](https://vulners.com/cvelist/CVELIST:CVE-2026-17496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17497 NoteGen arbitrary OS command execution via Tauri shell:allow-execute for bash/python](https://vulners.com/cve/CVE-2026-17497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17497 NoteGen arbitrary OS command execution via Tauri shell:allow-execute for bash/python](https://vulners.com/cvelist/CVELIST:CVE-2026-17497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57497 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-57497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57497 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-57497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59939 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-59939?utm_source=rss&utm_medium=rss&utm_campaign=rss)
