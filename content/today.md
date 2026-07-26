@@ -5,9 +5,20 @@
 - Der Flounder
   - [Fixing automatic login issues on Ubuntu 26.04 LTS](https://derflounder.wordpress.com/2026/07/26/fixing-automatic-login-issues-on-ubuntu-26-04-lts/)
 - Hacker News Frontpage
+  - [Decker](https://beyondloom.com/decker/)
+  - [Google Cache used to have a copy of this page at](https://www.hornet.org/wikipedia-notes.txt)
+  - [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
   - [How to Write English Prose](https://thelampmagazine.com/blog/how-to-write-english-prose)
+  - [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf)
+  - [Show HN: The Occult Gatsby](https://occultgatsby.work)
+  - [The Strongest El Niño Ever](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever)
   - [What if LLMs escape through inferences itself? This is fiction. For now](https://www.agrillo.it/EvasionEn.html)
+- idiallo.com
+  - [Why $550 Million Medical Debt only Cost $5.5 Million](https://idiallo.com/byte-size/550-million-only-cost-5-million)
+- johndcook.com
+  - [exp_q](https://www.johndcook.com/blog/2026/07/26/exp-q/)
 - Sploitus.com Exploits RSS Feed
+  - [ctf-writeups exploit](https://sploitus.com/exploit?id=77BE3038-F99D-577D-A775-E0E14C3C0930&utm_source=rss&utm_medium=rss)
   - [Digital-Archiving-Solutions-v1.02-Remote-Code-Execution-POC exploit](https://sploitus.com/exploit?id=10994C9E-8CB7-5050-9FBF-9455180A86B5&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authorization in Microsoft exploit](https://sploitus.com/exploit?id=51CFEF85-A85A-58EC-B3AA-594AB892156F&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Cpanel exploit](https://sploitus.com/exploit?id=5E01BB32-648C-54B8-820D-24E996E61DCC&utm_source=rss&utm_medium=rss)
@@ -18,6 +29,8 @@
   - [Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/)
   - [Inside one London founder house rewriting the founder-house rules](https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
   - [TechCrunch Mobility: Uber bets on its former CEO](https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/)
+- The Verge
+  - [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password)
 - VulDB Recent Entries
   - [CVE-2026-14957 | libreswan X.509 Certificate assertion](https://vuldb.com/vuln/383328)
   - [CVE-2026-17500 | ggml-org llama.cpp d006858/e15efe0 json-schema-to-grammar.cpp _visit_pattern null pointer dereference (Issue 25284)](https://vuldb.com/vuln/383353)
@@ -47,11 +60,15 @@
   - [CVE-2026-61548 | rsyslog up to 8.1908.0 mmpstrucdata stack-based overflow](https://vuldb.com/vuln/383351)
   - [CVE-2026-66053 | Apache Thrift up to 0.23.x privilege escalation](https://vuldb.com/vuln/383343)
 - Vulners.com RSS Feed
+  - [ctf-writeups](https://vulners.com/githubexploit/77BE3038-F99D-577D-A775-E0E14C3C0930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57978](https://vulners.com/attackerkb/AKB:4CD7D56D-8B33-478B-90CD-7FFD7AAD001B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57978](https://vulners.com/nvd/NVD:CVE-2026-57978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57978 Microsoft Edge (Chromium-based) Spoofing Vulnerability](https://vulners.com/cve/CVE-2026-57978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57978 Microsoft Edge (Chromium-based) Spoofing Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-57978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57989](https://vulners.com/nvd/NVD:CVE-2026-57989?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57989 Microsoft Edge (Chromium-based) Information Disclosure Vulnerability](https://vulners.com/cve/CVE-2026-57989?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57989 Microsoft Edge (Chromium-based) Information Disclosure Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-57989?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57990](https://vulners.com/nvd/NVD:CVE-2026-57990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57990 Microsoft Edge (Chromium-based) Information Disclosure Vulnerability](https://vulners.com/cve/CVE-2026-57990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57990 Microsoft Edge (Chromium-based) Information Disclosure Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-57990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Digital-Archiving-Solutions-v1.02-Remote-Code-Execution-POC](https://vulners.com/githubexploit/10994C9E-8CB7-5050-9FBF-9455180A86B5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
