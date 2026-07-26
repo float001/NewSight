@@ -61,6 +61,7 @@
   - [Exploit for Command Injection in Microsoft exploit](https://sploitus.com/exploit?id=813B4C18-16E0-5738-997E-FE28DEE16EAF&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authorization in Microsoft exploit](https://sploitus.com/exploit?id=4BB8D859-04B3-5989-8FB9-63D93EAB043F&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Watchguard Fireware exploit](https://sploitus.com/exploit?id=6C82D03E-F97D-5C83-A587-BB51AAB11C10&utm_source=rss&utm_medium=rss)
+  - [tri-services-exploitation-report exploit](https://sploitus.com/exploit?id=F581FE3B-5769-51F1-BBA8-1AB552C4AF24&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation](https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/)
   - [Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary](https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/)
@@ -76,6 +77,7 @@
 - VulDB Recent Entries
   - [CVE-2026-15962 | techjewel Fluent Forms Pro Add On Pack Plugin up to 6.2.6 on WordPress deserialization](https://vuldb.com/vuln/383322)
   - [CVE-2026-17459 | perwendel spark up to 2.9.4 SparkJava ExternalResourceHandler.jav staticFiles.externalLocation symlink (Issue 1296)](https://vuldb.com/vuln/383321)
+  - [CVE-2026-63720 | koxudaxi datamodel-code-generator up to 0.69.x customBasePath code injection (545a96c5)](https://vuldb.com/vuln/383323)
   - [CVE-2026-64385 | Linux Kernel up to 6.6.144/6.12.95/6.18.38/7.1.3 Smb Client SMB2_ioctl double free](https://vuldb.com/vuln/383202)
   - [CVE-2026-64386 | Linux Kernel up to 6.6.144/6.12.95/6.18.38/7.1.3 smb: client SMB2_query_info_init double free](https://vuldb.com/vuln/383203)
   - [CVE-2026-64387 | Linux Kernel up to 6.6.144/6.12.95/6.18.38/7.1.3 SMB Client SMB2_query_directory_init double free](https://vuldb.com/vuln/383204)
@@ -195,6 +197,7 @@
   - [CVE-2026-57497 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-57497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59939 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-59939?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59949 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-59949?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63720](https://vulners.com/nvd/NVD:CVE-2026-63720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Kidocode Crawl4Ai](https://vulners.com/githubexploit/4DC04EAA-B86C-5E9C-8E7F-20A78C65AA48?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Kidocode Crawl4Ai](https://vulners.com/githubexploit/83765ED6-017D-5A19-902A-A0BE07B57038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Command Injection in Microsoft](https://vulners.com/githubexploit/813B4C18-16E0-5738-997E-FE28DEE16EAF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -231,6 +234,7 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [tri-services-exploitation-report](https://vulners.com/githubexploit/F581FE3B-5769-51F1-BBA8-1AB552C4AF24?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [How difficult is it to obfuscate a remote access tool, and bypass real time protection enabled windows defender?](https://buaq.net/go-430920.html)
 - 代码审计星球
