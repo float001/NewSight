@@ -45,6 +45,7 @@
 - CoinTelegraph
   - [Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program](https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitMart to wind down exchange, end trading by Aug. 26](https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys](https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cybersecurity News
   - [Google Pixel 11 Price Increase Confirmed Amid Memory Cost Surge](https://securityonline.info/google-pixel-11-price-increase/)
   - [Google Weighs Restricting Local ADB, Threatening Shizuku on Android](https://securityonline.info/android-local-adb-restriction/)
@@ -86,6 +87,7 @@
   - [Exploit for Command Injection in Microsoft exploit](https://sploitus.com/exploit?id=813B4C18-16E0-5738-997E-FE28DEE16EAF&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-10818 exploit](https://sploitus.com/exploit?id=92EBD3D2-4256-54EE-9C2C-C4BA105BAC3E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-15981 exploit](https://sploitus.com/exploit?id=ACA86828-5C21-5718-A982-2A0E64261DF1&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-66012 exploit](https://sploitus.com/exploit?id=966D5755-38DD-590D-A412-4BFEABA9FEE1&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authorization in Microsoft exploit](https://sploitus.com/exploit?id=4BB8D859-04B3-5989-8FB9-63D93EAB043F&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Watchguard Fireware exploit](https://sploitus.com/exploit?id=6C82D03E-F97D-5C83-A587-BB51AAB11C10&utm_source=rss&utm_medium=rss)
   - [tri-services-exploitation-report exploit](https://sploitus.com/exploit?id=F581FE3B-5769-51F1-BBA8-1AB552C4AF24&utm_source=rss&utm_medium=rss)
@@ -230,8 +232,11 @@
   - [CVE-2026-17433 nanocoai NanoClaw MCP Server Approval chat-sdk-bridge.ts createChatSdkBridge.setup improper authorization](https://vulners.com/cve/CVE-2026-17433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17433 nanocoai NanoClaw MCP Server Approval chat-sdk-bridge.ts createChatSdkBridge.setup improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-17433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17434](https://vulners.com/nvd/NVD:CVE-2026-17434?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17457](https://vulners.com/nvd/NVD:CVE-2026-17457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17457 mf-yang openclaw-cn Scheme navigation-guard.ts assertBrowserNavigationAllowed information disclosure](https://vulners.com/cve/CVE-2026-17457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17457 mf-yang openclaw-cn Scheme navigation-guard.ts assertBrowserNavigationAllowed information disclosure](https://vulners.com/cvelist/CVELIST:CVE-2026-17457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17459 perwendel spark SparkJava ExternalResourceHandler.jav staticFiles.externalLocation symlink](https://vulners.com/cve/CVE-2026-17459?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17459 perwendel spark SparkJava ExternalResourceHandler.jav staticFiles.externalLocation symlink](https://vulners.com/cvelist/CVELIST:CVE-2026-17459?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57497 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-57497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57497 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-57497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59939 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-59939?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -244,6 +249,7 @@
   - [Exploit for Command Injection in Microsoft](https://vulners.com/githubexploit/813B4C18-16E0-5738-997E-FE28DEE16EAF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-10818](https://vulners.com/githubexploit/92EBD3D2-4256-54EE-9C2C-C4BA105BAC3E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-15981](https://vulners.com/githubexploit/ACA86828-5C21-5718-A982-2A0E64261DF1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-66012](https://vulners.com/githubexploit/966D5755-38DD-590D-A412-4BFEABA9FEE1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Authorization in Microsoft](https://vulners.com/githubexploit/4BB8D859-04B3-5989-8FB9-63D93EAB043F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Out-of-bounds Write in Watchguard Fireware](https://vulners.com/githubexploit/6C82D03E-F97D-5C83-A587-BB51AAB11C10?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-3RP5-JJMW-4WV2 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-3RP5-JJMW-4WV2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -280,7 +286,9 @@
   - [tri-services-exploitation-report](https://vulners.com/githubexploit/F581FE3B-5769-51F1-BBA8-1AB552C4AF24?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Best GoPro Camera (2026): Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
+  - [The Best Motorola Phones, From Razr to Moto G (2026)](https://www.wired.com/story/best-motorola-phones/)
   - [The Best Subscription-Free Home Security Cameras I’ve Tried](https://www.wired.com/story/best-subscription-free-security-cameras/)
+  - [The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway](https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/)
 - 不安全
   - [How difficult is it to obfuscate a remote access tool, and bypass real time protection enabled windows defender?](https://buaq.net/go-430920.html)
 - 代码审计星球
