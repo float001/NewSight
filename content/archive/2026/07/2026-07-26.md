@@ -3,6 +3,7 @@
 - 2Libra
   - [2026 年 7 月 26 日星期日一分钟知晓天下事](https://2libra.com/post/social-observation/1uF1xKD)
   - [Wasmtime 47 默认开启 Wasm GC 和异常支持，高级语言编译到 WASM 不用自己 GC 了](https://2libra.com/post/tech-rumination/E9QPPpP)
+  - [【周末吃吃吃】大盘鸡的灵魂 😋😋😋](https://2libra.com/post/personal-life/MoYp3u9)
   - [每天一分钟，知晓天下事！2026 年 7 月 26 日](https://2libra.com/post/social-observation/fBJ8h5y)
   - [每日微语报 7 月 26 日](https://2libra.com/post/social-observation/o8mst3U)
 - 36氪
@@ -168,10 +169,13 @@
 - Vulners.com RSS Feed
   - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14257 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-14257?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15962](https://vulners.com/nvd/NVD:CVE-2026-15962?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15962 Fluent Forms Pro Add On Pack <= 6.2.6 - Authenticated (Subscriber+) PHP Object Injection to Arbitrary User Password Change via User Meta Field](https://vulners.com/cve/CVE-2026-15962?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15962 Fluent Forms Pro Add On Pack <= 6.2.6 - Authenticated (Subscriber+) PHP Object Injection to Arbitrary User Password Change via User Meta Field](https://vulners.com/cvelist/CVELIST:CVE-2026-15962?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17432](https://vulners.com/nvd/NVD:CVE-2026-17432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17432 NousResearch hermes-agent SimpleX Gateway Authorization adapter.py access control](https://vulners.com/cvelist/CVELIST:CVE-2026-17432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17433 nanocoai NanoClaw MCP Server Approval chat-sdk-bridge.ts createChatSdkBridge.setup improper authorization](https://vulners.com/cve/CVE-2026-17433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17433 nanocoai NanoClaw MCP Server Approval chat-sdk-bridge.ts createChatSdkBridge.setup improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-17433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57497 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-57497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57497 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-57497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59939 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-59939?utm_source=rss&utm_medium=rss&utm_campaign=rss)
