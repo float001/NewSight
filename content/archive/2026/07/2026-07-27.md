@@ -14,6 +14,7 @@
   - [收到反馈存在用户利用慷慨解囊徽章刷取金币，相关账户刷取的金币已被重置](https://2libra.com/post/forum-function/y-tQmEN)
   - [每日微语报 7 月 27 日](https://2libra.com/post/social-observation/3Q4RsEZ)
   - [签到 200 天纪念](https://2libra.com/post/forum-function/t5yPTzT)
+  - [这个论坛程序 200KB 搭建访问速度很快的](https://2libra.com/post/tool-sharing/c_KyXJo)
   - [需求](https://2libra.com/post/forum-function/qi9Hqri)
   - [骗过 AI 的字体，眯眼来看](https://2libra.com/post/ai-tools/pFt52iu)
 - 36氪
@@ -24,6 +25,7 @@
   - [8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国](https://36kr.com/p/3913118530819457?f=rss)
   - [A股三大指数午间休盘集体上涨，N长鑫大涨531.06%](https://36kr.com/newsflashes/3913338952258693?f=rss)
   - [A股三大指数开盘涨跌不一，长鑫科技总市值位居A股第一](https://36kr.com/newsflashes/3913214310700418?f=rss)
+  - [N长鑫午后成交额超1300亿元](https://36kr.com/newsflashes/3913478763730308?f=rss)
   - [N长鑫成交额超800亿元](https://36kr.com/newsflashes/3913247999022470?f=rss)
   - [N长鑫涨幅扩大至500%](https://36kr.com/newsflashes/3913317235103106?f=rss)
   - [SK海力士上市助推韩国推进美元回流计划](https://36kr.com/newsflashes/3913211915031686?f=rss)
@@ -32,6 +34,7 @@
   - [“词元无限”完成天使++轮融资，累计融资金额达数亿元](https://36kr.com/newsflashes/3913346330645891?f=rss)
   - [三星李在镕与OpenAI奥特曼会面，双方或讨论AI基础设施合作](https://36kr.com/newsflashes/3913077780551046?f=rss)
   - [上汽集团与飞书签署合作协议](https://36kr.com/newsflashes/3913321093616777?f=rss)
+  - [东方甄选在合肥设立新公司](https://36kr.com/newsflashes/3913437900772488?f=rss)
   - [两市融资余额减少221.95亿元](https://36kr.com/newsflashes/3913176177513605?f=rss)
   - [中信建投：储能的持续增长将推动锂电行业2027年增速预计落在25%-32%区间](https://36kr.com/newsflashes/3913079473689989?f=rss)
   - [中信建投：头部CPU公司财报亮眼，持续推荐AI产业链](https://36kr.com/newsflashes/3913117191918981?f=rss)
@@ -46,7 +49,9 @@
   - [人民币兑美元中间价报6.7911，上调28点](https://36kr.com/newsflashes/3913203545052550?f=rss)
   - [优衣库一边关店，一边赚钱](https://36kr.com/p/3913266058826880?f=rss)
   - [信用债新增违约率处于多年来最低水平，年内仅新增2家主体违约](https://36kr.com/newsflashes/3913183919035529?f=rss)
+  - [兆易创新A股成交额超200亿元](https://36kr.com/newsflashes/3913453864965257?f=rss)
   - [公司推出大额回购方案的原因？是不是会常态化？宁德时代回应](https://36kr.com/newsflashes/3913083673007235?f=rss)
+  - [出海基金“博同资本”宣布终关，满额达成10亿募集目标](https://36kr.com/newsflashes/3913462208681352?f=rss)
   - [创业板指拉升涨超1%](https://36kr.com/newsflashes/3913232099071360?f=rss)
   - [创业板指涨超2%](https://36kr.com/newsflashes/3913244505740421?f=rss)
   - [北交所公司7月增持回购潮涌，真金白银传递发展信心](https://36kr.com/newsflashes/3913145862247815?f=rss)
@@ -65,6 +70,7 @@
   - [恒指午间休盘涨0.81%，恒生科技指数涨1.69%](https://36kr.com/newsflashes/3913367161804168?f=rss)
   - [恒指开盘涨0.12%，恒生科技指数涨0.38%](https://36kr.com/newsflashes/3913209585014145?f=rss)
   - [报道称英伟达正就为OpenAI数据中心枢纽提供2500亿美元担保进行磋商](https://36kr.com/newsflashes/3913110255359105?f=rss)
+  - [新股N维琪盘中大涨超800%](https://36kr.com/newsflashes/3913470075000198?f=rss)
   - [曹操出行正式开放Robotaxi无人化测试](https://36kr.com/newsflashes/3913365210502533?f=rss)
   - [最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动](https://36kr.com/p/3912546487637378?f=rss)
   - [机器人产业链加速搭建再制造循环利用体系](https://36kr.com/newsflashes/3913084287865991?f=rss)
@@ -90,13 +96,16 @@
   - [银河证券：市场重心有望集中于政策与业绩双重验证](https://36kr.com/newsflashes/3913169404761217?f=rss)
   - [长鑫科技上市半日，7名高管晋升“10亿身家”](https://36kr.com/newsflashes/3913361124349059?f=rss)
   - [长鑫科技成交额超千亿](https://36kr.com/newsflashes/3913268095702400?f=rss)
+  - [阿里AI Agent“千问办公”小范围测试](https://36kr.com/newsflashes/3913472762467713?f=rss)
   - [韩国6月外币存款规模连续第三个月走高](https://36kr.com/newsflashes/3913361690334600?f=rss)
   - [韩国挂钩衍生品证券上半年销售额同比大增30%](https://36kr.com/newsflashes/3913280827937920?f=rss)
+  - [黄金回收业务遇冷，水贝黄金以旧换新业务火爆](https://36kr.com/newsflashes/3913482090206340?f=rss)
 - CoinTelegraph
   - [BitMart withdrawals appear to slow following wind-down announcement](https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC issues second warning to prediction markets on cookie-cutter self-certifications](https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Garden Finance disables app as Blockaid reports $450,000 exploit](https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Triple-A confirms treasury-wallet breach after losses reach $11.8M](https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [WEMIX says attacker moved about $724,000 after contract breach](https://cointelegraph.com/news/wemix-attacker-moves-724k-contract-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Garden Finance disables app as Blockaid reports $450,000 exploit](https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
@@ -107,6 +116,7 @@
   - [EU Says TikTok Breaches DSA Rules on Protecting Minors’ Privacy](https://securityonline.info/eu-tiktok-dsa-minor-safety/)
   - [Intel to Bring Back Hyper-Threading in 2028 Coral Rapids Xeon](https://securityonline.info/intel-hyper-threading-return/)
   - [Qualcomm Announces Double-Digit Chip Price Increase](https://securityonline.info/qualcomm-chip-price-increase/)
+  - [Samsung One UI 9 Locks the Phone Forever After 13 Wrong Codes](https://securityonline.info/samsung-one-ui-9-lockscreen-security/)
   - [Weekly Threat Intelligence Briefing: Late July 2026](https://securityonline.info/weekly-threat-intelligence-briefing-july-26-2026/)
   - [Windows 11 File Explorer Now Deletes Large Fragmented Files Faster](https://securityonline.info/windows-11-faster-file-deletion/)
 - Der Flounder
@@ -134,6 +144,8 @@
   - [Permutation roots](https://www.johndcook.com/blog/2026/07/26/permutation-roots/)
 - NVIDIA AI Blog
   - [NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs](https://blogs.nvidia.com/blog/vera-cpu-eda/)
+- PwnDefend
+  - [Identity Incidents and how to prevent them!](https://www.pwndefend.com/2026/07/27/identity-incidents-and-how-to-prevent-them/)
 - simonwillison.net
   - [An Inside Look at the Relay Market Powering Token Resellers and Fraud](https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -153,6 +165,8 @@
   - [sharepoint-2026-poc exploit](https://sploitus.com/exploit?id=9C147A49-7570-566A-9ECF-49A50AC974E4&utm_source=rss&utm_medium=rss)
   - [v72-ionstack-exploit exploit](https://sploitus.com/exploit?id=7D725D76-4A38-5480-B049-29F9D9AF014D&utm_source=rss&utm_medium=rss)
   - [Web-Payloads-Arsenal exploit](https://sploitus.com/exploit?id=FC5174E7-BBF0-568D-9651-D62844B7CBAE&utm_source=rss&utm_medium=rss)
+- Taxodium
+  - [Album#43 - 天使音乐 (Hint Notes)](https://taxodium.ink/album-43.html)
 - TechCrunch
   - [Are brain waves the next unlock for physical AI?](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/)
   - [Can Apple make smart glasses that aren’t a constant privacy threat?](https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/)
