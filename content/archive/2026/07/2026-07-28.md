@@ -4,18 +4,25 @@
   - [7 月 28 日资本市场大事提醒](https://2libra.com/post/stock-market/LlmBWXq)
   - [7 月 28 日，星期二简要，每天 60 秒知天下](https://2libra.com/post/social-observation/FSZuJKB)
   - [【魔盒】不行，必须得发帖吐槽一下。](https://2libra.com/post/forum-function/C2aVdHs)
+  - [【💰】摸鱼神器](https://2libra.com/post/touch-fish/H_RwlqA)
   - [你已连续签到 250 天，250 天的朋友来报道啊。](https://2libra.com/post/forum-function/jEU0T4K)
   - [每日微语报 7 月 28 日](https://2libra.com/post/social-observation/q_-08Au)
+  - [看到 X 上 好多人说 Giffgaff 卡开始封号了](https://2libra.com/post/networking/Ki_u6Fu)
 - 36氪
   - [30年期国债期货创近8个月新高，债市或告别“三低”震荡](https://36kr.com/newsflashes/3914549157975433?f=rss)
+  - [7月28日人民币对美元中间价调贬17个基点](https://36kr.com/newsflashes/3914619936461955?f=rss)
   - [8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果](https://36kr.com/p/3914520847570307?f=rss)
+  - [Anthropic：从未主张禁止开放权重模型](https://36kr.com/newsflashes/3914657652233600?f=rss)
+  - [A股三大指数集体低开，C长鑫跌超7%](https://36kr.com/newsflashes/3914629203154049?f=rss)
   - [CME集团黄金期货启动24/7交易，首个周末交易额达6000万美元](https://36kr.com/newsflashes/3914546436953474?f=rss)
+  - [LVMH 2026上半年实现营收386.44亿欧元](https://36kr.com/newsflashes/3914639341720706?f=rss)
   - [MAIRE旗下子公司获授阿根廷价值13亿欧元大型化肥综合体项目合同](https://36kr.com/newsflashes/3913976124167305?f=rss)
   - [SK海力士市值蒸发4700亿美元，存储芯片热潮出现裂痕](https://36kr.com/newsflashes/3914585364813189?f=rss)
   - [TransDigm以10.66亿美元收购Prince & Izant，拓展航空航天特种组件业务](https://36kr.com/newsflashes/3914520766600580?f=rss)
   - [Waymo自动驾驶车队在奥斯汀因停车违规被罚近万美元](https://36kr.com/newsflashes/3914524969997699?f=rss)
   - [Zara创始人斥资8亿欧元收购巴黎地标办公楼，创欧洲近四年最大交易](https://36kr.com/newsflashes/3914521440523652?f=rss)
   - [​LVMH集团回应在华诉讼争议：不止在中国，在全球均定期处理商标侵权](https://36kr.com/newsflashes/3914578125345922?f=rss)
+  - [“德塔智能”完成近5亿元天使++轮融资](https://36kr.com/newsflashes/3914610310927746?f=rss)
   - [上市券商开启中期分红预热，释放股东回报积极信号](https://36kr.com/newsflashes/3914524055655811?f=rss)
   - [两市融资余额增加100.25亿元](https://36kr.com/newsflashes/3914592729519494?f=rss)
   - [中信建投：A股长期致胜的八个宏观视角](https://36kr.com/newsflashes/3914554484790401?f=rss)
@@ -29,10 +36,16 @@
   - [国金证券：AI光模块+NV-CoWoP预计将带动mSAP-PCB快速扩容](https://36kr.com/newsflashes/3914546874094985?f=rss)
   - [国际油价“急刹车”，国内能化期货显著“降温”](https://36kr.com/newsflashes/3914555968771204?f=rss)
   - [多家上市银行年中工作会议定调：持续加强资产负债管理，向数智化转型要成效](https://36kr.com/newsflashes/3914523215352965?f=rss)
+  - [大和证券据悉聘请前瑞信银行家Tiger Xu重组中国业务](https://36kr.com/newsflashes/3914644416468359?f=rss)
+  - [央行7月28日公开市场开展3055亿元7天期逆回购操作](https://36kr.com/newsflashes/3914627086570883?f=rss)
   - [市场人士：行情接入方式变更属常规操作](https://36kr.com/newsflashes/3914581550568578?f=rss)
+  - [市场监管总局无条件批准杭氧集团与山东海力化工新设合营企业案](https://36kr.com/newsflashes/3914621328561284?f=rss)
   - [强生拟以55亿美元解决滑石粉诉讼](https://36kr.com/newsflashes/3914561306023042?f=rss)
   - [微型忆阻型射频开关无需供电可保持工作状态](https://36kr.com/newsflashes/3914518560003459?f=rss)
+  - [恒指开盘涨0.26%，恒生科技指数涨0.64%](https://36kr.com/newsflashes/3914624839865736?f=rss)
   - [智能戒指实时监测汗液中多种生化标志物](https://36kr.com/newsflashes/3914519289205892?f=rss)
+  - [月之暗面Kimi K3正式开源](https://36kr.com/newsflashes/3914648643277958?f=rss)
+  - [比亚迪：人形机器人计划八月发布](https://36kr.com/newsflashes/3914665427899523?f=rss)
   - [波托马克银行扩大住宅贷款业务，聘请资深房贷专家盖尔·莫克斯利](https://36kr.com/newsflashes/3914506007696768?f=rss)
   - [海外大模型Token代理产业快速走红，治理与监管存难题](https://36kr.com/newsflashes/3914573497095305?f=rss)
   - [特斯拉英国5G专利案获胜诉，有望推动联网汽车上市](https://36kr.com/newsflashes/3914516281103491?f=rss)
@@ -48,6 +61,7 @@
   - [阿里云真武超节点适配Kimi K3](https://36kr.com/newsflashes/3914601205011587?f=rss)
   - [面临多方诉讼阻挠，派拉蒙天舞CEO仍对1100亿美元收购华纳兄弟充满信心](https://36kr.com/newsflashes/3914519848768646?f=rss)
   - [韩国KOSPI指数跌幅扩大至7%](https://36kr.com/newsflashes/3914570625799553?f=rss)
+  - [韩国承诺采取更多措施抑制杠杆ETF需求](https://36kr.com/newsflashes/3914616332801155?f=rss)
   - [马斯克的X Money正式向美国用户推出服务](https://36kr.com/newsflashes/3914600584844674?f=rss)
 - 404 Media
   - [Person Opposing Data Center Arrested for Clapping at City Meeting](https://www.404media.co/person-opposing-data-center-arrested-for-clapping-at-city-meeting/)
@@ -57,6 +71,7 @@
 - blog.jim-nielsen.com
   - [Can the Tide of AI Investment Life All Boats on the Web?](https://blog.jim-nielsen.com/2026/tide-lifts-all-boats/)
 - CoinTelegraph
+  - [Binance phishs its own staff monthly, India censors BitChat code: Asia Express](https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitmine keeps buying Ether as ETH outperforms Bitcoin](https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kraken parent Payward acquires Magic Labs’ wallet business](https://cointelegraph.com/news/kraken-parent-payward-acquires-magic-labs-wallet-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -66,7 +81,9 @@
 - Cybersecurity News
   - [CISA KEV Additions: Arista VeloCloud and FortiOS Flaws Now Exploited](https://securityonline.info/cisa-kev-arista-velocloud-fortios/)
 - daringfireball.net
+  - [[Sponsor] Introducing Agent Fone](https://fail.xyz/phone/)
   - [WorkOS MCP](https://workos.com/blog/management-mcp-server?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
+  - [‘Always Choose the Good Soap’](https://sixcolors.com/post/2026/07/always-choose-the-good-soap/)
   - [★ Ads in Software Are Like Stickers on Laptops](https://daringfireball.net/2026/07/ads_in_software_are_like_stickers_on_laptops)
 - darkreading
   - [Adversaries Don't Need a Zero-Day — They Read Your Rulebook](https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook)
@@ -89,12 +106,16 @@
 - johndcook.com
   - [Hiding data in permutations](https://www.johndcook.com/blog/2026/07/27/hiding-data-in-permutations/)
 - rtl-sdr.com
+  - [CellScope: LTE Sniffing on Windows](https://www.rtl-sdr.com/cellscope-lte-sniffing-on-windows/)
+  - [isTRAIN: Detecting if a Train is Blocking a Local Crossing By Listening to Railroad Frequencies](https://www.rtl-sdr.com/istrain-detecting-if-a-train-is-blocking-a-local-crossing-by-listening-to-railroad-frequencies/)
+  - [SDROxide: A New SDR Client for HAMs and SWLs written in Rust](https://www.rtl-sdr.com/sdroxide-a-new-sdr-client-for-hams-and-swls-written-in-rust/)
   - [VibeSDR Now Available on the Apple App Store + Running on an Apple Watch](https://www.rtl-sdr.com/vibesdr-now-available-on-the-apple-app-store-running-on-an-apple-watch/)
 - simonwillison.net
   - [An opinionated guide to which AI to use to do stuff](https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything)
   - [moonshotai/Kimi-K3](https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-39875 exploit](https://sploitus.com/exploit?id=2C60D315-2B9E-5345-A2A8-F702C037CF66&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-61511 exploit](https://sploitus.com/exploit?id=E9E645F4-6EC6-55D9-9A01-2903DB3A4AA5&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Microsoft exploit](https://sploitus.com/exploit?id=411122DF-F525-5EBC-9FBF-47D3F8CA07B7&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Pdfminer Pdfminer.Six exploit](https://sploitus.com/exploit?id=D9EE5646-8887-535E-BC7D-635615EBDE1A&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Pdfminer Pdfminer.Six exploit](https://sploitus.com/exploit?id=DBAD91B7-8B87-56D6-B2A5-E7447A7D0465&utm_source=rss&utm_medium=rss)
@@ -120,6 +141,7 @@
   - [Ondo launches new execution network, calling it ‘evolution’ of Ondo Chain](https://www.theblock.co/post/409792/ondo-launches-new-execution-network-calling-it-evolution-of-ondo-chain?utm_source=rss&utm_medium=rss)
   - [Securitize expands regulated platform with SEC adviser license](https://www.theblock.co/post/409821/securitize-expands-regulated-platform-with-sec-adviser-license?utm_source=rss&utm_medium=rss)
   - [TD Cowen cuts David Bailey’s Nakamoto target 58% after bitcoin outlook reset](https://www.theblock.co/post/409797/td-cowen-cuts-david-bailey-nakamoto-target-58-bitcoin-outlook-reset?utm_source=rss&utm_medium=rss)
+  - [What Is a Digital Commodity?](https://www.theblock.co/learn/409682/what-is-a-digital-commodity?utm_source=rss&utm_medium=rss)
 - The Decoder
   - [Delhi High Court hands OpenAI a win by rejecting major Indian news agency's copyright injunction](https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/)
   - [Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks](https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/)
@@ -633,6 +655,7 @@
   - [CVE-2026-66825 Cross-Site Scripting via Unsafe URL Schemes in Pivotick Property Links](https://vulners.com/cvelist/CVELIST:CVE-2026-66825?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption](https://vulners.com/thn/THN:0A17A90D7152F95A04A7999FB0F917BC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-39875](https://vulners.com/githubexploit/2C60D315-2B9E-5345-A2A8-F702C037CF66?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-61511](https://vulners.com/githubexploit/E9E645F4-6EC6-55D9-9A01-2903DB3A4AA5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Microsoft](https://vulners.com/githubexploit/411122DF-F525-5EBC-9FBF-47D3F8CA07B7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Pdfminer Pdfminer.Six](https://vulners.com/githubexploit/D9EE5646-8887-535E-BC7D-635615EBDE1A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Pdfminer Pdfminer.Six](https://vulners.com/githubexploit/DBAD91B7-8B87-56D6-B2A5-E7447A7D0465?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -683,5 +706,9 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜雷军解释小米澎程为何无纯电版/腾讯QQ宠物官宣回归/曝三星手机拟采用长鑫内存](https://www.ifanr.com/1673221?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [香港卖得最好的 MPV，不是丰田埃尔法，而是五菱的星光 730](https://www.ifanr.com/1673226?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [突发，翁荔离职Thinking Machines](https://www.qbitai.com/2026/07/461517.html)
 - 黑海洋
+  - [Anthropic CEO：并未主张禁止开放权重模型](https://blog.upx8.com/Anthropic-CEO-%E5%B9%B6%E6%9C%AA%E4%B8%BB%E5%BC%A0%E7%A6%81%E6%AD%A2%E5%BC%80%E6%94%BE%E6%9D%83%E9%87%8D%E6%A8%A1%E5%9E%8B)
   - [OpenAI CEO自曝沉迷短视频：周末一刷就是3小时，最终不得不删除App](https://blog.upx8.com/OpenAI-CEO%E8%87%AA%E6%9B%9D%E6%B2%89%E8%BF%B7%E7%9F%AD%E8%A7%86%E9%A2%91-%E5%91%A8%E6%9C%AB%E4%B8%80%E5%88%B7%E5%B0%B1%E6%98%AF3%E5%B0%8F%E6%97%B6-%E6%9C%80%E7%BB%88%E4%B8%8D%E5%BE%97%E4%B8%8D%E5%88%A0%E9%99%A4App)
