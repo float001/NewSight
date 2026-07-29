@@ -1,6 +1,80 @@
 # 今日安全资讯（2026-07-30）
 
+- Chainalysis Blog
+  - [Monitoring Privacy Blockchains: How Compliance Teams Can Stay a Step Ahead](https://www.chainalysis.com/blog/privacy-blockchain-compliance/)
+- CoinTelegraph
+  - [MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions](https://cointelegraph.com/news/moonpay-launches-ai-payment-vault-for-chatgpt-and-claude-with-crypto-transaction-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest](https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/)
+- Der Flounder
+  - [Creating a Jamf Pro API Role with all available API privileges using a Jamf Pro user account with Administrator account privileges](https://derflounder.wordpress.com/2026/07/29/creating-a-jamf-pro-api-role-with-all-available-api-privileges-using-a-jamf-pro-user-account-with-administrator-account-privileges/)
+- Hacker News Frontpage
+  - [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
+  - [Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/)
 - infosecurity-magazine.com
   - [LogoKit Phishing Kit Screenshots Victim Sites in Real Time](https://www.infosecurity-magazine.com/news/logokit-phishing-real-time/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-66066 exploit](https://sploitus.com/exploit?id=613D0AE3-CF24-5933-818F-51E9730DCC20&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Google brings its age-assurance technology to Android developers worldwide](https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/)
+- The Block
+  - [Anchorage Digital says Fed’s proposed payment account is no ‘workable substitute’ for master account](https://www.theblock.co/post/410068/anchorage-digital-feds-proposed-payment-account-no-substitute-master-account?utm_source=rss&utm_medium=rss)
+- The Decoder
+  - [OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval](https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/)
+- The Verge
+  - [Full school day cell phone bans are more popular than ever](https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever)
+- VulDB Recent Entries
+  - [CVE-2026-15228 | Kong Kubernetes Ingress Controller up to 3.4.17/3.5.10 certificate validation](https://vuldb.com/vuln/384198)
+  - [CVE-2026-16543 | Kong Kubernetes Ingress Controller up to 2.0.10/2.1.8/2.2.2 input validation](https://vuldb.com/vuln/384201)
+  - [CVE-2026-50558 | brightio penelope up to 0.19.x Download penelope.py tar.extractall path traversal](https://vuldb.com/vuln/384206)
+  - [CVE-2026-54735 | Prebid Server up to 4.3.x Bidder Adapters server-side request forgery](https://vuldb.com/vuln/384202)
+  - [CVE-2026-60112 | NASA-AMMOS AIT-GUI up to 2.5.0 Sessions.create missing authentication](https://vuldb.com/vuln/384204)
+  - [CVE-2026-60113 | NASA-AMMOS AIT-DSN up to 2.2.1 Space Link Extension missing authentication](https://vuldb.com/vuln/384205)
+  - [CVE-2026-67191 | Xlight FTP Server up to 3.9.4 heap-based overflow](https://vuldb.com/vuln/384199)
+  - [CVE-2026-67192 | Xlight FTP Server up to 3.9.4 GCM Decrypt GCM decrypt function stack-based overflow](https://vuldb.com/vuln/384200)
+  - [CVE-2026-67193 | Xlight FTP Server up to 3.9.4 GetTickCount information disclosure](https://vuldb.com/vuln/384203)
+- Vulners.com RSS Feed
+  - [CVE-2026-13697 undici vulnerable to cross-user information disclosure and parse-time crash via degenerate private cache directives](https://vulners.com/cve/CVE-2026-13697?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13697 undici vulnerable to cross-user information disclosure and parse-time crash via degenerate private cache directives](https://vulners.com/cvelist/CVELIST:CVE-2026-13697?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15144 @fastify/rate-limit vulnerable to rate-limit bypass via IPv6 address rotation](https://vulners.com/cve/CVE-2026-15144?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15144 @fastify/rate-limit vulnerable to rate-limit bypass via IPv6 address rotation](https://vulners.com/cvelist/CVELIST:CVE-2026-15144?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15228](https://vulners.com/nvd/NVD:CVE-2026-15228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16463](https://vulners.com/nvd/NVD:CVE-2026-16463?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16465](https://vulners.com/nvd/NVD:CVE-2026-16465?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16543](https://vulners.com/nvd/NVD:CVE-2026-16543?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17550](https://vulners.com/nvd/NVD:CVE-2026-17550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18255 Quay: quay: global read-only superuser can view robot account tokens](https://vulners.com/cve/CVE-2026-18255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18255 Quay: quay: global read-only superuser can view robot account tokens](https://vulners.com/cvelist/CVELIST:CVE-2026-18255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18257 Improper Certificate Validation in S2OPC](https://vulners.com/cve/CVE-2026-18257?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18257 Improper Certificate Validation in S2OPC](https://vulners.com/cvelist/CVELIST:CVE-2026-18257?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-20316 Cisco Secure Firewall Management Center Software Static Credential Vulnerability](https://vulners.com/cve/CVE-2026-20316?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-20316 Cisco Secure Firewall Management Center Software Static Credential Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-20316?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50558](https://vulners.com/nvd/NVD:CVE-2026-50558?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52791 fuse-overlayfs release-1.x preserves SUID/SGID bits after truncate/open(O_TRUNC)](https://vulners.com/cve/CVE-2026-52791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52791 fuse-overlayfs release-1.x preserves SUID/SGID bits after truncate/open(O_TRUNC)](https://vulners.com/cvelist/CVELIST:CVE-2026-52791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54078](https://vulners.com/nvd/NVD:CVE-2026-54078?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54079](https://vulners.com/nvd/NVD:CVE-2026-54079?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54080](https://vulners.com/nvd/NVD:CVE-2026-54080?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54081](https://vulners.com/nvd/NVD:CVE-2026-54081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54082](https://vulners.com/nvd/NVD:CVE-2026-54082?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54574 `proot-distro install` has a Symlink Escape (Arbitrary Host File Write) via Malicious Tar Archive](https://vulners.com/cve/CVE-2026-54574?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54574 `proot-distro install` has a Symlink Escape (Arbitrary Host File Write) via Malicious Tar Archive](https://vulners.com/cvelist/CVELIST:CVE-2026-54574?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54735](https://vulners.com/nvd/NVD:CVE-2026-54735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-60112](https://vulners.com/nvd/NVD:CVE-2026-60112?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-60113](https://vulners.com/nvd/NVD:CVE-2026-60113?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-64558 s390/pkey: Check length in pkey_pckmo handler implementation](https://vulners.com/cve/CVE-2026-64558?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-64558 s390/pkey: Check length in pkey_pckmo handler implementation](https://vulners.com/cvelist/CVELIST:CVE-2026-64558?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-64559 s390/pkey: Check length in PKEY_VERIFYPROTK ioctl](https://vulners.com/cve/CVE-2026-64559?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-64559 s390/pkey: Check length in PKEY_VERIFYPROTK ioctl](https://vulners.com/cvelist/CVELIST:CVE-2026-64559?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66051](https://vulners.com/nvd/NVD:CVE-2026-66051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-67188](https://vulners.com/nvd/NVD:CVE-2026-67188?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-67191](https://vulners.com/nvd/NVD:CVE-2026-67191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-67192](https://vulners.com/nvd/NVD:CVE-2026-67192?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-67193](https://vulners.com/nvd/NVD:CVE-2026-67193?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8339 SQL Injection in Coverity Connect SOAP API](https://vulners.com/cve/CVE-2026-8339?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8339 SQL Injection in Coverity Connect SOAP API](https://vulners.com/cvelist/CVELIST:CVE-2026-8339?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-66066](https://vulners.com/githubexploit/613D0AE3-CF24-5933-818F-51E9730DCC20?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Tropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in Europe](https://www.wired.com/story/tropical-diseases-dengue-fever-and-chikungunya-on-the-rise-in-europe/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
