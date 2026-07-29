@@ -2,26 +2,35 @@
 
 - 2Libra
   - [Ghost Proxifier 一款对标 proxifier 的高性能进程级透明代理引擎](https://2libra.com/post/tools-sharing/LV9n0Lq)
+  - [【兑换码·💰】 跨境流量送福利来就领！](https://2libra.com/post/promotion/746zzQn)
+  - [【兑换码】🔥 简单粗暴： Proxy001 送 4 个 1GB 流量住宅 IP CDK，手慢无！](https://2libra.com/post/promotion/2vxKeCC)
   - [为什么不加个搜索功能？](https://2libra.com/post/forum-function/QMSrQtJ)
   - [想问一下各位多谷歌账号都是如何管理的](https://2libra.com/post/interaction/goQJcGQ)
+  - [明明经历的是同一段恋爱，为什么记忆里的故事却不一样](https://2libra.com/post/love/VZ2eMTn)
   - [最近越来越早了](https://2libra.com/post/small-things/k-QYURM)
   - [每天一分钟，知晓天下事！2026 年 7 月 29 日](https://2libra.com/post/social-observation/XQhxeXS)
+  - [求教，chrome 无法自动填充无法选择对应账号密码](https://2libra.com/post/software-tools/2neN3A4)
+  - [网站能做个 tg 通知频道吗](https://2libra.com/post/forum-function/ksU9Kb1)
 - 36氪
   - [36氪研究院 | 2026年中国智能硬件行业发展研究报告](https://36kr.com/p/3915066350327176?f=rss)
+  - [7月29日人民币对美元中间价调升29个基点](https://36kr.com/newsflashes/3916040137911943?f=rss)
   - [8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源](https://36kr.com/p/3915953688604296?f=rss)
   - [AI改变经济运行底层逻辑，专家表示实施“投资于人”的战略](https://36kr.com/newsflashes/3915969409412489?f=rss)
   - [AI短剧半年规模超220亿元，产业爆发重塑内容生产逻辑](https://36kr.com/newsflashes/3916018332970372?f=rss)
   - [AI算力需求催热上半年业绩，MLCC产业链高景气度下半年将延续](https://36kr.com/newsflashes/3916019086585225?f=rss)
+  - [A股三大指数开盘涨跌不一，教育股走强](https://36kr.com/newsflashes/3916045094743685?f=rss)
   - [Meta：WhatsApp新增网页浏览器通话功能，无需安装应用程序](https://36kr.com/newsflashes/3915939280842370?f=rss)
   - [OpenAI在API中引入了两种新的转录模型](https://36kr.com/newsflashes/3915932514496136?f=rss)
   - [QFII持仓浮出水面，增持个股业绩表现良好](https://36kr.com/newsflashes/3915962788114057?f=rss)
   - [SK海力士：HBM4E样品上半年已交付](https://36kr.com/newsflashes/3915921413746306?f=rss)
+  - [SK海力士：公司韩国股票转换为美国ADR的规模或将有限](https://36kr.com/newsflashes/3916026308193923?f=rss)
   - [SK海力士：存储器需求增长趋势有望持续，正与客户推进多年期合约](https://36kr.com/newsflashes/3915929460977030?f=rss)
   - [SK海力士：计划2026年下半年大幅扩充HBM4产能供给](https://36kr.com/newsflashes/3915923736358529?f=rss)
   - [Visa三季度调整后净利润63亿美元超预期，同比增加7.9%](https://36kr.com/newsflashes/3915936015445385?f=rss)
   - [Visa公司将裁员7%，以提升效率应对支付行业竞争](https://36kr.com/newsflashes/3915927949831552?f=rss)
   - [xAI面向Grok推出Build模型](https://36kr.com/newsflashes/3915933333220999?f=rss)
   - [“个贷融资成本明示”即将实施，多家机构提前完成合规布局](https://36kr.com/newsflashes/3915958682463881?f=rss)
+  - [“尧乐科技”完成Pre-A+新一轮融资](https://36kr.com/newsflashes/3916062869532036?f=rss)
   - [上半年全国社会物流总额超180万亿元](https://36kr.com/newsflashes/3916020850323079?f=rss)
   - [两市融资余额减少297.59亿元](https://36kr.com/newsflashes/3916017399262595?f=rss)
   - [中信建投：800VDC将成为供电架构迭代的关键催化](https://36kr.com/newsflashes/3915983969414788?f=rss)
@@ -35,9 +44,13 @@
   - [券商积极参与碳交易，绿色金融布局持续深化](https://36kr.com/newsflashes/3915966981270915?f=rss)
   - [半年报持续披露，基金布局绩优股](https://36kr.com/newsflashes/3915951326785161?f=rss)
   - [华泰证券：预计美联储7月加息概率略高于一半，9月前加息的概率接近100%](https://36kr.com/newsflashes/3915975274687876?f=rss)
+  - [央行7月29日公开市场开展2065亿元7天期逆回购操作](https://36kr.com/newsflashes/3916042345737607?f=rss)
   - [希捷科技2026财年净利润31.84亿美元，同比增长116.75%](https://36kr.com/newsflashes/3915924182035845?f=rss)
+  - [恒指开盘涨0.7%，恒生科技指数涨1.02%](https://36kr.com/newsflashes/3916039970664069?f=rss)
+  - [恒生科技指数涨幅扩大至2%](https://36kr.com/newsflashes/3916056351649153?f=rss)
   - [恩智浦半导体第二财季营收35亿美元，同比增长19%](https://36kr.com/newsflashes/3915981645819272?f=rss)
   - [新易盛：正有序推进H股发行相关工作](https://36kr.com/newsflashes/3916003997462144?f=rss)
+  - [柔性触觉感知企业获新一轮融资，预计2026年公司营收翻10倍｜硬氪首发](https://36kr.com/p/3915175290901889?f=rss)
   - [比亚迪李云飞：投资长鑫科技5000万元为公司行为，董事长王传福不存在个人对外投资情形](https://36kr.com/newsflashes/3916021822680457?f=rss)
   - [沙特瓦利德王子斥资超1.2亿美元买入电动车商Lucid约5%股份](https://36kr.com/newsflashes/3915952769183365?f=rss)
   - [消息人士：OpenAI失控智能体攻破第二家科技企业账户](https://36kr.com/newsflashes/3915937133309574?f=rss)
@@ -51,6 +64,7 @@
   - [超千名全球AI从业者联名请求美政府支持国际合作，建立AI“刹车”机制](https://36kr.com/newsflashes/3915991895666305?f=rss)
   - [部分百亿级私募持仓曝光，计算机板块“吸金”](https://36kr.com/newsflashes/3915947331136896?f=rss)
   - [银河证券：机构大幅减持，有色行业基金持仓回落至近年低点](https://36kr.com/newsflashes/3916019960966789?f=rss)
+  - [韩国KOSPI指数跌幅扩大至3%](https://36kr.com/newsflashes/3916067243060873?f=rss)
 - 404 Media
   - [‘The Government Hopes To Set a Precedent’: An Interview With the Man Charged for Allegedly Wiping His GrapheneOS Phone](https://www.404media.co/the-government-hopes-to-set-a-precedent-an-interview-with-the-man-charged-for-allegedly-wiping-his-grapheneos-phone/)
 - Ars Technica
@@ -71,6 +85,7 @@
   - [AmericanFortress proposes quantum-safe crypto wallet protection without fund migration](https://cointelegraph.com/news/americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cybersecurity News
   - [CVE-2026-45293: Arbitrary Code Execution in WordPress Coding Standards, a Tool With 49M+ Installs](https://securityonline.info/wordpresscs-cve-2026-45293/)
+  - [IBM Aspera Vulnerabilities Patched in Faspex 5 and Desktop App](https://securityonline.info/ibm-aspera-faspex-desktop-vulnerabilities/)
 - daringfireball.net
   - [Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’](https://www.businessinsider.com/apple-snubs-the-iad-2011-6)
 - darkreading
@@ -110,6 +125,8 @@
   - [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai)
 - OpenZeppelin Blog
   - [1inch Aqua and SwapVM MVP v1.0 Audit](https://www.openzeppelin.com/news/1inch-aqua-and-swapvm-mvp-v1.0-audit)
+- rtl-sdr.com
+  - [DeepSDR Updates: Live Public Safety Incident Map with an RTL-SDR, Whisper and an LLM](https://www.rtl-sdr.com/deepsdr-updates-live-public-safety-incident-map-with-an-rtl-sdr-whisper-and-an-llm/)
 - simonwillison.net
   - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything)
   - [Discovering cryptographic weaknesses with Claude](https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything)
@@ -522,6 +539,7 @@
   - [GHSA-496M-5CG2-HW82 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-496M-5CG2-HW82?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-4WJ3-8493-W74M vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-4WJ3-8493-W74M?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-54W4-5MRC-HFP8 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-54W4-5MRC-HFP8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-6XX4-9WP6-65P7](https://vulners.com/circl/CIRCL:GHSA-6XX4-9WP6-65P7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-7RG2-8XRH-RWH8 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-7RG2-8XRH-RWH8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-85RG-P3FR-XC2F](https://vulners.com/circl/CIRCL:GHSA-85RG-P3FR-XC2F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-8RFC-PHX9-6VC2 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-8RFC-PHX9-6VC2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -579,3 +597,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜苹果智能家居新品曝光,AI Siri加持/马斯克X钱包在美国上线/携程CEO全员信曝光:诚恳接受处罚](https://www.ifanr.com/1673331?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [三星正提高内存产量以满足苹果等客户需求](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E6%AD%A3%E6%8F%90%E9%AB%98%E5%86%85%E5%AD%98%E4%BA%A7%E9%87%8F%E4%BB%A5%E6%BB%A1%E8%B6%B3%E8%8B%B9%E6%9E%9C%E7%AD%89%E5%AE%A2%E6%88%B7%E9%9C%80%E6%B1%82)
