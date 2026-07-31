@@ -7,6 +7,7 @@
   - [DeepSeek-V4-Flash 更新](https://2libra.com/post/large-models/xkV4l9U)
   - [《走个面徽章》点评：9 分｜『走个面儿』来此集合~](https://2libra.com/post/forum-function/Zc3k9_4)
   - [【兑换码】这次真的两百了，可喜可贺](https://2libra.com/post/forum-function/yT16XQx)
+  - [【转载】【央视新闻】三大运营商明起停止第三方互联网渠道号卡办理](https://2libra.com/post/tech-news/brGZXtY)
   - [【💰】glm 涨价](https://2libra.com/post/ai-trends/Djo1DRb)
   - [【💰】大家都用 ai 来做什么额外的工作](https://2libra.com/post/ai-programming/2q0WgzX)
   - [【💰】清仓了，分享一下喜悦](https://2libra.com/post/stock-market/8gN4qCZ)
@@ -219,8 +220,11 @@
   - [黑芝麻智能：上半年收入预计超4.58亿元，同比增长超81.1%](https://36kr.com/newsflashes/3918835841936775?f=rss)
 - 404 Media
   - [A Hidden 'Dark Dimension' Could Rewrite Our Understanding of the Universe](https://www.404media.co/dark-dimension-hypothesis-study/)
+  - [YouTube Bans Popular ASMR Artists, Accusing Them of Making 'Sexually Gratifying' Videos](https://www.404media.co/youtube-asmr-ban-sex-and-nudity-policy/)
 - berthub.eu
   - [AI: Considerations for people who make decisions](https://berthub.eu/articles/posts/ai-for-decision-makers/)
+- ByteByteGo
+  - [Hiring: Part Time Instructor, Write Production Grade Code with AI](https://blog.bytebytego.com/p/hiring-part-time-instructor-write)
 - CERT Recently Published Vulnerability Notes
   - [VU#281278: SGLang contains six different vulnerabilities including RCE, data exfiltration, and credential disclosure](https://kb.cert.org/vuls/id/281278)
 - Chainalysis Blog
@@ -269,6 +273,7 @@
 - Hacker News Frontpage
   - [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return)
   - [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
+  - [Detect Dark Matter's Mark from Your Backyard](https://spectrum.ieee.org/dark-matter)
   - [Human Honeypot](https://human2llm.pages.dev/)
   - [I obtained Claude Opus 5 system prompt](https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758)
   - [Man seeks millions after being shot by police in game-related swatting incident](https://www.tucsonsentinel.com/local/report/072926_melendez_swatting/man-seeks-millions-after-being-shot-by-pima-deputies-swatting-incident/)
@@ -299,6 +304,9 @@
 - MIT Technology Review
   - [Montana’s plan to become an experimental medical hub just pushed forward](https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/)
   - [The Download: Montana’s new experimental drug rules](https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/)
+- OpenAI Blog
+  - [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe)
+  - [Building abundant intelligence](https://openai.com/index/building-abundant-intelligence)
 - Pen Test Partners
   - [If you’re going to vibe code it, why not vibe pen test it?](https://www.pentestpartners.com/security-blog/if-youre-going-to-vibe-code-it-why-not-vibe-pen-test-it/)
 - pluralistic.net
@@ -319,7 +327,9 @@
 - Sploitus.com Exploits RSS Feed
   - [Ashritha_auto_vapt exploit](https://sploitus.com/exploit?id=D2F0C39D-37F2-5440-97E8-214E49EC5763&utm_source=rss&utm_medium=rss)
   - [BARE exploit](https://sploitus.com/exploit?id=BF4D132A-E615-5579-9DEA-B4D533F6145D&utm_source=rss&utm_medium=rss)
+  - [cam-hunter exploit](https://sploitus.com/exploit?id=4BB590B6-E630-5243-9EA2-EAFE70FD22E5&utm_source=rss&utm_medium=rss)
   - [ChainHangLow exploit](https://sploitus.com/exploit?id=B0F00CD2-3101-5E10-BF2F-C8235232A1BF&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-21858-and-CVE-2025-68613 exploit](https://sploitus.com/exploit?id=6E749E5D-7CC9-5007-BBBD-022C5E9EBB81&utm_source=rss&utm_medium=rss)
   - [CVE-2026-PENDING-AAVISHKAR-1 exploit](https://sploitus.com/exploit?id=12251643-F768-596C-B627-01ACF2F824A6&utm_source=rss&utm_medium=rss)
   - [CVE-Exploit-Archive exploit](https://sploitus.com/exploit?id=5F36C256-083D-511E-B735-15C40301FDDF&utm_source=rss&utm_medium=rss)
   - [Exploit for Classic Buffer Overflow in Rsyslog exploit](https://sploitus.com/exploit?id=6D8EB49C-FEA2-5CD8-A7C8-86A56F7B92EE&utm_source=rss&utm_medium=rss)
@@ -333,6 +343,7 @@
   - [Exploit for Relative Path Traversal in Fortinet Fortiweb exploit](https://sploitus.com/exploit?id=7AE8B23A-9478-5C33-B972-2D6D1DC3F30E&utm_source=rss&utm_medium=rss)
   - [Exploit for Type Confusion in Handlebarsjs Handlebars exploit](https://sploitus.com/exploit?id=70E18C7E-B78F-54EA-AA1D-E7113C7ECA4D&utm_source=rss&utm_medium=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Rsjoomla Rsfiles\! exploit](https://sploitus.com/exploit?id=A440FCF6-211F-55FB-B449-68B8C0FEDE14&utm_source=rss&utm_medium=rss)
+  - [Exploit-Development-CW1 exploit](https://sploitus.com/exploit?id=692FBE4C-D0D2-5AD4-8994-5D6C0DF4CB0E&utm_source=rss&utm_medium=rss)
   - [exploitcw1.py exploit](https://sploitus.com/exploit?id=FA1BD24E-A967-5216-8E1D-9147604224D7&utm_source=rss&utm_medium=rss)
   - [SkillBit-July-2026-Flash-CTF exploit](https://sploitus.com/exploit?id=9C3DCD25-11F0-5364-A618-E68153B9B0A3&utm_source=rss&utm_medium=rss)
   - [Web-Exploitation-for-Bug-Bounty-Hunter exploit](https://sploitus.com/exploit?id=A8D7D563-15C3-515C-ABB7-452FFB40BB7B&utm_source=rss&utm_medium=rss)
@@ -348,17 +359,21 @@
   - [Investors love AI, as long as you’re a cloud host](https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/)
   - [Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/)
   - [Okta buys AI security startup Permiso; source says for about $200M](https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/)
+  - [Reddit is testing a new way to watch — and listen to — its viral posts](https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/)
   - [Reddit reports a solid quarter but shows signs of AI’s impact](https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/)
   - [Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers](https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/)
+  - [Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human](https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/)
   - [Spotify launches ‘User notes’ to let users add memories to songs](https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/)
   - [Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A](https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/)
   - [Tesla made its 10 millionth EV](https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/)
   - [Tesla reportedly might sell its China business ahead of a SpaceX merger](https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/)
+  - [WhatsApp is testing a new folder for messages from large businesses](https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/)
 - The Block
   - [Bernstein sees 78% upside for Robinhood as tokenization, prediction markets expand its crypto business](https://www.theblock.co/post/410259/bernstein-sees-78-upside-for-robinhood-as-tokenization-prediction-markets-expand-its-crypto-business?utm_source=rss&utm_medium=rss)
   - [Bipartisan Sens. Tillis and Gallego send new ethics compromise to White House in Clarity Act push](https://www.theblock.co/post/410193/bipartisan-sens-tillis-gallego-new-ethics-compromise-white-house-clarity-act-push?utm_source=rss&utm_medium=rss)
   - [Circle secures NYDFS trust charter, adding state layer to federal USDC oversight](https://www.theblock.co/post/410275/circle-secures-nydfs-trust-charter-adding-state-layer-to-federal-usdc-oversight?utm_source=rss&utm_medium=rss)
   - [Coinbase shares slip after Q2 results despite prediction markets doubling and record trading market share](https://www.theblock.co/post/410208/coinbase-shares-slip-after-q2-results-despite-prediction-markets-doubling-and-record-trading-market-share?utm_source=rss&utm_medium=rss)
+  - [Ethereum’s 43-day staking queue isn’t a clean demand signal, Sygnum says](https://www.theblock.co/post/410285/ethereum-43-day-staking-queue-isnt-clean-demand-signal-sygnum?utm_source=rss&utm_medium=rss)
   - [IREN, Core Scientific and more surge as Aschenbrenner fund reportedly liquidates $1 billion AI infrastructure portfolio](https://www.theblock.co/post/410173/iren-core-scientific-bitcoin-mining-stocks-surge-aschenbrenner-funds-portfolio-liquidation?utm_source=rss&utm_medium=rss)
   - [IRS warns crypto holders fraudster sending fake letters in attempt to steal digital assets or data: Bloomberg](https://www.theblock.co/post/410204/irs-crypto-holders-fraudster-sending-fake-letters-steal-digital-assets-data-bloomberg?utm_source=rss&utm_medium=rss)
   - [JPMorgan says crypto bill’s fading odds hurt outlook, warns parts could discourage institutional adoption](https://www.theblock.co/post/410185/jpmorgan-crypto-bill-clarity-act-market-outlook?utm_source=rss&utm_medium=rss)
@@ -369,6 +384,7 @@
   - [Stablecoins and Cross-Border Payments: How Digital Dollars Move Across Borders](https://www.theblock.co/learn/410227/stablecoins-and-cross-border-payments?utm_source=rss&utm_medium=rss)
   - [Strategy posts $8.2 billion loss as bitcoin holdings increase 11% during Q2](https://www.theblock.co/post/410212/strategy-posts-8-2-billion-loss-as-bitcoin-holdings-increase-11-during-q2?utm_source=rss&utm_medium=rss)
   - [TD Cowen cuts Sharplink price target to $13 on lower 2026 ether outlook](https://www.theblock.co/post/410273/td-cowen-cuts-sharplink-price-target-to-13-on-lower-2026-ether-outlook?utm_source=rss&utm_medium=rss)
+  - [Uniswap launches ‘Earn’ with Morpho to let users earn yield on idle crypto assets](https://www.theblock.co/post/410286/uniswap-morpho-earn-yield-gauntlet-vaults?utm_source=rss&utm_medium=rss)
   - [‘Funds may be at risk’: Coinkite issues warning for Coldcard Mk3 users amid 594 BTC theft reports](https://www.theblock.co/post/410235/coinkite-coldcard-mk3-warning?utm_source=rss&utm_medium=rss)
 - The Decoder
   - [Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems](https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/)
@@ -561,7 +577,9 @@
   - [Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations](https://vulners.com/thn/THN:922039BA63EC4D30606479529B000C22?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [BARE](https://vulners.com/githubexploit/BF4D132A-E615-5579-9DEA-B4D533F6145D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [cam-hunter](https://vulners.com/githubexploit/4BB590B6-E630-5243-9EA2-EAFE70FD22E5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ChainHangLow](https://vulners.com/githubexploit/B0F00CD2-3101-5E10-BF2F-C8235232A1BF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://vulners.com/thn/THN:FA92C54EA859D16A31294740D905FB65?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://vulners.com/thn/THN:F4F4A701F804763FD683CC373C3B3B87?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-25039](https://vulners.com/nvd/NVD:CVE-2024-25039?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-25039 IBM Engineering Requirements Management DOORS and DOORS Web Access is affected by multiple vulnerabilities](https://vulners.com/cve/CVE-2024-25039?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -596,6 +614,8 @@
   - [CVE-2026-10569](https://vulners.com/nvd/NVD:CVE-2026-10569?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10569 IBM DevOps Deploy / IBM UrbanCode Deploy (UCD) is susceptible to an Exposure of Sensitive Information Vulnerability](https://vulners.com/cve/CVE-2026-10569?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10569 IBM DevOps Deploy / IBM UrbanCode Deploy (UCD) is susceptible to an Exposure of Sensitive Information Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-10569?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10685 Use-after-free of GATT subscribe params in Bluetooth host CCC-write response handler](https://vulners.com/cve/CVE-2026-10685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10685 Use-after-free of GATT subscribe params in Bluetooth host CCC-write response handler](https://vulners.com/cvelist/CVELIST:CVE-2026-10685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10695](https://vulners.com/nvd/NVD:CVE-2026-10695?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10700](https://vulners.com/nvd/NVD:CVE-2026-10700?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10842](https://vulners.com/nvd/NVD:CVE-2026-10842?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -793,10 +813,15 @@
   - [CVE-2026-18358 Gnome-remote-desktop: gnome-remote-desktop system-mode rdp server missing connection throttling allows unauthenticated denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-18358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18436](https://vulners.com/nvd/NVD:CVE-2026-18436?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18437](https://vulners.com/nvd/NVD:CVE-2026-18437?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18446 fast-uri vulnerable to host confusion via backslash authority introducer](https://vulners.com/cve/CVE-2026-18446?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18446 fast-uri vulnerable to host confusion via backslash authority introducer](https://vulners.com/cvelist/CVELIST:CVE-2026-18446?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18452](https://vulners.com/nvd/NVD:CVE-2026-18452?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-21858-and-CVE-2025-68613](https://vulners.com/githubexploit/6E749E5D-7CC9-5007-BBBD-022C5E9EBB81?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-23981](https://vulners.com/nvd/NVD:CVE-2026-23981?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-23985](https://vulners.com/nvd/NVD:CVE-2026-23985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-28144](https://vulners.com/nvd/NVD:CVE-2026-28144?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28144 WordPress WP Maps plugin <= 4.9.6 - Sensitive Data Exposure vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-28144?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-28145](https://vulners.com/nvd/NVD:CVE-2026-28145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28145 WordPress MasterStudy LMS plugin <= 3.7.39 - Broken Access Control vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-28145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28323](https://vulners.com/nvd/NVD:CVE-2026-28323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28811](https://vulners.com/nvd/NVD:CVE-2026-28811?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -854,6 +879,7 @@
   - [CVE-2026-56673](https://vulners.com/nvd/NVD:CVE-2026-56673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56758 MZ Automation libiec61850 Out-of-bounds Read](https://vulners.com/cve/CVE-2026-56758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56758 MZ Automation libiec61850 Out-of-bounds Read](https://vulners.com/cvelist/CVELIST:CVE-2026-56758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57053](https://vulners.com/redhatcve/RH:CVE-2026-57053?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57862](https://vulners.com/nvd/NVD:CVE-2026-57862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58039](https://vulners.com/cve/CVE-2026-58039?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58039](https://vulners.com/cvelist/CVELIST:CVE-2026-58039?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -901,6 +927,7 @@
   - [CVE-2026-65313](https://vulners.com/nvd/NVD:CVE-2026-65313?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-65421 MZ Automation libiec61850 Out-of-bounds Read](https://vulners.com/cve/CVE-2026-65421?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-65421 MZ Automation libiec61850 Out-of-bounds Read](https://vulners.com/cvelist/CVELIST:CVE-2026-65421?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-65636](https://vulners.com/nvd/NVD:CVE-2026-65636?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-65636 YAML injection via unescaped newlines in ymlr document comments](https://vulners.com/cvelist/CVELIST:CVE-2026-65636?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-65834](https://vulners.com/nvd/NVD:CVE-2026-65834?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-65835](https://vulners.com/nvd/NVD:CVE-2026-65835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -934,6 +961,8 @@
   - [CVE-2026-67208](https://vulners.com/nvd/NVD:CVE-2026-67208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67208 Juggle 1.6.0 Unauthenticated RCE via Exposed H2 Console](https://vulners.com/cve/CVE-2026-67208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67208 Juggle 1.6.0 Unauthenticated RCE via Exposed H2 Console](https://vulners.com/cvelist/CVELIST:CVE-2026-67208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-67350 Serendipity < 2.6.1 Open Redirect via exit.php](https://vulners.com/cve/CVE-2026-67350?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-67350 Serendipity < 2.6.1 Open Redirect via exit.php](https://vulners.com/cvelist/CVELIST:CVE-2026-67350?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67527](https://vulners.com/nvd/NVD:CVE-2026-67527?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67527 OpenProject: Improper Access Control through /api/v3/work_packages/<X.id> via PATCH parameter "fileLinks"](https://vulners.com/cve/CVE-2026-67527?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67527 OpenProject: Improper Access Control through /api/v3/work_packages/<X.id> via PATCH parameter "fileLinks"](https://vulners.com/cvelist/CVELIST:CVE-2026-67527?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -993,6 +1022,7 @@
   - [Exploit for Relative Path Traversal in Fortinet Fortiweb](https://vulners.com/githubexploit/7AE8B23A-9478-5C33-B972-2D6D1DC3F30E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Type Confusion in Handlebarsjs Handlebars](https://vulners.com/githubexploit/70E18C7E-B78F-54EA-AA1D-E7113C7ECA4D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Rsjoomla Rsfiles\!](https://vulners.com/githubexploit/A440FCF6-211F-55FB-B449-68B8C0FEDE14?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit-Development-CW1](https://vulners.com/githubexploit/692FBE4C-D0D2-5AD4-8994-5D6C0DF4CB0E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [exploitcw1.py](https://vulners.com/githubexploit/FA1BD24E-A967-5216-8E1D-9147604224D7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Facial Recognition at Madison Square Garden](https://vulners.com/schneier/SCHNEIER:6013F2BECCED4E8EFCA815559F67BF52?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-52JP-GJ8W-J6XH](https://vulners.com/circl/CIRCL:GHSA-52JP-GJ8W-J6XH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -1064,11 +1094,13 @@
   - [Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers](https://www.wired.com/review/steelseries-arctis-nova-pro-omni/)
   - [The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key](https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/)
   - [The World Is Too Hot. El Niño Is Partly to Blame](https://www.wired.com/story/world-heat-wave-el-nino-to-blame/)
+  - [This AI Assistant Wants to Make Up for Your Boyfriend's Incompetence](https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/)
 - XCTF联赛
   - [倒计时1天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516627&idx=1&sn=a62923ed0e58ef99e6368c3a8dfca486)
 - 不安全
   - [AIL Badges](https://buaq.net/go-432054.html)
   - [IPAPatch-Lookin: inject LookinServer into decrypted iOS apps for on-device UI inspection](https://buaq.net/go-432031.html)
+  - [Need help recovering my old Instagram account and Gmail account](https://buaq.net/go-432187.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
