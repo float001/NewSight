@@ -1,8 +1,44 @@
 # 今日安全资讯（2026-08-02）
 
+- daringfireball.net
+  - [Apple Q3 2026 Results](https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/)
+  - [The Apple Upgrade Situation](https://randsinrepose.com/archives/the-apple-upgrade-situation/)
 - HackerNoon
   - [Meet the Hackathon Winner: SpyderBot on the Future of Brand Discovery in AI Search](https://hackernoon.com/meet-the-hackathon-winner-spyderbot-on-the-future-of-brand-discovery-in-ai-search?source=rss)
+- johndcook.com
+  - [Counting rooted trees](https://www.johndcook.com/blog/2026/08/01/counting-rooted-trees/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-14361 exploit](https://sploitus.com/exploit?id=E869A2E5-6F70-5494-BE5A-28B8BEE8A469&utm_source=rss&utm_medium=rss)
+- The Block
+  - [Russian decree bans crypto mining across Moscow region through 2032](https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss)
 - The Decoder
   - [AI keeps cracking unsolved math problems, and mathematicians have mixed feelings](https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/)
+- The Verge
+  - [Spider-Man: Brand New Day leak racks up millions of views](https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records)
+- Vulners.com RSS Feed
+  - [Exploit for CVE-2026-14361](https://vulners.com/githubexploit/E869A2E5-6F70-5494-BE5A-28B8BEE8A469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3185 python-pillow security update](https://vulners.com/osv/OSV:OESA-2026-3185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3186 python-pillow security update](https://vulners.com/osv/OSV:OESA-2026-3186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3187 python-pillow security update](https://vulners.com/osv/OSV:OESA-2026-3187?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3188 python-pillow security update](https://vulners.com/osv/OSV:OESA-2026-3188?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3189 python-pillow security update](https://vulners.com/osv/OSV:OESA-2026-3189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3190 spice-vdagent security update](https://vulners.com/osv/OSV:OESA-2026-3190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3191 python-setuptools security update](https://vulners.com/osv/OSV:OESA-2026-3191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3192 texlive-base security update](https://vulners.com/osv/OSV:OESA-2026-3192?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3193 python-urwid security update](https://vulners.com/osv/OSV:OESA-2026-3193?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3194 gimp security update](https://vulners.com/osv/OSV:OESA-2026-3194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3195 thunderbird security update](https://vulners.com/osv/OSV:OESA-2026-3195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3196 thunderbird security update](https://vulners.com/osv/OSV:OESA-2026-3196?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3197 mariadb-connector-c security update](https://vulners.com/osv/OSV:OESA-2026-3197?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3198 python-pyasn1 security update](https://vulners.com/osv/OSV:OESA-2026-3198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3199 libass security update](https://vulners.com/osv/OSV:OESA-2026-3199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3200 libass security update](https://vulners.com/osv/OSV:OESA-2026-3200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3201 libass security update](https://vulners.com/osv/OSV:OESA-2026-3201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3202 qt6-qt5compat security update](https://vulners.com/osv/OSV:OESA-2026-3202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3203 qt6-qt5compat security update](https://vulners.com/osv/OSV:OESA-2026-3203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OESA-2026-3204 kernel security update](https://vulners.com/osv/OSV:OESA-2026-3204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客园_人怜直节生来瘦，自许高材老更刚。
+  - [一个项目带你入门AI应用开发04 - bamb00](https://www.cnblogs.com/goodhacker/p/22139916)
+  - [一个项目带你入门AI应用开发05 - bamb00](https://www.cnblogs.com/goodhacker/p/22140367)
