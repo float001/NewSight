@@ -3,9 +3,14 @@
 - 2Libra
   - [今天签到咋没反应了？](https://2libra.com/post/forum-function/sAmqUdI)
   - [好消息，站长公益主机终于支持 ssl 证书了](https://2libra.com/post/promotion/CPYZ41r)
+  - [希望增加一个论坛在线人数趋势面板，可以查看不同时间段的在线人数变化，方便了解用户活跃高峰。](https://2libra.com/post/forum-function/FqZh-BS)
   - [我见过所有稳定盈利的人，都经历了这 5 次认知蜕变。](https://2libra.com/post/angel-investment/g52WNhj)
+  - [有用 Hermes Agent 的吗？说说都用来做什么](https://2libra.com/post/ai-tools/XhkQ0YV)
 - 36氪
   - [9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主](https://36kr.com/p/3920241240419720?f=rss)
+  - [下周37股面临解禁 合计解禁市值超233亿元](https://36kr.com/newsflashes/3920278552456582?f=rss)
+  - [今年上半年港珠澳大桥珠海公路口岸进出口突破2000亿元](https://36kr.com/newsflashes/3920278046256519?f=rss)
+  - [美股三大指数收盘集体上涨，大型科技股涨跌不一](https://36kr.com/newsflashes/3920277410491776?f=rss)
 - 404 Media
   - [Behind the Blog: Silent Retreat](https://www.404media.co/behind-the-blog-silent-retreat/)
   - [Google Earth’s New AI Lets Anyone Fabricate Completely Bullshit Satellite Images](https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/)
