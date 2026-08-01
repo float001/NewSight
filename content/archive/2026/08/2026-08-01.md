@@ -4,6 +4,8 @@
   - [今天签到咋没反应了？](https://2libra.com/post/forum-function/sAmqUdI)
   - [好消息，站长公益主机终于支持 ssl 证书了](https://2libra.com/post/promotion/CPYZ41r)
   - [我见过所有稳定盈利的人，都经历了这 5 次认知蜕变。](https://2libra.com/post/angel-investment/g52WNhj)
+- 36氪
+  - [9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主](https://36kr.com/p/3920241240419720?f=rss)
 - 404 Media
   - [Behind the Blog: Silent Retreat](https://www.404media.co/behind-the-blog-silent-retreat/)
   - [Google Earth’s New AI Lets Anyone Fabricate Completely Bullshit Satellite Images](https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/)
