@@ -1,5 +1,8 @@
 # 今日安全资讯（2026-08-02）
 
+- 2Libra
+  - [什么是奇迹，死而复生就是奇迹！](https://2libra.com/post/good-books/V3H5DnI)
+  - [捡了一个有趣的域名](https://2libra.com/post/domain-service/tn2M6Jj)
 - daringfireball.net
   - [Apple Q3 2026 Results](https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/)
   - [The Apple Upgrade Situation](https://randsinrepose.com/archives/the-apple-upgrade-situation/)
@@ -8,7 +11,10 @@
 - johndcook.com
   - [Counting rooted trees](https://www.johndcook.com/blog/2026/08/01/counting-rooted-trees/)
 - Sploitus.com Exploits RSS Feed
+  - [CineVault-OWASP-Lab exploit](https://sploitus.com/exploit?id=2276F890-1F86-5857-8A69-43FEB0BB9E76&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-14361 exploit](https://sploitus.com/exploit?id=E869A2E5-6F70-5494-BE5A-28B8BEE8A469&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/)
 - The Block
   - [Russian decree bans crypto mining across Moscow region through 2032](https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss)
 - The Decoder
@@ -16,6 +22,8 @@
 - The Verge
   - [Spider-Man: Brand New Day leak racks up millions of views](https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records)
 - Vulners.com RSS Feed
+  - [CineVault-OWASP-Lab](https://vulners.com/githubexploit/2276F890-1F86-5857-8A69-43FEB0BB9E76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://vulners.com/thn/THN:DE99E5AACA12C4B48098D041F2576CAC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14361](https://vulners.com/githubexploit/E869A2E5-6F70-5494-BE5A-28B8BEE8A469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3185 python-pillow security update](https://vulners.com/osv/OSV:OESA-2026-3185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3186 python-pillow security update](https://vulners.com/osv/OSV:OESA-2026-3186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -42,3 +50,5 @@
 - 博客园_人怜直节生来瘦，自许高材老更刚。
   - [一个项目带你入门AI应用开发04 - bamb00](https://www.cnblogs.com/goodhacker/p/22139916)
   - [一个项目带你入门AI应用开发05 - bamb00](https://www.cnblogs.com/goodhacker/p/22140367)
+- 安全客
+  - [纳米Work企业版正式启动全国各级渠道城市合伙人招募](https://www.anquanke.com/post/id/315908)
