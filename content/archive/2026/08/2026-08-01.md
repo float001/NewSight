@@ -36,6 +36,8 @@
   - [美股三大指数收盘集体上涨，大型科技股涨跌不一](https://36kr.com/newsflashes/3920277410491776?f=rss)
   - [蔚来公司7月交付35934台，同比增长71%](https://36kr.com/newsflashes/3920471544934019?f=rss)
   - [部分美国企业换上中国大模型以降低成本](https://36kr.com/newsflashes/3920583026929281?f=rss)
+  - [金山办公WPS存储管理新版本上线](https://36kr.com/newsflashes/3920632482491776?f=rss)
+  - [长三角多地发放结婚消费券](https://36kr.com/newsflashes/3920617407196549?f=rss)
   - [韩国7月出口飙升至历史第二高 半导体出口同比暴增近180%](https://36kr.com/newsflashes/3920386651319944?f=rss)
   - [鸿蒙智行月交付45046台](https://36kr.com/newsflashes/3920418360569216?f=rss)
 - 404 Media
@@ -69,12 +71,15 @@
   - [Termixer (TUI DJ Mixer)](https://github.com/l00sed/termixer)
   - [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
 - Hacking Articles
+  - [Active Directory Enumeration with BloodHound-Python](https://www.hackingarticles.in/active-directory-enumeration-with-bloodhound-python/)
   - [Arsenal-NG: A Terminal Cheat-Sheet Launcher for Faster Penetration Testing](https://www.hackingarticles.in/arsenal-ng-a-terminal-cheat-sheet-launcher-for-faster-penetration-testing/)
 - Horizon3.ai
   - [CVE-2026-20316 | Cisco Secure Firewall Management Center Static Credential Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-20316/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-07-31: Seven days of scans and probes and web traffic hitting my web server](https://www.malware-traffic-analysis.net/2026/07/31/index2.html)
   - [2026-7-31: SmartApeSG ClickFix campaign pushes unidentified RAT](https://www.malware-traffic-analysis.net/2026/07/31/index.html)
+- muellis blog
+  - [syncthing-socket for accessing machines through NATs](https://blogs.gnome.org/muelli/2026/08/syncthing-socket-for-accessing-machines-through-nats/)
 - Rob Zolkos
   - [Agents Are Customers Too](https://zolkos.com/2026/07/31/agents-are-customers-too.html)
 - simonwillison.net
@@ -84,6 +89,9 @@
   - [Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)](https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [decompress-CWE-59-PoC exploit](https://sploitus.com/exploit?id=832004FA-0747-5D4D-9657-212A52320D8C&utm_source=rss&utm_medium=rss)
+  - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Kestra exploit](https://sploitus.com/exploit?id=B4CF4F19-DA3B-5987-8FF5-A2A8BBBB870C&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-15001 exploit](https://sploitus.com/exploit?id=9CBA47D0-428E-5792-9CD1-1548E026DD7E&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-7384 exploit](https://sploitus.com/exploit?id=9A6E520F-F49E-5705-9FBF-95D9E87D9489&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-17351 exploit](https://sploitus.com/exploit?id=B1D1E25F-BBB1-5A30-95D8-EC0DD6E59C87&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Arm Bifrost_Gpu_Kernel_Driver exploit](https://sploitus.com/exploit?id=74806B76-D6CE-5827-A658-E3BBD64B6543&utm_source=rss&utm_medium=rss)
   - [Exploit-CMS-made-simple exploit](https://sploitus.com/exploit?id=E7C10EFC-638E-5496-9E20-7442FBCED262&utm_source=rss&utm_medium=rss)
@@ -109,7 +117,9 @@
   - [World Cup 2026 prediction markets topped $20 billion, with Ronaldo tears among the biggest wagers](https://www.theblock.co/post/410295/world-cup-2026-prediction-markets-topped-20-billion-ronaldo-tears-biggest-wagers?utm_source=rss&utm_medium=rss)
 - The Decoder
   - [Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids](https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/)
+  - [Google handed users the easiest possible tool for fake satellite imagery, then pulled it after two days](https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/)
   - [New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost](https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/)
+  - [OpenAI is reportedly building Astra, a model family designed to work on problems for hours or days](https://the-decoder.com/openai-is-reportedly-building-astra-a-model-family-designed-to-work-on-problems-for-hours-or-days/)
   - [Thinking Machines bets on efficiency over size with its second model, Inkling Small](https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/)
 - The Verge
   - [Apple’s new AirTags are back down to their best price](https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale)
@@ -120,6 +130,7 @@
   - [The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports](https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension)
   - [Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount](https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale)
 - VulDB Recent Entries
+  - [CVE-2025-14469 | Theme Editor Plugin up to 3.1 on WordPress ms_update cross-site request forgery](https://vuldb.com/vuln/385197)
   - [CVE-2025-69946 | SourceCodester Loan Management System 1.0 ajaxData.php district_id/division_id/region_id/ward_id sql injection](https://vuldb.com/vuln/385144)
   - [CVE-2025-69948 | SourceCodester Loan Management System 1.0 /admin/delete_group.php ID sql injection](https://vuldb.com/vuln/385146)
   - [CVE-2026-10686 | Zephyr Project up to 4.4.1 IPv6 Forwarding ipv6_route_packet infinite loop (7d8f1afa7345/589eadc74efa)](https://vuldb.com/vuln/385094)
@@ -133,6 +144,16 @@
   - [CVE-2026-14315 | WooCommerce Pixel Tag Manager Plugin up to 2.2.0 on WordPress access control](https://vuldb.com/vuln/385180)
   - [CVE-2026-14561 | Authora Plugin up to 1.7.6 on WordPress improper authentication](https://vuldb.com/vuln/385186)
   - [CVE-2026-14596 | DynamicKit Plugin up to 1.0.2 on WordPress improper authentication](https://vuldb.com/vuln/385187)
+  - [CVE-2026-14823 | Event Tickets and Registration Plugin 5.28.4 on WordPress authorization](https://vuldb.com/vuln/385194)
+  - [CVE-2026-14839 | Mapster Maps Plugin up to 1.23.x on WordPress Public REST Endpoint information disclosure](https://vuldb.com/vuln/385195)
+  - [CVE-2026-15234 | Codeless Page Builder Plugin up to 1.1.4 on WordPress Shortcode cross site scripting](https://vuldb.com/vuln/385196)
+  - [CVE-2026-15244 | HUSKY Plugin up to 1.4.0 on WordPress path traversal](https://vuldb.com/vuln/385198)
+  - [CVE-2026-15262 | Admin Columns for ACF Fields Plugin up to 0.3.2 on WordPress cross site scripting](https://vuldb.com/vuln/385200)
+  - [CVE-2026-15368 | User Profile Builder Plugin up to 3.16.3 on WordPress privileges management](https://vuldb.com/vuln/385201)
+  - [CVE-2026-15932 | Support Genix Plugin up to 1.4.47 on WordPress Attachment Download path traversal](https://vuldb.com/vuln/385202)
+  - [CVE-2026-15988 | tigroumeow AI Engine Plugin up to 3.6.5 on WordPress REST users endpoint reauth_for_authorize cross-site request forgery](https://vuldb.com/vuln/385199)
+  - [CVE-2026-16144 | wpchill Kali Forms Plugin up to 2.4.20 on WordPress _save_data thisPermalink code injection](https://vuldb.com/vuln/385205)
+  - [CVE-2026-16685 | codename065 Download Manager Plugin up to 3.3.66 on WordPress Shortcode wp_kses_post icon cross site scripting](https://vuldb.com/vuln/385204)
   - [CVE-2026-17346 | pgadmin-org pgAdmin prior 9.17 SQL Template Rendering __init__.py render_template injection](https://vuldb.com/vuln/385090)
   - [CVE-2026-17347 | pgadmin-org pgAdmin up to 9.16 External Command Hook subprocess.Popen MASTER_PASSWORD_HOOK os command injection](https://vuldb.com/vuln/385098)
   - [CVE-2026-17348 | pgadmin-org pgAdmin up to 9.16 Constraints preferences.get_all_cli missing authentication](https://vuldb.com/vuln/385096)
@@ -140,6 +161,7 @@
   - [CVE-2026-17350 | pgadmin-org pgAdmin up to 9.16 Socket IO adhoc_connect_server has_permission user_id/shared privileges management](https://vuldb.com/vuln/385093)
   - [CVE-2026-17351 | pgAdmin up to 9.16 AI Assistant prepare_threshold injection](https://vuldb.com/vuln/385091)
   - [CVE-2026-17566 | pgAdmin up to 9.17 Import Export Data /import_export/job create_import_export_job os command injection](https://vuldb.com/vuln/385092)
+  - [CVE-2026-17580 | wplakeorg Advanced Views Plugin up to 3.9.1 on WordPress register_rest_routes information disclosure](https://vuldb.com/vuln/385203)
   - [CVE-2026-18141 | Red Hat Ansible Automation Platform aap-gateway privileges management](https://vuldb.com/vuln/385097)
   - [CVE-2026-18321 | NTPsec up to 1.2.4 Zyfer refclock buffer overflow](https://vuldb.com/vuln/385122)
   - [CVE-2026-18394 | AWS Strands Agents Tools up to 0.8.1 http_request improper authorization](https://vuldb.com/vuln/385131)
@@ -192,6 +214,7 @@
 - Vulners.com RSS Feed
   - [Anthropic’s Opus 5 Is Better at Resisting Prompt Injection](https://vulners.com/schneier/SCHNEIER:5302F60A2842E56CC8DE454AC326B671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-14469](https://vulners.com/nvd/NVD:CVE-2025-14469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-62347](https://vulners.com/nvd/NVD:CVE-2025-62347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-69946](https://vulners.com/nvd/NVD:CVE-2025-69946?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-69948](https://vulners.com/nvd/NVD:CVE-2025-69948?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -228,6 +251,7 @@
   - [CVE-2026-15403](https://vulners.com/nvd/NVD:CVE-2026-15403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15414](https://vulners.com/nvd/NVD:CVE-2026-15414?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15932](https://vulners.com/nvd/NVD:CVE-2026-15932?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15988](https://vulners.com/nvd/NVD:CVE-2026-15988?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16503](https://vulners.com/nvd/NVD:CVE-2026-16503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16504](https://vulners.com/nvd/NVD:CVE-2026-16504?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17346](https://vulners.com/nvd/NVD:CVE-2026-17346?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -248,6 +272,7 @@
   - [CVE-2026-25552](https://vulners.com/nvd/NVD:CVE-2026-25552?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25552 Ghost CLI < 1.30.1 IP Spoofing via X-Forwarded-For Header](https://vulners.com/cve/CVE-2026-25552?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25552 Ghost CLI < 1.30.1 IP Spoofing via X-Forwarded-For Header](https://vulners.com/cvelist/CVELIST:CVE-2026-25552?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-2916](https://vulners.com/nvd/NVD:CVE-2026-2916?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3141](https://vulners.com/nvd/NVD:CVE-2026-3141?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3141 FormGent <= 1.9.2- Missing Authorization to Unauthenticated Arbitrary File Deletion via 'file_token' Parameter](https://vulners.com/cve/CVE-2026-3141?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3141 FormGent <= 1.9.2- Missing Authorization to Unauthenticated Arbitrary File Deletion via 'file_token' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-3141?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -369,6 +394,9 @@
   - [CVE-2026-9044 Command Injection Vulnerability in OpenVPN of TP-Link Archer AXE75](https://vulners.com/cve/CVE-2026-9044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9044 Command Injection Vulnerability in OpenVPN of TP-Link Archer AXE75](https://vulners.com/cvelist/CVELIST:CVE-2026-9044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [decompress-CWE-59-PoC](https://vulners.com/githubexploit/832004FA-0747-5D4D-9657-212A52320D8C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Kestra](https://vulners.com/githubexploit/B4CF4F19-DA3B-5987-8FF5-A2A8BBBB870C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2025-15001](https://vulners.com/githubexploit/9CBA47D0-428E-5792-9CD1-1548E026DD7E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2025-7384](https://vulners.com/githubexploit/9A6E520F-F49E-5705-9FBF-95D9E87D9489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-17351](https://vulners.com/githubexploit/B1D1E25F-BBB1-5A30-95D8-EC0DD6E59C87?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Arm Bifrost_Gpu_Kernel_Driver](https://vulners.com/githubexploit/74806B76-D6CE-5827-A658-E3BBD64B6543?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit-CMS-made-simple](https://vulners.com/githubexploit/E7C10EFC-638E-5496-9E20-7442FBCED262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -447,6 +475,8 @@
   - [Can Republicans Actually Send Anthony Fauci to Jail?](https://www.wired.com/story/can-republicans-actually-send-anthony-fauci-to-jail/)
   - [Chinese AI Researchers Are Finding Their Voice on X](https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/)
   - [SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth](https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/)
+- 不安全
+  - [Active Directory Enumeration with BloodHound-Python](https://buaq.net/go-432315.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
