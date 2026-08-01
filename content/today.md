@@ -4,10 +4,12 @@
   - [【💰】混沌徽章来了](https://2libra.com/post/forum-function/UDjZLru)
   - [今天就非得让我给你邀新人是吗](https://2libra.com/post/invite-code/cF0ezYK)
   - [今天签到咋没反应了？](https://2libra.com/post/forum-function/sAmqUdI)
+  - [卡皮巴拉 嘿嘿嘿](https://2libra.com/post/forum-function/2TgfOye)
   - [好消息，站长公益主机终于支持 ssl 证书了](https://2libra.com/post/promotion/CPYZ41r)
   - [希望增加一个论坛在线人数趋势面板，可以查看不同时间段的在线人数变化，方便了解用户活跃高峰。](https://2libra.com/post/forum-function/FqZh-BS)
   - [我见过所有稳定盈利的人，都经历了这 5 次认知蜕变。](https://2libra.com/post/angel-investment/g52WNhj)
   - [有人用 monkeycode-ai.com 这个吗？](https://2libra.com/post/ai-programming/Pxl-N-i)
+  - [有没有和我一样很久没自己写代码有点想念](https://2libra.com/post/vibe-coding/Jz8UqzI)
   - [有用 Hermes Agent 的吗？说说都用来做什么](https://2libra.com/post/ai-tools/XhkQ0YV)
 - 36氪
   - [2025年地方养老基金投资收益率为5.76%](https://36kr.com/newsflashes/3920417829416325?f=rss)
@@ -74,6 +76,7 @@
   - [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
   - [Everyone is building LLM routers, we deprecated ours](https://manifest.build/blog/why-we-deprecated-our-llm-router/)
   - [How to Survive an Infestation of Toxic Caterpillars](https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars)
+  - [Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
   - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
   - [Termixer (TUI DJ Mixer)](https://github.com/l00sed/termixer)
   - [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
@@ -83,13 +86,21 @@
   - [Impacket for Pentester: atexec](https://www.hackingarticles.in/impacket-for-pentester-atexec/)
 - Horizon3.ai
   - [CVE-2026-20316 | Cisco Secure Firewall Management Center Static Credential Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-20316/)
+- IEEE Spectrum
+  - [Fridays With Bob](https://spectrum.ieee.org/risk)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-07-31: Seven days of scans and probes and web traffic hitting my web server](https://www.malware-traffic-analysis.net/2026/07/31/index2.html)
   - [2026-7-31: SmartApeSG ClickFix campaign pushes unidentified RAT](https://www.malware-traffic-analysis.net/2026/07/31/index.html)
 - muellis blog
   - [syncthing-socket for accessing machines through NATs](https://blogs.gnome.org/muelli/2026/08/syncthing-socket-for-accessing-machines-through-nats/)
+- Recent Commits to cve:main
+  - [Update Sat Aug  1 12:00:33 UTC 2026](https://github.com/trickest/cve/commit/34a9e13075452733bcb91f2f69cce2906587662c)
 - Rob Zolkos
   - [Agents Are Customers Too](https://zolkos.com/2026/07/31/agents-are-customers-too.html)
+- shkspr.mobi
+  - [Gadget Review: HIKMICRO D02 Thermal Camera ★★★★★](https://shkspr.mobi/blog/2026/08/gadget-review-hikmicro-d02-thermal-camera/)
+- Shubham Shah
+  - [frontier class vulnerabilities: it gets worse before it (maybe) gets better](https://shubs.io/frontier-class-vulnerabilities-it-gets-worse-before-it-maybe-gets-better/)
 - simonwillison.net
   - [deepseek-ai/DeepSeek-V4-Flash-0731](https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything)
   - [Oxide and Friends: The Open Weight Revolution with Simon Willison](https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything)
@@ -187,6 +198,7 @@
   - [CVE-2026-18344 | nik00726 Responsive Thumbnail Slider Plugin up to 1.1.52 on WordPress responsive_thumbnail_image_management ID cross site scripting](https://vuldb.com/vuln/385230)
   - [CVE-2026-18394 | AWS Strands Agents Tools up to 0.8.1 http_request improper authorization](https://vuldb.com/vuln/385131)
   - [CVE-2026-18481 | AWS Ops Wheel Participant URL participant_url cross site scripting (PR #168)](https://vuldb.com/vuln/385121)
+  - [CVE-2026-18536 | robrwo Data::Entropy up to 0.9 _checkbuf integrity check](https://vuldb.com/vuln/385239)
   - [CVE-2026-21662 | Johnson Controls FM Systems Employee up to 2025.3.0 unrestricted upload](https://vuldb.com/vuln/385113)
   - [CVE-2026-25552 | TryGhost CLI up to 1.30.0 Rate Limiting proxy_add_x_forwarded_for privileges management](https://vuldb.com/vuln/385118)
   - [CVE-2026-34490 | Johnson Controls XAAP Application up to 1.52 cleartext storage](https://vuldb.com/vuln/385111)
@@ -315,6 +327,7 @@
   - [CVE-2026-18481](https://vulners.com/nvd/NVD:CVE-2026-18481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18481 Stored XSS in Participant URL Field leads to Account Takeover via Session Token Theft](https://vulners.com/cve/CVE-2026-18481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18481 Stored XSS in Participant URL Field leads to Account Takeover via Session Token Theft](https://vulners.com/cvelist/CVELIST:CVE-2026-18481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18536](https://vulners.com/nvd/NVD:CVE-2026-18536?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-21662](https://vulners.com/nvd/NVD:CVE-2026-21662?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25552](https://vulners.com/nvd/NVD:CVE-2026-25552?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25552 Ghost CLI < 1.30.1 IP Spoofing via X-Forwarded-For Header](https://vulners.com/cve/CVE-2026-25552?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -524,8 +537,10 @@
   - [vim: Vim: Denial of Service via stack out-of-bounds write in spell_soundfold_sofo()](https://vulners.com/redhat/RHSA-2026:48703-CVE-2026-57455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vim: Vim: Out-of-bounds Write in Spell File Word Count](https://vulners.com/redhat/RHSA-2026:48703-CVE-2026-55693?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [15 Best Office Chairs of 2026—We Tested 70 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
   - [7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran](https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/)
   - [Alienware 15 Gaming Laptop Review: Hedging Its Bets](https://www.wired.com/review/alienware-15-gaming-laptop/)
+  - [Best Organic Mattresses (2026): Certified Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattress/)
   - [Boroux vs. Rorra vs. Culligan: Water Filters, Tested Head to Head](https://www.wired.com/story/steel-water-filters-head-to-head/)
   - [Can Republicans Actually Send Anthony Fauci to Jail?](https://www.wired.com/story/can-republicans-actually-send-anthony-fauci-to-jail/)
   - [Chinese AI Researchers Are Finding Their Voice on X](https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/)
@@ -538,6 +553,10 @@
   - [Overview of Content Published in July](https://buaq.net/go-432330.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客园_人怜直节生来瘦，自许高材老更刚。
+  - [一个项目带你 入门AI应用开发02 - bamb00](https://www.cnblogs.com/goodhacker/p/22137472)
+  - [一个项目带你入门AI应用开发01 - bamb00](https://www.cnblogs.com/goodhacker/p/22137356)
+  - [一个项目带你入门AI应用开发03 - bamb00](https://www.cnblogs.com/goodhacker/p/22137580)
 - 量子位 QbitAI
   - [奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了](https://www.qbitai.com/2026/08/464713.html)
 - 黑海洋
