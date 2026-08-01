@@ -12,6 +12,8 @@
 - Der Flounder
   - [Creating Jamf Pro API roles with privileges equivalent to Auditor and Administrator account privilege sets](https://derflounder.wordpress.com/2026/08/01/creating-jamf-pro-api-roles-with-privileges-equivalent-to-auditor-and-administrator-account-privilege-sets/)
 - Hacker News Frontpage
+  - [From MIT: AI financial advice is surprisingly good](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
+  - [Morph (YC S23) Is Hiring Member of Technical Stuff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
   - [Oil companies report sky-high profits thanks to wartime crude prices](https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026)
   - [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
   - [Tell HN: I hate your fuzzy search](https://news.ycombinator.com/item?id=49136990)
@@ -25,12 +27,14 @@
   - [A Year on Omarchy. No Regrets.](https://zolkos.com/2026/08/01/a-year-on-omarchy-no-regrets.html)
 - simonwillison.net
   - [datasette-apps 0.2a0](https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything)
+  - [Quoting Greg Brockman](https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything)
   - [Ten advances in mathematics and theoretical computer science](https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [CineVault-OWASP-Lab exploit](https://sploitus.com/exploit?id=2276F890-1F86-5857-8A69-43FEB0BB9E76&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-10897 exploit](https://sploitus.com/exploit?id=8621154B-988D-565D-BA6B-AD87C7807DE7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-14361 exploit](https://sploitus.com/exploit?id=E869A2E5-6F70-5494-BE5A-28B8BEE8A469&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-14483 exploit](https://sploitus.com/exploit?id=4815F1CE-8393-54F9-9FB1-89C32EDD55A7&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-15964 exploit](https://sploitus.com/exploit?id=C35BE27A-CED0-5CAF-9327-BF1996B864CD&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-9833 exploit](https://sploitus.com/exploit?id=290045E1-8C50-554A-B4E9-8EB2127C1392&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=E6D9AB38-FE17-5067-90C6-81A3208AC542&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -83,6 +87,7 @@
   - [Exploit for CVE-2025-10897](https://vulners.com/githubexploit/8621154B-988D-565D-BA6B-AD87C7807DE7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14361](https://vulners.com/githubexploit/E869A2E5-6F70-5494-BE5A-28B8BEE8A469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14483](https://vulners.com/githubexploit/4815F1CE-8393-54F9-9FB1-89C32EDD55A7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-15964](https://vulners.com/githubexploit/C35BE27A-CED0-5CAF-9327-BF1996B864CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-9833](https://vulners.com/githubexploit/290045E1-8C50-554A-B4E9-8EB2127C1392?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/E6D9AB38-FE17-5067-90C6-81A3208AC542?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-34RH-WP3J-6CXC vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-34RH-WP3J-6CXC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
