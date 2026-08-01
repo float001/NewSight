@@ -18,6 +18,11 @@
   - [Meet the Hackathon Winner: SpyderBot on the Future of Brand Discovery in AI Search](https://hackernoon.com/meet-the-hackathon-winner-spyderbot-on-the-future-of-brand-discovery-in-ai-search?source=rss)
 - johndcook.com
   - [Counting rooted trees](https://www.johndcook.com/blog/2026/08/01/counting-rooted-trees/)
+  - [Why polynomial coefficients?](https://www.johndcook.com/blog/2026/08/01/why-polynomial-coefficients/)
+- Rob Zolkos
+  - [A Year on Omarchy. No Regrets.](https://zolkos.com/2026/08/01/a-year-on-omarchy-no-regrets.html)
+- simonwillison.net
+  - [Ten advances in mathematics and theoretical computer science](https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [CineVault-OWASP-Lab exploit](https://sploitus.com/exploit?id=2276F890-1F86-5857-8A69-43FEB0BB9E76&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-14361 exploit](https://sploitus.com/exploit?id=E869A2E5-6F70-5494-BE5A-28B8BEE8A469&utm_source=rss&utm_medium=rss)
@@ -25,18 +30,23 @@
   - [Exploit for CVE-2026-9833 exploit](https://sploitus.com/exploit?id=290045E1-8C50-554A-B4E9-8EB2127C1392&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=E6D9AB38-FE17-5067-90C6-81A3208AC542&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/)
   - [Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/)
   - [Should you still buy your next smartphone — or subscribe to it instead?](https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/)
   - [YouTuber Hank Green says his AI usage is ‘not healthy’](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/)
+- tedium.co
+  - [Put A Tag On It](https://feed.tedium.co/link/15204/17399769/pricing-guns-vs-barcodes-history)
 - The Block
   - [BNB Chain ‘pursuing legal action’ against former employee over memecoin launched from tutorial wallet](https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss)
   - [Russian decree bans crypto mining across Moscow region through 2032](https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss)
 - The Decoder
   - [AI keeps cracking unsolved math problems, and mathematicians have mixed feelings](https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/)
 - The Verge
+  - [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead)
   - [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop)
   - [Spider-Man: Brand New Day leak racks up millions of views](https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records)
 - VulDB Recent Entries
+  - [CVE-2026-18556 | N-able N-central up to 2026.1 improper authentication](https://vuldb.com/vuln/385312)
   - [CVE-2026-54894 | Ueberauth Guardian up to 2.4.0 Plug Keys keys.ex String.to_atom key allocation of resources](https://vuldb.com/vuln/385308)
   - [CVE-2026-55733 | ueberauth guardian up to 2.4.0 AtomEncoding atom_encoding.ex String.to_atom Value allocation of resources](https://vuldb.com/vuln/385309)
   - [CVE-2026-55734 | Ueberauth Guardian 2.0.0/2.4.0 Permissions permissions.ex Elixir.Guardian.Permissions.encode_permissions allocation of resources](https://vuldb.com/vuln/385310)
@@ -45,9 +55,12 @@
   - [CineVault-OWASP-Lab](https://vulners.com/githubexploit/2276F890-1F86-5857-8A69-43FEB0BB9E76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://vulners.com/thn/THN:DE99E5AACA12C4B48098D041F2576CAC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15662](https://vulners.com/circl/CIRCL:CVE-2026-15662?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18556](https://vulners.com/nvd/NVD:CVE-2026-18556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54894](https://vulners.com/nvd/NVD:CVE-2026-54894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54894 Atom-table exhaustion denial of service in Guardian via unbounded atom creation from binary keys](https://vulners.com/cve/CVE-2026-54894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54894 Atom-table exhaustion denial of service in Guardian via unbounded atom creation from binary keys](https://vulners.com/cvelist/CVELIST:CVE-2026-54894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54908 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-54908?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54909 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-54909?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55733](https://vulners.com/nvd/NVD:CVE-2026-55733?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55733 Atom-table exhaustion denial of service in Guardian permissions AtomEncoding via unbounded atom creation](https://vulners.com/cve/CVE-2026-55733?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55733 Atom-table exhaustion denial of service in Guardian permissions AtomEncoding via unbounded atom creation](https://vulners.com/cvelist/CVELIST:CVE-2026-55733?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -57,10 +70,18 @@
   - [CVE-2026-55735](https://vulners.com/nvd/NVD:CVE-2026-55735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55735 Guardian.revoke/3 acts on unverified token claims, allowing forged-token session revocation](https://vulners.com/cve/CVE-2026-55735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55735 Guardian.revoke/3 acts on unverified token claims, allowing forged-token session revocation](https://vulners.com/cvelist/CVELIST:CVE-2026-55735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56819 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-56819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56819 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-56819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59884 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-59884?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14361](https://vulners.com/githubexploit/E869A2E5-6F70-5494-BE5A-28B8BEE8A469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14483](https://vulners.com/githubexploit/4815F1CE-8393-54F9-9FB1-89C32EDD55A7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-9833](https://vulners.com/githubexploit/290045E1-8C50-554A-B4E9-8EB2127C1392?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/E6D9AB38-FE17-5067-90C6-81A3208AC542?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-34RH-WP3J-6CXC vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-34RH-WP3J-6CXC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-93WV-JW9V-4972 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-93WV-JW9V-4972?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-93WV-JW9V-4972 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-93WV-JW9V-4972?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-M4P7-R5RC-7G4J vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-M4P7-R5RC-7G4J?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-WG4G-WM44-CH5J vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-WG4G-WM44-CH5J?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3185 python-pillow security update](https://vulners.com/osv/OSV:OESA-2026-3185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3186 python-pillow security update](https://vulners.com/osv/OSV:OESA-2026-3186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3187 python-pillow security update](https://vulners.com/osv/OSV:OESA-2026-3187?utm_source=rss&utm_medium=rss&utm_campaign=rss)
