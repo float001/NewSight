@@ -3,9 +3,17 @@
 - 2Libra
   - [什么是奇迹，死而复生就是奇迹！](https://2libra.com/post/good-books/V3H5DnI)
   - [捡了一个有趣的域名](https://2libra.com/post/domain-service/tn2M6Jj)
+- CoinTelegraph
+  - [Minnesota crypto ATM ban goes into effect after reported $1M losses](https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple Q3 2026 Results](https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/)
   - [The Apple Upgrade Situation](https://randsinrepose.com/archives/the-apple-upgrade-situation/)
+- Der Flounder
+  - [Creating Jamf Pro API roles with privileges equivalent to Auditor and Administrator account privilege sets](https://derflounder.wordpress.com/2026/08/01/creating-jamf-pro-api-roles-with-privileges-equivalent-to-auditor-and-administrator-account-privilege-sets/)
+- Hacker News Frontpage
+  - [Oil companies report sky-high profits thanks to wartime crude prices](https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026)
+  - [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
+  - [Tell HN: I hate your fuzzy search](https://news.ycombinator.com/item?id=49136990)
 - HackerNoon
   - [Meet the Hackathon Winner: SpyderBot on the Future of Brand Discovery in AI Search](https://hackernoon.com/meet-the-hackathon-winner-spyderbot-on-the-future-of-brand-discovery-in-ai-search?source=rss)
 - johndcook.com
@@ -15,15 +23,26 @@
   - [Exploit for CVE-2026-14361 exploit](https://sploitus.com/exploit?id=E869A2E5-6F70-5494-BE5A-28B8BEE8A469&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/)
+  - [Should you still buy your next smartphone — or subscribe to it instead?](https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/)
 - The Block
   - [Russian decree bans crypto mining across Moscow region through 2032](https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss)
 - The Decoder
   - [AI keeps cracking unsolved math problems, and mathematicians have mixed feelings](https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/)
 - The Verge
+  - [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop)
   - [Spider-Man: Brand New Day leak racks up millions of views](https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records)
 - Vulners.com RSS Feed
   - [CineVault-OWASP-Lab](https://vulners.com/githubexploit/2276F890-1F86-5857-8A69-43FEB0BB9E76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://vulners.com/thn/THN:DE99E5AACA12C4B48098D041F2576CAC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15662](https://vulners.com/circl/CIRCL:CVE-2026-15662?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54894 Atom-table exhaustion denial of service in Guardian via unbounded atom creation from binary keys](https://vulners.com/cve/CVE-2026-54894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54894 Atom-table exhaustion denial of service in Guardian via unbounded atom creation from binary keys](https://vulners.com/cvelist/CVELIST:CVE-2026-54894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55733 Atom-table exhaustion denial of service in Guardian permissions AtomEncoding via unbounded atom creation](https://vulners.com/cve/CVE-2026-55733?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55733 Atom-table exhaustion denial of service in Guardian permissions AtomEncoding via unbounded atom creation](https://vulners.com/cvelist/CVELIST:CVE-2026-55733?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55734 guardian atom exhaustion in Guardian.Permissions.encode_permissions!/1](https://vulners.com/cve/CVE-2026-55734?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55734 guardian atom exhaustion in Guardian.Permissions.encode_permissions!/1](https://vulners.com/cvelist/CVELIST:CVE-2026-55734?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55735 Guardian.revoke/3 acts on unverified token claims, allowing forged-token session revocation](https://vulners.com/cve/CVE-2026-55735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55735 Guardian.revoke/3 acts on unverified token claims, allowing forged-token session revocation](https://vulners.com/cvelist/CVELIST:CVE-2026-55735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14361](https://vulners.com/githubexploit/E869A2E5-6F70-5494-BE5A-28B8BEE8A469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3185 python-pillow security update](https://vulners.com/osv/OSV:OESA-2026-3185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3186 python-pillow security update](https://vulners.com/osv/OSV:OESA-2026-3186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
