@@ -4,14 +4,20 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Agent Fone](https://fail.xyz/phone/)
+  - [Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App](https://www.ycrootaccess.com/p/boris-cherny-building-claude-code)
+- Data Breach
+  - [CareCloud Breach Exposes Medical and Financial Data of 345,000](https://securityaffairs.com/196480/cyber-crime/carecloud-breach-exposes-medical-and-financial-data-of-345000.html)
 - Hacker News Frontpage
   - [EU rules on AI models become enforceable. What's going to change?](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
   - [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)
 - johndcook.com
   - [Estimating a cumulative sum](https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/)
+  - [Holonomic functions](https://www.johndcook.com/blog/2026/08/02/holonomic-functions/)
 - Sploitus.com Exploits RSS Feed
   - [DeskFrame exploit](https://sploitus.com/exploit?id=14A04066-FA04-5C3B-ABC1-2501BEC8A477&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://sploitus.com/exploit?id=FCE4386F-0EEF-54FF-9056-202822791688&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Sam Altman and AI’s decel debate](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/)
 - The Block
   - [Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’](https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss)
 - The Verge
@@ -22,6 +28,11 @@
   - [CVE-2026-18583 | mz-automation libiec61850 up to 1.6.1 MMS Request mms_mapping.c checkDataSetAccess out-of-bounds (GHSA-7v2x-39mw-2979)](https://vuldb.com/vuln/385412)
   - [CVE-2026-18584 | GL.iNet E5800/E750/X2000/X3000/XE3000/XE300 up to 20260707 eSIM LPA API /sdk/v1 improper authorization](https://vuldb.com/vuln/385413)
   - [CVE-2026-18585 | GL.iNet MT2500 up to 20260707 APPS-NAS nas-web.get_file_list heap-based overflow](https://vuldb.com/vuln/385414)
+  - [CVE-2026-18587 | Wavlink WL-NU516U1 708c073-mt7628 Config Import Password os command injection](https://vuldb.com/vuln/385415)
+  - [CVE-2026-18588 | Wavlink WL-NU516U1 708c073-mt7628 nas.cgi fgets CONTENT_LENGTH stack-based overflow](https://vuldb.com/vuln/385416)
+  - [CVE-2026-18589 | Wavlink WL-NU516U1 708c073-mt7628 nas.cgi change_password User1Passwd stack-based overflow](https://vuldb.com/vuln/385417)
+  - [CVE-2026-18590 | Wavlink WL-NU516U1 708c073-mt7628 Admin Password adm.cgi set_sys_adm os command injection](https://vuldb.com/vuln/385418)
+  - [CVE-2026-18591 | Meesho Online Shopping App up to 20260607 on Android com.meesho.supply user_id/phone number/email address/name cleartext storage](https://vuldb.com/vuln/385419)
   - [CVE-2026-57446 | mz-automation libiec61850 up to 1.6.1 MMS ObtainFile Task mms_file_service.c fileHandle double free (GHSA-cxgr-7v9h-fj9p)](https://vuldb.com/vuln/385410)
 - Vulners.com RSS Feed
   - [CVE-2026-10848](https://vulners.com/nvd/NVD:CVE-2026-10848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -33,5 +44,7 @@
   - [Exploit for CVE-2026-13714](https://vulners.com/githubexploit/1274EBDA-404A-5970-B0D4-87A57CAA4FC3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://vulners.com/githubexploit/FCE4386F-0EEF-54FF-9056-202822791688?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: IBM Db2 Developer Extension is affected by vulnerability in log4j core (CVE-2026-34477, CVE-2026-34478)](https://vulners.com/ibm/716F5A385E765D70F3309C92237A44BE1A7477215823AEBFB22F9AAA3E6A4218?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [totolink-exploit](https://vulners.com/githubexploit/42FAAC59-3E7B-54A8-9A4A-F23F24D7946B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [totolink-exploit](https://vulners.com/githubexploit/E4A8E2AD-FA10-55EA-B919-B8113FF62373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
