@@ -10,6 +10,10 @@
 - Hacker News Frontpage
   - [EU rules on AI models become enforceable. What's going to change?](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
   - [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)
+- HackerNoon
+  - [Beyond Simple Prompts: Engineering Self-Reflection & Actor-Critic Loops in AI Agents](https://hackernoon.com/beyond-simple-prompts-engineering-self-reflection-and-actor-critic-loops-in-ai-agents?source=rss)
+  - [Crypto Exchanges Are Quietly Becoming Financial Operating Systems](https://hackernoon.com/crypto-exchanges-are-quietly-becoming-financial-operating-systems?source=rss)
+  - [Dashboard Trust Is a Data Governance Problem, Not a BI Tool Problem](https://hackernoon.com/dashboard-trust-is-a-data-governance-problem-not-a-bi-tool-problem?source=rss)
 - johndcook.com
   - [Estimating a cumulative sum](https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/)
   - [Holonomic functions](https://www.johndcook.com/blog/2026/08/02/holonomic-functions/)
@@ -18,8 +22,10 @@
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://sploitus.com/exploit?id=FCE4386F-0EEF-54FF-9056-202822791688&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Sam Altman and AI’s decel debate](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/)
+  - [The global memory shortage hits the MacBook Air](https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/)
 - The Block
   - [Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’](https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss)
+  - [SEC keeps Nasdaq bitcoin options on hold after granting CME review](https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&utm_medium=rss)
 - The Verge
   - [Fender’s CEO seems to think your bandmates are just analog AI](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music)
   - [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
@@ -33,6 +39,7 @@
   - [CVE-2026-18589 | Wavlink WL-NU516U1 708c073-mt7628 nas.cgi change_password User1Passwd stack-based overflow](https://vuldb.com/vuln/385417)
   - [CVE-2026-18590 | Wavlink WL-NU516U1 708c073-mt7628 Admin Password adm.cgi set_sys_adm os command injection](https://vuldb.com/vuln/385418)
   - [CVE-2026-18591 | Meesho Online Shopping App up to 20260607 on Android com.meesho.supply user_id/phone number/email address/name cleartext storage](https://vuldb.com/vuln/385419)
+  - [CVE-2026-18593 | vxcontrol PentAGI up to 2.1.0 Tool Management Protocol pentester.tmpl sandbox](https://vuldb.com/vuln/385421)
   - [CVE-2026-57446 | mz-automation libiec61850 up to 1.6.1 MMS ObtainFile Task mms_file_service.c fileHandle double free (GHSA-cxgr-7v9h-fj9p)](https://vuldb.com/vuln/385410)
 - Vulners.com RSS Feed
   - [CVE-2026-10848](https://vulners.com/nvd/NVD:CVE-2026-10848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
