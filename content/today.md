@@ -2,6 +2,7 @@
 
 - 2Libra
   - [Shigure 时雨：一款集成番茄钟、秒表、白噪音、禅模式的网页多功能计时器](https://2libra.com/post/open-source-tools/b7ERzXR)
+  - [【首发】又一个社区极简匿名版日记版-我版](https://2libra.com/post/promotion/G3-djlT)
   - [什么是奇迹，死而复生就是奇迹！](https://2libra.com/post/good-books/V3H5DnI)
   - [抱歉今天更新不了龙虎榜了，分享点照片吧](https://2libra.com/post/travel-logs/k5FfVwo)
   - [捡了一个有趣的域名](https://2libra.com/post/domain-service/tn2M6Jj)
@@ -97,6 +98,7 @@
   - [Exploit for CVE-2026-9833 exploit](https://sploitus.com/exploit?id=290045E1-8C50-554A-B4E9-8EB2127C1392&utm_source=rss&utm_medium=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Apple Ipados exploit](https://sploitus.com/exploit?id=9E8549C7-BDFC-5179-BB6B-9764F8E92C4A&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3 exploit](https://sploitus.com/exploit?id=E2C1A721-D4EF-51AF-BD14-5E97625D26F3&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo exploit](https://sploitus.com/exploit?id=FE3D5CA4-A6FD-50C1-A951-EA3701DACDDA&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Vmware Cloud_Foundation exploit](https://sploitus.com/exploit?id=FEDB6C6D-B7C5-53E1-8F84-5ADF586A723B&utm_source=rss&utm_medium=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Rsjoomla Rsfiles\! exploit](https://sploitus.com/exploit?id=5EF7DE3B-0FFD-5474-8BD5-9CC13B531FFE&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=DBCCC43D-2352-57B4-ADF7-0BB84AF85B94&utm_source=rss&utm_medium=rss)
@@ -133,6 +135,7 @@
   - [HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was](https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review)
   - [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop)
   - [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak)
+  - [Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale](https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale)
   - [Spider-Man: Brand New Day leak racks up millions of views](https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records)
 - VulDB Recent Entries
   - [CVE-2025-15675 | Charitable Plugin 1.5.14 on WordPress cross site scripting](https://vuldb.com/vuln/385334)
@@ -193,6 +196,8 @@
   - [CVE-2025-71399](https://vulners.com/nvd/NVD:CVE-2025-71399?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71400](https://vulners.com/nvd/NVD:CVE-2025-71400?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71401](https://vulners.com/nvd/NVD:CVE-2025-71401?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10774 PSA key-slot leak in Bluetooth Mesh subnet deletion leading to resource-exhaustion DoS](https://vulners.com/cve/CVE-2026-10774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10774 PSA key-slot leak in Bluetooth Mesh subnet deletion leading to resource-exhaustion DoS](https://vulners.com/cvelist/CVELIST:CVE-2026-10774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11872](https://vulners.com/nvd/NVD:CVE-2026-11872?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12231](https://vulners.com/nvd/NVD:CVE-2026-12231?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12231 Exclusive Addons for Elementor <= 2.7.9.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'exad_infobox_image'](https://vulners.com/cve/CVE-2026-12231?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -283,6 +288,7 @@
   - [Exploit for CVE-2026-9833](https://vulners.com/githubexploit/290045E1-8C50-554A-B4E9-8EB2127C1392?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Apple Ipados](https://vulners.com/githubexploit/9E8549C7-BDFC-5179-BB6B-9764F8E92C4A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3](https://vulners.com/githubexploit/E2C1A721-D4EF-51AF-BD14-5E97625D26F3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://vulners.com/githubexploit/FE3D5CA4-A6FD-50C1-A951-EA3701DACDDA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Vmware Cloud_Foundation](https://vulners.com/githubexploit/FEDB6C6D-B7C5-53E1-8F84-5ADF586A723B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Rsjoomla Rsfiles\!](https://vulners.com/githubexploit/5EF7DE3B-0FFD-5474-8BD5-9CC13B531FFE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/DBCCC43D-2352-57B4-ADF7-0BB84AF85B94?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -343,6 +349,7 @@
   - [YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline](https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/)
 - 不安全
   - [即便玩家发起请愿也不行 索尼高管称仔细考虑后决定继续停产实体游戏光盘](https://buaq.net/go-432418.html)
+  - [有催人跑的意思 —— 使用 PPPoE 半桥帮助 UniFi 网关突破性能瓶颈](https://buaq.net/go-432427.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客园_人怜直节生来瘦，自许高材老更刚。
@@ -351,5 +358,7 @@
   - [一个项目带你入门AI应用开发05 - bamb00](https://www.cnblogs.com/goodhacker/p/22148759)
 - 安全客
   - [纳米Work企业版正式启动全国各级渠道城市合伙人招募](https://www.anquanke.com/post/id/315908)
+- 表图
+  - [中国应该如何发布第一个能自主完成端到端网络攻击的 AI 模型？](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485145&idx=1&sn=a83eedd90b0f1a79ceb75603c82f9860)
 - 黑海洋
   - [中国最高薪本科专业易主：计算机类整体下滑，“微电子科学与工程”首夺第一](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%AB%98%E8%96%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%98%93%E4%B8%BB-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB%E6%95%B4%E4%BD%93%E4%B8%8B%E6%BB%91-%E5%BE%AE%E7%94%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B-%E9%A6%96%E5%A4%BA%E7%AC%AC%E4%B8%80)
