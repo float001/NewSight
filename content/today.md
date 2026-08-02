@@ -1,8 +1,11 @@
 # 今日安全资讯（2026-08-03）
 
+- CoinTelegraph
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Agent Fone](https://fail.xyz/phone/)
 - Hacker News Frontpage
+  - [EU rules on AI models become enforceable. What's going to change?](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
   - [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)
 - johndcook.com
   - [Estimating a cumulative sum](https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/)
@@ -12,7 +15,14 @@
 - The Block
   - [Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’](https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss)
 - The Verge
+  - [Fender’s CEO seems to think your bandmates are just analog AI](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music)
   - [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
+- VulDB Recent Entries
+  - [CVE-2026-18582 | mz-automation libiec61850 up to 1.6.1 Report Sending Path reporting.c Reporting_RCBWriteAccessHandler free of memory not on the heap (GHSA-7qg8-hm25-rv5v)](https://vuldb.com/vuln/385411)
+  - [CVE-2026-18583 | mz-automation libiec61850 up to 1.6.1 MMS Request mms_mapping.c checkDataSetAccess out-of-bounds (GHSA-7v2x-39mw-2979)](https://vuldb.com/vuln/385412)
+  - [CVE-2026-18584 | GL.iNet E5800/E750/X2000/X3000/XE3000/XE300 up to 20260707 eSIM LPA API /sdk/v1 improper authorization](https://vuldb.com/vuln/385413)
+  - [CVE-2026-18585 | GL.iNet MT2500 up to 20260707 APPS-NAS nas-web.get_file_list heap-based overflow](https://vuldb.com/vuln/385414)
+  - [CVE-2026-57446 | mz-automation libiec61850 up to 1.6.1 MMS ObtainFile Task mms_file_service.c fileHandle double free (GHSA-cxgr-7v9h-fj9p)](https://vuldb.com/vuln/385410)
 - Vulners.com RSS Feed
   - [CVE-2026-10848](https://vulners.com/nvd/NVD:CVE-2026-10848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10848 Out-of-bounds read in Zephyr OCPP 1.6 RPC message parser (parse_rpc_msg)](https://vulners.com/cve/CVE-2026-10848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -22,5 +32,6 @@
   - [Exploit for CVE-2025-48932](https://vulners.com/githubexploit/A6CF65DF-A489-568C-AB1F-5752A75A10E5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-13714](https://vulners.com/githubexploit/1274EBDA-404A-5970-B0D4-87A57CAA4FC3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://vulners.com/githubexploit/FCE4386F-0EEF-54FF-9056-202822791688?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: IBM Db2 Developer Extension is affected by vulnerability in log4j core (CVE-2026-34477, CVE-2026-34478)](https://vulners.com/ibm/716F5A385E765D70F3309C92237A44BE1A7477215823AEBFB22F9AAA3E6A4218?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
