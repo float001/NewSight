@@ -15,6 +15,7 @@
   - [电影《八仙！》票房突破11亿](https://36kr.com/newsflashes/3921707896565376?f=rss)
   - [金富科技：公司液冷产能和订单销量实现同比、环比稳步攀升](https://36kr.com/newsflashes/3921703822273925?f=rss)
   - [金风科技参建Ummbila Emoyeni一期风电项目实现商业运营](https://36kr.com/newsflashes/3921704795057793?f=rss)
+  - [银河证券：Kimi K3正式开源重塑大模型商业生态，建议关注国产超节点及产业链相关公司](https://36kr.com/newsflashes/3921888283848068?f=rss)
   - [长三角（嘉兴）Token运营中心正式启动](https://36kr.com/newsflashes/3921838043065736?f=rss)
 - CoinTelegraph
   - [Minnesota crypto ATM ban goes into effect after reported $1M losses](https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -46,6 +47,8 @@
   - [A Year on Omarchy. No Regrets.](https://zolkos.com/2026/08/01/a-year-on-omarchy-no-regrets.html)
 - simonwillison.net
   - [datasette-apps 0.2a0](https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything)
+  - [July 2026 newsletter](https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything)
+  - [Open letters about AI development](https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything)
   - [Quoting Greg Brockman](https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything)
   - [Ten advances in mathematics and theoretical computer science](https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -174,10 +177,13 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wp2shell-ultimate](https://vulners.com/githubexploit/77B2CE51-9BAF-5865-8E87-500346C2A6EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [即便玩家发起请愿也不行 索尼高管称仔细考虑后决定继续停产实体游戏光盘](https://buaq.net/go-432418.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客园_人怜直节生来瘦，自许高材老更刚。
   - [一个项目带你入门AI应用开发04 - bamb00](https://www.cnblogs.com/goodhacker/p/22139916)
   - [一个项目带你入门AI应用开发05 - bamb00](https://www.cnblogs.com/goodhacker/p/22140367)
+  - [一个项目带你入门AI应用开发05 - bamb00](https://www.cnblogs.com/goodhacker/p/22148759)
 - 安全客
   - [纳米Work企业版正式启动全国各级渠道城市合伙人招募](https://www.anquanke.com/post/id/315908)
