@@ -1,5 +1,8 @@
 # 今日安全资讯（2026-08-03）
 
+- 36氪
+  - [2026年度电影总票房超231亿元，市场热度持续走高](https://36kr.com/newsflashes/3922971159948929?f=rss)
+  - [美联储9月加息25个基点的概率为73.6%](https://36kr.com/newsflashes/3922972821892480?f=rss)
 - CoinTelegraph
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -8,6 +11,7 @@
 - Data Breach
   - [CareCloud Breach Exposes Medical and Financial Data of 345,000](https://securityaffairs.com/196480/cyber-crime/carecloud-breach-exposes-medical-and-financial-data-of-345000.html)
 - Hacker News Frontpage
+  - [Californians' data deletion requests, DROP, become enforceable Aug. 1](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
   - [EU rules on AI models become enforceable. What's going to change?](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
   - [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)
 - HackerNoon
@@ -45,10 +49,13 @@
   - [CVE-2026-10848](https://vulners.com/nvd/NVD:CVE-2026-10848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10848 Out-of-bounds read in Zephyr OCPP 1.6 RPC message parser (parse_rpc_msg)](https://vulners.com/cve/CVE-2026-10848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10848 Out-of-bounds read in Zephyr OCPP 1.6 RPC message parser (parse_rpc_msg)](https://vulners.com/cvelist/CVELIST:CVE-2026-10848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18577 Incomplete patch leads to administrative account takeover](https://vulners.com/cve/CVE-2026-18577?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18577 Incomplete patch leads to administrative account takeover](https://vulners.com/cvelist/CVELIST:CVE-2026-18577?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9856](https://vulners.com/nvd/NVD:CVE-2026-9856?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DeskFrame](https://vulners.com/gitee/14A04066-FA04-5C3B-ABC1-2501BEC8A477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-48932](https://vulners.com/githubexploit/A6CF65DF-A489-568C-AB1F-5752A75A10E5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-13714](https://vulners.com/githubexploit/1274EBDA-404A-5970-B0D4-87A57CAA4FC3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Authentication in Hikvision Ds-2Cd2032-I_Firmware](https://vulners.com/githubexploit/0D0B7E03-E67E-5218-BB1B-2CADF8847D68?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://vulners.com/githubexploit/FCE4386F-0EEF-54FF-9056-202822791688?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: IBM Db2 Developer Extension is affected by vulnerability in log4j core (CVE-2026-34477, CVE-2026-34478)](https://vulners.com/ibm/716F5A385E765D70F3309C92237A44BE1A7477215823AEBFB22F9AAA3E6A4218?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [totolink-exploit](https://vulners.com/githubexploit/42FAAC59-3E7B-54A8-9A4A-F23F24D7946B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
