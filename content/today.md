@@ -6,13 +6,16 @@
   - [捡了一个有趣的域名](https://2libra.com/post/domain-service/tn2M6Jj)
   - [每日微语报 8 月 2 日](https://2libra.com/post/social-observation/uQhWK4D)
 - 36氪
+  - [上半年全国二手房交易占比超新房](https://36kr.com/newsflashes/3921834901974659?f=rss)
   - [今年上半年北京“双枢纽”机场进出口超4000亿元](https://36kr.com/newsflashes/3921706031721861?f=rss)
   - [吉利汽车集团架构调整 林杰任销售总公司总经理](https://36kr.com/newsflashes/3921773406268802?f=rss)
   - [小米多款手机今起正式涨价](https://36kr.com/newsflashes/3921712210898566?f=rss)
+  - [微信地震预警能力更新，地震预警小程序可反馈震感](https://36kr.com/newsflashes/3921848794164866?f=rss)
   - [无锡：上半年新签约10亿元以上产业项目78个 签约金额1758.38亿元](https://36kr.com/newsflashes/3921713668566657?f=rss)
   - [电影《八仙！》票房突破11亿](https://36kr.com/newsflashes/3921707896565376?f=rss)
   - [金富科技：公司液冷产能和订单销量实现同比、环比稳步攀升](https://36kr.com/newsflashes/3921703822273925?f=rss)
   - [金风科技参建Ummbila Emoyeni一期风电项目实现商业运营](https://36kr.com/newsflashes/3921704795057793?f=rss)
+  - [长三角（嘉兴）Token运营中心正式启动](https://36kr.com/newsflashes/3921838043065736?f=rss)
 - CoinTelegraph
   - [Minnesota crypto ATM ban goes into effect after reported $1M losses](https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Onchain, in court: What happened in crypto legal news this week](https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -26,12 +29,14 @@
   - [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)
   - [From MIT: AI financial advice is surprisingly good](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
   - [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
+  - [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
   - [Morph (YC S23) Is Hiring Member of Technical Stuff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
   - [Oil companies report sky-high profits thanks to wartime crude prices](https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026)
   - [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
   - [Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
   - [Tell HN: I hate your fuzzy search](https://news.ycombinator.com/item?id=49136990)
   - [The 14 Steps it takes to open my office door with a new phone](https://shub.club/writings/2026/august/14-steps-to-open-a-door/)
+  - [The teenage hitmen recruited to kill across Europe](https://www.bbc.com/news/articles/czrjyevmv61o)
 - HackerNoon
   - [Meet the Hackathon Winner: SpyderBot on the Future of Brand Discovery in AI Search](https://hackernoon.com/meet-the-hackathon-winner-spyderbot-on-the-future-of-brand-discovery-in-ai-search?source=rss)
 - johndcook.com
@@ -46,6 +51,7 @@
 - Sploitus.com Exploits RSS Feed
   - [CineVault-OWASP-Lab exploit](https://sploitus.com/exploit?id=2276F890-1F86-5857-8A69-43FEB0BB9E76&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2025-10897 exploit](https://sploitus.com/exploit?id=8621154B-988D-565D-BA6B-AD87C7807DE7&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-68937 exploit](https://sploitus.com/exploit?id=C6FB54E1-7814-566E-BB01-D870F5800C80&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-14361 exploit](https://sploitus.com/exploit?id=E869A2E5-6F70-5494-BE5A-28B8BEE8A469&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-14483 exploit](https://sploitus.com/exploit?id=4815F1CE-8393-54F9-9FB1-89C32EDD55A7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-15964 exploit](https://sploitus.com/exploit?id=C35BE27A-CED0-5CAF-9327-BF1996B864CD&utm_source=rss&utm_medium=rss)
@@ -53,6 +59,7 @@
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Apple Ipados exploit](https://sploitus.com/exploit?id=9E8549C7-BDFC-5179-BB6B-9764F8E92C4A&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3 exploit](https://sploitus.com/exploit?id=E2C1A721-D4EF-51AF-BD14-5E97625D26F3&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=E6D9AB38-FE17-5067-90C6-81A3208AC542&utm_source=rss&utm_medium=rss)
+  - [wp2shell-ultimate exploit](https://sploitus.com/exploit?id=77B2CE51-9BAF-5865-8E87-500346C2A6EE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Inside the London hacker house taking a stand against founder burnout](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
   - [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/)
@@ -118,6 +125,7 @@
   - [CVE-2026-8457](https://vulners.com/nvd/NVD:CVE-2026-8457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8457 WooCommerce - Social Login <= 2.8.7 - Unauthenticated Authentication Bypass via Forged Apple 'id_token' JWT](https://vulners.com/cvelist/CVELIST:CVE-2026-8457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-10897](https://vulners.com/githubexploit/8621154B-988D-565D-BA6B-AD87C7807DE7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2025-68937](https://vulners.com/githubexploit/C6FB54E1-7814-566E-BB01-D870F5800C80?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14361](https://vulners.com/githubexploit/E869A2E5-6F70-5494-BE5A-28B8BEE8A469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14483](https://vulners.com/githubexploit/4815F1CE-8393-54F9-9FB1-89C32EDD55A7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-15964](https://vulners.com/githubexploit/C35BE27A-CED0-5CAF-9327-BF1996B864CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -165,6 +173,7 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [wp2shell-ultimate](https://vulners.com/githubexploit/77B2CE51-9BAF-5865-8E87-500346C2A6EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客园_人怜直节生来瘦，自许高材老更刚。
