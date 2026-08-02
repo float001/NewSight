@@ -6,19 +6,27 @@
   - [捡了一个有趣的域名](https://2libra.com/post/domain-service/tn2M6Jj)
   - [每日微语报 8 月 2 日](https://2libra.com/post/social-observation/uQhWK4D)
 - 36氪
+  - [一博科技：上半年净利润同比增长1562% PCB工厂订单增长势头良好](https://36kr.com/newsflashes/3922079463615872?f=rss)
   - [上半年全国二手房交易占比超新房](https://36kr.com/newsflashes/3921834901974659?f=rss)
+  - [下周央行公开市场将有18420亿元逆回购到期](https://36kr.com/newsflashes/3922069720592004?f=rss)
   - [中国产品包揽全球大模型调用量前五](https://36kr.com/newsflashes/3921989528432259?f=rss)
   - [今年上半年北京“双枢纽”机场进出口超4000亿元](https://36kr.com/newsflashes/3921706031721861?f=rss)
   - [吉利汽车集团架构调整 林杰任销售总公司总经理](https://36kr.com/newsflashes/3921773406268802?f=rss)
+  - [央行：完善金融市场宏观审慎管理指标体系，探索丰富金融市场宏观审慎管理工具箱](https://36kr.com/newsflashes/3922066245922184?f=rss)
+  - [央行：提高金融服务实体经济质效 高质量建设债券市场“科技板”](https://36kr.com/newsflashes/3922066899054208?f=rss)
+  - [央行：继续做好金融支持地方政府融资平台债务风险化解工作 推进融资平台市场化转型](https://36kr.com/newsflashes/3922068248260229?f=rss)
+  - [央行：继续实施好适度宽松的货币政策](https://36kr.com/newsflashes/3922067356315266?f=rss)
   - [小米多款手机今起正式涨价](https://36kr.com/newsflashes/3921712210898566?f=rss)
   - [微信地震预警能力更新，地震预警小程序可反馈震感](https://36kr.com/newsflashes/3921848794164866?f=rss)
   - [新一代通信网建设加快，千兆光网覆盖超九成国民经济大类](https://36kr.com/newsflashes/3921943840353668?f=rss)
   - [无锡：上半年新签约10亿元以上产业项目78个 签约金额1758.38亿元](https://36kr.com/newsflashes/3921713668566657?f=rss)
   - [电影《八仙！》票房突破11亿](https://36kr.com/newsflashes/3921707896565376?f=rss)
+  - [谷歌地球紧急叫停AI生图：虚构场景可叠加卫星图散播假信息](https://36kr.com/newsflashes/3922077104664199?f=rss)
   - [金富科技：公司液冷产能和订单销量实现同比、环比稳步攀升](https://36kr.com/newsflashes/3921703822273925?f=rss)
   - [金风科技参建Ummbila Emoyeni一期风电项目实现商业运营](https://36kr.com/newsflashes/3921704795057793?f=rss)
   - [银河证券：Kimi K3正式开源重塑大模型商业生态，建议关注国产超节点及产业链相关公司](https://36kr.com/newsflashes/3921888283848068?f=rss)
   - [长三角（嘉兴）Token运营中心正式启动](https://36kr.com/newsflashes/3921838043065736?f=rss)
+  - [长安汽车：7月交付20.71万辆](https://36kr.com/newsflashes/3922078266420608?f=rss)
 - CoinTelegraph
   - [Minnesota crypto ATM ban goes into effect after reported $1M losses](https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Onchain, in court: What happened in crypto legal news this week](https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -66,6 +74,7 @@
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Apple Ipados exploit](https://sploitus.com/exploit?id=9E8549C7-BDFC-5179-BB6B-9764F8E92C4A&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3 exploit](https://sploitus.com/exploit?id=E2C1A721-D4EF-51AF-BD14-5E97625D26F3&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=E6D9AB38-FE17-5067-90C6-81A3208AC542&utm_source=rss&utm_medium=rss)
+  - [thm_ctf exploit](https://sploitus.com/exploit?id=6DD14DD1-5611-5B81-8F58-AEDF39B0F763&utm_source=rss&utm_medium=rss)
   - [wp2shell-ultimate exploit](https://sploitus.com/exploit?id=77B2CE51-9BAF-5865-8E87-500346C2A6EE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Inside the London hacker house taking a stand against founder burnout](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
@@ -80,6 +89,7 @@
   - [Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters](https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss)
   - [Russian decree bans crypto mining across Moscow region through 2032](https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss)
 - The Decoder
+  - [After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior](https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/)
   - [AI keeps cracking unsolved math problems, and mathematicians have mixed feelings](https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/)
   - [Snap and LinkedIn are fighting back against a flood of low-quality AI content](https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/)
 - The Verge
@@ -252,6 +262,7 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [thm_ctf](https://vulners.com/githubexploit/6DD14DD1-5611-5B81-8F58-AEDF39B0F763?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wp2shell-ultimate](https://vulners.com/githubexploit/77B2CE51-9BAF-5865-8E87-500346C2A6EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)
