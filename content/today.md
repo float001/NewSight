@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-08-03）
 
+- daringfireball.net
+  - [Agent Fone](https://fail.xyz/phone/)
 - Hacker News Frontpage
   - [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)
 - johndcook.com
@@ -7,6 +9,8 @@
 - Sploitus.com Exploits RSS Feed
   - [DeskFrame exploit](https://sploitus.com/exploit?id=14A04066-FA04-5C3B-ABC1-2501BEC8A477&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://sploitus.com/exploit?id=FCE4386F-0EEF-54FF-9056-202822791688&utm_source=rss&utm_medium=rss)
+- The Block
+  - [Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’](https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss)
 - The Verge
   - [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
 - Vulners.com RSS Feed
