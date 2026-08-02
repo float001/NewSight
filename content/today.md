@@ -11,6 +11,7 @@
   - [吉利汽车集团架构调整 林杰任销售总公司总经理](https://36kr.com/newsflashes/3921773406268802?f=rss)
   - [小米多款手机今起正式涨价](https://36kr.com/newsflashes/3921712210898566?f=rss)
   - [微信地震预警能力更新，地震预警小程序可反馈震感](https://36kr.com/newsflashes/3921848794164866?f=rss)
+  - [新一代通信网建设加快，千兆光网覆盖超九成国民经济大类](https://36kr.com/newsflashes/3921943840353668?f=rss)
   - [无锡：上半年新签约10亿元以上产业项目78个 签约金额1758.38亿元](https://36kr.com/newsflashes/3921713668566657?f=rss)
   - [电影《八仙！》票房突破11亿](https://36kr.com/newsflashes/3921707896565376?f=rss)
   - [金富科技：公司液冷产能和订单销量实现同比、环比稳步攀升](https://36kr.com/newsflashes/3921703822273925?f=rss)
@@ -91,6 +92,7 @@
   - [CVE-2026-55734 | Ueberauth Guardian 2.0.0/2.4.0 Permissions permissions.ex Elixir.Guardian.Permissions.encode_permissions allocation of resources](https://vuldb.com/vuln/385310)
   - [CVE-2026-55735 | ueberauth guardian up to 2.4.0 lib/guardian.ex Guardian.revoke signature verification](https://vuldb.com/vuln/385311)
   - [CVE-2026-8457 | WPWeb Social Login Plugin up to 2.8.7 on WordPress Apple Login improper authentication](https://vuldb.com/vuln/385313)
+  - [CVE-2026-9335 | keras-team Keras up to 3.14.0 HDF5 Link keras.saving.load_weights information disclosure](https://vuldb.com/vuln/385316)
 - Vulners.com RSS Feed
   - [[SECURITY] Fedora 43 Update: coturn-4.15.0-1.fc43](https://vulners.com/fedora/FEDORA:469EF765AE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: lemonldap-ng-2.23.2-1.fc43](https://vulners.com/fedora/FEDORA:BB65476651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -105,6 +107,14 @@
   - [CVE-2026-18352](https://vulners.com/nvd/NVD:CVE-2026-18352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18352 User Access Manager <= 2.3.15 - Unauthenticated Arbitrary File Read via 'uamgetfile' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-18352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18556](https://vulners.com/nvd/NVD:CVE-2026-18556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18570](https://vulners.com/cve/CVE-2026-18570?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18570](https://vulners.com/redhatcve/RH:CVE-2026-18570?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18571](https://vulners.com/cve/CVE-2026-18571?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18571](https://vulners.com/redhatcve/RH:CVE-2026-18571?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18572](https://vulners.com/cve/CVE-2026-18572?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18572](https://vulners.com/redhatcve/RH:CVE-2026-18572?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18573](https://vulners.com/cve/CVE-2026-18573?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18573](https://vulners.com/redhatcve/RH:CVE-2026-18573?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41695 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-41695?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54894](https://vulners.com/nvd/NVD:CVE-2026-54894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54894 Atom-table exhaustion denial of service in Guardian via unbounded atom creation from binary keys](https://vulners.com/cve/CVE-2026-54894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -127,6 +137,7 @@
   - [CVE-2026-59939 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-59939?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8457](https://vulners.com/nvd/NVD:CVE-2026-8457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8457 WooCommerce - Social Login <= 2.8.7 - Unauthenticated Authentication Bypass via Forged Apple 'id_token' JWT](https://vulners.com/cvelist/CVELIST:CVE-2026-8457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9335](https://vulners.com/nvd/NVD:CVE-2026-9335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-10897](https://vulners.com/githubexploit/8621154B-988D-565D-BA6B-AD87C7807DE7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-68937](https://vulners.com/githubexploit/C6FB54E1-7814-566E-BB01-D870F5800C80?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14361](https://vulners.com/githubexploit/E869A2E5-6F70-5494-BE5A-28B8BEE8A469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -177,6 +188,8 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wp2shell-ultimate](https://vulners.com/githubexploit/77B2CE51-9BAF-5865-8E87-500346C2A6EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)
 - 不安全
   - [即便玩家发起请愿也不行 索尼高管称仔细考虑后决定继续停产实体游戏光盘](https://buaq.net/go-432418.html)
 - 代码审计星球
