@@ -38,6 +38,8 @@
   - [长安汽车：7月交付20.71万辆](https://36kr.com/newsflashes/3922078266420608?f=rss)
   - [雷军：小米正式推出小米龙甲电池体系](https://36kr.com/newsflashes/3922092589805191?f=rss)
 - CoinTelegraph
+  - [BNB Chain pursues legal action after ex-employee’s memecoin launch](https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Minnesota crypto ATM ban goes into effect after reported $1M losses](https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Onchain, in court: What happened in crypto legal news this week](https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC](https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -63,6 +65,7 @@
   - [Tell HN: I hate your fuzzy search](https://news.ycombinator.com/item?id=49136990)
   - [The 14 Steps it takes to open my office door with a new phone](https://shub.club/writings/2026/august/14-steps-to-open-a-door/)
   - [The teenage hitmen recruited to kill across Europe](https://www.bbc.com/news/articles/czrjyevmv61o)
+  - [Wikimedia Foundation refuses union recognition, hires union-busting law firm](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes)
 - HackerNoon
   - [Meet the Hackathon Winner: SpyderBot on the Future of Brand Discovery in AI Search](https://hackernoon.com/meet-the-hackathon-winner-spyderbot-on-the-future-of-brand-discovery-in-ai-search?source=rss)
 - johndcook.com
@@ -84,6 +87,7 @@
   - [Exploit for CVE-2026-14483 exploit](https://sploitus.com/exploit?id=4815F1CE-8393-54F9-9FB1-89C32EDD55A7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-15964 exploit](https://sploitus.com/exploit?id=C35BE27A-CED0-5CAF-9327-BF1996B864CD&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-58424 exploit](https://sploitus.com/exploit?id=53B6B9C6-5A4C-57DB-913E-E9A91C88A5D2&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-9811 exploit](https://sploitus.com/exploit?id=613D58F7-BE83-5DBA-9C92-B1E6F9DD4F7A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-9833 exploit](https://sploitus.com/exploit?id=290045E1-8C50-554A-B4E9-8EB2127C1392&utm_source=rss&utm_medium=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Apple Ipados exploit](https://sploitus.com/exploit?id=9E8549C7-BDFC-5179-BB6B-9764F8E92C4A&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3 exploit](https://sploitus.com/exploit?id=E2C1A721-D4EF-51AF-BD14-5E97625D26F3&utm_source=rss&utm_medium=rss)
@@ -114,6 +118,7 @@
   - [Snap and LinkedIn are fighting back against a flood of low-quality AI content](https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/)
 - The Verge
   - [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead)
+  - [Foldables are sort of boring now — and that’s great news for Apple](https://www.theverge.com/column/972937/foldable-phones-boring-apple)
   - [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop)
   - [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak)
   - [Spider-Man: Brand New Day leak racks up millions of views](https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records)
@@ -159,6 +164,7 @@
   - [CVE-2026-8457 | WPWeb Social Login Plugin up to 2.8.7 on WordPress Apple Login improper authentication](https://vuldb.com/vuln/385313)
   - [CVE-2026-9335 | keras-team Keras up to 3.14.0 HDF5 Link keras.saving.load_weights information disclosure](https://vuldb.com/vuln/385316)
 - Vulners.com RSS Feed
+  - [8 Best Password Managers (2026), Tested and Reviewed](https://vulners.com/wired/WIRED:5CF5EE6E829484F6B883336673F140E3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: coturn-4.15.0-1.fc43](https://vulners.com/fedora/FEDORA:469EF765AE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: lemonldap-ng-2.23.2-1.fc43](https://vulners.com/fedora/FEDORA:BB65476651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: postgresql16-16.14-1.fc43](https://vulners.com/fedora/FEDORA:72C3B76588?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -244,6 +250,7 @@
   - [Exploit for CVE-2026-14483](https://vulners.com/githubexploit/4815F1CE-8393-54F9-9FB1-89C32EDD55A7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-15964](https://vulners.com/githubexploit/C35BE27A-CED0-5CAF-9327-BF1996B864CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-58424](https://vulners.com/githubexploit/53B6B9C6-5A4C-57DB-913E-E9A91C88A5D2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-9811](https://vulners.com/githubexploit/613D58F7-BE83-5DBA-9C92-B1E6F9DD4F7A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-9833](https://vulners.com/githubexploit/290045E1-8C50-554A-B4E9-8EB2127C1392?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Apple Ipados](https://vulners.com/githubexploit/9E8549C7-BDFC-5179-BB6B-9764F8E92C4A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3](https://vulners.com/githubexploit/E2C1A721-D4EF-51AF-BD14-5E97625D26F3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -296,6 +303,7 @@
   - [thm_ctf](https://vulners.com/githubexploit/6DD14DD1-5611-5B81-8F58-AEDF39B0F763?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wp2shell-ultimate](https://vulners.com/githubexploit/77B2CE51-9BAF-5865-8E87-500346C2A6EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [8 Best Password Managers (2026), Tested and Reviewed](https://www.wired.com/story/best-password-managers/)
   - [Best Car Vacuums (2026): Handheld, Cordless, Shopping Tips](https://www.wired.com/story/best-car-vacuums/)
   - [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)
   - [Is It Possible to Make Smart Glasses That Aren’t Creepy?](https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/)
