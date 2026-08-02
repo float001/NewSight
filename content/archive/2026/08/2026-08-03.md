@@ -2,7 +2,12 @@
 
 - Sploitus.com Exploits RSS Feed
   - [DeskFrame exploit](https://sploitus.com/exploit?id=14A04066-FA04-5C3B-ABC1-2501BEC8A477&utm_source=rss&utm_medium=rss)
+- The Verge
+  - [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
 - Vulners.com RSS Feed
+  - [CVE-2026-10848 Out-of-bounds read in Zephyr OCPP 1.6 RPC message parser (parse_rpc_msg)](https://vulners.com/cve/CVE-2026-10848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10848 Out-of-bounds read in Zephyr OCPP 1.6 RPC message parser (parse_rpc_msg)](https://vulners.com/cvelist/CVELIST:CVE-2026-10848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-9856](https://vulners.com/nvd/NVD:CVE-2026-9856?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DeskFrame](https://vulners.com/gitee/14A04066-FA04-5C3B-ABC1-2501BEC8A477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
