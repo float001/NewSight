@@ -3,6 +3,7 @@
 - 2Libra
   - [Shigure 时雨：一款集成番茄钟、秒表、白噪音、禅模式的网页多功能计时器](https://2libra.com/post/open-source-tools/b7ERzXR)
   - [什么是奇迹，死而复生就是奇迹！](https://2libra.com/post/good-books/V3H5DnI)
+  - [抱歉今天更新不了龙虎榜了，分享点照片吧](https://2libra.com/post/travel-logs/k5FfVwo)
   - [捡了一个有趣的域名](https://2libra.com/post/domain-service/tn2M6Jj)
   - [每日微语报 8 月 2 日](https://2libra.com/post/social-observation/uQhWK4D)
 - 36氪
@@ -65,12 +66,17 @@
   - [Tell HN: I hate your fuzzy search](https://news.ycombinator.com/item?id=49136990)
   - [The 14 Steps it takes to open my office door with a new phone](https://shub.club/writings/2026/august/14-steps-to-open-a-door/)
   - [The teenage hitmen recruited to kill across Europe](https://www.bbc.com/news/articles/czrjyevmv61o)
+  - [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
   - [Wikimedia Foundation refuses union recognition, hires union-busting law firm](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes)
 - HackerNoon
   - [Meet the Hackathon Winner: SpyderBot on the Future of Brand Discovery in AI Search](https://hackernoon.com/meet-the-hackathon-winner-spyderbot-on-the-future-of-brand-discovery-in-ai-search?source=rss)
+- IEEE Spectrum
+  - [This Hi-Fi Tape Recorder Changed Radio Forever](https://spectrum.ieee.org/magnetophon-laugh-track)
 - johndcook.com
   - [Counting rooted trees](https://www.johndcook.com/blog/2026/08/01/counting-rooted-trees/)
   - [Why polynomial coefficients?](https://www.johndcook.com/blog/2026/08/01/why-polynomial-coefficients/)
+- Recent Commits to cve:main
+  - [Update Sun Aug  2 12:17:40 UTC 2026](https://github.com/trickest/cve/commit/7d40e7d94b41c478b4d1a654c7bc3bcf34fa7beb)
 - Rob Zolkos
   - [A Year on Omarchy. No Regrets.](https://zolkos.com/2026/08/01/a-year-on-omarchy-no-regrets.html)
 - simonwillison.net
@@ -111,10 +117,12 @@
   - [Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters](https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss)
   - [Russian decree bans crypto mining across Moscow region through 2032](https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss)
 - The Decoder
+  - [A real macOS flaw worth $200K went unreported because Apple's bug bounty inbox was full of AI slop](https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/)
   - [After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior](https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/)
   - [AI finds plenty of security flaws, but almost none of them get exploited](https://the-decoder.com/ai-finds-plenty-of-security-flaws-but-almost-none-of-them-get-exploited/)
   - [AI keeps cracking unsolved math problems, and mathematicians have mixed feelings](https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/)
   - [Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music](https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/)
+  - [Meta AI uses a second AI agent as a memory coach to keep long tasks on track](https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/)
   - [Snap and LinkedIn are fighting back against a flood of low-quality AI content](https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/)
 - The Verge
   - [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead)
