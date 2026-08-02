@@ -12,6 +12,7 @@
 - Der Flounder
   - [Creating Jamf Pro API roles with privileges equivalent to Auditor and Administrator account privilege sets](https://derflounder.wordpress.com/2026/08/01/creating-jamf-pro-api-roles-with-privileges-equivalent-to-auditor-and-administrator-account-privilege-sets/)
 - Hacker News Frontpage
+  - [A stray commit buried multiple levels deep cost me months](https://www.droppedasbaby.com/posts/db-commits/)
   - [From MIT: AI financial advice is surprisingly good](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
   - [Morph (YC S23) Is Hiring Member of Technical Stuff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
   - [Oil companies report sky-high profits thanks to wartime crude prices](https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026)
@@ -63,9 +64,13 @@
   - [CVE-2026-55734 | Ueberauth Guardian 2.0.0/2.4.0 Permissions permissions.ex Elixir.Guardian.Permissions.encode_permissions allocation of resources](https://vuldb.com/vuln/385310)
   - [CVE-2026-55735 | ueberauth guardian up to 2.4.0 lib/guardian.ex Guardian.revoke signature verification](https://vuldb.com/vuln/385311)
 - Vulners.com RSS Feed
+  - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CineVault-OWASP-Lab](https://vulners.com/githubexploit/2276F890-1F86-5857-8A69-43FEB0BB9E76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://vulners.com/thn/THN:DE99E5AACA12C4B48098D041F2576CAC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13339 CubeWP Framework <= 1.1.30 - Unauthenticated Arbitrary File Read via prev_icon/next_icon Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-13339?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15662](https://vulners.com/circl/CIRCL:CVE-2026-15662?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17002](https://vulners.com/nvd/NVD:CVE-2026-17002?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18352 User Access Manager <= 2.3.15 - Unauthenticated Arbitrary File Read via 'uamgetfile' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-18352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18556](https://vulners.com/nvd/NVD:CVE-2026-18556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54894](https://vulners.com/nvd/NVD:CVE-2026-54894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54894 Atom-table exhaustion denial of service in Guardian via unbounded atom creation from binary keys](https://vulners.com/cve/CVE-2026-54894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -84,6 +89,7 @@
   - [CVE-2026-56819 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-56819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56819 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-56819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59884 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-59884?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8457 WooCommerce - Social Login <= 2.8.7 - Unauthenticated Authentication Bypass via Forged Apple 'id_token' JWT](https://vulners.com/cvelist/CVELIST:CVE-2026-8457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-10897](https://vulners.com/githubexploit/8621154B-988D-565D-BA6B-AD87C7807DE7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14361](https://vulners.com/githubexploit/E869A2E5-6F70-5494-BE5A-28B8BEE8A469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-14483](https://vulners.com/githubexploit/4815F1CE-8393-54F9-9FB1-89C32EDD55A7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -115,6 +121,17 @@
   - [OESA-2026-3202 qt6-qt5compat security update](https://vulners.com/osv/OSV:OESA-2026-3202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3203 qt6-qt5compat security update](https://vulners.com/osv/OSV:OESA-2026-3203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3204 kernel security update](https://vulners.com/osv/OSV:OESA-2026-3204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerabilities in the net/bluetooth/eir.c and net/bluetooth/mgmt.c modules of Linux kernel allow a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability in the drivers/bluetooth/btnxpuart.c module of Linux operating systems allows a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of Microsoft Office packages and 365 Apps for Enterprise lies in the use of memory after it is freed, allowing an attacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Directum HR Pro system, which exists due to insufficient verification of input data, allows a perpetrator to disclose protected information.](https://vulners.com/bdu_fstec/BDU:2025-09755?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Directum RX ECM system, related to deficiencies in access control, allows a perpetrator to compromise data integrity.](https://vulners.com/bdu_fstec/BDU:2025-09752?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Directum Web Agent component of the Directum RX system, which arises due to insufficient validation of input data, allows a perpetrator to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09754?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Kerberos protocol for Windows operating systems allows attackers to increase their privileges.](https://vulners.com/bdu_fstec/BDU:2025-09690?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the MmMapIoSpace() function in the ThrottleBlood.sys driver allows a hacker to escalate their privileges, execute arbitrary code, or cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客园_人怜直节生来瘦，自许高材老更刚。
