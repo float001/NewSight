@@ -5,6 +5,12 @@
   - [什么是奇迹，死而复生就是奇迹！](https://2libra.com/post/good-books/V3H5DnI)
   - [捡了一个有趣的域名](https://2libra.com/post/domain-service/tn2M6Jj)
   - [每日微语报 8 月 2 日](https://2libra.com/post/social-observation/uQhWK4D)
+- 36氪
+  - [今年上半年北京“双枢纽”机场进出口超4000亿元](https://36kr.com/newsflashes/3921706031721861?f=rss)
+  - [小米多款手机今起正式涨价](https://36kr.com/newsflashes/3921712210898566?f=rss)
+  - [电影《八仙！》票房突破11亿](https://36kr.com/newsflashes/3921707896565376?f=rss)
+  - [金富科技：公司液冷产能和订单销量实现同比、环比稳步攀升](https://36kr.com/newsflashes/3921703822273925?f=rss)
+  - [金风科技参建Ummbila Emoyeni一期风电项目实现商业运营](https://36kr.com/newsflashes/3921704795057793?f=rss)
 - CoinTelegraph
   - [Minnesota crypto ATM ban goes into effect after reported $1M losses](https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Onchain, in court: What happened in crypto legal news this week](https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -16,6 +22,7 @@
 - Hacker News Frontpage
   - [A stray commit buried multiple levels deep cost me months](https://www.droppedasbaby.com/posts/db-commits/)
   - [From MIT: AI financial advice is surprisingly good](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
+  - [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
   - [Morph (YC S23) Is Hiring Member of Technical Stuff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
   - [Oil companies report sky-high profits thanks to wartime crude prices](https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026)
   - [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
@@ -70,6 +77,9 @@
   - [CVE-2026-55735 | ueberauth guardian up to 2.4.0 lib/guardian.ex Guardian.revoke signature verification](https://vuldb.com/vuln/385311)
   - [CVE-2026-8457 | WPWeb Social Login Plugin up to 2.8.7 on WordPress Apple Login improper authentication](https://vuldb.com/vuln/385313)
 - Vulners.com RSS Feed
+  - [[SECURITY] Fedora 43 Update: coturn-4.15.0-1.fc43](https://vulners.com/fedora/FEDORA:469EF765AE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: lemonldap-ng-2.23.2-1.fc43](https://vulners.com/fedora/FEDORA:BB65476651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: postgresql16-16.14-1.fc43](https://vulners.com/fedora/FEDORA:72C3B76588?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CineVault-OWASP-Lab](https://vulners.com/githubexploit/2276F890-1F86-5857-8A69-43FEB0BB9E76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://vulners.com/thn/THN:DE99E5AACA12C4B48098D041F2576CAC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
