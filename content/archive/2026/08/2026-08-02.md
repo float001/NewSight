@@ -6,8 +6,11 @@
   - [捡了一个有趣的域名](https://2libra.com/post/domain-service/tn2M6Jj)
   - [每日微语报 8 月 2 日](https://2libra.com/post/social-observation/uQhWK4D)
 - 36氪
+  - [2026年度电影总票房突破230亿](https://36kr.com/newsflashes/3922136236518789?f=rss)
+  - [Truth Social推出“Truth API”服务，每月10万美元出售特朗普帖文快速访问权](https://36kr.com/newsflashes/3922088228957576?f=rss)
   - [一博科技：上半年净利润同比增长1562% PCB工厂订单增长势头良好](https://36kr.com/newsflashes/3922079463615872?f=rss)
   - [上半年全国二手房交易占比超新房](https://36kr.com/newsflashes/3921834901974659?f=rss)
+  - [上汽集团：2026年7月整车产量同比增5.17% 新能源车表现亮眼](https://36kr.com/newsflashes/3922089781538183?f=rss)
   - [下周央行公开市场将有18420亿元逆回购到期](https://36kr.com/newsflashes/3922069720592004?f=rss)
   - [中国产品包揽全球大模型调用量前五](https://36kr.com/newsflashes/3921989528432259?f=rss)
   - [今年上半年北京“双枢纽”机场进出口超4000亿元](https://36kr.com/newsflashes/3921706031721861?f=rss)
@@ -20,6 +23,8 @@
   - [微信地震预警能力更新，地震预警小程序可反馈震感](https://36kr.com/newsflashes/3921848794164866?f=rss)
   - [新一代通信网建设加快，千兆光网覆盖超九成国民经济大类](https://36kr.com/newsflashes/3921943840353668?f=rss)
   - [无锡：上半年新签约10亿元以上产业项目78个 签约金额1758.38亿元](https://36kr.com/newsflashes/3921713668566657?f=rss)
+  - [欣天科技：控股股东将变更为深圳元启 明起复牌](https://36kr.com/newsflashes/3922095174987394?f=rss)
+  - [汇宇制药：公司3个产品拟中标第十二批全国药品集中采购](https://36kr.com/newsflashes/3922094224043656?f=rss)
   - [电影《八仙！》票房突破11亿](https://36kr.com/newsflashes/3921707896565376?f=rss)
   - [谷歌地球紧急叫停AI生图：虚构场景可叠加卫星图散播假信息](https://36kr.com/newsflashes/3922077104664199?f=rss)
   - [金富科技：公司液冷产能和订单销量实现同比、环比稳步攀升](https://36kr.com/newsflashes/3921703822273925?f=rss)
@@ -27,6 +32,7 @@
   - [银河证券：Kimi K3正式开源重塑大模型商业生态，建议关注国产超节点及产业链相关公司](https://36kr.com/newsflashes/3921888283848068?f=rss)
   - [长三角（嘉兴）Token运营中心正式启动](https://36kr.com/newsflashes/3921838043065736?f=rss)
   - [长安汽车：7月交付20.71万辆](https://36kr.com/newsflashes/3922078266420608?f=rss)
+  - [雷军：小米正式推出小米龙甲电池体系](https://36kr.com/newsflashes/3922092589805191?f=rss)
 - CoinTelegraph
   - [Minnesota crypto ATM ban goes into effect after reported $1M losses](https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Onchain, in court: What happened in crypto legal news this week](https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -73,7 +79,10 @@
   - [Exploit for CVE-2026-9833 exploit](https://sploitus.com/exploit?id=290045E1-8C50-554A-B4E9-8EB2127C1392&utm_source=rss&utm_medium=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Apple Ipados exploit](https://sploitus.com/exploit?id=9E8549C7-BDFC-5179-BB6B-9764F8E92C4A&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3 exploit](https://sploitus.com/exploit?id=E2C1A721-D4EF-51AF-BD14-5E97625D26F3&utm_source=rss&utm_medium=rss)
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Rsjoomla Rsfiles\! exploit](https://sploitus.com/exploit?id=5EF7DE3B-0FFD-5474-8BD5-9CC13B531FFE&utm_source=rss&utm_medium=rss)
+  - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=DBCCC43D-2352-57B4-ADF7-0BB84AF85B94&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=E6D9AB38-FE17-5067-90C6-81A3208AC542&utm_source=rss&utm_medium=rss)
+  - [offensive-security-labs exploit](https://sploitus.com/exploit?id=01023426-5BF0-53AF-8B8A-4E5C8688E6A5&utm_source=rss&utm_medium=rss)
   - [thm_ctf exploit](https://sploitus.com/exploit?id=6DD14DD1-5611-5B81-8F58-AEDF39B0F763&utm_source=rss&utm_medium=rss)
   - [wp2shell-ultimate exploit](https://sploitus.com/exploit?id=77B2CE51-9BAF-5865-8E87-500346C2A6EE&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -91,6 +100,7 @@
 - The Decoder
   - [After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior](https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/)
   - [AI keeps cracking unsolved math problems, and mathematicians have mixed feelings](https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/)
+  - [Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music](https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/)
   - [Snap and LinkedIn are fighting back against a flood of low-quality AI content](https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/)
 - The Verge
   - [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead)
@@ -146,6 +156,8 @@
   - [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://vulners.com/thn/THN:DE99E5AACA12C4B48098D041F2576CAC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-15675](https://vulners.com/nvd/NVD:CVE-2025-15675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11872](https://vulners.com/nvd/NVD:CVE-2026-11872?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12231 Exclusive Addons for Elementor <= 2.7.9.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'exad_infobox_image'](https://vulners.com/cve/CVE-2026-12231?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12231 Exclusive Addons for Elementor <= 2.7.9.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'exad_infobox_image'](https://vulners.com/cvelist/CVELIST:CVE-2026-12231?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12586](https://vulners.com/nvd/NVD:CVE-2026-12586?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13339](https://vulners.com/nvd/NVD:CVE-2026-13339?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13339 CubeWP Framework <= 1.1.30 - Unauthenticated Arbitrary File Read via prev_icon/next_icon Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-13339?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -191,6 +203,7 @@
   - [CVE-2026-18573](https://vulners.com/nvd/NVD:CVE-2026-18573?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18573](https://vulners.com/redhatcve/RH:CVE-2026-18573?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41695 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-41695?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41695 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-41695?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54894](https://vulners.com/nvd/NVD:CVE-2026-54894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54894 Atom-table exhaustion denial of service in Guardian via unbounded atom creation from binary keys](https://vulners.com/cve/CVE-2026-54894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54894 Atom-table exhaustion denial of service in Guardian via unbounded atom creation from binary keys](https://vulners.com/cvelist/CVELIST:CVE-2026-54894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -221,9 +234,12 @@
   - [Exploit for CVE-2026-9833](https://vulners.com/githubexploit/290045E1-8C50-554A-B4E9-8EB2127C1392?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Apple Ipados](https://vulners.com/githubexploit/9E8549C7-BDFC-5179-BB6B-9764F8E92C4A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Access Control in Ollyo Helix3](https://vulners.com/githubexploit/E2C1A721-D4EF-51AF-BD14-5E97625D26F3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Rsjoomla Rsfiles\!](https://vulners.com/githubexploit/5EF7DE3B-0FFD-5474-8BD5-9CC13B531FFE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/DBCCC43D-2352-57B4-ADF7-0BB84AF85B94?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/E6D9AB38-FE17-5067-90C6-81A3208AC542?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-34RH-WP3J-6CXC vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-34RH-WP3J-6CXC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-88FW-V6X4-3F58 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-88FW-V6X4-3F58?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-88FW-V6X4-3F58 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-88FW-V6X4-3F58?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-93WV-JW9V-4972 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-93WV-JW9V-4972?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-93WV-JW9V-4972 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-93WV-JW9V-4972?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-J5G9-F88F-GFJ3 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-J5G9-F88F-GFJ3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -251,6 +267,7 @@
   - [OESA-2026-3202 qt6-qt5compat security update](https://vulners.com/osv/OSV:OESA-2026-3202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3203 qt6-qt5compat security update](https://vulners.com/osv/OSV:OESA-2026-3203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3204 kernel security update](https://vulners.com/osv/OSV:OESA-2026-3204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [offensive-security-labs](https://vulners.com/githubexploit/01023426-5BF0-53AF-8B8A-4E5C8688E6A5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerabilities in the net/bluetooth/eir.c and net/bluetooth/mgmt.c modules of Linux kernel allow a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability in the drivers/bluetooth/btnxpuart.c module of Linux operating systems allows a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of Microsoft Office packages and 365 Apps for Enterprise lies in the use of memory after it is freed, allowing an attacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -266,6 +283,7 @@
   - [wp2shell-ultimate](https://vulners.com/githubexploit/77B2CE51-9BAF-5865-8E87-500346C2A6EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)
+  - [YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline](https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/)
 - 不安全
   - [即便玩家发起请愿也不行 索尼高管称仔细考虑后决定继续停产实体游戏光盘](https://buaq.net/go-432418.html)
 - 代码审计星球
