@@ -50,9 +50,11 @@
   - [Creating Jamf Pro API roles with privileges equivalent to Auditor and Administrator account privilege sets](https://derflounder.wordpress.com/2026/08/01/creating-jamf-pro-api-roles-with-privileges-equivalent-to-auditor-and-administrator-account-privilege-sets/)
 - Hacker News Frontpage
   - [A stray commit buried multiple levels deep cost me months](https://www.droppedasbaby.com/posts/db-commits/)
+  - [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/)
   - [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)
   - [From MIT: AI financial advice is surprisingly good](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
   - [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
+  - [Is the Industrial Revolution a good precedent for explosive growth today?](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html)
   - [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
   - [Morph (YC S23) Is Hiring Member of Technical Stuff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
   - [Oil companies report sky-high profits thanks to wartime crude prices](https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026)
@@ -89,6 +91,7 @@
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=DBCCC43D-2352-57B4-ADF7-0BB84AF85B94&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel exploit](https://sploitus.com/exploit?id=E6D9AB38-FE17-5067-90C6-81A3208AC542&utm_source=rss&utm_medium=rss)
   - [offensive-security-labs exploit](https://sploitus.com/exploit?id=01023426-5BF0-53AF-8B8A-4E5C8688E6A5&utm_source=rss&utm_medium=rss)
+  - [small-crm-login-unserialize exploit](https://sploitus.com/exploit?id=F7DD09CB-9C31-5949-B77C-4791D0C4B888&utm_source=rss&utm_medium=rss)
   - [thm_ctf exploit](https://sploitus.com/exploit?id=6DD14DD1-5611-5B81-8F58-AEDF39B0F763&utm_source=rss&utm_medium=rss)
   - [wp2shell-ultimate exploit](https://sploitus.com/exploit?id=77B2CE51-9BAF-5865-8E87-500346C2A6EE&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -105,6 +108,7 @@
   - [Russian decree bans crypto mining across Moscow region through 2032](https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss)
 - The Decoder
   - [After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior](https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/)
+  - [AI finds plenty of security flaws, but almost none of them get exploited](https://the-decoder.com/ai-finds-plenty-of-security-flaws-but-almost-none-of-them-get-exploited/)
   - [AI keeps cracking unsolved math problems, and mathematicians have mixed feelings](https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/)
   - [Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music](https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/)
   - [Snap and LinkedIn are fighting back against a flood of low-quality AI content](https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/)
@@ -122,6 +126,7 @@
   - [CVE-2026-14817 | Elementor Element Pack Addons for Elementor Plugin up to 8.7.12 on WordPress cross site scripting](https://vuldb.com/vuln/385329)
   - [CVE-2026-14841 | King Addons for Elementor Plugin up to 51.1.75 on WordPress cross site scripting](https://vuldb.com/vuln/385330)
   - [CVE-2026-14864 | JetEngine Plugin up to 3.8.11 on WordPress Shortcode cross site scripting](https://vuldb.com/vuln/385335)
+  - [CVE-2026-14920 | AcyMailing Plugin up to 10.11.0 sql injection](https://vuldb.com/vuln/385348)
   - [CVE-2026-14938 | FluentBoards Plugin up to 1.95.2 on WordPress authorization](https://vuldb.com/vuln/385321)
   - [CVE-2026-15151 | Five Star Restaurant Reservations Plugin up to 2.7.22 on WordPress access control](https://vuldb.com/vuln/385331)
   - [CVE-2026-15206 | SMS Alert Plugin up to 3.9.7 on WordPress improper authentication](https://vuldb.com/vuln/385318)
@@ -276,6 +281,7 @@
   - [OESA-2026-3203 qt6-qt5compat security update](https://vulners.com/osv/OSV:OESA-2026-3203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3204 kernel security update](https://vulners.com/osv/OSV:OESA-2026-3204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [offensive-security-labs](https://vulners.com/githubexploit/01023426-5BF0-53AF-8B8A-4E5C8688E6A5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [small-crm-login-unserialize](https://vulners.com/githubexploit/F7DD09CB-9C31-5949-B77C-4791D0C4B888?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerabilities in the net/bluetooth/eir.c and net/bluetooth/mgmt.c modules of Linux kernel allow a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability in the drivers/bluetooth/btnxpuart.c module of Linux operating systems allows a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of Microsoft Office packages and 365 Apps for Enterprise lies in the use of memory after it is freed, allowing an attacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -290,9 +296,11 @@
   - [thm_ctf](https://vulners.com/githubexploit/6DD14DD1-5611-5B81-8F58-AEDF39B0F763?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wp2shell-ultimate](https://vulners.com/githubexploit/77B2CE51-9BAF-5865-8E87-500346C2A6EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Best Car Vacuums (2026): Handheld, Cordless, Shopping Tips](https://www.wired.com/story/best-car-vacuums/)
   - [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)
   - [Is It Possible to Make Smart Glasses That Aren’t Creepy?](https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/)
   - [The Best Kids’ Backpacks for the 2026 School Year](https://www.wired.com/gallery/best-kids-backpacks-2026/)
+  - [There Are 2 Eclipses This August. Here’s How to See Them](https://www.wired.com/story/two-eclipses-august-how-to-see-them/)
   - [YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline](https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/)
 - 不安全
   - [即便玩家发起请愿也不行 索尼高管称仔细考虑后决定继续停产实体游戏光盘](https://buaq.net/go-432418.html)
