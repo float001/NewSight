@@ -15,6 +15,7 @@
 - 36氪
   - [14只核电概念股获机构扎堆调研](https://36kr.com/newsflashes/3923060264676743?f=rss)
   - [2026年度电影总票房超231亿元，市场热度持续走高](https://36kr.com/newsflashes/3922971159948929?f=rss)
+  - [36氪首发 | 商飞团队创业eVTOL再获数亿元融资，已进入适航关键阶段](https://36kr.com/p/3923317976526208?f=rss)
   - [8月3日人民币对美元中间价调贬4个基点](https://36kr.com/newsflashes/3923113167875464?f=rss)
   - [8月A股或进入修复时间窗口，配置回归基本面定价逻辑](https://36kr.com/newsflashes/3922994066009476?f=rss)
   - [8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿](https://36kr.com/p/3923043072634498?f=rss)
@@ -44,6 +45,7 @@
   - [中国证监会主席吴清：将和香港监管部门进一步加强监管协作](https://36kr.com/newsflashes/3923204842778242?f=rss)
   - [中国证监会主席吴清：支持优质港股上市公司在境内上市](https://36kr.com/newsflashes/3923181414870401?f=rss)
   - [中国证监会主席吴清：支持香港推出更多人民币计价结算的期货品种](https://36kr.com/newsflashes/3923194246311554?f=rss)
+  - [中国证监会：提升中国指数和中国资产国际影响力](https://36kr.com/newsflashes/3923292780326281?f=rss)
   - [今年上半年分红险保费同比增长94.4%，保险行业业务结构出现变化](https://36kr.com/newsflashes/3923001771699845?f=rss)
   - [从券商调研看下半年投资机遇：硬科技与消费板块双向布局](https://36kr.com/newsflashes/3922999819087232?f=rss)
   - [充电桩3C认证加速行业洗牌，推动产业迈入全新阶段](https://36kr.com/newsflashes/3922994614201984?f=rss)
@@ -51,6 +53,7 @@
   - [北交所半年报启幕，多股预喜高景气赛道发力](https://36kr.com/newsflashes/3922978285809281?f=rss)
   - [半日主力资金加仓电力设备板块，抛售电子板块](https://36kr.com/newsflashes/3923267483905667?f=rss)
   - [华泰证券：现阶段更接近“交易底初现”](https://36kr.com/newsflashes/3923027892563332?f=rss)
+  - [协鑫集成等成立能源管理公司](https://36kr.com/newsflashes/3923318295080580?f=rss)
   - [合规约束叠加海外壁垒，“新三样”ESG竞争力加速兑现](https://36kr.com/newsflashes/3923078068399749?f=rss)
   - [吴清：正抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作](https://36kr.com/newsflashes/3923166479298184?f=rss)
   - [吴清：积极支持符合条件的内地企业在香港上市](https://36kr.com/newsflashes/3923157531176320?f=rss)
@@ -65,14 +68,17 @@
   - [日本伊藤忠商事称考虑投资航空资本集团](https://36kr.com/newsflashes/3923029513612679?f=rss)
   - [日本宣布与美国协同干预汇市](https://36kr.com/newsflashes/3923003665591686?f=rss)
   - [普睿司曼接近收购美国电气设备制造商Atkore](https://36kr.com/newsflashes/3922993319341442?f=rss)
+  - [机构：第二季度全球智能手机营收逆势增长7%，达到创纪录的1090亿美元](https://36kr.com/newsflashes/3923331730386568?f=rss)
   - [极致行情拷问定力，基金经理反思“受迫交易”](https://36kr.com/newsflashes/3922999220661637?f=rss)
   - [格力博：储能业务整体尚处于前期布局与技术研发阶段](https://36kr.com/newsflashes/3923092433644936?f=rss)
   - [游戏业重磅收购进入倒计时：电游开发巨头EA将正式易主沙特财团](https://36kr.com/newsflashes/3923253285694854?f=rss)
+  - [澳大利亚提高对未能与当地媒体达成新闻合作协议的科技巨头的征税比例](https://36kr.com/newsflashes/3923309675949444?f=rss)
   - [知名基金经理密集现身定增获配名单，医药有望成为下半年结构性主线之一](https://36kr.com/newsflashes/3923004799184516?f=rss)
   - [第十二批集采产生拟中选结果，业内普遍预期利好市场开拓](https://36kr.com/newsflashes/3923000318897797?f=rss)
   - [美联储9月加息25个基点的概率为73.6%](https://36kr.com/newsflashes/3922972821892480?f=rss)
   - [美联储加息预期再博弈，黄金ETF重获资金关注](https://36kr.com/newsflashes/3923075472616839?f=rss)
   - [股票私募平均仓位创逾4年新高](https://36kr.com/newsflashes/3923151844683398?f=rss)
+  - [蚂蚁灵波将开启独立融资](https://36kr.com/newsflashes/3923283735424641?f=rss)
   - [让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发](https://36kr.com/p/3919025939246727?f=rss)
   - [谋定后动“翻石头”，7月以来百亿级私募积极调研](https://36kr.com/newsflashes/3923076172426884?f=rss)
   - [金纳米粒子间隙内发光分子可同步闪烁](https://36kr.com/newsflashes/3923006201065091?f=rss)
@@ -88,8 +94,10 @@
   - [香港交易所正式推出5年期人民币国债期货](https://36kr.com/newsflashes/3923135365410177?f=rss)
   - [香港证监会主席黄天祐：港交所国债期货是离岸产品的重大突破](https://36kr.com/newsflashes/3923229176016521?f=rss)
   - [马克·古尔曼：预计iPhone会涨价100至200美元，折叠屏iPhone起售价或至少2000美元](https://36kr.com/newsflashes/3923185831243136?f=rss)
+  - [马来亚银行将以12亿美元收购保险合资子公司Maybank Ageas的剩余股权](https://36kr.com/newsflashes/3923335450848899?f=rss)
 - CoinTelegraph
   - [Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2](https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief](https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Suspected 4th Coldcard attack wave sweeps 389 Bitcoin: Galaxy’s Thorn](https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -111,6 +119,8 @@
 - johndcook.com
   - [Estimating a cumulative sum](https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/)
   - [Holonomic functions](https://www.johndcook.com/blog/2026/08/02/holonomic-functions/)
+- Kali Linux Tutorials
+  - [Install Docker on Ubuntu 26.04: Official Repository Setup Guide](https://kalilinuxtutorials.com/install-docker-ubuntu-3/)
 - Sploitus.com Exploits RSS Feed
   - [DeskFrame exploit](https://sploitus.com/exploit?id=14A04066-FA04-5C3B-ABC1-2501BEC8A477&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://sploitus.com/exploit?id=FCE4386F-0EEF-54FF-9056-202822791688&utm_source=rss&utm_medium=rss)
@@ -119,6 +129,7 @@
   - [The global memory shortage hits the MacBook Air](https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/)
 - The Block
   - [Hong Kong police flag $3.3 million romance scam involving fake crypto app](https://www.theblock.co/post/410377/hong-kong-3-million-crypto-romance-scam?utm_source=rss&utm_medium=rss)
+  - [Kalshi and Polymarket’s combined volume reaches all-time high in July, surpassing $50 billion](https://www.theblock.co/post/410382/kalshi-polymarket-volume-july?utm_source=rss&utm_medium=rss)
   - [Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’](https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss)
   - [SEC keeps Nasdaq bitcoin options on hold after granting CME review](https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&utm_medium=rss)
 - The Verge
@@ -128,6 +139,15 @@
   - [Weekly Update 515](https://www.troyhunt.com/weekly-update-515/)
 - VulDB Recent Entries
   - [CVE-2026-12185 | Legion of the Bouncy Castle BC-JAVA/BC-LTS-JAVA prior 1.85/2.73.12 BKS/UBER keystore integrity check](https://vuldb.com/vuln/385425)
+  - [CVE-2026-12802 | Legion of the Bouncy Castle Bouncy Castle for Java AuthEnvelopedData signature verification](https://vuldb.com/vuln/385486)
+  - [CVE-2026-12803 | Legion of the Bouncy Castle Bouncy Castle for Java/Bouncy Castle for Java LTS prior 1.85/2.73.12 KCCMBlockCipher MAC signature verification](https://vuldb.com/vuln/385487)
+  - [CVE-2026-12816 | Legion of the Bouncy Castle BC-JAVA/BC-LTS-JAVA up to 1.84/2.73.11 signature verification](https://vuldb.com/vuln/385490)
+  - [CVE-2026-12817 | Legion of the Bouncy Castle Bouncy Castle for Java prior 1.85/2.73.12/1.0.13/2.0.13/2.1.13 OpenPGP AEAD Decryption integrity check](https://vuldb.com/vuln/385483)
+  - [CVE-2026-12852 | Legion of the Bouncy Castle up to 1.84 MLS Wire Decoder out-of-bounds write](https://vuldb.com/vuln/385489)
+  - [CVE-2026-12860 | Legion of the Bouncy Castle Bouncy Castle for Java/Bouncy Castle for Java LTS up to 1.84/2.73.11 data authenticity](https://vuldb.com/vuln/385488)
+  - [CVE-2026-13506 | Legion of the Bouncy Castle Bouncy Castle/Bouncy Castle LTS/Bouncy Castle FIPS ASN.1 out-of-bounds write](https://vuldb.com/vuln/385482)
+  - [CVE-2026-13586 | Legion of the Bouncy Castle Bouncy Castle for Java prior 1.85/2.73.12/1.0.2.7/2.0.2/2.1.3 denial of service](https://vuldb.com/vuln/385484)
+  - [CVE-2026-14682 | Legion of the Bouncy Castle Bouncy Castle for Java FIPS prior bctls-fips 1.0.24 allocation of resources](https://vuldb.com/vuln/385485)
   - [CVE-2026-15055 | Legion of the Bouncy Castle Bouncy Castle for Java up to 2.1.11 PKCS#8/PBES2 Decryptors allocation of resources](https://vuldb.com/vuln/385428)
   - [CVE-2026-18582 | mz-automation libiec61850 up to 1.6.1 Report Sending Path reporting.c Reporting_RCBWriteAccessHandler free of memory not on the heap (GHSA-7qg8-hm25-rv5v)](https://vuldb.com/vuln/385411)
   - [CVE-2026-18583 | mz-automation libiec61850 up to 1.6.1 MMS Request mms_mapping.c checkDataSetAccess out-of-bounds (GHSA-7v2x-39mw-2979)](https://vuldb.com/vuln/385412)
@@ -199,6 +219,15 @@
   - [CVE-2026-10848 Out-of-bounds read in Zephyr OCPP 1.6 RPC message parser (parse_rpc_msg)](https://vulners.com/cve/CVE-2026-10848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10848 Out-of-bounds read in Zephyr OCPP 1.6 RPC message parser (parse_rpc_msg)](https://vulners.com/cvelist/CVELIST:CVE-2026-10848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12185](https://vulners.com/nvd/NVD:CVE-2026-12185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12802](https://vulners.com/nvd/NVD:CVE-2026-12802?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12803](https://vulners.com/nvd/NVD:CVE-2026-12803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12816](https://vulners.com/nvd/NVD:CVE-2026-12816?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12817](https://vulners.com/nvd/NVD:CVE-2026-12817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12852](https://vulners.com/nvd/NVD:CVE-2026-12852?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12860](https://vulners.com/nvd/NVD:CVE-2026-12860?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13506](https://vulners.com/nvd/NVD:CVE-2026-13506?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13586](https://vulners.com/nvd/NVD:CVE-2026-13586?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14682](https://vulners.com/nvd/NVD:CVE-2026-14682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15055](https://vulners.com/nvd/NVD:CVE-2026-15055?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18577](https://vulners.com/nvd/NVD:CVE-2026-18577?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18577 Incomplete patch leads to administrative account takeover](https://vulners.com/cve/CVE-2026-18577?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -342,10 +371,13 @@
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [totolink-exploit](https://vulners.com/githubexploit/42FAAC59-3E7B-54A8-9A4A-F23F24D7946B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [totolink-exploit](https://vulners.com/githubexploit/E4A8E2AD-FA10-55EA-B919-B8113FF62373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Vulnerability-Wiki-PoC](https://vulners.com/githubexploit/165F2DFF-F0C3-5EF5-9604-8FECCC356584?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [L2 Reduction: LLL Algorithm With Quadratic Complexity in Python](https://buaq.net/go-432536.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [diagnostic and investigate](https://dyrnq.com/diagnostic-and-investigate/)
 - 博客园_人怜直节生来瘦，自许高材老更刚。
   - [一个项目带你入门AI应用开发06 - bamb00](https://www.cnblogs.com/goodhacker/p/22167488)
   - [一个项目带你入门AI应用开发07 - bamb00](https://www.cnblogs.com/goodhacker/p/22167976)
