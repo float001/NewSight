@@ -1,10 +1,16 @@
 # 今日安全资讯（2026-08-04）
 
+- 404 Media
+  - [‘Own the Narrative’: Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech](https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/)
 - CoinTelegraph
   - [BlackRock launches tokenized money market funds for stablecoin reserves](https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kenya moves 30 million academic credentials onto Avalanche blockchain](https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Truth Social Launches Paid Early Access to Trump Posts](https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading)
+  - [Ulysses S. Grant on the Future Dividing Line](https://www.snopes.com/fact-check/grant-next-civil-war/)
+  - [★ Why Apple Requires a Cellular Account Through a Big Three Carrier to Lease an iPhone](https://daringfireball.net/2026/08/followup_big_three_carrier_requirement)
+- Fidelis Security
+  - [How to Inspect Encrypted Traffic in Enterprise Networks: The Fidelis Approach](https://fidelissecurity.com/threatgeek/network-security/encrypted-traffic-inspection-in-enterprise-networks/)
 - Hacker News Frontpage
   - [Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents](https://hoplite.sh)
   - [Show HN: Product analytics (and evals) for agent sessions on your MCP](https://armature.tech/)
@@ -12,6 +18,8 @@
   - [What's the largest software project AI can complete on its own?](https://epoch.ai/MirrorCode)
 - HackerNoon
   - [Meet the Hackathon Winner: Packworks on the Future of Phygital Retail and Building With Bright Data](https://hackernoon.com/meet-the-hackathon-winner-packworks-on-the-future-of-phygital-retail-and-building-with-bright-data?source=rss)
+- IEEE Spectrum
+  - [The System That Turned Paper Charts Into Digital Medical Records](https://spectrum.ieee.org/ieee-milestone-digital-medical-records)
 - ProjectDiscovery.io | Blog
   - [Watching Agents Work: A Behavioral Audit of Offensive-Security LLM Runs](https://projectdiscovery.io/blog/watching-agents-work-a-behavioral-audit-of-offensive-security-llm-runs)
 - simonwillison.net
@@ -19,17 +27,27 @@
 - TechCrunch
   - [Base Power raises another $1B to save the grid using backyard batteries](https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/)
   - [Congress’s favorite AI tool? ChatGPT](https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/)
+  - [Outernet turns your saved posts into real-world adventures](https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/)
+  - [Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics](https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/)
+  - [WhatsApp says it is is fixing an issue that disabled several accounts](https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/)
   - [Wispr Flow is preparing to launch a meeting notetaker, updated terms suggest](https://techcrunch.com/2026/08/03/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/)
 - text/plain
   - [Attack Techniques: Fake Captive Portals](https://textslashplain.com/2026/08/03/attack-techniques-fake-captive-portals/)
 - The Block
+  - [BlackRock launches two tokenized money market funds for stablecoin reserves](https://www.theblock.co/post/410469/blackrock-launches-two-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss&utm_medium=rss)
   - [Jameson Lopp says Coldcard exploit exposes limits of Bitcoin’s ‘don’t trust, verify’ mantra](https://www.theblock.co/post/410446/jameson-lopp-coldcard-exploit-exposes-limits-bitcoins-dont-trust-verify-mantra?utm_source=rss&utm_medium=rss)
   - [Michael Saylor says he’s never sold his personal bitcoin after Strategy dumps more BTC](https://www.theblock.co/post/410451/michael-saylor-says-never-sold-his-personal-bitcoin-strategy-dumps-more-btc?utm_source=rss&utm_medium=rss)
+- The Decoder
+  - [Alibaba's new Qwen model is also taking your job, but this time it's great](https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/)
 - The Verge
+  - [Europe’s AI labeling and transparency rules are now in effect](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes)
   - [Microsoft is bringing Xbox 360 games to PC](https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program)
+  - [The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished](https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale)
 - VulDB Recent Entries
   - [CVE-2026-18243 | HP DesignJet up to AENEAS_04_09_09.0 cross site scripting](https://vuldb.com/vuln/385625)
   - [CVE-2026-18477 | Red Hat Enterprise Linux Rename toctou](https://vuldb.com/vuln/385617)
+  - [CVE-2026-18718 | National Security Agency Ghidra up to 12.1.1/12.1.2 Swift Demangler Analyzer SwiftNativeDemangler code injection](https://vuldb.com/vuln/385626)
+  - [CVE-2026-18719 | cemtan sar2html 4.0.0 Search sar2html.py sql injection](https://vuldb.com/vuln/385630)
   - [CVE-2026-39931 | OpenEMR up to 8.2.0 Backup Configuration Import backup.php form_step sql injection](https://vuldb.com/vuln/385615)
   - [CVE-2026-39932 | OpenEMR up to 8.2.0 Document Category Tree Tree.class.php eval code injection](https://vuldb.com/vuln/385613)
   - [CVE-2026-41452 | Krayin laravel-crm up to 2.2.2 Installer Middleware name/email/password missing authentication](https://vuldb.com/vuln/385619)
@@ -41,24 +59,69 @@
   - [CVE-2026-68930 | Eugeny russh up to 0.62.4 Handler Callbacks encrypted.rs server_read_authenticated input validation](https://vuldb.com/vuln/385622)
   - [CVE-2026-68945 | Angular up to 20.3.26/21.2.18/22.0.1 HttpTransferCache input validation](https://vuldb.com/vuln/385623)
   - [CVE-2026-69149 | Angular platform-server up to 20.3.26/21.2.18/22.0.6 DOM Emulation cross site scripting](https://vuldb.com/vuln/385624)
+  - [CVE-2026-69151 | Angular compiler core up to 20.3.26/21.2.18/22.0.0 I18n Pipeline code injection](https://vuldb.com/vuln/385627)
+  - [CVE-2026-69152 | juliangruber brace-expansion up to 1.1.17/2.1.3/3.0.5/5.0.8 expand allocation of resources](https://vuldb.com/vuln/385629)
+  - [CVE-2026-69153 | PostCSS up to 8.5.18 PreviousMap PreviousMap.loadFile from information disclosure](https://vuldb.com/vuln/385628)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Zero-Day Remediation Meets Operational Resiliency](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
   - [crypto/x509: golang: golang crypto/x509: Denial of Service via excessive processing of DNS SAN entries](https://vulners.com/redhat/RHSA-2026:49703-CVE-2026-27145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-9291 Improper Certificate Validation in TP-Link Omada Cloud Communications](https://vulners.com/cve/CVE-2025-9291?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-9291 Improper Certificate Validation in TP-Link Omada Cloud Communications](https://vulners.com/cvelist/CVELIST:CVE-2025-9291?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15430](https://vulners.com/nvd/NVD:CVE-2026-15430?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18243](https://vulners.com/nvd/NVD:CVE-2026-18243?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18248](https://vulners.com/nvd/NVD:CVE-2026-18248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18477](https://vulners.com/nvd/NVD:CVE-2026-18477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18508](https://vulners.com/nvd/NVD:CVE-2026-18508?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18568](https://vulners.com/nvd/NVD:CVE-2026-18568?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18602](https://vulners.com/nvd/NVD:CVE-2026-18602?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18604](https://vulners.com/nvd/NVD:CVE-2026-18604?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18605](https://vulners.com/nvd/NVD:CVE-2026-18605?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18606](https://vulners.com/nvd/NVD:CVE-2026-18606?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18606 Razer RzUpdateService Named Pipe RzUpdateService.exe privileges management](https://vulners.com/cve/CVE-2026-18606?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18606 Razer RzUpdateService Named Pipe RzUpdateService.exe privileges management](https://vulners.com/cvelist/CVELIST:CVE-2026-18606?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18607](https://vulners.com/nvd/NVD:CVE-2026-18607?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18610](https://vulners.com/nvd/NVD:CVE-2026-18610?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18612 GL-iNet GL-MT3000 plugins.so Native Plugin glc plugins.install_package command injection](https://vulners.com/cve/CVE-2026-18612?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18612 GL-iNet GL-MT3000 plugins.so Native Plugin glc plugins.install_package command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-18612?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18613 GL-iNet GL-MT3000 plugins.so Native Plugin glc plugins.set_config injection](https://vulners.com/cve/CVE-2026-18613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18613 GL-iNet GL-MT3000 plugins.so Native Plugin glc plugins.set_config injection](https://vulners.com/cvelist/CVELIST:CVE-2026-18613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18651](https://vulners.com/nvd/NVD:CVE-2026-18651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18718](https://vulners.com/nvd/NVD:CVE-2026-18718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-39931](https://vulners.com/nvd/NVD:CVE-2026-39931?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-39932](https://vulners.com/nvd/NVD:CVE-2026-39932?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40717](https://vulners.com/cve/CVE-2026-40717?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40717](https://vulners.com/cvelist/CVELIST:CVE-2026-40717?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41452](https://vulners.com/nvd/NVD:CVE-2026-41452?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41453](https://vulners.com/nvd/NVD:CVE-2026-41453?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61372](https://vulners.com/nvd/NVD:CVE-2026-61372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61523 WebsiteBaker CMS < 2.13.10 Code Injection via Droplets Editor](https://vulners.com/cve/CVE-2026-61523?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61523 WebsiteBaker CMS < 2.13.10 Code Injection via Droplets Editor](https://vulners.com/cvelist/CVELIST:CVE-2026-61523?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61524 WebsiteBaker CMS < 2.13.10 File Upload RCE via Module Installation](https://vulners.com/cve/CVE-2026-61524?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61524 WebsiteBaker CMS < 2.13.10 File Upload RCE via Module Installation](https://vulners.com/cvelist/CVELIST:CVE-2026-61524?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-67610](https://vulners.com/nvd/NVD:CVE-2026-67610?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-67611](https://vulners.com/nvd/NVD:CVE-2026-67611?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-67612](https://vulners.com/nvd/NVD:CVE-2026-67612?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68869](https://vulners.com/attackerkb/AKB:515BB2AB-85B4-4BB7-A594-428CBAF3D78D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68869](https://vulners.com/nvd/NVD:CVE-2026-68869?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68930](https://vulners.com/nvd/NVD:CVE-2026-68930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68945](https://vulners.com/nvd/NVD:CVE-2026-68945?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68945](https://vulners.com/redhatcve/RH:CVE-2026-68945?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-69149](https://vulners.com/nvd/NVD:CVE-2026-69149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-69149 Angular SSR: Missing Fallback Raw-Content Serialization Escaping leads to Cross-Site Scripting (XSS)](https://vulners.com/cve/CVE-2026-69149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-69149 Angular SSR: Missing Fallback Raw-Content Serialization Escaping leads to Cross-Site Scripting (XSS)](https://vulners.com/cvelist/CVELIST:CVE-2026-69149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-69151](https://vulners.com/nvd/NVD:CVE-2026-69151?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-69152](https://vulners.com/nvd/NVD:CVE-2026-69152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-69153](https://vulners.com/nvd/NVD:CVE-2026-69153?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Vmware Spring_Framework](https://vulners.com/githubexploit/BB3375DB-28CE-531F-9D6C-ED466CD2F2A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Microsoft](https://vulners.com/githubexploit/4997B647-9EB1-5AFF-AFCD-D7851339488E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://vulners.com/thn/THN:0E432CE8D1DD7465B61116B6910257E7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Important: Red Hat Security Advisory: delve security, bug fix, and enhancement update](https://vulners.com/redhat/RHSA-2026:49703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://vulners.com/thn/THN:41EB1309865F42ECD6CF34E900F531BC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [net: golang: Go net package: Denial of Service via long CNAME response in LookupCNAME](https://vulners.com/redhat/RHSA-2026:49703-CVE-2026-33811?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [NPM: PostCSS: incomplete fix of GHSA-6g55-p6wh-862q — attacker-controlled sourceMappingURL reads arbitrary .map files when `from` is unset](https://vulners.com/patchstack/PATCHSTACK:6C5F326988E26CA6B8C79F1798562E27?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [PostCSS: incomplete fix of GHSA-6g55-p6wh-862q — attacker-controlled sourceMappingURL reads arbitrary .map files when `from` is unset](https://vulners.com/github/GHSA-FXQJ-RQCC-2CMP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [wazuh-iis-defense](https://vulners.com/githubexploit/C628EA87-7D36-5A26-8015-20D1BE7FD96F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [wp2shell](https://vulners.com/githubexploit/6BC6006F-92E8-5E4D-983A-18D9EC1C7613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
