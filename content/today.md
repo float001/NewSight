@@ -3,6 +3,7 @@
 - 2Libra
   - [[开源工具]做了一款开源的 Windows 输入法](https://2libra.com/post/open-source-sharing/vWLJTD6)
   - [Cloudflare 推出了专属 AI Agent 的可编程钱包「Cloudflare Wallets」](https://2libra.com/post/sharing-discoveries/bygB_ui)
+  - [【兑换码·💰】住宅 IP 免费送，原生独享 IP 只要几块钱，先试后用](https://2libra.com/post/promotion/kMl6guT)
   - [【💰】有没有必要找个大师看一下？](https://2libra.com/post/midlife-support-club/F3YPtlO)
   - [京东生活服务包哪个最值啊](https://2libra.com/post/worth-buying/XHxMNcp)
   - [老人拍鱼灯遇弹窗困住](https://2libra.com/post/excessive-things/IezO7uq)
@@ -560,4 +561,5 @@
   - [Lucid CEO：高关税挡不住中国车企全球扩张](https://blog.upx8.com/Lucid-CEO-%E9%AB%98%E5%85%B3%E7%A8%8E%E6%8C%A1%E4%B8%8D%E4%BD%8F%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E5%85%A8%E7%90%83%E6%89%A9%E5%BC%A0)
   - [数据中心连接漏洞或为中国黑客入侵敞大门](https://blog.upx8.com/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%BF%9E%E6%8E%A5%E6%BC%8F%E6%B4%9E%E6%88%96%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5%E6%95%9E%E5%A4%A7%E9%97%A8)
   - [苹果申请临时禁令剑指OpenAI 后者回应：苹果处理有误！](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E7%94%B3%E8%AF%B7%E4%B8%B4%E6%97%B6%E7%A6%81%E4%BB%A4%E5%89%91%E6%8C%87OpenAI-%E5%90%8E%E8%80%85%E5%9B%9E%E5%BA%94-%E8%8B%B9%E6%9E%9C%E5%A4%84%E7%90%86%E6%9C%89%E8%AF%AF)
+  - [马斯克：SpaceX 目标是到2030年实现1万亿美元收入](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B-SpaceX-%E7%9B%AE%E6%A0%87%E6%98%AF%E5%88%B02030%E5%B9%B4%E5%AE%9E%E7%8E%B01%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E5%85%A5)
   - [黑客攻破比特币“最安全保险箱” 持续洗劫用户冷钱包资产](https://blog.upx8.com/%E9%BB%91%E5%AE%A2%E6%94%BB%E7%A0%B4%E6%AF%94%E7%89%B9%E5%B8%81-%E6%9C%80%E5%AE%89%E5%85%A8%E4%BF%9D%E9%99%A9%E7%AE%B1-%E6%8C%81%E7%BB%AD%E6%B4%97%E5%8A%AB%E7%94%A8%E6%88%B7%E5%86%B7%E9%92%B1%E5%8C%85%E8%B5%84%E4%BA%A7)
