@@ -15,6 +15,7 @@
   - [京东生活服务包哪个最值啊](https://2libra.com/post/worth-buying/XHxMNcp)
   - [做了个美股抄底信号仪表盘｜每日 9 点邮箱推送](https://2libra.com/post/stock-market/2brJvy3)
   - [分享几天网易云会员](https://2libra.com/post/deal-hunter/AoV5ZY0)
+  - [国产 Agent 擅自行动这一块，真的是防不胜防](https://2libra.com/post/ai-tools/uGPNyks)
   - [宝马目前怎么样？还能去吗](https://2libra.com/post/job-hunting/ma-I81G)
   - [老人拍鱼灯遇弹窗困住](https://2libra.com/post/excessive-things/IezO7uq)
   - [面向 Agent 开发实例集合 202608](https://2libra.com/post/vibe-coding/MeGtj_g)
@@ -97,6 +98,7 @@
 - CoinTelegraph
   - [AI credit bubble could fuel Bitcoin ‘crack-up boom’ past $1M: Hayes](https://cointelegraph.com/markets/arthur-hayes-ai-credit-crisis-bitcoin-1-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record](https://cointelegraph.com/markets/bitcoin-coils-as-hormuz-reopening-time-line-sends-sp-500-to-new-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETFs log inflows as cold wallet hack reignites custody debate](https://cointelegraph.com/markets/bitcoin-etfs-inflows-cold-wallet-hack-custody-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode](https://cointelegraph.com/markets/bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BlackRock brings tokenized money market funds to Europe via JPMorgan](https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BNY to offer institutional crypto staking through Galaxy partnership](https://cointelegraph.com/news/bny-galaxy-institutional-crypto-staking-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -109,6 +111,7 @@
   - [MiCA list expands with 12 companies in fourth post-deadline update](https://cointelegraph.com/news/mica-register-casps-fourth-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Missouri trio charged over alleged Bitcoin kidnapping plot](https://cointelegraph.com/news/three-missouri-men-charged-bitcoin-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Proof of Play to shut down after blockchain gaming thesis falls short](https://cointelegraph.com/news/proof-of-play-shut-blockchain-gaming-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [S&P gives BlackRock tokenized reserve fund top stability rating](https://cointelegraph.com/news/sp-blackrock-tokenized-reserve-fund-stability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Taiwan plans Travel Rule for domestic crypto transfers from October](https://cointelegraph.com/news/taiwan-crypto-travel-rule-domestic-vasp-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks](https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -120,7 +123,10 @@
   - [Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook](https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook)
 - defend.network
   - [Keyv npm worm hits 353 packages; device-code phishing surges 1,500%; TP-Link Omada RCE](https://defend.network/briefings/npm-keyv-worm-device-code-phishing-omada-rce-2026-08-05.html)
+- dfarq.homeip.net
+  - [Ebay’s 1995 debut](https://dfarq.homeip.net/ebays-1995-debut/?utm_source=rss&utm_medium=rss&utm_campaign=ebays-1995-debut)
 - Fidelis Security
+  - [Detecting East-West Traffic Anomalies in Real Time with Fidelis Network](https://fidelissecurity.com/threatgeek/network-security/detecting-east-west-traffic-anomalies-in-real-time/)
   - [Why Endpoint Data Alone is Not Enough for an Effective XDR Strategy](https://fidelissecurity.com/threatgeek/xdr-security/effective-xdr-strategy/)
 - Hacker News Frontpage
   - [DuckDB – Data power tools for your laptop, now in Clojure (2023)](https://techascent.com/blog/just-ducking-around.html)
@@ -140,16 +146,22 @@
   - [ChainDrop Worm Hits 400+ npm Packages with Two Billion Monthly Installs](https://www.infosecurity-magazine.com/news/chaindrop-worm-400-npm-two-billion/)
   - [Fake Bank of America Phishing Scam Installs Remote Access Malware](https://www.infosecurity-magazine.com/news/fake-bank-of-america-phishing-scam/)
   - [Frontier Models Engage in Unsanctioned Behavior During Testing](https://www.infosecurity-magazine.com/news/frontier-models-unsanctioned/)
+  - [Prompt Injection Remains Biggest LLM Risk, Despite Limited Incidents](https://www.infosecurity-magazine.com/news/prompt-injection-llm-risk/)
 - Kali Linux Tutorials
   - [update-alternatives on Ubuntu: Manage Default Program Links](https://kalilinuxtutorials.com/update-alternatives-ubuntu/)
 - NVIDIA AI Blog
   - [NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US](https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/)
+- pluralistic.net
+  - [Pluralistic: Google is a scammer's paradise (05 Aug 2026)](https://pluralistic.net/2026/08/05/absentee-landlord/)
 - Sec-News 安全文摘
   - [Going depthfirst: Achieving GitLab RCE via Two Ruby Memory Corruption Vulnerabilities](https://govuln.com/news/url/EDZE)
+- Shells.Systems
+  - [Abusing Extended Attributes to Bypass Application Control For Business](https://shells.systems/abusing-extended-attributes-to-bypass-application-control-for-business/)
 - simonwillison.net
   - [New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging](https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything)
   - [PipeNetwork/minimax-h3-mlx](https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything)
 - TechCrunch
+  - [AI makes weather prediction better. Can WindBorne make it lucrative?](https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/)
   - [Android app developers may be unwittingly sharing their users’ location data with advertisers](https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/)
   - [Anthropic signs $10 billion deal with AI cloud startup Volta](https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/)
   - [Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call](https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/)
@@ -159,6 +171,7 @@
   - [Meet Wrinkles, an AI app that uncovers the hidden stories of the places around you](https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/)
   - [Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress](https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/)
   - [Open-weight AI models are catching up to the frontier. The safety gap remains.](https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/)
+  - [Saudi Aramco backs India’s Mitti Labs to make Asia’s rice farming more water-resilient](https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/)
   - [SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth](https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/)
   - [SpaceX has bought $329M worth of Tesla Megapacks so far this year](https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/)
   - [Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!](https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/)
@@ -181,8 +194,10 @@
   - [Three Missouri men charged over alleged plot to steal bitcoin through home invasion](https://www.theblock.co/post/410688/three-missouri-men-charged-bitcoin-home-invasion?utm_source=rss&utm_medium=rss)
   - [Tribal gaming regulators, senators make a renewed push to add prediction markets provision to Clarity Act](https://www.theblock.co/post/410668/tribal-gaming-regulators-senators-make-renewed-push-add-prediction-markets-provision-clarity-act?utm_source=rss&utm_medium=rss)
 - The Decoder
+  - [An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted](https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/)
   - [Google moves billions in Anthropic chip risk off its balance sheet](https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/)
   - [This year's Pulitzer Prizes saw a record number of winners disclose AI use](https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use/)
+  - [US appeals court allows Perplexity's AI shopping agent back on Amazon](https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/)
 - The Verge
   - [AMD&#8217;s datacenter business is booming while gaming takes a backseat](https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen)
   - [BMW’s in-car Spider-Man ad is villain behavior](https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad)
@@ -194,13 +209,17 @@
   - [SpaceX has more neocloud revenue](https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud)
   - [T-Mobile’s $0-down financing plan bundles taxes and fees](https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan)
   - [Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store](https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov)
+  - [Trump’s AI testing plan is limited and vague](https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded)
   - [‘Not healthy’ LLM use is more common than you think](https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy)
+- Trail of Bits Blog
+  - [A few notes on AWS Nitro Enclaves: KMS integration](https://blog.trailofbits.com/2026/08/05/a-few-notes-on-aws-nitro-enclaves-kms-integration/)
 - VulDB Recent Entries
   - [CVE-2017-20241 | Keysight IxChariot up to 9.5.101 buffer overflow](https://vuldb.com/vuln/385922)
   - [CVE-2017-20242 | Keysight IxChariot up to 9.5.101 buffer overflow](https://vuldb.com/vuln/385923)
   - [CVE-2025-15677 | GeoDirectory Plugin up to 2.8.109 on WordPress Place Category Setting place-category cross site scripting](https://vuldb.com/vuln/386062)
   - [CVE-2025-29296 | H3C Magic BE18000 up to V200R007 esps.dhcpd.vlan /api/esps command injection](https://vuldb.com/vuln/385893)
   - [CVE-2026-0163 | Google Android VPU vpu_ioctl.c use after free](https://vuldb.com/vuln/385924)
+  - [CVE-2026-0931 | M-Files Server up to 26.5.16015.0 denial of service](https://vuldb.com/vuln/386150)
   - [CVE-2026-10059 | Red Hat Multicluster Engine for Kubernetes ClusterCurator controller privileges management](https://vuldb.com/vuln/386145)
   - [CVE-2026-10090 | Red Hat Advanced Cluster Management for Kubernetes Application Subscription controller privileges management](https://vuldb.com/vuln/386144)
   - [CVE-2026-11421 | wedevs ERP Complete HR, Accounting & CRM Suite Built for WooCommerce Plugin erp_crm_contact_advance_filter sql injection](https://vuldb.com/vuln/386011)
@@ -217,6 +236,7 @@
   - [CVE-2026-15314 | TP-Link P110 Web Service buffer overflow](https://vuldb.com/vuln/385890)
   - [CVE-2026-15360 | Ajax Load More Plugin up to 8.0.0 on WordPress sql injection](https://vuldb.com/vuln/386049)
   - [CVE-2026-15372 | WP 2FA Plugin up to 4.0.x on WordPress improper authentication](https://vuldb.com/vuln/386052)
+  - [CVE-2026-15452 | Smash Balloon Social Photo Feed Plugin up to 6.11.3 on WordPress REQUEST_URI cross site scripting](https://vuldb.com/vuln/386148)
   - [CVE-2026-15918 | e4jvikwp VikAppointments Service Booking Calendar Plugin up to 1.2.19 on WordPress Reviews Sorting sql injection](https://vuldb.com/vuln/386016)
   - [CVE-2026-15941 | Comesio Relevanssi Plugin on WordPress Admin Search args sql injection](https://vuldb.com/vuln/386017)
   - [CVE-2026-16036 | miniOrange 2FA Plugin up to 6.2.6 on WordPress improper authentication](https://vuldb.com/vuln/386053)
@@ -254,7 +274,9 @@
   - [CVE-2026-18902 | H3C NX15 V100R017 /api/esps esps.wan.repeater.set/repeaterproc my2P4key command injection](https://vuldb.com/vuln/385936)
   - [CVE-2026-18903 | yeqifu warehouse up to aaf29962ba407d22d991781de28796ee7b4670e4 FileController.java path path traversal](https://vuldb.com/vuln/385940)
   - [CVE-2026-18907 | TECNO Mobile Hi Browser 2.23.1.1 com.talpa.hibrowser path traversal](https://vuldb.com/vuln/386005)
+  - [CVE-2026-25703 | SUSE NeuVector up to 5.4.9 Graph API missing authentication](https://vuldb.com/vuln/386151)
   - [CVE-2026-4431 | themeruby Easy Post Submission Plugin up to 2.3.0 on WordPress create_post postId improper authorization](https://vuldb.com/vuln/386132)
+  - [CVE-2026-44945 | SUSE Rancher up to 2.11.15/2.12.11/2.13.7/2.14.1 Impersonation Middleware impersonate.go privileges management](https://vuldb.com/vuln/386149)
   - [CVE-2026-45100 | OpenSIPS prior 3.6.6/4.0.0-rc1 Base64 Encoding s.b64encode buffer overflow](https://vuldb.com/vuln/385989)
   - [CVE-2026-45103 | OpenSIPS prior 3.6.6/4.0.0-rc1 TCP Message Framing Layer integer overflow](https://vuldb.com/vuln/385990)
   - [CVE-2026-45538 | OpenSIPS up to 4.0.0 SIP Message sipmsgops.c sip_to_json stack-based overflow](https://vuldb.com/vuln/385966)
@@ -423,6 +445,7 @@
   - [CVE-2025-15677](https://vulners.com/nvd/NVD:CVE-2025-15677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-0163](https://vulners.com/cvelist/CVELIST:CVE-2026-0163?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-0163](https://vulners.com/nvd/NVD:CVE-2026-0163?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-0931](https://vulners.com/nvd/NVD:CVE-2026-0931?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10032](https://vulners.com/nvd/NVD:CVE-2026-10032?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10059](https://vulners.com/nvd/NVD:CVE-2026-10059?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10090](https://vulners.com/nvd/NVD:CVE-2026-10090?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -441,6 +464,7 @@
   - [CVE-2026-15307](https://vulners.com/redhatcve/RH:CVE-2026-15307?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15360](https://vulners.com/nvd/NVD:CVE-2026-15360?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15372](https://vulners.com/nvd/NVD:CVE-2026-15372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15452](https://vulners.com/nvd/NVD:CVE-2026-15452?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15918](https://vulners.com/nvd/NVD:CVE-2026-15918?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15941](https://vulners.com/attackerkb/AKB:ADD33D95-CE5D-4E10-9F67-9031A2EDFEC9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15941](https://vulners.com/nvd/NVD:CVE-2026-15941?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -533,9 +557,11 @@
   - [CVE-2026-25288](https://vulners.com/nvd/NVD:CVE-2026-25288?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25289](https://vulners.com/nvd/NVD:CVE-2026-25289?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-25292](https://vulners.com/nvd/NVD:CVE-2026-25292?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25703](https://vulners.com/nvd/NVD:CVE-2026-25703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3093 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-3093?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-37462](https://vulners.com/redhatcve/RH:CVE-2026-37462?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44705](https://vulners.com/redhatcve/RH:CVE-2026-44705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44945](https://vulners.com/nvd/NVD:CVE-2026-44945?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45084](https://vulners.com/nvd/NVD:CVE-2026-45084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45084 OpenSIPS: Denial of service in presence.handle_publish() from unchecked Content-Type state](https://vulners.com/cve/CVE-2026-45084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45084 OpenSIPS: Denial of service in presence.handle_publish() from unchecked Content-Type state](https://vulners.com/cvelist/CVELIST:CVE-2026-45084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -852,6 +878,7 @@
   - [GHSA-W8J3-PQ8G-8M7W vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-W8J3-PQ8G-8M7W?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-W8J3-PQ8G-8M7W vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-W8J3-PQ8G-8M7W?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens](https://vulners.com/thn/THN:7A6B17F3EB3220BAA02E9DB0132EE1DC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Leaked n8n API Tokens Exposed Live Instances to Credential Theft](https://vulners.com/thn/THN:F4AF81902E676F5C4E1447D7EBBC91C2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in a.poltoradnev-package-b (npm)](https://vulners.com/ossf/OSSF:MAL-2026-12126?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in a.poltoradnev-package-c (npm)](https://vulners.com/ossf/OSSF:MAL-2026-12127?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in aasp-tent-aasp-tent-core (npm)](https://vulners.com/ossf/OSSF:MAL-2026-12128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -937,11 +964,17 @@
 - Wired
   - [3 Best Tracking Devices for Your Keys, Wallet, and More (2026)](https://www.wired.com/story/the-best-bluetooth-trackers/)
   - [A New Device Eases One of the Most Annoying Parts of Routine Physicals](https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/)
+  - [BenQ GV50 Review: Highly Portable, but With Quality Trade-Offs](https://www.wired.com/review/review-benq-gv50/)
+  - [Cougars Lower the Risks of Car Crashes by Hunting Deer](https://www.wired.com/story/cougars-lower-risks-car-crashes-by-hunting-deer/)
+  - [Gene-Edited Puppies Will Melt Your Heart—but Won’t Trigger Your Allergies](https://www.wired.com/story/gene-edited-puppies-wont-trigger-allergies/)
+  - [No One Can Afford to Make ‘Myst’ Games Anymore](https://www.wired.com/story/no-one-can-afford-to-make-myst-games-anymore/)
   - [OK, Well, Rogue AI Agents Are Hacking Again](https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/)
   - [The White House Is Keeping Its AI Cybersecurity Framework Secret](https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/)
+  - [Viral Mugshot Accounts Are Ruining Women’s Lives](https://www.wired.com/story/viral-mugshot-accounts-are-ruining-womens-lives/)
   - [Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?](https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/)
 - 不安全
   - [[立即抢注用户名] Cloudflare推出面向AI智能体的可编程钱包 可用于API和内容微支付](https://buaq.net/go-433062.html)
+  - [Abusing Extended Attributes to Bypass Application Control For Business](https://buaq.net/go-433167.html)
   - [Full read and write control of a Daikin VAM heat-recovery ventilation unit over the P1/P2 bus, using an Arduino Uno registered as a genuine BRC301B61-compatible slave controller.](https://buaq.net/go-433133.html)
   - [HOW TO GET IDENTITY OF A HACKER](https://buaq.net/go-433104.html)
   - [Reverse Engineering Google Slides](https://buaq.net/go-433134.html)
