@@ -303,6 +303,7 @@
   - [CVE-2026-18895](https://vulners.com/nvd/NVD:CVE-2026-18895?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18896](https://vulners.com/nvd/NVD:CVE-2026-18896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18897](https://vulners.com/nvd/NVD:CVE-2026-18897?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18898](https://vulners.com/nvd/NVD:CVE-2026-18898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18907](https://vulners.com/nvd/NVD:CVE-2026-18907?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-21366](https://vulners.com/nvd/NVD:CVE-2026-21366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-24076](https://vulners.com/nvd/NVD:CVE-2026-24076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -480,6 +481,7 @@
   - [CVE-2026-70620 Odysseus SSRF via Embedding Endpoint Configuration](https://vulners.com/cvelist/CVELIST:CVE-2026-70620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-12720](https://vulners.com/githubexploit/0C90B21A-232E-5EAB-BE09-D904F2EED2B1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-69243](https://vulners.com/githubexploit/0FC311AA-83B9-57D6-9823-AAA621291851?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Input Validation in Microsoft](https://vulners.com/githubexploit/4D0D6DA2-F214-5382-85C5-5916A673AE9F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Incorrect Resource Transfer Between Spheres in Linux Linux_Kernel](https://vulners.com/githubexploit/FEBA9FB1-D4F6-55C9-ACB2-8045C8B8243B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Out-of-bounds Write in Apache Http_Server](https://vulners.com/githubexploit/A8E17CED-DB4F-5C45-A53C-B855BE32362A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Seaweedfs](https://vulners.com/githubexploit/57AFDD2B-28E7-5015-A546-31B3D793BA0B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -550,6 +552,7 @@
   - [The White House Is Keeping Its AI Cybersecurity Framework Secret](https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/)
 - 不安全
   - [[立即抢注用户名] Cloudflare推出面向AI智能体的可编程钱包 可用于API和内容微支付](https://buaq.net/go-433062.html)
+  - [HOW TO GET IDENTITY OF A HACKER](https://buaq.net/go-433104.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
