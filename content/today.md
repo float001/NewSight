@@ -2,6 +2,7 @@
 
 - 2Libra
   - [今天盘后五家财报 · 精简结论](https://2libra.com/post/stock-market/x4vUGr5)
+  - [高强度用了印度区充值的 Grok2 周可以说是出乎意料的好用](https://2libra.com/post/ai-tools/XvtJNK7)
 - Ars Technica
   - [After jacking up prices, Disney+ and Netflix consider offering free alternatives](https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/)
   - [D-Wave on rails: Company tests entanglement on its dual-rail qubits](https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/)
@@ -17,6 +18,7 @@
   - [Western Union brings stablecoin remittances to Visa network with Stablecard](https://cointelegraph.com/news/western-union-stablecard-stablecoin-remittances-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple News Ad of the Week](https://mastodon.social/@gruber/117044545772667716)
+  - [David Pogue: ‘Alexa+ Is a Buggy Embarrassment’](https://pogueman.substack.com/p/alexa-is-a-buggy-embarrassment)
 - darkreading
   - [15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning](https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning)
 - Hacker News Frontpage
@@ -43,15 +45,19 @@
 - simonwillison.net
   - [One-shotting a Raccoon Heist game using Claude Fable 5](https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything)
 - TechCrunch
+  - [How Lightspeed found their newest hire… via Instagram DM](https://techcrunch.com/2026/08/05/how-lightspeed-found-their-newest-hire-via-instagram-dm/)
   - [Jeff Dean and other top AI researchers are leaving Google to launch their own startup](https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/)
   - [Lucid Motors just delayed its affordable EV. Now what?](https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/)
   - [Meet the eight startups pitching at Startup Battlefield Australia](https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/)
+  - [Moove raises $250M to become the backbone of the robotaxi industry](https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/)
   - [PSA: Apple’s Private Relay can leak your real IP address](https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/)
   - [Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools](https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/)
+  - [Why Lightspeed is going all-in on creator-led venture capital](https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/)
 - text/plain
   - [Fiddler in 2026](https://textslashplain.com/2026/08/05/fiddler-in-2026/)
 - The Block
   - [Analysts see bitcoin bottom forming through boredom as price clings to $64K amid spot ETF inflows](https://www.theblock.co/post/410905/analysts-see-bitcoin-bottom-forming-through-boredom-price-clings-64k-amid-spot-etf-inflows?utm_source=rss&utm_medium=rss)
+  - [Block’s bitcoin gross profit falls 31% after Cash App fee cuts as shares reverse initial gains](https://www.theblock.co/post/410923/blocks-bitcoin-gross-profit-falls-31-cash-app-fee-cuts-shares-reverse-initial-gains?utm_source=rss&utm_medium=rss)
   - [CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a ‘late-stage bear market’](https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss)
   - [NFT founder accused of using millions from investor funds to finance DJ hobby, gambling](https://www.theblock.co/post/410890/nft-founder-accused-using-millions-investor-funds-finance-dj-hobby-gambling?utm_source=rss&utm_medium=rss)
   - [TeraWulf’s HPC leasing revenue jumps 52%, widening lead over bitcoin mining](https://www.theblock.co/post/410888/terawulf-hpc-leasing-revenue-jumps-52-widening-lead-over-bitcoin-mining?utm_source=rss&utm_medium=rss)
@@ -68,6 +74,7 @@
   - [Uber CEO brushes off reports of a Waymo break-up](https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership)
 - VulDB Recent Entries
   - [CVE-2026-14587 | Neo4j Enterprise Edition/Community Edition up to 5.26.28/2026.6 Bolt Modern Handshake Decoder resource consumption](https://vuldb.com/vuln/386310)
+  - [CVE-2026-17556 | GitHub Enterprise Server up to 3.21.3 X-GitHub-Request-Id path traversal](https://vuldb.com/vuln/386401)
   - [CVE-2026-17617 | IBM Application Gateway Operator up to 26.06 server-side request forgery](https://vuldb.com/vuln/386309)
   - [CVE-2026-17623 | IBM Langflow OSS up to 1.10.3 MCP Server Configuration command code injection](https://vuldb.com/vuln/386304)
   - [CVE-2026-17624 | IBM Langflow OSS up to 1.10.3 code injection](https://vuldb.com/vuln/386373)
@@ -76,12 +83,20 @@
   - [CVE-2026-17632 | IBM Langflow OSS up to 1.10.3 AST code injection](https://vuldb.com/vuln/386370)
   - [CVE-2026-17633 | IBM Langflow OSS up to 1.10.3 code injection](https://vuldb.com/vuln/386374)
   - [CVE-2026-18485 | NI NI-PAL up to 26.3.1 NI-PAL kernel driver privileges management](https://vuldb.com/vuln/386369)
+  - [CVE-2026-18839 | popt singleOptionHelp integer underflow](https://vuldb.com/vuln/386392)
+  - [CVE-2026-18954 | Amazon DocumentDB MCP Server up to 1.0.11 Aggregation Pipeline improper authorization](https://vuldb.com/vuln/386394)
   - [CVE-2026-18973 | heshengtao super-agent-party up to 0.4.1 extension_proxy Route server.py sanitize_proxy_url server-side request forgery](https://vuldb.com/vuln/386262)
   - [CVE-2026-18974 | heshengtao super-agent-party up to 0.4.1 execute_tool_manually Endpoint server.py get_file_content tool_name/tool_params information disclosure](https://vuldb.com/vuln/386263)
   - [CVE-2026-18976 | NousResearch hermes-agent up to 0.16.0 disabled_toolsets agent/agent_init.py get_tool_definitions privileges assignment (Issue 46171)](https://vuldb.com/vuln/386264)
   - [CVE-2026-18992 | zhayujie CowAgent up to 2.1.1 Self-Evolution Review Agent executor.py _select_tools authorization (Issue 2904)](https://vuldb.com/vuln/386368)
   - [CVE-2026-18993 | NousResearch hermes-agent up to 0.16.0 Memory Toolset model_tools.py access control (46171/46348/48181)](https://vuldb.com/vuln/386377)
   - [CVE-2026-18995 | netease-youdao LobsterAI 2026.6.10 MEDIA Path artifactParser.ts parseMediaTokensFromText information disclosure (Issue 2176)](https://vuldb.com/vuln/386378)
+  - [CVE-2026-19006 | mf-yang openclaw-cn 2026.2.5 Ggateway Exec Approval Flow bash-tools.exec.ts authorization (Issue 563)](https://vuldb.com/vuln/386389)
+  - [CVE-2026-19007 | mf-yang openclaw-cn up to 0.2.1 reply-elevated.ts isApprovedElevatedSender privileges management (Issue 564)](https://vuldb.com/vuln/386390)
+  - [CVE-2026-19008 | mf-yang openclaw-cn up to 0.2.1 apply_patch Tool sandbox-paths.ts assertNoSymlinkEscape link following (565/566)](https://vuldb.com/vuln/386391)
+  - [CVE-2026-19009 | TinyAGI 0.0.20 Message API Endpoint response.ts collectFiles file inclusion (Issue 282)](https://vuldb.com/vuln/386402)
+  - [CVE-2026-19010 | TinyAGI 0.0.20 Message API Endpoint index.ts processMessage authorization (Issue 284)](https://vuldb.com/vuln/386403)
+  - [CVE-2026-19011 | TinyAGI 0.0.20 agents.ts buildSystemPrompt file inclusion (Issue 283)](https://vuldb.com/vuln/386404)
   - [CVE-2026-20028 | Cisco Terminal Services Agent up to TSAgent-1.4.2 Network Driver privileges management](https://vuldb.com/vuln/386302)
   - [CVE-2026-20124 | Cisco IOS XE Software up to 17.18.2 SNMP Subsystem denial of service](https://vuldb.com/vuln/386296)
   - [CVE-2026-20198 | Cisco Enterprise NFV Infrastructure Software Web-based Management Interface cross site scripting](https://vuldb.com/vuln/386307)
@@ -102,7 +117,14 @@
   - [CVE-2026-20308 | Cisco IOS XE Software up to 26.2.1ea Web-based Management Interface input validation](https://vuldb.com/vuln/386312)
   - [CVE-2026-20310 | Cisco SD-WAN Controller/SD-WAN Manager link following](https://vuldb.com/vuln/386316)
   - [CVE-2026-20311 | Cisco IOS XE Software up to 26.2.1ea Web-based Management Interface certificate validation](https://vuldb.com/vuln/386313)
+  - [CVE-2026-21766 | HCL Digital Experience/Digital Experience Compose 9.5 Login Portlet information disclosure](https://vuldb.com/vuln/386405)
   - [CVE-2026-48168 | MervinPraison PraisonAI up to 4.6.39 Claude GitHub Actions Workflow command injection](https://vuldb.com/vuln/386376)
+  - [CVE-2026-55524 | MervinPraison PraisonAI up to 1.6.57 web_crawl server-side request forgery](https://vuldb.com/vuln/386406)
+  - [CVE-2026-66297 | livebook-dev Livebook up to 0.13.0/0.18.6/0.19.0/0.19.8 DeploymentGroupAgentComponent deployment_group_agent_component.ex os command injection](https://vuldb.com/vuln/386399)
+  - [CVE-2026-66298 | livebook-dev Livebook up to 0.18.6/0.19.8 Keyboard Shortcuts js_view.js cross site scripting](https://vuldb.com/vuln/386395)
+  - [CVE-2026-66881 | livebook-dev livebook up to 0.18.6/0.19.8 Import import.ex Name path traversal](https://vuldb.com/vuln/386396)
+  - [CVE-2026-66885 | Livebook-dev Livebook up to 0.18.6/0.19.8 OAuth Callback livebook_teams.ex Livebook.ZTA.LivebookTeams.handle_request code cross-site request forgery](https://vuldb.com/vuln/386407)
+  - [CVE-2026-68746 | Livebook-dev Livebook up to 0.19.7/0.19.8 team_client.ex Livebook.Hubs.TeamClient.handle_call improper authorization](https://vuldb.com/vuln/386393)
   - [CVE-2026-70426 | Jenkins Project Jenkins/Remoting prior 3355.3357.v931d3c992987 deserialization](https://vuldb.com/vuln/386329)
   - [CVE-2026-70427 | Jenkins Project up to 2.567.x Symbolic Links path traversal](https://vuldb.com/vuln/386330)
   - [CVE-2026-70428 | Jenkins Project up to 2.567.x File Path path traversal](https://vuldb.com/vuln/386331)
@@ -138,6 +160,9 @@
   - [CVE-2026-70609 | Electron up to 39.8.6/40.8.x/41.1.x/42.0.0-beta.0 DevTools webContents.openDevTools mode sandbox](https://vuldb.com/vuln/386348)
   - [CVE-2026-70610 | Electron up to 39.8.8/40.9.1/41.2.1/42.0.0-beta.3 contextBridge prototype pollution](https://vuldb.com/vuln/386346)
   - [CVE-2026-70611 | Electron up to 39.8.8/40.9.1/41.2.0/42.0.0-beta.2 DevTools showItemInFolder sandbox](https://vuldb.com/vuln/386349)
+  - [CVE-2026-70616 | boringproxy up to 0.10.0 Handler ID resource consumption](https://vuldb.com/vuln/386397)
+  - [CVE-2026-70617 | Spacebar Server Channels Recipient Endpoint authorization (dcfd910)](https://vuldb.com/vuln/386398)
+  - [CVE-2026-70618 | Spacebar Server Roles Member-Ids Endpoint improper authorization](https://vuldb.com/vuln/386400)
   - [CVE-2026-7326 | Progress MarkLogic Server up to 11.3.5/12.0.2 Admin UI cross-site request forgery](https://vuldb.com/vuln/386283)
   - [CVE-2026-7327 | Progress MarkLogic Server up to 11.3.5/12.0.2 REST API privileges management](https://vuldb.com/vuln/386276)
   - [CVE-2026-7329 | Progress MarkLogic Server up to 11.3.5/12.0.2 SQL/SPARQL/Optic REST query interfaces privileges management](https://vuldb.com/vuln/386277)
@@ -338,6 +363,7 @@
 - Wired
   - [AI Worms and Viruses Are Coming](https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/)
   - [DHS Is Hiring Bounty Hunters to Find and Photograph Deported People’s Homes Abroad](https://www.wired.com/story/dhs-is-hiring-bounty-hunters-to-find-and-photograph-deported-peoples-homes-abroad/)
+  - [DHS Wants Protesters’ Signal Group Chats](https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/)
   - [Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
   - [The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop](https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/)
   - [TikTok Says ‘Moderator Error’ Kept Perez Hilton Livestream Up](https://www.wired.com/story/tiktok-says-moderator-error-kept-perez-hilton-livestream-on-platform/)
