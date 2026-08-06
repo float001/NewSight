@@ -3,12 +3,19 @@
 - 2Libra
   - [150 出售一套 Code IDE 程序，私有化部署，包含网页版，会员中心，电脑安装包，管理后台，包安装 ，另外支持功能定制，](https://2libra.com/post/promotion/dbke2Wp)
   - [Deepseek 要涨价,下一个便宜 AI 将会是谁?](https://2libra.com/post/ai-trends/htr890S)
+  - [【自荐】SnapFind - 本地离线截图 OCR 文字提取与极速查询工具](https://2libra.com/post/open-source-sharing/tQtWGuI)
+  - [【💰】住宅 IP 免费领，跨境/采集/爬虫/AI/Codex 均可用，纯净长效稳定，全场景覆盖](https://2libra.com/post/promotion/aQ9z4oO)
+  - [【💰】如果现在不打工了，大伙儿还有什么路子能活下去？](https://2libra.com/post/side-business/Zgt0X9V)
   - [书荒，求推荐！AI 小说逻辑太智障了](https://2libra.com/post/good-books/VV8gtTh)
   - [今天盘后五家财报 · 精简结论](https://2libra.com/post/stock-market/x4vUGr5)
   - [今日潘多拉：获得 642 金币，不用客气。](https://2libra.com/post/personal-life/q-tt2lz)
+  - [你们会和测试吵架吗](https://2libra.com/post/workplace-stories/sjJWLzf)
+  - [小孩不学习](https://2libra.com/post/family/9Uhxc8E)
   - [擦，潘多拉还掉徽章的么，我就没几个](https://2libra.com/post/forum-function/G771EB2)
+  - [有比较靠谱的汽车托运公司推荐吗？](https://2libra.com/post/recommendations/AnS5Kzc)
   - [请教各位汽车问题](https://2libra.com/post/automobile/-BP_jnp)
   - [高强度用了印度区充值的 Grok2 周可以说是出乎意料的好用](https://2libra.com/post/ai-tools/XvtJNK7)
+  - [魔盒点击关闭后不会消失，依旧静态展示卡面，只是没有关闭按钮了。](https://2libra.com/post/forum-function/ukJbaDS)
 - Ars Technica
   - [After jacking up prices, Disney+ and Netflix consider offering free alternatives](https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/)
   - [D-Wave on rails: Company tests entanglement on its dual-rail qubits](https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/)
@@ -45,6 +52,7 @@
   - [Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod](https://www.hyperprobe.co)
   - [Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show](https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show)
   - [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
+  - [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
   - [Nikita Bier Steps Down as Head of Product at X](https://twitter.com/nikitabier/status/2085105586966827343/)
   - [Nvidia's Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
   - [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)
@@ -84,8 +92,10 @@
 - The Block
   - [Analysts see bitcoin bottom forming through boredom as price clings to $64K amid spot ETF inflows](https://www.theblock.co/post/410905/analysts-see-bitcoin-bottom-forming-through-boredom-price-clings-64k-amid-spot-etf-inflows?utm_source=rss&utm_medium=rss)
   - [Block’s bitcoin gross profit falls 31% after Cash App fee cuts as shares reverse initial gains](https://www.theblock.co/post/410923/blocks-bitcoin-gross-profit-falls-31-cash-app-fee-cuts-shares-reverse-initial-gains?utm_source=rss&utm_medium=rss)
+  - [Cathie Wood’s Ark Invest scoops up $17 million in Circle, $20 million in SpaceX shares following Q2 results](https://www.theblock.co/post/410948/cathie-wood-ark-invest-circle-spacex-q2?utm_source=rss&utm_medium=rss)
   - [CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a ‘late-stage bear market’](https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss)
   - [NFT founder accused of using millions from investor funds to finance DJ hobby, gambling](https://www.theblock.co/post/410890/nft-founder-accused-using-millions-investor-funds-finance-dj-hobby-gambling?utm_source=rss&utm_medium=rss)
+  - [Putin signs landmark crypto law allowing regulated retail trading in Russia](https://www.theblock.co/post/410951/putin-signs-russia-crypto-law?utm_source=rss&utm_medium=rss)
   - [TeraWulf’s HPC leasing revenue jumps 52%, widening lead over bitcoin mining](https://www.theblock.co/post/410888/terawulf-hpc-leasing-revenue-jumps-52-widening-lead-over-bitcoin-mining?utm_source=rss&utm_medium=rss)
   - [‘At a standstill:’ Senate races to salvage Clarity Act before August recess as ethics fight, law enforcement concerns loom](https://www.theblock.co/post/410940/standstill-senate-races-salvage-clarity-act-before-august-recess-ethics-fight-law-enforcement-concerns-loom?utm_source=rss&utm_medium=rss)
 - The Decoder
@@ -265,6 +275,8 @@
   - [CVE-2026-18959](https://vulners.com/nvd/NVD:CVE-2026-18959?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18973](https://vulners.com/nvd/NVD:CVE-2026-18973?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18974](https://vulners.com/nvd/NVD:CVE-2026-18974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18976](https://vulners.com/nvd/NVD:CVE-2026-18976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18980](https://vulners.com/nvd/NVD:CVE-2026-18980?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19023 HDF5 h5dump Untrusted Pointer Dereference in Binary Output of Variable-Length String Datasets](https://vulners.com/cve/CVE-2026-19023?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19023 HDF5 h5dump Untrusted Pointer Dereference in Binary Output of Variable-Length String Datasets](https://vulners.com/cvelist/CVELIST:CVE-2026-19023?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19024 HDF5 H5Pget_fill_value NULL Pointer Dereference via Malformed Fill Value Message](https://vulners.com/cve/CVE-2026-19024?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -456,6 +468,7 @@
   - [OctLurk and SilkLurk Windows Backdoors Target Governments in 6 Countries](https://vulners.com/hackread/HACKREAD:D7D365EE15B48753E12E3730802EA492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes](https://vulners.com/thn/THN:D120B15BE9BB2154E3810B28CE79D06F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures](https://vulners.com/thn/THN:793F85176417410BB494E2A36BBA2B6F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [pocWiki](https://vulners.com/githubexploit/E364AAF1-7B2B-5B5B-A0E1-812DF43949FE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin:  IBM® Db2® is vulnerable to a denial of service with a specially crafted query when stmtheap is set to automatic (CVE-2025-36122)](https://vulners.com/ibm/FD50064C461A42B746C4D381492610DF728904712F7E6EE44BC646F9D00C6DCE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: IBM Tivoli Composite Application Manager for Application Diagnostics installed IBM WebSphere Application Server  traditional is affected by multiple vulnerabilities](https://vulners.com/ibm/4595B0E332CC17F813141B14094949712F57573051B73DF90D7D91E5EF7888FF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: IBM Tivoli Composite Application Manager for Application Diagnostics installed IBM WebSphere Application Server and WebSphere Application Server Liberty are affected by a security bypass vulnerability ​](https://vulners.com/ibm/99B64B74835A81F9152BF690046848C40F2D18EF0C2CB5C8DC1D0C5C0818DA08?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -479,13 +492,18 @@
   - [TikTok Says ‘Moderator Error’ Kept Perez Hilton Livestream Up](https://www.wired.com/story/tiktok-says-moderator-error-kept-perez-hilton-livestream-on-platform/)
   - [Welp, Nobody Saw SpaceX’s Falcon 9 Rocket Crash Into the Moon](https://www.wired.com/story/nobody-saw-spacex-rocket-moon-crash/)
 - 不安全
+  - [From wallet drains to a 12-year-old CryptoJS entropy bug: the Ill Bloom investigation](https://buaq.net/go-433386.html)
   - [Got a question](https://buaq.net/go-433361.html)
+  - [梁圣变梁子：深度求索计划近期整体上调DS API价格 预计涨幅较大](https://buaq.net/go-433374.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Google DeepMind CEO Demis Hassabis 卸任](https://www.solidot.org/story?sid=85019)
   - [微软要求工程师不要最大化 AI Token 使用](https://www.solidot.org/story?sid=85018)
 - 爱范儿
+  - [Gemini 把逆风翻盘的希望，全押在这个人身上](https://www.ifanr.com/1673901?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜余承东:手机之后可能都要大规模涨价/长鑫存储拒绝苹果压价/普华永道专业报告被测出100%由AI生成](https://www.ifanr.com/1674104?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [突发｜谷歌AI一夜巨震，Gemini换帅，首席科学家带三个大牛出走创业](https://www.ifanr.com/1673985?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [议员要求美商务部解释为何放松对阿联酋的出口管制](https://blog.upx8.com/%E8%AE%AE%E5%91%98%E8%A6%81%E6%B1%82%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BD%95%E6%94%BE%E6%9D%BE%E5%AF%B9%E9%98%BF%E8%81%94%E9%85%8B%E7%9A%84%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
   - [谷歌重组 DeepMind 领导层， Demis 卸任， Jeff Dean 离职](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E9%87%8D%E7%BB%84-DeepMind-%E9%A2%86%E5%AF%BC%E5%B1%82-Demis-%E5%8D%B8%E4%BB%BB-Jeff-Dean-%E7%A6%BB%E8%81%8C)
