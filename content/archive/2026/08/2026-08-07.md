@@ -2,7 +2,10 @@
 
 - 404 Media
   - [Scientists Designed a Virtual Alien Lifeform to Hunt for Extraterrestrials](https://www.404media.co/scientists-designed-a-virtual-alien-lifeform-to-hunt-for-extraterrestrials/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#487613: Alinto SOGo v5.12.7 vulnerable to cross-site scripting via malformed ICS calendar invitations](https://kb.cert.org/vuls/id/487613)
 - CoinTelegraph
+  - [Bitcoin ETF inflows surge after Coldcard hack, but link is unclear: Bloomberg analyst](https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin miners’ AI pivot loses Wall Street’s wow factor](https://cointelegraph.com/news/bitcoin-miners-ai-infrastructure-deals-wall-street-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price coils under $65K as US PMI data brings new ‘stagflation’ warning](https://cointelegraph.com/markets/bitcoin-price-compresses-as-us-pmi-data-brings-new-stagflation-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US appellate court mandate affirms Sam Bankman-Fried conviction](https://cointelegraph.com/news/us-appellate-court-mandate-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -13,10 +16,13 @@
 - Data Breach
   - [Exposed SISVISA Database Leaks 102,000 Brazilian Health Surveillance Records](https://securityaffairs.com/196766/data-breach/exposed-sisvisa-database-leaks-102000-brazilian-health-surveillance-records.html)
 - Hacker News Frontpage
+  - [Federal Communications Commission scraps limit on broadcast TV ownership](https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641)
+  - [My phone detects going on a run as "someone snatching my phone and running off"](https://mastodon.gamedev.place/@rygorous/117047697255584965)
   - [Nashville uses eminent domain to block data center near zoo](https://nashvillebanner.com/2026/08/04/metro-council-data-center-eminent-domain-vote/)
 - TechCrunch
   - [Bumble teases a swipe-free future as it doubles down on IRL meetups](https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/)
   - [ChatGPT brings unlimited text chats to free users](https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/)
+  - [Defense tech Hadrian raises $1.37B at $8B valuation](https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/)
   - [Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it](https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/)
   - [Google Wallet now lets parents set up secure balances for their kids](https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/)
   - [Hacker pleads guilty to stealing data from more than 165 Snowflake customers](https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/)
@@ -28,11 +34,14 @@
   - [Tokenized RWAs triple deposits to $7.4 billion as broader DeFi contracts 15%: CoinShares](https://www.theblock.co/post/411015/tokenized-rwas-triple-deposits-to-7-4-billion-as-broader-defi-contracts-15-coinshares?utm_source=rss&utm_medium=rss)
 - The Decoder
   - [Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival](https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/)
+  - [Deepmind's talent drain likely comes down to chip shortages, a conflict of interest, and Google's bureaucracy](https://the-decoder.com/deepminds-talent-drain-likely-comes-down-to-chip-shortages-a-conflict-of-interest-and-googles-bureaucracy/)
   - [Microsoft's AI revenue reportedly depends on OpenAI for 70 percent](https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/)
+  - [OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model](https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/)
 - The Verge
   - [Brendan Carr officially unleashes broadcast consolidation](https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends)
   - [OpenAI is giving ChatGPT free users unlimited text chats](https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats)
   - [Suno shares plans to combat spammy AI music](https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark)
+  - [The Zelda movie’s Ganondorf casting hints at more movies](https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal)
   - [TikTok blames &#8216;moderator error&#8217; on slow response to Perez Hilton livestream](https://www.theverge.com/tech/976228/tiktok-perez-hilton-livestream-moderator-error)
 - VulDB Recent Entries
   - [CVE-2026-65570 | Login with phone number Plugin up to 1.8.70 on WordPress improper authentication](https://vuldb.com/vuln/386670)
