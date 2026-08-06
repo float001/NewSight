@@ -2,12 +2,14 @@
 
 - 404 Media
   - [Scientists Designed a Virtual Alien Lifeform to Hunt for Extraterrestrials](https://www.404media.co/scientists-designed-a-virtual-alien-lifeform-to-hunt-for-extraterrestrials/)
+  - [Software Giant SAP Stops Most Travel and Hiring Because of AI’s Soaring Cost](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 - CERT Recently Published Vulnerability Notes
   - [VU#487613: Alinto SOGo v5.12.7 vulnerable to cross-site scripting via malformed ICS calendar invitations](https://kb.cert.org/vuls/id/487613)
 - CoinTelegraph
   - [Bitcoin ETF inflows surge after Coldcard hack, but link is unclear: Bloomberg analyst](https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin miners’ AI pivot loses Wall Street’s wow factor](https://cointelegraph.com/news/bitcoin-miners-ai-infrastructure-deals-wall-street-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price coils under $65K as US PMI data brings new ‘stagflation’ warning](https://cointelegraph.com/markets/bitcoin-price-compresses-as-us-pmi-data-brings-new-stagflation-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US appellate court mandate affirms Sam Bankman-Fried conviction](https://cointelegraph.com/news/us-appellate-court-mandate-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Senate will vote on CLARITY crypto bill ‘without any question’ this week: Tim Scott](https://cointelegraph.com/news/us-senate-vote-clarity-act-tim-scott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -17,20 +19,27 @@
   - [Exposed SISVISA Database Leaks 102,000 Brazilian Health Surveillance Records](https://securityaffairs.com/196766/data-breach/exposed-sisvisa-database-leaks-102000-brazilian-health-surveillance-records.html)
 - Hacker News Frontpage
   - [Federal Communications Commission scraps limit on broadcast TV ownership](https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641)
+  - [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/)
   - [My phone detects going on a run as "someone snatching my phone and running off"](https://mastodon.gamedev.place/@rygorous/117047697255584965)
   - [Nashville uses eminent domain to block data center near zoo](https://nashvillebanner.com/2026/08/04/metro-council-data-center-eminent-domain-vote/)
+  - [The DISTINCT in Your COUNT](https://boringsql.com/posts/distinct-in-your-count/)
+  - [xAI Ignores Laws and Profits: Rules for Thee, Not for Me](https://illegal.solutions/posts/xai_pollution)
 - TechCrunch
   - [Bumble teases a swipe-free future as it doubles down on IRL meetups](https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/)
   - [ChatGPT brings unlimited text chats to free users](https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/)
+  - [China-linked LightSpy spyware caught targeting victims in 13 countries, including the US](https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/)
   - [Defense tech Hadrian raises $1.37B at $8B valuation](https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/)
   - [Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it](https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/)
+  - [Google says hackers are calling financial firm employees to hack and extort victims](https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/)
   - [Google Wallet now lets parents set up secure balances for their kids](https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/)
   - [Hacker pleads guilty to stealing data from more than 165 Snowflake customers](https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/)
   - [Naïve raises $28.5M to automate the grunt work of setting up and running a company](https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/)
 - The Block
   - [Block’s spending rise despite 40% workforce cut leaves analysts weighing growth prospects](https://www.theblock.co/post/410997/blocks-spending-rise-despite-workforce-cut-leaves-analysts-weighing-growth-prospects?utm_source=rss&utm_medium=rss)
+  - [Coinbase’s Base app will become ‘less Base-centric’ under Cobie, Jesse Pollak says](https://www.theblock.co/post/411023/jesse-pollak-base-app-become-less-base-centric-cobie-builds-trading-platform?utm_source=rss&utm_medium=rss)
   - [DePIN project Vangrid raises $9 million in token round to build spatial data network for physical AI](https://www.theblock.co/post/411022/depin-project-vangrid-funding-token-round-spatial-data-physical-ai?utm_source=rss&utm_medium=rss)
   - [JPMorgan says Hyperliquid faces growing competition while HYPE ETF inflows stall](https://www.theblock.co/post/411001/jpmorgan-hyperliquid-competition-hype-etf-inflows-stall?utm_source=rss&utm_medium=rss)
+  - [Late Ondo founder’s mother seeks control of company and removal of De Bode as CEO](https://www.theblock.co/post/411006/late-ondo-founders-mother-seeks-control-of-company-and-removal-of-de-bode-as-ceo?utm_source=rss&utm_medium=rss)
   - [Tokenized RWAs triple deposits to $7.4 billion as broader DeFi contracts 15%: CoinShares](https://www.theblock.co/post/411015/tokenized-rwas-triple-deposits-to-7-4-billion-as-broader-defi-contracts-15-coinshares?utm_source=rss&utm_medium=rss)
 - The Decoder
   - [Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival](https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/)
@@ -41,6 +50,7 @@
   - [Brendan Carr officially unleashes broadcast consolidation](https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends)
   - [OpenAI is giving ChatGPT free users unlimited text chats](https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats)
   - [Suno shares plans to combat spammy AI music](https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark)
+  - [The AirPods Pro are $60 off, their best price since late June](https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale)
   - [The Zelda movie’s Ganondorf casting hints at more movies](https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal)
   - [TikTok blames &#8216;moderator error&#8217; on slow response to Perez Hilton livestream](https://www.theverge.com/tech/976228/tiktok-perez-hilton-livestream-moderator-error)
 - VulDB Recent Entries
@@ -80,6 +90,7 @@
   - [CVE-2026-66710 | E2Pdf Plugin up to 1.32.40 on WordPress path traversal](https://vuldb.com/vuln/386687)
   - [CVE-2026-66711 | Amir Helzer Multilingual & Multicurrency Plugin up to 5.5.6 on WordPress cross site scripting](https://vuldb.com/vuln/386689)
   - [CVE-2026-66712 | Simple Membership Plugin up to 4.7.8 on WordPress access control](https://vuldb.com/vuln/386686)
+  - [CVE-2026-68480 | Linux Kernel up to 7.1.6 buffer overflow](https://vuldb.com/vuln/386705)
   - [CVE-2026-70637 | hfiref0x LightFTP up to 2.4 ftpserv.c race condition](https://vuldb.com/vuln/386665)
   - [CVE-2026-70646 | vovchic17 aiosend up to 3.0.6 JSON Parsing WebhookHandler.feed_update memory allocation](https://vuldb.com/vuln/386666)
   - [CVE-2026-7867 | Red Hat Enterprise Linux udisks2 as-user privileges management](https://vuldb.com/vuln/386703)
@@ -111,9 +122,13 @@
   - [CVE-2026-68749](https://vulners.com/nvd/NVD:CVE-2026-68749?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68750](https://vulners.com/nvd/NVD:CVE-2026-68750?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs](https://vulners.com/thn/THN:650A0A71C58C5ED8F2AA26EE52202FE3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [phymem-exploit](https://vulners.com/githubexploit/D3ECB8E7-9DC6-5041-9BFB-B7C2A629292D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ResetNightmare-Python](https://vulners.com/githubexploit/3C22B15B-1461-5370-9F3F-5B2B8AC8508A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else](https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/)
+  - [Flock Highlighted Police Departments Using Its Tech. Now 4 Face Allegations of Misuse](https://www.wired.com/story/flock-videos-highlighted-police-departments-that-face-misuse/)
+  - [ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows](https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/)
+  - [Why Normal People Aren’t Using AI Agents](https://www.wired.com/story/why-normal-people-arent-using-ai-agents/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
