@@ -24,6 +24,8 @@
   - [Uh, I’m Pretty Sure People Would Know](https://www.nytimes.com/2026/08/04/magazine/trump-rfk-steak-kimchi-diet.html?unlocked_article_code=1.21A.ymed.OyFVP85xWyNK)
 - darkreading
   - [15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning](https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning)
+  - [AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking](https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking)
+  - [AI Sends Global Crime Syndicates Into Fraud Nirvana](https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana)
 - Hacker News Frontpage
   - [Antigravity 2.0](https://antigravity.google/product/antigravity-2)
   - [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)
@@ -50,7 +52,9 @@
 - PortSwigger Research
   - [Can AI do novel security research? Meet the HTTP Terminator](https://portswigger.net/research/http-terminator)
 - simonwillison.net
+  - [Incident Report: unsanctioned agent behaviour during cyber testing](https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything)
   - [One-shotting a Raccoon Heist game using Claude Fable 5](https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything)
+  - [Third-party cyber evaluations involving OpenAI models](https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything)
 - TechCrunch
   - [Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday](https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/)
   - [How Lightspeed found their newest hire… via Instagram DM](https://techcrunch.com/2026/08/05/how-lightspeed-found-their-newest-hire-via-instagram-dm/)
@@ -116,6 +120,10 @@
   - [CVE-2026-19011 | TinyAGI 0.0.20 agents.ts buildSystemPrompt file inclusion (Issue 283)](https://vuldb.com/vuln/386404)
   - [CVE-2026-19019 | poco-ai poco-agent up to 0.5.4 Claude File workspace.py WorkspaceManager._setup_session_persistence cleanup (Issue 131)](https://vuldb.com/vuln/386419)
   - [CVE-2026-19022 | OpenHands up to 0.62.0 send_pull_request.py initialize_repo command injection (Issue 14903)](https://vuldb.com/vuln/386426)
+  - [CVE-2026-19025 | HDF Group HDF5 up to 2.3.0 Chunk Layout Validation H5Olayout.c H5O__layout_decode divide by zero](https://vuldb.com/vuln/386437)
+  - [CVE-2026-19026 | HDF Group HDF5 up to 2.3.0 N-Bit Filter H5Znbit.c H5Z__filter_nbit null pointer dereference](https://vuldb.com/vuln/386438)
+  - [CVE-2026-19027 | HDF Group HDF5 up to 2.3.0 N-Bit Filter H5Znbit.c out-of-bounds](https://vuldb.com/vuln/386439)
+  - [CVE-2026-19028 | HDF Group HDF5 up to 2.3.0 H5Zfletcher32.c H5Z__filter_fletcher32 out-of-bounds](https://vuldb.com/vuln/386441)
   - [CVE-2026-20028 | Cisco Terminal Services Agent up to TSAgent-1.4.2 Network Driver privileges management](https://vuldb.com/vuln/386302)
   - [CVE-2026-20124 | Cisco IOS XE Software up to 17.18.2 SNMP Subsystem denial of service](https://vuldb.com/vuln/386296)
   - [CVE-2026-20198 | Cisco Enterprise NFV Infrastructure Software Web-based Management Interface cross site scripting](https://vuldb.com/vuln/386307)
@@ -144,8 +152,14 @@
   - [CVE-2026-66298 | livebook-dev Livebook up to 0.18.6/0.19.8 Keyboard Shortcuts js_view.js cross site scripting](https://vuldb.com/vuln/386395)
   - [CVE-2026-66881 | livebook-dev livebook up to 0.18.6/0.19.8 Import import.ex Name path traversal](https://vuldb.com/vuln/386396)
   - [CVE-2026-66885 | Livebook-dev Livebook up to 0.18.6/0.19.8 OAuth Callback livebook_teams.ex Livebook.ZTA.LivebookTeams.handle_request code cross-site request forgery](https://vuldb.com/vuln/386407)
+  - [CVE-2026-67531 | Agentfront FrontMCP up to 1.5.6 Codecall Execute getTool sandbox](https://vuldb.com/vuln/386440)
   - [CVE-2026-67864 | open62541 up to 1.5.5 NodeManagement Type-Instantiation Logic resource consumption](https://vuldb.com/vuln/386429)
   - [CVE-2026-67865 | Systerel S2OPC 1.7.3 RepublishResponse out-of-bounds](https://vuldb.com/vuln/386430)
+  - [CVE-2026-67869 | open62541 up to 1.5.4 buffer overflow](https://vuldb.com/vuln/386442)
+  - [CVE-2026-67870 | open62541 1.5.5 AddReferences ua_services_nodemanagement.c input validation](https://vuldb.com/vuln/386445)
+  - [CVE-2026-67871 | Systerel S2OPC 1.7.3 address_space_bs.c buffer overflow](https://vuldb.com/vuln/386443)
+  - [CVE-2026-67872 | Systerel S2OPC 1.7.3 Queue denial of service](https://vuldb.com/vuln/386446)
+  - [CVE-2026-67873 | mz-automation lib60870 2.4.0 FileSegment FileSegment_encode buffer overflow](https://vuldb.com/vuln/386444)
   - [CVE-2026-68746 | Livebook-dev Livebook up to 0.19.7/0.19.8 team_client.ex Livebook.Hubs.TeamClient.handle_call improper authorization](https://vuldb.com/vuln/386393)
   - [CVE-2026-70426 | Jenkins Project Jenkins/Remoting prior 3355.3357.v931d3c992987 deserialization](https://vuldb.com/vuln/386329)
   - [CVE-2026-70427 | Jenkins Project up to 2.567.x Symbolic Links path traversal](https://vuldb.com/vuln/386330)
@@ -437,10 +451,12 @@
 - wheresyoured.at
   - [News: Microsoft Disclosures Suggest OpenAI Sales Account For Around 70% Of FY26 AI Revenue, more than 7% of FY26 Revenue](https://www.wheresyoured.at/news-microsoft-disclosures-suggest-openai-sales-account-for-around-70-of-fy26-ai-revenue-more-than-7-of-fy26-revenue/)
 - Wired
+  - [A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide](https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/)
   - [AI Worms and Viruses Are Coming](https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/)
   - [DHS Is Hiring Bounty Hunters to Find and Photograph Deported People’s Homes Abroad](https://www.wired.com/story/dhs-is-hiring-bounty-hunters-to-find-and-photograph-deported-peoples-homes-abroad/)
   - [DHS Wants Protesters’ Signal Group Chats](https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/)
   - [Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
+  - [OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts](https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/)
   - [The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop](https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/)
   - [TikTok Says ‘Moderator Error’ Kept Perez Hilton Livestream Up](https://www.wired.com/story/tiktok-says-moderator-error-kept-perez-hilton-livestream-on-platform/)
   - [Welp, Nobody Saw SpaceX’s Falcon 9 Rocket Crash Into the Moon](https://www.wired.com/story/nobody-saw-spacex-rocket-moon-crash/)
