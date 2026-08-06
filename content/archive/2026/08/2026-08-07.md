@@ -5,24 +5,34 @@
 - CoinTelegraph
   - [Bitcoin miners’ AI pivot loses Wall Street’s wow factor](https://cointelegraph.com/news/bitcoin-miners-ai-infrastructure-deals-wall-street-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price coils under $65K as US PMI data brings new ‘stagflation’ warning](https://cointelegraph.com/markets/bitcoin-price-compresses-as-us-pmi-data-brings-new-stagflation-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US appellate court mandate affirms Sam Bankman-Fried conviction](https://cointelegraph.com/news/us-appellate-court-mandate-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Senate will vote on CLARITY crypto bill ‘without any question’ this week: Tim Scott](https://cointelegraph.com/news/us-senate-vote-clarity-act-tim-scott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [Add a Shortcut to Control Center to Open the Current App’s Preferences in the Settings App](https://x.com/SnazzyLabs/status/1969247088488624253?s=20)
   - [BMW Executive in 2023: No Plans to Sell in-Vehicle Ads](https://www.mediapost.com/publications/article/391876/bmw-exec-no-plans-to-sell-in-vehicle-ads.html)
 - Data Breach
   - [Exposed SISVISA Database Leaks 102,000 Brazilian Health Surveillance Records](https://securityaffairs.com/196766/data-breach/exposed-sisvisa-database-leaks-102000-brazilian-health-surveillance-records.html)
 - Hacker News Frontpage
   - [Nashville uses eminent domain to block data center near zoo](https://nashvillebanner.com/2026/08/04/metro-council-data-center-eminent-domain-vote/)
 - TechCrunch
+  - [Bumble teases a swipe-free future as it doubles down on IRL meetups](https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/)
+  - [ChatGPT brings unlimited text chats to free users](https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/)
+  - [Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it](https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/)
   - [Google Wallet now lets parents set up secure balances for their kids](https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/)
   - [Hacker pleads guilty to stealing data from more than 165 Snowflake customers](https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/)
   - [Naïve raises $28.5M to automate the grunt work of setting up and running a company](https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/)
 - The Block
   - [Block’s spending rise despite 40% workforce cut leaves analysts weighing growth prospects](https://www.theblock.co/post/410997/blocks-spending-rise-despite-workforce-cut-leaves-analysts-weighing-growth-prospects?utm_source=rss&utm_medium=rss)
+  - [DePIN project Vangrid raises $9 million in token round to build spatial data network for physical AI](https://www.theblock.co/post/411022/depin-project-vangrid-funding-token-round-spatial-data-physical-ai?utm_source=rss&utm_medium=rss)
   - [JPMorgan says Hyperliquid faces growing competition while HYPE ETF inflows stall](https://www.theblock.co/post/411001/jpmorgan-hyperliquid-competition-hype-etf-inflows-stall?utm_source=rss&utm_medium=rss)
+  - [Tokenized RWAs triple deposits to $7.4 billion as broader DeFi contracts 15%: CoinShares](https://www.theblock.co/post/411015/tokenized-rwas-triple-deposits-to-7-4-billion-as-broader-defi-contracts-15-coinshares?utm_source=rss&utm_medium=rss)
 - The Decoder
   - [Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival](https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/)
+  - [Microsoft's AI revenue reportedly depends on OpenAI for 70 percent](https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/)
 - The Verge
+  - [Brendan Carr officially unleashes broadcast consolidation](https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends)
   - [OpenAI is giving ChatGPT free users unlimited text chats](https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats)
+  - [Suno shares plans to combat spammy AI music](https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark)
   - [TikTok blames &#8216;moderator error&#8217; on slow response to Perez Hilton livestream](https://www.theverge.com/tech/976228/tiktok-perez-hilton-livestream-moderator-error)
 - VulDB Recent Entries
   - [CVE-2026-65570 | Login with phone number Plugin up to 1.8.70 on WordPress improper authentication](https://vuldb.com/vuln/386670)
@@ -65,6 +75,13 @@
   - [CVE-2026-70646 | vovchic17 aiosend up to 3.0.6 JSON Parsing WebhookHandler.feed_update memory allocation](https://vuldb.com/vuln/386666)
   - [CVE-2026-7867 | Red Hat Enterprise Linux udisks2 as-user privileges management](https://vuldb.com/vuln/386703)
 - Vulners.com RSS Feed
+  - [[SECURITY] Fedora 44 Update: chromium-151.0.7922.71-1.fc44](https://vulners.com/fedora/FEDORA:A0B896DA81?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 44 Update: freeipa-4.13.2-1.fc44](https://vulners.com/fedora/FEDORA:41F8E775F0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 44 Update: libXfont2-2.0.9-1.fc44](https://vulners.com/fedora/FEDORA:8F82079707?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 44 Update: samba-4.24.5-1.fc44](https://vulners.com/fedora/FEDORA:8BC5C76629?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 44 Update: tcpreplay-4.6.0-2.fc44](https://vulners.com/fedora/FEDORA:5EB62764F3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 44 Update: trafficserver-10.1.4-1.fc44](https://vulners.com/fedora/FEDORA:B1486764F3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs](https://vulners.com/thn/THN:15C56AA46066142CF70F1970D96C9CE0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18258](https://vulners.com/nvd/NVD:CVE-2026-18258?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18275](https://vulners.com/nvd/NVD:CVE-2026-18275?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18276](https://vulners.com/nvd/NVD:CVE-2026-18276?utm_source=rss&utm_medium=rss&utm_campaign=rss)
