@@ -4,8 +4,11 @@
   - [150 出售一套 Code IDE 程序，私有化部署，包含网页版，会员中心，电脑安装包，管理后台，包安装 ，另外支持功能定制，](https://2libra.com/post/promotion/dbke2Wp)
   - [Deepseek 要涨价,下一个便宜 AI 将会是谁?](https://2libra.com/post/ai-trends/htr890S)
   - [【自荐】SnapFind - 本地离线截图 OCR 文字提取与极速查询工具](https://2libra.com/post/open-source-sharing/tQtWGuI)
+  - [【💰】为什么社区讨论的贴子不会在首页展示，是因为这是敏感贴嘛。](https://2libra.com/post/forum-function/i21FOAa)
   - [【💰】住宅 IP 免费领，跨境/采集/爬虫/AI/Codex 均可用，纯净长效稳定，全场景覆盖](https://2libra.com/post/promotion/aQ9z4oO)
+  - [【💰】在这里发帖，什么情况下才会在首页展示自己发的贴子](https://2libra.com/post/forum-function/_lba7YM)
   - [【💰】如果现在不打工了，大伙儿还有什么路子能活下去？](https://2libra.com/post/side-business/Zgt0X9V)
+  - [【💰】有个疑问 V 站发帖热门是怎么推的，不是回复量嘛，早上发的贴子，现在去主页看看不到了。](https://2libra.com/post/forum-function/6AkXA9Z)
   - [书荒，求推荐！AI 小说逻辑太智障了](https://2libra.com/post/good-books/VV8gtTh)
   - [今天盘后五家财报 · 精简结论](https://2libra.com/post/stock-market/x4vUGr5)
   - [今日潘多拉：获得 642 金币，不用客气。](https://2libra.com/post/personal-life/q-tt2lz)
@@ -67,6 +70,10 @@
   - [Proxmox officially supports Arm, with some caveats](https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/)
 - johndcook.com
   - [The code that didn’t break](https://www.johndcook.com/blog/2026/08/05/math-log/)
+- Kali Linux Tutorials
+  - [diff Command in Linux: Compare Files and Create Patches](https://kalilinuxtutorials.com/diff-command-linux/)
+  - [free Command in Linux: Check Memory Usage and Interpret Output](https://kalilinuxtutorials.com/free-command-linux/)
+  - [rmmod Command in Linux: Remove Kernel Modules and Blacklisting](https://kalilinuxtutorials.com/rmmod-command-linux/)
 - PortSwigger Research
   - [Can AI do novel security research? Meet the HTTP Terminator](https://portswigger.net/research/http-terminator)
 - simonwillison.net
@@ -277,6 +284,8 @@
   - [CVE-2026-18974](https://vulners.com/nvd/NVD:CVE-2026-18974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18976](https://vulners.com/nvd/NVD:CVE-2026-18976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18980](https://vulners.com/nvd/NVD:CVE-2026-18980?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18990](https://vulners.com/nvd/NVD:CVE-2026-18990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18991](https://vulners.com/nvd/NVD:CVE-2026-18991?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19023 HDF5 h5dump Untrusted Pointer Dereference in Binary Output of Variable-Length String Datasets](https://vulners.com/cve/CVE-2026-19023?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19023 HDF5 h5dump Untrusted Pointer Dereference in Binary Output of Variable-Length String Datasets](https://vulners.com/cvelist/CVELIST:CVE-2026-19023?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19024 HDF5 H5Pget_fill_value NULL Pointer Dereference via Malformed Fill Value Message](https://vulners.com/cve/CVE-2026-19024?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -497,6 +506,8 @@
   - [梁圣变梁子：深度求索计划近期整体上调DS API价格 预计涨幅较大](https://buaq.net/go-433374.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [mean](https://dyrnq.com/mean/)
 - 奇客Solidot–传递最新科技情报
   - [Google DeepMind CEO Demis Hassabis 卸任](https://www.solidot.org/story?sid=85019)
   - [微软要求工程师不要最大化 AI Token 使用](https://www.solidot.org/story?sid=85018)
@@ -505,5 +516,6 @@
   - [早报｜余承东:手机之后可能都要大规模涨价/长鑫存储拒绝苹果压价/普华永道专业报告被测出100%由AI生成](https://www.ifanr.com/1674104?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [突发｜谷歌AI一夜巨震，Gemini换帅，首席科学家带三个大牛出走创业](https://www.ifanr.com/1673985?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [三星折叠机Galaxy Z8系列本土预售量创新高](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E6%8A%98%E5%8F%A0%E6%9C%BAGalaxy-Z8%E7%B3%BB%E5%88%97%E6%9C%AC%E5%9C%9F%E9%A2%84%E5%94%AE%E9%87%8F%E5%88%9B%E6%96%B0%E9%AB%98)
   - [议员要求美商务部解释为何放松对阿联酋的出口管制](https://blog.upx8.com/%E8%AE%AE%E5%91%98%E8%A6%81%E6%B1%82%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BD%95%E6%94%BE%E6%9D%BE%E5%AF%B9%E9%98%BF%E8%81%94%E9%85%8B%E7%9A%84%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
   - [谷歌重组 DeepMind 领导层， Demis 卸任， Jeff Dean 离职](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E9%87%8D%E7%BB%84-DeepMind-%E9%A2%86%E5%AF%BC%E5%B1%82-Demis-%E5%8D%B8%E4%BB%BB-Jeff-Dean-%E7%A6%BB%E8%81%8C)
