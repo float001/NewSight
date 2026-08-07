@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【看我的头像】](https://2libra.com/post/forum-function/C-j0KVt)
+  - [大家都几点上班几点下班？单双休？](https://2libra.com/post/personal-life/zJcwJkS)
   - [立秋](https://2libra.com/post/personal-life/JDf1ofN)
 - 404 Media
   - [Scientists Designed a Virtual Alien Lifeform to Hunt for Extraterrestrials](https://www.404media.co/scientists-designed-a-virtual-alien-lifeform-to-hunt-for-extraterrestrials/)
@@ -18,7 +19,9 @@
   - [Crypto market maker Wintermute launches US broker-dealer](https://cointelegraph.com/news/crypto-market-maker-wintermute-launches-us-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Following primary loss, crypto PACs invest $1.5M in 3 US state races](https://cointelegraph.com/news/crypto-pac-florida-alaska-wyoming-primary-races?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [MARA swings to Q2 loss as Bitcoin’s slump masks higher output](https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US appellate court mandate affirms Sam Bankman-Fried conviction](https://cointelegraph.com/news/us-appellate-court-mandate-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US Senate pushes CLARITY Act vote to September: Report](https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Senate will vote on CLARITY crypto bill ‘without any question’ this week: Tim Scott](https://cointelegraph.com/news/us-senate-vote-clarity-act-tim-scott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Add a Shortcut to Control Center to Open the Current App’s Preferences in the Settings App](https://x.com/SnazzyLabs/status/1969247088488624253?s=20)
@@ -46,6 +49,8 @@
   - [xAI Ignores Laws and Profits: Rules for Thee, Not for Me](https://illegal.solutions/posts/xai_pollution)
 - PortSwigger Research
   - [CSS:the bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
+- rtl-sdr.com
+  - [9GRadio: An Android RTL-SDR App for Spectrum Monitoring and Decoding Analog/HAM/Aviation/Marine Radio Traffic](https://www.rtl-sdr.com/9gradio-an-android-rtl-sdr-app-for-spectrum-monitoring-and-decoding-analog-ham-aviation-marine-radio-traffic/)
 - TechCrunch
   - [Bumble teases a swipe-free future as it doubles down on IRL meetups](https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/)
   - [ChatGPT brings unlimited text chats to free users](https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/)
@@ -68,6 +73,8 @@
   - [DePIN project Vangrid raises $9 million in token round to build spatial data network for physical AI](https://www.theblock.co/post/411022/depin-project-vangrid-funding-token-round-spatial-data-physical-ai?utm_source=rss&utm_medium=rss)
   - [JPMorgan says Hyperliquid faces growing competition while HYPE ETF inflows stall](https://www.theblock.co/post/411001/jpmorgan-hyperliquid-competition-hype-etf-inflows-stall?utm_source=rss&utm_medium=rss)
   - [Late Ondo founder’s mother seeks control of company and removal of De Bode as CEO](https://www.theblock.co/post/411006/late-ondo-founders-mother-seeks-control-of-company-and-removal-of-de-bode-as-ceo?utm_source=rss&utm_medium=rss)
+  - [Senate delays Clarity Act vote until after August recess, Thune confirms](https://www.theblock.co/post/411083/senate-delays-clarity-act-vote?utm_source=rss&utm_medium=rss)
+  - [Sui to add post-quantum signature schemes for quantum-safe accounts](https://www.theblock.co/post/410968/sui-post-quantum-signature-scheme?utm_source=rss&utm_medium=rss)
   - [Tokenized RWAs triple deposits to $7.4 billion as broader DeFi contracts 15%: CoinShares](https://www.theblock.co/post/411015/tokenized-rwas-triple-deposits-to-7-4-billion-as-broader-defi-contracts-15-coinshares?utm_source=rss&utm_medium=rss)
   - [Wintermute registers as SEC broker-dealer to trade stocks, options and crypto ETFs](https://www.theblock.co/post/411060/wintermute-registers-as-sec-broker-dealer-to-trade-stocks-options-and-crypto-etfs?utm_source=rss&utm_medium=rss)
 - The Decoder
@@ -156,6 +163,8 @@
   - [CVE-2026-3415 | WSO2 API Control Plane SchemaValidator Mediator resource consumption](https://vuldb.com/vuln/386801)
   - [CVE-2026-3418 | WSO2 API Control Plane System REST API unrestricted upload](https://vuldb.com/vuln/386799)
   - [CVE-2026-41861 | CloudFoundry BOSH up to 2.846.x Agent path traversal](https://vuldb.com/vuln/386802)
+  - [CVE-2026-45198 | Imagination Graphics DDK up to 26.1 RTM1 GPU Firmware memory corruption](https://vuldb.com/vuln/386918)
+  - [CVE-2026-45204 | Imagination Graphics DDK up to 26.1 RTM1 null pointer dereference](https://vuldb.com/vuln/386917)
   - [CVE-2026-48054 | OpenZeppelin Contracts Wizard up to 0.10.8 Test File Generation zip-hardhat.ts name/uri code injection](https://vuldb.com/vuln/386821)
   - [CVE-2026-48074 | OpenReception Appointment Booking up to 1.0.5 StaffService.deleteStaffMember privileges management](https://vuldb.com/vuln/386819)
   - [CVE-2026-48075 | OpenReception appointment-booking-software up to 1.0.4 add-to-tunnel tunnelId/emailHash improper authorization](https://vuldb.com/vuln/386820)
@@ -173,6 +182,7 @@
   - [CVE-2026-48088 | open-reception appointment-booking-software up to 1.0.3 Registration Flow crypto email authorization](https://vuldb.com/vuln/386831)
   - [CVE-2026-49163 | Microsoft Application Insights Profiler path traversal](https://vuldb.com/vuln/386859)
   - [CVE-2026-49391 | Frappe up to 15.108.x/16.18.x Data Import cross site scripting](https://vuldb.com/vuln/386838)
+  - [CVE-2026-49746 | Imagination Graphics DDK up to 26.1 RTM1 out-of-bounds](https://vuldb.com/vuln/386919)
   - [CVE-2026-50481 | Microsoft Azure Active Directory improper authorization](https://vuldb.com/vuln/386861)
   - [CVE-2026-50515 | Microsoft Azure Service Bus deserialization](https://vuldb.com/vuln/386862)
   - [CVE-2026-5336 | DataPress Plugin up to 2.90 on WordPress Template Rendering special elements used in a template engine](https://vuldb.com/vuln/386826)
@@ -411,6 +421,7 @@
   - [GHSA-VP3H-GHGH-JR7G Nx: Zip-Slip in the self-hosted remote cache](https://vulners.com/osv/OSV:GHSA-VP3H-GHGH-JR7G?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-XH95-F55M-82FW vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-XH95-F55M-82FW?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Hackers Stalked Me by Hijacking a Smartwatch for Kids](https://vulners.com/wired/WIRED:C232D27BFAD5DB8B1D4DC74461957B48?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [heap-pwn-tutorial](https://vulners.com/githubexploit/A24B7E50-008C-5BF6-8444-F76F1F73CBEE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [JS-YAML: Quadratic CPU consumption in !!omap resolution (3.x and 4.x) — CVE-2026-59870 fix not backported](https://vulners.com/github/GHSA-5P4M-2WFM-XMQJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [league/commonmark: AttributesExtension href/src unsafe-link filter bypass via embedded control bytes](https://vulners.com/github/GHSA-29PJ-957V-52MC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs](https://vulners.com/thn/THN:650A0A71C58C5ED8F2AA26EE52202FE3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -435,6 +446,7 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [WordPress < 7.0.3 - Stored XSS vulnerabiliity](https://vulners.com/patchstack/PATCHSTACK:3882655D9ECAEC0F6DF0E8A434CDF544?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Wordpress < 7.0.3 - Unauthenticated Sensitive Data Exposure vulnerability](https://vulners.com/patchstack/PATCHSTACK:7DF0243570D1BC3CFB34A47F8076D862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else](https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/)
@@ -448,7 +460,9 @@
 - 奇客Solidot–传递最新科技情报
   - [世界正在耗尽河沙](https://www.solidot.org/story?sid=85028)
 - 爱范儿
+  - [宝马 3 系换代、奔驰 C 级改款，谁更有机会翻盘？](https://www.ifanr.com/1674199?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜OpenAI首款音箱细节曝光:主打「有生命感」的交互/DeepSeek预告将大幅涨价/Switch 2累计销量达2368万台](https://www.ifanr.com/1674259?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [独家体验｜千问大更新，把 Agent 装进了电脑和手机](https://www.ifanr.com/1674265?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [Show me《指环王》！卡帕西强推大模型评测新基准](https://www.qbitai.com/2026/08/467663.html)
 - 黑海洋
