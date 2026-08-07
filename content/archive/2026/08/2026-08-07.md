@@ -5,6 +5,7 @@
   - [【兑换码】别人：秋天的第一杯奶茶 我：秋天的第一波流量](https://2libra.com/post/promotion/xqhlpLV)
   - [【投票】有多少学生逛本站](https://2libra.com/post/questions/-0yfv8F)
   - [【看我的头像】](https://2libra.com/post/forum-function/C-j0KVt)
+  - [【💰】Serv00 放机了](https://2libra.com/post/deal-hunter/1T3H0QU)
   - [【💰】一人推荐一首自己最喜欢的音乐](https://2libra.com/post/music-sharing/KLK0LSO)
   - [【💰】大家能分享分享自己的菜谱吗](https://2libra.com/post/recommendations/-g3k2VK)
   - [【💰】能不能靠 AI 拿下数模](https://2libra.com/post/questions/7MPaRCn)
@@ -19,6 +20,7 @@
   - [有没有安卓苹果双持的](https://2libra.com/post/phone/RyMitc4)
   - [立秋](https://2libra.com/post/personal-life/JDf1ofN)
 - 404 Media
+  - [Flock Pitched a Plan To Turn Uber and Lyft Drivers Into Roaming Surveillance Vehicles](https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/)
   - [Scientists Designed a Virtual Alien Lifeform to Hunt for Extraterrestrials](https://www.404media.co/scientists-designed-a-virtual-alien-lifeform-to-hunt-for-extraterrestrials/)
   - [Software Giant SAP Stops Most Travel and Hiring Because of AI’s Soaring Cost](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 - 90Sec - 专注于网络空间安全
@@ -71,6 +73,7 @@
   - [Quake – 30th Anniversary Update](https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update)
   - [Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds](https://github.com/Kayvan-Zahiri/asr-age-gap)
   - [The DISTINCT in Your COUNT](https://boringsql.com/posts/distinct-in-your-count/)
+  - [The Gargantuan Lie That Is Collapsing the Climate](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)
   - [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
   - [xAI Ignores Laws and Profits: Rules for Thee, Not for Me](https://illegal.solutions/posts/xai_pollution)
 - infosecurity-magazine.com
@@ -79,6 +82,8 @@
   - [Ransomware Surges in July After Q2 Lull](https://www.infosecurity-magazine.com/news/ransomware-surges-july-q2-lull/)
 - OpenAI Blog
   - [How HSP GRUPPE builds AI capabilities for tax advisory](https://openai.com/index/hsp-gruppe)
+- Pen Test Partners
+  - [Breaking the attack chain created by exposed cloud secrets](https://www.pentestpartners.com/security-blog/breaking-the-attack-chain-created-by-exposed-cloud-secrets/)
 - PortSwigger Research
   - [CSS:the bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 - rtl-sdr.com
@@ -87,6 +92,8 @@
   - [FrameRF: An SDR-Based Technical Surveillance Counter-Measure Analysis Platform](https://www.rtl-sdr.com/framerf-an-sdr-based-technical-surveillance-counter-measure-analysis-platform/)
   - [Overhead Sky: A Mac App That Names Local Aircraft in your Menu Bar](https://www.rtl-sdr.com/overhead-sky-a-mac-app-that-names-local-aircraft-in-your-menu-bar/)
   - [Sn0ren Tests the HackRF Pro Portapack H4M Pro](https://www.rtl-sdr.com/sn0ren-tests-the-hackrf-pro-portapack-h4m-pro/)
+- shkspr.mobi
+  - [Metadata for AI Generated Outputs](https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/)
 - TechCrunch
   - [Bumble teases a swipe-free future as it doubles down on IRL meetups](https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/)
   - [ChatGPT brings unlimited text chats to free users](https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/)
@@ -98,10 +105,12 @@
   - [Google Wallet now lets parents set up secure balances for their kids](https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/)
   - [Hacker pleads guilty to stealing data from more than 165 Snowflake customers](https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/)
   - [Naïve raises $28.5M to automate the grunt work of setting up and running a company](https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/)
+  - [New Mexico court orders Meta to pay additional $567M in child safety case](https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/)
   - [OpenAI’s new AI smart speaker will reportedly sell for between $300-$400](https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400/)
   - [Vogue just gave another nod of approval to the tech world](https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/)
   - [Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands](https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/)
 - The Block
+  - [Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract](https://www.theblock.co/post/411136/bernstein-favors-cleanspark-on-ai-execution-as-mara-awaits-first-commercial-contract?utm_source=rss&utm_medium=rss)
   - [Bitcoin miners MARA and CleanSpark post double-digital revenue drops as AI infrastructure pivot continues](https://www.theblock.co/post/411049/bitcoin-miners-mara-cleanspark-double-digital-revenue-drops-ai-infrastructure-pivot?utm_source=rss&utm_medium=rss)
   - [Block’s spending rise despite 40% workforce cut leaves analysts weighing growth prospects](https://www.theblock.co/post/410997/blocks-spending-rise-despite-workforce-cut-leaves-analysts-weighing-growth-prospects?utm_source=rss&utm_medium=rss)
   - [Cathie Wood’s Ark Invest buys $21 million in Block as stock drops 6%](https://www.theblock.co/post/411075/cathie-wood-ark-invest-buys-21-million-block?utm_source=rss&utm_medium=rss)
@@ -127,6 +136,7 @@
   - [OpenAI is giving ChatGPT free users unlimited text chats](https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats)
   - [Suno shares plans to combat spammy AI music](https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark)
   - [The AirPods Pro are $60 off, their best price since late June](https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale)
+  - [The best classic slasher movie you&#8217;ll never watch](https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design)
   - [The Zelda movie’s Ganondorf casting hints at more movies](https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal)
   - [TikTok blames &#8216;moderator error&#8217; on slow response to Perez Hilton livestream](https://www.theverge.com/tech/976228/tiktok-perez-hilton-livestream-moderator-error)
   - [Trevor Noah is hosting Google’s Pixel 11 launch event](https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah)
@@ -402,6 +412,7 @@
   - [CVE-2026-71559 | Apache Fory up to 1.4.x Decoder resource consumption](https://vuldb.com/vuln/386966)
   - [CVE-2026-7867 | Red Hat Enterprise Linux udisks2 as-user privileges management](https://vuldb.com/vuln/386703)
 - Vulners.com RSS Feed
+  - [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://vulners.com/thn/THN:AE4DDB1812425200578F59DF0869501D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: abrt-2.17.9-1.fc43](https://vulners.com/fedora/FEDORA:95BFA76637?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: coreutils-9.7-10.fc43](https://vulners.com/fedora/FEDORA:2281A796BA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: curl-8.15.0-8.fc43](https://vulners.com/fedora/FEDORA:982436DC49?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -462,6 +473,7 @@
   - [CVE-2026-15361](https://vulners.com/nvd/NVD:CVE-2026-15361?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15386](https://vulners.com/nvd/NVD:CVE-2026-15386?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15805](https://vulners.com/nvd/NVD:CVE-2026-15805?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15816](https://vulners.com/nvd/NVD:CVE-2026-15816?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15816 Dracut: dracut: root code execution via unescaped error message written to sourced emergency hook script in die()](https://vulners.com/cve/CVE-2026-15816?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15816 Dracut: dracut: root code execution via unescaped error message written to sourced emergency hook script in die()](https://vulners.com/cvelist/CVELIST:CVE-2026-15816?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16027 Unauthenticated WebSocket-to-XAdES SSRF in Revenue Administration of Türkiye's E-Signature](https://vulners.com/cve/CVE-2026-16027?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -665,6 +677,7 @@
   - [3 Best Cheap Gaming Laptops (2026): Lenovo, MSI, Alienware](https://www.wired.com/gallery/best-cheap-gaming-laptops/)
   - [50% Off DoorDash Promo Code | August 2026](https://www.wired.com/story/doordash-promo-code/)
   - [B&H Photo Promo Codes and Deals This August 2026](https://www.wired.com/story/bh-photo-coupon/)
+  - [Best Webcams (2026): My Honest Take After Testing the Best](https://www.wired.com/story/best-webcams/)
   - [DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else](https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/)
   - [Dyson Promo Codes: 25% Off in August 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
   - [Flock Highlighted Police Departments Using Its Tech. Now 4 Face Allegations of Misuse](https://www.wired.com/story/flock-videos-highlighted-police-departments-that-face-misuse/)
@@ -681,6 +694,7 @@
   - [Ratio vs. Simply Good: Which Plastic-Free Coffee Maker Is Best?](https://www.wired.com/story/plastic-free-coffee-makers/)
   - [Ray-Ban Promo Codes: Save 50% in August 2026](https://www.wired.com/story/ray-ban-promo-code/)
   - [Surfshark Promo Codes: 87% Off | August 2026](https://www.wired.com/story/surfshark-coupon/)
+  - [The 5 Best Laptop Power Banks I've Personally Tested (2026)](https://www.wired.com/story/best-laptop-power-banks/)
   - [The Hottest New AI Chatbot Is Just a Guy Answering Your Questions](https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/)
   - [The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry](https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/)
   - [Uber Eats Promo Codes: $15 Off│August 2026](https://www.wired.com/story/uber-eats-promo-code/)
@@ -699,6 +713,7 @@
   - [在 ChinaJoy ，我看到了第一台「科技潮玩」机器人](https://www.ifanr.com/1674308?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [宝马 3 系换代、奔驰 C 级改款，谁更有机会翻盘？](https://www.ifanr.com/1674199?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜OpenAI首款音箱细节曝光:主打「有生命感」的交互/DeepSeek预告将大幅涨价/Switch 2累计销量达2368万台](https://www.ifanr.com/1674259?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [最后一辆 W16 布加迪，成为了拥有 1600 马力的艺术品](https://www.ifanr.com/1674436?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [独家体验｜千问大更新，把 Agent 装进了电脑和手机](https://www.ifanr.com/1674265?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [解读｜OpenAI 音箱：果味设计，但比苹果多走一步](https://www.ifanr.com/1674363?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
