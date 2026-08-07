@@ -19,6 +19,7 @@
   - [推荐下你们用的顺手的海外服务器](https://2libra.com/post/servers/_Nlf3xD)
   - [有没有安卓苹果双持的](https://2libra.com/post/phone/RyMitc4)
   - [立秋](https://2libra.com/post/personal-life/JDf1ofN)
+  - [还有人用 codex-cli 吗？](https://2libra.com/post/ai-programming/Qro0223)
 - 404 Media
   - [Flock Pitched a Plan To Turn Uber and Lyft Drivers Into Roaming Surveillance Vehicles](https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/)
   - [Scientists Designed a Virtual Alien Lifeform to Hunt for Extraterrestrials](https://www.404media.co/scientists-designed-a-virtual-alien-lifeform-to-hunt-for-extraterrestrials/)
@@ -26,7 +27,9 @@
 - 90Sec - 专注于网络空间安全
   - [信息收集工具+指纹联动poc利用工具](https://forum.90sec.com/t/topic/2556)
 - Ars Technica
+  - [ByteDance trains massive AI model in bid to rival Anthropic](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/)
   - [Suno hopes to go legit with watermarks for AI-generated music](https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/)
+  - [The world's biggest solar telescope caught vortexes on the Sun's surface](https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/)
   - [X wants to keep suing advertisers, asks 5th Circuit to overrule district judge](https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/)
 - Ben's Bites
   - [Ben's session](https://www.bensbites.com/p/bens-session)
@@ -41,6 +44,7 @@
   - [CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO](https://cointelegraph.com/news/clarity-act-delay-asian-crypto-hubs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CleanSpark misses Wall Street revenue estimates as shares sink](https://cointelegraph.com/news/cleanspark-wall-street-revenue-estimates-shares-sink?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto market maker Wintermute launches US broker-dealer](https://cointelegraph.com/news/crypto-market-maker-wintermute-launches-us-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Fierce backlash to Ethereum’s EIP-8363 staking proposal](https://cointelegraph.com/magazine/fierce-backlash-to-ethereums-latest-staking-proposal-eip-8363?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Following primary loss, crypto PACs invest $1.5M in 3 US state races](https://cointelegraph.com/news/crypto-pac-florida-alaska-wyoming-primary-races?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams](https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -63,7 +67,10 @@
   - [Exposed SISVISA Database Leaks 102,000 Brazilian Health Surveillance Records](https://securityaffairs.com/196766/data-breach/exposed-sisvisa-database-leaks-102000-brazilian-health-surveillance-records.html)
 - defend.network
   - [Linux KVM escape, Cisco SD-WAN patches, Spectre v2 defenses bypassed](https://defend.network/briefings/linux-kvm-escape-cisco-sd-wan-spectre-bypasses-2026-08-07.html)
+- devblogs.microsoft.com/oldnewthing
+  - [Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 5](https://devblogs.microsoft.com/oldnewthing/20260807-00/?p=112597)
 - Hacker News Frontpage
+  - [AI psychosis is the new leadership blind spot](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
   - [AMD acquires startup Taalas to boost inference perf by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
   - [Anthropic CEO reportedly worried new hires only care about money](https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html)
   - [Astronomers capture highest-resolution image ever of the Sun's surface](https://physicsworld.com/a/astronomers-capture-highest-resolution-image-ever-of-the-suns-surface/)
@@ -78,12 +85,17 @@
   - [Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds](https://github.com/Kayvan-Zahiri/asr-age-gap)
   - [The DISTINCT in Your COUNT](https://boringsql.com/posts/distinct-in-your-count/)
   - [The Gargantuan Lie That Is Collapsing the Climate](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)
+  - [The web server deployment model breaks at hobby scale](https://w.on-t.work/web-deployment-model)
   - [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
   - [xAI Ignores Laws and Profits: Rules for Thee, Not for Me](https://illegal.solutions/posts/xai_pollution)
+- Horizon3.ai
+  - [Meeting Canada’s Bill C-8 Cybersecurity Requirements with NodeZero®](https://horizon3.ai/downloads/whitepapers/canada-bill-c8-cybersecurity-whitepaper/)
 - infosecurity-magazine.com
   - [Google Links Redact Extortion Group to BlackFile Rebrand](https://www.infosecurity-magazine.com/news/redact-extortion-group-blackfile/)
   - [Healthcare and Victim Support Charities Affected by Beacon Cyber Incident](https://www.infosecurity-magazine.com/news/healthcare-victim-charities-beacon/)
   - [Ransomware Surges in July After Q2 Lull](https://www.infosecurity-magazine.com/news/ransomware-surges-july-q2-lull/)
+- johndcook.com
+  - [cos(200!)](https://www.johndcook.com/blog/2026/08/07/cos200/)
 - OpenAI Blog
   - [How HSP GRUPPE builds AI capabilities for tax advisory](https://openai.com/index/hsp-gruppe)
 - Pen Test Partners
@@ -119,6 +131,7 @@
 - The Block
   - [Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract](https://www.theblock.co/post/411136/bernstein-favors-cleanspark-on-ai-execution-as-mara-awaits-first-commercial-contract?utm_source=rss&utm_medium=rss)
   - [Bitcoin miners MARA and CleanSpark post double-digital revenue drops as AI infrastructure pivot continues](https://www.theblock.co/post/411049/bitcoin-miners-mara-cleanspark-double-digital-revenue-drops-ai-infrastructure-pivot?utm_source=rss&utm_medium=rss)
+  - [Bitcoin tops $65,000 after ‘massive surprise’ US jobs miss](https://www.theblock.co/post/411154/bitcoin-tops-65000-after-massive-surprise-us-jobs-miss?utm_source=rss&utm_medium=rss)
   - [Block’s spending rise despite 40% workforce cut leaves analysts weighing growth prospects](https://www.theblock.co/post/410997/blocks-spending-rise-despite-workforce-cut-leaves-analysts-weighing-growth-prospects?utm_source=rss&utm_medium=rss)
   - [Cathie Wood’s Ark Invest buys $21 million in Block as stock drops 6%](https://www.theblock.co/post/411075/cathie-wood-ark-invest-buys-21-million-block?utm_source=rss&utm_medium=rss)
   - [Coinbase’s Base app will become ‘less Base-centric’ under Cobie, Jesse Pollak says](https://www.theblock.co/post/411023/jesse-pollak-base-app-become-less-base-centric-cobie-builds-trading-platform?utm_source=rss&utm_medium=rss)
@@ -367,6 +380,7 @@
   - [CVE-2026-66491 | phoca.cz Phoca Commander Extension up to 1.0.0/6.1.3 getSource path traversal](https://vuldb.com/vuln/386962)
   - [CVE-2026-66492 | Phoca Commander Extension up to 1.0.0/6.1.3 path traversal](https://vuldb.com/vuln/386959)
   - [CVE-2026-66493 | Phoca Commander Extension up to 6.1.3 path traversal](https://vuldb.com/vuln/386960)
+  - [CVE-2026-66494 | Joomshaper SP Page Builder Extension up to 6.6.2 Shapes API Endpoint cross site scripting](https://vuldb.com/vuln/387005)
   - [CVE-2026-66662 | DynamiApps Frontend Admin Plugin up to 3.29.10 on WordPress privileges management](https://vuldb.com/vuln/386675)
   - [CVE-2026-66663 | Passionate Programmer Peter Data Access Plugin up to 5.5.79 on WordPress cross site scripting](https://vuldb.com/vuln/386693)
   - [CVE-2026-66664 | Squirrly SEO Plugin up to 14.2.0 on WordPress cross site scripting](https://vuldb.com/vuln/386701)
@@ -489,6 +503,8 @@
   - [CVE-2026-15359](https://vulners.com/nvd/NVD:CVE-2026-15359?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15361](https://vulners.com/nvd/NVD:CVE-2026-15361?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15386](https://vulners.com/nvd/NVD:CVE-2026-15386?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15570 Improper URL Scheme and Destination Validation in SmartCenter browserseturl Command](https://vulners.com/cve/CVE-2026-15570?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15570 Improper URL Scheme and Destination Validation in SmartCenter browserseturl Command](https://vulners.com/cvelist/CVELIST:CVE-2026-15570?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15805](https://vulners.com/nvd/NVD:CVE-2026-15805?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15816](https://vulners.com/nvd/NVD:CVE-2026-15816?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15816 Dracut: dracut: root code execution via unescaped error message written to sourced emergency hook script in die()](https://vulners.com/cve/CVE-2026-15816?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -504,6 +520,8 @@
   - [CVE-2026-16263](https://vulners.com/nvd/NVD:CVE-2026-16263?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16265](https://vulners.com/nvd/NVD:CVE-2026-16265?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16633](https://vulners.com/cve/CVE-2026-16633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16637 OPeNDAP Hyrax SSRF and Credential Disclosure via Unvalidated Redirects](https://vulners.com/cve/CVE-2026-16637?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16637 OPeNDAP Hyrax SSRF and Credential Disclosure via Unvalidated Redirects](https://vulners.com/cvelist/CVELIST:CVE-2026-16637?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17264](https://vulners.com/nvd/NVD:CVE-2026-17264?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18258](https://vulners.com/nvd/NVD:CVE-2026-18258?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18275](https://vulners.com/nvd/NVD:CVE-2026-18275?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -531,6 +549,7 @@
   - [CVE-2026-43622](https://vulners.com/nvd/NVD:CVE-2026-43622?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45198](https://vulners.com/nvd/NVD:CVE-2026-45198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45204](https://vulners.com/nvd/NVD:CVE-2026-45204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48094](https://vulners.com/nvd/NVD:CVE-2026-48094?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48094 ShareOpenly has Cross-Site Scripting (XSS) via Missing esc_url() on Shared URL in Content Output](https://vulners.com/cve/CVE-2026-48094?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48094 ShareOpenly has Cross-Site Scripting (XSS) via Missing esc_url() on Shared URL in Content Output](https://vulners.com/cvelist/CVELIST:CVE-2026-48094?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49005](https://vulners.com/nvd/NVD:CVE-2026-49005?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -566,8 +585,10 @@
   - [CVE-2026-5423](https://vulners.com/nvd/NVD:CVE-2026-5423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56161](https://vulners.com/nvd/NVD:CVE-2026-56161?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56162](https://vulners.com/nvd/NVD:CVE-2026-56162?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56793](https://vulners.com/nvd/NVD:CVE-2026-56793?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56794](https://vulners.com/cve/CVE-2026-56794?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56794](https://vulners.com/cvelist/CVELIST:CVE-2026-56794?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56794](https://vulners.com/nvd/NVD:CVE-2026-56794?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59115](https://vulners.com/nvd/NVD:CVE-2026-59115?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59118](https://vulners.com/nvd/NVD:CVE-2026-59118?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-62830](https://vulners.com/nvd/NVD:CVE-2026-62830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -582,12 +603,16 @@
   - [CVE-2026-66491](https://vulners.com/nvd/NVD:CVE-2026-66491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66492](https://vulners.com/nvd/NVD:CVE-2026-66492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66493](https://vulners.com/nvd/NVD:CVE-2026-66493?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66494](https://vulners.com/nvd/NVD:CVE-2026-66494?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66808](https://vulners.com/cve/CVE-2026-66808?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66808](https://vulners.com/redhatcve/RH:CVE-2026-66808?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66829](https://vulners.com/nvd/NVD:CVE-2026-66829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66838](https://vulners.com/nvd/NVD:CVE-2026-66838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66838 SQL injection via the :comment option in Postgrex.stream/4](https://vulners.com/cve/CVE-2026-66838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66838 SQL injection via the :comment option in Postgrex.stream/4](https://vulners.com/cvelist/CVELIST:CVE-2026-66838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66843](https://vulners.com/nvd/NVD:CVE-2026-66843?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66914 Joomla Extension - seblod.com - Unauthenticated path traversal in SEBLOD < 3.30.0, < 4.7.0, < 6.0.1](https://vulners.com/cve/CVE-2026-66914?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66914 Joomla Extension - seblod.com - Unauthenticated path traversal in SEBLOD < 3.30.0, < 4.7.0, < 6.0.1](https://vulners.com/cvelist/CVELIST:CVE-2026-66914?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67422](https://vulners.com/redhatcve/RH:CVE-2026-67422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68481](https://vulners.com/circl/CIRCL:CVE-2026-68481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68747](https://vulners.com/nvd/NVD:CVE-2026-68747?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -656,6 +681,7 @@
   - [Exploit for Incorrect Authorization in Apache Polaris](https://vulners.com/githubexploit/A2EBB5E2-41FA-5E5A-9674-26517062D9B6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Off-by-one Error in Sudo_Project Sudo](https://vulners.com/githubexploit/5AF99452-0953-51CE-BEF7-AC6F6ACF44AC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Signal Handler Race Condition in Sonicwall Sma_6200_Firmware](https://vulners.com/githubexploit/2AB4EF50-4ADC-5240-8795-A68B64A7A43B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Uncontrolled Resource Consumption in Google Android](https://vulners.com/githubexploit/815D6A40-ACA8-5E79-A7B9-213C1DF46A49?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-4HFH-6X8G-GWPP vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-4HFH-6X8G-GWPP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-6HM5-JGCP-P838 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-6HM5-JGCP-P838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-83F7-V6PX-PP3H vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-83F7-V6PX-PP3H?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -695,6 +721,7 @@
   - [Security Bulletin:Vulnerability in Netty affects IBM Netezza Appliance](https://vulners.com/ibm/D7F3CBE2024F031B4110AE4CD02EF22E770F2799AABCD2778A8BBC5E420B34B7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin:Vulnerability in Tar affects IBM Netezza Appliance](https://vulners.com/ibm/EB954B0DAC2D649926F618BE8E970B8582AC49A58A66ACE9339C14CD05695EB1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Silverstripe: XSS in breadcrumbs in page list view](https://vulners.com/github/GHSA-W3CP-G2PF-65WH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Task4-Exploitation-System-Security](https://vulners.com/githubexploit/88054789-E1E3-5DA3-86E4-387A3D4ACCA8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerabilities in the net/bluetooth/eir.c and net/bluetooth/mgmt.c modules of Linux kernel allow a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability in the drivers/bluetooth/btnxpuart.c module of Linux operating systems allows a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of Microsoft Office packages and 365 Apps for Enterprise lies in the use of memory after it is freed, allowing an attacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -726,6 +753,7 @@
   - [Newegg Promo Codes and Coupons for August 2026](https://www.wired.com/story/newegg-promo-code/)
   - [Nike Promo Codes and Discounts: 30% for August 2026](https://www.wired.com/story/nike-promo-code/)
   - [One of China’s Most Powerful AI Models Has Also Escaped Containment](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)
+  - [Our Favorite Fans Are on Sale to Help With Summer Heat Waves (2026)](https://www.wired.com/story/fan-deals-august-2026/)
   - [Ranking the Best Smart Glasses: Meta, Viture, & More (2026)](https://www.wired.com/gallery/best-smart-glasses/)
   - [Ratio vs. Simply Good: Which Plastic-Free Coffee Maker Is Best?](https://www.wired.com/story/plastic-free-coffee-makers/)
   - [Ray-Ban Promo Codes: Save 50% in August 2026](https://www.wired.com/story/ray-ban-promo-code/)
@@ -738,6 +766,7 @@
   - [Why Normal People Aren’t Using AI Agents](https://www.wired.com/story/why-normal-people-arent-using-ai-agents/)
 - 不安全
   - [Building a Homemade Weather Radar with a HackRF or PlutoSDR and Salvaged Automatic RV Dish](https://buaq.net/go-433643.html)
+  - [Meeting Canada’s Bill C-8 Cybersecurity Requirements with NodeZero®](https://buaq.net/go-433727.html)
   - [Static analyzer for Flutter/Dart AOT snapshots — recovers function names, class hierarchies, call graphs, and behavioral signals from libapp.so without embedding or executing the Dart VM. Supports ARM64 and x86_64, Dart 2.10–3.12.](https://buaq.net/go-433692.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -758,6 +787,7 @@
   - [蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作](https://www.qbitai.com/2026/08/467871.html)
 - 黑海洋
   - [AI音乐生成器Suno开始为歌曲添加水印](https://blog.upx8.com/AI%E9%9F%B3%E4%B9%90%E7%94%9F%E6%88%90%E5%99%A8Suno%E5%BC%80%E5%A7%8B%E4%B8%BA%E6%AD%8C%E6%9B%B2%E6%B7%BB%E5%8A%A0%E6%B0%B4%E5%8D%B0)
+  - [Linux KVM 曝出虚拟机逃逸漏洞 嵌套虚拟化功能成攻击突破口](https://blog.upx8.com/Linux-KVM-%E6%9B%9D%E5%87%BA%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%80%83%E9%80%B8%E6%BC%8F%E6%B4%9E-%E5%B5%8C%E5%A5%97%E8%99%9A%E6%8B%9F%E5%8C%96%E5%8A%9F%E8%83%BD%E6%88%90%E6%94%BB%E5%87%BB%E7%AA%81%E7%A0%B4%E5%8F%A3)
   - [OpenAI开放免费用户与ChatGPT文字畅聊](https://blog.upx8.com/OpenAI%E5%BC%80%E6%94%BE%E5%85%8D%E8%B4%B9%E7%94%A8%E6%88%B7%E4%B8%8EChatGPT%E6%96%87%E5%AD%97%E7%95%85%E8%81%8A)
   - [华尔街多家对冲基金遭遇语音钓鱼攻击](https://blog.upx8.com/%E5%8D%8E%E5%B0%94%E8%A1%97%E5%A4%9A%E5%AE%B6%E5%AF%B9%E5%86%B2%E5%9F%BA%E9%87%91%E9%81%AD%E9%81%87%E8%AF%AD%E9%9F%B3%E9%92%93%E9%B1%BC%E6%94%BB%E5%87%BB)
   - [特斯拉FSD升级引HW3电脑过热故障](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89FSD%E5%8D%87%E7%BA%A7%E5%BC%95HW3%E7%94%B5%E8%84%91%E8%BF%87%E7%83%AD%E6%95%85%E9%9A%9C)
