@@ -2,7 +2,10 @@
 
 - 2Libra
   - [【看我的头像】](https://2libra.com/post/forum-function/C-j0KVt)
+  - [【💰】大家能分享分享自己的菜谱吗](https://2libra.com/post/recommendations/-g3k2VK)
+  - [基于 WebRTC 的开源音视频、屏幕共享项目](https://2libra.com/post/sharing-discoveries/YwsNaSj)
   - [大家都几点上班几点下班？单双休？](https://2libra.com/post/personal-life/zJcwJkS)
+  - [有没有安卓苹果双持的](https://2libra.com/post/phone/RyMitc4)
   - [立秋](https://2libra.com/post/personal-life/JDf1ofN)
 - 404 Media
   - [Scientists Designed a Virtual Alien Lifeform to Hunt for Extraterrestrials](https://www.404media.co/scientists-designed-a-virtual-alien-lifeform-to-hunt-for-extraterrestrials/)
@@ -16,6 +19,7 @@
   - [Bitcoin ETF inflows surge after Coldcard hack, but link is unclear: Bloomberg analyst](https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin miners’ AI pivot loses Wall Street’s wow factor](https://cointelegraph.com/news/bitcoin-miners-ai-infrastructure-deals-wall-street-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price coils under $65K as US PMI data brings new ‘stagflation’ warning](https://cointelegraph.com/markets/bitcoin-price-compresses-as-us-pmi-data-brings-new-stagflation-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitget explores licensed crypto presence in Bhutan](https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto market maker Wintermute launches US broker-dealer](https://cointelegraph.com/news/crypto-market-maker-wintermute-launches-us-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Following primary loss, crypto PACs invest $1.5M in 3 US state races](https://cointelegraph.com/news/crypto-pac-florida-alaska-wyoming-primary-races?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -51,6 +55,8 @@
   - [CSS:the bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 - rtl-sdr.com
   - [9GRadio: An Android RTL-SDR App for Spectrum Monitoring and Decoding Analog/HAM/Aviation/Marine Radio Traffic](https://www.rtl-sdr.com/9gradio-an-android-rtl-sdr-app-for-spectrum-monitoring-and-decoding-analog-ham-aviation-marine-radio-traffic/)
+  - [FrameRF: An SDR-Based Technical Surveillance Counter-Measure Analysis Platform](https://www.rtl-sdr.com/framerf-an-sdr-based-technical-surveillance-counter-measure-analysis-platform/)
+  - [Overhead Sky: A Mac App That Names Local Aircraft in your Menu Bar](https://www.rtl-sdr.com/overhead-sky-a-mac-app-that-names-local-aircraft-in-your-menu-bar/)
 - TechCrunch
   - [Bumble teases a swipe-free future as it doubles down on IRL meetups](https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/)
   - [ChatGPT brings unlimited text chats to free users](https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/)
@@ -68,6 +74,7 @@
 - The Block
   - [Bitcoin miners MARA and CleanSpark post double-digital revenue drops as AI infrastructure pivot continues](https://www.theblock.co/post/411049/bitcoin-miners-mara-cleanspark-double-digital-revenue-drops-ai-infrastructure-pivot?utm_source=rss&utm_medium=rss)
   - [Block’s spending rise despite 40% workforce cut leaves analysts weighing growth prospects](https://www.theblock.co/post/410997/blocks-spending-rise-despite-workforce-cut-leaves-analysts-weighing-growth-prospects?utm_source=rss&utm_medium=rss)
+  - [Cathie Wood’s Ark Invest buys $21 million in Block as stock drops 6%](https://www.theblock.co/post/411075/cathie-wood-ark-invest-buys-21-million-block?utm_source=rss&utm_medium=rss)
   - [Coinbase’s Base app will become ‘less Base-centric’ under Cobie, Jesse Pollak says](https://www.theblock.co/post/411023/jesse-pollak-base-app-become-less-base-centric-cobie-builds-trading-platform?utm_source=rss&utm_medium=rss)
   - [Crypto bill ethics provision could let Trump defer millions in taxes: Bloomberg](https://www.theblock.co/post/411065/crypto-bill-ethics-provision-could-let-trump-defer-millions-in-taxes-bloomberg?utm_source=rss&utm_medium=rss)
   - [DePIN project Vangrid raises $9 million in token round to build spatial data network for physical AI](https://www.theblock.co/post/411022/depin-project-vangrid-funding-token-round-spatial-data-physical-ai?utm_source=rss&utm_medium=rss)
@@ -327,11 +334,15 @@
   - [CVE-2026-18427](https://vulners.com/nvd/NVD:CVE-2026-18427?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19046](https://vulners.com/nvd/NVD:CVE-2026-19046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19047](https://vulners.com/nvd/NVD:CVE-2026-19047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19189](https://vulners.com/nvd/NVD:CVE-2026-19189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3430](https://vulners.com/nvd/NVD:CVE-2026-3430?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41839 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-41839?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41840 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-41840?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-43622](https://vulners.com/nvd/NVD:CVE-2026-43622?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45198](https://vulners.com/nvd/NVD:CVE-2026-45198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45204](https://vulners.com/nvd/NVD:CVE-2026-45204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49163](https://vulners.com/nvd/NVD:CVE-2026-49163?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49746](https://vulners.com/nvd/NVD:CVE-2026-49746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50481](https://vulners.com/nvd/NVD:CVE-2026-50481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50515](https://vulners.com/nvd/NVD:CVE-2026-50515?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53977](https://vulners.com/nvd/NVD:CVE-2026-53977?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -463,9 +474,12 @@
   - [宝马 3 系换代、奔驰 C 级改款，谁更有机会翻盘？](https://www.ifanr.com/1674199?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜OpenAI首款音箱细节曝光:主打「有生命感」的交互/DeepSeek预告将大幅涨价/Switch 2累计销量达2368万台](https://www.ifanr.com/1674259?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [独家体验｜千问大更新，把 Agent 装进了电脑和手机](https://www.ifanr.com/1674265?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [解读｜OpenAI 音箱：果味设计，但比苹果多走一步](https://www.ifanr.com/1674363?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [Show me《指环王》！卡帕西强推大模型评测新基准](https://www.qbitai.com/2026/08/467663.html)
+  - [蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作](https://www.qbitai.com/2026/08/467871.html)
 - 黑海洋
   - [AI音乐生成器Suno开始为歌曲添加水印](https://blog.upx8.com/AI%E9%9F%B3%E4%B9%90%E7%94%9F%E6%88%90%E5%99%A8Suno%E5%BC%80%E5%A7%8B%E4%B8%BA%E6%AD%8C%E6%9B%B2%E6%B7%BB%E5%8A%A0%E6%B0%B4%E5%8D%B0)
   - [OpenAI开放免费用户与ChatGPT文字畅聊](https://blog.upx8.com/OpenAI%E5%BC%80%E6%94%BE%E5%85%8D%E8%B4%B9%E7%94%A8%E6%88%B7%E4%B8%8EChatGPT%E6%96%87%E5%AD%97%E7%95%85%E8%81%8A)
+  - [华尔街多家对冲基金遭遇语音钓鱼攻击](https://blog.upx8.com/%E5%8D%8E%E5%B0%94%E8%A1%97%E5%A4%9A%E5%AE%B6%E5%AF%B9%E5%86%B2%E5%9F%BA%E9%87%91%E9%81%AD%E9%81%87%E8%AF%AD%E9%9F%B3%E9%92%93%E9%B1%BC%E6%94%BB%E5%87%BB)
   - [特斯拉FSD升级引HW3电脑过热故障](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89FSD%E5%8D%87%E7%BA%A7%E5%BC%95HW3%E7%94%B5%E8%84%91%E8%BF%87%E7%83%AD%E6%95%85%E9%9A%9C)
