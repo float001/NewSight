@@ -1,6 +1,21 @@
 # 今日安全资讯（2026-08-09）
 
+- 2Libra
+  - [【💰】大周末去哪里玩比较凉快](https://2libra.com/post/recommendations/qpf7zKX)
+- CoinTelegraph
+  - [US spot Bitcoin ETFs post best week since April with $1B inflows](https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - TechCrunch
   - [The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have](https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/)
+  - [X replaces ‘misaligned’ revenue sharing program with Original Content Rewards](https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/)
+- VulDB Recent Entries
+  - [CVE-2026-19350 | Dolibarr ERP up to 23.0.3 TakePOS invoice.php fail authorization (Issue 38949)](https://vuldb.com/vuln/387189)
+  - [CVE-2026-19351 | dresende node-sql-query 0.1.25/0.1.26/0.1.27/0.1.28 Request Parameter lib/Select.js SelectQuery.from/SelectQuery.build sql injection](https://vuldb.com/vuln/387190)
+  - [CVE-2026-19352 | mifi lossless-cut up to 3.69.0 Built-in HTTP API Service src/main/httpServer.ts server-side request forgery](https://vuldb.com/vuln/387191)
+  - [CVE-2026-67620 | FlowiseAI Flowise up to 3.1.4 SSRF Guard httpSecurity.ts server-side request forgery](https://vuldb.com/vuln/387188)
+- Vulners.com RSS Feed
+  - [CVE-2026-42170](https://vulners.com/nvd/NVD:CVE-2026-42170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-67620](https://vulners.com/nvd/NVD:CVE-2026-67620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
