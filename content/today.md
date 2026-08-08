@@ -2,6 +2,7 @@
 
 - 2Libra
   - [AI 时代，下一轮增长机会可能藏在“能源”里？](https://2libra.com/post/stock-market/1OI_CFg)
+  - [Edge 也要弃用 manifest v2 了，顺便推荐一下 Zen](https://2libra.com/post/software-tools/gOR1xpf)
   - [【rebo】微博网页版浏览器插件](https://2libra.com/post/browser-extensions/_6z7Wto)
   - [【💰】通货膨胀，普通人该怎么办？](https://2libra.com/post/financial-management/gZC5ta8)
   - [一个学费米，弄着玩儿吧](https://2libra.com/post/domain-service/202Iy1j)
@@ -36,6 +37,7 @@
   - [The CISO’s Guide to Catching Data Leaks Before They Hit ChatGPT and Other LLMs](https://fidelissecurity.com/threatgeek/data-protection/prevent-data-leaks-chatgpt-llms/)
   - [Unified Security Solution Guide: Evaluating Fidelis Elevate Across Features, Deployment, and Integrations](https://fidelissecurity.com/threatgeek/xdr-security/unified-security-solution-fidelis-elevate/)
 - Hacker News Frontpage
+  - [Apple Introduces Leasing Program for iPhones and Other Devices](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)
   - [ICE will release body cam video only when seen in the agency's 'best interests'](https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57)
   - [Mythos social engineering AISI INC-2026-07-28-01](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
   - [The AI Billboards Are Killing SF](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)
@@ -44,6 +46,8 @@
   - [Navigating the Pivot From Tech Expert to Organizational Leader](https://spectrum.ieee.org/navigating-pivot-tech-expert-leader)
 - johndcook.com
   - [Corrupted apostrophes](https://www.johndcook.com/blog/2026/08/07/corrupted-apostrophes/)
+- NVIDIA AI Blog
+  - [Firebird Launches CIS Region’s Largest AI Factory in Armenia](https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/)
 - simonwillison.net
   - [Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)](https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything)
   - [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything)
@@ -289,6 +293,8 @@
   - [CVE-2026-19270](https://vulners.com/nvd/NVD:CVE-2026-19270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19270 Hulupeep mcp-ui-probe Journey/Usage JourneyStorage.ts usage_stats path traversal](https://vulners.com/cve/CVE-2026-19270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19270 Hulupeep mcp-ui-probe Journey/Usage JourneyStorage.ts usage_stats path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19279 MIMICLab mcp-pdf-vision index.ts load_pdf command injection](https://vulners.com/cve/CVE-2026-19279?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19279 MIMICLab mcp-pdf-vision index.ts load_pdf command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19279?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-20337](https://vulners.com/nvd/NVD:CVE-2026-20337?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-20337 ClamAV ZIP File Format Processing Memory Corruption Vulnerability](https://vulners.com/cve/CVE-2026-20337?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-20337 ClamAV ZIP File Format Processing Memory Corruption Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-20337?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -421,8 +427,10 @@
   - [CVE-2026-67585](https://vulners.com/nvd/NVD:CVE-2026-67585?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67585 Atom Exhaustion via _entities Representation Keys in DivvyPayHQ absinthe_federation](https://vulners.com/cve/CVE-2026-67585?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67585 Atom Exhaustion via _entities Representation Keys in DivvyPayHQ absinthe_federation](https://vulners.com/cvelist/CVELIST:CVE-2026-67585?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68081](https://vulners.com/nvd/NVD:CVE-2026-68081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68081 KVM: nVMX: Put vmcs12 pages if nested VM-Enter fails due to invalid guest state](https://vulners.com/cve/CVE-2026-68081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68081 KVM: nVMX: Put vmcs12 pages if nested VM-Enter fails due to invalid guest state](https://vulners.com/cvelist/CVELIST:CVE-2026-68081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68082](https://vulners.com/nvd/NVD:CVE-2026-68082?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68082 libceph: fix two unsafe bare decodes in decode_lockers()](https://vulners.com/cve/CVE-2026-68082?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68082 libceph: fix two unsafe bare decodes in decode_lockers()](https://vulners.com/cvelist/CVELIST:CVE-2026-68082?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68772](https://vulners.com/nvd/NVD:CVE-2026-68772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -498,6 +506,7 @@
   - [Exploit for Improper Neutralization of Special Elements Used in a Template Engine in Rejetto Http_File_Server](https://vulners.com/githubexploit/2AEC0FDA-C2E9-5385-BA16-618D16320DBD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for PHP Remote File Inclusion in Synacor Zimbra_Collaboration_Suite](https://vulners.com/githubexploit/98F7E85D-8F3D-5F46-ABA3-DEA3AFA0B878?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Exim](https://vulners.com/githubexploit/E7C2F65C-EBD7-5DF8-AEAB-303AEE20F6D3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [exploit-development-framework](https://vulners.com/githubexploit/042E0A15-47C1-5A6C-9C8B-62BCDB7570BE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Friday Squid Blogging: Arctic Bobtail Squid Video](https://vulners.com/schneier/SCHNEIER:E4BC008313FED5D1135E8355648CE1CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Ghostlink_lite](https://vulners.com/githubexploit/00FB1824-9216-5488-85C9-0572F4EFE1AC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2V8P-3F2J-5MP7 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-2V8P-3F2J-5MP7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -553,9 +562,11 @@
 - wheresyoured.at
   - [Premium: The Hater's Guide To NVIDIA (Part 2)](https://www.wheresyoured.at/premium-the-haters-guide-to-nvidia-part-2/)
 - Wired
+  - [Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed](https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/)
   - [Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots](https://www.wired.com/review/hairmax-laserband-82-comfortflex/)
   - [The 7 Best TV Shows to Stream This Month](https://www.wired.com/story/the-7-best-shows-to-stream-right-now/)
   - [The Chinese Philosopher Americans Can’t Stop Fighting About](https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/)
+  - [Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited](https://www.wired.com/review/xteink-x4-pro-e-reader/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 天黑说嘿话
