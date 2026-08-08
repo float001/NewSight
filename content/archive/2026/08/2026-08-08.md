@@ -12,6 +12,7 @@
   - [Circle expands USDC to OKX ecosystem with X Layer launch](https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Donald Trump’s media company to terminate Crypto.com deal](https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US court backs Bybit’s bid to trace funds from $1.5B North Korea hack](https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [An AI Model From Meta Also Hacked Another Company During Testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/)
   - [App Store Review Times Are Failing to Meet the AI-Driven Influx of Submissions](https://macaw.social/@mergesort/117055390966724799)
@@ -41,6 +42,7 @@
   - [The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI](https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Deserialization of Untrusted Data in Jetbrains Teamcity](https://sploitus.com/exploit?id=AFCC98D3-030D-51DB-BA2D-441C735E9B6B&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Neutralization of Special Elements Used in a Template Engine in Rejetto Http_File_Server](https://sploitus.com/exploit?id=2AEC0FDA-C2E9-5385-BA16-618D16320DBD&utm_source=rss&utm_medium=rss)
   - [m7s-root exploit](https://sploitus.com/exploit?id=70841B9A-820C-5CAF-B892-E26A6A1035FA&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [After Rippling blew millions on AI in months, it built an employee ROI tool](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/)
@@ -77,6 +79,7 @@
   - [CVE-2026-11743 | Zephyr Project up to 4.4.1 Flash Driver flash_sf32lb_mpi_qspi_nor.c flash_read/flash_write offset/size signed conversion](https://vuldb.com/vuln/387118)
   - [CVE-2026-13505 | Legion of the Bouncy Castle BC-FJA up to 1.0.2.6/2.0.1/2.1.2 Finalizer finalize allocation of resources](https://vuldb.com/vuln/387137)
   - [CVE-2026-17435 | RRWO File::Rotate::Simple up to 0.3.x rotate permission](https://vuldb.com/vuln/387081)
+  - [CVE-2026-18988 | ShapedPlugin Easy Accordion Plugin up to 3.1.8 on WordPress Accordion Header Renderer accordion_header_renderer accordionTitleTag cross site scripting](https://vuldb.com/vuln/387138)
   - [CVE-2026-19082 | TONYC Imager up to 1.33 EXIF copy_string_tags heap-based overflow](https://vuldb.com/vuln/387058)
   - [CVE-2026-44964 | Datadog Android App up to 5.9.1 OnCallNotificationActivity AndroidManifest.xml permission](https://vuldb.com/vuln/387056)
   - [CVE-2026-45808 | OpenBao up to 2.5.3 namespaces privileges management](https://vuldb.com/vuln/387119)
@@ -173,6 +176,8 @@
   - [CVE-2026-17600](https://vulners.com/nvd/NVD:CVE-2026-17600?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17601](https://vulners.com/nvd/NVD:CVE-2026-17601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17603](https://vulners.com/nvd/NVD:CVE-2026-17603?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18988 Easy Accordion <= 3.1.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'accordionTitleTag' Block Attribute](https://vulners.com/cve/CVE-2026-18988?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18988 Easy Accordion <= 3.1.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'accordionTitleTag' Block Attribute](https://vulners.com/cvelist/CVELIST:CVE-2026-18988?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19012 Authenticated denial of service in Consul Enterprise-to-Community Edition downgrade path](https://vulners.com/cve/CVE-2026-19012?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19012 Authenticated denial of service in Consul Enterprise-to-Community Edition downgrade path](https://vulners.com/cvelist/CVELIST:CVE-2026-19012?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19014 Uncontrolled resource consumption in the Consul Connect authorization endpoint](https://vulners.com/cve/CVE-2026-19014?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -403,6 +408,7 @@
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/FB2615B4-8EAD-57A1-85A4-8DC9057C2E9A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-71554](https://vulners.com/githubexploit/12C31FF5-21A7-5670-974E-22BD695A853E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Jetbrains Teamcity](https://vulners.com/githubexploit/AFCC98D3-030D-51DB-BA2D-441C735E9B6B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Neutralization of Special Elements Used in a Template Engine in Rejetto Http_File_Server](https://vulners.com/githubexploit/2AEC0FDA-C2E9-5385-BA16-618D16320DBD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for PHP Remote File Inclusion in Synacor Zimbra_Collaboration_Suite](https://vulners.com/githubexploit/98F7E85D-8F3D-5F46-ABA3-DEA3AFA0B878?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Exim](https://vulners.com/githubexploit/E7C2F65C-EBD7-5DF8-AEAB-303AEE20F6D3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Friday Squid Blogging: Arctic Bobtail Squid Video](https://vulners.com/schneier/SCHNEIER:E4BC008313FED5D1135E8355648CE1CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
