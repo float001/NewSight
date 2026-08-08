@@ -2,6 +2,7 @@
 
 - 2Libra
   - [AI 时代，下一轮增长机会可能藏在“能源”里？](https://2libra.com/post/stock-market/1OI_CFg)
+  - [【rebo】微博网页版浏览器插件](https://2libra.com/post/browser-extensions/_6z7Wto)
   - [哈哈，对 L 站不满的人已经形成一股力量了](https://2libra.com/post/social-observation/RsaYKue)
   - [是谁半夜还在做吃的，真的太香了](https://2libra.com/post/personal-life/59Wx7Ju)
   - [被 A 畜家的模型嘲讽我是精神病](https://2libra.com/post/ai-tools/A30jITW)
@@ -151,6 +152,7 @@
   - [CVE-2026-13094](https://vulners.com/cve/CVE-2026-13094?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13105](https://vulners.com/cve/CVE-2026-13105?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13433](https://vulners.com/cve/CVE-2026-13433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13505](https://vulners.com/nvd/NVD:CVE-2026-13505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14644](https://vulners.com/nvd/NVD:CVE-2026-14644?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14866](https://vulners.com/cve/CVE-2026-14866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14875](https://vulners.com/cve/CVE-2026-14875?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -392,6 +394,7 @@
   - [CVE-2026-9031 Authenticated Denial-of-Service in HTTPD Service in TP-Link Archer A6](https://vulners.com/cve/CVE-2026-9031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9031 Authenticated Denial-of-Service in HTTPD Service in TP-Link Archer A6](https://vulners.com/cvelist/CVELIST:CVE-2026-9031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-57858](https://vulners.com/githubexploit/EF00CCED-AD4E-5475-A4F0-8FFCF0192A78?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-64561](https://vulners.com/githubexploit/DE767A3D-B8C6-5A02-A0EC-4D190326C5C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/170AC79E-BF25-5EA9-BF83-8375A0DC6038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/20F3F343-B831-5AD8-8A4D-B5A4E269BB9D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/A26B3604-89A9-5E82-B3E9-A73A477ACB55?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -442,5 +445,7 @@
   - [The Chinese Philosopher Americans Can’t Stop Fighting About](https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 天黑说嘿话
+  - [hvv 2026 -  今年攻防演练的新变量：WAF 看不见，后端却执行了](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486344&idx=1&sn=96ca8c8b2f31e0c963882434778c4fcd)
 - 爱范儿
   - [早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型](https://www.ifanr.com/1674478?utm_source=rss&utm_medium=rss&utm_campaign=)
