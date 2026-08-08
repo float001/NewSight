@@ -8,6 +8,7 @@
   - [一个学费米，弄着玩儿吧](https://2libra.com/post/domain-service/202Iy1j)
   - [周六这个班是真难熬啊](https://2libra.com/post/workplace-stories/mp5QESf)
   - [哈哈，对 L 站不满的人已经形成一股力量了](https://2libra.com/post/social-observation/RsaYKue)
+  - [我做了一个老司机资源整理器本地版](https://2libra.com/post/personal-works/Gb1o3ar)
   - [是谁半夜还在做吃的，真的太香了](https://2libra.com/post/personal-life/59Wx7Ju)
   - [现在的 IP 池子真智能](https://2libra.com/post/network-security/3Sxs2SA)
   - [被 A 畜家的模型嘲讽我是精神病](https://2libra.com/post/ai-tools/A30jITW)
@@ -15,12 +16,15 @@
   - [Crab Odyssey: Crustacean Wandered the Seas in a Bottle for Months, Scientists Find](https://www.404media.co/crab-odyssey-crustacean-wandered-the-seas-in-a-bottle-for-months-scientists-find/)
 - Ars Technica
   - [Flesh-eating screwworms feast on humans in Mexico; human cases top 500](https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/)
+  - [The first self-driving vehicle on Mars has proven to be a smashing success](https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/)
 - CoinTelegraph
   - [Circle expands USDC to OKX ecosystem with X Layer launch](https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Domestic stablecoins could boost demand for dollar-backed tokens: IMF](https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Donald Trump’s media company to terminate Crypto.com deal](https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US court backs Bybit’s bid to trace funds from $1.5B North Korea hack](https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- construction-physics.com
+  - [Reading List 08/08/2026](https://www.construction-physics.com/p/reading-list-08082026)
 - daringfireball.net
   - [An AI Model From Meta Also Hacked Another Company During Testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/)
   - [App Store Review Times Are Failing to Meet the AI-Driven Influx of Submissions](https://macaw.social/@mergesort/117055390966724799)
@@ -48,6 +52,8 @@
   - [Corrupted apostrophes](https://www.johndcook.com/blog/2026/08/07/corrupted-apostrophes/)
 - NVIDIA AI Blog
   - [Firebird Launches CIS Region’s Largest AI Factory in Armenia](https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/)
+- shkspr.mobi
+  - [[RSS Club] I got an NLnet grant!](https://shkspr.mobi/blog/2026/08/rss-club-i-got-an-nlnet-grant/)
 - simonwillison.net
   - [Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)](https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything)
   - [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything)
@@ -75,13 +81,17 @@
   - [AI music generator Suno tightens rules to fight spam and address growing copyright concerns](https://the-decoder.com/ai-music-generator-suno-tightens-rules-to-fight-spam-and-address-growing-copyright-concerns/)
   - [AMD acquires Taalas, a startup that bakes AI models directly into silicon](https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/)
   - [Anthropic loosens Fable 5's biology restrictions but keeps the guardrails on for virology and toxicology](https://the-decoder.com/anthropic-loosens-fable-5s-biology-restrictions-but-keeps-the-guardrails-on-for-virology-and-toxicology/)
+  - [Backflip AI turns 3D scans into editable CAD models in minutes instead of hours](https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/)
+  - [Fields Medalist who published a paper on AI-driven human extinction now works for OpenAI](https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai/)
   - [OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time](https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/)
   - [OpenAI's first smart speaker is expected in 2027 at over $300](https://the-decoder.com/openais-first-smart-speaker-is-expected-in-2027-at-over-300/)
   - [xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks](https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/)
 - The Verge
   - [Disney Plus tries a new AI-powered search](https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search)
   - [Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo)
+  - [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review)
   - [Microsoft Edge is about to lock out older ad blockers, just like Chrome did](https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3)
+  - [My favorite feel-good show is back](https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer)
   - [Nitecore’s latest power bank is the lightest and most compact yet](https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery)
 - VulDB Recent Entries
   - [CVE-2025-63235 | codepr Sol Broker denial of service (373d848)](https://vuldb.com/vuln/387069)
@@ -123,6 +133,9 @@
   - [CVE-2026-19329 | andreahaku codex_mcp up to 1ff521cc6cc57cfe56ddef946c644b8534771390 ask MCP Tool codex-process-simple.ts model command injection](https://vuldb.com/vuln/387163)
   - [CVE-2026-19330 | angrysky56 advanced-reasoning-mcp 1.0.0 src/index.ts path traversal](https://vuldb.com/vuln/387164)
   - [CVE-2026-19331 | bazylhorsey obsidian-mcp-server 1.0.0 CanvasService.ts readCanvas/writeCanvas path traversal](https://vuldb.com/vuln/387165)
+  - [CVE-2026-19339 | aliyun alibabacloud-dataworks-mcp-server up to 1.0.43 initResources.ts ReadResourceRequestSchema request.params.uri server-side request forgery](https://vuldb.com/vuln/387175)
+  - [CVE-2026-19340 | anubissbe ProjectHub-Mcp up to 5.0.0 Webhooks API complete_backend.js url server-side request forgery (Issue 176)](https://vuldb.com/vuln/387176)
+  - [CVE-2026-19341 | UTT HiPER 1200GW up to 2.5.3-170306 pptpSrvGlobalConfig strcpy EncryptionMode stack-based overflow](https://vuldb.com/vuln/387177)
   - [CVE-2026-44964 | Datadog Android App up to 5.9.1 OnCallNotificationActivity AndroidManifest.xml permission](https://vuldb.com/vuln/387056)
   - [CVE-2026-45808 | OpenBao up to 2.5.3 namespaces privileges management](https://vuldb.com/vuln/387119)
   - [CVE-2026-46405 | OpenBao up to 2.5.3 Kerberos auth method improper authorization](https://vuldb.com/vuln/387117)
@@ -293,8 +306,11 @@
   - [CVE-2026-19270](https://vulners.com/nvd/NVD:CVE-2026-19270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19270 Hulupeep mcp-ui-probe Journey/Usage JourneyStorage.ts usage_stats path traversal](https://vulners.com/cve/CVE-2026-19270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19270 Hulupeep mcp-ui-probe Journey/Usage JourneyStorage.ts usage_stats path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19279](https://vulners.com/nvd/NVD:CVE-2026-19279?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19279 MIMICLab mcp-pdf-vision index.ts load_pdf command injection](https://vulners.com/cve/CVE-2026-19279?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19279 MIMICLab mcp-pdf-vision index.ts load_pdf command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19279?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19281 adolfosalasgomez3011 slidev-builder-mcp generateAssets Tool generateAssets.ts generateChart command injection](https://vulners.com/cve/CVE-2026-19281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19281 adolfosalasgomez3011 slidev-builder-mcp generateAssets Tool generateAssets.ts generateChart command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-20337](https://vulners.com/nvd/NVD:CVE-2026-20337?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-20337 ClamAV ZIP File Format Processing Memory Corruption Vulnerability](https://vulners.com/cve/CVE-2026-20337?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-20337 ClamAV ZIP File Format Processing Memory Corruption Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-20337?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -493,11 +509,13 @@
   - [CVE-2026-9031 Authenticated Denial-of-Service in HTTPD Service in TP-Link Archer A6](https://vulners.com/cvelist/CVELIST:CVE-2026-9031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2023-30000](https://vulners.com/githubexploit/A43BF944-C2D4-5C90-991E-0DA1667A6812?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-18953](https://vulners.com/githubexploit/127719D1-1C6C-5538-8B6F-DDEA4F4BCA34?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-3844](https://vulners.com/githubexploit/F490610E-6685-5C18-AA35-F2EAE63339C0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-57858](https://vulners.com/githubexploit/EF00CCED-AD4E-5475-A4F0-8FFCF0192A78?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64561](https://vulners.com/githubexploit/DE767A3D-B8C6-5A02-A0EC-4D190326C5C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/0AB4FA01-188F-50EF-9E8F-CA4C4DA9A6B2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/170AC79E-BF25-5EA9-BF83-8375A0DC6038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/20F3F343-B831-5AD8-8A4D-B5A4E269BB9D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/9AE6B02F-A5CD-52DE-AEC3-08347489146A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/A26B3604-89A9-5E82-B3E9-A73A477ACB55?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/FB2615B4-8EAD-57A1-85A4-8DC9057C2E9A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-71554](https://vulners.com/githubexploit/12C31FF5-21A7-5670-974E-22BD695A853E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -506,6 +524,7 @@
   - [Exploit for Improper Neutralization of Special Elements Used in a Template Engine in Rejetto Http_File_Server](https://vulners.com/githubexploit/2AEC0FDA-C2E9-5385-BA16-618D16320DBD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for PHP Remote File Inclusion in Synacor Zimbra_Collaboration_Suite](https://vulners.com/githubexploit/98F7E85D-8F3D-5F46-ABA3-DEA3AFA0B878?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Exim](https://vulners.com/githubexploit/E7C2F65C-EBD7-5DF8-AEAB-303AEE20F6D3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/5664EE5F-38B2-5799-9818-4F2ECF496899?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [exploit-development-framework](https://vulners.com/githubexploit/042E0A15-47C1-5A6C-9C8B-62BCDB7570BE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Friday Squid Blogging: Arctic Bobtail Squid Video](https://vulners.com/schneier/SCHNEIER:E4BC008313FED5D1135E8355648CE1CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Ghostlink_lite](https://vulners.com/githubexploit/00FB1824-9216-5488-85C9-0572F4EFE1AC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -558,6 +577,7 @@
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data](https://vulners.com/thn/THN:669F08BA97D4A86E6AC6A94D2F3A03D9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [VulnerableApp](https://vulners.com/githubexploit/2E2109B9-ADD3-5F0E-9A14-498C6CFD20F5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Vulnhub](https://vulners.com/githubexploit/436F4F93-C23D-52EB-B020-9D8AD91F323D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [xss2shell](https://vulners.com/githubexploit/71CA7A66-8C6B-51EF-AC52-61BBF601E9BD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: The Hater's Guide To NVIDIA (Part 2)](https://www.wheresyoured.at/premium-the-haters-guide-to-nvidia-part-2/)
@@ -566,7 +586,10 @@
   - [Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots](https://www.wired.com/review/hairmax-laserband-82-comfortflex/)
   - [The 7 Best TV Shows to Stream This Month](https://www.wired.com/story/the-7-best-shows-to-stream-right-now/)
   - [The Chinese Philosopher Americans Can’t Stop Fighting About](https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/)
+  - [The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today](https://www.wired.com/story/hp-omnibook-5-50-percent-off/)
   - [Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited](https://www.wired.com/review/xteink-x4-pro-e-reader/)
+- 不安全
+  - [当一篇论文说“AI Agent还不会做研究”，它到底测到了什么？](https://buaq.net/go-433853.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 天黑说嘿话
