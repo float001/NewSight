@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【💰】大周末去哪里玩比较凉快](https://2libra.com/post/recommendations/qpf7zKX)
+  - [随感](https://2libra.com/post/social-observation/CRXTg9l)
 - CoinTelegraph
   - [Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%](https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -12,12 +13,15 @@
 - Hacker News Frontpage
   - [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
   - [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
+- simonwillison.net
+  - [Auto mode is now the default in Claude Code for Pro, Max, and Team plans](https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything)
 - TechCrunch
   - [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)
   - [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
   - [The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have](https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/)
   - [X replaces ‘misaligned’ revenue sharing program with Original Content Rewards](https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/)
 - The Block
+  - [Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead](https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&utm_medium=rss)
   - [Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote](https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss)
 - The Verge
   - [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)
@@ -62,6 +66,7 @@
   - [CVE-2026-67314 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-67314?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67314 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-67314?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67620](https://vulners.com/nvd/NVD:CVE-2026-67620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-71502](https://vulners.com/nvd/NVD:CVE-2026-71502?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71847 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-71847?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71847 vulnerabilities](https://vulners.com/wolfi/WOLFI:CVE-2026-71847?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71944](https://vulners.com/nvd/NVD:CVE-2026-71944?utm_source=rss&utm_medium=rss&utm_campaign=rss)
