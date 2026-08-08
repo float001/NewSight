@@ -33,8 +33,10 @@
 - simonwillison.net
   - [Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)](https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything)
   - [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything)
+  - [Quoting John Gruber](https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything)
   - [The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI](https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Deserialization of Untrusted Data in Jetbrains Teamcity](https://sploitus.com/exploit?id=AFCC98D3-030D-51DB-BA2D-441C735E9B6B&utm_source=rss&utm_medium=rss)
   - [m7s-root exploit](https://sploitus.com/exploit?id=70841B9A-820C-5CAF-B892-E26A6A1035FA&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [After Rippling blew millions on AI in months, it built an employee ROI tool](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/)
@@ -362,6 +364,7 @@
   - [CVE-2026-71852](https://vulners.com/nvd/NVD:CVE-2026-71852?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71870 pypdf: Possible large memory usage for large /ToUnicode streams](https://vulners.com/cve/CVE-2026-71870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71870 pypdf: Possible large memory usage for large /ToUnicode streams](https://vulners.com/cvelist/CVELIST:CVE-2026-71870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8798 Native entropy source retries the CPU entropy instructions without limit](https://vulners.com/cvelist/CVELIST:CVE-2026-8798?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9030](https://vulners.com/nvd/NVD:CVE-2026-9030?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9030 Authenticated Denial-of-Service in HTTPD Service in TP-Link Archer A6](https://vulners.com/cve/CVE-2026-9030?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9030 Authenticated Denial-of-Service in HTTPD Service in TP-Link Archer A6](https://vulners.com/cvelist/CVELIST:CVE-2026-9030?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -373,6 +376,7 @@
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/A26B3604-89A9-5E82-B3E9-A73A477ACB55?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/FB2615B4-8EAD-57A1-85A4-8DC9057C2E9A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-71554](https://vulners.com/githubexploit/12C31FF5-21A7-5670-974E-22BD695A853E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Deserialization of Untrusted Data in Jetbrains Teamcity](https://vulners.com/githubexploit/AFCC98D3-030D-51DB-BA2D-441C735E9B6B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for PHP Remote File Inclusion in Synacor Zimbra_Collaboration_Suite](https://vulners.com/githubexploit/98F7E85D-8F3D-5F46-ABA3-DEA3AFA0B878?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Exim](https://vulners.com/githubexploit/E7C2F65C-EBD7-5DF8-AEAB-303AEE20F6D3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Friday Squid Blogging: Arctic Bobtail Squid Video](https://vulners.com/schneier/SCHNEIER:E4BC008313FED5D1135E8355648CE1CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -391,6 +395,7 @@
   - [GHSA-PMHH-3W7G-XQP8 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-PMHH-3W7G-XQP8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-RHH3-JPG6-66XH vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-RHH3-JPG6-66XH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-W737-WX49-QJ23 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-W737-WX49-QJ23?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kernel security, bug fix, and enhancement update](https://vulners.com/rocky/RLSA-2026:51295?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in @catamania/front-components (npm)](https://vulners.com/ossf/OSSF:MAL-2026-13620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malicious code in @decido/backend-core (npm)](https://vulners.com/ossf/OSSF:MAL-2026-13621?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer](https://vulners.com/thn/THN:22C85AE6A67D81B02CDD85A65604E7C7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -416,3 +421,5 @@
   - [The Chinese Philosopher Americans Can’t Stop Fighting About](https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型](https://www.ifanr.com/1674478?utm_source=rss&utm_medium=rss&utm_campaign=)
