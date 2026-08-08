@@ -5,6 +5,8 @@
 - CoinTelegraph
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US spot Bitcoin ETFs post best week since April with $1B inflows](https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Hacker News Frontpage
+  - [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 - TechCrunch
   - [The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have](https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/)
   - [X replaces ‘misaligned’ revenue sharing program with Original Content Rewards](https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/)
@@ -17,6 +19,11 @@
   - [CVE-2026-19351 | dresende node-sql-query 0.1.25/0.1.26/0.1.27/0.1.28 Request Parameter lib/Select.js SelectQuery.from/SelectQuery.build sql injection](https://vuldb.com/vuln/387190)
   - [CVE-2026-19352 | mifi lossless-cut up to 3.69.0 Built-in HTTP API Service src/main/httpServer.ts server-side request forgery](https://vuldb.com/vuln/387191)
   - [CVE-2026-19353 | DedeCMS up to 5.7.118 UTF8SP2 Installation Wizard install/index.php _4_Setup file inclusion](https://vuldb.com/vuln/387207)
+  - [CVE-2026-19354 | lock-upme OPMS up to 831440f37a92c1568f2e071d5233bc873a9d8b09 IN Clause message.go ids sql injection](https://vuldb.com/vuln/387208)
+  - [CVE-2026-19355 | MingSoft MCMS up to 3.0.6 ms-mdiy /mdiy/form/data/list.do ModelDataImpl.queryDiyFormData formFields sql injection](https://vuldb.com/vuln/387209)
+  - [CVE-2026-19356 | MingSoft MCMS up to 3.0.6 ms-mdiy /mdiy/form/data/list information disclosure](https://vuldb.com/vuln/387210)
+  - [CVE-2026-19357 | MingSoft MCMS up to 3.0.6 ms-mdiy /mdiy/form/get information disclosure](https://vuldb.com/vuln/387211)
+  - [CVE-2026-19358 | 3CORESec Trapdoor up to 1.2.2 DefaultFunction access control](https://vuldb.com/vuln/387212)
   - [CVE-2026-67620 | FlowiseAI Flowise up to 3.1.4 SSRF Guard httpSecurity.ts server-side request forgery](https://vuldb.com/vuln/387188)
   - [CVE-2026-71944 | D-Link DWR-M961 up to 1.1.5_C1_202607071107 LTE Firmware Upgrade Interface formLtefotaUpgradeQuectel fota_url command injection](https://vuldb.com/vuln/387192)
   - [CVE-2026-71945 | D-Link DWR-M961 up to 1.1.5_C1_202607071107 LtefotaUpgradeFibocom formLtefotaUpgradeFibocom fota_url command injection](https://vuldb.com/vuln/387193)
@@ -48,13 +55,17 @@
   - [CVE-2026-71953](https://vulners.com/nvd/NVD:CVE-2026-71953?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71954](https://vulners.com/nvd/NVD:CVE-2026-71954?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71955](https://vulners.com/nvd/NVD:CVE-2026-71955?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-71956](https://vulners.com/nvd/NVD:CVE-2026-71956?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71957](https://vulners.com/attackerkb/AKB:35192E2D-1151-40B4-8908-86C13726557D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-71957](https://vulners.com/nvd/NVD:CVE-2026-71957?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71957 D-Link DWR-M961 Buffer Overflow via app.cgi](https://vulners.com/cve/CVE-2026-71957?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71957 D-Link DWR-M961 Buffer Overflow via app.cgi](https://vulners.com/cvelist/CVELIST:CVE-2026-71957?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71958](https://vulners.com/attackerkb/AKB:47770BB8-A127-4B65-AA57-BE15338925B5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-71958](https://vulners.com/nvd/NVD:CVE-2026-71958?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71958 D-Link DWR-M961 Buffer Overflow via quicksetup.cgi](https://vulners.com/cve/CVE-2026-71958?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71958 D-Link DWR-M961 Buffer Overflow via quicksetup.cgi](https://vulners.com/cvelist/CVELIST:CVE-2026-71958?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Wordpress](https://vulners.com/githubexploit/497286E1-C7A5-56E6-945B-5EA4822F5C75?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Hacked-Machines](https://vulners.com/githubexploit/95EBB043-2604-584B-B551-33213DEB7E14?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/)
 - 代码审计星球
