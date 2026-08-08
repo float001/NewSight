@@ -3,6 +3,7 @@
 - 2Libra
   - [【💰】大周末去哪里玩比较凉快](https://2libra.com/post/recommendations/qpf7zKX)
 - CoinTelegraph
+  - [Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%](https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US spot Bitcoin ETFs post best week since April with $1B inflows](https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -10,14 +11,17 @@
   - [Maybe ‘Steal Underpants by Blowing a Fortune on AI Tokens’ Is, in Fact, Not a Good Business Plan](https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/)
 - Hacker News Frontpage
   - [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
+  - [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
 - TechCrunch
   - [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)
+  - [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
   - [The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have](https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/)
   - [X replaces ‘misaligned’ revenue sharing program with Original Content Rewards](https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/)
 - The Block
   - [Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote](https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss)
 - The Verge
   - [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)
+  - [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)
 - VulDB Recent Entries
   - [CVE-2026-19350 | Dolibarr ERP up to 23.0.3 TakePOS invoice.php fail authorization (Issue 38949)](https://vuldb.com/vuln/387189)
   - [CVE-2026-19351 | dresende node-sql-query 0.1.25/0.1.26/0.1.27/0.1.28 Request Parameter lib/Select.js SelectQuery.from/SelectQuery.build sql injection](https://vuldb.com/vuln/387190)
@@ -50,6 +54,7 @@
   - [CVE-2026-71957 | D-Link DWR-M961 up to 1.1.5_C1_202607071107 CGI Interface app.cgi buffer overflow](https://vuldb.com/vuln/387205)
   - [CVE-2026-71958 | D-Link DWR-M961 up to 1.1.5_C1_202607071107 Quicksetup quicksetup.cgi test4/ssid2/username buffer overflow](https://vuldb.com/vuln/387206)
 - Vulners.com RSS Feed
+  - [CVE-2026-18988](https://vulners.com/circl/CIRCL:CVE-2026-18988?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42170](https://vulners.com/nvd/NVD:CVE-2026-42170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56818 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-56818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67213 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-67213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
