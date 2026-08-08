@@ -27,6 +27,7 @@
   - [Unified Security Solution Guide: Evaluating Fidelis Elevate Across Features, Deployment, and Integrations](https://fidelissecurity.com/threatgeek/xdr-security/unified-security-solution-fidelis-elevate/)
 - Hacker News Frontpage
   - [ICE will release body cam video only when seen in the agency's 'best interests'](https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57)
+  - [Mythos social engineering AISI INC-2026-07-28-01](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
   - [The AI Billboards Are Killing SF](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)
   - [Water system controllers don't belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
 - IEEE Spectrum
@@ -393,6 +394,7 @@
   - [CVE-2026-9031](https://vulners.com/nvd/NVD:CVE-2026-9031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9031 Authenticated Denial-of-Service in HTTPD Service in TP-Link Archer A6](https://vulners.com/cve/CVE-2026-9031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9031 Authenticated Denial-of-Service in HTTPD Service in TP-Link Archer A6](https://vulners.com/cvelist/CVELIST:CVE-2026-9031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-18953](https://vulners.com/githubexploit/127719D1-1C6C-5538-8B6F-DDEA4F4BCA34?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-57858](https://vulners.com/githubexploit/EF00CCED-AD4E-5475-A4F0-8FFCF0192A78?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64561](https://vulners.com/githubexploit/DE767A3D-B8C6-5A02-A0EC-4D190326C5C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/170AC79E-BF25-5EA9-BF83-8375A0DC6038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -426,6 +428,7 @@
   - [Netty: RedisArrayAggregator max-elements failure leaves retained partial aggregate state](https://vulners.com/github/GHSA-P9JM-Q85P-7MCP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [NPM: jsii-diff: Command Injection via npm: package argument](https://vulners.com/patchstack/PATCHSTACK:035F5703A6CE9BC48BFE3ADEEAF94371?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: IBM i Access Client Solutions (ACS) is Affected By Multiple Vulnerabilities](https://vulners.com/ibm/A928EFA126AFCFCEB031AACBC73C88E9633718AC2CDC98BB8B5D1C76B486DA19?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin:IBM Sterling Global Availability Mailbox uses bcprov-jdk15to18-1.78.1.jar, which is affected by CVE-2025-14813 and CVE-2026-5598, exposing the system to potential security risks including unauthorized access, denial of service.](https://vulners.com/ibm/559257A488BAC89D873B2FBD9AEA07B5F328C0F7D057D46473808F1142264CB4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerabilities in the net/bluetooth/eir.c and net/bluetooth/mgmt.c modules of Linux kernel allow a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability in the drivers/bluetooth/btnxpuart.c module of Linux operating systems allows a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of Microsoft Office packages and 365 Apps for Enterprise lies in the use of memory after it is freed, allowing an attacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -449,3 +452,5 @@
   - [hvv 2026 -  今年攻防演练的新变量：WAF 看不见，后端却执行了](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486344&idx=1&sn=96ca8c8b2f31e0c963882434778c4fcd)
 - 爱范儿
   - [早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型](https://www.ifanr.com/1674478?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [SK海力士评估30亿美元重庆资产 或出售股份](https://blog.upx8.com/SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%AF%84%E4%BC%B030%E4%BA%BF%E7%BE%8E%E5%85%83%E9%87%8D%E5%BA%86%E8%B5%84%E4%BA%A7-%E6%88%96%E5%87%BA%E5%94%AE%E8%82%A1%E4%BB%BD)
