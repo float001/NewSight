@@ -176,6 +176,7 @@
   - [CVE-2026-17600](https://vulners.com/nvd/NVD:CVE-2026-17600?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17601](https://vulners.com/nvd/NVD:CVE-2026-17601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17603](https://vulners.com/nvd/NVD:CVE-2026-17603?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18988](https://vulners.com/nvd/NVD:CVE-2026-18988?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18988 Easy Accordion <= 3.1.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'accordionTitleTag' Block Attribute](https://vulners.com/cve/CVE-2026-18988?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18988 Easy Accordion <= 3.1.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'accordionTitleTag' Block Attribute](https://vulners.com/cvelist/CVELIST:CVE-2026-18988?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19012 Authenticated denial of service in Consul Enterprise-to-Community Edition downgrade path](https://vulners.com/cve/CVE-2026-19012?utm_source=rss&utm_medium=rss&utm_campaign=rss)
