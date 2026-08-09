@@ -3,10 +3,12 @@
 - 2Libra
   - [【更新】本地离线 OCR 工具 SnapFind 迎来 v2.3.4 更新，官方网站同步上线](https://2libra.com/post/promotion/jX23zLs)
   - [【💰】大周末去哪里玩比较凉快](https://2libra.com/post/recommendations/qpf7zKX)
+  - [【💰】工作职责太多，想跑路](https://2libra.com/post/workplace-stories/Tc8nm1W)
   - [【💰】我宣布，已经没有任何一个笑话或者图片可以让我笑出来了，不信你试试，笑出来给你转金币](https://2libra.com/post/tech-rumination/yb70RO4)
   - [随感](https://2libra.com/post/social-observation/CRXTg9l)
 - CoinTelegraph
   - [Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%](https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Brazil targets crypto fraud with up to 24-hour transfer hold](https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTCPay restricts remote Lightning access after attackers steal funds](https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US spot Bitcoin ETFs post best week since April with $1B inflows](https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -40,7 +42,9 @@
   - [Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead](https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&utm_medium=rss)
   - [Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote](https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss)
 - The Decoder
+  - [AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure](https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/)
   - [Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit](https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/)
+  - [Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model](https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/)
 - The Verge
   - [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)
   - [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)
@@ -112,6 +116,7 @@
   - [[SECURITY] Fedora 43 Update: bird-3.3.2-1.fc43](https://vulners.com/fedora/FEDORA:B087376659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: pgadmin4-9.17-1.fc43](https://vulners.com/fedora/FEDORA:384777B16E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: udisks2-2.11.2-1.fc43](https://vulners.com/fedora/FEDORA:0C28A798E2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [AutoSRC-AISkill](https://vulners.com/githubexploit/0923AF94-0FBC-5BE7-85BF-A7BBA0CE12DD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Bluetooth: qca: fix NVM tag length underflow in TLV parser](https://vulners.com/mscve/MS:CVE-2026-64573?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [btrfs: reject free space cache with more entries than pages](https://vulners.com/mscve/MS:CVE-2026-64567?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -180,6 +185,10 @@
   - [CVE-2026-19343](https://vulners.com/nvd/NVD:CVE-2026-19343?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19343 code-projects Task Management System AdminLogin.php sql injection](https://vulners.com/cve/CVE-2026-19343?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19343 code-projects Task Management System AdminLogin.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19343?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19344 code-projects Task Management System comment_count_user.php sql injection](https://vulners.com/cve/CVE-2026-19344?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19344 code-projects Task Management System comment_count_user.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19344?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19345 code-projects Task Management System UpdateTaskStatus.php authorization](https://vulners.com/cve/CVE-2026-19345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19345 code-projects Task Management System UpdateTaskStatus.php authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-19345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42170](https://vulners.com/nvd/NVD:CVE-2026-42170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56818 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-56818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67213 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-67213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -287,7 +296,9 @@
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wifi: mac80211: tear down new links on vif update error path](https://vulners.com/mscve/MS:CVE-2026-64574?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [8 Best Workout Headphones & Earbuds: Beats, Bose, Apple (2026)](https://www.wired.com/story/the-best-workout-headphones-and-earbuds/)
   - [The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/)
+  - [These AI Barons Are Ready to Give Away Their Fortunes](https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/)
 - 不安全
   - [Back to the day i wanted to tell ma crush that I liked him but instead ended up by blocking him](https://buaq.net/go-433951.html)
   - [Codex已重置本周额度，不过很多用户自然重置就是昨天所以血亏](https://buaq.net/go-433943.html)
@@ -295,6 +306,8 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 量子位 QbitAI
+  - [180万刀，连亚马逊都烧不起Claude了](https://www.qbitai.com/2026/08/469010.html)
+  - [GPT-5.6和Fable联手，解决了一道悬了25年的数学难题](https://www.qbitai.com/2026/08/468913.html)
   - [Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了](https://www.qbitai.com/2026/08/468766.html)
   - [爆料：哈萨比斯原本要和Jeff Dean一起走！](https://www.qbitai.com/2026/08/468715.html)
 - 黑海洋
