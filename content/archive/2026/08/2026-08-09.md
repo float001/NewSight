@@ -6,8 +6,11 @@
   - [随感](https://2libra.com/post/social-observation/CRXTg9l)
 - CoinTelegraph
   - [Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%](https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BTCPay restricts remote Lightning access after attackers steal funds](https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US spot Bitcoin ETFs post best week since April with $1B inflows](https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [BTCPay restricts remote Lightning access after attackers steal funds](https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Corrupt Minds Think Alike](https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html?unlocked_article_code=1.3VA.4zqH.Pul7X9bQ2kv0&smid=bs-share)
   - [Maybe ‘Steal Underpants by Blowing a Fortune on AI Tokens’ Is, in Fact, Not a Good Business Plan](https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/)
@@ -80,6 +83,7 @@
   - [CVE-2026-17510 Crypt::OpenSSL::PKCS12 versions before 1.98 for Perl allow a NULL pointer dereference in print_attribute via a zero length BMPSTRING attribute](https://vulners.com/cve/CVE-2026-17510?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17510 Crypt::OpenSSL::PKCS12 versions before 1.98 for Perl allow a NULL pointer dereference in print_attribute via a zero length BMPSTRING attribute](https://vulners.com/cvelist/CVELIST:CVE-2026-17510?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18988](https://vulners.com/circl/CIRCL:CVE-2026-18988?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19155](https://vulners.com/redhatcve/RH:CVE-2026-19155?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19323](https://vulners.com/nvd/NVD:CVE-2026-19323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19324](https://vulners.com/nvd/NVD:CVE-2026-19324?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19325](https://vulners.com/nvd/NVD:CVE-2026-19325?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -90,10 +94,19 @@
   - [CVE-2026-19329 andreahaku codex_mcp ask MCP Tool codex-process-simple.ts command injection](https://vulners.com/cve/CVE-2026-19329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19329 andreahaku codex_mcp ask MCP Tool codex-process-simple.ts command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19330](https://vulners.com/nvd/NVD:CVE-2026-19330?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19331](https://vulners.com/nvd/NVD:CVE-2026-19331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19331 bazylhorsey obsidian-mcp-server CanvasService.ts writeCanvas path traversal](https://vulners.com/cve/CVE-2026-19331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19331 bazylhorsey obsidian-mcp-server CanvasService.ts writeCanvas path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19332](https://vulners.com/nvd/NVD:CVE-2026-19332?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19332 NellyW8 MCP4EDA run_openlane/view_waveform command injection](https://vulners.com/cve/CVE-2026-19332?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19332 NellyW8 MCP4EDA run_openlane/view_waveform command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19332?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19333](https://vulners.com/nvd/NVD:CVE-2026-19333?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19334](https://vulners.com/nvd/NVD:CVE-2026-19334?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19335](https://vulners.com/attackerkb/AKB:26A43878-E5B0-4C71-BFC8-8323E0E24BD2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19335 Jane-xiaoer skill-vision-control config.ts getSkillVersionsDir path traversal](https://vulners.com/cve/CVE-2026-19335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19335 Jane-xiaoer skill-vision-control config.ts getSkillVersionsDir path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19336 Pimzino spec-workflow-mcp approvals.ts ApprovalStorage.createApproval path traversal](https://vulners.com/cve/CVE-2026-19336?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19336 Pimzino spec-workflow-mcp approvals.ts ApprovalStorage.createApproval path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19336?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42170](https://vulners.com/nvd/NVD:CVE-2026-42170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56818 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-56818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67213 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-67213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -197,6 +210,7 @@
 - Wired
   - [The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/)
 - 不安全
+  - [Back to the day i wanted to tell ma crush that I liked him but instead ended up by blocking him](https://buaq.net/go-433951.html)
   - [Codex已重置本周额度，不过很多用户自然重置就是昨天所以血亏](https://buaq.net/go-433943.html)
   - [Daunt is down for a few days, be careful where you get links.](https://buaq.net/go-433944.html)
 - 代码审计星球
