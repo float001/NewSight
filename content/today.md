@@ -4,8 +4,10 @@
   - [AI 编程一体化平台程，1,000,000 Token / 每天 注册有免费额度](https://2libra.com/post/promotion/TQNJAkn)
 - Hacker News Frontpage
   - [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
+  - [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
   - [If experience is the goal, then you always win](https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you)
   - [Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon](https://frequal.com/aptera/ProductionImminent.html)
+  - [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
 - johndcook.com
   - [A simple range reduction method](https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/)
   - [DNA and Bessel functions](https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/)
@@ -13,6 +15,8 @@
   - [Edinburgh Fringe: 4 Aussies For Aussies - The Raging Bull ★★⯪☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-4-aussies-for-aussies-the-raging-bull/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Argument Injection in Gnu Inetutils](https://sploitus.com/exploit?id=7D1DF8EB-BD0A-5978-86B7-82C6C62394FE&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Anthropic is turning Claude Code’s auto mode on by default](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/)
 - The Block
   - [Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets](https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&utm_medium=rss)
   - [World Liberty received $100 million from businessman investigated for money laundering: NYT](https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221?utm_source=rss&utm_medium=rss)
@@ -40,9 +44,12 @@
   - [CVE-2026-19362 lmammino oidc-authorizer Authorization Header Parsing parse_token_from_header.rs parse_token_from_header denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-19362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19363](https://vulners.com/nvd/NVD:CVE-2026-19363?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19364](https://vulners.com/nvd/NVD:CVE-2026-19364?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19365](https://vulners.com/nvd/NVD:CVE-2026-19365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19365 Ichigo3766 image-gen-mcp upscale_images index.ts path traversal](https://vulners.com/cve/CVE-2026-19365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19365 Ichigo3766 image-gen-mcp upscale_images index.ts path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19366](https://vulners.com/nvd/NVD:CVE-2026-19366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-69659](https://vulners.com/nvd/NVD:CVE-2026-69659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-70395](https://vulners.com/nvd/NVD:CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395 Predicate injection in manage_relationship belongs_to lookup discloses secret lookup keys in Ash](https://vulners.com/cve/CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395 Predicate injection in manage_relationship belongs_to lookup discloses secret lookup keys in Ash](https://vulners.com/cvelist/CVELIST:CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Eopi-Hunt-Skill](https://vulners.com/githubexploit/3B94F400-1648-5E72-85AC-142B59108070?utm_source=rss&utm_medium=rss&utm_campaign=rss)
