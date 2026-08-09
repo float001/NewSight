@@ -25,8 +25,12 @@
   - [The AI Apocalypse Is Here](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-08-09: Traffic Analysis Exercise - First to Last](https://www.malware-traffic-analysis.net/2026/08/09/index.html)
+- michael.stapelberg.ch
+  - [Tracking down a Zsh history data loss bug 🐞](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
 - simonwillison.net
   - [Auto mode is now the default in Claude Code for Pro, Max, and Team plans](https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything)
+- Sploitus.com Exploits RSS Feed
+  - [HermesPentBox exploit](https://sploitus.com/exploit?id=5EC26B7C-2309-5747-8F37-41B8DA43BA5C&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)
   - [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
@@ -35,6 +39,8 @@
 - The Block
   - [Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead](https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&utm_medium=rss)
   - [Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote](https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss)
+- The Decoder
+  - [Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit](https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/)
 - The Verge
   - [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)
   - [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)
@@ -107,6 +113,8 @@
   - [[SECURITY] Fedora 43 Update: pgadmin4-9.17-1.fc43](https://vulners.com/fedora/FEDORA:384777B16E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [[SECURITY] Fedora 43 Update: udisks2-2.11.2-1.fc43](https://vulners.com/fedora/FEDORA:0C28A798E2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Bluetooth: qca: fix NVM tag length underflow in TLV parser](https://vulners.com/mscve/MS:CVE-2026-64573?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [btrfs: reject free space cache with more entries than pages](https://vulners.com/mscve/MS:CVE-2026-64567?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10595](https://vulners.com/nvd/NVD:CVE-2026-10595?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11612](https://vulners.com/attackerkb/AKB:8278D0A8-749C-44D2-9909-5D3D624526DE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11612](https://vulners.com/nvd/NVD:CVE-2026-11612?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -166,8 +174,10 @@
   - [CVE-2026-19339 aliyun alibabacloud-dataworks-mcp-server initResources.ts ReadResourceRequestSchema server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-19339?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19340](https://vulners.com/nvd/NVD:CVE-2026-19340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19341](https://vulners.com/nvd/NVD:CVE-2026-19341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19342](https://vulners.com/nvd/NVD:CVE-2026-19342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19342 code-projects Task Management System Login index.php improper authentication](https://vulners.com/cve/CVE-2026-19342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19342 code-projects Task Management System Login index.php improper authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-19342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19343](https://vulners.com/nvd/NVD:CVE-2026-19343?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19343 code-projects Task Management System AdminLogin.php sql injection](https://vulners.com/cve/CVE-2026-19343?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19343 code-projects Task Management System AdminLogin.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19343?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42170](https://vulners.com/nvd/NVD:CVE-2026-42170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -257,7 +267,12 @@
   - [GHSA-V6W3-QRH8-QCCC vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-V6W3-QRH8-QCCC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-WVPP-8HX9-P66J vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-WVPP-8HX9-P66J?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-WVPP-8HX9-P66J vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-WVPP-8HX9-P66J?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [gtp: check skb_pull_data() return in gtp1u_send_echo_resp()](https://vulners.com/mscve/MS:CVE-2026-64577?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Hacked-Machines](https://vulners.com/githubexploit/95EBB043-2604-584B-B551-33213DEB7E14?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [HermesPentBox](https://vulners.com/githubexploit/5EC26B7C-2309-5747-8F37-41B8DA43BA5C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ipv4: fib: free fib_alias with kfree_rcu() on insert error path](https://vulners.com/mscve/MS:CVE-2026-64572?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ipv6: ndisc: fix NULL deref in accept_untracked_na()](https://vulners.com/mscve/MS:CVE-2026-64542?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [mpls: fix NULL deref in mpls_valid_fib_dump_req() on CONFIG_INET=n](https://vulners.com/mscve/MS:CVE-2026-64569?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PSA: Supply Chain Compromise in BdThemes Ecosystem via Poisoned API Response](https://vulners.com/wordfence/WORDFENCE:48D81B65322412A1E25CE4E4DCCA45C3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerabilities in the net/bluetooth/eir.c and net/bluetooth/mgmt.c modules of Linux kernel allow a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability in the drivers/bluetooth/btnxpuart.c module of Linux operating systems allows a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -270,6 +285,7 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [wifi: mac80211: tear down new links on vif update error path](https://vulners.com/mscve/MS:CVE-2026-64574?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/)
 - 不安全
