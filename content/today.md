@@ -1,10 +1,12 @@
 # 今日安全资讯（2026-08-09）
 
 - 2Libra
+  - [0.03 倍率 gpt](https://2libra.com/post/promotion/Ec07grT)
   - [【更新】本地离线 OCR 工具 SnapFind 迎来 v2.3.4 更新，官方网站同步上线](https://2libra.com/post/promotion/jX23zLs)
   - [【💰】大周末去哪里玩比较凉快](https://2libra.com/post/recommendations/qpf7zKX)
   - [【💰】工作职责太多，想跑路](https://2libra.com/post/workplace-stories/Tc8nm1W)
   - [【💰】我宣布，已经没有任何一个笑话或者图片可以让我笑出来了，不信你试试，笑出来给你转金币](https://2libra.com/post/tech-rumination/yb70RO4)
+  - [最近搞了点新东西，哪位朋友可以帮忙测试一下](https://2libra.com/post/tool-sharing/mvZaUFE)
   - [随感](https://2libra.com/post/social-observation/CRXTg9l)
 - CoinTelegraph
   - [Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%](https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -20,6 +22,8 @@
   - [★ Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
 - defend.network
   - [Atlassian Rovo, Progress LoadMaster, Metabase zero-days exploited in wild](https://defend.network/briefings/atlassian-rovo-progress-loadmaster-metabase-exploits-2026-08-09.html)
+- Ethical hacking and penetration testing
+  - [How to set up Windows to run any AI models on your computer](https://miloserdov.org/?p=8618)
 - Hacker News Frontpage
   - ["The original URL for this prediction will no longer be available in 11 years." (2011)](https://longbets.org/601/)
   - [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
@@ -42,6 +46,7 @@
   - [Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead](https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&utm_medium=rss)
   - [Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote](https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss)
 - The Decoder
+  - [AI is flooding Britain's employment courts with lawsuits](https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/)
   - [AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure](https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/)
   - [Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit](https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/)
   - [Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model](https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/)
@@ -185,10 +190,17 @@
   - [CVE-2026-19343](https://vulners.com/nvd/NVD:CVE-2026-19343?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19343 code-projects Task Management System AdminLogin.php sql injection](https://vulners.com/cve/CVE-2026-19343?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19343 code-projects Task Management System AdminLogin.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19343?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19344](https://vulners.com/nvd/NVD:CVE-2026-19344?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19344 code-projects Task Management System comment_count_user.php sql injection](https://vulners.com/cve/CVE-2026-19344?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19344 code-projects Task Management System comment_count_user.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19344?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19345](https://vulners.com/nvd/NVD:CVE-2026-19345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19345 code-projects Task Management System UpdateTaskStatus.php authorization](https://vulners.com/cve/CVE-2026-19345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19345 code-projects Task Management System UpdateTaskStatus.php authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-19345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19346](https://vulners.com/nvd/NVD:CVE-2026-19346?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19347 itsourcecode Hospital Management System viewdoctor.php sql injection](https://vulners.com/cve/CVE-2026-19347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19347 itsourcecode Hospital Management System viewdoctor.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19348 Shenzhen Aitemi M300 Wi-Fi Repeater protocol.csp sprintf command injection](https://vulners.com/cve/CVE-2026-19348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19348 Shenzhen Aitemi M300 Wi-Fi Repeater protocol.csp sprintf command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42170](https://vulners.com/nvd/NVD:CVE-2026-42170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56818 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-56818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67213 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-67213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -297,6 +309,7 @@
   - [wifi: mac80211: tear down new links on vif update error path](https://vulners.com/mscve/MS:CVE-2026-64574?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [8 Best Workout Headphones & Earbuds: Beats, Bose, Apple (2026)](https://www.wired.com/story/the-best-workout-headphones-and-earbuds/)
+  - [Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How](https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/)
   - [The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/)
   - [These AI Barons Are Ready to Give Away Their Fortunes](https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/)
 - 不安全
