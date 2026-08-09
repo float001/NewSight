@@ -11,11 +11,15 @@
   - [Poland now 6th-largest EU economy, ahead of Switzerland and Belgium](https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium)
   - [Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon](https://frequal.com/aptera/ProductionImminent.html)
   - [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
+  - [Show HN: Lumabri – What if LLMs worked like Napster?](https://github.com/JustVugg/lumabri)
 - johndcook.com
   - [A simple range reduction method](https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/)
   - [DNA and Bessel functions](https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/)
 - shkspr.mobi
+  - [Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-musical-parody/)
   - [Edinburgh Fringe: 4 Aussies For Aussies - The Raging Bull ★★⯪☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-4-aussies-for-aussies-the-raging-bull/)
+- simonwillison.net
+  - [GitHub Models is now retired](https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Argument Injection in Gnu Inetutils](https://sploitus.com/exploit?id=7D1DF8EB-BD0A-5978-86B7-82C6C62394FE&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -35,6 +39,7 @@
   - [CVE-2026-69659 | ash-project ash up to 3.31.0 Keyset Pagination lib/ash/page/keyset.ex decode_values resource consumption](https://vuldb.com/vuln/387286)
   - [CVE-2026-70395 | Ash Project prior 3.31.1 Data Query Logic Ash.Query.filter neutralization](https://vuldb.com/vuln/387287)
 - Vulners.com RSS Feed
+  - [CVE-2026-12372 Server-Side Request Forgery (SSRF) in nltk/nltk](https://vulners.com/cvelist/CVELIST:CVE-2026-12372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15534](https://vulners.com/nvd/NVD:CVE-2026-15534?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19358](https://vulners.com/nvd/NVD:CVE-2026-19358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19359](https://vulners.com/nvd/NVD:CVE-2026-19359?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -58,6 +63,12 @@
   - [CVE-2026-19368 PV-Bhat gemsuite-mcp gemini_search unified-gemini.ts path traversal](https://vulners.com/cve/CVE-2026-19368?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19368 PV-Bhat gemsuite-mcp gemini_search unified-gemini.ts path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19368?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19369](https://vulners.com/nvd/NVD:CVE-2026-19369?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19370](https://vulners.com/nvd/NVD:CVE-2026-19370?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19371 Nikolaibibo claude-comfyui-mcp comfy_upload_image utils.ts copyFileSync path traversal](https://vulners.com/cve/CVE-2026-19371?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19371 Nikolaibibo claude-comfyui-mcp comfy_upload_image utils.ts copyFileSync path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19371?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19372 Handwriting-OCR handwriting-ocr-mcp-server upload_document index.ts fs.readFileSync path traversal](https://vulners.com/cve/CVE-2026-19372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19372 Handwriting-OCR handwriting-ocr-mcp-server upload_document index.ts fs.readFileSync path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19373 PhialsBasement KoboldCPP-MCP-Server BaseConfigSchema index.ts makeRequest server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-19373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-69659](https://vulners.com/nvd/NVD:CVE-2026-69659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395](https://vulners.com/nvd/NVD:CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395 Predicate injection in manage_relationship belongs_to lookup discloses secret lookup keys in Ash](https://vulners.com/cve/CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
