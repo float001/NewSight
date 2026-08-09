@@ -11,10 +11,13 @@
 - daringfireball.net
   - [Corrupt Minds Think Alike](https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html?unlocked_article_code=1.3VA.4zqH.Pul7X9bQ2kv0&smid=bs-share)
   - [Maybe ‘Steal Underpants by Blowing a Fortune on AI Tokens’ Is, in Fact, Not a Good Business Plan](https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/)
+  - [★ Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
 - Hacker News Frontpage
   - [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
   - [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
   - [The AI Apocalypse Is Here](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-08-09: Traffic Analysis Exercise - First to Last](https://www.malware-traffic-analysis.net/2026/08/09/index.html)
 - simonwillison.net
   - [Auto mode is now the default in Claude Code for Pro, Max, and Team plans](https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything)
 - TechCrunch
@@ -75,6 +78,13 @@
   - [CVE-2026-17510 Crypt::OpenSSL::PKCS12 versions before 1.98 for Perl allow a NULL pointer dereference in print_attribute via a zero length BMPSTRING attribute](https://vulners.com/cvelist/CVELIST:CVE-2026-17510?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18988](https://vulners.com/circl/CIRCL:CVE-2026-18988?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19323](https://vulners.com/nvd/NVD:CVE-2026-19323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19324](https://vulners.com/nvd/NVD:CVE-2026-19324?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19325](https://vulners.com/nvd/NVD:CVE-2026-19325?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19326](https://vulners.com/nvd/NVD:CVE-2026-19326?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19327](https://vulners.com/nvd/NVD:CVE-2026-19327?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19328](https://vulners.com/nvd/NVD:CVE-2026-19328?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19329 andreahaku codex_mcp ask MCP Tool codex-process-simple.ts command injection](https://vulners.com/cve/CVE-2026-19329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19329 andreahaku codex_mcp ask MCP Tool codex-process-simple.ts command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42170](https://vulners.com/nvd/NVD:CVE-2026-42170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56818 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-56818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67213 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-67213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -137,6 +147,7 @@
   - [CVE-2026-71991 MSI Radix AXE6600 v781521 Command Injection via TelnetSSH Function](https://vulners.com/cvelist/CVELIST:CVE-2026-71991?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71992](https://vulners.com/nvd/NVD:CVE-2026-71992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71993](https://vulners.com/nvd/NVD:CVE-2026-71993?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit](https://vulners.com/githubexploit/0066C1AC-A545-54AD-86CC-5AB89B8400D5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/049BA32D-A3DE-575F-B66E-7C3E84F5445F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/B90963A7-3EF0-5452-A6A6-658C8B602E02?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Wordpress](https://vulners.com/githubexploit/497286E1-C7A5-56E6-945B-5EA4822F5C75?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -176,8 +187,15 @@
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/)
+- 不安全
+  - [Codex已重置本周额度，不过很多用户自然重置就是昨天所以血亏](https://buaq.net/go-433943.html)
+  - [Daunt is down for a few days, be careful where you get links.](https://buaq.net/go-433944.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 量子位 QbitAI
+  - [Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了](https://www.qbitai.com/2026/08/468766.html)
+  - [爆料：哈萨比斯原本要和Jeff Dean一起走！](https://www.qbitai.com/2026/08/468715.html)
 - 黑海洋
   - [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000](https://blog.upx8.com/Cloudflare-AI-%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B5%81%E9%87%8F%E5%B7%B2%E8%B6%85%E8%B6%8A%E4%BA%BA%E7%B1%BB-%E9%A2%84%E8%AE%A1%E4%BA%94%E5%B9%B4%E5%90%8E%E4%BA%BA%E6%9C%BA%E6%B5%81%E9%87%8F%E6%AF%94%E8%BE%BE-1-1000)
+  - [为“喂饱”AI数据中心，亚马逊要在美国建一个超级污染源](https://blog.upx8.com/%E4%B8%BA-%E5%96%82%E9%A5%B1-AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83-%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%A6%81%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%BB%BA%E4%B8%80%E4%B8%AA%E8%B6%85%E7%BA%A7%E6%B1%A1%E6%9F%93%E6%BA%90)
   - [马斯克拒绝让乌克兰用星链打击俄境内目标](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%92%E7%BB%9D%E8%AE%A9%E4%B9%8C%E5%85%8B%E5%85%B0%E7%94%A8%E6%98%9F%E9%93%BE%E6%89%93%E5%87%BB%E4%BF%84%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87)
