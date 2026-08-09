@@ -13,6 +13,7 @@
 - Hacker News Frontpage
   - [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
   - [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
+  - [The AI Apocalypse Is Here](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
 - simonwillison.net
   - [Auto mode is now the default in Claude Code for Pro, Max, and Team plans](https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything)
 - TechCrunch
@@ -62,9 +63,14 @@
   - [CVE-2026-71992 | MSI Radix AXE6600 781521 macfilter command injection](https://vuldb.com/vuln/387228)
   - [CVE-2026-71993 | MSI Radix AXE6600 781521 openvpn command injection (ID 781521)](https://vuldb.com/vuln/387229)
 - Vulners.com RSS Feed
+  - [[SECURITY] Fedora 43 Update: bird-3.3.2-1.fc43](https://vulners.com/fedora/FEDORA:B087376659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: pgadmin4-9.17-1.fc43](https://vulners.com/fedora/FEDORA:384777B16E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [[SECURITY] Fedora 43 Update: udisks2-2.11.2-1.fc43](https://vulners.com/fedora/FEDORA:0C28A798E2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11612](https://vulners.com/attackerkb/AKB:8278D0A8-749C-44D2-9909-5D3D624526DE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11612](https://vulners.com/nvd/NVD:CVE-2026-11612?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17510 Crypt::OpenSSL::PKCS12 versions before 1.98 for Perl allow a NULL pointer dereference in print_attribute via a zero length BMPSTRING attribute](https://vulners.com/cve/CVE-2026-17510?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17510 Crypt::OpenSSL::PKCS12 versions before 1.98 for Perl allow a NULL pointer dereference in print_attribute via a zero length BMPSTRING attribute](https://vulners.com/cvelist/CVELIST:CVE-2026-17510?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18988](https://vulners.com/circl/CIRCL:CVE-2026-18988?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19323](https://vulners.com/nvd/NVD:CVE-2026-19323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42170](https://vulners.com/nvd/NVD:CVE-2026-42170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
