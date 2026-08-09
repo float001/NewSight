@@ -2,10 +2,12 @@
 
 - 2Libra
   - [0.03 倍率 gpt](https://2libra.com/post/promotion/Ec07grT)
+  - [《奥德赛》点评：9 分｜仍旧视听享受，故事奇幻讲述的很流畅，只有亲自电影院才有的感受](https://2libra.com/post/movie-experience/PvtKxhE)
   - [【更新】本地离线 OCR 工具 SnapFind 迎来 v2.3.4 更新，官方网站同步上线](https://2libra.com/post/promotion/jX23zLs)
   - [【💰】大周末去哪里玩比较凉快](https://2libra.com/post/recommendations/qpf7zKX)
   - [【💰】工作职责太多，想跑路](https://2libra.com/post/workplace-stories/Tc8nm1W)
   - [【💰】我宣布，已经没有任何一个笑话或者图片可以让我笑出来了，不信你试试，笑出来给你转金币](https://2libra.com/post/tech-rumination/yb70RO4)
+  - [最近两周迷上了拼豆，废寝忘食...（下周还去）](https://2libra.com/post/personal-life/3Qv8MBV)
   - [最近搞了点新东西，哪位朋友可以帮忙测试一下](https://2libra.com/post/tool-sharing/mvZaUFE)
   - [随感](https://2libra.com/post/social-observation/CRXTg9l)
 - CoinTelegraph
@@ -29,6 +31,7 @@
   - [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
   - [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
   - [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
+  - [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
   - [The AI Apocalypse Is Here](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-08-09: Traffic Analysis Exercise - First to Last](https://www.malware-traffic-analysis.net/2026/08/09/index.html)
@@ -46,6 +49,7 @@
   - [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)
   - [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
   - [The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have](https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/)
+  - [This ‘adversarial’ pattern can prevent surveillance cameras from detecting you](https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/)
   - [This former notorious red-light district is now one of the world’s top AI hubs](https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/)
   - [X replaces ‘misaligned’ revenue sharing program with Original Content Rewards](https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/)
 - The Block
@@ -107,6 +111,7 @@
   - [CVE-2026-19373 | PhialsBasement KoboldCPP-MCP-Server 1.0.0 BaseConfigSchema src/index.ts makeRequest apiUrl server-side request forgery](https://vuldb.com/vuln/387257)
   - [CVE-2026-19374 | adafap api-mcp up to 92b9a5d04acfec165c7d4ef852496593aa87be06 Proxy API Endpoint app/api/proxy/route.ts customAxios url server-side request forgery](https://vuldb.com/vuln/387258)
   - [CVE-2026-19375 | dmitriiweb article-scraper-mcp 1.0.0 server.py fetch_article url server-side request forgery](https://vuldb.com/vuln/387259)
+  - [CVE-2026-19376 | Uasoft Badaso 3.0.0-alpha File API src/Routes/api.php ApiRequest::class permission (Issue 1100)](https://vuldb.com/vuln/387270)
   - [CVE-2026-28672 | Apache Ranger UnixUserGroupBuilder Username os command injection](https://vuldb.com/vuln/387264)
   - [CVE-2026-32227 | Apache Ranger sql injection](https://vuldb.com/vuln/387265)
   - [CVE-2026-40920 | Apache Ranger URL Parameter privileges management](https://vuldb.com/vuln/387266)
@@ -227,8 +232,14 @@
   - [CVE-2026-19351](https://vulners.com/nvd/NVD:CVE-2026-19351?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19351 dresende node-sql-query Request Parameter Select.js SelectQuery.build sql injection](https://vulners.com/cve/CVE-2026-19351?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19351 dresende node-sql-query Request Parameter Select.js SelectQuery.build sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19351?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19352](https://vulners.com/nvd/NVD:CVE-2026-19352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19352 mifi lossless-cut Built-in HTTP API Service httpServer.ts server-side request forgery](https://vulners.com/cve/CVE-2026-19352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19352 mifi lossless-cut Built-in HTTP API Service httpServer.ts server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-19352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19353](https://vulners.com/nvd/NVD:CVE-2026-19353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19354 lock-upme OPMS IN Clause message.go sql injection](https://vulners.com/cve/CVE-2026-19354?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19354 lock-upme OPMS IN Clause message.go sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19354?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19355 MingSoft MCMS ms-mdiy list.do ModelDataImpl.queryDiyFormData sql injection](https://vulners.com/cve/CVE-2026-19355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19355 MingSoft MCMS ms-mdiy list.do ModelDataImpl.queryDiyFormData sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42170](https://vulners.com/nvd/NVD:CVE-2026-42170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56818 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-56818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67213 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-67213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -294,6 +305,7 @@
   - [Exploit](https://vulners.com/githubexploit/0066C1AC-A545-54AD-86CC-5AB89B8400D5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/049BA32D-A3DE-575F-B66E-7C3E84F5445F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-64638](https://vulners.com/githubexploit/B90963A7-3EF0-5452-A6A6-658C8B602E02?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Isolation or Compartmentalization in Redhat Build_Of_Keycloak](https://vulners.com/githubexploit/3A9300DD-8DA3-50F7-9D5A-E545FE9FE01D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Wordpress](https://vulners.com/githubexploit/497286E1-C7A5-56E6-945B-5EA4822F5C75?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2V37-7H3G-55P8 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:GHSA-2V37-7H3G-55P8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-2V37-7H3G-55P8 vulnerabilities](https://vulners.com/wolfi/WOLFI:GHSA-2V37-7H3G-55P8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -348,6 +360,8 @@
   - [Daunt is down for a few days, be careful where you get links.](https://buaq.net/go-433944.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [微软 Google 亚马逊 Meta 甲骨文 2027 年负现金流将达到 1250 亿美元](https://www.solidot.org/story?sid=85043)
 - 量子位 QbitAI
   - [180万刀，连亚马逊都烧不起Claude了](https://www.qbitai.com/2026/08/469010.html)
   - [GPT-5.6和Fable联手，解决了一道悬了25年的数学难题](https://www.qbitai.com/2026/08/468913.html)
