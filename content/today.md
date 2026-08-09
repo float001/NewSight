@@ -46,6 +46,7 @@
   - [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)
   - [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
   - [The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have](https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/)
+  - [This former notorious red-light district is now one of the world’s top AI hubs](https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/)
   - [X replaces ‘misaligned’ revenue sharing program with Original Content Rewards](https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/)
 - The Block
   - [Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead](https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&utm_medium=rss)
@@ -53,11 +54,14 @@
 - The Decoder
   - [AI is flooding Britain's employment courts with lawsuits](https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/)
   - [AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure](https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/)
+  - [Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time](https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/)
   - [Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit](https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/)
   - [Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model](https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/)
+  - [Scammers are enrolling fake students at US community colleges and using AI to collect financial aid](https://the-decoder.com/scammers-are-enrolling-fake-students-at-us-community-colleges-and-using-ai-to-collect-financial-aid/)
 - The Verge
   - [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion)
   - [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)
+  - [Dropbox is a PC builder’s best friend](https://www.theverge.com/tech/976092/pc-building-dropbox-backup)
   - [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)
 - Threatninja.net
   - [Hack The Box: Helix Machine – Medium Difficulty](https://threatninja.net/hack-the-box-helix-machine-medium-difficulty/)
@@ -220,8 +224,11 @@
   - [CVE-2026-19348 Shenzhen Aitemi M300 Wi-Fi Repeater protocol.csp sprintf command injection](https://vulners.com/cve/CVE-2026-19348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19348 Shenzhen Aitemi M300 Wi-Fi Repeater protocol.csp sprintf command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19350](https://vulners.com/nvd/NVD:CVE-2026-19350?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19351](https://vulners.com/nvd/NVD:CVE-2026-19351?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19351 dresende node-sql-query Request Parameter Select.js SelectQuery.build sql injection](https://vulners.com/cve/CVE-2026-19351?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19351 dresende node-sql-query Request Parameter Select.js SelectQuery.build sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19351?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19352 mifi lossless-cut Built-in HTTP API Service httpServer.ts server-side request forgery](https://vulners.com/cve/CVE-2026-19352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19352 mifi lossless-cut Built-in HTTP API Service httpServer.ts server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-19352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42170](https://vulners.com/nvd/NVD:CVE-2026-42170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56818 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-56818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67213 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-67213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -315,6 +322,7 @@
   - [ipv4: fib: free fib_alias with kfree_rcu() on insert error path](https://vulners.com/mscve/MS:CVE-2026-64572?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ipv6: ndisc: fix NULL deref in accept_untracked_na()](https://vulners.com/mscve/MS:CVE-2026-64542?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [mpls: fix NULL deref in mpls_valid_fib_dump_req() on CONFIG_INET=n](https://vulners.com/mscve/MS:CVE-2026-64569?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ownsite-assessor](https://vulners.com/githubexploit/BFEACE59-EAA8-51CC-BC2E-2A037DC04B6A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PSA: Supply Chain Compromise in BdThemes Ecosystem via Poisoned API Response](https://vulners.com/wordfence/WORDFENCE:48D81B65322412A1E25CE4E4DCCA45C3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerabilities in the net/bluetooth/eir.c and net/bluetooth/mgmt.c modules of Linux kernel allow a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability in the drivers/bluetooth/btnxpuart.c module of Linux operating systems allows a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
