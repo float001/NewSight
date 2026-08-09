@@ -4,6 +4,7 @@
   - [AI 编程一体化平台程，1,000,000 Token / 每天 注册有免费额度](https://2libra.com/post/promotion/TQNJAkn)
 - Hacker News Frontpage
   - [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
+  - [If experience is the goal, then you always win](https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you)
   - [Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon](https://frequal.com/aptera/ProductionImminent.html)
 - johndcook.com
   - [A simple range reduction method](https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/)
@@ -14,24 +15,40 @@
   - [Exploit for Argument Injection in Gnu Inetutils](https://sploitus.com/exploit?id=7D1DF8EB-BD0A-5978-86B7-82C6C62394FE&utm_source=rss&utm_medium=rss)
 - The Block
   - [Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets](https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&utm_medium=rss)
+  - [World Liberty received $100 million from businessman investigated for money laundering: NYT](https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221?utm_source=rss&utm_medium=rss)
 - The Verge
   - [Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat](https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat)
 - VulDB Recent Entries
+  - [CVE-2026-15534 | LEONT Perl up to 5.45.1 Regex Engine S_regmatch out-of-bounds](https://vuldb.com/vuln/387285)
   - [CVE-2026-19381 | Kingston FURY CTRL RGB Control Software 2.0.65.0 Driver NTIOLib_KSFX.sys privileges management](https://vuldb.com/vuln/387274)
   - [CVE-2026-19382 | Almico Speedfan 4.52 MSR Index speedfan.sys KiSystemCall64 memory leak](https://vuldb.com/vuln/387275)
   - [CVE-2026-19383 | saithink/saigroup SaiAdmin up to 5.0.1 Plugin Upload Endpoint upload shell_exec unrestricted upload](https://vuldb.com/vuln/387276)
+  - [CVE-2026-69659 | ash-project ash up to 3.31.0 Keyset Pagination lib/ash/page/keyset.ex decode_values resource consumption](https://vuldb.com/vuln/387286)
+  - [CVE-2026-70395 | Ash Project prior 3.31.1 Data Query Logic Ash.Query.filter neutralization](https://vuldb.com/vuln/387287)
 - Vulners.com RSS Feed
+  - [CVE-2026-15534](https://vulners.com/nvd/NVD:CVE-2026-15534?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19358](https://vulners.com/nvd/NVD:CVE-2026-19358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19359](https://vulners.com/nvd/NVD:CVE-2026-19359?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19359 nxp-auto-goldvip gvip Lambda Function SitewiseCustomFunction access control](https://vulners.com/cve/CVE-2026-19359?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19359 nxp-auto-goldvip gvip Lambda Function SitewiseCustomFunction access control](https://vulners.com/cvelist/CVELIST:CVE-2026-19359?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19360](https://vulners.com/nvd/NVD:CVE-2026-19360?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19361](https://vulners.com/nvd/NVD:CVE-2026-19361?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19361 macrozheng mall mall-portal getAuthCode password recovery](https://vulners.com/cve/CVE-2026-19361?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19361 macrozheng mall mall-portal getAuthCode password recovery](https://vulners.com/cvelist/CVELIST:CVE-2026-19361?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19362](https://vulners.com/nvd/NVD:CVE-2026-19362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19362 lmammino oidc-authorizer Authorization Header Parsing parse_token_from_header.rs parse_token_from_header denial of service](https://vulners.com/cve/CVE-2026-19362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19362 lmammino oidc-authorizer Authorization Header Parsing parse_token_from_header.rs parse_token_from_header denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-19362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19363](https://vulners.com/nvd/NVD:CVE-2026-19363?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19364](https://vulners.com/nvd/NVD:CVE-2026-19364?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19365 Ichigo3766 image-gen-mcp upscale_images index.ts path traversal](https://vulners.com/cve/CVE-2026-19365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19365 Ichigo3766 image-gen-mcp upscale_images index.ts path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-69659](https://vulners.com/nvd/NVD:CVE-2026-69659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-70395 Predicate injection in manage_relationship belongs_to lookup discloses secret lookup keys in Ash](https://vulners.com/cve/CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-70395 Predicate injection in manage_relationship belongs_to lookup discloses secret lookup keys in Ash](https://vulners.com/cvelist/CVELIST:CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Eopi-Hunt-Skill](https://vulners.com/githubexploit/3B94F400-1648-5E72-85AC-142B59108070?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Argument Injection in Gnu Inetutils](https://vulners.com/githubexploit/7D1DF8EB-BD0A-5978-86B7-82C6C62394FE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Code Injection in Flowiseai Flowise](https://vulners.com/githubexploit/325FA034-4B06-54ED-A58E-FA9E0D332762?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [mcp-injection-poc](https://vulners.com/githubexploit/3A23F595-29EB-50D8-947A-6200E6B0CA9A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 白帽Wiki - 一个简单的wiki
