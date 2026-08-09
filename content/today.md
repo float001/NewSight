@@ -27,12 +27,17 @@
 - Hacker News Frontpage
   - ["The original URL for this prediction will no longer be available in 11 years." (2011)](https://longbets.org/601/)
   - [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
+  - [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
   - [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
   - [The AI Apocalypse Is Here](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-08-09: Traffic Analysis Exercise - First to Last](https://www.malware-traffic-analysis.net/2026/08/09/index.html)
 - michael.stapelberg.ch
   - [Tracking down a Zsh history data loss bug 🐞](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
+- Recent Commits to cve:main
+  - [Update Sun Aug  9 11:56:48 UTC 2026](https://github.com/trickest/cve/commit/7696bc8f7fdd4c10b8e48ac795333c2f8d828a3b)
+- shkspr.mobi
+  - [Against Doomerism](https://shkspr.mobi/blog/2026/08/against-doomerism/)
 - simonwillison.net
   - [Auto mode is now the default in Claude Code for Pro, Max, and Team plans](https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything)
 - Sploitus.com Exploits RSS Feed
@@ -51,6 +56,7 @@
   - [Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit](https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/)
   - [Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model](https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/)
 - The Verge
+  - [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion)
   - [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)
   - [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)
 - Threatninja.net
@@ -97,6 +103,16 @@
   - [CVE-2026-19373 | PhialsBasement KoboldCPP-MCP-Server 1.0.0 BaseConfigSchema src/index.ts makeRequest apiUrl server-side request forgery](https://vuldb.com/vuln/387257)
   - [CVE-2026-19374 | adafap api-mcp up to 92b9a5d04acfec165c7d4ef852496593aa87be06 Proxy API Endpoint app/api/proxy/route.ts customAxios url server-side request forgery](https://vuldb.com/vuln/387258)
   - [CVE-2026-19375 | dmitriiweb article-scraper-mcp 1.0.0 server.py fetch_article url server-side request forgery](https://vuldb.com/vuln/387259)
+  - [CVE-2026-28672 | Apache Ranger UnixUserGroupBuilder Username os command injection](https://vuldb.com/vuln/387264)
+  - [CVE-2026-32227 | Apache Ranger sql injection](https://vuldb.com/vuln/387265)
+  - [CVE-2026-40920 | Apache Ranger URL Parameter privileges management](https://vuldb.com/vuln/387266)
+  - [CVE-2026-42537 | Apache Ranger injection](https://vuldb.com/vuln/387260)
+  - [CVE-2026-44416 | Apache Ranger externally-controlled input to select classes or code](https://vuldb.com/vuln/387261)
+  - [CVE-2026-55799 | Apache Ranger GraalScriptEngineCreator code injection](https://vuldb.com/vuln/387262)
+  - [CVE-2026-55814 | Apache Ranger missing authentication](https://vuldb.com/vuln/387269)
+  - [CVE-2026-65942 | Apache Ranger certificate validation](https://vuldb.com/vuln/387267)
+  - [CVE-2026-65945 | Apache Ranger authentication replay](https://vuldb.com/vuln/387268)
+  - [CVE-2026-65948 | Apache Ranger Unixauth excessive authentication](https://vuldb.com/vuln/387263)
   - [CVE-2026-67620 | FlowiseAI Flowise up to 3.1.4 SSRF Guard httpSecurity.ts server-side request forgery](https://vuldb.com/vuln/387188)
   - [CVE-2026-71944 | D-Link DWR-M961 up to 1.1.5_C1_202607071107 LTE Firmware Upgrade Interface formLtefotaUpgradeQuectel fota_url command injection](https://vuldb.com/vuln/387192)
   - [CVE-2026-71945 | D-Link DWR-M961 up to 1.1.5_C1_202607071107 LtefotaUpgradeFibocom formLtefotaUpgradeFibocom fota_url command injection](https://vuldb.com/vuln/387193)
@@ -197,10 +213,15 @@
   - [CVE-2026-19345 code-projects Task Management System UpdateTaskStatus.php authorization](https://vulners.com/cve/CVE-2026-19345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19345 code-projects Task Management System UpdateTaskStatus.php authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-19345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19346](https://vulners.com/nvd/NVD:CVE-2026-19346?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19347](https://vulners.com/nvd/NVD:CVE-2026-19347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19347 itsourcecode Hospital Management System viewdoctor.php sql injection](https://vulners.com/cve/CVE-2026-19347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19347 itsourcecode Hospital Management System viewdoctor.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19348](https://vulners.com/nvd/NVD:CVE-2026-19348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19348 Shenzhen Aitemi M300 Wi-Fi Repeater protocol.csp sprintf command injection](https://vulners.com/cve/CVE-2026-19348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19348 Shenzhen Aitemi M300 Wi-Fi Repeater protocol.csp sprintf command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19350](https://vulners.com/nvd/NVD:CVE-2026-19350?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19351 dresende node-sql-query Request Parameter Select.js SelectQuery.build sql injection](https://vulners.com/cve/CVE-2026-19351?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19351 dresende node-sql-query Request Parameter Select.js SelectQuery.build sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19351?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42170](https://vulners.com/nvd/NVD:CVE-2026-42170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56818 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-56818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67213 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-67213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -310,6 +331,7 @@
 - Wired
   - [8 Best Workout Headphones & Earbuds: Beats, Bose, Apple (2026)](https://www.wired.com/story/the-best-workout-headphones-and-earbuds/)
   - [Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How](https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/)
+  - [The Complicated Case of Passing On Your Digital Estate](https://www.wired.com/story/digital-estate-planning-tips/)
   - [The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/)
   - [These AI Barons Are Ready to Give Away Their Fortunes](https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/)
 - 不安全
