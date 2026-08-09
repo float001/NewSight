@@ -2,10 +2,13 @@
 
 - 2Libra
   - [AI 编程一体化平台程，1,000,000 Token / 每天 注册有免费额度](https://2libra.com/post/promotion/TQNJAkn)
+  - [潘多拉回归起点](https://2libra.com/post/game-discussion/ClYbwnb)
 - Hacker News Frontpage
   - [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
+  - [Deletes all instances of Microsoft's GDID and prevents minting of new ones](https://github.com/yegors/deGDID)
   - [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
   - [If experience is the goal, then you always win](https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you)
+  - [Poland now 6th-largest EU economy, ahead of Switzerland and Belgium](https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium)
   - [Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon](https://frequal.com/aptera/ProductionImminent.html)
   - [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
 - johndcook.com
@@ -17,10 +20,12 @@
   - [Exploit for Argument Injection in Gnu Inetutils](https://sploitus.com/exploit?id=7D1DF8EB-BD0A-5978-86B7-82C6C62394FE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic is turning Claude Code’s auto mode on by default](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/)
+  - [Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/)
 - The Block
   - [Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets](https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&utm_medium=rss)
   - [World Liberty received $100 million from businessman investigated for money laundering: NYT](https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221?utm_source=rss&utm_medium=rss)
 - The Verge
+  - [No Dogs in Space is a music history podcast for true obsessives](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast)
   - [Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat](https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat)
 - VulDB Recent Entries
   - [CVE-2026-15534 | LEONT Perl up to 5.45.1 Regex Engine S_regmatch out-of-bounds](https://vuldb.com/vuln/387285)
@@ -48,6 +53,9 @@
   - [CVE-2026-19365 Ichigo3766 image-gen-mcp upscale_images index.ts path traversal](https://vulners.com/cve/CVE-2026-19365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19365 Ichigo3766 image-gen-mcp upscale_images index.ts path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19366](https://vulners.com/nvd/NVD:CVE-2026-19366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19367](https://vulners.com/nvd/NVD:CVE-2026-19367?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19368 PV-Bhat gemsuite-mcp gemini_search unified-gemini.ts path traversal](https://vulners.com/cve/CVE-2026-19368?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19368 PV-Bhat gemsuite-mcp gemini_search unified-gemini.ts path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19368?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-69659](https://vulners.com/nvd/NVD:CVE-2026-69659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395](https://vulners.com/nvd/NVD:CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395 Predicate injection in manage_relationship belongs_to lookup discloses secret lookup keys in Ash](https://vulners.com/cve/CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
