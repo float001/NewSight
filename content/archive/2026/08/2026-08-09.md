@@ -3,6 +3,7 @@
 - 2Libra
   - [【更新】本地离线 OCR 工具 SnapFind 迎来 v2.3.4 更新，官方网站同步上线](https://2libra.com/post/promotion/jX23zLs)
   - [【💰】大周末去哪里玩比较凉快](https://2libra.com/post/recommendations/qpf7zKX)
+  - [【💰】我宣布，已经没有任何一个笑话或者图片可以让我笑出来了，不信你试试，笑出来给你转金币](https://2libra.com/post/tech-rumination/yb70RO4)
   - [随感](https://2libra.com/post/social-observation/CRXTg9l)
 - CoinTelegraph
   - [Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%](https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -37,6 +38,8 @@
 - The Verge
   - [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)
   - [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)
+- Threatninja.net
+  - [Hack The Box: Helix Machine – Medium Difficulty](https://threatninja.net/hack-the-box-helix-machine-medium-difficulty/)
 - VulDB Recent Entries
   - [CVE-2026-10595 | parisneo lollms up to 2.1.0 SPA Catch-All Route backend/routers/ui.py path traversal](https://vuldb.com/vuln/387232)
   - [CVE-2026-15038 | InfiniteWP Client Plugin up to 1.13.5 on WordPress improper authentication](https://vuldb.com/vuln/387237)
@@ -73,6 +76,12 @@
   - [CVE-2026-19366 | NocteDefensor LudusMCP up to 1.0.24 insert_creds_range_config insertCredsRangeConfig.ts configPath/outputPath path traversal](https://vuldb.com/vuln/387233)
   - [CVE-2026-19367 | NocteDefensor LudusMCP 1.0.24 read_range_config src/tools/rangeConfig.ts Source server-side request forgery](https://vuldb.com/vuln/387234)
   - [CVE-2026-19368 | PV-Bhat gemsuite-mcp 1.0.0 gemini_search unified-gemini.ts file_path/file_paths path traversal](https://vuldb.com/vuln/387235)
+  - [CVE-2026-19370 | bartekke8it56w2 new-mcp 0.1.0 geminithinking index.ts fs.writeFileSync/fs.existsSync/fs.readFileSync sessionCommand/sessionPath path traversal](https://vuldb.com/vuln/387254)
+  - [CVE-2026-19371 | Nikolaibibo claude-comfyui-mcp 1.0.0 comfy_upload_image src/tools/utils.ts copyFileSync image_path path traversal](https://vuldb.com/vuln/387255)
+  - [CVE-2026-19372 | Handwriting-OCR handwriting-ocr-mcp-server 0.1.0 upload_document src/index.ts fs.readFileSync File path traversal](https://vuldb.com/vuln/387256)
+  - [CVE-2026-19373 | PhialsBasement KoboldCPP-MCP-Server 1.0.0 BaseConfigSchema src/index.ts makeRequest apiUrl server-side request forgery](https://vuldb.com/vuln/387257)
+  - [CVE-2026-19374 | adafap api-mcp up to 92b9a5d04acfec165c7d4ef852496593aa87be06 Proxy API Endpoint app/api/proxy/route.ts customAxios url server-side request forgery](https://vuldb.com/vuln/387258)
+  - [CVE-2026-19375 | dmitriiweb article-scraper-mcp 1.0.0 server.py fetch_article url server-side request forgery](https://vuldb.com/vuln/387259)
   - [CVE-2026-67620 | FlowiseAI Flowise up to 3.1.4 SSRF Guard httpSecurity.ts server-side request forgery](https://vuldb.com/vuln/387188)
   - [CVE-2026-71944 | D-Link DWR-M961 up to 1.1.5_C1_202607071107 LTE Firmware Upgrade Interface formLtefotaUpgradeQuectel fota_url command injection](https://vuldb.com/vuln/387192)
   - [CVE-2026-71945 | D-Link DWR-M961 up to 1.1.5_C1_202607071107 LtefotaUpgradeFibocom formLtefotaUpgradeFibocom fota_url command injection](https://vuldb.com/vuln/387193)
@@ -149,10 +158,18 @@
   - [CVE-2026-19336 Pimzino spec-workflow-mcp approvals.ts ApprovalStorage.createApproval path traversal](https://vulners.com/cve/CVE-2026-19336?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19336 Pimzino spec-workflow-mcp approvals.ts ApprovalStorage.createApproval path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19336?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19337](https://vulners.com/nvd/NVD:CVE-2026-19337?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19338](https://vulners.com/nvd/NVD:CVE-2026-19338?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19338 automateyournetwork MCPyATS generate_mermaid_markdown index.ts processGenerateRequest path traversal](https://vulners.com/cve/CVE-2026-19338?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19338 automateyournetwork MCPyATS generate_mermaid_markdown index.ts processGenerateRequest path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19338?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19339](https://vulners.com/nvd/NVD:CVE-2026-19339?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19339 aliyun alibabacloud-dataworks-mcp-server initResources.ts ReadResourceRequestSchema server-side request forgery](https://vulners.com/cve/CVE-2026-19339?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19339 aliyun alibabacloud-dataworks-mcp-server initResources.ts ReadResourceRequestSchema server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-19339?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19340](https://vulners.com/nvd/NVD:CVE-2026-19340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19341](https://vulners.com/nvd/NVD:CVE-2026-19341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19342 code-projects Task Management System Login index.php improper authentication](https://vulners.com/cve/CVE-2026-19342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19342 code-projects Task Management System Login index.php improper authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-19342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19343 code-projects Task Management System AdminLogin.php sql injection](https://vulners.com/cve/CVE-2026-19343?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19343 code-projects Task Management System AdminLogin.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19343?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42170](https://vulners.com/nvd/NVD:CVE-2026-42170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56818 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-56818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67213 vulnerabilities](https://vulners.com/cgr/CHAINGUARD:CVE-2026-67213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
