@@ -1,11 +1,14 @@
 # 今日安全资讯（2026-08-10）
 
 - 2Libra
+  - [100% 原生 macOS Discord 客户端](https://2libra.com/post/open-source-sharing/iWemXcg)
   - [AI 编程一体化平台程，1,000,000 Token / 每天 注册有免费额度](https://2libra.com/post/promotion/TQNJAkn)
   - [zlib 现在是出问题了吗?我在 zlib 上面搜书搜不了,你们有这种情况的吗?](https://2libra.com/post/software-tools/AdAEVz8)
   - [「晷迹」：一款以 Trace 为核心的 macOS Todo](https://2libra.com/post/promotion/oznWQdh)
+  - [【💰】今天入职成功了，环境很棒](https://2libra.com/post/workplace-stories/VsMI6Sx)
   - [【💰】今早顶着台风穿越浦东，这趟班上的太难了](https://2libra.com/post/personal-life/ZPaIVWd)
   - [上海居家办公了](https://2libra.com/post/office-life/2bQAfmr)
+  - [今天 cursor 有点流口水](https://2libra.com/post/ai-programming/DNov2kt)
   - [修改 forkgram/tdesktop 实现 跳转到最后一条@我的消息](https://2libra.com/post/open-source-sharing/YfGkgAi)
   - [周一上班](https://2libra.com/post/slacking-off/8Y2MgKl)
   - [周一如同十八层地狱难熬](https://2libra.com/post/workplace-stories/6F7Fb8N)
@@ -22,6 +25,8 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [WorkOS: Connect Your Agents to Your API](https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
+- defend.network
+  - [Atlassian Rovo, Metabase, LoadMaster zero-days & active exploitation](https://defend.network/briefings/atlassian-rovo-metabase-loadmaster-zero-day-2026-08-10.html)
 - Hacker News Frontpage
   - [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
   - [Deletes all instances of Microsoft's GDID and prevents minting of new ones](https://github.com/yegors/deGDID)
@@ -34,6 +39,7 @@
   - [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
   - [Why do we assume everyone should be working?](https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/)
 - idiallo.com
+  - [Failing after Success](https://idiallo.com/blog/failing-after-success)
   - [When the Aliens Finally Came to Visit](https://idiallo.com/byte-size/when-the-aliens-came-to-visit)
 - johndcook.com
   - [A simple range reduction method](https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/)
@@ -64,6 +70,7 @@
   - [Vibe-Coded Flattery](https://feed.tedium.co/link/15204/17410919/vibe-coding-insincerity)
 - The Block
   - [Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets](https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&utm_medium=rss)
+  - [Robinhood brings crypto trading to main UK app through Bitstamp](https://www.theblock.co/news/business/2026-08-10-robinhood-uk-crypto-trading-bitstamp-411140?utm_source=rss&utm_medium=rss)
   - [World Liberty received $100 million from businessman investigated for money laundering: NYT](https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221?utm_source=rss&utm_medium=rss)
 - The Verge
   - [No Dogs in Space is a music history podcast for true obsessives](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast)
@@ -84,7 +91,10 @@
   - [CVE-2026-12372](https://vulners.com/nvd/NVD:CVE-2026-12372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12372](https://vulners.com/redhatcve/RH:CVE-2026-12372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12372 Server-Side Request Forgery (SSRF) in nltk/nltk](https://vulners.com/cvelist/CVELIST:CVE-2026-12372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12570 Denial of Service via HDF5 Shape Bomb in keras.models.load_model() in keras-team/keras](https://vulners.com/cve/CVE-2026-12570?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12570 Denial of Service via HDF5 Shape Bomb in keras.models.load_model() in keras-team/keras](https://vulners.com/cvelist/CVELIST:CVE-2026-12570?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15534](https://vulners.com/nvd/NVD:CVE-2026-15534?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17519](https://vulners.com/nvd/NVD:CVE-2026-17519?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19358](https://vulners.com/nvd/NVD:CVE-2026-19358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19359](https://vulners.com/nvd/NVD:CVE-2026-19359?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19359 nxp-auto-goldvip gvip Lambda Function SitewiseCustomFunction access control](https://vulners.com/cve/CVE-2026-19359?utm_source=rss&utm_medium=rss&utm_campaign=rss)
