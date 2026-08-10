@@ -2,8 +2,13 @@
 
 - 2Libra
   - [AI 编程一体化平台程，1,000,000 Token / 每天 注册有免费额度](https://2libra.com/post/promotion/TQNJAkn)
+  - [【💰】今早顶着台风穿越浦东，这趟班上的太难了](https://2libra.com/post/personal-life/ZPaIVWd)
+  - [上海居家办公了](https://2libra.com/post/office-life/2bQAfmr)
   - [周一上班](https://2libra.com/post/slacking-off/8Y2MgKl)
   - [潘多拉回归起点](https://2libra.com/post/game-discussion/ClYbwnb)
+- CoinTelegraph
+  - [BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9](https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ex-US defense secretary calls CLARITY Act a ‘national security bill’](https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [WorkOS: Connect Your Agents to Your API](https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
 - Hacker News Frontpage
@@ -23,11 +28,13 @@
 - shkspr.mobi
   - [Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-musical-parody/)
   - [Edinburgh Fringe: 4 Aussies For Aussies - The Raging Bull ★★⯪☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-4-aussies-for-aussies-the-raging-bull/)
+  - [Edinburgh Fringe: Smut Slam ★★★☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-smut-slam/)
 - simonwillison.net
   - [GitHub Models is now retired](https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything)
   - [Quoting Claude Opus 5 system prompt](https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Argument Injection in Gnu Inetutils](https://sploitus.com/exploit?id=7D1DF8EB-BD0A-5978-86B7-82C6C62394FE&utm_source=rss&utm_medium=rss)
+  - [ubi-stage6-exploit-chain](https://sploitus.com/exploit?id=1F23697E-D78B-5344-B8DA-A958E640315E&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic is turning Claude Code’s auto mode on by default](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/)
   - [Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/)
@@ -84,12 +91,20 @@
   - [CVE-2026-19373 PhialsBasement KoboldCPP-MCP-Server BaseConfigSchema index.ts makeRequest server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-19373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19374](https://vulners.com/nvd/NVD:CVE-2026-19374?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19375](https://vulners.com/attackerkb/AKB:325E41C5-5DFA-4C72-A26D-FDF3BEC9D09E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19375](https://vulners.com/nvd/NVD:CVE-2026-19375?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19375 dmitriiweb article-scraper-mcp server.py fetch_article server-side request forgery](https://vulners.com/cve/CVE-2026-19375?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19375 dmitriiweb article-scraper-mcp server.py fetch_article server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-19375?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19376](https://vulners.com/nvd/NVD:CVE-2026-19376?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19376 Uasoft Badaso File API api.php class permission](https://vulners.com/cve/CVE-2026-19376?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19376 Uasoft Badaso File API api.php class permission](https://vulners.com/cvelist/CVELIST:CVE-2026-19376?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19378](https://vulners.com/nvd/NVD:CVE-2026-19378?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19378 code-projects Task Management System CommentSave.php cross site scripting](https://vulners.com/cve/CVE-2026-19378?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19378 code-projects Task Management System CommentSave.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-19378?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19380 Mullvad wireguard.sys IOCTL AdapterState reference count](https://vulners.com/cve/CVE-2026-19380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19380 Mullvad wireguard.sys IOCTL AdapterState reference count](https://vulners.com/cvelist/CVELIST:CVE-2026-19380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19381 Kingston FURY CTRL RGB Control Software Driver NTIOLib_KSFX.sys privileges management](https://vulners.com/cve/CVE-2026-19381?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19381 Kingston FURY CTRL RGB Control Software Driver NTIOLib_KSFX.sys privileges management](https://vulners.com/cvelist/CVELIST:CVE-2026-19381?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19382 Almico Speedfan MSR Index speedfan.sys KiSystemCall64 memory leak](https://vulners.com/cvelist/CVELIST:CVE-2026-19382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-69659](https://vulners.com/nvd/NVD:CVE-2026-69659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395](https://vulners.com/nvd/NVD:CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395 Predicate injection in manage_relationship belongs_to lookup discloses secret lookup keys in Ash](https://vulners.com/cve/CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -111,7 +126,10 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ubi-stage6-exploit-chain](https://vulners.com/githubexploit/1F23697E-D78B-5344-B8DA-A958E640315E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购](https://www.ifanr.com/1674507?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]从模型注意力角度创建一个简单但高效的Agent](https://key08.com/index.php/2026/08/10/3275.html)
