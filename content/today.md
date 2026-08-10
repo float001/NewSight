@@ -2,7 +2,10 @@
 
 - 2Libra
   - [AI 编程一体化平台程，1,000,000 Token / 每天 注册有免费额度](https://2libra.com/post/promotion/TQNJAkn)
+  - [周一上班](https://2libra.com/post/slacking-off/8Y2MgKl)
   - [潘多拉回归起点](https://2libra.com/post/game-discussion/ClYbwnb)
+- daringfireball.net
+  - [WorkOS: Connect Your Agents to Your API](https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
 - Hacker News Frontpage
   - [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
   - [Deletes all instances of Microsoft's GDID and prevents minting of new ones](https://github.com/yegors/deGDID)
@@ -15,11 +18,14 @@
 - johndcook.com
   - [A simple range reduction method](https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/)
   - [DNA and Bessel functions](https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/)
+- seangoedecke.com
+  - [Advanced AI sycophancy](https://seangoedecke.com/advanced-ai-sycophancy/)
 - shkspr.mobi
   - [Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-musical-parody/)
   - [Edinburgh Fringe: 4 Aussies For Aussies - The Raging Bull ★★⯪☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-4-aussies-for-aussies-the-raging-bull/)
 - simonwillison.net
   - [GitHub Models is now retired](https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything)
+  - [Quoting Claude Opus 5 system prompt](https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Argument Injection in Gnu Inetutils](https://sploitus.com/exploit?id=7D1DF8EB-BD0A-5978-86B7-82C6C62394FE&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -32,6 +38,7 @@
   - [No Dogs in Space is a music history podcast for true obsessives](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast)
   - [Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat](https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat)
 - VulDB Recent Entries
+  - [CVE-2026-12372 | NLTK up to 3.9.4 nltk.pathsec.validate_network_url server-side request forgery](https://vuldb.com/vuln/387288)
   - [CVE-2026-15534 | LEONT Perl up to 5.45.1 Regex Engine S_regmatch out-of-bounds](https://vuldb.com/vuln/387285)
   - [CVE-2026-19381 | Kingston FURY CTRL RGB Control Software 2.0.65.0 Driver NTIOLib_KSFX.sys privileges management](https://vuldb.com/vuln/387274)
   - [CVE-2026-19382 | Almico Speedfan 4.52 MSR Index speedfan.sys KiSystemCall64 memory leak](https://vuldb.com/vuln/387275)
@@ -39,6 +46,9 @@
   - [CVE-2026-69659 | ash-project ash up to 3.31.0 Keyset Pagination lib/ash/page/keyset.ex decode_values resource consumption](https://vuldb.com/vuln/387286)
   - [CVE-2026-70395 | Ash Project prior 3.31.1 Data Query Logic Ash.Query.filter neutralization](https://vuldb.com/vuln/387287)
 - Vulners.com RSS Feed
+  - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12372](https://vulners.com/nvd/NVD:CVE-2026-12372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12372](https://vulners.com/redhatcve/RH:CVE-2026-12372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12372 Server-Side Request Forgery (SSRF) in nltk/nltk](https://vulners.com/cvelist/CVELIST:CVE-2026-12372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15534](https://vulners.com/nvd/NVD:CVE-2026-15534?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19358](https://vulners.com/nvd/NVD:CVE-2026-19358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -64,11 +74,22 @@
   - [CVE-2026-19368 PV-Bhat gemsuite-mcp gemini_search unified-gemini.ts path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19368?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19369](https://vulners.com/nvd/NVD:CVE-2026-19369?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19370](https://vulners.com/nvd/NVD:CVE-2026-19370?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19371](https://vulners.com/nvd/NVD:CVE-2026-19371?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19371 Nikolaibibo claude-comfyui-mcp comfy_upload_image utils.ts copyFileSync path traversal](https://vulners.com/cve/CVE-2026-19371?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19371 Nikolaibibo claude-comfyui-mcp comfy_upload_image utils.ts copyFileSync path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19371?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19372](https://vulners.com/nvd/NVD:CVE-2026-19372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19372 Handwriting-OCR handwriting-ocr-mcp-server upload_document index.ts fs.readFileSync path traversal](https://vulners.com/cve/CVE-2026-19372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19372 Handwriting-OCR handwriting-ocr-mcp-server upload_document index.ts fs.readFileSync path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-19372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19373](https://vulners.com/nvd/NVD:CVE-2026-19373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19373 PhialsBasement KoboldCPP-MCP-Server BaseConfigSchema index.ts makeRequest server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-19373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19374](https://vulners.com/nvd/NVD:CVE-2026-19374?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19375](https://vulners.com/attackerkb/AKB:325E41C5-5DFA-4C72-A26D-FDF3BEC9D09E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19375 dmitriiweb article-scraper-mcp server.py fetch_article server-side request forgery](https://vulners.com/cve/CVE-2026-19375?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19375 dmitriiweb article-scraper-mcp server.py fetch_article server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-19375?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19376 Uasoft Badaso File API api.php class permission](https://vulners.com/cve/CVE-2026-19376?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19376 Uasoft Badaso File API api.php class permission](https://vulners.com/cvelist/CVELIST:CVE-2026-19376?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19378 code-projects Task Management System CommentSave.php cross site scripting](https://vulners.com/cve/CVE-2026-19378?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19378 code-projects Task Management System CommentSave.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-19378?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-69659](https://vulners.com/nvd/NVD:CVE-2026-69659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395](https://vulners.com/nvd/NVD:CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395 Predicate injection in manage_relationship belongs_to lookup discloses secret lookup keys in Ash](https://vulners.com/cve/CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -79,6 +100,17 @@
   - [jdwp-exploit](https://vulners.com/githubexploit/27BBDDD1-2D85-599C-9143-D6B2A59921CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [langflow-exploit](https://vulners.com/githubexploit/96FB054B-D5D3-50DD-8F94-788DFA1EB4D2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [mcp-injection-poc](https://vulners.com/githubexploit/3A23F595-29EB-50D8-947A-6200E6B0CA9A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerabilities in the net/bluetooth/eir.c and net/bluetooth/mgmt.c modules of Linux kernel allow a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability in the drivers/bluetooth/btnxpuart.c module of Linux operating systems allows a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of Microsoft Office packages and 365 Apps for Enterprise lies in the use of memory after it is freed, allowing an attacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Directum HR Pro system, which exists due to insufficient verification of input data, allows a perpetrator to disclose protected information.](https://vulners.com/bdu_fstec/BDU:2025-09755?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Directum RX ECM system, related to deficiencies in access control, allows a perpetrator to compromise data integrity.](https://vulners.com/bdu_fstec/BDU:2025-09752?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Directum Web Agent component of the Directum RX system, which arises due to insufficient validation of input data, allows a perpetrator to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09754?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Kerberos protocol for Windows operating systems allows attackers to increase their privileges.](https://vulners.com/bdu_fstec/BDU:2025-09690?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the MmMapIoSpace() function in the ThrottleBlood.sys driver allows a hacker to escalate their privileges, execute arbitrary code, or cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 白帽Wiki - 一个简单的wiki
