@@ -2,9 +2,11 @@
 
 - 2Libra
   - [AI 编程一体化平台程，1,000,000 Token / 每天 注册有免费额度](https://2libra.com/post/promotion/TQNJAkn)
+  - [zlib 现在是出问题了吗?我在 zlib 上面搜书搜不了,你们有这种情况的吗?](https://2libra.com/post/software-tools/AdAEVz8)
   - [「晷迹」：一款以 Trace 为核心的 macOS Todo](https://2libra.com/post/promotion/oznWQdh)
   - [【💰】今早顶着台风穿越浦东，这趟班上的太难了](https://2libra.com/post/personal-life/ZPaIVWd)
   - [上海居家办公了](https://2libra.com/post/office-life/2bQAfmr)
+  - [修改 forkgram/tdesktop 实现 跳转到最后一条@我的消息](https://2libra.com/post/open-source-sharing/YfGkgAi)
   - [周一上班](https://2libra.com/post/slacking-off/8Y2MgKl)
   - [周一如同十八层地狱难熬](https://2libra.com/post/workplace-stories/6F7Fb8N)
   - [心相印四层 2040g 无芯卷纸，有需要拼团的大佬吗？](https://2libra.com/post/worth-buying/-bIwwHJ)
@@ -12,6 +14,7 @@
   - [潘多拉回归起点](https://2libra.com/post/game-discussion/ClYbwnb)
 - CoinTelegraph
   - [BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9](https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto’s first quantum attack will look like unexplained breach: Quantus founder](https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-US defense secretary calls CLARITY Act a ‘national security bill’](https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [WorkOS: Connect Your Agents to Your API](https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
@@ -28,6 +31,9 @@
 - johndcook.com
   - [A simple range reduction method](https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/)
   - [DNA and Bessel functions](https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/)
+- Kali Linux Tutorials
+  - [top Command in Linux: Monitor Processes and Resource Usage](https://kalilinuxtutorials.com/top-command-linux/)
+  - [usermod Command in Linux: Modify User Accounts and Groups](https://kalilinuxtutorials.com/usermod-command-linux/)
 - seangoedecke.com
   - [Advanced AI sycophancy](https://seangoedecke.com/advanced-ai-sycophancy/)
 - shkspr.mobi
@@ -58,6 +64,8 @@
   - [CVE-2026-19381 | Kingston FURY CTRL RGB Control Software 2.0.65.0 Driver NTIOLib_KSFX.sys privileges management](https://vuldb.com/vuln/387274)
   - [CVE-2026-19382 | Almico Speedfan 4.52 MSR Index speedfan.sys KiSystemCall64 memory leak](https://vuldb.com/vuln/387275)
   - [CVE-2026-19383 | saithink/saigroup SaiAdmin up to 5.0.1 Plugin Upload Endpoint upload shell_exec unrestricted upload](https://vuldb.com/vuln/387276)
+  - [CVE-2026-19387 | Red Hat Enterprise Linux 7/8/9/10 ADPCM Decoder out-of-bounds write](https://vuldb.com/vuln/387289)
+  - [CVE-2026-19389 | Red Hat Enterprise Linux ASF demuxer integer overflow](https://vuldb.com/vuln/387290)
   - [CVE-2026-69659 | ash-project ash up to 3.31.0 Keyset Pagination lib/ash/page/keyset.ex decode_values resource consumption](https://vuldb.com/vuln/387286)
   - [CVE-2026-70395 | Ash Project prior 3.31.1 Data Query Logic Ash.Query.filter neutralization](https://vuldb.com/vuln/387287)
 - Vulners.com RSS Feed
@@ -118,12 +126,17 @@
   - [CVE-2026-19382](https://vulners.com/nvd/NVD:CVE-2026-19382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19382 Almico Speedfan MSR Index speedfan.sys KiSystemCall64 memory leak](https://vulners.com/cvelist/CVELIST:CVE-2026-19382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19383](https://vulners.com/nvd/NVD:CVE-2026-19383?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19384](https://vulners.com/nvd/NVD:CVE-2026-19384?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19387](https://vulners.com/cve/CVE-2026-19387?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19387](https://vulners.com/nvd/NVD:CVE-2026-19387?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19387](https://vulners.com/redhatcve/RH:CVE-2026-19387?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19389](https://vulners.com/nvd/NVD:CVE-2026-19389?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-69659](https://vulners.com/nvd/NVD:CVE-2026-69659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395](https://vulners.com/nvd/NVD:CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395 Predicate injection in manage_relationship belongs_to lookup discloses secret lookup keys in Ash](https://vulners.com/cve/CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395 Predicate injection in manage_relationship belongs_to lookup discloses secret lookup keys in Ash](https://vulners.com/cvelist/CVELIST:CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-72522](https://vulners.com/cve/CVE-2026-72522?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-72522](https://vulners.com/cvelist/CVELIST:CVE-2026-72522?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [deepslop](https://vulners.com/githubexploit/B5831700-3293-51C2-BE03-FB01D7E9AC5D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Eopi-Hunt-Skill](https://vulners.com/githubexploit/3B94F400-1648-5E72-85AC-142B59108070?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Argument Injection in Gnu Inetutils](https://vulners.com/githubexploit/7D1DF8EB-BD0A-5978-86B7-82C6C62394FE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -147,9 +160,12 @@
   - [ubi-stage6-exploit-chain](https://vulners.com/githubexploit/1F23697E-D78B-5344-B8DA-A958E640315E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [Struct Randomizer Using C++ 26 Reflection](https://buaq.net/go-434040.html)
+  - [澳大利亚也出现AI智能体自主攻击行为：代表用户入侵健身房预约系统只为提前订课](https://buaq.net/go-434046.html)
+  - [美光英睿达退出消费级市场后出现售后问题 用户内存故障后美光只愿意原价退款](https://buaq.net/go-434045.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [AI 开始帮写朋友圈了，但我更想念「古法手作」文字](https://www.ifanr.com/1673846?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购](https://www.ifanr.com/1674507?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]从模型注意力角度创建一个简单但高效的Agent](https://key08.com/index.php/2026/08/10/3275.html)
