@@ -2,10 +2,13 @@
 
 - 2Libra
   - [AI 编程一体化平台程，1,000,000 Token / 每天 注册有免费额度](https://2libra.com/post/promotion/TQNJAkn)
+  - [「晷迹」：一款以 Trace 为核心的 macOS Todo](https://2libra.com/post/promotion/oznWQdh)
   - [【💰】今早顶着台风穿越浦东，这趟班上的太难了](https://2libra.com/post/personal-life/ZPaIVWd)
   - [上海居家办公了](https://2libra.com/post/office-life/2bQAfmr)
   - [周一上班](https://2libra.com/post/slacking-off/8Y2MgKl)
   - [周一如同十八层地狱难熬](https://2libra.com/post/workplace-stories/6F7Fb8N)
+  - [心相印四层 2040g 无芯卷纸，有需要拼团的大佬吗？](https://2libra.com/post/worth-buying/-bIwwHJ)
+  - [才知道我用的图床可以自助删除图片](https://2libra.com/post/website-construction/dDSgsBk)
   - [潘多拉回归起点](https://2libra.com/post/game-discussion/ClYbwnb)
 - CoinTelegraph
   - [BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9](https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -21,6 +24,7 @@
   - [Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon](https://frequal.com/aptera/ProductionImminent.html)
   - [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
   - [Show HN: Lumabri – What if LLMs worked like Napster?](https://github.com/JustVugg/lumabri)
+  - [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
 - johndcook.com
   - [A simple range reduction method](https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/)
   - [DNA and Bessel functions](https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/)
@@ -40,6 +44,8 @@
 - TechCrunch
   - [Anthropic is turning Claude Code’s auto mode on by default](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/)
   - [Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/)
+- tedium.co
+  - [Vibe-Coded Flattery](https://feed.tedium.co/link/15204/17410919/vibe-coding-insincerity)
 - The Block
   - [Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets](https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&utm_medium=rss)
   - [World Liberty received $100 million from businessman investigated for money laundering: NYT](https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221?utm_source=rss&utm_medium=rss)
@@ -111,6 +117,9 @@
   - [CVE-2026-19381 Kingston FURY CTRL RGB Control Software Driver NTIOLib_KSFX.sys privileges management](https://vulners.com/cvelist/CVELIST:CVE-2026-19381?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19382](https://vulners.com/nvd/NVD:CVE-2026-19382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19382 Almico Speedfan MSR Index speedfan.sys KiSystemCall64 memory leak](https://vulners.com/cvelist/CVELIST:CVE-2026-19382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19383](https://vulners.com/nvd/NVD:CVE-2026-19383?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19387](https://vulners.com/cve/CVE-2026-19387?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19387](https://vulners.com/redhatcve/RH:CVE-2026-19387?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-69659](https://vulners.com/nvd/NVD:CVE-2026-69659?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395](https://vulners.com/nvd/NVD:CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70395 Predicate injection in manage_relationship belongs_to lookup discloses secret lookup keys in Ash](https://vulners.com/cve/CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -119,6 +128,8 @@
   - [Eopi-Hunt-Skill](https://vulners.com/githubexploit/3B94F400-1648-5E72-85AC-142B59108070?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Argument Injection in Gnu Inetutils](https://vulners.com/githubexploit/7D1DF8EB-BD0A-5978-86B7-82C6C62394FE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Flowiseai Flowise](https://vulners.com/githubexploit/325FA034-4B06-54ED-A58E-FA9E0D332762?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://vulners.com/githubexploit/64947BF2-3A8C-5A49-A8CB-F981C4E95B97?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Out-of-bounds Write in Mozilla Firefox](https://vulners.com/githubexploit/D04570B6-6F8B-5B7A-8A26-F57C9D9133BF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [jdwp-exploit](https://vulners.com/githubexploit/27BBDDD1-2D85-599C-9143-D6B2A59921CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [langflow-exploit](https://vulners.com/githubexploit/96FB054B-D5D3-50DD-8F94-788DFA1EB4D2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [mcp-injection-poc](https://vulners.com/githubexploit/3A23F595-29EB-50D8-947A-6200E6B0CA9A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -134,9 +145,13 @@
   - [The vulnerability of the pg_dump utility in the PostgreSQL database management system allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2025-09830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of the software for calculating positions of individual RTLS transponders in the SIMATIC RTLS Locating Manager lies in the lack of a mechanism for verifying input data during backup scenarios. This allows a malicious actor to execute arbitrary code with SYSTEM privileges.](https://vulners.com/bdu_fstec/BDU:2025-09822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ubi-stage6-exploit-chain](https://vulners.com/githubexploit/1F23697E-D78B-5344-B8DA-A958E640315E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [Struct Randomizer Using C++ 26 Reflection](https://buaq.net/go-434040.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购](https://www.ifanr.com/1674507?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]从模型注意力角度创建一个简单但高效的Agent](https://key08.com/index.php/2026/08/10/3275.html)
+- 黑海洋
+  - [中国企业与大学研发经费超美跃居首位](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E4%B8%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E5%8F%91%E7%BB%8F%E8%B4%B9%E8%B6%85%E7%BE%8E%E8%B7%83%E5%B1%85%E9%A6%96%E4%BD%8D)
