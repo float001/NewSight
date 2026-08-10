@@ -11,12 +11,15 @@
   - [周一如同十八层地狱难熬](https://2libra.com/post/workplace-stories/6F7Fb8N)
   - [心相印四层 2040g 无芯卷纸，有需要拼团的大佬吗？](https://2libra.com/post/worth-buying/-bIwwHJ)
   - [才知道我用的图床可以自助删除图片](https://2libra.com/post/website-construction/dDSgsBk)
+  - [毕业十年后，再见那个陪我走过青春的女孩](https://2libra.com/post/friendship/3Qjms4m)
   - [潘多拉回归起点](https://2libra.com/post/game-discussion/ClYbwnb)
 - CoinTelegraph
   - [Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures](https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9](https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’](https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto’s first quantum attack will look like unexplained breach: Quantus founder](https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-US defense secretary calls CLARITY Act a ‘national security bill’](https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [WorkOS: Connect Your Agents to Your API](https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
 - Hacker News Frontpage
@@ -29,6 +32,7 @@
   - [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
   - [Show HN: Lumabri – What if LLMs worked like Napster?](https://github.com/JustVugg/lumabri)
   - [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
+  - [Why do we assume everyone should be working?](https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/)
 - idiallo.com
   - [When the Aliens Finally Came to Visit](https://idiallo.com/byte-size/when-the-aliens-came-to-visit)
 - johndcook.com
@@ -51,6 +55,8 @@
   - [deepslop exploit](https://sploitus.com/exploit?id=B5831700-3293-51C2-BE03-FB01D7E9AC5D&utm_source=rss&utm_medium=rss)
   - [Exploit for Argument Injection in Gnu Inetutils](https://sploitus.com/exploit?id=7D1DF8EB-BD0A-5978-86B7-82C6C62394FE&utm_source=rss&utm_medium=rss)
   - [ubi-stage6-exploit-chain](https://sploitus.com/exploit?id=1F23697E-D78B-5344-B8DA-A958E640315E&utm_source=rss&utm_medium=rss)
+- Taxodium
+  - [Album#47 - 收斂水](https://taxodium.ink/album-47.html)
 - TechCrunch
   - [Anthropic is turning Claude Code’s auto mode on by default](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/)
   - [Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/)
@@ -73,6 +79,7 @@
   - [CVE-2026-69659 | ash-project ash up to 3.31.0 Keyset Pagination lib/ash/page/keyset.ex decode_values resource consumption](https://vuldb.com/vuln/387286)
   - [CVE-2026-70395 | Ash Project prior 3.31.1 Data Query Logic Ash.Query.filter neutralization](https://vuldb.com/vuln/387287)
 - Vulners.com RSS Feed
+  - [aipoc](https://vulners.com/githubexploit/1257B0B3-2F17-5B09-B4A8-15A65DE8004D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Blitz Identity Provider (Authentication server)](https://vulners.com/bdu_fstec/BDU:2025-09768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12372](https://vulners.com/nvd/NVD:CVE-2026-12372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12372](https://vulners.com/redhatcve/RH:CVE-2026-12372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -177,3 +184,4 @@
   - [[2026]从模型注意力角度创建一个简单但高效的Agent](https://key08.com/index.php/2026/08/10/3275.html)
 - 黑海洋
   - [中国企业与大学研发经费超美跃居首位](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E4%B8%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E5%8F%91%E7%BB%8F%E8%B4%B9%E8%B6%85%E7%BE%8E%E8%B7%83%E5%B1%85%E9%A6%96%E4%BD%8D)
+  - [索尼集团与台积电将在熊本工厂投资1万亿日元 2029年量产下一代图像传感器](https://blog.upx8.com/%E7%B4%A2%E5%B0%BC%E9%9B%86%E5%9B%A2%E4%B8%8E%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%B0%86%E5%9C%A8%E7%86%8A%E6%9C%AC%E5%B7%A5%E5%8E%82%E6%8A%95%E8%B5%841%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83-2029%E5%B9%B4%E9%87%8F%E4%BA%A7%E4%B8%8B%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E4%BC%A0%E6%84%9F%E5%99%A8)
