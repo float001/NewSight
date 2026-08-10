@@ -13,6 +13,7 @@
   - [才知道我用的图床可以自助删除图片](https://2libra.com/post/website-construction/dDSgsBk)
   - [潘多拉回归起点](https://2libra.com/post/game-discussion/ClYbwnb)
 - CoinTelegraph
+  - [Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures](https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9](https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto’s first quantum attack will look like unexplained breach: Quantus founder](https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-US defense secretary calls CLARITY Act a ‘national security bill’](https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -28,10 +29,13 @@
   - [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
   - [Show HN: Lumabri – What if LLMs worked like Napster?](https://github.com/JustVugg/lumabri)
   - [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
+- idiallo.com
+  - [When the Aliens Finally Came to Visit](https://idiallo.com/byte-size/when-the-aliens-came-to-visit)
 - johndcook.com
   - [A simple range reduction method](https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/)
   - [DNA and Bessel functions](https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/)
 - Kali Linux Tutorials
+  - [groupdel Command in Linux: Remove a Group and Audit Files](https://kalilinuxtutorials.com/groupdel-command-linux/)
   - [top Command in Linux: Monitor Processes and Resource Usage](https://kalilinuxtutorials.com/top-command-linux/)
   - [usermod Command in Linux: Modify User Accounts and Groups](https://kalilinuxtutorials.com/usermod-command-linux/)
 - seangoedecke.com
@@ -137,6 +141,7 @@
   - [CVE-2026-70395 Predicate injection in manage_relationship belongs_to lookup discloses secret lookup keys in Ash](https://vulners.com/cvelist/CVELIST:CVE-2026-70395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-72522](https://vulners.com/cve/CVE-2026-72522?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-72522](https://vulners.com/cvelist/CVELIST:CVE-2026-72522?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-72522](https://vulners.com/nvd/NVD:CVE-2026-72522?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [deepslop](https://vulners.com/githubexploit/B5831700-3293-51C2-BE03-FB01D7E9AC5D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Eopi-Hunt-Skill](https://vulners.com/githubexploit/3B94F400-1648-5E72-85AC-142B59108070?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Argument Injection in Gnu Inetutils](https://vulners.com/githubexploit/7D1DF8EB-BD0A-5978-86B7-82C6C62394FE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -166,6 +171,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [AI 开始帮写朋友圈了，但我更想念「古法手作」文字](https://www.ifanr.com/1673846?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [卡西欧小方块，是我今年最想要的智能戒指](https://www.ifanr.com/1674518?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购](https://www.ifanr.com/1674507?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]从模型注意力角度创建一个简单但高效的Agent](https://key08.com/index.php/2026/08/10/3275.html)
