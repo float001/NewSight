@@ -5,6 +5,7 @@
   - [【💰】他来了，No.1！](https://2libra.com/post/movie-sharing/hxSVx8e)
   - [【💰】爆率拉满，想听听大家周末都啥安排，最近感觉周末只想躺在床上不想动](https://2libra.com/post/personal-life/ryWezOU)
   - [【💰】观成语接龙贴](https://2libra.com/post/movie-sharing/AbA9eUe)
+  - [你们的车还能卖多少钱？](https://2libra.com/post/second-hand/lghUrea)
   - [修改 forkgram/tdesktop 实现 跳转到前一条后一条@我的消息](https://2libra.com/post/open-source-sharing/bGgAzv2)
   - [光模块回调，存储开始反攻：AI 资金又轮动了？](https://2libra.com/post/stock-market/Tml7W5a)
   - [分享个 go 订阅](https://2libra.com/post/ai-gateway/r299V5P)
@@ -23,6 +24,7 @@
   - [Coinsbuy offers $100K reward after Sunday security breach](https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Judge stays CFTC’s case against US soldier over prediction market bets](https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express](https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trump Media to revamp crypto treasury strategy after $238M Q2 loss](https://cointelegraph.com/news/trump-media-crypto-treasury-strategy-after-238m-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK money laundering suspect bought $100M in Trump crypto business: NYT](https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [‘Disappointing’ — crypto advocates react to delay in CLARITY vote](https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -69,6 +71,7 @@
   - [Introducing Muse Glimmer](https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-7771](https://sploitus.com/exploit?id=6D5BC7E6-C0A6-54A0-8116-47799C31DFA2&utm_source=rss&utm_medium=rss)
+  - [Exploit for Path Traversal in Apache Http_Server](https://sploitus.com/exploit?id=EA3E95E5-93C9-52DF-978D-44DD40B00972&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=9938020B-C1D9-56AD-B29F-A38838AE38C9&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Aptoide becomes the first rival app store to return to Google Play in the US](https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/)
@@ -403,6 +406,7 @@
   - [CVE-2026-18982 Odh-training-operator-rhel9: rhoai fork aggregates training job create onto native edit/admin clusterroles](https://vulners.com/cvelist/CVELIST:CVE-2026-18982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19411](https://vulners.com/nvd/NVD:CVE-2026-19411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19411 Shim/dp.c library: null-pointer dereference in is_removable_media_path() when devicepathtostr() returns null](https://vulners.com/cvelist/CVELIST:CVE-2026-19411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19424](https://vulners.com/nvd/NVD:CVE-2026-19424?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22655](https://vulners.com/attackerkb/AKB:EA60842C-A4BF-42DE-B913-66D16BCE2D71?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22656](https://vulners.com/attackerkb/AKB:1F73674F-39C5-4499-A01A-79A53F57997F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22657](https://vulners.com/attackerkb/AKB:D9FACF83-E0D8-4123-8C3D-8042E7C690E3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -415,9 +419,11 @@
   - [CVE-2026-23692](https://vulners.com/attackerkb/AKB:AB13D848-74BD-44F9-9EA5-964F3DE27F87?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-23765](https://vulners.com/attackerkb/AKB:98947428-2C00-4BE0-B308-DB29C772CB94?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-24329](https://vulners.com/cve/CVE-2026-24329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-24329](https://vulners.com/nvd/NVD:CVE-2026-24329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-24329](https://vulners.com/redhatcve/RH:CVE-2026-24329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-24329 Wildfly-core: wildfly core: denial of service via malformed payload injection by an authenticated administrative user.](https://vulners.com/cvelist/CVELIST:CVE-2026-24329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-24330](https://vulners.com/cve/CVE-2026-24330?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-24330](https://vulners.com/nvd/NVD:CVE-2026-24330?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-24330](https://vulners.com/redhatcve/RH:CVE-2026-24330?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-24330 Wildfly-core: wildfly: arbitrary file read via malicious archive deployment](https://vulners.com/cvelist/CVELIST:CVE-2026-24330?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-24438](https://vulners.com/attackerkb/AKB:35404006-4198-4F4D-BDCF-BAEE7CE0449B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -705,10 +711,12 @@
   - [CVE-2026-8718](https://vulners.com/nvd/NVD:CVE-2026-8718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8718 Out-of-bounds write in DTLS peer Connection ID getsockopt (`TLS_DTLS_PEER_CID_VALUE`) in Zephyr net sockets/TLS](https://vulners.com/cve/CVE-2026-8718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8718 Out-of-bounds write in DTLS peer Connection ID getsockopt (`TLS_DTLS_PEER_CID_VALUE`) in Zephyr net sockets/TLS](https://vulners.com/cvelist/CVELIST:CVE-2026-8718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8917](https://vulners.com/nvd/NVD:CVE-2026-8917?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Home-Assistant Home_Assistant_Companion](https://vulners.com/githubexploit/85CE0D72-B9CA-5860-8C98-E1ADFA9F46D1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2021-47881](https://vulners.com/githubexploit/1B72B217-1BAF-501E-B07D-65FA8911424D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2025-7771](https://vulners.com/githubexploit/6D5BC7E6-C0A6-54A0-8116-47799C31DFA2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Generation of Predictable Numbers or Identifiers in Infiniflow Ragflow](https://vulners.com/githubexploit/E34B05F3-CFD0-551F-A473-8FE997762485?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Path Traversal in Apache Http_Server](https://vulners.com/githubexploit/EA3E95E5-93C9-52DF-978D-44DD40B00972?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/9938020B-C1D9-56AD-B29F-A38838AE38C9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Mozilla Firefox](https://vulners.com/githubexploit/06514230-A3CA-56E0-BAAC-7A79F942B8A0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Mozilla Firefox](https://vulners.com/githubexploit/B416ADE3-F3D1-5A0E-B1A8-A8D2007CC517?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -764,6 +772,9 @@
 - 爱范儿
   - [对话智界赵长江：用旧时代的逻辑，经营不好 AI 时代的汽车公司](https://www.ifanr.com/1674637?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果20周年iPhone或因良率问题取消/小米校招AI岗位增加50%/极氪回应7X充电场站过热](https://www.ifanr.com/1674633?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三](https://www.qbitai.com/2026/08/469869.html)
+  - [机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿](https://www.qbitai.com/2026/08/469880.html)
 - 黑海洋
   - [为躲133亿美元税单，谷歌创始人布林已花掉1亿美元](https://blog.upx8.com/%E4%B8%BA%E8%BA%B2133%E4%BA%BF%E7%BE%8E%E5%85%83%E7%A8%8E%E5%8D%95-%E8%B0%B7%E6%AD%8C%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B8%83%E6%9E%97%E5%B7%B2%E8%8A%B1%E6%8E%891%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [微软最快9月发布其下一代MAIA 300 AI芯片](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%9C%80%E5%BF%AB9%E6%9C%88%E5%8F%91%E5%B8%83%E5%85%B6%E4%B8%8B%E4%B8%80%E4%BB%A3MAIA-300-AI%E8%8A%AF%E7%89%87)
