@@ -26,6 +26,7 @@
   - [Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express](https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump Media to revamp crypto treasury strategy after $238M Q2 loss](https://cointelegraph.com/news/trump-media-crypto-treasury-strategy-after-238m-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK money laundering suspect bought $100M in Trump crypto business: NYT](https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [White House vows to get CLARITY across ‘finish line’ in September](https://cointelegraph.com/news/white-house-clarity-across-finish-line-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [‘Disappointing’ — crypto advocates react to delay in CLARITY vote](https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [[Sponsor] Drata](https://drata.com/daring)
@@ -376,6 +377,8 @@
   - [CVE-2026-16456](https://vulners.com/nvd/NVD:CVE-2026-16456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16456 Odh-model-controller: odh-model-controller: cross-namespace secret read via nim account crd confused deputy](https://vulners.com/cvelist/CVELIST:CVE-2026-16456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16626](https://vulners.com/nvd/NVD:CVE-2026-16626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16974 Kirki - Freeform Page Builder, Website Builder & Customizer <= 6.2.0 - Authenticated (Contributor+) Stored Cross-Site Scripting via post_meta Shortcode](https://vulners.com/cve/CVE-2026-16974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16974 Kirki - Freeform Page Builder, Website Builder & Customizer <= 6.2.0 - Authenticated (Contributor+) Stored Cross-Site Scripting via post_meta Shortcode](https://vulners.com/cvelist/CVELIST:CVE-2026-16974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18608](https://vulners.com/nvd/NVD:CVE-2026-18608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18608 Data-science-pipelines-operator: dspo: operator clusterrole grants pods/exec:*, kubeflow.org */*, and clusterrole/binding crud cluster-wide](https://vulners.com/cvelist/CVELIST:CVE-2026-18608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18611](https://vulners.com/nvd/NVD:CVE-2026-18611?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -407,6 +410,8 @@
   - [CVE-2026-19411](https://vulners.com/nvd/NVD:CVE-2026-19411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19411 Shim/dp.c library: null-pointer dereference in is_removable_media_path() when devicepathtostr() returns null](https://vulners.com/cvelist/CVELIST:CVE-2026-19411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19424](https://vulners.com/nvd/NVD:CVE-2026-19424?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19425 Win Men Intermational｜Travel Agency Management System - SQL Injection](https://vulners.com/cve/CVE-2026-19425?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19425 Win Men Intermational｜Travel Agency Management System - SQL Injection](https://vulners.com/cvelist/CVELIST:CVE-2026-19425?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22655](https://vulners.com/attackerkb/AKB:EA60842C-A4BF-42DE-B913-66D16BCE2D71?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22656](https://vulners.com/attackerkb/AKB:1F73674F-39C5-4499-A01A-79A53F57997F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22657](https://vulners.com/attackerkb/AKB:D9FACF83-E0D8-4123-8C3D-8042E7C690E3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -764,6 +769,7 @@
   - [vuln-scanner](https://vulners.com/githubexploit/3FEAAD12-1727-5D5C-A792-73FAE9165168?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [Hypothetical situation](https://buaq.net/go-434290.html)
+  - [字节跳动Coze CLI(扣子)被吐槽像病毒 安装技能劫持Codex或Claude Code工作流](https://buaq.net/go-434308.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
@@ -773,6 +779,8 @@
   - [对话智界赵长江：用旧时代的逻辑，经营不好 AI 时代的汽车公司](https://www.ifanr.com/1674637?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果20周年iPhone或因良率问题取消/小米校招AI岗位增加50%/极氪回应7X充电场站过热](https://www.ifanr.com/1674633?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资](https://www.qbitai.com/2026/08/470254.html)
+  - [宇树会破发吗？王兴兴回应了](https://www.qbitai.com/2026/08/470307.html)
   - [当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三](https://www.qbitai.com/2026/08/469869.html)
   - [机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿](https://www.qbitai.com/2026/08/469880.html)
 - 黑海洋
