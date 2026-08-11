@@ -34,7 +34,9 @@
   - [Understanding the FATF’s DeFi Report: A Functional Approach to Decentralized Finance Regulation](https://www.chainalysis.com/blog/understanding-fatf-defi-report-july-2026/)
 - CoinTelegraph
   - [Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment](https://cointelegraph.com/markets/bitcoin-wipes-weekend-gains-as-oil-nears-5-surge-on-hormuz-disappointment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant](https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinsbuy offers $100K reward after Sunday security breach](https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Coldcard hack losses: How investigators trace stolen Bitcoin](https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Judge stays CFTC’s case against US soldier over prediction market bets](https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%](https://cointelegraph.com/news/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -72,6 +74,7 @@
 - HackerNoon
   - [Nothing Has Changed: Why the Questions We Ask Still Decide What Is True](https://hackernoon.com/nothing-has-changed-why-the-questions-we-ask-still-decide-what-is-true?source=rss)
 - infosecurity-magazine.com
+  - [Logistics Giant Ceva Suffers Data Breach Impacting European Clients](https://www.infosecurity-magazine.com/news/logistics-ceva-data-breach/)
   - [Only Half of UK Manufacturers Have a Cyber Incident Response Plan](https://www.infosecurity-magazine.com/news/half-uk-manufacturers-cyber/)
   - [OpenAI Pauses Some Development of Astra Model on Security Concerns](https://www.infosecurity-magazine.com/news/openai-pauses-development-astra/)
 - Kali Linux Tutorials
@@ -128,6 +131,7 @@
   - [Riot Platforms stock jumps 25% after-hours on $9.1 billion AI deal reportedly with Anthropic](https://www.theblock.co/news/business/2026-08-10-riot-platforms-ai-deal-anthropic-411358)
   - [Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap](https://www.theblock.co/news/ecosystems/2026-08-10-vitalik-buterin-privacy-quantum-resistance-front-and-center-ethereum-latest-roadmap-411298?utm_source=rss&utm_medium=rss)
   - [Zama brings its blockchain-privacy token to Revolut’s 70 million users](https://www.theblock.co/news/markets/2026-08-11-zama-brings-blockchain-privacy-token-to-revoluts-70-million-users-411290)
+  - [‘One of the single biggest barriers to growth’: UK lawmakers press banks over crypto access ahead of new FCA regime](https://www.theblock.co/news/regulation/2026-08-11-uk-crypto-banking-access-411389)
 - The Decoder
   - [Anthropic watermarks all Claude outputs globally with marks that "may persist through some editing"](https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/)
   - [Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing](https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/)
@@ -137,6 +141,7 @@
   - [Anker&#8217;s travel charger works in almost any country and is down to $20](https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale)
   - [Costco&#8217;s great Switch 2 console bundle includes over $100 in free stuff](https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale)
   - [Mark Zuckerberg doesn’t understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision)
+  - [The AI takeover of mathematics has begun](https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun)
   - [What to expect from Google’s 2026 Pixel hardware launch event](https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event)
   - [YouTube is making it harder to earn money on YouTube](https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements)
 - VulDB Recent Entries
@@ -197,6 +202,8 @@
   - [CVE-2026-19519 | Red Hat Advanced Cluster Security/Quay claircore assertion](https://vuldb.com/vuln/388025)
   - [CVE-2026-24329 | Red Hat WildFly denial of service](https://vuldb.com/vuln/387985)
   - [CVE-2026-24330 | WildFly Deployment path traversal](https://vuldb.com/vuln/387984)
+  - [CVE-2026-33921 | Nozomi Npcap up to 2.6.x Npcap driver access control](https://vuldb.com/vuln/388036)
+  - [CVE-2026-33922 | Nozomi Arc up to 2.6.x Offline Archives path traversal](https://vuldb.com/vuln/388035)
   - [CVE-2026-44401 | Typemill CMS up to 2.23.0 Markdown parser extension ParsedownExtension.php cross site scripting](https://vuldb.com/vuln/387892)
   - [CVE-2026-47754 | NCEAS Metacat 1.x/2.19.1 Legacy API ArchiveHandler.java ArchiveHandler.readArchiveEntry archiveEntryName path traversal](https://vuldb.com/vuln/387729)
   - [CVE-2026-48048 | XWiki prior 16.10.17/17.4.9/17.10.13/18.0.0RC1 LiveTableResults weak password hash](https://vuldb.com/vuln/387804)
@@ -204,6 +211,8 @@
   - [CVE-2026-48159 | dai-shi use-reducer-async Postinstall Script src/install.js code injection](https://vuldb.com/vuln/387839)
   - [CVE-2026-48160 | dai-shi react-tracked Postinstall Script src/install.js code injection](https://vuldb.com/vuln/387916)
   - [CVE-2026-48161 | dai-shi react18-use Postinstall Script src/install.js permission](https://vuldb.com/vuln/387943)
+  - [CVE-2026-50236 | Red Hat OpenShift Console Webhook Helpers server-side request forgery](https://vuldb.com/vuln/388037)
+  - [CVE-2026-50237 | Red Hat OpenShift ProjectHelmChartRepository server-side request forgery](https://vuldb.com/vuln/388038)
   - [CVE-2026-5304 | Axis Communications AB Axis OS up to 12.11.11 ACAP input validation](https://vuldb.com/vuln/387999)
   - [CVE-2026-56619 | HCL Software BigFix Mobile up to 3.6 cross site scripting](https://vuldb.com/vuln/387780)
   - [CVE-2026-56620 | HCL BigFix Mobile up to 3.6 information disclosure](https://vuldb.com/vuln/387762)
@@ -563,6 +572,8 @@
   - [CVE-2026-29032](https://vulners.com/attackerkb/AKB:58FA34CA-4028-4AEC-91D5-96C0C28B65D4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-29033](https://vulners.com/attackerkb/AKB:82D2E84E-7EAE-4C2A-8495-9551BB5769B3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-29517](https://vulners.com/attackerkb/AKB:45C5E344-1E13-499E-A583-EAAF8409D720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-33921](https://vulners.com/nvd/NVD:CVE-2026-33921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-33922](https://vulners.com/nvd/NVD:CVE-2026-33922?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-34265](https://vulners.com/nvd/NVD:CVE-2026-34265?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-34423](https://vulners.com/attackerkb/AKB:7C7FFEAB-F982-4D7D-BC16-2BCA191D0E26?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-35005](https://vulners.com/attackerkb/AKB:65383507-119D-43D8-8A88-D355A12BF6F3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -597,6 +608,8 @@
   - [CVE-2026-56620](https://vulners.com/nvd/NVD:CVE-2026-56620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57817](https://vulners.com/redhatcve/RH:CVE-2026-57817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58230](https://vulners.com/nvd/NVD:CVE-2026-58230?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58231 Improper Authorization in SAP Commerce Cloud (Data Hub Adapter)](https://vulners.com/cve/CVE-2026-58231?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58231 Improper Authorization in SAP Commerce Cloud (Data Hub Adapter)](https://vulners.com/cvelist/CVELIST:CVE-2026-58231?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58235](https://vulners.com/nvd/NVD:CVE-2026-58235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58236](https://vulners.com/nvd/NVD:CVE-2026-58236?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58236 OS Command Injection vulnerability in Application Server ABAP of SAP NetWeaver and ABAP Platform](https://vulners.com/cve/CVE-2026-58236?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -852,6 +865,7 @@
   - [CVE-2026-73161](https://vulners.com/cve/CVE-2026-73161?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-73161](https://vulners.com/nvd/NVD:CVE-2026-73161?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-73161 cti-transmute Conversion Table Allows XSS via Unescaped Cell Content During Search Highlighting](https://vulners.com/cvelist/CVELIST:CVE-2026-73161?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-73162](https://vulners.com/nvd/NVD:CVE-2026-73162?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-73162 cti-transmute CSRF Allows Unauthorized Follow and Notification State Changes](https://vulners.com/cve/CVE-2026-73162?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-73162 cti-transmute CSRF Allows Unauthorized Follow and Notification State Changes](https://vulners.com/cvelist/CVELIST:CVE-2026-73162?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-8158](https://vulners.com/nvd/NVD:CVE-2026-8158?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -896,6 +910,8 @@
   - [Important: Red Hat Security Advisory: postgresql-jdbc security update](https://vulners.com/redhat/RHSA-2026:52930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [jdbc.postgresql.org: pgjdbc: Client-side Denial of Service via malicious SCRAM-SHA-256 authentication](https://vulners.com/redhat/RHSA-2026:52929-CVE-2026-42198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [jdbc.postgresql.org: pgjdbc: Client-side Denial of Service via malicious SCRAM-SHA-256 authentication](https://vulners.com/redhat/RHSA-2026:52930-CVE-2026-42198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets](https://vulners.com/thn/THN:F568213661DDC6572565C7AF97579574?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11](https://vulners.com/thn/THN:06D227DFD3E50C2757C861FDE5007BF5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sqlicat](https://vulners.com/githubexploit/73790A46-B026-5E87-8E86-DCB84186E6AC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerabilities in the net/bluetooth/eir.c and net/bluetooth/mgmt.c modules of Linux kernel allow a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability in the drivers/bluetooth/btnxpuart.c module of Linux operating systems allows a hacker to cause a service failure.](https://vulners.com/bdu_fstec/BDU:2025-09671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -919,6 +935,7 @@
 - Wired
   - [AI Is Dead. Organoids Are Alive](https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/)
   - [Best Red-Light Therapy for Hair Growth and Restoration (2026)](https://www.wired.com/story/best-red-light-therapy-for-hair-growth/)
+  - [Elon Musk, Sam Altman, and the Misreading of Science Fiction](https://www.wired.com/story/book-excerpt-rise-and-fall-of-the-artificial-state-jill-lepore-silicon-valley-sci-fi/)
   - [Seedless Blackberries and Cherries That Grow on Bushes Vie to Be the Future of Food](https://www.wired.com/story/seedless-blackberries-cherry-bushes-future-of-food/)
 - 不安全
   - [Edge 也开始屏蔽旧扩展，uBlock Origin 将成为唯三无法迁移 MV3 的扩展之一](https://buaq.net/go-434340.html)
@@ -932,6 +949,7 @@
 - 安全客
   - [1755枚比特币一夜蒸发：1.1亿美元"冷存储"神话，碎在一个不随机的随机数上](https://www.anquanke.com/post/id/315945)
   - [8000人围观、9位安全大佬激辩：AI来袭，白帽生态与网安行业路在何方？](https://www.anquanke.com/post/id/315936)
+  - [你的代码里，藏着黑客埋的"毒"：1300个 npm 包遭供应链投毒](https://www.anquanke.com/post/id/315949)
 - 爱范儿
   - [双 17.2 英寸大屏、首发鸿蒙座舱 6，奕境 X9 最后一张牌留给价格](https://www.ifanr.com/1674705?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [对话智界赵长江：用旧时代的逻辑，经营不好 AI 时代的汽车公司](https://www.ifanr.com/1674637?utm_source=rss&utm_medium=rss&utm_campaign=)
