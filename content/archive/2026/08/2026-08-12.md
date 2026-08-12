@@ -31,6 +31,7 @@
   - [Coinbase-backed Flowdesk secures full broker-dealer license in Dubai](https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FlightAware sues Kalshi over flight cancellation data](https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Following Senate delay, crypto bill has a narrow window to become law](https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Inside the fake crypto startup that fooled North Korean IT workers](https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Itaú joins Brazil tokenization pilot with OpenAssets](https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [MoneyGram expands crypto cash ramps to Solana](https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets](https://cointelegraph.com/news/nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -69,6 +70,8 @@
   - [From Scanner Findings to Verifiable Web Application Risk](https://horizon3.ai/customer-story/cloud-native-webapp-security-validation/)
 - IEEE Spectrum
   - [IEEE Engineering Summit Supports Bhutan’s Digital Transformation](https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation)
+- Insinuator.net
+  - [TIA Project Parser](https://insinuator.net/2026/08/tia-project-parser/)
 - krebsonsecurity.com
   - [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
 - NVIDIA AI Blog
@@ -100,6 +103,7 @@
   - [Bitwise cuts 14% of staff as crypto layoffs mount during market downturn](https://www.theblock.co/news/business/2026-08-12-bitwise-layoffs-411522)
   - [CFTC flexes emergency authority to keep Kalshi operating amid New York lawsuit](https://www.theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507)
   - [ENS Foundation takes administrative control of $65 million Endowment following tokenholder vote](https://www.theblock.co/news/ecosystems/2026-08-11-ens-foundation-administrative-control-65-million-endowment-tokenholder-vote-411464)
+  - [FlightAware drops lawsuit against Kalshi one day after filing](https://www.theblock.co/news/business/2026-08-12-flightaware-drops-kalshi-lawsuit-411534)
   - [Florida man charged by CFTC over $397 million crypto Ponzi scheme](https://www.theblock.co/news/regulation/2026-08-11-florida-man-charged-by-cftc-over-397-million-crypto-ponzi-scheme-411491)
   - [Harmony confirms exploit involving unauthorized minting of 4 billion ONE tokens](https://www.theblock.co/news/defi/2026-08-12-harmony-confirms-exploit-one-token-411527)
   - [New Bitcoin addresses jump as Coldcard exploit pushes users to move funds](https://www.theblock.co/news/ecosystems/2026-08-11-new-bitcoin-addresses-jump-coldcard-exploit-pushes-users-move-funds-411317)
@@ -1120,6 +1124,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Gemini 成为 Google 月活数最快突破 10 亿的产品](https://www.solidot.org/story?sid=85067)
+  - [英格兰有望成为全球首个消除丙肝的国家](https://www.solidot.org/story?sid=85069)
 - 极客公园
   - [实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111835&idx=1&sn=885ee011b921c64fbefe96c8ae3e5cae)
 - 爱范儿
@@ -1134,6 +1139,7 @@
   - [刚刚，Manus恢复独立运营](https://www.qbitai.com/2026/08/470805.html)
 - 黑海洋
   - [没有一个真人员工 日本电气成立“全AI部门”](https://blog.upx8.com/%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E7%9C%9F%E4%BA%BA%E5%91%98%E5%B7%A5-%E6%97%A5%E6%9C%AC%E7%94%B5%E6%B0%94%E6%88%90%E7%AB%8B-%E5%85%A8AI%E9%83%A8%E9%97%A8)
+  - [经销商证实：雪佛兰已暂停在华新车销售](https://blog.upx8.com/%E7%BB%8F%E9%94%80%E5%95%86%E8%AF%81%E5%AE%9E-%E9%9B%AA%E4%BD%9B%E5%85%B0%E5%B7%B2%E6%9A%82%E5%81%9C%E5%9C%A8%E5%8D%8E%E6%96%B0%E8%BD%A6%E9%94%80%E5%94%AE)
   - [美国政府设备重新允许使用TikTok应用](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%AE%BE%E5%A4%87%E9%87%8D%E6%96%B0%E5%85%81%E8%AE%B8%E4%BD%BF%E7%94%A8TikTok%E5%BA%94%E7%94%A8)
   - [苹果现因价格不断上涨而囤积更多零部件](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E7%8E%B0%E5%9B%A0%E4%BB%B7%E6%A0%BC%E4%B8%8D%E6%96%AD%E4%B8%8A%E6%B6%A8%E8%80%8C%E5%9B%A4%E7%A7%AF%E6%9B%B4%E5%A4%9A%E9%9B%B6%E9%83%A8%E4%BB%B6)
   - [谷歌将在美洲新增三条海底电缆系统](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%B0%86%E5%9C%A8%E7%BE%8E%E6%B4%B2%E6%96%B0%E5%A2%9E%E4%B8%89%E6%9D%A1%E6%B5%B7%E5%BA%95%E7%94%B5%E7%BC%86%E7%B3%BB%E7%BB%9F)
