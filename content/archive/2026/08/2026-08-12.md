@@ -19,6 +19,7 @@
   - [我的阅读笔记](https://2libra.com/post/good-books/6hHGm3a)
   - [无限空间画布工具](https://2libra.com/post/open-source-sharing/Zb0k08J)
   - [有没有好用的 RSS 阅读器](https://2libra.com/post/recommendations/eACLqta)
+  - [每天一分钟，知晓天下事！2026 年 8 月 12 日](https://2libra.com/post/social-observation/vh0lxtV)
   - [现在 ai 大模型这么多，大家有做出什么好玩的产品吗](https://2libra.com/post/ai-applications/JBMDtIu)
   - [第一次抽到这个闪闪光环，感觉配上头像还挺好看的，鸡米麻烦开个价，我想永久拥有](https://2libra.com/post/idea/-WynEJJ)
   - [美团“等灯停表”正式上线 即日起在全国 20 城落地试点](https://2libra.com/post/tech-news/e778vSK)
@@ -34,6 +35,7 @@
   - [The Fruits of AI](https://blog.jim-nielsen.com/2026/fruit-of-ai/)
 - CoinTelegraph
   - [ARP Digital secures Dubai VARA broker-dealer license](https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Binance, RedotPay clash over fate of Singapore lawsuit](https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin drops to one-week low as retail buys gold at highest prices since June](https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC invokes emergency powers to keep Kalshi operating in New York fight](https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase-backed Flowdesk secures full broker-dealer license in Dubai](https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -116,6 +118,7 @@
   - [cyberange exploit](https://sploitus.com/exploit?id=2C66848B-89D7-5B08-A5BB-8B629006B8FF&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Accel closes oversubscribed $550M India fund within weeks, 19 months after its last](https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/)
+  - [AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year](https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/)
   - [An unreleased Anthropic model made progress on one of math’s biggest unsolved problems](https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/)
   - [Bluesky’s active user base is shrinking as its focus expands beyond the app](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/)
   - [Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’](https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/)
@@ -130,6 +133,7 @@
   - [What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?](https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/)
 - The Block
   - [Australian regulator takes down Yepbit websites as investors report blocked withdrawals](https://www.theblock.co/news/regulation/2026-08-12-australian-regulator-takes-down-yepbit-websites-411538)
+  - [Bitcoin market in ‘hibernation’ as perp trading activity sinks to three-year low ahead of US CPI release: K33](https://www.theblock.co/news/markets/2026-08-12-bitcoin-perp-trading-activity-three-year-low-us-cpi-k33-411545)
   - [Bitwise cuts 14% of staff as crypto layoffs mount during market downturn](https://www.theblock.co/news/business/2026-08-12-bitwise-layoffs-411522)
   - [CFTC flexes emergency authority to keep Kalshi operating amid New York lawsuit](https://www.theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507)
   - [ENS Foundation takes administrative control of $65 million Endowment following tokenholder vote](https://www.theblock.co/news/ecosystems/2026-08-11-ens-foundation-administrative-control-65-million-endowment-tokenholder-vote-411464)
@@ -142,6 +146,7 @@
   - [What’s next for the Clarity Act as September brings a tough road ahead](https://www.theblock.co/news/regulation/2026-08-11-whats-next-for-clarity-act-september-brings-tough-road-ahead-411465)
 - The Decoder
   - ["But marinade" and leaked passwords are what researchers found in ChatGPT's hidden reasoning](https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/)
+  - [Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance](https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/)
   - [Mistral now offers EU data processing and priority access, but both come with important limits](https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/)
   - [OpenAI lets employees cash out another $7 billion in stock](https://the-decoder.com/openai-lets-employees-cash-out-another-7-billion-in-stock/)
 - The Verge
@@ -214,6 +219,7 @@
   - [CVE-2026-18391 | WooCommerce Subscriptions Plugin up to 9.0.x on WordPress code injection](https://vuldb.com/vuln/388947)
   - [CVE-2026-18474 | WP Directory Kit Plugin up to 1.5.5 on WordPress sql injection](https://vuldb.com/vuln/388956)
   - [CVE-2026-18634 | SonicWall GMS up to 9.5.1/9510.1044 deserialization](https://vuldb.com/vuln/388610)
+  - [CVE-2026-18652 | Rapid7 Velociraptor up to 0.77.1 GUI path traversal](https://vuldb.com/vuln/388974)
   - [CVE-2026-18687 | MongoDB Server up to 8.0.28/8.3.7 Queryable Encryption input validation](https://vuldb.com/vuln/388427)
   - [CVE-2026-18688 | MongoDB up to 7.0.39/8.0.28/8.3.7 Aggregation Pipeline out-of-bounds](https://vuldb.com/vuln/388446)
   - [CVE-2026-18690 | MongoDB Server up to 7.0.39/8.0.28/8.3.7 improper authorization](https://vuldb.com/vuln/388447)
@@ -571,7 +577,10 @@
   - [CVE-2026-64922 | Microsoft SharePoint cross site scripting](https://vuldb.com/vuln/388737)
   - [CVE-2026-64927 | Red Hat Advanced Cluster Management for Kubernetes multicloud-operators-channel privileges management](https://vuldb.com/vuln/388905)
   - [CVE-2026-64934 | Quanovate Tech Mira/Mira Android App Mira cloud API privileges management](https://vuldb.com/vuln/388740)
+  - [CVE-2026-64951 | Rapid7 Velociraptor up to 0.77.1 ShouldPadFile divide by zero](https://vuldb.com/vuln/388975)
+  - [CVE-2026-64952 | Rapid7 Velociraptor up to 0.77.1 hunt_delete permission](https://vuldb.com/vuln/388976)
   - [CVE-2026-64954 | Rapid7 Velociraptor up to 0.77.1 Collection Scheduling privileges management](https://vuldb.com/vuln/388924)
+  - [CVE-2026-64955 | Rapid7 Velociraptor up to 0.77.1 CSV file csv injection](https://vuldb.com/vuln/388977)
   - [CVE-2026-65655 | Temporal UI Server up to 2.53.1 Cookie missing secure attribute](https://vuldb.com/vuln/388550)
   - [CVE-2026-65658 | Microsoft SharePoint Server deserialization](https://vuldb.com/vuln/388687)
   - [CVE-2026-65660 | Microsoft SharePoint Enterprise/SharePoint Server code injection](https://vuldb.com/vuln/388688)
@@ -643,6 +652,7 @@
   - [CVE-2026-67180 | Google Turbinia os command injection](https://vuldb.com/vuln/388191)
   - [CVE-2026-67282 | Fabrikar Extension up to 4.6.7 code injection](https://vuldb.com/vuln/388970)
   - [CVE-2026-67283 | tabaoca.org Cotton Cloud Extension up to 2.0.1 permission](https://vuldb.com/vuln/388971)
+  - [CVE-2026-67284 | tabaoca.org Cotton Cloud Extension up to 2.0.2 ACL Implementation privileges management](https://vuldb.com/vuln/388978)
   - [CVE-2026-67558 | Quanovate Tech Mira/Mira Android App 4.5.15.4 injection](https://vuldb.com/vuln/388763)
   - [CVE-2026-67568 | Quanovate Tech Mira 4.5.15.4 privileges management](https://vuldb.com/vuln/388764)
   - [CVE-2026-68067 | Quanovate Tech Mira/Mira Android App Login Endpoint Password improper authentication](https://vuldb.com/vuln/388739)
@@ -1155,9 +1165,14 @@
 - Wired
   - [8 Great Deals From Patagonia’s Past-Season Sale](https://www.wired.com/story/patagonia-past-season-sale-2026/)
   - [Big Tech Wants to Harvest Your Thoughts](https://www.wired.com/story/book-excerpt-the-vanishing-earth-james-crawford-brain-mining/)
+  - [Ego 1300 Electric Mower Review: Tame Your Lawn Without Gas](https://www.wired.com/review/ego-1300-electric-lawn-mower/)
   - [FEMA's ‘Shadow Administrator’ Was Paid by a DOGE Member's Startup for Months](https://www.wired.com/story/femas-shadow-administrator-was-paid-by-a-doge-members-startup-for-months/)
   - [How and When to View the Perseid Meteor Shower (August 2026)](https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/)
   - [Is It Safe to Eat Lettuce Yet?](https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/)
+  - [McDonald’s Built a 515-Page Dossier on Me. It Says I’ll Never Stop Eating There](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
+  - [Oh Lord, AI Reporters Are Actually Breaking Big News](https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/)
+  - [The Best Action Cameras for All Your Craziest Adventures (2026)](https://www.wired.com/gallery/best-action-cameras/)
+  - [The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself](https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/)
   - [You’re Thinking About Online Trends All Wrong](https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/)
   - [‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware](https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/)
 - 不安全
@@ -1175,6 +1190,7 @@
 - 爱范儿
   - [6.39 万起！零跑 A05 要把纯电小车重新卷一遍](https://www.ifanr.com/1674769?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [V8+手动挡，「大黄蜂」科迈罗推出四门版，但我们再也见不到它了](https://www.ifanr.com/1674611?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [内饰揭晓！焕然一新的捷豹 Type 01，仍然很「捷豹」](https://www.ifanr.com/1674925?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜Manus官宣恢复独立运营/米哈游新作上线未满一月宣布停运/胖东来发放7万元「委屈奖」](https://www.ifanr.com/1674811?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [预售价 25.98 万元！小鹏 G9L 少了一排座椅，却要去往更大的全球市场](https://www.ifanr.com/1674751?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 白帽Wiki - 一个简单的wiki
