@@ -42,8 +42,11 @@
   - [Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/)
   - [Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ★★★★☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/)
   - [Edinburgh Fringe - James Rowland: Team Viking ★★⯪☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/)
+- Sploitus.com Exploits RSS Feed
+  - [cyberange exploit](https://sploitus.com/exploit?id=77945363-383E-5318-BEBD-45FBF43DDC4A&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI coding startup Cognition reportedly already in talks to raise at $40B valuation](https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/)
+  - [AI nuclear power firm Fermi finally has a new CEO](https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/)
   - [Amazon will train on Twitch streamers’ content by default, unless they opt out](https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/)
   - [As AI safety concerns mount, three pioneers make the case for staying open](https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/)
   - [Form Energy raises $750M to build more 100-hour batteries for the grid](https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/)
@@ -51,6 +54,7 @@
   - [Mesh, Automattic’s CRM for everyone, comes to Android](https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/)
   - [Northrop’s robot space mechanic is a new way to keep satellites at work longer](https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/)
   - [OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise](https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/)
+  - [Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/)
   - [Tesla wants to build a $10B solar factory in Texas](https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/)
   - [Uber Freight reportedly investigating after hacking group claims data breach](https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/)
   - [Why Stream ring-maker Sandbar says the future of AI wearables is voice](https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/)
@@ -191,6 +195,10 @@
   - [CVE-2026-6821 | GitLab up to 19.0.5/19.1.3/19.2.1 Merge Requests API improper authorization](https://vuldb.com/vuln/389167)
   - [CVE-2026-69106 | JFrog Artifactory up to 7.146.28 input validation](https://vuldb.com/vuln/389144)
   - [CVE-2026-69107 | JFrog Artifactory up to 7.146.7 privileges management](https://vuldb.com/vuln/389089)
+  - [CVE-2026-71469 | Red Hat Advanced Cluster Management for Kubernetes search-v2-api memory allocation](https://vuldb.com/vuln/389307)
+  - [CVE-2026-71471 | Red Hat Advanced Cluster Management for Kubernetes Search Collector.ImageOverride os command injection](https://vuldb.com/vuln/389306)
+  - [CVE-2026-71473 | Red Hat Advanced Cluster Management for Kubernetes search-v2-operator privileges management](https://vuldb.com/vuln/389305)
+  - [CVE-2026-71846 | Red Hat Advanced Cluster Management for Kubernetes insights-client privileges management](https://vuldb.com/vuln/389308)
   - [CVE-2026-72508 | Red Hat Advanced Cluster Management for Kubernetes multicloud-operators-subscription privileges management](https://vuldb.com/vuln/389232)
   - [CVE-2026-72786 | Craft CMS up to 5.10.7 User ElementsController.php save newPassword permission](https://vuldb.com/vuln/389181)
   - [CVE-2026-72787 | CraftCMS up to 5.10.7 Control Panel cross site scripting](https://vuldb.com/vuln/389182)
@@ -253,9 +261,15 @@
   - [CVE-2026-8667 | GitLab up to 19.0.5/19.1.3/19.2.1 Package Registry privileges management](https://vuldb.com/vuln/389151)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Qualys Introduces Real-Time Cloud Security Posture Management (CSPM) for Faster Risk Detection and Remediation](https://blog.qualys.com/category/product-tech)
+- Vulners.com RSS Feed
+  - [cyberange](https://vulners.com/gitee/77945363-383E-5318-BEBD-45FBF43DDC4A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Rogue AI Agents Aren’t Evil. They’re Just Eager to Please](https://www.wired.com/story/rogue-ai-is-just-misunderstood/)
+  - [The Best Photos of the Big August Solar Eclipse](https://www.wired.com/story/best-photos-august-solar-eclipse-spain/)
   - [The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden](https://www.wired.com/story/lettuce-grow-20-percent-off-2026/)
   - [The White House Is Going to Expand Its AI Policy](https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [回来了，马斯克带着 24 小时干活的 Agent 回来了](https://www.ifanr.com/1674851?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [实测 DeepSeek V4 Pro 正式版：能力直逼 Fable 5，还藏了一个大招](https://www.ifanr.com/1674965?utm_source=rss&utm_medium=rss&utm_campaign=)
