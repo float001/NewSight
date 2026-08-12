@@ -11,6 +11,7 @@
   - [【💰】终于拿到了【幸运儿】](https://2libra.com/post/forum-function/h5ckUAM)
   - [七夕礼物怎么选](https://2libra.com/post/festival-things/-EIKdub)
   - [大家平时释放压力的方式是什么](https://2libra.com/post/questions/4rldvev)
+  - [大家赶紧登，虽然昨天刚重置，明日可能又有重置或者重置卡](https://2libra.com/post/usage-tips/TWZM7aq)
   - [女朋友快过生日了 送她什么好呢](https://2libra.com/post/love/eLhzcZF)
   - [工作越顺利反而没什么成长，反而是遇到棘手的问题，反复折腾后成长最快](https://2libra.com/post/workplace-stories/L_cUDuQ)
   - [左侧菜单的小蓝点可以去掉吗](https://2libra.com/post/forum-function/0KN_kWu)
@@ -68,23 +69,33 @@
   - [Bird Watching: Characterizing the Infrastructure and Behavior of Falcon-branded Extortion Operations](https://www.guidepointsecurity.com/blog/characterizing-infrastructure-behavior-falcon-branded-extortion/)
 - Hacker News Frontpage
   - [CFTC declares market emergency, orders Kalshi to continue to operate in New York](https://www.cftc.gov/PressRoom/PressReleases/9281-26)
+  - [Dutch Train Map Simulator](https://spoorkaart.zaza.dev)
+  - [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
   - [Gen Z has rediscovered the joy of going to the movies](https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies)
   - [How We Used To Get Jobs: A Newspaper Classifieds Story](https://ironicsans.ghost.io/how-we-used-to-get-jobs/)
   - [Nvidia Nemotron 3.5 lightning and Nemo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
   - [The SpaceX Sham](https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/)
   - [The Tradeoffs Facing Japan's Economy](https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/)
   - [US hires over 2k video gamers as air traffic controllers](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
+- HackerNoon
+  - [AI Is Making Everyone Faster but Not Necessarily Better](https://hackernoon.com/ai-is-making-everyone-faster-but-not-necessarily-better?source=rss)
+  - [GitHub Users Adapt to Initially Disliked Features but Retain Lingering Frustrations](https://hackernoon.com/github-users-adapt-to-initially-disliked-features-but-retain-lingering-frustrations?source=rss)
+  - [How I Used GPT-5.6 Sol to Upgrade an Existing Product Without Rebuilding It](https://hackernoon.com/how-i-used-gpt-56-sol-to-upgrade-an-existing-product-without-rebuilding-it?source=rss)
+  - [Mystery Lumber Delivery on Your Driveway? Here’s How to Avoid Legal and Financial Disaster](https://hackernoon.com/mystery-lumber-delivery-on-your-driveway-heres-how-to-avoid-legal-and-financial-disaster?source=rss)
 - Horizon3.ai
   - [From Scanner Findings to Verifiable Web Application Risk](https://horizon3.ai/customer-story/cloud-native-webapp-security-validation/)
 - IEEE Spectrum
   - [IEEE Engineering Summit Supports Bhutan’s Digital Transformation](https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation)
 - infosecurity-magazine.com
   - [Microsoft Fixes 400 Flaws on August Patch Tuesday](https://www.infosecurity-magazine.com/news/microsoft-fixes-400-flaws-august/)
+  - [Russian-Linked Hackers Accessed Polish Power Plant OT Network Through Private APN, Says CERT.PL](https://www.infosecurity-magazine.com/news/attack-polish-power-plant-2025-led/)
 - Insinuator.net
   - [ERNW White Paper 79: Integrating Incident Analysis and Digital Forensics Tooling for Automated Compromise Detection](https://insinuator.net/2026/08/ernw-white-paper-79-integrating-incident-analysis-and-digital-forensics-tooling-for-automated-compromise-detection/)
   - [TIA Project Parser](https://insinuator.net/2026/08/tia-project-parser/)
 - krebsonsecurity.com
   - [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
+- MIT Technology Review
+  - [How we picked 35 of the world’s top young scientists and engineers](https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/)
 - NVIDIA AI Blog
   - [NVIDIA AI Factory Compute Is Becoming an Investable Asset Class](https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/)
 - pluralistic.net
@@ -114,6 +125,7 @@
   - [India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand](https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/)
   - [OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)
   - [Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months](https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/)
+  - [Reservoir raises $8M to make water heaters that people — and the grid — will actually want](https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/)
   - [Uber surprised robotics company Serve by selling its entire stake](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/)
   - [What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?](https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/)
 - The Block
@@ -130,6 +142,7 @@
   - [What’s next for the Clarity Act as September brings a tough road ahead](https://www.theblock.co/news/regulation/2026-08-11-whats-next-for-clarity-act-september-brings-tough-road-ahead-411465)
 - The Decoder
   - ["But marinade" and leaked passwords are what researchers found in ChatGPT's hidden reasoning](https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/)
+  - [Mistral now offers EU data processing and priority access, but both come with important limits](https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/)
   - [OpenAI lets employees cash out another $7 billion in stock](https://the-decoder.com/openai-lets-employees-cash-out-another-7-billion-in-stock/)
 - The Verge
   - [Apple could help you prove your iPhone photos aren’t deepfakes](https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata)
@@ -628,6 +641,8 @@
   - [CVE-2026-66878 | Red Hat Advanced Cluster Management for Kubernetes multicloud-operators-subscription Channel.Spec.SecretRef.Namespace information disclosure](https://vuldb.com/vuln/388902)
   - [CVE-2026-67179 | genkit-ai Genkit /api/runAction dns rebinding](https://vuldb.com/vuln/388197)
   - [CVE-2026-67180 | Google Turbinia os command injection](https://vuldb.com/vuln/388191)
+  - [CVE-2026-67282 | Fabrikar Extension up to 4.6.7 code injection](https://vuldb.com/vuln/388970)
+  - [CVE-2026-67283 | tabaoca.org Cotton Cloud Extension up to 2.0.1 permission](https://vuldb.com/vuln/388971)
   - [CVE-2026-67558 | Quanovate Tech Mira/Mira Android App 4.5.15.4 injection](https://vuldb.com/vuln/388763)
   - [CVE-2026-67568 | Quanovate Tech Mira 4.5.15.4 privileges management](https://vuldb.com/vuln/388764)
   - [CVE-2026-68067 | Quanovate Tech Mira/Mira Android App Login Endpoint Password improper authentication](https://vuldb.com/vuln/388739)
@@ -679,6 +694,7 @@
   - [CVE-2026-68815 | Microsoft Office buffer overflow](https://vuldb.com/vuln/388807)
   - [CVE-2026-68816 | Microsoft Excel/Office stack-based overflow](https://vuldb.com/vuln/388808)
   - [CVE-2026-68817 | Microsoft Excel/Office stack-based overflow](https://vuldb.com/vuln/388809)
+  - [CVE-2026-68868 | Apache Airflow Secret Manager Backend privileges management](https://vuldb.com/vuln/388972)
   - [CVE-2026-69102 | dromara MaxKey up to 4.1.11 Authentication application-maxkey.properties improper authorization](https://vuldb.com/vuln/388390)
   - [CVE-2026-69115 | OpenIMSDK OpenIM Server up to 3.8.3 Admin /user/get_users GetPaginationUsers improper authorization](https://vuldb.com/vuln/388429)
   - [CVE-2026-69117 | NetBox Labs up to 4.5.8 WritableNestedSerializer injection](https://vuldb.com/vuln/388435)
@@ -1137,8 +1153,13 @@
 - wheresyoured.at
   - [Don't Look Up](https://www.wheresyoured.at/dont-look-up/)
 - Wired
+  - [8 Great Deals From Patagonia’s Past-Season Sale](https://www.wired.com/story/patagonia-past-season-sale-2026/)
+  - [Big Tech Wants to Harvest Your Thoughts](https://www.wired.com/story/book-excerpt-the-vanishing-earth-james-crawford-brain-mining/)
+  - [FEMA's ‘Shadow Administrator’ Was Paid by a DOGE Member's Startup for Months](https://www.wired.com/story/femas-shadow-administrator-was-paid-by-a-doge-members-startup-for-months/)
   - [How and When to View the Perseid Meteor Shower (August 2026)](https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/)
   - [Is It Safe to Eat Lettuce Yet?](https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/)
+  - [You’re Thinking About Online Trends All Wrong](https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/)
+  - [‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware](https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/)
 - 不安全
   - [Reading the room is a trainable skill, so I built something to actually do reps on it](https://buaq.net/go-434575.html)
   - [SIM-originierende AT-Kommandos (CATana)](https://buaq.net/go-434607.html)
