@@ -1,8 +1,39 @@
 # 今日安全资讯（2026-08-13）
 
+- Ars Technica
+  - [US tries to override New York gambling laws, orders Kalshi to keep operating](https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/)
+- CoinTelegraph
+  - [Bank of England tests stablecoin, digital pound interoperability in cross-border payments](https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [FlightAware drops Kalshi lawsuit one day after filing](https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Hacker News Frontpage
+  - [Bike Bureau: Report Bike Lane Obstructions](https://loudbicycle.com/bb)
+  - [DeepSeek V4 Pro 0813 quietly released](https://api-docs.deepseek.com/guides/responses_api/)
+  - [Glaciers on the Climate Dashboard](https://climate.metoffice.cloud/glaciers.html)
+  - [Wednesday, August 12: GitHub, Incident with Pull Requests and Issues](https://www.githubstatus.com/incidents/76t89hbfb09h)
+- TechCrunch
+  - [Form Energy raises $750M to build more 100-hour batteries for the grid](https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/)
+  - [Mesh, Automattic’s CRM for everyone, comes to Android](https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/)
+  - [Tesla wants to build a $10B solar factory in Texas](https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/)
+  - [Why Stream ring-maker Sandbar says the future of AI wearables is voice](https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/)
 - The Block
+  - [Goldman Sachs to gain bitcoin and ETH income ETFs in up to $2.25 billion Neos acquisition](https://www.theblock.co/news/business/2026-08-12-goldman-sachs-bitcoin-ether-income-etfs-neos-deal-411618)
   - [SKALE launches Agent Pit to let builders train AI agents before taking them live on Polymarket](https://www.theblock.co/news/defi/2026-08-12-skales-agent-pit-lets-builders-train-ai-agents-before-taking-them-live-on-polymarket-411580)
+- The Decoder
+  - [AI tools for breast cancer detection fall short of radiologists' expectations](https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/)
 - The Verge
+  - [Amazon gets out of the MMO game](https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations)
+  - [How Google’s new Pixel 11 phones compare to last year’s models](https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features)
   - [How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8](https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison)
+  - [ICE wants to give agents electrified gloves that shock people into compliance](https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves)
+- VulDB Recent Entries
+  - [CVE-2026-13622 | KubeVirt virt-handler symlink](https://vuldb.com/vuln/389086)
+  - [CVE-2026-15803 | Eclipse RDF4J up to 5.3.1 XML Parser xml external entity reference](https://vuldb.com/vuln/389087)
+  - [CVE-2026-19548 | Red Hat Enterprise Linux ld ld/ldmain.c add_archive_element use after free](https://vuldb.com/vuln/389088)
+  - [CVE-2026-69107 | JFrog Artifactory up to 7.146.7 privileges management](https://vuldb.com/vuln/389089)
+  - [CVE-2026-73292 | SemaphoreUI Semaphore up to 2.18.20 Password Endpoint cross-site request forgery](https://vuldb.com/vuln/389094)
+  - [CVE-2026-73293 | SemaphoreUI Semaphore up to 2.18.18/2.19.5-beta4 Role Management /api/project/{id}/roles ProjectMiddleware/GetProjectOrGlobalRoleBySlug privileges management](https://vuldb.com/vuln/389092)
+  - [CVE-2026-73294 | Semaphoreui Semaphore up to 2.18.16/2.19.5-beta1 Git Repository GetLastRemoteCommitHash upload-pack os command injection](https://vuldb.com/vuln/389091)
+  - [CVE-2026-73295 | squidfunk MkDocs Material up to 9.7.6 Search Suggest index.ts mountSearchSuggest q cross site scripting](https://vuldb.com/vuln/389093)
+  - [CVE-2026-73325 | Fujitsu Research OneCompression up to 1.2.0 QuantizedModelLoader.load_quantized_model_pt deserialization](https://vuldb.com/vuln/389090)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
