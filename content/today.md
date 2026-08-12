@@ -31,6 +31,8 @@
 - Ars Technica
   - [DEF CON crowd suspected in fake-hotspot attack on Delta flight](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/)
   - [Meta can't stop states' $1.4 trillion lawsuit from going to trial](https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/)
+- Articles | InfoStealers
+  - [Largest AI Supply Chain Breach of 2026: LiteLLM Hack Impacts Thousands of Global Enterprises – Claim Your Ethical Disclosure](https://www.infostealers.com/article/largest-ai-supply-chain-breach-of-2026-litellm-hack-impacts-thousands-of-global-enterprises-claim-your-ethical-disclosure/)
 - blog.jim-nielsen.com
   - [The Fruits of AI](https://blog.jim-nielsen.com/2026/fruit-of-ai/)
 - CoinTelegraph
@@ -86,6 +88,8 @@
   - [Mystery Lumber Delivery on Your Driveway? Here’s How to Avoid Legal and Financial Disaster](https://hackernoon.com/mystery-lumber-delivery-on-your-driveway-heres-how-to-avoid-legal-and-financial-disaster?source=rss)
 - Horizon3.ai
   - [From Scanner Findings to Verifiable Web Application Risk](https://horizon3.ai/customer-story/cloud-native-webapp-security-validation/)
+- idiallo.com
+  - [Where Did the Productivity Gains Go?](https://idiallo.com/blog/where-did-the-productivity-gains-go)
 - IEEE Spectrum
   - [IEEE Engineering Summit Supports Bhutan’s Digital Transformation](https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation)
 - infosecurity-magazine.com
@@ -96,8 +100,12 @@
   - [TIA Project Parser](https://insinuator.net/2026/08/tia-project-parser/)
 - krebsonsecurity.com
   - [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
+- matduggan.com
+  - [OTel Isn't Going Well (And I Made A Spreadsheet About It)](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/)
 - MIT Technology Review
   - [How we picked 35 of the world’s top young scientists and engineers](https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/)
+- NowSecure
+  - [How NowSecure Is Using AI to Advance Mobile App Security Testing](https://www.nowsecure.com/blog/2026/08/12/how-nowsecure-is-using-ai-to-advance-mobile-app-security-testing/)
 - NVIDIA AI Blog
   - [NVIDIA AI Factory Compute Is Becoming an Investable Asset Class](https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/)
 - pluralistic.net
@@ -153,6 +161,7 @@
   - [Apple could help you prove your iPhone photos aren’t deepfakes](https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata)
   - [ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users)
   - [Google’s free streaming service now lets you pick shows and movies to watch](https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand)
+  - [Grok is now an AI ‘teammate’ you can assign work](https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch)
   - [Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive)
   - [The budget-friendly Pixel Buds 2a are even cheaper right now](https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale)
   - [Threads has a VR app now](https://www.theverge.com/tech/978181/meta-threads-quest-vr-app)
@@ -180,6 +189,7 @@
   - [CVE-2025-61970 | AMD Vitis Embedded Single File Download up to 2026.0 permission](https://vuldb.com/vuln/388237)
   - [CVE-2025-8087 | AMD Power Design Manager up to 2026.0 uncontrolled search path](https://vuldb.com/vuln/388235)
   - [CVE-2026-0465 | AMD Ryzen Master/Ryzen Master Monitoring SDK Driver use after free](https://vuldb.com/vuln/388359)
+  - [CVE-2026-11325 | Cloudflare Pages Action GitHub Actions Workflow src/index.ts behavioral workflow](https://vuldb.com/vuln/388983)
   - [CVE-2026-12232 | ZephyrProject Zephyr up to 4.4.x Intel ALH Digital-Audio-Interface Driver alh.c dai_alh_get_properties stream_id out-of-bounds](https://vuldb.com/vuln/388911)
   - [CVE-2026-12233 | Zephyr Project up to 4.4.1 PSA Protected Storage Credential Backend tls_credentials_trusted.c k_mutex_lock uninitialized variable](https://vuldb.com/vuln/388910)
   - [CVE-2026-12234 | Zephyr Project up to 4.4.1 Syscall Verifier sockets.c z_vrfy_zsock_sendmsg/z_vrfy_zsock_recvmsg msg_iovlen toctou](https://vuldb.com/vuln/388925)
@@ -197,6 +207,8 @@
   - [CVE-2026-14859 | WP Crowdfunding Plugin up to 2.2.0 on WordPress access control](https://vuldb.com/vuln/388942)
   - [CVE-2026-14925 | Import WP Plugin up to 2.14.22 on WordPress Export File Download information disclosure](https://vuldb.com/vuln/388943)
   - [CVE-2026-15039 | Giftware Plugin up to 4.2.9 on WordPress unrestricted upload](https://vuldb.com/vuln/388927)
+  - [CVE-2026-15045 | WooCommerce Wallet System for WooCommerce Plugin up to 2.7.9 on WordPress external control of assumed-immutable web parameter](https://vuldb.com/vuln/388980)
+  - [CVE-2026-15213 | Welcart e-Commerce Plugin up to 2.11.32 on WordPress Settlement Callback data authenticity](https://vuldb.com/vuln/388981)
   - [CVE-2026-15249 | Patterns Kit Plugin up to 1.0.3 on WordPress Link cross site scripting](https://vuldb.com/vuln/388944)
   - [CVE-2026-15388 | Cookie Consent Plugin up to 0.0.9 on WordPress Rest Routes authorization](https://vuldb.com/vuln/388931)
   - [CVE-2026-15426 | acyba AcyMailing Plugin up to 10.11.1 on WordPress authorization](https://vuldb.com/vuln/388431)
@@ -206,7 +218,9 @@
   - [CVE-2026-16253 | Total Upkeep Plugin up to 1.17.2 on WordPress information disclosure](https://vuldb.com/vuln/388929)
   - [CVE-2026-16294 | Blubrry PowerPress Podcasting Plugin up to 11.17.0 on WordPress server-side request forgery](https://vuldb.com/vuln/388946)
   - [CVE-2026-16538 | WooCommerce Wallet for WooCommerce Plugin up to 1.6.9 on WordPress access control](https://vuldb.com/vuln/388933)
+  - [CVE-2026-16621 | WooCommerce Payment Gateway for PayPal on WooCommerce Plugin up to 9.2.0 on WordPress PayPal Return data authenticity](https://vuldb.com/vuln/388982)
   - [CVE-2026-16737 | WP Travel Engine Plugin up to 6.8.4 on WordPress authorization](https://vuldb.com/vuln/388934)
+  - [CVE-2026-16747 | Kirki Plugin up to 6.2.0 on WordPress Shortcode Execution injection](https://vuldb.com/vuln/388979)
   - [CVE-2026-16977 | 10Web Form Maker Plugin up to 1.15.44 on WordPress sql injection](https://vuldb.com/vuln/388945)
   - [CVE-2026-18035 | User Access Manager Plugin up to 2.3.14 on WordPress authorization](https://vuldb.com/vuln/388952)
   - [CVE-2026-18046 | Cookie Consent Plugin up to 0.0.9 on WordPress Geolocation Service authorization](https://vuldb.com/vuln/388948)
@@ -1168,15 +1182,19 @@
   - [Ego 1300 Electric Mower Review: Tame Your Lawn Without Gas](https://www.wired.com/review/ego-1300-electric-lawn-mower/)
   - [FEMA's ‘Shadow Administrator’ Was Paid by a DOGE Member's Startup for Months](https://www.wired.com/story/femas-shadow-administrator-was-paid-by-a-doge-members-startup-for-months/)
   - [How and When to View the Perseid Meteor Shower (August 2026)](https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/)
+  - [How to Select the Office Chair That’s Right For You](https://www.wired.com/story/how-to-choose-the-right-office-chair/)
   - [Is It Safe to Eat Lettuce Yet?](https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/)
   - [McDonald’s Built a 515-Page Dossier on Me. It Says I’ll Never Stop Eating There](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
   - [Oh Lord, AI Reporters Are Actually Breaking Big News](https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/)
   - [The Best Action Cameras for All Your Craziest Adventures (2026)](https://www.wired.com/gallery/best-action-cameras/)
   - [The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself](https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/)
+  - [This Coin-Sized Device Can Hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/)
   - [You’re Thinking About Online Trends All Wrong](https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/)
   - [‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware](https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/)
 - 不安全
+  - [Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws](https://buaq.net/go-434654.html)
   - [Reading the room is a trainable skill, so I built something to actually do reps on it](https://buaq.net/go-434575.html)
+  - [Signal adds new security feature to thwart man-in-the-middle attacks](https://buaq.net/go-434650.html)
   - [SIM-originierende AT-Kommandos (CATana)](https://buaq.net/go-434607.html)
   - [嗯？火狐浏览器GPG密钥被意外发布到某个无关的私有仓库 现已轮换密钥](https://buaq.net/go-434568.html)
   - [扣子发布紧急更新停止使用Coze CLI技能劫持工作流 不过仍然静默安装技能](https://buaq.net/go-434558.html)
