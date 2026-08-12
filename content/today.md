@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-08-13）
 
+- 404 Media
+  - [Twitch is Mining Peoples' Streams to Train Amazon's AI](https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/)
 - Ars Technica
   - [US tries to override New York gambling laws, orders Kalshi to keep operating](https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/)
 - CoinTelegraph
@@ -10,26 +12,61 @@
   - [DeepSeek V4 Pro 0813 quietly released](https://api-docs.deepseek.com/guides/responses_api/)
   - [Glaciers on the Climate Dashboard](https://climate.metoffice.cloud/glaciers.html)
   - [Wednesday, August 12: GitHub, Incident with Pull Requests and Issues](https://www.githubstatus.com/incidents/76t89hbfb09h)
+- Horizon3.ai
+  - [From Patch Tuesday to Pentest Wednesday®: How a Major Transportation Company Turned AWS Attack Paths Into Action](https://horizon3.ai/intelligence/blogs/aws-attack-paths-pentest-wednesday/)
+- shkspr.mobi
+  - [Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/)
 - TechCrunch
+  - [As AI safety concerns mount, three pioneers make the case for staying open](https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/)
   - [Form Energy raises $750M to build more 100-hour batteries for the grid](https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/)
   - [Mesh, Automattic’s CRM for everyone, comes to Android](https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/)
+  - [OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise](https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/)
   - [Tesla wants to build a $10B solar factory in Texas](https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/)
+  - [Uber Freight reportedly investigating after hacking group claims data breach](https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/)
   - [Why Stream ring-maker Sandbar says the future of AI wearables is voice](https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/)
 - The Block
   - [Goldman Sachs to gain bitcoin and ETH income ETFs in up to $2.25 billion Neos acquisition](https://www.theblock.co/news/business/2026-08-12-goldman-sachs-bitcoin-ether-income-etfs-neos-deal-411618)
+  - [Polymarket taps ex-Uber and Bird exec Travis VanderZanden to boost growth](https://www.theblock.co/news/business/2026-08-12-polymarket-taps-ex-uber-and-bird-exec-travis-vanderzanden-to-boost-growth-411631)
   - [SKALE launches Agent Pit to let builders train AI agents before taking them live on Polymarket](https://www.theblock.co/news/defi/2026-08-12-skales-agent-pit-lets-builders-train-ai-agents-before-taking-them-live-on-polymarket-411580)
 - The Decoder
   - [AI tools for breast cancer detection fall short of radiologists' expectations](https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/)
+  - [Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy](https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/)
 - The Verge
   - [Amazon gets out of the MMO game](https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations)
   - [How Google’s new Pixel 11 phones compare to last year’s models](https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features)
   - [How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8](https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison)
   - [ICE wants to give agents electrified gloves that shock people into compliance](https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves)
+  - [Twitch streamers can now opt out from training Amazon’s AI](https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai)
 - VulDB Recent Entries
   - [CVE-2026-13622 | KubeVirt virt-handler symlink](https://vuldb.com/vuln/389086)
   - [CVE-2026-15803 | Eclipse RDF4J up to 5.3.1 XML Parser xml external entity reference](https://vuldb.com/vuln/389087)
+  - [CVE-2026-16694 | IBM i 7.3/7.4/7.5/7.6 cross site scripting](https://vuldb.com/vuln/389103)
+  - [CVE-2026-16904 | IBM i 7.3/7.4/7.5/7.6 privileges management](https://vuldb.com/vuln/389117)
+  - [CVE-2026-17094 | IBM i up to 7.3/7.4/7.5/7.6 path traversal](https://vuldb.com/vuln/389105)
+  - [CVE-2026-17095 | IBM i 7.3/7.4/7.5/7.6 access control](https://vuldb.com/vuln/389106)
+  - [CVE-2026-17266 | IBM i 7.3/7.4/7.5/7.6 information disclosure](https://vuldb.com/vuln/389116)
+  - [CVE-2026-17268 | IBM i 7.3/7.4/7.5/7.6 improper authentication](https://vuldb.com/vuln/389118)
+  - [CVE-2026-17276 | IBM i 7.3/7.4/7.5/7.6 privileges management](https://vuldb.com/vuln/389119)
+  - [CVE-2026-17418 | IBM i 7.3/7.4/7.5/7.6 neutralization](https://vuldb.com/vuln/389125)
+  - [CVE-2026-17419 | IBM i up to 7.3/7.4/7.5/7.6 neutralization](https://vuldb.com/vuln/389120)
+  - [CVE-2026-18098 | IBM i 7.3/7.4/7.5/7.6 xml injection](https://vuldb.com/vuln/389107)
+  - [CVE-2026-18106 | IBM i 7.3/7.4/7.5/7.6 information disclosure](https://vuldb.com/vuln/389108)
+  - [CVE-2026-18144 | IBM i 7.3/7.4/7.5/7.6 improper authorization](https://vuldb.com/vuln/389109)
+  - [CVE-2026-18235 | IBM i 7.3/7.4/7.5/7.6 input validation](https://vuldb.com/vuln/389121)
+  - [CVE-2026-18246 | IBM i 7.3/7.4/7.5/7.6 Multipart Parser privileges management](https://vuldb.com/vuln/389110)
+  - [CVE-2026-18250 | IBM i 7.3/7.4/7.5/7.6 race condition](https://vuldb.com/vuln/389122)
+  - [CVE-2026-18683 | IBM i 7.3/7.4/7.5/7.6 Navigator for i privileges management](https://vuldb.com/vuln/389111)
+  - [CVE-2026-18713 | IBM i 7.3/7.4/7.5/7.6 Navigator for i privileges management](https://vuldb.com/vuln/389123)
+  - [CVE-2026-18847 | IBM i 7.3/7.4/7.5/7.6 Navigator for i improper authentication](https://vuldb.com/vuln/389112)
   - [CVE-2026-19548 | Red Hat Enterprise Linux ld ld/ldmain.c add_archive_element use after free](https://vuldb.com/vuln/389088)
+  - [CVE-2026-48553 | Nagios Enterprises Nagios Core/Nagios XI up to 4.5.12/2026R1.4 Nagios Remote Data Processor os command injection](https://vuldb.com/vuln/389113)
+  - [CVE-2026-48554 | Nagios Enterprises Nagios Core/Nagios XI Notification Macro Substitution com_data os command injection](https://vuldb.com/vuln/389114)
+  - [CVE-2026-49467 | smp46 Pingvin Share X up to 1.18.0 TOTP Settings auth.service.ts authenticateUser improper synchronization](https://vuldb.com/vuln/389124)
   - [CVE-2026-69107 | JFrog Artifactory up to 7.146.7 privileges management](https://vuldb.com/vuln/389089)
+  - [CVE-2026-73237 | Apache Allura up to 1.19.0 Markdown cross site scripting](https://vuldb.com/vuln/389102)
+  - [CVE-2026-73238 | Apache Allura up to 1.19.0 Code Display cross site scripting](https://vuldb.com/vuln/389115)
+  - [CVE-2026-73239 | Apache Allura up to 1.19.0 client-side enforcement of server-side security](https://vuldb.com/vuln/389101)
+  - [CVE-2026-73240 | Apache Allura up to 1.19.0 os command injection](https://vuldb.com/vuln/389104)
   - [CVE-2026-73292 | SemaphoreUI Semaphore up to 2.18.20 Password Endpoint cross-site request forgery](https://vuldb.com/vuln/389094)
   - [CVE-2026-73293 | SemaphoreUI Semaphore up to 2.18.18/2.19.5-beta4 Role Management /api/project/{id}/roles ProjectMiddleware/GetProjectOrGlobalRoleBySlug privileges management](https://vuldb.com/vuln/389092)
   - [CVE-2026-73294 | Semaphoreui Semaphore up to 2.18.16/2.19.5-beta1 Git Repository GetLastRemoteCommitHash upload-pack os command injection](https://vuldb.com/vuln/389091)
