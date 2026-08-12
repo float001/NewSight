@@ -29,7 +29,9 @@
   - [蜕变日记（约会日记） 1](https://2libra.com/post/love/h3vlumP)
   - [这样的虚拟购物软件有钱途吗](https://2libra.com/post/startup-logs/53GS8hx)
 - 404 Media
+  - [AI Generated 3D Models Flood Market, But Almost No One Is Buying Them](https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/)
   - [No Bosses: Ancient Engineering Marvel Was Built Without Rulers, Study Suggests](https://www.404media.co/no-bosses-ancient-engineering-marvel-was-built-without-rulers-study-suggests/)
+  - [The Government is Monitoring Anti-Flock TikTok and Instagram Accounts](https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/)
   - [This Tool Unmasks the Shadowy World of Ads that Track Your Location](https://www.404media.co/this-tool-unmasks-the-shadowy-world-of-ads-that-track-your-location/)
 - Ars Technica
   - [DEF CON crowd suspected in fake-hotspot attack on Delta flight](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/)
@@ -45,6 +47,7 @@
   - [Bitcoin drops to one-week low as retail buys gold at highest prices since June](https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC invokes emergency powers to keep Kalshi operating in New York fight](https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase-backed Flowdesk secures full broker-dealer license in Dubai](https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’](https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fidelity files with SEC to add staking to Ethereum ETF](https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FlightAware sues Kalshi over flight cancellation data](https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Following Senate delay, crypto bill has a narrow window to become law](https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -55,6 +58,8 @@
   - [Ravencoin hits record low as network exploit puts transactions at risk](https://cointelegraph.com/news/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC to address crypto regulations in absence of CLARITY passage](https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme](https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Slovenia joins EU’s MiCA stablecoin register with first issuer](https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Wintermute to pour $1B into AI, high-frequency trading amid TradFi expansion: Report](https://cointelegraph.com/news/wintermute-pour-1b-ai-tradfi-expansion-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Alex Micek on BMW’s iDrive ‘Special Surprises’](https://tumbledry.org/2026/08/07/idrive_ads)
   - [Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
@@ -66,6 +71,7 @@
 - darkreading
   - [Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA](https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa)
   - [Microsoft's Patch Tuesday Deluge Continues With August Updates](https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues)
+  - [Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition)
   - [Walmart Leaders Transform Security Operations Without Going Bananas](https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas)
 - defend.network
   - [Windows kernel zero-day exploited; Zoom annotation RCE, Sandworm VPN campaign](https://defend.network/briefings/microsoft-windows-zoom-sandworm-active-exploits-2026-08-12.html)
@@ -75,6 +81,8 @@
   - [Incident Response Playbook: How to Build Actionable Workflows Before an Attack Happens](https://fidelissecurity.com/threatgeek/threat-detection-response/incident-response-playbook/)
 - Google AI Blog
   - [AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/)
+- Google DeepMind Blog
+  - [Putting sign language AI into users’ hands](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/)
 - GuidePoint Security
   - [Bird Watching: Characterizing the Infrastructure and Behavior of Falcon-branded Extortion Operations](https://www.guidepointsecurity.com/blog/characterizing-infrastructure-behavior-falcon-branded-extortion/)
 - Hacker News Frontpage
@@ -99,12 +107,16 @@
 - IEEE Spectrum
   - [IEEE Engineering Summit Supports Bhutan’s Digital Transformation](https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation)
 - infosecurity-magazine.com
+  - [Gunra Ransomware Exploits Fortinet Flaws to Target Critical Infrastructure](https://www.infosecurity-magazine.com/news/gunra-ransomware-fortinet-flaws/)
+  - [Lazarus Used Post-Quantum Key Exchange to Deliver Zero-Day](https://www.infosecurity-magazine.com/news/lazarus-post-quantum-key-dream-job/)
   - [Microsoft Fixes 400 Flaws on August Patch Tuesday](https://www.infosecurity-magazine.com/news/microsoft-fixes-400-flaws-august/)
   - [NIST Seeks Public Input on AI-Ready NVD Modernization](https://www.infosecurity-magazine.com/news/nist-seeks-public-input-ai-nvd/)
   - [Russian-Linked Hackers Accessed Polish Power Plant OT Network Through Private APN, Says CERT.PL](https://www.infosecurity-magazine.com/news/attack-polish-power-plant-2025-led/)
 - Insinuator.net
   - [ERNW White Paper 79: Integrating Incident Analysis and Digital Forensics Tooling for Automated Compromise Detection](https://insinuator.net/2026/08/ernw-white-paper-79-integrating-incident-analysis-and-digital-forensics-tooling-for-automated-compromise-detection/)
   - [TIA Project Parser](https://insinuator.net/2026/08/tia-project-parser/)
+- johndcook.com
+  - [Cryptic but consistent](https://www.johndcook.com/blog/2026/08/12/cryptic-but-consistent/)
 - krebsonsecurity.com
   - [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
 - matduggan.com
@@ -140,7 +152,11 @@
   - [Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’](https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/)
   - [FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures](https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/)
   - [General Catalyst leads $1.1B round into 2-month-old River AI](https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/)
+  - [Google takes on AirTag with the new $29 Pixel Tag](https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/)
+  - [Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring](https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/)
   - [Google’s Gemini app surges to one billion users](https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/)
+  - [Google’s new Pixel 11 Pro Fold offers a stronger build and brighter screens](https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/)
+  - [Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/)
   - [India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand](https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/)
   - [OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)
   - [Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months](https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/)
@@ -156,6 +172,7 @@
   - [FlightAware drops lawsuit against Kalshi one day after filing](https://www.theblock.co/news/business/2026-08-12-flightaware-drops-kalshi-lawsuit-411534)
   - [Florida man charged by CFTC over $397 million crypto Ponzi scheme](https://www.theblock.co/news/regulation/2026-08-11-florida-man-charged-by-cftc-over-397-million-crypto-ponzi-scheme-411491)
   - [Harmony confirms exploit involving unauthorized minting of 4 billion ONE tokens](https://www.theblock.co/news/defi/2026-08-12-harmony-confirms-exploit-one-token-411527)
+  - [Kalshi first prediction market to stream full order books via DoubleZero](https://www.theblock.co/news/markets/2026-08-12-kalshi-first-prediction-market-to-stream-full-order-books-via-doublezero-411589)
   - [New Bitcoin addresses jump as Coldcard exploit pushes users to move funds](https://www.theblock.co/news/ecosystems/2026-08-11-new-bitcoin-addresses-jump-coldcard-exploit-pushes-users-move-funds-411317)
   - [Robinhood Chain hits 11.6 million daily transactions as USDe fuels TVL growth](https://www.theblock.co/news/ecosystems/2026-08-11-robinhood-chain-hits-11-6-million-daily-transactions-as-usde-fuels-tvl-growth-411310)
   - [SEC could propose ‘pivotal’ crypto rules that may start with token safe harbor, TD Cowen says](https://www.theblock.co/news/regulation/2026-08-11-sec-crypto-rules-token-safe-harbor-td-cowen-411455)
@@ -163,20 +180,28 @@
   - [What’s next for the Clarity Act as September brings a tough road ahead](https://www.theblock.co/news/regulation/2026-08-11-whats-next-for-clarity-act-september-brings-tough-road-ahead-411465)
 - The Decoder
   - ["But marinade" and leaked passwords are what researchers found in ChatGPT's hidden reasoning](https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/)
+  - [Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices](https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/)
   - [Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance](https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/)
   - [Mistral now offers EU data processing and priority access, but both come with important limits](https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/)
   - [Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed](https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/)
   - [OpenAI lets employees cash out another $7 billion in stock](https://the-decoder.com/openai-lets-employees-cash-out-another-7-billion-in-stock/)
 - The Verge
+  - [Android now has a tap-to-share feature](https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung)
   - [Apple could help you prove your iPhone photos aren’t deepfakes](https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata)
+  - [Brendan Carr is one firing away from an unchecked FCC](https://www.theverge.com/policy/978783/trump-fcc-nominee-quorum)
   - [ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users)
+  - [Google is making the Pixel cameras better by making them worse](https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography)
   - [Google’s free streaming service now lets you pick shows and movies to watch](https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand)
+  - [Google’s Pixel 11 series pairs a little new hardware with a lot of new software](https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software)
+  - [Google’s Pixel Watch 5 dives deeper into AI and health](https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch)
   - [Grok is now an AI ‘teammate’ you can assign work](https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch)
   - [Honor’s Robot Phone is better than a gimbal in a phone has any right to be](https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera)
   - [Insta360’s next 360-degree action cam puts bigger sensors in a smaller design](https://www.theverge.com/tech/978211/insta360-x6-360-degree-action-camera-8k-price-availability)
+  - [Jaguar offers a first look inside the all-electric Type 01](https://www.theverge.com/transportation/978793/jaguar-type-01-interior)
   - [Of course the ChatGPT dog cancer vaccine spawned a startup](https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee)
   - [Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive)
   - [The budget-friendly Pixel Buds 2a are even cheaper right now](https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale)
+  - [The Pixel Tag is Google’s answer to the AirTag](https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news)
   - [Threads has a VR app now](https://www.theverge.com/tech/978181/meta-threads-quest-vr-app)
   - [Xbox Elite 3 prototype pad leaks with tiny built-in screen](https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen)
 - Trail of Bits Blog
@@ -357,6 +382,12 @@
   - [CVE-2026-42976 | Microsoft Windows up to Server 2025 RPC API improper authorization](https://vuldb.com/vuln/388244)
   - [CVE-2026-43606 | AMD Vitis Libraries up to 2026.0 ECDSA secp256k1 timing discrepancy](https://vuldb.com/vuln/388236)
   - [CVE-2026-45618 | harttle LiquidJS up to 10.25.x code injection](https://vuldb.com/vuln/388554)
+  - [CVE-2026-47227 | Admidio up to 5.0.9 Category Management modules/categories.php isEditable type/uuid privileges management](https://vuldb.com/vuln/389000)
+  - [CVE-2026-47228 | Admidio up to 5.0.9 Send Login modules/registration.php adm_csrf_token cross-site request forgery](https://vuldb.com/vuln/389001)
+  - [CVE-2026-47229 | Admidio up to 5.0.9 SSO Client modules/sso/clients.php enable enabled cross-site request forgery](https://vuldb.com/vuln/389002)
+  - [CVE-2026-47230 | Admidio up to 5.0.9 File Rename documents-files.php renameFile folder_uuid/file_uuid resource injection](https://vuldb.com/vuln/388998)
+  - [CVE-2026-47231 | Admidio up to 5.0.9 Move documents-files.php File::moveToFolder folder_uuid/file_uuid unrestricted upload](https://vuldb.com/vuln/388999)
+  - [CVE-2026-47232 | Admidio up to 5.0.9 SSO Key Management modules/sso/keys.php cross-site request forgery](https://vuldb.com/vuln/389003)
   - [CVE-2026-47285 | Microsoft Visual Studio Code up to 1.132.0 command injection](https://vuldb.com/vuln/388240)
   - [CVE-2026-47299 | Microsoft Azure Monitor Agent up to 1.42 command injection](https://vuldb.com/vuln/388242)
   - [CVE-2026-47704 | baptisteArno Typebot up to 3.16.x Webhook Resume access control](https://vuldb.com/vuln/388202)
@@ -760,6 +791,7 @@
   - [CVE-2026-70355 | Microsoft SharePoint Server cross site scripting](https://vuldb.com/vuln/388815)
   - [CVE-2026-70398 | Red Hat Advanced Cluster Management for Kubernetes multicloud-integrations privileges management](https://vuldb.com/vuln/388903)
   - [CVE-2026-70465 | Fortinet FortiClientWindows up to 7.2.11/7.4.3 buffer overflow](https://vuldb.com/vuln/388988)
+  - [CVE-2026-70467 | Fortinet FortiSIEM up to 7.5.0 server-side request forgery](https://vuldb.com/vuln/388997)
   - [CVE-2026-71331 | Microsoft Windows 10 1809/Server 2019/Server 2022/Server 2025 Azure Attestation Service integer overflow](https://vuldb.com/vuln/388838)
   - [CVE-2026-71362 | Adobe Commerce/Commerce B2B/Magento Open Source improper authorization](https://vuldb.com/vuln/388386)
   - [CVE-2026-71383 | Adobe ColdFusion improper authorization](https://vuldb.com/vuln/388851)
@@ -768,6 +800,7 @@
   - [CVE-2026-71389 | Adobe Content Credentials Rust SDK integer underflow](https://vuldb.com/vuln/388853)
   - [CVE-2026-71390 | Adobe Command-Line Tool/JS SDK/Rust SDK input validation](https://vuldb.com/vuln/388840)
   - [CVE-2026-71398 | Adobe Campaign Classic improper authorization](https://vuldb.com/vuln/388387)
+  - [CVE-2026-71408 | Fortinet FortiOS prior 6.4.16/7.0.19/7.2.13/7.4.12/7.6.6 allocation of resources](https://vuldb.com/vuln/388996)
   - [CVE-2026-71467 | Red Hat Advanced Cluster Management for Kubernetes search-v2-api information disclosure](https://vuldb.com/vuln/388488)
   - [CVE-2026-71468 | Red Hat Advanced Cluster Management for Kubernetes Cache Refresh getFederationConfig improper authorization](https://vuldb.com/vuln/388489)
   - [CVE-2026-71474 | Red Hat Advanced Cluster Management for Kubernetes Logging information disclosure](https://vuldb.com/vuln/388494)
@@ -1191,10 +1224,12 @@
 - wheresyoured.at
   - [Don't Look Up](https://www.wheresyoured.at/dont-look-up/)
 - Wired
+  - [4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones](https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/)
   - [8 Great Deals From Patagonia’s Past-Season Sale](https://www.wired.com/story/patagonia-past-season-sale-2026/)
   - [Big Tech Wants to Harvest Your Thoughts](https://www.wired.com/story/book-excerpt-the-vanishing-earth-james-crawford-brain-mining/)
   - [Ego 1300 Electric Mower Review: Tame Your Lawn Without Gas](https://www.wired.com/review/ego-1300-electric-lawn-mower/)
   - [FEMA's ‘Shadow Administrator’ Was Paid by a DOGE Member's Startup for Months](https://www.wired.com/story/femas-shadow-administrator-was-paid-by-a-doge-members-startup-for-months/)
+  - [Google Pixel 11 Series, Pixel Watch 5, Pixel Tag: Specs, Features, Price, Release Date](https://www.wired.com/story/pixel-11-pixel-watch-5-pixel-tag-everything-google-announced-at-its-made-by-google-2026-event/)
   - [Honor’s Robot Phone Has a Gimbal-Powered Camera for Vloggers](https://www.wired.com/story/honor-robot-phone/)
   - [How and When to View the Perseid Meteor Shower (August 2026)](https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/)
   - [How to Select the Office Chair That’s Right For You](https://www.wired.com/story/how-to-choose-the-right-office-chair/)
@@ -1225,6 +1260,7 @@
   - [V8+手动挡，「大黄蜂」科迈罗推出四门版，但我们再也见不到它了](https://www.ifanr.com/1674611?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [内饰揭晓！焕然一新的捷豹 Type 01，仍然很「捷豹」](https://www.ifanr.com/1674925?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜Manus官宣恢复独立运营/米哈游新作上线未满一月宣布停运/胖东来发放7万元「委屈奖」](https://www.ifanr.com/1674811?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [荣耀 Robot Phone 发布：9999 元起，AI 手机开始长出「身体」](https://www.ifanr.com/1674938?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [预售价 25.98 万元！小鹏 G9L 少了一排座椅，却要去往更大的全球市场](https://www.ifanr.com/1674751?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]自回归 Shellcode 生成器：从一个玩笑到多项式回归](https://key08.com/index.php/2026/08/12/3278.html)
@@ -1233,6 +1269,7 @@
   - [刚刚，Manus恢复独立运营](https://www.qbitai.com/2026/08/470805.html)
 - 黑海洋
   - [AI支出打断腾讯两位数利润增长势头](https://blog.upx8.com/AI%E6%94%AF%E5%87%BA%E6%89%93%E6%96%AD%E8%85%BE%E8%AE%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF%E5%8A%BF%E5%A4%B4)
+  - [梁文锋财富一年激增3850% 跻身全球富豪榜前50](https://blog.upx8.com/%E6%A2%81%E6%96%87%E9%94%8B%E8%B4%A2%E5%AF%8C%E4%B8%80%E5%B9%B4%E6%BF%80%E5%A2%9E3850-%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E5%AF%8C%E8%B1%AA%E6%A6%9C%E5%89%8D50)
   - [没有一个真人员工 日本电气成立“全AI部门”](https://blog.upx8.com/%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E7%9C%9F%E4%BA%BA%E5%91%98%E5%B7%A5-%E6%97%A5%E6%9C%AC%E7%94%B5%E6%B0%94%E6%88%90%E7%AB%8B-%E5%85%A8AI%E9%83%A8%E9%97%A8)
   - [经销商证实：雪佛兰已暂停在华新车销售](https://blog.upx8.com/%E7%BB%8F%E9%94%80%E5%95%86%E8%AF%81%E5%AE%9E-%E9%9B%AA%E4%BD%9B%E5%85%B0%E5%B7%B2%E6%9A%82%E5%81%9C%E5%9C%A8%E5%8D%8E%E6%96%B0%E8%BD%A6%E9%94%80%E5%94%AE)
   - [美国政府设备重新允许使用TikTok应用](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%AE%BE%E5%A4%87%E9%87%8D%E6%96%B0%E5%85%81%E8%AE%B8%E4%BD%BF%E7%94%A8TikTok%E5%BA%94%E7%94%A8)
