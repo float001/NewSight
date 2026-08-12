@@ -5,6 +5,7 @@
   - [deepflood 这几天是打不开了吗](https://2libra.com/post/questions/hMIAHei)
   - [【兑换码】开源一个 Agent Skill：一句话把 youtube 和播客链接转小红书帖子](https://2libra.com/post/promotion/OKWNykX)
   - [【旧文重发】发射失败有感，重发一篇笔记～ 🚀🚀🚀](https://2libra.com/post/management-insights/aBgV4-H)
+  - [【💰】 工作上，有同事闹情绪发脾气时，你会帮助 TA 吗？你会怎么处理。](https://2libra.com/post/workplace-stories/5sCbGHp)
   - [【💰】小鹏汽车推出 AR-HUD 路怒消消气](https://2libra.com/post/automobile/zTbxmMK)
   - [【💰】最近有人参加过面试吗，现在 Java 面试一般都问什么，还是老几样吗](https://2libra.com/post/job-hunting/CY0O-if)
   - [【💰】用户数超过 8000 了](https://2libra.com/post/forum-function/vWdU7ge)
@@ -13,6 +14,7 @@
   - [大家平时释放压力的方式是什么](https://2libra.com/post/questions/4rldvev)
   - [大家赶紧登，虽然昨天刚重置，明日可能又有重置或者重置卡](https://2libra.com/post/usage-tips/TWZM7aq)
   - [女朋友快过生日了 送她什么好呢](https://2libra.com/post/love/eLhzcZF)
+  - [如何识别网络喷子？有啥用处？](https://2libra.com/post/mental-health/Wiwj2aY)
   - [工作越顺利反而没什么成长，反而是遇到棘手的问题，反复折腾后成长最快](https://2libra.com/post/workplace-stories/L_cUDuQ)
   - [左侧菜单的小蓝点可以去掉吗](https://2libra.com/post/forum-function/0KN_kWu)
   - [感觉瑞幸各类特调都一股假甜的味道](https://2libra.com/post/small-things/Mwga3ic)
@@ -28,8 +30,10 @@
   - [这样的虚拟购物软件有钱途吗](https://2libra.com/post/startup-logs/53GS8hx)
 - 404 Media
   - [No Bosses: Ancient Engineering Marvel Was Built Without Rulers, Study Suggests](https://www.404media.co/no-bosses-ancient-engineering-marvel-was-built-without-rulers-study-suggests/)
+  - [This Tool Unmasks the Shadowy World of Ads that Track Your Location](https://www.404media.co/this-tool-unmasks-the-shadowy-world-of-ads-that-track-your-location/)
 - Ars Technica
   - [DEF CON crowd suspected in fake-hotspot attack on Delta flight](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/)
+  - [Did poop enable the evolution of complex animals?](https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/)
   - [Meta can't stop states' $1.4 trillion lawsuit from going to trial](https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/)
 - Articles | InfoStealers
   - [Largest AI Supply Chain Breach of 2026: LiteLLM Hack Impacts Thousands of Global Enterprises – Claim Your Ethical Disclosure](https://www.infostealers.com/article/largest-ai-supply-chain-breach-of-2026-litellm-hack-impacts-thousands-of-global-enterprises-claim-your-ethical-disclosure/)
@@ -41,6 +45,7 @@
   - [Bitcoin drops to one-week low as retail buys gold at highest prices since June](https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC invokes emergency powers to keep Kalshi operating in New York fight](https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase-backed Flowdesk secures full broker-dealer license in Dubai](https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Fidelity files with SEC to add staking to Ethereum ETF](https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FlightAware sues Kalshi over flight cancellation data](https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Following Senate delay, crypto bill has a narrow window to become law](https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Inside the fake crypto startup that fooled North Korean IT workers](https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -61,6 +66,7 @@
 - darkreading
   - [Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA](https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa)
   - [Microsoft's Patch Tuesday Deluge Continues With August Updates](https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues)
+  - [Walmart Leaders Transform Security Operations Without Going Bananas](https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas)
 - defend.network
   - [Windows kernel zero-day exploited; Zoom annotation RCE, Sandworm VPN campaign](https://defend.network/briefings/microsoft-windows-zoom-sandworm-active-exploits-2026-08-12.html)
 - Fidelis Security
@@ -94,6 +100,7 @@
   - [IEEE Engineering Summit Supports Bhutan’s Digital Transformation](https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation)
 - infosecurity-magazine.com
   - [Microsoft Fixes 400 Flaws on August Patch Tuesday](https://www.infosecurity-magazine.com/news/microsoft-fixes-400-flaws-august/)
+  - [NIST Seeks Public Input on AI-Ready NVD Modernization](https://www.infosecurity-magazine.com/news/nist-seeks-public-input-ai-nvd/)
   - [Russian-Linked Hackers Accessed Polish Power Plant OT Network Through Private APN, Says CERT.PL](https://www.infosecurity-magazine.com/news/attack-polish-power-plant-2025-led/)
 - Insinuator.net
   - [ERNW White Paper 79: Integrating Incident Analysis and Digital Forensics Tooling for Automated Compromise Detection](https://insinuator.net/2026/08/ernw-white-paper-79-integrating-incident-analysis-and-digital-forensics-tooling-for-automated-compromise-detection/)
@@ -104,6 +111,7 @@
   - [OTel Isn't Going Well (And I Made A Spreadsheet About It)](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/)
 - MIT Technology Review
   - [How we picked 35 of the world’s top young scientists and engineers](https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/)
+  - [The Download: our 35 young innovators and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/)
 - NowSecure
   - [How NowSecure Is Using AI to Advance Mobile App Security Testing](https://www.nowsecure.com/blog/2026/08/12/how-nowsecure-is-using-ai-to-advance-mobile-app-security-testing/)
 - NVIDIA AI Blog
@@ -151,17 +159,22 @@
   - [New Bitcoin addresses jump as Coldcard exploit pushes users to move funds](https://www.theblock.co/news/ecosystems/2026-08-11-new-bitcoin-addresses-jump-coldcard-exploit-pushes-users-move-funds-411317)
   - [Robinhood Chain hits 11.6 million daily transactions as USDe fuels TVL growth](https://www.theblock.co/news/ecosystems/2026-08-11-robinhood-chain-hits-11-6-million-daily-transactions-as-usde-fuels-tvl-growth-411310)
   - [SEC could propose ‘pivotal’ crypto rules that may start with token safe harbor, TD Cowen says](https://www.theblock.co/news/regulation/2026-08-11-sec-crypto-rules-token-safe-harbor-td-cowen-411455)
+  - [Standard Chartered-backed Anchorpoint begins HKDAP stablecoin rollout](https://www.theblock.co/news/business/2026-08-12-standard-chartered-anchorpoint-hkdap-stablecoin-rollout-411575)
   - [What’s next for the Clarity Act as September brings a tough road ahead](https://www.theblock.co/news/regulation/2026-08-11-whats-next-for-clarity-act-september-brings-tough-road-ahead-411465)
 - The Decoder
   - ["But marinade" and leaked passwords are what researchers found in ChatGPT's hidden reasoning](https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/)
   - [Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance](https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/)
   - [Mistral now offers EU data processing and priority access, but both come with important limits](https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/)
+  - [Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed](https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/)
   - [OpenAI lets employees cash out another $7 billion in stock](https://the-decoder.com/openai-lets-employees-cash-out-another-7-billion-in-stock/)
 - The Verge
   - [Apple could help you prove your iPhone photos aren’t deepfakes](https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata)
   - [ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users)
   - [Google’s free streaming service now lets you pick shows and movies to watch](https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand)
   - [Grok is now an AI ‘teammate’ you can assign work](https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch)
+  - [Honor’s Robot Phone is better than a gimbal in a phone has any right to be](https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera)
+  - [Insta360’s next 360-degree action cam puts bigger sensors in a smaller design](https://www.theverge.com/tech/978211/insta360-x6-360-degree-action-camera-8k-price-availability)
+  - [Of course the ChatGPT dog cancer vaccine spawned a startup](https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee)
   - [Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive)
   - [The budget-friendly Pixel Buds 2a are even cheaper right now](https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale)
   - [Threads has a VR app now](https://www.theverge.com/tech/978181/meta-threads-quest-vr-app)
@@ -746,6 +759,7 @@
   - [CVE-2026-70354 | Microsoft .NET/Visual Studio out-of-bounds write](https://vuldb.com/vuln/388877)
   - [CVE-2026-70355 | Microsoft SharePoint Server cross site scripting](https://vuldb.com/vuln/388815)
   - [CVE-2026-70398 | Red Hat Advanced Cluster Management for Kubernetes multicloud-integrations privileges management](https://vuldb.com/vuln/388903)
+  - [CVE-2026-70465 | Fortinet FortiClientWindows up to 7.2.11/7.4.3 buffer overflow](https://vuldb.com/vuln/388988)
   - [CVE-2026-71331 | Microsoft Windows 10 1809/Server 2019/Server 2022/Server 2025 Azure Attestation Service integer overflow](https://vuldb.com/vuln/388838)
   - [CVE-2026-71362 | Adobe Commerce/Commerce B2B/Magento Open Source improper authorization](https://vuldb.com/vuln/388386)
   - [CVE-2026-71383 | Adobe ColdFusion improper authorization](https://vuldb.com/vuln/388851)
@@ -1181,6 +1195,7 @@
   - [Big Tech Wants to Harvest Your Thoughts](https://www.wired.com/story/book-excerpt-the-vanishing-earth-james-crawford-brain-mining/)
   - [Ego 1300 Electric Mower Review: Tame Your Lawn Without Gas](https://www.wired.com/review/ego-1300-electric-lawn-mower/)
   - [FEMA's ‘Shadow Administrator’ Was Paid by a DOGE Member's Startup for Months](https://www.wired.com/story/femas-shadow-administrator-was-paid-by-a-doge-members-startup-for-months/)
+  - [Honor’s Robot Phone Has a Gimbal-Powered Camera for Vloggers](https://www.wired.com/story/honor-robot-phone/)
   - [How and When to View the Perseid Meteor Shower (August 2026)](https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/)
   - [How to Select the Office Chair That’s Right For You](https://www.wired.com/story/how-to-choose-the-right-office-chair/)
   - [Is It Safe to Eat Lettuce Yet?](https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/)
@@ -1217,6 +1232,7 @@
   - [人形之外，擎羽把“身体”变成具身智能的新变量](https://www.qbitai.com/2026/08/470874.html)
   - [刚刚，Manus恢复独立运营](https://www.qbitai.com/2026/08/470805.html)
 - 黑海洋
+  - [AI支出打断腾讯两位数利润增长势头](https://blog.upx8.com/AI%E6%94%AF%E5%87%BA%E6%89%93%E6%96%AD%E8%85%BE%E8%AE%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF%E5%8A%BF%E5%A4%B4)
   - [没有一个真人员工 日本电气成立“全AI部门”](https://blog.upx8.com/%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E7%9C%9F%E4%BA%BA%E5%91%98%E5%B7%A5-%E6%97%A5%E6%9C%AC%E7%94%B5%E6%B0%94%E6%88%90%E7%AB%8B-%E5%85%A8AI%E9%83%A8%E9%97%A8)
   - [经销商证实：雪佛兰已暂停在华新车销售](https://blog.upx8.com/%E7%BB%8F%E9%94%80%E5%95%86%E8%AF%81%E5%AE%9E-%E9%9B%AA%E4%BD%9B%E5%85%B0%E5%B7%B2%E6%9A%82%E5%81%9C%E5%9C%A8%E5%8D%8E%E6%96%B0%E8%BD%A6%E9%94%80%E5%94%AE)
   - [美国政府设备重新允许使用TikTok应用](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%AE%BE%E5%A4%87%E9%87%8D%E6%96%B0%E5%85%81%E8%AE%B8%E4%BD%BF%E7%94%A8TikTok%E5%BA%94%E7%94%A8)
