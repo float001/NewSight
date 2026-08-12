@@ -2,20 +2,27 @@
 
 - 2Libra
   - [2026 年有什么末日生存的丧尸或者怪物电影电视剧推荐](https://2libra.com/post/recommendations/VVZutLG)
+  - [deepflood 这几天是打不开了吗](https://2libra.com/post/questions/hMIAHei)
   - [【兑换码】开源一个 Agent Skill：一句话把 youtube 和播客链接转小红书帖子](https://2libra.com/post/promotion/OKWNykX)
   - [【旧文重发】发射失败有感，重发一篇笔记～ 🚀🚀🚀](https://2libra.com/post/management-insights/aBgV4-H)
   - [【💰】小鹏汽车推出 AR-HUD 路怒消消气](https://2libra.com/post/automobile/zTbxmMK)
   - [【💰】最近有人参加过面试吗，现在 Java 面试一般都问什么，还是老几样吗](https://2libra.com/post/job-hunting/CY0O-if)
+  - [【💰】用户数超过 8000 了](https://2libra.com/post/forum-function/vWdU7ge)
   - [【💰】终于拿到了【幸运儿】](https://2libra.com/post/forum-function/h5ckUAM)
   - [七夕礼物怎么选](https://2libra.com/post/festival-things/-EIKdub)
   - [大家平时释放压力的方式是什么](https://2libra.com/post/questions/4rldvev)
+  - [女朋友快过生日了 送她什么好呢](https://2libra.com/post/love/eLhzcZF)
   - [工作越顺利反而没什么成长，反而是遇到棘手的问题，反复折腾后成长最快](https://2libra.com/post/workplace-stories/L_cUDuQ)
+  - [左侧菜单的小蓝点可以去掉吗](https://2libra.com/post/forum-function/0KN_kWu)
+  - [感觉瑞幸各类特调都一股假甜的味道](https://2libra.com/post/small-things/Mwga3ic)
   - [我的阅读笔记](https://2libra.com/post/good-books/6hHGm3a)
   - [无限空间画布工具](https://2libra.com/post/open-source-sharing/Zb0k08J)
   - [有没有好用的 RSS 阅读器](https://2libra.com/post/recommendations/eACLqta)
+  - [现在 ai 大模型这么多，大家有做出什么好玩的产品吗](https://2libra.com/post/ai-applications/JBMDtIu)
   - [第一次抽到这个闪闪光环，感觉配上头像还挺好看的，鸡米麻烦开个价，我想永久拥有](https://2libra.com/post/idea/-WynEJJ)
   - [美团“等灯停表”正式上线 即日起在全国 20 城落地试点](https://2libra.com/post/tech-news/e778vSK)
   - [老师，求你了，复盘一下美光吧。](https://2libra.com/post/stock-market/4vq7fuJ)
+  - [蜕变日记（约会日记） 1](https://2libra.com/post/love/h3vlumP)
   - [这样的虚拟购物软件有钱途吗](https://2libra.com/post/startup-logs/53GS8hx)
 - 404 Media
   - [No Bosses: Ancient Engineering Marvel Was Built Without Rulers, Study Suggests](https://www.404media.co/no-bosses-ancient-engineering-marvel-was-built-without-rulers-study-suggests/)
@@ -53,6 +60,7 @@
   - [Windows kernel zero-day exploited; Zoom annotation RCE, Sandworm VPN campaign](https://defend.network/briefings/microsoft-windows-zoom-sandworm-active-exploits-2026-08-12.html)
 - Fidelis Security
   - [Cloud Incident Response: How to Detect, Contain, and Recover from Cloud Threats](https://fidelissecurity.com/threatgeek/cloud-security/cloud-incident-response/)
+  - [How Fidelis Network Behavior Analysis Detects Advanced Threat Activity](https://fidelissecurity.com/threatgeek/network-security/network-behavior-analysis-detects-advanced-threat-activity/)
   - [Incident Response Playbook: How to Build Actionable Workflows Before an Attack Happens](https://fidelissecurity.com/threatgeek/threat-detection-response/incident-response-playbook/)
 - Google AI Blog
   - [AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/)
@@ -70,12 +78,19 @@
   - [From Scanner Findings to Verifiable Web Application Risk](https://horizon3.ai/customer-story/cloud-native-webapp-security-validation/)
 - IEEE Spectrum
   - [IEEE Engineering Summit Supports Bhutan’s Digital Transformation](https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation)
+- infosecurity-magazine.com
+  - [Microsoft Fixes 400 Flaws on August Patch Tuesday](https://www.infosecurity-magazine.com/news/microsoft-fixes-400-flaws-august/)
 - Insinuator.net
+  - [ERNW White Paper 79: Integrating Incident Analysis and Digital Forensics Tooling for Automated Compromise Detection](https://insinuator.net/2026/08/ernw-white-paper-79-integrating-incident-analysis-and-digital-forensics-tooling-for-automated-compromise-detection/)
   - [TIA Project Parser](https://insinuator.net/2026/08/tia-project-parser/)
 - krebsonsecurity.com
   - [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
 - NVIDIA AI Blog
   - [NVIDIA AI Factory Compute Is Becoming an Investable Asset Class](https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/)
+- pluralistic.net
+  - [Pluralistic: Model collapse (12 Aug 2026)](https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/)
+- PortSwigger Blog
+  - [Can AI invent new attack techniques? New research from James Kettle and PortSwigger Research](https://portswigger.net/blog/can-ai-invent-new-attack-techniques-new-research-from-james-kettle-and-portswigger-research)
 - shkspr.mobi
   - [Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/)
   - [Edinburgh Fringe: Afronauts ★★★★☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-afronauts/)
@@ -84,6 +99,8 @@
 - simonwillison.net
   - [Stealing Reasoning Traces from Proprietary LLM APIs](https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything)
   - [There are no lossless transformations of natural-language text](https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything)
+- Smartphone Security
+  - [SIM-originierende AT-Kommandos (CATana)](https://smartphone-attack-vector.de/sim-originierende-at-kommandos-catana/)
 - Sploitus.com Exploits RSS Feed
   - [cyberange exploit](https://sploitus.com/exploit?id=2C66848B-89D7-5B08-A5BB-8B629006B8FF&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -100,6 +117,7 @@
   - [Uber surprised robotics company Serve by selling its entire stake](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/)
   - [What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?](https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/)
 - The Block
+  - [Australian regulator takes down Yepbit websites as investors report blocked withdrawals](https://www.theblock.co/news/regulation/2026-08-12-australian-regulator-takes-down-yepbit-websites-411538)
   - [Bitwise cuts 14% of staff as crypto layoffs mount during market downturn](https://www.theblock.co/news/business/2026-08-12-bitwise-layoffs-411522)
   - [CFTC flexes emergency authority to keep Kalshi operating amid New York lawsuit](https://www.theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507)
   - [ENS Foundation takes administrative control of $65 million Endowment following tokenholder vote](https://www.theblock.co/news/ecosystems/2026-08-11-ens-foundation-administrative-control-65-million-endowment-tokenholder-vote-411464)
@@ -123,6 +141,8 @@
   - [Xbox Elite 3 prototype pad leaks with tiny built-in screen](https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen)
 - Trail of Bits Blog
   - [How Trail of Bits helps verify the integrity of your Signal chats](https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/)
+- troyhunt.com
+  - [Weekly Update 516: Live From Vietnam](https://www.troyhunt.com/weekly-update-516/)
 - VulDB Recent Entries
   - [CVE-2016-20097 | Weaver Network E-cology 8.0 SignatureDownLoad servlet markId sql injection](https://vuldb.com/vuln/388347)
   - [CVE-2022-50997 | Weaver Network E-cology up to 10.52 HrmCareerApplyPerView.jsp ID sql injection](https://vuldb.com/vuln/388344)
@@ -133,6 +153,9 @@
   - [CVE-2025-31938 | Intel Xeon 6 Scalable processors TDX access control](https://vuldb.com/vuln/388213)
   - [CVE-2025-35973 | Intel Processors Kernel/Hypervisor privileges management](https://vuldb.com/vuln/388214)
   - [CVE-2025-35987 | Intel Software Guard Extensions Data Center Attestation Primitives Ring 0 information disclosure](https://vuldb.com/vuln/388211)
+  - [CVE-2025-41769 | Phoenix Contact EPC 1522 up to 2026.0.2 PROFINET service buffer overflow](https://vuldb.com/vuln/388966)
+  - [CVE-2025-41770 | Phoenix Contact PLCnext Engineer up to 2026.0.2 Communication Interface denial of service](https://vuldb.com/vuln/388967)
+  - [CVE-2025-41771 | Phoenix Contact EPC 1522 up to 2026.0.2 Web Interface sql injection](https://vuldb.com/vuln/388968)
   - [CVE-2025-48505 | AMD Vitis Unified up to 2026.0 permission](https://vuldb.com/vuln/388233)
   - [CVE-2025-48506 | AMD Vitis Unified Installer up to 2026.0 uncontrolled search path](https://vuldb.com/vuln/388234)
   - [CVE-2025-54512 | AMD Ryzen Master/Ryzen Master SDK uncontrolled search path](https://vuldb.com/vuln/388354)
@@ -1118,6 +1141,7 @@
   - [Is It Safe to Eat Lettuce Yet?](https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/)
 - 不安全
   - [Reading the room is a trainable skill, so I built something to actually do reps on it](https://buaq.net/go-434575.html)
+  - [SIM-originierende AT-Kommandos (CATana)](https://buaq.net/go-434607.html)
   - [嗯？火狐浏览器GPG密钥被意外发布到某个无关的私有仓库 现已轮换密钥](https://buaq.net/go-434568.html)
   - [扣子发布紧急更新停止使用Coze CLI技能劫持工作流 不过仍然静默安装技能](https://buaq.net/go-434558.html)
 - 代码审计星球
