@@ -2,11 +2,15 @@
 
 - 2Libra
   - [gork4.6 开登](https://2libra.com/post/large-models/DWuCh74)
+  - [【💰】提问，租房党自己买空调划算吗？](https://2libra.com/post/recommendations/8_-7uBq)
+  - [【💰】爆率拉满，各位富哥来锐评一下 600 块的瑞幸·crocs 联名款你会买吗](https://2libra.com/post/worth-buying/5wTbyES)
   - [今天收到一个钓鱼短信，这种网站怎么把他搞死](https://2libra.com/post/network-security/LzddBlB)
   - [历经 51 天签到，也是到 7 级了](https://2libra.com/post/forum-function/PDocjog)
   - [大家早上坏 我是薛珍珠女士 今天不抓小三 今天送点流量给大家](https://2libra.com/post/promotion/Kk4W2OA)
   - [我们论坛是登陆就自动签到吗？](https://2libra.com/post/forum-function/28R1ZHR)
+  - [换手机，推荐一下](https://2libra.com/post/phone/0rEgmnk)
   - [无限空间灵感画布优化版](https://2libra.com/post/promotion/MIzuyEL)
+  - [最近看到有个工具 herdr 有用过吗，可跨 agent 通信。](https://2libra.com/post/ai-tools/fzNpFHO)
 - 404 Media
   - [Here's the Manual for ICE's Electric Shock Gloves](https://www.404media.co/heres-the-manual-for-ices-electric-shock-gloves/)
   - [Twitch is Mining Peoples' Streams to Train Amazon's AI](https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/)
@@ -295,3 +299,4 @@
 - 黑海洋
   - [标准版iPhone 18预估延后至明年春季推出](https://blog.upx8.com/%E6%A0%87%E5%87%86%E7%89%88iPhone-18%E9%A2%84%E4%BC%B0%E5%BB%B6%E5%90%8E%E8%87%B3%E6%98%8E%E5%B9%B4%E6%98%A5%E5%AD%A3%E6%8E%A8%E5%87%BA)
   - [苹果洽谈向出版商付费 以改进AI驱动的Siri](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%B4%BD%E8%B0%88%E5%90%91%E5%87%BA%E7%89%88%E5%95%86%E4%BB%98%E8%B4%B9-%E4%BB%A5%E6%94%B9%E8%BF%9BAI%E9%A9%B1%E5%8A%A8%E7%9A%84Siri)
+  - [调查显示：超80%日本企业未全面使用AI](https://blog.upx8.com/%E8%B0%83%E6%9F%A5%E6%98%BE%E7%A4%BA-%E8%B6%8580-%E6%97%A5%E6%9C%AC%E4%BC%81%E4%B8%9A%E6%9C%AA%E5%85%A8%E9%9D%A2%E4%BD%BF%E7%94%A8AI)
