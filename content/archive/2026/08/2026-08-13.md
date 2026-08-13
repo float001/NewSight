@@ -8,6 +8,7 @@
   - [Terabytes of credentials leaked in massive supply-chain attack](https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/)
   - [US tries to override New York gambling laws, orders Kalshi to keep operating](https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/)
 - CoinTelegraph
+  - [Arizona crypto ATM law helps 35 scam victims recover $171K](https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bank of England tests stablecoin, digital pound interoperability in cross-border payments](https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FlightAware drops Kalshi lawsuit one day after filing](https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Goldman Sachs to acquire ETF manager NEOS in $2.25B deal](https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -33,6 +34,7 @@
   - [Bike Bureau: Report Bike Lane Obstructions](https://loudbicycle.com/bb)
   - [DeepSeek V4 Pro 0813 quietly released](https://api-docs.deepseek.com/guides/responses_api/)
   - [Glaciers on the Climate Dashboard](https://climate.metoffice.cloud/glaciers.html)
+  - [Show HN: A marketplace where AI agents buy services from AI agents](https://aaas-marketplace-1089237826218.asia-northeast1.run.app)
   - [Wednesday, August 12: GitHub, Incident with Pull Requests and Issues](https://www.githubstatus.com/incidents/76t89hbfb09h)
   - [Your Key to Success Isn't More Luck or Hard Work](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
   - [Zed: Delta](https://zed.dev/blog/introducing-delta)
@@ -58,6 +60,8 @@
   - [Tesla wants to build a $10B solar factory in Texas](https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/)
   - [Uber Freight reportedly investigating after hacking group claims data breach](https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/)
   - [Why Stream ring-maker Sandbar says the future of AI wearables is voice](https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/)
+- text/plain
+  - [Attack Technique: AI Clones](https://textslashplain.com/2026/08/12/attack-technique-ai-clones/)
 - The Block
   - [Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)
   - [Goldman Sachs to gain bitcoin and ETH income ETFs in up to $2.25 billion Neos acquisition](https://www.theblock.co/news/business/2026-08-12-goldman-sachs-bitcoin-ether-income-etfs-neos-deal-411618)
@@ -99,6 +103,7 @@
   - [CVE-2026-13476 | IBM Informix Dynamic Server 12.10/14.10/15.0 code injection](https://vuldb.com/vuln/389275)
   - [CVE-2026-13622 | KubeVirt virt-handler symlink](https://vuldb.com/vuln/389086)
   - [CVE-2026-14866 | IBM i Access Client Solutions up to 1.1.9.13 certificate validation](https://vuldb.com/vuln/389248)
+  - [CVE-2026-15141 | TP-Link TL-WR820N v2 Web Interface Referer information disclosure](https://vuldb.com/vuln/389313)
   - [CVE-2026-15216 | GitLab up to 19.0.5/19.1.3/19.2.1 Analytics Dashboard cross site scripting](https://vuldb.com/vuln/389179)
   - [CVE-2026-15217 | GitLab up to 19.0.5/19.1.3/19.2.1 Analytics Dashboard cross site scripting](https://vuldb.com/vuln/389180)
   - [CVE-2026-15423 | GitLab up to 19.0.5/19.1.3/19.2.1 Pipeline Reference Validation privileges management](https://vuldb.com/vuln/389147)
@@ -109,6 +114,7 @@
   - [CVE-2026-16627 | GitLab up to 19.2.1 CI Job Modal privileges management](https://vuldb.com/vuln/389148)
   - [CVE-2026-16694 | IBM i 7.3/7.4/7.5/7.6 cross site scripting](https://vuldb.com/vuln/389103)
   - [CVE-2026-16695 | IBM i Access Client Solutions up to 1.1.9.13 os command injection](https://vuldb.com/vuln/389286)
+  - [CVE-2026-16770 | MITHALDU PDF::WebKit up to 1.2 Meta Tags _pdf_webkit_meta_tags KEY/VALUE argument injection](https://vuldb.com/vuln/389319)
   - [CVE-2026-16856 | IBM i 7.5/7.6 os command injection](https://vuldb.com/vuln/389142)
   - [CVE-2026-16860 | IBM i 7.3/7.4/7.5/7.6 untrusted search path](https://vuldb.com/vuln/389130)
   - [CVE-2026-16863 | IBM i 7.3/7.4/7.5/7.6 out-of-bounds](https://vuldb.com/vuln/389131)
@@ -131,6 +137,7 @@
   - [CVE-2026-17418 | IBM i 7.3/7.4/7.5/7.6 neutralization](https://vuldb.com/vuln/389125)
   - [CVE-2026-17419 | IBM i up to 7.3/7.4/7.5/7.6 neutralization](https://vuldb.com/vuln/389120)
   - [CVE-2026-17420 | IBM i 7.3/7.4/7.5/7.6 neutralization](https://vuldb.com/vuln/389140)
+  - [CVE-2026-17431 | PDF::WebKit up to 1.2 to_pdf/_style_tag_for os command injection](https://vuldb.com/vuln/389315)
   - [CVE-2026-17616 | IBM Security Verify Access Reverse Proxy inadequate encryption](https://vuldb.com/vuln/389244)
   - [CVE-2026-18096 | IBM Db2 12.1.5 memory leak](https://vuldb.com/vuln/389276)
   - [CVE-2026-18097 | IBM Db2 up to 11.5.9/12.1.5 information disclosure](https://vuldb.com/vuln/389272)
@@ -177,6 +184,10 @@
   - [CVE-2026-4879 | GitLab up to 19.0.5/19.1.3/19.2.1 Merge Request API Endpoint improper authorization](https://vuldb.com/vuln/389175)
   - [CVE-2026-49466 | dartiss Draft List Plugin up to 2.6.3 on WordPress Shortcode/Widget cross site scripting](https://vuldb.com/vuln/389222)
   - [CVE-2026-49467 | smp46 Pingvin Share X up to 1.18.0 TOTP Settings auth.service.ts authenticateUser improper synchronization](https://vuldb.com/vuln/389124)
+  - [CVE-2026-49473 | cedar-policy Authorization for Expressjs up to 0.2.x improper authorization](https://vuldb.com/vuln/389317)
+  - [CVE-2026-49481 | seriousm4x UpSnap up to 5.3.x Device Management ip/mac os command injection](https://vuldb.com/vuln/389314)
+  - [CVE-2026-49819 | seriousm4x UpSnap up to 5.3.5 backend/pb/handlers.go pb.HandlerInitSuperuser improper authentication](https://vuldb.com/vuln/389316)
+  - [CVE-2026-50544 | NortheBridge LuminalShine prior 26.05.0-rc4 File Permissions misc.cpp permission assignment](https://vuldb.com/vuln/389318)
   - [CVE-2026-59914 | Dell Display and Peripheral Manager 1.3/2.1.2.12/2.2.0.18 privileges management](https://vuldb.com/vuln/389220)
   - [CVE-2026-59916 | Dell Display and Peripheral Manager 1.3/2.1.2.12/2.2.0.18 access control](https://vuldb.com/vuln/389178)
   - [CVE-2026-59917 | Dell Display and Peripheral Manager 1.3/2.1.2.12/2.2.0.18 access control](https://vuldb.com/vuln/389221)
@@ -262,6 +273,7 @@
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Qualys Introduces Real-Time Cloud Security Posture Management (CSPM) for Faster Risk Detection and Remediation](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
+  - [CVE-2026-49481 UpSnap vulnerable to Remote Code Execution via IP Field Template Injection in wake_cmd/shutdown_cmd](https://vulners.com/cvelist/CVELIST:CVE-2026-49481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cyberange](https://vulners.com/gitee/77945363-383E-5318-BEBD-45FBF43DDC4A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Rogue AI Agents Aren’t Evil. They’re Just Eager to Please](https://www.wired.com/story/rogue-ai-is-just-misunderstood/)
@@ -273,3 +285,5 @@
 - 爱范儿
   - [回来了，马斯克带着 24 小时干活的 Agent 回来了](https://www.ifanr.com/1674851?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测 DeepSeek V4 Pro 正式版：能力直逼 Fable 5，还藏了一个大招](https://www.ifanr.com/1674965?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [标准版iPhone 18预估延后至明年春季推出](https://blog.upx8.com/%E6%A0%87%E5%87%86%E7%89%88iPhone-18%E9%A2%84%E4%BC%B0%E5%BB%B6%E5%90%8E%E8%87%B3%E6%98%8E%E5%B9%B4%E6%98%A5%E5%AD%A3%E6%8E%A8%E5%87%BA)
