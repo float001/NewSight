@@ -4,6 +4,8 @@
   - [gork4.6 开登](https://2libra.com/post/large-models/DWuCh74)
   - [今天收到一个钓鱼短信，这种网站怎么把他搞死](https://2libra.com/post/network-security/LzddBlB)
   - [历经 51 天签到，也是到 7 级了](https://2libra.com/post/forum-function/PDocjog)
+  - [大家早上坏 我是薛珍珠女士 今天不抓小三 今天送点流量给大家](https://2libra.com/post/promotion/Kk4W2OA)
+  - [我们论坛是登陆就自动签到吗？](https://2libra.com/post/forum-function/28R1ZHR)
   - [无限空间灵感画布优化版](https://2libra.com/post/promotion/MIzuyEL)
 - 404 Media
   - [Here's the Manual for ICE's Electric Shock Gloves](https://www.404media.co/heres-the-manual-for-ices-electric-shock-gloves/)
@@ -292,3 +294,4 @@
   - [实测 DeepSeek V4 Pro 正式版：能力直逼 Fable 5，还藏了一个大招](https://www.ifanr.com/1674965?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [标准版iPhone 18预估延后至明年春季推出](https://blog.upx8.com/%E6%A0%87%E5%87%86%E7%89%88iPhone-18%E9%A2%84%E4%BC%B0%E5%BB%B6%E5%90%8E%E8%87%B3%E6%98%8E%E5%B9%B4%E6%98%A5%E5%AD%A3%E6%8E%A8%E5%87%BA)
+  - [苹果洽谈向出版商付费 以改进AI驱动的Siri](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%B4%BD%E8%B0%88%E5%90%91%E5%87%BA%E7%89%88%E5%95%86%E4%BB%98%E8%B4%B9-%E4%BB%A5%E6%94%B9%E8%BF%9BAI%E9%A9%B1%E5%8A%A8%E7%9A%84Siri)
