@@ -12,6 +12,7 @@
   - [无限空间灵感画布优化版](https://2libra.com/post/promotion/MIzuyEL)
   - [最近看到有个工具 herdr 有用过吗，可跨 agent 通信。](https://2libra.com/post/ai-tools/fzNpFHO)
   - [请教本站 Java 大佬](https://2libra.com/post/tech-qa/ANfpeNp)
+  - [跑了几天漫展 发点 plmm](https://2libra.com/post/animation-sharing/45y1UrY)
   - [送福利，动态流量来就领](https://2libra.com/post/promotion/NfQ8axN)
 - 404 Media
   - [Here's the Manual for ICE's Electric Shock Gloves](https://www.404media.co/heres-the-manual-for-ices-electric-shock-gloves/)
@@ -26,6 +27,7 @@
   - [FlightAware drops Kalshi lawsuit one day after filing](https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Goldman Sachs to acquire ETF manager NEOS in $2.25B deal](https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hawaii crypto ATM ban to take effect on Oct. 1](https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer](https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NYC council announces probe into ‘predatory marketing practices’ on prediction markets](https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -188,6 +190,8 @@
   - [CVE-2026-18952 | AWS OpenSearch up to 3.4.x Threat Intelligence Feed Parser server-side request forgery](https://vuldb.com/vuln/389162)
   - [CVE-2026-19003 | MongoDB BI Connector ODBC Driver up to 1.4.8 File/Folder Selection buffer overflow](https://vuldb.com/vuln/389293)
   - [CVE-2026-19130 | Red Hat Multicluster Engine for Kubernetes provider-credential-controller copiedFrom authorization](https://vuldb.com/vuln/389279)
+  - [CVE-2026-19135 | OpenNMS Group Horizon/Meridian prior 2024.3.12/2025.0.9/36.0.3 Measurements REST API privileges management](https://vuldb.com/vuln/389336)
+  - [CVE-2026-19182 | OpenNMS Group Meridian/Horizon v2 Alarm REST API improper authorization](https://vuldb.com/vuln/389337)
   - [CVE-2026-19228 | GitLab up to 19.1.3/19.2.1 improper authorization](https://vuldb.com/vuln/389173)
   - [CVE-2026-19311 | Amazon OpenSearch Alerting data_source/input_index improper authorization](https://vuldb.com/vuln/389161)
   - [CVE-2026-19502 | MongoDB Schema Builder CLI up to 1.2.0 missing encryption](https://vuldb.com/vuln/389257)
@@ -304,6 +308,8 @@
   - [The White House Is Going to Expand Its AI Policy](https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/)
 - 不安全
   - [2026-08-12: SmartApeSG ClickFix leads to two RATs](https://buaq.net/go-434813.html)
+  - [Microsoft Defender误杀VLC播放器插件 用户可能会遇到卡住的情况 需要重新安装VLC](https://buaq.net/go-434819.html)
+  - [深度求索发布DeepSeek-V4-Pro-0813 该模型从预览版正式进入GA阶段](https://buaq.net/go-434820.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -311,6 +317,7 @@
   - [实测 DeepSeek V4 Pro 正式版：能力直逼 Fable 5，还藏了一个大招](https://www.ifanr.com/1674965?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [对话影石创始人刘靖康：全景相机的新范式，是「空间相机」](https://www.ifanr.com/1675029?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [DeepMind CEO卸任前推动成立AI安全机构](https://blog.upx8.com/DeepMind-CEO%E5%8D%B8%E4%BB%BB%E5%89%8D%E6%8E%A8%E5%8A%A8%E6%88%90%E7%AB%8BAI%E5%AE%89%E5%85%A8%E6%9C%BA%E6%9E%84)
   - [无视微软起诉威胁：安全研究员继续公布新的Windows零日漏洞](https://blog.upx8.com/%E6%97%A0%E8%A7%86%E5%BE%AE%E8%BD%AF%E8%B5%B7%E8%AF%89%E5%A8%81%E8%83%81-%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%91%98%E7%BB%A7%E7%BB%AD%E5%85%AC%E5%B8%83%E6%96%B0%E7%9A%84Windows%E9%9B%B6%E6%97%A5%E6%BC%8F%E6%B4%9E)
   - [标准版iPhone 18预估延后至明年春季推出](https://blog.upx8.com/%E6%A0%87%E5%87%86%E7%89%88iPhone-18%E9%A2%84%E4%BC%B0%E5%BB%B6%E5%90%8E%E8%87%B3%E6%98%8E%E5%B9%B4%E6%98%A5%E5%AD%A3%E6%8E%A8%E5%87%BA)
   - [苹果洽谈向出版商付费 以改进AI驱动的Siri](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%B4%BD%E8%B0%88%E5%90%91%E5%87%BA%E7%89%88%E5%95%86%E4%BB%98%E8%B4%B9-%E4%BB%A5%E6%94%B9%E8%BF%9BAI%E9%A9%B1%E5%8A%A8%E7%9A%84Siri)
