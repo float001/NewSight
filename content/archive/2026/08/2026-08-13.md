@@ -11,6 +11,7 @@
   - [换手机，推荐一下](https://2libra.com/post/phone/0rEgmnk)
   - [无限空间灵感画布优化版](https://2libra.com/post/promotion/MIzuyEL)
   - [最近看到有个工具 herdr 有用过吗，可跨 agent 通信。](https://2libra.com/post/ai-tools/fzNpFHO)
+  - [请教本站 Java 大佬](https://2libra.com/post/tech-qa/ANfpeNp)
   - [送福利，动态流量来就领](https://2libra.com/post/promotion/NfQ8axN)
 - 404 Media
   - [Here's the Manual for ICE's Electric Shock Gloves](https://www.404media.co/heres-the-manual-for-ices-electric-shock-gloves/)
@@ -25,6 +26,7 @@
   - [FlightAware drops Kalshi lawsuit one day after filing](https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Goldman Sachs to acquire ETF manager NEOS in $2.25B deal](https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hawaii crypto ATM ban to take effect on Oct. 1](https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer](https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NYC council announces probe into ‘predatory marketing practices’ on prediction markets](https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Apache Gravitino 1.2.1 SSRF](https://cxsecurity.com/issue/WLB-2026080004)
@@ -229,6 +231,7 @@
   - [CVE-2026-71471 | Red Hat Advanced Cluster Management for Kubernetes Search Collector.ImageOverride os command injection](https://vuldb.com/vuln/389306)
   - [CVE-2026-71473 | Red Hat Advanced Cluster Management for Kubernetes search-v2-operator privileges management](https://vuldb.com/vuln/389305)
   - [CVE-2026-71846 | Red Hat Advanced Cluster Management for Kubernetes insights-client privileges management](https://vuldb.com/vuln/389308)
+  - [CVE-2026-72506 | VoiceTra up to 9.2.0 input validation](https://vuldb.com/vuln/389335)
   - [CVE-2026-72508 | Red Hat Advanced Cluster Management for Kubernetes multicloud-operators-subscription privileges management](https://vuldb.com/vuln/389232)
   - [CVE-2026-72786 | Craft CMS up to 5.10.7 User ElementsController.php save newPassword permission](https://vuldb.com/vuln/389181)
   - [CVE-2026-72787 | CraftCMS up to 5.10.7 Control Panel cross site scripting](https://vuldb.com/vuln/389182)
