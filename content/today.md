@@ -45,6 +45,7 @@
   - [Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer](https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NYC council announces probe into ‘predatory marketing practices’ on prediction markets](https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Securitize falls 16% after earnings miss, tokenization revenue drops](https://cointelegraph.com/news/securitize-falls-earnings-miss-tokenization-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje](https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Apache Gravitino 1.2.1 SSRF](https://cxsecurity.com/issue/WLB-2026080004)
   - [iOS Bluetooth PAN - Zero-Cost Ethernet Gateway (USB Port 62078)](https://cxsecurity.com/issue/WLB-2026080005)
@@ -124,8 +125,11 @@
   - [Trump sued over Truth Social’s early-access feed as firm explores licensing data to prediction markets](https://www.theblock.co/news/business/2026-08-12-trump-sued-truth-social-early-access-feed-firm-explores-licensing-data-prediction-markets-411628)
 - The Decoder
   - [AI tools for breast cancer detection fall short of radiologists' expectations](https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/)
+  - [Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser](https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/)
+  - [Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling](https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/)
   - [Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy](https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/)
   - [SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price](https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/)
+  - [Top AI lab researchers warned about automated AI research, and several of their predicted milestones have already fallen](https://the-decoder.com/top-ai-lab-researchers-warned-about-automated-ai-research-and-several-of-their-predicted-milestones-have-already-fallen/)
 - The Verge
   - [Amazon gets out of the MMO game](https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations)
   - [Cats and dogs are missing meals after a popular smart feeder went down](https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders)
@@ -143,8 +147,10 @@
   - [CVE-2026-11923 | IBM Security Verify Access up to 10.0.9.2/11.0.3 Reverse Proxy inadequate encryption](https://vuldb.com/vuln/389228)
   - [CVE-2026-11932 | IBM Security Verify Access denial of service](https://vuldb.com/vuln/389245)
   - [CVE-2026-11937 | IBM Security Verify Access Reverse Proxy denial of service](https://vuldb.com/vuln/389229)
+  - [CVE-2026-11970 | Forcepoint One Endpoint up to 26.04.5757 SafariExtension privileges management](https://vuldb.com/vuln/389369)
   - [CVE-2026-12004 | IBM Security Verify Access Management Interface format string](https://vuldb.com/vuln/389225)
   - [CVE-2026-12005 | IBM Security Verify Access Management Interface privileges management](https://vuldb.com/vuln/389226)
+  - [CVE-2026-12263 | Zohocorp Password Manager Pro/PAM360 improper authentication](https://vuldb.com/vuln/389370)
   - [CVE-2026-12359 | IBM Security Verify Access information disclosure](https://vuldb.com/vuln/389227)
   - [CVE-2026-12618 | IBM Security Verify Access privileges management](https://vuldb.com/vuln/389230)
   - [CVE-2026-13094 | IBM i Access Client Solutions up to 1.1.9.13 privileges management](https://vuldb.com/vuln/389278)
@@ -352,10 +358,12 @@
 - Wired
   - [5 Best Android Tablets in 2026: Samsung, TCL, Amazon, and More](https://www.wired.com/story/the-best-android-tablets/)
   - [CBP Workers Allegedly Used Government Databases to Spy on Exes, Crushes, and Colleagues](https://www.wired.com/story/cbp-workers-allegedly-used-government-databases-to-spy-on-exes-crushes-and-colleagues/)
+  - [In a Heat Wave, Schizophrenia Is So Much Deadlier Than Any Other Medical Condition](https://www.wired.com/story/heat-wave-schizophrenia/)
   - [Rogue AI Agents Aren’t Evil. They’re Just Eager to Please](https://www.wired.com/story/rogue-ai-is-just-misunderstood/)
   - [The 10 Best Cooling Mattresses for Hot Sleepers (2026)](https://www.wired.com/gallery/best-cooling-mattress/)
   - [The Best Photos of the Big August Solar Eclipse](https://www.wired.com/story/best-photos-august-solar-eclipse-spain/)
   - [The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden](https://www.wired.com/story/lettuce-grow-20-percent-off-2026/)
+  - [The Google Pixelsnap Charger With Stand Is 50 Percent Off Right Now](https://www.wired.com/story/google-pixelsnap-charger-and-stand-50-percent-off/)
   - [The White House Is Going to Expand Its AI Policy](https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/)
   - [There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It](https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/)
 - 不安全
@@ -377,3 +385,4 @@
   - [标准版iPhone 18预估延后至明年春季推出](https://blog.upx8.com/%E6%A0%87%E5%87%86%E7%89%88iPhone-18%E9%A2%84%E4%BC%B0%E5%BB%B6%E5%90%8E%E8%87%B3%E6%98%8E%E5%B9%B4%E6%98%A5%E5%AD%A3%E6%8E%A8%E5%87%BA)
   - [苹果洽谈向出版商付费 以改进AI驱动的Siri](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%B4%BD%E8%B0%88%E5%90%91%E5%87%BA%E7%89%88%E5%95%86%E4%BB%98%E8%B4%B9-%E4%BB%A5%E6%94%B9%E8%BF%9BAI%E9%A9%B1%E5%8A%A8%E7%9A%84Siri)
   - [调查显示：超80%日本企业未全面使用AI](https://blog.upx8.com/%E8%B0%83%E6%9F%A5%E6%98%BE%E7%A4%BA-%E8%B6%8580-%E6%97%A5%E6%9C%AC%E4%BC%81%E4%B8%9A%E6%9C%AA%E5%85%A8%E9%9D%A2%E4%BD%BF%E7%94%A8AI)
+  - [长鑫超越腾讯成中国市值最大的上市公司](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E8%B6%85%E8%B6%8A%E8%85%BE%E8%AE%AF%E6%88%90%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8)
