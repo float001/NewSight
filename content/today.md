@@ -1,5 +1,8 @@
 # 今日安全资讯（2026-08-14）
 
+- 2Libra
+  - [每天一分钟，知晓天下事！2026 年 8 月 14 日](https://2libra.com/post/social-observation/yTwepYd)
+  - [🫂 拥抱脸的内测邀请](https://2libra.com/post/promotion/ud3hjdo)
 - 404 Media
   - [Person Hides Prompt Injection in Legal Filing Telling AI to Side With Them](https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/)
 - Ars Technica
@@ -23,12 +26,14 @@
   - [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
   - [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
   - [Tocharian Online](https://lrc.la.utexas.edu/eieol/tokol/0)
+  - [US sells 30-year bonds at highest borrowing costs since 2001](https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9)
   - [Where did the old web go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
 - Horizon3.ai
   - [CVE-2026-72898 | Metabase Pre-Authentication SQL Injection Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-72898/)
 - MIT Technology Review
   - [Building a practical path to post-quantum cryptography](https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/)
 - shkspr.mobi
+  - [Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/)
   - [Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/)
   - [Edinburgh Fringe: Miscast Sondheim ★★☆☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/)
   - [Edinburgh Fringe: The Musical Mystery Caller ★★★★★](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/)
@@ -39,6 +44,7 @@
   - [Ford on track to complete $2B factory overhaul for Fathom EV truck](https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/)
   - [IBM partners with OpenAI to bolster enterprise AI push](https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/)
   - [If Apple sends you a push notification alerting you to a spyware attack, take it seriously](https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/)
+  - [Investors sue Selena Gomez alleging fraud tied to her mental health startup](https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/)
   - [OpenAI hires new CRO as executive shake-up continues](https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/)
   - [OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/)
   - [Writer introduces new AI model and upgraded harness to contain token costs](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/)
@@ -156,6 +162,7 @@
   - [CVE-2026-23603 | Gitea up to 1.26.4 OAuth2 server-side request forgery](https://vuldb.com/vuln/389677)
   - [CVE-2026-24059 | Gitea up to 1.25.4 API Scope Middleware registration-token privileges management](https://vuldb.com/vuln/389670)
   - [CVE-2026-24791 | Gitea up to 1.26.1 API Routes /api/v1/user improper authorization](https://vuldb.com/vuln/389671)
+  - [CVE-2026-33818 | Google Go up to 1.25.12/1.26.5 encoding-asn1 Unmarshal resource consumption](https://vuldb.com/vuln/389930)
   - [CVE-2026-42931 | Gitea up to 1.24 NPM Package Tag Endpoint io.ReadAll denial of service](https://vuldb.com/vuln/389678)
   - [CVE-2026-45725 | oscal-compass compliance-trestle up to 3.12.1/4.0.2 Remote Fetching Cache Mechanism path traversal](https://vuldb.com/vuln/389817)
   - [CVE-2026-45774 | oscal-compass compliance-trestle up to 3.12.1/4.0.2 Profile Import Mechanism resolve imports[].href path traversal](https://vuldb.com/vuln/389813)
@@ -177,6 +184,13 @@
   - [CVE-2026-56657 | Gitea up to 1.26.4 SSH Key Parser resource consumption](https://vuldb.com/vuln/389686)
   - [CVE-2026-56750 | Gitea up to 1.26.4 improper authentication](https://vuldb.com/vuln/389687)
   - [CVE-2026-56755 | Gitea up to 1.26.4 denial of service](https://vuldb.com/vuln/389674)
+  - [CVE-2026-56853 | Go nethttp up to 1.25.12/1.26.5 allocation of resources](https://vuldb.com/vuln/389923)
+  - [CVE-2026-56858 | Google html-template up to 1.25.12/1.26.5 cross site scripting](https://vuldb.com/vuln/389932)
+  - [CVE-2026-56859 | Go encoding/xml up to 1.25.12/1.26.5 DecodeElement allocation of resources](https://vuldb.com/vuln/389931)
+  - [CVE-2026-56860 | Go standard library url up to 1.25.12/1.26.5 Path Resolution algorithmic complexity](https://vuldb.com/vuln/389919)
+  - [CVE-2026-56862 | Go crypto tls up to 1.25.12/1.26.5 Client allocation of resources](https://vuldb.com/vuln/389916)
+  - [CVE-2026-56864 | Google Go cmd/go/x-mod-sumdb signature verification](https://vuldb.com/vuln/389924)
+  - [CVE-2026-56865 | Go x-mod-sumdb-tlog signature verification](https://vuldb.com/vuln/389927)
   - [CVE-2026-57886 | Gitea up to 1.26.4 information disclosure](https://vuldb.com/vuln/389688)
   - [CVE-2026-57894 | Gitea up to 1.26.4 redirect](https://vuldb.com/vuln/389689)
   - [CVE-2026-57897 | Gitea up to 1.26.4 Actions information disclosure](https://vuldb.com/vuln/389675)
@@ -263,7 +277,19 @@
   - [CVE-2026-72741 | Goodrain Rainbond up to 6.9.7 CheckToken privileges management](https://vuldb.com/vuln/389742)
   - [CVE-2026-72776 | Fosowl AgenticSeek up to 2.41.1 BashInterpreter subprocess.Popen os command injection (fc242c7)](https://vuldb.com/vuln/389903)
   - [CVE-2026-72777 | DayuanJiang next-ai-draw-io up to 0.4.16 /api/parse-url server-side request forgery](https://vuldb.com/vuln/389751)
+  - [CVE-2026-72839 | Filebrowser up to 2.63.16 permission](https://vuldb.com/vuln/389915)
+  - [CVE-2026-72840 | OpenWrt luci-mod-system-mounts /etc/crontabs/root file.write privileges management](https://vuldb.com/vuln/389920)
+  - [CVE-2026-72841 | OpenWrt LuCI OpenVPN instance_name2 path traversal](https://vuldb.com/vuln/389917)
+  - [CVE-2026-72842 | OpenWrt LuCI LXC lxc_name improper authorization](https://vuldb.com/vuln/389918)
+  - [CVE-2026-72849 | Budibase up to 3.39.x Chat-Link Handoff Endpoint cross-site request forgery](https://vuldb.com/vuln/389926)
+  - [CVE-2026-72850 | Budibase up to 3.39.x Export path traversal](https://vuldb.com/vuln/389925)
+  - [CVE-2026-72851 | Budibase up to 3.39.x Webhook Trigger Endpoint sql injection](https://vuldb.com/vuln/389921)
+  - [CVE-2026-72853 | Budibase up to 3.39.x Oracle Datasource Connector sql injection](https://vuldb.com/vuln/389914)
+  - [CVE-2026-72855 | Budibase up to 3.39.x OpenAPI Query Import server-side request forgery](https://vuldb.com/vuln/389928)
+  - [CVE-2026-72856 | Budibase up to 3.39.x owner improper authorization](https://vuldb.com/vuln/389929)
+  - [CVE-2026-72857 | Budibase up to 3.39.x Datasource missing encryption](https://vuldb.com/vuln/389922)
   - [CVE-2026-73037 | DayuanJiang next-ai-draw-io up to 0.4.16 mcp cross site scripting](https://vuldb.com/vuln/389752)
+  - [CVE-2026-73039 | Fosowl Streama up to 2.41.1 Viewing Status Controller ViewingStatusController authorization](https://vuldb.com/vuln/389913)
   - [CVE-2026-73266 | Red Hat Multicluster Engine for Kubernetes clusterclaims-controller improper authorization](https://vuldb.com/vuln/389714)
   - [CVE-2026-73479 | Byron dua-cli up to 2.41.1 TUI interface escape output](https://vuldb.com/vuln/389908)
   - [CVE-2026-73480 | dundee gdu escape output (fe605ec)](https://vuldb.com/vuln/389897)
@@ -303,6 +329,10 @@
   - [CVE-2026-73661 | FreePBX up to 16.0.46/17.0.29 Framework Restore.php runRestore improper authentication](https://vuldb.com/vuln/389901)
   - [CVE-2026-73662 | FreePBX up to 17.0.6 Music on Hold Music.class.php validateCustomConfiguration os command injection](https://vuldb.com/vuln/389900)
   - [CVE-2026-73663 | FreePBX up to 16.0.10/17.0.3 missedcall module missedcallnotify.php sql injection](https://vuldb.com/vuln/389902)
+  - [CVE-2026-73664 | FreePBX up to 17.0.10 publicKeySave AJAX endpoint Backup.class.php improper authorization](https://vuldb.com/vuln/389909)
+  - [CVE-2026-73665 | FreePBX up to 17.0.8 UCP Node Server node/lib/server.js checkAuth improper authentication](https://vuldb.com/vuln/389911)
+  - [CVE-2026-73666 | OpenChoreo up to 1.0.3/1.1.3/1.2.0 Backstage Backend improper authentication](https://vuldb.com/vuln/389910)
+  - [CVE-2026-73667 | OpenChoreo up to 1.0.3/1.1.3/1.2.0-rc.1 Workflow Plane os command injection](https://vuldb.com/vuln/389912)
   - [CVE-2026-73669 | Signify Philips Hue Bridge up to 1.77.2071318009 Mosquitto MQTT Broker access control](https://vuldb.com/vuln/389860)
   - [CVE-2026-73670 | Saurus CMS Community Edition Database Data admin/db_data.php table_name sql injection (d886e5b)](https://vuldb.com/vuln/389650)
   - [CVE-2026-73671 | Saurus CMS Community Edition Logout classes/port.inc.php url redirect (d886e5b)](https://vuldb.com/vuln/389655)
@@ -314,5 +344,8 @@
   - [CVE-2026-73480 gdu Terminal Injection via Unstripped Escape Sequences](https://vulners.com/cvelist/CVELIST:CVE-2026-73480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything](https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/)
+  - [The Safety Reckoning Inside OpenAI](https://www.wired.com/story/openai-safety-security-ai-agents-culture/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [谷歌宣布推出Gemini 3.7 Flash模型](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%87%BAGemini-3-7-Flash%E6%A8%A1%E5%9E%8B)
