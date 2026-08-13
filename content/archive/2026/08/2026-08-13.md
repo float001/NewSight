@@ -46,6 +46,7 @@
   - [Hawaii crypto ATM ban to take effect on Oct. 1](https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer](https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [MUFG PoC to bring Japanese government bond repo transactions onchain](https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NYC council announces probe into ‘predatory marketing practices’ on prediction markets](https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC allows Franklin Templeton funds to invest in onchain money fund](https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Securitize falls 16% after earnings miss, tokenization revenue drops](https://cointelegraph.com/news/securitize-falls-earnings-miss-tokenization-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -73,6 +74,7 @@
 - Hacker News Frontpage
   - [Bike Bureau: Report Bike Lane Obstructions](https://loudbicycle.com/bb)
   - [DeepSeek V4 Pro 0813 quietly released](https://api-docs.deepseek.com/guides/responses_api/)
+  - [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
   - [Glaciers on the Climate Dashboard](https://climate.metoffice.cloud/glaciers.html)
   - [Show HN: A marketplace where AI agents buy services from AI agents](https://aaas-marketplace-1089237826218.asia-northeast1.run.app)
   - [Wednesday, August 12: GitHub, Incident with Pull Requests and Issues](https://www.githubstatus.com/incidents/76t89hbfb09h)
@@ -83,12 +85,15 @@
 - infosecurity-magazine.com
   - [Akira Affiliate Crashes Ransomware After Attempting EDR Evasion](https://www.infosecurity-magazine.com/news/akira-affiliate-crashes-ransomware/)
   - [ICO Reprimands Criminal Records Office After 2023 Breach](https://www.infosecurity-magazine.com/news/ico-reprimands-acro-records-office/)
+  - [Trump Authorizes Private Sector Participation in Offensive Cyber Operations](https://www.infosecurity-magazine.com/news/trump-private-offensive-cyber/)
 - Kali Linux Tutorials
   - [Listing Linux Services with systemctl: A Complete Guide](https://kalilinuxtutorials.com/list-linux-services-systemctl/)
   - [locate Command in Linux: Find Files Fast with a Database Search](https://kalilinuxtutorials.com/locate-command-linux/)
   - [xargs Command in Linux: Build and Execute Commands from Input](https://kalilinuxtutorials.com/xargs-command-linux/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-08-12: SmartApeSG ClickFix leads to two RATs](https://www.malware-traffic-analysis.net/2026/08/12/index.html)
+- MIT Technology Review
+  - [The Download: kids’ thoughts on AI, and female clones of male mice](https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/)
 - Product Hunt
   - [Human Behavior](https://www.producthunt.com/products/human-behavior)
 - Recent Commits to cve:main
@@ -140,6 +145,7 @@
 - The Verge
   - [Amazon gets out of the MMO game](https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations)
   - [Cats and dogs are missing meals after a popular smart feeder went down](https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders)
+  - [Flock CEO: ‘We got this one wrong’](https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention)
   - [How Google’s new Pixel 11 phones compare to last year’s models](https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features)
   - [How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8](https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison)
   - [ICE wants to give agents electrified gloves that shock people into compliance](https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves)
@@ -350,6 +356,7 @@
   - [CVE-2026-73430 | Eugeny Russh up to 0.62.3 Key Exchange curve25519.rs Curve25519Kex::server_dh input validation](https://vuldb.com/vuln/389283)
   - [CVE-2026-73433 | GStreamer up to 1.24.10 Avidemux gst_avi_demux_parse_strd out-of-bounds](https://vuldb.com/vuln/389254)
   - [CVE-2026-73434 | GStreamer up to 1.24.10 AVI gst_avi_demux_riff_parse_vprp fields out-of-bounds](https://vuldb.com/vuln/389256)
+  - [CVE-2026-73487 | FlowiseAI Flowise up to 3.1.2 Agent Node pd.read_json code injection](https://vuldb.com/vuln/389408)
   - [CVE-2026-73490 | Flavorjones Loofah up to 2.25.1 HTML5 Sanitizer cross-domain policy](https://vuldb.com/vuln/389288)
   - [CVE-2026-73491 | flavorjones Loofah up to 2.25.1 HTML5 Scrub Scrub.allowed_uri? HTML injection](https://vuldb.com/vuln/389284)
   - [CVE-2026-73492 | flavorjones Loofah up to 2.25.1 HTML5 Scrub Scrub.allowed_uri HTML injection](https://vuldb.com/vuln/389298)
@@ -357,6 +364,26 @@
   - [CVE-2026-73495 | http4s blaze up to 0.23.17/1.0.0-M41 improper authorization](https://vuldb.com/vuln/389291)
   - [CVE-2026-73498 | sooperset mcp-atlassian up to 0.21.x Attachments attachments.py _upload_attachment_direct file_path path traversal](https://vuldb.com/vuln/389294)
   - [CVE-2026-73519 | Wolfsoftwaresystems WolfStack up to 25.9.1 Auth src/auth/mod.rs require_auth hard-coded credentials](https://vuldb.com/vuln/389292)
+  - [CVE-2026-73583 | sblim-sfcb IPC deserialization](https://vuldb.com/vuln/389409)
+  - [CVE-2026-73584 | SBLIM sblim-sfcb File temp file](https://vuldb.com/vuln/389410)
+  - [CVE-2026-73585 | sblim-cmpi-base Provider Registration Scripts temp file](https://vuldb.com/vuln/389411)
+  - [CVE-2026-73602 | FlowiseAI Flowise up to 3.1.2 vm2 JavaScript sandbox](https://vuldb.com/vuln/389392)
+  - [CVE-2026-73610 | SiYuan Note up to 3.7.3 Local Storage Filter getLocalStorage information disclosure](https://vuldb.com/vuln/389391)
+  - [CVE-2026-73615 | Jovancoding Network-AI up to 5.15.0 privileges management](https://vuldb.com/vuln/389404)
+  - [CVE-2026-73616 | OpenRemote Notification Deletion Endpoints improper authorization](https://vuldb.com/vuln/389402)
+  - [CVE-2026-73617 | Budibase up to 3.39.x MongoDB Datasource Integration data query logic injection](https://vuldb.com/vuln/389403)
+  - [CVE-2026-73618 | Budibase Server up to 3.39.x MongoDB Query Execution Endpoint data query logic injection](https://vuldb.com/vuln/389405)
+  - [CVE-2026-73619 | gitpython-developers GitPython up to 3.1.56 unsafe_git_archive_options guard Repo.archive information disclosure](https://vuldb.com/vuln/389396)
+  - [CVE-2026-73620 | gitpython-developers GitPython up to 3.1.56 Option IndexFile.checkout/TagReference.create kwargs input validation](https://vuldb.com/vuln/389398)
+  - [CVE-2026-73621 | gitpython-developers GitPython up to 3.1.55 Commit.count options argument injection](https://vuldb.com/vuln/389397)
+  - [CVE-2026-73622 | gitpython-developers GitPython up to 3.1.54 URL Remote.create/Submodule.add os command injection](https://vuldb.com/vuln/389393)
+  - [CVE-2026-73623 | gitpython-developers GitPython up to 3.1.53 Clone Options unsafe_git_clone_options incomplete blacklist](https://vuldb.com/vuln/389395)
+  - [CVE-2026-73624 | gitpython-developers GitPython up to 3.1.53 Diffable Diffable.diff other/output file inclusion](https://vuldb.com/vuln/389399)
+  - [CVE-2026-73625 | gitpython-developers GitPython up to 3.1.53 check_unsafe_options upload-pack os command injection](https://vuldb.com/vuln/389394)
+  - [CVE-2026-73626 | JupyterLab up to 4.5.9/4.6.1 PyPI Extension Manager PyPIExtensionManager.install input validation](https://vuldb.com/vuln/389401)
+  - [CVE-2026-73627 | JupyterLab up to 4.6.1 Plugin Manager /lab/api/plugins privileges management](https://vuldb.com/vuln/389406)
+  - [CVE-2026-73628 | s9y Serendipity up to 2.6.0 functions_routing.inc.php serveSearch cross site scripting](https://vuldb.com/vuln/389400)
+  - [CVE-2026-73629 | s9y Serendipity up to 2.5.x serendipity_url_allowed server-side request forgery](https://vuldb.com/vuln/389407)
   - [CVE-2026-7366 | IBM DataPower Gateway up to 11.0.0.1/10.5.0.21/10.6.0.9 X-Client-IP race condition](https://vuldb.com/vuln/389290)
   - [CVE-2026-7427 | GitLab up to 19.0.5/19.1.3/19.2.1 input validation](https://vuldb.com/vuln/389150)
   - [CVE-2026-8667 | GitLab up to 19.0.5/19.1.3/19.2.1 Package Registry privileges management](https://vuldb.com/vuln/389151)
@@ -382,13 +409,18 @@
   - [深度求索发布DeepSeek-V4-Pro-0813 该模型从预览版正式进入GA阶段](https://buaq.net/go-434820.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [Linux服务器注意了：勒索病毒已经盯上你，国家正式预警](https://www.anquanke.com/post/id/315959)
+  - [一张恶意SIM卡，就能接管你的充电桩：1981年的"祖传命令"正在物联网里复活](https://www.anquanke.com/post/id/315962)
 - 爱范儿
   - [回来了，马斯克带着 24 小时干活的 Agent 回来了](https://www.ifanr.com/1674851?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测 DeepSeek V4 Pro 正式版：能力直逼 Fable 5，还藏了一个大招](https://www.ifanr.com/1674965?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [对话影石创始人刘靖康：全景相机的新范式，是「空间相机」](https://www.ifanr.com/1675029?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [打工人的办公三件套，被 WorkBuddy 用 AI 重做了](https://www.ifanr.com/1674810?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [首发体验 | DeepSeek Harness 来了，它不想做下一个Codex](https://www.ifanr.com/1675083?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [DeepMind CEO卸任前推动成立AI安全机构](https://blog.upx8.com/DeepMind-CEO%E5%8D%B8%E4%BB%BB%E5%89%8D%E6%8E%A8%E5%8A%A8%E6%88%90%E7%AB%8BAI%E5%AE%89%E5%85%A8%E6%9C%BA%E6%9E%84)
+  - [乌克兰无人机部队在军演中轻松击败了美军](https://blog.upx8.com/%E4%B9%8C%E5%85%8B%E5%85%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%83%A8%E9%98%9F%E5%9C%A8%E5%86%9B%E6%BC%94%E4%B8%AD%E8%BD%BB%E6%9D%BE%E5%87%BB%E8%B4%A5%E4%BA%86%E7%BE%8E%E5%86%9B)
   - [亚马逊退出大型多人在线游戏游戏市场](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E9%80%80%E5%87%BA%E5%A4%A7%E5%9E%8B%E5%A4%9A%E4%BA%BA%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F%E6%B8%B8%E6%88%8F%E5%B8%82%E5%9C%BA)
   - [德企预期AI压低工资 初级员工首当其冲](https://blog.upx8.com/%E5%BE%B7%E4%BC%81%E9%A2%84%E6%9C%9FAI%E5%8E%8B%E4%BD%8E%E5%B7%A5%E8%B5%84-%E5%88%9D%E7%BA%A7%E5%91%98%E5%B7%A5%E9%A6%96%E5%BD%93%E5%85%B6%E5%86%B2)
   - [无视微软起诉威胁：安全研究员继续公布新的Windows零日漏洞](https://blog.upx8.com/%E6%97%A0%E8%A7%86%E5%BE%AE%E8%BD%AF%E8%B5%B7%E8%AF%89%E5%A8%81%E8%83%81-%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%91%98%E7%BB%A7%E7%BB%AD%E5%85%AC%E5%B8%83%E6%96%B0%E7%9A%84Windows%E9%9B%B6%E6%97%A5%E6%BC%8F%E6%B4%9E)
