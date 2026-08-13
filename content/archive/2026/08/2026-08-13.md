@@ -3,6 +3,7 @@
 - 2Libra
   - [gork4.6 开登](https://2libra.com/post/large-models/DWuCh74)
   - [【💰】提问，租房党自己买空调划算吗？](https://2libra.com/post/recommendations/8_-7uBq)
+  - [【💰】有没有车机推荐](https://2libra.com/post/recommendations/0GPLX5L)
   - [【💰】爆率拉满，各位富哥来锐评一下 600 块的瑞幸·crocs 联名款你会买吗](https://2libra.com/post/worth-buying/5wTbyES)
   - [七夕快到了，大家都想要什么礼物](https://2libra.com/post/festival-things/5Y1lLoG)
   - [今天收到一个钓鱼短信，这种网站怎么把他搞死](https://2libra.com/post/network-security/LzddBlB)
@@ -10,6 +11,7 @@
   - [大家早上坏 我是薛珍珠女士 今天不抓小三 今天送点流量给大家](https://2libra.com/post/promotion/Kk4W2OA)
   - [我们论坛是登陆就自动签到吗？](https://2libra.com/post/forum-function/28R1ZHR)
   - [换手机，推荐一下](https://2libra.com/post/phone/0rEgmnk)
+  - [新租的屋子宽带被电信垄断了](https://2libra.com/post/networking/yV8HhbA)
   - [无限空间灵感画布优化版](https://2libra.com/post/promotion/MIzuyEL)
   - [最近看到有个工具 herdr 有用过吗，可跨 agent 通信。](https://2libra.com/post/ai-tools/fzNpFHO)
   - [请教本站 Java 大佬](https://2libra.com/post/tech-qa/ANfpeNp)
@@ -25,6 +27,8 @@
 - CoinTelegraph
   - [Arizona crypto ATM law helps 35 scam victims recover $171K](https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bank of England tests stablecoin, digital pound interoperability in cross-border payments](https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B](https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Copper US arm becomes FINRA member, SEC-registered broker-dealer](https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FlightAware drops Kalshi lawsuit one day after filing](https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Goldman Sachs to acquire ETF manager NEOS in $2.25B deal](https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hawaii crypto ATM ban to take effect on Oct. 1](https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -68,6 +72,8 @@
   - [2026-08-12: SmartApeSG ClickFix leads to two RATs](https://www.malware-traffic-analysis.net/2026/08/12/index.html)
 - Product Hunt
   - [Human Behavior](https://www.producthunt.com/products/human-behavior)
+- Securelist
+  - [Armored Likho expands its cyber-espionage toolkit](https://securelist.com/armored-likho-still-toolkit/121033/)
 - shkspr.mobi
   - [Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/)
   - [Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ★★★★☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/)
@@ -95,6 +101,7 @@
   - [Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)
   - [Goldman Sachs to gain bitcoin and ETH income ETFs in up to $2.25 billion Neos acquisition](https://www.theblock.co/news/business/2026-08-12-goldman-sachs-bitcoin-ether-income-etfs-neos-deal-411618)
   - [Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value](https://www.theblock.co/news/markets/2026-08-12-hyperliquid-treasury-hyperion-triples-quarterly-profits-as-hype-holdings-rise-in-value-411652)
+  - [Mirae Asset to inject additional $35 million into Korbit crypto exchange following July acquisition: report](https://www.theblock.co/news/business/2026-08-13-mirae-asset-35-million-korbit-411677)
   - [Polymarket taps ex-Uber and Bird exec Travis VanderZanden to boost growth](https://www.theblock.co/news/business/2026-08-12-polymarket-taps-ex-uber-and-bird-exec-travis-vanderzanden-to-boost-growth-411631)
   - [SEC clears Franklin Templeton funds to use onchain BENJI system for cash management](https://www.theblock.co/news/defi/2026-08-12-sec-clears-franklin-templeton-funds-use-onchain-benji-system-cash-management-411654)
   - [SKALE launches Agent Pit to let builders train AI agents before taking them live on Polymarket](https://www.theblock.co/news/defi/2026-08-12-skales-agent-pit-lets-builders-train-ai-agents-before-taking-them-live-on-polymarket-411580)
@@ -184,6 +191,7 @@
   - [CVE-2026-18246 | IBM i 7.3/7.4/7.5/7.6 Multipart Parser privileges management](https://vuldb.com/vuln/389110)
   - [CVE-2026-18250 | IBM i 7.3/7.4/7.5/7.6 race condition](https://vuldb.com/vuln/389122)
   - [CVE-2026-18433 | GitLab up to 19.1.3/19.2.1 GraphQL Query improper authorization](https://vuldb.com/vuln/389172)
+  - [CVE-2026-18622 | Foxit PDF Editor/PDF Reader Signature Integrity UI data authenticity](https://vuldb.com/vuln/389346)
   - [CVE-2026-18669 | IBM i 7.3/7.4/7.5/7.6 Activation Engine privileges management](https://vuldb.com/vuln/389126)
   - [CVE-2026-18673 | Kong Kuma up to 2.14.1 Readiness Service information disclosure](https://vuldb.com/vuln/389153)
   - [CVE-2026-18675 | Kong Mesh up to 2.14.1 Dataplane Token Validator assertion](https://vuldb.com/vuln/389159)
@@ -328,8 +336,10 @@
   - [回来了，马斯克带着 24 小时干活的 Agent 回来了](https://www.ifanr.com/1674851?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测 DeepSeek V4 Pro 正式版：能力直逼 Fable 5，还藏了一个大招](https://www.ifanr.com/1674965?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [对话影石创始人刘靖康：全景相机的新范式，是「空间相机」](https://www.ifanr.com/1675029?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [打工人的办公三件套，被 WorkBuddy 用 AI 重做了](https://www.ifanr.com/1674810?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [DeepMind CEO卸任前推动成立AI安全机构](https://blog.upx8.com/DeepMind-CEO%E5%8D%B8%E4%BB%BB%E5%89%8D%E6%8E%A8%E5%8A%A8%E6%88%90%E7%AB%8BAI%E5%AE%89%E5%85%A8%E6%9C%BA%E6%9E%84)
+  - [亚马逊退出大型多人在线游戏游戏市场](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E9%80%80%E5%87%BA%E5%A4%A7%E5%9E%8B%E5%A4%9A%E4%BA%BA%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F%E6%B8%B8%E6%88%8F%E5%B8%82%E5%9C%BA)
   - [无视微软起诉威胁：安全研究员继续公布新的Windows零日漏洞](https://blog.upx8.com/%E6%97%A0%E8%A7%86%E5%BE%AE%E8%BD%AF%E8%B5%B7%E8%AF%89%E5%A8%81%E8%83%81-%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%91%98%E7%BB%A7%E7%BB%AD%E5%85%AC%E5%B8%83%E6%96%B0%E7%9A%84Windows%E9%9B%B6%E6%97%A5%E6%BC%8F%E6%B4%9E)
   - [标准版iPhone 18预估延后至明年春季推出](https://blog.upx8.com/%E6%A0%87%E5%87%86%E7%89%88iPhone-18%E9%A2%84%E4%BC%B0%E5%BB%B6%E5%90%8E%E8%87%B3%E6%98%8E%E5%B9%B4%E6%98%A5%E5%AD%A3%E6%8E%A8%E5%87%BA)
   - [苹果洽谈向出版商付费 以改进AI驱动的Siri](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%B4%BD%E8%B0%88%E5%90%91%E5%87%BA%E7%89%88%E5%95%86%E4%BB%98%E8%B4%B9-%E4%BB%A5%E6%94%B9%E8%BF%9BAI%E9%A9%B1%E5%8A%A8%E7%9A%84Siri)
