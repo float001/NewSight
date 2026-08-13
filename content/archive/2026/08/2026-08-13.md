@@ -8,6 +8,7 @@
   - [【💰】爆率拉满，各位富哥来锐评一下 600 块的瑞幸·crocs 联名款你会买吗](https://2libra.com/post/worth-buying/5wTbyES)
   - [七夕快到了，大家都想要什么礼物](https://2libra.com/post/festival-things/5Y1lLoG)
   - [今天收到一个钓鱼短信，这种网站怎么把他搞死](https://2libra.com/post/network-security/LzddBlB)
+  - [今日大 A 尾盘的时候咋了？](https://2libra.com/post/angel-investment/zlLge-q)
   - [到现在还没重置？](https://2libra.com/post/questions/Ti0EEpY)
   - [历经 51 天签到，也是到 7 级了](https://2libra.com/post/forum-function/PDocjog)
   - [大家早上坏 我是薛珍珠女士 今天不抓小三 今天送点流量给大家](https://2libra.com/post/promotion/Kk4W2OA)
@@ -19,6 +20,7 @@
   - [暗色主题下，这个对比度太低了，看的都要眼瞎了，鸡米有空优化下吗](https://2libra.com/post/community/smLU_hX)
   - [最近看到有个工具 herdr 有用过吗，可跨 agent 通信。](https://2libra.com/post/ai-tools/fzNpFHO)
   - [有用 cursor 同学吗？最近有什么改动吗？怎么这个这都是 0，是可以无限蹬的意思吗？](https://2libra.com/post/ai-programming/lx-MpWb)
+  - [由俭入奢易](https://2libra.com/post/ai-tools/3PguLtP)
   - [请教本站 Java 大佬](https://2libra.com/post/tech-qa/ANfpeNp)
   - [跑了几天漫展 发点 plmm](https://2libra.com/post/animation-sharing/45y1UrY)
   - [送福利，动态流量来就领](https://2libra.com/post/promotion/NfQ8axN)
@@ -32,6 +34,8 @@
 - CoinTelegraph
   - [Arizona crypto ATM law helps 35 scam victims recover $171K](https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bank of England tests stablecoin, digital pound interoperability in cross-border payments](https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Binance bStocks passes xStocks as second-largest tokenized stock issuer](https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin speculators keep BTC price ‘pinned’ below $68.7K: Glassnode](https://cointelegraph.com/markets/bitcoin-speculators-in-the-red-keep-price-pinned-below-687k-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B](https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Copper US arm becomes FINRA member, SEC-registered broker-dealer](https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FlightAware drops Kalshi lawsuit one day after filing](https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -56,6 +60,7 @@
   - [Joanna Stern on the Pixel 11 ‘HiLight’ Notification Light](https://thenewthings.com/p/the-new-pixel-feature-i-want-on-my-iphone?gift_content=e9bf3ebd-db33-4ee5-91b0-84d7acac3263)
   - [TechCrunch on Google’s Pixel 11 Lineup](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/)
 - darkreading
+  - ['Jewelbug' APT Balances State Espionage &amp; Cryptocurrency Theft](https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft)
   - [Belgium's eID Authentication Opens Citizen Accounts to RCE](https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce)
   - [Long-running Data Theft Campaign Targeting Salesforce, ServiceNow](https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow)
 - defend.network
@@ -71,6 +76,7 @@
 - Horizon3.ai
   - [From Patch Tuesday to Pentest Wednesday®: How a Major Transportation Company Turned AWS Attack Paths Into Action](https://horizon3.ai/intelligence/blogs/aws-attack-paths-pentest-wednesday/)
 - infosecurity-magazine.com
+  - [Akira Affiliate Crashes Ransomware After Attempting EDR Evasion](https://www.infosecurity-magazine.com/news/akira-affiliate-crashes-ransomware/)
   - [ICO Reprimands Criminal Records Office After 2023 Breach](https://www.infosecurity-magazine.com/news/ico-reprimands-acro-records-office/)
 - Kali Linux Tutorials
   - [Listing Linux Services with systemctl: A Complete Guide](https://kalilinuxtutorials.com/list-linux-services-systemctl/)
@@ -114,6 +120,7 @@
   - [Polymarket taps ex-Uber and Bird exec Travis VanderZanden to boost growth](https://www.theblock.co/news/business/2026-08-12-polymarket-taps-ex-uber-and-bird-exec-travis-vanderzanden-to-boost-growth-411631)
   - [SEC clears Franklin Templeton funds to use onchain BENJI system for cash management](https://www.theblock.co/news/defi/2026-08-12-sec-clears-franklin-templeton-funds-use-onchain-benji-system-cash-management-411654)
   - [SKALE launches Agent Pit to let builders train AI agents before taking them live on Polymarket](https://www.theblock.co/news/defi/2026-08-12-skales-agent-pit-lets-builders-train-ai-agents-before-taking-them-live-on-polymarket-411580)
+  - [South Korea sentences Delio CEO to 15 years in prison for $50 million crypto fraud: report](https://www.theblock.co/news/regulation/2026-08-13-south-korea-sentences-delio-ceo-411688)
   - [Trump sued over Truth Social’s early-access feed as firm explores licensing data to prediction markets](https://www.theblock.co/news/business/2026-08-12-trump-sued-truth-social-early-access-feed-firm-explores-licensing-data-prediction-markets-411628)
 - The Decoder
   - [AI tools for breast cancer detection fall short of radiologists' expectations](https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/)
@@ -161,6 +168,8 @@
   - [CVE-2026-15423 | GitLab up to 19.0.5/19.1.3/19.2.1 Pipeline Reference Validation privileges management](https://vuldb.com/vuln/389147)
   - [CVE-2026-15803 | Eclipse RDF4J up to 5.3.1 XML Parser xml external entity reference](https://vuldb.com/vuln/389087)
   - [CVE-2026-16033 | Canonical LXD up to 4.0.11/5.0.7 Image Metadata Template path traversal](https://vuldb.com/vuln/389255)
+  - [CVE-2026-16458 | Oberon Microsystems ocrypto up to 4.0.0 missing encryption](https://vuldb.com/vuln/389355)
+  - [CVE-2026-16459 | Oberon microsystems Oberon PSA Crypto up to 2.1.0 missing encryption](https://vuldb.com/vuln/389356)
   - [CVE-2026-16480 | IBM Db2 up to 11.5.9/12.1.5 improper authorization](https://vuldb.com/vuln/389271)
   - [CVE-2026-16494 | GitLab up to 19.1.3/19.2.1 Project Update privileges management](https://vuldb.com/vuln/389171)
   - [CVE-2026-16627 | GitLab up to 19.2.1 CI Job Modal privileges management](https://vuldb.com/vuln/389148)
@@ -226,6 +235,8 @@
   - [CVE-2026-19182 | OpenNMS Group Meridian/Horizon v2 Alarm REST API improper authorization](https://vuldb.com/vuln/389337)
   - [CVE-2026-19228 | GitLab up to 19.1.3/19.2.1 improper authorization](https://vuldb.com/vuln/389173)
   - [CVE-2026-19311 | Amazon OpenSearch Alerting data_source/input_index improper authorization](https://vuldb.com/vuln/389161)
+  - [CVE-2026-19481 | fastify busboy up to 3.2.0 Header Parser prototype pollution](https://vuldb.com/vuln/389357)
+  - [CVE-2026-19484 | Fastify busboy up to 3.2.0 Streaming Search resource consumption](https://vuldb.com/vuln/389359)
   - [CVE-2026-19502 | MongoDB Schema Builder CLI up to 1.2.0 missing encryption](https://vuldb.com/vuln/389257)
   - [CVE-2026-19503 | MongoDB Atlas SQL ODBC Driver/Schema Builder CLI input validation](https://vuldb.com/vuln/389247)
   - [CVE-2026-19548 | Red Hat Enterprise Linux ld ld/ldmain.c add_archive_element use after free](https://vuldb.com/vuln/389088)
@@ -248,6 +259,8 @@
   - [CVE-2026-49481 | seriousm4x UpSnap up to 5.3.x Device Management ip/mac os command injection](https://vuldb.com/vuln/389314)
   - [CVE-2026-49819 | seriousm4x UpSnap up to 5.3.5 backend/pb/handlers.go pb.HandlerInitSuperuser improper authentication](https://vuldb.com/vuln/389316)
   - [CVE-2026-50544 | NortheBridge LuminalShine prior 26.05.0-rc4 File Permissions misc.cpp permission assignment](https://vuldb.com/vuln/389318)
+  - [CVE-2026-59499 | Priority Portal Generator addon to ERP information disclosure](https://vuldb.com/vuln/389358)
+  - [CVE-2026-59500 | Priority Portal Generator addon to ERP improper authentication](https://vuldb.com/vuln/389360)
   - [CVE-2026-59914 | Dell Display and Peripheral Manager 1.3/2.1.2.12/2.2.0.18 privileges management](https://vuldb.com/vuln/389220)
   - [CVE-2026-59916 | Dell Display and Peripheral Manager 1.3/2.1.2.12/2.2.0.18 access control](https://vuldb.com/vuln/389178)
   - [CVE-2026-59917 | Dell Display and Peripheral Manager 1.3/2.1.2.12/2.2.0.18 access control](https://vuldb.com/vuln/389221)
@@ -337,7 +350,10 @@
   - [CVE-2026-49481 UpSnap vulnerable to Remote Code Execution via IP Field Template Injection in wake_cmd/shutdown_cmd](https://vulners.com/cvelist/CVELIST:CVE-2026-49481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cyberange](https://vulners.com/gitee/77945363-383E-5318-BEBD-45FBF43DDC4A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [5 Best Android Tablets in 2026: Samsung, TCL, Amazon, and More](https://www.wired.com/story/the-best-android-tablets/)
+  - [CBP Workers Allegedly Used Government Databases to Spy on Exes, Crushes, and Colleagues](https://www.wired.com/story/cbp-workers-allegedly-used-government-databases-to-spy-on-exes-crushes-and-colleagues/)
   - [Rogue AI Agents Aren’t Evil. They’re Just Eager to Please](https://www.wired.com/story/rogue-ai-is-just-misunderstood/)
+  - [The 10 Best Cooling Mattresses for Hot Sleepers (2026)](https://www.wired.com/gallery/best-cooling-mattress/)
   - [The Best Photos of the Big August Solar Eclipse](https://www.wired.com/story/best-photos-august-solar-eclipse-spain/)
   - [The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden](https://www.wired.com/story/lettuce-grow-20-percent-off-2026/)
   - [The White House Is Going to Expand Its AI Policy](https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/)
@@ -356,6 +372,7 @@
 - 黑海洋
   - [DeepMind CEO卸任前推动成立AI安全机构](https://blog.upx8.com/DeepMind-CEO%E5%8D%B8%E4%BB%BB%E5%89%8D%E6%8E%A8%E5%8A%A8%E6%88%90%E7%AB%8BAI%E5%AE%89%E5%85%A8%E6%9C%BA%E6%9E%84)
   - [亚马逊退出大型多人在线游戏游戏市场](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E9%80%80%E5%87%BA%E5%A4%A7%E5%9E%8B%E5%A4%9A%E4%BA%BA%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F%E6%B8%B8%E6%88%8F%E5%B8%82%E5%9C%BA)
+  - [德企预期AI压低工资 初级员工首当其冲](https://blog.upx8.com/%E5%BE%B7%E4%BC%81%E9%A2%84%E6%9C%9FAI%E5%8E%8B%E4%BD%8E%E5%B7%A5%E8%B5%84-%E5%88%9D%E7%BA%A7%E5%91%98%E5%B7%A5%E9%A6%96%E5%BD%93%E5%85%B6%E5%86%B2)
   - [无视微软起诉威胁：安全研究员继续公布新的Windows零日漏洞](https://blog.upx8.com/%E6%97%A0%E8%A7%86%E5%BE%AE%E8%BD%AF%E8%B5%B7%E8%AF%89%E5%A8%81%E8%83%81-%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%91%98%E7%BB%A7%E7%BB%AD%E5%85%AC%E5%B8%83%E6%96%B0%E7%9A%84Windows%E9%9B%B6%E6%97%A5%E6%BC%8F%E6%B4%9E)
   - [标准版iPhone 18预估延后至明年春季推出](https://blog.upx8.com/%E6%A0%87%E5%87%86%E7%89%88iPhone-18%E9%A2%84%E4%BC%B0%E5%BB%B6%E5%90%8E%E8%87%B3%E6%98%8E%E5%B9%B4%E6%98%A5%E5%AD%A3%E6%8E%A8%E5%87%BA)
   - [苹果洽谈向出版商付费 以改进AI驱动的Siri](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%B4%BD%E8%B0%88%E5%90%91%E5%87%BA%E7%89%88%E5%95%86%E4%BB%98%E8%B4%B9-%E4%BB%A5%E6%94%B9%E8%BF%9BAI%E9%A9%B1%E5%8A%A8%E7%9A%84Siri)
