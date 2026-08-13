@@ -11,6 +11,7 @@
   - [换手机，推荐一下](https://2libra.com/post/phone/0rEgmnk)
   - [无限空间灵感画布优化版](https://2libra.com/post/promotion/MIzuyEL)
   - [最近看到有个工具 herdr 有用过吗，可跨 agent 通信。](https://2libra.com/post/ai-tools/fzNpFHO)
+  - [送福利，动态流量来就领](https://2libra.com/post/promotion/NfQ8axN)
 - 404 Media
   - [Here's the Manual for ICE's Electric Shock Gloves](https://www.404media.co/heres-the-manual-for-ices-electric-shock-gloves/)
   - [Twitch is Mining Peoples' Streams to Train Amazon's AI](https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/)
@@ -51,6 +52,12 @@
   - [Zed: Delta](https://zed.dev/blog/introducing-delta)
 - Horizon3.ai
   - [From Patch Tuesday to Pentest Wednesday®: How a Major Transportation Company Turned AWS Attack Paths Into Action](https://horizon3.ai/intelligence/blogs/aws-attack-paths-pentest-wednesday/)
+- Kali Linux Tutorials
+  - [Listing Linux Services with systemctl: A Complete Guide](https://kalilinuxtutorials.com/list-linux-services-systemctl/)
+  - [locate Command in Linux: Find Files Fast with a Database Search](https://kalilinuxtutorials.com/locate-command-linux/)
+  - [xargs Command in Linux: Build and Execute Commands from Input](https://kalilinuxtutorials.com/xargs-command-linux/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-08-12: SmartApeSG ClickFix leads to two RATs](https://www.malware-traffic-analysis.net/2026/08/12/index.html)
 - shkspr.mobi
   - [Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/)
   - [Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ★★★★☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/)
@@ -74,6 +81,7 @@
 - text/plain
   - [Attack Technique: AI Clones](https://textslashplain.com/2026/08/12/attack-technique-ai-clones/)
 - The Block
+  - [BitGo sees revenue jump 80% to $4.3 billion in Q2 but posts net loss](https://www.theblock.co/news/business/2026-08-12-bitgo-sees-revenue-jump-q2-411664)
   - [Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)
   - [Goldman Sachs to gain bitcoin and ETH income ETFs in up to $2.25 billion Neos acquisition](https://www.theblock.co/news/business/2026-08-12-goldman-sachs-bitcoin-ether-income-etfs-neos-deal-411618)
   - [Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value](https://www.theblock.co/news/markets/2026-08-12-hyperliquid-treasury-hyperion-triples-quarterly-profits-as-hype-holdings-rise-in-value-411652)
@@ -291,12 +299,16 @@
   - [The Best Photos of the Big August Solar Eclipse](https://www.wired.com/story/best-photos-august-solar-eclipse-spain/)
   - [The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden](https://www.wired.com/story/lettuce-grow-20-percent-off-2026/)
   - [The White House Is Going to Expand Its AI Policy](https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/)
+- 不安全
+  - [2026-08-12: SmartApeSG ClickFix leads to two RATs](https://buaq.net/go-434813.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [回来了，马斯克带着 24 小时干活的 Agent 回来了](https://www.ifanr.com/1674851?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测 DeepSeek V4 Pro 正式版：能力直逼 Fable 5，还藏了一个大招](https://www.ifanr.com/1674965?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [对话影石创始人刘靖康：全景相机的新范式，是「空间相机」](https://www.ifanr.com/1675029?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [无视微软起诉威胁：安全研究员继续公布新的Windows零日漏洞](https://blog.upx8.com/%E6%97%A0%E8%A7%86%E5%BE%AE%E8%BD%AF%E8%B5%B7%E8%AF%89%E5%A8%81%E8%83%81-%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%91%98%E7%BB%A7%E7%BB%AD%E5%85%AC%E5%B8%83%E6%96%B0%E7%9A%84Windows%E9%9B%B6%E6%97%A5%E6%BC%8F%E6%B4%9E)
   - [标准版iPhone 18预估延后至明年春季推出](https://blog.upx8.com/%E6%A0%87%E5%87%86%E7%89%88iPhone-18%E9%A2%84%E4%BC%B0%E5%BB%B6%E5%90%8E%E8%87%B3%E6%98%8E%E5%B9%B4%E6%98%A5%E5%AD%A3%E6%8E%A8%E5%87%BA)
   - [苹果洽谈向出版商付费 以改进AI驱动的Siri](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%B4%BD%E8%B0%88%E5%90%91%E5%87%BA%E7%89%88%E5%95%86%E4%BB%98%E8%B4%B9-%E4%BB%A5%E6%94%B9%E8%BF%9BAI%E9%A9%B1%E5%8A%A8%E7%9A%84Siri)
   - [调查显示：超80%日本企业未全面使用AI](https://blog.upx8.com/%E8%B0%83%E6%9F%A5%E6%98%BE%E7%A4%BA-%E8%B6%8580-%E6%97%A5%E6%9C%AC%E4%BC%81%E4%B8%9A%E6%9C%AA%E5%85%A8%E9%9D%A2%E4%BD%BF%E7%94%A8AI)
