@@ -4,6 +4,7 @@
   - [gork4.6 开登](https://2libra.com/post/large-models/DWuCh74)
   - [【💰】提问，租房党自己买空调划算吗？](https://2libra.com/post/recommendations/8_-7uBq)
   - [【💰】爆率拉满，各位富哥来锐评一下 600 块的瑞幸·crocs 联名款你会买吗](https://2libra.com/post/worth-buying/5wTbyES)
+  - [七夕快到了，大家都想要什么礼物](https://2libra.com/post/festival-things/5Y1lLoG)
   - [今天收到一个钓鱼短信，这种网站怎么把他搞死](https://2libra.com/post/network-security/LzddBlB)
   - [历经 51 天签到，也是到 7 级了](https://2libra.com/post/forum-function/PDocjog)
   - [大家早上坏 我是薛珍珠女士 今天不抓小三 今天送点流量给大家](https://2libra.com/post/promotion/Kk4W2OA)
@@ -45,7 +46,10 @@
   - [Joanna Stern on the Pixel 11 ‘HiLight’ Notification Light](https://thenewthings.com/p/the-new-pixel-feature-i-want-on-my-iphone?gift_content=e9bf3ebd-db33-4ee5-91b0-84d7acac3263)
   - [TechCrunch on Google’s Pixel 11 Lineup](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/)
 - darkreading
+  - [Belgium's eID Authentication Opens Citizen Accounts to RCE](https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce)
   - [Long-running Data Theft Campaign Targeting Salesforce, ServiceNow](https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow)
+- defend.network
+  - [Lazarus Windows zero-day, Adobe CVSS 10.0 patches, 737 malicious Chrome VPN extensions](https://defend.network/briefings/lazarus-windows-zero-day-adobe-coldfusion-chrome-vpn-ma-2026-08-13.html)
 - Hacker News Frontpage
   - [Bike Bureau: Report Bike Lane Obstructions](https://loudbicycle.com/bb)
   - [DeepSeek V4 Pro 0813 quietly released](https://api-docs.deepseek.com/guides/responses_api/)
@@ -62,6 +66,8 @@
   - [xargs Command in Linux: Build and Execute Commands from Input](https://kalilinuxtutorials.com/xargs-command-linux/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-08-12: SmartApeSG ClickFix leads to two RATs](https://www.malware-traffic-analysis.net/2026/08/12/index.html)
+- Product Hunt
+  - [Human Behavior](https://www.producthunt.com/products/human-behavior)
 - shkspr.mobi
   - [Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/)
   - [Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ★★★★☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/)
@@ -121,10 +127,14 @@
   - [CVE-2026-13094 | IBM i Access Client Solutions up to 1.1.9.13 privileges management](https://vuldb.com/vuln/389278)
   - [CVE-2026-13105 | IBM i Access Client Solutions up to 1.1.9.13 path traversal](https://vuldb.com/vuln/389280)
   - [CVE-2026-13267 | IBM Security Verify Access privileges management](https://vuldb.com/vuln/389231)
+  - [CVE-2026-13328 | Food Menu Plugin up to 6.0.1 on WordPress access control](https://vuldb.com/vuln/389342)
   - [CVE-2026-13367 | IBM Informix Dynamic Server 14.10/15.0 oninit privileges management](https://vuldb.com/vuln/389285)
   - [CVE-2026-13433 | IBM i Access Client Solutions up to 1.1.9.13 integrity check](https://vuldb.com/vuln/389274)
   - [CVE-2026-13476 | IBM Informix Dynamic Server 12.10/14.10/15.0 code injection](https://vuldb.com/vuln/389275)
+  - [CVE-2026-13610 | KiviCare Plugin up to 4.5.1 on WordPress Registration Endpoint privileges management](https://vuldb.com/vuln/389343)
   - [CVE-2026-13622 | KubeVirt virt-handler symlink](https://vuldb.com/vuln/389086)
+  - [CVE-2026-14182 | Customer Email Verification Plugin up to 3.2.5 on WordPress improper authentication](https://vuldb.com/vuln/389339)
+  - [CVE-2026-14213 | Booking for Appointments and Events Calendar Plugin authorization](https://vuldb.com/vuln/389340)
   - [CVE-2026-14866 | IBM i Access Client Solutions up to 1.1.9.13 certificate validation](https://vuldb.com/vuln/389248)
   - [CVE-2026-15141 | TP-Link TL-WR820N v2 Web Interface Referer information disclosure](https://vuldb.com/vuln/389313)
   - [CVE-2026-15216 | GitLab up to 19.0.5/19.1.3/19.2.1 Analytics Dashboard cross site scripting](https://vuldb.com/vuln/389179)
@@ -187,8 +197,10 @@
   - [CVE-2026-18749 | CERT/CC VINCE up to 3.0.43 Attachment Authorization t_attach.case _is_my_case authorization](https://vuldb.com/vuln/389296)
   - [CVE-2026-18750 | CERT/CC VINCE up to 3.0.43 Email Notification vinny/views.py ModifyEmailNotifications authorization](https://vuldb.com/vuln/389297)
   - [CVE-2026-18847 | IBM i 7.3/7.4/7.5/7.6 Navigator for i improper authentication](https://vuldb.com/vuln/389112)
+  - [CVE-2026-18945 | WP Helper Premium Plugin up to 4.7.5 on WordPress Order Confirmation Page authorization](https://vuldb.com/vuln/389341)
   - [CVE-2026-18952 | AWS OpenSearch up to 3.4.x Threat Intelligence Feed Parser server-side request forgery](https://vuldb.com/vuln/389162)
   - [CVE-2026-19003 | MongoDB BI Connector ODBC Driver up to 1.4.8 File/Folder Selection buffer overflow](https://vuldb.com/vuln/389293)
+  - [CVE-2026-19088 | ShopEngine Elementor WooCommerce Builder Addon Plugin cross-site request forgery](https://vuldb.com/vuln/389344)
   - [CVE-2026-19130 | Red Hat Multicluster Engine for Kubernetes provider-credential-controller copiedFrom authorization](https://vuldb.com/vuln/389279)
   - [CVE-2026-19135 | OpenNMS Group Horizon/Meridian prior 2024.3.12/2025.0.9/36.0.3 Measurements REST API privileges management](https://vuldb.com/vuln/389336)
   - [CVE-2026-19182 | OpenNMS Group Meridian/Horizon v2 Alarm REST API improper authorization](https://vuldb.com/vuln/389337)
