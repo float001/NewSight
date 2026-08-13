@@ -2,10 +2,50 @@
 
 - CoinTelegraph
   - [Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows](https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Fidelis Security
+  - [How Fidelis Container Secure Helps Reduce Container Security Vulnerabilities Across Docker and Kubernetes](https://fidelissecurity.com/threatgeek/cloud-security/reduce-container-security-vulnerabilities-docker-kubernetes/)
+- shkspr.mobi
+  - [Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/)
 - TechCrunch
+  - [Ford on track to complete $2B factory overhaul for Fathom EV truck](https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/)
   - [X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’](https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/)
+- The Decoder
+  - [Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices](https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/)
 - The Verge
+  - [2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;](https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer)
+  - [Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul](https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant)
+  - [Meta adds AI screening to detect WhatsApp scams](https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection)
   - [Suno is trying to look more like a real music production tool](https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects)
   - [The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price](https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price)
+- VulDB Recent Entries
+  - [CVE-2022-4993 | HTML::FormHandler up to 0.40068 Error _apply_actions/add_error code injection](https://vuldb.com/vuln/389661)
+  - [CVE-2026-13048 | Data::MuForm::Localizer up to 0.05 Message Catalog Loader Localizer.pm extract_header_msgstr lang os command injection](https://vuldb.com/vuln/389663)
+  - [CVE-2026-13051 | Form::Processor::Field::HtmlArea up to 1.162360 validate allocation of resources](https://vuldb.com/vuln/389662)
+  - [CVE-2026-19487 | Perl up to 5.41.8 Aho-Corasick Prescan S_find_byclass input validation](https://vuldb.com/vuln/389651)
+  - [CVE-2026-19744 | maalfer Pentestify up to 2.3.1 Markdown renderer cross site scripting](https://vuldb.com/vuln/389654)
+  - [CVE-2026-19761 | DTStack Taier 1.4.0 Upload Controller UploadController.java MultipartFile.getOriginalFilename File path traversal](https://vuldb.com/vuln/389664)
+  - [CVE-2026-19762 | DTStack Taier 1.4.0 Chunk-Check Endpoint FileChunkController.java Paths.ge Name path traversal (Issue 1203)](https://vuldb.com/vuln/389665)
+  - [CVE-2026-19763 | DTStack Taier 1.4.0 Cluster Creation ClusterController.java FileUtils.deleteDirectory clusterName path traversal](https://vuldb.com/vuln/389666)
+  - [CVE-2026-19764 | Raisecom Communication Command and Dispatch Management Platform /app/users/getpwd.php sql injection](https://vuldb.com/vuln/389667)
+  - [CVE-2026-55400 | Absolute Security Secure Access up to 14.56 integer underflow](https://vuldb.com/vuln/389659)
+  - [CVE-2026-55401 | Absolute Security Secure Access up to 14.56 Load Balancing Sub-System null pointer dereference](https://vuldb.com/vuln/389658)
+  - [CVE-2026-55402 | Absolute Security Secure Access up to 14.55 out-of-bounds](https://vuldb.com/vuln/389660)
+  - [CVE-2026-73505 | JanDeDobbeleer Oh My Posh up to 29.35.0 Path Segment src/segments/path.go setStyle code injection](https://vuldb.com/vuln/389643)
+  - [CVE-2026-73506 | Jan De Dobbeleer Oh My Posh up to 29.35.0 Writer src/terminal/writer.go write s injection](https://vuldb.com/vuln/389644)
+  - [CVE-2026-73507 | Netty prior 4.1.136.Final/4.2.16.Final XmlFrameDecoder io.netty.handler.codec.xml.XmlFrameDecoder.decode resource consumption](https://vuldb.com/vuln/389645)
+  - [CVE-2026-73508 | Netty prior 4.1.136.Final/4.2.16.Final DNS Codec allocation of resources](https://vuldb.com/vuln/389646)
+  - [CVE-2026-73509 | OpenListTeam OpenList up to 4.2.3 Path Normalization fsbatch.go api/fs/batch_rename src_name path traversal](https://vuldb.com/vuln/389642)
+  - [CVE-2026-73514 | PostGIS up to 3.7.0 address_standardizer standardize_address out-of-bounds write (423570b)](https://vuldb.com/vuln/389652)
+  - [CVE-2026-73515 | PostGIS 2.3.3 FlatGeobuf property metadata decoder out-of-bounds](https://vuldb.com/vuln/389653)
+  - [CVE-2026-73532 | WPManageNinja Fluent Forms Pro Plugin 6.2.7 License Sync fluentformpro.php backdoor](https://vuldb.com/vuln/389656)
+  - [CVE-2026-73533 | WPManageNinja Ninja Tables Pro Plugin 5.2.11 NinjaTableDataSync.php backdoor](https://vuldb.com/vuln/389657)
+  - [CVE-2026-73555 | vllm-project vLLM up to 0.25.x OpenAI Entrypoints server_utils.py validation_exception_handler/sanitize_message information disclosure](https://vuldb.com/vuln/389641)
+  - [CVE-2026-73556 | vllm-project vLLM up to 0.25.x lm-format-enforcer backend backend_lm_format_enforcer.py structured_outputs.regex incorrect regex](https://vuldb.com/vuln/389647)
+  - [CVE-2026-73557 | vllm-project vLLM up to 0.25.x Embed Utils embed_utils.py safe_load_prompt_embeds race condition](https://vuldb.com/vuln/389648)
+  - [CVE-2026-73558 | vllm-project vLLM up to 0.26.x Activation Kernels activation_kernels.cu act_and_mul_kernel integer overflow](https://vuldb.com/vuln/389649)
+  - [CVE-2026-73670 | Saurus CMS Community Edition Database Data admin/db_data.php table_name sql injection (d886e5b)](https://vuldb.com/vuln/389650)
+  - [CVE-2026-73671 | Saurus CMS Community Edition Logout classes/port.inc.php url redirect (d886e5b)](https://vuldb.com/vuln/389655)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Why API Discovery Is Critical for Modern AppSec Programs](https://blog.qualys.com/category/misc)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
