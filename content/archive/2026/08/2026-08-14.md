@@ -44,7 +44,10 @@
   - [Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows](https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [RedotPay US IPO delayed amid regulatory, legal hurdles: Report](https://cointelegraph.com/news/redotpay-us-license-ipo-delay-binance-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered](https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Shinhan Asset Management partners with Plume on tokenized fund pilot](https://cointelegraph.com/news/shinhan-partners-plume-tokenized-fund-experiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether completes first full financial audit, receives clean KPMG opinion](https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daniel.haxx.se
+  - [curl performance](https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/)
 - defend.network
   - [SharePoint auth bypass exploited; 737 Chrome VPN extensions abused; Microsoft patches 398 flaws](https://defend.network/briefings/sharepoint-authentication-bypass-chrome-vpn-malware-win-2026-08-14.html)
 - Fidelis Security
@@ -78,11 +81,17 @@
 - johndcook.com
   - [Hadamard Codes and Sphere Packing](https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/)
   - [How NASA’s Mariner 9 probe encoded images](https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/)
+- krebsonsecurity.com
+  - [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
 - MIT Technology Review
   - [Building a practical path to post-quantum cryptography](https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/)
 - NOSEC 安全讯息平台 - 漏洞预警
   - [【已支持检测】JetBrains TeamCity 未认证远程代码执行漏洞...](https://nosec.org/home/detail/5968.html)
   - [【已支持检测】Metabase 满分未认证 SQL 注入漏洞可导致实...](https://nosec.org/home/detail/5967.html)
+- pluralistic.net
+  - [Pluralistic: Capital formation (14 Aug 2026)](https://pluralistic.net/2026/08/14/one-chokable-throat/)
+- Recent Commits to cve:main
+  - [Update Fri Aug 14 11:59:23 UTC 2026](https://github.com/trickest/cve/commit/8f71cf22ac755218168d2f957a656c0a4dee554d)
 - Securelist
   - [APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit](https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/)
 - shkspr.mobi
@@ -113,6 +122,7 @@
   - [Tether says KPMG issued ‘clean’ opinion in first full audit of USDT issuer’s financials](https://www.theblock.co/news/business/2026-08-13-tether-kpmg-first-full-audit-usdt-clean-opinion-411760)
   - [Washington court orders Kalshi to halt most prediction market offerings in state](https://www.theblock.co/news/regulation/2026-08-13-washington-court-orders-kalshi-411785)
 - The Decoder
+  - [Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate](https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/)
   - [Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices](https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/)
   - [Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%](https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/)
   - [Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate](https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/)
@@ -425,6 +435,7 @@
   - [I Wore an Electrical Muscle Stimulation Body Suit to Zap Myself Into Fitness](https://www.wired.com/story/i-wore-a-pepper-electrical-muscle-stimulation-body-suit-to-zap-myself-into-fitness/)
   - [Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything](https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/)
   - [People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them](https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/)
+  - [The 4 Best Planners of 2026: Roterunner, Hobonichi, Cloth & Paper](https://www.wired.com/story/best-paper-planners/)
   - [The Safety Reckoning Inside OpenAI](https://www.wired.com/story/openai-safety-security-ai-agents-culture/)
   - [These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI](https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/)
   - [This Art Project Slows Down Citi Bikes to Make NYC’s Rent Crisis Feel Real](https://www.wired.com/story/this-art-project-slows-down-citi-bikes-to-make-nycs-rent-crisis-feel-real/)
