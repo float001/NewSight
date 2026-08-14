@@ -23,6 +23,7 @@
   - [求一款本地播放音乐的软件](https://2libra.com/post/recommendations/PMxPnqa)
   - [脑梗为什么连续三年位居所有疾病首位](https://2libra.com/post/social-observation/Gsun07v)
   - [评价一下昨晚出来的 deepseek-harness 你会选择用它吗](https://2libra.com/post/ai-programming/wr8kYJZ)
+  - [飞书造浪者计划，可以领取 ai 录音豆，](https://2libra.com/post/promotion/2XTdJbi)
   - [🫂 拥抱脸的内测邀请](https://2libra.com/post/promotion/ud3hjdo)
 - 404 Media
   - [Person Hides Prompt Injection in Legal Filing Telling AI to Side With Them](https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/)
@@ -40,6 +41,7 @@
   - [JPMorgan cut Polymarket banking ties over regulatory concerns: Report](https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Neutrl pauses NUSD redemptions over undisclosed reserve issue](https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows](https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [RedotPay US IPO delayed amid regulatory, legal hurdles: Report](https://cointelegraph.com/news/redotpay-us-license-ipo-delay-binance-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered](https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether completes first full financial audit, receives clean KPMG opinion](https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - defend.network
@@ -60,6 +62,10 @@
   - [Tocharian Online](https://lrc.la.utexas.edu/eieol/tokol/0)
   - [US sells 30-year bonds at highest borrowing costs since 2001](https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9)
   - [Where did the old web go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
+- HackerNoon
+  - [Enhancing Software Design Credibility: Avoiding Clickbait Titles When Discussing Abstract Data Types](https://hackernoon.com/enhancing-software-design-credibility-avoiding-clickbait-titles-when-discussing-abstract-data-types?source=rss)
+  - [Post-Quantum TLS for Cloud APIs and Microservices](https://hackernoon.com/post-quantum-tls-for-cloud-apis-and-microservices?source=rss)
+  - [The Clean Attack Problem: When Nothing Looks Wrong, but Everything Is Compromised](https://hackernoon.com/the-clean-attack-problem-when-nothing-looks-wrong-but-everything-is-compromised?source=rss)
 - Horizon3.ai
   - [CVE-2026-72898 | Metabase Pre-Authentication SQL Injection Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-72898/)
 - infosecurity-magazine.com
@@ -106,6 +112,7 @@
 - The Verge
   - [2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;](https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer)
   - [Apple and Epic argue over how much Apple should get from purchases made outside the App Store](https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing)
+  - [Apple trained its own AI model for China with help from Alibaba](https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba)
   - [Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul](https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant)
   - [Help build a monument to that ‘sad little bitch’ Elon Musk](https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument)
   - [I finally found a robot lawnmower I’d trust with my yard](https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame)
@@ -405,8 +412,10 @@
   - [CVE-2026-73480 gdu Terminal Injection via Unstripped Escape Sequences](https://vulners.com/cve/CVE-2026-73480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-73480 gdu Terminal Injection via Unstripped Escape Sequences](https://vulners.com/cvelist/CVELIST:CVE-2026-73480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Dell XPS 13 Review: Move Over, Neo](https://www.wired.com/review/dell-xps-13-2026/)
   - [Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything](https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/)
   - [The Safety Reckoning Inside OpenAI](https://www.wired.com/story/openai-safety-security-ai-agents-culture/)
+  - [This Art Project Slows Down Citi Bikes to Make NYC’s Rent Crisis Feel Real](https://www.wired.com/story/this-art-project-slows-down-citi-bikes-to-make-nycs-rent-crisis-feel-real/)
 - 不安全
   - [ChatGPT玻区大幅度涨价后目前已经没有低价区 仅菲律宾区稍微便宜些](https://buaq.net/go-435079.html)
   - [DeepSeek API涨价也震惊国外开发者 原以为最多翻倍没想到是好几倍](https://buaq.net/go-435035.html)
@@ -415,6 +424,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [DeepSeek V4 Flash 之后，大模型开始卷「智效比」了](https://www.ifanr.com/1675156?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [实测GLM-5.3: 在神仙打架的一周杀回国模顶流，还按下了重置键](https://www.ifanr.com/1675225?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [爱范儿独家｜谷歌不再追逐前沿， DeepMind 或大幅裁员](https://www.ifanr.com/1675196?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集](https://www.qbitai.com/2026/08/472718.html)
@@ -425,5 +435,6 @@
   - [X 开源其排名算法，让用户查看是否被秘密限流](https://blog.upx8.com/X-%E5%BC%80%E6%BA%90%E5%85%B6%E6%8E%92%E5%90%8D%E7%AE%97%E6%B3%95-%E8%AE%A9%E7%94%A8%E6%88%B7%E6%9F%A5%E7%9C%8B%E6%98%AF%E5%90%A6%E8%A2%AB%E7%A7%98%E5%AF%86%E9%99%90%E6%B5%81)
   - [卸任前为“美国制造”站台，库克陪同美商务部长参观Mac Mini工厂](https://blog.upx8.com/%E5%8D%B8%E4%BB%BB%E5%89%8D%E4%B8%BA-%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0-%E7%AB%99%E5%8F%B0-%E5%BA%93%E5%85%8B%E9%99%AA%E5%90%8C%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%8F%82%E8%A7%82Mac-Mini%E5%B7%A5%E5%8E%82)
   - [微信：朋友圈现在、过去、未来都不会有二次编辑功能](https://blog.upx8.com/%E5%BE%AE%E4%BF%A1-%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%8E%B0%E5%9C%A8-%E8%BF%87%E5%8E%BB-%E6%9C%AA%E6%9D%A5%E9%83%BD%E4%B8%8D%E4%BC%9A%E6%9C%89%E4%BA%8C%E6%AC%A1%E7%BC%96%E8%BE%91%E5%8A%9F%E8%83%BD)
+  - [比尔·盖茨小女儿被曝涉嫌电信欺诈](https://blog.upx8.com/%E6%AF%94%E5%B0%94-%E7%9B%96%E8%8C%A8%E5%B0%8F%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%9B%9D%E6%B6%89%E5%AB%8C%E7%94%B5%E4%BF%A1%E6%AC%BA%E8%AF%88)
   - [苹果在阿里巴巴支持下为中国市场训练自有人工智能模型](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%94%AF%E6%8C%81%E4%B8%8B%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E8%AE%AD%E7%BB%83%E8%87%AA%E6%9C%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B)
   - [谷歌宣布推出Gemini 3.7 Flash模型](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%87%BAGemini-3-7-Flash%E6%A8%A1%E5%9E%8B)
