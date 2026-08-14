@@ -6,8 +6,10 @@
   - [gg 卡一直没收到邮件，还能用，我成为漏网之鱼了吗？](https://2libra.com/post/questions/moIvAvh)
   - [local.ai](https://2libra.com/post/promotion/CZe56Xy)
   - [Qoder：不花钱，就用隐私抵](https://2libra.com/post/ai-programming/uE6NkIv)
+  - [【兑换码】手头几条闲置住宅 IP 流量，免费送，AI/爬虫/数据采集均可，新池子，来感受一下](https://2libra.com/post/promotion/wHoUaOP)
   - [【💰】想收一个美版 IPhoneSE3](https://2libra.com/post/phone/kfpUeB8)
   - [【💰】麻蛋，早晨开车被罚](https://2libra.com/post/small-things/ZnQO__A)
+  - [三天了，还没动静，苹果这是咋了？之前正常就一个晚上就审完](https://2libra.com/post/apple/idSDkWO)
   - [新版的一些优化更新【浏览设置与自定义主题同步、主题圆角适配优化、雷达图重写等】](https://2libra.com/post/product-updates/Po-L9bA)
   - [有没有武汉漫展相关的信息](https://2libra.com/post/questions/r4vnVcQ)
   - [每天一分钟，知晓天下事！2026 年 8 月 14 日](https://2libra.com/post/social-observation/yTwepYd)
@@ -77,6 +79,7 @@
   - [Gemini shares slide after $108 million loss as Winklevoss says ‘we still have work to do’](https://www.theblock.co/news/business/2026-08-13-gemini-shares-slide-108-million-loss-winklevoss-says-we-still-have-work-to-do-411775)
   - [Google ad phishing scam drains $550,000 from Hyperliquid user, security specialist says](https://www.theblock.co/news/regulation/2026-08-13-google-ad-phishing-scam-drains-550000-from-hyperliquid-user-security-specialist-says-411755)
   - [Tether says KPMG issued ‘clean’ opinion in first full audit of USDT issuer’s financials](https://www.theblock.co/news/business/2026-08-13-tether-kpmg-first-full-audit-usdt-clean-opinion-411760)
+  - [Washington court orders Kalshi to halt most prediction market offerings in state](https://www.theblock.co/news/regulation/2026-08-13-washington-court-orders-kalshi-411785)
 - The Decoder
   - [Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices](https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/)
   - [Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%](https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/)
@@ -159,6 +162,7 @@
   - [CVE-2026-18077 | IBM i 7.3/7.4/7.5/7.6 buffer overflow](https://vuldb.com/vuln/389879)
   - [CVE-2026-18086 | IBM i 7.3/7.4/7.5/7.6 memory corruption](https://vuldb.com/vuln/389891)
   - [CVE-2026-18101 | IBM i 7.3/7.4/7.5/7.6 privileges management](https://vuldb.com/vuln/389892)
+  - [CVE-2026-18109 | boldgrid W3 Total Cache Plugin up to 2.10.3 on WordPress Lazy Load Images cross site scripting](https://vuldb.com/vuln/389952)
   - [CVE-2026-18164 | Flow Neuroscience/Halo Neuroscience FL-100 hard-coded credentials](https://vuldb.com/vuln/389778)
   - [CVE-2026-18193 | IBM i 7.3/7.4/7.5/7.6 input validation](https://vuldb.com/vuln/389880)
   - [CVE-2026-18249 | IBM i 7.3/7.4/7.5/7.6 privileges management](https://vuldb.com/vuln/389881)
@@ -369,6 +373,9 @@
 - Wired
   - [Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything](https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/)
   - [The Safety Reckoning Inside OpenAI](https://www.wired.com/story/openai-safety-security-ai-agents-culture/)
+- 不安全
+  - [DeepSeek API涨价也震惊国外开发者 原以为最多翻倍没想到是好几倍](https://buaq.net/go-435035.html)
+  - [X/Twitter开源发布推荐算法和核心排名引擎 用户可以查看自己是否被影子屏蔽](https://buaq.net/go-435036.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -377,5 +384,6 @@
 - 黑海洋
   - [OpenAI推Ultrafast模式：最高750词元/秒](https://blog.upx8.com/OpenAI%E6%8E%A8Ultrafast%E6%A8%A1%E5%BC%8F-%E6%9C%80%E9%AB%98750%E8%AF%8D%E5%85%83-%E7%A7%92)
   - [OpenAI收入运行率在IPO前突破400亿美元](https://blog.upx8.com/OpenAI%E6%94%B6%E5%85%A5%E8%BF%90%E8%A1%8C%E7%8E%87%E5%9C%A8IPO%E5%89%8D%E7%AA%81%E7%A0%B4400%E4%BA%BF%E7%BE%8E%E5%85%83)
+  - [X 开源其排名算法，让用户查看是否被秘密限流](https://blog.upx8.com/X-%E5%BC%80%E6%BA%90%E5%85%B6%E6%8E%92%E5%90%8D%E7%AE%97%E6%B3%95-%E8%AE%A9%E7%94%A8%E6%88%B7%E6%9F%A5%E7%9C%8B%E6%98%AF%E5%90%A6%E8%A2%AB%E7%A7%98%E5%AF%86%E9%99%90%E6%B5%81)
   - [卸任前为“美国制造”站台，库克陪同美商务部长参观Mac Mini工厂](https://blog.upx8.com/%E5%8D%B8%E4%BB%BB%E5%89%8D%E4%B8%BA-%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0-%E7%AB%99%E5%8F%B0-%E5%BA%93%E5%85%8B%E9%99%AA%E5%90%8C%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%8F%82%E8%A7%82Mac-Mini%E5%B7%A5%E5%8E%82)
   - [谷歌宣布推出Gemini 3.7 Flash模型](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%87%BAGemini-3-7-Flash%E6%A8%A1%E5%9E%8B)
