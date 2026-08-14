@@ -13,6 +13,7 @@
   - [三天了，还没动静，苹果这是咋了？之前正常就一个晚上就审完](https://2libra.com/post/apple/idSDkWO)
   - [下班倒计时 大家周末都怎么安排？](https://2libra.com/post/personal-life/HYCQVDr)
   - [久坐久站走路都腰痛，去看了下说是腰肌劳损，需要加强腰部力量训练](https://2libra.com/post/health-consultation/zbfEcCR)
+  - [二刷《天气之子》，感觉这个世界好伪善](https://2libra.com/post/movie-experience/Ep7cCQu)
   - [京东咋这么恶心](https://2libra.com/post/excessive-things/g0Iewq5)
   - [发现了一个 DeepSeek Harness 的滑动变祖器插件](https://2libra.com/post/open-source-sharing/ArsqnA6)
   - [新版的一些优化更新【浏览设置与自定义主题同步、主题圆角适配优化、雷达图重写等】](https://2libra.com/post/product-updates/Po-L9bA)
@@ -48,6 +49,8 @@
   - [Tether completes first full financial audit, receives clean KPMG opinion](https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daniel.haxx.se
   - [curl performance](https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/)
+- darkreading
+  - [Cyera's Oasis Security Buy is All About AI Agent Control](https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control)
 - defend.network
   - [SharePoint auth bypass exploited; 737 Chrome VPN extensions abused; Microsoft patches 398 flaws](https://defend.network/briefings/sharepoint-authentication-bypass-chrome-vpn-malware-win-2026-08-14.html)
 - Fidelis Security
@@ -76,6 +79,7 @@
 - Horizon3.ai
   - [CVE-2026-72898 | Metabase Pre-Authentication SQL Injection Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-72898/)
 - infosecurity-magazine.com
+  - [New Mirai-Based Linux Botnet ‘Evooo1Bot’ Turns Victims Into Proxies](https://www.infosecurity-magazine.com/news/new-linux-botnet-evooo1bot-victims/)
   - [Novel macOS Infostealer AmnesiaStealer Spread via ClickFix](https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/)
   - [Researchers Link 'Jewelbug' Chinese APT to Hack-for-Hire Operations](https://www.infosecurity-magazine.com/news/researchers-link-chinese-apt-hack/)
 - johndcook.com
@@ -85,6 +89,7 @@
   - [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
 - MIT Technology Review
   - [Building a practical path to post-quantum cryptography](https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/)
+  - [The Download: Flock’s new rules, cloning’s future, and children’s cells](https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/)
 - NOSEC 安全讯息平台 - 漏洞预警
   - [【已支持检测】JetBrains TeamCity 未认证远程代码执行漏洞...](https://nosec.org/home/detail/5968.html)
   - [【已支持检测】Metabase 满分未认证 SQL 注入漏洞可导致实...](https://nosec.org/home/detail/5967.html)
@@ -118,6 +123,9 @@
   - [Citigroup CEO Fraser on Clarity Act: ‘We would like to see a good bill go through,’ as stablecoin reward issues simmer](https://www.theblock.co/news/regulation/2026-08-13-citigroup-ceo-fraser-on-clarity-act-we-would-like-to-see-good-bill-go-stablecoin-reward-issues-simmer-411751)
   - [Gemini shares slide after $108 million loss as Winklevoss says ‘we still have work to do’](https://www.theblock.co/news/business/2026-08-13-gemini-shares-slide-108-million-loss-winklevoss-says-we-still-have-work-to-do-411775)
   - [Google ad phishing scam drains $550,000 from Hyperliquid user, security specialist says](https://www.theblock.co/news/regulation/2026-08-13-google-ad-phishing-scam-drains-550000-from-hyperliquid-user-security-specialist-says-411755)
+  - [Hyperscale Data sells 685 bitcoin for $43 million to fund Michigan data center](https://www.theblock.co/news/business/2026-08-14-hyperscale-data-sells-685-bitcoin-for-43-million-to-fund-michigan-data-center-411827)
+  - [Kraken parent Payward posts $508 million in Q2 adjusted revenue as growth broadens beyond crypto trading](https://www.theblock.co/news/business/2026-08-14-kraken-parent-payward-508-million-q2-adjusted-revenue-411818)
+  - [Norway sovereign wealth fund sees indirect bitcoin exposure hit all-time high, with Strategy accounting for 86%: K33](https://www.theblock.co/news/markets/2026-08-14-norway-sovereign-wealth-fund-indirect-bitcoin-exposure-all-time-high-strategy-k33-411815)
   - [Strategy, Metaplanet could face MSCI index removal under new proposal](https://www.theblock.co/news/business/2026-08-14-strategy-metaplanet-msci-index-proposal-411809)
   - [Tether says KPMG issued ‘clean’ opinion in first full audit of USDT issuer’s financials](https://www.theblock.co/news/business/2026-08-13-tether-kpmg-first-full-audit-usdt-clean-opinion-411760)
   - [Washington court orders Kalshi to halt most prediction market offerings in state](https://www.theblock.co/news/regulation/2026-08-13-washington-court-orders-kalshi-411785)
@@ -246,6 +254,7 @@
   - [CVE-2026-19845 | TOTOLINK A800R 4.1.2cu.5137_B20200730 lan.so /cgi-bin/cstecgi.cgi setStaticDhcpConfig Comment stack-based overflow](https://vuldb.com/vuln/389981)
   - [CVE-2026-19846 | TOTOLINK A800R 4.1.2cu.5137_B20200730 firewall.so /cgi-bin/cstecgi.cgi setUrlFilterRules url stack-based overflow](https://vuldb.com/vuln/389982)
   - [CVE-2026-19847 | TOTOLINK A800R 4.1.2cu.5137_B20200730 wps.so /cgi-bin/cstecgi.cgi setWiFiWpsConfig pin stack-based overflow](https://vuldb.com/vuln/389983)
+  - [CVE-2026-19870 | Roskus Prospero Flow CRM up to 5.15.9 Payroll authorization](https://vuldb.com/vuln/390019)
   - [CVE-2026-23603 | Gitea up to 1.26.4 OAuth2 server-side request forgery](https://vuldb.com/vuln/389677)
   - [CVE-2026-24059 | Gitea up to 1.25.4 API Scope Middleware registration-token privileges management](https://vuldb.com/vuln/389670)
   - [CVE-2026-24791 | Gitea up to 1.26.1 API Routes /api/v1/user improper authorization](https://vuldb.com/vuln/389671)
@@ -364,6 +373,16 @@
   - [CVE-2026-72741 | Goodrain Rainbond up to 6.9.7 CheckToken privileges management](https://vuldb.com/vuln/389742)
   - [CVE-2026-72776 | Fosowl AgenticSeek up to 2.41.1 BashInterpreter subprocess.Popen os command injection (fc242c7)](https://vuldb.com/vuln/389903)
   - [CVE-2026-72777 | DayuanJiang next-ai-draw-io up to 0.4.16 /api/parse-url server-side request forgery](https://vuldb.com/vuln/389751)
+  - [CVE-2026-72829 | getgrav Grav up to 1.0.12 Grav API create/update information disclosure](https://vuldb.com/vuln/390017)
+  - [CVE-2026-72830 | Getgrav Grav Plugin up to 1.0.12 ConfigController injection](https://vuldb.com/vuln/390013)
+  - [CVE-2026-72831 | GetGrav up to 1.4.6 Flex Objects API update improper authorization](https://vuldb.com/vuln/390016)
+  - [CVE-2026-72832 | GetGrav up to 2.0.11 Security Security.php Security::detectXss cross site scripting](https://vuldb.com/vuln/390005)
+  - [CVE-2026-72833 | GetGrav Grav API Plugin up to 1.0.11 API Key Scope Enforcement requirePermission privileges management](https://vuldb.com/vuln/390015)
+  - [CVE-2026-72834 | Filebrowser up to 2.63.18 Checksum /api/resources resourceGetHandler checksum privileges management](https://vuldb.com/vuln/390003)
+  - [CVE-2026-72835 | filebrowser up to 2.63.20 improper authorization](https://vuldb.com/vuln/390012)
+  - [CVE-2026-72836 | FileBrowser up to 2.63.18 Self-Registration information disclosure](https://vuldb.com/vuln/390004)
+  - [CVE-2026-72837 | filebrowser File Browser up to 2.63.19 Proxy/Hook Authentication Auto-Provisioning isolation](https://vuldb.com/vuln/390007)
+  - [CVE-2026-72838 | FileBrowser up to 2.63.18 Tus Resumable-Upload Patch Endpoint unrestricted upload](https://vuldb.com/vuln/390008)
   - [CVE-2026-72839 | Filebrowser up to 2.63.16 permission](https://vuldb.com/vuln/389915)
   - [CVE-2026-72840 | OpenWrt luci-mod-system-mounts /etc/crontabs/root file.write privileges management](https://vuldb.com/vuln/389920)
   - [CVE-2026-72841 | OpenWrt LuCI OpenVPN instance_name2 path traversal](https://vuldb.com/vuln/389917)
@@ -375,8 +394,12 @@
   - [CVE-2026-72855 | Budibase up to 3.39.x OpenAPI Query Import server-side request forgery](https://vuldb.com/vuln/389928)
   - [CVE-2026-72856 | Budibase up to 3.39.x owner improper authorization](https://vuldb.com/vuln/389929)
   - [CVE-2026-72857 | Budibase up to 3.39.x Datasource missing encryption](https://vuldb.com/vuln/389922)
+  - [CVE-2026-72859 | Budibase up to 3.39.4 S3 Attachment Upload Endpoint privileges management](https://vuldb.com/vuln/390014)
   - [CVE-2026-73037 | DayuanJiang next-ai-draw-io up to 0.4.16 mcp cross site scripting](https://vuldb.com/vuln/389752)
   - [CVE-2026-73039 | Fosowl Streama up to 2.41.1 Viewing Status Controller ViewingStatusController authorization](https://vuldb.com/vuln/389913)
+  - [CVE-2026-73048 | SiYuan-Note SiYuan up to 3.7.3 getRefIDsByFileAnnotationID endpoint information disclosure](https://vuldb.com/vuln/390009)
+  - [CVE-2026-73049 | siyuan-note SiYuan up to 3.7.3 GetAttributeViewBacklinks Endpoint information disclosure](https://vuldb.com/vuln/390010)
+  - [CVE-2026-73051 | actix actix-http up to 3.12.0 HTTP1.1 Parser request smuggling](https://vuldb.com/vuln/390011)
   - [CVE-2026-73266 | Red Hat Multicluster Engine for Kubernetes clusterclaims-controller improper authorization](https://vuldb.com/vuln/389714)
   - [CVE-2026-73479 | Byron dua-cli up to 2.41.1 TUI interface escape output](https://vuldb.com/vuln/389908)
   - [CVE-2026-73480 | dundee gdu escape output (fe605ec)](https://vuldb.com/vuln/389897)
@@ -396,6 +419,7 @@
   - [CVE-2026-73557 | vllm-project vLLM up to 0.25.x Embed Utils embed_utils.py safe_load_prompt_embeds race condition](https://vuldb.com/vuln/389648)
   - [CVE-2026-73558 | vllm-project vLLM up to 0.26.x Activation Kernels activation_kernels.cu act_and_mul_kernel integer overflow](https://vuldb.com/vuln/389649)
   - [CVE-2026-73569 | NaturalIntelligence fast-xml-parser up to 5.10.0 XML Parser OrderedObjParser.js addInputEntities resource consumption](https://vuldb.com/vuln/389737)
+  - [CVE-2026-73630 | SiYuan Note up to 3.7.3 FilePublishAccess authFilePublishAccess ID information disclosure](https://vuldb.com/vuln/390006)
   - [CVE-2026-73643 | nodeca js-yaml up to 5.2.1 Parser src/parser/parser.ts readFlowCollection infinite loop](https://vuldb.com/vuln/389741)
   - [CVE-2026-73644 | OpenIdentityPlatform OpenDJ up to 5.1.1 SASL PlainSASLMechanismHandler.java improper authorization](https://vuldb.com/vuln/389738)
   - [CVE-2026-73645 | OpenZeppelin Confidential Contracts up to 0.3.0 ERC7984ERC20Wrapper ERC7984ERC20Wrapper.sol wrap/onTransferReceived integer overflow](https://vuldb.com/vuln/389739)
@@ -423,6 +447,7 @@
   - [CVE-2026-73669 | Signify Philips Hue Bridge up to 1.77.2071318009 Mosquitto MQTT Broker access control](https://vuldb.com/vuln/389860)
   - [CVE-2026-73670 | Saurus CMS Community Edition Database Data admin/db_data.php table_name sql injection (d886e5b)](https://vuldb.com/vuln/389650)
   - [CVE-2026-73671 | Saurus CMS Community Edition Logout classes/port.inc.php url redirect (d886e5b)](https://vuldb.com/vuln/389655)
+  - [CVE-2026-73673 | Netis NC63 Router up to 3.0.0.3327 Firmware Update /cgi-bin/upload_fw.cgi missing authentication](https://vuldb.com/vuln/390018)
   - [CVE-2026-8715 | HashiCorp Vault Secrets Operator up to 1.4.x AppRole Authentication Configuration path traversal](https://vuldb.com/vuln/389873)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Why API Discovery Is Critical for Modern AppSec Programs](https://blog.qualys.com/category/misc)
@@ -444,6 +469,8 @@
   - [ChatGPT玻区大幅度涨价后目前已经没有低价区 仅菲律宾区稍微便宜些](https://buaq.net/go-435079.html)
   - [DeepSeek API涨价也震惊国外开发者 原以为最多翻倍没想到是好几倍](https://buaq.net/go-435035.html)
   - [X/Twitter开源发布推荐算法和核心排名引擎 用户可以查看自己是否被影子屏蔽](https://buaq.net/go-435036.html)
+  - [【已支持检测】JetBrains TeamCity 未认证远程代码执行漏洞...](https://buaq.net/go-435046.html)
+  - [【已支持检测】Metabase 满分未认证 SQL 注入漏洞可导致实...](https://buaq.net/go-435047.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -457,6 +484,7 @@
 - 黑海洋
   - [OpenAI推Ultrafast模式：最高750词元/秒](https://blog.upx8.com/OpenAI%E6%8E%A8Ultrafast%E6%A8%A1%E5%BC%8F-%E6%9C%80%E9%AB%98750%E8%AF%8D%E5%85%83-%E7%A7%92)
   - [OpenAI收入运行率在IPO前突破400亿美元](https://blog.upx8.com/OpenAI%E6%94%B6%E5%85%A5%E8%BF%90%E8%A1%8C%E7%8E%87%E5%9C%A8IPO%E5%89%8D%E7%AA%81%E7%A0%B4400%E4%BA%BF%E7%BE%8E%E5%85%83)
+  - [SK海力士崔泰源：明年将迎最严重“存储荒”](https://blog.upx8.com/SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%B4%94%E6%B3%B0%E6%BA%90-%E6%98%8E%E5%B9%B4%E5%B0%86%E8%BF%8E%E6%9C%80%E4%B8%A5%E9%87%8D-%E5%AD%98%E5%82%A8%E8%8D%92)
   - [X 开源其排名算法，让用户查看是否被秘密限流](https://blog.upx8.com/X-%E5%BC%80%E6%BA%90%E5%85%B6%E6%8E%92%E5%90%8D%E7%AE%97%E6%B3%95-%E8%AE%A9%E7%94%A8%E6%88%B7%E6%9F%A5%E7%9C%8B%E6%98%AF%E5%90%A6%E8%A2%AB%E7%A7%98%E5%AF%86%E9%99%90%E6%B5%81)
   - [卸任前为“美国制造”站台，库克陪同美商务部长参观Mac Mini工厂](https://blog.upx8.com/%E5%8D%B8%E4%BB%BB%E5%89%8D%E4%B8%BA-%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0-%E7%AB%99%E5%8F%B0-%E5%BA%93%E5%85%8B%E9%99%AA%E5%90%8C%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%8F%82%E8%A7%82Mac-Mini%E5%B7%A5%E5%8E%82)
   - [微信：朋友圈现在、过去、未来都不会有二次编辑功能](https://blog.upx8.com/%E5%BE%AE%E4%BF%A1-%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%8E%B0%E5%9C%A8-%E8%BF%87%E5%8E%BB-%E6%9C%AA%E6%9D%A5%E9%83%BD%E4%B8%8D%E4%BC%9A%E6%9C%89%E4%BA%8C%E6%AC%A1%E7%BC%96%E8%BE%91%E5%8A%9F%E8%83%BD)
