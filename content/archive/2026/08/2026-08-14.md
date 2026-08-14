@@ -16,6 +16,7 @@
   - [新版的一些优化更新【浏览设置与自定义主题同步、主题圆角适配优化、雷达图重写等】](https://2libra.com/post/product-updates/Po-L9bA)
   - [最近狂推的 WorkBuddy，看着这么嗨，被营销熏了，于是我用了一上午，还是希望它快快长大。](https://2libra.com/post/ai-tools/FXHnuoI)
   - [有没有武汉漫展相关的信息](https://2libra.com/post/questions/r4vnVcQ)
+  - [本论坛只挂着会升级不？](https://2libra.com/post/forum-function/YIr363s)
   - [每天一分钟，知晓天下事！2026 年 8 月 14 日](https://2libra.com/post/social-observation/yTwepYd)
   - [求一款本地播放音乐的软件](https://2libra.com/post/recommendations/PMxPnqa)
   - [评价一下昨晚出来的 deepseek-harness 你会选择用它吗](https://2libra.com/post/ai-programming/wr8kYJZ)
@@ -55,6 +56,8 @@
   - [Where did the old web go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
 - Horizon3.ai
   - [CVE-2026-72898 | Metabase Pre-Authentication SQL Injection Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-72898/)
+- infosecurity-magazine.com
+  - [Researchers Link 'Jewelbug' Chinese APT to Hack-for-Hire Operations](https://www.infosecurity-magazine.com/news/researchers-link-chinese-apt-hack/)
 - johndcook.com
   - [Hadamard Codes and Sphere Packing](https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/)
   - [How NASA’s Mariner 9 probe encoded images](https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/)
