@@ -21,12 +21,14 @@
   - [How Fidelis Container Secure Helps Reduce Container Security Vulnerabilities Across Docker and Kubernetes](https://fidelissecurity.com/threatgeek/cloud-security/reduce-container-security-vulnerabilities-docker-kubernetes/)
 - Hacker News Frontpage
   - [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
+  - [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
   - [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
   - [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/)
   - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
   - [How AI text watermarking works](https://declaude.org/watermarking/)
   - [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
   - [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
+  - [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/)
   - [Tocharian Online](https://lrc.la.utexas.edu/eieol/tokol/0)
   - [US sells 30-year bonds at highest borrowing costs since 2001](https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9)
   - [Where did the old web go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
@@ -353,5 +355,6 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [OpenAI收入运行率在IPO前突破400亿美元](https://blog.upx8.com/OpenAI%E6%94%B6%E5%85%A5%E8%BF%90%E8%A1%8C%E7%8E%87%E5%9C%A8IPO%E5%89%8D%E7%AA%81%E7%A0%B4400%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [卸任前为“美国制造”站台，库克陪同美商务部长参观Mac Mini工厂](https://blog.upx8.com/%E5%8D%B8%E4%BB%BB%E5%89%8D%E4%B8%BA-%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0-%E7%AB%99%E5%8F%B0-%E5%BA%93%E5%85%8B%E9%99%AA%E5%90%8C%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%8F%82%E8%A7%82Mac-Mini%E5%B7%A5%E5%8E%82)
   - [谷歌宣布推出Gemini 3.7 Flash模型](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%87%BAGemini-3-7-Flash%E6%A8%A1%E5%9E%8B)
