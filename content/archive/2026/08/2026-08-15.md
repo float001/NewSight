@@ -10,6 +10,8 @@
 - blog.jim-nielsen.com
   - [Oh Hey, It’s Not Just Me](https://blog.jim-nielsen.com/2026/its-not-just-me/)
 - CoinTelegraph
+  - [Gen Z favors ETFs and trades less than older cohorts: Binance](https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ireland plans industry standards for illicit crypto use](https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kraken parent Payward revenue rises 17% as trading volume falls in Q2](https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing](https://design.google/library/expressive-material-design-google-research)
@@ -33,6 +35,8 @@
   - [Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent](https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/)
 - shkspr.mobi
   - [Edinburgh Fringe: Target Audience ★★★★★](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/)
+- simonwillison.net
+  - [Don't classify. Hallucinate!](https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/)
 - TechCrunch
   - [Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)
   - [Read-it-later app Pocket shut down down — here are the best alternatives](https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/)
@@ -44,9 +48,11 @@
   - [French tax breach exposes nearly 678,000 people as crypto wrench attacks pile up](https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876)
   - [Israel’s largest bank taps Galaxy to offer bitcoin, ether and solana trading](https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868)
   - [Mizuho cuts BitGo price target to $11, but says Clarity Act delays could prove advantageous](https://www.theblock.co/news/markets/2026-08-14-mizuho-cuts-bitgo-price-target-to-11-but-says-clarity-act-delays-could-prove-advantageous-411878)
+  - [OCC grants conditional approval for Trump-backed World Liberty National Trust bank](https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906)
   - [‘Honestly, I don’t care’: Tether CEO dismisses critics following first KPMG audit](https://www.theblock.co/news/business/2026-08-14-honestly-i-dont-care-tether-ceo-dismisses-critics-first-kpmg-audit-411886)
 - The Decoder
   - [Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license](https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/)
+  - [Anthropic announces watermark detection API that will let third parties detect Claude's AI texts](https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/)
   - [OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline](https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/)
 - The Verge
   - [A RAMageddon guide to back-to-school laptop shopping](https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school)
@@ -99,12 +105,14 @@
   - [CVE-2026-19910 | PAX Technology Q80 2.6.33.6690R Application Installer signature verification](https://vuldb.com/vuln/390122)
   - [CVE-2026-46439 | oscal-compass compliance-trestle up to 3.12.1/4.0.2 Jinja trestle author jinja special elements used in a template engine](https://vuldb.com/vuln/390044)
   - [CVE-2026-47192 | Siemens kas up to 5.2 Signature Validation _source_dir state issue](https://vuldb.com/vuln/390056)
+  - [CVE-2026-47701 | OpenTelemetry Operator ServiceMonitor bearerTokenFile path traversal](https://vuldb.com/vuln/390132)
   - [CVE-2026-47766 | containers crun up to 1.27 Device Setup symlink](https://vuldb.com/vuln/390045)
   - [CVE-2026-48528 | NCEAS Metacat up to 3.4.0 Rest Api Endpoint web.xml nodeId sql injection](https://vuldb.com/vuln/390069)
   - [CVE-2026-49263 | capstone-engine Capstone up to 6.0.0-Alpha8 WebAssembly Backend cs_disasm/cs_disasm_iter integer overflow](https://vuldb.com/vuln/390077)
   - [CVE-2026-49457 | benoitc erlang_quic up to 1.4.3 certificate validation](https://vuldb.com/vuln/390079)
   - [CVE-2026-50027 | doobidoo mcp-memory-service up to 10.67.0 /api/documents improper authentication](https://vuldb.com/vuln/390092)
   - [CVE-2026-50029 | sunnyadn js-toml up to 1.1.1 Duplicate Key State Machine load type confusion](https://vuldb.com/vuln/390093)
+  - [CVE-2026-50523 | Microsoft PowerShell 7.4/7.5/7.6 command injection](https://vuldb.com/vuln/390131)
   - [CVE-2026-63361 | LimeSurvey 7.0.5 HTML Editor Popup Endpoint text/name HTML injection](https://vuldb.com/vuln/390061)
   - [CVE-2026-67365 | iCagenda Extension up to 4.0.11 sql injection](https://vuldb.com/vuln/390125)
   - [CVE-2026-67366 | Icagenda Extension up to 2.0.0-4.0.11 cross-site request forgery](https://vuldb.com/vuln/390127)
@@ -114,6 +122,8 @@
   - [CVE-2026-73678 | MindsDB Minds Platform up to 26.1.0 Anton Agent Scratchpad Tool /api/v1/responses/ exec os command injection](https://vuldb.com/vuln/390094)
   - [CVE-2026-73679 | ImpressCMS up to 2.0.3 Custom Tag renderWithPhp code injection](https://vuldb.com/vuln/390095)
   - [CVE-2026-73680 | Cockpit HQ Cockpit CMS up to 2.14.0 FFmpeg Integration fromShellCommandline command injection](https://vuldb.com/vuln/390123)
+  - [CVE-2026-73682 | SemaphoreUI Semaphore up to 2.18.19 Git URL git_url os command injection](https://vuldb.com/vuln/390130)
+  - [CVE-2026-73683 | Laravel Socialite up to 5.28.x Facebook Provider FacebookProvider.php getUserByOIDCToken improper authorization](https://vuldb.com/vuln/390133)
   - [CVE-2026-73844 | OnData Ckan Mcp Server up to 0.4.111 information disclosure](https://vuldb.com/vuln/390054)
   - [CVE-2026-73845 | ondata ckan-mcp-server up to 0.4.111 URL Validation src/tools/quality.ts ckan_get_mqa_quality/ckan_get_mqa_quality_details server_url input validation](https://vuldb.com/vuln/390055)
   - [CVE-2026-73846 | ondata ckan-mcp-server up to 0.4.111 Cache src/utils/cache.ts canonicalizeParams input validation](https://vuldb.com/vuln/390053)
@@ -121,5 +131,9 @@
   - [CVE-2026-74248 | OpenStack Octavia up to 16.0.1/17.0.0/18.0.0 improper authorization](https://vuldb.com/vuln/390129)
 - Vulners.com RSS Feed
   - [CVE-2026-50029 js-toml has silent type confusion via falsy-primitive duplicate-key bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-50029?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-73682 Semaphore prior to version 2.18.20 OS Command Injection via git_url Repository Handling](https://vulners.com/cvelist/CVELIST:CVE-2026-73682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [New York City Lawmakers Push to ‘Ban the Scan’ at MSG](https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/)
+  - [The Best Movies to Stream This Month (August 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
