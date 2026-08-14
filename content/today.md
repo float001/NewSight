@@ -1,6 +1,10 @@
 # 今日安全资讯（2026-08-14）
 
 - 2Libra
+  - [Deepseek 涨价太狠了，有没有其它替代](https://2libra.com/post/ai-tools/vG8It98)
+  - [local.ai](https://2libra.com/post/promotion/CZe56Xy)
+  - [【💰】麻蛋，早晨开车被罚](https://2libra.com/post/small-things/ZnQO__A)
+  - [有没有武汉漫展相关的信息](https://2libra.com/post/questions/r4vnVcQ)
   - [每天一分钟，知晓天下事！2026 年 8 月 14 日](https://2libra.com/post/social-observation/yTwepYd)
   - [🫂 拥抱脸的内测邀请](https://2libra.com/post/promotion/ud3hjdo)
 - 404 Media
@@ -35,6 +39,7 @@
 - Horizon3.ai
   - [CVE-2026-72898 | Metabase Pre-Authentication SQL Injection Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-72898/)
 - johndcook.com
+  - [Hadamard Codes and Sphere Packing](https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/)
   - [How NASA’s Mariner 9 probe encoded images](https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/)
 - MIT Technology Review
   - [Building a practical path to post-quantum cryptography](https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/)
@@ -77,6 +82,7 @@
   - [The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price](https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price)
   - [The Trump admin will start letting private firms launch international cyberattacks](https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms)
   - [This school-friendly laptop from HP is $300 off](https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale)
+  - [Trump declares 100 percent tariffs on many drones and all aircraft parts](https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts)
   - [You can now just point at a mess and this robot vacuum will suck it up](https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review)
 - VulDB Recent Entries
   - [CVE-2022-4993 | HTML::FormHandler up to 0.40068 Error _apply_actions/add_error code injection](https://vuldb.com/vuln/389661)
@@ -355,6 +361,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [OpenAI推Ultrafast模式：最高750词元/秒](https://blog.upx8.com/OpenAI%E6%8E%A8Ultrafast%E6%A8%A1%E5%BC%8F-%E6%9C%80%E9%AB%98750%E8%AF%8D%E5%85%83-%E7%A7%92)
   - [OpenAI收入运行率在IPO前突破400亿美元](https://blog.upx8.com/OpenAI%E6%94%B6%E5%85%A5%E8%BF%90%E8%A1%8C%E7%8E%87%E5%9C%A8IPO%E5%89%8D%E7%AA%81%E7%A0%B4400%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [卸任前为“美国制造”站台，库克陪同美商务部长参观Mac Mini工厂](https://blog.upx8.com/%E5%8D%B8%E4%BB%BB%E5%89%8D%E4%B8%BA-%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0-%E7%AB%99%E5%8F%B0-%E5%BA%93%E5%85%8B%E9%99%AA%E5%90%8C%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%8F%82%E8%A7%82Mac-Mini%E5%B7%A5%E5%8E%82)
   - [谷歌宣布推出Gemini 3.7 Flash模型](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%87%BAGemini-3-7-Flash%E6%A8%A1%E5%9E%8B)
