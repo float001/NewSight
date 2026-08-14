@@ -18,8 +18,10 @@
   - [Mission-Driven Security: Inside a Global Bank's Defense](https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense)
 - Fidelis Security
   - [How Behavioral EDR Improves Malware Hunting Accuracy](https://fidelissecurity.com/threatgeek/threat-detection-response/malware-hunting-accuracy-behavioral-edr/)
+  - [How to Deploy XDR Across On-Prem and Cloud Environments: A Step-by-Step Strategy](https://fidelissecurity.com/threatgeek/xdr-security/deploy-xdr-agents-on-prem-and-cloud/)
   - [Malware Traffic Analysis for EDR Teams: How to Connect Endpoint Events to Network Behavior](https://fidelissecurity.com/threatgeek/endpoint-security/malware-traffic-analysis/)
 - Hacker News Frontpage
+  - [Every exterior shot in The Taking of Pelham 123](https://iafisher.com/2026/07/pelham-123)
   - [High-Performance Array-Backed LRU Hash Table](https://github.com/adanil-code/LRUHashTable)
   - [How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)
   - [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
@@ -34,6 +36,7 @@
 - TechCrunch
   - [Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)
   - [Read-it-later app Pocket shut down down — here are the best alternatives](https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/)
+  - [Self-driving trucks are officially testing on California highways](https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/)
   - [Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/)
   - [Unforgetful is a new reminders app for people who can’t stop hitting snooze](https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/)
 - The Block
@@ -91,6 +94,9 @@
   - [CVE-2026-19903 | SourceCodester Online Clothing Store 1.0 SQL Database Backup /db/shopping.sql file access](https://vuldb.com/vuln/390096)
   - [CVE-2026-19904 | SourceCodester Online Book Store System 1.0 System Settings index.php?page=site_settings cross site scripting](https://vuldb.com/vuln/390097)
   - [CVE-2026-19905 | Jinher OA 1.0 attendance_out_approve.aspx httpOID sql injection](https://vuldb.com/vuln/390110)
+  - [CVE-2026-19908 | PAX Technology Q80 2.6.33.6690R XCB Daemon improper authentication](https://vuldb.com/vuln/390124)
+  - [CVE-2026-19909 | PAX Technology Q80 2.6.33.6690R AIP File Parser link following](https://vuldb.com/vuln/390121)
+  - [CVE-2026-19910 | PAX Technology Q80 2.6.33.6690R Application Installer signature verification](https://vuldb.com/vuln/390122)
   - [CVE-2026-46439 | oscal-compass compliance-trestle up to 3.12.1/4.0.2 Jinja trestle author jinja special elements used in a template engine](https://vuldb.com/vuln/390044)
   - [CVE-2026-47192 | Siemens kas up to 5.2 Signature Validation _source_dir state issue](https://vuldb.com/vuln/390056)
   - [CVE-2026-47766 | containers crun up to 1.27 Device Setup symlink](https://vuldb.com/vuln/390045)
@@ -100,13 +106,19 @@
   - [CVE-2026-50027 | doobidoo mcp-memory-service up to 10.67.0 /api/documents improper authentication](https://vuldb.com/vuln/390092)
   - [CVE-2026-50029 | sunnyadn js-toml up to 1.1.1 Duplicate Key State Machine load type confusion](https://vuldb.com/vuln/390093)
   - [CVE-2026-63361 | LimeSurvey 7.0.5 HTML Editor Popup Endpoint text/name HTML injection](https://vuldb.com/vuln/390061)
+  - [CVE-2026-67365 | iCagenda Extension up to 4.0.11 sql injection](https://vuldb.com/vuln/390125)
+  - [CVE-2026-67366 | Icagenda Extension up to 2.0.0-4.0.11 cross-site request forgery](https://vuldb.com/vuln/390127)
+  - [CVE-2026-71570 | icagenda Extension up to 4.0.11 information disclosure](https://vuldb.com/vuln/390126)
+  - [CVE-2026-71571 | icagenda Extension up to 4.0.11 sql injection](https://vuldb.com/vuln/390128)
   - [CVE-2026-72970 | Microsoft Edge up to 151.0.4129.78 buffer overflow](https://vuldb.com/vuln/390068)
   - [CVE-2026-73678 | MindsDB Minds Platform up to 26.1.0 Anton Agent Scratchpad Tool /api/v1/responses/ exec os command injection](https://vuldb.com/vuln/390094)
   - [CVE-2026-73679 | ImpressCMS up to 2.0.3 Custom Tag renderWithPhp code injection](https://vuldb.com/vuln/390095)
+  - [CVE-2026-73680 | Cockpit HQ Cockpit CMS up to 2.14.0 FFmpeg Integration fromShellCommandline command injection](https://vuldb.com/vuln/390123)
   - [CVE-2026-73844 | OnData Ckan Mcp Server up to 0.4.111 information disclosure](https://vuldb.com/vuln/390054)
   - [CVE-2026-73845 | ondata ckan-mcp-server up to 0.4.111 URL Validation src/tools/quality.ts ckan_get_mqa_quality/ckan_get_mqa_quality_details server_url input validation](https://vuldb.com/vuln/390055)
   - [CVE-2026-73846 | ondata ckan-mcp-server up to 0.4.111 Cache src/utils/cache.ts canonicalizeParams input validation](https://vuldb.com/vuln/390053)
   - [CVE-2026-73850 | Emlog up to 2.6.20 ai.php queryDatabase sql injection](https://vuldb.com/vuln/390071)
+  - [CVE-2026-74248 | OpenStack Octavia up to 16.0.1/17.0.0/18.0.0 improper authorization](https://vuldb.com/vuln/390129)
 - Vulners.com RSS Feed
   - [CVE-2026-50029 js-toml has silent type confusion via falsy-primitive duplicate-key bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-50029?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
