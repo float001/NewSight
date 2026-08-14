@@ -11,6 +11,7 @@
   - [【💰】继续开发文件管理器](https://2libra.com/post/open-source-sharing/yOE5pzl)
   - [【💰】麻蛋，早晨开车被罚](https://2libra.com/post/small-things/ZnQO__A)
   - [三天了，还没动静，苹果这是咋了？之前正常就一个晚上就审完](https://2libra.com/post/apple/idSDkWO)
+  - [久坐久站走路都腰痛，去看了下说是腰肌劳损，需要加强腰部力量训练](https://2libra.com/post/health-consultation/zbfEcCR)
   - [京东咋这么恶心](https://2libra.com/post/excessive-things/g0Iewq5)
   - [新版的一些优化更新【浏览设置与自定义主题同步、主题圆角适配优化、雷达图重写等】](https://2libra.com/post/product-updates/Po-L9bA)
   - [最近狂推的 WorkBuddy，看着这么嗨，被营销熏了，于是我用了一上午，还是希望它快快长大。](https://2libra.com/post/ai-tools/FXHnuoI)
@@ -35,6 +36,8 @@
   - [Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows](https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered](https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether completes first full financial audit, receives clean KPMG opinion](https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- defend.network
+  - [SharePoint auth bypass exploited; 737 Chrome VPN extensions abused; Microsoft patches 398 flaws](https://defend.network/briefings/sharepoint-authentication-bypass-chrome-vpn-malware-win-2026-08-14.html)
 - Fidelis Security
   - [How Fidelis Container Secure Helps Reduce Container Security Vulnerabilities Across Docker and Kubernetes](https://fidelissecurity.com/threatgeek/cloud-security/reduce-container-security-vulnerabilities-docker-kubernetes/)
 - Hacker News Frontpage
@@ -111,10 +114,13 @@
   - [CVE-2026-13048 | Data::MuForm::Localizer up to 0.05 Message Catalog Loader Localizer.pm extract_header_msgstr lang os command injection](https://vuldb.com/vuln/389663)
   - [CVE-2026-13051 | Form::Processor::Field::HtmlArea up to 1.162360 validate allocation of resources](https://vuldb.com/vuln/389662)
   - [CVE-2026-13365 | IBM Planning Analytics 2.0/2.1 cross-site request forgery](https://vuldb.com/vuln/389807)
+  - [CVE-2026-14290 | Embed Google Photos Album Plugin up to 2.2.1 on WordPress Shortcode cross site scripting](https://vuldb.com/vuln/389967)
   - [CVE-2026-14875 | IBM i Access Client Solutions up to 1.1.9.13 privileges management](https://vuldb.com/vuln/389808)
+  - [CVE-2026-15205 | Paymob Plugin up to 4.1.8 on WordPress sql injection](https://vuldb.com/vuln/389966)
   - [CVE-2026-16674 | IBM i 7.3/7.4/7.5/7.6 untrusted search path](https://vuldb.com/vuln/389809)
   - [CVE-2026-16692 | IBM i 7.3/7.4/7.5/7.6 stack-based overflow](https://vuldb.com/vuln/389810)
   - [CVE-2026-16722 | IBM i 7.3/7.4/7.5/7.6 privileges management](https://vuldb.com/vuln/389811)
+  - [CVE-2026-16739 | Epeken All Kurir for Woocommerce Plugin up to 2.1.2 on WordPress improper authentication](https://vuldb.com/vuln/389968)
   - [CVE-2026-16815 | IBM i 7.3/7.4/7.5/7.6 buffer overflow](https://vuldb.com/vuln/389812)
   - [CVE-2026-16853 | IBM i 7.3/7.4/7.5/7.6 out-of-bounds](https://vuldb.com/vuln/389826)
   - [CVE-2026-16859 | IBM i 7.3/7.4/7.5/7.6 out-of-bounds](https://vuldb.com/vuln/389827)
@@ -164,6 +170,7 @@
   - [CVE-2026-17502 | IBM i 7.3/7.4/7.5/7.6 out-of-bounds write](https://vuldb.com/vuln/389887)
   - [CVE-2026-17649 | IBM i 7.3/7.4/7.5/7.6 out-of-bounds](https://vuldb.com/vuln/389888)
   - [CVE-2026-18020 | IBM i 7.3/7.4/7.5/7.6 off-by-one](https://vuldb.com/vuln/389889)
+  - [CVE-2026-18039 | Essential Addons for Elementor Plugin up to 6.7.1 on WordPress privileges management](https://vuldb.com/vuln/389969)
   - [CVE-2026-18068 | IBM i 7.3/7.4/7.5/7.6 information disclosure](https://vuldb.com/vuln/389890)
   - [CVE-2026-18077 | IBM i 7.3/7.4/7.5/7.6 buffer overflow](https://vuldb.com/vuln/389879)
   - [CVE-2026-18086 | IBM i 7.3/7.4/7.5/7.6 memory corruption](https://vuldb.com/vuln/389891)
@@ -179,6 +186,7 @@
   - [CVE-2026-19297 | IBM Langflow OSS up to 1.9.6 improper authorization](https://vuldb.com/vuln/389896)
   - [CVE-2026-19483 | IBM Storage Scale up to 5.2.3.8/6.0.1.0 Management GUI information disclosure](https://vuldb.com/vuln/389895)
   - [CVE-2026-19487 | Perl up to 5.41.8 Aho-Corasick Prescan S_find_byclass input validation](https://vuldb.com/vuln/389651)
+  - [CVE-2026-19617 | Red Hat Linux libdm recursion](https://vuldb.com/vuln/389970)
   - [CVE-2026-19730 | Red Hat Podman Quadlet Install quadlet.go ReflinkOrCopy information disclosure](https://vuldb.com/vuln/389736)
   - [CVE-2026-19744 | maalfer Pentestify up to 2.3.1 Markdown renderer cross site scripting](https://vuldb.com/vuln/389654)
   - [CVE-2026-19761 | DTStack Taier 1.4.0 Upload Controller UploadController.java MultipartFile.getOriginalFilename File path traversal](https://vuldb.com/vuln/389664)
@@ -391,10 +399,13 @@
 - 爱范儿
   - [DeepSeek V4 Flash 之后，大模型开始卷「智效比」了](https://www.ifanr.com/1675156?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [爱范儿独家｜谷歌不再追逐前沿， DeepMind 或大幅裁员](https://www.ifanr.com/1675196?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集](https://www.qbitai.com/2026/08/472718.html)
 - 黑海洋
   - [OpenAI推Ultrafast模式：最高750词元/秒](https://blog.upx8.com/OpenAI%E6%8E%A8Ultrafast%E6%A8%A1%E5%BC%8F-%E6%9C%80%E9%AB%98750%E8%AF%8D%E5%85%83-%E7%A7%92)
   - [OpenAI收入运行率在IPO前突破400亿美元](https://blog.upx8.com/OpenAI%E6%94%B6%E5%85%A5%E8%BF%90%E8%A1%8C%E7%8E%87%E5%9C%A8IPO%E5%89%8D%E7%AA%81%E7%A0%B4400%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [X 开源其排名算法，让用户查看是否被秘密限流](https://blog.upx8.com/X-%E5%BC%80%E6%BA%90%E5%85%B6%E6%8E%92%E5%90%8D%E7%AE%97%E6%B3%95-%E8%AE%A9%E7%94%A8%E6%88%B7%E6%9F%A5%E7%9C%8B%E6%98%AF%E5%90%A6%E8%A2%AB%E7%A7%98%E5%AF%86%E9%99%90%E6%B5%81)
   - [卸任前为“美国制造”站台，库克陪同美商务部长参观Mac Mini工厂](https://blog.upx8.com/%E5%8D%B8%E4%BB%BB%E5%89%8D%E4%B8%BA-%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0-%E7%AB%99%E5%8F%B0-%E5%BA%93%E5%85%8B%E9%99%AA%E5%90%8C%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%8F%82%E8%A7%82Mac-Mini%E5%B7%A5%E5%8E%82)
   - [微信：朋友圈现在、过去、未来都不会有二次编辑功能](https://blog.upx8.com/%E5%BE%AE%E4%BF%A1-%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%8E%B0%E5%9C%A8-%E8%BF%87%E5%8E%BB-%E6%9C%AA%E6%9D%A5%E9%83%BD%E4%B8%8D%E4%BC%9A%E6%9C%89%E4%BA%8C%E6%AC%A1%E7%BC%96%E8%BE%91%E5%8A%9F%E8%83%BD)
+  - [苹果在阿里巴巴支持下为中国市场训练自有人工智能模型](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%94%AF%E6%8C%81%E4%B8%8B%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E8%AE%AD%E7%BB%83%E8%87%AA%E6%9C%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B)
   - [谷歌宣布推出Gemini 3.7 Flash模型](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%87%BAGemini-3-7-Flash%E6%A8%A1%E5%9E%8B)
