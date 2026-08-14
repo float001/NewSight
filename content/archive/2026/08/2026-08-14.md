@@ -13,6 +13,7 @@
   - [City of Baltimore goes after prediction markets for sports betting](https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto group backs Custodia in Supreme Court battle over Fed access](https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea](https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ethereum Foundation pivots away from Poseidon in post-quantum plan](https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows](https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered](https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether completes first full financial audit, receives clean KPMG opinion](https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -23,6 +24,7 @@
   - [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
   - [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/)
   - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
+  - [How AI text watermarking works](https://declaude.org/watermarking/)
   - [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
   - [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
   - [Tocharian Online](https://lrc.la.utexas.edu/eieol/tokol/0)
@@ -30,6 +32,8 @@
   - [Where did the old web go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
 - Horizon3.ai
   - [CVE-2026-72898 | Metabase Pre-Authentication SQL Injection Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-72898/)
+- johndcook.com
+  - [How NASA’s Mariner 9 probe encoded images](https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/)
 - MIT Technology Review
   - [Building a practical path to post-quantum cryptography](https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/)
 - shkspr.mobi
@@ -61,6 +65,7 @@
   - [Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate](https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/)
 - The Verge
   - [2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;](https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer)
+  - [Apple and Epic argue over how much Apple should get from purchases made outside the App Store](https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing)
   - [Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul](https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant)
   - [I finally found a robot lawnmower I’d trust with my yard](https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame)
   - [Meta adds AI screening to detect WhatsApp scams](https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection)
@@ -348,4 +353,5 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [卸任前为“美国制造”站台，库克陪同美商务部长参观Mac Mini工厂](https://blog.upx8.com/%E5%8D%B8%E4%BB%BB%E5%89%8D%E4%B8%BA-%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0-%E7%AB%99%E5%8F%B0-%E5%BA%93%E5%85%8B%E9%99%AA%E5%90%8C%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%8F%82%E8%A7%82Mac-Mini%E5%B7%A5%E5%8E%82)
   - [谷歌宣布推出Gemini 3.7 Flash模型](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%87%BAGemini-3-7-Flash%E6%A8%A1%E5%9E%8B)
