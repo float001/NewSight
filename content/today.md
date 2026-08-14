@@ -2,6 +2,7 @@
 
 - 2Libra
   - [我好像阳痿了](https://2libra.com/post/health-consultation/ALzNXcl)
+  - [每天一分钟，知晓天下事！2026 年 8 月 15 日](https://2libra.com/post/social-observation/I7tZlwL)
 - 404 Media
   - [Behind the Blog: Endless Scam Parade](https://www.404media.co/behind-the-blog-endless-scam-parade/)
 - Ars Technica
@@ -41,6 +42,7 @@
   - [Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)
   - [Read-it-later app Pocket shut down down — here are the best alternatives](https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/)
   - [Self-driving trucks are officially testing on California highways](https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/)
+  - [Talks to sell PayPal to Stripe and Advent are heating up](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/)
   - [Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/)
   - [Unforgetful is a new reminders app for people who can’t stop hitting snooze](https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/)
 - The Block
@@ -114,6 +116,8 @@
   - [CVE-2026-50029 | sunnyadn js-toml up to 1.1.1 Duplicate Key State Machine load type confusion](https://vuldb.com/vuln/390093)
   - [CVE-2026-50523 | Microsoft PowerShell 7.4/7.5/7.6 command injection](https://vuldb.com/vuln/390131)
   - [CVE-2026-63361 | LimeSurvey 7.0.5 HTML Editor Popup Endpoint text/name HTML injection](https://vuldb.com/vuln/390061)
+  - [CVE-2026-63649 | OpenVPN up to 2.6.21/2.7.5 Interactive Service access control](https://vuldb.com/vuln/390135)
+  - [CVE-2026-63650 | OpenVPN up to 2.7.5 improper authentication](https://vuldb.com/vuln/390136)
   - [CVE-2026-67365 | iCagenda Extension up to 4.0.11 sql injection](https://vuldb.com/vuln/390125)
   - [CVE-2026-67366 | Icagenda Extension up to 2.0.0-4.0.11 cross-site request forgery](https://vuldb.com/vuln/390127)
   - [CVE-2026-71570 | icagenda Extension up to 4.0.11 information disclosure](https://vuldb.com/vuln/390126)
