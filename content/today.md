@@ -11,14 +11,17 @@
   - [【💰】继续开发文件管理器](https://2libra.com/post/open-source-sharing/yOE5pzl)
   - [【💰】麻蛋，早晨开车被罚](https://2libra.com/post/small-things/ZnQO__A)
   - [三天了，还没动静，苹果这是咋了？之前正常就一个晚上就审完](https://2libra.com/post/apple/idSDkWO)
+  - [下班倒计时 大家周末都怎么安排？](https://2libra.com/post/personal-life/HYCQVDr)
   - [久坐久站走路都腰痛，去看了下说是腰肌劳损，需要加强腰部力量训练](https://2libra.com/post/health-consultation/zbfEcCR)
   - [京东咋这么恶心](https://2libra.com/post/excessive-things/g0Iewq5)
+  - [发现了一个 DeepSeek Harness 的滑动变祖器插件](https://2libra.com/post/open-source-sharing/ArsqnA6)
   - [新版的一些优化更新【浏览设置与自定义主题同步、主题圆角适配优化、雷达图重写等】](https://2libra.com/post/product-updates/Po-L9bA)
   - [最近狂推的 WorkBuddy，看着这么嗨，被营销熏了，于是我用了一上午，还是希望它快快长大。](https://2libra.com/post/ai-tools/FXHnuoI)
   - [有没有武汉漫展相关的信息](https://2libra.com/post/questions/r4vnVcQ)
   - [本论坛只挂着会升级不？](https://2libra.com/post/forum-function/YIr363s)
   - [每天一分钟，知晓天下事！2026 年 8 月 14 日](https://2libra.com/post/social-observation/yTwepYd)
   - [求一款本地播放音乐的软件](https://2libra.com/post/recommendations/PMxPnqa)
+  - [脑梗为什么连续三年位居所有疾病首位](https://2libra.com/post/social-observation/Gsun07v)
   - [评价一下昨晚出来的 deepseek-harness 你会选择用它吗](https://2libra.com/post/ai-programming/wr8kYJZ)
   - [🫂 拥抱脸的内测邀请](https://2libra.com/post/promotion/ud3hjdo)
 - 404 Media
@@ -30,9 +33,11 @@
   - [CFTC to join SEC in exploring crypto regulations without CLARITY bill](https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [City of Baltimore goes after prediction markets for sports betting](https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto group backs Custodia in Supreme Court battle over Fed access](https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto payments barely register among euro area merchants, ECB finds](https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea](https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum Foundation pivots away from Poseidon in post-quantum plan](https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Figure reports $4.3B in loan marketplace volume as profit nearly triples](https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [JPMorgan cut Polymarket banking ties over regulatory concerns: Report](https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Neutrl pauses NUSD redemptions over undisclosed reserve issue](https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows](https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered](https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -50,6 +55,7 @@
   - [How AI text watermarking works](https://declaude.org/watermarking/)
   - [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
   - [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
+  - [Phones should have a 'guest lock' feature](https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/)
   - [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/)
   - [Tocharian Online](https://lrc.la.utexas.edu/eieol/tokol/0)
   - [US sells 30-year bonds at highest borrowing costs since 2001](https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9)
@@ -66,6 +72,8 @@
 - NOSEC 安全讯息平台 - 漏洞预警
   - [【已支持检测】JetBrains TeamCity 未认证远程代码执行漏洞...](https://nosec.org/home/detail/5968.html)
   - [【已支持检测】Metabase 满分未认证 SQL 注入漏洞可导致实...](https://nosec.org/home/detail/5967.html)
+- Securelist
+  - [APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit](https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/)
 - shkspr.mobi
   - [Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/)
   - [Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/)
@@ -99,6 +107,7 @@
   - [2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;](https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer)
   - [Apple and Epic argue over how much Apple should get from purchases made outside the App Store](https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing)
   - [Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul](https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant)
+  - [Help build a monument to that ‘sad little bitch’ Elon Musk](https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument)
   - [I finally found a robot lawnmower I’d trust with my yard](https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame)
   - [Meta adds AI screening to detect WhatsApp scams](https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection)
   - [Netflix is closing two game studios](https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games)
@@ -208,6 +217,10 @@
   - [CVE-2026-19822 | Tenda W20E 15.11.0.6(1068_1546_841)_CN_TDC QoS Edit /goform/editQos lstAdd qosListConnecttedNum stack-based overflow](https://vuldb.com/vuln/389955)
   - [CVE-2026-19823 | Tenda W20E 15.11.0.6(1068_1546_841)_CN_TDC QoS Rule Deletion /goform/delQos formQOSRuleDel qosIndex stack-based overflow](https://vuldb.com/vuln/389956)
   - [CVE-2026-19824 | Tenda W20E 15.11.0.6(1068_1546_841)_CN_TDC /goform/addIpMacBind ipMacBindListStore IPMacBindRule stack-based overflow](https://vuldb.com/vuln/389957)
+  - [CVE-2026-19844 | TOTOLINK A800R 4.1.2cu.5137_B20200730 ipv6.so /cgi-bin/cstecgi.cgi setRadvdCfg radvdinterfacename stack-based overflow](https://vuldb.com/vuln/389980)
+  - [CVE-2026-19845 | TOTOLINK A800R 4.1.2cu.5137_B20200730 lan.so /cgi-bin/cstecgi.cgi setStaticDhcpConfig Comment stack-based overflow](https://vuldb.com/vuln/389981)
+  - [CVE-2026-19846 | TOTOLINK A800R 4.1.2cu.5137_B20200730 firewall.so /cgi-bin/cstecgi.cgi setUrlFilterRules url stack-based overflow](https://vuldb.com/vuln/389982)
+  - [CVE-2026-19847 | TOTOLINK A800R 4.1.2cu.5137_B20200730 wps.so /cgi-bin/cstecgi.cgi setWiFiWpsConfig pin stack-based overflow](https://vuldb.com/vuln/389983)
   - [CVE-2026-23603 | Gitea up to 1.26.4 OAuth2 server-side request forgery](https://vuldb.com/vuln/389677)
   - [CVE-2026-24059 | Gitea up to 1.25.4 API Scope Middleware registration-token privileges management](https://vuldb.com/vuln/389670)
   - [CVE-2026-24791 | Gitea up to 1.26.1 API Routes /api/v1/user improper authorization](https://vuldb.com/vuln/389671)
@@ -395,6 +408,7 @@
   - [Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything](https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/)
   - [The Safety Reckoning Inside OpenAI](https://www.wired.com/story/openai-safety-security-ai-agents-culture/)
 - 不安全
+  - [ChatGPT玻区大幅度涨价后目前已经没有低价区 仅菲律宾区稍微便宜些](https://buaq.net/go-435079.html)
   - [DeepSeek API涨价也震惊国外开发者 原以为最多翻倍没想到是好几倍](https://buaq.net/go-435035.html)
   - [X/Twitter开源发布推荐算法和核心排名引擎 用户可以查看自己是否被影子屏蔽](https://buaq.net/go-435036.html)
 - 代码审计星球
@@ -404,6 +418,7 @@
   - [爱范儿独家｜谷歌不再追逐前沿， DeepMind 或大幅裁员](https://www.ifanr.com/1675196?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集](https://www.qbitai.com/2026/08/472718.html)
+  - [百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端](https://www.qbitai.com/2026/08/473144.html)
 - 黑海洋
   - [OpenAI推Ultrafast模式：最高750词元/秒](https://blog.upx8.com/OpenAI%E6%8E%A8Ultrafast%E6%A8%A1%E5%BC%8F-%E6%9C%80%E9%AB%98750%E8%AF%8D%E5%85%83-%E7%A7%92)
   - [OpenAI收入运行率在IPO前突破400亿美元](https://blog.upx8.com/OpenAI%E6%94%B6%E5%85%A5%E8%BF%90%E8%A1%8C%E7%8E%87%E5%9C%A8IPO%E5%89%8D%E7%AA%81%E7%A0%B4400%E4%BA%BF%E7%BE%8E%E5%85%83)
