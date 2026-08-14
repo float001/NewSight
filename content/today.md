@@ -31,6 +31,7 @@
   - [Private security firms will soon be allowed to hack overseas cybercriminals](https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/)
   - [Virgin Galactic wants your help naming its new Delta class spaceship](https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/)
 - CoinTelegraph
+  - [Bitcoin Eyes New August Lows as Binance Longs Face a ‘Cleanout’](https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC to join SEC in exploring crypto regulations without CLARITY bill](https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [City of Baltimore goes after prediction markets for sports betting](https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto group backs Custodia in Supreme Court battle over Fed access](https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -53,15 +54,18 @@
   - [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
   - [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
   - [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/)
+  - [For the love of god stop using CPU limits in Kubernetes](https://github.com/inevolin/k8s-cpu-limits-analyzed)
   - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
   - [How AI text watermarking works](https://declaude.org/watermarking/)
   - [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
+  - [Major oil slick washes up on Iran coast after Hormuz ship strike](https://www.bbc.com/news/articles/cr7kpdkg13zo)
   - [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
   - [Phones should have a 'guest lock' feature](https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/)
   - [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/)
   - [Tocharian Online](https://lrc.la.utexas.edu/eieol/tokol/0)
   - [US sells 30-year bonds at highest borrowing costs since 2001](https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9)
   - [Where did the old web go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
+  - [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
 - HackerNoon
   - [Enhancing Software Design Credibility: Avoiding Clickbait Titles When Discussing Abstract Data Types](https://hackernoon.com/enhancing-software-design-credibility-avoiding-clickbait-titles-when-discussing-abstract-data-types?source=rss)
   - [Post-Quantum TLS for Cloud APIs and Microservices](https://hackernoon.com/post-quantum-tls-for-cloud-apis-and-microservices?source=rss)
@@ -69,6 +73,7 @@
 - Horizon3.ai
   - [CVE-2026-72898 | Metabase Pre-Authentication SQL Injection Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-72898/)
 - infosecurity-magazine.com
+  - [Novel macOS Infostealer AmnesiaStealer Spread via ClickFix](https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/)
   - [Researchers Link 'Jewelbug' Chinese APT to Hack-for-Hire Operations](https://www.infosecurity-magazine.com/news/researchers-link-chinese-apt-hack/)
 - johndcook.com
   - [Hadamard Codes and Sphere Packing](https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/)
@@ -95,6 +100,7 @@
   - [Investors sue Selena Gomez alleging fraud tied to her mental health startup](https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/)
   - [OpenAI hires new CRO as executive shake-up continues](https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/)
   - [OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/)
+  - [Uber and Pony.ai plan to bring 2,000 robotaxis to Europe](https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/)
   - [Writer introduces new AI model and upgraded harness to contain token costs](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/)
   - [X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’](https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/)
 - The Block
@@ -103,12 +109,14 @@
   - [Citigroup CEO Fraser on Clarity Act: ‘We would like to see a good bill go through,’ as stablecoin reward issues simmer](https://www.theblock.co/news/regulation/2026-08-13-citigroup-ceo-fraser-on-clarity-act-we-would-like-to-see-good-bill-go-stablecoin-reward-issues-simmer-411751)
   - [Gemini shares slide after $108 million loss as Winklevoss says ‘we still have work to do’](https://www.theblock.co/news/business/2026-08-13-gemini-shares-slide-108-million-loss-winklevoss-says-we-still-have-work-to-do-411775)
   - [Google ad phishing scam drains $550,000 from Hyperliquid user, security specialist says](https://www.theblock.co/news/regulation/2026-08-13-google-ad-phishing-scam-drains-550000-from-hyperliquid-user-security-specialist-says-411755)
+  - [Strategy, Metaplanet could face MSCI index removal under new proposal](https://www.theblock.co/news/business/2026-08-14-strategy-metaplanet-msci-index-proposal-411809)
   - [Tether says KPMG issued ‘clean’ opinion in first full audit of USDT issuer’s financials](https://www.theblock.co/news/business/2026-08-13-tether-kpmg-first-full-audit-usdt-clean-opinion-411760)
   - [Washington court orders Kalshi to halt most prediction market offerings in state](https://www.theblock.co/news/regulation/2026-08-13-washington-court-orders-kalshi-411785)
 - The Decoder
   - [Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices](https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/)
   - [Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%](https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/)
   - [Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate](https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/)
+  - [Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model](https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/)
 - The Verge
   - [2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;](https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer)
   - [Apple and Epic argue over how much Apple should get from purchases made outside the App Store](https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing)
@@ -412,11 +420,16 @@
   - [CVE-2026-73480 gdu Terminal Injection via Unstripped Escape Sequences](https://vulners.com/cve/CVE-2026-73480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-73480 gdu Terminal Injection via Unstripped Escape Sequences](https://vulners.com/cvelist/CVELIST:CVE-2026-73480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)
   - [Dell XPS 13 Review: Move Over, Neo](https://www.wired.com/review/dell-xps-13-2026/)
+  - [I Wore an Electrical Muscle Stimulation Body Suit to Zap Myself Into Fitness](https://www.wired.com/story/i-wore-a-pepper-electrical-muscle-stimulation-body-suit-to-zap-myself-into-fitness/)
   - [Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything](https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/)
+  - [People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them](https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/)
   - [The Safety Reckoning Inside OpenAI](https://www.wired.com/story/openai-safety-security-ai-agents-culture/)
+  - [These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI](https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/)
   - [This Art Project Slows Down Citi Bikes to Make NYC’s Rent Crisis Feel Real](https://www.wired.com/story/this-art-project-slows-down-citi-bikes-to-make-nycs-rent-crisis-feel-real/)
 - 不安全
+  - [ChatGPT for Mac实现微软Copilot AI的时间线功能 收集用户操作并建立时间线](https://buaq.net/go-435087.html)
   - [ChatGPT玻区大幅度涨价后目前已经没有低价区 仅菲律宾区稍微便宜些](https://buaq.net/go-435079.html)
   - [DeepSeek API涨价也震惊国外开发者 原以为最多翻倍没想到是好几倍](https://buaq.net/go-435035.html)
   - [X/Twitter开源发布推荐算法和核心排名引擎 用户可以查看自己是否被影子屏蔽](https://buaq.net/go-435036.html)
@@ -427,6 +440,7 @@
   - [实测GLM-5.3: 在神仙打架的一周杀回国模顶流，还按下了重置键](https://www.ifanr.com/1675225?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [爱范儿独家｜谷歌不再追逐前沿， DeepMind 或大幅裁员](https://www.ifanr.com/1675196?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募](https://www.qbitai.com/2026/08/473149.html)
   - [德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集](https://www.qbitai.com/2026/08/472718.html)
   - [百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端](https://www.qbitai.com/2026/08/473144.html)
 - 黑海洋
