@@ -4,9 +4,11 @@
   - [224 人在线，要不努力一下捞几个走个面徽章](https://2libra.com/post/forum-function/BeYfnyx)
   - [Deepseek 涨价太狠了，有没有其它替代](https://2libra.com/post/ai-tools/vG8It98)
   - [gg 卡一直没收到邮件，还能用，我成为漏网之鱼了吗？](https://2libra.com/post/questions/moIvAvh)
+  - [lao1.me 论坛正式运营不限制任何内容年轻人的社区](https://2libra.com/post/promotion/ANdlmY4)
   - [local.ai](https://2libra.com/post/promotion/CZe56Xy)
   - [Qoder：不花钱，就用隐私抵](https://2libra.com/post/ai-programming/uE6NkIv)
   - [【兑换码】手头几条闲置住宅 IP 流量，免费送，AI/爬虫/数据采集均可，新池子，来感受一下](https://2libra.com/post/promotion/wHoUaOP)
+  - [【💰】传统制造业真不好混](https://2libra.com/post/workplace-stories/XjSM5gt)
   - [【💰】想收一个美版 IPhoneSE3](https://2libra.com/post/phone/kfpUeB8)
   - [【💰】继续开发文件管理器](https://2libra.com/post/open-source-sharing/yOE5pzl)
   - [【💰】麻蛋，早晨开车被罚](https://2libra.com/post/small-things/ZnQO__A)
@@ -16,6 +18,7 @@
   - [二刷《天气之子》，感觉这个世界好伪善](https://2libra.com/post/movie-experience/Ep7cCQu)
   - [京东咋这么恶心](https://2libra.com/post/excessive-things/g0Iewq5)
   - [发现了一个 DeepSeek Harness 的滑动变祖器插件](https://2libra.com/post/open-source-sharing/ArsqnA6)
+  - [我用量化模型做了一个全网基金筛选与组合策略的工具](https://2libra.com/post/promotion/fJBu0ac)
   - [新版的一些优化更新【浏览设置与自定义主题同步、主题圆角适配优化、雷达图重写等】](https://2libra.com/post/product-updates/Po-L9bA)
   - [最近狂推的 WorkBuddy，看着这么嗨，被营销熏了，于是我用了一上午，还是希望它快快长大。](https://2libra.com/post/ai-tools/FXHnuoI)
   - [有没有武汉漫展相关的信息](https://2libra.com/post/questions/r4vnVcQ)
@@ -31,7 +34,10 @@
 - Ars Technica
   - [Private security firms will soon be allowed to hack overseas cybercriminals](https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/)
   - [Virgin Galactic wants your help naming its new Delta class spaceship](https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/)
+- Chainalysis Blog
+  - [Machine Learning Has a Specific Role in Blockchain Intelligence](https://www.chainalysis.com/blog/ml-role-in-blockchain-intelligence/)
 - CoinTelegraph
+  - [Binance to restrict transactions involving HTX, 10 other crypto platforms](https://cointelegraph.com/news/binance-restrict-htx-10-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin Eyes New August Lows as Binance Longs Face a ‘Cleanout’](https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC to join SEC in exploring crypto regulations without CLARITY bill](https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [City of Baltimore goes after prediction markets for sports betting](https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -46,6 +52,7 @@
   - [RedotPay US IPO delayed amid regulatory, legal hurdles: Report](https://cointelegraph.com/news/redotpay-us-license-ipo-delay-binance-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered](https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Shinhan Asset Management partners with Plume on tokenized fund pilot](https://cointelegraph.com/news/shinhan-partners-plume-tokenized-fund-experiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Solana’s fee overhaul increases burn and makes resource hogs pay](https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether completes first full financial audit, receives clean KPMG opinion](https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daniel.haxx.se
   - [curl performance](https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/)
@@ -61,6 +68,7 @@
   - [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
   - [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/)
   - [For the love of god stop using CPU limits in Kubernetes](https://github.com/inevolin/k8s-cpu-limits-analyzed)
+  - [France's tax authority had data stolen on 680k taxpayers](https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html)
   - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
   - [How AI text watermarking works](https://declaude.org/watermarking/)
   - [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
@@ -115,6 +123,7 @@
   - [OpenAI hires new CRO as executive shake-up continues](https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/)
   - [OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/)
   - [Uber and Pony.ai plan to bring 2,000 robotaxis to Europe](https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/)
+  - [US courts will start publishing how often the government uses spyware](https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/)
   - [Writer introduces new AI model and upgraded harness to contain token costs](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/)
   - [X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’](https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/)
 - The Block
@@ -474,6 +483,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [23.98 万元起，大五座魏牌 V8X 上市，并非 V9X 的减法](https://www.ifanr.com/1675246?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [DeepSeek V4 Flash 之后，大模型开始卷「智效比」了](https://www.ifanr.com/1675156?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测GLM-5.3: 在神仙打架的一周杀回国模顶流，还按下了重置键](https://www.ifanr.com/1675225?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [爱范儿独家｜谷歌不再追逐前沿， DeepMind 或大幅裁员](https://www.ifanr.com/1675196?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -488,6 +498,7 @@
   - [X 开源其排名算法，让用户查看是否被秘密限流](https://blog.upx8.com/X-%E5%BC%80%E6%BA%90%E5%85%B6%E6%8E%92%E5%90%8D%E7%AE%97%E6%B3%95-%E8%AE%A9%E7%94%A8%E6%88%B7%E6%9F%A5%E7%9C%8B%E6%98%AF%E5%90%A6%E8%A2%AB%E7%A7%98%E5%AF%86%E9%99%90%E6%B5%81)
   - [卸任前为“美国制造”站台，库克陪同美商务部长参观Mac Mini工厂](https://blog.upx8.com/%E5%8D%B8%E4%BB%BB%E5%89%8D%E4%B8%BA-%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0-%E7%AB%99%E5%8F%B0-%E5%BA%93%E5%85%8B%E9%99%AA%E5%90%8C%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%8F%82%E8%A7%82Mac-Mini%E5%B7%A5%E5%8E%82)
   - [微信：朋友圈现在、过去、未来都不会有二次编辑功能](https://blog.upx8.com/%E5%BE%AE%E4%BF%A1-%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%8E%B0%E5%9C%A8-%E8%BF%87%E5%8E%BB-%E6%9C%AA%E6%9D%A5%E9%83%BD%E4%B8%8D%E4%BC%9A%E6%9C%89%E4%BA%8C%E6%AC%A1%E7%BC%96%E8%BE%91%E5%8A%9F%E8%83%BD)
+  - [智谱正式发布GLM-5.3 拥有更强编程能力](https://blog.upx8.com/%E6%99%BA%E8%B0%B1%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83GLM-5-3-%E6%8B%A5%E6%9C%89%E6%9B%B4%E5%BC%BA%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B)
   - [比尔·盖茨小女儿被曝涉嫌电信欺诈](https://blog.upx8.com/%E6%AF%94%E5%B0%94-%E7%9B%96%E8%8C%A8%E5%B0%8F%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%9B%9D%E6%B6%89%E5%AB%8C%E7%94%B5%E4%BF%A1%E6%AC%BA%E8%AF%88)
   - [苹果在阿里巴巴支持下为中国市场训练自有人工智能模型](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%94%AF%E6%8C%81%E4%B8%8B%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E8%AE%AD%E7%BB%83%E8%87%AA%E6%9C%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B)
   - [谷歌宣布推出Gemini 3.7 Flash模型](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%87%BAGemini-3-7-Flash%E6%A8%A1%E5%9E%8B)
