@@ -1,11 +1,18 @@
 # 今日安全资讯（2026-08-14）
 
 - 2Libra
+  - [224 人在线，要不努力一下捞几个走个面徽章](https://2libra.com/post/forum-function/BeYfnyx)
   - [Deepseek 涨价太狠了，有没有其它替代](https://2libra.com/post/ai-tools/vG8It98)
+  - [gg 卡一直没收到邮件，还能用，我成为漏网之鱼了吗？](https://2libra.com/post/questions/moIvAvh)
   - [local.ai](https://2libra.com/post/promotion/CZe56Xy)
+  - [Qoder：不花钱，就用隐私抵](https://2libra.com/post/ai-programming/uE6NkIv)
+  - [【💰】想收一个美版 IPhoneSE3](https://2libra.com/post/phone/kfpUeB8)
   - [【💰】麻蛋，早晨开车被罚](https://2libra.com/post/small-things/ZnQO__A)
+  - [新版的一些优化更新【浏览设置与自定义主题同步、主题圆角适配优化、雷达图重写等】](https://2libra.com/post/product-updates/Po-L9bA)
   - [有没有武汉漫展相关的信息](https://2libra.com/post/questions/r4vnVcQ)
   - [每天一分钟，知晓天下事！2026 年 8 月 14 日](https://2libra.com/post/social-observation/yTwepYd)
+  - [求一款本地播放音乐的软件](https://2libra.com/post/recommendations/PMxPnqa)
+  - [评价一下昨晚出来的 deepseek-harness 你会选择用它吗](https://2libra.com/post/ai-programming/wr8kYJZ)
   - [🫂 拥抱脸的内测邀请](https://2libra.com/post/promotion/ud3hjdo)
 - 404 Media
   - [Person Hides Prompt Injection in Legal Filing Telling AI to Side With Them](https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/)
@@ -18,6 +25,7 @@
   - [Crypto group backs Custodia in Supreme Court battle over Fed access](https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea](https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum Foundation pivots away from Poseidon in post-quantum plan](https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Figure reports $4.3B in loan marketplace volume as profit nearly triples](https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows](https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered](https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether completes first full financial audit, receives clean KPMG opinion](https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -43,6 +51,9 @@
   - [How NASA’s Mariner 9 probe encoded images](https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/)
 - MIT Technology Review
   - [Building a practical path to post-quantum cryptography](https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/)
+- NOSEC 安全讯息平台 - 漏洞预警
+  - [【已支持检测】JetBrains TeamCity 未认证远程代码执行漏洞...](https://nosec.org/home/detail/5968.html)
+  - [【已支持检测】Metabase 满分未认证 SQL 注入漏洞可导致实...](https://nosec.org/home/detail/5967.html)
 - shkspr.mobi
   - [Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/)
   - [Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/)
@@ -360,6 +371,9 @@
   - [The Safety Reckoning Inside OpenAI](https://www.wired.com/story/openai-safety-security-ai-agents-culture/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [DeepSeek V4 Flash 之后，大模型开始卷「智效比」了](https://www.ifanr.com/1675156?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [爱范儿独家｜谷歌不再追逐前沿， DeepMind 或大幅裁员](https://www.ifanr.com/1675196?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [OpenAI推Ultrafast模式：最高750词元/秒](https://blog.upx8.com/OpenAI%E6%8E%A8Ultrafast%E6%A8%A1%E5%BC%8F-%E6%9C%80%E9%AB%98750%E8%AF%8D%E5%85%83-%E7%A7%92)
   - [OpenAI收入运行率在IPO前突破400亿美元](https://blog.upx8.com/OpenAI%E6%94%B6%E5%85%A5%E8%BF%90%E8%A1%8C%E7%8E%87%E5%9C%A8IPO%E5%89%8D%E7%AA%81%E7%A0%B4400%E4%BA%BF%E7%BE%8E%E5%85%83)
