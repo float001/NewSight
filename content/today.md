@@ -6,19 +6,40 @@
   - [Ars Live recap: How can we stop publishers from killing their own games?](https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/)
 - daringfireball.net
   - [Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing](https://design.google/library/expressive-material-design-google-research)
+  - [★ You Don’t Need to Worry About Scratching Your iPhone Camera Lenses](https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance)
 - Fidelis Security
   - [Malware Traffic Analysis for EDR Teams: How to Connect Endpoint Events to Network Behavior](https://fidelissecurity.com/threatgeek/endpoint-security/malware-traffic-analysis/)
+- IEEE Spectrum
+  - [Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware](https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/)
+- NVIDIA AI Blog
+  - [Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent](https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/)
 - TechCrunch
   - [Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)
   - [Unforgetful is a new reminders app for people who can’t stop hitting snooze](https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/)
+- The Block
+  - [Israel’s largest bank taps Galaxy to offer bitcoin, ether and solana trading](https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868)
 - The Decoder
   - [Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license](https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/)
   - [OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline](https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/)
 - The Verge
+  - [Google&#8217;s best new camera feature is only for the Pixel 11 series](https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones)
+  - [Lamborghini’s flagship Revuelto levels up with SV trim](https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance)
   - [Mark Zuckerberg has an Instagzam](https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast)
+  - [The X-Files creator Chris Carter wanted to make a more horrific movie](https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu)
   - [You can now turn off Google Gemini&#8217;s visible watermarks](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal)
 - VulDB Recent Entries
+  - [CVE-2026-19626 | Tenable Security Center up to 6.8.x Report Generation code injection](https://vuldb.com/vuln/390051)
+  - [CVE-2026-19628 | Tenable Security Center up to 6.8.x command injection](https://vuldb.com/vuln/390052)
+  - [CVE-2026-19629 | Tenable Security Center up to 6.8.x privileges management](https://vuldb.com/vuln/390057)
+  - [CVE-2026-19631 | Tenable Security Center up to 6.8.x sql injection](https://vuldb.com/vuln/390058)
+  - [CVE-2026-19635 | Tenable Security Center up to 6.8.x privileges management](https://vuldb.com/vuln/390059)
+  - [CVE-2026-19636 | Tenable Security Center up to 6.8.x cross-site request forgery](https://vuldb.com/vuln/390060)
   - [CVE-2026-46439 | oscal-compass compliance-trestle up to 3.12.1/4.0.2 Jinja trestle author jinja special elements used in a template engine](https://vuldb.com/vuln/390044)
+  - [CVE-2026-47192 | Siemens kas up to 5.2 Signature Validation _source_dir state issue](https://vuldb.com/vuln/390056)
   - [CVE-2026-47766 | containers crun up to 1.27 Device Setup symlink](https://vuldb.com/vuln/390045)
+  - [CVE-2026-63361 | LimeSurvey 7.0.5 HTML Editor Popup Endpoint text/name HTML injection](https://vuldb.com/vuln/390061)
+  - [CVE-2026-73844 | OnData Ckan Mcp Server up to 0.4.111 information disclosure](https://vuldb.com/vuln/390054)
+  - [CVE-2026-73845 | ondata ckan-mcp-server up to 0.4.111 URL Validation src/tools/quality.ts ckan_get_mqa_quality/ckan_get_mqa_quality_details server_url input validation](https://vuldb.com/vuln/390055)
+  - [CVE-2026-73846 | ondata ckan-mcp-server up to 0.4.111 Cache src/utils/cache.ts canonicalizeParams input validation](https://vuldb.com/vuln/390053)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
