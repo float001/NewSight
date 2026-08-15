@@ -2,8 +2,11 @@
 
 - 2Libra
   - [【💰】周末日常](https://2libra.com/post/personal-life/xq_DZQq)
+  - [你们有哪些坚持超过十年的习惯吗？](https://2libra.com/post/personal-life/T05bD0u)
   - [感受到认知超过能力时 的感觉了](https://2libra.com/post/workplace-stories/UtKEdSz)
   - [我好像阳痿了](https://2libra.com/post/health-consultation/ALzNXcl)
+  - [把 2Libra 收录进了「锐评」，大家觉得它是哪一档？](https://2libra.com/post/promotion/RbR20e6)
+  - [最近很火的 linux 论坛总结](https://2libra.com/post/tech-rumination/xIWWcml)
   - [每天一分钟，知晓天下事！2026 年 8 月 15 日](https://2libra.com/post/social-observation/I7tZlwL)
   - [江湖路远，有缘再见](https://2libra.com/post/mental-health/9EFzPgv)
 - 404 Media
@@ -18,6 +21,7 @@
 - blog.pixelmelt.dev
   - [Training a Reinforcement Learning Model to Play Bonk.io](https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/)
 - CoinTelegraph
+  - [Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says](https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Galaxy lowers CLARITY Act odds to 10%](https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gen Z favors ETFs and trades less than older cohorts: Binance](https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ireland plans industry standards for illicit crypto use](https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
