@@ -22,6 +22,7 @@
   - [Training a Reinforcement Learning Model to Play Bonk.io](https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/)
 - CoinTelegraph
   - [Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says](https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen](https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Galaxy lowers CLARITY Act odds to 10%](https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gen Z favors ETFs and trades less than older cohorts: Binance](https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ireland plans industry standards for illicit crypto use](https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -64,6 +65,7 @@
   - [Don't classify. Hallucinate!](https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/)
   - [Northern Gannet](https://simonwillison.net/2026/Aug/15/sighting-391300422/)
 - TechCrunch
+  - [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/)
   - [Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)
   - [Read-it-later app Pocket shut down down — here are the best alternatives](https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/)
   - [Self-driving trucks are officially testing on California highways](https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/)
@@ -387,5 +389,6 @@
 - 黑海洋
   - [Anthropic Q2营收激增至超过 115 亿美元 首次实现季度盈利](https://blog.upx8.com/Anthropic-Q2%E8%90%A5%E6%94%B6%E6%BF%80%E5%A2%9E%E8%87%B3%E8%B6%85%E8%BF%87-115-%E4%BA%BF%E7%BE%8E%E5%85%83-%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E5%AD%A3%E5%BA%A6%E7%9B%88%E5%88%A9)
   - [OpenAI 称其企业业务规模现已超过消费者业务](https://blog.upx8.com/OpenAI-%E7%A7%B0%E5%85%B6%E4%BC%81%E4%B8%9A%E4%B8%9A%E5%8A%A1%E8%A7%84%E6%A8%A1%E7%8E%B0%E5%B7%B2%E8%B6%85%E8%BF%87%E6%B6%88%E8%B4%B9%E8%80%85%E4%B8%9A%E5%8A%A1)
+  - [美国将要求合作伙伴必须在与中国的AI竞赛中选边站队](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%A6%81%E6%B1%82%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E5%BF%85%E9%A1%BB%E5%9C%A8%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%9A%84AI%E7%AB%9E%E8%B5%9B%E4%B8%AD%E9%80%89%E8%BE%B9%E7%AB%99%E9%98%9F)
   - [英伟达缩减对OpenAI数据中心项目提供担保的计划](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BC%A9%E5%87%8F%E5%AF%B9OpenAI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BE%9B%E6%8B%85%E4%BF%9D%E7%9A%84%E8%AE%A1%E5%88%92)
   - [谷歌将允许从AI生成内容中移除可见水印](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%B0%86%E5%85%81%E8%AE%B8%E4%BB%8EAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E4%B8%AD%E7%A7%BB%E9%99%A4%E5%8F%AF%E8%A7%81%E6%B0%B4%E5%8D%B0)
