@@ -166,13 +166,18 @@
   - [CVE-2026-50029 js-toml has silent type confusion via falsy-primitive duplicate-key bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-50029?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-73682 Semaphore prior to version 2.18.20 OS Command Injection via git_url Repository Handling](https://vulners.com/cvelist/CVELIST:CVE-2026-73682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Google Workspace Promo Codes: 14% Off for August 2026](https://www.wired.com/story/google-workspace-promo-code/)
   - [New York City Lawmakers Push to ‘Ban the Scan’ at MSG](https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/)
   - [The Best Movies to Stream This Month (August 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
 - 不安全
   - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://buaq.net/go-435274.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [Excel 和 Excellence](https://dyrnq.com/excel-and-excellence/)
 - 爱范儿
   - [早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付](https://www.ifanr.com/1675280?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [OpenAI 称其企业业务规模现已超过消费者业务](https://blog.upx8.com/OpenAI-%E7%A7%B0%E5%85%B6%E4%BC%81%E4%B8%9A%E4%B8%9A%E5%8A%A1%E8%A7%84%E6%A8%A1%E7%8E%B0%E5%B7%B2%E8%B6%85%E8%BF%87%E6%B6%88%E8%B4%B9%E8%80%85%E4%B8%9A%E5%8A%A1)
+  - [英伟达缩减对OpenAI数据中心项目提供担保的计划](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BC%A9%E5%87%8F%E5%AF%B9OpenAI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BE%9B%E6%8B%85%E4%BF%9D%E7%9A%84%E8%AE%A1%E5%88%92)
   - [谷歌将允许从AI生成内容中移除可见水印](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%B0%86%E5%85%81%E8%AE%B8%E4%BB%8EAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E4%B8%AD%E7%A7%BB%E9%99%A4%E5%8F%AF%E8%A7%81%E6%B0%B4%E5%8D%B0)
