@@ -1,7 +1,12 @@
 # 今日安全资讯（2026-08-16）
 
+- CoinTelegraph
+  - [Tokenized stock holders more than double as monthly volume surges](https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - eli.thegreenplace.net
   - [Concurrent Servers: Part 7 - Rust](https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/)
+- Hacker News Frontpage
+  - [Europe's scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
+  - [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
 - johndcook.com
   - [Probability of correcting errors](https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/)
 - TechCrunch
