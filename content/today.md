@@ -25,6 +25,7 @@
   - [Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen](https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Galaxy lowers CLARITY Act odds to 10%](https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gen Z favors ETFs and trades less than older cohorts: Binance](https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ireland plans industry standards for illicit crypto use](https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi ordered to stop broad range of prediction markets in Washington](https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kraken parent Payward revenue rises 17% as trading volume falls in Q2](https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -87,7 +88,9 @@
   - [World Labs turns one real-world robot task into thousands of simulated variations for training](https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/)
 - The Verge
   - [A RAMageddon guide to back-to-school laptop shopping](https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school)
+  - [Disney D23 2026: Everything announced for Star Wars, Marvel, and more](https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23)
   - [Google&#8217;s best new camera feature is only for the Pixel 11 series](https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones)
+  - [I finally found a magnetic phone grip I never want to remove](https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review)
   - [Lamborghini’s flagship Revuelto levels up with SV trim](https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance)
   - [Mark Zuckerberg has an Instagzam](https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast)
   - [Samsung has new Galaxy headphones in the works](https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones)
@@ -96,6 +99,8 @@
   - [We’re reaching peak camera with the Sony A7R VI](https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review)
   - [When housing is unaffordable, this artist’s device makes pedaling harder](https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal)
   - [You can now turn off Google Gemini&#8217;s visible watermarks](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal)
+- Threatninja.net
+  - [HackTheBox: CobbleStone Machine Walkthrough – Insane Difficulty](https://threatninja.net/hackthebox-cobblestone-machine-walkthrough-insane-difficulty/)
 - VulDB Recent Entries
   - [CVE-2026-12363 | ZephyrProject Zephyr up to 4.4.x LoRaWAN Fragmented Data Block Transport service frag_transport.c frag_transport_package_callback frag_counter out-of-bounds write](https://vuldb.com/vuln/390072)
   - [CVE-2026-12364 | Zephyr Project up to 4.4.1 Logging Syscall Verifier subsys/logging/log_msg.c z_vrfy_z_log_msg_static_create source/desc/package/data privileges management](https://vuldb.com/vuln/390070)
