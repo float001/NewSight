@@ -11,6 +11,8 @@
   - [Vulnerability giving attackers full control of Macs is under active exploitation](https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/)
 - blog.jim-nielsen.com
   - [Oh Hey, It’s Not Just Me](https://blog.jim-nielsen.com/2026/its-not-just-me/)
+- blog.pixelmelt.dev
+  - [Training a Reinforcement Learning Model to Play Bonk.io](https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/)
 - CoinTelegraph
   - [Gen Z favors ETFs and trades less than older cohorts: Binance](https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ireland plans industry standards for illicit crypto use](https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
