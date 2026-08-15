@@ -155,5 +155,7 @@
   - [The Best Movies to Stream This Month (August 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付](https://www.ifanr.com/1675280?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [谷歌将允许从AI生成内容中移除可见水印](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%B0%86%E5%85%81%E8%AE%B8%E4%BB%8EAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E4%B8%AD%E7%A7%BB%E9%99%A4%E5%8F%AF%E8%A7%81%E6%B0%B4%E5%8D%B0)
