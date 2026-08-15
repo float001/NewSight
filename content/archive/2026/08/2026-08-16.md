@@ -9,9 +9,11 @@
   - [Concurrent Servers: Part 7 - Rust](https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/)
 - Hacker News Frontpage
   - [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+  - [Engineers will do anything to avoid learning from history](https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/)
   - [Europe's scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
   - [No-New-Physics Consciousness](https://www.overcomingbias.com/p/no-new-physics-consciousness)
   - [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
+  - [Triple Product Rule of Partial Derivatives](https://en.wikipedia.org/wiki/Triple_product_rule)
   - [Voltair (YC W26) Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
 - johndcook.com
   - [Probability of correcting errors](https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/)
@@ -29,3 +31,5 @@
   - [Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback](https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [1.228亿股！英伟达首度披露SpaceX持仓 成后者第六大股东](https://blog.upx8.com/1-228%E4%BA%BF%E8%82%A1-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E5%BA%A6%E6%8A%AB%E9%9C%B2SpaceX%E6%8C%81%E4%BB%93-%E6%88%90%E5%90%8E%E8%80%85%E7%AC%AC%E5%85%AD%E5%A4%A7%E8%82%A1%E4%B8%9C)
