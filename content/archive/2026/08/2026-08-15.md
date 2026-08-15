@@ -19,6 +19,7 @@
   - [Galaxy lowers CLARITY Act odds to 10%](https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gen Z favors ETFs and trades less than older cohorts: Binance](https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ireland plans industry standards for illicit crypto use](https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kalshi ordered to stop broad range of prediction markets in Washington](https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kraken parent Payward revenue rises 17% as trading volume falls in Q2](https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing](https://design.google/library/expressive-material-design-google-research)
@@ -80,6 +81,7 @@
   - [Mark Zuckerberg has an Instagzam](https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast)
   - [Samsung has new Galaxy headphones in the works](https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones)
   - [The X-Files creator Chris Carter wanted to make a more horrific movie](https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu)
+  - [When housing is unaffordable, this artist’s device makes pedaling harder](https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal)
   - [You can now turn off Google Gemini&#8217;s visible watermarks](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal)
 - VulDB Recent Entries
   - [CVE-2026-12363 | ZephyrProject Zephyr up to 4.4.x LoRaWAN Fragmented Data Block Transport service frag_transport.c frag_transport_package_callback frag_counter out-of-bounds write](https://vuldb.com/vuln/390072)
@@ -350,7 +352,9 @@
   - [CVE-2026-73682 Semaphore prior to version 2.18.20 OS Command Injection via git_url Repository Handling](https://vulners.com/cvelist/CVELIST:CVE-2026-73682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [5 Best Apple Watch Bands: Nike, Nomad, and Hermés (2026)](https://www.wired.com/story/best-apple-watch-bands/)
+  - [6 Best Apple Watch Accessories to Upgrade Your Watch (2026)](https://www.wired.com/story/best-apple-watch-accessories/)
   - [Google Workspace Promo Codes: 14% Off for August 2026](https://www.wired.com/story/google-workspace-promo-code/)
+  - [Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade](https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/)
   - [New York City Lawmakers Push to ‘Ban the Scan’ at MSG](https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/)
   - [Puerto Rico Is Rationing Water. It Could’ve Avoided It by Harvesting Rainwater](https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/)
   - [The Best Movies to Stream This Month (August 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
