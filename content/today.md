@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【💰】周末日常](https://2libra.com/post/personal-life/xq_DZQq)
+  - [感受到认知超过能力时 的感觉了](https://2libra.com/post/workplace-stories/UtKEdSz)
   - [我好像阳痿了](https://2libra.com/post/health-consultation/ALzNXcl)
   - [每天一分钟，知晓天下事！2026 年 8 月 15 日](https://2libra.com/post/social-observation/I7tZlwL)
   - [江湖路远，有缘再见](https://2libra.com/post/mental-health/9EFzPgv)
@@ -10,6 +11,7 @@
   - [Memories Mysteriously Survive After Brain Shutdown, And Scientists Don’t Know Why](https://www.404media.co/memories-mysteriously-survive-after-brain-shutdown-and-scientists-dont-know-why/)
 - Ars Technica
   - [Ars Live recap: How can we stop publishers from killing their own games?](https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/)
+  - [So much solar: Digging into the list of every US power plant that went online this year](https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/)
   - [Vulnerability giving attackers full control of Macs is under active exploitation](https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/)
 - blog.jim-nielsen.com
   - [Oh Hey, It’s Not Just Me](https://blog.jim-nielsen.com/2026/its-not-just-me/)
@@ -49,7 +51,10 @@
   - [Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware](https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/)
 - NVIDIA AI Blog
   - [Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent](https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/)
+- Sebastian Raschka
+  - [Building an AI Text Detector From Scratch](https://magazine.sebastianraschka.com/p/ai-detector-from-scratch)
 - shkspr.mobi
+  - [Book Review: Slags by Emma Jane Unsworth ★★★⯪☆](https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/)
   - [Edinburgh Fringe: Target Audience ★★★★★](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/)
 - simonwillison.net
   - [Don't classify. Hallucinate!](https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/)
@@ -80,7 +85,9 @@
   - [Lamborghini’s flagship Revuelto levels up with SV trim](https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance)
   - [Mark Zuckerberg has an Instagzam](https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast)
   - [Samsung has new Galaxy headphones in the works](https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones)
+  - [The surprise must-see movie of the summer](https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer)
   - [The X-Files creator Chris Carter wanted to make a more horrific movie](https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu)
+  - [We’re reaching peak camera with the Sony A7R VI](https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review)
   - [When housing is unaffordable, this artist’s device makes pedaling harder](https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal)
   - [You can now turn off Google Gemini&#8217;s visible watermarks](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal)
 - VulDB Recent Entries
