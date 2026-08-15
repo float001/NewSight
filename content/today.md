@@ -29,6 +29,7 @@
   - [How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)
   - [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
   - [Show HN: Embed a real Linux terminal on your website](https://sandbox.bio/training/embed)
+  - [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science)
   - [Z.ai Security Disclosure](https://cvd.z.ai)
 - IEEE Spectrum
   - [Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware](https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/)
@@ -132,8 +133,21 @@
   - [CVE-2026-73845 | ondata ckan-mcp-server up to 0.4.111 URL Validation src/tools/quality.ts ckan_get_mqa_quality/ckan_get_mqa_quality_details server_url input validation](https://vuldb.com/vuln/390055)
   - [CVE-2026-73846 | ondata ckan-mcp-server up to 0.4.111 Cache src/utils/cache.ts canonicalizeParams input validation](https://vuldb.com/vuln/390053)
   - [CVE-2026-73850 | Emlog up to 2.6.20 ai.php queryDatabase sql injection](https://vuldb.com/vuln/390071)
+  - [CVE-2026-74240 | Red Hat OpenShift Update Service/Quay JWT Validation improper authorization](https://vuldb.com/vuln/390137)
+  - [CVE-2026-74241 | Red Hat OpenShift Update Service/Quay LDAP Authentication Username ldap injection](https://vuldb.com/vuln/390138)
+  - [CVE-2026-74242 | Red Hat Quay Notification Configuration privileges management](https://vuldb.com/vuln/390139)
+  - [CVE-2026-74243 | Red Hat OpenShift Update Service/Quay Security Scanner Notification Endpoint path traversal](https://vuldb.com/vuln/390140)
+  - [CVE-2026-74244 | Red Hat OpenShift Update Service/Quay Stripe Billing Webhook /webhooks/stripe improper authentication](https://vuldb.com/vuln/390142)
+  - [CVE-2026-74245 | Red Hat OpenShift Update Service/Quay Exported Logs information disclosure](https://vuldb.com/vuln/390141)
+  - [CVE-2026-74247 | Red Hat Quay Build API server-side request forgery](https://vuldb.com/vuln/390143)
   - [CVE-2026-74248 | OpenStack Octavia up to 16.0.1/17.0.0/18.0.0 improper authorization](https://vuldb.com/vuln/390129)
+  - [CVE-2026-74250 | OpenStack Ironic up to 35.0.1/38.0.0 Autodetect Deploy Interface stack-based overflow](https://vuldb.com/vuln/390144)
 - Vulners.com RSS Feed
+  - [Chromium: CVE-2026-19556 Use after free in V8](https://vulners.com/mscve/MS:CVE-2026-19556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-19557 Use after free in TabStrip](https://vulners.com/mscve/MS:CVE-2026-19557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-19558 Use after free in Extensions](https://vulners.com/mscve/MS:CVE-2026-19558?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-19559 Use after free in HTML](https://vulners.com/mscve/MS:CVE-2026-19559?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-19560 Use after free in Blink](https://vulners.com/mscve/MS:CVE-2026-19560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50029 js-toml has silent type confusion via falsy-primitive duplicate-key bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-50029?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-73682 Semaphore prior to version 2.18.20 OS Command Injection via git_url Repository Handling](https://vulners.com/cvelist/CVELIST:CVE-2026-73682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
@@ -141,3 +155,5 @@
   - [The Best Movies to Stream This Month (August 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [谷歌将允许从AI生成内容中移除可见水印](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%B0%86%E5%85%81%E8%AE%B8%E4%BB%8EAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E4%B8%AD%E7%A7%BB%E9%99%A4%E5%8F%AF%E8%A7%81%E6%B0%B4%E5%8D%B0)
