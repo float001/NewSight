@@ -14,6 +14,7 @@
 - blog.pixelmelt.dev
   - [Training a Reinforcement Learning Model to Play Bonk.io](https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/)
 - CoinTelegraph
+  - [Galaxy lowers CLARITY Act odds to 10%](https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gen Z favors ETFs and trades less than older cohorts: Binance](https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ireland plans industry standards for illicit crypto use](https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kraken parent Payward revenue rises 17% as trading volume falls in Q2](https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -245,6 +246,43 @@
   - [CVE-2026-74330 | Linux Kernel up to 7.1.4 configfs race condition](https://vuldb.com/vuln/390293)
   - [CVE-2026-74331 | Linux Kernel up to 7.1.4 firmware_loader device_cache_fw_images locking](https://vuldb.com/vuln/390294)
   - [CVE-2026-74334 | Linux Kernel up to 7.1.4 RDMA/nldev rdma_restrack_sync locking](https://vuldb.com/vuln/390283)
+  - [CVE-2026-74380 | Linux Kernel up to 7.1.4 host1x iommu_map_sgtable return value](https://vuldb.com/vuln/390342)
+  - [CVE-2026-74381 | Linux Kernel up to 7.1.4 host1x host1x_bo_pin memory leak](https://vuldb.com/vuln/390359)
+  - [CVE-2026-74382 | Linux Kernel up to 7.1.4 cls_bpf net/sched/cls_bpf.c cls_bpf_offload_cmd stack-based overflow](https://vuldb.com/vuln/390350)
+  - [CVE-2026-74383 | Linux Kernel up to 6.18.39/7.1.4 nvme-pci nvme_setup_descriptor_pools numa_node out-of-bounds](https://vuldb.com/vuln/390351)
+  - [CVE-2026-74384 | Linux Kernel up to 7.1.4 nvme-multipath nvme_mpath_revalidate_paths out-of-bounds write](https://vuldb.com/vuln/390360)
+  - [CVE-2026-74385 | Linux Kernel up to 6.18.39/7.1.4 nvmet-tcp nvmet_tcp_tls_handshake_done return value](https://vuldb.com/vuln/390352)
+  - [CVE-2026-74386 | Linux Kernel up to 6.12.96/6.18.39/7.1.4 nvmet-tcp nvmet_tcp_alloc_queue pf_cache allocation of resources](https://vuldb.com/vuln/390353)
+  - [CVE-2026-74387 | Linux Kernel up to 7.1.4 ALSA snd_rawmidi_kernel_write1 use after free](https://vuldb.com/vuln/390361)
+  - [CVE-2026-74388 | Linux Kernel up to 6.18.39/7.1.4 ALSA snd_seq_oss_midi_putc use after free](https://vuldb.com/vuln/390343)
+  - [CVE-2026-74389 | Linux Kernel up to 6.12.96/6.18.39/7.1.4 hns hns_roce_cmd_mbox resource consumption](https://vuldb.com/vuln/390344)
+  - [CVE-2026-74390 | Linux Kernel up to 7.1.4 irdma irdma_copy_user_pgaddrs total_cnt out-of-bounds write](https://vuldb.com/vuln/390354)
+  - [CVE-2026-74391 | Linux Kernel up to 6.6.144/6.12.96/6.18.39/7.1.4 tracing strcat buffer overflow](https://vuldb.com/vuln/390345)
+  - [CVE-2026-74392 | Linux Kernel Device Mapper dm_poll_bio resource consumption](https://vuldb.com/vuln/390346)
+  - [CVE-2026-74393 | Linux Kernel up to 6.12.96/6.18.39/7.1.4 drm_syncobj drm_syncobj_find_fence memory leak](https://vuldb.com/vuln/390347)
+  - [CVE-2026-74394 | Linux Kernel up to 7.1.4 srpt sg_init_one len integer overflow](https://vuldb.com/vuln/390355)
+  - [CVE-2026-74395 | Linux Kernel up to 7.1.4 RDMA mlx5 MLX5_IB_METHOD_DEVX_SUBSCRIBE_EVENT null pointer dereference](https://vuldb.com/vuln/390348)
+  - [CVE-2026-74396 | Linux Kernel up to 6.18.39/7.1.4 RDMA/mlx5 mlx5_odp_populate_xlt memory leak](https://vuldb.com/vuln/390356)
+  - [CVE-2026-74397 | Linux Kernel up to 6.6.144/6.12.96/6.18.39/7.1.4 IB/mlx5 mlx5_ib_alloc_transport_domain allocation of resources](https://vuldb.com/vuln/390357)
+  - [CVE-2026-74398 | Linux Kernel up to 7.1.4 ipv6 addrconf_dad_failure race condition](https://vuldb.com/vuln/390349)
+  - [CVE-2026-74399 | Linux Kernel up to 7.1.4 EVM evm_read_xattrs uninitialized resource](https://vuldb.com/vuln/390358)
+  - [CVE-2026-74400 | Linux Kernel up to 6.18.39/7.1.4 BPF bpf_set_dentry_xattr/bpf_remove_dentry_xattr null pointer dereference](https://vuldb.com/vuln/390370)
+  - [CVE-2026-74401 | Linux Kernel up to 6.6.144/6.12.96/6.18.39/7.1.4 dlm use after free](https://vuldb.com/vuln/390371)
+  - [CVE-2026-74402 | Linux Kernel up to 7.1.4 atmel-sha204a random values](https://vuldb.com/vuln/390372)
+  - [CVE-2026-74403 | Linux Kernel CCP sev_tsm_init_locked null pointer dereference](https://vuldb.com/vuln/390373)
+  - [CVE-2026-74404 | Linux Kernel up to 6.12.96/6.18.39/7.1.4 ccp snp_filter_reserved_mem_regions num_elements heap-based overflow](https://vuldb.com/vuln/390376)
+  - [CVE-2026-74405 | Linux Kernel up to 6.18.39/7.1.4 OPP dev_pm_opp_add_dynamic race condition](https://vuldb.com/vuln/390362)
+  - [CVE-2026-74406 | Linux Kernel up to 7.1.4 vxlan vxlan_gro_prepare_receive null pointer dereference](https://vuldb.com/vuln/390374)
+  - [CVE-2026-74407 | Linux Kernel ath11k ath11k_pci_shutdown null pointer dereference](https://vuldb.com/vuln/390363)
+  - [CVE-2026-74408 | Linux Kernel up to 7.1.4 ath9k ath_tx_edma_tasklet memory corruption](https://vuldb.com/vuln/390375)
+  - [CVE-2026-74409 | Linux Kernel up to 6.18.39/7.1.4 rtw89 rtw89_assoc_link_rcu_dereference mac_id array index](https://vuldb.com/vuln/390377)
+  - [CVE-2026-74411 | Linux Kernel up to 6.6.144/6.12.96/6.18.39/7.1.4 rtw89 rtw89_hw_scan_add_chan_ax infinite loop](https://vuldb.com/vuln/390364)
+  - [CVE-2026-74412 | Linux Kernel up to 6.18.39/7.1.4 rtw88 io_error_detected/io_resume out-of-bounds](https://vuldb.com/vuln/390365)
+  - [CVE-2026-74413 | Linux Kernel up to 6.18.39/7.1.4 rtw89 io_error_detected memory corruption](https://vuldb.com/vuln/390366)
+  - [CVE-2026-74414 | Linux Kernel hfsplus fs/hfsplus/xattr.c hfsplus_setxattr null pointer dereference](https://vuldb.com/vuln/390367)
+  - [CVE-2026-74415 | Linux Kernel up to 7.1.4 atcspi200 use after free](https://vuldb.com/vuln/390368)
+  - [CVE-2026-74416 | Linux Kernel up to 7.1.4 radeon radeon_ring_restore memory leak](https://vuldb.com/vuln/390378)
+  - [CVE-2026-74419 | Linux Kernel up to 7.1.4 accel-amdxdna copy_to_user buffer overflow](https://vuldb.com/vuln/390369)
 - Vulners.com RSS Feed
   - [Chromium: CVE-2026-19556 Use after free in V8](https://vulners.com/mscve/MS:CVE-2026-19556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium: CVE-2026-19557 Use after free in TabStrip](https://vulners.com/mscve/MS:CVE-2026-19557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -260,6 +298,7 @@
 - 不安全
   - [Howdy everyone, I need help developing a keylogger](https://buaq.net/go-435284.html)
   - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://buaq.net/go-435274.html)
+  - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://buaq.net/go-435303.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
@@ -268,6 +307,8 @@
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
   - [早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付](https://www.ifanr.com/1675280?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]qwen-exo:基于 SGLang 二次开发的混合注意力推理后端](https://key08.com/index.php/2026/08/15/3283.html)
 - 黑海洋
   - [OpenAI 称其企业业务规模现已超过消费者业务](https://blog.upx8.com/OpenAI-%E7%A7%B0%E5%85%B6%E4%BC%81%E4%B8%9A%E4%B8%9A%E5%8A%A1%E8%A7%84%E6%A8%A1%E7%8E%B0%E5%B7%B2%E8%B6%85%E8%BF%87%E6%B6%88%E8%B4%B9%E8%80%85%E4%B8%9A%E5%8A%A1)
   - [英伟达缩减对OpenAI数据中心项目提供担保的计划](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BC%A9%E5%87%8F%E5%AF%B9OpenAI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BE%9B%E6%8B%85%E4%BF%9D%E7%9A%84%E8%AE%A1%E5%88%92)
