@@ -3,6 +3,7 @@
 - 2Libra
   - [我好像阳痿了](https://2libra.com/post/health-consultation/ALzNXcl)
   - [每天一分钟，知晓天下事！2026 年 8 月 15 日](https://2libra.com/post/social-observation/I7tZlwL)
+  - [江湖路远，有缘再见](https://2libra.com/post/mental-health/9EFzPgv)
 - 404 Media
   - [Behind the Blog: Endless Scam Parade](https://www.404media.co/behind-the-blog-endless-scam-parade/)
 - Ars Technica
@@ -27,6 +28,7 @@
   - [Every exterior shot in The Taking of Pelham 123](https://iafisher.com/2026/07/pelham-123)
   - [High-Performance Array-Backed LRU Hash Table](https://github.com/adanil-code/LRUHashTable)
   - [How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)
+  - [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
   - [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
   - [Show HN: Embed a real Linux terminal on your website](https://sandbox.bio/training/embed)
   - [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science)
@@ -153,6 +155,8 @@
 - Wired
   - [New York City Lawmakers Push to ‘Ban the Scan’ at MSG](https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/)
   - [The Best Movies to Stream This Month (August 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
+- 不安全
+  - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://buaq.net/go-435274.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
