@@ -13,6 +13,7 @@
   - [Massive Azure Exfiltration Campaign Exposes Millions of Enterprise Records via Compromised Credentials (Mcdonald’s, Vodafone, Kyndryl & Others)](https://www.infostealers.com/article/massive-azure-exfiltration-campaign-exposes-millions-of-enterprise-records-via-compromised-credentials-mcdonalds-vodafone-kyndryl-others/)
 - CoinTelegraph
   - [Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup](https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ethereum devs to narrow 66 proposals tied to Hegotá upgrade](https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tokenized stock holders more than double as monthly volume surges](https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Drata](https://drata.com/daring)
@@ -37,6 +38,10 @@
   - [Your Healthcare Integration Is Only as Good as Its Data Mapping Decisions](https://hackernoon.com/your-healthcare-integration-is-only-as-good-as-its-data-mapping-decisions?source=rss)
 - johndcook.com
   - [Probability of correcting errors](https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/)
+- shkspr.mobi
+  - [Thoughts on visiting the Edinburgh Fringe as a newbie](https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/)
+- Sploitus.com Exploits RSS Feed
+  - [web-vulnerabilities-labs exploit](https://sploitus.com/exploit?id=DEC54365-0995-5A7D-AF25-C363F856373B&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/)
   - [How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/)
@@ -50,11 +55,13 @@
   - [One in five US workers now delegates tasks to AI instead of colleagues, survey finds](https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/)
   - [OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups](https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/)
   - [Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data](https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/)
+  - [When AI models aren't allowed to reflect on themselves, it changes their entire worldview](https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/)
 - The Verge
   - [Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review)
   - [Have a laugh at AI’s expense by roleplaying as a chatbot](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot)
   - [Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback](https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23)
   - [Polaroid’s tiny instant camera is $72 and includes a free pack of film](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale)
+  - [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai)
 - Wired
   - [It’s Never Too Early to Start Planning for the Next Two Solar Eclipses](https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/)
   - [Someone Finally Fixed Installing Apps on a Mac](https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/)
