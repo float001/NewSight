@@ -10,9 +10,15 @@
 - Hacker News Frontpage
   - [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
   - [Ordinary WiFi can now identify you with near-perfect accuracy](https://www.sciencedaily.com/releases/2026/08/260811052857.htm)
+- Offensive OSINT
+  - [Offensive OSINT s06e02 - Data-driven investigations part 2 - UC135](https://www.offensiveosint.io/offensive-osint-s06e02-data-driven-investigations-part-2-uc135/)
 - TechCrunch
   - [Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/)
+  - [Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/)
+  - [Why people aren’t buying Mark Zuckerberg’s AI future](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/)
 - The Block
   - [Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers](https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934)
+- The Verge
+  - [Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece](https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
