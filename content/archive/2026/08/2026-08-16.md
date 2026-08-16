@@ -2,6 +2,7 @@
 
 - 2Libra
   - [一个 Vibe Coding 网站是怎么在上线几十分钟内被打爆的](https://2libra.com/post/vibe-coding/8jR6y1A)
+  - [这是我第一次纯 vibe 的网站，给 VPS 商家打分的，专防 aff 上当](https://2libra.com/post/promotion/zCft5ir)
 - CoinTelegraph
   - [Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup](https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tokenized stock holders more than double as monthly volume surges](https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -16,6 +17,7 @@
   - [Europe's scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
   - [Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb](https://nntaleb.substack.com/p/have-another-drink)
   - [No-New-Physics Consciousness](https://www.overcomingbias.com/p/no-new-physics-consciousness)
+  - [The quirky personal homepages of programming language creators](https://breck.lol/plMakers.html)
   - [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
   - [Triple Product Rule of Partial Derivatives](https://en.wikipedia.org/wiki/Triple_product_rule)
   - [Voltair (YC W26) Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
@@ -29,6 +31,8 @@
 - The Block
   - [Harvard leaves bitcoin ETF stake untouched in Q2 after cutting it 43% in the prior quarter](https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926)
   - [JPMorgan cut Polymarket’s banking ties in October but still wants a role in a potential IPO: FT](https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929)
+- The Decoder
+  - [One in five US workers now delegates tasks to AI instead of colleagues, survey finds](https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/)
 - The Verge
   - [Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review)
   - [Have a laugh at AI’s expense by roleplaying as a chatbot](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot)
