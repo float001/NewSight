@@ -10,6 +10,8 @@
   - [Tokenized stock holders more than double as monthly volume surges](https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Drata](https://drata.com/daring)
+- defend.network
+  - [Microsoft patches 398 flaws; SharePoint exploited; Lazarus deploys Windows backdoor](https://defend.network/briefings/microsoft-sharepoint-lazarus-windows-zero-day-2026-08-16.html)
 - eli.thegreenplace.net
   - [Concurrent Servers: Part 7 - Rust](https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/)
 - Hacker News Frontpage
