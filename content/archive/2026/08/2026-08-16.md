@@ -2,6 +2,7 @@
 
 - 2Libra
   - [Retelling：用来练习复述能力的小工具](https://2libra.com/post/personal-works/gTBGTzb)
+  - [《无悔追踪》点评：10 分｜周末两天看完了这部 30 年前的老剧。对历史感兴趣可以看看](https://2libra.com/post/movie-experience/ImDP99N)
   - [【搬运】「IP 检测」多源风控看板油猴脚本](https://2libra.com/post/tools-sharing/_smKZOO)
   - [【💰】20thSIAS 深圳国际音频展，一发入魂，中了一款 4700 元的耳机](https://2libra.com/post/earphones/UfK3cmy)
   - [一个 Vibe Coding 网站是怎么在上线几十分钟内被打爆的](https://2libra.com/post/vibe-coding/8jR6y1A)
@@ -16,6 +17,8 @@
   - [DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says](https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum devs to narrow 66 proposals tied to Hegotá upgrade](https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tokenized stock holders more than double as monthly volume surges](https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- cornerpirate.com
+  - [HackGlasgow 2026](https://cornerpirate.com/2026/08/16/hackglasgow-2026/)
 - daringfireball.net
   - [Drata](https://drata.com/daring)
 - defend.network
@@ -30,6 +33,7 @@
   - [Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb](https://nntaleb.substack.com/p/have-another-drink)
   - [No-New-Physics Consciousness](https://www.overcomingbias.com/p/no-new-physics-consciousness)
   - [Research papers using "kidney disappointment" instead of "kidney failure"](https://scholar.google.com/scholar?q=%22kidney+disappointment%22)
+  - [Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering)
   - [The quirky personal homepages of programming language creators](https://breck.lol/plMakers.html)
   - [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
   - [Triple Product Rule of Partial Derivatives](https://en.wikipedia.org/wiki/Triple_product_rule)
@@ -40,6 +44,8 @@
   - [Your Healthcare Integration Is Only as Good as Its Data Mapping Decisions](https://hackernoon.com/your-healthcare-integration-is-only-as-good-as-its-data-mapping-decisions?source=rss)
 - johndcook.com
   - [Probability of correcting errors](https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/)
+- ProjectDiscovery.io | Blog
+  - [Supply Chain Security Analysis of a 9.5M-Install VS Code Extension](https://projectdiscovery.io/blog/a-9-5m-install-vs-code-extension-one-markdown-file-and-a-supply-chain-foothold)
 - shkspr.mobi
   - [Thoughts on visiting the Edinburgh Fringe as a newbie](https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/)
 - Sploitus.com Exploits RSS Feed
@@ -69,6 +75,8 @@
   - [Someone Finally Fixed Installing Apps on a Mac](https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/)
   - [TerraMow V1000 Review: Show Your Lawn Some Love](https://www.wired.com/review/terramow-v1000/)
   - [The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall](https://www.wired.com/gallery/best-cat-water-fountains/)
+- 不安全
+  - [HackGlasgow 2026](https://buaq.net/go-435420.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 量子位 QbitAI
