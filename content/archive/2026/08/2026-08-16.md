@@ -13,6 +13,7 @@
   - [Massive Azure Exfiltration Campaign Exposes Millions of Enterprise Records via Compromised Credentials (Mcdonald’s, Vodafone, Kyndryl & Others)](https://www.infostealers.com/article/massive-azure-exfiltration-campaign-exposes-millions-of-enterprise-records-via-compromised-credentials-mcdonalds-vodafone-kyndryl-others/)
 - CoinTelegraph
   - [Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup](https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says](https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum devs to narrow 66 proposals tied to Hegotá upgrade](https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tokenized stock holders more than double as monthly volume surges](https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -28,6 +29,7 @@
   - [Europe's scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
   - [Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb](https://nntaleb.substack.com/p/have-another-drink)
   - [No-New-Physics Consciousness](https://www.overcomingbias.com/p/no-new-physics-consciousness)
+  - [Research papers using "kidney disappointment" instead of "kidney failure"](https://scholar.google.com/scholar?q=%22kidney+disappointment%22)
   - [The quirky personal homepages of programming language creators](https://breck.lol/plMakers.html)
   - [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
   - [Triple Product Rule of Partial Derivatives](https://en.wikipedia.org/wiki/Triple_product_rule)
