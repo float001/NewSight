@@ -2,12 +2,15 @@
 
 - 2Libra
   - [Retelling：用来练习复述能力的小工具](https://2libra.com/post/personal-works/gTBGTzb)
+  - [【搬运】「IP 检测」多源风控看板油猴脚本](https://2libra.com/post/tools-sharing/_smKZOO)
   - [【💰】20thSIAS 深圳国际音频展，一发入魂，中了一款 4700 元的耳机](https://2libra.com/post/earphones/UfK3cmy)
   - [一个 Vibe Coding 网站是怎么在上线几十分钟内被打爆的](https://2libra.com/post/vibe-coding/8jR6y1A)
   - [开源一个本地 AI 编程观察器：Agent Doctor by NexoToken](https://2libra.com/post/promotion/fHGpchW)
   - [我得罪了 Linux .do 站长始皇后我就被她报复了](https://2libra.com/post/excessive-things/fpelekm)
   - [独立开发了一个 AI 穿搭测评小程序，顺便聊聊 DeepSeek V4 Flash 和 Reasonix 遇到的一些问题](https://2libra.com/post/promotion/uJiaUCc)
   - [这是我第一次纯 vibe 的网站，给 VPS 商家打分的，专防 aff 上当](https://2libra.com/post/promotion/zCft5ir)
+- Articles | InfoStealers
+  - [Massive Azure Exfiltration Campaign Exposes Millions of Enterprise Records via Compromised Credentials (Mcdonald’s, Vodafone, Kyndryl & Others)](https://www.infostealers.com/article/massive-azure-exfiltration-campaign-exposes-millions-of-enterprise-records-via-compromised-credentials-mcdonalds-vodafone-kyndryl-others/)
 - CoinTelegraph
   - [Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup](https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tokenized stock holders more than double as monthly volume surges](https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -42,6 +45,7 @@
 - The Decoder
   - [Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests](https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/)
   - [One in five US workers now delegates tasks to AI instead of colleagues, survey finds](https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/)
+  - [OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups](https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/)
   - [Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data](https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/)
 - The Verge
   - [Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review)
