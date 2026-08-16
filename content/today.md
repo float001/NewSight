@@ -32,6 +32,7 @@
   - [Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review)
   - [Have a laugh at AI’s expense by roleplaying as a chatbot](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot)
   - [Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback](https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23)
+  - [Polaroid’s tiny instant camera is $72 and includes a free pack of film](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
