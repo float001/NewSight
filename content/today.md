@@ -14,6 +14,7 @@
   - [ChatGPT lost 22 points of web share in a year](https://aicharts.grok.me/c/market-share)
   - [Engineers will do anything to avoid learning from history](https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/)
   - [Europe's scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
+  - [Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb](https://nntaleb.substack.com/p/have-another-drink)
   - [No-New-Physics Consciousness](https://www.overcomingbias.com/p/no-new-physics-consciousness)
   - [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
   - [Triple Product Rule of Partial Derivatives](https://en.wikipedia.org/wiki/Triple_product_rule)
