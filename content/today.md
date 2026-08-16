@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-08-16）
 
+- 2Libra
+  - [一个 Vibe Coding 网站是怎么在上线几十分钟内被打爆的](https://2libra.com/post/vibe-coding/8jR6y1A)
 - CoinTelegraph
   - [Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup](https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tokenized stock holders more than double as monthly volume surges](https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -34,3 +36,4 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
   - [1.228亿股！英伟达首度披露SpaceX持仓 成后者第六大股东](https://blog.upx8.com/1-228%E4%BA%BF%E8%82%A1-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E5%BA%A6%E6%8A%AB%E9%9C%B2SpaceX%E6%8C%81%E4%BB%93-%E6%88%90%E5%90%8E%E8%80%85%E7%AC%AC%E5%85%AD%E5%A4%A7%E8%82%A1%E4%B8%9C)
+  - [中国汽车从内卷到外卷：出口爆发式增长，运输船一船难求，船期排到数年之后](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BB%8E%E5%86%85%E5%8D%B7%E5%88%B0%E5%A4%96%E5%8D%B7-%E5%87%BA%E5%8F%A3%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF-%E8%BF%90%E8%BE%93%E8%88%B9%E4%B8%80%E8%88%B9%E9%9A%BE%E6%B1%82-%E8%88%B9%E6%9C%9F%E6%8E%92%E5%88%B0%E6%95%B0%E5%B9%B4%E4%B9%8B%E5%90%8E)
