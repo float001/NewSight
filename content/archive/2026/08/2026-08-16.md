@@ -56,10 +56,16 @@
   - [Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback](https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23)
   - [Polaroid’s tiny instant camera is $72 and includes a free pack of film](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale)
 - Wired
+  - [It’s Never Too Early to Start Planning for the Next Two Solar Eclipses](https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/)
+  - [Someone Finally Fixed Installing Apps on a Mac](https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/)
+  - [TerraMow V1000 Review: Show Your Lawn Some Love](https://www.wired.com/review/terramow-v1000/)
   - [The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall](https://www.wired.com/gallery/best-cat-water-fountains/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 量子位 QbitAI
+  - [“B站教AI”爆火后，北航90后副教授何静回应一切](https://www.qbitai.com/2026/08/474064.html)
 - 黑海洋
   - [1.228亿股！英伟达首度披露SpaceX持仓 成后者第六大股东](https://blog.upx8.com/1-228%E4%BA%BF%E8%82%A1-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E5%BA%A6%E6%8A%AB%E9%9C%B2SpaceX%E6%8C%81%E4%BB%93-%E6%88%90%E5%90%8E%E8%80%85%E7%AC%AC%E5%85%AD%E5%A4%A7%E8%82%A1%E4%B8%9C)
   - [中国准备解除对Manus创始人的出行禁令](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%87%86%E5%A4%87%E8%A7%A3%E9%99%A4%E5%AF%B9Manus%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%9A%84%E5%87%BA%E8%A1%8C%E7%A6%81%E4%BB%A4)
   - [中国汽车从内卷到外卷：出口爆发式增长，运输船一船难求，船期排到数年之后](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BB%8E%E5%86%85%E5%8D%B7%E5%88%B0%E5%A4%96%E5%8D%B7-%E5%87%BA%E5%8F%A3%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF-%E8%BF%90%E8%BE%93%E8%88%B9%E4%B8%80%E8%88%B9%E9%9A%BE%E6%B1%82-%E8%88%B9%E6%9C%9F%E6%8E%92%E5%88%B0%E6%95%B0%E5%B9%B4%E4%B9%8B%E5%90%8E)
+  - [诺基亚关闭中国研发中心裁员1600人](https://blog.upx8.com/%E8%AF%BA%E5%9F%BA%E4%BA%9A%E5%85%B3%E9%97%AD%E4%B8%AD%E5%9B%BD%E7%A0%94%E5%8F%91%E4%B8%AD%E5%BF%83%E8%A3%81%E5%91%981600%E4%BA%BA)
