@@ -7,9 +7,11 @@
   - [【💰】20thSIAS 深圳国际音频展，一发入魂，中了一款 4700 元的耳机](https://2libra.com/post/earphones/UfK3cmy)
   - [一个 Vibe Coding 网站是怎么在上线几十分钟内被打爆的](https://2libra.com/post/vibe-coding/8jR6y1A)
   - [开源一个本地 AI 编程观察器：Agent Doctor by NexoToken](https://2libra.com/post/promotion/fHGpchW)
+  - [我做了个 DeepSeek Harness 的 插件 DAG 编排引擎，已开源](https://2libra.com/post/open-source-sharing/04xkLII)
   - [我得罪了 Linux .do 站长始皇后我就被她报复了](https://2libra.com/post/excessive-things/fpelekm)
   - [独立开发了一个 AI 穿搭测评小程序，顺便聊聊 DeepSeek V4 Flash 和 Reasonix 遇到的一些问题](https://2libra.com/post/promotion/uJiaUCc)
   - [这是我第一次纯 vibe 的网站，给 VPS 商家打分的，专防 aff 上当](https://2libra.com/post/promotion/zCft5ir)
+  - [🏆 本周 2Libra 龙虎榜 2026-08-10 ~ 2026-08-16](https://2libra.com/post/forum-function/wpnRlpR)
 - Articles | InfoStealers
   - [Massive Azure Exfiltration Campaign Exposes Millions of Enterprise Records via Compromised Credentials (Mcdonald’s, Vodafone, Kyndryl & Others)](https://www.infostealers.com/article/massive-azure-exfiltration-campaign-exposes-millions-of-enterprise-records-via-compromised-credentials-mcdonalds-vodafone-kyndryl-others/)
 - CoinTelegraph
@@ -21,6 +23,7 @@
   - [HackGlasgow 2026](https://cornerpirate.com/2026/08/16/hackglasgow-2026/)
 - daringfireball.net
   - [Drata](https://drata.com/daring)
+  - [XCancel — An Unofficial Twitter/X Mirror](https://xcancel.com/about)
 - defend.network
   - [Microsoft patches 398 flaws; SharePoint exploited; Lazarus deploys Windows backdoor](https://defend.network/briefings/microsoft-sharepoint-lazarus-windows-zero-day-2026-08-16.html)
 - eli.thegreenplace.net
@@ -49,6 +52,8 @@
 - shkspr.mobi
   - [Thoughts on visiting the Edinburgh Fringe as a newbie](https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-64638](https://sploitus.com/exploit?id=BB1B9118-BF3C-5F4C-805A-63268F33EE6A&utm_source=rss&utm_medium=rss)
+  - [Hack-The-Box-Connected-Full-Machine-Walkthrough exploit](https://sploitus.com/exploit?id=BA30A7A4-99E2-581E-A23E-DD578C1DA264&utm_source=rss&utm_medium=rss)
   - [web-vulnerabilities-labs exploit](https://sploitus.com/exploit?id=DEC54365-0995-5A7D-AF25-C363F856373B&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/)
@@ -65,6 +70,7 @@
   - [Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data](https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/)
   - [When AI models aren't allowed to reflect on themselves, it changes their entire worldview](https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/)
 - The Verge
+  - [ChatGPT’s Computer History tracks your clicks and keystrokes](https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes)
   - [Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review)
   - [Have a laugh at AI’s expense by roleplaying as a chatbot](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot)
   - [Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback](https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23)
@@ -77,8 +83,12 @@
   - [The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall](https://www.wired.com/gallery/best-cat-water-fountains/)
 - 不安全
   - [HackGlasgow 2026](https://buaq.net/go-435420.html)
+  - [massive azure exfiltration campaign impacts global brands - mcdonald’s, vodafone, and others](https://buaq.net/go-435427.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [今年最激动人心的 AI 宣言，来自科技圈最不受待见的人](https://www.ifanr.com/1674733?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [我用 161 个新闻源「养」了个 AI 主编，它比我更懂什么叫「大新闻」｜附教程](https://www.ifanr.com/1675326?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [“B站教AI”爆火后，北航90后副教授何静回应一切](https://www.qbitai.com/2026/08/474064.html)
 - 黑海洋
