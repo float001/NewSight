@@ -9,6 +9,7 @@
   - [Concurrent Servers: Part 7 - Rust](https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/)
 - Hacker News Frontpage
   - [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+  - [ChatGPT lost 22 points of web share in a year](https://aicharts.grok.me/c/market-share)
   - [Engineers will do anything to avoid learning from history](https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/)
   - [Europe's scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
   - [No-New-Physics Consciousness](https://www.overcomingbias.com/p/no-new-physics-consciousness)
