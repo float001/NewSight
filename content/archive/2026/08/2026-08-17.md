@@ -16,10 +16,12 @@
   - [你们三口之家，每个月开支多少](https://2libra.com/post/family/Jiw5Adv)
   - [发现口腔的耐热性比手高](https://2libra.com/post/small-things/6jXmIzN)
   - [回了一趟老家，河沟已被福寿螺占领，怎么驱逐他们？【慎点】](https://2libra.com/post/personal-life/TvDmboF)
+  - [如何搞定桌面充电线的收纳](https://2libra.com/post/computers-accessories/ans3jwk)
   - [已经流年不利好久了](https://2libra.com/post/personal-life/UiULhKg)
   - [把任意歌曲转换为喵喵叫](https://2libra.com/post/promotion/awarWPS)
   - [新人前来报到](https://2libra.com/post/newcomer/2c7I_Zg)
   - [最近微信审核很严格吗？小程序被永久封号了](https://2libra.com/post/indie-dev/fCcq6iv)
+  - [有没有经常开发微信小程序的兄弟姐妹么？ Taro VS uni-app 选择那个？](https://2libra.com/post/frontend/lbRmU1w)
   - [每日微语早报 8 月 17 日](https://2libra.com/post/social-observation/BD3f9B3)
   - [没有 Harness 才是 AI 的终极形态](https://2libra.com/post/ai-programming/sN_ghDj)
   - [牛马羽球人](https://2libra.com/post/badminton/ZMnVNJX)
@@ -27,7 +29,10 @@
   - [给大家分享一下我的鱼缸](https://2libra.com/post/pet-sharing/EWsyMUV)
   - [论坛登录签到的功能真 👍🏻。](https://2libra.com/post/forum-function/GEcRNNR)
   - [请问一下大家现在有什么渠道用低价或者免费的模型吗](https://2libra.com/post/ai-gateway/P-Fkeu0)
+- Articles | InfoStealers
+  - [From CI Pipeline to Ransomware & Breaches: 6 High-Profile Breaches in the LiteLLM/Trivy Attack](https://www.infostealers.com/article/from-ci-pipeline-to-ransomware-breaches-6-high-profile-breaches-in-the-litellm-trivy-attack/)
 - CoinTelegraph
+  - [Bitpanda fined in Austria’s first published MiCA penalty](https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chainalysis sues US over $95M ICE contract with TRM Labs](https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Data of 54,000 wallet users leaked, Clarity odds just 10%: Hodler’s Digest, Aug. 16](https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Greenlane’s $70M BERA treasury ends Q2 valued at $16M](https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -44,6 +49,8 @@
   - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
   - [Ordinary WiFi can now identify you with near-perfect accuracy](https://www.sciencedaily.com/releases/2026/08/260811052857.htm)
   - [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
+- infosecurity-magazine.com
+  - [SafePal Data Breach Hits Tens of Thousands of Customers](https://www.infosecurity-magazine.com/news/safepal-data-breach-tens-thousands/)
 - johndcook.com
   - [Proportion of 1s in a Hadamard matrix](https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/)
 - Kali Linux Tutorials
@@ -82,6 +89,8 @@
   - [CVE-2026-50601](https://vulners.com/nvd/NVD:CVE-2026-50601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50602](https://vulners.com/nvd/NVD:CVE-2026-50602?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [El Niño and Saharan Dust Silence Atlantic Hurricane Season](https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/)
+  - [Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms](https://www.wired.com/story/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-in-the-midterms/)
   - [There’s a New Link Between Gut Health and Alzheimer’s Disease](https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/)
 - 不安全
   - [Detecting Dark Matter’s Mark with an RTL-SDR Based DIY Radio Telescope](https://buaq.net/go-435539.html)
@@ -94,6 +103,8 @@
   - [Waymo 从中国进口了 3200 辆 Zeekr 自动驾驶汽车](https://www.solidot.org/story?sid=85111)
   - [美国一原告在法庭文件中植入针对 LLM 的提示词](https://www.solidot.org/story?sid=85109)
 - 爱范儿
+  - [22.39 万元起，岚图追光 S 上市，大回环是噱头，运动底盘才是正题](https://www.ifanr.com/1675423?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [《牛来》爆火之后，我更理解为什么 AI 视频需要自己的 Blender](https://www.ifanr.com/1675279?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [拒绝「差不多」，电商模型测评迎来「最严厉的父亲」](https://www.ifanr.com/1675338?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市](https://www.ifanr.com/1675332?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 风雪之隅(鸟哥)
@@ -103,5 +114,6 @@
   - [乌军向莫斯科发动大规模无人机袭击](https://blog.upx8.com/%E4%B9%8C%E5%86%9B%E5%90%91%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB)
   - [小米卢伟冰发文庆祝小米手机15周岁生日](https://blog.upx8.com/%E5%B0%8F%E7%B1%B3%E5%8D%A2%E4%BC%9F%E5%86%B0%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA15%E5%91%A8%E5%B2%81%E7%94%9F%E6%97%A5)
   - [指涉违吸烟广告条例 《尼古喵喵》香港下架](https://blog.upx8.com/%E6%8C%87%E6%B6%89%E8%BF%9D%E5%90%B8%E7%83%9F%E5%B9%BF%E5%91%8A%E6%9D%A1%E4%BE%8B-%E5%B0%BC%E5%8F%A4%E5%96%B5%E5%96%B5-%E9%A6%99%E6%B8%AF%E4%B8%8B%E6%9E%B6)
+  - [日本量子科技研发机构因暴雨被淹 放射性废液泄漏](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E9%87%8F%E5%AD%90%E7%A7%91%E6%8A%80%E7%A0%94%E5%8F%91%E6%9C%BA%E6%9E%84%E5%9B%A0%E6%9A%B4%E9%9B%A8%E8%A2%AB%E6%B7%B9-%E6%94%BE%E5%B0%84%E6%80%A7%E5%BA%9F%E6%B6%B2%E6%B3%84%E6%BC%8F)
   - [阿里巴巴15亿美元出售游戏业务灵犀互娱](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B415%E4%BA%BF%E7%BE%8E%E5%85%83%E5%87%BA%E5%94%AE%E6%B8%B8%E6%88%8F%E4%B8%9A%E5%8A%A1%E7%81%B5%E7%8A%80%E4%BA%92%E5%A8%B1)
   - [陆地不够水下凑 韩国试点海底数据中心](https://blog.upx8.com/%E9%99%86%E5%9C%B0%E4%B8%8D%E5%A4%9F%E6%B0%B4%E4%B8%8B%E5%87%91-%E9%9F%A9%E5%9B%BD%E8%AF%95%E7%82%B9%E6%B5%B7%E5%BA%95%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
