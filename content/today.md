@@ -1,7 +1,9 @@
 # 今日安全资讯（2026-08-18）
 
 - Ars Technica
+  - [As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
   - [Hidden Airtag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
+  - [The Moon's shadow raced across the heart of Spain, and I was there to see it](https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/)
 - CoinTelegraph
   - [Binance to plan UK relaunch with FCA license application: Report](https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat](https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -17,6 +19,18 @@
   - [Meta faces 'astronomical' consequences as legal fight reaches critical moment](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html)
   - [Roboflow Playground: Try and Compare 30 Computer Vision Models](https://blog.roboflow.com/roboflow-playground/)
   - [The Lonely Men Who Work in Patagonia, at the End of the World](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
+  - [The Origin of Consciousness (2008)](https://blog.plover.com/brain/Jaynes.html)
+- InfoSec Write-ups - Medium
+  - [Behavioral Malware Analysis: Investigating a Multi-Stage Malware Sample Inside an Isolated Lab](https://infosecwriteups.com/behavioral-malware-analysis-investigating-a-multi-stage-malware-sample-inside-an-isolated-lab-fba44d152d5b?source=rss----7b722bfd1b8d---4)
+  - [Hacker Holidays 2026: Day 10 Walkthrough (The Hollow Shell)](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss----7b722bfd1b8d---4)
+  - [Hacker Holidays 2026: Day 6 Walkthrough (Overheard at Breakfast)](https://infosecwriteups.com/hacker-holidays-2026-day-6-walkthrough-overheard-at-breakfast-e878ce13c189?source=rss----7b722bfd1b8d---4)
+  - [Hacker Holidays 2026: Day 7 Walkthrough (Do Not Disturb)](https://infosecwriteups.com/hacker-holidays-2026-day-7-walkthrough-do-not-disturb-062dfc269d69?source=rss----7b722bfd1b8d---4)
+  - [Hacker Holidays 2026: Day 8 Walkthrough (Towel on the Sunbed)](https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss----7b722bfd1b8d---4)
+  - [Hacker Holidays 2026: Day 9 Walkthrough (CryptoCabana)](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss----7b722bfd1b8d---4)
+  - [Hacker Holidays Day 8 — Do Not Disturb(TryHackMe) Full Writeup](https://infosecwriteups.com/hacker-holidays-day-8-do-not-disturb-tryhackme-full-writeup-059061b7973e?source=rss----7b722bfd1b8d---4)
+  - [How an Unauthenticated API Endpoint Exposed 19,990 User Records](https://infosecwriteups.com/how-an-unauthenticated-api-endpoint-exposed-19-990-user-records-ecfe395cf94a?source=rss----7b722bfd1b8d---4)
+  - [Proving Grounds — Practice — Authby](https://infosecwriteups.com/proving-grounds-practice-authby-3da2d1396a23?source=rss----7b722bfd1b8d---4)
+  - [TryHackMe — Guided Pentest: Infrastructure | Full Walkthrough](https://infosecwriteups.com/tryhackme-guided-pentest-infrastructure-full-walkthrough-8984cd1806f4?source=rss----7b722bfd1b8d---4)
 - MIT Technology Review
   - [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/)
 - TechCrunch
@@ -28,9 +42,11 @@
   - [Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic](https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/)
   - [Spotify’s new Playlist Notes let users and editors explain their song picks](https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/)
   - [YouTube will now count a view as soon as a video starts playing](https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/)
+  - [‘Unprecedented’ number of Apple users received recent spyware alert, say investigators](https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/)
 - The Block
   - [Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan](https://www.theblock.co/news/business/2026-08-17-bitcoin-production-slips-again-july-cleanspark-bitfufu-canaan-411985)
   - [IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal](https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016)
+  - [Tokenized equities triple market share as Ondo, Binance and xStocks dominate](https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996)
   - [US Treasury seeks public comment on GENIUS Act stablecoin rules](https://www.theblock.co/news/regulation/2026-08-17-us-treasury-seeks-public-comment-genius-act-stablecoin-rules-411987)
 - The Verge
   - [Sonos finally added Live Activities controls for your iPhone lockscreen](https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities)
@@ -39,6 +55,8 @@
   - [Trump’s dumb border wall](https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit)
   - [Wordle meets Clippy in this new word game](https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game)
   - [YouTube is changing how it counts views to give the numbers a boost](https://www.theverge.com/streaming/981105/youtube-video-view-counting-update)
+- Wired
+  - [This R-Rated Film Studio Wants to Be the HBO of AI](https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
