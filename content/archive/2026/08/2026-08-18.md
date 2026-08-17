@@ -8,9 +8,16 @@
   - [Binance to plan UK relaunch with FCA license application: Report](https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat](https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC seeks public input on AI compute futures contracts as CME eyes October launch](https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [OCC approves Trump family crypto company for trust charter](https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Treasury moves forward with rules on GENIUS Act after July deadline](https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daniel.haxx.se
+  - [There’s a libcurl.dll in my system32](https://daniel.haxx.se/blog/2026/08/17/theres-a-libcurl-dll-in-my-system32/)
+- daringfireball.net
+  - [Apple TV Still Has No Start Date for ‘The Savant’](https://daringfireball.net/linked/2026/04/19/chastain-says-the-savant-will-be-released)
+  - [No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d)
 - darkreading
   - [Adam Shostack Talks Hugging Face &amp; PHANTOM-B](https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b)
+  - [Video Call Exploit Chains Two Flaws in Unisoc Modems](https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems)
 - Fidelis Security
   - [XDR Deployment Considerations: Data Privacy, Compliance, and Automated Incident Response](https://fidelissecurity.com/threatgeek/xdr-security/xdr-deployment-considerations/)
 - Hacker News Frontpage
@@ -34,6 +41,7 @@
 - MIT Technology Review
   - [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/)
 - TechCrunch
+  - [AI automation startup Relay shuts down, staff joins Google’s Chrome team](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/)
   - [Amazon, once an online bookseller, is destroying rare books to train AI models](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/)
   - [Feedly attributes weeklong slowdown to bug, not its AI pivot](https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/)
   - [Groq raises $350M to fuel its pivot from AI chips to neocloud](https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/)
@@ -57,6 +65,7 @@
   - [YouTube is changing how it counts views to give the numbers a boost](https://www.theverge.com/streaming/981105/youtube-video-view-counting-update)
 - Wired
   - [This R-Rated Film Studio Wants to Be the HBO of AI](https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/)
+  - [What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy](https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
