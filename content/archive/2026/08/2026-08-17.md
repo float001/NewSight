@@ -5,6 +5,7 @@
   - [cursor 半价订阅](https://2libra.com/post/vibe-coding/x92c33m)
   - [iphone 视频通话久一点出现屏幕特别烫，这是正常的么？](https://2libra.com/post/apple/qcc4rcH)
   - [【好物分享】我的 28 元的英菲克光荣退役，各位有啥好用的无线鼠标推荐吗，办公用](https://2libra.com/post/computers-accessories/6xtpx0W)
+  - [【💰】周一下午上班好没精神，来这分享周末照片](https://2libra.com/post/personal-life/XWzMcRh)
   - [【💰】想买个平板二手的 12 寸左右，主要玩游戏，看视频 有推荐的吗？](https://2libra.com/post/tablets/nR-hPfm)
   - [【💰】本来想浅水的，看到这个我就知道，我绷不住了](https://2libra.com/post/slacking-off/KtgZwGT)
   - [【💰】爆率拉满，今日话题，讨论一下买保险](https://2libra.com/post/financial-management/q7cLRCs)
@@ -23,6 +24,7 @@
 - CoinTelegraph
   - [Chainalysis sues US over $95M ICE contract with TRM Labs](https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Data of 54,000 wallet users leaked, Clarity odds just 10%: Hodler’s Digest, Aug. 16](https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Greenlane’s $70M BERA treasury ends Q2 valued at $16M](https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [The Information Profiles Cami Clark, Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’](https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk)
   - [Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM](https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA)
@@ -80,4 +82,5 @@
   - [中国将严格实施新能源车“带电池报废”](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%B0%86%E4%B8%A5%E6%A0%BC%E5%AE%9E%E6%96%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6-%E5%B8%A6%E7%94%B5%E6%B1%A0%E6%8A%A5%E5%BA%9F)
   - [乌军向莫斯科发动大规模无人机袭击](https://blog.upx8.com/%E4%B9%8C%E5%86%9B%E5%90%91%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB)
   - [小米卢伟冰发文庆祝小米手机15周岁生日](https://blog.upx8.com/%E5%B0%8F%E7%B1%B3%E5%8D%A2%E4%BC%9F%E5%86%B0%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA15%E5%91%A8%E5%B2%81%E7%94%9F%E6%97%A5)
+  - [指涉违吸烟广告条例 《尼古喵喵》香港下架](https://blog.upx8.com/%E6%8C%87%E6%B6%89%E8%BF%9D%E5%90%B8%E7%83%9F%E5%B9%BF%E5%91%8A%E6%9D%A1%E4%BE%8B-%E5%B0%BC%E5%8F%A4%E5%96%B5%E5%96%B5-%E9%A6%99%E6%B8%AF%E4%B8%8B%E6%9E%B6)
   - [阿里巴巴15亿美元出售游戏业务灵犀互娱](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B415%E4%BA%BF%E7%BE%8E%E5%85%83%E5%87%BA%E5%94%AE%E6%B8%B8%E6%88%8F%E4%B8%9A%E5%8A%A1%E7%81%B5%E7%8A%80%E4%BA%92%E5%A8%B1)
