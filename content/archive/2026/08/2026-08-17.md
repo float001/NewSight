@@ -81,6 +81,8 @@
   - [CVE-2026-19977](https://vulners.com/nvd/NVD:CVE-2026-19977?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50601](https://vulners.com/nvd/NVD:CVE-2026-50601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50602](https://vulners.com/nvd/NVD:CVE-2026-50602?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [There’s a New Link Between Gut Health and Alzheimer’s Disease](https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/)
 - 不安全
   - [Detecting Dark Matter’s Mark with an RTL-SDR Based DIY Radio Telescope](https://buaq.net/go-435539.html)
   - [DXLens: An iOS App Combining Shortwave Schedules, Propagation Data and Public SDRs](https://buaq.net/go-435505.html)
@@ -89,6 +91,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Waymo 从中国进口了 3200 辆 Zeekr 自动驾驶汽车](https://www.solidot.org/story?sid=85111)
   - [美国一原告在法庭文件中植入针对 LLM 的提示词](https://www.solidot.org/story?sid=85109)
 - 爱范儿
   - [拒绝「差不多」，电商模型测评迎来「最严厉的父亲」](https://www.ifanr.com/1675338?utm_source=rss&utm_medium=rss&utm_campaign=)
