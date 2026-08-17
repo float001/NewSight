@@ -9,13 +9,16 @@
   - [【💰】想买个平板二手的 12 寸左右，主要玩游戏，看视频 有推荐的吗？](https://2libra.com/post/tablets/nR-hPfm)
   - [【💰】本来想浅水的，看到这个我就知道，我绷不住了](https://2libra.com/post/slacking-off/KtgZwGT)
   - [【💰】爆率拉满，今日话题，讨论一下买保险](https://2libra.com/post/financial-management/q7cLRCs)
+  - [【💰】老哥们有在职考研的吗](https://2libra.com/post/interaction/6V0HuXc)
   - [【💰】自动签到的意外之喜——卡皮巴拉](https://2libra.com/post/forum-function/pdUotxE)
   - [【💰】讲讲我的减脂经历](https://2libra.com/post/sports/ipQ798t)
   - [你们三口之家，每个月开支多少](https://2libra.com/post/family/Jiw5Adv)
   - [发现口腔的耐热性比手高](https://2libra.com/post/small-things/6jXmIzN)
   - [回了一趟老家，河沟已被福寿螺占领，怎么驱逐他们？【慎点】](https://2libra.com/post/personal-life/TvDmboF)
   - [已经流年不利好久了](https://2libra.com/post/personal-life/UiULhKg)
+  - [把任意歌曲转换为喵喵叫](https://2libra.com/post/promotion/awarWPS)
   - [每日微语早报 8 月 17 日](https://2libra.com/post/social-observation/BD3f9B3)
+  - [没有 Harness 才是 AI 的终极形态](https://2libra.com/post/ai-programming/sN_ghDj)
   - [牛马羽球人](https://2libra.com/post/badminton/ZMnVNJX)
   - [现在也是止境了](https://2libra.com/post/forum-function/OHPNgh7)
   - [给大家分享一下我的鱼缸](https://2libra.com/post/pet-sharing/EWsyMUV)
@@ -30,6 +33,8 @@
   - [Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM](https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA)
   - [‘Anthropic’s Weak Watermarks Appease a Weak Law’](https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/)
   - [★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
+- defend.network
+  - [SharePoint, Windows zero-day exploited; Lazarus backdoor in defense sector](https://defend.network/briefings/sharepoint-lazarus-windows-chrome-malware-exploits-2026-08-17.html)
 - Hacker News Frontpage
   - [Gmail might partially be to blame for receiving emails from other Sean Conners](https://boston.conman.org/2026/08/11.1)
   - [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
@@ -46,6 +51,7 @@
 - Offensive OSINT
   - [Offensive OSINT s06e02 - Data-driven investigations part 2 - UC135](https://www.offensiveosint.io/offensive-osint-s06e02-data-driven-investigations-part-2-uc135/)
 - rtl-sdr.com
+  - [Detecting Dark Matter’s Mark with an RTL-SDR Based DIY Radio Telescope](https://www.rtl-sdr.com/detecting-dark-matters-mark-with-an-rtl-sdr-based-diy-radio-telescope/)
   - [DXLens: An iOS App Combining Shortwave Schedules, Propagation Data and Public SDRs](https://www.rtl-sdr.com/dxlens-an-ios-app-combining-shortwave-schedules-propagation-data-and-public-sdrs/)
 - simonwillison.net
   - [Markdown SVG upgrades](https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/)
@@ -57,7 +63,10 @@
 - The Block
   - [Prediction market Novig sues Wisconsin AG in latest spat over sports contracts](https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938)
   - [Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers](https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934)
+- The Decoder
+  - [Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion](https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/)
 - The Verge
+  - [I’m hooked on Peak Design’s new City bags](https://www.theverge.com/tech/980137/peak-design-city-line-review)
   - [Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece](https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review)
   - [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)
 - Vulners.com RSS Feed
@@ -69,6 +78,7 @@
   - [CVE-2026-50601](https://vulners.com/nvd/NVD:CVE-2026-50601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50602](https://vulners.com/nvd/NVD:CVE-2026-50602?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
+  - [Detecting Dark Matter’s Mark with an RTL-SDR Based DIY Radio Telescope](https://buaq.net/go-435539.html)
   - [DXLens: An iOS App Combining Shortwave Schedules, Propagation Data and Public SDRs](https://buaq.net/go-435505.html)
   - [爱快路由系统(iKuai)发布安全公告：持续遭到攻击 用户需立即升级固件](https://buaq.net/go-435511.html)
 - 代码审计星球
