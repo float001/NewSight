@@ -3,11 +3,16 @@
 - 2Libra
   - [Codex 什么时候能重置](https://2libra.com/post/ai-programming/V1Tu-MS)
   - [cursor 半价订阅](https://2libra.com/post/vibe-coding/x92c33m)
+  - [iphone 视频通话久一点出现屏幕特别烫，这是正常的么？](https://2libra.com/post/apple/qcc4rcH)
   - [【好物分享】我的 28 元的英菲克光荣退役，各位有啥好用的无线鼠标推荐吗，办公用](https://2libra.com/post/computers-accessories/6xtpx0W)
+  - [【💰】想买个平板二手的 12 寸左右，主要玩游戏，看视频 有推荐的吗？](https://2libra.com/post/tablets/nR-hPfm)
   - [【💰】本来想浅水的，看到这个我就知道，我绷不住了](https://2libra.com/post/slacking-off/KtgZwGT)
+  - [【💰】爆率拉满，今日话题，讨论一下买保险](https://2libra.com/post/financial-management/q7cLRCs)
   - [【💰】讲讲我的减脂经历](https://2libra.com/post/sports/ipQ798t)
+  - [你们三口之家，每个月开支多少](https://2libra.com/post/family/Jiw5Adv)
   - [发现口腔的耐热性比手高](https://2libra.com/post/small-things/6jXmIzN)
   - [回了一趟老家，河沟已被福寿螺占领，怎么驱逐他们？【慎点】](https://2libra.com/post/personal-life/TvDmboF)
+  - [已经流年不利好久了](https://2libra.com/post/personal-life/UiULhKg)
   - [每日微语早报 8 月 17 日](https://2libra.com/post/social-observation/BD3f9B3)
   - [牛马羽球人](https://2libra.com/post/badminton/ZMnVNJX)
   - [现在也是止境了](https://2libra.com/post/forum-function/OHPNgh7)
@@ -15,6 +20,7 @@
   - [论坛登录签到的功能真 👍🏻。](https://2libra.com/post/forum-function/GEcRNNR)
   - [请问一下大家现在有什么渠道用低价或者免费的模型吗](https://2libra.com/post/ai-gateway/P-Fkeu0)
 - CoinTelegraph
+  - [Chainalysis sues US over $95M ICE contract with TRM Labs](https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Data of 54,000 wallet users leaked, Clarity odds just 10%: Hodler’s Digest, Aug. 16](https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [The Information Profiles Cami Clark, Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’](https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk)
@@ -22,6 +28,7 @@
   - [‘Anthropic’s Weak Watermarks Appease a Weak Law’](https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/)
   - [★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
 - Hacker News Frontpage
+  - [Gmail might partially be to blame for receiving emails from other Sean Conners](https://boston.conman.org/2026/08/11.1)
   - [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
   - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
   - [Ordinary WiFi can now identify you with near-perfect accuracy](https://www.sciencedaily.com/releases/2026/08/260811052857.htm)
@@ -50,12 +57,23 @@
 - The Verge
   - [Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece](https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review)
   - [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)
+- Vulners.com RSS Feed
+  - [CVE-2026-19973](https://vulners.com/nvd/NVD:CVE-2026-19973?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19974](https://vulners.com/nvd/NVD:CVE-2026-19974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19975](https://vulners.com/nvd/NVD:CVE-2026-19975?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19976](https://vulners.com/nvd/NVD:CVE-2026-19976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19977](https://vulners.com/nvd/NVD:CVE-2026-19977?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50601](https://vulners.com/nvd/NVD:CVE-2026-50601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50602](https://vulners.com/nvd/NVD:CVE-2026-50602?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [DXLens: An iOS App Combining Shortwave Schedules, Propagation Data and Public SDRs](https://buaq.net/go-435505.html)
+  - [爱快路由系统(iKuai)发布安全公告：持续遭到攻击 用户需立即升级固件](https://buaq.net/go-435511.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市](https://www.ifanr.com/1675332?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 风雪之隅(鸟哥)
+  - [Wechatian: 让AI有事就来微信找你](https://www.laruence.com/2026/08/17/6297.html)
 - 黑海洋
   - [中国将严格实施新能源车“带电池报废”](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%B0%86%E4%B8%A5%E6%A0%BC%E5%AE%9E%E6%96%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6-%E5%B8%A6%E7%94%B5%E6%B1%A0%E6%8A%A5%E5%BA%9F)
   - [乌军向莫斯科发动大规模无人机袭击](https://blog.upx8.com/%E4%B9%8C%E5%86%9B%E5%90%91%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB)
