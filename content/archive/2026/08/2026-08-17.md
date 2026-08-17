@@ -7,6 +7,7 @@
   - [iphone 视频通话久一点出现屏幕特别烫，这是正常的么？](https://2libra.com/post/apple/qcc4rcH)
   - [【兑换码】🎉 周一福利｜ Proxy001 住宅代理： 1 亿 + 真实 IP / 230 + 国家 / 低至 $0.55GB，注册送 500M！](https://2libra.com/post/promotion/id6CMW5)
   - [【好物分享】我的 28 元的英菲克光荣退役，各位有啥好用的无线鼠标推荐吗，办公用](https://2libra.com/post/computers-accessories/6xtpx0W)
+  - [【搬运】水果 17 要正式涨价了，你们换了吗？](https://2libra.com/post/apple/sEMA96t)
   - [【💰】周一下午上班好没精神，来这分享周末照片](https://2libra.com/post/personal-life/XWzMcRh)
   - [【💰】想买个平板二手的 12 寸左右，主要玩游戏，看视频 有推荐的吗？](https://2libra.com/post/tablets/nR-hPfm)
   - [【💰】本来想浅水的，看到这个我就知道，我绷不住了](https://2libra.com/post/slacking-off/KtgZwGT)
@@ -27,6 +28,7 @@
   - [有没有经常开发微信小程序的兄弟姐妹么？ Taro VS uni-app 选择那个？](https://2libra.com/post/frontend/lbRmU1w)
   - [每日微语早报 8 月 17 日](https://2libra.com/post/social-observation/BD3f9B3)
   - [没有 Harness 才是 AI 的终极形态](https://2libra.com/post/ai-programming/sN_ghDj)
+  - [牛来完整电影](https://2libra.com/post/movie-sharing/QX4NuKT)
   - [牛马羽球人](https://2libra.com/post/badminton/ZMnVNJX)
   - [现在也是止境了](https://2libra.com/post/forum-function/OHPNgh7)
   - [给大家分享一下我的鱼缸](https://2libra.com/post/pet-sharing/EWsyMUV)
@@ -42,6 +44,8 @@
   - [Chainalysis sues US over $95M ICE contract with TRM Labs](https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Data of 54,000 wallet users leaked, Clarity odds just 10%: Hodler’s Digest, Aug. 16](https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Greenlane’s $70M BERA treasury ends Q2 valued at $16M](https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Harmony plans rollback, wiping 109,000 transactions after ONE exploit](https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strategy raises $334M through stock sales but buys no Bitcoin](https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [The Information Profiles Cami Clark, Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’](https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk)
   - [Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM](https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA)
@@ -52,7 +56,11 @@
 - Fidelis Security
   - [How Fidelis Endpoint Strengthens Enterprise Malware Protection](https://fidelissecurity.com/threatgeek/endpoint-security/enterprise-malware-protection-using-fidelis-edr/)
 - Hacker News Frontpage
+  - [Buyer cancels showing after Deflock shows two cameras utilized by the HOA](https://twitter.com/lydiakauppi/status/2089196932413452386)
+  - [David Sacks on X: Some thoughts on Dario's post](https://twitter.com/DavidSacks/status/2089227290769080656)
   - [Gmail might partially be to blame for receiving emails from other Sean Conners](https://boston.conman.org/2026/08/11.1)
+  - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
+  - [Mexico Crackdown on Coastal Development Underway](https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/)
   - [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
   - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
   - [Ordinary WiFi can now identify you with near-perfect accuracy](https://www.sciencedaily.com/releases/2026/08/260811052857.htm)
@@ -67,6 +75,10 @@
   - [How to Transfer Files with rsync over SSH: A Practical Guide](https://kalilinuxtutorials.com/rsync-over-ssh/)
   - [jobs Command in Linux: List and Manage Background Processes](https://kalilinuxtutorials.com/jobs-command-linux/)
   - [pstree Command in Linux: Visualize Running Process Hierarchies](https://kalilinuxtutorials.com/pstree-command-linux/)
+- MIT Technology Review
+  - [The Download: dead robot friends and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/)
+- NVIDIA AI Blog
+  - [Securing the Infrastructure of Intelligence](https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/)
 - Offensive OSINT
   - [Offensive OSINT s06e02 - Data-driven investigations part 2 - UC135](https://www.offensiveosint.io/offensive-osint-s06e02-data-driven-investigations-part-2-uc135/)
 - OpenZeppelin Blog
@@ -75,6 +87,8 @@
   - [Contracts V5 Audit](https://www.openzeppelin.com/news/contracts-v5-audit)
   - [Counterfactual Route Policies Diff Audit](https://www.openzeppelin.com/news/counterfactual-route-policies-diff-audit)
   - [SP1 and USP changes Audit](https://www.openzeppelin.com/news/sp1-and-usp-changes-audit)
+- Recent Commits to cve:main
+  - [Update Mon Aug 17 12:13:59 UTC 2026](https://github.com/trickest/cve/commit/1f04f5c064b08fe260cb363f580d04c039b05ffd)
 - rtl-sdr.com
   - [Detecting Dark Matter’s Mark with an RTL-SDR Based DIY Radio Telescope](https://www.rtl-sdr.com/detecting-dark-matters-mark-with-an-rtl-sdr-based-diy-radio-telescope/)
   - [DXLens: An iOS App Combining Shortwave Schedules, Propagation Data and Public SDRs](https://www.rtl-sdr.com/dxlens-an-ios-app-combining-shortwave-schedules-propagation-data-and-public-sdrs/)
@@ -85,11 +99,14 @@
   - [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
 - TechCrunch
   - [Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/)
+  - [Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts](https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/)
   - [Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/)
   - [Why people aren’t buying Mark Zuckerberg’s AI future](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/)
 - The Block
+  - [Austria’s FMA fines crypto broker Bitpanda $81,000 in first published MiCA penalty](https://www.theblock.co/news/regulation/2026-08-17-austria-mica-penalty-bitpanda-411960)
   - [Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue](https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940)
   - [Prediction market Novig sues Wisconsin AG in latest spat over sports contracts](https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938)
+  - [Strategy sells $334 million in MSTR shares, makes no bitcoin purchases or sales as USD reserve hits $4.8 billion](https://www.theblock.co/news/business/2026-08-17-michael-saylor-strategy-btc-411942)
   - [Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers](https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934)
 - The Decoder
   - [AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics](https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/)
@@ -120,6 +137,7 @@
 - 不安全
   - [Detecting Dark Matter’s Mark with an RTL-SDR Based DIY Radio Telescope](https://buaq.net/go-435539.html)
   - [DXLens: An iOS App Combining Shortwave Schedules, Propagation Data and Public SDRs](https://buaq.net/go-435505.html)
+  - [From AKS node root vulnerability to Microsoft Copilot hijack (CVE-2026-32193)](https://buaq.net/go-435608.html)
   - [爱快路由系统(iKuai)发布安全公告：持续遭到攻击 用户需立即升级固件](https://buaq.net/go-435511.html)
   - [美国一原告在法庭文件中植入针对 LLM 的提示词](https://buaq.net/go-435542.html)
 - 代码审计星球
@@ -144,4 +162,5 @@
   - [日本量子科技研发机构因暴雨被淹 放射性废液泄漏](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E9%87%8F%E5%AD%90%E7%A7%91%E6%8A%80%E7%A0%94%E5%8F%91%E6%9C%BA%E6%9E%84%E5%9B%A0%E6%9A%B4%E9%9B%A8%E8%A2%AB%E6%B7%B9-%E6%94%BE%E5%B0%84%E6%80%A7%E5%BA%9F%E6%B6%B2%E6%B3%84%E6%BC%8F)
   - [豆包“工作任务”模式升级 支持手机远程操控电脑](https://blog.upx8.com/%E8%B1%86%E5%8C%85-%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1-%E6%A8%A1%E5%BC%8F%E5%8D%87%E7%BA%A7-%E6%94%AF%E6%8C%81%E6%89%8B%E6%9C%BA%E8%BF%9C%E7%A8%8B%E6%93%8D%E6%8E%A7%E7%94%B5%E8%84%91)
   - [阿里巴巴15亿美元出售游戏业务灵犀互娱](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B415%E4%BA%BF%E7%BE%8E%E5%85%83%E5%87%BA%E5%94%AE%E6%B8%B8%E6%88%8F%E4%B8%9A%E5%8A%A1%E7%81%B5%E7%8A%80%E4%BA%92%E5%A8%B1)
+  - [阿里巴巴推出AI音乐模型“快乐虾米”](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%8E%A8%E5%87%BAAI%E9%9F%B3%E4%B9%90%E6%A8%A1%E5%9E%8B-%E5%BF%AB%E4%B9%90%E8%99%BE%E7%B1%B3)
   - [陆地不够水下凑 韩国试点海底数据中心](https://blog.upx8.com/%E9%99%86%E5%9C%B0%E4%B8%8D%E5%A4%9F%E6%B0%B4%E4%B8%8B%E5%87%91-%E9%9F%A9%E5%9B%BD%E8%AF%95%E7%82%B9%E6%B5%B7%E5%BA%95%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
