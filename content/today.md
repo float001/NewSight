@@ -35,6 +35,8 @@
   - [论坛登录签到的功能真 👍🏻。](https://2libra.com/post/forum-function/GEcRNNR)
   - [请问一下大家现在有什么渠道用低价或者免费的模型吗](https://2libra.com/post/ai-gateway/P-Fkeu0)
   - [闲聊：今天终于第一次给开源仓库 PR（被合并）](https://2libra.com/post/open-source-sharing/7G8Brri)
+- 404 Media
+  - [We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
 - Articles | InfoStealers
   - [From CI Pipeline to Ransomware & Breaches: 6 High-Profile Breaches in the LiteLLM/Trivy Attack](https://www.infostealers.com/article/from-ci-pipeline-to-ransomware-breaches-6-high-profile-breaches-in-the-litellm-trivy-attack/)
 - CoinTelegraph
@@ -45,6 +47,7 @@
   - [Data of 54,000 wallet users leaked, Clarity odds just 10%: Hodler’s Digest, Aug. 16](https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Greenlane’s $70M BERA treasury ends Q2 valued at $16M](https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Harmony plans rollback, wiping 109,000 transactions after ONE exploit](https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy raises $334M through stock sales but buys no Bitcoin](https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [The Information Profiles Cami Clark, Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’](https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk)
@@ -57,17 +60,23 @@
   - [How Fidelis Endpoint Strengthens Enterprise Malware Protection](https://fidelissecurity.com/threatgeek/endpoint-security/enterprise-malware-protection-using-fidelis-edr/)
 - Hacker News Frontpage
   - [Buyer cancels showing after Deflock shows two cameras utilized by the HOA](https://twitter.com/lydiakauppi/status/2089196932413452386)
+  - [Cialis is an erectile dysfunction drug. Could it also help you live longer?](https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health)
   - [David Sacks on X: Some thoughts on Dario's post](https://twitter.com/DavidSacks/status/2089227290769080656)
+  - [GitHub down again? no PR access](https://news.ycombinator.com/item?id=49330632)
   - [Gmail might partially be to blame for receiving emails from other Sean Conners](https://boston.conman.org/2026/08/11.1)
   - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
+  - [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
   - [Mexico Crackdown on Coastal Development Underway](https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/)
   - [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
   - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
   - [Ordinary WiFi can now identify you with near-perfect accuracy](https://www.sciencedaily.com/releases/2026/08/260811052857.htm)
+  - [Show HN: 1667, a terminal UI for writing fiction with language models](https://1667.ai/)
+  - [Tell HN: GitHub Is Experiencing Degraded Performance](https://news.ycombinator.com/item?id=49330597)
   - [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
 - infosecurity-magazine.com
   - [ETSI Proposes 17 Cybersecurity Standards to Support Cyber Resilience Act](https://www.infosecurity-magazine.com/news/etsi-proposes-17-cybersecurity/)
   - [SafePal Data Breach Hits Tens of Thousands of Customers](https://www.infosecurity-magazine.com/news/safepal-data-breach-tens-thousands/)
+  - [WordPress Plugin Flaw Exposes 40,000 Sites to Admin Takeover](https://www.infosecurity-magazine.com/news/wordpress-plugin-flaw-40000-sites/)
 - johndcook.com
   - [Proportion of 1s in a Hadamard matrix](https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/)
 - Kali Linux Tutorials
@@ -101,20 +110,25 @@
   - [Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/)
   - [Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts](https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/)
   - [Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/)
+  - [Uber adds Zipline drones to its Eats delivery network](https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/)
   - [Why people aren’t buying Mark Zuckerberg’s AI future](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/)
+  - [Wispr raises $280M at $2B valuation as it looks beyond dictation](https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/)
 - The Block
   - [Austria’s FMA fines crypto broker Bitpanda $81,000 in first published MiCA penalty](https://www.theblock.co/news/regulation/2026-08-17-austria-mica-penalty-bitpanda-411960)
   - [Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue](https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940)
+  - [Bitmine adds 9,926 ETH, taking total holdings to roughly $11 billion](https://www.theblock.co/news/business/2026-08-17-bitmine-adds-9926-eth-taking-total-holdings-to-roughly-11-billion-411968)
   - [Prediction market Novig sues Wisconsin AG in latest spat over sports contracts](https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938)
   - [Strategy sells $334 million in MSTR shares, makes no bitcoin purchases or sales as USD reserve hits $4.8 billion](https://www.theblock.co/news/business/2026-08-17-michael-saylor-strategy-btc-411942)
   - [Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers](https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934)
 - The Decoder
   - [AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics](https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/)
+  - [AI video market has bounced back from Sora's false start](https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/)
   - [Anthropic watermarks Claude's output, but critics question the tradeoffs](https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs/)
   - [Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion](https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/)
 - The Verge
   - [Anthropic explains how Claude&#8217;s invisible text watermarks will work](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system)
   - [How to take better photos of your pets](https://www.theverge.com/tech/970021/how-to-take-better-pet-photos)
+  - [It’s about ethics in journalism, with Ben Smith](https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news)
   - [I’m hooked on Peak Design’s new City bags](https://www.theverge.com/tech/980137/peak-design-city-line-review)
   - [Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece](https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review)
   - [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)
@@ -157,6 +171,7 @@
 - 黑海洋
   - [中国将严格实施新能源车“带电池报废”](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%B0%86%E4%B8%A5%E6%A0%BC%E5%AE%9E%E6%96%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6-%E5%B8%A6%E7%94%B5%E6%B1%A0%E6%8A%A5%E5%BA%9F)
   - [乌军向莫斯科发动大规模无人机袭击](https://blog.upx8.com/%E4%B9%8C%E5%86%9B%E5%90%91%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB)
+  - [亚马逊采购珍稀书籍拆解后用于AI训练](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E9%87%87%E8%B4%AD%E7%8F%8D%E7%A8%80%E4%B9%A6%E7%B1%8D%E6%8B%86%E8%A7%A3%E5%90%8E%E7%94%A8%E4%BA%8EAI%E8%AE%AD%E7%BB%83)
   - [小米卢伟冰发文庆祝小米手机15周岁生日](https://blog.upx8.com/%E5%B0%8F%E7%B1%B3%E5%8D%A2%E4%BC%9F%E5%86%B0%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA15%E5%91%A8%E5%B2%81%E7%94%9F%E6%97%A5)
   - [指涉违吸烟广告条例 《尼古喵喵》香港下架](https://blog.upx8.com/%E6%8C%87%E6%B6%89%E8%BF%9D%E5%90%B8%E7%83%9F%E5%B9%BF%E5%91%8A%E6%9D%A1%E4%BE%8B-%E5%B0%BC%E5%8F%A4%E5%96%B5%E5%96%B5-%E9%A6%99%E6%B8%AF%E4%B8%8B%E6%9E%B6)
   - [日本量子科技研发机构因暴雨被淹 放射性废液泄漏](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E9%87%8F%E5%AD%90%E7%A7%91%E6%8A%80%E7%A0%94%E5%8F%91%E6%9C%BA%E6%9E%84%E5%9B%A0%E6%9A%B4%E9%9B%A8%E8%A2%AB%E6%B7%B9-%E6%94%BE%E5%B0%84%E6%80%A7%E5%BA%9F%E6%B6%B2%E6%B3%84%E6%BC%8F)
