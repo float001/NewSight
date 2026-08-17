@@ -18,6 +18,8 @@
   - [回了一趟老家，河沟已被福寿螺占领，怎么驱逐他们？【慎点】](https://2libra.com/post/personal-life/TvDmboF)
   - [如何搞定桌面充电线的收纳](https://2libra.com/post/computers-accessories/ans3jwk)
   - [已经流年不利好久了](https://2libra.com/post/personal-life/UiULhKg)
+  - [开源一个本地 markdown 转图片的项目，上阮一峰老师 408 期推荐了](https://2libra.com/post/open-source-sharing/fZgCWsr)
+  - [我们还会有多少个烧饼？——LinuxSB 烧饼社区十日终焉](https://2libra.com/post/social-observation/X66fkeF)
   - [把任意歌曲转换为喵喵叫](https://2libra.com/post/promotion/awarWPS)
   - [新人前来报到](https://2libra.com/post/newcomer/2c7I_Zg)
   - [最近微信审核很严格吗？小程序被永久封号了](https://2libra.com/post/indie-dev/fCcq6iv)
@@ -29,6 +31,7 @@
   - [给大家分享一下我的鱼缸](https://2libra.com/post/pet-sharing/EWsyMUV)
   - [论坛登录签到的功能真 👍🏻。](https://2libra.com/post/forum-function/GEcRNNR)
   - [请问一下大家现在有什么渠道用低价或者免费的模型吗](https://2libra.com/post/ai-gateway/P-Fkeu0)
+  - [闲聊：今天终于第一次给开源仓库 PR（被合并）](https://2libra.com/post/open-source-sharing/7G8Brri)
 - Articles | InfoStealers
   - [From CI Pipeline to Ransomware & Breaches: 6 High-Profile Breaches in the LiteLLM/Trivy Attack](https://www.infostealers.com/article/from-ci-pipeline-to-ransomware-breaches-6-high-profile-breaches-in-the-litellm-trivy-attack/)
 - CoinTelegraph
@@ -71,15 +74,19 @@
   - [Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/)
   - [Why people aren’t buying Mark Zuckerberg’s AI future](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/)
 - The Block
+  - [Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue](https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940)
   - [Prediction market Novig sues Wisconsin AG in latest spat over sports contracts](https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938)
   - [Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers](https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934)
 - The Decoder
   - [AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics](https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/)
   - [Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion](https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/)
 - The Verge
+  - [Anthropic explains how Claude&#8217;s invisible text watermarks will work](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system)
+  - [How to take better photos of your pets](https://www.theverge.com/tech/970021/how-to-take-better-pet-photos)
   - [I’m hooked on Peak Design’s new City bags](https://www.theverge.com/tech/980137/peak-design-city-line-review)
   - [Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece](https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review)
   - [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)
+  - [Whisker’s AI-powered litter robot thinks my cats swapped bodies](https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review)
 - Vulners.com RSS Feed
   - [CVE-2026-19973](https://vulners.com/nvd/NVD:CVE-2026-19973?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19974](https://vulners.com/nvd/NVD:CVE-2026-19974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -89,8 +96,10 @@
   - [CVE-2026-50601](https://vulners.com/nvd/NVD:CVE-2026-50601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50602](https://vulners.com/nvd/NVD:CVE-2026-50602?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [CookUnity Prepared Meal Delivery Review (2026): Chef-Centric Meals](https://www.wired.com/review/cookunity-prepared-meal-delivery-2026/)
   - [El Niño and Saharan Dust Silence Atlantic Hurricane Season](https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/)
   - [Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms](https://www.wired.com/story/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-in-the-midterms/)
+  - [Skylight Buddy Review (2026): Kid Routines Just Got Easy](https://www.wired.com/review/skylight-buddy/)
   - [There’s a New Link Between Gut Health and Alzheimer’s Disease](https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/)
 - 不安全
   - [Detecting Dark Matter’s Mark with an RTL-SDR Based DIY Radio Telescope](https://buaq.net/go-435539.html)
@@ -102,6 +111,8 @@
 - 奇客Solidot–传递最新科技情报
   - [Waymo 从中国进口了 3200 辆 Zeekr 自动驾驶汽车](https://www.solidot.org/story?sid=85111)
   - [美国一原告在法庭文件中植入针对 LLM 的提示词](https://www.solidot.org/story?sid=85109)
+- 安全客
+  - [40分钟，2500家企业195TB数据被洗劫：AI供应链的"至暗时刻"才刚刚开始](https://www.anquanke.com/post/id/315973)
 - 爱范儿
   - [22.39 万元起，岚图追光 S 上市，大回环是噱头，运动底盘才是正题](https://www.ifanr.com/1675423?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [《牛来》爆火之后，我更理解为什么 AI 视频需要自己的 Blender](https://www.ifanr.com/1675279?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -115,5 +126,6 @@
   - [小米卢伟冰发文庆祝小米手机15周岁生日](https://blog.upx8.com/%E5%B0%8F%E7%B1%B3%E5%8D%A2%E4%BC%9F%E5%86%B0%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA15%E5%91%A8%E5%B2%81%E7%94%9F%E6%97%A5)
   - [指涉违吸烟广告条例 《尼古喵喵》香港下架](https://blog.upx8.com/%E6%8C%87%E6%B6%89%E8%BF%9D%E5%90%B8%E7%83%9F%E5%B9%BF%E5%91%8A%E6%9D%A1%E4%BE%8B-%E5%B0%BC%E5%8F%A4%E5%96%B5%E5%96%B5-%E9%A6%99%E6%B8%AF%E4%B8%8B%E6%9E%B6)
   - [日本量子科技研发机构因暴雨被淹 放射性废液泄漏](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E9%87%8F%E5%AD%90%E7%A7%91%E6%8A%80%E7%A0%94%E5%8F%91%E6%9C%BA%E6%9E%84%E5%9B%A0%E6%9A%B4%E9%9B%A8%E8%A2%AB%E6%B7%B9-%E6%94%BE%E5%B0%84%E6%80%A7%E5%BA%9F%E6%B6%B2%E6%B3%84%E6%BC%8F)
+  - [豆包“工作任务”模式升级 支持手机远程操控电脑](https://blog.upx8.com/%E8%B1%86%E5%8C%85-%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1-%E6%A8%A1%E5%BC%8F%E5%8D%87%E7%BA%A7-%E6%94%AF%E6%8C%81%E6%89%8B%E6%9C%BA%E8%BF%9C%E7%A8%8B%E6%93%8D%E6%8E%A7%E7%94%B5%E8%84%91)
   - [阿里巴巴15亿美元出售游戏业务灵犀互娱](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B415%E4%BA%BF%E7%BE%8E%E5%85%83%E5%87%BA%E5%94%AE%E6%B8%B8%E6%88%8F%E4%B8%9A%E5%8A%A1%E7%81%B5%E7%8A%80%E4%BA%92%E5%A8%B1)
   - [陆地不够水下凑 韩国试点海底数据中心](https://blog.upx8.com/%E9%99%86%E5%9C%B0%E4%B8%8D%E5%A4%9F%E6%B0%B4%E4%B8%8B%E5%87%91-%E9%9F%A9%E5%9B%BD%E8%AF%95%E7%82%B9%E6%B5%B7%E5%BA%95%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
