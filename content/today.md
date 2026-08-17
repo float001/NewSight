@@ -1,13 +1,26 @@
 # 今日安全资讯（2026-08-18）
 
+- Ars Technica
+  - [Hidden Airtag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
 - CoinTelegraph
+  - [Binance to plan UK relaunch with FCA license application: Report](https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat](https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC seeks public input on AI compute futures contracts as CME eyes October launch](https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Treasury moves forward with rules on GENIUS Act after July deadline](https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Fidelis Security
+  - [XDR Deployment Considerations: Data Privacy, Compliance, and Automated Incident Response](https://fidelissecurity.com/threatgeek/xdr-security/xdr-deployment-considerations/)
+- Hacker News Frontpage
+  - [How I Over-Engineered My Book](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
+  - [Meta faces 'astronomical' consequences as legal fight reaches critical moment](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html)
+  - [Roboflow Playground: Try and Compare 30 Computer Vision Models](https://blog.roboflow.com/roboflow-playground/)
+  - [The Lonely Men Who Work in Patagonia, at the End of the World](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
 - TechCrunch
   - [Amazon, once an online bookseller, is destroying rare books to train AI models](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/)
   - [Feedly attributes weeklong slowdown to bug, not its AI pivot](https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/)
   - [Groq raises $350M to fuel its pivot from AI chips to neocloud](https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/)
+  - [Reddit begins testing a new audio and video experience, similar to popular TikTok videos](https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/)
+  - [Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic](https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/)
+  - [YouTube will now count a view as soon as a video starts playing](https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/)
 - The Block
   - [Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan](https://www.theblock.co/news/business/2026-08-17-bitcoin-production-slips-again-july-cleanspark-bitfufu-canaan-411985)
   - [US Treasury seeks public comment on GENIUS Act stablecoin rules](https://www.theblock.co/news/regulation/2026-08-17-us-treasury-seeks-public-comment-genius-act-stablecoin-rules-411987)
@@ -15,6 +28,7 @@
   - [Sonos finally added Live Activities controls for your iPhone lockscreen](https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities)
   - [The Analogue Pocket gets a Supreme makeover in red or gold](https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection)
   - [Trump’s dumb border wall](https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit)
+  - [Wordle meets Clippy in this new word game](https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game)
   - [YouTube is changing how it counts views to give the numbers a boost](https://www.theverge.com/streaming/981105/youtube-video-view-counting-update)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
