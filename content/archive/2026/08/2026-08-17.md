@@ -36,7 +36,9 @@
   - [请问一下大家现在有什么渠道用低价或者免费的模型吗](https://2libra.com/post/ai-gateway/P-Fkeu0)
   - [闲聊：今天终于第一次给开源仓库 PR（被合并）](https://2libra.com/post/open-source-sharing/7G8Brri)
 - 404 Media
+  - [The Future of Deepfakes and the Decline of Reality (With Hany Farid)](https://www.404media.co/the-future-of-deepfakes-and-the-decline-of-reality-with-hany-farid/)
   - [We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
+  - [‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit](https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/)
 - Articles | InfoStealers
   - [From CI Pipeline to Ransomware & Breaches: 6 High-Profile Breaches in the LiteLLM/Trivy Attack](https://www.infostealers.com/article/from-ci-pipeline-to-ransomware-breaches-6-high-profile-breaches-in-the-litellm-trivy-attack/)
 - CoinTelegraph
@@ -113,6 +115,7 @@
   - [Uber adds Zipline drones to its Eats delivery network](https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/)
   - [Why people aren’t buying Mark Zuckerberg’s AI future](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/)
   - [Wispr raises $280M at $2B valuation as it looks beyond dictation](https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/)
+  - [WordPress.com targets the next generation of web creators with a free student plan](https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/)
 - The Block
   - [Austria’s FMA fines crypto broker Bitpanda $81,000 in first published MiCA penalty](https://www.theblock.co/news/regulation/2026-08-17-austria-mica-penalty-bitpanda-411960)
   - [Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue](https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940)
@@ -123,7 +126,9 @@
 - The Decoder
   - [AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics](https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/)
   - [AI video market has bounced back from Sora's false start](https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/)
+  - [AirTag reveals how Amazon destroys rare books for AI training](https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/)
   - [Anthropic watermarks Claude's output, but critics question the tradeoffs](https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs/)
+  - [OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion](https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/)
   - [Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion](https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/)
 - The Verge
   - [Anthropic explains how Claude&#8217;s invisible text watermarks will work](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system)
@@ -132,7 +137,9 @@
   - [I’m hooked on Peak Design’s new City bags](https://www.theverge.com/tech/980137/peak-design-city-line-review)
   - [Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece](https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review)
   - [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)
+  - [Uber partners with Zipline on Eats drone deliveries](https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment)
   - [Whisker’s AI-powered litter robot thinks my cats swapped bodies](https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review)
+  - [WiiM’s capable HomePod-esque smart speaker is almost $50 off](https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale)
 - Vulners.com RSS Feed
   - [CVE-2026-19973](https://vulners.com/nvd/NVD:CVE-2026-19973?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19974](https://vulners.com/nvd/NVD:CVE-2026-19974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -149,9 +156,12 @@
   - [Skylight Buddy Review (2026): Kid Routines Just Got Easy](https://www.wired.com/review/skylight-buddy/)
   - [There’s a New Link Between Gut Health and Alzheimer’s Disease](https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/)
 - 不安全
+  - [An “invisible” car? Researcher uses machine learning to hide vehicles from Flock cameras](https://buaq.net/go-435615.html)
+  - [Apple Screen Sharing Security, (Mon, Aug 17th)](https://buaq.net/go-435624.html)
   - [Detecting Dark Matter’s Mark with an RTL-SDR Based DIY Radio Telescope](https://buaq.net/go-435539.html)
   - [DXLens: An iOS App Combining Shortwave Schedules, Propagation Data and Public SDRs](https://buaq.net/go-435505.html)
   - [From AKS node root vulnerability to Microsoft Copilot hijack (CVE-2026-32193)](https://buaq.net/go-435608.html)
+  - [Unauthenticated RCE in CircleCI's MCP server: Host/Origin allowlist bypassed by any non-browser client (GHSA-xv5j-cwgj-22r4)](https://buaq.net/go-435629.html)
   - [爱快路由系统(iKuai)发布安全公告：持续遭到攻击 用户需立即升级固件](https://buaq.net/go-435511.html)
   - [美国一原告在法庭文件中植入针对 LLM 的提示词](https://buaq.net/go-435542.html)
 - 代码审计星球
