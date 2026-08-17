@@ -3,6 +3,8 @@
 - 2Libra
   - [每日微语早报 8 月 17 日](https://2libra.com/post/social-observation/BD3f9B3)
   - [论坛登录签到的功能真 👍🏻。](https://2libra.com/post/forum-function/GEcRNNR)
+- CoinTelegraph
+  - [Data of 54,000 wallet users leaked, Clarity odds just 10%: Hodler’s Digest, Aug. 16](https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [The Information Profiles Cami Clark, Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’](https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk)
   - [Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM](https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA)
@@ -15,6 +17,7 @@
 - Offensive OSINT
   - [Offensive OSINT s06e02 - Data-driven investigations part 2 - UC135](https://www.offensiveosint.io/offensive-osint-s06e02-data-driven-investigations-part-2-uc135/)
 - simonwillison.net
+  - [Markdown SVG upgrades](https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/)
   - [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
 - TechCrunch
   - [Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/)
@@ -28,3 +31,5 @@
   - [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [中国将严格实施新能源车“带电池报废”](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%B0%86%E4%B8%A5%E6%A0%BC%E5%AE%9E%E6%96%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6-%E5%B8%A6%E7%94%B5%E6%B1%A0%E6%8A%A5%E5%BA%9F)
