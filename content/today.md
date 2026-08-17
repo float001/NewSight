@@ -4,6 +4,7 @@
   - [Codex 什么时候能重置](https://2libra.com/post/ai-programming/V1Tu-MS)
   - [cursor 半价订阅](https://2libra.com/post/vibe-coding/x92c33m)
   - [iphone 视频通话久一点出现屏幕特别烫，这是正常的么？](https://2libra.com/post/apple/qcc4rcH)
+  - [【兑换码】🎉 周一福利｜ Proxy001 住宅代理： 1 亿 + 真实 IP / 230 + 国家 / 低至 $0.55GB，注册送 500M！](https://2libra.com/post/promotion/id6CMW5)
   - [【好物分享】我的 28 元的英菲克光荣退役，各位有啥好用的无线鼠标推荐吗，办公用](https://2libra.com/post/computers-accessories/6xtpx0W)
   - [【💰】周一下午上班好没精神，来这分享周末照片](https://2libra.com/post/personal-life/XWzMcRh)
   - [【💰】想买个平板二手的 12 寸左右，主要玩游戏，看视频 有推荐的吗？](https://2libra.com/post/tablets/nR-hPfm)
@@ -17,6 +18,8 @@
   - [回了一趟老家，河沟已被福寿螺占领，怎么驱逐他们？【慎点】](https://2libra.com/post/personal-life/TvDmboF)
   - [已经流年不利好久了](https://2libra.com/post/personal-life/UiULhKg)
   - [把任意歌曲转换为喵喵叫](https://2libra.com/post/promotion/awarWPS)
+  - [新人前来报到](https://2libra.com/post/newcomer/2c7I_Zg)
+  - [最近微信审核很严格吗？小程序被永久封号了](https://2libra.com/post/indie-dev/fCcq6iv)
   - [每日微语早报 8 月 17 日](https://2libra.com/post/social-observation/BD3f9B3)
   - [没有 Harness 才是 AI 的终极形态](https://2libra.com/post/ai-programming/sN_ghDj)
   - [牛马羽球人](https://2libra.com/post/badminton/ZMnVNJX)
@@ -64,6 +67,7 @@
   - [Prediction market Novig sues Wisconsin AG in latest spat over sports contracts](https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938)
   - [Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers](https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934)
 - The Decoder
+  - [AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics](https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/)
   - [Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion](https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/)
 - The Verge
   - [I’m hooked on Peak Design’s new City bags](https://www.theverge.com/tech/980137/peak-design-city-line-review)
@@ -81,8 +85,11 @@
   - [Detecting Dark Matter’s Mark with an RTL-SDR Based DIY Radio Telescope](https://buaq.net/go-435539.html)
   - [DXLens: An iOS App Combining Shortwave Schedules, Propagation Data and Public SDRs](https://buaq.net/go-435505.html)
   - [爱快路由系统(iKuai)发布安全公告：持续遭到攻击 用户需立即升级固件](https://buaq.net/go-435511.html)
+  - [美国一原告在法庭文件中植入针对 LLM 的提示词](https://buaq.net/go-435542.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [美国一原告在法庭文件中植入针对 LLM 的提示词](https://www.solidot.org/story?sid=85109)
 - 爱范儿
   - [拒绝「差不多」，电商模型测评迎来「最严厉的父亲」](https://www.ifanr.com/1675338?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市](https://www.ifanr.com/1675332?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -94,3 +101,4 @@
   - [小米卢伟冰发文庆祝小米手机15周岁生日](https://blog.upx8.com/%E5%B0%8F%E7%B1%B3%E5%8D%A2%E4%BC%9F%E5%86%B0%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA15%E5%91%A8%E5%B2%81%E7%94%9F%E6%97%A5)
   - [指涉违吸烟广告条例 《尼古喵喵》香港下架](https://blog.upx8.com/%E6%8C%87%E6%B6%89%E8%BF%9D%E5%90%B8%E7%83%9F%E5%B9%BF%E5%91%8A%E6%9D%A1%E4%BE%8B-%E5%B0%BC%E5%8F%A4%E5%96%B5%E5%96%B5-%E9%A6%99%E6%B8%AF%E4%B8%8B%E6%9E%B6)
   - [阿里巴巴15亿美元出售游戏业务灵犀互娱](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B415%E4%BA%BF%E7%BE%8E%E5%85%83%E5%87%BA%E5%94%AE%E6%B8%B8%E6%88%8F%E4%B8%9A%E5%8A%A1%E7%81%B5%E7%8A%80%E4%BA%92%E5%A8%B1)
+  - [陆地不够水下凑 韩国试点海底数据中心](https://blog.upx8.com/%E9%99%86%E5%9C%B0%E4%B8%8D%E5%A4%9F%E6%B0%B4%E4%B8%8B%E5%87%91-%E9%9F%A9%E5%9B%BD%E8%AF%95%E7%82%B9%E6%B5%B7%E5%BA%95%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
