@@ -2,6 +2,7 @@
 
 - 2Libra
   - [Codex 什么时候能重置](https://2libra.com/post/ai-programming/V1Tu-MS)
+  - [cursor 半价机会](https://2libra.com/post/ai-tools/3I6bRrK)
   - [cursor 半价订阅](https://2libra.com/post/vibe-coding/x92c33m)
   - [iphone 视频通话久一点出现屏幕特别烫，这是正常的么？](https://2libra.com/post/apple/qcc4rcH)
   - [【兑换码】🎉 周一福利｜ Proxy001 住宅代理： 1 亿 + 真实 IP / 230 + 国家 / 低至 $0.55GB，注册送 500M！](https://2libra.com/post/promotion/id6CMW5)
@@ -35,7 +36,9 @@
 - Articles | InfoStealers
   - [From CI Pipeline to Ransomware & Breaches: 6 High-Profile Breaches in the LiteLLM/Trivy Attack](https://www.infostealers.com/article/from-ci-pipeline-to-ransomware-breaches-6-high-profile-breaches-in-the-litellm-trivy-attack/)
 - CoinTelegraph
+  - [Binance gave Russian authorities client data used in terrorism financing case: Report](https://cointelegraph.com/news/binance-russia-client-data-used-ukraine-case-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitpanda fined in Austria’s first published MiCA penalty](https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-loses-200-week-trend-line-as-2022-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chainalysis sues US over $95M ICE contract with TRM Labs](https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Data of 54,000 wallet users leaked, Clarity odds just 10%: Hodler’s Digest, Aug. 16](https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Greenlane’s $70M BERA treasury ends Q2 valued at $16M](https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -46,6 +49,8 @@
   - [★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
 - defend.network
   - [SharePoint, Windows zero-day exploited; Lazarus backdoor in defense sector](https://defend.network/briefings/sharepoint-lazarus-windows-chrome-malware-exploits-2026-08-17.html)
+- Fidelis Security
+  - [How Fidelis Endpoint Strengthens Enterprise Malware Protection](https://fidelissecurity.com/threatgeek/endpoint-security/enterprise-malware-protection-using-fidelis-edr/)
 - Hacker News Frontpage
   - [Gmail might partially be to blame for receiving emails from other Sean Conners](https://boston.conman.org/2026/08/11.1)
   - [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
@@ -53,6 +58,7 @@
   - [Ordinary WiFi can now identify you with near-perfect accuracy](https://www.sciencedaily.com/releases/2026/08/260811052857.htm)
   - [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
 - infosecurity-magazine.com
+  - [ETSI Proposes 17 Cybersecurity Standards to Support Cyber Resilience Act](https://www.infosecurity-magazine.com/news/etsi-proposes-17-cybersecurity/)
   - [SafePal Data Breach Hits Tens of Thousands of Customers](https://www.infosecurity-magazine.com/news/safepal-data-breach-tens-thousands/)
 - johndcook.com
   - [Proportion of 1s in a Hadamard matrix](https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/)
@@ -63,9 +69,17 @@
   - [pstree Command in Linux: Visualize Running Process Hierarchies](https://kalilinuxtutorials.com/pstree-command-linux/)
 - Offensive OSINT
   - [Offensive OSINT s06e02 - Data-driven investigations part 2 - UC135](https://www.offensiveosint.io/offensive-osint-s06e02-data-driven-investigations-part-2-uc135/)
+- OpenZeppelin Blog
+  - [Across Protocol V5 Bridging System Audit](https://www.openzeppelin.com/news/across-protocol-v5-bridging-system-audit)
+  - [Across Tron SpokePoolPeriphery Diff Audit](https://www.openzeppelin.com/news/across-tron-spokepoolperiphery-diff-audit)
+  - [Contracts V5 Audit](https://www.openzeppelin.com/news/contracts-v5-audit)
+  - [Counterfactual Route Policies Diff Audit](https://www.openzeppelin.com/news/counterfactual-route-policies-diff-audit)
+  - [SP1 and USP changes Audit](https://www.openzeppelin.com/news/sp1-and-usp-changes-audit)
 - rtl-sdr.com
   - [Detecting Dark Matter’s Mark with an RTL-SDR Based DIY Radio Telescope](https://www.rtl-sdr.com/detecting-dark-matters-mark-with-an-rtl-sdr-based-diy-radio-telescope/)
   - [DXLens: An iOS App Combining Shortwave Schedules, Propagation Data and Public SDRs](https://www.rtl-sdr.com/dxlens-an-ios-app-combining-shortwave-schedules-propagation-data-and-public-sdrs/)
+- shkspr.mobi
+  - [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/)
 - simonwillison.net
   - [Markdown SVG upgrades](https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/)
   - [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
@@ -79,6 +93,7 @@
   - [Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers](https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934)
 - The Decoder
   - [AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics](https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/)
+  - [Anthropic watermarks Claude's output, but critics question the tradeoffs](https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs/)
   - [Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion](https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/)
 - The Verge
   - [Anthropic explains how Claude&#8217;s invisible text watermarks will work](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system)
@@ -96,6 +111,7 @@
   - [CVE-2026-50601](https://vulners.com/nvd/NVD:CVE-2026-50601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50602](https://vulners.com/nvd/NVD:CVE-2026-50602?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid)](https://www.wired.com/gallery/best-cheap-laptops/)
   - [CookUnity Prepared Meal Delivery Review (2026): Chef-Centric Meals](https://www.wired.com/review/cookunity-prepared-meal-delivery-2026/)
   - [El Niño and Saharan Dust Silence Atlantic Hurricane Season](https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/)
   - [Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms](https://www.wired.com/story/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-in-the-midterms/)
