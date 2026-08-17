@@ -8,6 +8,7 @@
   - [【💰】想买个平板二手的 12 寸左右，主要玩游戏，看视频 有推荐的吗？](https://2libra.com/post/tablets/nR-hPfm)
   - [【💰】本来想浅水的，看到这个我就知道，我绷不住了](https://2libra.com/post/slacking-off/KtgZwGT)
   - [【💰】爆率拉满，今日话题，讨论一下买保险](https://2libra.com/post/financial-management/q7cLRCs)
+  - [【💰】自动签到的意外之喜——卡皮巴拉](https://2libra.com/post/forum-function/pdUotxE)
   - [【💰】讲讲我的减脂经历](https://2libra.com/post/sports/ipQ798t)
   - [你们三口之家，每个月开支多少](https://2libra.com/post/family/Jiw5Adv)
   - [发现口腔的耐热性比手高](https://2libra.com/post/small-things/6jXmIzN)
@@ -71,6 +72,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [拒绝「差不多」，电商模型测评迎来「最严厉的父亲」](https://www.ifanr.com/1675338?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市](https://www.ifanr.com/1675332?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 风雪之隅(鸟哥)
   - [Wechatian: 让AI有事就来微信找你](https://www.laruence.com/2026/08/17/6297.html)
