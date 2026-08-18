@@ -15,20 +15,25 @@
   - [关于本站搜索框比较难发现的问题，是不是可以这样](https://2libra.com/post/forum-function/gCkmLhf)
   - [发现我的 Codex 账号有 1000 邀请额度，需要的可以留下邮箱，只有三个名额](https://2libra.com/post/invite-code/FfhA4MB)
   - [可能年纪到了吧](https://2libra.com/post/love/G0UXwMg)
+  - [我想把电脑上的照片自动识别分类，有啥开源的轻量模型能做到吗？或者别的方案？](https://2libra.com/post/recommendations/dD2Xpfd)
   - [新病毒来了吗？？？](https://2libra.com/post/health-consultation/AJafu1u)
   - [每日微语早报 8 月 18 日](https://2libra.com/post/social-observation/w8rzrVi)
   - [潘多拉效果会把勋章效果盖掉了](https://2libra.com/post/forum-function/3YwsZ1W)
   - [用 ai 写了一个导航站](https://2libra.com/post/vibe-coding/ptTLz9m)
   - [第一次真正认真看 AI 短剧，真猛啊！](https://2libra.com/post/ai-applications/pbUCS-j)
   - [近 30 天的平衡值变化](https://2libra.com/post/forum-function/6wqNQWP)
+  - [还剩 2 个 1000 的 Chat GPT 邀请额度 需要的留邮箱 先到先得](https://2libra.com/post/invite-code/40RdApt)
   - [这个黑色背景，感觉不太舒服](https://2libra.com/post/forum-function/_Xa7FJc)
 - 360 Netlab Blog - 360
   - [AI安全专题周报](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao/)
+  - [AI安全专题周报(20260814)](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-2/)
   - [金融行业网络安全监测月报(202511)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202511/)
   - [金融行业网络安全监测月报(202601)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202601/)
   - [金融行业网络安全监测月报(202602)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202602/)
   - [金融行业网络安全监测月报(202603)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202603/)
   - [金融行业网络安全监测月报(202604)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202604/)
+  - [金融行业网络安全监测月报(202606)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202606/)
+  - [金融行业网络安全监测月报(202607)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202607/)
 - 360 Netlab Blog - Network Security Research Lab at 360
   - [金融行业网络安全监测月报(202512)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202512/)
 - Ars Technica
@@ -41,9 +46,11 @@
   - [Binance to plan UK relaunch with FCA license application: Report](https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat](https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC seeks public input on AI compute futures contracts as CME eyes October launch](https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [China adds 8 banks to digital yuan network as operator count hits 30](https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum Foundation warns some tools may break with Glamsterdam upgrade](https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OCC approves Trump family crypto company for trust charter](https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [South Korea moves to block Polymarket over gambling concerns](https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea’s Jeonbuk Bank taps Ripple for cross-border payments](https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Treasury moves forward with rules on GENIUS Act after July deadline](https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express](https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -84,6 +91,8 @@
   - [How an Unauthenticated API Endpoint Exposed 19,990 User Records](https://infosecwriteups.com/how-an-unauthenticated-api-endpoint-exposed-19-990-user-records-ecfe395cf94a?source=rss----7b722bfd1b8d---4)
   - [Proving Grounds — Practice — Authby](https://infosecwriteups.com/proving-grounds-practice-authby-3da2d1396a23?source=rss----7b722bfd1b8d---4)
   - [TryHackMe — Guided Pentest: Infrastructure | Full Walkthrough](https://infosecwriteups.com/tryhackme-guided-pentest-infrastructure-full-walkthrough-8984cd1806f4?source=rss----7b722bfd1b8d---4)
+- infosecurity-magazine.com
+  - [UK Legal Regulator Raises AI Misuse Concerns](https://www.infosecurity-magazine.com/news/uk-legal-regulator-raises-ai/)
 - MIT Technology Review
   - [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/)
 - rtl-sdr.com
@@ -116,8 +125,10 @@
   - [Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction](https://www.theblock.co/news/markets/2026-08-18-upbit-bithumb-h1-decline-412034)
   - [US Treasury seeks public comment on GENIUS Act stablecoin rules](https://www.theblock.co/news/regulation/2026-08-17-us-treasury-seeks-public-comment-genius-act-stablecoin-rules-411987)
 - The Decoder
+  - [AI systems quietly drop user instructions when they compress context](https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/)
   - [Anthropic increases revenue sevenfold, hits annualized rate above $65 billion](https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/)
 - The Verge
+  - [Apple&#8217;s camera-equipped AirPods appear in leaked video](https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak)
   - [Sonos finally added Live Activities controls for your iPhone lockscreen](https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities)
   - [The Analogue Pocket gets a Supreme makeover in red or gold](https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection)
   - [This compact Glorious mechanical keyboard is just $35](https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale)
@@ -130,14 +141,18 @@
   - [This R-Rated Film Studio Wants to Be the HBO of AI](https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/)
   - [What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy](https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/)
 - 不安全
+  - [AI安全专题周报](https://buaq.net/go-435830.html)
   - [KrakenSDR Tested as a GNSS Jammer and Spoofer Localizer](https://buaq.net/go-435775.html)
   - [亚马逊变更使用条款 禁止用户发起集体诉讼 仅允许通过仲裁程序解决争议](https://buaq.net/go-435745.html)
   - [有开发者发现Kimi Work存在隐私问题 提交反馈时自动打包上传最近5个会话记录](https://buaq.net/go-435757.html)
+  - [金融行业网络安全监测月报(202606)](https://buaq.net/go-435832.html)
+  - [金融行业网络安全监测月报(202607)](https://buaq.net/go-435831.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Anthropic CEO 称对 AI 的抵触根源在于信任危机](https://www.solidot.org/story?sid=85122)
   - [对一批珍稀图书的跟踪显示它们进入了亚马逊的 AI 训练设施](https://www.solidot.org/story?sid=85119)
+  - [日常饮用含糖饮料与胃癌风险上升相关](https://www.solidot.org/story?sid=85124)
 - 安全客
   - [1.1万个网站正被围攻！WordPress登录页惊现XSS2Shell漏洞，无需账号就能摸到服务器](https://www.anquanke.com/post/id/315980)
   - [满分10.0的漏洞，补丁发布3天就被打穿](https://www.anquanke.com/post/id/315976)
@@ -153,3 +168,4 @@
   - [YouTube平台现在将在视频一开始播放时就计入一次观看次数](https://blog.upx8.com/YouTube%E5%B9%B3%E5%8F%B0%E7%8E%B0%E5%9C%A8%E5%B0%86%E5%9C%A8%E8%A7%86%E9%A2%91%E4%B8%80%E5%BC%80%E5%A7%8B%E6%92%AD%E6%94%BE%E6%97%B6%E5%B0%B1%E8%AE%A1%E5%85%A5%E4%B8%80%E6%AC%A1%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0)
   - [好莱坞与字节跳动“休战” 签下AI版权协议](https://blog.upx8.com/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E4%B8%8E%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-%E4%BC%91%E6%88%98-%E7%AD%BE%E4%B8%8BAI%E7%89%88%E6%9D%83%E5%8D%8F%E8%AE%AE)
   - [男子向AI吐露奸杀前女友计划 OpenAI举报揭发案情](https://blog.upx8.com/%E7%94%B7%E5%AD%90%E5%90%91AI%E5%90%90%E9%9C%B2%E5%A5%B8%E6%9D%80%E5%89%8D%E5%A5%B3%E5%8F%8B%E8%AE%A1%E5%88%92-OpenAI%E4%B8%BE%E6%8A%A5%E6%8F%AD%E5%8F%91%E6%A1%88%E6%83%85)
+  - [苹果新系统代码显示中国大陆 “Apple 智能”具有特定审查机制](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%96%B0%E7%B3%BB%E7%BB%9F%E4%BB%A3%E7%A0%81%E6%98%BE%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86-Apple-%E6%99%BA%E8%83%BD-%E5%85%B7%E6%9C%89%E7%89%B9%E5%AE%9A%E5%AE%A1%E6%9F%A5%E6%9C%BA%E5%88%B6)
