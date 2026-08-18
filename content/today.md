@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-08-18）
 
 - 2Libra
+  - [【💰】感觉时间过的越来越快了](https://2libra.com/post/personal-life/uKUDx1U)
   - [每日微语早报 8 月 18 日](https://2libra.com/post/social-observation/w8rzrVi)
 - Ars Technica
   - [As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
@@ -18,6 +19,7 @@
 - daringfireball.net
   - [Apple TV Still Has No Start Date for ‘The Savant’](https://daringfireball.net/linked/2026/04/19/chastain-says-the-savant-will-be-released)
   - [No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d)
+  - [★ Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text](https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking)
 - darkreading
   - [Adam Shostack Talks Hugging Face &amp; PHANTOM-B](https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b)
   - [Video Call Exploit Chains Two Flaws in Unisoc Modems](https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems)
@@ -29,6 +31,7 @@
   - [How I Over-Engineered My Book](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
   - [Meta faces 'astronomical' consequences as legal fight reaches critical moment](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html)
   - [Nation's Largest Reservoirs Are Drying Up, Threatening Life in the Southwest](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
+  - [PM Carney announces largest clean energy investment in North American history](https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north)
   - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
   - [Roboflow Playground: Try and Compare 30 Computer Vision Models](https://blog.roboflow.com/roboflow-playground/)
   - [The Lonely Men Who Work in Patagonia, at the End of the World](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
@@ -84,5 +87,8 @@
 - 安全客
   - [1.1万个网站正被围攻！WordPress登录页惊现XSS2Shell漏洞，无需账号就能摸到服务器](https://www.anquanke.com/post/id/315980)
   - [满分10.0的漏洞，补丁发布3天就被打穿](https://www.anquanke.com/post/id/315976)
+- 爱范儿
+  - [早报｜宇树「超人」原地跳高2米/小米SU7系列交付突破50万台/豆包支持手机远程操作电脑](https://www.ifanr.com/1675451?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [网友把DeepSeek Harness玩成了赛博乐高，我们挑出了最有意思的11 个插件](https://www.ifanr.com/1675387?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Anthropic“年化营收”据传已突破650亿美元](https://blog.upx8.com/Anthropic-%E5%B9%B4%E5%8C%96%E8%90%A5%E6%94%B6-%E6%8D%AE%E4%BC%A0%E5%B7%B2%E7%AA%81%E7%A0%B4650%E4%BA%BF%E7%BE%8E%E5%85%83)
