@@ -1,22 +1,45 @@
 # 今日安全资讯（2026-08-19）
 
+- 2Libra
+  - [“在文件夹中显示”无反应，Windows11](https://2libra.com/post/help-requests/Kt2NW3T)
 - buttondown.com/hillelwayne
   - [Vim wants you to control, VSCode wants you to consume](https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/)
 - CoinTelegraph
   - [Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’](https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kraken’s Krak debuts US debit card as Payward broadens financial services push](https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play](https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Fidelis Security
   - [How Fidelis Enables High-Confidence Threat Detection](https://fidelissecurity.com/threatgeek/threat-detection-response/fidelis-enables-high-confidence-threat-detection/)
+  - [What to Expect from an EDR Rollout: Deployment Considerations, Costs, and ROI](https://fidelissecurity.com/threatgeek/endpoint-security/edr-deployment-guide/)
 - Hacker News Frontpage
   - [A local ePub eBook server for my xteink](https://solariz.de/posts/26/04-xteink-local-epub-server)
   - [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
   - [Claude: Degraded Performance for Multiple Models](https://status.claude.com/incidents/q7txxvbsftgq)
+  - [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
   - [Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
   - [Superpowers, Not Superintelligence](https://bond.now/news/superpowers-not-superintelligence)
+- Microsoft Security Blog
+  - [Hunting MacSync Stealer infrastructure through behavioral pivots](https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/)
 - NowSecure
   - [OWASP MASWE Hits v1.0: NowSecure Platform Already Maps to It](https://www.nowsecure.com/blog/2026/08/18/owasp-maswe-hits-v1-0-nowsecure-platform-already-maps-to-it/)
 - TechCrunch
+  - [Apple overhauls its EU App Store fees, loosens rules for alternative app stores](https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/)
   - [Comcast adds motion sensing to millions of its newer routers, with a privacy catch](https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/)
+  - [Etched’s valuation doubles to $21B in a month](https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/)
+  - [OpenAI institutes new safeguards after Hugging Face breach](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/)
+  - [Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
   - [Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear](https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/)
+- The Verge
+  - [PlayStation&#8217;s wireless gaming speakers launch in November](https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder)
+  - [Samsung’s Galaxy Buds 3 Pro are almost half off today](https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale)
+- Vulners.com RSS Feed
+  - [CVE-2026-48744 Saleor: Anonymous users can modify channel settings via `channelUpdate` due to `all([])` bypass in permission check](https://vulners.com/cve/CVE-2026-48744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48744 Saleor: Anonymous users can modify channel settings via `channelUpdate` due to `all([])` bypass in permission check](https://vulners.com/cvelist/CVELIST:CVE-2026-48744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66781 Submariner-operator: submariner-operator: ipsec psk stored cleartext in submariner cr spec](https://vulners.com/cve/CVE-2026-66781?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66781 Submariner-operator: submariner-operator: ipsec psk stored cleartext in submariner cr spec](https://vulners.com/cvelist/CVELIST:CVE-2026-66781?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66782 Submariner-operator: submariner-operator: broker api bearer token stored cleartext in cr spec](https://vulners.com/cve/CVE-2026-66782?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66782 Submariner-operator: submariner-operator: broker api bearer token stored cleartext in cr spec](https://vulners.com/cvelist/CVELIST:CVE-2026-66782?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66783 Submariner-operator: submariner-operator: arbitrary image override enables privileged code execution on every node](https://vulners.com/cve/CVE-2026-66783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66783 Submariner-operator: submariner-operator: arbitrary image override enables privileged code execution on every node](https://vulners.com/cvelist/CVELIST:CVE-2026-66783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
