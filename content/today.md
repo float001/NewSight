@@ -3,6 +3,7 @@
 - 2Libra
   - [2Libra WEB 安装](https://2libra.com/post/sharing-discoveries/aanAbQM)
   - [8 月 18 日资本市场大事提醒](https://2libra.com/post/stock-market/4KgbeLR)
+  - [[分享] 2S-UI —— 把 s-ui 的前端整个重写了一遍的 sing-box 面板](https://2libra.com/post/open-source-sharing/DTXBjcv)
   - [codex 重置时间改为点击之后跳转界面才能看，掩耳盗铃吗，这体验真是改的一坨](https://2libra.com/post/ai-programming/oGzWEtf)
   - [【今日笔记】活在当下：人生不是永无止境的考试](https://2libra.com/post/mental-health/pnxsIxS)
   - [【小小焚决】分享个人常用找书/漫画的网站以及选择 👍](https://2libra.com/post/sharing-discoveries/Svht5o9)
@@ -16,6 +17,7 @@
   - [可能年纪到了吧](https://2libra.com/post/love/G0UXwMg)
   - [新病毒来了吗？？？](https://2libra.com/post/health-consultation/AJafu1u)
   - [每日微语早报 8 月 18 日](https://2libra.com/post/social-observation/w8rzrVi)
+  - [潘多拉效果会把勋章效果盖掉了](https://2libra.com/post/forum-function/3YwsZ1W)
   - [用 ai 写了一个导航站](https://2libra.com/post/vibe-coding/ptTLz9m)
   - [第一次真正认真看 AI 短剧，真猛啊！](https://2libra.com/post/ai-applications/pbUCS-j)
   - [近 30 天的平衡值变化](https://2libra.com/post/forum-function/6wqNQWP)
@@ -23,6 +25,10 @@
 - 360 Netlab Blog - 360
   - [AI安全专题周报](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao/)
   - [金融行业网络安全监测月报(202511)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202511/)
+  - [金融行业网络安全监测月报(202601)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202601/)
+  - [金融行业网络安全监测月报(202602)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202602/)
+  - [金融行业网络安全监测月报(202603)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202603/)
+  - [金融行业网络安全监测月报(202604)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202604/)
 - 360 Netlab Blog - Network Security Research Lab at 360
   - [金融行业网络安全监测月报(202512)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202512/)
 - Ars Technica
@@ -84,6 +90,8 @@
   - [KrakenSDR Tested as a GNSS Jammer and Spoofer Localizer](https://www.rtl-sdr.com/krakensdr-tested-as-a-gnss-jammer-and-spoofer-localizer/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx](https://sploitus.com/exploit?id=C040B40C-390A-5021-BCC4-B56292CD14F0&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-19478](https://sploitus.com/exploit?id=184A4957-531E-5235-B1B3-A85EA65453F1&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-69414](https://sploitus.com/exploit?id=39BCE353-DC4E-5A1C-BCC7-74370EABC117&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-71518](https://sploitus.com/exploit?id=1FA99D42-7CBF-5696-9184-2296F382F906&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI automation startup Relay shuts down, staff joins Google’s Chrome team](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/)
@@ -99,12 +107,16 @@
   - [‘Unprecedented’ number of Apple users received recent spyware alert, say investigators](https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/)
 - The Block
   - [Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan](https://www.theblock.co/news/business/2026-08-17-bitcoin-production-slips-again-july-cleanspark-bitfufu-canaan-411985)
+  - [Cathie Wood’s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%](https://www.theblock.co/news/markets/2026-08-18-cathie-wood-ark-invest-15-million-block-inc-412060)
   - [IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal](https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016)
+  - [Kraken brings US stock trading to European Economic Area customers](https://www.theblock.co/news/business/2026-08-18-kraken-us-stock-trading-europe-economic-area-412027)
   - [Ripple partners with South Korea’s Jeonbuk Bank for cross-border payments](https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049)
   - [Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground](https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998)
   - [Tokenized equities triple market share as Ondo, Binance and xStocks dominate](https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996)
   - [Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction](https://www.theblock.co/news/markets/2026-08-18-upbit-bithumb-h1-decline-412034)
   - [US Treasury seeks public comment on GENIUS Act stablecoin rules](https://www.theblock.co/news/regulation/2026-08-17-us-treasury-seeks-public-comment-genius-act-stablecoin-rules-411987)
+- The Decoder
+  - [Anthropic increases revenue sevenfold, hits annualized rate above $65 billion](https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/)
 - The Verge
   - [Sonos finally added Live Activities controls for your iPhone lockscreen](https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities)
   - [The Analogue Pocket gets a Supreme makeover in red or gold](https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection)
@@ -124,6 +136,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Anthropic CEO 称对 AI 的抵触根源在于信任危机](https://www.solidot.org/story?sid=85122)
   - [对一批珍稀图书的跟踪显示它们进入了亚马逊的 AI 训练设施](https://www.solidot.org/story?sid=85119)
 - 安全客
   - [1.1万个网站正被围攻！WordPress登录页惊现XSS2Shell漏洞，无需账号就能摸到服务器](https://www.anquanke.com/post/id/315980)
