@@ -11,6 +11,7 @@
   - [【观隔壁帖子有感】原帖标题- 现在女的都怎么了，年纪大的都是这样吗](https://2libra.com/post/love/PEnEO0c)
   - [【💰】[请教] 如何配置美区 apple id 的付款方式](https://2libra.com/post/large-models/geqRQ-B)
   - [【💰】codex 账号触发手机号验证是不是就没救了](https://2libra.com/post/ai-programming/d2V91bE)
+  - [【💰】出 8.18 新办的山姆副卡](https://2libra.com/post/promotion/C8kH9u8)
   - [【💰】感觉时间过的越来越快了](https://2libra.com/post/personal-life/uKUDx1U)
   - [【💰】我要看天平倾斜！！！](https://2libra.com/post/community/Pc_fchM)
   - [你们的开发者穷鬼套餐的组合是？每月花费是多少呢？都是怎么搭配的？](https://2libra.com/post/tool-sharing/Ego2azk)
@@ -85,6 +86,7 @@
   - [MacOS 26.7 Tahoe Release Candidate Contains a Video Demonstrating Camera-Equipped AirPods in Action](https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/)
   - [Nature Is Healing: MacOS 27 Golden Gate Beta 6 Adds Redesigned Traffic Light Window Controls](https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/)
   - [No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d)
+  - [OpenAI Pot Complains That Google Kettle Is Black](https://x.com/thsottiaux/status/2083373529081291076?s=12)
   - [★ Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text](https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking)
 - darkreading
   - ['Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service](https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service)
@@ -125,6 +127,8 @@
   - [TryHackMe — Guided Pentest: Infrastructure | Full Walkthrough](https://infosecwriteups.com/tryhackme-guided-pentest-infrastructure-full-walkthrough-8984cd1806f4?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [Cyber Incident Disrupts Student Services at UT San Antonio](https://www.infosecurity-magazine.com/news/cyber-incident-ut-san-antonio/)
+  - [Enterprise Applications Carry 4.31x More Critical and High Vulnerabilities](https://www.infosecurity-magazine.com/news/enterprise-apps-critical-high/)
+  - [NASA Ground Control Software Flaw Enables Unauthenticated Commands](https://www.infosecurity-magazine.com/news/nasa-ground-control-software-flaw/)
   - [UK Legal Regulator Raises AI Misuse Concerns](https://www.infosecurity-magazine.com/news/uk-legal-regulator-raises-ai/)
 - johndcook.com
   - [Mean distance to the sun](https://www.johndcook.com/blog/2026/08/18/mean-distance-to-the-sun/)
@@ -133,6 +137,8 @@
   - [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/)
 - OpenZeppelin Blog
   - [Know Your Counterparty: Identity, Access Control, and Institutional Participation on Public Blockchains](https://www.openzeppelin.com/news/identity-access-control-and-institutional-participation)
+- pluralistic.net
+  - [Pluralistic: IP can't save you from AI (18 Aug 2026)](https://pluralistic.net/2026/08/18/enron-corpus/)
 - rtl-sdr.com
   - [AntSDR T510 Pre-launch: A 1 MHz to 6 GHz SDR with 2 GHz Bandwidth and a Built-In NVIDIA Jetson](https://www.rtl-sdr.com/antsdr-t510-pre-launch-a-1-mhz-to-6-ghz-sdr-with-2-ghz-bandwidth-and-a-built-in-nvidia-jetson/)
   - [KrakenSDR Tested as a GNSS Jammer and Spoofer Localizer](https://www.rtl-sdr.com/krakensdr-tested-as-a-gnss-jammer-and-spoofer-localizer/)
@@ -174,6 +180,7 @@
   - [Kraken brings US stock trading to European Economic Area customers](https://www.theblock.co/news/business/2026-08-18-kraken-us-stock-trading-europe-economic-area-412027)
   - [Ripple partners with South Korea’s Jeonbuk Bank for cross-border payments](https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049)
   - [Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground](https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998)
+  - [Securitize brings Neuberger’s $230 billion fixed-income platform onchain with new tokenized fund](https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102)
   - [Tokenized equities triple market share as Ondo, Binance and xStocks dominate](https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996)
   - [Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction](https://www.theblock.co/news/markets/2026-08-18-upbit-bithumb-h1-decline-412034)
   - [US Treasury seeks public comment on GENIUS Act stablecoin rules](https://www.theblock.co/news/regulation/2026-08-17-us-treasury-seeks-public-comment-genius-act-stablecoin-rules-411987)
@@ -259,6 +266,7 @@
 - Wired
   - [Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To](https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/)
   - [Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US](https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/)
+  - [Meta Ran Ads for an App That Promised to Nudify Female Politicians](https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/)
   - [This R-Rated Film Studio Wants to Be the HBO of AI](https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/)
   - [What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy](https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/)
 - 不安全
