@@ -12,6 +12,7 @@
   - [【💰】codex 账号触发手机号验证是不是就没救了](https://2libra.com/post/ai-programming/d2V91bE)
   - [【💰】感觉时间过的越来越快了](https://2libra.com/post/personal-life/uKUDx1U)
   - [【💰】我要看天平倾斜！！！](https://2libra.com/post/community/Pc_fchM)
+  - [你们的开发者穷鬼套餐的组合是？每月花费是多少呢？都是怎么搭配的？](https://2libra.com/post/tool-sharing/Ego2azk)
   - [你手机打字用 9 键还是 26 键？](https://2libra.com/post/questions/RqTOk0E)
   - [关于本站搜索框比较难发现的问题，是不是可以这样](https://2libra.com/post/forum-function/gCkmLhf)
   - [发现我的 Codex 账号有 1000 邀请额度，需要的可以留下邮箱，只有三个名额](https://2libra.com/post/invite-code/FfhA4MB)
@@ -32,6 +33,7 @@
   - [近 30 天的平衡值变化](https://2libra.com/post/forum-function/6wqNQWP)
   - [还剩 2 个 1000 的 Chat GPT 邀请额度 需要的留邮箱 先到先得](https://2libra.com/post/invite-code/40RdApt)
   - [这个黑色背景，感觉不太舒服](https://2libra.com/post/forum-function/_Xa7FJc)
+  - [邀请码](https://2libra.com/post/invite-code/cbVcoTF)
 - 360 Netlab Blog - 360
   - [AI安全专题周报](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao/)
   - [AI安全专题周报(20260814)](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-2/)
@@ -49,6 +51,8 @@
   - [Hidden Airtag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
   - [The Moon's shadow raced across the heart of Spain, and I was there to see it](https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/)
   - [US vaccination rates fall again as exemptions continue to rise, CDC data shows](https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/)
+- Ben's Bites
+  - [Do you use a personal agent?](https://www.bensbites.com/p/do-you-use-a-personal-agent)
 - Cerbero Blog
   - [Cerbero Suite 9 Release](https://blog.cerbero.io/cerbero-suite-9-release/)
 - CoinTelegraph
@@ -61,6 +65,7 @@
   - [Ethereum Foundation warns some tools may break with Glamsterdam upgrade](https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kraken launches US-listed stock trading for EEA customers](https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [MoonPay adds Cash App Pay for crypto purchases by US customers](https://cointelegraph.com/news/moonpay-cash-app-pay-crypto-purchases-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OCC approves Trump family crypto company for trust charter](https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea moves to block Polymarket over gambling concerns](https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea’s Jeonbuk Bank taps Ripple for cross-border payments](https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -71,9 +76,11 @@
 - daringfireball.net
   - [Apple TV Still Has No Start Date for ‘The Savant’](https://daringfireball.net/linked/2026/04/19/chastain-says-the-savant-will-be-released)
   - [MacOS 26.7 Tahoe Release Candidate Contains a Video Demonstrating Camera-Equipped AirPods in Action](https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/)
+  - [Nature Is Healing: MacOS 27 Golden Gate Beta 6 Adds Redesigned Traffic Light Window Controls](https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/)
   - [No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d)
   - [★ Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text](https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking)
 - darkreading
+  - ['Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service](https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service)
   - [Adam Shostack Talks Hugging Face &amp; PHANTOM-B](https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b)
   - [Video Call Exploit Chains Two Flaws in Unisoc Modems](https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems)
 - defend.network
@@ -108,6 +115,7 @@
   - [Cyber Incident Disrupts Student Services at UT San Antonio](https://www.infosecurity-magazine.com/news/cyber-incident-ut-san-antonio/)
   - [UK Legal Regulator Raises AI Misuse Concerns](https://www.infosecurity-magazine.com/news/uk-legal-regulator-raises-ai/)
 - MIT Technology Review
+  - [The Download: how people really use AI, and Flock’s design choices](https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/)
   - [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/)
 - rtl-sdr.com
   - [AntSDR T510 Pre-launch: A 1 MHz to 6 GHz SDR with 2 GHz Bandwidth and a Built-In NVIDIA Jetson](https://www.rtl-sdr.com/antsdr-t510-pre-launch-a-1-mhz-to-6-ghz-sdr-with-2-ghz-bandwidth-and-a-built-in-nvidia-jetson/)
@@ -117,10 +125,12 @@
   - [Exploit for CVE-2026-19478](https://sploitus.com/exploit?id=184A4957-531E-5235-B1B3-A85EA65453F1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-69414](https://sploitus.com/exploit?id=39BCE353-DC4E-5A1C-BCC7-74370EABC117&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-71518](https://sploitus.com/exploit?id=1FA99D42-7CBF-5696-9184-2296F382F906&utm_source=rss&utm_medium=rss)
+  - [qwen3.8-27b-cyber-exploit-agent](https://sploitus.com/exploit?id=7B22971A-BFDC-5C14-AEB1-5123B89358A8&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI automation startup Relay shuts down, staff joins Google’s Chrome team](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/)
   - [Amazon, once an online bookseller, is destroying rare books to train AI models](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/)
   - [Anthropic’s annualized revenue surges to $65B](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/)
+  - [Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York](https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/)
   - [Detroit startup Grounded raises $5M to customize electric and gas-powered vans](https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/)
   - [Einride strikes deal to add 500 Tesla Semis to its fleet](https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/)
   - [Feedly attributes weeklong slowdown to bug, not its AI pivot](https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/)
@@ -136,6 +146,7 @@
   - [Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan](https://www.theblock.co/news/business/2026-08-17-bitcoin-production-slips-again-july-cleanspark-bitfufu-canaan-411985)
   - [Blockchain Association backs SEC’s proposal to scrap outdated NMS rules, citing tokenization benefits](https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069)
   - [Cathie Wood’s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%](https://www.theblock.co/news/markets/2026-08-18-cathie-wood-ark-invest-15-million-block-inc-412060)
+  - [Citi expects to launch bitcoin custody later this year under its new Custody+ platform](https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090)
   - [Curve founder says FATF pressure could make DeFi safer and more decentralized](https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059)
   - [Cypherpunk Technologies launches Zcash mining fleet with $33 million Winklevoss deal](https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071)
   - [IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal](https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016)
@@ -162,6 +173,7 @@
   - [How I turned my fish tank high tech](https://www.theverge.com/tech/978229/fish-tank-tech)
   - [My parrot ate my keyboard](https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect)
   - [Oops! My cat is an iPad kid](https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube)
+  - [Polaroid’s new Pokémon collection captures memories, not Pikachus](https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film)
   - [Sonos finally added Live Activities controls for your iPhone lockscreen](https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities)
   - [The Analogue Pocket gets a Supreme makeover in red or gold](https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection)
   - [The Verge Guide to Pets](https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale)
@@ -179,6 +191,7 @@
 - 不安全
   - [AI安全专题周报](https://buaq.net/go-435830.html)
   - [Be careful what you put in “anyone with the link” Google Docs](https://buaq.net/go-435878.html)
+  - [Furto di identità via phishing Wise](https://buaq.net/go-435918.html)
   - [Image viewer for 2003 Neighbours From Hell's .tga image format](https://buaq.net/go-435881.html)
   - [KrakenSDR Tested as a GNSS Jammer and Spoofer Localizer](https://buaq.net/go-435775.html)
   - [LLMs and Contextual Integrity](https://buaq.net/go-435873.html)
