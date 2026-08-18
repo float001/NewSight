@@ -3,8 +3,10 @@
 - 2Libra
   - [8 月 18 日资本市场大事提醒](https://2libra.com/post/stock-market/4KgbeLR)
   - [【小小焚决】分享个人常用找书/漫画的网站以及选择 👍](https://2libra.com/post/sharing-discoveries/Svht5o9)
+  - [【💰】codex 账号触发手机号验证是不是就没救了](https://2libra.com/post/ai-programming/d2V91bE)
   - [【💰】感觉时间过的越来越快了](https://2libra.com/post/personal-life/uKUDx1U)
   - [每日微语早报 8 月 18 日](https://2libra.com/post/social-observation/w8rzrVi)
+  - [第一次真正认真看 AI 短剧，真猛啊！](https://2libra.com/post/ai-applications/pbUCS-j)
   - [近 30 天的平衡值变化](https://2libra.com/post/forum-function/6wqNQWP)
 - Ars Technica
   - [As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
@@ -99,4 +101,5 @@
   - [网友把DeepSeek Harness玩成了赛博乐高，我们挑出了最有意思的11 个插件](https://www.ifanr.com/1675387?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Anthropic“年化营收”据传已突破650亿美元](https://blog.upx8.com/Anthropic-%E5%B9%B4%E5%8C%96%E8%90%A5%E6%94%B6-%E6%8D%AE%E4%BC%A0%E5%B7%B2%E7%AA%81%E7%A0%B4650%E4%BA%BF%E7%BE%8E%E5%85%83)
+  - [YouTube平台现在将在视频一开始播放时就计入一次观看次数](https://blog.upx8.com/YouTube%E5%B9%B3%E5%8F%B0%E7%8E%B0%E5%9C%A8%E5%B0%86%E5%9C%A8%E8%A7%86%E9%A2%91%E4%B8%80%E5%BC%80%E5%A7%8B%E6%92%AD%E6%94%BE%E6%97%B6%E5%B0%B1%E8%AE%A1%E5%85%A5%E4%B8%80%E6%AC%A1%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0)
   - [好莱坞与字节跳动“休战” 签下AI版权协议](https://blog.upx8.com/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E4%B8%8E%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-%E4%BC%91%E6%88%98-%E7%AD%BE%E4%B8%8BAI%E7%89%88%E6%9D%83%E5%8D%8F%E8%AE%AE)
