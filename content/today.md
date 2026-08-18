@@ -12,10 +12,12 @@
   - [Kraken’s Krak debuts US debit card as Payward broadens financial services push](https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play](https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto](https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [SEC proposes new crypto rules in absence of CLARITY Act](https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings](https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/)
 - darkreading
   - ['CoSnitch' Attack Tricked Copilot into Mapping Out Architecture](https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture)
+  - [Critical GitLab Zero-Click Flaw Poses Mitigation Challenges](https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges)
 - Fidelis Security
   - [How Fidelis Enables High-Confidence Threat Detection](https://fidelissecurity.com/threatgeek/threat-detection-response/fidelis-enables-high-confidence-threat-detection/)
   - [What to Expect from an EDR Rollout: Deployment Considerations, Costs, and ROI](https://fidelissecurity.com/threatgeek/endpoint-security/edr-deployment-guide/)
@@ -23,8 +25,12 @@
   - [A local ePub eBook server for my xteink](https://solariz.de/posts/26/04-xteink-local-epub-server)
   - [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
   - [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
+  - [Claude Code Teaching macOS to Natively Print to the HP Laser 1008a](https://cdn.kuber.studio/chat/hp-laser-1008a-driver)
   - [Claude: Degraded Performance for Multiple Models](https://status.claude.com/incidents/q7txxvbsftgq)
+  - [Companies promote incompetent employees to management tolimit damage they can do](https://lawsofsoftwareengineering.com/laws/dilbert-principle/)
   - [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+  - [Find Chicago Parking Cops](https://www.secondcitycitation.com)
+  - [Flock impersonates journalist in order to cancel his hotel reservations](https://xcancel.com/bennjordan/status/2089430236945342508)
   - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
   - [IndieWeb Homebrew Website Club Asia Pacific: Reflections](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
   - [Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
@@ -37,6 +43,8 @@
   - [Hunting MacSync Stealer infrastructure through behavioral pivots](https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/)
 - NowSecure
   - [OWASP MASWE Hits v1.0: NowSecure Platform Already Maps to It](https://www.nowsecure.com/blog/2026/08/18/owasp-maswe-hits-v1-0-nowsecure-platform-already-maps-to-it/)
+- simonwillison.net
+  - [Mojo🔥 is now open source](https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/)
 - TechCrunch
   - [Apple overhauls its EU App Store fees, loosens rules for alternative app stores](https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/)
   - [Comcast adds motion sensing to millions of its newer routers, with a privacy catch](https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/)
@@ -49,6 +57,7 @@
   - [Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says](https://www.theblock.co/news/markets/2026-08-18-bitcoin-correction-may-nearing-end-8-capitulation-signals-flashing-vaneck-412130)
   - [Ripple CLO says Sept. 15 will be a ‘bellwether’ for Clarity Act market structure bill](https://www.theblock.co/news/regulation/2026-08-18-ripple-clo-september-15-bellwether-clarity-act-market-structure-bill-412142)
   - [SEC proposes new crypto offering rules as Congress stalls on digital asset legislation](https://www.theblock.co/news/regulation/2026-08-18-sec-proposes-new-crypto-offering-rules-congress-stalls-digital-asset-legislation-412145)
+  - [Solana Policy Institute CEO says Clarity Act in ‘August recess purgatory,’ gives it 10% odds before midterms](https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171)
   - [White House crypto adviser Patrick Witt says he is ‘optimistic and bullish’ on Clarity Act as stablecoin fight resurfaces](https://www.theblock.co/news/regulation/2026-08-18-white-house-crypto-adviser-patrick-witt-optimistic-bullish-clarity-act-stablecoin-fight-412160)
 - The Decoder
   - [New benchmark ranks search APIs for AI agents on quality, cost, and speed](https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/)
@@ -60,6 +69,8 @@
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [CVE-2026-68820 is in KEV. Here Is What CISA BOD 26-04 Actually Requires Now](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
+  - [CVE-2026-41921 Koha Stored XSS via Purchase Suggestion Handler](https://vulners.com/cve/CVE-2026-41921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-41921 Koha Stored XSS via Purchase Suggestion Handler](https://vulners.com/cvelist/CVELIST:CVE-2026-41921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48744 Saleor: Anonymous users can modify channel settings via `channelUpdate` due to `all([])` bypass in permission check](https://vulners.com/cve/CVE-2026-48744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48744 Saleor: Anonymous users can modify channel settings via `channelUpdate` due to `all([])` bypass in permission check](https://vulners.com/cvelist/CVELIST:CVE-2026-48744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66781 Submariner-operator: submariner-operator: ipsec psk stored cleartext in submariner cr spec](https://vulners.com/cve/CVE-2026-66781?utm_source=rss&utm_medium=rss&utm_campaign=rss)
