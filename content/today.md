@@ -52,6 +52,7 @@
 - TechCrunch
   - [AI automation startup Relay shuts down, staff joins Google’s Chrome team](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/)
   - [Amazon, once an online bookseller, is destroying rare books to train AI models](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/)
+  - [Anthropic’s annualized revenue surges to $65B](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/)
   - [Feedly attributes weeklong slowdown to bug, not its AI pivot](https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/)
   - [Groq raises $350M to fuel its pivot from AI chips to neocloud](https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/)
   - [Reddit begins testing a new audio and video experience, similar to popular TikTok videos](https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/)
@@ -83,3 +84,5 @@
 - 安全客
   - [1.1万个网站正被围攻！WordPress登录页惊现XSS2Shell漏洞，无需账号就能摸到服务器](https://www.anquanke.com/post/id/315980)
   - [满分10.0的漏洞，补丁发布3天就被打穿](https://www.anquanke.com/post/id/315976)
+- 黑海洋
+  - [Anthropic“年化营收”据传已突破650亿美元](https://blog.upx8.com/Anthropic-%E5%B9%B4%E5%8C%96%E8%90%A5%E6%94%B6-%E6%8D%AE%E4%BC%A0%E5%B7%B2%E7%AA%81%E7%A0%B4650%E4%BA%BF%E7%BE%8E%E5%85%83)
