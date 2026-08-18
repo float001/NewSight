@@ -16,10 +16,13 @@
   - [关于本站搜索框比较难发现的问题，是不是可以这样](https://2libra.com/post/forum-function/gCkmLhf)
   - [发现我的 Codex 账号有 1000 邀请额度，需要的可以留下邮箱，只有三个名额](https://2libra.com/post/invite-code/FfhA4MB)
   - [可能年纪到了吧](https://2libra.com/post/love/G0UXwMg)
+  - [好奇刷新的时候，这个天平数据为什么先显示默认的再显示最新的，而不是保持当前的再是最新的，难道是为了让用户可以感知这个数字是有变化吗](https://2libra.com/post/forum-function/Rv2wHRk)
   - [我想把电脑上的照片自动识别分类，有啥开源的轻量模型能做到吗？或者别的方案？](https://2libra.com/post/recommendations/dD2Xpfd)
+  - [摘下徽章也有 10 分钟冷却](https://2libra.com/post/forum-function/wIZJaUs)
   - [新病毒来了吗？？？](https://2libra.com/post/health-consultation/AJafu1u)
   - [有在用联通网络的么，官方给的测速地址靠谱不？](https://2libra.com/post/networking/lLyDAPY)
   - [有没有人同感本站的类似这种提示，停留时间有点长了？而且这个还会阻断事件，个人感觉体验有点不好](https://2libra.com/post/community/-vIgGHr)
+  - [有没有运维说说外面环境怎么样？](https://2libra.com/post/workplace-stories/3QQRwBI)
   - [每日微语早报 8 月 18 日](https://2libra.com/post/social-observation/w8rzrVi)
   - [潘多拉效果会把勋章效果盖掉了](https://2libra.com/post/forum-function/3YwsZ1W)
   - [用 ai 写了一个导航站](https://2libra.com/post/vibe-coding/ptTLz9m)
@@ -45,6 +48,8 @@
   - [Hidden Airtag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
   - [The Moon's shadow raced across the heart of Spain, and I was there to see it](https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/)
   - [US vaccination rates fall again as exemptions continue to rise, CDC data shows](https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/)
+- Cerbero Blog
+  - [Cerbero Suite 9 Release](https://blog.cerbero.io/cerbero-suite-9-release/)
 - CoinTelegraph
   - [Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation](https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance to plan UK relaunch with FCA license application: Report](https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -54,6 +59,7 @@
   - [China adds 8 banks to digital yuan network as operator count hits 30](https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum Foundation warns some tools may break with Glamsterdam upgrade](https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kraken launches US-listed stock trading for EEA customers](https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OCC approves Trump family crypto company for trust charter](https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea moves to block Polymarket over gambling concerns](https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea’s Jeonbuk Bank taps Ripple for cross-border payments](https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -76,6 +82,7 @@
 - Hacker News Frontpage
   - [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
   - [Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
+  - [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
   - [How I Over-Engineered My Book](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
   - [I don't enjoy the Internet any more](https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/)
   - [Meta faces 'astronomical' consequences as legal fight reaches critical moment](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html)
@@ -101,6 +108,7 @@
 - MIT Technology Review
   - [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/)
 - rtl-sdr.com
+  - [AntSDR T510 Pre-launch: A 1 MHz to 6 GHz SDR with 2 GHz Bandwidth and a Built-In NVIDIA Jetson](https://www.rtl-sdr.com/antsdr-t510-pre-launch-a-1-mhz-to-6-ghz-sdr-with-2-ghz-bandwidth-and-a-built-in-nvidia-jetson/)
   - [KrakenSDR Tested as a GNSS Jammer and Spoofer Localizer](https://www.rtl-sdr.com/krakensdr-tested-as-a-gnss-jammer-and-spoofer-localizer/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx](https://sploitus.com/exploit?id=C040B40C-390A-5021-BCC4-B56292CD14F0&utm_source=rss&utm_medium=rss)
@@ -112,8 +120,10 @@
   - [Amazon, once an online bookseller, is destroying rare books to train AI models](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/)
   - [Anthropic’s annualized revenue surges to $65B](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/)
   - [Detroit startup Grounded raises $5M to customize electric and gas-powered vans](https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/)
+  - [Einride strikes deal to add 500 Tesla Semis to its fleet](https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/)
   - [Feedly attributes weeklong slowdown to bug, not its AI pivot](https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/)
   - [Groq raises $350M to fuel its pivot from AI chips to neocloud](https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/)
+  - [Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’](https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/)
   - [Reddit begins testing a new audio and video experience, similar to popular TikTok videos](https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/)
   - [Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
   - [Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic](https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/)
@@ -124,6 +134,7 @@
   - [Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan](https://www.theblock.co/news/business/2026-08-17-bitcoin-production-slips-again-july-cleanspark-bitfufu-canaan-411985)
   - [Blockchain Association backs SEC’s proposal to scrap outdated NMS rules, citing tokenization benefits](https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069)
   - [Cathie Wood’s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%](https://www.theblock.co/news/markets/2026-08-18-cathie-wood-ark-invest-15-million-block-inc-412060)
+  - [Curve founder says FATF pressure could make DeFi safer and more decentralized](https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059)
   - [IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal](https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016)
   - [Kraken brings US stock trading to European Economic Area customers](https://www.theblock.co/news/business/2026-08-18-kraken-us-stock-trading-europe-economic-area-412027)
   - [Ripple partners with South Korea’s Jeonbuk Bank for cross-border payments](https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049)
@@ -131,11 +142,16 @@
   - [Tokenized equities triple market share as Ondo, Binance and xStocks dominate](https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996)
   - [Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction](https://www.theblock.co/news/markets/2026-08-18-upbit-bithumb-h1-decline-412034)
   - [US Treasury seeks public comment on GENIUS Act stablecoin rules](https://www.theblock.co/news/regulation/2026-08-17-us-treasury-seeks-public-comment-genius-act-stablecoin-rules-411987)
+  - [‘The Crypto Program’ promoter deported from Fiji over alleged $165 million Ponzi scheme](https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083)
 - The Decoder
   - [AI systems quietly drop user instructions when they compress context](https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/)
   - [Anthropic increases revenue sevenfold, hits annualized rate above $65 billion](https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/)
+  - [Anthropic's per-token cost runs 4.4 times the average on Vercel, and developers keep paying](https://the-decoder.com/anthropics-per-token-cost-runs-4-4-times-the-average-on-vercel-and-developers-keep-paying/)
 - The Verge
   - [Apple&#8217;s camera-equipped AirPods appear in leaked video](https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak)
+  - [ChatGPT is getting a dedicated mode for teens](https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode)
+  - [Elon Musk made flying even worse so Palantir could profit](https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir)
+  - [Fairphone’s latest repairable phone is going on sale in the US](https://www.theverge.com/tech/980876/fairphone-6-plus-us-t-mobile-amazon)
   - [Sonos finally added Live Activities controls for your iPhone lockscreen](https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities)
   - [The Analogue Pocket gets a Supreme makeover in red or gold](https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection)
   - [This compact Glorious mechanical keyboard is just $35](https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale)
@@ -145,11 +161,14 @@
 - troyhunt.com
   - [Weekly Update 517: Cyber Ransoms](https://www.troyhunt.com/weekly-update-517/)
 - Wired
+  - [Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To](https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/)
+  - [Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US](https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/)
   - [This R-Rated Film Studio Wants to Be the HBO of AI](https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/)
   - [What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy](https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/)
 - 不安全
   - [AI安全专题周报](https://buaq.net/go-435830.html)
   - [KrakenSDR Tested as a GNSS Jammer and Spoofer Localizer](https://buaq.net/go-435775.html)
+  - [LLMs and Contextual Integrity](https://buaq.net/go-435873.html)
   - [亚马逊变更使用条款 禁止用户发起集体诉讼 仅允许通过仲裁程序解决争议](https://buaq.net/go-435745.html)
   - [有开发者发现Kimi Work存在隐私问题 提交反馈时自动打包上传最近5个会话记录](https://buaq.net/go-435757.html)
   - [金融行业网络安全监测月报(202606)](https://buaq.net/go-435832.html)
