@@ -1,4 +1,22 @@
 # 今日安全资讯（2026-08-19）
 
+- buttondown.com/hillelwayne
+  - [Vim wants you to control, VSCode wants you to consume](https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/)
+- CoinTelegraph
+  - [Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’](https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play](https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Fidelis Security
+  - [How Fidelis Enables High-Confidence Threat Detection](https://fidelissecurity.com/threatgeek/threat-detection-response/fidelis-enables-high-confidence-threat-detection/)
+- Hacker News Frontpage
+  - [A local ePub eBook server for my xteink](https://solariz.de/posts/26/04-xteink-local-epub-server)
+  - [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
+  - [Claude: Degraded Performance for Multiple Models](https://status.claude.com/incidents/q7txxvbsftgq)
+  - [Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
+  - [Superpowers, Not Superintelligence](https://bond.now/news/superpowers-not-superintelligence)
+- NowSecure
+  - [OWASP MASWE Hits v1.0: NowSecure Platform Already Maps to It](https://www.nowsecure.com/blog/2026/08/18/owasp-maswe-hits-v1-0-nowsecure-platform-already-maps-to-it/)
+- TechCrunch
+  - [Comcast adds motion sensing to millions of its newer routers, with a privacy catch](https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/)
+  - [Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear](https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
