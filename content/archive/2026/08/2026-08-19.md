@@ -14,6 +14,8 @@
   - [Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto](https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC proposes new crypto rules in absence of CLARITY Act](https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [Apple Gives Legal Middle Finger to DOJ Challenge on Apple’s July Discovery Win](https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/)
+  - [Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License](https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794?st=XTL4tA)
   - [Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings](https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/)
 - darkreading
   - ['CoSnitch' Attack Tricked Copilot into Mapping Out Architecture](https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture)
@@ -48,6 +50,7 @@
 - TechCrunch
   - [Apple overhauls its EU App Store fees, loosens rules for alternative app stores](https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/)
   - [Comcast adds motion sensing to millions of its newer routers, with a privacy catch](https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/)
+  - [Cursor capitalizes on GitHub frustration, launches rival hosting platform](https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/)
   - [DOJ’s probe into Andreessen Horowitz over board seats baffles VCs](https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/)
   - [Etched’s valuation doubles to $21B in a month](https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/)
   - [OpenAI institutes new safeguards after Hugging Face breach](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/)
@@ -85,3 +88,5 @@
   - [Squeeze More Juice Out of a Dead Battery!](https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [Telegram 宣布已申请 .gram 顶级域名](https://blog.upx8.com/Telegram-%E5%AE%A3%E5%B8%83%E5%B7%B2%E7%94%B3%E8%AF%B7-gram-%E9%A1%B6%E7%BA%A7%E5%9F%9F%E5%90%8D)
