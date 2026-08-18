@@ -3,10 +3,14 @@
 - 2Libra
   - [8 月 18 日资本市场大事提醒](https://2libra.com/post/stock-market/4KgbeLR)
   - [codex 重置时间改为点击之后跳转界面才能看，掩耳盗铃吗，这体验真是改的一坨](https://2libra.com/post/ai-programming/oGzWEtf)
+  - [【今日笔记】活在当下：人生不是永无止境的考试](https://2libra.com/post/mental-health/pnxsIxS)
   - [【小小焚决】分享个人常用找书/漫画的网站以及选择 👍](https://2libra.com/post/sharing-discoveries/Svht5o9)
   - [【💰】codex 账号触发手机号验证是不是就没救了](https://2libra.com/post/ai-programming/d2V91bE)
   - [【💰】感觉时间过的越来越快了](https://2libra.com/post/personal-life/uKUDx1U)
+  - [你手机打字用 9 键还是 26 键？](https://2libra.com/post/questions/RqTOk0E)
   - [关于本站搜索框比较难发现的问题，是不是可以这样](https://2libra.com/post/forum-function/gCkmLhf)
+  - [可能年纪到了吧](https://2libra.com/post/love/G0UXwMg)
+  - [新病毒来了吗？？？](https://2libra.com/post/health-consultation/AJafu1u)
   - [每日微语早报 8 月 18 日](https://2libra.com/post/social-observation/w8rzrVi)
   - [第一次真正认真看 AI 短剧，真猛啊！](https://2libra.com/post/ai-applications/pbUCS-j)
   - [近 30 天的平衡值变化](https://2libra.com/post/forum-function/6wqNQWP)
@@ -22,6 +26,7 @@
   - [Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat](https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC seeks public input on AI compute futures contracts as CME eyes October launch](https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OCC approves Trump family crypto company for trust charter](https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [South Korea’s Jeonbuk Bank taps Ripple for cross-border payments](https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Treasury moves forward with rules on GENIUS Act after July deadline](https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express](https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daniel.haxx.se
@@ -60,6 +65,8 @@
   - [TryHackMe — Guided Pentest: Infrastructure | Full Walkthrough](https://infosecwriteups.com/tryhackme-guided-pentest-infrastructure-full-walkthrough-8984cd1806f4?source=rss----7b722bfd1b8d---4)
 - MIT Technology Review
   - [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/)
+- rtl-sdr.com
+  - [KrakenSDR Tested as a GNSS Jammer and Spoofer Localizer](https://www.rtl-sdr.com/krakensdr-tested-as-a-gnss-jammer-and-spoofer-localizer/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Sangoma Freepbx](https://sploitus.com/exploit?id=C040B40C-390A-5021-BCC4-B56292CD14F0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-71518](https://sploitus.com/exploit?id=1FA99D42-7CBF-5696-9184-2296F382F906&utm_source=rss&utm_medium=rss)
@@ -94,6 +101,7 @@
   - [This R-Rated Film Studio Wants to Be the HBO of AI](https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/)
   - [What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy](https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/)
 - 不安全
+  - [KrakenSDR Tested as a GNSS Jammer and Spoofer Localizer](https://buaq.net/go-435775.html)
   - [亚马逊变更使用条款 禁止用户发起集体诉讼 仅允许通过仲裁程序解决争议](https://buaq.net/go-435745.html)
   - [有开发者发现Kimi Work存在隐私问题 提交反馈时自动打包上传最近5个会话记录](https://buaq.net/go-435757.html)
 - 代码审计星球
