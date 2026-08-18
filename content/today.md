@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-08-18）
 
 - 2Libra
+  - [2Libra WEB 安装](https://2libra.com/post/sharing-discoveries/aanAbQM)
   - [8 月 18 日资本市场大事提醒](https://2libra.com/post/stock-market/4KgbeLR)
   - [codex 重置时间改为点击之后跳转界面才能看，掩耳盗铃吗，这体验真是改的一坨](https://2libra.com/post/ai-programming/oGzWEtf)
   - [【今日笔记】活在当下：人生不是永无止境的考试](https://2libra.com/post/mental-health/pnxsIxS)
@@ -11,12 +12,19 @@
   - [【💰】我要看天平倾斜！！！](https://2libra.com/post/community/Pc_fchM)
   - [你手机打字用 9 键还是 26 键？](https://2libra.com/post/questions/RqTOk0E)
   - [关于本站搜索框比较难发现的问题，是不是可以这样](https://2libra.com/post/forum-function/gCkmLhf)
+  - [发现我的 Codex 账号有 1000 邀请额度，需要的可以留下邮箱，只有三个名额](https://2libra.com/post/invite-code/FfhA4MB)
   - [可能年纪到了吧](https://2libra.com/post/love/G0UXwMg)
   - [新病毒来了吗？？？](https://2libra.com/post/health-consultation/AJafu1u)
   - [每日微语早报 8 月 18 日](https://2libra.com/post/social-observation/w8rzrVi)
+  - [用 ai 写了一个导航站](https://2libra.com/post/vibe-coding/ptTLz9m)
   - [第一次真正认真看 AI 短剧，真猛啊！](https://2libra.com/post/ai-applications/pbUCS-j)
   - [近 30 天的平衡值变化](https://2libra.com/post/forum-function/6wqNQWP)
   - [这个黑色背景，感觉不太舒服](https://2libra.com/post/forum-function/_Xa7FJc)
+- 360 Netlab Blog - 360
+  - [AI安全专题周报](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao/)
+  - [金融行业网络安全监测月报(202511)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202511/)
+- 360 Netlab Blog - Network Security Research Lab at 360
+  - [金融行业网络安全监测月报(202512)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202512/)
 - Ars Technica
   - [As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
   - [Hidden Airtag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
@@ -28,6 +36,7 @@
   - [Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat](https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC seeks public input on AI compute futures contracts as CME eyes October launch](https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum Foundation warns some tools may break with Glamsterdam upgrade](https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OCC approves Trump family crypto company for trust charter](https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea’s Jeonbuk Bank taps Ripple for cross-border payments](https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Treasury moves forward with rules on GENIUS Act after July deadline](https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -42,6 +51,8 @@
 - darkreading
   - [Adam Shostack Talks Hugging Face &amp; PHANTOM-B](https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b)
   - [Video Call Exploit Chains Two Flaws in Unisoc Modems](https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems)
+- defend.network
+  - [GitLab, Forminator WordPress, Azure breach: Critical RCEs and 3.6M records stolen](https://defend.network/briefings/gitlab-forminator-wordpress-azure-breach-critical-rce-2026-08-18.html)
 - Fidelis Security
   - [XDR Deployment Considerations: Data Privacy, Compliance, and Automated Incident Response](https://fidelissecurity.com/threatgeek/xdr-security/xdr-deployment-considerations/)
 - Hacker News Frontpage
@@ -89,6 +100,7 @@
 - The Block
   - [Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan](https://www.theblock.co/news/business/2026-08-17-bitcoin-production-slips-again-july-cleanspark-bitfufu-canaan-411985)
   - [IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal](https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016)
+  - [Ripple partners with South Korea’s Jeonbuk Bank for cross-border payments](https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049)
   - [Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground](https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998)
   - [Tokenized equities triple market share as Ondo, Binance and xStocks dominate](https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996)
   - [Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction](https://www.theblock.co/news/markets/2026-08-18-upbit-bithumb-h1-decline-412034)
@@ -118,6 +130,7 @@
   - [满分10.0的漏洞，补丁发布3天就被打穿](https://www.anquanke.com/post/id/315976)
 - 爱范儿
   - [87 岁富豪花 2.7 亿元买下法拉利，史上最贵电车诞生！](https://www.ifanr.com/1675437?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [奔驰连发两款重磅油车：C 级全面焕新，国产 GLE 剑指 X5L](https://www.ifanr.com/1675486?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜宇树「超人」原地跳高2米/小米SU7系列交付突破50万台/豆包支持手机远程操作电脑](https://www.ifanr.com/1675451?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [网友把DeepSeek Harness玩成了赛博乐高，我们挑出了最有意思的11 个插件](https://www.ifanr.com/1675387?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
