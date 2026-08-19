@@ -8,6 +8,7 @@
   - [【投票】站长为什么设置用户名不支持中文，有什么原因吗？](https://2libra.com/post/forum-function/aT-DZzM)
   - [【💰】爆率拉满，今日话题，推荐一下你手机里好用的 app](https://2libra.com/post/software-tools/F3rIP-n)
   - [七夕大家怎么过](https://2libra.com/post/festival-things/VMpKKYd)
+  - [今年七夕取消了，因为牛郎的牛去演牛来了](https://2libra.com/post/festival-things/yMEeU1a)
   - [白頭髮越來越多了](https://2libra.com/post/personal-life/plJ-YmA)
 - buttondown.com/hillelwayne
   - [Vim wants you to control, VSCode wants you to consume](https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/)
@@ -20,6 +21,7 @@
   - [Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play](https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto](https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC proposes new crypto rules in absence of CLARITY Act](https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US accounting board FASB proposes conditions for stablecoins as cash equivalents](https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple Gives Legal Middle Finger to DOJ Challenge on Apple’s July Discovery Win](https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/)
   - [Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License](https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794?st=XTL4tA)
@@ -52,10 +54,16 @@
   - [US announces new sanctions on top ICC figures](https://www.bbc.com/news/articles/cnvnl0elz47o)
 - johndcook.com
   - [Big little hexagon](https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/)
+- Kali Linux Tutorials
+  - [How to Rename Directories in Linux: mv, Loops, and rename](https://kalilinuxtutorials.com/rename-directory-linux/)
+  - [id Command in Linux: Display User and Group Information](https://kalilinuxtutorials.com/id-command-linux/)
+  - [sed Delete Lines: Remove Lines by Number, Pattern, or Range](https://kalilinuxtutorials.com/sed-delete-lines/)
 - Microsoft Security Blog
   - [Hunting MacSync Stealer infrastructure through behavioral pivots](https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/)
 - NowSecure
   - [OWASP MASWE Hits v1.0: NowSecure Platform Already Maps to It](https://www.nowsecure.com/blog/2026/08/18/owasp-maswe-hits-v1-0-nowsecure-platform-already-maps-to-it/)
+- rtl-sdr.com
+  - [More Information about the FrameRF Technical Surveillance Counter-Measures Platform – Technical Guest Post](https://www.rtl-sdr.com/more-information-about-the-framerf-technical-surveillance-counter-measures-platform-technical-guest-post/)
 - simonwillison.net
   - [Mojo🔥 is now open source](https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/)
 - TechCrunch
@@ -69,6 +77,7 @@
   - [Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear](https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/)
 - The Block
   - [Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says](https://www.theblock.co/news/markets/2026-08-18-bitcoin-correction-may-nearing-end-8-capitulation-signals-flashing-vaneck-412130)
+  - [Kalshi files to launch perpetual futures tied to US stock index, copper](https://www.theblock.co/news/business/2026-08-18-kalshi-files-perps-equity-index-copper-412176)
   - [Ripple CLO says Sept. 15 will be a ‘bellwether’ for Clarity Act market structure bill](https://www.theblock.co/news/regulation/2026-08-18-ripple-clo-september-15-bellwether-clarity-act-market-structure-bill-412142)
   - [SEC proposes new crypto offering rules as Congress stalls on digital asset legislation](https://www.theblock.co/news/regulation/2026-08-18-sec-proposes-new-crypto-offering-rules-congress-stalls-digital-asset-legislation-412145)
   - [Solana Policy Institute CEO says Clarity Act in ‘August recess purgatory,’ gives it 10% odds before midterms](https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171)
@@ -100,8 +109,10 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [OpenAI 紧急暂停新模型训练，AI 开始进入「越聪明越危险」阶段](https://www.ifanr.com/1675512?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布](https://www.ifanr.com/1675531?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [牛来了又走了，AI 股神暴亏 300 亿内幕曝光：成也 AI，败也 AI](https://www.ifanr.com/1675462?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Telegram 宣布已申请 .gram 顶级域名](https://blog.upx8.com/Telegram-%E5%AE%A3%E5%B8%83%E5%B7%B2%E7%94%B3%E8%AF%B7-gram-%E9%A1%B6%E7%BA%A7%E5%9F%9F%E5%90%8D)
+  - [中国不透明基因治疗试验曝第3起死亡事件](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E4%B8%8D%E9%80%8F%E6%98%8E%E5%9F%BA%E5%9B%A0%E6%B2%BB%E7%96%97%E8%AF%95%E9%AA%8C%E6%9B%9D%E7%AC%AC3%E8%B5%B7%E6%AD%BB%E4%BA%A1%E4%BA%8B%E4%BB%B6)
   - [美移民执法局因隐私担忧禁用Meta眼镜](https://blog.upx8.com/%E7%BE%8E%E7%A7%BB%E6%B0%91%E6%89%A7%E6%B3%95%E5%B1%80%E5%9B%A0%E9%9A%90%E7%A7%81%E6%8B%85%E5%BF%A7%E7%A6%81%E7%94%A8Meta%E7%9C%BC%E9%95%9C)
