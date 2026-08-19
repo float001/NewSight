@@ -2,7 +2,11 @@
 
 - 2Libra
   - [8 月 19 日微语报，星期三，农历七月初七，工作愉快，生活喜乐！](https://2libra.com/post/social-observation/8y_iBNI)
+  - [8 月 19 日资本市场大事提醒](https://2libra.com/post/stock-market/7NIdlgF)
+  - [Qwen3.8 27B 现在讨论这么多，是不是平民级别无限 token 时代快来了？](https://2libra.com/post/large-models/xFm_kQW)
   - [“在文件夹中显示”无反应，Windows11](https://2libra.com/post/help-requests/Kt2NW3T)
+  - [【投票】站长为什么设置用户名不支持中文，有什么原因吗？](https://2libra.com/post/forum-function/aT-DZzM)
+  - [白頭髮越來越多了](https://2libra.com/post/personal-life/plJ-YmA)
 - buttondown.com/hillelwayne
   - [Vim wants you to control, VSCode wants you to consume](https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/)
 - CoinTelegraph
@@ -97,3 +101,4 @@
   - [牛来了又走了，AI 股神暴亏 300 亿内幕曝光：成也 AI，败也 AI](https://www.ifanr.com/1675462?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Telegram 宣布已申请 .gram 顶级域名](https://blog.upx8.com/Telegram-%E5%AE%A3%E5%B8%83%E5%B7%B2%E7%94%B3%E8%AF%B7-gram-%E9%A1%B6%E7%BA%A7%E5%9F%9F%E5%90%8D)
+  - [美移民执法局因隐私担忧禁用Meta眼镜](https://blog.upx8.com/%E7%BE%8E%E7%A7%BB%E6%B0%91%E6%89%A7%E6%B3%95%E5%B1%80%E5%9B%A0%E9%9A%90%E7%A7%81%E6%8B%85%E5%BF%A7%E7%A6%81%E7%94%A8Meta%E7%9C%BC%E9%95%9C)
