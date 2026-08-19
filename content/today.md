@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-08-19）
 
 - 2Libra
+  - [8 月 19 日微语报，星期三，农历七月初七，工作愉快，生活喜乐！](https://2libra.com/post/social-observation/8y_iBNI)
   - [“在文件夹中显示”无反应，Windows11](https://2libra.com/post/help-requests/Kt2NW3T)
 - buttondown.com/hillelwayne
   - [Vim wants you to control, VSCode wants you to consume](https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/)
