@@ -23,6 +23,7 @@
   - [今天被 python 气到红温](https://2libra.com/post/programming-languages/5PdIqjx)
   - [今年七夕取消了，因为牛郎的牛去演牛来了](https://2libra.com/post/festival-things/yMEeU1a)
   - [分享一款好喝的饮品--巴西柠檬水](https://2libra.com/post/personal-life/1g7tdRD)
+  - [只做文本处理（润色翻译）的话，有没有便宜甚至免费的 api 方案](https://2libra.com/post/ai-applications/9F_HPhM)
   - [如何才能在亚马逊上买苹果礼品卡不触发风控？](https://2libra.com/post/help-requests/rVkzUMW)
   - [平台上可以进行 vps 买卖？](https://2libra.com/post/questions/XfkCn0j)
   - [怎么感觉好久没看到榜一、榜二大哥水贴了](https://2libra.com/post/forum-function/X-WL7px)
@@ -45,6 +46,7 @@
   - [MAYAChain halts network after estimated $1.7M exploit](https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play](https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nexo launches regulated crypto-backed credit in Australia](https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ripple raises $275M for US prime brokerage to meet institutional demand](https://cointelegraph.com/news/ripple-raises-275m-us-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto](https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC proposes new crypto rules in absence of CLARITY Act](https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US accounting board FASB proposes conditions for stablecoins as cash equivalents](https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -76,6 +78,7 @@
   - [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
   - [Find Chicago Parking Cops](https://www.secondcitycitation.com)
   - [Flock impersonates journalist in order to cancel his hotel reservations](https://xcancel.com/bennjordan/status/2089430236945342508)
+  - [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
   - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
   - [IndieWeb Homebrew Website Club Asia Pacific: Reflections](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
   - [Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
@@ -90,6 +93,7 @@
   - [Faster Incident Response: How ANY.RUN Helps SOCs Cut MTTR by Up to 21 Minutes per Case](https://hackernoon.com/faster-incident-response-how-anyrun-helps-socs-cut-mttr-by-up-to-21-minutes-per-case?source=rss)
 - infosecurity-magazine.com
   - [ICO Urges Police to Improve Data Governance in Facial Recognition Rollouts](https://www.infosecurity-magazine.com/news/ico-police-data-governance-facial/)
+  - [OpenAI Tightens AI Safeguards Following Hugging Face Incident](https://www.infosecurity-magazine.com/news/openai-tightens-ai-safeguards/)
   - [Over 500 Critical Infrastructure Organizations Hit by Medusa Ransomware](https://www.infosecurity-magazine.com/news/critical-infrastructure-medusa/)
   - [UK Fraud Cases Hit Record High in 2026](https://www.infosecurity-magazine.com/news/uk-fraud-cases-hit-record-high/)
 - jeffgeerling.com
@@ -111,9 +115,12 @@
 - rtl-sdr.com
   - [More Information about the FrameRF Technical Surveillance Counter-Measures Platform – Technical Guest Post](https://www.rtl-sdr.com/more-information-about-the-framerf-technical-surveillance-counter-measures-platform-technical-guest-post/)
   - [VibeSDR Jr: Apple Watch RTL-SDR, KiwiSDR, UberSDR Client now Available](https://www.rtl-sdr.com/vibesdr-jr-apple-watch-rtl-sdr-kiwisdr-ubersdr-client-now-available/)
+- shkspr.mobi
+  - [Asymmetric Agents](https://shkspr.mobi/blog/2026/08/asymmetric-agents/)
 - simonwillison.net
   - [Mojo🔥 is now open source](https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/)
 - TechCrunch
+  - [AI isn’t close to curing cancer. This startup says it knows what it will take.](https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/)
   - [Apple overhauls its EU App Store fees, loosens rules for alternative app stores](https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/)
   - [Comcast adds motion sensing to millions of its newer routers, with a privacy catch](https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/)
   - [Cursor capitalizes on GitHub frustration, launches rival hosting platform](https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/)
@@ -123,8 +130,10 @@
   - [Relativity Networks raises $22 million to bring a faster kind of fiber to data centers](https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/)
   - [Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
   - [Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear](https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/)
+  - [You can Venmo your college tuition, for some reason](https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/)
 - The Block
   - [Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says](https://www.theblock.co/news/markets/2026-08-18-bitcoin-correction-may-nearing-end-8-capitulation-signals-flashing-vaneck-412130)
+  - [Bitwise CIO sees potential for 10-100x blockchain transaction growth as AI agents meet tokenized markets](https://www.theblock.co/news/ecosystems/2026-08-19-bitwise-cio-sees-potential-for-10-100x-blockchain-transaction-growth-as-ai-agents-meet-tokenized-markets-412196)
   - [Kalshi files to launch perpetual futures tied to US stock index, copper](https://www.theblock.co/news/business/2026-08-18-kalshi-files-perps-equity-index-copper-412176)
   - [Rain CEO says stablecoin payments reach more than 100,000 merchants without them knowing it](https://www.theblock.co/news/business/2026-08-19-rain-ceo-says-stablecoin-payments-reach-more-than-100000-merchants-without-them-knowing-it-412184)
   - [Ripple CLO says Sept. 15 will be a ‘bellwether’ for Clarity Act market structure bill](https://www.theblock.co/news/regulation/2026-08-18-ripple-clo-september-15-bellwether-clarity-act-market-structure-bill-412142)
@@ -136,10 +145,14 @@
   - [New benchmark ranks search APIs for AI agents on quality, cost, and speed](https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/)
   - [OpenAI says it's "pacing model development" as AI cybersecurity risks grow too dangerous](https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/)
 - The Verge
+  - [Amazon’s drones will soon deliver to nearly 500 US cities and towns](https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion)
   - [Framework gave its 12-inch laptop some hardware upgrades](https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability)
+  - [Nvidia’s new financial strategy does not compute](https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset)
   - [OpenAI lays out new security changes after its AI hacked Hugging Face](https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack)
   - [PlayStation&#8217;s wireless gaming speakers launch in November](https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder)
   - [Samsung’s Galaxy Buds 3 Pro are almost half off today](https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale)
+  - [The everyday tech I use to track my corgi](https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking)
+  - [The women’s soccer league trying to fix fantasy sports](https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [CVE-2026-68820 is in KEV. Here Is What CISA BOD 26-04 Actually Requires Now](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
@@ -162,12 +175,14 @@
   - [Garmin Watches Are Up to $250 Off Right Now On Amazon (2026)](https://www.wired.com/story/garmin-deals-august-2026/)
   - [Hot or Not Built the Internet We’re Still Swiping Through](https://www.wired.com/story/hot-or-not-built-the-internet-were-still-swiping-through/)
   - [Hotels.com Coupon Codes for August 2026](https://www.wired.com/story/hotels-com-coupon/)
+  - [I Tried a Window-Cleaning Robot: Do Not Recommend](https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/)
   - [LG Promo Codes and Coupons for August 2026](https://www.wired.com/story/lg-promo-code/)
   - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
   - [Newegg Promo Codes and Coupons for August 2026](https://www.wired.com/story/newegg-promo-code/)
   - [OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue](https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/)
   - [Reverse-Lookup Service Exposed Millions of Photos of People’s Faces](https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/)
   - [Squeeze More Juice Out of a Dead Battery!](https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/)
+  - [The Best Digital Wall Calendar (2026): Skylight, Everblog, Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/)
   - [There’s a Very Simple Reason Why You Love the Slate Truck](https://www.wired.com/story/theres-a-very-simple-reason-why-you-love-the-slate-truck/)
   - [Uber Eats Promo Codes: $15 Off│August 2026](https://www.wired.com/story/uber-eats-promo-code/)
   - [Ulta Promo Codes: Up to 20% Off in August 2026](https://www.wired.com/story/ulta-coupon/)
