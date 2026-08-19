@@ -37,6 +37,7 @@
 - buttondown.com/hillelwayne
   - [Vim wants you to control, VSCode wants you to consume](https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/)
 - CoinTelegraph
+  - [200,000 fake AI ‘victims’ deployed to scam bait online fraudsters](https://cointelegraph.com/magazine/fake-ai-victims-are-scam-baiting-600000-fraudsters-every-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop](https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs add $189M as August net inflows approach $1B](https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate](https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -50,6 +51,7 @@
   - [Ripple raises $275M for US prime brokerage to meet institutional demand](https://cointelegraph.com/news/ripple-raises-275m-us-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto](https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC proposes new crypto rules in absence of CLARITY Act](https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce](https://cointelegraph.com/news/sec-proposal-forward-inapt-crypto-rules-commissioner-peirce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US accounting board FASB proposes conditions for stablecoins as cash equivalents](https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [MAYAChain halts network after estimated $1.7M exploit](https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
@@ -85,7 +87,9 @@
   - [IndieWeb Homebrew Website Club Asia Pacific: Reflections](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
   - [Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
   - [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
+  - [Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma](https://twitter.com/NoubarAfeyan/status/2090050162441752787)
   - [Norway Should Buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai)
+  - [PostgreSQL for Everything](https://www.raphaelbauer.com:443/posts/postgresql-everything/)
   - [Show HN: Argus, agentic QA for teams whose coding agents move faster than QA](https://github.com/argus-testing/argus)
   - [Superpowers, Not Superintelligence](https://bond.now/news/superpowers-not-superintelligence)
   - [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
@@ -94,6 +98,7 @@
   - [Continuous Aggregate Refresh, Demystified: Invalidation, Lookback, and Late-Arriving Data](https://hackernoon.com/continuous-aggregate-refresh-demystified-invalidation-lookback-and-late-arriving-data?source=rss)
   - [Faster Incident Response: How ANY.RUN Helps SOCs Cut MTTR by Up to 21 Minutes per Case](https://hackernoon.com/faster-incident-response-how-anyrun-helps-socs-cut-mttr-by-up-to-21-minutes-per-case?source=rss)
 - infosecurity-magazine.com
+  - [Grandoreiro Resurfaces in Mexico With New DLL Sideloading Campaign](https://www.infosecurity-magazine.com/news/grandoreiro-mexico-dll-sideloading/)
   - [ICO Urges Police to Improve Data Governance in Facial Recognition Rollouts](https://www.infosecurity-magazine.com/news/ico-police-data-governance-facial/)
   - [OpenAI Tightens AI Safeguards Following Hugging Face Incident](https://www.infosecurity-magazine.com/news/openai-tightens-ai-safeguards/)
   - [Over 500 Critical Infrastructure Organizations Hit by Medusa Ransomware](https://www.infosecurity-magazine.com/news/critical-infrastructure-medusa/)
@@ -112,6 +117,8 @@
   - [The Download: AI’s self-improvement problem, and what’s driving the heat](https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/)
 - NowSecure
   - [OWASP MASWE Hits v1.0: NowSecure Platform Already Maps to It](https://www.nowsecure.com/blog/2026/08/18/owasp-maswe-hits-v1-0-nowsecure-platform-already-maps-to-it/)
+- OpenZeppelin Blog
+  - [TxFlow Security Audit](https://www.openzeppelin.com/news/txflow-security-audit)
 - pluralistic.net
   - [Pluralistic: The ordinariness of evil (19 Aug 2026)](https://pluralistic.net/2026/08/19/banaility/)
 - Product Hunt
@@ -130,14 +137,17 @@
   - [Cursor capitalizes on GitHub frustration, launches rival hosting platform](https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/)
   - [DOJ’s probe into Andreessen Horowitz over board seats baffles VCs](https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/)
   - [Etched’s valuation doubles to $21B in a month](https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/)
+  - [Home batteries are suddenly cheap and everywhere. Here’s why.](https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/)
   - [OpenAI institutes new safeguards after Hugging Face breach](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/)
   - [Relativity Networks raises $22 million to bring a faster kind of fiber to data centers](https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/)
   - [Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
+  - [The founder’s secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it](https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/)
   - [Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear](https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/)
   - [You can Venmo your college tuition, for some reason](https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/)
 - The Block
   - [Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says](https://www.theblock.co/news/markets/2026-08-18-bitcoin-correction-may-nearing-end-8-capitulation-signals-flashing-vaneck-412130)
   - [Bitwise CIO sees potential for 10-100x blockchain transaction growth as AI agents meet tokenized markets](https://www.theblock.co/news/ecosystems/2026-08-19-bitwise-cio-sees-potential-for-10-100x-blockchain-transaction-growth-as-ai-agents-meet-tokenized-markets-412196)
+  - [Ex-Signature Bank chair warns big banks could use blockchain to take market share from smaller rivals as N3XT goes global](https://www.theblock.co/news/business/2026-08-19-ex-signature-bank-chair-big-banks-blockchain-n3xt-412202)
   - [Kalshi files to launch perpetual futures tied to US stock index, copper](https://www.theblock.co/news/business/2026-08-18-kalshi-files-perps-equity-index-copper-412176)
   - [Rain CEO says stablecoin payments reach more than 100,000 merchants without them knowing it](https://www.theblock.co/news/business/2026-08-19-rain-ceo-says-stablecoin-payments-reach-more-than-100000-merchants-without-them-knowing-it-412184)
   - [Ripple CLO says Sept. 15 will be a ‘bellwether’ for Clarity Act market structure bill](https://www.theblock.co/news/regulation/2026-08-18-ripple-clo-september-15-bellwether-clarity-act-market-structure-bill-412142)
@@ -146,7 +156,11 @@
   - [Solana Policy Institute CEO says Clarity Act in ‘August recess purgatory,’ gives it 10% odds before midterms](https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171)
   - [White House crypto adviser Patrick Witt says he is ‘optimistic and bullish’ on Clarity Act as stablecoin fight resurfaces](https://www.theblock.co/news/regulation/2026-08-18-white-house-crypto-adviser-patrick-witt-optimistic-bullish-clarity-act-stablecoin-fight-412160)
 - The Decoder
+  - [AI labs are failing to keep their own systems in check](https://the-decoder.com/ai-labs-are-failing-to-keep-their-own-systems-in-check/)
   - [Anthropic passes OpenAI on revenue for the first time](https://the-decoder.com/anthropic-passes-openai-on-revenue-for-the-first-time/)
+  - [Anthropic says any lab can now let a language model agent run the whole protein design stack](https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/)
+  - [China lets Nvidia's H200 chips trickle onto the mainland to help its AI firms keep pace with the US](https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/)
+  - [GLM-5.3 tops the open-model rankings and undercuts rivals on price, but its release is delayed](https://the-decoder.com/glm-5-3-tops-the-open-model-rankings-and-undercuts-rivals-on-price-but-its-release-is-delayed/)
   - [New benchmark ranks search APIs for AI agents on quality, cost, and speed](https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/)
   - [OpenAI says it's "pacing model development" as AI cybersecurity risks grow too dangerous](https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/)
 - The Verge
@@ -161,6 +175,7 @@
   - [The women’s soccer league trying to fix fantasy sports](https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [CVE-2026-68820 is in KEV. Here Is What CISA BOD 26-04 Actually Requires Now](https://blog.qualys.com/category/product-tech)
+  - [Oracle Critical Patch Update, August 2026 Security Update Review](https://blog.qualys.com/category/vulnerabilities-threat-research)
 - Vulners.com RSS Feed
   - [CVE-2026-41921 Koha Stored XSS via Purchase Suggestion Handler](https://vulners.com/cve/CVE-2026-41921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41921 Koha Stored XSS via Purchase Suggestion Handler](https://vulners.com/cvelist/CVELIST:CVE-2026-41921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -228,6 +243,7 @@
   - [中国不透明基因治疗试验曝第3起死亡事件](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E4%B8%8D%E9%80%8F%E6%98%8E%E5%9F%BA%E5%9B%A0%E6%B2%BB%E7%96%97%E8%AF%95%E9%AA%8C%E6%9B%9D%E7%AC%AC3%E8%B5%B7%E6%AD%BB%E4%BA%A1%E4%BA%8B%E4%BB%B6)
   - [动画电影《牛来》豆瓣5.9分接近及格](https://blog.upx8.com/%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1-%E7%89%9B%E6%9D%A5-%E8%B1%86%E7%93%A35-9%E5%88%86%E6%8E%A5%E8%BF%91%E5%8F%8A%E6%A0%BC)
   - [影音流媒体服务Peacock的订阅即将涨价](https://blog.upx8.com/%E5%BD%B1%E9%9F%B3%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1Peacock%E7%9A%84%E8%AE%A2%E9%98%85%E5%8D%B3%E5%B0%86%E6%B6%A8%E4%BB%B7)
+  - [李飞飞：对年轻一代而言，AI最大的风险是剥夺自主性](https://blog.upx8.com/%E6%9D%8E%E9%A3%9E%E9%A3%9E-%E5%AF%B9%E5%B9%B4%E8%BD%BB%E4%B8%80%E4%BB%A3%E8%80%8C%E8%A8%80-AI%E6%9C%80%E5%A4%A7%E7%9A%84%E9%A3%8E%E9%99%A9%E6%98%AF%E5%89%A5%E5%A4%BA%E8%87%AA%E4%B8%BB%E6%80%A7)
   - [法国政府部门将用AI检测网络安全漏洞](https://blog.upx8.com/%E6%B3%95%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%83%A8%E9%97%A8%E5%B0%86%E7%94%A8AI%E6%A3%80%E6%B5%8B%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E)
   - [美移民执法局因隐私担忧禁用Meta眼镜](https://blog.upx8.com/%E7%BE%8E%E7%A7%BB%E6%B0%91%E6%89%A7%E6%B3%95%E5%B1%80%E5%9B%A0%E9%9A%90%E7%A7%81%E6%8B%85%E5%BF%A7%E7%A6%81%E7%94%A8Meta%E7%9C%BC%E9%95%9C)
   - [英国 giffgaff卡暂停封号且开始解封账号，允许用户携号转网和提取账户余额](https://blog.upx8.com/%E8%8B%B1%E5%9B%BD-giffgaff%E5%8D%A1%E6%9A%82%E5%81%9C%E5%B0%81%E5%8F%B7%E4%B8%94%E5%BC%80%E5%A7%8B%E8%A7%A3%E5%B0%81%E8%B4%A6%E5%8F%B7-%E5%85%81%E8%AE%B8%E7%94%A8%E6%88%B7%E6%90%BA%E5%8F%B7%E8%BD%AC%E7%BD%91%E5%92%8C%E6%8F%90%E5%8F%96%E8%B4%A6%E6%88%B7%E4%BD%99%E9%A2%9D)
