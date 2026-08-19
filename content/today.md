@@ -20,6 +20,7 @@
   - [Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings](https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/)
 - darkreading
   - ['CoSnitch' Attack Tricked Copilot into Mapping Out Architecture](https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture)
+  - [China-Linked Hacker Shows AI Capabilities in APAC Attack](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack)
   - [Critical GitLab Zero-Click Flaw Poses Mitigation Challenges](https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges)
 - Fidelis Security
   - [How Fidelis Enables High-Confidence Threat Detection](https://fidelissecurity.com/threatgeek/threat-detection-response/fidelis-enables-high-confidence-threat-detection/)
@@ -42,6 +43,8 @@
   - [Superpowers, Not Superintelligence](https://bond.now/news/superpowers-not-superintelligence)
   - [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
   - [US announces new sanctions on top ICC figures](https://www.bbc.com/news/articles/cnvnl0elz47o)
+- johndcook.com
+  - [Big little hexagon](https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/)
 - Microsoft Security Blog
   - [Hunting MacSync Stealer infrastructure through behavioral pivots](https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/)
 - NowSecure
@@ -89,5 +92,8 @@
   - [Squeeze More Juice Out of a Dead Battery!](https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布](https://www.ifanr.com/1675531?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [牛来了又走了，AI 股神暴亏 300 亿内幕曝光：成也 AI，败也 AI](https://www.ifanr.com/1675462?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Telegram 宣布已申请 .gram 顶级域名](https://blog.upx8.com/Telegram-%E5%AE%A3%E5%B8%83%E5%B7%B2%E7%94%B3%E8%AF%B7-gram-%E9%A1%B6%E7%BA%A7%E5%9F%9F%E5%90%8D)
