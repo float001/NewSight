@@ -3,6 +3,7 @@
 - 2Libra
   - [8 月 19 日微语报，星期三，农历七月初七，工作愉快，生活喜乐！](https://2libra.com/post/social-observation/8y_iBNI)
   - [8 月 19 日资本市场大事提醒](https://2libra.com/post/stock-market/7NIdlgF)
+  - [8 月 19 日，出新开 88vip 权益视频会员、夸克](https://2libra.com/post/promotion/9Z0PHcr)
   - [[自荐]小米表盘/快应用安装工具](https://2libra.com/post/promotion/CR2r37X)
   - [Qwen3.8 27B 现在讨论这么多，是不是平民级别无限 token 时代快来了？](https://2libra.com/post/large-models/xFm_kQW)
   - [“在文件夹中显示”无反应，Windows11](https://2libra.com/post/help-requests/Kt2NW3T)
@@ -12,6 +13,7 @@
   - [【💰】爆率拉满，今日话题，推荐一下你手机里好用的 app](https://2libra.com/post/software-tools/F3rIP-n)
   - [七夕大家怎么过](https://2libra.com/post/festival-things/VMpKKYd)
   - [今年七夕取消了，因为牛郎的牛去演牛来了](https://2libra.com/post/festival-things/yMEeU1a)
+  - [平台上可以进行 vps 买卖？](https://2libra.com/post/questions/XfkCn0j)
   - [白頭髮越來越多了](https://2libra.com/post/personal-life/plJ-YmA)
 - buttondown.com/hillelwayne
   - [Vim wants you to control, VSCode wants you to consume](https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/)
@@ -36,6 +38,10 @@
   - ['CoSnitch' Attack Tricked Copilot into Mapping Out Architecture](https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture)
   - [China-Linked Hacker Shows AI Capabilities in APAC Attack](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack)
   - [Critical GitLab Zero-Click Flaw Poses Mitigation Challenges](https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges)
+- defend.network
+  - [Microsoft Copilot, MLflow, and Windows Task Host under attack; ransomware exploitation confirmed](https://defend.network/briefings/copilot-mlflow-windows-ransomware-exploitation-2026-08-19.html)
+- ElcomSoft blog
+  - [Write Blockers in Forensics: What Controls How You Use Them?](https://blog.elcomsoft.com/2026/08/write-blockers-in-forensics-what-controls-how-you-use-them/)
 - Fidelis Security
   - [How Fidelis Enables High-Confidence Threat Detection](https://fidelissecurity.com/threatgeek/threat-detection-response/fidelis-enables-high-confidence-threat-detection/)
   - [What to Expect from an EDR Rollout: Deployment Considerations, Costs, and ROI](https://fidelissecurity.com/threatgeek/endpoint-security/edr-deployment-guide/)
@@ -68,6 +74,8 @@
   - [Hunting MacSync Stealer infrastructure through behavioral pivots](https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/)
 - NowSecure
   - [OWASP MASWE Hits v1.0: NowSecure Platform Already Maps to It](https://www.nowsecure.com/blog/2026/08/18/owasp-maswe-hits-v1-0-nowsecure-platform-already-maps-to-it/)
+- Product Hunt
+  - [Claude Watermark](https://www.producthunt.com/products/claude-watermark)
 - rtl-sdr.com
   - [More Information about the FrameRF Technical Surveillance Counter-Measures Platform – Technical Guest Post](https://www.rtl-sdr.com/more-information-about-the-framerf-technical-surveillance-counter-measures-platform-technical-guest-post/)
   - [VibeSDR Jr: Apple Watch RTL-SDR, KiwiSDR, UberSDR Client now Available](https://www.rtl-sdr.com/vibesdr-jr-apple-watch-rtl-sdr-kiwisdr-ubersdr-client-now-available/)
@@ -126,6 +134,7 @@
   - [Whoop Promo Codes: 20% Off This August 2026](https://www.wired.com/story/whoop-promo-code/)
 - 不安全
   - [built an MCP security scanner, decent example if you're learning static analysis / appsec](https://buaq.net/go-436035.html)
+  - [经过1年多的测试后微软宣布删除Windows 11拖拽分享功能 因为还会干扰正常功能](https://buaq.net/go-436058.html)
   - [英国giffgaff卡暂停封号且开始解封账号 允许用户携号转网和提取余额](https://buaq.net/go-436028.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -133,8 +142,10 @@
   - [OpenAI 紧急暂停新模型训练，AI 开始进入「越聪明越危险」阶段](https://www.ifanr.com/1675512?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布](https://www.ifanr.com/1675531?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [牛来了又走了，AI 股神暴亏 300 亿内幕曝光：成也 AI，败也 AI](https://www.ifanr.com/1675462?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [预售价 29.98 万元起，奕境 X9 想成为「半价问界 M9」](https://www.ifanr.com/1675579?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Telegram 宣布已申请 .gram 顶级域名](https://blog.upx8.com/Telegram-%E5%AE%A3%E5%B8%83%E5%B7%B2%E7%94%B3%E8%AF%B7-gram-%E9%A1%B6%E7%BA%A7%E5%9F%9F%E5%90%8D)
   - [中国不透明基因治疗试验曝第3起死亡事件](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E4%B8%8D%E9%80%8F%E6%98%8E%E5%9F%BA%E5%9B%A0%E6%B2%BB%E7%96%97%E8%AF%95%E9%AA%8C%E6%9B%9D%E7%AC%AC3%E8%B5%B7%E6%AD%BB%E4%BA%A1%E4%BA%8B%E4%BB%B6)
   - [影音流媒体服务Peacock的订阅即将涨价](https://blog.upx8.com/%E5%BD%B1%E9%9F%B3%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1Peacock%E7%9A%84%E8%AE%A2%E9%98%85%E5%8D%B3%E5%B0%86%E6%B6%A8%E4%BB%B7)
   - [美移民执法局因隐私担忧禁用Meta眼镜](https://blog.upx8.com/%E7%BE%8E%E7%A7%BB%E6%B0%91%E6%89%A7%E6%B3%95%E5%B1%80%E5%9B%A0%E9%9A%90%E7%A7%81%E6%8B%85%E5%BF%A7%E7%A6%81%E7%94%A8Meta%E7%9C%BC%E9%95%9C)
+  - [首款车型预售当晚App崩溃无法下单 高管自嘲“草台班子”](https://blog.upx8.com/%E9%A6%96%E6%AC%BE%E8%BD%A6%E5%9E%8B%E9%A2%84%E5%94%AE%E5%BD%93%E6%99%9AApp%E5%B4%A9%E6%BA%83%E6%97%A0%E6%B3%95%E4%B8%8B%E5%8D%95-%E9%AB%98%E7%AE%A1%E8%87%AA%E5%98%B2-%E8%8D%89%E5%8F%B0%E7%8F%AD%E5%AD%90)
