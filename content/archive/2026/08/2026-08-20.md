@@ -10,24 +10,33 @@
 - Ars Technica
   - [A fantastical journey unfolds in gorgeous Wildwood trailer](https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/)
 - CoinTelegraph
+  - [Crypto PAC notches primary wins, but loses $2M Florida race](https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FalconX, Ethena bring USDe backing assets into $1B institutional credit facility](https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [StanChart, HSBC execute first live transaction on Swift blockchain ledger](https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
   - [SilkParasite Threatens Central Asian Orgs With Flurry of RATs](https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats)
+- Fidelis Security
+  - [How DFIR Helps Determine Root Cause, Scope, and Impact After a Breach](https://fidelissecurity.com/threatgeek/threat-detection-response/digital-forensics-incident-response-dfir/)
 - Hacker News Frontpage
   - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679)
   - [Extensible Software in the Age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
+  - [Introducing MicroLighter](https://daverupert.com/2026/08/microlighter/)
   - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
   - [Show HN: Frugal Tokens – explore costs and usage across coding agents](https://demo.frugaltokens.com/)
+  - [The A.I. In Google's New Pixel 11 Is Not Helpful](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html)
 - Horizon3.ai
   - [Building Capacity and Resilience for U.S. Partners](https://horizon3.ai/downloads/whitepapers/cyber-diplomacy-capacity-resilience/)
   - [CTEM: From Visibility to Measurable Risk Reduction](https://horizon3.ai/intelligence/infographics/ctem-from-visibility-to-measurable-risk-reduction/)
 - IEEE Spectrum
   - [Gaining Leadership Backing for Your Innovations](https://spectrum.ieee.org/leadership-backing-innovation)
+- OpenAI Blog
+  - [Offering Zero Data Retention for frontier models](https://openai.com/index/our-commitment-to-zero-data-retention)
 - Sploitus.com Exploits RSS Feed
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=9E9A0CD5-B84D-5320-8535-4F27A33FCAAE&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Google launches new study tools for students across Search and Gemini](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)
   - [Meet the startup helping Wall Street put a price on AI compute](https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/)
+  - [Researchers say OpenAI revoked their access to limited cyber program](https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/)
   - [T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network](https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/)
   - [Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
 - The Block
@@ -35,7 +44,11 @@
   - [Grayscale’s latest Zcash ETF amendment shows DCG in talks to contribute 200,000 ZEC to fund](https://www.theblock.co/news/markets/2026-08-19-grayscale-zcash-etf-amendment-dcg-discussions-contribute-200000-zec-fund-412232)
   - [Injective becomes SEC-registered transfer agent as it expands tokenization push](https://www.theblock.co/news/regulation/2026-08-19-injective-becomes-sec-registered-transfer-agent-expands-tokenization-push-412225)
   - [OCC races to finalize GENIUS Act stablecoin rules by November](https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240)
+- The Decoder
+  - [Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn](https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/)
+  - [OpenAI fixes Codex bug that deleted real user files without permission](https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/)
 - The Verge
+  - [Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub)
   - [Google’s Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
   - [Google’s Pixel Watch 5 is promising — but it isn’t finished](https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch)
   - [Grab an iPad Air M4 for its lowest price since the June increase](https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale)
@@ -44,6 +57,7 @@
   - [The Pixel 11 isn’t the best Pixel of 2026, but it’s the smartest buy](https://www.theverge.com/tech/982190/google-pixel-11-review)
   - [The Pixel 11 Pro is a great phone, no thanks to its flashiest new features](https://www.theverge.com/tech/981713/google-pixel-11-pro-review)
   - [The wearable future is stuck in weird, experimental, existential limbo](https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai)
+  - [Watch Valve set up the Steam Frame in its own leaked videos](https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos)
   - [We reviewed the new Pixel lineup, ask us anything](https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama)
 - Vulners.com RSS Feed
   - [CVE-2026-71470 Acm-search-v2-rhel9: search-v2-operator: search cr imageoverride/arguments/envvar flow unsanitized into pods running impersonating sa](https://vulners.com/cvelist/CVELIST:CVE-2026-71470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
