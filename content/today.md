@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-08-19）
 
 - 2Libra
+  - [115 七夕开永久会员活动](https://2libra.com/post/sharing-discoveries/iiIkJ0h)
   - [8 月 19 日微语报，星期三，农历七月初七，工作愉快，生活喜乐！](https://2libra.com/post/social-observation/8y_iBNI)
   - [8 月 19 日资本市场大事提醒](https://2libra.com/post/stock-market/7NIdlgF)
   - [8 月 19 日，出新开 88vip 权益视频会员、夸克](https://2libra.com/post/promotion/9Z0PHcr)
@@ -12,18 +13,24 @@
   - [【Bug 反馈】每日潘多拉「缝缝补补（补签金币消耗减少）」Buff 未作用于补签门槛判断](https://2libra.com/post/community/9MrYHn0)
   - [【兑换码】七夕过了，爱没断！proxy001 陪你“代”你表白](https://2libra.com/post/promotion/nRNnGEx)
   - [【投票】站长为什么设置用户名不支持中文，有什么原因吗？](https://2libra.com/post/forum-function/aT-DZzM)
+  - [【搬运】giffgaff 复活了，官方说之前是误操作](https://2libra.com/post/networking/F2JfhVp)
   - [【💰】DIY 铝型材小柜子](https://2libra.com/post/personal-works/KeXSRHF)
+  - [【💰】大家给父母买保险了嘛，买的哪个险种，求推荐！](https://2libra.com/post/recommendations/6cPZwsf)
   - [【💰】爆率拉满，今日话题，推荐一下你手机里好用的 app](https://2libra.com/post/software-tools/F3rIP-n)
   - [七夕大家怎么过](https://2libra.com/post/festival-things/VMpKKYd)
   - [今天被 python 气到红温](https://2libra.com/post/programming-languages/5PdIqjx)
   - [今年七夕取消了，因为牛郎的牛去演牛来了](https://2libra.com/post/festival-things/yMEeU1a)
   - [分享一款好喝的饮品--巴西柠檬水](https://2libra.com/post/personal-life/1g7tdRD)
+  - [如何才能在亚马逊上买苹果礼品卡不触发风控？](https://2libra.com/post/help-requests/rVkzUMW)
   - [平台上可以进行 vps 买卖？](https://2libra.com/post/questions/XfkCn0j)
   - [我的 deepflood 账号登录不上去了，最近清理用户了吗](https://2libra.com/post/questions/n_3QVmd)
+  - [温和教育，过度包容造就的熊孩子](https://2libra.com/post/social-observation/EkLsfSi)
+  - [滑动变祖器](https://2libra.com/post/personal-works/ldnroZN)
   - [白頭髮越來越多了](https://2libra.com/post/personal-life/plJ-YmA)
 - buttondown.com/hillelwayne
   - [Vim wants you to control, VSCode wants you to consume](https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/)
 - CoinTelegraph
+  - [Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop](https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs add $189M as August net inflows approach $1B](https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate](https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain](https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -71,6 +78,8 @@
   - [Superpowers, Not Superintelligence](https://bond.now/news/superpowers-not-superintelligence)
   - [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
   - [US announces new sanctions on top ICC figures](https://www.bbc.com/news/articles/cnvnl0elz47o)
+- infosecurity-magazine.com
+  - [UK Fraud Cases Hit Record High in 2026](https://www.infosecurity-magazine.com/news/uk-fraud-cases-hit-record-high/)
 - jeffgeerling.com
   - [Hands-on with Raspberry Pi's CM5 Programming Jig](https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/)
 - johndcook.com
@@ -132,6 +141,7 @@
   - [50% Off DoorDash Promo Code | August 2026](https://www.wired.com/story/doordash-promo-code/)
   - [AT&T Promo Codes: $50 Off This August 2026](https://www.wired.com/story/att-promo-code/)
   - [Dyson Promo Codes: 25% Off in August 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+  - [Flock Has a Powerful New AI Tool for Police. We Got Its Code](https://www.wired.com/story/flock-safety-os-investigate/)
   - [Garmin Watches Are Up to $250 Off Right Now On Amazon (2026)](https://www.wired.com/story/garmin-deals-august-2026/)
   - [Hotels.com Coupon Codes for August 2026](https://www.wired.com/story/hotels-com-coupon/)
   - [LG Promo Codes and Coupons for August 2026](https://www.wired.com/story/lg-promo-code/)
@@ -144,9 +154,12 @@
   - [Wayfair Coupons: Up to 80% Off August 2026](https://www.wired.com/story/wayfair-promo-code/)
   - [Whoop Promo Codes: 20% Off This August 2026](https://www.wired.com/story/whoop-promo-code/)
 - 不安全
+  - [50,000 Stripe Secrets Leaked in Public Code](https://buaq.net/go-436088.html)
+  - [Breaking secure boot without breaking the crypto](https://buaq.net/go-436102.html)
   - [built an MCP security scanner, decent example if you're learning static analysis / appsec](https://buaq.net/go-436035.html)
   - [经过1年多的测试后微软宣布删除Windows 11拖拽分享功能 因为还会干扰正常功能](https://buaq.net/go-436058.html)
   - [英国giffgaff卡暂停封号且开始解封账号 允许用户携号转网和提取余额](https://buaq.net/go-436028.html)
+  - [面向部署的资源高效神经符号框架：用于运营技术网络中可解释的DDoS检测](https://buaq.net/go-436091.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -157,10 +170,13 @@
   - [纯电 315km 的插混方盒子：钛 7 DM 长续航版上市，起售价 19.58 万元](https://www.ifanr.com/1675594?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [预售价 29.98 万元起，奕境 X9 想成为「半价问界 M9」](https://www.ifanr.com/1675579?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [MiniMax核心工程负责人阿岛离职](https://www.qbitai.com/2026/08/475869.html)
   - [写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”](https://www.qbitai.com/2026/08/475476.html)
 - 黑海洋
   - [Telegram 宣布已申请 .gram 顶级域名](https://blog.upx8.com/Telegram-%E5%AE%A3%E5%B8%83%E5%B7%B2%E7%94%B3%E8%AF%B7-gram-%E9%A1%B6%E7%BA%A7%E5%9F%9F%E5%90%8D)
+  - [Windows为Win32应用提供单独权限管理](https://blog.upx8.com/Windows%E4%B8%BAWin32%E5%BA%94%E7%94%A8%E6%8F%90%E4%BE%9B%E5%8D%95%E7%8B%AC%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86)
   - [中国不透明基因治疗试验曝第3起死亡事件](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E4%B8%8D%E9%80%8F%E6%98%8E%E5%9F%BA%E5%9B%A0%E6%B2%BB%E7%96%97%E8%AF%95%E9%AA%8C%E6%9B%9D%E7%AC%AC3%E8%B5%B7%E6%AD%BB%E4%BA%A1%E4%BA%8B%E4%BB%B6)
   - [影音流媒体服务Peacock的订阅即将涨价](https://blog.upx8.com/%E5%BD%B1%E9%9F%B3%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1Peacock%E7%9A%84%E8%AE%A2%E9%98%85%E5%8D%B3%E5%B0%86%E6%B6%A8%E4%BB%B7)
+  - [法国政府部门将用AI检测网络安全漏洞](https://blog.upx8.com/%E6%B3%95%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%83%A8%E9%97%A8%E5%B0%86%E7%94%A8AI%E6%A3%80%E6%B5%8B%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E)
   - [美移民执法局因隐私担忧禁用Meta眼镜](https://blog.upx8.com/%E7%BE%8E%E7%A7%BB%E6%B0%91%E6%89%A7%E6%B3%95%E5%B1%80%E5%9B%A0%E9%9A%90%E7%A7%81%E6%8B%85%E5%BF%A7%E7%A6%81%E7%94%A8Meta%E7%9C%BC%E9%95%9C)
   - [首款车型预售当晚App崩溃无法下单 高管自嘲“草台班子”](https://blog.upx8.com/%E9%A6%96%E6%AC%BE%E8%BD%A6%E5%9E%8B%E9%A2%84%E5%94%AE%E5%BD%93%E6%99%9AApp%E5%B4%A9%E6%BA%83%E6%97%A0%E6%B3%95%E4%B8%8B%E5%8D%95-%E9%AB%98%E7%AE%A1%E8%87%AA%E5%98%B2-%E8%8D%89%E5%8F%B0%E7%8F%AD%E5%AD%90)
