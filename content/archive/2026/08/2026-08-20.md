@@ -27,6 +27,7 @@
   - [How DFIR Helps Determine Root Cause, Scope, and Impact After a Breach](https://fidelissecurity.com/threatgeek/threat-detection-response/digital-forensics-incident-response-dfir/)
 - Hacker News Frontpage
   - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679)
+  - [Collaborative Human Agent Protocol (CHAP)](https://github.com/BrightbeamAI/chap)
   - [Extensible Software in the Age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
   - [From Quantum Relative Entropy to the Semiclassical Einstein Equations](https://arxiv.org/abs/2510.24491)
   - [Introducing MicroLighter](https://daverupert.com/2026/08/microlighter/)
@@ -44,6 +45,9 @@
   - [Gaining Leadership Backing for Your Innovations](https://spectrum.ieee.org/leadership-backing-innovation)
 - OpenAI Blog
   - [Offering Zero Data Retention for frontier models](https://openai.com/index/our-commitment-to-zero-data-retention)
+- simonwillison.net
+  - [Conceptual integrity and counting lines of code](https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/)
+  - [Quoting Jeremy Morrell](https://simonwillison.net/2026/Aug/19/jeremy-morrell/)
 - Sploitus.com Exploits RSS Feed
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=9E9A0CD5-B84D-5320-8535-4F27A33FCAAE&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -52,13 +56,16 @@
   - [Gambling on the Little League World Series? Sports bettors have gone too far](https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/)
   - [Google launches new study tools for students across Search and Gemini](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)
   - [Meet the startup helping Wall Street put a price on AI compute](https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/)
+  - [OpenAI seeks to one-up Anthropic with new customer privacy protections](https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/)
   - [Researchers say OpenAI revoked their access to limited cyber program](https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/)
   - [Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth](https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/)
   - [T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network](https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/)
   - [Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
   - [Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’](https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/)
+  - [Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities](https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/)
 - The Block
   - [Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally](https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248)
+  - [Congress can still ‘land this plane’ on crypto bill as ethics talks stall, says Democratic Sen. Gallego](https://www.theblock.co/news/regulation/2026-08-19-congress-can-still-land-this-plane-crypto-bill-ethics-talks-stall-democratic-sen-gallego-412272)
   - [Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)
   - [Grayscale’s latest Zcash ETF amendment shows DCG in talks to contribute 200,000 ZEC to fund](https://www.theblock.co/news/markets/2026-08-19-grayscale-zcash-etf-amendment-dcg-discussions-contribute-200000-zec-fund-412232)
   - [HYPE token surges after Trump says CFTC is working to bring Hyperliquid to US in ‘fully compliant fashion’](https://www.theblock.co/news/regulation/2026-08-19-hype-token-surges-trump-says-cftc-bring-hyperliquid-us-fully-compliant-fashion-412262)
@@ -68,6 +75,7 @@
   - [Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn](https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/)
   - [OpenAI fixes Codex bug that deleted real user files without permission](https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/)
 - The Verge
+  - [Does giving a camera wings dodge the FCC’s drone ban?](https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo)
   - [Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub)
   - [Google’s Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
   - [Google’s Pixel Watch 5 is promising — but it isn’t finished](https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch)
@@ -91,3 +99,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [不打招呼直接锁死服务器：Sorry勒索病毒国内多点爆发，专挑中小企业下手](https://www.anquanke.com/post/id/315994)
+- 黑海洋
+  - [亚马逊无人机配送将覆盖近500个美国城市](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%85%8D%E9%80%81%E5%B0%86%E8%A6%86%E7%9B%96%E8%BF%91500%E4%B8%AA%E7%BE%8E%E5%9B%BD%E5%9F%8E%E5%B8%82)
