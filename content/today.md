@@ -1,11 +1,36 @@
 # 今日安全资讯（2026-08-20）
 
+- CoinTelegraph
+  - [StanChart, HSBC execute first live transaction on Swift blockchain ledger](https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- darkreading
+  - [SilkParasite Threatens Central Asian Orgs With Flurry of RATs](https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats)
+- Hacker News Frontpage
+  - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679)
+  - [Extensible Software in the Age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
+  - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
+- Horizon3.ai
+  - [Building Capacity and Resilience for U.S. Partners](https://horizon3.ai/downloads/whitepapers/cyber-diplomacy-capacity-resilience/)
+  - [CTEM: From Visibility to Measurable Risk Reduction](https://horizon3.ai/intelligence/infographics/ctem-from-visibility-to-measurable-risk-reduction/)
+- Sploitus.com Exploits RSS Feed
+  - [nuclei-templates exploit](https://sploitus.com/exploit?id=9E9A0CD5-B84D-5320-8535-4F27A33FCAAE&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
 - The Block
   - [Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)
+  - [Grayscale’s latest Zcash ETF amendment shows DCG in talks to contribute 200,000 ZEC to fund](https://www.theblock.co/news/markets/2026-08-19-grayscale-zcash-etf-amendment-dcg-discussions-contribute-200000-zec-fund-412232)
+  - [Injective becomes SEC-registered transfer agent as it expands tokenization push](https://www.theblock.co/news/regulation/2026-08-19-injective-becomes-sec-registered-transfer-agent-expands-tokenization-push-412225)
+  - [OCC races to finalize GENIUS Act stablecoin rules by November](https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240)
 - The Verge
   - [Google’s Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
   - [Google’s Pixel Watch 5 is promising — but it isn’t finished](https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch)
+  - [Meta AI is getting a Mac app](https://www.theverge.com/tech/982270/meta-ai-mac-app)
   - [The Pixel 11 isn’t the best Pixel of 2026, but it’s the smartest buy](https://www.theverge.com/tech/982190/google-pixel-11-review)
   - [The Pixel 11 Pro is a great phone, no thanks to its flashiest new features](https://www.theverge.com/tech/981713/google-pixel-11-pro-review)
+  - [We reviewed the new Pixel lineup, ask us anything](https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama)
+- Vulners.com RSS Feed
+  - [nuclei-templates](https://vulners.com/gitee/9E9A0CD5-B84D-5320-8535-4F27A33FCAAE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks](https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/)
+  - [Google Pixel Watch 5 Review: More Health, More AI](https://www.wired.com/review/google-pixel-watch-5/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
