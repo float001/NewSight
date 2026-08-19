@@ -17,6 +17,7 @@
   - [【搬运】giffgaff 复活了，官方说之前是误操作](https://2libra.com/post/networking/F2JfhVp)
   - [【💰】 感觉最近总是空虚，萎靡不振，我是不是废了啊。好像无法改变，应该怎么调理自己呢？](https://2libra.com/post/mental-health/R2SwVaV)
   - [【💰】DIY 铝型材小柜子](https://2libra.com/post/personal-works/KeXSRHF)
+  - [【💰】今天是 2026-08-19，大 A 的韭菜们今天还好吗？](https://2libra.com/post/stock-market/MnVZd_r)
   - [【💰】大家给父母买保险了嘛，买的哪个险种，求推荐！](https://2libra.com/post/recommendations/6cPZwsf)
   - [【💰】爆率拉满，今日话题，推荐一下你手机里好用的 app](https://2libra.com/post/software-tools/F3rIP-n)
   - [七夕大家怎么过](https://2libra.com/post/festival-things/VMpKKYd)
@@ -78,6 +79,7 @@
   - [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
   - [Find Chicago Parking Cops](https://www.secondcitycitation.com)
   - [Flock impersonates journalist in order to cancel his hotel reservations](https://xcancel.com/bennjordan/status/2089430236945342508)
+  - [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
   - [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
   - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
   - [IndieWeb Homebrew Website Club Asia Pacific: Reflections](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
@@ -106,6 +108,8 @@
   - [sed Delete Lines: Remove Lines by Number, Pattern, or Range](https://kalilinuxtutorials.com/sed-delete-lines/)
 - Microsoft Security Blog
   - [Hunting MacSync Stealer infrastructure through behavioral pivots](https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/)
+- MIT Technology Review
+  - [The Download: AI’s self-improvement problem, and what’s driving the heat](https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/)
 - NowSecure
   - [OWASP MASWE Hits v1.0: NowSecure Platform Already Maps to It](https://www.nowsecure.com/blog/2026/08/18/owasp-maswe-hits-v1-0-nowsecure-platform-already-maps-to-it/)
 - pluralistic.net
@@ -142,9 +146,11 @@
   - [Solana Policy Institute CEO says Clarity Act in ‘August recess purgatory,’ gives it 10% odds before midterms](https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171)
   - [White House crypto adviser Patrick Witt says he is ‘optimistic and bullish’ on Clarity Act as stablecoin fight resurfaces](https://www.theblock.co/news/regulation/2026-08-18-white-house-crypto-adviser-patrick-witt-optimistic-bullish-clarity-act-stablecoin-fight-412160)
 - The Decoder
+  - [Anthropic passes OpenAI on revenue for the first time](https://the-decoder.com/anthropic-passes-openai-on-revenue-for-the-first-time/)
   - [New benchmark ranks search APIs for AI agents on quality, cost, and speed](https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/)
   - [OpenAI says it's "pacing model development" as AI cybersecurity risks grow too dangerous](https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/)
 - The Verge
+  - [Amazon seemingly leaked Jason Statham’s entire Mutiny movie](https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak)
   - [Amazon’s drones will soon deliver to nearly 500 US cities and towns](https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion)
   - [Framework gave its 12-inch laptop some hardware upgrades](https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability)
   - [Nvidia’s new financial strategy does not compute](https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset)
