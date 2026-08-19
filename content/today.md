@@ -7,17 +7,21 @@
 - 404 Media
   - ['I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman](https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/)
   - [Lifeforms Can Survive on ‘Significant’ Regions of the Moon, Study Finds](https://www.404media.co/lifeforms-can-survive-on-significant-regions-of-the-moon-study-finds/)
+  - [Podcast: Amazon is Destroying Rare Books to Train AI](https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/)
 - Ars Technica
   - [A fantastical journey unfolds in gorgeous Wildwood trailer](https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/)
+  - [Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops](https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/)
 - CERT Recently Published Vulnerability Notes
   - [VU#874418: RDK-B WebUI contains multiple vulnerabilities](https://kb.cert.org/vuls/id/874418)
 - CoinTelegraph
+  - [Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet](https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC notches primary wins, but loses $2M Florida race](https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FalconX, Ethena bring USDe backing assets into $1B institutional credit facility](https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [StanChart, HSBC execute first live transaction on Swift blockchain ledger](https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump pushes for CLARITY Act passage alongside crypto leaders](https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
+  - [No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns](https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns)
   - [SilkParasite Threatens Central Asian Orgs With Flurry of RATs](https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats)
 - Fidelis Security
   - [How DFIR Helps Determine Root Cause, Scope, and Impact After a Breach](https://fidelissecurity.com/threatgeek/threat-detection-response/digital-forensics-incident-response-dfir/)
@@ -46,12 +50,14 @@
   - [Google launches new study tools for students across Search and Gemini](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)
   - [Meet the startup helping Wall Street put a price on AI compute](https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/)
   - [Researchers say OpenAI revoked their access to limited cyber program](https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/)
+  - [Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth](https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/)
   - [T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network](https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/)
   - [Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
 - The Block
   - [Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally](https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248)
   - [Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)
   - [Grayscale’s latest Zcash ETF amendment shows DCG in talks to contribute 200,000 ZEC to fund](https://www.theblock.co/news/markets/2026-08-19-grayscale-zcash-etf-amendment-dcg-discussions-contribute-200000-zec-fund-412232)
+  - [HYPE token surges after Trump says CFTC is working to bring Hyperliquid to US in ‘fully compliant fashion’](https://www.theblock.co/news/regulation/2026-08-19-hype-token-surges-trump-says-cftc-bring-hyperliquid-us-fully-compliant-fashion-412262)
   - [Injective becomes SEC-registered transfer agent as it expands tokenization push](https://www.theblock.co/news/regulation/2026-08-19-injective-becomes-sec-registered-transfer-agent-expands-tokenization-push-412225)
   - [OCC races to finalize GENIUS Act stablecoin rules by November](https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240)
 - The Decoder
