@@ -35,6 +35,8 @@
   - [Show HN: Frugal Tokens – explore costs and usage across coding agents](https://demo.frugaltokens.com/)
   - [The A.I. In Google's New Pixel 11 Is Not Helpful](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html)
   - [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
+- HackerNoon
+  - [HireQuotient's EasySource Delivers 65% Reduction in Time to Fill, for North America's  Retail Gaint](https://hackernoon.com/hirequotients-easysource-delivers-65percent-reduction-in-time-to-fill-for-north-americas-retail-gaint?source=rss)
 - Horizon3.ai
   - [Building Capacity and Resilience for U.S. Partners](https://horizon3.ai/downloads/whitepapers/cyber-diplomacy-capacity-resilience/)
   - [CTEM: From Visibility to Measurable Risk Reduction](https://horizon3.ai/intelligence/infographics/ctem-from-visibility-to-measurable-risk-reduction/)
@@ -46,6 +48,7 @@
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=9E9A0CD5-B84D-5320-8535-4F27A33FCAAE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI was supposed to win people over by now — it hasn’t](https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/)
+  - [Cognition CEO denies report that SpaceX tried to acquire the startup](https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/)
   - [Gambling on the Little League World Series? Sports bettors have gone too far](https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/)
   - [Google launches new study tools for students across Search and Gemini](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)
   - [Meet the startup helping Wall Street put a price on AI compute](https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/)
@@ -53,6 +56,7 @@
   - [Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth](https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/)
   - [T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network](https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/)
   - [Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
+  - [Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’](https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/)
 - The Block
   - [Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally](https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248)
   - [Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)
@@ -76,6 +80,7 @@
   - [Watch Valve set up the Steam Frame in its own leaked videos](https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos)
   - [We reviewed the new Pixel lineup, ask us anything](https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama)
 - Vulners.com RSS Feed
+  - [CVE-2026-14978 Unicode normalization mismatch in go-slug ignore pattern matching may bypass intended file exclusions](https://vulners.com/cvelist/CVELIST:CVE-2026-14978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71470 Acm-search-v2-rhel9: search-v2-operator: search cr imageoverride/arguments/envvar flow unsanitized into pods running impersonating sa](https://vulners.com/cvelist/CVELIST:CVE-2026-71470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nuclei-templates](https://vulners.com/gitee/9E9A0CD5-B84D-5320-8535-4F27A33FCAAE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
