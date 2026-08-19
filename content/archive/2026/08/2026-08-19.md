@@ -30,6 +30,8 @@
   - [温和教育，过度包容造就的熊孩子](https://2libra.com/post/social-observation/EkLsfSi)
   - [滑动变祖器](https://2libra.com/post/personal-works/ldnroZN)
   - [白頭髮越來越多了](https://2libra.com/post/personal-life/plJ-YmA)
+- Articles | InfoStealers
+  - [Analyzing Stripe Breach: Confirmed Vendor Exposure and Claims of 20,000 Compromised APIs](https://www.infostealers.com/article/analyzing-stripe-breach-confirmed-vendor-exposure-and-claims-of-20000-compromised-apis/)
 - buttondown.com/hillelwayne
   - [Vim wants you to control, VSCode wants you to consume](https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/)
 - CoinTelegraph
@@ -42,6 +44,7 @@
   - [Kraken’s Krak debuts US debit card as Payward broadens financial services push](https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [MAYAChain halts network after estimated $1.7M exploit](https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play](https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Nexo launches regulated crypto-backed credit in Australia](https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto](https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC proposes new crypto rules in absence of CLARITY Act](https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US accounting board FASB proposes conditions for stablecoins as cash equivalents](https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -64,6 +67,7 @@
   - [What to Expect from an EDR Rollout: Deployment Considerations, Costs, and ROI](https://fidelissecurity.com/threatgeek/endpoint-security/edr-deployment-guide/)
 - Hacker News Frontpage
   - [A local ePub eBook server for my xteink](https://solariz.de/posts/26/04-xteink-local-epub-server)
+  - [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
   - [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
   - [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
   - [Claude Code Teaching macOS to Natively Print to the HP Laser 1008a](https://cdn.kuber.studio/chat/hp-laser-1008a-driver)
@@ -86,6 +90,7 @@
   - [Faster Incident Response: How ANY.RUN Helps SOCs Cut MTTR by Up to 21 Minutes per Case](https://hackernoon.com/faster-incident-response-how-anyrun-helps-socs-cut-mttr-by-up-to-21-minutes-per-case?source=rss)
 - infosecurity-magazine.com
   - [ICO Urges Police to Improve Data Governance in Facial Recognition Rollouts](https://www.infosecurity-magazine.com/news/ico-police-data-governance-facial/)
+  - [Over 500 Critical Infrastructure Organizations Hit by Medusa Ransomware](https://www.infosecurity-magazine.com/news/critical-infrastructure-medusa/)
   - [UK Fraud Cases Hit Record High in 2026](https://www.infosecurity-magazine.com/news/uk-fraud-cases-hit-record-high/)
 - jeffgeerling.com
   - [Hands-on with Raspberry Pi's CM5 Programming Jig](https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/)
@@ -121,7 +126,9 @@
 - The Block
   - [Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says](https://www.theblock.co/news/markets/2026-08-18-bitcoin-correction-may-nearing-end-8-capitulation-signals-flashing-vaneck-412130)
   - [Kalshi files to launch perpetual futures tied to US stock index, copper](https://www.theblock.co/news/business/2026-08-18-kalshi-files-perps-equity-index-copper-412176)
+  - [Rain CEO says stablecoin payments reach more than 100,000 merchants without them knowing it](https://www.theblock.co/news/business/2026-08-19-rain-ceo-says-stablecoin-payments-reach-more-than-100000-merchants-without-them-knowing-it-412184)
   - [Ripple CLO says Sept. 15 will be a ‘bellwether’ for Clarity Act market structure bill](https://www.theblock.co/news/regulation/2026-08-18-ripple-clo-september-15-bellwether-clarity-act-market-structure-bill-412142)
+  - [Scaramucci points to $100,000 bitcoin as ‘magic number’ for OG sellers, eyes AI-blockchain convergence](https://www.theblock.co/news/markets/2026-08-19-scaramucci-points-to-100000-bitcoin-as-magic-number-for-og-sellers-eyes-ai-blockchain-convergence-412190)
   - [SEC proposes new crypto offering rules as Congress stalls on digital asset legislation](https://www.theblock.co/news/regulation/2026-08-18-sec-proposes-new-crypto-offering-rules-congress-stalls-digital-asset-legislation-412145)
   - [Solana Policy Institute CEO says Clarity Act in ‘August recess purgatory,’ gives it 10% odds before midterms](https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171)
   - [White House crypto adviser Patrick Witt says he is ‘optimistic and bullish’ on Clarity Act as stablecoin fight resurfaces](https://www.theblock.co/news/regulation/2026-08-18-white-house-crypto-adviser-patrick-witt-optimistic-bullish-clarity-act-stablecoin-fight-412160)
@@ -129,6 +136,7 @@
   - [New benchmark ranks search APIs for AI agents on quality, cost, and speed](https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/)
   - [OpenAI says it's "pacing model development" as AI cybersecurity risks grow too dangerous](https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/)
 - The Verge
+  - [Framework gave its 12-inch laptop some hardware upgrades](https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability)
   - [OpenAI lays out new security changes after its AI hacked Hugging Face](https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack)
   - [PlayStation&#8217;s wireless gaming speakers launch in November](https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder)
   - [Samsung’s Galaxy Buds 3 Pro are almost half off today](https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale)
@@ -148,6 +156,7 @@
 - Wired
   - [50% Off DoorDash Promo Code | August 2026](https://www.wired.com/story/doordash-promo-code/)
   - [AT&T Promo Codes: $50 Off This August 2026](https://www.wired.com/story/att-promo-code/)
+  - [Dell XPS 13 vs. MacBook Neo: A Surprising Upset](https://www.wired.com/story/macbook-neo-vs-dell-xps-13/)
   - [Dyson Promo Codes: 25% Off in August 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
   - [Flock Has a Powerful New AI Tool for Police. We Got Its Code](https://www.wired.com/story/flock-safety-os-investigate/)
   - [Garmin Watches Are Up to $250 Off Right Now On Amazon (2026)](https://www.wired.com/story/garmin-deals-august-2026/)
@@ -159,10 +168,13 @@
   - [OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue](https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/)
   - [Reverse-Lookup Service Exposed Millions of Photos of People’s Faces](https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/)
   - [Squeeze More Juice Out of a Dead Battery!](https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/)
+  - [There’s a Very Simple Reason Why You Love the Slate Truck](https://www.wired.com/story/theres-a-very-simple-reason-why-you-love-the-slate-truck/)
   - [Uber Eats Promo Codes: $15 Off│August 2026](https://www.wired.com/story/uber-eats-promo-code/)
   - [Ulta Promo Codes: Up to 20% Off in August 2026](https://www.wired.com/story/ulta-coupon/)
   - [Wayfair Coupons: Up to 80% Off August 2026](https://www.wired.com/story/wayfair-promo-code/)
+  - [We Bought a $500 Counterfeit Rolex So Good, Even Rolex Didn’t Spot It](https://www.wired.com/story/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/)
   - [Whoop Promo Codes: 20% Off This August 2026](https://www.wired.com/story/whoop-promo-code/)
+  - [‘Your Excel Skills Suck’: The Power Users Turning Spreadsheets Into a Spectator Sport](https://www.wired.com/story/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport/)
 - 不安全
   - [50,000 Stripe Secrets Leaked in Public Code](https://buaq.net/go-436088.html)
   - [Breaking secure boot without breaking the crypto](https://buaq.net/go-436102.html)
@@ -171,9 +183,12 @@
   - [史前动物博物馆：和孩子一起看双语 3D 小博物馆，18 只恐龙](https://buaq.net/go-436105.html)
   - [经过1年多的测试后微软宣布删除Windows 11拖拽分享功能 因为还会干扰正常功能](https://buaq.net/go-436058.html)
   - [英国giffgaff卡暂停封号且开始解封账号 允许用户携号转网和提取余额](https://buaq.net/go-436028.html)
+  - [量子存储器间纠缠距离提升至 420 公里](https://buaq.net/go-436113.html)
   - [面向部署的资源高效神经符号框架：用于运营技术网络中可解释的DDoS检测](https://buaq.net/go-436091.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [量子存储器间纠缠距离提升至 420 公里](https://www.solidot.org/story?sid=85137)
 - 爱范儿
   - [OpenAI 紧急暂停新模型训练，AI 开始进入「越聪明越危险」阶段](https://www.ifanr.com/1675512?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [制糖工厂发布「绿魔」细雳线 Pro：2m 主动式高速贴贴线，重塑专业体验](https://www.ifanr.com/1675607?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -184,6 +199,7 @@
   - [预售价 29.98 万元起，奕境 X9 想成为「半价问界 M9」](https://www.ifanr.com/1675579?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [MiniMax核心工程负责人阿岛离职](https://www.qbitai.com/2026/08/475869.html)
+  - [全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会](https://www.qbitai.com/2026/08/475907.html)
   - [写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”](https://www.qbitai.com/2026/08/475476.html)
 - 黑海洋
   - [Telegram 宣布已申请 .gram 顶级域名](https://blog.upx8.com/Telegram-%E5%AE%A3%E5%B8%83%E5%B7%B2%E7%94%B3%E8%AF%B7-gram-%E9%A1%B6%E7%BA%A7%E5%9F%9F%E5%90%8D)
