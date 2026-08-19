@@ -29,6 +29,7 @@
   - [平台上可以进行 vps 买卖？](https://2libra.com/post/questions/XfkCn0j)
   - [怎么感觉好久没看到榜一、榜二大哥水贴了](https://2libra.com/post/forum-function/X-WL7px)
   - [我的 deepflood 账号登录不上去了，最近清理用户了吗](https://2libra.com/post/questions/n_3QVmd)
+  - [求大佬给个 L 站邀请码](https://2libra.com/post/help-requests/ADifdoJ)
   - [温和教育，过度包容造就的熊孩子](https://2libra.com/post/social-observation/EkLsfSi)
   - [滑动变祖器](https://2libra.com/post/personal-works/ldnroZN)
   - [白頭髮越來越多了](https://2libra.com/post/personal-life/plJ-YmA)
@@ -100,6 +101,7 @@
 - infosecurity-magazine.com
   - [Grandoreiro Resurfaces in Mexico With New DLL Sideloading Campaign](https://www.infosecurity-magazine.com/news/grandoreiro-mexico-dll-sideloading/)
   - [ICO Urges Police to Improve Data Governance in Facial Recognition Rollouts](https://www.infosecurity-magazine.com/news/ico-police-data-governance-facial/)
+  - [MaaS Campaign Combines ClickFix, ErrTraffic and Cruciferra](https://www.infosecurity-magazine.com/news/maas-clickfix-errtraffic-cruciferra/)
   - [OpenAI Tightens AI Safeguards Following Hugging Face Incident](https://www.infosecurity-magazine.com/news/openai-tightens-ai-safeguards/)
   - [Over 500 Critical Infrastructure Organizations Hit by Medusa Ransomware](https://www.infosecurity-magazine.com/news/critical-infrastructure-medusa/)
   - [UK Fraud Cases Hit Record High in 2026](https://www.infosecurity-magazine.com/news/uk-fraud-cases-hit-record-high/)
@@ -118,6 +120,7 @@
 - NowSecure
   - [OWASP MASWE Hits v1.0: NowSecure Platform Already Maps to It](https://www.nowsecure.com/blog/2026/08/18/owasp-maswe-hits-v1-0-nowsecure-platform-already-maps-to-it/)
 - OpenZeppelin Blog
+  - [StableGold Audit](https://www.openzeppelin.com/news/stablegold-audit)
   - [TxFlow Security Audit](https://www.openzeppelin.com/news/txflow-security-audit)
 - pluralistic.net
   - [Pluralistic: The ordinariness of evil (19 Aug 2026)](https://pluralistic.net/2026/08/19/banaility/)
@@ -132,6 +135,8 @@
   - [Mojo🔥 is now open source](https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/)
 - TechCrunch
   - [AI isn’t close to curing cancer. This startup says it knows what it will take.](https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/)
+  - [Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required](https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/)
+  - [Amazon’s Prime Air is taking off in nearly 500 U.S. cities](https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/)
   - [Apple overhauls its EU App Store fees, loosens rules for alternative app stores](https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/)
   - [Comcast adds motion sensing to millions of its newer routers, with a privacy catch](https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/)
   - [Cursor capitalizes on GitHub frustration, launches rival hosting platform](https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/)
@@ -140,6 +145,7 @@
   - [Home batteries are suddenly cheap and everywhere. Here’s why.](https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/)
   - [OpenAI institutes new safeguards after Hugging Face breach](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/)
   - [Relativity Networks raises $22 million to bring a faster kind of fiber to data centers](https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/)
+  - [Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment](https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/)
   - [Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
   - [The founder’s secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it](https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/)
   - [Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear](https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/)
@@ -164,6 +170,7 @@
   - [New benchmark ranks search APIs for AI agents on quality, cost, and speed](https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/)
   - [OpenAI says it's "pacing model development" as AI cybersecurity risks grow too dangerous](https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/)
 - The Verge
+  - [Amazon Fire TV devices are getting a free Alexa Plus upgrade](https://www.theverge.com/tech/982166/amazon-alexa-plus-fire-tv-free)
   - [Amazon seemingly leaked Jason Statham’s entire Mutiny movie](https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak)
   - [Amazon’s drones will soon deliver to nearly 500 US cities and towns](https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion)
   - [Framework gave its 12-inch laptop some hardware upgrades](https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability)
@@ -173,6 +180,8 @@
   - [Samsung’s Galaxy Buds 3 Pro are almost half off today](https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale)
   - [The everyday tech I use to track my corgi](https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking)
   - [The women’s soccer league trying to fix fantasy sports](https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app)
+- VentureBeat AI
+  - [VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push](https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [CVE-2026-68820 is in KEV. Here Is What CISA BOD 26-04 Actually Requires Now](https://blog.qualys.com/category/product-tech)
   - [Oracle Critical Patch Update, August 2026 Security Update Review](https://blog.qualys.com/category/vulnerabilities-threat-research)
@@ -210,6 +219,7 @@
   - [Wayfair Coupons: Up to 80% Off August 2026](https://www.wired.com/story/wayfair-promo-code/)
   - [We Bought a $500 Counterfeit Rolex So Good, Even Rolex Didn’t Spot It](https://www.wired.com/story/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/)
   - [Whoop Promo Codes: 20% Off This August 2026](https://www.wired.com/story/whoop-promo-code/)
+  - [Why Is It Absolute Hell to Buy a Movie Ticket Now?](https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/)
   - [‘Your Excel Skills Suck’: The Power Users Turning Spreadsheets Into a Spectator Sport](https://www.wired.com/story/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport/)
 - 不安全
   - [50,000 Stripe Secrets Leaked in Public Code](https://buaq.net/go-436088.html)
