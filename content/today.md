@@ -3,9 +3,12 @@
 - 2Libra
   - [8 月 19 日微语报，星期三，农历七月初七，工作愉快，生活喜乐！](https://2libra.com/post/social-observation/8y_iBNI)
   - [8 月 19 日资本市场大事提醒](https://2libra.com/post/stock-market/7NIdlgF)
+  - [[自荐]小米表盘/快应用安装工具](https://2libra.com/post/promotion/CR2r37X)
   - [Qwen3.8 27B 现在讨论这么多，是不是平民级别无限 token 时代快来了？](https://2libra.com/post/large-models/xFm_kQW)
   - [“在文件夹中显示”无反应，Windows11](https://2libra.com/post/help-requests/Kt2NW3T)
+  - [【Bug 反馈】每日潘多拉「缝缝补补（补签金币消耗减少）」Buff 未作用于补签门槛判断](https://2libra.com/post/community/9MrYHn0)
   - [【投票】站长为什么设置用户名不支持中文，有什么原因吗？](https://2libra.com/post/forum-function/aT-DZzM)
+  - [【💰】DIY 铝型材小柜子](https://2libra.com/post/personal-works/KeXSRHF)
   - [【💰】爆率拉满，今日话题，推荐一下你手机里好用的 app](https://2libra.com/post/software-tools/F3rIP-n)
   - [七夕大家怎么过](https://2libra.com/post/festival-things/VMpKKYd)
   - [今年七夕取消了，因为牛郎的牛去演牛来了](https://2libra.com/post/festival-things/yMEeU1a)
@@ -64,6 +67,7 @@
   - [OWASP MASWE Hits v1.0: NowSecure Platform Already Maps to It](https://www.nowsecure.com/blog/2026/08/18/owasp-maswe-hits-v1-0-nowsecure-platform-already-maps-to-it/)
 - rtl-sdr.com
   - [More Information about the FrameRF Technical Surveillance Counter-Measures Platform – Technical Guest Post](https://www.rtl-sdr.com/more-information-about-the-framerf-technical-surveillance-counter-measures-platform-technical-guest-post/)
+  - [VibeSDR Jr: Apple Watch RTL-SDR, KiwiSDR, UberSDR Client now Available](https://www.rtl-sdr.com/vibesdr-jr-apple-watch-rtl-sdr-kiwisdr-ubersdr-client-now-available/)
 - simonwillison.net
   - [Mojo🔥 is now open source](https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/)
 - TechCrunch
@@ -103,9 +107,23 @@
   - [CVE-2026-66783 Submariner-operator: submariner-operator: arbitrary image override enables privileged code execution on every node](https://vulners.com/cve/CVE-2026-66783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66783 Submariner-operator: submariner-operator: arbitrary image override enables privileged code execution on every node](https://vulners.com/cvelist/CVELIST:CVE-2026-66783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [50% Off DoorDash Promo Code | August 2026](https://www.wired.com/story/doordash-promo-code/)
+  - [AT&T Promo Codes: $50 Off This August 2026](https://www.wired.com/story/att-promo-code/)
+  - [Dyson Promo Codes: 25% Off in August 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
   - [Garmin Watches Are Up to $250 Off Right Now On Amazon (2026)](https://www.wired.com/story/garmin-deals-august-2026/)
+  - [Hotels.com Coupon Codes for August 2026](https://www.wired.com/story/hotels-com-coupon/)
+  - [LG Promo Codes and Coupons for August 2026](https://www.wired.com/story/lg-promo-code/)
+  - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
+  - [Newegg Promo Codes and Coupons for August 2026](https://www.wired.com/story/newegg-promo-code/)
   - [OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue](https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/)
   - [Squeeze More Juice Out of a Dead Battery!](https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/)
+  - [Uber Eats Promo Codes: $15 Off│August 2026](https://www.wired.com/story/uber-eats-promo-code/)
+  - [Ulta Promo Codes: Up to 20% Off in August 2026](https://www.wired.com/story/ulta-coupon/)
+  - [Wayfair Coupons: Up to 80% Off August 2026](https://www.wired.com/story/wayfair-promo-code/)
+  - [Whoop Promo Codes: 20% Off This August 2026](https://www.wired.com/story/whoop-promo-code/)
+- 不安全
+  - [built an MCP security scanner, decent example if you're learning static analysis / appsec](https://buaq.net/go-436035.html)
+  - [英国giffgaff卡暂停封号且开始解封账号 允许用户携号转网和提取余额](https://buaq.net/go-436028.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
