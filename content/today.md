@@ -6,6 +6,8 @@
   - [Qwen3.8 27B 现在讨论这么多，是不是平民级别无限 token 时代快来了？](https://2libra.com/post/large-models/xFm_kQW)
   - [“在文件夹中显示”无反应，Windows11](https://2libra.com/post/help-requests/Kt2NW3T)
   - [【投票】站长为什么设置用户名不支持中文，有什么原因吗？](https://2libra.com/post/forum-function/aT-DZzM)
+  - [【💰】爆率拉满，今日话题，推荐一下你手机里好用的 app](https://2libra.com/post/software-tools/F3rIP-n)
+  - [七夕大家怎么过](https://2libra.com/post/festival-things/VMpKKYd)
   - [白頭髮越來越多了](https://2libra.com/post/personal-life/plJ-YmA)
 - buttondown.com/hillelwayne
   - [Vim wants you to control, VSCode wants you to consume](https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/)
@@ -42,6 +44,7 @@
   - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
   - [IndieWeb Homebrew Website Club Asia Pacific: Reflections](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
   - [Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
+  - [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
   - [Norway Should Buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai)
   - [Show HN: Argus, agentic QA for teams whose coding agents move faster than QA](https://github.com/argus-testing/argus)
   - [Superpowers, Not Superintelligence](https://bond.now/news/superpowers-not-superintelligence)
