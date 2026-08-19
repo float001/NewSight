@@ -6,18 +6,25 @@
   - [8 月 19 日，出新开 88vip 权益视频会员、夸克](https://2libra.com/post/promotion/9Z0PHcr)
   - [[自荐]小米表盘/快应用安装工具](https://2libra.com/post/promotion/CR2r37X)
   - [Qwen3.8 27B 现在讨论这么多，是不是平民级别无限 token 时代快来了？](https://2libra.com/post/large-models/xFm_kQW)
+  - [Token 未来的趋势是否应该越来越便宜，真正值钱的是创意？](https://2libra.com/post/ai-trends/myjGrLD)
+  - [workbuddy 不是说免费用 hy3 么？ 怎么还超量了呢？](https://2libra.com/post/ai-tools/JTBTMo8)
   - [“在文件夹中显示”无反应，Windows11](https://2libra.com/post/help-requests/Kt2NW3T)
   - [【Bug 反馈】每日潘多拉「缝缝补补（补签金币消耗减少）」Buff 未作用于补签门槛判断](https://2libra.com/post/community/9MrYHn0)
+  - [【兑换码】七夕过了，爱没断！proxy001 陪你“代”你表白](https://2libra.com/post/promotion/nRNnGEx)
   - [【投票】站长为什么设置用户名不支持中文，有什么原因吗？](https://2libra.com/post/forum-function/aT-DZzM)
   - [【💰】DIY 铝型材小柜子](https://2libra.com/post/personal-works/KeXSRHF)
   - [【💰】爆率拉满，今日话题，推荐一下你手机里好用的 app](https://2libra.com/post/software-tools/F3rIP-n)
   - [七夕大家怎么过](https://2libra.com/post/festival-things/VMpKKYd)
+  - [今天被 python 气到红温](https://2libra.com/post/programming-languages/5PdIqjx)
   - [今年七夕取消了，因为牛郎的牛去演牛来了](https://2libra.com/post/festival-things/yMEeU1a)
+  - [分享一款好喝的饮品--巴西柠檬水](https://2libra.com/post/personal-life/1g7tdRD)
   - [平台上可以进行 vps 买卖？](https://2libra.com/post/questions/XfkCn0j)
+  - [我的 deepflood 账号登录不上去了，最近清理用户了吗](https://2libra.com/post/questions/n_3QVmd)
   - [白頭髮越來越多了](https://2libra.com/post/personal-life/plJ-YmA)
 - buttondown.com/hillelwayne
   - [Vim wants you to control, VSCode wants you to consume](https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/)
 - CoinTelegraph
+  - [Bitcoin ETFs add $189M as August net inflows approach $1B](https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate](https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain](https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’](https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -64,6 +71,8 @@
   - [Superpowers, Not Superintelligence](https://bond.now/news/superpowers-not-superintelligence)
   - [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
   - [US announces new sanctions on top ICC figures](https://www.bbc.com/news/articles/cnvnl0elz47o)
+- jeffgeerling.com
+  - [Hands-on with Raspberry Pi's CM5 Programming Jig](https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/)
 - johndcook.com
   - [Big little hexagon](https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/)
 - Kali Linux Tutorials
@@ -74,6 +83,8 @@
   - [Hunting MacSync Stealer infrastructure through behavioral pivots](https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/)
 - NowSecure
   - [OWASP MASWE Hits v1.0: NowSecure Platform Already Maps to It](https://www.nowsecure.com/blog/2026/08/18/owasp-maswe-hits-v1-0-nowsecure-platform-already-maps-to-it/)
+- pluralistic.net
+  - [Pluralistic: The ordinariness of evil (19 Aug 2026)](https://pluralistic.net/2026/08/19/banaility/)
 - Product Hunt
   - [Claude Watermark](https://www.producthunt.com/products/claude-watermark)
 - rtl-sdr.com
@@ -140,9 +151,13 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [OpenAI 紧急暂停新模型训练，AI 开始进入「越聪明越危险」阶段](https://www.ifanr.com/1675512?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [制糖工厂发布「绿魔」细雳线 Pro：2m 主动式高速贴贴线，重塑专业体验](https://www.ifanr.com/1675607?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布](https://www.ifanr.com/1675531?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [牛来了又走了，AI 股神暴亏 300 亿内幕曝光：成也 AI，败也 AI](https://www.ifanr.com/1675462?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [纯电 315km 的插混方盒子：钛 7 DM 长续航版上市，起售价 19.58 万元](https://www.ifanr.com/1675594?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [预售价 29.98 万元起，奕境 X9 想成为「半价问界 M9」](https://www.ifanr.com/1675579?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”](https://www.qbitai.com/2026/08/475476.html)
 - 黑海洋
   - [Telegram 宣布已申请 .gram 顶级域名](https://blog.upx8.com/Telegram-%E5%AE%A3%E5%B8%83%E5%B7%B2%E7%94%B3%E8%AF%B7-gram-%E9%A1%B6%E7%BA%A7%E5%9F%9F%E5%90%8D)
   - [中国不透明基因治疗试验曝第3起死亡事件](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E4%B8%8D%E9%80%8F%E6%98%8E%E5%9F%BA%E5%9B%A0%E6%B2%BB%E7%96%97%E8%AF%95%E9%AA%8C%E6%9B%9D%E7%AC%AC3%E8%B5%B7%E6%AD%BB%E4%BA%A1%E4%BA%8B%E4%BB%B6)
