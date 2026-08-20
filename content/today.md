@@ -35,6 +35,7 @@
   - [Crypto PAC notches primary wins, but loses $2M Florida race](https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FalconX, Ethena bring USDe backing assets into $1B institutional credit facility](https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Rushed CLARITY Act vote could set legislation back, Gallego warns](https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [StanChart, HSBC execute first live transaction on Swift blockchain ledger](https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump pushes for CLARITY Act passage alongside crypto leaders](https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
@@ -121,11 +122,23 @@
   - [CVE-2026-76800](https://vulners.com/nvd/NVD:CVE-2026-76800?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nuclei-templates](https://vulners.com/gitee/9E9A0CD5-B84D-5320-8535-4F27A33FCAAE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [20% Off Samsung Promo Code | August 2026](https://www.wired.com/story/samsung-promo-codes/)
+  - [Booking.com Promo Codes: 20% Off | August 2026](https://www.wired.com/story/booking-com-promo-code/)
+  - [Chewy Promo Codes: $20 Off August 2026](https://www.wired.com/story/chewy-promo-code/)
   - [Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks](https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/)
+  - [Dell Coupon Codes: 20% Off for August 2026](https://www.wired.com/story/dell-coupon-code/)
+  - [eBay Coupons: 20% Off in August 2026](https://www.wired.com/story/ebay-coupon-code/)
   - [Google Pixel Watch 5 Review: More Health, More AI](https://www.wired.com/review/google-pixel-watch-5/)
+  - [H&R Block Coupon: 25% Off DIY + Tax Pro Assist](https://www.wired.com/story/hr-block-coupon/)
   - [I Saw the Future of AI in a Robot That Can Learn on the Spot](https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/)
+  - [iRobot Promo Code: 15% Off](https://www.wired.com/story/irobot-promo-code/)
+  - [Nike Promo Codes and Discounts: 30% for August 2026](https://www.wired.com/story/nike-promo-code/)
+  - [Peacock Promo Codes: 40% Off August 2026](https://www.wired.com/story/peacock-promo-code/)
+  - [T-Mobile Promo Codes: 25% Off | August 2026](https://www.wired.com/story/t-mobile-business-promo-code/)
+  - [TurboTax Full Service Coupons This August](https://www.wired.com/story/turbotax-coupon/)
 - 不安全
   - [Nest v2026.08.17](https://buaq.net/go-436296.html)
+  - [pmg v0.26.0](https://buaq.net/go-436312.html)
   - [whosthere v0.8.3](https://buaq.net/go-436287.html)
   - [Windows IKE 扩展组件高危远程代码执行漏洞已遭在野利用](https://buaq.net/go-436299.html)
   - [医疗科技企业 CareCloud 数据泄露，波及 370 余万患者](https://buaq.net/go-436301.html)
@@ -136,6 +149,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [不打招呼直接锁死服务器：Sorry勒索病毒国内多点爆发，专挑中小企业下手](https://www.anquanke.com/post/id/315994)
+- 小刀志
+  - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
   - [iPhone X 彻底「停产」了，但我们还没走出它定义的时代｜明日后视镜](https://www.ifanr.com/1675378?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [【快讯】80 亿美元！「美国支付宝」买下全球最大 AI 中转站](https://www.ifanr.com/1675718?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -146,4 +161,6 @@
   - [亚马逊无人机配送将覆盖近500个美国城市](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%85%8D%E9%80%81%E5%B0%86%E8%A6%86%E7%9B%96%E8%BF%91500%E4%B8%AA%E7%BE%8E%E5%9B%BD%E5%9F%8E%E5%B8%82)
   - [摄像头版AirPods耳机仍将在2027年推出](https://blog.upx8.com/%E6%91%84%E5%83%8F%E5%A4%B4%E7%89%88AirPods%E8%80%B3%E6%9C%BA%E4%BB%8D%E5%B0%86%E5%9C%A82027%E5%B9%B4%E6%8E%A8%E5%87%BA)
   - [特朗普承认AI数据中心面临抵制：需要公关美化一下](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%9D%A2%E4%B8%B4%E6%8A%B5%E5%88%B6-%E9%9C%80%E8%A6%81%E5%85%AC%E5%85%B3%E7%BE%8E%E5%8C%96%E4%B8%80%E4%B8%8B)
+  - [给相机装上翅膀能规避FCC无人机禁令吗？](https://blog.upx8.com/%E7%BB%99%E7%9B%B8%E6%9C%BA%E8%A3%85%E4%B8%8A%E7%BF%85%E8%86%80%E8%83%BD%E8%A7%84%E9%81%BFFCC%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A6%81%E4%BB%A4%E5%90%97)
   - [美国年轻人对人工智能愈发敌视 担心失业](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%84%88%E5%8F%91%E6%95%8C%E8%A7%86-%E6%8B%85%E5%BF%83%E5%A4%B1%E4%B8%9A)
+  - [🎬 爱快 iKuai 路由系统曝高危漏洞：无线 AC 功能存在远程命令注入](https://blog.upx8.com/%E7%88%B1%E5%BF%AB-iKuai-%E8%B7%AF%E7%94%B1%E7%B3%BB%E7%BB%9F%E6%9B%9D%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E-%E6%97%A0%E7%BA%BF-AC-%E5%8A%9F%E8%83%BD%E5%AD%98%E5%9C%A8%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%B3%A8%E5%85%A5)
