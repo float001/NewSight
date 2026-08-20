@@ -20,10 +20,18 @@
   - [WordPress REST API Security: What the wp2shell Attack Chain Teaches Us](https://fidelissecurity.com/threatgeek/threat-detection-response/wordpress-rest-api-security-wp2shell-attack-chain/)
 - Hacker News Frontpage
   - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
+  - [Citizen Devs: Everyone is an engineer now](https://www.massdriver.cloud/blogs/the-citizen-developer)
+  - [Code as an Artifact](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
+  - [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
   - [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/)
   - [Stop Eating Lady Gaga's Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
   - [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
   - [URL shortener links stored in your ATProto PDS](https://atpr.to/)
+- HackerNoon
+  - [MemeCore Arrives on Nasdaq Through $1 Billion Landmark Treasury Transaction！](https://hackernoon.com/memecore-arrives-on-nasdaq-through-$1-billion-landmark-treasury-transaction?source=rss)
+  - [The Most Expensive Bug in My Trading System Was Me](https://hackernoon.com/the-most-expensive-bug-in-my-trading-system-was-me?source=rss)
+- Horizon3.ai
+  - [CVE-2026-19478 | MeGitLab CE/EE GraphQL Directive Code Injection Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-19478/)
 - TechCrunch
   - [A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds](https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/)
   - [Castelion hits $13B valuation to mass-produce hypersonic missiles](https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/)
@@ -39,6 +47,7 @@
   - [Senators demand answers from TikTok over experiment that disabled safeguards](https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/)
   - [Someone targeted security researchers using a fake crypto conference as a lure](https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/)
   - [The 2026 Startup Battlefield 200 is here — see who made the cut](https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/)
+  - [The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss](https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/)
   - [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
 - The Block
   - [Kraken parent Payward explores becoming a ‘full bank’ outside the US](https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390)
@@ -49,6 +58,7 @@
   - [Australia says Roblox hasn&#8217;t fixed its child predator problem](https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety)
   - [FCC officially decides gigabit speeds are too good for you](https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal)
   - [Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops](https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty)
+  - [Google Discover is getting an AI chatbot-tuned feed](https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed)
   - [Mark Zuckerberg bought an Irish castle](https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland)
   - [Riot is ending development on its League of Legends fighting game](https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development)
   - [The Genesis GV90 blows the bloody doors off what’s possible in EV design](https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor)
@@ -68,6 +78,16 @@
   - [CVE-2026-18272](https://vulners.com/nvd/NVD:CVE-2026-18272?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18273](https://vulners.com/nvd/NVD:CVE-2026-18273?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18274](https://vulners.com/nvd/NVD:CVE-2026-18274?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-43798](https://vulners.com/cvelist/CVELIST:CVE-2026-43798?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53804 OTRS Community Edition OS Command Injection via PGP Configuration](https://vulners.com/cvelist/CVELIST:CVE-2026-53804?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-67445 Mailpit: SMTP command parser buffers unbounded command lines before syntax rejection](https://vulners.com/cvelist/CVELIST:CVE-2026-67445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-67446 Mailpit: Thumbnail generation decodes unbounded image dimensions before scaling](https://vulners.com/cvelist/CVELIST:CVE-2026-67446?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68921 DiceBear: SVG injection via the unescaped rotate option in @dicebear/core (and fontSize/fontWeight in @dicebear/initials)](https://vulners.com/cvelist/CVELIST:CVE-2026-68921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-70653 libvips: Possible heap-based buffer read overflow when decoding a well-crafted RLE Radiance image](https://vulners.com/cvelist/CVELIST:CVE-2026-70653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-70654 libvips: A well-crafted PPM image processed via a custom source could lead to possible heap buffer write overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-70654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-74836 HTTP/2 connection-window starvation pins Plug processes indefinitely in Bandit](https://vulners.com/cvelist/CVELIST:CVE-2026-74836?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75484 HTTP/2 header field values containing CR, LF or NUL are passed to the application unvalidated in Bandit](https://vulners.com/cvelist/CVELIST:CVE-2026-75484?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77641](https://vulners.com/cvelist/CVELIST:CVE-2026-77641?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Silicon Valley Doesn't Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/)
 - 代码审计星球
