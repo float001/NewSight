@@ -3,9 +3,12 @@
 - 2Libra
   - [【💰】2026.08 近期 DIY 組裝電腦詢問](https://2libra.com/post/computers-accessories/1YMzH3F)
   - [一件小事](https://2libra.com/post/small-things/HmL_NH0)
+  - [今日潘多拉，回收了签到的一半。](https://2libra.com/post/forum-function/2XTF0W8)
   - [关于一键三连、高赞高打赏高收藏帖子的建议](https://2libra.com/post/forum-function/aV-sqEe)
   - [关于站内帖子链接展示的建议](https://2libra.com/post/forum-function/hxkViDM)
   - [出发](https://2libra.com/post/questions/oOJ9UQ5)
+  - [我今天试了一下 TRAE work,它的 code 比一般掺水的中转好用，可以试一下](https://2libra.com/post/promotion/pxvGcL1)
+  - [潘多拉与我无缘](https://2libra.com/post/forum-function/FsmfVU8)
 - 404 Media
   - ['I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman](https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/)
   - [Lifeforms Can Survive on ‘Significant’ Regions of the Moon, Study Finds](https://www.404media.co/lifeforms-can-survive-on-significant-regions-of-the-moon-study-finds/)
@@ -13,6 +16,7 @@
 - Ars Technica
   - [A fantastical journey unfolds in gorgeous Wildwood trailer](https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/)
   - [Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops](https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/)
+  - [NASA calls off mission to rescue Swift gamma-ray observatory](https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/)
 - CERT Recently Published Vulnerability Notes
   - [VU#874418: RDK-B WebUI contains multiple vulnerabilities](https://kb.cert.org/vuls/id/874418)
 - CoinTelegraph
@@ -35,6 +39,7 @@
   - [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724)
   - [Introducing MicroLighter](https://daverupert.com/2026/08/microlighter/)
   - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
+  - [Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo](https://fetzu.ch/blog/20260819_claudevsdrobo/)
   - [Ramp Launches a Model Router](https://router.com)
   - [Show HN: Frugal Tokens – explore costs and usage across coding agents](https://demo.frugaltokens.com/)
   - [The A.I. In Google's New Pixel 11 Is Not Helpful](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html)
@@ -104,6 +109,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [不打招呼直接锁死服务器：Sorry勒索病毒国内多点爆发，专挑中小企业下手](https://www.anquanke.com/post/id/315994)
+- 爱范儿
+  - [早报｜豆包进了特斯拉车机/曝苹果带摄像头AirPods延期至2027/宇树科技上市首日大涨460%​](https://www.ifanr.com/1675698?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [亚马逊无人机配送将覆盖近500个美国城市](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%85%8D%E9%80%81%E5%B0%86%E8%A6%86%E7%9B%96%E8%BF%91500%E4%B8%AA%E7%BE%8E%E5%9B%BD%E5%9F%8E%E5%B8%82)
   - [美国年轻人对人工智能愈发敌视 担心失业](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%84%88%E5%8F%91%E6%95%8C%E8%A7%86-%E6%8B%85%E5%BF%83%E5%A4%B1%E4%B8%9A)
