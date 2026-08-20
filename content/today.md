@@ -84,10 +84,15 @@
   - [CTEM: From Visibility to Measurable Risk Reduction](https://horizon3.ai/intelligence/infographics/ctem-from-visibility-to-measurable-risk-reduction/)
 - IEEE Spectrum
   - [Gaining Leadership Backing for Your Innovations](https://spectrum.ieee.org/leadership-backing-innovation)
+- infosecurity-magazine.com
+  - [Def Con Attendees Targeted by Persistent Phishing Campaign](https://www.infosecurity-magazine.com/news/def-con-attendees-persistent/)
+  - [Updated ToxicPanda Variant Targets 140+ Banking and Crypto Apps](https://www.infosecurity-magazine.com/news/updated-toxicpanda-140-banking/)
 - Kali Linux Tutorials
   - [chattr Command in Linux: Set File Attributes with lsattr](https://kalilinuxtutorials.com/chattr-command-linux/)
   - [env Command in Linux: Show and Set Environment Variables](https://kalilinuxtutorials.com/env-command-linux/)
   - [file Command in Linux: Identify File Types Without Extensions](https://kalilinuxtutorials.com/file-command-linux/)
+- MIT Technology Review
+  - [Unlocking hidden revenue streams with market models](https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/)
 - OpenAI Blog
   - [Offering Zero Data Retention for frontier models](https://openai.com/index/our-commitment-to-zero-data-retention)
 - simonwillison.net
@@ -98,6 +103,7 @@
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=9E9A0CD5-B84D-5320-8535-4F27A33FCAAE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI was supposed to win people over by now — it hasn’t](https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/)
+  - [Binance now lets AI agents trade, but keeping them in check is largely up to users](https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/)
   - [Cognition CEO denies report that SpaceX tried to acquire the startup](https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/)
   - [Gambling on the Little League World Series? Sports bettors have gone too far](https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/)
   - [Google launches new study tools for students across Search and Gemini](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)
@@ -122,6 +128,7 @@
   - [Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months](https://www.theblock.co/news/markets/2026-08-20-us-bitcoin-etf-517-million-inflows-412291)
 - The Decoder
   - [Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn](https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/)
+  - [China now has its own AI circular financing scheme](https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/)
   - [OpenAI builds safety system that catches misuse without storing customer data](https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/)
   - [OpenAI fixes Codex bug that deleted real user files without permission](https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/)
   - [Terence Tao says AI could trigger math's biggest crisis since Gödel](https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/)
@@ -131,6 +138,7 @@
   - [Google’s Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
   - [Google’s Pixel Watch 5 is promising — but it isn’t finished](https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch)
   - [Grab an iPad Air M4 for its lowest price since the June increase](https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale)
+  - [LG’s new OLED breakthrough can boost display lifespans](https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology)
   - [Meta AI is getting a Mac app](https://www.theverge.com/tech/982270/meta-ai-mac-app)
   - [OpenAI hit the brakes. Now what?](https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai)
   - [The Pixel 11 isn’t the best Pixel of 2026, but it’s the smartest buy](https://www.theverge.com/tech/982190/google-pixel-11-review)
@@ -152,6 +160,7 @@
   - [eBay Coupons: 20% Off in August 2026](https://www.wired.com/story/ebay-coupon-code/)
   - [Google Pixel Watch 5 Review: More Health, More AI](https://www.wired.com/review/google-pixel-watch-5/)
   - [H&R Block Coupon: 25% Off DIY + Tax Pro Assist](https://www.wired.com/story/hr-block-coupon/)
+  - [How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager](https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/)
   - [I Saw the Future of AI in a Robot That Can Learn on the Spot](https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/)
   - [iRobot Promo Code: 15% Off](https://www.wired.com/story/irobot-promo-code/)
   - [Nike Promo Codes and Discounts: 30% for August 2026](https://www.wired.com/story/nike-promo-code/)
@@ -172,6 +181,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [GitHub 公布本周八小时宕机事故原因](https://www.solidot.org/story?sid=85147)
   - [NASA 终止 Swift 天文台的拯救任务](https://www.solidot.org/story?sid=85142)
   - [科学家首次实验观测到真空涨落对超导的增强效应](https://www.solidot.org/story?sid=85146)
 - 安全客
