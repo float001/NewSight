@@ -43,6 +43,7 @@
 - Ars Technica
   - [A fantastical journey unfolds in gorgeous Wildwood trailer](https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/)
   - [Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops](https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/)
+  - [Genesis joins the giant electric SUV club with new GV90](https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/)
   - [NASA calls off mission to rescue Swift gamma-ray observatory](https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/)
 - CERT Recently Published Vulnerability Notes
   - [VU#874418: RDK-B WebUI contains multiple vulnerabilities](https://kb.cert.org/vuls/id/874418)
@@ -64,6 +65,7 @@
 - darkreading
   - ['Grandoreiro' Malware Resurfaces With Mexico Campaign](https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign)
   - [No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns](https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns)
+  - [Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks)
   - [SilkParasite Threatens Central Asian Orgs With Flurry of RATs](https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats)
 - defend.network
   - [Microsoft, VMware, Apple vulnerabilities actively exploited; CISA KEV additions demand immediate patching](https://defend.network/briefings/microsoft-vmware-apple-critical-exploitation-cisa-kev-2026-08-20.html)
@@ -77,6 +79,8 @@
 - Hacker News Frontpage
   - [AI didn't erase the junior engineer's value, it increased it it](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
   - [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
+  - [An elliptic curve of rank ≥ 30](https://elliptic-rank.icarm.cloud/curve/273)
+  - [Bun 1.4](https://bun.com/blog/bun-v1.4)
   - [Canonical Backs New Project to Translate Large C Codebases into Safe Rust](https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/)
   - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679)
   - [Collaborative Human Agent Protocol (CHAP)](https://github.com/BrightbeamAI/chap)
@@ -84,6 +88,8 @@
   - [Extensible Software in the Age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
   - [From Quantum Relative Entropy to the Semiclassical Einstein Equations](https://arxiv.org/abs/2510.24491)
   - [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724)
+  - [Hacking with Claude on a $27 Smart Watch](https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html)
+  - [Harvest hikes bills by 1500% after purchased by Bending Spoons](https://www.bbc.com/news/articles/clyq011414eo)
   - [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)
   - [Introducing MicroLighter](https://daverupert.com/2026/08/microlighter/)
   - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
@@ -104,6 +110,7 @@
 - infosecurity-magazine.com
   - [Def Con Attendees Targeted by Persistent Phishing Campaign](https://www.infosecurity-magazine.com/news/def-con-attendees-persistent/)
   - [ICS Operators Warned of AI-Driven Attacks on Siemens PLCs](https://www.infosecurity-magazine.com/news/ics-ai-attacks-siemens/)
+  - [JFrog Artifactory Flaws Enable Software Supply Chain Attacks](https://www.infosecurity-magazine.com/news/jfrog-flaws-software-supply-chain/)
   - [NCSC Urges Stronger Controls for Agentic AI Systems](https://www.infosecurity-magazine.com/news/ncsc-stronger-controls-agentic-ai/)
   - [Updated ToxicPanda Variant Targets 140+ Banking and Crypto Apps](https://www.infosecurity-magazine.com/news/updated-toxicpanda-140-banking/)
   - [US Defense Contractors Admit Their Rising CMMC Scores May Not Be Accurate](https://www.infosecurity-magazine.com/news/us-defense-contractors-cmmc-scores/)
@@ -164,6 +171,7 @@
 - The Decoder
   - [Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn](https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/)
   - [China now has its own AI circular financing scheme](https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/)
+  - [Frontier Radar #4: China has caught up, so what's left of the Western AI lead?](https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/)
   - [GEN-1.5: Generalist AI teaches robots new tasks from a single demo](https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/)
   - [KI-Pioneer Sutton calls synthetic data a "big mistake" in the face of an infinitely complex world](https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/)
   - [OpenAI builds safety system that catches misuse without storing customer data](https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/)
