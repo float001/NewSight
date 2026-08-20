@@ -44,6 +44,7 @@
 - CERT Recently Published Vulnerability Notes
   - [VU#874418: RDK-B WebUI contains multiple vulnerabilities](https://kb.cert.org/vuls/id/874418)
 - CoinTelegraph
+  - [Bitcoin ETFs draw $517M in largest one-day inflow since early May](https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet](https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitGo Korea secures VASP registration for institutional crypto custody](https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC notches primary wins, but loses $2M Florida race](https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -63,9 +64,11 @@
   - [Adobe Systems IPO August 20, 1986](https://dfarq.homeip.net/adobe-systems-ipo-august-20-1986/?utm_source=rss&utm_medium=rss&utm_campaign=adobe-systems-ipo-august-20-1986)
 - Fidelis Security
   - [How DFIR Helps Determine Root Cause, Scope, and Impact After a Breach](https://fidelissecurity.com/threatgeek/threat-detection-response/digital-forensics-incident-response-dfir/)
+  - [The Enterprise XDR Implementation Roadmap: From Planning to Measurable Outcomes](https://fidelissecurity.com/threatgeek/xdr-security/xdr-implementation-roadmap/)
 - gilesthomas.com
   - [Use the built-in GELU, don't roll your own!](https://www.gilesthomas.com/2026/08/built-in-gelu)
 - Hacker News Frontpage
+  - [AI didn't erase the junior engineer's value, it increased it it](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
   - [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
   - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679)
   - [Collaborative Human Agent Protocol (CHAP)](https://github.com/BrightbeamAI/chap)
@@ -76,6 +79,7 @@
   - [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)
   - [Introducing MicroLighter](https://daverupert.com/2026/08/microlighter/)
   - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
+  - [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)
   - [Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo](https://fetzu.ch/blog/20260819_claudevsdrobo/)
   - [Ramp Launches a Model Router](https://router.com)
   - [Show HN: Frugal Tokens – explore costs and usage across coding agents](https://demo.frugaltokens.com/)
@@ -126,11 +130,13 @@
   - [Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally](https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248)
   - [Congress can still ‘land this plane’ on crypto bill as ethics talks stall, says Democratic Sen. Gallego](https://www.theblock.co/news/regulation/2026-08-19-congress-can-still-land-this-plane-crypto-bill-ethics-talks-stall-democratic-sen-gallego-412272)
   - [Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)
+  - [Evernorth eyes DeFi opportunities as XRP Ledger weighs native lending](https://www.theblock.co/news/business/2026-08-20-evernorth-defi-xrp-ledger-native-lending-412315)
   - [Grayscale’s latest Zcash ETF amendment shows DCG in talks to contribute 200,000 ZEC to fund](https://www.theblock.co/news/markets/2026-08-19-grayscale-zcash-etf-amendment-dcg-discussions-contribute-200000-zec-fund-412232)
   - [GSR’s Baehr says tokenized fixed income could play key role in institutional collateral](https://www.theblock.co/news/business/2026-08-20-gsr-baehr-tokenized-institutional-collateral-412302)
   - [HYPE token surges after Trump says CFTC is working to bring Hyperliquid to US in ‘fully compliant fashion’](https://www.theblock.co/news/regulation/2026-08-19-hype-token-surges-trump-says-cftc-bring-hyperliquid-us-fully-compliant-fashion-412262)
   - [Injective becomes SEC-registered transfer agent as it expands tokenization push](https://www.theblock.co/news/regulation/2026-08-19-injective-becomes-sec-registered-transfer-agent-expands-tokenization-push-412225)
   - [OCC races to finalize GENIUS Act stablecoin rules by November](https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240)
+  - [OpenLedger’s Ram Kumar sees agentic payments as crypto’s first AI ‘killer app’](https://www.theblock.co/news/business/2026-08-20-openledger-ram-kumar-agentic-payments-crypto-ai-killer-app-412313)
   - [Securitize’s Redfearn says SEC held back crypto innovation exemption over Clarity Act politics](https://www.theblock.co/news/regulation/2026-08-20-securitizes-redfearn-sec-innovation-exemption-clarity-act-politics-412298)
   - [Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months](https://www.theblock.co/news/markets/2026-08-20-us-bitcoin-etf-517-million-inflows-412291)
 - The Decoder
@@ -145,9 +151,12 @@
   - [Google’s Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
   - [Google’s Pixel Watch 5 is promising — but it isn’t finished](https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch)
   - [Grab an iPad Air M4 for its lowest price since the June increase](https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale)
+  - [I ruined my cats’ toilet time with a motion-activated neon litter box sign](https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign)
   - [LG’s new OLED breakthrough can boost display lifespans](https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology)
   - [Meta AI is getting a Mac app](https://www.theverge.com/tech/982270/meta-ai-mac-app)
+  - [Meta glasses are a workplace menace](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security)
   - [OpenAI hit the brakes. Now what?](https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai)
+  - [Slack is launching collaborative vibe-coding channels](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch)
   - [The Audi S6 Sportback E-tron proves that sedans still matter](https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review)
   - [The piano that taught my cat to play for her supper](https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder)
   - [The Pixel 11 isn’t the best Pixel of 2026, but it’s the smartest buy](https://www.theverge.com/tech/982190/google-pixel-11-review)
@@ -209,6 +218,7 @@
   - [iPhone X 彻底「停产」了，但我们还没走出它定义的时代｜明日后视镜](https://www.ifanr.com/1675378?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [Steam 最新 VR 头显曝光，Android 游戏手机要变天了？](https://www.ifanr.com/1675777?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [【快讯】80 亿美元！「美国支付宝」买下全球最大 AI 中转站](https://www.ifanr.com/1675718?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [华为把 Pura X 掰直了，一台阔直板手机来了](https://www.ifanr.com/1675859?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [埃安 Ray7 亮相：33 米刹停、续航 700km，还用上了华为电驱](https://www.ifanr.com/1675731?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [我三刷了「满血版」的《奥德赛》，总结出这份最全 IMAX 观影指南（附推荐影厅）](https://www.ifanr.com/1675763?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜豆包进了特斯拉车机/曝苹果带摄像头AirPods延期至2027/宇树科技上市首日大涨460%​](https://www.ifanr.com/1675698?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -217,7 +227,10 @@
   - [光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界](https://www.qbitai.com/2026/08/476281.html)
   - [宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？](https://www.qbitai.com/2026/08/476120.html)
   - [这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家](https://www.qbitai.com/2026/08/476280.html)
+- 风雪之隅
+  - [用 Yac 给 WordPress 做对象缓存：比Memcached快 19%](https://www.laruence.com/2026/08/20/6420.html)
 - 黑海洋
+  - [Meta悄然跻身微软最大AI客户，每年采购规模达数亿美元](https://blog.upx8.com/Meta%E6%82%84%E7%84%B6%E8%B7%BB%E8%BA%AB%E5%BE%AE%E8%BD%AF%E6%9C%80%E5%A4%A7AI%E5%AE%A2%E6%88%B7-%E6%AF%8F%E5%B9%B4%E9%87%87%E8%B4%AD%E8%A7%84%E6%A8%A1%E8%BE%BE%E6%95%B0%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [OpenAI承诺不保留企业客户使用AI的数据](https://blog.upx8.com/OpenAI%E6%89%BF%E8%AF%BA%E4%B8%8D%E4%BF%9D%E7%95%99%E4%BC%81%E4%B8%9A%E5%AE%A2%E6%88%B7%E4%BD%BF%E7%94%A8AI%E7%9A%84%E6%95%B0%E6%8D%AE)
   - [OpenAI计划“在2027年成为一家上市公司”](https://blog.upx8.com/OpenAI%E8%AE%A1%E5%88%92-%E5%9C%A82027%E5%B9%B4%E6%88%90%E4%B8%BA%E4%B8%80%E5%AE%B6%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8)
   - [YouTube向创作者提供数百万美元以换取独家发布权，以阻击Netflix](https://blog.upx8.com/YouTube%E5%90%91%E5%88%9B%E4%BD%9C%E8%80%85%E6%8F%90%E4%BE%9B%E6%95%B0%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E4%BB%A5%E6%8D%A2%E5%8F%96%E7%8B%AC%E5%AE%B6%E5%8F%91%E5%B8%83%E6%9D%83-%E4%BB%A5%E9%98%BB%E5%87%BBNetflix)
@@ -227,5 +240,6 @@
   - [给相机装上翅膀能规避FCC无人机禁令吗？](https://blog.upx8.com/%E7%BB%99%E7%9B%B8%E6%9C%BA%E8%A3%85%E4%B8%8A%E7%BF%85%E8%86%80%E8%83%BD%E8%A7%84%E9%81%BFFCC%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A6%81%E4%BB%A4%E5%90%97)
   - [美国就算力期货交易公开征求意见](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%B0%B1%E7%AE%97%E5%8A%9B%E6%9C%9F%E8%B4%A7%E4%BA%A4%E6%98%93%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81)
   - [美国年轻人对人工智能愈发敌视 担心失业](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%84%88%E5%8F%91%E6%95%8C%E8%A7%86-%E6%8B%85%E5%BF%83%E5%A4%B1%E4%B8%9A)
+  - [骗子加大力度发iMessage钓鱼短信 新加坡受骗者损失金额近两周激增100万元](https://blog.upx8.com/%E9%AA%97%E5%AD%90%E5%8A%A0%E5%A4%A7%E5%8A%9B%E5%BA%A6%E5%8F%91iMessage%E9%92%93%E9%B1%BC%E7%9F%AD%E4%BF%A1-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8F%97%E9%AA%97%E8%80%85%E6%8D%9F%E5%A4%B1%E9%87%91%E9%A2%9D%E8%BF%91%E4%B8%A4%E5%91%A8%E6%BF%80%E5%A2%9E100%E4%B8%87%E5%85%83)
   - [🎬 爱快 iKuai 路由系统曝高危漏洞：无线 AC 功能存在远程命令注入](https://blog.upx8.com/%E7%88%B1%E5%BF%AB-iKuai-%E8%B7%AF%E7%94%B1%E7%B3%BB%E7%BB%9F%E6%9B%9D%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E-%E6%97%A0%E7%BA%BF-AC-%E5%8A%9F%E8%83%BD%E5%AD%98%E5%9C%A8%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%B3%A8%E5%85%A5)
   - [🖼 恒大集团、恒大地产、许家印等案一审宣判](https://blog.upx8.com/%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2-%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7-%E8%AE%B8%E5%AE%B6%E5%8D%B0%E7%AD%89%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4)
