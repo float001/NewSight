@@ -38,6 +38,8 @@
   - ['I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman](https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/)
   - [Lifeforms Can Survive on ‘Significant’ Regions of the Moon, Study Finds](https://www.404media.co/lifeforms-can-survive-on-significant-regions-of-the-moon-study-finds/)
   - [Podcast: Amazon is Destroying Rare Books to Train AI](https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/)
+  - [Subtlefakes: Slightly Altered Nonconsensual AI Images Are Taking Over X](https://www.404media.co/subtlefakes-slightly-altered-nonconsensual-ai-images-are-taking-over-x/)
+  - [Township Fights Nuclear Weapons Data Center By Passing a Moratorium on Electrical Infrastructure](https://www.404media.co/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure/)
 - Ars Technica
   - [A fantastical journey unfolds in gorgeous Wildwood trailer](https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/)
   - [Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops](https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/)
@@ -47,6 +49,7 @@
 - CoinTelegraph
   - [Bitcoin ETFs draw $517M in largest one-day inflow since early May](https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet](https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitdeer signs $400M AI cloud computing deal for Malaysia facility](https://cointelegraph.com/news/bitdeer-signs-400m-ai-computing-deal-malaysia-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitGo Korea secures VASP registration for institutional crypto custody](https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC notches primary wins, but loses $2M Florida race](https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers](https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -54,10 +57,12 @@
   - [GnosisDAO approves Gnosis Chain for Ethereum Economic Zone](https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [HYPE jumps 20% as Trump signals legal US path for Hyperliquid](https://cointelegraph.com/markets/hype-price-jumps-trump-hyperliquid-us-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [MiCA cracks down on USDT in Europe... but no one else cares](https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Rushed CLARITY Act vote could set legislation back, Gallego warns](https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [StanChart, HSBC execute first live transaction on Swift blockchain ledger](https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump pushes for CLARITY Act passage alongside crypto leaders](https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
+  - ['Grandoreiro' Malware Resurfaces With Mexico Campaign](https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign)
   - [No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns](https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns)
   - [SilkParasite Threatens Central Asian Orgs With Flurry of RATs](https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats)
 - defend.network
@@ -72,6 +77,7 @@
 - Hacker News Frontpage
   - [AI didn't erase the junior engineer's value, it increased it it](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
   - [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
+  - [Canonical Backs New Project to Translate Large C Codebases into Safe Rust](https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/)
   - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679)
   - [Collaborative Human Agent Protocol (CHAP)](https://github.com/BrightbeamAI/chap)
   - [Don't Paste the AI, please](https://dontpastetheai.com/)
@@ -81,6 +87,7 @@
   - [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)
   - [Introducing MicroLighter](https://daverupert.com/2026/08/microlighter/)
   - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
+  - [Malicious Rust Crate Arrayref Runs a Build-Time Payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
   - [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)
   - [Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo](https://fetzu.ch/blog/20260819_claudevsdrobo/)
   - [Ramp Launches a Model Router](https://router.com)
@@ -100,6 +107,8 @@
   - [NCSC Urges Stronger Controls for Agentic AI Systems](https://www.infosecurity-magazine.com/news/ncsc-stronger-controls-agentic-ai/)
   - [Updated ToxicPanda Variant Targets 140+ Banking and Crypto Apps](https://www.infosecurity-magazine.com/news/updated-toxicpanda-140-banking/)
   - [US Defense Contractors Admit Their Rising CMMC Scores May Not Be Accurate](https://www.infosecurity-magazine.com/news/us-defense-contractors-cmmc-scores/)
+- johndcook.com
+  - [AI-generated ASCII diagrams](https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/)
 - Kali Linux Tutorials
   - [chattr Command in Linux: Set File Attributes with lsattr](https://kalilinuxtutorials.com/chattr-command-linux/)
   - [env Command in Linux: Show and Set Environment Variables](https://kalilinuxtutorials.com/env-command-linux/)
@@ -120,6 +129,7 @@
 - TechCrunch
   - [AI data giant Alation confirms cyberattack](https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/)
   - [AI was supposed to win people over by now — it hasn’t](https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/)
+  - [Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part](https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/)
   - [Binance now lets AI agents trade, but keeping them in check is largely up to users](https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/)
   - [Cognition CEO denies report that SpaceX tried to acquire the startup](https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/)
   - [For a16z, AI gives foreign founders an advantage](https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/)
@@ -150,6 +160,7 @@
   - [OpenLedger’s Ram Kumar sees agentic payments as crypto’s first AI ‘killer app’](https://www.theblock.co/news/business/2026-08-20-openledger-ram-kumar-agentic-payments-crypto-ai-killer-app-412313)
   - [Securitize’s Redfearn says SEC held back crypto innovation exemption over Clarity Act politics](https://www.theblock.co/news/regulation/2026-08-20-securitizes-redfearn-sec-innovation-exemption-clarity-act-politics-412298)
   - [Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months](https://www.theblock.co/news/markets/2026-08-20-us-bitcoin-etf-517-million-inflows-412291)
+  - [‘Star Wars vibes:’ Chainlink’s McCormick sees AI agents, robots driving blockchain transactions](https://www.theblock.co/news/web3/2026-08-20-star-wars-vibes-chainlink-mccormick-ai-agents-robots-blockchain-transactions-412327)
 - The Decoder
   - [Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn](https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/)
   - [China now has its own AI circular financing scheme](https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/)
@@ -159,11 +170,14 @@
   - [OpenAI fixes Codex bug that deleted real user files without permission](https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/)
   - [Terence Tao says AI could trigger math's biggest crisis since Gödel](https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/)
 - The Verge
+  - [DJI Osmo fans are breaking the shackles of its closed-source camera app](https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement)
   - [Does giving a camera wings dodge the FCC’s drone ban?](https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo)
+  - [FromSoftware can do anything](https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki)
   - [Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub)
   - [Google’s Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
   - [Google’s Pixel Watch 5 is promising — but it isn’t finished](https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch)
   - [Grab an iPad Air M4 for its lowest price since the June increase](https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale)
+  - [Here’s what data Comcast says its motion-detecting routers collect](https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response)
   - [I bought DJI’s banned camera — it was cheap and easy](https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market)
   - [I ruined my cats’ toilet time with a motion-activated neon litter box sign](https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign)
   - [LG’s new OLED breakthrough can boost display lifespans](https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology)
@@ -176,8 +190,14 @@
   - [The Pixel 11 isn’t the best Pixel of 2026, but it’s the smartest buy](https://www.theverge.com/tech/982190/google-pixel-11-review)
   - [The Pixel 11 Pro is a great phone, no thanks to its flashiest new features](https://www.theverge.com/tech/981713/google-pixel-11-pro-review)
   - [The wearable future is stuck in weird, experimental, existential limbo](https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai)
+  - [This tiny guitar amp is the most unhinged distortion pedal I’ve ever used](https://www.theverge.com/gadgets/982598/death-by-audio-rainger-fx-amp-crash-guitar-pedal-review)
   - [Watch Valve set up the Steam Frame in its own leaked videos](https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos)
+  - [Waymo lifts the lid on the ‘brain’ powering its robotaxis](https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers)
+  - [We played The Duskbloods, the Switch 2&#8217;s wildest new exclusive](https://www.theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware)
   - [We reviewed the new Pixel lineup, ask us anything](https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama)
+  - [Welcome to the AI crisis in math](https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [ShieldBreak: The Windows Defender Zero-Day With No Patch — Detect It, Mitigate It, With Qualys](https://blog.qualys.com/category/product-tech/vulnmgmt-detection-response)
 - Vulners.com RSS Feed
   - [CVE-2026-14978 Unicode normalization mismatch in go-slug ignore pattern matching may bypass intended file exclusions](https://vulners.com/cvelist/CVELIST:CVE-2026-14978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71470 Acm-search-v2-rhel9: search-v2-operator: search cr imageoverride/arguments/envvar flow unsanitized into pods running impersonating sa](https://vulners.com/cvelist/CVELIST:CVE-2026-71470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -208,8 +228,10 @@
   - [LeakGauge](https://buaq.net/go-436410.html)
   - [LeitWacht Agent v0.9.0](https://buaq.net/go-436367.html)
   - [Nest v2026.08.17](https://buaq.net/go-436296.html)
+  - [Phishing Klarna: crescita vertiginosa](https://buaq.net/go-436490.html)
   - [pmg v0.26.0](https://buaq.net/go-436312.html)
   - [sentrymcp](https://buaq.net/go-436413.html)
+  - [Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)](https://buaq.net/go-436477.html)
   - [whosthere v0.8.3](https://buaq.net/go-436287.html)
   - [Windows IKE 扩展组件高危远程代码执行漏洞已遭在野利用](https://buaq.net/go-436299.html)
   - [医疗科技企业 CareCloud 数据泄露，波及 370 余万患者](https://buaq.net/go-436301.html)
@@ -246,11 +268,13 @@
   - [用 Yac 给 WordPress 做对象缓存：比Memcached快 19%](https://www.laruence.com/2026/08/20/6420.html)
 - 黑海洋
   - [Meta悄然跻身微软最大AI客户，每年采购规模达数亿美元](https://blog.upx8.com/Meta%E6%82%84%E7%84%B6%E8%B7%BB%E8%BA%AB%E5%BE%AE%E8%BD%AF%E6%9C%80%E5%A4%A7AI%E5%AE%A2%E6%88%B7-%E6%AF%8F%E5%B9%B4%E9%87%87%E8%B4%AD%E8%A7%84%E6%A8%A1%E8%BE%BE%E6%95%B0%E4%BA%BF%E7%BE%8E%E5%85%83)
+  - [NASA“太空救援”任务失败，天文卫星将在年底前坠入地球大气层](https://blog.upx8.com/NASA-%E5%A4%AA%E7%A9%BA%E6%95%91%E6%8F%B4-%E4%BB%BB%E5%8A%A1%E5%A4%B1%E8%B4%A5-%E5%A4%A9%E6%96%87%E5%8D%AB%E6%98%9F%E5%B0%86%E5%9C%A8%E5%B9%B4%E5%BA%95%E5%89%8D%E5%9D%A0%E5%85%A5%E5%9C%B0%E7%90%83%E5%A4%A7%E6%B0%94%E5%B1%82)
   - [OpenAI承诺不保留企业客户使用AI的数据](https://blog.upx8.com/OpenAI%E6%89%BF%E8%AF%BA%E4%B8%8D%E4%BF%9D%E7%95%99%E4%BC%81%E4%B8%9A%E5%AE%A2%E6%88%B7%E4%BD%BF%E7%94%A8AI%E7%9A%84%E6%95%B0%E6%8D%AE)
   - [OpenAI计划“在2027年成为一家上市公司”](https://blog.upx8.com/OpenAI%E8%AE%A1%E5%88%92-%E5%9C%A82027%E5%B9%B4%E6%88%90%E4%B8%BA%E4%B8%80%E5%AE%B6%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8)
   - [YouTube向创作者提供数百万美元以换取独家发布权，以阻击Netflix](https://blog.upx8.com/YouTube%E5%90%91%E5%88%9B%E4%BD%9C%E8%80%85%E6%8F%90%E4%BE%9B%E6%95%B0%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E4%BB%A5%E6%8D%A2%E5%8F%96%E7%8B%AC%E5%AE%B6%E5%8F%91%E5%B8%83%E6%9D%83-%E4%BB%A5%E9%98%BB%E5%87%BBNetflix)
   - [亚马逊无人机配送将覆盖近500个美国城市](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%85%8D%E9%80%81%E5%B0%86%E8%A6%86%E7%9B%96%E8%BF%91500%E4%B8%AA%E7%BE%8E%E5%9B%BD%E5%9F%8E%E5%B8%82)
   - [摄像头版AirPods耳机仍将在2027年推出](https://blog.upx8.com/%E6%91%84%E5%83%8F%E5%A4%B4%E7%89%88AirPods%E8%80%B3%E6%9C%BA%E4%BB%8D%E5%B0%86%E5%9C%A82027%E5%B9%B4%E6%8E%A8%E5%87%BA)
+  - [海威华芯与海特高新爆发“抢公章”闹剧](https://blog.upx8.com/%E6%B5%B7%E5%A8%81%E5%8D%8E%E8%8A%AF%E4%B8%8E%E6%B5%B7%E7%89%B9%E9%AB%98%E6%96%B0%E7%88%86%E5%8F%91-%E6%8A%A2%E5%85%AC%E7%AB%A0-%E9%97%B9%E5%89%A7)
   - [特朗普承认AI数据中心面临抵制：需要公关美化一下](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%9D%A2%E4%B8%B4%E6%8A%B5%E5%88%B6-%E9%9C%80%E8%A6%81%E5%85%AC%E5%85%B3%E7%BE%8E%E5%8C%96%E4%B8%80%E4%B8%8B)
   - [给相机装上翅膀能规避FCC无人机禁令吗？](https://blog.upx8.com/%E7%BB%99%E7%9B%B8%E6%9C%BA%E8%A3%85%E4%B8%8A%E7%BF%85%E8%86%80%E8%83%BD%E8%A7%84%E9%81%BFFCC%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A6%81%E4%BB%A4%E5%90%97)
   - [美国就算力期货交易公开征求意见](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%B0%B1%E7%AE%97%E5%8A%9B%E6%9C%9F%E8%B4%A7%E4%BA%A4%E6%98%93%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81)
