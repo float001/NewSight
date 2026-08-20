@@ -21,13 +21,17 @@
   - [关于站内帖子链接展示的建议](https://2libra.com/post/forum-function/hxkViDM)
   - [出发](https://2libra.com/post/questions/oOJ9UQ5)
   - [分享一款鼠标指针](https://2libra.com/post/open-source-sharing/pJY2rkw)
+  - [刚从别处看到的,影视资源站分享](https://2libra.com/post/movie-resources/eM_JoC2)
   - [感觉鸡站真的很有“人味”，有正常的活人感](https://2libra.com/post/interaction/rmKq8yl)
   - [我今天试了一下 TRAE work,它的 code 比一般掺水的中转好用，可以试一下](https://2libra.com/post/promotion/pxvGcL1)
+  - [我真的要吓死了今年上大学的 是 2020 年小学毕业的](https://2libra.com/post/personal-life/sQ98Dud)
+  - [文件管理器：增加文件查看插件](https://2libra.com/post/personal-works/YOSuvgY)
   - [最近做了一个 macOS 菜单栏效率工具 CalmBar](https://2libra.com/post/tools-sharing/DU0BXWO)
   - [有没有人看恋综](https://2libra.com/post/movie-experience/cFuCoKP)
   - [每天拉引体向上对身体的好处](https://2libra.com/post/sports/upioImt)
   - [消息怎么样才算已读](https://2libra.com/post/forum-function/6wqGK-n)
   - [潘多拉与我无缘](https://2libra.com/post/forum-function/FsmfVU8)
+  - [自从出了海克斯大乱斗，每天不打浑身难受](https://2libra.com/post/game-discussion/Kek9tu2)
   - [评论区留言，我发送 L 站青春版邀请码](https://2libra.com/post/invite-code/hhvtdBZ)
 - 404 Media
   - ['I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman](https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/)
@@ -44,6 +48,7 @@
   - [BitGo Korea secures VASP registration for institutional crypto custody](https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC notches primary wins, but loses $2M Florida race](https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FalconX, Ethena bring USDe backing assets into $1B institutional credit facility](https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [GnosisDAO approves Gnosis Chain for Ethereum Economic Zone](https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [HYPE jumps 20% as Trump signals legal US path for Hyperliquid](https://cointelegraph.com/markets/hype-price-jumps-trump-hyperliquid-us-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Rushed CLARITY Act vote could set legislation back, Gallego warns](https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -61,6 +66,7 @@
 - Hacker News Frontpage
   - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679)
   - [Collaborative Human Agent Protocol (CHAP)](https://github.com/BrightbeamAI/chap)
+  - [Don't Paste the AI, please](https://dontpastetheai.com/)
   - [Extensible Software in the Age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
   - [From Quantum Relative Entropy to the Semiclassical Einstein Equations](https://arxiv.org/abs/2510.24491)
   - [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724)
@@ -118,6 +124,7 @@
   - [Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn](https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/)
   - [OpenAI builds safety system that catches misuse without storing customer data](https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/)
   - [OpenAI fixes Codex bug that deleted real user files without permission](https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/)
+  - [Terence Tao says AI could trigger math's biggest crisis since Gödel](https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/)
 - The Verge
   - [Does giving a camera wings dodge the FCC’s drone ban?](https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo)
   - [Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub)
@@ -149,9 +156,11 @@
   - [iRobot Promo Code: 15% Off](https://www.wired.com/story/irobot-promo-code/)
   - [Nike Promo Codes and Discounts: 30% for August 2026](https://www.wired.com/story/nike-promo-code/)
   - [Peacock Promo Codes: 40% Off August 2026](https://www.wired.com/story/peacock-promo-code/)
+  - [Salmonella Is Everywhere](https://www.wired.com/story/salmonella-is-everywhere/)
   - [T-Mobile Promo Codes: 25% Off | August 2026](https://www.wired.com/story/t-mobile-business-promo-code/)
   - [TurboTax Full Service Coupons This August](https://www.wired.com/story/turbotax-coupon/)
 - 不安全
+  - [LeitWacht Agent v0.9.0](https://buaq.net/go-436367.html)
   - [Nest v2026.08.17](https://buaq.net/go-436296.html)
   - [pmg v0.26.0](https://buaq.net/go-436312.html)
   - [whosthere v0.8.3](https://buaq.net/go-436287.html)
@@ -164,6 +173,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [NASA 终止 Swift 天文台的拯救任务](https://www.solidot.org/story?sid=85142)
+  - [科学家首次实验观测到真空涨落对超导的增强效应](https://www.solidot.org/story?sid=85146)
 - 安全客
   - [不打招呼直接锁死服务器：Sorry勒索病毒国内多点爆发，专挑中小企业下手](https://www.anquanke.com/post/id/315994)
 - 小刀志
@@ -171,7 +181,9 @@
 - 爱范儿
   - [2026 年，手机厂商为什么非做 Pocket 不可？｜硬哲学](https://www.ifanr.com/1675750?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [iPhone X 彻底「停产」了，但我们还没走出它定义的时代｜明日后视镜](https://www.ifanr.com/1675378?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [Steam 最新 VR 头显曝光，Android 游戏手机要变天了？](https://www.ifanr.com/1675777?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [【快讯】80 亿美元！「美国支付宝」买下全球最大 AI 中转站](https://www.ifanr.com/1675718?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [我三刷了「满血版」的《奥德赛》，总结出这份最全 IMAX 观影指南（附推荐影厅）](https://www.ifanr.com/1675763?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜豆包进了特斯拉车机/曝苹果带摄像头AirPods延期至2027/宇树科技上市首日大涨460%​](https://www.ifanr.com/1675698?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果「带摄像头的 AirPods」意外曝光，但今年还是买不到](https://www.ifanr.com/1675719?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
