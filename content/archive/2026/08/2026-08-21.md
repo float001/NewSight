@@ -9,6 +9,7 @@
 - blog.jim-nielsen.com
   - [A Sloppy Interface Is a Security Liability ￼](https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/)
 - CoinTelegraph
+  - [Binance opens crypto trading to AI agents with user-set controls](https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1](https://cointelegraph.com/news/bitcoin-miners-ai-hpc-capex-revenue-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US debt tops $40T stoking debate on what it means for Bitcoin](https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -18,6 +19,7 @@
 - Fidelis Security
   - [WordPress REST API Security: What the wp2shell Attack Chain Teaches Us](https://fidelissecurity.com/threatgeek/threat-detection-response/wordpress-rest-api-security-wp2shell-attack-chain/)
 - Hacker News Frontpage
+  - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
   - [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/)
   - [Stop Eating Lady Gaga's Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
   - [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
@@ -30,6 +32,7 @@
   - [Inertia Enterprises finds a way to make its fusion fuel fast](https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/)
   - [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)
   - [Mark buys a castle](https://techcrunch.com/2026/08/20/mark-buys-a-castle/)
+  - [Ok, can we actually cool data centers with our pee?](https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/)
   - [Patreon launches 30 new creator features, including short-form Clips and revamped discovery](https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/)
   - [Ramp launches its own AI model router, called Router](https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/)
   - [Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders](https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/)
@@ -37,6 +40,8 @@
   - [Someone targeted security researchers using a fake crypto conference as a lure](https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/)
   - [The 2026 Startup Battlefield 200 is here — see who made the cut](https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/)
   - [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
+- The Block
+  - [Kraken parent Payward explores becoming a ‘full bank’ outside the US](https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390)
 - The Decoder
   - [Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash](https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/)
   - [LLMs could write like humans but post-training guardrails make their text detectable](https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/)
