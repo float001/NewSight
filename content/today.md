@@ -1,8 +1,12 @@
 # 今日安全资讯（2026-08-21）
 
+- CoinTelegraph
+  - [Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1](https://cointelegraph.com/news/bitcoin-miners-ai-hpc-capex-revenue-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - TechCrunch
   - [Inertia Enterprises finds a way to make its fusion fuel fast](https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/)
   - [Patreon launches 30 new creator features, including short-form Clips and revamped discovery](https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/)
+  - [Ramp launches its own AI model router, called Router](https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/)
+  - [Senators demand answers from TikTok over experiment that disabled safeguards](https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/)
   - [The 2026 Startup Battlefield 200 is here — see who made the cut](https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
