@@ -3,6 +3,7 @@
 - 2Libra
   - [8 月 20 日资本市场大事提醒](https://2libra.com/post/stock-market/np7q7lC)
   - [[开源] 搓了个 sing-box 管理脚本，支持多用户/限流/到期/订阅，分享一下](https://2libra.com/post/open-source-sharing/l1ZxOXs)
+  - [From Text to Cinematic Reality: How Wan 3.0 Is Redefining AI Video Creation](https://2libra.com/post/promotion/Uz3rF5L)
   - [gemini 学生又复活了，其他比较豆包，生图还是有些用](https://2libra.com/post/ai-tools/wpxVBUm)
   - [windows 跟安卓之间的 airdrop 工具](https://2libra.com/post/tools-sharing/sa1XZYO)
   - [【💰】2026.08 近期 DIY 組裝電腦詢問](https://2libra.com/post/computers-accessories/1YMzH3F)
@@ -10,9 +11,11 @@
   - [【💰】有无好用的耳温枪推荐](https://2libra.com/post/recommendations/iyQsGue)
   - [一件小事](https://2libra.com/post/small-things/HmL_NH0)
   - [今日潘多拉，回收了签到的一半。](https://2libra.com/post/forum-function/2XTF0W8)
+  - [公司联系方式到底在什么神秘数据库](https://2libra.com/post/workplace-stories/qSurM76)
   - [关于一键三连、高赞高打赏高收藏帖子的建议](https://2libra.com/post/forum-function/aV-sqEe)
   - [关于站内帖子链接展示的建议](https://2libra.com/post/forum-function/hxkViDM)
   - [出发](https://2libra.com/post/questions/oOJ9UQ5)
+  - [分享一款鼠标指针](https://2libra.com/post/open-source-sharing/pJY2rkw)
   - [感觉鸡站真的很有“人味”，有正常的活人感](https://2libra.com/post/interaction/rmKq8yl)
   - [我今天试了一下 TRAE work,它的 code 比一般掺水的中转好用，可以试一下](https://2libra.com/post/promotion/pxvGcL1)
   - [最近做了一个 macOS 菜单栏效率工具 CalmBar](https://2libra.com/post/tools-sharing/DU0BXWO)
@@ -35,6 +38,7 @@
   - [Crypto PAC notches primary wins, but loses $2M Florida race](https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FalconX, Ethena bring USDe backing assets into $1B institutional credit facility](https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [HYPE jumps 20% as Trump signals legal US path for Hyperliquid](https://cointelegraph.com/markets/hype-price-jumps-trump-hyperliquid-us-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Rushed CLARITY Act vote could set legislation back, Gallego warns](https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [StanChart, HSBC execute first live transaction on Swift blockchain ledger](https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump pushes for CLARITY Act passage alongside crypto leaders](https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -147,6 +151,8 @@
   - [美国起诉伊朗黑客，涉案 34 亿美元知识产权失窃案](https://buaq.net/go-436300.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [NASA 终止 Swift 天文台的拯救任务](https://www.solidot.org/story?sid=85142)
 - 安全客
   - [不打招呼直接锁死服务器：Sorry勒索病毒国内多点爆发，专挑中小企业下手](https://www.anquanke.com/post/id/315994)
 - 小刀志
@@ -164,3 +170,4 @@
   - [给相机装上翅膀能规避FCC无人机禁令吗？](https://blog.upx8.com/%E7%BB%99%E7%9B%B8%E6%9C%BA%E8%A3%85%E4%B8%8A%E7%BF%85%E8%86%80%E8%83%BD%E8%A7%84%E9%81%BFFCC%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A6%81%E4%BB%A4%E5%90%97)
   - [美国年轻人对人工智能愈发敌视 担心失业](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%84%88%E5%8F%91%E6%95%8C%E8%A7%86-%E6%8B%85%E5%BF%83%E5%A4%B1%E4%B8%9A)
   - [🎬 爱快 iKuai 路由系统曝高危漏洞：无线 AC 功能存在远程命令注入](https://blog.upx8.com/%E7%88%B1%E5%BF%AB-iKuai-%E8%B7%AF%E7%94%B1%E7%B3%BB%E7%BB%9F%E6%9B%9D%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E-%E6%97%A0%E7%BA%BF-AC-%E5%8A%9F%E8%83%BD%E5%AD%98%E5%9C%A8%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%B3%A8%E5%85%A5)
+  - [🖼 恒大集团、恒大地产、许家印等案一审宣判](https://blog.upx8.com/%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2-%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7-%E8%AE%B8%E5%AE%B6%E5%8D%B0%E7%AD%89%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4)
