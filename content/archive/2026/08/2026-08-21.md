@@ -4,18 +4,24 @@
   - [你觉得朋友是什么？](https://2libra.com/post/social-observation/h1UyMwG)
 - 404 Media
   - ['Darth Vader' Wants Flock in San Diego](https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/)
+- blog.jim-nielsen.com
+  - [A Sloppy Interface Is a Security Liability ￼](https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/)
 - CoinTelegraph
   - [Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1](https://cointelegraph.com/news/bitcoin-miners-ai-hpc-capex-revenue-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US debt tops $40T stoking debate on what it means for Bitcoin](https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
   - [N-able Bug Exposes Password Vault Master Keys](https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys)
+- Fidelis Security
+  - [WordPress REST API Security: What the wp2shell Attack Chain Teaches Us](https://fidelissecurity.com/threatgeek/threat-detection-response/wordpress-rest-api-security-wp2shell-attack-chain/)
 - Hacker News Frontpage
   - [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/)
   - [URL shortener links stored in your ATProto PDS](https://atpr.to/)
 - TechCrunch
   - [A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds](https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/)
+  - [Castelion hits $13B valuation to mass-produce hypersonic missiles](https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/)
   - [Grok keeps sending gibberish responses to users](https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/)
   - [Inertia Enterprises finds a way to make its fusion fuel fast](https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/)
+  - [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)
   - [Patreon launches 30 new creator features, including short-form Clips and revamped discovery](https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/)
   - [Ramp launches its own AI model router, called Router](https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/)
   - [Senators demand answers from TikTok over experiment that disabled safeguards](https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/)
@@ -27,6 +33,7 @@
   - [Australia says Roblox hasn&#8217;t fixed its child predator problem](https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety)
   - [FCC officially decides gigabit speeds are too good for you](https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal)
   - [Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops](https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty)
+  - [Mark Zuckerberg bought an Irish castle](https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland)
 - Vulners.com RSS Feed
   - [CVE-2026-13121](https://vulners.com/nvd/NVD:CVE-2026-13121?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15679](https://vulners.com/nvd/NVD:CVE-2026-15679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -43,5 +50,7 @@
   - [CVE-2026-18272](https://vulners.com/nvd/NVD:CVE-2026-18272?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18273](https://vulners.com/nvd/NVD:CVE-2026-18273?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18274](https://vulners.com/nvd/NVD:CVE-2026-18274?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Silicon Valley Doesn't Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
