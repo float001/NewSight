@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-08-20）
 
 - 2Libra
+  - [5 小时限制要回归了？](https://2libra.com/post/ai-tools/zReRyWc)
   - [8 月 20 日资本市场大事提醒](https://2libra.com/post/stock-market/np7q7lC)
   - [[开源] 搓了个 sing-box 管理脚本，支持多用户/限流/到期/订阅，分享一下](https://2libra.com/post/open-source-sharing/l1ZxOXs)
   - [From Text to Cinematic Reality: How Wan 3.0 Is Redefining AI Video Creation](https://2libra.com/post/promotion/Uz3rF5L)
@@ -10,6 +11,7 @@
   - [【💰】今天体检了，和去年没啥变化，常规体检有多大用途？](https://2libra.com/post/health-consultation/ANNlU4Y)
   - [【💰】有无好用的耳温枪推荐](https://2libra.com/post/recommendations/iyQsGue)
   - [一件小事](https://2libra.com/post/small-things/HmL_NH0)
+  - [人生始于 40 岁：属于自己的生活才真正开场](https://2libra.com/post/personal-life/i1FZ-eH)
   - [今日潘多拉，回收了签到的一半。](https://2libra.com/post/forum-function/2XTF0W8)
   - [公司联系方式到底在什么神秘数据库](https://2libra.com/post/workplace-stories/qSurM76)
   - [关于一键三连、高赞高打赏高收藏帖子的建议](https://2libra.com/post/forum-function/aV-sqEe)
@@ -21,6 +23,7 @@
   - [最近做了一个 macOS 菜单栏效率工具 CalmBar](https://2libra.com/post/tools-sharing/DU0BXWO)
   - [有没有人看恋综](https://2libra.com/post/movie-experience/cFuCoKP)
   - [每天拉引体向上对身体的好处](https://2libra.com/post/sports/upioImt)
+  - [消息怎么样才算已读](https://2libra.com/post/forum-function/6wqGK-n)
   - [潘多拉与我无缘](https://2libra.com/post/forum-function/FsmfVU8)
   - [评论区留言，我发送 L 站青春版邀请码](https://2libra.com/post/invite-code/hhvtdBZ)
 - 404 Media
@@ -45,6 +48,8 @@
 - darkreading
   - [No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns](https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns)
   - [SilkParasite Threatens Central Asian Orgs With Flurry of RATs](https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats)
+- defend.network
+  - [Microsoft, VMware, Apple vulnerabilities actively exploited; CISA KEV additions demand immediate patching](https://defend.network/briefings/microsoft-vmware-apple-critical-exploitation-cisa-kev-2026-08-20.html)
 - Fidelis Security
   - [How DFIR Helps Determine Root Cause, Scope, and Impact After a Breach](https://fidelissecurity.com/threatgeek/threat-detection-response/digital-forensics-incident-response-dfir/)
 - gilesthomas.com
@@ -104,6 +109,7 @@
   - [HYPE token surges after Trump says CFTC is working to bring Hyperliquid to US in ‘fully compliant fashion’](https://www.theblock.co/news/regulation/2026-08-19-hype-token-surges-trump-says-cftc-bring-hyperliquid-us-fully-compliant-fashion-412262)
   - [Injective becomes SEC-registered transfer agent as it expands tokenization push](https://www.theblock.co/news/regulation/2026-08-19-injective-becomes-sec-registered-transfer-agent-expands-tokenization-push-412225)
   - [OCC races to finalize GENIUS Act stablecoin rules by November](https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240)
+  - [Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months](https://www.theblock.co/news/markets/2026-08-20-us-bitcoin-etf-517-million-inflows-412291)
 - The Decoder
   - [Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn](https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/)
   - [OpenAI fixes Codex bug that deleted real user files without permission](https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/)
@@ -162,7 +168,10 @@
   - [【快讯】80 亿美元！「美国支付宝」买下全球最大 AI 中转站](https://www.ifanr.com/1675718?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜豆包进了特斯拉车机/曝苹果带摄像头AirPods延期至2027/宇树科技上市首日大涨460%​](https://www.ifanr.com/1675698?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果「带摄像头的 AirPods」意外曝光，但今年还是买不到](https://www.ifanr.com/1675719?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？](https://www.qbitai.com/2026/08/476120.html)
 - 黑海洋
+  - [OpenAI承诺不保留企业客户使用AI的数据](https://blog.upx8.com/OpenAI%E6%89%BF%E8%AF%BA%E4%B8%8D%E4%BF%9D%E7%95%99%E4%BC%81%E4%B8%9A%E5%AE%A2%E6%88%B7%E4%BD%BF%E7%94%A8AI%E7%9A%84%E6%95%B0%E6%8D%AE)
   - [OpenAI计划“在2027年成为一家上市公司”](https://blog.upx8.com/OpenAI%E8%AE%A1%E5%88%92-%E5%9C%A82027%E5%B9%B4%E6%88%90%E4%B8%BA%E4%B8%80%E5%AE%B6%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8)
   - [亚马逊无人机配送将覆盖近500个美国城市](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%85%8D%E9%80%81%E5%B0%86%E8%A6%86%E7%9B%96%E8%BF%91500%E4%B8%AA%E7%BE%8E%E5%9B%BD%E5%9F%8E%E5%B8%82)
   - [摄像头版AirPods耳机仍将在2027年推出](https://blog.upx8.com/%E6%91%84%E5%83%8F%E5%A4%B4%E7%89%88AirPods%E8%80%B3%E6%9C%BA%E4%BB%8D%E5%B0%86%E5%9C%A82027%E5%B9%B4%E6%8E%A8%E5%87%BA)
