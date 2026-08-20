@@ -1,7 +1,10 @@
 # 今日安全资讯（2026-08-20）
 
 - 2Libra
+  - [[开源] 搓了个 sing-box 管理脚本，支持多用户/限流/到期/订阅，分享一下](https://2libra.com/post/open-source-sharing/l1ZxOXs)
+  - [windows 跟安卓之间的 airdrop 工具](https://2libra.com/post/tools-sharing/sa1XZYO)
   - [【💰】2026.08 近期 DIY 組裝電腦詢問](https://2libra.com/post/computers-accessories/1YMzH3F)
+  - [【💰】今天体检了，和去年没啥变化，常规体检有多大用途？](https://2libra.com/post/health-consultation/ANNlU4Y)
   - [一件小事](https://2libra.com/post/small-things/HmL_NH0)
   - [今日潘多拉，回收了签到的一半。](https://2libra.com/post/forum-function/2XTF0W8)
   - [关于一键三连、高赞高打赏高收藏帖子的建议](https://2libra.com/post/forum-function/aV-sqEe)
@@ -10,6 +13,7 @@
   - [我今天试了一下 TRAE work,它的 code 比一般掺水的中转好用，可以试一下](https://2libra.com/post/promotion/pxvGcL1)
   - [每天拉引体向上对身体的好处](https://2libra.com/post/sports/upioImt)
   - [潘多拉与我无缘](https://2libra.com/post/forum-function/FsmfVU8)
+  - [评论区留言，我发送 L 站青春版邀请码](https://2libra.com/post/invite-code/hhvtdBZ)
 - 404 Media
   - ['I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman](https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/)
   - [Lifeforms Can Survive on ‘Significant’ Regions of the Moon, Study Finds](https://www.404media.co/lifeforms-can-survive-on-significant-regions-of-the-moon-study-finds/)
@@ -116,9 +120,12 @@
 - 安全客
   - [不打招呼直接锁死服务器：Sorry勒索病毒国内多点爆发，专挑中小企业下手](https://www.anquanke.com/post/id/315994)
 - 爱范儿
+  - [iPhone X 彻底「停产」了，但我们还没走出它定义的时代｜明日后视镜](https://www.ifanr.com/1675378?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [【快讯】80 亿美元！「美国支付宝」买下全球最大 AI 中转站](https://www.ifanr.com/1675718?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜豆包进了特斯拉车机/曝苹果带摄像头AirPods延期至2027/宇树科技上市首日大涨460%​](https://www.ifanr.com/1675698?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [苹果「带摄像头的 AirPods」意外曝光，但今年还是买不到](https://www.ifanr.com/1675719?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [OpenAI计划“在2027年成为一家上市公司”](https://blog.upx8.com/OpenAI%E8%AE%A1%E5%88%92-%E5%9C%A82027%E5%B9%B4%E6%88%90%E4%B8%BA%E4%B8%80%E5%AE%B6%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8)
   - [亚马逊无人机配送将覆盖近500个美国城市](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%85%8D%E9%80%81%E5%B0%86%E8%A6%86%E7%9B%96%E8%BF%91500%E4%B8%AA%E7%BE%8E%E5%9B%BD%E5%9F%8E%E5%B8%82)
   - [摄像头版AirPods耳机仍将在2027年推出](https://blog.upx8.com/%E6%91%84%E5%83%8F%E5%A4%B4%E7%89%88AirPods%E8%80%B3%E6%9C%BA%E4%BB%8D%E5%B0%86%E5%9C%A82027%E5%B9%B4%E6%8E%A8%E5%87%BA)
   - [美国年轻人对人工智能愈发敌视 担心失业](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%84%88%E5%8F%91%E6%95%8C%E8%A7%86-%E6%8B%85%E5%BF%83%E5%A4%B1%E4%B8%9A)
