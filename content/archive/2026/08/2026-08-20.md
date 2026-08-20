@@ -4,13 +4,16 @@
   - [5 小时限制要回归了？](https://2libra.com/post/ai-tools/zReRyWc)
   - [8 月 20 日资本市场大事提醒](https://2libra.com/post/stock-market/np7q7lC)
   - [[开源] 搓了个 sing-box 管理脚本，支持多用户/限流/到期/订阅，分享一下](https://2libra.com/post/open-source-sharing/l1ZxOXs)
+  - [chat 卡死了](https://2libra.com/post/ai-tools/jEtatcf)
   - [From Text to Cinematic Reality: How Wan 3.0 Is Redefining AI Video Creation](https://2libra.com/post/promotion/Uz3rF5L)
   - [gemini 学生又复活了，其他比较豆包，生图还是有些用](https://2libra.com/post/ai-tools/wpxVBUm)
   - [windows 跟安卓之间的 airdrop 工具](https://2libra.com/post/tools-sharing/sa1XZYO)
+  - [【搬运】【快讯】之前 Gemini 学生会员掉的，可以直接重新办理](https://2libra.com/post/ai-tools/Cyvyqmm)
   - [【💰】2026.08 近期 DIY 組裝電腦詢問](https://2libra.com/post/computers-accessories/1YMzH3F)
   - [【💰】今天体检了，和去年没啥变化，常规体检有多大用途？](https://2libra.com/post/health-consultation/ANNlU4Y)
   - [【💰】有无好用的耳温枪推荐](https://2libra.com/post/recommendations/iyQsGue)
   - [一件小事](https://2libra.com/post/small-things/HmL_NH0)
+  - [中转站推荐？暂时发现一个送$175 的中转站](https://2libra.com/post/promotion/TZM2grF)
   - [人生始于 40 岁：属于自己的生活才真正开场](https://2libra.com/post/personal-life/i1FZ-eH)
   - [今日潘多拉，回收了签到的一半。](https://2libra.com/post/forum-function/2XTF0W8)
   - [公司联系方式到底在什么神秘数据库](https://2libra.com/post/workplace-stories/qSurM76)
@@ -38,6 +41,7 @@
   - [VU#874418: RDK-B WebUI contains multiple vulnerabilities](https://kb.cert.org/vuls/id/874418)
 - CoinTelegraph
   - [Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet](https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BitGo Korea secures VASP registration for institutional crypto custody](https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC notches primary wins, but loses $2M Florida race](https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FalconX, Ethena bring USDe backing assets into $1B institutional credit facility](https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -112,6 +116,7 @@
   - [Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months](https://www.theblock.co/news/markets/2026-08-20-us-bitcoin-etf-517-million-inflows-412291)
 - The Decoder
   - [Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn](https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/)
+  - [OpenAI builds safety system that catches misuse without storing customer data](https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/)
   - [OpenAI fixes Codex bug that deleted real user files without permission](https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/)
 - The Verge
   - [Does giving a camera wings dodge the FCC’s drone ban?](https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo)
@@ -164,6 +169,7 @@
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
+  - [2026 年，手机厂商为什么非做 Pocket 不可？｜硬哲学](https://www.ifanr.com/1675750?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [iPhone X 彻底「停产」了，但我们还没走出它定义的时代｜明日后视镜](https://www.ifanr.com/1675378?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [【快讯】80 亿美元！「美国支付宝」买下全球最大 AI 中转站](https://www.ifanr.com/1675718?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜豆包进了特斯拉车机/曝苹果带摄像头AirPods延期至2027/宇树科技上市首日大涨460%​](https://www.ifanr.com/1675698?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -173,6 +179,7 @@
 - 黑海洋
   - [OpenAI承诺不保留企业客户使用AI的数据](https://blog.upx8.com/OpenAI%E6%89%BF%E8%AF%BA%E4%B8%8D%E4%BF%9D%E7%95%99%E4%BC%81%E4%B8%9A%E5%AE%A2%E6%88%B7%E4%BD%BF%E7%94%A8AI%E7%9A%84%E6%95%B0%E6%8D%AE)
   - [OpenAI计划“在2027年成为一家上市公司”](https://blog.upx8.com/OpenAI%E8%AE%A1%E5%88%92-%E5%9C%A82027%E5%B9%B4%E6%88%90%E4%B8%BA%E4%B8%80%E5%AE%B6%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8)
+  - [YouTube向创作者提供数百万美元以换取独家发布权，以阻击Netflix](https://blog.upx8.com/YouTube%E5%90%91%E5%88%9B%E4%BD%9C%E8%80%85%E6%8F%90%E4%BE%9B%E6%95%B0%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E4%BB%A5%E6%8D%A2%E5%8F%96%E7%8B%AC%E5%AE%B6%E5%8F%91%E5%B8%83%E6%9D%83-%E4%BB%A5%E9%98%BB%E5%87%BBNetflix)
   - [亚马逊无人机配送将覆盖近500个美国城市](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%85%8D%E9%80%81%E5%B0%86%E8%A6%86%E7%9B%96%E8%BF%91500%E4%B8%AA%E7%BE%8E%E5%9B%BD%E5%9F%8E%E5%B8%82)
   - [摄像头版AirPods耳机仍将在2027年推出](https://blog.upx8.com/%E6%91%84%E5%83%8F%E5%A4%B4%E7%89%88AirPods%E8%80%B3%E6%9C%BA%E4%BB%8D%E5%B0%86%E5%9C%A82027%E5%B9%B4%E6%8E%A8%E5%87%BA)
   - [特朗普承认AI数据中心面临抵制：需要公关美化一下](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%9D%A2%E4%B8%B4%E6%8A%B5%E5%88%B6-%E9%9C%80%E8%A6%81%E5%85%AC%E5%85%B3%E7%BE%8E%E5%8C%96%E4%B8%80%E4%B8%8B)
