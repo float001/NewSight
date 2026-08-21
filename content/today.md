@@ -15,6 +15,7 @@
   - [【💰】求推荐云服务器](https://2libra.com/post/servers/hIYmOsa)
   - [【💰】潘多拉 拼好币](https://2libra.com/post/forum-function/9c1ZWhI)
   - [【💰】爆率拉满，每日话题：年轻人的养老度假地推荐](https://2libra.com/post/places-ive-been/NSG4lQ6)
+  - [【💰】现在美股还有人投资吗？](https://2libra.com/post/stock-market/pn3ZTlt)
   - [【💰】福利放送流量免费领！新人特惠$0.9/IP，流量$0.42/GB](https://2libra.com/post/promotion/Ms-5sRt)
   - [【💰】给老妈买个看剧用的平板，有什么推荐的吗？](https://2libra.com/post/tablets/ccSu0FB)
   - [【🔒】竞拍 v2ex 邀请码一枚](https://2libra.com/post/invite-code/lVOCrQ3)
@@ -36,7 +37,9 @@
   - [招人，网安行业，武汉](https://2libra.com/post/recruiting/Bj3j9Zh)
   - [明察（在线电子放大镜）](https://2libra.com/post/tools-sharing/fwfnrta)
   - [晚上吃什么](https://2libra.com/post/personal-life/dhF6n54)
+  - [深圳有啥好玩的（博物馆最好）](https://2libra.com/post/recommendations/_iGC3GU)
   - [看了一下最后一次中金币池的时间，这正常吗？](https://2libra.com/post/forum-function/urwjaJF)
+  - [终于 9 级了，10 级放开之前还有机会么？](https://2libra.com/post/forum-function/poTWy0X)
   - [老哥们谁有 win10 和 win11 能玩的 cs1.5 资源](https://2libra.com/post/game-discussion/tChsKBW)
   - [请教各位大神 AI 量化的处理](https://2libra.com/post/vibe-coding/uAcpG-r)
   - [还有两个半小时下播，大家周六日打算做什么呢](https://2libra.com/post/personal-life/wJoldSm)
@@ -50,6 +53,7 @@
   - [A Sloppy Interface Is a Security Liability ￼](https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/)
 - CoinTelegraph
   - [Binance opens crypto trading to AI agents with user-set controls](https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Binance says employees questioned in UAE cleared and released](https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October](https://cointelegraph.com/markets/bitcoin-etfs-ether-etfs-largest-inflow-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1](https://cointelegraph.com/news/bitcoin-miners-ai-hpc-capex-revenue-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Capital.com plans UAE spot crypto services after affiliate wins licence](https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -76,6 +80,7 @@
   - [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
   - [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
   - [Emacs 31.1 will release on 8/24](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
+  - [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
   - [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
   - [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/)
   - [Stop Eating Lady Gaga's Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
@@ -91,14 +96,23 @@
 - infosecurity-magazine.com
   - [Cybersecurity Job Ads Requiring AI Skills Double](https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/)
   - [New Agent Tesla Malware Variant Boosts Evasion Capabilities](https://www.infosecurity-magazine.com/news/agent-tesla-malware-evasion/)
+  - [North Korean Hackers Tied to Rust Supply Chain Attack](https://www.infosecurity-magazine.com/news/north-korean-rust-supply-chain/)
+- Kali Linux Tutorials
+  - [Nginx Commands in Linux: Start, Stop, Reload, Test, and Log](https://kalilinuxtutorials.com/nginx-commands-linux/)
+  - [ufw Command in Linux: Manage Firewall Rules with Examples](https://kalilinuxtutorials.com/ufw-command-linux/)
+  - [who Command in Linux: Show All Logged-In Users and Sessions](https://kalilinuxtutorials.com/who-command-linux/)
 - matduggan.com
   - [In Purgatory Everyone Likes Crepes: My Time at a Greek All-Inclusive](https://matduggan.com/in-purgatory-everyone-likes-crepes-my-time-at-a-greek-all-inclusive/)
+- MIT Technology Review
+  - [The Download: threats from space mirrors and credit for AI drugs](https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/)
 - Pen Test Partners
   - [DEFCON 34: Planes, PLCs and 6am runs](https://www.pentestpartners.com/security-blog/planes-plcs-and-6am-runs-at-defcon-34/)
 - pluralistic.net
   - [Pluralistic: The actual epistemic crisis (20 Aug 2026)](https://pluralistic.net/2026/08/20/epistemic-void/)
 - Product Hunt
   - [Antigravity IDE Extensions](https://www.producthunt.com/products/google-antigravity)
+- Recent Commits to cve:main
+  - [Update Fri Aug 21 12:30:26 UTC 2026](https://github.com/trickest/cve/commit/452b995d13047bf6493509009d048af049598e13)
 - Securelist
   - [The invisible passenger in your car](https://securelist.com/android-head-unit-malware/121106/)
 - shkspr.mobi
@@ -237,6 +251,7 @@
   - [Advanced Static malware analyzer that reveals 8 injection techniques, critical API calls, hidden strings, exports PE sections (.text, .rdata) as .bin, supports PE/ELF/Mach-O/scripts, and integrates 60+ AV engines via VirusTotal - Open Source](https://buaq.net/go-436700.html)
   - [AI安全专题周报](https://buaq.net/go-436720.html)
   - [asterisk v23.5.0-rc2](https://buaq.net/go-436609.html)
+  - [detection-defense-library](https://buaq.net/go-436753.html)
   - [Good place to find .onion links](https://buaq.net/go-436606.html)
   - [iDescriptor v0.6.2](https://buaq.net/go-436678.html)
   - [oscp-notes-2026](https://buaq.net/go-436705.html)
