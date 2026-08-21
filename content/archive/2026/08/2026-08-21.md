@@ -49,8 +49,11 @@
   - [AI安全专题周报](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-3/)
 - 404 Media
   - ['Darth Vader' Wants Flock in San Diego](https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/)
+  - [Behind the Blog: Early Birthday Reflections](https://www.404media.co/behind-the-blog-early-birthday-reflections/)
 - blog.jim-nielsen.com
   - [A Sloppy Interface Is a Security Liability ￼](https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#756733: Calix GS7 XGS GS5239XG residential router contains missing authentication vulnerability](https://kb.cert.org/vuls/id/756733)
 - CoinTelegraph
   - [Binance opens crypto trading to AI agents with user-set controls](https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance says employees questioned in UAE cleared and released](https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -78,6 +81,7 @@
 - Hacker News Frontpage
   - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
   - [Citizen Devs: Everyone is an engineer now](https://www.massdriver.cloud/blogs/the-citizen-developer)
+  - [Claudette: Make Claude Stop Talking Like a BuzzFeed Article](https://github.com/adnanakil/nobuzz/blob/main/README.md)
   - [Code as an Artifact](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
   - [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
   - [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
@@ -92,11 +96,14 @@
   - [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
   - [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
   - [URL shortener links stored in your ATProto PDS](https://atpr.to/)
+  - [What We Lost When Search Stopped Making Us Think](https://blog.8ball.space/what-we-lost-when-search/)
 - HackerNoon
   - [MemeCore Arrives on Nasdaq Through $1 Billion Landmark Treasury Transaction！](https://hackernoon.com/memecore-arrives-on-nasdaq-through-$1-billion-landmark-treasury-transaction?source=rss)
   - [The Most Expensive Bug in My Trading System Was Me](https://hackernoon.com/the-most-expensive-bug-in-my-trading-system-was-me?source=rss)
 - Horizon3.ai
   - [CVE-2026-19478 | MeGitLab CE/EE GraphQL Directive Code Injection Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-19478/)
+- IEEE Spectrum
+  - [Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI](https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922)
 - infosecurity-magazine.com
   - [Cybersecurity Job Ads Requiring AI Skills Double](https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/)
   - [New Agent Tesla Malware Variant Boosts Evasion Capabilities](https://www.infosecurity-magazine.com/news/agent-tesla-malware-evasion/)
@@ -151,6 +158,7 @@
   - [Mark buys a castle](https://techcrunch.com/2026/08/20/mark-buys-a-castle/)
   - [Ok, can we actually cool data centers with our pee?](https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/)
   - [OpenAI is gaining on Anthropic with business users, new data indicates](https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/)
+  - [Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy](https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/)
   - [Patreon launches 30 new creator features, including short-form Clips and revamped discovery](https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/)
   - [Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants](https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/)
   - [Ramp launches its own AI model router, called Router](https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/)
@@ -163,6 +171,7 @@
   - [The 2026 Startup Battlefield 200 is here — see who made the cut](https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/)
   - [The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss](https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/)
   - [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
+  - [Walmart to finally start accepting Apple Pay and Google Pay](https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/)
 - The Block
   - [AI adoption in crypto crime rose 40% over the past year, TRM Labs says](https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297)
   - [Anchorage CEO says AI agents need bank accounts for ‘The Jetsons’-like future](https://www.theblock.co/news/business/2026-08-21-anchorage-ceo-ai-the-jetsons-412427)
@@ -190,6 +199,7 @@
   - [Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops](https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty)
   - [Genki’s new customizable controller has a big screen and adjustable buttons](https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen)
   - [Google Discover is getting an AI chatbot-tuned feed](https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed)
+  - [Google’s Pixel 10A is a great deal at 15 percent off](https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale)
   - [Major YouTube creators are facing backlash for accepting AI money](https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash)
   - [Mark Zuckerberg bought an Irish castle](https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland)
   - [My big, fat, technophobic cat](https://www.theverge.com/gadgets/981738/my-big-fat-technophobic-cat)
@@ -197,6 +207,7 @@
   - [Riot is ending development on its League of Legends fighting game](https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development)
   - [Tesla sunsets its Solar Roof tiles](https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued)
   - [The Genesis GV90 blows the bloody doors off what’s possible in EV design](https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor)
+  - [Why does it seem like food recalls are out of control this year?](https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control)
 - Vulners.com RSS Feed
   - [Chromium: CVE-2026-76033 Inappropriate implementation in CORS](https://vulners.com/mscve/MS:CVE-2026-76033?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium: CVE-2026-76034 Buffer overflow in WebGL](https://vulners.com/mscve/MS:CVE-2026-76034?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -249,6 +260,7 @@
   - [Influencers and Resellers Are Turning Empty Boxes Into Big Cash](https://www.wired.com/story/when-the-packaging-is-the-product-empty-boxes-influencers/)
   - [Lenovo Coupon Codes: 15% Off in August 2026](https://www.wired.com/story/lenovo-coupon-code/)
   - [Meta Quest Promo Codes and Coupons for August 2026](https://www.wired.com/story/meta-quest-promo-code/)
+  - [Meta’s Big Reckoning Is Here](https://www.wired.com/story/metas-big-reckoning-is-here/)
   - [NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026](https://www.wired.com/story/nordvpn-coupon/)
   - [Paramount+ Coupon Codes and Deals for August 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
   - [Ray-Ban Promo Codes: Save 50% in August 2026](https://www.wired.com/story/ray-ban-promo-code/)
