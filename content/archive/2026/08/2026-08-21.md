@@ -3,10 +3,12 @@
 - 2Libra
   - [GPT Pro 直充问题咨询](https://2libra.com/post/ai-tools/JLbmX5o)
   - [V 站上看来的，也生成了一张个人手机用机史](https://2libra.com/post/phone/qlB5kCm)
+  - [【投票】关于首页左边栏的建议](https://2libra.com/post/forum-function/P04yUsr)
   - [【💰】v2ex 邀请码换 2 站 Pro 可行吗？](https://2libra.com/post/invite-code/Hnch091)
   - [【💰】一整个就是直接下海](https://2libra.com/post/pet-sharing/RUIzBec)
   - [【💰】关于徽章](https://2libra.com/post/forum-function/lXPAXI6)
   - [【💰】周五啦，这周末要搬家，好忙](https://2libra.com/post/personal-life/X8AL_Wd)
+  - [【💰】恭喜自己 9 级了](https://2libra.com/post/forum-function/lsc75yh)
   - [【💰】潘多拉 拼好币](https://2libra.com/post/forum-function/9c1ZWhI)
   - [【💰】爆率拉满，每日话题：年轻人的养老度假地推荐](https://2libra.com/post/places-ive-been/NSG4lQ6)
   - [【💰】福利放送流量免费领！新人特惠$0.9/IP，流量$0.42/GB](https://2libra.com/post/promotion/Ms-5sRt)
@@ -15,10 +17,15 @@
   - [为了再一次开始减肥，这次我 Vibe 了一个 AI 减重助手，欢迎使用](https://2libra.com/post/personal-works/mK-TmOi)
   - [你们喜欢浅色还是深色，非 it 行业，用深色背景总被问。](https://2libra.com/post/small-things/8C_UBmC)
   - [你觉得朋友是什么？](https://2libra.com/post/social-observation/h1UyMwG)
+  - [做了一款直观可视二十四节气以及星象位置](https://2libra.com/post/personal-works/3E4mB4f)
   - [儿童神秘文章：说点什么](https://2libra.com/post/idea/2e10rQf)
+  - [关于手机摄像头位置的吐槽](https://2libra.com/post/small-things/xx8z6DE)
+  - [减脂期主食推荐](https://2libra.com/post/health-consultation/mI2Mtex)
   - [分享一个好用书签管理插件](https://2libra.com/post/promotion/bCAVF89)
   - [周五了，大家来推一首最近单曲循环的歌](https://2libra.com/post/music-sharing/KuVZXB4)
+  - [在线人数 215 了，周五最后的狂欢，看能不能创新高](https://2libra.com/post/forum-function/GV_PUOH)
   - [大家早上吃饭吗](https://2libra.com/post/small-things/tgjF2yu)
+  - [小红书的模型 API 有人用了吗？是免费的吗？性能如何？](https://2libra.com/post/ai-gateway/_whMNM8)
   - [我发现我也能邀请哎，1000 额度，还是不少的](https://2libra.com/post/invite-code/_udL4gH)
   - [招人，网安行业，武汉](https://2libra.com/post/recruiting/Bj3j9Zh)
   - [明察（在线电子放大镜）](https://2libra.com/post/tools-sharing/fwfnrta)
@@ -39,6 +46,7 @@
   - [Capital.com plans UAE spot crypto services after affiliate wins licence](https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korean lawmakers seek expanded FIU powers over unregistered crypto firms](https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K](https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US debt tops $40T stoking debate on what it means for Bitcoin](https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
   - [N-able Bug Exposes Password Vault Master Keys](https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys)
@@ -53,6 +61,7 @@
   - [Code as an Artifact](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
   - [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
   - [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
+  - [Emacs 31.1 will release on 8/24](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
   - [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
   - [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/)
   - [Stop Eating Lady Gaga's Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
@@ -67,6 +76,8 @@
   - [CVE-2026-19478 | MeGitLab CE/EE GraphQL Directive Code Injection Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-19478/)
 - infosecurity-magazine.com
   - [Cybersecurity Job Ads Requiring AI Skills Double](https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/)
+- matduggan.com
+  - [In Purgatory Everyone Likes Crepes: My Time at a Greek All-Inclusive](https://matduggan.com/in-purgatory-everyone-likes-crepes-my-time-at-a-greek-all-inclusive/)
 - pluralistic.net
   - [Pluralistic: The actual epistemic crisis (20 Aug 2026)](https://pluralistic.net/2026/08/20/epistemic-void/)
 - Product Hunt
@@ -112,6 +123,7 @@
   - [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
 - The Block
   - [Anchorage CEO says AI agents need bank accounts for ‘The Jetsons’-like future](https://www.theblock.co/news/business/2026-08-21-anchorage-ceo-ai-the-jetsons-412427)
+  - [Avalanche’s Nahas: Token prices are down, but ‘I’ve never seen more opportunities’ in crypto](https://www.theblock.co/news/ecosystems/2026-08-21-avalanches-nahas-token-prices-are-down-but-ive-never-seen-more-opportunities-in-crypto-412431)
   - [Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’](https://www.theblock.co/news/markets/2026-08-20-bitcoin-breaks-through-75500-412404)
   - [CME CEO Terrence Duffy trades barbs with CFTC’s Selig and Kalshi’s COO over prediction market oversight](https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397)
   - [Kraken parent Payward explores becoming a ‘full bank’ outside the US](https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390)
@@ -119,7 +131,9 @@
   - [South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance](https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420)
 - The Decoder
   - [Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash](https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/)
+  - [GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic](https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/)
   - [LLMs could write like humans but post-training guardrails make their text detectable](https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/)
+  - [Nvidia is acquiring Poolside's "Model Factory" and 109 employees for $6 billion](https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/)
   - [OpenAI's GPT-Image-2 can now generate images without a background](https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/)
 - The Verge
   - [Australia says Roblox hasn&#8217;t fixed its child predator problem](https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety)
@@ -188,6 +202,7 @@
 - 不安全
   - [asterisk v23.5.0-rc2](https://buaq.net/go-436609.html)
   - [Good place to find .onion links](https://buaq.net/go-436606.html)
+  - [iDescriptor v0.6.2](https://buaq.net/go-436678.html)
   - [日本云计算厂商樱花网络(Sakura Internet)遭黑客攻击 可能影响136万名客户](https://buaq.net/go-436603.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -197,6 +212,7 @@
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
   - [ChatGPT 可以看短信了，AI 想从你的 App 里拿到你的一切](https://www.ifanr.com/1675954?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [「最便宜的问界」来了，车长 1.5 米，小蓝灯也没省下](https://www.ifanr.com/1676005?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 18 Pro要来了,富士康开出8800元招工奖金/微信灰测AI修图/华为推出阔直板手机](https://www.ifanr.com/1675947?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [比亚迪大汉预售价 24.99 万元起！第三代唐同步亮相，内饰大变样](https://www.ifanr.com/1675982?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果 Apple Music 不想放过任何一首 AI 音乐](https://www.ifanr.com/1675958?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -216,6 +232,7 @@
   - [Anthropic计划更改先进AI的数据保留政策](https://blog.upx8.com/Anthropic%E8%AE%A1%E5%88%92%E6%9B%B4%E6%94%B9%E5%85%88%E8%BF%9BAI%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BF%9D%E7%95%99%E6%94%BF%E7%AD%96)
   - [亚马逊无人机送货“翻车”：包裹空投进泳池](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%80%81%E8%B4%A7-%E7%BF%BB%E8%BD%A6-%E5%8C%85%E8%A3%B9%E7%A9%BA%E6%8A%95%E8%BF%9B%E6%B3%B3%E6%B1%A0)
   - [全球专利申请：中国二十年内增长10倍](https://blog.upx8.com/%E5%85%A8%E7%90%83%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7-%E4%B8%AD%E5%9B%BD%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%86%85%E5%A2%9E%E9%95%BF10%E5%80%8D)
+  - [台积电研发1.6nm A16工艺 计划今年量产](https://blog.upx8.com/%E5%8F%B0%E7%A7%AF%E7%94%B5%E7%A0%94%E5%8F%911-6nm-A16%E5%B7%A5%E8%89%BA-%E8%AE%A1%E5%88%92%E4%BB%8A%E5%B9%B4%E9%87%8F%E4%BA%A7)
   - [币安现在允许用户使用AI智能体进行交易](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E7%8E%B0%E5%9C%A8%E5%85%81%E8%AE%B8%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8AI%E6%99%BA%E8%83%BD%E4%BD%93%E8%BF%9B%E8%A1%8C%E4%BA%A4%E6%98%93)
   - [英雄联盟衍生格斗游戏年底结束积极开发](https://blog.upx8.com/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E8%A1%8D%E7%94%9F%E6%A0%BC%E6%96%97%E6%B8%B8%E6%88%8F%E5%B9%B4%E5%BA%95%E7%BB%93%E6%9D%9F%E7%A7%AF%E6%9E%81%E5%BC%80%E5%8F%91)
   - [苹果音乐将为AI生成的歌曲添加标签](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E9%9F%B3%E4%B9%90%E5%B0%86%E4%B8%BAAI%E7%94%9F%E6%88%90%E7%9A%84%E6%AD%8C%E6%9B%B2%E6%B7%BB%E5%8A%A0%E6%A0%87%E7%AD%BE)
