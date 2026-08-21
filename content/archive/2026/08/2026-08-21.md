@@ -29,7 +29,9 @@
   - [周五了，大家来推一首最近单曲循环的歌](https://2libra.com/post/music-sharing/KuVZXB4)
   - [在线人数 215 了，周五最后的狂欢，看能不能创新高](https://2libra.com/post/forum-function/GV_PUOH)
   - [大家早上吃饭吗](https://2libra.com/post/small-things/tgjF2yu)
+  - [如何评价 V2EX 这篇帖子：《之前答应给全楼送永久 VIP 的 jav.hk 上线了》，回复历史最高达到将近四千条评论](https://2libra.com/post/promotion/b9PbZkx)
   - [小红书的模型 API 有人用了吗？是免费的吗？性能如何？](https://2libra.com/post/ai-gateway/_whMNM8)
+  - [当最上游也宕机：从 OpenAI 稳定性聊中转站的未来](https://2libra.com/post/ai-gateway/SWnZC7O)
   - [我发现我也能邀请哎，1000 额度，还是不少的](https://2libra.com/post/invite-code/_udL4gH)
   - [招人，网安行业，武汉](https://2libra.com/post/recruiting/Bj3j9Zh)
   - [明察（在线电子放大镜）](https://2libra.com/post/tools-sharing/fwfnrta)
@@ -40,6 +42,8 @@
   - [还有两个半小时下播，大家周六日打算做什么呢](https://2libra.com/post/personal-life/wJoldSm)
   - [送鸡蛋 送流量](https://2libra.com/post/sharing-discoveries/CkTaWlE)
   - [黄金涨回 980 元/g 了，870 元/g 时跑路的我哭了](https://2libra.com/post/financial-management/za37KBB)
+- 360 Netlab Blog - 360
+  - [AI安全专题周报](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-3/)
 - 404 Media
   - ['Darth Vader' Wants Flock in San Diego](https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/)
 - blog.jim-nielsen.com
@@ -52,6 +56,7 @@
   - [Coldcard strengthens seed generation with firmware update](https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korean lawmakers seek expanded FIU powers over unregistered crypto firms](https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’](https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K](https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US debt tops $40T stoking debate on what it means for Bitcoin](https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
@@ -61,6 +66,8 @@
   - [Rust supply-chain attack, Microsoft patches 398 flaws, Siemens PLCs targeted by AI-generated exploits](https://defend.network/briefings/rust-supply-chain-microsoft-patches-siemens-ics-2026-08-21.html)
 - Fidelis Security
   - [WordPress REST API Security: What the wp2shell Attack Chain Teaches Us](https://fidelissecurity.com/threatgeek/threat-detection-response/wordpress-rest-api-security-wp2shell-attack-chain/)
+- Google DeepMind Blog
+  - [From Atari to EVE Online: Building on 15 Years of AI Research in Games](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/)
 - Hacker News Frontpage
   - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
   - [Citizen Devs: Everyone is an engineer now](https://www.massdriver.cloud/blogs/the-citizen-developer)
@@ -83,14 +90,19 @@
   - [CVE-2026-19478 | MeGitLab CE/EE GraphQL Directive Code Injection Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-19478/)
 - infosecurity-magazine.com
   - [Cybersecurity Job Ads Requiring AI Skills Double](https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/)
+  - [New Agent Tesla Malware Variant Boosts Evasion Capabilities](https://www.infosecurity-magazine.com/news/agent-tesla-malware-evasion/)
 - matduggan.com
   - [In Purgatory Everyone Likes Crepes: My Time at a Greek All-Inclusive](https://matduggan.com/in-purgatory-everyone-likes-crepes-my-time-at-a-greek-all-inclusive/)
+- Pen Test Partners
+  - [DEFCON 34: Planes, PLCs and 6am runs](https://www.pentestpartners.com/security-blog/planes-plcs-and-6am-runs-at-defcon-34/)
 - pluralistic.net
   - [Pluralistic: The actual epistemic crisis (20 Aug 2026)](https://pluralistic.net/2026/08/20/epistemic-void/)
 - Product Hunt
   - [Antigravity IDE Extensions](https://www.producthunt.com/products/google-antigravity)
 - Securelist
   - [The invisible passenger in your car](https://securelist.com/android-head-unit-malware/121106/)
+- shkspr.mobi
+  - [Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us by Ed Yong ★★★☆☆](https://shkspr.mobi/blog/2026/08/book-review-an-immense-world-how-animal-senses-reveal-the-hidden-realms-around-us-by-ed-yong/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-0603](https://sploitus.com/exploit?id=6C73067A-0EFF-5401-91BC-98C2674FB633&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-16723](https://sploitus.com/exploit?id=D07DAAB9-2AD8-516D-96E8-55801167F281&utm_source=rss&utm_medium=rss)
@@ -129,11 +141,13 @@
   - [The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss](https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/)
   - [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
 - The Block
+  - [AI adoption in crypto crime rose 40% over the past year, TRM Labs says](https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297)
   - [Anchorage CEO says AI agents need bank accounts for ‘The Jetsons’-like future](https://www.theblock.co/news/business/2026-08-21-anchorage-ceo-ai-the-jetsons-412427)
   - [Avalanche’s Nahas: Token prices are down, but ‘I’ve never seen more opportunities’ in crypto](https://www.theblock.co/news/ecosystems/2026-08-21-avalanches-nahas-token-prices-are-down-but-ive-never-seen-more-opportunities-in-crypto-412431)
   - [Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’](https://www.theblock.co/news/markets/2026-08-20-bitcoin-breaks-through-75500-412404)
   - [Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein](https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443)
   - [CME CEO Terrence Duffy trades barbs with CFTC’s Selig and Kalshi’s COO over prediction market oversight](https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397)
+  - [Crypto is still in ‘winter’ price-wise but it’s an ‘institutional summer,’ STS Digital CEO says](https://www.theblock.co/news/markets/2026-08-21-crypto-is-still-in-winter-price-wise-but-an-institutional-summer-sts-digital-ceo-says-412454)
   - [Kraken parent Payward explores becoming a ‘full bank’ outside the US](https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390)
   - [MANTRA freezes all transactions and network following unspecified incident](https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416)
   - [South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance](https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420)
@@ -154,7 +168,9 @@
   - [Google Discover is getting an AI chatbot-tuned feed](https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed)
   - [Mark Zuckerberg bought an Irish castle](https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland)
   - [My big, fat, technophobic cat](https://www.theverge.com/gadgets/981738/my-big-fat-technophobic-cat)
+  - [My cats hate each other, but this automatic feeder is helping](https://www.theverge.com/gadgets/982897/automatic-feeder-cat-enemies)
   - [Riot is ending development on its League of Legends fighting game](https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development)
+  - [Tesla sunsets its Solar Roof tiles](https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued)
   - [The Genesis GV90 blows the bloody doors off what’s possible in EV design](https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor)
 - Vulners.com RSS Feed
   - [Chromium: CVE-2026-76033 Inappropriate implementation in CORS](https://vulners.com/mscve/MS:CVE-2026-76033?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -170,6 +186,8 @@
   - [Chromium: CVE-2026-76045 Use after free in WebGL](https://vulners.com/mscve/MS:CVE-2026-76045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium: CVE-2026-76047 Type confusion in V8](https://vulners.com/mscve/MS:CVE-2026-76047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13121](https://vulners.com/nvd/NVD:CVE-2026-13121?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15576 Agent receiver accepts mTLS requests without a client certificate](https://vulners.com/cve/CVE-2026-15576?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15576 Agent receiver accepts mTLS requests without a client certificate](https://vulners.com/cvelist/CVELIST:CVE-2026-15576?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15679](https://vulners.com/nvd/NVD:CVE-2026-15679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15686](https://vulners.com/nvd/NVD:CVE-2026-15686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18262](https://vulners.com/nvd/NVD:CVE-2026-18262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -202,6 +220,7 @@
   - [Google Pixel 11 Review: Minor Upgrade](https://www.wired.com/review/google-pixel-11/)
   - [Hoka Coupon Codes: 30% Off in August 2026](https://www.wired.com/story/hoka-coupon-code/)
   - [Home Depot Promo Codes: 30% Off in August 2026](https://www.wired.com/story/home-depot-promo-code/)
+  - [I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame](https://www.wired.com/story/best-pool-cleaning-robots/)
   - [Influencers and Resellers Are Turning Empty Boxes Into Big Cash](https://www.wired.com/story/when-the-packaging-is-the-product-empty-boxes-influencers/)
   - [Lenovo Coupon Codes: 15% Off in August 2026](https://www.wired.com/story/lenovo-coupon-code/)
   - [Meta Quest Promo Codes and Coupons for August 2026](https://www.wired.com/story/meta-quest-promo-code/)
@@ -216,6 +235,7 @@
   - [Zoro Coupon Codes: 55% Off August](https://www.wired.com/story/zoro-promo-code/)
 - 不安全
   - [Advanced Static malware analyzer that reveals 8 injection techniques, critical API calls, hidden strings, exports PE sections (.text, .rdata) as .bin, supports PE/ELF/Mach-O/scripts, and integrates 60+ AV engines via VirusTotal - Open Source](https://buaq.net/go-436700.html)
+  - [AI安全专题周报](https://buaq.net/go-436720.html)
   - [asterisk v23.5.0-rc2](https://buaq.net/go-436609.html)
   - [Good place to find .onion links](https://buaq.net/go-436606.html)
   - [iDescriptor v0.6.2](https://buaq.net/go-436678.html)
@@ -225,12 +245,16 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [太阳能扩张政策与鸟类多样性下降相关](https://www.solidot.org/story?sid=85152)
+- 安全客
+  - [保镖成了内鬼：微软Defender再曝零日漏洞，普通账户一键提权SYSTEM，补丁还没用](https://www.anquanke.com/post/id/316003)
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
+  - [19.68 万元起，华为乾崑双智上车，全新深蓝 G318 想从山野开回城市](https://www.ifanr.com/1676102?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [ChatGPT 可以看短信了，AI 想从你的 App 里拿到你的一切](https://www.ifanr.com/1675954?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [「最便宜的问界」来了，车长 1.5 米，小蓝灯也没省下](https://www.ifanr.com/1676005?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [微信 AI 修图抢先体验：能用够用，但还不够好用](https://www.ifanr.com/1676048?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [捷尼赛思 GV90 正式亮相，全尺寸对开门量产，比劳斯莱斯更激进](https://www.ifanr.com/1676069?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 18 Pro要来了,富士康开出8800元招工奖金/微信灰测AI修图/华为推出阔直板手机](https://www.ifanr.com/1675947?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [比亚迪大汉预售价 24.99 万元起！第三代唐同步亮相，内饰大变样](https://www.ifanr.com/1675982?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [突发| DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了](https://www.ifanr.com/1676067?utm_source=rss&utm_medium=rss&utm_campaign=)
