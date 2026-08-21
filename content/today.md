@@ -5,12 +5,16 @@
   - [【💰】一整个就是直接下海](https://2libra.com/post/pet-sharing/RUIzBec)
   - [【💰】潘多拉 拼好币](https://2libra.com/post/forum-function/9c1ZWhI)
   - [【💰】爆率拉满，每日话题：年轻人的养老度假地推荐](https://2libra.com/post/places-ive-been/NSG4lQ6)
+  - [【💰】福利放送流量免费领！新人特惠$0.9/IP，流量$0.42/GB](https://2libra.com/post/promotion/Ms-5sRt)
   - [【💰】给老妈买个看剧用的平板，有什么推荐的吗？](https://2libra.com/post/tablets/ccSu0FB)
+  - [【🔒】竞拍 v2ex 邀请码一枚](https://2libra.com/post/invite-code/lVOCrQ3)
   - [为了再一次开始减肥，这次我 Vibe 了一个 AI 减重助手，欢迎使用](https://2libra.com/post/personal-works/mK-TmOi)
   - [你觉得朋友是什么？](https://2libra.com/post/social-observation/h1UyMwG)
   - [儿童神秘文章：说点什么](https://2libra.com/post/idea/2e10rQf)
   - [大家早上吃饭吗](https://2libra.com/post/small-things/tgjF2yu)
+  - [看了一下最后一次中金币池的时间，这正常吗？](https://2libra.com/post/forum-function/urwjaJF)
   - [老哥们谁有 win10 和 win11 能玩的 cs1.5 资源](https://2libra.com/post/game-discussion/tChsKBW)
+  - [黄金涨回 980 元/g 了，870 元/g 时跑路的我哭了](https://2libra.com/post/financial-management/za37KBB)
 - 404 Media
   - ['Darth Vader' Wants Flock in San Diego](https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/)
 - blog.jim-nielsen.com
@@ -18,6 +22,7 @@
 - CoinTelegraph
   - [Binance opens crypto trading to AI agents with user-set controls](https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1](https://cointelegraph.com/news/bitcoin-miners-ai-hpc-capex-revenue-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Capital.com plans UAE spot crypto services after affiliate wins licence](https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US debt tops $40T stoking debate on what it means for Bitcoin](https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
@@ -29,6 +34,7 @@
   - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
   - [Citizen Devs: Everyone is an engineer now](https://www.massdriver.cloud/blogs/the-citizen-developer)
   - [Code as an Artifact](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
+  - [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
   - [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
   - [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
   - [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/)
@@ -116,10 +122,15 @@
   - [日本云计算厂商樱花网络(Sakura Internet)遭黑客攻击 可能影响136万名客户](https://buaq.net/go-436603.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [太阳能扩张政策与鸟类多样性下降相关](https://www.solidot.org/story?sid=85152)
 - 爱范儿
+  - [ChatGPT 可以看短信了，AI 想从你的 App 里拿到你的一切](https://www.ifanr.com/1675954?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 18 Pro要来了,富士康开出8800元招工奖金/微信灰测AI修图/华为推出阔直板手机](https://www.ifanr.com/1675947?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [苹果 Apple Music 不想放过任何一首 AI 音乐](https://www.ifanr.com/1675958?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [零基础速通DeepSeek Harness，带你玩转赛博乐高](https://www.ifanr.com/1675781?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…](https://www.qbitai.com/2026/08/476413.html)
   - [三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果](https://www.qbitai.com/2026/08/476403.html)
   - [国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%](https://www.qbitai.com/2026/08/476409.html)
   - [网易有道2026Q2财报：Q2净收入14.7亿元，AI原生战略加速兑现商业价值](https://www.qbitai.com/2026/08/476400.html)
@@ -127,4 +138,5 @@
 - 黑海洋
   - [Anthropic计划更改先进AI的数据保留政策](https://blog.upx8.com/Anthropic%E8%AE%A1%E5%88%92%E6%9B%B4%E6%94%B9%E5%85%88%E8%BF%9BAI%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BF%9D%E7%95%99%E6%94%BF%E7%AD%96)
   - [亚马逊无人机送货“翻车”：包裹空投进泳池](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%80%81%E8%B4%A7-%E7%BF%BB%E8%BD%A6-%E5%8C%85%E8%A3%B9%E7%A9%BA%E6%8A%95%E8%BF%9B%E6%B3%B3%E6%B1%A0)
+  - [币安现在允许用户使用AI智能体进行交易](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E7%8E%B0%E5%9C%A8%E5%85%81%E8%AE%B8%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8AI%E6%99%BA%E8%83%BD%E4%BD%93%E8%BF%9B%E8%A1%8C%E4%BA%A4%E6%98%93)
   - [苹果音乐将为AI生成的歌曲添加标签](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E9%9F%B3%E4%B9%90%E5%B0%86%E4%B8%BAAI%E7%94%9F%E6%88%90%E7%9A%84%E6%AD%8C%E6%9B%B2%E6%B7%BB%E5%8A%A0%E6%A0%87%E7%AD%BE)
