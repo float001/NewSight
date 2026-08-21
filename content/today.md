@@ -2,8 +2,10 @@
 
 - 2Libra
   - [【💰】一整个就是直接下海](https://2libra.com/post/pet-sharing/RUIzBec)
+  - [【💰】给老妈买个看剧用的平板，有什么推荐的吗？](https://2libra.com/post/tablets/ccSu0FB)
   - [你觉得朋友是什么？](https://2libra.com/post/social-observation/h1UyMwG)
   - [儿童神秘文章：说点什么](https://2libra.com/post/idea/2e10rQf)
+  - [大家早上吃饭吗](https://2libra.com/post/small-things/tgjF2yu)
 - 404 Media
   - ['Darth Vader' Wants Flock in San Diego](https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/)
 - blog.jim-nielsen.com
@@ -22,10 +24,12 @@
   - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
   - [Citizen Devs: Everyone is an engineer now](https://www.massdriver.cloud/blogs/the-citizen-developer)
   - [Code as an Artifact](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
+  - [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
   - [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
   - [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/)
   - [Stop Eating Lady Gaga's Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
   - [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+  - [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
   - [URL shortener links stored in your ATProto PDS](https://atpr.to/)
 - HackerNoon
   - [MemeCore Arrives on Nasdaq Through $1 Billion Landmark Treasury Transaction！](https://hackernoon.com/memecore-arrives-on-nasdaq-through-$1-billion-landmark-treasury-transaction?source=rss)
@@ -36,6 +40,7 @@
   - [Pluralistic: The actual epistemic crisis (20 Aug 2026)](https://pluralistic.net/2026/08/20/epistemic-void/)
 - TechCrunch
   - [A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds](https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/)
+  - [AI data startup Micro1 reaches $500M gross run rate amid AI training boom](https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/)
   - [Castelion hits $13B valuation to mass-produce hypersonic missiles](https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/)
   - [ChatGPT can now send texts for you with new Apple Messages plug-in](https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/)
   - [Google gives publishers a new way to fight AI-driven traffic losses](https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/)
@@ -51,6 +56,7 @@
   - [Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders](https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/)
   - [Senators demand answers from TikTok over experiment that disabled safeguards](https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/)
   - [Someone targeted security researchers using a fake crypto conference as a lure](https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/)
+  - [Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada](https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/)
   - [The 2026 Startup Battlefield 200 is here — see who made the cut](https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/)
   - [The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss](https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/)
   - [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
@@ -97,5 +103,12 @@
 - Wired
   - [Google Pixel 11 Review: Minor Upgrade](https://www.wired.com/review/google-pixel-11/)
   - [Silicon Valley Doesn't Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/)
+- 不安全
+  - [Good place to find .onion links](https://buaq.net/go-436606.html)
+  - [日本云计算厂商樱花网络(Sakura Internet)遭黑客攻击 可能影响136万名客户](https://buaq.net/go-436603.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜iPhone 18 Pro要来了,富士康开出8800元招工奖金/微信灰测AI修图/华为推出阔直板手机](https://www.ifanr.com/1675947?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [Anthropic计划更改先进AI的数据保留政策](https://blog.upx8.com/Anthropic%E8%AE%A1%E5%88%92%E6%9B%B4%E6%94%B9%E5%85%88%E8%BF%9BAI%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BF%9D%E7%95%99%E6%94%BF%E7%AD%96)
