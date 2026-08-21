@@ -2,10 +2,12 @@
 
 - 2Libra
   - [【💰】一整个就是直接下海](https://2libra.com/post/pet-sharing/RUIzBec)
+  - [【💰】潘多拉 拼好币](https://2libra.com/post/forum-function/9c1ZWhI)
   - [【💰】给老妈买个看剧用的平板，有什么推荐的吗？](https://2libra.com/post/tablets/ccSu0FB)
   - [你觉得朋友是什么？](https://2libra.com/post/social-observation/h1UyMwG)
   - [儿童神秘文章：说点什么](https://2libra.com/post/idea/2e10rQf)
   - [大家早上吃饭吗](https://2libra.com/post/small-things/tgjF2yu)
+  - [老哥们谁有 win10 和 win11 能玩的 cs1.5 资源](https://2libra.com/post/game-discussion/tChsKBW)
 - 404 Media
   - ['Darth Vader' Wants Flock in San Diego](https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/)
 - blog.jim-nielsen.com
@@ -70,6 +72,7 @@
   - [Australia says Roblox hasn&#8217;t fixed its child predator problem](https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety)
   - [FCC officially decides gigabit speeds are too good for you](https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal)
   - [Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops](https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty)
+  - [Genki’s new customizable controller has a big screen and adjustable buttons](https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen)
   - [Google Discover is getting an AI chatbot-tuned feed](https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed)
   - [Mark Zuckerberg bought an Irish castle](https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland)
   - [Riot is ending development on its League of Legends fighting game](https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development)
@@ -104,6 +107,7 @@
   - [Google Pixel 11 Review: Minor Upgrade](https://www.wired.com/review/google-pixel-11/)
   - [Silicon Valley Doesn't Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/)
 - 不安全
+  - [asterisk v23.5.0-rc2](https://buaq.net/go-436609.html)
   - [Good place to find .onion links](https://buaq.net/go-436606.html)
   - [日本云计算厂商樱花网络(Sakura Internet)遭黑客攻击 可能影响136万名客户](https://buaq.net/go-436603.html)
 - 代码审计星球
@@ -112,3 +116,4 @@
   - [早报｜iPhone 18 Pro要来了,富士康开出8800元招工奖金/微信灰测AI修图/华为推出阔直板手机](https://www.ifanr.com/1675947?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Anthropic计划更改先进AI的数据保留政策](https://blog.upx8.com/Anthropic%E8%AE%A1%E5%88%92%E6%9B%B4%E6%94%B9%E5%85%88%E8%BF%9BAI%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BF%9D%E7%95%99%E6%94%BF%E7%AD%96)
+  - [亚马逊无人机送货“翻车”：包裹空投进泳池](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%80%81%E8%B4%A7-%E7%BF%BB%E8%BD%A6-%E5%8C%85%E8%A3%B9%E7%A9%BA%E6%8A%95%E8%BF%9B%E6%B3%B3%E6%B1%A0)
