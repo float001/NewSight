@@ -11,7 +11,9 @@
   - [为了再一次开始减肥，这次我 Vibe 了一个 AI 减重助手，欢迎使用](https://2libra.com/post/personal-works/mK-TmOi)
   - [你觉得朋友是什么？](https://2libra.com/post/social-observation/h1UyMwG)
   - [儿童神秘文章：说点什么](https://2libra.com/post/idea/2e10rQf)
+  - [周五了，大家来推一首最近单曲循环的歌](https://2libra.com/post/music-sharing/KuVZXB4)
   - [大家早上吃饭吗](https://2libra.com/post/small-things/tgjF2yu)
+  - [明察（在线电子放大镜）](https://2libra.com/post/tools-sharing/fwfnrta)
   - [看了一下最后一次中金币池的时间，这正常吗？](https://2libra.com/post/forum-function/urwjaJF)
   - [老哥们谁有 win10 和 win11 能玩的 cs1.5 资源](https://2libra.com/post/game-discussion/tChsKBW)
   - [黄金涨回 980 元/g 了，870 元/g 时跑路的我哭了](https://2libra.com/post/financial-management/za37KBB)
@@ -49,6 +51,21 @@
   - [CVE-2026-19478 | MeGitLab CE/EE GraphQL Directive Code Injection Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-19478/)
 - pluralistic.net
   - [Pluralistic: The actual epistemic crisis (20 Aug 2026)](https://pluralistic.net/2026/08/20/epistemic-void/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-0603](https://sploitus.com/exploit?id=6C73067A-0EFF-5401-91BC-98C2674FB633&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-16723](https://sploitus.com/exploit?id=D07DAAB9-2AD8-516D-96E8-55801167F281&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-20896](https://sploitus.com/exploit?id=4F6DB9F3-F9B0-5551-91F5-50373DD957BC&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-60004](https://sploitus.com/exploit?id=CB40F3F7-9D78-5B14-AD62-07A1BB8C74C2&utm_source=rss&utm_medium=rss)
+  - [Exploit for Eval Injection in Langflow](https://sploitus.com/exploit?id=3048ED1B-ADF5-5FDA-A940-020DC324501C&utm_source=rss&utm_medium=rss)
+  - [Exploit for Expression Language Injection in Mathjs](https://sploitus.com/exploit?id=6D3C328C-7452-53BB-9635-27F2B38233DC&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Input Validation in N8N](https://sploitus.com/exploit?id=F829C700-11F6-51B8-B79D-DB80BF38D4E1&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Openclaw](https://sploitus.com/exploit?id=66692E93-EF78-5977-A793-D16F12D2A3C9&utm_source=rss&utm_medium=rss)
+  - [Exploit for Memory Allocation with Excessive Size Value in Apache Http_Server](https://sploitus.com/exploit?id=238D27D0-2B6D-59DE-B1AC-12B79D1C507C&utm_source=rss&utm_medium=rss)
+  - [Exploit for Path Equivalence in Apache Tomcat](https://sploitus.com/exploit?id=A9F598AD-41B0-5309-BC27-725102E8D240&utm_source=rss&utm_medium=rss)
+  - [Exploit for Path Traversal in Langflow](https://sploitus.com/exploit?id=5F5FECC6-1644-56DD-AB59-7EC38F6A72BB&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Ghost](https://sploitus.com/exploit?id=00B8F7A6-8550-5A3A-8A8E-FB04427F4C62&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Mikro-Orm Mikroorm](https://sploitus.com/exploit?id=38BC0585-FDF3-5F58-879A-F1C19560E220&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Sequelizejs Sequelize](https://sploitus.com/exploit?id=3C366C70-5F3B-5ECB-876E-F3F1B2B87C3A&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds](https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/)
   - [AI data startup Micro1 reaches $500M gross run rate amid AI training boom](https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/)
@@ -75,6 +92,7 @@
   - [Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’](https://www.theblock.co/news/markets/2026-08-20-bitcoin-breaks-through-75500-412404)
   - [CME CEO Terrence Duffy trades barbs with CFTC’s Selig and Kalshi’s COO over prediction market oversight](https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397)
   - [Kraken parent Payward explores becoming a ‘full bank’ outside the US](https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390)
+  - [MANTRA freezes all transactions and network following unspecified incident](https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416)
 - The Decoder
   - [Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash](https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/)
   - [LLMs could write like humans but post-training guardrails make their text detectable](https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/)
@@ -114,8 +132,21 @@
   - [CVE-2026-75484 HTTP/2 header field values containing CR, LF or NUL are passed to the application unvalidated in Bandit](https://vulners.com/cvelist/CVELIST:CVE-2026-75484?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77641](https://vulners.com/cvelist/CVELIST:CVE-2026-77641?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [30% Off Canon Promo Codes | August 2026](https://www.wired.com/story/canon-promo-code/)
+  - [B&H Photo Promo Codes and Deals This August 2026](https://www.wired.com/story/bh-photo-coupon/)
   - [Google Pixel 11 Review: Minor Upgrade](https://www.wired.com/review/google-pixel-11/)
+  - [Hoka Coupon Codes: 30% Off in August 2026](https://www.wired.com/story/hoka-coupon-code/)
+  - [Home Depot Promo Codes: 30% Off in August 2026](https://www.wired.com/story/home-depot-promo-code/)
+  - [Lenovo Coupon Codes: 15% Off in August 2026](https://www.wired.com/story/lenovo-coupon-code/)
+  - [Meta Quest Promo Codes and Coupons for August 2026](https://www.wired.com/story/meta-quest-promo-code/)
+  - [NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026](https://www.wired.com/story/nordvpn-coupon/)
+  - [Paramount+ Coupon Codes and Deals for August 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
+  - [Ray-Ban Promo Codes: Save 50% in August 2026](https://www.wired.com/story/ray-ban-promo-code/)
+  - [Ruggable Discount Code: 30% Off Rugs | August 2026](https://www.wired.com/story/ruggable-discount-code/)
   - [Silicon Valley Doesn't Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/)
+  - [Squarespace Promo Codes: 20% Off in August 2026](https://www.wired.com/story/squarespace-promo-code/)
+  - [Valvoline Coupons and Promo Codes for August 2026](https://www.wired.com/story/valvoline-coupons/)
+  - [Zoro Coupon Codes: 55% Off August](https://www.wired.com/story/zoro-promo-code/)
 - 不安全
   - [asterisk v23.5.0-rc2](https://buaq.net/go-436609.html)
   - [Good place to find .onion links](https://buaq.net/go-436606.html)
@@ -124,6 +155,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [太阳能扩张政策与鸟类多样性下降相关](https://www.solidot.org/story?sid=85152)
+- 小刀志
+  - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
   - [ChatGPT 可以看短信了，AI 想从你的 App 里拿到你的一切](https://www.ifanr.com/1675954?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 18 Pro要来了,富士康开出8800元招工奖金/微信灰测AI修图/华为推出阔直板手机](https://www.ifanr.com/1675947?utm_source=rss&utm_medium=rss&utm_campaign=)
