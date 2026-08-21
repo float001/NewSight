@@ -2,6 +2,8 @@
 
 - 2Libra
   - [有无京东抢购脚本推荐](https://2libra.com/post/recommendations/UR0usHe)
+- Ars Technica
+  - [Chinese regulators tell Tesla to fix nearly 3 million cars](https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/)
 - CoinTelegraph
   - [Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump](https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot](https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -20,12 +22,15 @@
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-08-21: SmartApeSG ClickFix campaign leads to two RATs](https://www.malware-traffic-analysis.net/2026/08/21/index.html)
 - TechCrunch
+  - [Tesla’s solar roof is dead — here’s what went wrong](https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/)
   - [US government lab is probing Chinese lidar for security vulnerabilities](https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/)
   - [Waymo hands over documents in NHTSA’s child collision probe](https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/)
   - [Why is the DOJ investigating Andreessen Horowitz’s board seats?](https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/)
 - The Block
   - [BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit](https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485)
   - [XRP leads broad altcoin rally as bitcoin’s biggest weekly gain in two years lifts crypto](https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483)
+- The Decoder
+  - [Data center opposition surged from 42 to 75 percent in just one year, survey finds](https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/)
 - The Verge
   - [$100 Best Buy gift cards will be $60 at stores Saturday](https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal)
   - [Microsoft and Discord subpoenaed over GTA VI gameplay leaks](https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed)
