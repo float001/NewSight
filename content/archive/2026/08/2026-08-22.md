@@ -5,11 +5,13 @@
   - [【💰】分享自己 Vibe 的相册应用](https://2libra.com/post/open-source-sharing/PVi31rq)
   - [【💰】大家平时都是用什么 app 听播客？有什么值得关注的播客吗？](https://2libra.com/post/recommendations/Wjcm60v)
   - [【💰】终于轮到我了](https://2libra.com/post/forum-function/iYrMfn2)
+  - [中秋月饼推荐](https://2libra.com/post/festival-things/uJNDLh5)
   - [想折腾 deepseek herness 奈何太贵了 折腾不起](https://2libra.com/post/large-models/Bx6E_pp)
   - [有无京东抢购脚本推荐](https://2libra.com/post/recommendations/UR0usHe)
   - [每天一分钟，知晓天下事！2026 年 8 月 22 日](https://2libra.com/post/social-observation/uTmiryD)
   - [求问各位友友一下 GPT Gemini 充值，要自己办卡的话，要办什么卡？某鱼上面的虚拟卡可靠吗？（人在国内）](https://2libra.com/post/ai-tools/ZfC1HiA)
   - [潘多拉](https://2libra.com/post/forum-function/b7ibkbe)
+  - [随机头像生成网站](https://2libra.com/post/personal-works/oqRTMfy)
 - Ars Technica
   - [Chinese regulators tell Tesla to fix nearly 3 million cars](https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/)
   - [Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels](https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/)
@@ -31,9 +33,12 @@
   - [★ When New DF Posts Drop in a Forest and No One Is There to Read Them](https://daringfireball.net/2026/08/df_posts_drop_in_a_forest)
 - darkreading
   - [OWASP Flags Top AI Skill Risks in New Security Blueprint](https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint)
+- defend.network
+  - [Trojanized npm packages, AWS credential leak, Microsoft Defender driver abuse](https://defend.network/briefings/npm-redc2-aws-credentials-windows-driver-2026-08-22.html)
 - Hacker News Frontpage
   - [4 in 10 travellers visit tourist sites to capture social media content](https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content)
   - [A self hosted AI software factory](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)
+  - [Canada will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
   - [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
   - [LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
   - [Rebuilding our Electron meeting-recording engine in Swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
@@ -115,6 +120,7 @@
   - [Tesla’s Door Handles Lead to Its Biggest Recall Yet](https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/)
   - [The Unlikely Place at the Center of China’s AI Boom](https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/)
 - 不安全
+  - [aws-iam-authenticator v0.7.19](https://buaq.net/go-436911.html)
   - [my website](https://buaq.net/go-436886.html)
   - [revera](https://buaq.net/go-436887.html)
 - 代码审计星球
