@@ -19,6 +19,7 @@
   - [WooCommerce 1.5.0 Unauthenticated Arbitrary File Upload](https://cxsecurity.com/issue/WLB-2026080011)
   - [WordPress Plugin WPZOOM Portfolio 1.4.21  Reflected Cross-Site Scripting (XSS)](https://cxsecurity.com/issue/WLB-2026080012)
 - daringfireball.net
+  - [The Fourth Horseman of the File-Format-Hegemony Apocalypse](https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sharepoint-and-onedrive/4512174)
   - [Walmart Finally Caves, Will Soon Support Apple Pay](https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club)
   - [★ When New DF Posts Drop in a Forest and No One Is There to Read Them](https://daringfireball.net/2026/08/df_posts_drop_in_a_forest)
 - darkreading
@@ -28,12 +29,14 @@
   - [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
   - [LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
   - [Rebuilding our Electron meeting-recording engine in Swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
+  - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
   - [Three ways to smuggle SQLite into Nix](https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix)
   - [What happens when a GPU reads memory](https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory)
   - [When the shortage is the strategy](https://nooneshappy.com/article/when-the-shortage-is-the-strategy/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-08-21: SmartApeSG ClickFix campaign leads to two RATs](https://www.malware-traffic-analysis.net/2026/08/21/index.html)
 - TechCrunch
+  - [Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/)
   - [Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams](https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/)
   - [How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/)
   - [Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today](https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/)
@@ -92,5 +95,10 @@
   - [CVE-2026-9321](https://vulners.com/nvd/NVD:CVE-2026-9321?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9324](https://vulners.com/nvd/NVD:CVE-2026-9324?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-76565](https://vulners.com/githubexploit/877CAA6E-74E6-576F-AA23-134CBADD46AF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Tesla’s Door Handles Lead to Its Biggest Recall Yet](https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/)
+  - [The Unlikely Place at the Center of China’s AI Boom](https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [美国政府实验室正在调查中国激光雷达的安全漏洞](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%AD%A3%E5%9C%A8%E8%B0%83%E6%9F%A5%E4%B8%AD%E5%9B%BD%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E7%9A%84%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E)
