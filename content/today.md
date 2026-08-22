@@ -5,6 +5,7 @@
   - [【兑换码】那个爱看星星的小孩，三十年后终于奖励了自己一个大玩具](https://2libra.com/post/personal-works/cdmlJy6)
   - [【💰】分享自己 Vibe 的相册应用](https://2libra.com/post/open-source-sharing/PVi31rq)
   - [【💰】大家平时都是用什么 app 听播客？有什么值得关注的播客吗？](https://2libra.com/post/recommendations/Wjcm60v)
+  - [【💰】竟然获得混沌勋章](https://2libra.com/post/forum-function/3llzwU8)
   - [【💰】终于轮到我了](https://2libra.com/post/forum-function/iYrMfn2)
   - [中秋月饼推荐](https://2libra.com/post/festival-things/uJNDLh5)
   - [天上九头鸟](https://2libra.com/post/sharing-discoveries/lSza1CD)
@@ -13,6 +14,7 @@
   - [每天一分钟，知晓天下事！2026 年 8 月 22 日](https://2libra.com/post/social-observation/uTmiryD)
   - [求问各位友友一下 GPT Gemini 充值，要自己办卡的话，要办什么卡？某鱼上面的虚拟卡可靠吗？（人在国内）](https://2libra.com/post/ai-tools/ZfC1HiA)
   - [潘多拉](https://2libra.com/post/forum-function/b7ibkbe)
+  - [请问各位有什么健身入门的建议吗？](https://2libra.com/post/sports/Utaas3C)
   - [随机头像生成网站](https://2libra.com/post/personal-works/oqRTMfy)
 - 404 Media
   - [Brand Hype Has Existed Since the Bronze Age, Scientists Discover](https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/)
@@ -90,8 +92,10 @@
   - [Data center opposition surged from 42 to 75 percent in just one year, survey finds](https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/)
   - [Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks](https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/)
   - [Netflix tests language model as alternative to hand-built recommendation logic](https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/)
+  - [Study explains why AI agents benefit from "skills" and when they fail](https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/)
 - The Verge
   - [$100 Best Buy gift cards will be $60 at stores Saturday](https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal)
+  - [An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it](https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review)
   - [Apple is laying off staffers working on the Vision Pro and Siri](https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri)
   - [HoverAir’s transforming modular drone has already been halted in the US](https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo)
   - [Microsoft and Discord subpoenaed over GTA VI gameplay leaks](https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed)
@@ -146,6 +150,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜摄像头AirPods或配备拍摄指示灯/问界儿童车售价1.58万元/LV否认「起诉国家知识产权局遭驳回」](https://www.ifanr.com/1676129?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径](https://www.qbitai.com/2026/08/477016.html)
 - 黑海洋
   - [Anthropic招股书或把美国公众对AI的抵制情绪列为风险因素](https://blog.upx8.com/Anthropic%E6%8B%9B%E8%82%A1%E4%B9%A6%E6%88%96%E6%8A%8A%E7%BE%8E%E5%9B%BD%E5%85%AC%E4%BC%97%E5%AF%B9AI%E7%9A%84%E6%8A%B5%E5%88%B6%E6%83%85%E7%BB%AA%E5%88%97%E4%B8%BA%E9%A3%8E%E9%99%A9%E5%9B%A0%E7%B4%A0)
   - [YouTube Premium 的价格可能在上次涨价几个月后再次上涨](https://blog.upx8.com/YouTube-Premium-%E7%9A%84%E4%BB%B7%E6%A0%BC%E5%8F%AF%E8%83%BD%E5%9C%A8%E4%B8%8A%E6%AC%A1%E6%B6%A8%E4%BB%B7%E5%87%A0%E4%B8%AA%E6%9C%88%E5%90%8E%E5%86%8D%E6%AC%A1%E4%B8%8A%E6%B6%A8)
