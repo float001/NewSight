@@ -36,18 +36,23 @@
   - [WooCommerce 1.5.0 Unauthenticated Arbitrary File Upload](https://cxsecurity.com/issue/WLB-2026080011)
   - [WordPress Plugin WPZOOM Portfolio 1.4.21  Reflected Cross-Site Scripting (XSS)](https://cxsecurity.com/issue/WLB-2026080012)
 - daringfireball.net
+  - [Dutch Regulator Fines Uber $1 Billion Suspending Dishonest Drivers](https://www.reuters.com/world/dutch-regulator-fines-uber-966-million-automating-driver-suspensions-document-2026-08-21/)
   - [The Fourth Horseman of the File-Format-Hegemony Apocalypse](https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sharepoint-and-onedrive/4512174)
   - [Walmart Finally Caves, Will Soon Support Apple Pay](https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club)
+  - [WorkOS: Agents Can Now Sign Up for Your App](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
   - [★ When New DF Posts Drop in a Forest and No One Is There to Read Them](https://daringfireball.net/2026/08/df_posts_drop_in_a_forest)
 - darkreading
   - [OWASP Flags Top AI Skill Risks in New Security Blueprint](https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint)
 - defend.network
   - [Trojanized npm packages, AWS credential leak, Microsoft Defender driver abuse](https://defend.network/briefings/npm-redc2-aws-credentials-windows-driver-2026-08-22.html)
+- eli.thegreenplace.net
+  - [Concurrent Servers: Part 8 - Go](https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/)
 - Hacker News Frontpage
   - [4 in 10 travellers visit tourist sites to capture social media content](https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content)
   - [A self hosted AI software factory](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)
   - [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
   - [Canada will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
+  - [Digging the grave of my job: Hollywood creatives training AI to do their jobs](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
   - [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
   - [LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
   - [Rebuilding our Electron meeting-recording engine in Swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
@@ -105,6 +110,7 @@
   - [Pixel 11 gets in on the digicam trend](https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend)
   - [TikTok will pay $400 million to settle DOJ child privacy lawsuit](https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa)
   - [Two great new repairable gadgets](https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2)
+  - [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview)
   - [Walmart is finally adding Apple Pay and Google Pay](https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch)
 - Vulners.com RSS Feed
   - [CVE-2017-20232](https://vulners.com/nvd/NVD:CVE-2017-20232?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -148,12 +154,15 @@
   - [Golf Canada - 568,972 breached accounts](https://buaq.net/go-436917.html)
   - [my website](https://buaq.net/go-436886.html)
   - [revera](https://buaq.net/go-436887.html)
+  - [软考学习（一）](https://buaq.net/go-436916.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜摄像头AirPods或配备拍摄指示灯/问界儿童车售价1.58万元/LV否认「起诉国家知识产权局遭驳回」](https://www.ifanr.com/1676129?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径](https://www.qbitai.com/2026/08/477016.html)
+  - [伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒](https://www.qbitai.com/2026/08/477246.html)
+  - [魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗](https://www.qbitai.com/2026/08/477155.html)
 - 黑海洋
   - [Anthropic招股书或把美国公众对AI的抵制情绪列为风险因素](https://blog.upx8.com/Anthropic%E6%8B%9B%E8%82%A1%E4%B9%A6%E6%88%96%E6%8A%8A%E7%BE%8E%E5%9B%BD%E5%85%AC%E4%BC%97%E5%AF%B9AI%E7%9A%84%E6%8A%B5%E5%88%B6%E6%83%85%E7%BB%AA%E5%88%97%E4%B8%BA%E9%A3%8E%E9%99%A9%E5%9B%A0%E7%B4%A0)
   - [YouTube Premium 的价格可能在上次涨价几个月后再次上涨](https://blog.upx8.com/YouTube-Premium-%E7%9A%84%E4%BB%B7%E6%A0%BC%E5%8F%AF%E8%83%BD%E5%9C%A8%E4%B8%8A%E6%AC%A1%E6%B6%A8%E4%BB%B7%E5%87%A0%E4%B8%AA%E6%9C%88%E5%90%8E%E5%86%8D%E6%AC%A1%E4%B8%8A%E6%B6%A8)
