@@ -6,6 +6,7 @@
   - [【💰】大家平时都是用什么 app 听播客？有什么值得关注的播客吗？](https://2libra.com/post/recommendations/Wjcm60v)
   - [【💰】终于轮到我了](https://2libra.com/post/forum-function/iYrMfn2)
   - [中秋月饼推荐](https://2libra.com/post/festival-things/uJNDLh5)
+  - [天上九头鸟](https://2libra.com/post/sharing-discoveries/lSza1CD)
   - [想折腾 deepseek herness 奈何太贵了 折腾不起](https://2libra.com/post/large-models/Bx6E_pp)
   - [有无京东抢购脚本推荐](https://2libra.com/post/recommendations/UR0usHe)
   - [每天一分钟，知晓天下事！2026 年 8 月 22 日](https://2libra.com/post/social-observation/uTmiryD)
@@ -52,6 +53,7 @@
 - pluralistic.net
   - [Pluralistic: Born on technology's third base (21 Aug 2026)](https://pluralistic.net/2026/08/21/world-historic-forces/)
 - Sploitus.com Exploits RSS Feed
+  - [BUG-BOUNTY-SLM exploit](https://sploitus.com/exploit?id=5FA59815-1506-5F03-A89E-72343CC91CE4&utm_source=rss&utm_medium=rss)
   - [c2-framework exploit](https://sploitus.com/exploit?id=7A3D773F-E0A7-516A-BC01-5C054725EABA&utm_source=rss&utm_medium=rss)
   - [laravel-access-control-lab exploit](https://sploitus.com/exploit?id=3B4A9F73-30BD-5F47-BCBD-CEE7814E85CE&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -77,6 +79,7 @@
   - [Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense](https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/)
   - [Data center opposition surged from 42 to 75 percent in just one year, survey finds](https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/)
   - [Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks](https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/)
+  - [Netflix tests language model as alternative to hand-built recommendation logic](https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/)
 - The Verge
   - [$100 Best Buy gift cards will be $60 at stores Saturday](https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal)
   - [Apple is laying off staffers working on the Vision Pro and Siri](https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri)
@@ -121,6 +124,7 @@
   - [The Unlikely Place at the Center of China’s AI Boom](https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/)
 - 不安全
   - [aws-iam-authenticator v0.7.19](https://buaq.net/go-436911.html)
+  - [Golf Canada - 568,972 breached accounts](https://buaq.net/go-436917.html)
   - [my website](https://buaq.net/go-436886.html)
   - [revera](https://buaq.net/go-436887.html)
 - 代码审计星球
