@@ -14,6 +14,8 @@
   - [求问各位友友一下 GPT Gemini 充值，要自己办卡的话，要办什么卡？某鱼上面的虚拟卡可靠吗？（人在国内）](https://2libra.com/post/ai-tools/ZfC1HiA)
   - [潘多拉](https://2libra.com/post/forum-function/b7ibkbe)
   - [随机头像生成网站](https://2libra.com/post/personal-works/oqRTMfy)
+- 404 Media
+  - [Brand Hype Has Existed Since the Bronze Age, Scientists Discover](https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/)
 - Ars Technica
   - [Chinese regulators tell Tesla to fix nearly 3 million cars](https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/)
   - [Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels](https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/)
@@ -137,4 +139,5 @@
   - [早报｜摄像头AirPods或配备拍摄指示灯/问界儿童车售价1.58万元/LV否认「起诉国家知识产权局遭驳回」](https://www.ifanr.com/1676129?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Anthropic招股书或把美国公众对AI的抵制情绪列为风险因素](https://blog.upx8.com/Anthropic%E6%8B%9B%E8%82%A1%E4%B9%A6%E6%88%96%E6%8A%8A%E7%BE%8E%E5%9B%BD%E5%85%AC%E4%BC%97%E5%AF%B9AI%E7%9A%84%E6%8A%B5%E5%88%B6%E6%83%85%E7%BB%AA%E5%88%97%E4%B8%BA%E9%A3%8E%E9%99%A9%E5%9B%A0%E7%B4%A0)
+  - [YouTube Premium 的价格可能在上次涨价几个月后再次上涨](https://blog.upx8.com/YouTube-Premium-%E7%9A%84%E4%BB%B7%E6%A0%BC%E5%8F%AF%E8%83%BD%E5%9C%A8%E4%B8%8A%E6%AC%A1%E6%B6%A8%E4%BB%B7%E5%87%A0%E4%B8%AA%E6%9C%88%E5%90%8E%E5%86%8D%E6%AC%A1%E4%B8%8A%E6%B6%A8)
   - [美国政府实验室正在调查中国激光雷达的安全漏洞](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%AD%A3%E5%9C%A8%E8%B0%83%E6%9F%A5%E4%B8%AD%E5%9B%BD%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E7%9A%84%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E)
