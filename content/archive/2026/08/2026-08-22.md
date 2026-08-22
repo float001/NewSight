@@ -18,7 +18,9 @@
   - [Brand Hype Has Existed Since the Bronze Age, Scientists Discover](https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/)
 - Ars Technica
   - [Chinese regulators tell Tesla to fix nearly 3 million cars](https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/)
+  - [Dismantling the Roadless Rule threatens to disrupt wildlife and water in US](https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/)
   - [Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels](https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/)
+  - [Putting mice into hibernation causes a major loss of synapses](https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/)
 - CoinTelegraph
   - [Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump](https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin seeks support near $77K as BTC, gold near 100-day highs](https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -58,6 +60,8 @@
   - [2026-08-21: SmartApeSG ClickFix campaign leads to two RATs](https://www.malware-traffic-analysis.net/2026/08/21/index.html)
 - pluralistic.net
   - [Pluralistic: Born on technology's third base (21 Aug 2026)](https://pluralistic.net/2026/08/21/world-historic-forces/)
+- Sebastian Raschka
+  - [How Claude Watermarks AI-Generated Text](https://magazine.sebastianraschka.com/p/claude-watermarking)
 - Sploitus.com Exploits RSS Feed
   - [BUG-BOUNTY-SLM exploit](https://sploitus.com/exploit?id=5FA59815-1506-5F03-A89E-72343CC91CE4&utm_source=rss&utm_medium=rss)
   - [c2-framework exploit](https://sploitus.com/exploit?id=7A3D773F-E0A7-516A-BC01-5C054725EABA&utm_source=rss&utm_medium=rss)
@@ -94,6 +98,7 @@
   - [Over 1 million people have clicked LinkedIn’s AI slop button](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message)
   - [Pixel 11 gets in on the digicam trend](https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend)
   - [TikTok will pay $400 million to settle DOJ child privacy lawsuit](https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa)
+  - [Two great new repairable gadgets](https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2)
   - [Walmart is finally adding Apple Pay and Google Pay](https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch)
 - Vulners.com RSS Feed
   - [CVE-2017-20232](https://vulners.com/nvd/NVD:CVE-2017-20232?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -133,6 +138,7 @@
   - [Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments](https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/)
 - 不安全
   - [aws-iam-authenticator v0.7.19](https://buaq.net/go-436911.html)
+  - [CVE-2024-6387](https://buaq.net/go-436937.html)
   - [Golf Canada - 568,972 breached accounts](https://buaq.net/go-436917.html)
   - [my website](https://buaq.net/go-436886.html)
   - [revera](https://buaq.net/go-436887.html)
