@@ -2,11 +2,13 @@
 
 - 2Libra
   - [【💰】分享自己 Vibe 的相册应用](https://2libra.com/post/open-source-sharing/PVi31rq)
+  - [【💰】大家平时都是用什么 app 听播客？有什么值得关注的播客吗？](https://2libra.com/post/recommendations/Wjcm60v)
   - [【💰】终于轮到我了](https://2libra.com/post/forum-function/iYrMfn2)
   - [想折腾 deepseek herness 奈何太贵了 折腾不起](https://2libra.com/post/large-models/Bx6E_pp)
   - [有无京东抢购脚本推荐](https://2libra.com/post/recommendations/UR0usHe)
   - [每天一分钟，知晓天下事！2026 年 8 月 22 日](https://2libra.com/post/social-observation/uTmiryD)
   - [求问各位友友一下 GPT Gemini 充值，要自己办卡的话，要办什么卡？某鱼上面的虚拟卡可靠吗？（人在国内）](https://2libra.com/post/ai-tools/ZfC1HiA)
+  - [潘多拉](https://2libra.com/post/forum-function/b7ibkbe)
 - Ars Technica
   - [Chinese regulators tell Tesla to fix nearly 3 million cars](https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/)
   - [Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels](https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/)
