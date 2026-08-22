@@ -2,6 +2,7 @@
 
 - 2Libra
   - [Openai 成功打击中转站 MVP 结算画面](https://2libra.com/post/ai-gateway/TyyVmdO)
+  - [【兑换码】那个爱看星星的小孩，三十年后终于奖励了自己一个大玩具](https://2libra.com/post/personal-works/cdmlJy6)
   - [【💰】分享自己 Vibe 的相册应用](https://2libra.com/post/open-source-sharing/PVi31rq)
   - [【💰】大家平时都是用什么 app 听播客？有什么值得关注的播客吗？](https://2libra.com/post/recommendations/Wjcm60v)
   - [【💰】终于轮到我了](https://2libra.com/post/forum-function/iYrMfn2)
@@ -48,6 +49,8 @@
   - [Three ways to smuggle SQLite into Nix](https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix)
   - [What happens when a GPU reads memory](https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory)
   - [When the shortage is the strategy](https://nooneshappy.com/article/when-the-shortage-is-the-strategy/)
+- Hcamael
+  - [软考学习（一）](https://nobb.site/2026/08/22/ruankao_3_crypto/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-08-21: SmartApeSG ClickFix campaign leads to two RATs](https://www.malware-traffic-analysis.net/2026/08/21/index.html)
 - pluralistic.net
@@ -120,6 +123,7 @@
   - [CVE-2026-9324](https://vulners.com/nvd/NVD:CVE-2026-9324?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-76565](https://vulners.com/githubexploit/877CAA6E-74E6-576F-AA23-134CBADD46AF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [NASA Cancels Its Rescue Mission for the Aging Swift Telescope](https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/)
   - [Tesla’s Door Handles Lead to Its Biggest Recall Yet](https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/)
   - [The Unlikely Place at the Center of China’s AI Boom](https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/)
 - 不安全
