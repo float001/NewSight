@@ -42,6 +42,7 @@
 - Hacker News Frontpage
   - [4 in 10 travellers visit tourist sites to capture social media content](https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content)
   - [A self hosted AI software factory](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)
+  - [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
   - [Canada will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
   - [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
   - [LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
@@ -127,7 +128,9 @@
 - Wired
   - [NASA Cancels Its Rescue Mission for the Aging Swift Telescope](https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/)
   - [Tesla’s Door Handles Lead to Its Biggest Recall Yet](https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/)
+  - [The Best Mattress Toppers I've Tried (2026): Supportive, Plush, Memory Foam](https://www.wired.com/gallery/the-best-mattress-toppers/)
   - [The Unlikely Place at the Center of China’s AI Boom](https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/)
+  - [Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments](https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/)
 - 不安全
   - [aws-iam-authenticator v0.7.19](https://buaq.net/go-436911.html)
   - [Golf Canada - 568,972 breached accounts](https://buaq.net/go-436917.html)
@@ -141,3 +144,4 @@
   - [Anthropic招股书或把美国公众对AI的抵制情绪列为风险因素](https://blog.upx8.com/Anthropic%E6%8B%9B%E8%82%A1%E4%B9%A6%E6%88%96%E6%8A%8A%E7%BE%8E%E5%9B%BD%E5%85%AC%E4%BC%97%E5%AF%B9AI%E7%9A%84%E6%8A%B5%E5%88%B6%E6%83%85%E7%BB%AA%E5%88%97%E4%B8%BA%E9%A3%8E%E9%99%A9%E5%9B%A0%E7%B4%A0)
   - [YouTube Premium 的价格可能在上次涨价几个月后再次上涨](https://blog.upx8.com/YouTube-Premium-%E7%9A%84%E4%BB%B7%E6%A0%BC%E5%8F%AF%E8%83%BD%E5%9C%A8%E4%B8%8A%E6%AC%A1%E6%B6%A8%E4%BB%B7%E5%87%A0%E4%B8%AA%E6%9C%88%E5%90%8E%E5%86%8D%E6%AC%A1%E4%B8%8A%E6%B6%A8)
   - [美国政府实验室正在调查中国激光雷达的安全漏洞](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%AD%A3%E5%9C%A8%E8%B0%83%E6%9F%A5%E4%B8%AD%E5%9B%BD%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E7%9A%84%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E)
+  - [荣耀人形机器人“闪电”百米测试跑出9秒32](https://blog.upx8.com/%E8%8D%A3%E8%80%80%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA-%E9%97%AA%E7%94%B5-%E7%99%BE%E7%B1%B3%E6%B5%8B%E8%AF%95%E8%B7%91%E5%87%BA9%E7%A7%9232)
