@@ -3,7 +3,9 @@
 - 2Libra
   - [【💰】分享自己 Vibe 的相册应用](https://2libra.com/post/open-source-sharing/PVi31rq)
   - [【💰】终于轮到我了](https://2libra.com/post/forum-function/iYrMfn2)
+  - [想折腾 deepseek herness 奈何太贵了 折腾不起](https://2libra.com/post/large-models/Bx6E_pp)
   - [有无京东抢购脚本推荐](https://2libra.com/post/recommendations/UR0usHe)
+  - [每天一分钟，知晓天下事！2026 年 8 月 22 日](https://2libra.com/post/social-observation/uTmiryD)
   - [求问各位友友一下 GPT Gemini 充值，要自己办卡的话，要办什么卡？某鱼上面的虚拟卡可靠吗？（人在国内）](https://2libra.com/post/ai-tools/ZfC1HiA)
 - Ars Technica
   - [Chinese regulators tell Tesla to fix nearly 3 million cars](https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/)
@@ -40,6 +42,8 @@
   - [2026-08-21: SmartApeSG ClickFix campaign leads to two RATs](https://www.malware-traffic-analysis.net/2026/08/21/index.html)
 - pluralistic.net
   - [Pluralistic: Born on technology's third base (21 Aug 2026)](https://pluralistic.net/2026/08/21/world-historic-forces/)
+- Sploitus.com Exploits RSS Feed
+  - [laravel-access-control-lab exploit](https://sploitus.com/exploit?id=3B4A9F73-30BD-5F47-BCBD-CEE7814E85CE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/)
   - [Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams](https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/)
@@ -107,6 +111,7 @@
   - [The Unlikely Place at the Center of China’s AI Boom](https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/)
 - 不安全
   - [my website](https://buaq.net/go-436886.html)
+  - [revera](https://buaq.net/go-436887.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
