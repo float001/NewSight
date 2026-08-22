@@ -77,6 +77,7 @@
   - [Michael Polansky is training an AI model on skin that’s still alive](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/)
   - [Nvidia just showed that the harness, not the AI model, is now the real hero](https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/)
   - [Nvidia partners with data center developer Cloverleaf](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/)
+  - [Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade](https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/)
   - [Tesla’s solar roof is dead — here’s what went wrong](https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/)
   - [The $225 Pebble Time 2 is a refreshingly fun smartwatch](https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/)
   - [TikTok reaches $400M settlement over children’s privacy lawsuit](https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/)
@@ -95,6 +96,7 @@
   - [Study explains why AI agents benefit from "skills" and when they fail](https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/)
 - The Verge
   - [$100 Best Buy gift cards will be $60 at stores Saturday](https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal)
+  - [Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent](https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv)
   - [An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it](https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review)
   - [Apple is laying off staffers working on the Vision Pro and Siri](https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri)
   - [HoverAir’s transforming modular drone has already been halted in the US](https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo)
