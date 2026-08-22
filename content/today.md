@@ -31,6 +31,7 @@
 - darkreading
   - [OWASP Flags Top AI Skill Risks in New Security Blueprint](https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint)
 - Hacker News Frontpage
+  - [4 in 10 travellers visit tourist sites to capture social media content](https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content)
   - [A self hosted AI software factory](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)
   - [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
   - [LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
@@ -45,6 +46,7 @@
 - pluralistic.net
   - [Pluralistic: Born on technology's third base (21 Aug 2026)](https://pluralistic.net/2026/08/21/world-historic-forces/)
 - Sploitus.com Exploits RSS Feed
+  - [c2-framework exploit](https://sploitus.com/exploit?id=7A3D773F-E0A7-516A-BC01-5C054725EABA&utm_source=rss&utm_medium=rss)
   - [laravel-access-control-lab exploit](https://sploitus.com/exploit?id=3B4A9F73-30BD-5F47-BCBD-CEE7814E85CE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/)
