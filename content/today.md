@@ -3,6 +3,7 @@
 - 2Libra
   - [【💰】分享自己 Vibe 的相册应用](https://2libra.com/post/open-source-sharing/PVi31rq)
   - [有无京东抢购脚本推荐](https://2libra.com/post/recommendations/UR0usHe)
+  - [求问各位友友一下 GPT Gemini 充值，要自己办卡的话，要办什么卡？某鱼上面的虚拟卡可靠吗？（人在国内）](https://2libra.com/post/ai-tools/ZfC1HiA)
 - Ars Technica
   - [Chinese regulators tell Tesla to fix nearly 3 million cars](https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/)
   - [Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels](https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/)
@@ -39,6 +40,7 @@
   - [Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/)
   - [Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams](https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/)
   - [How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/)
+  - [Japanese space tech startup Letara expands beyond satellite thrusters with $16M](https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/)
   - [Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today](https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/)
   - [Nvidia just showed that the harness, not the AI model, is now the real hero](https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/)
   - [Nvidia partners with data center developer Cloverleaf](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/)
@@ -100,5 +102,7 @@
   - [The Unlikely Place at the Center of China’s AI Boom](https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜摄像头AirPods或配备拍摄指示灯/问界儿童车售价1.58万元/LV否认「起诉国家知识产权局遭驳回」](https://www.ifanr.com/1676129?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [美国政府实验室正在调查中国激光雷达的安全漏洞](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%AD%A3%E5%9C%A8%E8%B0%83%E6%9F%A5%E4%B8%AD%E5%9B%BD%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E7%9A%84%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E)
