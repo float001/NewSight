@@ -2,6 +2,7 @@
 
 - 2Libra
   - [「开源分享」 iOS 原生 Swift 抓包软件开源](https://2libra.com/post/open-source-sharing/XEtRq-Z)
+  - [【兑换码】为了学英语，做了两个工具网站 - 很累也很爽](https://2libra.com/post/promotion/gJzHjpq)
   - [【搬运】Wi-Fi 8 不再追逐速率，IEEE 聚焦超高可靠性与真实吞吐](https://2libra.com/post/tech-news/x7Rc5xI)
   - [【💰】[开源分享] Octopus 为个人打造的美观优雅的 LLM API 聚合服务](https://2libra.com/post/open-source-sharing/4Y76Kuy)
   - [【💰】运气爆棚!连续两天开到金币雨](https://2libra.com/post/forum-function/f1Hnam0)
@@ -63,9 +64,12 @@
   - [The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)](https://www.wired.com/gallery/best-laptop-docking-stations/)
 - 不安全
   - [[配置指南] 中国教育网联合镜像站正式上线 聚合多所高校镜像 自动访问最快节点](https://buaq.net/go-437026.html)
+  - [bluez](https://buaq.net/go-437087.html)
   - [GitHub - Koosjuh/pal-outbreak-2-server: Reviving the online mode of Resident Evil Outbreak File #2 (PAL) on real, unmodified PS2 hardware](https://buaq.net/go-437068.html)
+  - [I gave a repair tool exactly one worked example. It inferred the rest and fixed 5/5 bugs in code it had never seen — 4 CPU instructions, zero tokens.](https://buaq.net/go-437081.html)
   - [kube-linter](https://buaq.net/go-437048.html)
   - [linux-exploit-suggester-2](https://buaq.net/go-437012.html)
+  - [openwisp-controller](https://buaq.net/go-437083.html)
   - [quantum-security-project — Updated!](https://buaq.net/go-437033.html)
   - [sonarqube](https://buaq.net/go-437059.html)
   - [subfinder v2.16.0](https://buaq.net/go-437028.html)
