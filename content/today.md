@@ -3,6 +3,7 @@
 - 2Libra
   - [「开源分享」 iOS 原生 Swift 抓包软件开源](https://2libra.com/post/open-source-sharing/XEtRq-Z)
   - [【💰】运气爆棚!连续两天开到金币雨](https://2libra.com/post/forum-function/f1Hnam0)
+  - [从最近论坛数量暴增有感](https://2libra.com/post/social-observation/MptxGSa)
   - [你们有没有觉得国内的空调好差劲的 呢?](https://2libra.com/post/help-requests/413djdU)
   - [儿童神秘文章：仲夏记](https://2libra.com/post/personal-works/bJpkHZB)
   - [小怪兽头像生成器](https://2libra.com/post/tools-sharing/MWJdtFN)
@@ -11,6 +12,8 @@
   - [用 20 个 pseo 站点实现每月 2000 美金的睡后收入之 papersize（1/20）](https://2libra.com/post/side-business/ovRcs0E)
 - daringfireball.net
   - [Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’](https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn)
+- defend.network
+  - [Android vehicles, AWS keys, Snowflake extortionist: Active threats escalate](https://defend.network/briefings/android-car-malware-aws-keys-snowflake-extortion-2026-08-23.html)
 - Hacker News Frontpage
   - [Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
   - [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
@@ -18,6 +21,7 @@
   - [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
   - [Scrap](https://twitter.com/moxie/status/2091218652133732491)
   - [The Covid-19 scandal is still unfolding](https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding)
+  - [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 - johndcook.com
   - [The difference orbit inclination makes](https://www.johndcook.com/blog/2026/08/22/inclination/)
 - Sploitus.com Exploits RSS Feed
@@ -35,6 +39,8 @@
   - [Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push](https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528)
 - The Verge
   - [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)
+- troyhunt.com
+  - [Welcoming the Sri Lankan Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/)
 - Vulners.com RSS Feed
   - [CVE-2026-78122 docker-socket-proxy through 0.5.0 Insufficient Access Control Granularity Exposes Container Filesystems](https://vulners.com/cve/CVE-2026-78122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-78122 docker-socket-proxy through 0.5.0 Insufficient Access Control Granularity Exposes Container Filesystems](https://vulners.com/cvelist/CVELIST:CVE-2026-78122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -51,5 +57,6 @@
   - [AI 即将接管流量，而广告正在疯狂「末日反扑」](https://www.ifanr.com/1676208?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [AliExpress被发现静默运行WebAudio指纹](https://blog.upx8.com/AliExpress%E8%A2%AB%E5%8F%91%E7%8E%B0%E9%9D%99%E9%BB%98%E8%BF%90%E8%A1%8CWebAudio%E6%8C%87%E7%BA%B9)
+  - [DeepSeek周末“打折”？API平台计费再调整](https://blog.upx8.com/DeepSeek%E5%91%A8%E6%9C%AB-%E6%89%93%E6%8A%98-API%E5%B9%B3%E5%8F%B0%E8%AE%A1%E8%B4%B9%E5%86%8D%E8%B0%83%E6%95%B4)
   - [中国教育网联合镜像站正式上线](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E7%BD%91%E8%81%94%E5%90%88%E9%95%9C%E5%83%8F%E7%AB%99%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF)
   - [谷歌开源大模型Gemma下载量破10亿次](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8BGemma%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B410%E4%BA%BF%E6%AC%A1)
