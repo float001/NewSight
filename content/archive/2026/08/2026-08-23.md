@@ -2,7 +2,10 @@
 
 - 2Libra
   - [「开源分享」 iOS 原生 Swift 抓包软件开源](https://2libra.com/post/open-source-sharing/XEtRq-Z)
+  - [【搬运】Wi-Fi 8 不再追逐速率，IEEE 聚焦超高可靠性与真实吞吐](https://2libra.com/post/tech-news/x7Rc5xI)
+  - [【💰】[开源分享] Octopus 为个人打造的美观优雅的 LLM API 聚合服务](https://2libra.com/post/open-source-sharing/4Y76Kuy)
   - [【💰】运气爆棚!连续两天开到金币雨](https://2libra.com/post/forum-function/f1Hnam0)
+  - [今天应该全世界的人都在蹬 ox-alpha (x-preview-f-free) 模型 吧? 大家蹬的感受如何?](https://2libra.com/post/large-models/jLha2Q0)
   - [从最近论坛数量暴增有感](https://2libra.com/post/social-observation/MptxGSa)
   - [你们有没有觉得国内的空调好差劲的 呢?](https://2libra.com/post/help-requests/413djdU)
   - [儿童神秘文章：仲夏记](https://2libra.com/post/personal-works/bJpkHZB)
@@ -49,11 +52,14 @@
 - Vulners.com RSS Feed
   - [CVE-2026-78122 docker-socket-proxy through 0.5.0 Insufficient Access Control Granularity Exposes Container Filesystems](https://vulners.com/cve/CVE-2026-78122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-78122 docker-socket-proxy through 0.5.0 Insufficient Access Control Granularity Exposes Container Filesystems](https://vulners.com/cvelist/CVELIST:CVE-2026-78122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App](https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/)
 - 不安全
   - [[配置指南] 中国教育网联合镜像站正式上线 聚合多所高校镜像 自动访问最快节点](https://buaq.net/go-437026.html)
   - [kube-linter](https://buaq.net/go-437048.html)
   - [linux-exploit-suggester-2](https://buaq.net/go-437012.html)
   - [quantum-security-project — Updated!](https://buaq.net/go-437033.html)
+  - [sonarqube](https://buaq.net/go-437059.html)
   - [subfinder v2.16.0](https://buaq.net/go-437028.html)
   - [trivy-plugin-aqua v0.239.0](https://buaq.net/go-437032.html)
   - [virt-firmware v26.8.1](https://buaq.net/go-437020.html)
