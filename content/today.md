@@ -11,6 +11,8 @@
   - [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
   - [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
   - [Scrap](https://twitter.com/moxie/status/2091218652133732491)
+- johndcook.com
+  - [The difference orbit inclination makes](https://www.johndcook.com/blog/2026/08/22/inclination/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-58231](https://sploitus.com/exploit?id=E10C0347-A487-529C-A636-E98E109449EE&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -24,5 +26,8 @@
   - [Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push](https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528)
 - The Verge
   - [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)
+- Vulners.com RSS Feed
+  - [CVE-2026-78122 docker-socket-proxy through 0.5.0 Insufficient Access Control Granularity Exposes Container Filesystems](https://vulners.com/cve/CVE-2026-78122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78122 docker-socket-proxy through 0.5.0 Insufficient Access Control Granularity Exposes Container Filesystems](https://vulners.com/cvelist/CVELIST:CVE-2026-78122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
