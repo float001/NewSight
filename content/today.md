@@ -37,6 +37,8 @@
 - The Block
   - [Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume](https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531)
   - [Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push](https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528)
+- The Decoder
+  - [How China's gray market sells Claude tokens at a fraction of the price](https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/)
 - The Verge
   - [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)
 - troyhunt.com
@@ -55,6 +57,9 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [AI 即将接管流量，而广告正在疯狂「末日反扑」](https://www.ifanr.com/1676208?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动](https://www.qbitai.com/2026/08/478007.html)
+  - [你的第一个个人机器人开启预订！上纬新材拉开家庭机器人消费时代序幕](https://www.qbitai.com/2026/08/478017.html)
 - 黑海洋
   - [AliExpress被发现静默运行WebAudio指纹](https://blog.upx8.com/AliExpress%E8%A2%AB%E5%8F%91%E7%8E%B0%E9%9D%99%E9%BB%98%E8%BF%90%E8%A1%8CWebAudio%E6%8C%87%E7%BA%B9)
   - [DeepSeek周末“打折”？API平台计费再调整](https://blog.upx8.com/DeepSeek%E5%91%A8%E6%9C%AB-%E6%89%93%E6%8A%98-API%E5%B9%B3%E5%8F%B0%E8%AE%A1%E8%B4%B9%E5%86%8D%E8%B0%83%E6%95%B4)
