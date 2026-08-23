@@ -6,6 +6,7 @@
   - [你们有没有觉得国内的空调好差劲的 呢?](https://2libra.com/post/help-requests/413djdU)
   - [儿童神秘文章：仲夏记](https://2libra.com/post/personal-works/bJpkHZB)
   - [小怪兽头像生成器](https://2libra.com/post/tools-sharing/MWJdtFN)
+  - [开源视频下载器 VidBee 破 1 万 Star：2.0 支持在本地把视频转成文稿与 AI 提问](https://2libra.com/post/open-source-sharing/H7Ue3Po)
   - [有用不惯垂直标签、OneTab 那一套的可以试试这个扩展](https://2libra.com/post/browser-extensions/Q_-aqg7)
   - [用 20 个 pseo 站点实现每月 2000 美金的睡后收入之 papersize（1/20）](https://2libra.com/post/side-business/ovRcs0E)
 - daringfireball.net
@@ -49,5 +50,6 @@
 - 爱范儿
   - [AI 即将接管流量，而广告正在疯狂「末日反扑」](https://www.ifanr.com/1676208?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [AliExpress被发现静默运行WebAudio指纹](https://blog.upx8.com/AliExpress%E8%A2%AB%E5%8F%91%E7%8E%B0%E9%9D%99%E9%BB%98%E8%BF%90%E8%A1%8CWebAudio%E6%8C%87%E7%BA%B9)
   - [中国教育网联合镜像站正式上线](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E7%BD%91%E8%81%94%E5%90%88%E9%95%9C%E5%83%8F%E7%AB%99%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF)
   - [谷歌开源大模型Gemma下载量破10亿次](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8BGemma%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B410%E4%BA%BF%E6%AC%A1)
