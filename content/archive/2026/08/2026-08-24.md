@@ -5,6 +5,8 @@
   - [大家好 看见最近的论坛爆火我想说两句](https://2libra.com/post/promotion/g0nrqvf)
 - daringfireball.net
   - [Cooper Sharp Proves That American Cheese Can Be Great Cheese](https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/)
+- Der Flounder
+  - [Using the Jamf Pro API to retrieve Recovery Lock passwords](https://derflounder.wordpress.com/2026/08/23/using-the-jamf-pro-api-to-retrieve-recovery-lock-passwords/)
 - Didier Stevens
   - [Update: base64dump.py Version 0.0.31](https://blog.didierstevens.com/2026/08/23/update-base64dump-py-version-0-0-31/)
 - downtowndougbrown.com
@@ -14,6 +16,7 @@
 - Recent Commits to cve:main
   - [Update Sun Aug 23 17:18:34 UTC 2026](https://github.com/trickest/cve/commit/28c457adbaca6f077741d3eb42ba0a7d0cffa4fe)
 - simonwillison.net
+  - [Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/)
   - [Quoting Drew Breunig](https://simonwillison.net/2026/Aug/23/drew-breunig/)
 - TechCrunch
   - [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)
