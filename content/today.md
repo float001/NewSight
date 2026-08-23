@@ -9,6 +9,7 @@
   - [从最近论坛数量暴增有感](https://2libra.com/post/social-observation/MptxGSa)
   - [你们有没有觉得国内的空调好差劲的 呢?](https://2libra.com/post/help-requests/413djdU)
   - [儿童神秘文章：仲夏记](https://2libra.com/post/personal-works/bJpkHZB)
+  - [失败的 8 月](https://2libra.com/post/forum-function/cIDKIDC)
   - [小怪兽头像生成器](https://2libra.com/post/tools-sharing/MWJdtFN)
   - [开源视频下载器 VidBee 破 1 万 Star：2.0 支持在本地把视频转成文稿与 AI 提问](https://2libra.com/post/open-source-sharing/H7Ue3Po)
   - [有用不惯垂直标签、OneTab 那一套的可以试试这个扩展](https://2libra.com/post/browser-extensions/Q_-aqg7)
@@ -27,10 +28,13 @@
   - [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 - johndcook.com
   - [The difference orbit inclination makes](https://www.johndcook.com/blog/2026/08/22/inclination/)
+- shkspr.mobi
+  - [Death to px, long live ch!](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
 - Sploitus.com Exploits RSS Feed
   - [cve-autopsy exploit](https://sploitus.com/exploit?id=309CAD3F-48DF-5406-878E-0709CB1003E8&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-58231](https://sploitus.com/exploit?id=E10C0347-A487-529C-A636-E98E109449EE&utm_source=rss&utm_medium=rss)
   - [ids-traffic-analysis exploit](https://sploitus.com/exploit?id=94A395F2-55DD-545D-8FF6-88397734A58F&utm_source=rss&utm_medium=rss)
+  - [xss-tools exploit](https://sploitus.com/exploit?id=4327859E-7C06-5EE8-B424-9751F0856B02&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/)
   - [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/)
@@ -47,6 +51,7 @@
   - [Memory shortage reportedly drives Nvidia AI server prices up about 15 percent](https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent/)
 - The Verge
   - [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)
+  - [Grand Theft Auto VI exists in its own universe](https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe)
 - troyhunt.com
   - [Welcoming the Sri Lankan Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/)
 - Vulners.com RSS Feed
@@ -57,6 +62,7 @@
   - [The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)](https://www.wired.com/gallery/best-laptop-docking-stations/)
 - 不安全
   - [[配置指南] 中国教育网联合镜像站正式上线 聚合多所高校镜像 自动访问最快节点](https://buaq.net/go-437026.html)
+  - [GitHub - Koosjuh/pal-outbreak-2-server: Reviving the online mode of Resident Evil Outbreak File #2 (PAL) on real, unmodified PS2 hardware](https://buaq.net/go-437068.html)
   - [kube-linter](https://buaq.net/go-437048.html)
   - [linux-exploit-suggester-2](https://buaq.net/go-437012.html)
   - [quantum-security-project — Updated!](https://buaq.net/go-437033.html)
@@ -64,6 +70,7 @@
   - [subfinder v2.16.0](https://buaq.net/go-437028.html)
   - [trivy-plugin-aqua v0.239.0](https://buaq.net/go-437032.html)
   - [virt-firmware v26.8.1](https://buaq.net/go-437020.html)
+  - [wireshark](https://buaq.net/go-437069.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
