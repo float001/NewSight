@@ -13,11 +13,14 @@
 - Hacker News Frontpage
   - [Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
   - [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
+  - [Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has](https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html)
   - [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
   - [Scrap](https://twitter.com/moxie/status/2091218652133732491)
+  - [The Covid-19 scandal is still unfolding](https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding)
 - johndcook.com
   - [The difference orbit inclination makes](https://www.johndcook.com/blog/2026/08/22/inclination/)
 - Sploitus.com Exploits RSS Feed
+  - [cve-autopsy exploit](https://sploitus.com/exploit?id=309CAD3F-48DF-5406-878E-0709CB1003E8&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-58231](https://sploitus.com/exploit?id=E10C0347-A487-529C-A636-E98E109449EE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/)
@@ -37,11 +40,14 @@
 - 不安全
   - [[配置指南] 中国教育网联合镜像站正式上线 聚合多所高校镜像 自动访问最快节点](https://buaq.net/go-437026.html)
   - [linux-exploit-suggester-2](https://buaq.net/go-437012.html)
+  - [quantum-security-project — Updated!](https://buaq.net/go-437033.html)
   - [subfinder v2.16.0](https://buaq.net/go-437028.html)
+  - [trivy-plugin-aqua v0.239.0](https://buaq.net/go-437032.html)
   - [virt-firmware v26.8.1](https://buaq.net/go-437020.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [AI 即将接管流量，而广告正在疯狂「末日反扑」](https://www.ifanr.com/1676208?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [中国教育网联合镜像站正式上线](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E7%BD%91%E8%81%94%E5%90%88%E9%95%9C%E5%83%8F%E7%AB%99%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF)
   - [谷歌开源大模型Gemma下载量破10亿次](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8BGemma%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B410%E4%BA%BF%E6%AC%A1)
