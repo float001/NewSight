@@ -54,6 +54,7 @@
   - [CVE-2026-78122 docker-socket-proxy through 0.5.0 Insufficient Access Control Granularity Exposes Container Filesystems](https://vulners.com/cvelist/CVELIST:CVE-2026-78122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App](https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/)
+  - [The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)](https://www.wired.com/gallery/best-laptop-docking-stations/)
 - 不安全
   - [[配置指南] 中国教育网联合镜像站正式上线 聚合多所高校镜像 自动访问最快节点](https://buaq.net/go-437026.html)
   - [kube-linter](https://buaq.net/go-437048.html)
