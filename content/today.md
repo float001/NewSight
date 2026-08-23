@@ -5,6 +5,7 @@
   - [【💰】运气爆棚!连续两天开到金币雨](https://2libra.com/post/forum-function/f1Hnam0)
   - [你们有没有觉得国内的空调好差劲的 呢?](https://2libra.com/post/help-requests/413djdU)
   - [儿童神秘文章：仲夏记](https://2libra.com/post/personal-works/bJpkHZB)
+  - [小怪兽头像生成器](https://2libra.com/post/tools-sharing/MWJdtFN)
   - [有用不惯垂直标签、OneTab 那一套的可以试试这个扩展](https://2libra.com/post/browser-extensions/Q_-aqg7)
   - [用 20 个 pseo 站点实现每月 2000 美金的睡后收入之 papersize（1/20）](https://2libra.com/post/side-business/ovRcs0E)
 - daringfireball.net
@@ -34,9 +35,13 @@
   - [CVE-2026-78122 docker-socket-proxy through 0.5.0 Insufficient Access Control Granularity Exposes Container Filesystems](https://vulners.com/cve/CVE-2026-78122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-78122 docker-socket-proxy through 0.5.0 Insufficient Access Control Granularity Exposes Container Filesystems](https://vulners.com/cvelist/CVELIST:CVE-2026-78122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
+  - [[配置指南] 中国教育网联合镜像站正式上线 聚合多所高校镜像 自动访问最快节点](https://buaq.net/go-437026.html)
   - [linux-exploit-suggester-2](https://buaq.net/go-437012.html)
+  - [subfinder v2.16.0](https://buaq.net/go-437028.html)
   - [virt-firmware v26.8.1](https://buaq.net/go-437020.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [AI 即将接管流量，而广告正在疯狂「末日反扑」](https://www.ifanr.com/1676208?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [谷歌开源大模型Gemma下载量破10亿次](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8BGemma%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B410%E4%BA%BF%E6%AC%A1)
