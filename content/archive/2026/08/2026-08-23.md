@@ -27,6 +27,7 @@
 - Sploitus.com Exploits RSS Feed
   - [cve-autopsy exploit](https://sploitus.com/exploit?id=309CAD3F-48DF-5406-878E-0709CB1003E8&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-58231](https://sploitus.com/exploit?id=E10C0347-A487-529C-A636-E98E109449EE&utm_source=rss&utm_medium=rss)
+  - [ids-traffic-analysis exploit](https://sploitus.com/exploit?id=94A395F2-55DD-545D-8FF6-88397734A58F&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/)
   - [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/)
@@ -38,7 +39,9 @@
   - [Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume](https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531)
   - [Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push](https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528)
 - The Decoder
+  - [AI could make scientists do more work less well, not less work better, study argues](https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/)
   - [How China's gray market sells Claude tokens at a fraction of the price](https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/)
+  - [Memory shortage reportedly drives Nvidia AI server prices up about 15 percent](https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent/)
 - The Verge
   - [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)
 - troyhunt.com
@@ -48,6 +51,7 @@
   - [CVE-2026-78122 docker-socket-proxy through 0.5.0 Insufficient Access Control Granularity Exposes Container Filesystems](https://vulners.com/cvelist/CVELIST:CVE-2026-78122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [[配置指南] 中国教育网联合镜像站正式上线 聚合多所高校镜像 自动访问最快节点](https://buaq.net/go-437026.html)
+  - [kube-linter](https://buaq.net/go-437048.html)
   - [linux-exploit-suggester-2](https://buaq.net/go-437012.html)
   - [quantum-security-project — Updated!](https://buaq.net/go-437033.html)
   - [subfinder v2.16.0](https://buaq.net/go-437028.html)
