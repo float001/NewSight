@@ -2,6 +2,7 @@
 
 - 2Libra
   - [「开源分享」 iOS 原生 Swift 抓包软件开源](https://2libra.com/post/open-source-sharing/XEtRq-Z)
+  - [【💰】运气爆棚!连续两天开到金币雨](https://2libra.com/post/forum-function/f1Hnam0)
   - [你们有没有觉得国内的空调好差劲的 呢?](https://2libra.com/post/help-requests/413djdU)
   - [儿童神秘文章：仲夏记](https://2libra.com/post/personal-works/bJpkHZB)
   - [有用不惯垂直标签、OneTab 那一套的可以试试这个扩展](https://2libra.com/post/browser-extensions/Q_-aqg7)
@@ -22,6 +23,7 @@
   - [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/)
   - [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/)
   - [OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)
+  - [Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders](https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/)
   - [Will the DOJ’s investigation into a16z spook other VCs?](https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/)
 - The Block
   - [Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume](https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531)
@@ -33,6 +35,7 @@
   - [CVE-2026-78122 docker-socket-proxy through 0.5.0 Insufficient Access Control Granularity Exposes Container Filesystems](https://vulners.com/cvelist/CVELIST:CVE-2026-78122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [linux-exploit-suggester-2](https://buaq.net/go-437012.html)
+  - [virt-firmware v26.8.1](https://buaq.net/go-437020.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
