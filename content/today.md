@@ -47,6 +47,7 @@
   - [Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push](https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528)
 - The Decoder
   - [AI could make scientists do more work less well, not less work better, study argues](https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/)
+  - [An AI boss fired its first employee but only after humans reminded it of its own rules](https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/)
   - [How China's gray market sells Claude tokens at a fraction of the price](https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/)
   - [Memory shortage reportedly drives Nvidia AI server prices up about 15 percent](https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent/)
 - The Verge
