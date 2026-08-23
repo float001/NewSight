@@ -5,6 +5,7 @@
   - [你们有没有觉得国内的空调好差劲的 呢?](https://2libra.com/post/help-requests/413djdU)
   - [儿童神秘文章：仲夏记](https://2libra.com/post/personal-works/bJpkHZB)
   - [有用不惯垂直标签、OneTab 那一套的可以试试这个扩展](https://2libra.com/post/browser-extensions/Q_-aqg7)
+  - [用 20 个 pseo 站点实现每月 2000 美金的睡后收入之 papersize（1/20）](https://2libra.com/post/side-business/ovRcs0E)
 - daringfireball.net
   - [Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’](https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn)
 - Hacker News Frontpage
@@ -34,3 +35,5 @@
   - [linux-exploit-suggester-2](https://buaq.net/go-437012.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [谷歌开源大模型Gemma下载量破10亿次](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8BGemma%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B410%E4%BA%BF%E6%AC%A1)
