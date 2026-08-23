@@ -2,6 +2,12 @@
 
 - 2Libra
   - [大家好 看见最近的论坛爆火我想说两句](https://2libra.com/post/promotion/g0nrqvf)
+- daringfireball.net
+  - [Cooper Sharp Proves That American Cheese Can Be Great Cheese](https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/)
+- Didier Stevens
+  - [Update: base64dump.py Version 0.0.31](https://blog.didierstevens.com/2026/08/23/update-base64dump-py-version-0-0-31/)
+- Recent Commits to cve:main
+  - [Update Sun Aug 23 17:18:34 UTC 2026](https://github.com/trickest/cve/commit/28c457adbaca6f077741d3eb42ba0a7d0cffa4fe)
 - TechCrunch
   - [TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/)
 - 代码审计星球
