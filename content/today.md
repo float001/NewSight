@@ -2,6 +2,7 @@
 
 - 2Libra
   - [「开源分享」 iOS 原生 Swift 抓包软件开源](https://2libra.com/post/open-source-sharing/XEtRq-Z)
+  - [你们有没有觉得国内的空调好差劲的 呢?](https://2libra.com/post/help-requests/413djdU)
   - [儿童神秘文章：仲夏记](https://2libra.com/post/personal-works/bJpkHZB)
   - [有用不惯垂直标签、OneTab 那一套的可以试试这个扩展](https://2libra.com/post/browser-extensions/Q_-aqg7)
 - daringfireball.net
@@ -29,5 +30,7 @@
 - Vulners.com RSS Feed
   - [CVE-2026-78122 docker-socket-proxy through 0.5.0 Insufficient Access Control Granularity Exposes Container Filesystems](https://vulners.com/cve/CVE-2026-78122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-78122 docker-socket-proxy through 0.5.0 Insufficient Access Control Granularity Exposes Container Filesystems](https://vulners.com/cvelist/CVELIST:CVE-2026-78122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [linux-exploit-suggester-2](https://buaq.net/go-437012.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
