@@ -3,7 +3,9 @@
 - 2Libra
   - [Codex 1000 credits 的邀请名额，有需要的留邮箱](https://2libra.com/post/promotion/21hrfZJ)
   - [【律师函警告】 走个面！](https://2libra.com/post/forum-function/Zeal4cd)
+  - [【投票】看到有个帖子说论坛里的年龄层次，再来个年龄分类的投票看下年龄分层](https://2libra.com/post/social-observation/MFAocca)
   - [【求助】为什么看不到消息内容了](https://2libra.com/post/community/t2-TWYt)
+  - [【💰】即将从 Lv.9 升级到 Lv.10](https://2libra.com/post/forum-function/_njAGqJ)
   - [【💰】好耶！我也可以走个面了！](https://2libra.com/post/forum-function/ADUXwNb)
   - [【💰】有懂二手车的大佬吗，想问个关于查博士检测的问题](https://2libra.com/post/help-requests/Ujl_NXW)
   - [仔细看了下当前的金币体系，通胀还是居高](https://2libra.com/post/forum-function/WseKw-o)
@@ -11,12 +13,18 @@
   - [免费终究难以长久，本站已开启订阅制，注册用户突破 10000 人！](https://2libra.com/post/promotion/6zfGhGK)
   - [大家好 看见最近的论坛爆火我想说两句](https://2libra.com/post/promotion/g0nrqvf)
   - [大家有开发游戏上传 steam 的吗](https://2libra.com/post/indie-dev/weEitQR)
+  - [感慨一下， 想看奥德赛， 一张 150 多票让我 望而却步！舍不得啊！](https://2libra.com/post/small-things/imVFIIs)
   - [我很好奇现在论坛里的年龄层次](https://2libra.com/post/midlife-support-club/kSxqvIM)
   - [挤地铁小游戏](https://2libra.com/post/game-share/dIazWeW)
+  - [牛马周一，思考国庆去哪里玩？](https://2libra.com/post/travel-tips/KKymBIF)
   - [用 AI 做东西一发不可收拾了，数学概念关系图谱](https://2libra.com/post/personal-works/IZpX7Mi)
+  - [社区升级的升级 快来瞧瞧](https://2libra.com/post/promotion/vyfizht)
   - [社区缺少注销账号机制](https://2libra.com/post/forum-function/PBzEoW7)
 - CoinTelegraph
+  - [Term Finance loses estimated $8.5M in vault governance exploit](https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest](https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Term Finance loses estimated $8.5M in vault governance exploit](https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Cooper Sharp Proves That American Cheese Can Be Great Cheese](https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/)
 - Der Flounder
@@ -61,6 +69,9 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [100 万像素的摄像头，为什么是苹果 AI 最重要的零件？｜硬哲学](https://www.ifanr.com/1676333?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场](https://www.ifanr.com/1676318?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [AI 开发者每天都要刷的网站，准备 130 亿美金卖了](https://www.ifanr.com/1676393?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [巴掌大的墨水屏，为什么是现在最火的 AI 终端｜AI 器物志](https://www.ifanr.com/1675741?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [Anthropic顶尖AI模型在企业市场遇冷](https://blog.upx8.com/Anthropic%E9%A1%B6%E5%B0%96AI%E6%A8%A1%E5%9E%8B%E5%9C%A8%E4%BC%81%E4%B8%9A%E5%B8%82%E5%9C%BA%E9%81%87%E5%86%B7)
   - [Hugging Face考虑出售估值130亿美元](https://blog.upx8.com/Hugging-Face%E8%80%83%E8%99%91%E5%87%BA%E5%94%AE%E4%BC%B0%E5%80%BC130%E4%BA%BF%E7%BE%8E%E5%85%83)
