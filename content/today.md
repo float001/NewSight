@@ -3,6 +3,7 @@
 - 2Libra
   - [ai 分享会求助](https://2libra.com/post/ai-tools/SlZ203w)
   - [Codex 1000 credits 的邀请名额，有需要的留邮箱](https://2libra.com/post/promotion/21hrfZJ)
+  - [ox-alpha (x-preview-f-free) 把首字调这么慢, 又把上下文限制在 200K](https://2libra.com/post/large-models/PTbOB1Y)
   - [V 站真会玩](https://2libra.com/post/hotspot-tracking/u1qPpY4)
   - [《zed 快速使用指南》](https://2libra.com/post/usage-tips/90gQzjv)
   - [【律师函警告】 走个面！](https://2libra.com/post/forum-function/Zeal4cd)
@@ -18,6 +19,7 @@
   - [大家好 看见最近的论坛爆火我想说两句](https://2libra.com/post/promotion/g0nrqvf)
   - [大家有开发游戏上传 steam 的吗](https://2libra.com/post/indie-dev/weEitQR)
   - [感慨一下， 想看奥德赛， 一张 150 多票让我 望而却步！舍不得啊！](https://2libra.com/post/small-things/imVFIIs)
+  - [感觉中午的金币池蛮容易中奖的](https://2libra.com/post/forum-function/LYoApFL)
   - [我很好奇现在论坛里的年龄层次](https://2libra.com/post/midlife-support-club/kSxqvIM)
   - [挤地铁小游戏](https://2libra.com/post/game-share/dIazWeW)
   - [有人玩《铁巢重炮》吗](https://2libra.com/post/game-discussion/Zg7-mNX)
@@ -44,6 +46,8 @@
   - [Update: base64dump.py Version 0.0.31](https://blog.didierstevens.com/2026/08/23/update-base64dump-py-version-0-0-31/)
 - downtowndougbrown.com
   - [Fixing an eMachines EL1200 BIOS bug with Claude](https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/)
+- ElcomSoft blog
+  - [The True Meaning of Consent in ‘Consent Extractions’](https://blog.elcomsoft.com/2026/08/the-true-meaning-of-consent-in-consent-extractions/)
 - Emergent Minds | paddo.dev
   - [The Voice Drifts Back: AI Slop, Concise Mode, and Simplified Technical English](https://paddo.dev/blog/the-voice-drifts-back/)
 - InfoSec Write-ups - Medium
@@ -62,6 +66,7 @@
   - [Uber faces fine of nearly $1B over automated driver suspensions](https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/)
   - [Who’s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
 - The Decoder
+  - [AI chatbots regularly link pregnant users to anti-abortion websites without disclosure](https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/)
   - [Nvidia in talks to invest in Perplexity at $30 billion-plus valuation](https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/)
 - The Verge
   - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
@@ -71,8 +76,12 @@
   - [Exploit for Race Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/C27D1957-AA7E-5943-AB45-B9B764AEC8CA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe](https://www.wired.com/story/nasa-nancy-grace-roman-space-telescope-hidden-facets-of-universe/)
+  - [The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame](https://www.wired.com/story/best-multi-use-air-purifiers/)
+  - [They Dedicated Their Lives to Teaching. Then the Deepfakes Started](https://www.wired.com/story/teachers-deepfake-ai-students-content/)
 - 不安全
   - [BTLE](https://buaq.net/go-437192.html)
+  - [ChameleonMini](https://buaq.net/go-437298.html)
+  - [CrystalPotato](https://buaq.net/go-437300.html)
   - [embark](https://buaq.net/go-437189.html)
   - [ethr](https://buaq.net/go-437195.html)
   - [grapefruit](https://buaq.net/go-437186.html)
@@ -85,6 +94,8 @@
   - [muraena](https://buaq.net/go-437187.html)
   - [plaso](https://buaq.net/go-437183.html)
   - [ssh-audit](https://buaq.net/go-437194.html)
+  - [The True Meaning of Consent in ‘Consent Extractions’](https://buaq.net/go-437291.html)
+  - [TrustworthyRAG](https://buaq.net/go-437299.html)
   - [whad-client](https://buaq.net/go-437190.html)
   - [微软正在为Windows 11开发新的内存管理功能 用户可以手动分配不同任务内存量](https://buaq.net/go-437252.html)
   - [索尼向PS玩家发邮件强调 玩家购买的数字游戏仅为授权许可 而不是卖给玩家的](https://buaq.net/go-437200.html)
@@ -98,8 +109,10 @@
   - [100 万像素的摄像头，为什么是苹果 AI 最重要的零件？｜硬哲学](https://www.ifanr.com/1676333?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场](https://www.ifanr.com/1676318?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [AI 开发者每天都要刷的网站，准备 130 亿美金卖了](https://www.ifanr.com/1676393?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [小米发布玄戒 AI 芯片「全家桶」，还官宣了小米「阔折叠」](https://www.ifanr.com/1676441?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [巴掌大的墨水屏，为什么是现在最火的 AI 终端｜AI 器物志](https://www.ifanr.com/1675741?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [折叠 iPhone 最全爆料汇总：用过的都说好，但有两个大缺点](https://www.ifanr.com/1676426?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [折叠 iPhone 细节曝光，苹果想折叠的不只是屏幕](https://www.ifanr.com/1676310?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [英伟达押注 Perplexity，但它真的值 300 亿美金吗？](https://www.ifanr.com/1676435?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤](https://www.qbitai.com/2026/08/478473.html)
