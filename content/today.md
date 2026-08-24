@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-08-25）
 
 - 2Libra
+  - [8 月 24 日微语报，星期一，农历七月十二，工作愉快，生活喜乐！](https://2libra.com/post/tech-news/LRmOtRC)
   - [Openai 成功打击中转站 MVP 结算画面](https://2libra.com/post/ai-gateway/G0m6-uO)
   - [眼睁睁看着喜欢的社区慢慢变味是什么感受](https://2libra.com/post/social-observation/55wcAo7)
 - CoinTelegraph
@@ -12,10 +13,13 @@
   - [Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%](https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [BitCam: The 1-Bit Camera App Turns 2.0](https://bitcam-app.com/)
+  - [★ What Is the Point of the DMA?](https://daringfireball.net/2026/08/what_is_the_point_of_the_dma)
 - darkreading
   - [Exploited Zimbra Flaw Highlights Shrinking Window to Patch](https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch)
 - Hacker News Frontpage
   - [A Claude Code skill that recovers export-blocked Kindle highlights](https://github.com/l3a0/claude-plugins)
+  - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+  - [Moon](https://ciechanow.ski/moon/)
   - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
 - Horizon3.ai
   - [Operationalize CTEM with NodeZero®](https://horizon3.ai/downloads/factsheets/operationalize-ctem-with-nodezero/)
@@ -112,3 +116,5 @@
   - [The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe](https://www.wired.com/story/food-safety-gear-salmonella/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [特朗普在今年六月购买了SpaceX的股票](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%BB%8A%E5%B9%B4%E5%85%AD%E6%9C%88%E8%B4%AD%E4%B9%B0%E4%BA%86SpaceX%E7%9A%84%E8%82%A1%E7%A5%A8)
