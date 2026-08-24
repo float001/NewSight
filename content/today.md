@@ -2,6 +2,7 @@
 
 - 2Libra
   - [Codex 1000 credits 的邀请名额，有需要的留邮箱](https://2libra.com/post/promotion/21hrfZJ)
+  - [《zed 快速使用指南》](https://2libra.com/post/usage-tips/90gQzjv)
   - [【律师函警告】 走个面！](https://2libra.com/post/forum-function/Zeal4cd)
   - [【投票】看到有个帖子说论坛里的年龄层次，再来个年龄分类的投票看下年龄分层](https://2libra.com/post/social-observation/MFAocca)
   - [【求助】为什么看不到消息内容了](https://2libra.com/post/community/t2-TWYt)
@@ -49,6 +50,8 @@
   - [Who’s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
 - The Verge
   - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
+- troyhunt.com
+  - [Weekly Update 518: IoT Doorlock Nirvana with UniFi](https://www.troyhunt.com/weekly-update-518/)
 - 不安全
   - [BTLE](https://buaq.net/go-437192.html)
   - [embark](https://buaq.net/go-437189.html)
@@ -75,3 +78,5 @@
 - 黑海洋
   - [Anthropic顶尖AI模型在企业市场遇冷](https://blog.upx8.com/Anthropic%E9%A1%B6%E5%B0%96AI%E6%A8%A1%E5%9E%8B%E5%9C%A8%E4%BC%81%E4%B8%9A%E5%B8%82%E5%9C%BA%E9%81%87%E5%86%B7)
   - [Hugging Face考虑出售估值130亿美元](https://blog.upx8.com/Hugging-Face%E8%80%83%E8%99%91%E5%87%BA%E5%94%AE%E4%BC%B0%E5%80%BC130%E4%BA%BF%E7%BE%8E%E5%85%83)
+  - [↩️🖼 小米手机日本宣布部分产品价格即将上涨](https://blog.upx8.com/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E9%83%A8%E5%88%86%E4%BA%A7%E5%93%81%E4%BB%B7%E6%A0%BC%E5%8D%B3%E5%B0%86%E4%B8%8A%E6%B6%A8)
+  - [新西兰拟立法禁止未满16岁青少年使用社媒](https://blog.upx8.com/%E6%96%B0%E8%A5%BF%E5%85%B0%E6%8B%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E6%9C%AA%E6%BB%A116%E5%B2%81%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BD%BF%E7%94%A8%E7%A4%BE%E5%AA%92)
