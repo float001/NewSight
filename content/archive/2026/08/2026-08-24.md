@@ -20,6 +20,7 @@
   - [感慨一下， 想看奥德赛， 一张 150 多票让我 望而却步！舍不得啊！](https://2libra.com/post/small-things/imVFIIs)
   - [我很好奇现在论坛里的年龄层次](https://2libra.com/post/midlife-support-club/kSxqvIM)
   - [挤地铁小游戏](https://2libra.com/post/game-share/dIazWeW)
+  - [有人玩《铁巢重炮》吗](https://2libra.com/post/game-discussion/Zg7-mNX)
   - [牛马周一，思考国庆去哪里玩？](https://2libra.com/post/travel-tips/KKymBIF)
   - [用 AI 做东西一发不可收拾了，数学概念关系图谱](https://2libra.com/post/personal-works/IZpX7Mi)
   - [社区升级的升级 快来瞧瞧](https://2libra.com/post/promotion/vyfizht)
@@ -60,12 +61,16 @@
   - [TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/)
   - [Uber faces fine of nearly $1B over automated driver suspensions](https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/)
   - [Who’s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
+- The Decoder
+  - [Nvidia in talks to invest in Perplexity at $30 billion-plus valuation](https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/)
 - The Verge
   - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
 - troyhunt.com
   - [Weekly Update 518: IoT Doorlock Nirvana with UniFi](https://www.troyhunt.com/weekly-update-518/)
 - Vulners.com RSS Feed
   - [Exploit for Race Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/C27D1957-AA7E-5943-AB45-B9B764AEC8CA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe](https://www.wired.com/story/nasa-nancy-grace-roman-space-telescope-hidden-facets-of-universe/)
 - 不安全
   - [BTLE](https://buaq.net/go-437192.html)
   - [embark](https://buaq.net/go-437189.html)
@@ -95,6 +100,9 @@
   - [AI 开发者每天都要刷的网站，准备 130 亿美金卖了](https://www.ifanr.com/1676393?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [巴掌大的墨水屏，为什么是现在最火的 AI 终端｜AI 器物志](https://www.ifanr.com/1675741?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [折叠 iPhone 最全爆料汇总：用过的都说好，但有两个大缺点](https://www.ifanr.com/1676426?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [英伟达押注 Perplexity，但它真的值 300 亿美金吗？](https://www.ifanr.com/1676435?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤](https://www.qbitai.com/2026/08/478473.html)
 - 阿小信的博客
   - [完全不碰电脑的一周：阿小信的自由职业周记（2026W34）](https://blog.axiaoxin.com/post/weekly-2026-w34/)
 - 黑海洋
