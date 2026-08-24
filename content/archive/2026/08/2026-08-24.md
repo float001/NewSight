@@ -30,6 +30,7 @@
   - [集思广益](https://2libra.com/post/brainstorming/BimLWbB)
 - CoinTelegraph
   - [Banks, regulators join quantum-resistant crypto transfer pilot](https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Germany widens MiCA lead as latest EU register update adds 6 banks](https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms](https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Term Finance loses estimated $8.5M in vault governance exploit](https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -65,8 +66,11 @@
   - [TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/)
   - [Uber faces fine of nearly $1B over automated driver suspensions](https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/)
   - [Who’s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
+- The Block
+  - [Bernstein says Circle’s growth cycle can continue without the Clarity Act, sees 59% upside](https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573)
 - The Decoder
   - [AI chatbots regularly link pregnant users to anti-abortion websites without disclosure](https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/)
+  - [Cerebras unveils CS-4 with double the performance on the same chip](https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/)
   - [Nvidia in talks to invest in Perplexity at $30 billion-plus valuation](https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/)
 - The Verge
   - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
@@ -75,12 +79,14 @@
 - Vulners.com RSS Feed
   - [Exploit for Race Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/C27D1957-AA7E-5943-AB45-B9B764AEC8CA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Forget Meta Ray-Bans. These Dorky-Looking Virtual Display Glasses Are Way More Useful](https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/)
   - [NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe](https://www.wired.com/story/nasa-nancy-grace-roman-space-telescope-hidden-facets-of-universe/)
   - [The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame](https://www.wired.com/story/best-multi-use-air-purifiers/)
   - [They Dedicated Their Lives to Teaching. Then the Deepfakes Started](https://www.wired.com/story/teachers-deepfake-ai-students-content/)
 - 不安全
   - [BTLE](https://buaq.net/go-437192.html)
   - [ChameleonMini](https://buaq.net/go-437298.html)
+  - [Criminal Deception in Silicon Valley](https://buaq.net/go-437332.html)
   - [CrystalPotato](https://buaq.net/go-437300.html)
   - [embark](https://buaq.net/go-437189.html)
   - [ethr](https://buaq.net/go-437195.html)
