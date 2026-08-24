@@ -31,6 +31,7 @@
   - [集思广益](https://2libra.com/post/brainstorming/BimLWbB)
 - CoinTelegraph
   - [Banks, regulators join quantum-resistant crypto transfer pilot](https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K](https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ECB defends digital euro privacy as CBDCs face global scrutiny](https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week](https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Germany widens MiCA lead as latest EU register update adds 6 banks](https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -56,6 +57,8 @@
   - [The True Meaning of Consent in ‘Consent Extractions’](https://blog.elcomsoft.com/2026/08/the-true-meaning-of-consent-in-consent-extractions/)
 - Emergent Minds | paddo.dev
   - [The Voice Drifts Back: AI Slop, Concise Mode, and Simplified Technical English](https://paddo.dev/blog/the-voice-drifts-back/)
+- IEEE Spectrum
+  - [What It Takes to Be an Adaptable Engineer](https://spectrum.ieee.org/adaptable-engineer-core-skills)
 - InfoSec Write-ups - Medium
   - [I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover](https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss----7b722bfd1b8d---4)
   - [Lakera’s Break The Agent Challenge— Solace AI Write-up](https://infosecwriteups.com/lakeras-break-the-agent-challenge-solace-ai-write-up-5f99a48c6c69?source=rss----7b722bfd1b8d---4)
@@ -65,6 +68,8 @@
   - [What exactly is modified about a modified Bessel function?](https://www.johndcook.com/blog/2026/08/23/modified-bessel-function/)
 - MIT Technology Review
   - [The Download: kids outlearning AI, and space travel agents](https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/)
+- Pen Test Partners
+  - [One SSID To Rule Them All](https://www.pentestpartners.com/security-blog/one-ssid-to-rule-them-all/)
 - Recent Commits to cve:main
   - [Update Sun Aug 23 17:18:34 UTC 2026](https://github.com/trickest/cve/commit/28c457adbaca6f077741d3eb42ba0a7d0cffa4fe)
 - shkspr.mobi
@@ -74,13 +79,16 @@
   - [Quoting Drew Breunig](https://simonwillison.net/2026/Aug/23/drew-breunig/)
   - [Your executable is a SQLite database](https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/)
 - TechCrunch
+  - [Hugging Face reportedly in talks to be acquired for $13B](https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/)
   - [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)
   - [TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/)
   - [Uber faces fine of nearly $1B over automated driver suspensions](https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/)
+  - [US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards](https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/)
   - [Who’s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
 - The Block
   - [Bernstein says Circle’s growth cycle can continue without the Clarity Act, sees 59% upside](https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573)
   - [Strategy sells $2 billion in MSTR shares, makes no bitcoin purchases, establishes $1.6 billion ‘USD Cash’ pool](https://www.theblock.co/news/business/2026-08-24-strategy-mstr-strc-bitcoin-usd-reserve-412570)
+  - [‘Upside move in ETH was overdue,’ Tom Lee says as Bitmine buys another 32,447 ether](https://www.theblock.co/news/business/2026-08-24-upside-move-eth-was-overdue-tom-lee-says-bitmine-buys-more-ether-412589)
 - The Decoder
   - [AI chatbots regularly link pregnant users to anti-abortion websites without disclosure](https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/)
   - [Cerebras unveils CS-4 with double the performance on the same chip](https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/)
@@ -95,11 +103,21 @@
   - [CVE-2025-63080 Authenticated RCE in KAON PG5298](https://vulners.com/cvelist/CVELIST:CVE-2025-63080?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10582](https://vulners.com/nvd/NVD:CVE-2026-10582?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10618](https://vulners.com/nvd/NVD:CVE-2026-10618?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-21751 HCL Hive is affected by use of a cryptographic primitive with a risky implementation](https://vulners.com/cvelist/CVELIST:CVE-2026-21751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59295](https://vulners.com/nvd/NVD:CVE-2026-59295?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6017 Missing Authentication for Critical Function in KAON PG5298](https://vulners.com/cvelist/CVELIST:CVE-2026-6017?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76172](https://vulners.com/nvd/NVD:CVE-2026-76172?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-76840 RustDesk through 1.4.9 Heap Buffer Overflow via Unvalidated CLIPRDR FileContentsResponse Length](https://vulners.com/cvelist/CVELIST:CVE-2026-76840?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-76841 Xinference through 2.11.0 Remote Code Execution via Hardcoded trust_remote_code in Model Loaders](https://vulners.com/cvelist/CVELIST:CVE-2026-76841?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-76842 Mercado Pago Node.js SDK through 3.4.0 Path Injection via Unencoded Identifiers in Payment Clients](https://vulners.com/cvelist/CVELIST:CVE-2026-76842?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-76843 Flair 0.15.0 and 0.15.1 Deserialization of Untrusted Data via ClusteringModel.load](https://vulners.com/cvelist/CVELIST:CVE-2026-76843?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-76844 webpack-dev-middleware Path Traversal via Offset Slice on a Non-Slash-Terminated publicPath](https://vulners.com/cvelist/CVELIST:CVE-2026-76844?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-76845 adm-zip 0.5.9 through 0.6.0 Arbitrary File Overwrite via Symlink Following on Extraction](https://vulners.com/cvelist/CVELIST:CVE-2026-76845?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-76847 act 0.2.81 through 0.2.89 Missing Authorization in the Artifacts V4 Backend](https://vulners.com/cvelist/CVELIST:CVE-2026-76847?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-76848 TypeORM 0.2.21 through 1.1.0 SQL Injection via SelectQueryBuilder.distinctOn](https://vulners.com/cvelist/CVELIST:CVE-2026-76848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-78244](https://vulners.com/nvd/NVD:CVE-2026-78244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-78245](https://vulners.com/nvd/NVD:CVE-2026-78245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78250 bytebot-ai bytebot Agent Execution Workflow infinite loop](https://vulners.com/cvelist/CVELIST:CVE-2026-78250?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-78323 Jss: jss: jsstrustmanager does not verify nss trust flags on ca certificates](https://vulners.com/cvelist/CVELIST:CVE-2026-78323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-78337](https://vulners.com/nvd/NVD:CVE-2026-78337?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Race Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/C27D1957-AA7E-5943-AB45-B9B764AEC8CA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -128,8 +146,10 @@
   - [MifareClassicTool](https://buaq.net/go-437191.html)
   - [muraena](https://buaq.net/go-437187.html)
   - [plaso](https://buaq.net/go-437183.html)
+  - [Reimplementing MW2(2009) in Rust and Bevy](https://buaq.net/go-437373.html)
   - [ssh-audit](https://buaq.net/go-437194.html)
   - [The True Meaning of Consent in ‘Consent Extractions’](https://buaq.net/go-437291.html)
+  - [ToxicPanda 2.0 can take over your Android phone and banking apps](https://buaq.net/go-437370.html)
   - [TrustworthyRAG](https://buaq.net/go-437299.html)
   - [whad-client](https://buaq.net/go-437190.html)
   - [微软正在为Windows 11开发新的内存管理功能 用户可以手动分配不同任务内存量](https://buaq.net/go-437252.html)
@@ -140,6 +160,9 @@
   - [九成生物医学论文有 AI 辅助写作痕迹](https://www.solidot.org/story?sid=85173)
   - [免费游戏隐藏的高成本](https://www.solidot.org/story?sid=85171)
   - [极端磁场改变光传播方式](https://www.solidot.org/story?sid=85170)
+- 安全客
+  - [众安天下获CCIA “2026网络安全优秀创新成果大赛”人工智能赛道优胜奖](https://www.anquanke.com/post/id/316008)
+  - [科技云报到：WRC 观察 | 竞争走向底层，算力资产决定具身智能“终局”](https://www.anquanke.com/post/id/316006)
 - 爱范儿
   - [100 万像素的摄像头，为什么是苹果 AI 最重要的零件？｜硬哲学](https://www.ifanr.com/1676333?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场](https://www.ifanr.com/1676318?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -150,6 +173,8 @@
   - [折叠 iPhone 细节曝光，苹果想折叠的不只是屏幕](https://www.ifanr.com/1676310?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [英伟达押注 Perplexity，但它真的值 300 亿美金吗？](https://www.ifanr.com/1676435?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊](https://www.qbitai.com/2026/08/478670.html)
+  - [一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一](https://www.qbitai.com/2026/08/478568.html)
   - [阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤](https://www.qbitai.com/2026/08/478473.html)
 - 阿小信的博客
   - [完全不碰电脑的一周：阿小信的自由职业周记（2026W34）](https://blog.axiaoxin.com/post/weekly-2026-w34/)
