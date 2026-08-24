@@ -12,6 +12,7 @@
   - [【💰】即将从 Lv.9 升级到 Lv.10](https://2libra.com/post/forum-function/_njAGqJ)
   - [【💰】好耶！我也可以走个面了！](https://2libra.com/post/forum-function/ADUXwNb)
   - [【💰】有懂二手车的大佬吗，想问个关于查博士检测的问题](https://2libra.com/post/help-requests/Ujl_NXW)
+  - [【💰】求推荐修仙的在线游戏](https://2libra.com/post/recommendations/GOTU0Ss)
   - [【💰】求推荐电影下载网站](https://2libra.com/post/movie-resources/2cMXdnh)
   - [仔细看了下当前的金币体系，通胀还是居高](https://2libra.com/post/forum-function/WseKw-o)
   - [你们那里的桂花飘香了吗？周末我做了月饼~](https://2libra.com/post/festival-things/68rSvwY)
@@ -30,8 +31,11 @@
   - [集思广益](https://2libra.com/post/brainstorming/BimLWbB)
 - CoinTelegraph
   - [Banks, regulators join quantum-resistant crypto transfer pilot](https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ECB defends digital euro privacy as CBDCs face global scrutiny](https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week](https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Germany widens MiCA lead as latest EU register update adds 6 banks](https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Japan’s SBI leads $68M Fasset round at $1B valuation](https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms](https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Term Finance loses estimated $8.5M in vault governance exploit](https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest](https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -58,9 +62,12 @@
   - [What exactly is modified about a modified Bessel function?](https://www.johndcook.com/blog/2026/08/23/modified-bessel-function/)
 - Recent Commits to cve:main
   - [Update Sun Aug 23 17:18:34 UTC 2026](https://github.com/trickest/cve/commit/28c457adbaca6f077741d3eb42ba0a7d0cffa4fe)
+- shkspr.mobi
+  - [Why do audience members choose specific shows at the Edinburgh Fringe?](https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/)
 - simonwillison.net
   - [Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/)
   - [Quoting Drew Breunig](https://simonwillison.net/2026/Aug/23/drew-breunig/)
+  - [Your executable is a SQLite database](https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/)
 - TechCrunch
   - [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)
   - [TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/)
@@ -73,17 +80,31 @@
   - [Cerebras unveils CS-4 with double the performance on the same chip](https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/)
   - [Nvidia in talks to invest in Perplexity at $30 billion-plus valuation](https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/)
 - The Verge
+  - [De-Googled GrapheneOS is coming to Motorola’s foldables next year](https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11)
   - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
 - troyhunt.com
   - [Weekly Update 518: IoT Doorlock Nirvana with UniFi](https://www.troyhunt.com/weekly-update-518/)
 - Vulners.com RSS Feed
+  - [CVE-2025-63080 Authenticated RCE in KAON PG5298](https://vulners.com/cvelist/CVELIST:CVE-2025-63080?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10582](https://vulners.com/nvd/NVD:CVE-2026-10582?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-10618](https://vulners.com/nvd/NVD:CVE-2026-10618?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59295](https://vulners.com/nvd/NVD:CVE-2026-59295?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6017 Missing Authentication for Critical Function in KAON PG5298](https://vulners.com/cvelist/CVELIST:CVE-2026-6017?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-76172](https://vulners.com/nvd/NVD:CVE-2026-76172?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78244](https://vulners.com/nvd/NVD:CVE-2026-78244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78245](https://vulners.com/nvd/NVD:CVE-2026-78245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78323 Jss: jss: jsstrustmanager does not verify nss trust flags on ca certificates](https://vulners.com/cvelist/CVELIST:CVE-2026-78323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78337](https://vulners.com/nvd/NVD:CVE-2026-78337?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Race Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/C27D1957-AA7E-5943-AB45-B9B764AEC8CA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Birdfy Nest Duo Review: My Own Private Nature Documentary](https://www.wired.com/review/birdfy-nest-duo/)
   - [Forget Meta Ray-Bans. These Dorky-Looking Virtual Display Glasses Are Way More Useful](https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/)
   - [NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe](https://www.wired.com/story/nasa-nancy-grace-roman-space-telescope-hidden-facets-of-universe/)
   - [The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame](https://www.wired.com/story/best-multi-use-air-purifiers/)
+  - [The Kindle Accessories I Never Want to Read Without (2026)](https://www.wired.com/story/best-kindle-accessories/)
   - [They Dedicated Their Lives to Teaching. Then the Deepfakes Started](https://www.wired.com/story/teachers-deepfake-ai-students-content/)
 - 不安全
+  - [AcrStealer – Custom Protocol, Credential Theft & Payload Extraction](https://buaq.net/go-437336.html)
   - [BTLE](https://buaq.net/go-437192.html)
   - [ChameleonMini](https://buaq.net/go-437298.html)
   - [Criminal Deception in Silicon Valley](https://buaq.net/go-437332.html)
@@ -92,6 +113,7 @@
   - [ethr](https://buaq.net/go-437195.html)
   - [grapefruit](https://buaq.net/go-437186.html)
   - [hashes](https://buaq.net/go-437185.html)
+  - [Hooking stripped, unexported methods in Android's libaudioflinger (VoIP Capture)](https://buaq.net/go-437335.html)
   - [ipatool](https://buaq.net/go-437188.html)
   - [ipscan](https://buaq.net/go-437193.html)
   - [kubesec](https://buaq.net/go-437196.html)
@@ -129,4 +151,5 @@
   - [Hugging Face考虑出售估值130亿美元](https://blog.upx8.com/Hugging-Face%E8%80%83%E8%99%91%E5%87%BA%E5%94%AE%E4%BC%B0%E5%80%BC130%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [↩️🖼 小米手机日本宣布部分产品价格即将上涨](https://blog.upx8.com/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E9%83%A8%E5%88%86%E4%BA%A7%E5%93%81%E4%BB%B7%E6%A0%BC%E5%8D%B3%E5%B0%86%E4%B8%8A%E6%B6%A8)
   - [新西兰拟立法禁止未满16岁青少年使用社媒](https://blog.upx8.com/%E6%96%B0%E8%A5%BF%E5%85%B0%E6%8B%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E6%9C%AA%E6%BB%A116%E5%B2%81%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BD%BF%E7%94%A8%E7%A4%BE%E5%AA%92)
+  - [消息称追觅裁撤全部手机业务及相关员工](https://blog.upx8.com/%E6%B6%88%E6%81%AF%E7%A7%B0%E8%BF%BD%E8%A7%85%E8%A3%81%E6%92%A4%E5%85%A8%E9%83%A8%E6%89%8B%E6%9C%BA%E4%B8%9A%E5%8A%A1%E5%8F%8A%E7%9B%B8%E5%85%B3%E5%91%98%E5%B7%A5)
   - [阿里巴巴肝癌AI模型可识别1厘米微小肿瘤](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%82%9D%E7%99%8CAI%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%AF%86%E5%88%AB1%E5%8E%98%E7%B1%B3%E5%BE%AE%E5%B0%8F%E8%82%BF%E7%98%A4)
