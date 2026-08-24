@@ -5,12 +5,15 @@
   - [眼睁睁看着喜欢的社区慢慢变味是什么感受](https://2libra.com/post/social-observation/55wcAo7)
 - CoinTelegraph
   - [Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M](https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets](https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase tokenized stocks go live on Base with Chainlink price feeds](https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase-affiliated advocacy group endorses candidates for US midterms](https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gemini plans to distribute crypto prediction markets through Apex brokerages](https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%](https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [BitCam: The 1-Bit Camera App Turns 2.0](https://bitcam-app.com/)
+- darkreading
+  - [Exploited Zimbra Flaw Highlights Shrinking Window to Patch](https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch)
 - Hacker News Frontpage
   - [A Claude Code skill that recovers export-blocked Kindle highlights](https://github.com/l3a0/claude-plugins)
   - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
@@ -18,6 +21,8 @@
   - [Operationalize CTEM with NodeZero®](https://horizon3.ai/downloads/factsheets/operationalize-ctem-with-nodezero/)
 - infosecurity-magazine.com
   - [New Guidance Helps Businesses Verify Quantum-Safe Hardware Claims](https://www.infosecurity-magazine.com/news/guidance-verify-quantum-safe/)
+- pluralistic.net
+  - [Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)](https://pluralistic.net/2026/08/24/elbows-really-up/)
 - Taxodium
   - [香港雞公嶺](https://taxodium.ink/hong-kong-kai-kung-leng.html)
 - TechCrunch
@@ -26,6 +31,7 @@
   - [Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/)
   - [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)
   - [Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/)
+  - [Trump bought SpaceX shares two weeks after blockbuster IPO](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/)
   - [Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/)
 - The Block
   - [Crypto exchange volumes double in five days as market activity rebounds](https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641)
@@ -38,7 +44,18 @@
   - [The cat-and-mouse game over 3D-printed guns has begun](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul)
   - [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement)
 - Vulners.com RSS Feed
+  - [CVE-2022-30983](https://vulners.com/nvd/NVD:CVE-2022-30983?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13213 Bluetooth HAS: NULL-pointer dereference DoS when a bonded peer reconnects before bt_has_register](https://vulners.com/cvelist/CVELIST:CVE-2026-13213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16781](https://vulners.com/nvd/NVD:CVE-2026-16781?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16782](https://vulners.com/nvd/NVD:CVE-2026-16782?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16783](https://vulners.com/nvd/NVD:CVE-2026-16783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19568](https://vulners.com/nvd/NVD:CVE-2026-19568?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5006](https://vulners.com/nvd/NVD:CVE-2026-5006?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52490](https://vulners.com/nvd/NVD:CVE-2026-52490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52492](https://vulners.com/nvd/NVD:CVE-2026-52492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55468](https://vulners.com/nvd/NVD:CVE-2026-55468?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56135](https://vulners.com/nvd/NVD:CVE-2026-56135?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56136](https://vulners.com/nvd/NVD:CVE-2026-56136?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71511 Dolibarr < 24.0.0 Members REST API Sensitive Data Exposure via Member Endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-71511?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71904 DrayTek VigorAP Multiple Models OS Command Injection via tr069TestInform](https://vulners.com/cvelist/CVELIST:CVE-2026-71904?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71905 DrayTek VigorAP Multiple Models OS Command Injection via ExportSettings](https://vulners.com/cvelist/CVELIST:CVE-2026-71905?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -80,7 +97,16 @@
   - [CVE-2026-71941 DrayTek VigorSwitch Multiple Models Buffer Overflow via diag_logmail](https://vulners.com/cvelist/CVELIST:CVE-2026-71941?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71942 DrayTek VigorSwitch Multiple Models Buffer Overflow via mail_mailalert](https://vulners.com/cvelist/CVELIST:CVE-2026-71942?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71943 DrayTek VigorSwitch Multiple Models OS Command Injection via setDevNet](https://vulners.com/cvelist/CVELIST:CVE-2026-71943?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7455](https://vulners.com/nvd/NVD:CVE-2026-7455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75464](https://vulners.com/nvd/NVD:CVE-2026-75464?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75542](https://vulners.com/nvd/NVD:CVE-2026-75542?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75554](https://vulners.com/nvd/NVD:CVE-2026-75554?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77384 libp2p: Circuit relay v2 server reservation refresh leaks abort listeners and allows remote resource exhaustion](https://vulners.com/cvelist/CVELIST:CVE-2026-77384?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77567](https://vulners.com/nvd/NVD:CVE-2026-77567?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77634](https://vulners.com/nvd/NVD:CVE-2026-77634?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77635](https://vulners.com/nvd/NVD:CVE-2026-77635?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Bitdefender VPN Review: Fast and Affordable Privacy](https://www.wired.com/review/bitdefender-vpn/)
   - [Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It](https://www.wired.com/story/sous-vide-salmonella-eggs/)
   - [My Daily Driver Gaming Headset Is Super Cheap Right Now](https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/)
   - [The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe](https://www.wired.com/story/food-safety-gear-salmonella/)
