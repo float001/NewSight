@@ -3,6 +3,8 @@
 - 2Libra
   - [免费终究难以长久，本站已开启订阅制，注册用户突破 10000 人！](https://2libra.com/post/promotion/6zfGhGK)
   - [大家好 看见最近的论坛爆火我想说两句](https://2libra.com/post/promotion/g0nrqvf)
+- CoinTelegraph
+  - [We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest](https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Cooper Sharp Proves That American Cheese Can Be Great Cheese](https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/)
 - Der Flounder
@@ -11,6 +13,8 @@
   - [Update: base64dump.py Version 0.0.31](https://blog.didierstevens.com/2026/08/23/update-base64dump-py-version-0-0-31/)
 - downtowndougbrown.com
   - [Fixing an eMachines EL1200 BIOS bug with Claude](https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/)
+- Emergent Minds | paddo.dev
+  - [The Voice Drifts Back: AI Slop, Concise Mode, and Simplified Technical English](https://paddo.dev/blog/the-voice-drifts-back/)
 - johndcook.com
   - [What exactly is modified about a modified Bessel function?](https://www.johndcook.com/blog/2026/08/23/modified-bessel-function/)
 - Recent Commits to cve:main
@@ -27,3 +31,5 @@
   - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [Hugging Face考虑出售估值130亿美元](https://blog.upx8.com/Hugging-Face%E8%80%83%E8%99%91%E5%87%BA%E5%94%AE%E4%BC%B0%E5%80%BC130%E4%BA%BF%E7%BE%8E%E5%85%83)
