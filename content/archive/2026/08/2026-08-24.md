@@ -3,6 +3,8 @@
 - 2Libra
   - [免费终究难以长久，本站已开启订阅制，注册用户突破 10000 人！](https://2libra.com/post/promotion/6zfGhGK)
   - [大家好 看见最近的论坛爆火我想说两句](https://2libra.com/post/promotion/g0nrqvf)
+  - [用 AI 做东西一发不可收拾了，数学概念关系图谱](https://2libra.com/post/personal-works/IZpX7Mi)
+  - [社区缺少注销账号机制](https://2libra.com/post/forum-function/PBzEoW7)
 - CoinTelegraph
   - [We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest](https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -29,6 +31,21 @@
   - [Who’s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
 - The Verge
   - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
+- 不安全
+  - [BTLE](https://buaq.net/go-437192.html)
+  - [embark](https://buaq.net/go-437189.html)
+  - [ethr](https://buaq.net/go-437195.html)
+  - [grapefruit](https://buaq.net/go-437186.html)
+  - [hashes](https://buaq.net/go-437185.html)
+  - [ipatool](https://buaq.net/go-437188.html)
+  - [ipscan](https://buaq.net/go-437193.html)
+  - [kubesec](https://buaq.net/go-437196.html)
+  - [libfsntfs](https://buaq.net/go-437184.html)
+  - [MifareClassicTool](https://buaq.net/go-437191.html)
+  - [muraena](https://buaq.net/go-437187.html)
+  - [plaso](https://buaq.net/go-437183.html)
+  - [ssh-audit](https://buaq.net/go-437194.html)
+  - [whad-client](https://buaq.net/go-437190.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
