@@ -1,8 +1,14 @@
 # 今日安全资讯（2026-08-24）
 
 - 2Libra
+  - [【求助】为什么看不到消息内容了](https://2libra.com/post/community/t2-TWYt)
+  - [【💰】有懂二手车的大佬吗，想问个关于查博士检测的问题](https://2libra.com/post/help-requests/Ujl_NXW)
+  - [仔细看了下当前的金币体系，通胀还是居高](https://2libra.com/post/forum-function/WseKw-o)
+  - [你们那里的桂花飘香了吗？周末我做了月饼~](https://2libra.com/post/festival-things/68rSvwY)
   - [免费终究难以长久，本站已开启订阅制，注册用户突破 10000 人！](https://2libra.com/post/promotion/6zfGhGK)
   - [大家好 看见最近的论坛爆火我想说两句](https://2libra.com/post/promotion/g0nrqvf)
+  - [我很好奇现在论坛里的年龄层次](https://2libra.com/post/midlife-support-club/kSxqvIM)
+  - [挤地铁小游戏](https://2libra.com/post/game-share/dIazWeW)
   - [用 AI 做东西一发不可收拾了，数学概念关系图谱](https://2libra.com/post/personal-works/IZpX7Mi)
   - [社区缺少注销账号机制](https://2libra.com/post/forum-function/PBzEoW7)
 - CoinTelegraph
@@ -46,6 +52,7 @@
   - [plaso](https://buaq.net/go-437183.html)
   - [ssh-audit](https://buaq.net/go-437194.html)
   - [whad-client](https://buaq.net/go-437190.html)
+  - [索尼向PS玩家发邮件强调 玩家购买的数字游戏仅为授权许可 而不是卖给玩家的](https://buaq.net/go-437200.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
