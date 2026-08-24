@@ -14,6 +14,7 @@
   - [【💰】有懂二手车的大佬吗，想问个关于查博士检测的问题](https://2libra.com/post/help-requests/Ujl_NXW)
   - [【💰】求推荐修仙的在线游戏](https://2libra.com/post/recommendations/GOTU0Ss)
   - [【💰】求推荐电影下载网站](https://2libra.com/post/movie-resources/2cMXdnh)
+  - [【💰】请教各位大佬正价 GPT 相关问题](https://2libra.com/post/ai-tools/mvmyMh7)
   - [仔细看了下当前的金币体系，通胀还是居高](https://2libra.com/post/forum-function/WseKw-o)
   - [你们那里的桂花飘香了吗？周末我做了月饼~](https://2libra.com/post/festival-things/68rSvwY)
   - [免费终究难以长久，本站已开启订阅制，注册用户突破 10000 人！](https://2libra.com/post/promotion/6zfGhGK)
@@ -29,6 +30,10 @@
   - [社区升级的升级 快来瞧瞧](https://2libra.com/post/promotion/vyfizht)
   - [社区缺少注销账号机制](https://2libra.com/post/forum-function/PBzEoW7)
   - [集思广益](https://2libra.com/post/brainstorming/BimLWbB)
+- 404 Media
+  - [How a Network of Volunteers Is Liberating Critical Court Records for Everyone](https://www.404media.co/how-a-network-of-volunteers-is-liberating-critical-court-records-for-everyone/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#728712: Konami's Metal Gear Online 3 contains a heap-based buffer overflow](https://kb.cert.org/vuls/id/728712)
 - CoinTelegraph
   - [Banks, regulators join quantum-resistant crypto transfer pilot](https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K](https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -45,6 +50,8 @@
   - [Term Finance loses estimated $8.5M in vault governance exploit](https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Cooper Sharp Proves That American Cheese Can Be Great Cheese](https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/)
+- darkreading
+  - [ToxicPanda Banking Trojan Matures into Enterprise Threat](https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat)
 - defend.network
   - [Microsoft patches 398 flaws; Zimbra exploitation deadline looms; Android cars compromised](https://defend.network/briefings/microsoft-patch-tuesday-zimbra-exploitation-android-veh-2026-08-24.html)
 - Der Flounder
@@ -64,10 +71,16 @@
   - [Lakera’s Break The Agent Challenge— Solace AI Write-up](https://infosecwriteups.com/lakeras-break-the-agent-challenge-solace-ai-write-up-5f99a48c6c69?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [Doubloon Dredger Abuses Notion to Harvest Authentication Tokens](https://www.infosecurity-magazine.com/news/doubloon-dredger-notion/)
+  - [Fake Codex Download Uses Google Sites to Deliver macOS Malware](https://www.infosecurity-magazine.com/news/fake-codex-download-google-sites/)
 - johndcook.com
+  - [The von Mises-Fisher distribution](https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/)
+  - [Three-term recurrences](https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/)
   - [What exactly is modified about a modified Bessel function?](https://www.johndcook.com/blog/2026/08/23/modified-bessel-function/)
 - MIT Technology Review
+  - [How to encourage smarter AI use in the classroom](https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/)
   - [The Download: kids outlearning AI, and space travel agents](https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/)
+- OpenZeppelin Blog
+  - [The Compliance Layer Is the Product: How Onchain Compliance Actually Works, Chain by Chain](https://www.openzeppelin.com/news/the-compliance-layer-is-the-product)
 - Pen Test Partners
   - [One SSID To Rule Them All](https://www.pentestpartners.com/security-blog/one-ssid-to-rule-them-all/)
 - Recent Commits to cve:main
@@ -79,8 +92,10 @@
   - [Quoting Drew Breunig](https://simonwillison.net/2026/Aug/23/drew-breunig/)
   - [Your executable is a SQLite database](https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/)
 - TechCrunch
+  - [Brake problems in GM EVs draw greater federal scrutiny](https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/)
   - [Hugging Face reportedly in talks to be acquired for $13B](https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/)
   - [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)
+  - [OpenAI is building AI agents for everything. Will everyone use them?](https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/)
   - [TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/)
   - [Uber faces fine of nearly $1B over automated driver suspensions](https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/)
   - [US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards](https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/)
@@ -93,10 +108,12 @@
   - [AI chatbots regularly link pregnant users to anti-abortion websites without disclosure](https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/)
   - [Cerebras unveils CS-4 with double the performance on the same chip](https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/)
   - [Nvidia in talks to invest in Perplexity at $30 billion-plus valuation](https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/)
+  - [Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project](https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project/)
   - [Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic](https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/)
 - The Verge
   - [De-Googled GrapheneOS is coming to Motorola’s foldables next year](https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11)
   - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
+  - [Raspberry Pi shares its official tutorial for making a cyberdeck](https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases)
 - troyhunt.com
   - [Weekly Update 518: IoT Doorlock Nirvana with UniFi](https://www.troyhunt.com/weekly-update-518/)
 - Vulners.com RSS Feed
@@ -161,6 +178,7 @@
   - [免费游戏隐藏的高成本](https://www.solidot.org/story?sid=85171)
   - [极端磁场改变光传播方式](https://www.solidot.org/story?sid=85170)
 - 安全客
+  - [2.45亿次下载的Rust crate被投毒：编译时恶意代码自动执行，朝鲜黑客又出手了](https://www.anquanke.com/post/id/316013)
   - [众安天下获CCIA “2026网络安全优秀创新成果大赛”人工智能赛道优胜奖](https://www.anquanke.com/post/id/316008)
   - [科技云报到：WRC 观察 | 竞争走向底层，算力资产决定具身智能“终局”](https://www.anquanke.com/post/id/316006)
 - 爱范儿
@@ -185,3 +203,4 @@
   - [新西兰拟立法禁止未满16岁青少年使用社媒](https://blog.upx8.com/%E6%96%B0%E8%A5%BF%E5%85%B0%E6%8B%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E6%9C%AA%E6%BB%A116%E5%B2%81%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BD%BF%E7%94%A8%E7%A4%BE%E5%AA%92)
   - [消息称追觅裁撤全部手机业务及相关员工](https://blog.upx8.com/%E6%B6%88%E6%81%AF%E7%A7%B0%E8%BF%BD%E8%A7%85%E8%A3%81%E6%92%A4%E5%85%A8%E9%83%A8%E6%89%8B%E6%9C%BA%E4%B8%9A%E5%8A%A1%E5%8F%8A%E7%9B%B8%E5%85%B3%E5%91%98%E5%B7%A5)
   - [阿里巴巴肝癌AI模型可识别1厘米微小肿瘤](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%82%9D%E7%99%8CAI%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%AF%86%E5%88%AB1%E5%8E%98%E7%B1%B3%E5%BE%AE%E5%B0%8F%E8%82%BF%E7%98%A4)
+  - [阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E8%A7%86%E9%A2%91%E5%A4%A7%E6%A8%A1%E5%9E%8BWan3-0%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF-%E8%A1%8C%E4%B8%9A%E8%AF%84%E4%BB%B7-%E7%A8%B3%E5%AE%9A-%E7%9C%9F%E5%AE%9E-%E6%9C%89%E8%B4%A8%E6%84%9F)
