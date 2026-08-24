@@ -37,6 +37,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Japan’s SBI leads $68M Fasset round at $1B valuation](https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms](https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strategy pauses BTC buys, launches $1.6B cash pool after $2B raise](https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Term Finance loses estimated $8.5M in vault governance exploit](https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest](https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -58,8 +59,12 @@
 - InfoSec Write-ups - Medium
   - [I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover](https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss----7b722bfd1b8d---4)
   - [Lakera’s Break The Agent Challenge— Solace AI Write-up](https://infosecwriteups.com/lakeras-break-the-agent-challenge-solace-ai-write-up-5f99a48c6c69?source=rss----7b722bfd1b8d---4)
+- infosecurity-magazine.com
+  - [Doubloon Dredger Abuses Notion to Harvest Authentication Tokens](https://www.infosecurity-magazine.com/news/doubloon-dredger-notion/)
 - johndcook.com
   - [What exactly is modified about a modified Bessel function?](https://www.johndcook.com/blog/2026/08/23/modified-bessel-function/)
+- MIT Technology Review
+  - [The Download: kids outlearning AI, and space travel agents](https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/)
 - Recent Commits to cve:main
   - [Update Sun Aug 23 17:18:34 UTC 2026](https://github.com/trickest/cve/commit/28c457adbaca6f077741d3eb42ba0a7d0cffa4fe)
 - shkspr.mobi
@@ -75,10 +80,12 @@
   - [Who’s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
 - The Block
   - [Bernstein says Circle’s growth cycle can continue without the Clarity Act, sees 59% upside](https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573)
+  - [Strategy sells $2 billion in MSTR shares, makes no bitcoin purchases, establishes $1.6 billion ‘USD Cash’ pool](https://www.theblock.co/news/business/2026-08-24-strategy-mstr-strc-bitcoin-usd-reserve-412570)
 - The Decoder
   - [AI chatbots regularly link pregnant users to anti-abortion websites without disclosure](https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/)
   - [Cerebras unveils CS-4 with double the performance on the same chip](https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/)
   - [Nvidia in talks to invest in Perplexity at $30 billion-plus valuation](https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/)
+  - [Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic](https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/)
 - The Verge
   - [De-Googled GrapheneOS is coming to Motorola’s foldables next year](https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11)
   - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
