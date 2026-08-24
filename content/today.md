@@ -1,11 +1,13 @@
 # 今日安全资讯（2026-08-25）
 
 - 2Libra
+  - [Openai 成功打击中转站 MVP 结算画面](https://2libra.com/post/ai-gateway/G0m6-uO)
   - [眼睁睁看着喜欢的社区慢慢变味是什么感受](https://2libra.com/post/social-observation/55wcAo7)
 - CoinTelegraph
   - [Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M](https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase tokenized stocks go live on Base with Chainlink price feeds](https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase-affiliated advocacy group endorses candidates for US midterms](https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Gemini plans to distribute crypto prediction markets through Apex brokerages](https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%](https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [BitCam: The 1-Bit Camera App Turns 2.0](https://bitcam-app.com/)
@@ -23,6 +25,8 @@
   - [Amazon hikes hardware prices by 60 percent, blaming memory shortage](https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/)
   - [Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/)
   - [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)
+  - [Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/)
+  - [Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/)
 - The Block
   - [Crypto exchange volumes double in five days as market activity rebounds](https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641)
   - [Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts](https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601)
@@ -77,6 +81,8 @@
   - [CVE-2026-71942 DrayTek VigorSwitch Multiple Models Buffer Overflow via mail_mailalert](https://vulners.com/cvelist/CVELIST:CVE-2026-71942?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71943 DrayTek VigorSwitch Multiple Models OS Command Injection via setDevNet](https://vulners.com/cvelist/CVELIST:CVE-2026-71943?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It](https://www.wired.com/story/sous-vide-salmonella-eggs/)
   - [My Daily Driver Gaming Headset Is Super Cheap Right Now](https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/)
+  - [The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe](https://www.wired.com/story/food-safety-gear-salmonella/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
