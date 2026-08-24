@@ -3,6 +3,7 @@
 - 2Libra
   - [ai 分享会求助](https://2libra.com/post/ai-tools/SlZ203w)
   - [Codex 1000 credits 的邀请名额，有需要的留邮箱](https://2libra.com/post/promotion/21hrfZJ)
+  - [V 站真会玩](https://2libra.com/post/hotspot-tracking/u1qPpY4)
   - [《zed 快速使用指南》](https://2libra.com/post/usage-tips/90gQzjv)
   - [【律师函警告】 走个面！](https://2libra.com/post/forum-function/Zeal4cd)
   - [【投票】看到有个帖子说论坛里的年龄层次，再来个年龄分类的投票看下年龄分层](https://2libra.com/post/social-observation/MFAocca)
@@ -34,6 +35,8 @@
   - [Term Finance loses estimated $8.5M in vault governance exploit](https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Cooper Sharp Proves That American Cheese Can Be Great Cheese](https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/)
+- defend.network
+  - [Microsoft patches 398 flaws; Zimbra exploitation deadline looms; Android cars compromised](https://defend.network/briefings/microsoft-patch-tuesday-zimbra-exploitation-android-veh-2026-08-24.html)
 - Der Flounder
   - [Using the Jamf Pro API to retrieve Recovery Lock passwords](https://derflounder.wordpress.com/2026/08/23/using-the-jamf-pro-api-to-retrieve-recovery-lock-passwords/)
 - Didier Stevens
@@ -78,10 +81,12 @@
   - [plaso](https://buaq.net/go-437183.html)
   - [ssh-audit](https://buaq.net/go-437194.html)
   - [whad-client](https://buaq.net/go-437190.html)
+  - [微软正在为Windows 11开发新的内存管理功能 用户可以手动分配不同任务内存量](https://buaq.net/go-437252.html)
   - [索尼向PS玩家发邮件强调 玩家购买的数字游戏仅为授权许可 而不是卖给玩家的](https://buaq.net/go-437200.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [免费游戏隐藏的高成本](https://www.solidot.org/story?sid=85171)
   - [极端磁场改变光传播方式](https://www.solidot.org/story?sid=85170)
 - 爱范儿
   - [100 万像素的摄像头，为什么是苹果 AI 最重要的零件？｜硬哲学](https://www.ifanr.com/1676333?utm_source=rss&utm_medium=rss&utm_campaign=)
