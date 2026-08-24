@@ -86,6 +86,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [九成生物医学论文有 AI 辅助写作痕迹](https://www.solidot.org/story?sid=85173)
   - [免费游戏隐藏的高成本](https://www.solidot.org/story?sid=85171)
   - [极端磁场改变光传播方式](https://www.solidot.org/story?sid=85170)
 - 爱范儿
