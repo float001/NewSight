@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-08-24）
 
 - 2Libra
+  - [ai 分享会求助](https://2libra.com/post/ai-tools/SlZ203w)
   - [Codex 1000 credits 的邀请名额，有需要的留邮箱](https://2libra.com/post/promotion/21hrfZJ)
   - [《zed 快速使用指南》](https://2libra.com/post/usage-tips/90gQzjv)
   - [【律师函警告】 走个面！](https://2libra.com/post/forum-function/Zeal4cd)
@@ -9,6 +10,7 @@
   - [【💰】即将从 Lv.9 升级到 Lv.10](https://2libra.com/post/forum-function/_njAGqJ)
   - [【💰】好耶！我也可以走个面了！](https://2libra.com/post/forum-function/ADUXwNb)
   - [【💰】有懂二手车的大佬吗，想问个关于查博士检测的问题](https://2libra.com/post/help-requests/Ujl_NXW)
+  - [【💰】求推荐电影下载网站](https://2libra.com/post/movie-resources/2cMXdnh)
   - [仔细看了下当前的金币体系，通胀还是居高](https://2libra.com/post/forum-function/WseKw-o)
   - [你们那里的桂花飘香了吗？周末我做了月饼~](https://2libra.com/post/festival-things/68rSvwY)
   - [免费终究难以长久，本站已开启订阅制，注册用户突破 10000 人！](https://2libra.com/post/promotion/6zfGhGK)
@@ -21,7 +23,11 @@
   - [用 AI 做东西一发不可收拾了，数学概念关系图谱](https://2libra.com/post/personal-works/IZpX7Mi)
   - [社区升级的升级 快来瞧瞧](https://2libra.com/post/promotion/vyfizht)
   - [社区缺少注销账号机制](https://2libra.com/post/forum-function/PBzEoW7)
+  - [集思广益](https://2libra.com/post/brainstorming/BimLWbB)
 - CoinTelegraph
+  - [Banks, regulators join quantum-resistant crypto transfer pilot](https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms](https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Term Finance loses estimated $8.5M in vault governance exploit](https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest](https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -36,6 +42,9 @@
   - [Fixing an eMachines EL1200 BIOS bug with Claude](https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/)
 - Emergent Minds | paddo.dev
   - [The Voice Drifts Back: AI Slop, Concise Mode, and Simplified Technical English](https://paddo.dev/blog/the-voice-drifts-back/)
+- InfoSec Write-ups - Medium
+  - [I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover](https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss----7b722bfd1b8d---4)
+  - [Lakera’s Break The Agent Challenge— Solace AI Write-up](https://infosecwriteups.com/lakeras-break-the-agent-challenge-solace-ai-write-up-5f99a48c6c69?source=rss----7b722bfd1b8d---4)
 - johndcook.com
   - [What exactly is modified about a modified Bessel function?](https://www.johndcook.com/blog/2026/08/23/modified-bessel-function/)
 - Recent Commits to cve:main
@@ -52,6 +61,8 @@
   - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
 - troyhunt.com
   - [Weekly Update 518: IoT Doorlock Nirvana with UniFi](https://www.troyhunt.com/weekly-update-518/)
+- Vulners.com RSS Feed
+  - [Exploit for Race Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/C27D1957-AA7E-5943-AB45-B9B764AEC8CA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [BTLE](https://buaq.net/go-437192.html)
   - [embark](https://buaq.net/go-437189.html)
@@ -70,13 +81,19 @@
   - [索尼向PS玩家发邮件强调 玩家购买的数字游戏仅为授权许可 而不是卖给玩家的](https://buaq.net/go-437200.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [极端磁场改变光传播方式](https://www.solidot.org/story?sid=85170)
 - 爱范儿
   - [100 万像素的摄像头，为什么是苹果 AI 最重要的零件？｜硬哲学](https://www.ifanr.com/1676333?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场](https://www.ifanr.com/1676318?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [AI 开发者每天都要刷的网站，准备 130 亿美金卖了](https://www.ifanr.com/1676393?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [巴掌大的墨水屏，为什么是现在最火的 AI 终端｜AI 器物志](https://www.ifanr.com/1675741?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [折叠 iPhone 最全爆料汇总：用过的都说好，但有两个大缺点](https://www.ifanr.com/1676426?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 阿小信的博客
+  - [完全不碰电脑的一周：阿小信的自由职业周记（2026W34）](https://blog.axiaoxin.com/post/weekly-2026-w34/)
 - 黑海洋
   - [Anthropic顶尖AI模型在企业市场遇冷](https://blog.upx8.com/Anthropic%E9%A1%B6%E5%B0%96AI%E6%A8%A1%E5%9E%8B%E5%9C%A8%E4%BC%81%E4%B8%9A%E5%B8%82%E5%9C%BA%E9%81%87%E5%86%B7)
   - [Hugging Face考虑出售估值130亿美元](https://blog.upx8.com/Hugging-Face%E8%80%83%E8%99%91%E5%87%BA%E5%94%AE%E4%BC%B0%E5%80%BC130%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [↩️🖼 小米手机日本宣布部分产品价格即将上涨](https://blog.upx8.com/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E9%83%A8%E5%88%86%E4%BA%A7%E5%93%81%E4%BB%B7%E6%A0%BC%E5%8D%B3%E5%B0%86%E4%B8%8A%E6%B6%A8)
   - [新西兰拟立法禁止未满16岁青少年使用社媒](https://blog.upx8.com/%E6%96%B0%E8%A5%BF%E5%85%B0%E6%8B%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E6%9C%AA%E6%BB%A116%E5%B2%81%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BD%BF%E7%94%A8%E7%A4%BE%E5%AA%92)
+  - [阿里巴巴肝癌AI模型可识别1厘米微小肿瘤](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%82%9D%E7%99%8CAI%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%AF%86%E5%88%AB1%E5%8E%98%E7%B1%B3%E5%BE%AE%E5%B0%8F%E8%82%BF%E7%98%A4)
