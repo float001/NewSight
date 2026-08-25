@@ -5,6 +5,8 @@
   - [chatgpt 的 plus 要恢复 5 小时限额了。](https://2libra.com/post/ai-updates/0-0Du8z)
   - [Openai 成功打击中转站 MVP 结算画面](https://2libra.com/post/ai-gateway/G0m6-uO)
   - [OpenCode Go 首充优惠没了? 可以用 Command Code 平替 OpenCode （DeepSeek V4 Flash）](https://2libra.com/post/ai-programming/zkW3dPn)
+  - [【兑换码】🔥 周二福利！ Proxy001 送 4 个住宅 IP CDK | 1 亿 + 真实 IP 覆盖 230 国 99.8% 连通率](https://2libra.com/post/promotion/3qEZrHC)
+  - [【投票】好奇 2 站的男女占比如何？](https://2libra.com/post/social-observation/NJVo_Va)
   - [【车找人】GPT 20x 0.2 倍率 账号透明车｜状态、账单，全程自己可查 自己充值 自己看消耗](https://2libra.com/post/promotion/TEWjmeT)
   - [【💰】今天头像透明的挺多啊](https://2libra.com/post/forum-function/snzzWWO)
   - [【💰】好像我是站内第一个获得此徽章的幸运狗?](https://2libra.com/post/forum-function/F8GgTGV)
@@ -35,6 +37,7 @@
   - [Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved](https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gemini plans to distribute crypto prediction markets through Apex brokerages](https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Standard Chartered becomes first bank distributor of HKD stablecoin](https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%](https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US targets Iran’s crypto sector, cites over $100M in oil-linked payments](https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -62,10 +65,13 @@
   - [Foot Guns for Sale](https://idiallo.com/blog/foot-gun-for-sale)
 - infosecurity-magazine.com
   - [New Guidance Helps Businesses Verify Quantum-Safe Hardware Claims](https://www.infosecurity-magazine.com/news/guidance-verify-quantum-safe/)
+  - [ReliaQuest Rejects Compromise Claims After ShinyHunters Incident](https://www.infosecurity-magazine.com/news/reliaquest-not-compromised-by/)
+  - [US Sanctions Mabna Institute Hackers for Iranian Cyber-Attacks](https://www.infosecurity-magazine.com/news/us-sanctions-mabna-institute/)
 - johndcook.com
   - [Numerical (in)stability of recurrece relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/)
 - Kali Linux Tutorials
   - [git cherry-pick Command: Apply Commits from Another Branch](https://kalilinuxtutorials.com/git-cherry-pick/)
+  - [git fetch vs git pull: How They Work and When to Use Each](https://kalilinuxtutorials.com/git-fetch-vs-git-pull/)
 - pluralistic.net
   - [Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)](https://pluralistic.net/2026/08/24/elbows-really-up/)
 - Sploitus.com Exploits RSS Feed
@@ -96,6 +102,7 @@
 - The Verge
   - [Android is getting its own weird dots to cure car sickness](https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure)
   - [Lenovo confirms Legion Go issues after gamers report bricked devices](https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked)
+  - [OpenAI subpoenaed by Alabama AG over Hugging Face hack](https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack)
   - [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa)
   - [The cat-and-mouse game over 3D-printed guns has begun](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul)
   - [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement)
@@ -169,9 +176,12 @@
   - [UBUNTU-CVE-2026-75803](https://vulners.com/osv/OSV:UBUNTU-CVE-2026-75803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Bitdefender VPN Review: Fast and Affordable Privacy](https://www.wired.com/review/bitdefender-vpn/)
+  - [Border Wall Construction Threatens 6,000 Years of History on Private Lands](https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/)
   - [Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It](https://www.wired.com/story/sous-vide-salmonella-eggs/)
+  - [It Should Be Harder to Apply for a Job. No, Really](https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/)
   - [My Daily Driver Gaming Headset Is Super Cheap Right Now](https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/)
   - [Omega Just Released a Mini Moonwatch](https://www.wired.com/story/omega-just-released-a-mini-moonwatch/)
+  - [Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out](https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/)
   - [The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe](https://www.wired.com/story/food-safety-gear-salmonella/)
 - 不安全
   - [CISA 紧急命令修复正在被积极利用的 Zimbra 漏洞](https://buaq.net/go-437532.html)
@@ -192,6 +202,7 @@
 - 量子位 QbitAI
   - [ResNet作者任少卿机器人创业！公司注册就独角兽了](https://www.qbitai.com/2026/08/478675.html)
   - [VC开始靠AI预测未来了](https://www.qbitai.com/2026/08/478774.html)
+  - [从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划](https://www.qbitai.com/2026/08/479314.html)
   - [具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜](https://www.qbitai.com/2026/08/478791.html)
   - [半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司](https://www.qbitai.com/2026/08/479132.html)
   - [王虹合作者获奖！科学探索奖2026年度获奖名单公布](https://www.qbitai.com/2026/08/478912.html)
@@ -200,6 +211,7 @@
   - [Anthropic表示澳大利亚在Claude编程使用方面正在落后](https://blog.upx8.com/Anthropic%E8%A1%A8%E7%A4%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%9C%A8Claude%E7%BC%96%E7%A8%8B%E4%BD%BF%E7%94%A8%E6%96%B9%E9%9D%A2%E6%AD%A3%E5%9C%A8%E8%90%BD%E5%90%8E)
   - [Netflix正考虑向其他流媒体开放其应用](https://blog.upx8.com/Netflix%E6%AD%A3%E8%80%83%E8%99%91%E5%90%91%E5%85%B6%E4%BB%96%E6%B5%81%E5%AA%92%E4%BD%93%E5%BC%80%E6%94%BE%E5%85%B6%E5%BA%94%E7%94%A8)
   - [OpenAI 重新限制 ChatGPT Plus 用户 5 小时 Codex 和 Work 用量](https://blog.upx8.com/OpenAI-%E9%87%8D%E6%96%B0%E9%99%90%E5%88%B6-ChatGPT-Plus-%E7%94%A8%E6%88%B7-5-%E5%B0%8F%E6%97%B6-Codex-%E5%92%8C-Work-%E7%94%A8%E9%87%8F)
+  - [安卓系统正在推出新功能来缓解晕车症状](https://blog.upx8.com/%E5%AE%89%E5%8D%93%E7%B3%BB%E7%BB%9F%E6%AD%A3%E5%9C%A8%E6%8E%A8%E5%87%BA%E6%96%B0%E5%8A%9F%E8%83%BD%E6%9D%A5%E7%BC%93%E8%A7%A3%E6%99%95%E8%BD%A6%E7%97%87%E7%8A%B6)
   - [微软支付积分让你推荐朋友使用Edge浏览器](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%94%AF%E4%BB%98%E7%A7%AF%E5%88%86%E8%AE%A9%E4%BD%A0%E6%8E%A8%E8%8D%90%E6%9C%8B%E5%8F%8B%E4%BD%BF%E7%94%A8Edge%E6%B5%8F%E8%A7%88%E5%99%A8)
   - [特朗普在今年六月购买了SpaceX的股票](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%BB%8A%E5%B9%B4%E5%85%AD%E6%9C%88%E8%B4%AD%E4%B9%B0%E4%BA%86SpaceX%E7%9A%84%E8%82%A1%E7%A5%A8)
   - [苹果筹备推出时隔两年的全新Mac mini‌](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E7%AD%B9%E5%A4%87%E6%8E%A8%E5%87%BA%E6%97%B6%E9%9A%94%E4%B8%A4%E5%B9%B4%E7%9A%84%E5%85%A8%E6%96%B0Mac-mini)
