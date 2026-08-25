@@ -3,7 +3,10 @@
 - 2Libra
   - [8 月 24 日微语报，星期一，农历七月十二，工作愉快，生活喜乐！](https://2libra.com/post/tech-news/LRmOtRC)
   - [Openai 成功打击中转站 MVP 结算画面](https://2libra.com/post/ai-gateway/G0m6-uO)
+  - [OpenCode Go 首充优惠没了? 可以用 Command Code 平替 OpenCode （DeepSeek V4 Flash）](https://2libra.com/post/ai-programming/zkW3dPn)
+  - [【车找人】GPT 20x 0.2 倍率 账号透明车｜状态、账单，全程自己可查 自己充值 自己看消耗](https://2libra.com/post/promotion/TEWjmeT)
   - [【💰】今天头像透明的挺多啊](https://2libra.com/post/forum-function/snzzWWO)
+  - [痛苦啊 质变之后我的金币雨变成多说多写了](https://2libra.com/post/forum-function/o4DwnKh)
   - [眼睁睁看着喜欢的社区慢慢变味是什么感受](https://2libra.com/post/social-observation/55wcAo7)
 - CoinTelegraph
   - [Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M](https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -22,6 +25,7 @@
   - [GitHub Blocked Its Own Copilot: The August 17 Outage](https://paddo.dev/blog/github-blocked-its-own-copilot/)
 - Hacker News Frontpage
   - [A Claude Code skill that recovers export-blocked Kindle highlights](https://github.com/l3a0/claude-plugins)
+  - [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
   - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
   - [Moon](https://ciechanow.ski/moon/)
   - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
@@ -29,6 +33,8 @@
   - [Operationalize CTEM with NodeZero®](https://horizon3.ai/downloads/factsheets/operationalize-ctem-with-nodezero/)
 - infosecurity-magazine.com
   - [New Guidance Helps Businesses Verify Quantum-Safe Hardware Claims](https://www.infosecurity-magazine.com/news/guidance-verify-quantum-safe/)
+- johndcook.com
+  - [Numerical (in)stability of recurrece relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/)
 - pluralistic.net
   - [Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)](https://pluralistic.net/2026/08/24/elbows-really-up/)
 - Taxodium
@@ -68,6 +74,7 @@
   - [CVE-2026-55468](https://vulners.com/nvd/NVD:CVE-2026-55468?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56135](https://vulners.com/nvd/NVD:CVE-2026-56135?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56136](https://vulners.com/nvd/NVD:CVE-2026-56136?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66766 Denial of Service (DoS) in SAP S/4HANA (Manage Supply Protection)](https://vulners.com/cvelist/CVELIST:CVE-2026-66766?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71511 Dolibarr < 24.0.0 Members REST API Sensitive Data Exposure via Member Endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-71511?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71904 DrayTek VigorAP Multiple Models OS Command Injection via tr069TestInform](https://vulners.com/cvelist/CVELIST:CVE-2026-71904?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71905 DrayTek VigorAP Multiple Models OS Command Injection via ExportSettings](https://vulners.com/cvelist/CVELIST:CVE-2026-71905?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -117,6 +124,7 @@
   - [CVE-2026-77567](https://vulners.com/nvd/NVD:CVE-2026-77567?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77634](https://vulners.com/nvd/NVD:CVE-2026-77634?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77635](https://vulners.com/nvd/NVD:CVE-2026-77635?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-32475](https://vulners.com/githubexploit/3644ED06-B6C1-589B-8B38-74033CEC8706?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [UBUNTU-CVE-2026-75803](https://vulners.com/osv/OSV:UBUNTU-CVE-2026-75803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Bitdefender VPN Review: Fast and Affordable Privacy](https://www.wired.com/review/bitdefender-vpn/)
@@ -132,3 +140,4 @@
   - [ResNet作者任少卿机器人创业！公司注册就独角兽了](https://www.qbitai.com/2026/08/478675.html)
 - 黑海洋
   - [特朗普在今年六月购买了SpaceX的股票](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%BB%8A%E5%B9%B4%E5%85%AD%E6%9C%88%E8%B4%AD%E4%B9%B0%E4%BA%86SpaceX%E7%9A%84%E8%82%A1%E7%A5%A8)
+  - [迪士尼ESPN流媒体套餐价格正在上涨](https://blog.upx8.com/%E8%BF%AA%E5%A3%AB%E5%B0%BCESPN%E6%B5%81%E5%AA%92%E4%BD%93%E5%A5%97%E9%A4%90%E4%BB%B7%E6%A0%BC%E6%AD%A3%E5%9C%A8%E4%B8%8A%E6%B6%A8)
