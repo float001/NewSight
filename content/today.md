@@ -1,10 +1,34 @@
 # 今日安全资讯（2026-08-26）
 
+- 2Libra
+  - [2026-08-26 第一帖吗？](https://2libra.com/post/personal-life/uPEpJBD)
+- 404 Media
+  - [Charges Dropped Against Person Who Clapped at a City Data Center Meeting](https://www.404media.co/charges-dropped-against-person-who-clapped-at-a-city-data-center-meeting/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#308749: Remote Code Execution and Arbitrary File Read Vulnerabilities in Kaltura Servers](https://kb.cert.org/vuls/id/308749)
+- CoinTelegraph
+  - [Bitwise launches self-custodied tokenized stock portfolios with Coinbase](https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report](https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Google AI Blog
   - [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/)
 - HackerNoon
   - [How to Keep an AI Voice Consistent Across Every Video Clip](https://hackernoon.com/how-to-keep-an-ai-voice-consistent-across-every-video-clip?source=rss)
+- Sploitus.com Exploits RSS Feed
+  - [brpc exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-APACHE-BRPC&utm_source=rss&utm_medium=rss)
+  - [CVE-2023-25136 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ADHIKARA13-CVE-2023-25136&utm_source=rss&utm_medium=rss)
+  - [CVE-2024-26229-BOF exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-APKC-CVE-2024-26229-BOF&utm_source=rss&utm_medium=rss)
+  - [CVE-2024-31317-PoC-Deployer exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WEBLDIX-CVE-2024-31317-POC-DEPLOYER&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Life360 expands pet tracking with new $8 scannable tags and zoomie alerts](https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/)
 - The Block
   - [Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line](https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718)
+- The Decoder
+  - [Google launches Gemini for legal work to automate contracts and research](https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/)
+- The Verge
+  - [GeForce Now is getting support for the Steam Controller](https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support)
+  - [Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen](https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17)
+  - [Polestar claims it was blindsided by sales ban](https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump)
+- wheresyoured.at
+  - [The AI Hater's Manifesto](https://www.wheresyoured.at/the-ai-haters-manifesto/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
