@@ -2,6 +2,8 @@
 
 - 2Libra
   - [2026-08-26 第一帖吗？](https://2libra.com/post/personal-life/uPEpJBD)
+  - [存储反弹只走了 3 个浪，随时可能变成诱多。接下来几天必须强行走出 5 浪上涨，才能确认大底：](https://2libra.com/post/stock-market/6O9ifQ7)
+  - [已佩戴 1 周年纪念徽章，佩戴的集合啦](https://2libra.com/post/personal-life/zNfspAK)
 - 404 Media
   - [Charges Dropped Against Person Who Clapped at a City Data Center Meeting](https://www.404media.co/charges-dropped-against-person-who-clapped-at-a-city-data-center-meeting/)
 - CERT Recently Published Vulnerability Notes
@@ -11,6 +13,11 @@
   - [Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report](https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Google AI Blog
   - [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/)
+- Hacker News Frontpage
+  - [Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
+  - [Lightweight system monitor for Linux VPS written in Go](https://github.com/leodeim/vpsmon)
+  - [Nitter project received cease and desist](https://github.com/zedeus/nitter/issues/1442)
+  - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
 - HackerNoon
   - [How to Keep an AI Voice Consistent Across Every Video Clip](https://hackernoon.com/how-to-keep-an-ai-voice-consistent-across-every-video-clip?source=rss)
 - Sploitus.com Exploits RSS Feed
@@ -19,15 +26,24 @@
   - [CVE-2024-26229-BOF exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-APKC-CVE-2024-26229-BOF&utm_source=rss&utm_medium=rss)
   - [CVE-2024-31317-PoC-Deployer exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WEBLDIX-CVE-2024-31317-POC-DEPLOYER&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Claude Cowork finally remembers what you told the app in chat](https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/)
   - [Life360 expands pet tracking with new $8 scannable tags and zoomie alerts](https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/)
+  - [Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/)
+  - [Waymo robotaxis are headed to Munich](https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/)
 - The Block
   - [Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line](https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718)
 - The Decoder
   - [Google launches Gemini for legal work to automate contracts and research](https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/)
+  - [OpenAI's first custom chip "Jalapeño" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks](https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/)
 - The Verge
+  - [Bose’s smallest Bluetooth speaker is a great deal at 35 percent off](https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale)
+  - [Gamescom Opening Night Live 2026: The biggest announcements and trailers](https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley)
   - [GeForce Now is getting support for the Steam Controller](https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support)
+  - [Instagram’s ‘First Draft’ trims your Reels clips for you](https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels)
   - [Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen](https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17)
   - [Polestar claims it was blindsided by sales ban](https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump)
+- Vulners.com RSS Feed
+  - [CVE-2026-79992 Emacs: local shell command injection through the user field in emacs tramp](https://vulners.com/cvelist/CVELIST:CVE-2026-79992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [The AI Hater's Manifesto](https://www.wheresyoured.at/the-ai-haters-manifesto/)
 - 代码审计星球
