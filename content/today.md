@@ -11,6 +11,7 @@
   - [你有没有那样一瞬间, 觉得自己老了?](https://2libra.com/post/personal-life/AWtyDGd)
   - [关于 AI 是司机还是乘客的思考](https://2libra.com/post/vibe-coding/WEzPnfc)
   - [大家的浏览器上，最常用的扩展插件都有什么呢？](https://2libra.com/post/browser-extensions/HTg7vMt)
+  - [心理成年：承认自己不再年轻，允许人生进入中年](https://2libra.com/post/midlife-support-club/q8Z0yxZ)
   - [痛苦啊 质变之后我的金币雨变成多说多写了](https://2libra.com/post/forum-function/o4DwnKh)
   - [眼睁睁看着喜欢的社区慢慢变味是什么感受](https://2libra.com/post/social-observation/55wcAo7)
   - [被选上电影试镜了](https://2libra.com/post/personal-life/0v3rMF3)
@@ -47,6 +48,8 @@
   - [Numerical (in)stability of recurrece relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/)
 - pluralistic.net
   - [Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)](https://pluralistic.net/2026/08/24/elbows-really-up/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Numeric Truncation Error in Fortinet Fortios](https://sploitus.com/exploit?id=86C2A031-1242-5BC3-99E0-C6040F11357F&utm_source=rss&utm_medium=rss)
 - Taxodium
   - [香港雞公嶺](https://taxodium.ink/hong-kong-kai-kung-leng.html)
 - TechCrunch
@@ -157,6 +160,7 @@
   - [具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜](https://www.qbitai.com/2026/08/478791.html)
 - 黑海洋
   - [Netflix正考虑向其他流媒体开放其应用](https://blog.upx8.com/Netflix%E6%AD%A3%E8%80%83%E8%99%91%E5%90%91%E5%85%B6%E4%BB%96%E6%B5%81%E5%AA%92%E4%BD%93%E5%BC%80%E6%94%BE%E5%85%B6%E5%BA%94%E7%94%A8)
+  - [微软支付积分让你推荐朋友使用Edge浏览器](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%94%AF%E4%BB%98%E7%A7%AF%E5%88%86%E8%AE%A9%E4%BD%A0%E6%8E%A8%E8%8D%90%E6%9C%8B%E5%8F%8B%E4%BD%BF%E7%94%A8Edge%E6%B5%8F%E8%A7%88%E5%99%A8)
   - [特朗普在今年六月购买了SpaceX的股票](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%BB%8A%E5%B9%B4%E5%85%AD%E6%9C%88%E8%B4%AD%E4%B9%B0%E4%BA%86SpaceX%E7%9A%84%E8%82%A1%E7%A5%A8)
   - [苹果筹备推出时隔两年的全新Mac mini‌](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E7%AD%B9%E5%A4%87%E6%8E%A8%E5%87%BA%E6%97%B6%E9%9A%94%E4%B8%A4%E5%B9%B4%E7%9A%84%E5%85%A8%E6%96%B0Mac-mini)
   - [迪士尼ESPN流媒体套餐价格正在上涨](https://blog.upx8.com/%E8%BF%AA%E5%A3%AB%E5%B0%BCESPN%E6%B5%81%E5%AA%92%E4%BD%93%E5%A5%97%E9%A4%90%E4%BB%B7%E6%A0%BC%E6%AD%A3%E5%9C%A8%E4%B8%8A%E6%B6%A8)
