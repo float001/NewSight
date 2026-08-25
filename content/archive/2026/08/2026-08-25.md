@@ -16,6 +16,7 @@
   - [痛苦啊 质变之后我的金币雨变成多说多写了](https://2libra.com/post/forum-function/o4DwnKh)
   - [眼睁睁看着喜欢的社区慢慢变味是什么感受](https://2libra.com/post/social-observation/55wcAo7)
   - [被选上电影试镜了](https://2libra.com/post/personal-life/0v3rMF3)
+  - [豆包工作发布了，我希望它能培养 BOSS 的付费习惯](https://2libra.com/post/ai-tools/4IDhbw3)
   - [赚了 6 金币](https://2libra.com/post/forum-function/oJFzevf)
   - [赛博京剧变脸](https://2libra.com/post/personal-works/iFYz3Yu)
   - [领导让我用免费模型做项目，完蛋了，又要付费上班](https://2libra.com/post/large-models/1P3E_ze)
@@ -35,6 +36,8 @@
   - [★ What Is the Point of the DMA?](https://daringfireball.net/2026/08/what_is_the_point_of_the_dma)
 - darkreading
   - [Exploited Zimbra Flaw Highlights Shrinking Window to Patch](https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch)
+- defend.network
+  - [Keycloak authentication bypass, Microsoft active exploit, WordlistLoader/SynkLoader malware](https://defend.network/briefings/keycloak-critical-microsoft-wordlistloader-synkloader-2026-08-25.html)
 - Emergent Minds | paddo.dev
   - [GitHub Blocked Its Own Copilot: The August 17 Outage](https://paddo.dev/blog/github-blocked-its-own-copilot/)
 - Hacker News Frontpage
@@ -67,8 +70,10 @@
   - [Trump bought SpaceX shares two weeks after blockbuster IPO](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/)
   - [Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/)
 - The Block
+  - [Bitcoin holds above $80,000 backed by ETF flows; bull market case ‘early but optimistic,’ analyst says](https://www.theblock.co/news/markets/2026-08-25-bitcoin-holds-above-80000-412674)
   - [Blockchain Association backs Treasury’s proposed GENIUS Act rules for stablecoin issuers](https://www.theblock.co/news/regulation/2026-08-25-blockchain-association-backs-genius-act-412668)
   - [Crypto exchange volumes double in five days as market activity rebounds](https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641)
+  - [Franklin Templeton partners with HashKey to offer tokenized money market fund in Asia](https://www.theblock.co/news/business/2026-08-25-franklin-templeton-hashkey-tokenized-fund-412675)
   - [Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts](https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601)
   - [San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund](https://www.theblock.co/news/regulation/2026-08-24-san-francisco-gaming-founder-crypto-fraud-412662)
   - [US escalates Iran pressure with sanctions on crypto, aviation, shipping and gold as part of ‘economic D-Day’](https://www.theblock.co/news/regulation/2026-08-24-us-escalates-iran-pressure-sanctions-crypto-aviation-shipping-gold-economic-d-day-412648)
@@ -166,11 +171,13 @@
   - [ResNet作者任少卿机器人创业！公司注册就独角兽了](https://www.qbitai.com/2026/08/478675.html)
   - [VC开始靠AI预测未来了](https://www.qbitai.com/2026/08/478774.html)
   - [具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜](https://www.qbitai.com/2026/08/478791.html)
+  - [半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司](https://www.qbitai.com/2026/08/479132.html)
   - [王虹合作者获奖！科学探索奖2026年度获奖名单公布](https://www.qbitai.com/2026/08/478912.html)
   - [赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”](https://www.qbitai.com/2026/08/478996.html)
 - 黑海洋
   - [Anthropic表示澳大利亚在Claude编程使用方面正在落后](https://blog.upx8.com/Anthropic%E8%A1%A8%E7%A4%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%9C%A8Claude%E7%BC%96%E7%A8%8B%E4%BD%BF%E7%94%A8%E6%96%B9%E9%9D%A2%E6%AD%A3%E5%9C%A8%E8%90%BD%E5%90%8E)
   - [Netflix正考虑向其他流媒体开放其应用](https://blog.upx8.com/Netflix%E6%AD%A3%E8%80%83%E8%99%91%E5%90%91%E5%85%B6%E4%BB%96%E6%B5%81%E5%AA%92%E4%BD%93%E5%BC%80%E6%94%BE%E5%85%B6%E5%BA%94%E7%94%A8)
+  - [OpenAI 重新限制 ChatGPT Plus 用户 5 小时 Codex 和 Work 用量](https://blog.upx8.com/OpenAI-%E9%87%8D%E6%96%B0%E9%99%90%E5%88%B6-ChatGPT-Plus-%E7%94%A8%E6%88%B7-5-%E5%B0%8F%E6%97%B6-Codex-%E5%92%8C-Work-%E7%94%A8%E9%87%8F)
   - [微软支付积分让你推荐朋友使用Edge浏览器](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%94%AF%E4%BB%98%E7%A7%AF%E5%88%86%E8%AE%A9%E4%BD%A0%E6%8E%A8%E8%8D%90%E6%9C%8B%E5%8F%8B%E4%BD%BF%E7%94%A8Edge%E6%B5%8F%E8%A7%88%E5%99%A8)
   - [特朗普在今年六月购买了SpaceX的股票](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%BB%8A%E5%B9%B4%E5%85%AD%E6%9C%88%E8%B4%AD%E4%B9%B0%E4%BA%86SpaceX%E7%9A%84%E8%82%A1%E7%A5%A8)
   - [苹果筹备推出时隔两年的全新Mac mini‌](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E7%AD%B9%E5%A4%87%E6%8E%A8%E5%87%BA%E6%97%B6%E9%9A%94%E4%B8%A4%E5%B9%B4%E7%9A%84%E5%85%A8%E6%96%B0Mac-mini)
