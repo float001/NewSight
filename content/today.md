@@ -10,6 +10,7 @@
   - [【💰】好像我是站内第一个获得此徽章的幸运狗?](https://2libra.com/post/forum-function/F8GgTGV)
   - [你有没有那样一瞬间, 觉得自己老了?](https://2libra.com/post/personal-life/AWtyDGd)
   - [关于 AI 是司机还是乘客的思考](https://2libra.com/post/vibe-coding/WEzPnfc)
+  - [大家在五小时限额提前到的时候会干些什么...](https://2libra.com/post/ai-gateway/ynTlXBM)
   - [大家的浏览器上，最常用的扩展插件都有什么呢？](https://2libra.com/post/browser-extensions/HTg7vMt)
   - [心理成年：承认自己不再年轻，允许人生进入中年](https://2libra.com/post/midlife-support-club/q8Z0yxZ)
   - [痛苦啊 质变之后我的金币雨变成多说多写了](https://2libra.com/post/forum-function/o4DwnKh)
@@ -17,6 +18,7 @@
   - [被选上电影试镜了](https://2libra.com/post/personal-life/0v3rMF3)
   - [赚了 6 金币](https://2libra.com/post/forum-function/oJFzevf)
   - [赛博京剧变脸](https://2libra.com/post/personal-works/iFYz3Yu)
+  - [领导让我用免费模型做项目，完蛋了，又要付费上班](https://2libra.com/post/large-models/1P3E_ze)
 - CoinTelegraph
   - [Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M](https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BNB Chain activates Pasteur hard fork to strengthen bridge security](https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -24,7 +26,9 @@
   - [Coinbase tokenized stocks go live on Base with Chainlink price feeds](https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase-affiliated advocacy group endorses candidates for US midterms](https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gemini plans to distribute crypto prediction markets through Apex brokerages](https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%](https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US targets Iran’s crypto sector, cites over $100M in oil-linked payments](https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [[Sponsor] Finalist 4: Inspired by Paper Day Planners](https://www.finalist.works/?utm_source=df-aug-2026)
   - [BitCam: The 1-Bit Camera App Turns 2.0](https://bitcam-app.com/)
@@ -63,6 +67,7 @@
   - [Trump bought SpaceX shares two weeks after blockbuster IPO](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/)
   - [Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/)
 - The Block
+  - [Blockchain Association backs Treasury’s proposed GENIUS Act rules for stablecoin issuers](https://www.theblock.co/news/regulation/2026-08-25-blockchain-association-backs-genius-act-412668)
   - [Crypto exchange volumes double in five days as market activity rebounds](https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641)
   - [Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts](https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601)
   - [San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund](https://www.theblock.co/news/regulation/2026-08-24-san-francisco-gaming-founder-crypto-fraud-412662)
@@ -145,7 +150,10 @@
   - [Bitdefender VPN Review: Fast and Affordable Privacy](https://www.wired.com/review/bitdefender-vpn/)
   - [Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It](https://www.wired.com/story/sous-vide-salmonella-eggs/)
   - [My Daily Driver Gaming Headset Is Super Cheap Right Now](https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/)
+  - [Omega Just Released a Mini Moonwatch](https://www.wired.com/story/omega-just-released-a-mini-moonwatch/)
   - [The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe](https://www.wired.com/story/food-safety-gear-salmonella/)
+- 不安全
+  - [redact v0.2.2](https://buaq.net/go-437511.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -158,7 +166,10 @@
   - [ResNet作者任少卿机器人创业！公司注册就独角兽了](https://www.qbitai.com/2026/08/478675.html)
   - [VC开始靠AI预测未来了](https://www.qbitai.com/2026/08/478774.html)
   - [具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜](https://www.qbitai.com/2026/08/478791.html)
+  - [王虹合作者获奖！科学探索奖2026年度获奖名单公布](https://www.qbitai.com/2026/08/478912.html)
+  - [赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”](https://www.qbitai.com/2026/08/478996.html)
 - 黑海洋
+  - [Anthropic表示澳大利亚在Claude编程使用方面正在落后](https://blog.upx8.com/Anthropic%E8%A1%A8%E7%A4%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%9C%A8Claude%E7%BC%96%E7%A8%8B%E4%BD%BF%E7%94%A8%E6%96%B9%E9%9D%A2%E6%AD%A3%E5%9C%A8%E8%90%BD%E5%90%8E)
   - [Netflix正考虑向其他流媒体开放其应用](https://blog.upx8.com/Netflix%E6%AD%A3%E8%80%83%E8%99%91%E5%90%91%E5%85%B6%E4%BB%96%E6%B5%81%E5%AA%92%E4%BD%93%E5%BC%80%E6%94%BE%E5%85%B6%E5%BA%94%E7%94%A8)
   - [微软支付积分让你推荐朋友使用Edge浏览器](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%94%AF%E4%BB%98%E7%A7%AF%E5%88%86%E8%AE%A9%E4%BD%A0%E6%8E%A8%E8%8D%90%E6%9C%8B%E5%8F%8B%E4%BD%BF%E7%94%A8Edge%E6%B5%8F%E8%A7%88%E5%99%A8)
   - [特朗普在今年六月购买了SpaceX的股票](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%BB%8A%E5%B9%B4%E5%85%AD%E6%9C%88%E8%B4%AD%E4%B9%B0%E4%BA%86SpaceX%E7%9A%84%E8%82%A1%E7%A5%A8)
