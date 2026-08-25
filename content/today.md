@@ -8,6 +8,8 @@
   - [Charges Dropped Against Person Who Clapped at a City Data Center Meeting](https://www.404media.co/charges-dropped-against-person-who-clapped-at-a-city-data-center-meeting/)
   - [ICE Wants the Country’s Voter Data](https://www.404media.co/ice-wants-the-countrys-voter-data/)
   - [Israel Is Running a Synthetic Think Tank to Influence AI Search Results](https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/)
+- Ars Technica
+  - [The world's busiest spaceport is about to get a lot quieter, at least for now](https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/)
 - blog.jim-nielsen.com
   - [Have You Heard the Good News About Microlighter?](https://blog.jim-nielsen.com/2026/shipping-microlighter/)
 - CERT Recently Published Vulnerability Notes
@@ -19,8 +21,14 @@
   - [Solana transactions hit record 4.2B as SOL rallies 40%](https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report](https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [World Liberty Financial launches USD1 natively on Canton Network](https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [Dolly Parton Dies at 80](https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html)
+  - [Update Regarding the Base Prices of the M5 Max Mac Studio](https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios)
+  - [XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp](https://xcancel.com/)
 - darkreading
   - [Hidden Prompts Trick AI Into False Email Summaries](https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries)
+- gilesthomas.com
+  - [Adding diagrams to my static site generator with D2](https://www.gilesthomas.com/2026/08/adding-d2)
 - Google AI Blog
   - [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/)
 - Hacker News Frontpage
@@ -31,10 +39,13 @@
   - [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
   - [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
   - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
+  - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
 - HackerNoon
   - [How to Keep an AI Voice Consistent Across Every Video Clip](https://hackernoon.com/how-to-keep-an-ai-voice-consistent-across-every-video-clip?source=rss)
 - jeffgeerling.com
   - [Debugging Ubiquiti's 5G Backup on AT&T](https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/)
+- simonwillison.net
+  - [EVE Online: The Move to Python 3 Begins!](https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/)
 - Sploitus.com Exploits RSS Feed
   - [brpc exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-APACHE-BRPC&utm_source=rss&utm_medium=rss)
   - [CVE-2023-25136 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ADHIKARA13-CVE-2023-25136&utm_source=rss&utm_medium=rss)
@@ -62,6 +73,7 @@
   - [Bose’s smallest Bluetooth speaker is a great deal at 35 percent off](https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale)
   - [Dreame’s dream of a rocket-powered car is dead](https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down)
   - [Gamescom Opening Night Live 2026: The biggest announcements and trailers](https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley)
+  - [Garmin’s new Fenix 9 adds brighter screens and smoother map panning](https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch)
   - [GeForce Now is getting support for the Steam Controller](https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support)
   - [Instagram’s ‘First Draft’ trims your Reels clips for you](https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels)
   - [Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen](https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17)
