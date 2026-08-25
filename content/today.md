@@ -30,6 +30,7 @@
 - CoinTelegraph
   - [Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B](https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M](https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend](https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BNB Chain activates Pasteur hard fork to strengthen bridge security](https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets](https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase tokenized stocks go live on Base with Chainlink price feeds](https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -39,6 +40,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered becomes first bank distributor of HKD stablecoin](https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%](https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Thailand moves closer to Bitcoin, Ether ETFs with draft rules](https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US targets Iran’s crypto sector, cites over $100M in oil-linked payments](https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved](https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
@@ -59,11 +61,14 @@
   - [Moon](https://ciechanow.ski/moon/)
   - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
   - [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
+  - [Why some US restaurants are banning tips](https://www.bbc.com/news/articles/c4g36yze692o)
 - Horizon3.ai
   - [Operationalize CTEM with NodeZero®](https://horizon3.ai/downloads/factsheets/operationalize-ctem-with-nodezero/)
 - idiallo.com
   - [Foot Guns for Sale](https://idiallo.com/blog/foot-gun-for-sale)
 - infosecurity-magazine.com
+  - [Australia Warns of Active Exploitation of Critical TeamCity Server Flaw](https://www.infosecurity-magazine.com/news/australia-exploitation-teamcity/)
+  - [Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown](https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/)
   - [New Guidance Helps Businesses Verify Quantum-Safe Hardware Claims](https://www.infosecurity-magazine.com/news/guidance-verify-quantum-safe/)
   - [ReliaQuest Rejects Compromise Claims After ShinyHunters Incident](https://www.infosecurity-magazine.com/news/reliaquest-not-compromised-by/)
   - [US Sanctions Mabna Institute Hackers for Iranian Cyber-Attacks](https://www.infosecurity-magazine.com/news/us-sanctions-mabna-institute/)
@@ -97,10 +102,12 @@
   - [San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund](https://www.theblock.co/news/regulation/2026-08-24-san-francisco-gaming-founder-crypto-fraud-412662)
   - [US escalates Iran pressure with sanctions on crypto, aviation, shipping and gold as part of ‘economic D-Day’](https://www.theblock.co/news/regulation/2026-08-24-us-escalates-iran-pressure-sanctions-crypto-aviation-shipping-gold-economic-d-day-412648)
 - The Decoder
+  - [Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems](https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/)
   - [Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch](https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/)
   - [Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks](https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/)
 - The Verge
   - [Android is getting its own weird dots to cure car sickness](https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure)
+  - [Greenworks’ MaximusZ electric riding mower has five motors and a few compromises](https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price)
   - [Lenovo confirms Legion Go issues after gamers report bricked devices](https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked)
   - [OpenAI subpoenaed by Alabama AG over Hugging Face hack](https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack)
   - [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa)
@@ -181,14 +188,18 @@
   - [It Should Be Harder to Apply for a Job. No, Really](https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/)
   - [My Daily Driver Gaming Headset Is Super Cheap Right Now](https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/)
   - [Omega Just Released a Mini Moonwatch](https://www.wired.com/story/omega-just-released-a-mini-moonwatch/)
+  - [Optoma GT2400HDR Review: Ace Projector for Golf Simulation](https://www.wired.com/review/optoma-gt2400hdr/)
   - [Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out](https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/)
   - [The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe](https://www.wired.com/story/food-safety-gear-salmonella/)
+  - [The County Prosecutors Who Became ICE Informants](https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/)
 - 不安全
   - [CISA 紧急命令修复正在被积极利用的 Zimbra 漏洞](https://buaq.net/go-437532.html)
   - [redact v0.2.2](https://buaq.net/go-437511.html)
   - [关键 Keycloak 密码重置漏洞可允许未认证攻击者接管任意账户](https://buaq.net/go-437531.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [Zoom高危漏洞曝光：你的屏幕共享正在被黑客远程接管](https://www.anquanke.com/post/id/316016)
 - 爱范儿
   - [Google AI 把「地球」玩坏了，这是对 10 亿人的不负责](https://www.ifanr.com/1676650?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [QQ 宠物靠 AI 在手机复活，可我更想要一只桌宠企鹅](https://www.ifanr.com/1676656?utm_source=rss&utm_medium=rss&utm_campaign=)
