@@ -19,6 +19,8 @@
   - [Solana transactions hit record 4.2B as SOL rallies 40%](https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report](https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [World Liberty Financial launches USD1 natively on Canton Network](https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- darkreading
+  - [Hidden Prompts Trick AI Into False Email Summaries](https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries)
 - Google AI Blog
   - [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/)
 - Hacker News Frontpage
@@ -27,6 +29,7 @@
   - [Lightweight system monitor for Linux VPS written in Go](https://github.com/leodeim/vpsmon)
   - [Nitter project received cease and desist](https://github.com/zedeus/nitter/issues/1442)
   - [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
+  - [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
   - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
 - HackerNoon
   - [How to Keep an AI Voice Consistent Across Every Video Clip](https://hackernoon.com/how-to-keep-an-ai-voice-consistent-across-every-video-clip?source=rss)
@@ -65,6 +68,9 @@
   - [Polestar claims it was blindsided by sales ban](https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump)
   - [Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories](https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories)
   - [The Witcher 3 is getting a remaster](https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer)
+  - [Trump is upping the price of Big Tech’s favorite visa](https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration)
+- troyhunt.com
+  - [A Cautionary Tale About Data Breach Claims, Verification and Carhartt](https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/)
 - Vulners.com RSS Feed
   - [AutoSploit](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NULLARRAY-AUTOSPLOIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45018 Chainlit: Command injection via MCP stdio transport allows unauthenticated remote code execution](https://vulners.com/cvelist/CVELIST:CVE-2026-45018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -73,6 +79,7 @@
   - [CVE-2026-78379 Consent bypass in python_repl tool via batch kwargs forwarding in Amazon Strands Agents Tools](https://vulners.com/cvelist/CVELIST:CVE-2026-78379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-79992 Emacs: local shell command injection through the user field in emacs tramp](https://vulners.com/cvelist/CVELIST:CVE-2026-79992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DAws](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DOTCPPFILE-DAWS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Code Injection in Trueconf Trueconf_Server](https://vulners.com/githubexploit/FBC252EC-7637-572E-BD74-EFAFEEA27ADB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-75604](https://vulners.com/githubexploit/48088D97-4040-5495-99B1-599CDDEDCB31?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [gethspoit](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-KARMAHOSTAGE-GETHSPOIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [hershell](https://vulners.com/kitploit/KITPLOIT:4472802706694103780?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -88,6 +95,8 @@
   - [The AI Hater's Manifesto](https://www.wheresyoured.at/the-ai-haters-manifesto/)
 - Wired
   - [Google Pixel 11 Pro Fold Review: Better, Not Best](https://www.wired.com/review/google-pixel-11-pro-fold/)
+  - [The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall (2026)](https://www.wired.com/story/early-labor-day-kitchen-appliance-deals-2026/)
   - [The US Just Recorded Its First 2 Measles Deaths This Year](https://www.wired.com/story/us-recorded-first-measles-deaths-2026/)
+  - [‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance](https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
