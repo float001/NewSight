@@ -18,6 +18,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Solana transactions hit record 4.2B as SOL rallies 40%](https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report](https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [World Liberty Financial launches USD1 natively on Canton Network](https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Google AI Blog
   - [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/)
 - Hacker News Frontpage
@@ -44,6 +45,7 @@
   - [Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding](https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/)
   - [Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/)
   - [Waymo robotaxis are headed to Munich](https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/)
+  - [X sends cease-and-desist to open-source project Nitter over alleged scraping](https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/)
   - [Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit](https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/)
 - The Block
   - [Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line](https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718)
@@ -53,6 +55,7 @@
   - [OpenAI's first custom chip "Jalapeño" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks](https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/)
   - [Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West](https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/)
 - The Verge
+  - [At just $8, you owe it to yourself to grab Inscryption](https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale)
   - [Bose’s smallest Bluetooth speaker is a great deal at 35 percent off](https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale)
   - [Dreame’s dream of a rocket-powered car is dead](https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down)
   - [Gamescom Opening Night Live 2026: The biggest announcements and trailers](https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley)
@@ -61,6 +64,7 @@
   - [Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen](https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17)
   - [Polestar claims it was blindsided by sales ban](https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump)
   - [Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories](https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories)
+  - [The Witcher 3 is getting a remaster](https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer)
 - Vulners.com RSS Feed
   - [AutoSploit](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NULLARRAY-AUTOSPLOIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45018 Chainlit: Command injection via MCP stdio transport allows unauthenticated remote code execution](https://vulners.com/cvelist/CVELIST:CVE-2026-45018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
