@@ -21,6 +21,7 @@
   - [赛博京剧变脸](https://2libra.com/post/personal-works/iFYz3Yu)
   - [领导让我用免费模型做项目，完蛋了，又要付费上班](https://2libra.com/post/large-models/1P3E_ze)
 - CoinTelegraph
+  - [Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B](https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M](https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BNB Chain activates Pasteur hard fork to strengthen bridge security](https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets](https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -49,6 +50,8 @@
   - [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
 - Horizon3.ai
   - [Operationalize CTEM with NodeZero®](https://horizon3.ai/downloads/factsheets/operationalize-ctem-with-nodezero/)
+- idiallo.com
+  - [Foot Guns for Sale](https://idiallo.com/blog/foot-gun-for-sale)
 - infosecurity-magazine.com
   - [New Guidance Helps Businesses Verify Quantum-Safe Hardware Claims](https://www.infosecurity-magazine.com/news/guidance-verify-quantum-safe/)
 - johndcook.com
@@ -150,6 +153,7 @@
   - [CVE-2026-77634](https://vulners.com/nvd/NVD:CVE-2026-77634?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77635](https://vulners.com/nvd/NVD:CVE-2026-77635?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-32475](https://vulners.com/githubexploit/3644ED06-B6C1-589B-8B38-74033CEC8706?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for OS Command Injection in Totolink N600R_Firmware](https://vulners.com/githubexploit/2B8A7374-CCF5-5123-9AE1-BB56A211D0C3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [UBUNTU-CVE-2026-75803](https://vulners.com/osv/OSV:UBUNTU-CVE-2026-75803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Bitdefender VPN Review: Fast and Affordable Privacy](https://www.wired.com/review/bitdefender-vpn/)
@@ -158,15 +162,21 @@
   - [Omega Just Released a Mini Moonwatch](https://www.wired.com/story/omega-just-released-a-mini-moonwatch/)
   - [The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe](https://www.wired.com/story/food-safety-gear-salmonella/)
 - 不安全
+  - [CISA 紧急命令修复正在被积极利用的 Zimbra 漏洞](https://buaq.net/go-437532.html)
   - [redact v0.2.2](https://buaq.net/go-437511.html)
+  - [关键 Keycloak 密码重置漏洞可允许未认证攻击者接管任意账户](https://buaq.net/go-437531.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [Google AI 把「地球」玩坏了，这是对 10 亿人的不负责](https://www.ifanr.com/1676650?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [QQ 宠物靠 AI 在手机复活，可我更想要一只桌宠企鹅](https://www.ifanr.com/1676656?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [在工位玩了一下午「GBA」，我才发现复古不是回到过去](https://www.ifanr.com/1676646?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测小米 AI 手机：性能超 iPhone，端侧 AI 超级快](https://www.ifanr.com/1676596?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测豆包工作：连上飞书后，Agent 终于像个同事了](https://www.ifanr.com/1676539?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [对话雷鸟创新李宏伟：智能眼镜的终局仍然是「AI + AR」，AI 是我们现在最重要的事丨多样性公司](https://www.ifanr.com/1676571?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜小米把「OK」藏进玄戒O3,雷军:不建议拆开看彩蛋/vivo官宣X500系列/MINI车机接入阿里与DeepSeek模型](https://www.ifanr.com/1676529?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [追觅造车一周年：展车地库蒙灰，千人团队剩约百人，烧掉的钱谁来买单？](https://www.ifanr.com/1676439?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [首发 | 影石做了十年全景相机，想让你忘记「全景相机」](https://www.ifanr.com/1676648?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [ResNet作者任少卿机器人创业！公司注册就独角兽了](https://www.qbitai.com/2026/08/478675.html)
   - [VC开始靠AI预测未来了](https://www.qbitai.com/2026/08/478774.html)
