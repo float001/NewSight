@@ -2,10 +2,12 @@
 
 - 2Libra
   - [8 月 24 日微语报，星期一，农历七月十二，工作愉快，生活喜乐！](https://2libra.com/post/tech-news/LRmOtRC)
+  - [chatgpt 的 plus 要恢复 5 小时限额了。](https://2libra.com/post/ai-updates/0-0Du8z)
   - [Openai 成功打击中转站 MVP 结算画面](https://2libra.com/post/ai-gateway/G0m6-uO)
   - [OpenCode Go 首充优惠没了? 可以用 Command Code 平替 OpenCode （DeepSeek V4 Flash）](https://2libra.com/post/ai-programming/zkW3dPn)
   - [【车找人】GPT 20x 0.2 倍率 账号透明车｜状态、账单，全程自己可查 自己充值 自己看消耗](https://2libra.com/post/promotion/TEWjmeT)
   - [【💰】今天头像透明的挺多啊](https://2libra.com/post/forum-function/snzzWWO)
+  - [【💰】好像我是站内第一个获得此徽章的幸运狗?](https://2libra.com/post/forum-function/F8GgTGV)
   - [痛苦啊 质变之后我的金币雨变成多说多写了](https://2libra.com/post/forum-function/o4DwnKh)
   - [眼睁睁看着喜欢的社区慢慢变味是什么感受](https://2libra.com/post/social-observation/55wcAo7)
 - CoinTelegraph
@@ -29,6 +31,7 @@
   - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
   - [Moon](https://ciechanow.ski/moon/)
   - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
+  - [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
 - Horizon3.ai
   - [Operationalize CTEM with NodeZero®](https://horizon3.ai/downloads/factsheets/operationalize-ctem-with-nodezero/)
 - infosecurity-magazine.com
@@ -51,6 +54,7 @@
 - The Block
   - [Crypto exchange volumes double in five days as market activity rebounds](https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641)
   - [Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts](https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601)
+  - [San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund](https://www.theblock.co/news/regulation/2026-08-24-san-francisco-gaming-founder-crypto-fraud-412662)
   - [US escalates Iran pressure with sanctions on crypto, aviation, shipping and gold as part of ‘economic D-Day’](https://www.theblock.co/news/regulation/2026-08-24-us-escalates-iran-pressure-sanctions-crypto-aviation-shipping-gold-economic-d-day-412648)
 - The Decoder
   - [Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch](https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/)
@@ -134,10 +138,15 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [实测小米 AI 手机：性能超 iPhone，端侧 AI 超级快](https://www.ifanr.com/1676596?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [对话雷鸟创新李宏伟：智能眼镜的终局仍然是「AI + AR」，AI 是我们现在最重要的事丨多样性公司](https://www.ifanr.com/1676571?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜小米把「OK」藏进玄戒O3,雷军:不建议拆开看彩蛋/vivo官宣X500系列/MINI车机接入阿里与DeepSeek模型](https://www.ifanr.com/1676529?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [追觅造车一周年：展车地库蒙灰，千人团队剩约百人，烧掉的钱谁来买单？](https://www.ifanr.com/1676439?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [ResNet作者任少卿机器人创业！公司注册就独角兽了](https://www.qbitai.com/2026/08/478675.html)
+  - [VC开始靠AI预测未来了](https://www.qbitai.com/2026/08/478774.html)
+  - [具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜](https://www.qbitai.com/2026/08/478791.html)
 - 黑海洋
+  - [Netflix正考虑向其他流媒体开放其应用](https://blog.upx8.com/Netflix%E6%AD%A3%E8%80%83%E8%99%91%E5%90%91%E5%85%B6%E4%BB%96%E6%B5%81%E5%AA%92%E4%BD%93%E5%BC%80%E6%94%BE%E5%85%B6%E5%BA%94%E7%94%A8)
   - [特朗普在今年六月购买了SpaceX的股票](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%BB%8A%E5%B9%B4%E5%85%AD%E6%9C%88%E8%B4%AD%E4%B9%B0%E4%BA%86SpaceX%E7%9A%84%E8%82%A1%E7%A5%A8)
   - [迪士尼ESPN流媒体套餐价格正在上涨](https://blog.upx8.com/%E8%BF%AA%E5%A3%AB%E5%B0%BCESPN%E6%B5%81%E5%AA%92%E4%BD%93%E5%A5%97%E9%A4%90%E4%BB%B7%E6%A0%BC%E6%AD%A3%E5%9C%A8%E4%B8%8A%E6%B6%A8)
