@@ -19,13 +19,16 @@
   - [大家的浏览器上，最常用的扩展插件都有什么呢？](https://2libra.com/post/browser-extensions/HTg7vMt)
   - [心理成年：承认自己不再年轻，允许人生进入中年](https://2libra.com/post/midlife-support-club/q8Z0yxZ)
   - [户子姐也太好看了，这的身材真好，不亏是顶流，业界世一美 [ 1P ]](https://2libra.com/post/hotspot-tracking/z85xKlc)
+  - [手里还有一堆注册完 ChatGPT 之后剩下的 outlook 邮箱, 能拿来干啥用?](https://2libra.com/post/questions/oRlg7gB)
   - [搓了个找无版权视频照片插画素材的网站](https://2libra.com/post/promotion/cIQgZDu)
+  - [新版本新增悬停预览卡片、新评论列表、新增账号注销等功能说明](https://2libra.com/post/product-updates/2mJsUNc)
   - [痛苦啊 质变之后我的金币雨变成多说多写了](https://2libra.com/post/forum-function/o4DwnKh)
   - [眼睁睁看着喜欢的社区慢慢变味是什么感受](https://2libra.com/post/social-observation/55wcAo7)
   - [被选上电影试镜了](https://2libra.com/post/personal-life/0v3rMF3)
   - [豆包工作发布了，我希望它能培养 BOSS 的付费习惯](https://2libra.com/post/ai-tools/4IDhbw3)
   - [赚了 6 金币](https://2libra.com/post/forum-function/oJFzevf)
   - [赛博京剧变脸](https://2libra.com/post/personal-works/iFYz3Yu)
+  - [金币与等级体系调整说明](https://2libra.com/post/product-updates/eB9kF0y)
   - [领导让我用免费模型做项目，完蛋了，又要付费上班](https://2libra.com/post/large-models/1P3E_ze)
 - CoinTelegraph
   - [Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B](https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -38,6 +41,7 @@
   - [Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved](https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gemini plans to distribute crypto prediction markets through Apex brokerages](https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Shipyard winds down IPFS work after Protocol Labs ends funding](https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered becomes first bank distributor of HKD stablecoin](https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%](https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Thailand moves closer to Bitcoin, Ether ETFs with draft rules](https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -62,6 +66,8 @@
   - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
   - [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
   - [Why some US restaurants are banning tips](https://www.bbc.com/news/articles/c4g36yze692o)
+- herman.bearblog.dev
+  - [Extending life perception](https://herman.bearblog.dev/extending-life-perception/)
 - Horizon3.ai
   - [Operationalize CTEM with NodeZero®](https://horizon3.ai/downloads/factsheets/operationalize-ctem-with-nodezero/)
 - idiallo.com
@@ -79,6 +85,8 @@
   - [git fetch vs git pull: How They Work and When to Use Each](https://kalilinuxtutorials.com/git-fetch-vs-git-pull/)
 - pluralistic.net
   - [Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)](https://pluralistic.net/2026/08/24/elbows-really-up/)
+- shkspr.mobi
+  - [Theatre Review: Cats at Regent's Park Open Air Theatre ★★★★☆](https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Numeric Truncation Error in Fortinet Fortios](https://sploitus.com/exploit?id=86C2A031-1242-5BC3-99E0-C6040F11357F&utm_source=rss&utm_medium=rss)
 - Taxodium
@@ -88,11 +96,13 @@
   - [Amazon hikes hardware prices by 60 percent, blaming memory shortage](https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/)
   - [Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/)
   - [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)
+  - [Fitbit founders launch Luffu Link, an LTE health and safety band](https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/)
   - [India’s Airbound bags $37M to take on trucks with rocket-like drones](https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/)
   - [Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/)
   - [Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC](https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/)
   - [Trump bought SpaceX shares two weeks after blockbuster IPO](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/)
   - [Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/)
+  - [‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux](https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/)
 - The Block
   - [Bitcoin holds above $80,000 backed by ETF flows; bull market case ‘early but optimistic,’ analyst says](https://www.theblock.co/news/markets/2026-08-25-bitcoin-holds-above-80000-412674)
   - [Blockchain Association backs Treasury’s proposed GENIUS Act rules for stablecoin issuers](https://www.theblock.co/news/regulation/2026-08-25-blockchain-association-backs-genius-act-412668)
@@ -112,6 +122,7 @@
   - [OpenAI subpoenaed by Alabama AG over Hugging Face hack](https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack)
   - [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa)
   - [The cat-and-mouse game over 3D-printed guns has begun](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul)
+  - [The TCL Note A1 is a kinder, gentler tablet](https://www.theverge.com/tech/984086/tcl-note-a1-nxtpaper-tablet-review)
   - [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [CVE-2026-69414 ShieldBreak Zero-Day: No Patch, and CISA BOD 26-04 Gives You 14 Days](https://blog.qualys.com/category/product-tech/vulnmgmt-detection-response)
@@ -180,11 +191,13 @@
   - [CVE-2026-77635](https://vulners.com/nvd/NVD:CVE-2026-77635?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-32475](https://vulners.com/githubexploit/3644ED06-B6C1-589B-8B38-74033CEC8706?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for OS Command Injection in Totolink N600R_Firmware](https://vulners.com/githubexploit/2B8A7374-CCF5-5123-9AE1-BB56A211D0C3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Frontier AI: Vulnerability Management's Systemic Revolution](https://vulners.com/thn/THN:1D1A09B83F59C34636DC87A7183C66D7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [UBUNTU-CVE-2026-75803](https://vulners.com/osv/OSV:UBUNTU-CVE-2026-75803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Bitdefender VPN Review: Fast and Affordable Privacy](https://www.wired.com/review/bitdefender-vpn/)
   - [Border Wall Construction Threatens 6,000 Years of History on Private Lands](https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/)
   - [Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It](https://www.wired.com/story/sous-vide-salmonella-eggs/)
+  - [I Tested Kitchen Composters for 2 Years. These Are the Ones I’d Buy (2026)](https://www.wired.com/story/home-composters-buying-guide/)
   - [It Should Be Harder to Apply for a Job. No, Really](https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/)
   - [My Daily Driver Gaming Headset Is Super Cheap Right Now](https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/)
   - [Omega Just Released a Mini Moonwatch](https://www.wired.com/story/omega-just-released-a-mini-moonwatch/)
@@ -198,6 +211,8 @@
   - [关键 Keycloak 密码重置漏洞可允许未认证攻击者接管任意账户](https://buaq.net/go-437531.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [微软画图和照片应用生成的图像嵌入了看不见的水印](https://www.solidot.org/story?sid=85192)
 - 安全客
   - [Zoom高危漏洞曝光：你的屏幕共享正在被黑客远程接管](https://www.anquanke.com/post/id/316016)
 - 爱范儿
@@ -222,6 +237,7 @@
   - [Anthropic表示澳大利亚在Claude编程使用方面正在落后](https://blog.upx8.com/Anthropic%E8%A1%A8%E7%A4%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%9C%A8Claude%E7%BC%96%E7%A8%8B%E4%BD%BF%E7%94%A8%E6%96%B9%E9%9D%A2%E6%AD%A3%E5%9C%A8%E8%90%BD%E5%90%8E)
   - [Netflix正考虑向其他流媒体开放其应用](https://blog.upx8.com/Netflix%E6%AD%A3%E8%80%83%E8%99%91%E5%90%91%E5%85%B6%E4%BB%96%E6%B5%81%E5%AA%92%E4%BD%93%E5%BC%80%E6%94%BE%E5%85%B6%E5%BA%94%E7%94%A8)
   - [OpenAI 重新限制 ChatGPT Plus 用户 5 小时 Codex 和 Work 用量](https://blog.upx8.com/OpenAI-%E9%87%8D%E6%96%B0%E9%99%90%E5%88%B6-ChatGPT-Plus-%E7%94%A8%E6%88%B7-5-%E5%B0%8F%E6%97%B6-Codex-%E5%92%8C-Work-%E7%94%A8%E9%87%8F)
+  - [OpenAI封禁用于秘密散布虚假信息的俄账户](https://blog.upx8.com/OpenAI%E5%B0%81%E7%A6%81%E7%94%A8%E4%BA%8E%E7%A7%98%E5%AF%86%E6%95%A3%E5%B8%83%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF%E7%9A%84%E4%BF%84%E8%B4%A6%E6%88%B7)
   - [安卓系统正在推出新功能来缓解晕车症状](https://blog.upx8.com/%E5%AE%89%E5%8D%93%E7%B3%BB%E7%BB%9F%E6%AD%A3%E5%9C%A8%E6%8E%A8%E5%87%BA%E6%96%B0%E5%8A%9F%E8%83%BD%E6%9D%A5%E7%BC%93%E8%A7%A3%E6%99%95%E8%BD%A6%E7%97%87%E7%8A%B6)
   - [微软支付积分让你推荐朋友使用Edge浏览器](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%94%AF%E4%BB%98%E7%A7%AF%E5%88%86%E8%AE%A9%E4%BD%A0%E6%8E%A8%E8%8D%90%E6%9C%8B%E5%8F%8B%E4%BD%BF%E7%94%A8Edge%E6%B5%8F%E8%A7%88%E5%99%A8)
   - [特朗普在今年六月购买了SpaceX的股票](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%BB%8A%E5%B9%B4%E5%85%AD%E6%9C%88%E8%B4%AD%E4%B9%B0%E4%BA%86SpaceX%E7%9A%84%E8%82%A1%E7%A5%A8)
