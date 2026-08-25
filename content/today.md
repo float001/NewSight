@@ -22,11 +22,15 @@
   - [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/)
 - Hacker News Frontpage
   - [Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
+  - [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
   - [Lightweight system monitor for Linux VPS written in Go](https://github.com/leodeim/vpsmon)
   - [Nitter project received cease and desist](https://github.com/zedeus/nitter/issues/1442)
+  - [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
   - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
 - HackerNoon
   - [How to Keep an AI Voice Consistent Across Every Video Clip](https://hackernoon.com/how-to-keep-an-ai-voice-consistent-across-every-video-clip?source=rss)
+- jeffgeerling.com
+  - [Debugging Ubiquiti's 5G Backup on AT&T](https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/)
 - Sploitus.com Exploits RSS Feed
   - [brpc exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-APACHE-BRPC&utm_source=rss&utm_medium=rss)
   - [CVE-2023-25136 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ADHIKARA13-CVE-2023-25136&utm_source=rss&utm_medium=rss)
@@ -34,6 +38,7 @@
   - [CVE-2024-31317-PoC-Deployer exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WEBLDIX-CVE-2024-31317-POC-DEPLOYER&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Claude Cowork finally remembers what you told the app in chat](https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/)
+  - [Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious](https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/)
   - [Life360 expands pet tracking with new $8 scannable tags and zoomie alerts](https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/)
   - [SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana](https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/)
   - [Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding](https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/)
@@ -57,7 +62,24 @@
   - [Polestar claims it was blindsided by sales ban](https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump)
   - [Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories](https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories)
 - Vulners.com RSS Feed
+  - [AutoSploit](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NULLARRAY-AUTOSPLOIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45018 Chainlit: Command injection via MCP stdio transport allows unauthenticated remote code execution](https://vulners.com/cvelist/CVELIST:CVE-2026-45018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68513 OpenEXR: Heap buffer overflow in PyOpenEXR from literal/prefixed RGB channel name collision](https://vulners.com/cvelist/CVELIST:CVE-2026-68513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78379 Consent bypass in python_repl tool via batch kwargs forwarding in Amazon Strands Agents Tools](https://vulners.com/cve/CVE-2026-78379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78379 Consent bypass in python_repl tool via batch kwargs forwarding in Amazon Strands Agents Tools](https://vulners.com/cvelist/CVELIST:CVE-2026-78379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-79992 Emacs: local shell command injection through the user field in emacs tramp](https://vulners.com/cvelist/CVELIST:CVE-2026-79992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [DAws](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DOTCPPFILE-DAWS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-75604](https://vulners.com/githubexploit/48088D97-4040-5495-99B1-599CDDEDCB31?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [gethspoit](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-KARMAHOSTAGE-GETHSPOIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [hershell](https://vulners.com/kitploit/KITPLOIT:4472802706694103780?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [hyperfox](https://vulners.com/kitploit/KITPLOIT:275480743183326743?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kickthemout](https://vulners.com/kitploit/KITPLOIT:2415098872618625736?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Minesweeper](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-CODINGO-MINESWEEPER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [nuclei](https://vulners.com/kitploit/KITPLOIT:3097141731968574908?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [sdnpwn](https://vulners.com/kitploit/KITPLOIT:8150000277469215268?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [StegaStamp](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-TANCIK-STEGASTAMP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [subbrute](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-THEROOK-SUBBRUTE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [xsssniper](https://vulners.com/kitploit/KITPLOIT:1801395129400135654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [The AI Hater's Manifesto](https://www.wheresyoured.at/the-ai-haters-manifesto/)
 - Wired
