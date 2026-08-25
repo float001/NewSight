@@ -28,6 +28,7 @@
   - [新版本新增悬停预览卡片、新评论列表、新增账号注销等功能说明](https://2libra.com/post/product-updates/2mJsUNc)
   - [痛苦啊 质变之后我的金币雨变成多说多写了](https://2libra.com/post/forum-function/o4DwnKh)
   - [眼睁睁看着喜欢的社区慢慢变味是什么感受](https://2libra.com/post/social-observation/55wcAo7)
+  - [苹果悄悄更新了 macmini 和 macstudio](https://2libra.com/post/tech-news/Q4e2Jaq)
   - [被选上电影试镜了](https://2libra.com/post/personal-life/0v3rMF3)
   - [豆包工作发布了，我希望它能培养 BOSS 的付费习惯](https://2libra.com/post/ai-tools/4IDhbw3)
   - [赚了 6 金币](https://2libra.com/post/forum-function/oJFzevf)
@@ -68,6 +69,7 @@
   - [[Sponsor] Finalist 4: Inspired by Paper Day Planners](https://www.finalist.works/?utm_source=df-aug-2026)
   - [Apple Introduces M6 and M5 Ultra Chips, in New Mac Mini and Mac Studio](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
   - [BitCam: The 1-Bit Camera App Turns 2.0](https://bitcam-app.com/)
+  - [★ Memory and Storage Configurations and Pricing for the New Mac Minis (M6/M5 Pro) and Mac Studios (M5 Max/M5 Ultra)](https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios)
   - [★ What Is the Point of the DMA?](https://daringfireball.net/2026/08/what_is_the_point_of_the_dma)
 - darkreading
   - [Exploited Zimbra Flaw Highlights Shrinking Window to Patch](https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch)
@@ -75,14 +77,19 @@
   - [Keycloak authentication bypass, Microsoft active exploit, WordlistLoader/SynkLoader malware](https://defend.network/briefings/keycloak-critical-microsoft-wordlistloader-synkloader-2026-08-25.html)
 - Emergent Minds | paddo.dev
   - [GitHub Blocked Its Own Copilot: The August 17 Outage](https://paddo.dev/blog/github-blocked-its-own-copilot/)
+- experimental-history.com
+  - [Actually good advice](https://www.experimental-history.com/p/actually-good-advice)
 - GuidePoint Security
   - [How Play Achieves Encryption](https://www.guidepointsecurity.com/blog/how-play-achieves-encryption/)
 - Hacker News Frontpage
   - [A Claude Code skill that recovers export-blocked Kindle highlights](https://github.com/l3a0/claude-plugins)
+  - [Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs)
+  - [Building a backyard office, the build and cost breakdown](https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown)
   - [France's tax agency got hacked (in French)](https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/)
   - [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
   - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
   - [Moon](https://ciechanow.ski/moon/)
+  - [MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it](https://www.erathos.com/en/blog/mysql-cdc-to-bigquery)
   - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
   - [OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users](https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/)
   - [The state of AI in 2026: On the road to ROI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
@@ -105,6 +112,7 @@
   - [New Guidance Helps Businesses Verify Quantum-Safe Hardware Claims](https://www.infosecurity-magazine.com/news/guidance-verify-quantum-safe/)
   - [ReliaQuest Rejects Compromise Claims After ShinyHunters Incident](https://www.infosecurity-magazine.com/news/reliaquest-not-compromised-by/)
   - [US Sanctions Mabna Institute Hackers for Iranian Cyber-Attacks](https://www.infosecurity-magazine.com/news/us-sanctions-mabna-institute/)
+  - [ZeroTokens Phishing Platform Steers Attacks in Real Time](https://www.infosecurity-magazine.com/news/zerotokens-phishing-real-time/)
 - johndcook.com
   - [Numerical (in)stability of recurrece relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/)
 - Kali Linux Tutorials
@@ -116,6 +124,10 @@
   - [The Download: smarter AI in schools, and a robot “carnival” in Shanghai](https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/)
 - pluralistic.net
   - [Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)](https://pluralistic.net/2026/08/24/elbows-really-up/)
+- PortSwigger Research
+  - [What's in a tag name? JavaScript, apparently](https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently)
+- Sec-News 安全文摘
+  - [From Code to Chain: Why WP2Shell Stayed Out of Reach](https://govuln.com/news/url/bmx7)
 - shkspr.mobi
   - [Theatre Review: Cats at Regent's Park Open Air Theatre ★★★★☆](https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/)
 - Sploitus.com Exploits RSS Feed
@@ -128,11 +140,15 @@
   - [Amazon hikes hardware prices by 60 percent, blaming memory shortage](https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/)
   - [Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/)
   - [Andy Dunn’s startup Pie becomes less of an events app and more of a social network](https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/)
+  - [Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6](https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/)
+  - [Apple rescues Hide My Email feature from the privacy scrap heap](https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/)
   - [Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899](https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/)
   - [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)
   - [Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II](https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/)
   - [Fitbit founders launch Luffu Link, an LTE health and safety band](https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/)
+  - [Gamma acquires Accel-backed design startup Lica](https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/)
   - [India’s Airbound bags $37M to take on trucks with rocket-like drones](https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/)
+  - [OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show](https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/)
   - [Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/)
   - [Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC](https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/)
   - [Trump bought SpaceX shares two weeks after blockbuster IPO](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/)
@@ -142,6 +158,7 @@
   - [‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux](https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/)
 - The Block
   - [Bitcoin holds above $80,000 backed by ETF flows; bull market case ‘early but optimistic,’ analyst says](https://www.theblock.co/news/markets/2026-08-25-bitcoin-holds-above-80000-412674)
+  - [Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes](https://www.theblock.co/news/business/2026-08-25-bitwise-launches-automated-tokenized-stock-portfolios-for-mag-7-ai-and-robotics-themes-412706)
   - [Blockchain Association backs Treasury’s proposed GENIUS Act rules for stablecoin issuers](https://www.theblock.co/news/regulation/2026-08-25-blockchain-association-backs-genius-act-412668)
   - [Crypto exchange volumes double in five days as market activity rebounds](https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641)
   - [Franklin Templeton partners with HashKey to offer tokenized money market fund in Asia](https://www.theblock.co/news/business/2026-08-25-franklin-templeton-hashkey-tokenized-fund-412675)
@@ -159,6 +176,7 @@
   - [Android is getting its own weird dots to cure car sickness](https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure)
   - [Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra](https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch)
   - [Apple&#8217;s new M6 chip gets more cores and more AI compute](https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio)
+  - [Apple&#8217;s ‘new’ polishing cloth is the same except $10 cheaper](https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper)
   - [Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices](https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs)
   - [Greenworks’ MaximusZ electric riding mower has five motors and a few compromises](https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price)
   - [GuliKit’s Switch 2 TV dock gives me one feature I’ve missed when traveling](https://www.theverge.com/tech/983020/gulikit-dock-nintendo-switch-2-hands-on)
@@ -258,6 +276,8 @@
 - 不安全
   - [CISA 紧急命令修复正在被积极利用的 Zimbra 漏洞](https://buaq.net/go-437532.html)
   - [redact v0.2.2](https://buaq.net/go-437511.html)
+  - [tetragon v1.7.1](https://buaq.net/go-437627.html)
+  - [What's in a tag name? JavaScript, apparently](https://buaq.net/go-437622.html)
   - [关键 Keycloak 密码重置漏洞可允许未认证攻击者接管任意账户](https://buaq.net/go-437531.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -266,6 +286,7 @@
 - 安全客
   - [Zoom高危漏洞曝光：你的屏幕共享正在被黑客远程接管](https://www.anquanke.com/post/id/316016)
 - 爱范儿
+  - [27.98 万元起，泰钽 700 正式上市，越野 NOA 开上挂壁公路](https://www.ifanr.com/1676715?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [Google AI 把「地球」玩坏了，这是对 10 亿人的不负责](https://www.ifanr.com/1676650?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [QQ 宠物靠 AI 在手机复活，可我更想要一只桌宠企鹅](https://www.ifanr.com/1676656?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，新款 Mac mini 发布！价格大涨2500元，苹果第一次为 AI 造电脑](https://www.ifanr.com/1676537?utm_source=rss&utm_medium=rss&utm_campaign=)
