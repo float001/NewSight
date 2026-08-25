@@ -3,6 +3,7 @@
 - 2Libra
   - [8 月 24 日微语报，星期一，农历七月十二，工作愉快，生活喜乐！](https://2libra.com/post/tech-news/LRmOtRC)
   - [Openai 成功打击中转站 MVP 结算画面](https://2libra.com/post/ai-gateway/G0m6-uO)
+  - [【💰】今天头像透明的挺多啊](https://2libra.com/post/forum-function/snzzWWO)
   - [眼睁睁看着喜欢的社区慢慢变味是什么感受](https://2libra.com/post/social-observation/55wcAo7)
 - CoinTelegraph
   - [Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M](https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -12,6 +13,7 @@
   - [Gemini plans to distribute crypto prediction markets through Apex brokerages](https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%](https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [[Sponsor] Finalist 4: Inspired by Paper Day Planners](https://www.finalist.works/?utm_source=df-aug-2026)
   - [BitCam: The 1-Bit Camera App Turns 2.0](https://bitcam-app.com/)
   - [★ What Is the Point of the DMA?](https://daringfireball.net/2026/08/what_is_the_point_of_the_dma)
 - darkreading
@@ -37,6 +39,7 @@
   - [Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/)
   - [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)
   - [Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/)
+  - [Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC](https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/)
   - [Trump bought SpaceX shares two weeks after blockbuster IPO](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/)
   - [Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/)
 - The Block
@@ -50,6 +53,8 @@
   - [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa)
   - [The cat-and-mouse game over 3D-printed guns has begun](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul)
   - [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [CVE-2026-69414 ShieldBreak Zero-Day: No Patch, and CISA BOD 26-04 Gives You 14 Days](https://blog.qualys.com/category/product-tech/vulnmgmt-detection-response)
 - Vulners.com RSS Feed
   - [CVE-2022-30983](https://vulners.com/nvd/NVD:CVE-2022-30983?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13213 Bluetooth HAS: NULL-pointer dereference DoS when a bonded peer reconnects before bt_has_register](https://vulners.com/cvelist/CVELIST:CVE-2026-13213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -120,5 +125,10 @@
   - [The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe](https://www.wired.com/story/food-safety-gear-salmonella/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜小米把「OK」藏进玄戒O3,雷军:不建议拆开看彩蛋/vivo官宣X500系列/MINI车机接入阿里与DeepSeek模型](https://www.ifanr.com/1676529?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [追觅造车一周年：展车地库蒙灰，千人团队剩约百人，烧掉的钱谁来买单？](https://www.ifanr.com/1676439?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [ResNet作者任少卿机器人创业！公司注册就独角兽了](https://www.qbitai.com/2026/08/478675.html)
 - 黑海洋
   - [特朗普在今年六月购买了SpaceX的股票](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%BB%8A%E5%B9%B4%E5%85%AD%E6%9C%88%E8%B4%AD%E4%B9%B0%E4%BA%86SpaceX%E7%9A%84%E8%82%A1%E7%A5%A8)
