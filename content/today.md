@@ -16,6 +16,8 @@
   - [★ What Is the Point of the DMA?](https://daringfireball.net/2026/08/what_is_the_point_of_the_dma)
 - darkreading
   - [Exploited Zimbra Flaw Highlights Shrinking Window to Patch](https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch)
+- Emergent Minds | paddo.dev
+  - [GitHub Blocked Its Own Copilot: The August 17 Outage](https://paddo.dev/blog/github-blocked-its-own-copilot/)
 - Hacker News Frontpage
   - [A Claude Code skill that recovers export-blocked Kindle highlights](https://github.com/l3a0/claude-plugins)
   - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
@@ -44,6 +46,7 @@
 - The Decoder
   - [Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch](https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/)
 - The Verge
+  - [Lenovo confirms Legion Go issues after gamers report bricked devices](https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked)
   - [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa)
   - [The cat-and-mouse game over 3D-printed guns has begun](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul)
   - [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement)
@@ -109,6 +112,7 @@
   - [CVE-2026-77567](https://vulners.com/nvd/NVD:CVE-2026-77567?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77634](https://vulners.com/nvd/NVD:CVE-2026-77634?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77635](https://vulners.com/nvd/NVD:CVE-2026-77635?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [UBUNTU-CVE-2026-75803](https://vulners.com/osv/OSV:UBUNTU-CVE-2026-75803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Bitdefender VPN Review: Fast and Affordable Privacy](https://www.wired.com/review/bitdefender-vpn/)
   - [Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It](https://www.wired.com/story/sous-vide-salmonella-eggs/)
