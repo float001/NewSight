@@ -8,11 +8,16 @@
   - [【车找人】GPT 20x 0.2 倍率 账号透明车｜状态、账单，全程自己可查 自己充值 自己看消耗](https://2libra.com/post/promotion/TEWjmeT)
   - [【💰】今天头像透明的挺多啊](https://2libra.com/post/forum-function/snzzWWO)
   - [【💰】好像我是站内第一个获得此徽章的幸运狗?](https://2libra.com/post/forum-function/F8GgTGV)
+  - [【💰】邀请注册烧饼社区](https://2libra.com/post/promotion/xduBPk7)
+  - [【💰】青岛旅游求推荐/避雷](https://2libra.com/post/travel-tips/Dyy0Pel)
   - [你有没有那样一瞬间, 觉得自己老了?](https://2libra.com/post/personal-life/AWtyDGd)
   - [关于 AI 是司机还是乘客的思考](https://2libra.com/post/vibe-coding/WEzPnfc)
+  - [发个自己的小游戏咯](https://2libra.com/post/game-share/cGMaPC2)
   - [大家在五小时限额提前到的时候会干些什么...](https://2libra.com/post/ai-gateway/ynTlXBM)
   - [大家的浏览器上，最常用的扩展插件都有什么呢？](https://2libra.com/post/browser-extensions/HTg7vMt)
   - [心理成年：承认自己不再年轻，允许人生进入中年](https://2libra.com/post/midlife-support-club/q8Z0yxZ)
+  - [户子姐也太好看了，这的身材真好，不亏是顶流，业界世一美 [ 1P ]](https://2libra.com/post/hotspot-tracking/z85xKlc)
+  - [搓了个找无版权视频照片插画素材的网站](https://2libra.com/post/promotion/cIQgZDu)
   - [痛苦啊 质变之后我的金币雨变成多说多写了](https://2libra.com/post/forum-function/o4DwnKh)
   - [眼睁睁看着喜欢的社区慢慢变味是什么感受](https://2libra.com/post/social-observation/55wcAo7)
   - [被选上电影试镜了](https://2libra.com/post/personal-life/0v3rMF3)
@@ -27,10 +32,13 @@
   - [CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets](https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase tokenized stocks go live on Base with Chainlink price feeds](https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase-affiliated advocacy group endorses candidates for US midterms](https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved](https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gemini plans to distribute crypto prediction markets through Apex brokerages](https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%](https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US targets Iran’s crypto sector, cites over $100M in oil-linked payments](https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved](https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [[Sponsor] Finalist 4: Inspired by Paper Day Planners](https://www.finalist.works/?utm_source=df-aug-2026)
   - [BitCam: The 1-Bit Camera App Turns 2.0](https://bitcam-app.com/)
@@ -56,6 +64,8 @@
   - [New Guidance Helps Businesses Verify Quantum-Safe Hardware Claims](https://www.infosecurity-magazine.com/news/guidance-verify-quantum-safe/)
 - johndcook.com
   - [Numerical (in)stability of recurrece relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/)
+- Kali Linux Tutorials
+  - [git cherry-pick Command: Apply Commits from Another Branch](https://kalilinuxtutorials.com/git-cherry-pick/)
 - pluralistic.net
   - [Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)](https://pluralistic.net/2026/08/24/elbows-really-up/)
 - Sploitus.com Exploits RSS Feed
@@ -82,7 +92,9 @@
   - [US escalates Iran pressure with sanctions on crypto, aviation, shipping and gold as part of ‘economic D-Day’](https://www.theblock.co/news/regulation/2026-08-24-us-escalates-iran-pressure-sanctions-crypto-aviation-shipping-gold-economic-d-day-412648)
 - The Decoder
   - [Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch](https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/)
+  - [Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks](https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/)
 - The Verge
+  - [Android is getting its own weird dots to cure car sickness](https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure)
   - [Lenovo confirms Legion Go issues after gamers report bricked devices](https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked)
   - [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa)
   - [The cat-and-mouse game over 3D-printed guns has begun](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul)
