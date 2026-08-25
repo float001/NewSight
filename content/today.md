@@ -5,6 +5,7 @@
   - [chatgpt 的 plus 要恢复 5 小时限额了。](https://2libra.com/post/ai-updates/0-0Du8z)
   - [Openai 成功打击中转站 MVP 结算画面](https://2libra.com/post/ai-gateway/G0m6-uO)
   - [OpenCode Go 首充优惠没了? 可以用 Command Code 平替 OpenCode （DeepSeek V4 Flash）](https://2libra.com/post/ai-programming/zkW3dPn)
+  - [【Bug】金币「历史记录」按日期筛选,选「今天」显示暂无数据](https://2libra.com/post/community/yr4n7kQ)
   - [【兑换码】🔥 周二福利！ Proxy001 送 4 个住宅 IP CDK | 1 亿 + 真实 IP 覆盖 230 国 99.8% 连通率](https://2libra.com/post/promotion/3qEZrHC)
   - [【投票】好奇 2 站的男女占比如何？](https://2libra.com/post/social-observation/NJVo_Va)
   - [【车找人】GPT 20x 0.2 倍率 账号透明车｜状态、账单，全程自己可查 自己充值 自己看消耗](https://2libra.com/post/promotion/TEWjmeT)
@@ -14,6 +15,7 @@
   - [【💰】青岛旅游求推荐/避雷](https://2libra.com/post/travel-tips/Dyy0Pel)
   - [你有没有那样一瞬间, 觉得自己老了?](https://2libra.com/post/personal-life/AWtyDGd)
   - [关于 AI 是司机还是乘客的思考](https://2libra.com/post/vibe-coding/WEzPnfc)
+  - [养狗子的都吃的什么狗粮啊](https://2libra.com/post/recommendations/vIdw7If)
   - [发个自己的小游戏咯](https://2libra.com/post/game-share/cGMaPC2)
   - [大家在五小时限额提前到的时候会干些什么...](https://2libra.com/post/ai-gateway/ynTlXBM)
   - [大家的浏览器上，最常用的扩展插件都有什么呢？](https://2libra.com/post/browser-extensions/HTg7vMt)
@@ -30,23 +32,29 @@
   - [赛博京剧变脸](https://2libra.com/post/personal-works/iFYz3Yu)
   - [金币与等级体系调整说明](https://2libra.com/post/product-updates/eB9kF0y)
   - [领导让我用免费模型做项目，完蛋了，又要付费上班](https://2libra.com/post/large-models/1P3E_ze)
+- Chainalysis Blog
+  - [OFAC Targets Ministry of Intelligence, Crypto-for-Oil Payments in Latest Iran Sanctions](https://www.chainalysis.com/blog/ofac-iran-oil-payments-august-2026/)
+  - [Operation Lighthouse: Chainalysis’s CSAM-Disruption Sprint IDs Suspects in 125 Countries](https://www.chainalysis.com/blog/operation-lighthouse-august-2026/)
 - CoinTelegraph
   - [Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B](https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M](https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend](https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BNB Chain activates Pasteur hard fork to strengthen bridge security](https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets](https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Chainalysis-led operation flags 7,700 accounts in child abuse probe](https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase tokenized stocks go live on Base with Chainlink price feeds](https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase-affiliated advocacy group endorses candidates for US midterms](https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved](https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gemini plans to distribute crypto prediction markets through Apex brokerages](https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [India plans first tokenized bonds using wholesale CBDC: Report](https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Shipyard winds down IPFS work after Protocol Labs ends funding](https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered becomes first bank distributor of HKD stablecoin](https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%](https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Thailand moves closer to Bitcoin, Ether ETFs with draft rules](https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US targets Iran’s crypto sector, cites over $100M in oil-linked payments](https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
+  - [Chainalysis-led operation flags 7,700 accounts in child abuse probe](https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
   - [Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved](https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [[Sponsor] Finalist 4: Inspired by Paper Day Planners](https://www.finalist.works/?utm_source=df-aug-2026)
@@ -58,23 +66,32 @@
   - [Keycloak authentication bypass, Microsoft active exploit, WordlistLoader/SynkLoader malware](https://defend.network/briefings/keycloak-critical-microsoft-wordlistloader-synkloader-2026-08-25.html)
 - Emergent Minds | paddo.dev
   - [GitHub Blocked Its Own Copilot: The August 17 Outage](https://paddo.dev/blog/github-blocked-its-own-copilot/)
+- GuidePoint Security
+  - [How Play Achieves Encryption](https://www.guidepointsecurity.com/blog/how-play-achieves-encryption/)
 - Hacker News Frontpage
   - [A Claude Code skill that recovers export-blocked Kindle highlights](https://github.com/l3a0/claude-plugins)
+  - [France's tax agency got hacked (in French)](https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/)
   - [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
   - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
   - [Moon](https://ciechanow.ski/moon/)
   - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
+  - [OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users](https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/)
   - [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
   - [Why some US restaurants are banning tips](https://www.bbc.com/news/articles/c4g36yze692o)
 - herman.bearblog.dev
   - [Extending life perception](https://herman.bearblog.dev/extending-life-perception/)
 - Horizon3.ai
+  - [Horizon3 Names Chad Keefer Vice President of Federal Sales](https://horizon3.ai/news/press-release/chad-keefer-vp-federal-sales/)
+  - [How a Real Estate Company Turned a SQL Lockout Into Actionable Security Insight](https://horizon3.ai/customer-story/real-estate-hidden-privilege-risk/)
   - [Operationalize CTEM with NodeZero®](https://horizon3.ai/downloads/factsheets/operationalize-ctem-with-nodezero/)
 - idiallo.com
   - [Foot Guns for Sale](https://idiallo.com/blog/foot-gun-for-sale)
+- IEEE Spectrum
+  - [IBM Built the Cold War’s Most Powerful Code Breaker for the NSA](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
 - infosecurity-magazine.com
   - [Australia Warns of Active Exploitation of Critical TeamCity Server Flaw](https://www.infosecurity-magazine.com/news/australia-exploitation-teamcity/)
   - [Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown](https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/)
+  - [Fake Recruiter Scams Target Corporate Credentials on Mobile](https://www.infosecurity-magazine.com/news/fake-recruiter-scams-corporate/)
   - [New Guidance Helps Businesses Verify Quantum-Safe Hardware Claims](https://www.infosecurity-magazine.com/news/guidance-verify-quantum-safe/)
   - [ReliaQuest Rejects Compromise Claims After ShinyHunters Incident](https://www.infosecurity-magazine.com/news/reliaquest-not-compromised-by/)
   - [US Sanctions Mabna Institute Hackers for Iranian Cyber-Attacks](https://www.infosecurity-magazine.com/news/us-sanctions-mabna-institute/)
@@ -83,6 +100,8 @@
 - Kali Linux Tutorials
   - [git cherry-pick Command: Apply Commits from Another Branch](https://kalilinuxtutorials.com/git-cherry-pick/)
   - [git fetch vs git pull: How They Work and When to Use Each](https://kalilinuxtutorials.com/git-fetch-vs-git-pull/)
+- MIT Technology Review
+  - [The Download: smarter AI in schools, and a robot “carnival” in Shanghai](https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/)
 - pluralistic.net
   - [Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)](https://pluralistic.net/2026/08/24/elbows-really-up/)
 - shkspr.mobi
@@ -92,15 +111,20 @@
 - Taxodium
   - [香港雞公嶺](https://taxodium.ink/hong-kong-kai-kung-leng.html)
 - TechCrunch
+  - [Accel-backed Keenable is indexing the web for AI agents](https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/)
   - [Alabama launches investigation into OpenAI’s hack of Hugging Face](https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/)
   - [Amazon hikes hardware prices by 60 percent, blaming memory shortage](https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/)
   - [Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/)
+  - [Andy Dunn’s startup Pie becomes less of an events app and more of a social network](https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/)
   - [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)
+  - [Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II](https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/)
   - [Fitbit founders launch Luffu Link, an LTE health and safety band](https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/)
   - [India’s Airbound bags $37M to take on trucks with rocket-like drones](https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/)
   - [Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/)
   - [Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC](https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/)
   - [Trump bought SpaceX shares two weeks after blockbuster IPO](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/)
+  - [Uber launches live video streaming for teen accounts](https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/)
+  - [WhatsApp tightens account security with stronger two-step verification and more](https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/)
   - [Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/)
   - [‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux](https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/)
 - The Block
@@ -113,16 +137,26 @@
   - [US escalates Iran pressure with sanctions on crypto, aviation, shipping and gold as part of ‘economic D-Day’](https://www.theblock.co/news/regulation/2026-08-24-us-escalates-iran-pressure-sanctions-crypto-aviation-shipping-gold-economic-d-day-412648)
 - The Decoder
   - [Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems](https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/)
+  - [Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated](https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/)
   - [Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch](https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/)
   - [Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks](https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/)
+  - [Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership](https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/)
 - The Verge
   - [Android is getting its own weird dots to cure car sickness](https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure)
+  - [Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra](https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch)
+  - [Apple&#8217;s new M6 chip gets more cores and more AI compute](https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio)
+  - [Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices](https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs)
   - [Greenworks’ MaximusZ electric riding mower has five motors and a few compromises](https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price)
+  - [GuliKit’s Switch 2 TV dock gives me one feature I’ve missed when traveling](https://www.theverge.com/tech/983020/gulikit-dock-nintendo-switch-2-hands-on)
   - [Lenovo confirms Legion Go issues after gamers report bricked devices](https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked)
   - [OpenAI subpoenaed by Alabama AG over Hugging Face hack](https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack)
   - [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa)
   - [The cat-and-mouse game over 3D-printed guns has begun](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul)
+  - [The lens in Wyze’s new $40 indoor camera retracts for privacy](https://www.theverge.com/tech/961785/wyze-indoor-cam-pan-tilt-2k-night-vision)
+  - [The OLED Xbox Ally X20 officially starts at $1,300](https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300)
   - [The TCL Note A1 is a kinder, gentler tablet](https://www.theverge.com/tech/984086/tcl-note-a1-nxtpaper-tablet-review)
+  - [Uber is letting parents check in on their teens through drivers’ selfie cameras](https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera)
+  - [Where to preorder the updated Mac Mini and Mac Studio](https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder)
   - [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [CVE-2026-69414 ShieldBreak Zero-Day: No Patch, and CISA BOD 26-04 Gives You 14 Days](https://blog.qualys.com/category/product-tech/vulnmgmt-detection-response)
