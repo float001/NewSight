@@ -17,6 +17,8 @@
   - [Apple Polishing Cloth Is Now Just $9](https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/)
   - [POSIWID: The Purpose of a System Is What It Does](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does)
   - [‘Surprise and Shine’ Apple Event: Wednesday 9 September](https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/)
+- darkreading
+  - [Dark Caracal Adds New Malware to Cyber Espionage Arsenal](https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal)
 - Google DeepMind Blog
   - [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/)
 - Hacker News Frontpage
@@ -24,6 +26,7 @@
   - [CDs vs. NIMBY](https://www.betonit.ai/p/cds-vs-nimby)
   - [Dallas startup enriches Uranium](https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu)
   - [IBM Unveils Next Generation Dual-Architecture Processor](https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone)
+  - [Qwen 3.8 27B Uncensored – Testing the Uncensored Qwen Model](https://imageat.com/models/qwen-3-8-27b-uncensored)
   - [Show HN: I made a retirement simulator: 125 years of data, 25 countries](https://foresightplanner.com/)
   - [Show HN: We built the smallest dual-band aircraft tracker](https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/)
   - [Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]](https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf)
@@ -67,6 +70,7 @@
   - [vaf exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ANDREIVERSE-VAF&utm_source=rss&utm_medium=rss)
   - [Wynis exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SNEAKYSECDOGGO-WYNIS&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Anthropic continues compute-gobbling streak in $45 billion deal with Nscale](https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/)
   - [Apple is holding its iPhone launch event on September 9](https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/)
   - [Capital F closes $17M debut fund with goal to back the future of the ‘female economy’](https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/)
   - [Flipboard acquires Graze, the feed builder working to monetize the open social web](https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/)
@@ -86,6 +90,8 @@
   - [Apple announces September iPhone launch event](https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date)
   - [Apple Maps has ads now](https://www.theverge.com/tech/985249/apple-maps-iphone-ads)
   - [Being a mom is hard — the heat is making it harder](https://www.theverge.com/news/985225/heat-stress-children-climate-change-study)
+  - [Nvidia is about to be a hundred-billion-dollar-a-quarter company](https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue)
+  - [OpenAI’s rogue AI model incident was worse than we thought](https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr)
   - [The Switch 2’s $50 price increase is happening next week](https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa)
 - Wired
   - [Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety](https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/)
