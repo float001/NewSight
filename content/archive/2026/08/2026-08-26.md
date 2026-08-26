@@ -3,6 +3,7 @@
 - 2Libra
   - [2026-08-26 第一帖吗？](https://2libra.com/post/personal-life/uPEpJBD)
   - [8 月 26 日资本市场大事提醒](https://2libra.com/post/stock-market/XvB9Bnf)
+  - [NTFSmac 硬盘读写下午搞定了！](https://2libra.com/post/tool-sharing/deDmfO8)
   - [《巫师 3》要出重制版了！](https://2libra.com/post/game-discussion/IenE0DR)
   - [「都听我说」史诗级增强](https://2libra.com/post/forum-function/0UmK8WH)
   - [【兑换码】「一周年反响回馈」庆祝 🎉 大家多了一个魔芋基地](https://2libra.com/post/interest-groups/NGJYUfX)
@@ -34,6 +35,7 @@
   - [我竟然有徽章了](https://2libra.com/post/forum-function/i69cbh2)
   - [摩拜共享单车押金可以退了](https://2libra.com/post/deal-hunter/7IIdxrQ)
   - [最新吃瓜 华为笑死我了 这选址是有点说法的](https://2libra.com/post/social-observation/BUdHtVw)
+  - [最近经常刷到男性觉醒的视频，觉醒的还不够，有太多龟男。](https://2libra.com/post/social-observation/Ll16d8t)
   - [有大佬知道这是哪个论坛嘛？](https://2libra.com/post/questions/ymBiXam)
   - [来晒晒称号啦](https://2libra.com/post/forum-function/kChibgN)
   - [欧耶 经历了一周的 debuff 终于再次抽中金币雨了 这次我绝对不会点质变](https://2libra.com/post/forum-function/dKN_XGS)
@@ -51,6 +53,7 @@
   - [ICE Wants the Country’s Voter Data](https://www.404media.co/ice-wants-the-countrys-voter-data/)
   - [Israel Is Running a Synthetic Think Tank to Influence AI Search Results](https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/)
 - Ars Technica
+  - [IBM's new Granite 4.2 models ride the wave of interest in local LLMs](https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/)
   - [The world's busiest spaceport is about to get a lot quieter, at least for now](https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/)
 - blog.jim-nielsen.com
   - [Have You Heard the Good News About Microlighter?](https://blog.jim-nielsen.com/2026/shipping-microlighter/)
@@ -67,6 +70,7 @@
   - [Solana transactions hit record 4.2B as SOL rallies 40%](https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report](https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis](https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Taurus links digital asset platforms to Swift’s blockchain ledger](https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tornado Cash developer Roman Storm’s retrial delayed to April 2027](https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US banking groups plan nationwide blockchain network for 2027](https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [World Liberty Financial launches USD1 natively on Canton Network](https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -104,6 +108,8 @@
   - [U.S. gov't moves to suppress pushback on data centers](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them)
 - HackerNoon
   - [How to Keep an AI Voice Consistent Across Every Video Clip](https://hackernoon.com/how-to-keep-an-ai-voice-consistent-across-every-video-clip?source=rss)
+- IEEE Spectrum
+  - [A New NASA Design Turbocharges Nuclear Spacecraft](https://spectrum.ieee.org/bimodal-nuclear-spacecraft)
 - InfoSec Write-ups - Medium
   - [../../ to Admin for a $,$$$ Bounty](https://infosecwriteups.com/to-admin-for-a-bounty-b946f781607f?source=rss----7b722bfd1b8d---4)
   - [[HS] Casino Writeup](https://infosecwriteups.com/hs-casino-writeup-a82d5df7ad37?source=rss----7b722bfd1b8d---4)
@@ -116,6 +122,7 @@
   - [How I Made Over $10,000 Just by Chaining Multiple IDORs in a Single Web App (All from the Share…](https://infosecwriteups.com/how-i-made-over-10-000-just-by-chaining-multiple-idors-in-a-single-web-app-all-from-the-share-4d425a15aa37?source=rss----7b722bfd1b8d---4)
   - [The WAF Blocked My XSS — So I Rotated What It Was Reading](https://infosecwriteups.com/the-waf-blocked-my-xss-so-i-rotated-what-it-was-reading-47bc630c17ae?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
+  - [Average Cyber Insurance Losses Increase Despite Fewer Claims](https://www.infosecurity-magazine.com/news/cyber-insurance-losses-increase/)
   - [Linux Foundation Introduces TRACE Standard for AI Runtime Evidence](https://www.infosecurity-magazine.com/news/linux-foundation-trace-standard-ai/)
 - jeffgeerling.com
   - [Debugging Ubiquiti's 5G Backup on AT&T](https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/)
@@ -131,6 +138,8 @@
   - [Remote Desktop Protocol + NLA Honeypots](https://www.pwndefend.com/2026/08/26/remote-desktop-protocol-nla-honeypots/)
 - Securelist
   - [Exploits and vulnerabilities in Q2 2026](https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/)
+- shkspr.mobi
+  - [Gadget Review: Thermal Master P3 Macro Lens ★★★★⯪](https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/)
 - simonwillison.net
   - [EVE Online: The Move to Python 3 Begins!](https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/)
 - Sploitus.com Exploits RSS Feed
@@ -138,8 +147,10 @@
   - [CVE-2023-25136 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ADHIKARA13-CVE-2023-25136&utm_source=rss&utm_medium=rss)
   - [CVE-2024-26229-BOF exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-APKC-CVE-2024-26229-BOF&utm_source=rss&utm_medium=rss)
   - [CVE-2024-31317-PoC-Deployer exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WEBLDIX-CVE-2024-31317-POC-DEPLOYER&utm_source=rss&utm_medium=rss)
+  - [pentx-vapt-skill exploit](https://sploitus.com/exploit?id=F91AE1F4-0873-5F46-B22C-E577E43A3F12&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Claude Cowork finally remembers what you told the app in chat](https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/)
+  - [Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses](https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/)
   - [India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call](https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/)
   - [Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious](https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/)
   - [Life360 expands pet tracking with new $8 scannable tags and zoomie alerts](https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/)
@@ -163,9 +174,11 @@
   - [South Korea’s Shinhan to use Visa’s stablecoin platform for ‘future finance’ initiatives](https://www.theblock.co/news/web3/2026-08-26-south-koreas-shinhan-visa-stablecoin-412765)
   - [Tornado Cash developer Roman Storm’s retrial pushed back to April 2027](https://www.theblock.co/news/regulation/2026-08-26-tornado-cash-roman-storm-retrial-april-2027-412761)
   - [ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain](https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736)
+  - [‘Altitude sickness can wait’: Bitcoin’s historic short squeeze, Bessent catalyst may signal bull-market reset, analysts say](https://www.theblock.co/news/markets/2026-08-26-altitude-sickness-can-wait-bitcoins-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say-412785)
 - The Decoder
   - [Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO](https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo/)
   - [Bill Gates warns AI is more dangerous than the tech industry will admit](https://the-decoder.com/bill-gates-warns-ai-is-more-dangerous-than-the-tech-industry-will-admit/)
+  - [Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google](https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/)
   - [Google launches Gemini for legal work to automate contracts and research](https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/)
   - [IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0](https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0/)
   - [OpenAI's first custom chip "Jalapeño" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks](https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/)
@@ -182,6 +195,7 @@
   - [Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen](https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17)
   - [Polestar claims it was blindsided by sales ban](https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump)
   - [Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories](https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories)
+  - [The second-generation Bose QuietComfort Headphones are good, but don’t stand out](https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review)
   - [The Witcher 3 is getting a remaster](https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer)
   - [Trump is upping the price of Big Tech’s favorite visa](https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration)
 - troyhunt.com
@@ -267,6 +281,7 @@
   - [MinimalReproducer](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JPMARTINS-MINIMALREPRODUCER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode](https://vulners.com/thn/THN:7EF691BC14CCF18A6B7A5B103D4869C2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nuclei](https://vulners.com/kitploit/KITPLOIT:3097141731968574908?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [pentx-vapt-skill](https://vulners.com/githubexploit/F91AE1F4-0873-5F46-B22C-E577E43A3F12?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sap_igs_xxe](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-VLADIMIR-IVANOV-GIT-SAP_IGS_XXE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sdnpwn](https://vulners.com/kitploit/KITPLOIT:8150000277469215268?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Snoopy](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SENSEPOST-SNOOPY?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -283,6 +298,7 @@
   - [25% Off Adidas Promo Code | August 2026](https://www.wired.com/story/adidas-promo-code/)
   - [A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread](https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/)
   - [AI Slop Is Ruining Cute Animals on the Internet](https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/)
+  - [Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+](https://www.wired.com/gallery/best-wifi-routers/)
   - [Google Pixel 11 Pro Fold Review: Better, Not Best](https://www.wired.com/review/google-pixel-11-pro-fold/)
   - [Green Chef Meal Kit Review (2026): Great Ingredients, Layered Flavor](https://www.wired.com/review/green-chef-meal-kit-2026/)
   - [How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range](https://www.wired.com/story/how-ikea-turned-a-controller-thumbstick-into-the-star-of-its-xbox-gaming-range/)
