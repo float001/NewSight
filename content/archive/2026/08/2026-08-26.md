@@ -40,6 +40,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Solana transactions hit record 4.2B as SOL rallies 40%](https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report](https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US banking groups plan nationwide blockchain network for 2027](https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [World Liberty Financial launches USD1 natively on Canton Network](https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Dolly Parton Dies at 80](https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html)
@@ -66,6 +67,17 @@
   - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
 - HackerNoon
   - [How to Keep an AI Voice Consistent Across Every Video Clip](https://hackernoon.com/how-to-keep-an-ai-voice-consistent-across-every-video-clip?source=rss)
+- InfoSec Write-ups - Medium
+  - [../../ to Admin for a $,$$$ Bounty](https://infosecwriteups.com/to-admin-for-a-bounty-b946f781607f?source=rss----7b722bfd1b8d---4)
+  - [[HS] Casino Writeup](https://infosecwriteups.com/hs-casino-writeup-a82d5df7ad37?source=rss----7b722bfd1b8d---4)
+  - [Agent P — Writeup](https://infosecwriteups.com/agent-p-writeup-5e40f134ba94?source=rss----7b722bfd1b8d---4)
+  - [Bypassing AI Scanner Defenses to Exfiltrate Sensitive Information — PortSwigger Web Security…](https://infosecwriteups.com/bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information-portswigger-web-security-346b99f322ef?source=rss----7b722bfd1b8d---4)
+  - [Hack The Box : Cohort Full Walkthrough ( Linux ; Very Easy )](https://infosecwriteups.com/hack-the-box-cohort-full-walkthrough-linux-very-easy-a68197c9dbce?source=rss----7b722bfd1b8d---4)
+  - [How a Single HTTP Redirect Bypassed SSRF Filters on 4 Programs Over 8 Years](https://infosecwriteups.com/how-a-single-http-redirect-bypassed-ssrf-filters-on-4-programs-over-8-years-4f67437ba6c7?source=rss----7b722bfd1b8d---4)
+  - [How I Chained Three Bugs to XSS an Intigriti CTF — IDOR + DOM Clobbering + DOMPurify 3.0.9 Bypass](https://infosecwriteups.com/how-i-chained-three-bugs-to-xss-an-intigriti-ctf-idor-dom-clobbering-dompurify-3-0-9-bypass-25b74fc7afc7?source=rss----7b722bfd1b8d---4)
+  - [How I Found a GraphQL Endpoint Leaking Millions](https://infosecwriteups.com/how-i-found-a-graphql-endpoint-leaking-millions-5cbfd55d994e?source=rss----7b722bfd1b8d---4)
+  - [How I Made Over $10,000 Just by Chaining Multiple IDORs in a Single Web App (All from the Share…](https://infosecwriteups.com/how-i-made-over-10-000-just-by-chaining-multiple-idors-in-a-single-web-app-all-from-the-share-4d425a15aa37?source=rss----7b722bfd1b8d---4)
+  - [The WAF Blocked My XSS — So I Rotated What It Was Reading](https://infosecwriteups.com/the-waf-blocked-my-xss-so-i-rotated-what-it-was-reading-47bc630c17ae?source=rss----7b722bfd1b8d---4)
 - jeffgeerling.com
   - [Debugging Ubiquiti's 5G Backup on AT&T](https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/)
 - pluralistic.net
@@ -92,6 +104,7 @@
   - [Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit](https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/)
 - The Block
   - [Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line](https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718)
+  - [Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows](https://www.theblock.co/news/web3/2026-08-26-kalshi-latest-form-d-412749)
   - [RockawayX acquires Relayer Capital to expand crypto offerings in US](https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743)
   - [ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain](https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736)
 - The Decoder
@@ -158,19 +171,36 @@
 - wheresyoured.at
   - [The AI Hater's Manifesto](https://www.wheresyoured.at/the-ai-haters-manifesto/)
 - Wired
+  - [25% Off Adidas Promo Code | August 2026](https://www.wired.com/story/adidas-promo-code/)
   - [Google Pixel 11 Pro Fold Review: Better, Not Best](https://www.wired.com/review/google-pixel-11-pro-fold/)
+  - [HP Coupon Codes and Deals August 2026](https://www.wired.com/story/hp-coupon-code/)
+  - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
+  - [PlayStation Discount Code: Save on PS5 Games August 2026](https://www.wired.com/story/playstation-discount-code/)
+  - [Target Promo Code: $50 Off | August 2026](https://www.wired.com/story/target-promo-code/)
   - [The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall (2026)](https://www.wired.com/story/early-labor-day-kitchen-appliance-deals-2026/)
   - [The US Just Recorded Its First 2 Measles Deaths This Year](https://www.wired.com/story/us-recorded-first-measles-deaths-2026/)
+  - [Tuft & Needle Promo Codes: 30% Off | August 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
+  - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
   - [‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance](https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/)
 - 不安全
+  - [../../ to Admin for a $,$$$ Bounty](https://buaq.net/go-437763.html)
+  - [[HS] Casino Writeup](https://buaq.net/go-437762.html)
   - [A free AI model called Ox Alpha reverse engineered RevHeadz's encrypted engine audio banks in under 2 hours.](https://buaq.net/go-437742.html)
+  - [How I Chained Three Bugs to XSS an Intigriti CTF — IDOR + DOM Clobbering + DOMPurify 3.0.9 Bypass](https://buaq.net/go-437760.html)
+  - [How I Made Over $10,000 Just by Chaining Multiple IDORs in a Single Web App (All from the Share…](https://buaq.net/go-437761.html)
+  - [isms-builder v1.37.5.3](https://buaq.net/go-437757.html)
   - [nerva v1.69.2](https://buaq.net/go-437743.html)
   - [Newly discovered vulnerable Driver.](https://buaq.net/go-437740.html)
   - [sj v2.8.1](https://buaq.net/go-437723.html)
+  - [Yac 2.4.0发布 - 小值读取提升70%](https://buaq.net/go-437753.html)
+  - [基于用户反馈微软宣布将白板数据删除时间延后1个月 但用户仍然需要尽快备份数据](https://buaq.net/go-437754.html)
+  - [研究发现微软在画图/照片里为AI图片添加像素级盲水印 截图/裁剪也不能去除水印](https://buaq.net/go-437755.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文](https://www.ifanr.com/1676731?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 风雪之隅(鸟哥)
+  - [Yac 2.4.0发布 - 小值读取提升70%](https://www.laruence.com/2026/08/26/6566.html)
 - 黑海洋
   - [Anthropic改进Claude Cowork的记忆功能](https://blog.upx8.com/Anthropic%E6%94%B9%E8%BF%9BClaude-Cowork%E7%9A%84%E8%AE%B0%E5%BF%86%E5%8A%9F%E8%83%BD)
   - [Meta与多州检察长就诉讼讨论庭审中和解](https://blog.upx8.com/Meta%E4%B8%8E%E5%A4%9A%E5%B7%9E%E6%A3%80%E5%AF%9F%E9%95%BF%E5%B0%B1%E8%AF%89%E8%AE%BC%E8%AE%A8%E8%AE%BA%E5%BA%AD%E5%AE%A1%E4%B8%AD%E5%92%8C%E8%A7%A3)
