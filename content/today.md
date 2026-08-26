@@ -2,6 +2,8 @@
 
 - 2Libra
   - [签到动画不错，可惜我是大失败](https://2libra.com/post/forum-function/VWn9Y-v)
+- 404 Media
+  - [Scientists Discover Vast Underground 'Anomaly' on Mars](https://www.404media.co/scientists-discover-vast-underground-anomaly-on-mars/)
 - CoinTelegraph
   - [77% of Americans see crypto in retirement plans as risky: Survey](https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chainalysis estimates $457B in taxable crypto activity, says CARF misses most](https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -11,12 +13,17 @@
 - Hacker News Frontpage
   - [CDs vs. NIMBY](https://www.betonit.ai/p/cds-vs-nimby)
   - [Show HN: I made a retirement simulator: 125 years of data, 25 countries](https://foresightplanner.com/)
+  - [Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]](https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf)
   - [Tailcat: Secure Tunnels in Seconds (Tailscale)](https://github.com/tailscale/tailcat)
 - HackerNoon
   - [How to Avoid Burnout as a Solo AI Filmmaker: The System I Built for Lost Garden](https://hackernoon.com/how-to-avoid-burnout-as-a-solo-ai-filmmaker-the-system-i-built-for-lost-garden?source=rss)
+- johndcook.com
+  - [What is the quality of software that AI writes?](https://www.johndcook.com/blog/2026/08/26/what-is-the-quality-of-software-that-ai-writes/)
 - TechCrunch
   - [Apple is holding its iPhone launch event on September 9](https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/)
   - [Capital F closes $17M debut fund with goal to back the future of the ‘female economy’](https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/)
+  - [Flipboard acquires Graze, the feed builder working to monetize the open social web](https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/)
+  - [Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations](https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/)
   - [Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states](https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/)
   - [US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate](https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/)
   - [What’s driving Sweden’s startup boom, from Lovable to Legora](https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/)
@@ -27,9 +34,12 @@
 - The Verge
   - [Apple announces September iPhone launch event](https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date)
   - [Apple Maps has ads now](https://www.theverge.com/tech/985249/apple-maps-iphone-ads)
+  - [Being a mom is hard — the heat is making it harder](https://www.theverge.com/news/985225/heat-stress-children-climate-change-study)
   - [The Switch 2’s $50 price increase is happening next week](https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa)
 - Wired
   - [Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety](https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/)
   - [FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure](https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/)
+  - [The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery](https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/)
+  - [There Are No Trans Women in the WNBA, so Right-Wingers Are Making Some Up](https://www.wired.com/story/there-are-no-trans-women-in-the-wnba-so-right-wingers-are-making-some-up/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
