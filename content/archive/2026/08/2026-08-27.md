@@ -3,26 +3,67 @@
 - 2Libra
   - [签到动画不错，可惜我是大失败](https://2libra.com/post/forum-function/VWn9Y-v)
 - 404 Media
+  - [A Student Said He Was a Hobby Plane Spotter. He Was Allegedly Taking Photos for the Chinese Government](https://www.404media.co/a-student-said-he-was-a-hobby-plane-spotter-he-was-allegedly-taking-photos-for-the-chinese-government/)
   - [Scientists Discover Vast Underground 'Anomaly' on Mars](https://www.404media.co/scientists-discover-vast-underground-anomaly-on-mars/)
 - CoinTelegraph
   - [77% of Americans see crypto in retirement plans as risky: Survey](https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chainalysis estimates $457B in taxable crypto activity, says CARF misses most](https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC sends crypto custody rule overhaul to White House for review](https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [Apple Polishing Cloth Is Now Just $9](https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/)
+  - [‘Surprise and Shine’ Apple Event: Wednesday 9 September](https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/)
 - Google DeepMind Blog
   - [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/)
 - Hacker News Frontpage
   - [CDs vs. NIMBY](https://www.betonit.ai/p/cds-vs-nimby)
+  - [Dallas startup enriches Uranium](https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu)
   - [Show HN: I made a retirement simulator: 125 years of data, 25 countries](https://foresightplanner.com/)
   - [Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]](https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf)
+  - [Super Curry Combat II Turbo – Legend Edition](https://curry-combat-2.com)
   - [Tailcat: Secure Tunnels in Seconds (Tailscale)](https://github.com/tailscale/tailcat)
+  - [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead/)
 - HackerNoon
   - [How to Avoid Burnout as a Solo AI Filmmaker: The System I Built for Lost Garden](https://hackernoon.com/how-to-avoid-burnout-as-a-solo-ai-filmmaker-the-system-i-built-for-lost-garden?source=rss)
 - johndcook.com
   - [What is the quality of software that AI writes?](https://www.johndcook.com/blog/2026/08/26/what-is-the-quality-of-software-that-ai-writes/)
+- Sploitus.com Exploits RSS Feed
+  - [awesome_windows_logical_bugs exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SAILAY1996-AWESOME_WINDOWS_LOGICAL_BUGS&utm_source=rss&utm_medium=rss)
+  - [booster exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ANATOL-BOOSTER&utm_source=rss&utm_medium=rss)
+  - [Clickjacking-Tester exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-D4VINCI-CLICKJACKING-TESTER&utm_source=rss&utm_medium=rss)
+  - [CVE-2017-8759 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BHDRESH-CVE-2017-8759&utm_source=rss&utm_medium=rss)
+  - [CVE-2021-21300 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALKENEPAN-CVE-2021-21300&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-2563-POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0AXZ-TOOLS-CVE-2025-2563-POC&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-55182 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0XROI-CVE-2025-55182&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-55182-LAB exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AMIKANEV-CVE-2025-55182-LAB&utm_source=rss&utm_medium=rss)
+  - [DivideAndScan exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SNOVVCRASH-DIVIDEANDSCAN&utm_source=rss&utm_medium=rss)
+  - [DockerSpy exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-UNDEADSEC-DOCKERSPY&utm_source=rss&utm_medium=rss)
+  - [duplicate-CVE-2025-4720- exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-XMYRONN-DUPLICATE-CVE-2025-4720-&utm_source=rss&utm_medium=rss)
+  - [frogy2.0 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IAMTHEFROGY-FROGY2.0&utm_source=rss&utm_medium=rss)
+  - [hpfeeds exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HPFEEDS-HPFEEDS&utm_source=rss&utm_medium=rss)
+  - [http2smugl exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NEEX-HTTP2SMUGL&utm_source=rss&utm_medium=rss)
+  - [keimpx exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NCCGROUP-KEIMPX&utm_source=rss&utm_medium=rss)
+  - [knob exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FRANCOZAPPA-KNOB&utm_source=rss&utm_medium=rss)
+  - [MetasploitMCP exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GH05TCREW-METASPLOITMCP&utm_source=rss&utm_medium=rss)
+  - [MITM_Intercept exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CYBERARK-MITM_INTERCEPT&utm_source=rss&utm_medium=rss)
+  - [mongobleed exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JOE-DESIMONE-MONGOBLEED&utm_source=rss&utm_medium=rss)
+  - [mtkclient exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BKERLER-MTKCLIENT&utm_source=rss&utm_medium=rss)
+  - [PE-Linux exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SAFEBUFFER-PE-LINUX&utm_source=rss&utm_medium=rss)
+  - [PMAT-labs exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HUSKYHACKS-PMAT-LABS&utm_source=rss&utm_medium=rss)
+  - [railsgoat exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OWASP-RAILSGOAT&utm_source=rss&utm_medium=rss)
+  - [SpoofThatMail exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-V4D1-SPOOFTHATMAIL&utm_source=rss&utm_medium=rss)
+  - [STEWS exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PALINDROMELABS-STEWS&utm_source=rss&utm_medium=rss)
+  - [TeamsImplant exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALLEVON412-TEAMSIMPLANT&utm_source=rss&utm_medium=rss)
+  - [TIWAP exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TOMBSTONEGHOST-TIWAP&utm_source=rss&utm_medium=rss)
+  - [URS exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JOSEPHLAI241-URS&utm_source=rss&utm_medium=rss)
+  - [vaf exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ANDREIVERSE-VAF&utm_source=rss&utm_medium=rss)
+  - [Wynis exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SNEAKYSECDOGGO-WYNIS&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Apple is holding its iPhone launch event on September 9](https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/)
   - [Capital F closes $17M debut fund with goal to back the future of the ‘female economy’](https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/)
   - [Flipboard acquires Graze, the feed builder working to monetize the open social web](https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/)
+  - [Google’s Gemini has a branding problem, and so does the rest of AI](https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/)
+  - [How do we explain OpenAI’s executive exodus?](https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/)
   - [Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations](https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/)
   - [Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states](https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/)
   - [US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate](https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/)
@@ -32,6 +73,8 @@
 - The Decoder
   - [Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition](https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/)
 - The Verge
+  - [All the ways Instagram and Facebook are changing for teens](https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes)
+  - [Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards](https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale)
   - [Apple announces September iPhone launch event](https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date)
   - [Apple Maps has ads now](https://www.theverge.com/tech/985249/apple-maps-iphone-ads)
   - [Being a mom is hard — the heat is making it harder](https://www.theverge.com/news/985225/heat-stress-children-climate-change-study)
@@ -39,6 +82,7 @@
 - Wired
   - [Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety](https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/)
   - [FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure](https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/)
+  - [OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers](https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/)
   - [The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery](https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/)
   - [There Are No Trans Women in the WNBA, so Right-Wingers Are Making Some Up](https://www.wired.com/story/there-are-no-trans-women-in-the-wnba-so-right-wingers-are-making-some-up/)
 - 代码审计星球
