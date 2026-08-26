@@ -59,6 +59,7 @@
   - [Inside the Warehouse Where Amazon Scans and Destroys Books for AI Training](https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/)
   - [Israel Is Running a Synthetic Think Tank to Influence AI Search Results](https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/)
 - Ars Technica
+  - [15,000 years of solar wind in four hours? A Seattle company gives it a go.](https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/)
   - [IBM's new Granite 4.2 models ride the wave of interest in local LLMs](https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/)
   - [The world's busiest spaceport is about to get a lot quieter, at least for now](https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/)
 - blog.jim-nielsen.com
@@ -117,6 +118,7 @@
   - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
   - [The End of Programming](https://pauldix.com/the-end-of-programming)
   - [The Feeling of Power (Asimov, 1958)](https://archive.org/details/1958-02_IF)
+  - [Twitter Viewer – View Twitter Without Account](https://twitterwebviewer.com/)
   - [U.S. gov't moves to suppress pushback on data centers](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them)
   - [X sends in the lawyers to shut down open source project](https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548)
 - HackerNoon
@@ -139,6 +141,7 @@
   - [Four in Five AI Tools Run with No IT Oversight, New Research Finds](https://www.infosecurity-magazine.com/news/four-in-five-ai-tools-no-it/)
   - [Interpol Operation Jackal IV Identifies 263 Cybercrime Suspects](https://www.infosecurity-magazine.com/news/interpol-operation-jackal-iv/)
   - [Linux Foundation Introduces TRACE Standard for AI Runtime Evidence](https://www.infosecurity-magazine.com/news/linux-foundation-trace-standard-ai/)
+  - [Tortoiseshell Expands Malware Toolset With New Backdoor, SSH Tunnel](https://www.infosecurity-magazine.com/news/tortoiseshell-new-backdoor-ssh/)
 - jeffgeerling.com
   - [Debugging Ubiquiti's 5G Backup on AT&T](https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/)
 - johndcook.com
@@ -147,6 +150,7 @@
 - MIT Technology Review
   - [The Download: the Kids issue arrives, and Bill Gates reveals his AI fears](https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/)
 - OpenZeppelin Blog
+  - [Miden Smart Contracts Audit](https://www.openzeppelin.com/news/miden-smart-contracts-audit)
   - [OpenZeppelin and Pacific Meta Partner to Bring Institutional-Grade Onchain Security to Japan](https://www.openzeppelin.com/news/openzeppelin-and-pacific-meta-partner-to-bring-institutional-grade-onchain-security-to-japan)
 - Pen Test Partners
   - [Estate planning of credentials](https://www.pentestpartners.com/security-blog/estate-planning-of-credentials/)
@@ -165,11 +169,16 @@
   - [CVE-2023-25136 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ADHIKARA13-CVE-2023-25136&utm_source=rss&utm_medium=rss)
   - [CVE-2024-26229-BOF exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-APKC-CVE-2024-26229-BOF&utm_source=rss&utm_medium=rss)
   - [CVE-2024-31317-PoC-Deployer exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WEBLDIX-CVE-2024-31317-POC-DEPLOYER&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-19632](https://sploitus.com/exploit?id=65A1E120-68EC-5FE9-87C4-0F2DCF2BE10D&utm_source=rss&utm_medium=rss)
+  - [log4j-4255-exploit](https://sploitus.com/exploit?id=ADCCEF13-D7F3-5E64-8990-6C7ABB981396&utm_source=rss&utm_medium=rss)
   - [pentx-vapt-skill exploit](https://sploitus.com/exploit?id=F91AE1F4-0873-5F46-B22C-E577E43A3F12&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Arga is building a better way to train enterprise AI agents](https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/)
+  - [Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI](https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/)
   - [Bluesky now lets you upload 10-minute long videos](https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/)
+  - [CISA confirms hackers targeted over 100 US water systems during July](https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/)
   - [Claude Cowork finally remembers what you told the app in chat](https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/)
+  - [Ex-Meta scientists want to bring visual AI to the factory floor](https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/)
   - [Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses](https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/)
   - [India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call](https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/)
   - [Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious](https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/)
@@ -177,11 +186,13 @@
   - [Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children](https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/)
   - [OpenAI loses a top data center exec, as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/)
   - [QueryStory wants you to believe what AI is telling you](https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/)
+  - [Ring introduces a new encryption standard, makes it the default for cloud features](https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/)
   - [Robot brain builders are pushing out of their GPT-2 era](https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/)
   - [Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)
   - [Runable hits $21M to bet AI agents can go from building businesses to growing them](https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/)
   - [SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana](https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/)
   - [Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding](https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/)
+  - [Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model](https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/)
   - [Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/)
   - [Ventures Platform goes bigger — and broader — with its second Africa fund](https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/)
   - [Waymo robotaxis are headed to Munich](https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/)
@@ -189,16 +200,19 @@
   - [Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit](https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/)
 - The Block
   - [Bernstein sees bitcoin reaching $150,000 by mid-2027 amid ‘debasement trade,’ but cuts Strategy target to $350](https://www.theblock.co/news/markets/2026-08-26-bernstein-sees-bitcoin-reaching-150000-by-mid-2027-amid-debasement-trade-but-cuts-strategy-target-to-350-412778)
+  - [Coinbase, Better make token-backed mortgages generally available](https://www.theblock.co/news/business/2026-08-26-coinbase-better-make-token-backed-mortgages-generally-available-412810)
   - [Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line](https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718)
   - [Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei](https://www.theblock.co/news/regulation/2026-08-26-japan-blockchain-stock-settlement-system-412755)
   - [Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows](https://www.theblock.co/news/web3/2026-08-26-kalshi-latest-form-d-412749)
   - [Revolut begins phased EURR stablecoin rollout in Denmark, Poland and Portugal](https://www.theblock.co/news/business/2026-08-26-revolut-begins-phased-eurr-stablecoin-rollout-in-denmark-poland-and-portugal-412772)
   - [RockawayX acquires Relayer Capital to expand crypto offerings in US](https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743)
+  - [SEC sends crypto custody rule changes to White House for review](https://www.theblock.co/news/regulation/2026-08-26-sec-sends-crypto-custody-rule-changes-to-white-house-for-review-412811)
   - [South Korea’s Shinhan to use Visa’s stablecoin platform for ‘future finance’ initiatives](https://www.theblock.co/news/web3/2026-08-26-south-koreas-shinhan-visa-stablecoin-412765)
   - [Tornado Cash developer Roman Storm’s retrial pushed back to April 2027](https://www.theblock.co/news/regulation/2026-08-26-tornado-cash-roman-storm-retrial-april-2027-412761)
   - [ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain](https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736)
   - [‘Altitude sickness can wait’: Bitcoin’s historic short squeeze, Bessent catalyst may signal bull-market reset, analysts say](https://www.theblock.co/news/markets/2026-08-26-altitude-sickness-can-wait-bitcoins-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say-412785)
 - The Decoder
+  - [Alibaba releases Qwen3.8-Flash-Next, targeting "ultimate cost efficiency"](https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/)
   - [Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO](https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo/)
   - [Bill Gates warns AI is more dangerous than the tech industry will admit](https://the-decoder.com/bill-gates-warns-ai-is-more-dangerous-than-the-tech-industry-will-admit/)
   - [Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google](https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/)
@@ -225,10 +239,15 @@
   - [The second-generation Bose QuietComfort Headphones are good, but don’t stand out](https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review)
   - [The Witcher 3 is getting a remaster](https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer)
   - [Trump is upping the price of Big Tech’s favorite visa](https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration)
+  - [Xbox announces disc-to-digital feature that digitizes your physical games](https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official)
   - [You can now buy music on SoundCloud](https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch)
   - [Your Oura Ring can&#8217;t measure what&#8217;s going on in your skull](https://www.theverge.com/column/984991/optimizer-oura-ring-lawsuit-sleep-tracking-wearables)
 - troyhunt.com
   - [A Cautionary Tale About Data Breach Claims, Verification and Carhartt](https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/)
+- VentureBeat AI
+  - [Orchestration is the new challenge for CX in the age of AI agents](https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Beyond Patching: What IT Teams Need to Know About Unfixable Exposures](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
   - [ad-autopwn](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JONASLEJON-AD-AUTOPWN?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [apachedos](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JPTR218-APACHEDOS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -360,6 +379,7 @@
   - [OpenAI 首款自研推理芯片 Jalapeño 强于英伟达 Blackwell](https://www.solidot.org/story?sid=85200)
   - [新西兰提出法案禁止 16 岁以下儿童使用社媒和 AI 陪伴服务](https://www.solidot.org/story?sid=85197)
   - [月之暗面与微软、亚马逊和 Google 协商收益分成协议](https://www.solidot.org/story?sid=85201)
+  - [美国报告今年的首例麻疹死亡病例](https://www.solidot.org/story?sid=85203)
   - [芬兰准备启用全球首座核废料最终处置场](https://www.solidot.org/story?sid=85199)
 - 安全客
   - [一张网页就能投毒你的AI大模型：NVIDIA NemoClaw缺陷曝光，沙箱挡得住黑客，挡不住"夺舍"](https://www.anquanke.com/post/id/316021)
