@@ -3,14 +3,19 @@
 - 2Libra
   - [2026-08-26 第一帖吗？](https://2libra.com/post/personal-life/uPEpJBD)
   - [《巫师 3》要出重制版了！](https://2libra.com/post/game-discussion/IenE0DR)
+  - [【竞猜】2 站一周年是否能破目前最高在线人数？](https://2libra.com/post/forum-function/ve-tjX1)
   - [【💰】庆祝 2 站一周年](https://2libra.com/post/forum-function/mvZg60R)
+  - [【💰】早 9 晚 6](https://2libra.com/post/touch-fish/9bMSRiV)
   - [为数不多可以薅金币的日子了，我这感觉亏麻了，今天最高 1800 ？](https://2libra.com/post/forum-function/dwCt8aA)
   - [今天是那英发表重要讲话十五周年](https://2libra.com/post/hotspot-tracking/oNi9YMF)
+  - [兄弟们，Mac 全局水印怎么破](https://2libra.com/post/reverse-engineering/dE8TioA)
   - [各类调查、链接、APP、软件等风险提醒](https://2libra.com/post/network-security/0e-cWPt)
+  - [图片 poi 加框网站](https://2libra.com/post/tools-sharing/kISTJUv)
   - [存储反弹只走了 3 个浪，随时可能变成诱多。接下来几天必须强行走出 5 浪上涨，才能确认大底：](https://2libra.com/post/stock-market/6O9ifQ7)
   - [已佩戴 1 周年纪念徽章，佩戴的集合啦](https://2libra.com/post/personal-life/zNfspAK)
   - [开源项目许可证要用心设计啊！](https://2libra.com/post/social-observation/2mV5-7v)
   - [怎么认识异性（本人 28）](https://2libra.com/post/love/0Qkm4Pa)
+  - [我后悔了，潘多拉，能不能二选一。](https://2libra.com/post/forum-function/IyFmwrD)
   - [我竟然有徽章了](https://2libra.com/post/forum-function/i69cbh2)
   - [来晒晒称号啦](https://2libra.com/post/forum-function/kChibgN)
   - [欧耶 经历了一周的 debuff 终于再次抽中金币雨了 这次我绝对不会点质变](https://2libra.com/post/forum-function/dKN_XGS)
@@ -48,6 +53,7 @@
 - Hacker News Frontpage
   - [Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
   - [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
+  - [Letter from Dolly Parton to Eminem](https://twitter.com/Eminem/status/2092367272891310482)
   - [Lightweight system monitor for Linux VPS written in Go](https://github.com/leodeim/vpsmon)
   - [Nitter project received cease and desist](https://github.com/zedeus/nitter/issues/1442)
   - [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
@@ -154,6 +160,7 @@
 - 爱范儿
   - [早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文](https://www.ifanr.com/1676731?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [Anthropic改进Claude Cowork的记忆功能](https://blog.upx8.com/Anthropic%E6%94%B9%E8%BF%9BClaude-Cowork%E7%9A%84%E8%AE%B0%E5%BF%86%E5%8A%9F%E8%83%BD)
   - [WhatsApp有10亿用户使用通行密钥登录](https://blog.upx8.com/WhatsApp%E6%9C%8910%E4%BA%BF%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E9%80%9A%E8%A1%8C%E5%AF%86%E9%92%A5%E7%99%BB%E5%BD%95)
   - [小米手机售后规则再调整，删除二手产品 / 商品不属于三包范围相关表述](https://blog.upx8.com/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%94%AE%E5%90%8E%E8%A7%84%E5%88%99%E5%86%8D%E8%B0%83%E6%95%B4-%E5%88%A0%E9%99%A4%E4%BA%8C%E6%89%8B%E4%BA%A7%E5%93%81-%E5%95%86%E5%93%81%E4%B8%8D%E5%B1%9E%E4%BA%8E%E4%B8%89%E5%8C%85%E8%8C%83%E5%9B%B4%E7%9B%B8%E5%85%B3%E8%A1%A8%E8%BF%B0)
   - [追觅造车主体“星空计划”相关公司或将注销](https://blog.upx8.com/%E8%BF%BD%E8%A7%85%E9%80%A0%E8%BD%A6%E4%B8%BB%E4%BD%93-%E6%98%9F%E7%A9%BA%E8%AE%A1%E5%88%92-%E7%9B%B8%E5%85%B3%E5%85%AC%E5%8F%B8%E6%88%96%E5%B0%86%E6%B3%A8%E9%94%80)
