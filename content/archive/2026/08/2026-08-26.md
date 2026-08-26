@@ -5,6 +5,7 @@
   - [8 月 26 日资本市场大事提醒](https://2libra.com/post/stock-market/XvB9Bnf)
   - [《巫师 3》要出重制版了！](https://2libra.com/post/game-discussion/IenE0DR)
   - [「都听我说」史诗级增强](https://2libra.com/post/forum-function/0UmK8WH)
+  - [【兑换码】「一周年反响回馈」庆祝 🎉 大家多了一个魔芋基地](https://2libra.com/post/interest-groups/NGJYUfX)
   - [【竞猜】2 站一周年是否能破目前最高在线人数？](https://2libra.com/post/forum-function/ve-tjX1)
   - [【震惊】Firefox 用户又双叒叕低人一等？！日期选择器竟暗藏"内核歧视"](https://2libra.com/post/community/ShMjj8s)
   - [【💰】庆祝 2 站一周年](https://2libra.com/post/forum-function/mvZg60R)
@@ -13,6 +14,7 @@
   - [【💰】问个问题老哥们，新注册的 apple 美区账户，付款不了 chatgpt](https://2libra.com/post/ai-tools/8hU9e37)
   - [为数不多可以薅金币的日子了，我这感觉亏麻了，今天最高 1800 ？](https://2libra.com/post/forum-function/dwCt8aA)
   - [今天是那英发表重要讲话十五周年](https://2libra.com/post/hotspot-tracking/oNi9YMF)
+  - [你有过哪些玄学经历？](https://2libra.com/post/idea/tI1r83u)
   - [佬们有什么好的祛痘产品推荐吗](https://2libra.com/post/interaction/Qan0Wzd)
   - [兄弟们，Mac 全局水印怎么破](https://2libra.com/post/reverse-engineering/dE8TioA)
   - [关于这几小时访问不到的问题处理](https://2libra.com/post/forum-function/sqvedRL)
@@ -36,9 +38,12 @@
   - [求润指南](https://2libra.com/post/help-requests/Vh-ANfc)
   - [消息通知 刷新 BUG](https://2libra.com/post/community/zBmG-19)
   - [签到大成功，正好还论坛一周年，记录下](https://2libra.com/post/slacking-off/C0lMm3H)
+  - [自己搞了个 Deepseek 余额的小程序（MacOS）](https://2libra.com/post/open-source-sharing/PL1uBgi)
   - [要不要延期？](https://2libra.com/post/forum-function/K4Vv826)
+  - [谁懂减脂期点大米先生和乡村基](https://2libra.com/post/small-things/bg_50xB)
   - [账号等级上限拔高了](https://2libra.com/post/forum-function/Qlq5eYc)
   - [这几天感冒了，恢复后回公司发现大家都在咳嗽](https://2libra.com/post/personal-life/CaSDj69)
+  - [韩国博主分享的可爱风格照片生成智能体](https://2libra.com/post/ai-tools/fQBu3xD)
 - 404 Media
   - [Charges Dropped Against Person Who Clapped at a City Data Center Meeting](https://www.404media.co/charges-dropped-against-person-who-clapped-at-a-city-data-center-meeting/)
   - [ICE Wants the Country’s Voter Data](https://www.404media.co/ice-wants-the-countrys-voter-data/)
@@ -101,6 +106,8 @@
   - [How I Found a GraphQL Endpoint Leaking Millions](https://infosecwriteups.com/how-i-found-a-graphql-endpoint-leaking-millions-5cbfd55d994e?source=rss----7b722bfd1b8d---4)
   - [How I Made Over $10,000 Just by Chaining Multiple IDORs in a Single Web App (All from the Share…](https://infosecwriteups.com/how-i-made-over-10-000-just-by-chaining-multiple-idors-in-a-single-web-app-all-from-the-share-4d425a15aa37?source=rss----7b722bfd1b8d---4)
   - [The WAF Blocked My XSS — So I Rotated What It Was Reading](https://infosecwriteups.com/the-waf-blocked-my-xss-so-i-rotated-what-it-was-reading-47bc630c17ae?source=rss----7b722bfd1b8d---4)
+- infosecurity-magazine.com
+  - [Linux Foundation Introduces TRACE Standard for AI Runtime Evidence](https://www.infosecurity-magazine.com/news/linux-foundation-trace-standard-ai/)
 - jeffgeerling.com
   - [Debugging Ubiquiti's 5G Backup on AT&T](https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/)
 - OpenZeppelin Blog
@@ -109,6 +116,8 @@
   - [Pluralistic: The age of disinvention (25 Aug 2026)](https://pluralistic.net/2026/08/25/gammamax/)
 - PwnDefend
   - [Remote Desktop Protocol + NLA Honeypots](https://www.pwndefend.com/2026/08/26/remote-desktop-protocol-nla-honeypots/)
+- Securelist
+  - [Exploits and vulnerabilities in Q2 2026](https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/)
 - simonwillison.net
   - [EVE Online: The Move to Python 3 Begins!](https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/)
 - Sploitus.com Exploits RSS Feed
@@ -134,11 +143,13 @@
   - [Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line](https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718)
   - [Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei](https://www.theblock.co/news/regulation/2026-08-26-japan-blockchain-stock-settlement-system-412755)
   - [Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows](https://www.theblock.co/news/web3/2026-08-26-kalshi-latest-form-d-412749)
+  - [Revolut begins phased EURR stablecoin rollout in Denmark, Poland and Portugal](https://www.theblock.co/news/business/2026-08-26-revolut-begins-phased-eurr-stablecoin-rollout-in-denmark-poland-and-portugal-412772)
   - [RockawayX acquires Relayer Capital to expand crypto offerings in US](https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743)
   - [South Korea’s Shinhan to use Visa’s stablecoin platform for ‘future finance’ initiatives](https://www.theblock.co/news/web3/2026-08-26-south-koreas-shinhan-visa-stablecoin-412765)
   - [Tornado Cash developer Roman Storm’s retrial pushed back to April 2027](https://www.theblock.co/news/regulation/2026-08-26-tornado-cash-roman-storm-retrial-april-2027-412761)
   - [ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain](https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736)
 - The Decoder
+  - [Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO](https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo/)
   - [Google launches Gemini for legal work to automate contracts and research](https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/)
   - [OpenAI's first custom chip "Jalapeño" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks](https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/)
   - [Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West](https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/)
@@ -149,6 +160,7 @@
   - [Gamescom Opening Night Live 2026: The biggest announcements and trailers](https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley)
   - [Garmin’s new Fenix 9 adds brighter screens and smoother map panning](https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch)
   - [GeForce Now is getting support for the Steam Controller](https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support)
+  - [Ikea’s Xbox collection includes a giant thumbstick stool](https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool)
   - [Instagram’s ‘First Draft’ trims your Reels clips for you](https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels)
   - [Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen](https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17)
   - [Polestar claims it was blindsided by sales ban](https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump)
@@ -254,6 +266,7 @@
   - [25% Off Adidas Promo Code | August 2026](https://www.wired.com/story/adidas-promo-code/)
   - [A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread](https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/)
   - [Google Pixel 11 Pro Fold Review: Better, Not Best](https://www.wired.com/review/google-pixel-11-pro-fold/)
+  - [How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range](https://www.wired.com/story/how-ikea-turned-a-controller-thumbstick-into-the-star-of-its-xbox-gaming-range/)
   - [HP Coupon Codes and Deals August 2026](https://www.wired.com/story/hp-coupon-code/)
   - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
   - [PlayStation Discount Code: Save on PS5 Games August 2026](https://www.wired.com/story/playstation-discount-code/)
@@ -280,12 +293,17 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [OpenAI 首款自研推理芯片 Jalapeño 强于英伟达 Blackwell](https://www.solidot.org/story?sid=85200)
   - [新西兰提出法案禁止 16 岁以下儿童使用社媒和 AI 陪伴服务](https://www.solidot.org/story?sid=85197)
+  - [月之暗面与微软、亚马逊和 Google 协商收益分成协议](https://www.solidot.org/story?sid=85201)
   - [芬兰准备启用全球首座核废料最终处置场](https://www.solidot.org/story?sid=85199)
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
+  - [OpenAI 自研「辣椒芯片」首测超英伟达，会让 ChatGPT 更便宜吗？](https://www.ifanr.com/1676738?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文](https://www.ifanr.com/1676731?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子](https://www.qbitai.com/2026/08/479808.html)
 - 风雪之隅(鸟哥)
   - [Yac 2.4.0发布 - 小值读取提升70%](https://www.laruence.com/2026/08/26/6566.html)
 - 黑海洋
