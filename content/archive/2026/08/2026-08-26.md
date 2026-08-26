@@ -2,6 +2,7 @@
 
 - 2Libra
   - [2026-08-26 第一帖吗？](https://2libra.com/post/personal-life/uPEpJBD)
+  - [8 月 26 日资本市场大事提醒](https://2libra.com/post/stock-market/XvB9Bnf)
   - [《巫师 3》要出重制版了！](https://2libra.com/post/game-discussion/IenE0DR)
   - [「都听我说」史诗级增强](https://2libra.com/post/forum-function/0UmK8WH)
   - [【竞猜】2 站一周年是否能破目前最高在线人数？](https://2libra.com/post/forum-function/ve-tjX1)
@@ -53,6 +54,7 @@
   - [Bitcoin ETFs tear through 2026 outflows in 7-day hot streak](https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise launches self-custodied tokenized stock portfolios with Coinbase](https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Revolut rolls out euro stablecoin in three European markets](https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Solana transactions hit record 4.2B as SOL rallies 40%](https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report](https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tornado Cash developer Roman Storm’s retrial delayed to April 2027](https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -64,6 +66,7 @@
   - [XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp](https://xcancel.com/)
 - darkreading
   - [Hidden Prompts Trick AI Into False Email Summaries](https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries)
+  - [Interpol's Jackal IV Disrupts West African Crime Infrastructure](https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure)
   - [Nigeria Looks to Sovereign Cloud for Cyber, National Security](https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security)
 - Emergent Minds | paddo.dev
   - [Stripe Bought the Exchange Rate: OpenRouter, $8 Billion, and Tokens as Currency](https://paddo.dev/blog/stripe-bought-the-exchange-rate/)
@@ -71,6 +74,8 @@
   - [Adding diagrams to my static site generator with D2](https://www.gilesthomas.com/2026/08/adding-d2)
 - Google AI Blog
   - [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/)
+- GuidePoint Security
+  - [Making AI/ML-driven Active Cyber Defense Work in OT Environments](https://www.guidepointsecurity.com/blog/active-cyber-defense-in-ot-environments/)
 - Hacker News Frontpage
   - [Ask HN: What is one simple thing LLMs are insanely bad at?](https://news.ycombinator.com/item?id=49443820)
   - [Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
@@ -82,6 +87,7 @@
   - [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
   - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
   - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
+  - [The End of Programming](https://pauldix.com/the-end-of-programming)
 - HackerNoon
   - [How to Keep an AI Voice Consistent Across Every Video Clip](https://hackernoon.com/how-to-keep-an-ai-voice-consistent-across-every-video-clip?source=rss)
 - InfoSec Write-ups - Medium
@@ -101,6 +107,8 @@
   - [OpenZeppelin and Pacific Meta Partner to Bring Institutional-Grade Onchain Security to Japan](https://www.openzeppelin.com/news/openzeppelin-and-pacific-meta-partner-to-bring-institutional-grade-onchain-security-to-japan)
 - pluralistic.net
   - [Pluralistic: The age of disinvention (25 Aug 2026)](https://pluralistic.net/2026/08/25/gammamax/)
+- PwnDefend
+  - [Remote Desktop Protocol + NLA Honeypots](https://www.pwndefend.com/2026/08/26/remote-desktop-protocol-nla-honeypots/)
 - simonwillison.net
   - [EVE Online: The Move to Python 3 Begins!](https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/)
 - Sploitus.com Exploits RSS Feed
@@ -127,6 +135,7 @@
   - [Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei](https://www.theblock.co/news/regulation/2026-08-26-japan-blockchain-stock-settlement-system-412755)
   - [Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows](https://www.theblock.co/news/web3/2026-08-26-kalshi-latest-form-d-412749)
   - [RockawayX acquires Relayer Capital to expand crypto offerings in US](https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743)
+  - [South Korea’s Shinhan to use Visa’s stablecoin platform for ‘future finance’ initiatives](https://www.theblock.co/news/web3/2026-08-26-south-koreas-shinhan-visa-stablecoin-412765)
   - [Tornado Cash developer Roman Storm’s retrial pushed back to April 2027](https://www.theblock.co/news/regulation/2026-08-26-tornado-cash-roman-storm-retrial-april-2027-412761)
   - [ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain](https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736)
 - The Decoder
@@ -243,6 +252,7 @@
   - [The AI Hater's Manifesto](https://www.wheresyoured.at/the-ai-haters-manifesto/)
 - Wired
   - [25% Off Adidas Promo Code | August 2026](https://www.wired.com/story/adidas-promo-code/)
+  - [A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread](https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/)
   - [Google Pixel 11 Pro Fold Review: Better, Not Best](https://www.wired.com/review/google-pixel-11-pro-fold/)
   - [HP Coupon Codes and Deals August 2026](https://www.wired.com/story/hp-coupon-code/)
   - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
@@ -271,6 +281,9 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [新西兰提出法案禁止 16 岁以下儿童使用社媒和 AI 陪伴服务](https://www.solidot.org/story?sid=85197)
+  - [芬兰准备启用全球首座核废料最终处置场](https://www.solidot.org/story?sid=85199)
+- 小刀志
+  - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
   - [早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文](https://www.ifanr.com/1676731?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 风雪之隅(鸟哥)
