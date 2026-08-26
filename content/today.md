@@ -5,24 +5,32 @@
 - 404 Media
   - [A Student Said He Was a Hobby Plane Spotter. He Was Allegedly Taking Photos for the Chinese Government](https://www.404media.co/a-student-said-he-was-a-hobby-plane-spotter-he-was-allegedly-taking-photos-for-the-chinese-government/)
   - [Scientists Discover Vast Underground 'Anomaly' on Mars](https://www.404media.co/scientists-discover-vast-underground-anomaly-on-mars/)
+- Ars Technica
+  - [New Twitter launches, says Musk's X gave up the name](https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/)
 - CoinTelegraph
   - [77% of Americans see crypto in retirement plans as risky: Survey](https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Better launches Bitcoin-backed mortgages powered by Coinbase](https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chainalysis estimates $457B in taxable crypto activity, says CARF misses most](https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC sends crypto custody rule overhaul to White House for review](https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple Polishing Cloth Is Now Just $9](https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/)
+  - [POSIWID: The Purpose of a System Is What It Does](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does)
   - [‘Surprise and Shine’ Apple Event: Wednesday 9 September](https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/)
 - Google DeepMind Blog
   - [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/)
 - Hacker News Frontpage
+  - [76% of 623 EU software vendors have no security.txt ahead of the CRA 24h rule](https://cradrill.com/research.html)
   - [CDs vs. NIMBY](https://www.betonit.ai/p/cds-vs-nimby)
   - [Dallas startup enriches Uranium](https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu)
+  - [IBM Unveils Next Generation Dual-Architecture Processor](https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone)
   - [Show HN: I made a retirement simulator: 125 years of data, 25 countries](https://foresightplanner.com/)
+  - [Show HN: We built the smallest dual-band aircraft tracker](https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/)
   - [Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]](https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf)
   - [Super Curry Combat II Turbo – Legend Edition](https://curry-combat-2.com)
   - [Tailcat: Secure Tunnels in Seconds (Tailscale)](https://github.com/tailscale/tailcat)
   - [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead/)
+  - [WebMCP Challenge – OpenAI](https://openai.com/webmcp-challenge/)
 - HackerNoon
   - [How to Avoid Burnout as a Solo AI Filmmaker: The System I Built for Lost Garden](https://hackernoon.com/how-to-avoid-burnout-as-a-solo-ai-filmmaker-the-system-i-built-for-lost-garden?source=rss)
 - johndcook.com
@@ -81,9 +89,12 @@
   - [The Switch 2’s $50 price increase is happening next week](https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa)
 - Wired
   - [Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety](https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/)
+  - [Democrats Just Might Win the Senate](https://www.wired.com/story/democrats-just-might-win-the-senate/)
   - [FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure](https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/)
   - [OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers](https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/)
   - [The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery](https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/)
+  - [The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable](https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/)
   - [There Are No Trans Women in the WNBA, so Right-Wingers Are Making Some Up](https://www.wired.com/story/there-are-no-trans-women-in-the-wnba-so-right-wingers-are-making-some-up/)
+  - [Waffle House Teleporter Gregg Phillips Is Still on the Trump Administration’s Payroll](https://www.wired.com/story/waffle-house-teleporter-gregg-phillips-is-still-on-the-trump-administrations-payroll/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
