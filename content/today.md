@@ -2,8 +2,13 @@
 
 - 2Libra
   - [2026-08-26 第一帖吗？](https://2libra.com/post/personal-life/uPEpJBD)
+  - [为数不多可以薅金币的日子了，我这感觉亏麻了，今天最高 1800 ？](https://2libra.com/post/forum-function/dwCt8aA)
   - [存储反弹只走了 3 个浪，随时可能变成诱多。接下来几天必须强行走出 5 浪上涨，才能确认大底：](https://2libra.com/post/stock-market/6O9ifQ7)
   - [已佩戴 1 周年纪念徽章，佩戴的集合啦](https://2libra.com/post/personal-life/zNfspAK)
+  - [开源项目许可证要用心设计啊！](https://2libra.com/post/social-observation/2mV5-7v)
+  - [怎么认识异性（本人 28）](https://2libra.com/post/love/0Qkm4Pa)
+  - [来晒晒称号啦](https://2libra.com/post/forum-function/kChibgN)
+  - [欧耶 经历了一周的 debuff 终于再次抽中金币雨了 这次我绝对不会点质变](https://2libra.com/post/forum-function/dKN_XGS)
 - 404 Media
   - [Charges Dropped Against Person Who Clapped at a City Data Center Meeting](https://www.404media.co/charges-dropped-against-person-who-clapped-at-a-city-data-center-meeting/)
   - [ICE Wants the Country’s Voter Data](https://www.404media.co/ice-wants-the-countrys-voter-data/)
@@ -57,6 +62,8 @@
   - [Claude Cowork finally remembers what you told the app in chat](https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/)
   - [Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious](https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/)
   - [Life360 expands pet tracking with new $8 scannable tags and zoomie alerts](https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/)
+  - [OpenAI loses a top data center exec, as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/)
+  - [Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)
   - [SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana](https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/)
   - [Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding](https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/)
   - [Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/)
@@ -124,3 +131,7 @@
   - [‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance](https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文](https://www.ifanr.com/1676731?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [WhatsApp有10亿用户使用通行密钥登录](https://blog.upx8.com/WhatsApp%E6%9C%8910%E4%BA%BF%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E9%80%9A%E8%A1%8C%E5%AF%86%E9%92%A5%E7%99%BB%E5%BD%95)
