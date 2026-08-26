@@ -34,6 +34,7 @@
   - [Tailcat: Secure Tunnels in Seconds (Tailscale)](https://github.com/tailscale/tailcat)
   - [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead/)
   - [WebMCP Challenge – OpenAI](https://openai.com/webmcp-challenge/)
+  - [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
 - HackerNoon
   - [How to Avoid Burnout as a Solo AI Filmmaker: The System I Built for Lost Garden](https://hackernoon.com/how-to-avoid-burnout-as-a-solo-ai-filmmaker-the-system-i-built-for-lost-garden?source=rss)
 - johndcook.com
@@ -78,6 +79,7 @@
   - [How do we explain OpenAI’s executive exodus?](https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/)
   - [Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations](https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/)
   - [Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states](https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/)
+  - [Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well](https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/)
   - [US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate](https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/)
   - [What’s driving Sweden’s startup boom, from Lovable to Legora](https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/)
 - The Block
@@ -97,6 +99,7 @@
   - [Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety](https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/)
   - [Democrats Just Might Win the Senate](https://www.wired.com/story/democrats-just-might-win-the-senate/)
   - [FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure](https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/)
+  - [How Rising Temperatures Likely Contributed to Nepal’s Deadly Flood](https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/)
   - [OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers](https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/)
   - [The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery](https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/)
   - [The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable](https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/)
