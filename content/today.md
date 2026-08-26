@@ -4,9 +4,14 @@
   - [签到动画不错，可惜我是大失败](https://2libra.com/post/forum-function/VWn9Y-v)
 - CoinTelegraph
   - [77% of Americans see crypto in retirement plans as risky: Survey](https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Chainalysis estimates $457B in taxable crypto activity, says CARF misses most](https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC sends crypto custody rule overhaul to White House for review](https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Google DeepMind Blog
   - [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/)
+- Hacker News Frontpage
+  - [CDs vs. NIMBY](https://www.betonit.ai/p/cds-vs-nimby)
+  - [Show HN: I made a retirement simulator: 125 years of data, 25 countries](https://foresightplanner.com/)
+  - [Tailcat: Secure Tunnels in Seconds (Tailscale)](https://github.com/tailscale/tailcat)
 - HackerNoon
   - [How to Avoid Burnout as a Solo AI Filmmaker: The System I Built for Lost Garden](https://hackernoon.com/how-to-avoid-burnout-as-a-solo-ai-filmmaker-the-system-i-built-for-lost-garden?source=rss)
 - TechCrunch
@@ -17,7 +22,14 @@
   - [What’s driving Sweden’s startup boom, from Lovable to Legora](https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/)
 - The Block
   - [CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for ‘official’ confirmation](https://www.theblock.co/news/markets/2026-08-26-cryptoquant-bitcoin-bull-market-83000-official-confirmation-412822)
+- The Decoder
+  - [Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition](https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/)
 - The Verge
   - [Apple announces September iPhone launch event](https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date)
+  - [Apple Maps has ads now](https://www.theverge.com/tech/985249/apple-maps-iphone-ads)
+  - [The Switch 2’s $50 price increase is happening next week](https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa)
+- Wired
+  - [Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety](https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/)
+  - [FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure](https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
