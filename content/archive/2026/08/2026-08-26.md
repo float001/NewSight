@@ -27,6 +27,8 @@
   - [XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp](https://xcancel.com/)
 - darkreading
   - [Hidden Prompts Trick AI Into False Email Summaries](https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries)
+- Emergent Minds | paddo.dev
+  - [Stripe Bought the Exchange Rate: OpenRouter, $8 Billion, and Tokens as Currency](https://paddo.dev/blog/stripe-bought-the-exchange-rate/)
 - gilesthomas.com
   - [Adding diagrams to my static site generator with D2](https://www.gilesthomas.com/2026/08/adding-d2)
 - Google AI Blog
@@ -84,7 +86,13 @@
 - troyhunt.com
   - [A Cautionary Tale About Data Breach Claims, Verification and Carhartt](https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/)
 - Vulners.com RSS Feed
+  - [ad-autopwn](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JONASLEJON-AD-AUTOPWN?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [AutoSploit](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NULLARRAY-AUTOSPLOIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2017-7494](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JOXEANKORET-CVE-2017-7494?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2021-3129](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JOSHUAVANDERPOLL-CVE-2021-3129?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2022-30525](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SHUAI06-CVE-2022-30525?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2024-23897](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JOPRAVEEN-CVE-2024-23897?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-69985](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JOSHUAVANDERPOLL-CVE-2025-69985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45018 Chainlit: Command injection via MCP stdio transport allows unauthenticated remote code execution](https://vulners.com/cvelist/CVELIST:CVE-2026-45018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68513 OpenEXR: Heap buffer overflow in PyOpenEXR from literal/prefixed RGB channel name collision](https://vulners.com/cvelist/CVELIST:CVE-2026-68513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-78379 Consent bypass in python_repl tool via batch kwargs forwarding in Amazon Strands Agents Tools](https://vulners.com/cve/CVE-2026-78379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -97,11 +105,15 @@
   - [hershell](https://vulners.com/kitploit/KITPLOIT:4472802706694103780?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [hyperfox](https://vulners.com/kitploit/KITPLOIT:275480743183326743?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [kickthemout](https://vulners.com/kitploit/KITPLOIT:2415098872618625736?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [MailAccess](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-KATRIELMOSES-MAILACCESS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Minesweeper](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-CODINGO-MINESWEEPER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [minimal](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RTVKIZ-MINIMAL?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [MinimalReproducer](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JPMARTINS-MINIMALREPRODUCER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nuclei](https://vulners.com/kitploit/KITPLOIT:3097141731968574908?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sdnpwn](https://vulners.com/kitploit/KITPLOIT:8150000277469215268?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [StegaStamp](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-TANCIK-STEGASTAMP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [subbrute](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-THEROOK-SUBBRUTE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Xiaomi_Mi_WiFi_R3G_Vulnerability_POC](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ULTRAMANGAIA-XIAOMI_MI_WIFI_R3G_VULNERABILITY_POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [xsssniper](https://vulners.com/kitploit/KITPLOIT:1801395129400135654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [The AI Hater's Manifesto](https://www.wheresyoured.at/the-ai-haters-manifesto/)
