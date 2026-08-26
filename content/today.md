@@ -7,6 +7,7 @@
   - [《巫师 3》要出重制版了！](https://2libra.com/post/game-discussion/IenE0DR)
   - [「都听我说」史诗级增强](https://2libra.com/post/forum-function/0UmK8WH)
   - [【兑换码】「一周年反响回馈」庆祝 🎉 大家多了一个魔芋基地](https://2libra.com/post/interest-groups/NGJYUfX)
+  - [【投票】关于装修智能家居的选择](https://2libra.com/post/small-things/NhJuy7Y)
   - [【竞猜】2 站一周年是否能破目前最高在线人数？](https://2libra.com/post/forum-function/ve-tjX1)
   - [【震惊】Firefox 用户又双叒叕低人一等？！日期选择器竟暗藏"内核歧视"](https://2libra.com/post/community/ShMjj8s)
   - [【💰】庆祝 2 站一周年](https://2libra.com/post/forum-function/mvZg60R)
@@ -25,6 +26,7 @@
   - [只有我一个人卡的不动得吗](https://2libra.com/post/community/pIfVZEL)
   - [各类调查、链接、APP、软件等风险提醒](https://2libra.com/post/network-security/0e-cWPt)
   - [图片 poi 加框网站](https://2libra.com/post/tools-sharing/kISTJUv)
+  - [好耶 终于获得第一个徽章啦](https://2libra.com/post/forum-function/lAT-vF5)
   - [存储反弹只走了 3 个浪，随时可能变成诱多。接下来几天必须强行走出 5 浪上涨，才能确认大底：](https://2libra.com/post/stock-market/6O9ifQ7)
   - [已佩戴 1 周年纪念徽章，佩戴的集合啦](https://2libra.com/post/personal-life/zNfspAK)
   - [幼儿练字助手更新新增字帖中心。可以导出字帖打印！](https://2libra.com/post/promotion/8x_aLRQ)
@@ -41,6 +43,7 @@
   - [欧耶 经历了一周的 debuff 终于再次抽中金币雨了 这次我绝对不会点质变](https://2libra.com/post/forum-function/dKN_XGS)
   - [求润指南](https://2libra.com/post/help-requests/Vh-ANfc)
   - [消息通知 刷新 BUG](https://2libra.com/post/community/zBmG-19)
+  - [看看这个点还有在加班的吗](https://2libra.com/post/office-life/nKKMtUc)
   - [签到大成功，正好还论坛一周年，记录下](https://2libra.com/post/slacking-off/C0lMm3H)
   - [自己搞了个 Deepseek 余额的小程序（MacOS）](https://2libra.com/post/open-source-sharing/PL1uBgi)
   - [要不要延期？](https://2libra.com/post/forum-function/K4Vv826)
@@ -60,6 +63,7 @@
 - CERT Recently Published Vulnerability Notes
   - [VU#308749: Remote Code Execution and Arbitrary File Read Vulnerabilities in Kaltura Servers](https://kb.cert.org/vuls/id/308749)
 - CoinTelegraph
+  - [Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak](https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant](https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs tear through 2026 outflows in 7-day hot streak](https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise launches self-custodied tokenized stock portfolios with Coinbase](https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -69,6 +73,7 @@
   - [Revolut rolls out euro stablecoin in three European markets](https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Solana transactions hit record 4.2B as SOL rallies 40%](https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report](https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Students want crypto classes but learn on social media: OKX survey](https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis](https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Taurus links digital asset platforms to Swift’s blockchain ledger](https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tornado Cash developer Roman Storm’s retrial delayed to April 2027](https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -95,10 +100,12 @@
 - Hacker News Frontpage
   - [Ask HN: What is one simple thing LLMs are insanely bad at?](https://news.ycombinator.com/item?id=49443820)
   - [Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
+  - [Fake US thinktank set up and funded by Israel sought to game AI for propaganda](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
   - [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
   - [Letter from Dolly Parton to Eminem](https://twitter.com/Eminem/status/2092367272891310482)
   - [Lightweight system monitor for Linux VPS written in Go](https://github.com/leodeim/vpsmon)
   - [Nitter project received cease and desist](https://github.com/zedeus/nitter/issues/1442)
+  - [Omarchy is full of security holes](https://blog.happyfellow.dev/merchants-of-insecurity/)
   - [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
   - [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
   - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
@@ -106,6 +113,7 @@
   - [The End of Programming](https://pauldix.com/the-end-of-programming)
   - [The Feeling of Power (Asimov, 1958)](https://archive.org/details/1958-02_IF)
   - [U.S. gov't moves to suppress pushback on data centers](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them)
+  - [X sends in the lawyers to shut down open source project](https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548)
 - HackerNoon
   - [How to Keep an AI Voice Consistent Across Every Video Clip](https://hackernoon.com/how-to-keep-an-ai-voice-consistent-across-every-video-clip?source=rss)
 - IEEE Spectrum
@@ -123,11 +131,15 @@
   - [The WAF Blocked My XSS — So I Rotated What It Was Reading](https://infosecwriteups.com/the-waf-blocked-my-xss-so-i-rotated-what-it-was-reading-47bc630c17ae?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [Average Cyber Insurance Losses Increase Despite Fewer Claims](https://www.infosecurity-magazine.com/news/cyber-insurance-losses-increase/)
+  - [Four in Five AI Tools Run with No IT Oversight, New Research Finds](https://www.infosecurity-magazine.com/news/four-in-five-ai-tools-no-it/)
   - [Linux Foundation Introduces TRACE Standard for AI Runtime Evidence](https://www.infosecurity-magazine.com/news/linux-foundation-trace-standard-ai/)
 - jeffgeerling.com
   - [Debugging Ubiquiti's 5G Backup on AT&T](https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/)
 - johndcook.com
+  - [Junk solutions](https://www.johndcook.com/blog/2026/08/26/junk-solutions/)
   - [Ultraspherical](https://www.johndcook.com/blog/2026/08/26/ultraspherical/)
+- MIT Technology Review
+  - [The Download: the Kids issue arrives, and Bill Gates reveals his AI fears](https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/)
 - OpenZeppelin Blog
   - [OpenZeppelin and Pacific Meta Partner to Bring Institutional-Grade Onchain Security to Japan](https://www.openzeppelin.com/news/openzeppelin-and-pacific-meta-partner-to-bring-institutional-grade-onchain-security-to-japan)
 - Pen Test Partners
@@ -149,12 +161,14 @@
   - [CVE-2024-31317-PoC-Deployer exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WEBLDIX-CVE-2024-31317-POC-DEPLOYER&utm_source=rss&utm_medium=rss)
   - [pentx-vapt-skill exploit](https://sploitus.com/exploit?id=F91AE1F4-0873-5F46-B22C-E577E43A3F12&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Arga is building a better way to train enterprise AI agents](https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/)
   - [Claude Cowork finally remembers what you told the app in chat](https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/)
   - [Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses](https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/)
   - [India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call](https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/)
   - [Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious](https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/)
   - [Life360 expands pet tracking with new $8 scannable tags and zoomie alerts](https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/)
   - [OpenAI loses a top data center exec, as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/)
+  - [QueryStory wants you to believe what AI is telling you](https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/)
   - [Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)
   - [Runable hits $21M to bet AI agents can go from building businesses to growing them](https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/)
   - [SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana](https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/)
@@ -182,6 +196,7 @@
   - [Google launches Gemini for legal work to automate contracts and research](https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/)
   - [IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0](https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0/)
   - [OpenAI's first custom chip "Jalapeño" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks](https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/)
+  - [Pro-Kremlin deepfakes put surrender rhetoric in the mouths of Ukrainian lawmakers](https://the-decoder.com/pro-kremlin-deepfakes-put-surrender-rhetoric-in-the-mouths-of-ukrainian-lawmakers/)
   - [Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West](https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/)
 - The Verge
   - [At just $8, you owe it to yourself to grab Inscryption](https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale)
@@ -194,6 +209,7 @@
   - [Instagram’s ‘First Draft’ trims your Reels clips for you](https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels)
   - [Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen](https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17)
   - [Polestar claims it was blindsided by sales ban](https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump)
+  - [Ring says its new encryption limits what it can give police](https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement)
   - [Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories](https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories)
   - [The second-generation Bose QuietComfort Headphones are good, but don’t stand out](https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review)
   - [The Witcher 3 is getting a remaster](https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer)
@@ -349,6 +365,7 @@
 - 黑海洋
   - [Anthropic改进Claude Cowork的记忆功能](https://blog.upx8.com/Anthropic%E6%94%B9%E8%BF%9BClaude-Cowork%E7%9A%84%E8%AE%B0%E5%BF%86%E5%8A%9F%E8%83%BD)
   - [Meta与多州检察长就诉讼讨论庭审中和解](https://blog.upx8.com/Meta%E4%B8%8E%E5%A4%9A%E5%B7%9E%E6%A3%80%E5%AF%9F%E9%95%BF%E5%B0%B1%E8%AF%89%E8%AE%BC%E8%AE%A8%E8%AE%BA%E5%BA%AD%E5%AE%A1%E4%B8%AD%E5%92%8C%E8%A7%A3)
+  - [Rockstar Games 就《侠盗猎车手 6》游戏泄露事件发表声明](https://blog.upx8.com/Rockstar-Games-%E5%B0%B1-%E4%BE%A0%E7%9B%97%E7%8C%8E%E8%BD%A6%E6%89%8B-6-%E6%B8%B8%E6%88%8F%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E)
   - [WhatsApp有10亿用户使用通行密钥登录](https://blog.upx8.com/WhatsApp%E6%9C%8910%E4%BA%BF%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E9%80%9A%E8%A1%8C%E5%AF%86%E9%92%A5%E7%99%BB%E5%BD%95)
   - [华为响应埃及招标 提议出口上千颗AI芯片](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E5%93%8D%E5%BA%94%E5%9F%83%E5%8F%8A%E6%8B%9B%E6%A0%87-%E6%8F%90%E8%AE%AE%E5%87%BA%E5%8F%A3%E4%B8%8A%E5%8D%83%E9%A2%97AI%E8%8A%AF%E7%89%87)
   - [小米手机售后规则再调整，删除二手产品 / 商品不属于三包范围相关表述](https://blog.upx8.com/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%94%AE%E5%90%8E%E8%A7%84%E5%88%99%E5%86%8D%E8%B0%83%E6%95%B4-%E5%88%A0%E9%99%A4%E4%BA%8C%E6%89%8B%E4%BA%A7%E5%93%81-%E5%95%86%E5%93%81%E4%B8%8D%E5%B1%9E%E4%BA%8E%E4%B8%89%E5%8C%85%E8%8C%83%E5%9B%B4%E7%9B%B8%E5%85%B3%E8%A1%A8%E8%BF%B0)
