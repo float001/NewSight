@@ -12,6 +12,7 @@
   - [【💰】早 9 晚 6](https://2libra.com/post/touch-fish/9bMSRiV)
   - [【💰】直柄电动螺丝刀推荐](https://2libra.com/post/recommendations/mkv3BIQ)
   - [【💰】问个问题老哥们，新注册的 apple 美区账户，付款不了 chatgpt](https://2libra.com/post/ai-tools/8hU9e37)
+  - [一周年有和我一样羁绊吗？🥣](https://2libra.com/post/friendship/H7Ttty1)
   - [为数不多可以薅金币的日子了，我这感觉亏麻了，今天最高 1800 ？](https://2libra.com/post/forum-function/dwCt8aA)
   - [今天是那英发表重要讲话十五周年](https://2libra.com/post/hotspot-tracking/oNi9YMF)
   - [你有过哪些玄学经历？](https://2libra.com/post/idea/tI1r83u)
@@ -31,6 +32,7 @@
   - [怎么认识异性（本人 28）](https://2libra.com/post/love/0Qkm4Pa)
   - [我后悔了，潘多拉，能不能二选一。](https://2libra.com/post/forum-function/IyFmwrD)
   - [我竟然有徽章了](https://2libra.com/post/forum-function/i69cbh2)
+  - [摩拜共享单车押金可以退了](https://2libra.com/post/deal-hunter/7IIdxrQ)
   - [最新吃瓜 华为笑死我了 这选址是有点说法的](https://2libra.com/post/social-observation/BUdHtVw)
   - [有大佬知道这是哪个论坛嘛？](https://2libra.com/post/questions/ymBiXam)
   - [来晒晒称号啦](https://2libra.com/post/forum-function/kChibgN)
@@ -59,9 +61,12 @@
   - [Bitcoin ETFs tear through 2026 outflows in 7-day hot streak](https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise launches self-custodied tokenized stock portfolios with Coinbase](https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Japan weighs blockchain fast lane for securities cash settlement](https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B](https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Revolut rolls out euro stablecoin in three European markets](https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Solana transactions hit record 4.2B as SOL rallies 40%](https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report](https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis](https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tornado Cash developer Roman Storm’s retrial delayed to April 2027](https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US banking groups plan nationwide blockchain network for 2027](https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [World Liberty Financial launches USD1 natively on Canton Network](https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -73,6 +78,8 @@
   - [Hidden Prompts Trick AI Into False Email Summaries](https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries)
   - [Interpol's Jackal IV Disrupts West African Crime Infrastructure](https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure)
   - [Nigeria Looks to Sovereign Cloud for Cyber, National Security](https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security)
+- dfarq.homeip.net
+  - [Digg v4 and lessons not learned](https://dfarq.homeip.net/digg-v4-and-lessons-not-learned/?utm_source=rss&utm_medium=rss&utm_campaign=digg-v4-and-lessons-not-learned)
 - Emergent Minds | paddo.dev
   - [Stripe Bought the Exchange Rate: OpenRouter, $8 Billion, and Tokens as Currency](https://paddo.dev/blog/stripe-bought-the-exchange-rate/)
 - gilesthomas.com
@@ -93,6 +100,8 @@
   - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
   - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
   - [The End of Programming](https://pauldix.com/the-end-of-programming)
+  - [The Feeling of Power (Asimov, 1958)](https://archive.org/details/1958-02_IF)
+  - [U.S. gov't moves to suppress pushback on data centers](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them)
 - HackerNoon
   - [How to Keep an AI Voice Consistent Across Every Video Clip](https://hackernoon.com/how-to-keep-an-ai-voice-consistent-across-every-video-clip?source=rss)
 - InfoSec Write-ups - Medium
@@ -110,8 +119,12 @@
   - [Linux Foundation Introduces TRACE Standard for AI Runtime Evidence](https://www.infosecurity-magazine.com/news/linux-foundation-trace-standard-ai/)
 - jeffgeerling.com
   - [Debugging Ubiquiti's 5G Backup on AT&T](https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/)
+- johndcook.com
+  - [Ultraspherical](https://www.johndcook.com/blog/2026/08/26/ultraspherical/)
 - OpenZeppelin Blog
   - [OpenZeppelin and Pacific Meta Partner to Bring Institutional-Grade Onchain Security to Japan](https://www.openzeppelin.com/news/openzeppelin-and-pacific-meta-partner-to-bring-institutional-grade-onchain-security-to-japan)
+- Pen Test Partners
+  - [Estate planning of credentials](https://www.pentestpartners.com/security-blog/estate-planning-of-credentials/)
 - pluralistic.net
   - [Pluralistic: The age of disinvention (25 Aug 2026)](https://pluralistic.net/2026/08/25/gammamax/)
 - PwnDefend
@@ -132,6 +145,7 @@
   - [Life360 expands pet tracking with new $8 scannable tags and zoomie alerts](https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/)
   - [OpenAI loses a top data center exec, as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/)
   - [Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)
+  - [Runable hits $21M to bet AI agents can go from building businesses to growing them](https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/)
   - [SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana](https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/)
   - [Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding](https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/)
   - [Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/)
@@ -140,6 +154,7 @@
   - [X sends cease-and-desist to open-source project Nitter over alleged scraping](https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/)
   - [Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit](https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/)
 - The Block
+  - [Bernstein sees bitcoin reaching $150,000 by mid-2027 amid ‘debasement trade,’ but cuts Strategy target to $350](https://www.theblock.co/news/markets/2026-08-26-bernstein-sees-bitcoin-reaching-150000-by-mid-2027-amid-debasement-trade-but-cuts-strategy-target-to-350-412778)
   - [Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line](https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718)
   - [Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei](https://www.theblock.co/news/regulation/2026-08-26-japan-blockchain-stock-settlement-system-412755)
   - [Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows](https://www.theblock.co/news/web3/2026-08-26-kalshi-latest-form-d-412749)
@@ -150,7 +165,9 @@
   - [ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain](https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736)
 - The Decoder
   - [Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO](https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo/)
+  - [Bill Gates warns AI is more dangerous than the tech industry will admit](https://the-decoder.com/bill-gates-warns-ai-is-more-dangerous-than-the-tech-industry-will-admit/)
   - [Google launches Gemini for legal work to automate contracts and research](https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/)
+  - [IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0](https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0/)
   - [OpenAI's first custom chip "Jalapeño" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks](https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/)
   - [Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West](https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/)
 - The Verge
@@ -265,7 +282,9 @@
 - Wired
   - [25% Off Adidas Promo Code | August 2026](https://www.wired.com/story/adidas-promo-code/)
   - [A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread](https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/)
+  - [AI Slop Is Ruining Cute Animals on the Internet](https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/)
   - [Google Pixel 11 Pro Fold Review: Better, Not Best](https://www.wired.com/review/google-pixel-11-pro-fold/)
+  - [Green Chef Meal Kit Review (2026): Great Ingredients, Layered Flavor](https://www.wired.com/review/green-chef-meal-kit-2026/)
   - [How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range](https://www.wired.com/story/how-ikea-turned-a-controller-thumbstick-into-the-star-of-its-xbox-gaming-range/)
   - [HP Coupon Codes and Deals August 2026](https://www.wired.com/story/hp-coupon-code/)
   - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
@@ -297,12 +316,17 @@
   - [新西兰提出法案禁止 16 岁以下儿童使用社媒和 AI 陪伴服务](https://www.solidot.org/story?sid=85197)
   - [月之暗面与微软、亚马逊和 Google 协商收益分成协议](https://www.solidot.org/story?sid=85201)
   - [芬兰准备启用全球首座核废料最终处置场](https://www.solidot.org/story?sid=85199)
+- 安全客
+  - [一张网页就能投毒你的AI大模型：NVIDIA NemoClaw缺陷曝光，沙箱挡得住黑客，挡不住"夺舍"](https://www.anquanke.com/post/id/316021)
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
   - [OpenAI 自研「辣椒芯片」首测超英伟达，会让 ChatGPT 更便宜吗？](https://www.ifanr.com/1676738?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文](https://www.ifanr.com/1676731?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [特斯拉辟谣数据中心「人去楼空」，但 FSD 仍遥遥无期，特斯拉车主还要等多久？](https://www.ifanr.com/1676793?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [AI视频应用井喷，美图打开新的增长空间](https://www.qbitai.com/2026/08/479895.html)
+  - [小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势](https://www.qbitai.com/2026/08/479811.html)
   - [达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子](https://www.qbitai.com/2026/08/479808.html)
 - 风雪之隅(鸟哥)
   - [Yac 2.4.0发布 - 小值读取提升70%](https://www.laruence.com/2026/08/26/6566.html)
