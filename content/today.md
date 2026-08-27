@@ -1,10 +1,32 @@
 # 今日安全资讯（2026-08-28）
 
+- 2Libra
+  - [wow,ChatGPT 已重置,各位有熬夜蹬的吗](https://2libra.com/post/ai-companies/iFtPxPP)
+- CoinTelegraph
+  - [Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform](https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Ethical hacking and penetration testing
+  - [Local TTS in 30 languages with voice cloning (VoxCPM2 usage guide)](https://miloserdov.org/?p=8626)
 - Google AI Blog
   - [3 new ways to plan and book travel in Search](https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/)
+- Google DeepMind Blog
+  - [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/)
+- Hacker News Frontpage
+  - [Grok Bot for Linux: Unofficial port of the official app (open source)](https://github.com/jakob-bu/grok-bot-linux-unofficial)
+  - [Numerical (In)Stability of Recurrence Relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/)
+- Sploitus.com Exploits RSS Feed
+  - [cve-analysis-exploitation-mitigation](https://sploitus.com/exploit?id=70B2CC77-4D8A-556F-AB92-165EC41649DC&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Fashion startup Atoire raises $9.5M to bring consumers luxury goods without the markup](https://techcrunch.com/2026/08/27/fashion-startup-atoire-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/)
   - [Google’s AI Mode can now track flight prices, help book hotels, and more](https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/)
+  - [Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick](https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/)
+- The Decoder
+  - [Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible](https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/)
+  - [OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost](https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/)
 - The Verge
+  - [Jensen Huang says Nvidia achieved AGI, again — not that it matters](https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi)
   - [Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs](https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv)
+  - [Speedo’s new smart goggles module can track all four swim strokes](https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module)
+- Wired
+  - [OpenAI Is Developing a ‘Persistent’ AI Agent](https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
