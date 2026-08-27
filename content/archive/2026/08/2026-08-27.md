@@ -8,6 +8,7 @@
   - [【读书笔记】永恒少女：每一个焦虑的中产都是《包法利夫人》](https://2libra.com/post/good-books/Oqbp6my)
   - [【💰】有 ai 视频制作方案的高手不，我有个 1-2s 的视频，里面有三个人，想把中间那个人换头，有啥好思路吗，能免费最好了。](https://2libra.com/post/ai-applications/QjcHJpS)
   - [【💰】来点生活气息](https://2libra.com/post/personal-life/Zokvx89)
+  - [【💰】请教下 MacBookpro 无头骑士 值得买吗](https://2libra.com/post/apple/LFn6DVw)
   - [【💰】鼻窦炎犯了 怎么整 鼻子是通气的 但是感觉右边里面是堵得 还带着太阳穴头顶疼[尴尬]](https://2libra.com/post/health-consultation/fcggviI)
   - [上班喝茶](https://2libra.com/post/touch-fish/aIU4ITT)
   - [下单了个雷鸟 IO 眼镜](https://2libra.com/post/smart-wearable/DICwVgQ)
@@ -47,6 +48,7 @@
 - CoinTelegraph
   - [77% of Americans see crypto in retirement plans as risky: Survey](https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Better launches Bitcoin-backed mortgages powered by Coinbase](https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode](https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitfinex Securities completes record $50M tokenized capital raise](https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bithumb wins 2 suits over mistaken Bitcoin credits: Report](https://cointelegraph.com/news/bithumb-wins-suits-mistakenly-credited-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chainalysis estimates $457B in taxable crypto activity, says CARF misses most](https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -65,6 +67,8 @@
   - [GLM-5.3 Shipped Without Its Weights: Z.ai, Cursor, and a Two-Week Safety Hold](https://paddo.dev/blog/glm-5-3-shipped-without-its-weights/)
 - Google DeepMind Blog
   - [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/)
+- GuidePoint Security
+  - [Hunting Abuse: Detecting Privilege Escalation Through the ADCS Database](https://www.guidepointsecurity.com/blog/detecting-privilege-escalaction-through-adcs/)
 - Hacker News Frontpage
   - [76% of 623 EU software vendors have no security.txt ahead of the CRA 24h rule](https://cradrill.com/research.html)
   - [CDs vs. NIMBY](https://www.betonit.ai/p/cds-vs-nimby)
@@ -87,6 +91,7 @@
   - [How to Avoid Burnout as a Solo AI Filmmaker: The System I Built for Lost Garden](https://hackernoon.com/how-to-avoid-burnout-as-a-solo-ai-filmmaker-the-system-i-built-for-lost-garden?source=rss)
 - infosecurity-magazine.com
   - [Boston Scientific Reveals Global Disruption After Cyber Incident](https://www.infosecurity-magazine.com/news/boston-scientific-global/)
+  - [CISA Warns of Six Exploited Flaws in Microsoft, Linux, Red Hat and Citrix Products](https://www.infosecurity-magazine.com/news/cisa-kev-microsoft-citrix/)
   - [OpenAI: Hugging Face Incident a “Warning Shot” to the World](https://www.infosecurity-magazine.com/news/openai-hugging-face-warning-shot/)
 - johndcook.com
   - [What is the quality of software that AI writes?](https://www.johndcook.com/blog/2026/08/26/what-is-the-quality-of-software-that-ai-writes/)
@@ -179,7 +184,10 @@
   - [First quantum-resistant Bitcoin transaction successfully executed, StarkWare says](https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863)
   - [Mirae Asset maps out $109 billion digital asset push with Digital X: report](https://www.theblock.co/news/business/2026-08-27-mirae-asset-109-billion-digital-asset-push-412883)
 - The Decoder
+  - [Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO](https://the-decoder.com/anthropic-locks-in-45-billion-dollar-compute-deal-with-nscale-ahead-of-ipo/)
   - [Claude Cowork now runs its own browser inside the desktop app](https://the-decoder.com/claude-cowork-now-runs-its-own-browser-inside-the-desktop-app/)
+  - [GLM-5.3-Flash matches top models at a fraction of the cost, and runs without Nvidia](https://the-decoder.com/the-chinese-ai-model-glm-5-3-flash-runs-without-nvidia-and-costs-a-fraction-of-what-the-competition-does/)
+  - [Google's Gemini 3.5 Transcribe turns speech to text in 85 languages while auto-correcting your verbal stumbles](https://the-decoder.com/googles-gemini-3-5-transcribe-turns-speech-to-text-in-85-languages-while-auto-correcting-your-verbal-stumbles/)
   - [Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away](https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/)
   - [Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition](https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/)
 - The Verge
@@ -191,6 +199,7 @@
   - [Nvidia is about to be a hundred-billion-dollar-a-quarter company](https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue)
   - [OpenAI’s rogue AI model incident was worse than we thought](https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr)
   - [The Switch 2’s $50 price increase is happening next week](https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa)
+  - [Xiaomi’s new Redmi phone lasts for three days on a single charge](https://www.theverge.com/gadgets/984927/xiaomi-redmi-note-17-pro-max-9210mah-battery)
 - Vulners.com RSS Feed
   - [CVE-2026-41730](https://vulners.com/spring/SPRING:CVE-2026-41730?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59306](https://vulners.com/cve/CVE-2026-59306?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -212,6 +221,7 @@
   - [Motley Fool Promo Code: $200 Off on Stock Advisor September 2026](https://www.wired.com/story/the-motley-fool-promo-code/)
   - [OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers](https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/)
   - [Starz Promo Codes: $5 Off for September 2026](https://www.wired.com/story/starz-promo-code/)
+  - [Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead](https://www.wired.com/story/relay-q-voice-to-text-ai-app/)
   - [The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery](https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/)
   - [The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable](https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/)
   - [The UK Power Grid Has a Phantom Data Center Problem](https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/)
@@ -221,21 +231,30 @@
   - [Waffle House Teleporter Gregg Phillips Is Still on the Trump Administration’s Payroll](https://www.wired.com/story/waffle-house-teleporter-gregg-phillips-is-still-on-the-trump-administrations-payroll/)
 - 不安全
   - [Claude Cowork新增内置浏览器 可以直接打开网页/读取内容/点击链接/填写表单](https://buaq.net/go-438014.html)
+  - [droidground v1.0.14](https://buaq.net/go-438116.html)
+  - [Hunting Abuse: Detecting Privilege Escalation Through the ADCS Database](https://buaq.net/go-438111.html)
+  - [keyhog v0.5.86](https://buaq.net/go-438115.html)
   - [semgrep v1.175.0](https://buaq.net/go-438077.html)
   - [threat-finder v0.3.0](https://buaq.net/go-438002.html)
   - [yaraast v2.0.1rc1](https://buaq.net/go-438007.html)
   - [微软将允许用户通过安卓设备远程控制Windows 11 包括远程关机/重启/进入睡眠](https://buaq.net/go-438013.html)
+  - [最新 Parallels Desktop 27 虚拟机下载！在 Mac 上流畅运行 Win11 系统和软件](https://buaq.net/go-438112.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [英伟达同意以 129 亿美元收购 Hugging Face](https://www.solidot.org/story?sid=85206)
+- 安全客
+  - [Redis补丁被绕过了：最新RCE的PoC已全网公开，你的缓存服务器还在裸奔吗](https://www.anquanke.com/post/id/316025)
+  - [科技云报到：Agent不省钱反而亏钱？你需要这位“魔术师”](https://www.anquanke.com/post/id/316019)
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
   - [MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的](https://www.ifanr.com/1676874?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [OpenAI 的中场战事](https://www.ifanr.com/1676929?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [为什么苹果、小米的 AI 电脑，都在死磕「内存墙」｜AI 器物志](https://www.ifanr.com/1676852?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果新iPhone 9月10日见/特斯拉中国辟谣上海数据中心撤离/工信部:严禁未经充分测试验证的汽车产品进入市场](https://www.ifanr.com/1676848?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [智元机器人「奥运」首秀封神，戴着工牌狂揽 18 枚金牌](https://www.ifanr.com/1676970?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [机器人运动会散场后，自变量给机器人建了一座「虚拟训练场」](https://www.ifanr.com/1677048?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [理想换了一种活法！理想 i9、新 MEGA 即将发布，李想：纯电销量已经追平增程](https://www.ifanr.com/1677019?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果发布会最全爆料：折叠 iPhone 和新 CEO 都来了，还有一个 One more thing](https://www.ifanr.com/1676900?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
