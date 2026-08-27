@@ -2,7 +2,10 @@
 
 - 2Libra
   - [Mac Studio 已于今日（8 月 27 日）开启预购，并将在 9 月 22 日正式发售](https://2libra.com/post/apple/BXWiG_y)
+  - [【💰】鼻窦炎犯了 怎么整 鼻子是通气的 但是感觉右边里面是堵得 还带着太阳穴头顶疼[尴尬]](https://2libra.com/post/health-consultation/fcggviI)
+  - [中元节不能熬夜吗](https://2libra.com/post/festival-things/4qUug8x)
   - [吉米你要回收金币不，你要，我把法子送上](https://2libra.com/post/forum-function/N-4Kbxz)
+  - [好奇外国人订阅中国 AI 的费用](https://2libra.com/post/ai-companies/isuV-wy)
   - [成年人的御三家](https://2libra.com/post/game-discussion/gWiCKDJ)
   - [我后悔了，有个小小金币雨，我没有珍惜，偏偏反转了](https://2libra.com/post/forum-function/8wEWW-A)
   - [早上 6 点，「抛妻弃子」](https://2libra.com/post/sports/4ZQC6Ad)
@@ -10,6 +13,7 @@
   - [有用训记记录自己训练内容的吗？做了个训练记录数据可视化分析的工具，已开源](https://2libra.com/post/open-source-sharing/oz7r_bv)
   - [段子照进现实。。。 🤡🤡🤡](https://2libra.com/post/small-things/q2dGzU4)
   - [现在若帖子发布经 AI 判断价值分较高时，会自动在站内置顶 20 或 30 分钟](https://2libra.com/post/product-updates/3egpvRB)
+  - [站里买索尼相机的佬们多么？](https://2libra.com/post/photography-equipment/klbbC5q)
   - [签到动画不错，可惜我是大失败](https://2libra.com/post/forum-function/VWn9Y-v)
 - 404 Media
   - [A Student Said He Was a Hobby Plane Spotter. He Was Allegedly Taking Photos for the Chinese Government](https://www.404media.co/a-student-said-he-was-a-hobby-plane-spotter-he-was-allegedly-taking-photos-for-the-chinese-government/)
@@ -129,6 +133,9 @@
   - [US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate](https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/)
   - [Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation](https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/)
   - [What’s driving Sweden’s startup boom, from Lovable to Legora](https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/)
+- tedium.co
+  - [Can Self-Hosting Be Simple?](https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy)
+  - [Can Self-Hosting Be Simple?](https://feed.tedium.co/link/15204/17432611/self-hosting-third-place-strategy-2)
 - The Block
   - [CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for ‘official’ confirmation](https://www.theblock.co/news/markets/2026-08-26-cryptoquant-bitcoin-bull-market-83000-official-confirmation-412822)
   - [First quantum-resistant Bitcoin transaction successfully executed, StarkWare says](https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863)
@@ -143,6 +150,10 @@
   - [Nvidia is about to be a hundred-billion-dollar-a-quarter company](https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue)
   - [OpenAI’s rogue AI model incident was worse than we thought](https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr)
   - [The Switch 2’s $50 price increase is happening next week](https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa)
+- Vulners.com RSS Feed
+  - [CVE-2026-41730](https://vulners.com/spring/SPRING:CVE-2026-41730?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59306](https://vulners.com/cve/CVE-2026-59306?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59306](https://vulners.com/spring/SPRING:CVE-2026-59306?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety](https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/)
   - [Democrats Just Might Win the Senate](https://www.wired.com/story/democrats-just-might-win-the-senate/)
