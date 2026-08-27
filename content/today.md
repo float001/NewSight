@@ -3,6 +3,7 @@
 - 2Libra
   - [2libra 有啥安卓客户端吗](https://2libra.com/post/questions/9_8EIys)
   - [cursor 这吃相变难看了。。。](https://2libra.com/post/ai-programming/_Bg4-jc)
+  - [esim 禁用后无法启用](https://2libra.com/post/phone/MAJxRLy)
   - [imgbox 也跑路了，还打起了中转站的广告](https://2libra.com/post/sharing-discoveries/XZoYpIK)
   - [Mac Studio 已于今日（8 月 27 日）开启预购，并将在 9 月 22 日正式发售](https://2libra.com/post/apple/BXWiG_y)
   - [【读书笔记】永恒少女：每一个焦虑的中产都是《包法利夫人》](https://2libra.com/post/good-books/Oqbp6my)
@@ -44,6 +45,7 @@
   - [A Student Said He Was a Hobby Plane Spotter. He Was Allegedly Taking Photos for the Chinese Government](https://www.404media.co/a-student-said-he-was-a-hobby-plane-spotter-he-was-allegedly-taking-photos-for-the-chinese-government/)
   - [Scientists Discover Vast Underground 'Anomaly' on Mars](https://www.404media.co/scientists-discover-vast-underground-anomaly-on-mars/)
 - Ars Technica
+  - [An EV that sounds like a 6.75 L V8: A ride in the Bentley Torcal](https://arstechnica.com/cars/2026/08/an-ev-that-sounds-like-a-6-75-l-v8-a-ride-in-the-bentley-torcal/)
   - [New Twitter launches, says Musk's X gave up the name](https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/)
 - CoinTelegraph
   - [77% of Americans see crypto in retirement plans as risky: Survey](https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -63,6 +65,7 @@
   - [‘Surprise and Shine’ Apple Event: Wednesday 9 September](https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/)
 - darkreading
   - [Dark Caracal Adds New Malware to Cyber Espionage Arsenal](https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal)
+  - [Russian Hackers Phish EU Officials Over Messaging Apps](https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps)
 - Emergent Minds | paddo.dev
   - [GLM-5.3 Shipped Without Its Weights: Z.ai, Cursor, and a Two-Week Safety Hold](https://paddo.dev/blog/glm-5-3-shipped-without-its-weights/)
 - Google DeepMind Blog
@@ -91,12 +94,17 @@
   - [How to Avoid Burnout as a Solo AI Filmmaker: The System I Built for Lost Garden](https://hackernoon.com/how-to-avoid-burnout-as-a-solo-ai-filmmaker-the-system-i-built-for-lost-garden?source=rss)
 - infosecurity-magazine.com
   - [Boston Scientific Reveals Global Disruption After Cyber Incident](https://www.infosecurity-magazine.com/news/boston-scientific-global/)
+  - [Chinese Hacker Group QTFY Uses Custom-Built Platforms to Target US Infrastructure, FBI Warns](https://www.infosecurity-magazine.com/news/chinese-qtfy-us-infrastructure-fbi/)
   - [CISA Warns of Six Exploited Flaws in Microsoft, Linux, Red Hat and Citrix Products](https://www.infosecurity-magazine.com/news/cisa-kev-microsoft-citrix/)
   - [OpenAI: Hugging Face Incident a “Warning Shot” to the World](https://www.infosecurity-magazine.com/news/openai-hugging-face-warning-shot/)
 - johndcook.com
   - [What is the quality of software that AI writes?](https://www.johndcook.com/blog/2026/08/26/what-is-the-quality-of-software-that-ai-writes/)
 - Product Hunt
   - [Wondering Canvas](https://www.producthunt.com/products/wondering-2)
+- Recent Commits to cve:main
+  - [Update Thu Aug 27 11:56:08 UTC 2026](https://github.com/trickest/cve/commit/ea673a226031bc550c60f1e0bf6d46d3e190eff9)
+- shkspr.mobi
+  - [Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ★★★★☆](https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/)
 - Sploitus.com Exploits RSS Feed
   - [-CVE-2021-4034 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-USMANSEC--CVE-2021-4034&utm_source=rss&utm_medium=rss)
   - [Active-Scanning-and-Information-Gathering-in-ICS-SCADA-Networks-Using-Network-Mapper-NMAP exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MURATAYDEMIR-ACTIVE-SCANNING-AND-INFORMATION-GATHERING-IN-ICS-SCADA-NETWORKS-USING-NETWORK-MAPPER-NMAP&utm_source=rss&utm_medium=rss)
@@ -170,6 +178,7 @@
   - [Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states](https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/)
   - [Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well](https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/)
   - [Nvidia closes in on Hugging Face acquisition](https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/)
+  - [OpenAI to start showing ads on ChatGPT’s free and Go tiers in India](https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/)
   - [US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate](https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/)
   - [Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation](https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/)
   - [What’s driving Sweden’s startup boom, from Lovable to Legora](https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/)
@@ -177,8 +186,10 @@
   - [Can Self-Hosting Be Simple?](https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy)
   - [Can Self-Hosting Be Simple?](https://feed.tedium.co/link/15204/17432611/self-hosting-third-place-strategy-2)
 - The Block
+  - [Binance co-founder Changpeng ‘CZ’ Zhao says bitcoin could surpass gold in next bull market](https://www.theblock.co/news/markets/2026-08-27-binance-co-founder-changpeng-cz-zhao-says-bitcoin-could-surpass-gold-in-next-bull-market-412904)
   - [Bitcoin faces key hurdle in $81,000-$86,000 range to reach January high, analyst says](https://www.theblock.co/news/markets/2026-08-27-bitcoin-faces-key-hurdle-81000-86000-412876)
   - [Bithumb wins lawsuit over proceeds from 620,000 BTC fat-finger error: report](https://www.theblock.co/news/regulation/2026-08-27-bithumb-wins-lawsuit-btc-412893)
+  - [BlackRock’s Mitchnick says bitcoin’s risk-off narrative is ‘the one to bet on’ long term as rally consolidates near $80,000](https://www.theblock.co/news/markets/2026-08-27-blackrocks-mitchnick-says-bitcoins-risk-off-narrative-is-the-one-to-bet-on-long-term-as-rally-consolidates-near-80000-412897)
   - [Connecticut sues Kalshi over sports event contracts in months-long legal feud](https://www.theblock.co/news/regulation/2026-08-27-connecticut-sues-kalshi-412870)
   - [CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for ‘official’ confirmation](https://www.theblock.co/news/markets/2026-08-26-cryptoquant-bitcoin-bull-market-83000-official-confirmation-412822)
   - [First quantum-resistant Bitcoin transaction successfully executed, StarkWare says](https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863)
@@ -197,7 +208,10 @@
   - [Apple Maps has ads now](https://www.theverge.com/tech/985249/apple-maps-iphone-ads)
   - [Being a mom is hard — the heat is making it harder](https://www.theverge.com/news/985225/heat-stress-children-climate-change-study)
   - [Nvidia is about to be a hundred-billion-dollar-a-quarter company](https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue)
+  - [Of course Samsung made a 1,100Hz gaming monitor](https://www.theverge.com/tech/985476/samsung-odyssey-gaming-monitors-2027-lineup-launch)
   - [OpenAI’s rogue AI model incident was worse than we thought](https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr)
+  - [Samsung’s Galaxy S26 FE pairs last year’s hardware with last month’s software](https://www.theverge.com/report/985187/samsung-galaxy-s26-fe-hands-on-preview-specs-features-design)
+  - [Sleep score court is in session](https://www.theverge.com/gadgets/984728/sleep-score-court-is-in-session-pixel-watch)
   - [The Switch 2’s $50 price increase is happening next week](https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa)
   - [Xiaomi’s new Redmi phone lasts for three days on a single charge](https://www.theverge.com/gadgets/984927/xiaomi-redmi-note-17-pro-max-9210mah-battery)
 - Vulners.com RSS Feed
@@ -230,6 +244,7 @@
   - [TopResume Packages: Everything You Need to Get Hired](https://www.wired.com/story/topresume-discount-code/)
   - [Waffle House Teleporter Gregg Phillips Is Still on the Trump Administration’s Payroll](https://www.wired.com/story/waffle-house-teleporter-gregg-phillips-is-still-on-the-trump-administrations-payroll/)
 - 不安全
+  - [[REPOST] The Server Called Paranoia: Defend Autistici/Inventati Before September 25](https://buaq.net/go-438124.html)
   - [Claude Cowork新增内置浏览器 可以直接打开网页/读取内容/点击链接/填写表单](https://buaq.net/go-438014.html)
   - [droidground v1.0.14](https://buaq.net/go-438116.html)
   - [Hunting Abuse: Detecting Privilege Escalation Through the ADCS Database](https://buaq.net/go-438111.html)
@@ -260,6 +275,8 @@
 - 量子位 QbitAI
   - [千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%](https://www.qbitai.com/2026/08/480001.html)
 - 黑海洋
+  - [DeepSeek公司估值预计将达到740亿美元](https://blog.upx8.com/DeepSeek%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC%E9%A2%84%E8%AE%A1%E5%B0%86%E8%BE%BE%E5%88%B0740%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [IDC预测苹果折叠屏iPhone第一年出货量将超过1000万部](https://blog.upx8.com/IDC%E9%A2%84%E6%B5%8B%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E7%AC%AC%E4%B8%80%E5%B9%B4%E5%87%BA%E8%B4%A7%E9%87%8F%E5%B0%86%E8%B6%85%E8%BF%871000%E4%B8%87%E9%83%A8)
+  - [全球AI热潮支撑，中国工业企业利润大幅增长](https://blog.upx8.com/%E5%85%A8%E7%90%83AI%E7%83%AD%E6%BD%AE%E6%94%AF%E6%92%91-%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%B8%9A%E4%BC%81%E4%B8%9A%E5%88%A9%E6%B6%A6%E5%A4%A7%E5%B9%85%E5%A2%9E%E9%95%BF)
   - [大水冲了龙王庙 OpenAI：失控AI智能体入侵了自家系统](https://blog.upx8.com/%E5%A4%A7%E6%B0%B4%E5%86%B2%E4%BA%86%E9%BE%99%E7%8E%8B%E5%BA%99-OpenAI-%E5%A4%B1%E6%8E%A7AI%E6%99%BA%E8%83%BD%E4%BD%93%E5%85%A5%E4%BE%B5%E4%BA%86%E8%87%AA%E5%AE%B6%E7%B3%BB%E7%BB%9F)
   - [滨冈核电站反应堆报废相关报告副本被篡改](https://blog.upx8.com/%E6%BB%A8%E5%86%88%E6%A0%B8%E7%94%B5%E7%AB%99%E5%8F%8D%E5%BA%94%E5%A0%86%E6%8A%A5%E5%BA%9F%E7%9B%B8%E5%85%B3%E6%8A%A5%E5%91%8A%E5%89%AF%E6%9C%AC%E8%A2%AB%E7%AF%A1%E6%94%B9)
