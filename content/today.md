@@ -2,6 +2,8 @@
 
 - 2Libra
   - [2libra 有啥安卓客户端吗](https://2libra.com/post/questions/9_8EIys)
+  - [8 月 27 日微语报，星期四，农历七月十五，工作愉快，生活喜乐！](https://2libra.com/post/social-observation/bHVUGKH)
+  - [8 月 27 日资本市场大事提醒](https://2libra.com/post/stock-market/9RKdXRA)
   - [cursor 这吃相变难看了。。。](https://2libra.com/post/ai-programming/_Bg4-jc)
   - [esim 禁用后无法启用](https://2libra.com/post/phone/MAJxRLy)
   - [imgbox 也跑路了，还打起了中转站的广告](https://2libra.com/post/sharing-discoveries/XZoYpIK)
@@ -49,6 +51,7 @@
   - [New Twitter launches, says Musk's X gave up the name](https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/)
 - CoinTelegraph
   - [77% of Americans see crypto in retirement plans as risky: Survey](https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bank of England set for new innovation mandate covering stablecoins](https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Better launches Bitcoin-backed mortgages powered by Coinbase](https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode](https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitfinex Securities completes record $50M tokenized capital raise](https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -70,6 +73,7 @@
   - [GLM-5.3 Shipped Without Its Weights: Z.ai, Cursor, and a Two-Week Safety Hold](https://paddo.dev/blog/glm-5-3-shipped-without-its-weights/)
 - Google DeepMind Blog
   - [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/)
+  - [Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/)
 - GuidePoint Security
   - [Hunting Abuse: Detecting Privilege Escalation Through the ADCS Database](https://www.guidepointsecurity.com/blog/detecting-privilege-escalaction-through-adcs/)
 - Hacker News Frontpage
@@ -96,15 +100,23 @@
   - [Boston Scientific Reveals Global Disruption After Cyber Incident](https://www.infosecurity-magazine.com/news/boston-scientific-global/)
   - [Chinese Hacker Group QTFY Uses Custom-Built Platforms to Target US Infrastructure, FBI Warns](https://www.infosecurity-magazine.com/news/chinese-qtfy-us-infrastructure-fbi/)
   - [CISA Warns of Six Exploited Flaws in Microsoft, Linux, Red Hat and Citrix Products](https://www.infosecurity-magazine.com/news/cisa-kev-microsoft-citrix/)
+  - [Manchester Airports Group Hit by Cyber Incident](https://www.infosecurity-magazine.com/news/manchester-airports-data-breach/)
   - [OpenAI: Hugging Face Incident a “Warning Shot” to the World](https://www.infosecurity-magazine.com/news/openai-hugging-face-warning-shot/)
 - johndcook.com
   - [What is the quality of software that AI writes?](https://www.johndcook.com/blog/2026/08/26/what-is-the-quality-of-software-that-ai-writes/)
+- MIT Technology Review
+  - [The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US](https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/)
+- NVIDIA AI Blog
+  - [Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now](https://blogs.nvidia.com/blog/vera-cpu-delivery/)
+  - [GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026](https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/)
 - Product Hunt
   - [Wondering Canvas](https://www.producthunt.com/products/wondering-2)
 - Recent Commits to cve:main
   - [Update Thu Aug 27 11:56:08 UTC 2026](https://github.com/trickest/cve/commit/ea673a226031bc550c60f1e0bf6d46d3e190eff9)
 - shkspr.mobi
   - [Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ★★★★☆](https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/)
+- Sonar Blog
+  - [SonarQube Hunter Agent is now GA: Catch broken access control and business logic flaws](https://www.sonarsource.com/blog/hunter-agent-detects-logical-flaws/)
 - Sploitus.com Exploits RSS Feed
   - [-CVE-2021-4034 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-USMANSEC--CVE-2021-4034&utm_source=rss&utm_medium=rss)
   - [Active-Scanning-and-Information-Gathering-in-ICS-SCADA-Networks-Using-Network-Mapper-NMAP exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MURATAYDEMIR-ACTIVE-SCANNING-AND-INFORMATION-GATHERING-IN-ICS-SCADA-NETWORKS-USING-NETWORK-MAPPER-NMAP&utm_source=rss&utm_medium=rss)
@@ -179,6 +191,7 @@
   - [Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well](https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/)
   - [Nvidia closes in on Hugging Face acquisition](https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/)
   - [OpenAI to start showing ads on ChatGPT’s free and Go tiers in India](https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/)
+  - [Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents](https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/)
   - [US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate](https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/)
   - [Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation](https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/)
   - [What’s driving Sweden’s startup boom, from Lovable to Legora](https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/)
@@ -194,6 +207,7 @@
   - [CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for ‘official’ confirmation](https://www.theblock.co/news/markets/2026-08-26-cryptoquant-bitcoin-bull-market-83000-official-confirmation-412822)
   - [First quantum-resistant Bitcoin transaction successfully executed, StarkWare says](https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863)
   - [Mirae Asset maps out $109 billion digital asset push with Digital X: report](https://www.theblock.co/news/business/2026-08-27-mirae-asset-109-billion-digital-asset-push-412883)
+  - [Moonwell investigates lending market issue on Base as security firms flag multimillion-dollar exploit](https://www.theblock.co/news/defi/2026-08-27-moonwell-investigates-base-lending-market-issue-412913)
 - The Decoder
   - [Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO](https://the-decoder.com/anthropic-locks-in-45-billion-dollar-compute-deal-with-nscale-ahead-of-ipo/)
   - [Claude Cowork now runs its own browser inside the desktop app](https://the-decoder.com/claude-cowork-now-runs-its-own-browser-inside-the-desktop-app/)
@@ -202,6 +216,7 @@
   - [Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away](https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/)
   - [Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition](https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/)
 - The Verge
+  - [Adobe is adding more AI to Photoshop](https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup)
   - [All the ways Instagram and Facebook are changing for teens](https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes)
   - [Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards](https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale)
   - [Apple announces September iPhone launch event](https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date)
@@ -222,6 +237,7 @@
   - [CVE-2026-75005 Apache APISIX: Unauthenticated CPU-exhaustion DoS](https://vulners.com/cvelist/CVELIST:CVE-2026-75005?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75020 Apache APISIX: ldap-auth plugin cross-subtree identity impersonation](https://vulners.com/cvelist/CVELIST:CVE-2026-75020?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Alienware AW3926QW Review: 39 Inches of Gaming Glory](https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/)
   - [Alo Discount Code: 20% Off September 2026](https://www.wired.com/story/alo-yoga-discount-code/)
   - [Birdfy Discount Codes: 15% Off Sitewide](https://www.wired.com/story/birdfy-discount-code/)
   - [Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety](https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/)
@@ -247,8 +263,10 @@
   - [[REPOST] The Server Called Paranoia: Defend Autistici/Inventati Before September 25](https://buaq.net/go-438124.html)
   - [Claude Cowork新增内置浏览器 可以直接打开网页/读取内容/点击链接/填写表单](https://buaq.net/go-438014.html)
   - [droidground v1.0.14](https://buaq.net/go-438116.html)
+  - [Fake Apple Pay charge brings the classic tech support scam to your phone](https://buaq.net/go-438150.html)
   - [Hunting Abuse: Detecting Privilege Escalation Through the ADCS Database](https://buaq.net/go-438111.html)
   - [keyhog v0.5.86](https://buaq.net/go-438115.html)
+  - [RDP-Guard](https://buaq.net/go-438154.html)
   - [semgrep v1.175.0](https://buaq.net/go-438077.html)
   - [threat-finder v0.3.0](https://buaq.net/go-438002.html)
   - [yaraast v2.0.1rc1](https://buaq.net/go-438007.html)
@@ -273,6 +291,7 @@
   - [理想换了一种活法！理想 i9、新 MEGA 即将发布，李想：纯电销量已经追平增程](https://www.ifanr.com/1677019?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果发布会最全爆料：折叠 iPhone 和新 CEO 都来了，还有一个 One more thing](https://www.ifanr.com/1676900?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧](https://www.qbitai.com/2026/08/480092.html)
   - [千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%](https://www.qbitai.com/2026/08/480001.html)
 - 黑海洋
   - [DeepSeek公司估值预计将达到740亿美元](https://blog.upx8.com/DeepSeek%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC%E9%A2%84%E8%AE%A1%E5%B0%86%E8%BE%BE%E5%88%B0740%E4%BA%BF%E7%BE%8E%E5%85%83)
