@@ -2,16 +2,24 @@
 
 - 2Libra
   - [wow,ChatGPT 已重置,各位有熬夜蹬的吗](https://2libra.com/post/ai-companies/iFtPxPP)
+- 404 Media
+  - [The AI ‘Ghosts’ Contaminating Academic Publishing](https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/)
+- blog.jim-nielsen.com
+  - [A Calendar View For My Blog](https://blog.jim-nielsen.com/2026/blog-calendar-view/)
 - CoinTelegraph
   - [Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets](https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform](https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows](https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Ethical hacking and penetration testing
   - [Local TTS in 30 languages with voice cloning (VoxCPM2 usage guide)](https://miloserdov.org/?p=8626)
+- gilesthomas.com
+  - [Why do OpenAI's GPT-2 weights beat mine?  Part four: digging into dropout](https://www.gilesthomas.com/2026/08/why-do-openai-gpt2-weights-beat-mine-4-ift-dropout)
 - Google AI Blog
   - [3 new ways to plan and book travel in Search](https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/)
 - Google DeepMind Blog
   - [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/)
 - Hacker News Frontpage
+  - [Autism mutations drive neurodevelopmental pathology](https://www.science.org/doi/10.1126/science.ady4523)
   - [Grok Bot for Linux: Unofficial port of the official app (open source)](https://github.com/jakob-bu/grok-bot-linux-unofficial)
   - [Numerical (In)Stability of Recurrence Relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/)
   - [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
@@ -26,10 +34,14 @@
   - [OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI](https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/)
 - The Block
   - [Ethena Foundation proposes fee switch for ENA token buybacks among other updates](https://www.theblock.co/news/ecosystems/2026-08-27-ethena-foundation-proposes-fee-switch-ena-token-buybacks-other-updates-412951)
+  - [Polish Olympic Committee president detained in Zondacrypto bribery probe](https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961)
 - The Decoder
+  - [AI shopping agents aren't ready to buy on your behalf, study finds](https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/)
   - [Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible](https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/)
+  - [OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent](https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/)
   - [OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost](https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/)
 - The Verge
+  - [Google tells Android app developers to cool it on memory use, or else](https://www.theverge.com/tech/985679/google-play-android-17-memory-limit)
   - [Jensen Huang says Nvidia achieved AGI, again — not that it matters](https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi)
   - [Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs](https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv)
   - [Speedo’s new smart goggles module can track all four swim strokes](https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module)
@@ -38,7 +50,10 @@
 - Vulners.com RSS Feed
   - [Exploit for CVE-2026-67602](https://vulners.com/githubexploit/229AD960-7A7E-5E2D-A1D7-5DEBE35E681B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend](https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/)
+  - [Labor Day 2026 Deals Got Me a Complete Starter Tool Kit for Under $375](https://www.wired.com/story/labor-day-2026-home-tool-kit-essentials/)
   - [Netflix Failed at Video Games. Now It’s Trying to Promote Them](https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/)
   - [OpenAI Is Developing a ‘Persistent’ AI Agent](https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/)
+  - [This Is How Anthropic Thinks AI Agents Should Navigate the Physical World](https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
