@@ -10,6 +10,13 @@
   - [Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets](https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform](https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows](https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen](https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [Ads in Apple Maps Have Now Launched](https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/)
+  - [‘How Europe Is Killing Makers and Micro-Entrepreneurs’](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
+- darkreading
+  - [Chinese Routers Sold Worldwide Contain Backdoors](https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors)
 - Ethical hacking and penetration testing
   - [Local TTS in 30 languages with voice cloning (VoxCPM2 usage guide)](https://miloserdov.org/?p=8626)
 - gilesthomas.com
@@ -24,14 +31,18 @@
   - [Numerical (In)Stability of Recurrence Relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/)
   - [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
   - [Two German airport workers die of malaria after 'mosquito arrives on plane'](https://www.bbc.com/news/articles/cz6zwgg9y8go)
+- micahflee.com
+  - [Sandboxing coding agents](https://micahflee.com/sandboxing-coding-agents/)
 - Sploitus.com Exploits RSS Feed
   - [cve-analysis-exploitation-mitigation](https://sploitus.com/exploit?id=70B2CC77-4D8A-556F-AB92-165EC41649DC&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [ATF declares ‘major incident’ as ransomware gang claims hack](https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/)
+  - [Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/)
   - [Fashion startup Atoire raises $9.5M to bring consumers luxury goods without the markup](https://techcrunch.com/2026/08/27/fashion-startup-atoire-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/)
   - [Google’s AI Mode can now track flight prices, help book hotels, and more](https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/)
   - [Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick](https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/)
   - [OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI](https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/)
+  - [YouTube now lets creators tag Amazon products and earn commissions from purchases](https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/)
 - The Block
   - [Ethena Foundation proposes fee switch for ENA token buybacks among other updates](https://www.theblock.co/news/ecosystems/2026-08-27-ethena-foundation-proposes-fee-switch-ena-token-buybacks-other-updates-412951)
   - [Polish Olympic Committee president detained in Zondacrypto bribery probe](https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961)
@@ -42,15 +53,38 @@
   - [OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost](https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/)
 - The Verge
   - [Google tells Android app developers to cool it on memory use, or else](https://www.theverge.com/tech/985679/google-play-android-17-memory-limit)
+  - [Google’s AI note-taking app now allows you to interact with books](https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books)
   - [Jensen Huang says Nvidia achieved AGI, again — not that it matters](https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi)
   - [Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs](https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv)
   - [Speedo’s new smart goggles module can track all four swim strokes](https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [PCI DSS 4.0.1: Application Requirements You’re Being Assessed On in 2026](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
+  - [Added-Pentest-Ground-to-vulnerable-websites-for-training](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RAINHAWK13-ADDED-PENTEST-GROUND-TO-VULNERABLE-WEBSITES-FOR-TRAINING?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [camoufox](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DAIJRO-CAMOUFOX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2019-16891-Liferay-deserialization-RCE](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RAI0FFS3C-CVE-2019-16891-LIFERAY-DESERIALIZATION-RCE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2020-28488](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RAFAELCINTRALOPES-CVE-2020-28488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2021-2109](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RABBITSAFE-CVE-2021-2109?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2023-21768-DSE-Bypass](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RADOI-TEODOR-CVE-2023-21768-DSE-BYPASS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2023-34634](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RADMAN404-CVE-2023-34634?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2024-41505](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RAFAELBALDASSO-CVE-2024-41505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [cve-2025-0133](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RADITYAHACK-CVE-2025-0133?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [cve-2025-55182-node](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RACALL-CVE-2025-55182-NODE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [EXIM-4.87-CVE-2019-10149](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RAHMADSANDY-EXIM-4.87-CVE-2019-10149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-67602](https://vulners.com/githubexploit/229AD960-7A7E-5E2D-A1D7-5DEBE35E681B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [exploit-CVE-2016-10033](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-OPSXCQ-EXPLOIT-CVE-2016-10033?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [fleet](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-FLEETDM-FLEET?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [instaloader](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-INSTALOADER-INSTALOADER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kata-containers](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-KATA-CONTAINERS-KATA-CONTAINERS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [LAB-DFIR-cve-2023-38831](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RA3EDAJ-LAB-DFIR-CVE-2023-38831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [osv-scanner](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-GOOGLE-OSV-SCANNER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [RedTeamBrasil-CVE-2025-64459](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RAFAELCHRISS-REDTEAMBRASIL-CVE-2025-64459?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ultralytics](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ULTRALYTICS-ULTRALYTICS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [wordpress-snapcreek](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RAGHU66669999-WORDPRESS-SNAPCREEK?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [yasa-cve-2024-43400-main1](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RAIN321654-YASA-CVE-2024-43400-MAIN1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend](https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/)
+  - [Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling](https://www.wired.com/story/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling/)
   - [Labor Day 2026 Deals Got Me a Complete Starter Tool Kit for Under $375](https://www.wired.com/story/labor-day-2026-home-tool-kit-essentials/)
   - [Netflix Failed at Video Games. Now It’s Trying to Promote Them](https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/)
   - [OpenAI Is Developing a ‘Persistent’ AI Agent](https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/)
