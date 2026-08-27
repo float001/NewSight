@@ -2,6 +2,7 @@
 
 - 2Libra
   - [Mac Studio 已于今日（8 月 27 日）开启预购，并将在 9 月 22 日正式发售](https://2libra.com/post/apple/BXWiG_y)
+  - [【读书笔记】永恒少女：每一个焦虑的中产都是《包法利夫人》](https://2libra.com/post/good-books/Oqbp6my)
   - [【💰】鼻窦炎犯了 怎么整 鼻子是通气的 但是感觉右边里面是堵得 还带着太阳穴头顶疼[尴尬]](https://2libra.com/post/health-consultation/fcggviI)
   - [中元节不能熬夜吗](https://2libra.com/post/festival-things/4qUug8x)
   - [吉米你要回收金币不，你要，我把法子送上](https://2libra.com/post/forum-function/N-4Kbxz)
@@ -27,6 +28,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC sends crypto custody rule overhaul to White House for review](https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch](https://cointelegraph.com/magazine/shrincs-bip-is-published-quantum-secure-bitcoin-comes-with-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [StarkWare tests quantum-resistant Bitcoin transaction on mainnet](https://cointelegraph.com/news/starkware-quantum-resistant-bitcoin-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple Polishing Cloth Is Now Just $9](https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/)
   - [POSIWID: The Purpose of a System Is What It Does](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does)
@@ -155,15 +157,24 @@
   - [CVE-2026-59306](https://vulners.com/cve/CVE-2026-59306?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59306](https://vulners.com/spring/SPRING:CVE-2026-59306?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Alo Discount Code: 20% Off September 2026](https://www.wired.com/story/alo-yoga-discount-code/)
+  - [Birdfy Discount Codes: 15% Off Sitewide](https://www.wired.com/story/birdfy-discount-code/)
   - [Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety](https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/)
   - [Democrats Just Might Win the Senate](https://www.wired.com/story/democrats-just-might-win-the-senate/)
+  - [Design Within Reach Promo Codes: 30% Off | September 2026](https://www.wired.com/story/design-within-reach-promo-code/)
   - [FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure](https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/)
+  - [Hostinger Promo Code: 79% Off for September 2026](https://www.wired.com/story/hostinger-coupon-code/)
   - [How Rising Temperatures Likely Contributed to Nepal’s Deadly Flood](https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/)
   - [How to See the Partial Lunar Eclipse and Blood Moon on August 27](https://www.wired.com/story/how-to-view-august-2026-lunar-eclipse/)
+  - [Litter-Robot Promo Codes: Up to $150 Off](https://www.wired.com/story/litter-robot-promo-code/)
+  - [Motley Fool Promo Code: $200 Off on Stock Advisor September 2026](https://www.wired.com/story/the-motley-fool-promo-code/)
   - [OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers](https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/)
+  - [Starz Promo Codes: $5 Off for September 2026](https://www.wired.com/story/starz-promo-code/)
   - [The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery](https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/)
   - [The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable](https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/)
+  - [Therabody Promo Codes: 15% Off September 2026](https://www.wired.com/story/therabody-promo-code/)
   - [There Are No Trans Women in the WNBA, so Right-Wingers Are Making Some Up](https://www.wired.com/story/there-are-no-trans-women-in-the-wnba-so-right-wingers-are-making-some-up/)
+  - [TopResume Packages: Everything You Need to Get Hired](https://www.wired.com/story/topresume-discount-code/)
   - [Waffle House Teleporter Gregg Phillips Is Still on the Trump Administration’s Payroll](https://www.wired.com/story/waffle-house-teleporter-gregg-phillips-is-still-on-the-trump-administrations-payroll/)
 - 不安全
   - [Claude Cowork新增内置浏览器 可以直接打开网页/读取内容/点击链接/填写表单](https://buaq.net/go-438014.html)
@@ -172,6 +183,8 @@
   - [微软将允许用户通过安卓设备远程控制Windows 11 包括远程关机/重启/进入睡眠](https://buaq.net/go-438013.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 小刀志
+  - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
   - [MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的](https://www.ifanr.com/1676874?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果新iPhone 9月10日见/特斯拉中国辟谣上海数据中心撤离/工信部:严禁未经充分测试验证的汽车产品进入市场](https://www.ifanr.com/1676848?utm_source=rss&utm_medium=rss&utm_campaign=)
