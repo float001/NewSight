@@ -3,9 +3,11 @@
 - 2Libra
   - [wow,ChatGPT 已重置,各位有熬夜蹬的吗](https://2libra.com/post/ai-companies/iFtPxPP)
   - [整理了一个开源 AI 伴侣/长记忆/本地语音生态索引（已收录 150+ 项目，550+ Star）](https://2libra.com/post/ai-emotion-guard/racdggJ)
+  - [每日微语看天下 8 月 28 日](https://2libra.com/post/hotspot-tracking/OF6mEa0)
 - 404 Media
   - [The AI ‘Ghosts’ Contaminating Academic Publishing](https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/)
 - Ars Technica
+  - [Anthropic's new hardware standard lets AI agents control the physical world](https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/)
   - [GOP heads to Supreme Court after losing case over TV election ad prices](https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/)
 - blog.jim-nielsen.com
   - [A Calendar View For My Blog](https://blog.jim-nielsen.com/2026/blog-calendar-view/)
@@ -38,9 +40,12 @@
   - [Grok Bot for Linux: Unofficial port of the official app (open source)](https://github.com/jakob-bu/grok-bot-linux-unofficial)
   - [Numerical (In)Stability of Recurrence Relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/)
   - [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+  - [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
   - [Two German airport workers die of malaria after 'mosquito arrives on plane'](https://www.bbc.com/news/articles/cz6zwgg9y8go)
 - micahflee.com
   - [Sandboxing coding agents](https://micahflee.com/sandboxing-coding-agents/)
+- simonwillison.net
+  - [Breaking Claude Code Opus 5 Auto Mode](https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/)
 - Sploitus.com Exploits RSS Feed
   - [backup_dc_registry exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HORIZON3AI-BACKUP_DC_REGISTRY&utm_source=rss&utm_medium=rss)
   - [Baskerville exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NCCGROUP-BASKERVILLE&utm_source=rss&utm_medium=rss)
@@ -87,6 +92,7 @@
 - The Block
   - [Ethena Foundation proposes fee switch for ENA token buybacks among other updates](https://www.theblock.co/news/ecosystems/2026-08-27-ethena-foundation-proposes-fee-switch-ena-token-buybacks-other-updates-412951)
   - [Polish Olympic Committee president detained in Zondacrypto bribery probe](https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961)
+  - [UAE ‘spy sheikh’ takes 49% stake in Trump family’s bank venture: WSJ](https://www.theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971)
 - The Decoder
   - [AI shopping agents aren't ready to buy on your behalf, study finds](https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/)
   - [Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible](https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/)
