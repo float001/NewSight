@@ -2,6 +2,7 @@
 
 - 2Libra
   - [2libra 有啥安卓客户端吗](https://2libra.com/post/questions/9_8EIys)
+  - [cursor 这吃相变难看了。。。](https://2libra.com/post/ai-programming/_Bg4-jc)
   - [imgbox 也跑路了，还打起了中转站的广告](https://2libra.com/post/sharing-discoveries/XZoYpIK)
   - [Mac Studio 已于今日（8 月 27 日）开启预购，并将在 9 月 22 日正式发售](https://2libra.com/post/apple/BXWiG_y)
   - [【读书笔记】永恒少女：每一个焦虑的中产都是《包法利夫人》](https://2libra.com/post/good-books/Oqbp6my)
@@ -14,11 +15,14 @@
   - [你们用的什么枕头的呢?](https://2libra.com/post/recommendations/nV4X0oM)
   - [侧边菜单新增自定义菜单功能](https://2libra.com/post/product-updates/1aLh0WP)
   - [做了一个 Unicode 花式文字生成器，支持 20+ 种字体样式，想听听大家意见](https://2libra.com/post/promotion/CI5R0bX)
+  - [准备给家里小猫换猫粮，大家有没有推荐](https://2libra.com/post/recommendations/jro1a7R)
   - [吉米你要回收金币不，你要，我把法子送上](https://2libra.com/post/forum-function/N-4Kbxz)
   - [大佬们搜索的正确姿势是什么？](https://2libra.com/post/forum-function/FlpBbc1)
   - [好奇外国人订阅中国 AI 的费用](https://2libra.com/post/ai-companies/isuV-wy)
   - [心情不好？来根华子](https://2libra.com/post/idea/6_b1hNP)
+  - [感觉蛋白粉都能成理财产品了，第一次买才 498,现在相同牌子，相同重量同一家店的都 800 多了，都快翻一倍了](https://2libra.com/post/social-observation/6AKGSCl)
   - [成年人的御三家](https://2libra.com/post/game-discussion/gWiCKDJ)
+  - [我不行了，L 站有人做了插件把论坛伪装成企微、excel，毫无违和感](https://2libra.com/post/browser-extensions/86ip_KQ)
   - [我后悔了，有个小小金币雨，我没有珍惜，偏偏反转了](https://2libra.com/post/forum-function/8wEWW-A)
   - [搞了个批量解析 arw 格式的脚本](https://2libra.com/post/open-source-sharing/m76S5EV)
   - [摸了个 Codex/Cluade 5 小时限制的解决方案](https://2libra.com/post/personal-works/LgmG974)
@@ -31,6 +35,7 @@
   - [站里买索尼相机的佬们多么？](https://2libra.com/post/photography-equipment/klbbC5q)
   - [签到动画不错，可惜我是大失败](https://2libra.com/post/forum-function/VWn9Y-v)
   - [英伟达财报大超预期：营收同比增 106%，黄仁勋定调 AI 进入 "变现时代"](https://2libra.com/post/ai-trends/N19CD0w)
+  - [这浏览数是不是有点问题，一直刷一直加？](https://2libra.com/post/community/fOzDGne)
   - [遇到 NB 的潘多拉可以延期：好评](https://2libra.com/post/forum-function/oSeSrL5)
   - [闲谈](https://2libra.com/post/forum-function/E04E2s5)
   - [集体生日会 🎂🎂🎂](https://2libra.com/post/office-life/XYEoPPc)
@@ -42,6 +47,8 @@
 - CoinTelegraph
   - [77% of Americans see crypto in retirement plans as risky: Survey](https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Better launches Bitcoin-backed mortgages powered by Coinbase](https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitfinex Securities completes record $50M tokenized capital raise](https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bithumb wins 2 suits over mistaken Bitcoin credits: Report](https://cointelegraph.com/news/bithumb-wins-suits-mistakenly-credited-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chainalysis estimates $457B in taxable crypto activity, says CARF misses most](https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC sends crypto custody rule overhaul to White House for review](https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -78,6 +85,9 @@
   - [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
 - HackerNoon
   - [How to Avoid Burnout as a Solo AI Filmmaker: The System I Built for Lost Garden](https://hackernoon.com/how-to-avoid-burnout-as-a-solo-ai-filmmaker-the-system-i-built-for-lost-garden?source=rss)
+- infosecurity-magazine.com
+  - [Boston Scientific Reveals Global Disruption After Cyber Incident](https://www.infosecurity-magazine.com/news/boston-scientific-global/)
+  - [OpenAI: Hugging Face Incident a “Warning Shot” to the World](https://www.infosecurity-magazine.com/news/openai-hugging-face-warning-shot/)
 - johndcook.com
   - [What is the quality of software that AI writes?](https://www.johndcook.com/blog/2026/08/26/what-is-the-quality-of-software-that-ai-writes/)
 - Product Hunt
@@ -163,11 +173,13 @@
   - [Can Self-Hosting Be Simple?](https://feed.tedium.co/link/15204/17432611/self-hosting-third-place-strategy-2)
 - The Block
   - [Bitcoin faces key hurdle in $81,000-$86,000 range to reach January high, analyst says](https://www.theblock.co/news/markets/2026-08-27-bitcoin-faces-key-hurdle-81000-86000-412876)
+  - [Bithumb wins lawsuit over proceeds from 620,000 BTC fat-finger error: report](https://www.theblock.co/news/regulation/2026-08-27-bithumb-wins-lawsuit-btc-412893)
   - [Connecticut sues Kalshi over sports event contracts in months-long legal feud](https://www.theblock.co/news/regulation/2026-08-27-connecticut-sues-kalshi-412870)
   - [CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for ‘official’ confirmation](https://www.theblock.co/news/markets/2026-08-26-cryptoquant-bitcoin-bull-market-83000-official-confirmation-412822)
   - [First quantum-resistant Bitcoin transaction successfully executed, StarkWare says](https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863)
   - [Mirae Asset maps out $109 billion digital asset push with Digital X: report](https://www.theblock.co/news/business/2026-08-27-mirae-asset-109-billion-digital-asset-push-412883)
 - The Decoder
+  - [Claude Cowork now runs its own browser inside the desktop app](https://the-decoder.com/claude-cowork-now-runs-its-own-browser-inside-the-desktop-app/)
   - [Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away](https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/)
   - [Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition](https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/)
 - The Verge
@@ -183,6 +195,9 @@
   - [CVE-2026-41730](https://vulners.com/spring/SPRING:CVE-2026-41730?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59306](https://vulners.com/cve/CVE-2026-59306?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59306](https://vulners.com/spring/SPRING:CVE-2026-59306?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-74848 Apache APISIX: Cross-user response poisoning in serverless plugins](https://vulners.com/cvelist/CVELIST:CVE-2026-74848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75005 Apache APISIX: Unauthenticated CPU-exhaustion DoS](https://vulners.com/cvelist/CVELIST:CVE-2026-75005?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75020 Apache APISIX: ldap-auth plugin cross-subtree identity impersonation](https://vulners.com/cvelist/CVELIST:CVE-2026-75020?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Alo Discount Code: 20% Off September 2026](https://www.wired.com/story/alo-yoga-discount-code/)
   - [Birdfy Discount Codes: 15% Off Sitewide](https://www.wired.com/story/birdfy-discount-code/)
@@ -221,6 +236,7 @@
   - [OpenAI 的中场战事](https://www.ifanr.com/1676929?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果新iPhone 9月10日见/特斯拉中国辟谣上海数据中心撤离/工信部:严禁未经充分测试验证的汽车产品进入市场](https://www.ifanr.com/1676848?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [智元机器人「奥运」首秀封神，戴着工牌狂揽 18 枚金牌](https://www.ifanr.com/1676970?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [理想换了一种活法！理想 i9、新 MEGA 即将发布，李想：纯电销量已经追平增程](https://www.ifanr.com/1677019?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果发布会最全爆料：折叠 iPhone 和新 CEO 都来了，还有一个 One more thing](https://www.ifanr.com/1676900?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%](https://www.qbitai.com/2026/08/480001.html)
