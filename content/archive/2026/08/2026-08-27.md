@@ -2,17 +2,22 @@
 
 - 2Libra
   - [2libra 有啥安卓客户端吗](https://2libra.com/post/questions/9_8EIys)
+  - [imgbox 也跑路了，还打起了中转站的广告](https://2libra.com/post/sharing-discoveries/XZoYpIK)
   - [Mac Studio 已于今日（8 月 27 日）开启预购，并将在 9 月 22 日正式发售](https://2libra.com/post/apple/BXWiG_y)
   - [【读书笔记】永恒少女：每一个焦虑的中产都是《包法利夫人》](https://2libra.com/post/good-books/Oqbp6my)
   - [【💰】鼻窦炎犯了 怎么整 鼻子是通气的 但是感觉右边里面是堵得 还带着太阳穴头顶疼[尴尬]](https://2libra.com/post/health-consultation/fcggviI)
   - [上班喝茶](https://2libra.com/post/touch-fish/aIU4ITT)
+  - [下单了个雷鸟 IO 眼镜](https://2libra.com/post/smart-wearable/DICwVgQ)
   - [中元节不能熬夜吗](https://2libra.com/post/festival-things/4qUug8x)
+  - [你们用的什么枕头的呢?](https://2libra.com/post/recommendations/nV4X0oM)
   - [侧边菜单新增自定义菜单功能](https://2libra.com/post/product-updates/1aLh0WP)
+  - [做了一个 Unicode 花式文字生成器，支持 20+ 种字体样式，想听听大家意见](https://2libra.com/post/promotion/CI5R0bX)
   - [吉米你要回收金币不，你要，我把法子送上](https://2libra.com/post/forum-function/N-4Kbxz)
   - [好奇外国人订阅中国 AI 的费用](https://2libra.com/post/ai-companies/isuV-wy)
   - [心情不好？来根华子](https://2libra.com/post/idea/6_b1hNP)
   - [成年人的御三家](https://2libra.com/post/game-discussion/gWiCKDJ)
   - [我后悔了，有个小小金币雨，我没有珍惜，偏偏反转了](https://2libra.com/post/forum-function/8wEWW-A)
+  - [摸了个 Codex/Cluade 5 小时限制的解决方案](https://2libra.com/post/personal-works/LgmG974)
   - [早上 6 点，「抛妻弃子」](https://2libra.com/post/sports/4ZQC6Ad)
   - [有感而发](https://2libra.com/post/social-observation/qf2_-QR)
   - [有用训记记录自己训练内容的吗？做了个训练记录数据可视化分析的工具，已开源](https://2libra.com/post/open-source-sharing/oz7r_bv)
@@ -21,6 +26,8 @@
   - [看完吉隆口岸的泥石流太绝望了](https://2libra.com/post/social-observation/qn-sXR7)
   - [站里买索尼相机的佬们多么？](https://2libra.com/post/photography-equipment/klbbC5q)
   - [签到动画不错，可惜我是大失败](https://2libra.com/post/forum-function/VWn9Y-v)
+  - [英伟达财报大超预期：营收同比增 106%，黄仁勋定调 AI 进入 "变现时代"](https://2libra.com/post/ai-trends/N19CD0w)
+  - [闲谈](https://2libra.com/post/forum-function/E04E2s5)
   - [集体生日会 🎂🎂🎂](https://2libra.com/post/office-life/XYEoPPc)
 - 404 Media
   - [A Student Said He Was a Hobby Plane Spotter. He Was Allegedly Taking Photos for the Chinese Government](https://www.404media.co/a-student-said-he-was-a-hobby-plane-spotter-he-was-allegedly-taking-photos-for-the-chinese-government/)
@@ -35,6 +42,7 @@
   - [SEC sends crypto custody rule overhaul to White House for review](https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch](https://cointelegraph.com/magazine/shrincs-bip-is-published-quantum-secure-bitcoin-comes-with-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [StarkWare tests quantum-resistant Bitcoin transaction on mainnet](https://cointelegraph.com/news/starkware-quantum-resistant-bitcoin-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Tokenized deposits could raise US credit costs: Dallas Fed economists](https://cointelegraph.com/news/tokenized-deposits-us-credit-costs-dallas-fed-economists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple Polishing Cloth Is Now Just $9](https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/)
   - [POSIWID: The Purpose of a System Is What It Does](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does)
@@ -67,6 +75,8 @@
   - [How to Avoid Burnout as a Solo AI Filmmaker: The System I Built for Lost Garden](https://hackernoon.com/how-to-avoid-burnout-as-a-solo-ai-filmmaker-the-system-i-built-for-lost-garden?source=rss)
 - johndcook.com
   - [What is the quality of software that AI writes?](https://www.johndcook.com/blog/2026/08/26/what-is-the-quality-of-software-that-ai-writes/)
+- Product Hunt
+  - [Wondering Canvas](https://www.producthunt.com/products/wondering-2)
 - Sploitus.com Exploits RSS Feed
   - [-CVE-2021-4034 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-USMANSEC--CVE-2021-4034&utm_source=rss&utm_medium=rss)
   - [Active-Scanning-and-Information-Gathering-in-ICS-SCADA-Networks-Using-Network-Mapper-NMAP exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MURATAYDEMIR-ACTIVE-SCANNING-AND-INFORMATION-GATHERING-IN-ICS-SCADA-NETWORKS-USING-NETWORK-MAPPER-NMAP&utm_source=rss&utm_medium=rss)
@@ -139,6 +149,7 @@
   - [Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations](https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/)
   - [Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states](https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/)
   - [Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well](https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/)
+  - [Nvidia closes in on Hugging Face acquisition](https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/)
   - [US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate](https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/)
   - [Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation](https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/)
   - [What’s driving Sweden’s startup boom, from Lovable to Legora](https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/)
@@ -146,6 +157,7 @@
   - [Can Self-Hosting Be Simple?](https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy)
   - [Can Self-Hosting Be Simple?](https://feed.tedium.co/link/15204/17432611/self-hosting-third-place-strategy-2)
 - The Block
+  - [Connecticut sues Kalshi over sports event contracts in months-long legal feud](https://www.theblock.co/news/regulation/2026-08-27-connecticut-sues-kalshi-412870)
   - [CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for ‘official’ confirmation](https://www.theblock.co/news/markets/2026-08-26-cryptoquant-bitcoin-bull-market-83000-official-confirmation-412822)
   - [First quantum-resistant Bitcoin transaction successfully executed, StarkWare says](https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863)
 - The Decoder
@@ -198,6 +210,7 @@
 - 爱范儿
   - [MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的](https://www.ifanr.com/1676874?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果新iPhone 9月10日见/特斯拉中国辟谣上海数据中心撤离/工信部:严禁未经充分测试验证的汽车产品进入市场](https://www.ifanr.com/1676848?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [苹果发布会最全爆料：折叠 iPhone 和新 CEO 都来了，还有一个 One more thing](https://www.ifanr.com/1676900?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%](https://www.qbitai.com/2026/08/480001.html)
 - 黑海洋
