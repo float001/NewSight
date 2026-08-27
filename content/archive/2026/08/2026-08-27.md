@@ -114,6 +114,7 @@
   - [Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states](https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/)
   - [Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well](https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/)
   - [US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate](https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/)
+  - [Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation](https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/)
   - [What’s driving Sweden’s startup boom, from Lovable to Legora](https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/)
 - The Block
   - [CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for ‘official’ confirmation](https://www.theblock.co/news/markets/2026-08-26-cryptoquant-bitcoin-bull-market-83000-official-confirmation-412822)
@@ -133,12 +134,18 @@
   - [Democrats Just Might Win the Senate](https://www.wired.com/story/democrats-just-might-win-the-senate/)
   - [FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure](https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/)
   - [How Rising Temperatures Likely Contributed to Nepal’s Deadly Flood](https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/)
+  - [How to See the Partial Lunar Eclipse and Blood Moon on August 27](https://www.wired.com/story/how-to-view-august-2026-lunar-eclipse/)
   - [OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers](https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/)
   - [The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery](https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/)
   - [The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable](https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/)
   - [There Are No Trans Women in the WNBA, so Right-Wingers Are Making Some Up](https://www.wired.com/story/there-are-no-trans-women-in-the-wnba-so-right-wingers-are-making-some-up/)
   - [Waffle House Teleporter Gregg Phillips Is Still on the Trump Administration’s Payroll](https://www.wired.com/story/waffle-house-teleporter-gregg-phillips-is-still-on-the-trump-administrations-payroll/)
+- 不安全
+  - [threat-finder v0.3.0](https://buaq.net/go-438002.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜苹果新iPhone 9月10日见/特斯拉中国辟谣上海数据中心撤离/工信部:严禁未经充分测试验证的汽车产品进入市场](https://www.ifanr.com/1676848?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [IDC预测苹果折叠屏iPhone第一年出货量将超过1000万部](https://blog.upx8.com/IDC%E9%A2%84%E6%B5%8B%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E7%AC%AC%E4%B8%80%E5%B9%B4%E5%87%BA%E8%B4%A7%E9%87%8F%E5%B0%86%E8%B6%85%E8%BF%871000%E4%B8%87%E9%83%A8)
+  - [大水冲了龙王庙 OpenAI：失控AI智能体入侵了自家系统](https://blog.upx8.com/%E5%A4%A7%E6%B0%B4%E5%86%B2%E4%BA%86%E9%BE%99%E7%8E%8B%E5%BA%99-OpenAI-%E5%A4%B1%E6%8E%A7AI%E6%99%BA%E8%83%BD%E4%BD%93%E5%85%A5%E4%BE%B5%E4%BA%86%E8%87%AA%E5%AE%B6%E7%B3%BB%E7%BB%9F)
