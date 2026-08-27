@@ -5,6 +5,8 @@
   - [imgbox 也跑路了，还打起了中转站的广告](https://2libra.com/post/sharing-discoveries/XZoYpIK)
   - [Mac Studio 已于今日（8 月 27 日）开启预购，并将在 9 月 22 日正式发售](https://2libra.com/post/apple/BXWiG_y)
   - [【读书笔记】永恒少女：每一个焦虑的中产都是《包法利夫人》](https://2libra.com/post/good-books/Oqbp6my)
+  - [【💰】有 ai 视频制作方案的高手不，我有个 1-2s 的视频，里面有三个人，想把中间那个人换头，有啥好思路吗，能免费最好了。](https://2libra.com/post/ai-applications/QjcHJpS)
+  - [【💰】来点生活气息](https://2libra.com/post/personal-life/Zokvx89)
   - [【💰】鼻窦炎犯了 怎么整 鼻子是通气的 但是感觉右边里面是堵得 还带着太阳穴头顶疼[尴尬]](https://2libra.com/post/health-consultation/fcggviI)
   - [上班喝茶](https://2libra.com/post/touch-fish/aIU4ITT)
   - [下单了个雷鸟 IO 眼镜](https://2libra.com/post/smart-wearable/DICwVgQ)
@@ -13,10 +15,12 @@
   - [侧边菜单新增自定义菜单功能](https://2libra.com/post/product-updates/1aLh0WP)
   - [做了一个 Unicode 花式文字生成器，支持 20+ 种字体样式，想听听大家意见](https://2libra.com/post/promotion/CI5R0bX)
   - [吉米你要回收金币不，你要，我把法子送上](https://2libra.com/post/forum-function/N-4Kbxz)
+  - [大佬们搜索的正确姿势是什么？](https://2libra.com/post/forum-function/FlpBbc1)
   - [好奇外国人订阅中国 AI 的费用](https://2libra.com/post/ai-companies/isuV-wy)
   - [心情不好？来根华子](https://2libra.com/post/idea/6_b1hNP)
   - [成年人的御三家](https://2libra.com/post/game-discussion/gWiCKDJ)
   - [我后悔了，有个小小金币雨，我没有珍惜，偏偏反转了](https://2libra.com/post/forum-function/8wEWW-A)
+  - [搞了个批量解析 arw 格式的脚本](https://2libra.com/post/open-source-sharing/m76S5EV)
   - [摸了个 Codex/Cluade 5 小时限制的解决方案](https://2libra.com/post/personal-works/LgmG974)
   - [早上 6 点，「抛妻弃子」](https://2libra.com/post/sports/4ZQC6Ad)
   - [有感而发](https://2libra.com/post/social-observation/qf2_-QR)
@@ -27,6 +31,7 @@
   - [站里买索尼相机的佬们多么？](https://2libra.com/post/photography-equipment/klbbC5q)
   - [签到动画不错，可惜我是大失败](https://2libra.com/post/forum-function/VWn9Y-v)
   - [英伟达财报大超预期：营收同比增 106%，黄仁勋定调 AI 进入 "变现时代"](https://2libra.com/post/ai-trends/N19CD0w)
+  - [遇到 NB 的潘多拉可以延期：好评](https://2libra.com/post/forum-function/oSeSrL5)
   - [闲谈](https://2libra.com/post/forum-function/E04E2s5)
   - [集体生日会 🎂🎂🎂](https://2libra.com/post/office-life/XYEoPPc)
 - 404 Media
@@ -161,6 +166,7 @@
   - [Connecticut sues Kalshi over sports event contracts in months-long legal feud](https://www.theblock.co/news/regulation/2026-08-27-connecticut-sues-kalshi-412870)
   - [CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for ‘official’ confirmation](https://www.theblock.co/news/markets/2026-08-26-cryptoquant-bitcoin-bull-market-83000-official-confirmation-412822)
   - [First quantum-resistant Bitcoin transaction successfully executed, StarkWare says](https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863)
+  - [Mirae Asset maps out $109 billion digital asset push with Digital X: report](https://www.theblock.co/news/business/2026-08-27-mirae-asset-109-billion-digital-asset-push-412883)
 - The Decoder
   - [Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away](https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/)
   - [Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition](https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/)
@@ -200,6 +206,7 @@
   - [Waffle House Teleporter Gregg Phillips Is Still on the Trump Administration’s Payroll](https://www.wired.com/story/waffle-house-teleporter-gregg-phillips-is-still-on-the-trump-administrations-payroll/)
 - 不安全
   - [Claude Cowork新增内置浏览器 可以直接打开网页/读取内容/点击链接/填写表单](https://buaq.net/go-438014.html)
+  - [semgrep v1.175.0](https://buaq.net/go-438077.html)
   - [threat-finder v0.3.0](https://buaq.net/go-438002.html)
   - [yaraast v2.0.1rc1](https://buaq.net/go-438007.html)
   - [微软将允许用户通过安卓设备远程控制Windows 11 包括远程关机/重启/进入睡眠](https://buaq.net/go-438013.html)
@@ -213,6 +220,7 @@
   - [MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的](https://www.ifanr.com/1676874?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [OpenAI 的中场战事](https://www.ifanr.com/1676929?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果新iPhone 9月10日见/特斯拉中国辟谣上海数据中心撤离/工信部:严禁未经充分测试验证的汽车产品进入市场](https://www.ifanr.com/1676848?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [智元机器人「奥运」首秀封神，戴着工牌狂揽 18 枚金牌](https://www.ifanr.com/1676970?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果发布会最全爆料：折叠 iPhone 和新 CEO 都来了，还有一个 One more thing](https://www.ifanr.com/1676900?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%](https://www.qbitai.com/2026/08/480001.html)
