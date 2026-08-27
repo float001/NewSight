@@ -4,6 +4,8 @@
   - [wow,ChatGPT 已重置,各位有熬夜蹬的吗](https://2libra.com/post/ai-companies/iFtPxPP)
 - 404 Media
   - [The AI ‘Ghosts’ Contaminating Academic Publishing](https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/)
+- Ars Technica
+  - [GOP heads to Supreme Court after losing case over TV election ad prices](https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/)
 - blog.jim-nielsen.com
   - [A Calendar View For My Blog](https://blog.jim-nielsen.com/2026/blog-calendar-view/)
 - CoinTelegraph
@@ -12,8 +14,11 @@
   - [Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows](https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen](https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond](https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Ads in Apple Maps Have Now Launched](https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/)
+  - [Elizabeth Warren’s Incoherent Outrage Regarding Apple’s Tariff Refund](https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-corporations-to-give-billions-in-tariff-refunds-back-to-consumers/)
+  - [Panic Is Refunding Tariff Fees to Playdate Buyers](https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers)
   - [‘How Europe Is Killing Makers and Micro-Entrepreneurs’](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
 - darkreading
   - [Chinese Routers Sold Worldwide Contain Backdoors](https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors)
@@ -34,14 +39,46 @@
 - micahflee.com
   - [Sandboxing coding agents](https://micahflee.com/sandboxing-coding-agents/)
 - Sploitus.com Exploits RSS Feed
+  - [backup_dc_registry exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HORIZON3AI-BACKUP_DC_REGISTRY&utm_source=rss&utm_medium=rss)
+  - [CVE-2023-5717 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-UTHRASRI-CVE-2023-5717&utm_source=rss&utm_medium=rss)
+  - [CVE-2024-48644 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ROSEMBERGPRO-CVE-2024-48644&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-21006-Zigbee-Light-Link-Factory-Reset-Exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GEORGE0PAPASOTIRIOU-CVE-2026-21006-ZIGBEE-LIGHT-LINK-FACTORY-RESET-EXPLOIT&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-49060-Lab exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ROOTDIRECTIVE-SEC-CVE-2026-49060-LAB&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-56011-Lab exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ROOTDIRECTIVE-SEC-CVE-2026-56011-LAB&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-5718-Lab exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ROOTDIRECTIVE-SEC-CVE-2026-5718-LAB&utm_source=rss&utm_medium=rss)
   - [cve-analysis-exploitation-mitigation](https://sploitus.com/exploit?id=70B2CC77-4D8A-556F-AB92-165EC41649DC&utm_source=rss&utm_medium=rss)
+  - [exploit-CVE-2022-36779](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ROOTDR-BACKUP-EXPLOIT-CVE-2022-36779&utm_source=rss&utm_medium=rss)
+  - [external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0516 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SATHEESH575555-EXTERNAL_WPA_SUPPLICANT_8_AOSP10_R33_CVE-2021-0516&utm_source=rss&utm_medium=rss)
+  - [frameworks_base_AOSP10_r33_CVE-2021-0319 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SATHEESH575555-FRAMEWORKS_BASE_AOSP10_R33_CVE-2021-0319&utm_source=rss&utm_medium=rss)
+  - [frameworks_base_AOSP10_r33_CVE-2021-0688 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SATHEESH575555-FRAMEWORKS_BASE_AOSP10_R33_CVE-2021-0688&utm_source=rss&utm_medium=rss)
+  - [G2.5_Openssl_V_1_0_1g exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-UTHRASRI-G2.5_OPENSSL_V_1_0_1G&utm_source=rss&utm_medium=rss)
+  - [Invoke-Stealth exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JOELGMSEC-INVOKE-STEALTH&utm_source=rss&utm_medium=rss)
+  - [n8n-vulnerability-detection exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RXERIUM-N8N-VULNERABILITY-DETECTION&utm_source=rss&utm_medium=rss)
+  - [nuclei exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PROJECTDISCOVERY-NUCLEI&utm_source=rss&utm_medium=rss)
+  - [Openssl_G2.5_New exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-UTHRASRI-OPENSSL_G2.5_NEW&utm_source=rss&utm_medium=rss)
+  - [openssl_g2.5_v1_0_1g exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-UTHRASRI-OPENSSL_G2.5_V1_0_1G&utm_source=rss&utm_medium=rss)
+  - [Openssl_V.1.1.1g exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-UTHRASRI-OPENSSL_V.1.1.1G&utm_source=rss&utm_medium=rss)
+  - [Oracle-Identity-Manager-CVE-2025-61757 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JINXIA62-ORACLE-IDENTITY-MANAGER-CVE-2025-61757&utm_source=rss&utm_medium=rss)
+  - [POC-bomber exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TR0UBLE-MAKER-POC-BOMBER&utm_source=rss&utm_medium=rss)
+  - [pocsploit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CCKUAILONG-POCSPLOIT&utm_source=rss&utm_medium=rss)
+  - [recollapse exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0XACB-RECOLLAPSE&utm_source=rss&utm_medium=rss)
+  - [smartbrute exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHUTDOWNREPO-SMARTBRUTE&utm_source=rss&utm_medium=rss)
+  - [SOC-Multitool exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZDHENARD42-SOC-MULTITOOL&utm_source=rss&utm_medium=rss)
+  - [social_mapper exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GREENWOLF-SOCIAL_MAPPER&utm_source=rss&utm_medium=rss)
+  - [spyrat exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-M4SC3R4N0-SPYRAT&utm_source=rss&utm_medium=rss)
+  - [Ultimate-Social-Scrapers exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HARISMUNEER-ULTIMATE-SOCIAL-SCRAPERS&utm_source=rss&utm_medium=rss)
+  - [ultralytics exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ULTRALYTICS-ULTRALYTICS&utm_source=rss&utm_medium=rss)
+  - [vcenter_saml_login exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HORIZON3AI-VCENTER_SAML_LOGIN&utm_source=rss&utm_medium=rss)
+  - [vRealizeLogInsightRCE exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HORIZON3AI-VREALIZELOGINSIGHTRCE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [ATF declares ‘major incident’ as ransomware gang claims hack](https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/)
   - [Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/)
+  - [Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral](https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/)
   - [Fashion startup Atoire raises $9.5M to bring consumers luxury goods without the markup](https://techcrunch.com/2026/08/27/fashion-startup-atoire-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/)
   - [Google’s AI Mode can now track flight prices, help book hotels, and more](https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/)
   - [Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick](https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/)
   - [OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI](https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/)
+  - [Rivian’s CFO is leaving the company](https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/)
   - [YouTube now lets creators tag Amazon products and earn commissions from purchases](https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/)
 - The Block
   - [Ethena Foundation proposes fee switch for ENA token buybacks among other updates](https://www.theblock.co/news/ecosystems/2026-08-27-ethena-foundation-proposes-fee-switch-ena-token-buybacks-other-updates-412951)
