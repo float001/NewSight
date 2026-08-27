@@ -157,10 +157,12 @@
   - [Can Self-Hosting Be Simple?](https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy)
   - [Can Self-Hosting Be Simple?](https://feed.tedium.co/link/15204/17432611/self-hosting-third-place-strategy-2)
 - The Block
+  - [Bitcoin faces key hurdle in $81,000-$86,000 range to reach January high, analyst says](https://www.theblock.co/news/markets/2026-08-27-bitcoin-faces-key-hurdle-81000-86000-412876)
   - [Connecticut sues Kalshi over sports event contracts in months-long legal feud](https://www.theblock.co/news/regulation/2026-08-27-connecticut-sues-kalshi-412870)
   - [CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for ‘official’ confirmation](https://www.theblock.co/news/markets/2026-08-26-cryptoquant-bitcoin-bull-market-83000-official-confirmation-412822)
   - [First quantum-resistant Bitcoin transaction successfully executed, StarkWare says](https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863)
 - The Decoder
+  - [Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away](https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/)
   - [Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition](https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/)
 - The Verge
   - [All the ways Instagram and Facebook are changing for teens](https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes)
@@ -209,6 +211,7 @@
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
   - [MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的](https://www.ifanr.com/1676874?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [OpenAI 的中场战事](https://www.ifanr.com/1676929?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果新iPhone 9月10日见/特斯拉中国辟谣上海数据中心撤离/工信部:严禁未经充分测试验证的汽车产品进入市场](https://www.ifanr.com/1676848?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果发布会最全爆料：折叠 iPhone 和新 CEO 都来了，还有一个 One more thing](https://www.ifanr.com/1676900?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
@@ -216,3 +219,4 @@
 - 黑海洋
   - [IDC预测苹果折叠屏iPhone第一年出货量将超过1000万部](https://blog.upx8.com/IDC%E9%A2%84%E6%B5%8B%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E7%AC%AC%E4%B8%80%E5%B9%B4%E5%87%BA%E8%B4%A7%E9%87%8F%E5%B0%86%E8%B6%85%E8%BF%871000%E4%B8%87%E9%83%A8)
   - [大水冲了龙王庙 OpenAI：失控AI智能体入侵了自家系统](https://blog.upx8.com/%E5%A4%A7%E6%B0%B4%E5%86%B2%E4%BA%86%E9%BE%99%E7%8E%8B%E5%BA%99-OpenAI-%E5%A4%B1%E6%8E%A7AI%E6%99%BA%E8%83%BD%E4%BD%93%E5%85%A5%E4%BE%B5%E4%BA%86%E8%87%AA%E5%AE%B6%E7%B3%BB%E7%BB%9F)
+  - [滨冈核电站反应堆报废相关报告副本被篡改](https://blog.upx8.com/%E6%BB%A8%E5%86%88%E6%A0%B8%E7%94%B5%E7%AB%99%E5%8F%8D%E5%BA%94%E5%A0%86%E6%8A%A5%E5%BA%9F%E7%9B%B8%E5%85%B3%E6%8A%A5%E5%91%8A%E5%89%AF%E6%9C%AC%E8%A2%AB%E7%AF%A1%E6%94%B9)
