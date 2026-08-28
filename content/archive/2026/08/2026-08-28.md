@@ -11,6 +11,7 @@
   - [书荒了，有没有推荐的。](https://2libra.com/post/recommendations/BHDcmcw)
   - [云闪付这个风控是怎么做的？设备用了 gkd 跳广告](https://2libra.com/post/network-security/YdygAV6)
   - [嘻嘻，又一个徽章到手](https://2libra.com/post/forum-function/R_e2Wqu)
+  - [失败的 8 月（续集）](https://2libra.com/post/forum-function/G08Hbg5)
   - [好久没比惨了，水一贴](https://2libra.com/post/slacking-off/a4JQJwH)
   - [我的女友景甜——转自 H.E. Justin Sun](https://2libra.com/post/personal-works/a9925ST)
   - [摸鱼人颈椎和肩颈问题你们都是怎么解决的](https://2libra.com/post/health-consultation/WN0SvKt)
@@ -33,7 +34,9 @@
 - CoinTelegraph
   - [Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ](https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets](https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BitGo buys NYDIG trading arm to deepen institutional crypto push](https://cointelegraph.com/news/bitgo-nydig-trading-arm-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform](https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ENA token rises 10% as Ethena puts revenue-funded token buybacks to vote](https://cointelegraph.com/markets/ena-rises-10-ethena-token-buyback-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows](https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app](https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -78,8 +81,12 @@
   - [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
   - [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://www.terminal-bench-science.ai/announcement)
   - [Two German airport workers die of malaria after 'mosquito arrives on plane'](https://www.bbc.com/news/articles/cz6zwgg9y8go)
+- HackerNoon
+  - [How to Rotate JWT Signing Keys Without Breaking Every Active Session](https://hackernoon.com/how-to-rotate-jwt-signing-keys-without-breaking-every-active-session?source=rss)
+  - [We Killed RedFlag, Our First Shipaton Idea. Here’s Why We’re Building Eligible Instead](https://hackernoon.com/we-killed-redflag-our-first-shipaton-idea-heres-why-were-building-eligible-instead?source=rss)
 - infosecurity-magazine.com
   - [Threat Actors Abuse Cursor Agent AI to Assist Ransomware Operations](https://www.infosecurity-magazine.com/news/abuse-cursor-agent-ransomware/)
+  - [Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Giants Warn](https://www.infosecurity-magazine.com/news/window-ai-attacks-narrowing-tech/)
 - micahflee.com
   - [Sandboxing coding agents](https://micahflee.com/sandboxing-coding-agents/)
 - Product Hunt
@@ -90,6 +97,7 @@
   - [-CVE-2014-6271-Shellshock-Remote-Command-Injection- exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FILIPSTUDENY--CVE-2014-6271-SHELLSHOCK-REMOTE-COMMAND-INJECTION-&utm_source=rss&utm_medium=rss)
   - [-CVE-2023-43340-Evolution-Reflected-XSS---Installation-Admin-Options exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SROMANHU--CVE-2023-43340-EVOLUTION-REFLECTED-XSS---INSTALLATION-ADMIN-OPTIONS&utm_source=rss&utm_medium=rss)
   - [apollo-koa-minimal exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TADHGLEWIS-APOLLO-KOA-MINIMAL&utm_source=rss&utm_medium=rss)
+  - [ArchiveBox exploit](https://sploitus.com/exploit?id=24583EFB-830F-5D31-97BF-5F77FA4D834B&utm_source=rss&utm_medium=rss)
   - [backup_dc_registry exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HORIZON3AI-BACKUP_DC_REGISTRY&utm_source=rss&utm_medium=rss)
   - [Baskerville exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NCCGROUP-BASKERVILLE&utm_source=rss&utm_medium=rss)
   - [Blackash-CVE-2017-0144 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FIRETEMPLE-BLACKASH-CVE-2017-0144&utm_source=rss&utm_medium=rss)
@@ -180,6 +188,7 @@
 - TechCrunch
   - [AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10](https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/)
   - [Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/)
+  - [As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space](https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/)
   - [ATF declares ‘major incident’ as ransomware gang claims hack](https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/)
   - [Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/)
   - [Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral](https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/)
@@ -193,6 +202,7 @@
   - [BitGo buys NYDIG’s institutional trading business, expanding derivatives offering](https://www.theblock.co/news/business/2026-08-27-bitgo-buys-nydig-institutional-trading-412975)
   - [Dunamu and Visa partner on stablecoin, AI business; Open Standard’s OUSD under consideration](https://www.theblock.co/news/business/2026-08-28-dunamu-visa-partner-stablecoin-ai-ousd-412988)
   - [Ethena Foundation proposes fee switch for ENA token buybacks among other updates](https://www.theblock.co/news/ecosystems/2026-08-27-ethena-foundation-proposes-fee-switch-ena-token-buybacks-other-updates-412951)
+  - [Latest annual UK tax data shows 240 people reported more than £1 million in crypto capital gains](https://www.theblock.co/news/regulation/2026-08-28-uk-tax-crypto-capital-gains-412993)
   - [Polish Olympic Committee president detained in Zondacrypto bribery probe](https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961)
   - [UAE ‘spy sheikh’ takes 49% stake in Trump family’s bank venture: WSJ](https://www.theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971)
   - [XRP treasury firm Evernorth says SEC registration now effective, clearing way for Nasdaq listing](https://www.theblock.co/news/deals/2026-08-27-evernorth-xrp-sec-effective-412981)
@@ -214,6 +224,7 @@
   - [PCI DSS 4.0.1: Application Requirements You’re Being Assessed On in 2026](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
   - [Added-Pentest-Ground-to-vulnerable-websites-for-training](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RAINHAWK13-ADDED-PENTEST-GROUND-TO-VULNERABLE-WEBSITES-FOR-TRAINING?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ArchiveBox](https://vulners.com/gitee/24583EFB-830F-5D31-97BF-5F77FA4D834B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [badecparams](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SALEEMRASHID-BADECPARAMS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [camoufox](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DAIJRO-CAMOUFOX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chankro](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-TARLOGICSECURITY-CHANKRO?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -293,6 +304,7 @@
   - [Netflix Failed at Video Games. Now It’s Trying to Promote Them](https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/)
   - [OpenAI Is Developing a ‘Persistent’ AI Agent](https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/)
   - [Reebok Discount Code: Save 15%+ in September 2026](https://www.wired.com/story/reebok-discount-code/)
+  - [There Are So Many Conspiracy Theories About Dolly Parton and Vaccines](https://www.wired.com/story/there-are-so-many-conspiracy-theories-about-dolly-parton-and-vaccines/)
   - [This Is How Anthropic Thinks AI Agents Should Navigate the Physical World](https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/)
   - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)
 - 不安全
@@ -301,6 +313,7 @@
   - [electroniz3r](https://buaq.net/go-438292.html)
   - [hydrafw](https://buaq.net/go-438331.html)
   - [Mhyprot2DrvControl](https://buaq.net/go-438350.html)
+  - [U.S. CISA adds Red Hat, Linux Kernel, Ajax.NET Professional, Microsoft SQL Server, and Citrix NetScaler flaws to its Known Exploited Vulnerabilities catalog](https://buaq.net/go-438364.html)
   - [upx v5.2.1](https://buaq.net/go-438309.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
