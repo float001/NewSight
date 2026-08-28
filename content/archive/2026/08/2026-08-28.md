@@ -24,6 +24,8 @@
   - [签到文案 需 优化： 大成功鉴定失败，而非签到失败](https://2libra.com/post/forum-function/T_SnyUE)
   - [这段时莫名其妙一天七八个骚扰电话，有什么办法吗？](https://2libra.com/post/interaction/JD1ayA3)
   - [迷案数独小游戏](https://2libra.com/post/game-share/bZtTUZ9)
+- 360 Netlab Blog - 360
+  - [AI安全专题周报(20260828)](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-4/)
 - 404 Media
   - [The AI ‘Ghosts’ Contaminating Academic Publishing](https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/)
 - Ars Technica
@@ -200,6 +202,7 @@
   - [YouTube now lets creators tag Amazon products and earn commissions from purchases](https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/)
 - The Block
   - [BitGo buys NYDIG’s institutional trading business, expanding derivatives offering](https://www.theblock.co/news/business/2026-08-27-bitgo-buys-nydig-institutional-trading-412975)
+  - [Circle strikes Chelsea front-of-shirt sponsorship deal featuring USDC](https://www.theblock.co/news/business/2026-08-28-circle-strikes-chelsea-front-of-shirt-sponsorship-deal-featuring-usdc-413002)
   - [Dunamu and Visa partner on stablecoin, AI business; Open Standard’s OUSD under consideration](https://www.theblock.co/news/business/2026-08-28-dunamu-visa-partner-stablecoin-ai-ousd-412988)
   - [Ethena Foundation proposes fee switch for ENA token buybacks among other updates](https://www.theblock.co/news/ecosystems/2026-08-27-ethena-foundation-proposes-fee-switch-ena-token-buybacks-other-updates-412951)
   - [Latest annual UK tax data shows 240 people reported more than £1 million in crypto capital gains](https://www.theblock.co/news/regulation/2026-08-28-uk-tax-crypto-capital-gains-412993)
@@ -299,16 +302,21 @@
   - [Gametime Promo Code: Save on Tickets in September 2026](https://www.wired.com/story/gametime-promo-code/)
   - [Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling](https://www.wired.com/story/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling/)
   - [Hotels.com Coupon Codes for September 2026](https://www.wired.com/story/hotels-com-coupon/)
+  - [I Asked 100 Companies for My Data. I Got Deletion Notices Instead](https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/)
+  - [Inside Meta’s Push to Put Robots to Work in Data Centers](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/)
   - [Labor Day 2026 Deals Got Me a Complete Starter Tool Kit for Under $375](https://www.wired.com/story/labor-day-2026-home-tool-kit-essentials/)
   - [Maytag Promo Codes: 15% Off Appliances](https://www.wired.com/story/maytag-promo-code/)
   - [Netflix Failed at Video Games. Now It’s Trying to Promote Them](https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/)
   - [OpenAI Is Developing a ‘Persistent’ AI Agent](https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/)
   - [Reebok Discount Code: Save 15%+ in September 2026](https://www.wired.com/story/reebok-discount-code/)
+  - [The Easiest Ways to Share Anything Between Android and iOS](https://www.wired.com/story/how-to-share-anything-between-android-and-ios/)
   - [There Are So Many Conspiracy Theories About Dolly Parton and Vaccines](https://www.wired.com/story/there-are-so-many-conspiracy-theories-about-dolly-parton-and-vaccines/)
   - [This Is How Anthropic Thinks AI Agents Should Navigate the Physical World](https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/)
   - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)
+  - [XGIMI Vibe One Battery-Powered Projector Review (2026)](https://www.wired.com/review/xgimi-vibe-one-battery-powered-projector/)
 - 不安全
   - [AI IR Overlay – Incident Response Specification for AI Agents](https://buaq.net/go-438328.html)
+  - [AI安全专题周报(20260828)](https://buaq.net/go-438369.html)
   - [crapsecrets](https://buaq.net/go-438349.html)
   - [electroniz3r](https://buaq.net/go-438292.html)
   - [hydrafw](https://buaq.net/go-438331.html)
