@@ -10,6 +10,7 @@
   - [新人求问。。。](https://2libra.com/post/forum-function/h8ZOdfq)
   - [更多可以自定义，好评](https://2libra.com/post/community/cT0WDyQ)
   - [每日微语看天下 8 月 28 日](https://2libra.com/post/hotspot-tracking/OF6mEa0)
+  - [看到有个 2 友问 macbook 无头骑士能不能入手，突然想起来之前看的抖音里面很多卖那种资源机的，好奇有什么套路么？](https://2libra.com/post/apple/rq4U0vp)
   - [签到文案 需 优化： 大成功鉴定失败，而非签到失败](https://2libra.com/post/forum-function/T_SnyUE)
   - [这段时莫名其妙一天七八个骚扰电话，有什么办法吗？](https://2libra.com/post/interaction/JD1ayA3)
 - 404 Media
@@ -50,6 +51,7 @@
   - [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/)
 - Hacker News Frontpage
   - [Autism mutations drive neurodevelopmental pathology](https://www.science.org/doi/10.1126/science.ady4523)
+  - [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
   - [Grok Bot for Linux: Unofficial port of the official app (open source)](https://github.com/jakob-bu/grok-bot-linux-unofficial)
   - [Numerical (In)Stability of Recurrence Relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/)
   - [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
@@ -147,6 +149,7 @@
   - [OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent](https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/)
   - [OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost](https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/)
 - The Verge
+  - [Anthropic was illegally blacklisted by the Trump administration, court rules](https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling)
   - [Google tells Android app developers to cool it on memory use, or else](https://www.theverge.com/tech/985679/google-play-android-17-memory-limit)
   - [Google’s AI note-taking app now allows you to interact with books](https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books)
   - [Jensen Huang says Nvidia achieved AGI, again — not that it matters](https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi)
@@ -242,6 +245,7 @@
 - 量子位 QbitAI
   - [HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄](https://www.qbitai.com/2026/08/480186.html)
   - [全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力](https://www.qbitai.com/2026/08/480083.html)
+  - [高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景](https://www.qbitai.com/2026/08/480208.html)
 - 黑海洋
   - [YouTube创作者们开始在内容中嵌入亚马逊联盟返利链接](https://blog.upx8.com/YouTube%E5%88%9B%E4%BD%9C%E8%80%85%E4%BB%AC%E5%BC%80%E5%A7%8B%E5%9C%A8%E5%86%85%E5%AE%B9%E4%B8%AD%E5%B5%8C%E5%85%A5%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%81%94%E7%9B%9F%E8%BF%94%E5%88%A9%E9%93%BE%E6%8E%A5)
   - [🎬 《GTA 6》扩展预览上线YouTube平台](https://blog.upx8.com/GTA-6-%E6%89%A9%E5%B1%95%E9%A2%84%E8%A7%88%E4%B8%8A%E7%BA%BFYouTube%E5%B9%B3%E5%8F%B0)
