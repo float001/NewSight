@@ -51,23 +51,28 @@
   - [Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows](https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app](https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Polish Olympic chief charged in Zondacrypto probe, justice minister says](https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [The Sandbox pledges 1:1 repayment after $700K bridge exploit](https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen](https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond](https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Visa works with Upbit parent on stablecoin payments, AI commerce](https://cointelegraph.com/news/visa-dunamu-stablecoin-payments-ai-commerce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Who is legally liable when an AI agent goes rogue?](https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Ads in Apple Maps Have Now Launched](https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/)
   - [Afterglow — Classic After Dark Screen Savers on Today’s MacOS](https://morphing.cloud/afterglow/)
   - [Elizabeth Warren’s Incoherent Outrage Regarding Apple’s Tariff Refund](https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-corporations-to-give-billions-in-tariff-refunds-back-to-consumers/)
   - [Panic Is Refunding Tariff Fees to Playdate Buyers](https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers)
   - [The Load-Bearing Vocabulary of Claude](https://louisabraham.github.io/load-bearing/)
+  - [Trump Declares That Lake Ontario Is Now ‘Lake America’](https://www.notus.org/trump-white-house/lake-america-ontario-canada-trade-war-trump-executive-order-rename)
   - [U.S. Judge Blocks Trump Defense Department’s Anthropic Blacklisting](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/)
   - [‘How Europe Is Killing Makers and Micro-Entrepreneurs’](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
 - Darknet – Hacking Tools, Hacker News & Cyber Security
   - [AI IR Overlay – Incident Response Specification for AI Agents](https://www.darknet.org.uk/2026/08/ai-ir-overlay-incident-response-specification-for-ai-agents/)
 - darkreading
   - [Chinese Routers Sold Worldwide Contain Backdoors](https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors)
+  - [Defining an AI Kill Switch Is Hard, But Necessary](https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary)
   - [The Vulnpocalypse Is Repricing the Bug Bounty Economy](https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy)
+  - [You Need Cyber Deception for OT](https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot)
 - Data Breach
   - [Cyberattack on UK Airport Operator MAG Exposes Data of 8.7 Million Customers Across Three Airports](https://securityaffairs.com/197966/data-breach/cyberattack-on-uk-airport-operator-mag-exposes-data-of-8-7-million-customers-across-three-airports.html)
 - eli.thegreenplace.net
@@ -86,8 +91,10 @@
 - Hacker News Frontpage
   - [A Looming Rare Earth Shortage Threatens Critical Tech](https://spectrum.ieee.org/rare-earth-shortage)
   - [Autism mutations drive neurodevelopmental pathology](https://www.science.org/doi/10.1126/science.ady4523)
+  - [EPA says power for data centers can sidestep pollution laws](https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers)
   - [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
   - [Grok Bot for Linux: Unofficial port of the official app (open source)](https://github.com/jakob-bu/grok-bot-linux-unofficial)
+  - [I Used AWS Cognito for a Startup. I Wouldn't Do It Again](https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/)
   - [Numerical (In)Stability of Recurrence Relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/)
   - [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
   - [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
@@ -208,6 +215,7 @@
   - [vcenter_saml_login exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HORIZON3AI-VCENTER_SAML_LOGIN&utm_source=rss&utm_medium=rss)
   - [vRealizeLogInsightRCE exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HORIZON3AI-VREALIZELOGINSIGHTRCE&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’](https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/)
   - [AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10](https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/)
   - [Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/)
   - [Anthropic gets its first court win over the Pentagon’s supply chain risk label](https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/)
@@ -231,9 +239,11 @@
   - [IREN’s $25 billion-$30 billion AI buildout may have ‘spooked’ investors, Bernstein says](https://www.theblock.co/news/business/2026-08-28-irens-25-billion-30-billion-ai-buildout-may-have-spooked-investors-bernstein-says-413016)
   - [Latest annual UK tax data shows 240 people reported more than £1 million in crypto capital gains](https://www.theblock.co/news/regulation/2026-08-28-uk-tax-crypto-capital-gains-412993)
   - [Polish Olympic Committee president detained in Zondacrypto bribery probe](https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961)
+  - [SBI Holdings invests $270 million in Ajaib, taking 20% stake amid Asia digital asset push](https://www.theblock.co/news/deals/2026-08-28-sbi-holdings-invests-270-million-in-ajaib-taking-20-stake-amid-asia-digital-asset-push-413023)
   - [UAE ‘spy sheikh’ takes 49% stake in Trump family’s bank venture: WSJ](https://www.theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971)
   - [XRP treasury firm Evernorth says SEC registration now effective, clearing way for Nasdaq listing](https://www.theblock.co/news/deals/2026-08-27-evernorth-xrp-sec-effective-412981)
 - The Decoder
+  - [AI benchmarks have a trust problem and Google wants to fix it](https://the-decoder.com/ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it/)
   - [AI shopping agents aren't ready to buy on your behalf, study finds](https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/)
   - [Beatport blocks fully AI-generated music from its DJ marketplace](https://the-decoder.com/beatport-blocks-fully-ai-generated-music-from-its-dj-marketplace/)
   - [Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible](https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/)
@@ -242,6 +252,7 @@
   - [U.S. court rules Pentagon's blacklisting of Anthropic was unlawful](https://the-decoder.com/u-s-court-rules-pentagons-blacklisting-of-anthropic-was-unlawful/)
 - The Verge
   - [Anthropic was illegally blacklisted by the Trump administration, court rules](https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling)
+  - [Apple TV now costs $14.99 a month after its fourth price hike in four years](https://www.theverge.com/tech/986130/apple-tv-plus-price-hike)
   - [Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2](https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv)
   - [Google tells Android app developers to cool it on memory use, or else](https://www.theverge.com/tech/985679/google-play-android-17-memory-limit)
   - [Google’s AI note-taking app now allows you to interact with books](https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books)
@@ -384,6 +395,7 @@
   - [XGIMI Vibe One Battery-Powered Projector Review (2026)](https://www.wired.com/review/xgimi-vibe-one-battery-powered-projector/)
 - 不安全
   - [AI IR Overlay – Incident Response Specification for AI Agents](https://buaq.net/go-438328.html)
+  - [aiiroverlay](https://buaq.net/go-438404.html)
   - [AI安全专题周报(20260828)](https://buaq.net/go-438369.html)
   - [crapsecrets](https://buaq.net/go-438349.html)
   - [electroniz3r](https://buaq.net/go-438292.html)
