@@ -47,6 +47,7 @@
   - [California Senate passes bill to ban memecoin issuance by public officials](https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in](https://cointelegraph.com/news/capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-blockstreams-adam-back-chipping-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform](https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto Biz: Bitcoin pumps, Wall Street does the paperwork](https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ENA token rises 10% as Ethena puts revenue-funded token buybacks to vote](https://cointelegraph.com/markets/ena-rises-10-ethena-token-buyback-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows](https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -61,6 +62,7 @@
   - [Ads in Apple Maps Have Now Launched](https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/)
   - [Afterglow — Classic After Dark Screen Savers on Today’s MacOS](https://morphing.cloud/afterglow/)
   - [Elizabeth Warren’s Incoherent Outrage Regarding Apple’s Tariff Refund](https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-corporations-to-give-billions-in-tariff-refunds-back-to-consumers/)
+  - [From the DF Archive: ‘Golfo Del Gringo Loco’](https://daringfireball.net/2025/02/golfo_del_gringo_loco)
   - [Panic Is Refunding Tariff Fees to Playdate Buyers](https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers)
   - [The Load-Bearing Vocabulary of Claude](https://louisabraham.github.io/load-bearing/)
   - [Trump Declares That Lake Ontario Is Now ‘Lake America’](https://www.notus.org/trump-white-house/lake-america-ontario-canada-trade-war-trump-executive-order-rename)
@@ -108,6 +110,8 @@
   - [Fake Voicemail SVG Attachments Fuel Large-Scale Phishing Campaign](https://www.infosecurity-magazine.com/news/fake-voicemail-svg-files-bypass/)
   - [Threat Actors Abuse Cursor Agent AI to Assist Ransomware Operations](https://www.infosecurity-magazine.com/news/abuse-cursor-agent-ransomware/)
   - [Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Giants Warn](https://www.infosecurity-magazine.com/news/window-ai-attacks-narrowing-tech/)
+- johndcook.com
+  - [Making the unnecessary easier](https://www.johndcook.com/blog/2026/08/28/making-the-unnecessary-easier/)
 - matduggan.com
   - [You Know GDPR Is Good Based on Who Hates It](https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/)
 - micahflee.com
@@ -219,6 +223,7 @@
   - [AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10](https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/)
   - [Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/)
   - [Anthropic gets its first court win over the Pentagon’s supply chain risk label](https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/)
+  - [Apple TV is raising its subscription prices again](https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/)
   - [As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space](https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/)
   - [ATF declares ‘major incident’ as ransomware gang claims hack](https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/)
   - [Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/)
@@ -232,6 +237,7 @@
   - [YouTube now lets creators tag Amazon products and earn commissions from purchases](https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/)
 - The Block
   - [BitGo buys NYDIG’s institutional trading business, expanding derivatives offering](https://www.theblock.co/news/business/2026-08-27-bitgo-buys-nydig-institutional-trading-412975)
+  - [Bybit launches 24/7 options on stock perpetuals, starting with SpaceX and Nvidia](https://www.theblock.co/news/markets/2026-08-28-bybit-launches-24-7-options-on-stock-perpetuals-starting-with-spacex-and-nvidia-413032)
   - [Circle strikes Chelsea front-of-shirt sponsorship deal featuring USDC](https://www.theblock.co/news/business/2026-08-28-circle-strikes-chelsea-front-of-shirt-sponsorship-deal-featuring-usdc-413002)
   - [Dunamu and Visa partner on stablecoin, AI business; Open Standard’s OUSD under consideration](https://www.theblock.co/news/business/2026-08-28-dunamu-visa-partner-stablecoin-ai-ousd-412988)
   - [Ethena Foundation proposes fee switch for ENA token buybacks among other updates](https://www.theblock.co/news/ecosystems/2026-08-27-ethena-foundation-proposes-fee-switch-ena-token-buybacks-other-updates-412951)
@@ -376,6 +382,7 @@
   - [6 Takeaways From the GTA VI Extended Look](https://www.wired.com/story/5-takeaways-from-the-gta-vi-extended-look/)
   - [A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend](https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/)
   - [AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?](https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/)
+  - [AI Has Human Doctors Asking: What’s Left for Us?](https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/)
   - [Best Laptops (2026): My Top Recommendations After Testing Hundreds](https://www.wired.com/story/best-laptops/)
   - [Chatbooks Promo Code: Save up to 40% on Photo Books in September 2026](https://www.wired.com/story/chatbooks-promo-code/)
   - [Gametime Promo Code: Save on Tickets in September 2026](https://www.wired.com/story/gametime-promo-code/)
