@@ -11,7 +11,10 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Solana validators approve proposal to accelerate SOL disinflation](https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [Apple Announces Price Increase for Apple TV and Apple One Subscriptions](https://9to5mac.com/2026/08/28/apple-announces-price-increase-for-apple-tv-and-apple-one-subscriptions/)
   - [We Certainly Have Made a Hames Out of This](https://daringfireball.net/linked/2026/08/28/trump-lake-ontario)
+  - [‘How Americans See E.U. Tech’](https://www.youtube.com/watch?v=gGlpBuW6ZFc)
+  - [‘I’m the Guy Who Destroys Antique Books After We Scan Them Into Our Company’s Insatiable AI Platform’](https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform)
   - [‘Not Sure How You Own Canada by Deleting Your Own History’](https://x.com/MattWalshBlog/status/2093060290371870948)
 - darkreading
   - [Hundreds of OpenAI Agents Invaded Hugging Face Servers](https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers)
@@ -71,6 +74,7 @@
 - The Verge
   - [DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything](https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai)
   - [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit)
+  - [Xbox CEO calls Project Helix a ‘family of devices’](https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices)
 - Vulners.com RSS Feed
   - [acunetix_0day](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DZONERZY-ACUNETIX_0DAY?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://vulners.com/thn/THN:BB72AF58918DF7026D5899E730F6BA84?utm_source=rss&utm_medium=rss&utm_campaign=rss)
