@@ -21,6 +21,7 @@
 - blog.jim-nielsen.com
   - [A Calendar View For My Blog](https://blog.jim-nielsen.com/2026/blog-calendar-view/)
 - CoinTelegraph
+  - [Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ](https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets](https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform](https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows](https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -227,18 +228,28 @@
   - [wordpress-snapcreek](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RAGHU66669999-WORDPRESS-SNAPCREEK?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [yasa-cve-2024-43400-main1](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RAIN321654-YASA-CVE-2024-43400-MAIN1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [30% VistaPrint Coupon & Promo Codes | September 2026](https://www.wired.com/story/vistaprint-coupon-code/)
   - [6 Takeaways From the GTA VI Extended Look](https://www.wired.com/story/5-takeaways-from-the-gta-vi-extended-look/)
   - [A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend](https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/)
   - [AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?](https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/)
+  - [Chatbooks Promo Code: Save up to 40% on Photo Books in September 2026](https://www.wired.com/story/chatbooks-promo-code/)
+  - [Gametime Promo Code: Save on Tickets in September 2026](https://www.wired.com/story/gametime-promo-code/)
   - [Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling](https://www.wired.com/story/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling/)
+  - [Hotels.com Coupon Codes for September 2026](https://www.wired.com/story/hotels-com-coupon/)
   - [Labor Day 2026 Deals Got Me a Complete Starter Tool Kit for Under $375](https://www.wired.com/story/labor-day-2026-home-tool-kit-essentials/)
+  - [Maytag Promo Codes: 15% Off Appliances](https://www.wired.com/story/maytag-promo-code/)
   - [Netflix Failed at Video Games. Now It’s Trying to Promote Them](https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/)
   - [OpenAI Is Developing a ‘Persistent’ AI Agent](https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/)
+  - [Reebok Discount Code: Save 15%+ in September 2026](https://www.wired.com/story/reebok-discount-code/)
   - [This Is How Anthropic Thinks AI Agents Should Navigate the Physical World](https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/)
+  - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)
 - 不安全
   - [electroniz3r](https://buaq.net/go-438292.html)
+  - [upx v5.2.1](https://buaq.net/go-438309.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [Podcasts](https://dyrnq.com/podcasts/)
 - 爱范儿
   - [《GTA 6》公开 26 分钟实机玩法，这个游戏真值得等 13 年](https://www.ifanr.com/1677186?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 17登顶Q2最畅销智能手机/《GTA6》公布26分钟实机演示/追觅咖啡回应多店闭店](https://www.ifanr.com/1677210?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -248,4 +259,5 @@
   - [高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景](https://www.qbitai.com/2026/08/480208.html)
 - 黑海洋
   - [YouTube创作者们开始在内容中嵌入亚马逊联盟返利链接](https://blog.upx8.com/YouTube%E5%88%9B%E4%BD%9C%E8%80%85%E4%BB%AC%E5%BC%80%E5%A7%8B%E5%9C%A8%E5%86%85%E5%AE%B9%E4%B8%AD%E5%B5%8C%E5%85%A5%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%81%94%E7%9B%9F%E8%BF%94%E5%88%A9%E9%93%BE%E6%8E%A5)
+  - [美国国防部被裁禁止拉黑Anthropic公司](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E8%A2%AB%E8%A3%81%E7%A6%81%E6%AD%A2%E6%8B%89%E9%BB%91Anthropic%E5%85%AC%E5%8F%B8)
   - [🎬 《GTA 6》扩展预览上线YouTube平台](https://blog.upx8.com/GTA-6-%E6%89%A9%E5%B1%95%E9%A2%84%E8%A7%88%E4%B8%8A%E7%BA%BFYouTube%E5%B9%B3%E5%8F%B0)
