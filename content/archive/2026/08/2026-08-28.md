@@ -2,9 +2,12 @@
 
 - 2Libra
   - [wow,ChatGPT 已重置,各位有熬夜蹬的吗](https://2libra.com/post/ai-companies/iFtPxPP)
+  - [【💰】走个面](https://2libra.com/post/forum-function/Fllii6J)
   - [好久没比惨了，水一贴](https://2libra.com/post/slacking-off/a4JQJwH)
   - [我的女友景甜——转自 H.E. Justin Sun](https://2libra.com/post/personal-works/a9925ST)
   - [整理了一个开源 AI 伴侣/长记忆/本地语音生态索引（已收录 150+ 项目，550+ Star）](https://2libra.com/post/ai-emotion-guard/racdggJ)
+  - [新人求问。。。](https://2libra.com/post/forum-function/h8ZOdfq)
+  - [更多可以自定义，好评](https://2libra.com/post/community/cT0WDyQ)
   - [每日微语看天下 8 月 28 日](https://2libra.com/post/hotspot-tracking/OF6mEa0)
 - 404 Media
   - [The AI ‘Ghosts’ Contaminating Academic Publishing](https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/)
@@ -29,6 +32,8 @@
   - [‘How Europe Is Killing Makers and Micro-Entrepreneurs’](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
 - darkreading
   - [Chinese Routers Sold Worldwide Contain Backdoors](https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors)
+- eli.thegreenplace.net
+  - [How big are factorials?](https://eli.thegreenplace.net/2026/how-big-are-factorials/)
 - Emergent Minds | paddo.dev
   - [The Token Price Became a Timetable: DeepSeek Peak Hours and OpenAI's Sol Discount](https://paddo.dev/blog/the-token-price-became-a-timetable/)
 - Ethical hacking and penetration testing
@@ -115,6 +120,7 @@
   - [vcenter_saml_login exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HORIZON3AI-VCENTER_SAML_LOGIN&utm_source=rss&utm_medium=rss)
   - [vRealizeLogInsightRCE exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HORIZON3AI-VREALIZELOGINSIGHTRCE&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10](https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/)
   - [Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/)
   - [ATF declares ‘major incident’ as ransomware gang claims hack](https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/)
   - [Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/)
@@ -126,6 +132,7 @@
   - [Rivian’s CFO is leaving the company](https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/)
   - [YouTube now lets creators tag Amazon products and earn commissions from purchases](https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/)
 - The Block
+  - [BitGo buys NYDIG’s institutional trading business, expanding derivatives offering](https://www.theblock.co/news/business/2026-08-27-bitgo-buys-nydig-institutional-trading-412975)
   - [Ethena Foundation proposes fee switch for ENA token buybacks among other updates](https://www.theblock.co/news/ecosystems/2026-08-27-ethena-foundation-proposes-fee-switch-ena-token-buybacks-other-updates-412951)
   - [Polish Olympic Committee president detained in Zondacrypto bribery probe](https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961)
   - [UAE ‘spy sheikh’ takes 49% stake in Trump family’s bank venture: WSJ](https://www.theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971)
@@ -225,3 +232,7 @@
 - 爱范儿
   - [《GTA 6》公开 26 分钟实机玩法，这个游戏真值得等 13 年](https://www.ifanr.com/1677186?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 17登顶Q2最畅销智能手机/《GTA6》公布26分钟实机演示/追觅咖啡回应多店闭店](https://www.ifanr.com/1677210?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄](https://www.qbitai.com/2026/08/480186.html)
+- 黑海洋
+  - [🎬 《GTA 6》扩展预览上线YouTube平台](https://blog.upx8.com/GTA-6-%E6%89%A9%E5%B1%95%E9%A2%84%E8%A7%88%E4%B8%8A%E7%BA%BFYouTube%E5%B9%B3%E5%8F%B0)
