@@ -3,15 +3,27 @@
 - 2Libra
   - [[建议]建议优化潘多拉的“招募行动”词条](https://2libra.com/post/forum-function/vxwkbFJ)
   - [造了台 3D 打印机](https://2libra.com/post/3d-printing/HqqpBl8)
+- Ars Technica
+  - [Trump blacklisting of "woke" Anthropic deemed illegal by federal judge](https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/)
 - CoinTelegraph
   - [Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending](https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs](https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [‘Not Sure How You Own Canada by Deleting Your Own History’](https://x.com/MattWalshBlog/status/2093060290371870948)
+- darkreading
+  - [Offensive Security Investments Surge as AI Threats Increase](https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase)
+- Fidelis Security
+  - [Top 10 Network Detection and Response Solutions for Enterprise Security Teams](https://fidelissecurity.com/threatgeek/network-security/top-network-detection-and-response-solutions/)
 - filfre.net
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/)
+- Linux Foundation Blogs
+  - [Building the Future of Japanese Tech Talent](https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent)
 - TechCrunch
+  - [Brave’s browser one-ups Chrome with its new support for email aliases](https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/)
   - [How Sweden built one of Europe’s hottest startup ecosystems](https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/)
+  - [Open-weight AI companies are the Valley’s hottest acquisition targets](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/)
+- The Decoder
+  - [Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers](https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/)
 - The Verge
   - [DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything](https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai)
   - [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit)
@@ -59,5 +71,6 @@
   - [WizardOpium](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-FORREST-ORR-WIZARDOPIUM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Mice, a Caved-In Ceiling, and Cloudy Water: The GSA’s New Office Is Falling Apart](https://www.wired.com/story/mice-a-caved-in-ceiling-and-cloudy-water-the-gsas-new-office-is-falling-apart/)
+  - [Microsoft Teams Has Become a Haven for Scammers in China](https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
