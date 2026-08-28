@@ -8,7 +8,9 @@
 - CoinTelegraph
   - [Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending](https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs](https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Solana validators approve proposal to accelerate SOL disinflation](https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [We Certainly Have Made a Hames Out of This](https://daringfireball.net/linked/2026/08/28/trump-lake-ontario)
   - [‘Not Sure How You Own Canada by Deleting Your Own History’](https://x.com/MattWalshBlog/status/2093060290371870948)
 - darkreading
   - [Offensive Security Investments Surge as AI Threats Increase](https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase)
@@ -16,12 +18,19 @@
   - [Top 10 Network Detection and Response Solutions for Enterprise Security Teams](https://fidelissecurity.com/threatgeek/network-security/top-network-detection-and-response-solutions/)
 - filfre.net
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/)
+- Hacker News Frontpage
+  - [Chrome Deletes the Last Manifest V2 Extensions on August 31](https://bumbletap.com/blog/chrome-manifest-v2-extensions-removed)
+  - [Show HN: Conduct, open-source guardrails for LLM and MCP tool calls](https://github.com/sseshachala/conductai)
+  - [The OG Creator of Task Manager on Windows Built a New Task Manager](https://tmog.org)
 - Linux Foundation Blogs
   - [Building the Future of Japanese Tech Talent](https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent)
 - TechCrunch
+  - [An Anthropic researcher just gave us a peek at self-improving AI](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/)
   - [Brave’s browser one-ups Chrome with its new support for email aliases](https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/)
   - [How Sweden built one of Europe’s hottest startup ecosystems](https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/)
   - [Open-weight AI companies are the Valley’s hottest acquisition targets](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/)
+- The Block
+  - [Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC’s exclusive jurisdiction claim](https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046)
 - The Decoder
   - [Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers](https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/)
 - The Verge
@@ -72,5 +81,6 @@
 - Wired
   - [Mice, a Caved-In Ceiling, and Cloudy Water: The GSA’s New Office Is Falling Apart](https://www.wired.com/story/mice-a-caved-in-ceiling-and-cloudy-water-the-gsas-new-office-is-falling-apart/)
   - [Microsoft Teams Has Become a Haven for Scammers in China](https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/)
+  - [Milo Yiannopoulos Detained by ICE in Louisiana](https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
