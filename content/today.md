@@ -2,6 +2,8 @@
 
 - 2Libra
   - [wow,ChatGPT 已重置,各位有熬夜蹬的吗](https://2libra.com/post/ai-companies/iFtPxPP)
+  - [好久没比惨了，水一贴](https://2libra.com/post/slacking-off/a4JQJwH)
+  - [我的女友景甜——转自 H.E. Justin Sun](https://2libra.com/post/personal-works/a9925ST)
   - [整理了一个开源 AI 伴侣/长记忆/本地语音生态索引（已收录 150+ 项目，550+ Star）](https://2libra.com/post/ai-emotion-guard/racdggJ)
   - [每日微语看天下 8 月 28 日](https://2libra.com/post/hotspot-tracking/OF6mEa0)
 - 404 Media
@@ -43,6 +45,7 @@
   - [Numerical (In)Stability of Recurrence Relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/)
   - [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
   - [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
+  - [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://www.terminal-bench-science.ai/announcement)
   - [Two German airport workers die of malaria after 'mosquito arrives on plane'](https://www.bbc.com/news/articles/cz6zwgg9y8go)
 - micahflee.com
   - [Sandboxing coding agents](https://micahflee.com/sandboxing-coding-agents/)
@@ -221,3 +224,4 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [《GTA 6》公开 26 分钟实机玩法，这个游戏真值得等 13 年](https://www.ifanr.com/1677186?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [早报｜iPhone 17登顶Q2最畅销智能手机/《GTA6》公布26分钟实机演示/追觅咖啡回应多店闭店](https://www.ifanr.com/1677210?utm_source=rss&utm_medium=rss&utm_campaign=)
