@@ -2,8 +2,11 @@
 
 - 2Libra
   - [chatgpt codex 桌面版，怎么用国外手机号接受验证吗，](https://2libra.com/post/ai-tools/7oDFdPn)
+  - [clash verge rev 感觉彻底成破烂了](https://2libra.com/post/software-tools/A6UxEyV)
   - [wow,ChatGPT 已重置,各位有熬夜蹬的吗](https://2libra.com/post/ai-companies/iFtPxPP)
+  - [【💰】不懂就问，为什么有的人的头像是动态的？](https://2libra.com/post/forum-function/4w0jdgj)
   - [【💰】走个面](https://2libra.com/post/forum-function/Fllii6J)
+  - [不中了 话说这个峰哥是谁](https://2libra.com/post/questions/x6d7qiz)
   - [为何现在小学的老师更换也这么频繁](https://2libra.com/post/social-observation/q83qgmh)
   - [书荒了，有没有推荐的。](https://2libra.com/post/recommendations/BHDcmcw)
   - [云闪付这个风控是怎么做的？设备用了 gkd 跳广告](https://2libra.com/post/network-security/YdygAV6)
@@ -33,6 +36,7 @@
   - [Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform](https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows](https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app](https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [The Sandbox pledges 1:1 repayment after $700K bridge exploit](https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen](https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond](https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -293,8 +297,10 @@
   - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)
 - 不安全
   - [AI IR Overlay – Incident Response Specification for AI Agents](https://buaq.net/go-438328.html)
+  - [crapsecrets](https://buaq.net/go-438349.html)
   - [electroniz3r](https://buaq.net/go-438292.html)
   - [hydrafw](https://buaq.net/go-438331.html)
+  - [Mhyprot2DrvControl](https://buaq.net/go-438350.html)
   - [upx v5.2.1](https://buaq.net/go-438309.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -302,6 +308,7 @@
   - [Podcasts](https://dyrnq.com/podcasts/)
 - 奇客Solidot–传递最新科技情报
   - [Haiku R1/beta6 释出](https://www.solidot.org/story?sid=85219)
+  - [法国法庭认定辐射与空乘罹患乳腺癌相关](https://www.solidot.org/story?sid=85220)
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 杨龙
