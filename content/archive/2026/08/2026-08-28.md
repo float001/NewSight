@@ -15,6 +15,7 @@
   - [失败的 8 月（续集）](https://2libra.com/post/forum-function/G08Hbg5)
   - [好久没比惨了，水一贴](https://2libra.com/post/slacking-off/a4JQJwH)
   - [我的女友景甜——转自 H.E. Justin Sun](https://2libra.com/post/personal-works/a9925ST)
+  - [推荐个电视剧 《金色》,并不是多好看, 就是里面的配音太搞笑了!](https://2libra.com/post/movie-sharing/j3PSCNm)
   - [摸鱼人颈椎和肩颈问题你们都是怎么解决的](https://2libra.com/post/health-consultation/WN0SvKt)
   - [整理了一个开源 AI 伴侣/长记忆/本地语音生态索引（已收录 150+ 项目，550+ Star）](https://2libra.com/post/ai-emotion-guard/racdggJ)
   - [新人求问。。。](https://2libra.com/post/forum-function/h8ZOdfq)
@@ -34,6 +35,8 @@
   - [Anthropic's new hardware standard lets AI agents control the physical world](https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/)
   - [Authorities arrest 2 alleged members of prolific hacking group TeamPCP](https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/)
   - [GOP heads to Supreme Court after losing case over TV election ad prices](https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/)
+- Ben's Bites
+  - [How I built this](https://www.bensbites.com/p/how-i-built-this-21f)
 - blog.jim-nielsen.com
   - [A Calendar View For My Blog](https://blog.jim-nielsen.com/2026/blog-calendar-view/)
 - CoinTelegraph
@@ -41,6 +44,7 @@
   - [Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO](https://cointelegraph.com/markets/bitcoin-bear-market-over-as-price-metric-copies-2023-recovery-cryptoquant-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets](https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitGo buys NYDIG trading arm to deepen institutional crypto push](https://cointelegraph.com/news/bitgo-nydig-trading-arm-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [California Senate passes bill to ban memecoin issuance by public officials](https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in](https://cointelegraph.com/news/capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-blockstreams-adam-back-chipping-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform](https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ENA token rises 10% as Ethena puts revenue-funded token buybacks to vote](https://cointelegraph.com/markets/ena-rises-10-ethena-token-buyback-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -63,6 +67,7 @@
   - [AI IR Overlay – Incident Response Specification for AI Agents](https://www.darknet.org.uk/2026/08/ai-ir-overlay-incident-response-specification-for-ai-agents/)
 - darkreading
   - [Chinese Routers Sold Worldwide Contain Backdoors](https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors)
+  - [The Vulnpocalypse Is Repricing the Bug Bounty Economy](https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy)
 - Data Breach
   - [Cyberattack on UK Airport Operator MAG Exposes Data of 8.7 Million Customers Across Three Airports](https://securityaffairs.com/197966/data-breach/cyberattack-on-uk-airport-operator-mag-exposes-data-of-8-7-million-customers-across-three-airports.html)
 - eli.thegreenplace.net
@@ -86,18 +91,22 @@
   - [Numerical (In)Stability of Recurrence Relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/)
   - [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
   - [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
+  - [Smaller reactors bring nuclear power closer to fulfilling its promise](https://www.nature.com/articles/d41586-026-02506-4)
   - [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://www.terminal-bench-science.ai/announcement)
   - [Two German airport workers die of malaria after 'mosquito arrives on plane'](https://www.bbc.com/news/articles/cz6zwgg9y8go)
 - HackerNoon
   - [How to Rotate JWT Signing Keys Without Breaking Every Active Session](https://hackernoon.com/how-to-rotate-jwt-signing-keys-without-breaking-every-active-session?source=rss)
   - [We Killed RedFlag, Our First Shipaton Idea. Here’s Why We’re Building Eligible Instead](https://hackernoon.com/we-killed-redflag-our-first-shipaton-idea-heres-why-were-building-eligible-instead?source=rss)
 - infosecurity-magazine.com
+  - [Fake Voicemail SVG Attachments Fuel Large-Scale Phishing Campaign](https://www.infosecurity-magazine.com/news/fake-voicemail-svg-files-bypass/)
   - [Threat Actors Abuse Cursor Agent AI to Assist Ransomware Operations](https://www.infosecurity-magazine.com/news/abuse-cursor-agent-ransomware/)
   - [Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Giants Warn](https://www.infosecurity-magazine.com/news/window-ai-attacks-narrowing-tech/)
 - matduggan.com
   - [You Know GDPR Is Good Based on Who Hates It](https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/)
 - micahflee.com
   - [Sandboxing coding agents](https://micahflee.com/sandboxing-coding-agents/)
+- MIT Technology Review
+  - [The Download: a secretive antiaging drug and joining virtual power plants](https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/)
 - Product Hunt
   - [Revalvo](https://www.producthunt.com/products/revalvo)
 - Recent Commits to cve:main
@@ -201,6 +210,7 @@
 - TechCrunch
   - [AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10](https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/)
   - [Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/)
+  - [Anthropic gets its first court win over the Pentagon’s supply chain risk label](https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/)
   - [As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space](https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/)
   - [ATF declares ‘major incident’ as ransomware gang claims hack](https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/)
   - [Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/)
@@ -208,6 +218,7 @@
   - [Fashion startup Atoire raises $9.5M to bring consumers luxury goods without the markup](https://techcrunch.com/2026/08/27/fashion-startup-atoire-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/)
   - [Google’s AI Mode can now track flight prices, help book hotels, and more](https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/)
   - [Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick](https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/)
+  - [Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India](https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/)
   - [OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI](https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/)
   - [Rivian’s CFO is leaving the company](https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/)
   - [YouTube now lets creators tag Amazon products and earn commissions from purchases](https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/)
@@ -217,6 +228,7 @@
   - [Dunamu and Visa partner on stablecoin, AI business; Open Standard’s OUSD under consideration](https://www.theblock.co/news/business/2026-08-28-dunamu-visa-partner-stablecoin-ai-ousd-412988)
   - [Ethena Foundation proposes fee switch for ENA token buybacks among other updates](https://www.theblock.co/news/ecosystems/2026-08-27-ethena-foundation-proposes-fee-switch-ena-token-buybacks-other-updates-412951)
   - [Investors at least $4.7 billion underwater across Trump crypto ventures, Public Citizen says](https://www.theblock.co/news/business/2026-08-28-investors-at-least-4-7-billion-underwater-across-trump-crypto-ventures-public-citizen-says-413003)
+  - [IREN’s $25 billion-$30 billion AI buildout may have ‘spooked’ investors, Bernstein says](https://www.theblock.co/news/business/2026-08-28-irens-25-billion-30-billion-ai-buildout-may-have-spooked-investors-bernstein-says-413016)
   - [Latest annual UK tax data shows 240 people reported more than £1 million in crypto capital gains](https://www.theblock.co/news/regulation/2026-08-28-uk-tax-crypto-capital-gains-412993)
   - [Polish Olympic Committee president detained in Zondacrypto bribery probe](https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961)
   - [UAE ‘spy sheikh’ takes 49% stake in Trump family’s bank venture: WSJ](https://www.theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971)
@@ -386,6 +398,9 @@
 - 奇客Solidot–传递最新科技情报
   - [Haiku R1/beta6 释出](https://www.solidot.org/story?sid=85219)
   - [法国法庭认定辐射与空乘罹患乳腺癌相关](https://www.solidot.org/story?sid=85220)
+- 安全客
+  - [智能体安全能力图谱发布：企业可落地的建设路径](https://www.anquanke.com/post/id/316028)
+  - [波士顿科学被打停了：全球医疗巨头网络中断，订单发不出去，股价应声下跌](https://www.anquanke.com/post/id/316032)
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 杨龙
@@ -399,5 +414,7 @@
   - [高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景](https://www.qbitai.com/2026/08/480208.html)
 - 黑海洋
   - [YouTube创作者们开始在内容中嵌入亚马逊联盟返利链接](https://blog.upx8.com/YouTube%E5%88%9B%E4%BD%9C%E8%80%85%E4%BB%AC%E5%BC%80%E5%A7%8B%E5%9C%A8%E5%86%85%E5%AE%B9%E4%B8%AD%E5%B5%8C%E5%85%A5%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%81%94%E7%9B%9F%E8%BF%94%E5%88%A9%E9%93%BE%E6%8E%A5)
+  - [台湾拟斥资逾70亿美元扶持无人机制造商以抗衡中国](https://blog.upx8.com/%E5%8F%B0%E6%B9%BE%E6%8B%9F%E6%96%A5%E8%B5%84%E9%80%BE70%E4%BA%BF%E7%BE%8E%E5%85%83%E6%89%B6%E6%8C%81%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%B6%E9%80%A0%E5%95%86%E4%BB%A5%E6%8A%97%E8%A1%A1%E4%B8%AD%E5%9B%BD)
   - [美国国防部被裁禁止拉黑Anthropic公司](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E8%A2%AB%E8%A3%81%E7%A6%81%E6%AD%A2%E6%8B%89%E9%BB%91Anthropic%E5%85%AC%E5%8F%B8)
+  - [长鑫科技营收激增，得益于存储芯片短缺](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E8%90%A5%E6%94%B6%E6%BF%80%E5%A2%9E-%E5%BE%97%E7%9B%8A%E4%BA%8E%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%9F%AD%E7%BC%BA)
   - [🎬 《GTA 6》扩展预览上线YouTube平台](https://blog.upx8.com/GTA-6-%E6%89%A9%E5%B1%95%E9%A2%84%E8%A7%88%E4%B8%8A%E7%BA%BFYouTube%E5%B9%B3%E5%8F%B0)
