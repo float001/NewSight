@@ -3,12 +3,15 @@
 - 2Libra
   - [wow,ChatGPT 已重置,各位有熬夜蹬的吗](https://2libra.com/post/ai-companies/iFtPxPP)
   - [【💰】走个面](https://2libra.com/post/forum-function/Fllii6J)
+  - [为何现在小学的老师更换也这么频繁](https://2libra.com/post/social-observation/q83qgmh)
   - [好久没比惨了，水一贴](https://2libra.com/post/slacking-off/a4JQJwH)
   - [我的女友景甜——转自 H.E. Justin Sun](https://2libra.com/post/personal-works/a9925ST)
   - [整理了一个开源 AI 伴侣/长记忆/本地语音生态索引（已收录 150+ 项目，550+ Star）](https://2libra.com/post/ai-emotion-guard/racdggJ)
   - [新人求问。。。](https://2libra.com/post/forum-function/h8ZOdfq)
   - [更多可以自定义，好评](https://2libra.com/post/community/cT0WDyQ)
   - [每日微语看天下 8 月 28 日](https://2libra.com/post/hotspot-tracking/OF6mEa0)
+  - [签到文案 需 优化： 大成功鉴定失败，而非签到失败](https://2libra.com/post/forum-function/T_SnyUE)
+  - [这段时莫名其妙一天七八个骚扰电话，有什么办法吗？](https://2libra.com/post/interaction/JD1ayA3)
 - 404 Media
   - [The AI ‘Ghosts’ Contaminating Academic Publishing](https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/)
 - Ars Technica
@@ -29,6 +32,7 @@
   - [Elizabeth Warren’s Incoherent Outrage Regarding Apple’s Tariff Refund](https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-corporations-to-give-billions-in-tariff-refunds-back-to-consumers/)
   - [Panic Is Refunding Tariff Fees to Playdate Buyers](https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers)
   - [The Load-Bearing Vocabulary of Claude](https://louisabraham.github.io/load-bearing/)
+  - [U.S. Judge Blocks Trump Defense Department’s Anthropic Blacklisting](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/)
   - [‘How Europe Is Killing Makers and Micro-Entrepreneurs’](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
 - darkreading
   - [Chinese Routers Sold Worldwide Contain Backdoors](https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors)
@@ -136,6 +140,7 @@
   - [Ethena Foundation proposes fee switch for ENA token buybacks among other updates](https://www.theblock.co/news/ecosystems/2026-08-27-ethena-foundation-proposes-fee-switch-ena-token-buybacks-other-updates-412951)
   - [Polish Olympic Committee president detained in Zondacrypto bribery probe](https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961)
   - [UAE ‘spy sheikh’ takes 49% stake in Trump family’s bank venture: WSJ](https://www.theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971)
+  - [XRP treasury firm Evernorth says SEC registration now effective, clearing way for Nasdaq listing](https://www.theblock.co/news/deals/2026-08-27-evernorth-xrp-sec-effective-412981)
 - The Decoder
   - [AI shopping agents aren't ready to buy on your behalf, study finds](https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/)
   - [Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible](https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/)
@@ -227,6 +232,8 @@
   - [Netflix Failed at Video Games. Now It’s Trying to Promote Them](https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/)
   - [OpenAI Is Developing a ‘Persistent’ AI Agent](https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/)
   - [This Is How Anthropic Thinks AI Agents Should Navigate the Physical World](https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/)
+- 不安全
+  - [electroniz3r](https://buaq.net/go-438292.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -234,5 +241,7 @@
   - [早报｜iPhone 17登顶Q2最畅销智能手机/《GTA6》公布26分钟实机演示/追觅咖啡回应多店闭店](https://www.ifanr.com/1677210?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄](https://www.qbitai.com/2026/08/480186.html)
+  - [全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力](https://www.qbitai.com/2026/08/480083.html)
 - 黑海洋
+  - [YouTube创作者们开始在内容中嵌入亚马逊联盟返利链接](https://blog.upx8.com/YouTube%E5%88%9B%E4%BD%9C%E8%80%85%E4%BB%AC%E5%BC%80%E5%A7%8B%E5%9C%A8%E5%86%85%E5%AE%B9%E4%B8%AD%E5%B5%8C%E5%85%A5%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%81%94%E7%9B%9F%E8%BF%94%E5%88%A9%E9%93%BE%E6%8E%A5)
   - [🎬 《GTA 6》扩展预览上线YouTube平台](https://blog.upx8.com/GTA-6-%E6%89%A9%E5%B1%95%E9%A2%84%E8%A7%88%E4%B8%8A%E7%BA%BFYouTube%E5%B9%B3%E5%8F%B0)
