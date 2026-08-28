@@ -4,6 +4,9 @@
   - [wow,ChatGPT 已重置,各位有熬夜蹬的吗](https://2libra.com/post/ai-companies/iFtPxPP)
   - [【💰】走个面](https://2libra.com/post/forum-function/Fllii6J)
   - [为何现在小学的老师更换也这么频繁](https://2libra.com/post/social-observation/q83qgmh)
+  - [书荒了，有没有推荐的。](https://2libra.com/post/recommendations/BHDcmcw)
+  - [云闪付这个风控是怎么做的？设备用了 gkd 跳广告](https://2libra.com/post/network-security/YdygAV6)
+  - [嘻嘻，又一个徽章到手](https://2libra.com/post/forum-function/R_e2Wqu)
   - [好久没比惨了，水一贴](https://2libra.com/post/slacking-off/a4JQJwH)
   - [我的女友景甜——转自 H.E. Justin Sun](https://2libra.com/post/personal-works/a9925ST)
   - [整理了一个开源 AI 伴侣/长记忆/本地语音生态索引（已收录 150+ 项目，550+ Star）](https://2libra.com/post/ai-emotion-guard/racdggJ)
@@ -38,6 +41,8 @@
   - [The Load-Bearing Vocabulary of Claude](https://louisabraham.github.io/load-bearing/)
   - [U.S. Judge Blocks Trump Defense Department’s Anthropic Blacklisting](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/)
   - [‘How Europe Is Killing Makers and Micro-Entrepreneurs’](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
+- Darknet – Hacking Tools, Hacker News & Cyber Security
+  - [AI IR Overlay – Incident Response Specification for AI Agents](https://www.darknet.org.uk/2026/08/ai-ir-overlay-incident-response-specification-for-ai-agents/)
 - darkreading
   - [Chinese Routers Sold Worldwide Contain Backdoors](https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors)
 - eli.thegreenplace.net
@@ -53,6 +58,7 @@
 - Google DeepMind Blog
   - [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/)
 - Hacker News Frontpage
+  - [A Looming Rare Earth Shortage Threatens Critical Tech](https://spectrum.ieee.org/rare-earth-shortage)
   - [Autism mutations drive neurodevelopmental pathology](https://www.science.org/doi/10.1126/science.ady4523)
   - [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
   - [Grok Bot for Linux: Unofficial port of the official app (open source)](https://github.com/jakob-bu/grok-bot-linux-unofficial)
@@ -63,6 +69,8 @@
   - [Two German airport workers die of malaria after 'mosquito arrives on plane'](https://www.bbc.com/news/articles/cz6zwgg9y8go)
 - micahflee.com
   - [Sandboxing coding agents](https://micahflee.com/sandboxing-coding-agents/)
+- Product Hunt
+  - [Revalvo](https://www.producthunt.com/products/revalvo)
 - simonwillison.net
   - [Breaking Claude Code Opus 5 Auto Mode](https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/)
 - Sploitus.com Exploits RSS Feed
@@ -247,7 +255,9 @@
   - [This Is How Anthropic Thinks AI Agents Should Navigate the Physical World](https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/)
   - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)
 - 不安全
+  - [AI IR Overlay – Incident Response Specification for AI Agents](https://buaq.net/go-438328.html)
   - [electroniz3r](https://buaq.net/go-438292.html)
+  - [hydrafw](https://buaq.net/go-438331.html)
   - [upx v5.2.1](https://buaq.net/go-438309.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
