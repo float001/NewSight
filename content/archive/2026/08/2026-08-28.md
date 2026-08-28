@@ -8,6 +8,7 @@
   - [我的女友景甜——转自 H.E. Justin Sun](https://2libra.com/post/personal-works/a9925ST)
   - [整理了一个开源 AI 伴侣/长记忆/本地语音生态索引（已收录 150+ 项目，550+ Star）](https://2libra.com/post/ai-emotion-guard/racdggJ)
   - [新人求问。。。](https://2libra.com/post/forum-function/h8ZOdfq)
+  - [景甜竟然敢骗了孙宇晨 5000 万 人民币，这件事，你怎么看？细节描述太形象了，孙不愧是新概念一等奖北大毕业的，文笔很出彩。](https://2libra.com/post/hotspot-tracking/y9uxi0Q)
   - [更多可以自定义，好评](https://2libra.com/post/community/cT0WDyQ)
   - [每日微语看天下 8 月 28 日](https://2libra.com/post/hotspot-tracking/OF6mEa0)
   - [看到有个 2 友问 macbook 无头骑士能不能入手，突然想起来之前看的抖音里面很多卖那种资源机的，好奇有什么套路么？](https://2libra.com/post/apple/rq4U0vp)
@@ -26,6 +27,7 @@
   - [Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform](https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows](https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [The Sandbox pledges 1:1 repayment after $700K bridge exploit](https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen](https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond](https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -140,6 +142,7 @@
   - [YouTube now lets creators tag Amazon products and earn commissions from purchases](https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/)
 - The Block
   - [BitGo buys NYDIG’s institutional trading business, expanding derivatives offering](https://www.theblock.co/news/business/2026-08-27-bitgo-buys-nydig-institutional-trading-412975)
+  - [Dunamu and Visa partner on stablecoin, AI business; Open Standard’s OUSD under consideration](https://www.theblock.co/news/business/2026-08-28-dunamu-visa-partner-stablecoin-ai-ousd-412988)
   - [Ethena Foundation proposes fee switch for ENA token buybacks among other updates](https://www.theblock.co/news/ecosystems/2026-08-27-ethena-foundation-proposes-fee-switch-ena-token-buybacks-other-updates-412951)
   - [Polish Olympic Committee president detained in Zondacrypto bribery probe](https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961)
   - [UAE ‘spy sheikh’ takes 49% stake in Trump family’s bank venture: WSJ](https://www.theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971)
@@ -250,6 +253,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [Podcasts](https://dyrnq.com/podcasts/)
+- 小刀志
+  - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
   - [《GTA 6》公开 26 分钟实机玩法，这个游戏真值得等 13 年](https://www.ifanr.com/1677186?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 17登顶Q2最畅销智能手机/《GTA6》公布26分钟实机演示/追觅咖啡回应多店闭店](https://www.ifanr.com/1677210?utm_source=rss&utm_medium=rss&utm_campaign=)
