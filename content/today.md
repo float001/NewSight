@@ -2,6 +2,8 @@
 
 - 2Libra
   - [[建议]建议优化潘多拉的“招募行动”词条](https://2libra.com/post/forum-function/vxwkbFJ)
+  - [一美遮百丑！颜值就是能当饭吃](https://2libra.com/post/pet-sharing/X15XOsb)
+  - [建议直接 100 年，死后还能当墓地](https://2libra.com/post/social-observation/oUPOhiA)
   - [造了台 3D 打印机](https://2libra.com/post/3d-printing/HqqpBl8)
 - Ars Technica
   - [Trump blacklisting of "woke" Anthropic deemed illegal by federal judge](https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/)
@@ -31,6 +33,7 @@
   - [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
   - [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
   - [The OG Creator of Task Manager on Windows Built a New Task Manager](https://tmog.org)
+  - [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
 - Linux Foundation Blogs
   - [Building the Future of Japanese Tech Talent](https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent)
 - martinalderson.com
