@@ -42,6 +42,7 @@
 - Hacker News Frontpage
   - [Autistici/inventati: Manifesto – who we are and what do we want (2002)](https://www.inventati.org/who/manifesto)
   - [Chrome Deletes the Last Manifest V2 Extensions on August 31](https://bumbletap.com/blog/chrome-manifest-v2-extensions-removed)
+  - [Iceland votes on whether to restart talks on joining EU](https://www.bbc.com/news/articles/cn45vdxyvvlo)
   - [Show HN: Conduct, open-source guardrails for LLM and MCP tool calls](https://github.com/sseshachala/conductai)
   - [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
   - [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
@@ -63,6 +64,8 @@
   - [Building the Future of Japanese Tech Talent](https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent)
 - martinalderson.com
   - [What GLM-5.3 Flash running on Chinese hardware actually means](https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=feed)
+- shkspr.mobi
+  - [A simple "copy this code" button in JavaScript](https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/)
 - simonwillison.net
   - [Just a rumour of a bug is enough to find a security exploit these days](https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/)
 - Sploitus.com Exploits RSS Feed
@@ -140,6 +143,7 @@
 - The Verge
   - [DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything](https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai)
   - [Google further buries search results under AI mode](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand)
+  - [Musicians-turned-detectives are hunting for AI grifters](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai)
   - [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit)
   - [Xbox CEO calls Project Helix a ‘family of devices’](https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices)
 - Vulners.com RSS Feed
