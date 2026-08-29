@@ -132,18 +132,21 @@
   - [How Sweden built one of Europe’s hottest startup ecosystems](https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/)
   - [Is the best way to watch a movie on a pair of sunglasses?](https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/)
   - [Neocloud Lambda secures $1B in debt to buy more chips](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)
+  - [Nvidia’s AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
   - [Open-weight AI companies are the Valley’s hottest acquisition targets](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/)
 - The Block
   - [Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC’s exclusive jurisdiction claim](https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046)
 - The Decoder
   - [Anthropic wants to do for physical hardware what its Model Context Protocol did for software](https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/)
   - [Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers](https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/)
+  - [Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance](https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/)
   - [LAION drops massive open video dataset with 10 million hours of footage for AI research](https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/)
   - [OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts](https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/)
 - The Verge
   - [DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything](https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai)
   - [Google further buries search results under AI mode](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand)
   - [Musicians-turned-detectives are hunting for AI grifters](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai)
+  - [The Galaxy Z Flip 8 is at its best when there’s friction](https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review)
   - [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit)
   - [Xbox CEO calls Project Helix a ‘family of devices’](https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices)
 - Vulners.com RSS Feed
@@ -233,6 +236,9 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜皮卡丘造访苹果,见到库克、特努斯/微信回应方言采集争议:已清理异常文本/鸿蒙生态设备突破8000万](https://www.ifanr.com/1676877?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [20ms把PDF变成Markdown！开源OCR神器快了近300倍](https://www.qbitai.com/2026/08/481075.html)
+  - [Coding不再是程序员专属！阿里Qoder这波有点绝](https://www.qbitai.com/2026/08/480940.html)
 - 黑海洋
   - [美环境保护署想让数据中心隐瞒其空气污染](https://blog.upx8.com/%E7%BE%8E%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%BD%B2%E6%83%B3%E8%AE%A9%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%9A%90%E7%9E%92%E5%85%B6%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93)
   - [谷歌在AI模式下进一步将搜索结果隐藏得更深](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%9C%A8AI%E6%A8%A1%E5%BC%8F%E4%B8%8B%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%B0%86%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E9%9A%90%E8%97%8F%E5%BE%97%E6%9B%B4%E6%B7%B1)
