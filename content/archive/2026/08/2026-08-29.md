@@ -10,6 +10,8 @@
   - [最新 AI 公益站](https://2libra.com/post/promotion/BcM28b8)
   - [话说为啥没有 m4 和 m5 的无头骑士](https://2libra.com/post/apple/yGskjF6)
   - [造了台 3D 打印机](https://2libra.com/post/3d-printing/HqqpBl8)
+- 404 Media
+  - [Thousands of Interstellar Objects May Be Lurking in Our Solar System](https://www.404media.co/thousands-of-interstellar-objects-may-be-lurking-in-our-solar-system/)
 - Ars Technica
   - [Trump blacklisting of "woke" Anthropic deemed illegal by federal judge](https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/)
 - CoinTelegraph
@@ -43,6 +45,7 @@
   - [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
   - [The OG Creator of Task Manager on Windows Built a New Task Manager](https://tmog.org)
   - [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
+  - [You Know GDPR Is Good Based on Who Hates It](https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/)
 - InfoSec Write-ups - Medium
   - [[HS] Dark Writeup](https://infosecwriteups.com/hs-dark-writeup-022749c6f241?source=rss----7b722bfd1b8d---4)
   - [[OFFSEC] Stapler Writeup](https://infosecwriteups.com/offsec-stapler-writeup-d7e5f4600a0a?source=rss----7b722bfd1b8d---4)
@@ -128,7 +131,9 @@
 - The Block
   - [Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC’s exclusive jurisdiction claim](https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046)
 - The Decoder
+  - [Anthropic wants to do for physical hardware what its Model Context Protocol did for software](https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/)
   - [Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers](https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/)
+  - [LAION drops massive open video dataset with 10 million hours of footage for AI research](https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/)
   - [OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts](https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/)
 - The Verge
   - [DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything](https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai)
@@ -136,6 +141,7 @@
   - [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit)
   - [Xbox CEO calls Project Helix a ‘family of devices’](https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices)
 - Vulners.com RSS Feed
+  - [-CVE-2023-30845](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-HIMORI123--CVE-2023-30845?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [acunetix_0day](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DZONERZY-ACUNETIX_0DAY?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://vulners.com/thn/THN:BB72AF58918DF7026D5899E730F6BA84?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [aws-enumerator](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SHABARKIN-AWS-ENUMERATOR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -145,6 +151,7 @@
   - [CVE-2017-16995](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-GUGRONNIER-CVE-2017-16995?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2017-6640-POC](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-HEMP3L-CVE-2017-6640-POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2018-10388](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-0XDDAA-CVE-2018-10388?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2019-19781](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-VLADRICO-CVE-2019-19781?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2020-11579](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SHIELDERSEC-CVE-2020-11579?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2020-24029](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-REDTEAMBRASIL-CVE-2020-24029?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2020-24030](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-REDTEAMBRASIL-CVE-2020-24030?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -155,9 +162,12 @@
   - [CVE-2022-36200](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-AFAQ1337-CVE-2022-36200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-22855](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-PATRICKHENER-CVE-2023-22855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-27372-POC](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-IZZZ0-CVE-2023-27372-POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2023-7028-Docker](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-TRACKFLAW-CVE-2023-7028-DOCKER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-3640_WafBypass](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-H1NG007-CVE-2024-3640_WAFBYPASS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-22783](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DOTTAK-CVE-2025-22783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cve-2025-24813_poc](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-QZY0X-CVE-2025-24813_POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-32432](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-HELTONPOJO-CVE-2025-32432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-69212-for-myself](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-LIAOMILK-CVE-2025-69212-FOR-MYSELF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16723](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-EQSTLAB-CVE-2026-16723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16723](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NOWAFEN-CVE-2026-16723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-20896](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-EQSTLAB-CVE-2026-20896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -175,10 +185,13 @@
   - [Flipper](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-UBERGUIDOZ-FLIPPER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [h-encore](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-THEOFFICIALFLOW-H-ENCORE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [hades](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-F1ZM0-HADES?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [heartpatch.us](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-INGOCHRIS-HEARTPATCH.US?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [hidden](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JKORNEV-HIDDEN?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [huawei-p10-cve-2017-8890-unlock](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SWEATYROCKET-HUAWEI-P10-CVE-2017-8890-UNLOCK?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kyverno](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-KYVERNO-KYVERNO?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [libfb_mem_exploit](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-HIIKEZOE-LIBFB_MEM_EXPLOIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [linux-4.19.72_CVE-2023-0386](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SATHEESH575555-LINUX-4.19.72_CVE-2023-0386?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [loki](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-GRAFANA-LOKI?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [maldev-for-dummies](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-CHVANCOOTEN-MALDEV-FOR-DUMMIES?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [monitorr-exploit-toolkit](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SEC-IT-MONITORR-EXPLOIT-TOOLKIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nuclei](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-PROJECTDISCOVERY-NUCLEI?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -188,9 +201,11 @@
   - [SharpPN](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-WRA7H-SHARPPN?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [testenv](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SQLMAPPROJECT-TESTENV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Triage-CVE-2021-44228-Log4Shell-Log4j-](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SYDNEYSAMANTHA-TRIAGE-CVE-2021-44228-LOG4SHELL-LOG4J-?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ultralytics](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ULTRALYTICS-ULTRALYTICS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [USBusted](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-USERLANDKERNEL-USBUSTED?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Vulnerable-to-Debian-OpenSSL-bug-CVE-2008-0166](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DEMINING-VULNERABLE-TO-DEBIAN-OPENSSL-BUG-CVE-2008-0166?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [w3af](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ANDRESRIANCHO-W3AF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [wardriving](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-INFOBYTE-WARDRIVING?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Weblogic](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-GOBYSEC-WEBLOGIC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [whids](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-0XRAWSEC-WHIDS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Windows_LPE_AFD_CVE-2023-21768](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-XFORCERED-WINDOWS_LPE_AFD_CVE-2023-21768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
