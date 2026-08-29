@@ -15,6 +15,7 @@
 - Ethical hacking and penetration testing
   - [Local AI translation at the highest quality: 33 languages (a guide to using Hy-MT2)](https://miloserdov.org/?p=8649)
 - Hacker News Frontpage
+  - [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html)
   - [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
   - [Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)
 - micahflee.com
@@ -34,6 +35,7 @@
   - [DeepSleep exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THEFLINK-DEEPSLEEP&utm_source=rss&utm_medium=rss)
   - [DevicePairedTool exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ELEVENPATHS-DEVICEPAIREDTOOL&utm_source=rss&utm_medium=rss)
   - [Digital-Signature-Hijack exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NETBIOSX-DIGITAL-SIGNATURE-HIJACK&utm_source=rss&utm_medium=rss)
+  - [dolos_cloak exploit](https://sploitus.com/exploit?id=KITPLOIT:3931937892388762776&utm_source=rss&utm_medium=rss)
   - [FalconEye exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RAJIV2790-FALCONEYE&utm_source=rss&utm_medium=rss)
   - [hacker-scripts exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NARKOZ-HACKER-SCRIPTS&utm_source=rss&utm_medium=rss)
   - [iCUE_DllHijack_LPE-CVE-2024-22002 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0XKICKIT-ICUE_DLLHIJACK_LPE-CVE-2024-22002&utm_source=rss&utm_medium=rss)
@@ -57,6 +59,7 @@
   - [“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/)
 - The Block
   - [Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack](https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061)
+  - [Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply](https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064)
 - The Verge
   - [Alt-right troll Milo Yiannopoulos has been deported](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice)
   - [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)
