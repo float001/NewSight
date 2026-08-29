@@ -1,4 +1,43 @@
 # 今日安全资讯（2026-08-30）
 
+- CoinTelegraph
+  - [Tokenized stock transfer volume jumps 415% in 30 days to $29.5B](https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- dfarq.homeip.net
+  - [A Roku alternative streaming device](https://dfarq.homeip.net/a-roku-alternative-streaming-device/?utm_source=rss&utm_medium=rss&utm_campaign=a-roku-alternative-streaming-device)
+- Ethical hacking and penetration testing
+  - [Local AI translation at the highest quality: 33 languages (a guide to using Hy-MT2)](https://miloserdov.org/?p=8649)
+- Sploitus.com Exploits RSS Feed
+  - [capsulecorp-pentest exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-R3DY-CAPSULECORP-PENTEST&utm_source=rss&utm_medium=rss)
+  - [clusterd exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HATRIOT-CLUSTERD&utm_source=rss&utm_medium=rss)
+  - [CVE-2014-0226-poc exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHREESH1-CVE-2014-0226-POC&utm_source=rss&utm_medium=rss)
+  - [CVE-2020-0601_PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JOELBTS-CVE-2020-0601_POC&utm_source=rss&utm_medium=rss)
+  - [cve-2021-29442-Nacos-Derby-rce-exp exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NANAAO-CVE-2021-29442-NACOS-DERBY-RCE-EXP&utm_source=rss&utm_medium=rss)
+  - [CVE-2022-1388 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GOTR00T0DAY-CVE-2022-1388&utm_source=rss&utm_medium=rss)
+  - [CVE-2023-46604 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CCIEVOICE2009-CVE-2023-46604&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-30065-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RON-IMPERVA-CVE-2025-30065-POC&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-59528-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MANANISPIWPIW-CVE-2025-59528-POC&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-24061 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-K3YSTR0K3R-CVE-2026-24061&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-38165-SSTI- exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AT190510-CUONG-CVE-2026-38165-SSTI-&utm_source=rss&utm_medium=rss)
+  - [DeepSleep exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THEFLINK-DEEPSLEEP&utm_source=rss&utm_medium=rss)
+  - [DevicePairedTool exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ELEVENPATHS-DEVICEPAIREDTOOL&utm_source=rss&utm_medium=rss)
+  - [Digital-Signature-Hijack exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NETBIOSX-DIGITAL-SIGNATURE-HIJACK&utm_source=rss&utm_medium=rss)
+  - [FalconEye exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RAJIV2790-FALCONEYE&utm_source=rss&utm_medium=rss)
+  - [hacker-scripts exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NARKOZ-HACKER-SCRIPTS&utm_source=rss&utm_medium=rss)
+  - [iCUE_DllHijack_LPE-CVE-2024-22002 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0XKICKIT-ICUE_DLLHIJACK_LPE-CVE-2024-22002&utm_source=rss&utm_medium=rss)
+  - [json-sanitizer exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OWASP-JSON-SANITIZER&utm_source=rss&utm_medium=rss)
+  - [laf exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IOACTIVE-LAF&utm_source=rss&utm_medium=rss)
+  - [link exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-POSTREQUEST-LINK&utm_source=rss&utm_medium=rss)
+  - [loki exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GRAFANA-LOKI&utm_source=rss&utm_medium=rss)
+  - [poc-CVE-2026-0073 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-XQI1337-POC-CVE-2026-0073&utm_source=rss&utm_medium=rss)
+  - [prowler exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PROWLER-CLOUD-PROWLER&utm_source=rss&utm_medium=rss)
+  - [Remote-Desktop-Caching- exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-VIRALMANIAR-REMOTE-DESKTOP-CACHING-&utm_source=rss&utm_medium=rss)
+  - [Sandbox-Escape-iOS-18.0-26.0 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MRANONYMOUS234-SANDBOX-ESCAPE-IOS-18.0-26.0&utm_source=rss&utm_medium=rss)
+  - [Sharperner exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ANIQFAKHRUL-SHARPERNER&utm_source=rss&utm_medium=rss)
+  - [ultralytics exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ULTRALYTICS-ULTRALYTICS&utm_source=rss&utm_medium=rss)
+  - [w3af exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ANDRESRIANCHO-W3AF&utm_source=rss&utm_medium=rss)
+  - [wordlistctl exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BLACKARCH-WORDLISTCTL&utm_source=rss&utm_medium=rss)
+  - [WP-GDPR-Compliance-Plugin-Exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AEROOT-WP-GDPR-COMPLIANCE-PLUGIN-EXPLOIT&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Hollywood celebs are getting into microdrama apps](https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
