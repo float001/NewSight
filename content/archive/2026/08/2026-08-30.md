@@ -10,6 +10,8 @@
   - [A Roku alternative streaming device](https://dfarq.homeip.net/a-roku-alternative-streaming-device/?utm_source=rss&utm_medium=rss&utm_campaign=a-roku-alternative-streaming-device)
 - Ethical hacking and penetration testing
   - [Local AI translation at the highest quality: 33 languages (a guide to using Hy-MT2)](https://miloserdov.org/?p=8649)
+- Hacker News Frontpage
+  - [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
 - Sploitus.com Exploits RSS Feed
   - [capsulecorp-pentest exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-R3DY-CAPSULECORP-PENTEST&utm_source=rss&utm_medium=rss)
   - [clusterd exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HATRIOT-CLUSTERD&utm_source=rss&utm_medium=rss)
@@ -44,6 +46,9 @@
 - TechCrunch
   - [At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/)
   - [Hollywood celebs are getting into microdrama apps](https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/)
+  - [Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)
   - [“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/)
+- The Verge
+  - [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
