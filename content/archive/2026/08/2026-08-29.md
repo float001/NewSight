@@ -133,5 +133,8 @@
   - [Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands](https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜皮卡丘造访苹果,见到库克、特努斯/微信回应方言采集争议:已清理异常文本/鸿蒙生态设备突破8000万](https://www.ifanr.com/1676877?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [美环境保护署想让数据中心隐瞒其空气污染](https://blog.upx8.com/%E7%BE%8E%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%BD%B2%E6%83%B3%E8%AE%A9%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%9A%90%E7%9E%92%E5%85%B6%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93)
   - [谷歌在AI模式下进一步将搜索结果隐藏得更深](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%9C%A8AI%E6%A8%A1%E5%BC%8F%E4%B8%8B%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%B0%86%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E9%9A%90%E8%97%8F%E5%BE%97%E6%9B%B4%E6%B7%B1)
