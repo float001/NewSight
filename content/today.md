@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-08-30）
 
 - CoinTelegraph
+  - [Stellar tokenized RWA market more than quadruples to nearly $4B](https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tokenized stock transfer volume jumps 415% in 30 days to $29.5B](https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [★ Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox](https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast)
@@ -12,6 +13,9 @@
   - [Local AI translation at the highest quality: 33 languages (a guide to using Hy-MT2)](https://miloserdov.org/?p=8649)
 - Hacker News Frontpage
   - [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
+  - [Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)
+- micahflee.com
+  - [The Server Called Paranoia: Defend Autistici/Inventati](https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/)
 - Sploitus.com Exploits RSS Feed
   - [capsulecorp-pentest exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-R3DY-CAPSULECORP-PENTEST&utm_source=rss&utm_medium=rss)
   - [clusterd exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HATRIOT-CLUSTERD&utm_source=rss&utm_medium=rss)
@@ -49,6 +53,7 @@
   - [Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)
   - [“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/)
 - The Verge
+  - [Alt-right troll Milo Yiannopoulos has been deported](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice)
   - [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
