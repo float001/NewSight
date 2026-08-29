@@ -2,6 +2,10 @@
 
 - CoinTelegraph
   - [Tokenized stock transfer volume jumps 415% in 30 days to $29.5B](https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [★ Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox](https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast)
+- Der Flounder
+  - [Checking APNS communication on macOS Tahoe](https://derflounder.wordpress.com/2026/08/29/checking-apns-communication-on-macos-tahoe/)
 - dfarq.homeip.net
   - [A Roku alternative streaming device](https://dfarq.homeip.net/a-roku-alternative-streaming-device/?utm_source=rss&utm_medium=rss&utm_campaign=a-roku-alternative-streaming-device)
 - Ethical hacking and penetration testing
@@ -38,6 +42,8 @@
   - [wordlistctl exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BLACKARCH-WORDLISTCTL&utm_source=rss&utm_medium=rss)
   - [WP-GDPR-Compliance-Plugin-Exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AEROOT-WP-GDPR-COMPLIANCE-PLUGIN-EXPLOIT&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/)
   - [Hollywood celebs are getting into microdrama apps](https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/)
+  - [“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
