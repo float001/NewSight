@@ -28,6 +28,7 @@
 - Hacker News Frontpage
   - [Chrome Deletes the Last Manifest V2 Extensions on August 31](https://bumbletap.com/blog/chrome-manifest-v2-extensions-removed)
   - [Show HN: Conduct, open-source guardrails for LLM and MCP tool calls](https://github.com/sseshachala/conductai)
+  - [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
   - [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
   - [The OG Creator of Task Manager on Windows Built a New Task Manager](https://tmog.org)
 - Linux Foundation Blogs
