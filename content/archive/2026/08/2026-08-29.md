@@ -6,6 +6,7 @@
   - [【兑换码】周六摸鱼福利｜ Proxy001 住宅代理 $0.55/GB， 1 亿 IP 全球覆盖，注册送免费流量](https://2libra.com/post/promotion/v1op8oe)
   - [一美遮百丑！颜值就是能当饭吃](https://2libra.com/post/pet-sharing/X15XOsb)
   - [建议直接 100 年，死后还能当墓地](https://2libra.com/post/social-observation/oUPOhiA)
+  - [我的潘多拉盲盒中签概率，和体感不同，最高的竟然是？](https://2libra.com/post/forum-function/G-bvsw9)
   - [无偿赠送两只猫咪!](https://2libra.com/post/pet-sharing/koI3npz)
   - [最新 AI 公益站](https://2libra.com/post/promotion/BcM28b8)
   - [话说为啥没有 m4 和 m5 的无头骑士](https://2libra.com/post/apple/yGskjF6)
@@ -20,6 +21,7 @@
   - [Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs](https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Solana validators approve proposal to accelerate SOL disinflation](https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trump-promoted brand touts GOLD before token collapse](https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple Announces Price Increase for Apple TV and Apple One Subscriptions](https://9to5mac.com/2026/08/28/apple-announces-price-increase-for-apple-tv-and-apple-one-subscriptions/)
   - [We Certainly Have Made a Hames Out of This](https://daringfireball.net/linked/2026/08/28/trump-lake-ontario)
@@ -215,7 +217,9 @@
   - [Microsoft Teams Has Become a Haven for Scammers in China](https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/)
   - [Milo Yiannopoulos Detained by ICE in Louisiana](https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/)
   - [Motorola Coupon Code for September 2026](https://www.wired.com/story/motorola-coupon-code/)
+  - [NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap](https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/)
   - [Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands](https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/)
+  - [The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn](https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/)
 - 不安全
   - [How I Got My Highest Payout](https://buaq.net/go-438546.html)
   - [systeminformer v4.0.26241.138](https://buaq.net/go-438535.html)
