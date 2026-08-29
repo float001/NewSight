@@ -2,8 +2,10 @@
 
 - 2Libra
   - [[建议]建议优化潘多拉的“招募行动”词条](https://2libra.com/post/forum-function/vxwkbFJ)
+  - [orca 有些重，有没有轻量一些的替代。](https://2libra.com/post/recommendations/f8vfRNc)
   - [一美遮百丑！颜值就是能当饭吃](https://2libra.com/post/pet-sharing/X15XOsb)
   - [建议直接 100 年，死后还能当墓地](https://2libra.com/post/social-observation/oUPOhiA)
+  - [话说为啥没有 m4 和 m5 的无头骑士](https://2libra.com/post/apple/yGskjF6)
   - [造了台 3D 打印机](https://2libra.com/post/3d-printing/HqqpBl8)
 - Ars Technica
   - [Trump blacklisting of "woke" Anthropic deemed illegal by federal judge](https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/)
@@ -134,7 +136,10 @@
   - [Mice, a Caved-In Ceiling, and Cloudy Water: The GSA’s New Office Is Falling Apart](https://www.wired.com/story/mice-a-caved-in-ceiling-and-cloudy-water-the-gsas-new-office-is-falling-apart/)
   - [Microsoft Teams Has Become a Haven for Scammers in China](https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/)
   - [Milo Yiannopoulos Detained by ICE in Louisiana](https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/)
+  - [Motorola Coupon Code for September 2026](https://www.wired.com/story/motorola-coupon-code/)
   - [Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands](https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/)
+- 不安全
+  - [systeminformer v4.0.26241.138](https://buaq.net/go-438535.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
