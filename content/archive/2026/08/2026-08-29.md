@@ -5,11 +5,13 @@
   - [orca 有些重，有没有轻量一些的替代。](https://2libra.com/post/recommendations/f8vfRNc)
   - [一美遮百丑！颜值就是能当饭吃](https://2libra.com/post/pet-sharing/X15XOsb)
   - [建议直接 100 年，死后还能当墓地](https://2libra.com/post/social-observation/oUPOhiA)
+  - [无偿赠送两只猫咪!](https://2libra.com/post/pet-sharing/koI3npz)
   - [话说为啥没有 m4 和 m5 的无头骑士](https://2libra.com/post/apple/yGskjF6)
   - [造了台 3D 打印机](https://2libra.com/post/3d-printing/HqqpBl8)
 - Ars Technica
   - [Trump blacklisting of "woke" Anthropic deemed illegal by federal judge](https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/)
 - CoinTelegraph
+  - [Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K](https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending](https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs](https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -23,6 +25,8 @@
 - darkreading
   - [Hundreds of OpenAI Agents Invaded Hugging Face Servers](https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers)
   - [Offensive Security Investments Surge as AI Threats Increase](https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase)
+- defend.network
+  - [PaperCut second patch; Cosmos EVM drained; McKesson 284M records stolen](https://defend.network/briefings/papercut-blockchain-exploit-mckesson-breach-2026-08-29.html)
 - Emergent Minds | paddo.dev
   - [Google Scores Zero: FelonyBench and the Leaderboard That Counts AI Felonies](https://paddo.dev/blog/google-scores-zero/)
 - Fidelis Security
@@ -36,6 +40,17 @@
   - [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
   - [The OG Creator of Task Manager on Windows Built a New Task Manager](https://tmog.org)
   - [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
+- InfoSec Write-ups - Medium
+  - [[HS] Dark Writeup](https://infosecwriteups.com/hs-dark-writeup-022749c6f241?source=rss----7b722bfd1b8d---4)
+  - [[OFFSEC] Stapler Writeup](https://infosecwriteups.com/offsec-stapler-writeup-d7e5f4600a0a?source=rss----7b722bfd1b8d---4)
+  - [Hacker Holidays 2026: Day 11 Walkthrough (Infinity Pool)](https://infosecwriteups.com/hacker-holidays-2026-day-11-walkthrough-infinity-pool-76267e802804?source=rss----7b722bfd1b8d---4)
+  - [Hacker Holidays 2026: Day 12 Walkthrough (After Hours)](https://infosecwriteups.com/hacker-holidays-2026-day-12-walkthrough-after-hours-582f6bded460?source=rss----7b722bfd1b8d---4)
+  - [Hacker Holidays 2026: Day 13 Walkthrough (The Guestbook)](https://infosecwriteups.com/hacker-holidays-2026-day-13-walkthrough-the-guestbook-31011e460277?source=rss----7b722bfd1b8d---4)
+  - [Hacker Holidays 2026: Day 14 Walkthrough (Management Wants a Word)](https://infosecwriteups.com/hacker-holidays-2026-day-14-walkthrough-management-wants-a-word-fa655886d56d?source=rss----7b722bfd1b8d---4)
+  - [How I Got My Highest Payout](https://infosecwriteups.com/how-i-got-my-highest-payout-466213a1cb47?source=rss----7b722bfd1b8d---4)
+  - [Hunting Down Hackers: Incident Response with Wireshark](https://infosecwriteups.com/hunting-down-hackers-incident-response-with-wireshark-dad8110b74e9?source=rss----7b722bfd1b8d---4)
+  - [LetsDefend: Kerberoasting Challenge (Walkthrough)](https://infosecwriteups.com/letsdefend-kerbroasting-challenge-walkthrough-0bad84ae465b?source=rss----7b722bfd1b8d---4)
+  - [Operation RepoGhost: Exposing a Russian-Linked Malware Campaign Hiding in GitHub’s Open-Source…](https://infosecwriteups.com/operation-repoghost-exposing-a-russian-linked-malware-campaign-hiding-in-githubs-open-source-85a5dd6fa01e?source=rss----7b722bfd1b8d---4)
 - Linux Foundation Blogs
   - [Building the Future of Japanese Tech Talent](https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent)
 - martinalderson.com
@@ -139,6 +154,7 @@
   - [Motorola Coupon Code for September 2026](https://www.wired.com/story/motorola-coupon-code/)
   - [Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands](https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/)
 - 不安全
+  - [How I Got My Highest Payout](https://buaq.net/go-438546.html)
   - [systeminformer v4.0.26241.138](https://buaq.net/go-438535.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -147,4 +163,5 @@
 - 黑海洋
   - [美环境保护署想让数据中心隐瞒其空气污染](https://blog.upx8.com/%E7%BE%8E%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%BD%B2%E6%83%B3%E8%AE%A9%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%9A%90%E7%9E%92%E5%85%B6%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93)
   - [谷歌在AI模式下进一步将搜索结果隐藏得更深](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%9C%A8AI%E6%A8%A1%E5%BC%8F%E4%B8%8B%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%B0%86%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E9%9A%90%E8%97%8F%E5%BE%97%E6%9B%B4%E6%B7%B1)
+  - [长鑫存储官宣LPDDR6量产 小米18 Fold搭载](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E5%AE%98%E5%AE%A3LPDDR6%E9%87%8F%E4%BA%A7-%E5%B0%8F%E7%B1%B318-Fold%E6%90%AD%E8%BD%BD)
   - [长鑫科技起诉五角大楼 要求移出涉军名单](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E8%B5%B7%E8%AF%89%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC-%E8%A6%81%E6%B1%82%E7%A7%BB%E5%87%BA%E6%B6%89%E5%86%9B%E5%90%8D%E5%8D%95)
