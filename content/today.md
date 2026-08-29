@@ -134,9 +134,12 @@
   - [Neocloud Lambda secures $1B in debt to buy more chips](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)
   - [Nvidia’s AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
   - [Open-weight AI companies are the Valley’s hottest acquisition targets](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/)
+  - [The Theragun Sense makes everyday recovery surprisingly easy](https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/)
 - The Block
+  - [Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets](https://www.theblock.co/news/regulation/2026-08-29-former-white-house-teleprompter-operator-ordered-to-pay-172000-for-kalshi-trades-on-mention-markets-413058)
   - [Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC’s exclusive jurisdiction claim](https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046)
 - The Decoder
+  - [AI-generated videos are already displacing actors and livestreamers across China's entertainment industry](https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/)
   - [Anthropic wants to do for physical hardware what its Model Context Protocol did for software](https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/)
   - [Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers](https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/)
   - [Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance](https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/)
@@ -188,6 +191,7 @@
   - [DccwBypassUAC](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-L3CR0F-DCCWBYPASSUAC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Digital-Signature-Forgery-Attack](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DEMINING-DIGITAL-SIGNATURE-FORGERY-ATTACK?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DoubleStar](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-FORREST-ORR-DOUBLESTAR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-81578](https://vulners.com/githubexploit/22CCF182-BE84-5BBC-B569-DA25837A73B7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploits](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-FORREST-ORR-EXPLOITS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploits](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SADFUD-EXPLOITS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [fail2ban-log4j](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ATNETWS-FAIL2BAN-LOG4J?utm_source=rss&utm_medium=rss&utm_campaign=rss)
