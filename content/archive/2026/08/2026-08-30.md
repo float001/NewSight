@@ -66,3 +66,5 @@
   - [Vicariously hike the Appalachian in the gorgeous A Trail Tale](https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [调查显示反对警方车牌识别摄像头的美国人多于支持者](https://blog.upx8.com/%E8%B0%83%E6%9F%A5%E6%98%BE%E7%A4%BA%E5%8F%8D%E5%AF%B9%E8%AD%A6%E6%96%B9%E8%BD%A6%E7%89%8C%E8%AF%86%E5%88%AB%E6%91%84%E5%83%8F%E5%A4%B4%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%A4%9A%E4%BA%8E%E6%94%AF%E6%8C%81%E8%80%85)
