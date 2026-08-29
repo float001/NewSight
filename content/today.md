@@ -19,6 +19,8 @@
 - darkreading
   - [Hundreds of OpenAI Agents Invaded Hugging Face Servers](https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers)
   - [Offensive Security Investments Surge as AI Threats Increase](https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase)
+- Emergent Minds | paddo.dev
+  - [Google Scores Zero: FelonyBench and the Leaderboard That Counts AI Felonies](https://paddo.dev/blog/google-scores-zero/)
 - Fidelis Security
   - [Top 10 Network Detection and Response Solutions for Enterprise Security Teams](https://fidelissecurity.com/threatgeek/network-security/top-network-detection-and-response-solutions/)
 - filfre.net
@@ -30,6 +32,8 @@
   - [The OG Creator of Task Manager on Windows Built a New Task Manager](https://tmog.org)
 - Linux Foundation Blogs
   - [Building the Future of Japanese Tech Talent](https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent)
+- martinalderson.com
+  - [What GLM-5.3 Flash running on Chinese hardware actually means](https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=feed)
 - simonwillison.net
   - [Just a rumour of a bug is enough to find a security exploit these days](https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/)
 - Sploitus.com Exploits RSS Feed
@@ -66,6 +70,7 @@
 - TechCrunch
   - [An Anthropic researcher just gave us a peek at self-improving AI](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/)
   - [Brave’s browser one-ups Chrome with its new support for email aliases](https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/)
+  - [Chinese automakers are following Tesla’s bet that robots are the next big profit machine](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/)
   - [How Sweden built one of Europe’s hottest startup ecosystems](https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/)
   - [Is the best way to watch a movie on a pair of sunglasses?](https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/)
   - [Neocloud Lambda secures $1B in debt to buy more chips](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)
@@ -128,3 +133,5 @@
   - [Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands](https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [谷歌在AI模式下进一步将搜索结果隐藏得更深](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%9C%A8AI%E6%A8%A1%E5%BC%8F%E4%B8%8B%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%B0%86%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E9%9A%90%E8%97%8F%E5%BE%97%E6%9B%B4%E6%B7%B1)
