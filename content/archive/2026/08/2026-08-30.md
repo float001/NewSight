@@ -4,10 +4,12 @@
   - [3D 的 gameboy 游戏机，童年回忆鸭](https://2libra.com/post/promotion/Dlp9FqR)
   - [给大家看看我第一次做的 PCB 艺术画](https://2libra.com/post/personal-works/TSv18Fe)
   - [这怎么补签减免还要我刷新一下页面才生效吗](https://2libra.com/post/forum-function/rCKBd9J)
+  - [🏆 本周 2Libra 龙虎榜 2026-08-24 ~ 2026-08-30](https://2libra.com/post/forum-function/jqA3WeW)
 - bunnie's blog
   - [Name that Ware, August 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-august-2026/)
   - [Winner, Name that Ware July 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-july-2026/)
 - CoinTelegraph
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polygon discloses security flaws fixed in recent hard forks](https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Russia’s Sber eyes USDT loans, questions digital ruble demand](https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stellar tokenized RWA market more than quadruples to nearly $4B](https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -38,6 +40,8 @@
   - [Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)
 - micahflee.com
   - [The Server Called Paranoia: Defend Autistici/Inventati](https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/)
+- Recent Commits to cve:main
+  - [Update Sun Aug 30 12:39:30 UTC 2026](https://github.com/trickest/cve/commit/a52834dd8570772b7b17d2629e04d333801b20cd)
 - shkspr.mobi
   - [ActivityBot is the recipient of an NLnet grant!](https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/)
 - simonwillison.net
@@ -139,6 +143,7 @@
   - [The skills that earn top grades are the ones AI can fake best](https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/)
 - The Verge
   - [Alt-right troll Milo Yiannopoulos has been deported](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice)
+  - [Chess.com launched a poker site and is planning even more classic games](https://www.theverge.com/games/986302/chess-poker-expansion-gambit)
   - [China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)
   - [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)
   - [Two new small, powerful Macs](https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera)
