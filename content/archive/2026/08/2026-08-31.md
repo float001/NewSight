@@ -19,6 +19,7 @@
 - The Block
   - [Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs](https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066)
   - [Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million](https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069)
+  - [Kalshi becomes exclusive prediction market partner of US Open: report](https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074)
 - The Verge
   - [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3)
   - [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch)
