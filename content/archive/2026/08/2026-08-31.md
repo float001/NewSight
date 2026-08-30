@@ -20,14 +20,29 @@
   - [Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs](https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066)
   - [Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million](https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069)
 - The Verge
+  - [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3)
   - [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch)
 - Vulners.com RSS Feed
   - [ASIS-CTF-Quals-2026](https://vulners.com/githubexploit/92338AFD-080F-562E-94F0-0A05E2AC119F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CrackAVFee](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-BYT3N33DL3-CRACKAVFEE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2021-43224-POC](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-KALENDSI-CVE-2021-43224-POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2022-25845-In-Spring](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-PH0EBUS-CVE-2022-25845-IN-SPRING?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56713](https://vulners.com/nvd/NVD:CVE-2026-56713?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56715](https://vulners.com/nvd/NVD:CVE-2026-56715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78693](https://vulners.com/nvd/NVD:CVE-2026-78693?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-80223](https://vulners.com/nvd/NVD:CVE-2026-80223?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81633](https://vulners.com/nvd/NVD:CVE-2026-81633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81636](https://vulners.com/nvd/NVD:CVE-2026-81636?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81643](https://vulners.com/nvd/NVD:CVE-2026-81643?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82367](https://vulners.com/nvd/NVD:CVE-2026-82367?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82551](https://vulners.com/nvd/NVD:CVE-2026-82551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82552](https://vulners.com/nvd/NVD:CVE-2026-82552?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82553](https://vulners.com/nvd/NVD:CVE-2026-82553?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82554 SourceCodester Queue Management System add_customer.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-82554?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82587](https://vulners.com/nvd/NVD:CVE-2026-82587?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario](https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/)
+- xania.org
+  - [Recreating a 2010 Experiment](http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&utm_medium=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
