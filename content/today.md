@@ -5,6 +5,8 @@
   - [给大家看看我第一次做的 PCB 艺术画](https://2libra.com/post/personal-works/TSv18Fe)
   - [这怎么补签减免还要我刷新一下页面才生效吗](https://2libra.com/post/forum-function/rCKBd9J)
   - [🏆 本周 2Libra 龙虎榜 2026-08-24 ~ 2026-08-30](https://2libra.com/post/forum-function/jqA3WeW)
+- 404 Media
+  - [Google's Calling Lake Ontario 'Lake America' Now](https://www.404media.co/google-maps-lake-america-lake-ontario-name-change/)
 - bunnie's blog
   - [Name that Ware, August 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-august-2026/)
   - [Winner, Name that Ware July 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-july-2026/)
@@ -139,6 +141,7 @@
   - [Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply](https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064)
 - The Decoder
   - [AI agents have no sense of time and are not aware of it](https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/)
+  - [AI sentiment is turning sour as employee reviews reveal growing frustration across the workforce](https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/)
   - [Sony and Warner sue Anthropic over "one of the largest and most blatant ongoing thefts of intellectual property in history"](https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/)
   - [The skills that earn top grades are the ones AI can fake best](https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/)
 - The Verge
@@ -163,7 +166,13 @@
   - [CVE-2026-82488](https://vulners.com/nvd/NVD:CVE-2026-82488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82539](https://vulners.com/nvd/NVD:CVE-2026-82539?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82540 itsourcecode Sales and Inventory System cust_searchfrm.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-82540?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82542](https://vulners.com/nvd/NVD:CVE-2026-82542?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82543](https://vulners.com/nvd/NVD:CVE-2026-82543?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82633](https://vulners.com/nvd/NVD:CVE-2026-82633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82634](https://vulners.com/nvd/NVD:CVE-2026-82634?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82635](https://vulners.com/nvd/NVD:CVE-2026-82635?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-82222](https://vulners.com/githubexploit/9DDA56B5-0222-5425-A8DB-6D73151148C4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Citrix Netscaler_Application_Delivery_Controller](https://vulners.com/githubexploit/55161DCA-FA94-5035-928E-BEBF7EA8F04C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PentAGI-Next](https://vulners.com/gitee/1D06ECE8-A6ED-54F4-A7A6-0A0FEBEEDE76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ps4host](https://vulners.com/githubexploit/86128F98-1DDA-577D-BF3A-C8C254BB29E0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
