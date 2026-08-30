@@ -22,6 +22,7 @@
   - [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html)
   - [Bug Blindness](https://danluu.com/bug-blind/)
   - [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
+  - [Google: Lake Ontario/Lake America name change in the U.S. will appear in Maps](https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/)
   - [Highest-ever ocean temperature measured as powerful El Niño forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)
   - [I co-founded Burning Man. The festival has lost its soul](https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/)
   - [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
@@ -126,6 +127,7 @@
   - [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)
   - [Vicariously hike the Appalachian in the gorgeous A Trail Tale](https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale)
 - Vulners.com RSS Feed
+  - [Exploit for CVE-2026-82222](https://vulners.com/githubexploit/9DDA56B5-0222-5425-A8DB-6D73151148C4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PentAGI-Next](https://vulners.com/gitee/1D06ECE8-A6ED-54F4-A7A6-0A0FEBEEDE76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ps4host](https://vulners.com/githubexploit/86128F98-1DDA-577D-BF3A-C8C254BB29E0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
@@ -136,5 +138,6 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [中国机器人企业依赖英伟达芯片及软件](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%81%E4%B8%9A%E4%BE%9D%E8%B5%96%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87%E5%8F%8A%E8%BD%AF%E4%BB%B6)
   - [索尼等起诉Anthropic 指控窃取知识产权](https://blog.upx8.com/%E7%B4%A2%E5%B0%BC%E7%AD%89%E8%B5%B7%E8%AF%89Anthropic-%E6%8C%87%E6%8E%A7%E7%AA%83%E5%8F%96%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83)
   - [调查显示反对警方车牌识别摄像头的美国人多于支持者](https://blog.upx8.com/%E8%B0%83%E6%9F%A5%E6%98%BE%E7%A4%BA%E5%8F%8D%E5%AF%B9%E8%AD%A6%E6%96%B9%E8%BD%A6%E7%89%8C%E8%AF%86%E5%88%AB%E6%91%84%E5%83%8F%E5%A4%B4%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%A4%9A%E4%BA%8E%E6%94%AF%E6%8C%81%E8%80%85)
