@@ -1,12 +1,14 @@
 # 今日安全资讯（2026-08-30）
 
 - 2Libra
+  - [给大家看看我第一次做的 PCB 艺术画](https://2libra.com/post/personal-works/TSv18Fe)
   - [这怎么补签减免还要我刷新一下页面才生效吗](https://2libra.com/post/forum-function/rCKBd9J)
 - bunnie's blog
   - [Name that Ware, August 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-august-2026/)
   - [Winner, Name that Ware July 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-july-2026/)
 - CoinTelegraph
   - [Polygon discloses security flaws fixed in recent hard forks](https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Russia’s Sber eyes USDT loans, questions digital ruble demand](https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stellar tokenized RWA market more than quadruples to nearly $4B](https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tokenized stock transfer volume jumps 415% in 30 days to $29.5B](https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -23,6 +25,7 @@
   - [Local AI translation at the highest quality: 33 languages (a guide to using Hy-MT2)](https://miloserdov.org/?p=8649)
 - Hacker News Frontpage
   - [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html)
+  - [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994)
   - [Bug Blindness](https://danluu.com/bug-blind/)
   - [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
   - [Google: Lake Ontario/Lake America name change in the U.S. will appear in Maps](https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/)
@@ -140,6 +143,9 @@
   - [CVE-2026-81660](https://vulners.com/nvd/NVD:CVE-2026-81660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81766](https://vulners.com/nvd/NVD:CVE-2026-81766?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82482](https://vulners.com/nvd/NVD:CVE-2026-82482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82484](https://vulners.com/nvd/NVD:CVE-2026-82484?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82485](https://vulners.com/nvd/NVD:CVE-2026-82485?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82486 SiteServer SSCMS Agent Installation Workflow access control](https://vulners.com/cvelist/CVELIST:CVE-2026-82486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-82222](https://vulners.com/githubexploit/9DDA56B5-0222-5425-A8DB-6D73151148C4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PentAGI-Next](https://vulners.com/gitee/1D06ECE8-A6ED-54F4-A7A6-0A0FEBEEDE76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ps4host](https://vulners.com/githubexploit/86128F98-1DDA-577D-BF3A-C8C254BB29E0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -148,6 +154,7 @@
   - [kamene](https://buaq.net/go-438635.html)
   - [liboqs](https://buaq.net/go-438645.html)
   - [mlkem-native](https://buaq.net/go-438640.html)
+  - [NVIDIA 即将告别 Windows 10：最后一款 Game Ready 驱动 10 月发布](https://buaq.net/go-438677.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
