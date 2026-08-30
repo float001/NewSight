@@ -1,5 +1,11 @@
 # 今日安全资讯（2026-08-31）
 
+- CoinTelegraph
+  - [Saylor signals Strategy is ‘Back’ to Bitcoin buying](https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Data Breach
+  - [Extortion Group FulcrumSec Claims 86GB Manchester Airports Group Data Theft](https://securityaffairs.com/198143/cyber-crime/extortion-group-fulcrumsec-claims-86gb-manchester-airports-group-data-theft.html)
+- Hacker News Frontpage
+  - ['They shot all their weapons; they trashed their ships; they ran out of money'](https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget)
 - miguelgrinberg.com
   - [Forgejo Hack #2: Integration with Read The Docs](https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs)
 - righto.com
@@ -7,8 +13,16 @@
 - TechCrunch
   - [Musk’s faster path to more gas turbines comes with pollution problem](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/)
   - [TechCrunch Mobility: The hidden human cost of robotaxis](https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/)
+- The Block
+  - [Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs](https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066)
 - The Verge
   - [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch)
+- Vulners.com RSS Feed
+  - [ASIS-CTF-Quals-2026](https://vulners.com/githubexploit/92338AFD-080F-562E-94F0-0A05E2AC119F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82551](https://vulners.com/nvd/NVD:CVE-2026-82551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82552](https://vulners.com/nvd/NVD:CVE-2026-82552?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82553](https://vulners.com/nvd/NVD:CVE-2026-82553?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82554 SourceCodester Queue Management System add_customer.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-82554?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario](https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/)
 - 代码审计星球
