@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-08-30）
 
 - 2Libra
+  - [3D 的 gameboy 游戏机，童年回忆鸭](https://2libra.com/post/promotion/Dlp9FqR)
   - [给大家看看我第一次做的 PCB 艺术画](https://2libra.com/post/personal-works/TSv18Fe)
   - [这怎么补签减免还要我刷新一下页面才生效吗](https://2libra.com/post/forum-function/rCKBd9J)
 - bunnie's blog
@@ -37,6 +38,8 @@
   - [Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)
 - micahflee.com
   - [The Server Called Paranoia: Defend Autistici/Inventati](https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/)
+- shkspr.mobi
+  - [ActivityBot is the recipient of an NLnet grant!](https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/)
 - simonwillison.net
   - [Introducing Hy4 Preview](https://simonwillison.net/2026/Aug/29/hy4/)
 - Sploitus.com Exploits RSS Feed
@@ -136,7 +139,9 @@
   - [The skills that earn top grades are the ones AI can fake best](https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/)
 - The Verge
   - [Alt-right troll Milo Yiannopoulos has been deported](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice)
+  - [China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)
   - [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)
+  - [Two new small, powerful Macs](https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera)
   - [Vicariously hike the Appalachian in the gorgeous A Trail Tale](https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale)
 - Vulners.com RSS Feed
   - [CVE-2026-14307](https://vulners.com/nvd/NVD:CVE-2026-14307?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -150,12 +155,16 @@
   - [CVE-2026-82484](https://vulners.com/nvd/NVD:CVE-2026-82484?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82485](https://vulners.com/nvd/NVD:CVE-2026-82485?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82486 SiteServer SSCMS Agent Installation Workflow access control](https://vulners.com/cvelist/CVELIST:CVE-2026-82486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82488](https://vulners.com/nvd/NVD:CVE-2026-82488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82539](https://vulners.com/nvd/NVD:CVE-2026-82539?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82540 itsourcecode Sales and Inventory System cust_searchfrm.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-82540?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-82222](https://vulners.com/githubexploit/9DDA56B5-0222-5425-A8DB-6D73151148C4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PentAGI-Next](https://vulners.com/gitee/1D06ECE8-A6ED-54F4-A7A6-0A0FEBEEDE76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ps4host](https://vulners.com/githubexploit/86128F98-1DDA-577D-BF3A-C8C254BB29E0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Why the Hottest New Wearables Want to Be Ignored](https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/)
 - 不安全
+  - [cilium v1.20.1](https://buaq.net/go-438687.html)
   - [ecdsa-private-key-recovery](https://buaq.net/go-438644.html)
   - [kamene](https://buaq.net/go-438635.html)
   - [liboqs](https://buaq.net/go-438645.html)
