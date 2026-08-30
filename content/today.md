@@ -2,6 +2,7 @@
 
 - 2Libra
   - [3D 的 gameboy 游戏机，童年回忆鸭](https://2libra.com/post/promotion/Dlp9FqR)
+  - [大家工作都在用什么 AI 呀？](https://2libra.com/post/ai-tools/rOxgMUM)
   - [给大家看看我第一次做的 PCB 艺术画](https://2libra.com/post/personal-works/TSv18Fe)
   - [这怎么补签减免还要我刷新一下页面才生效吗](https://2libra.com/post/forum-function/rCKBd9J)
   - [🏆 本周 2Libra 龙虎榜 2026-08-24 ~ 2026-08-30](https://2libra.com/post/forum-function/jqA3WeW)
@@ -32,6 +33,7 @@
   - [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html)
   - [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994)
   - [Bug Blindness](https://danluu.com/bug-blind/)
+  - [Europe's summer drought is so extreme that desertification is a growing threat](https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/)
   - [Fair Work Commission condemns 'plain wrong' AI legal advice](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
   - [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
   - [Google: Lake Ontario/Lake America name change in the U.S. will appear in Maps](https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/)
@@ -40,6 +42,14 @@
   - [My fat loss experiments with ChatGPT and water fasting](https://community.webminal.org/t/my-fat-loss-experiments-with-chatgpt-and-water-fasting/8846)
   - [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
   - [Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)
+- InfoSec Write-ups - Medium
+  - [A KQL Query Is Not a Detection: What My Microsoft Sentinel Lab Actually Validated](https://infosecwriteups.com/i-built-an-azure-detection-engineering-lab-with-microsoft-sentinel-79bf6b5e6635?source=rss----7b722bfd1b8d---4)
+  - [EGCTF 2025 Qualifications — “TNKR.1” Forensics Challenge](https://infosecwriteups.com/egctf-2025-qualifications-tnkr-1-forensics-challenge-1ee952e9f69b?source=rss----7b722bfd1b8d---4)
+  - [He Sent 200,000 Reset Codes to Instagram in 10 Minutes. Instagram Paid Him $30,000.](https://infosecwriteups.com/he-sent-200-000-reset-codes-to-instagram-in-10-minutes-instagram-paid-him-30-000-0afd2bcaa3b2?source=rss----7b722bfd1b8d---4)
+  - [How I Scraped Most Dark Stores in India — Blinkit, Zepto & Swiggy Instamart](https://infosecwriteups.com/how-i-scraped-most-dark-stores-in-india-blinkit-zepto-swiggy-instamart-ad939ff17af9?source=rss----7b722bfd1b8d---4)
+  - [I Made Claude Believe I Was an Anthropic-Verified 
+Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropic-verified-researcher-e38e4fa4716f?source=rss----7b722bfd1b8d---4)
+  - [WebStrike Blue Team Lab (CyberDefenders)](https://infosecwriteups.com/webstrike-blue-team-lab-cyberdefenders-c5eb87ea6dd0?source=rss----7b722bfd1b8d---4)
 - micahflee.com
   - [The Server Called Paranoia: Defend Autistici/Inventati](https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/)
 - Recent Commits to cve:main
@@ -133,6 +143,7 @@
   - [XposedFridaBridge exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MONKEYLORD-XPOSEDFRIDABRIDGE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/)
+  - [Caterpillar is bringing to AI deployment what it learned from automating mining](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/)
   - [Hollywood celebs are getting into microdrama apps](https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/)
   - [Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)
   - [“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/)
