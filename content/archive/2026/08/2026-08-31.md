@@ -8,6 +8,10 @@
   - [Extortion Group FulcrumSec Claims 86GB Manchester Airports Group Data Theft](https://securityaffairs.com/198143/cyber-crime/extortion-group-fulcrumsec-claims-86gb-manchester-airports-group-data-theft.html)
 - Hacker News Frontpage
   - ['They shot all their weapons; they trashed their ships; they ran out of money'](https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget)
+- HackerNoon
+  - [How to Match Cold Outreach CTAs to Buyer Readiness](https://hackernoon.com/how-to-match-cold-outreach-ctas-to-buyer-readiness?source=rss)
+  - [Why Mouse Jigglers Defeat Activity-Based Time Tracking](https://hackernoon.com/why-mouse-jigglers-defeat-activity-based-time-tracking?source=rss)
+  - [Why Standard WER Lies to You in Dialect AI](https://hackernoon.com/why-standard-wer-lies-to-you-in-dialect-ai?source=rss)
 - miguelgrinberg.com
   - [Forgejo Hack #2: Integration with Read The Docs](https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs)
 - righto.com
@@ -22,6 +26,7 @@
   - [Kalshi becomes exclusive prediction market partner of US Open: report](https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074)
 - The Verge
   - [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3)
+  - [Professor Murder Rides the Subway is a forgotten slice of dance punk perfection](https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review)
   - [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch)
 - Vulners.com RSS Feed
   - [ASIS-CTF-Quals-2026](https://vulners.com/githubexploit/92338AFD-080F-562E-94F0-0A05E2AC119F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -30,6 +35,7 @@
   - [CVE-2022-25845-In-Spring](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-PH0EBUS-CVE-2022-25845-IN-SPRING?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56713](https://vulners.com/nvd/NVD:CVE-2026-56713?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56715](https://vulners.com/nvd/NVD:CVE-2026-56715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56718](https://vulners.com/nvd/NVD:CVE-2026-56718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-78693](https://vulners.com/nvd/NVD:CVE-2026-78693?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-80223](https://vulners.com/nvd/NVD:CVE-2026-80223?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81633](https://vulners.com/nvd/NVD:CVE-2026-81633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
