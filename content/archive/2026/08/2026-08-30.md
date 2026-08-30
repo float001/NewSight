@@ -27,10 +27,12 @@
   - [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html)
   - [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994)
   - [Bug Blindness](https://danluu.com/bug-blind/)
+  - [Fair Work Commission condemns 'plain wrong' AI legal advice](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
   - [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
   - [Google: Lake Ontario/Lake America name change in the U.S. will appear in Maps](https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/)
   - [Highest-ever ocean temperature measured as powerful El Niño forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)
   - [I co-founded Burning Man. The festival has lost its soul](https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/)
+  - [My fat loss experiments with ChatGPT and water fasting](https://community.webminal.org/t/my-fat-loss-experiments-with-chatgpt-and-water-fasting/8846)
   - [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
   - [Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)
 - micahflee.com
@@ -129,7 +131,9 @@
   - [Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack](https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061)
   - [Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply](https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064)
 - The Decoder
+  - [AI agents have no sense of time and are not aware of it](https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/)
   - [Sony and Warner sue Anthropic over "one of the largest and most blatant ongoing thefts of intellectual property in history"](https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/)
+  - [The skills that earn top grades are the ones AI can fake best](https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/)
 - The Verge
   - [Alt-right troll Milo Yiannopoulos has been deported](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice)
   - [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)
@@ -149,6 +153,8 @@
   - [Exploit for CVE-2026-82222](https://vulners.com/githubexploit/9DDA56B5-0222-5425-A8DB-6D73151148C4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PentAGI-Next](https://vulners.com/gitee/1D06ECE8-A6ED-54F4-A7A6-0A0FEBEEDE76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ps4host](https://vulners.com/githubexploit/86128F98-1DDA-577D-BF3A-C8C254BB29E0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Why the Hottest New Wearables Want to Be Ignored](https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/)
 - 不安全
   - [ecdsa-private-key-recovery](https://buaq.net/go-438644.html)
   - [kamene](https://buaq.net/go-438635.html)
