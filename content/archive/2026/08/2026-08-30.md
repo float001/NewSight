@@ -2,6 +2,9 @@
 
 - 2Libra
   - [这怎么补签减免还要我刷新一下页面才生效吗](https://2libra.com/post/forum-function/rCKBd9J)
+- bunnie's blog
+  - [Name that Ware, August 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-august-2026/)
+  - [Winner, Name that Ware July 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-july-2026/)
 - CoinTelegraph
   - [Polygon discloses security flaws fixed in recent hard forks](https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stellar tokenized RWA market more than quadruples to nearly $4B](https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -138,6 +141,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [中国国家数据局：探索适配产业实际的词元商业模式](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%95%B0%E6%8D%AE%E5%B1%80-%E6%8E%A2%E7%B4%A2%E9%80%82%E9%85%8D%E4%BA%A7%E4%B8%9A%E5%AE%9E%E9%99%85%E7%9A%84%E8%AF%8D%E5%85%83%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F)
   - [中国机器人企业依赖英伟达芯片及软件](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%81%E4%B8%9A%E4%BE%9D%E8%B5%96%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87%E5%8F%8A%E8%BD%AF%E4%BB%B6)
   - [索尼等起诉Anthropic 指控窃取知识产权](https://blog.upx8.com/%E7%B4%A2%E5%B0%BC%E7%AD%89%E8%B5%B7%E8%AF%89Anthropic-%E6%8C%87%E6%8E%A7%E7%AA%83%E5%8F%96%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83)
   - [调查显示反对警方车牌识别摄像头的美国人多于支持者](https://blog.upx8.com/%E8%B0%83%E6%9F%A5%E6%98%BE%E7%A4%BA%E5%8F%8D%E5%AF%B9%E8%AD%A6%E6%96%B9%E8%BD%A6%E7%89%8C%E8%AF%86%E5%88%AB%E6%91%84%E5%83%8F%E5%A4%B4%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%A4%9A%E4%BA%8E%E6%94%AF%E6%8C%81%E8%80%85)
