@@ -104,7 +104,9 @@
   - [PentAGI-Next](https://vulners.com/gitee/1D06ECE8-A6ED-54F4-A7A6-0A0FEBEEDE76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ps4host](https://vulners.com/githubexploit/86128F98-1DDA-577D-BF3A-C8C254BB29E0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
+  - [ecdsa-private-key-recovery](https://buaq.net/go-438644.html)
   - [kamene](https://buaq.net/go-438635.html)
+  - [liboqs](https://buaq.net/go-438645.html)
   - [mlkem-native](https://buaq.net/go-438640.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
