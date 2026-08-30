@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-08-30）
 
+- 2Libra
+  - [这怎么补签减免还要我刷新一下页面才生效吗](https://2libra.com/post/forum-function/rCKBd9J)
 - CoinTelegraph
   - [Polygon discloses security flaws fixed in recent hard forks](https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stellar tokenized RWA market more than quadruples to nearly $4B](https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -19,6 +21,7 @@
 - Hacker News Frontpage
   - [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html)
   - [Bug Blindness](https://danluu.com/bug-blind/)
+  - [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
   - [Highest-ever ocean temperature measured as powerful El Niño forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)
   - [I co-founded Burning Man. The festival has lost its soul](https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/)
   - [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
@@ -99,8 +102,10 @@
   - [Vicariously hike the Appalachian in the gorgeous A Trail Tale](https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale)
 - Vulners.com RSS Feed
   - [PentAGI-Next](https://vulners.com/gitee/1D06ECE8-A6ED-54F4-A7A6-0A0FEBEEDE76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ps4host](https://vulners.com/githubexploit/86128F98-1DDA-577D-BF3A-C8C254BB29E0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [kamene](https://buaq.net/go-438635.html)
+  - [mlkem-native](https://buaq.net/go-438640.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
