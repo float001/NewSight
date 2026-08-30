@@ -12,6 +12,8 @@
   - [How to Match Cold Outreach CTAs to Buyer Readiness](https://hackernoon.com/how-to-match-cold-outreach-ctas-to-buyer-readiness?source=rss)
   - [Why Mouse Jigglers Defeat Activity-Based Time Tracking](https://hackernoon.com/why-mouse-jigglers-defeat-activity-based-time-tracking?source=rss)
   - [Why Standard WER Lies to You in Dialect AI](https://hackernoon.com/why-standard-wer-lies-to-you-in-dialect-ai?source=rss)
+- jeffgeerling.com
+  - [Before NTP there were Time and Daytime](https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/)
 - miguelgrinberg.com
   - [Forgejo Hack #2: Integration with Read The Docs](https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs)
 - righto.com
@@ -53,3 +55,5 @@
   - [Recreating a 2010 Experiment](http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&utm_medium=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [Steam泄露12TB数据 半条命2第三章在列](https://blog.upx8.com/Steam%E6%B3%84%E9%9C%B212TB%E6%95%B0%E6%8D%AE-%E5%8D%8A%E6%9D%A1%E5%91%BD2%E7%AC%AC%E4%B8%89%E7%AB%A0%E5%9C%A8%E5%88%97)
