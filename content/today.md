@@ -1,11 +1,14 @@
 # 今日安全资讯（2026-08-31）
 
 - CoinTelegraph
+  - [Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest](https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Saylor signals Strategy is ‘Back’ to Bitcoin buying](https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Finalist 4](https://www.finalist.works/?utm_source=df-aug-2026)
 - Data Breach
   - [Extortion Group FulcrumSec Claims 86GB Manchester Airports Group Data Theft](https://securityaffairs.com/198143/cyber-crime/extortion-group-fulcrumsec-claims-86gb-manchester-airports-group-data-theft.html)
+- Emergent Minds | paddo.dev
+  - [The Terms of Service Became a Sanction: OpenAI Cuts Cursor Off After the SpaceX Deal](https://paddo.dev/blog/the-terms-of-service-became-a-sanction/)
 - Hacker News Frontpage
   - ['They shot all their weapons; they trashed their ships; they ran out of money'](https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget)
 - HackerNoon
@@ -31,10 +34,19 @@
   - [Professor Murder Rides the Subway is a forgotten slice of dance punk perfection](https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review)
   - [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch)
 - Vulners.com RSS Feed
+  - [Adaz](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-CHRISTOPHETD-ADAZ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Admin-Scanner](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ALIENWHATEVER-ADMIN-SCANNER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ALHacking](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-4LBH4CKER-ALHACKING?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [android_kernel_xiaomi_sm8150](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-LOUKIOUS-ANDROID_KERNEL_XIAOMI_SM8150?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ASIS-CTF-Quals-2026](https://vulners.com/githubexploit/92338AFD-080F-562E-94F0-0A05E2AC119F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [aws-pentesting-lab](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JUANJOSANZ-AWS-PENTESTING-LAB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [BackupOperatorToolkit](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-IMPROSEC-BACKUPOPERATORTOOLKIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [bypass-url-parser](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-LALUKA-BYPASS-URL-PARSER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Copy-Fail-CVE-2026-31431-Lab](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-KUNIYAL08-COPY-FAIL-CVE-2026-31431-LAB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CrackAVFee](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-BYT3N33DL3-CRACKAVFEE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2021-43224-POC](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-KALENDSI-CVE-2021-43224-POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2022-25845-In-Spring](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-PH0EBUS-CVE-2022-25845-IN-SPRING?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SXYRXYY-CVE-2025-8088-WINRAR-PROOF-OF-CONCEPT-POC-EXPLOIT-?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56713](https://vulners.com/nvd/NVD:CVE-2026-56713?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56715](https://vulners.com/nvd/NVD:CVE-2026-56715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56718](https://vulners.com/nvd/NVD:CVE-2026-56718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -49,11 +61,37 @@
   - [CVE-2026-82553](https://vulners.com/nvd/NVD:CVE-2026-82553?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82554 SourceCodester Queue Management System add_customer.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-82554?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82587](https://vulners.com/nvd/NVD:CVE-2026-82587?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82589](https://vulners.com/nvd/NVD:CVE-2026-82589?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82590](https://vulners.com/nvd/NVD:CVE-2026-82590?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82591](https://vulners.com/nvd/NVD:CVE-2026-82591?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82592](https://vulners.com/nvd/NVD:CVE-2026-82592?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [hacker-scripts](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NARKOZ-HACKER-SCRIPTS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [HtmlSmuggling](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DE3VIL-HTMLSMUGGLING?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [KrbRelay](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-CUBE0X0-KRBRELAY?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Lazymux](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SANIX-DARKER-LAZYMUX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [loki](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-GRAFANA-LOKI?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Malleable-C2-Profiles](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-XX0HCD-MALLEABLE-C2-PROFILES?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [nmap](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NMAP-NMAP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [nuclei](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-PROJECTDISCOVERY-NUCLEI?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Papers](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-S0MD3V-PAPERS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [prowler](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-PROWLER-CLOUD-PROWLER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [RAU_crypto](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-BAO7UO-RAU_CRYPTO?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [red-shadow](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-LIGHTSPIN-TECH-RED-SHADOW?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [scodescanner](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-AGRAWALSMART7-SCODESCANNER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [StreamDivert](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JELLEVER-STREAMDIVERT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [t-reqs](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-BAHRUZJABIYEV-T-REQS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [tangalanga](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ELCUERVO-TANGALANGA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [XLMMacroDeobfuscator](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DISSECTMALWARE-XLMMACRODEOBFUSCATOR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario](https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/)
 - xania.org
   - [Recreating a 2010 Experiment](http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&utm_medium=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [OpenAI自曝家丑：1200个AI智能体"组团造反"，自主挖零日攻破Hugging Face](https://www.anquanke.com/post/id/316042)
+  - [满分预警：ServiceNow连爆3个CVSS 10.0漏洞，无需登录即可接管整个平台](https://www.anquanke.com/post/id/316039)
+  - [用IP情报构建反自动采集防线：转发行为识别与风险画像实战](https://www.anquanke.com/post/id/316035)
 - 黑海洋
   - [Steam泄露12TB数据 半条命2第三章在列](https://blog.upx8.com/Steam%E6%B3%84%E9%9C%B212TB%E6%95%B0%E6%8D%AE-%E5%8D%8A%E6%9D%A1%E5%91%BD2%E7%AC%AC%E4%B8%89%E7%AB%A0%E5%9C%A8%E5%88%97)
+  - [谷歌地图将安大略湖标记为美国湖](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%9C%B0%E5%9B%BE%E5%B0%86%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E6%A0%87%E8%AE%B0%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%B9%96)
