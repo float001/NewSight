@@ -4,9 +4,12 @@
   - [My Experience Has Nuance, Yours Is a Data Point](https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/)
 - CoinTelegraph
   - [Bitcoin begins volatile monthly close as US bond yields eye new 20-year high](https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ireland excludes crypto from new tax-advantaged investment accounts](https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wallet in Telegram rebrands to Walt as Gram wallet debuts](https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Webull expands crypto trading into Canada through Coinbase collaboration](https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
+  - ['TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks](https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks)
   - [AI Model Rules Are Not Security Controls](https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control)
 - Fidelis Security
   - [How Integrated Malware Sandboxing Makes EDR Investigations Faster](https://fidelissecurity.com/threatgeek/endpoint-security/malware-sandboxing-for-faster-edr-investigations/)
@@ -17,6 +20,7 @@
   - [Mental Health Workers Say Algorithmic Triage Is Hurting Patients](https://capitalandmain.com/mental-health-workers-say-algorithmic-triage-is-hurting-patients)
   - [ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source](https://ravynos.com/)
   - [Student teacher arrested for private Snapchat message](https://www.gadgetreview.com/student-teacher-sent-a-private-snapchat-complaining-about-her-workday-an-hour-later-police-pulled-up-to-her-school)
+  - [The river of Apple's interface guidelines](https://hig.josefrichter.design/)
   - [The safest job from AI may be writing](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html)
   - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/workweave)
 - IEEE Spectrum
@@ -25,17 +29,20 @@
   - [Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down](https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/)
   - [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)
   - [Clipto uses AI to search terabytes of video and is now valued at $250M](https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/)
+  - [FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit](https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/)
   - [Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson](https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/)
   - [Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’](https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/)
   - [Instagram puts new limits on undisclosed AI profiles](https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/)
   - [Kalshi bans George Santos for life over State of the Union bets](https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/)
   - [Microsoft tests fix for latest hours-long Outlook outage](https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/)
   - [Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt](https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/)
+  - [The Pentagon now has its own version of ChatGPT and Grok](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)
   - [Tim Cook’s parting message: Apple is in the hands of a product builder](https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/)
   - [VLC crosses 7 billion downloads](https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/)
 - The Block
   - [Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg](https://www.theblock.co/news/markets/2026-08-31-hyperliquid-eyes-us-entry-kraken-parent-payward-perpetual-futures-deal-bloomberg-413129)
   - [OpenSea adds Solana NFT trading more than four years after initial beta](https://www.theblock.co/news/markets/2026-08-31-opensea-solana-nft-trading-413128)
+  - [Solana fees hit record as validators double pace of inflation cuts](https://www.theblock.co/news/ecosystems/2026-08-31-solana-fees-hit-record-as-validators-double-pace-of-inflation-cuts-413135)
 - The Decoder
   - [Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis](https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/)
   - [Instagram admits users often can't tell AI profiles from real people](https://the-decoder.com/instagram-admits-users-often-cant-tell-ai-profiles-from-real-people/)
@@ -81,6 +88,7 @@
   - [Satellian-CVE-2020-7980](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-XH4H-SATELLIAN-CVE-2020-7980?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Asus ProArt 27 QD-OLED (PA279cdv) Review: HDR for All](https://www.wired.com/review/asus-proart-pa279cdv/)
+  - [Best Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More](https://www.wired.com/story/early-tech-labor-day-sales-2026/)
   - [Tempo Promo Codes: Get up to 60% Off Healthy Meals](https://www.wired.com/story/tempo-meals-promo-code/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
