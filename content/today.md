@@ -5,16 +5,20 @@
   - [8 月 31 日资本市场大事提醒](https://2libra.com/post/stock-market/ppaMB4J)
   - [microduck 大家关注过吗？很好玩的样子，但买不到额](https://2libra.com/post/ai-applications/fkO81DK)
   - [【读书笔记】活着的意义：人要「创造价值」，否则就是《变形记》里的虫子](https://2libra.com/post/good-books/SaQPShl)
+  - [【💰】工作太苦了，推荐些笑点密集的喜剧，哪个地区都行](https://2libra.com/post/movie-sharing/g-kkaKc)
   - [【💰】暴露拉满，今日话题 【胆子大+有年假+中秋+国庆=？】](https://2libra.com/post/festival-things/nxsWHWl)
   - [代理 IP 不允许访问 antigravity](https://2libra.com/post/networking/qMLXlPB)
   - [公司来了个吉米 😆](https://2libra.com/post/touch-fish/hklcQNk)
   - [写了一个关于 windows 更新 codex 之后某些不可用的功能的 skills](https://2libra.com/post/ai-programming/1SiksJI)
   - [同样分流了 gemini 和 google glow，为什么 flow 就能识别到，不让我使用？](https://2libra.com/post/ai-gateway/BIOXxtz)
   - [周末上海电信大范围故障](https://2libra.com/post/networking/J2aG4tt)
+  - [大家最近没啥事不要请假](https://2libra.com/post/office-life/0jWcmeT)
   - [好像和所有人隔了一层](https://2libra.com/post/family/RT_nMNr)
   - [工作倦怠之不想上班碎碎念](https://2libra.com/post/workplace-stories/syA_yHM)
   - [希望签到检定掷骰子能够再快一些](https://2libra.com/post/community/TEdXNi2)
   - [才意识到，本周一是失去平衡值奖励的第一天，怀念](https://2libra.com/post/community/KQJCzni)
+  - [明天就是 9 月 1 号了，你们那里已经开学了吗？](https://2libra.com/post/parent-child/6-gbjoV)
+  - [看看哪个模型绘画最好看，代码生图](https://2libra.com/post/large-models/ojkadJ1)
   - [问个问题老哥们，chatgpt 需要美国手机号，有好用的接码平台么？](https://2libra.com/post/recommendations/ukTyxQ6)
 - CoinTelegraph
   - [Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest](https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -28,6 +32,7 @@
   - [The Terms of Service Became a Sanction: OpenAI Cuts Cursor Off After the SpaceX Deal](https://paddo.dev/blog/the-terms-of-service-became-a-sanction/)
 - Hacker News Frontpage
   - ['They shot all their weapons; they trashed their ships; they ran out of money'](https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget)
+  - [A 12TB Steam "teraleak" spills more than a decade of lost PC gaming history](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/)
   - [Why do I lose my passion and want to do nothing?](https://news.ycombinator.com/item?id=49505014)
 - HackerNoon
   - [How to Match Cold Outreach CTAs to Buyer Readiness](https://hackernoon.com/how-to-match-cold-outreach-ctas-to-buyer-readiness?source=rss)
@@ -39,6 +44,8 @@
   - [Forgejo Hack #2: Integration with Read The Docs](https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs)
 - Planet Classpath
   - [Thomas Fitzsimmons: Glove82](https://www.fitzsim.org/blog/?p=840)
+- Product Hunt
+  - [Tether](https://www.producthunt.com/products/tether-a-ball-for-boring-meetings)
 - righto.com
   - [Cores in space: The core memory module from a 1980 Spacelab computer](http://www.righto.com/2026/08/spacelab-core-memory.html)
 - rtl-sdr.com
