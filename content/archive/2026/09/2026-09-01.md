@@ -16,6 +16,7 @@
   - [How Integrated Malware Sandboxing Makes EDR Investigations Faster](https://fidelissecurity.com/threatgeek/endpoint-security/malware-sandboxing-for-faster-edr-investigations/)
 - Hacker News Frontpage
   - [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
+  - [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
   - [German Konrad Zuse Museum shutting down due to lack of funding](https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyerswerda-kamenz/computer-museum-schliesst-,konrad-zuse-kultur-news-100.html)
   - [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
   - [I Turned My Security Cameras into an Automatic Bird Identification System](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
@@ -34,6 +35,7 @@
 - IEEE Spectrum
   - [This Teen Helped Native American Students Earn Ham Radio Licenses](https://spectrum.ieee.org/ham-radio-2677797793)
 - TechCrunch
+  - [A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms](https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/)
   - [Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down](https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/)
   - [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)
   - [Clipto uses AI to search terabytes of video and is now valued at $250M](https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/)
@@ -50,6 +52,7 @@
 - The Block
   - [Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg](https://www.theblock.co/news/markets/2026-08-31-hyperliquid-eyes-us-entry-kraken-parent-payward-perpetual-futures-deal-bloomberg-413129)
   - [OpenSea adds Solana NFT trading more than four years after initial beta](https://www.theblock.co/news/markets/2026-08-31-opensea-solana-nft-trading-413128)
+  - [Robinhood Chain hits record $989 million in daily DEX volume as TVL grows](https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136)
   - [Solana fees hit record as validators double pace of inflation cuts](https://www.theblock.co/news/ecosystems/2026-08-31-solana-fees-hit-record-as-validators-double-pace-of-inflation-cuts-413135)
 - The Decoder
   - [Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis](https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/)
@@ -63,6 +66,7 @@
   - [Markiplier is now GoPro’s biggest shareholder](https://www.theverge.com/tech/986847/markiplier-gopro-investor)
   - [Phil Schiller is leaving his biggest jobs at Apple](https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down)
   - [Read Tim Cook&#8217;s final message to Apple staff as CEO](https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff)
+  - [The Google TV Streamer now costs $50 more](https://www.theverge.com/tech/987032/google-tv-streamer-price-increase)
 - Vulners.com RSS Feed
   - [CVE-2019-14439](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JAS502N-CVE-2019-14439?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2021-26855-exploit-Exchange](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-HAOTIKU-CVE-2021-26855-EXPLOIT-EXCHANGE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
