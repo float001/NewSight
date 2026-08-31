@@ -27,6 +27,8 @@
   - [请求增加删除帖子的功能](https://2libra.com/post/forum-function/68AUSLD)
   - [转发一篇小红书的文章：愚公还贷](https://2libra.com/post/social-observation/TB3ad_7)
   - [问个问题老哥们，chatgpt 需要美国手机号，有好用的接码平台么？](https://2libra.com/post/recommendations/ukTyxQ6)
+- 404 Media
+  - [How Cyber Sleuths Tracked a Nigerian Scammer to His Doorstep](https://www.404media.co/how-cyber-sleuths-tracked-a-nigerian-scammer-to-his-doorstep/)
 - CoinTelegraph
   - [Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest](https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cronos halts network after Tectonic exploit involving estimated $75M](https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -34,6 +36,7 @@
   - [Markets pivot to September Fed rate hike: Five things to know in Bitcoin this week](https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [More Markets lending reserve drained for $9.3M: Blockaid](https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Saylor signals Strategy is ‘Back’ to Bitcoin buying](https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strategy buys $370M Bitcoin in first corporate purchase since June](https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Finalist 4](https://www.finalist.works/?utm_source=df-aug-2026)
 - Darknet – Hacking Tools, Hacker News & Cyber Security
@@ -86,6 +89,7 @@
   - [CVE-2025-55183_POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-X-COTANG-CVE-2025-55183_POC&utm_source=rss&utm_medium=rss)
   - [CVE-2026-18366 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GHOSTPELS-CVE-2026-18366&utm_source=rss&utm_medium=rss)
   - [CVE-2026-65883 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHINTHINK-CVE-2026-65883&utm_source=rss&utm_medium=rss)
+  - [Exploit-Dev-Sandbox](https://sploitus.com/exploit?id=69A73E7B-66F0-5894-B076-0F3C71BF5912&utm_source=rss&utm_medium=rss)
   - [Hale exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PJLANTZ-HALE&utm_source=rss&utm_medium=rss)
   - [k50g-pocof4gt-cve-2026-43499-test exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CXYOFFICIAL-K50G-POCOF4GT-CVE-2026-43499-TEST&utm_source=rss&utm_medium=rss)
   - [kata-containers exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MATHAIX-OPENCLAWMACHINES&utm_source=rss&utm_medium=rss)
@@ -99,6 +103,7 @@
 - TechCrunch
   - [Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off](https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/)
   - [Liux’s Big microcar bets on sustainability to take on Chinese rivals](https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/)
+  - [Meeting notetaker Circleback adds a free tier to attract more customers](https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/)
   - [Musk’s faster path to more gas turbines comes with pollution problem](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/)
   - [TechCrunch Mobility: The hidden human cost of robotaxis](https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/)
   - [The U.S. is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)
@@ -112,6 +117,7 @@
   - [OpenClaw 2.0 brings simplified setup, a rebuilt browser app, and multiplayer sessions](https://the-decoder.com/openclaw-2-0-brings-simplified-setup-a-rebuilt-browser-app-and-multiplayer-sessions/)
 - The Verge
   - [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3)
+  - [Instagram cracks down on AI accounts pretending to be human](https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop)
   - [Professor Murder Rides the Subway is a forgotten slice of dance punk perfection](https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review)
   - [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch)
 - Vulners.com RSS Feed
