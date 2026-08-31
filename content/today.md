@@ -12,6 +12,8 @@
   - [全国最大同性论坛 怎么看待 ns](https://2libra.com/post/social-observation/2hNT52z)
   - [公司来了个吉米 😆](https://2libra.com/post/touch-fish/hklcQNk)
   - [写了一个关于 windows 更新 codex 之后某些不可用的功能的 skills](https://2libra.com/post/ai-programming/1SiksJI)
+  - [净网专项行动 | 网警公布 10 起涉吉隆泥石流网络谣言典型案例](https://2libra.com/post/social-observation/VpPfXme)
+  - [去深圳回来了 说一些感悟和经历吧。](https://2libra.com/post/travel-logs/lb4yzEr)
   - [同样分流了 gemini 和 google glow，为什么 flow 就能识别到，不让我使用？](https://2libra.com/post/ai-gateway/BIOXxtz)
   - [周末上海电信大范围故障](https://2libra.com/post/networking/J2aG4tt)
   - [大家最近没啥事不要请假](https://2libra.com/post/office-life/0jWcmeT)
@@ -28,6 +30,7 @@
 - CoinTelegraph
   - [Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest](https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cronos halts network after Tectonic exploit involving estimated $75M](https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT](https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Markets pivot to September Fed rate hike: Five things to know in Bitcoin this week](https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [More Markets lending reserve drained for $9.3M: Blockaid](https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Saylor signals Strategy is ‘Back’ to Bitcoin buying](https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -44,6 +47,9 @@
 - Hacker News Frontpage
   - ['They shot all their weapons; they trashed their ships; they ran out of money'](https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget)
   - [A 12TB Steam "teraleak" spills more than a decade of lost PC gaming history](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/)
+  - [A CVE Dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/)
+  - [Agent Memory as a File Format](https://calpaterson.com/memoryfields.html)
+  - [I Think the Military Commissary's Freezers Were Hacked](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary)
   - [Meta Security Researcher's AI Agent Accidentally Deleted Her Emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails)
   - [The ISBN was invented in 1970. Your books don't care](https://www.shelvd.org/blog/isbn-invented-1970)
   - [Why do I lose my passion and want to do nothing?](https://news.ycombinator.com/item?id=49505014)
@@ -55,6 +61,8 @@
   - [Why Standard WER Lies to You in Dialect AI](https://hackernoon.com/why-standard-wer-lies-to-you-in-dialect-ai?source=rss)
 - idiallo.com
   - [Here's a good way to present AI videos](https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube)
+- IEEE Spectrum
+  - [The First Battery Was Inspired By a Dead Frog](https://spectrum.ieee.org/voltaic-pile-first-battery)
 - jeffgeerling.com
   - [Before NTP there were Time and Daytime](https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/)
 - miguelgrinberg.com
@@ -63,10 +71,14 @@
   - [Thomas Fitzsimmons: Glove82](https://www.fitzsim.org/blog/?p=840)
 - Product Hunt
   - [Tether](https://www.producthunt.com/products/tether-a-ball-for-boring-meetings)
+- Recent Commits to cve:main
+  - [Update Mon Aug 31 12:03:38 UTC 2026](https://github.com/trickest/cve/commit/25fa75b24f581cdf2f72750fb1544224ce20466a)
 - righto.com
   - [Cores in space: The core memory module from a 1980 Spacelab computer](http://www.righto.com/2026/08/spacelab-core-memory.html)
 - rtl-sdr.com
   - [Overhead 1090: New iOS/tvOS ADS-B Mapping App for Local PiAware/dump1090 Receivers](https://www.rtl-sdr.com/overhead-1090-new-ios-tvos-ads-b-mapping-app-for-local-piaware-dump1090-receivers/)
+- shkspr.mobi
+  - [Review: Ruined Theatre's A Midsummer Night's Dream ★★★★☆](https://shkspr.mobi/blog/2026/08/review-ruined-theatres-a-midsummer-nights-dream/)
 - Sploitus.com Exploits RSS Feed
   - [Android-CVE-2026-43499 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CAKESTWIX-ANDROID-CVE-2026-43499&utm_source=rss&utm_medium=rss)
   - [coruna-en exploit](https://sploitus.com/exploit?id=FD28633B-D1C6-53D7-B990-ADAD2E315FA8&utm_source=rss&utm_medium=rss)
@@ -105,6 +117,7 @@
 - Vulners.com RSS Feed
   - [Adaz](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-CHRISTOPHETD-ADAZ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Admin-Scanner](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ALIENWHATEVER-ADMIN-SCANNER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [aiengine](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-CAMP0-AIENGINE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ALHacking](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-4LBH4CKER-ALHACKING?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [android_kernel_xiaomi_sm8150](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-LOUKIOUS-ANDROID_KERNEL_XIAOMI_SM8150?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ASIS-CTF-Quals-2026](https://vulners.com/githubexploit/92338AFD-080F-562E-94F0-0A05E2AC119F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -119,6 +132,7 @@
   - [CVE-2021-26855-Exchange-RCE](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-CATMANDX-CVE-2021-26855-EXCHANGE-RCE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2021-43224-POC](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-KALENDSI-CVE-2021-43224-POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2022-25845-In-Spring](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-PH0EBUS-CVE-2022-25845-IN-SPRING?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2023-37474](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ILQARLI27-CVE-2023-37474?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-4879](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-BIGB0X-CVE-2024-4879?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-58379](https://vulners.com/nvd/NVD:CVE-2024-58379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-32429-Checker](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-IMBAS007-CVE-2025-32429-CHECKER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -133,6 +147,7 @@
   - [CVE-2026-56715](https://vulners.com/nvd/NVD:CVE-2026-56715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56718](https://vulners.com/nvd/NVD:CVE-2026-56718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58574](https://vulners.com/nvd/NVD:CVE-2026-58574?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-66746-HTTP-Response-Splitting-via-Unvalidated-Response-Header-Values-rouille-](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-THEOPAID-CVE-2026-66746-HTTP-RESPONSE-SPLITTING-VIA-UNVALIDATED-RESPONSE-HEADER-VALUES-ROUILLE-?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68951](https://vulners.com/nvd/NVD:CVE-2026-68951?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75757](https://vulners.com/nvd/NVD:CVE-2026-75757?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77013](https://vulners.com/nvd/NVD:CVE-2026-77013?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -182,7 +197,12 @@
   - [CVE-2026-82667](https://vulners.com/nvd/NVD:CVE-2026-82667?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82668](https://vulners.com/nvd/NVD:CVE-2026-82668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82673](https://vulners.com/nvd/NVD:CVE-2026-82673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82678](https://vulners.com/nvd/NVD:CVE-2026-82678?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82679](https://vulners.com/nvd/NVD:CVE-2026-82679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82680](https://vulners.com/nvd/NVD:CVE-2026-82680?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82681](https://vulners.com/nvd/NVD:CVE-2026-82681?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82688](https://vulners.com/nvd/NVD:CVE-2026-82688?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82689 D-Link DNS-320L/DNS-327L/DNS-340L/DNS-345 ISO Image isomount_mgr.cgi os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-82689?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82722](https://vulners.com/nvd/NVD:CVE-2026-82722?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82853](https://vulners.com/nvd/NVD:CVE-2026-82853?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82854](https://vulners.com/nvd/NVD:CVE-2026-82854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -207,23 +227,37 @@
   - [CVE-2026-82873](https://vulners.com/nvd/NVD:CVE-2026-82873?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82874](https://vulners.com/nvd/NVD:CVE-2026-82874?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82875](https://vulners.com/nvd/NVD:CVE-2026-82875?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82876](https://vulners.com/nvd/NVD:CVE-2026-82876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82877](https://vulners.com/nvd/NVD:CVE-2026-82877?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82878](https://vulners.com/nvd/NVD:CVE-2026-82878?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82879](https://vulners.com/nvd/NVD:CVE-2026-82879?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82880](https://vulners.com/nvd/NVD:CVE-2026-82880?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82881](https://vulners.com/nvd/NVD:CVE-2026-82881?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [drupal-cve-2018-7600-poc](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DOWONKWON-DRUPAL-CVE-2018-7600-POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [fleet](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-FLEETDM-FLEET?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [hacker-scripts](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NARKOZ-HACKER-SCRIPTS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [HackTheBox---Writeups](https://vulners.com/githubexploit/EE28754A-FCC2-56E6-9229-1E1693D5B6FE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [HtmlSmuggling](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DE3VIL-HTMLSMUGGLING?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [iberyanbytes](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-LEVIATHANFROMDEEPSEA-IBERYANBYTES?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kerbrute](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-TARLOGICSECURITY-KERBRUTE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [KrbRelay](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-CUBE0X0-KRBRELAY?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Lazymux](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SANIX-DARKER-LAZYMUX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [loki](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-GRAFANA-LOKI?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [lxancephisher](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-LXANCE-HACKER-LXANCEPHISHER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Malleable-C2-Profiles](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-XX0HCD-MALLEABLE-C2-PROFILES?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [mass_cve-2021-41773](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DAPPANISM-MASS_CVE-2021-41773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nmap](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NMAP-NMAP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nuclei](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-PROJECTDISCOVERY-NUCLEI?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Papers](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-S0MD3V-PAPERS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [prowler](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-PROWLER-CLOUD-PROWLER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [PwnXSS](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-PWN0SEC-PWNXSS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [RAU_crypto](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-BAO7UO-RAU_CRYPTO?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [red-shadow](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-LIGHTSPIN-TECH-RED-SHADOW?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [scodescanner](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-AGRAWALSMART7-SCODESCANNER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [StreamDivert](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JELLEVER-STREAMDIVERT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [t-reqs](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-BAHRUZJABIYEV-T-REQS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [tangalanga](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ELCUERVO-TANGALANGA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ultralytics](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ULTRALYTICS-ULTRALYTICS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [w3af](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ANDRESRIANCHO-W3AF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [XLMMacroDeobfuscator](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DISSECTMALWARE-XLMMACRODEOBFUSCATOR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
@@ -232,6 +266,7 @@
 - xania.org
   - [Recreating a 2010 Experiment](http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&utm_medium=rss)
 - 不安全
+  - [(DEFCON) How much of our Bluetooth firmware reverse engineering work can now be automated with LLMs?](https://buaq.net/go-438886.html)
   - [A社警告近期出现的大规模Claude盗号问题 已强制登出异常账号和解绑银行卡](https://buaq.net/go-438819.html)
   - [krane v0.1.6](https://buaq.net/go-438759.html)
   - [NoiseHound v1.2.0](https://buaq.net/go-438842.html)
@@ -253,6 +288,7 @@
 - 量子位 QbitAI
   - [全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队](https://www.qbitai.com/2026/08/481750.html)
 - 黑海洋
+  - [OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件](https://blog.upx8.com/OpenAI%E5%92%8CAnthropic%E4%B9%9F%E5%8A%A0%E5%85%A5%E5%93%84%E6%8A%A2-%E8%8B%B9%E6%9E%9CMac-mini%E6%88%90%E4%B8%BAAI%E8%A1%8C%E4%B8%9A%E6%9C%80%E5%96%9C%E6%AC%A2%E7%A1%AC%E4%BB%B6)
   - [Steam泄露12TB数据 半条命2第三章在列](https://blog.upx8.com/Steam%E6%B3%84%E9%9C%B212TB%E6%95%B0%E6%8D%AE-%E5%8D%8A%E6%9D%A1%E5%91%BD2%E7%AC%AC%E4%B8%89%E7%AB%A0%E5%9C%A8%E5%88%97)
   - [中芯国际4~6月净利润同比增至3.6倍](https://blog.upx8.com/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%854-6%E6%9C%88%E5%87%80%E5%88%A9%E6%B6%A6%E5%90%8C%E6%AF%94%E5%A2%9E%E8%87%B33-6%E5%80%8D)
   - [谷歌地图将安大略湖标记为美国湖](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%9C%B0%E5%9B%BE%E5%B0%86%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E6%A0%87%E8%AE%B0%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%B9%96)
