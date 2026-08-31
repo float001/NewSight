@@ -3,6 +3,9 @@
 - CoinTelegraph
   - [Bitcoin begins volatile monthly close as US bond yields eye new 20-year high](https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wallet in Telegram rebrands to Walt as Gram wallet debuts](https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Webull expands crypto trading into Canada through Coinbase collaboration](https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- darkreading
+  - [AI Model Rules Are Not Security Controls](https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control)
 - Fidelis Security
   - [How Integrated Malware Sandboxing Makes EDR Investigations Faster](https://fidelissecurity.com/threatgeek/endpoint-security/malware-sandboxing-for-faster-edr-investigations/)
 - Hacker News Frontpage
@@ -10,13 +13,33 @@
   - [I Turned My Security Cameras into an Automatic Bird Identification System](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
   - [Mental Health Workers Say Algorithmic Triage Is Hurting Patients](https://capitalandmain.com/mental-health-workers-say-algorithmic-triage-is-hurting-patients)
   - [ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source](https://ravynos.com/)
+- IEEE Spectrum
+  - [This Teen Helped Native American Students Earn Ham Radio Licenses](https://spectrum.ieee.org/ham-radio-2677797793)
 - TechCrunch
   - [Clipto uses AI to search terabytes of video and is now valued at $250M](https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/)
+  - [Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt](https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/)
   - [Tim Cook’s parting message: Apple is in the hands of a product builder](https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/)
   - [VLC crosses 7 billion downloads](https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/)
+- The Decoder
+  - [Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis](https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/)
+  - [Instagram admits users often can't tell AI profiles from real people](https://the-decoder.com/instagram-admits-users-often-cant-tell-ai-profiles-from-real-people/)
 - The Verge
+  - [Car owners want tech they can ignore](https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition)
   - [Markiplier is now GoPro’s biggest shareholder](https://www.theverge.com/tech/986847/markiplier-gopro-investor)
   - [Phil Schiller is leaving his biggest jobs at Apple](https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down)
   - [Read Tim Cook&#8217;s final message to Apple staff as CEO](https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff)
+- Vulners.com RSS Feed
+  - [CVE-2026-14366](https://vulners.com/nvd/NVD:CVE-2026-14366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17615](https://vulners.com/nvd/NVD:CVE-2026-17615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-51720](https://vulners.com/nvd/NVD:CVE-2026-51720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-51721](https://vulners.com/nvd/NVD:CVE-2026-51721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-51722](https://vulners.com/nvd/NVD:CVE-2026-51722?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-51723](https://vulners.com/nvd/NVD:CVE-2026-51723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-51724](https://vulners.com/nvd/NVD:CVE-2026-51724?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82808](https://vulners.com/nvd/NVD:CVE-2026-82808?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82809](https://vulners.com/nvd/NVD:CVE-2026-82809?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82810](https://vulners.com/nvd/NVD:CVE-2026-82810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Tempo Promo Codes: Get up to 60% Off Healthy Meals](https://www.wired.com/story/tempo-meals-promo-code/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
