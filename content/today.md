@@ -16,9 +16,11 @@
   - [好像和所有人隔了一层](https://2libra.com/post/family/RT_nMNr)
   - [工作倦怠之不想上班碎碎念](https://2libra.com/post/workplace-stories/syA_yHM)
   - [希望签到检定掷骰子能够再快一些](https://2libra.com/post/community/TEdXNi2)
+  - [想订阅下 Spotify，QQ 音乐一个月 30 太贵了](https://2libra.com/post/recommendations/E9KCfJW)
   - [才意识到，本周一是失去平衡值奖励的第一天，怀念](https://2libra.com/post/community/KQJCzni)
   - [明天就是 9 月 1 号了，你们那里已经开学了吗？](https://2libra.com/post/parent-child/6-gbjoV)
   - [看看哪个模型绘画最好看，代码生图](https://2libra.com/post/large-models/ojkadJ1)
+  - [转发一篇小红书的文章：愚公还贷](https://2libra.com/post/social-observation/TB3ad_7)
   - [问个问题老哥们，chatgpt 需要美国手机号，有好用的接码平台么？](https://2libra.com/post/recommendations/ukTyxQ6)
 - CoinTelegraph
   - [Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest](https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -26,6 +28,8 @@
   - [Saylor signals Strategy is ‘Back’ to Bitcoin buying](https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Finalist 4](https://www.finalist.works/?utm_source=df-aug-2026)
+- Darknet – Hacking Tools, Hacker News & Cyber Security
+  - [Praetorian – Offensive Security Tools Built Around Portable Go Workflows](https://www.darknet.org.uk/2026/08/praetorian-offensive-security-go-tools/)
 - Data Breach
   - [Extortion Group FulcrumSec Claims 86GB Manchester Airports Group Data Theft](https://securityaffairs.com/198143/cyber-crime/extortion-group-fulcrumsec-claims-86gb-manchester-airports-group-data-theft.html)
 - Emergent Minds | paddo.dev
@@ -33,11 +37,14 @@
 - Hacker News Frontpage
   - ['They shot all their weapons; they trashed their ships; they ran out of money'](https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget)
   - [A 12TB Steam "teraleak" spills more than a decade of lost PC gaming history](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/)
+  - [Meta Security Researcher's AI Agent Accidentally Deleted Her Emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails)
   - [Why do I lose my passion and want to do nothing?](https://news.ycombinator.com/item?id=49505014)
 - HackerNoon
   - [How to Match Cold Outreach CTAs to Buyer Readiness](https://hackernoon.com/how-to-match-cold-outreach-ctas-to-buyer-readiness?source=rss)
   - [Why Mouse Jigglers Defeat Activity-Based Time Tracking](https://hackernoon.com/why-mouse-jigglers-defeat-activity-based-time-tracking?source=rss)
   - [Why Standard WER Lies to You in Dialect AI](https://hackernoon.com/why-standard-wer-lies-to-you-in-dialect-ai?source=rss)
+- idiallo.com
+  - [Here's a good way to present AI videos](https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube)
 - jeffgeerling.com
   - [Before NTP there were Time and Daytime](https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/)
 - miguelgrinberg.com
@@ -89,10 +96,17 @@
   - [CVE-2021-43224-POC](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-KALENDSI-CVE-2021-43224-POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2022-25845-In-Spring](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-PH0EBUS-CVE-2022-25845-IN-SPRING?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SXYRXYY-CVE-2025-8088-WINRAR-PROOF-OF-CONCEPT-POC-EXPLOIT-?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40463](https://vulners.com/nvd/NVD:CVE-2026-40463?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40464](https://vulners.com/nvd/NVD:CVE-2026-40464?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40465](https://vulners.com/nvd/NVD:CVE-2026-40465?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53620](https://vulners.com/nvd/NVD:CVE-2026-53620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56713](https://vulners.com/nvd/NVD:CVE-2026-56713?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56715](https://vulners.com/nvd/NVD:CVE-2026-56715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56718](https://vulners.com/nvd/NVD:CVE-2026-56718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58574](https://vulners.com/nvd/NVD:CVE-2026-58574?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68951](https://vulners.com/nvd/NVD:CVE-2026-68951?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75757](https://vulners.com/nvd/NVD:CVE-2026-75757?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77013](https://vulners.com/nvd/NVD:CVE-2026-77013?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77850](https://vulners.com/nvd/NVD:CVE-2026-77850?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77956](https://vulners.com/nvd/NVD:CVE-2026-77956?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-78693](https://vulners.com/nvd/NVD:CVE-2026-78693?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -123,6 +137,11 @@
   - [CVE-2026-82615](https://vulners.com/nvd/NVD:CVE-2026-82615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82616](https://vulners.com/nvd/NVD:CVE-2026-82616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82618](https://vulners.com/nvd/NVD:CVE-2026-82618?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82622](https://vulners.com/nvd/NVD:CVE-2026-82622?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82623](https://vulners.com/nvd/NVD:CVE-2026-82623?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82624](https://vulners.com/nvd/NVD:CVE-2026-82624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82625](https://vulners.com/nvd/NVD:CVE-2026-82625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82628](https://vulners.com/nvd/NVD:CVE-2026-82628?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82673](https://vulners.com/nvd/NVD:CVE-2026-82673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82681](https://vulners.com/nvd/NVD:CVE-2026-82681?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82722](https://vulners.com/nvd/NVD:CVE-2026-82722?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -150,6 +169,7 @@
 - 不安全
   - [krane v0.1.6](https://buaq.net/go-438759.html)
   - [Thomas Fitzsimmons: Glove82](https://buaq.net/go-438758.html)
+  - [wifit3 v0.0.5](https://buaq.net/go-438815.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
