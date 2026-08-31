@@ -18,6 +18,7 @@
   - [同样分流了 gemini 和 google glow，为什么 flow 就能识别到，不让我使用？](https://2libra.com/post/ai-gateway/BIOXxtz)
   - [周末上海电信大范围故障](https://2libra.com/post/networking/J2aG4tt)
   - [域名卖不出去，然后做了一个小网站](https://2libra.com/post/promotion/g4YYclO)
+  - [大家对孩子跟着媳妇姓怎么看 ?你会让孩子跟着媳妇姓吗 ？](https://2libra.com/post/family/6lZzwID)
   - [大家最近没啥事不要请假](https://2libra.com/post/office-life/0jWcmeT)
   - [好像和所有人隔了一层](https://2libra.com/post/family/RT_nMNr)
   - [工作倦怠之不想上班碎碎念](https://2libra.com/post/workplace-stories/syA_yHM)
@@ -40,6 +41,7 @@
   - [More Markets lending reserve drained for $9.3M: Blockaid](https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mutiny? Metaplanet moves 4,800 BTC worth $377M to Coinbase](https://cointelegraph.com/news/mutiny-metaplanet-moves-4800-btc-worth-377m-to-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mystery surrounds why an OG burned $1M in Bitcoin](https://cointelegraph.com/magazine/mystery-surrounds-why-an-og-burned-1m-in-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report](https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Saylor signals Strategy is ‘Back’ to Bitcoin buying](https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy buys $370M Bitcoin in first corporate purchase since June](https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -59,6 +61,7 @@
   - [Agent Memory as a File Format](https://calpaterson.com/memoryfields.html)
   - [I Think the Military Commissary's Freezers Were Hacked](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary)
   - [Meta Security Researcher's AI Agent Accidentally Deleted Her Emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails)
+  - [My Experience Has Nuance, Yours Is a Data Point](https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/)
   - [The ISBN was invented in 1970. Your books don't care](https://www.shelvd.org/blog/isbn-invented-1970)
   - [Why do I lose my passion and want to do nothing?](https://news.ycombinator.com/item?id=49505014)
 - HackerNoon
@@ -110,6 +113,7 @@
 - TechCrunch
   - [Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off](https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/)
   - [Liux’s Big microcar bets on sustainability to take on Chinese rivals](https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/)
+  - [MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario](https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/)
   - [Meeting notetaker Circleback adds a free tier to attract more customers](https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/)
   - [Musk’s faster path to more gas turbines comes with pollution problem](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/)
   - [TechCrunch Mobility: The hidden human cost of robotaxis](https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/)
@@ -118,16 +122,21 @@
   - [Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs](https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066)
   - [Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million](https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069)
   - [Kalshi becomes exclusive prediction market partner of US Open: report](https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074)
+  - [NYSE parent ICE partners with tZERO on infrastructure for tokenized securities](https://www.theblock.co/news/markets/2026-08-31-nyse-parent-ice-partners-with-tzero-infrastructure-tokenized-securities-413111)
   - [Russia’s largest bank forecasts $46 billion in first-year crypto exchange trading under new rules: report](https://www.theblock.co/news/business/2026-08-31-russias-largest-bank-forecasts-46-billion-in-first-year-crypto-exchange-trading-under-new-rules-report-413082)
+  - [Tom Lee says ether is ‘best performing macro asset’ as Bitmine adds 53,501 ETH](https://www.theblock.co/news/business/2026-08-31-tom-lee-says-ether-best-performing-macro-asset-bitmine-adds-53501-eth-413105)
   - [‘We’re back’: Strategy buys another 4,603 bitcoin for $369.7 million as holdings hit 845,050 BTC](https://www.theblock.co/news/business/2026-08-31-were-back-strategy-buys-another-4603-btc-369-7-million-holdings-hit-845050-btc-413087)
 - The Decoder
+  - [ChatGPT now faces stricter EU oversight as a very large search engine](https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/)
   - [OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents](https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/)
+  - [OpenAI starts charging some customers only when its AI actually works](https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works/)
   - [OpenClaw 2.0 brings simplified setup, a rebuilt browser app, and multiplayer sessions](https://the-decoder.com/openclaw-2-0-brings-simplified-setup-a-rebuilt-browser-app-and-multiplayer-sessions/)
 - The Verge
   - [ChatGPT to face tougher regulation in the EU](https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa)
   - [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3)
   - [Instagram cracks down on AI accounts pretending to be human](https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop)
   - [New York Governor Kathy Hochul thinks AI should be ‘less evil’](https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras)
+  - [New York governor to 3D printed gun leader: &#8216;tell Cody I will get ahead of him&#8217;](https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response)
   - [Professor Murder Rides the Subway is a forgotten slice of dance punk perfection](https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review)
   - [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch)
 - Vulners.com RSS Feed
@@ -301,6 +310,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Steam 平台 2003-2013 年的几乎所有游戏泄露](https://www.solidot.org/story?sid=85243)
   - [人类何时开始不爱吃昆虫？](https://www.solidot.org/story?sid=85240)
   - [植物如何应对高温](https://www.solidot.org/story?sid=85241)
 - 安全客
