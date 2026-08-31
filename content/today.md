@@ -20,11 +20,13 @@
   - [才意识到，本周一是失去平衡值奖励的第一天，怀念](https://2libra.com/post/community/KQJCzni)
   - [明天就是 9 月 1 号了，你们那里已经开学了吗？](https://2libra.com/post/parent-child/6-gbjoV)
   - [看看哪个模型绘画最好看，代码生图](https://2libra.com/post/large-models/ojkadJ1)
+  - [请求增加删除帖子的功能](https://2libra.com/post/forum-function/68AUSLD)
   - [转发一篇小红书的文章：愚公还贷](https://2libra.com/post/social-observation/TB3ad_7)
   - [问个问题老哥们，chatgpt 需要美国手机号，有好用的接码平台么？](https://2libra.com/post/recommendations/ukTyxQ6)
 - CoinTelegraph
   - [Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest](https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cronos halts network after Tectonic exploit involving estimated $75M](https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [More Markets lending reserve drained for $9.3M: Blockaid](https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Saylor signals Strategy is ‘Back’ to Bitcoin buying](https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Finalist 4](https://www.finalist.works/?utm_source=df-aug-2026)
@@ -62,11 +64,17 @@
   - [coruna-en exploit](https://sploitus.com/exploit?id=FD28633B-D1C6-53D7-B990-ADAD2E315FA8&utm_source=rss&utm_medium=rss)
   - [CVE-2023-0179-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TURTLEARM-CVE-2023-0179-POC&utm_source=rss&utm_medium=rss)
   - [CVE-2025-55183_POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-X-COTANG-CVE-2025-55183_POC&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-18366 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GHOSTPELS-CVE-2026-18366&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-65883 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHINTHINK-CVE-2026-65883&utm_source=rss&utm_medium=rss)
   - [Hale exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PJLANTZ-HALE&utm_source=rss&utm_medium=rss)
+  - [k50g-pocof4gt-cve-2026-43499-test exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CXYOFFICIAL-K50G-POCOF4GT-CVE-2026-43499-TEST&utm_source=rss&utm_medium=rss)
+  - [kata-containers exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MATHAIX-OPENCLAWMACHINES&utm_source=rss&utm_medium=rss)
+  - [kyverno exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KYVERNO-KYVERNO&utm_source=rss&utm_medium=rss)
   - [rapid7-CVE-2026-15409 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-REMMONS-R7-RAPID7-CVE-2026-15409&utm_source=rss&utm_medium=rss)
   - [SdoKeyCrypt-sys-local-privilege-elevation exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HYPERSINE-SDOKEYCRYPT-SYS-LOCAL-PRIVILEGE-ELEVATION&utm_source=rss&utm_medium=rss)
   - [suricata exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OISF-SURICATA&utm_source=rss&utm_medium=rss)
   - [SystemVulnerabilityChecklist_Project4_Decodelabs exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IRSAATTIQUECYBER-SYSTEMVULNERABILITYCHECKLIST_PROJECT4_DECODELABS&utm_source=rss&utm_medium=rss)
+  - [ultralytics exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ULTRALYTICS-ULTRALYTICS&utm_source=rss&utm_medium=rss)
   - [w3af exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ANDRESRIANCHO-W3AF&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off](https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/)
@@ -78,6 +86,9 @@
   - [Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs](https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066)
   - [Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million](https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069)
   - [Kalshi becomes exclusive prediction market partner of US Open: report](https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074)
+  - [Russia’s largest bank forecasts $46 billion in first-year crypto exchange trading under new rules: report](https://www.theblock.co/news/business/2026-08-31-russias-largest-bank-forecasts-46-billion-in-first-year-crypto-exchange-trading-under-new-rules-report-413082)
+- The Decoder
+  - [OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents](https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/)
 - The Verge
   - [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3)
   - [Professor Murder Rides the Subway is a forgotten slice of dance punk perfection](https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review)
@@ -167,15 +178,20 @@
 - xania.org
   - [Recreating a 2010 Experiment](http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&utm_medium=rss)
 - 不安全
+  - [A社警告近期出现的大规模Claude盗号问题 已强制登出异常账号和解绑银行卡](https://buaq.net/go-438819.html)
   - [krane v0.1.6](https://buaq.net/go-438759.html)
   - [Thomas Fitzsimmons: Glove82](https://buaq.net/go-438758.html)
   - [wifit3 v0.0.5](https://buaq.net/go-438815.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [人类何时开始不爱吃昆虫？](https://www.solidot.org/story?sid=85240)
 - 安全客
   - [OpenAI自曝家丑：1200个AI智能体"组团造反"，自主挖零日攻破Hugging Face](https://www.anquanke.com/post/id/316042)
   - [满分预警：ServiceNow连爆3个CVSS 10.0漏洞，无需登录即可接管整个平台](https://www.anquanke.com/post/id/316039)
   - [用IP情报构建反自动采集防线：转发行为识别与风险画像实战](https://www.anquanke.com/post/id/316035)
+- 爱范儿
+  - [制糖工厂定制送礼｜拒绝千篇一律，让你的心意真正被记住](https://www.ifanr.com/1677398?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队](https://www.qbitai.com/2026/08/481750.html)
 - 黑海洋
