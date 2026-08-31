@@ -41,6 +41,8 @@
   - [Thomas Fitzsimmons: Glove82](https://www.fitzsim.org/blog/?p=840)
 - righto.com
   - [Cores in space: The core memory module from a 1980 Spacelab computer](http://www.righto.com/2026/08/spacelab-core-memory.html)
+- rtl-sdr.com
+  - [Overhead 1090: New iOS/tvOS ADS-B Mapping App for Local PiAware/dump1090 Receivers](https://www.rtl-sdr.com/overhead-1090-new-ios-tvos-ads-b-mapping-app-for-local-piaware-dump1090-receivers/)
 - Sploitus.com Exploits RSS Feed
   - [Android-CVE-2026-43499 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CAKESTWIX-ANDROID-CVE-2026-43499&utm_source=rss&utm_medium=rss)
   - [coruna-en exploit](https://sploitus.com/exploit?id=FD28633B-D1C6-53D7-B990-ADAD2E315FA8&utm_source=rss&utm_medium=rss)
@@ -110,6 +112,10 @@
   - [CVE-2026-82605](https://vulners.com/nvd/NVD:CVE-2026-82605?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82607](https://vulners.com/nvd/NVD:CVE-2026-82607?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82608](https://vulners.com/nvd/NVD:CVE-2026-82608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82614](https://vulners.com/nvd/NVD:CVE-2026-82614?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82615](https://vulners.com/nvd/NVD:CVE-2026-82615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82616](https://vulners.com/nvd/NVD:CVE-2026-82616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82618](https://vulners.com/nvd/NVD:CVE-2026-82618?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82673](https://vulners.com/nvd/NVD:CVE-2026-82673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82681](https://vulners.com/nvd/NVD:CVE-2026-82681?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82722](https://vulners.com/nvd/NVD:CVE-2026-82722?utm_source=rss&utm_medium=rss&utm_campaign=rss)
