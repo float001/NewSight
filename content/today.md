@@ -5,8 +5,13 @@
   - [8 月 31 日资本市场大事提醒](https://2libra.com/post/stock-market/ppaMB4J)
   - [【读书笔记】活着的意义：人要「创造价值」，否则就是《变形记》里的虫子](https://2libra.com/post/good-books/SaQPShl)
   - [【💰】暴露拉满，今日话题 【胆子大+有年假+中秋+国庆=？】](https://2libra.com/post/festival-things/nxsWHWl)
+  - [同样分流了 gemini 和 google glow，为什么 flow 就能识别到，不让我使用？](https://2libra.com/post/ai-gateway/BIOXxtz)
   - [周末上海电信大范围故障](https://2libra.com/post/networking/J2aG4tt)
   - [好像和所有人隔了一层](https://2libra.com/post/family/RT_nMNr)
+  - [工作倦怠之不想上班碎碎念](https://2libra.com/post/workplace-stories/syA_yHM)
+  - [希望签到检定掷骰子能够再快一些](https://2libra.com/post/community/TEdXNi2)
+  - [才意识到，本周一是失去平衡值奖励的第一天，怀念](https://2libra.com/post/community/KQJCzni)
+  - [问个问题老哥们，chatgpt 需要美国手机号，有好用的接码平台么？](https://2libra.com/post/recommendations/ukTyxQ6)
 - CoinTelegraph
   - [Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest](https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Saylor signals Strategy is ‘Back’ to Bitcoin buying](https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -18,6 +23,7 @@
   - [The Terms of Service Became a Sanction: OpenAI Cuts Cursor Off After the SpaceX Deal](https://paddo.dev/blog/the-terms-of-service-became-a-sanction/)
 - Hacker News Frontpage
   - ['They shot all their weapons; they trashed their ships; they ran out of money'](https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget)
+  - [Why do I lose my passion and want to do nothing?](https://news.ycombinator.com/item?id=49505014)
 - HackerNoon
   - [How to Match Cold Outreach CTAs to Buyer Readiness](https://hackernoon.com/how-to-match-cold-outreach-ctas-to-buyer-readiness?source=rss)
   - [Why Mouse Jigglers Defeat Activity-Based Time Tracking](https://hackernoon.com/why-mouse-jigglers-defeat-activity-based-time-tracking?source=rss)
@@ -41,9 +47,11 @@
   - [SystemVulnerabilityChecklist_Project4_Decodelabs exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IRSAATTIQUECYBER-SYSTEMVULNERABILITYCHECKLIST_PROJECT4_DECODELABS&utm_source=rss&utm_medium=rss)
   - [w3af exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ANDRESRIANCHO-W3AF&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off](https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/)
   - [Liux’s Big microcar bets on sustainability to take on Chinese rivals](https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/)
   - [Musk’s faster path to more gas turbines comes with pollution problem](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/)
   - [TechCrunch Mobility: The hidden human cost of robotaxis](https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/)
+  - [The U.S. is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)
 - The Block
   - [Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs](https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066)
   - [Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million](https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069)
