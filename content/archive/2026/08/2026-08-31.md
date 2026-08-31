@@ -43,6 +43,7 @@
   - [Cores in space: The core memory module from a 1980 Spacelab computer](http://www.righto.com/2026/08/spacelab-core-memory.html)
 - Sploitus.com Exploits RSS Feed
   - [Android-CVE-2026-43499 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CAKESTWIX-ANDROID-CVE-2026-43499&utm_source=rss&utm_medium=rss)
+  - [coruna-en exploit](https://sploitus.com/exploit?id=FD28633B-D1C6-53D7-B990-ADAD2E315FA8&utm_source=rss&utm_medium=rss)
   - [CVE-2023-0179-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TURTLEARM-CVE-2023-0179-POC&utm_source=rss&utm_medium=rss)
   - [CVE-2025-55183_POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-X-COTANG-CVE-2025-55183_POC&utm_source=rss&utm_medium=rss)
   - [Hale exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PJLANTZ-HALE&utm_source=rss&utm_medium=rss)
