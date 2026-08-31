@@ -28,6 +28,7 @@
 - CoinTelegraph
   - [Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest](https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cronos halts network after Tectonic exploit involving estimated $75M](https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Markets pivot to September Fed rate hike: Five things to know in Bitcoin this week](https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [More Markets lending reserve drained for $9.3M: Blockaid](https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Saylor signals Strategy is ‘Back’ to Bitcoin buying](https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -38,10 +39,13 @@
   - [Extortion Group FulcrumSec Claims 86GB Manchester Airports Group Data Theft](https://securityaffairs.com/198143/cyber-crime/extortion-group-fulcrumsec-claims-86gb-manchester-airports-group-data-theft.html)
 - Emergent Minds | paddo.dev
   - [The Terms of Service Became a Sanction: OpenAI Cuts Cursor Off After the SpaceX Deal](https://paddo.dev/blog/the-terms-of-service-became-a-sanction/)
+- GuidePoint Security
+  - [Navigating the New Frontier: Identity Security and the Governance of AI Agents](https://www.guidepointsecurity.com/blog/identity-security-governance-ai-agents/)
 - Hacker News Frontpage
   - ['They shot all their weapons; they trashed their ships; they ran out of money'](https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget)
   - [A 12TB Steam "teraleak" spills more than a decade of lost PC gaming history](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/)
   - [Meta Security Researcher's AI Agent Accidentally Deleted Her Emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails)
+  - [The ISBN was invented in 1970. Your books don't care](https://www.shelvd.org/blog/isbn-invented-1970)
   - [Why do I lose my passion and want to do nothing?](https://news.ycombinator.com/item?id=49505014)
 - HackerNoon
   - [How to Match Cold Outreach CTAs to Buyer Readiness](https://hackernoon.com/how-to-match-cold-outreach-ctas-to-buyer-readiness?source=rss)
@@ -93,6 +97,7 @@
   - [Russia’s largest bank forecasts $46 billion in first-year crypto exchange trading under new rules: report](https://www.theblock.co/news/business/2026-08-31-russias-largest-bank-forecasts-46-billion-in-first-year-crypto-exchange-trading-under-new-rules-report-413082)
 - The Decoder
   - [OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents](https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/)
+  - [OpenClaw 2.0 brings simplified setup, a rebuilt browser app, and multiplayer sessions](https://the-decoder.com/openclaw-2-0-brings-simplified-setup-a-rebuilt-browser-app-and-multiplayer-sessions/)
 - The Verge
   - [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3)
   - [Professor Murder Rides the Subway is a forgotten slice of dance punk perfection](https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review)
@@ -223,6 +228,7 @@
   - [XLMMacroDeobfuscator](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DISSECTMALWARE-XLMMACRODEOBFUSCATOR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario](https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/)
+  - [You Know Who Really Hates AI? Insurance Claims Adjusters](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/)
 - xania.org
   - [Recreating a 2010 Experiment](http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&utm_medium=rss)
 - 不安全
@@ -242,6 +248,7 @@
   - [用IP情报构建反自动采集防线：转发行为识别与风险画像实战](https://www.anquanke.com/post/id/316035)
 - 爱范儿
   - [500 万人围观，AI 终于造出了「无限泔水机」](https://www.ifanr.com/1677378?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [一台 SUV，需要装下年轻人还没发生的生活](https://www.ifanr.com/1677553?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [制糖工厂定制送礼｜拒绝千篇一律，让你的心意真正被记住](https://www.ifanr.com/1677398?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队](https://www.qbitai.com/2026/08/481750.html)
