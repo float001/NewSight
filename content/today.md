@@ -2,8 +2,11 @@
 
 - 2Libra
   - [40+的年龄了，要补充点营养品吗？有推荐的吗？](https://2libra.com/post/midlife-support-club/hkjakOM)
+  - [8 月 31 日资本市场大事提醒](https://2libra.com/post/stock-market/ppaMB4J)
+  - [【读书笔记】活着的意义：人要「创造价值」，否则就是《变形记》里的虫子](https://2libra.com/post/good-books/SaQPShl)
   - [【💰】暴露拉满，今日话题 【胆子大+有年假+中秋+国庆=？】](https://2libra.com/post/festival-things/nxsWHWl)
   - [周末上海电信大范围故障](https://2libra.com/post/networking/J2aG4tt)
+  - [好像和所有人隔了一层](https://2libra.com/post/family/RT_nMNr)
 - CoinTelegraph
   - [Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest](https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Saylor signals Strategy is ‘Back’ to Bitcoin buying](https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -66,8 +69,10 @@
   - [CVE-2026-56713](https://vulners.com/nvd/NVD:CVE-2026-56713?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56715](https://vulners.com/nvd/NVD:CVE-2026-56715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56718](https://vulners.com/nvd/NVD:CVE-2026-56718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77956](https://vulners.com/nvd/NVD:CVE-2026-77956?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-78693](https://vulners.com/nvd/NVD:CVE-2026-78693?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-80223](https://vulners.com/nvd/NVD:CVE-2026-80223?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81315](https://vulners.com/nvd/NVD:CVE-2026-81315?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81633](https://vulners.com/nvd/NVD:CVE-2026-81633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81636](https://vulners.com/nvd/NVD:CVE-2026-81636?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81643](https://vulners.com/nvd/NVD:CVE-2026-81643?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -81,6 +86,9 @@
   - [CVE-2026-82590](https://vulners.com/nvd/NVD:CVE-2026-82590?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82591](https://vulners.com/nvd/NVD:CVE-2026-82591?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82592](https://vulners.com/nvd/NVD:CVE-2026-82592?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82597](https://vulners.com/nvd/NVD:CVE-2026-82597?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82598](https://vulners.com/nvd/NVD:CVE-2026-82598?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82599](https://vulners.com/nvd/NVD:CVE-2026-82599?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [hacker-scripts](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NARKOZ-HACKER-SCRIPTS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [HtmlSmuggling](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DE3VIL-HTMLSMUGGLING?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [KrbRelay](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-CUBE0X0-KRBRELAY?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -113,4 +121,5 @@
   - [用IP情报构建反自动采集防线：转发行为识别与风险画像实战](https://www.anquanke.com/post/id/316035)
 - 黑海洋
   - [Steam泄露12TB数据 半条命2第三章在列](https://blog.upx8.com/Steam%E6%B3%84%E9%9C%B212TB%E6%95%B0%E6%8D%AE-%E5%8D%8A%E6%9D%A1%E5%91%BD2%E7%AC%AC%E4%B8%89%E7%AB%A0%E5%9C%A8%E5%88%97)
+  - [中芯国际4~6月净利润同比增至3.6倍](https://blog.upx8.com/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%854-6%E6%9C%88%E5%87%80%E5%88%A9%E6%B6%A6%E5%90%8C%E6%AF%94%E5%A2%9E%E8%87%B33-6%E5%80%8D)
   - [谷歌地图将安大略湖标记为美国湖](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%9C%B0%E5%9B%BE%E5%B0%86%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E6%A0%87%E8%AE%B0%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%B9%96)
