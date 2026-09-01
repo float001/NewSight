@@ -28,6 +28,7 @@
   - [BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks](https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ireland excludes crypto from new tax-advantaged investment accounts](https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT](https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Singapore weighs recognizing some foreign-issued stablecoins](https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Thailand SEC proposes retail access to regulated overseas crypto derivatives](https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report](https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -39,12 +40,15 @@
   - ['TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks](https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks)
   - [AI Model Rules Are Not Security Controls](https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control)
   - [Anthropic Users Hit by Infostealer Attacks, Session Thefts](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts)
+- dfarq.homeip.net
+  - [Commodore 64 released September 1, 1982](https://dfarq.homeip.net/commodore-64-released-september-1-1982/?utm_source=rss&utm_medium=rss&utm_campaign=commodore-64-released-september-1-1982)
 - Didier Stevens
   - [Overview of Content Published in August](https://blog.didierstevens.com/2026/09/01/overview-of-content-published-in-august-11/)
 - Fidelis Security
   - [How Integrated Malware Sandboxing Makes EDR Investigations Faster](https://fidelissecurity.com/threatgeek/endpoint-security/malware-sandboxing-for-faster-edr-investigations/)
 - Hacker News Frontpage
   - [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
+  - [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
   - [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
   - [Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur](https://www.bbc.com/news/articles/c24j5192j7jo)
   - [German Konrad Zuse Museum shutting down due to lack of funding](https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyerswerda-kamenz/computer-museum-schliesst-,konrad-zuse-kultur-news-100.html)
@@ -74,6 +78,8 @@
 - rtl-sdr.com
   - [An HTML Browser Page that Uses Display Pixel Clock EMI Leakage to Transmit VHF Morse Code](https://www.rtl-sdr.com/an-html-browser-page-that-uses-display-pixel-clock-emi-leakage-to-transmit-vhf-morse-code/)
   - [SDR++ IAK: A Modified Version of SDR++ Available on the Google Play Store](https://www.rtl-sdr.com/sdr-iak-a-modified-version-of-sdr-available-on-the-google-play-store/)
+- Taxodium
+  - [TIL:Punycode - 域名中的 Unicode](https://taxodium.ink/til-punycode.html)
 - TechCrunch
   - [A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms](https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/)
   - [a16z brings growth fund to $8.5B days after launching new $1.1B fund](https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/)
@@ -97,6 +103,7 @@
   - [VLC crosses 7 billion downloads](https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/)
 - The Block
   - [Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc](https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195)
+  - [Binance adds options on 1,000 US stocks and ETFs as monthly TradFi perpetual volume hits $433 billion](https://www.theblock.co/news/business/2026-09-01-binance-adds-options-1000-us-stocks-etfs-monthly-tradfi-perpetual-volume-surge-413213)
   - [DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL](https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190)
   - [Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg](https://www.theblock.co/news/markets/2026-08-31-hyperliquid-eyes-us-entry-kraken-parent-payward-perpetual-futures-deal-bloomberg-413129)
   - [Kraken parent Payward to tokenize 100 London-listed stocks, with LSE 24 trading planned](https://www.theblock.co/news/business/2026-09-01-kraken-parent-payward-to-tokenize-100-london-listed-stocks-with-lse-24-trading-planned-413208)
@@ -228,6 +235,7 @@
   - [Zydra](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-HAMEDA2-ZYDRA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [20% Off Samsung Promo Code | September 2026](https://www.wired.com/story/samsung-promo-codes/)
+  - [3 Best Sleep Tracker Picks for Optimizing Your Sleep (2026)](https://www.wired.com/story/best-sleep-trackers/)
   - [50% Off Blue Apron Promo Codes | September 2026](https://www.wired.com/story/blue-apron-coupon/)
   - [Asus ProArt 27 QD-OLED (PA279cdv) Review: HDR for All](https://www.wired.com/review/asus-proart-pa279cdv/)
   - [AT&T Promo Codes: $50 Off This September 2026](https://www.wired.com/story/att-promo-code/)
@@ -242,24 +250,31 @@
   - [chipsec v2.0.8](https://buaq.net/go-439095.html)
   - [cloudflared v2026.8.3](https://buaq.net/go-439089.html)
   - [frigate v0.18.0-rc1](https://buaq.net/go-439076.html)
+  - [Infostealers are hijacking Claude accounts at users’ expense](https://buaq.net/go-439152.html)
   - [nDPI v6.0](https://buaq.net/go-439096.html)
   - [SDR++ IAK: A Modified Version of SDR++ Available on the Google Play Store](https://buaq.net/go-439093.html)
+  - [testkube v2.13.1](https://buaq.net/go-439157.html)
   - [The Swiss Army Knife](https://buaq.net/go-439071.html)
   - [独立研究机构公布OpenAI智能体自主攻击HF事件的调查报告 情况比OpenAI所说的更严重](https://buaq.net/go-439060.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [Aiker World社区 AI 联创基地落地海南东方：从赛场到产业，共建 AI 新生态](https://www.anquanke.com/post/id/316048)
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
+  - [Lovart 悄悄大更新，这一次轮到 AI 适应设计师了](https://www.ifanr.com/1677574?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [NASA 的「超广角」太空望远镜上天了，5 年要扫描 10 亿个星系](https://www.ifanr.com/1677738?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [像素级抄袭小米？13 万的极狐阿尔法 T7 边翻车边庆功](https://www.ifanr.com/1677538?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜库克卸任苹果CEO,内部告别信曝光/《牛来》密钥延期,冲刺国庆档/网易云音乐鸿蒙版开放测试](https://www.ifanr.com/1677753?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [自动驾驶强制国标来了：享界智界提前押题，今明两年 L3 密集上车](https://www.ifanr.com/1677995?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [A社化身A割！Claude官宣永久提额25%，结果到手反而少17%](https://www.qbitai.com/2026/09/482406.html)
   - [自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning](https://www.qbitai.com/2026/09/482337.html)
 - 黑海洋
   - [Debian不会从其Linux发行版中禁止AI代码](https://blog.upx8.com/Debian%E4%B8%8D%E4%BC%9A%E4%BB%8E%E5%85%B6Linux%E5%8F%91%E8%A1%8C%E7%89%88%E4%B8%AD%E7%A6%81%E6%AD%A2AI%E4%BB%A3%E7%A0%81)
   - [Manus正式恢复独立运营 创始人及团队留任](https://blog.upx8.com/Manus%E6%AD%A3%E5%BC%8F%E6%81%A2%E5%A4%8D%E7%8B%AC%E7%AB%8B%E8%BF%90%E8%90%A5-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%8F%8A%E5%9B%A2%E9%98%9F%E7%95%99%E4%BB%BB)
+  - [中国官方首次定调车企海外竞争秩序](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E9%A6%96%E6%AC%A1%E5%AE%9A%E8%B0%83%E8%BD%A6%E4%BC%81%E6%B5%B7%E5%A4%96%E7%AB%9E%E4%BA%89%E7%A7%A9%E5%BA%8F)
   - [华为手机主力机型最高涨价17%](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E4%B8%BB%E5%8A%9B%E6%9C%BA%E5%9E%8B%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B717)
   - [大众已启动涉星宇股份相关投诉专项调查](https://blog.upx8.com/%E5%A4%A7%E4%BC%97%E5%B7%B2%E5%90%AF%E5%8A%A8%E6%B6%89%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E7%9B%B8%E5%85%B3%E6%8A%95%E8%AF%89%E4%B8%93%E9%A1%B9%E8%B0%83%E6%9F%A5)
   - [特朗普政府计划为欧洲右翼提供总计超过 2500 万美元资助](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%AE%A1%E5%88%92%E4%B8%BA%E6%AC%A7%E6%B4%B2%E5%8F%B3%E7%BF%BC%E6%8F%90%E4%BE%9B%E6%80%BB%E8%AE%A1%E8%B6%85%E8%BF%87-2500-%E4%B8%87%E7%BE%8E%E5%85%83%E8%B5%84%E5%8A%A9)
