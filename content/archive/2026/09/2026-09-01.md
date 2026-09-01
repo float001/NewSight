@@ -17,6 +17,7 @@
   - [My Experience Has Nuance, Yours Is a Data Point](https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/)
 - CoinTelegraph
   - [Bitcoin begins volatile monthly close as US bond yields eye new 20-year high](https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks](https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ireland excludes crypto from new tax-advantaged investment accounts](https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Thailand SEC proposes retail access to regulated overseas crypto derivatives](https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -51,6 +52,8 @@
   - [This Teen Helped Native American Students Earn Ham Radio Licenses](https://spectrum.ieee.org/ham-radio-2677797793)
 - johndcook.com
   - [Patented application of linear algebra](https://www.johndcook.com/blog/2026/08/31/patented-application-of-linear-algebra/)
+- rtl-sdr.com
+  - [An HTML Browser Page that Uses Display Pixel Clock EMI Leakage to Transmit VHF Morse Code](https://www.rtl-sdr.com/an-html-browser-page-that-uses-display-pixel-clock-emi-leakage-to-transmit-vhf-morse-code/)
 - TechCrunch
   - [A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms](https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/)
   - [a16z brings growth fund to $8.5B days after launching new $1.1B fund](https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/)
@@ -64,6 +67,7 @@
   - [Instagram puts new limits on undisclosed AI profiles](https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/)
   - [Kalshi bans George Santos for life over State of the Union bets](https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/)
   - [Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year](https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/)
+  - [Magna increases bet on battery swapping in India with $35M for Yuma](https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/)
   - [Microsoft tests fix for latest hours-long Outlook outage](https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/)
   - [Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund](https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/)
   - [Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt](https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/)
@@ -71,6 +75,7 @@
   - [Tim Cook’s parting message: Apple is in the hands of a product builder](https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/)
   - [VLC crosses 7 billion downloads](https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/)
 - The Block
+  - [Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc](https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195)
   - [DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL](https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190)
   - [Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg](https://www.theblock.co/news/markets/2026-08-31-hyperliquid-eyes-us-entry-kraken-parent-payward-perpetual-futures-deal-bloomberg-413129)
   - [OpenSea adds Solana NFT trading more than four years after initial beta](https://www.theblock.co/news/markets/2026-08-31-opensea-solana-nft-trading-413128)
@@ -198,11 +203,18 @@
   - [w3af](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ANDRESRIANCHO-W3AF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Zydra](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-HAMEDA2-ZYDRA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [20% Off Samsung Promo Code | September 2026](https://www.wired.com/story/samsung-promo-codes/)
+  - [50% Off Blue Apron Promo Codes | September 2026](https://www.wired.com/story/blue-apron-coupon/)
   - [Asus ProArt 27 QD-OLED (PA279cdv) Review: HDR for All](https://www.wired.com/review/asus-proart-pa279cdv/)
+  - [AT&T Promo Codes: $50 Off This September 2026](https://www.wired.com/story/att-promo-code/)
   - [Best Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More](https://www.wired.com/story/early-tech-labor-day-sales-2026/)
+  - [Dyson Promo Codes: 25% Off in September 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+  - [Newegg Promo Codes and Coupons for September 2026](https://www.wired.com/story/newegg-promo-code/)
+  - [Squarespace Promo Codes: 30% Off in September 2026](https://www.wired.com/story/squarespace-promo-code/)
   - [Tempo Promo Codes: Get up to 60% Off Healthy Meals](https://www.wired.com/story/tempo-meals-promo-code/)
 - 不安全
   - [awesome-ai-security — Updated!](https://buaq.net/go-439054.html)
+  - [cloudflared v2026.8.3](https://buaq.net/go-439089.html)
   - [frigate v0.18.0-rc1](https://buaq.net/go-439076.html)
   - [The Swiss Army Knife](https://buaq.net/go-439071.html)
   - [独立研究机构公布OpenAI智能体自主攻击HF事件的调查报告 情况比OpenAI所说的更严重](https://buaq.net/go-439060.html)
@@ -214,5 +226,6 @@
   - [早报｜库克卸任苹果CEO,内部告别信曝光/《牛来》密钥延期,冲刺国庆档/网易云音乐鸿蒙版开放测试](https://www.ifanr.com/1677753?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Debian不会从其Linux发行版中禁止AI代码](https://blog.upx8.com/Debian%E4%B8%8D%E4%BC%9A%E4%BB%8E%E5%85%B6Linux%E5%8F%91%E8%A1%8C%E7%89%88%E4%B8%AD%E7%A6%81%E6%AD%A2AI%E4%BB%A3%E7%A0%81)
+  - [特朗普政府计划为欧洲右翼提供总计超过 2500 万美元资助](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%AE%A1%E5%88%92%E4%B8%BA%E6%AC%A7%E6%B4%B2%E5%8F%B3%E7%BF%BC%E6%8F%90%E4%BE%9B%E6%80%BB%E8%AE%A1%E8%B6%85%E8%BF%87-2500-%E4%B8%87%E7%BE%8E%E5%85%83%E8%B5%84%E5%8A%A9)
   - [美众议院警告AI“黑天鹅”风险：严防恐怖分子策划更致命袭击](https://blog.upx8.com/%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E8%AD%A6%E5%91%8AAI-%E9%BB%91%E5%A4%A9%E9%B9%85-%E9%A3%8E%E9%99%A9-%E4%B8%A5%E9%98%B2%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E7%AD%96%E5%88%92%E6%9B%B4%E8%87%B4%E5%91%BD%E8%A2%AD%E5%87%BB)
   - [苹果公司正测试折叠屏iPhone专用手写笔](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%B5%8B%E8%AF%95%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E4%B8%93%E7%94%A8%E6%89%8B%E5%86%99%E7%AC%94)
