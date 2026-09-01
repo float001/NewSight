@@ -6,8 +6,10 @@
   - [【💰】爆率拉满，今日话题【推荐一下你的家乡美食】](https://2libra.com/post/recommendations/E7crlYC)
   - [【💰】程序猿们上班会自带键鼠吗，让我看看你们用的啥](https://2libra.com/post/recommendations/NwpW-56)
   - [【💰】签到这么久终于该我了](https://2libra.com/post/forum-function/5Se_0h0)
+  - [中秋国庆去哪玩？](https://2libra.com/post/travel-tips/F8id1bG)
   - [亲戚孩子上大学有感！](https://2libra.com/post/personal-life/Xt7Nmrt)
   - [关于午休这件事](https://2libra.com/post/personal-life/hjrpylB)
+  - [国内 AI Agent 的“赛马”倒计时，AI Agent 免费午餐还剩多少？](https://2libra.com/post/ai-trends/VGeHkI8)
   - [慎入](https://2libra.com/post/tech-rumination/LDEcXp5)
   - [新增了三个表情 👉 :enjoy:以及:barely:还有:sigh:](https://2libra.com/post/forum-function/KxLvFCq)
   - [有没有用 MacBook Air 开发的，不带风扇散热会不会兜不住](https://2libra.com/post/apple/zClsbrj)
@@ -33,6 +35,8 @@
   - ['TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks](https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks)
   - [AI Model Rules Are Not Security Controls](https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control)
   - [Anthropic Users Hit by Infostealer Attacks, Session Thefts](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts)
+- Didier Stevens
+  - [Overview of Content Published in August](https://blog.didierstevens.com/2026/09/01/overview-of-content-published-in-august-11/)
 - Fidelis Security
   - [How Integrated Malware Sandboxing Makes EDR Investigations Faster](https://fidelissecurity.com/threatgeek/endpoint-security/malware-sandboxing-for-faster-edr-investigations/)
 - Hacker News Frontpage
@@ -56,6 +60,8 @@
   - [Zoomex Concludes High-Impact "Trade the Tide" Event at Coinfest Asia 2026, Accelerating Expansion](https://hackernoon.com/zoomex-concludes-high-impact-trade-the-tide-event-at-coinfest-asia-2026-accelerating-expansion?source=rss)
 - IEEE Spectrum
   - [This Teen Helped Native American Students Earn Ham Radio Licenses](https://spectrum.ieee.org/ham-radio-2677797793)
+- infosecurity-magazine.com
+  - [Healthcare Giant McKesson Investigates Data Breach Incident](https://www.infosecurity-magazine.com/news/healthcare-mckesson-investigates/)
 - johndcook.com
   - [Patented application of linear algebra](https://www.johndcook.com/blog/2026/08/31/patented-application-of-linear-algebra/)
 - rtl-sdr.com
@@ -231,11 +237,14 @@
   - [独立研究机构公布OpenAI智能体自主攻击HF事件的调查报告 情况比OpenAI所说的更严重](https://buaq.net/go-439060.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 小刀志
+  - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
   - [NASA 的「超广角」太空望远镜上天了，5 年要扫描 10 亿个星系](https://www.ifanr.com/1677738?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [像素级抄袭小米？13 万的极狐阿尔法 T7 边翻车边庆功](https://www.ifanr.com/1677538?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜库克卸任苹果CEO,内部告别信曝光/《牛来》密钥延期,冲刺国庆档/网易云音乐鸿蒙版开放测试](https://www.ifanr.com/1677753?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [A社化身A割！Claude官宣永久提额25%，结果到手反而少17%](https://www.qbitai.com/2026/09/482406.html)
   - [自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning](https://www.qbitai.com/2026/09/482337.html)
 - 黑海洋
   - [Debian不会从其Linux发行版中禁止AI代码](https://blog.upx8.com/Debian%E4%B8%8D%E4%BC%9A%E4%BB%8E%E5%85%B6Linux%E5%8F%91%E8%A1%8C%E7%89%88%E4%B8%AD%E7%A6%81%E6%AD%A2AI%E4%BB%A3%E7%A0%81)
