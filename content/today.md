@@ -1,5 +1,9 @@
 # 今日安全资讯（2026-09-02）
 
+- Ars Technica
+  - [CDC reported then deleted two measles deaths that were questioned by RFK Jr.](https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/)
+- buttondown.com/hillelwayne
+  - [New Post: A Crash Course in Predicate Logic](https://buttondown.com/hillelwayne/archive/new-post-a-crash-course-in-predicate-logic/)
 - CoinTelegraph
   - [BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch](https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethena launches USDe payments app, offers 6% rewards](https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -7,6 +11,7 @@
   - [SEC proposes broad update to decades-old transfer agent rules with blockchain nod](https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/)
+  - [Tim Cook’s Departure Memo on His Last Day as CEO](https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/)
 - Google DeepMind Blog
   - [Introducing agentic video understanding with Gemini](https://deepmind.google/blog/introducing-agentic-video-in-gemini/)
 - Hacker News Frontpage
@@ -19,9 +24,13 @@
   - [Sequoia-incubated Empirik launches with $21M to predict outages before they happen](https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/)
   - [Waymo goes on offense ahead of Tesla’s Cybercab launch](https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/)
 - The Block
+  - [Crypto treasury companies hit $340 billion market cap as altcoin DATs outperform](https://www.theblock.co/news/markets/2026-09-01-crypto-treasury-companies-hit-340-billion-market-cap-as-altcoin-dats-outperform-413142)
   - [SEC seeks to update its 1970s-era transfer agent rules for the blockchain age](https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278)
 - The Decoder
   - [Google Deepmind's new chief says frontier AI leadership is the only thing that matters](https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/)
+- The Verge
+  - [Apple accuses OpenAI of destroying evidence](https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit)
+  - [John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;](https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo)
 - wheresyoured.at
   - [Hyperscale Normalization](https://www.wheresyoured.at/hyperscale-normalization/)
 - 代码审计星球
