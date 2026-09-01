@@ -28,21 +28,28 @@
 - Hacker News Frontpage
   - [Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)
   - [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)
+  - [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
+  - [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
 - HackerNoon
   - [A Single Canadian Tax Lure Spread into a 46-Country, US-First RMM Campaign](https://hackernoon.com/a-single-canadian-tax-lure-spread-into-a-46-country-us-first-rmm-campaign?source=rss)
 - IEEE Spectrum
   - [IEEE President’s Note: Technology for Social Good](https://spectrum.ieee.org/president-ieee-note-september-2026)
+- krebsonsecurity.com
+  - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 - MIT Technology Review
   - [How AI plotted an interstellar journey to Alpha Centauri](https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/)
 - NVIDIA AI Blog
   - [NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier](https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/)
 - TechCrunch
+  - [AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B](https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/)
   - [Anthropic’s new Fable release is cheaper, less restrictive](https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/)
+  - [Apple follows Google in adopting Trump’s ‘Lake America’ name](https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/)
   - [ChatGPT Health adds Epic integration for clinicians to import patient data](https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/)
   - [Google’s Android update tackles motion sickness, accessibility, and more](https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/)
   - [Google’s answer to Canva is an AI tool where you prompt instead of design](https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/)
   - [John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO](https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/)
   - [Open AI’s Astra model is on the way—and very good at breaking into computer systems](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/)
+  - [Reliance’s JioHotstar takes its streaming empire global — without sports](https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/)
   - [Sequoia-incubated Empirik launches with $21M to predict outages before they happen](https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/)
   - [Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer](https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/)
   - [Waymo goes on offense ahead of Tesla’s Cybercab launch](https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/)
@@ -59,12 +66,18 @@
   - [Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1)
   - [Apple accuses OpenAI of destroying evidence](https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit)
   - [Apple Maps follows Google in renaming Lake Ontario](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming)
+  - [Google needs Hollywood more than the studios need AI](https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai)
   - [John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;](https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo)
   - [On first listen, the Sonos Beam Ultra sounds great](https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen)
   - [Tim Cook did alright by the environment — but AI could upend his climate legacy](https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy)
+- troyhunt.com
+  - [Weekly Update 519: Breaches & Data Integrity](https://www.troyhunt.com/weekly-update-519/)
 - wheresyoured.at
   - [Hyperscale Normalization](https://www.wheresyoured.at/hyperscale-normalization/)
 - Wired
   - [Best Amazon Labor Day Deals (2026): Sony, Shark, Anker](https://www.wired.com/story/amazon-labor-day-deals-2026/)
+  - [The Range Rover Electric: Specs, Price, Availability](https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [苹果新任CEO特努斯、董事长库克薪酬曝光](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%BB%BBCEO%E7%89%B9%E5%8A%AA%E6%96%AF-%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BA%93%E5%85%8B%E8%96%AA%E9%85%AC%E6%9B%9D%E5%85%89)
