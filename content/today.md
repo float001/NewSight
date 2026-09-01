@@ -54,6 +54,7 @@
   - [Patented application of linear algebra](https://www.johndcook.com/blog/2026/08/31/patented-application-of-linear-algebra/)
 - rtl-sdr.com
   - [An HTML Browser Page that Uses Display Pixel Clock EMI Leakage to Transmit VHF Morse Code](https://www.rtl-sdr.com/an-html-browser-page-that-uses-display-pixel-clock-emi-leakage-to-transmit-vhf-morse-code/)
+  - [SDR++ IAK: A Modified Version of SDR++ Available on the Google Play Store](https://www.rtl-sdr.com/sdr-iak-a-modified-version-of-sdr-available-on-the-google-play-store/)
 - TechCrunch
   - [A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms](https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/)
   - [a16z brings growth fund to $8.5B days after launching new $1.1B fund](https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/)
@@ -214,8 +215,11 @@
   - [Tempo Promo Codes: Get up to 60% Off Healthy Meals](https://www.wired.com/story/tempo-meals-promo-code/)
 - 不安全
   - [awesome-ai-security — Updated!](https://buaq.net/go-439054.html)
+  - [chipsec v2.0.8](https://buaq.net/go-439095.html)
   - [cloudflared v2026.8.3](https://buaq.net/go-439089.html)
   - [frigate v0.18.0-rc1](https://buaq.net/go-439076.html)
+  - [nDPI v6.0](https://buaq.net/go-439096.html)
+  - [SDR++ IAK: A Modified Version of SDR++ Available on the Google Play Store](https://buaq.net/go-439093.html)
   - [The Swiss Army Knife](https://buaq.net/go-439071.html)
   - [独立研究机构公布OpenAI智能体自主攻击HF事件的调查报告 情况比OpenAI所说的更严重](https://buaq.net/go-439060.html)
 - 代码审计星球
@@ -224,6 +228,8 @@
   - [NASA 的「超广角」太空望远镜上天了，5 年要扫描 10 亿个星系](https://www.ifanr.com/1677738?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [像素级抄袭小米？13 万的极狐阿尔法 T7 边翻车边庆功](https://www.ifanr.com/1677538?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜库克卸任苹果CEO,内部告别信曝光/《牛来》密钥延期,冲刺国庆档/网易云音乐鸿蒙版开放测试](https://www.ifanr.com/1677753?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning](https://www.qbitai.com/2026/09/482337.html)
 - 黑海洋
   - [Debian不会从其Linux发行版中禁止AI代码](https://blog.upx8.com/Debian%E4%B8%8D%E4%BC%9A%E4%BB%8E%E5%85%B6Linux%E5%8F%91%E8%A1%8C%E7%89%88%E4%B8%AD%E7%A6%81%E6%AD%A2AI%E4%BB%A3%E7%A0%81)
   - [特朗普政府计划为欧洲右翼提供总计超过 2500 万美元资助](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%AE%A1%E5%88%92%E4%B8%BA%E6%AC%A7%E6%B4%B2%E5%8F%B3%E7%BF%BC%E6%8F%90%E4%BE%9B%E6%80%BB%E8%AE%A1%E8%B6%85%E8%BF%87-2500-%E4%B8%87%E7%BE%8E%E5%85%83%E8%B5%84%E5%8A%A9)
