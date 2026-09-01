@@ -3,11 +3,13 @@
 - 2Libra
   - [【投票】抖音上看到一个让我意外的争论](https://2libra.com/post/social-observation/CEjfLjl)
   - [【💰】MacOS 升級詢問～](https://2libra.com/post/apple/WFZJbs4)
+  - [【💰】为什么每当别人给我介绍对象的时候，不管是长辈还是朋友和同事，我心里都会特别抗拒，我甚至会产生讨厌愤怒生气这样的情绪？](https://2libra.com/post/love/PAc7Amh)
   - [【💰】爆率拉满，今日话题【推荐一下你的家乡美食】](https://2libra.com/post/recommendations/E7crlYC)
   - [【💰】程序猿们上班会自带键鼠吗，让我看看你们用的啥](https://2libra.com/post/recommendations/NwpW-56)
   - [【💰】签到这么久终于该我了](https://2libra.com/post/forum-function/5Se_0h0)
   - [中秋国庆去哪玩？](https://2libra.com/post/travel-tips/F8id1bG)
   - [亲戚孩子上大学有感！](https://2libra.com/post/personal-life/Xt7Nmrt)
+  - [你们平时是如何分辨区分一个产品是【抄袭】还是【借鉴】？](https://2libra.com/post/product-manager/lTHGAqs)
   - [关于午休这件事](https://2libra.com/post/personal-life/hjrpylB)
   - [前排打手太强，遭遇大削弱](https://2libra.com/post/forum-function/8yzoM0W)
   - [国内 AI Agent 的“赛马”倒计时，AI Agent 免费午餐还剩多少？](https://2libra.com/post/ai-trends/VGeHkI8)
@@ -78,6 +80,8 @@
 - rtl-sdr.com
   - [An HTML Browser Page that Uses Display Pixel Clock EMI Leakage to Transmit VHF Morse Code](https://www.rtl-sdr.com/an-html-browser-page-that-uses-display-pixel-clock-emi-leakage-to-transmit-vhf-morse-code/)
   - [SDR++ IAK: A Modified Version of SDR++ Available on the Google Play Store](https://www.rtl-sdr.com/sdr-iak-a-modified-version-of-sdr-available-on-the-google-play-store/)
+- shkspr.mobi
+  - [Book Review: ActivityPub by Evan Prodromou ★★★★⯪](https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/)
 - Taxodium
   - [TIL:Punycode - 域名中的 Unicode](https://taxodium.ink/til-punycode.html)
 - TechCrunch
@@ -104,7 +108,9 @@
 - The Block
   - [Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc](https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195)
   - [Binance adds options on 1,000 US stocks and ETFs as monthly TradFi perpetual volume hits $433 billion](https://www.theblock.co/news/business/2026-09-01-binance-adds-options-1000-us-stocks-etfs-monthly-tradfi-perpetual-volume-surge-413213)
+  - [Bitcoin defies oil price spike and rising Fed hike bets after best August since 2017](https://www.theblock.co/news/markets/2026-09-01-bitcoin-defies-oil-price-spike-and-rising-fed-hike-bets-after-best-august-since-2017-413218)
   - [DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL](https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190)
+  - [Ethena launches Ethena Pay app on Avalanche, offering up to 6% yield and 10% cashback](https://www.theblock.co/news/web3/2026-09-01-ethena-pay-app-avalanche-yield-cashback-413225)
   - [Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg](https://www.theblock.co/news/markets/2026-08-31-hyperliquid-eyes-us-entry-kraken-parent-payward-perpetual-futures-deal-bloomberg-413129)
   - [Kraken parent Payward to tokenize 100 London-listed stocks, with LSE 24 trading planned](https://www.theblock.co/news/business/2026-09-01-kraken-parent-payward-to-tokenize-100-london-listed-stocks-with-lse-24-trading-planned-413208)
   - [OpenSea adds Solana NFT trading more than four years after initial beta](https://www.theblock.co/news/markets/2026-08-31-opensea-solana-nft-trading-413128)
@@ -120,6 +126,7 @@
   - [Dyson made a camera-equipped toothbrush that flosses for you](https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability)
   - [FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads](https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit)
   - [I went to the loneliest baseball game on Apple Vision Pro](https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game)
+  - [IFA 2026: the biggest tech and gadget announcements](https://www.theverge.com/tech/986178/ifa-2026-the-biggest-tech-and-gadget-announcements)
   - [JMGO’s very bright all-in-one projector looks ideal for gamers and sports](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs)
   - [Markiplier is now GoPro’s biggest shareholder](https://www.theverge.com/tech/986847/markiplier-gopro-investor)
   - [Phil Schiller is leaving his biggest jobs at Apple](https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down)
@@ -236,6 +243,7 @@
 - Wired
   - [20% Off Samsung Promo Code | September 2026](https://www.wired.com/story/samsung-promo-codes/)
   - [3 Best Sleep Tracker Picks for Optimizing Your Sleep (2026)](https://www.wired.com/story/best-sleep-trackers/)
+  - [5 Best Folding Phones (2026): Samsung, Google, Motorola](https://www.wired.com/gallery/best-folding-phones/)
   - [50% Off Blue Apron Promo Codes | September 2026](https://www.wired.com/story/blue-apron-coupon/)
   - [Asus ProArt 27 QD-OLED (PA279cdv) Review: HDR for All](https://www.wired.com/review/asus-proart-pa279cdv/)
   - [AT&T Promo Codes: $50 Off This September 2026](https://www.wired.com/story/att-promo-code/)
@@ -252,12 +260,15 @@
   - [frigate v0.18.0-rc1](https://buaq.net/go-439076.html)
   - [Infostealers are hijacking Claude accounts at users’ expense](https://buaq.net/go-439152.html)
   - [nDPI v6.0](https://buaq.net/go-439096.html)
+  - [North Korea-linked IT Workers Are Getting Hired Inside Western Companies](https://buaq.net/go-439179.html)
   - [SDR++ IAK: A Modified Version of SDR++ Available on the Google Play Store](https://buaq.net/go-439093.html)
   - [testkube v2.13.1](https://buaq.net/go-439157.html)
   - [The Swiss Army Knife](https://buaq.net/go-439071.html)
   - [独立研究机构公布OpenAI智能体自主攻击HF事件的调查报告 情况比OpenAI所说的更严重](https://buaq.net/go-439060.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [太阳风暴导致美国 GPS 信号偏差逾 10 米](https://www.solidot.org/story?sid=85253)
 - 安全客
   - [Aiker World社区 AI 联创基地落地海南东方：从赛场到产业，共建 AI 新生态](https://www.anquanke.com/post/id/316048)
 - 小刀志
