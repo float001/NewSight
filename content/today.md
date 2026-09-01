@@ -71,6 +71,7 @@
   - [I Turned My Security Cameras into an Automatic Bird Identification System](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
   - [Mental Health Workers Say Algorithmic Triage Is Hurting Patients](https://capitalandmain.com/mental-health-workers-say-algorithmic-triage-is-hurting-patients)
   - [ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source](https://ravynos.com/)
+  - [Saab Enters Collaborative Combat Aircraft Race with High-End Concept](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept)
   - [Student teacher arrested for private Snapchat message](https://www.gadgetreview.com/student-teacher-sent-a-private-snapchat-complaining-about-her-workday-an-hour-later-police-pulled-up-to-her-school)
   - [The river of Apple's interface guidelines](https://hig.josefrichter.design/)
   - [The safest job from AI may be writing](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html)
@@ -88,6 +89,7 @@
   - [This Teen Helped Native American Students Earn Ham Radio Licenses](https://spectrum.ieee.org/ham-radio-2677797793)
 - infosecurity-magazine.com
   - [65% of Enterprises Have Seen AI Agents Act Out of Scope](https://www.infosecurity-magazine.com/news/65-percent-enterprises-ai-agents/)
+  - [Attackers Steal METR API Key and Burn $600,000 in AI Credits](https://www.infosecurity-magazine.com/news/attackers-steal-metr-api-key/)
   - [Financial Stability Board Sounds the Alarm Over Frontier AI Risks](https://www.infosecurity-magazine.com/news/financial-stability-board-alarm/)
   - [Healthcare Giant McKesson Investigates Data Breach Incident](https://www.infosecurity-magazine.com/news/healthcare-mckesson-investigates/)
   - [White House Launches Pilot Program in Texas to Protect Water Infrastructure](https://www.infosecurity-magazine.com/news/white-house-texas-protect-water/)
@@ -100,6 +102,8 @@
   - [SDR++ IAK: A Modified Version of SDR++ Available on the Google Play Store](https://www.rtl-sdr.com/sdr-iak-a-modified-version-of-sdr-available-on-the-google-play-store/)
 - shkspr.mobi
   - [Book Review: ActivityPub by Evan Prodromou ★★★★⯪](https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/)
+- simonwillison.net
+  - [Python 3.15.0 candidate 2 is here!](https://simonwillison.net/2026/Sep/1/python-315-rc-2/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for OS Command Injection in Axis Axis_Os](https://sploitus.com/exploit?id=BDCB30DB-A943-55BF-BF7C-FA26F8ECDE0C&utm_source=rss&utm_medium=rss)
 - Taxodium
@@ -111,6 +115,7 @@
   - [Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down](https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/)
   - [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)
   - [Clipto uses AI to search terabytes of video and is now valued at $250M](https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/)
+  - [Florida and Texas move to block Flock cameras over privacy concerns](https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/)
   - [FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit](https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/)
   - [Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson](https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/)
   - [Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’](https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/)
@@ -125,11 +130,14 @@
   - [Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund](https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/)
   - [Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt](https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/)
   - [The Pentagon now has its own version of ChatGPT and Grok](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)
+  - [This startup is fuel-injecting hydrogen to make cargo ships more efficient](https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/)
   - [Tim Cook’s parting message: Apple is in the hands of a product builder](https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/)
   - [VLC crosses 7 billion downloads](https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/)
+  - [Waymo accelerates robotaxi expansion with launches in Denver, San Diego and Tampa](https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/)
 - The Block
   - [Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc](https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195)
   - [Binance adds options on 1,000 US stocks and ETFs as monthly TradFi perpetual volume hits $433 billion](https://www.theblock.co/news/business/2026-09-01-binance-adds-options-1000-us-stocks-etfs-monthly-tradfi-perpetual-volume-surge-413213)
+  - [Bitcoin and gold move in lockstep as debasement trade gains more steam](https://www.theblock.co/news/markets/2026-09-01-bitcoin-gold-move-lockstep-debasement-trade-gains-steam-413137)
   - [Bitcoin defies oil price spike and rising Fed hike bets after best August since 2017](https://www.theblock.co/news/markets/2026-09-01-bitcoin-defies-oil-price-spike-and-rising-fed-hike-bets-after-best-august-since-2017-413218)
   - [DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL](https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190)
   - [Ethena launches Ethena Pay app on Avalanche, offering up to 6% yield and 10% cashback](https://www.theblock.co/news/web3/2026-09-01-ethena-pay-app-avalanche-yield-cashback-413225)
@@ -281,10 +289,12 @@
   - [Dyson Promo Codes: 25% Off in September 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
   - [Dyson’s Next Act Is an Electric Toothbrush With a Camera](https://www.wired.com/story/dyson-camerajet-electric-toothbrush-and-flosser/)
   - [Newegg Promo Codes and Coupons for September 2026](https://www.wired.com/story/newegg-promo-code/)
+  - [Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced](https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/)
   - [Squarespace Promo Codes: 30% Off in September 2026](https://www.wired.com/story/squarespace-promo-code/)
   - [Tempo Promo Codes: Get up to 60% Off Healthy Meals](https://www.wired.com/story/tempo-meals-promo-code/)
 - 不安全
   - [awesome-ai-security — Updated!](https://buaq.net/go-439054.html)
+  - [beelzebub v3.9.1](https://buaq.net/go-439235.html)
   - [chipsec v2.0.8](https://buaq.net/go-439095.html)
   - [cloudflared v2026.8.3](https://buaq.net/go-439089.html)
   - [frigate v0.18.0-rc1](https://buaq.net/go-439076.html)
@@ -299,6 +309,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Softaculous 遭遇长达 33 小时的 BGP 路由劫持](https://www.solidot.org/story?sid=85256)
   - [太阳风暴导致美国 GPS 信号偏差逾 10 米](https://www.solidot.org/story?sid=85253)
   - [科学家定位调控冬眠的关键脑回路](https://www.solidot.org/story?sid=85255)
 - 安全客
