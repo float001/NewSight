@@ -1,10 +1,15 @@
 # 今日安全资讯（2026-09-01）
 
 - 2Libra
+  - [【投票】抖音上看到一个让我意外的争论](https://2libra.com/post/social-observation/CEjfLjl)
+  - [【💰】MacOS 升級詢問～](https://2libra.com/post/apple/WFZJbs4)
   - [【💰】爆率拉满，今日话题【推荐一下你的家乡美食】](https://2libra.com/post/recommendations/E7crlYC)
   - [【💰】签到这么久终于该我了](https://2libra.com/post/forum-function/5Se_0h0)
+  - [亲戚孩子上大学有感！](https://2libra.com/post/personal-life/Xt7Nmrt)
   - [新增了三个表情 👉 :enjoy:以及:barely:还有:sigh:](https://2libra.com/post/forum-function/KxLvFCq)
   - [来聊一下智能手表，推荐一下](https://2libra.com/post/smart-wearable/6I28n-I)
+  - [每日微语看天下 9 月 1 日](https://2libra.com/post/social-observation/KBl4tcc)
+  - [求教一下 tello 注册](https://2libra.com/post/questions/6K_6Ie8)
   - [白嫖 vps 的机会!!](https://2libra.com/post/promotion/7fuJGd8)
   - [金币雨 怎么使用啊？](https://2libra.com/post/forum-function/XyOLNr1)
 - blog.jim-nielsen.com
@@ -24,6 +29,7 @@
 - Hacker News Frontpage
   - [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
   - [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
+  - [Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur](https://www.bbc.com/news/articles/c24j5192j7jo)
   - [German Konrad Zuse Museum shutting down due to lack of funding](https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyerswerda-kamenz/computer-museum-schliesst-,konrad-zuse-kultur-news-100.html)
   - [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
   - [I Turned My Security Cameras into an Automatic Bird Identification System](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
@@ -194,6 +200,8 @@
   - [Tempo Promo Codes: Get up to 60% Off Healthy Meals](https://www.wired.com/story/tempo-meals-promo-code/)
 - 不安全
   - [awesome-ai-security — Updated!](https://buaq.net/go-439054.html)
+  - [The Swiss Army Knife](https://buaq.net/go-439071.html)
+  - [独立研究机构公布OpenAI智能体自主攻击HF事件的调查报告 情况比OpenAI所说的更严重](https://buaq.net/go-439060.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
