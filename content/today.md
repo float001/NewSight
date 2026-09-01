@@ -1,8 +1,12 @@
 # 今日安全资讯（2026-09-01）
 
 - 2Libra
+  - [【💰】爆率拉满，今日话题【推荐一下你的家乡美食】](https://2libra.com/post/recommendations/E7crlYC)
   - [【💰】签到这么久终于该我了](https://2libra.com/post/forum-function/5Se_0h0)
+  - [新增了三个表情 👉 :enjoy:以及:barely:还有:sigh:](https://2libra.com/post/forum-function/KxLvFCq)
+  - [来聊一下智能手表，推荐一下](https://2libra.com/post/smart-wearable/6I28n-I)
   - [白嫖 vps 的机会!!](https://2libra.com/post/promotion/7fuJGd8)
+  - [金币雨 怎么使用啊？](https://2libra.com/post/forum-function/XyOLNr1)
 - blog.jim-nielsen.com
   - [My Experience Has Nuance, Yours Is a Data Point](https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/)
 - CoinTelegraph
@@ -92,6 +96,7 @@
   - [CVE-2026-14368](https://vulners.com/nvd/NVD:CVE-2026-14368?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14696](https://vulners.com/nvd/NVD:CVE-2026-14696?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17615](https://vulners.com/nvd/NVD:CVE-2026-17615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19820](https://vulners.com/nvd/NVD:CVE-2026-19820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4560](https://vulners.com/nvd/NVD:CVE-2026-4560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-51720](https://vulners.com/nvd/NVD:CVE-2026-51720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-51721](https://vulners.com/nvd/NVD:CVE-2026-51721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -187,6 +192,8 @@
   - [Asus ProArt 27 QD-OLED (PA279cdv) Review: HDR for All](https://www.wired.com/review/asus-proart-pa279cdv/)
   - [Best Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More](https://www.wired.com/story/early-tech-labor-day-sales-2026/)
   - [Tempo Promo Codes: Get up to 60% Off Healthy Meals](https://www.wired.com/story/tempo-meals-promo-code/)
+- 不安全
+  - [awesome-ai-security — Updated!](https://buaq.net/go-439054.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -195,4 +202,5 @@
   - [早报｜库克卸任苹果CEO,内部告别信曝光/《牛来》密钥延期,冲刺国庆档/网易云音乐鸿蒙版开放测试](https://www.ifanr.com/1677753?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Debian不会从其Linux发行版中禁止AI代码](https://blog.upx8.com/Debian%E4%B8%8D%E4%BC%9A%E4%BB%8E%E5%85%B6Linux%E5%8F%91%E8%A1%8C%E7%89%88%E4%B8%AD%E7%A6%81%E6%AD%A2AI%E4%BB%A3%E7%A0%81)
+  - [美众议院警告AI“黑天鹅”风险：严防恐怖分子策划更致命袭击](https://blog.upx8.com/%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E8%AD%A6%E5%91%8AAI-%E9%BB%91%E5%A4%A9%E9%B9%85-%E9%A3%8E%E9%99%A9-%E4%B8%A5%E9%98%B2%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E7%AD%96%E5%88%92%E6%9B%B4%E8%87%B4%E5%91%BD%E8%A2%AD%E5%87%BB)
   - [苹果公司正测试折叠屏iPhone专用手写笔](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%B5%8B%E8%AF%95%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E4%B8%93%E7%94%A8%E6%89%8B%E5%86%99%E7%AC%94)
