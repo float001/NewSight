@@ -30,6 +30,7 @@
   - [BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks](https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ireland excludes crypto from new tax-advantaged investment accounts](https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kast launches stablecoin-powered business platform after $80M raise](https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT](https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Singapore weighs recognizing some foreign-issued stablecoins](https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Thailand SEC proposes retail access to regulated overseas crypto derivatives](https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -48,6 +49,10 @@
   - [Overview of Content Published in August](https://blog.didierstevens.com/2026/09/01/overview-of-content-published-in-august-11/)
 - Fidelis Security
   - [How Integrated Malware Sandboxing Makes EDR Investigations Faster](https://fidelissecurity.com/threatgeek/endpoint-security/malware-sandboxing-for-faster-edr-investigations/)
+- Fuzzing Labs
+  - [Fuzzing under the cave: hunting bugs in batman-adv​](https://fuzzinglabs.com/fuzzing-batman-adv/)
+- GuidePoint Security
+  - [EtherHiding Exposed: What Security Leaders Need to Know](https://www.guidepointsecurity.com/blog/etherhiding_exposed_what_security_leaders_need_to_know/)
 - Hacker News Frontpage
   - [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
   - [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
@@ -61,6 +66,7 @@
   - [Student teacher arrested for private Snapchat message](https://www.gadgetreview.com/student-teacher-sent-a-private-snapchat-complaining-about-her-workday-an-hour-later-police-pulled-up-to-her-school)
   - [The river of Apple's interface guidelines](https://hig.josefrichter.design/)
   - [The safest job from AI may be writing](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html)
+  - [Tim Cook Sold Out Steve Jobs](https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/)
   - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/workweave)
 - HackerNoon
   - [PySpark Tips for Production Data Pipelines](https://hackernoon.com/pyspark-tips-for-production-data-pipelines?source=rss)
@@ -75,13 +81,18 @@
 - infosecurity-magazine.com
   - [Financial Stability Board Sounds the Alarm Over Frontier AI Risks](https://www.infosecurity-magazine.com/news/financial-stability-board-alarm/)
   - [Healthcare Giant McKesson Investigates Data Breach Incident](https://www.infosecurity-magazine.com/news/healthcare-mckesson-investigates/)
+  - [White House Launches Pilot Program in Texas to Protect Water Infrastructure](https://www.infosecurity-magazine.com/news/white-house-texas-protect-water/)
 - johndcook.com
   - [Patented application of linear algebra](https://www.johndcook.com/blog/2026/08/31/patented-application-of-linear-algebra/)
+- MIT Technology Review
+  - [The Download: engineered microbes for crops, and OpenAI’s culture problem](https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/)
 - rtl-sdr.com
   - [An HTML Browser Page that Uses Display Pixel Clock EMI Leakage to Transmit VHF Morse Code](https://www.rtl-sdr.com/an-html-browser-page-that-uses-display-pixel-clock-emi-leakage-to-transmit-vhf-morse-code/)
   - [SDR++ IAK: A Modified Version of SDR++ Available on the Google Play Store](https://www.rtl-sdr.com/sdr-iak-a-modified-version-of-sdr-available-on-the-google-play-store/)
 - shkspr.mobi
   - [Book Review: ActivityPub by Evan Prodromou ★★★★⯪](https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for OS Command Injection in Axis Axis_Os](https://sploitus.com/exploit?id=BDCB30DB-A943-55BF-BF7C-FA26F8ECDE0C&utm_source=rss&utm_medium=rss)
 - Taxodium
   - [TIL:Punycode - 域名中的 Unicode](https://taxodium.ink/til-punycode.html)
 - TechCrunch
@@ -119,8 +130,11 @@
   - [Strategy hits back at MSCI proposal, calling it ‘discriminatory’ against DATs](https://www.theblock.co/news/business/2026-09-01-strategy-hits-back-against-msci-413201)
 - The Decoder
   - [Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis](https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/)
+  - [Google's AI search dropped its emergency-call advice over nationalities but still flags people from Facebook](https://the-decoder.com/googles-ai-search-dropped-its-emergency-call-advice-over-nationalities-but-still-flags-people-from-facebook/)
   - [Instagram admits users often can't tell AI profiles from real people](https://the-decoder.com/instagram-admits-users-often-cant-tell-ai-profiles-from-real-people/)
+  - [Runway's Solaris is an AI system that generates software interfaces in real time](https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/)
 - The Verge
+  - [A day-one briefing for Apple’s new CEO](https://www.theverge.com/tech/987066/john-ternus-day-one-apple-ceo-briefing)
   - [Alienware’s budget-friendly QD-OLED is discounted for the first time](https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale)
   - [Car owners want tech they can ignore](https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition)
   - [Dyson made a camera-equipped toothbrush that flosses for you](https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability)
@@ -129,7 +143,9 @@
   - [IFA 2026: the biggest tech and gadget announcements](https://www.theverge.com/tech/986178/ifa-2026-the-biggest-tech-and-gadget-announcements)
   - [JMGO’s very bright all-in-one projector looks ideal for gamers and sports](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs)
   - [Markiplier is now GoPro’s biggest shareholder](https://www.theverge.com/tech/986847/markiplier-gopro-investor)
+  - [Nvidia’s DLSS 5, explained](https://www.theverge.com/games/986980/nvidias-dlss-5-explained)
   - [Phil Schiller is leaving his biggest jobs at Apple](https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down)
+  - [Poco’s F9 Ultra pairs an ultra-bright display with a glowing Bose subwoofer](https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose)
   - [Read Tim Cook&#8217;s final message to Apple staff as CEO](https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff)
   - [The Google TV Streamer now costs $50 more](https://www.theverge.com/tech/987032/google-tv-streamer-price-increase)
 - Vulners.com RSS Feed
@@ -262,6 +278,7 @@
   - [nDPI v6.0](https://buaq.net/go-439096.html)
   - [North Korea-linked IT Workers Are Getting Hired Inside Western Companies](https://buaq.net/go-439179.html)
   - [SDR++ IAK: A Modified Version of SDR++ Available on the Google Play Store](https://buaq.net/go-439093.html)
+  - [TerminalFix looks like ClickFix, but delivers a very different payload](https://buaq.net/go-439194.html)
   - [testkube v2.13.1](https://buaq.net/go-439157.html)
   - [The Swiss Army Knife](https://buaq.net/go-439071.html)
   - [独立研究机构公布OpenAI智能体自主攻击HF事件的调查报告 情况比OpenAI所说的更严重](https://buaq.net/go-439060.html)
@@ -277,6 +294,7 @@
   - [Lovart 悄悄大更新，这一次轮到 AI 适应设计师了](https://www.ifanr.com/1677574?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [NASA 的「超广角」太空望远镜上天了，5 年要扫描 10 亿个星系](https://www.ifanr.com/1677738?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [像素级抄袭小米？13 万的极狐阿尔法 T7 边翻车边庆功](https://www.ifanr.com/1677538?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [地表最强四缸守不住了！丰田 GR 硬刚 AMG，500 马力小跑车即将入场](https://www.ifanr.com/1677994?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜库克卸任苹果CEO,内部告别信曝光/《牛来》密钥延期,冲刺国庆档/网易云音乐鸿蒙版开放测试](https://www.ifanr.com/1677753?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [自动驾驶强制国标来了：享界智界提前押题，今明两年 L3 密集上车](https://www.ifanr.com/1677995?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
