@@ -6,6 +6,8 @@
   - [【💰】爆率拉满，今日话题【推荐一下你的家乡美食】](https://2libra.com/post/recommendations/E7crlYC)
   - [【💰】签到这么久终于该我了](https://2libra.com/post/forum-function/5Se_0h0)
   - [亲戚孩子上大学有感！](https://2libra.com/post/personal-life/Xt7Nmrt)
+  - [关于午休这件事](https://2libra.com/post/personal-life/hjrpylB)
+  - [慎入](https://2libra.com/post/tech-rumination/LDEcXp5)
   - [新增了三个表情 👉 :enjoy:以及:barely:还有:sigh:](https://2libra.com/post/forum-function/KxLvFCq)
   - [有没有用 MacBook Air 开发的，不带风扇散热会不会兜不住](https://2libra.com/post/apple/zClsbrj)
   - [来聊一下智能手表，推荐一下](https://2libra.com/post/smart-wearable/6I28n-I)
@@ -82,6 +84,7 @@
   - [OpenSea adds Solana NFT trading more than four years after initial beta](https://www.theblock.co/news/markets/2026-08-31-opensea-solana-nft-trading-413128)
   - [Robinhood Chain hits record $989 million in daily DEX volume as TVL grows](https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136)
   - [Solana fees hit record as validators double pace of inflation cuts](https://www.theblock.co/news/ecosystems/2026-08-31-solana-fees-hit-record-as-validators-double-pace-of-inflation-cuts-413135)
+  - [Strategy hits back at MSCI proposal, calling it ‘discriminatory’ against DATs](https://www.theblock.co/news/business/2026-09-01-strategy-hits-back-against-msci-413201)
 - The Decoder
   - [Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis](https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/)
   - [Instagram admits users often can't tell AI profiles from real people](https://the-decoder.com/instagram-admits-users-often-cant-tell-ai-profiles-from-real-people/)
@@ -232,6 +235,8 @@
   - [自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning](https://www.qbitai.com/2026/09/482337.html)
 - 黑海洋
   - [Debian不会从其Linux发行版中禁止AI代码](https://blog.upx8.com/Debian%E4%B8%8D%E4%BC%9A%E4%BB%8E%E5%85%B6Linux%E5%8F%91%E8%A1%8C%E7%89%88%E4%B8%AD%E7%A6%81%E6%AD%A2AI%E4%BB%A3%E7%A0%81)
+  - [华为手机主力机型最高涨价17%](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E4%B8%BB%E5%8A%9B%E6%9C%BA%E5%9E%8B%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B717)
+  - [大众已启动涉星宇股份相关投诉专项调查](https://blog.upx8.com/%E5%A4%A7%E4%BC%97%E5%B7%B2%E5%90%AF%E5%8A%A8%E6%B6%89%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E7%9B%B8%E5%85%B3%E6%8A%95%E8%AF%89%E4%B8%93%E9%A1%B9%E8%B0%83%E6%9F%A5)
   - [特朗普政府计划为欧洲右翼提供总计超过 2500 万美元资助](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%AE%A1%E5%88%92%E4%B8%BA%E6%AC%A7%E6%B4%B2%E5%8F%B3%E7%BF%BC%E6%8F%90%E4%BE%9B%E6%80%BB%E8%AE%A1%E8%B6%85%E8%BF%87-2500-%E4%B8%87%E7%BE%8E%E5%85%83%E8%B5%84%E5%8A%A9)
   - [美众议院警告AI“黑天鹅”风险：严防恐怖分子策划更致命袭击](https://blog.upx8.com/%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E8%AD%A6%E5%91%8AAI-%E9%BB%91%E5%A4%A9%E9%B9%85-%E9%A3%8E%E9%99%A9-%E4%B8%A5%E9%98%B2%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E7%AD%96%E5%88%92%E6%9B%B4%E8%87%B4%E5%91%BD%E8%A2%AD%E5%87%BB)
   - [苹果公司正测试折叠屏iPhone专用手写笔](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%B5%8B%E8%AF%95%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E4%B8%93%E7%94%A8%E6%89%8B%E5%86%99%E7%AC%94)
