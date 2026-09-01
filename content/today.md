@@ -23,11 +23,19 @@
   - [求教一下 tello 注册](https://2libra.com/post/questions/6K_6Ie8)
   - [白嫖 vps 的机会!!](https://2libra.com/post/promotion/7fuJGd8)
   - [金币雨 怎么使用啊？](https://2libra.com/post/forum-function/XyOLNr1)
+- 404 Media
+  - [Oklahoma Tells City It Can't Charge $17,125.44 for a Records Request Related to Data Center Arrest](https://www.404media.co/oklahoma-tells-city-it-cant-charge-17-125-44-for-a-records-request-related-to-data-center-arrest/)
+  - [This 'Digital Camouflage' Shirt Confuses AI-Powered Surveillance Cameras](https://www.404media.co/this-digital-camouflage-shirt-confuses-ai-powered-surveillance-cameras/)
 - blog.jim-nielsen.com
   - [My Experience Has Nuance, Yours Is a Data Point](https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#456290: Hugging Face Transformers library writes remote code to disk prior to consent check](https://kb.cert.org/vuls/id/456290)
 - CoinTelegraph
+  - [Asia sees digital asset custody infrastructure deals from Ripple, Coincheck](https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin begins volatile monthly close as US bond yields eye new 20-year high](https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks](https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Does the Bitcoin rally mean we haven’t wasted our lives in crypto?](https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Fake Claude desktop app spreads crypto-stealing malware](https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ireland excludes crypto from new tax-advantaged investment accounts](https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kast launches stablecoin-powered business platform after $80M raise](https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -79,6 +87,7 @@
 - IEEE Spectrum
   - [This Teen Helped Native American Students Earn Ham Radio Licenses](https://spectrum.ieee.org/ham-radio-2677797793)
 - infosecurity-magazine.com
+  - [65% of Enterprises Have Seen AI Agents Act Out of Scope](https://www.infosecurity-magazine.com/news/65-percent-enterprises-ai-agents/)
   - [Financial Stability Board Sounds the Alarm Over Frontier AI Risks](https://www.infosecurity-magazine.com/news/financial-stability-board-alarm/)
   - [Healthcare Giant McKesson Investigates Data Breach Incident](https://www.infosecurity-magazine.com/news/healthcare-mckesson-investigates/)
   - [White House Launches Pilot Program in Texas to Protect Water Infrastructure](https://www.infosecurity-magazine.com/news/white-house-texas-protect-water/)
@@ -105,7 +114,9 @@
   - [FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit](https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/)
   - [Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson](https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/)
   - [Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’](https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/)
+  - [Help build the future of startups: Volunteer at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/)
   - [If space data centers feel far-fetched, why not interstellar travel?](https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/)
+  - [India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation](https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/)
   - [Instagram puts new limits on undisclosed AI profiles](https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/)
   - [Kalshi bans George Santos for life over State of the Union bets](https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/)
   - [Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year](https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/)
@@ -126,6 +137,7 @@
   - [Kraken parent Payward to tokenize 100 London-listed stocks, with LSE 24 trading planned](https://www.theblock.co/news/business/2026-09-01-kraken-parent-payward-to-tokenize-100-london-listed-stocks-with-lse-24-trading-planned-413208)
   - [OpenSea adds Solana NFT trading more than four years after initial beta](https://www.theblock.co/news/markets/2026-08-31-opensea-solana-nft-trading-413128)
   - [Robinhood Chain hits record $989 million in daily DEX volume as TVL grows](https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136)
+  - [Silhouette debuts RFQ trading for xStocks on Hyperliquid](https://www.theblock.co/news/business/2026-09-01-silhouette-debuts-rfq-trading-for-xstocks-on-hyperliquid-413226)
   - [Solana fees hit record as validators double pace of inflation cuts](https://www.theblock.co/news/ecosystems/2026-08-31-solana-fees-hit-record-as-validators-double-pace-of-inflation-cuts-413135)
   - [Strategy hits back at MSCI proposal, calling it ‘discriminatory’ against DATs](https://www.theblock.co/news/business/2026-09-01-strategy-hits-back-against-msci-413201)
 - The Decoder
@@ -138,10 +150,12 @@
   - [Alienware’s budget-friendly QD-OLED is discounted for the first time](https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale)
   - [Car owners want tech they can ignore](https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition)
   - [Dyson made a camera-equipped toothbrush that flosses for you](https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability)
+  - [Florida blocks Flock cams on state highways](https://www.theverge.com/tech/987353/florida-flock-cam-ban-state-highways)
   - [FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads](https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit)
   - [I went to the loneliest baseball game on Apple Vision Pro](https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game)
   - [IFA 2026: the biggest tech and gadget announcements](https://www.theverge.com/tech/986178/ifa-2026-the-biggest-tech-and-gadget-announcements)
   - [JMGO’s very bright all-in-one projector looks ideal for gamers and sports](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs)
+  - [John Ternus takes over as Apple&#8217;s new CEO](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook)
   - [Markiplier is now GoPro’s biggest shareholder](https://www.theverge.com/tech/986847/markiplier-gopro-investor)
   - [Nvidia’s DLSS 5, explained](https://www.theverge.com/games/986980/nvidias-dlss-5-explained)
   - [Phil Schiller is leaving his biggest jobs at Apple](https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down)
@@ -286,6 +300,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [太阳风暴导致美国 GPS 信号偏差逾 10 米](https://www.solidot.org/story?sid=85253)
+  - [科学家定位调控冬眠的关键脑回路](https://www.solidot.org/story?sid=85255)
 - 安全客
   - [Aiker World社区 AI 联创基地落地海南东方：从赛场到产业，共建 AI 新生态](https://www.anquanke.com/post/id/316048)
 - 小刀志
@@ -303,9 +318,11 @@
 - 黑海洋
   - [Debian不会从其Linux发行版中禁止AI代码](https://blog.upx8.com/Debian%E4%B8%8D%E4%BC%9A%E4%BB%8E%E5%85%B6Linux%E5%8F%91%E8%A1%8C%E7%89%88%E4%B8%AD%E7%A6%81%E6%AD%A2AI%E4%BB%A3%E7%A0%81)
   - [Manus正式恢复独立运营 创始人及团队留任](https://blog.upx8.com/Manus%E6%AD%A3%E5%BC%8F%E6%81%A2%E5%A4%8D%E7%8B%AC%E7%AB%8B%E8%BF%90%E8%90%A5-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%8F%8A%E5%9B%A2%E9%98%9F%E7%95%99%E4%BB%BB)
+  - [Proxmox VE 7 曝严重身份验证绕过漏洞，可一键获取Root Shell](https://blog.upx8.com/Proxmox-VE-7-%E6%9B%9D%E4%B8%A5%E9%87%8D%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E-%E5%8F%AF%E4%B8%80%E9%94%AE%E8%8E%B7%E5%8F%96Root-Shell)
   - [中国官方首次定调车企海外竞争秩序](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E9%A6%96%E6%AC%A1%E5%AE%9A%E8%B0%83%E8%BD%A6%E4%BC%81%E6%B5%B7%E5%A4%96%E7%AB%9E%E4%BA%89%E7%A7%A9%E5%BA%8F)
   - [华为手机主力机型最高涨价17%](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E4%B8%BB%E5%8A%9B%E6%9C%BA%E5%9E%8B%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B717)
   - [大众已启动涉星宇股份相关投诉专项调查](https://blog.upx8.com/%E5%A4%A7%E4%BC%97%E5%B7%B2%E5%90%AF%E5%8A%A8%E6%B6%89%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E7%9B%B8%E5%85%B3%E6%8A%95%E8%AF%89%E4%B8%93%E9%A1%B9%E8%B0%83%E6%9F%A5)
   - [特朗普政府计划为欧洲右翼提供总计超过 2500 万美元资助](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%AE%A1%E5%88%92%E4%B8%BA%E6%AC%A7%E6%B4%B2%E5%8F%B3%E7%BF%BC%E6%8F%90%E4%BE%9B%E6%80%BB%E8%AE%A1%E8%B6%85%E8%BF%87-2500-%E4%B8%87%E7%BE%8E%E5%85%83%E8%B5%84%E5%8A%A9)
   - [美众议院警告AI“黑天鹅”风险：严防恐怖分子策划更致命袭击](https://blog.upx8.com/%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E8%AD%A6%E5%91%8AAI-%E9%BB%91%E5%A4%A9%E9%B9%85-%E9%A3%8E%E9%99%A9-%E4%B8%A5%E9%98%B2%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E7%AD%96%E5%88%92%E6%9B%B4%E8%87%B4%E5%91%BD%E8%A2%AD%E5%87%BB)
   - [苹果公司正测试折叠屏iPhone专用手写笔](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%B5%8B%E8%AF%95%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E4%B8%93%E7%94%A8%E6%89%8B%E5%86%99%E7%AC%94)
+  - [苹果高管接连换血：“两朝元老”已交出App Store掌舵权](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E6%8E%A5%E8%BF%9E%E6%8D%A2%E8%A1%80-%E4%B8%A4%E6%9C%9D%E5%85%83%E8%80%81-%E5%B7%B2%E4%BA%A4%E5%87%BAApp-Store%E6%8E%8C%E8%88%B5%E6%9D%83)
