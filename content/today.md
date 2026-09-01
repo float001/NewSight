@@ -7,6 +7,7 @@
   - [【💰】签到这么久终于该我了](https://2libra.com/post/forum-function/5Se_0h0)
   - [亲戚孩子上大学有感！](https://2libra.com/post/personal-life/Xt7Nmrt)
   - [新增了三个表情 👉 :enjoy:以及:barely:还有:sigh:](https://2libra.com/post/forum-function/KxLvFCq)
+  - [有没有用 MacBook Air 开发的，不带风扇散热会不会兜不住](https://2libra.com/post/apple/zClsbrj)
   - [来聊一下智能手表，推荐一下](https://2libra.com/post/smart-wearable/6I28n-I)
   - [每日微语看天下 9 月 1 日](https://2libra.com/post/social-observation/KBl4tcc)
   - [求教一下 tello 注册](https://2libra.com/post/questions/6K_6Ie8)
@@ -18,6 +19,7 @@
   - [Bitcoin begins volatile monthly close as US bond yields eye new 20-year high](https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ireland excludes crypto from new tax-advantaged investment accounts](https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Thailand SEC proposes retail access to regulated overseas crypto derivatives](https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wallet in Telegram rebrands to Walt as Gram wallet debuts](https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Webull expands crypto trading into Canada through Coinbase collaboration](https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
@@ -69,6 +71,7 @@
   - [Tim Cook’s parting message: Apple is in the hands of a product builder](https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/)
   - [VLC crosses 7 billion downloads](https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/)
 - The Block
+  - [DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL](https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190)
   - [Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg](https://www.theblock.co/news/markets/2026-08-31-hyperliquid-eyes-us-entry-kraken-parent-payward-perpetual-futures-deal-bloomberg-413129)
   - [OpenSea adds Solana NFT trading more than four years after initial beta](https://www.theblock.co/news/markets/2026-08-31-opensea-solana-nft-trading-413128)
   - [Robinhood Chain hits record $989 million in daily DEX volume as TVL grows](https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136)
@@ -200,6 +203,7 @@
   - [Tempo Promo Codes: Get up to 60% Off Healthy Meals](https://www.wired.com/story/tempo-meals-promo-code/)
 - 不安全
   - [awesome-ai-security — Updated!](https://buaq.net/go-439054.html)
+  - [frigate v0.18.0-rc1](https://buaq.net/go-439076.html)
   - [The Swiss Army Knife](https://buaq.net/go-439071.html)
   - [独立研究机构公布OpenAI智能体自主攻击HF事件的调查报告 情况比OpenAI所说的更严重](https://buaq.net/go-439060.html)
 - 代码审计星球
