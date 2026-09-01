@@ -4,6 +4,7 @@
   - [【投票】抖音上看到一个让我意外的争论](https://2libra.com/post/social-observation/CEjfLjl)
   - [【💰】MacOS 升級詢問～](https://2libra.com/post/apple/WFZJbs4)
   - [【💰】爆率拉满，今日话题【推荐一下你的家乡美食】](https://2libra.com/post/recommendations/E7crlYC)
+  - [【💰】程序猿们上班会自带键鼠吗，让我看看你们用的啥](https://2libra.com/post/recommendations/NwpW-56)
   - [【💰】签到这么久终于该我了](https://2libra.com/post/forum-function/5Se_0h0)
   - [亲戚孩子上大学有感！](https://2libra.com/post/personal-life/Xt7Nmrt)
   - [关于午休这件事](https://2libra.com/post/personal-life/hjrpylB)
@@ -23,8 +24,11 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ireland excludes crypto from new tax-advantaged investment accounts](https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Thailand SEC proposes retail access to regulated overseas crypto derivatives](https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report](https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wallet in Telegram rebrands to Walt as Gram wallet debuts](https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Webull expands crypto trading into Canada through Coinbase collaboration](https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [[Sponsor] WorkOS: How to Give an Agent a Task Instead of a Token](https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
 - darkreading
   - ['TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks](https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks)
   - [AI Model Rules Are Not Security Controls](https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control)
@@ -235,6 +239,7 @@
   - [自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning](https://www.qbitai.com/2026/09/482337.html)
 - 黑海洋
   - [Debian不会从其Linux发行版中禁止AI代码](https://blog.upx8.com/Debian%E4%B8%8D%E4%BC%9A%E4%BB%8E%E5%85%B6Linux%E5%8F%91%E8%A1%8C%E7%89%88%E4%B8%AD%E7%A6%81%E6%AD%A2AI%E4%BB%A3%E7%A0%81)
+  - [Manus正式恢复独立运营 创始人及团队留任](https://blog.upx8.com/Manus%E6%AD%A3%E5%BC%8F%E6%81%A2%E5%A4%8D%E7%8B%AC%E7%AB%8B%E8%BF%90%E8%90%A5-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%8F%8A%E5%9B%A2%E9%98%9F%E7%95%99%E4%BB%BB)
   - [华为手机主力机型最高涨价17%](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E4%B8%BB%E5%8A%9B%E6%9C%BA%E5%9E%8B%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B717)
   - [大众已启动涉星宇股份相关投诉专项调查](https://blog.upx8.com/%E5%A4%A7%E4%BC%97%E5%B7%B2%E5%90%AF%E5%8A%A8%E6%B6%89%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E7%9B%B8%E5%85%B3%E6%8A%95%E8%AF%89%E4%B8%93%E9%A1%B9%E8%B0%83%E6%9F%A5)
   - [特朗普政府计划为欧洲右翼提供总计超过 2500 万美元资助](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%AE%A1%E5%88%92%E4%B8%BA%E6%AC%A7%E6%B4%B2%E5%8F%B3%E7%BF%BC%E6%8F%90%E4%BE%9B%E6%80%BB%E8%AE%A1%E8%B6%85%E8%BF%87-2500-%E4%B8%87%E7%BE%8E%E5%85%83%E8%B5%84%E5%8A%A9)
