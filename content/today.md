@@ -9,6 +9,7 @@
   - [【投票】表态考虑加入自定义表情吗](https://2libra.com/post/forum-function/Fz3TjJG)
   - [【💰】我又来了，求助各位有经验人士](https://2libra.com/post/recommendations/Er-y2J8)
   - [【🔒】走过路有，不要错过，竞拍一个雍禾防脱洗发水](https://2libra.com/post/second-hand/pOcGduN)
+  - [今天潘多拉应该是顶中顶吧？](https://2libra.com/post/forum-function/Ilug76h)
   - [公积金要入市了吗？](https://2libra.com/post/social-observation/_9daHTI)
   - [关于下午 4 点后](https://2libra.com/post/office-life/-Y-BSvN)
   - [前排打手新鲜出炉，但这消耗感觉不合理](https://2libra.com/post/forum-function/FCZSMLs)
@@ -18,6 +19,7 @@
   - [教师节该送什么？](https://2libra.com/post/recommendations/nHwu0fn)
   - [新一轮的“梓涵”“子轩”来了，这次是“奕辰”和“一诺”](https://2libra.com/post/social-observation/FYWSS6b)
   - [最近几年我发现我休班没啥感觉，反而请假回去的路上是最开心的，不知道你们有这种感觉吗](https://2libra.com/post/workplace-stories/fXPgXfx)
+  - [最近几年种种事件似乎表明，乱纪元已经来了，各种灾害发生，大家多多注意，注意防范。](https://2libra.com/post/social-observation/9ztLWq0)
   - [活人让尿憋死了](https://2libra.com/post/workplace-stories/De-AZo1)
   - [烧饼站是咋了，怎么打不开](https://2libra.com/post/midlife-support-club/2enqS3L)
   - [花了 15 元用 glm5.3 flash 做了个小游戏，大家玩玩看](https://2libra.com/post/personal-works/Ab_FR2Q)
@@ -37,6 +39,7 @@
   - [HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B](https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi issues first lifetime ban for Republican politician over insider bets](https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC proposes broad update to decades-old transfer agent rules with blockchain nod](https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Thailand adopts crypto Travel Rule with self-custodial wallet checks](https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK crime agency froze $13.5M amid probe into Premier League crypto sponsor](https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daniel.haxx.se
   - [curl 8.22.0](https://daniel.haxx.se/blog/2026/09/02/curl-8-22-0/)
@@ -49,6 +52,8 @@
   - [Critical Langflow Flaw Exploited as Attacks on AI Platform Rise](https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise)
   - [Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency](https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency)
   - [Stronger Security Drives Ransomware Groups to Recruit From Within](https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within)
+- dfarq.homeip.net
+  - [Atari Lynx: The first color handheld game console](https://dfarq.homeip.net/atari-lynx-the-first-color-handheld-game-console/?utm_source=rss&utm_medium=rss&utm_campaign=atari-lynx-the-first-color-handheld-game-console)
 - Emergent Minds | paddo.dev
   - [Tokens per Megawatt: OpenAI's Jalapeno Chip and Why Power Is Now the Price of Inference](https://paddo.dev/blog/tokens-per-megawatt/)
 - Google AI Blog
@@ -79,12 +84,17 @@
 - infosecurity-magazine.com
   - [FulcrumSec Claims Responsibility for Manchester Airport Group Breach](https://www.infosecurity-magazine.com/news/fulcrumsec-manchester-airport/)
   - [Hackers Chain Two New SonicWall Zero-Day Vulnerabilities](https://www.infosecurity-magazine.com/news/hackers-chain-sonicwall-zeroday/)
+  - [Nutex Health Says Patient Data Stolen, Hackers Threaten Leak](https://www.infosecurity-magazine.com/news/nutex-patient-data-stolen/)
 - krebsonsecurity.com
   - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 - MIT Technology Review
   - [How AI plotted an interstellar journey to Alpha Centauri](https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/)
 - NVIDIA AI Blog
   - [NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier](https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/)
+- Panda - 专注于网络空间安全研究
+  - [Transformer 之后，AI 到底在进步什么？](https://www.cnpanda.net/talksafe/transformer-after-ai-progress.html)
+- pluralistic.net
+  - [Pluralistic: Unpermissioned research (02 Sep 2026)](https://pluralistic.net/2026/09/02/scrape-scrope-scrap/)
 - Product Hunt
   - [Doop](https://www.producthunt.com/products/doop)
 - rtl-sdr.com
@@ -139,12 +149,14 @@
   - [Waymo goes on offense ahead of Tesla’s Cybercab launch](https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/)
   - [X says attackers are targeting user accounts after the launch of X Money](https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/)
 - The Block
+  - [Bitcoin hovers near $77,000 as global bond selloff tests post-rally resilience](https://www.theblock.co/news/markets/2026-09-02-bitcoin-hovers-near-77000-as-global-bond-selloff-tests-post-rally-resilience-413320)
   - [Buying memecoins with credit cards on Robinhood Wallet and Fomo appears to sidestep card-network crypto rules](https://www.theblock.co/news/business/2026-09-01-buying-memecoins-with-credit-cards-on-robinhood-wallet-fomo-sidestep-card-network-crypto-rules-411911)
   - [Crypto treasury companies hit $340 billion market cap as altcoin DATs outperform](https://www.theblock.co/news/markets/2026-09-01-crypto-treasury-companies-hit-340-billion-market-cap-as-altcoin-dats-outperform-413142)
   - [G20 finance leaders vow to establish ‘clear pathways’ for digital assets innovation](https://www.theblock.co/news/regulation/2026-09-02-g20-finance-leaders-digital-assets-413310)
   - [Hyperliquid Strategies expands equity facility to $2.5 billion from $1 billion](https://www.theblock.co/news/business/2026-09-01-hyperliquid-strategies-expands-equity-facility-413304)
   - [Kalshi and Polymarket’s combined volume falls 15% in August, first monthly decline in a year](https://www.theblock.co/news/business/2026-09-02-kalshi-polymarkets-volume-falls-august-413309)
   - [SEC seeks to update its 1970s-era transfer agent rules for the blockchain age](https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278)
+  - [Strategy CEO says selling bitcoin at $60,000 before buying at $80,000 was the ‘right trade’](https://www.theblock.co/news/business/2026-09-02-strategy-ceo-says-selling-bitcoin-at-60000-before-buying-at-80000-was-the-right-trade-413323)
 - The Decoder
   - [Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others](https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/)
   - [Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less](https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/)
@@ -162,6 +174,7 @@
   - [John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;](https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo)
   - [Microsoft is enabling a Windows 11 security feature that can hurt gaming performance](https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026)
   - [On first listen, the Sonos Beam Ultra sounds great](https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen)
+  - [The robot butler dream doesn’t have legs](https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa)
   - [This new Roomba seals itself to your carpet](https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced)
   - [Tim Cook did alright by the environment — but AI could upend his climate legacy](https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy)
 - troyhunt.com
@@ -190,6 +203,7 @@
 - Wired
   - [A Prop 65 Crash Course: What You Need to Know (2026)](https://www.wired.com/story/why-does-everything-have-a-prop-65-warning/)
   - [Best Amazon Labor Day Deals (2026): Sony, Shark, Anker](https://www.wired.com/story/amazon-labor-day-deals-2026/)
+  - [Best Sony Headphone Deals: WH-1000XM5 and More (2026)](https://www.wired.com/story/sony-headphone-deals-september-2026/)
   - [The 42 Best Deals From the REI Labor Day Sale](https://www.wired.com/story/rei-labor-day-sale-2026/)
   - [The Range Rover Electric: Specs, Price, Availability](https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/)
 - 不安全
@@ -205,6 +219,7 @@
   - [13 年前被喷爆的 XBOX 功能，怎么成了游戏光盘最后的救命稻草？](https://www.ifanr.com/1677973?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位](https://www.ifanr.com/1678079?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜戴森发布499美元AI牙刷,带摄像头/华为、小米、荣耀手机集体涨价/最强模型Fable 5.1发布](https://www.ifanr.com/1678080?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [李飞飞的 World Labs，把赛博朋克的「超梦」做出来了](https://www.ifanr.com/1678150?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线](https://www.qbitai.com/2026/09/482652.html)
   - [李飞飞发布：全球首个多模态世界模型](https://www.qbitai.com/2026/09/482586.html)
@@ -217,4 +232,5 @@
   - [X平台推出钱包功能后 用户被黑客盯上](https://blog.upx8.com/X%E5%B9%B3%E5%8F%B0%E6%8E%A8%E5%87%BA%E9%92%B1%E5%8C%85%E5%8A%9F%E8%83%BD%E5%90%8E-%E7%94%A8%E6%88%B7%E8%A2%AB%E9%BB%91%E5%AE%A2%E7%9B%AF%E4%B8%8A)
   - [强调性价比！Anthropic上新Fable 5.1](https://blog.upx8.com/%E5%BC%BA%E8%B0%83%E6%80%A7%E4%BB%B7%E6%AF%94-Anthropic%E4%B8%8A%E6%96%B0Fable-5-1)
   - [苹果新任CEO特努斯、董事长库克薪酬曝光](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%BB%BBCEO%E7%89%B9%E5%8A%AA%E6%96%AF-%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BA%93%E5%85%8B%E8%96%AA%E9%85%AC%E6%9B%9D%E5%85%89)
+  - [谷歌被曝本周推出Gemini 3.8 Flash模型](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E8%A2%AB%E6%9B%9D%E6%9C%AC%E5%91%A8%E6%8E%A8%E5%87%BAGemini-3-8-Flash%E6%A8%A1%E5%9E%8B)
   - [非法流媒体播放每年给英国造成14亿英镑损失](https://blog.upx8.com/%E9%9D%9E%E6%B3%95%E6%B5%81%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE%E6%AF%8F%E5%B9%B4%E7%BB%99%E8%8B%B1%E5%9B%BD%E9%80%A0%E6%88%9014%E4%BA%BF%E8%8B%B1%E9%95%91%E6%8D%9F%E5%A4%B1)
