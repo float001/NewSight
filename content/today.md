@@ -7,7 +7,9 @@
   - [Claude： 改变 Messages API 处理思考块的方式以防止蒸馏](https://2libra.com/post/ai-companies/O8kteBL)
   - [【兑换码】9 月开门红！ 1 亿+住宅 IP 免费领，动态低至$0.55/GB](https://2libra.com/post/promotion/hICYhTA)
   - [【投票】表态考虑加入自定义表情吗](https://2libra.com/post/forum-function/Fz3TjJG)
+  - [【💰】我又来了，求助各位有经验人士](https://2libra.com/post/recommendations/Er-y2J8)
   - [【🔒】走过路有，不要错过，竞拍一个雍禾防脱洗发水](https://2libra.com/post/second-hand/pOcGduN)
+  - [公积金要入市了吗？](https://2libra.com/post/social-observation/_9daHTI)
   - [前排打手新鲜出炉，但这消耗感觉不合理](https://2libra.com/post/forum-function/FCZSMLs)
   - [小程序个人开发者可以申请虚拟支付了](https://2libra.com/post/sharing-discoveries/pC10XU6)
   - [广州这两天的风有些许凉意](https://2libra.com/post/personal-life/9OE6I18)
@@ -15,7 +17,9 @@
   - [教师节该送什么？](https://2libra.com/post/recommendations/nHwu0fn)
   - [新一轮的“梓涵”“子轩”来了，这次是“奕辰”和“一诺”](https://2libra.com/post/social-observation/FYWSS6b)
   - [最近几年我发现我休班没啥感觉，反而请假回去的路上是最开心的，不知道你们有这种感觉吗](https://2libra.com/post/workplace-stories/fXPgXfx)
+  - [活人让尿憋死了](https://2libra.com/post/workplace-stories/De-AZo1)
   - [烧饼站是咋了，怎么打不开](https://2libra.com/post/midlife-support-club/2enqS3L)
+  - [花了 15 元用 glm5.3 flash 做了个小游戏，大家玩玩看](https://2libra.com/post/personal-works/Ab_FR2Q)
 - Ars Technica
   - [CDC reported then deleted two measles deaths that were questioned by RFK Jr.](https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/)
 - buttondown.com/hillelwayne
@@ -74,6 +78,8 @@
   - [How AI plotted an interstellar journey to Alpha Centauri](https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/)
 - NVIDIA AI Blog
   - [NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier](https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/)
+- Product Hunt
+  - [Doop](https://www.producthunt.com/products/doop)
 - rtl-sdr.com
   - [PZSDR: New AMD Zync Ultrascale Based SDR Crowd Funding on Crowd Supply](https://www.rtl-sdr.com/pzsdr-new-amd-zync-ultrascale-based-sdr-crowd-funding-on-crowd-supply/)
 - simonwillison.net
@@ -140,6 +146,7 @@
   - [Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1)
   - [Apple accuses OpenAI of destroying evidence](https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit)
   - [Apple Maps follows Google in renaming Lake Ontario](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming)
+  - [Dell’s newest laptop sounds a lot like a MacBook Neo](https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs)
   - [Google needs Hollywood more than the studios need AI](https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai)
   - [John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;](https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo)
   - [On first listen, the Sonos Beam Ultra sounds great](https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen)
@@ -159,6 +166,8 @@
   - [reconftw v5.0.0-beta.1](https://buaq.net/go-439336.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [苹果地图在 Google 地图之后将安大略湖更名为美国湖](https://www.solidot.org/story?sid=85258)
 - 爱范儿
   - [13 年前被喷爆的 XBOX 功能，怎么成了游戏光盘最后的救命稻草？](https://www.ifanr.com/1677973?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜戴森发布499美元AI牙刷,带摄像头/华为、小米、荣耀手机集体涨价/最强模型Fable 5.1发布](https://www.ifanr.com/1678080?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -167,6 +176,7 @@
   - [李飞飞发布：全球首个多模态世界模型](https://www.qbitai.com/2026/09/482586.html)
   - [香港首个真实开放场景服务机器人落地兰桂坊](https://www.qbitai.com/2026/09/482855.html)
 - 黑海洋
+  - [Qwen3.8-Max-0902 Web编码能力超越 Claude，登顶 Code Arena: WebDev 榜首](https://blog.upx8.com/Qwen3-8-Max-0902-Web%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B%E8%B6%85%E8%B6%8A-Claude-%E7%99%BB%E9%A1%B6-Code-Arena-WebDev-%E6%A6%9C%E9%A6%96)
   - [X平台推出钱包功能后 用户被黑客盯上](https://blog.upx8.com/X%E5%B9%B3%E5%8F%B0%E6%8E%A8%E5%87%BA%E9%92%B1%E5%8C%85%E5%8A%9F%E8%83%BD%E5%90%8E-%E7%94%A8%E6%88%B7%E8%A2%AB%E9%BB%91%E5%AE%A2%E7%9B%AF%E4%B8%8A)
   - [强调性价比！Anthropic上新Fable 5.1](https://blog.upx8.com/%E5%BC%BA%E8%B0%83%E6%80%A7%E4%BB%B7%E6%AF%94-Anthropic%E4%B8%8A%E6%96%B0Fable-5-1)
   - [苹果新任CEO特努斯、董事长库克薪酬曝光](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%BB%BBCEO%E7%89%B9%E5%8A%AA%E6%96%AF-%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BA%93%E5%85%8B%E8%96%AA%E9%85%AC%E6%9B%9D%E5%85%89)
