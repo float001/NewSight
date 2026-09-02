@@ -27,9 +27,12 @@
   - [Crypto-backed PAC scales back ad spending in Massachusetts primary](https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethena launches USDe payments app, offers 6% rewards](https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B](https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi issues first lifetime ban for Republican politician over insider bets](https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC proposes broad update to decades-old transfer agent rules with blockchain nod](https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK crime agency froze $13.5M amid probe into Premier League crypto sponsor](https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daniel.haxx.se
+  - [curl 8.22.0](https://daniel.haxx.se/blog/2026/09/02/curl-8-22-0/)
 - daringfireball.net
   - [Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/)
   - [Tim Cook’s Departure Memo on His Last Day as CEO](https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/)
@@ -56,6 +59,15 @@
   - [A Single Canadian Tax Lure Spread into a 46-Country, US-First RMM Campaign](https://hackernoon.com/a-single-canadian-tax-lure-spread-into-a-46-country-us-first-rmm-campaign?source=rss)
 - IEEE Spectrum
   - [IEEE President’s Note: Technology for Social Good](https://spectrum.ieee.org/president-ieee-note-september-2026)
+- InfoSec Write-ups - Medium
+  - [1-Click ATO Via Host Header Injection: Exploiting Password Reset Poisoning.](https://infosecwriteups.com/1-click-ato-via-host-header-injection-exploiting-password-reset-poisoning-2da6fee32402?source=rss----7b722bfd1b8d---4)
+  - [Access Control Vulnerabilities: Unprotected Admin Functionality with Unpredictable URL](https://infosecwriteups.com/access-control-vulnerabilities-unprotected-admin-functionality-with-unpredictable-url-1a3436277906?source=rss----7b722bfd1b8d---4)
+  - [Android App RCE via Dynamic Code Loading](https://infosecwriteups.com/android-app-rce-via-dynamic-code-loading-c333fffd0c87?source=rss----7b722bfd1b8d---4)
+  - [Challenge 2: Cotton Candy](https://infosecwriteups.com/challenge-2-cotton-candy-49391942df39?source=rss----7b722bfd1b8d---4)
+  - [Hiding a Signup Button Isn’t Security: From Client-Side Controls to Cross-Tenant Data Exposure](https://infosecwriteups.com/hiding-a-signup-button-isnt-security-from-client-side-controls-to-cross-tenant-data-exposure-7df0aefe37d5?source=rss----7b722bfd1b8d---4)
+  - [PortSwigger Web Security Academy Walkthrough: User Role Can Be Modified in User Profile](https://infosecwriteups.com/portswigger-web-security-academy-walkthrough-user-role-can-be-modified-in-user-profile-b706bbd0eae4?source=rss----7b722bfd1b8d---4)
+  - [The $8,000 Shortcut: Hijacking Microsoft Edge via NTFS Directory Junctions](https://infosecwriteups.com/the-8-000-shortcut-hijacking-microsoft-edge-via-ntfs-directory-junctions-087e5fdf8c9d?source=rss----7b722bfd1b8d---4)
+  - [Windows Incident Surface | TryHackMe](https://infosecwriteups.com/windows-incident-surface-tryhackme-dd574d479777?source=rss----7b722bfd1b8d---4)
 - krebsonsecurity.com
   - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 - MIT Technology Review
@@ -66,6 +78,7 @@
   - [PZSDR: New AMD Zync Ultrascale Based SDR Crowd Funding on Crowd Supply](https://www.rtl-sdr.com/pzsdr-new-amd-zync-ultrascale-based-sdr-crowd-funding-on-crowd-supply/)
 - simonwillison.net
   - [Claude Fable 5.1 made me a really nice animated pelican](https://simonwillison.net/2026/Sep/1/claude-fable-5-1/)
+  - [Quoting Rick Brewster](https://simonwillison.net/2026/Sep/2/rick-brewster/)
 - Sploitus.com Exploits RSS Feed
   - [AgentMemshell exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FIGHTINGLZN9-AGENTMEMSHELL&utm_source=rss&utm_medium=rss)
   - [BridgeHead exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZAKIPEDIO-BRIDGEHEAD&utm_source=rss&utm_medium=rss)
@@ -130,6 +143,7 @@
   - [Google needs Hollywood more than the studios need AI](https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai)
   - [John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;](https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo)
   - [On first listen, the Sonos Beam Ultra sounds great](https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen)
+  - [This new Roomba seals itself to your carpet](https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced)
   - [Tim Cook did alright by the environment — but AI could upend his climate legacy](https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy)
 - troyhunt.com
   - [Weekly Update 519: Breaches & Data Integrity](https://www.troyhunt.com/weekly-update-519/)
@@ -153,6 +167,7 @@
   - [李飞飞发布：全球首个多模态世界模型](https://www.qbitai.com/2026/09/482586.html)
   - [香港首个真实开放场景服务机器人落地兰桂坊](https://www.qbitai.com/2026/09/482855.html)
 - 黑海洋
+  - [X平台推出钱包功能后 用户被黑客盯上](https://blog.upx8.com/X%E5%B9%B3%E5%8F%B0%E6%8E%A8%E5%87%BA%E9%92%B1%E5%8C%85%E5%8A%9F%E8%83%BD%E5%90%8E-%E7%94%A8%E6%88%B7%E8%A2%AB%E9%BB%91%E5%AE%A2%E7%9B%AF%E4%B8%8A)
   - [强调性价比！Anthropic上新Fable 5.1](https://blog.upx8.com/%E5%BC%BA%E8%B0%83%E6%80%A7%E4%BB%B7%E6%AF%94-Anthropic%E4%B8%8A%E6%96%B0Fable-5-1)
   - [苹果新任CEO特努斯、董事长库克薪酬曝光](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%BB%BBCEO%E7%89%B9%E5%8A%AA%E6%96%AF-%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BA%93%E5%85%8B%E8%96%AA%E9%85%AC%E6%9B%9D%E5%85%89)
   - [非法流媒体播放每年给英国造成14亿英镑损失](https://blog.upx8.com/%E9%9D%9E%E6%B3%95%E6%B5%81%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE%E6%AF%8F%E5%B9%B4%E7%BB%99%E8%8B%B1%E5%9B%BD%E9%80%A0%E6%88%9014%E4%BA%BF%E8%8B%B1%E9%95%91%E6%8D%9F%E5%A4%B1)
