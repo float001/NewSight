@@ -3,13 +3,19 @@
 - 2Libra
   - [9 月 2 日微语报，星期三，农历七月廿一，工作愉快，生活喜乐！](https://2libra.com/post/social-observation/kimQvyH)
   - [9 月 2 日资本市场大事提醒](https://2libra.com/post/stock-market/WNxA8-6)
+  - [claude fable 5.1 发布了](https://2libra.com/post/ai-tools/My2CXVt)
   - [Claude： 改变 Messages API 处理思考块的方式以防止蒸馏](https://2libra.com/post/ai-companies/O8kteBL)
   - [【兑换码】9 月开门红！ 1 亿+住宅 IP 免费领，动态低至$0.55/GB](https://2libra.com/post/promotion/hICYhTA)
+  - [【投票】表态考虑加入自定义表情吗](https://2libra.com/post/forum-function/Fz3TjJG)
   - [【🔒】走过路有，不要错过，竞拍一个雍禾防脱洗发水](https://2libra.com/post/second-hand/pOcGduN)
   - [前排打手新鲜出炉，但这消耗感觉不合理](https://2libra.com/post/forum-function/FCZSMLs)
   - [小程序个人开发者可以申请虚拟支付了](https://2libra.com/post/sharing-discoveries/pC10XU6)
   - [广州这两天的风有些许凉意](https://2libra.com/post/personal-life/9OE6I18)
+  - [想请问一下，在哪里能买到号池](https://2libra.com/post/ai-gateway/wO7PAOt)
+  - [教师节该送什么？](https://2libra.com/post/recommendations/nHwu0fn)
   - [新一轮的“梓涵”“子轩”来了，这次是“奕辰”和“一诺”](https://2libra.com/post/social-observation/FYWSS6b)
+  - [最近几年我发现我休班没啥感觉，反而请假回去的路上是最开心的，不知道你们有这种感觉吗](https://2libra.com/post/workplace-stories/fXPgXfx)
+  - [烧饼站是咋了，怎么打不开](https://2libra.com/post/midlife-support-club/2enqS3L)
 - Ars Technica
   - [CDC reported then deleted two measles deaths that were questioned by RFK Jr.](https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/)
 - buttondown.com/hillelwayne
@@ -105,6 +111,7 @@
 - The Block
   - [Buying memecoins with credit cards on Robinhood Wallet and Fomo appears to sidestep card-network crypto rules](https://www.theblock.co/news/business/2026-09-01-buying-memecoins-with-credit-cards-on-robinhood-wallet-fomo-sidestep-card-network-crypto-rules-411911)
   - [Crypto treasury companies hit $340 billion market cap as altcoin DATs outperform](https://www.theblock.co/news/markets/2026-09-01-crypto-treasury-companies-hit-340-billion-market-cap-as-altcoin-dats-outperform-413142)
+  - [Hyperliquid Strategies expands equity facility to $2.5 billion from $1 billion](https://www.theblock.co/news/business/2026-09-01-hyperliquid-strategies-expands-equity-facility-413304)
   - [SEC seeks to update its 1970s-era transfer agent rules for the blockchain age](https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278)
 - The Decoder
   - [Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others](https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/)
@@ -126,6 +133,9 @@
   - [Best Amazon Labor Day Deals (2026): Sony, Shark, Anker](https://www.wired.com/story/amazon-labor-day-deals-2026/)
   - [The Range Rover Electric: Specs, Price, Availability](https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/)
 - 不安全
+  - [13 个恶意 Packagist 包针对未打补丁的 iPhone 窃取加密货币钱包种子](https://buaq.net/go-439358.html)
+  - [bitbang-cli v0.5.0](https://buaq.net/go-439354.html)
+  - [Breeze Comet 通过巴西支付系统执行数百笔欺诈交易](https://buaq.net/go-439357.html)
   - [reconftw v5.0.0-beta.1](https://buaq.net/go-439336.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
