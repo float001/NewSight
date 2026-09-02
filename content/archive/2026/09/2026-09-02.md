@@ -14,6 +14,7 @@
   - [公积金要入市了吗？](https://2libra.com/post/social-observation/_9daHTI)
   - [关于下午 4 点后](https://2libra.com/post/office-life/-Y-BSvN)
   - [前排打手新鲜出炉，但这消耗感觉不合理](https://2libra.com/post/forum-function/FCZSMLs)
+  - [劳累一天后，睡前听一会歌](https://2libra.com/post/small-things/UvA9aMP)
   - [小程序个人开发者可以申请虚拟支付了](https://2libra.com/post/sharing-discoveries/pC10XU6)
   - [广州这两天的风有些许凉意](https://2libra.com/post/personal-life/9OE6I18)
   - [想请问一下，在哪里能买到号池](https://2libra.com/post/ai-gateway/wO7PAOt)
@@ -29,6 +30,7 @@
   - [Podcast: We Spoke to an Amazon Worker Destroying Books for AI](https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/)
 - Ars Technica
   - [CDC reported then deleted two measles deaths that were questioned by RFK Jr.](https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/)
+  - [Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84](https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/)
 - buttondown.com/hillelwayne
   - [New Post: A Crash Course in Predicate Logic](https://buttondown.com/hillelwayne/archive/new-post-a-crash-course-in-predicate-logic/)
 - CoinTelegraph
@@ -71,6 +73,7 @@
 - Hacker News Frontpage
   - [A Beginner's Deep Dive Guide to Entra Passkeys](https://emsroute.com/2026/03/19/passkeys-beginners-101/)
   - [A Note from LWN](https://lwn.net/Articles/1090585/)
+  - [Exit the Cave](https://turtlespace.blog/p/exit-the-cave)
   - [Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)
   - [Improving our alignment and security efforts](https://www.anthropic.com/news/improving-alignment-security-efforts)
   - [Just Bury Your Trash](https://www.worksinprogress.news/p/just-bury-your-trash)
@@ -100,6 +103,7 @@
   - [Gambling Goblin Turns Brazilian Government Sites Into SEO Weapons](https://www.infosecurity-magazine.com/news/gambling-goblin-brazilian/)
   - [Hackers Chain Two New SonicWall Zero-Day Vulnerabilities](https://www.infosecurity-magazine.com/news/hackers-chain-sonicwall-zeroday/)
   - [Nutex Health Says Patient Data Stolen, Hackers Threaten Leak](https://www.infosecurity-magazine.com/news/nutex-patient-data-stolen/)
+  - [Russian Man Extradited Over Malware Campaign Targeting Freelancers](https://www.infosecurity-magazine.com/news/russian-man-extradited-malware/)
 - krebsonsecurity.com
   - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 - MIT Technology Review
@@ -121,6 +125,7 @@
   - [PZSDR: New AMD Zync Ultrascale Based SDR Crowd Funding on Crowd Supply](https://www.rtl-sdr.com/pzsdr-new-amd-zync-ultrascale-based-sdr-crowd-funding-on-crowd-supply/)
 - simonwillison.net
   - [Claude Fable 5.1 made me a really nice animated pelican](https://simonwillison.net/2026/Sep/1/claude-fable-5-1/)
+  - [Claude's new system prompt really doesn't want to reproduce song lyrics](https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/)
   - [Quoting Rick Brewster](https://simonwillison.net/2026/Sep/2/rick-brewster/)
 - Sploitus.com Exploits RSS Feed
   - [AgentMemshell exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FIGHTINGLZN9-AGENTMEMSHELL&utm_source=rss&utm_medium=rss)
@@ -161,11 +166,13 @@
   - [ChatGPT Health adds Epic integration for clinicians to import patient data](https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/)
   - [Google’s Android update tackles motion sickness, accessibility, and more](https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/)
   - [Google’s answer to Canva is an AI tool where you prompt instead of design](https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/)
+  - [HiddenLayer nabs $100M as enterprises rush to secure their AI deployments](https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/)
   - [John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO](https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/)
   - [Larry Page’s flying car company Pivotal loses its CEO](https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/)
   - [Norway considers ban on camera-enabled wearable ‘pervert glasses’](https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/)
   - [Open AI’s Astra model is on the way—and very good at breaking into computer systems](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/)
   - [OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting](https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/)
+  - [PSA: Amazon’s shopping AI can now tell you if that message is a scam](https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/)
   - [Reliance’s JioHotstar takes its streaming empire global — without sports](https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/)
   - [Sequoia-incubated Empirik launches with $21M to predict outages before they happen](https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/)
   - [Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer](https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/)
@@ -189,6 +196,9 @@
   - [Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less](https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/)
   - [Google Deepmind's new chief says frontier AI leadership is the only thing that matters](https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/)
   - [Google Gemini's new agent-based video analysis cuts token usage by up to 88 percent](https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/)
+  - [OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder](https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/)
+  - [Protests against AI data centers play into China's hands, Trump says](https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/)
+  - [US military adds ChatGPT and Grok to AI platform GenAI.mil](https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/)
   - [World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos](https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/)
 - The Verge
   - [Acer’s new concept hardware is a gaming handheld with a keyboard](https://www.theverge.com/games/988029/acer-project-dualplay-mini-concept-gaming-handheld-keyboard-ifa)
@@ -196,19 +206,25 @@
   - [Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1)
   - [Apple accuses OpenAI of destroying evidence](https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit)
   - [Apple Maps follows Google in renaming Lake Ontario](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming)
+  - [Belkin’s kid-friendly wireless headphones are 25 percent off](https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale)
   - [Dell’s newest laptop sounds a lot like a MacBook Neo](https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs)
   - [Elon Musk’s heterodox robotaxi philosophy gets put to the test](https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar)
   - [Google needs Hollywood more than the studios need AI](https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai)
   - [Is this the future of America?](https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash)
   - [John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;](https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo)
   - [Microsoft is enabling a Windows 11 security feature that can hurt gaming performance](https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026)
+  - [NYC bans AI use for students until they reach high school](https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban)
   - [On first listen, the Sonos Beam Ultra sounds great](https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen)
+  - [OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits](https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting)
+  - [Tado’s new thermostat is designed as a Nest killer](https://www.theverge.com/tech/987888/tado-smart-thermostat-x-2nd-gen-launch-google-nest)
   - [The amazing USB-C gadgets that play old Nintendo cartridges](https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes)
   - [The robot butler dream doesn’t have legs](https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa)
   - [This new Roomba seals itself to your carpet](https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced)
   - [Tim Cook did alright by the environment — but AI could upend his climate legacy](https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy)
 - troyhunt.com
   - [Weekly Update 519: Breaches & Data Integrity](https://www.troyhunt.com/weekly-update-519/)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Anatomy of a Silent Domain Takeover](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
   - [CVE-2026-13608](https://vulners.com/cve/CVE-2026-13608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18924](https://vulners.com/cve/CVE-2026-18924?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -243,13 +259,17 @@
   - [bitbang-cli v0.5.0](https://buaq.net/go-439354.html)
   - [Breeze Comet 通过巴西支付系统执行数百笔欺诈交易](https://buaq.net/go-439357.html)
   - [CTEM Is Not About the Stages. It’s About the Outcome.](https://buaq.net/go-439480.html)
+  - [kubescape v4.0.13](https://buaq.net/go-439517.html)
   - [reconftw v5.0.0-beta.1](https://buaq.net/go-439336.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [苹果地图在 Google 地图之后将安大略湖更名为美国湖](https://www.solidot.org/story?sid=85258)
+- 安全客
+  - [Fable 5.1 发布几小时就被"扒光"：27万字提示词泄露，暴露了AI行业最大的软肋](https://www.anquanke.com/post/id/316063)
 - 爱范儿
   - [13 年前被喷爆的 XBOX 功能，怎么成了游戏光盘最后的救命稻草？](https://www.ifanr.com/1677973?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [50.98 万元！新理想 MEGA 发布：前两排零重力座椅，加入后轮转向，还要推出右舵版](https://www.ifanr.com/1678181?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位](https://www.ifanr.com/1678079?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜戴森发布499美元AI牙刷,带摄像头/华为、小米、荣耀手机集体涨价/最强模型Fable 5.1发布](https://www.ifanr.com/1678080?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [李飞飞的 World Labs，把赛博朋克的「超梦」做出来了](https://www.ifanr.com/1678150?utm_source=rss&utm_medium=rss&utm_campaign=)
