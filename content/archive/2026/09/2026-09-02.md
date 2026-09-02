@@ -26,6 +26,7 @@
   - [New Post: A Crash Course in Predicate Logic](https://buttondown.com/hillelwayne/archive/new-post-a-crash-course-in-predicate-logic/)
 - CoinTelegraph
   - [Binance expands TradFi push with options on 1,000 US stocks, ETFs](https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August](https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch](https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Core DAO plans emergency hard fork after validators drew excess rewards](https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto-backed PAC scales back ad spending in Massachusetts primary](https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -154,6 +155,25 @@
   - [Tim Cook did alright by the environment — but AI could upend his climate legacy](https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy)
 - troyhunt.com
   - [Weekly Update 519: Breaches & Data Integrity](https://www.troyhunt.com/weekly-update-519/)
+- Vulners.com RSS Feed
+  - [CVE-2026-13608](https://vulners.com/cve/CVE-2026-13608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18924](https://vulners.com/cve/CVE-2026-18924?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19931](https://vulners.com/cve/CVE-2026-19931?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-80229](https://vulners.com/cve/CVE-2026-80229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-80230](https://vulners.com/cve/CVE-2026-80230?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-80231](https://vulners.com/cve/CVE-2026-80231?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-80255](https://vulners.com/cve/CVE-2026-80255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82208](https://vulners.com/cve/CVE-2026-82208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82209](https://vulners.com/cve/CVE-2026-82209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [domain-scoped PSL domain cookie](https://vulners.com/curl/CURL:CVE-2026-82209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [HTTP/2 server push UAF](https://vulners.com/curl/CURL:CVE-2026-18924?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [native CA store conn reuse](https://vulners.com/curl/CURL:CVE-2026-80231?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Negotiate ambient user conn reuse](https://vulners.com/curl/CURL:CVE-2026-19931?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenLDAP SASL authentication bypass](https://vulners.com/curl/CURL:CVE-2026-13608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenSSL pinning bypass](https://vulners.com/curl/CURL:CVE-2026-80230?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OpenSSL provider use-after-free](https://vulners.com/curl/CURL:CVE-2026-80229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [secure cookie attribute bypass with tab](https://vulners.com/curl/CURL:CVE-2026-80255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [wolfSSL CA-cache hit overrides callback](https://vulners.com/curl/CURL:CVE-2026-82208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Hyperscale Normalization](https://www.wheresyoured.at/hyperscale-normalization/)
 - Wired
@@ -170,13 +190,17 @@
   - [苹果地图在 Google 地图之后将安大略湖更名为美国湖](https://www.solidot.org/story?sid=85258)
 - 爱范儿
   - [13 年前被喷爆的 XBOX 功能，怎么成了游戏光盘最后的救命稻草？](https://www.ifanr.com/1677973?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位](https://www.ifanr.com/1678079?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜戴森发布499美元AI牙刷,带摄像头/华为、小米、荣耀手机集体涨价/最强模型Fable 5.1发布](https://www.ifanr.com/1678080?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线](https://www.qbitai.com/2026/09/482652.html)
   - [李飞飞发布：全球首个多模态世界模型](https://www.qbitai.com/2026/09/482586.html)
   - [香港首个真实开放场景服务机器人落地兰桂坊](https://www.qbitai.com/2026/09/482855.html)
+- 阿小信的博客
+  - [GEO 与 SEO：从排名到引用的工程化实践](https://blog.axiaoxin.com/post/geo-and-seo/)
 - 黑海洋
   - [Qwen3.8-Max-0902 Web编码能力超越 Claude，登顶 Code Arena: WebDev 榜首](https://blog.upx8.com/Qwen3-8-Max-0902-Web%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B%E8%B6%85%E8%B6%8A-Claude-%E7%99%BB%E9%A1%B6-Code-Arena-WebDev-%E6%A6%9C%E9%A6%96)
+  - [TCL将三星告上美国法庭：低价电视涉嫌冒充Mini LED](https://blog.upx8.com/TCL%E5%B0%86%E4%B8%89%E6%98%9F%E5%91%8A%E4%B8%8A%E7%BE%8E%E5%9B%BD%E6%B3%95%E5%BA%AD-%E4%BD%8E%E4%BB%B7%E7%94%B5%E8%A7%86%E6%B6%89%E5%AB%8C%E5%86%92%E5%85%85Mini-LED)
   - [X平台推出钱包功能后 用户被黑客盯上](https://blog.upx8.com/X%E5%B9%B3%E5%8F%B0%E6%8E%A8%E5%87%BA%E9%92%B1%E5%8C%85%E5%8A%9F%E8%83%BD%E5%90%8E-%E7%94%A8%E6%88%B7%E8%A2%AB%E9%BB%91%E5%AE%A2%E7%9B%AF%E4%B8%8A)
   - [强调性价比！Anthropic上新Fable 5.1](https://blog.upx8.com/%E5%BC%BA%E8%B0%83%E6%80%A7%E4%BB%B7%E6%AF%94-Anthropic%E4%B8%8A%E6%96%B0Fable-5-1)
   - [苹果新任CEO特努斯、董事长库克薪酬曝光](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%BB%BBCEO%E7%89%B9%E5%8A%AA%E6%96%AF-%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BA%93%E5%85%8B%E8%96%AA%E9%85%AC%E6%9B%9D%E5%85%89)
