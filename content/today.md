@@ -132,7 +132,9 @@
 - 爱范儿
   - [早报｜戴森发布499美元AI牙刷,带摄像头/华为、小米、荣耀手机集体涨价/最强模型Fable 5.1发布](https://www.ifanr.com/1678080?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线](https://www.qbitai.com/2026/09/482652.html)
   - [李飞飞发布：全球首个多模态世界模型](https://www.qbitai.com/2026/09/482586.html)
+  - [香港首个真实开放场景服务机器人落地兰桂坊](https://www.qbitai.com/2026/09/482855.html)
 - 黑海洋
   - [强调性价比！Anthropic上新Fable 5.1](https://blog.upx8.com/%E5%BC%BA%E8%B0%83%E6%80%A7%E4%BB%B7%E6%AF%94-Anthropic%E4%B8%8A%E6%96%B0Fable-5-1)
   - [苹果新任CEO特努斯、董事长库克薪酬曝光](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%BB%BBCEO%E7%89%B9%E5%8A%AA%E6%96%AF-%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BA%93%E5%85%8B%E8%96%AA%E9%85%AC%E6%9B%9D%E5%85%89)
