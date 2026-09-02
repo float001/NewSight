@@ -1,17 +1,23 @@
 # 今日安全资讯（2026-09-03）
 
+- 404 Media
+  - [How the Hell Did an Island Suddenly Appear, Then Vanish?](https://www.404media.co/how-the-hell-did-an-island-suddenly-appear-then-vanish/)
 - Ars Technica
   - [US court rules Google will not have to sell ad exchange after losing antitrust case](https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/)
 - CoinTelegraph
   - [Bitcoin’s apparent demand turns negative as price struggles with $77K](https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [New Jersey officials petition US Supreme Court over prediction markets](https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ondo urges SEC, CFTC to bring US stock perpetuals onshore](https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Wyoming adds Chainlink reserve verification to state-issued stable token](https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
   - [Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users](https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users)
 - Emergent Minds | paddo.dev
   - [A Dial Worth Turning: Claude Opus 5's Prose, and the Style Guide Anthropic Wrote Against Its Own Model](https://paddo.dev/blog/a-dial-worth-turning/)
 - Hacker News Frontpage
+  - [Firefox's AI Switch Is Off. Telemetry Isn't](https://marius.blog/firefox-155-ai-kill-switch-retest/)
   - [Saving money on Google Photos with Immich: Your own personal photo storage](https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/)
   - [Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x](https://frontierharness.org)
+  - [Why do so many tools have JSON config files?](https://textlog.cc/post/895)
 - IEEE Spectrum
   - [NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone](https://spectrum.ieee.org/canadarm-ieee-300th-milestone)
 - Publications | Outflank
@@ -26,15 +32,23 @@
 - The Block
   - [Arbitrum DAO reports $6.2 million in first-half income as Robinhood Chain adds new revenue stream](https://www.theblock.co/news/ecosystems/2026-09-02-arbitrum-dao-reports-6-2-million-first-half-income-robinhood-chain-adds-new-revenue-stream-413345)
   - [Memecoin shenanigans spill into Nasdaq as microcap mushroom seller Farmmi surges 350%](https://www.theblock.co/news/markets/2026-09-02-memecoin-shenanigans-nasdaq-microcap-mushroom-seller-farmmi-413374)
+  - [New Jersey asks Supreme Court to decide who regulates sports betting on prediction markets](https://www.theblock.co/news/regulation/2026-09-02-new-jersey-asks-supreme-court-to-decide-who-regulates-sports-betting-on-prediction-markets-413398)
   - [Securitize and Socios team up to tokenize equity in pro sports teams](https://www.theblock.co/news/ecosystems/2026-09-02-securitize-and-socios-team-up-to-tokenize-equity-in-pro-sports-teams-413378)
   - [World open-sources ProveKit, a zero-knowledge identity proving toolkit](https://www.theblock.co/news/ecosystems/2026-09-02-world-provekit-zero-knowledge-identity-proving-toolkit-413364)
 - The Decoder
   - [Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA](https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/)
+  - [US Department of Justice backs fair use for AI training in landmark copyright case](https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/)
 - The Verge
+  - [1Password wades into a right-wing mess after funding a Linux project](https://www.theverge.com/tech/988536/1password-dhh-linux-controversy)
   - [Amazon’s AI assistant can now spot fake emails from the company](https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails)
+  - [Here are some of REI’s best Labor Day sale deals](https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026)
   - [Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing](https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs)
   - [Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release](https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety)
   - [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones)
   - [The Trump administration is supporting OpenAI in the NYT copyright lawsuit](https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit)
+- Wired
+  - [ICE Plans to Pay $5 Million to Create National Voting Database](https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/)
+  - [These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words](https://www.wired.com/story/russian-startup-mostik-ai-models-communication/)
+  - [Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit](https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
