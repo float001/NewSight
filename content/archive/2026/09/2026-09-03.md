@@ -7,19 +7,31 @@
   - [Ondo urges SEC, CFTC to bring US stock perpetuals onshore](https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
   - [Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users](https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users)
+- Emergent Minds | paddo.dev
+  - [A Dial Worth Turning: Claude Opus 5's Prose, and the Style Guide Anthropic Wrote Against Its Own Model](https://paddo.dev/blog/a-dial-worth-turning/)
 - Hacker News Frontpage
   - [Saving money on Google Photos with Immich: Your own personal photo storage](https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/)
   - [Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x](https://frontierharness.org)
+- IEEE Spectrum
+  - [NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone](https://spectrum.ieee.org/canadarm-ieee-300th-milestone)
+- Publications | Outflank
+  - [Red Team AI Skills](https://www.outflank.nl/blog/2026/09/02/red-team-ai-skills/)
 - TechCrunch
   - [Enhanced geothermal notches another win as Google buys 400 MW from Fervo](https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/)
   - [India’s richest man now wants to turn aging computers into AI-ready PCs](https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/)
+  - [Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’](https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/)
+  - [US government sides with OpenAI on issue of training LLMs on copyrighted material](https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/)
   - [Wonderful more than doubles its valuation to $5B in under 6 months](https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/)
+  - [X shifts US creator payouts from Stripe to X Money](https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/)
 - The Block
   - [Arbitrum DAO reports $6.2 million in first-half income as Robinhood Chain adds new revenue stream](https://www.theblock.co/news/ecosystems/2026-09-02-arbitrum-dao-reports-6-2-million-first-half-income-robinhood-chain-adds-new-revenue-stream-413345)
+  - [Memecoin shenanigans spill into Nasdaq as microcap mushroom seller Farmmi surges 350%](https://www.theblock.co/news/markets/2026-09-02-memecoin-shenanigans-nasdaq-microcap-mushroom-seller-farmmi-413374)
+  - [Securitize and Socios team up to tokenize equity in pro sports teams](https://www.theblock.co/news/ecosystems/2026-09-02-securitize-and-socios-team-up-to-tokenize-equity-in-pro-sports-teams-413378)
   - [World open-sources ProveKit, a zero-knowledge identity proving toolkit](https://www.theblock.co/news/ecosystems/2026-09-02-world-provekit-zero-knowledge-identity-proving-toolkit-413364)
 - The Decoder
   - [Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA](https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/)
 - The Verge
+  - [Amazon’s AI assistant can now spot fake emails from the company](https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails)
   - [Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing](https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs)
   - [Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release](https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety)
   - [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones)
