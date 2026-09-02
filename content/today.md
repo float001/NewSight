@@ -11,8 +11,10 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New Jersey officials petition US Supreme Court over prediction markets](https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ondo urges SEC, CFTC to bring US stock perpetuals onshore](https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US officials work with CrowdStrike to fight malware behind crypto theft](https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wyoming adds Chainlink reserve verification to state-issued stable token](https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
+  - [AI’s Vulnerability Surge May Be More Manageable Than First Feared](https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared)
   - [SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE](https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce)
   - [Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users](https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users)
 - Emergent Minds | paddo.dev
@@ -23,6 +25,8 @@
   - [Saving money on Google Photos with Immich: Your own personal photo storage](https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/)
   - [Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x](https://frontierharness.org)
   - [Why do so many tools have JSON config files?](https://textlog.cc/post/895)
+- HackerNoon
+  - [How to Solve AI Data Center Problems](https://hackernoon.com/how-to-solve-ai-data-center-problems?source=rss)
 - IEEE Spectrum
   - [Applying Different Forms of Mentorship](https://spectrum.ieee.org/forms-of-engineering-mentorship)
   - [NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone](https://spectrum.ieee.org/canadarm-ieee-300th-milestone)
@@ -49,6 +53,7 @@
 - TechCrunch
   - [Delivery Hero board backs Uber’s $15B takeover bid](https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/)
   - [Enhanced geothermal notches another win as Google buys 400 MW from Fervo](https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/)
+  - [Google spared from ad-business breakup, but judge orders changes to how it operates](https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/)
   - [India’s richest man now wants to turn aging computers into AI-ready PCs](https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/)
   - [It sure looks like hackers breached a major ID card verification service](https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/)
   - [MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming](https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/)
