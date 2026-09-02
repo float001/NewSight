@@ -25,6 +25,7 @@
   - [烧饼站是咋了，怎么打不开](https://2libra.com/post/midlife-support-club/2enqS3L)
   - [花了 15 元用 glm5.3 flash 做了个小游戏，大家玩玩看](https://2libra.com/post/personal-works/Ab_FR2Q)
 - 404 Media
+  - [Cops Are Asking Axon to Make Their Cameras Look Different From Flock So People Don't Destroy Them](https://www.404media.co/cops-are-asking-axon-to-make-their-cameras-look-different-from-flock-so-people-dont-destroy-them/)
   - [Podcast: We Spoke to an Amazon Worker Destroying Books for AI](https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/)
 - Ars Technica
   - [CDC reported then deleted two measles deaths that were questioned by RFK Jr.](https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/)
@@ -34,14 +35,17 @@
   - [Binance expands TradFi push with options on 1,000 US stocks, ETFs](https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August](https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch](https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead](https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Core DAO plans emergency hard fork after validators drew excess rewards](https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto industry urges SEC to avoid blanket novel ETF restrictions](https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto-backed PAC scales back ad spending in Massachusetts primary](https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethena launches USDe payments app, offers 6% rewards](https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Hashkey joins DTCC working group as first Asian crypto service provider](https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B](https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi issues first lifetime ban for Republican politician over insider bets](https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC proposes broad update to decades-old transfer agent rules with blockchain nod](https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Sui DeFi protocol Full Sail to wind down after Switchboard incident](https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Thailand adopts crypto Travel Rule with self-custodial wallet checks](https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK crime agency froze $13.5M amid probe into Premier League crypto sponsor](https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daniel.haxx.se
@@ -58,14 +62,18 @@
 - dfarq.homeip.net
   - [Atari Lynx: The first color handheld game console](https://dfarq.homeip.net/atari-lynx-the-first-color-handheld-game-console/?utm_source=rss&utm_medium=rss&utm_campaign=atari-lynx-the-first-color-handheld-game-console)
 - Emergent Minds | paddo.dev
+  - [The Cage Is in the Table Now: Claude Fable 5.1, Mythos 5.1, and the Five Points Safety Costs](https://paddo.dev/blog/fable-5-1-cage-in-the-table/)
   - [Tokens per Megawatt: OpenAI's Jalapeno Chip and Why Power Is Now the Price of Inference](https://paddo.dev/blog/tokens-per-megawatt/)
 - Google AI Blog
   - [The latest AI news we announced in August 2026](https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/)
 - Google DeepMind Blog
   - [Introducing agentic video understanding with Gemini](https://deepmind.google/blog/introducing-agentic-video-in-gemini/)
 - Hacker News Frontpage
+  - [A Beginner's Deep Dive Guide to Entra Passkeys](https://emsroute.com/2026/03/19/passkeys-beginners-101/)
+  - [A Note from LWN](https://lwn.net/Articles/1090585/)
   - [Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)
   - [Improving our alignment and security efforts](https://www.anthropic.com/news/improving-alignment-security-efforts)
+  - [Just Bury Your Trash](https://www.worksinprogress.news/p/just-bury-your-trash)
   - [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)
   - [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
   - [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
@@ -73,6 +81,8 @@
   - [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
 - HackerNoon
   - [A Single Canadian Tax Lure Spread into a 46-Country, US-First RMM Campaign](https://hackernoon.com/a-single-canadian-tax-lure-spread-into-a-46-country-us-first-rmm-campaign?source=rss)
+- Horizon3.ai
+  - [CTEM Is Not About the Stages. It’s About the Outcome.](https://horizon3.ai/intelligence/blogs/ctem-outcome-not-stages/)
 - IEEE Spectrum
   - [AI Efficiency Could Cost Us the Next Generation of Experts](https://spectrum.ieee.org/ai-engineer-skills)
   - [IEEE President’s Note: Technology for Social Good](https://spectrum.ieee.org/president-ieee-note-september-2026)
@@ -87,6 +97,7 @@
   - [Windows Incident Surface | TryHackMe](https://infosecwriteups.com/windows-incident-surface-tryhackme-dd574d479777?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [FulcrumSec Claims Responsibility for Manchester Airport Group Breach](https://www.infosecurity-magazine.com/news/fulcrumsec-manchester-airport/)
+  - [Gambling Goblin Turns Brazilian Government Sites Into SEO Weapons](https://www.infosecurity-magazine.com/news/gambling-goblin-brazilian/)
   - [Hackers Chain Two New SonicWall Zero-Day Vulnerabilities](https://www.infosecurity-magazine.com/news/hackers-chain-sonicwall-zeroday/)
   - [Nutex Health Says Patient Data Stolen, Hackers Threaten Leak](https://www.infosecurity-magazine.com/news/nutex-patient-data-stolen/)
 - krebsonsecurity.com
@@ -143,6 +154,7 @@
   - [vulnerability-CVE-2013-3900 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SNOOPOPSEC-VULNERABILITY-CVE-2013-3900&utm_source=rss&utm_medium=rss)
   - [yaraast exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SEIFREED-YARAAST&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Adobe is making its tools available in Slack](https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/)
   - [AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B](https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/)
   - [Anthropic’s new Fable release is cheaper, less restrictive](https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/)
   - [Apple follows Google in adopting Trump’s ‘Lake America’ name](https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/)
@@ -151,6 +163,7 @@
   - [Google’s answer to Canva is an AI tool where you prompt instead of design](https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/)
   - [John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO](https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/)
   - [Larry Page’s flying car company Pivotal loses its CEO](https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/)
+  - [Norway considers ban on camera-enabled wearable ‘pervert glasses’](https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/)
   - [Open AI’s Astra model is on the way—and very good at breaking into computer systems](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/)
   - [OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting](https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/)
   - [Reliance’s JioHotstar takes its streaming empire global — without sports](https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/)
@@ -226,8 +239,10 @@
   - [The Range Rover Electric: Specs, Price, Availability](https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/)
 - 不安全
   - [13 个恶意 Packagist 包针对未打补丁的 iPhone 窃取加密货币钱包种子](https://buaq.net/go-439358.html)
+  - [BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access](https://buaq.net/go-439483.html)
   - [bitbang-cli v0.5.0](https://buaq.net/go-439354.html)
   - [Breeze Comet 通过巴西支付系统执行数百笔欺诈交易](https://buaq.net/go-439357.html)
+  - [CTEM Is Not About the Stages. It’s About the Outcome.](https://buaq.net/go-439480.html)
   - [reconftw v5.0.0-beta.1](https://buaq.net/go-439336.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
