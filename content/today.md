@@ -24,6 +24,8 @@
   - [活人让尿憋死了](https://2libra.com/post/workplace-stories/De-AZo1)
   - [烧饼站是咋了，怎么打不开](https://2libra.com/post/midlife-support-club/2enqS3L)
   - [花了 15 元用 glm5.3 flash 做了个小游戏，大家玩玩看](https://2libra.com/post/personal-works/Ab_FR2Q)
+- 404 Media
+  - [Podcast: We Spoke to an Amazon Worker Destroying Books for AI](https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/)
 - Ars Technica
   - [CDC reported then deleted two measles deaths that were questioned by RFK Jr.](https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/)
 - buttondown.com/hillelwayne
@@ -72,6 +74,7 @@
 - HackerNoon
   - [A Single Canadian Tax Lure Spread into a 46-Country, US-First RMM Campaign](https://hackernoon.com/a-single-canadian-tax-lure-spread-into-a-46-country-us-first-rmm-campaign?source=rss)
 - IEEE Spectrum
+  - [AI Efficiency Could Cost Us the Next Generation of Experts](https://spectrum.ieee.org/ai-engineer-skills)
   - [IEEE President’s Note: Technology for Social Good](https://spectrum.ieee.org/president-ieee-note-september-2026)
 - InfoSec Write-ups - Medium
   - [1-Click ATO Via Host Header Injection: Exploiting Password Reset Poisoning.](https://infosecwriteups.com/1-click-ato-via-host-header-injection-exploiting-password-reset-poisoning-2da6fee32402?source=rss----7b722bfd1b8d---4)
@@ -90,6 +93,7 @@
   - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 - MIT Technology Review
   - [How AI plotted an interstellar journey to Alpha Centauri](https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/)
+  - [The Download: AI puzzles and a path to our nearest star system](https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/)
 - NowSecure
   - [We Asked AI to Predict Our Mobile App Security Survey. The Gaps Are the Real Story.](https://www.nowsecure.com/blog/2026/09/02/we-asked-ai-to-predict-our-mobile-app-security-survey-the-gaps-are-the-real-story/)
 - NVIDIA AI Blog
@@ -100,6 +104,8 @@
   - [Pluralistic: Unpermissioned research (02 Sep 2026)](https://pluralistic.net/2026/09/02/scrape-scrope-scrap/)
 - Product Hunt
   - [Doop](https://www.producthunt.com/products/doop)
+- Recent Commits to cve:main
+  - [Update Wed Sep  2 12:09:18 UTC 2026](https://github.com/trickest/cve/commit/f538699e949d49ecf5a46ed45a1cd6c04ff7d165)
 - rtl-sdr.com
   - [PZSDR: New AMD Zync Ultrascale Based SDR Crowd Funding on Crowd Supply](https://www.rtl-sdr.com/pzsdr-new-amd-zync-ultrascale-based-sdr-crowd-funding-on-crowd-supply/)
 - simonwillison.net
@@ -146,12 +152,15 @@
   - [John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO](https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/)
   - [Larry Page’s flying car company Pivotal loses its CEO](https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/)
   - [Open AI’s Astra model is on the way—and very good at breaking into computer systems](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/)
+  - [OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting](https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/)
   - [Reliance’s JioHotstar takes its streaming empire global — without sports](https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/)
   - [Sequoia-incubated Empirik launches with $21M to predict outages before they happen](https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/)
   - [Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer](https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/)
+  - [Uber is laying off 10% of staff, or 3,300 people](https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/)
   - [Waymo goes on offense ahead of Tesla’s Cybercab launch](https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/)
   - [X says attackers are targeting user accounts after the launch of X Money](https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/)
 - The Block
+  - [Adam Back invests another $8.8 million in Capital B as bitcoin treasury firm targets 3,521 BTC](https://www.theblock.co/news/business/2026-09-02-adam-back-invests-another-8-8-million-in-capital-b-as-bitcoin-treasury-firm-targets-3521-btc-413339)
   - [Bitcoin hovers near $77,000 as global bond selloff tests post-rally resilience](https://www.theblock.co/news/markets/2026-09-02-bitcoin-hovers-near-77000-as-global-bond-selloff-tests-post-rally-resilience-413320)
   - [Buying memecoins with credit cards on Robinhood Wallet and Fomo appears to sidestep card-network crypto rules](https://www.theblock.co/news/business/2026-09-01-buying-memecoins-with-credit-cards-on-robinhood-wallet-fomo-sidestep-card-network-crypto-rules-411911)
   - [Crypto treasury companies hit $340 billion market cap as altcoin DATs outperform](https://www.theblock.co/news/markets/2026-09-01-crypto-treasury-companies-hit-340-billion-market-cap-as-altcoin-dats-outperform-413142)
@@ -161,11 +170,13 @@
   - [Kalshi and Polymarket’s combined volume falls 15% in August, first monthly decline in a year](https://www.theblock.co/news/business/2026-09-02-kalshi-polymarkets-volume-falls-august-413309)
   - [SEC seeks to update its 1970s-era transfer agent rules for the blockchain age](https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278)
   - [Strategy CEO says selling bitcoin at $60,000 before buying at $80,000 was the ‘right trade’](https://www.theblock.co/news/business/2026-09-02-strategy-ceo-says-selling-bitcoin-at-60000-before-buying-at-80000-was-the-right-trade-413323)
+  - [Wyoming expands Chainlink partnership with onchain reserve verification for FRNT](https://www.theblock.co/news/ecosystems/2026-09-02-wyoming-expands-chainlink-partnership-onchain-reserve-verification-frnt-413294)
 - The Decoder
   - [Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others](https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/)
   - [Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less](https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/)
   - [Google Deepmind's new chief says frontier AI leadership is the only thing that matters](https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/)
   - [Google Gemini's new agent-based video analysis cuts token usage by up to 88 percent](https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/)
+  - [World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos](https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/)
 - The Verge
   - [Acer’s new concept hardware is a gaming handheld with a keyboard](https://www.theverge.com/games/988029/acer-project-dualplay-mini-concept-gaming-handheld-keyboard-ifa)
   - [Acer’s new MacBook Air rival is nearly a pound lighter than Apple’s laptop](https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs)
@@ -239,6 +250,7 @@
   - [TCL将三星告上美国法庭：低价电视涉嫌冒充Mini LED](https://blog.upx8.com/TCL%E5%B0%86%E4%B8%89%E6%98%9F%E5%91%8A%E4%B8%8A%E7%BE%8E%E5%9B%BD%E6%B3%95%E5%BA%AD-%E4%BD%8E%E4%BB%B7%E7%94%B5%E8%A7%86%E6%B6%89%E5%AB%8C%E5%86%92%E5%85%85Mini-LED)
   - [X平台推出钱包功能后 用户被黑客盯上](https://blog.upx8.com/X%E5%B9%B3%E5%8F%B0%E6%8E%A8%E5%87%BA%E9%92%B1%E5%8C%85%E5%8A%9F%E8%83%BD%E5%90%8E-%E7%94%A8%E6%88%B7%E8%A2%AB%E9%BB%91%E5%AE%A2%E7%9B%AF%E4%B8%8A)
   - [中国因廉价出口问题否决G20全球经济联合声明](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%9B%A0%E5%BB%89%E4%BB%B7%E5%87%BA%E5%8F%A3%E9%97%AE%E9%A2%98%E5%90%A6%E5%86%B3G20%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
+  - [优步将裁减约3300个岗位 以精简管理层](https://blog.upx8.com/%E4%BC%98%E6%AD%A5%E5%B0%86%E8%A3%81%E5%87%8F%E7%BA%A63300%E4%B8%AA%E5%B2%97%E4%BD%8D-%E4%BB%A5%E7%B2%BE%E7%AE%80%E7%AE%A1%E7%90%86%E5%B1%82)
   - [强调性价比！Anthropic上新Fable 5.1](https://blog.upx8.com/%E5%BC%BA%E8%B0%83%E6%80%A7%E4%BB%B7%E6%AF%94-Anthropic%E4%B8%8A%E6%96%B0Fable-5-1)
   - [苹果新任CEO特努斯、董事长库克薪酬曝光](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%BB%BBCEO%E7%89%B9%E5%8A%AA%E6%96%AF-%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BA%93%E5%85%8B%E8%96%AA%E9%85%AC%E6%9B%9D%E5%85%89)
   - [谷歌被曝本周推出Gemini 3.8 Flash模型](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E8%A2%AB%E6%9B%9D%E6%9C%AC%E5%91%A8%E6%8E%A8%E5%87%BAGemini-3-8-Flash%E6%A8%A1%E5%9E%8B)
