@@ -4,8 +4,10 @@
   - [How the Hell Did an Island Suddenly Appear, Then Vanish?](https://www.404media.co/how-the-hell-did-an-island-suddenly-appear-then-vanish/)
 - Ars Technica
   - [US court rules Google will not have to sell ad exchange after losing antitrust case](https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/)
+  - [Wary of Artemis IV timeline, NASA is changing lunar spacesuit design](https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/)
 - CoinTelegraph
   - [Bitcoin’s apparent demand turns negative as price struggles with $77K](https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New Jersey officials petition US Supreme Court over prediction markets](https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ondo urges SEC, CFTC to bring US stock perpetuals onshore](https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wyoming adds Chainlink reserve verification to state-issued stable token](https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -19,12 +21,15 @@
   - [Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x](https://frontierharness.org)
   - [Why do so many tools have JSON config files?](https://textlog.cc/post/895)
 - IEEE Spectrum
+  - [Applying Different Forms of Mentorship](https://spectrum.ieee.org/forms-of-engineering-mentorship)
   - [NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone](https://spectrum.ieee.org/canadarm-ieee-300th-milestone)
 - Publications | Outflank
   - [Red Team AI Skills](https://www.outflank.nl/blog/2026/09/02/red-team-ai-skills/)
 - TechCrunch
+  - [Delivery Hero board backs Uber’s $15B takeover bid](https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/)
   - [Enhanced geothermal notches another win as Google buys 400 MW from Fervo](https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/)
   - [India’s richest man now wants to turn aging computers into AI-ready PCs](https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/)
+  - [It sure looks like hackers breached a major ID card verification service](https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/)
   - [Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’](https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/)
   - [US government sides with OpenAI on issue of training LLMs on copyrighted material](https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/)
   - [Wonderful more than doubles its valuation to $5B in under 6 months](https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/)
