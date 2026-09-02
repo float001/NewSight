@@ -10,6 +10,7 @@
   - [【💰】我又来了，求助各位有经验人士](https://2libra.com/post/recommendations/Er-y2J8)
   - [【🔒】走过路有，不要错过，竞拍一个雍禾防脱洗发水](https://2libra.com/post/second-hand/pOcGduN)
   - [公积金要入市了吗？](https://2libra.com/post/social-observation/_9daHTI)
+  - [关于下午 4 点后](https://2libra.com/post/office-life/-Y-BSvN)
   - [前排打手新鲜出炉，但这消耗感觉不合理](https://2libra.com/post/forum-function/FCZSMLs)
   - [小程序个人开发者可以申请虚拟支付了](https://2libra.com/post/sharing-discoveries/pC10XU6)
   - [广州这两天的风有些许凉意](https://2libra.com/post/personal-life/9OE6I18)
@@ -59,6 +60,7 @@
   - [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)
   - [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
   - [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
+  - [Telli (YC F24) is hiring engineers and designers [Berlin, on-site]](https://careers.telli.com/)
   - [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
 - HackerNoon
   - [A Single Canadian Tax Lure Spread into a 46-Country, US-First RMM Campaign](https://hackernoon.com/a-single-canadian-tax-lure-spread-into-a-46-country-us-first-rmm-campaign?source=rss)
@@ -73,6 +75,9 @@
   - [PortSwigger Web Security Academy Walkthrough: User Role Can Be Modified in User Profile](https://infosecwriteups.com/portswigger-web-security-academy-walkthrough-user-role-can-be-modified-in-user-profile-b706bbd0eae4?source=rss----7b722bfd1b8d---4)
   - [The $8,000 Shortcut: Hijacking Microsoft Edge via NTFS Directory Junctions](https://infosecwriteups.com/the-8-000-shortcut-hijacking-microsoft-edge-via-ntfs-directory-junctions-087e5fdf8c9d?source=rss----7b722bfd1b8d---4)
   - [Windows Incident Surface | TryHackMe](https://infosecwriteups.com/windows-incident-surface-tryhackme-dd574d479777?source=rss----7b722bfd1b8d---4)
+- infosecurity-magazine.com
+  - [FulcrumSec Claims Responsibility for Manchester Airport Group Breach](https://www.infosecurity-magazine.com/news/fulcrumsec-manchester-airport/)
+  - [Hackers Chain Two New SonicWall Zero-Day Vulnerabilities](https://www.infosecurity-magazine.com/news/hackers-chain-sonicwall-zeroday/)
 - krebsonsecurity.com
   - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 - MIT Technology Review
@@ -143,6 +148,7 @@
   - [Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others](https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/)
   - [Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less](https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/)
   - [Google Deepmind's new chief says frontier AI leadership is the only thing that matters](https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/)
+  - [Google Gemini's new agent-based video analysis cuts token usage by up to 88 percent](https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/)
 - The Verge
   - [Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1)
   - [Apple accuses OpenAI of destroying evidence](https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit)
@@ -150,6 +156,7 @@
   - [Dell’s newest laptop sounds a lot like a MacBook Neo](https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs)
   - [Google needs Hollywood more than the studios need AI](https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai)
   - [John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;](https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo)
+  - [Microsoft is enabling a Windows 11 security feature that can hurt gaming performance](https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026)
   - [On first listen, the Sonos Beam Ultra sounds great](https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen)
   - [This new Roomba seals itself to your carpet](https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced)
   - [Tim Cook did alright by the environment — but AI could upend his climate legacy](https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy)
