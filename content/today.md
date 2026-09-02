@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-09-02）
 
+- 2Libra
+  - [小程序个人开发者可以申请虚拟支付了](https://2libra.com/post/sharing-discoveries/pC10XU6)
 - Ars Technica
   - [CDC reported then deleted two measles deaths that were questioned by RFK Jr.](https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/)
 - buttondown.com/hillelwayne
@@ -20,6 +22,7 @@
   - [AI Model Evaluator METR Hit by Credential Theft, Probing](https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing)
   - [Attackers Pounce on Critical Artifactory Flaw Following Disclosure](https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure)
   - [Critical Langflow Flaw Exploited as Attacks on AI Platform Rise](https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise)
+  - [Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency](https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency)
   - [Stronger Security Drives Ransomware Groups to Recruit From Within](https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within)
 - Emergent Minds | paddo.dev
   - [Tokens per Megawatt: OpenAI's Jalapeno Chip and Why Power Is Now the Price of Inference](https://paddo.dev/blog/tokens-per-megawatt/)
@@ -116,5 +119,8 @@
   - [The Range Rover Electric: Specs, Price, Availability](https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜戴森发布499美元AI牙刷,带摄像头/华为、小米、荣耀手机集体涨价/最强模型Fable 5.1发布](https://www.ifanr.com/1678080?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [强调性价比！Anthropic上新Fable 5.1](https://blog.upx8.com/%E5%BC%BA%E8%B0%83%E6%80%A7%E4%BB%B7%E6%AF%94-Anthropic%E4%B8%8A%E6%96%B0Fable-5-1)
   - [苹果新任CEO特努斯、董事长库克薪酬曝光](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%BB%BBCEO%E7%89%B9%E5%8A%AA%E6%96%AF-%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BA%93%E5%85%8B%E8%96%AA%E9%85%AC%E6%9B%9D%E5%85%89)
