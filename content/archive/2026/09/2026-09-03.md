@@ -9,8 +9,12 @@
   - [卧槽卧槽卧槽](https://2libra.com/post/slacking-off/DGUL1zi)
   - [大家除了中介还有什么租房的渠道没有？](https://2libra.com/post/questions/6JjheaR)
   - [家里次卧外面和楼下接壤的地方有个马蜂窝，昨天打了 119。](https://2libra.com/post/personal-life/dM8hWC9)
+  - [小灰机账号被注销了 现在想注册是不是只能通过接码平台了](https://2libra.com/post/software-tools/x_taBtc)
+  - [弄了个以太坊合约代币，写了个 agents 社区代币的白皮书 和支持虚拟币登录](https://2libra.com/post/promotion/hFpXhAm)
+  - [想法](https://2libra.com/post/ai-emotion-guard/8fc309g)
   - [抠抠搜搜](https://2libra.com/post/personal-life/eAe0u5i)
   - [收集了一些 deepseek 鲸鱼娘表情包分享一下。](https://2libra.com/post/ai-applications/fNI_nN5)
+  - [杜绝“告洋状”？如何评价](https://2libra.com/post/social-observation/VRbK5Kx)
   - [来自东北老家的吃吃吃，南方小伙伴是不是不认识？](https://2libra.com/post/personal-life/CyRXMFR)
   - [海绵宝宝 gif 分享](https://2libra.com/post/animation-sharing/_nOW4Fz)
   - [潘多拉](https://2libra.com/post/forum-function/M2MtGov)
@@ -57,6 +61,10 @@
 - IEEE Spectrum
   - [Applying Different Forms of Mentorship](https://spectrum.ieee.org/forms-of-engineering-mentorship)
   - [NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone](https://spectrum.ieee.org/canadarm-ieee-300th-milestone)
+- infosecurity-magazine.com
+  - [International Operation Disrupts Sality P2P Botnet](https://www.infosecurity-magazine.com/news/international-operation-disrupts/)
+- pluralistic.net
+  - [Pluralistic: Preparing for a post-Trump internet (03 Sep 2026)](https://pluralistic.net/2026/09/03/broken-arrows/)
 - Publications | Outflank
   - [Red Team AI Skills](https://www.outflank.nl/blog/2026/09/02/red-team-ai-skills/)
 - rtl-sdr.com
@@ -152,6 +160,7 @@
   - [World open-sources ProveKit, a zero-knowledge identity proving toolkit](https://www.theblock.co/news/ecosystems/2026-09-02-world-provekit-zero-knowledge-identity-proving-toolkit-413364)
   - [‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures](https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416)
 - The Decoder
+  - [Anthropic ramps up Claude infrastructure with $35 billion Lambda deal](https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/)
   - [Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA](https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/)
   - [US Department of Justice backs fair use for AI training in landmark copyright case](https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/)
 - The Verge
@@ -173,6 +182,9 @@
   - [Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release](https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety)
   - [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones)
   - [The Trump administration is supporting OpenAI in the NYT copyright lawsuit](https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit)
+- Vulners.com RSS Feed
+  - [Gdb: gdb: out-of-bounds write in stabs parser read_member_functions() via crafted elf](https://vulners.com/mscve/MS:CVE-2026-13732?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [URI versions before 5.36 for Perl encode non-NFC host names to non-standard punycode labels via missing normalization in nameprep](https://vulners.com/mscve/MS:CVE-2026-19953?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are](https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/)
   - [ICE Plans to Pay $5 Million to Create National Voting Database](https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/)
@@ -180,15 +192,23 @@
   - [These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words](https://www.wired.com/story/russian-startup-mostik-ai-models-communication/)
   - [Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit](https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/)
 - 不安全
+  - [AzureHound v3.1.1-rc1](https://buaq.net/go-439741.html)
+  - [columba v2.2.4-beta](https://buaq.net/go-439739.html)
   - [CVE-2022-25012-dvr4-weak-password-encryption — Updated!](https://buaq.net/go-439636.html)
   - [CVE-2025-3052 — Updated!](https://buaq.net/go-439641.html)
   - [CVE-2025-4275 — Updated!](https://buaq.net/go-439640.html)
   - [CVE-2026-25250 — Updated!](https://buaq.net/go-439639.html)
   - [CVE-2026-67620-poc — Updated!](https://buaq.net/go-439638.html)
   - [LinusWare-Source-Code-Internal](https://buaq.net/go-439709.html)
+  - [monitor v0.41.0](https://buaq.net/go-439740.html)
   - [Open-Source-Threat-Intel-Feeds](https://buaq.net/go-439702.html)
+  - [user-scanner v1.5.1](https://buaq.net/go-439732.html)
+  - [Windows 11 任务栏位置终于移动到屏幕四周了，开始菜单大小也可以更改](https://buaq.net/go-439731.html)
+  - [黑客利用 Sangoma Switchvox 漏洞部署反向 Shell](https://buaq.net/go-439744.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [人体不同组织的结构衰老呈现三种模式](https://www.solidot.org/story?sid=85272)
 - 爱范儿
   - [Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍](https://www.ifanr.com/1678197?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市](https://www.ifanr.com/1678222?utm_source=rss&utm_medium=rss&utm_campaign=)
