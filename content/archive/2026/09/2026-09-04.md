@@ -3,9 +3,12 @@
 - 2Libra
   - [在线电子书阅读器](https://2libra.com/post/open-source-sharing/9CHWOU8)
   - [求助帖：Win10 + Mac 双平台，寻找 Foxmail 替代品](https://2libra.com/post/tools-sharing/-xKte0k)
+- blog.jim-nielsen.com
+  - [Can We Stop With the Uptime Percentages?](https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/)
 - Chainalysis Blog
   - [Chainalysis Supports HyperEVM with Automatic Token Support](https://www.chainalysis.com/blog/chainalysis-supports-hyperevm-with-automatic-token-support/)
 - CoinTelegraph
+  - [Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention](https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026](https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bybit Pay integrates with Mesh to expand crypto payments](https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -18,9 +21,12 @@
 - Hacker News Frontpage
   - [Instrument Clusters Are Now Paid Extras in Two Hyundai Models](https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option/)
   - [Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents](https://www.mireye.com)
+  - [OpenAI begins rolling out GPT-6 Astra](https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html)
   - [OpenAI's new reasoning technique alarms AI safety experts](https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/)
+  - [Qwen 3.8 27B available on Cerebras at 1500 tok/SEC](https://inference-docs.cerebras.ai/models/overview)
   - [Sanders introduces bill to ban artificial superintelligence and pause AI](https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/)
   - [Texas Data Center Map: See where data centers are operating or planned](https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/)
+  - [The Double Matthew Walker Knot by Fable 5.1](https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c)
   - [Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB](https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb)
 - HackerNoon
   - [12 Hours, 100 Rooms, 1 Hotel in Albania: How I Fixed WiFi and IPTV Chaos Without a Controller](https://hackernoon.com/12-hours-100-rooms-1-hotel-in-albania-how-i-fixed-wifi-and-iptv-chaos-without-a-controller?source=rss)
@@ -38,17 +44,28 @@
   - [RedPersist exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MERTDAS-REDPERSIST&utm_source=rss&utm_medium=rss)
   - [tsunami-security-scanner exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GOOGLE-TSUNAMI-SECURITY-SCANNER&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Abliteration.ai is making a business out of removing AI guardrails](https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/)
   - [Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts](https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/)
   - [Google launches AI voice features in Gmail, Docs and Keep](https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/)
+  - [Meta is paying to peek at how you use their latest AI model](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/)
   - [Ollie is betting its focus on privacy can help it win the AI assistant race](https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/)
   - [OpenAI launches Astra, its powerful (and controversial) new model](https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/)
   - [Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers](https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/)
 - The Block
+  - [Revolut takes ‘important’ step toward becoming a US bank with conditional OCC approval](https://www.theblock.co/news/regulation/2026-09-03-revolut-takes-important-step-toward-becoming-a-us-bank-with-conditional-occ-approval-413474)
   - [Stablecoin payments infrastructure startup Diameter Pay raises $10 million](https://www.theblock.co/news/deals/2026-09-03-diameter-pay-funding-stablecoin-payments-infrastructure-413454)
   - [Strive CEO says company could end 2026 as second-largest public bitcoin holder as ASST climbs](https://www.theblock.co/news/markets/2026-09-03-strive-ceo-company-could-end-2026-second-largest-bitcoin-holder-asst-413455)
+- The Decoder
+  - [Pangram's biggest flaw is users turning its scores into public shaming](https://the-decoder.com/pangrams-biggest-flaw-is-users-turning-its-scores-into-public-shaming/)
 - The Verge
+  - [Congressman says TikTok backed out of a meeting to avoid child safety questions](https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety)
   - [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)
+  - [Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day](https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale)
+- Vulners.com RSS Feed
+  - [Updated libopenmpt packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Updated python-gitpython packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era](https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/)
   - [Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme](https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/)
   - [OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk](https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/)
 - 代码审计星球
