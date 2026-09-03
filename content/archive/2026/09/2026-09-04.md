@@ -6,6 +6,7 @@
   - [求助帖：Win10 + Mac 双平台，寻找 Foxmail 替代品](https://2libra.com/post/tools-sharing/-xKte0k)
 - Ars Technica
   - [NJ urges SCOTUS to rule that Kalshi sports bets are gambling, not "swaps"](https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/)
+  - [Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them](https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/)
   - [US senator calls on the NSA to give guidance for use of VPNs](https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/)
 - blog.jim-nielsen.com
   - [Can We Stop With the Uptime Percentages?](https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/)
@@ -32,8 +33,10 @@
 - gilesthomas.com
   - [Putting my JAX-trained models on the Hugging Face Hub](https://www.gilesthomas.com/2026/09/jax-models-on-hugging-face)
 - Hacker News Frontpage
+  - [GLP-1s Are Being Linked to Fewer Serious Infections, Including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
   - [Instrument Clusters Are Now Paid Extras in Two Hyundai Models](https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option/)
   - [Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents](https://www.mireye.com)
+  - [Models Don't Go Rogue](https://mail.cyberneticforests.com/models-dont-go-rogue/)
   - [OpenAI begins rolling out GPT-6 Astra](https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html)
   - [OpenAI's new reasoning technique alarms AI safety experts](https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/)
   - [Prime Gaps at Most 186](https://github.com/openai/PrimeGaps186)
@@ -51,6 +54,8 @@
   - [How Virginia Tech Connected Pentesting to Its Engineering Workflow](https://horizon3.ai/customer-story/virginia-tech-automated-external-pentesting/)
 - johndcook.com
   - [New RSA number factored](https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/)
+- MalwareTech
+  - [Machine Speed is a lie: stop trying to fight AI with AI](https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-with-ai.html)
 - simonwillison.net
   - [GPT‑6 Astra](https://simonwillison.net/2026/Sep/3/gpt6-astra/)
 - Sploitus.com Exploits RSS Feed
@@ -100,8 +105,10 @@
   - [Meta is paying to peek at how you use their latest AI model](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/)
   - [Ollie is betting its focus on privacy can help it win the AI assistant race](https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/)
   - [OpenAI launches Astra, its powerful (and controversial) new model](https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/)
+  - [Oura files to go public](https://techcrunch.com/2026/09/03/oura-files-to-go-public/)
   - [Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers](https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/)
   - [Startup ARR is less secure than ever, new research shows](https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/)
+  - [Tesla is asking people if they want to buy and run Cybercab fleets](https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/)
   - [The Cybercab is Tesla’s ‘fork in the road’ moment](https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/)
   - [Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit](https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/)
 - The Block
@@ -124,10 +131,12 @@
   - [Updated libopenmpt packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Updated python-gitpython packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More](https://www.wired.com/gallery/best-video-doorbells/)
   - [GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era](https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/)
   - [Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme](https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/)
   - [Nobody Is Saying Why OpenAI and Anthropic Had Outages Today](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
   - [OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk](https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/)
   - [Prediction Market Betting Is Getting People Banned and Arrested](https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/)
+  - [Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient](https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
