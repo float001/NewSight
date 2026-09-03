@@ -47,6 +47,7 @@
   - [New Jersey officials petition US Supreme Court over prediction markets](https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia buys Hugging Face for $12.9B in push into AI software](https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ondo urges SEC, CFTC to bring US stock perpetuals onshore](https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Recovery specialists crack $1B crypto wallet... but find just $10](https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered launches spot Bitcoin and Ether trading in UAE](https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US officials work with CrowdStrike to fight malware behind crypto theft](https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wyoming adds Chainlink reserve verification to state-issued stable token](https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -55,6 +56,8 @@
   - [AI’s Vulnerability Surge May Be More Manageable Than First Feared](https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared)
   - [SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE](https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce)
   - [Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users](https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users)
+- Data Breach
+  - [412,000 The Town 2025 Ticket Buyers’ Data Hits the Dark Web](https://securityaffairs.com/198354/data-breach/412000-the-town-2025-ticket-buyers-data-hits-the-dark-web.html)
 - ElcomSoft blog
   - [Elcomsoft Quick Triage 2.2: Timeline, file system snapshot, and a plugin engine](https://blog.elcomsoft.com/2026/09/elcomsoft-quick-triage-2-2-timeline-file-system-snapshot-and-a-plugin-engine/)
 - Emergent Minds | paddo.dev
@@ -66,6 +69,7 @@
 - Hacker News Frontpage
   - [A dark horse enters China's AI race: StartLux](https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector)
   - [Altair Basic Interpreter Source Code (1975) [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
+  - [Elevated Errors for Multiple Models](https://status.claude.com/incidents/461yvfrzpwtt)
   - [Firefox's AI Switch Is Off. Telemetry Isn't](https://marius.blog/firefox-155-ai-kill-switch-retest/)
   - [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://ronanrx.com/)
   - [METR Report on OpenAI / Hugging Face Hacking Incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident)
@@ -86,6 +90,7 @@
   - [CREST Onboards First Cohort for AI-Enabled Pentesting Accreditation](https://www.infosecurity-magazine.com/news/crest-first-cohort-ai-pentesting/)
   - [FBI Probes Possible Breach of 153 Million Driver’s Licenses](https://www.infosecurity-magazine.com/news/fbi-probes-breach-153-million/)
   - [International Operation Disrupts Sality P2P Botnet](https://www.infosecurity-magazine.com/news/international-operation-disrupts/)
+  - [Outsider Phishing Kit Survives Takedown With 700 New Pages](https://www.infosecurity-magazine.com/news/outsider-phishing-kit-survives/)
   - [US and Canadian Court Records Breached Following Thomson Reuters Incident](https://www.infosecurity-magazine.com/news/us-canada-court-breach-thomson/)
 - MIT Technology Review
   - [Scaling agentic AI pilots across the enterprise](https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/)
@@ -219,11 +224,14 @@
   - [Belkin’s first trackers come ready to attach to your gear.](https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag)
   - [Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more](https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash)
   - [Here are some of REI’s best Labor Day sale deals](https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026)
+  - [Hohem’s tiny steadycam has a removable action cam](https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam)
+  - [How Sonos rebooted itself](https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign)
   - [Nvidia is buying Hugging Face for almost $13 billion](https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal)
   - [Philips Hue adds more affordable options for syncing smart lights with your TV](https://www.theverge.com/tech/988363/philips-hue-play-screen-sync-entertainment-lighting)
   - [Philips Hue adds Nanoleaf&#8217;s light panels to its ecosystem with a $40 module](https://www.theverge.com/tech/988144/philips-hue-nanoleaf-smart-wall-panels-integration-module)
   - [Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing](https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs)
   - [Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release](https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety)
+  - [SwitchBot&#8217;s retrofit door lock offers 19 ways to unlock it](https://www.theverge.com/tech/989246/switchbot-lock-ultra-max-retrofit-smartlock-ifa-launch)
   - [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones)
   - [The Trump administration is supporting OpenAI in the NYT copyright lawsuit](https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit)
 - Vulners.com RSS Feed
