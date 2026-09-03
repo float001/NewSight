@@ -2,6 +2,7 @@
 
 - 2Libra
   - [在线电子书阅读器](https://2libra.com/post/open-source-sharing/9CHWOU8)
+  - [昨天拿了新的徽章-讲故事的人](https://2libra.com/post/personal-life/cloRiPt)
   - [求助帖：Win10 + Mac 双平台，寻找 Foxmail 替代品](https://2libra.com/post/tools-sharing/-xKte0k)
 - Ars Technica
   - [NJ urges SCOTUS to rule that Kalshi sports bets are gambling, not "swaps"](https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/)
@@ -14,6 +15,7 @@
   - [Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention](https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026](https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bybit Pay integrates with Mesh to expand crypto payments](https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [CFTC files to dismiss CME lawsuit over crypto perpetual futures](https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network](https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms](https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -41,8 +43,10 @@
   - [The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
   - [The Double Matthew Walker Knot by Fable 5.1](https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c)
   - [Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB](https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb)
+  - [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
 - HackerNoon
   - [12 Hours, 100 Rooms, 1 Hotel in Albania: How I Fixed WiFi and IPTV Chaos Without a Controller](https://hackernoon.com/12-hours-100-rooms-1-hotel-in-albania-how-i-fixed-wifi-and-iptv-chaos-without-a-controller?source=rss)
+  - [Grupo Salinas Selects Integral Digital to Power Coinpro’s Institutional Digital Asset Trading Desk](https://hackernoon.com/grupo-salinas-selects-integral-digital-to-power-coinpros-institutional-digital-asset-trading-desk?source=rss)
 - Horizon3.ai
   - [How Virginia Tech Connected Pentesting to Its Engineering Workflow](https://horizon3.ai/customer-story/virginia-tech-automated-external-pentesting/)
 - johndcook.com
@@ -114,6 +118,7 @@
   - [Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series](https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix)
   - [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)
   - [Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day](https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale)
+  - [You can watch the coolant flow inside Ugreen’s liquid-cooled power bank](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling)
 - Vulners.com RSS Feed
   - [CVE-Exploits](https://vulners.com/gitee/F1C2CD5D-3735-5CDB-B0AA-2F57EEB5EC0C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Updated libopenmpt packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -121,6 +126,8 @@
 - Wired
   - [GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era](https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/)
   - [Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme](https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/)
+  - [Nobody Is Saying Why OpenAI and Anthropic Had Outages Today](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
   - [OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk](https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/)
+  - [Prediction Market Betting Is Getting People Banned and Arrested](https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
