@@ -22,8 +22,10 @@
   - [US court rules Google will not have to sell ad exchange after losing antitrust case](https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/)
   - [Wary of Artemis IV timeline, NASA is changing lunar spacesuit design](https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/)
 - CoinTelegraph
+  - [Australia warns unlicensed crypto firms of fines up to 10% of annual turnover](https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin’s apparent demand turns negative as price struggles with $77K](https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase launches regulated crypto derivatives in Canada](https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ether, XRP ETF inflow streaks end as Bitcoin funds rebound](https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hyperscale Data ends Michigan BTC mining as holdings fall 79%](https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New Jersey officials petition US Supreme Court over prediction markets](https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -34,6 +36,8 @@
   - [AI’s Vulnerability Surge May Be More Manageable Than First Feared](https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared)
   - [SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE](https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce)
   - [Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users](https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users)
+- ElcomSoft blog
+  - [Elcomsoft Quick Triage 2.2: Timeline, file system snapshot, and a plugin engine](https://blog.elcomsoft.com/2026/09/elcomsoft-quick-triage-2-2-timeline-file-system-snapshot-and-a-plugin-engine/)
 - Emergent Minds | paddo.dev
   - [A Dial Worth Turning: Claude Opus 5's Prose, and the Style Guide Anthropic Wrote Against Its Own Model](https://paddo.dev/blog/a-dial-worth-turning/)
   - [Nvidia Buys the Hub: Hugging Face, $12.9 Billion, and Whether MLX Is in Trouble](https://paddo.dev/blog/nvidia-buys-the-hub/)
@@ -153,8 +157,18 @@
 - The Verge
   - [1Password wades into a right-wing mess after funding a Linux project](https://www.theverge.com/tech/988536/1password-dhh-linux-controversy)
   - [Amazon’s AI assistant can now spot fake emails from the company](https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails)
+  - [Anker announces its first over-the-counter hearing aids](https://www.theverge.com/tech/986377/ankers-first-otc-hearing-aids-ifa-2026)
+  - [Anker put a display on the case of its new sleepbuds](https://www.theverge.com/tech/988265/anker-sleep-earbuds-4-pro-price-date-specs)
+  - [Anker’s new MindBase is an AI-powered brain for your smart home](https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter)
+  - [Anker’s new printer works directly on fabrics](https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa)
+  - [Anker’s sleep speaker uses radar and flower power to help you relax](https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker)
+  - [Anker’s Soundcore is bringing its incredible call quality to more headphones](https://www.theverge.com/tech/986330/soundcore-headphones-earbuds-announcement-ifa-2026)
+  - [Belkin introduces its first longer-lasting semi-solid-state power banks](https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer)
+  - [Belkin’s first trackers come ready to attach to your gear.](https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag)
   - [Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more](https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash)
   - [Here are some of REI’s best Labor Day sale deals](https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026)
+  - [Philips Hue adds more affordable options for syncing smart lights with your TV](https://www.theverge.com/tech/988363/philips-hue-play-screen-sync-entertainment-lighting)
+  - [Philips Hue adds Nanoleaf&#8217;s light panels to its ecosystem with a $40 module](https://www.theverge.com/tech/988144/philips-hue-nanoleaf-smart-wall-panels-integration-module)
   - [Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing](https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs)
   - [Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release](https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety)
   - [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones)
