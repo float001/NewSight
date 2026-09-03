@@ -2,8 +2,10 @@
 
 - 2Libra
   - [Google 学生教育优惠复活](https://2libra.com/post/deal-hunter/eXSBUbD)
+  - [iOS 27 新功能：一个手机号两台 iPhone 间切换](https://2libra.com/post/tech-news/XccP2LK)
   - [libra2 可以有智能审核提示吗](https://2libra.com/post/forum-function/8d8zMcC)
   - [qwen 有 491 个模型，每个都有 1M 免费 token 可用，时间还剩 91 天，你们也有吗？](https://2libra.com/post/large-models/_ItxpiF)
+  - [【慢讯】紧急避雷“免费 3 年 VPS”陷阱](https://2libra.com/post/network-security/cSi1eHp)
   - [【投票·💰】工作与家庭的兼顾确实有点……](https://2libra.com/post/family/zTUY7Wa)
   - [【💰】大家在用什么工位茶包](https://2libra.com/post/office-life/AcwyKnF)
   - [优化了通知模块，现在会优先打开未读通知弹窗](https://2libra.com/post/product-updates/0qEP4_K)
@@ -39,6 +41,7 @@
   - [Kalshi seeks CFTC approval for WTI crude perpetual futures: Report](https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New Jersey officials petition US Supreme Court over prediction markets](https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ondo urges SEC, CFTC to bring US stock perpetuals onshore](https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Standard Chartered launches spot Bitcoin and Ether trading in UAE](https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US officials work with CrowdStrike to fight malware behind crypto theft](https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wyoming adds Chainlink reserve verification to state-issued stable token](https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
@@ -164,6 +167,7 @@
 - The Block
   - [Anthony Armstrong, former CFO at Elon Musk’s xAI and X, joins Coinbase board](https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405)
   - [Arbitrum DAO reports $6.2 million in first-half income as Robinhood Chain adds new revenue stream](https://www.theblock.co/news/ecosystems/2026-09-02-arbitrum-dao-reports-6-2-million-first-half-income-robinhood-chain-adds-new-revenue-stream-413345)
+  - [Bitcoin-gold correlation hits six-year high, but analysts question whether equity decoupling will last](https://www.theblock.co/news/markets/2026-09-03-bitcoin-gold-correlation-hits-six-year-high-but-analysts-question-whether-equity-decoupling-will-last-413437)
   - [Memecoin shenanigans spill into Nasdaq as microcap mushroom seller Farmmi surges 350%](https://www.theblock.co/news/markets/2026-09-02-memecoin-shenanigans-nasdaq-microcap-mushroom-seller-farmmi-413374)
   - [Michigan court orders Kalshi to keep blocking sports prediction markets](https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422)
   - [New Jersey asks Supreme Court to decide who regulates sports betting on prediction markets](https://www.theblock.co/news/regulation/2026-09-02-new-jersey-asks-supreme-court-to-decide-who-regulates-sports-betting-on-prediction-markets-413398)
@@ -198,13 +202,18 @@
   - [URI versions before 5.36 for Perl encode non-NFC host names to non-standard punycode labels via missing normalization in nameprep](https://vulners.com/mscve/MS:CVE-2026-19953?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are](https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/)
+  - [DOGE Affiliate Asked for College Credits for Participating in Takeover](https://www.wired.com/story/doge-affiliate-asked-for-college-credits-for-participating-in-takeover/)
   - [ICE Plans to Pay $5 Million to Create National Voting Database](https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/)
   - [Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing](https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/)
   - [Smart Toilets Are Already Using AI to Analyze Your Poop](https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/)
+  - [The Best Air Quality Monitor for Outdoors and Indoors in 2026](https://www.wired.com/story/best-air-quality-monitors/)
   - [These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words](https://www.wired.com/story/russian-startup-mostik-ai-models-communication/)
   - [Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit](https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/)
+  - [‘The Blood of Dawnwalker’ Is a Bloody Balm for My Completionism](https://www.wired.com/story/the-blood-of-dawnwalker-is-a-bloody-balm-for-my-completionism/)
 - 不安全
+  - [Adrenaline adrenaline-bof-bundle-2026-08-31-171332-c55f015](https://buaq.net/go-439776.html)
   - [AzureHound v3.1.1-rc1](https://buaq.net/go-439741.html)
+  - [censys-python v2.3.0](https://buaq.net/go-439775.html)
   - [columba v2.2.4-beta](https://buaq.net/go-439739.html)
   - [CVE-2022-25012-dvr4-weak-password-encryption — Updated!](https://buaq.net/go-439636.html)
   - [CVE-2025-3052 — Updated!](https://buaq.net/go-439641.html)
@@ -214,6 +223,8 @@
   - [LinusWare-Source-Code-Internal](https://buaq.net/go-439709.html)
   - [monitor v0.41.0](https://buaq.net/go-439740.html)
   - [Open-Source-Threat-Intel-Feeds](https://buaq.net/go-439702.html)
+  - [prismor v1.44.0](https://buaq.net/go-439778.html)
+  - [terminalphone — Updated!](https://buaq.net/go-439777.html)
   - [user-scanner v1.5.1](https://buaq.net/go-439732.html)
   - [Windows 11 任务栏位置终于移动到屏幕四周了，开始菜单大小也可以更改](https://buaq.net/go-439731.html)
   - [黑客利用 Sangoma Switchvox 漏洞部署反向 Shell](https://buaq.net/go-439744.html)
@@ -226,7 +237,11 @@
 - 爱范儿
   - [Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍](https://www.ifanr.com/1678197?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市](https://www.ifanr.com/1678222?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！](https://www.qbitai.com/2026/09/483189.html)
+  - [陈大年复出，入局大模型](https://www.qbitai.com/2026/09/483600.html)
 - 黑海洋
   - [个人电脑用DRAM价格连续七个月走高](https://blog.upx8.com/%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91%E7%94%A8DRAM%E4%BB%B7%E6%A0%BC%E8%BF%9E%E7%BB%AD%E4%B8%83%E4%B8%AA%E6%9C%88%E8%B5%B0%E9%AB%98)
+  - [天猫上线Token充值中心 可购多家大模型签订费配套](https://blog.upx8.com/%E5%A4%A9%E7%8C%AB%E4%B8%8A%E7%BA%BFToken%E5%85%85%E5%80%BC%E4%B8%AD%E5%BF%83-%E5%8F%AF%E8%B4%AD%E5%A4%9A%E5%AE%B6%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AD%BE%E8%AE%A2%E8%B4%B9%E9%85%8D%E5%A5%97)
   - [纽约市禁止学生在进入高中之前使用AI](https://blog.upx8.com/%E7%BA%BD%E7%BA%A6%E5%B8%82%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E5%9C%A8%E8%BF%9B%E5%85%A5%E9%AB%98%E4%B8%AD%E4%B9%8B%E5%89%8D%E4%BD%BF%E7%94%A8AI)
   - [纽约时报起诉OpenAI 美国司法部首次公开站队](https://blog.upx8.com/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E8%B5%B7%E8%AF%89OpenAI-%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E7%AB%99%E9%98%9F)
