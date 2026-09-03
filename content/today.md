@@ -5,8 +5,10 @@
   - [【投票·💰】工作与家庭的兼顾确实有点……](https://2libra.com/post/family/zTUY7Wa)
   - [关于昨晚一点小事分享](https://2libra.com/post/small-things/6O5by-T)
   - [家里次卧外面和楼下接壤的地方有个马蜂窝，昨天打了 119。](https://2libra.com/post/personal-life/dM8hWC9)
+  - [抠抠搜搜](https://2libra.com/post/personal-life/eAe0u5i)
   - [来自东北老家的吃吃吃，南方小伙伴是不是不认识？](https://2libra.com/post/personal-life/CyRXMFR)
   - [潘多拉](https://2libra.com/post/forum-function/M2MtGov)
+  - [给 MacBook 续了 AC+，💴 -899](https://2libra.com/post/apple/h8s5RLB)
   - [近期音乐分享](https://2libra.com/post/idea/GTSV2mZ)
 - 404 Media
   - [How the Hell Did an Island Suddenly Appear, Then Vanish?](https://www.404media.co/how-the-hell-did-an-island-suddenly-appear-then-vanish/)
@@ -72,6 +74,7 @@
   - [CVE-2025-29972 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THEMEHACKERS-CVE-2025-29972&utm_source=rss&utm_medium=rss)
   - [CVE-2025-31650 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TUNAHANTEKEOGLU-CVE-2025-31650&utm_source=rss&utm_medium=rss)
   - [CVE-2026-42533-nginx exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GAGALTOTAL-CVE-2026-42533-NGINX&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-56705 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BOREAS37-CVE-2026-56705&utm_source=rss&utm_medium=rss)
   - [DarunGrim exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OHJEONGWOOK-DARUNGRIM&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-82329](https://sploitus.com/exploit?id=DC7D9D0A-60AF-5543-8EBC-1EF85E277FFE&utm_source=rss&utm_medium=rss)
   - [Exploit for Eval Injection in Langflow](https://sploitus.com/exploit?id=20A07B7E-35D2-5D56-8B1A-C355139401C1&utm_source=rss&utm_medium=rss)
@@ -147,3 +150,4 @@
   - [早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市](https://www.ifanr.com/1678222?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [纽约市禁止学生在进入高中之前使用AI](https://blog.upx8.com/%E7%BA%BD%E7%BA%A6%E5%B8%82%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E5%9C%A8%E8%BF%9B%E5%85%A5%E9%AB%98%E4%B8%AD%E4%B9%8B%E5%89%8D%E4%BD%BF%E7%94%A8AI)
+  - [纽约时报起诉OpenAI 美国司法部首次公开站队](https://blog.upx8.com/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E8%B5%B7%E8%AF%89OpenAI-%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E7%AB%99%E9%98%9F)
