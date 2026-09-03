@@ -4,6 +4,7 @@
   - [Google 学生教育优惠复活](https://2libra.com/post/deal-hunter/eXSBUbD)
   - [qwen 有 491 个模型，每个都有 1M 免费 token 可用，时间还剩 91 天，你们也有吗？](https://2libra.com/post/large-models/_ItxpiF)
   - [【投票·💰】工作与家庭的兼顾确实有点……](https://2libra.com/post/family/zTUY7Wa)
+  - [【💰】大家在用什么工位茶包](https://2libra.com/post/office-life/AcwyKnF)
   - [关于昨晚一点小事分享](https://2libra.com/post/small-things/6O5by-T)
   - [大家除了中介还有什么租房的渠道没有？](https://2libra.com/post/questions/6JjheaR)
   - [家里次卧外面和楼下接壤的地方有个马蜂窝，昨天打了 119。](https://2libra.com/post/personal-life/dM8hWC9)
