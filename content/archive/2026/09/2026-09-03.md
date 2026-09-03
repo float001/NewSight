@@ -30,6 +30,8 @@
 - Ars Technica
   - [US court rules Google will not have to sell ad exchange after losing antitrust case](https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/)
   - [Wary of Artemis IV timeline, NASA is changing lunar spacesuit design](https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/)
+- berthub.eu
+  - [De nieuwe AIVD/MIVD wet: een eerste overzicht](https://berthub.eu/articles/posts/de-wiv-202x/)
 - CoinTelegraph
   - [Australia warns unlicensed crypto firms of fines up to 10% of annual turnover](https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin’s apparent demand turns negative as price struggles with $77K](https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -45,6 +47,7 @@
   - [US officials work with CrowdStrike to fight malware behind crypto theft](https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wyoming adds Chainlink reserve verification to state-issued stable token](https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
+  - ['Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems](https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems)
   - [AI’s Vulnerability Surge May Be More Manageable Than First Feared](https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared)
   - [SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE](https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce)
   - [Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users](https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users)
@@ -56,6 +59,7 @@
 - GuidePoint Security
   - [AI Agent Security Starts with Identity: Three Questions Every Enterprise Should Answer](https://www.guidepointsecurity.com/blog/ai-agent-security-starts-with-identity/)
 - Hacker News Frontpage
+  - [A dark horse enters China's AI race: StartLux](https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector)
   - [Altair Basic Interpreter Source Code (1975) [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
   - [Firefox's AI Switch Is Off. Telemetry Isn't](https://marius.blog/firefox-155-ai-kill-switch-retest/)
   - [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://ronanrx.com/)
@@ -75,6 +79,7 @@
 - infosecurity-magazine.com
   - [FBI Probes Possible Breach of 153 Million Driver’s Licenses](https://www.infosecurity-magazine.com/news/fbi-probes-breach-153-million/)
   - [International Operation Disrupts Sality P2P Botnet](https://www.infosecurity-magazine.com/news/international-operation-disrupts/)
+  - [US and Canadian Court Records Breached Following Thomson Reuters Incident](https://www.infosecurity-magazine.com/news/us-canada-court-breach-thomson/)
 - MIT Technology Review
   - [Scaling agentic AI pilots across the enterprise](https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/)
 - pluralistic.net
@@ -83,6 +88,8 @@
   - [Red Team AI Skills](https://www.outflank.nl/blog/2026/09/02/red-team-ai-skills/)
 - rtl-sdr.com
   - [FreeDV RADE: An Open-Source Digital Voice Mode for HF that Beats SSB at Low SNR](https://www.rtl-sdr.com/freedv-rade-an-open-source-digital-voice-mode-for-hf-that-beats-ssb-at-low-snr/)
+- shkspr.mobi
+  - [A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP](https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/)
 - Sploitus.com Exploits RSS Feed
   - [AD-PathFinder exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NETSPI-AD-PATHFINDER&utm_source=rss&utm_medium=rss)
   - [awesome-flipperzero exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DJSIME1-AWESOME-FLIPPERZERO&utm_source=rss&utm_medium=rss)
@@ -177,6 +184,8 @@
 - The Decoder
   - [Anthropic ramps up Claude infrastructure with $35 billion Lambda deal](https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/)
   - [Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA](https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/)
+  - [Meta closes in on the top with Muse Spark 1.3, and undercuts rivals on price](https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/)
+  - [OpenAI CEO Sam Altman warns of "unsustainable silliness" in compute buildout](https://the-decoder.com/openai-ceo-sam-altman-warns-of-unsustainable-silliness-in-compute-buildout/)
   - [US Department of Justice backs fair use for AI training in landmark copyright case](https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/)
 - The Verge
   - [1Password wades into a right-wing mess after funding a Linux project](https://www.theverge.com/tech/988536/1password-dhh-linux-controversy)
@@ -205,6 +214,7 @@
   - [DOGE Affiliate Asked for College Credits for Participating in Takeover](https://www.wired.com/story/doge-affiliate-asked-for-college-credits-for-participating-in-takeover/)
   - [ICE Plans to Pay $5 Million to Create National Voting Database](https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/)
   - [Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing](https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/)
+  - [Scientists Have Found the Most Convincing Evidence Yet of a Dark Matter Particle](https://www.wired.com/story/scientists-find-most-convincing-evidence-yet-dark-matter-particle/)
   - [Smart Toilets Are Already Using AI to Analyze Your Poop](https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/)
   - [The Best Air Quality Monitor for Outdoors and Indoors in 2026](https://www.wired.com/story/best-air-quality-monitors/)
   - [These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words](https://www.wired.com/story/russian-startup-mostik-ai-models-communication/)
@@ -224,6 +234,8 @@
   - [monitor v0.41.0](https://buaq.net/go-439740.html)
   - [Open-Source-Threat-Intel-Feeds](https://buaq.net/go-439702.html)
   - [prismor v1.44.0](https://buaq.net/go-439778.html)
+  - [Researching Employment Scams](https://buaq.net/go-439819.html)
+  - [TCPViewer v1.14.0](https://buaq.net/go-439788.html)
   - [terminalphone — Updated!](https://buaq.net/go-439777.html)
   - [user-scanner v1.5.1](https://buaq.net/go-439732.html)
   - [Windows 11 任务栏位置终于移动到屏幕四周了，开始菜单大小也可以更改](https://buaq.net/go-439731.html)
@@ -235,10 +247,13 @@
 - 安全客
   - [漏洞开始工业化生产：AI让黑客的经验可以复制粘贴了](https://www.anquanke.com/post/id/316072)
 - 爱范儿
+  - [730 马力+三把锁！传祺越 7 预售 17.18 万元起](https://www.ifanr.com/1678320?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍](https://www.ifanr.com/1678197?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市](https://www.ifanr.com/1678222?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [“没有Token的CS学生，应立即退学”](https://www.qbitai.com/2026/09/483839.html)
   - [世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！](https://www.qbitai.com/2026/09/483189.html)
+  - [腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场](https://www.qbitai.com/2026/09/483786.html)
   - [陈大年复出，入局大模型](https://www.qbitai.com/2026/09/483600.html)
 - 黑海洋
   - [个人电脑用DRAM价格连续七个月走高](https://blog.upx8.com/%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91%E7%94%A8DRAM%E4%BB%B7%E6%A0%BC%E8%BF%9E%E7%BB%AD%E4%B8%83%E4%B8%AA%E6%9C%88%E8%B5%B0%E9%AB%98)
