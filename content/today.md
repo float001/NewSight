@@ -8,6 +8,7 @@
   - [【慢讯】紧急避雷“免费 3 年 VPS”陷阱](https://2libra.com/post/network-security/cSi1eHp)
   - [【投票·💰】工作与家庭的兼顾确实有点……](https://2libra.com/post/family/zTUY7Wa)
   - [【💰】大家在用什么工位茶包](https://2libra.com/post/office-life/AcwyKnF)
+  - [中秋國慶公司統一安排休假，喜提 13 天假期](https://2libra.com/post/office-life/tRpio3w)
   - [优化了通知模块，现在会优先打开未读通知弹窗](https://2libra.com/post/product-updates/0qEP4_K)
   - [关于昨晚一点小事分享](https://2libra.com/post/small-things/6O5by-T)
   - [卧槽卧槽卧槽](https://2libra.com/post/slacking-off/DGUL1zi)
@@ -32,6 +33,8 @@
   - [Wary of Artemis IV timeline, NASA is changing lunar spacesuit design](https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/)
 - berthub.eu
   - [De nieuwe AIVD/MIVD wet: een eerste overzicht](https://berthub.eu/articles/posts/de-wiv-202x/)
+- Chainalysis Blog
+  - [FBI Seizes $560K in Crypto From Hamas Fundraising Network](https://www.chainalysis.com/blog/fbi-seizes-hamas-crypto-fundraising-network/)
 - CoinTelegraph
   - [Australia warns unlicensed crypto firms of fines up to 10% of annual turnover](https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin’s apparent demand turns negative as price struggles with $77K](https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -42,6 +45,7 @@
   - [Hyperscale Data ends Michigan BTC mining as holdings fall 79%](https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi seeks CFTC approval for WTI crude perpetual futures: Report](https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New Jersey officials petition US Supreme Court over prediction markets](https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Nvidia buys Hugging Face for $12.9B in push into AI software](https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ondo urges SEC, CFTC to bring US stock perpetuals onshore](https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered launches spot Bitcoin and Ether trading in UAE](https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US officials work with CrowdStrike to fight malware behind crypto theft](https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -58,6 +62,7 @@
   - [Nvidia Buys the Hub: Hugging Face, $12.9 Billion, and Whether MLX Is in Trouble](https://paddo.dev/blog/nvidia-buys-the-hub/)
 - GuidePoint Security
   - [AI Agent Security Starts with Identity: Three Questions Every Enterprise Should Answer](https://www.guidepointsecurity.com/blog/ai-agent-security-starts-with-identity/)
+  - [Recent Update to FAQ Regarding SAQ Eligibility Criteria Could Affect Your PCI DSS Compliance](https://www.guidepointsecurity.com/blog/pci-dss-saq-elibigility-criteria/)
 - Hacker News Frontpage
   - [A dark horse enters China's AI race: StartLux](https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector)
   - [Altair Basic Interpreter Source Code (1975) [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
@@ -76,16 +81,25 @@
 - IEEE Spectrum
   - [Applying Different Forms of Mentorship](https://spectrum.ieee.org/forms-of-engineering-mentorship)
   - [NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone](https://spectrum.ieee.org/canadarm-ieee-300th-milestone)
+  - [Protecting Dynamic Industrial Robot Cable Carriers](https://spectrum.ieee.org/industrial-robot-cable-carrier-protection)
 - infosecurity-magazine.com
+  - [CREST Onboards First Cohort for AI-Enabled Pentesting Accreditation](https://www.infosecurity-magazine.com/news/crest-first-cohort-ai-pentesting/)
   - [FBI Probes Possible Breach of 153 Million Driver’s Licenses](https://www.infosecurity-magazine.com/news/fbi-probes-breach-153-million/)
   - [International Operation Disrupts Sality P2P Botnet](https://www.infosecurity-magazine.com/news/international-operation-disrupts/)
   - [US and Canadian Court Records Breached Following Thomson Reuters Incident](https://www.infosecurity-magazine.com/news/us-canada-court-breach-thomson/)
 - MIT Technology Review
   - [Scaling agentic AI pilots across the enterprise](https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/)
+  - [The Download: rethinking child safety and fossil-fueled farming](https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/)
+- NVIDIA AI Blog
+  - [‘NBA 2K27’ With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/)
+- Pen Test Partners
+  - [Why your data is safer than you think on public Wi-Fi](https://www.pentestpartners.com/security-blog/why-your-data-is-safer-than-you-think-on-public-wi-fi/)
 - pluralistic.net
   - [Pluralistic: Preparing for a post-Trump internet (03 Sep 2026)](https://pluralistic.net/2026/09/03/broken-arrows/)
 - Publications | Outflank
   - [Red Team AI Skills](https://www.outflank.nl/blog/2026/09/02/red-team-ai-skills/)
+- Recent Commits to cve:main
+  - [Update Thu Sep  3 12:15:12 UTC 2026](https://github.com/trickest/cve/commit/8ca4b817d19578a08ae45e704d541b7860e61b9f)
 - rtl-sdr.com
   - [FreeDV RADE: An Open-Source Digital Voice Mode for HF that Beats SSB at Low SNR](https://www.rtl-sdr.com/freedv-rade-an-open-source-digital-voice-mode-for-hf-that-beats-ssb-at-low-snr/)
 - shkspr.mobi
@@ -155,18 +169,22 @@
   - [Umay exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MUCOZE-UMAY&utm_source=rss&utm_medium=rss)
   - [wordlistgen exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ETHICALHACKINGPLAYGROUND-WORDLISTGEN&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Amazon’s Zoox expands its robotaxi service to Las Vegas airport](https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/)
   - [Delivery Hero board backs Uber’s $15B takeover bid](https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/)
   - [Enhanced geothermal notches another win as Google buys 400 MW from Fervo](https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/)
   - [Google spared from ad-business breakup, but judge orders changes to how it operates](https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/)
   - [India’s richest man now wants to turn aging computers into AI-ready PCs](https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/)
   - [It sure looks like hackers breached a major ID card verification service](https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/)
   - [MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming](https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/)
+  - [Nvidia confirms it will buy Hugging Face for $12.9 billion](https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/)
   - [OpenAI’s new reasoning technique alarms AI safety experts](https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/)
   - [Palo Alto Networks paid $500M for Thrive-backed Console, sources say](https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/)
   - [Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’](https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/)
   - [TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/)
   - [The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/)
+  - [TikTok comments are getting more interactive with voice comments, polls, and more](https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/)
   - [US government sides with OpenAI on issue of training LLMs on copyrighted material](https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/)
+  - [Volunteer at TechCrunch Founder Summit in Boston](https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/)
   - [Wonderful more than doubles its valuation to $5B in under 6 months](https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/)
   - [X shifts US creator payouts from Stripe to X Money](https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/)
 - tedium.co
@@ -179,6 +197,7 @@
   - [Michigan court orders Kalshi to keep blocking sports prediction markets](https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422)
   - [New Jersey asks Supreme Court to decide who regulates sports betting on prediction markets](https://www.theblock.co/news/regulation/2026-09-02-new-jersey-asks-supreme-court-to-decide-who-regulates-sports-betting-on-prediction-markets-413398)
   - [Securitize and Socios team up to tokenize equity in pro sports teams](https://www.theblock.co/news/ecosystems/2026-09-02-securitize-and-socios-team-up-to-tokenize-equity-in-pro-sports-teams-413378)
+  - [SoFi, Payward agree to link banking network with Kraken infrastructure](https://www.theblock.co/news/business/2026-09-03-sofi-payward-agree-to-link-banking-network-with-kraken-infrastructure-413432)
   - [World open-sources ProveKit, a zero-knowledge identity proving toolkit](https://www.theblock.co/news/ecosystems/2026-09-02-world-provekit-zero-knowledge-identity-proving-toolkit-413364)
   - [‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures](https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416)
 - The Decoder
@@ -200,6 +219,7 @@
   - [Belkin’s first trackers come ready to attach to your gear.](https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag)
   - [Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more](https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash)
   - [Here are some of REI’s best Labor Day sale deals](https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026)
+  - [Nvidia is buying Hugging Face for almost $13 billion](https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal)
   - [Philips Hue adds more affordable options for syncing smart lights with your TV](https://www.theverge.com/tech/988363/philips-hue-play-screen-sync-entertainment-lighting)
   - [Philips Hue adds Nanoleaf&#8217;s light panels to its ecosystem with a $40 module](https://www.theverge.com/tech/988144/philips-hue-nanoleaf-smart-wall-panels-integration-module)
   - [Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing](https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs)
@@ -212,8 +232,11 @@
 - Wired
   - [Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are](https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/)
   - [DOGE Affiliate Asked for College Credits for Participating in Takeover](https://www.wired.com/story/doge-affiliate-asked-for-college-credits-for-participating-in-takeover/)
+  - [I Got a Brief Look at ‘Guild Wars 3,’ and I’m Excited](https://www.wired.com/story/guild-wars-3-first-look/)
   - [ICE Plans to Pay $5 Million to Create National Voting Database](https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/)
   - [Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing](https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/)
+  - [Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here](https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/)
+  - [Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI](https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/)
   - [Scientists Have Found the Most Convincing Evidence Yet of a Dark Matter Particle](https://www.wired.com/story/scientists-find-most-convincing-evidence-yet-dark-matter-particle/)
   - [Smart Toilets Are Already Using AI to Analyze Your Poop](https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/)
   - [The Best Air Quality Monitor for Outdoors and Indoors in 2026](https://www.wired.com/story/best-air-quality-monitors/)
@@ -255,6 +278,8 @@
   - [世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！](https://www.qbitai.com/2026/09/483189.html)
   - [腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场](https://www.qbitai.com/2026/09/483786.html)
   - [陈大年复出，入局大模型](https://www.qbitai.com/2026/09/483600.html)
+- 阿小信的博客
+  - [详解LLMs.txt：AI 时代网站内容控制的新协议](https://blog.axiaoxin.com/post/llms-txt-file/)
 - 黑海洋
   - [个人电脑用DRAM价格连续七个月走高](https://blog.upx8.com/%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91%E7%94%A8DRAM%E4%BB%B7%E6%A0%BC%E8%BF%9E%E7%BB%AD%E4%B8%83%E4%B8%AA%E6%9C%88%E8%B5%B0%E9%AB%98)
   - [天猫上线Token充值中心 可购多家大模型签订费配套](https://blog.upx8.com/%E5%A4%A9%E7%8C%AB%E4%B8%8A%E7%BA%BFToken%E5%85%85%E5%80%BC%E4%B8%AD%E5%BF%83-%E5%8F%AF%E8%B4%AD%E5%A4%9A%E5%AE%B6%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AD%BE%E8%AE%A2%E8%B4%B9%E9%85%8D%E5%A5%97)
