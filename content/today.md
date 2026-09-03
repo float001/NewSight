@@ -1,9 +1,13 @@
 # 今日安全资讯（2026-09-03）
 
 - 2Libra
+  - [qwen 有 491 个模型，每个都有 1M 免费 token 可用，时间还剩 91 天，你们也有吗？](https://2libra.com/post/large-models/_ItxpiF)
   - [【投票·💰】工作与家庭的兼顾确实有点……](https://2libra.com/post/family/zTUY7Wa)
+  - [关于昨晚一点小事分享](https://2libra.com/post/small-things/6O5by-T)
   - [家里次卧外面和楼下接壤的地方有个马蜂窝，昨天打了 119。](https://2libra.com/post/personal-life/dM8hWC9)
   - [来自东北老家的吃吃吃，南方小伙伴是不是不认识？](https://2libra.com/post/personal-life/CyRXMFR)
+  - [潘多拉](https://2libra.com/post/forum-function/M2MtGov)
+  - [近期音乐分享](https://2libra.com/post/idea/GTSV2mZ)
 - 404 Media
   - [How the Hell Did an Island Suddenly Appear, Then Vanish?](https://www.404media.co/how-the-hell-did-an-island-suddenly-appear-then-vanish/)
 - Ars Technica
@@ -127,6 +131,7 @@
 - Wired
   - [Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are](https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/)
   - [ICE Plans to Pay $5 Million to Create National Voting Database](https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/)
+  - [Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing](https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/)
   - [These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words](https://www.wired.com/story/russian-startup-mostik-ai-models-communication/)
   - [Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit](https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/)
 - 不安全
