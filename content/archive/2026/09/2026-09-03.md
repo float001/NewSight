@@ -6,6 +6,7 @@
   - [【投票·💰】工作与家庭的兼顾确实有点……](https://2libra.com/post/family/zTUY7Wa)
   - [【💰】大家在用什么工位茶包](https://2libra.com/post/office-life/AcwyKnF)
   - [关于昨晚一点小事分享](https://2libra.com/post/small-things/6O5by-T)
+  - [卧槽卧槽卧槽](https://2libra.com/post/slacking-off/DGUL1zi)
   - [大家除了中介还有什么租房的渠道没有？](https://2libra.com/post/questions/6JjheaR)
   - [家里次卧外面和楼下接壤的地方有个马蜂窝，昨天打了 119。](https://2libra.com/post/personal-life/dM8hWC9)
   - [抠抠搜搜](https://2libra.com/post/personal-life/eAe0u5i)
@@ -170,6 +171,8 @@
   - [CVE-2025-4275 — Updated!](https://buaq.net/go-439640.html)
   - [CVE-2026-25250 — Updated!](https://buaq.net/go-439639.html)
   - [CVE-2026-67620-poc — Updated!](https://buaq.net/go-439638.html)
+  - [LinusWare-Source-Code-Internal](https://buaq.net/go-439709.html)
+  - [Open-Source-Threat-Intel-Feeds](https://buaq.net/go-439702.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
