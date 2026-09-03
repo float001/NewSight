@@ -1,12 +1,16 @@
 # 今日安全资讯（2026-09-03）
 
 - 2Libra
+  - [Google 学生教育优惠复活](https://2libra.com/post/deal-hunter/eXSBUbD)
   - [qwen 有 491 个模型，每个都有 1M 免费 token 可用，时间还剩 91 天，你们也有吗？](https://2libra.com/post/large-models/_ItxpiF)
   - [【投票·💰】工作与家庭的兼顾确实有点……](https://2libra.com/post/family/zTUY7Wa)
   - [关于昨晚一点小事分享](https://2libra.com/post/small-things/6O5by-T)
+  - [大家除了中介还有什么租房的渠道没有？](https://2libra.com/post/questions/6JjheaR)
   - [家里次卧外面和楼下接壤的地方有个马蜂窝，昨天打了 119。](https://2libra.com/post/personal-life/dM8hWC9)
   - [抠抠搜搜](https://2libra.com/post/personal-life/eAe0u5i)
+  - [收集了一些 deepseek 鲸鱼娘表情包分享一下。](https://2libra.com/post/ai-applications/fNI_nN5)
   - [来自东北老家的吃吃吃，南方小伙伴是不是不认识？](https://2libra.com/post/personal-life/CyRXMFR)
+  - [海绵宝宝 gif 分享](https://2libra.com/post/animation-sharing/_nOW4Fz)
   - [潘多拉](https://2libra.com/post/forum-function/M2MtGov)
   - [给 MacBook 续了 AC+，💴 -899](https://2libra.com/post/apple/h8s5RLB)
   - [近期音乐分享](https://2libra.com/post/idea/GTSV2mZ)
@@ -40,6 +44,7 @@
   - [Saving money on Google Photos with Immich: Your own personal photo storage](https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/)
   - [Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x](https://frontierharness.org)
   - [Why do so many tools have JSON config files?](https://textlog.cc/post/895)
+  - [Wk. 6 of Vibecoding an MMO](https://eldermyr.com/)
 - HackerNoon
   - [How to Solve AI Data Center Problems](https://hackernoon.com/how-to-solve-ai-data-center-problems?source=rss)
 - IEEE Spectrum
@@ -47,12 +52,18 @@
   - [NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone](https://spectrum.ieee.org/canadarm-ieee-300th-milestone)
 - Publications | Outflank
   - [Red Team AI Skills](https://www.outflank.nl/blog/2026/09/02/red-team-ai-skills/)
+- rtl-sdr.com
+  - [FreeDV RADE: An Open-Source Digital Voice Mode for HF that Beats SSB at Low SNR](https://www.rtl-sdr.com/freedv-rade-an-open-source-digital-voice-mode-for-hf-that-beats-ssb-at-low-snr/)
 - Sploitus.com Exploits RSS Feed
   - [AD-PathFinder exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NETSPI-AD-PATHFINDER&utm_source=rss&utm_medium=rss)
   - [awesome-flipperzero exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DJSIME1-AWESOME-FLIPPERZERO&utm_source=rss&utm_medium=rss)
+  - [AWS-Loot exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SEBASTIAN-MORA-AWS-LOOT&utm_source=rss&utm_medium=rss)
   - [blackhat-python3 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EONRAIDER-BLACKHAT-PYTHON3&utm_source=rss&utm_medium=rss)
+  - [boofuzz exploit](https://sploitus.com/exploit?id=KITPLOIT:6776094090463084861&utm_source=rss&utm_medium=rss)
   - [Characterization-and-Detection-of-Cross-Router-Covert-Channels exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ORENSV-CHARACTERIZATION-AND-DETECTION-OF-CROSS-ROUTER-COVERT-CHANNELS&utm_source=rss&utm_medium=rss)
+  - [clusterfuzz exploit](https://sploitus.com/exploit?id=KITPLOIT:5212667766643408721&utm_source=rss&utm_medium=rss)
   - [Confluence-CVE-2022-26134 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ARCHANCHOUDHURY-CONFLUENCE-CVE-2022-26134&utm_source=rss&utm_medium=rss)
+  - [covert-tube exploit](https://sploitus.com/exploit?id=KITPLOIT:5083859894618594519&utm_source=rss&utm_medium=rss)
   - [CVE-2014-7911-CVE-2014-4322_get_root_privilege exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KOOZXCV-CVE-2014-7911-CVE-2014-4322_GET_ROOT_PRIVILEGE&utm_source=rss&utm_medium=rss)
   - [CVE-2016-0801 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ABDSEC-CVE-2016-0801&utm_source=rss&utm_medium=rss)
   - [CVE-2016-5195 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ARTTNBA3-CVE-2016-5195&utm_source=rss&utm_medium=rss)
@@ -82,21 +93,31 @@
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Apple Ipados](https://sploitus.com/exploit?id=D6FF8E69-11AB-5B28-831B-E5AFA9942346&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Read in Apple Ipados](https://sploitus.com/exploit?id=E8192140-1BF4-5C25-8078-49CF43AA946C&utm_source=rss&utm_medium=rss)
   - [Follina-CVE-2022-30190-Sample exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NYX2022-FOLLINA-CVE-2022-30190-SAMPLE&utm_source=rss&utm_medium=rss)
+  - [Get-RBCD-Threaded exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FATRODZIANKO-GET-RBCD-THREADED&utm_source=rss&utm_medium=rss)
   - [HelakuruV.1.1-DLLHijack exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SURAJHACX-HELAKURUV.1.1-DLLHIJACK&utm_source=rss&utm_medium=rss)
+  - [hyenae-ng exploit](https://sploitus.com/exploit?id=KITPLOIT:8208526248427215608&utm_source=rss&utm_medium=rss)
   - [iGPU-Leak exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HE-WENJIAN-IGPU-LEAK&utm_source=rss&utm_medium=rss)
   - [libxml2-exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BRAHMSTAEDT-LIBXML2-EXPLOIT&utm_source=rss&utm_medium=rss)
   - [linux-4.1.15_CVE-2022-3564 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TRINADH465-LINUX-4.1.15_CVE-2022-3564&utm_source=rss&utm_medium=rss)
   - [LSTAR-EN exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MOSCOWCHILL-LSTAR-EN&utm_source=rss&utm_medium=rss)
   - [munge exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DUN-MUNGE&utm_source=rss&utm_medium=rss)
+  - [nemesis exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LIBNET-NEMESIS&utm_source=rss&utm_medium=rss)
   - [openssl-fuzz exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WHATTHEFUZZ-OPENSSL-FUZZ&utm_source=rss&utm_medium=rss)
   - [owasp-cstg exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OWASP-OWASP-CSTG&utm_source=rss&utm_medium=rss)
   - [PoC---CVE-2018-6389 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALESSIOGILARDI-POC---CVE-2018-6389&utm_source=rss&utm_medium=rss)
+  - [Pollenisator exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALGOSECURE-POLLENISATOR&utm_source=rss&utm_medium=rss)
   - [poppy exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TAHAAFAROOQ-POPPY&utm_source=rss&utm_medium=rss)
   - [pyscan exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OHASWIN-PYSCAN&utm_source=rss&utm_medium=rss)
   - [RpcProxyInvoke exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KLEZVIRUS-RPCPROXYINVOKE&utm_source=rss&utm_medium=rss)
   - [Sniffle exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NCCGROUP-SNIFFLE&utm_source=rss&utm_medium=rss)
+  - [sqlancer exploit](https://sploitus.com/exploit?id=KITPLOIT:1790249022598427304&utm_source=rss&utm_medium=rss)
+  - [SQLbit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SUNLIGHT-RIM-SQLBIT&utm_source=rss&utm_medium=rss)
   - [Stealth-Kid-RAT exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ARTBITRAGE-STEALTH-KID-RAT&utm_source=rss&utm_medium=rss)
+  - [SysWhispers3 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KLEZVIRUS-SYSWHISPERS3&utm_source=rss&utm_medium=rss)
   - [thorse exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PUSHPENDERINDIA-THORSE&utm_source=rss&utm_medium=rss)
+  - [TrueTree exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THEMITTENMAC-TRUETREE&utm_source=rss&utm_medium=rss)
+  - [Umay exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MUCOZE-UMAY&utm_source=rss&utm_medium=rss)
+  - [wordlistgen exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ETHICALHACKINGPLAYGROUND-WORDLISTGEN&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Delivery Hero board backs Uber’s $15B takeover bid](https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/)
   - [Enhanced geothermal notches another win as Google buys 400 MW from Fervo](https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/)
@@ -112,6 +133,8 @@
   - [US government sides with OpenAI on issue of training LLMs on copyrighted material](https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/)
   - [Wonderful more than doubles its valuation to $5B in under 6 months](https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/)
   - [X shifts US creator payouts from Stripe to X Money](https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/)
+- tedium.co
+  - [Second Quest](https://feed.tedium.co/link/15204/17438215/mapquest-unexpected-revival)
 - The Block
   - [Anthony Armstrong, former CFO at Elon Musk’s xAI and X, joins Coinbase board](https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405)
   - [Arbitrum DAO reports $6.2 million in first-half income as Robinhood Chain adds new revenue stream](https://www.theblock.co/news/ecosystems/2026-09-02-arbitrum-dao-reports-6-2-million-first-half-income-robinhood-chain-adds-new-revenue-stream-413345)
@@ -119,6 +142,7 @@
   - [New Jersey asks Supreme Court to decide who regulates sports betting on prediction markets](https://www.theblock.co/news/regulation/2026-09-02-new-jersey-asks-supreme-court-to-decide-who-regulates-sports-betting-on-prediction-markets-413398)
   - [Securitize and Socios team up to tokenize equity in pro sports teams](https://www.theblock.co/news/ecosystems/2026-09-02-securitize-and-socios-team-up-to-tokenize-equity-in-pro-sports-teams-413378)
   - [World open-sources ProveKit, a zero-knowledge identity proving toolkit](https://www.theblock.co/news/ecosystems/2026-09-02-world-provekit-zero-knowledge-identity-proving-toolkit-413364)
+  - [‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures](https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416)
 - The Decoder
   - [Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA](https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/)
   - [US Department of Justice backs fair use for AI training in landmark copyright case](https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/)
