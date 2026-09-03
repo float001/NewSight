@@ -3,17 +3,31 @@
 - 2Libra
   - [在线电子书阅读器](https://2libra.com/post/open-source-sharing/9CHWOU8)
   - [求助帖：Win10 + Mac 双平台，寻找 Foxmail 替代品](https://2libra.com/post/tools-sharing/-xKte0k)
+- Chainalysis Blog
+  - [Chainalysis Supports HyperEVM with Automatic Token Support](https://www.chainalysis.com/blog/chainalysis-supports-hyperevm-with-automatic-token-support/)
+- CoinTelegraph
+  - [BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026](https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bybit Pay integrates with Mesh to expand crypto payments](https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [MapQuest Refuses to Relabel Lake Ontario, Rewarded With Surge in Popularity](https://thehill.com/homenews/administration/6063924-mapquest-tops-apple-google-maps-in-downloads-after-refusing-trumps-lake-america-change/?ref=ihnatko.com)
   - [Phil Schiller Steps Down From Running App Store and Product Events](https://www.bloomberg.com/news/articles/2026-08-31/apple-s-phil-schiller-steps-down-from-running-app-store-and-product-events?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODE5Mzk5NywiZXhwIjoxNzg4Nzk4Nzk3LCJhcnRpY2xlSWQiOiJUS0VDTE1LSkg2VjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.G1fAbZQH31AQBLUajPYPUJ7BqRyeIUN7SbxQZFAqMXE)
+- Emergent Minds | paddo.dev
+  - [Two Meters: Claude Fable 5.1 Is Cheaper on the API and Hungrier on Max, and What to Turn Down](https://paddo.dev/blog/fable-5-1-two-meters/)
+- gilesthomas.com
+  - [Putting my JAX-trained models on the Hugging Face Hub](https://www.gilesthomas.com/2026/09/jax-models-on-hugging-face)
 - Hacker News Frontpage
+  - [Instrument Clusters Are Now Paid Extras in Two Hyundai Models](https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option/)
   - [Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents](https://www.mireye.com)
   - [OpenAI's new reasoning technique alarms AI safety experts](https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/)
+  - [Sanders introduces bill to ban artificial superintelligence and pause AI](https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/)
   - [Texas Data Center Map: See where data centers are operating or planned](https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/)
+  - [Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB](https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb)
 - HackerNoon
   - [12 Hours, 100 Rooms, 1 Hotel in Albania: How I Fixed WiFi and IPTV Chaos Without a Controller](https://hackernoon.com/12-hours-100-rooms-1-hotel-in-albania-how-i-fixed-wifi-and-iptv-chaos-without-a-controller?source=rss)
 - Horizon3.ai
   - [How Virginia Tech Connected Pentesting to Its Engineering Workflow](https://horizon3.ai/customer-story/virginia-tech-automated-external-pentesting/)
+- johndcook.com
+  - [New RSA number factored](https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/)
 - Sploitus.com Exploits RSS Feed
   - [CyberStrike exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CYBERSTRIKEUS-CYBERSTRIKE&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-8181](https://sploitus.com/exploit?id=BA259D25-F378-56B6-826E-F9AEB27553B5&utm_source=rss&utm_medium=rss)
@@ -27,10 +41,13 @@
   - [Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts](https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/)
   - [Google launches AI voice features in Gmail, Docs and Keep](https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/)
   - [Ollie is betting its focus on privacy can help it win the AI assistant race](https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/)
+  - [OpenAI launches Astra, its powerful (and controversial) new model](https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/)
   - [Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers](https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/)
 - The Block
   - [Stablecoin payments infrastructure startup Diameter Pay raises $10 million](https://www.theblock.co/news/deals/2026-09-03-diameter-pay-funding-stablecoin-payments-infrastructure-413454)
   - [Strive CEO says company could end 2026 as second-largest public bitcoin holder as ASST climbs](https://www.theblock.co/news/markets/2026-09-03-strive-ceo-company-could-end-2026-second-largest-bitcoin-holder-asst-413455)
+- The Verge
+  - [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)
 - Wired
   - [Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme](https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/)
   - [OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk](https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/)
