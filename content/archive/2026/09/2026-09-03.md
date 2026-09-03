@@ -19,12 +19,14 @@
   - [Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users](https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users)
 - Emergent Minds | paddo.dev
   - [A Dial Worth Turning: Claude Opus 5's Prose, and the Style Guide Anthropic Wrote Against Its Own Model](https://paddo.dev/blog/a-dial-worth-turning/)
+  - [Nvidia Buys the Hub: Hugging Face, $12.9 Billion, and Whether MLX Is in Trouble](https://paddo.dev/blog/nvidia-buys-the-hub/)
 - GuidePoint Security
   - [AI Agent Security Starts with Identity: Three Questions Every Enterprise Should Answer](https://www.guidepointsecurity.com/blog/ai-agent-security-starts-with-identity/)
 - Hacker News Frontpage
   - [Altair Basic Interpreter Source Code (1975) [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
   - [Firefox's AI Switch Is Off. Telemetry Isn't](https://marius.blog/firefox-155-ai-kill-switch-retest/)
   - [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://ronanrx.com/)
+  - [METR Report on OpenAI / Hugging Face Hacking Incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident)
   - [Saving money on Google Photos with Immich: Your own personal photo storage](https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/)
   - [Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x](https://frontierharness.org)
   - [Why do so many tools have JSON config files?](https://textlog.cc/post/895)
@@ -44,6 +46,7 @@
   - [CVE-2023-38873-G1 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-K9-MODZ-CVE-2023-38873-G1&utm_source=rss&utm_medium=rss)
   - [DarunGrim exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OHJEONGWOOK-DARUNGRIM&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-82329](https://sploitus.com/exploit?id=DC7D9D0A-60AF-5543-8EBC-1EF85E277FFE&utm_source=rss&utm_medium=rss)
+  - [Exploit for Eval Injection in Langflow](https://sploitus.com/exploit?id=20A07B7E-35D2-5D56-8B1A-C355139401C1&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Apple Ipados](https://sploitus.com/exploit?id=A2EF0CFA-E69E-52E3-9849-7732924E94FE&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Apple Ipados](https://sploitus.com/exploit?id=D6FF8E69-11AB-5B28-831B-E5AFA9942346&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Read in Apple Ipados](https://sploitus.com/exploit?id=E8192140-1BF4-5C25-8078-49CF43AA946C&utm_source=rss&utm_medium=rss)
