@@ -23,6 +23,7 @@
   - [Bitcoin’s apparent demand turns negative as price struggles with $77K](https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase launches regulated crypto derivatives in Canada](https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Hyperscale Data ends Michigan BTC mining as holdings fall 79%](https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New Jersey officials petition US Supreme Court over prediction markets](https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ondo urges SEC, CFTC to bring US stock perpetuals onshore](https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US officials work with CrowdStrike to fight malware behind crypto theft](https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -139,6 +140,7 @@
   - [Anthony Armstrong, former CFO at Elon Musk’s xAI and X, joins Coinbase board](https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405)
   - [Arbitrum DAO reports $6.2 million in first-half income as Robinhood Chain adds new revenue stream](https://www.theblock.co/news/ecosystems/2026-09-02-arbitrum-dao-reports-6-2-million-first-half-income-robinhood-chain-adds-new-revenue-stream-413345)
   - [Memecoin shenanigans spill into Nasdaq as microcap mushroom seller Farmmi surges 350%](https://www.theblock.co/news/markets/2026-09-02-memecoin-shenanigans-nasdaq-microcap-mushroom-seller-farmmi-413374)
+  - [Michigan court orders Kalshi to keep blocking sports prediction markets](https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422)
   - [New Jersey asks Supreme Court to decide who regulates sports betting on prediction markets](https://www.theblock.co/news/regulation/2026-09-02-new-jersey-asks-supreme-court-to-decide-who-regulates-sports-betting-on-prediction-markets-413398)
   - [Securitize and Socios team up to tokenize equity in pro sports teams](https://www.theblock.co/news/ecosystems/2026-09-02-securitize-and-socios-team-up-to-tokenize-equity-in-pro-sports-teams-413378)
   - [World open-sources ProveKit, a zero-knowledge identity proving toolkit](https://www.theblock.co/news/ecosystems/2026-09-02-world-provekit-zero-knowledge-identity-proving-toolkit-413364)
@@ -173,5 +175,6 @@
   - [Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍](https://www.ifanr.com/1678197?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市](https://www.ifanr.com/1678222?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [个人电脑用DRAM价格连续七个月走高](https://blog.upx8.com/%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91%E7%94%A8DRAM%E4%BB%B7%E6%A0%BC%E8%BF%9E%E7%BB%AD%E4%B8%83%E4%B8%AA%E6%9C%88%E8%B5%B0%E9%AB%98)
   - [纽约市禁止学生在进入高中之前使用AI](https://blog.upx8.com/%E7%BA%BD%E7%BA%A6%E5%B8%82%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E5%9C%A8%E8%BF%9B%E5%85%A5%E9%AB%98%E4%B8%AD%E4%B9%8B%E5%89%8D%E4%BD%BF%E7%94%A8AI)
   - [纽约时报起诉OpenAI 美国司法部首次公开站队](https://blog.upx8.com/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E8%B5%B7%E8%AF%89OpenAI-%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E7%AB%99%E9%98%9F)
