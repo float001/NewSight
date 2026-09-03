@@ -2,9 +2,11 @@
 
 - 2Libra
   - [Google 学生教育优惠复活](https://2libra.com/post/deal-hunter/eXSBUbD)
+  - [libra2 可以有智能审核提示吗](https://2libra.com/post/forum-function/8d8zMcC)
   - [qwen 有 491 个模型，每个都有 1M 免费 token 可用，时间还剩 91 天，你们也有吗？](https://2libra.com/post/large-models/_ItxpiF)
   - [【投票·💰】工作与家庭的兼顾确实有点……](https://2libra.com/post/family/zTUY7Wa)
   - [【💰】大家在用什么工位茶包](https://2libra.com/post/office-life/AcwyKnF)
+  - [优化了通知模块，现在会优先打开未读通知弹窗](https://2libra.com/post/product-updates/0qEP4_K)
   - [关于昨晚一点小事分享](https://2libra.com/post/small-things/6O5by-T)
   - [卧槽卧槽卧槽](https://2libra.com/post/slacking-off/DGUL1zi)
   - [大家除了中介还有什么租房的渠道没有？](https://2libra.com/post/questions/6JjheaR)
@@ -19,6 +21,7 @@
   - [海绵宝宝 gif 分享](https://2libra.com/post/animation-sharing/_nOW4Fz)
   - [潘多拉](https://2libra.com/post/forum-function/M2MtGov)
   - [给 MacBook 续了 AC+，💴 -899](https://2libra.com/post/apple/h8s5RLB)
+  - [自定义声音按钮网站](https://2libra.com/post/tools-sharing/mz74avB)
   - [近期音乐分享](https://2libra.com/post/idea/GTSV2mZ)
 - 404 Media
   - [How the Hell Did an Island Suddenly Appear, Then Vanish?](https://www.404media.co/how-the-hell-did-an-island-suddenly-appear-then-vanish/)
@@ -29,9 +32,11 @@
   - [Australia warns unlicensed crypto firms of fines up to 10% of annual turnover](https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin’s apparent demand turns negative as price struggles with $77K](https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase launches regulated crypto derivatives in Canada](https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Coldcard hacker swaps stolen Bitcoin for ETH via THORChain](https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ether, XRP ETF inflow streaks end as Bitcoin funds rebound](https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hyperscale Data ends Michigan BTC mining as holdings fall 79%](https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kalshi seeks CFTC approval for WTI crude perpetual futures: Report](https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New Jersey officials petition US Supreme Court over prediction markets](https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ondo urges SEC, CFTC to bring US stock perpetuals onshore](https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US officials work with CrowdStrike to fight malware behind crypto theft](https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -57,12 +62,18 @@
   - [Why do so many tools have JSON config files?](https://textlog.cc/post/895)
   - [Wk. 6 of Vibecoding an MMO](https://eldermyr.com/)
 - HackerNoon
+  - [Five Times Pixbu’s Tests Measured the Wrong Thing](https://hackernoon.com/five-times-pixbus-tests-measured-the-wrong-thing?source=rss)
   - [How to Solve AI Data Center Problems](https://hackernoon.com/how-to-solve-ai-data-center-problems?source=rss)
+  - [My Safety Checks Were Monuments to Bugs I Had Already Fixed](https://hackernoon.com/my-safety-checks-were-monuments-to-bugs-i-had-already-fixed?source=rss)
+  - [World Open-Sources ProveKit, a Post-Quantum Proving Toolkit That Runs on a Phone](https://hackernoon.com/world-open-sources-provekit-a-post-quantum-proving-toolkit-that-runs-on-a-phone?source=rss)
 - IEEE Spectrum
   - [Applying Different Forms of Mentorship](https://spectrum.ieee.org/forms-of-engineering-mentorship)
   - [NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone](https://spectrum.ieee.org/canadarm-ieee-300th-milestone)
 - infosecurity-magazine.com
+  - [FBI Probes Possible Breach of 153 Million Driver’s Licenses](https://www.infosecurity-magazine.com/news/fbi-probes-breach-153-million/)
   - [International Operation Disrupts Sality P2P Botnet](https://www.infosecurity-magazine.com/news/international-operation-disrupts/)
+- MIT Technology Review
+  - [Scaling agentic AI pilots across the enterprise](https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/)
 - pluralistic.net
   - [Pluralistic: Preparing for a post-Trump internet (03 Sep 2026)](https://pluralistic.net/2026/09/03/broken-arrows/)
 - Publications | Outflank
@@ -189,6 +200,7 @@
   - [Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are](https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/)
   - [ICE Plans to Pay $5 Million to Create National Voting Database](https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/)
   - [Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing](https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/)
+  - [Smart Toilets Are Already Using AI to Analyze Your Poop](https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/)
   - [These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words](https://www.wired.com/story/russian-startup-mostik-ai-models-communication/)
   - [Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit](https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/)
 - 不安全
@@ -209,6 +221,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [人体不同组织的结构衰老呈现三种模式](https://www.solidot.org/story?sid=85272)
+- 安全客
+  - [漏洞开始工业化生产：AI让黑客的经验可以复制粘贴了](https://www.anquanke.com/post/id/316072)
 - 爱范儿
   - [Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍](https://www.ifanr.com/1678197?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市](https://www.ifanr.com/1678222?utm_source=rss&utm_medium=rss&utm_campaign=)
