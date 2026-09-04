@@ -2,15 +2,27 @@
 
 - 2Libra
   - [【vps】美西除了 dimt 还有哪些 vps 推荐？带线路优化的](https://2libra.com/post/servers/2SzQa-a)
+  - [【💰】新买了电动车，骑车物品求推（头盔、雨衣、记录仪等）](https://2libra.com/post/worth-buying/J7q4oog)
   - [自动领取 WorkBuddy 每日积分的小脚本](https://2libra.com/post/open-source-tools/YqoTPAy)
 - Ars Technica
   - [Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight](https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/)
   - [Second complete map of a fruit fly brain completed](https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/)
   - [Valve secretly leaked a Left 4 Dead 2 trailer to dodge the ESRB](https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/)
+- CoinTelegraph
+  - [Crypto Biz: AI took a back seat when Bitcoin started climbing](https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [QuFi launches post-quantum verification platform with Bitcoin testnet proof](https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+- Hacker News Frontpage
+  - [Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace](https://twitter.com/ggerganov/status/2095897173376618881)
+  - [Nobody Is Saying Why OpenAI and Anthropic Had Outages](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
+  - [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com)
+- Horizon3.ai
+  - [What Fal.Con 2026 Reinforced: AI Makes Proving Exposure More Important Than Ever](https://horizon3.ai/intelligence/blogs/fal-con-2026-ai-exposure-validation/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-08-31: Files for an ISC diary (Guildma/Astaroth infection)](https://www.malware-traffic-analysis.net/2026/08/31/index.html)
+- simonwillison.net
+  - [OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/)
 - Sploitus.com Exploits RSS Feed
   - [bazad5 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SIDEGREENHAND100-BAZAD5&utm_source=rss&utm_medium=rss)
   - [Cisco-CVE-2025-20281-illdeed exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ILL-DEED-CISCO-CVE-2025-20281-ILLDEED&utm_source=rss&utm_medium=rss)
@@ -44,9 +56,19 @@
   - [sudo-exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-REDHAWKEYE-SUDO-EXPLOIT&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/)
+  - [Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now](https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/)
   - [No little kids allowed, and other new info about Tesla’s Cybercab](https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/)
+  - [What will Apple’s John Ternus era look like?](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/)
 - The Block
   - [Zcash tops $1,000 as ETF inflows ramp up and miners pile in](https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580)
+- The Decoder
+  - [OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections](https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/)
+- The Verge
+  - [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be)
+  - [GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;](https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter)
+  - [Roland is getting into generative AI music with Melody Flip](https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip)
+- Wallarm
+  - [Dissecting Attacks Is Only Valuable If It Informs Controls: What the Unit 42 agentic AI investigation should change in your control set, stage by stage.](https://lab.wallarm.com/what-the-unit-42-agentic-ai-investigation-should-change-in-your-control-set-stage-by-stage/)
 - wheresyoured.at
   - [Premium: The Hater's Guide To Circular Financing (Part Two)](https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-two/)
 - 代码审计星球
