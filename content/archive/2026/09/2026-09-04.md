@@ -37,6 +37,8 @@
   - [NJ urges SCOTUS to rule that Kalshi sports bets are gambling, not "swaps"](https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/)
   - [Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them](https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/)
   - [US senator calls on the NSA to give guidance for use of VPNs](https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/)
+- Ben's Bites
+  - [Scraping 107M rows of data to build this](https://www.bensbites.com/p/scraping-107m-rows-of-data-to-build)
 - blog.jim-nielsen.com
   - [Can We Stop With the Uptime Percentages?](https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/)
 - Chainalysis Blog
@@ -76,6 +78,7 @@
   - [Putting my JAX-trained models on the Hugging Face Hub](https://www.gilesthomas.com/2026/09/jax-models-on-hugging-face)
 - Hacker News Frontpage
   - ['People are going to get screwed' Pennsylvania voters unite against data centres](http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5)
+  - [Burnt out on a three-day week](https://jennywanger.com/articles/burnt-out-on-a-three-day-week/)
   - [Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/)
   - [GLP-1s Are Being Linked to Fewer Serious Infections, Including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
   - [Instrument Clusters Are Now Paid Extras in Two Hyundai Models](https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option/)
@@ -113,8 +116,11 @@
   - [G7 Urges Fast-Track on Quantum-Safe Cybersecurity Rules](https://www.infosecurity-magazine.com/news/g7-urges-quantum-safe-cyber-rules/)
   - [OpenAI Pledges $1bn to Bring its AI Cybersecurity Tools to Essential Services](https://www.infosecurity-magazine.com/news/openai-pledges-ai-tools-essential/)
 - johndcook.com
+  - [Computing a lower bound on matrix rank](https://www.johndcook.com/blog/2026/09/04/stable-rank/)
   - [Hugging Face Easter Egg](https://www.johndcook.com/blog/2026/09/03/hugging-face-easter-egg/)
   - [New RSA number factored](https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/)
+- Kali Linux Tutorials
+  - [What I Wish I Knew Before Learning Malware Analysis and Reverse Engineering](https://kalilinuxtutorials.com/what-i-wish-i-knew-before-learning-malware-analysis-and-reverse-engineering/)
 - MalwareTech
   - [Machine Speed is a lie: stop trying to fight AI with AI](https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-with-ai.html)
 - MIT Technology Review
@@ -159,6 +165,7 @@
   - [evince-cve-2017-1000083 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MATLINK-EVINCE-CVE-2017-1000083&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-8181](https://sploitus.com/exploit?id=BA259D25-F378-56B6-826E-F9AEB27553B5&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-85046](https://sploitus.com/exploit?id=BC891D55-F8C7-50B2-99BA-EEBC3E72F787&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Validation of Consistency within Input in Linux Linux_Kernel](https://sploitus.com/exploit?id=A4A309DD-DBF4-5F62-83A8-B0BF5BA715B7&utm_source=rss&utm_medium=rss)
   - [FinalShellDecodePass exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JAS502N-FINALSHELLDECODEPASS&utm_source=rss&utm_medium=rss)
   - [fix-react2shell-next exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SAIED25-FIX-REACT2SHELL-NEXT&utm_source=rss&utm_medium=rss)
   - [G2.5_openssl_CVE-2014-5139 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-UTHRASRI-G2.5_OPENSSL_CVE-2014-5139&utm_source=rss&utm_medium=rss)
@@ -195,10 +202,13 @@
 - TechCrunch
   - [Abliteration.ai is making a business out of removing AI guardrails](https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/)
   - [Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation](https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/)
+  - [CD sales are making an unexpected comeback amid a retro tech boom](https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/)
   - [Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts](https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/)
   - [Crusoe reportedly raises $3B at a  $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)
   - [Feds launch investigation into Tesla’s Cybercab deployment](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/)
   - [Google launches AI voice features in Gmail, Docs and Keep](https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/)
+  - [Google’s Gemini Spark can now manage your Google Photos library](https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/)
+  - [Krafton doubles down on India with another $250M bet beyond gaming](https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/)
   - [Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event](https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/)
   - [Meta is paying to peek at how you use their latest AI model](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/)
   - [Ollie is betting its focus on privacy can help it win the AI assistant race](https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/)
@@ -225,11 +235,13 @@
   - [Trezor says ShipMonk breach affected another 67,000 customers](https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540)
   - [US bitcoin ETFs report the largest inflow day since January, worth $731 million](https://www.theblock.co/news/markets/2026-09-04-us-bitcoin-etfs-largest-inflow-day-since-january-413515)
 - The Decoder
+  - [Deepseek plans the largest known Huawei chip cluster with 160,000 processors in Inner Mongolia](https://the-decoder.com/deepseek-plans-the-largest-known-huawei-chip-cluster-with-160000-processors-in-inner-mongolia/)
   - [GPT-6 Astra is the first model making OpenAI willing to declare the "AGI era"](https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/)
   - [Nvidia wants your home network to work like a mini data center for local AI](https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/)
   - [OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits](https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/)
   - [Pangram's biggest flaw is users turning its scores into public shaming](https://the-decoder.com/pangrams-biggest-flaw-is-users-turning-its-scores-into-public-shaming/)
 - The Verge
+  - [Alienware’s refurbished 16 Aurora is almost $200 off at Woot](https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale)
   - [Aqara goes all in on smart lighting](https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026)
   - [Bluetti launches ‘e-generator’ to take on noisy, stinky, polluting gas generators](https://www.theverge.com/tech/986123/bluetti-pioneer-5000-solar-generator)
   - [Congressman says TikTok backed out of a meeting to avoid child safety questions](https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety)
@@ -238,6 +250,7 @@
   - [iRobot unveils the Roomba Duo](https://www.theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum)
   - [Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick](https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable)
   - [Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers](https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers)
+  - [Nintendo&#8217;s next two Direct events are both happening next week](https://www.theverge.com/games/990207/nintendo-direct-zelda-40th)
   - [Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40)
   - [Oh good, looks like yet another swarm of rogue AI agents from OpenAI](https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki)
   - [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)
@@ -249,6 +262,7 @@
   - [This NAS company wants to run your local smart home](https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home)
   - [This rugged phone’s removable camera can survive and capture your extreme adventures](https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof)
   - [We spent the week testing IFA’s best (and weirdest) gadgets, ask us anything](https://www.theverge.com/tech/989199/ifa-berlin-2026-gadgets-ask-us-anything)
+  - [What to expect at Apple’s September 9th launch event](https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch)
   - [Why AI food looks like that](https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that)
   - [Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming](https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs)
   - [You can watch the coolant flow inside Ugreen’s liquid-cooled power bank](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling)
@@ -338,6 +352,7 @@
 - 阿小信的博客
   - [为什么你的网站没有被 ChatGPT 推荐？让网站在 AI 对话中被提到的五个可操作方向](https://blog.axiaoxin.com/post/get-mentioned-in-llm/)
 - 黑海洋
+  - [2026年全球智能手机均价上涨约15%，存储涨价成主因](https://blog.upx8.com/2026%E5%B9%B4%E5%85%A8%E7%90%83%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%9D%87%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%BA%A615-%E5%AD%98%E5%82%A8%E6%B6%A8%E4%BB%B7%E6%88%90%E4%B8%BB%E5%9B%A0)
   - [DLSS 5 首发仅限 RTX 50，但英伟达确认后续将扩展至 RTX 40 系列显卡](https://blog.upx8.com/DLSS-5-%E9%A6%96%E5%8F%91%E4%BB%85%E9%99%90-RTX-50-%E4%BD%86%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A1%AE%E8%AE%A4%E5%90%8E%E7%BB%AD%E5%B0%86%E6%89%A9%E5%B1%95%E8%87%B3-RTX-40-%E7%B3%BB%E5%88%97%E6%98%BE%E5%8D%A1)
   - [Meta付费收集用户使用其AI的相关数据](https://blog.upx8.com/Meta%E4%BB%98%E8%B4%B9%E6%94%B6%E9%9B%86%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E5%85%B6AI%E7%9A%84%E7%9B%B8%E5%85%B3%E6%95%B0%E6%8D%AE)
   - [广电总局：对用户上传微短剧，平台凡播必审](https://blog.upx8.com/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80-%E5%AF%B9%E7%94%A8%E6%88%B7%E4%B8%8A%E4%BC%A0%E5%BE%AE%E7%9F%AD%E5%89%A7-%E5%B9%B3%E5%8F%B0%E5%87%A1%E6%92%AD%E5%BF%85%E5%AE%A1)
