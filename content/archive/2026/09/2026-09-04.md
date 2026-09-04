@@ -53,8 +53,10 @@
   - [Kalshi US visits soar 1,500% as regulatory pressure mounts](https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network](https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms](https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Revolut, OpenReserve get preliminary US bank approval with crypto plans](https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korean regulators introduce tokenized securities roadmap](https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express](https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Token buybacks are booming. But are they good for crypto projects?](https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trezor says data breach affects another 67K US customers](https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US, UK launch joint alliance targeting crypto scam centers](https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - construction-physics.com
@@ -73,6 +75,7 @@
 - gilesthomas.com
   - [Putting my JAX-trained models on the Hugging Face Hub](https://www.gilesthomas.com/2026/09/jax-models-on-hugging-face)
 - Hacker News Frontpage
+  - ['People are going to get screwed' Pennsylvania voters unite against data centres](http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5)
   - [Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/)
   - [GLP-1s Are Being Linked to Fewer Serious Infections, Including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
   - [Instrument Clusters Are Now Paid Extras in Two Hyundai Models](https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option/)
@@ -196,6 +199,7 @@
   - [Crusoe reportedly raises $3B at a  $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)
   - [Feds launch investigation into Tesla’s Cybercab deployment](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/)
   - [Google launches AI voice features in Gmail, Docs and Keep](https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/)
+  - [Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event](https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/)
   - [Meta is paying to peek at how you use their latest AI model](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/)
   - [Ollie is betting its focus on privacy can help it win the AI assistant race](https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/)
   - [OpenAI launches Astra, its powerful (and controversial) new model](https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/)
@@ -205,6 +209,7 @@
   - [Tesla is asking people if they want to buy and run Cybercab fleets](https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/)
   - [The Cybercab is Tesla’s ‘fork in the road’ moment](https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/)
   - [The sameness problem behind those unappetizing AI-generated menus](https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/)
+  - [US military disabled ad tracking on troops’ devices following reports of targeted attacks](https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/)
   - [Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit](https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/)
 - The Block
   - [AMC stock jumps 21% overnight as CEO slams Robinhood over ‘outrageous’ tokenized shares](https://www.theblock.co/news/business/2026-09-04-amc-ceo-slams-robinhood-413513)
@@ -222,6 +227,7 @@
 - The Decoder
   - [GPT-6 Astra is the first model making OpenAI willing to declare the "AGI era"](https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/)
   - [Nvidia wants your home network to work like a mini data center for local AI](https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/)
+  - [OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits](https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/)
   - [Pangram's biggest flaw is users turning its scores into public shaming](https://the-decoder.com/pangrams-biggest-flaw-is-users-turning-its-scores-into-public-shaming/)
 - The Verge
   - [Aqara goes all in on smart lighting](https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026)
@@ -233,15 +239,18 @@
   - [Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick](https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable)
   - [Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers](https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers)
   - [Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40)
+  - [Oh good, looks like yet another swarm of rogue AI agents from OpenAI](https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki)
   - [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)
   - [Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users](https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout)
   - [Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day](https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale)
   - [Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal](https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out)
+  - [Tesla Cybercab is barely real and it’s already under investigation](https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify)
   - [The unusually muted Tesla Cybercab launch](https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk)
   - [This NAS company wants to run your local smart home](https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home)
   - [This rugged phone’s removable camera can survive and capture your extreme adventures](https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof)
   - [We spent the week testing IFA’s best (and weirdest) gadgets, ask us anything](https://www.theverge.com/tech/989199/ifa-berlin-2026-gadgets-ask-us-anything)
   - [Why AI food looks like that](https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that)
+  - [Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming](https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs)
   - [You can watch the coolant flow inside Ugreen’s liquid-cooled power bank](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling)
 - Vulners.com RSS Feed
   - [Chromium: CVE-2026-84323 Missing authorization in FileSystem](https://vulners.com/mscve/MS:CVE-2026-84323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -310,6 +319,7 @@
   - [oxo v2.9.29](https://buaq.net/go-440095.html)
   - [Phishing Analysis Fundamentals: TryHackMe Walkthrough](https://buaq.net/go-440014.html)
   - [secator v0.43.3](https://buaq.net/go-440096.html)
+  - [toolkit v2026.9](https://buaq.net/go-440168.html)
   - [Water Bottle — TryHackMe [Easy]](https://buaq.net/go-440013.html)
   - [When an Exposed .git Directory Tells the Whole Story — Solving TryHackMe's Room 404](https://buaq.net/go-440016.html)
 - 代码审计星球
@@ -317,6 +327,7 @@
 - 安全客
   - [CISA连夜拉黑7个在野漏洞：黑客正顺着LiteLLM偷你的大模型密钥](https://www.anquanke.com/post/id/316075)
 - 爱范儿
+  - [24.99 万元起、全系四激光雷达，启境 GX7 还准备了一件「午休神器」](https://www.ifanr.com/1678459?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [GPT-6 Astra 正式发布：性能 AGI，贵到要负债](https://www.ifanr.com/1678409?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」](https://www.ifanr.com/1678380?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [特斯拉新车发布！Cybercab 正式投入运营，马斯克开始接单了](https://www.ifanr.com/1678435?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -329,6 +340,7 @@
 - 黑海洋
   - [DLSS 5 首发仅限 RTX 50，但英伟达确认后续将扩展至 RTX 40 系列显卡](https://blog.upx8.com/DLSS-5-%E9%A6%96%E5%8F%91%E4%BB%85%E9%99%90-RTX-50-%E4%BD%86%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A1%AE%E8%AE%A4%E5%90%8E%E7%BB%AD%E5%B0%86%E6%89%A9%E5%B1%95%E8%87%B3-RTX-40-%E7%B3%BB%E5%88%97%E6%98%BE%E5%8D%A1)
   - [Meta付费收集用户使用其AI的相关数据](https://blog.upx8.com/Meta%E4%BB%98%E8%B4%B9%E6%94%B6%E9%9B%86%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E5%85%B6AI%E7%9A%84%E7%9B%B8%E5%85%B3%E6%95%B0%E6%8D%AE)
+  - [广电总局：对用户上传微短剧，平台凡播必审](https://blog.upx8.com/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80-%E5%AF%B9%E7%94%A8%E6%88%B7%E4%B8%8A%E4%BC%A0%E5%BE%AE%E7%9F%AD%E5%89%A7-%E5%B9%B3%E5%8F%B0%E5%87%A1%E6%92%AD%E5%BF%85%E5%AE%A1)
   - [泰国下令暂停49个数据中心项目建设 等待新规出台](https://blog.upx8.com/%E6%B3%B0%E5%9B%BD%E4%B8%8B%E4%BB%A4%E6%9A%82%E5%81%9C49%E4%B8%AA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE%E5%BB%BA%E8%AE%BE-%E7%AD%89%E5%BE%85%E6%96%B0%E8%A7%84%E5%87%BA%E5%8F%B0)
   - [美国商务部长表示Anthropic已化解与政府分歧，五角大楼：仍将其列为供应链风险](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E8%A1%A8%E7%A4%BAAnthropic%E5%B7%B2%E5%8C%96%E8%A7%A3%E4%B8%8E%E6%94%BF%E5%BA%9C%E5%88%86%E6%AD%A7-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC-%E4%BB%8D%E5%B0%86%E5%85%B6%E5%88%97%E4%B8%BA%E4%BE%9B%E5%BA%94%E9%93%BE%E9%A3%8E%E9%99%A9)
   - [英伟达发力“本地AI” N1X设备10月上架](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%8A%9B-%E6%9C%AC%E5%9C%B0AI-N1X%E8%AE%BE%E5%A4%8710%E6%9C%88%E4%B8%8A%E6%9E%B6)
