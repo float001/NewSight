@@ -3,6 +3,7 @@
 - 2Libra
   - [【vps】美西除了 dimt 还有哪些 vps 推荐？带线路优化的](https://2libra.com/post/servers/2SzQa-a)
   - [【💰】新买了电动车，骑车物品求推（头盔、雨衣、记录仪等）](https://2libra.com/post/worth-buying/J7q4oog)
+  - [今日潘多拉任务估计完不成了？](https://2libra.com/post/small-things/39dG9LO)
   - [自动领取 WorkBuddy 每日积分的小脚本](https://2libra.com/post/open-source-tools/YqoTPAy)
 - Ars Technica
   - [Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight](https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/)
@@ -107,3 +108,5 @@
   - [Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [美光据称计划HBM月产能年底翻倍](https://blog.upx8.com/%E7%BE%8E%E5%85%89%E6%8D%AE%E7%A7%B0%E8%AE%A1%E5%88%92HBM%E6%9C%88%E4%BA%A7%E8%83%BD%E5%B9%B4%E5%BA%95%E7%BF%BB%E5%80%8D)
