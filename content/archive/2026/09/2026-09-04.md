@@ -7,10 +7,13 @@
   - [v5.2.0 新版增加窗口打开帖子详情功能](https://2libra.com/post/product-updates/hYRLu_Z)
   - [【PT 邀请】1 个 btschool，2 个 pttime](https://2libra.com/post/PT/5H3uWru)
   - [【兑换码】🎁 纯福利｜免费送动态住宅 IP 流量 CDK，无套路](https://2libra.com/post/promotion/FtNhaFb)
+  - [【投票】DeepSeek-V4-Flash 涨价后，GLM-5.3-Flash 的性价比是不是已经超过它了？](https://2libra.com/post/large-models/cI2_t3o)
   - [【💰】DeepSeek Harness 高效理解入门课件](https://2libra.com/post/personal-works/LhmwQLH)
+  - [【💰】Grok 啥时候还能白嫖，需要 SuperGrok Heavy](https://2libra.com/post/large-models/Degd_fo)
   - [【💰】主题功能建议](https://2libra.com/post/forum-function/Fu6fLCv)
   - [今天论坛经历了多次 CF 522 error](https://2libra.com/post/forum-function/JkU4PFA)
   - [从 Top200 用户六维平均属性，看 2 站六维哪个属性最难](https://2libra.com/post/forum-function/ig8LNXt)
+  - [发现一个 material3 的画布拖拽界面的在线 web 应用，支持提示词导出](https://2libra.com/post/sharing-discoveries/GUSwoOz)
   - [可以增加一个功能吗？“在帖子里快速添加自己以往帖子的链接”。@Jimmy](https://2libra.com/post/questions/g1zdMXQ)
   - [图片超分辨率放大网站](https://2libra.com/post/ai-tools/nQQczpv)
   - [在线电子书阅读器](https://2libra.com/post/open-source-sharing/9CHWOU8)
@@ -47,6 +50,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network](https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms](https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [South Korean regulators introduce tokenized securities roadmap](https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express](https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US, UK launch joint alliance targeting crypto scam centers](https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - construction-physics.com
@@ -68,11 +72,13 @@
   - [Instrument Clusters Are Now Paid Extras in Two Hyundai Models](https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option/)
   - [Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents](https://www.mireye.com)
   - [Models Don't Go Rogue](https://mail.cyberneticforests.com/models-dont-go-rogue/)
+  - [OpenAI agents hijacked German website in previously undisclosed AI breakout](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/)
   - [OpenAI begins rolling out GPT-6 Astra](https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html)
   - [OpenAI's new reasoning technique alarms AI safety experts](https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/)
   - [Prime Gaps at Most 186](https://github.com/openai/PrimeGaps186)
   - [Qwen 3.8 27B available on Cerebras at 1500 tok/SEC](https://inference-docs.cerebras.ai/models/overview)
   - [Sanders introduces bill to ban artificial superintelligence and pause AI](https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/)
+  - [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)
   - [Texas Data Center Map: See where data centers are operating or planned](https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/)
   - [The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
   - [The Double Matthew Walker Knot by Fable 5.1](https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c)
@@ -96,6 +102,7 @@
   - [When an Exposed .git Directory Tells the Whole Story — Solving TryHackMe's Room 404](https://infosecwriteups.com/when-an-exposed-git-directory-tells-the-whole-story-solving-tryhackmes-room-404-126fb10ee1a1?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [G7 Urges Fast-Track on Quantum-Safe Cybersecurity Rules](https://www.infosecurity-magazine.com/news/g7-urges-quantum-safe-cyber-rules/)
+  - [OpenAI Pledges $1bn to Bring its AI Cybersecurity Tools to Essential Services](https://www.infosecurity-magazine.com/news/openai-pledges-ai-tools-essential/)
 - johndcook.com
   - [Hugging Face Easter Egg](https://www.johndcook.com/blog/2026/09/03/hugging-face-easter-egg/)
   - [New RSA number factored](https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/)
@@ -149,6 +156,7 @@
   - [tsunami-security-scanner exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GOOGLE-TSUNAMI-SECURITY-SCANNER&utm_source=rss&utm_medium=rss)
   - [vcenter_saml_login exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HORIZON3AI-VCENTER_SAML_LOGIN&utm_source=rss&utm_medium=rss)
   - [vulns-2026-fatfs-chance exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RUNZEROINC-VULNS-2026-FATFS-CHANCE&utm_source=rss&utm_medium=rss)
+  - [watermarks-remover exploit](https://sploitus.com/exploit?id=80235B48-037E-547D-874D-91FE300CD33C&utm_source=rss&utm_medium=rss)
 - Taxodium
   - [用 Tamper-monkey 集成 Kagi Translate - 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek](https://taxodium.ink/integrate-kagi-translate-with-tampermonkey.html)
 - TechCrunch
@@ -169,6 +177,7 @@
   - [Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit](https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/)
 - The Block
   - [AMC stock jumps 21% overnight as CEO slams Robinhood over ‘outrageous’ tokenized shares](https://www.theblock.co/news/business/2026-09-04-amc-ceo-slams-robinhood-413513)
+  - [Andreessen Horowitz-backed OpenReserve secures preliminary OCC approval for national bank charter](https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528)
   - [Coinbase seeks SEC greenlight to list 24/7 equity perpetuals](https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487)
   - [Crypto market cap surges to $2.82 trillion as Zcash leads rally alongside stocks](https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478)
   - [Revolut takes ‘important’ step toward becoming a US bank with conditional OCC approval](https://www.theblock.co/news/regulation/2026-09-03-revolut-takes-important-step-toward-becoming-a-us-bank-with-conditional-occ-approval-413474)
@@ -185,13 +194,16 @@
   - [Congressman says TikTok backed out of a meeting to avoid child safety questions](https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety)
   - [Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series](https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix)
   - [Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick](https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable)
+  - [Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers](https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers)
   - [Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40)
   - [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)
+  - [Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users](https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout)
   - [Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day](https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale)
   - [Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal](https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out)
   - [The unusually muted Tesla Cybercab launch](https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk)
   - [This NAS company wants to run your local smart home](https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home)
   - [This rugged phone’s removable camera can survive and capture your extreme adventures](https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof)
+  - [Why AI food looks like that](https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that)
   - [You can watch the coolant flow inside Ugreen’s liquid-cooled power bank](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling)
 - Vulners.com RSS Feed
   - [Chromium: CVE-2026-84323 Missing authorization in FileSystem](https://vulners.com/mscve/MS:CVE-2026-84323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -220,6 +232,7 @@
   - [CVE-Exploits](https://vulners.com/gitee/F1C2CD5D-3735-5CDB-B0AA-2F57EEB5EC0C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Updated libopenmpt packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Updated python-gitpython packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [watermarks-remover](https://vulners.com/gitee/80235B48-037E-547D-874D-91FE300CD33C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [30% Off Tempur-Pedic Promo Codes | September 2026](https://www.wired.com/story/tempur-pedic-promo-code/)
   - [5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More](https://www.wired.com/gallery/best-video-doorbells/)
@@ -228,8 +241,10 @@
   - [Foreo Discount Codes and Deals: Up to 50% Off](https://www.wired.com/story/foreo-promo-code/)
   - [GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era](https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/)
   - [Groupon Promo Codes: 60% Off in September 2026](https://www.wired.com/story/groupon-promo-code/)
+  - [ICE Wants to Know Who Bought a Certain Green Beanie From REI in the Last 2 Years](https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/)
   - [Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme](https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/)
   - [Mattress Firm Coupons: Save up to $700](https://www.wired.com/story/mattress-firm-coupon/)
+  - [Measles Outbreaks Are Forcing Immunocompromised Kids to Make Impossible Choices](https://www.wired.com/story/measles-outbreaks-immunocompromised-kids-schools/)
   - [Medicube Coupon Code: 40% Off for September 2026](https://www.wired.com/story/medicube-coupon-code/)
   - [Nobody Is Saying Why OpenAI and Anthropic Had Outages Today](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
   - [OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk](https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/)
@@ -237,6 +252,7 @@
   - [Purple Promo Codes and Deals: Up to 30% Off](https://www.wired.com/story/purple-promo-code/)
   - [Sportsman's Warehouse Promo Code: Save in September 2026](https://www.wired.com/story/sportsmans-warehouse-promo-code/)
   - [Tesla’s Make-or-Break Cybercab Had a Quiet Debut](https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/)
+  - [The 6 Best Monitors That Actually Work Well With Macs](https://www.wired.com/gallery/best-monitors-for-mac/)
   - [Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient](https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/)
   - [Tuft & Needle Promo Codes: 30% Off | September 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
   - [What the Heck? Another Perfect Geometric Shape Has Been Detected on Saturn](https://www.wired.com/story/another-perfect-geometric-shape-detected-on-saturn/)
@@ -258,6 +274,8 @@
   - [When an Exposed .git Directory Tells the Whole Story — Solving TryHackMe's Room 404](https://buaq.net/go-440016.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [CISA连夜拉黑7个在野漏洞：黑客正顺着LiteLLM偷你的大模型密钥](https://www.anquanke.com/post/id/316075)
 - 爱范儿
   - [GPT-6 Astra 正式发布：性能 AGI，贵到要负债](https://www.ifanr.com/1678409?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」](https://www.ifanr.com/1678380?utm_source=rss&utm_medium=rss&utm_campaign=)
