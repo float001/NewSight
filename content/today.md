@@ -31,6 +31,8 @@
   - [针对新弹窗打开帖子的一些优化和可以在正文快捷插入已发布正文](https://2libra.com/post/product-updates/_9ejmHS)
   - [预览模式下 bug](https://2libra.com/post/community/sDe3Pkk)
   - [首页预览不生效，是这么设定的吗？其他节点没问题](https://2libra.com/post/community/H2iFYls)
+- 360 Netlab Blog - 360
+  - [AI安全专题周报(20260904)](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-20260904-2/)
 - Ars Technica
   - [NJ urges SCOTUS to rule that Kalshi sports bets are gambling, not "swaps"](https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/)
   - [Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them](https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/)
@@ -48,10 +50,12 @@
   - [CFTC files to dismiss CME lawsuit over crypto perpetual futures](https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [El Salvador’s post-review Bitcoin accumulation used no public funds: IMF](https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kalshi US visits soar 1,500% as regulatory pressure mounts](https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network](https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms](https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korean regulators introduce tokenized securities roadmap](https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express](https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trezor says data breach affects another 67K US customers](https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US, UK launch joint alliance targeting crypto scam centers](https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - construction-physics.com
   - [How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III](https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c)
@@ -62,6 +66,7 @@
   - [Large Enterprises Targeted in Fake Merger &amp; Acquisition Scams](https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams)
   - [What We Missed: Did ShinyHunters 'Breach' ReliaQuest?](https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest)
 - Emergent Minds | paddo.dev
+  - [Opening the Folder Was the Exploit: GitSpawn, Seven Coding Agents, and a Bug VS Code Fixed in 2021](https://paddo.dev/blog/gitspawn-opening-the-folder/)
   - [The Raise That Is a Cut: Claude Code Weekly Limits, Up 25% and Down 17%](https://paddo.dev/blog/the-raise-that-is-a-cut/)
   - [Two Meters: Claude Fable 5.1 Is Cheaper on the API and Hungrier on Max, and What to Turn Down](https://paddo.dev/blog/fable-5-1-two-meters/)
 - gilesthomas.com
@@ -164,6 +169,7 @@
   - [Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation](https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/)
   - [Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts](https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/)
   - [Crusoe reportedly raises $3B at a  $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)
+  - [Feds launch investigation into Tesla’s Cybercab deployment](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/)
   - [Google launches AI voice features in Gmail, Docs and Keep](https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/)
   - [Meta is paying to peek at how you use their latest AI model](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/)
   - [Ollie is betting its focus on privacy can help it win the AI assistant race](https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/)
@@ -179,11 +185,14 @@
   - [AMC stock jumps 21% overnight as CEO slams Robinhood over ‘outrageous’ tokenized shares](https://www.theblock.co/news/business/2026-09-04-amc-ceo-slams-robinhood-413513)
   - [Andreessen Horowitz-backed OpenReserve secures preliminary OCC approval for national bank charter](https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528)
   - [Coinbase seeks SEC greenlight to list 24/7 equity perpetuals](https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487)
+  - [Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings](https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532)
   - [Crypto market cap surges to $2.82 trillion as Zcash leads rally alongside stocks](https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478)
+  - [El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says](https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535)
   - [Revolut takes ‘important’ step toward becoming a US bank with conditional OCC approval](https://www.theblock.co/news/regulation/2026-09-03-revolut-takes-important-step-toward-becoming-a-us-bank-with-conditional-occ-approval-413474)
   - [South Korea to start tokenizing ‘all types’ of securities in three stages from 2027](https://www.theblock.co/news/regulation/2026-09-04-south-korea-to-start-tokenizing-all-types-of-securities-in-three-stages-from-2027-413523)
   - [Stablecoin payments infrastructure startup Diameter Pay raises $10 million](https://www.theblock.co/news/deals/2026-09-03-diameter-pay-funding-stablecoin-payments-infrastructure-413454)
   - [Strive CEO says company could end 2026 as second-largest public bitcoin holder as ASST climbs](https://www.theblock.co/news/markets/2026-09-03-strive-ceo-company-could-end-2026-second-largest-bitcoin-holder-asst-413455)
+  - [Trezor says ShipMonk breach affected another 67,000 customers](https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540)
   - [US bitcoin ETFs report the largest inflow day since January, worth $731 million](https://www.theblock.co/news/markets/2026-09-04-us-bitcoin-etfs-largest-inflow-day-since-january-413515)
 - The Decoder
   - [GPT-6 Astra is the first model making OpenAI willing to declare the "AGI era"](https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/)
@@ -191,8 +200,10 @@
   - [Pangram's biggest flaw is users turning its scores into public shaming](https://the-decoder.com/pangrams-biggest-flaw-is-users-turning-its-scores-into-public-shaming/)
 - The Verge
   - [Aqara goes all in on smart lighting](https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026)
+  - [Bluetti launches ‘e-generator’ to take on noisy, stinky, polluting gas generators](https://www.theverge.com/tech/986123/bluetti-pioneer-5000-solar-generator)
   - [Congressman says TikTok backed out of a meeting to avoid child safety questions](https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety)
   - [Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series](https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix)
+  - [Instagram’s AI detection is a mess (again)](https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion)
   - [Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick](https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable)
   - [Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers](https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers)
   - [Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40)
@@ -203,6 +214,7 @@
   - [The unusually muted Tesla Cybercab launch](https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk)
   - [This NAS company wants to run your local smart home](https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home)
   - [This rugged phone’s removable camera can survive and capture your extreme adventures](https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof)
+  - [We spent the week testing IFA’s best (and weirdest) gadgets, ask us anything](https://www.theverge.com/tech/989199/ifa-berlin-2026-gadgets-ask-us-anything)
   - [Why AI food looks like that](https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that)
   - [You can watch the coolant flow inside Ugreen’s liquid-cooled power bank](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling)
 - Vulners.com RSS Feed
@@ -253,6 +265,7 @@
   - [Sportsman's Warehouse Promo Code: Save in September 2026](https://www.wired.com/story/sportsmans-warehouse-promo-code/)
   - [Tesla’s Make-or-Break Cybercab Had a Quiet Debut](https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/)
   - [The 6 Best Monitors That Actually Work Well With Macs](https://www.wired.com/gallery/best-monitors-for-mac/)
+  - [The Best Dyson Vacuums (2026) to Buy—and Some to Avoid](https://www.wired.com/gallery/best-dyson-vacuums/)
   - [Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient](https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/)
   - [Tuft & Needle Promo Codes: 30% Off | September 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
   - [What the Heck? Another Perfect Geometric Shape Has Been Detected on Saturn](https://www.wired.com/story/another-perfect-geometric-shape-detected-on-saturn/)
