@@ -5,6 +5,7 @@
   - [【PT 邀请】1 个 btschool，2 个 pttime](https://2libra.com/post/PT/5H3uWru)
   - [【💰】主题功能建议](https://2libra.com/post/forum-function/Fu6fLCv)
   - [今天论坛经历了多次 CF 522 error](https://2libra.com/post/forum-function/JkU4PFA)
+  - [从 Top200 用户六维平均属性，看 2 站六维哪个属性最难](https://2libra.com/post/forum-function/ig8LNXt)
   - [可以增加一个功能吗？“在帖子里快速添加自己以往帖子的链接”。@Jimmy](https://2libra.com/post/questions/g1zdMXQ)
   - [在线电子书阅读器](https://2libra.com/post/open-source-sharing/9CHWOU8)
   - [新时代时髦名字，这次是冷僻字篇](https://2libra.com/post/parent-child/iIx_OIO)
@@ -67,7 +68,14 @@
   - [How Virginia Tech Connected Pentesting to Its Engineering Workflow](https://horizon3.ai/customer-story/virginia-tech-automated-external-pentesting/)
 - InfoSec Write-ups - Medium
   - [[$538] IDOR allows friends to edit the date on their friends’ timeline posts on Facebook](https://infosecwriteups.com/538-idor-allows-friends-to-edit-the-date-on-their-friends-timeline-posts-on-facebook-2726457c023b?source=rss----7b722bfd1b8d---4)
+  - [File upload to RCE](https://infosecwriteups.com/file-upload-to-rce-7c04b3b252de?source=rss----7b722bfd1b8d---4)
   - [From a 2008 Web Server to Every Customer Record: How One Upload Took Down an Entire Hosting…](https://infosecwriteups.com/from-a-2008-web-server-to-every-customer-record-how-one-upload-took-down-an-entire-hosting-454fd0571375?source=rss----7b722bfd1b8d---4)
+  - [Host & Network Penetration Testing: Post-Exploitation CTF 2 — eJPT (INE)](https://infosecwriteups.com/host-network-penetration-testing-post-exploitation-ctf-2-ejpt-ine-fab668917f29?source=rss----7b722bfd1b8d---4)
+  - [How I Turned Self-XSS into Reflected XSS (and Bypassed the WAF)](https://infosecwriteups.com/how-i-turned-self-xss-into-reflected-xss-and-bypassed-the-waf-474aad02b5e6?source=rss----7b722bfd1b8d---4)
+  - [Phishing Analysis Fundamentals: TryHackMe Walkthrough](https://infosecwriteups.com/phishing-analysis-fundamentals-tryhackme-walkthrough-ce3219570302?source=rss----7b722bfd1b8d---4)
+  - [VulnNet Roasted — TryHackMe Active Directory Write-up](https://infosecwriteups.com/vulnnet-roasted-tryhackme-active-directory-write-up-9cdfccacc13e?source=rss----7b722bfd1b8d---4)
+  - [Water Bottle — TryHackMe [Easy]](https://infosecwriteups.com/water-bottle-tryhackme-easy-945994518a12?source=rss----7b722bfd1b8d---4)
+  - [When an Exposed .git Directory Tells the Whole Story — Solving TryHackMe's Room 404](https://infosecwriteups.com/when-an-exposed-git-directory-tells-the-whole-story-solving-tryhackmes-room-404-126fb10ee1a1?source=rss----7b722bfd1b8d---4)
 - johndcook.com
   - [Hugging Face Easter Egg](https://www.johndcook.com/blog/2026/09/03/hugging-face-easter-egg/)
   - [New RSA number factored](https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/)
@@ -186,7 +194,12 @@
   - [Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient](https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/)
   - [Wikipedia Workers Unionize for the First Time](https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/)
 - 不安全
+  - [File upload to RCE](https://buaq.net/go-440015.html)
+  - [How I Turned Self-XSS into Reflected XSS (and Bypassed the WAF)](https://buaq.net/go-440017.html)
   - [MasterHttpRelayVPN-RUST v1.9.37](https://buaq.net/go-439998.html)
+  - [Phishing Analysis Fundamentals: TryHackMe Walkthrough](https://buaq.net/go-440014.html)
+  - [Water Bottle — TryHackMe [Easy]](https://buaq.net/go-440013.html)
+  - [When an Exposed .git Directory Tells the Whole Story — Solving TryHackMe's Room 404](https://buaq.net/go-440016.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
