@@ -39,6 +39,8 @@
   - [How to secure edge AI in customer-owned environments](https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/)
 - MIT Technology Review
   - [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/)
+- Rob Zolkos
+  - [HEY, watch this!](https://zolkos.com/2026/09/04/hey-watch-this.html)
 - simonwillison.net
   - [OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/)
 - Sploitus.com Exploits RSS Feed
@@ -80,6 +82,7 @@
   - [strongswan exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-STRONGSWAN-STRONGSWAN&utm_source=rss&utm_medium=rss)
   - [sudo-exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-REDHAWKEYE-SUDO-EXPLOIT&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [AI compute provider Nscale is looking for $3.5B in pre-IPO financing](https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/)
   - [Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/)
   - [Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now](https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/)
   - [No little kids allowed, and other new info about Tesla’s Cybercab](https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/)
@@ -91,6 +94,7 @@
   - [OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections](https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/)
 - The Verge
   - [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be)
+  - [Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor](https://www.theverge.com/tech/990658/audacity-4-update-audio-editing)
   - [GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;](https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter)
   - [Roland is getting into generative AI music with Melody Flip](https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip)
   - [The White House is making arcade games racist](https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright)
