@@ -3,12 +3,18 @@
 - 2Libra
   - [v5.2.0 新版增加窗口打开帖子详情功能](https://2libra.com/post/product-updates/hYRLu_Z)
   - [【PT 邀请】1 个 btschool，2 个 pttime](https://2libra.com/post/PT/5H3uWru)
+  - [【💰】主题功能建议](https://2libra.com/post/forum-function/Fu6fLCv)
   - [今天论坛经历了多次 CF 522 error](https://2libra.com/post/forum-function/JkU4PFA)
   - [可以增加一个功能吗？“在帖子里快速添加自己以往帖子的链接”。@Jimmy](https://2libra.com/post/questions/g1zdMXQ)
   - [在线电子书阅读器](https://2libra.com/post/open-source-sharing/9CHWOU8)
+  - [新时代时髦名字，这次是冷僻字篇](https://2libra.com/post/parent-child/iIx_OIO)
   - [昨天拿了新的徽章-讲故事的人](https://2libra.com/post/personal-life/cloRiPt)
   - [求助帖：Win10 + Mac 双平台，寻找 Foxmail 替代品](https://2libra.com/post/tools-sharing/-xKte0k)
+  - [求助贴有啥爬虫技巧](https://2libra.com/post/tech-qa/aeQb718)
+  - [移动充话费今天 30-7、30-6、30-9、10-5，力度大的](https://2libra.com/post/deal-hunter/V2l5fQR)
   - [腾讯的 workbuddy 有人在用吗？今天是不是炸了？](https://2libra.com/post/ai-tools/pgzIm_0)
+  - [预览模式下 bug](https://2libra.com/post/community/sDe3Pkk)
+  - [首页预览不生效，是这么设定的吗？其他节点没问题](https://2libra.com/post/community/H2iFYls)
 - Ars Technica
   - [NJ urges SCOTUS to rule that Kalshi sports bets are gambling, not "swaps"](https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/)
   - [Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them](https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/)
@@ -59,6 +65,9 @@
   - [Grupo Salinas Selects Integral Digital to Power Coinpro’s Institutional Digital Asset Trading Desk](https://hackernoon.com/grupo-salinas-selects-integral-digital-to-power-coinpros-institutional-digital-asset-trading-desk?source=rss)
 - Horizon3.ai
   - [How Virginia Tech Connected Pentesting to Its Engineering Workflow](https://horizon3.ai/customer-story/virginia-tech-automated-external-pentesting/)
+- InfoSec Write-ups - Medium
+  - [[$538] IDOR allows friends to edit the date on their friends’ timeline posts on Facebook](https://infosecwriteups.com/538-idor-allows-friends-to-edit-the-date-on-their-friends-timeline-posts-on-facebook-2726457c023b?source=rss----7b722bfd1b8d---4)
+  - [From a 2008 Web Server to Every Customer Record: How One Upload Took Down an Entire Hosting…](https://infosecwriteups.com/from-a-2008-web-server-to-every-customer-record-how-one-upload-took-down-an-entire-hosting-454fd0571375?source=rss----7b722bfd1b8d---4)
 - johndcook.com
   - [Hugging Face Easter Egg](https://www.johndcook.com/blog/2026/09/03/hugging-face-easter-egg/)
   - [New RSA number factored](https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/)
@@ -173,14 +182,19 @@
   - [Nobody Is Saying Why OpenAI and Anthropic Had Outages Today](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
   - [OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk](https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/)
   - [Prediction Market Betting Is Getting People Banned and Arrested](https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/)
+  - [Tesla’s Make-or-Break Cybercab Had a Quiet Debut](https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/)
   - [Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient](https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/)
   - [Wikipedia Workers Unionize for the First Time](https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/)
+- 不安全
+  - [MasterHttpRelayVPN-RUST v1.9.37](https://buaq.net/go-439998.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [GPT-6 Astra 正式发布：性能 AGI，贵到要负债](https://www.ifanr.com/1678409?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」](https://www.ifanr.com/1678380?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [特斯拉新车发布！Cybercab 正式投入运营，马斯克开始接单了](https://www.ifanr.com/1678435?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [那些想用但不让用 AI 的公司，终于可以用 AI 了](https://www.ifanr.com/1678332?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [DLSS 5 首发仅限 RTX 50，但英伟达确认后续将扩展至 RTX 40 系列显卡](https://blog.upx8.com/DLSS-5-%E9%A6%96%E5%8F%91%E4%BB%85%E9%99%90-RTX-50-%E4%BD%86%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A1%AE%E8%AE%A4%E5%90%8E%E7%BB%AD%E5%B0%86%E6%89%A9%E5%B1%95%E8%87%B3-RTX-40-%E7%B3%BB%E5%88%97%E6%98%BE%E5%8D%A1)
   - [英伟达发力“本地AI” N1X设备10月上架](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%8A%9B-%E6%9C%AC%E5%9C%B0AI-N1X%E8%AE%BE%E5%A4%8710%E6%9C%88%E4%B8%8A%E6%9E%B6)
   - [苹果放弃开发折叠屏MacBook 大尺寸OLED版也被砍](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%94%BE%E5%BC%83%E5%BC%80%E5%8F%91%E6%8A%98%E5%8F%A0%E5%B1%8FMacBook-%E5%A4%A7%E5%B0%BA%E5%AF%B8OLED%E7%89%88%E4%B9%9F%E8%A2%AB%E7%A0%8D)
