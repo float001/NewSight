@@ -11,10 +11,13 @@
   - [Valve secretly leaked a Left 4 Dead 2 trailer to dodge the ESRB](https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/)
 - CoinTelegraph
   - [Crypto Biz: AI took a back seat when Bitcoin started climbing](https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [FinCEN ties $13B in crypto scams to non-US operations](https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Pineapple Financial puts $1B in mortgage records on Injective](https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [QuFi launches post-quantum verification platform with Bitcoin testnet proof](https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+  - [Vinted](https://www.vinted.com/)
   - [★ Writing With Unnatural Constraints](https://daringfireball.net/2026/09/writing_with_unnatural_constraints)
 - Data Breach
   - [Crooks Behind Manchester Airports Group Hack Leaked Data of 8.8 Million People](https://securityaffairs.com/198447/data-breach/crooks-behind-manchester-airports-group-hack-leaked-data-of-8-8-million-people.html)
@@ -27,6 +30,9 @@
   - [What Fal.Con 2026 Reinforced: AI Makes Proving Exposure More Important Than Ever](https://horizon3.ai/intelligence/blogs/fal-con-2026-ai-exposure-validation/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-08-31: Files for an ISC diary (Guildma/Astaroth infection)](https://www.malware-traffic-analysis.net/2026/08/31/index.html)
+  - [2026-09-01: Essential macOS Stealer infection](https://www.malware-traffic-analysis.net/2026/09/01/index.html)
+- Microsoft Security Blog
+  - [How to secure edge AI in customer-owned environments](https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/)
 - MIT Technology Review
   - [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/)
 - simonwillison.net
@@ -34,10 +40,14 @@
 - Sploitus.com Exploits RSS Feed
   - [bazad5 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SIDEGREENHAND100-BAZAD5&utm_source=rss&utm_medium=rss)
   - [Cisco-CVE-2025-20281-illdeed exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ILL-DEED-CISCO-CVE-2025-20281-ILLDEED&utm_source=rss&utm_medium=rss)
+  - [cve-2019-0708 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CVENCODER-CVE-2019-0708&utm_source=rss&utm_medium=rss)
   - [CVE-2019-3396 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TRANPHUC2005-CVE-2019-3396&utm_source=rss&utm_medium=rss)
+  - [CVE-2019-3719 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JIANSITING-CVE-2019-3719&utm_source=rss&utm_medium=rss)
   - [cve-2019-5736-poc exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AGPPP-CVE-2019-5736-POC&utm_source=rss&utm_medium=rss)
   - [CVE-2020-16846-Saltstack-Salt-API exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZOMY22-CVE-2020-16846-SALTSTACK-SALT-API&utm_source=rss&utm_medium=rss)
   - [CVE-2020-17519 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DEV-TEAM-12X-CVE-2020-17519&utm_source=rss&utm_medium=rss)
+  - [CVE-2020-1938TomcatAjpScanner exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WOAIQIUKUI-CVE-2020-1938TOMCATAJPSCANNER&utm_source=rss&utm_medium=rss)
+  - [CVE-2021-22555 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TUKRU-CVE-2021-22555&utm_source=rss&utm_medium=rss)
   - [CVE-2021-45232 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LTIDI2000-CVE-2021-45232&utm_source=rss&utm_medium=rss)
   - [CVE-2022-21449 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FUNDAERGN-CVE-2022-21449&utm_source=rss&utm_medium=rss)
   - [cve-2022-22947 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DARKB1RD-CVE-2022-22947&utm_source=rss&utm_medium=rss)
@@ -45,10 +55,12 @@
   - [CVE-2023-28324 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HORIZON3AI-CVE-2023-28324&utm_source=rss&utm_medium=rss)
   - [CVE-2023-30547 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JUNNYTHEMARKSMAN-CVE-2023-30547&utm_source=rss&utm_medium=rss)
   - [CVE-2023-36899 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-D0RB-CVE-2023-36899&utm_source=rss&utm_medium=rss)
+  - [CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SROMANHU-CVE-2023-43360-CMSMADESIMPLE-STORED-XSS---FILE-PICKER-EXTENSION&utm_source=rss&utm_medium=rss)
   - [CVE-2024-32002-POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MASAMUNEEE-CVE-2024-32002-POC&utm_source=rss&utm_medium=rss)
   - [CVE-2024-4577 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AHMETRAMAZANK-CVE-2024-4577&utm_source=rss&utm_medium=rss)
   - [CVE-2024-6387 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JACK0WE-CVE-2024-6387&utm_source=rss&utm_medium=rss)
   - [CVE-2025-20281-Cisco exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GRUPOORUSS-CVE-2025-20281-CISCO&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-24061 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-S-VX-CVE-2026-24061&utm_source=rss&utm_medium=rss)
   - [DirtyPIPE-CVE-2022-0847 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GITHUBLIHAHA-DIRTYPIPE-CVE-2022-0847&utm_source=rss&utm_medium=rss)
   - [DonkAI exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OWASP-DONKAI&utm_source=rss&utm_medium=rss)
   - [Exploit for Server-Side Request Forgery in Sonicwall Sma8200V](https://sploitus.com/exploit?id=C6CC4F4D-1911-58D8-A29F-C7199A6F7A3C&utm_source=rss&utm_medium=rss)
@@ -59,6 +71,7 @@
   - [nosurf-cve-2025-46721 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JUSTINAS-NOSURF-CVE-2025-46721&utm_source=rss&utm_medium=rss)
   - [Printnightmare exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EUTECTICO-PRINTNIGHTMARE&utm_source=rss&utm_medium=rss)
   - [scan-dirtycow exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AISHEE-SCAN-DIRTYCOW&utm_source=rss&utm_medium=rss)
+  - [Shellbash-CVE-2014-6271 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CYBERHARSH-SHELLBASH-CVE-2014-6271&utm_source=rss&utm_medium=rss)
   - [SSRF-CVE-2023-22493 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BUITANHUNG144-SSRF-CVE-2023-22493&utm_source=rss&utm_medium=rss)
   - [strongswan exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-STRONGSWAN-STRONGSWAN&utm_source=rss&utm_medium=rss)
   - [sudo-exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-REDHAWKEYE-SUDO-EXPLOIT&utm_source=rss&utm_medium=rss)
@@ -76,6 +89,7 @@
   - [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be)
   - [GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;](https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter)
   - [Roland is getting into generative AI music with Melody Flip](https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip)
+  - [The White House is making arcade games racist](https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright)
 - Wallarm
   - [Dissecting Attacks Is Only Valuable If It Informs Controls: What the Unit 42 agentic AI investigation should change in your control set, stage by stage.](https://lab.wallarm.com/what-the-unit-42-agentic-ai-investigation-should-change-in-your-control-set-stage-by-stage/)
 - wheresyoured.at
