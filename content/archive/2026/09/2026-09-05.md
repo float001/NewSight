@@ -6,14 +6,20 @@
   - [自动领取 WorkBuddy 每日积分的小脚本](https://2libra.com/post/open-source-tools/YqoTPAy)
 - Ars Technica
   - [Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight](https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/)
+  - [Medieval manuscripts are "biological time capsules" for deadly sheeppox virus](https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/)
   - [Second complete map of a fruit fly brain completed](https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/)
   - [Valve secretly leaked a Left 4 Dead 2 trailer to dodge the ESRB](https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/)
 - CoinTelegraph
   - [Crypto Biz: AI took a back seat when Bitcoin started climbing](https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [QuFi launches post-quantum verification platform with Bitcoin testnet proof](https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+  - [★ Writing With Unnatural Constraints](https://daringfireball.net/2026/09/writing_with_unnatural_constraints)
+- Data Breach
+  - [Crooks Behind Manchester Airports Group Hack Leaked Data of 8.8 Million People](https://securityaffairs.com/198447/data-breach/crooks-behind-manchester-airports-group-hack-leaked-data-of-8-8-million-people.html)
 - Hacker News Frontpage
+  - [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
   - [Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace](https://twitter.com/ggerganov/status/2095897173376618881)
   - [Nobody Is Saying Why OpenAI and Anthropic Had Outages](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
   - [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com)
@@ -21,6 +27,8 @@
   - [What Fal.Con 2026 Reinforced: AI Makes Proving Exposure More Important Than Ever](https://horizon3.ai/intelligence/blogs/fal-con-2026-ai-exposure-validation/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-08-31: Files for an ISC diary (Guildma/Astaroth infection)](https://www.malware-traffic-analysis.net/2026/08/31/index.html)
+- MIT Technology Review
+  - [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/)
 - simonwillison.net
   - [OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/)
 - Sploitus.com Exploits RSS Feed
@@ -60,6 +68,7 @@
   - [No little kids allowed, and other new info about Tesla’s Cybercab](https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/)
   - [What will Apple’s John Ternus era look like?](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/)
 - The Block
+  - [President Trump says he wants Hyperliquid to enter the US — here’s how it could happen](https://www.theblock.co/news/regulation/2026-09-04-trump-wants-hyperliquid-enter-us-how-it-could-happen-413594)
   - [Zcash tops $1,000 as ETF inflows ramp up and miners pile in](https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580)
 - The Decoder
   - [OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections](https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/)
@@ -71,5 +80,8 @@
   - [Dissecting Attacks Is Only Valuable If It Informs Controls: What the Unit 42 agentic AI investigation should change in your control set, stage by stage.](https://lab.wallarm.com/what-the-unit-42-agentic-ai-investigation-should-change-in-your-control-set-stage-by-stage/)
 - wheresyoured.at
   - [Premium: The Hater's Guide To Circular Financing (Part Two)](https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-two/)
+- Wired
+  - [Casio ‘CasioNaut’ G-Shock GMC-2500 GAC-2500 Series: Price, Specs, Availability](https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic/)
+  - [Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
