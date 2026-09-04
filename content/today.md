@@ -6,6 +6,7 @@
   - [自动领取 WorkBuddy 每日积分的小脚本](https://2libra.com/post/open-source-tools/YqoTPAy)
 - Ars Technica
   - [Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight](https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/)
+  - [Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths](https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/)
   - [Medieval manuscripts are "biological time capsules" for deadly sheeppox virus](https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/)
   - [Second complete map of a fruit fly brain completed](https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/)
   - [Valve secretly leaked a Left 4 Dead 2 trailer to dodge the ESRB](https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/)
@@ -15,6 +16,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Pineapple Financial puts $1B in mortgage records on Injective](https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [QuFi launches post-quantum verification platform with Bitcoin testnet proof](https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Surprise nonfarm payrolls print sends Bitcoin back below 80K](https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
   - [Vinted](https://www.vinted.com/)
@@ -22,8 +24,10 @@
 - Data Breach
   - [Crooks Behind Manchester Airports Group Hack Leaked Data of 8.8 Million People](https://securityaffairs.com/198447/data-breach/crooks-behind-manchester-airports-group-hack-leaked-data-of-8-8-million-people.html)
 - Hacker News Frontpage
+  - [An open DNS recursive service for free security and high privacy](https://quad9.net/)
   - [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
   - [Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace](https://twitter.com/ggerganov/status/2095897173376618881)
+  - [How to Create a Tor Exit Node](https://madpsy.uk/how-to-create-a-tor-exit-node/)
   - [Nobody Is Saying Why OpenAI and Anthropic Had Outages](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
   - [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com)
 - Horizon3.ai
