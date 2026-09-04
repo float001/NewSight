@@ -105,6 +105,7 @@
   - [Abliteration.ai is making a business out of removing AI guardrails](https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/)
   - [Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation](https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/)
   - [Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts](https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/)
+  - [Crusoe reportedly raises $3B at a  $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)
   - [Google launches AI voice features in Gmail, Docs and Keep](https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/)
   - [Meta is paying to peek at how you use their latest AI model](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/)
   - [Ollie is betting its focus on privacy can help it win the AI assistant race](https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/)
@@ -130,6 +131,7 @@
   - [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)
   - [Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day](https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale)
   - [Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal](https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out)
+  - [The unusually muted Tesla Cybercab launch](https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk)
   - [You can watch the coolant flow inside Ugreen’s liquid-cooled power bank](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling)
 - Vulners.com RSS Feed
   - [Chromium: CVE-2026-84323 Missing authorization in FileSystem](https://vulners.com/mscve/MS:CVE-2026-84323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -166,7 +168,12 @@
   - [OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk](https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/)
   - [Prediction Market Betting Is Getting People Banned and Arrested](https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/)
   - [Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient](https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/)
+  - [Wikipedia Workers Unionize for the First Time](https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [GPT-6 Astra 正式发布：性能 AGI，贵到要负债](https://www.ifanr.com/1678409?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」](https://www.ifanr.com/1678380?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [英伟达发力“本地AI” N1X设备10月上架](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%8A%9B-%E6%9C%AC%E5%9C%B0AI-N1X%E8%AE%BE%E5%A4%8710%E6%9C%88%E4%B8%8A%E6%9E%B6)
+  - [苹果放弃开发折叠屏MacBook 大尺寸OLED版也被砍](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%94%BE%E5%BC%83%E5%BC%80%E5%8F%91%E6%8A%98%E5%8F%A0%E5%B1%8FMacBook-%E5%A4%A7%E5%B0%BA%E5%AF%B8OLED%E7%89%88%E4%B9%9F%E8%A2%AB%E7%A0%8D)
