@@ -20,6 +20,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network](https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms](https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express](https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - construction-physics.com
   - [How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III](https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c)
 - daringfireball.net
@@ -29,6 +30,7 @@
   - [Large Enterprises Targeted in Fake Merger &amp; Acquisition Scams](https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams)
   - [What We Missed: Did ShinyHunters 'Breach' ReliaQuest?](https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest)
 - Emergent Minds | paddo.dev
+  - [The Raise That Is a Cut: Claude Code Weekly Limits, Up 25% and Down 17%](https://paddo.dev/blog/the-raise-that-is-a-cut/)
   - [Two Meters: Claude Fable 5.1 Is Cheaper on the API and Hungrier on Max, and What to Turn Down](https://paddo.dev/blog/fable-5-1-two-meters/)
 - gilesthomas.com
   - [Putting my JAX-trained models on the Hugging Face Hub](https://www.gilesthomas.com/2026/09/jax-models-on-hugging-face)
@@ -53,6 +55,7 @@
 - Horizon3.ai
   - [How Virginia Tech Connected Pentesting to Its Engineering Workflow](https://horizon3.ai/customer-story/virginia-tech-automated-external-pentesting/)
 - johndcook.com
+  - [Hugging Face Easter Egg](https://www.johndcook.com/blog/2026/09/03/hugging-face-easter-egg/)
   - [New RSA number factored](https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/)
 - MalwareTech
   - [Machine Speed is a lie: stop trying to fight AI with AI](https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-with-ai.html)
@@ -65,6 +68,7 @@
   - [CTFs exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITLAB-WHATTHEFUZZ-CTFS-CTFS&utm_source=rss&utm_medium=rss)
   - [CVE-2004-2271 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KKIRSCHE-CVE-2004-2271&utm_source=rss&utm_medium=rss)
   - [CVE-2016-2067 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HHJ4CK-CVE-2016-2067&utm_source=rss&utm_medium=rss)
+  - [CVE-2019-6340-Drupal-8.6.9-REST-Auth-Bypass exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DEVDUNGEON-CVE-2019-6340-DRUPAL-8.6.9-REST-AUTH-BYPASS&utm_source=rss&utm_medium=rss)
   - [CVE-2020-0796-SMBGhost-Exploit-Demo](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TDEVWORKS-CVE-2020-0796-SMBGHOST-EXPLOIT-DEMO&utm_source=rss&utm_medium=rss)
   - [cve-2020-29007 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SEQRED-S-A-CVE-2020-29007&utm_source=rss&utm_medium=rss)
   - [CVE-2021-38297-Go-wasm-Replication exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PARAS98-CVE-2021-38297-GO-WASM-REPLICATION&utm_source=rss&utm_medium=rss)
@@ -125,8 +129,32 @@
   - [Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series](https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix)
   - [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)
   - [Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day](https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale)
+  - [Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal](https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out)
   - [You can watch the coolant flow inside Ugreen’s liquid-cooled power bank](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling)
 - Vulners.com RSS Feed
+  - [Chromium: CVE-2026-84323 Missing authorization in FileSystem](https://vulners.com/mscve/MS:CVE-2026-84323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84324 Use after free in Proxy](https://vulners.com/mscve/MS:CVE-2026-84324?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84325 Improper input validation in DataTransfer](https://vulners.com/mscve/MS:CVE-2026-84325?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84326 Uninitialized resource in V8](https://vulners.com/mscve/MS:CVE-2026-84326?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84327 Incorrect authorization in Autofill](https://vulners.com/mscve/MS:CVE-2026-84327?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84328 Missing authorization in FileSystem](https://vulners.com/mscve/MS:CVE-2026-84328?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84329 Confused deputy in CredentialProvider](https://vulners.com/mscve/MS:CVE-2026-84329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84331 Incorrect authorization in Actor](https://vulners.com/mscve/MS:CVE-2026-84331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84332 Incorrect authorization in SiteSettings](https://vulners.com/mscve/MS:CVE-2026-84332?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84334 Incorrect authorization in Chromoting](https://vulners.com/mscve/MS:CVE-2026-84334?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84335 Incorrect authorization in TabStrip](https://vulners.com/mscve/MS:CVE-2026-84335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84347 Use after free in WebRTC](https://vulners.com/mscve/MS:CVE-2026-84347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84348 Information leak in MediaCapture](https://vulners.com/mscve/MS:CVE-2026-84348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84349 Use after free in Browser](https://vulners.com/mscve/MS:CVE-2026-84349?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84350 Use after free in TabStrip](https://vulners.com/mscve/MS:CVE-2026-84350?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84351 Buffer overflow in GPU](https://vulners.com/mscve/MS:CVE-2026-84351?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84353 Use after free in Shared Tab Groups](https://vulners.com/mscve/MS:CVE-2026-84353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84354 Incorrect authorization in FileSystem](https://vulners.com/mscve/MS:CVE-2026-84354?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84355 Incorrect authorization in Navigation](https://vulners.com/mscve/MS:CVE-2026-84355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84356 UI misrepresentation in FullScreen](https://vulners.com/mscve/MS:CVE-2026-84356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84357 Improper input validation in Omnibox](https://vulners.com/mscve/MS:CVE-2026-84357?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84358 Improper privilege management in Downloads](https://vulners.com/mscve/MS:CVE-2026-84358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium: CVE-2026-84359 Information leak in Skia](https://vulners.com/mscve/MS:CVE-2026-84359?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-Exploits](https://vulners.com/gitee/F1C2CD5D-3735-5CDB-B0AA-2F57EEB5EC0C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Updated libopenmpt packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Updated python-gitpython packages fix security vulnerabilities](https://vulners.com/mageia/MGASA-2026-0372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -140,3 +168,5 @@
   - [Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient](https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [英伟达发力“本地AI” N1X设备10月上架](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%8A%9B-%E6%9C%AC%E5%9C%B0AI-N1X%E8%AE%BE%E5%A4%8710%E6%9C%88%E4%B8%8A%E6%9E%B6)
