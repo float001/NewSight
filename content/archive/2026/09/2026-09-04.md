@@ -85,6 +85,7 @@
 - MalwareTech
   - [Machine Speed is a lie: stop trying to fight AI with AI](https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-with-ai.html)
 - simonwillison.net
+  - [August newsletter is out](https://simonwillison.net/2026/Sep/4/august-newsletter/)
   - [GPT‑6 Astra](https://simonwillison.net/2026/Sep/3/gpt6-astra/)
 - Sploitus.com Exploits RSS Feed
   - [auto-cve-2022-44268.sh exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NAREKKAY-AUTO-CVE-2022-44268.SH&utm_source=rss&utm_medium=rss)
@@ -209,6 +210,7 @@
   - [Wikipedia Workers Unionize for the First Time](https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/)
 - 不安全
   - [certgraveyard_yara v2026.09.02](https://buaq.net/go-440037.html)
+  - [Cloudflare D1开始强制执行免费额度：超额后数据库查询直接失败 次日0点恢复](https://buaq.net/go-440049.html)
   - [CryptoLyzer v1.6.0](https://buaq.net/go-440038.html)
   - [File upload to RCE](https://buaq.net/go-440015.html)
   - [How I Turned Self-XSS into Reflected XSS (and Bypassed the WAF)](https://buaq.net/go-440017.html)
