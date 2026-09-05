@@ -20,10 +20,13 @@
   - [Surprise nonfarm payrolls print sends Bitcoin back below 80K](https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+  - [NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year](https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR)
   - [Vinted](https://www.vinted.com/)
   - [★ Writing With Unnatural Constraints](https://daringfireball.net/2026/09/writing_with_unnatural_constraints)
 - Data Breach
   - [Crooks Behind Manchester Airports Group Hack Leaked Data of 8.8 Million People](https://securityaffairs.com/198447/data-breach/crooks-behind-manchester-airports-group-hack-leaked-data-of-8-8-million-people.html)
+- Emergent Minds | paddo.dev
+  - [The Rollback Is the Product: Feature Flags, Canaries, and Config in the Agent Era](https://paddo.dev/blog/the-rollback-is-the-product/)
 - Hacker News Frontpage
   - [An open DNS recursive service for free security and high privacy](https://quad9.net/)
   - [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
@@ -44,6 +47,7 @@
   - [HEY, watch this!](https://zolkos.com/2026/09/04/hey-watch-this.html)
 - simonwillison.net
   - [OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/)
+  - [The Pelican comparison grid for Astra is pretty interesting](https://simonwillison.net/2026/Sep/4/astra-pelicans/)
 - Sploitus.com Exploits RSS Feed
   - [bazad5 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SIDEGREENHAND100-BAZAD5&utm_source=rss&utm_medium=rss)
   - [Cisco-CVE-2025-20281-illdeed exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ILL-DEED-CISCO-CVE-2025-20281-ILLDEED&utm_source=rss&utm_medium=rss)
@@ -87,7 +91,9 @@
   - [Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/)
   - [Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now](https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/)
   - [No little kids allowed, and other new info about Tesla’s Cybercab](https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/)
+  - [OpenAI’s rogue agents keep escaping, with no formal process to investigate them](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/)
   - [What will Apple’s John Ternus era look like?](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/)
+  - [XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)
 - The Block
   - [President Trump says he wants Hyperliquid to enter the US — here’s how it could happen](https://www.theblock.co/news/regulation/2026-09-04-trump-wants-hyperliquid-enter-us-how-it-could-happen-413594)
   - [Zcash tops $1,000 as ETF inflows ramp up and miners pile in](https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580)
@@ -109,4 +115,5 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [法官阻止社交平台 X 的竞争对手使用Twitter名称，但暂时允许使用“Tweet”。](https://blog.upx8.com/%E6%B3%95%E5%AE%98%E9%98%BB%E6%AD%A2%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0-X-%E7%9A%84%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E4%BD%BF%E7%94%A8Twitter%E5%90%8D%E7%A7%B0-%E4%BD%86%E6%9A%82%E6%97%B6%E5%85%81%E8%AE%B8%E4%BD%BF%E7%94%A8-Tweet)
   - [美光据称计划HBM月产能年底翻倍](https://blog.upx8.com/%E7%BE%8E%E5%85%89%E6%8D%AE%E7%A7%B0%E8%AE%A1%E5%88%92HBM%E6%9C%88%E4%BA%A7%E8%83%BD%E5%B9%B4%E5%BA%95%E7%BF%BB%E5%80%8D)
