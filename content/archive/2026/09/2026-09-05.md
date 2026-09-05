@@ -42,6 +42,9 @@
   - [How to Create a Tor Exit Node](https://madpsy.uk/how-to-create-a-tor-exit-node/)
   - [Nobody Is Saying Why OpenAI and Anthropic Had Outages](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
   - [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com)
+- HackerNoon
+  - [The AI Writing "Witch Hunt" Is a Huge Waste of Everyone's Time](https://hackernoon.com/the-ai-writing-witch-hunt-is-a-huge-waste-of-everyones-time?source=rss)
+  - [What Internal AI Projects Teach You That No Guide Will, Part 1](https://hackernoon.com/what-internal-ai-projects-teach-you-that-no-guide-will-part-1?source=rss)
 - Horizon3.ai
   - [What Fal.Con 2026 Reinforced: AI Makes Proving Exposure More Important Than Ever](https://horizon3.ai/intelligence/blogs/fal-con-2026-ai-exposure-validation/)
 - Malware-Traffic-Analysis.net - Blog Entries
@@ -155,6 +158,7 @@
   - [Casio ‘CasioNaut’ G-Shock GMC-2500 GAC-2500 Series: Price, Specs, Availability](https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic/)
   - [Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)
   - [Marvel Has Assigned 42 Hours of Homework Before ‘Avengers: Doomsday’](https://www.wired.com/story/marvel-has-assigned-42-hours-of-homework-before-avengers-doomsday/)
+  - [The Watch World Went Crazy This Week. Here Are the 10 You Need to See](https://www.wired.com/story/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see/)
 - 不安全
   - [arduino-pico v6.1.0](https://buaq.net/go-440312.html)
   - [numbat - AI agent observability, (Fri, Sep 4th)](https://buaq.net/go-440304.html)
@@ -163,6 +167,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [GPT-6 突然全量上线，额度重置再+1，全网实测效果太离谱](https://www.ifanr.com/1678195?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [一台 3D 打印机，为什么藏着 GPT-6 最大的野心？｜硬哲学](https://www.ifanr.com/1678515?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文](https://www.ifanr.com/1677342?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了](https://www.ifanr.com/1678295?utm_source=rss&utm_medium=rss&utm_campaign=)
