@@ -4,6 +4,8 @@
   - [【vps】美西除了 dimt 还有哪些 vps 推荐？带线路优化的](https://2libra.com/post/servers/2SzQa-a)
   - [【💰】新买了电动车，骑车物品求推（头盔、雨衣、记录仪等）](https://2libra.com/post/worth-buying/J7q4oog)
   - [今日潘多拉任务估计完不成了？](https://2libra.com/post/small-things/39dG9LO)
+  - [救命 今天上班](https://2libra.com/post/touch-fish/53OvvSB)
+  - [潘多拉妙笔生花，延期需要 1000 金币，个人感觉这定价不太合理](https://2libra.com/post/forum-function/jydRWEK)
   - [自动领取 WorkBuddy 每日积分的小脚本](https://2libra.com/post/open-source-tools/YqoTPAy)
   - [记录一下电报绕开收费的问题](https://2libra.com/post/tool-sharing/6ZPTD0c)
 - Ars Technica
@@ -114,6 +116,7 @@
   - [Casio ‘CasioNaut’ G-Shock GMC-2500 GAC-2500 Series: Price, Specs, Availability](https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic/)
   - [Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)
 - 不安全
+  - [numbat - AI agent observability, (Fri, Sep 4th)](https://buaq.net/go-440304.html)
   - [parsedmarc v11.0.1](https://buaq.net/go-440297.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
