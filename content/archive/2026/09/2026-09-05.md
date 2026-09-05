@@ -122,13 +122,16 @@
   - [arduino-pico v6.1.0](https://buaq.net/go-440312.html)
   - [numbat - AI agent observability, (Fri, Sep 4th)](https://buaq.net/go-440304.html)
   - [parsedmarc v11.0.1](https://buaq.net/go-440297.html)
+  - [peirates v1.1.31](https://buaq.net/go-440327.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文](https://www.ifanr.com/1677342?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了](https://www.ifanr.com/1678295?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Claude首次实现费马大定理自动形式化证明](https://blog.upx8.com/Claude%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E8%B4%B9%E9%A9%AC%E5%A4%A7%E5%AE%9A%E7%90%86%E8%87%AA%E5%8A%A8%E5%BD%A2%E5%BC%8F%E5%8C%96%E8%AF%81%E6%98%8E)
   - [OpenAI智能体据悉“劫持”德国网站 逾1.5万次编辑成AI“地下论坛”](https://blog.upx8.com/OpenAI%E6%99%BA%E8%83%BD%E4%BD%93%E6%8D%AE%E6%82%89-%E5%8A%AB%E6%8C%81-%E5%BE%B7%E5%9B%BD%E7%BD%91%E7%AB%99-%E9%80%BE1-5%E4%B8%87%E6%AC%A1%E7%BC%96%E8%BE%91%E6%88%90AI-%E5%9C%B0%E4%B8%8B%E8%AE%BA%E5%9D%9B)
+  - [任天堂连续两场直面会 塞尔达专场+综合](https://blog.upx8.com/%E4%BB%BB%E5%A4%A9%E5%A0%82%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%9C%BA%E7%9B%B4%E9%9D%A2%E4%BC%9A-%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%B8%93%E5%9C%BA-%E7%BB%BC%E5%90%88)
   - [新世界地图要来了 联合国弃用墨卡托投影](https://blog.upx8.com/%E6%96%B0%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E8%A6%81%E6%9D%A5%E4%BA%86-%E8%81%94%E5%90%88%E5%9B%BD%E5%BC%83%E7%94%A8%E5%A2%A8%E5%8D%A1%E6%89%98%E6%8A%95%E5%BD%B1)
   - [法官阻止社交平台 X 的竞争对手使用Twitter名称，但暂时允许使用“Tweet”。](https://blog.upx8.com/%E6%B3%95%E5%AE%98%E9%98%BB%E6%AD%A2%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0-X-%E7%9A%84%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E4%BD%BF%E7%94%A8Twitter%E5%90%8D%E7%A7%B0-%E4%BD%86%E6%9A%82%E6%97%B6%E5%85%81%E8%AE%B8%E4%BD%BF%E7%94%A8-Tweet)
   - [特斯拉Cybercab挑战监管极限：马斯克要借灰色地带强行上路？](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89Cybercab%E6%8C%91%E6%88%98%E7%9B%91%E7%AE%A1%E6%9E%81%E9%99%90-%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A6%81%E5%80%9F%E7%81%B0%E8%89%B2%E5%9C%B0%E5%B8%A6%E5%BC%BA%E8%A1%8C%E4%B8%8A%E8%B7%AF)
