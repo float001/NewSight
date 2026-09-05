@@ -49,6 +49,7 @@
   - [Pentagon rescinds new testosterone screening policy without explanation](https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/)
   - [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com)
   - [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
+  - [There's No Limit to How Bad Code Can Get](https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/)
 - HackerNoon
   - [The AI Writing "Witch Hunt" Is a Huge Waste of Everyone's Time](https://hackernoon.com/the-ai-writing-witch-hunt-is-a-huge-waste-of-everyones-time?source=rss)
   - [What Internal AI Projects Teach You That No Guide Will, Part 1](https://hackernoon.com/what-internal-ai-projects-teach-you-that-no-guide-will-part-1?source=rss)
@@ -159,6 +160,7 @@
   - [Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now](https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/)
   - [No little kids allowed, and other new info about Tesla’s Cybercab](https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/)
   - [OpenAI’s rogue agents keep escaping, with no formal process to investigate them](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/)
+  - [Oura is going public, but these smart ring companies are coming for its crown](https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/)
   - [What will Apple’s John Ternus era look like?](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/)
   - [XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)
 - The Block
@@ -176,11 +178,14 @@
   - [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be)
   - [Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor](https://www.theverge.com/tech/990658/audacity-4-update-audio-editing)
   - [Content creators drop the ball](https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad)
+  - [Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy](https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview)
   - [GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;](https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter)
   - [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident)
   - [Robotaxis enter their villain era](https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai)
   - [Roland is getting into generative AI music with Melody Flip](https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip)
   - [The White House is making arcade games racist](https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright)
+- Threatninja.net
+  - [Hack The Box: Pirate Machine Walkthrough – Hard Difficulity](https://threatninja.net/hack-the-box-pirate-machine-walkthrough-hard-difficulity/)
 - Wallarm
   - [Dissecting Attacks Is Only Valuable If It Informs Controls: What the Unit 42 agentic AI investigation should change in your control set, stage by stage.](https://lab.wallarm.com/what-the-unit-42-agentic-ai-investigation-should-change-in-your-control-set-stage-by-stage/)
 - wheresyoured.at
