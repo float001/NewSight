@@ -9,6 +9,7 @@
   - [【💰】脸出油有好的解决办法吗](https://2libra.com/post/health-consultation/ZYCLStS)
   - [今天不会只有我在加班吧](https://2libra.com/post/workplace-stories/H_BhrGl)
   - [今日潘多拉任务估计完不成了？](https://2libra.com/post/small-things/39dG9LO)
+  - [发现个好玩的论坛 居然可以加密货币登录 挺好玩的](https://2libra.com/post/promotion/lr7DLNx)
   - [各种论坛福利发放频道](https://2libra.com/post/promotion/8WMbx2B)
   - [救命 今天上班](https://2libra.com/post/touch-fish/53OvvSB)
   - [潘多拉妙笔生花，延期需要 1000 金币，个人感觉这定价不太合理](https://2libra.com/post/forum-function/jydRWEK)
@@ -45,7 +46,9 @@
   - [Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace](https://twitter.com/ggerganov/status/2095897173376618881)
   - [How to Create a Tor Exit Node](https://madpsy.uk/how-to-create-a-tor-exit-node/)
   - [Nobody Is Saying Why OpenAI and Anthropic Had Outages](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
+  - [Pentagon rescinds new testosterone screening policy without explanation](https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/)
   - [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com)
+  - [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
 - HackerNoon
   - [The AI Writing "Witch Hunt" Is a Huge Waste of Everyone's Time](https://hackernoon.com/the-ai-writing-witch-hunt-is-a-huge-waste-of-everyones-time?source=rss)
   - [What Internal AI Projects Teach You That No Guide Will, Part 1](https://hackernoon.com/what-internal-ai-projects-teach-you-that-no-guide-will-part-1?source=rss)
@@ -159,17 +162,20 @@
   - [What will Apple’s John Ternus era look like?](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/)
   - [XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)
 - The Block
+  - [LeBron James teases Polymarket partnership in new social media video](https://www.theblock.co/news/deals/2026-09-05-lebron-james-teases-polymarket-partnership-in-new-social-media-video-413608)
   - [President Trump says he wants Hyperliquid to enter the US — here’s how it could happen](https://www.theblock.co/news/regulation/2026-09-04-trump-wants-hyperliquid-enter-us-how-it-could-happen-413594)
   - [Zcash tops $1,000 as ETF inflows ramp up and miners pile in](https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580)
 - The Decoder
   - [Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers](https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/)
   - [OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki](https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/)
   - [OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol](https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/)
+  - [OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words](https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/)
   - [OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections](https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/)
   - [Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments](https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/)
 - The Verge
   - [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be)
   - [Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor](https://www.theverge.com/tech/990658/audacity-4-update-audio-editing)
+  - [Content creators drop the ball](https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad)
   - [GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;](https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter)
   - [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident)
   - [Robotaxis enter their villain era](https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai)
@@ -188,6 +194,7 @@
   - [There May Not Be an iPhone 18 This Year](https://www.wired.com/story/there-may-not-be-an-iphone-18-this-year/)
 - 不安全
   - [arduino-pico v6.1.0](https://buaq.net/go-440312.html)
+  - [FF-16-Web is a browser-based, interactive static pattern discovery tool that finds frequently occurring local 16-bit patterns across the entire file. It can run offline in a web browser. FF-16-Web is hosted on GitHub and it works in the same way like as the CLI and TUI versions.](https://buaq.net/go-440363.html)
   - [numbat - AI agent observability, (Fri, Sep 4th)](https://buaq.net/go-440304.html)
   - [parsedmarc v11.0.1](https://buaq.net/go-440297.html)
   - [peirates v1.1.31](https://buaq.net/go-440327.html)
