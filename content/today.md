@@ -3,6 +3,7 @@
 - 2Libra
   - [【vps】美西除了 dimt 还有哪些 vps 推荐？带线路优化的](https://2libra.com/post/servers/2SzQa-a)
   - [【💰】新买了电动车，骑车物品求推（头盔、雨衣、记录仪等）](https://2libra.com/post/worth-buying/J7q4oog)
+  - [【💰】脸出油有好的解决办法吗](https://2libra.com/post/health-consultation/ZYCLStS)
   - [今天不会只有我在加班吧](https://2libra.com/post/workplace-stories/H_BhrGl)
   - [今日潘多拉任务估计完不成了？](https://2libra.com/post/small-things/39dG9LO)
   - [救命 今天上班](https://2libra.com/post/touch-fish/53OvvSB)
@@ -79,7 +80,9 @@
   - [CVE-2026-24061 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-S-VX-CVE-2026-24061&utm_source=rss&utm_medium=rss)
   - [DirtyPIPE-CVE-2022-0847 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GITHUBLIHAHA-DIRTYPIPE-CVE-2022-0847&utm_source=rss&utm_medium=rss)
   - [DonkAI exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OWASP-DONKAI&utm_source=rss&utm_medium=rss)
+  - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Jetbrains Teamcity](https://sploitus.com/exploit?id=E17C0EDC-9E23-58CB-9836-8443C0C783AE&utm_source=rss&utm_medium=rss)
   - [Exploit for Classic Buffer Overflow in Pcman Ftp_Server](https://sploitus.com/exploit?id=00157985-D0DE-592A-98CF-6332AC3BB80E&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-32475](https://sploitus.com/exploit?id=95A2A3D3-9B4B-54F6-9DF5-31D0EBF77BB9&utm_source=rss&utm_medium=rss)
   - [Exploit for Server-Side Request Forgery in Sonicwall Sma8200V](https://sploitus.com/exploit?id=C6CC4F4D-1911-58D8-A29F-C7199A6F7A3C&utm_source=rss&utm_medium=rss)
   - [Follina-attack-CVE-2022-30190- exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IMENEALLOUCHE-FOLLINA-ATTACK-CVE-2022-30190-&utm_source=rss&utm_medium=rss)
   - [gerobug exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GEROSECURITY-GEROBUG&utm_source=rss&utm_medium=rss)
