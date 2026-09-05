@@ -4,6 +4,7 @@
   - [LOL 海克斯大乱斗](https://2libra.com/post/game-discussion/giLZZVG)
   - [N 站邀请码有的来](https://2libra.com/post/invite-code/JHj7Gzu)
   - [【vps】美西除了 dimt 还有哪些 vps 推荐？带线路优化的](https://2libra.com/post/servers/2SzQa-a)
+  - [【高危漏洞】Sub-Store 爆未授权 RCE，影响 mihomo-party、Sparkle 等代理软件](https://2libra.com/post/network-security/gVstHQU)
   - [【💰】新买了电动车，骑车物品求推（头盔、雨衣、记录仪等）](https://2libra.com/post/worth-buying/J7q4oog)
   - [【💰】脸出油有好的解决办法吗](https://2libra.com/post/health-consultation/ZYCLStS)
   - [今天不会只有我在加班吧](https://2libra.com/post/workplace-stories/H_BhrGl)
@@ -36,6 +37,7 @@
 - Data Breach
   - [Crooks Behind Manchester Airports Group Hack Leaked Data of 8.8 Million People](https://securityaffairs.com/198447/data-breach/crooks-behind-manchester-airports-group-hack-leaked-data-of-8-8-million-people.html)
 - Emergent Minds | paddo.dev
+  - [GPT-6 Astra Is On Every Plan: What It Costs, What It's Good At, and Which Effort Level to Use](https://paddo.dev/blog/gpt-6-astra-critical-generally-available/)
   - [The Rollback Is the Product: Feature Flags, Canaries, and Config in the Agent Era](https://paddo.dev/blog/the-rollback-is-the-product/)
 - Hacker News Frontpage
   - [An open DNS recursive service for free security and high privacy](https://quad9.net/)
@@ -58,6 +60,8 @@
   - [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/)
 - Rob Zolkos
   - [HEY, watch this!](https://zolkos.com/2026/09/04/hey-watch-this.html)
+- shkspr.mobi
+  - [Book Review: The Passing of the Dragon and Other Stories by Ken Liu ★★★★☆](https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-by-ken-liu/)
 - simonwillison.net
   - [OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/)
   - [The Pelican comparison grid for Astra is pretty interesting](https://simonwillison.net/2026/Sep/4/astra-pelicans/)
@@ -113,9 +117,11 @@
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Jetbrains Teamcity](https://sploitus.com/exploit?id=E17C0EDC-9E23-58CB-9836-8443C0C783AE&utm_source=rss&utm_medium=rss)
   - [Exploit for Classic Buffer Overflow in Pcman Ftp_Server](https://sploitus.com/exploit?id=00157985-D0DE-592A-98CF-6332AC3BB80E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-32475](https://sploitus.com/exploit?id=95A2A3D3-9B4B-54F6-9DF5-31D0EBF77BB9&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Cpanel](https://sploitus.com/exploit?id=69927260-D18A-5031-8470-51E4EC5EA4AF&utm_source=rss&utm_medium=rss)
   - [Exploit for Server-Side Request Forgery in Sonicwall Sma8200V](https://sploitus.com/exploit?id=C6CC4F4D-1911-58D8-A29F-C7199A6F7A3C&utm_source=rss&utm_medium=rss)
   - [Follina-attack-CVE-2022-30190- exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IMENEALLOUCHE-FOLLINA-ATTACK-CVE-2022-30190-&utm_source=rss&utm_medium=rss)
   - [gerobug exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GEROSECURITY-GEROBUG&utm_source=rss&utm_medium=rss)
+  - [jimureport-2.5.1-rce exploit](https://sploitus.com/exploit?id=1020FACC-AF7E-5905-AB26-99C4EFCCBE7C&utm_source=rss&utm_medium=rss)
   - [litellm-command-injection-security-assessment exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AMNSECURITY-LITELLM-COMMAND-INJECTION-SECURITY-ASSESSMENT&utm_source=rss&utm_medium=rss)
   - [ludus_crushftp_cve-2025-31161_sim exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RUFFLABS-LUDUS_CRUSHFTP_CVE-2025-31161_SIM&utm_source=rss&utm_medium=rss)
   - [MalvexC2 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ERARNITOX-MALVEXC2&utm_source=rss&utm_medium=rss)
@@ -152,6 +158,7 @@
   - [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be)
   - [Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor](https://www.theverge.com/tech/990658/audacity-4-update-audio-editing)
   - [GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;](https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter)
+  - [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident)
   - [Robotaxis enter their villain era](https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai)
   - [Roland is getting into generative AI music with Melody Flip](https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip)
   - [The White House is making arcade games racist](https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright)
@@ -179,6 +186,7 @@
   - [早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文](https://www.ifanr.com/1677342?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了](https://www.ifanr.com/1678295?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [6350元人民币！全球首款Wi-Fi 8路由器上市](https://blog.upx8.com/6350%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81-%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BEWi-Fi-8%E8%B7%AF%E7%94%B1%E5%99%A8%E4%B8%8A%E5%B8%82)
   - [Claude首次实现费马大定理自动形式化证明](https://blog.upx8.com/Claude%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E8%B4%B9%E9%A9%AC%E5%A4%A7%E5%AE%9A%E7%90%86%E8%87%AA%E5%8A%A8%E5%BD%A2%E5%BC%8F%E5%8C%96%E8%AF%81%E6%98%8E)
   - [OpenAI智能体据悉“劫持”德国网站 逾1.5万次编辑成AI“地下论坛”](https://blog.upx8.com/OpenAI%E6%99%BA%E8%83%BD%E4%BD%93%E6%8D%AE%E6%82%89-%E5%8A%AB%E6%8C%81-%E5%BE%B7%E5%9B%BD%E7%BD%91%E7%AB%99-%E9%80%BE1-5%E4%B8%87%E6%AC%A1%E7%BC%96%E8%BE%91%E6%88%90AI-%E5%9C%B0%E4%B8%8B%E8%AE%BA%E5%9D%9B)
   - [任天堂连续两场直面会 塞尔达专场+综合](https://blog.upx8.com/%E4%BB%BB%E5%A4%A9%E5%A0%82%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%9C%BA%E7%9B%B4%E9%9D%A2%E4%BC%9A-%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%B8%93%E5%9C%BA-%E7%BB%BC%E5%90%88)
