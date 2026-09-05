@@ -3,6 +3,7 @@
 - 2Libra
   - [【vps】美西除了 dimt 还有哪些 vps 推荐？带线路优化的](https://2libra.com/post/servers/2SzQa-a)
   - [【💰】新买了电动车，骑车物品求推（头盔、雨衣、记录仪等）](https://2libra.com/post/worth-buying/J7q4oog)
+  - [今天不会只有我在加班吧](https://2libra.com/post/workplace-stories/H_BhrGl)
   - [今日潘多拉任务估计完不成了？](https://2libra.com/post/small-things/39dG9LO)
   - [救命 今天上班](https://2libra.com/post/touch-fish/53OvvSB)
   - [潘多拉妙笔生花，延期需要 1000 金币，个人感觉这定价不太合理](https://2libra.com/post/forum-function/jydRWEK)
@@ -124,6 +125,7 @@
 - 爱范儿
   - [早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文](https://www.ifanr.com/1677342?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [Claude首次实现费马大定理自动形式化证明](https://blog.upx8.com/Claude%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E8%B4%B9%E9%A9%AC%E5%A4%A7%E5%AE%9A%E7%90%86%E8%87%AA%E5%8A%A8%E5%BD%A2%E5%BC%8F%E5%8C%96%E8%AF%81%E6%98%8E)
   - [OpenAI智能体据悉“劫持”德国网站 逾1.5万次编辑成AI“地下论坛”](https://blog.upx8.com/OpenAI%E6%99%BA%E8%83%BD%E4%BD%93%E6%8D%AE%E6%82%89-%E5%8A%AB%E6%8C%81-%E5%BE%B7%E5%9B%BD%E7%BD%91%E7%AB%99-%E9%80%BE1-5%E4%B8%87%E6%AC%A1%E7%BC%96%E8%BE%91%E6%88%90AI-%E5%9C%B0%E4%B8%8B%E8%AE%BA%E5%9D%9B)
   - [法官阻止社交平台 X 的竞争对手使用Twitter名称，但暂时允许使用“Tweet”。](https://blog.upx8.com/%E6%B3%95%E5%AE%98%E9%98%BB%E6%AD%A2%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0-X-%E7%9A%84%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E4%BD%BF%E7%94%A8Twitter%E5%90%8D%E7%A7%B0-%E4%BD%86%E6%9A%82%E6%97%B6%E5%85%81%E8%AE%B8%E4%BD%BF%E7%94%A8-Tweet)
   - [特斯拉Cybercab挑战监管极限：马斯克要借灰色地带强行上路？](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89Cybercab%E6%8C%91%E6%88%98%E7%9B%91%E7%AE%A1%E6%9E%81%E9%99%90-%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A6%81%E5%80%9F%E7%81%B0%E8%89%B2%E5%9C%B0%E5%B8%A6%E5%BC%BA%E8%A1%8C%E4%B8%8A%E8%B7%AF)
