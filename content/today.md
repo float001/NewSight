@@ -6,6 +6,7 @@
   - [Gloria Steinem’s Final Essay](https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350)
   - [‘Bob and Van’](https://marco.org/2026/09/04/bob-and-van)
 - Hacker News Frontpage
+  - [Falsehoods Programmers Believe About LANs](https://dreamstation.systems/personal/lanfalsehoods.html)
   - [Finite time blowup for an averaged three-dimensional Navier-Stokes equation](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)
   - [How the Tobacco Industry Drove the Rise of Ultra-Processed Foods](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
   - [Isar Aerospace launch into orbit [video]](https://www.youtube.com/watch?v=Ss1DUqLjecc)
@@ -15,6 +16,7 @@
 - TechCrunch
   - [Clucky’s new alarm app wakes you up with a crowing rooster](https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/)
   - [Hikers rescued after using Google Gemini for planning](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/)
+  - [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)
 - The Block
   - [UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg](https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616)
 - The Decoder
@@ -25,3 +27,5 @@
   - [iPhone Handoff will seamlessly share one number between two phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [徒步旅行者使用Gemini进行规划后被困山上](https://blog.upx8.com/%E5%BE%92%E6%AD%A5%E6%97%85%E8%A1%8C%E8%80%85%E4%BD%BF%E7%94%A8Gemini%E8%BF%9B%E8%A1%8C%E8%A7%84%E5%88%92%E5%90%8E%E8%A2%AB%E5%9B%B0%E5%B1%B1%E4%B8%8A)
