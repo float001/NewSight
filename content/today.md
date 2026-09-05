@@ -58,6 +58,8 @@
   - [How to secure edge AI in customer-owned environments](https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/)
 - MIT Technology Review
   - [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/)
+- Recent Commits to cve:main
+  - [Update Sat Sep  5 12:11:42 UTC 2026](https://github.com/trickest/cve/commit/6fa5b4be24fc16a6b3e8ee591bf661d9d8e1ab41)
 - Rob Zolkos
   - [HEY, watch this!](https://zolkos.com/2026/09/04/hey-watch-this.html)
 - shkspr.mobi
@@ -76,6 +78,7 @@
   - [Coldroot exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-XLINSHAN-COLDROOT&utm_source=rss&utm_medium=rss)
   - [CVE-2007-2447 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AMRIUNIX-CVE-2007-2447&utm_source=rss&utm_medium=rss)
   - [CVE-2011-3192-apache-exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BLUEDRAGONSECURITY-CVE-2011-3192-APACHE-EXPLOIT&utm_source=rss&utm_medium=rss)
+  - [CVE-2013-4322_PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LIVIUPTR-CVE-2013-4322_POC&utm_source=rss&utm_medium=rss)
   - [CVE-2015-5377 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FI3RO-CVE-2015-5377&utm_source=rss&utm_medium=rss)
   - [cve-2019-0708 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CVENCODER-CVE-2019-0708&utm_source=rss&utm_medium=rss)
   - [CVE-2019-3396 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TRANPHUC2005-CVE-2019-3396&utm_source=rss&utm_medium=rss)
@@ -88,9 +91,11 @@
   - [CVE-2020-1938TomcatAjpScanner exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WOAIQIUKUI-CVE-2020-1938TOMCATAJPSCANNER&utm_source=rss&utm_medium=rss)
   - [CVE-2021-22555 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TUKRU-CVE-2021-22555&utm_source=rss&utm_medium=rss)
   - [CVE-2021-40906 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EDGARLOYOLA-CVE-2021-40906&utm_source=rss&utm_medium=rss)
+  - [CVE-2021-42756 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-3NDORPH1N-CVE-2021-42756&utm_source=rss&utm_medium=rss)
   - [CVE-2021-45232 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LTIDI2000-CVE-2021-45232&utm_source=rss&utm_medium=rss)
   - [CVE-2022-21449 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FUNDAERGN-CVE-2022-21449&utm_source=rss&utm_medium=rss)
   - [cve-2022-22947 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DARKB1RD-CVE-2022-22947&utm_source=rss&utm_medium=rss)
+  - [CVE-2022-26134-OGNL-Injection exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ROODHELIOS-CVE-2022-26134-OGNL-INJECTION&utm_source=rss&utm_medium=rss)
   - [CVE-2023-26982 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BYPAZS-CVE-2023-26982&utm_source=rss&utm_medium=rss)
   - [CVE-2023-28324 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HORIZON3AI-CVE-2023-28324&utm_source=rss&utm_medium=rss)
   - [CVE-2023-30547 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JUNNYTHEMARKSMAN-CVE-2023-30547&utm_source=rss&utm_medium=rss)
@@ -109,7 +114,9 @@
   - [CVE-2025-24071_PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MARCEJR117-CVE-2025-24071_POC&utm_source=rss&utm_medium=rss)
   - [CVE-2025-25257 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THESTINGR-CVE-2025-25257&utm_source=rss&utm_medium=rss)
   - [CVE-2025-30208-ViteVulnScanner exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KEKLICK1337-CVE-2025-30208-VITEVULNSCANNER&utm_source=rss&utm_medium=rss)
+  - [cve-2025-32756 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHAN0AR-CVE-2025-32756&utm_source=rss&utm_medium=rss)
   - [CVE-2025-59712_CVE-2025-59713 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SYNACKTIV-CVE-2025-59712_CVE-2025-59713&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-65856 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LUISMIRANDAACEBEDO-CVE-2025-65856&utm_source=rss&utm_medium=rss)
   - [CVE-2026-24061 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-S-VX-CVE-2026-24061&utm_source=rss&utm_medium=rss)
   - [CVE-2026-36669-FengOffice exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FIRSTLAX6T-CVE-2026-36669-FENGOFFICE&utm_source=rss&utm_medium=rss)
   - [DirtyPIPE-CVE-2022-0847 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GITHUBLIHAHA-DIRTYPIPE-CVE-2022-0847&utm_source=rss&utm_medium=rss)
@@ -127,10 +134,14 @@
   - [MalvexC2 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ERARNITOX-MALVEXC2&utm_source=rss&utm_medium=rss)
   - [miniplasma-advisory exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RFRANCA777-MINIPLASMA-ADVISORY&utm_source=rss&utm_medium=rss)
   - [MoveEdr exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DUHIRSCH-MOVEEDR&utm_source=rss&utm_medium=rss)
+  - [Netgrave exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-XEWDY444-NETGRAVE&utm_source=rss&utm_medium=rss)
   - [nmap-CVE-2022-21907 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GPIECHNIK2-NMAP-CVE-2022-21907&utm_source=rss&utm_medium=rss)
+  - [Noctyra exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0P4N1K-NOCTYRA&utm_source=rss&utm_medium=rss)
   - [nosurf-cve-2025-46721 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JUSTINAS-NOSURF-CVE-2025-46721&utm_source=rss&utm_medium=rss)
+  - [packages_apps_settings_AOSP10_r33_CVE-2020-0416 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHAIKUSAF-PACKAGES_APPS_SETTINGS_AOSP10_R33_CVE-2020-0416&utm_source=rss&utm_medium=rss)
   - [pgpdump exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KAZU-YAMAMOTO-PGPDUMP&utm_source=rss&utm_medium=rss)
   - [Printnightmare exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EUTECTICO-PRINTNIGHTMARE&utm_source=rss&utm_medium=rss)
+  - [React2Shell-Library exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WEBSECURITYLABS-REACT2SHELL-LIBRARY&utm_source=rss&utm_medium=rss)
   - [retryabledns exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PROJECTDISCOVERY-RETRYABLEDNS&utm_source=rss&utm_medium=rss)
   - [scan-dirtycow exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AISHEE-SCAN-DIRTYCOW&utm_source=rss&utm_medium=rss)
   - [Shellbash-CVE-2014-6271 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CYBERHARSH-SHELLBASH-CVE-2014-6271&utm_source=rss&utm_medium=rss)
@@ -138,6 +149,7 @@
   - [SSRF-CVE-2023-22493 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BUITANHUNG144-SSRF-CVE-2023-22493&utm_source=rss&utm_medium=rss)
   - [strongswan exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-STRONGSWAN-STRONGSWAN&utm_source=rss&utm_medium=rss)
   - [sudo-exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-REDHAWKEYE-SUDO-EXPLOIT&utm_source=rss&utm_medium=rss)
+  - [telerik exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CLARKVOSS-TELERIK&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI compute provider Nscale is looking for $3.5B in pre-IPO financing](https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/)
   - [Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/)
@@ -154,6 +166,7 @@
   - [OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki](https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/)
   - [OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol](https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/)
   - [OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections](https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/)
+  - [Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments](https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/)
 - The Verge
   - [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be)
   - [Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor](https://www.theverge.com/tech/990658/audacity-4-update-audio-editing)
@@ -178,8 +191,11 @@
   - [numbat - AI agent observability, (Fri, Sep 4th)](https://buaq.net/go-440304.html)
   - [parsedmarc v11.0.1](https://buaq.net/go-440297.html)
   - [peirates v1.1.31](https://buaq.net/go-440327.html)
+  - [yakit v1.4.8-0905](https://buaq.net/go-440358.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [联合国大会批准新地图](https://www.solidot.org/story?sid=85293)
 - 爱范儿
   - [GPT-6 突然全量上线，额度重置再+1，全网实测效果太离谱](https://www.ifanr.com/1678195?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [一台 3D 打印机，为什么藏着 GPT-6 最大的野心？｜硬哲学](https://www.ifanr.com/1678515?utm_source=rss&utm_medium=rss&utm_campaign=)
