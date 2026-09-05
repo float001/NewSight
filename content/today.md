@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-09-05）
 
 - 2Libra
+  - [N 站邀请码有的来](https://2libra.com/post/invite-code/JHj7Gzu)
   - [【vps】美西除了 dimt 还有哪些 vps 推荐？带线路优化的](https://2libra.com/post/servers/2SzQa-a)
   - [【💰】新买了电动车，骑车物品求推（头盔、雨衣、记录仪等）](https://2libra.com/post/worth-buying/J7q4oog)
   - [【💰】脸出油有好的解决办法吗](https://2libra.com/post/health-consultation/ZYCLStS)
@@ -107,6 +108,7 @@
   - [President Trump says he wants Hyperliquid to enter the US — here’s how it could happen](https://www.theblock.co/news/regulation/2026-09-04-trump-wants-hyperliquid-enter-us-how-it-could-happen-413594)
   - [Zcash tops $1,000 as ETF inflows ramp up and miners pile in](https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580)
 - The Decoder
+  - [OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol](https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/)
   - [OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections](https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/)
 - The Verge
   - [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be)
@@ -129,6 +131,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [一台 3D 打印机，为什么藏着 GPT-6 最大的野心？｜硬哲学](https://www.ifanr.com/1678515?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文](https://www.ifanr.com/1677342?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了](https://www.ifanr.com/1678295?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
