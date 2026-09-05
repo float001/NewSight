@@ -116,6 +116,7 @@
   - [Casio ‘CasioNaut’ G-Shock GMC-2500 GAC-2500 Series: Price, Specs, Availability](https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic/)
   - [Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)
 - 不安全
+  - [arduino-pico v6.1.0](https://buaq.net/go-440312.html)
   - [numbat - AI agent observability, (Fri, Sep 4th)](https://buaq.net/go-440304.html)
   - [parsedmarc v11.0.1](https://buaq.net/go-440297.html)
 - 代码审计星球
@@ -125,4 +126,5 @@
 - 黑海洋
   - [OpenAI智能体据悉“劫持”德国网站 逾1.5万次编辑成AI“地下论坛”](https://blog.upx8.com/OpenAI%E6%99%BA%E8%83%BD%E4%BD%93%E6%8D%AE%E6%82%89-%E5%8A%AB%E6%8C%81-%E5%BE%B7%E5%9B%BD%E7%BD%91%E7%AB%99-%E9%80%BE1-5%E4%B8%87%E6%AC%A1%E7%BC%96%E8%BE%91%E6%88%90AI-%E5%9C%B0%E4%B8%8B%E8%AE%BA%E5%9D%9B)
   - [法官阻止社交平台 X 的竞争对手使用Twitter名称，但暂时允许使用“Tweet”。](https://blog.upx8.com/%E6%B3%95%E5%AE%98%E9%98%BB%E6%AD%A2%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0-X-%E7%9A%84%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E4%BD%BF%E7%94%A8Twitter%E5%90%8D%E7%A7%B0-%E4%BD%86%E6%9A%82%E6%97%B6%E5%85%81%E8%AE%B8%E4%BD%BF%E7%94%A8-Tweet)
+  - [特斯拉Cybercab挑战监管极限：马斯克要借灰色地带强行上路？](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89Cybercab%E6%8C%91%E6%88%98%E7%9B%91%E7%AE%A1%E6%9E%81%E9%99%90-%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A6%81%E5%80%9F%E7%81%B0%E8%89%B2%E5%9C%B0%E5%B8%A6%E5%BC%BA%E8%A1%8C%E4%B8%8A%E8%B7%AF)
   - [美光据称计划HBM月产能年底翻倍](https://blog.upx8.com/%E7%BE%8E%E5%85%89%E6%8D%AE%E7%A7%B0%E8%AE%A1%E5%88%92HBM%E6%9C%88%E4%BA%A7%E8%83%BD%E5%B9%B4%E5%BA%95%E7%BF%BB%E5%80%8D)
