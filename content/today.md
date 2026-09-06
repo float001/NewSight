@@ -26,17 +26,21 @@
   - [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)
   - [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/)
   - [They're Made Out of Meat](https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml)
+  - [Windows 11's "special" developer edition looks like another marketing misfire](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
   - [XCancel is available again](https://xcancel.com/about)
 - Sploitus.com Exploits RSS Feed
+  - [CVE-2025-32463 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALDOCLAU98-CVE-2025-32463&utm_source=rss&utm_medium=rss)
   - [packages_apps_Nfc_AOSP10_r33_CVE-2021-0594 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SATHEESH575555-PACKAGES_APPS_NFC_AOSP10_R33_CVE-2021-0594&utm_source=rss&utm_medium=rss)
   - [wireguard-tools exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WIREGUARD-WIREGUARD-TOOLS&utm_source=rss&utm_medium=rss)
   - [zoneminder exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZONEMINDER-ZONEMINDER&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Authors push back as publishers and agents seek share of Anthropic settlement](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/)
+  - [Phil Schiller’s App Store exit reportedly driven by wariness over future plans](https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/)
   - [TechCrunch Mobility: Tesla Cybercab hits the road — and a snag](https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/)
   - [Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/)
 - The Block
   - [Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens](https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618)
+  - [Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin](https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626)
   - [STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter](https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621)
 - The Verge
   - [An Amazon cargo plane crashed at Miami International Airport](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami)
