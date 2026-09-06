@@ -21,6 +21,7 @@
   - [Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/)
 - Sploitus.com Exploits RSS Feed
   - [android-app exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PROTONVPN-ANDROID-APP&utm_source=rss&utm_medium=rss)
+  - [apishield exploit](https://sploitus.com/exploit?id=521011A0-3F69-5B01-B32F-9A185EA10553&utm_source=rss&utm_medium=rss)
   - [attack-surface-framework exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-VMWARE-LABS-ATTACK-SURFACE-FRAMEWORK&utm_source=rss&utm_medium=rss)
   - [cve exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TRICKEST-CVE&utm_source=rss&utm_medium=rss)
   - [CVE-2025-50154 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RUBENFORMATION-CVE-2025-50154&utm_source=rss&utm_medium=rss)
@@ -66,6 +67,8 @@
   - [I think my boyfriend is in trouble](https://buaq.net/go-440430.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [AI 降低了创造的门槛，B 站则想放大创造的回声](https://www.ifanr.com/1678567?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [徒步旅行者使用Gemini进行规划后被困山上](https://blog.upx8.com/%E5%BE%92%E6%AD%A5%E6%97%85%E8%A1%8C%E8%80%85%E4%BD%BF%E7%94%A8Gemini%E8%BF%9B%E8%A1%8C%E8%A7%84%E5%88%92%E5%90%8E%E8%A2%AB%E5%9B%B0%E5%B1%B1%E4%B8%8A)
   - [微软杰出工程师称手搓代码时代已结束，Win11 开发模式已迎巨变](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%9D%B0%E5%87%BA%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%A7%B0%E6%89%8B%E6%90%93%E4%BB%A3%E7%A0%81%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%93%E6%9D%9F-Win11-%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%B7%B2%E8%BF%8E%E5%B7%A8%E5%8F%98)
