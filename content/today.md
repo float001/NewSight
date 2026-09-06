@@ -1,4 +1,25 @@
 # 今日安全资讯（2026-09-07）
 
+- CXSecurity: World Laboratory of Bugtraq 2
+  - [C-MOR  6.0104 Directory Traversal](https://cxsecurity.com/issue/WLB-2026090004)
+  - [EVerest 2025.9.0 DoS](https://cxsecurity.com/issue/WLB-2026090003)
+  - [FreePBX  17.0.2 Remote Code Execution (RCE)](https://cxsecurity.com/issue/WLB-2026090002)
+  - [lnrbda - SQL Injection vulnerability](https://cxsecurity.com/issue/WLB-2026090001)
+  - [ProFTPD mod_sql post-authentication SQLi RCE](https://cxsecurity.com/issue/WLB-2026090006)
+  - [Tenable Nessus 10.12.1 SQL Injection](https://cxsecurity.com/issue/WLB-2026090005)
+  - [Windows Defender (MsMpEng.exe) Race Condition](https://cxsecurity.com/issue/WLB-2026090007)
+- daringfireball.net
+  - [Dickover of the Week: Slashdot Put One in Their RSS Feed](https://discourse.netnewswire.com/t/dickover-in-the-slashdot-rss-feed/372)
+  - [Gurman on Schiller’s Departure and Ternus’s Goals](https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU&leadSource=article-gifting)
+  - [Litterbox: Safari Extension for Viewing X Tweets](https://andadinosaur.com/launch-litterbox)
+- Hacker News Frontpage
+  - [An Alien Mind](https://openai.com/index/an-alien-mind/)
+  - [Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
+  - [Research carried out using NetBSD](https://www.netbsd.org/gallery/research.html)
+- TechCrunch
+  - [TechCrunch Mobility: Tesla Cybercab hits the road — and a snag](https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/)
+  - [Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/)
+- The Verge
+  - [Boox’s tiny Picco e-reader should land in November](https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
