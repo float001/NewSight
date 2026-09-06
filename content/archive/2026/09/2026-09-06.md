@@ -7,6 +7,8 @@
   - [每日搜索关键字雷达](https://2libra.com/post/tools-sharing/P9C8x43)
   - [海量电子书与香港、台湾、新加坡中小学、大学教育全年级学科教材资源站点速查表](https://2libra.com/post/good-books/QXJzhwu)
   - [猫猫电视台](https://2libra.com/post/personal-works/LNXISwE)
+- CoinTelegraph
+  - [Tether-backed Orionx to shut down after audit flags $7M custody gap](https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Gloria Steinem’s Final Essay](https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350)
   - [‘Bob and Van’](https://marco.org/2026/09/04/bob-and-van)
@@ -18,6 +20,7 @@
   - [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
   - [Space industry lacks workers needed to rebuild satellites lost in war: report](https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/)
   - [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
+  - [You Don't Have a Right to Safe Drinking Water, US Court Rules](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/)
 - michael.stapelberg.ch
   - [Debian Code Search: Fast TurboPFor with Go SIMD](https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/)
 - simonwillison.net
@@ -61,6 +64,8 @@
   - [UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg](https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616)
 - The Decoder
   - [Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism](https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/)
+  - [Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model](https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/)
+  - [Meta's new real-time audio model is the foundation for AI assistants that never stop listening](https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/)
   - [Stripping safety guardrails from open-weight AI models is now a turnkey commercial service](https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/)
 - The Verge
   - [CD sales are booming as physical media continues its resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence)
@@ -68,8 +73,12 @@
   - [iPhone Handoff will seamlessly share one number between two phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27)
 - Vulners.com RSS Feed
   - [vigolium](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-VIGOLIUM-VIGOLIUM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [The Best Gaming Chairs (2026): Are They Worth It?](https://www.wired.com/gallery/best-gaming-chairs/)
+  - [Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit](https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/)
 - 不安全
   - [I think my boyfriend is in trouble](https://buaq.net/go-440430.html)
+  - [PyRIT v1.1.0](https://buaq.net/go-440461.html)
   - [ublockdnsclient v0.3.1](https://buaq.net/go-440449.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
