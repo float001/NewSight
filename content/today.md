@@ -1,7 +1,9 @@
 # 今日安全资讯（2026-09-06）
 
 - 2Libra
+  - [《茶啊二中》 轻松搞笑的校园动画，中学时代的回忆 点评：10 分｜茶啊二中 轻松搞笑的校园动画，中学时代的回忆](https://2libra.com/post/movie-sharing/dI9j2jf)
   - [每日搜索关键字雷达](https://2libra.com/post/tools-sharing/P9C8x43)
+  - [海量电子书与香港、台湾、新加坡中小学、大学教育全年级学科教材资源站点速查表](https://2libra.com/post/good-books/QXJzhwu)
   - [猫猫电视台](https://2libra.com/post/personal-works/LNXISwE)
 - daringfireball.net
   - [Gloria Steinem’s Final Essay](https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350)
