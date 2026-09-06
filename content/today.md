@@ -9,6 +9,7 @@
   - [海量电子书与香港、台湾、新加坡中小学、大学教育全年级学科教材资源站点速查表](https://2libra.com/post/good-books/QXJzhwu)
   - [猫猫电视台](https://2libra.com/post/personal-works/LNXISwE)
 - CoinTelegraph
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether-backed Orionx to shut down after audit flags $7M custody gap](https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Gloria Steinem’s Final Essay](https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350)
@@ -21,6 +22,7 @@
   - [Isar Aerospace launch into orbit [video]](https://www.youtube.com/watch?v=Ss1DUqLjecc)
   - [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
   - [Space industry lacks workers needed to rebuild satellites lost in war: report](https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/)
+  - [The many mysteries and lessons of the Bayeux tapestry](https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry)
   - [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
   - [You Don't Have a Right to Safe Drinking Water, US Court Rules](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/)
 - michael.stapelberg.ch
@@ -41,6 +43,7 @@
   - [DynastyPersist exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TREVOHACK-DYNASTYPERSIST&utm_source=rss&utm_medium=rss)
   - [esp8266_deauther exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SPACEHUHNTECH-ESP8266_DEAUTHER&utm_source=rss&utm_medium=rss)
   - [fofa_viewer exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WGPSEC-FOFA_VIEWER&utm_source=rss&utm_medium=rss)
+  - [FoxStryker_Scanner exploit](https://sploitus.com/exploit?id=190A7E7A-6831-538D-AE7D-2222D83778C9&utm_source=rss&utm_medium=rss)
   - [gitbleed_tools exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NIGHTWATCHCYBERSECURITY-GITBLEED_TOOLS&utm_source=rss&utm_medium=rss)
   - [gitleaks exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GITLEAKS-GITLEAKS&utm_source=rss&utm_medium=rss)
   - [GONET-Scanner exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LUIJAIT-GONET-SCANNER&utm_source=rss&utm_medium=rss)
