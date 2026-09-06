@@ -76,9 +76,11 @@
   - [Stripping safety guardrails from open-weight AI models is now a turnkey commercial service](https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/)
 - The Verge
   - [CD sales are booming as physical media continues its resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence)
+  - [Competitive Pokémon is on phones now, but you still need a Switch to become a champion](https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility)
   - [DIY plug-in solar gains momentum in the US](https://www.theverge.com/column/990183/diy-plug-in-solar-us)
   - [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings)
   - [iPhone Handoff will seamlessly share one number between two phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27)
+  - [The Fairphone 6 Plus is the midrange phone we desperately needed](https://www.theverge.com/tech/990436/fairphone-6-plus-review)
 - Vulners.com RSS Feed
   - [vigolium](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-VIGOLIUM-VIGOLIUM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
