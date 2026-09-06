@@ -3,6 +3,7 @@
 - 2Libra
   - [《茶啊二中》 轻松搞笑的校园动画，中学时代的回忆 点评：10 分｜茶啊二中 轻松搞笑的校园动画，中学时代的回忆](https://2libra.com/post/movie-sharing/dI9j2jf)
   - [【周末职场笔记】沙僧取经：《西游记》的职场从来不是「能者居之」，而是「因人设岗」 🍑🍑🍑](https://2libra.com/post/workplace-stories/V-cyZ68)
+  - [不得不说，音箱还是得独立供电的才够力气](https://2libra.com/post/audio-equipment/EdHdpbv)
   - [每日搜索关键字雷达](https://2libra.com/post/tools-sharing/P9C8x43)
   - [海量电子书与香港、台湾、新加坡中小学、大学教育全年级学科教材资源站点速查表](https://2libra.com/post/good-books/QXJzhwu)
   - [猫猫电视台](https://2libra.com/post/personal-works/LNXISwE)
@@ -17,6 +18,8 @@
   - [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
   - [Space industry lacks workers needed to rebuild satellites lost in war: report](https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/)
   - [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
+- michael.stapelberg.ch
+  - [Debian Code Search: Fast TurboPFor with Go SIMD](https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/)
 - simonwillison.net
   - [Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/)
 - Sploitus.com Exploits RSS Feed
