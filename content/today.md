@@ -22,6 +22,7 @@
   - [Debian Code Search: Fast TurboPFor with Go SIMD](https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/)
 - simonwillison.net
   - [Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/)
+  - [Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/)
 - Sploitus.com Exploits RSS Feed
   - [android-app exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PROTONVPN-ANDROID-APP&utm_source=rss&utm_medium=rss)
   - [apishield exploit](https://sploitus.com/exploit?id=521011A0-3F69-5B01-B32F-9A185EA10553&utm_source=rss&utm_medium=rss)
@@ -60,6 +61,7 @@
   - [UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg](https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616)
 - The Decoder
   - [Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism](https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/)
+  - [Stripping safety guardrails from open-weight AI models is now a turnkey commercial service](https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/)
 - The Verge
   - [CD sales are booming as physical media continues its resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence)
   - [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings)
