@@ -13,8 +13,10 @@
   - [Gurman on Schiller’s Departure and Ternus’s Goals](https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU&leadSource=article-gifting)
   - [Litterbox: Safari Extension for Viewing X Tweets](https://andadinosaur.com/launch-litterbox)
   - [Trump Administration Launches Rip-Off Video Games at Arcade.gov](https://x.com/WhiteHouse/status/2095615734567100766)
+  - [WorkOS: How to Give an Agent a Task Instead of a Token](https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
 - Hacker News Frontpage
   - [An Alien Mind](https://openai.com/index/an-alien-mind/)
+  - [Finder is so frustrating and has been since day one](https://kepter.app/finder)
   - [Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
   - [Research carried out using NetBSD](https://www.netbsd.org/gallery/research.html)
 - Sploitus.com Exploits RSS Feed
