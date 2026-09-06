@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-09-06）
 
 - 2Libra
+  - [每日搜索关键字雷达](https://2libra.com/post/tools-sharing/P9C8x43)
   - [猫猫电视台](https://2libra.com/post/personal-works/LNXISwE)
 - daringfireball.net
   - [Gloria Steinem’s Final Essay](https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350)
@@ -13,6 +14,8 @@
   - [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
   - [Space industry lacks workers needed to rebuild satellites lost in war: report](https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/)
   - [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
+- simonwillison.net
+  - [Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/)
 - TechCrunch
   - [Clucky’s new alarm app wakes you up with a crowing rooster](https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/)
   - [Hikers rescued after using Google Gemini for planning](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/)
