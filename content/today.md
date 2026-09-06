@@ -8,6 +8,7 @@
   - [每日搜索关键字雷达](https://2libra.com/post/tools-sharing/P9C8x43)
   - [海量电子书与香港、台湾、新加坡中小学、大学教育全年级学科教材资源站点速查表](https://2libra.com/post/good-books/QXJzhwu)
   - [猫猫电视台](https://2libra.com/post/personal-works/LNXISwE)
+  - [🏆 本周 2Libra 龙虎榜 2026-08-31 ~ 2026-09-06](https://2libra.com/post/forum-function/Q1lqumt)
 - CoinTelegraph
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether-backed Orionx to shut down after audit flags $7M custody gap](https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -15,12 +16,14 @@
   - [Gloria Steinem’s Final Essay](https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350)
   - [‘Bob and Van’](https://marco.org/2026/09/04/bob-and-van)
 - Hacker News Frontpage
+  - [A/I shuts down – Stay human](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
   - [Falsehoods Programmers Believe About LANs](https://dreamstation.systems/personal/lanfalsehoods.html)
   - [Finite time blowup for an averaged three-dimensional Navier-Stokes equation](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)
   - [How the Tobacco Industry Drove the Rise of Ultra-Processed Foods](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
   - [I Changed My License](https://bergie.iki.fi/blog/eupl/)
   - [Isar Aerospace launch into orbit [video]](https://www.youtube.com/watch?v=Ss1DUqLjecc)
   - [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
+  - [Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS](https://github.com/scastiel/kado)
   - [Space industry lacks workers needed to rebuild satellites lost in war: report](https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/)
   - [The many mysteries and lessons of the Bayeux tapestry](https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry)
   - [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
@@ -32,6 +35,7 @@
 - simonwillison.net
   - [Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/)
   - [Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/)
+  - [The purpose of DNS is to spread scams](https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/)
 - Sploitus.com Exploits RSS Feed
   - [android-app exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PROTONVPN-ANDROID-APP&utm_source=rss&utm_medium=rss)
   - [apishield exploit](https://sploitus.com/exploit?id=521011A0-3F69-5B01-B32F-9A185EA10553&utm_source=rss&utm_medium=rss)
@@ -100,6 +104,9 @@
   - [ublockdnsclient v0.3.1](https://buaq.net/go-440449.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [2026 年雨果奖公布](https://www.solidot.org/story?sid=85298)
+  - [养殖三文鱼的 Omega-3 脂肪酸含量大幅下降](https://www.solidot.org/story?sid=85299)
 - 爱范儿
   - [AI 降低了创造的门槛，B 站则想放大创造的回声](https://www.ifanr.com/1678567?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [专访康宁 CCO 李汉超：175 年以来，康宁始终是一家创新材料公司](https://www.ifanr.com/1678257?utm_source=rss&utm_medium=rss&utm_campaign=)
