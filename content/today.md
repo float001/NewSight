@@ -68,6 +68,7 @@
   - [vigolium](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-VIGOLIUM-VIGOLIUM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [I think my boyfriend is in trouble](https://buaq.net/go-440430.html)
+  - [ublockdnsclient v0.3.1](https://buaq.net/go-440449.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
