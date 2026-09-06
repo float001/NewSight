@@ -2,6 +2,7 @@
 
 - 2Libra
   - [《茶啊二中》 轻松搞笑的校园动画，中学时代的回忆 点评：10 分｜茶啊二中 轻松搞笑的校园动画，中学时代的回忆](https://2libra.com/post/movie-sharing/dI9j2jf)
+  - [【周末职场笔记】沙僧取经：《西游记》的职场从来不是「能者居之」，而是「因人设岗」 🍑🍑🍑](https://2libra.com/post/workplace-stories/V-cyZ68)
   - [每日搜索关键字雷达](https://2libra.com/post/tools-sharing/P9C8x43)
   - [海量电子书与香港、台湾、新加坡中小学、大学教育全年级学科教材资源站点速查表](https://2libra.com/post/good-books/QXJzhwu)
   - [猫猫电视台](https://2libra.com/post/personal-works/LNXISwE)
@@ -67,3 +68,4 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
   - [徒步旅行者使用Gemini进行规划后被困山上](https://blog.upx8.com/%E5%BE%92%E6%AD%A5%E6%97%85%E8%A1%8C%E8%80%85%E4%BD%BF%E7%94%A8Gemini%E8%BF%9B%E8%A1%8C%E8%A7%84%E5%88%92%E5%90%8E%E8%A2%AB%E5%9B%B0%E5%B1%B1%E4%B8%8A)
+  - [微软杰出工程师称手搓代码时代已结束，Win11 开发模式已迎巨变](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%9D%B0%E5%87%BA%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%A7%B0%E6%89%8B%E6%90%93%E4%BB%A3%E7%A0%81%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%93%E6%9D%9F-Win11-%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%B7%B2%E8%BF%8E%E5%B7%A8%E5%8F%98)
