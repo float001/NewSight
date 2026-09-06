@@ -57,6 +57,8 @@
   - [CD sales are booming as physical media continues its resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence)
   - [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings)
   - [iPhone Handoff will seamlessly share one number between two phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27)
+- Vulners.com RSS Feed
+  - [vigolium](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-VIGOLIUM-VIGOLIUM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [I think my boyfriend is in trouble](https://buaq.net/go-440430.html)
 - 代码审计星球
