@@ -16,6 +16,7 @@
   - [Falsehoods Programmers Believe About LANs](https://dreamstation.systems/personal/lanfalsehoods.html)
   - [Finite time blowup for an averaged three-dimensional Navier-Stokes equation](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)
   - [How the Tobacco Industry Drove the Rise of Ultra-Processed Foods](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
+  - [I Changed My License](https://bergie.iki.fi/blog/eupl/)
   - [Isar Aerospace launch into orbit [video]](https://www.youtube.com/watch?v=Ss1DUqLjecc)
   - [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
   - [Space industry lacks workers needed to rebuild satellites lost in war: report](https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/)
@@ -65,7 +66,9 @@
 - The Decoder
   - [Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism](https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/)
   - [Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model](https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/)
+  - [Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data](https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/)
   - [Meta's new real-time audio model is the foundation for AI assistants that never stop listening](https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/)
+  - [OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months](https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/)
   - [Stripping safety guardrails from open-weight AI models is now a turnkey commercial service](https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/)
 - The Verge
   - [CD sales are booming as physical media continues its resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence)
@@ -74,7 +77,10 @@
 - Vulners.com RSS Feed
   - [vigolium](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-VIGOLIUM-VIGOLIUM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Best Water Leak Detectors (2026): Moen, Phyn, TP-Link](https://www.wired.com/gallery/best-water-leak-detector/)
+  - [My Brief Summer Fling With Siri AI](https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/)
   - [The Best Gaming Chairs (2026): Are They Worth It?](https://www.wired.com/gallery/best-gaming-chairs/)
+  - [These Cyborg Cockroaches Could Save Your Life](https://www.wired.com/story/cyborg-cockroaches-disaster-response/)
   - [Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit](https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/)
 - 不安全
   - [I think my boyfriend is in trouble](https://buaq.net/go-440430.html)
@@ -84,6 +90,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [AI 降低了创造的门槛，B 站则想放大创造的回声](https://www.ifanr.com/1678567?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [专访康宁 CCO 李汉超：175 年以来，康宁始终是一家创新材料公司](https://www.ifanr.com/1678257?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [徒步旅行者使用Gemini进行规划后被困山上](https://blog.upx8.com/%E5%BE%92%E6%AD%A5%E6%97%85%E8%A1%8C%E8%80%85%E4%BD%BF%E7%94%A8Gemini%E8%BF%9B%E8%A1%8C%E8%A7%84%E5%88%92%E5%90%8E%E8%A2%AB%E5%9B%B0%E5%B1%B1%E4%B8%8A)
   - [微软杰出工程师称手搓代码时代已结束，Win11 开发模式已迎巨变](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%9D%B0%E5%87%BA%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%A7%B0%E6%89%8B%E6%90%93%E4%BB%A3%E7%A0%81%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%93%E6%9D%9F-Win11-%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%B7%B2%E8%BF%8E%E5%B7%A8%E5%8F%98)
