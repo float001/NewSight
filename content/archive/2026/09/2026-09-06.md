@@ -3,6 +3,7 @@
 - 2Libra
   - [《茶啊二中》 轻松搞笑的校园动画，中学时代的回忆 点评：10 分｜茶啊二中 轻松搞笑的校园动画，中学时代的回忆](https://2libra.com/post/movie-sharing/dI9j2jf)
   - [【周末职场笔记】沙僧取经：《西游记》的职场从来不是「能者居之」，而是「因人设岗」 🍑🍑🍑](https://2libra.com/post/workplace-stories/V-cyZ68)
+  - [【转发】Grok 4.7 泄露：下周即将发布](https://2libra.com/post/ai-trends/JIOweKN)
   - [不得不说，音箱还是得独立供电的才够力气](https://2libra.com/post/audio-equipment/EdHdpbv)
   - [每日搜索关键字雷达](https://2libra.com/post/tools-sharing/P9C8x43)
   - [海量电子书与香港、台湾、新加坡中小学、大学教育全年级学科教材资源站点速查表](https://2libra.com/post/good-books/QXJzhwu)
@@ -24,6 +25,8 @@
   - [You Don't Have a Right to Safe Drinking Water, US Court Rules](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/)
 - michael.stapelberg.ch
   - [Debian Code Search: Fast TurboPFor with Go SIMD](https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/)
+- shkspr.mobi
+  - [The purpose of DNS is to spread scams](https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/)
 - simonwillison.net
   - [Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/)
   - [Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/)
@@ -65,6 +68,7 @@
   - [UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg](https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616)
 - The Decoder
   - [Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism](https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/)
+  - [Chatbots built an "echo chamber of one" and now psychiatry has to decide if "AI psychosis" exists](https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/)
   - [Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model](https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/)
   - [Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data](https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/)
   - [Meta's new real-time audio model is the foundation for AI assistants that never stop listening](https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/)
@@ -72,6 +76,7 @@
   - [Stripping safety guardrails from open-weight AI models is now a turnkey commercial service](https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/)
 - The Verge
   - [CD sales are booming as physical media continues its resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence)
+  - [DIY plug-in solar gains momentum in the US](https://www.theverge.com/column/990183/diy-plug-in-solar-us)
   - [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings)
   - [iPhone Handoff will seamlessly share one number between two phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27)
 - Vulners.com RSS Feed
@@ -80,10 +85,12 @@
   - [Best Water Leak Detectors (2026): Moen, Phyn, TP-Link](https://www.wired.com/gallery/best-water-leak-detector/)
   - [My Brief Summer Fling With Siri AI](https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/)
   - [The Best Gaming Chairs (2026): Are They Worth It?](https://www.wired.com/gallery/best-gaming-chairs/)
+  - [The Best Laptop Backpacks for Work, Travel, and Everything Between (2026)](https://www.wired.com/story/best-laptop-backpacks/)
   - [These Cyborg Cockroaches Could Save Your Life](https://www.wired.com/story/cyborg-cockroaches-disaster-response/)
   - [Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit](https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/)
 - 不安全
   - [I think my boyfriend is in trouble](https://buaq.net/go-440430.html)
+  - [netwatch v0.30.0](https://buaq.net/go-440470.html)
   - [PyRIT v1.1.0](https://buaq.net/go-440461.html)
   - [ublockdnsclient v0.3.1](https://buaq.net/go-440449.html)
 - 代码审计星球
