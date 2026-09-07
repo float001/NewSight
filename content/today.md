@@ -59,6 +59,7 @@
 - Hacker News Frontpage
   - ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)
   - [An Alien Mind](https://openai.com/index/an-alien-mind/)
+  - [Apparently CodePen 2.0 sends data to their servers as you type](https://news.ycombinator.com/item?id=49596976)
   - [Finder is so frustrating and has been since day one](https://kepter.app/finder)
   - [Four Weeks of a Vegan Diet Alter Signs of Inflammation and Aging](https://www.uniklinik-freiburg.de/en/press/press-releases/detailed-view/6938-vier-wochen-vegane-ernaehrung-veraendern-entzuendungs-und-alterungssignale.html)
   - [GrapheneOS Overhauled Default Apps and Secure Clipboard](https://grapheneos.social/@GrapheneOS/117225539756835649)
@@ -71,6 +72,7 @@
   - [Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity](https://github.com/mmeyerlein/meclaw)
   - [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)
   - [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/)
+  - [Smartphone makers don't bother to comply with EU repairability requirements](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
   - [They're Made Out of Meat](https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml)
   - [UN backs new map showing Africa's true relative size with US alone in opposition](https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote)
   - [Windows 11's "special" developer edition looks like another marketing misfire](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
@@ -82,6 +84,7 @@
   - [Multiple Class Action Lawsuits Filed Against IDScan](https://www.infosecurity-magazine.com/news/multiple-class-action-lawsuits/)
   - [North Korea’s Lazarus Operates Through Six Distinct Cyber Clusters](https://www.infosecurity-magazine.com/news/north-korea-lazarus-six-cyber/)
   - [Researcher Publishes CrowdStrike Privilege Escalation Zero Day](https://www.infosecurity-magazine.com/news/crowdstrike-privilege-escalation/)
+  - [Rhysida Publishes Berlin Government Data After €2m Extortion Demand Refused](https://www.infosecurity-magazine.com/news/rhysida-berlin-data-extortion/)
 - pluralistic.net
   - [Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)](https://pluralistic.net/2026/09/06/hotels-california/)
 - rtl-sdr.com
@@ -117,15 +120,18 @@
   - [Boox’s tiny Picco e-reader should land in November](https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa)
   - [Huawei copies Samsung’s privacy display in its latest trifold](https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display)
   - [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
+  - [Why the iPhone is about to get more expensive](https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone)
 - troyhunt.com
   - [Weekly Update 520: The Unscripted Edition](https://www.troyhunt.com/weekly-update-520/)
 - Wired
+  - [Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.](https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/)
   - [How to Watch the Apple September Event (2026)](https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/)
   - [Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?](https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/)
   - [The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes](https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/)
   - [Whispering Complaints Into Your Phone May Be the Future of Customer Feedback](https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/)
 - 不安全
   - [ADSBee m1421: The World’s Smallest Dual-Band ADS-B Receiver](https://buaq.net/go-440551.html)
+  - [Automobile Camouflage to Hide from Flock Cameras](https://buaq.net/go-440624.html)
   - [DOMPurify v3.4.15](https://buaq.net/go-440567.html)
   - [Pushin – 没有美国参与的 Git 托管服务](https://buaq.net/go-440564.html)
   - [qiling v1.4.11](https://buaq.net/go-440544.html)
@@ -134,6 +140,8 @@
   - [关键的 Citrix NetScaler 身份验证绕过漏洞已在实际攻击中被利用](https://buaq.net/go-440568.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [中国游戏市场规模在 2025 年首次突破 500 亿美元](https://www.solidot.org/story?sid=85310)
 - 爱范儿
   - [DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药](https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？](https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=)
