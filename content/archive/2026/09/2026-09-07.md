@@ -148,6 +148,7 @@
 - 不安全
   - [ADSBee m1421: The World’s Smallest Dual-Band ADS-B Receiver](https://buaq.net/go-440551.html)
   - [Automobile Camouflage to Hide from Flock Cameras](https://buaq.net/go-440624.html)
+  - [CouchPotato](https://buaq.net/go-440651.html)
   - [DOMPurify v3.4.15](https://buaq.net/go-440567.html)
   - [Pushin – 没有美国参与的 Git 托管服务](https://buaq.net/go-440564.html)
   - [qiling v1.4.11](https://buaq.net/go-440544.html)
@@ -157,7 +158,9 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Isar Aerospace 成为成功将火箭送入轨道的首个欧洲公司](https://www.solidot.org/story?sid=85313)
   - [中国游戏市场规模在 2025 年首次突破 500 亿美元](https://www.solidot.org/story?sid=85310)
+  - [泰国暂停所有数据中心项目建设](https://www.solidot.org/story?sid=85312)
 - 爱范儿
   - [DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药](https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？](https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=)
