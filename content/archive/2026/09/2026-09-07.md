@@ -4,6 +4,7 @@
   - [2libra 企微页面伪装来了](https://2libra.com/post/browser-extensions/ZJiXLSd)
   - [Codex 500 额度，有需要的可以留下邮箱](https://2libra.com/post/ai-tools/qBS-UYL)
   - [gpt6 怎么样，怎么没看见多少帖子讨论](https://2libra.com/post/ai-trends/QhJk94P)
+  - [opencode go 接下来需要携带 x-opencode-session 请求头？](https://2libra.com/post/ai-programming/OlnsLSE)
   - [【读书笔记】再看「地理决定论」：读《红酒与恐怖片》有感 🍷🍷🍷](https://2libra.com/post/good-books/Y3K7Jci)
   - [【💰】求一个 2000 以内挂式空调推荐](https://2libra.com/post/computers-accessories/wAFc0Ux)
   - [域名邮箱注册的 chatgpt 账号, 实测是有概率能存活下来的, 用 codex 差点意思, 但是用 chatgpt2api 生图完全 ok](https://2libra.com/post/ai-tools/opPUHMD)
@@ -17,6 +18,8 @@
   - [白露随感](https://2libra.com/post/social-observation/XHlbwDN)
   - [花洒滤芯长满了青苔](https://2libra.com/post/small-things/iHD0amm)
   - [补签太贵了,金币都用来补签了,今天已经不够补签周日的了](https://2libra.com/post/forum-function/IvPQukM)
+- CoinTelegraph
+  - [Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC](https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [C-MOR  6.0104 Directory Traversal](https://cxsecurity.com/issue/WLB-2026090004)
   - [EVerest 2025.9.0 DoS](https://cxsecurity.com/issue/WLB-2026090003)
@@ -39,6 +42,7 @@
   - [GrapheneOS Overhauled Default Apps and Secure Clipboard](https://grapheneos.social/@GrapheneOS/117225539756835649)
   - [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
   - [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
+  - [Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI](https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9)
   - [Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
   - [Ponytail: Lazy Senior Engineer Skill](https://ponytail.dev/)
   - [Research carried out using NetBSD](https://www.netbsd.org/gallery/research.html)
@@ -49,6 +53,10 @@
   - [UN backs new map showing Africa's true relative size with US alone in opposition](https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote)
   - [Windows 11's "special" developer edition looks like another marketing misfire](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
   - [XCancel is available again](https://xcancel.com/about)
+- pluralistic.net
+  - [Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)](https://pluralistic.net/2026/09/06/hotels-california/)
+- rtl-sdr.com
+  - [ADSBee m1421: The World’s Smallest Dual-Band ADS-B Receiver](https://www.rtl-sdr.com/adsbee-m1421-the-worlds-smallest-dual-band-ads-b-receiver/)
 - Sploitus.com Exploits RSS Feed
   - [C0deVari4nt exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WHITESQUIRRELL-C0DEVARI4NT&utm_source=rss&utm_medium=rss)
   - [CVE-2025-32463 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALDOCLAU98-CVE-2025-32463&utm_source=rss&utm_medium=rss)
@@ -78,12 +86,16 @@
 - troyhunt.com
   - [Weekly Update 520: The Unscripted Edition](https://www.troyhunt.com/weekly-update-520/)
 - 不安全
+  - [ADSBee m1421: The World’s Smallest Dual-Band ADS-B Receiver](https://buaq.net/go-440551.html)
   - [qiling v1.4.11](https://buaq.net/go-440544.html)
+  - [ultralytics v8.4.142](https://buaq.net/go-440552.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [在零跑的工厂里，我们找到了它能月销 10 万辆的秘密](https://www.ifanr.com/1678617?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 18价格疑似泄露，埃及运营商否认/雷军晒图：54个品牌为小米澎程送祝福/华为大阔折曝光波尔多红配色](https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [OpenAI首席科学家警告：AI公司应放慢开发步伐，没有人为后果做好准备](https://blog.upx8.com/OpenAI%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%AD%A6%E5%91%8A-AI%E5%85%AC%E5%8F%B8%E5%BA%94%E6%94%BE%E6%85%A2%E5%BC%80%E5%8F%91%E6%AD%A5%E4%BC%90-%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%B8%BA%E5%90%8E%E6%9E%9C%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87)
+  - [丰田8月在华新车销量降23%，本田降50%](https://blog.upx8.com/%E4%B8%B0%E7%94%B08%E6%9C%88%E5%9C%A8%E5%8D%8E%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E9%99%8D23-%E6%9C%AC%E7%94%B0%E9%99%8D50)
   - [日本“擤鼻涕方法”研究获搞笑诺贝尔奖](https://blog.upx8.com/%E6%97%A5%E6%9C%AC-%E6%93%A4%E9%BC%BB%E6%B6%95%E6%96%B9%E6%B3%95-%E7%A0%94%E7%A9%B6%E8%8E%B7%E6%90%9E%E7%AC%91%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96)
   - [黄仁勋回应OpenAI发布Astra：AGI已到来](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BA%94OpenAI%E5%8F%91%E5%B8%83Astra-AGI%E5%B7%B2%E5%88%B0%E6%9D%A5)
