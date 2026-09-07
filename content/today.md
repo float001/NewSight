@@ -3,14 +3,31 @@
 - 404 Media
   - [We Are Going to Be Okay: A Three Year Anniversary Events Recap](https://www.404media.co/three-year-anniversary-events-recap-2/)
 - CoinTelegraph
+  - [Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares](https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC](https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [★ It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map](https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter)
+- Fidelis Security
+  - [How to Test a DDoS Incident Response Playbook with Tabletop Exercises](https://fidelissecurity.com/threatgeek/threat-detection-response/ddos-incident-response/)
 - Hacker News Frontpage
   - [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
+- IEEE Spectrum
+  - [Workshops Educate African Researchers On How to Publish With IEEE](https://spectrum.ieee.org/ieee-workshop-xplore-africa)
+- Sploitus.com Exploits RSS Feed
+  - [blueshrimp exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZHUOWEI-BLUESHRIMP&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-49132-Mods exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MALW0RE-CVE-2025-49132-MODS&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-42527 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OSCERD-CVE-2026-42527&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-43499 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MOBIUSM-CVE-2026-43499&utm_source=rss&utm_medium=rss)
+  - [mitmproxy exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MITMPROXY-MITMPROXY&utm_source=rss&utm_medium=rss)
+  - [openssh-portable exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OPENSSH-OPENSSH-PORTABLE&utm_source=rss&utm_medium=rss)
+  - [SnafflerParser exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZH54321-SNAFFLERPARSER&utm_source=rss&utm_medium=rss)
+  - [twoface exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SYNACKTIV-TWOFACE&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/)
 - The Decoder
   - [AI-designed drug appears to turn back the body's biological clock in early trial](https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/)
   - [ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades](https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/)
+  - [GPT-6 Astra beat Portal start to finish without human help in under 24 hours](https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/)
 - The Verge
   - [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones)
 - Wired
