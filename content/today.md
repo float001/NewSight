@@ -86,6 +86,7 @@
 - infosecurity-magazine.com
   - [Multiple Class Action Lawsuits Filed Against IDScan](https://www.infosecurity-magazine.com/news/multiple-class-action-lawsuits/)
   - [N-able Releases Hotfix for Critical Remote Code Execution Vulnerability](https://www.infosecurity-magazine.com/news/nable-hotfix-critical-rce/)
+  - [NCSC Warns Shadow AI Creates New Security Risks](https://www.infosecurity-magazine.com/news/ncsc-warns-shadow-ai-security-risks/)
   - [North Korea’s Lazarus Operates Through Six Distinct Cyber Clusters](https://www.infosecurity-magazine.com/news/north-korea-lazarus-six-cyber/)
   - [Researcher Publishes CrowdStrike Privilege Escalation Zero Day](https://www.infosecurity-magazine.com/news/crowdstrike-privilege-escalation/)
   - [Rhysida Publishes Berlin Government Data After €2m Extortion Demand Refused](https://www.infosecurity-magazine.com/news/rhysida-berlin-data-extortion/)
@@ -114,6 +115,7 @@
   - [TechCrunch Mobility: Tesla Cybercab hits the road — and a snag](https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/)
   - [Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/)
 - The Block
+  - [Bitcoin holds near $80,000 despite renewed Fed rate hike fears as CPI test looms](https://www.theblock.co/news/markets/2026-09-07-bitcoin-holds-near-80000-despite-renewed-fed-rate-hike-fears-as-cpi-test-looms-413692)
   - [Capital B buys $29 million in bitcoin after raises, its largest BTC purchase in a year](https://www.theblock.co/news/business/2026-09-07-capital-b-buys-29-million-worth-bitcoin-413667)
   - [Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens](https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618)
   - [Coldcard exploiter moves 45% of funds stolen from ‘Wave 3’ attacks, Galaxy says](https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661)
@@ -125,6 +127,8 @@
   - [Spot bitcoin ETFs pull in $987 million last week as institutional demand recovers](https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639)
   - [STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter](https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621)
 - The Decoder
+  - [At UBS, AI skills are now a condition for landing a job](https://the-decoder.com/at-ubs-ai-skills-are-now-a-condition-for-landing-a-job/)
+  - [How AI wiped out an entire industry in Nairobi](https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/)
   - [Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver](https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/)
 - The Verge
   - [An Amazon cargo plane crashed at Miami International Airport](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami)
@@ -138,6 +142,7 @@
   - [Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.](https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/)
   - [How to Watch the Apple September Event (2026)](https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/)
   - [Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?](https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/)
+  - [The 57 Best Deals From the REI Labor Day Sale](https://www.wired.com/story/rei-labor-day-sale-2026/)
   - [The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes](https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/)
   - [Whispering Complaints Into Your Phone May Be the Future of Customer Feedback](https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/)
 - 不安全
