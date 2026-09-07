@@ -55,3 +55,7 @@
   - [Weekly Update 520: The Unscripted Edition](https://www.troyhunt.com/weekly-update-520/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜iPhone 18价格疑似泄露，埃及运营商否认/雷军晒图：54个品牌为小米澎程送祝福/华为大阔折曝光波尔多红配色](https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [黄仁勋回应OpenAI发布Astra：AGI已到来](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BA%94OpenAI%E5%8F%91%E5%B8%83Astra-AGI%E5%B7%B2%E5%88%B0%E6%9D%A5)
