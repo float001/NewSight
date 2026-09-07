@@ -8,12 +8,14 @@
   - [Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares](https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC](https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade](https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ](https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK financial watchdog weighs lifting prediction markets ban: Report](https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Matt Birchler’s Folding iPhone Predictions](https://birchtree.me/blog/my-folding-iphone-predictions/)
   - [McKinley 1.0](https://mckinleysymbols.com/)
   - [The Onion’s Exclusive Interview With Larry Ellison](https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/)
+  - [Trackables 1.5](https://trackables.app/)
   - [★ It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map](https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter)
 - Data Breach
   - [Condé Nast Data of 32.8 Million Users Offered for Sale After WIRED Leak](https://securityaffairs.com/198628/data-breach/conde-nast-data-of-32-8-million-users-offered-for-sale-after-wired-leak.html)
@@ -24,9 +26,12 @@
   - [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
   - [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
   - [Tesla killing Solar Roof is leaving installers with six-figure losses](https://electrek.co/2026/09/01/tesla-solar-roof-exit-installers-losses/)
+  - [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer)
   - [Volkswagen to convert German car plant to produce Israeli defense equipment](https://www.timesofisrael.com/volkswagen-to-convert-german-car-plant-to-produce-israeli-defense-equipment/)
   - [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
   - [Why the AfD Wins](https://firstthings.com/why-the-afd-wins/)
+- idiallo.com
+  - [Clickable whitespace](https://idiallo.com/blog/clickable-whitespace)
 - IEEE Spectrum
   - [Workshops Educate African Researchers On How to Publish With IEEE](https://spectrum.ieee.org/ieee-workshop-xplore-africa)
 - johndcook.com
@@ -38,6 +43,7 @@
   - [CVE-2026-43499 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MOBIUSM-CVE-2026-43499&utm_source=rss&utm_medium=rss)
   - [mitmproxy exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MITMPROXY-MITMPROXY&utm_source=rss&utm_medium=rss)
   - [openssh-portable exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OPENSSH-OPENSSH-PORTABLE&utm_source=rss&utm_medium=rss)
+  - [php-saml exploit](https://sploitus.com/exploit?id=44BF059C-E354-55CF-BDD6-4FEA049C01CE&utm_source=rss&utm_medium=rss)
   - [SnafflerParser exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZH54321-SNAFFLERPARSER&utm_source=rss&utm_medium=rss)
   - [twoface exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SYNACKTIV-TWOFACE&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -51,8 +57,12 @@
 - The Verge
   - [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price)
   - [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones)
+- Vulners.com RSS Feed
+  - [php-saml](https://vulners.com/gitee/44BF059C-E354-55CF-BDD6-4FEA049C01CE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More](https://www.wired.com/story/tech-labor-day-sales-2026/)
   - [Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [深夜4小时，ChatGPT、Claude、Grok集体宕机：AI的根基正在动摇](https://www.anquanke.com/post/id/316083)
