@@ -10,6 +10,7 @@
   - [【读书笔记】再看「地理决定论」：读《红酒与恐怖片》有感 🍷🍷🍷](https://2libra.com/post/good-books/Y3K7Jci)
   - [【💰】求一个 2000 以内挂式空调推荐](https://2libra.com/post/computers-accessories/wAFc0Ux)
   - [【💰】求推荐电动牙刷](https://2libra.com/post/worth-buying/3n-IA0K)
+  - [【💰】长期熬夜导致的黑眼圈，有什么好方法？](https://2libra.com/post/health-consultation/8s_77Bx)
   - [交通运输部就《公路法》修正草案征求意见，授权收费公路在期满后继续收费](https://2libra.com/post/social-observation/KEf68Lq)
   - [你们登的上 V 站吗？](https://2libra.com/post/networking/_XQxUW7)
   - [各位大佬，AI 订阅比价网站有哪些比较靠谱的呢？](https://2libra.com/post/ai-tools/aYzfSwI)
@@ -35,6 +36,8 @@
   - [Fomo overtakes Pump.fun in daily revenue on Solana](https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Philippines eyes payment operator registration freeze, tighter VASP checks](https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Yen intervention meets US inflation data: Five things to know in Bitcoin this week](https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Zcash hits highest price since 2016 as market cap tops $20B](https://cointelegraph.com/markets/zcash-highest-price-market-cap-20-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [C-MOR  6.0104 Directory Traversal](https://cxsecurity.com/issue/WLB-2026090004)
   - [EVerest 2025.9.0 DoS](https://cxsecurity.com/issue/WLB-2026090003)
@@ -82,11 +85,16 @@
   - [Trading Has Always Had Levels. RISE Is Finally Making Them Visible.](https://hackernoon.com/trading-has-always-had-levels-rise-is-finally-making-them-visible?source=rss)
 - infosecurity-magazine.com
   - [Multiple Class Action Lawsuits Filed Against IDScan](https://www.infosecurity-magazine.com/news/multiple-class-action-lawsuits/)
+  - [N-able Releases Hotfix for Critical Remote Code Execution Vulnerability](https://www.infosecurity-magazine.com/news/nable-hotfix-critical-rce/)
   - [North Korea’s Lazarus Operates Through Six Distinct Cyber Clusters](https://www.infosecurity-magazine.com/news/north-korea-lazarus-six-cyber/)
   - [Researcher Publishes CrowdStrike Privilege Escalation Zero Day](https://www.infosecurity-magazine.com/news/crowdstrike-privilege-escalation/)
   - [Rhysida Publishes Berlin Government Data After €2m Extortion Demand Refused](https://www.infosecurity-magazine.com/news/rhysida-berlin-data-extortion/)
+- MIT Technology Review
+  - [The Download: the hunt for underground hydrogen and more rogue OpenAI agents](https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/)
 - pluralistic.net
   - [Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)](https://pluralistic.net/2026/09/06/hotels-california/)
+- Recent Commits to cve:main
+  - [Update Mon Sep  7 12:17:25 UTC 2026](https://github.com/trickest/cve/commit/fe32f6307000579c09de28cc55ada7a36beabbdf)
 - rtl-sdr.com
   - [ADSBee m1421: The World’s Smallest Dual-Band ADS-B Receiver](https://www.rtl-sdr.com/adsbee-m1421-the-worlds-smallest-dual-band-ads-b-receiver/)
 - Sploitus.com Exploits RSS Feed
@@ -109,12 +117,15 @@
   - [Capital B buys $29 million in bitcoin after raises, its largest BTC purchase in a year](https://www.theblock.co/news/business/2026-09-07-capital-b-buys-29-million-worth-bitcoin-413667)
   - [Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens](https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618)
   - [Coldcard exploiter moves 45% of funds stolen from ‘Wave 3’ attacks, Galaxy says](https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661)
+  - [DBS, Citi say they completed first weekend USD payment between Singapore and US via tokenized deposits](https://www.theblock.co/news/business/2026-09-07-dbs-citi-say-they-completed-first-weekend-usd-payment-between-singapore-and-us-via-tokenized-deposits-413689)
   - [Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative](https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635)
   - [Liquid Network attacker says they will return most of 4,000 BTC after bug fix](https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673)
   - [Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin](https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626)
   - [South Korea’s Hanwha develops tokenized securities platform on Avalanche as local regulation takes shape: report](https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652)
   - [Spot bitcoin ETFs pull in $987 million last week as institutional demand recovers](https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639)
   - [STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter](https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621)
+- The Decoder
+  - [Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver](https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/)
 - The Verge
   - [An Amazon cargo plane crashed at Miami International Airport](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami)
   - [Boox’s tiny Picco e-reader should land in November](https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa)
