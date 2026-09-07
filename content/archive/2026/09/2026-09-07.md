@@ -9,6 +9,7 @@
   - [SELinux 开启导致 nginx 无法读取文件](https://2libra.com/post/operating-systems/2jsfgtn)
   - [【读书笔记】再看「地理决定论」：读《红酒与恐怖片》有感 🍷🍷🍷](https://2libra.com/post/good-books/Y3K7Jci)
   - [【💰】求一个 2000 以内挂式空调推荐](https://2libra.com/post/computers-accessories/wAFc0Ux)
+  - [你们登的上 V 站吗？](https://2libra.com/post/networking/_XQxUW7)
   - [域名邮箱注册的 chatgpt 账号, 实测是有概率能存活下来的, 用 codex 差点意思, 但是用 chatgpt2api 生图完全 ok](https://2libra.com/post/ai-tools/opPUHMD)
   - [大家中秋，十一放假吗？](https://2libra.com/post/touch-fish/d5e7gsO)
   - [大家会觉得这是正常的长辈逗孩子吗？](https://2libra.com/post/family/-AS06qF)
@@ -19,6 +20,7 @@
   - [求推荐码表，有没有骑行大佬](https://2libra.com/post/interest-groups/Y0D0BAK)
   - [混沌徽章是干嘛用的呀？怎么没显示功能嘞](https://2libra.com/post/forum-function/b_5Bd3y)
   - [白露随感](https://2libra.com/post/social-observation/XHlbwDN)
+  - [看了这个山的 AI 视频，脑洞非常大](https://2libra.com/post/movie-sharing/h39g8Fo)
   - [花洒滤芯长满了青苔](https://2libra.com/post/small-things/iHD0amm)
   - [补签太贵了,金币都用来补签了,今天已经不够补签周日的了](https://2libra.com/post/forum-function/IvPQukM)
 - CoinTelegraph
@@ -64,6 +66,8 @@
   - [UN backs new map showing Africa's true relative size with US alone in opposition](https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote)
   - [Windows 11's "special" developer edition looks like another marketing misfire](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
   - [XCancel is available again](https://xcancel.com/about)
+- infosecurity-magazine.com
+  - [Researcher Publishes CrowdStrike Privilege Escalation Zero Day](https://www.infosecurity-magazine.com/news/crowdstrike-privilege-escalation/)
 - pluralistic.net
   - [Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)](https://pluralistic.net/2026/09/06/hotels-california/)
 - rtl-sdr.com
@@ -85,6 +89,7 @@
   - [TechCrunch Mobility: Tesla Cybercab hits the road — and a snag](https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/)
   - [Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/)
 - The Block
+  - [Capital B buys $29 million in bitcoin after raises, its largest BTC purchase in a year](https://www.theblock.co/news/business/2026-09-07-capital-b-buys-29-million-worth-bitcoin-413667)
   - [Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens](https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618)
   - [Coldcard exploiter moves 45% of funds stolen from ‘Wave 3’ attacks, Galaxy says](https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661)
   - [Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative](https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635)
@@ -98,12 +103,15 @@
   - [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
 - troyhunt.com
   - [Weekly Update 520: The Unscripted Edition](https://www.troyhunt.com/weekly-update-520/)
+- Wired
+  - [Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?](https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/)
 - 不安全
   - [ADSBee m1421: The World’s Smallest Dual-Band ADS-B Receiver](https://buaq.net/go-440551.html)
   - [DOMPurify v3.4.15](https://buaq.net/go-440567.html)
   - [Pushin – 没有美国参与的 Git 托管服务](https://buaq.net/go-440564.html)
   - [qiling v1.4.11](https://buaq.net/go-440544.html)
   - [ultralytics v8.4.142](https://buaq.net/go-440552.html)
+  - [xalgorix v4.6.72](https://buaq.net/go-440575.html)
   - [关键的 Citrix NetScaler 身份验证绕过漏洞已在实际攻击中被利用](https://buaq.net/go-440568.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -111,6 +119,8 @@
   - [GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？](https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [在零跑的工厂里，我们找到了它能月销 10 万辆的秘密](https://www.ifanr.com/1678617?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 18价格疑似泄露，埃及运营商否认/雷军晒图：54个品牌为小米澎程送祝福/华为大阔折曝光波尔多红配色](https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3](https://www.qbitai.com/2026/09/485108.html)
 - 黑海洋
   - [OpenAI首席科学家警告：AI公司应放慢开发步伐，没有人为后果做好准备](https://blog.upx8.com/OpenAI%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%AD%A6%E5%91%8A-AI%E5%85%AC%E5%8F%B8%E5%BA%94%E6%94%BE%E6%85%A2%E5%BC%80%E5%8F%91%E6%AD%A5%E4%BC%90-%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%B8%BA%E5%90%8E%E6%9E%9C%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87)
   - [丰田8月在华新车销量降23%，本田降50%](https://blog.upx8.com/%E4%B8%B0%E7%94%B08%E6%9C%88%E5%9C%A8%E5%8D%8E%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E9%99%8D23-%E6%9C%AC%E7%94%B0%E9%99%8D50)
