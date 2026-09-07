@@ -9,7 +9,10 @@
   - [SELinux 开启导致 nginx 无法读取文件](https://2libra.com/post/operating-systems/2jsfgtn)
   - [【读书笔记】再看「地理决定论」：读《红酒与恐怖片》有感 🍷🍷🍷](https://2libra.com/post/good-books/Y3K7Jci)
   - [【💰】求一个 2000 以内挂式空调推荐](https://2libra.com/post/computers-accessories/wAFc0Ux)
+  - [【💰】求推荐电动牙刷](https://2libra.com/post/worth-buying/3n-IA0K)
+  - [交通运输部就《公路法》修正草案征求意见，授权收费公路在期满后继续收费](https://2libra.com/post/social-observation/KEf68Lq)
   - [你们登的上 V 站吗？](https://2libra.com/post/networking/_XQxUW7)
+  - [各位大佬，AI 订阅比价网站有哪些比较靠谱的呢？](https://2libra.com/post/ai-tools/aYzfSwI)
   - [域名邮箱注册的 chatgpt 账号, 实测是有概率能存活下来的, 用 codex 差点意思, 但是用 chatgpt2api 生图完全 ok](https://2libra.com/post/ai-tools/opPUHMD)
   - [大家中秋，十一放假吗？](https://2libra.com/post/touch-fish/d5e7gsO)
   - [大家会觉得这是正常的长辈逗孩子吗？](https://2libra.com/post/family/-AS06qF)
@@ -25,8 +28,10 @@
   - [补签太贵了,金币都用来补签了,今天已经不够补签周日的了](https://2libra.com/post/forum-function/IvPQukM)
 - CoinTelegraph
   - [Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC](https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Coldcard third-wave attacker moves 45% of stolen Bitcoin](https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fomo overtakes Pump.fun in daily revenue on Solana](https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Philippines eyes payment operator registration freeze, tighter VASP checks](https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [C-MOR  6.0104 Directory Traversal](https://cxsecurity.com/issue/WLB-2026090004)
   - [EVerest 2025.9.0 DoS](https://cxsecurity.com/issue/WLB-2026090003)
@@ -49,6 +54,7 @@
 - defend.network
   - [MikroTik routers, Magento zero-day, and Chromium V8 actively exploited](https://defend.network/briefings/mikrotik-router-magento-adobe-commerce-chromium-exploit-2026-09-07.html)
 - Hacker News Frontpage
+  - ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)
   - [An Alien Mind](https://openai.com/index/an-alien-mind/)
   - [Finder is so frustrating and has been since day one](https://kepter.app/finder)
   - [Four Weeks of a Vegan Diet Alter Signs of Inflammation and Aging](https://www.uniklinik-freiburg.de/en/press/press-releases/detailed-view/6938-vier-wochen-vegane-ernaehrung-veraendern-entzuendungs-und-alterungssignale.html)
@@ -66,7 +72,11 @@
   - [UN backs new map showing Africa's true relative size with US alone in opposition](https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote)
   - [Windows 11's "special" developer edition looks like another marketing misfire](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
   - [XCancel is available again](https://xcancel.com/about)
+- HackerNoon
+  - [I Bought a $30 Toy Drone and Started Reverse-Engineering It Into an Autonomous Machine (Part 1)](https://hackernoon.com/i-bought-a-$30-toy-drone-and-started-reverse-engineering-it-into-an-autonomous-machine-part-1?source=rss)
+  - [Trading Has Always Had Levels. RISE Is Finally Making Them Visible.](https://hackernoon.com/trading-has-always-had-levels-rise-is-finally-making-them-visible?source=rss)
 - infosecurity-magazine.com
+  - [Multiple Class Action Lawsuits Filed Against IDScan](https://www.infosecurity-magazine.com/news/multiple-class-action-lawsuits/)
   - [Researcher Publishes CrowdStrike Privilege Escalation Zero Day](https://www.infosecurity-magazine.com/news/crowdstrike-privilege-escalation/)
 - pluralistic.net
   - [Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)](https://pluralistic.net/2026/09/06/hotels-california/)
@@ -105,6 +115,7 @@
   - [Weekly Update 520: The Unscripted Edition](https://www.troyhunt.com/weekly-update-520/)
 - Wired
   - [Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?](https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/)
+  - [The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes](https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/)
 - 不安全
   - [ADSBee m1421: The World’s Smallest Dual-Band ADS-B Receiver](https://buaq.net/go-440551.html)
   - [DOMPurify v3.4.15](https://buaq.net/go-440567.html)
@@ -117,9 +128,11 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？](https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常](https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [在零跑的工厂里，我们找到了它能月销 10 万辆的秘密](https://www.ifanr.com/1678617?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 18价格疑似泄露，埃及运营商否认/雷军晒图：54个品牌为小米澎程送祝福/华为大阔折曝光波尔多红配色](https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [3秒变身！会合体的机器人，卖到全球50国](https://www.qbitai.com/2026/09/485525.html)
   - [菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3](https://www.qbitai.com/2026/09/485108.html)
 - 黑海洋
   - [OpenAI首席科学家警告：AI公司应放慢开发步伐，没有人为后果做好准备](https://blog.upx8.com/OpenAI%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%AD%A6%E5%91%8A-AI%E5%85%AC%E5%8F%B8%E5%BA%94%E6%94%BE%E6%85%A2%E5%BC%80%E5%8F%91%E6%AD%A5%E4%BC%90-%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%B8%BA%E5%90%8E%E6%9E%9C%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87)
