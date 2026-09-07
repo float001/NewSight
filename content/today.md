@@ -1,18 +1,26 @@
 # 今日安全资讯（2026-09-08）
 
+- 2Libra
+  - [【💰】深夜睡不着接到一个电话](https://2libra.com/post/idea/0Ljts6V)
 - 404 Media
   - [We Are Going to Be Okay: A Three Year Anniversary Events Recap](https://www.404media.co/three-year-anniversary-events-recap-2/)
 - CoinTelegraph
   - [Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares](https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC](https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ](https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [★ It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map](https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter)
 - Fidelis Security
   - [How to Test a DDoS Incident Response Playbook with Tabletop Exercises](https://fidelissecurity.com/threatgeek/threat-detection-response/ddos-incident-response/)
 - Hacker News Frontpage
+  - [AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
   - [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
+  - [Volkswagen to convert German car plant to produce Israeli defense equipment](https://www.timesofisrael.com/volkswagen-to-convert-german-car-plant-to-produce-israeli-defense-equipment/)
+  - [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
 - IEEE Spectrum
   - [Workshops Educate African Researchers On How to Publish With IEEE](https://spectrum.ieee.org/ieee-workshop-xplore-africa)
+- johndcook.com
+  - [Ngram error rate](https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/)
 - Sploitus.com Exploits RSS Feed
   - [blueshrimp exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZHUOWEI-BLUESHRIMP&utm_source=rss&utm_medium=rss)
   - [CVE-2025-49132-Mods exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MALW0RE-CVE-2025-49132-MODS&utm_source=rss&utm_medium=rss)
@@ -26,6 +34,7 @@
   - [A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/)
 - The Decoder
   - [AI-designed drug appears to turn back the body's biological clock in early trial](https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/)
+  - [Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk](https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/)
   - [ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades](https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/)
   - [GPT-6 Astra beat Portal start to finish without human help in under 24 hours](https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/)
 - The Verge
