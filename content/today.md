@@ -17,6 +17,7 @@
   - [大家中秋，十一放假吗？](https://2libra.com/post/touch-fish/d5e7gsO)
   - [大家会觉得这是正常的长辈逗孩子吗？](https://2libra.com/post/family/-AS06qF)
   - [好游戏要玩不过来了](https://2libra.com/post/game-discussion/TxJkQEq)
+  - [对无畏契约性能的追求花了我一个小时排错才打开 codex](https://2libra.com/post/ai-programming/6hfhr3E)
   - [当代心灵导师 AI 版](https://2libra.com/post/prompts/W4-VW73)
   - [文科（社会学、心理学、犯罪学、教育学、政治学、逻辑学、博弈论、生物学、哲学等）学术论文期刊列表](https://2libra.com/post/personal-works/SZxVDte)
   - [求 GLM Coding Plan 7 天体验卡](https://2libra.com/post/ai-tools/igxE-K2)
@@ -26,8 +27,10 @@
   - [看了这个山的 AI 视频，脑洞非常大](https://2libra.com/post/movie-sharing/h39g8Fo)
   - [花洒滤芯长满了青苔](https://2libra.com/post/small-things/iHD0amm)
   - [补签太贵了,金币都用来补签了,今天已经不够补签周日的了](https://2libra.com/post/forum-function/IvPQukM)
+  - [过来免费领取 gpt 会员鸡蛋了](https://2libra.com/post/deal-hunter/rhwWXnH)
 - CoinTelegraph
   - [Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC](https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Citi, DBS complete first weekend tokenized cross-border deposit on Swift](https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coldcard third-wave attacker moves 45% of stolen Bitcoin](https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fomo overtakes Pump.fun in daily revenue on Solana](https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -77,6 +80,7 @@
   - [Trading Has Always Had Levels. RISE Is Finally Making Them Visible.](https://hackernoon.com/trading-has-always-had-levels-rise-is-finally-making-them-visible?source=rss)
 - infosecurity-magazine.com
   - [Multiple Class Action Lawsuits Filed Against IDScan](https://www.infosecurity-magazine.com/news/multiple-class-action-lawsuits/)
+  - [North Korea’s Lazarus Operates Through Six Distinct Cyber Clusters](https://www.infosecurity-magazine.com/news/north-korea-lazarus-six-cyber/)
   - [Researcher Publishes CrowdStrike Privilege Escalation Zero Day](https://www.infosecurity-magazine.com/news/crowdstrike-privilege-escalation/)
 - pluralistic.net
   - [Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)](https://pluralistic.net/2026/09/06/hotels-california/)
@@ -103,6 +107,7 @@
   - [Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens](https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618)
   - [Coldcard exploiter moves 45% of funds stolen from ‘Wave 3’ attacks, Galaxy says](https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661)
   - [Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative](https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635)
+  - [Liquid Network attacker says they will return most of 4,000 BTC after bug fix](https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673)
   - [Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin](https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626)
   - [South Korea’s Hanwha develops tokenized securities platform on Avalanche as local regulation takes shape: report](https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652)
   - [Spot bitcoin ETFs pull in $987 million last week as institutional demand recovers](https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639)
@@ -110,12 +115,15 @@
 - The Verge
   - [An Amazon cargo plane crashed at Miami International Airport](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami)
   - [Boox’s tiny Picco e-reader should land in November](https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa)
+  - [Huawei copies Samsung’s privacy display in its latest trifold](https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display)
   - [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
 - troyhunt.com
   - [Weekly Update 520: The Unscripted Edition](https://www.troyhunt.com/weekly-update-520/)
 - Wired
+  - [How to Watch the Apple September Event (2026)](https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/)
   - [Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?](https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/)
   - [The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes](https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/)
+  - [Whispering Complaints Into Your Phone May Be the Future of Customer Feedback](https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/)
 - 不安全
   - [ADSBee m1421: The World’s Smallest Dual-Band ADS-B Receiver](https://buaq.net/go-440551.html)
   - [DOMPurify v3.4.15](https://buaq.net/go-440567.html)
@@ -127,9 +135,12 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药](https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？](https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [不只三折叠！华为今天发布的这批新品，信息密度大到让人眼花](https://www.ifanr.com/1678896?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常](https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [在零跑的工厂里，我们找到了它能月销 10 万辆的秘密](https://www.ifanr.com/1678617?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [把千亿模型装进笔记本，Windows 终于要反击 Mac 了](https://www.ifanr.com/1678877?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 18价格疑似泄露，埃及运营商否认/雷军晒图：54个品牌为小米澎程送祝福/华为大阔折曝光波尔多红配色](https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [3秒变身！会合体的机器人，卖到全球50国](https://www.qbitai.com/2026/09/485525.html)
