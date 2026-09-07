@@ -18,18 +18,23 @@
 - Hacker News Frontpage
   - [An Alien Mind](https://openai.com/index/an-alien-mind/)
   - [Finder is so frustrating and has been since day one](https://kepter.app/finder)
+  - [Four Weeks of a Vegan Diet Alter Signs of Inflammation and Aging](https://www.uniklinik-freiburg.de/en/press/press-releases/detailed-view/6938-vier-wochen-vegane-ernaehrung-veraendern-entzuendungs-und-alterungssignale.html)
   - [GrapheneOS Overhauled Default Apps and Secure Clipboard](https://grapheneos.social/@GrapheneOS/117225539756835649)
   - [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
+  - [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
   - [Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
   - [Research carried out using NetBSD](https://www.netbsd.org/gallery/research.html)
   - [Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity](https://github.com/mmeyerlein/meclaw)
   - [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)
   - [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/)
   - [They're Made Out of Meat](https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml)
+  - [UN backs new map showing Africa's true relative size with US alone in opposition](https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote)
   - [Windows 11's "special" developer edition looks like another marketing misfire](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
   - [XCancel is available again](https://xcancel.com/about)
 - Sploitus.com Exploits RSS Feed
   - [CVE-2025-32463 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALDOCLAU98-CVE-2025-32463&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2021-1675](https://sploitus.com/exploit?id=CC78C616-7BC3-560F-9BEE-3AF0DD842444&utm_source=rss&utm_medium=rss)
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Sap Netweaver](https://sploitus.com/exploit?id=98DAABB7-F911-5937-8DF6-FF18ED01FC23&utm_source=rss&utm_medium=rss)
   - [packages_apps_Nfc_AOSP10_r33_CVE-2021-0594 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SATHEESH575555-PACKAGES_APPS_NFC_AOSP10_R33_CVE-2021-0594&utm_source=rss&utm_medium=rss)
   - [wireguard-tools exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WIREGUARD-WIREGUARD-TOOLS&utm_source=rss&utm_medium=rss)
   - [zoneminder exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZONEMINDER-ZONEMINDER&utm_source=rss&utm_medium=rss)
@@ -45,5 +50,8 @@
 - The Verge
   - [An Amazon cargo plane crashed at Miami International Airport](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami)
   - [Boox’s tiny Picco e-reader should land in November](https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa)
+  - [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
+- troyhunt.com
+  - [Weekly Update 520: The Unscripted Edition](https://www.troyhunt.com/weekly-update-520/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
