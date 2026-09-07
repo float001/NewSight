@@ -3,8 +3,10 @@
 - 2Libra
   - [2libra 企微页面伪装来了](https://2libra.com/post/browser-extensions/ZJiXLSd)
   - [Codex 500 额度，有需要的可以留下邮箱](https://2libra.com/post/ai-tools/qBS-UYL)
+  - [GPT6 Astra 对比之前正常的 GPT sol 更聪明，更快（比聪明更明显），token 消耗也更快；sol 用起来明显降智](https://2libra.com/post/large-models/IV6UCL3)
   - [gpt6 怎么样，怎么没看见多少帖子讨论](https://2libra.com/post/ai-trends/QhJk94P)
   - [opencode go 接下来需要携带 x-opencode-session 请求头？](https://2libra.com/post/ai-programming/OlnsLSE)
+  - [SELinux 开启导致 nginx 无法读取文件](https://2libra.com/post/operating-systems/2jsfgtn)
   - [【读书笔记】再看「地理决定论」：读《红酒与恐怖片》有感 🍷🍷🍷](https://2libra.com/post/good-books/Y3K7Jci)
   - [【💰】求一个 2000 以内挂式空调推荐](https://2libra.com/post/computers-accessories/wAFc0Ux)
   - [域名邮箱注册的 chatgpt 账号, 实测是有概率能存活下来的, 用 codex 差点意思, 但是用 chatgpt2api 生图完全 ok](https://2libra.com/post/ai-tools/opPUHMD)
@@ -13,6 +15,7 @@
   - [好游戏要玩不过来了](https://2libra.com/post/game-discussion/TxJkQEq)
   - [当代心灵导师 AI 版](https://2libra.com/post/prompts/W4-VW73)
   - [文科（社会学、心理学、犯罪学、教育学、政治学、逻辑学、博弈论、生物学、哲学等）学术论文期刊列表](https://2libra.com/post/personal-works/SZxVDte)
+  - [求 GLM Coding Plan 7 天体验卡](https://2libra.com/post/ai-tools/igxE-K2)
   - [求推荐码表，有没有骑行大佬](https://2libra.com/post/interest-groups/Y0D0BAK)
   - [混沌徽章是干嘛用的呀？怎么没显示功能嘞](https://2libra.com/post/forum-function/b_5Bd3y)
   - [白露随感](https://2libra.com/post/social-observation/XHlbwDN)
@@ -20,6 +23,7 @@
   - [补签太贵了,金币都用来补签了,今天已经不够补签周日的了](https://2libra.com/post/forum-function/IvPQukM)
 - CoinTelegraph
   - [Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC](https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [C-MOR  6.0104 Directory Traversal](https://cxsecurity.com/issue/WLB-2026090004)
   - [EVerest 2025.9.0 DoS](https://cxsecurity.com/issue/WLB-2026090003)
@@ -35,6 +39,8 @@
   - [Meta AI Has a Native Mac App Now, and It Seems Decent](https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/)
   - [Trump Administration Launches Rip-Off Video Games at Arcade.gov](https://x.com/WhiteHouse/status/2095615734567100766)
   - [WorkOS: How to Give an Agent a Task Instead of a Token](https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
+- defend.network
+  - [MikroTik routers, Magento zero-day, and Chromium V8 actively exploited](https://defend.network/briefings/mikrotik-router-magento-adobe-commerce-chromium-exploit-2026-09-07.html)
 - Hacker News Frontpage
   - [An Alien Mind](https://openai.com/index/an-alien-mind/)
   - [Finder is so frustrating and has been since day one](https://kepter.app/finder)
@@ -77,6 +83,7 @@
   - [Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens](https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618)
   - [Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative](https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635)
   - [Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin](https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626)
+  - [South Korea’s Hanwha develops tokenized securities platform on Avalanche as local regulation takes shape: report](https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652)
   - [Spot bitcoin ETFs pull in $987 million last week as institutional demand recovers](https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639)
   - [STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter](https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621)
 - The Verge
