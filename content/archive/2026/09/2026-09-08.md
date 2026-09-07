@@ -9,12 +9,16 @@
   - [Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC](https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ](https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [Matt Birchler’s Folding iPhone Predictions](https://birchtree.me/blog/my-folding-iphone-predictions/)
   - [★ It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map](https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter)
+- Data Breach
+  - [Condé Nast Data of 32.8 Million Users Offered for Sale After WIRED Leak](https://securityaffairs.com/198628/data-breach/conde-nast-data-of-32-8-million-users-offered-for-sale-after-wired-leak.html)
 - Fidelis Security
   - [How to Test a DDoS Incident Response Playbook with Tabletop Exercises](https://fidelissecurity.com/threatgeek/threat-detection-response/ddos-incident-response/)
 - Hacker News Frontpage
   - [AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
   - [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
+  - [Tesla killing Solar Roof is leaving installers with six-figure losses](https://electrek.co/2026/09/01/tesla-solar-roof-exit-installers-losses/)
   - [Volkswagen to convert German car plant to produce Israeli defense equipment](https://www.timesofisrael.com/volkswagen-to-convert-german-car-plant-to-produce-israeli-defense-equipment/)
   - [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
 - IEEE Spectrum
@@ -32,12 +36,14 @@
   - [twoface exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SYNACKTIV-TWOFACE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/)
+  - [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
 - The Decoder
   - [AI-designed drug appears to turn back the body's biological clock in early trial](https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/)
   - [Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk](https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/)
   - [ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades](https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/)
   - [GPT-6 Astra beat Portal start to finish without human help in under 24 hours](https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/)
 - The Verge
+  - [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price)
   - [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones)
 - Wired
   - [Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More](https://www.wired.com/story/tech-labor-day-sales-2026/)
