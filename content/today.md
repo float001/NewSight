@@ -4,6 +4,7 @@
   - [2libra 企微页面伪装来了](https://2libra.com/post/browser-extensions/ZJiXLSd)
   - [Codex 500 额度，有需要的可以留下邮箱](https://2libra.com/post/ai-tools/qBS-UYL)
   - [gpt6 怎么样，怎么没看见多少帖子讨论](https://2libra.com/post/ai-trends/QhJk94P)
+  - [【读书笔记】再看「地理决定论」：读《红酒与恐怖片》有感 🍷🍷🍷](https://2libra.com/post/good-books/Y3K7Jci)
   - [【💰】求一个 2000 以内挂式空调推荐](https://2libra.com/post/computers-accessories/wAFc0Ux)
   - [域名邮箱注册的 chatgpt 账号, 实测是有概率能存活下来的, 用 codex 差点意思, 但是用 chatgpt2api 生图完全 ok](https://2libra.com/post/ai-tools/opPUHMD)
   - [大家中秋，十一放假吗？](https://2libra.com/post/touch-fish/d5e7gsO)
