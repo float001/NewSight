@@ -12,6 +12,7 @@
   - [Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ](https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK financial watchdog weighs lifting prediction markets ban: Report](https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [[Sponsor] Glyphs 4](https://glyphsapp.com/)
   - [Matt Birchler’s Folding iPhone Predictions](https://birchtree.me/blog/my-folding-iphone-predictions/)
   - [McKinley 1.0](https://mckinleysymbols.com/)
   - [The Onion’s Exclusive Interview With Larry Ellison](https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/)
@@ -36,6 +37,8 @@
   - [Workshops Educate African Researchers On How to Publish With IEEE](https://spectrum.ieee.org/ieee-workshop-xplore-africa)
 - johndcook.com
   - [Ngram error rate](https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/)
+- simonwillison.net
+  - [Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/)
 - Sploitus.com Exploits RSS Feed
   - [blueshrimp exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZHUOWEI-BLUESHRIMP&utm_source=rss&utm_medium=rss)
   - [CVE-2025-49132-Mods exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MALW0RE-CVE-2025-49132-MODS&utm_source=rss&utm_medium=rss)
@@ -66,3 +69,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [深夜4小时，ChatGPT、Claude、Grok集体宕机：AI的根基正在动摇](https://www.anquanke.com/post/id/316083)
+- 黑海洋
+  - [又有两家新闻机构起诉OpenAI和微软](https://blog.upx8.com/%E5%8F%88%E6%9C%89%E4%B8%A4%E5%AE%B6%E6%96%B0%E9%97%BB%E6%9C%BA%E6%9E%84%E8%B5%B7%E8%AF%89OpenAI%E5%92%8C%E5%BE%AE%E8%BD%AF)
