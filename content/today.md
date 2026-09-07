@@ -23,6 +23,7 @@
   - [补签太贵了,金币都用来补签了,今天已经不够补签周日的了](https://2libra.com/post/forum-function/IvPQukM)
 - CoinTelegraph
   - [Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC](https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Fomo overtakes Pump.fun in daily revenue on Solana](https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [C-MOR  6.0104 Directory Traversal](https://cxsecurity.com/issue/WLB-2026090004)
@@ -39,6 +40,10 @@
   - [Meta AI Has a Native Mac App Now, and It Seems Decent](https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/)
   - [Trump Administration Launches Rip-Off Video Games at Arcade.gov](https://x.com/WhiteHouse/status/2095615734567100766)
   - [WorkOS: How to Give an Agent a Task Instead of a Token](https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
+- Darknet – Hacking Tools, Hacker News & Cyber Security
+  - [WRAITH – Browser Hooking and Blind XSS Page Mirroring](https://www.darknet.org.uk/2026/09/wraith-browser-hooking-and-blind-xss-page-mirroring/)
+- Data Breach
+  - [Berlin Ransomware Leak Exposes State Secrets](https://securityaffairs.com/198545/cyber-crime/berlin-ransomware-leak-exposes-state-secrets.html)
 - defend.network
   - [MikroTik routers, Magento zero-day, and Chromium V8 actively exploited](https://defend.network/briefings/mikrotik-router-magento-adobe-commerce-chromium-exploit-2026-09-07.html)
 - Hacker News Frontpage
@@ -81,6 +86,7 @@
   - [Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/)
 - The Block
   - [Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens](https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618)
+  - [Coldcard exploiter moves 45% of funds stolen from ‘Wave 3’ attacks, Galaxy says](https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661)
   - [Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative](https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635)
   - [Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin](https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626)
   - [South Korea’s Hanwha develops tokenized securities platform on Avalanche as local regulation takes shape: report](https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652)
@@ -94,15 +100,20 @@
   - [Weekly Update 520: The Unscripted Edition](https://www.troyhunt.com/weekly-update-520/)
 - 不安全
   - [ADSBee m1421: The World’s Smallest Dual-Band ADS-B Receiver](https://buaq.net/go-440551.html)
+  - [DOMPurify v3.4.15](https://buaq.net/go-440567.html)
+  - [Pushin – 没有美国参与的 Git 托管服务](https://buaq.net/go-440564.html)
   - [qiling v1.4.11](https://buaq.net/go-440544.html)
   - [ultralytics v8.4.142](https://buaq.net/go-440552.html)
+  - [关键的 Citrix NetScaler 身份验证绕过漏洞已在实际攻击中被利用](https://buaq.net/go-440568.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？](https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [在零跑的工厂里，我们找到了它能月销 10 万辆的秘密](https://www.ifanr.com/1678617?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 18价格疑似泄露，埃及运营商否认/雷军晒图：54个品牌为小米澎程送祝福/华为大阔折曝光波尔多红配色](https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [OpenAI首席科学家警告：AI公司应放慢开发步伐，没有人为后果做好准备](https://blog.upx8.com/OpenAI%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%AD%A6%E5%91%8A-AI%E5%85%AC%E5%8F%B8%E5%BA%94%E6%94%BE%E6%85%A2%E5%BC%80%E5%8F%91%E6%AD%A5%E4%BC%90-%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%B8%BA%E5%90%8E%E6%9E%9C%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87)
   - [丰田8月在华新车销量降23%，本田降50%](https://blog.upx8.com/%E4%B8%B0%E7%94%B08%E6%9C%88%E5%9C%A8%E5%8D%8E%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E9%99%8D23-%E6%9C%AC%E7%94%B0%E9%99%8D50)
+  - [大马不顾美国警告欲将华为芯片用于AI项目](https://blog.upx8.com/%E5%A4%A7%E9%A9%AC%E4%B8%8D%E9%A1%BE%E7%BE%8E%E5%9B%BD%E8%AD%A6%E5%91%8A%E6%AC%B2%E5%B0%86%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87%E7%94%A8%E4%BA%8EAI%E9%A1%B9%E7%9B%AE)
   - [日本“擤鼻涕方法”研究获搞笑诺贝尔奖](https://blog.upx8.com/%E6%97%A5%E6%9C%AC-%E6%93%A4%E9%BC%BB%E6%B6%95%E6%96%B9%E6%B3%95-%E7%A0%94%E7%A9%B6%E8%8E%B7%E6%90%9E%E7%AC%91%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96)
   - [黄仁勋回应OpenAI发布Astra：AGI已到来](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BA%94OpenAI%E5%8F%91%E5%B8%83Astra-AGI%E5%B7%B2%E5%88%B0%E6%9D%A5)
