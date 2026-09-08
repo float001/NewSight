@@ -5,6 +5,7 @@
   - [WorkBuddy 上线了更换皮肤功能，不能我一个人被雷，都来看看](https://2libra.com/post/sharing-discoveries/ucDbsFM)
   - [【💰】深夜睡不着接到一个电话](https://2libra.com/post/idea/0Ljts6V)
   - [【💰】让 Astra 做了一个榨干 Github 能力的分享倒数日项目，给生活找点盼头](https://2libra.com/post/open-source-sharing/c3xjGmJ)
+  - [不要悲伤，你失去的任何东西都会以另一种形式回来](https://2libra.com/post/mental-health/55fmNxT)
   - [中国移动 AI 灵犀口令：石榴尝鲜季 10-5、30-6、30-9](https://2libra.com/post/deal-hunter/9X6h9-N)
   - [你们那今天温度如何](https://2libra.com/post/personal-life/lsbXDRI)
   - [冷麻了](https://2libra.com/post/small-things/ZYkjXZn)
@@ -13,6 +14,7 @@
   - [嘉立创的社群戾气有点重啊（血压高慎入）](https://2libra.com/post/tech-rumination/8M6ukY9)
   - [幼儿练字助手又又又又更新了，这次升级为全新的幼小衔接启蒙助手](https://2libra.com/post/personal-works/tywqssV)
   - [怎么评价小米澎程 N70/N90？](https://2libra.com/post/automobile/7Uvaf_D)
+  - [总觉得小米 N90Max 很适合用来搬家](https://2libra.com/post/phone/MN54P47)
   - [有没有好吃的榴莲月饼推荐](https://2libra.com/post/worth-buying/FxU_-Os)
   - [果然，过了 30 岁，不服老不行啊](https://2libra.com/post/personal-life/PSLamc7)
   - [注册赠送 50$](https://2libra.com/post/ai-gateway/zXeoFO7)
@@ -125,6 +127,7 @@
   - [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price)
   - [First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3)
   - [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones)
+  - [Xiaomi’s wide foldable promises more power than Samsung’s](https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide)
 - Vulners.com RSS Feed
   - [aeBPF2-analysis](https://vulners.com/githubexploit/315DA6E7-4779-50B5-BC34-65282F75B8A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [php-saml](https://vulners.com/gitee/44BF059C-E354-55CF-BDD6-4FEA049C01CE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -139,6 +142,8 @@
   - [The PZSDR Team Demonstrates 7-Board Phase Coherence](https://buaq.net/go-440755.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [小鼠实验显示 GLP-1 减肥药或有助于延缓衰老](https://www.solidot.org/story?sid=85314)
 - 安全客
   - [深夜4小时，ChatGPT、Claude、Grok集体宕机：AI的根基正在动摇](https://www.anquanke.com/post/id/316083)
 - 爱范儿
