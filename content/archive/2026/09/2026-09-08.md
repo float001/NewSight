@@ -11,6 +11,7 @@
   - [不要悲伤，你失去的任何东西都会以另一种形式回来](https://2libra.com/post/mental-health/55fmNxT)
   - [中国移动 AI 灵犀口令：石榴尝鲜季 10-5、30-6、30-9](https://2libra.com/post/deal-hunter/9X6h9-N)
   - [今天在路上看见她了](https://2libra.com/post/love/2byc7Gv)
+  - [今日恐怖](https://2libra.com/post/small-things/2BNE5fA)
   - [你们那今天温度如何](https://2libra.com/post/personal-life/lsbXDRI)
   - [你喜欢猪猪女孩吗](https://2libra.com/post/slacking-off/tS9vCk5)
   - [冷麻了](https://2libra.com/post/small-things/ZYkjXZn)
@@ -32,6 +33,9 @@
 - 404 Media
   - [A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over](https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/)
   - [We Are Going to Be Okay: A Three Year Anniversary Events Recap](https://www.404media.co/three-year-anniversary-events-recap-2/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#859658: Skullcandy Dime 3 wireless earbuds contain an unauthenticated Bluetooth pairing vulnerability](https://kb.cert.org/vuls/id/859658)
+  - [VU#943094: ONLYOFFICE ownCloud integration plugin contains a Server-Side Request Forgery (SSRF) vulnerability](https://kb.cert.org/vuls/id/943094)
 - CoinTelegraph
   - [Australia says it removed 45 crypto, remittance registrations over the past year](https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares](https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -60,6 +64,7 @@
   - [The Onion’s Exclusive Interview With Larry Ellison](https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/)
   - [Trackables 1.5](https://trackables.app/)
   - [★ It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map](https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter)
+  - [★ SuperDuper 4](https://daringfireball.net/2026/09/superduper_4)
 - Data Breach
   - [Condé Nast Data of 32.8 Million Users Offered for Sale After WIRED Leak](https://securityaffairs.com/198628/data-breach/conde-nast-data-of-32-8-million-users-offered-for-sale-after-wired-leak.html)
 - Fidelis Security
@@ -69,10 +74,12 @@
 - Hacker News Frontpage
   - [AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
   - [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
+  - [An overview of how our family is prepared](https://michaelharley.net/posts/2026/08/29/an-overview-of-how-our-family-is-prepared/)
   - [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
   - [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
   - [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
   - [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
+  - [PyPI Blog: Incident File Hosting Errors](https://blog.pypi.org/posts/2026-09-08-file-hosting-errors/)
   - [Show HN: Copperhead – Hardware as Fast as Software](https://copperhead.sh/)
   - [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
   - [Tesla killing Solar Roof is leaving installers with six-figure losses](https://electrek.co/2026/09/01/tesla-solar-roof-exit-installers-losses/)
@@ -85,9 +92,15 @@
   - [I found an old interview mine (2017)](https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude)
 - IEEE Spectrum
   - [Workshops Educate African Researchers On How to Publish With IEEE](https://spectrum.ieee.org/ieee-workshop-xplore-africa)
+- InfoSec Write-ups - Medium
+  - [BOLA: Enumerating an Entire Employee Directory Through a Predictable ID](https://infosecwriteups.com/bola-enumerating-an-entire-employee-directory-through-a-predictable-id-2fa11370e919?source=rss----7b722bfd1b8d---4)
+  - [Corridor — A Simple Web CTF That Made Me Look Twice](https://infosecwriteups.com/corridor-a-simple-web-ctf-that-made-me-look-twice-668a430418f1?source=rss----7b722bfd1b8d---4)
+  - [Insecure Firestore Security Rules & PII Exposure](https://infosecwriteups.com/insecure-firestore-security-rules-pii-exposure-762763ac577f?source=rss----7b722bfd1b8d---4)
+  - [Payment Bypass Flaw in TechPSC HUB](https://infosecwriteups.com/payment-bypass-flaw-in-techpsc-hub-863bb2f37b60?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [AI Coding Tools Now a Prime Target for Threat Actors, Google Warns](https://www.infosecurity-magazine.com/news/ai-coding-tools-threat-actors/)
   - [BigBear 2 PhaaS Campaign Steals 5000+ Microsoft Credentials](https://www.infosecurity-magazine.com/news/bigbear-2-phaas-5000-microsoft/)
+  - [France Establishes New Government-Focused Cyber Incident Response Unit](https://www.infosecurity-magazine.com/news/france-new-government-cyber/)
   - [Grindr Settles UK Data Privacy Claims for £26m](https://www.infosecurity-magazine.com/news/grindr-settles-uk-data-privacy/)
   - [THost9 Android RAT Pairs Packed Loader With ADB Worm](https://www.infosecurity-magazine.com/news/thost9-android-rat-packed-loader/)
   - [Trezor Supply Chain Breach Now Impacts 81,000 Customers](https://www.infosecurity-magazine.com/news/trezor-supply-chain-breach-impacts/)
@@ -155,8 +168,10 @@
   - [xss-payloads-rep exploit](https://sploitus.com/exploit?id=9CBBC6CE-8D37-5C51-8EBA-7F5092DAFCFB&utm_source=rss&utm_medium=rss)
   - [ysoserial exploit](https://sploitus.com/exploit?id=27301678-E340-5CEF-9FEE-F4352302CA52&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [A hacker stole $340M in a crypto heist, then returned most of it](https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/)
   - [A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/)
   - [Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch](https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/)
+  - [Mistral raises €3B as sovereign AI becomes big business](https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/)
   - [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
   - [Poseidon Aerospace lands $60M ahead of first pilotless test flight](https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/)
 - The Block
@@ -167,12 +182,14 @@
   - [Polish prosecutors charge fifth suspect in Zondacrypto probe involving around $100 million in estimated losses](https://www.theblock.co/news/regulation/2026-09-08-polish-prosecutors-charge-fifth-suspect-in-zondacrypto-probe-involving-around-100-million-in-estimated-losses-413745)
   - [Strategy repurchases $176 million of STRC shares, makes no bitcoin purchases or sales](https://www.theblock.co/news/business/2026-09-08-strategy-bitcoin-strc-repurchase-program-413678)
   - [Visa stablecoin settlement tops $20 billion annualized run rate, up more than 15x year over year](https://www.theblock.co/news/business/2026-09-08-visa-stablecoin-settlement-tops-20-billion-annualized-run-rate-up-more-than-15x-year-over-year-413749)
+  - [ZKsync developer Matter Labs open-sources Prividium permissioning engine; Bundesbank tests platform](https://www.theblock.co/news/ecosystems/2026-09-08-zksync-developer-matter-labs-open-sources-prividium-permissioning-engine-bundesbank-tests-platform-413814)
   - [‘The chain is now earnings’: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain](https://www.theblock.co/news/markets/2026-09-08-bernstein-sees-upside-robinhood-413729)
 - The Decoder
   - [AI-designed drug appears to turn back the body's biological clock in early trial](https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/)
   - [Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk](https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/)
   - [ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades](https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/)
   - [GPT-6 Astra beat Portal start to finish without human help in under 24 hours](https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/)
+  - [Meta drops AI usage from engineer performance reviews after "tokenmaxxing" backfires](https://the-decoder.com/meta-drops-ai-usage-from-engineer-performance-reviews-after-tokenmaxxing-backfires/)
   - [Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals](https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/)
 - The Verge
   - [Adobe is trying to make its AI generators idiot-proof in Premiere](https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere)
@@ -183,6 +200,7 @@
   - [Intel CPUs are reportedly getting a 10 percent price hike in October](https://www.theverge.com/tech/991285/intel-cpu-price-increase-october)
   - [LG TVs caught spying even when offline or on standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
   - [Microsoft breaks another patch Tuesday record](https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad)
+  - [Nintendo’s Ocarina of Time remake launches in November](https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer)
   - [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones)
   - [SteelSeries’ pro-grade, wireless Xbox controller sure is expensive](https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features)
   - [The Legend of Zelda 40th Anniversary Direct: all the news and trailers](https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct)
@@ -204,6 +222,8 @@
   - [Vulnerability of the “KOMTEK Cassa Kurier” module of the 1C-Bitrix content management system: Website management related to the lack of authentication for critical functions, allowing attackers to compromise the integrity and accessibility of protected information](https://vulners.com/bdu_fstec/BDU:2026-10202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Vulnerability of “Before and After Photos”: Comparison of images before/after by a content management system (CMS) like 1C-Bitrix. This feature allows unauthorized users to execute arbitrary code by enabling unlimited uploading of dangerous types of files.](https://vulners.com/bdu_fstec/BDU:2026-10201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ysoserial](https://vulners.com/gitee/27301678-E340-5CEF-9FEE-F4352302CA52?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- wheresyoured.at
+  - [Concentration Risk](https://www.wheresyoured.at/concentration-risk/)
 - Wired
   - [5 Best Smart Speakers (2026): Alexa, Google, Apple](https://www.wired.com/story/best-smart-speakers/)
   - [Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More](https://www.wired.com/story/tech-labor-day-sales-2026/)
@@ -215,10 +235,12 @@
   - [Dark-Moon v1.4.0](https://buaq.net/go-440857.html)
   - [raptor v3.1.0](https://buaq.net/go-440743.html)
   - [Regole di accreditamento per la nuova ISO/IEC 27701](https://buaq.net/go-440864.html)
+  - [rustls v/0.23.44](https://buaq.net/go-440904.html)
   - [The PZSDR Team Demonstrates 7-Board Phase Coherence](https://buaq.net/go-440755.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Jellyfin 12.0 释出](https://www.solidot.org/story?sid=85321)
   - [小鼠实验显示 GLP-1 减肥药或有助于延缓衰老](https://www.solidot.org/story?sid=85314)
   - [澳大利亚想要社媒平台允许用户退出算法驱动的信息流](https://www.solidot.org/story?sid=85320)
 - 安全客
