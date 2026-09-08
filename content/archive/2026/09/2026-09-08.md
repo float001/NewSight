@@ -2,6 +2,7 @@
 
 - 2Libra
   - [2026 年 10 个接码平台汇总（临时号码和长期号码）](https://2libra.com/post/tools-sharing/vARYVsB)
+  - [dsv4.1f 好快](https://2libra.com/post/large-models/h_9VwQF)
   - [WorkBuddy 上线了更换皮肤功能，不能我一个人被雷，都来看看](https://2libra.com/post/sharing-discoveries/ucDbsFM)
   - [【💰】深夜睡不着接到一个电话](https://2libra.com/post/idea/0Ljts6V)
   - [【💰】让 Astra 做了一个榨干 Github 能力的分享倒数日项目，给生活找点盼头](https://2libra.com/post/open-source-sharing/c3xjGmJ)
@@ -13,6 +14,7 @@
   - [各位老哥 TIBO 又要重置了 有没有能看到 TIBO 重置时间的网站呢](https://2libra.com/post/ai-companies/rnjx-sR)
   - [嘉立创的社群戾气有点重啊（血压高慎入）](https://2libra.com/post/tech-rumination/8M6ukY9)
   - [天塌了 今天老婆和我坦白欠了 18 个 w](https://2libra.com/post/family/6JlhGqj)
+  - [好迷茫啊，上班好无聊！](https://2libra.com/post/ai-tools/W9QvzMT)
   - [幼儿练字助手又又又又更新了，这次升级为全新的幼小衔接启蒙助手](https://2libra.com/post/personal-works/tywqssV)
   - [怎么评价小米澎程 N70/N90？](https://2libra.com/post/automobile/7Uvaf_D)
   - [总觉得小米 N90Max 很适合用来搬家](https://2libra.com/post/phone/MN54P47)
@@ -20,12 +22,15 @@
   - [有没有好吃的榴莲月饼推荐](https://2libra.com/post/worth-buying/FxU_-Os)
   - [果然，过了 30 岁，不服老不行啊](https://2libra.com/post/personal-life/PSLamc7)
   - [注册赠送 50$](https://2libra.com/post/ai-gateway/zXeoFO7)
+- 360 Netlab Blog - 360
+  - [金融行业网络安全监测月报(202608)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202608/)
 - 404 Media
   - [We Are Going to Be Okay: A Three Year Anniversary Events Recap](https://www.404media.co/three-year-anniversary-events-recap-2/)
 - CoinTelegraph
   - [Australia says it removed 45 crypto, remittance registrations over the past year](https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares](https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC](https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Cronos confirms $9.2M slipped away before Tectonic exploit rollback](https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade](https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ](https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -33,6 +38,7 @@
   - [Swiss stablecoin sandbox enters testing phase, adds two new partners](https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK financial watchdog weighs lifting prediction markets ban: Report](https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
+  - [Cronos confirms $9.2M slipped away before Tectonic exploit rollback](https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
   - [Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart](https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [[Sponsor] Glyphs 4](https://glyphsapp.com/)
@@ -47,6 +53,7 @@
   - [How to Test a DDoS Incident Response Playbook with Tabletop Exercises](https://fidelissecurity.com/threatgeek/threat-detection-response/ddos-incident-response/)
 - Hacker News Frontpage
   - [AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
+  - [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
   - [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
   - [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
   - [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
@@ -96,6 +103,7 @@
   - [drupalgeddon2 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JIROJO2-DRUPALGEDDON2&utm_source=rss&utm_medium=rss)
   - [exfil-scan exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-VIKASUDASI-EXFIL-SCAN&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-75650](https://sploitus.com/exploit?id=FBA8D7C9-BDAA-5FE8-B1F1-5C0F0323213E&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-8732](https://sploitus.com/exploit?id=98B54FC7-0E0B-5ACF-9962-852C152E0996&utm_source=rss&utm_medium=rss)
   - [f5_scanner exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CRISTIANO-CORRADO-F5_SCANNER&utm_source=rss&utm_medium=rss)
   - [IngressNightmare-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LUFEIRIDER-INGRESSNIGHTMARE-POC&utm_source=rss&utm_medium=rss)
   - [ioc-scanner-CVE-2019-19781 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CITRIX-IOC-SCANNER-CVE-2019-19781&utm_source=rss&utm_medium=rss)
@@ -121,6 +129,7 @@
 - The Block
   - [Cronos says $9.2 million remains unrecovered after Tectonic exploit, chain rollback](https://www.theblock.co/news/ecosystems/2026-09-08-cronos-post-mortem-413724)
   - [Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form](https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716)
+  - [‘The chain is now earnings’: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain](https://www.theblock.co/news/markets/2026-09-08-bernstein-sees-upside-robinhood-413729)
 - The Decoder
   - [AI-designed drug appears to turn back the body's biological clock in early trial](https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/)
   - [Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk](https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/)
@@ -158,3 +167,4 @@
   - [又有两家新闻机构起诉OpenAI和微软](https://blog.upx8.com/%E5%8F%88%E6%9C%89%E4%B8%A4%E5%AE%B6%E6%96%B0%E9%97%BB%E6%9C%BA%E6%9E%84%E8%B5%B7%E8%AF%89OpenAI%E5%92%8C%E5%BE%AE%E8%BD%AF)
   - [安卓版PS3模拟器修复导致手机发热的问题](https://blog.upx8.com/%E5%AE%89%E5%8D%93%E7%89%88PS3%E6%A8%A1%E6%8B%9F%E5%99%A8%E4%BF%AE%E5%A4%8D%E5%AF%BC%E8%87%B4%E6%89%8B%E6%9C%BA%E5%8F%91%E7%83%AD%E7%9A%84%E9%97%AE%E9%A2%98)
   - [折叠屏iPhone初期产量受限 每日仅数百部](https://blog.upx8.com/%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E5%88%9D%E6%9C%9F%E4%BA%A7%E9%87%8F%E5%8F%97%E9%99%90-%E6%AF%8F%E6%97%A5%E4%BB%85%E6%95%B0%E7%99%BE%E9%83%A8)
+  - [涉嫌非法转移芯片技术 中国男子乘机返京前在布鲁塞尔被捕](https://blog.upx8.com/%E6%B6%89%E5%AB%8C%E9%9D%9E%E6%B3%95%E8%BD%AC%E7%A7%BB%E8%8A%AF%E7%89%87%E6%8A%80%E6%9C%AF-%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E4%B9%98%E6%9C%BA%E8%BF%94%E4%BA%AC%E5%89%8D%E5%9C%A8%E5%B8%83%E9%B2%81%E5%A1%9E%E5%B0%94%E8%A2%AB%E6%8D%95)
