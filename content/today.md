@@ -1,12 +1,23 @@
 # 今日安全资讯（2026-09-09）
 
+- 404 Media
+  - [Channel 5 Gave Hunter Biden a List of Its Subscribers’ Emails for Some Reason](https://www.404media.co/channel-5-gave-hunter-biden-a-list-of-its-subscribers-emails-for-some-reason/)
+- blog.jim-nielsen.com
+  - [The Bulldozing of an Interface](https://blog.jim-nielsen.com/2026/bulldoze-ui/)
+- ByteByteGo
+  - [Built for Reliability: How American Express Processes Payments at Scale](https://blog.bytebytego.com/p/built-for-reliability-how-american)
 - Chainalysis Blog
   - [Tracing Crypto in a Narcotics Investigation: FBI Charges Alleged Opioid Distributors](https://www.chainalysis.com/blog/fbi-traces-crypto-opioids-distributors/)
 - CoinTelegraph
+  - [Bybit launches 24/7 perpetuals for major currency pairs](https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Visa brings onchain credit to its growing stablecoin card business](https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
   - [ClickFix Campaigns Abuse Legitimate Services for Persistent Access](https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access)
+- Fidelis Security
+  - [Alert Prioritization in Security Operations: How Fidelis Helps Focus on the Threats That Matter](https://fidelissecurity.com/threatgeek/threat-detection-response/alert-prioritization-in-security-operations/)
 - Hacker News Frontpage
+  - [100s of flights cancelled at UK airports due to ATC issue](https://www.bbc.com/news/live/c6x2z0yy32ejt)
+  - [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
   - [Do you think it happened? Research stolen from their Codex private chats](https://www.reddit.com/r/codex/s/psWHRr9864)
   - [LG TVs caught spying even when offline or on standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
   - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
@@ -19,15 +30,20 @@
 - TechCrunch
   - [Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/)
   - [How to watch Apple’s foldable iPhone announcement](https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/)
+  - [Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/)
   - [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)
+- The Block
+  - [DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury](https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892)
 - The Decoder
   - [OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper](https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/)
 - The Verge
   - [A new class action lawsuit questions whether Anthropic broke the law by misleading power users](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans)
+  - [Meta bets on AI agent Muse to catch up in AI race](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race)
   - [Nintendo isn’t scared of GTA VI](https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6)
   - [Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick](https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control)
   - [The White House pulls its racist Tetris clone](https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone)
 - Wired
+  - [Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK](https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/)
   - [Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone](https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/)
   - [OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul](https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/)
 - 代码审计星球
