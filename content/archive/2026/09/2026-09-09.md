@@ -13,18 +13,24 @@
   - [Tracing Crypto in a Narcotics Investigation: FBI Charges Alleged Opioid Distributors](https://www.chainalysis.com/blog/fbi-traces-crypto-opioids-distributors/)
 - CoinTelegraph
   - [Bybit launches 24/7 perpetuals for major currency pairs](https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Franklin Templeton digital asset veteran takes helm at StablecoinX](https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Visa brings onchain credit to its growing stablecoin card business](https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
   - [ClickFix Campaigns Abuse Legitimate Services for Persistent Access](https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access)
+  - [OpenAI Agents Took Over Wiki Site Before Hugging Face Attack](https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack)
 - Dhole Moments
   - [Multi-Track Fursuiting?!](https://soatok.blog/2026/09/08/multi-track-fursuiting/)
 - Fidelis Security
   - [Alert Prioritization in Security Operations: How Fidelis Helps Focus on the Threats That Matter](https://fidelissecurity.com/threatgeek/threat-detection-response/alert-prioritization-in-security-operations/)
 - Hacker News Frontpage
   - [100s of flights cancelled at UK airports due to ATC issue](https://www.bbc.com/news/live/c6x2z0yy32ejt)
+  - [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
   - [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
   - [Do you think it happened? Research stolen from their Codex private chats](https://www.reddit.com/r/codex/s/psWHRr9864)
+  - [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
   - [LG TVs caught spying even when offline or on standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
+  - [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
   - [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)
   - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
   - [OUI-1: world's first model for Generative UI](https://www.openui.com/blog/oui-1)
@@ -38,15 +44,21 @@
   - [How to watch Apple’s foldable iPhone announcement](https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/)
   - [Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/)
   - [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)
+  - [The Exploration Company nabs $450 million to challenge SpaceX](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/)
 - The Block
   - [A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme](https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911)
   - [DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury](https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892)
+  - [Hyperliquid open interest climbs to $14.3 billion as HYPE hits all-time high](https://www.theblock.co/news/ecosystems/2026-09-08-hyperliquid-open-interest-climbs-14-3-billion-hype-hits-all-time-high-413855)
 - The Decoder
   - [OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper](https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/)
 - The Verge
   - [A new class action lawsuit questions whether Anthropic broke the law by misleading power users](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans)
+  - [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)
+  - [Drama swirls around OpenAI’s legendary mathematical milestone](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)
   - [Meta bets on AI agent Muse to catch up in AI race](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race)
   - [Nintendo isn’t scared of GTA VI](https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6)
+  - [Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off](https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale)
+  - [Rivian apologizes for delays in shipping futuristic Also e-bikes](https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology)
   - [Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick](https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control)
   - [The White House pulls its racist Tetris clone](https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone)
 - Vulnerabilities and Threat Research – Qualys Security Blog
@@ -54,6 +66,7 @@
 - Wired
   - [Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK](https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/)
   - [Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone](https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/)
+  - [Muse, Meta's New Personal AI Agent, Needs You to Trust It](https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/)
   - [OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul](https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
