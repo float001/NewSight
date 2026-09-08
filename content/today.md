@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-09-09）
 
+- 2Libra
+  - [地球电台网站](https://2libra.com/post/sharing-discoveries/OkvPj1e)
 - 404 Media
   - [Channel 5 Gave Hunter Biden a List of Its Subscribers’ Emails for Some Reason](https://www.404media.co/channel-5-gave-hunter-biden-a-list-of-its-subscribers-emails-for-some-reason/)
 - Ars Technica
@@ -15,10 +17,12 @@
   - [Bybit launches 24/7 perpetuals for major currency pairs](https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Franklin Templeton digital asset veteran takes helm at StablecoinX](https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [New York town weighs crypto mining and AI data center ban](https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Visa brings onchain credit to its growing stablecoin card business](https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
   - [ClickFix Campaigns Abuse Legitimate Services for Persistent Access](https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access)
   - [OpenAI Agents Took Over Wiki Site Before Hugging Face Attack](https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack)
+  - [Patch Tuesday Sets Another Record With 974 CVEs](https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves)
 - Dhole Moments
   - [Multi-Track Fursuiting?!](https://soatok.blog/2026/09/08/multi-track-fursuiting/)
 - Fidelis Security
@@ -37,10 +41,15 @@
   - [Why I'm Not Excited About the Graphene OS and Motorola Partnership](https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership)
 - HackerNoon
   - [Building Multi-Platform Data Apps With Modular Runtime Architecture (Part 2)](https://hackernoon.com/building-multi-platform-data-apps-with-modular-runtime-architecture-part-2?source=rss)
+- krebsonsecurity.com
+  - [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 - Publications | Outflank
   - [NetNTLMv1 Is Dead. Long Live NetNTLMv1.](https://www.outflank.nl/blog/2026/09/08/netntlmv1-is-dead-long-live-netntlmv1/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Path Traversal in Gogs](https://sploitus.com/exploit?id=818B9529-4D90-5B49-949D-DFDFF5E93C3E&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/)
+  - [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/)
   - [How to watch Apple’s foldable iPhone announcement](https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/)
   - [Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/)
   - [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)
@@ -49,6 +58,7 @@
   - [A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme](https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911)
   - [DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury](https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892)
   - [Hyperliquid open interest climbs to $14.3 billion as HYPE hits all-time high](https://www.theblock.co/news/ecosystems/2026-09-08-hyperliquid-open-interest-climbs-14-3-billion-hype-hits-all-time-high-413855)
+  - [Jack Dorsey’s Block joins rush for federal bank charters from OCC](https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947)
 - The Decoder
   - [OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper](https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/)
 - The Verge
@@ -59,12 +69,14 @@
   - [Nintendo isn’t scared of GTA VI](https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6)
   - [Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off](https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale)
   - [Rivian apologizes for delays in shipping futuristic Also e-bikes](https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology)
+  - [Sony isn’t phasing out discs quite as quickly as we thought](https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent)
   - [Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick](https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control)
   - [The White House pulls its racist Tetris clone](https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Microsoft and Adobe Patch Tuesday, September 2026 Security Update Review](https://blog.qualys.com/category/vulnerabilities-threat-research)
 - Wired
   - [Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK](https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/)
+  - [Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026](https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/)
   - [Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone](https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/)
   - [Muse, Meta's New Personal AI Agent, Needs You to Trust It](https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/)
   - [OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul](https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/)
