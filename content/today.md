@@ -5,6 +5,7 @@
   - [【💰】深夜睡不着接到一个电话](https://2libra.com/post/idea/0Ljts6V)
   - [中国移动 AI 灵犀口令：石榴尝鲜季 10-5、30-6、30-9](https://2libra.com/post/deal-hunter/9X6h9-N)
   - [你们那今天温度如何](https://2libra.com/post/personal-life/lsbXDRI)
+  - [冷麻了](https://2libra.com/post/small-things/ZYkjXZn)
   - [分享一下本站 Catppuccin Mocha 主题配色](https://2libra.com/post/personal-works/xsi4rm9)
   - [各位老哥 TIBO 又要重置了 有没有能看到 TIBO 重置时间的网站呢](https://2libra.com/post/ai-companies/rnjx-sR)
   - [嘉立创的社群戾气有点重啊（血压高慎入）](https://2libra.com/post/tech-rumination/8M6ukY9)
@@ -56,6 +57,7 @@
 - rtl-sdr.com
   - [Cat2Web: Sync a Transceiver with WebSDR/KiwiSDR](https://www.rtl-sdr.com/cat2web-sync-a-transceiver-with-websdr-kiwisdr/)
   - [Instro: Python Hardware Instrumentation Library Adds RTL-SDR Support](https://www.rtl-sdr.com/instro-python-hardware-instrumentation-library-adds-rtl-sdr-support/)
+  - [OrcSDR: Running RTL-SDR Directly on an ESP32-P4](https://www.rtl-sdr.com/orcsdr-running-rtl-sdr-directly-on-an-esp32-p4/)
   - [The PZSDR Team Demonstrates 7-Board Phase Coherence](https://www.rtl-sdr.com/the-pzsdr-team-demonstrate-7-board-phase-coherence/)
 - simonwillison.net
   - [Creepy crawlies](https://simonwillison.net/2026/Sep/7/creepy-crawlies/)
@@ -106,6 +108,8 @@
   - [A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/)
   - [Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch](https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/)
   - [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
+- The Block
+  - [Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form](https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716)
 - The Decoder
   - [AI-designed drug appears to turn back the body's biological clock in early trial](https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/)
   - [Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk](https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/)
