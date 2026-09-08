@@ -1,10 +1,16 @@
 # 今日安全资讯（2026-09-09）
 
+- Chainalysis Blog
+  - [Tracing Crypto in a Narcotics Investigation: FBI Charges Alleged Opioid Distributors](https://www.chainalysis.com/blog/fbi-traces-crypto-opioids-distributors/)
 - CoinTelegraph
   - [Visa brings onchain credit to its growing stablecoin card business](https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- darkreading
+  - [ClickFix Campaigns Abuse Legitimate Services for Persistent Access](https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access)
 - Hacker News Frontpage
   - [Do you think it happened? Research stolen from their Codex private chats](https://www.reddit.com/r/codex/s/psWHRr9864)
   - [LG TVs caught spying even when offline or on standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
+  - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
+  - [OUI-1: world's first model for Generative UI](https://www.openui.com/blog/oui-1)
   - [Why I'm Not Excited About the Graphene OS and Motorola Partnership](https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership)
 - HackerNoon
   - [Building Multi-Platform Data Apps With Modular Runtime Architecture (Part 2)](https://hackernoon.com/building-multi-platform-data-apps-with-modular-runtime-architecture-part-2?source=rss)
@@ -12,7 +18,13 @@
   - [NetNTLMv1 Is Dead. Long Live NetNTLMv1.](https://www.outflank.nl/blog/2026/09/08/netntlmv1-is-dead-long-live-netntlmv1/)
 - TechCrunch
   - [Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/)
+  - [How to watch Apple’s foldable iPhone announcement](https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/)
+  - [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)
+- The Decoder
+  - [OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper](https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/)
 - The Verge
+  - [A new class action lawsuit questions whether Anthropic broke the law by misleading power users](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans)
+  - [Nintendo isn’t scared of GTA VI](https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6)
   - [Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick](https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control)
   - [The White House pulls its racist Tetris clone](https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone)
 - Wired
@@ -20,3 +32,5 @@
   - [OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul](https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [4200枚比特币只剩200枚：Liquid被掏空背后，"白帽"说法你信吗？](https://www.anquanke.com/post/id/316090)
