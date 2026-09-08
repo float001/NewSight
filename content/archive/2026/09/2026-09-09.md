@@ -19,10 +19,14 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New York town weighs crypto mining and AI data center ban](https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Visa brings onchain credit to its growing stablecoin card business](https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [‘Modern Day Typographer’](https://www.youtube.com/watch?v=0Ck-NPqf2c8)
 - darkreading
   - [ClickFix Campaigns Abuse Legitimate Services for Persistent Access](https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access)
   - [OpenAI Agents Took Over Wiki Site Before Hugging Face Attack](https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack)
   - [Patch Tuesday Sets Another Record With 974 CVEs](https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves)
+- Der Flounder
+  - [Manually copying login keychain files from one Mac to another no longer works on Secure Enclave-equipped Macs running macOS Tahoe](https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/)
 - Dhole Moments
   - [Multi-Track Fursuiting?!](https://soatok.blog/2026/09/08/multi-track-fursuiting/)
 - Fidelis Security
@@ -45,6 +49,8 @@
   - [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 - Publications | Outflank
   - [NetNTLMv1 Is Dead. Long Live NetNTLMv1.](https://www.outflank.nl/blog/2026/09/08/netntlmv1-is-dead-long-live-netntlmv1/)
+- simonwillison.net
+  - [Introducing ChatGPT Images 2.5](https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Path Traversal in Gogs](https://sploitus.com/exploit?id=818B9529-4D90-5B49-949D-DFDFF5E93C3E&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -59,6 +65,7 @@
   - [DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury](https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892)
   - [Hyperliquid open interest climbs to $14.3 billion as HYPE hits all-time high](https://www.theblock.co/news/ecosystems/2026-09-08-hyperliquid-open-interest-climbs-14-3-billion-hype-hits-all-time-high-413855)
   - [Jack Dorsey’s Block joins rush for federal bank charters from OCC](https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947)
+  - [Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles](https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852)
 - The Decoder
   - [OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper](https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/)
 - The Verge
