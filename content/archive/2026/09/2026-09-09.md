@@ -2,6 +2,9 @@
 
 - 404 Media
   - [Channel 5 Gave Hunter Biden a List of Its Subscribers’ Emails for Some Reason](https://www.404media.co/channel-5-gave-hunter-biden-a-list-of-its-subscribers-emails-for-some-reason/)
+- Ars Technica
+  - [Supreme Court forces TV stations to sell more election ads at steep discounts](https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/)
+  - [Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change](https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/)
 - blog.jim-nielsen.com
   - [The Bulldozing of an Interface](https://blog.jim-nielsen.com/2026/bulldoze-ui/)
 - ByteByteGo
@@ -13,6 +16,8 @@
   - [Visa brings onchain credit to its growing stablecoin card business](https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
   - [ClickFix Campaigns Abuse Legitimate Services for Persistent Access](https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access)
+- Dhole Moments
+  - [Multi-Track Fursuiting?!](https://soatok.blog/2026/09/08/multi-track-fursuiting/)
 - Fidelis Security
   - [Alert Prioritization in Security Operations: How Fidelis Helps Focus on the Threats That Matter](https://fidelissecurity.com/threatgeek/threat-detection-response/alert-prioritization-in-security-operations/)
 - Hacker News Frontpage
@@ -20,6 +25,7 @@
   - [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
   - [Do you think it happened? Research stolen from their Codex private chats](https://www.reddit.com/r/codex/s/psWHRr9864)
   - [LG TVs caught spying even when offline or on standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
+  - [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)
   - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
   - [OUI-1: world's first model for Generative UI](https://www.openui.com/blog/oui-1)
   - [Why I'm Not Excited About the Graphene OS and Motorola Partnership](https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership)
@@ -33,6 +39,7 @@
   - [Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/)
   - [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)
 - The Block
+  - [A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme](https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911)
   - [DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury](https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892)
 - The Decoder
   - [OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper](https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/)
@@ -42,6 +49,8 @@
   - [Nintendo isn’t scared of GTA VI](https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6)
   - [Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick](https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control)
   - [The White House pulls its racist Tetris clone](https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Microsoft and Adobe Patch Tuesday, September 2026 Security Update Review](https://blog.qualys.com/category/vulnerabilities-threat-research)
 - Wired
   - [Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK](https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/)
   - [Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone](https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/)
