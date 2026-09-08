@@ -5,10 +5,12 @@
   - [【💰】深夜睡不着接到一个电话](https://2libra.com/post/idea/0Ljts6V)
   - [中国移动 AI 灵犀口令：石榴尝鲜季 10-5、30-6、30-9](https://2libra.com/post/deal-hunter/9X6h9-N)
   - [你们那今天温度如何](https://2libra.com/post/personal-life/lsbXDRI)
+  - [分享一下本站 Catppuccin Mocha 主题配色](https://2libra.com/post/personal-works/xsi4rm9)
   - [各位老哥 TIBO 又要重置了 有没有能看到 TIBO 重置时间的网站呢](https://2libra.com/post/ai-companies/rnjx-sR)
   - [嘉立创的社群戾气有点重啊（血压高慎入）](https://2libra.com/post/tech-rumination/8M6ukY9)
   - [幼儿练字助手又又又又更新了，这次升级为全新的幼小衔接启蒙助手](https://2libra.com/post/personal-works/tywqssV)
   - [怎么评价小米澎程 N70/N90？](https://2libra.com/post/automobile/7Uvaf_D)
+  - [有没有好吃的榴莲月饼推荐](https://2libra.com/post/worth-buying/FxU_-Os)
   - [果然，过了 30 岁，不服老不行啊](https://2libra.com/post/personal-life/PSLamc7)
   - [注册赠送 50$](https://2libra.com/post/ai-gateway/zXeoFO7)
 - 404 Media
@@ -19,7 +21,10 @@
   - [Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade](https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ](https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart](https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK financial watchdog weighs lifting prediction markets ban: Report](https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart](https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [[Sponsor] Glyphs 4](https://glyphsapp.com/)
   - [Matt Birchler’s Folding iPhone Predictions](https://birchtree.me/blog/my-folding-iphone-predictions/)
@@ -49,7 +54,9 @@
 - johndcook.com
   - [Ngram error rate](https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/)
 - rtl-sdr.com
+  - [Cat2Web: Sync a Transceiver with WebSDR/KiwiSDR](https://www.rtl-sdr.com/cat2web-sync-a-transceiver-with-websdr-kiwisdr/)
   - [Instro: Python Hardware Instrumentation Library Adds RTL-SDR Support](https://www.rtl-sdr.com/instro-python-hardware-instrumentation-library-adds-rtl-sdr-support/)
+  - [The PZSDR Team Demonstrates 7-Board Phase Coherence](https://www.rtl-sdr.com/the-pzsdr-team-demonstrate-7-board-phase-coherence/)
 - simonwillison.net
   - [Creepy crawlies](https://simonwillison.net/2026/Sep/7/creepy-crawlies/)
   - [Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/)
@@ -117,12 +124,15 @@
   - [Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More](https://www.wired.com/story/tech-labor-day-sales-2026/)
   - [Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)
 - 不安全
+  - [Cat2Web: Sync a Transceiver with WebSDR/KiwiSDR](https://buaq.net/go-440754.html)
   - [raptor v3.1.0](https://buaq.net/go-440743.html)
+  - [The PZSDR Team Demonstrates 7-Board Phase Coherence](https://buaq.net/go-440755.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [深夜4小时，ChatGPT、Claude、Grok集体宕机：AI的根基正在动摇](https://www.anquanke.com/post/id/316083)
 - 爱范儿
+  - [AI 开始「互发微信」了，谁来管管它们？| AI 器物志](https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三](https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Cloudflare 现在支持部署更大的 Workers，免费和付费计划均可达到 64 MiB](https://blog.upx8.com/Cloudflare-%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81%E9%83%A8%E7%BD%B2%E6%9B%B4%E5%A4%A7%E7%9A%84-Workers-%E5%85%8D%E8%B4%B9%E5%92%8C%E4%BB%98%E8%B4%B9%E8%AE%A1%E5%88%92%E5%9D%87%E5%8F%AF%E8%BE%BE%E5%88%B0-64-MiB)
