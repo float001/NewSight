@@ -78,11 +78,17 @@
   - [Trezor Supply Chain Breach Now Impacts 81,000 Customers](https://www.infosecurity-magazine.com/news/trezor-supply-chain-breach-impacts/)
 - johndcook.com
   - [Ngram error rate](https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/)
+- MIT Technology Review
+  - [This AI entrepreneur is developing agents that can plan ahead for the unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/)
+  - [This founder is making cheaper, cleaner steel](https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/)
+  - [This geneticist’s age-reversal tech could help restore sight](https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/)
 - rtl-sdr.com
   - [Cat2Web: Sync a Transceiver with WebSDR/KiwiSDR](https://www.rtl-sdr.com/cat2web-sync-a-transceiver-with-websdr-kiwisdr/)
   - [Instro: Python Hardware Instrumentation Library Adds RTL-SDR Support](https://www.rtl-sdr.com/instro-python-hardware-instrumentation-library-adds-rtl-sdr-support/)
   - [OrcSDR: Running RTL-SDR Directly on an ESP32-P4](https://www.rtl-sdr.com/orcsdr-running-rtl-sdr-directly-on-an-esp32-p4/)
   - [The PZSDR Team Demonstrates 7-Board Phase Coherence](https://www.rtl-sdr.com/the-pzsdr-team-demonstrate-7-board-phase-coherence/)
+- Sec-News 安全文摘
+  - [WeWorm | The first zero-click worm to spread through WeChat calls across iOS and Android.](https://govuln.com/news/url/Y1Pv)
 - simonwillison.net
   - [Creepy crawlies](https://simonwillison.net/2026/Sep/7/creepy-crawlies/)
   - [Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/)
@@ -138,6 +144,7 @@
   - [Cronos says $9.2 million remains unrecovered after Tectonic exploit, chain rollback](https://www.theblock.co/news/ecosystems/2026-09-08-cronos-post-mortem-413724)
   - [Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form](https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716)
   - [Metaplanet slides 17% this week as CEO’s public note fails to ease investor concerns](https://www.theblock.co/news/markets/2026-09-08-metaplanet-slips-17-this-week-413738)
+  - [Polish prosecutors charge fifth suspect in Zondacrypto probe involving around $100 million in estimated losses](https://www.theblock.co/news/regulation/2026-09-08-polish-prosecutors-charge-fifth-suspect-in-zondacrypto-probe-involving-around-100-million-in-estimated-losses-413745)
   - [‘The chain is now earnings’: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain](https://www.theblock.co/news/markets/2026-09-08-bernstein-sees-upside-robinhood-413729)
 - The Decoder
   - [AI-designed drug appears to turn back the body's biological clock in early trial](https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/)
@@ -156,6 +163,7 @@
   - [Sitadel](https://vulners.com/gitee/DCA9C610-F760-5338-AF90-47E59408E15B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ysoserial](https://vulners.com/gitee/27301678-E340-5CEF-9FEE-F4352302CA52?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [5 Best Smart Speakers (2026): Alexa, Google, Apple](https://www.wired.com/story/best-smart-speakers/)
   - [Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More](https://www.wired.com/story/tech-labor-day-sales-2026/)
   - [Gen AI Tools Are Now Being Used to Push ‘Slop Jihad’](https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/)
   - [Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)
@@ -175,6 +183,7 @@
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537219&idx=2&sn=14cdeb8f74bdc143a5b65d01a79ac3e7)
 - 爱范儿
   - [AI 开始「互发微信」了，谁来管管它们？| AI 器物志](https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [就在明天！苹果折叠掀起史上最强新机发布潮](https://www.ifanr.com/1679021?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三](https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Cloudflare 现在支持部署更大的 Workers，免费和付费计划均可达到 64 MiB](https://blog.upx8.com/Cloudflare-%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81%E9%83%A8%E7%BD%B2%E6%9B%B4%E5%A4%A7%E7%9A%84-Workers-%E5%85%8D%E8%B4%B9%E5%92%8C%E4%BB%98%E8%B4%B9%E8%AE%A1%E5%88%92%E5%9D%87%E5%8F%AF%E8%BE%BE%E5%88%B0-64-MiB)
