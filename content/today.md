@@ -33,6 +33,7 @@
   - [Australia says it removed 45 crypto, remittance registrations over the past year](https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares](https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC](https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Circle to acquire Tazapay to expand USDC cross-border payments](https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cronos confirms $9.2M slipped away before Tectonic exploit rollback](https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade](https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -74,7 +75,9 @@
 - IEEE Spectrum
   - [Workshops Educate African Researchers On How to Publish With IEEE](https://spectrum.ieee.org/ieee-workshop-xplore-africa)
 - infosecurity-magazine.com
+  - [AI Coding Tools Now a Prime Target for Threat Actors, Google Warns](https://www.infosecurity-magazine.com/news/ai-coding-tools-threat-actors/)
   - [BigBear 2 PhaaS Campaign Steals 5000+ Microsoft Credentials](https://www.infosecurity-magazine.com/news/bigbear-2-phaas-5000-microsoft/)
+  - [THost9 Android RAT Pairs Packed Loader With ADB Worm](https://www.infosecurity-magazine.com/news/thost9-android-rat-packed-loader/)
   - [Trezor Supply Chain Breach Now Impacts 81,000 Customers](https://www.infosecurity-magazine.com/news/trezor-supply-chain-breach-impacts/)
 - johndcook.com
   - [Ngram error rate](https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/)
@@ -89,6 +92,8 @@
   - [The PZSDR Team Demonstrates 7-Board Phase Coherence](https://www.rtl-sdr.com/the-pzsdr-team-demonstrate-7-board-phase-coherence/)
 - Sec-News 安全文摘
   - [WeWorm | The first zero-click worm to spread through WeChat calls across iOS and Android.](https://govuln.com/news/url/Y1Pv)
+- shkspr.mobi
+  - [ActivityPub - Is it worth defending against replay attacks and message/signature time skew?](https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/)
 - simonwillison.net
   - [Creepy crawlies](https://simonwillison.net/2026/Sep/7/creepy-crawlies/)
   - [Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/)
@@ -145,6 +150,7 @@
   - [Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form](https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716)
   - [Metaplanet slides 17% this week as CEO’s public note fails to ease investor concerns](https://www.theblock.co/news/markets/2026-09-08-metaplanet-slips-17-this-week-413738)
   - [Polish prosecutors charge fifth suspect in Zondacrypto probe involving around $100 million in estimated losses](https://www.theblock.co/news/regulation/2026-09-08-polish-prosecutors-charge-fifth-suspect-in-zondacrypto-probe-involving-around-100-million-in-estimated-losses-413745)
+  - [Visa stablecoin settlement tops $20 billion annualized run rate, up more than 15x year over year](https://www.theblock.co/news/business/2026-09-08-visa-stablecoin-settlement-tops-20-billion-annualized-run-rate-up-more-than-15x-year-over-year-413749)
   - [‘The chain is now earnings’: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain](https://www.theblock.co/news/markets/2026-09-08-bernstein-sees-upside-robinhood-413729)
 - The Decoder
   - [AI-designed drug appears to turn back the body's biological clock in early trial](https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/)
@@ -153,8 +159,10 @@
   - [GPT-6 Astra beat Portal start to finish without human help in under 24 hours](https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/)
   - [Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals](https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/)
 - The Verge
+  - [Apple says ‘Fold’ and competitors ask ‘how wide?’](https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus)
   - [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price)
   - [First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3)
+  - [LG TVs caught spying even when offline or on standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
   - [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones)
   - [Xiaomi’s wide foldable promises more power than Samsung’s](https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide)
 - Vulners.com RSS Feed
@@ -176,6 +184,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [小鼠实验显示 GLP-1 减肥药或有助于延缓衰老](https://www.solidot.org/story?sid=85314)
+  - [澳大利亚想要社媒平台允许用户退出算法驱动的信息流](https://www.solidot.org/story?sid=85320)
 - 安全客
   - [深夜4小时，ChatGPT、Claude、Grok集体宕机：AI的根基正在动摇](https://www.anquanke.com/post/id/316083)
 - 火绒安全实验室
