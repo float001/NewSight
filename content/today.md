@@ -10,7 +10,9 @@
   - [【💰】让 Astra 做了一个榨干 Github 能力的分享倒数日项目，给生活找点盼头](https://2libra.com/post/open-source-sharing/c3xjGmJ)
   - [不要悲伤，你失去的任何东西都会以另一种形式回来](https://2libra.com/post/mental-health/55fmNxT)
   - [中国移动 AI 灵犀口令：石榴尝鲜季 10-5、30-6、30-9](https://2libra.com/post/deal-hunter/9X6h9-N)
+  - [今天在路上看见她了](https://2libra.com/post/love/2byc7Gv)
   - [你们那今天温度如何](https://2libra.com/post/personal-life/lsbXDRI)
+  - [你喜欢猪猪女孩吗](https://2libra.com/post/slacking-off/tS9vCk5)
   - [冷麻了](https://2libra.com/post/small-things/ZYkjXZn)
   - [分享一下本站 Catppuccin Mocha 主题配色](https://2libra.com/post/personal-works/xsi4rm9)
   - [各位老哥 TIBO 又要重置了 有没有能看到 TIBO 重置时间的网站呢](https://2libra.com/post/ai-companies/rnjx-sR)
@@ -39,8 +41,10 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ](https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart](https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Mexico quadruple homicide tied to alleged Bitcoin robbery attempt](https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New Bitcoin whales spark sell-side risk as unrealized gains hit $9B](https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood chain to generate $160M in annual fees by 2028: Bernstein](https://cointelegraph.com/news/robinhood-chain-160m-annual-fees-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares](https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Swiss stablecoin sandbox enters testing phase, adds two new partners](https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK financial watchdog weighs lifting prediction markets ban: Report](https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -77,11 +81,13 @@
 - infosecurity-magazine.com
   - [AI Coding Tools Now a Prime Target for Threat Actors, Google Warns](https://www.infosecurity-magazine.com/news/ai-coding-tools-threat-actors/)
   - [BigBear 2 PhaaS Campaign Steals 5000+ Microsoft Credentials](https://www.infosecurity-magazine.com/news/bigbear-2-phaas-5000-microsoft/)
+  - [Grindr Settles UK Data Privacy Claims for £26m](https://www.infosecurity-magazine.com/news/grindr-settles-uk-data-privacy/)
   - [THost9 Android RAT Pairs Packed Loader With ADB Worm](https://www.infosecurity-magazine.com/news/thost9-android-rat-packed-loader/)
   - [Trezor Supply Chain Breach Now Impacts 81,000 Customers](https://www.infosecurity-magazine.com/news/trezor-supply-chain-breach-impacts/)
 - johndcook.com
   - [Ngram error rate](https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/)
 - MIT Technology Review
+  - [The Download: our 35 Innovators Under 35 this year](https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/)
   - [This AI entrepreneur is developing agents that can plan ahead for the unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/)
   - [This founder is making cheaper, cleaner steel](https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/)
   - [This geneticist’s age-reversal tech could help restore sight](https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/)
@@ -145,11 +151,13 @@
   - [A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/)
   - [Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch](https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/)
   - [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
+  - [Poseidon Aerospace lands $60M ahead of first pilotless test flight](https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/)
 - The Block
   - [Cronos says $9.2 million remains unrecovered after Tectonic exploit, chain rollback](https://www.theblock.co/news/ecosystems/2026-09-08-cronos-post-mortem-413724)
   - [Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form](https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716)
   - [Metaplanet slides 17% this week as CEO’s public note fails to ease investor concerns](https://www.theblock.co/news/markets/2026-09-08-metaplanet-slips-17-this-week-413738)
   - [Polish prosecutors charge fifth suspect in Zondacrypto probe involving around $100 million in estimated losses](https://www.theblock.co/news/regulation/2026-09-08-polish-prosecutors-charge-fifth-suspect-in-zondacrypto-probe-involving-around-100-million-in-estimated-losses-413745)
+  - [Strategy repurchases $176 million of STRC shares, makes no bitcoin purchases or sales](https://www.theblock.co/news/business/2026-09-08-strategy-bitcoin-strc-repurchase-program-413678)
   - [Visa stablecoin settlement tops $20 billion annualized run rate, up more than 15x year over year](https://www.theblock.co/news/business/2026-09-08-visa-stablecoin-settlement-tops-20-billion-annualized-run-rate-up-more-than-15x-year-over-year-413749)
   - [‘The chain is now earnings’: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain](https://www.theblock.co/news/markets/2026-09-08-bernstein-sees-upside-robinhood-413729)
 - The Decoder
@@ -159,6 +167,7 @@
   - [GPT-6 Astra beat Portal start to finish without human help in under 24 hours](https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/)
   - [Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals](https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/)
 - The Verge
+  - [Adobe is trying to make its AI generators idiot-proof in Premiere](https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere)
   - [Apple says ‘Fold’ and competitors ask ‘how wide?’](https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus)
   - [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price)
   - [First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3)
@@ -169,6 +178,18 @@
   - [aeBPF2-analysis](https://vulners.com/githubexploit/315DA6E7-4779-50B5-BC34-65282F75B8A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [php-saml](https://vulners.com/gitee/44BF059C-E354-55CF-BDD6-4FEA049C01CE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Sitadel](https://vulners.com/gitee/DCA9C610-F760-5338-AF90-47E59408E15B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the CommuniGate Pro mail server arises from insufficient access control checks when processing specially crafted requests, allowing a malicious actor to perform unauthorized modifications to the server’s data.](https://vulners.com/bdu_fstec/BDU:2026-10694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the control console of the MaxPatrol EDR detection and response system allows a perpetrator to trigger a service failure.](https://vulners.com/bdu_fstec/BDU:2026-11660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the DIAFAN.CMS content management system lies in the lack of protective measures for the SQL query structure, allowing attackers to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-11903?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the h2 library in the Rust programming language, related to uncontrolled resource consumption, allows attackers to cause service failures.](https://vulners.com/bdu_fstec/BDU:2026-11885?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the platform for creating individual web applications in CRM involves a lack of measures to protect the SQL query structure, allowing attackers to compromise the confidentiality, integrity, and accessibility of the protected information.](https://vulners.com/bdu_fstec/BDU:2026-13740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the platform for creating individual web applications in CRM involves an incorrect restriction on the path to the catalog, allowing attackers to delete arbitrary files.](https://vulners.com/bdu_fstec/BDU:2026-13739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the platform for creating individual web applications in CRM systems is related to deficiencies in authentication procedures. This allows attackers to bypass existing security mechanisms and gain unauthorized access to protected information.](https://vulners.com/bdu_fstec/BDU:2026-13741?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the platform for creating individual web applications in CRM. The leader involved in this issue faces unlimited distribution of resources, allowing attackers to compromise the accessibility of protected information.](https://vulners.com/bdu_fstec/BDU:2026-13742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the “Tekon” SCADA system, related to the incorrect assignment of permissions for critical resources, allows for the increase of its privileges.](https://vulners.com/bdu_fstec/BDU:2026-10382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the “Tekon” SCADA system, which exists due to the lack of measures to neutralize specific elements, allows for the execution of arbitrary codes.](https://vulners.com/bdu_fstec/BDU:2026-10383?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Vulnerability of the “KOMTEK Cassa Kurier” module of the 1C-Bitrix content management system: Website management related to the lack of authentication for critical functions, allowing attackers to compromise the integrity and accessibility of protected information](https://vulners.com/bdu_fstec/BDU:2026-10202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Vulnerability of “Before and After Photos”: Comparison of images before/after by a content management system (CMS) like 1C-Bitrix. This feature allows unauthorized users to execute arbitrary code by enabling unlimited uploading of dangerous types of files.](https://vulners.com/bdu_fstec/BDU:2026-10201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ysoserial](https://vulners.com/gitee/27301678-E340-5CEF-9FEE-F4352302CA52?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [5 Best Smart Speakers (2026): Alexa, Google, Apple](https://www.wired.com/story/best-smart-speakers/)
@@ -178,6 +199,7 @@
   - [Insta360 X6 Review (2026): A Great 360 and Action Camera Hybrid](https://www.wired.com/review/insta360-x6-camera/)
 - 不安全
   - [Cat2Web: Sync a Transceiver with WebSDR/KiwiSDR](https://buaq.net/go-440754.html)
+  - [Dark-Moon v1.4.0](https://buaq.net/go-440857.html)
   - [raptor v3.1.0](https://buaq.net/go-440743.html)
   - [The PZSDR Team Demonstrates 7-Board Phase Coherence](https://buaq.net/go-440755.html)
 - 代码审计星球
@@ -200,3 +222,4 @@
   - [安卓版PS3模拟器修复导致手机发热的问题](https://blog.upx8.com/%E5%AE%89%E5%8D%93%E7%89%88PS3%E6%A8%A1%E6%8B%9F%E5%99%A8%E4%BF%AE%E5%A4%8D%E5%AF%BC%E8%87%B4%E6%89%8B%E6%9C%BA%E5%8F%91%E7%83%AD%E7%9A%84%E9%97%AE%E9%A2%98)
   - [折叠屏iPhone初期产量受限 每日仅数百部](https://blog.upx8.com/%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E5%88%9D%E6%9C%9F%E4%BA%A7%E9%87%8F%E5%8F%97%E9%99%90-%E6%AF%8F%E6%97%A5%E4%BB%85%E6%95%B0%E7%99%BE%E9%83%A8)
   - [涉嫌非法转移芯片技术 中国男子乘机返京前在布鲁塞尔被捕](https://blog.upx8.com/%E6%B6%89%E5%AB%8C%E9%9D%9E%E6%B3%95%E8%BD%AC%E7%A7%BB%E8%8A%AF%E7%89%87%E6%8A%80%E6%9C%AF-%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E4%B9%98%E6%9C%BA%E8%BF%94%E4%BA%AC%E5%89%8D%E5%9C%A8%E5%B8%83%E9%B2%81%E5%A1%9E%E5%B0%94%E8%A2%AB%E6%8D%95)
+  - [经合组织：使用AI的在校学生考试成绩更差](https://blog.upx8.com/%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87-%E4%BD%BF%E7%94%A8AI%E7%9A%84%E5%9C%A8%E6%A0%A1%E5%AD%A6%E7%94%9F%E8%80%83%E8%AF%95%E6%88%90%E7%BB%A9%E6%9B%B4%E5%B7%AE)
