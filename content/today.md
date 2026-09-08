@@ -3,6 +3,9 @@
 - 2Libra
   - [【💰】深夜睡不着接到一个电话](https://2libra.com/post/idea/0Ljts6V)
   - [各位老哥 TIBO 又要重置了 有没有能看到 TIBO 重置时间的网站呢](https://2libra.com/post/ai-companies/rnjx-sR)
+  - [嘉立创的社群戾气有点重啊（血压高慎入）](https://2libra.com/post/tech-rumination/8M6ukY9)
+  - [幼儿练字助手又又又又更新了，这次升级为全新的幼小衔接启蒙助手](https://2libra.com/post/personal-works/tywqssV)
+  - [果然，过了 30 岁，不服老不行啊](https://2libra.com/post/personal-life/PSLamc7)
 - 404 Media
   - [We Are Going to Be Okay: A Three Year Anniversary Events Recap](https://www.404media.co/three-year-anniversary-events-recap-2/)
 - CoinTelegraph
@@ -25,6 +28,7 @@
   - [How to Test a DDoS Incident Response Playbook with Tabletop Exercises](https://fidelissecurity.com/threatgeek/threat-detection-response/ddos-incident-response/)
 - Hacker News Frontpage
   - [AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
+  - [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
   - [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
   - [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
   - [Tesla killing Solar Roof is leaving installers with six-figure losses](https://electrek.co/2026/09/01/tesla-solar-roof-exit-installers-losses/)
@@ -44,16 +48,46 @@
   - [Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/)
 - Sploitus.com Exploits RSS Feed
   - [aeBPF2-analysis exploit](https://sploitus.com/exploit?id=315DA6E7-4779-50B5-BC34-65282F75B8A3&utm_source=rss&utm_medium=rss)
+  - [amt_auth_bypass_poc exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EMBEDI-AMT_AUTH_BYPASS_POC&utm_source=rss&utm_medium=rss)
   - [blueshrimp exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZHUOWEI-BLUESHRIMP&utm_source=rss&utm_medium=rss)
+  - [CUPS-Exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DJJOHNSON565-CUPS-EXPLOIT&utm_source=rss&utm_medium=rss)
+  - [cve-2017-2636-el exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALEXZORIN-CVE-2017-2636-EL&utm_source=rss&utm_medium=rss)
+  - [CVE-2018-7600 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HAPPYNOTE3966-CVE-2018-7600&utm_source=rss&utm_medium=rss)
+  - [CVE-2020-5142-POC-MB exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HACKERLAWYER-CVE-2020-5142-POC-MB&utm_source=rss&utm_medium=rss)
+  - [CVE-2021-22555 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WHATSWRONGANDWHY-CVE-2021-22555&utm_source=rss&utm_medium=rss)
+  - [CVE-2021-25646 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LP008-CVE-2021-25646&utm_source=rss&utm_medium=rss)
+  - [CVE-2021-41773-Apache_2.4.49-Path-traversal-to-RCE exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CYBERQUESTOR-INFOSEC-CVE-2021-41773-APACHE_2.4.49-PATH-TRAVERSAL-TO-RCE&utm_source=rss&utm_medium=rss)
+  - [CVE-2022-24481-POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FR4NKXIXI-CVE-2022-24481-POC&utm_source=rss&utm_medium=rss)
+  - [CVE-2022-24715-go exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-D4RKB0N3-CVE-2022-24715-GO&utm_source=rss&utm_medium=rss)
+  - [CVE-2023-27842 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-COWSECURITY-CVE-2023-27842&utm_source=rss&utm_medium=rss)
+  - [CVE-2023-42326 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BL4CKARCH-CVE-2023-42326&utm_source=rss&utm_medium=rss)
+  - [CVE-2024-11616 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-INB1TS-CVE-2024-11616&utm_source=rss&utm_medium=rss)
+  - [CVE-2024-44258 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IFPDZ-CVE-2024-44258&utm_source=rss&utm_medium=rss)
+  - [CVE-2024-6387-Check exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DEVARSHISHIMPI-CVE-2024-6387-CHECK&utm_source=rss&utm_medium=rss)
   - [CVE-2025-49132-Mods exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MALW0RE-CVE-2025-49132-MODS&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-49144_PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THETORJANCAPTAIN-CVE-2025-49144_POC&utm_source=rss&utm_medium=rss)
   - [CVE-2026-42527 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OSCERD-CVE-2026-42527&utm_source=rss&utm_medium=rss)
   - [CVE-2026-43499 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MOBIUSM-CVE-2026-43499&utm_source=rss&utm_medium=rss)
+  - [drupalgeddon2 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JIROJO2-DRUPALGEDDON2&utm_source=rss&utm_medium=rss)
+  - [exfil-scan exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-VIKASUDASI-EXFIL-SCAN&utm_source=rss&utm_medium=rss)
+  - [f5_scanner exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CRISTIANO-CORRADO-F5_SCANNER&utm_source=rss&utm_medium=rss)
+  - [IngressNightmare-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LUFEIRIDER-INGRESSNIGHTMARE-POC&utm_source=rss&utm_medium=rss)
+  - [ioc-scanner-CVE-2019-19781 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CITRIX-IOC-SCANNER-CVE-2019-19781&utm_source=rss&utm_medium=rss)
+  - [kernel-c-to-rust-spike exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RUNTIMEVERIFICATION-KERNEL-C-TO-RUST-SPIKE&utm_source=rss&utm_medium=rss)
+  - [libssh-scanner exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IVANACOSTARUBIO-LIBSSH-SCANNER&utm_source=rss&utm_medium=rss)
   - [mitmproxy exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MITMPROXY-MITMPROXY&utm_source=rss&utm_medium=rss)
+  - [nextjs-cve-2026-44578 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LOVE07OJ-NEXTJS-CVE-2026-44578&utm_source=rss&utm_medium=rss)
   - [openssh-portable exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OPENSSH-OPENSSH-PORTABLE&utm_source=rss&utm_medium=rss)
+  - [PHP-CVE-2023-2023-2640-POC-Escalation exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DRUXTER-X-PHP-CVE-2023-2023-2640-POC-ESCALATION&utm_source=rss&utm_medium=rss)
   - [php-saml exploit](https://sploitus.com/exploit?id=44BF059C-E354-55CF-BDD6-4FEA049C01CE&utm_source=rss&utm_medium=rss)
+  - [Public_Poc exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0XMRSECURITY-PUBLIC_POC&utm_source=rss&utm_medium=rss)
+  - [RelayKing-Depth exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DEPTHSECURITY-RELAYKING-DEPTH&utm_source=rss&utm_medium=rss)
   - [Sitadel exploit](https://sploitus.com/exploit?id=DCA9C610-F760-5338-AF90-47E59408E15B&utm_source=rss&utm_medium=rss)
   - [SnafflerParser exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZH54321-SNAFFLERPARSER&utm_source=rss&utm_medium=rss)
   - [twoface exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SYNACKTIV-TWOFACE&utm_source=rss&utm_medium=rss)
+  - [wrongsecrets-binaries exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OWASP-WRONGSECRETS-BINARIES&utm_source=rss&utm_medium=rss)
+  - [xss-payloads-rep exploit](https://sploitus.com/exploit?id=9CBBC6CE-8D37-5C51-8EBA-7F5092DAFCFB&utm_source=rss&utm_medium=rss)
+  - [ysoserial exploit](https://sploitus.com/exploit?id=27301678-E340-5CEF-9FEE-F4352302CA52&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/)
   - [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
@@ -64,14 +98,18 @@
   - [GPT-6 Astra beat Portal start to finish without human help in under 24 hours](https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/)
 - The Verge
   - [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price)
+  - [First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3)
   - [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones)
 - Vulners.com RSS Feed
   - [aeBPF2-analysis](https://vulners.com/githubexploit/315DA6E7-4779-50B5-BC34-65282F75B8A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [php-saml](https://vulners.com/gitee/44BF059C-E354-55CF-BDD6-4FEA049C01CE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Sitadel](https://vulners.com/gitee/DCA9C610-F760-5338-AF90-47E59408E15B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ysoserial](https://vulners.com/gitee/27301678-E340-5CEF-9FEE-F4352302CA52?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More](https://www.wired.com/story/tech-labor-day-sales-2026/)
   - [Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)
+- 不安全
+  - [raptor v3.1.0](https://buaq.net/go-440743.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
@@ -79,4 +117,6 @@
 - 爱范儿
   - [早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三](https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [Cloudflare 现在支持部署更大的 Workers，免费和付费计划均可达到 64 MiB](https://blog.upx8.com/Cloudflare-%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81%E9%83%A8%E7%BD%B2%E6%9B%B4%E5%A4%A7%E7%9A%84-Workers-%E5%85%8D%E8%B4%B9%E5%92%8C%E4%BB%98%E8%B4%B9%E8%AE%A1%E5%88%92%E5%9D%87%E5%8F%AF%E8%BE%BE%E5%88%B0-64-MiB)
   - [又有两家新闻机构起诉OpenAI和微软](https://blog.upx8.com/%E5%8F%88%E6%9C%89%E4%B8%A4%E5%AE%B6%E6%96%B0%E9%97%BB%E6%9C%BA%E6%9E%84%E8%B5%B7%E8%AF%89OpenAI%E5%92%8C%E5%BE%AE%E8%BD%AF)
+  - [安卓版PS3模拟器修复导致手机发热的问题](https://blog.upx8.com/%E5%AE%89%E5%8D%93%E7%89%88PS3%E6%A8%A1%E6%8B%9F%E5%99%A8%E4%BF%AE%E5%A4%8D%E5%AF%BC%E8%87%B4%E6%89%8B%E6%9C%BA%E5%8F%91%E7%83%AD%E7%9A%84%E9%97%AE%E9%A2%98)
