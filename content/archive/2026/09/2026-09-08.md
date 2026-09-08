@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【💰】深夜睡不着接到一个电话](https://2libra.com/post/idea/0Ljts6V)
+  - [各位老哥 TIBO 又要重置了 有没有能看到 TIBO 重置时间的网站呢](https://2libra.com/post/ai-companies/rnjx-sR)
 - 404 Media
   - [We Are Going to Be Okay: A Three Year Anniversary Events Recap](https://www.404media.co/three-year-anniversary-events-recap-2/)
 - CoinTelegraph
@@ -42,6 +43,7 @@
   - [Creepy crawlies](https://simonwillison.net/2026/Sep/7/creepy-crawlies/)
   - [Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/)
 - Sploitus.com Exploits RSS Feed
+  - [aeBPF2-analysis exploit](https://sploitus.com/exploit?id=315DA6E7-4779-50B5-BC34-65282F75B8A3&utm_source=rss&utm_medium=rss)
   - [blueshrimp exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZHUOWEI-BLUESHRIMP&utm_source=rss&utm_medium=rss)
   - [CVE-2025-49132-Mods exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MALW0RE-CVE-2025-49132-MODS&utm_source=rss&utm_medium=rss)
   - [CVE-2026-42527 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OSCERD-CVE-2026-42527&utm_source=rss&utm_medium=rss)
@@ -49,6 +51,7 @@
   - [mitmproxy exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MITMPROXY-MITMPROXY&utm_source=rss&utm_medium=rss)
   - [openssh-portable exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OPENSSH-OPENSSH-PORTABLE&utm_source=rss&utm_medium=rss)
   - [php-saml exploit](https://sploitus.com/exploit?id=44BF059C-E354-55CF-BDD6-4FEA049C01CE&utm_source=rss&utm_medium=rss)
+  - [Sitadel exploit](https://sploitus.com/exploit?id=DCA9C610-F760-5338-AF90-47E59408E15B&utm_source=rss&utm_medium=rss)
   - [SnafflerParser exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZH54321-SNAFFLERPARSER&utm_source=rss&utm_medium=rss)
   - [twoface exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SYNACKTIV-TWOFACE&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -63,7 +66,9 @@
   - [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price)
   - [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones)
 - Vulners.com RSS Feed
+  - [aeBPF2-analysis](https://vulners.com/githubexploit/315DA6E7-4779-50B5-BC34-65282F75B8A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [php-saml](https://vulners.com/gitee/44BF059C-E354-55CF-BDD6-4FEA049C01CE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Sitadel](https://vulners.com/gitee/DCA9C610-F760-5338-AF90-47E59408E15B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More](https://www.wired.com/story/tech-labor-day-sales-2026/)
   - [Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)
@@ -71,5 +76,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [深夜4小时，ChatGPT、Claude、Grok集体宕机：AI的根基正在动摇](https://www.anquanke.com/post/id/316083)
+- 爱范儿
+  - [早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三](https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [又有两家新闻机构起诉OpenAI和微软](https://blog.upx8.com/%E5%8F%88%E6%9C%89%E4%B8%A4%E5%AE%B6%E6%96%B0%E9%97%BB%E6%9C%BA%E6%9E%84%E8%B5%B7%E8%AF%89OpenAI%E5%92%8C%E5%BE%AE%E8%BD%AF)
