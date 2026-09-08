@@ -4,6 +4,8 @@
   - [2026 年 10 个接码平台汇总（临时号码和长期号码）](https://2libra.com/post/tools-sharing/vARYVsB)
   - [dsv4.1f 好快](https://2libra.com/post/large-models/h_9VwQF)
   - [WorkBuddy 上线了更换皮肤功能，不能我一个人被雷，都来看看](https://2libra.com/post/sharing-discoveries/ucDbsFM)
+  - [【💰】CCG Gateway - Agent 皆插件的网关路由 + 管理工具，支持 10+ Agent 接入](https://2libra.com/post/open-source-sharing/CpTAgdI)
+  - [【💰】CodeX 每天闲置的余额大家都干点什么](https://2libra.com/post/side-business/YRDyNB1)
   - [【💰】深夜睡不着接到一个电话](https://2libra.com/post/idea/0Ljts6V)
   - [【💰】让 Astra 做了一个榨干 Github 能力的分享倒数日项目，给生活找点盼头](https://2libra.com/post/open-source-sharing/c3xjGmJ)
   - [不要悲伤，你失去的任何东西都会以另一种形式回来](https://2libra.com/post/mental-health/55fmNxT)
@@ -15,6 +17,7 @@
   - [嘉立创的社群戾气有点重啊（血压高慎入）](https://2libra.com/post/tech-rumination/8M6ukY9)
   - [天塌了 今天老婆和我坦白欠了 18 个 w](https://2libra.com/post/family/6JlhGqj)
   - [好迷茫啊，上班好无聊！](https://2libra.com/post/ai-tools/W9QvzMT)
+  - [实在添加新功能么？](https://2libra.com/post/forum-function/4SbMC1i)
   - [幼儿练字助手又又又又更新了，这次升级为全新的幼小衔接启蒙助手](https://2libra.com/post/personal-works/tywqssV)
   - [怎么评价小米澎程 N70/N90？](https://2libra.com/post/automobile/7Uvaf_D)
   - [总觉得小米 N90Max 很适合用来搬家](https://2libra.com/post/phone/MN54P47)
@@ -35,6 +38,8 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ](https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart](https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [New Bitcoin whales spark sell-side risk as unrealized gains hit $9B](https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Robinhood chain to generate $160M in annual fees by 2028: Bernstein](https://cointelegraph.com/news/robinhood-chain-160m-annual-fees-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Swiss stablecoin sandbox enters testing phase, adds two new partners](https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK financial watchdog weighs lifting prediction markets ban: Report](https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -68,6 +73,9 @@
   - [I found an old interview mine (2017)](https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude)
 - IEEE Spectrum
   - [Workshops Educate African Researchers On How to Publish With IEEE](https://spectrum.ieee.org/ieee-workshop-xplore-africa)
+- infosecurity-magazine.com
+  - [BigBear 2 PhaaS Campaign Steals 5000+ Microsoft Credentials](https://www.infosecurity-magazine.com/news/bigbear-2-phaas-5000-microsoft/)
+  - [Trezor Supply Chain Breach Now Impacts 81,000 Customers](https://www.infosecurity-magazine.com/news/trezor-supply-chain-breach-impacts/)
 - johndcook.com
   - [Ngram error rate](https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/)
 - rtl-sdr.com
@@ -129,6 +137,7 @@
 - The Block
   - [Cronos says $9.2 million remains unrecovered after Tectonic exploit, chain rollback](https://www.theblock.co/news/ecosystems/2026-09-08-cronos-post-mortem-413724)
   - [Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form](https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716)
+  - [Metaplanet slides 17% this week as CEO’s public note fails to ease investor concerns](https://www.theblock.co/news/markets/2026-09-08-metaplanet-slips-17-this-week-413738)
   - [‘The chain is now earnings’: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain](https://www.theblock.co/news/markets/2026-09-08-bernstein-sees-upside-robinhood-413729)
 - The Decoder
   - [AI-designed drug appears to turn back the body's biological clock in early trial](https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/)
@@ -148,7 +157,9 @@
   - [ysoserial](https://vulners.com/gitee/27301678-E340-5CEF-9FEE-F4352302CA52?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More](https://www.wired.com/story/tech-labor-day-sales-2026/)
+  - [Gen AI Tools Are Now Being Used to Push ‘Slop Jihad’](https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/)
   - [Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)
+  - [Insta360 X6 Review (2026): A Great 360 and Action Camera Hybrid](https://www.wired.com/review/insta360-x6-camera/)
 - 不安全
   - [Cat2Web: Sync a Transceiver with WebSDR/KiwiSDR](https://buaq.net/go-440754.html)
   - [raptor v3.1.0](https://buaq.net/go-440743.html)
@@ -159,6 +170,9 @@
   - [小鼠实验显示 GLP-1 减肥药或有助于延缓衰老](https://www.solidot.org/story?sid=85314)
 - 安全客
   - [深夜4小时，ChatGPT、Claude、Grok集体宕机：AI的根基正在动摇](https://www.anquanke.com/post/id/316083)
+- 火绒安全实验室
+  - [盯上网吧终端：挖矿木马借漏洞驱动窃取游戏账号凭证](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537219&idx=1&sn=d36fc5d01f4400acad7aaf9e0cdd0066)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537219&idx=2&sn=14cdeb8f74bdc143a5b65d01a79ac3e7)
 - 爱范儿
   - [AI 开始「互发微信」了，谁来管管它们？| AI 器物志](https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三](https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=)
