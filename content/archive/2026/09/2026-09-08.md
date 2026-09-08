@@ -33,11 +33,13 @@
   - [Why the AfD Wins](https://firstthings.com/why-the-afd-wins/)
 - idiallo.com
   - [Clickable whitespace](https://idiallo.com/blog/clickable-whitespace)
+  - [I found an old interview mine (2017)](https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude)
 - IEEE Spectrum
   - [Workshops Educate African Researchers On How to Publish With IEEE](https://spectrum.ieee.org/ieee-workshop-xplore-africa)
 - johndcook.com
   - [Ngram error rate](https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/)
 - simonwillison.net
+  - [Creepy crawlies](https://simonwillison.net/2026/Sep/7/creepy-crawlies/)
   - [Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/)
 - Sploitus.com Exploits RSS Feed
   - [blueshrimp exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZHUOWEI-BLUESHRIMP&utm_source=rss&utm_medium=rss)
