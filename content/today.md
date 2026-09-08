@@ -12,9 +12,11 @@
   - [分享一下本站 Catppuccin Mocha 主题配色](https://2libra.com/post/personal-works/xsi4rm9)
   - [各位老哥 TIBO 又要重置了 有没有能看到 TIBO 重置时间的网站呢](https://2libra.com/post/ai-companies/rnjx-sR)
   - [嘉立创的社群戾气有点重啊（血压高慎入）](https://2libra.com/post/tech-rumination/8M6ukY9)
+  - [天塌了 今天老婆和我坦白欠了 18 个 w](https://2libra.com/post/family/6JlhGqj)
   - [幼儿练字助手又又又又更新了，这次升级为全新的幼小衔接启蒙助手](https://2libra.com/post/personal-works/tywqssV)
   - [怎么评价小米澎程 N70/N90？](https://2libra.com/post/automobile/7Uvaf_D)
   - [总觉得小米 N90Max 很适合用来搬家](https://2libra.com/post/phone/MN54P47)
+  - [想问下各位大佬 Kimi 和 GLM 哪个额度划算些](https://2libra.com/post/ai-tools/2mZDd5v)
   - [有没有好吃的榴莲月饼推荐](https://2libra.com/post/worth-buying/FxU_-Os)
   - [果然，过了 30 岁，不服老不行啊](https://2libra.com/post/personal-life/PSLamc7)
   - [注册赠送 50$](https://2libra.com/post/ai-gateway/zXeoFO7)
@@ -28,6 +30,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ](https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart](https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Swiss stablecoin sandbox enters testing phase, adds two new partners](https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK financial watchdog weighs lifting prediction markets ban: Report](https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart](https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
@@ -123,6 +126,7 @@
   - [Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk](https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/)
   - [ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades](https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/)
   - [GPT-6 Astra beat Portal start to finish without human help in under 24 hours](https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/)
+  - [Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals](https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/)
 - The Verge
   - [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price)
   - [First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3)
@@ -153,3 +157,4 @@
   - [Cloudflare 现在支持部署更大的 Workers，免费和付费计划均可达到 64 MiB](https://blog.upx8.com/Cloudflare-%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81%E9%83%A8%E7%BD%B2%E6%9B%B4%E5%A4%A7%E7%9A%84-Workers-%E5%85%8D%E8%B4%B9%E5%92%8C%E4%BB%98%E8%B4%B9%E8%AE%A1%E5%88%92%E5%9D%87%E5%8F%AF%E8%BE%BE%E5%88%B0-64-MiB)
   - [又有两家新闻机构起诉OpenAI和微软](https://blog.upx8.com/%E5%8F%88%E6%9C%89%E4%B8%A4%E5%AE%B6%E6%96%B0%E9%97%BB%E6%9C%BA%E6%9E%84%E8%B5%B7%E8%AF%89OpenAI%E5%92%8C%E5%BE%AE%E8%BD%AF)
   - [安卓版PS3模拟器修复导致手机发热的问题](https://blog.upx8.com/%E5%AE%89%E5%8D%93%E7%89%88PS3%E6%A8%A1%E6%8B%9F%E5%99%A8%E4%BF%AE%E5%A4%8D%E5%AF%BC%E8%87%B4%E6%89%8B%E6%9C%BA%E5%8F%91%E7%83%AD%E7%9A%84%E9%97%AE%E9%A2%98)
+  - [折叠屏iPhone初期产量受限 每日仅数百部](https://blog.upx8.com/%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E5%88%9D%E6%9C%9F%E4%BA%A7%E9%87%8F%E5%8F%97%E9%99%90-%E6%AF%8F%E6%97%A5%E4%BB%85%E6%95%B0%E7%99%BE%E9%83%A8)
