@@ -30,15 +30,18 @@
 - 360 Netlab Blog - 360
   - [金融行业网络安全监测月报(202608)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202608/)
 - 404 Media
+  - [A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over](https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/)
   - [We Are Going to Be Okay: A Three Year Anniversary Events Recap](https://www.404media.co/three-year-anniversary-events-recap-2/)
 - CoinTelegraph
   - [Australia says it removed 45 crypto, remittance registrations over the past year](https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares](https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitmine buys 28k ETH, completes 97% of treasury accumulation goal](https://cointelegraph.com/news/bitmine-buys-28k-eth-completes-97-treasury-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC](https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Circle to acquire Tazapay to expand USDC cross-border payments](https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cronos confirms $9.2M slipped away before Tectonic exploit rollback](https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade](https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Is Bitcoin too volatile to risk your retirement on?](https://cointelegraph.com/magazine/is-bitcoin-too-volatile-to-risk-your-retirement-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ](https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart](https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mexico quadruple homicide tied to alleged Bitcoin robbery attempt](https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -61,12 +64,16 @@
   - [Condé Nast Data of 32.8 Million Users Offered for Sale After WIRED Leak](https://securityaffairs.com/198628/data-breach/conde-nast-data-of-32-8-million-users-offered-for-sale-after-wired-leak.html)
 - Fidelis Security
   - [How to Test a DDoS Incident Response Playbook with Tabletop Exercises](https://fidelissecurity.com/threatgeek/threat-detection-response/ddos-incident-response/)
+- GuidePoint Security
+  - [AI Is the Star of the Show. Identity Security Is Still the Stage.](https://www.guidepointsecurity.com/blog/ai_is_the_star_identity_is_the_stage/)
 - Hacker News Frontpage
   - [AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
   - [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
+  - [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
   - [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
   - [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
   - [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
+  - [Show HN: Copperhead – Hardware as Fast as Software](https://copperhead.sh/)
   - [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
   - [Tesla killing Solar Roof is leaving installers with six-figure losses](https://electrek.co/2026/09/01/tesla-solar-roof-exit-installers-losses/)
   - [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer)
@@ -153,6 +160,7 @@
   - [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
   - [Poseidon Aerospace lands $60M ahead of first pilotless test flight](https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/)
 - The Block
+  - [Bitmine nears 5% of Ethereum supply after buying 28,086 ETH](https://www.theblock.co/news/business/2026-09-08-bitmine-nears-5-of-ethereum-supply-after-buying-28086-eth-413790)
   - [Cronos says $9.2 million remains unrecovered after Tectonic exploit, chain rollback](https://www.theblock.co/news/ecosystems/2026-09-08-cronos-post-mortem-413724)
   - [Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form](https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716)
   - [Metaplanet slides 17% this week as CEO’s public note fails to ease investor concerns](https://www.theblock.co/news/markets/2026-09-08-metaplanet-slips-17-this-week-413738)
@@ -171,8 +179,13 @@
   - [Apple says ‘Fold’ and competitors ask ‘how wide?’](https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus)
   - [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price)
   - [First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3)
+  - [Google’s Atlas of the human genome could pave the way for new treatments](https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas)
+  - [Intel CPUs are reportedly getting a 10 percent price hike in October](https://www.theverge.com/tech/991285/intel-cpu-price-increase-october)
   - [LG TVs caught spying even when offline or on standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
+  - [Microsoft breaks another patch Tuesday record](https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad)
   - [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones)
+  - [SteelSeries’ pro-grade, wireless Xbox controller sure is expensive](https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features)
+  - [The Legend of Zelda 40th Anniversary Direct: all the news and trailers](https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct)
   - [Xiaomi’s wide foldable promises more power than Samsung’s](https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide)
 - Vulners.com RSS Feed
   - [aeBPF2-analysis](https://vulners.com/githubexploit/315DA6E7-4779-50B5-BC34-65282F75B8A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -201,6 +214,7 @@
   - [Cat2Web: Sync a Transceiver with WebSDR/KiwiSDR](https://buaq.net/go-440754.html)
   - [Dark-Moon v1.4.0](https://buaq.net/go-440857.html)
   - [raptor v3.1.0](https://buaq.net/go-440743.html)
+  - [Regole di accreditamento per la nuova ISO/IEC 27701](https://buaq.net/go-440864.html)
   - [The PZSDR Team Demonstrates 7-Board Phase Coherence](https://buaq.net/go-440755.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -214,6 +228,7 @@
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537219&idx=2&sn=14cdeb8f74bdc143a5b65d01a79ac3e7)
 - 爱范儿
   - [AI 开始「互发微信」了，谁来管管它们？| AI 器物志](https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片](https://www.ifanr.com/1678636?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [就在明天！苹果折叠掀起史上最强新机发布潮](https://www.ifanr.com/1679021?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三](https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
@@ -222,4 +237,5 @@
   - [安卓版PS3模拟器修复导致手机发热的问题](https://blog.upx8.com/%E5%AE%89%E5%8D%93%E7%89%88PS3%E6%A8%A1%E6%8B%9F%E5%99%A8%E4%BF%AE%E5%A4%8D%E5%AF%BC%E8%87%B4%E6%89%8B%E6%9C%BA%E5%8F%91%E7%83%AD%E7%9A%84%E9%97%AE%E9%A2%98)
   - [折叠屏iPhone初期产量受限 每日仅数百部](https://blog.upx8.com/%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E5%88%9D%E6%9C%9F%E4%BA%A7%E9%87%8F%E5%8F%97%E9%99%90-%E6%AF%8F%E6%97%A5%E4%BB%85%E6%95%B0%E7%99%BE%E9%83%A8)
   - [涉嫌非法转移芯片技术 中国男子乘机返京前在布鲁塞尔被捕](https://blog.upx8.com/%E6%B6%89%E5%AB%8C%E9%9D%9E%E6%B3%95%E8%BD%AC%E7%A7%BB%E8%8A%AF%E7%89%87%E6%8A%80%E6%9C%AF-%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E4%B9%98%E6%9C%BA%E8%BF%94%E4%BA%AC%E5%89%8D%E5%9C%A8%E5%B8%83%E9%B2%81%E5%A1%9E%E5%B0%94%E8%A2%AB%E6%8D%95)
+  - [澳洲将允许社媒用户退出基于算法的推荐](https://blog.upx8.com/%E6%BE%B3%E6%B4%B2%E5%B0%86%E5%85%81%E8%AE%B8%E7%A4%BE%E5%AA%92%E7%94%A8%E6%88%B7%E9%80%80%E5%87%BA%E5%9F%BA%E4%BA%8E%E7%AE%97%E6%B3%95%E7%9A%84%E6%8E%A8%E8%8D%90)
   - [经合组织：使用AI的在校学生考试成绩更差](https://blog.upx8.com/%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87-%E4%BD%BF%E7%94%A8AI%E7%9A%84%E5%9C%A8%E6%A0%A1%E5%AD%A6%E7%94%9F%E8%80%83%E8%AF%95%E6%88%90%E7%BB%A9%E6%9B%B4%E5%B7%AE)
