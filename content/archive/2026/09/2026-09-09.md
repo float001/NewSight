@@ -5,6 +5,7 @@
   - [iPhone18](https://2libra.com/post/phone/S7IV96X)
   - [【今日笔记】是你、是我、也是他：「普通人」的自画像](https://2libra.com/post/social-observation/ozBXKLm)
   - [【兑换码】Proxy001｜免费 CDK 领取 1G 流量｜ 1 亿 + 住宅 IP，跨境 / 爬虫 / AI 通用](https://2libra.com/post/promotion/48gitZq)
+  - [【💰】dsh 的预设和一个对话 UI 插件](https://2libra.com/post/open-source-sharing/hTGRqLw)
   - [【💰】取名取自闭了，你们当初是怎么取名的](https://2libra.com/post/parent-child/LGxsmal)
   - [【💰】显示器](https://2libra.com/post/computers-accessories/9GRPDDW)
   - [分享个 GPT-6 Astra 折腾出来的小东西：能逛房、能撸猫的我家](https://2libra.com/post/personal-works/NYlcSFL)
@@ -13,6 +14,7 @@
   - [我的全勤徽章被偷了](https://2libra.com/post/community/O8axjij)
   - [新增了 D20 投掷的骰子可选动画；潘多拉延期费用现在做了可配置](https://2libra.com/post/product-updates/EDqyf-d)
   - [有没有深度使用 dsh 的大佬](https://2libra.com/post/tech-qa/kRShJ-l)
+  - [毕业踏入职场 2 年的数据分析师关于绩效考核点的疑问](https://2libra.com/post/workplace-stories/nMYuQP3)
   - [求助：电脑跳屏，cpu 温度异常](https://2libra.com/post/tech-qa/b7BbL8w)
   - [游戏台词](https://2libra.com/post/game-discussion/yekCAle)
   - [突然的心酸](https://2libra.com/post/midlife-support-club/f8hKyka)
@@ -70,8 +72,11 @@
   - [US to ban Canadian dairy, alcohol, motor vehicle imports on September 29](https://www.reuters.com/business/us-ban-canadian-dairy-alcohol-motor-vehicle-imports-september-29-2026-09-08/)
   - [Why I'm Not Excited About the Graphene OS and Motorola Partnership](https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership)
 - HackerNoon
+  - [Building Isolyne (Part 3): Testing State Supersession and Idempotent Replay in a CQRS Event Engine](https://hackernoon.com/building-isolyne-part-3-testing-state-supersession-and-idempotent-replay-in-a-cqrs-event-engine?source=rss)
   - [Building Multi-Platform Data Apps With Modular Runtime Architecture (Part 2)](https://hackernoon.com/building-multi-platform-data-apps-with-modular-runtime-architecture-part-2?source=rss)
+  - [EagleSwap Announces Milestone of 10,000 Completed Swaps](https://hackernoon.com/eagleswap-announces-milestone-of-10000-completed-swaps?source=rss)
 - infosecurity-magazine.com
+  - [Microsoft Shatters Patch Tuesday Record With 974 CVE Fixes in September 2026](https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record/)
   - [SAP Patches Maximum Severity “Overpass” Flaw](https://www.infosecurity-magazine.com/news/sap-patches-maximum-severity/)
 - krebsonsecurity.com
   - [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
@@ -93,6 +98,7 @@
   - [malicious-pdf exploit](https://sploitus.com/exploit?id=KITPLOIT:8063277894541294784&utm_source=rss&utm_medium=rss)
   - [mitm exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0X0BE-MITM&utm_source=rss&utm_medium=rss)
   - [network-attack-detection exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LUCADIBELLO-NETWORK-ATTACK-DETECTION&utm_source=rss&utm_medium=rss)
+  - [security-field-notes exploit](https://sploitus.com/exploit?id=A6D98333-3E7D-50E1-B307-808A40DAF0AF&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks](https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/)
   - [Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/)
@@ -120,6 +126,7 @@
   - [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)
   - [Drama swirls around OpenAI’s legendary mathematical milestone](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)
   - [Meta bets on AI agent Muse to catch up in AI race](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race)
+  - [More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans)
   - [Nintendo isn’t scared of GTA VI](https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6)
   - [Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off](https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale)
   - [Rivian apologizes for delays in shipping futuristic Also e-bikes](https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology)
@@ -143,14 +150,17 @@
   - [OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul](https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/)
   - [Sony Coupons: 45% Off Sony Headphones and Sony Cameras September 2026](https://www.wired.com/story/sony-promo-code/)
   - [Squarespace Promo Codes: 20% Off in September 2026](https://www.wired.com/story/squarespace-promo-code/)
+  - [The Fairphone (Gen 6+) Review: Finally in the US](https://www.wired.com/review/the-fairphone-gen-6-plus/)
   - [TurboTax Full Service Coupons This September 2026](https://www.wired.com/story/turbotax-coupon/)
   - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)
   - [Valvoline Coupons and Promo Codes for September 2026](https://www.wired.com/story/valvoline-coupons/)
 - 不安全
   - [afrog v3.5.7](https://buaq.net/go-441092.html)
+  - [Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox](https://buaq.net/go-441120.html)
   - [cli v1.1307.1](https://buaq.net/go-441046.html)
   - [PDF- times/dates or history ?](https://buaq.net/go-441043.html)
   - [The push to stop algorithms controlling social media feeds has begun](https://buaq.net/go-441105.html)
+  - [Umbra v1.1.0](https://buaq.net/go-441118.html)
   - [福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折](https://buaq.net/go-441106.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -159,9 +169,11 @@
 - 爱范儿
   - [早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运](https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [阿维塔 9 系官图发布，大六座补上了，先锋设计却让步了](https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口](https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！](https://www.qbitai.com/2026/09/486052.html)
 - 黑海洋
+  - [DeepSeek V4.1 Flash预计9月10日前后发布](https://blog.upx8.com/DeepSeek-V4-1-Flash%E9%A2%84%E8%AE%A19%E6%9C%8810%E6%97%A5%E5%89%8D%E5%90%8E%E5%8F%91%E5%B8%83)
   - [DeepSeek宣布下调Flash系列API价格，最高降幅60%](https://blog.upx8.com/DeepSeek%E5%AE%A3%E5%B8%83%E4%B8%8B%E8%B0%83Flash%E7%B3%BB%E5%88%97API%E4%BB%B7%E6%A0%BC-%E6%9C%80%E9%AB%98%E9%99%8D%E5%B9%8560)
   - [库克2020年访华后才推动苹果开发折叠机](https://blog.upx8.com/%E5%BA%93%E5%85%8B2020%E5%B9%B4%E8%AE%BF%E5%8D%8E%E5%90%8E%E6%89%8D%E6%8E%A8%E5%8A%A8%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E6%8A%98%E5%8F%A0%E6%9C%BA)
   - [推进“个人超级智能” Meta发布智能体Muse](https://blog.upx8.com/%E6%8E%A8%E8%BF%9B-%E4%B8%AA%E4%BA%BA%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD-Meta%E5%8F%91%E5%B8%83%E6%99%BA%E8%83%BD%E4%BD%93Muse)
