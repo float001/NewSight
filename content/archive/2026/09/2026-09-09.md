@@ -7,9 +7,11 @@
   - [【💰】取名取自闭了，你们当初是怎么取名的](https://2libra.com/post/parent-child/LGxsmal)
   - [分享个 GPT-6 Astra 折腾出来的小东西：能逛房、能撸猫的我家](https://2libra.com/post/personal-works/NYlcSFL)
   - [地球电台网站](https://2libra.com/post/sharing-discoveries/OkvPj1e)
+  - [我的全勤徽章被偷了](https://2libra.com/post/community/O8axjij)
   - [新增了 D20 投掷的骰子可选动画；潘多拉延期费用现在做了可配置](https://2libra.com/post/product-updates/EDqyf-d)
   - [有没有深度使用 dsh 的大佬](https://2libra.com/post/tech-qa/kRShJ-l)
   - [求助：电脑跳屏，cpu 温度异常](https://2libra.com/post/tech-qa/b7BbL8w)
+  - [游戏台词](https://2libra.com/post/game-discussion/yekCAle)
   - [突然的心酸](https://2libra.com/post/midlife-support-club/f8hKyka)
   - [自用精神振奋剂](https://2libra.com/post/music-sharing/avHvErm)
 - 404 Media
@@ -60,8 +62,12 @@
   - [Building Multi-Platform Data Apps With Modular Runtime Architecture (Part 2)](https://hackernoon.com/building-multi-platform-data-apps-with-modular-runtime-architecture-part-2?source=rss)
 - krebsonsecurity.com
   - [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
+- MIT Technology Review
+  - [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)
 - Publications | Outflank
   - [NetNTLMv1 Is Dead. Long Live NetNTLMv1.](https://www.outflank.nl/blog/2026/09/08/netntlmv1-is-dead-long-live-netntlmv1/)
+- Security Uncorked
+  - [Book Your CYBR.SEC.CON Video Segment with JJ & Drew @ Packet Protector](https://securityuncorked.com/2026/09/book-your-cybr-sec-con-video-segment-with-jj-drew-packet-protector/)
 - simonwillison.net
   - [Introducing ChatGPT Images 2.5](https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/)
   - [On the Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/)
@@ -74,6 +80,7 @@
   - [mitm exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0X0BE-MITM&utm_source=rss&utm_medium=rss)
   - [network-attack-detection exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LUCADIBELLO-NETWORK-ATTACK-DETECTION&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks](https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/)
   - [Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/)
   - [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/)
   - [How to watch Apple’s foldable iPhone announcement](https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/)
@@ -84,6 +91,7 @@
 - The Block
   - [A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme](https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911)
   - [DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury](https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892)
+  - [First staked ETF tied to Tron hits the US markets on Wednesday](https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935)
   - [Hunter Biden details LAPTOP memecoin’s airdrop and burn-or-charity rules ahead of launch](https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952)
   - [Hyperliquid open interest climbs to $14.3 billion as HYPE hits all-time high](https://www.theblock.co/news/ecosystems/2026-09-08-hyperliquid-open-interest-climbs-14-3-billion-hype-hits-all-time-high-413855)
   - [Jack Dorsey’s Block joins rush for federal bank charters from OCC](https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947)
@@ -119,7 +127,10 @@
   - [4200枚比特币只剩200枚：Liquid被掏空背后，"白帽"说法你信吗？](https://www.anquanke.com/post/id/316090)
 - 爱范儿
   - [早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运](https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！](https://www.qbitai.com/2026/09/486052.html)
 - 黑海洋
+  - [DeepSeek宣布下调Flash系列API价格，最高降幅60%](https://blog.upx8.com/DeepSeek%E5%AE%A3%E5%B8%83%E4%B8%8B%E8%B0%83Flash%E7%B3%BB%E5%88%97API%E4%BB%B7%E6%A0%BC-%E6%9C%80%E9%AB%98%E9%99%8D%E5%B9%8560)
   - [库克2020年访华后才推动苹果开发折叠机](https://blog.upx8.com/%E5%BA%93%E5%85%8B2020%E5%B9%B4%E8%AE%BF%E5%8D%8E%E5%90%8E%E6%89%8D%E6%8E%A8%E5%8A%A8%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E6%8A%98%E5%8F%A0%E6%9C%BA)
   - [推进“个人超级智能” Meta发布智能体Muse](https://blog.upx8.com/%E6%8E%A8%E8%BF%9B-%E4%B8%AA%E4%BA%BA%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD-Meta%E5%8F%91%E5%B8%83%E6%99%BA%E8%83%BD%E4%BD%93Muse)
   - [社交平台X因年龄和家长控制关切受到爱尔兰监管机构调查](https://blog.upx8.com/%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0X%E5%9B%A0%E5%B9%B4%E9%BE%84%E5%92%8C%E5%AE%B6%E9%95%BF%E6%8E%A7%E5%88%B6%E5%85%B3%E5%88%87%E5%8F%97%E5%88%B0%E7%88%B1%E5%B0%94%E5%85%B0%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%B0%83%E6%9F%A5)
