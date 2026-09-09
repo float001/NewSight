@@ -3,6 +3,7 @@
 - 2Libra
   - [🎶💕🎶 因为歌荒了，能把你最近听的歌单的第一首音乐 🎶 分享给我一起听听吗？](https://2libra.com/post/music-sharing/NUoC7d0)
 - 404 Media
+  - [Doctor Doom Thanked Seattle for All the Surveillance Cameras](https://www.404media.co/doctor-doom-thanked-seattle-for-all-the-surveillance-cameras/)
   - [Smear Campaign Says Anti-Flock Movement Is Chinese Propaganda](https://www.404media.co/smear-campaign-says-anti-flock-movement-is-chinese-propaganda/)
   - [The Remnants of a Lost ‘Supercontinent’ Just Rewrote the History of Life on Earth](https://www.404media.co/the-remnants-of-a-lost-supercontinent-just-rewrote-the-history-of-life-on-earth/)
 - blog.jim-nielsen.com
@@ -12,6 +13,8 @@
   - [Consensys to split into MetaMask and institutional blockchain company](https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [TRM Labs doubles valuation to $2B in Series C expansion](https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction](https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- darkreading
+  - [US Government Accuses Chinese AI Firms of Distilling Frontier Models](https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models)
 - Fidelis Security
   - [Why Internal Attack Surface Management Needs Continuous Network Visibility](https://fidelissecurity.com/threatgeek/threat-detection-response/internal-attack-surface-management-needs-continuous-visibility/)
 - GuidePoint Security
@@ -23,6 +26,8 @@
   - [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
   - [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
   - [Why Emacs Consult async searches feel slow and how to speed them up](https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/)
+- Linux Foundation Blogs
+  - [How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act](https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act)
 - TechCrunch
   - [Apple CEO John Ternus says the best AI device is still the iPhone](https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/)
   - [Apple has a new way prove your iPhone photos aren’t AI slop](https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/)
@@ -30,15 +35,21 @@
   - [Apple shows off AirPods 5 with improved active noise cancellation](https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/)
   - [Apple unveils its first foldable, the iPhone Duo](https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/)
   - [Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day](https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/)
+  - [Apple Watch’s new feature listens to your chats and recaps them](https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/)
   - [Apple’s revamped Health app will calculate your ‘health age’ and readiness score](https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/)
   - [DOJ wants more answers on Fox’s $22B Roku deal](https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/)
+  - [Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/)
   - [Harvey hits $15.5B valuation, months after reaching $11B](https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/)
+  - [The hinge for Apple’s new foldable phone was built with AI](https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/)
+  - [There are new shiny iPhones, so Apple is making you pay more for older models](https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/)
 - The Block
   - [Bitcoin miners are missing the crypto rally as exchanges, stablecoins surge](https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848)
   - [DoubleZero adds Kalshi’s election markets ahead of November midterms](https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075)
   - [Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash](https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034)
   - [Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME’s case](https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046)
   - [Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group](https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061)
+- The Decoder
+  - [Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario](https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/)
 - The Verge
   - [All the news from Apple’s ‘Surprise and shine’ event](https://www.theverge.com/tech/991697/apple-surprise-and-shine-event-news)
   - [Apple announces AirPods 5 with ‘best-in-class open‑ear active noise cancellation’](https://www.theverge.com/tech/988479/apple-airpods-5-announcement-september-2026-event)
@@ -49,22 +60,28 @@
   - [Apple skips the base iPhone 18 at its fall launch event](https://www.theverge.com/news/991130/apple-skips-iphone-18-fall-2026-release)
   - [Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day](https://www.theverge.com/tech/991812/apple-watch-series-12-announcement)
   - [Apple’s iPhone 18 Pro has a dynamic-aperture main camera](https://www.theverge.com/tech/986331/apple-iphone-18-pro-max-september-2026-event)
+  - [Apple’s new iPhone camera mode promises to prove your photo isn’t AI](https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image)
   - [Google search embraces live NFL football](https://www.theverge.com/entertainment/991893/google-search-gets-better-at-live-nfl-football)
   - [Hands on with the new Apple Watch Series 12 and Apple Watch Ultra 4](https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4)
   - [Hands-on with the foldable iPhone Duo](https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions)
   - [Here’s how the new iPhone 18 Pro stacks up to the last-gen models](https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features)
   - [iOS 27 launches on September 14th with Siri AI](https://www.theverge.com/news/992408/ios-27-release-date-features)
   - [iPhone 18 live blog: On the ground at Apple’s biggest event](https://www.theverge.com/tech/989658/iphone-18-duo-pro-fold-apple-watch-airpods-keynote-live)
+  - [iPhone 18 Pro and Pro Max: Our first hands-on impressions](https://www.theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event)
   - [Microsoft has new AI privacy rules for schools](https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy)
   - [Ocarina of Time remake physical preorders are $10 off at Walmart](https://www.theverge.com/gadgets/992221/ocarina-of-time-remaster-corsair-scimitar-deal-sale)
   - [Some of Dyson’s $500 toothbrushes are breaking](https://www.theverge.com/gadgets/992113/some-of-dysons-500-toothbrushes-are-breaking)
   - [The Apple Watch Ultra 4 is ready for the new Siri](https://www.theverge.com/tech/990290/apple-watch-ultra-4-smartwatch-wearable-availability-pricing)
   - [The iPhone Duo is Apple’s first foldable](https://www.theverge.com/tech/991203/iphone-duo-foldable-news-specs-price-release-date)
+  - [Verge staffers react to the iPhone Duo: What we love and don’t love](https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react)
   - [Xbox is bringing back startup animations from its console history](https://www.theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features)
 - Wired
   - [Apple Debuts the iPhone Duo, Its First Folding iPhone](https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/)
+  - [Apple Doesn’t Want You to Worry About the New Apple Watch’s Listening Features](https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/)
   - [Apple Watch Series 12 and Apple Watch Ultra 4: Price, Specs, Release Date](https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/)
+  - [Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5](https://www.wired.com/story/everything-apple-announced-september-2026/)
   - [I Let an AI Agent Hack All My Gadgets—and I’d Do It Again](https://www.wired.com/story/i-used-ai-to-hack-my-home-network/)
+  - [UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos](https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/)
   - [You Can Now Destroy Flock Cameras for Cash in GTA V](https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
