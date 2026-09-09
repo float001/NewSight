@@ -17,9 +17,11 @@
   - [Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar](https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Consensys to split into MetaMask and institutional blockchain company](https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [DoubleZero adds Kalshi election market data ahead of US midterms](https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [TRM Labs doubles valuation to $2B in Series C expansion](https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction](https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
+  - [Mythos Vulnerability Firehose Hits a Human Bottleneck](https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck)
   - [US Government Accuses Chinese AI Firms of Distilling Frontier Models](https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models)
 - Fidelis Security
   - [Why Internal Attack Surface Management Needs Continuous Network Visibility](https://fidelissecurity.com/threatgeek/threat-detection-response/internal-attack-surface-management-needs-continuous-visibility/)
@@ -28,6 +30,7 @@
 - Hacker News Frontpage
   - [Apple debuts iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
   - [Apple Introduces AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
+  - [Automattic CEO Matt Mullenweg Put on 'Leave of Absence'](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
   - [Defining AI Psychosis. Part 2: "Prolific AI Psychosis"](https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific)
   - [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
   - [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
@@ -52,6 +55,7 @@
   - [DOJ wants more answers on Fox’s $22B Roku deal](https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/)
   - [Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/)
   - [Harvey hits $15.5B valuation, months after reaching $11B](https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/)
+  - [Massachusetts hits data centers with new clean power rules](https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/)
   - [The hinge for Apple’s new foldable phone was built with AI](https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/)
   - [There are new shiny iPhones, so Apple is making you pay more for older models](https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/)
 - The Block
@@ -81,10 +85,13 @@
   - [iOS 27 launches on September 14th with Siri AI](https://www.theverge.com/news/992408/ios-27-release-date-features)
   - [iPhone 18 live blog: On the ground at Apple’s biggest event](https://www.theverge.com/tech/989658/iphone-18-duo-pro-fold-apple-watch-airpods-keynote-live)
   - [iPhone 18 Pro and Pro Max: Our first hands-on impressions](https://www.theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event)
+  - [It’s the year of smartphone price hikes](https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro)
   - [Microsoft has new AI privacy rules for schools](https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy)
   - [Ocarina of Time remake physical preorders are $10 off at Walmart](https://www.theverge.com/gadgets/992221/ocarina-of-time-remaster-corsair-scimitar-deal-sale)
+  - [OpenAI’s sly mathematical breakthrough sends a chill through academia](https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes)
   - [Read the Apple document explaining how new listening features still protect your privacy](https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy)
   - [Some of Dyson’s $500 toothbrushes are breaking](https://www.theverge.com/gadgets/992113/some-of-dysons-500-toothbrushes-are-breaking)
+  - [Suno releases its first AI music model made with record industry help](https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help)
   - [The Apple Watch Ultra 4 is ready for the new Siri](https://www.theverge.com/tech/990290/apple-watch-ultra-4-smartwatch-wearable-availability-pricing)
   - [The iPhone Duo is Apple’s first foldable](https://www.theverge.com/tech/991203/iphone-duo-foldable-news-specs-price-release-date)
   - [Verge staffers react to the iPhone Duo: What we love and don’t love](https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react)
@@ -96,6 +103,7 @@
   - [Apple Watch Series 12 and Apple Watch Ultra 4: Price, Specs, Release Date](https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/)
   - [Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5](https://www.wired.com/story/everything-apple-announced-september-2026/)
   - [I Let an AI Agent Hack All My Gadgets—and I’d Do It Again](https://www.wired.com/story/i-used-ai-to-hack-my-home-network/)
+  - [San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads](https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/)
   - [UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos](https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/)
   - [You Can Now Destroy Flock Cameras for Cash in GTA V](https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/)
 - 代码审计星球
