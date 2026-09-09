@@ -42,6 +42,8 @@
   - [ClickFix Campaigns Abuse Legitimate Services for Persistent Access](https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access)
   - [OpenAI Agents Took Over Wiki Site Before Hugging Face Attack](https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack)
   - [Patch Tuesday Sets Another Record With 974 CVEs](https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves)
+- defend.network
+  - [Microsoft patches record 974 CVEs; AI agents steal thousands of credentials; F5 devices breached](https://defend.network/briefings/microsoft-974-patches-ai-credential-theft-f5-breach-2026-09-09.html)
 - Der Flounder
   - [Manually copying login keychain files from one Mac to another no longer works on Secure Enclave-equipped Macs running macOS Tahoe](https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/)
 - Dhole Moments
@@ -52,6 +54,7 @@
   - [100s of flights cancelled at UK airports due to ATC issue](https://www.bbc.com/news/live/c6x2z0yy32ejt)
   - [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
   - [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
+  - [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
   - [Do you think it happened? Research stolen from their Codex private chats](https://www.reddit.com/r/codex/s/psWHRr9864)
   - [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance)
   - [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
@@ -137,6 +140,7 @@
   - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)
   - [Valvoline Coupons and Promo Codes for September 2026](https://www.wired.com/story/valvoline-coupons/)
 - 不安全
+  - [afrog v3.5.7](https://buaq.net/go-441092.html)
   - [cli v1.1307.1](https://buaq.net/go-441046.html)
   - [PDF- times/dates or history ?](https://buaq.net/go-441043.html)
 - 代码审计星球
