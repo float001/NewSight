@@ -14,6 +14,7 @@
   - [我的全勤徽章被偷了](https://2libra.com/post/community/O8axjij)
   - [新增了 D20 投掷的骰子可选动画；潘多拉延期费用现在做了可配置](https://2libra.com/post/product-updates/EDqyf-d)
   - [有没有深度使用 dsh 的大佬](https://2libra.com/post/tech-qa/kRShJ-l)
+  - [根据“User:AABb1221/沙盒/通用 wiki 网络社区方针”让 ai 整理的内容](https://2libra.com/post/collaboration/0NpqHmB)
   - [毕业踏入职场 2 年的数据分析师关于绩效考核点的疑问](https://2libra.com/post/workplace-stories/nMYuQP3)
   - [求助：电脑跳屏，cpu 温度异常](https://2libra.com/post/tech-qa/b7BbL8w)
   - [游戏台词](https://2libra.com/post/game-discussion/yekCAle)
@@ -39,8 +40,10 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Iran eases currency rules to bypass US sanctions with crypto: Report](https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin](https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties](https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New York town weighs crypto mining and AI data center ban](https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Visa brings onchain credit to its growing stablecoin card business](https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [What could happen if the CLARITY Act fails to pass in 2026](https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [‘Modern Day Typographer’](https://www.youtube.com/watch?v=0Ck-NPqf2c8)
   - [★ The iPhone Air and iPhone 17 Pro](https://daringfireball.net/2026/09/the_iphone_air_and_iphone_17_pro)
@@ -64,6 +67,7 @@
   - [Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine](https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34)
   - [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
   - [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
+  - [DeepSeek launching v4.1 flash cheaper and more capable than v4 pro](https://news.ycombinator.com/item?id=49624603)
   - [Do you think it happened? Research stolen from their Codex private chats](https://www.reddit.com/r/codex/s/psWHRr9864)
   - [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance)
   - [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
@@ -91,6 +95,8 @@
   - [Pluralistic: Anti-vax/anti-trust (08 Sep 2026)](https://pluralistic.net/2026/09/09/when-it-dont-rain/)
 - Publications | Outflank
   - [NetNTLMv1 Is Dead. Long Live NetNTLMv1.](https://www.outflank.nl/blog/2026/09/08/netntlmv1-is-dead-long-live-netntlmv1/)
+- Sebastian Raschka
+  - [GPT-6 Astra, Looped Transformers, and Hidden Reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and)
 - Security Uncorked
   - [Book Your CYBR.SEC.CON Video Segment with JJ & Drew @ Packet Protector](https://securityuncorked.com/2026/09/book-your-cybr-sec-con-video-segment-with-jj-drew-packet-protector/)
 - simonwillison.net
@@ -123,6 +129,7 @@
   - [First staked ETF tied to Tron hits the US markets on Wednesday](https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935)
   - [Hunter Biden details LAPTOP memecoin’s airdrop and burn-or-charity rules ahead of launch](https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952)
   - [Hyperliquid open interest climbs to $14.3 billion as HYPE hits all-time high](https://www.theblock.co/news/ecosystems/2026-09-08-hyperliquid-open-interest-climbs-14-3-billion-hype-hits-all-time-high-413855)
+  - [India seeks takedowns of 15 crypto platforms over AML compliance](https://www.theblock.co/news/regulation/2026-09-09-india-seeks-takedowns-of-15-crypto-platforms-over-aml-compliance-413975)
   - [Jack Dorsey’s Block joins rush for federal bank charters from OCC](https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947)
   - [Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles](https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852)
   - [StoneX sees 45% upside for Robinhood, points to accelerating Layer 2 chain and prediction markets](https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955)
@@ -178,12 +185,17 @@
   - [afrog v3.5.7](https://buaq.net/go-441092.html)
   - [Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox](https://buaq.net/go-441120.html)
   - [cli v1.1307.1](https://buaq.net/go-441046.html)
+  - [DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval](https://buaq.net/go-441159.html)
+  - [finding a hidden email](https://buaq.net/go-441185.html)
+  - [NVIDIA 创业企业展示半程活动10月苏州举行，30家科创企业路演+投资人对接](https://buaq.net/go-441152.html)
   - [PDF- times/dates or history ?](https://buaq.net/go-441043.html)
   - [The push to stop algorithms controlling social media feeds has begun](https://buaq.net/go-441105.html)
   - [Umbra v1.1.0](https://buaq.net/go-441118.html)
   - [福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折](https://buaq.net/go-441106.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [NVIDIA 创业企业展示半程活动10月苏州举行，30家科创企业路演+投资人对接](https://www.solidot.org/story?sid=85330)
 - 安全客
   - [4200枚比特币只剩200枚：Liquid被掏空背后，"白帽"说法你信吗？](https://www.anquanke.com/post/id/316090)
 - 爱范儿
@@ -196,6 +208,7 @@
 - 黑海洋
   - [DeepSeek V4.1 Flash预计9月10日前后发布](https://blog.upx8.com/DeepSeek-V4-1-Flash%E9%A2%84%E8%AE%A19%E6%9C%8810%E6%97%A5%E5%89%8D%E5%90%8E%E5%8F%91%E5%B8%83)
   - [DeepSeek宣布下调Flash系列API价格，最高降幅60%](https://blog.upx8.com/DeepSeek%E5%AE%A3%E5%B8%83%E4%B8%8B%E8%B0%83Flash%E7%B3%BB%E5%88%97API%E4%BB%B7%E6%A0%BC-%E6%9C%80%E9%AB%98%E9%99%8D%E5%B9%8560)
+  - [华为来到布鲁克林面临美国全面刑事审判](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E6%9D%A5%E5%88%B0%E5%B8%83%E9%B2%81%E5%85%8B%E6%9E%97%E9%9D%A2%E4%B8%B4%E7%BE%8E%E5%9B%BD%E5%85%A8%E9%9D%A2%E5%88%91%E4%BA%8B%E5%AE%A1%E5%88%A4)
   - [库克2020年访华后才推动苹果开发折叠机](https://blog.upx8.com/%E5%BA%93%E5%85%8B2020%E5%B9%B4%E8%AE%BF%E5%8D%8E%E5%90%8E%E6%89%8D%E6%8E%A8%E5%8A%A8%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E6%8A%98%E5%8F%A0%E6%9C%BA)
   - [推进“个人超级智能” Meta发布智能体Muse](https://blog.upx8.com/%E6%8E%A8%E8%BF%9B-%E4%B8%AA%E4%BA%BA%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD-Meta%E5%8F%91%E5%B8%83%E6%99%BA%E8%83%BD%E4%BD%93Muse)
   - [社交平台X因年龄和家长控制关切受到爱尔兰监管机构调查](https://blog.upx8.com/%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0X%E5%9B%A0%E5%B9%B4%E9%BE%84%E5%92%8C%E5%AE%B6%E9%95%BF%E6%8E%A7%E5%88%B6%E5%85%B3%E5%88%87%E5%8F%97%E5%88%B0%E7%88%B1%E5%B0%94%E5%85%B0%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%B0%83%E6%9F%A5)
