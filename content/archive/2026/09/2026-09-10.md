@@ -56,6 +56,7 @@
   - [Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/)
   - [Harvey hits $15.5B valuation, months after reaching $11B](https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/)
   - [Massachusetts hits data centers with new clean power rules](https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/)
+  - [OpenAI adds a prominent AI doomer to its board of directors](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/)
   - [The hinge for Apple’s new foldable phone was built with AI](https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/)
   - [There are new shiny iPhones, so Apple is making you pay more for older models](https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/)
 - The Block
@@ -77,6 +78,7 @@
   - [Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day](https://www.theverge.com/tech/991812/apple-watch-series-12-announcement)
   - [Apple’s iPhone 18 Pro has a dynamic-aperture main camera](https://www.theverge.com/tech/986331/apple-iphone-18-pro-max-september-2026-event)
   - [Apple’s new iPhone camera mode promises to prove your photo isn’t AI](https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image)
+  - [Automattic CEO Matt Mullenweg placed on leave](https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence)
   - [Google search embraces live NFL football](https://www.theverge.com/entertainment/991893/google-search-gets-better-at-live-nfl-football)
   - [Hands on with the new Apple Watch Series 12 and Apple Watch Ultra 4](https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4)
   - [Hands-on with the foldable iPhone Duo](https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions)
@@ -93,9 +95,14 @@
   - [Some of Dyson’s $500 toothbrushes are breaking](https://www.theverge.com/gadgets/992113/some-of-dysons-500-toothbrushes-are-breaking)
   - [Suno releases its first AI music model made with record industry help](https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help)
   - [The Apple Watch Ultra 4 is ready for the new Siri](https://www.theverge.com/tech/990290/apple-watch-ultra-4-smartwatch-wearable-availability-pricing)
+  - [The black iPhone Pro returns](https://www.theverge.com/tech/993048/iphone-18-pro-black-color)
+  - [The incomplete history of Duo devices](https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices)
   - [The iPhone Duo is Apple’s first foldable](https://www.theverge.com/tech/991203/iphone-duo-foldable-news-specs-price-release-date)
+  - [There aren’t AirPods with cameras yet and I hope it stays that way](https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event)
   - [Verge staffers react to the iPhone Duo: What we love and don’t love](https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react)
   - [Xbox is bringing back startup animations from its console history](https://www.theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features)
+- Vulners.com RSS Feed
+  - [Chromium: CVE-2026-85046 Type confusion in V8](https://vulners.com/mscve/MS:CVE-2026-85046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Year After Charlie Kirk's Death, Turning Point Plans to Spend Big on the Midterms](https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/)
   - [Apple Debuts the iPhone Duo, Its First Folding iPhone](https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/)
@@ -104,9 +111,12 @@
   - [Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5](https://www.wired.com/story/everything-apple-announced-september-2026/)
   - [I Let an AI Agent Hack All My Gadgets—and I’d Do It Again](https://www.wired.com/story/i-used-ai-to-hack-my-home-network/)
   - [San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads](https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/)
+  - [The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’](https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/)
   - [UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos](https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/)
   - [You Can Now Destroy Flock Cameras for Cash in GTA V](https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Google 将“降级”欧洲搜索服务](https://www.solidot.org/story?sid=85332)
+- 黑海洋
+  - [长鑫存储、长江存储囤够三年DUV光刻机](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8-%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E5%9B%A4%E5%A4%9F%E4%B8%89%E5%B9%B4DUV%E5%85%89%E5%88%BB%E6%9C%BA)
