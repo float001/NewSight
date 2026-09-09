@@ -5,10 +5,15 @@
 - 404 Media
   - [Smear Campaign Says Anti-Flock Movement Is Chinese Propaganda](https://www.404media.co/smear-campaign-says-anti-flock-movement-is-chinese-propaganda/)
   - [The Remnants of a Lost ‘Supercontinent’ Just Rewrote the History of Life on Earth](https://www.404media.co/the-remnants-of-a-lost-supercontinent-just-rewrote-the-history-of-life-on-earth/)
+- blog.jim-nielsen.com
+  - [Don’t Let Anyone Take Away Your Big Box of Cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
 - CoinTelegraph
   - [Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar](https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Consensys to split into MetaMask and institutional blockchain company](https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [TRM Labs doubles valuation to $2B in Series C expansion](https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction](https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Fidelis Security
+  - [Why Internal Attack Surface Management Needs Continuous Network Visibility](https://fidelissecurity.com/threatgeek/threat-detection-response/internal-attack-surface-management-needs-continuous-visibility/)
 - GuidePoint Security
   - [CRA Reporting Goes Live September 11: What Manufacturers Must Have in Place When the Clock Starts](https://www.guidepointsecurity.com/blog/eu-cra-reporting-requirements/)
 - Hacker News Frontpage
@@ -20,20 +25,34 @@
   - [Why Emacs Consult async searches feel slow and how to speed them up](https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/)
 - TechCrunch
   - [Apple CEO John Ternus says the best AI device is still the iPhone](https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/)
+  - [Apple has a new way prove your iPhone photos aren’t AI slop](https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/)
   - [Apple launches iPhone 18 Pro with upgraded camera](https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/)
+  - [Apple shows off AirPods 5 with improved active noise cancellation](https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/)
   - [Apple unveils its first foldable, the iPhone Duo](https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/)
+  - [Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day](https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/)
+  - [Apple’s revamped Health app will calculate your ‘health age’ and readiness score](https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/)
   - [DOJ wants more answers on Fox’s $22B Roku deal](https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/)
+  - [Harvey hits $15.5B valuation, months after reaching $11B](https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/)
 - The Block
   - [Bitcoin miners are missing the crypto rally as exchanges, stablecoins surge](https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848)
+  - [DoubleZero adds Kalshi’s election markets ahead of November midterms](https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075)
   - [Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash](https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034)
   - [Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME’s case](https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046)
   - [Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group](https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061)
 - The Verge
   - [All the news from Apple’s ‘Surprise and shine’ event](https://www.theverge.com/tech/991697/apple-surprise-and-shine-event-news)
   - [Apple announces AirPods 5 with ‘best-in-class open‑ear active noise cancellation’](https://www.theverge.com/tech/988479/apple-airpods-5-announcement-september-2026-event)
+  - [Apple brought ceramic back for the Series 12](https://www.theverge.com/tech/989427/ceramic-apple-watch-series-12-edition)
+  - [Apple completely revamped iOS 27&#8217;s controls and apps for the iPhone Duo](https://www.theverge.com/tech/989294/iphone-ultra-fold-multitasking-ios)
+  - [Apple iPhone Duo launch event: The 5 biggest announcements](https://www.theverge.com/tech/991965/apple-iphone-duo-launch-event-biggest-announcements)
+  - [Apple is raising iPhone prices by $100 on all of its old models](https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase)
+  - [Apple skips the base iPhone 18 at its fall launch event](https://www.theverge.com/news/991130/apple-skips-iphone-18-fall-2026-release)
   - [Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day](https://www.theverge.com/tech/991812/apple-watch-series-12-announcement)
   - [Apple’s iPhone 18 Pro has a dynamic-aperture main camera](https://www.theverge.com/tech/986331/apple-iphone-18-pro-max-september-2026-event)
   - [Google search embraces live NFL football](https://www.theverge.com/entertainment/991893/google-search-gets-better-at-live-nfl-football)
+  - [Hands on with the new Apple Watch Series 12 and Apple Watch Ultra 4](https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4)
+  - [Hands-on with the foldable iPhone Duo](https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions)
+  - [Here’s how the new iPhone 18 Pro stacks up to the last-gen models](https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features)
   - [iOS 27 launches on September 14th with Siri AI](https://www.theverge.com/news/992408/ios-27-release-date-features)
   - [iPhone 18 live blog: On the ground at Apple’s biggest event](https://www.theverge.com/tech/989658/iphone-18-duo-pro-fold-apple-watch-airpods-keynote-live)
   - [Microsoft has new AI privacy rules for schools](https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy)
@@ -45,6 +64,7 @@
 - Wired
   - [Apple Debuts the iPhone Duo, Its First Folding iPhone](https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/)
   - [Apple Watch Series 12 and Apple Watch Ultra 4: Price, Specs, Release Date](https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/)
+  - [I Let an AI Agent Hack All My Gadgets—and I’d Do It Again](https://www.wired.com/story/i-used-ai-to-hack-my-home-network/)
   - [You Can Now Destroy Flock Cameras for Cash in GTA V](https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
