@@ -71,9 +71,12 @@
   - [Why I'm Not Excited About the Graphene OS and Motorola Partnership](https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership)
 - HackerNoon
   - [Building Multi-Platform Data Apps With Modular Runtime Architecture (Part 2)](https://hackernoon.com/building-multi-platform-data-apps-with-modular-runtime-architecture-part-2?source=rss)
+- infosecurity-magazine.com
+  - [SAP Patches Maximum Severity “Overpass” Flaw](https://www.infosecurity-magazine.com/news/sap-patches-maximum-severity/)
 - krebsonsecurity.com
   - [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 - MIT Technology Review
+  - [Understanding the thermal ceiling in portable power](https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/)
   - [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)
 - Publications | Outflank
   - [NetNTLMv1 Is Dead. Long Live NetNTLMv1.](https://www.outflank.nl/blog/2026/09/08/netntlmv1-is-dead-long-live-netntlmv1/)
@@ -147,12 +150,15 @@
   - [afrog v3.5.7](https://buaq.net/go-441092.html)
   - [cli v1.1307.1](https://buaq.net/go-441046.html)
   - [PDF- times/dates or history ?](https://buaq.net/go-441043.html)
+  - [The push to stop algorithms controlling social media feeds has begun](https://buaq.net/go-441105.html)
+  - [福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折](https://buaq.net/go-441106.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [4200枚比特币只剩200枚：Liquid被掏空背后，"白帽"说法你信吗？](https://www.anquanke.com/post/id/316090)
 - 爱范儿
   - [早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运](https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [阿维塔 9 系官图发布，大六座补上了，先锋设计却让步了](https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！](https://www.qbitai.com/2026/09/486052.html)
 - 黑海洋
