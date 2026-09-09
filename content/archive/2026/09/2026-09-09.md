@@ -3,7 +3,9 @@
 - 2Libra
   - [【💰】取名取自闭了，你们当初是怎么取名的](https://2libra.com/post/parent-child/LGxsmal)
   - [地球电台网站](https://2libra.com/post/sharing-discoveries/OkvPj1e)
+  - [新增了 D20 投掷的骰子可选动画；潘多拉延期费用现在做了可配置](https://2libra.com/post/product-updates/EDqyf-d)
   - [突然的心酸](https://2libra.com/post/midlife-support-club/f8hKyka)
+  - [自用精神振奋剂](https://2libra.com/post/music-sharing/avHvErm)
 - 404 Media
   - [Channel 5 Gave Hunter Biden a List of Its Subscribers’ Emails for Some Reason](https://www.404media.co/channel-5-gave-hunter-biden-a-list-of-its-subscribers-emails-for-some-reason/)
 - Ars Technica
@@ -45,6 +47,7 @@
   - [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)
   - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
   - [OUI-1: world's first model for Generative UI](https://www.openui.com/blog/oui-1)
+  - [US to ban Canadian dairy, alcohol, motor vehicle imports on September 29](https://www.reuters.com/business/us-ban-canadian-dairy-alcohol-motor-vehicle-imports-september-29-2026-09-08/)
   - [Why I'm Not Excited About the Graphene OS and Motorola Partnership](https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership)
 - HackerNoon
   - [Building Multi-Platform Data Apps With Modular Runtime Architecture (Part 2)](https://hackernoon.com/building-multi-platform-data-apps-with-modular-runtime-architecture-part-2?source=rss)
@@ -57,7 +60,12 @@
   - [On the Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/)
   - [Quoting Terence Tao](https://simonwillison.net/2026/Sep/9/terence-tao/)
 - Sploitus.com Exploits RSS Feed
+  - [AirStrike exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MAHMOUD-SADDER-AIRSTRIKE&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Gogs](https://sploitus.com/exploit?id=818B9529-4D90-5B49-949D-DFDFF5E93C3E&utm_source=rss&utm_medium=rss)
+  - [Findsploit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-1N3-FINDSPLOIT&utm_source=rss&utm_medium=rss)
+  - [malicious-pdf exploit](https://sploitus.com/exploit?id=KITPLOIT:8063277894541294784&utm_source=rss&utm_medium=rss)
+  - [mitm exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0X0BE-MITM&utm_source=rss&utm_medium=rss)
+  - [network-attack-detection exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LUCADIBELLO-NETWORK-ATTACK-DETECTION&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/)
   - [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/)
@@ -94,6 +102,7 @@
   - [Muse, Meta's New Personal AI Agent, Needs You to Trust It](https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/)
   - [OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul](https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/)
 - 不安全
+  - [cli v1.1307.1](https://buaq.net/go-441046.html)
   - [PDF- times/dates or history ?](https://buaq.net/go-441043.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -103,3 +112,4 @@
   - [早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运](https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [库克2020年访华后才推动苹果开发折叠机](https://blog.upx8.com/%E5%BA%93%E5%85%8B2020%E5%B9%B4%E8%AE%BF%E5%8D%8E%E5%90%8E%E6%89%8D%E6%8E%A8%E5%8A%A8%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E6%8A%98%E5%8F%A0%E6%9C%BA)
+  - [社交平台X因年龄和家长控制关切受到爱尔兰监管机构调查](https://blog.upx8.com/%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0X%E5%9B%A0%E5%B9%B4%E9%BE%84%E5%92%8C%E5%AE%B6%E9%95%BF%E6%8E%A7%E5%88%B6%E5%85%B3%E5%88%87%E5%8F%97%E5%88%B0%E7%88%B1%E5%B0%94%E5%85%B0%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%B0%83%E6%9F%A5)
