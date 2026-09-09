@@ -31,6 +31,7 @@
 - Chainalysis Blog
   - [Tracing Crypto in a Narcotics Investigation: FBI Charges Alleged Opioid Distributors](https://www.chainalysis.com/blog/fbi-traces-crypto-opioids-distributors/)
 - CoinTelegraph
+  - [Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market](https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bybit launches 24/7 perpetuals for major currency pairs](https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy](https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Franklin Templeton digital asset veteran takes helm at StablecoinX](https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -51,6 +52,8 @@
   - [Microsoft patches record 974 CVEs; AI agents steal thousands of credentials; F5 devices breached](https://defend.network/briefings/microsoft-974-patches-ai-credential-theft-f5-breach-2026-09-09.html)
 - Der Flounder
   - [Manually copying login keychain files from one Mac to another no longer works on Secure Enclave-equipped Macs running macOS Tahoe](https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/)
+- dfarq.homeip.net
+  - [The first VHS VCR: JVC HR-3300](https://dfarq.homeip.net/the-first-vhs-vcr-jvc-hr-3300/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-vhs-vcr-jvc-hr-3300)
 - Dhole Moments
   - [Multi-Track Fursuiting?!](https://soatok.blog/2026/09/08/multi-track-fursuiting/)
 - Fidelis Security
@@ -58,6 +61,7 @@
 - Hacker News Frontpage
   - [100s of flights cancelled at UK airports due to ATC issue](https://www.bbc.com/news/live/c6x2z0yy32ejt)
   - [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
+  - [Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine](https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34)
   - [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
   - [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
   - [Do you think it happened? Research stolen from their Codex private chats](https://www.reddit.com/r/codex/s/psWHRr9864)
@@ -83,6 +87,8 @@
 - MIT Technology Review
   - [Understanding the thermal ceiling in portable power](https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/)
   - [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)
+- pluralistic.net
+  - [Pluralistic: Anti-vax/anti-trust (08 Sep 2026)](https://pluralistic.net/2026/09/09/when-it-dont-rain/)
 - Publications | Outflank
   - [NetNTLMv1 Is Dead. Long Live NetNTLMv1.](https://www.outflank.nl/blog/2026/09/08/netntlmv1-is-dead-long-live-netntlmv1/)
 - Security Uncorked
@@ -93,6 +99,8 @@
   - [Quoting Terence Tao](https://simonwillison.net/2026/Sep/9/terence-tao/)
 - Sploitus.com Exploits RSS Feed
   - [AirStrike exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MAHMOUD-SADDER-AIRSTRIKE&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-67401](https://sploitus.com/exploit?id=C2DC4E64-B910-5B86-8BFD-1D410F8EE5B7&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-67401](https://sploitus.com/exploit?id=E6A4576F-DA0F-57E2-AAE0-49DC7A2D48EB&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Gogs](https://sploitus.com/exploit?id=818B9529-4D90-5B49-949D-DFDFF5E93C3E&utm_source=rss&utm_medium=rss)
   - [Findsploit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-1N3-FINDSPLOIT&utm_source=rss&utm_medium=rss)
   - [malicious-pdf exploit](https://sploitus.com/exploit?id=KITPLOIT:8063277894541294784&utm_source=rss&utm_medium=rss)
@@ -119,7 +127,9 @@
   - [Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles](https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852)
   - [StoneX sees 45% upside for Robinhood, points to accelerating Layer 2 chain and prediction markets](https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955)
 - The Decoder
+  - [Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat](https://the-decoder.com/hugging-faces-new-ml-intern-lets-anyone-run-machine-learning-experiments-through-a-simple-chat/)
   - [OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper](https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/)
+  - [OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs](https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/)
 - The Verge
   - [A new class action lawsuit questions whether Anthropic broke the law by misleading power users](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans)
   - [Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000](https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable)
@@ -133,8 +143,16 @@
   - [Sony isn’t phasing out discs quite as quickly as we thought](https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent)
   - [Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick](https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control)
   - [The White House pulls its racist Tetris clone](https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone)
+- Trail of Bits Blog
+  - [A “proof” of Fermat’s Last Theorem that fits the margin](https://blog.trailofbits.com/2026/09/09/a-proof-of-fermats-last-theorem-that-fits-the-margin/)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Microsoft and Adobe Patch Tuesday, September 2026 Security Update Review](https://blog.qualys.com/category/vulnerabilities-threat-research)
+- Vulners.com RSS Feed
+  - [CVE-2026-86547 mrubyc through 4.0.0 NULL Pointer Dereference via OP_ENTER](https://vulners.com/cvelist/CVELIST:CVE-2026-86547?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-86776 KeePass 2.35 through 2.61.1 Memory Exhaustion via KDBX Header Field Size](https://vulners.com/cvelist/CVELIST:CVE-2026-86776?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-86777 AlchemyCMS before 7.4.16 and 8.x before 8.3.6 Missing Authorization on GET /api/nodes](https://vulners.com/cvelist/CVELIST:CVE-2026-86777?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-87794 bestzip 2.2.6 and 3.0.2 Argument Injection via the Native Zip Destination](https://vulners.com/cvelist/CVELIST:CVE-2026-87794?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-87795 zstd-jni 1.2.0 through 1.5.7-13 Out-of-Bounds Read via ZstdDictCompress](https://vulners.com/cvelist/CVELIST:CVE-2026-87795?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [20% Off Brooks Promo Code | September 2026](https://www.wired.com/story/brooks-promo-code/)
   - [Alo Discount Code: 20% Off September 2026](https://www.wired.com/story/alo-yoga-discount-code/)
@@ -145,6 +163,7 @@
   - [Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone](https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/)
   - [Hotels.com Coupon Codes for September 2026](https://www.wired.com/story/hotels-com-coupon/)
   - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
+  - [MS NOW Wants to Turn Its Viewers Into a Fandom](https://www.wired.com/story/the-big-interview-podcast-rebecca-kutler-ms-now/)
   - [Muse, Meta's New Personal AI Agent, Needs You to Trust It](https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/)
   - [Nike Promo Codes and Discounts: 30% for September 2026](https://www.wired.com/story/nike-promo-code/)
   - [OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul](https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/)
@@ -155,6 +174,7 @@
   - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)
   - [Valvoline Coupons and Promo Codes for September 2026](https://www.wired.com/story/valvoline-coupons/)
 - 不安全
+  - [adPEAS v2.5.0](https://buaq.net/go-441146.html)
   - [afrog v3.5.7](https://buaq.net/go-441092.html)
   - [Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox](https://buaq.net/go-441120.html)
   - [cli v1.1307.1](https://buaq.net/go-441046.html)
@@ -167,6 +187,7 @@
 - 安全客
   - [4200枚比特币只剩200枚：Liquid被掏空背后，"白帽"说法你信吗？](https://www.anquanke.com/post/id/316090)
 - 爱范儿
+  - [GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱](https://www.ifanr.com/1679329?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运](https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [阿维塔 9 系官图发布，大六座补上了，先锋设计却让步了](https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口](https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=)
