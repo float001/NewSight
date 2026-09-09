@@ -51,6 +51,7 @@
   - [NetNTLMv1 Is Dead. Long Live NetNTLMv1.](https://www.outflank.nl/blog/2026/09/08/netntlmv1-is-dead-long-live-netntlmv1/)
 - simonwillison.net
   - [Introducing ChatGPT Images 2.5](https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/)
+  - [On the Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Path Traversal in Gogs](https://sploitus.com/exploit?id=818B9529-4D90-5B49-949D-DFDFF5E93C3E&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -60,6 +61,7 @@
   - [Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/)
   - [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)
   - [The Exploration Company nabs $450 million to challenge SpaceX](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/)
+  - [White House takes down ‘Build the Wall’ game after the Tetris Company complains](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/)
 - The Block
   - [A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme](https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911)
   - [DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury](https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892)
