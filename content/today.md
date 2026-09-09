@@ -94,10 +94,13 @@
   - [EagleSwap Announces Milestone of 10,000 Completed Swaps](https://hackernoon.com/eagleswap-announces-milestone-of-10000-completed-swaps?source=rss)
 - infosecurity-magazine.com
   - [ClickFix Moves into the Browser to Steal Cryptocurrency](https://www.infosecurity-magazine.com/news/clickfix-browser-cryptocurrency/)
+  - [Gigabud Uses Android App Cloning to Evade Fraud Detection](https://www.infosecurity-magazine.com/news/gigabud-android-app-cloning-fraud/)
   - [Microsoft Shatters Patch Tuesday Record With 974 CVE Fixes in September 2026](https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record/)
   - [NHIs Now the Number One Corporate Entry Point for Hackers](https://www.infosecurity-magazine.com/news/nhis-number-one-corporate-entry/)
+  - [Researchers Build WeChat Zero-Click Worm Hijacking Phones via Calls](https://www.infosecurity-magazine.com/news/wechat-zeroclick-worm-hijack/)
   - [SAP Patches Maximum Severity “Overpass” Flaw](https://www.infosecurity-magazine.com/news/sap-patches-maximum-severity/)
 - johndcook.com
+  - [AI is an intelligence multiplier](https://www.johndcook.com/blog/2026/09/09/ai-multiplier/)
   - [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
 - krebsonsecurity.com
   - [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
@@ -105,6 +108,8 @@
   - [The Download: OpenAI’s turning point for math and a battery record](https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/)
   - [Understanding the thermal ceiling in portable power](https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/)
   - [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)
+- Pen Test Partners
+  - [Passing the bucks $$$: Passback attacks explained](https://www.pentestpartners.com/security-blog/passing-the-bucks-passback-attacks-explained/)
 - pluralistic.net
   - [Pluralistic: Anti-vax/anti-trust (08 Sep 2026)](https://pluralistic.net/2026/09/09/when-it-dont-rain/)
 - Publications | Outflank
@@ -133,6 +138,7 @@
   - [Findsploit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-1N3-FINDSPLOIT&utm_source=rss&utm_medium=rss)
   - [gimmeSH exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-A3H1NT-GIMMESH&utm_source=rss&utm_medium=rss)
   - [Grawler exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-A3H1NT-GRAWLER&utm_source=rss&utm_medium=rss)
+  - [GraySentinel-DSOU-45Day-2026 exploit](https://sploitus.com/exploit?id=9B943DF2-55CF-567D-8898-DE04D0710A0A&utm_source=rss&utm_medium=rss)
   - [hideNsneak exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RMIKEHODGES-HIDENSNEAK&utm_source=rss&utm_medium=rss)
   - [malicious-pdf exploit](https://sploitus.com/exploit?id=KITPLOIT:8063277894541294784&utm_source=rss&utm_medium=rss)
   - [mitm exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0X0BE-MITM&utm_source=rss&utm_medium=rss)
@@ -146,6 +152,7 @@
   - [vulnrepo exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KAC89-VULNREPO&utm_source=rss&utm_medium=rss)
   - [wprecon exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FFX64-WPRECON&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?](https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/)
   - [Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive](https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/)
   - [Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time](https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/)
   - [CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks](https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/)
@@ -158,15 +165,21 @@
   - [Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/)
   - [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)
   - [Sequoia doubles down on Cymphony as AI agents create new enterprise security risks](https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/)
+  - [Shipt becomes the latest delivery app with an AI shopping assistant](https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/)
   - [The Exploration Company nabs $450 million to challenge SpaceX](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/)
+  - [Uber invests $10M in Indian fleet operator Carrum at $168M valuation](https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/)
   - [White House takes down ‘Build the Wall’ game after the Tetris Company complains](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/)
+  - [‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI](https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/)
 - The Block
   - [A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme](https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911)
+  - [Consensys splits MetaMask from institutional and Ethereum infrastructure businesses](https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022)
+  - [Crypto industry groups escalate fight against Illinois, asking court to block controversial crypto tax](https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036)
   - [DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury](https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892)
   - [First staked ETF tied to Tron hits the US markets on Wednesday](https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935)
   - [Hunter Biden details LAPTOP memecoin’s airdrop and burn-or-charity rules ahead of launch](https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952)
   - [Hyperliquid open interest climbs to $14.3 billion as HYPE hits all-time high](https://www.theblock.co/news/ecosystems/2026-09-08-hyperliquid-open-interest-climbs-14-3-billion-hype-hits-all-time-high-413855)
   - [India seeks takedowns of 15 crypto platforms over AML compliance](https://www.theblock.co/news/regulation/2026-09-09-india-seeks-takedowns-of-15-crypto-platforms-over-aml-compliance-413975)
+  - [Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs](https://www.theblock.co/news/ecosystems/2026-09-09-ink-foundation-gsr-crypto-charter-foundation-token-launch-costs-414023)
   - [Jack Dorsey’s Block joins rush for federal bank charters from OCC](https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947)
   - [Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles](https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852)
   - [StoneX sees 45% upside for Robinhood, points to accelerating Layer 2 chain and prediction markets](https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955)
@@ -186,6 +199,7 @@
   - [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)
   - [Drama swirls around OpenAI’s legendary mathematical milestone](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)
   - [How to watch Apple’s September 9th launch event](https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch)
+  - [I spent an hour riding inside Tesla’s steering-wheel-free Cybercab](https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin)
   - [Meta bets on AI agent Muse to catch up in AI race](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race)
   - [More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans)
   - [Nintendo isn’t scared of GTA VI](https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6)
@@ -193,11 +207,13 @@
   - [Rivian apologizes for delays in shipping futuristic Also e-bikes](https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology)
   - [Sony isn’t phasing out discs quite as quickly as we thought](https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent)
   - [Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick](https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control)
+  - [The Switch 2 is getting a 2D Metroid called Ravenous](https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous)
   - [The White House pulls its racist Tetris clone](https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone)
 - Trail of Bits Blog
   - [A “proof” of Fermat’s Last Theorem that fits the margin](https://blog.trailofbits.com/2026/09/09/a-proof-of-fermats-last-theorem-that-fits-the-margin/)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Microsoft and Adobe Patch Tuesday, September 2026 Security Update Review](https://blog.qualys.com/category/vulnerabilities-threat-research)
+  - [The Models That Found 10,000 Zero-Days Broke Into Three Companies Using Weak Passwords](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
   - [CVE-2026-86547 mrubyc through 4.0.0 NULL Pointer Dereference via OP_ENTER](https://vulners.com/cvelist/CVELIST:CVE-2026-86547?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86776 KeePass 2.35 through 2.61.1 Memory Exhaustion via KDBX Header Field Size](https://vulners.com/cvelist/CVELIST:CVE-2026-86776?utm_source=rss&utm_medium=rss&utm_campaign=rss)
