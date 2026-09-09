@@ -27,6 +27,7 @@
   - [Tracing Crypto in a Narcotics Investigation: FBI Charges Alleged Opioid Distributors](https://www.chainalysis.com/blog/fbi-traces-crypto-opioids-distributors/)
 - CoinTelegraph
   - [Bybit launches 24/7 perpetuals for major currency pairs](https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy](https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Franklin Templeton digital asset veteran takes helm at StablecoinX](https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New York town weighs crypto mining and AI data center ban](https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -113,11 +114,23 @@
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Microsoft and Adobe Patch Tuesday, September 2026 Security Update Review](https://blog.qualys.com/category/vulnerabilities-threat-research)
 - Wired
+  - [20% Off Brooks Promo Code | September 2026](https://www.wired.com/story/brooks-promo-code/)
+  - [Alo Discount Code: 20% Off September 2026](https://www.wired.com/story/alo-yoga-discount-code/)
   - [Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK](https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/)
   - [Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026](https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/)
+  - [Google Workspace Promo Codes: 14% Off for September 2026](https://www.wired.com/story/google-workspace-promo-code/)
+  - [H&R Block Coupon: 25% Off DIY + Tax Pro Assist](https://www.wired.com/story/hr-block-coupon/)
   - [Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone](https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/)
+  - [Hotels.com Coupon Codes for September 2026](https://www.wired.com/story/hotels-com-coupon/)
+  - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
   - [Muse, Meta's New Personal AI Agent, Needs You to Trust It](https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/)
+  - [Nike Promo Codes and Discounts: 30% for September 2026](https://www.wired.com/story/nike-promo-code/)
   - [OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul](https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/)
+  - [Sony Coupons: 45% Off Sony Headphones and Sony Cameras September 2026](https://www.wired.com/story/sony-promo-code/)
+  - [Squarespace Promo Codes: 20% Off in September 2026](https://www.wired.com/story/squarespace-promo-code/)
+  - [TurboTax Full Service Coupons This September 2026](https://www.wired.com/story/turbotax-coupon/)
+  - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)
+  - [Valvoline Coupons and Promo Codes for September 2026](https://www.wired.com/story/valvoline-coupons/)
 - 不安全
   - [cli v1.1307.1](https://buaq.net/go-441046.html)
   - [PDF- times/dates or history ?](https://buaq.net/go-441043.html)
