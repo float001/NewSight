@@ -38,7 +38,9 @@
   - [Franklin Templeton digital asset veteran takes helm at StablecoinX](https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gemini receives Singapore payment license for crypto services](https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Hunter Biden’s laptop controversy gets a memecoin afterlife](https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Iran eases currency rules to bypass US sanctions with crypto: Report](https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Italy’s central bank orders sanctions screening for crypto transfers](https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin](https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties](https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New York town weighs crypto mining and AI data center ban](https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -85,10 +87,14 @@
   - [EagleSwap Announces Milestone of 10,000 Completed Swaps](https://hackernoon.com/eagleswap-announces-milestone-of-10000-completed-swaps?source=rss)
 - infosecurity-magazine.com
   - [Microsoft Shatters Patch Tuesday Record With 974 CVE Fixes in September 2026](https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record/)
+  - [NHIs Now the Number One Corporate Entry Point for Hackers](https://www.infosecurity-magazine.com/news/nhis-number-one-corporate-entry/)
   - [SAP Patches Maximum Severity “Overpass” Flaw](https://www.infosecurity-magazine.com/news/sap-patches-maximum-severity/)
+- johndcook.com
+  - [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
 - krebsonsecurity.com
   - [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 - MIT Technology Review
+  - [The Download: OpenAI’s turning point for math and a battery record](https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/)
   - [Understanding the thermal ceiling in portable power](https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/)
   - [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)
 - pluralistic.net
@@ -105,6 +111,7 @@
   - [Quoting Terence Tao](https://simonwillison.net/2026/Sep/9/terence-tao/)
 - Sploitus.com Exploits RSS Feed
   - [AirStrike exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MAHMOUD-SADDER-AIRSTRIKE&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-67276](https://sploitus.com/exploit?id=9D2D5D0B-3DBC-57B6-8B24-E802DDB89C5F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-67401](https://sploitus.com/exploit?id=C2DC4E64-B910-5B86-8BFD-1D410F8EE5B7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-67401](https://sploitus.com/exploit?id=E6A4576F-DA0F-57E2-AAE0-49DC7A2D48EB&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Gogs](https://sploitus.com/exploit?id=818B9529-4D90-5B49-949D-DFDFF5E93C3E&utm_source=rss&utm_medium=rss)
@@ -114,13 +121,18 @@
   - [network-attack-detection exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LUCADIBELLO-NETWORK-ATTACK-DETECTION&utm_source=rss&utm_medium=rss)
   - [security-field-notes exploit](https://sploitus.com/exploit?id=A6D98333-3E7D-50E1-B307-808A40DAF0AF&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive](https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/)
+  - [Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time](https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/)
   - [CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks](https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/)
   - [Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/)
   - [Google DeepMind alumni are building tools to accelerate fusion power for the grid](https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/)
+  - [Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms](https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/)
   - [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/)
   - [How to watch Apple’s foldable iPhone announcement](https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/)
+  - [Instacart launches an AI grocery shopping assistant called Clementine](https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/)
   - [Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/)
   - [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)
+  - [Sequoia doubles down on Cymphony as AI agents create new enterprise security risks](https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/)
   - [The Exploration Company nabs $450 million to challenge SpaceX](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/)
   - [White House takes down ‘Build the Wall’ game after the Tetris Company complains](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/)
 - The Block
@@ -134,14 +146,19 @@
   - [Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles](https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852)
   - [StoneX sees 45% upside for Robinhood, points to accelerating Layer 2 chain and prediction markets](https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955)
 - The Decoder
+  - [Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade](https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/)
+  - [AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips](https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips/)
+  - [ChatGPT Images 2.5: Faster, more precise, but not the same for everyone](https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone/)
   - [Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat](https://the-decoder.com/hugging-faces-new-ml-intern-lets-anyone-run-machine-learning-experiments-through-a-simple-chat/)
   - [OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper](https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/)
   - [OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs](https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/)
 - The Verge
   - [A new class action lawsuit questions whether Anthropic broke the law by misleading power users](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans)
+  - [Amazon Prime Video’s new AI tech matches lips to dubbed audio](https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing)
   - [Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000](https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable)
   - [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)
   - [Drama swirls around OpenAI’s legendary mathematical milestone](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)
+  - [How to watch Apple’s September 9th launch event](https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch)
   - [Meta bets on AI agent Muse to catch up in AI race](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race)
   - [More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans)
   - [Nintendo isn’t scared of GTA VI](https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6)
@@ -212,3 +229,4 @@
   - [库克2020年访华后才推动苹果开发折叠机](https://blog.upx8.com/%E5%BA%93%E5%85%8B2020%E5%B9%B4%E8%AE%BF%E5%8D%8E%E5%90%8E%E6%89%8D%E6%8E%A8%E5%8A%A8%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E6%8A%98%E5%8F%A0%E6%9C%BA)
   - [推进“个人超级智能” Meta发布智能体Muse](https://blog.upx8.com/%E6%8E%A8%E8%BF%9B-%E4%B8%AA%E4%BA%BA%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD-Meta%E5%8F%91%E5%B8%83%E6%99%BA%E8%83%BD%E4%BD%93Muse)
   - [社交平台X因年龄和家长控制关切受到爱尔兰监管机构调查](https://blog.upx8.com/%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0X%E5%9B%A0%E5%B9%B4%E9%BE%84%E5%92%8C%E5%AE%B6%E9%95%BF%E6%8E%A7%E5%88%B6%E5%85%B3%E5%88%87%E5%8F%97%E5%88%B0%E7%88%B1%E5%B0%94%E5%85%B0%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%B0%83%E6%9F%A5)
+  - [非官方的 GTA 5 安卓移植版可能即将推出](https://blog.upx8.com/%E9%9D%9E%E5%AE%98%E6%96%B9%E7%9A%84-GTA-5-%E5%AE%89%E5%8D%93%E7%A7%BB%E6%A4%8D%E7%89%88%E5%8F%AF%E8%83%BD%E5%8D%B3%E5%B0%86%E6%8E%A8%E5%87%BA)
