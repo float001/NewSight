@@ -1,8 +1,16 @@
 # 今日安全资讯（2026-09-10）
 
 - 2Libra
+  - [9 月 10 日资本市场大事提醒](https://2libra.com/post/stock-market/kXhEbI8)
+  - [iPhone 18 售价与 17 对比](https://2libra.com/post/apple/oI1FJGk)
+  - [iPhone duo 如何](https://2libra.com/post/phone/scP-Bx9)
+  - [【Iphone DUO】看了上手视频，感觉很好啊。买！](https://2libra.com/post/phone/mhvc6RW)
   - [修改 Blogger 编辑器 增加 代码片段 code 和 代码块 pre 按钮](https://2libra.com/post/open-source-sharing/tD1Q1Pz)
+  - [关于昨天说电脑坏的后续](https://2libra.com/post/computers-accessories/wcAWxM7)
   - [大家好，写了个 AI 导航工具 收录了 1000 个 Ai，分享大家](https://2libra.com/post/sharing-discoveries/CmJqboC)
+  - [如何结合 AI 学习某种不熟悉的技术？比如说 k8s](https://2libra.com/post/ai-applications/xm-lO4X)
+  - [新款 AirPods5 全系支持 ANC 加量不加价](https://2libra.com/post/earphones/QcOhOv7)
+  - [苹果新发布的 iPhone Duo](https://2libra.com/post/apple/g9t00_n)
   - [记录一下第一次的妙笔生花](https://2libra.com/post/forum-function/LWaMTch)
   - [🎶💕🎶 因为歌荒了，能把你最近听的歌单的第一首音乐 🎶 分享给我一起听听吗？](https://2libra.com/post/music-sharing/NUoC7d0)
 - 404 Media
@@ -42,10 +50,21 @@
   - [We own the Glass](https://idiallo.com/byte-size/)
 - Linux Foundation Blogs
   - [How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act](https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act)
+- rtl-sdr.com
+  - [IC-SDR: A New Multimode SDR Software for Windows Written in Go](https://www.rtl-sdr.com/ic-sdr-a-new-multimode-sdr-software-for-windows-written-in-go/)
 - simonwillison.net
   - [Quoting Calif Research](https://simonwillison.net/2026/Sep/10/calif-research/)
 - Sploitus.com Exploits RSS Feed
+  - [CVE-2020-9495 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GGOLAWSKI-CVE-2020-9495&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-32756-POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KN0X0X-CVE-2025-32756-POC&utm_source=rss&utm_medium=rss)
+  - [destroylist exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PHISHDESTROY-DESTROYLIST&utm_source=rss&utm_medium=rss)
+  - [DetectPacket-CVE-2017-8464 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TRG-1999-DETECTPACKET-CVE-2017-8464&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-72815](https://sploitus.com/exploit?id=96BA85C0-9261-5C52-BC77-CE0531979D65&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Wpfastestcache Wp_Fastest_Cache](https://sploitus.com/exploit?id=686EE5AB-CB2C-5D66-87E3-5DC12E8D5EE2&utm_source=rss&utm_medium=rss)
+  - [exploitcraft](https://sploitus.com/exploit?id=ACF7946E-D16B-5E86-8883-92929CF83BEE&utm_source=rss&utm_medium=rss)
+  - [heartwood exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RADICLE-DEV-HEARTWOOD&utm_source=rss&utm_medium=rss)
+  - [yaraast exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SEIFREED-YARAAST&utm_source=rss&utm_medium=rss)
+  - [yj_nearbyglasses exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-YJEANRENAUD-YJ_NEARBYGLASSES&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks](https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/)
   - [Apple CEO John Ternus says the best AI device is still the iPhone](https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/)
@@ -126,5 +145,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Google 将“降级”欧洲搜索服务](https://www.solidot.org/story?sid=85332)
+- 安全客
+  - [22万条最私密的照片和病历，就从一个API接口流了出去](https://www.anquanke.com/post/id/316093)
 - 黑海洋
   - [长鑫存储、长江存储囤够三年DUV光刻机](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8-%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E5%9B%A4%E5%A4%9F%E4%B8%89%E5%B9%B4DUV%E5%85%89%E5%88%BB%E6%9C%BA)
