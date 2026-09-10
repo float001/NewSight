@@ -1,8 +1,30 @@
 # 今日安全资讯（2026-09-11）
 
+- 2Libra
+  - [分享你的影视剧 top](https://2libra.com/post/movie-sharing/uf66q-Z)
+- CoinTelegraph
+  - [Liquid Network resumes block production after $320M exploit](https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Fidelis Security
+  - [From JADEPUFFER to Multi-Agent Intrusions: The Next Wave of Autonomous Attacks](https://fidelissecurity.com/threatgeek/threat-detection-response/from-jadepuffer-to-multi-agent-intrusions-the-next-wave/)
+- Hacker News Frontpage
+  - [Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf](https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/)
+  - [One resignation turned the embers of AI fear into a wildfire](https://www.interconnects.ai/p/one-resignation-turned-the-embers)
+  - [Software Drives People Insane](https://graybeard.ing/software-drives-people-insane/)
+- NVIDIA AI Blog
+  - [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)
 - TechCrunch
   - [Google is making it easier to switch between password managers on Android](https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/)
+  - [Instagram’s latest feature lets you add tagged posts to your profile grid](https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/)
+- The Decoder
+  - [Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk](https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/)
+  - [Swarmchasers" hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark](https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/)
 - The Verge
+  - [Amazon’s Fire TV Stick 4K is over half off at under $20](https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale)
   - [Electric air taxis get the green light for flight tests in Texas](https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas)
+- Wired
+  - [Which iPhone 18 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-18-models-to-buy/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [LG 强烈否认其监视电视用户](https://www.solidot.org/story?sid=85341)
+  - [育碧准备在 Steam 上取消安装 Ubisoft Connect 客户端的要求](https://www.solidot.org/story?sid=85340)
