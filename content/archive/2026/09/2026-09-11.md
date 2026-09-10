@@ -15,14 +15,17 @@
   - [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
   - [Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf](https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/)
   - [One resignation turned the embers of AI fear into a wildfire](https://www.interconnects.ai/p/one-resignation-turned-the-embers)
+  - [Show HN: Two small Chrome extensions for Hebrew text and dates](https://chaimsapps.com/)
   - [Software Drives People Insane](https://graybeard.ing/software-drives-people-insane/)
 - NVIDIA AI Blog
   - [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)
 - TechCrunch
+  - [Amazon makes it easier to buy what you see on Prime Video](https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/)
   - [Anthropic reveals rogue AI agents hate CAPTCHAs, just like you](https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/)
   - [Google is making it easier to switch between password managers on Android](https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/)
   - [India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content](https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/)
   - [Instagram’s latest feature lets you add tagged posts to your profile grid](https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/)
+  - [Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers](https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/)
 - The Block
   - [Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short](https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115)
 - The Decoder
