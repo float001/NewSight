@@ -10,6 +10,7 @@
   - [《雷鸟 IO 眼镜》点评：5 分｜雷鸟 IO 体验](https://2libra.com/post/smart-wearable/xwlf9Ws)
   - [【Iphone DUO】看了上手视频，感觉很好啊。买！](https://2libra.com/post/phone/mhvc6RW)
   - [【钱】最近沉迷沃集鲜](https://2libra.com/post/worth-buying/nHxik6u)
+  - [【💰】 马上中秋节了【💰】](https://2libra.com/post/festival-things/5PTeFFM)
   - [【💰】广东省内求推荐温泉酒店，要有私汤](https://2libra.com/post/travel-tips/6_sQDcK)
   - [从 V 站酷工作节点发帖变化看十年就业趋势](https://2libra.com/post/workplace-stories/5NcKdLG)
   - [修改 Blogger 编辑器 增加 代码片段 code 和 代码块 pre 按钮](https://2libra.com/post/open-source-sharing/tD1Q1Pz)
@@ -53,6 +54,7 @@
   - [Hunter Biden denies profiting from memecoin after his LAPTOP crashes](https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [India’s Arya.ag to put grain ownership records on Avalanche](https://cointelegraph.com/news/arya-ag-tests-tokenized-grain-receipts-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nasdaq invests $100M in Kraken parent at $21B valuation: Report](https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Solana sees record 263K tokens issued in a single day](https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Treasury Secretary Bessent urges CLARITY Act passage after Senate returns](https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trezor, BitBox warn users about fake hardware wallet security alerts](https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [TRM Labs doubles valuation to $2B in Series C expansion](https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -89,9 +91,15 @@
   - [We own the Glass](https://idiallo.com/byte-size/)
 - infosecurity-magazine.com
   - [Anthropic Reveals Yet Another Cybersecurity Incident](https://www.infosecurity-magazine.com/news/anthropic-another-cybersecurity/)
+  - [FBI Publishes First-Ever Cyber Strategy, With Focus on Disrupting Threat Actors](https://www.infosecurity-magazine.com/news/fbi-cyber-strategy-disrupting/)
+  - [MantaxOtax Android Malware Combines Ransomware With Spyware](https://www.infosecurity-magazine.com/news/mantaxotax-android-malware/)
   - [OFAC Sanctions Chinese Scam Platform Xinbi Guarantee](https://www.infosecurity-magazine.com/news/ofac-sanctions-chinese-scam/)
+- johndcook.com
+  - [Bayesian OCR](https://www.johndcook.com/blog/2026/09/10/bayesian-ocr/)
 - Linux Foundation Blogs
   - [How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act](https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act)
+- MIT Technology Review
+  - [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
 - rtl-sdr.com
   - [GNU Radio World: Browser-Based GNU Radio Flowgraphs](https://www.rtl-sdr.com/gnu-radio-world-browser-based-gnu-radio-flowgraphs/)
   - [GridDown Secure Messenger: Using an SX1262 LoRa Radio as a Drone Scanner and Secure Messenger](https://www.rtl-sdr.com/griddown-secure-messenger-using-an-sx1262-lora-radio-as-a-drone-scanner-and-secure-messenger/)
@@ -131,11 +139,14 @@
   - [Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago](https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/)
   - [Apple’s revamped Health app will calculate your ‘health age’ and readiness score](https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/)
   - [Automattic’s board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
+  - [Defense tech Mach Industries doubles valuation to $3.7B in 3 months](https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/)
   - [DOJ wants more answers on Fox’s $22B Roku deal](https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/)
+  - [European founders and VCs urge lawmakers ‘to get EU Inc right’](https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/)
   - [Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/)
   - [Harvey hits $15.5B valuation, months after reaching $11B](https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/)
   - [Massachusetts hits data centers with new clean power rules](https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/)
   - [OpenAI adds a prominent AI doomer to its board of directors](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/)
+  - [Snapchat takes aim at Partiful with new event-planning features](https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/)
   - [The hinge for Apple’s new foldable phone was built with AI](https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/)
   - [There are new shiny iPhones, so Apple is making you pay more for older models](https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/)
   - [US Army places $11M bet on Austin-based GPS alternative Tern](https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/)
@@ -146,11 +157,16 @@
   - [Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash](https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034)
   - [Hunter Biden’s LAPTOP team cites sniper bots, thin liquidity for 99% crash on launch day](https://www.theblock.co/news/defi/2026-09-10-hunter-bidens-laptop-sniper-bots-414095)
   - [Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME’s case](https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046)
+  - [Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership](https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120)
+  - [Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack](https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121)
   - [Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group](https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061)
   - [Trezor says third-party security breach led to phishing emails from legitimate domain](https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086)
 - The Decoder
   - [AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News](https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/)
   - [Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario](https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/)
+  - [Muse can shop, write emails, and negotiate prices for users, all through WhatsApp](https://the-decoder.com/muse-can-shop-write-emails-and-negotiate-prices-for-users-all-through-whatsapp/)
+  - [New Deepseek model V4.1-Flash cuts memory needs for AI agents](https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/)
+  - [Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation](https://the-decoder.com/nvidia-and-palantir-team-up-to-run-supply-chains-with-ai-starting-with-nvidias-own-million-part-operation/)
   - [Top AI spenders cut per-employee costs by nearly 10 percent in August](https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/)
 - The Verge
   - [All the news from Apple’s ‘Surprise and shine’ event](https://www.theverge.com/tech/991697/apple-surprise-and-shine-event-news)
