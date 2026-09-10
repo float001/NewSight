@@ -27,6 +27,8 @@
   - [薅 zed 羊毛](https://2libra.com/post/deal-hunter/41CMZpy)
   - [记录一下第一次的妙笔生花](https://2libra.com/post/forum-function/LWaMTch)
   - [请在看到这个帖子时立刻打满一杯水喝下去, 至于为什么?](https://2libra.com/post/small-things/Xm12t-c)
+  - [这是已知 bug 吗？](https://2libra.com/post/community/jQh-Mpw)
+  - [这潘多拉有懂行的么？哪些会加？哪些会减？](https://2libra.com/post/forum-function/kE03iy1)
   - [🎶💕🎶 因为歌荒了，能把你最近听的歌单的第一首音乐 🎶 分享给我一起听听吗？](https://2libra.com/post/music-sharing/NUoC7d0)
 - 404 Media
   - [Doctor Doom Thanked Seattle for All the Surveillance Cameras](https://www.404media.co/doctor-doom-thanked-seattle-for-all-the-surveillance-cameras/)
@@ -47,6 +49,7 @@
   - [Trezor, BitBox warn users about fake hardware wallet security alerts](https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [TRM Labs doubles valuation to $2B in Series C expansion](https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction](https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Unicoin sues Uniswap Labs, seeks to cancel UNI registration](https://cointelegraph.com/news/unicoin-sues-uniswap-court-cancel-uni-trademark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Trezor, BitBox warn users about fake hardware wallet security alerts](https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - darkreading
@@ -71,6 +74,7 @@
 - idiallo.com
   - [We own the Glass](https://idiallo.com/byte-size/)
 - infosecurity-magazine.com
+  - [Anthropic Reveals Yet Another Cybersecurity Incident](https://www.infosecurity-magazine.com/news/anthropic-another-cybersecurity/)
   - [OFAC Sanctions Chinese Scam Platform Xinbi Guarantee](https://www.infosecurity-magazine.com/news/ofac-sanctions-chinese-scam/)
 - Linux Foundation Blogs
   - [How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act](https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act)
@@ -163,6 +167,9 @@
   - [Verge staffers react to the iPhone Duo: What we love and don’t love](https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react)
   - [Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI](https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini)
   - [Xbox is bringing back startup animations from its console history](https://www.theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features)
+  - [Xbox picks up Kojima&#8217;s Physint after PlayStation dropped it](https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [What Is ISPM? How It Differs from IAM, PAM, IGA, and IDaaS](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
   - [Chromium: CVE-2026-85046 Type confusion in V8](https://vulners.com/mscve/MS:CVE-2026-85046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [IServ Schoolserver User Enumeration](https://vulners.com/packetstormnews/PACKETSTORMNEWS:217785?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -179,6 +186,7 @@
   - [I Let an AI Agent Hack All My Gadgets—and I’d Do It Again](https://www.wired.com/story/i-used-ai-to-hack-my-home-network/)
   - [Norton Coupon Codes: Up to 58% Off](https://www.wired.com/story/norton-coupon-code/)
   - [NZXT Discount Codes: 50% Off in September 2026](https://www.wired.com/story/nzxt-discount-code/)
+  - [Our Favorite GoPro 360 Camera Is Now 40 Percent Off](https://www.wired.com/story/gopro-max-2-deal-september-2026/)
   - [San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads](https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/)
   - [The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’](https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/)
   - [Trump offers every American $5,000 If Republicans Win The Midterms](https://www.wired.com/story/trump-offers-every-american-dollar5000-if-republicans-win-the-midterms/)
@@ -188,6 +196,7 @@
   - [GridDown Secure Messenger: Using an SX1262 LoRa Radio as a Drone Scanner and Secure Messenger](https://buaq.net/go-441326.html)
   - [kyverno v1.19.1-rc.1](https://buaq.net/go-441358.html)
   - [MSSH：只有 5 MB，单文件 SSH 客户端[Windows / macOS]](https://buaq.net/go-441357.html)
+  - [信息窃取器日志暴露可重放的 AI 令牌，可绕过 MFA](https://buaq.net/go-441378.html)
   - [智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴](https://buaq.net/go-441364.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -199,6 +208,8 @@
   - [理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看](https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [↩️ 上海体育局回应刘翔买断](https://blog.upx8.com/%E4%B8%8A%E6%B5%B7%E4%BD%93%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%88%98%E7%BF%94%E4%B9%B0%E6%96%AD)
+  - [乌克兰称泽连斯基所乘飞机险遭无人机击中](https://blog.upx8.com/%E4%B9%8C%E5%85%8B%E5%85%B0%E7%A7%B0%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%89%80%E4%B9%98%E9%A3%9E%E6%9C%BA%E9%99%A9%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%87%BB%E4%B8%AD)
+  - [华为将AI芯片昇腾950DT的价格提高了60%](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E5%B0%86AI%E8%8A%AF%E7%89%87%E6%98%87%E8%85%BE950DT%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%8F%90%E9%AB%98%E4%BA%8660)
   - [宁德时代回应“车间员工裸奔” 已报警调查恶意造谣](https://blog.upx8.com/%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9B%9E%E5%BA%94-%E8%BD%A6%E9%97%B4%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94-%E5%B7%B2%E6%8A%A5%E8%AD%A6%E8%B0%83%E6%9F%A5%E6%81%B6%E6%84%8F%E9%80%A0%E8%B0%A3)
   - [长鑫存储、长江存储囤够三年DUV光刻机](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8-%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E5%9B%A4%E5%A4%9F%E4%B8%89%E5%B9%B4DUV%E5%85%89%E5%88%BB%E6%9C%BA)
   - [马萨诸塞州要求大型数据中心自备清洁能源](https://blog.upx8.com/%E9%A9%AC%E8%90%A8%E8%AF%B8%E5%A1%9E%E5%B7%9E%E8%A6%81%E6%B1%82%E5%A4%A7%E5%9E%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%87%AA%E5%A4%87%E6%B8%85%E6%B4%81%E8%83%BD%E6%BA%90)
