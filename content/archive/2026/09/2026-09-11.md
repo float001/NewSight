@@ -2,21 +2,32 @@
 
 - 2Libra
   - [分享你的影视剧 top](https://2libra.com/post/movie-sharing/uf66q-Z)
+- CERT Recently Published Vulnerability Notes
+  - [VU#687587: AOMEI Backupper amwrtdrv.sys local privilege escalation vulnerability allows arbitrary writes to physical disks](https://kb.cert.org/vuls/id/687587)
 - CoinTelegraph
   - [Liquid Network resumes block production after $320M exploit](https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [Joanna Stern on the iPhone Duo](https://youtu.be/VNzl-q0EGfg)
 - Fidelis Security
   - [From JADEPUFFER to Multi-Agent Intrusions: The Next Wave of Autonomous Attacks](https://fidelissecurity.com/threatgeek/threat-detection-response/from-jadepuffer-to-multi-agent-intrusions-the-next-wave/)
 - Hacker News Frontpage
+  - [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
+  - [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
   - [Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf](https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/)
   - [One resignation turned the embers of AI fear into a wildfire](https://www.interconnects.ai/p/one-resignation-turned-the-embers)
   - [Software Drives People Insane](https://graybeard.ing/software-drives-people-insane/)
 - NVIDIA AI Blog
   - [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)
 - TechCrunch
+  - [Anthropic reveals rogue AI agents hate CAPTCHAs, just like you](https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/)
   - [Google is making it easier to switch between password managers on Android](https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/)
+  - [India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content](https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/)
   - [Instagram’s latest feature lets you add tagged posts to your profile grid](https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/)
+- The Block
+  - [Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short](https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115)
 - The Decoder
   - [Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk](https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/)
+  - [OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time](https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/)
   - [Swarmchasers" hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark](https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/)
 - The Verge
   - [Amazon’s Fire TV Stick 4K is over half off at under $20](https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale)
