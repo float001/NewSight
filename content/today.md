@@ -2,14 +2,17 @@
 
 - 2Libra
   - [9 月 10 日资本市场大事提醒](https://2libra.com/post/stock-market/kXhEbI8)
+  - [iPhone 18 Pro + iPhone Duo 高清壁纸合集](https://2libra.com/post/apple/QJ_nLRq)
   - [iPhone 18 售价与 17 对比](https://2libra.com/post/apple/oI1FJGk)
   - [iPhone duo 如何](https://2libra.com/post/phone/scP-Bx9)
+  - [《雷鸟 IO 眼镜》点评：5 分｜雷鸟 IO 体验](https://2libra.com/post/smart-wearable/xwlf9Ws)
   - [【Iphone DUO】看了上手视频，感觉很好啊。买！](https://2libra.com/post/phone/mhvc6RW)
   - [修改 Blogger 编辑器 增加 代码片段 code 和 代码块 pre 按钮](https://2libra.com/post/open-source-sharing/tD1Q1Pz)
   - [关于昨天说电脑坏的后续](https://2libra.com/post/computers-accessories/wcAWxM7)
   - [大家好，写了个 AI 导航工具 收录了 1000 个 Ai，分享大家](https://2libra.com/post/sharing-discoveries/CmJqboC)
   - [如何结合 AI 学习某种不熟悉的技术？比如说 k8s](https://2libra.com/post/ai-applications/xm-lO4X)
   - [新款 AirPods5 全系支持 ANC 加量不加价](https://2libra.com/post/earphones/QcOhOv7)
+  - [涨的太离谱了 14p 换电池再战](https://2libra.com/post/phone/AaLVTRL)
   - [美好的一天从签到大失败和金币回收计划开始](https://2libra.com/post/forum-function/J_UBhOX)
   - [苹果新发布的 iPhone Duo](https://2libra.com/post/apple/g9t00_n)
   - [记录一下第一次的妙笔生花](https://2libra.com/post/forum-function/LWaMTch)
