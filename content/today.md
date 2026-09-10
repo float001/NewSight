@@ -3,23 +3,30 @@
 - 2Libra
   - [9 月 10 日资本市场大事提醒](https://2libra.com/post/stock-market/kXhEbI8)
   - [DeepSeek V4.1 Flash：更强、更快、更普惠](https://2libra.com/post/large-models/5b8MAHE)
+  - [DeepSeek-v4.1-flash 这个吞吐简直吓人](https://2libra.com/post/large-models/DCyoeK5)
   - [iPhone 18 Pro + iPhone Duo 高清壁纸合集](https://2libra.com/post/apple/QJ_nLRq)
   - [iPhone 18 售价与 17 对比](https://2libra.com/post/apple/oI1FJGk)
   - [iPhone duo 如何](https://2libra.com/post/phone/scP-Bx9)
   - [《雷鸟 IO 眼镜》点评：5 分｜雷鸟 IO 体验](https://2libra.com/post/smart-wearable/xwlf9Ws)
   - [【Iphone DUO】看了上手视频，感觉很好啊。买！](https://2libra.com/post/phone/mhvc6RW)
+  - [【钱】最近沉迷沃集鲜](https://2libra.com/post/worth-buying/nHxik6u)
   - [【💰】广东省内求推荐温泉酒店，要有私汤](https://2libra.com/post/travel-tips/6_sQDcK)
+  - [从 V 站酷工作节点发帖变化看十年就业趋势](https://2libra.com/post/workplace-stories/5NcKdLG)
   - [修改 Blogger 编辑器 增加 代码片段 code 和 代码块 pre 按钮](https://2libra.com/post/open-source-sharing/tD1Q1Pz)
   - [关于昨天说电脑坏的后续](https://2libra.com/post/computers-accessories/wcAWxM7)
+  - [关于那个电脑](https://2libra.com/post/small-things/lGG0k3w)
   - [大家好，写了个 AI 导航工具 收录了 1000 个 Ai，分享大家](https://2libra.com/post/sharing-discoveries/CmJqboC)
   - [如何结合 AI 学习某种不熟悉的技术？比如说 k8s](https://2libra.com/post/ai-applications/xm-lO4X)
   - [成都的奇幻体验：走出酒店阳台我就懵了](https://2libra.com/post/travel-logs/1tneyRD)
+  - [我做了一个 61 星启 心理工具箱](https://2libra.com/post/personal-works/F7VR-6y)
   - [新款 AirPods5 全系支持 ANC 加量不加价](https://2libra.com/post/earphones/QcOhOv7)
   - [有关系可以内部渠道拿 iPhone Duo📲 仅需 8000 拿不到退你 7950 仅限今天，跟周几没关系](https://2libra.com/post/worth-buying/W12Fv5C)
   - [涨的太离谱了 14p 换电池再战](https://2libra.com/post/phone/AaLVTRL)
   - [美好的一天从签到大失败和金币回收计划开始](https://2libra.com/post/forum-function/J_UBhOX)
   - [苹果新发布的 iPhone Duo](https://2libra.com/post/apple/g9t00_n)
+  - [薅 zed 羊毛](https://2libra.com/post/deal-hunter/41CMZpy)
   - [记录一下第一次的妙笔生花](https://2libra.com/post/forum-function/LWaMTch)
+  - [请在看到这个帖子时立刻打满一杯水喝下去, 至于为什么?](https://2libra.com/post/small-things/Xm12t-c)
   - [🎶💕🎶 因为歌荒了，能把你最近听的歌单的第一首音乐 🎶 分享给我一起听听吗？](https://2libra.com/post/music-sharing/NUoC7d0)
 - 404 Media
   - [Doctor Doom Thanked Seattle for All the Surveillance Cameras](https://www.404media.co/doctor-doom-thanked-seattle-for-all-the-surveillance-cameras/)
@@ -63,6 +70,8 @@
   - [Why Emacs Consult async searches feel slow and how to speed them up](https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/)
 - idiallo.com
   - [We own the Glass](https://idiallo.com/byte-size/)
+- infosecurity-magazine.com
+  - [OFAC Sanctions Chinese Scam Platform Xinbi Guarantee](https://www.infosecurity-magazine.com/news/ofac-sanctions-chinese-scam/)
 - Linux Foundation Blogs
   - [How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act](https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act)
 - rtl-sdr.com
@@ -76,8 +85,14 @@
   - [CVE-2025-32756-POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KN0X0X-CVE-2025-32756-POC&utm_source=rss&utm_medium=rss)
   - [destroylist exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PHISHDESTROY-DESTROYLIST&utm_source=rss&utm_medium=rss)
   - [DetectPacket-CVE-2017-8464 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TRG-1999-DETECTPACKET-CVE-2017-8464&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-28496](https://sploitus.com/exploit?id=59F12A74-D431-54BE-9BB4-F86BA2855DE8&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-72815](https://sploitus.com/exploit?id=96BA85C0-9261-5C52-BC77-CE0531979D65&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Initialization in Linux Linux_Kernel](https://sploitus.com/exploit?id=50E2D1FB-358D-5085-A24B-3CCD7339B7FE&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Splunk](https://sploitus.com/exploit?id=EA3A7806-7664-56E2-8852-A6332E2B1D40&utm_source=rss&utm_medium=rss)
+  - [Exploit for OS Command Injection in Synacor Zimbra_Collaboration_Suite](https://sploitus.com/exploit?id=CD558579-E03B-5336-B106-D285FA0D1CBD&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Wordpress](https://sploitus.com/exploit?id=3E816EB4-A45D-53D5-8652-586917F6E288&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Wpfastestcache Wp_Fastest_Cache](https://sploitus.com/exploit?id=686EE5AB-CB2C-5D66-87E3-5DC12E8D5EE2&utm_source=rss&utm_medium=rss)
+  - [Exploit for Unsafe Reflection in Progress Telerik_Ui_For_Asp.Net_Ajax](https://sploitus.com/exploit?id=258DAB99-F91C-5F4A-A48A-0BA421682EF2&utm_source=rss&utm_medium=rss)
   - [exploitcraft](https://sploitus.com/exploit?id=ACF7946E-D16B-5E86-8883-92929CF83BEE&utm_source=rss&utm_medium=rss)
   - [heartwood exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RADICLE-DEV-HEARTWOOD&utm_source=rss&utm_medium=rss)
   - [PocketCinema exploit](https://sploitus.com/exploit?id=D4811A36-7CCF-5EBF-B8E7-5192E256D894&utm_source=rss&utm_medium=rss)
@@ -173,6 +188,7 @@
   - [GridDown Secure Messenger: Using an SX1262 LoRa Radio as a Drone Scanner and Secure Messenger](https://buaq.net/go-441326.html)
   - [kyverno v1.19.1-rc.1](https://buaq.net/go-441358.html)
   - [MSSH：只有 5 MB，单文件 SSH 客户端[Windows / macOS]](https://buaq.net/go-441357.html)
+  - [智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴](https://buaq.net/go-441364.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
