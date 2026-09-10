@@ -10,6 +10,7 @@
   - [大家好，写了个 AI 导航工具 收录了 1000 个 Ai，分享大家](https://2libra.com/post/sharing-discoveries/CmJqboC)
   - [如何结合 AI 学习某种不熟悉的技术？比如说 k8s](https://2libra.com/post/ai-applications/xm-lO4X)
   - [新款 AirPods5 全系支持 ANC 加量不加价](https://2libra.com/post/earphones/QcOhOv7)
+  - [美好的一天从签到大失败和金币回收计划开始](https://2libra.com/post/forum-function/J_UBhOX)
   - [苹果新发布的 iPhone Duo](https://2libra.com/post/apple/g9t00_n)
   - [记录一下第一次的妙笔生花](https://2libra.com/post/forum-function/LWaMTch)
   - [🎶💕🎶 因为歌荒了，能把你最近听的歌单的第一首音乐 🎶 分享给我一起听听吗？](https://2libra.com/post/music-sharing/NUoC7d0)
@@ -51,6 +52,8 @@
 - Linux Foundation Blogs
   - [How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act](https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act)
 - rtl-sdr.com
+  - [GNU Radio World: Browser-Based GNU Radio Flowgraphs](https://www.rtl-sdr.com/gnu-radio-world-browser-based-gnu-radio-flowgraphs/)
+  - [GridDown Secure Messenger: Using an SX1262 LoRa Radio as a Drone Scanner and Secure Messenger](https://www.rtl-sdr.com/griddown-secure-messenger-using-an-sx1262-lora-radio-as-a-drone-scanner-and-secure-messenger/)
   - [IC-SDR: A New Multimode SDR Software for Windows Written in Go](https://www.rtl-sdr.com/ic-sdr-a-new-multimode-sdr-software-for-windows-written-in-go/)
 - simonwillison.net
   - [Quoting Calif Research](https://simonwillison.net/2026/Sep/10/calif-research/)
@@ -91,6 +94,7 @@
   - [Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash](https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034)
   - [Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME’s case](https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046)
   - [Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group](https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061)
+  - [Trezor says third-party security breach led to phishing emails from legitimate domain](https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086)
 - The Decoder
   - [Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario](https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/)
 - The Verge
@@ -141,11 +145,16 @@
   - [The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’](https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/)
   - [UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos](https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/)
   - [You Can Now Destroy Flock Cameras for Cash in GTA V](https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/)
+- 不安全
+  - [GridDown Secure Messenger: Using an SX1262 LoRa Radio as a Drone Scanner and Secure Messenger](https://buaq.net/go-441326.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Google 将“降级”欧洲搜索服务](https://www.solidot.org/story?sid=85332)
 - 安全客
   - [22万条最私密的照片和病历，就从一个API接口流了出去](https://www.anquanke.com/post/id/316093)
+- 爱范儿
+  - [理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看](https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [宁德时代回应“车间员工裸奔” 已报警调查恶意造谣](https://blog.upx8.com/%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9B%9E%E5%BA%94-%E8%BD%A6%E9%97%B4%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94-%E5%B7%B2%E6%8A%A5%E8%AD%A6%E8%B0%83%E6%9F%A5%E6%81%B6%E6%84%8F%E9%80%A0%E8%B0%A3)
   - [长鑫存储、长江存储囤够三年DUV光刻机](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8-%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E5%9B%A4%E5%A4%9F%E4%B8%89%E5%B9%B4DUV%E5%85%89%E5%88%BB%E6%9C%BA)
