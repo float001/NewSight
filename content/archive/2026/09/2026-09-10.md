@@ -48,6 +48,7 @@
 - CoinTelegraph
   - [Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar](https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view](https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Coinbase, Moov to provide stablecoin infrastructure for US community banks](https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Consensys to split into MetaMask and institutional blockchain company](https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [DoubleZero adds Kalshi election market data ahead of US midterms](https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -75,6 +76,7 @@
 - GuidePoint Security
   - [CRA Reporting Goes Live September 11: What Manufacturers Must Have in Place When the Clock Starts](https://www.guidepointsecurity.com/blog/eu-cra-reporting-requirements/)
 - Hacker News Frontpage
+  - [AI Doomlord Jacob Coxon's Media Tour Has Begun](https://gizmodo.com/ai-doomlord-jacob-coxons-media-tour-has-begun-2000809720)
   - [Apple debuts iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
   - [Apple Introduces AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
   - [Automattic CEO Matt Mullenweg Put on 'Leave of Absence'](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
@@ -83,6 +85,7 @@
   - [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
   - [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
   - [Show HN: The same nine streaming subscriptions cost $702/year more than in 2021](https://honestlyranked.com/guides/streaming-price-increases/)
+  - [Tell HN: OpenAI keeps re-enabling the 'allow training' setting](https://news.ycombinator.com/item?id=49643556)
   - [Why Emacs Consult async searches feel slow and how to speed them up](https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/)
 - HackerNoon
   - [Which GPU Do You Need for AI? A Practical VRAM Guide](https://hackernoon.com/which-gpu-do-you-need-for-ai-a-practical-vram-guide?source=rss)
@@ -91,6 +94,7 @@
   - [We own the Glass](https://idiallo.com/byte-size/)
 - infosecurity-magazine.com
   - [Anthropic Reveals Yet Another Cybersecurity Incident](https://www.infosecurity-magazine.com/news/anthropic-another-cybersecurity/)
+  - [CISA Updates Insider Threat Guide With New Mitigation Advice](https://www.infosecurity-magazine.com/news/cisa-updates-insider-threat-guide/)
   - [FBI Publishes First-Ever Cyber Strategy, With Focus on Disrupting Threat Actors](https://www.infosecurity-magazine.com/news/fbi-cyber-strategy-disrupting/)
   - [MantaxOtax Android Malware Combines Ransomware With Spyware](https://www.infosecurity-magazine.com/news/mantaxotax-android-malware/)
   - [OFAC Sanctions Chinese Scam Platform Xinbi Guarantee](https://www.infosecurity-magazine.com/news/ofac-sanctions-chinese-scam/)
@@ -143,7 +147,9 @@
   - [DOJ wants more answers on Fox’s $22B Roku deal](https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/)
   - [European founders and VCs urge lawmakers ‘to get EU Inc right’](https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/)
   - [Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/)
+  - [Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs](https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/)
   - [Harvey hits $15.5B valuation, months after reaching $11B](https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/)
+  - [ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen](https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/)
   - [Massachusetts hits data centers with new clean power rules](https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/)
   - [OpenAI adds a prominent AI doomer to its board of directors](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/)
   - [Snapchat takes aim at Partiful with new event-planning features](https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/)
@@ -152,6 +158,7 @@
   - [US Army places $11M bet on Austin-based GPS alternative Tern](https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/)
 - The Block
   - [Bitcoin miners are missing the crypto rally as exchanges, stablecoins surge](https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848)
+  - [Citadel urges SEC to assert oversight of event contracts tied to public firms](https://www.theblock.co/news/regulation/2026-09-10-citadel-urges-sec-assert-oversight-event-contracts-tied-public-firms-414140)
   - [Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years](https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104)
   - [DoubleZero adds Kalshi’s election markets ahead of November midterms](https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075)
   - [Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash](https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034)
@@ -164,6 +171,7 @@
 - The Decoder
   - [AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News](https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/)
   - [Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario](https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/)
+  - [GPT-6 Astra gives mathematicians a breather, and OpenAI says that's by design](https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/)
   - [Muse can shop, write emails, and negotiate prices for users, all through WhatsApp](https://the-decoder.com/muse-can-shop-write-emails-and-negotiate-prices-for-users-all-through-whatsapp/)
   - [New Deepseek model V4.1-Flash cuts memory needs for AI agents](https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/)
   - [Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation](https://the-decoder.com/nvidia-and-palantir-team-up-to-run-supply-chains-with-ai-starting-with-nvidias-own-million-part-operation/)
@@ -184,6 +192,7 @@
   - [Hands on with the new Apple Watch Series 12 and Apple Watch Ultra 4](https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4)
   - [Hands-on with the foldable iPhone Duo](https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions)
   - [Here’s how the new iPhone 18 Pro stacks up to the last-gen models](https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features)
+  - [How the iPhone Duo compares to other folding phones](https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison)
   - [How the new Apple Watches compare to the last-gen models](https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison)
   - [iOS 27 launches on September 14th with Siri AI](https://www.theverge.com/news/992408/ios-27-release-date-features)
   - [iPhone 18 live blog: On the ground at Apple’s biggest event](https://www.theverge.com/tech/989658/iphone-18-duo-pro-fold-apple-watch-airpods-keynote-live)
@@ -191,6 +200,7 @@
   - [It’s the year of smartphone price hikes](https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro)
   - [Mathematicians want proof OpenAI didn’t use their work](https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data)
   - [Microsoft has new AI privacy rules for schools](https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy)
+  - [New standards for masculinity are stacked against men’s health](https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health)
   - [Nintendo’s latest Switch 2 update adds VRR support in TV mode](https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update)
   - [Ocarina of Time remake physical preorders are $10 off at Walmart](https://www.theverge.com/gadgets/992221/ocarina-of-time-remaster-corsair-scimitar-deal-sale)
   - [OpenAI’s sly mathematical breakthrough sends a chill through academia](https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes)
@@ -206,6 +216,7 @@
   - [There aren’t AirPods with cameras yet and I hope it stays that way](https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event)
   - [Verge staffers react to the iPhone Duo: What we love and don’t love](https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react)
   - [Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI](https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini)
+  - [Why the current tech backlash feels different](https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers)
   - [Xbox is bringing back startup animations from its console history](https://www.theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features)
   - [Xbox picks up Kojima&#8217;s Physint after PlayStation dropped it](https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox)
 - Vulnerabilities and Threat Research – Qualys Security Blog
@@ -257,7 +268,10 @@
 - 安全客
   - [22万条最私密的照片和病历，就从一个API接口流了出去](https://www.anquanke.com/post/id/316093)
 - 爱范儿
+  - [20.99 万元起！全新智己 LS6 预售，全线控底盘全系标配](https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [iPhone 18 Pro 发布速览：「面子」变化不大，「里子」全面升级](https://www.ifanr.com/1679651?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看](https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [补贴后 12.99 万元起，银河 TT 上市：全系 800V+宁德时代定制电池](https://www.ifanr.com/1679668?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Anthropic向欧盟开放Mythos的访问权限](https://blog.upx8.com/Anthropic%E5%90%91%E6%AC%A7%E7%9B%9F%E5%BC%80%E6%94%BEMythos%E7%9A%84%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90)
   - [↩️ 上海体育局回应刘翔买断](https://blog.upx8.com/%E4%B8%8A%E6%B5%B7%E4%BD%93%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%88%98%E7%BF%94%E4%B9%B0%E6%96%AD)
@@ -266,6 +280,7 @@
   - [华为将AI芯片昇腾950DT的价格提高了60%](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E5%B0%86AI%E8%8A%AF%E7%89%87%E6%98%87%E8%85%BE950DT%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%8F%90%E9%AB%98%E4%BA%8660)
   - [宁德时代回应“车间员工裸奔” 已报警调查恶意造谣](https://blog.upx8.com/%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9B%9E%E5%BA%94-%E8%BD%A6%E9%97%B4%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94-%E5%B7%B2%E6%8A%A5%E8%AD%A6%E8%B0%83%E6%9F%A5%E6%81%B6%E6%84%8F%E9%80%A0%E8%B0%A3)
   - [小岛秀夫新作《Physint》转由Xbox发行](https://blog.upx8.com/%E5%B0%8F%E5%B2%9B%E7%A7%80%E5%A4%AB%E6%96%B0%E4%BD%9C-Physint-%E8%BD%AC%E7%94%B1Xbox%E5%8F%91%E8%A1%8C)
+  - [推出最强图像生成模型仅一天，OpenAI即限制竞品广告投放](https://blog.upx8.com/%E6%8E%A8%E5%87%BA%E6%9C%80%E5%BC%BA%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E4%BB%85%E4%B8%80%E5%A4%A9-OpenAI%E5%8D%B3%E9%99%90%E5%88%B6%E7%AB%9E%E5%93%81%E5%B9%BF%E5%91%8A%E6%8A%95%E6%94%BE)
   - [长鑫存储、长江存储囤够三年DUV光刻机](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8-%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E5%9B%A4%E5%A4%9F%E4%B8%89%E5%B9%B4DUV%E5%85%89%E5%88%BB%E6%9C%BA)
   - [马萨诸塞州要求大型数据中心自备清洁能源](https://blog.upx8.com/%E9%A9%AC%E8%90%A8%E8%AF%B8%E5%A1%9E%E5%B7%9E%E8%A6%81%E6%B1%82%E5%A4%A7%E5%9E%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%87%AA%E5%A4%87%E6%B8%85%E6%B4%81%E8%83%BD%E6%BA%90)
   - [高德回应“扫雷榜”传闻：“避雷指南 1.0”上线](https://blog.upx8.com/%E9%AB%98%E5%BE%B7%E5%9B%9E%E5%BA%94-%E6%89%AB%E9%9B%B7%E6%A6%9C-%E4%BC%A0%E9%97%BB-%E9%81%BF%E9%9B%B7%E6%8C%87%E5%8D%97-1-0-%E4%B8%8A%E7%BA%BF)
