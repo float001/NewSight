@@ -11,6 +11,7 @@
   - [关于昨天说电脑坏的后续](https://2libra.com/post/computers-accessories/wcAWxM7)
   - [大家好，写了个 AI 导航工具 收录了 1000 个 Ai，分享大家](https://2libra.com/post/sharing-discoveries/CmJqboC)
   - [如何结合 AI 学习某种不熟悉的技术？比如说 k8s](https://2libra.com/post/ai-applications/xm-lO4X)
+  - [成都的奇幻体验：走出酒店阳台我就懵了](https://2libra.com/post/travel-logs/1tneyRD)
   - [新款 AirPods5 全系支持 ANC 加量不加价](https://2libra.com/post/earphones/QcOhOv7)
   - [有关系可以内部渠道拿 iPhone Duo📲 仅需 8000 拿不到退你 7950 仅限今天，跟周几没关系](https://2libra.com/post/worth-buying/W12Fv5C)
   - [涨的太离谱了 14p 换电池再战](https://2libra.com/post/phone/AaLVTRL)
@@ -34,8 +35,11 @@
   - [Consensys to split into MetaMask and institutional blockchain company](https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [DoubleZero adds Kalshi election market data ahead of US midterms](https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trezor, BitBox warn users about fake hardware wallet security alerts](https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [TRM Labs doubles valuation to $2B in Series C expansion](https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction](https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Trezor, BitBox warn users about fake hardware wallet security alerts](https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - darkreading
   - [Mythos Vulnerability Firehose Hits a Human Bottleneck](https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck)
   - [US Government Accuses Chinese AI Firms of Distilling Frontier Models](https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models)
@@ -70,6 +74,7 @@
   - [Exploit for SQL Injection in Wpfastestcache Wp_Fastest_Cache](https://sploitus.com/exploit?id=686EE5AB-CB2C-5D66-87E3-5DC12E8D5EE2&utm_source=rss&utm_medium=rss)
   - [exploitcraft](https://sploitus.com/exploit?id=ACF7946E-D16B-5E86-8883-92929CF83BEE&utm_source=rss&utm_medium=rss)
   - [heartwood exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RADICLE-DEV-HEARTWOOD&utm_source=rss&utm_medium=rss)
+  - [PocketCinema exploit](https://sploitus.com/exploit?id=D4811A36-7CCF-5EBF-B8E7-5192E256D894&utm_source=rss&utm_medium=rss)
   - [yaraast exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SEIFREED-YARAAST&utm_source=rss&utm_medium=rss)
   - [yj_nearbyglasses exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-YJEANRENAUD-YJ_NEARBYGLASSES&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -96,6 +101,7 @@
   - [Bitcoin miners are missing the crypto rally as exchanges, stablecoins surge](https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848)
   - [DoubleZero adds Kalshi’s election markets ahead of November midterms](https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075)
   - [Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash](https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034)
+  - [Hunter Biden’s LAPTOP team cites sniper bots, thin liquidity for 99% crash on launch day](https://www.theblock.co/news/defi/2026-09-10-hunter-bidens-laptop-sniper-bots-414095)
   - [Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME’s case](https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046)
   - [Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group](https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061)
   - [Trezor says third-party security breach led to phishing emails from legitimate domain](https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086)
