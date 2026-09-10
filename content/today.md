@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-09-10）
 
 - 2Libra
+  - [修改 Blogger 编辑器 增加 代码片段 code 和 代码块 pre 按钮](https://2libra.com/post/open-source-sharing/tD1Q1Pz)
   - [🎶💕🎶 因为歌荒了，能把你最近听的歌单的第一首音乐 🎶 分享给我一起听听吗？](https://2libra.com/post/music-sharing/NUoC7d0)
 - 404 Media
   - [Doctor Doom Thanked Seattle for All the Surveillance Cameras](https://www.404media.co/doctor-doom-thanked-seattle-for-all-the-surveillance-cameras/)
@@ -42,6 +43,7 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for SQL Injection in Wpfastestcache Wp_Fastest_Cache](https://sploitus.com/exploit?id=686EE5AB-CB2C-5D66-87E3-5DC12E8D5EE2&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks](https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/)
   - [Apple CEO John Ternus says the best AI device is still the iPhone](https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/)
   - [Apple has a new way prove your iPhone photos aren’t AI slop](https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/)
   - [Apple launches iPhone 18 Pro with upgraded camera](https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/)
@@ -52,6 +54,7 @@
   - [Apple Watch’s new feature listens to your chats and recaps them](https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/)
   - [Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago](https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/)
   - [Apple’s revamped Health app will calculate your ‘health age’ and readiness score](https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/)
+  - [Automattic’s board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
   - [DOJ wants more answers on Fox’s $22B Roku deal](https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/)
   - [Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/)
   - [Harvey hits $15.5B valuation, months after reaching $11B](https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/)
@@ -103,6 +106,7 @@
   - [Xbox is bringing back startup animations from its console history](https://www.theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features)
 - Vulners.com RSS Feed
   - [Chromium: CVE-2026-85046 Type confusion in V8](https://vulners.com/mscve/MS:CVE-2026-85046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [IServ Schoolserver User Enumeration](https://vulners.com/packetstormnews/PACKETSTORMNEWS:217785?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Year After Charlie Kirk's Death, Turning Point Plans to Spend Big on the Midterms](https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/)
   - [Apple Debuts the iPhone Duo, Its First Folding iPhone](https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/)
