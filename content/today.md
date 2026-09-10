@@ -13,6 +13,7 @@
   - [【💰】广东省内求推荐温泉酒店，要有私汤](https://2libra.com/post/travel-tips/6_sQDcK)
   - [从 V 站酷工作节点发帖变化看十年就业趋势](https://2libra.com/post/workplace-stories/5NcKdLG)
   - [修改 Blogger 编辑器 增加 代码片段 code 和 代码块 pre 按钮](https://2libra.com/post/open-source-sharing/tD1Q1Pz)
+  - [免费音乐播放器](https://2libra.com/post/open-source-sharing/C9J0W6N)
   - [关于昨天说电脑坏的后续](https://2libra.com/post/computers-accessories/wcAWxM7)
   - [关于那个电脑](https://2libra.com/post/small-things/lGG0k3w)
   - [大家好，写了个 AI 导航工具 收录了 1000 个 Ai，分享大家](https://2libra.com/post/sharing-discoveries/CmJqboC)
@@ -43,9 +44,11 @@
   - [OFAC and DOJ Strike Xinbi, a Multibillion-Dollar Marketplace for Cybercriminals](https://www.chainalysis.com/blog/ofac-sanctions-xinbi-cybercriminal-crypto-marketplace/)
 - CoinTelegraph
   - [Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar](https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view](https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Consensys to split into MetaMask and institutional blockchain company](https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [DoubleZero adds Kalshi election market data ahead of US midterms](https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [India’s Arya.ag to put grain ownership records on Avalanche](https://cointelegraph.com/news/arya-ag-tests-tokenized-grain-receipts-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trezor, BitBox warn users about fake hardware wallet security alerts](https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [TRM Labs doubles valuation to $2B in Series C expansion](https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction](https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -71,6 +74,9 @@
   - [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
   - [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
   - [Why Emacs Consult async searches feel slow and how to speed them up](https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/)
+- HackerNoon
+  - [Which GPU Do You Need for AI? A Practical VRAM Guide](https://hackernoon.com/which-gpu-do-you-need-for-ai-a-practical-vram-guide?source=rss)
+  - [Why We Abandoned Satellite Imagery for an On-Device Procedural Sky](https://hackernoon.com/why-we-abandoned-satellite-imagery-for-an-on-device-procedural-sky?source=rss)
 - idiallo.com
   - [We own the Glass](https://idiallo.com/byte-size/)
 - infosecurity-magazine.com
@@ -132,6 +138,7 @@
   - [Trezor says third-party security breach led to phishing emails from legitimate domain](https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086)
 - The Decoder
   - [Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario](https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/)
+  - [Top AI spenders cut per-employee costs by nearly 10 percent in August](https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/)
 - The Verge
   - [All the news from Apple’s ‘Surprise and shine’ event](https://www.theverge.com/tech/991697/apple-surprise-and-shine-event-news)
   - [Apple announces AirPods 5 with ‘best-in-class open‑ear active noise cancellation’](https://www.theverge.com/tech/988479/apple-airpods-5-announcement-september-2026-event)
@@ -154,6 +161,7 @@
   - [iPhone 18 Pro and Pro Max: Our first hands-on impressions](https://www.theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event)
   - [It’s the year of smartphone price hikes](https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro)
   - [Microsoft has new AI privacy rules for schools](https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy)
+  - [Nintendo’s latest Switch 2 update adds VRR support in TV mode](https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update)
   - [Ocarina of Time remake physical preorders are $10 off at Walmart](https://www.theverge.com/gadgets/992221/ocarina-of-time-remaster-corsair-scimitar-deal-sale)
   - [OpenAI’s sly mathematical breakthrough sends a chill through academia](https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes)
   - [Read the Apple document explaining how new listening features still protect your privacy](https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy)
@@ -163,6 +171,8 @@
   - [The black iPhone Pro returns](https://www.theverge.com/tech/993048/iphone-18-pro-black-color)
   - [The incomplete history of Duo devices](https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices)
   - [The iPhone Duo is Apple’s first foldable](https://www.theverge.com/tech/991203/iphone-duo-foldable-news-specs-price-release-date)
+  - [The Trump phone just got a $250 price hike](https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike)
+  - [The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera](https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography)
   - [There aren’t AirPods with cameras yet and I hope it stays that way](https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event)
   - [Verge staffers react to the iPhone Duo: What we love and don’t love](https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react)
   - [Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI](https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini)
@@ -174,10 +184,13 @@
   - [Chromium: CVE-2026-85046 Type confusion in V8](https://vulners.com/mscve/MS:CVE-2026-85046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [IServ Schoolserver User Enumeration](https://vulners.com/packetstormnews/PACKETSTORMNEWS:217785?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [A Satellite Falling Out of Orbit Embarks on Its Final Mission](https://www.wired.com/story/satellite-falling-out-of-space-embarks-on-final-mission/)
+  - [A Teen Girl’s Death Is Prompting Calls to Ban Choking in Porn](https://www.wired.com/story/a-teen-girls-death-is-prompting-calls-to-ban-choking/)
   - [A Year After Charlie Kirk's Death, Turning Point Plans to Spend Big on the Midterms](https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/)
   - [Apple Debuts the iPhone Duo, Its First Folding iPhone](https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/)
   - [Apple Doesn’t Want You to Worry About the New Apple Watch’s Listening Features](https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/)
   - [Apple Watch Series 12 and Apple Watch Ultra 4: Price, Specs, Release Date](https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/)
+  - [Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online](https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/)
   - [Coleman Promo Codes and Deals: Up to 75% Off in September 2026](https://www.wired.com/story/coleman-promo-code/)
   - [Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5](https://www.wired.com/story/everything-apple-announced-september-2026/)
   - [Govee Discount Codes and Deals: 30% Off](https://www.wired.com/story/govee-discount-code/)
@@ -191,25 +204,31 @@
   - [The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’](https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/)
   - [Trump offers every American $5,000 If Republicans Win The Midterms](https://www.wired.com/story/trump-offers-every-american-dollar5000-if-republicans-win-the-midterms/)
   - [UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos](https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/)
+  - [Want to Get Off Your Phone? Mina Kimes Suggests Having a Baby](https://www.wired.com/story/user-behavior-mina-kimes/)
   - [You Can Now Destroy Flock Cameras for Cash in GTA V](https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/)
 - 不安全
+  - [A New Claude ‘s Sandbox Failure Shows How AI Can Rationalize Real-World Harm](https://buaq.net/go-441399.html)
   - [GridDown Secure Messenger: Using an SX1262 LoRa Radio as a Drone Scanner and Secure Messenger](https://buaq.net/go-441326.html)
   - [kyverno v1.19.1-rc.1](https://buaq.net/go-441358.html)
   - [MSSH：只有 5 MB，单文件 SSH 客户端[Windows / macOS]](https://buaq.net/go-441357.html)
   - [信息窃取器日志暴露可重放的 AI 令牌，可绕过 MFA](https://buaq.net/go-441378.html)
   - [智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴](https://buaq.net/go-441364.html)
+  - [苹果推出折叠屏手机 iPhone Duo](https://buaq.net/go-441389.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Google 将“降级”欧洲搜索服务](https://www.solidot.org/story?sid=85332)
+  - [苹果推出折叠屏手机 iPhone Duo](https://www.solidot.org/story?sid=85335)
 - 安全客
   - [22万条最私密的照片和病历，就从一个API接口流了出去](https://www.anquanke.com/post/id/316093)
 - 爱范儿
   - [理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看](https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [Anthropic向欧盟开放Mythos的访问权限](https://blog.upx8.com/Anthropic%E5%90%91%E6%AC%A7%E7%9B%9F%E5%BC%80%E6%94%BEMythos%E7%9A%84%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90)
   - [↩️ 上海体育局回应刘翔买断](https://blog.upx8.com/%E4%B8%8A%E6%B5%B7%E4%BD%93%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%88%98%E7%BF%94%E4%B9%B0%E6%96%AD)
   - [乌克兰称泽连斯基所乘飞机险遭无人机击中](https://blog.upx8.com/%E4%B9%8C%E5%85%8B%E5%85%B0%E7%A7%B0%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%89%80%E4%B9%98%E9%A3%9E%E6%9C%BA%E9%99%A9%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%87%BB%E4%B8%AD)
   - [华为将AI芯片昇腾950DT的价格提高了60%](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E5%B0%86AI%E8%8A%AF%E7%89%87%E6%98%87%E8%85%BE950DT%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%8F%90%E9%AB%98%E4%BA%8660)
   - [宁德时代回应“车间员工裸奔” 已报警调查恶意造谣](https://blog.upx8.com/%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9B%9E%E5%BA%94-%E8%BD%A6%E9%97%B4%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94-%E5%B7%B2%E6%8A%A5%E8%AD%A6%E8%B0%83%E6%9F%A5%E6%81%B6%E6%84%8F%E9%80%A0%E8%B0%A3)
+  - [小岛秀夫新作《Physint》转由Xbox发行](https://blog.upx8.com/%E5%B0%8F%E5%B2%9B%E7%A7%80%E5%A4%AB%E6%96%B0%E4%BD%9C-Physint-%E8%BD%AC%E7%94%B1Xbox%E5%8F%91%E8%A1%8C)
   - [长鑫存储、长江存储囤够三年DUV光刻机](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8-%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E5%9B%A4%E5%A4%9F%E4%B8%89%E5%B9%B4DUV%E5%85%89%E5%88%BB%E6%9C%BA)
   - [马萨诸塞州要求大型数据中心自备清洁能源](https://blog.upx8.com/%E9%A9%AC%E8%90%A8%E8%AF%B8%E5%A1%9E%E5%B7%9E%E8%A6%81%E6%B1%82%E5%A4%A7%E5%9E%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%87%AA%E5%A4%87%E6%B8%85%E6%B4%81%E8%83%BD%E6%BA%90)
