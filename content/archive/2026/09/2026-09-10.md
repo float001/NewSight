@@ -23,6 +23,7 @@
   - [新款 AirPods5 全系支持 ANC 加量不加价](https://2libra.com/post/earphones/QcOhOv7)
   - [有关系可以内部渠道拿 iPhone Duo📲 仅需 8000 拿不到退你 7950 仅限今天，跟周几没关系](https://2libra.com/post/worth-buying/W12Fv5C)
   - [涨的太离谱了 14p 换电池再战](https://2libra.com/post/phone/AaLVTRL)
+  - [理发](https://2libra.com/post/personal-life/K10gwxJ)
   - [美好的一天从签到大失败和金币回收计划开始](https://2libra.com/post/forum-function/J_UBhOX)
   - [苹果新发布的 iPhone Duo](https://2libra.com/post/apple/g9t00_n)
   - [薅 zed 羊毛](https://2libra.com/post/deal-hunter/41CMZpy)
@@ -48,7 +49,9 @@
   - [Consensys to split into MetaMask and institutional blockchain company](https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [DoubleZero adds Kalshi election market data ahead of US midterms](https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Hunter Biden denies profiting from memecoin after his LAPTOP crashes](https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [India’s Arya.ag to put grain ownership records on Avalanche](https://cointelegraph.com/news/arya-ag-tests-tokenized-grain-receipts-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Treasury Secretary Bessent urges CLARITY Act passage after Senate returns](https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trezor, BitBox warn users about fake hardware wallet security alerts](https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [TRM Labs doubles valuation to $2B in Series C expansion](https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction](https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -61,6 +64,8 @@
   - [US Government Accuses Chinese AI Firms of Distilling Frontier Models](https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models)
 - defend.network
   - [Cisco FMC actively exploited; BlueMoon exploit kit chains Chrome & Windows; AI tokens bypass MFA](https://defend.network/briefings/cisco-deepseek-chrome-exploit-kit-ai-threats-2026-09-10.html)
+- dfarq.homeip.net
+  - [When the RIAA sued a 12-year-old for MP3 piracy](https://dfarq.homeip.net/that-time-the-riaa-sued-a-12-year-old-for-mp3-usage/?utm_source=rss&utm_medium=rss&utm_campaign=that-time-the-riaa-sued-a-12-year-old-for-mp3-usage)
 - Fidelis Security
   - [Why Internal Attack Surface Management Needs Continuous Network Visibility](https://fidelissecurity.com/threatgeek/threat-detection-response/internal-attack-surface-management-needs-continuous-visibility/)
 - GuidePoint Security
@@ -73,6 +78,7 @@
   - [Defining AI Psychosis. Part 2: "Prolific AI Psychosis"](https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific)
   - [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
   - [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
+  - [Show HN: The same nine streaming subscriptions cost $702/year more than in 2021](https://honestlyranked.com/guides/streaming-price-increases/)
   - [Why Emacs Consult async searches feel slow and how to speed them up](https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/)
 - HackerNoon
   - [Which GPU Do You Need for AI? A Practical VRAM Guide](https://hackernoon.com/which-gpu-do-you-need-for-ai-a-practical-vram-guide?source=rss)
@@ -130,6 +136,7 @@
   - [There are new shiny iPhones, so Apple is making you pay more for older models](https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/)
 - The Block
   - [Bitcoin miners are missing the crypto rally as exchanges, stablecoins surge](https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848)
+  - [Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years](https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104)
   - [DoubleZero adds Kalshi’s election markets ahead of November midterms](https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075)
   - [Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash](https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034)
   - [Hunter Biden’s LAPTOP team cites sniper bots, thin liquidity for 99% crash on launch day](https://www.theblock.co/news/defi/2026-09-10-hunter-bidens-laptop-sniper-bots-414095)
@@ -137,6 +144,7 @@
   - [Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group](https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061)
   - [Trezor says third-party security breach led to phishing emails from legitimate domain](https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086)
 - The Decoder
+  - [AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News](https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/)
   - [Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario](https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/)
   - [Top AI spenders cut per-employee costs by nearly 10 percent in August](https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/)
 - The Verge
@@ -160,6 +168,7 @@
   - [iPhone 18 live blog: On the ground at Apple’s biggest event](https://www.theverge.com/tech/989658/iphone-18-duo-pro-fold-apple-watch-airpods-keynote-live)
   - [iPhone 18 Pro and Pro Max: Our first hands-on impressions](https://www.theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event)
   - [It’s the year of smartphone price hikes](https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro)
+  - [Mathematicians want proof OpenAI didn’t use their work](https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data)
   - [Microsoft has new AI privacy rules for schools](https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy)
   - [Nintendo’s latest Switch 2 update adds VRR support in TV mode](https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update)
   - [Ocarina of Time remake physical preorders are $10 off at Walmart](https://www.theverge.com/gadgets/992221/ocarina-of-time-remaster-corsair-scimitar-deal-sale)
@@ -184,19 +193,23 @@
   - [Chromium: CVE-2026-85046 Type confusion in V8](https://vulners.com/mscve/MS:CVE-2026-85046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [IServ Schoolserver User Enumeration](https://vulners.com/packetstormnews/PACKETSTORMNEWS:217785?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [9 Windows Laptops That Give MacBooks a Run for Their Money](https://www.wired.com/gallery/best-windows-laptops/)
   - [A Satellite Falling Out of Orbit Embarks on Its Final Mission](https://www.wired.com/story/satellite-falling-out-of-space-embarks-on-final-mission/)
   - [A Teen Girl’s Death Is Prompting Calls to Ban Choking in Porn](https://www.wired.com/story/a-teen-girls-death-is-prompting-calls-to-ban-choking/)
   - [A Year After Charlie Kirk's Death, Turning Point Plans to Spend Big on the Midterms](https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/)
   - [Apple Debuts the iPhone Duo, Its First Folding iPhone](https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/)
   - [Apple Doesn’t Want You to Worry About the New Apple Watch’s Listening Features](https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/)
   - [Apple Watch Series 12 and Apple Watch Ultra 4: Price, Specs, Release Date](https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/)
+  - [Best Bluetooth Speaker (2026): JBL, Sonos, Marshall, and More](https://www.wired.com/story/best-bluetooth-speakers/)
   - [Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online](https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/)
   - [Coleman Promo Codes and Deals: Up to 75% Off in September 2026](https://www.wired.com/story/coleman-promo-code/)
   - [Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5](https://www.wired.com/story/everything-apple-announced-september-2026/)
+  - [Everything New You Can Do With Siri AI](https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/)
   - [Govee Discount Codes and Deals: 30% Off](https://www.wired.com/story/govee-discount-code/)
   - [Herman Miller Promo Codes: 40% Off September 2026](https://www.wired.com/story/herman-miller-promo-code/)
   - [Hungryroot Coupon Codes: 30% Off This September 2026](https://www.wired.com/story/hungryroot-promo-code/)
   - [I Let an AI Agent Hack All My Gadgets—and I’d Do It Again](https://www.wired.com/story/i-used-ai-to-hack-my-home-network/)
+  - [Imagining a Future Where a Spy Could Disappear](https://www.wired.com/story/book-excerpt-emily-st-john-mandel-exit-party/)
   - [Norton Coupon Codes: Up to 58% Off](https://www.wired.com/story/norton-coupon-code/)
   - [NZXT Discount Codes: 50% Off in September 2026](https://www.wired.com/story/nzxt-discount-code/)
   - [Our Favorite GoPro 360 Camera Is Now 40 Percent Off](https://www.wired.com/story/gopro-max-2-deal-september-2026/)
@@ -206,6 +219,7 @@
   - [UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos](https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/)
   - [Want to Get Off Your Phone? Mina Kimes Suggests Having a Baby](https://www.wired.com/story/user-behavior-mina-kimes/)
   - [You Can Now Destroy Flock Cameras for Cash in GTA V](https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/)
+  - [‘Killmonger Locs’ Are Everywhere in Video Games. This Artist Is Sick of It](https://www.wired.com/story/killmonger-locs-have-infiltrated-video-games-this-artist-is-sick-of-it/)
 - 不安全
   - [A New Claude ‘s Sandbox Failure Shows How AI Can Rationalize Real-World Harm](https://buaq.net/go-441399.html)
   - [GridDown Secure Messenger: Using an SX1262 LoRa Radio as a Drone Scanner and Secure Messenger](https://buaq.net/go-441326.html)
