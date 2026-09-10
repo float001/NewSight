@@ -3,6 +3,7 @@
 - 2Libra
   - [分享你的影视剧 top](https://2libra.com/post/movie-sharing/uf66q-Z)
 - Ars Technica
+  - [Boy developed "toasted skin" condition from using a laptop every day](https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/)
   - [Europe will go it alone on Venus mission after NASA yanks radar instrument](https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/)
 - CERT Recently Published Vulnerability Notes
   - [VU#687587: AOMEI Backupper amwrtdrv.sys local privilege escalation vulnerability allows arbitrary writes to physical disks](https://kb.cert.org/vuls/id/687587)
@@ -46,6 +47,7 @@
   - [Meta’s AI agent Muse is now the No. 2 app in the US](https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/)
   - [OpenAI puts Pro subscriptions on hold due to Astra demand](https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/)
   - [Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers](https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/)
+  - [Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play](https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/)
 - text/plain
   - [Simple Browser Security Improvements](https://textslashplain.com/2026/09/10/simple-browser-security-improvements/)
 - The Block
