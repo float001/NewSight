@@ -13,6 +13,7 @@
   - [【💰】广东省内求推荐温泉酒店，要有私汤](https://2libra.com/post/travel-tips/6_sQDcK)
   - [从 V 站酷工作节点发帖变化看十年就业趋势](https://2libra.com/post/workplace-stories/5NcKdLG)
   - [修改 Blogger 编辑器 增加 代码片段 code 和 代码块 pre 按钮](https://2libra.com/post/open-source-sharing/tD1Q1Pz)
+  - [兄弟们，我真的厨力满满，我的第二张 PCB 艺术画（无任何实际功能）超级好看！](https://2libra.com/post/personal-works/gBiEiCk)
   - [免费音乐播放器](https://2libra.com/post/open-source-sharing/C9J0W6N)
   - [关于昨天说电脑坏的后续](https://2libra.com/post/computers-accessories/wcAWxM7)
   - [关于那个电脑](https://2libra.com/post/small-things/lGG0k3w)
@@ -51,6 +52,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hunter Biden denies profiting from memecoin after his LAPTOP crashes](https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [India’s Arya.ag to put grain ownership records on Avalanche](https://cointelegraph.com/news/arya-ag-tests-tokenized-grain-receipts-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Nasdaq invests $100M in Kraken parent at $21B valuation: Report](https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Treasury Secretary Bessent urges CLARITY Act passage after Senate returns](https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trezor, BitBox warn users about fake hardware wallet security alerts](https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [TRM Labs doubles valuation to $2B in Series C expansion](https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -94,6 +96,8 @@
   - [GNU Radio World: Browser-Based GNU Radio Flowgraphs](https://www.rtl-sdr.com/gnu-radio-world-browser-based-gnu-radio-flowgraphs/)
   - [GridDown Secure Messenger: Using an SX1262 LoRa Radio as a Drone Scanner and Secure Messenger](https://www.rtl-sdr.com/griddown-secure-messenger-using-an-sx1262-lora-radio-as-a-drone-scanner-and-secure-messenger/)
   - [IC-SDR: A New Multimode SDR Software for Windows Written in Go](https://www.rtl-sdr.com/ic-sdr-a-new-multimode-sdr-software-for-windows-written-in-go/)
+- shkspr.mobi
+  - [Put an AV test at the start of your slides](https://shkspr.mobi/blog/2026/09/put-an-av-test-at-the-start-of-your-slides/)
 - simonwillison.net
   - [Quoting Calif Research](https://simonwillison.net/2026/Sep/10/calif-research/)
 - Sploitus.com Exploits RSS Feed
@@ -134,6 +138,7 @@
   - [OpenAI adds a prominent AI doomer to its board of directors](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/)
   - [The hinge for Apple’s new foldable phone was built with AI](https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/)
   - [There are new shiny iPhones, so Apple is making you pay more for older models](https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/)
+  - [US Army places $11M bet on Austin-based GPS alternative Tern](https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/)
 - The Block
   - [Bitcoin miners are missing the crypto rally as exchanges, stablecoins surge](https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848)
   - [Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years](https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104)
@@ -240,9 +245,11 @@
 - 黑海洋
   - [Anthropic向欧盟开放Mythos的访问权限](https://blog.upx8.com/Anthropic%E5%90%91%E6%AC%A7%E7%9B%9F%E5%BC%80%E6%94%BEMythos%E7%9A%84%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90)
   - [↩️ 上海体育局回应刘翔买断](https://blog.upx8.com/%E4%B8%8A%E6%B5%B7%E4%BD%93%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%88%98%E7%BF%94%E4%B9%B0%E6%96%AD)
+  - [《合金弹头 终极合集》Steam页面上线](https://blog.upx8.com/%E5%90%88%E9%87%91%E5%BC%B9%E5%A4%B4-%E7%BB%88%E6%9E%81%E5%90%88%E9%9B%86-Steam%E9%A1%B5%E9%9D%A2%E4%B8%8A%E7%BA%BF)
   - [乌克兰称泽连斯基所乘飞机险遭无人机击中](https://blog.upx8.com/%E4%B9%8C%E5%85%8B%E5%85%B0%E7%A7%B0%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%89%80%E4%B9%98%E9%A3%9E%E6%9C%BA%E9%99%A9%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%87%BB%E4%B8%AD)
   - [华为将AI芯片昇腾950DT的价格提高了60%](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E5%B0%86AI%E8%8A%AF%E7%89%87%E6%98%87%E8%85%BE950DT%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%8F%90%E9%AB%98%E4%BA%8660)
   - [宁德时代回应“车间员工裸奔” 已报警调查恶意造谣](https://blog.upx8.com/%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9B%9E%E5%BA%94-%E8%BD%A6%E9%97%B4%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94-%E5%B7%B2%E6%8A%A5%E8%AD%A6%E8%B0%83%E6%9F%A5%E6%81%B6%E6%84%8F%E9%80%A0%E8%B0%A3)
   - [小岛秀夫新作《Physint》转由Xbox发行](https://blog.upx8.com/%E5%B0%8F%E5%B2%9B%E7%A7%80%E5%A4%AB%E6%96%B0%E4%BD%9C-Physint-%E8%BD%AC%E7%94%B1Xbox%E5%8F%91%E8%A1%8C)
   - [长鑫存储、长江存储囤够三年DUV光刻机](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8-%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E5%9B%A4%E5%A4%9F%E4%B8%89%E5%B9%B4DUV%E5%85%89%E5%88%BB%E6%9C%BA)
   - [马萨诸塞州要求大型数据中心自备清洁能源](https://blog.upx8.com/%E9%A9%AC%E8%90%A8%E8%AF%B8%E5%A1%9E%E5%B7%9E%E8%A6%81%E6%B1%82%E5%A4%A7%E5%9E%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%87%AA%E5%A4%87%E6%B8%85%E6%B4%81%E8%83%BD%E6%BA%90)
+  - [高德回应“扫雷榜”传闻：“避雷指南 1.0”上线](https://blog.upx8.com/%E9%AB%98%E5%BE%B7%E5%9B%9E%E5%BA%94-%E6%89%AB%E9%9B%B7%E6%A6%9C-%E4%BC%A0%E9%97%BB-%E9%81%BF%E9%9B%B7%E6%8C%87%E5%8D%97-1-0-%E4%B8%8A%E7%BA%BF)
