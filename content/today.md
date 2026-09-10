@@ -2,11 +2,13 @@
 
 - 2Libra
   - [9 月 10 日资本市场大事提醒](https://2libra.com/post/stock-market/kXhEbI8)
+  - [DeepSeek V4.1 Flash：更强、更快、更普惠](https://2libra.com/post/large-models/5b8MAHE)
   - [iPhone 18 Pro + iPhone Duo 高清壁纸合集](https://2libra.com/post/apple/QJ_nLRq)
   - [iPhone 18 售价与 17 对比](https://2libra.com/post/apple/oI1FJGk)
   - [iPhone duo 如何](https://2libra.com/post/phone/scP-Bx9)
   - [《雷鸟 IO 眼镜》点评：5 分｜雷鸟 IO 体验](https://2libra.com/post/smart-wearable/xwlf9Ws)
   - [【Iphone DUO】看了上手视频，感觉很好啊。买！](https://2libra.com/post/phone/mhvc6RW)
+  - [【💰】广东省内求推荐温泉酒店，要有私汤](https://2libra.com/post/travel-tips/6_sQDcK)
   - [修改 Blogger 编辑器 增加 代码片段 code 和 代码块 pre 按钮](https://2libra.com/post/open-source-sharing/tD1Q1Pz)
   - [关于昨天说电脑坏的后续](https://2libra.com/post/computers-accessories/wcAWxM7)
   - [大家好，写了个 AI 导航工具 收录了 1000 个 Ai，分享大家](https://2libra.com/post/sharing-discoveries/CmJqboC)
@@ -41,8 +43,11 @@
 - CoinTelegraph Security
   - [Trezor, BitBox warn users about fake hardware wallet security alerts](https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - darkreading
+  - [EU Cyber Resilience Act to Enforce New Reporting Requirements](https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements)
   - [Mythos Vulnerability Firehose Hits a Human Bottleneck](https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck)
   - [US Government Accuses Chinese AI Firms of Distilling Frontier Models](https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models)
+- defend.network
+  - [Cisco FMC actively exploited; BlueMoon exploit kit chains Chrome & Windows; AI tokens bypass MFA](https://defend.network/briefings/cisco-deepseek-chrome-exploit-kit-ai-threats-2026-09-10.html)
 - Fidelis Security
   - [Why Internal Attack Surface Management Needs Continuous Network Visibility](https://fidelissecurity.com/threatgeek/threat-detection-response/internal-attack-surface-management-needs-continuous-visibility/)
 - GuidePoint Security
@@ -51,6 +56,7 @@
   - [Apple debuts iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
   - [Apple Introduces AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
   - [Automattic CEO Matt Mullenweg Put on 'Leave of Absence'](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
+  - [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
   - [Defining AI Psychosis. Part 2: "Prolific AI Psychosis"](https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific)
   - [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
   - [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
@@ -140,6 +146,7 @@
   - [The iPhone Duo is Apple’s first foldable](https://www.theverge.com/tech/991203/iphone-duo-foldable-news-specs-price-release-date)
   - [There aren’t AirPods with cameras yet and I hope it stays that way](https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event)
   - [Verge staffers react to the iPhone Duo: What we love and don’t love](https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react)
+  - [Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI](https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini)
   - [Xbox is bringing back startup animations from its console history](https://www.theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features)
 - Vulners.com RSS Feed
   - [Chromium: CVE-2026-85046 Type confusion in V8](https://vulners.com/mscve/MS:CVE-2026-85046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -159,10 +166,13 @@
   - [NZXT Discount Codes: 50% Off in September 2026](https://www.wired.com/story/nzxt-discount-code/)
   - [San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads](https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/)
   - [The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’](https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/)
+  - [Trump offers every American $5,000 If Republicans Win The Midterms](https://www.wired.com/story/trump-offers-every-american-dollar5000-if-republicans-win-the-midterms/)
   - [UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos](https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/)
   - [You Can Now Destroy Flock Cameras for Cash in GTA V](https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/)
 - 不安全
   - [GridDown Secure Messenger: Using an SX1262 LoRa Radio as a Drone Scanner and Secure Messenger](https://buaq.net/go-441326.html)
+  - [kyverno v1.19.1-rc.1](https://buaq.net/go-441358.html)
+  - [MSSH：只有 5 MB，单文件 SSH 客户端[Windows / macOS]](https://buaq.net/go-441357.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
@@ -172,6 +182,7 @@
 - 爱范儿
   - [理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看](https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [↩️ 上海体育局回应刘翔买断](https://blog.upx8.com/%E4%B8%8A%E6%B5%B7%E4%BD%93%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%88%98%E7%BF%94%E4%B9%B0%E6%96%AD)
   - [宁德时代回应“车间员工裸奔” 已报警调查恶意造谣](https://blog.upx8.com/%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9B%9E%E5%BA%94-%E8%BD%A6%E9%97%B4%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94-%E5%B7%B2%E6%8A%A5%E8%AD%A6%E8%B0%83%E6%9F%A5%E6%81%B6%E6%84%8F%E9%80%A0%E8%B0%A3)
   - [长鑫存储、长江存储囤够三年DUV光刻机](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8-%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E5%9B%A4%E5%A4%9F%E4%B8%89%E5%B9%B4DUV%E5%85%89%E5%88%BB%E6%9C%BA)
   - [马萨诸塞州要求大型数据中心自备清洁能源](https://blog.upx8.com/%E9%A9%AC%E8%90%A8%E8%AF%B8%E5%A1%9E%E5%B7%9E%E8%A6%81%E6%B1%82%E5%A4%A7%E5%9E%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%87%AA%E5%A4%87%E6%B8%85%E6%B4%81%E8%83%BD%E6%BA%90)
