@@ -3,11 +3,17 @@
 - 404 Media
   - [Automattic’s Matt Mullenweg Claims He’s Back 'In Control'](https://www.404media.co/automattic-matt-mullenweg-back-in-control/)
   - [Behind the Blog: How to Talk About AI Doom](https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/)
+- CoinTelegraph
+  - [Hyperliquid’s biggest risk is regulation, says Ran Neuner](https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [iPhone Duo Only Works With the $80 USB-C Apple Pencil, Not the $130 Apple Pencil Pro](https://www.macrumors.com/2026/09/09/apple-pencil-usb-c-iphone-duo/)
 - darkreading
   - [AI Governance Can't Wait](https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait)
+  - [CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate](https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate)
+  - [Why AI Is So Good at Scamming Humans](https://www.darkreading.com/cyber-risk/ai-scamming-humans)
 - Hacker News Frontpage
+  - [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
+  - [Top mathematicians are outraged by OpenAI's methods](https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods)
   - [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
 - IEEE Spectrum
   - [IEEE to Reward Sections for High Voter Turnout in Annual Election](https://spectrum.ieee.org/ieee-to-reward-sections)
@@ -16,6 +22,7 @@
 - Sploitus.com Exploits RSS Feed
   - [redamon exploit](https://sploitus.com/exploit?id=828EAF8B-B152-5042-9531-95E152B0CEAD&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ](https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/)
   - [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/)
   - [Roblox is making it easier to build games with AI — and play them outside Roblox](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/)
 - The Block
@@ -32,6 +39,7 @@
   - [We unfolded the iPhone Duo](https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms)
 - Vulners.com RSS Feed
   - [redamon](https://vulners.com/gitee/828EAF8B-B152-5042-9531-95E152B0CEAD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [WordPress bbPress plugin <= 2.6.14 - Sensitive Data Exposure vulnerability](https://vulners.com/patchstack/PATCHSTACK:B2E98BD087C79EA1F21D21CC7468A5F0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Petlibro Offers: 30% Off in September 2026](https://www.wired.com/story/petlibro-discount-code/)
 - 代码审计星球
