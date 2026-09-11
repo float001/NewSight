@@ -3,9 +3,12 @@
 - 2Libra
   - [【💰】常穿的 T 恤多少钱买的](https://2libra.com/post/personal-life/LaDpkij)
   - [【💰】最近有什么好看的电视剧和电影推荐的吗？](https://2libra.com/post/movie-sharing/ZfbDdks)
+  - [【💰】求助帖----大家交流一下自己使用梯子的心得呀](https://2libra.com/post/networking/u8Un0Jg)
+  - [你们弹窗打开帖子会不会频繁评论区无法使用](https://2libra.com/post/community/GDirhhX)
   - [分享你的影视剧 top](https://2libra.com/post/movie-sharing/uf66q-Z)
   - [快要周末了](https://2libra.com/post/weekend-life/7hh_ccq)
   - [签到投掷 20，还有谁？](https://2libra.com/post/forum-function/fWheb6y)
+  - [给你们看看顶富的日常](https://2libra.com/post/hotspot-tracking/jZRPzVQ)
   - [车机游戏站终于能够完美的联机对战了！！！！](https://2libra.com/post/personal-works/Soo5djZ)
 - Ars Technica
   - [Boy developed "toasted skin" condition from using a laptop every day](https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/)
@@ -47,6 +50,7 @@
   - [OpenWXSDR Updates: Decoder Improvements and Sondehub.org Uploads](https://www.rtl-sdr.com/openwxsdr-updates-decoder-improvements-and-sondehub-org-uploads/)
 - simonwillison.net
   - [Any Nix package, live in your browser](https://simonwillison.net/2026/Sep/10/trynix/)
+  - [Datasette 1.0a39 and 0.65.4 security releases](https://simonwillison.net/2026/Sep/11/datasette-security/)
   - [Native is now the future of mobile at Shopify](https://simonwillison.net/2026/Sep/10/shopify-react-native/)
 - TechCrunch
   - [Amazon makes it easier to buy what you see on Prime Video](https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/)
@@ -84,6 +88,7 @@
   - [Which iPhone 18 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-18-models-to-buy/)
 - 不安全
   - [OpenWXSDR Updates: Decoder Improvements and Sondehub.org Uploads](https://buaq.net/go-441609.html)
+  - [社交网站X调整搜索API定价 从每1,000次搜索5美元换成每获取1,000条结果收费5美元](https://buaq.net/go-441618.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
