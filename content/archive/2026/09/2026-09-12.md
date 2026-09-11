@@ -35,6 +35,7 @@
   - [IEEE to Reward Sections for High Voter Turnout in Annual Election](https://spectrum.ieee.org/ieee-to-reward-sections)
 - simonwillison.net
   - [Quoting Boris Cherny](https://simonwillison.net/2026/Sep/11/boris-cherny/)
+  - [So you want to use OpenRouter?](https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/)
 - Sploitus.com Exploits RSS Feed
   - [redamon exploit](https://sploitus.com/exploit?id=828EAF8B-B152-5042-9531-95E152B0CEAD&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -42,6 +43,7 @@
   - [Final, final, final call for TechCrunch Disrupt 2026 Side Events](https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/)
   - [Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/)
   - [Kimi-maker Moonshot AI targets $2 billion in annual revenue](https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/)
+  - [Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)
   - [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/)
   - [One week left to book your exhibit table at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/)
   - [OpenAI’s feud with mathematicians is only escalating](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)
@@ -66,8 +68,37 @@
 - troyhunt.com
   - [Weekly Update 521: Breach Perception v. Reality](https://www.troyhunt.com/weekly-update-521/)
 - Vulners.com RSS Feed
+  - [CVE-2026-44715](https://vulners.com/nvd/NVD:CVE-2026-44715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45056](https://vulners.com/nvd/NVD:CVE-2026-45056?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48496](https://vulners.com/nvd/NVD:CVE-2026-48496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49846](https://vulners.com/nvd/NVD:CVE-2026-49846?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49992](https://vulners.com/nvd/NVD:CVE-2026-49992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50013](https://vulners.com/nvd/NVD:CVE-2026-50013?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50018](https://vulners.com/nvd/NVD:CVE-2026-50018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54240](https://vulners.com/nvd/NVD:CVE-2026-54240?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54241](https://vulners.com/nvd/NVD:CVE-2026-54241?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54248](https://vulners.com/nvd/NVD:CVE-2026-54248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54258](https://vulners.com/nvd/NVD:CVE-2026-54258?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81916 Incorrect Authorization in the Concrete CMS Express Entries Dashboard below version 9.5.3 Allows Entry Creation in an Unauthorized Object](https://vulners.com/cve/CVE-2026-81916?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81916 Incorrect Authorization in the Concrete CMS Express Entries Dashboard below version 9.5.3 Allows Entry Creation in an Unauthorized Object](https://vulners.com/cvelist/CVELIST:CVE-2026-81916?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90443](https://vulners.com/nvd/NVD:CVE-2026-90443?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90444](https://vulners.com/nvd/NVD:CVE-2026-90444?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90445](https://vulners.com/nvd/NVD:CVE-2026-90445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90446](https://vulners.com/nvd/NVD:CVE-2026-90446?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90447](https://vulners.com/nvd/NVD:CVE-2026-90447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90448](https://vulners.com/nvd/NVD:CVE-2026-90448?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90449](https://vulners.com/nvd/NVD:CVE-2026-90449?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90450](https://vulners.com/nvd/NVD:CVE-2026-90450?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90451](https://vulners.com/nvd/NVD:CVE-2026-90451?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90452](https://vulners.com/nvd/NVD:CVE-2026-90452?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90453](https://vulners.com/nvd/NVD:CVE-2026-90453?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90454](https://vulners.com/nvd/NVD:CVE-2026-90454?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90455](https://vulners.com/nvd/NVD:CVE-2026-90455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90456](https://vulners.com/nvd/NVD:CVE-2026-90456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90457](https://vulners.com/nvd/NVD:CVE-2026-90457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90460](https://vulners.com/nvd/NVD:CVE-2026-90460?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90461](https://vulners.com/nvd/NVD:CVE-2026-90461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-89013](https://vulners.com/githubexploit/BAAF8349-AB02-5C71-B94E-0F3276B4A5E9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [redamon](https://vulners.com/gitee/828EAF8B-B152-5042-9531-95E152B0CEAD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress bbPress plugin <= 2.6.14 - Sensitive Data Exposure vulnerability](https://vulners.com/patchstack/PATCHSTACK:B2E98BD087C79EA1F21D21CC7468A5F0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
@@ -76,3 +107,5 @@
   - [The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades](https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [中东战火波及AI基建 阿联酋据称拟重新规划数据中心版图](https://blog.upx8.com/%E4%B8%AD%E4%B8%9C%E6%88%98%E7%81%AB%E6%B3%A2%E5%8F%8AAI%E5%9F%BA%E5%BB%BA-%E9%98%BF%E8%81%94%E9%85%8B%E6%8D%AE%E7%A7%B0%E6%8B%9F%E9%87%8D%E6%96%B0%E8%A7%84%E5%88%92%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%89%88%E5%9B%BE)
