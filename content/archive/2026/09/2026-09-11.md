@@ -2,6 +2,7 @@
 
 - 2Libra
   - [42 岁 Java 后端失业 1 个多月了，面试极少，可以考虑写网文吗？](https://2libra.com/post/side-business/sDomw9P)
+  - [9 月 11 日资本市场大事提醒](https://2libra.com/post/stock-market/4-cwNQB)
   - [CordCloud 邀请码有人有么，或者其它好用又便宜的梯子](https://2libra.com/post/tool-sharing/boASx3Z)
   - [DeepSeek 被曝秘密转发用户请求至 Claude](https://2libra.com/post/ai-trends/69eh06h)
   - [offer 收到，爽了，开心！](https://2libra.com/post/job-hunting/sfbgWkV)
@@ -13,6 +14,7 @@
   - [【💰】有什么游戏推荐吗，自己玩的游戏类型太少了](https://2libra.com/post/game-share/eqMPChk)
   - [【💰】求助帖----大家交流一下自己使用梯子的心得呀](https://2libra.com/post/networking/u8Un0Jg)
   - [你们弹窗打开帖子会不会频繁评论区无法使用](https://2libra.com/post/community/GDirhhX)
+  - [克劳德 Anthropic 再次针对大模型，曝光 7 家公司蒸馏手法](https://2libra.com/post/ai-trends/_4J03kC)
   - [公益分组 0.005x+免费生图](https://2libra.com/post/ai-gateway/nCwxkgI)
   - [分享你的影视剧 top](https://2libra.com/post/movie-sharing/uf66q-Z)
   - [快要周末了](https://2libra.com/post/weekend-life/7hh_ccq)
@@ -33,6 +35,7 @@
   - [VU#687587: AOMEI Backupper amwrtdrv.sys local privilege escalation vulnerability allows arbitrary writes to physical disks](https://kb.cert.org/vuls/id/687587)
 - CoinTelegraph
   - [Bitwise to put down Dogecoin ETF less than a year after launch](https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC](https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Brevo login flaw enabled phishing email targeting 347K Trezor subscribers](https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ESMA warns growing crypto ties could amplify risks to traditional finance](https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -95,14 +98,24 @@
   - [Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture](https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226)
   - [Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week](https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180)
 - The Decoder
+  - [Anthropic's $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid](https://the-decoder.com/anthropics-1-5-billion-book-settlement-descends-into-chaos-as-authors-and-publishers-fight-over-who-gets-paid/)
   - [Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk](https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/)
   - [OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time](https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/)
+  - [OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT](https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/)
   - [Swarmchasers" hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark](https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/)
 - The Verge
   - [Amazon’s Fire TV Stick 4K is over half off at under $20](https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale)
   - [Electric air taxis get the green light for flight tests in Texas](https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas)
   - [Schools are catching on to Big Tech’s playbook](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids)
   - [Slack can now vibe-code interactive charts and reports inside chats](https://www.theverge.com/tech/989853/slackforce-surfaces-launch)
+- Vulners.com RSS Feed
+  - [ALSA: usb-audio: fix use-after-free in ump_to_endpoint()](https://vulners.com/mscve/MS:CVE-2026-74501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Bluetooth: btintel: Validate length before parsing diagnostics TLV](https://vulners.com/mscve/MS:CVE-2026-74532?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [drm/amdkfd: fix QID bit leak in pqm_create_queue()](https://vulners.com/mscve/MS:CVE-2026-74448?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [drm/vmwgfx: reject DX_BIND_QUERY without a DX context](https://vulners.com/mscve/MS:CVE-2026-74445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [drm/vmwgfx: use check_add_overflow for shader size+offset bound](https://vulners.com/mscve/MS:CVE-2026-80887?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ipvs: fix the checksum validations](https://vulners.com/mscve/MS:CVE-2026-80901?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [mailbox: mchp-ipc-sbi: Add null check for devm_kasprintf()](https://vulners.com/mscve/MS:CVE-2026-80822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [August 2026 Was the Hottest Month Ever Recorded: Copernicus Data](https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/)
   - [Is AI Actually Going to Kill Us All?](https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/)
@@ -122,6 +135,7 @@
   - [LG 强烈否认其监视电视用户](https://www.solidot.org/story?sid=85341)
   - [育碧准备在 Steam 上取消安装 Ubisoft Connect 客户端的要求](https://www.solidot.org/story?sid=85340)
 - 爱范儿
+  - [GPT-6 爆火 3D 案例被扒出「用了现成素材」，这次我们真做了一个](https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃](https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」](https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
