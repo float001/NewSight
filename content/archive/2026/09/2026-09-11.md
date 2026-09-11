@@ -2,7 +2,12 @@
 
 - 2Libra
   - [42 岁 Java 后端失业 1 个多月了，面试极少，可以考虑写网文吗？](https://2libra.com/post/side-business/sDomw9P)
+  - [CordCloud 邀请码有人有么，或者其它好用又便宜的梯子](https://2libra.com/post/tool-sharing/boASx3Z)
+  - [DeepSeek 被曝秘密转发用户请求至 Claude](https://2libra.com/post/ai-trends/69eh06h)
+  - [offer 收到，爽了，开心！](https://2libra.com/post/job-hunting/sfbgWkV)
+  - [【快讯】DMIT 发布了新的状态页面](https://2libra.com/post/sharing-discoveries/SFUTiGl)
   - [【投票】想选择一个属于自己的 coding plan 套餐](https://2libra.com/post/ai-gateway/krN--QV)
+  - [【💰】三个月后，回来分享一下 CodexBar 的近况](https://2libra.com/post/open-source-sharing/B3lB9z3)
   - [【💰】常穿的 T 恤多少钱买的](https://2libra.com/post/personal-life/LaDpkij)
   - [【💰】最近有什么好看的电视剧和电影推荐的吗？](https://2libra.com/post/movie-sharing/ZfbDdks)
   - [【💰】有什么游戏推荐吗，自己玩的游戏类型太少了](https://2libra.com/post/game-share/eqMPChk)
@@ -27,12 +32,14 @@
 - CERT Recently Published Vulnerability Notes
   - [VU#687587: AOMEI Backupper amwrtdrv.sys local privilege escalation vulnerability allows arbitrary writes to physical disks](https://kb.cert.org/vuls/id/687587)
 - CoinTelegraph
+  - [Bitwise to put down Dogecoin ETF less than a year after launch](https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Brevo login flaw enabled phishing email targeting 347K Trezor subscribers](https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ESMA warns growing crypto ties could amplify risks to traditional finance](https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Liquid Network resumes block production after $320M exploit](https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express](https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Revised CLARITY Act targets ‘non-decentralized’ DeFi operators](https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report](https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple’s OS 27 Updates Will Be Released on Monday, 14 September](https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/)
   - [Joanna Stern on the iPhone Duo](https://youtu.be/VNzl-q0EGfg)
@@ -102,8 +109,12 @@
   - [OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal](https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/)
   - [Which iPhone 18 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-18-models-to-buy/)
 - 不安全
+  - [AI-Infra-Guard v4.6.1](https://buaq.net/go-441668.html)
+  - [Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors](https://buaq.net/go-441670.html)
+  - [China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor](https://buaq.net/go-441671.html)
   - [OpenWXSDR Updates: Decoder Improvements and Sondehub.org Uploads](https://buaq.net/go-441609.html)
   - [scopeblind-gateway v0.13.1](https://buaq.net/go-441659.html)
+  - [UK Council Attack Linked to Mass Exploitation of SonicWall Flaw](https://buaq.net/go-441674.html)
   - [社交网站X调整搜索API定价 从每1,000次搜索5美元换成每获取1,000条结果收费5美元](https://buaq.net/go-441618.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -111,6 +122,7 @@
   - [LG 强烈否认其监视电视用户](https://www.solidot.org/story?sid=85341)
   - [育碧准备在 Steam 上取消安装 Ubisoft Connect 客户端的要求](https://www.solidot.org/story?sid=85340)
 - 爱范儿
+  - [iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃](https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」](https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [中国AI公司如何试图克隆美国AI模型](https://blog.upx8.com/%E4%B8%AD%E5%9B%BDAI%E5%85%AC%E5%8F%B8%E5%A6%82%E4%BD%95%E8%AF%95%E5%9B%BE%E5%85%8B%E9%9A%86%E7%BE%8E%E5%9B%BDAI%E6%A8%A1%E5%9E%8B)
