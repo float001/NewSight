@@ -38,15 +38,18 @@
   - [VU#687587: AOMEI Backupper amwrtdrv.sys local privilege escalation vulnerability allows arbitrary writes to physical disks](https://kb.cert.org/vuls/id/687587)
 - CoinTelegraph
   - [Anthropic says Claude used for cyberattacks and surveillance](https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’](https://cointelegraph.com/markets/bitcoin-buyers-wary-of-july-sub-58k-floor-amid-onchain-data-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise to put down Dogecoin ETF less than a year after launch](https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC](https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Brevo login flaw enabled phishing email targeting 347K Trezor subscribers](https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ESMA warns growing crypto ties could amplify risks to traditional finance](https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [India launches tokenized bond pilot with $107M issued](https://cointelegraph.com/news/india-launches-tokenized-bond-pilot-with-107m-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Liquid Network resumes block production after $320M exploit](https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express](https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Revised CLARITY Act targets ‘non-decentralized’ DeFi operators](https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report](https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028](https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple’s OS 27 Updates Will Be Released on Monday, 14 September](https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/)
   - [Joanna Stern on the iPhone Duo](https://youtu.be/VNzl-q0EGfg)
@@ -63,6 +66,7 @@
   - [Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf](https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/)
   - [NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
   - [One resignation turned the embers of AI fear into a wildfire](https://www.interconnects.ai/p/one-resignation-turned-the-embers)
+  - [Resist "AI"](https://ronjeffries.com/articles/-v026/x/t/)
   - [Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph](https://benzi.fly.dev/benchmark)
   - [Show HN: Two small Chrome extensions for Hebrew text and dates](https://chaimsapps.com/)
   - [Software Drives People Insane](https://graybeard.ing/software-drives-people-insane/)
@@ -103,6 +107,7 @@
 - The Block
   - [Bitwise shuts down Dogecoin ETF less than a year after launch](https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184)
   - [Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short](https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115)
+  - [ESMA says major prediction platforms lack EU authorization, questions Polymarket and Kalshi’s partial geo-blocks](https://www.theblock.co/news/regulation/2026-09-11-esma-says-major-prediction-platforms-lack-eu-authorization-questions-polymarket-and-kalshis-partial-geo-blocks-414239)
   - [Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture](https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226)
   - [Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week](https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180)
 - The Decoder
@@ -127,10 +132,15 @@
   - [ipvs: fix the checksum validations](https://vulners.com/mscve/MS:CVE-2026-80901?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [mailbox: mchp-ipc-sbi: Add null check for devm_kasprintf()](https://vulners.com/mscve/MS:CVE-2026-80822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [8 Best Travel Adapters (2026): 20+ Models Tested](https://www.wired.com/gallery/best-travel-adapters/)
   - [August 2026 Was the Hottest Month Ever Recorded: Copernicus Data](https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/)
+  - [He’s One of Just 50 People With Olive Garden’s Lifetime Pasta Pass. You Choose What He Eats Next](https://www.wired.com/story/this-man-has-a-cult-internet-following-over-his-olive-garden-lifetime-pasta-pass/)
+  - [I Fixed a Tractor Using John Deere’s Self-Repair Service. Farmers Aren’t Sold on It](https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/)
   - [Is AI Actually Going to Kill Us All?](https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/)
   - [OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal](https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/)
+  - [The Trump Alien ‘Disclosure Speech’ Rumors Are Reaching a Fever Pitch](https://www.wired.com/story/the-trump-alien-disclosure-speech-rumors-are-reaching-a-fever-pitch/)
   - [The US and Mexico Announce They’re Teaming Up Against Drones](https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/)
+  - [We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)](https://www.wired.com/gallery/best-mushroom-coffee/)
   - [Which iPhone 18 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-18-models-to-buy/)
 - 不安全
   - [AI-Infra-Guard v4.6.1](https://buaq.net/go-441668.html)
@@ -152,6 +162,7 @@
 - 黑海洋
   - [Anthropic披露AI相亲骗局：2.5万人聊天，75%匹配对象是机器人](https://blog.upx8.com/Anthropic%E6%8A%AB%E9%9C%B2AI%E7%9B%B8%E4%BA%B2%E9%AA%97%E5%B1%80-2-5%E4%B8%87%E4%BA%BA%E8%81%8A%E5%A4%A9-75-%E5%8C%B9%E9%85%8D%E5%AF%B9%E8%B1%A1%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA)
   - [中国AI公司如何试图克隆美国AI模型](https://blog.upx8.com/%E4%B8%AD%E5%9B%BDAI%E5%85%AC%E5%8F%B8%E5%A6%82%E4%BD%95%E8%AF%95%E5%9B%BE%E5%85%8B%E9%9A%86%E7%BE%8E%E5%9B%BDAI%E6%A8%A1%E5%9E%8B)
+  - [京东准备调整补救措施以争取欧盟批准收购](https://blog.upx8.com/%E4%BA%AC%E4%B8%9C%E5%87%86%E5%A4%87%E8%B0%83%E6%95%B4%E8%A1%A5%E6%95%91%E6%8E%AA%E6%96%BD%E4%BB%A5%E4%BA%89%E5%8F%96%E6%AC%A7%E7%9B%9F%E6%89%B9%E5%87%86%E6%94%B6%E8%B4%AD)
   - [加州州长签署新法 旨在保护儿童上网安全](https://blog.upx8.com/%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E7%AD%BE%E7%BD%B2%E6%96%B0%E6%B3%95-%E6%97%A8%E5%9C%A8%E4%BF%9D%E6%8A%A4%E5%84%BF%E7%AB%A5%E4%B8%8A%E7%BD%91%E5%AE%89%E5%85%A8)
   - [美国防部高官公开驳斥AI“末日论”](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E9%AB%98%E5%AE%98%E5%85%AC%E5%BC%80%E9%A9%B3%E6%96%A5AI-%E6%9C%AB%E6%97%A5%E8%AE%BA)
   - [谷歌正在简化安卓上密码管理器的切换过程](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%9C%A8%E7%AE%80%E5%8C%96%E5%AE%89%E5%8D%93%E4%B8%8A%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8%E7%9A%84%E5%88%87%E6%8D%A2%E8%BF%87%E7%A8%8B)
