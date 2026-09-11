@@ -9,6 +9,7 @@
   - [【快讯】DMIT 发布了新的状态页面](https://2libra.com/post/sharing-discoveries/SFUTiGl)
   - [【投票】想选择一个属于自己的 coding plan 套餐](https://2libra.com/post/ai-gateway/krN--QV)
   - [【💰】三个月后，回来分享一下 CodexBar 的近况](https://2libra.com/post/open-source-sharing/B3lB9z3)
+  - [【💰】小白要装修了](https://2libra.com/post/ai-tools/uqIkALW)
   - [【💰】常穿的 T 恤多少钱买的](https://2libra.com/post/personal-life/LaDpkij)
   - [【💰】最近有什么好看的电视剧和电影推荐的吗？](https://2libra.com/post/movie-sharing/ZfbDdks)
   - [【💰】有什么游戏推荐吗，自己玩的游戏类型太少了](https://2libra.com/post/game-share/eqMPChk)
@@ -16,10 +17,12 @@
   - [你们弹窗打开帖子会不会频繁评论区无法使用](https://2libra.com/post/community/GDirhhX)
   - [克劳德 Anthropic 再次针对大模型，曝光 7 家公司蒸馏手法](https://2libra.com/post/ai-trends/_4J03kC)
   - [公益分组 0.005x+免费生图](https://2libra.com/post/ai-gateway/nCwxkgI)
+  - [关于“看演唱会被取消全家低保资格”的思考](https://2libra.com/post/social-observation/LUM-oev)
   - [分享你的影视剧 top](https://2libra.com/post/movie-sharing/uf66q-Z)
   - [快要周末了](https://2libra.com/post/weekend-life/7hh_ccq)
   - [找一名老师](https://2libra.com/post/ai-programming/b0APMHu)
   - [最近在听什么歌](https://2libra.com/post/music-sharing/5usMVhJ)
+  - [月之暗面会不会倒闭](https://2libra.com/post/ai-companies/Tevk9xj)
   - [电报防广告机器人 实现加群验证的功能 tg-join-group-exam-bot-worker 迁移到 cloudflare worker](https://2libra.com/post/tool-sharing/nIafwTo)
   - [电报防广告机器人 实现发言验证的功能 tg-send-msg-exam-bot-worker 迁移到 cloudflare worker](https://2libra.com/post/open-source-sharing/EwwTFvW)
   - [站里有用 Cursor 的吗？最近有没有感觉一到下午就很慢？经常出现这个提示](https://2libra.com/post/ai-programming/xv_eWED)
@@ -34,6 +37,7 @@
 - CERT Recently Published Vulnerability Notes
   - [VU#687587: AOMEI Backupper amwrtdrv.sys local privilege escalation vulnerability allows arbitrary writes to physical disks](https://kb.cert.org/vuls/id/687587)
 - CoinTelegraph
+  - [Anthropic says Claude used for cyberattacks and surveillance](https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise to put down Dogecoin ETF less than a year after launch](https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC](https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Brevo login flaw enabled phishing email targeting 347K Trezor subscribers](https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -66,6 +70,8 @@
 - HackerNoon
   - [I Gave My Indie App Two AI Spokespersons. 3,590 Views Later, Nobody Came Back](https://hackernoon.com/i-gave-my-indie-app-two-ai-spokespersons-3590-views-later-nobody-came-back?source=rss)
   - [The Best Paragraph in My App Review Notes Was the First One I Deleted](https://hackernoon.com/the-best-paragraph-in-my-app-review-notes-was-the-first-one-i-deleted?source=rss)
+- infosecurity-magazine.com
+  - [Most Organizations Skip Permissions Reviews Before Deploying AI Tools](https://www.infosecurity-magazine.com/news/organizations-skip-permissions-ai/)
 - NVIDIA AI Blog
   - [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)
 - rtl-sdr.com
@@ -76,6 +82,8 @@
   - [Any Nix package, live in your browser](https://simonwillison.net/2026/Sep/10/trynix/)
   - [Datasette 1.0a39 and 0.65.4 security releases](https://simonwillison.net/2026/Sep/11/datasette-security/)
   - [Native is now the future of mobile at Shopify](https://simonwillison.net/2026/Sep/10/shopify-react-native/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-20516](https://sploitus.com/exploit?id=3F026716-3776-5B5A-B9BC-3440B9EB0A6A&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon makes it easier to buy what you see on Prime Video](https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/)
   - [Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek](https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/)
@@ -99,10 +107,12 @@
   - [Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week](https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180)
 - The Decoder
   - [Anthropic's $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid](https://the-decoder.com/anthropics-1-5-billion-book-settlement-descends-into-chaos-as-authors-and-publishers-fight-over-who-gets-paid/)
+  - [Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers](https://the-decoder.com/class-action-lawsuit-accuses-anthropic-of-overselling-claude-subscriptions-with-deceptive-usage-multipliers/)
   - [Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk](https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/)
   - [OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time](https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/)
   - [OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT](https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/)
   - [Swarmchasers" hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark](https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/)
+  - [The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable](https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/)
 - The Verge
   - [Amazon’s Fire TV Stick 4K is over half off at under $20](https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale)
   - [Electric air taxis get the green light for flight tests in Texas](https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas)
@@ -120,6 +130,7 @@
   - [August 2026 Was the Hottest Month Ever Recorded: Copernicus Data](https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/)
   - [Is AI Actually Going to Kill Us All?](https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/)
   - [OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal](https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/)
+  - [The US and Mexico Announce They’re Teaming Up Against Drones](https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/)
   - [Which iPhone 18 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-18-models-to-buy/)
 - 不安全
   - [AI-Infra-Guard v4.6.1](https://buaq.net/go-441668.html)
@@ -139,6 +150,7 @@
   - [iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃](https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」](https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [Anthropic披露AI相亲骗局：2.5万人聊天，75%匹配对象是机器人](https://blog.upx8.com/Anthropic%E6%8A%AB%E9%9C%B2AI%E7%9B%B8%E4%BA%B2%E9%AA%97%E5%B1%80-2-5%E4%B8%87%E4%BA%BA%E8%81%8A%E5%A4%A9-75-%E5%8C%B9%E9%85%8D%E5%AF%B9%E8%B1%A1%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA)
   - [中国AI公司如何试图克隆美国AI模型](https://blog.upx8.com/%E4%B8%AD%E5%9B%BDAI%E5%85%AC%E5%8F%B8%E5%A6%82%E4%BD%95%E8%AF%95%E5%9B%BE%E5%85%8B%E9%9A%86%E7%BE%8E%E5%9B%BDAI%E6%A8%A1%E5%9E%8B)
   - [加州州长签署新法 旨在保护儿童上网安全](https://blog.upx8.com/%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E7%AD%BE%E7%BD%B2%E6%96%B0%E6%B3%95-%E6%97%A8%E5%9C%A8%E4%BF%9D%E6%8A%A4%E5%84%BF%E7%AB%A5%E4%B8%8A%E7%BD%91%E5%AE%89%E5%85%A8)
   - [美国防部高官公开驳斥AI“末日论”](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E9%AB%98%E5%AE%98%E5%85%AC%E5%BC%80%E9%A9%B3%E6%96%A5AI-%E6%9C%AB%E6%97%A5%E8%AE%BA)
