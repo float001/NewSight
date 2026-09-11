@@ -20,6 +20,7 @@
   - [关于“看演唱会被取消全家低保资格”的思考](https://2libra.com/post/social-observation/LUM-oev)
   - [分享一个很好用的 JSON 在线工具网站](https://2libra.com/post/tools-sharing/T8ZQP2E)
   - [分享你的影视剧 top](https://2libra.com/post/movie-sharing/uf66q-Z)
+  - [大家怎么看待搞反串这件事？](https://2libra.com/post/social-observation/TH8auKT)
   - [快要周末了](https://2libra.com/post/weekend-life/7hh_ccq)
   - [成都隐藏款新口味：泡椒鸡杂担担面](https://2libra.com/post/small-things/lWumYTE)
   - [找一名老师](https://2libra.com/post/ai-programming/b0APMHu)
@@ -33,6 +34,8 @@
   - [老 iphone 12 更换电池，感觉可以再战 2 年。](https://2libra.com/post/phone/CEELN5P)
   - [车机游戏站终于能够完美的联机对战了！！！！](https://2libra.com/post/personal-works/Soo5djZ)
   - [铁子们谁懂啊？辛辛苦苦几十天，一夜回到解放前，我还倒欠 280！](https://2libra.com/post/forum-function/mys0BIY)
+- 404 Media
+  - [‘We Did Not Invite You.’ Citizens Rage at Town Hall Over Proposed Nuclear AI Data Center](https://www.404media.co/we-did-not-invite-you-citizens-rage-at-town-hall-over-proposed-nuclear-ai-data-center/)
 - Ars Technica
   - [Boy developed "toasted skin" condition from using a laptop every day](https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/)
   - [Europe will go it alone on Venus mission after NASA yanks radar instrument](https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/)
@@ -49,11 +52,13 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [India launches tokenized bond pilot with $107M issued](https://cointelegraph.com/news/india-launches-tokenized-bond-pilot-with-107m-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Liquid Network resumes block production after $320M exploit](https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary](https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express](https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Revised CLARITY Act targets ‘non-decentralized’ DeFi operators](https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood’s crypto volume increases 61% in August, still down 38% YoY](https://cointelegraph.com/news/robinhoods-crypto-volume-rebounds-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report](https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028](https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trading stocks against BONER is the latest trend for DeFi degens](https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UniCredit seeks infrastructure partner for crypto trading, custody: Report](https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple’s OS 27 Updates Will Be Released on Monday, 14 September](https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/)
@@ -64,8 +69,11 @@
 - Fidelis Security
   - [From JADEPUFFER to Multi-Agent Intrusions: The Next Wave of Autonomous Attacks](https://fidelissecurity.com/threatgeek/threat-detection-response/from-jadepuffer-to-multi-agent-intrusions-the-next-wave/)
 - Hacker News Frontpage
+  - [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)
   - [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
+  - [Diesel prices in U.S. top $6 a gallon for first time](https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/)
   - [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o)
+  - [Houthis 'take control' of key island in global shipping route](https://www.bbc.com/news/live/cmd683p01eljt)
   - [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
   - [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
   - [Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf](https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/)
@@ -83,6 +91,7 @@
   - [I Gave My Indie App Two AI Spokespersons. 3,590 Views Later, Nobody Came Back](https://hackernoon.com/i-gave-my-indie-app-two-ai-spokespersons-3590-views-later-nobody-came-back?source=rss)
   - [The Best Paragraph in My App Review Notes Was the First One I Deleted](https://hackernoon.com/the-best-paragraph-in-my-app-review-notes-was-the-first-one-i-deleted?source=rss)
 - infosecurity-magazine.com
+  - [Hackers Favor US Eastern Business Hours in M365 Phishing Campaign](https://www.infosecurity-magazine.com/news/hackers-us-business-hours-m365/)
   - [Most Organizations Skip Permissions Reviews Before Deploying AI Tools](https://www.infosecurity-magazine.com/news/organizations-skip-permissions-ai/)
 - matduggan.com
   - [I Am a Flat-Rate Monthly Responsibility Service](https://matduggan.com/i-am-a-flat-rate-monthly-responsibility-service/)
@@ -101,6 +110,7 @@
 - simonwillison.net
   - [Any Nix package, live in your browser](https://simonwillison.net/2026/Sep/10/trynix/)
   - [Datasette 1.0a39 and 0.65.4 security releases](https://simonwillison.net/2026/Sep/11/datasette-security/)
+  - [Don't sleep on wrapture](https://simonwillison.net/2026/Sep/11/wrapture/)
   - [Native is now the future of mobile at Shopify](https://simonwillison.net/2026/Sep/10/shopify-react-native/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-20516](https://sploitus.com/exploit?id=3F026716-3776-5B5A-B9BC-3440B9EB0A6A&utm_source=rss&utm_medium=rss)
@@ -117,6 +127,7 @@
   - [Meta’s AI agent Muse is now the No. 2 app in the US](https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/)
   - [OpenAI puts Pro subscriptions on hold due to Astra demand](https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/)
   - [Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers](https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/)
+  - [Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider](https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/)
   - [Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play](https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/)
 - text/plain
   - [Simple Browser Security Improvements](https://textslashplain.com/2026/09/10/simple-browser-security-improvements/)
@@ -132,6 +143,7 @@
   - [Anthropic's $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid](https://the-decoder.com/anthropics-1-5-billion-book-settlement-descends-into-chaos-as-authors-and-publishers-fight-over-who-gets-paid/)
   - [Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers](https://the-decoder.com/class-action-lawsuit-accuses-anthropic-of-overselling-claude-subscriptions-with-deceptive-usage-multipliers/)
   - [Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk](https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/)
+  - [How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data](https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data/)
   - [OpenAI floats a shared AI slowdown, takes it to Congress](https://the-decoder.com/openai-floats-a-shared-ai-slowdown-takes-it-to-congress/)
   - [OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time](https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/)
   - [OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT](https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/)
@@ -141,9 +153,12 @@
   - [Amazon’s Fire TV Stick 4K is over half off at under $20](https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale)
   - [Arizona’s lifeline for chip manufacturing is drying up](https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river)
   - [Electric air taxis get the green light for flight tests in Texas](https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas)
+  - [Ikea supersized its cheap Bluetooth speaker and added an optical input](https://www.theverge.com/tech/993910/ikea-badkruka-wireless-bluetooth-speaker-optical-input)
   - [Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US](https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs)
+  - [Samsung says &#8216;Tim Cook&#8217; bought a Galaxy Fold](https://www.theverge.com/tech/993928/samsung-tim-cook-galaxy-z-fold-8)
   - [Schools are catching on to Big Tech’s playbook](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids)
   - [Slack can now vibe-code interactive charts and reports inside chats](https://www.theverge.com/tech/989853/slackforce-surfaces-launch)
+  - [Why Apple’s next computer should be for the smart home](https://www.theverge.com/tech/993892/apples-next-computer-smart-home-hub-airport-router)
 - Vulners.com RSS Feed
   - [ALSA: usb-audio: fix use-after-free in ump_to_endpoint()](https://vulners.com/mscve/MS:CVE-2026-74501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Bluetooth: btintel: Validate length before parsing diagnostics TLV](https://vulners.com/mscve/MS:CVE-2026-74532?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -182,6 +197,7 @@
   - [早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」](https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Anthropic披露AI相亲骗局：2.5万人聊天，75%匹配对象是机器人](https://blog.upx8.com/Anthropic%E6%8A%AB%E9%9C%B2AI%E7%9B%B8%E4%BA%B2%E9%AA%97%E5%B1%80-2-5%E4%B8%87%E4%BA%BA%E8%81%8A%E5%A4%A9-75-%E5%8C%B9%E9%85%8D%E5%AF%B9%E8%B1%A1%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA)
+  - [Anthropic表示也门组织在导弹开发中使用了Claude](https://blog.upx8.com/Anthropic%E8%A1%A8%E7%A4%BA%E4%B9%9F%E9%97%A8%E7%BB%84%E7%BB%87%E5%9C%A8%E5%AF%BC%E5%BC%B9%E5%BC%80%E5%8F%91%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%BA%86Claude)
   - [中国AI公司如何试图克隆美国AI模型](https://blog.upx8.com/%E4%B8%AD%E5%9B%BDAI%E5%85%AC%E5%8F%B8%E5%A6%82%E4%BD%95%E8%AF%95%E5%9B%BE%E5%85%8B%E9%9A%86%E7%BE%8E%E5%9B%BDAI%E6%A8%A1%E5%9E%8B)
   - [京东准备调整补救措施以争取欧盟批准收购](https://blog.upx8.com/%E4%BA%AC%E4%B8%9C%E5%87%86%E5%A4%87%E8%B0%83%E6%95%B4%E8%A1%A5%E6%95%91%E6%8E%AA%E6%96%BD%E4%BB%A5%E4%BA%89%E5%8F%96%E6%AC%A7%E7%9B%9F%E6%89%B9%E5%87%86%E6%94%B6%E8%B4%AD)
   - [加州州长签署新法 旨在保护儿童上网安全](https://blog.upx8.com/%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E7%AD%BE%E7%BD%B2%E6%96%B0%E6%B3%95-%E6%97%A8%E5%9C%A8%E4%BF%9D%E6%8A%A4%E5%84%BF%E7%AB%A5%E4%B8%8A%E7%BD%91%E5%AE%89%E5%85%A8)
