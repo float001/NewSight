@@ -16,6 +16,7 @@
 - CERT Recently Published Vulnerability Notes
   - [VU#687587: AOMEI Backupper amwrtdrv.sys local privilege escalation vulnerability allows arbitrary writes to physical disks](https://kb.cert.org/vuls/id/687587)
 - CoinTelegraph
+  - [Brevo login flaw enabled phishing email targeting 347K Trezor subscribers](https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ESMA warns growing crypto ties could amplify risks to traditional finance](https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Liquid Network resumes block production after $320M exploit](https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -71,6 +72,7 @@
 - The Block
   - [Bitwise shuts down Dogecoin ETF less than a year after launch](https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184)
   - [Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short](https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115)
+  - [Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture](https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226)
   - [Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week](https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180)
 - The Decoder
   - [Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk](https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/)
