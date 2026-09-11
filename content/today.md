@@ -4,7 +4,9 @@
   - [【💰】常穿的 T 恤多少钱买的](https://2libra.com/post/personal-life/LaDpkij)
   - [【💰】最近有什么好看的电视剧和电影推荐的吗？](https://2libra.com/post/movie-sharing/ZfbDdks)
   - [分享你的影视剧 top](https://2libra.com/post/movie-sharing/uf66q-Z)
+  - [快要周末了](https://2libra.com/post/weekend-life/7hh_ccq)
   - [签到投掷 20，还有谁？](https://2libra.com/post/forum-function/fWheb6y)
+  - [车机游戏站终于能够完美的联机对战了！！！！](https://2libra.com/post/personal-works/Soo5djZ)
 - Ars Technica
   - [Boy developed "toasted skin" condition from using a laptop every day](https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/)
   - [Europe will go it alone on Venus mission after NASA yanks radar instrument](https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/)
@@ -39,6 +41,10 @@
   - [The Best Paragraph in My App Review Notes Was the First One I Deleted](https://hackernoon.com/the-best-paragraph-in-my-app-review-notes-was-the-first-one-i-deleted?source=rss)
 - NVIDIA AI Blog
   - [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)
+- rtl-sdr.com
+  - [Claude VOACAP Skill: Ask Claude About Live Ionospheric Propagation Predictions to Optimize DX](https://www.rtl-sdr.com/claude-voacap-skill-ask-claude-about-live-ionospheric-propagation-predictions-to-optimize-dx/)
+  - [HamRadioWeb: A Browser-Based Remote FT8/FT4 Receiver with Live Heatmaps, Performance Metrics and DX Cluster](https://www.rtl-sdr.com/hamradioweb-a-browser-based-remote-ft8-ft4-receiver-with-live-heatmaps-performance-metrics-and-dx-cluster/)
+  - [OpenWXSDR Updates: Decoder Improvements and Sondehub.org Uploads](https://www.rtl-sdr.com/openwxsdr-updates-decoder-improvements-and-sondehub-org-uploads/)
 - simonwillison.net
   - [Any Nix package, live in your browser](https://simonwillison.net/2026/Sep/10/trynix/)
   - [Native is now the future of mobile at Shopify](https://simonwillison.net/2026/Sep/10/shopify-react-native/)
@@ -76,6 +82,8 @@
   - [Is AI Actually Going to Kill Us All?](https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/)
   - [OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal](https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/)
   - [Which iPhone 18 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-18-models-to-buy/)
+- 不安全
+  - [OpenWXSDR Updates: Decoder Improvements and Sondehub.org Uploads](https://buaq.net/go-441609.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
