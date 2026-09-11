@@ -20,6 +20,7 @@
   - [关于“看演唱会被取消全家低保资格”的思考](https://2libra.com/post/social-observation/LUM-oev)
   - [分享你的影视剧 top](https://2libra.com/post/movie-sharing/uf66q-Z)
   - [快要周末了](https://2libra.com/post/weekend-life/7hh_ccq)
+  - [成都隐藏款新口味：泡椒鸡杂担担面](https://2libra.com/post/small-things/lWumYTE)
   - [找一名老师](https://2libra.com/post/ai-programming/b0APMHu)
   - [最近在听什么歌](https://2libra.com/post/music-sharing/5usMVhJ)
   - [月之暗面会不会倒闭](https://2libra.com/post/ai-companies/Tevk9xj)
@@ -48,8 +49,10 @@
   - [Liquid Network resumes block production after $320M exploit](https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express](https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Revised CLARITY Act targets ‘non-decentralized’ DeFi operators](https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Robinhood’s crypto volume increases 61% in August, still down 38% YoY](https://cointelegraph.com/news/robinhoods-crypto-volume-rebounds-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report](https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028](https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [UniCredit seeks infrastructure partner for crypto trading, custody: Report](https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple’s OS 27 Updates Will Be Released on Monday, 14 September](https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/)
   - [Joanna Stern on the iPhone Duo](https://youtu.be/VNzl-q0EGfg)
@@ -67,21 +70,27 @@
   - [NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
   - [One resignation turned the embers of AI fear into a wildfire](https://www.interconnects.ai/p/one-resignation-turned-the-embers)
   - [Resist "AI"](https://ronjeffries.com/articles/-v026/x/t/)
+  - [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
   - [Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph](https://benzi.fly.dev/benchmark)
   - [Show HN: Two small Chrome extensions for Hebrew text and dates](https://chaimsapps.com/)
   - [Software Drives People Insane](https://graybeard.ing/software-drives-people-insane/)
   - [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
+  - [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)
 - HackerNoon
   - [I Gave My Indie App Two AI Spokespersons. 3,590 Views Later, Nobody Came Back](https://hackernoon.com/i-gave-my-indie-app-two-ai-spokespersons-3590-views-later-nobody-came-back?source=rss)
   - [The Best Paragraph in My App Review Notes Was the First One I Deleted](https://hackernoon.com/the-best-paragraph-in-my-app-review-notes-was-the-first-one-i-deleted?source=rss)
 - infosecurity-magazine.com
   - [Most Organizations Skip Permissions Reviews Before Deploying AI Tools](https://www.infosecurity-magazine.com/news/organizations-skip-permissions-ai/)
+- matduggan.com
+  - [I Am a Flat-Rate Monthly Responsibility Service](https://matduggan.com/i-am-a-flat-rate-monthly-responsibility-service/)
 - NVIDIA AI Blog
   - [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)
 - rtl-sdr.com
   - [Claude VOACAP Skill: Ask Claude About Live Ionospheric Propagation Predictions to Optimize DX](https://www.rtl-sdr.com/claude-voacap-skill-ask-claude-about-live-ionospheric-propagation-predictions-to-optimize-dx/)
   - [HamRadioWeb: A Browser-Based Remote FT8/FT4 Receiver with Live Heatmaps, Performance Metrics and DX Cluster](https://www.rtl-sdr.com/hamradioweb-a-browser-based-remote-ft8-ft4-receiver-with-live-heatmaps-performance-metrics-and-dx-cluster/)
   - [OpenWXSDR Updates: Decoder Improvements and Sondehub.org Uploads](https://www.rtl-sdr.com/openwxsdr-updates-decoder-improvements-and-sondehub-org-uploads/)
+- shkspr.mobi
+  - [[RSS Club] Sneak peek at new DOI functionality](https://shkspr.mobi/blog/2026/09/rss-club-sneak-peek-at-new-doi-functionality/)
 - simonwillison.net
   - [Any Nix package, live in your browser](https://simonwillison.net/2026/Sep/10/trynix/)
   - [Datasette 1.0a39 and 0.65.4 security releases](https://simonwillison.net/2026/Sep/11/datasette-security/)
@@ -110,17 +119,21 @@
   - [ESMA says major prediction platforms lack EU authorization, questions Polymarket and Kalshi’s partial geo-blocks](https://www.theblock.co/news/regulation/2026-09-11-esma-says-major-prediction-platforms-lack-eu-authorization-questions-polymarket-and-kalshis-partial-geo-blocks-414239)
   - [Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture](https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226)
   - [Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week](https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180)
+  - [‘Return the bitcoin’: Blockstream refuses ransom demand for remaining 600 BTC from Liquid exploit](https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247)
 - The Decoder
   - [Anthropic's $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid](https://the-decoder.com/anthropics-1-5-billion-book-settlement-descends-into-chaos-as-authors-and-publishers-fight-over-who-gets-paid/)
   - [Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers](https://the-decoder.com/class-action-lawsuit-accuses-anthropic-of-overselling-claude-subscriptions-with-deceptive-usage-multipliers/)
   - [Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk](https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/)
+  - [OpenAI floats a shared AI slowdown, takes it to Congress](https://the-decoder.com/openai-floats-a-shared-ai-slowdown-takes-it-to-congress/)
   - [OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time](https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/)
   - [OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT](https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/)
   - [Swarmchasers" hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark](https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/)
   - [The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable](https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/)
 - The Verge
   - [Amazon’s Fire TV Stick 4K is over half off at under $20](https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale)
+  - [Arizona’s lifeline for chip manufacturing is drying up](https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river)
   - [Electric air taxis get the green light for flight tests in Texas](https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas)
+  - [Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US](https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs)
   - [Schools are catching on to Big Tech’s playbook](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids)
   - [Slack can now vibe-code interactive charts and reports inside chats](https://www.theverge.com/tech/989853/slackforce-surfaces-launch)
 - Vulners.com RSS Feed
