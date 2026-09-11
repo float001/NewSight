@@ -3,10 +3,15 @@
 - 2Libra
   - [【💰】常穿的 T 恤多少钱买的](https://2libra.com/post/personal-life/LaDpkij)
   - [【💰】最近有什么好看的电视剧和电影推荐的吗？](https://2libra.com/post/movie-sharing/ZfbDdks)
+  - [【💰】有什么游戏推荐吗，自己玩的游戏类型太少了](https://2libra.com/post/game-share/eqMPChk)
   - [【💰】求助帖----大家交流一下自己使用梯子的心得呀](https://2libra.com/post/networking/u8Un0Jg)
   - [你们弹窗打开帖子会不会频繁评论区无法使用](https://2libra.com/post/community/GDirhhX)
+  - [公益分组 0.005x+免费生图](https://2libra.com/post/ai-gateway/nCwxkgI)
   - [分享你的影视剧 top](https://2libra.com/post/movie-sharing/uf66q-Z)
   - [快要周末了](https://2libra.com/post/weekend-life/7hh_ccq)
+  - [最近在听什么歌](https://2libra.com/post/music-sharing/5usMVhJ)
+  - [电报防广告机器人 实现加群验证的功能 tg-join-group-exam-bot-worker 迁移到 cloudflare worker](https://2libra.com/post/tool-sharing/nIafwTo)
+  - [站里有用 Cursor 的吗？最近有没有感觉一到下午就很慢？经常出现这个提示](https://2libra.com/post/ai-programming/xv_eWED)
   - [签到投掷 20，还有谁？](https://2libra.com/post/forum-function/fWheb6y)
   - [给你们看看顶富的日常](https://2libra.com/post/hotspot-tracking/jZRPzVQ)
   - [车机游戏站终于能够完美的联机对战了！！！！](https://2libra.com/post/personal-works/Soo5djZ)
@@ -101,4 +106,5 @@
 - 黑海洋
   - [中国AI公司如何试图克隆美国AI模型](https://blog.upx8.com/%E4%B8%AD%E5%9B%BDAI%E5%85%AC%E5%8F%B8%E5%A6%82%E4%BD%95%E8%AF%95%E5%9B%BE%E5%85%8B%E9%9A%86%E7%BE%8E%E5%9B%BDAI%E6%A8%A1%E5%9E%8B)
   - [美国防部高官公开驳斥AI“末日论”](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E9%AB%98%E5%AE%98%E5%85%AC%E5%BC%80%E9%A9%B3%E6%96%A5AI-%E6%9C%AB%E6%97%A5%E8%AE%BA)
+  - [谷歌正在简化安卓上密码管理器的切换过程](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%9C%A8%E7%AE%80%E5%8C%96%E5%AE%89%E5%8D%93%E4%B8%8A%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8%E7%9A%84%E5%88%87%E6%8D%A2%E8%BF%87%E7%A8%8B)
   - [黄仁勋看好网络安全市场：AI带来的“新问题”正在创造新需求](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9C%8B%E5%A5%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%B8%82%E5%9C%BA-AI%E5%B8%A6%E6%9D%A5%E7%9A%84-%E6%96%B0%E9%97%AE%E9%A2%98-%E6%AD%A3%E5%9C%A8%E5%88%9B%E9%80%A0%E6%96%B0%E9%9C%80%E6%B1%82)
