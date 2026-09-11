@@ -18,6 +18,7 @@
   - [克劳德 Anthropic 再次针对大模型，曝光 7 家公司蒸馏手法](https://2libra.com/post/ai-trends/_4J03kC)
   - [公益分组 0.005x+免费生图](https://2libra.com/post/ai-gateway/nCwxkgI)
   - [关于“看演唱会被取消全家低保资格”的思考](https://2libra.com/post/social-observation/LUM-oev)
+  - [分享一个很好用的 JSON 在线工具网站](https://2libra.com/post/tools-sharing/T8ZQP2E)
   - [分享你的影视剧 top](https://2libra.com/post/movie-sharing/uf66q-Z)
   - [快要周末了](https://2libra.com/post/weekend-life/7hh_ccq)
   - [成都隐藏款新口味：泡椒鸡杂担担面](https://2libra.com/post/small-things/lWumYTE)
@@ -40,6 +41,7 @@
 - CoinTelegraph
   - [Anthropic says Claude used for cyberattacks and surveillance](https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’](https://cointelegraph.com/markets/bitcoin-buyers-wary-of-july-sub-58k-floor-amid-onchain-data-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETF outflows accelerate as investors pull $449M in three days](https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise to put down Dogecoin ETF less than a year after launch](https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC](https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Brevo login flaw enabled phishing email targeting 347K Trezor subscribers](https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -69,6 +71,7 @@
   - [Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf](https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/)
   - [NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
   - [One resignation turned the embers of AI fear into a wildfire](https://www.interconnects.ai/p/one-resignation-turned-the-embers)
+  - [Remember Hong Kong](https://www.thenextmove.org/p/remember-hong-kong)
   - [Resist "AI"](https://ronjeffries.com/articles/-v026/x/t/)
   - [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
   - [Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph](https://benzi.fly.dev/benchmark)
@@ -83,8 +86,12 @@
   - [Most Organizations Skip Permissions Reviews Before Deploying AI Tools](https://www.infosecurity-magazine.com/news/organizations-skip-permissions-ai/)
 - matduggan.com
   - [I Am a Flat-Rate Monthly Responsibility Service](https://matduggan.com/i-am-a-flat-rate-monthly-responsibility-service/)
+- MIT Technology Review
+  - [The Download: biotech’s future and cheaper, cleaner steel](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/)
 - NVIDIA AI Blog
   - [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)
+- Recent Commits to cve:main
+  - [Update Fri Sep 11 12:14:26 UTC 2026](https://github.com/trickest/cve/commit/f6ef28999d98f7a4bf987ad538fa965d984cf58a)
 - rtl-sdr.com
   - [Claude VOACAP Skill: Ask Claude About Live Ionospheric Propagation Predictions to Optimize DX](https://www.rtl-sdr.com/claude-voacap-skill-ask-claude-about-live-ionospheric-propagation-predictions-to-optimize-dx/)
   - [HamRadioWeb: A Browser-Based Remote FT8/FT4 Receiver with Live Heatmaps, Performance Metrics and DX Cluster](https://www.rtl-sdr.com/hamradioweb-a-browser-based-remote-ft8-ft4-receiver-with-live-heatmaps-performance-metrics-and-dx-cluster/)
@@ -117,6 +124,7 @@
   - [Bitwise shuts down Dogecoin ETF less than a year after launch](https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184)
   - [Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short](https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115)
   - [ESMA says major prediction platforms lack EU authorization, questions Polymarket and Kalshi’s partial geo-blocks](https://www.theblock.co/news/regulation/2026-09-11-esma-says-major-prediction-platforms-lack-eu-authorization-questions-polymarket-and-kalshis-partial-geo-blocks-414239)
+  - [India’s SEBI Demat 2.0 pilot debuts with over $100 million in tokenized bonds](https://www.theblock.co/news/regulation/2026-09-11-indias-sebi-demat-2-0-pilot-debuts-with-over-100-million-in-tokenized-bonds-414252)
   - [Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture](https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226)
   - [Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week](https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180)
   - [‘Return the bitcoin’: Blockstream refuses ransom demand for remaining 600 BTC from Liquid exploit](https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247)
