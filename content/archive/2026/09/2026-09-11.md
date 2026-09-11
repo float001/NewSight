@@ -99,6 +99,8 @@
   - [The Download: biotech’s future and cheaper, cleaner steel](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/)
 - NVIDIA AI Blog
   - [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)
+- pluralistic.net
+  - [Pluralistic: Inefficiency is bad, actually (11 Sep 2026)](https://pluralistic.net/2026/09/11/mazzucato-thought/)
 - Recent Commits to cve:main
   - [Update Fri Sep 11 12:14:26 UTC 2026](https://github.com/trickest/cve/commit/f6ef28999d98f7a4bf987ad538fa965d984cf58a)
 - rtl-sdr.com
@@ -112,6 +114,7 @@
   - [Datasette 1.0a39 and 0.65.4 security releases](https://simonwillison.net/2026/Sep/11/datasette-security/)
   - [Don't sleep on wrapture](https://simonwillison.net/2026/Sep/11/wrapture/)
   - [Native is now the future of mobile at Shopify](https://simonwillison.net/2026/Sep/10/shopify-react-native/)
+  - [Soft-deprecating re.match()](https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-20516](https://sploitus.com/exploit?id=3F026716-3776-5B5A-B9BC-3440B9EB0A6A&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -155,24 +158,31 @@
   - [Electric air taxis get the green light for flight tests in Texas](https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas)
   - [Ikea supersized its cheap Bluetooth speaker and added an optical input](https://www.theverge.com/tech/993910/ikea-badkruka-wireless-bluetooth-speaker-optical-input)
   - [Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US](https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs)
+  - [Meta says it&#8217;s changing AI suggestions after posing invasive personal questions](https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions)
+  - [New York City’s last pickpocket doesn’t need a smartphone](https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york)
   - [Samsung says &#8216;Tim Cook&#8217; bought a Galaxy Fold](https://www.theverge.com/tech/993928/samsung-tim-cook-galaxy-z-fold-8)
   - [Schools are catching on to Big Tech’s playbook](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids)
   - [Slack can now vibe-code interactive charts and reports inside chats](https://www.theverge.com/tech/989853/slackforce-surfaces-launch)
+  - [The wireless earbuds with unbeatable call quality got their first discount](https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale)
   - [Why Apple’s next computer should be for the smart home](https://www.theverge.com/tech/993892/apples-next-computer-smart-home-hub-airport-router)
 - Vulners.com RSS Feed
   - [ALSA: usb-audio: fix use-after-free in ump_to_endpoint()](https://vulners.com/mscve/MS:CVE-2026-74501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Bluetooth: btintel: Validate length before parsing diagnostics TLV](https://vulners.com/mscve/MS:CVE-2026-74532?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [cve-2018-6574](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-INOSEC2-CVE-2018-6574?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2021-44228](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-GREYMD-CVE-2021-44228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [drm/amdkfd: fix QID bit leak in pqm_create_queue()](https://vulners.com/mscve/MS:CVE-2026-74448?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [drm/vmwgfx: reject DX_BIND_QUERY without a DX context](https://vulners.com/mscve/MS:CVE-2026-74445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [drm/vmwgfx: use check_add_overflow for shader size+offset bound](https://vulners.com/mscve/MS:CVE-2026-80887?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ipvs: fix the checksum validations](https://vulners.com/mscve/MS:CVE-2026-80901?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [mailbox: mchp-ipc-sbi: Add null check for devm_kasprintf()](https://vulners.com/mscve/MS:CVE-2026-80822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection](https://vulners.com/thn/THN:57B4B84ACDBF16CF2ED86D0FD8B23782?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [8 Best Travel Adapters (2026): 20+ Models Tested](https://www.wired.com/gallery/best-travel-adapters/)
   - [August 2026 Was the Hottest Month Ever Recorded: Copernicus Data](https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/)
   - [He’s One of Just 50 People With Olive Garden’s Lifetime Pasta Pass. You Choose What He Eats Next](https://www.wired.com/story/this-man-has-a-cult-internet-following-over-his-olive-garden-lifetime-pasta-pass/)
   - [I Fixed a Tractor Using John Deere’s Self-Repair Service. Farmers Aren’t Sold on It](https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/)
   - [Is AI Actually Going to Kill Us All?](https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/)
+  - [One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’](https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/)
   - [OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal](https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/)
   - [The Trump Alien ‘Disclosure Speech’ Rumors Are Reaching a Fever Pitch](https://www.wired.com/story/the-trump-alien-disclosure-speech-rumors-are-reaching-a-fever-pitch/)
   - [The US and Mexico Announce They’re Teaming Up Against Drones](https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/)
