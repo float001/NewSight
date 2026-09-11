@@ -2,17 +2,31 @@
 
 - 404 Media
   - [Automattic’s Matt Mullenweg Claims He’s Back 'In Control'](https://www.404media.co/automattic-matt-mullenweg-back-in-control/)
+  - [Behind the Blog: How to Talk About AI Doom](https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/)
 - daringfireball.net
   - [iPhone Duo Only Works With the $80 USB-C Apple Pencil, Not the $130 Apple Pencil Pro](https://www.macrumors.com/2026/09/09/apple-pencil-usb-c-iphone-duo/)
+- darkreading
+  - [AI Governance Can't Wait](https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait)
+- Hacker News Frontpage
+  - [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
+- IEEE Spectrum
+  - [IEEE to Reward Sections for High Voter Turnout in Annual Election](https://spectrum.ieee.org/ieee-to-reward-sections)
+- simonwillison.net
+  - [Quoting Boris Cherny](https://simonwillison.net/2026/Sep/11/boris-cherny/)
 - Sploitus.com Exploits RSS Feed
   - [redamon exploit](https://sploitus.com/exploit?id=828EAF8B-B152-5042-9531-95E152B0CEAD&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/)
   - [Roblox is making it easier to build games with AI — and play them outside Roblox](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/)
 - The Block
+  - [Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook](https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287)
   - [‘DeFi’s federal bank’: Standard Chartered sees SKY token rising fivefold by end-2028](https://www.theblock.co/news/markets/2026-09-11-standard-chartered-sky-token-defi-federal-bank-414280)
+- The Decoder
+  - [Deep learning pioneer Bengio argues the training process itself makes AI dangerous](https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/)
+  - [Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion](https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/)
 - The Verge
   - [Anthropic spent this week in hot water over cybersecurity](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity)
+  - [Matt Mullenweg reportedly returns as Automattic CEO two days after getting booted](https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return)
   - [Microsoft’s head of comms is leaving after almost 20 years](https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms)
   - [The White House calls Truth Social the ‘most powerful and popular’ social media platform](https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful)
   - [We unfolded the iPhone Duo](https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms)
