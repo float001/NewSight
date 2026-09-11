@@ -3,10 +3,14 @@
 - 404 Media
   - [Automattic’s Matt Mullenweg Claims He’s Back 'In Control'](https://www.404media.co/automattic-matt-mullenweg-back-in-control/)
   - [Behind the Blog: How to Talk About AI Doom](https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/)
+- Ars Technica
+  - [Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland](https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/)
+  - [Random rewards enrich classic game-theory contests](https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/)
 - CERT Recently Published Vulnerability Notes
   - [VU#369611: ExLlamaV3 contains Denial of Service vulnerability via insufficient bounds checking on kernel dispatch index](https://kb.cert.org/vuls/id/369611)
 - CoinTelegraph
   - [Bitcoin Suisse to shift up to half of Swiss jobs abroad](https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hyperliquid’s biggest risk is regulation, says Ran Neuner](https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Clarus the Dogcow Easter Egg in iOS 27 Settings](https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/)
@@ -21,6 +25,8 @@
   - [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
   - [Top mathematicians are outraged by OpenAI's methods](https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods)
   - [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
+- HackerNoon
+  - [Credible Captain Launches Independent Consumer Review Platform Focused on Transparency, AI and Trust](https://hackernoon.com/credible-captain-launches-independent-consumer-review-platform-focused-on-transparency-ai-and-trust?source=rss)
 - Horizon3.ai
   - [CVE-2026-85706 | GitLab CE/EE Repository Commits API Path Traversal Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-85706/)
 - idiallo.com
@@ -34,14 +40,18 @@
 - TechCrunch
   - [Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ](https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/)
   - [Final, final, final call for TechCrunch Disrupt 2026 Side Events](https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/)
+  - [Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/)
   - [Kimi-maker Moonshot AI targets $2 billion in annual revenue](https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/)
   - [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/)
   - [One week left to book your exhibit table at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/)
   - [OpenAI’s feud with mathematicians is only escalating](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)
   - [Roblox is making it easier to build games with AI — and play them outside Roblox](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/)
   - [Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
+- text/plain
+  - [Experimentation: Just Try It!](https://textslashplain.com/2026/09/11/experimentation-just-try-it/)
 - The Block
   - [Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook](https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287)
+  - [Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund](https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310)
   - [‘DeFi’s federal bank’: Standard Chartered sees SKY token rising fivefold by end-2028](https://www.theblock.co/news/markets/2026-09-11-standard-chartered-sky-token-defi-federal-bank-414280)
 - The Decoder
   - [Deep learning pioneer Bengio argues the training process itself makes AI dangerous](https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/)
