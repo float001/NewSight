@@ -4,12 +4,15 @@
   - [Automattic’s Matt Mullenweg Claims He’s Back 'In Control'](https://www.404media.co/automattic-matt-mullenweg-back-in-control/)
   - [Behind the Blog: How to Talk About AI Doom](https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/)
 - CoinTelegraph
+  - [Bitcoin Suisse to shift up to half of Swiss jobs abroad](https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hyperliquid’s biggest risk is regulation, says Ran Neuner](https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [iPhone Duo Only Works With the $80 USB-C Apple Pencil, Not the $130 Apple Pencil Pro](https://www.macrumors.com/2026/09/09/apple-pencil-usb-c-iphone-duo/)
+  - [XCancel Is Back](https://xcancel.com/cdclegal)
 - darkreading
   - [AI Governance Can't Wait](https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait)
   - [CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate](https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate)
+  - [Threat Actor Generates 1M Personalized Fraud Emails in 3 Days](https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days)
   - [Why AI Is So Good at Scamming Humans](https://www.darkreading.com/cyber-risk/ai-scamming-humans)
 - Hacker News Frontpage
   - [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
@@ -23,6 +26,7 @@
   - [redamon exploit](https://sploitus.com/exploit?id=828EAF8B-B152-5042-9531-95E152B0CEAD&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ](https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/)
+  - [Kimi-maker Moonshot AI targets $2 billion in annual revenue](https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/)
   - [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/)
   - [Roblox is making it easier to build games with AI — and play them outside Roblox](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/)
 - The Block
@@ -42,5 +46,7 @@
   - [WordPress bbPress plugin <= 2.6.14 - Sensitive Data Exposure vulnerability](https://vulners.com/patchstack/PATCHSTACK:B2E98BD087C79EA1F21D21CC7468A5F0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Petlibro Offers: 30% Off in September 2026](https://www.wired.com/story/petlibro-discount-code/)
+  - [The 9 Best TV Shows to Stream This Month (September 2026)](https://www.wired.com/story/the-9-best-shows-to-stream-right-now/)
+  - [The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades](https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
