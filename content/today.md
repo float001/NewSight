@@ -11,6 +11,7 @@
   - [ESMA warns growing crypto ties could amplify risks to traditional finance](https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Liquid Network resumes block production after $320M exploit](https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express](https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple’s OS 27 Updates Will Be Released on Monday, 14 September](https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/)
   - [Joanna Stern on the iPhone Duo](https://youtu.be/VNzl-q0EGfg)
@@ -33,6 +34,7 @@
 - NVIDIA AI Blog
   - [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)
 - simonwillison.net
+  - [Any Nix package, live in your browser](https://simonwillison.net/2026/Sep/10/trynix/)
   - [Native is now the future of mobile at Shopify](https://simonwillison.net/2026/Sep/10/shopify-react-native/)
 - TechCrunch
   - [Amazon makes it easier to buy what you see on Prime Video](https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/)
@@ -66,9 +68,12 @@
 - Wired
   - [August 2026 Was the Hottest Month Ever Recorded: Copernicus Data](https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/)
   - [Is AI Actually Going to Kill Us All?](https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/)
+  - [OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal](https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/)
   - [Which iPhone 18 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-18-models-to-buy/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [LG 强烈否认其监视电视用户](https://www.solidot.org/story?sid=85341)
   - [育碧准备在 Steam 上取消安装 Ubisoft Connect 客户端的要求](https://www.solidot.org/story?sid=85340)
+- 黑海洋
+  - [美国防部高官公开驳斥AI“末日论”](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E9%AB%98%E5%AE%98%E5%85%AC%E5%BC%80%E9%A9%B3%E6%96%A5AI-%E6%9C%AB%E6%97%A5%E8%AE%BA)
