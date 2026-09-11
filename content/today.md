@@ -1,8 +1,10 @@
 # 今日安全资讯（2026-09-11）
 
 - 2Libra
+  - [【💰】常穿的 T 恤多少钱买的](https://2libra.com/post/personal-life/LaDpkij)
   - [【💰】最近有什么好看的电视剧和电影推荐的吗？](https://2libra.com/post/movie-sharing/ZfbDdks)
   - [分享你的影视剧 top](https://2libra.com/post/movie-sharing/uf66q-Z)
+  - [签到投掷 20，还有谁？](https://2libra.com/post/forum-function/fWheb6y)
 - Ars Technica
   - [Boy developed "toasted skin" condition from using a laptop every day](https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/)
   - [Europe will go it alone on Venus mission after NASA yanks radar instrument](https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/)
@@ -28,6 +30,7 @@
   - [Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf](https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/)
   - [NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
   - [One resignation turned the embers of AI fear into a wildfire](https://www.interconnects.ai/p/one-resignation-turned-the-embers)
+  - [Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph](https://benzi.fly.dev/benchmark)
   - [Show HN: Two small Chrome extensions for Hebrew text and dates](https://chaimsapps.com/)
   - [Software Drives People Insane](https://graybeard.ing/software-drives-people-insane/)
   - [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
@@ -81,5 +84,6 @@
 - 爱范儿
   - [早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」](https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [中国AI公司如何试图克隆美国AI模型](https://blog.upx8.com/%E4%B8%AD%E5%9B%BDAI%E5%85%AC%E5%8F%B8%E5%A6%82%E4%BD%95%E8%AF%95%E5%9B%BE%E5%85%8B%E9%9A%86%E7%BE%8E%E5%9B%BDAI%E6%A8%A1%E5%9E%8B)
   - [美国防部高官公开驳斥AI“末日论”](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E9%AB%98%E5%AE%98%E5%85%AC%E5%BC%80%E9%A9%B3%E6%96%A5AI-%E6%9C%AB%E6%97%A5%E8%AE%BA)
   - [黄仁勋看好网络安全市场：AI带来的“新问题”正在创造新需求](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9C%8B%E5%A5%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%B8%82%E5%9C%BA-AI%E5%B8%A6%E6%9D%A5%E7%9A%84-%E6%96%B0%E9%97%AE%E9%A2%98-%E6%AD%A3%E5%9C%A8%E5%88%9B%E9%80%A0%E6%96%B0%E9%9C%80%E6%B1%82)
