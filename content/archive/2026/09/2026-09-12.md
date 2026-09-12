@@ -2,6 +2,7 @@
 
 - 2Libra
   - [2 友们有口感好的小众酒推荐吗？](https://2libra.com/post/midlife-support-club/0IafSBd)
+  - [Blogger/blogspot 引入 google 的 code-prettify 实现代码高亮 并保留手动设置的文字颜色](https://2libra.com/post/frontend/jkjiVK0)
 - 404 Media
   - [Automattic’s Matt Mullenweg Claims He’s Back 'In Control'](https://www.404media.co/automattic-matt-mullenweg-back-in-control/)
   - [Behind the Blog: How to Talk About AI Doom](https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/)
@@ -18,6 +19,7 @@
 - daringfireball.net
   - [Clarus the Dogcow Easter Egg in iOS 27 Settings](https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/)
   - [iPhone Duo Only Works With the $80 USB-C Apple Pencil, Not the $130 Apple Pencil Pro](https://www.macrumors.com/2026/09/09/apple-pencil-usb-c-iphone-duo/)
+  - [Last Year’s iPhone Share Amongst Users of Widgetsmith](https://mastodon.social/@_Davidsmith/117253170115740653)
   - [XCancel Is Back](https://xcancel.com/cdclegal)
 - darkreading
   - [AI Governance Can't Wait](https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait)
@@ -42,6 +44,7 @@
 - seangoedecke.com
   - [Don't build tools for AI agents](https://seangoedecke.com/dont-build-tools-for-ai-agents/)
 - simonwillison.net
+  - [OpenAI agents attacked RubyGems back in May](https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/)
   - [Quoting Boris Cherny](https://simonwillison.net/2026/Sep/11/boris-cherny/)
   - [So you want to use OpenRouter?](https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/)
 - Sploitus.com Exploits RSS Feed
@@ -76,6 +79,12 @@
 - troyhunt.com
   - [Weekly Update 521: Breach Perception v. Reality](https://www.troyhunt.com/weekly-update-521/)
 - Vulners.com RSS Feed
+  - [Chromium CVE-2026-76017:  Use after free in Chromoting](https://vulners.com/mscve/MS:CVE-2026-76017?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-76018:  Privilege elevation in Import](https://vulners.com/mscve/MS:CVE-2026-76018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-76019:  Incorrect authorization in Workers](https://vulners.com/mscve/MS:CVE-2026-76019?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-76021:  Use after free in DOM](https://vulners.com/mscve/MS:CVE-2026-76021?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-76022:  Buffer overflow in Network](https://vulners.com/mscve/MS:CVE-2026-76022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-76023:  Improper resource control in Linux Toolkit Theming](https://vulners.com/mscve/MS:CVE-2026-76023?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium CVE-2026-76036:  Buffer overflow in Dawn](https://vulners.com/mscve/MS:CVE-2026-76036?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium CVE-2026-76039:  Incorrect reference resolution in Core](https://vulners.com/mscve/MS:CVE-2026-76039?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium CVE-2026-85042:  Use after free in DevTools](https://vulners.com/mscve/MS:CVE-2026-85042?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -123,7 +132,11 @@
   - [Petlibro Offers: 30% Off in September 2026](https://www.wired.com/story/petlibro-discount-code/)
   - [The 9 Best TV Shows to Stream This Month (September 2026)](https://www.wired.com/story/the-9-best-shows-to-stream-right-now/)
   - [The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades](https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/)
+- 不安全
+  - [ApplicationInspector v1.10.2](https://buaq.net/go-441866.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜苹果CEO特努斯回应折叠屏迟到：不做半成品/长鑫存储利润率超三星海力士/36.9万，特斯拉Model Y高性能版上市](https://www.ifanr.com/1679729?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [中东战火波及AI基建 阿联酋据称拟重新规划数据中心版图](https://blog.upx8.com/%E4%B8%AD%E4%B8%9C%E6%88%98%E7%81%AB%E6%B3%A2%E5%8F%8AAI%E5%9F%BA%E5%BB%BA-%E9%98%BF%E8%81%94%E9%85%8B%E6%8D%AE%E7%A7%B0%E6%8B%9F%E9%87%8D%E6%96%B0%E8%A7%84%E5%88%92%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%89%88%E5%9B%BE)
