@@ -25,6 +25,7 @@
   - [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised)
   - [Sylvan Esso think you should splurge on good-quality yogurt](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music)
 - Vulners.com RSS Feed
+  - [CVE-2026-90485](https://vulners.com/nvd/NVD:CVE-2026-90485?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556](https://vulners.com/nvd/NVD:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556 Freeciv before 3.2.6 Heap Buffer Overflow via worklist_load](https://vulners.com/cve/CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556 Freeciv before 3.2.6 Heap Buffer Overflow via worklist_load](https://vulners.com/cvelist/CVELIST:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -41,5 +42,8 @@
   - [CVE-2026-90560 zstd-jni 1.2.0 through 1.5.7-13 Out-of-Bounds Read via ZstdDictDecompress](https://vulners.com/cve/CVE-2026-90560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90560 zstd-jni 1.2.0 through 1.5.7-13 Out-of-Bounds Read via ZstdDictDecompress](https://vulners.com/cvelist/CVELIST:CVE-2026-90560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90616](https://vulners.com/nvd/NVD:CVE-2026-90616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Deserialization of Untrusted Data in Openidentityplatform Openam](https://vulners.com/githubexploit/B2C95D2F-FF4C-5818-8899-798371B683D2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [特斯拉预告将于10月1日举办活动 展示下一代Roadster跑车](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89%E9%A2%84%E5%91%8A%E5%B0%86%E4%BA%8E10%E6%9C%881%E6%97%A5%E4%B8%BE%E5%8A%9E%E6%B4%BB%E5%8A%A8-%E5%B1%95%E7%A4%BA%E4%B8%8B%E4%B8%80%E4%BB%A3Roadster%E8%B7%91%E8%BD%A6)
