@@ -27,6 +27,7 @@
   - [Threat Actor Generates 1M Personalized Fraud Emails in 3 Days](https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days)
   - [Why AI Is So Good at Scamming Humans](https://www.darkreading.com/cyber-risk/ai-scamming-humans)
 - Hacker News Frontpage
+  - [How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars)
   - [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
   - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
   - [Top mathematicians are outraged by OpenAI's methods](https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods)
