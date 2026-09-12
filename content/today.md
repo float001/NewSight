@@ -37,9 +37,12 @@
   - [The V8 JavaScript Runtime Undermined My Constant-Time JavaScript Library](https://soatok.blog/2026/09/12/the-v8-javascript-runtime-undermined-my-constant-time-javascript-library/)
 - Hacker News Frontpage
   - [Clay Mathematics Institute on the Navier-Stokes Problem](https://www.claymath.org/news/navier-stokes-announcement/)
+  - [Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
+  - [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
   - [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)
   - [How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars)
   - [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
+  - [Naomi Klein: Extreme wealth has a deranging effect. Turns you into a supremacist](https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist)
   - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
   - [Resistance Training Prescription for Muscle Function, Hypertrophy in Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/)
   - [Top mathematicians are outraged by OpenAI's methods](https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods)
@@ -56,8 +59,12 @@
   - [IEEE to Reward Sections for High Voter Turnout in Annual Election](https://spectrum.ieee.org/ieee-to-reward-sections)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-11: Traffic analysis exercise - Kongtuke Rebuke!](https://www.malware-traffic-analysis.net/2026/09/11/index.html)
+- pluralistic.net
+  - [Pluralistic: LLMs are real, AI is fake (12 Sep 2026)](https://pluralistic.net/2026/09/12/god-in-the-box/)
 - seangoedecke.com
   - [Don't build tools for AI agents](https://seangoedecke.com/dont-build-tools-for-ai-agents/)
+- shkspr.mobi
+  - [ActivityPub - How to send an updated user profile to Mastodon and the Fediverse](https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-mastodon-and-the-fediverse/)
 - simonwillison.net
   - [OpenAI agents attacked RubyGems back in May](https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/)
   - [Quoting Boris Cherny](https://simonwillison.net/2026/Sep/11/boris-cherny/)
@@ -96,6 +103,7 @@
   - [Microsoft’s head of comms is leaving after almost 20 years](https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms)
   - [The White House calls Truth Social the ‘most powerful and popular’ social media platform](https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful)
   - [We unfolded the iPhone Duo](https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms)
+  - [Where to preorder the iPhone 18 Pro and Pro Max](https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy)
 - troyhunt.com
   - [Weekly Update 521: Breach Perception v. Reality](https://www.troyhunt.com/weekly-update-521/)
 - Vulners.com RSS Feed
@@ -201,6 +209,7 @@
   - [redamon](https://vulners.com/gitee/828EAF8B-B152-5042-9531-95E152B0CEAD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress bbPress plugin <= 2.6.14 - Sensitive Data Exposure vulnerability](https://vulners.com/patchstack/PATCHSTACK:B2E98BD087C79EA1F21D21CC7468A5F0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [10 Best Standing Desks Worth Buying in 2026](https://www.wired.com/gallery/best-standing-desks/)
   - [From Hacks to Bioweapons, Claude Misuse Is Now Everywhere](https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/)
   - [Petlibro Offers: 30% Off in September 2026](https://www.wired.com/story/petlibro-discount-code/)
   - [The 9 Best TV Shows to Stream This Month (September 2026)](https://www.wired.com/story/the-9-best-shows-to-stream-right-now/)
