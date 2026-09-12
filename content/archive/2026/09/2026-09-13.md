@@ -13,6 +13,7 @@
   - [Quoting Paul Ford](https://simonwillison.net/2026/Sep/12/paul-ford/)
 - TechCrunch
   - [Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
+  - [OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
   - [Tesla says it will finally unveil the second generation Roadster on October 1](https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/)
 - The Block
   - [Crypto billionaires Ben Delo and Christopher Harborne each donate £36 million to Farage’s Reform UK](https://www.theblock.co/news/regulation/2026-09-12-crypto-billionaires-ben-delo-and-christopher-harborne-each-donate-36-million-to-farages-reform-uk-414509)
@@ -36,5 +37,6 @@
   - [CVE-2026-90560](https://vulners.com/nvd/NVD:CVE-2026-90560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90560 zstd-jni 1.2.0 through 1.5.7-13 Out-of-Bounds Read via ZstdDictDecompress](https://vulners.com/cve/CVE-2026-90560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90560 zstd-jni 1.2.0 through 1.5.7-13 Out-of-Bounds Read via ZstdDictDecompress](https://vulners.com/cvelist/CVELIST:CVE-2026-90560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90616](https://vulners.com/nvd/NVD:CVE-2026-90616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
