@@ -81,6 +81,7 @@
 - The Decoder
   - [Deep learning pioneer Bengio argues the training process itself makes AI dangerous](https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/)
   - [Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion](https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/)
+  - [Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next](https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/)
 - The Verge
   - [Anthropic spent this week in hot water over cybersecurity](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity)
   - [Lawyer fined $5K over AI-hallucinated witnesses in a murder case](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal)
@@ -108,6 +109,9 @@
   - [Chromium CVE-2026-85052:  Out of bounds read in CrashReporting](https://vulners.com/mscve/MS:CVE-2026-85052?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium CVE-2026-85053:  Improper resource exposure in CacheStorage](https://vulners.com/mscve/MS:CVE-2026-85053?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium CVE-2026-87491:  Out of bounds write in V8](https://vulners.com/mscve/MS:CVE-2026-87491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-11355](https://vulners.com/nvd/NVD:CVE-2026-11355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16482](https://vulners.com/nvd/NVD:CVE-2026-16482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17585](https://vulners.com/nvd/NVD:CVE-2026-17585?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44715](https://vulners.com/nvd/NVD:CVE-2026-44715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45056](https://vulners.com/nvd/NVD:CVE-2026-45056?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48496](https://vulners.com/nvd/NVD:CVE-2026-48496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -122,11 +126,15 @@
   - [CVE-2026-75800](https://vulners.com/nvd/NVD:CVE-2026-75800?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77005](https://vulners.com/nvd/NVD:CVE-2026-77005?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77006](https://vulners.com/nvd/NVD:CVE-2026-77006?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77161](https://vulners.com/nvd/NVD:CVE-2026-77161?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77689](https://vulners.com/nvd/NVD:CVE-2026-77689?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77705](https://vulners.com/nvd/NVD:CVE-2026-77705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77752](https://vulners.com/nvd/NVD:CVE-2026-77752?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77753](https://vulners.com/nvd/NVD:CVE-2026-77753?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78006](https://vulners.com/nvd/NVD:CVE-2026-78006?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-78152](https://vulners.com/nvd/NVD:CVE-2026-78152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78159](https://vulners.com/nvd/NVD:CVE-2026-78159?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78175](https://vulners.com/nvd/NVD:CVE-2026-78175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-80491](https://vulners.com/nvd/NVD:CVE-2026-80491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-80494](https://vulners.com/nvd/NVD:CVE-2026-80494?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81090](https://vulners.com/nvd/NVD:CVE-2026-81090?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -145,6 +153,8 @@
   - [CVE-2026-84047](https://vulners.com/nvd/NVD:CVE-2026-84047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-84099](https://vulners.com/nvd/NVD:CVE-2026-84099?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-84171](https://vulners.com/nvd/NVD:CVE-2026-84171?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85198](https://vulners.com/nvd/NVD:CVE-2026-85198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85200](https://vulners.com/nvd/NVD:CVE-2026-85200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85681](https://vulners.com/nvd/NVD:CVE-2026-85681?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86790](https://vulners.com/nvd/NVD:CVE-2026-86790?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87759](https://vulners.com/nvd/NVD:CVE-2026-87759?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -179,6 +189,7 @@
   - [CVE-2026-90467](https://vulners.com/nvd/NVD:CVE-2026-90467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-86547](https://vulners.com/githubexploit/61DC9969-BB4C-50F2-8F6A-D77752B645CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-89013](https://vulners.com/githubexploit/BAAF8349-AB02-5C71-B94E-0F3276B4A5E9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/245B0070-8347-5D2E-B2C4-A13F7A33572C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [redamon](https://vulners.com/gitee/828EAF8B-B152-5042-9531-95E152B0CEAD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress bbPress plugin <= 2.6.14 - Sensitive Data Exposure vulnerability](https://vulners.com/patchstack/PATCHSTACK:B2E98BD087C79EA1F21D21CC7468A5F0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
@@ -193,6 +204,7 @@
 - 爱范儿
   - [刚刚，Apple Watch 成为了苹果最新的 AI 硬件](https://www.ifanr.com/1679877?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果CEO特努斯回应折叠屏迟到：不做半成品/长鑫存储利润率超三星海力士/36.9万，特斯拉Model Y高性能版上市](https://www.ifanr.com/1679729?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [特努斯回答一切，那个懂技术的苹果 CEO 回来了](https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [讲讲 Duo 作为科技产品命名的前世今生](https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [25 位菲尔兹奖得主联合警告“AI 在数学领域严重错位”，邓煜调侃要退休回家写百合小说](https://blog.upx8.com/25-%E4%BD%8D%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%94%E5%90%88%E8%AD%A6%E5%91%8A-AI-%E5%9C%A8%E6%95%B0%E5%AD%A6%E9%A2%86%E5%9F%9F%E4%B8%A5%E9%87%8D%E9%94%99%E4%BD%8D-%E9%82%93%E7%85%9C%E8%B0%83%E4%BE%83%E8%A6%81%E9%80%80%E4%BC%91%E5%9B%9E%E5%AE%B6%E5%86%99%E7%99%BE%E5%90%88%E5%B0%8F%E8%AF%B4)
