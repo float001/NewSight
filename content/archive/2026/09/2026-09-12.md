@@ -3,11 +3,14 @@
 - 2Libra
   - [2 友们有口感好的小众酒推荐吗？](https://2libra.com/post/midlife-support-club/0IafSBd)
   - [Blogger/blogspot 引入 google 的 code-prettify 实现代码高亮 并保留手动设置的文字颜色](https://2libra.com/post/frontend/jkjiVK0)
+  - [【快讯】GPT 已重置](https://2libra.com/post/ai-updates/aBucXaO)
   - [关于之前电脑坏的后续](https://2libra.com/post/personal-life/k0-ieTq)
+  - [分享下我做的基于 B 站的音乐播放网站，欢迎体验](https://2libra.com/post/personal-works/wfQKNiJ)
   - [忍不了，终于还是自己动手修好笔记本](https://2libra.com/post/small-things/X7oLmaz)
 - 404 Media
   - [Automattic’s Matt Mullenweg Claims He’s Back 'In Control'](https://www.404media.co/automattic-matt-mullenweg-back-in-control/)
   - [Behind the Blog: How to Talk About AI Doom](https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/)
+  - [Mercury Is Shrinking Way Faster Than We Thought, Scientists Discover](https://www.404media.co/mercury-is-shrinking-way-faster-than-we-thought-scientists-discover/)
 - Ars Technica
   - [Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland](https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/)
   - [Random rewards enrich classic game-theory contests](https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/)
@@ -38,6 +41,7 @@
   - [How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars)
   - [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
   - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
+  - [Resistance Training Prescription for Muscle Function, Hypertrophy in Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/)
   - [Top mathematicians are outraged by OpenAI's methods](https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods)
   - [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
   - [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
@@ -81,6 +85,7 @@
 - The Decoder
   - [Deep learning pioneer Bengio argues the training process itself makes AI dangerous](https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/)
   - [Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion](https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/)
+  - [Google's new AI model predicts the future from sales data, weather, and discount schedules](https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/)
   - [Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next](https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/)
 - The Verge
   - [Anthropic spent this week in hot water over cybersecurity](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity)
@@ -196,6 +201,7 @@
   - [Petlibro Offers: 30% Off in September 2026](https://www.wired.com/story/petlibro-discount-code/)
   - [The 9 Best TV Shows to Stream This Month (September 2026)](https://www.wired.com/story/the-9-best-shows-to-stream-right-now/)
   - [The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades](https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/)
+  - [You Don’t Have a Right to Safe Drinking Water, Trump-Appointed Judge Rules](https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/)
 - 不安全
   - [ApplicationInspector v1.10.2](https://buaq.net/go-441866.html)
   - [kanidm v1.11.2](https://buaq.net/go-441880.html)
