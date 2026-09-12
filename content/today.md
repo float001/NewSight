@@ -1,11 +1,14 @@
 # 今日安全资讯（2026-09-12）
 
+- 2Libra
+  - [2 友们有口感好的小众酒推荐吗？](https://2libra.com/post/midlife-support-club/0IafSBd)
 - 404 Media
   - [Automattic’s Matt Mullenweg Claims He’s Back 'In Control'](https://www.404media.co/automattic-matt-mullenweg-back-in-control/)
   - [Behind the Blog: How to Talk About AI Doom](https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/)
 - Ars Technica
   - [Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland](https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/)
   - [Random rewards enrich classic game-theory contests](https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/)
+  - [Some satellite companies still have an appetite for boutique launch services](https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/)
 - CERT Recently Published Vulnerability Notes
   - [VU#369611: ExLlamaV3 contains Denial of Service vulnerability via insufficient bounds checking on kernel dispatch index](https://kb.cert.org/vuls/id/369611)
 - CoinTelegraph
@@ -23,6 +26,7 @@
   - [Why AI Is So Good at Scamming Humans](https://www.darkreading.com/cyber-risk/ai-scamming-humans)
 - Hacker News Frontpage
   - [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
+  - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
   - [Top mathematicians are outraged by OpenAI's methods](https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods)
   - [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
 - HackerNoon
@@ -33,6 +37,10 @@
   - [You Can Drop SEO](https://idiallo.com/blog/you-can-drop-the-seo)
 - IEEE Spectrum
   - [IEEE to Reward Sections for High Voter Turnout in Annual Election](https://spectrum.ieee.org/ieee-to-reward-sections)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-09-11: Traffic analysis exercise - Kongtuke Rebuke!](https://www.malware-traffic-analysis.net/2026/09/11/index.html)
+- seangoedecke.com
+  - [Don't build tools for AI agents](https://seangoedecke.com/dont-build-tools-for-ai-agents/)
 - simonwillison.net
   - [Quoting Boris Cherny](https://simonwillison.net/2026/Sep/11/boris-cherny/)
   - [So you want to use OpenRouter?](https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/)
@@ -68,6 +76,16 @@
 - troyhunt.com
   - [Weekly Update 521: Breach Perception v. Reality](https://www.troyhunt.com/weekly-update-521/)
 - Vulners.com RSS Feed
+  - [Chromium CVE-2026-76036:  Buffer overflow in Dawn](https://vulners.com/mscve/MS:CVE-2026-76036?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-76039:  Incorrect reference resolution in Core](https://vulners.com/mscve/MS:CVE-2026-76039?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-85042:  Use after free in DevTools](https://vulners.com/mscve/MS:CVE-2026-85042?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-85043:  Incomplete cleanup in Network](https://vulners.com/mscve/MS:CVE-2026-85043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-85045:  Race condition in V8](https://vulners.com/mscve/MS:CVE-2026-85045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-85048:  Use after free in Compositing](https://vulners.com/mscve/MS:CVE-2026-85048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-85049:  Use after free in Skia](https://vulners.com/mscve/MS:CVE-2026-85049?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-85051:  Type confusion in Compositing](https://vulners.com/mscve/MS:CVE-2026-85051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-85052:  Out of bounds read in CrashReporting](https://vulners.com/mscve/MS:CVE-2026-85052?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-85053:  Improper resource exposure in CacheStorage](https://vulners.com/mscve/MS:CVE-2026-85053?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44715](https://vulners.com/nvd/NVD:CVE-2026-44715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45056](https://vulners.com/nvd/NVD:CVE-2026-45056?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48496](https://vulners.com/nvd/NVD:CVE-2026-48496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
