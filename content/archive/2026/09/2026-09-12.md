@@ -109,6 +109,8 @@
   - [CVE-2026-54258](https://vulners.com/nvd/NVD:CVE-2026-54258?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81916 Incorrect Authorization in the Concrete CMS Express Entries Dashboard below version 9.5.3 Allows Entry Creation in an Unauthorized Object](https://vulners.com/cve/CVE-2026-81916?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81916 Incorrect Authorization in the Concrete CMS Express Entries Dashboard below version 9.5.3 Allows Entry Creation in an Unauthorized Object](https://vulners.com/cvelist/CVELIST:CVE-2026-81916?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89267](https://vulners.com/nvd/NVD:CVE-2026-89267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89268](https://vulners.com/nvd/NVD:CVE-2026-89268?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90443](https://vulners.com/nvd/NVD:CVE-2026-90443?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90444](https://vulners.com/nvd/NVD:CVE-2026-90444?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90445](https://vulners.com/nvd/NVD:CVE-2026-90445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -126,6 +128,7 @@
   - [CVE-2026-90457](https://vulners.com/nvd/NVD:CVE-2026-90457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90460](https://vulners.com/nvd/NVD:CVE-2026-90460?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90461](https://vulners.com/nvd/NVD:CVE-2026-90461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90467](https://vulners.com/nvd/NVD:CVE-2026-90467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-89013](https://vulners.com/githubexploit/BAAF8349-AB02-5C71-B94E-0F3276B4A5E9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [redamon](https://vulners.com/gitee/828EAF8B-B152-5042-9531-95E152B0CEAD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress bbPress plugin <= 2.6.14 - Sensitive Data Exposure vulnerability](https://vulners.com/patchstack/PATCHSTACK:B2E98BD087C79EA1F21D21CC7468A5F0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -135,6 +138,7 @@
   - [The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades](https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/)
 - 不安全
   - [ApplicationInspector v1.10.2](https://buaq.net/go-441866.html)
+  - [kanidm v1.11.2](https://buaq.net/go-441880.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
