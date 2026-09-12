@@ -21,6 +21,8 @@
   - [Bitcoin Suisse to shift up to half of Swiss jobs abroad](https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hyperliquid’s biggest risk is regulation, says Ran Neuner](https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- construction-physics.com
+  - [Reading List — 09/12/2026](https://www.construction-physics.com/p/reading-list-09122026)
 - daringfireball.net
   - [Clarus the Dogcow Easter Egg in iOS 27 Settings](https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/)
   - [iPhone Duo Only Works With the $80 USB-C Apple Pencil, Not the $130 Apple Pencil Pro](https://www.macrumors.com/2026/09/09/apple-pencil-usb-c-iphone-duo/)
@@ -45,6 +47,7 @@
   - [Naomi Klein: Extreme wealth has a deranging effect. Turns you into a supremacist](https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist)
   - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
   - [Resistance Training Prescription for Muscle Function, Hypertrophy in Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/)
+  - [Show HN: Liniora – Ever thought about replacing your project manager?](https://liniora.com)
   - [Top mathematicians are outraged by OpenAI's methods](https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods)
   - [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
   - [We've followed their lives for six decades; now the stars of 7 Up are bowing out](https://www.bbc.co.uk/news/articles/crm932el3yjo)
@@ -61,6 +64,8 @@
   - [2026-09-11: Traffic analysis exercise - Kongtuke Rebuke!](https://www.malware-traffic-analysis.net/2026/09/11/index.html)
 - pluralistic.net
   - [Pluralistic: LLMs are real, AI is fake (12 Sep 2026)](https://pluralistic.net/2026/09/12/god-in-the-box/)
+- Recent Commits to cve:main
+  - [Update Sat Sep 12 12:20:52 UTC 2026](https://github.com/trickest/cve/commit/ff7dafee817d7add09a2fac8a0d56d5bed7f9e32)
 - seangoedecke.com
   - [Don't build tools for AI agents](https://seangoedecke.com/dont-build-tools-for-ai-agents/)
 - shkspr.mobi
@@ -98,6 +103,7 @@
   - [OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google](https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/)
 - The Verge
   - [Anthropic spent this week in hot water over cybersecurity](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity)
+  - [Laika’s stop-motion fantasy Wildwood looks so smooth](https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian)
   - [Lawyer fined $5K over AI-hallucinated witnesses in a murder case](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal)
   - [Matt Mullenweg reportedly returns as Automattic CEO two days after getting booted](https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return)
   - [Microsoft’s head of comms is leaving after almost 20 years](https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms)
@@ -207,6 +213,7 @@
   - [Exploit for CVE-2026-89013](https://vulners.com/githubexploit/BAAF8349-AB02-5C71-B94E-0F3276B4A5E9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/245B0070-8347-5D2E-B2C4-A13F7A33572C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [redamon](https://vulners.com/gitee/828EAF8B-B152-5042-9531-95E152B0CEAD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [sh53d-temp-root](https://vulners.com/githubexploit/281E6083-AD47-5D4A-B3F4-414DD4312101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress bbPress plugin <= 2.6.14 - Sensitive Data Exposure vulnerability](https://vulners.com/patchstack/PATCHSTACK:B2E98BD087C79EA1F21D21CC7468A5F0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [10 Best Standing Desks Worth Buying in 2026](https://www.wired.com/gallery/best-standing-desks/)
