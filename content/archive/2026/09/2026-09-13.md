@@ -17,9 +17,12 @@
   - [Tesla says it will finally unveil the second generation Roadster on October 1](https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/)
 - The Block
   - [Crypto billionaires Ben Delo and Christopher Harborne each donate £36 million to Farage’s Reform UK](https://www.theblock.co/news/regulation/2026-09-12-crypto-billionaires-ben-delo-and-christopher-harborne-each-donate-36-million-to-farages-reform-uk-414509)
+  - [CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market](https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519)
   - [Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain](https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516)
 - The Verge
   - [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)
+  - [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)
+  - [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised)
   - [Sylvan Esso think you should splurge on good-quality yogurt](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music)
 - Vulners.com RSS Feed
   - [CVE-2026-90556](https://vulners.com/nvd/NVD:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
