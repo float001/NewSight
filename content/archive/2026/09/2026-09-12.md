@@ -27,11 +27,13 @@
   - [Threat Actor Generates 1M Personalized Fraud Emails in 3 Days](https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days)
   - [Why AI Is So Good at Scamming Humans](https://www.darkreading.com/cyber-risk/ai-scamming-humans)
 - Hacker News Frontpage
+  - [Clay Mathematics Institute on the Navier-Stokes Problem](https://www.claymath.org/news/navier-stokes-announcement/)
   - [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)
   - [How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars)
   - [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
   - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
   - [Top mathematicians are outraged by OpenAI's methods](https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods)
+  - [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
   - [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
 - HackerNoon
   - [Credible Captain Launches Independent Consumer Review Platform Focused on Transparency, AI and Trust](https://hackernoon.com/credible-captain-launches-independent-consumer-review-platform-focused-on-transparency-ai-and-trust?source=rss)
@@ -97,6 +99,7 @@
   - [Chromium CVE-2026-85051:  Type confusion in Compositing](https://vulners.com/mscve/MS:CVE-2026-85051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium CVE-2026-85052:  Out of bounds read in CrashReporting](https://vulners.com/mscve/MS:CVE-2026-85052?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium CVE-2026-85053:  Improper resource exposure in CacheStorage](https://vulners.com/mscve/MS:CVE-2026-85053?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Chromium CVE-2026-87491:  Out of bounds write in V8](https://vulners.com/mscve/MS:CVE-2026-87491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44715](https://vulners.com/nvd/NVD:CVE-2026-44715?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45056](https://vulners.com/nvd/NVD:CVE-2026-45056?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48496](https://vulners.com/nvd/NVD:CVE-2026-48496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
