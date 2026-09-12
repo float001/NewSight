@@ -96,9 +96,11 @@
   - [Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund](https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310)
   - [‘DeFi’s federal bank’: Standard Chartered sees SKY token rising fivefold by end-2028](https://www.theblock.co/news/markets/2026-09-11-standard-chartered-sky-token-defi-federal-bank-414280)
 - The Decoder
+  - [AI models' written reasoning steps correspond to distinct internal patterns, a new study finds](https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/)
   - [Deep learning pioneer Bengio argues the training process itself makes AI dangerous](https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/)
   - [Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion](https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/)
   - [Google's new AI model predicts the future from sales data, weather, and discount schedules](https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/)
+  - [GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends](https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/)
   - [Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next](https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/)
   - [OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google](https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/)
 - The Verge
@@ -226,6 +228,7 @@
 - 不安全
   - [ApplicationInspector v1.10.2](https://buaq.net/go-441866.html)
   - [kanidm v1.11.2](https://buaq.net/go-441880.html)
+  - [mirth-connect-security-poc](https://buaq.net/go-441934.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
