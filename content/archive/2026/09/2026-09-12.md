@@ -27,6 +27,7 @@
   - [Threat Actor Generates 1M Personalized Fraud Emails in 3 Days](https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days)
   - [Why AI Is So Good at Scamming Humans](https://www.darkreading.com/cyber-risk/ai-scamming-humans)
 - Hacker News Frontpage
+  - [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)
   - [How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars)
   - [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
   - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
@@ -145,3 +146,4 @@
   - [早报｜苹果CEO特努斯回应折叠屏迟到：不做半成品/长鑫存储利润率超三星海力士/36.9万，特斯拉Model Y高性能版上市](https://www.ifanr.com/1679729?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [中东战火波及AI基建 阿联酋据称拟重新规划数据中心版图](https://blog.upx8.com/%E4%B8%AD%E4%B8%9C%E6%88%98%E7%81%AB%E6%B3%A2%E5%8F%8AAI%E5%9F%BA%E5%BB%BA-%E9%98%BF%E8%81%94%E9%85%8B%E6%8D%AE%E7%A7%B0%E6%8B%9F%E9%87%8D%E6%96%B0%E8%A7%84%E5%88%92%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%89%88%E5%9B%BE)
+  - [俄罗斯正式启动5G网络商用服务](https://blog.upx8.com/%E4%BF%84%E7%BD%97%E6%96%AF%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A85G%E7%BD%91%E7%BB%9C%E5%95%86%E7%94%A8%E6%9C%8D%E5%8A%A1)
