@@ -7,6 +7,7 @@
   - [关于之前电脑坏的后续](https://2libra.com/post/personal-life/k0-ieTq)
   - [分享下我做的基于 B 站的音乐播放网站，欢迎体验](https://2libra.com/post/personal-works/wfQKNiJ)
   - [忍不了，终于还是自己动手修好笔记本](https://2libra.com/post/small-things/X7oLmaz)
+  - [电子名片网站](https://2libra.com/post/personal-works/9VOUO17)
 - 404 Media
   - [Automattic’s Matt Mullenweg Claims He’s Back 'In Control'](https://www.404media.co/automattic-matt-mullenweg-back-in-control/)
   - [Behind the Blog: How to Talk About AI Doom](https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/)
@@ -25,8 +26,10 @@
   - [Reading List — 09/12/2026](https://www.construction-physics.com/p/reading-list-09122026)
 - daringfireball.net
   - [Clarus the Dogcow Easter Egg in iOS 27 Settings](https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/)
+  - [Gary Marcus on This Week in AI Drama](https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence)
   - [iPhone Duo Only Works With the $80 USB-C Apple Pencil, Not the $130 Apple Pencil Pro](https://www.macrumors.com/2026/09/09/apple-pencil-usb-c-iphone-duo/)
   - [Last Year’s iPhone Share Amongst Users of Widgetsmith](https://mastodon.social/@_Davidsmith/117253170115740653)
+  - [Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier-Stokes Problem](https://cims.nyu.edu/~tristanb/statement.pdf)
   - [XCancel Is Back](https://xcancel.com/cdclegal)
 - darkreading
   - [AI Governance Can't Wait](https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait)
@@ -50,6 +53,8 @@
   - [Show HN: Liniora – Ever thought about replacing your project manager?](https://liniora.com)
   - [Top mathematicians are outraged by OpenAI's methods](https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods)
   - [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
+  - [Waymo pulls over, calls cops on juvenile riders who had 'ghost gun"](https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun)
+  - [We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
   - [We've followed their lives for six decades; now the stars of 7 Up are bowing out](https://www.bbc.co.uk/news/articles/crm932el3yjo)
   - [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
 - HackerNoon
@@ -87,6 +92,7 @@
   - [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/)
   - [One week left to book your exhibit table at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/)
   - [OpenAI’s feud with mathematicians is only escalating](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)
+  - [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
   - [Roblox is making it easier to build games with AI — and play them outside Roblox](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/)
   - [Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
 - text/plain
@@ -100,6 +106,7 @@
   - [Deep learning pioneer Bengio argues the training process itself makes AI dangerous](https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/)
   - [Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion](https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/)
   - [Google's new AI model predicts the future from sales data, weather, and discount schedules](https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/)
+  - [GPT-6 Astra appears to show a "step change" in spatial reasoning based on early benchmarks](https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/)
   - [GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends](https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/)
   - [Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next](https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/)
   - [OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google](https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/)
@@ -110,8 +117,11 @@
   - [Matt Mullenweg reportedly returns as Automattic CEO two days after getting booted](https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return)
   - [Microsoft’s head of comms is leaving after almost 20 years](https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms)
   - [The White House calls Truth Social the ‘most powerful and popular’ social media platform](https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful)
+  - [Trump is giving data centers a pass to pollute](https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa)
   - [We unfolded the iPhone Duo](https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms)
   - [Where to preorder the iPhone 18 Pro and Pro Max](https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy)
+- Threatninja.net
+  - [Hack The Box: Silentium Machine Walkthrough – Easy Difficulity](https://threatninja.net/hack-the-box-silentium-machine-walkthrough-easy-difficulity/)
 - troyhunt.com
   - [Weekly Update 521: Breach Perception v. Reality](https://www.troyhunt.com/weekly-update-521/)
 - Vulners.com RSS Feed
