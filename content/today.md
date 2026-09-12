@@ -6,13 +6,31 @@
 - daringfireball.net
   - [Where Are the AI-Generated Killer Apps?](https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?unlocked_article_code=1.AlE.C9EE.H2j5a1eHFUbQ&smid=nytcore-ios-share)
 - Hacker News Frontpage
+  - [Anthropic CEO Says It's Time to Slow AI Model Advances](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
   - [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/)
 - simonwillison.net
   - [Quoting Paul Ford](https://simonwillison.net/2026/Sep/12/paul-ford/)
 - The Block
   - [Crypto billionaires Ben Delo and Christopher Harborne each donate £36 million to Farage’s Reform UK](https://www.theblock.co/news/regulation/2026-09-12-crypto-billionaires-ben-delo-and-christopher-harborne-each-donate-36-million-to-farages-reform-uk-414509)
+  - [Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain](https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516)
 - The Verge
   - [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)
   - [Sylvan Esso think you should splurge on good-quality yogurt](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music)
+- Vulners.com RSS Feed
+  - [CVE-2026-90556](https://vulners.com/nvd/NVD:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90556 Freeciv before 3.2.6 Heap Buffer Overflow via worklist_load](https://vulners.com/cve/CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90556 Freeciv before 3.2.6 Heap Buffer Overflow via worklist_load](https://vulners.com/cvelist/CVELIST:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90557](https://vulners.com/nvd/NVD:CVE-2026-90557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90557 Freeciv 3.1.0 through 3.2.5 Out-of-Bounds Read via Savegame](https://vulners.com/cve/CVE-2026-90557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90557 Freeciv 3.1.0 through 3.2.5 Out-of-Bounds Read via Savegame](https://vulners.com/cvelist/CVELIST:CVE-2026-90557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90558](https://vulners.com/nvd/NVD:CVE-2026-90558?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90558 sngrep through 1.8.4 Stack Buffer Overflow via SIP Headers](https://vulners.com/cve/CVE-2026-90558?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90558 sngrep through 1.8.4 Stack Buffer Overflow via SIP Headers](https://vulners.com/cvelist/CVELIST:CVE-2026-90558?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90559](https://vulners.com/nvd/NVD:CVE-2026-90559?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90559 snappy-java through 1.1.10.8 Out-of-Bounds Write via uncompress](https://vulners.com/cve/CVE-2026-90559?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90559 snappy-java through 1.1.10.8 Out-of-Bounds Write via uncompress](https://vulners.com/cvelist/CVELIST:CVE-2026-90559?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90560](https://vulners.com/nvd/NVD:CVE-2026-90560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90560 zstd-jni 1.2.0 through 1.5.7-13 Out-of-Bounds Read via ZstdDictDecompress](https://vulners.com/cve/CVE-2026-90560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90560 zstd-jni 1.2.0 through 1.5.7-13 Out-of-Bounds Read via ZstdDictDecompress](https://vulners.com/cvelist/CVELIST:CVE-2026-90560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
