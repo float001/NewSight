@@ -3,6 +3,7 @@
 - 2Libra
   - [2 友们有口感好的小众酒推荐吗？](https://2libra.com/post/midlife-support-club/0IafSBd)
   - [Blogger/blogspot 引入 google 的 code-prettify 实现代码高亮 并保留手动设置的文字颜色](https://2libra.com/post/frontend/jkjiVK0)
+  - [关于之前电脑坏的后续](https://2libra.com/post/personal-life/k0-ieTq)
 - 404 Media
   - [Automattic’s Matt Mullenweg Claims He’s Back 'In Control'](https://www.404media.co/automattic-matt-mullenweg-back-in-control/)
   - [Behind the Blog: How to Talk About AI Doom](https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/)
@@ -52,6 +53,7 @@
   - [Quoting Boris Cherny](https://simonwillison.net/2026/Sep/11/boris-cherny/)
   - [So you want to use OpenRouter?](https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/)
 - Sploitus.com Exploits RSS Feed
+  - [exploit.pub](https://sploitus.com/exploit?id=CA9C7E6D-8CED-5874-859E-AF1CD16FCF20&utm_source=rss&utm_medium=rss)
   - [redamon exploit](https://sploitus.com/exploit?id=828EAF8B-B152-5042-9531-95E152B0CEAD&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ](https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/)
