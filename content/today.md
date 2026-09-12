@@ -4,12 +4,16 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korea using foreign talent to help infiltrate US companies: Report](https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [Unread 5.0](https://www.goldenhillsoftware.com/2026/09/unread-50/)
   - [Where Are the AI-Generated Killer Apps?](https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?unlocked_article_code=1.AlE.C9EE.H2j5a1eHFUbQ&smid=nytcore-ios-share)
 - Hacker News Frontpage
   - [Anthropic CEO Says It's Time to Slow AI Model Advances](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
   - [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/)
 - simonwillison.net
   - [Quoting Paul Ford](https://simonwillison.net/2026/Sep/12/paul-ford/)
+- TechCrunch
+  - [Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
+  - [Tesla says it will finally unveil the second generation Roadster on October 1](https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/)
 - The Block
   - [Crypto billionaires Ben Delo and Christopher Harborne each donate £36 million to Farage’s Reform UK](https://www.theblock.co/news/regulation/2026-09-12-crypto-billionaires-ben-delo-and-christopher-harborne-each-donate-36-million-to-farages-reform-uk-414509)
   - [Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain](https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516)
