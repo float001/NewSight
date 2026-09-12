@@ -44,6 +44,7 @@
   - [Resistance Training Prescription for Muscle Function, Hypertrophy in Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/)
   - [Top mathematicians are outraged by OpenAI's methods](https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods)
   - [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
+  - [We've followed their lives for six decades; now the stars of 7 Up are bowing out](https://www.bbc.co.uk/news/articles/crm932el3yjo)
   - [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
 - HackerNoon
   - [Credible Captain Launches Independent Consumer Review Platform Focused on Transparency, AI and Trust](https://hackernoon.com/credible-captain-launches-independent-consumer-review-platform-focused-on-transparency-ai-and-trust?source=rss)
@@ -87,6 +88,7 @@
   - [Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion](https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/)
   - [Google's new AI model predicts the future from sales data, weather, and discount schedules](https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/)
   - [Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next](https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/)
+  - [OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google](https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/)
 - The Verge
   - [Anthropic spent this week in hot water over cybersecurity](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity)
   - [Lawyer fined $5K over AI-hallucinated witnesses in a murder case](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal)
@@ -172,6 +174,7 @@
   - [CVE-2026-87916](https://vulners.com/nvd/NVD:CVE-2026-87916?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87918](https://vulners.com/nvd/NVD:CVE-2026-87918?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87919](https://vulners.com/nvd/NVD:CVE-2026-87919?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89172](https://vulners.com/nvd/NVD:CVE-2026-89172?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89267](https://vulners.com/nvd/NVD:CVE-2026-89267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89268](https://vulners.com/nvd/NVD:CVE-2026-89268?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90443](https://vulners.com/nvd/NVD:CVE-2026-90443?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -198,8 +201,10 @@
   - [redamon](https://vulners.com/gitee/828EAF8B-B152-5042-9531-95E152B0CEAD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress bbPress plugin <= 2.6.14 - Sensitive Data Exposure vulnerability](https://vulners.com/patchstack/PATCHSTACK:B2E98BD087C79EA1F21D21CC7468A5F0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [From Hacks to Bioweapons, Claude Misuse Is Now Everywhere](https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/)
   - [Petlibro Offers: 30% Off in September 2026](https://www.wired.com/story/petlibro-discount-code/)
   - [The 9 Best TV Shows to Stream This Month (September 2026)](https://www.wired.com/story/the-9-best-shows-to-stream-right-now/)
+  - [The Best 3-in-1 Apple Charging Stations After Testing 30+ Models](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
   - [The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades](https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/)
   - [You Don’t Have a Right to Safe Drinking Water, Trump-Appointed Judge Rules](https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/)
 - 不安全
