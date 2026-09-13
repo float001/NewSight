@@ -2,8 +2,10 @@
 
 - 2Libra
   - [Blogger/blogspot 编辑器 内部 iframe 应用 CSS 实现所见即所得 WYSIWYG 油猴篡改猴 tampermonkey 脚本](https://2libra.com/post/tool-sharing/UfPWsut)
+  - [giffgaff 财务系统被强制锁定，目前正面临卡组织的调查](https://2libra.com/post/tech-news/_L_uRXv)
   - [你们平时周末都做什么啊？感觉周末很无聊完全无事可做，感觉你们生活很精彩，你们周末都做什么呢？](https://2libra.com/post/weekend-life/kPI13CF)
   - [每日微知天下 9 月 13 日](https://2libra.com/post/hotspot-tracking/ipd7lBg)
+  - [流言也有种种【转载】](https://2libra.com/post/personal-life/OBnoV-9)
   - [静音机械键盘有啥推荐](https://2libra.com/post/computers-accessories/Pal9imu)
 - CoinTelegraph
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -14,6 +16,7 @@
 - Hacker News Frontpage
   - [American Medical Association Backs Classification of Nearsightedness as Disease](https://www.aao.org/newsroom/news-releases/detail/ama-backs-formal-classification-nearsightedness)
   - [Anthropic CEO Says It's Time to Slow AI Model Advances](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
+  - [Dramatic insider warnings over AI fall flat with some in Silicon Valley](https://www.bbc.co.uk/news/articles/cq635037g18o)
   - [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/)
   - [Scientists Create a New Form of Ice at More Than 2000°C](https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c)
   - [The Interim Computer Museum](https://icm.museum/)
@@ -30,6 +33,8 @@
   - [Crypto billionaires Ben Delo and Christopher Harborne each donate £36 million to Farage’s Reform UK](https://www.theblock.co/news/regulation/2026-09-12-crypto-billionaires-ben-delo-and-christopher-harborne-each-donate-36-million-to-farages-reform-uk-414509)
   - [CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market](https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519)
   - [Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain](https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516)
+- The Decoder
+  - [Altman, Musk, and Hassabis back Amodei's call to add independent oversight](https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/)
 - The Verge
   - [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)
   - [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)
@@ -54,6 +59,8 @@
   - [CVE-2026-90495](https://vulners.com/nvd/NVD:CVE-2026-90495?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90496](https://vulners.com/nvd/NVD:CVE-2026-90496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90497](https://vulners.com/nvd/NVD:CVE-2026-90497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90500](https://vulners.com/nvd/NVD:CVE-2026-90500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90501](https://vulners.com/nvd/NVD:CVE-2026-90501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556](https://vulners.com/nvd/NVD:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556 Freeciv before 3.2.6 Heap Buffer Overflow via worklist_load](https://vulners.com/cve/CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556 Freeciv before 3.2.6 Heap Buffer Overflow via worklist_load](https://vulners.com/cvelist/CVELIST:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -76,8 +83,12 @@
   - [CVE-2026-90678](https://vulners.com/nvd/NVD:CVE-2026-90678?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90679](https://vulners.com/nvd/NVD:CVE-2026-90679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Openidentityplatform Openam](https://vulners.com/githubexploit/B2C95D2F-FF4C-5818-8899-798371B683D2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [atomicvulns](https://buaq.net/go-442020.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]虫群Agent代码审计](https://key08.com/index.php/2026/09/13/3321.html)
 - 量子位 QbitAI
   - [GitHub三榜第一背后，一个“专升本”工程师的十年](https://www.qbitai.com/2026/09/488519.html)
   - [OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了](https://www.qbitai.com/2026/09/488380.html)
