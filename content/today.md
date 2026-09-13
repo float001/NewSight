@@ -38,6 +38,7 @@
   - [Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain](https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516)
 - The Decoder
   - [Altman, Musk, and Hassabis back Amodei's call to add independent oversight](https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/)
+  - [GPT-6 Astra pilots a surveillance drone and runs a business on its own](https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/)
   - [Two-year university study finds banning AI from classrooms leaves students worse off](https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/)
 - The Verge
   - [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)
@@ -45,6 +46,7 @@
   - [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised)
   - [Sylvan Esso think you should splurge on good-quality yogurt](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music)
 - Vulners.com RSS Feed
+  - [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://vulners.com/thn/THN:A0EE3C4BE7D4CF1108B15ABEBB089F35?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77773](https://vulners.com/nvd/NVD:CVE-2026-77773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-80071](https://vulners.com/nvd/NVD:CVE-2026-80071?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-80072](https://vulners.com/nvd/NVD:CVE-2026-80072?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -65,6 +67,12 @@
   - [CVE-2026-90497](https://vulners.com/nvd/NVD:CVE-2026-90497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90500](https://vulners.com/nvd/NVD:CVE-2026-90500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90501](https://vulners.com/nvd/NVD:CVE-2026-90501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90504](https://vulners.com/nvd/NVD:CVE-2026-90504?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90505](https://vulners.com/nvd/NVD:CVE-2026-90505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90506](https://vulners.com/nvd/NVD:CVE-2026-90506?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90507](https://vulners.com/nvd/NVD:CVE-2026-90507?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90508](https://vulners.com/nvd/NVD:CVE-2026-90508?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90509](https://vulners.com/nvd/NVD:CVE-2026-90509?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556](https://vulners.com/nvd/NVD:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556 Freeciv before 3.2.6 Heap Buffer Overflow via worklist_load](https://vulners.com/cve/CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556 Freeciv before 3.2.6 Heap Buffer Overflow via worklist_load](https://vulners.com/cvelist/CVELIST:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -87,10 +95,14 @@
   - [CVE-2026-90678](https://vulners.com/nvd/NVD:CVE-2026-90678?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90679](https://vulners.com/nvd/NVD:CVE-2026-90679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Openidentityplatform Openam](https://vulners.com/githubexploit/B2C95D2F-FF4C-5818-8899-798371B683D2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Linux Linux_Kernel](https://vulners.com/githubexploit/7CC97944-9FC4-50A6-9166-E0341C45386E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Best Indoor Garden Systems I’ve Been Testing All Year (2026)](https://www.wired.com/gallery/best-indoor-gardening-systems/)
+  - [Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser](https://www.wired.com/story/iphone-settings-ios-27-safari-browser/)
   - [With a Better Understanding of Physics, We Could Predict Volcanic Eruptions](https://www.wired.com/story/physics-predict-volcanic-eruptions/)
 - 不安全
   - [atomicvulns](https://buaq.net/go-442020.html)
+  - [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://buaq.net/go-442027.html)
   - [fyp](https://buaq.net/go-442024.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
