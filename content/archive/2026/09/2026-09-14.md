@@ -4,8 +4,17 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - dfarq.homeip.net
   - [The spy in your living room](https://dfarq.homeip.net/the-spy-in-your-living-room/?utm_source=rss&utm_medium=rss&utm_campaign=the-spy-in-your-living-room)
+- Emergent Minds | paddo.dev
+  - [I Agree With Jacob: The Coxon Resignation, 169 Million Views, and the CEO Who Agreed With It](https://paddo.dev/blog/i-agree-with-jacob/)
+- Hacker News Frontpage
+  - [Ask HN: How can I browse HN in dark mode?](https://news.ycombinator.com/item?id=49686233)
+  - [Ask HN: What are you working on? (September 2026)](https://news.ycombinator.com/item?id=49686380)
+  - [Google illegally retains customer data,and I am taking legal action against them](https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c)
+  - [Romania soccer introduces black card to 'combat abusive behaviour' from parents](https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/)
 - TechCrunch
   - [Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)
+- The Verge
+  - [The Units’ Digital Stimulation is synthpunk perfection](https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review)
 - Vulners.com RSS Feed
   - [CVE-2026-90564](https://vulners.com/nvd/NVD:CVE-2026-90564?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90565](https://vulners.com/nvd/NVD:CVE-2026-90565?utm_source=rss&utm_medium=rss&utm_campaign=rss)
