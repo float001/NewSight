@@ -4,17 +4,23 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - dfarq.homeip.net
   - [The spy in your living room](https://dfarq.homeip.net/the-spy-in-your-living-room/?utm_source=rss&utm_medium=rss&utm_campaign=the-spy-in-your-living-room)
+- downtowndougbrown.com
+  - [Fixing an NZXT Signal 4K30 part 2: the green/pink video bug](https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/)
 - Emergent Minds | paddo.dev
   - [I Agree With Jacob: The Coxon Resignation, 169 Million Views, and the CEO Who Agreed With It](https://paddo.dev/blog/i-agree-with-jacob/)
 - Hacker News Frontpage
   - [Ask HN: How can I browse HN in dark mode?](https://news.ycombinator.com/item?id=49686233)
   - [Ask HN: What are you working on? (September 2026)](https://news.ycombinator.com/item?id=49686380)
+  - [Flawed Routers Flood University of Wisconsin Internet Time Server (2003)](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
   - [Google illegally retains customer data,and I am taking legal action against them](https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c)
+  - [Mark Zuckerberg: "Cambridge Analytica" (2017)](https://twitter.com/TechEmails/status/2099214399840059428)
   - [Romania soccer introduces black card to 'combat abusive behaviour' from parents](https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/)
 - idiallo.com
   - [AI Forces You to Commit to Your Initial Belief](https://idiallo.com/blog/making-changes-mid-sentence)
 - TechCrunch
+  - [Larry Ellison cancels $7.5 billion sale of Oracle stock](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/)
   - [Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)
+  - [The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs](https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/)
   - [What’s behind the AI industry’s latest warnings of doom?](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/)
 - The Block
   - [Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering](https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564)
