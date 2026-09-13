@@ -4,6 +4,7 @@
   - [Blogger/blogspot 编辑器 内部 iframe 应用 CSS 实现所见即所得 WYSIWYG 油猴篡改猴 tampermonkey 脚本](https://2libra.com/post/tool-sharing/UfPWsut)
   - [你们平时周末都做什么啊？感觉周末很无聊完全无事可做，感觉你们生活很精彩，你们周末都做什么呢？](https://2libra.com/post/weekend-life/kPI13CF)
   - [每日微知天下 9 月 13 日](https://2libra.com/post/hotspot-tracking/ipd7lBg)
+  - [静音机械键盘有啥推荐](https://2libra.com/post/computers-accessories/Pal9imu)
 - CoinTelegraph
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korea using foreign talent to help infiltrate US companies: Report](https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
