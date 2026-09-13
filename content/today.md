@@ -4,6 +4,7 @@
   - [Blogger/blogspot 编辑器 内部 iframe 应用 CSS 实现所见即所得 WYSIWYG 油猴篡改猴 tampermonkey 脚本](https://2libra.com/post/tool-sharing/UfPWsut)
   - [giffgaff 财务系统被强制锁定，目前正面临卡组织的调查](https://2libra.com/post/tech-news/_L_uRXv)
   - [【💰】你现在还有工作吗？在本站做一个小统计：目前你是什么情况 1、员工 2、自雇 3、失业 4、已退休 5、无业。](https://2libra.com/post/workplace-stories/e_6TU9m)
+  - [九派云（9api.cloud）开始免费内测，同步解决 CODEX 拼车透明，线路，安全稳定问题。](https://2libra.com/post/ai-tools/amdoeTq)
   - [你们平时周末都做什么啊？感觉周末很无聊完全无事可做，感觉你们生活很精彩，你们周末都做什么呢？](https://2libra.com/post/weekend-life/kPI13CF)
   - [我擦 肾痛](https://2libra.com/post/personal-life/kdsoR_Q)
   - [每日微知天下 9 月 13 日](https://2libra.com/post/hotspot-tracking/ipd7lBg)
@@ -25,6 +26,7 @@
   - [American Medical Association Backs Classification of Nearsightedness as Disease](https://www.aao.org/newsroom/news-releases/detail/ama-backs-formal-classification-nearsightedness)
   - [Anthropic CEO Says It's Time to Slow AI Model Advances](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
   - [Dramatic insider warnings over AI fall flat with some in Silicon Valley](https://www.bbc.co.uk/news/articles/cq635037g18o)
+  - [Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic](https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo)
   - [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/)
   - [Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted](https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return)
   - [Norton Neo Browser](https://neobrowser.ai/)
@@ -61,6 +63,7 @@
   - [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)
   - [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised)
   - [Sylvan Esso think you should splurge on good-quality yogurt](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music)
+  - [Waymo pulls over, calls cops on riders with a ghost gun](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun)
   - [Your car is selling your data](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
   - [Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster](https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026)
 - Vulners.com RSS Feed
@@ -95,6 +98,10 @@
   - [CVE-2026-90516](https://vulners.com/nvd/NVD:CVE-2026-90516?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90517](https://vulners.com/nvd/NVD:CVE-2026-90517?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90518](https://vulners.com/nvd/NVD:CVE-2026-90518?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90523](https://vulners.com/nvd/NVD:CVE-2026-90523?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90524](https://vulners.com/nvd/NVD:CVE-2026-90524?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90525](https://vulners.com/nvd/NVD:CVE-2026-90525?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90526](https://vulners.com/nvd/NVD:CVE-2026-90526?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556](https://vulners.com/nvd/NVD:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556 Freeciv before 3.2.6 Heap Buffer Overflow via worklist_load](https://vulners.com/cve/CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556 Freeciv before 3.2.6 Heap Buffer Overflow via worklist_load](https://vulners.com/cvelist/CVELIST:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -132,6 +139,7 @@
   - [atomicvulns](https://buaq.net/go-442020.html)
   - [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://buaq.net/go-442027.html)
   - [fyp](https://buaq.net/go-442024.html)
+  - [pingap v0.14.2](https://buaq.net/go-442053.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 白帽Wiki - 一个简单的wiki
