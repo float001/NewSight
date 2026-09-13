@@ -4,12 +4,14 @@
   - [Blogger/blogspot 编辑器 内部 iframe 应用 CSS 实现所见即所得 WYSIWYG 油猴篡改猴 tampermonkey 脚本](https://2libra.com/post/tool-sharing/UfPWsut)
   - [giffgaff 财务系统被强制锁定，目前正面临卡组织的调查](https://2libra.com/post/tech-news/_L_uRXv)
   - [你们平时周末都做什么啊？感觉周末很无聊完全无事可做，感觉你们生活很精彩，你们周末都做什么呢？](https://2libra.com/post/weekend-life/kPI13CF)
+  - [我擦 肾痛](https://2libra.com/post/personal-life/kdsoR_Q)
   - [每日微知天下 9 月 13 日](https://2libra.com/post/hotspot-tracking/ipd7lBg)
   - [流言也有种种【转载】](https://2libra.com/post/personal-life/OBnoV-9)
   - [静音机械键盘有啥推荐](https://2libra.com/post/computers-accessories/Pal9imu)
 - CoinTelegraph
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korea using foreign talent to help infiltrate US companies: Report](https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Revolut says customer data exposed through fake government email](https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Unread 5.0](https://www.goldenhillsoftware.com/2026/09/unread-50/)
   - [Where Are the AI-Generated Killer Apps?](https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?unlocked_article_code=1.AlE.C9EE.H2j5a1eHFUbQ&smid=nytcore-ios-share)
@@ -18,6 +20,7 @@
   - [Anthropic CEO Says It's Time to Slow AI Model Advances](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
   - [Dramatic insider warnings over AI fall flat with some in Silicon Valley](https://www.bbc.co.uk/news/articles/cq635037g18o)
   - [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/)
+  - [Norton Neo Browser](https://neobrowser.ai/)
   - [Scientists Create a New Form of Ice at More Than 2000°C](https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c)
   - [The Interim Computer Museum](https://icm.museum/)
   - [The Succession Crisis That Tore England Apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
@@ -35,6 +38,7 @@
   - [Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain](https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516)
 - The Decoder
   - [Altman, Musk, and Hassabis back Amodei's call to add independent oversight](https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/)
+  - [Two-year university study finds banning AI from classrooms leaves students worse off](https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/)
 - The Verge
   - [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)
   - [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)
@@ -83,8 +87,11 @@
   - [CVE-2026-90678](https://vulners.com/nvd/NVD:CVE-2026-90678?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90679](https://vulners.com/nvd/NVD:CVE-2026-90679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Openidentityplatform Openam](https://vulners.com/githubexploit/B2C95D2F-FF4C-5818-8899-798371B683D2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [With a Better Understanding of Physics, We Could Predict Volcanic Eruptions](https://www.wired.com/story/physics-predict-volcanic-eruptions/)
 - 不安全
   - [atomicvulns](https://buaq.net/go-442020.html)
+  - [fyp](https://buaq.net/go-442024.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 白帽Wiki - 一个简单的wiki
