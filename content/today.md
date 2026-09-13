@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-09-13）
 
+- 2Libra
+  - [Blogger/blogspot 编辑器 内部 iframe 应用 CSS 实现所见即所得 WYSIWYG 油猴篡改猴 tampermonkey 脚本](https://2libra.com/post/tool-sharing/UfPWsut)
 - CoinTelegraph
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korea using foreign talent to help infiltrate US companies: Report](https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -9,6 +11,7 @@
 - Hacker News Frontpage
   - [Anthropic CEO Says It's Time to Slow AI Model Advances](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
   - [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/)
+  - [Scientists Create a New Form of Ice at More Than 2000°C](https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c)
 - simonwillison.net
   - [Generating running routes with GPT-6 Astra and ChatGPT Work](https://simonwillison.net/2026/Sep/12/astra-running-routes/)
   - [Quoting Paul Ford](https://simonwillison.net/2026/Sep/12/paul-ford/)
@@ -52,4 +55,5 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [奥尔特曼：OpenAI公司年内不会IPO](https://blog.upx8.com/%E5%A5%A5%E5%B0%94%E7%89%B9%E6%9B%BC-OpenAI%E5%85%AC%E5%8F%B8%E5%B9%B4%E5%86%85%E4%B8%8D%E4%BC%9AIPO)
   - [特斯拉预告将于10月1日举办活动 展示下一代Roadster跑车](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89%E9%A2%84%E5%91%8A%E5%B0%86%E4%BA%8E10%E6%9C%881%E6%97%A5%E4%B8%BE%E5%8A%9E%E6%B4%BB%E5%8A%A8-%E5%B1%95%E7%A4%BA%E4%B8%8B%E4%B8%80%E4%BB%A3Roadster%E8%B7%91%E8%BD%A6)
