@@ -28,6 +28,8 @@
   - [Sylvan Esso think you should splurge on good-quality yogurt](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music)
 - Vulners.com RSS Feed
   - [CVE-2026-90485](https://vulners.com/nvd/NVD:CVE-2026-90485?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90488](https://vulners.com/nvd/NVD:CVE-2026-90488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90489](https://vulners.com/nvd/NVD:CVE-2026-90489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556](https://vulners.com/nvd/NVD:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556 Freeciv before 3.2.6 Heap Buffer Overflow via worklist_load](https://vulners.com/cve/CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556 Freeciv before 3.2.6 Heap Buffer Overflow via worklist_load](https://vulners.com/cvelist/CVELIST:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -44,6 +46,8 @@
   - [CVE-2026-90560 zstd-jni 1.2.0 through 1.5.7-13 Out-of-Bounds Read via ZstdDictDecompress](https://vulners.com/cve/CVE-2026-90560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90560 zstd-jni 1.2.0 through 1.5.7-13 Out-of-Bounds Read via ZstdDictDecompress](https://vulners.com/cvelist/CVELIST:CVE-2026-90560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90616](https://vulners.com/nvd/NVD:CVE-2026-90616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90648](https://vulners.com/nvd/NVD:CVE-2026-90648?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90651](https://vulners.com/nvd/NVD:CVE-2026-90651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Openidentityplatform Openam](https://vulners.com/githubexploit/B2C95D2F-FF4C-5818-8899-798371B683D2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
