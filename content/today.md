@@ -12,6 +12,7 @@
   - [Unread 5.0](https://www.goldenhillsoftware.com/2026/09/unread-50/)
   - [Where Are the AI-Generated Killer Apps?](https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?unlocked_article_code=1.AlE.C9EE.H2j5a1eHFUbQ&smid=nytcore-ios-share)
 - Hacker News Frontpage
+  - [American Medical Association Backs Classification of Nearsightedness as Disease](https://www.aao.org/newsroom/news-releases/detail/ama-backs-formal-classification-nearsightedness)
   - [Anthropic CEO Says It's Time to Slow AI Model Advances](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
   - [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/)
   - [Scientists Create a New Form of Ice at More Than 2000°C](https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c)
@@ -78,6 +79,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 量子位 QbitAI
+  - [GitHub三榜第一背后，一个“专升本”工程师的十年](https://www.qbitai.com/2026/09/488519.html)
   - [OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了](https://www.qbitai.com/2026/09/488380.html)
 - 黑海洋
   - [奥尔特曼：OpenAI公司年内不会IPO](https://blog.upx8.com/%E5%A5%A5%E5%B0%94%E7%89%B9%E6%9B%BC-OpenAI%E5%85%AC%E5%8F%B8%E5%B9%B4%E5%86%85%E4%B8%8D%E4%BC%9AIPO)
