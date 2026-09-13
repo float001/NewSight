@@ -1,4 +1,15 @@
 # 今日安全资讯（2026-09-14）
 
+- CoinTelegraph
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- dfarq.homeip.net
+  - [The spy in your living room](https://dfarq.homeip.net/the-spy-in-your-living-room/?utm_source=rss&utm_medium=rss&utm_campaign=the-spy-in-your-living-room)
+- TechCrunch
+  - [Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)
+- Vulners.com RSS Feed
+  - [CVE-2026-90564](https://vulners.com/nvd/NVD:CVE-2026-90564?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90565](https://vulners.com/nvd/NVD:CVE-2026-90565?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90566](https://vulners.com/nvd/NVD:CVE-2026-90566?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90567](https://vulners.com/nvd/NVD:CVE-2026-90567?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
