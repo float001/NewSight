@@ -3,12 +3,14 @@
 - 2Libra
   - [Blogger/blogspot 编辑器 内部 iframe 应用 CSS 实现所见即所得 WYSIWYG 油猴篡改猴 tampermonkey 脚本](https://2libra.com/post/tool-sharing/UfPWsut)
   - [giffgaff 财务系统被强制锁定，目前正面临卡组织的调查](https://2libra.com/post/tech-news/_L_uRXv)
+  - [【💰】你现在还有工作吗？在本站做一个小统计：目前你是什么情况 1、员工 2、自雇 3、失业 4、已退休 5、无业。](https://2libra.com/post/workplace-stories/e_6TU9m)
   - [你们平时周末都做什么啊？感觉周末很无聊完全无事可做，感觉你们生活很精彩，你们周末都做什么呢？](https://2libra.com/post/weekend-life/kPI13CF)
   - [我擦 肾痛](https://2libra.com/post/personal-life/kdsoR_Q)
   - [每日微知天下 9 月 13 日](https://2libra.com/post/hotspot-tracking/ipd7lBg)
   - [流言也有种种【转载】](https://2libra.com/post/personal-life/OBnoV-9)
   - [静音机械键盘有啥推荐](https://2libra.com/post/computers-accessories/Pal9imu)
 - CoinTelegraph
+  - [Anthropic chief urges slowdown in AI development to safer pace](https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korea using foreign talent to help infiltrate US companies: Report](https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Revolut says customer data exposed through fake government email](https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -24,6 +26,8 @@
   - [Scientists Create a New Form of Ice at More Than 2000°C](https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c)
   - [The Interim Computer Museum](https://icm.museum/)
   - [The Succession Crisis That Tore England Apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
+- shkspr.mobi
+  - [The expectations of privacy in driverless cars](https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/)
 - simonwillison.net
   - [Generating running routes with GPT-6 Astra and ChatGPT Work](https://simonwillison.net/2026/Sep/12/astra-running-routes/)
   - [Quoting Paul Ford](https://simonwillison.net/2026/Sep/12/paul-ford/)
@@ -42,9 +46,11 @@
   - [Two-year university study finds banning AI from classrooms leaves students worse off](https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/)
 - The Verge
   - [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)
+  - [Apple’s new phones are here](https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones)
   - [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)
   - [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised)
   - [Sylvan Esso think you should splurge on good-quality yogurt](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music)
+  - [Your car is selling your data](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
 - Vulners.com RSS Feed
   - [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://vulners.com/thn/THN:A0EE3C4BE7D4CF1108B15ABEBB089F35?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77773](https://vulners.com/nvd/NVD:CVE-2026-77773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -112,6 +118,7 @@
   - [GitHub三榜第一背后，一个“专升本”工程师的十年](https://www.qbitai.com/2026/09/488519.html)
   - [OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了](https://www.qbitai.com/2026/09/488380.html)
 - 黑海洋
+  - [三星请来名叫蒂姆·库克的新西兰房产经纪人“评测”自家折叠机](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E8%AF%B7%E6%9D%A5%E5%90%8D%E5%8F%AB%E8%92%82%E5%A7%86-%E5%BA%93%E5%85%8B%E7%9A%84%E6%96%B0%E8%A5%BF%E5%85%B0%E6%88%BF%E4%BA%A7%E7%BB%8F%E7%BA%AA%E4%BA%BA-%E8%AF%84%E6%B5%8B-%E8%87%AA%E5%AE%B6%E6%8A%98%E5%8F%A0%E6%9C%BA)
   - [奥尔特曼：OpenAI公司年内不会IPO](https://blog.upx8.com/%E5%A5%A5%E5%B0%94%E7%89%B9%E6%9B%BC-OpenAI%E5%85%AC%E5%8F%B8%E5%B9%B4%E5%86%85%E4%B8%8D%E4%BC%9AIPO)
   - [新修订的《北京市无人驾驶航空器管理规定》将于11月15日实施！开放三种处置渠道](https://blog.upx8.com/%E6%96%B0%E4%BF%AE%E8%AE%A2%E7%9A%84-%E5%8C%97%E4%BA%AC%E5%B8%82%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E8%88%AA%E7%A9%BA%E5%99%A8%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A-%E5%B0%86%E4%BA%8E11%E6%9C%8815%E6%97%A5%E5%AE%9E%E6%96%BD-%E5%BC%80%E6%94%BE%E4%B8%89%E7%A7%8D%E5%A4%84%E7%BD%AE%E6%B8%A0%E9%81%93)
   - [特斯拉预告将于10月1日举办活动 展示下一代Roadster跑车](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89%E9%A2%84%E5%91%8A%E5%B0%86%E4%BA%8E10%E6%9C%881%E6%97%A5%E4%B8%BE%E5%8A%9E%E6%B4%BB%E5%8A%A8-%E5%B1%95%E7%A4%BA%E4%B8%8B%E4%B8%80%E4%BB%A3Roadster%E8%B7%91%E8%BD%A6)
