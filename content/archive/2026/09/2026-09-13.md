@@ -2,6 +2,7 @@
 
 - 2Libra
   - [Blogger/blogspot 编辑器 内部 iframe 应用 CSS 实现所见即所得 WYSIWYG 油猴篡改猴 tampermonkey 脚本](https://2libra.com/post/tool-sharing/UfPWsut)
+  - [你们平时周末都做什么啊？感觉周末很无聊完全无事可做，感觉你们生活很精彩，你们周末都做什么呢？](https://2libra.com/post/weekend-life/kPI13CF)
   - [每日微知天下 9 月 13 日](https://2libra.com/post/hotspot-tracking/ipd7lBg)
 - CoinTelegraph
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -38,6 +39,8 @@
   - [CVE-2026-90489](https://vulners.com/nvd/NVD:CVE-2026-90489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90491](https://vulners.com/nvd/NVD:CVE-2026-90491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90492](https://vulners.com/nvd/NVD:CVE-2026-90492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90494](https://vulners.com/nvd/NVD:CVE-2026-90494?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90495](https://vulners.com/nvd/NVD:CVE-2026-90495?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556](https://vulners.com/nvd/NVD:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556 Freeciv before 3.2.6 Heap Buffer Overflow via worklist_load](https://vulners.com/cve/CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90556 Freeciv before 3.2.6 Heap Buffer Overflow via worklist_load](https://vulners.com/cvelist/CVELIST:CVE-2026-90556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -57,6 +60,8 @@
   - [CVE-2026-90648](https://vulners.com/nvd/NVD:CVE-2026-90648?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90651](https://vulners.com/nvd/NVD:CVE-2026-90651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90668](https://vulners.com/nvd/NVD:CVE-2026-90668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90678](https://vulners.com/nvd/NVD:CVE-2026-90678?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90679](https://vulners.com/nvd/NVD:CVE-2026-90679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Deserialization of Untrusted Data in Openidentityplatform Openam](https://vulners.com/githubexploit/B2C95D2F-FF4C-5818-8899-798371B683D2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
