@@ -10,6 +10,7 @@
   - [流言也有种种【转载】](https://2libra.com/post/personal-life/OBnoV-9)
   - [疯狂进攻的象棋，你能坚持几个回合](https://2libra.com/post/game-share/3O7Bhoc)
   - [静音机械键盘有啥推荐](https://2libra.com/post/computers-accessories/Pal9imu)
+  - [🏆 本周 2Libra 龙虎榜 2026-09-07 ~ 2026-09-13](https://2libra.com/post/forum-function/rzDOItk)
 - CoinTelegraph
   - [Anthropic chief urges slowdown in AI development to safer pace](https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -18,6 +19,8 @@
 - daringfireball.net
   - [Unread 5.0](https://www.goldenhillsoftware.com/2026/09/unread-50/)
   - [Where Are the AI-Generated Killer Apps?](https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?unlocked_article_code=1.AlE.C9EE.H2j5a1eHFUbQ&smid=nytcore-ios-share)
+- Ethical hacking and penetration testing
+  - [Local speech recognition in 30 languages: a guide to using Qwen3-ASR-1.7B](https://miloserdov.org/?p=8664)
 - Hacker News Frontpage
   - [American Medical Association Backs Classification of Nearsightedness as Disease](https://www.aao.org/newsroom/news-releases/detail/ama-backs-formal-classification-nearsightedness)
   - [Anthropic CEO Says It's Time to Slow AI Model Advances](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
@@ -28,6 +31,7 @@
   - [Scientists Create a New Form of Ice at More Than 2000°C](https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c)
   - [The Interim Computer Museum](https://icm.museum/)
   - [The Succession Crisis That Tore England Apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
+  - [US Customs supervisor busted for stealing hardware from Homeland Security PCs](https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg)
 - Recent Commits to cve:main
   - [Update Sun Sep 13 12:09:33 UTC 2026](https://github.com/trickest/cve/commit/f9372750dbaf1331551a12ecd109eff26d402c33)
 - shkspr.mobi
@@ -38,6 +42,7 @@
 - TechCrunch
   - [Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
   - [Automattic confirms Mullenweg has returned as CEO after attempted ouster by board](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/)
+  - [Fusion power startups find new partners in the defense world](https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/)
   - [OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
   - [Tesla says it will finally unveil the second generation Roadster on October 1](https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/)
 - The Block
@@ -46,6 +51,7 @@
   - [Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain](https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516)
 - The Decoder
   - [Altman, Musk, and Hassabis back Amodei's call to add independent oversight](https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/)
+  - [Elevenlabs makes Music v2.5 available via app and API with free and pro tier options](https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/)
   - [GPT-6 Astra pilots a surveillance drone and runs a business on its own](https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/)
   - [Iris-mini and Iris-pro are the strongest open-weight search agents in their class](https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/)
   - [Two-year university study finds banning AI from classrooms leaves students worse off](https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/)
