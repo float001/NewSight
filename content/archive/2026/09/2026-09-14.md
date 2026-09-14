@@ -3,6 +3,7 @@
 - 2Libra
   - [9 月 14 日资本市场大事提醒](https://2libra.com/post/stock-market/iZV5__9)
   - [Grok Bot 搭建自动化数字员工](https://2libra.com/post/ai-programming/w9Va6hR)
+  - [youtube premium 翻车了](https://2libra.com/post/sharing/X9pIMJi)
   - [【周末家常菜】豆角焖面](https://2libra.com/post/personal-life/I4Tdjsi)
   - [【家有肥猫】养一只「海豹」是种怎样的体验？](https://2libra.com/post/pet-sharing/k1czNqu)
   - [【投票·💰】你现在还有工作吗？在本站做一个小统计：目前你是什么情况 1、员工 2、自雇 3、失业 4、已退休 5、无业。投票版](https://2libra.com/post/workplace-stories/adKFX60)
@@ -16,9 +17,11 @@
   - [有痔疮你们会去割嘛](https://2libra.com/post/health-consultation/Jtiztuz)
   - [有趣的大模型榜单可视化网站](https://2libra.com/post/ai-tools/7LUiuav)
   - [歪日, 我花了好几万金币延时的彩虹头像框,今天点了一下潘多拉给我覆盖了???](https://2libra.com/post/forum-function/dorc4c3)
+  - [给大家推荐浏览器插件一个](https://2libra.com/post/tools-sharing/Wrhyxqb)
 - 360 Netlab Blog - 360
   - [银狐云端“生死簿”：从“无条件返回”到“黑名单”机制](https://blog.netlab.360.com/yin-hu-yun-duan-sheng-si-bo-cong-wu-tiao-jian-fan-hui-dao-hei-ming-dan-ji-zhi/)
 - CoinTelegraph
+  - [Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M](https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest](https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [King Charles to host AI chiefs amid industry call to slow development](https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
