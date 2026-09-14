@@ -10,6 +10,7 @@
   - [【投票】想看看大家平时的吸烟情况到底是什么样的](https://2libra.com/post/questions/IF6pn6I)
   - [【💰】大家中秋跟国庆连休吗？打算去哪里玩](https://2libra.com/post/travel-tips/9Ha0NxA)
   - [【💰】大家摸鱼的时候都干点什么呀](https://2libra.com/post/touch-fish/7lfC0hO)
+  - [【💰】我想看看大家的键盘](https://2libra.com/post/computers-accessories/ILR57Il)
   - [周一](https://2libra.com/post/forum-function/ZdCaaed)
   - [对华为手机的贬值有了新的认识](https://2libra.com/post/phone/QM74Zfb)
   - [微信封号还能把钱提出来，giffgaff 直接钱都不退](https://2libra.com/post/small-things/nSksQ99)
@@ -25,6 +26,7 @@
 - CoinTelegraph
   - [Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M](https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest](https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [EU cyber rules put crypto wallet makers on 24-hour reporting clock](https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [King Charles to host AI chiefs amid industry call to slow development](https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Revolut attackers threaten daily customer data leaks](https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -52,11 +54,13 @@
   - [Mark Zuckerberg: "Cambridge Analytica" (2017)](https://twitter.com/TechEmails/status/2099214399840059428)
   - [Of Gods and Languages: On "When God Spoke Greek" (2013)](https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/)
   - [Romania soccer introduces black card to 'combat abusive behaviour' from parents](https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/)
+  - [Why the software industry needs a lot of regulation](https://petewarden.com/2026/09/10/why-the-software-industry-needs-a-lot-of-regulation/)
 - idiallo.com
   - [AI Forces You to Commit to Your Initial Belief](https://idiallo.com/blog/making-changes-mid-sentence)
 - infosecurity-magazine.com
   - [Hackers Exploit Maximum Severity Flaw in GitLab](https://www.infosecurity-magazine.com/news/hackers-exploit-maximum-severity/)
   - [OpenAI Agent Swarm Hacks RubyGems Package Manager](https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/)
+  - [Revolut Confirms Data Breach Through Fake Government Requests](https://www.infosecurity-magazine.com/news/revolut-data-breach-fake-government/)
 - johndcook.com
   - [Guessing the meaning of a number](https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/)
 - NOSEC 安全讯息平台 - 漏洞预警
@@ -67,6 +71,8 @@
   - [Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)](https://pluralistic.net/2026/09/14/cult-taylorism/)
 - rtl-sdr.com
   - [Using a Fruit Fly Brain to Tune an RTL-SDR FM Radio](https://www.rtl-sdr.com/using-a-fruit-fly-brain-to-tune-an-rtl-sdr-fm-radio/)
+- shkspr.mobi
+  - [Esoteric HTML - ismap vs CSS](https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/)
 - simonwillison.net
   - [commit-rewriter 0.1](https://simonwillison.net/2026/Sep/14/commit-rewriter/)
 - Sploitus.com Exploits RSS Feed
@@ -100,6 +106,7 @@
   - [AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them](https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/)
   - [Roborock Qrevo 2 Review (2026): A New Budget Vacuum King?](https://www.wired.com/review/roborock-qrevo-2-pro/)
   - [Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe](https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/)
+  - [The Best Air Purifier of 2026: Tested Picks for Every Room](https://www.wired.com/gallery/best-air-purifiers/)
   - [The Best Soundbars (2026): Sonos, LG, TCL, Bose, and More](https://www.wired.com/story/best-soundbars/)
 - 不安全
   - [conftest v0.70.0](https://buaq.net/go-442173.html)
@@ -115,4 +122,5 @@
 - 黑海洋
   - [中国外交部：散播AI威胁叙事不符合任何一方利益](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8-%E6%95%A3%E6%92%ADAI%E5%A8%81%E8%83%81%E5%8F%99%E4%BA%8B%E4%B8%8D%E7%AC%A6%E5%90%88%E4%BB%BB%E4%BD%95%E4%B8%80%E6%96%B9%E5%88%A9%E7%9B%8A)
   - [冒充政府请求，Revolut客户数据遭泄露](https://blog.upx8.com/%E5%86%92%E5%85%85%E6%94%BF%E5%BA%9C%E8%AF%B7%E6%B1%82-Revolut%E5%AE%A2%E6%88%B7%E6%95%B0%E6%8D%AE%E9%81%AD%E6%B3%84%E9%9C%B2)
+  - [国安部长：AI批量炮制谣言威胁政治安全 坚持党管数据](https://blog.upx8.com/%E5%9B%BD%E5%AE%89%E9%83%A8%E9%95%BF-AI%E6%89%B9%E9%87%8F%E7%82%AE%E5%88%B6%E8%B0%A3%E8%A8%80%E5%A8%81%E8%83%81%E6%94%BF%E6%B2%BB%E5%AE%89%E5%85%A8-%E5%9D%9A%E6%8C%81%E5%85%9A%E7%AE%A1%E6%95%B0%E6%8D%AE)
   - [极客湾评测华为麒麟 9050 Pro 芯片的视频《麒麟9050 Pro能效实测！华为Mate XT2性能有多强？》被下架，B站视频显示不存在，科技媒体IT之家的相关文章也被删除。](https://blog.upx8.com/%E6%9E%81%E5%AE%A2%E6%B9%BE%E8%AF%84%E6%B5%8B%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F-9050-Pro-%E8%8A%AF%E7%89%87%E7%9A%84%E8%A7%86%E9%A2%91-%E9%BA%92%E9%BA%9F9050-Pro%E8%83%BD%E6%95%88%E5%AE%9E%E6%B5%8B-%E5%8D%8E%E4%B8%BAMate-XT2%E6%80%A7%E8%83%BD%E6%9C%89%E5%A4%9A%E5%BC%BA-%E8%A2%AB%E4%B8%8B%E6%9E%B6-B%E7%AB%99%E8%A7%86%E9%A2%91%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%A7%91%E6%8A%80%E5%AA%92%E4%BD%93IT%E4%B9%8B%E5%AE%B6%E7%9A%84%E7%9B%B8%E5%85%B3%E6%96%87%E7%AB%A0%E4%B9%9F%E8%A2%AB%E5%88%A0%E9%99%A4)
