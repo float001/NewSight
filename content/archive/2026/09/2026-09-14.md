@@ -32,7 +32,9 @@
   - [Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M](https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest](https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [EU cyber rules put crypto wallet makers on 24-hour reporting clock](https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Fragmented regulations limit stablecoin adoption in international finance: WTO head](https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [HYPE price could suffer as Binance takes its revenue: Alice Liu](https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [King Charles to host AI chiefs amid industry call to slow development](https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Revolut attackers threaten daily customer data leaks](https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood CEO says issuers should not have veto over tokenized stocks](https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -41,6 +43,7 @@
   - [US Republicans send ‘final’ CLARITY Act offer to Democrats](https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Glyphs 4](https://glyphsapp.com/)
+  - [XCancel Shuts Down Again](https://xcancel.com/)
 - defend.network
   - [Check Point VPN & Tencent flaws in active exploitation; RubyGems RCE confirmed](https://defend.network/briefings/check-point-vpn-tencent-rubygems-exploits-critical-2026-09-14.html)
 - dfarq.homeip.net
@@ -75,6 +78,8 @@
   - [【已支持检测】GitLab 仓库提交 API 路径遍历漏洞可导致任...](https://nosec.org/home/detail/6337.html)
 - OpenAI Blog
   - [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)
+- OpenZeppelin Blog
+  - [From Algebra to Noise: Why Post-Quantum Cryptography Looks Different](https://www.openzeppelin.com/news/why-post-quantum-cryptography-looks-different)
 - pluralistic.net
   - [Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)](https://pluralistic.net/2026/09/14/cult-taylorism/)
 - Recent Commits to cve:main
@@ -88,6 +93,7 @@
 - Sploitus.com Exploits RSS Feed
   - [AndroidPhantom exploit](https://sploitus.com/exploit?id=3E30E09B-23CF-5C47-AA67-EF472AD43BCB&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting](https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/)
   - [Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/)
   - [Larry Ellison cancels $7.5 billion sale of Oracle stock](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/)
   - [Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)
@@ -95,7 +101,9 @@
   - [What’s behind the AI industry’s latest warnings of doom?](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/)
 - The Block
   - [Bernstein sees more Clarity Act progress than markets expected, says ‘any positive surprise is definitely not priced in’](https://www.theblock.co/news/regulation/2026-09-14-bernstein-sees-more-clarity-act-progress-than-markets-expected-says-any-positive-surprise-is-definitely-not-priced-in-414593)
+  - [Bitmine adds 27,180 ETH as adviser Tom DeMark sees sharp move in coming weeks](https://www.theblock.co/news/business/2026-09-14-bitmine-adds-27180-eth-as-adviser-tom-demark-sees-sharp-move-in-coming-weeks-414621)
   - [Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering](https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564)
+  - [S&P Global leads strategic investment in crypto data firm Kaiko, extending Series B to $110 million](https://www.theblock.co/news/deals/2026-09-14-sp-global-leads-strategic-investment-in-crypto-data-firm-kaiko-extending-series-b-to-110-million-414618)
   - [Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions](https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575)
   - [South Korean investors push for fourth crypto tax delay as regulators stand firm](https://www.theblock.co/news/regulation/2026-09-14-south-korean-investors-crypto-tax-delay-414581)
   - [Strategy repurchases $139 million of STRC shares, leaves bitcoin holdings unchanged](https://www.theblock.co/news/business/2026-09-14-strategy-strc-bitcoin-mstr-414603)
@@ -108,6 +116,7 @@
 - The Verge
   - [Apple is reportedly working on iPhone game controllers](https://www.theverge.com/tech/994426/apple-iphone-game-controllers)
   - [Microsoft says ‘people matter more than AI’ following safety concerns](https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct)
+  - [The four-hour-long Elon Musk documentary might be preaching to the choir](https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026)
   - [The Units’ Digital Stimulation is synthpunk perfection](https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review)
   - [Trump and Mike Johnson think the AI industry is overreacting](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)
   - [What happens after a town de-Flocks](https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy)
@@ -123,10 +132,13 @@
   - [The Best Air Purifier of 2026: Tested Picks for Every Room](https://www.wired.com/gallery/best-air-purifiers/)
   - [The Best Soundbars (2026): Sonos, LG, TCL, Bose, and More](https://www.wired.com/story/best-soundbars/)
 - 不安全
+  - [até onde eu posso descobrir sobre alguém somente com número de telefone?](https://buaq.net/go-442275.html)
   - [conftest v0.70.0](https://buaq.net/go-442173.html)
   - [emmm...谷歌怎么也开始删除开源项目作者姓名：Artemis基于开源项目构建但删除原作者](https://buaq.net/go-442147.html)
+  - [IBM Db2 Mirror for i: pre-auth RCE and the road to QSECOFR](https://buaq.net/go-442281.html)
   - [wappalyzergo v0.3.1](https://buaq.net/go-442137.html)
   - [Windows 11 9月更新引起多项故障：音频、远程桌面、虚拟机、资源管理器等都出现异常](https://buaq.net/go-442128.html)
+  - [【已支持检测】GitLab 仓库提交 API 路径遍历漏洞可导致任...](https://buaq.net/go-442167.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -137,5 +149,6 @@
   - [中国外交部：散播AI威胁叙事不符合任何一方利益](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8-%E6%95%A3%E6%92%ADAI%E5%A8%81%E8%83%81%E5%8F%99%E4%BA%8B%E4%B8%8D%E7%AC%A6%E5%90%88%E4%BB%BB%E4%BD%95%E4%B8%80%E6%96%B9%E5%88%A9%E7%9B%8A)
   - [冒充政府请求，Revolut客户数据遭泄露](https://blog.upx8.com/%E5%86%92%E5%85%85%E6%94%BF%E5%BA%9C%E8%AF%B7%E6%B1%82-Revolut%E5%AE%A2%E6%88%B7%E6%95%B0%E6%8D%AE%E9%81%AD%E6%B3%84%E9%9C%B2)
   - [国安部长：AI批量炮制谣言威胁政治安全 坚持党管数据](https://blog.upx8.com/%E5%9B%BD%E5%AE%89%E9%83%A8%E9%95%BF-AI%E6%89%B9%E9%87%8F%E7%82%AE%E5%88%B6%E8%B0%A3%E8%A8%80%E5%A8%81%E8%83%81%E6%94%BF%E6%B2%BB%E5%AE%89%E5%85%A8-%E5%9D%9A%E6%8C%81%E5%85%9A%E7%AE%A1%E6%95%B0%E6%8D%AE)
+  - [德国数字部：停止AI发展对欧洲不可行](https://blog.upx8.com/%E5%BE%B7%E5%9B%BD%E6%95%B0%E5%AD%97%E9%83%A8-%E5%81%9C%E6%AD%A2AI%E5%8F%91%E5%B1%95%E5%AF%B9%E6%AC%A7%E6%B4%B2%E4%B8%8D%E5%8F%AF%E8%A1%8C)
   - [极客湾评测华为麒麟 9050 Pro 芯片的视频《麒麟9050 Pro能效实测！华为Mate XT2性能有多强？》被下架，B站视频显示不存在，科技媒体IT之家的相关文章也被删除。](https://blog.upx8.com/%E6%9E%81%E5%AE%A2%E6%B9%BE%E8%AF%84%E6%B5%8B%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F-9050-Pro-%E8%8A%AF%E7%89%87%E7%9A%84%E8%A7%86%E9%A2%91-%E9%BA%92%E9%BA%9F9050-Pro%E8%83%BD%E6%95%88%E5%AE%9E%E6%B5%8B-%E5%8D%8E%E4%B8%BAMate-XT2%E6%80%A7%E8%83%BD%E6%9C%89%E5%A4%9A%E5%BC%BA-%E8%A2%AB%E4%B8%8B%E6%9E%B6-B%E7%AB%99%E8%A7%86%E9%A2%91%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%A7%91%E6%8A%80%E5%AA%92%E4%BD%93IT%E4%B9%8B%E5%AE%B6%E7%9A%84%E7%9B%B8%E5%85%B3%E6%96%87%E7%AB%A0%E4%B9%9F%E8%A2%AB%E5%88%A0%E9%99%A4)
   - [苹果正式发布iOS 27，带来8项全新功能](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83iOS-27-%E5%B8%A6%E6%9D%A58%E9%A1%B9%E5%85%A8%E6%96%B0%E5%8A%9F%E8%83%BD)
