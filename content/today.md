@@ -1,9 +1,13 @@
 # 今日安全资讯（2026-09-14）
 
 - 2Libra
+  - [Grok Bot 搭建自动化数字员工](https://2libra.com/post/ai-programming/w9Va6hR)
   - [【投票·💰】你现在还有工作吗？在本站做一个小统计：目前你是什么情况 1、员工 2、自雇 3、失业 4、已退休 5、无业。投票版](https://2libra.com/post/workplace-stories/adKFX60)
+  - [【💰】大家中秋跟国庆连休吗？打算去哪里玩](https://2libra.com/post/travel-tips/9Ha0NxA)
   - [周一](https://2libra.com/post/forum-function/ZdCaaed)
+  - [对华为手机的贬值有了新的认识](https://2libra.com/post/phone/QM74Zfb)
   - [微信封号还能把钱提出来，giffgaff 直接钱都不退](https://2libra.com/post/small-things/nSksQ99)
+  - [有痔疮你们会去割嘛](https://2libra.com/post/health-consultation/Jtiztuz)
   - [歪日, 我花了好几万金币延时的彩虹头像框,今天点了一下潘多拉给我覆盖了???](https://2libra.com/post/forum-function/dorc4c3)
 - CoinTelegraph
   - [Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest](https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -52,6 +56,8 @@
   - [CVE-2026-90565](https://vulners.com/nvd/NVD:CVE-2026-90565?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90566](https://vulners.com/nvd/NVD:CVE-2026-90566?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90567](https://vulners.com/nvd/NVD:CVE-2026-90567?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [Windows 11 9月更新引起多项故障：音频、远程桌面、虚拟机、资源管理器等都出现异常](https://buaq.net/go-442128.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
