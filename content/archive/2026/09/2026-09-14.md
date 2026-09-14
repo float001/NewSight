@@ -9,6 +9,7 @@
 - downtowndougbrown.com
   - [Fixing an NZXT Signal 4K30 part 2: the green/pink video bug](https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/)
 - Emergent Minds | paddo.dev
+  - [First to Happen, Last to Surface: OpenAI's Agents Attacked RubyGems in May and Told Nobody](https://paddo.dev/blog/first-to-happen-last-to-surface/)
   - [I Agree With Jacob: The Coxon Resignation, 169 Million Views, and the CEO Who Agreed With It](https://paddo.dev/blog/i-agree-with-jacob/)
 - Hacker News Frontpage
   - [Ask HN: How can I browse HN in dark mode?](https://news.ycombinator.com/item?id=49686233)
@@ -20,6 +21,8 @@
   - [Romania soccer introduces black card to 'combat abusive behaviour' from parents](https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/)
 - idiallo.com
   - [AI Forces You to Commit to Your Initial Belief](https://idiallo.com/blog/making-changes-mid-sentence)
+- OpenAI Blog
+  - [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)
 - TechCrunch
   - [Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/)
   - [Larry Ellison cancels $7.5 billion sale of Oracle stock](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/)
