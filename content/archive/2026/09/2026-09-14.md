@@ -2,6 +2,9 @@
 
 - 2Libra
   - [9 月 14 日资本市场大事提醒](https://2libra.com/post/stock-market/iZV5__9)
+  - [[快讯]Google 或调整 Android 高级防护，部分安全功能将改为可选](https://2libra.com/post/android/3MlGujo)
+  - [[快讯]彭博记者马克·古尔曼称苹果“iPhone Duo Max”或在计划中，可能配备更大显示屏](https://2libra.com/post/phone/UBSmXgQ)
+  - [[快讯]苹果于 9 月 14 日正式发布 iOS 27，重点升级 Siri AI 与多项系统功能](https://2libra.com/post/tech-news/yTVToCh)
   - [Grok Bot 搭建自动化数字员工](https://2libra.com/post/ai-programming/w9Va6hR)
   - [youtube premium 翻车了](https://2libra.com/post/sharing/X9pIMJi)
   - [【周末家常菜】豆角焖面](https://2libra.com/post/personal-life/I4Tdjsi)
@@ -23,6 +26,8 @@
   - [需要的铁子 帖子来了](https://2libra.com/post/promotion/yxGkvtl)
 - 360 Netlab Blog - 360
   - [银狐云端“生死簿”：从“无条件返回”到“黑名单”机制](https://blog.netlab.360.com/yin-hu-yun-duan-sheng-si-bo-cong-wu-tiao-jian-fan-hui-dao-hei-ming-dan-ji-zhi/)
+- berthub.eu
+  - [Hoe wordt de overheid weer 'van de IT'?](https://berthub.eu/articles/posts/hoe-word-je-weer-van-de-it/)
 - CoinTelegraph
   - [Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M](https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest](https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -58,17 +63,22 @@
 - idiallo.com
   - [AI Forces You to Commit to Your Initial Belief](https://idiallo.com/blog/making-changes-mid-sentence)
 - infosecurity-magazine.com
+  - [Defense Cyber Spending Set to Surge Amid Rising Attacks on Military Systems](https://www.infosecurity-magazine.com/news/defense-cyber-spending-attacks/)
   - [Hackers Exploit Maximum Severity Flaw in GitLab](https://www.infosecurity-magazine.com/news/hackers-exploit-maximum-severity/)
   - [OpenAI Agent Swarm Hacks RubyGems Package Manager](https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/)
   - [Revolut Confirms Data Breach Through Fake Government Requests](https://www.infosecurity-magazine.com/news/revolut-data-breach-fake-government/)
 - johndcook.com
   - [Guessing the meaning of a number](https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/)
+- MIT Technology Review
+  - [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/)
 - NOSEC 安全讯息平台 - 漏洞预警
   - [【已支持检测】GitLab 仓库提交 API 路径遍历漏洞可导致任...](https://nosec.org/home/detail/6337.html)
 - OpenAI Blog
   - [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)
 - pluralistic.net
   - [Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)](https://pluralistic.net/2026/09/14/cult-taylorism/)
+- Recent Commits to cve:main
+  - [Update Mon Sep 14 12:18:06 UTC 2026](https://github.com/trickest/cve/commit/57f71850850d483ff54bd9eca6a624d163457553)
 - rtl-sdr.com
   - [Using a Fruit Fly Brain to Tune an RTL-SDR FM Radio](https://www.rtl-sdr.com/using-a-fruit-fly-brain-to-tune-an-rtl-sdr-fm-radio/)
 - shkspr.mobi
@@ -88,12 +98,16 @@
   - [Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering](https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564)
   - [Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions](https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575)
   - [South Korean investors push for fourth crypto tax delay as regulators stand firm](https://www.theblock.co/news/regulation/2026-09-14-south-korean-investors-crypto-tax-delay-414581)
+  - [Strategy repurchases $139 million of STRC shares, leaves bitcoin holdings unchanged](https://www.theblock.co/news/business/2026-09-14-strategy-strc-bitcoin-mstr-414603)
   - [Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty](https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568)
   - [TD Cowen sees 90% upside for bitcoin treasury firm Smarter Web following proposed ‘MORE’ preferred IPO](https://www.theblock.co/news/markets/2026-09-14-td-cowen-sees-90-upside-for-bitcoin-treasury-firm-smarter-web-following-proposed-more-preferred-ipo-414590)
 - The Decoder
+  - [China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage](https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/)
+  - [Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has "apparently been settled"](https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/)
   - [Sam Altman calls for pacing AI development but promises rapid progress will continue](https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/)
 - The Verge
   - [Apple is reportedly working on iPhone game controllers](https://www.theverge.com/tech/994426/apple-iphone-game-controllers)
+  - [Microsoft says ‘people matter more than AI’ following safety concerns](https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct)
   - [The Units’ Digital Stimulation is synthpunk perfection](https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review)
   - [Trump and Mike Johnson think the AI industry is overreacting](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)
   - [What happens after a town de-Flocks](https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy)
@@ -124,3 +138,4 @@
   - [冒充政府请求，Revolut客户数据遭泄露](https://blog.upx8.com/%E5%86%92%E5%85%85%E6%94%BF%E5%BA%9C%E8%AF%B7%E6%B1%82-Revolut%E5%AE%A2%E6%88%B7%E6%95%B0%E6%8D%AE%E9%81%AD%E6%B3%84%E9%9C%B2)
   - [国安部长：AI批量炮制谣言威胁政治安全 坚持党管数据](https://blog.upx8.com/%E5%9B%BD%E5%AE%89%E9%83%A8%E9%95%BF-AI%E6%89%B9%E9%87%8F%E7%82%AE%E5%88%B6%E8%B0%A3%E8%A8%80%E5%A8%81%E8%83%81%E6%94%BF%E6%B2%BB%E5%AE%89%E5%85%A8-%E5%9D%9A%E6%8C%81%E5%85%9A%E7%AE%A1%E6%95%B0%E6%8D%AE)
   - [极客湾评测华为麒麟 9050 Pro 芯片的视频《麒麟9050 Pro能效实测！华为Mate XT2性能有多强？》被下架，B站视频显示不存在，科技媒体IT之家的相关文章也被删除。](https://blog.upx8.com/%E6%9E%81%E5%AE%A2%E6%B9%BE%E8%AF%84%E6%B5%8B%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F-9050-Pro-%E8%8A%AF%E7%89%87%E7%9A%84%E8%A7%86%E9%A2%91-%E9%BA%92%E9%BA%9F9050-Pro%E8%83%BD%E6%95%88%E5%AE%9E%E6%B5%8B-%E5%8D%8E%E4%B8%BAMate-XT2%E6%80%A7%E8%83%BD%E6%9C%89%E5%A4%9A%E5%BC%BA-%E8%A2%AB%E4%B8%8B%E6%9E%B6-B%E7%AB%99%E8%A7%86%E9%A2%91%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%A7%91%E6%8A%80%E5%AA%92%E4%BD%93IT%E4%B9%8B%E5%AE%B6%E7%9A%84%E7%9B%B8%E5%85%B3%E6%96%87%E7%AB%A0%E4%B9%9F%E8%A2%AB%E5%88%A0%E9%99%A4)
+  - [苹果正式发布iOS 27，带来8项全新功能](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83iOS-27-%E5%B8%A6%E6%9D%A58%E9%A1%B9%E5%85%A8%E6%96%B0%E5%8A%9F%E8%83%BD)
