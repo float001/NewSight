@@ -9,6 +9,10 @@
   - [CLARITY Act faces state AGs opposition ahead of key Senate vote](https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [S&P Global backs Kaiko as Series B reaches $110M](https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive adds 469 Bitcoin to reach 25,000 BTC treasury](https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [Apple’s 27.0 OS Updates](https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/)
+- Darknet – Hacking Tools, Hacker News & Cyber Security
+  - [whitelist-bypass – WebRTC Tunnels Through Video-Calling Platforms](https://www.darknet.org.uk/2026/09/whitelist-bypass-webrtc-tunnels-through-video-calling-platforms/)
 - darkreading
   - [Anthropic CEO: Time to Shift From Improving to Controlling AI](https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai)
 - Der Flounder
@@ -28,6 +32,8 @@
   - [Steam Frame starts at $1059](https://store.steampowered.com/hardware/steamframe)
   - [When LLM judges agree, should we believe them?](https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them)
   - [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)
+- Hexacorn
+  - [Win11_26H2 build xta phantom libraries](https://www.hexacorn.com/blog/2026/09/14/win11_26h2-build-xta-phantom-libraries/)
 - Linux Foundation Blogs
   - [Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era](https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era)
 - MIT Technology Review
@@ -44,6 +50,7 @@
   - [With iOS 27, I’m actually using Siri again](https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/)
 - The Block
   - [Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips](https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660)
+  - [White House crypto adviser feels ‘very good’ ahead of Senate Clarity Act vote on Tuesday](https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702)
 - The Decoder
   - [OpenAI has hundreds of contract workers reading your ChatGPT conversations](https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/)
 - The Verge
@@ -51,11 +58,15 @@
   - [I reviewed Valve’s Steam Frame, ask me anything](https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered)
   - [macOS 27 is available now](https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now)
   - [Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’](https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven)
+  - [The best deals from Nintendo’s ‘customer appreciation’ sale](https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale)
   - [The Dell XPS 13 is the first real competitor to the MacBook Neo](https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review)
   - [The Steam Frame is made for irresponsible hardware nerds like me](https://www.theverge.com/tech/994267/steam-frame-review)
   - [TIFF 2026: the latest movie reviews from Toronto](https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews)
   - [Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame](https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port)
+  - [Valve&#8217;s virtual reality plans hit actual reality](https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact)
   - [Valve’s Steam Frame costs $1,059](https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date)
+- Thoughts on Security
+  - [RSI vs The Real World](https://scriptjunkie.us/2026/09/rsi-vs-the-real-world/)
 - Vulners.com RSS Feed
   - [OESA-2026-3823 gvfs security update](https://vulners.com/osv/OSV:OESA-2026-3823?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3824 gvfs security update](https://vulners.com/osv/OSV:OESA-2026-3824?utm_source=rss&utm_medium=rss&utm_campaign=rss)
