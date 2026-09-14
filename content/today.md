@@ -27,6 +27,7 @@
   - [King Charles to host AI chiefs amid industry call to slow development](https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Revolut attackers threaten daily customer data leaks](https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood CEO says issuers should not have veto over tokenized stocks](https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT](https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Republicans send ‘final’ CLARITY Act offer to Democrats](https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Glyphs 4](https://glyphsapp.com/)
@@ -50,6 +51,8 @@
   - [Romania soccer introduces black card to 'combat abusive behaviour' from parents](https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/)
 - idiallo.com
   - [AI Forces You to Commit to Your Initial Belief](https://idiallo.com/blog/making-changes-mid-sentence)
+- infosecurity-magazine.com
+  - [OpenAI Agent Swarm Hacks RubyGems Package Manager](https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/)
 - NOSEC 安全讯息平台 - 漏洞预警
   - [【已支持检测】GitLab 仓库提交 API 路径遍历漏洞可导致任...](https://nosec.org/home/detail/6337.html)
 - OpenAI Blog
@@ -69,6 +72,7 @@
 - The Block
   - [Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering](https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564)
   - [Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions](https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575)
+  - [South Korean investors push for fourth crypto tax delay as regulators stand firm](https://www.theblock.co/news/regulation/2026-09-14-south-korean-investors-crypto-tax-delay-414581)
   - [Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty](https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568)
 - The Verge
   - [Apple is reportedly working on iPhone game controllers](https://www.theverge.com/tech/994426/apple-iphone-game-controllers)
@@ -90,4 +94,6 @@
   - [怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner](https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」](https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [中国外交部：散播AI威胁叙事不符合任何一方利益](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8-%E6%95%A3%E6%92%ADAI%E5%A8%81%E8%83%81%E5%8F%99%E4%BA%8B%E4%B8%8D%E7%AC%A6%E5%90%88%E4%BB%BB%E4%BD%95%E4%B8%80%E6%96%B9%E5%88%A9%E7%9B%8A)
   - [冒充政府请求，Revolut客户数据遭泄露](https://blog.upx8.com/%E5%86%92%E5%85%85%E6%94%BF%E5%BA%9C%E8%AF%B7%E6%B1%82-Revolut%E5%AE%A2%E6%88%B7%E6%95%B0%E6%8D%AE%E9%81%AD%E6%B3%84%E9%9C%B2)
+  - [极客湾评测华为麒麟 9050 Pro 芯片的视频《麒麟9050 Pro能效实测！华为Mate XT2性能有多强？》被下架，B站视频显示不存在，科技媒体IT之家的相关文章也被删除。](https://blog.upx8.com/%E6%9E%81%E5%AE%A2%E6%B9%BE%E8%AF%84%E6%B5%8B%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F-9050-Pro-%E8%8A%AF%E7%89%87%E7%9A%84%E8%A7%86%E9%A2%91-%E9%BA%92%E9%BA%9F9050-Pro%E8%83%BD%E6%95%88%E5%AE%9E%E6%B5%8B-%E5%8D%8E%E4%B8%BAMate-XT2%E6%80%A7%E8%83%BD%E6%9C%89%E5%A4%9A%E5%BC%BA-%E8%A2%AB%E4%B8%8B%E6%9E%B6-B%E7%AB%99%E8%A7%86%E9%A2%91%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%A7%91%E6%8A%80%E5%AA%92%E4%BD%93IT%E4%B9%8B%E5%AE%B6%E7%9A%84%E7%9B%B8%E5%85%B3%E6%96%87%E7%AB%A0%E4%B9%9F%E8%A2%AB%E5%88%A0%E9%99%A4)
