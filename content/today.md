@@ -57,10 +57,14 @@
 - infosecurity-magazine.com
   - [Hackers Exploit Maximum Severity Flaw in GitLab](https://www.infosecurity-magazine.com/news/hackers-exploit-maximum-severity/)
   - [OpenAI Agent Swarm Hacks RubyGems Package Manager](https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/)
+- johndcook.com
+  - [Guessing the meaning of a number](https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/)
 - NOSEC 安全讯息平台 - 漏洞预警
   - [【已支持检测】GitLab 仓库提交 API 路径遍历漏洞可导致任...](https://nosec.org/home/detail/6337.html)
 - OpenAI Blog
   - [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)
+- pluralistic.net
+  - [Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)](https://pluralistic.net/2026/09/14/cult-taylorism/)
 - rtl-sdr.com
   - [Using a Fruit Fly Brain to Tune an RTL-SDR FM Radio](https://www.rtl-sdr.com/using-a-fruit-fly-brain-to-tune-an-rtl-sdr-fm-radio/)
 - simonwillison.net
@@ -86,11 +90,17 @@
   - [Apple is reportedly working on iPhone game controllers](https://www.theverge.com/tech/994426/apple-iphone-game-controllers)
   - [The Units’ Digital Stimulation is synthpunk perfection](https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review)
   - [Trump and Mike Johnson think the AI industry is overreacting](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)
+  - [What happens after a town de-Flocks](https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy)
 - Vulners.com RSS Feed
   - [CVE-2026-90564](https://vulners.com/nvd/NVD:CVE-2026-90564?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90565](https://vulners.com/nvd/NVD:CVE-2026-90565?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90566](https://vulners.com/nvd/NVD:CVE-2026-90566?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90567](https://vulners.com/nvd/NVD:CVE-2026-90567?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them](https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/)
+  - [Roborock Qrevo 2 Review (2026): A New Budget Vacuum King?](https://www.wired.com/review/roborock-qrevo-2-pro/)
+  - [Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe](https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/)
+  - [The Best Soundbars (2026): Sonos, LG, TCL, Bose, and More](https://www.wired.com/story/best-soundbars/)
 - 不安全
   - [conftest v0.70.0](https://buaq.net/go-442173.html)
   - [emmm...谷歌怎么也开始删除开源项目作者姓名：Artemis基于开源项目构建但删除原作者](https://buaq.net/go-442147.html)
@@ -101,6 +111,7 @@
 - 爱范儿
   - [怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner](https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」](https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [理想 i9 Home 来了，车内长滑轨+对坐模式，打造「市中心大平层」](https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [中国外交部：散播AI威胁叙事不符合任何一方利益](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8-%E6%95%A3%E6%92%ADAI%E5%A8%81%E8%83%81%E5%8F%99%E4%BA%8B%E4%B8%8D%E7%AC%A6%E5%90%88%E4%BB%BB%E4%BD%95%E4%B8%80%E6%96%B9%E5%88%A9%E7%9B%8A)
   - [冒充政府请求，Revolut客户数据遭泄露](https://blog.upx8.com/%E5%86%92%E5%85%85%E6%94%BF%E5%BA%9C%E8%AF%B7%E6%B1%82-Revolut%E5%AE%A2%E6%88%B7%E6%95%B0%E6%8D%AE%E9%81%AD%E6%B3%84%E9%9C%B2)
