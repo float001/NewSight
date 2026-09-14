@@ -5,6 +5,7 @@
 - Ars Technica
   - [Prehistoric builders transported Devil's Arrows 11 miles](https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/)
 - CoinTelegraph
+  - [Bitcoin tops $79K, oil falls as Trump says Iran war could end](https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CLARITY Act faces state AGs opposition ahead of key Senate vote](https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [S&P Global backs Kaiko as Series B reaches $110M](https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive adds 469 Bitcoin to reach 25,000 BTC treasury](https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -31,7 +32,11 @@
   - [Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era](https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era)
 - MIT Technology Review
   - [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/)
+- NowSecure
+  - [NowSecure Platform Delivers Day-One iOS 27 Security Testing](https://www.nowsecure.com/blog/2026/09/14/nowsecure-platform-delivers-day-one-ios-27-security-testing/)
 - TechCrunch
+  - [Amazon Prime Video takes on TikTok with short-form news clips](https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/)
+  - [ClickFix attacks are tricking Mac and Windows users into hacking themselves](https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/)
   - [Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/)
   - [macOS 27: new Siri takes on AI productivity apps](https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/)
   - [Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)
@@ -107,6 +112,7 @@
   - [AI Is Already In Dangerous Hands](https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/)
 - Wired
   - [New York Seizes a Dozen Celebrity Deepfake Websites](https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/)
+  - [The Top New Features in Apple’s iOS 27 and iPadOS 27](https://www.wired.com/story/top-new-features-in-apple-ios-27-and-ipados-27-launching-september-14/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
