@@ -9,6 +9,7 @@
   - [【投票·💰】你现在还有工作吗？在本站做一个小统计：目前你是什么情况 1、员工 2、自雇 3、失业 4、已退休 5、无业。投票版](https://2libra.com/post/workplace-stories/adKFX60)
   - [【投票】想看看大家平时的吸烟情况到底是什么样的](https://2libra.com/post/questions/IF6pn6I)
   - [【💰】大家中秋跟国庆连休吗？打算去哪里玩](https://2libra.com/post/travel-tips/9Ha0NxA)
+  - [【💰】大家摸鱼的时候都干点什么呀](https://2libra.com/post/touch-fish/7lfC0hO)
   - [周一](https://2libra.com/post/forum-function/ZdCaaed)
   - [对华为手机的贬值有了新的认识](https://2libra.com/post/phone/QM74Zfb)
   - [微信封号还能把钱提出来，giffgaff 直接钱都不退](https://2libra.com/post/small-things/nSksQ99)
@@ -18,6 +19,7 @@
   - [有趣的大模型榜单可视化网站](https://2libra.com/post/ai-tools/7LUiuav)
   - [歪日, 我花了好几万金币延时的彩虹头像框,今天点了一下潘多拉给我覆盖了???](https://2libra.com/post/forum-function/dorc4c3)
   - [给大家推荐浏览器插件一个](https://2libra.com/post/tools-sharing/Wrhyxqb)
+  - [需要的铁子 帖子来了](https://2libra.com/post/promotion/yxGkvtl)
 - 360 Netlab Blog - 360
   - [银狐云端“生死簿”：从“无条件返回”到“黑名单”机制](https://blog.netlab.360.com/yin-hu-yun-duan-sheng-si-bo-cong-wu-tiao-jian-fan-hui-dao-hei-ming-dan-ji-zhi/)
 - CoinTelegraph
@@ -27,6 +29,7 @@
   - [King Charles to host AI chiefs amid industry call to slow development](https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Revolut attackers threaten daily customer data leaks](https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood CEO says issuers should not have veto over tokenized stocks](https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty](https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT](https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Republicans send ‘final’ CLARITY Act offer to Democrats](https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -52,6 +55,7 @@
 - idiallo.com
   - [AI Forces You to Commit to Your Initial Belief](https://idiallo.com/blog/making-changes-mid-sentence)
 - infosecurity-magazine.com
+  - [Hackers Exploit Maximum Severity Flaw in GitLab](https://www.infosecurity-magazine.com/news/hackers-exploit-maximum-severity/)
   - [OpenAI Agent Swarm Hacks RubyGems Package Manager](https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/)
 - NOSEC 安全讯息平台 - 漏洞预警
   - [【已支持检测】GitLab 仓库提交 API 路径遍历漏洞可导致任...](https://nosec.org/home/detail/6337.html)
@@ -70,10 +74,14 @@
   - [The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs](https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/)
   - [What’s behind the AI industry’s latest warnings of doom?](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/)
 - The Block
+  - [Bernstein sees more Clarity Act progress than markets expected, says ‘any positive surprise is definitely not priced in’](https://www.theblock.co/news/regulation/2026-09-14-bernstein-sees-more-clarity-act-progress-than-markets-expected-says-any-positive-surprise-is-definitely-not-priced-in-414593)
   - [Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering](https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564)
   - [Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions](https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575)
   - [South Korean investors push for fourth crypto tax delay as regulators stand firm](https://www.theblock.co/news/regulation/2026-09-14-south-korean-investors-crypto-tax-delay-414581)
   - [Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty](https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568)
+  - [TD Cowen sees 90% upside for bitcoin treasury firm Smarter Web following proposed ‘MORE’ preferred IPO](https://www.theblock.co/news/markets/2026-09-14-td-cowen-sees-90-upside-for-bitcoin-treasury-firm-smarter-web-following-proposed-more-preferred-ipo-414590)
+- The Decoder
+  - [Sam Altman calls for pacing AI development but promises rapid progress will continue](https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/)
 - The Verge
   - [Apple is reportedly working on iPhone game controllers](https://www.theverge.com/tech/994426/apple-iphone-game-controllers)
   - [The Units’ Digital Stimulation is synthpunk perfection](https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review)
