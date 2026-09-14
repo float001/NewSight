@@ -23,9 +23,14 @@
   - [有趣的大模型榜单可视化网站](https://2libra.com/post/ai-tools/7LUiuav)
   - [歪日, 我花了好几万金币延时的彩虹头像框,今天点了一下潘多拉给我覆盖了???](https://2libra.com/post/forum-function/dorc4c3)
   - [给大家推荐浏览器插件一个](https://2libra.com/post/tools-sharing/Wrhyxqb)
+  - [这世道到底怎么了！](https://2libra.com/post/social-observation/j_0T_jC)
   - [需要的铁子 帖子来了](https://2libra.com/post/promotion/yxGkvtl)
 - 360 Netlab Blog - 360
   - [银狐云端“生死簿”：从“无条件返回”到“黑名单”机制](https://blog.netlab.360.com/yin-hu-yun-duan-sheng-si-bo-cong-wu-tiao-jian-fan-hui-dao-hei-ming-dan-ji-zhi/)
+- 404 Media
+  - [Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats](https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/)
+- Articles | InfoStealers
+  - [HBO Max ads on a compromised Reddit account exposed a massive PasteSwitch ClickFix operation](https://www.infostealers.com/article/hbo-max-ads-on-a-compromised-reddit-account-exposed-a-massive-pasteswitch-clickfix-operation/)
 - berthub.eu
   - [Hoe wordt de overheid weer 'van de IT'?](https://berthub.eu/articles/posts/hoe-word-je-weer-van-de-it/)
 - CoinTelegraph
@@ -42,6 +47,7 @@
   - [UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT](https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Republicans send ‘final’ CLARITY Act offer to Democrats](https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [Dumpster Fire – Litterbox-Inspired Extension for Firefox](https://addons.mozilla.org/en-US/firefox/addon/dumpster-fire/)
   - [Glyphs 4](https://glyphsapp.com/)
   - [XCancel Shuts Down Again](https://xcancel.com/)
 - defend.network
@@ -59,15 +65,22 @@
   - [Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
   - [Flawed Routers Flood University of Wisconsin Internet Time Server (2003)](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
   - [Google illegally retains customer data,and I am taking legal action against them](https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c)
+  - [Graphic Rants: Nanite Tessellation](http://graphicrants.blogspot.com/2026/02/nanite-tessellation.html)
   - [Mark Zuckerberg: "Cambridge Analytica" (2017)](https://twitter.com/TechEmails/status/2099214399840059428)
   - [Of Gods and Languages: On "When God Spoke Greek" (2013)](https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/)
   - [Romania soccer introduces black card to 'combat abusive behaviour' from parents](https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/)
+  - [RubyGems Open Source Supply Chain Security and OpenAI](https://rietta.com/blog/rubygems-supply-chain-openai/)
+  - [Where has Construction Automation been successful?](https://www.construction-physics.com/p/where-has-construction-automation)
   - [Why the software industry needs a lot of regulation](https://petewarden.com/2026/09/10/why-the-software-industry-needs-a-lot-of-regulation/)
 - idiallo.com
   - [AI Forces You to Commit to Your Initial Belief](https://idiallo.com/blog/making-changes-mid-sentence)
+- IEEE Spectrum
+  - [Responsible AI for Higher Education](https://webinars.on24.com/wileyevents/ResponsibleAI)
 - infosecurity-magazine.com
   - [Defense Cyber Spending Set to Surge Amid Rising Attacks on Military Systems](https://www.infosecurity-magazine.com/news/defense-cyber-spending-attacks/)
   - [Hackers Exploit Maximum Severity Flaw in GitLab](https://www.infosecurity-magazine.com/news/hackers-exploit-maximum-severity/)
+  - [Human Attacker Hits Machine-Speed Exploitation of Marimo RCE](https://www.infosecurity-magazine.com/news/human-attacker-machine-speed/)
+  - [Malicious Twitch Extension Exposes 31,000 Users' OAuth Tokens](https://www.infosecurity-magazine.com/news/malicious-twitch-extension-oauth/)
   - [OpenAI Agent Swarm Hacks RubyGems Package Manager](https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/)
   - [Revolut Confirms Data Breach Through Fake Government Requests](https://www.infosecurity-magazine.com/news/revolut-data-breach-fake-government/)
 - johndcook.com
@@ -90,19 +103,25 @@
   - [Esoteric HTML - ismap vs CSS](https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/)
 - simonwillison.net
   - [commit-rewriter 0.1](https://simonwillison.net/2026/Sep/14/commit-rewriter/)
+  - [Quoting Laurie Voss](https://simonwillison.net/2026/Sep/14/laurie-voss/)
 - Sploitus.com Exploits RSS Feed
   - [AndroidPhantom exploit](https://sploitus.com/exploit?id=3E30E09B-23CF-5C47-AA67-EF472AD43BCB&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting](https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/)
+  - [Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/)
   - [Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/)
   - [Larry Ellison cancels $7.5 billion sale of Oracle stock](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/)
   - [Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)
+  - [Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?](https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/)
+  - [Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work](https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/)
   - [The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs](https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/)
   - [What’s behind the AI industry’s latest warnings of doom?](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/)
 - The Block
   - [Bernstein sees more Clarity Act progress than markets expected, says ‘any positive surprise is definitely not priced in’](https://www.theblock.co/news/regulation/2026-09-14-bernstein-sees-more-clarity-act-progress-than-markets-expected-says-any-positive-surprise-is-definitely-not-priced-in-414593)
   - [Bitmine adds 27,180 ETH as adviser Tom DeMark sees sharp move in coming weeks](https://www.theblock.co/news/business/2026-09-14-bitmine-adds-27180-eth-as-adviser-tom-demark-sees-sharp-move-in-coming-weeks-414621)
+  - [DeFi Development Corp expands Solana treasury to 2.39 million SOL, sets up $300 million CHAD ATM](https://www.theblock.co/news/markets/2026-09-14-defi-development-corp-expands-solana-treasury-2-39-million-sol-sets-300-million-chad-atm-414633)
   - [Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering](https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564)
+  - [NY Attorney General James leads bipartisan push against the Clarity Act ahead of initial Senate vote](https://www.theblock.co/news/regulation/2026-09-14-ny-attorney-general-james-bipartisan-push-against-clarity-act-initial-senate-vote-414635)
   - [S&P Global leads strategic investment in crypto data firm Kaiko, extending Series B to $110 million](https://www.theblock.co/news/deals/2026-09-14-sp-global-leads-strategic-investment-in-crypto-data-firm-kaiko-extending-series-b-to-110-million-414618)
   - [Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions](https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575)
   - [South Korean investors push for fourth crypto tax delay as regulators stand firm](https://www.theblock.co/news/regulation/2026-09-14-south-korean-investors-crypto-tax-delay-414581)
@@ -114,6 +133,7 @@
   - [Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has "apparently been settled"](https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/)
   - [Sam Altman calls for pacing AI development but promises rapid progress will continue](https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/)
 - The Verge
+  - [Adam Conover explains how YouTube ruined everything](https://www.theverge.com/podcast/991471/adam-conover-youtube-tv-media-union-labor-ai)
   - [Apple is reportedly working on iPhone game controllers](https://www.theverge.com/tech/994426/apple-iphone-game-controllers)
   - [Microsoft says ‘people matter more than AI’ following safety concerns](https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct)
   - [The four-hour-long Elon Musk documentary might be preaching to the choir](https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026)
@@ -135,6 +155,8 @@
   - [até onde eu posso descobrir sobre alguém somente com número de telefone?](https://buaq.net/go-442275.html)
   - [conftest v0.70.0](https://buaq.net/go-442173.html)
   - [emmm...谷歌怎么也开始删除开源项目作者姓名：Artemis基于开源项目构建但删除原作者](https://buaq.net/go-442147.html)
+  - [gonc](https://buaq.net/go-442283.html)
+  - [Google’s new search redirects make links harder to check before you click](https://buaq.net/go-442282.html)
   - [IBM Db2 Mirror for i: pre-auth RCE and the road to QSECOFR](https://buaq.net/go-442281.html)
   - [wappalyzergo v0.3.1](https://buaq.net/go-442137.html)
   - [Windows 11 9月更新引起多项故障：音频、远程桌面、虚拟机、资源管理器等都出现异常](https://buaq.net/go-442128.html)
@@ -149,6 +171,8 @@
   - [中国外交部：散播AI威胁叙事不符合任何一方利益](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8-%E6%95%A3%E6%92%ADAI%E5%A8%81%E8%83%81%E5%8F%99%E4%BA%8B%E4%B8%8D%E7%AC%A6%E5%90%88%E4%BB%BB%E4%BD%95%E4%B8%80%E6%96%B9%E5%88%A9%E7%9B%8A)
   - [冒充政府请求，Revolut客户数据遭泄露](https://blog.upx8.com/%E5%86%92%E5%85%85%E6%94%BF%E5%BA%9C%E8%AF%B7%E6%B1%82-Revolut%E5%AE%A2%E6%88%B7%E6%95%B0%E6%8D%AE%E9%81%AD%E6%B3%84%E9%9C%B2)
   - [国安部长：AI批量炮制谣言威胁政治安全 坚持党管数据](https://blog.upx8.com/%E5%9B%BD%E5%AE%89%E9%83%A8%E9%95%BF-AI%E6%89%B9%E9%87%8F%E7%82%AE%E5%88%B6%E8%B0%A3%E8%A8%80%E5%A8%81%E8%83%81%E6%94%BF%E6%B2%BB%E5%AE%89%E5%85%A8-%E5%9D%9A%E6%8C%81%E5%85%9A%E7%AE%A1%E6%95%B0%E6%8D%AE)
+  - [微软公布AI控制行为准则：模型不得抗拒纠正或关闭](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E5%85%AC%E5%B8%83AI%E6%8E%A7%E5%88%B6%E8%A1%8C%E4%B8%BA%E5%87%86%E5%88%99-%E6%A8%A1%E5%9E%8B%E4%B8%8D%E5%BE%97%E6%8A%97%E6%8B%92%E7%BA%A0%E6%AD%A3%E6%88%96%E5%85%B3%E9%97%AD)
   - [德国数字部：停止AI发展对欧洲不可行](https://blog.upx8.com/%E5%BE%B7%E5%9B%BD%E6%95%B0%E5%AD%97%E9%83%A8-%E5%81%9C%E6%AD%A2AI%E5%8F%91%E5%B1%95%E5%AF%B9%E6%AC%A7%E6%B4%B2%E4%B8%8D%E5%8F%AF%E8%A1%8C)
   - [极客湾评测华为麒麟 9050 Pro 芯片的视频《麒麟9050 Pro能效实测！华为Mate XT2性能有多强？》被下架，B站视频显示不存在，科技媒体IT之家的相关文章也被删除。](https://blog.upx8.com/%E6%9E%81%E5%AE%A2%E6%B9%BE%E8%AF%84%E6%B5%8B%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F-9050-Pro-%E8%8A%AF%E7%89%87%E7%9A%84%E8%A7%86%E9%A2%91-%E9%BA%92%E9%BA%9F9050-Pro%E8%83%BD%E6%95%88%E5%AE%9E%E6%B5%8B-%E5%8D%8E%E4%B8%BAMate-XT2%E6%80%A7%E8%83%BD%E6%9C%89%E5%A4%9A%E5%BC%BA-%E8%A2%AB%E4%B8%8B%E6%9E%B6-B%E7%AB%99%E8%A7%86%E9%A2%91%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%A7%91%E6%8A%80%E5%AA%92%E4%BD%93IT%E4%B9%8B%E5%AE%B6%E7%9A%84%E7%9B%B8%E5%85%B3%E6%96%87%E7%AB%A0%E4%B9%9F%E8%A2%AB%E5%88%A0%E9%99%A4)
+  - [特朗普称AI唯一需要的“护栏”就是一位睿智的总统，这位总统正是在下](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0AI%E5%94%AF%E4%B8%80%E9%9C%80%E8%A6%81%E7%9A%84-%E6%8A%A4%E6%A0%8F-%E5%B0%B1%E6%98%AF%E4%B8%80%E4%BD%8D%E7%9D%BF%E6%99%BA%E7%9A%84%E6%80%BB%E7%BB%9F-%E8%BF%99%E4%BD%8D%E6%80%BB%E7%BB%9F%E6%AD%A3%E6%98%AF%E5%9C%A8%E4%B8%8B)
   - [苹果正式发布iOS 27，带来8项全新功能](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83iOS-27-%E5%B8%A6%E6%9D%A58%E9%A1%B9%E5%85%A8%E6%96%B0%E5%8A%9F%E8%83%BD)
