@@ -2,17 +2,23 @@
 
 - 2Libra
   - [Grok Bot 搭建自动化数字员工](https://2libra.com/post/ai-programming/w9Va6hR)
+  - [【周末家常菜】豆角焖面](https://2libra.com/post/personal-life/I4Tdjsi)
+  - [【家有肥猫】养一只「海豹」是种怎样的体验？](https://2libra.com/post/pet-sharing/k1czNqu)
   - [【投票·💰】你现在还有工作吗？在本站做一个小统计：目前你是什么情况 1、员工 2、自雇 3、失业 4、已退休 5、无业。投票版](https://2libra.com/post/workplace-stories/adKFX60)
   - [【💰】大家中秋跟国庆连休吗？打算去哪里玩](https://2libra.com/post/travel-tips/9Ha0NxA)
   - [周一](https://2libra.com/post/forum-function/ZdCaaed)
   - [对华为手机的贬值有了新的认识](https://2libra.com/post/phone/QM74Zfb)
   - [微信封号还能把钱提出来，giffgaff 直接钱都不退](https://2libra.com/post/small-things/nSksQ99)
+  - [打仗、吃苦、内卷、负债：一代人有一代人的「上甘岭」](https://2libra.com/post/social-observation/Np_uOzE)
+  - [暗黑 5 直接到 2029 去了。。。 🎮🎮🎮](https://2libra.com/post/game-discussion/bO99r05)
   - [有痔疮你们会去割嘛](https://2libra.com/post/health-consultation/Jtiztuz)
+  - [有趣的大模型榜单可视化网站](https://2libra.com/post/ai-tools/7LUiuav)
   - [歪日, 我花了好几万金币延时的彩虹头像框,今天点了一下潘多拉给我覆盖了???](https://2libra.com/post/forum-function/dorc4c3)
 - CoinTelegraph
   - [Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest](https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Revolut attackers threaten daily customer data leaks](https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Robinhood CEO says issuers should not have veto over tokenized stocks](https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Republicans send ‘final’ CLARITY Act offer to Democrats](https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Glyphs 4](https://glyphsapp.com/)
@@ -41,6 +47,8 @@
   - [Using a Fruit Fly Brain to Tune an RTL-SDR FM Radio](https://www.rtl-sdr.com/using-a-fruit-fly-brain-to-tune-an-rtl-sdr-fm-radio/)
 - simonwillison.net
   - [commit-rewriter 0.1](https://simonwillison.net/2026/Sep/14/commit-rewriter/)
+- Sploitus.com Exploits RSS Feed
+  - [AndroidPhantom exploit](https://sploitus.com/exploit?id=3E30E09B-23CF-5C47-AA67-EF472AD43BCB&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/)
   - [Larry Ellison cancels $7.5 billion sale of Oracle stock](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/)
@@ -49,6 +57,7 @@
   - [What’s behind the AI industry’s latest warnings of doom?](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/)
 - The Block
   - [Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering](https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564)
+  - [Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions](https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575)
   - [Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty](https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568)
 - The Verge
   - [Apple is reportedly working on iPhone game controllers](https://www.theverge.com/tech/994426/apple-iphone-game-controllers)
@@ -60,6 +69,7 @@
   - [CVE-2026-90566](https://vulners.com/nvd/NVD:CVE-2026-90566?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90567](https://vulners.com/nvd/NVD:CVE-2026-90567?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
+  - [emmm...谷歌怎么也开始删除开源项目作者姓名：Artemis基于开源项目构建但删除原作者](https://buaq.net/go-442147.html)
   - [wappalyzergo v0.3.1](https://buaq.net/go-442137.html)
   - [Windows 11 9月更新引起多项故障：音频、远程桌面、虚拟机、资源管理器等都出现异常](https://buaq.net/go-442128.html)
 - 代码审计星球
