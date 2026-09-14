@@ -17,6 +17,7 @@
 - CoinTelegraph
   - [Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest](https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [King Charles to host AI chiefs amid industry call to slow development](https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Revolut attackers threaten daily customer data leaks](https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood CEO says issuers should not have veto over tokenized stocks](https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Republicans send ‘final’ CLARITY Act offer to Democrats](https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -69,6 +70,7 @@
   - [CVE-2026-90566](https://vulners.com/nvd/NVD:CVE-2026-90566?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90567](https://vulners.com/nvd/NVD:CVE-2026-90567?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
+  - [conftest v0.70.0](https://buaq.net/go-442173.html)
   - [emmm...谷歌怎么也开始删除开源项目作者姓名：Artemis基于开源项目构建但删除原作者](https://buaq.net/go-442147.html)
   - [wappalyzergo v0.3.1](https://buaq.net/go-442137.html)
   - [Windows 11 9月更新引起多项故障：音频、远程桌面、虚拟机、资源管理器等都出现异常](https://buaq.net/go-442128.html)
