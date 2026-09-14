@@ -16,6 +16,7 @@
 - Darknet – Hacking Tools, Hacker News & Cyber Security
   - [whitelist-bypass – WebRTC Tunnels Through Video-Calling Platforms](https://www.darknet.org.uk/2026/09/whitelist-bypass-webrtc-tunnels-through-video-calling-platforms/)
 - darkreading
+  - ['Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink](https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink)
   - [Anthropic CEO: Time to Shift From Improving to Controlling AI](https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai)
   - [Maximum Severity GitLab Flaw Puts Supply Chains at Risk](https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk)
 - Der Flounder
@@ -24,6 +25,7 @@
   - [Death by a Thousand Agents: PaperCut, 440 Servers, and the Harness Nobody Vets](https://paddo.dev/blog/death-by-a-thousand-agents/)
 - Hacker News Frontpage
   - [A Beginning for Mathematics](https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/)
+  - [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular)
   - [Blizzard Revives 'StarCraft' Franchise with Open-World Sci-Fi Shooter](https://hypebeast.com/2026/9/blizzard-open-world-starcraft-sci-fi-shooter-2030-release-info-teaser-revealed)
   - [Claude is a Contrarian](https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada)
   - [Fitting Neural Textures and PBR Material Maps with ES (No Backprop)](http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html)
@@ -45,6 +47,7 @@
 - NowSecure
   - [NowSecure Platform Delivers Day-One iOS 27 Security Testing](https://www.nowsecure.com/blog/2026/09/14/nowsecure-platform-delivers-day-one-ios-27-security-testing/)
 - simonwillison.net
+  - [The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/)
   - [What blog posts influenced your thinking the most?](https://simonwillison.net/2026/Sep/14/influences/)
 - TechCrunch
   - [AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance](https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/)
@@ -53,12 +56,14 @@
   - [Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/)
   - [macOS 27: new Siri takes on AI productivity apps](https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/)
   - [Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)
+  - [Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/)
   - [OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/)
   - [Volkswagen’s crazy-efficient EV borrows an idea from Slate](https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/)
   - [With iOS 27, I’m actually using Siri again](https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/)
 - The Block
   - [Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips](https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660)
   - [Robinhood Chain’s rapid growth is being driven by 4 key factors, analyst says](https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687)
+  - [Where the Clarity Act stands ahead of Tuesday’s Senate vote](https://www.theblock.co/news/regulation/2026-09-14-where-the-clarity-act-stands-ahead-of-tuesdays-senate-vote-414720)
   - [White House crypto adviser feels ‘very good’ ahead of Senate Clarity Act vote on Tuesday](https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702)
 - The Decoder
   - [OpenAI has hundreds of contract workers reading your ChatGPT conversations](https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/)
@@ -75,6 +80,7 @@
   - [Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame](https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port)
   - [Valve&#8217;s virtual reality plans hit actual reality](https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact)
   - [Valve’s Steam Frame costs $1,059](https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date)
+  - [What execs and politicians are saying about slowing down AI development](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei)
 - Thoughts on Security
   - [RSI vs The Real World](https://scriptjunkie.us/2026/09/rsi-vs-the-real-world/)
 - Vulners.com RSS Feed
