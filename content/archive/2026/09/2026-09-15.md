@@ -18,6 +18,7 @@
   - [想起以前的电脑桌，键盘是隐藏在抽屉里的，打字的时候要抽出来](https://2libra.com/post/personal-life/csXr0f2)
   - [推荐一个 iOS 免费的工作日判断 app【休息日】](https://2libra.com/post/tools-sharing/t8t-DsG)
   - [推荐一部电视剧《古相思曲》](https://2libra.com/post/movie-sharing/4PT6sfq)
+  - [搞了一个怀旧游戏在线模拟器](https://2libra.com/post/personal-works/Tdx0z5l)
   - [本站被公司的 Fortigate 防火墙屏蔽了](https://2libra.com/post/community/IojUfux)
   - [牛马眼泪流进了咖啡里，更苦了](https://2libra.com/post/touch-fish/i8wWAwx)
   - [用 AI 复盘一场五年多前有点好笑的网恋翻车事故](https://2libra.com/post/love/E56Rdq8)
@@ -32,6 +33,7 @@
   - [New York Seizes 12 Celebrity Deepfake Websites](https://www.404media.co/new-york-district-attorney-seizes-12-celebrity-deepfake-websites/)
 - Ars Technica
   - [Prehistoric builders transported Devil's Arrows 11 miles](https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/)
+  - [This Atlantic hurricane season is about to do something that hasn't happened in 175 years](https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/)
 - CoinTelegraph
   - [Balancer eyes wind-down after restructuring fails to revive revenue](https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant](https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -62,7 +64,10 @@
 - Emergent Minds | paddo.dev
   - [Death by a Thousand Agents: PaperCut, 440 Servers, and the Harness Nobody Vets](https://paddo.dev/blog/death-by-a-thousand-agents/)
   - [The Rumour Was the Prompt: OpenAI's Navier-Stokes Proof, 10,000 Agents, and the Team It Scooped](https://paddo.dev/blog/the-rumour-was-the-prompt/)
+- experimental-history.com
+  - [There is no epidemic of loneliness, but there is an epidemic of scurvy](https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness)
 - Hacker News Frontpage
+  - [25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]](https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough)
   - [A Beginning for Mathematics](https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/)
   - [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular)
   - [Blizzard Revives 'StarCraft' Franchise with Open-World Sci-Fi Shooter](https://hypebeast.com/2026/9/blizzard-open-world-starcraft-sci-fi-shooter-2030-release-info-teaser-revealed)
@@ -81,7 +86,10 @@
   - [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)
 - Hexacorn
   - [Win11_26H2 build xta phantom libraries](https://www.hexacorn.com/blog/2026/09/14/win11_26h2-build-xta-phantom-libraries/)
+- IEEE Spectrum
+  - [The Mind-bending Joyrides That Gave Rise to Tesla](https://spectrum.ieee.org/elon-musk-tesla)
 - infosecurity-magazine.com
+  - [AI the Top Priority for New Spend as Cyber Budgets Flatline](https://www.infosecurity-magazine.com/news/ai-top-priority-new-spend-cyber/)
   - [Microsoft Releases Emergency Patch to Fix RDS Snafu](https://www.infosecurity-magazine.com/news/microsoft-releases-emergency-patch/)
 - Linux Foundation Blogs
   - [LF Energy Expands Global Energy Ecosystem with New Members, Open Source Projects and Technical Milestones](https://www.linuxfoundation.org/blog/lf-energy-expands-global-energy-ecosystem-with-new-members-open-source-projects-and-technical-milestones)
@@ -89,6 +97,7 @@
   - [Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era](https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era)
 - MIT Technology Review
   - [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/)
+  - [The Download: AI doomers, whistleblowing agents, and de-aged livers](https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/)
 - NowSecure
   - [NowSecure Platform Delivers Day-One iOS 27 Security Testing](https://www.nowsecure.com/blog/2026/09/14/nowsecure-platform-delivers-day-one-ios-27-security-testing/)
 - pluralistic.net
@@ -108,13 +117,16 @@
   - [AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance](https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/)
   - [Amazon Prime Video takes on TikTok with short-form news clips](https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/)
   - [ClickFix attacks are tricking Mac and Windows users into hacking themselves](https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/)
+  - [Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents](https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/)
   - [Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/)
   - [Jensen Huang took a call from Trump, and showed off something else, too](https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/)
   - [macOS 27: new Siri takes on AI productivity apps](https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/)
   - [Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)
+  - [New Italian unicorn Exein rides the physical AI wave](https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/)
   - [Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/)
   - [OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/)
   - [Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear](https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/)
+  - [Spotify finally lets parents exclude kids’ music from Wrapped and recommendations](https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/)
   - [Volkswagen’s crazy-efficient EV borrows an idea from Slate](https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/)
   - [With iOS 27, I’m actually using Siri again](https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/)
 - The Block
@@ -132,6 +144,7 @@
   - [White House crypto adviser feels ‘very good’ ahead of Senate Clarity Act vote on Tuesday](https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702)
   - [Zama expands confidential Morpho lineup after first vault hits $40 million, launches private swaps on Ethereum](https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613)
 - The Decoder
+  - [Agility Robotics says its new Digit 5 robot can work next to people without safety fences](https://the-decoder.com/agility-robotics-says-its-new-digit-5-robot-can-work-next-to-people-without-safety-fences/)
   - [Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU](https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/)
   - [OpenAI has hundreds of contract workers reading your ChatGPT conversations](https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/)
 - The Verge
@@ -278,6 +291,7 @@
   - [CVE-2026-81900 Concrete CMS before 9.5.3 is vulnerable to Stored XSS in the YouTube block (vWidth/vHeight)](https://vulners.com/cvelist/CVELIST:CVE-2026-81900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82028](https://vulners.com/nvd/NVD:CVE-2026-82028?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86701](https://vulners.com/nvd/NVD:CVE-2026-86701?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89308](https://vulners.com/nvd/NVD:CVE-2026-89308?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90813](https://vulners.com/nvd/NVD:CVE-2026-90813?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90814](https://vulners.com/nvd/NVD:CVE-2026-90814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90815](https://vulners.com/nvd/NVD:CVE-2026-90815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -321,6 +335,15 @@
   - [CVE-2026-91774](https://vulners.com/nvd/NVD:CVE-2026-91774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91778](https://vulners.com/nvd/NVD:CVE-2026-91778?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91819](https://vulners.com/nvd/NVD:CVE-2026-91819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91926](https://vulners.com/nvd/NVD:CVE-2026-91926?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91993](https://vulners.com/nvd/NVD:CVE-2026-91993?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91994](https://vulners.com/nvd/NVD:CVE-2026-91994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91995](https://vulners.com/nvd/NVD:CVE-2026-91995?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91996](https://vulners.com/nvd/NVD:CVE-2026-91996?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91997](https://vulners.com/nvd/NVD:CVE-2026-91997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91998](https://vulners.com/nvd/NVD:CVE-2026-91998?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92002](https://vulners.com/nvd/NVD:CVE-2026-92002?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92003](https://vulners.com/nvd/NVD:CVE-2026-92003?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [gix-sec safe.directory protections absent for elevated administrators](https://vulners.com/mscve/MS:CVE-2025-24890?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3823 gvfs security update](https://vulners.com/osv/OSV:OESA-2026-3823?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3824 gvfs security update](https://vulners.com/osv/OSV:OESA-2026-3824?utm_source=rss&utm_medium=rss&utm_campaign=rss)
