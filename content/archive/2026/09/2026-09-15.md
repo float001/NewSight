@@ -5,7 +5,10 @@
   - [codex 还有两个月没用的吗，来来来，1000 额度温暖你我](https://2libra.com/post/ai-gateway/C3iFFue)
   - [【💰】求显示器推荐](https://2libra.com/post/computers-accessories/mDn_rb1)
   - [【💰】终于抽到混沌徽章了，哈哈](https://2libra.com/post/forum-function/ABxsPxz)
+  - [为什么没有八字交流的帖子，像我这种重度爱好者在这个论坛有点寂寞了，](https://2libra.com/post/idea/BFTCuk9)
   - [本站被公司的 Fortigate 防火墙屏蔽了](https://2libra.com/post/community/IojUfux)
+  - [美团单车的提示语变了](https://2libra.com/post/personal-life/jEnBqxP)
+  - [训练果蝇大脑玩 flappy bird](https://2libra.com/post/ai-applications/TdBdaWx)
   - [请假没通过, 本来想放个长长长的小长假!](https://2libra.com/post/office-life/pDOSxKC)
 - 404 Media
   - [New York Seizes 12 Celebrity Deepfake Websites](https://www.404media.co/new-york-district-attorney-seizes-12-celebrity-deepfake-websites/)
@@ -220,6 +223,10 @@
   - [CVE-2026-90828](https://vulners.com/nvd/NVD:CVE-2026-90828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90829 GNU Binutils SHT_GROUP Section elf.c bfd_elf_set_group_contents null pointer dereference](https://vulners.com/cve/CVE-2026-90829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90829 GNU Binutils SHT_GROUP Section elf.c bfd_elf_set_group_contents null pointer dereference](https://vulners.com/cvelist/CVELIST:CVE-2026-90829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90848](https://vulners.com/nvd/NVD:CVE-2026-90848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90849](https://vulners.com/nvd/NVD:CVE-2026-90849?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90850](https://vulners.com/nvd/NVD:CVE-2026-90850?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90851](https://vulners.com/nvd/NVD:CVE-2026-90851?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91143](https://vulners.com/nvd/NVD:CVE-2026-91143?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91144](https://vulners.com/nvd/NVD:CVE-2026-91144?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91145](https://vulners.com/nvd/NVD:CVE-2026-91145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -235,6 +242,11 @@
   - [CVE-2026-91200 DevSpace through 6.3.21 Path Traversal via tar extraction](https://vulners.com/cvelist/CVELIST:CVE-2026-91200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91201 DocsGPT through 0.20.0 OAuth Token Disclosure via Wildcard postMessage](https://vulners.com/cve/CVE-2026-91201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91201 DocsGPT through 0.20.0 OAuth Token Disclosure via Wildcard postMessage](https://vulners.com/cvelist/CVELIST:CVE-2026-91201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91770](https://vulners.com/nvd/NVD:CVE-2026-91770?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91771](https://vulners.com/nvd/NVD:CVE-2026-91771?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91772](https://vulners.com/nvd/NVD:CVE-2026-91772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91773](https://vulners.com/nvd/NVD:CVE-2026-91773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91774](https://vulners.com/nvd/NVD:CVE-2026-91774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3823 gvfs security update](https://vulners.com/osv/OSV:OESA-2026-3823?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3824 gvfs security update](https://vulners.com/osv/OSV:OESA-2026-3824?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3825 libsoup3 security update](https://vulners.com/osv/OSV:OESA-2026-3825?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -294,7 +306,10 @@
   - [The Top New Features in Apple’s iOS 27 and iPadOS 27](https://www.wired.com/story/top-new-features-in-apple-ios-27-and-ipados-27-launching-september-14/)
 - 不安全
   - [Enter Action with Boldness.](https://buaq.net/go-442413.html)
+  - [ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)](https://buaq.net/go-442425.html)
+  - [osv-scanner v2.6.0](https://buaq.net/go-442424.html)
   - [warpgate v0.29.0-beta.1](https://buaq.net/go-442415.html)
+  - [Windows Server服务器谨慎安装9月更新：安装后远程桌面服务异常 机器直接失联](https://buaq.net/go-442421.html)
   - [微软似乎在为Windows 11设计新的默认鼠标指针 替换沿用多年的默认样式](https://buaq.net/go-442408.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -303,6 +318,8 @@
   - [红队两周的活，AI十小时干完：全球首例多智能体勒索攻击实录](https://www.anquanke.com/post/id/316103)
 - 爱范儿
   - [早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预](https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开](https://www.qbitai.com/2026/09/489227.html)
 - 黑海洋
   - [索尼公布可升级安卓17的Xperia机型名单](https://blog.upx8.com/%E7%B4%A2%E5%B0%BC%E5%85%AC%E5%B8%83%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%AE%89%E5%8D%9317%E7%9A%84Xperia%E6%9C%BA%E5%9E%8B%E5%90%8D%E5%8D%95)
   - [美参议院酝酿AI监管立法：要求AI公司证明已采取安全措施防止伤害](https://blog.upx8.com/%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E9%85%9D%E9%85%BFAI%E7%9B%91%E7%AE%A1%E7%AB%8B%E6%B3%95-%E8%A6%81%E6%B1%82AI%E5%85%AC%E5%8F%B8%E8%AF%81%E6%98%8E%E5%B7%B2%E9%87%87%E5%8F%96%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD%E9%98%B2%E6%AD%A2%E4%BC%A4%E5%AE%B3)
