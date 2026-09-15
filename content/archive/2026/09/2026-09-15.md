@@ -76,6 +76,7 @@
   - [Microsoft patches Windows and Excel – breaks audio, remote access, and paste](https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085)
   - [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
   - [Steam Frame starts at $1059](https://store.steampowered.com/hardware/steamframe)
+  - [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)
   - [When LLM judges agree, should we believe them?](https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them)
   - [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)
 - Hexacorn
@@ -126,6 +127,7 @@
   - [White House crypto adviser feels ‘very good’ ahead of Senate Clarity Act vote on Tuesday](https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702)
   - [Zama expands confidential Morpho lineup after first vault hits $40 million, launches private swaps on Ethereum](https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613)
 - The Decoder
+  - [Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU](https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/)
   - [OpenAI has hundreds of contract workers reading your ChatGPT conversations](https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/)
 - The Verge
   - [Apple Home’s new security camera features cost up to $60 a month](https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription)
@@ -147,6 +149,8 @@
   - [What execs and politicians are saying about slowing down AI development](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei)
 - Thoughts on Security
   - [RSI vs The Real World](https://scriptjunkie.us/2026/09/rsi-vs-the-real-world/)
+- Trail of Bits Blog
+  - [1Password's AI patching benchmark is misleading](https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/)
 - Vulners.com RSS Feed
   - [Chromium CVE-2026-87608: Improper certificate validation in FedCM](https://vulners.com/mscve/MS:CVE-2026-87608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium CVE-2026-87609: Use after free in Sharing](https://vulners.com/mscve/MS:CVE-2026-87609?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -372,8 +376,12 @@
   - [Lawmakers Want States to Crack Down on Flock Cameras—or Pay the Price](https://www.wired.com/story/lawmakers-want-states-to-crack-down-on-flock-cameras-or-pay-the-price/)
   - [New York Seizes a Dozen Celebrity Deepfake Websites](https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/)
   - [System 76 Pangolin Pro Review (2026): Powerhouse Linux Laptop](https://www.wired.com/review/system76-pangolin-pro-linux-laptop/)
+  - [The Census Bureau Is Overrun With Staffers From a MAGA Think Tank](https://www.wired.com/story/a-trump-aligned-think-tank-focused-on-voting-rights-has-taken-over-the-census-bureau/)
   - [The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms](https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/)
   - [The Top New Features in Apple’s iOS 27 and iPadOS 27](https://www.wired.com/story/top-new-features-in-apple-ios-27-and-ipados-27-launching-september-14/)
+  - [Those Viral Bodega Peptides Aren’t Actually Peptides](https://www.wired.com/story/viral-bodega-peptides-tests-show-they-arent-peptides-oops/)
+  - [Why the Postpandemic Tech Bust Sent Billionaires to Trump](https://www.wired.com/story/against-tech-oligarchy-book-excerpt-trump-billionaries/)
+  - [‘I Felt Super Violated’: Men Wearing Meta Glasses on Dates Is an Instant Red Flag](https://www.wired.com/story/i-felt-super-violated-men-wearing-meta-glasses-on-dates-is-an-instant-red-flag/)
 - 不安全
   - [Enter Action with Boldness.](https://buaq.net/go-442413.html)
   - [FoxSDR: A From-Scratch Software-Defined Radio Receiver for Windows](https://buaq.net/go-442427.html)
