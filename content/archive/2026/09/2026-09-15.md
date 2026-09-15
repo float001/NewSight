@@ -6,15 +6,21 @@
   - [【💰】求显示器推荐](https://2libra.com/post/computers-accessories/mDn_rb1)
   - [【💰】终于抽到混沌徽章了，哈哈](https://2libra.com/post/forum-function/ABxsPxz)
   - [为什么没有八字交流的帖子，像我这种重度爱好者在这个论坛有点寂寞了，](https://2libra.com/post/idea/BFTCuk9)
+  - [想起以前的电脑桌，键盘是隐藏在抽屉里的，打字的时候要抽出来](https://2libra.com/post/personal-life/csXr0f2)
+  - [推荐一个 iOS 免费的工作日判断 app【休息日】](https://2libra.com/post/tools-sharing/t8t-DsG)
   - [本站被公司的 Fortigate 防火墙屏蔽了](https://2libra.com/post/community/IojUfux)
+  - [牛马眼泪流进了咖啡里，更苦了](https://2libra.com/post/touch-fish/i8wWAwx)
+  - [由于有 ai，反而不想干活](https://2libra.com/post/ai-tools/Pffiu1q)
   - [美团单车的提示语变了](https://2libra.com/post/personal-life/jEnBqxP)
   - [训练果蝇大脑玩 flappy bird](https://2libra.com/post/ai-applications/TdBdaWx)
   - [请假没通过, 本来想放个长长长的小长假!](https://2libra.com/post/office-life/pDOSxKC)
+  - [这踏马是人说的话？！国家卫健委：新出生人口仍维持 800 万左右，未来劳动力资源仍较充裕](https://2libra.com/post/social-observation/tQf2gE6)
 - 404 Media
   - [New York Seizes 12 Celebrity Deepfake Websites](https://www.404media.co/new-york-district-attorney-seizes-12-celebrity-deepfake-websites/)
 - Ars Technica
   - [Prehistoric builders transported Devil's Arrows 11 miles](https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/)
 - CoinTelegraph
+  - [Balancer eyes wind-down after restructuring fails to revive revenue](https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin tops $79K, oil falls as Trump says Iran war could end](https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CLARITY Act faces state AGs opposition ahead of key Senate vote](https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico](https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -59,6 +65,8 @@
   - [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/)
 - NowSecure
   - [NowSecure Platform Delivers Day-One iOS 27 Security Testing](https://www.nowsecure.com/blog/2026/09/14/nowsecure-platform-delivers-day-one-ios-27-security-testing/)
+- rtl-sdr.com
+  - [FoxSDR: A From-Scratch Software-Defined Radio Receiver for Windows](https://www.rtl-sdr.com/foxsdr-a-from-scratch-software-defined-radio-receiver-for-windows/)
 - simonwillison.net
   - [The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/)
   - [What blog posts influenced your thinking the most?](https://simonwillison.net/2026/Sep/14/influences/)
@@ -77,6 +85,7 @@
 - The Block
   - [Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips](https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660)
   - [Robinhood Chain’s rapid growth is being driven by 4 key factors, analyst says](https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687)
+  - [US DOJ seeks $61 million in crypto proceeds from illicit Iranian oil sales laundered on Binance](https://www.theblock.co/news/regulation/2026-09-15-doj-61-million-crypto-proceeds-iranian-oil-sales-414768)
   - [Where the Clarity Act stands ahead of Tuesday’s Senate vote](https://www.theblock.co/news/regulation/2026-09-14-where-the-clarity-act-stands-ahead-of-tuesdays-senate-vote-414720)
   - [White House crypto adviser feels ‘very good’ ahead of Senate Clarity Act vote on Tuesday](https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702)
 - The Decoder
@@ -306,9 +315,11 @@
   - [The Top New Features in Apple’s iOS 27 and iPadOS 27](https://www.wired.com/story/top-new-features-in-apple-ios-27-and-ipados-27-launching-september-14/)
 - 不安全
   - [Enter Action with Boldness.](https://buaq.net/go-442413.html)
+  - [FoxSDR: A From-Scratch Software-Defined Radio Receiver for Windows](https://buaq.net/go-442427.html)
   - [ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)](https://buaq.net/go-442425.html)
   - [osv-scanner v2.6.0](https://buaq.net/go-442424.html)
   - [warpgate v0.29.0-beta.1](https://buaq.net/go-442415.html)
+  - [WhoCord v1.2.1](https://buaq.net/go-442429.html)
   - [Windows Server服务器谨慎安装9月更新：安装后远程桌面服务异常 机器直接失联](https://buaq.net/go-442421.html)
   - [微软似乎在为Windows 11设计新的默认鼠标指针 替换沿用多年的默认样式](https://buaq.net/go-442408.html)
 - 代码审计星球
