@@ -1,6 +1,10 @@
 # 今日安全资讯（2026-09-15）
 
 - 2Libra
+  - [ChatGPT 桌面版邀请 需要的留邮箱](https://2libra.com/post/invite-code/1KAO7di)
+  - [codex 还有两个月没用的吗，来来来，1000 额度温暖你我](https://2libra.com/post/ai-gateway/C3iFFue)
+  - [【💰】求显示器推荐](https://2libra.com/post/computers-accessories/mDn_rb1)
+  - [【💰】终于抽到混沌徽章了，哈哈](https://2libra.com/post/forum-function/ABxsPxz)
   - [本站被公司的 Fortigate 防火墙屏蔽了](https://2libra.com/post/community/IojUfux)
   - [请假没通过, 本来想放个长长长的小长假!](https://2libra.com/post/office-life/pDOSxKC)
 - 404 Media
@@ -60,6 +64,7 @@
   - [Amazon Prime Video takes on TikTok with short-form news clips](https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/)
   - [ClickFix attacks are tricking Mac and Windows users into hacking themselves](https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/)
   - [Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/)
+  - [Jensen Huang took a call from Trump, and showed off something else, too](https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/)
   - [macOS 27: new Siri takes on AI productivity apps](https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/)
   - [Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)
   - [Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/)
@@ -289,6 +294,7 @@
   - [The Top New Features in Apple’s iOS 27 and iPadOS 27](https://www.wired.com/story/top-new-features-in-apple-ios-27-and-ipados-27-launching-september-14/)
 - 不安全
   - [Enter Action with Boldness.](https://buaq.net/go-442413.html)
+  - [warpgate v0.29.0-beta.1](https://buaq.net/go-442415.html)
   - [微软似乎在为Windows 11设计新的默认鼠标指针 替换沿用多年的默认样式](https://buaq.net/go-442408.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -299,4 +305,5 @@
   - [早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预](https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [索尼公布可升级安卓17的Xperia机型名单](https://blog.upx8.com/%E7%B4%A2%E5%B0%BC%E5%85%AC%E5%B8%83%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%AE%89%E5%8D%9317%E7%9A%84Xperia%E6%9C%BA%E5%9E%8B%E5%90%8D%E5%8D%95)
+  - [美参议院酝酿AI监管立法：要求AI公司证明已采取安全措施防止伤害](https://blog.upx8.com/%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E9%85%9D%E9%85%BFAI%E7%9B%91%E7%AE%A1%E7%AB%8B%E6%B3%95-%E8%A6%81%E6%B1%82AI%E5%85%AC%E5%8F%B8%E8%AF%81%E6%98%8E%E5%B7%B2%E9%87%87%E5%8F%96%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD%E9%98%B2%E6%AD%A2%E4%BC%A4%E5%AE%B3)
   - [被诱骗为俄罗斯作战的亚洲人被视为“炮灰”，引发干预呼声](https://blog.upx8.com/%E8%A2%AB%E8%AF%B1%E9%AA%97%E4%B8%BA%E4%BF%84%E7%BD%97%E6%96%AF%E4%BD%9C%E6%88%98%E7%9A%84%E4%BA%9A%E6%B4%B2%E4%BA%BA%E8%A2%AB%E8%A7%86%E4%B8%BA-%E7%82%AE%E7%81%B0-%E5%BC%95%E5%8F%91%E5%B9%B2%E9%A2%84%E5%91%BC%E5%A3%B0)
