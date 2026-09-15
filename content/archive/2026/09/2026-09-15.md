@@ -3,13 +3,16 @@
 - 2Libra
   - [ChatGPT 桌面版邀请 需要的留邮箱](https://2libra.com/post/invite-code/1KAO7di)
   - [codex 还有两个月没用的吗，来来来，1000 额度温暖你我](https://2libra.com/post/ai-gateway/C3iFFue)
+  - [macOS 的 dock 栏有点不好用](https://2libra.com/post/recommendations/BhR3yKk)
   - [【💰】求显示器推荐](https://2libra.com/post/computers-accessories/mDn_rb1)
   - [【💰】终于抽到混沌徽章了，哈哈](https://2libra.com/post/forum-function/ABxsPxz)
   - [一毛一样！我居然全部中枪。。。 🤡🤡🤡](https://2libra.com/post/personal-life/tUpsiBT)
   - [为什么没有八字交流的帖子，像我这种重度爱好者在这个论坛有点寂寞了，](https://2libra.com/post/idea/BFTCuk9)
   - [出门在外注意安全，少低头看手机，少去人多的地方](https://2libra.com/post/social-observation/MXY38QF)
+  - [左手小鱼际没有擦伤没有伤口，却有擦伤一样的疼](https://2libra.com/post/health-consultation/ByWW1P5)
   - [想起以前的电脑桌，键盘是隐藏在抽屉里的，打字的时候要抽出来](https://2libra.com/post/personal-life/csXr0f2)
   - [推荐一个 iOS 免费的工作日判断 app【休息日】](https://2libra.com/post/tools-sharing/t8t-DsG)
+  - [推荐一部电视剧《古相思曲》](https://2libra.com/post/movie-sharing/4PT6sfq)
   - [本站被公司的 Fortigate 防火墙屏蔽了](https://2libra.com/post/community/IojUfux)
   - [牛马眼泪流进了咖啡里，更苦了](https://2libra.com/post/touch-fish/i8wWAwx)
   - [由于有 ai，反而不想干活](https://2libra.com/post/ai-tools/Pffiu1q)
@@ -41,6 +44,8 @@
   - ['Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink](https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink)
   - [Anthropic CEO: Time to Shift From Improving to Controlling AI](https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai)
   - [Maximum Severity GitLab Flaw Puts Supply Chains at Risk](https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk)
+- defend.network
+  - [Hardware attack breaks Intel/AMD confidential computing; Gitea RCE exploited across six countries](https://defend.network/briefings/ddrop-gitea-rce-japan-vpn-breach-2026-09-15.html)
 - Der Flounder
   - [Suppressing the Liquid Glass screen with a configuration profile on macOS Golden Gate](https://derflounder.wordpress.com/2026/09/14/suppressing-the-liquid-glass-screen-with-a-configuration-profile-on-macos-golden-gate/)
 - Emergent Minds | paddo.dev
@@ -65,6 +70,8 @@
 - Hexacorn
   - [Win11_26H2 build xta phantom libraries](https://www.hexacorn.com/blog/2026/09/14/win11_26h2-build-xta-phantom-libraries/)
 - Linux Foundation Blogs
+  - [LF Energy Expands Global Energy Ecosystem with New Members, Open Source Projects and Technical Milestones](https://www.linuxfoundation.org/blog/lf-energy-expands-global-energy-ecosystem-with-new-members-open-source-projects-and-technical-milestones)
+  - [LF Energy Research Finds Open Source Software Can Deliver 2-5x Greater Net Value for Grid Operators](https://www.linuxfoundation.org/blog/lf-energy-research-finds-open-source-software-can-deliver-2-5x-greater-net-value-for-grid-operators)
   - [Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era](https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era)
 - MIT Technology Review
   - [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/)
@@ -94,11 +101,13 @@
 - The Block
   - [Balancer proposes winding down protocol and distributing treasury to BAL holders](https://www.theblock.co/news/defi/2026-09-15-balancer-proposes-winding-down-414782)
   - [Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips](https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660)
+  - [Crypto exchange CoinEx to shut down after 9 years, citing market slump](https://www.theblock.co/news/business/2026-09-15-coinex-shut-down-414788)
   - [Ethereum, Base developers abandon effort to align account abstraction proposals](https://www.theblock.co/news/ecosystems/2026-09-15-ethereum-base-account-abstraction-proposals-414775)
   - [Robinhood Chain’s rapid growth is being driven by 4 key factors, analyst says](https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687)
   - [US DOJ seeks $61 million in crypto proceeds from illicit Iranian oil sales laundered on Binance](https://www.theblock.co/news/regulation/2026-09-15-doj-61-million-crypto-proceeds-iranian-oil-sales-414768)
   - [Where the Clarity Act stands ahead of Tuesday’s Senate vote](https://www.theblock.co/news/regulation/2026-09-14-where-the-clarity-act-stands-ahead-of-tuesdays-senate-vote-414720)
   - [White House crypto adviser feels ‘very good’ ahead of Senate Clarity Act vote on Tuesday](https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702)
+  - [Zama expands confidential Morpho lineup after first vault hits $40 million, launches private swaps on Ethereum](https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613)
 - The Decoder
   - [OpenAI has hundreds of contract workers reading your ChatGPT conversations](https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/)
 - The Verge
@@ -170,6 +179,7 @@
   - [Chromium CVE-2026-87656: Improper state validation in Safebrowsing](https://vulners.com/mscve/MS:CVE-2026-87656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium CVE-2026-87657: Use after free in V8](https://vulners.com/mscve/MS:CVE-2026-87657?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium CVE-2026-87658: Information leak in Extensions](https://vulners.com/mscve/MS:CVE-2026-87658?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution](https://vulners.com/thn/THN:32308742CC6A3494AF330AB2F5281018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12756](https://vulners.com/nvd/NVD:CVE-2026-12756?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12758](https://vulners.com/nvd/NVD:CVE-2026-12758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12759](https://vulners.com/nvd/NVD:CVE-2026-12759?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -177,6 +187,7 @@
   - [CVE-2026-13265](https://vulners.com/nvd/NVD:CVE-2026-13265?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14986 Out-of-bounds write in it51xxx I2C target FIFO ISR on oversized write transaction](https://vulners.com/cve/CVE-2026-14986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14986 Out-of-bounds write in it51xxx I2C target FIFO ISR on oversized write transaction](https://vulners.com/cvelist/CVELIST:CVE-2026-14986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15758](https://vulners.com/nvd/NVD:CVE-2026-15758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16147](https://vulners.com/nvd/NVD:CVE-2026-16147?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16185](https://vulners.com/nvd/NVD:CVE-2026-16185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16186](https://vulners.com/nvd/NVD:CVE-2026-16186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -189,6 +200,8 @@
   - [CVE-2026-16432](https://vulners.com/nvd/NVD:CVE-2026-16432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16435](https://vulners.com/nvd/NVD:CVE-2026-16435?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16466](https://vulners.com/nvd/NVD:CVE-2026-16466?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16592](https://vulners.com/nvd/NVD:CVE-2026-16592?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16593](https://vulners.com/nvd/NVD:CVE-2026-16593?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16673](https://vulners.com/nvd/NVD:CVE-2026-16673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16702](https://vulners.com/nvd/NVD:CVE-2026-16702?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17047](https://vulners.com/nvd/NVD:CVE-2026-17047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -197,10 +210,12 @@
   - [CVE-2026-17416](https://vulners.com/nvd/NVD:CVE-2026-17416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17463](https://vulners.com/nvd/NVD:CVE-2026-17463?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17467](https://vulners.com/nvd/NVD:CVE-2026-17467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17495](https://vulners.com/nvd/NVD:CVE-2026-17495?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17628](https://vulners.com/nvd/NVD:CVE-2026-17628?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18065](https://vulners.com/nvd/NVD:CVE-2026-18065?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18117](https://vulners.com/nvd/NVD:CVE-2026-18117?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18119](https://vulners.com/nvd/NVD:CVE-2026-18119?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18232](https://vulners.com/nvd/NVD:CVE-2026-18232?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18251](https://vulners.com/nvd/NVD:CVE-2026-18251?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19624](https://vulners.com/nvd/NVD:CVE-2026-19624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19816](https://vulners.com/nvd/NVD:CVE-2026-19816?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -230,9 +245,12 @@
   - [CVE-2026-76081](https://vulners.com/nvd/NVD:CVE-2026-76081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77191 All of the CVEs covered in this advisory apply to affected platforms running Arista EOS with 802.1X authentication and authorization enabled and Access Control Lists (ACLs) configured for per-supplicant policy enforcement. An authenticated supplicant on an](https://vulners.com/cve/CVE-2026-77191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77191 All of the CVEs covered in this advisory apply to affected platforms running Arista EOS with 802.1X authentication and authorization enabled and Access Control Lists (ACLs) configured for per-supplicant policy enforcement. An authenticated supplicant on an](https://vulners.com/cvelist/CVELIST:CVE-2026-77191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81303](https://vulners.com/nvd/NVD:CVE-2026-81303?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81320](https://vulners.com/nvd/NVD:CVE-2026-81320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81900 Concrete CMS before 9.5.3 is vulnerable to Stored XSS in the YouTube block (vWidth/vHeight)](https://vulners.com/cve/CVE-2026-81900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81900 Concrete CMS before 9.5.3 is vulnerable to Stored XSS in the YouTube block (vWidth/vHeight)](https://vulners.com/cvelist/CVELIST:CVE-2026-81900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82028](https://vulners.com/nvd/NVD:CVE-2026-82028?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-86701](https://vulners.com/nvd/NVD:CVE-2026-86701?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90813](https://vulners.com/nvd/NVD:CVE-2026-90813?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90814](https://vulners.com/nvd/NVD:CVE-2026-90814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90815](https://vulners.com/nvd/NVD:CVE-2026-90815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -247,6 +265,10 @@
   - [CVE-2026-90849](https://vulners.com/nvd/NVD:CVE-2026-90849?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90850](https://vulners.com/nvd/NVD:CVE-2026-90850?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90851](https://vulners.com/nvd/NVD:CVE-2026-90851?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91001](https://vulners.com/nvd/NVD:CVE-2026-91001?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91002](https://vulners.com/nvd/NVD:CVE-2026-91002?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91003](https://vulners.com/nvd/NVD:CVE-2026-91003?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91004](https://vulners.com/nvd/NVD:CVE-2026-91004?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91143](https://vulners.com/nvd/NVD:CVE-2026-91143?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91144](https://vulners.com/nvd/NVD:CVE-2026-91144?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91145](https://vulners.com/nvd/NVD:CVE-2026-91145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -335,14 +357,20 @@
   - [微软似乎在为Windows 11设计新的默认鼠标指针 替换沿用多年的默认样式](https://buaq.net/go-442408.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [NVIDIA中国开发者日定档10月苏州，现场设认证考试与黑客松决赛](https://www.solidot.org/story?sid=85379)
+  - [Windows 11 的 9 月例行安全更新再次引发了大量故障](https://www.solidot.org/story?sid=85378)
+  - [XCancel 服务再次下线](https://www.solidot.org/story?sid=85377)
 - 安全客
   - [AI已经开始自动打你了：Anthropic捅破窗户纸，黑客用Claude实现"检测即重生"](https://www.anquanke.com/post/id/316098)
   - [红队两周的活，AI十小时干完：全球首例多智能体勒索攻击实录](https://www.anquanke.com/post/id/316103)
 - 爱范儿
   - [早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预](https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群](https://www.ifanr.com/1680138?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开](https://www.qbitai.com/2026/09/489227.html)
   - [9月21日，深圳前海！聊聊工业AI与生态共创的下一步](https://www.qbitai.com/2026/09/489277.html)
+  - [Meta新研究：字节模型蒸馏后，天花板破了](https://www.qbitai.com/2026/09/489337.html)
   - [前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了](https://www.qbitai.com/2026/09/489288.html)
 - 黑海洋
   - [中国应届毕业生求职难：就业市场饱和叠加人工智能冲击](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%BA%94%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E6%B1%82%E8%81%8C%E9%9A%BE-%E5%B0%B1%E4%B8%9A%E5%B8%82%E5%9C%BA%E9%A5%B1%E5%92%8C%E5%8F%A0%E5%8A%A0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB)
