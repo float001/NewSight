@@ -96,6 +96,8 @@
 - rtl-sdr.com
   - [FoxSDR: A From-Scratch Software-Defined Radio Receiver for Windows](https://www.rtl-sdr.com/foxsdr-a-from-scratch-software-defined-radio-receiver-for-windows/)
   - [SDR–: A Software-Defined Radio Application with Visual Signal Path](https://www.rtl-sdr.com/sdr-a-software-defined-radio-application-with-visual-signal-path/)
+- shkspr.mobi
+  - [[RSS Club] Sorry for breaking your feed readers!](https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/)
 - simonwillison.net
   - [The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/)
   - [What blog posts influenced your thinking the most?](https://simonwillison.net/2026/Sep/14/influences/)
@@ -112,6 +114,7 @@
   - [Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)
   - [Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/)
   - [OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/)
+  - [Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear](https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/)
   - [Volkswagen’s crazy-efficient EV borrows an idea from Slate](https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/)
   - [With iOS 27, I’m actually using Siri again](https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/)
 - The Block
@@ -120,7 +123,9 @@
   - [Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips](https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660)
   - [Crypto exchange CoinEx to shut down after 9 years, citing market slump](https://www.theblock.co/news/business/2026-09-15-coinex-shut-down-414788)
   - [Ethereum, Base developers abandon effort to align account abstraction proposals](https://www.theblock.co/news/ecosystems/2026-09-15-ethereum-base-account-abstraction-proposals-414775)
+  - [House committee releases sweeping crypto tax bill ahead of Wednesday markup](https://www.theblock.co/news/regulation/2026-09-15-house-committee-crypto-tax-bill-414824)
   - [Robinhood Chain’s rapid growth is being driven by 4 key factors, analyst says](https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687)
+  - [Standard Chartered sees Arbitrum at $10 by end-2030, up 70-fold](https://www.theblock.co/news/markets/2026-09-15-standard-chartered-sees-arbitrum-at-10-by-end-2030-up-70-fold-414821)
   - [Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum](https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807)
   - [US DOJ seeks $61 million in crypto proceeds from illicit Iranian oil sales laundered on Binance](https://www.theblock.co/news/regulation/2026-09-15-doj-61-million-crypto-proceeds-iranian-oil-sales-414768)
   - [Where the Clarity Act stands ahead of Tuesday’s Senate vote](https://www.theblock.co/news/regulation/2026-09-14-where-the-clarity-act-stands-ahead-of-tuesdays-senate-vote-414720)
