@@ -14,6 +14,7 @@
   - [关于“协助检定”的选项建议](https://2libra.com/post/forum-function/m6_09To)
   - [出门在外注意安全，少低头看手机，少去人多的地方](https://2libra.com/post/social-observation/MXY38QF)
   - [左手小鱼际没有擦伤没有伤口，却有擦伤一样的疼](https://2libra.com/post/health-consultation/ByWW1P5)
+  - [开发 macOS app 真的是一种心智负担](https://2libra.com/post/mobile-development/k34m55H)
   - [想 500 以内收个安卓机给家里老人用，有出的朋友嘛？](https://2libra.com/post/second-hand/gUpdc23)
   - [想起以前的电脑桌，键盘是隐藏在抽屉里的，打字的时候要抽出来](https://2libra.com/post/personal-life/csXr0f2)
   - [推荐一个 iOS 免费的工作日判断 app【休息日】](https://2libra.com/post/tools-sharing/t8t-DsG)
@@ -31,6 +32,7 @@
   - [这踏马是人说的话？！国家卫健委：新出生人口仍维持 800 万左右，未来劳动力资源仍较充裕](https://2libra.com/post/social-observation/tQf2gE6)
 - 404 Media
   - [New York Seizes 12 Celebrity Deepfake Websites](https://www.404media.co/new-york-district-attorney-seizes-12-celebrity-deepfake-websites/)
+  - [There’s a 100% Chance AI Agents Are Already Ruining the Internet](https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/)
 - Ars Technica
   - [Prehistoric builders transported Devil's Arrows 11 miles](https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/)
   - [This Atlantic hurricane season is about to do something that hasn't happened in 175 years](https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/)
@@ -70,6 +72,7 @@
 - Hacker News Frontpage
   - [25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]](https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough)
   - [A Beginning for Mathematics](https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/)
+  - [A Cop Searched 19,000 Flock Cameras Across 1,558 Cities. His Reason: 'LMAO'](https://www.techtimes.co.uk/police-flock-search-licence-plate-lmao-1808683)
   - [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular)
   - [Australia 'on the same page' as Canada as it seeks deeper EU alliance](https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/)
   - [Blizzard Revives 'StarCraft' Franchise with Open-World Sci-Fi Shooter](https://hypebeast.com/2026/9/blizzard-open-world-starcraft-sci-fi-shooter-2030-release-info-teaser-revealed)
@@ -99,6 +102,7 @@
   - [AI the Top Priority for New Spend as Cyber Budgets Flatline](https://www.infosecurity-magazine.com/news/ai-top-priority-new-spend-cyber/)
   - [Black Axe Members Extradited to US Over Internet Fraud Claims](https://www.infosecurity-magazine.com/news/black-axe-members-extradited-us/)
   - [Microsoft Releases Emergency Patch to Fix RDS Snafu](https://www.infosecurity-magazine.com/news/microsoft-releases-emergency-patch/)
+  - [Most Firms Unable to Recover Quickly from Ransomware](https://www.infosecurity-magazine.com/news/four-of-800-clients-hit-ransomware/)
 - Linux Foundation Blogs
   - [LF Energy Expands Global Energy Ecosystem with New Members, Open Source Projects and Technical Milestones](https://www.linuxfoundation.org/blog/lf-energy-expands-global-energy-ecosystem-with-new-members-open-source-projects-and-technical-milestones)
   - [LF Energy Research Finds Open Source Software Can Deliver 2-5x Greater Net Value for Grid Operators](https://www.linuxfoundation.org/blog/lf-energy-research-finds-open-source-software-can-deliver-2-5x-greater-net-value-for-grid-operators)
@@ -108,6 +112,8 @@
   - [The Download: AI doomers, whistleblowing agents, and de-aged livers](https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/)
 - NowSecure
   - [NowSecure Platform Delivers Day-One iOS 27 Security Testing](https://www.nowsecure.com/blog/2026/09/14/nowsecure-platform-delivers-day-one-ios-27-security-testing/)
+- OpenZeppelin Blog
+  - [CACEIS EURXT Smart Contract Security Audit](https://www.openzeppelin.com/news/caceis-eurxt-smart-contract-security-audit)
 - pluralistic.net
   - [Pluralistic: Everybody pees (15 Sep 2026)](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/)
 - rtl-sdr.com
@@ -126,8 +132,12 @@
   - [AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance](https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/)
   - [Amazon Prime Video takes on TikTok with short-form news clips](https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/)
   - [ClickFix attacks are tricking Mac and Windows users into hacking themselves](https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/)
+  - [Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/)
   - [Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents](https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/)
+  - [Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data](https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/)
   - [Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/)
+  - [Former TikTok execs built an app that uses AI to teach you how to pose for a photo](https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/)
+  - [India ends free ride for larger transactions on its ubiquitous digital payments network](https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/)
   - [Jensen Huang took a call from Trump, and showed off something else, too](https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/)
   - [macOS 27: new Siri takes on AI productivity apps](https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/)
   - [Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)
@@ -145,6 +155,7 @@
   - [Crypto exchange CoinEx to shut down after 9 years, citing market slump](https://www.theblock.co/news/business/2026-09-15-coinex-shut-down-414788)
   - [Ethereum, Base developers abandon effort to align account abstraction proposals](https://www.theblock.co/news/ecosystems/2026-09-15-ethereum-base-account-abstraction-proposals-414775)
   - [House committee releases sweeping crypto tax bill ahead of Wednesday markup](https://www.theblock.co/news/regulation/2026-09-15-house-committee-crypto-tax-bill-414824)
+  - [Lead Senate Republican Lummis rejects Democratic counteroffer as Clarity Act vote nears](https://www.theblock.co/news/regulation/2026-09-15-senate-republican-lummis-rejects-democratic-counteroffer-clarity-act-vote-414850)
   - [Robinhood Chain’s rapid growth is being driven by 4 key factors, analyst says](https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687)
   - [Standard Chartered sees Arbitrum at $10 by end-2030, up 70-fold](https://www.theblock.co/news/markets/2026-09-15-standard-chartered-sees-arbitrum-at-10-by-end-2030-up-70-fold-414821)
   - [Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum](https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807)
@@ -153,6 +164,7 @@
   - [White House crypto adviser feels ‘very good’ ahead of Senate Clarity Act vote on Tuesday](https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702)
   - [Zama expands confidential Morpho lineup after first vault hits $40 million, launches private swaps on Ethereum](https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613)
 - The Decoder
+  - [After warning AI is too dangerous, Bill Gates bets a billion on its upside](https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/)
   - [Agility Robotics says its new Digit 5 robot can work next to people without safety fences](https://the-decoder.com/agility-robotics-says-its-new-digit-5-robot-can-work-next-to-people-without-safety-fences/)
   - [Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU](https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/)
   - [OpenAI has hundreds of contract workers reading your ChatGPT conversations](https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/)
@@ -162,8 +174,10 @@
   - [I reviewed Valve’s Steam Frame, ask me anything](https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered)
   - [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel)
   - [macOS 27 is available now](https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now)
+  - [Meta&#8217;s new One subscriptions put a price on social media and AI](https://www.theverge.com/tech/995453/meta-one-subscriptions-ai)
   - [Microsoft issues emergency Windows 11 update to fix its record-breaking patch](https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues)
   - [Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’](https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven)
+  - [Now Light’s minimalist phone can easily call an Uber](https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app)
   - [The best deals from Nintendo’s ‘customer appreciation’ sale](https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale)
   - [The Dell XPS 13 is the first real competitor to the MacBook Neo](https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review)
   - [The Steam Frame is made for irresponsible hardware nerds like me](https://www.theverge.com/tech/994267/steam-frame-review)
@@ -179,6 +193,8 @@
   - [RSI vs The Real World](https://scriptjunkie.us/2026/09/rsi-vs-the-real-world/)
 - Trail of Bits Blog
   - [1Password's AI patching benchmark is misleading](https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Automate Asset Isolation: Your Last Resort to Meet Remediation Deadlines](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
   - [Chromium CVE-2026-87608: Improper certificate validation in FedCM](https://vulners.com/mscve/MS:CVE-2026-87608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chromium CVE-2026-87609: Use after free in Sharing](https://vulners.com/mscve/MS:CVE-2026-87609?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -238,6 +254,8 @@
   - [CVE-2026-14986 Out-of-bounds write in it51xxx I2C target FIFO ISR on oversized write transaction](https://vulners.com/cve/CVE-2026-14986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14986 Out-of-bounds write in it51xxx I2C target FIFO ISR on oversized write transaction](https://vulners.com/cvelist/CVELIST:CVE-2026-14986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15758](https://vulners.com/nvd/NVD:CVE-2026-15758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16140](https://vulners.com/nvd/NVD:CVE-2026-16140?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16141](https://vulners.com/nvd/NVD:CVE-2026-16141?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16147](https://vulners.com/nvd/NVD:CVE-2026-16147?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16185](https://vulners.com/nvd/NVD:CVE-2026-16185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16186](https://vulners.com/nvd/NVD:CVE-2026-16186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -284,6 +302,8 @@
   - [CVE-2026-55093](https://vulners.com/nvd/NVD:CVE-2026-55093?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55209](https://vulners.com/nvd/NVD:CVE-2026-55209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55244](https://vulners.com/nvd/NVD:CVE-2026-55244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59971 MySQL MCP Server: Missing Origin/Host Validation in SSE Transport Enables Unauthenticated SQL Execution (DNS Rebinding / Direct Exposure)](https://vulners.com/cve/CVE-2026-59971?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59971 MySQL MCP Server: Missing Origin/Host Validation in SSE Transport Enables Unauthenticated SQL Execution (DNS Rebinding / Direct Exposure)](https://vulners.com/cvelist/CVELIST:CVE-2026-59971?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-65838](https://vulners.com/nvd/NVD:CVE-2026-65838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-73449](https://vulners.com/nvd/NVD:CVE-2026-73449?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-73496](https://vulners.com/nvd/NVD:CVE-2026-73496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -293,6 +313,7 @@
   - [CVE-2026-75944 A race condition during supplicant re-authentication may leave a stale ACL entry that persists in the system. If the AclAgent subsequently restarts, this stale entry may be applied to new supplicants, resulting in incorrect access control enforcement. User](https://vulners.com/cve/CVE-2026-75944?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75944 A race condition during supplicant re-authentication may leave a stale ACL entry that persists in the system. If the AclAgent subsequently restarts, this stale entry may be applied to new supplicants, resulting in incorrect access control enforcement. User](https://vulners.com/cvelist/CVELIST:CVE-2026-75944?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76081](https://vulners.com/nvd/NVD:CVE-2026-76081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77179](https://vulners.com/nvd/NVD:CVE-2026-77179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77191 All of the CVEs covered in this advisory apply to affected platforms running Arista EOS with 802.1X authentication and authorization enabled and Access Control Lists (ACLs) configured for per-supplicant policy enforcement. An authenticated supplicant on an](https://vulners.com/cve/CVE-2026-77191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77191 All of the CVEs covered in this advisory apply to affected platforms running Arista EOS with 802.1X authentication and authorization enabled and Access Control Lists (ACLs) configured for per-supplicant policy enforcement. An authenticated supplicant on an](https://vulners.com/cvelist/CVELIST:CVE-2026-77191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81303](https://vulners.com/nvd/NVD:CVE-2026-81303?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -301,6 +322,8 @@
   - [CVE-2026-81900 Concrete CMS before 9.5.3 is vulnerable to Stored XSS in the YouTube block (vWidth/vHeight)](https://vulners.com/cvelist/CVELIST:CVE-2026-81900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82028](https://vulners.com/nvd/NVD:CVE-2026-82028?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86701](https://vulners.com/nvd/NVD:CVE-2026-86701?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89025 Hirschmann HiOS Switch Platform DoS via Malformed HTTP Request](https://vulners.com/cve/CVE-2026-89025?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89025 Hirschmann HiOS Switch Platform DoS via Malformed HTTP Request](https://vulners.com/cvelist/CVELIST:CVE-2026-89025?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89308](https://vulners.com/nvd/NVD:CVE-2026-89308?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90813](https://vulners.com/nvd/NVD:CVE-2026-90813?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90814](https://vulners.com/nvd/NVD:CVE-2026-90814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -345,6 +368,8 @@
   - [CVE-2026-91774](https://vulners.com/nvd/NVD:CVE-2026-91774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91778](https://vulners.com/nvd/NVD:CVE-2026-91778?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91819](https://vulners.com/nvd/NVD:CVE-2026-91819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91835 OpenClaw ClawScan File Classifier static_scanner.go IsBinaryFile interpretation conflict](https://vulners.com/cve/CVE-2026-91835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91835 OpenClaw ClawScan File Classifier static_scanner.go IsBinaryFile interpretation conflict](https://vulners.com/cvelist/CVELIST:CVE-2026-91835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91926](https://vulners.com/nvd/NVD:CVE-2026-91926?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91993](https://vulners.com/nvd/NVD:CVE-2026-91993?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91994](https://vulners.com/nvd/NVD:CVE-2026-91994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -424,6 +449,7 @@
   - [Enter Action with Boldness.](https://buaq.net/go-442413.html)
   - [FoxSDR: A From-Scratch Software-Defined Radio Receiver for Windows](https://buaq.net/go-442427.html)
   - [ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)](https://buaq.net/go-442425.html)
+  - [Looking for feedback/suggestions on my AI cybersecurity hackathon PPT](https://buaq.net/go-442585.html)
   - [osv-scanner v2.6.0](https://buaq.net/go-442424.html)
   - [PEASS-ng v20260914-6273eb76](https://buaq.net/go-442557.html)
   - [runeward](https://buaq.net/go-442477.html)
