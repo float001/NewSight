@@ -9,7 +9,9 @@
   - [【💰】行车记录仪推荐](https://2libra.com/post/ask-recommendation/GtHEaYf)
   - [一毛一样！我居然全部中枪。。。 🤡🤡🤡](https://2libra.com/post/personal-life/tUpsiBT)
   - [为什么没有八字交流的帖子，像我这种重度爱好者在这个论坛有点寂寞了，](https://2libra.com/post/idea/BFTCuk9)
+  - [今日周二【中国移动】灵犀口令 【9 月超带感】](https://2libra.com/post/deal-hunter/dmFvoLb)
   - [你们有没有对 AI 发过火，就是骂它](https://2libra.com/post/ai-emotion-guard/W8aX8eW)
+  - [关于“协助检定”的选项建议](https://2libra.com/post/forum-function/m6_09To)
   - [出门在外注意安全，少低头看手机，少去人多的地方](https://2libra.com/post/social-observation/MXY38QF)
   - [左手小鱼际没有擦伤没有伤口，却有擦伤一样的疼](https://2libra.com/post/health-consultation/ByWW1P5)
   - [想起以前的电脑桌，键盘是隐藏在抽屉里的，打字的时候要抽出来](https://2libra.com/post/personal-life/csXr0f2)
@@ -18,6 +20,7 @@
   - [本站被公司的 Fortigate 防火墙屏蔽了](https://2libra.com/post/community/IojUfux)
   - [牛马眼泪流进了咖啡里，更苦了](https://2libra.com/post/touch-fish/i8wWAwx)
   - [由于有 ai，反而不想干活](https://2libra.com/post/ai-tools/Pffiu1q)
+  - [电信手机话费来了，支付宝 269 个积分兑换 1 元电信手机话费。](https://2libra.com/post/deal-hunter/gsu0Ypo)
   - [美团单车的提示语变了](https://2libra.com/post/personal-life/jEnBqxP)
   - [要不要赌一把](https://2libra.com/post/computers-accessories/njqsmgj)
   - [训练果蝇大脑玩 flappy bird](https://2libra.com/post/ai-applications/TdBdaWx)
@@ -37,7 +40,9 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kraken brings DeFi yield to tokenized stocks and ETFs](https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [S&P Global backs Kaiko as Series B reaches $110M](https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Solana more than triples transaction size limit with mainnet upgrade](https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive adds 469 Bitcoin to reach 25,000 BTC treasury](https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales](https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple’s 27.0 OS Updates](https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/)
 - Darknet – Hacking Tools, Hacker News & Cyber Security
@@ -71,6 +76,8 @@
   - [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)
 - Hexacorn
   - [Win11_26H2 build xta phantom libraries](https://www.hexacorn.com/blog/2026/09/14/win11_26h2-build-xta-phantom-libraries/)
+- infosecurity-magazine.com
+  - [Microsoft Releases Emergency Patch to Fix RDS Snafu](https://www.infosecurity-magazine.com/news/microsoft-releases-emergency-patch/)
 - Linux Foundation Blogs
   - [LF Energy Expands Global Energy Ecosystem with New Members, Open Source Projects and Technical Milestones](https://www.linuxfoundation.org/blog/lf-energy-expands-global-energy-ecosystem-with-new-members-open-source-projects-and-technical-milestones)
   - [LF Energy Research Finds Open Source Software Can Deliver 2-5x Greater Net Value for Grid Operators](https://www.linuxfoundation.org/blog/lf-energy-research-finds-open-source-software-can-deliver-2-5x-greater-net-value-for-grid-operators)
@@ -120,6 +127,7 @@
   - [I reviewed Valve’s Steam Frame, ask me anything](https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered)
   - [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel)
   - [macOS 27 is available now](https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now)
+  - [Microsoft issues emergency Windows 11 update to fix its record-breaking patch](https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues)
   - [Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’](https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven)
   - [The best deals from Nintendo’s ‘customer appreciation’ sale](https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale)
   - [The Dell XPS 13 is the first real competitor to the MacBook Neo](https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review)
@@ -273,6 +281,9 @@
   - [CVE-2026-91002](https://vulners.com/nvd/NVD:CVE-2026-91002?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91003](https://vulners.com/nvd/NVD:CVE-2026-91003?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91004](https://vulners.com/nvd/NVD:CVE-2026-91004?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91089](https://vulners.com/nvd/NVD:CVE-2026-91089?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91090](https://vulners.com/nvd/NVD:CVE-2026-91090?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91091](https://vulners.com/nvd/NVD:CVE-2026-91091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91143](https://vulners.com/nvd/NVD:CVE-2026-91143?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91144](https://vulners.com/nvd/NVD:CVE-2026-91144?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91145](https://vulners.com/nvd/NVD:CVE-2026-91145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -293,6 +304,9 @@
   - [CVE-2026-91772](https://vulners.com/nvd/NVD:CVE-2026-91772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91773](https://vulners.com/nvd/NVD:CVE-2026-91773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91774](https://vulners.com/nvd/NVD:CVE-2026-91774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91778](https://vulners.com/nvd/NVD:CVE-2026-91778?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91819](https://vulners.com/nvd/NVD:CVE-2026-91819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [gix-sec safe.directory protections absent for elevated administrators](https://vulners.com/mscve/MS:CVE-2025-24890?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3823 gvfs security update](https://vulners.com/osv/OSV:OESA-2026-3823?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3824 gvfs security update](https://vulners.com/osv/OSV:OESA-2026-3824?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OESA-2026-3825 libsoup3 security update](https://vulners.com/osv/OSV:OESA-2026-3825?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -348,6 +362,7 @@
   - [AI Is Already In Dangerous Hands](https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/)
 - Wired
   - [New York Seizes a Dozen Celebrity Deepfake Websites](https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/)
+  - [System 76 Pangolin Pro Review (2026): Powerhouse Linux Laptop](https://www.wired.com/review/system76-pangolin-pro-linux-laptop/)
   - [The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms](https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/)
   - [The Top New Features in Apple’s iOS 27 and iPadOS 27](https://www.wired.com/story/top-new-features-in-apple-ios-27-and-ipados-27-launching-september-14/)
 - 不安全
@@ -355,16 +370,20 @@
   - [FoxSDR: A From-Scratch Software-Defined Radio Receiver for Windows](https://buaq.net/go-442427.html)
   - [ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)](https://buaq.net/go-442425.html)
   - [osv-scanner v2.6.0](https://buaq.net/go-442424.html)
+  - [runeward](https://buaq.net/go-442477.html)
+  - [Search results are sending people to fake Bitrefill checkouts](https://buaq.net/go-442473.html)
   - [warpgate v0.29.0-beta.1](https://buaq.net/go-442415.html)
   - [WhoCord v1.2.1](https://buaq.net/go-442429.html)
   - [Windows Server服务器谨慎安装9月更新：安装后远程桌面服务异常 机器直接失联](https://buaq.net/go-442421.html)
   - [微软似乎在为Windows 11设计新的默认鼠标指针 替换沿用多年的默认样式](https://buaq.net/go-442408.html)
+  - [融合谱特征与激活聚类用于医疗影像模型后门检测：方法、实现与评估](https://buaq.net/go-442472.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [NVIDIA中国开发者日定档10月苏州，现场设认证考试与黑客松决赛](https://www.solidot.org/story?sid=85379)
   - [Windows 11 的 9 月例行安全更新再次引发了大量故障](https://www.solidot.org/story?sid=85378)
   - [XCancel 服务再次下线](https://www.solidot.org/story?sid=85377)
+  - [一款在浏览器里运行、部署在自己服务器上的 SQL 客户端](https://www.solidot.org/story?sid=85383)
   - [科学家演示水下太阳能电池](https://www.solidot.org/story?sid=85381)
 - 安全客
   - [AI已经开始自动打你了：Anthropic捅破窗户纸，黑客用Claude实现"检测即重生"](https://www.anquanke.com/post/id/316098)
