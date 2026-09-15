@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-09-15）
 
+- 2Libra
+  - [请假没通过, 本来想放个长长长的小长假!](https://2libra.com/post/office-life/pDOSxKC)
 - 404 Media
   - [New York Seizes 12 Celebrity Deepfake Websites](https://www.404media.co/new-york-district-attorney-seizes-12-celebrity-deepfake-websites/)
 - Ars Technica
@@ -23,6 +25,7 @@
   - [Suppressing the Liquid Glass screen with a configuration profile on macOS Golden Gate](https://derflounder.wordpress.com/2026/09/14/suppressing-the-liquid-glass-screen-with-a-configuration-profile-on-macos-golden-gate/)
 - Emergent Minds | paddo.dev
   - [Death by a Thousand Agents: PaperCut, 440 Servers, and the Harness Nobody Vets](https://paddo.dev/blog/death-by-a-thousand-agents/)
+  - [The Rumour Was the Prompt: OpenAI's Navier-Stokes Proof, 10,000 Agents, and the Team It Scooped](https://paddo.dev/blog/the-rumour-was-the-prompt/)
 - Hacker News Frontpage
   - [A Beginning for Mathematics](https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/)
   - [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular)
@@ -237,4 +240,5 @@
   - [AI已经开始自动打你了：Anthropic捅破窗户纸，黑客用Claude实现"检测即重生"](https://www.anquanke.com/post/id/316098)
   - [红队两周的活，AI十小时干完：全球首例多智能体勒索攻击实录](https://www.anquanke.com/post/id/316103)
 - 黑海洋
+  - [索尼公布可升级安卓17的Xperia机型名单](https://blog.upx8.com/%E7%B4%A2%E5%B0%BC%E5%85%AC%E5%B8%83%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%AE%89%E5%8D%9317%E7%9A%84Xperia%E6%9C%BA%E5%9E%8B%E5%90%8D%E5%8D%95)
   - [被诱骗为俄罗斯作战的亚洲人被视为“炮灰”，引发干预呼声](https://blog.upx8.com/%E8%A2%AB%E8%AF%B1%E9%AA%97%E4%B8%BA%E4%BF%84%E7%BD%97%E6%96%AF%E4%BD%9C%E6%88%98%E7%9A%84%E4%BA%9A%E6%B4%B2%E4%BA%BA%E8%A2%AB%E8%A7%86%E4%B8%BA-%E7%82%AE%E7%81%B0-%E5%BC%95%E5%8F%91%E5%B9%B2%E9%A2%84%E5%91%BC%E5%A3%B0)
