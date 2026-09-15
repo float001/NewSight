@@ -1,11 +1,23 @@
 # 今日安全资讯（2026-09-16）
 
+- darkreading
+  - [VectraRAT Can Hack Windows Enterprises for $250 per Month](https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises)
 - Google AI Blog
   - [AI for everyone in every language](https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/)
   - [Building AI to accelerate science and improve lives](https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/)
+- Hacker News Frontpage
+  - [Splash-free urinals: Design through physics and differential equations](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745)
 - TechCrunch
+  - [Health benefits platform Thatch reaches $1B valuation as healthcare costs surge](https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/)
   - [Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far](https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/)
 - The Verge
+  - [How The Oregon Trail became a generational icon](https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon)
   - [Vintage Violence is an absurdist crime thriller for phone addicts](https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster)
+- Vulners.com RSS Feed
+  - [CVE-2026-89022 BookStack < 26.05.5 Authentication Bypass via Social Login Provider Confusion](https://vulners.com/cve/CVE-2026-89022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89022 BookStack < 26.05.5 Authentication Bypass via Social Login Provider Confusion](https://vulners.com/cvelist/CVELIST:CVE-2026-89022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91853 TOTOLINK X5000R Export Ovpn cstecgi.cgi exportOvpn os command injection](https://vulners.com/cve/CVE-2026-91853?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91853 TOTOLINK X5000R Export Ovpn cstecgi.cgi exportOvpn os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-91853?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ps4-goldhen-linux-host](https://vulners.com/githubexploit/A4B46A67-8B29-59AE-AFAC-F08984CBDCDB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
