@@ -49,6 +49,7 @@
   - [Solana more than triples transaction size limit with mainnet upgrade](https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive adds 469 Bitcoin to reach 25,000 BTC treasury](https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales](https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [USDT payments feature in Polish energy giant’s failed $230M oil deal: FT](https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple’s 27.0 OS Updates](https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/)
 - Darknet – Hacking Tools, Hacker News & Cyber Security
@@ -70,6 +71,7 @@
   - [25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]](https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough)
   - [A Beginning for Mathematics](https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/)
   - [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular)
+  - [Australia 'on the same page' as Canada as it seeks deeper EU alliance](https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/)
   - [Blizzard Revives 'StarCraft' Franchise with Open-World Sci-Fi Shooter](https://hypebeast.com/2026/9/blizzard-open-world-starcraft-sci-fi-shooter-2030-release-info-teaser-revealed)
   - [Claude is a Contrarian](https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada)
   - [Fitting Neural Textures and PBR Material Maps with ES (No Backprop)](http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html)
@@ -77,19 +79,25 @@
   - [Hacking AI customer service agents](https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents)
   - [I stress-tested Meta Muse until its agent control plane started timing out](https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/)
   - [iOS 27, iPadOS 27, and macOS 27 released](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
+  - [Java 27 Released](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/)
   - [LLMs are real, AI is fake](https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake)
   - [Microsoft patches Windows and Excel – breaks audio, remote access, and paste](https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085)
   - [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
+  - [Show HN: Hacking a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/)
   - [Steam Frame starts at $1059](https://store.steampowered.com/hardware/steamframe)
   - [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)
   - [When LLM judges agree, should we believe them?](https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them)
   - [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)
 - Hexacorn
   - [Win11_26H2 build xta phantom libraries](https://www.hexacorn.com/blog/2026/09/14/win11_26h2-build-xta-phantom-libraries/)
+- Horizon3.ai
+  - [Horizon3 Announces Integration with CrowdStrike Falcon® Next-Gen SIEM](https://horizon3.ai/news/press-release/crowdstrike-falcon-next-gen-siem-integration/)
+  - [Security Data Isn’t the Problem. Security Context Is.](https://horizon3.ai/intelligence/blogs/security-data-context-crowdstrike/)
 - IEEE Spectrum
   - [The Mind-bending Joyrides That Gave Rise to Tesla](https://spectrum.ieee.org/elon-musk-tesla)
 - infosecurity-magazine.com
   - [AI the Top Priority for New Spend as Cyber Budgets Flatline](https://www.infosecurity-magazine.com/news/ai-top-priority-new-spend-cyber/)
+  - [Black Axe Members Extradited to US Over Internet Fraud Claims](https://www.infosecurity-magazine.com/news/black-axe-members-extradited-us/)
   - [Microsoft Releases Emergency Patch to Fix RDS Snafu](https://www.infosecurity-magazine.com/news/microsoft-releases-emergency-patch/)
 - Linux Foundation Blogs
   - [LF Energy Expands Global Energy Ecosystem with New Members, Open Source Projects and Technical Milestones](https://www.linuxfoundation.org/blog/lf-energy-expands-global-energy-ecosystem-with-new-members-open-source-projects-and-technical-milestones)
@@ -114,6 +122,7 @@
   - [Exploit for Deserialization of Untrusted Data in Pdfminer Pdfminer.Six](https://sploitus.com/exploit?id=2C5EE6B1-4EA4-56C2-B3A5-2F46BB25E2C3&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Access Control in Widgetfactorylimited Jce](https://sploitus.com/exploit?id=D3C53CF3-C170-5845-9E21-4C0AF78DD841&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [4 days left to exhibit at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/)
   - [AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance](https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/)
   - [Amazon Prime Video takes on TikTok with short-form news clips](https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/)
   - [ClickFix attacks are tricking Mac and Windows users into hacking themselves](https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/)
@@ -158,6 +167,7 @@
   - [The best deals from Nintendo’s ‘customer appreciation’ sale](https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale)
   - [The Dell XPS 13 is the first real competitor to the MacBook Neo](https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review)
   - [The Steam Frame is made for irresponsible hardware nerds like me](https://www.theverge.com/tech/994267/steam-frame-review)
+  - [This doorbell camera lets a human security guard watch your front door](https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs)
   - [TIFF 2026: the latest movie reviews from Toronto](https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews)
   - [Trump throws out power plant climate pollution rules](https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers)
   - [Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame](https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port)
@@ -415,6 +425,7 @@
   - [FoxSDR: A From-Scratch Software-Defined Radio Receiver for Windows](https://buaq.net/go-442427.html)
   - [ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)](https://buaq.net/go-442425.html)
   - [osv-scanner v2.6.0](https://buaq.net/go-442424.html)
+  - [PEASS-ng v20260914-6273eb76](https://buaq.net/go-442557.html)
   - [runeward](https://buaq.net/go-442477.html)
   - [Search results are sending people to fake Bitrefill checkouts](https://buaq.net/go-442473.html)
   - [warpgate v0.29.0-beta.1](https://buaq.net/go-442415.html)
@@ -442,6 +453,7 @@
   - [9月21日，深圳前海！聊聊工业AI与生态共创的下一步](https://www.qbitai.com/2026/09/489277.html)
   - [Meta新研究：字节模型蒸馏后，天花板破了](https://www.qbitai.com/2026/09/489337.html)
   - [前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了](https://www.qbitai.com/2026/09/489288.html)
+  - [地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出](https://www.qbitai.com/2026/09/489698.html)
 - 黑海洋
   - [中国应届毕业生求职难：就业市场饱和叠加人工智能冲击](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%BA%94%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E6%B1%82%E8%81%8C%E9%9A%BE-%E5%B0%B1%E4%B8%9A%E5%B8%82%E5%9C%BA%E9%A5%B1%E5%92%8C%E5%8F%A0%E5%8A%A0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB)
   - [索尼公布可升级安卓17的Xperia机型名单](https://blog.upx8.com/%E7%B4%A2%E5%B0%BC%E5%85%AC%E5%B8%83%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%AE%89%E5%8D%9317%E7%9A%84Xperia%E6%9C%BA%E5%9E%8B%E5%90%8D%E5%8D%95)
