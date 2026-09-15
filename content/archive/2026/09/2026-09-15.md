@@ -5,13 +5,16 @@
   - [codex 还有两个月没用的吗，来来来，1000 额度温暖你我](https://2libra.com/post/ai-gateway/C3iFFue)
   - [【💰】求显示器推荐](https://2libra.com/post/computers-accessories/mDn_rb1)
   - [【💰】终于抽到混沌徽章了，哈哈](https://2libra.com/post/forum-function/ABxsPxz)
+  - [一毛一样！我居然全部中枪。。。 🤡🤡🤡](https://2libra.com/post/personal-life/tUpsiBT)
   - [为什么没有八字交流的帖子，像我这种重度爱好者在这个论坛有点寂寞了，](https://2libra.com/post/idea/BFTCuk9)
+  - [出门在外注意安全，少低头看手机，少去人多的地方](https://2libra.com/post/social-observation/MXY38QF)
   - [想起以前的电脑桌，键盘是隐藏在抽屉里的，打字的时候要抽出来](https://2libra.com/post/personal-life/csXr0f2)
   - [推荐一个 iOS 免费的工作日判断 app【休息日】](https://2libra.com/post/tools-sharing/t8t-DsG)
   - [本站被公司的 Fortigate 防火墙屏蔽了](https://2libra.com/post/community/IojUfux)
   - [牛马眼泪流进了咖啡里，更苦了](https://2libra.com/post/touch-fish/i8wWAwx)
   - [由于有 ai，反而不想干活](https://2libra.com/post/ai-tools/Pffiu1q)
   - [美团单车的提示语变了](https://2libra.com/post/personal-life/jEnBqxP)
+  - [要不要赌一把](https://2libra.com/post/computers-accessories/njqsmgj)
   - [训练果蝇大脑玩 flappy bird](https://2libra.com/post/ai-applications/TdBdaWx)
   - [请假没通过, 本来想放个长长长的小长假!](https://2libra.com/post/office-life/pDOSxKC)
   - [这踏马是人说的话？！国家卫健委：新出生人口仍维持 800 万左右，未来劳动力资源仍较充裕](https://2libra.com/post/social-observation/tQf2gE6)
@@ -23,6 +26,7 @@
   - [Balancer eyes wind-down after restructuring fails to revive revenue](https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin tops $79K, oil falls as Trump says Iran war could end](https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CLARITY Act faces state AGs opposition ahead of key Senate vote](https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction](https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico](https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kraken brings DeFi yield to tokenized stocks and ETFs](https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -67,6 +71,7 @@
   - [NowSecure Platform Delivers Day-One iOS 27 Security Testing](https://www.nowsecure.com/blog/2026/09/14/nowsecure-platform-delivers-day-one-ios-27-security-testing/)
 - rtl-sdr.com
   - [FoxSDR: A From-Scratch Software-Defined Radio Receiver for Windows](https://www.rtl-sdr.com/foxsdr-a-from-scratch-software-defined-radio-receiver-for-windows/)
+  - [SDR–: A Software-Defined Radio Application with Visual Signal Path](https://www.rtl-sdr.com/sdr-a-software-defined-radio-application-with-visual-signal-path/)
 - simonwillison.net
   - [The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/)
   - [What blog posts influenced your thinking the most?](https://simonwillison.net/2026/Sep/14/influences/)
@@ -84,6 +89,7 @@
   - [With iOS 27, I’m actually using Siri again](https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/)
 - The Block
   - [Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips](https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660)
+  - [Ethereum, Base developers abandon effort to align account abstraction proposals](https://www.theblock.co/news/ecosystems/2026-09-15-ethereum-base-account-abstraction-proposals-414775)
   - [Robinhood Chain’s rapid growth is being driven by 4 key factors, analyst says](https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687)
   - [US DOJ seeks $61 million in crypto proceeds from illicit Iranian oil sales laundered on Binance](https://www.theblock.co/news/regulation/2026-09-15-doj-61-million-crypto-proceeds-iranian-oil-sales-414768)
   - [Where the Clarity Act stands ahead of Tuesday’s Senate vote](https://www.theblock.co/news/regulation/2026-09-14-where-the-clarity-act-stands-ahead-of-tuesdays-senate-vote-414720)
@@ -332,6 +338,7 @@
 - 量子位 QbitAI
   - [7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开](https://www.qbitai.com/2026/09/489227.html)
 - 黑海洋
+  - [中国应届毕业生求职难：就业市场饱和叠加人工智能冲击](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%BA%94%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E6%B1%82%E8%81%8C%E9%9A%BE-%E5%B0%B1%E4%B8%9A%E5%B8%82%E5%9C%BA%E9%A5%B1%E5%92%8C%E5%8F%A0%E5%8A%A0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB)
   - [索尼公布可升级安卓17的Xperia机型名单](https://blog.upx8.com/%E7%B4%A2%E5%B0%BC%E5%85%AC%E5%B8%83%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%AE%89%E5%8D%9317%E7%9A%84Xperia%E6%9C%BA%E5%9E%8B%E5%90%8D%E5%8D%95)
   - [美参议院酝酿AI监管立法：要求AI公司证明已采取安全措施防止伤害](https://blog.upx8.com/%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E9%85%9D%E9%85%BFAI%E7%9B%91%E7%AE%A1%E7%AB%8B%E6%B3%95-%E8%A6%81%E6%B1%82AI%E5%85%AC%E5%8F%B8%E8%AF%81%E6%98%8E%E5%B7%B2%E9%87%87%E5%8F%96%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD%E9%98%B2%E6%AD%A2%E4%BC%A4%E5%AE%B3)
   - [被诱骗为俄罗斯作战的亚洲人被视为“炮灰”，引发干预呼声](https://blog.upx8.com/%E8%A2%AB%E8%AF%B1%E9%AA%97%E4%B8%BA%E4%BF%84%E7%BD%97%E6%96%AF%E4%BD%9C%E6%88%98%E7%9A%84%E4%BA%9A%E6%B4%B2%E4%BA%BA%E8%A2%AB%E8%A7%86%E4%B8%BA-%E7%82%AE%E7%81%B0-%E5%BC%95%E5%8F%91%E5%B9%B2%E9%A2%84%E5%91%BC%E5%A3%B0)
