@@ -1,23 +1,52 @@
 # 今日安全资讯（2026-09-16）
 
+- Articles | InfoStealers
+  - [Revolut Hackers Used Infostealers for Elaborate Social Engineering](https://www.infostealers.com/article/revolut-hackers-used-infostealers-for-elaborate-social-engineering/)
+- CoinTelegraph
+  - [Binance adds 11 US-listed ETFs to wealth management offering](https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official](https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple](https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event)
 - darkreading
   - [VectraRAT Can Hack Windows Enterprises for $250 per Month](https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises)
+- Emergent Minds | paddo.dev
+  - [Copying Homework: The CISA Distillation Advisory Is the Beam Under the Pacing Plan](https://paddo.dev/blog/copying-homework/)
 - Google AI Blog
   - [AI for everyone in every language](https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/)
   - [Building AI to accelerate science and improve lives](https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/)
+- Google DeepMind Blog
+  - [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/)
 - Hacker News Frontpage
+  - [Dystopian Surveillance Is Becoming a Reality](https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality)
+  - [GEFS on OpenBSD: A Early Preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
   - [Splash-free urinals: Design through physics and differential equations](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745)
+  - [Why Personal Websites Are Coming Back](https://deadparrotbbs.com/why-personal-websites-are-coming-back/)
+- MIT Technology Review
+  - [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)
 - TechCrunch
+  - [AI agents now have a place to snitch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/)
   - [Health benefits platform Thatch reaches $1B valuation as healthcare costs surge](https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/)
   - [Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far](https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/)
+  - [US military confirms it launched space weapons into Earth’s orbit](https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/)
+- The Block
+  - [DOJ charges Robinhood engineers with front-running crypto listings on Hyperliquid](https://www.theblock.co/news/regulation/2026-09-15-doj-charges-robinhood-engineers-front-running-crypto-listings-hyperliquid-414865)
+  - [Sen. Elizabeth Warren says she wants a crypto bill, but the Clarity Act just isn’t it](https://www.theblock.co/news/regulation/2026-09-15-sen-elizabeth-warren-says-she-wants-a-crypto-bill-but-the-clarity-act-just-isnt-it-414869)
+- The Decoder
+  - [AI labs have a data trust problem that their policies haven't solved](https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/)
 - The Verge
   - [How The Oregon Trail became a generational icon](https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon)
+  - [One of the best 3D printers for beginners is almost $100 off](https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale)
   - [Vintage Violence is an absurdist crime thriller for phone addicts](https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Before You Patch. Why Patch Reliability Matters for Confident Deployment](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
   - [CVE-2026-89022 BookStack < 26.05.5 Authentication Bypass via Social Login Provider Confusion](https://vulners.com/cve/CVE-2026-89022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89022 BookStack < 26.05.5 Authentication Bypass via Social Login Provider Confusion](https://vulners.com/cvelist/CVELIST:CVE-2026-89022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91853 TOTOLINK X5000R Export Ovpn cstecgi.cgi exportOvpn os command injection](https://vulners.com/cve/CVE-2026-91853?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91853 TOTOLINK X5000R Export Ovpn cstecgi.cgi exportOvpn os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-91853?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ps4-goldhen-linux-host](https://vulners.com/githubexploit/A4B46A67-8B29-59AE-AFAC-F08984CBDCDB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards](https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/)
+  - [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
