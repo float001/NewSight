@@ -6,8 +6,10 @@
   - [macOS 的 dock 栏有点不好用](https://2libra.com/post/recommendations/BhR3yKk)
   - [【💰】求显示器推荐](https://2libra.com/post/computers-accessories/mDn_rb1)
   - [【💰】终于抽到混沌徽章了，哈哈](https://2libra.com/post/forum-function/ABxsPxz)
+  - [【💰】行车记录仪推荐](https://2libra.com/post/ask-recommendation/GtHEaYf)
   - [一毛一样！我居然全部中枪。。。 🤡🤡🤡](https://2libra.com/post/personal-life/tUpsiBT)
   - [为什么没有八字交流的帖子，像我这种重度爱好者在这个论坛有点寂寞了，](https://2libra.com/post/idea/BFTCuk9)
+  - [你们有没有对 AI 发过火，就是骂它](https://2libra.com/post/ai-emotion-guard/W8aX8eW)
   - [出门在外注意安全，少低头看手机，少去人多的地方](https://2libra.com/post/social-observation/MXY38QF)
   - [左手小鱼际没有擦伤没有伤口，却有擦伤一样的疼](https://2libra.com/post/health-consultation/ByWW1P5)
   - [想起以前的电脑桌，键盘是隐藏在抽屉里的，打字的时候要抽出来](https://2libra.com/post/personal-life/csXr0f2)
@@ -77,6 +79,8 @@
   - [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/)
 - NowSecure
   - [NowSecure Platform Delivers Day-One iOS 27 Security Testing](https://www.nowsecure.com/blog/2026/09/14/nowsecure-platform-delivers-day-one-ios-27-security-testing/)
+- pluralistic.net
+  - [Pluralistic: Everybody pees (15 Sep 2026)](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/)
 - rtl-sdr.com
   - [FoxSDR: A From-Scratch Software-Defined Radio Receiver for Windows](https://www.rtl-sdr.com/foxsdr-a-from-scratch-software-defined-radio-receiver-for-windows/)
   - [SDR–: A Software-Defined Radio Application with Visual Signal Path](https://www.rtl-sdr.com/sdr-a-software-defined-radio-application-with-visual-signal-path/)
@@ -361,6 +365,7 @@
   - [NVIDIA中国开发者日定档10月苏州，现场设认证考试与黑客松决赛](https://www.solidot.org/story?sid=85379)
   - [Windows 11 的 9 月例行安全更新再次引发了大量故障](https://www.solidot.org/story?sid=85378)
   - [XCancel 服务再次下线](https://www.solidot.org/story?sid=85377)
+  - [科学家演示水下太阳能电池](https://www.solidot.org/story?sid=85381)
 - 安全客
   - [AI已经开始自动打你了：Anthropic捅破窗户纸，黑客用Claude实现"检测即重生"](https://www.anquanke.com/post/id/316098)
   - [红队两周的活，AI十小时干完：全球首例多智能体勒索攻击实录](https://www.anquanke.com/post/id/316103)
