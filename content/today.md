@@ -26,6 +26,7 @@
   - [Balancer eyes wind-down after restructuring fails to revive revenue](https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin tops $79K, oil falls as Trump says Iran war could end](https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CLARITY Act faces state AGs opposition ahead of key Senate vote](https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer](https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction](https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico](https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -75,6 +76,9 @@
 - simonwillison.net
   - [The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/)
   - [What blog posts influenced your thinking the most?](https://simonwillison.net/2026/Sep/14/influences/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Deserialization of Untrusted Data in Pdfminer Pdfminer.Six](https://sploitus.com/exploit?id=2C5EE6B1-4EA4-56C2-B3A5-2F46BB25E2C3&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Access Control in Widgetfactorylimited Jce](https://sploitus.com/exploit?id=D3C53CF3-C170-5845-9E21-4C0AF78DD841&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance](https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/)
   - [Amazon Prime Video takes on TikTok with short-form news clips](https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/)
@@ -88,6 +92,7 @@
   - [Volkswagen’s crazy-efficient EV borrows an idea from Slate](https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/)
   - [With iOS 27, I’m actually using Siri again](https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/)
 - The Block
+  - [Balancer proposes winding down protocol and distributing treasury to BAL holders](https://www.theblock.co/news/defi/2026-09-15-balancer-proposes-winding-down-414782)
   - [Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips](https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660)
   - [Ethereum, Base developers abandon effort to align account abstraction proposals](https://www.theblock.co/news/ecosystems/2026-09-15-ethereum-base-account-abstraction-proposals-414775)
   - [Robinhood Chain’s rapid growth is being driven by 4 key factors, analyst says](https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687)
@@ -337,6 +342,8 @@
   - [早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预](https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开](https://www.qbitai.com/2026/09/489227.html)
+  - [9月21日，深圳前海！聊聊工业AI与生态共创的下一步](https://www.qbitai.com/2026/09/489277.html)
+  - [前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了](https://www.qbitai.com/2026/09/489288.html)
 - 黑海洋
   - [中国应届毕业生求职难：就业市场饱和叠加人工智能冲击](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%BA%94%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E6%B1%82%E8%81%8C%E9%9A%BE-%E5%B0%B1%E4%B8%9A%E5%B8%82%E5%9C%BA%E9%A5%B1%E5%92%8C%E5%8F%A0%E5%8A%A0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB)
   - [索尼公布可升级安卓17的Xperia机型名单](https://blog.upx8.com/%E7%B4%A2%E5%B0%BC%E5%85%AC%E5%B8%83%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%AE%89%E5%8D%9317%E7%9A%84Xperia%E6%9C%BA%E5%9E%8B%E5%90%8D%E5%8D%95)
