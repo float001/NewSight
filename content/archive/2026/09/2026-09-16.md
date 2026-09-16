@@ -39,6 +39,7 @@
   - [LAST CALL FOR ENROLLMENT: Build with Claude Code](https://blog.bytebytego.com/p/last-call-for-enrollment-build-with-d63)
 - CoinTelegraph
   - [AI has been a ‘net negative’ for crypto: Phemex CEO](https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure](https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance adds 11 US-listed ETFs to wealth management offering](https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BIS paper finds major gap in Bitcoin onchain transfer estimates](https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand](https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -103,6 +104,7 @@
   - [Zero-Day Flaw in TP-Link Cameras Enables Eavesdropping](https://www.infosecurity-magazine.com/news/zeroday-tplink-cameras/)
 - MIT Technology Review
   - [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)
+  - [The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/)
 - NVIDIA AI Blog
   - [‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce](https://blogs.nvidia.com/blog/jensen-huang-dreamforce/)
 - pluralistic.net
@@ -149,6 +151,7 @@
 - TechCrunch
   - [AI agents now have a place to snitch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/)
   - [Amazon launches Alexa+ in India with Hindi support](https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/)
+  - [Clean tech startup Fluxnium found a way to tap 50,000 years worth of nuclear fuel](https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/)
   - [Health benefits platform Thatch reaches $1B valuation as healthcare costs surge](https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/)
   - [Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far](https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/)
   - [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/)
@@ -159,6 +162,7 @@
   - [US military confirms it launched space weapons into Earth’s orbit](https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/)
   - [We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/)
 - The Block
+  - [Bernstein says Clarity Act failure allows stablecoin rewards on idle balances to continue, expects ‘swift’ SEC and CFTC rulemaking](https://www.theblock.co/news/regulation/2026-09-16-bernstein-says-clarity-act-failure-allows-stablecoin-rewards-on-idle-balances-to-continue-expects-swift-sec-and-cftc-rulemaking-415263)
   - [Circle launches Arc mainnet with BlackRock and Visa among validators, mints 10 billion ARC tokens](https://www.theblock.co/news/ecosystems/2026-09-16-circle-launches-arc-mainnet-with-blackrock-and-visa-among-validators-mints-10-billion-arc-tokens-415250)
   - [Clarity Act preliminary vote falls short in Senate amid ethics fight over Trump’s crypto wealth](https://www.theblock.co/news/regulation/2026-09-15-clarity-act-preliminary-vote-falls-short-in-senate-amid-ethics-fight-over-trumps-crypto-wealth-415010)
   - [Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe](https://www.theblock.co/news/business/2026-09-16-deutsche-bank-plans-bitcoin-ether-custody-for-institutional-clients-in-europe-415251)
@@ -235,6 +239,10 @@
   - [CVE-2026-39039](https://vulners.com/nvd/NVD:CVE-2026-39039?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39040](https://vulners.com/nvd/NVD:CVE-2026-39040?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40058](https://vulners.com/nvd/NVD:CVE-2026-40058?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40854](https://vulners.com/nvd/NVD:CVE-2026-40854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40855](https://vulners.com/nvd/NVD:CVE-2026-40855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40856](https://vulners.com/nvd/NVD:CVE-2026-40856?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-40857](https://vulners.com/nvd/NVD:CVE-2026-40857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44300](https://vulners.com/nvd/NVD:CVE-2026-44300?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45579](https://vulners.com/nvd/NVD:CVE-2026-45579?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48785](https://vulners.com/nvd/NVD:CVE-2026-48785?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -261,6 +269,8 @@
   - [CVE-2026-56831](https://vulners.com/nvd/NVD:CVE-2026-56831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57441](https://vulners.com/nvd/NVD:CVE-2026-57441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57442](https://vulners.com/nvd/NVD:CVE-2026-57442?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58146](https://vulners.com/nvd/NVD:CVE-2026-58146?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58147](https://vulners.com/nvd/NVD:CVE-2026-58147?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58483](https://vulners.com/nvd/NVD:CVE-2026-58483?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58485](https://vulners.com/nvd/NVD:CVE-2026-58485?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58502](https://vulners.com/nvd/NVD:CVE-2026-58502?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -408,6 +418,8 @@
   - [CVE-2026-87907](https://vulners.com/nvd/NVD:CVE-2026-87907?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87959](https://vulners.com/nvd/NVD:CVE-2026-87959?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88263](https://vulners.com/nvd/NVD:CVE-2026-88263?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88817 Privilege escalation via legacy access group creation endpoint](https://vulners.com/cve/CVE-2026-88817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88817 Privilege escalation via legacy access group creation endpoint](https://vulners.com/cvelist/CVELIST:CVE-2026-88817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88910](https://vulners.com/nvd/NVD:CVE-2026-88910?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89022 BookStack < 26.05.5 Authentication Bypass via Social Login Provider Confusion](https://vulners.com/cve/CVE-2026-89022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89022 BookStack < 26.05.5 Authentication Bypass via Social Login Provider Confusion](https://vulners.com/cvelist/CVELIST:CVE-2026-89022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -434,6 +446,16 @@
   - [CVE-2026-92299](https://vulners.com/nvd/NVD:CVE-2026-92299?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92355](https://vulners.com/nvd/NVD:CVE-2026-92355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92358](https://vulners.com/nvd/NVD:CVE-2026-92358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92455](https://vulners.com/nvd/NVD:CVE-2026-92455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92456](https://vulners.com/nvd/NVD:CVE-2026-92456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92457](https://vulners.com/nvd/NVD:CVE-2026-92457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92458](https://vulners.com/nvd/NVD:CVE-2026-92458?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92459](https://vulners.com/nvd/NVD:CVE-2026-92459?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92460](https://vulners.com/nvd/NVD:CVE-2026-92460?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92461](https://vulners.com/nvd/NVD:CVE-2026-92461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92462](https://vulners.com/nvd/NVD:CVE-2026-92462?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92463](https://vulners.com/nvd/NVD:CVE-2026-92463?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92465](https://vulners.com/nvd/NVD:CVE-2026-92465?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ps4-goldhen-linux-host](https://vulners.com/githubexploit/A4B46A67-8B29-59AE-AFAC-F08984CBDCDB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [7 Best Android Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
@@ -461,6 +483,7 @@
   - [envocabulary v1.0.5](https://buaq.net/go-442695.html)
   - [Frugal Radio: A Six SDR Setup with KrakenSDR and SDRplay for ADSB, ACARS, VDL2, P25](https://buaq.net/go-442678.html)
   - [Ghostwriter v7.3.0-rc1](https://buaq.net/go-442680.html)
+  - [I need to bypass admin rights and admin powers](https://buaq.net/go-442796.html)
   - [InjectEave: Eavesdropping on Headphones by Injecting a Carrier and Listening to the Modulated Retransmission](https://buaq.net/go-442691.html)
   - [OpenAI莉莉计划曝光：有数百名外包员工阅读ChatGPT对话 隐私过滤并不彻底](https://buaq.net/go-442685.html)
   - [OpenShell](https://buaq.net/go-442747.html)
@@ -476,6 +499,7 @@
 - 安全客
   - [Cisco邮件网关9.8分漏洞被在野利用：一封邮件直接拿root，没有任何绕过的余地](https://www.anquanke.com/post/id/316111)
 - 爱范儿
+  - [iPhone 18 Pro & Duo 首发评测，提升最大的是「充电」和这个…](https://www.ifanr.com/1680407?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [vivo Buds Clip 体验：42 小时续航的无感佩戴，音质好也舒服](https://www.ifanr.com/1680291?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3万/鸿蒙智行确认问界合作调整，赛力斯主导](https://www.ifanr.com/1680293?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
