@@ -42,6 +42,7 @@
   - [Binance adds 11 US-listed ETFs to wealth management offering](https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BIS paper finds major gap in Bitcoin onchain transfer estimates](https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand](https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Circle launches Arc mainnet with USDC as native gas token](https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto industry turns to US regulators after CLARITY setback](https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto stocks slide after CLARITY Act fails to advance in Senate](https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions](https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -51,6 +52,7 @@
   - [Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official](https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US charges ex-Robinhood engineers over alleged pre-listing crypto trades](https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Senate fails to advance CLARITY Act](https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Zcash holders back 25-second blocks, vote to keep ZEC halving schedule](https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Italy investigates government email breach linked to Revolut data leak](https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -78,6 +80,7 @@
 - Google DeepMind Blog
   - [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/)
 - Hacker News Frontpage
+  - [Devastated father says his 9-year-old son spent $118,000 on YouTube ads](https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion)
   - [Dystopian Surveillance Is Becoming a Reality](https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality)
   - [GEFS on OpenBSD: A Early Preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
   - [How AI tool calling works (40 lines of vanilla JavaScript)](https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html)
@@ -85,6 +88,7 @@
   - [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
   - [Splash-free urinals: Design through physics and differential equations](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745)
   - [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
+  - [The Google Play app review process now regularly takes longer than a week](https://gultsch.social/@daniel/117280438824908947)
   - [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover)
   - [Why Personal Websites Are Coming Back](https://deadparrotbbs.com/why-personal-websites-are-coming-back/)
 - HackerNoon
@@ -110,6 +114,8 @@
   - [InjectEave: Eavesdropping on Headphones by Injecting a Carrier and Listening to the Modulated Retransmission](https://www.rtl-sdr.com/injecteave-eavesdropping-on-headphones-by-injecting-a-carrier-and-listening-to-the-modulated-retransmission/)
 - Securelist
   - [NightEagle targets Russian companies](https://securelist.com/tr/nighteagle-apt-ghostcontainer-and-tunneling/121323/)
+- shkspr.mobi
+  - [How to get a DOI for your blog posts](https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/)
 - Sploitus.com Exploits RSS Feed
   - [Arecibo exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TARLOGICSECURITY-ARECIBO&utm_source=rss&utm_medium=rss)
   - [atlant-harden exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ATLANTSECURITY-ATLANT-HARDEN&utm_source=rss&utm_medium=rss)
@@ -430,6 +436,8 @@
   - [CVE-2026-92358](https://vulners.com/nvd/NVD:CVE-2026-92358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ps4-goldhen-linux-host](https://vulners.com/githubexploit/A4B46A67-8B29-59AE-AFAC-F08984CBDCDB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [7 Best Android Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+  - [Apple iPhone 18 Pro and iPhone 18 Pro Max Review: For Camera Fiends](https://www.wired.com/review/apple-iphone-18-pro-and-iphone-18-pro-max/)
   - [Boox Launches the Palma 3 E-Reader](https://www.wired.com/story/boox-palma-3-announced/)
   - [Bose Promo Code: 40% Off for September 2026](https://www.wired.com/story/bose-coupon-code/)
   - [Chegg Coupon Codes September 2026: Save on Study, Textbooks, & More](https://www.wired.com/story/chegg-coupon-code/)
@@ -455,6 +463,7 @@
   - [Ghostwriter v7.3.0-rc1](https://buaq.net/go-442680.html)
   - [InjectEave: Eavesdropping on Headphones by Injecting a Carrier and Listening to the Modulated Retransmission](https://buaq.net/go-442691.html)
   - [OpenAI莉莉计划曝光：有数百名外包员工阅读ChatGPT对话 隐私过滤并不彻底](https://buaq.net/go-442685.html)
+  - [OpenShell](https://buaq.net/go-442747.html)
   - [Osintgram v2.0](https://buaq.net/go-442694.html)
   - [Rubrics-as-an-Attack-Surface](https://buaq.net/go-442670.html)
   - [vpod v0.8.4](https://buaq.net/go-442722.html)
@@ -462,6 +471,8 @@
   - [火狐浏览器v156.0版发布 新的IDCT缩放功能可以加快JPEG图像解码速度并降低内存占用](https://buaq.net/go-442672.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [FAST 发现极短周期、最轻双中子星系统](https://www.solidot.org/story?sid=85396)
 - 安全客
   - [Cisco邮件网关9.8分漏洞被在野利用：一封邮件直接拿root，没有任何绕过的余地](https://www.anquanke.com/post/id/316111)
 - 爱范儿
