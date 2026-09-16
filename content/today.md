@@ -6,37 +6,52 @@
   - [VU#369093: MLflow dspy and statsmodels flavors bypass pickle deserialization control](https://kb.cert.org/vuls/id/369093)
 - Chainalysis Blog
   - [Chainalysis Supports Arc with Automatic Token Support](https://www.chainalysis.com/blog/chainalysis-supports-arc-with-automatic-token-support/)
+- daringfireball.net
+  - [Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork](https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/)
 - darkreading
   - [BragJack Attack Can Turn a Browser's Agentic AI Against It](https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai)
 - Fidelis Security
   - [What to Do First in an Incident Response Investigation](https://fidelissecurity.com/threatgeek/threat-detection-response/incident-response-investigation-initial-steps/)
 - Hacker News Frontpage
   - [Code Is Crap](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
+  - [We've created the first vectorized Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 - Horizon3.ai
   - [CISO’s CTEM Evaluation Checklist](https://horizon3.ai/downloads/factsheets/ciso-ctem-evaluation-checklist/)
   - [CTEM Technology Evaluation Scorecard](https://horizon3.ai/downloads/factsheets/ctem-technology-evaluation-scorecard/)
 - IEEE Spectrum
   - [Rethinking Robot Safety in the Age of AI](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone)
+- krebsonsecurity.com
+  - [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
 - OpenAI Blog
   - [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
+- simonwillison.net
+  - [Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=AEC327B9-1922-59D9-A6E4-F17826FB024A&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [AI labs want in-house auditors — but maybe they should shut the front door first](https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/)
   - [Anthropic merges Claude chat and Cowork in one interface](https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/)
+  - [Former Waymo CFO jumps to self-driving startup Wayve](https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/)
   - [Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database](https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/)
   - [Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/)
+  - [Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/)
   - [Your AI agents can now control your Google Home devices](https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/)
 - The Block
   - [Aave founder pitches ‘Uber path’ for DeFi after Clarity Act fails Senate vote](https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278)
   - [House panel approves first federal crypto tax framework, one day after Senate’s Clarity Act stumbles](https://www.theblock.co/news/regulation/2026-09-16-house-panel-approves-first-federal-crypto-tax-framework-one-day-after-senates-clarity-act-stumbles-415293)
   - [JPMorgan says Clarity Act ‘not fully dead,’ but passage window ‘extremely narrow’](https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280)
+  - [‘Go time’: SEC, CFTC prepare to push crypto rules as Clarity Act stalls in Senate](https://www.theblock.co/news/regulation/2026-09-16-go-time-sec-cftc-prepare-push-crypto-rules-clarity-act-stalls-senate-415281)
 - The Decoder
   - [Anthropic merges Claude Chat, Cowork, and more into a single product](https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/)
+  - [Apple is reportedly building an enterprise AI server with its own M8 Ultra chips](https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/)
+  - [EU president warns AI agents "escaping their environment" are just a preview of what's coming](https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/)
   - [Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI](https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/)
 - The Verge
   - [Apple might make servers again to cash in on the AI rush](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia)
   - [Claude comes for Gemini with its own take on Docs and Slides](https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides)
   - [Google will now let any AI agent run your smart home](https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date)
+  - [Resident Evil is a comedy first and a thrilling nightmare second](https://www.theverge.com/entertainment/996416/resident-zach-cregger-review)
+  - [Walmart takes a bite off the cost of Metroid Ravenous physical preorders](https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale)
   - [Your ‘health age’ is fake](https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity)
 - Vulners.com RSS Feed
   - [CVE-2025-43936](https://vulners.com/nvd/NVD:CVE-2025-43936?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -50,6 +65,7 @@
   - [CVE-2026-59974 Stanza: Zip Slip Path Traversal in Model/Resource Extraction](https://vulners.com/cvelist/CVELIST:CVE-2026-59974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61593](https://vulners.com/nvd/NVD:CVE-2026-61593?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61595](https://vulners.com/nvd/NVD:CVE-2026-61595?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63126 Wire: Unauthenticated decoder crash via 32-bit length integer overflow in ByteArrayProtoReader32 (incomplete fix of CVE-2026-45799)](https://vulners.com/cvelist/CVELIST:CVE-2026-63126?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-69200 node-opcua: Prototype Pollution via internal `fieldsToJson()` implementation (Related to CVE-2024-57086)](https://vulners.com/cve/CVE-2026-69200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-69200 node-opcua: Prototype Pollution via internal `fieldsToJson()` implementation (Related to CVE-2024-57086)](https://vulners.com/cvelist/CVELIST:CVE-2026-69200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70416](https://vulners.com/nvd/NVD:CVE-2026-70416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -65,10 +81,13 @@
   - [CVE-2026-92397](https://vulners.com/nvd/NVD:CVE-2026-92397?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92399 GPAC WebSocket rmt_ws.c rmt_client_handle_ws_frame heap-based overflow](https://vulners.com/cve/CVE-2026-92399?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92399 GPAC WebSocket rmt_ws.c rmt_client_handle_ws_frame heap-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-92399?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92418 ChangeWeDer crm Save Endpoint customer.serve.js cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-92418?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92615](https://vulners.com/nvd/NVD:CVE-2026-92615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92625](https://vulners.com/nvd/NVD:CVE-2026-92625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92626](https://vulners.com/nvd/NVD:CVE-2026-92626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92627](https://vulners.com/nvd/NVD:CVE-2026-92627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [The Best Movies to Stream This Month (September 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
