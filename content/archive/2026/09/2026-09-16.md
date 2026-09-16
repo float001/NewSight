@@ -31,6 +31,7 @@
   - [Crypto stocks slide after CLARITY Act fails to advance in Senate](https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official](https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US charges ex-Robinhood engineers over alleged pre-listing crypto trades](https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Senate fails to advance CLARITY Act](https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [A Security Checklist for AI-Assisted 3D Asset Pipelines](https://cyberkendra.com/2026/09/a-security-checklist-for-ai-assisted-3d.html)
@@ -69,6 +70,7 @@
 - rtl-sdr.com
   - [Bluewatch: Detecting new Bluetooth Devices in your Neighbourhood via a Raspberry Pi](https://www.rtl-sdr.com/bluewatch-detecting-new-bluetooth-devices-in-your-neighbourhood-via-a-raspberry-pi/)
   - [Frugal Radio: A Six SDR Setup with KrakenSDR and SDRplay for ADSB, ACARS, VDL2, P25](https://www.rtl-sdr.com/frugal-radio-a-six-sdr-setup-with-krakensdr-and-sdrplay-for-adsb-acars-vdl2-p25/)
+  - [InjectEave: Eavesdropping on Headphones by Injecting a Carrier and Listening to the Modulated Retransmission](https://www.rtl-sdr.com/injecteave-eavesdropping-on-headphones-by-injecting-a-carrier-and-listening-to-the-modulated-retransmission/)
 - Sploitus.com Exploits RSS Feed
   - [Arecibo exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TARLOGICSECURITY-ARECIBO&utm_source=rss&utm_medium=rss)
   - [atlant-harden exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ATLANTSECURITY-ATLANT-HARDEN&utm_source=rss&utm_medium=rss)
@@ -285,14 +287,25 @@
   - [CVE-2026-92299](https://vulners.com/nvd/NVD:CVE-2026-92299?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ps4-goldhen-linux-host](https://vulners.com/githubexploit/A4B46A67-8B29-59AE-AFAC-F08984CBDCDB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Bose Promo Code: 40% Off for September 2026](https://www.wired.com/story/bose-coupon-code/)
+  - [Chegg Coupon Codes September 2026: Save on Study, Textbooks, & More](https://www.wired.com/story/chegg-coupon-code/)
+  - [Naturepedic Promo Codes: Get 20% Off Plus Free Pillows](https://www.wired.com/story/naturepedic-promo-code/)
+  - [Office Depot Coupons: $20 Off September 2026](https://www.wired.com/story/office-depot-promo-codes/)
+  - [OnePlus Promo Codes: 30% Off September 2026](https://www.wired.com/story/oneplus-promo-code/)
+  - [Rover Promo Codes and Referral Deals for 2026](https://www.wired.com/story/rover-promo-code/)
+  - [Sam's Club Promo Codes and Membership Deals for September 2026](https://www.wired.com/story/sams-club-coupon/)
   - [The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards](https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/)
+  - [Walmart Promo Codes: 20% Off for September 2026](https://www.wired.com/story/top-walmart-promo-codes/)
   - [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/)
 - 不安全
   - [A IDA CLI tool: agent first & stateless & batch processing.](https://buaq.net/go-442676.html)
   - [Bluewatch: Detecting new Bluetooth Devices in your Neighbourhood via a Raspberry Pi](https://buaq.net/go-442677.html)
+  - [envocabulary v1.0.5](https://buaq.net/go-442695.html)
   - [Frugal Radio: A Six SDR Setup with KrakenSDR and SDRplay for ADSB, ACARS, VDL2, P25](https://buaq.net/go-442678.html)
   - [Ghostwriter v7.3.0-rc1](https://buaq.net/go-442680.html)
+  - [InjectEave: Eavesdropping on Headphones by Injecting a Carrier and Listening to the Modulated Retransmission](https://buaq.net/go-442691.html)
   - [OpenAI莉莉计划曝光：有数百名外包员工阅读ChatGPT对话 隐私过滤并不彻底](https://buaq.net/go-442685.html)
+  - [Osintgram v2.0](https://buaq.net/go-442694.html)
   - [Rubrics-as-an-Attack-Surface](https://buaq.net/go-442670.html)
   - [孩子手机玩太久怎么办？iOS 27 带来更强的儿童安全与家长控制](https://buaq.net/go-442679.html)
   - [火狐浏览器v156.0版发布 新的IDCT缩放功能可以加快JPEG图像解码速度并降低内存占用](https://buaq.net/go-442672.html)
@@ -300,3 +313,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3万/鸿蒙智行确认问界合作调整，赛力斯主导](https://www.ifanr.com/1680293?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [量子位2026人工智能年度榜单，正式启动！](https://www.qbitai.com/2026/09/490329.html)
