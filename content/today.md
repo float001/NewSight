@@ -6,6 +6,7 @@
   - [【💰】潘多拉能获取哪些徽章呢](https://2libra.com/post/forum-function/LFC2Cow)
   - [【💰】经过不懈努力的签到，终于轮到我了，卡皮巴拉](https://2libra.com/post/forum-function/_mUvocT)
   - [【💰】训记 app 的训练数据分析工具，迁移到小程序啦](https://2libra.com/post/personal-works/lzlhMeO)
+  - [万物皆可萌！DeepSeek 肥鲸娘～ 🐳🐳🐳](https://2libra.com/post/large-models/LtMxjxF)
   - [今天可以开始抢国庆的票了，大家想好去哪里了吗？](https://2libra.com/post/places-ive-been/rYF0TPW)
   - [卡皮巴拉空降成功](https://2libra.com/post/forum-function/Nd1W8FD)
   - [又没抢到票，大家有啥好办法吗？](https://2libra.com/post/local-life/ch7iB2i)
@@ -68,6 +69,7 @@
 - NVIDIA AI Blog
   - [‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce](https://blogs.nvidia.com/blog/jensen-huang-dreamforce/)
 - rtl-sdr.com
+  - [Automating Indoor RF Heatmapping with a PlutoSDR, Raspberry Pi 5 and LiDAR SLAM](https://www.rtl-sdr.com/automating-indoor-rf-heatmapping-with-a-plutosdr-raspberry-pi-5-and-lidar-slam/)
   - [Bluewatch: Detecting new Bluetooth Devices in your Neighbourhood via a Raspberry Pi](https://www.rtl-sdr.com/bluewatch-detecting-new-bluetooth-devices-in-your-neighbourhood-via-a-raspberry-pi/)
   - [Frugal Radio: A Six SDR Setup with KrakenSDR and SDRplay for ADSB, ACARS, VDL2, P25](https://www.rtl-sdr.com/frugal-radio-a-six-sdr-setup-with-krakensdr-and-sdrplay-for-adsb-acars-vdl2-p25/)
   - [InjectEave: Eavesdropping on Headphones by Injecting a Carrier and Listening to the Modulated Retransmission](https://www.rtl-sdr.com/injecteave-eavesdropping-on-headphones-by-injecting-a-carrier-and-listening-to-the-modulated-retransmission/)
@@ -312,6 +314,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [vivo Buds Clip 体验：42 小时续航的无感佩戴，音质好也舒服](https://www.ifanr.com/1680291?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3万/鸿蒙智行确认问界合作调整，赛力斯主导](https://www.ifanr.com/1680293?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [量子位2026人工智能年度榜单，正式启动！](https://www.qbitai.com/2026/09/490329.html)
