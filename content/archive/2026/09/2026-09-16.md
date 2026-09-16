@@ -50,6 +50,7 @@
   - [ECB seeks online merchants for 2027 digital euro pilot](https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report](https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Revolut ID thefts highlight KYC’s dangers: Here’s how to fix it](https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official](https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US charges ex-Robinhood engineers over alleged pre-listing crypto trades](https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Senate fails to advance CLARITY Act](https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -68,6 +69,7 @@
   - [Microsoft Issues Emergency Fixes After Massive Patch Tuesday](https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday)
   - [VectraRAT Can Hack Windows Enterprises for $250 per Month](https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises)
 - Data Breach
+  - [Revolut Data Leak May Trace Back to Compromised Italian Government Accounts](https://securityaffairs.com/199180/data-breach/revolut-data-leak-may-trace-back-to-compromised-italian-government-accounts.html)
   - [Texas Utility CenterPoint Energy Confirms Data Breach After Hacker Claims 7.49M Records Stolen](https://securityaffairs.com/199170/data-breach/texas-utility-centerpoint-energy-confirms-data-breach-after-hacker-claims-7-49m-records-stolen.html)
 - defend.network
   - [Cisco SEG SQL injection joins KEV; Acronis Linux flaw exploited; banking malware targets browsers](https://defend.network/briefings/cisco-acronis-kremlin-malware-exploitation-2026-09-16.html)
@@ -98,6 +100,7 @@
   - [Time-Series Cardinality: Why One More Indexed Column Costs More Than a Million More Rows](https://hackernoon.com/time-series-cardinality-why-one-more-indexed-column-costs-more-than-a-million-more-rows?source=rss)
   - [What Happens After You Click Subscribe to an Algorithm?](https://hackernoon.com/what-happens-after-you-click-subscribe-to-an-algorithm?source=rss)
 - infosecurity-magazine.com
+  - [CISA and NIST Issue Guidance to Protect Cloud Identity Tokens](https://www.infosecurity-magazine.com/news/cisa-nist-cloud-identity-token/)
   - [Cyber-Attacks Cost Organizations $52,000 on Average](https://www.infosecurity-magazine.com/news/cyberattacks-cost-organizations/)
   - [Major Cyber Threat Detection Vendors Shift from MITRE to UK Testing Program](https://www.infosecurity-magazine.com/news/cyber-vendors-mitre-uk-testing/)
   - [NCSC and Allies Warn of Iranian Spyware Campaign](https://www.infosecurity-magazine.com/news/ncsc-allies-warn-iranian-chosen/)
@@ -149,12 +152,14 @@
   - [tfsec exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KNQYF263-AQUA-CHECKSUMS&utm_source=rss&utm_medium=rss)
   - [WebDavC2 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ARNO0X-WEBDAVC2&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/)
   - [AI agents now have a place to snitch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/)
   - [Amazon launches Alexa+ in India with Hindi support](https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/)
   - [Clean tech startup Fluxnium found a way to tap 50,000 years worth of nuclear fuel](https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/)
   - [Health benefits platform Thatch reaches $1B valuation as healthcare costs surge](https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/)
   - [Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far](https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/)
   - [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/)
+  - [SK Hynix reportedly in talks with Intel to build memory chips in US](https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/)
   - [SpaceX will try to put Starship in orbit for the first time on September 22](https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/)
   - [The AI data center boom is colliding with cities scarred by big industry](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/)
   - [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
@@ -480,6 +485,7 @@
   - [A IDA CLI tool: agent first & stateless & batch processing.](https://buaq.net/go-442676.html)
   - [bithoven v0.1.0](https://buaq.net/go-442731.html)
   - [Bluewatch: Detecting new Bluetooth Devices in your Neighbourhood via a Raspberry Pi](https://buaq.net/go-442677.html)
+  - [bombini](https://buaq.net/go-442800.html)
   - [envocabulary v1.0.5](https://buaq.net/go-442695.html)
   - [Frugal Radio: A Six SDR Setup with KrakenSDR and SDRplay for ADSB, ACARS, VDL2, P25](https://buaq.net/go-442678.html)
   - [Ghostwriter v7.3.0-rc1](https://buaq.net/go-442680.html)
