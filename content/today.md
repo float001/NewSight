@@ -1,6 +1,13 @@
 # 今日安全资讯（2026-09-16）
 
 - 2Libra
+  - [iOS27 中 AirPods 支持自定均衡器设置，有点爽啊](https://2libra.com/post/apple/LbxF22N)
+  - [今天可以开始抢国庆的票了，大家想好去哪里了吗？](https://2libra.com/post/places-ive-been/rYF0TPW)
+  - [卡皮巴拉空降成功](https://2libra.com/post/forum-function/Nd1W8FD)
+  - [又没抢到票，大家有啥好办法吗？](https://2libra.com/post/local-life/ch7iB2i)
+  - [声物记 v1.1.0：一款完全离线的安卓语音物品管理 + 闪念胶囊 App](https://2libra.com/post/android/uq1_4hW)
+  - [大家帮我看看这几个套餐实惠吗](https://2libra.com/post/recommendations/1aUt62N)
+  - [好耶 我的头像动起来啦](https://2libra.com/post/forum-function/O5-aMDi)
   - [有时候做好自己不用想那么多](https://2libra.com/post/touch-fish/4cbCRxr)
 - 404 Media
   - [AI Agent Platform Reinvents Spam, Floods Inboxes Worldwide](https://www.404media.co/ai-agent-platform-reinvents-spam-floods-inboxes-worldwide/)
@@ -75,6 +82,7 @@
   - [Platypus exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WANGYIHANG-PLATYPUS&utm_source=rss&utm_medium=rss)
   - [probequest exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SKYPLABS-PROBEQUEST&utm_source=rss&utm_medium=rss)
   - [pyrasite exploit](https://sploitus.com/exploit?id=KITPLOIT:4860839542045101074&utm_source=rss&utm_medium=rss)
+  - [SQLi_PW exploit](https://sploitus.com/exploit?id=BDBA9E71-4E47-5117-BC75-3D9B5558412F&utm_source=rss&utm_medium=rss)
   - [tfsec exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KNQYF263-AQUA-CHECKSUMS&utm_source=rss&utm_medium=rss)
   - [WebDavC2 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ARNO0X-WEBDAVC2&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -101,6 +109,7 @@
   - [How The Oregon Trail became a generational icon](https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon)
   - [Kia’s electric van lineup is getting more interesting with reveal of PV7](https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale)
   - [One of the best 3D printers for beginners is almost $100 off](https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale)
+  - [The Boox Palma 3 gets stylus support and a sleek redesign](https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16)
   - [The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization](https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability)
   - [Vintage Violence is an absurdist crime thriller for phone addicts](https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster)
   - [What if social media isn’t hurting kids?](https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt)
@@ -259,6 +268,7 @@
   - [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/)
 - 不安全
   - [Rubrics-as-an-Attack-Surface](https://buaq.net/go-442670.html)
+  - [火狐浏览器v156.0版发布 新的IDCT缩放功能可以加快JPEG图像解码速度并降低内存占用](https://buaq.net/go-442672.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
