@@ -2,6 +2,7 @@
 
 - 2Libra
   - [iOS27 中 AirPods 支持自定均衡器设置，有点爽啊](https://2libra.com/post/apple/LbxF22N)
+  - [【💰】经过不懈努力的签到，终于轮到我了，卡皮巴拉](https://2libra.com/post/forum-function/_mUvocT)
   - [今天可以开始抢国庆的票了，大家想好去哪里了吗？](https://2libra.com/post/places-ive-been/rYF0TPW)
   - [卡皮巴拉空降成功](https://2libra.com/post/forum-function/Nd1W8FD)
   - [又没抢到票，大家有啥好办法吗？](https://2libra.com/post/local-life/ch7iB2i)
@@ -20,6 +21,7 @@
 - CoinTelegraph
   - [Binance adds 11 US-listed ETFs to wealth management offering](https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BIS paper finds major gap in Bitcoin onchain transfer estimates](https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto industry turns to US regulators after CLARITY setback](https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto stocks slide after CLARITY Act fails to advance in Senate](https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official](https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -28,6 +30,7 @@
   - [A Security Checklist for AI-Assisted 3D Asset Pipelines](https://cyberkendra.com/2026/09/a-security-checklist-for-ai-assisted-3d.html)
 - daringfireball.net
   - [FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’](https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1)
+  - [‘Apple Reference Image: A New Approach for Verified Photography’](https://security.apple.com/blog/apple-reference-image/)
   - [★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple](https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event)
 - darkreading
   - [Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident](https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk)
@@ -47,14 +50,19 @@
   - [Dystopian Surveillance Is Becoming a Reality](https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality)
   - [GEFS on OpenBSD: A Early Preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
   - [How AI tool calling works (40 lines of vanilla JavaScript)](https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html)
+  - [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
   - [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
   - [Splash-free urinals: Design through physics and differential equations](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745)
+  - [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
   - [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover)
   - [Why Personal Websites Are Coming Back](https://deadparrotbbs.com/why-personal-websites-are-coming-back/)
 - MIT Technology Review
   - [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)
 - NVIDIA AI Blog
   - [‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce](https://blogs.nvidia.com/blog/jensen-huang-dreamforce/)
+- rtl-sdr.com
+  - [Bluewatch: Detecting new Bluetooth Devices in your Neighbourhood via a Raspberry Pi](https://www.rtl-sdr.com/bluewatch-detecting-new-bluetooth-devices-in-your-neighbourhood-via-a-raspberry-pi/)
+  - [Frugal Radio: A Six SDR Setup with KrakenSDR and SDRplay for ADSB, ACARS, VDL2, P25](https://www.rtl-sdr.com/frugal-radio-a-six-sdr-setup-with-krakensdr-and-sdrplay-for-adsb-acars-vdl2-p25/)
 - Sploitus.com Exploits RSS Feed
   - [Arecibo exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TARLOGICSECURITY-ARECIBO&utm_source=rss&utm_medium=rss)
   - [atlant-harden exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ATLANTSECURITY-ATLANT-HARDEN&utm_source=rss&utm_medium=rss)
@@ -100,6 +108,7 @@
   - [Clarity Act preliminary vote falls short in Senate amid ethics fight over Trump’s crypto wealth](https://www.theblock.co/news/regulation/2026-09-15-clarity-act-preliminary-vote-falls-short-in-senate-amid-ethics-fight-over-trumps-crypto-wealth-415010)
   - [DOJ charges Robinhood engineers with front-running crypto listings on Hyperliquid](https://www.theblock.co/news/regulation/2026-09-15-doj-charges-robinhood-engineers-front-running-crypto-listings-hyperliquid-414865)
   - [Sen. Elizabeth Warren says she wants a crypto bill, but the Clarity Act just isn’t it](https://www.theblock.co/news/regulation/2026-09-15-sen-elizabeth-warren-says-she-wants-a-crypto-bill-but-the-clarity-act-just-isnt-it-414869)
+  - [‘Nothing truly structural’: Analysts downplay Clarity Act defeat as bitcoin, major crypto stocks dip](https://www.theblock.co/news/markets/2026-09-15-analysts-downplay-clarity-act-415234)
   - [‘This one stings’: Clarity Act fails procedural Senate vote — is crypto’s biggest regulatory push dead?](https://www.theblock.co/news/regulation/2026-09-15-this-one-stings-clarity-act-fails-senate-is-cryptos-biggest-regulatory-push-dead-415135)
 - The Decoder
   - [AI labs have a data trust problem that their policies haven't solved](https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/)
@@ -255,6 +264,10 @@
   - [CVE-2026-91853 TOTOLINK X5000R Export Ovpn cstecgi.cgi exportOvpn os command injection](https://vulners.com/cve/CVE-2026-91853?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91853 TOTOLINK X5000R Export Ovpn cstecgi.cgi exportOvpn os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-91853?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92114](https://vulners.com/nvd/NVD:CVE-2026-92114?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92214](https://vulners.com/nvd/NVD:CVE-2026-92214?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92215](https://vulners.com/nvd/NVD:CVE-2026-92215?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92216](https://vulners.com/nvd/NVD:CVE-2026-92216?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92217](https://vulners.com/nvd/NVD:CVE-2026-92217?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92248](https://vulners.com/cve/CVE-2026-92248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92248](https://vulners.com/nvd/NVD:CVE-2026-92248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92248 Gimp: integer overflow when generating a thumbnail preview for a psd file](https://vulners.com/cvelist/CVELIST:CVE-2026-92248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -262,12 +275,19 @@
   - [CVE-2026-92256](https://vulners.com/nvd/NVD:CVE-2026-92256?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92257](https://vulners.com/nvd/NVD:CVE-2026-92257?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92259](https://vulners.com/nvd/NVD:CVE-2026-92259?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92298](https://vulners.com/nvd/NVD:CVE-2026-92298?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92299](https://vulners.com/nvd/NVD:CVE-2026-92299?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ps4-goldhen-linux-host](https://vulners.com/githubexploit/A4B46A67-8B29-59AE-AFAC-F08984CBDCDB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards](https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/)
   - [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/)
 - 不安全
+  - [A IDA CLI tool: agent first & stateless & batch processing.](https://buaq.net/go-442676.html)
+  - [Bluewatch: Detecting new Bluetooth Devices in your Neighbourhood via a Raspberry Pi](https://buaq.net/go-442677.html)
+  - [Frugal Radio: A Six SDR Setup with KrakenSDR and SDRplay for ADSB, ACARS, VDL2, P25](https://buaq.net/go-442678.html)
+  - [Ghostwriter v7.3.0-rc1](https://buaq.net/go-442680.html)
   - [Rubrics-as-an-Attack-Surface](https://buaq.net/go-442670.html)
+  - [孩子手机玩太久怎么办？iOS 27 带来更强的儿童安全与家长控制](https://buaq.net/go-442679.html)
   - [火狐浏览器v156.0版发布 新的IDCT缩放功能可以加快JPEG图像解码速度并降低内存占用](https://buaq.net/go-442672.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
