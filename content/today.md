@@ -2,14 +2,20 @@
 
 - 2Libra
   - [iOS27 中 AirPods 支持自定均衡器设置，有点爽啊](https://2libra.com/post/apple/LbxF22N)
+  - [【兑换码】🔥 送送送....【Zooproxy】动态家宽住宅 IP 流量 CDK，用 Ai 在也不降智了](https://2libra.com/post/deal-hunter/g8PVGcq)
+  - [【💰】潘多拉能获取哪些徽章呢](https://2libra.com/post/forum-function/LFC2Cow)
   - [【💰】经过不懈努力的签到，终于轮到我了，卡皮巴拉](https://2libra.com/post/forum-function/_mUvocT)
+  - [【💰】训记 app 的训练数据分析工具，迁移到小程序啦](https://2libra.com/post/personal-works/lzlhMeO)
   - [今天可以开始抢国庆的票了，大家想好去哪里了吗？](https://2libra.com/post/places-ive-been/rYF0TPW)
   - [卡皮巴拉空降成功](https://2libra.com/post/forum-function/Nd1W8FD)
   - [又没抢到票，大家有啥好办法吗？](https://2libra.com/post/local-life/ch7iB2i)
   - [声物记 v1.1.0：一款完全离线的安卓语音物品管理 + 闪念胶囊 App](https://2libra.com/post/android/uq1_4hW)
   - [大家帮我看看这几个套餐实惠吗](https://2libra.com/post/recommendations/1aUt62N)
   - [好耶 我的头像动起来啦](https://2libra.com/post/forum-function/O5-aMDi)
+  - [打算收一部小米 14，有无打算出的朋友](https://2libra.com/post/second-hand/FCFKIfx)
   - [有时候做好自己不用想那么多](https://2libra.com/post/touch-fish/4cbCRxr)
+  - [末次冰盛期的白令陆桥，是拖出来的，拖动滑杆，看大陆如何生灭](https://2libra.com/post/personal-works/fnIPWtP)
+  - [真的有人用 AI 赚到钱了嘛](https://2libra.com/post/side-business/ztlTblr)
 - 404 Media
   - [AI Agent Platform Reinvents Spam, Floods Inboxes Worldwide](https://www.404media.co/ai-agent-platform-reinvents-spam-floods-inboxes-worldwide/)
 - Ars Technica
@@ -286,6 +292,7 @@
   - [Bluewatch: Detecting new Bluetooth Devices in your Neighbourhood via a Raspberry Pi](https://buaq.net/go-442677.html)
   - [Frugal Radio: A Six SDR Setup with KrakenSDR and SDRplay for ADSB, ACARS, VDL2, P25](https://buaq.net/go-442678.html)
   - [Ghostwriter v7.3.0-rc1](https://buaq.net/go-442680.html)
+  - [OpenAI莉莉计划曝光：有数百名外包员工阅读ChatGPT对话 隐私过滤并不彻底](https://buaq.net/go-442685.html)
   - [Rubrics-as-an-Attack-Surface](https://buaq.net/go-442670.html)
   - [孩子手机玩太久怎么办？iOS 27 带来更强的儿童安全与家长控制](https://buaq.net/go-442679.html)
   - [火狐浏览器v156.0版发布 新的IDCT缩放功能可以加快JPEG图像解码速度并降低内存占用](https://buaq.net/go-442672.html)
