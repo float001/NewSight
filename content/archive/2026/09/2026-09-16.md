@@ -31,6 +31,7 @@
 - 404 Media
   - [AI Agent Platform Reinvents Spam, Floods Inboxes Worldwide](https://www.404media.co/ai-agent-platform-reinvents-spam-floods-inboxes-worldwide/)
   - [Hackers Stole Flock’s Camera Software, Revealing How the Company Tracks Cars and People](https://www.404media.co/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people-2/)
+  - [Podcast: Humans Are Reading Your ChatGPT Conversations](https://www.404media.co/podcast-humans-are-reading-your-chatgpt-conversations/)
 - Ars Technica
   - [Boston dumps Flock, says it shared data nationwide in violation of contract](https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/)
 - Articles | InfoStealers
@@ -60,6 +61,7 @@
 - Cyber Kendra
   - [A Security Checklist for AI-Assisted 3D Asset Pipelines](https://cyberkendra.com/2026/09/a-security-checklist-for-ai-assisted-3d.html)
 - daringfireball.net
+  - [AirPods 5 With Wireless Charging Case Works With MagSafe, But Not Magnetically](https://www.apple.com/airpods-5/specs/)
   - [FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’](https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1)
   - [‘Apple Reference Image: A New Approach for Verified Photography’](https://security.apple.com/blog/apple-reference-image/)
   - [★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple](https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event)
@@ -83,6 +85,7 @@
 - Google DeepMind Blog
   - [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/)
 - Hacker News Frontpage
+  - [A warning about 'model welfare'](https://mustafa-suleyman.ai/a-warning-about-model-welfare)
   - [Devastated father says his 9-year-old son spent $118,000 on YouTube ads](https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion)
   - [Dystopian Surveillance Is Becoming a Reality](https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality)
   - [GEFS on OpenBSD: A Early Preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
@@ -104,11 +107,13 @@
   - [Cyber-Attacks Cost Organizations $52,000 on Average](https://www.infosecurity-magazine.com/news/cyberattacks-cost-organizations/)
   - [Major Cyber Threat Detection Vendors Shift from MITRE to UK Testing Program](https://www.infosecurity-magazine.com/news/cyber-vendors-mitre-uk-testing/)
   - [NCSC and Allies Warn of Iranian Spyware Campaign](https://www.infosecurity-magazine.com/news/ncsc-allies-warn-iranian-chosen/)
+  - [PHP Webshell Campaign Targets WordPress Through Critical WooCommerce Plugin Bug](https://www.infosecurity-magazine.com/news/woocommerce-wholesale-lead-capture/)
   - [Zero-Day Flaw in TP-Link Cameras Enables Eavesdropping](https://www.infosecurity-magazine.com/news/zeroday-tplink-cameras/)
 - MIT Technology Review
   - [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)
   - [The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/)
 - NVIDIA AI Blog
+  - [NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut](https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/)
   - [‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce](https://blogs.nvidia.com/blog/jensen-huang-dreamforce/)
 - pluralistic.net
   - [Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)](https://pluralistic.net/2026/09/16/beggar-thy-neighbor/)
@@ -154,15 +159,20 @@
 - TechCrunch
   - [3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/)
   - [AI agents now have a place to snitch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/)
+  - [Amazon gives its workers a raise of $1 per hour](https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/)
   - [Amazon launches Alexa+ in India with Hindi support](https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/)
   - [Clean tech startup Fluxnium found a way to tap 50,000 years worth of nuclear fuel](https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/)
+  - [Google says some Pixel phone owners were hacked in zero-day attacks](https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/)
   - [Health benefits platform Thatch reaches $1B valuation as healthcare costs surge](https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/)
   - [Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far](https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/)
   - [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/)
+  - [Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed](https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/)
+  - [Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/)
   - [SK Hynix reportedly in talks with Intel to build memory chips in US](https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/)
   - [SpaceX will try to put Starship in orbit for the first time on September 22](https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/)
   - [The AI data center boom is colliding with cities scarred by big industry](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/)
   - [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+  - [Threads’ new features let podcasters promote shows and reach listeners](https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/)
   - [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/)
   - [US military confirms it launched space weapons into Earth’s orbit](https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/)
   - [We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/)
@@ -179,7 +189,9 @@
 - The Decoder
   - [AI labs have a data trust problem that their policies haven't solved](https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/)
   - [Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost](https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/)
+  - [Mozilla's new Smart Window assistant runs on Mistral's models](https://the-decoder.com/mozillas-new-smart-window-assistant-runs-on-mistrals-models/)
   - [Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024](https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/)
+  - [Political opposites unite in Washington to rein in AI](https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/)
 - The Verge
   - [AI and data centers are incredibly unpopular in every poll](https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september)
   - [How The Oregon Trail became a generational icon](https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon)
@@ -187,10 +199,13 @@
   - [One of the best 3D printers for beginners is almost $100 off](https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale)
   - [The Boox Palma 3 gets stylus support and a sleek redesign](https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16)
   - [The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization](https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability)
+  - [The sexy AI-powered dating app scams are here](https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams)
   - [Vintage Violence is an absurdist crime thriller for phone addicts](https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster)
   - [What if social media isn’t hurting kids?](https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt)
+  - [Xreal’s well-rounded 1S glasses are back down to their lowest price](https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Before You Patch. Why Patch Reliability Matters for Confident Deployment](https://blog.qualys.com/category/product-tech)
+  - [Oracle Critical Security Patch Update, September 2026 Review](https://blog.qualys.com/category/vulnerabilities-threat-research)
 - Vulners.com RSS Feed
   - [CVE-2026-10144](https://vulners.com/nvd/NVD:CVE-2026-10144?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10145](https://vulners.com/nvd/NVD:CVE-2026-10145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -218,7 +233,9 @@
   - [CVE-2026-18423](https://vulners.com/nvd/NVD:CVE-2026-18423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18424](https://vulners.com/nvd/NVD:CVE-2026-18424?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18425](https://vulners.com/nvd/NVD:CVE-2026-18425?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19033 Unauthenticated IXFR deltas are applied to the live zone before TSIG verification](https://vulners.com/cvelist/CVELIST:CVE-2026-19033?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19640](https://vulners.com/nvd/NVD:CVE-2026-19640?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19668 Resource Exhaustion via Excessive DNSSEC Cryptographic Material Matching](https://vulners.com/cvelist/CVELIST:CVE-2026-19668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-27546](https://vulners.com/nvd/NVD:CVE-2026-27546?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-27547](https://vulners.com/nvd/NVD:CVE-2026-27547?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-27548](https://vulners.com/nvd/NVD:CVE-2026-27548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -304,6 +321,7 @@
   - [CVE-2026-73469](https://vulners.com/nvd/NVD:CVE-2026-73469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-73807](https://vulners.com/nvd/NVD:CVE-2026-73807?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-74926](https://vulners.com/nvd/NVD:CVE-2026-74926?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75029 Message parser retains every identical singleton RDATA, enabling wire-to-work amplification](https://vulners.com/cvelist/CVELIST:CVE-2026-75029?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76151](https://vulners.com/nvd/NVD:CVE-2026-76151?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76186](https://vulners.com/nvd/NVD:CVE-2026-76186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76187](https://vulners.com/nvd/NVD:CVE-2026-76187?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -338,6 +356,7 @@
   - [CVE-2026-76871](https://vulners.com/nvd/NVD:CVE-2026-76871?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76872](https://vulners.com/nvd/NVD:CVE-2026-76872?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76873](https://vulners.com/nvd/NVD:CVE-2026-76873?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77119 NSEC3 insecure-referral proof can use unrelated cached NSEC3 RRsets](https://vulners.com/cvelist/CVELIST:CVE-2026-77119?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77190](https://vulners.com/cve/CVE-2026-77190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77190](https://vulners.com/nvd/NVD:CVE-2026-77190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77190 Security Advisory 0177](https://vulners.com/cvelist/CVELIST:CVE-2026-77190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -422,10 +441,12 @@
   - [CVE-2026-87896](https://vulners.com/nvd/NVD:CVE-2026-87896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87907](https://vulners.com/nvd/NVD:CVE-2026-87907?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87959](https://vulners.com/nvd/NVD:CVE-2026-87959?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88064 Backstage: Improper input validation in TechDocs MkDocs configuration](https://vulners.com/cvelist/CVELIST:CVE-2026-88064?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88263](https://vulners.com/nvd/NVD:CVE-2026-88263?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88817 Privilege escalation via legacy access group creation endpoint](https://vulners.com/cve/CVE-2026-88817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88817 Privilege escalation via legacy access group creation endpoint](https://vulners.com/cvelist/CVELIST:CVE-2026-88817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88910](https://vulners.com/nvd/NVD:CVE-2026-88910?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88976 @platejs/core HTML deserialization can trigger browser behavior during parsing](https://vulners.com/cvelist/CVELIST:CVE-2026-88976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89022 BookStack < 26.05.5 Authentication Bypass via Social Login Provider Confusion](https://vulners.com/cve/CVE-2026-89022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89022 BookStack < 26.05.5 Authentication Bypass via Social Login Provider Confusion](https://vulners.com/cvelist/CVELIST:CVE-2026-89022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89207](https://vulners.com/nvd/NVD:CVE-2026-89207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -434,6 +455,7 @@
   - [CVE-2026-89793](https://vulners.com/nvd/NVD:CVE-2026-89793?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91853 TOTOLINK X5000R Export Ovpn cstecgi.cgi exportOvpn os command injection](https://vulners.com/cve/CVE-2026-91853?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91853 TOTOLINK X5000R Export Ovpn cstecgi.cgi exportOvpn os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-91853?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92087 @fastify/auth vulnerable to Authorization Bypass via order-dependent evaluation of composed auth](https://vulners.com/cvelist/CVELIST:CVE-2026-92087?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92091](https://vulners.com/nvd/NVD:CVE-2026-92091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92114](https://vulners.com/nvd/NVD:CVE-2026-92114?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92214](https://vulners.com/nvd/NVD:CVE-2026-92214?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -451,6 +473,7 @@
   - [CVE-2026-92299](https://vulners.com/nvd/NVD:CVE-2026-92299?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92355](https://vulners.com/nvd/NVD:CVE-2026-92355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92358](https://vulners.com/nvd/NVD:CVE-2026-92358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92366 code-projects Matrimonial System Regular Search search.php sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-92366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92455](https://vulners.com/nvd/NVD:CVE-2026-92455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92456](https://vulners.com/nvd/NVD:CVE-2026-92456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92457](https://vulners.com/nvd/NVD:CVE-2026-92457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
