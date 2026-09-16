@@ -21,6 +21,7 @@
   - [好耶 我的头像动起来啦](https://2libra.com/post/forum-function/O5-aMDi)
   - [打算收一部小米 14，有无打算出的朋友](https://2libra.com/post/second-hand/FCFKIfx)
   - [教你解决 iOS 27 大黑边](https://2libra.com/post/apple/tfe9vUs)
+  - [新增每日活跃金币奖励和编辑器输入表情提示功能](https://2libra.com/post/product-updates/Hmwi8xv)
   - [有时候做好自己不用想那么多](https://2libra.com/post/touch-fish/4cbCRxr)
   - [末次冰盛期的白令陆桥，是拖出来的，拖动滑杆，看大陆如何生灭](https://2libra.com/post/personal-works/fnIPWtP)
   - [真的有人用 AI 赚到钱了嘛](https://2libra.com/post/side-business/ztlTblr)
@@ -39,6 +40,7 @@
   - [AI has been a ‘net negative’ for crypto: Phemex CEO](https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance adds 11 US-listed ETFs to wealth management offering](https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BIS paper finds major gap in Bitcoin onchain transfer estimates](https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand](https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto industry turns to US regulators after CLARITY setback](https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto stocks slide after CLARITY Act fails to advance in Senate](https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ECB seeks online merchants for 2027 digital euro pilot](https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -46,6 +48,8 @@
   - [Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official](https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US charges ex-Robinhood engineers over alleged pre-listing crypto trades](https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Senate fails to advance CLARITY Act](https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Italy investigates government email breach linked to Revolut data leak](https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [A Security Checklist for AI-Assisted 3D Asset Pipelines](https://cyberkendra.com/2026/09/a-security-checklist-for-ai-assisted-3d.html)
 - daringfireball.net
@@ -80,9 +84,15 @@
   - [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
   - [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover)
   - [Why Personal Websites Are Coming Back](https://deadparrotbbs.com/why-personal-websites-are-coming-back/)
+- HackerNoon
+  - [Debugging Intermittent Kong 503s When the Logs Showed Nothing but the Status Code](https://hackernoon.com/debugging-intermittent-kong-503s-when-the-logs-showed-nothing-but-the-status-code?source=rss)
+  - [The New Economics of Trust in Online Trading, Explained by Opo](https://hackernoon.com/the-new-economics-of-trust-in-online-trading-explained-by-opo-jyivl2o?source=rss)
+  - [Time-Series Cardinality: Why One More Indexed Column Costs More Than a Million More Rows](https://hackernoon.com/time-series-cardinality-why-one-more-indexed-column-costs-more-than-a-million-more-rows?source=rss)
+  - [What Happens After You Click Subscribe to an Algorithm?](https://hackernoon.com/what-happens-after-you-click-subscribe-to-an-algorithm?source=rss)
 - infosecurity-magazine.com
   - [Major Cyber Threat Detection Vendors Shift from MITRE to UK Testing Program](https://www.infosecurity-magazine.com/news/cyber-vendors-mitre-uk-testing/)
   - [NCSC and Allies Warn of Iranian Spyware Campaign](https://www.infosecurity-magazine.com/news/ncsc-allies-warn-iranian-chosen/)
+  - [Zero-Day Flaw in TP-Link Cameras Enables Eavesdropping](https://www.infosecurity-magazine.com/news/zeroday-tplink-cameras/)
 - MIT Technology Review
   - [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)
 - NVIDIA AI Blog
@@ -94,6 +104,8 @@
   - [Bluewatch: Detecting new Bluetooth Devices in your Neighbourhood via a Raspberry Pi](https://www.rtl-sdr.com/bluewatch-detecting-new-bluetooth-devices-in-your-neighbourhood-via-a-raspberry-pi/)
   - [Frugal Radio: A Six SDR Setup with KrakenSDR and SDRplay for ADSB, ACARS, VDL2, P25](https://www.rtl-sdr.com/frugal-radio-a-six-sdr-setup-with-krakensdr-and-sdrplay-for-adsb-acars-vdl2-p25/)
   - [InjectEave: Eavesdropping on Headphones by Injecting a Carrier and Listening to the Modulated Retransmission](https://www.rtl-sdr.com/injecteave-eavesdropping-on-headphones-by-injecting-a-carrier-and-listening-to-the-modulated-retransmission/)
+- Securelist
+  - [NightEagle targets Russian companies](https://securelist.com/tr/nighteagle-apt-ghostcontainer-and-tunneling/121323/)
 - Sploitus.com Exploits RSS Feed
   - [Arecibo exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TARLOGICSECURITY-ARECIBO&utm_source=rss&utm_medium=rss)
   - [atlant-harden exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ATLANTSECURITY-ATLANT-HARDEN&utm_source=rss&utm_medium=rss)
@@ -137,6 +149,7 @@
   - [We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/)
 - The Block
   - [Clarity Act preliminary vote falls short in Senate amid ethics fight over Trump’s crypto wealth](https://www.theblock.co/news/regulation/2026-09-15-clarity-act-preliminary-vote-falls-short-in-senate-amid-ethics-fight-over-trumps-crypto-wealth-415010)
+  - [Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe](https://www.theblock.co/news/business/2026-09-16-deutsche-bank-plans-bitcoin-ether-custody-for-institutional-clients-in-europe-415251)
   - [DOJ charges Robinhood engineers with front-running crypto listings on Hyperliquid](https://www.theblock.co/news/regulation/2026-09-15-doj-charges-robinhood-engineers-front-running-crypto-listings-hyperliquid-414865)
   - [Sen. Elizabeth Warren says she wants a crypto bill, but the Clarity Act just isn’t it](https://www.theblock.co/news/regulation/2026-09-15-sen-elizabeth-warren-says-she-wants-a-crypto-bill-but-the-clarity-act-just-isnt-it-414869)
   - [Underdog sues Connecticut to stop sports prediction market crackdown](https://www.theblock.co/news/regulation/2026-09-16-underdog-sues-connecticut-415242)
@@ -382,8 +395,10 @@
   - [CVE-2026-92358](https://vulners.com/nvd/NVD:CVE-2026-92358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ps4-goldhen-linux-host](https://vulners.com/githubexploit/A4B46A67-8B29-59AE-AFAC-F08984CBDCDB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Boox Launches the Palma 3 E-Reader](https://www.wired.com/story/boox-palma-3-announced/)
   - [Bose Promo Code: 40% Off for September 2026](https://www.wired.com/story/bose-coupon-code/)
   - [Chegg Coupon Codes September 2026: Save on Study, Textbooks, & More](https://www.wired.com/story/chegg-coupon-code/)
+  - [China Isn’t Buying Silicon Valley’s Call for an AI Slowdown](https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/)
   - [Naturepedic Promo Codes: Get 20% Off Plus Free Pillows](https://www.wired.com/story/naturepedic-promo-code/)
   - [Office Depot Coupons: $20 Off September 2026](https://www.wired.com/story/office-depot-promo-codes/)
   - [OnePlus Promo Codes: 30% Off September 2026](https://www.wired.com/story/oneplus-promo-code/)
@@ -391,6 +406,7 @@
   - [Sam's Club Promo Codes and Membership Deals for September 2026](https://www.wired.com/story/sams-club-coupon/)
   - [The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards](https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/)
   - [Walmart Promo Codes: 20% Off for September 2026](https://www.wired.com/story/top-walmart-promo-codes/)
+  - [Why It Seems Like Great White Sharks Are Overrunning Maine](https://www.wired.com/story/why-great-white-sharks-are-overrunning-maine/)
   - [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/)
 - 不安全
   - [A IDA CLI tool: agent first & stateless & batch processing.](https://buaq.net/go-442676.html)
@@ -402,6 +418,7 @@
   - [OpenAI莉莉计划曝光：有数百名外包员工阅读ChatGPT对话 隐私过滤并不彻底](https://buaq.net/go-442685.html)
   - [Osintgram v2.0](https://buaq.net/go-442694.html)
   - [Rubrics-as-an-Attack-Surface](https://buaq.net/go-442670.html)
+  - [vpod v0.8.4](https://buaq.net/go-442722.html)
   - [孩子手机玩太久怎么办？iOS 27 带来更强的儿童安全与家长控制](https://buaq.net/go-442679.html)
   - [火狐浏览器v156.0版发布 新的IDCT缩放功能可以加快JPEG图像解码速度并降低内存占用](https://buaq.net/go-442672.html)
 - 代码审计星球
