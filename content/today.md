@@ -1,8 +1,63 @@
 # 今日安全资讯（2026-09-17）
 
+- darkreading
+  - [BragJack Attack Can Turn a Browser's Agentic AI Against It](https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai)
+- Fidelis Security
+  - [What to Do First in an Incident Response Investigation](https://fidelissecurity.com/threatgeek/threat-detection-response/incident-response-investigation-initial-steps/)
+- Hacker News Frontpage
+  - [Code Is Crap](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
+- Horizon3.ai
+  - [CISO’s CTEM Evaluation Checklist](https://horizon3.ai/downloads/factsheets/ciso-ctem-evaluation-checklist/)
+  - [CTEM Technology Evaluation Scorecard](https://horizon3.ai/downloads/factsheets/ctem-technology-evaluation-scorecard/)
+- IEEE Spectrum
+  - [Rethinking Robot Safety in the Age of AI](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone)
 - OpenAI Blog
   - [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
 - TechCrunch
+  - [Anthropic merges Claude chat and Cowork in one interface](https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/)
   - [Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/)
+  - [Your AI agents can now control your Google Home devices](https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/)
+- The Block
+  - [JPMorgan says Clarity Act ‘not fully dead,’ but passage window ‘extremely narrow’](https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280)
+- The Decoder
+  - [Anthropic merges Claude Chat, Cowork, and more into a single product](https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/)
+  - [Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI](https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/)
+- The Verge
+  - [Claude comes for Gemini with its own take on Docs and Slides](https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides)
+  - [Google will now let any AI agent run your smart home](https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date)
+  - [Your ‘health age’ is fake](https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity)
+- Vulners.com RSS Feed
+  - [CVE-2025-43936](https://vulners.com/nvd/NVD:CVE-2025-43936?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-59953](https://vulners.com/nvd/NVD:CVE-2025-59953?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17526](https://vulners.com/nvd/NVD:CVE-2026-17526?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19607](https://vulners.com/nvd/NVD:CVE-2026-19607?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-26947](https://vulners.com/nvd/NVD:CVE-2026-26947?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59944 Composer: CVE-2026-59946 fix bypass via symlinked package bin path](https://vulners.com/cve/CVE-2026-59944?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59944 Composer: CVE-2026-59946 fix bypass via symlinked package bin path](https://vulners.com/cvelist/CVELIST:CVE-2026-59944?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59974 Stanza: Zip Slip Path Traversal in Model/Resource Extraction](https://vulners.com/cve/CVE-2026-59974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59974 Stanza: Zip Slip Path Traversal in Model/Resource Extraction](https://vulners.com/cvelist/CVELIST:CVE-2026-59974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61593](https://vulners.com/nvd/NVD:CVE-2026-61593?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61595](https://vulners.com/nvd/NVD:CVE-2026-61595?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-69200 node-opcua: Prototype Pollution via internal `fieldsToJson()` implementation (Related to CVE-2024-57086)](https://vulners.com/cve/CVE-2026-69200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-69200 node-opcua: Prototype Pollution via internal `fieldsToJson()` implementation (Related to CVE-2024-57086)](https://vulners.com/cvelist/CVELIST:CVE-2026-69200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-70416](https://vulners.com/nvd/NVD:CVE-2026-70416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-71179](https://vulners.com/cve/CVE-2026-71179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-71179](https://vulners.com/cvelist/CVELIST:CVE-2026-71179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-71180](https://vulners.com/cve/CVE-2026-71180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-71180](https://vulners.com/cvelist/CVELIST:CVE-2026-71180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-71181](https://vulners.com/cve/CVE-2026-71181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-71181](https://vulners.com/cvelist/CVELIST:CVE-2026-71181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-76104](https://vulners.com/nvd/NVD:CVE-2026-76104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90999](https://vulners.com/nvd/NVD:CVE-2026-90999?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92385](https://vulners.com/nvd/NVD:CVE-2026-92385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92397](https://vulners.com/nvd/NVD:CVE-2026-92397?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92399 GPAC WebSocket rmt_ws.c rmt_client_handle_ws_frame heap-based overflow](https://vulners.com/cve/CVE-2026-92399?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92399 GPAC WebSocket rmt_ws.c rmt_client_handle_ws_frame heap-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-92399?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92615](https://vulners.com/nvd/NVD:CVE-2026-92615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92625](https://vulners.com/nvd/NVD:CVE-2026-92625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92626](https://vulners.com/nvd/NVD:CVE-2026-92626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92627](https://vulners.com/nvd/NVD:CVE-2026-92627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [付费给大学生睡足七小时提高了他们的学习成绩](https://www.solidot.org/story?sid=85400)
