@@ -6,6 +6,9 @@
   - [VU#369093: MLflow dspy and statsmodels flavors bypass pickle deserialization control](https://kb.cert.org/vuls/id/369093)
 - Chainalysis Blog
   - [Chainalysis Supports Arc with Automatic Token Support](https://www.chainalysis.com/blog/chainalysis-supports-arc-with-automatic-token-support/)
+- CoinTelegraph
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [UK FCA sets crypto authorization guidance ahead of September application window](https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork](https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/)
 - darkreading
@@ -14,6 +17,7 @@
   - [What to Do First in an Incident Response Investigation](https://fidelissecurity.com/threatgeek/threat-detection-response/incident-response-investigation-initial-steps/)
 - Hacker News Frontpage
   - [Code Is Crap](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
+  - [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)
   - [We've created the first vectorized Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 - Horizon3.ai
   - [CISO’s CTEM Evaluation Checklist](https://horizon3.ai/downloads/factsheets/ciso-ctem-evaluation-checklist/)
@@ -31,13 +35,16 @@
 - TechCrunch
   - [AI labs want in-house auditors — but maybe they should shut the front door first](https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/)
   - [Anthropic merges Claude chat and Cowork in one interface](https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/)
+  - [Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster](https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/)
   - [Former Waymo CFO jumps to self-driving startup Wayve](https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/)
   - [Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database](https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/)
   - [Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/)
   - [Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/)
+  - [X will now let U.S. users trade via cashtags](https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/)
   - [Your AI agents can now control your Google Home devices](https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/)
 - The Block
   - [Aave founder pitches ‘Uber path’ for DeFi after Clarity Act fails Senate vote](https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278)
+  - [Bitcoin, ether swing after unanimous quarter-point Fed rate hike as Warsh takes aim at inflation](https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307)
   - [House panel approves first federal crypto tax framework, one day after Senate’s Clarity Act stumbles](https://www.theblock.co/news/regulation/2026-09-16-house-panel-approves-first-federal-crypto-tax-framework-one-day-after-senates-clarity-act-stumbles-415293)
   - [JPMorgan says Clarity Act ‘not fully dead,’ but passage window ‘extremely narrow’](https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280)
   - [‘Go time’: SEC, CFTC prepare to push crypto rules as Clarity Act stalls in Senate](https://www.theblock.co/news/regulation/2026-09-16-go-time-sec-cftc-prepare-push-crypto-rules-clarity-act-stalls-senate-415281)
@@ -87,6 +94,8 @@
   - [CVE-2026-92626](https://vulners.com/nvd/NVD:CVE-2026-92626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92627](https://vulners.com/nvd/NVD:CVE-2026-92627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)](https://www.wired.com/story/amazon-prime-day-october-2026-tips/)
+  - [MacOS 27 Golden Gate: Top New Features](https://www.wired.com/story/macos-27-golden-gate-top-features/)
   - [The Best Movies to Stream This Month (September 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
