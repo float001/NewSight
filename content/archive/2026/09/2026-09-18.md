@@ -2,18 +2,29 @@
 
 - CoinTelegraph
   - [Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike](https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [WisdomTree, MoonPay team up to expand US access to tokenized money market fund](https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Hacker News Frontpage
   - [Ask HN: How to recover Google auth after phone stolen?](https://news.ycombinator.com/item?id=49742976)
+  - [Economic Policy for AGI](https://institute.deepmind.com/essays/economic-policy-for-agi/)
   - [hister](https://github.com/asciimoo/hister)
   - [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](https://skillsync.com)
   - [Show HN: Die With Me – Claude and Codex rate limits as AIM away messages](https://diewithme.co/join)
+- Horizon3.ai
+  - [CyberCom 2.0 and the Revolution in AI-Enabled Offensive Cyber Operations](https://horizon3.ai/downloads/whitepapers/cybercom-2-0-ai-enabled-offensive-cyber-operations/)
 - johndcook.com
   - [Empirical fractal](https://www.johndcook.com/blog/2026/09/17/empirical-fractal/)
 - TechCrunch
   - [Apple will let EU apps use less-alarming tracking-consent screens](https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/)
+  - [Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire](https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/)
+  - [Even the King of England has his hesitations about AI](https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/)
+  - [Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI](https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/)
   - [TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host](https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/)
 - The Block
+  - [As RWA trading surges on Hyperliquid, Dragonfly’s Qureshi makes the case for a multichain future](https://www.theblock.co/news/ecosystems/2026-09-17-as-rwa-trading-surges-hyperliquid-dragonflys-qureshi-makes-case-multichain-future-415406)
+  - [JPMorgan says bitcoin could get more support than gold if ETF hedging eases](https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421)
   - [Regulators keep moving on crypto: CFTC follows SEC with developer-friendly no-action stance](https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425)
+- The Verge
+  - [Save $30 or more on a refurbished Apple TV 4K](https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale)
 - Vulners.com RSS Feed
   - [CVE-2026-12284](https://vulners.com/nvd/NVD:CVE-2026-12284?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56795](https://vulners.com/nvd/NVD:CVE-2026-56795?utm_source=rss&utm_medium=rss&utm_campaign=rss)
