@@ -15,6 +15,7 @@
   - [一次相亲](https://2libra.com/post/love/v47hPI3)
   - [中秋福利！](https://2libra.com/post/slacking-off/DVAIljK)
   - [中秋节到了，大家公司都发了什么过节福利啊？](https://2libra.com/post/festival-things/jp-6zKK)
+  - [从技术角度看，瓜奇是一款优秀的产品吗？](https://2libra.com/post/tech-rumination/WFcSnR7)
   - [八卦一下，你们公司的行政是一个什么岗位，负责那些工作？](https://2libra.com/post/office-life/S4jjUuV)
   - [公司安装了考勤打卡机](https://2libra.com/post/office-life/EBsMvOF)
   - [农行抖音省钱月卡](https://2libra.com/post/deal-hunter/S805QuJ)
@@ -45,18 +46,23 @@
   - [VU#369093: MLflow dspy and statsmodels flavors bypass pickle deserialization control](https://kb.cert.org/vuls/id/369093)
 - Chainalysis Blog
   - [Chainalysis Supports Arc with Automatic Token Support](https://www.chainalysis.com/blog/chainalysis-supports-arc-with-automatic-token-support/)
+  - [DPRK and Iran are Leading a 5.2x Surge YoY in Blockchain-Assisted Cyberattacks](https://www.chainalysis.com/blog/etherhiding-blockchain-dead-drops/)
 - CoinTelegraph
   - [Bitcoin absorbs Fed rate hike as officials see more tightening](https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger](https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitMEX faces Celsius lawsuit ahead of exchange closure](https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CLARITY Act could get another shot during lame-duck session, policy advocate says](https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher](https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OpenAI discloses 6 new cases of ‘misaligned’ AI behavior](https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polymarket users referred to prosecutors in South Korea: Report](https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [S&P Global to acquire blockchain security platform OpenZeppelin](https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [State hackers drive 420% surge in onchain malware, Chainalysis finds](https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK FCA sets crypto authorization guidance ahead of September application window](https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US lawmakers advance bill to lock Trump’s Bitcoin reserve into law](https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash gains 20% as Paradigm founder reveals firm made ZEC investment](https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [S&P Global to acquire blockchain security platform OpenZeppelin](https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork](https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/)
   - [Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?](https://x.com/DEADLINE/status/2099645816361332775)
@@ -88,10 +94,14 @@
 - infosecurity-magazine.com
   - [AI Agent Carries Out Multi-Stage Data Theft Attack](https://www.infosecurity-magazine.com/news/ai-agent-carries-out-multistage/)
   - [Cisco Warns of Active Exploitation of Critical ISE Flaw](https://www.infosecurity-magazine.com/news/cisco-active-exploitation-critical/)
+  - [Cyber Essentials Has Record Year but Takeup Remains Low](https://www.infosecurity-magazine.com/news/cyber-essentials-has-record-year/)
+  - [New Chinese-Made ‘RatHat’ Android Malware Leverages AI to Steal Financial Data](https://www.infosecurity-magazine.com/news/rathat-android-malware-ai-steal/)
 - krebsonsecurity.com
   - [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
 - micahflee.com
   - [Flock cameras are riddled with security vulnerabilities and hard-coded credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/)
+- MIT Technology Review
+  - [The Download: mice with part-human brains and climate tech innovators](https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/)
 - OpenAI Blog
   - [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
 - OpenZeppelin Blog
@@ -103,6 +113,8 @@
   - [S-Roll](https://www.producthunt.com/products/s-roll)
 - rtl-sdr.com
   - [LakeShark: P25 Phase 1, FM, POCSAG, ADS-B and Sub-GHz with an RTL-SDR on the LilyGO T-Display P4 (ESP32-P4)](https://www.rtl-sdr.com/lakeshark-p25-phase-1-fm-pocsag-ads-b-and-sub-ghz-with-an-rtl-sdr-on-the-lilygo-t-display-p4-esp32-p4/)
+- Securelist
+  - [The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents](https://securelist.com/moviereaper-malware-torrent-odyssey-solana/121344/)
 - simonwillison.net
   - [Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/)
 - Sploitus.com Exploits RSS Feed
@@ -134,6 +146,7 @@
   - [Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database](https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/)
   - [Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/)
   - [Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/)
+  - [How Bain Capital Ventures plans to deploy its fresh $1.6B fund](https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/)
   - [Iceland-based Treble raises $18 million for its voice simulation platform](https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/)
   - [Musk’s long-time backer is giving SpaceX stock to its investors](https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/)
   - [Noise wants to help everyday people  become paid content creators](https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/)
@@ -147,9 +160,11 @@
   - [Aave founder pitches ‘Uber path’ for DeFi after Clarity Act fails Senate vote](https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278)
   - [Bitcoin, ether swing after unanimous quarter-point Fed rate hike as Warsh takes aim at inflation](https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307)
   - [Bitwise CIO Hougan revises Clarity Act outlook, says crypto bull market may continue without legislation](https://www.theblock.co/news/markets/2026-09-17-bitwise-cio-hougan-revises-clarity-act-outlook-says-crypto-bull-market-may-continue-without-legislation-415339)
+  - [Crypto.com registers with SEC for single-stock futures, plans US stock perps](https://www.theblock.co/news/business/2026-09-17-crypto-com-registers-with-sec-for-single-stock-futures-plans-us-stock-perps-415355)
   - [Grayscale’s Pandl still sees bitcoin’s $58K low as the bottom, gives clients ‘green light’](https://www.theblock.co/news/markets/2026-09-17-grayscales-pandl-still-sees-bitcoins-58k-low-as-the-bottom-gives-clients-green-light-415346)
   - [House committee moves to codify Trump’s Strategic Bitcoin Reserve](https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317)
   - [House panel approves first federal crypto tax framework, one day after Senate’s Clarity Act stumbles](https://www.theblock.co/news/regulation/2026-09-16-house-panel-approves-first-federal-crypto-tax-framework-one-day-after-senates-clarity-act-stumbles-415293)
+  - [It’s here — SEC releases long-awaited innovation exemption to ‘bring America’s capital markets into the digital age’](https://www.theblock.co/news/regulation/2026-09-17-sec-releases-innovation-exemption-415324)
   - [JPMorgan says Clarity Act ‘not fully dead,’ but passage window ‘extremely narrow’](https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280)
   - [South Korean police charge 26 Polymarket users for illegal gambling: report](https://www.theblock.co/news/regulation/2026-09-17-south-korean-police-charge-polymarket-users-415333)
   - [‘Go time’: SEC, CFTC prepare to push crypto rules as Clarity Act stalls in Senate](https://www.theblock.co/news/regulation/2026-09-16-go-time-sec-cftc-prepare-push-crypto-rules-clarity-act-stalls-senate-415281)
@@ -163,12 +178,15 @@
   - [OpenRouter's staggering token chart is the AI bubble debate in a single image](https://the-decoder.com/openrouters-staggering-token-chart-is-the-ai-bubble-debate-in-a-single-image/)
 - The Verge
   - [Apple might make servers again to cash in on the AI rush](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia)
+  - [Bose’s next open earbuds have more bass, more volume, and more battery life](https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport)
   - [Claude comes for Gemini with its own take on Docs and Slides](https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides)
   - [Google will now let any AI agent run your smart home](https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date)
+  - [Grand Theft Auto VI’s soundtrack will feature 34 brand-new tracks](https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack)
   - [I wore Snap’s $2,200 smart glasses](https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses)
   - [Inside the suddenly explosive world of AI safety](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic)
   - [Resident Evil is a comedy first and a thrilling nightmare second](https://www.theverge.com/entertainment/996416/resident-zach-cregger-review)
   - [Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac](https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac)
+  - [Spotify’s Fresh Finds Forward gives artists free studio time and more](https://www.theverge.com/entertainment/996505/spotify-fresh-finds-forward)
   - [The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long](https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review)
   - [The AI data center e-waste problem is huge — and getting bigger](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban)
   - [The Apple Watch Series 12 is the start of a new wearable era](https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch)
