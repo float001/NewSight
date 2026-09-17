@@ -24,6 +24,7 @@
   - [小羊毛不少，每天可薅，有的时候会忘记，AI 个了小软件](https://2libra.com/post/deal-hunter/N1nkuFS)
   - [想学习钢琴（已买不会弹），目前是小白，有无学习推荐？](https://2libra.com/post/recommendations/3SV_vYf)
   - [想求一个 V 站的邀请码](https://2libra.com/post/help-requests/dCpOzC5)
+  - [想看看活跃度奖励的消息，有没有收到多次的](https://2libra.com/post/forum-function/OxQcOxD)
   - [我要吐槽！](https://2libra.com/post/workplace-stories/f8E6mPp)
   - [最近的一些叨叨](https://2libra.com/post/personal-life/qmX24jo)
   - [王者万象棋你们体验起来感觉咋样？](https://2libra.com/post/game-discussion/rA1aG69)
@@ -54,6 +55,7 @@
   - [Polymarket users referred to prosecutors in South Korea: Report](https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK FCA sets crypto authorization guidance ahead of September application window](https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US lawmakers advance bill to lock Trump’s Bitcoin reserve into law](https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Zcash gains 20% as Paradigm founder reveals firm made ZEC investment](https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork](https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/)
   - [Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?](https://x.com/DEADLINE/status/2099645816361332775)
@@ -67,6 +69,7 @@
 - Fuzzing Labs
   - [FuzzingLabs at OWASP AppSec Days France 2026​](https://fuzzinglabs.com/sponsor-silver-owasp-appsec-days-france-2026/)
 - Hacker News Frontpage
+  - [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
   - [Code Is Crap](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
   - [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)
   - [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
@@ -122,6 +125,7 @@
   - [Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?](https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/)
   - [Anthropic merges Claude chat and Cowork in one interface](https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/)
   - [Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster](https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/)
+  - [Comp AI sets eyes on a continuously agentic future for security and compliance](https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/)
   - [Former Waymo CFO jumps to self-driving startup Wayve](https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/)
   - [Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database](https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/)
   - [Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/)
@@ -138,6 +142,7 @@
 - The Block
   - [Aave founder pitches ‘Uber path’ for DeFi after Clarity Act fails Senate vote](https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278)
   - [Bitcoin, ether swing after unanimous quarter-point Fed rate hike as Warsh takes aim at inflation](https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307)
+  - [Bitwise CIO Hougan revises Clarity Act outlook, says crypto bull market may continue without legislation](https://www.theblock.co/news/markets/2026-09-17-bitwise-cio-hougan-revises-clarity-act-outlook-says-crypto-bull-market-may-continue-without-legislation-415339)
   - [House committee moves to codify Trump’s Strategic Bitcoin Reserve](https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317)
   - [House panel approves first federal crypto tax framework, one day after Senate’s Clarity Act stumbles](https://www.theblock.co/news/regulation/2026-09-16-house-panel-approves-first-federal-crypto-tax-framework-one-day-after-senates-clarity-act-stumbles-415293)
   - [JPMorgan says Clarity Act ‘not fully dead,’ but passage window ‘extremely narrow’](https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280)
@@ -150,6 +155,7 @@
   - [EU president warns AI agents "escaping their environment" are just a preview of what's coming](https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/)
   - [Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI](https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/)
   - [OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years](https://the-decoder.com/openais-gpt-6-astra-decrypts-a-nazi-radio-message-in-ten-hours-that-went-unsolved-for-83-years/)
+  - [OpenRouter's staggering token chart is the AI bubble debate in a single image](https://the-decoder.com/openrouters-staggering-token-chart-is-the-ai-bubble-debate-in-a-single-image/)
 - The Verge
   - [Apple might make servers again to cash in on the AI rush](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia)
   - [Claude comes for Gemini with its own take on Docs and Slides](https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides)
@@ -226,6 +232,10 @@
   - [CVE-2026-76423](https://vulners.com/nvd/NVD:CVE-2026-76423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76423 Cisco ISE API Authentication Bypass Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-76423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76646](https://vulners.com/nvd/NVD:CVE-2026-76646?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78425](https://vulners.com/nvd/NVD:CVE-2026-78425?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78426](https://vulners.com/nvd/NVD:CVE-2026-78426?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78427](https://vulners.com/nvd/NVD:CVE-2026-78427?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78428](https://vulners.com/nvd/NVD:CVE-2026-78428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81546](https://vulners.com/nvd/NVD:CVE-2026-81546?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81866](https://vulners.com/nvd/NVD:CVE-2026-81866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81870](https://vulners.com/nvd/NVD:CVE-2026-81870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -313,6 +323,9 @@
   - [CVE-2026-92808](https://vulners.com/nvd/NVD:CVE-2026-92808?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92838](https://vulners.com/nvd/NVD:CVE-2026-92838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92839](https://vulners.com/nvd/NVD:CVE-2026-92839?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92894](https://vulners.com/cve/CVE-2026-92894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92894](https://vulners.com/nvd/NVD:CVE-2026-92894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92894 Rubygem-foreman_ansible: unscoped lookupvalue deletion allows cross-model override value destruction](https://vulners.com/cvelist/CVELIST:CVE-2026-92894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)](https://www.wired.com/story/amazon-prime-day-october-2026-tips/)
   - [Best Buy Discount Codes: 60% Off](https://www.wired.com/story/best-buy-discount-code/)
@@ -330,6 +343,7 @@
   - [The Best Movies to Stream This Month (September 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
   - [The Trump Administration Sends a New Signal to Alien Disclosure Whistleblowers](https://www.wired.com/story/trump-defense-department-sends-alien-disclosure-signal/)
   - [Vivid Seats Promo Codes and Deals: Get 10% Off](https://www.wired.com/story/vivid-seats-promo-code/)
+  - [‘Fast & Furious’ Takes a Victory Lap With a Ferociously Fun Roller Coaster](https://www.wired.com/story/fast-and-furious-roller-coaster/)
 - 不安全
   - [essh v0.4.0](https://buaq.net/go-442954.html)
   - [mini-diarium v0.7.3](https://buaq.net/go-442927.html)
@@ -341,6 +355,7 @@
 - 博客园 - bamb00
   - [PDF 解析为什么难：一份面向 RAG 的问题清单与解决路线 - bamb00](https://www.cnblogs.com/goodhacker/p/23008551)
 - 奇客Solidot–传递最新科技情报
+  - [今年上线的微短剧逾九成是 AI 剧](https://www.solidot.org/story?sid=85408)
   - [付费给大学生睡足七小时提高了他们的学习成绩](https://www.solidot.org/story?sid=85400)
   - [商船再次安装基于风帆的推进系统](https://www.solidot.org/story?sid=85403)
 - 爱范儿
