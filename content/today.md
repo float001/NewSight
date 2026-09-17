@@ -1,6 +1,10 @@
 # 今日安全资讯（2026-09-17）
 
 - 2Libra
+  - [9 月 17 日资本市场大事提醒](https://2libra.com/post/social-observation/1WY1p4w)
+  - [union-alpha 只有 262K 上下文, 这是个干脏活的模型, 不是干重活的模型啊](https://2libra.com/post/large-models/AM94uM3)
+  - [【💰】大家有没有发现 codex 订阅现在蹬的超快？？？？](https://2libra.com/post/ai-programming/j4h7mjm)
+  - [一次相亲](https://2libra.com/post/love/v47hPI3)
   - [可恶的女人！](https://2libra.com/post/family/yUw_z2n)
 - Ars Technica
   - [It’s OK to tell ICE their actions will haunt them, judge rules in speech fight](https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/)
@@ -13,6 +17,7 @@
   - [CLARITY Act could get another shot during lame-duck session, policy advocate says](https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK FCA sets crypto authorization guidance ahead of September application window](https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US lawmakers advance bill to lock Trump’s Bitcoin reserve into law](https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork](https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/)
   - [Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?](https://x.com/DEADLINE/status/2099645816361332775)
@@ -59,12 +64,14 @@
   - [Musk’s long-time backer is giving SpaceX stock to its investors](https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/)
   - [Noise wants to help everyday people  become paid content creators](https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/)
   - [Pulley, a Carta rival, is shutting down](https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/)
+  - [Snap tries to make the case again for its $2,200 smart glasses](https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/)
   - [US automakers could soon be forced to include AM radio for free](https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/)
   - [X will now let U.S. users trade via cashtags](https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/)
   - [Your AI agents can now control your Google Home devices](https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/)
 - The Block
   - [Aave founder pitches ‘Uber path’ for DeFi after Clarity Act fails Senate vote](https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278)
   - [Bitcoin, ether swing after unanimous quarter-point Fed rate hike as Warsh takes aim at inflation](https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307)
+  - [House committee moves to codify Trump’s Strategic Bitcoin Reserve](https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317)
   - [House panel approves first federal crypto tax framework, one day after Senate’s Clarity Act stumbles](https://www.theblock.co/news/regulation/2026-09-16-house-panel-approves-first-federal-crypto-tax-framework-one-day-after-senates-clarity-act-stumbles-415293)
   - [JPMorgan says Clarity Act ‘not fully dead,’ but passage window ‘extremely narrow’](https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280)
   - [‘Go time’: SEC, CFTC prepare to push crypto rules as Clarity Act stalls in Senate](https://www.theblock.co/news/regulation/2026-09-16-go-time-sec-cftc-prepare-push-crypto-rules-clarity-act-stalls-senate-415281)
@@ -207,6 +214,9 @@
   - [Meet Dyson's New Robot Vacuum Line: The Dyson Nurovi Line (2026)](https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/)
   - [OpenAI Creates a New Framework to Disclose Bad AI Behavior](https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/)
   - [The Best Movies to Stream This Month (September 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
+- 不安全
+  - [mini-diarium v0.7.3](https://buaq.net/go-442927.html)
+  - [netbox v4.7.1](https://buaq.net/go-442926.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
