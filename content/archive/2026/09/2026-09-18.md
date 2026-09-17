@@ -42,7 +42,9 @@
   - [Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
   - [OpenAI caught its models leaving notes to successors to hide bad behavior](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/)
   - [Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI](https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/)
+  - [PrismML hopes its tiny LLM will change how we all use AI](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/)
   - [TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host](https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/)
+  - [The FAA’s plan to fix air traffic? $875M worth of AI](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/)
   - [The fix for rogue AI agents could be more AI](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/)
   - [UN turns to Google to make its global data ready for AI agents](https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/)
   - [Waymo restarts San Antonio service 5 months after flooding troubles](https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/)
@@ -57,6 +59,8 @@
   - [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)
   - [Save $30 or more on a refurbished Apple TV 4K](https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale)
   - [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [The End of Point-in-Time Compliance: Why Continuous Audit Readiness Matters to You in the AI Era](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
   - [Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://vulners.com/thn/THN:F8E39FAF20D089FC1AF62E4C5CFC2C87?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12284](https://vulners.com/nvd/NVD:CVE-2026-12284?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -77,6 +81,8 @@
   - [CVE-2026-54618](https://vulners.com/nvd/NVD:CVE-2026-54618?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54626](https://vulners.com/nvd/NVD:CVE-2026-54626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54627](https://vulners.com/nvd/NVD:CVE-2026-54627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54645 CubeCart: Stored XSS in Product Description Editor via Global Sanitizer Bypass](https://vulners.com/cve/CVE-2026-54645?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54645 CubeCart: Stored XSS in Product Description Editor via Global Sanitizer Bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-54645?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54676](https://vulners.com/nvd/NVD:CVE-2026-54676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54677](https://vulners.com/nvd/NVD:CVE-2026-54677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54692](https://vulners.com/nvd/NVD:CVE-2026-54692?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -134,10 +140,13 @@
   - [CVE-2026-93203 batman-adv: bla: avoid CRC corruption due to parallel claim add](https://vulners.com/cvelist/CVELIST:CVE-2026-93203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93204 batman-adv: dat: atomically update mac addresses](https://vulners.com/cve/CVE-2026-93204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93204 batman-adv: dat: atomically update mac addresses](https://vulners.com/cvelist/CVELIST:CVE-2026-93204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93435 redis-parser through 3.0.0 Denial of Service via Unbounded Recursion](https://vulners.com/cvelist/CVELIST:CVE-2026-93435?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93436 vLLM through 0.29.0 Memory Exhaustion via Rejected Requests](https://vulners.com/cvelist/CVELIST:CVE-2026-93436?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Gitlab](https://vulners.com/githubexploit/B77CE296-3D25-5248-BE16-FF0436BC8697?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [26 Amazon Prime Perks You Might Know You Have (2026)](https://www.wired.com/story/amazon-prime-perks/)
   - [Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers](https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/)
+  - [Here’s What the AI Apocalypse Could Look Like](https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/)
   - [The AI Slowdown Debate Crashed Salesforce’s Party](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/)
   - [The AI ‘Slowdown’ Is an Antitrust Mess](https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/)
 - 代码审计星球
