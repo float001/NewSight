@@ -16,6 +16,7 @@
   - [可恶的女人！](https://2libra.com/post/family/yUw_z2n)
   - [小羊毛不少，每天可薅，有的时候会忘记，AI 个了小软件](https://2libra.com/post/deal-hunter/N1nkuFS)
   - [想学习钢琴（已买不会弹），目前是小白，有无学习推荐？](https://2libra.com/post/recommendations/3SV_vYf)
+  - [想求一个 V 站的邀请码](https://2libra.com/post/help-requests/dCpOzC5)
   - [我要吐槽！](https://2libra.com/post/workplace-stories/f8E6mPp)
   - [最近的一些叨叨](https://2libra.com/post/personal-life/qmX24jo)
   - [签到大失败了。。了。](https://2libra.com/post/forum-function/hHrQcHf)
@@ -56,12 +57,16 @@
   - [Code Is Crap](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
   - [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)
   - [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
+  - [The President's Power to Pardon Friends and Allies Must End](https://medium.com/freedomofthought/the-presidents-power-to-pardon-friends-and-allies-must-end-b9574f9eedfb)
   - [We've created the first vectorized Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 - Horizon3.ai
   - [CISO’s CTEM Evaluation Checklist](https://horizon3.ai/downloads/factsheets/ciso-ctem-evaluation-checklist/)
   - [CTEM Technology Evaluation Scorecard](https://horizon3.ai/downloads/factsheets/ctem-technology-evaluation-scorecard/)
 - IEEE Spectrum
   - [Rethinking Robot Safety in the Age of AI](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone)
+- InfoSec Write-ups - Medium
+  - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
+  - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - krebsonsecurity.com
   - [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
 - micahflee.com
@@ -73,8 +78,22 @@
 - simonwillison.net
   - [Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/)
 - Sploitus.com Exploits RSS Feed
+  - [awesome-canbus exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IDOKA-AWESOME-CANBUS&utm_source=rss&utm_medium=rss)
+  - [bettercap exploit](https://sploitus.com/exploit?id=KITPLOIT:4353591470650410564&utm_source=rss&utm_medium=rss)
+  - [Cybersecurity-Mastery-Roadmap exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HAMED233-CYBERSECURITY-MASTERY-ROADMAP&utm_source=rss&utm_medium=rss)
+  - [dataset exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CYSECBENCH-DATASET&utm_source=rss&utm_medium=rss)
+  - [dns-rebind-toolkit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-QAZBNM456-AWESOME-WEB-SECURITY&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=AEC327B9-1922-59D9-A6E4-F17826FB024A&utm_source=rss&utm_medium=rss)
+  - [GHunt exploit](https://sploitus.com/exploit?id=KITPLOIT:1990469226640545295&utm_source=rss&utm_medium=rss)
+  - [hacker-profile exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITLAB-NORAJ-HACKER-PROFILE&utm_source=rss&utm_medium=rss)
+  - [Malware-Exhibit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALVIN-TOSH-MALWARE-EXHIBIT&utm_source=rss&utm_medium=rss)
+  - [pixiewps exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MAY215-AWESOME-TERMUX-HACKING&utm_source=rss&utm_medium=rss)
   - [poc-ghas-vulnerability-report-generator exploit](https://sploitus.com/exploit?id=7B27AF8F-CA52-5B45-B1F1-5AD7A4BFC982&utm_source=rss&utm_medium=rss)
+  - [social-analyzer exploit](https://sploitus.com/exploit?id=KITPLOIT:4530043023070180530&utm_source=rss&utm_medium=rss)
+  - [ST3GG exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ELDER-PLINIUS-ST3GG&utm_source=rss&utm_medium=rss)
+  - [wifite2 exploit](https://sploitus.com/exploit?id=KITPLOIT:6446073119639285093&utm_source=rss&utm_medium=rss)
+  - [wstg exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OWASP-WSTG&utm_source=rss&utm_medium=rss)
+  - [xssor2 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TRIMSTRAY-THE-BOOK-OF-SECRET-KNOWLEDGE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera](https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/)
   - [AI labs want in-house auditors — but maybe they should shut the front door first](https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/)
@@ -86,6 +105,7 @@
   - [Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database](https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/)
   - [Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/)
   - [Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/)
+  - [Iceland-based Treble raises $18 million for its voice simulation platform](https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/)
   - [Musk’s long-time backer is giving SpaceX stock to its investors](https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/)
   - [Noise wants to help everyday people  become paid content creators](https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/)
   - [Pulley, a Carta rival, is shutting down](https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/)
@@ -148,6 +168,7 @@
   - [CVE-2026-20341 Cisco Secure Firewall Management Center Software sftunnel Deserialization Root Command Execution Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-20341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-20361](https://vulners.com/nvd/NVD:CVE-2026-20361?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-26947](https://vulners.com/nvd/NVD:CVE-2026-26947?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50603](https://vulners.com/nvd/NVD:CVE-2026-50603?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59944 Composer: CVE-2026-59946 fix bypass via symlinked package bin path](https://vulners.com/cve/CVE-2026-59944?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59944 Composer: CVE-2026-59946 fix bypass via symlinked package bin path](https://vulners.com/cvelist/CVELIST:CVE-2026-59944?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59974 Stanza: Zip Slip Path Traversal in Model/Resource Extraction](https://vulners.com/cve/CVE-2026-59974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -184,6 +205,7 @@
   - [CVE-2026-82561](https://vulners.com/nvd/NVD:CVE-2026-82561?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85469](https://vulners.com/nvd/NVD:CVE-2026-85469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86089](https://vulners.com/nvd/NVD:CVE-2026-86089?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-86311](https://vulners.com/nvd/NVD:CVE-2026-86311?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86831](https://vulners.com/nvd/NVD:CVE-2026-86831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86865](https://vulners.com/nvd/NVD:CVE-2026-86865?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87024](https://vulners.com/nvd/NVD:CVE-2026-87024?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -237,13 +259,22 @@
   - [CVE-2026-92627](https://vulners.com/nvd/NVD:CVE-2026-92627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92808](https://vulners.com/nvd/NVD:CVE-2026-92808?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92838](https://vulners.com/nvd/NVD:CVE-2026-92838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92839](https://vulners.com/nvd/NVD:CVE-2026-92839?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)](https://www.wired.com/story/amazon-prime-day-october-2026-tips/)
+  - [Best Buy Discount Codes: 60% Off](https://www.wired.com/story/best-buy-discount-code/)
+  - [HelloFresh Promo Codes: 55% Off for September 2026](https://www.wired.com/story/hellofresh-coupon/)
   - [Here’s What Snap’s Expensive Specs Can Actually Do](https://www.wired.com/story/what-snap-expensive-specs-can-actually-do/)
+  - [Hydrow Discount Code: Save Up to $150 | September 2026](https://www.wired.com/story/hydrow-discount-code/)
+  - [L.L.Bean Promo Codes and Coupons: 75% Off](https://www.wired.com/story/ll-bean-promo-code/)
   - [MacOS 27 Golden Gate: Top New Features](https://www.wired.com/story/macos-27-golden-gate-top-features/)
   - [Meet Dyson's New Robot Vacuum Line: The Dyson Nurovi Line (2026)](https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/)
+  - [Noom Promo Codes: 50% Off Best Deals & Free Trials for September 2026](https://www.wired.com/story/noom-promo-code/)
   - [OpenAI Creates a New Framework to Disclose Bad AI Behavior](https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/)
+  - [Ring Promo Code: 50% Off](https://www.wired.com/story/ring-promo-code/)
+  - [SteelSeries Coupon Codes: 15% Off in September 2026](https://www.wired.com/story/steelseries-coupon-code/)
   - [The Best Movies to Stream This Month (September 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
+  - [Vivid Seats Promo Codes and Deals: Get 10% Off](https://www.wired.com/story/vivid-seats-promo-code/)
 - 不安全
   - [mini-diarium v0.7.3](https://buaq.net/go-442927.html)
   - [netbox v4.7.1](https://buaq.net/go-442926.html)
@@ -253,3 +284,5 @@
   - [PDF 解析为什么难：一份面向 RAG 的问题清单与解决路线 - bamb00](https://www.cnblogs.com/goodhacker/p/23008551)
 - 奇客Solidot–传递最新科技情报
   - [付费给大学生睡足七小时提高了他们的学习成绩](https://www.solidot.org/story?sid=85400)
+- 量子位 QbitAI
+  - [马斯克睡进工地！为AI基建拼了](https://www.qbitai.com/2026/09/491280.html)
