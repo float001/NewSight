@@ -3,6 +3,7 @@
 - 2Libra
   - [12 级这经验条一动不动的](https://2libra.com/post/forum-function/OL9Meva)
   - [9 月 17 日资本市场大事提醒](https://2libra.com/post/social-observation/1WY1p4w)
+  - [forkgram/tdesktop 记住上次播放的音频, 下次启动后自动加载到顶部](https://2libra.com/post/open-source-sharing/L7fg6JD)
   - [union-alpha 只有 262K 上下文, 这是个干脏活的模型, 不是干重活的模型啊](https://2libra.com/post/large-models/AM94uM3)
   - [【人生规划】DINK 的真心话：养老靠钱，不靠子女](https://2libra.com/post/personal-life/1nQa2Sb)
   - [【💰】全职摸鱼周！启动！](https://2libra.com/post/touch-fish/t-5yhtB)
@@ -10,6 +11,7 @@
   - [一次相亲](https://2libra.com/post/love/v47hPI3)
   - [中秋福利！](https://2libra.com/post/slacking-off/DVAIljK)
   - [中秋节到了，大家公司都发了什么过节福利啊？](https://2libra.com/post/festival-things/jp-6zKK)
+  - [八卦一下，你们公司的行政是一个什么岗位，负责那些工作？](https://2libra.com/post/office-life/S4jjUuV)
   - [公司安装了考勤打卡机](https://2libra.com/post/office-life/EBsMvOF)
   - [可恶的女人！](https://2libra.com/post/family/yUw_z2n)
   - [小羊毛不少，每天可薅，有的时候会忘记，AI 个了小软件](https://2libra.com/post/deal-hunter/N1nkuFS)
@@ -20,11 +22,14 @@
   - [观某黄姓艺人事件有感](https://2libra.com/post/hotspot-tracking/fOWs4I2)
   - [论坛有中秋福利吗](https://2libra.com/post/forum-function/ndFAr6V)
   - [难受香菇](https://2libra.com/post/forum-function/rlhmDh5)
+  - [高铁一等座和二等座的区别有多大](https://2libra.com/post/personal-life/GeswSyh)
 - Ars Technica
   - [It’s OK to tell ICE their actions will haunt them, judge rules in speech fight](https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/)
   - [Nonprofit that tracks meteors taken down by "critical blow" from a cyberattack](https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/)
 - Blog - Praetorian
   - [Credentials Are Still the Shortest Path In](https://www.praetorian.com/blog/credential-testing-brutus/)
+- Bruce's Blog
+  - [Modern Windows Shell Guide 2026: PowerShell 7 & Nushell](https://www.heyuan110.com/posts/ai/2026-09-17-modern-windows-shell-terminal-guide/)
 - CERT Recently Published Vulnerability Notes
   - [VU#369093: MLflow dspy and statsmodels flavors bypass pickle deserialization control](https://kb.cert.org/vuls/id/369093)
 - Chainalysis Blog
@@ -69,6 +74,7 @@
   - [Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=AEC327B9-1922-59D9-A6E4-F17826FB024A&utm_source=rss&utm_medium=rss)
+  - [poc-ghas-vulnerability-report-generator exploit](https://sploitus.com/exploit?id=7B27AF8F-CA52-5B45-B1F1-5AD7A4BFC982&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera](https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/)
   - [AI labs want in-house auditors — but maybe they should shut the front door first](https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/)
@@ -87,6 +93,7 @@
   - [US automakers could soon be forced to include AM radio for free](https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/)
   - [X will now let U.S. users trade via cashtags](https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/)
   - [Your AI agents can now control your Google Home devices](https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/)
+  - [Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/)
 - The Block
   - [Aave founder pitches ‘Uber path’ for DeFi after Clarity Act fails Senate vote](https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278)
   - [Bitcoin, ether swing after unanimous quarter-point Fed rate hike as Warsh takes aim at inflation](https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307)
