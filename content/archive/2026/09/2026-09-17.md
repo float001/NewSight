@@ -53,6 +53,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OpenAI discloses 6 new cases of ‘misaligned’ AI behavior](https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polymarket users referred to prosecutors in South Korea: Report](https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [State hackers drive 420% surge in onchain malware, Chainalysis finds](https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK FCA sets crypto authorization guidance ahead of September application window](https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US lawmakers advance bill to lock Trump’s Bitcoin reserve into law](https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash gains 20% as Paradigm founder reveals firm made ZEC investment](https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -86,12 +87,15 @@
   - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [AI Agent Carries Out Multi-Stage Data Theft Attack](https://www.infosecurity-magazine.com/news/ai-agent-carries-out-multistage/)
+  - [Cisco Warns of Active Exploitation of Critical ISE Flaw](https://www.infosecurity-magazine.com/news/cisco-active-exploitation-critical/)
 - krebsonsecurity.com
   - [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
 - micahflee.com
   - [Flock cameras are riddled with security vulnerabilities and hard-coded credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/)
 - OpenAI Blog
   - [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
+- OpenZeppelin Blog
+  - [S&P Global Enters Agreement to Acquire OpenZeppelin](https://www.openzeppelin.com/news/spglobal-enters-agreement-to-acquire-openzeppelin)
 - pluralistic.net
   - [Pluralistic: On the sincerity of AI bosses (17 Sep 2026)](https://pluralistic.net/2026/09/17/porque-no-los-dos/)
 - Product Hunt
@@ -143,6 +147,7 @@
   - [Aave founder pitches ‘Uber path’ for DeFi after Clarity Act fails Senate vote](https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278)
   - [Bitcoin, ether swing after unanimous quarter-point Fed rate hike as Warsh takes aim at inflation](https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307)
   - [Bitwise CIO Hougan revises Clarity Act outlook, says crypto bull market may continue without legislation](https://www.theblock.co/news/markets/2026-09-17-bitwise-cio-hougan-revises-clarity-act-outlook-says-crypto-bull-market-may-continue-without-legislation-415339)
+  - [Grayscale’s Pandl still sees bitcoin’s $58K low as the bottom, gives clients ‘green light’](https://www.theblock.co/news/markets/2026-09-17-grayscales-pandl-still-sees-bitcoins-58k-low-as-the-bottom-gives-clients-green-light-415346)
   - [House committee moves to codify Trump’s Strategic Bitcoin Reserve](https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317)
   - [House panel approves first federal crypto tax framework, one day after Senate’s Clarity Act stumbles](https://www.theblock.co/news/regulation/2026-09-16-house-panel-approves-first-federal-crypto-tax-framework-one-day-after-senates-clarity-act-stumbles-415293)
   - [JPMorgan says Clarity Act ‘not fully dead,’ but passage window ‘extremely narrow’](https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280)
@@ -161,10 +166,12 @@
   - [Claude comes for Gemini with its own take on Docs and Slides](https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides)
   - [Google will now let any AI agent run your smart home](https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date)
   - [I wore Snap’s $2,200 smart glasses](https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses)
+  - [Inside the suddenly explosive world of AI safety](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic)
   - [Resident Evil is a comedy first and a thrilling nightmare second](https://www.theverge.com/entertainment/996416/resident-zach-cregger-review)
   - [Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac](https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac)
   - [The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long](https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review)
   - [The AI data center e-waste problem is huge — and getting bigger](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban)
+  - [The Apple Watch Series 12 is the start of a new wearable era](https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch)
   - [The streamers are fighting over Halloween](https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie)
   - [Walmart takes a bite off the cost of Metroid Ravenous physical preorders](https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale)
   - [Your ‘health age’ is fake](https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity)
@@ -345,6 +352,9 @@
   - [Vivid Seats Promo Codes and Deals: Get 10% Off](https://www.wired.com/story/vivid-seats-promo-code/)
   - [‘Fast & Furious’ Takes a Victory Lap With a Ferociously Fun Roller Coaster](https://www.wired.com/story/fast-and-furious-roller-coaster/)
 - 不安全
+  - [12 celebrity deepfake websites seized by Manhattan DA](https://buaq.net/go-443018.html)
+  - [[Release] Veridiff v0.2.4 — Zero-Allocation Dynamic Branch Divergence Engine for ARM64/x86](https://buaq.net/go-443021.html)
+  - [BrokenPipe](https://buaq.net/go-443025.html)
   - [essh v0.4.0](https://buaq.net/go-442954.html)
   - [mini-diarium v0.7.3](https://buaq.net/go-442927.html)
   - [netbox v4.7.1](https://buaq.net/go-442926.html)
