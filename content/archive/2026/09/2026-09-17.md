@@ -10,12 +10,15 @@
   - [【💰】AI 发展的终极是什么](https://2libra.com/post/ai-trends/vE5SjVV)
   - [【💰】全职摸鱼周！启动！](https://2libra.com/post/touch-fish/t-5yhtB)
   - [【💰】大家有没有发现 codex 订阅现在蹬的超快？？？？](https://2libra.com/post/ai-programming/j4h7mjm)
+  - [【💰】永生必须舍弃肉身，最多最多保留大脑](https://2libra.com/post/idea/IMRU_02)
   - [一次相亲](https://2libra.com/post/love/v47hPI3)
   - [中秋福利！](https://2libra.com/post/slacking-off/DVAIljK)
   - [中秋节到了，大家公司都发了什么过节福利啊？](https://2libra.com/post/festival-things/jp-6zKK)
   - [八卦一下，你们公司的行政是一个什么岗位，负责那些工作？](https://2libra.com/post/office-life/S4jjUuV)
   - [公司安装了考勤打卡机](https://2libra.com/post/office-life/EBsMvOF)
+  - [农行抖音省钱月卡](https://2libra.com/post/deal-hunter/S805QuJ)
   - [可恶的女人！](https://2libra.com/post/family/yUw_z2n)
+  - [嘎双眼皮](https://2libra.com/post/health-consultation/qb0aEFj)
   - [安逸久了好像有点废了](https://2libra.com/post/slacking-off/JlTsazu)
   - [小羊毛不少，每天可薅，有的时候会忘记，AI 个了小软件](https://2libra.com/post/deal-hunter/N1nkuFS)
   - [想学习钢琴（已买不会弹），目前是小白，有无学习推荐？](https://2libra.com/post/recommendations/3SV_vYf)
@@ -42,6 +45,7 @@
   - [Chainalysis Supports Arc with Automatic Token Support](https://www.chainalysis.com/blog/chainalysis-supports-arc-with-automatic-token-support/)
 - CoinTelegraph
   - [Bitcoin absorbs Fed rate hike as officials see more tightening](https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger](https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitMEX faces Celsius lawsuit ahead of exchange closure](https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CLARITY Act could get another shot during lame-duck session, policy advocate says](https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -63,6 +67,7 @@
 - Hacker News Frontpage
   - [Code Is Crap](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
   - [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)
+  - [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
   - [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
   - [The President's Power to Pardon Friends and Allies Must End](https://medium.com/freedomofthought/the-presidents-power-to-pardon-friends-and-allies-must-end-b9574f9eedfb)
   - [We've created the first vectorized Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
@@ -74,6 +79,8 @@
 - InfoSec Write-ups - Medium
   - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
   - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
+- infosecurity-magazine.com
+  - [AI Agent Carries Out Multi-Stage Data Theft Attack](https://www.infosecurity-magazine.com/news/ai-agent-carries-out-multistage/)
 - krebsonsecurity.com
   - [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
 - micahflee.com
@@ -183,6 +190,9 @@
   - [CVE-2026-20361](https://vulners.com/nvd/NVD:CVE-2026-20361?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-26947](https://vulners.com/nvd/NVD:CVE-2026-26947?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50603](https://vulners.com/nvd/NVD:CVE-2026-50603?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50605](https://vulners.com/nvd/NVD:CVE-2026-50605?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50606](https://vulners.com/nvd/NVD:CVE-2026-50606?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50607](https://vulners.com/nvd/NVD:CVE-2026-50607?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59944 Composer: CVE-2026-59946 fix bypass via symlinked package bin path](https://vulners.com/cve/CVE-2026-59944?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59944 Composer: CVE-2026-59946 fix bypass via symlinked package bin path](https://vulners.com/cvelist/CVELIST:CVE-2026-59944?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59974 Stanza: Zip Slip Path Traversal in Model/Resource Extraction](https://vulners.com/cve/CVE-2026-59974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -222,6 +232,7 @@
   - [CVE-2026-85469](https://vulners.com/nvd/NVD:CVE-2026-85469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86089](https://vulners.com/nvd/NVD:CVE-2026-86089?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86311](https://vulners.com/nvd/NVD:CVE-2026-86311?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-86320](https://vulners.com/nvd/NVD:CVE-2026-86320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86446](https://vulners.com/nvd/NVD:CVE-2026-86446?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86707](https://vulners.com/nvd/NVD:CVE-2026-86707?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86709](https://vulners.com/nvd/NVD:CVE-2026-86709?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -237,6 +248,8 @@
   - [CVE-2026-87113](https://vulners.com/nvd/NVD:CVE-2026-87113?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87116](https://vulners.com/nvd/NVD:CVE-2026-87116?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87786](https://vulners.com/nvd/NVD:CVE-2026-87786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-87829](https://vulners.com/nvd/NVD:CVE-2026-87829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-87831](https://vulners.com/nvd/NVD:CVE-2026-87831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87836](https://vulners.com/nvd/NVD:CVE-2026-87836?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87976](https://vulners.com/nvd/NVD:CVE-2026-87976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88592](https://vulners.com/nvd/NVD:CVE-2026-88592?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -300,6 +313,7 @@
 - Wired
   - [A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)](https://www.wired.com/story/amazon-prime-day-october-2026-tips/)
   - [Best Buy Discount Codes: 60% Off](https://www.wired.com/story/best-buy-discount-code/)
+  - [Flock Once Touted Its Cameras as ‘Made in the USA.’ Now It’s Not So Clear](https://www.wired.com/story/flock-once-touted-its-cameras-as-made-in-the-usa-now-its-not-so-clear/)
   - [HelloFresh Promo Codes: 55% Off for September 2026](https://www.wired.com/story/hellofresh-coupon/)
   - [Here’s What Snap’s Expensive Specs Can Actually Do](https://www.wired.com/story/what-snap-expensive-specs-can-actually-do/)
   - [Hydrow Discount Code: Save Up to $150 | September 2026](https://www.wired.com/story/hydrow-discount-code/)
@@ -325,7 +339,10 @@
   - [付费给大学生睡足七小时提高了他们的学习成绩](https://www.solidot.org/story?sid=85400)
   - [商船再次安装基于风帆的推进系统](https://www.solidot.org/story?sid=85403)
 - 爱范儿
+  - [ColorOS 17 发布，OPPO 想让 AI 往前一步，主动一些聪明一些](https://www.ifanr.com/1680691?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [OPPO Find X10 体验：想得周到，拍得好看](https://www.ifanr.com/1680665?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [我用 Vidu S2 找来了「乔布斯」，跟他聊了聊 iPhone Duo](https://www.ifanr.com/1680700?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [用 Seedance 2.5 拍《沙丘 3》，我们替你把 AI 短片的坑全都踩过了](https://www.ifanr.com/1680580?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [刚刚，唐杰发布智谱RSI首个成果](https://www.qbitai.com/2026/09/491357.html)
   - [马斯克睡进工地！为AI基建拼了](https://www.qbitai.com/2026/09/491280.html)
