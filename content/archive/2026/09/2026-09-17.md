@@ -7,6 +7,7 @@
   - [union-alpha 只有 262K 上下文, 这是个干脏活的模型, 不是干重活的模型啊](https://2libra.com/post/large-models/AM94uM3)
   - [workbuddy 反代](https://2libra.com/post/ai-gateway/xUSkRUz)
   - [【人生规划】DINK 的真心话：养老靠钱，不靠子女](https://2libra.com/post/personal-life/1nQa2Sb)
+  - [【投票】现在浏览设置中“随系统变化主题”调整为默认开启 ，需要再调整不？](https://2libra.com/post/forum-function/4yR45hn)
   - [【💰】AI 发展的终极是什么](https://2libra.com/post/ai-trends/vE5SjVV)
   - [【💰】全职摸鱼周！启动！](https://2libra.com/post/touch-fish/t-5yhtB)
   - [【💰】大家有没有发现 codex 订阅现在蹬的超快？？？？](https://2libra.com/post/ai-programming/j4h7mjm)
@@ -50,6 +51,7 @@
   - [CLARITY Act could get another shot during lame-duck session, policy advocate says](https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OpenAI discloses 6 new cases of ‘misaligned’ AI behavior](https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Polymarket users referred to prosecutors in South Korea: Report](https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK FCA sets crypto authorization guidance ahead of September application window](https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US lawmakers advance bill to lock Trump’s Bitcoin reserve into law](https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -147,6 +149,7 @@
   - [Apple is reportedly building an enterprise AI server with its own M8 Ultra chips](https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/)
   - [EU president warns AI agents "escaping their environment" are just a preview of what's coming](https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/)
   - [Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI](https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/)
+  - [OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years](https://the-decoder.com/openais-gpt-6-astra-decrypts-a-nazi-radio-message-in-ten-hours-that-went-unsolved-for-83-years/)
 - The Verge
   - [Apple might make servers again to cash in on the AI rush](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia)
   - [Claude comes for Gemini with its own take on Docs and Slides](https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides)
@@ -325,12 +328,14 @@
   - [Ring Promo Code: 50% Off](https://www.wired.com/story/ring-promo-code/)
   - [SteelSeries Coupon Codes: 15% Off in September 2026](https://www.wired.com/story/steelseries-coupon-code/)
   - [The Best Movies to Stream This Month (September 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
+  - [The Trump Administration Sends a New Signal to Alien Disclosure Whistleblowers](https://www.wired.com/story/trump-defense-department-sends-alien-disclosure-signal/)
   - [Vivid Seats Promo Codes and Deals: Get 10% Off](https://www.wired.com/story/vivid-seats-promo-code/)
 - 不安全
   - [essh v0.4.0](https://buaq.net/go-442954.html)
   - [mini-diarium v0.7.3](https://buaq.net/go-442927.html)
   - [netbox v4.7.1](https://buaq.net/go-442926.html)
   - [socks5 v0.8.0](https://buaq.net/go-442974.html)
+  - [sysreptor v2026.75](https://buaq.net/go-442996.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客园 - bamb00
@@ -341,6 +346,7 @@
 - 爱范儿
   - [ColorOS 17 发布，OPPO 想让 AI 往前一步，主动一些聪明一些](https://www.ifanr.com/1680691?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [OPPO Find X10 体验：想得周到，拍得好看](https://www.ifanr.com/1680665?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [刚刚，智谱首个 RSI 成果发布，10 万国产卡用 GLM 造 GLM](https://www.ifanr.com/1680560?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [我用 Vidu S2 找来了「乔布斯」，跟他聊了聊 iPhone Duo](https://www.ifanr.com/1680700?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [用 Seedance 2.5 拍《沙丘 3》，我们替你把 AI 短片的坑全都踩过了](https://www.ifanr.com/1680580?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
