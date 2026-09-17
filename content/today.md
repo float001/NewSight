@@ -1,17 +1,25 @@
 # 今日安全资讯（2026-09-17）
 
 - 2Libra
+  - [12 级这经验条一动不动的](https://2libra.com/post/forum-function/OL9Meva)
   - [9 月 17 日资本市场大事提醒](https://2libra.com/post/social-observation/1WY1p4w)
   - [union-alpha 只有 262K 上下文, 这是个干脏活的模型, 不是干重活的模型啊](https://2libra.com/post/large-models/AM94uM3)
   - [【人生规划】DINK 的真心话：养老靠钱，不靠子女](https://2libra.com/post/personal-life/1nQa2Sb)
   - [【💰】全职摸鱼周！启动！](https://2libra.com/post/touch-fish/t-5yhtB)
   - [【💰】大家有没有发现 codex 订阅现在蹬的超快？？？？](https://2libra.com/post/ai-programming/j4h7mjm)
   - [一次相亲](https://2libra.com/post/love/v47hPI3)
+  - [中秋福利！](https://2libra.com/post/slacking-off/DVAIljK)
+  - [中秋节到了，大家公司都发了什么过节福利啊？](https://2libra.com/post/festival-things/jp-6zKK)
+  - [公司安装了考勤打卡机](https://2libra.com/post/office-life/EBsMvOF)
   - [可恶的女人！](https://2libra.com/post/family/yUw_z2n)
   - [小羊毛不少，每天可薅，有的时候会忘记，AI 个了小软件](https://2libra.com/post/deal-hunter/N1nkuFS)
+  - [想学习钢琴（已买不会弹），目前是小白，有无学习推荐？](https://2libra.com/post/recommendations/3SV_vYf)
+  - [我要吐槽！](https://2libra.com/post/workplace-stories/f8E6mPp)
   - [最近的一些叨叨](https://2libra.com/post/personal-life/qmX24jo)
   - [签到大失败了。。了。](https://2libra.com/post/forum-function/hHrQcHf)
   - [观某黄姓艺人事件有感](https://2libra.com/post/hotspot-tracking/fOWs4I2)
+  - [论坛有中秋福利吗](https://2libra.com/post/forum-function/ndFAr6V)
+  - [难受香菇](https://2libra.com/post/forum-function/rlhmDh5)
 - Ars Technica
   - [It’s OK to tell ICE their actions will haunt them, judge rules in speech fight](https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/)
   - [Nonprofit that tracks meteors taken down by "critical blow" from a cyberattack](https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/)
@@ -22,6 +30,7 @@
 - Chainalysis Blog
   - [Chainalysis Supports Arc with Automatic Token Support](https://www.chainalysis.com/blog/chainalysis-supports-arc-with-automatic-token-support/)
 - CoinTelegraph
+  - [Bitcoin absorbs Fed rate hike as officials see more tightening](https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CLARITY Act could get another shot during lame-duck session, policy advocate says](https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK FCA sets crypto authorization guidance ahead of September application window](https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -54,6 +63,8 @@
   - [Flock cameras are riddled with security vulnerabilities and hard-coded credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/)
 - OpenAI Blog
   - [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
+- rtl-sdr.com
+  - [LakeShark: P25 Phase 1, FM, POCSAG, ADS-B and Sub-GHz with an RTL-SDR on the LilyGO T-Display P4 (ESP32-P4)](https://www.rtl-sdr.com/lakeshark-p25-phase-1-fm-pocsag-ads-b-and-sub-ghz-with-an-rtl-sdr-on-the-lilygo-t-display-p4-esp32-p4/)
 - simonwillison.net
   - [Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/)
 - Sploitus.com Exploits RSS Feed
@@ -83,6 +94,7 @@
   - [House panel approves first federal crypto tax framework, one day after Senate’s Clarity Act stumbles](https://www.theblock.co/news/regulation/2026-09-16-house-panel-approves-first-federal-crypto-tax-framework-one-day-after-senates-clarity-act-stumbles-415293)
   - [JPMorgan says Clarity Act ‘not fully dead,’ but passage window ‘extremely narrow’](https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280)
   - [‘Go time’: SEC, CFTC prepare to push crypto rules as Clarity Act stalls in Senate](https://www.theblock.co/news/regulation/2026-09-16-go-time-sec-cftc-prepare-push-crypto-rules-clarity-act-stalls-senate-415281)
+  - [‘Not the end’: Sen. Gillibrand says Democrats still committed to passing Clarity Act](https://www.theblock.co/news/regulation/2026-09-16-sen-gillibrand-still-committed-to-clarity-415326)
 - The Decoder
   - [Anthropic merges Claude Chat, Cowork, and more into a single product](https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/)
   - [Apple is reportedly building an enterprise AI server with its own M8 Ultra chips](https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/)
@@ -97,6 +109,7 @@
   - [Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac](https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac)
   - [The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long](https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review)
   - [The AI data center e-waste problem is huge — and getting bigger](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban)
+  - [The streamers are fighting over Halloween](https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie)
   - [Walmart takes a bite off the cost of Metroid Ravenous physical preorders](https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale)
   - [Your ‘health age’ is fake](https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity)
 - Vulners.com RSS Feed
@@ -158,6 +171,7 @@
   - [CVE-2026-76423](https://vulners.com/nvd/NVD:CVE-2026-76423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76423 Cisco ISE API Authentication Bypass Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-76423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76646](https://vulners.com/nvd/NVD:CVE-2026-76646?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81546](https://vulners.com/nvd/NVD:CVE-2026-81546?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81866](https://vulners.com/nvd/NVD:CVE-2026-81866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81870](https://vulners.com/nvd/NVD:CVE-2026-81870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82561](https://vulners.com/nvd/NVD:CVE-2026-82561?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -215,6 +229,7 @@
   - [CVE-2026-92626](https://vulners.com/nvd/NVD:CVE-2026-92626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92627](https://vulners.com/nvd/NVD:CVE-2026-92627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92808](https://vulners.com/nvd/NVD:CVE-2026-92808?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92838](https://vulners.com/nvd/NVD:CVE-2026-92838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)](https://www.wired.com/story/amazon-prime-day-october-2026-tips/)
   - [Here’s What Snap’s Expensive Specs Can Actually Do](https://www.wired.com/story/what-snap-expensive-specs-can-actually-do/)
@@ -227,5 +242,7 @@
   - [netbox v4.7.1](https://buaq.net/go-442926.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客园 - bamb00
+  - [PDF 解析为什么难：一份面向 RAG 的问题清单与解决路线 - bamb00](https://www.cnblogs.com/goodhacker/p/23008551)
 - 奇客Solidot–传递最新科技情报
   - [付费给大学生睡足七小时提高了他们的学习成绩](https://www.solidot.org/story?sid=85400)
