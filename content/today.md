@@ -1,8 +1,12 @@
 # 今日安全资讯（2026-09-18）
 
+- 404 Media
+  - [‘Flock City PD:’ The Fake Flock-Owned ‘Police Department’ That Searched Real Cameras for Real People](https://www.404media.co/flock-city-pd-the-fake-flock-owned-police-department-that-searched-real-cameras-for-real-people/)
 - CoinTelegraph
   - [Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike](https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [WisdomTree, MoonPay team up to expand US access to tokenized money market fund](https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [cups2root: New CUPS Zero-Day Escalates lpadmin to Root](https://www.cyberkendra.com/2026/09/cups2root-cups-lpadmin-root-zero-day.html)
 - Hacker News Frontpage
   - [Ask HN: How to recover Google auth after phone stolen?](https://news.ycombinator.com/item?id=49742976)
   - [Economic Policy for AGI](https://institute.deepmind.com/essays/economic-policy-for-agi/)
@@ -13,20 +17,36 @@
   - [CyberCom 2.0 and the Revolution in AI-Enabled Offensive Cyber Operations](https://horizon3.ai/downloads/whitepapers/cybercom-2-0-ai-enabled-offensive-cyber-operations/)
 - johndcook.com
   - [Empirical fractal](https://www.johndcook.com/blog/2026/09/17/empirical-fractal/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Path Traversal in Gitlab](https://sploitus.com/exploit?id=B77CE296-3D25-5248-BE16-FF0436BC8697&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Apple will let EU apps use less-alarming tracking-consent screens](https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/)
   - [Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire](https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/)
   - [Even the King of England has his hesitations about AI](https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/)
   - [Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI](https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/)
   - [TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host](https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/)
+  - [Waymo restarts San Antonio service 5 months after flooding troubles](https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/)
 - The Block
   - [As RWA trading surges on Hyperliquid, Dragonfly’s Qureshi makes the case for a multichain future](https://www.theblock.co/news/ecosystems/2026-09-17-as-rwa-trading-surges-hyperliquid-dragonflys-qureshi-makes-case-multichain-future-415406)
   - [JPMorgan says bitcoin could get more support than gold if ETF hedging eases](https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421)
   - [Regulators keep moving on crypto: CFTC follows SEC with developer-friendly no-action stance](https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425)
+- The Decoder
+  - [Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows](https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/)
 - The Verge
+  - [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)
   - [Save $30 or more on a refurbished Apple TV 4K](https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale)
 - Vulners.com RSS Feed
+  - [Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://vulners.com/thn/THN:F8E39FAF20D089FC1AF62E4C5CFC2C87?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12284](https://vulners.com/nvd/NVD:CVE-2026-12284?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44235](https://vulners.com/nvd/NVD:CVE-2026-44235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44236](https://vulners.com/nvd/NVD:CVE-2026-44236?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52836](https://vulners.com/nvd/NVD:CVE-2026-52836?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54053](https://vulners.com/nvd/NVD:CVE-2026-54053?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54446](https://vulners.com/nvd/NVD:CVE-2026-54446?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54546](https://vulners.com/nvd/NVD:CVE-2026-54546?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54551](https://vulners.com/nvd/NVD:CVE-2026-54551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54676](https://vulners.com/nvd/NVD:CVE-2026-54676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54677](https://vulners.com/nvd/NVD:CVE-2026-54677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56795](https://vulners.com/nvd/NVD:CVE-2026-56795?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61700](https://vulners.com/nvd/NVD:CVE-2026-61700?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-69197](https://vulners.com/nvd/NVD:CVE-2026-69197?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -37,6 +57,9 @@
   - [CVE-2026-81515](https://vulners.com/nvd/NVD:CVE-2026-81515?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81516](https://vulners.com/nvd/NVD:CVE-2026-81516?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81868](https://vulners.com/nvd/NVD:CVE-2026-81868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89038](https://vulners.com/nvd/NVD:CVE-2026-89038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92926](https://vulners.com/nvd/NVD:CVE-2026-92926?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92927](https://vulners.com/nvd/NVD:CVE-2026-92927?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93185 ASoC: rt700-sdw: always drain jack work on remove](https://vulners.com/cve/CVE-2026-93185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93186 cxl/mbox: Clamp mailbox output allocation to the payload size](https://vulners.com/cve/CVE-2026-93186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93186 cxl/mbox: Clamp mailbox output allocation to the payload size](https://vulners.com/cvelist/CVELIST:CVE-2026-93186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -75,6 +98,9 @@
   - [CVE-2026-93203 batman-adv: bla: avoid CRC corruption due to parallel claim add](https://vulners.com/cvelist/CVELIST:CVE-2026-93203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93204 batman-adv: dat: atomically update mac addresses](https://vulners.com/cve/CVE-2026-93204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93204 batman-adv: dat: atomically update mac addresses](https://vulners.com/cvelist/CVELIST:CVE-2026-93204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Path Traversal in Gitlab](https://vulners.com/githubexploit/B77CE296-3D25-5248-BE16-FF0436BC8697?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [The AI Slowdown Debate Crashed Salesforce’s Party](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
