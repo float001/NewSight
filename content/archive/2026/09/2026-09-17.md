@@ -5,7 +5,9 @@
   - [9 月 17 日资本市场大事提醒](https://2libra.com/post/social-observation/1WY1p4w)
   - [forkgram/tdesktop 记住上次播放的音频, 下次启动后自动加载到顶部](https://2libra.com/post/open-source-sharing/L7fg6JD)
   - [union-alpha 只有 262K 上下文, 这是个干脏活的模型, 不是干重活的模型啊](https://2libra.com/post/large-models/AM94uM3)
+  - [workbuddy 反代](https://2libra.com/post/ai-gateway/xUSkRUz)
   - [【人生规划】DINK 的真心话：养老靠钱，不靠子女](https://2libra.com/post/personal-life/1nQa2Sb)
+  - [【💰】AI 发展的终极是什么](https://2libra.com/post/ai-trends/vE5SjVV)
   - [【💰】全职摸鱼周！启动！](https://2libra.com/post/touch-fish/t-5yhtB)
   - [【💰】大家有没有发现 codex 订阅现在蹬的超快？？？？](https://2libra.com/post/ai-programming/j4h7mjm)
   - [一次相亲](https://2libra.com/post/love/v47hPI3)
@@ -20,6 +22,7 @@
   - [想求一个 V 站的邀请码](https://2libra.com/post/help-requests/dCpOzC5)
   - [我要吐槽！](https://2libra.com/post/workplace-stories/f8E6mPp)
   - [最近的一些叨叨](https://2libra.com/post/personal-life/qmX24jo)
+  - [王者万象棋你们体验起来感觉咋样？](https://2libra.com/post/game-discussion/rA1aG69)
   - [看看各位的升级时间线](https://2libra.com/post/forum-function/SEvNcYh)
   - [签到大失败了。。了。](https://2libra.com/post/forum-function/hHrQcHf)
   - [观某黄姓艺人事件有感](https://2libra.com/post/hotspot-tracking/fOWs4I2)
@@ -77,6 +80,8 @@
   - [Flock cameras are riddled with security vulnerabilities and hard-coded credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/)
 - OpenAI Blog
   - [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
+- pluralistic.net
+  - [Pluralistic: On the sincerity of AI bosses (17 Sep 2026)](https://pluralistic.net/2026/09/17/porque-no-los-dos/)
 - Product Hunt
   - [MCPJam](https://www.producthunt.com/products/mcpjam-inspector)
   - [S-Roll](https://www.producthunt.com/products/s-roll)
@@ -311,12 +316,14 @@
   - [essh v0.4.0](https://buaq.net/go-442954.html)
   - [mini-diarium v0.7.3](https://buaq.net/go-442927.html)
   - [netbox v4.7.1](https://buaq.net/go-442926.html)
+  - [socks5 v0.8.0](https://buaq.net/go-442974.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客园 - bamb00
   - [PDF 解析为什么难：一份面向 RAG 的问题清单与解决路线 - bamb00](https://www.cnblogs.com/goodhacker/p/23008551)
 - 奇客Solidot–传递最新科技情报
   - [付费给大学生睡足七小时提高了他们的学习成绩](https://www.solidot.org/story?sid=85400)
+  - [商船再次安装基于风帆的推进系统](https://www.solidot.org/story?sid=85403)
 - 爱范儿
   - [OPPO Find X10 体验：想得周到，拍得好看](https://www.ifanr.com/1680665?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [用 Seedance 2.5 拍《沙丘 3》，我们替你把 AI 短片的坑全都踩过了](https://www.ifanr.com/1680580?utm_source=rss&utm_medium=rss&utm_campaign=)
