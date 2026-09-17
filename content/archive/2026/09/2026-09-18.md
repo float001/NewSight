@@ -4,16 +4,22 @@
   - [‘Flock City PD:’ The Fake Flock-Owned ‘Police Department’ That Searched Real Cameras for Real People](https://www.404media.co/flock-city-pd-the-fake-flock-owned-police-department-that-searched-real-cameras-for-real-people/)
 - CoinTelegraph
   - [Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike](https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [CFTC expands regulatory relief for passive trading software providers](https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [WisdomTree, MoonPay team up to expand US access to tokenized money market fund](https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [cups2root: New CUPS Zero-Day Escalates lpadmin to Root](https://www.cyberkendra.com/2026/09/cups2root-cups-lpadmin-root-zero-day.html)
+  - [OpenAI Model Misalignment Reports: Six Cases Disclosed](https://www.cyberkendra.com/2026/09/openai-model-misalignment-reporting-framework.html)
+- darkreading
+  - [China's FamousSparrow APT Spies on US Politics in Latin America](https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america)
 - Hacker News Frontpage
   - [Ask HN: How to recover Google auth after phone stolen?](https://news.ycombinator.com/item?id=49742976)
   - [Economic Policy for AGI](https://institute.deepmind.com/essays/economic-policy-for-agi/)
   - [hister](https://github.com/asciimoo/hister)
   - [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](https://skillsync.com)
+  - [Missouri governor orders guardrails on Flock cameras and ALPRs](https://www.stlpr.org/news-briefs/2026-09-16/flock-cameras-guardrails-missouri-kehoe)
   - [Show HN: Die With Me – Claude and Codex rate limits as AIM away messages](https://diewithme.co/join)
 - Horizon3.ai
+  - [CTEM Buyer’s Guide: How to Evaluate the Technologies That Turn Continuous Threat Exposure Management Into an Operating Model](https://horizon3.ai/downloads/whitepapers/ctem-buyers-guide/)
   - [CyberCom 2.0 and the Revolution in AI-Enabled Offensive Cyber Operations](https://horizon3.ai/downloads/whitepapers/cybercom-2-0-ai-enabled-offensive-cyber-operations/)
 - johndcook.com
   - [Empirical fractal](https://www.johndcook.com/blog/2026/09/17/empirical-fractal/)
@@ -23,18 +29,22 @@
   - [Apple will let EU apps use less-alarming tracking-consent screens](https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/)
   - [Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire](https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/)
   - [Even the King of England has his hesitations about AI](https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/)
+  - [Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
   - [Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI](https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/)
   - [TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host](https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/)
+  - [UN turns to Google to make its global data ready for AI agents](https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/)
   - [Waymo restarts San Antonio service 5 months after flooding troubles](https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/)
 - The Block
   - [As RWA trading surges on Hyperliquid, Dragonfly’s Qureshi makes the case for a multichain future](https://www.theblock.co/news/ecosystems/2026-09-17-as-rwa-trading-surges-hyperliquid-dragonflys-qureshi-makes-case-multichain-future-415406)
   - [JPMorgan says bitcoin could get more support than gold if ETF hedging eases](https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421)
   - [Regulators keep moving on crypto: CFTC follows SEC with developer-friendly no-action stance](https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425)
+  - [US sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC](https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462)
 - The Decoder
   - [Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows](https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/)
 - The Verge
   - [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)
   - [Save $30 or more on a refurbished Apple TV 4K](https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale)
+  - [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic)
 - Vulners.com RSS Feed
   - [Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://vulners.com/thn/THN:F8E39FAF20D089FC1AF62E4C5CFC2C87?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12284](https://vulners.com/nvd/NVD:CVE-2026-12284?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -100,7 +110,9 @@
   - [CVE-2026-93204 batman-adv: dat: atomically update mac addresses](https://vulners.com/cvelist/CVELIST:CVE-2026-93204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Gitlab](https://vulners.com/githubexploit/B77CE296-3D25-5248-BE16-FF0436BC8697?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers](https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/)
   - [The AI Slowdown Debate Crashed Salesforce’s Party](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/)
+  - [The AI ‘Slowdown’ Is an Antitrust Mess](https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
