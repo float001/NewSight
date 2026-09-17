@@ -37,8 +37,10 @@
   - [Chainalysis Supports Arc with Automatic Token Support](https://www.chainalysis.com/blog/chainalysis-supports-arc-with-automatic-token-support/)
 - CoinTelegraph
   - [Bitcoin absorbs Fed rate hike as officials see more tightening](https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BitMEX faces Celsius lawsuit ahead of exchange closure](https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CLARITY Act could get another shot during lame-duck session, policy advocate says](https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [OpenAI discloses 6 new cases of ‘misaligned’ AI behavior](https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK FCA sets crypto authorization guidance ahead of September application window](https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US lawmakers advance bill to lock Trump’s Bitcoin reserve into law](https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -276,6 +278,7 @@
   - [The Best Movies to Stream This Month (September 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
   - [Vivid Seats Promo Codes and Deals: Get 10% Off](https://www.wired.com/story/vivid-seats-promo-code/)
 - 不安全
+  - [essh v0.4.0](https://buaq.net/go-442954.html)
   - [mini-diarium v0.7.3](https://buaq.net/go-442927.html)
   - [netbox v4.7.1](https://buaq.net/go-442926.html)
 - 代码审计星球
