@@ -4,6 +4,7 @@
   - [" 我不得不把我的才华埋葬在昨天 "](https://2libra.com/post/ai-programming/2haRYSX)
   - [jev 模型测试网页](https://2libra.com/post/ai-tools/tkU8JsS)
   - [macOS27 遇到 bug 了](https://2libra.com/post/apple/cLu3Akz)
+  - [Zcode 被爆出静默全量上传整个工作区](https://2libra.com/post/ai-tools/kGMC_5X)
   - [【历史】铭记九一八事件 95 周年](https://2libra.com/post/history-gossip/HTZH_BE)
   - [【投票】GPT6 Astra VS DeepSeek-Flash-4.1](https://2libra.com/post/large-models/plQaar3)
   - [【投票】情感空窗期](https://2libra.com/post/love/ZtXP1DX)
@@ -11,6 +12,7 @@
   - [你们看央视新闻今天发的抗战英雄谱，水墨画真漂亮啊](https://2libra.com/post/movie-sharing/WofWYFe)
   - [右转红灯又被拍了](https://2libra.com/post/personal-life/EkHOZUT)
   - [吐槽](https://2libra.com/post/tech-rumination/jJKCjPW)
+  - [如何让两个 agent 相互对话，督促检查对方干活](https://2libra.com/post/ai-programming/iuhALth)
   - [您猜怎么着，反弹](https://2libra.com/post/forum-function/MOzPEo7)
   - [想到马上放假了就开心，然后想到周日得加班又不开心了](https://2libra.com/post/office-life/vtSe7dp)
   - [有没有切实好用的中转站推荐，plus 实在不抗造](https://2libra.com/post/ai-gateway/74w7CXc)
@@ -57,8 +59,12 @@
   - [CyberCom 2.0 and the Revolution in AI-Enabled Offensive Cyber Operations](https://horizon3.ai/downloads/whitepapers/cybercom-2-0-ai-enabled-offensive-cyber-operations/)
 - idiallo.com
   - [The Front Page of the Internet Is Up for Grabs](https://idiallo.com/byte-size/the-front-page-of-the-internet)
+- infosecurity-magazine.com
+  - [Manufacturing Accounts for 22% of all Ransomware Victims](https://www.infosecurity-magazine.com/news/manufacturing-22-ransomware-victims/)
 - johndcook.com
   - [Empirical fractal](https://www.johndcook.com/blog/2026/09/17/empirical-fractal/)
+- pluralistic.net
+  - [Pluralistic: Textured (18 Sep 2026)](https://pluralistic.net/2026/09/18/surprise/)
 - PwnDefend
   - [Getting less wrong about computing](https://www.pwndefend.com/2026/09/18/getting-less-wrong-about-computing/)
 - Sec-News 安全文摘
@@ -234,8 +240,10 @@
   - [The AI Slowdown Debate Crashed Salesforce’s Party](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/)
   - [The AI ‘Slowdown’ Is an Antitrust Mess](https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/)
 - 不安全
+  - [privacyguides.org v2026.09.17](https://buaq.net/go-443198.html)
   - [RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall](https://buaq.net/go-443192.html)
   - [screenpipe app-v2.7.42](https://buaq.net/go-443184.html)
+  - [Wake Me Up – 超简单：远程唤醒应用，支持 PC、Mac、NAS、服务器等[iPhone/iPad]](https://buaq.net/go-443197.html)
   - [婚姻拯救者？iOS 27.2测试版通话界面会显示纪念日提醒 不用再猜今天是什么日子](https://buaq.net/go-443162.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
