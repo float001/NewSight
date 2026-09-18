@@ -77,6 +77,7 @@
 - infosecurity-magazine.com
   - [CISA Upgrades Vulnerability Reporting Platform with More Automation](https://www.infosecurity-magazine.com/news/cisa-upgrades-vulnerability/)
   - [Manufacturing Accounts for 22% of all Ransomware Victims](https://www.infosecurity-magazine.com/news/manufacturing-22-ransomware-victims/)
+  - [New Settra Ransomware Variant Deployed in Attacks on Retail and Manufacturing](https://www.infosecurity-magazine.com/news/settra-ransomware-retail/)
 - johndcook.com
   - [Empirical fractal](https://www.johndcook.com/blog/2026/09/17/empirical-fractal/)
 - MIT Technology Review
@@ -114,13 +115,17 @@
   - [OpenAI caught its models leaving notes to successors to hide bad behavior](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/)
   - [Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI](https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/)
   - [PrismML hopes its tiny LLM will change how we all use AI](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/)
+  - [Researchers used Anthropic’s Claude to hack into OpenAI](https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/)
   - [TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host](https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/)
+  - [The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/)
   - [The FAA’s plan to fix air traffic? $875M worth of AI](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/)
   - [The fix for rogue AI agents could be more AI](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/)
   - [UN turns to Google to make its global data ready for AI agents](https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/)
   - [Waymo restarts San Antonio service 5 months after flooding troubles](https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/)
 - The Block
   - [As RWA trading surges on Hyperliquid, Dragonfly’s Qureshi makes the case for a multichain future](https://www.theblock.co/news/ecosystems/2026-09-17-as-rwa-trading-surges-hyperliquid-dragonflys-qureshi-makes-case-multichain-future-415406)
+  - [Ava Labs president says NYSE spent a year testing Avalanche technology for tokenization plans](https://www.theblock.co/news/ecosystems/2026-09-18-ava-labs-president-says-nyse-spent-a-year-testing-avalanche-technology-tokenization-plans-415509)
+  - [CFTC files crypto asset rulemaking with White House, pressing ahead without Congress](https://www.theblock.co/news/regulation/2026-09-18-cftc-files-crypto-asset-rulemaking-with-white-house-pressing-ahead-without-congress-415510)
   - [JPMorgan says bitcoin could get more support than gold if ETF hedging eases](https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421)
   - [Kevin O’Leary is buying crypto again, says major stock exchange adoption is the ‘watershed moment’ to watch](https://www.theblock.co/news/business/2026-09-18-kevin-oleary-is-buying-crypto-again-says-major-stock-exchange-adoption-is-the-watershed-moment-to-watch-415491)
   - [Regulators keep moving on crypto: CFTC follows SEC with developer-friendly no-action stance](https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425)
@@ -129,6 +134,7 @@
 - The Decoder
   - [42 leading mathematicians warn that AI existential risk is real and urgent](https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/)
   - [Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows](https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/)
+  - [OpenAI takes aim at the legal market with Astra for Law](https://the-decoder.com/openai-takes-aim-at-the-legal-market-with-astra-for-law/)
   - [US and China experts push for shared rules banning AI control over nuclear weapons](https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/)
 - The Verge
   - [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)
@@ -304,6 +310,7 @@
   - [Exploit for Path Traversal in Gitlab](https://vulners.com/githubexploit/B77CE296-3D25-5248-BE16-FF0436BC8697?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [26 Amazon Prime Perks You Might Know You Have (2026)](https://www.wired.com/story/amazon-prime-perks/)
+  - [Adopt This Data Center Plushie and Hear Its Piercing Scream](https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/)
   - [Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More](https://www.wired.com/story/best-open-earbuds/)
   - [Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers](https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/)
   - [He Won the Nobel Prize for Protein Design. Now He Uses AI to Create Molecules Not Found in Nature](https://www.wired.com/story/nobel-prize-protein-design-now-using-ai-to-create-molecules-beyond-nature/)
