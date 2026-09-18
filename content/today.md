@@ -33,7 +33,9 @@
   - [Bitcoin cycle bottom may already be in at $58K, says analyst James Check](https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack](https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC expands regulatory relief for passive trading software providers](https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028](https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [HYPE hits record above $90 as Hyperliquid launches manual borrowing](https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korea drives onchain malware surge, CoinEx shuts: Asia Express](https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin payments firm dtcpay closes $25M round with SBI backing](https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments](https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -75,14 +77,22 @@
   - [Manufacturing Accounts for 22% of all Ransomware Victims](https://www.infosecurity-magazine.com/news/manufacturing-22-ransomware-victims/)
 - johndcook.com
   - [Empirical fractal](https://www.johndcook.com/blog/2026/09/17/empirical-fractal/)
+- MIT Technology Review
+  - [Could AI really kill us all? Your questions, answered.](https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/)
+- Pen Test Partners
+  - [Is AI toast? Building an AI Talkie Toaster](https://www.pentestpartners.com/security-blog/is-ai-toast-building-an-ai-talkie-toaster/)
 - pluralistic.net
   - [Pluralistic: Textured (18 Sep 2026)](https://pluralistic.net/2026/09/18/surprise/)
 - PwnDefend
   - [Getting less wrong about computing](https://www.pwndefend.com/2026/09/18/getting-less-wrong-about-computing/)
+- Recent Commits to cve:main
+  - [Update Fri Sep 18 11:51:27 UTC 2026](https://github.com/trickest/cve/commit/314b0878e4a8f1bf74c8d23a9c9e2b26865b7740)
 - Sec-News 安全文摘
   - [Hacking OpenAI](https://govuln.com/news/url/9kym)
   - [Inside ZCode: Silently Uploading Your Entire Git History to the Cloud](https://govuln.com/news/url/kb0E)
   - [iOS ChatGPT Pro 20x 强开订阅全解析 — 从越狱抓包到 Apple buyProduct API 的完整技术链路](https://govuln.com/news/url/JmZM)
+- shkspr.mobi
+  - [Theatre Review: The School for Wives - at Riverside Studios ★★★★★](https://shkspr.mobi/blog/2026/09/theatre-review-the-school-for-wives/)
 - simonwillison.net
   - [Be alert: targeted attacks on prominent Rustaceans](https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/)
   - [How To Write With An LLM](https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/)
@@ -114,6 +124,7 @@
   - [Stablecoin payments firm dtcpay closes $25 million Series A with SBI Group investment](https://www.theblock.co/news/business/2026-09-18-dtcpay-series-a-sbi-group-415483)
   - [US sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC](https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462)
 - The Decoder
+  - [42 leading mathematicians warn that AI existential risk is real and urgent](https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/)
   - [Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows](https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/)
   - [US and China experts push for shared rules banning AI control over nuclear weapons](https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/)
 - The Verge
@@ -309,6 +320,8 @@
   - [婚姻拯救者？iOS 27.2测试版通话界面会显示纪念日提醒 不用再猜今天是什么日子](https://buaq.net/go-443162.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [首个"AI黑客"智能体暗网开售：渗透周期从两周缩到2.8天](https://www.anquanke.com/post/id/316114)
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
