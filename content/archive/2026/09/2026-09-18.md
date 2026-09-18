@@ -14,6 +14,7 @@
   - [你们还用 openspec superpowers 么](https://2libra.com/post/prompts/lIlhCFz)
   - [右转红灯又被拍了](https://2libra.com/post/personal-life/EkHOZUT)
   - [吐槽](https://2libra.com/post/tech-rumination/jJKCjPW)
+  - [基于 Python 开源框架搭建爱稀奇社区，持续迭代欢迎体验提建议](https://2libra.com/post/website-construction/w_R1ELn)
   - [如何让两个 agent 相互对话，督促检查对方干活](https://2libra.com/post/ai-programming/iuhALth)
   - [您猜怎么着，反弹](https://2libra.com/post/forum-function/MOzPEo7)
   - [想到马上放假了就开心，然后想到周日得加班又不开心了](https://2libra.com/post/office-life/vtSe7dp)
@@ -34,6 +35,7 @@
   - [Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack](https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC expands regulatory relief for passive trading software providers](https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028](https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times](https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [HYPE hits record above $90 as Hyperliquid launches manual borrowing](https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korea drives onchain malware surge, CoinEx shuts: Asia Express](https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -79,6 +81,7 @@
   - [Empirical fractal](https://www.johndcook.com/blog/2026/09/17/empirical-fractal/)
 - MIT Technology Review
   - [Could AI really kill us all? Your questions, answered.](https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/)
+  - [The Download: AI’s extinction risk and bioweapons threat](https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/)
 - Pen Test Partners
   - [Is AI toast? Building an AI Talkie Toaster](https://www.pentestpartners.com/security-blog/is-ai-toast-building-an-ai-talkie-toaster/)
 - pluralistic.net
@@ -306,6 +309,7 @@
   - [He Won the Nobel Prize for Protein Design. Now He Uses AI to Create Molecules Not Found in Nature](https://www.wired.com/story/nobel-prize-protein-design-now-using-ai-to-create-molecules-beyond-nature/)
   - [Here’s What the AI Apocalypse Could Look Like](https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/)
   - [It Still Feels Like Summer in Parts of the US. Blame El Niño](https://www.wired.com/story/september-feels-like-summer-blame-el-nino/)
+  - [Meta’s Copyright System Is Being Weaponized Against Albanian Protesters](https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/)
   - [Mophie’s Extendable MagSafe 3-in-1 Charging Stand Is 50 Percent Off](https://www.wired.com/story/mophie-magsafe-3-in-1-wireless-charging-stand-deal/)
   - [Napster Is Back, and It Wants to Digitally Clone Teachers](https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/)
   - [The AI Slowdown Debate Crashed Salesforce’s Party](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/)
@@ -329,5 +333,6 @@
   - [iPhone 18 Pro 系列正式开售，新 AI 功能「自相矛盾」](https://www.ifanr.com/1680844?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [零跑官宣第二品牌，新车将有小米 SUV 同款升顶能力](https://www.ifanr.com/1680808?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢](https://www.qbitai.com/2026/09/492175.html)
   - [Manus重生第17天，估值居然就翻倍了](https://www.qbitai.com/2026/09/491764.html)
   - [刚刚，Claude Code大重构！内部3万Agent管理技术免费开放](https://www.qbitai.com/2026/09/491711.html)
