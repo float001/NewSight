@@ -29,6 +29,9 @@
   - [Gyazo Data Breach Exposes 23 Million User Records](https://securityaffairs.com/199338/data-breach/gyazo-data-breach-exposes-23-million-user-records.html)
 - Hacker News Frontpage
   - [Border agents can search cellphones without a warrant or reasonable suspicion](https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/)
+- HackerNoon
+  - [Meet the Writer: Hacker Noon's Contributor Atindra Girish, Cyber Security Enthusiast](https://hackernoon.com/meet-the-writer-hacker-noons-contributor-atindra-girish-cyber-security-enthusiast?source=rss)
+  - [What Happens When AI Agents Inherit Your Company’s Office Politics?](https://hackernoon.com/what-happens-when-ai-agents-inherit-your-companys-office-politics?source=rss)
 - Horizon3.ai
   - [How Kyocera AVX Built a Global Security Validation Program from Zero](https://horizon3.ai/customer-story/kyocera-avx-global-security-validation/)
 - ongoing by Tim Bray
@@ -38,6 +41,7 @@
   - [Quoting Thariq Shihipar](https://simonwillison.net/2026/Sep/18/thariq-shihipar/)
 - TechCrunch
   - [A new kind of AI model from a ChatGPT inventor is thrilling developers](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/)
+  - [Anthropic’s first embedded evaluator is … Accenture?](https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/)
   - [Automattic names interim CFO after exec departures](https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/)
   - [Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?](https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/)
   - [Disney’s first CTO led an AI startup it once accused of copying its characters](https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/)
@@ -53,6 +57,7 @@
   - [Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours](https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/)
 - The Verge
   - [Disney’s first CTO is Character.AI’s former CEO](https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai)
+  - [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero)
   - [The real story of the iPhone 18 Pro&#8217;s camera](https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera)
   - [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force)
 - Vulners.com RSS Feed
