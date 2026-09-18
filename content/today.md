@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-09-18）
 
+- 2Libra
+  - [想到马上放假了就开心，然后想到周日得加班又不开心了](https://2libra.com/post/office-life/vtSe7dp)
 - 404 Media
   - [‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft](https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/)
   - [‘Flock City PD:’ The Fake Flock-Owned ‘Police Department’ That Searched Real Cameras for Real People](https://www.404media.co/flock-city-pd-the-fake-flock-owned-police-department-that-searched-real-cameras-for-real-people/)
@@ -164,3 +166,6 @@
 - 爱范儿
   - [23.18 万元起，小鹏 G9L 正式上市，王凤英：全球无对手！](https://www.ifanr.com/1680790?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [零跑官宣第二品牌，新车将有小米 SUV 同款升顶能力](https://www.ifanr.com/1680808?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [Manus重生第17天，估值居然就翻倍了](https://www.qbitai.com/2026/09/491764.html)
+  - [刚刚，Claude Code大重构！内部3万Agent管理技术免费开放](https://www.qbitai.com/2026/09/491711.html)
