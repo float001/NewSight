@@ -20,6 +20,7 @@
   - [North Korea drives onchain malware surge, CoinEx shuts: Asia Express](https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments](https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [WisdomTree, MoonPay team up to expand US access to tokenized money market fund](https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [World launches self-custodial ‘super app’ World Money](https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [cups2root: New CUPS Zero-Day Escalates lpadmin to Root](https://www.cyberkendra.com/2026/09/cups2root-cups-lpadmin-root-zero-day.html)
   - [OpenAI Model Misalignment Reports: Six Cases Disclosed](https://www.cyberkendra.com/2026/09/openai-model-misalignment-reporting-framework.html)
