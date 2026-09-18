@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-09-18）
 
 - 2Libra
+  - [jev 模型测试网页](https://2libra.com/post/ai-tools/tkU8JsS)
   - [macOS27 遇到 bug 了](https://2libra.com/post/apple/cLu3Akz)
   - [【历史】铭记九一八事件 95 周年](https://2libra.com/post/history-gossip/HTZH_BE)
   - [【投票】情感空窗期](https://2libra.com/post/love/ZtXP1DX)
@@ -15,12 +16,14 @@
   - [‘Flock City PD:’ The Fake Flock-Owned ‘Police Department’ That Searched Real Cameras for Real People](https://www.404media.co/flock-city-pd-the-fake-flock-owned-police-department-that-searched-real-cameras-for-real-people/)
 - CoinTelegraph
   - [Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike](https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack](https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC expands regulatory relief for passive trading software providers](https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korea drives onchain malware surge, CoinEx shuts: Asia Express](https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments](https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [WisdomTree, MoonPay team up to expand US access to tokenized money market fund](https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [World launches self-custodial ‘super app’ World Money](https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Zcash targets November for NU7 mainnet upgrade with 25-second blocks](https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [cups2root: New CUPS Zero-Day Escalates lpadmin to Root](https://www.cyberkendra.com/2026/09/cups2root-cups-lpadmin-root-zero-day.html)
   - [OpenAI Model Misalignment Reports: Six Cases Disclosed](https://www.cyberkendra.com/2026/09/openai-model-misalignment-reporting-framework.html)
@@ -90,6 +93,7 @@
 - Vulners.com RSS Feed
   - [Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://vulners.com/thn/THN:F8E39FAF20D089FC1AF62E4C5CFC2C87?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12284](https://vulners.com/nvd/NVD:CVE-2026-12284?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17086](https://vulners.com/nvd/NVD:CVE-2026-17086?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44235](https://vulners.com/nvd/NVD:CVE-2026-44235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44236](https://vulners.com/nvd/NVD:CVE-2026-44236?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45720](https://vulners.com/nvd/NVD:CVE-2026-45720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -187,10 +191,13 @@
   - [Here’s What the AI Apocalypse Could Look Like](https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/)
   - [The AI Slowdown Debate Crashed Salesforce’s Party](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/)
   - [The AI ‘Slowdown’ Is an Antitrust Mess](https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/)
+- 不安全
+  - [婚姻拯救者？iOS 27.2测试版通话界面会显示纪念日提醒 不用再猜今天是什么日子](https://buaq.net/go-443162.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [23.18 万元起，小鹏 G9L 正式上市，王凤英：全球无对手！](https://www.ifanr.com/1680790?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [iPhone 18 Pro 系列正式开售，新 AI 功能「自相矛盾」](https://www.ifanr.com/1680844?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [零跑官宣第二品牌，新车将有小米 SUV 同款升顶能力](https://www.ifanr.com/1680808?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [Manus重生第17天，估值居然就翻倍了](https://www.qbitai.com/2026/09/491764.html)
