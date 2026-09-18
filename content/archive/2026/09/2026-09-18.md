@@ -9,8 +9,10 @@
   - [你们看央视新闻今天发的抗战英雄谱，水墨画真漂亮啊](https://2libra.com/post/movie-sharing/WofWYFe)
   - [右转红灯又被拍了](https://2libra.com/post/personal-life/EkHOZUT)
   - [吐槽](https://2libra.com/post/tech-rumination/jJKCjPW)
+  - [您猜怎么着，反弹](https://2libra.com/post/forum-function/MOzPEo7)
   - [想到马上放假了就开心，然后想到周日得加班又不开心了](https://2libra.com/post/office-life/vtSe7dp)
   - [有没有切实好用的中转站推荐，plus 实在不抗造](https://2libra.com/post/ai-gateway/74w7CXc)
+  - [鼠标有毒，每隔两年必坏](https://2libra.com/post/computers-accessories/Hk5wPLA)
 - 404 Media
   - [‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft](https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/)
   - [‘Flock City PD:’ The Fake Flock-Owned ‘Police Department’ That Searched Real Cameras for Real People](https://www.404media.co/flock-city-pd-the-fake-flock-owned-police-department-that-searched-real-cameras-for-real-people/)
@@ -51,7 +53,10 @@
   - [The Front Page of the Internet Is Up for Grabs](https://idiallo.com/byte-size/the-front-page-of-the-internet)
 - johndcook.com
   - [Empirical fractal](https://www.johndcook.com/blog/2026/09/17/empirical-fractal/)
+- PwnDefend
+  - [Getting less wrong about computing](https://www.pwndefend.com/2026/09/18/getting-less-wrong-about-computing/)
 - Sec-News 安全文摘
+  - [Hacking OpenAI](https://govuln.com/news/url/9kym)
   - [iOS ChatGPT Pro 20x 强开订阅全解析 — 从越狱抓包到 Apple buyProduct API 的完整技术链路](https://govuln.com/news/url/JmZM)
 - simonwillison.net
   - [Be alert: targeted attacks on prominent Rustaceans](https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/)
@@ -80,6 +85,7 @@
   - [As RWA trading surges on Hyperliquid, Dragonfly’s Qureshi makes the case for a multichain future](https://www.theblock.co/news/ecosystems/2026-09-17-as-rwa-trading-surges-hyperliquid-dragonflys-qureshi-makes-case-multichain-future-415406)
   - [JPMorgan says bitcoin could get more support than gold if ETF hedging eases](https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421)
   - [Regulators keep moving on crypto: CFTC follows SEC with developer-friendly no-action stance](https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425)
+  - [Stablecoin payments firm dtcpay closes $25 million Series A with SBI Group investment](https://www.theblock.co/news/business/2026-09-18-dtcpay-series-a-sbi-group-415483)
   - [US sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC](https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462)
 - The Decoder
   - [Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows](https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/)
@@ -192,6 +198,7 @@
   - [The AI Slowdown Debate Crashed Salesforce’s Party](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/)
   - [The AI ‘Slowdown’ Is an Antitrust Mess](https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/)
 - 不安全
+  - [screenpipe app-v2.7.42](https://buaq.net/go-443184.html)
   - [婚姻拯救者？iOS 27.2测试版通话界面会显示纪念日提醒 不用再猜今天是什么日子](https://buaq.net/go-443162.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
