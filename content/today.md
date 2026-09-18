@@ -1,9 +1,11 @@
 # 今日安全资讯（2026-09-18）
 
 - 2Libra
+  - [" 我不得不把我的才华埋葬在昨天 "](https://2libra.com/post/ai-programming/2haRYSX)
   - [jev 模型测试网页](https://2libra.com/post/ai-tools/tkU8JsS)
   - [macOS27 遇到 bug 了](https://2libra.com/post/apple/cLu3Akz)
   - [【历史】铭记九一八事件 95 周年](https://2libra.com/post/history-gossip/HTZH_BE)
+  - [【投票】GPT6 Astra VS DeepSeek-Flash-4.1](https://2libra.com/post/large-models/plQaar3)
   - [【投票】情感空窗期](https://2libra.com/post/love/ZtXP1DX)
   - [今天发呆赚钱](https://2libra.com/post/touch-fish/Lnh92qa)
   - [你们看央视新闻今天发的抗战英雄谱，水墨画真漂亮啊](https://2libra.com/post/movie-sharing/WofWYFe)
@@ -12,6 +14,7 @@
   - [您猜怎么着，反弹](https://2libra.com/post/forum-function/MOzPEo7)
   - [想到马上放假了就开心，然后想到周日得加班又不开心了](https://2libra.com/post/office-life/vtSe7dp)
   - [有没有切实好用的中转站推荐，plus 实在不抗造](https://2libra.com/post/ai-gateway/74w7CXc)
+  - [用 jev 模型自动玩宝可梦直播](https://2libra.com/post/ai-applications/F8mtnj7)
   - [鼠标有毒，每隔两年必坏](https://2libra.com/post/computers-accessories/Hk5wPLA)
 - 404 Media
   - [‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft](https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/)
@@ -30,8 +33,11 @@
   - [cups2root: New CUPS Zero-Day Escalates lpadmin to Root](https://www.cyberkendra.com/2026/09/cups2root-cups-lpadmin-root-zero-day.html)
   - [OpenAI Model Misalignment Reports: Six Cases Disclosed](https://www.cyberkendra.com/2026/09/openai-model-misalignment-reporting-framework.html)
 - darkreading
+  - [AI Agent Breaches Spanish Organization, Modifies Personal Data](https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data)
   - [China's FamousSparrow APT Spies on US Politics in Latin America](https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america)
   - [CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus](https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus)
+- defend.network
+  - [Microsoft patches 974 CVEs; Check Point RCE; Docker Sandboxes escape on macOS](https://defend.network/briefings/microsoft-check-point-docker-critical-patch-rce-2026-09-18.html)
 - Hacker News Frontpage
   - [Ask HN: How to recover Google auth after phone stolen?](https://news.ycombinator.com/item?id=49742976)
   - [Astra for Law](https://openai.com/index/astra-for-law/)
@@ -57,6 +63,7 @@
   - [Getting less wrong about computing](https://www.pwndefend.com/2026/09/18/getting-less-wrong-about-computing/)
 - Sec-News 安全文摘
   - [Hacking OpenAI](https://govuln.com/news/url/9kym)
+  - [Inside ZCode: Silently Uploading Your Entire Git History to the Cloud](https://govuln.com/news/url/kb0E)
   - [iOS ChatGPT Pro 20x 强开订阅全解析 — 从越狱抓包到 Apple buyProduct API 的完整技术链路](https://govuln.com/news/url/JmZM)
 - simonwillison.net
   - [Be alert: targeted attacks on prominent Rustaceans](https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/)
@@ -100,6 +107,8 @@
   - [Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://vulners.com/thn/THN:F8E39FAF20D089FC1AF62E4C5CFC2C87?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12284](https://vulners.com/nvd/NVD:CVE-2026-12284?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17086](https://vulners.com/nvd/NVD:CVE-2026-17086?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18911](https://vulners.com/nvd/NVD:CVE-2026-18911?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18912](https://vulners.com/nvd/NVD:CVE-2026-18912?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44235](https://vulners.com/nvd/NVD:CVE-2026-44235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44236](https://vulners.com/nvd/NVD:CVE-2026-44236?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45720](https://vulners.com/nvd/NVD:CVE-2026-45720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -136,13 +145,39 @@
   - [CVE-2026-77164](https://vulners.com/nvd/NVD:CVE-2026-77164?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77169](https://vulners.com/nvd/NVD:CVE-2026-77169?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77170](https://vulners.com/nvd/NVD:CVE-2026-77170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81340](https://vulners.com/nvd/NVD:CVE-2026-81340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81515](https://vulners.com/nvd/NVD:CVE-2026-81515?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81516](https://vulners.com/nvd/NVD:CVE-2026-81516?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81810](https://vulners.com/nvd/NVD:CVE-2026-81810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81868](https://vulners.com/nvd/NVD:CVE-2026-81868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82980](https://vulners.com/nvd/NVD:CVE-2026-82980?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82982](https://vulners.com/nvd/NVD:CVE-2026-82982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82985](https://vulners.com/nvd/NVD:CVE-2026-82985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84738](https://vulners.com/nvd/NVD:CVE-2026-84738?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84902](https://vulners.com/nvd/NVD:CVE-2026-84902?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84903](https://vulners.com/nvd/NVD:CVE-2026-84903?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84904](https://vulners.com/nvd/NVD:CVE-2026-84904?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85009](https://vulners.com/nvd/NVD:CVE-2026-85009?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85122](https://vulners.com/nvd/NVD:CVE-2026-85122?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85123](https://vulners.com/nvd/NVD:CVE-2026-85123?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85127](https://vulners.com/nvd/NVD:CVE-2026-85127?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85350](https://vulners.com/nvd/NVD:CVE-2026-85350?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-87767](https://vulners.com/nvd/NVD:CVE-2026-87767?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-87770](https://vulners.com/nvd/NVD:CVE-2026-87770?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-87771](https://vulners.com/nvd/NVD:CVE-2026-87771?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-87774](https://vulners.com/nvd/NVD:CVE-2026-87774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-87775](https://vulners.com/nvd/NVD:CVE-2026-87775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-87965](https://vulners.com/nvd/NVD:CVE-2026-87965?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-87966](https://vulners.com/nvd/NVD:CVE-2026-87966?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88798](https://vulners.com/nvd/NVD:CVE-2026-88798?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88825](https://vulners.com/nvd/NVD:CVE-2026-88825?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88844](https://vulners.com/nvd/NVD:CVE-2026-88844?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88993](https://vulners.com/nvd/NVD:CVE-2026-88993?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89007](https://vulners.com/nvd/NVD:CVE-2026-89007?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89008](https://vulners.com/nvd/NVD:CVE-2026-89008?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89038](https://vulners.com/nvd/NVD:CVE-2026-89038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90978](https://vulners.com/nvd/NVD:CVE-2026-90978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90984](https://vulners.com/nvd/NVD:CVE-2026-90984?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92926](https://vulners.com/nvd/NVD:CVE-2026-92926?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92927](https://vulners.com/nvd/NVD:CVE-2026-92927?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93185 ASoC: rt700-sdw: always drain jack work on remove](https://vulners.com/cve/CVE-2026-93185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -190,6 +225,7 @@
   - [CVE-2026-93436 vLLM through 0.29.0 Memory Exhaustion via Rejected Requests](https://vulners.com/cvelist/CVELIST:CVE-2026-93436?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93455](https://vulners.com/nvd/NVD:CVE-2026-93455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93456](https://vulners.com/nvd/NVD:CVE-2026-93456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93485](https://vulners.com/nvd/NVD:CVE-2026-93485?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Gitlab](https://vulners.com/githubexploit/B77CE296-3D25-5248-BE16-FF0436BC8697?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [26 Amazon Prime Perks You Might Know You Have (2026)](https://www.wired.com/story/amazon-prime-perks/)
@@ -198,10 +234,13 @@
   - [The AI Slowdown Debate Crashed Salesforce’s Party](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/)
   - [The AI ‘Slowdown’ Is an Antitrust Mess](https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/)
 - 不安全
+  - [RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall](https://buaq.net/go-443192.html)
   - [screenpipe app-v2.7.42](https://buaq.net/go-443184.html)
   - [婚姻拯救者？iOS 27.2测试版通话界面会显示纪念日提醒 不用再猜今天是什么日子](https://buaq.net/go-443162.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 小刀志
+  - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
   - [23.18 万元起，小鹏 G9L 正式上市，王凤英：全球无对手！](https://www.ifanr.com/1680790?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [iPhone 18 Pro 系列正式开售，新 AI 功能「自相矛盾」](https://www.ifanr.com/1680844?utm_source=rss&utm_medium=rss&utm_campaign=)
