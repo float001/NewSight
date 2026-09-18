@@ -1,6 +1,11 @@
 # 今日安全资讯（2026-09-18）
 
 - 2Libra
+  - [【历史】铭记九一八事件 95 周年](https://2libra.com/post/history-gossip/HTZH_BE)
+  - [今天发呆赚钱](https://2libra.com/post/touch-fish/Lnh92qa)
+  - [你们看央视新闻今天发的抗战英雄谱，水墨画真漂亮啊](https://2libra.com/post/movie-sharing/WofWYFe)
+  - [右转红灯又被拍了](https://2libra.com/post/personal-life/EkHOZUT)
+  - [吐槽](https://2libra.com/post/tech-rumination/jJKCjPW)
   - [想到马上放假了就开心，然后想到周日得加班又不开心了](https://2libra.com/post/office-life/vtSe7dp)
 - 404 Media
   - [‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft](https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/)
@@ -10,6 +15,7 @@
   - [CFTC expands regulatory relief for passive trading software providers](https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korea drives onchain malware surge, CoinEx shuts: Asia Express](https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments](https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [WisdomTree, MoonPay team up to expand US access to tokenized money market fund](https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [cups2root: New CUPS Zero-Day Escalates lpadmin to Root](https://www.cyberkendra.com/2026/09/cups2root-cups-lpadmin-root-zero-day.html)
@@ -22,6 +28,7 @@
   - [Astra for Law](https://openai.com/index/astra-for-law/)
   - [Bend](https://bend-lang.com/)
   - [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
+  - [Claude Code from Source](https://claude-code-from-source.com/)
   - [Economic Policy for AGI](https://institute.deepmind.com/essays/economic-policy-for-agi/)
   - [hister](https://github.com/asciimoo/hister)
   - [I Hate You Microsoft](https://henriquenunez.eu/posts/you_did_it_again_ms/)
@@ -71,6 +78,7 @@
   - [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)
   - [Save $30 or more on a refurbished Apple TV 4K](https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale)
   - [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic)
+  - [Waymo says Singapore will be its next international robotaxi city](https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [The End of Point-in-Time Compliance: Why Continuous Audit Readiness Matters to You in the AI Era](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
