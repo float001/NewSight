@@ -7,6 +7,7 @@
   - [Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike](https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC expands regulatory relief for passive trading software providers](https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [North Korea drives onchain malware surge, CoinEx shuts: Asia Express](https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [WisdomTree, MoonPay team up to expand US access to tokenized money market fund](https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [cups2root: New CUPS Zero-Day Escalates lpadmin to Root](https://www.cyberkendra.com/2026/09/cups2root-cups-lpadmin-root-zero-day.html)
@@ -30,15 +31,24 @@
 - Horizon3.ai
   - [CTEM Buyer’s Guide: How to Evaluate the Technologies That Turn Continuous Threat Exposure Management Into an Operating Model](https://horizon3.ai/downloads/whitepapers/ctem-buyers-guide/)
   - [CyberCom 2.0 and the Revolution in AI-Enabled Offensive Cyber Operations](https://horizon3.ai/downloads/whitepapers/cybercom-2-0-ai-enabled-offensive-cyber-operations/)
+- idiallo.com
+  - [The Front Page of the Internet Is Up for Grabs](https://idiallo.com/byte-size/the-front-page-of-the-internet)
 - johndcook.com
   - [Empirical fractal](https://www.johndcook.com/blog/2026/09/17/empirical-fractal/)
+- simonwillison.net
+  - [Be alert: targeted attacks on prominent Rustaceans](https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/)
+  - [How To Write With An LLM](https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Path Traversal in Gitlab](https://sploitus.com/exploit?id=B77CE296-3D25-5248-BE16-FF0436BC8697&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear](https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/)
   - [Apple will let EU apps use less-alarming tracking-consent screens](https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/)
   - [Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire](https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/)
+  - [Crusoe raises $3.9B to build massive data centers and small modular “AI factories”](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/)
   - [Even the King of England has his hesitations about AI](https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/)
+  - [Google DeepMind launches institute to widen the AGI debate](https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/)
   - [Is the AI safety debate about safety or control?](https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/)
+  - [Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal](https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/)
   - [Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
   - [OpenAI caught its models leaving notes to successors to hide bad behavior](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/)
   - [Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI](https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/)
