@@ -2,6 +2,7 @@
 
 - 2Libra
   - [" 我不得不把我的才华埋葬在昨天 "](https://2libra.com/post/ai-programming/2haRYSX)
+  - [claude code 是不是目前地表最强 vibe code 程序？](https://2libra.com/post/vibe-coding/eo4lP-B)
   - [jev 模型测试网页](https://2libra.com/post/ai-tools/tkU8JsS)
   - [macOS27 遇到 bug 了](https://2libra.com/post/apple/cLu3Akz)
   - [Zcode 被爆出静默全量上传整个工作区](https://2libra.com/post/ai-tools/kGMC_5X)
@@ -10,6 +11,7 @@
   - [【投票】情感空窗期](https://2libra.com/post/love/ZtXP1DX)
   - [今天发呆赚钱](https://2libra.com/post/touch-fish/Lnh92qa)
   - [你们看央视新闻今天发的抗战英雄谱，水墨画真漂亮啊](https://2libra.com/post/movie-sharing/WofWYFe)
+  - [你们还用 openspec superpowers 么](https://2libra.com/post/prompts/lIlhCFz)
   - [右转红灯又被拍了](https://2libra.com/post/personal-life/EkHOZUT)
   - [吐槽](https://2libra.com/post/tech-rumination/jJKCjPW)
   - [如何让两个 agent 相互对话，督促检查对方干活](https://2libra.com/post/ai-programming/iuhALth)
@@ -30,6 +32,7 @@
   - [CFTC expands regulatory relief for passive trading software providers](https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korea drives onchain malware surge, CoinEx shuts: Asia Express](https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Stablecoin payments firm dtcpay closes $25M round with SBI backing](https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments](https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [WisdomTree, MoonPay team up to expand US access to tokenized money market fund](https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [World launches self-custodial ‘super app’ World Money](https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -54,8 +57,10 @@
   - [I Hate You Microsoft](https://henriquenunez.eu/posts/you_did_it_again_ms/)
   - [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](https://skillsync.com)
   - [Missouri governor orders guardrails on Flock cameras and ALPRs](https://www.stlpr.org/news-briefs/2026-09-16/flock-cameras-guardrails-missouri-kehoe)
+  - [OpenJev](https://openjev.com/)
   - [Show HN: Die With Me – Claude and Codex rate limits as AIM away messages](https://diewithme.co/join)
 - HackerNoon
+  - [Building Enterprise Context Pipelines: Retrieval, Orchestration, and Cloud-Native Architecture](https://hackernoon.com/building-enterprise-context-pipelines-retrieval-orchestration-and-cloud-native-architecture?source=rss)
   - [Ishan Shah on Recoverable Systems, AI Guardrails, and the Internet's Useful Weirdness](https://hackernoon.com/ishan-shah-on-recoverable-systems-ai-guardrails-and-the-internets-useful-weirdness?source=rss)
 - Horizon3.ai
   - [CTEM Buyer’s Guide: How to Evaluate the Technologies That Turn Continuous Threat Exposure Management Into an Operating Model](https://horizon3.ai/downloads/whitepapers/ctem-buyers-guide/)
@@ -63,6 +68,7 @@
 - idiallo.com
   - [The Front Page of the Internet Is Up for Grabs](https://idiallo.com/byte-size/the-front-page-of-the-internet)
 - infosecurity-magazine.com
+  - [CISA Upgrades Vulnerability Reporting Platform with More Automation](https://www.infosecurity-magazine.com/news/cisa-upgrades-vulnerability/)
   - [Manufacturing Accounts for 22% of all Ransomware Victims](https://www.infosecurity-magazine.com/news/manufacturing-22-ransomware-victims/)
 - johndcook.com
   - [Empirical fractal](https://www.johndcook.com/blog/2026/09/17/empirical-fractal/)
@@ -105,6 +111,7 @@
   - [US sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC](https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462)
 - The Decoder
   - [Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows](https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/)
+  - [US and China experts push for shared rules banning AI control over nuclear weapons](https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/)
 - The Verge
   - [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)
   - [Save $30 or more on a refurbished Apple TV 4K](https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale)
@@ -272,6 +279,9 @@
   - [Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More](https://www.wired.com/story/best-open-earbuds/)
   - [Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers](https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/)
   - [Here’s What the AI Apocalypse Could Look Like](https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/)
+  - [It Still Feels Like Summer in Parts of the US. Blame El Niño](https://www.wired.com/story/september-feels-like-summer-blame-el-nino/)
+  - [Mophie’s Extendable MagSafe 3-in-1 Charging Stand Is 50 Percent Off](https://www.wired.com/story/mophie-magsafe-3-in-1-wireless-charging-stand-deal/)
+  - [Napster Is Back, and It Wants to Digitally Clone Teachers](https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/)
   - [The AI Slowdown Debate Crashed Salesforce’s Party](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/)
   - [The AI ‘Slowdown’ Is an Antitrust Mess](https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/)
   - [Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons](https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/)
