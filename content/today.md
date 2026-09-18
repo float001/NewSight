@@ -29,6 +29,7 @@
   - [Gyazo Data Breach Exposes 23 Million User Records](https://securityaffairs.com/199338/data-breach/gyazo-data-breach-exposes-23-million-user-records.html)
 - Hacker News Frontpage
   - [Border agents can search cellphones without a warrant or reasonable suspicion](https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/)
+  - [US troop deaths during Iran war exceed Pentagon count by at least four](https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/)
 - HackerNoon
   - [Meet the Writer: Hacker Noon's Contributor Atindra Girish, Cyber Security Enthusiast](https://hackernoon.com/meet-the-writer-hacker-noons-contributor-atindra-girish-cyber-security-enthusiast?source=rss)
   - [What Happens When AI Agents Inherit Your Company’s Office Politics?](https://hackernoon.com/what-happens-when-ai-agents-inherit-your-companys-office-politics?source=rss)
@@ -111,6 +112,7 @@
   - [CVE-2026-71537](https://vulners.com/nvd/NVD:CVE-2026-71537?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75031](https://vulners.com/nvd/NVD:CVE-2026-75031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75883](https://vulners.com/nvd/NVD:CVE-2026-75883?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75885](https://vulners.com/nvd/NVD:CVE-2026-75885?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77385](https://vulners.com/nvd/NVD:CVE-2026-77385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77386](https://vulners.com/nvd/NVD:CVE-2026-77386?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77396](https://vulners.com/nvd/NVD:CVE-2026-77396?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -154,6 +156,8 @@
   - [CVE-2026-93690](https://vulners.com/nvd/NVD:CVE-2026-93690?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93736](https://vulners.com/nvd/NVD:CVE-2026-93736?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93737](https://vulners.com/nvd/NVD:CVE-2026-93737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93739](https://vulners.com/nvd/NVD:CVE-2026-93739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93740](https://vulners.com/nvd/NVD:CVE-2026-93740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [An Undercover Google Analyst Infiltrated a Notorious Supply Chain Hacking Gang](https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/)
   - [Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap](https://www.wired.com/review/apple-watch-ultra-4/)
