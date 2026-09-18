@@ -1,14 +1,34 @@
 # 今日安全资讯（2026-09-19）
 
+- aresluna.org
+  - [My design bookshelves](https://aresluna.org/my-design-bookshelves)
+- CoinTelegraph
+  - [Crypto stocks rebound after CLARITY Act selloff](https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [How Google Broke TeamPCP From the Inside](https://www.cyberkendra.com/2026/09/how-google-broke-teampcp-from-the-inside.html)
+  - [How to Choose a Minecraft Server That Runs Smoothly](https://www.cyberkendra.com/2026/09/how-to-choose-a-minecraft-server-that-runs-smoothly.html)
 - daringfireball.net
   - [Gauging Interest in the iPhone Duo](https://maxfrequency.net/2026/09/17/iphone-duo-mkbhd-popularity-or-curiosity/)
+  - [Hollywood Wants the Duo](https://pagesix.com/2026/09/16/hollywood/mysterious-apple-ceo-charms-hollywood-following-big-emmys-night-by-showing-off-new-iphone/)
   - [YouTube Changed How It Counts ‘Views’ Last Month, Inflating New Numbers](https://support.google.com/youtube/thread/433409976/an-update-to-how-we-count-public-views-across-youtube?hl=en)
   - [★ One More Thing About the iPhones 18 Pro: the Bigger/Smaller Dynamic Island](https://daringfireball.net/2026/09/iphone_18_pro_dynamic_island)
+- Data Breach
+  - [Gyazo Data Breach Exposes 23 Million User Records](https://securityaffairs.com/199338/data-breach/gyazo-data-breach-exposes-23-million-user-records.html)
 - Horizon3.ai
   - [How Kyocera AVX Built a Global Security Validation Program from Zero](https://horizon3.ai/customer-story/kyocera-avx-global-security-validation/)
 - TechCrunch
+  - [Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?](https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/)
+  - [Disney’s first CTO led an AI startup it once accused of copying its characters](https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/)
   - [Family offices are clamoring for AI investments](https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/)
+  - [Google’s new ‘CC’ is an AI agent that helps families run their households](https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/)
+  - [In India, the new iPhone can arrive faster than a pizza](https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/)
+  - [Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis](https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/)
   - [Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops](https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/)
+- The Decoder
+  - [California Governor Newsom signs executive order demanding "kill switch" for AI models](https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/)
+  - [Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours](https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/)
+- The Verge
+  - [The real story of the iPhone 18 Pro&#8217;s camera](https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera)
 - Vulners.com RSS Feed
   - [CVE-2026-1025](https://vulners.com/nvd/NVD:CVE-2026-1025?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-1029](https://vulners.com/nvd/NVD:CVE-2026-1029?utm_source=rss&utm_medium=rss&utm_campaign=rss)
