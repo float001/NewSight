@@ -28,6 +28,9 @@
   - [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)
 - Vulners.com RSS Feed
   - [CVE-2026-82560](https://vulners.com/nvd/NVD:CVE-2026-82560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93954](https://vulners.com/nvd/NVD:CVE-2026-93954?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93955 grimmory-tools grimmory Download Endpoint KoboController.java streamFileToResponse authorization](https://vulners.com/cve/CVE-2026-93955?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93955 grimmory-tools grimmory Download Endpoint KoboController.java streamFileToResponse authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-93955?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-18937](https://vulners.com/githubexploit/523694D2-149E-5AFC-A54A-D05DC82BDF4E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
