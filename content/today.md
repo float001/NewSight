@@ -18,11 +18,13 @@
   - [California Sea Lion, Brandt's Cormorant](https://simonwillison.net/2026/Sep/19/sighting-401567341/)
 - TechCrunch
   - [Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/)
+  - [Flock reportedly tries to shrink workforce with employee buyouts](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/)
   - [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/)
   - [Trump suggests rebranding AI with a new name, says he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/)
 - The Block
   - [Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak](https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871)
 - The Verge
+  - [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)
   - [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)
 - Vulners.com RSS Feed
   - [CVE-2026-82560](https://vulners.com/nvd/NVD:CVE-2026-82560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
