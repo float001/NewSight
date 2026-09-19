@@ -37,6 +37,8 @@
   - [What Happens When AI Agents Inherit Your Company’s Office Politics?](https://hackernoon.com/what-happens-when-ai-agents-inherit-your-companys-office-politics?source=rss)
 - Horizon3.ai
   - [How Kyocera AVX Built a Global Security Validation Program from Zero](https://horizon3.ai/customer-story/kyocera-avx-global-security-validation/)
+- johndcook.com
+  - [Why fitting a logistic is nearly impossible from early data](https://www.johndcook.com/blog/2026/09/18/logistic-fit-sensitivity/)
 - ongoing by Tim Bray
   - [Regulate and Standardize AI? Nope.](https://www.tbray.org/ongoing/When/202x/2026/09/18/On-Regulating-AI)
 - simonwillison.net
@@ -170,6 +172,8 @@
   - [An Undercover Google Analyst Infiltrated a Notorious Supply Chain Hacking Gang](https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/)
   - [Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap](https://www.wired.com/review/apple-watch-ultra-4/)
   - [Here’s How an AI Slowdown Could Actually Be Enforced](https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/)
+- 不安全
+  - [sslscan v2.2.3](https://buaq.net/go-443418.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
