@@ -1,7 +1,10 @@
 # 今日安全资讯（2026-09-20）
 
+- 2Libra
+  - [深夜之美少女](https://2libra.com/post/love/Pgo7WuZ)
 - CoinTelegraph
   - [Kalshi joins Coinbase with filing for US stock perpetual futures](https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive](https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [VanEck criticizes Metaplanet over executive dilution despite compensation cuts](https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Google Releases AndroidX Security State 1.1.0 Stable](https://www.cyberkendra.com/2026/09/google-releases-androidx-security-state-1-1-0-stable.html)
@@ -16,6 +19,7 @@
 - TechCrunch
   - [Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/)
   - [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/)
+  - [Trump suggests rebranding AI with a new name, says he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/)
 - The Block
   - [Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak](https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871)
 - The Verge
