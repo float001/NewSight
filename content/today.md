@@ -35,8 +35,10 @@
   - [Gyazo Data Breach Exposes 23 Million User Records](https://securityaffairs.com/199338/data-breach/gyazo-data-breach-exposes-23-million-user-records.html)
 - Hacker News Frontpage
   - [Border agents can search cellphones without a warrant or reasonable suspicion](https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/)
+  - [San Francisco Onion Futures Company](https://onionfutures.com/)
   - [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
   - [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
+  - [Show HN: Seal – Letters and passwords that open for your family after you die](https://github.com/jasonepage/Seal)
   - [US troop deaths during Iran war exceed Pentagon count by at least four](https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/)
 - HackerNoon
   - [Meet the Writer: Hacker Noon's Contributor Atindra Girish, Cyber Security Enthusiast](https://hackernoon.com/meet-the-writer-hacker-noons-contributor-atindra-girish-cyber-security-enthusiast?source=rss)
@@ -176,11 +178,19 @@
   - [CVE-2026-93739](https://vulners.com/nvd/NVD:CVE-2026-93739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93740](https://vulners.com/nvd/NVD:CVE-2026-93740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [20% Off Samsung Promo Code | September 2026](https://www.wired.com/story/samsung-promo-codes/)
   - [An Undercover Google Analyst Infiltrated a Notorious Supply Chain Hacking Gang](https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/)
   - [Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap](https://www.wired.com/review/apple-watch-ultra-4/)
+  - [B&H Photo Promo Codes and Deals This September 2026](https://www.wired.com/story/bh-photo-coupon/)
+  - [eBay Coupons: 20% Off in September 2026](https://www.wired.com/story/ebay-coupon-code/)
   - [Flock Offers Employees Buyouts as Customers Flee](https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/)
   - [Here’s How an AI Slowdown Could Actually Be Enforced](https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/)
+  - [KitchenAid Promo Codes: Save Up to 20%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+  - [Newegg Promo Codes and Coupons for September 2026](https://www.wired.com/story/newegg-promo-code/)
+  - [Paramount+ Coupon Codes and Deals for September 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
+  - [Whoop Promo Codes: 20% Off This September 2026](https://www.wired.com/story/whoop-promo-code/)
 - 不安全
+  - [proxmark3 v4.23346](https://buaq.net/go-443423.html)
   - [sslscan v2.2.3](https://buaq.net/go-443418.html)
   - [Veridiff](https://buaq.net/go-443421.html)
 - 代码审计星球
