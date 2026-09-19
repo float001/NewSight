@@ -5,6 +5,7 @@
   - [今天上班简直了，群聊也没人说话，论坛也没有新鲜事。。。。。。。。。。](https://2libra.com/post/touch-fish/xW2g3ca)
   - [今天上班，国庆只放 5 天](https://2libra.com/post/office-life/7_TuEWy)
   - [工会活动，参观振华重工，可惜。。。](https://2libra.com/post/small-things/mpM3baQ)
+  - [新增侧边栏橱窗广告位竞价推广功能](https://2libra.com/post/product-updates/sKOA07p)
   - [求教, 哪里可以买个便宜的国外小鸡, 最低配置就行, 主要是要便宜.](https://2libra.com/post/servers/xhXeELT)
 - aresluna.org
   - [My design bookshelves](https://aresluna.org/my-design-bookshelves)
@@ -14,6 +15,7 @@
   - [Binance launches 24/7 FX perps with weekend pricing system](https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto stocks rebound after CLARITY Act selloff](https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
+  - [Google Confirms Gemini Hacked Three Companies in Test](https://www.cyberkendra.com/2026/09/gemini-hacked-three-companies-irregular.html)
   - [How Google Broke TeamPCP From the Inside](https://www.cyberkendra.com/2026/09/how-google-broke-teampcp-from-the-inside.html)
   - [How to Choose a Minecraft Server That Runs Smoothly](https://www.cyberkendra.com/2026/09/how-to-choose-a-minecraft-server-that-runs-smoothly.html)
   - [Researchers Used Claude to Hack OpenAI Through an Image Flaw](https://www.cyberkendra.com/2026/09/researchers-used-claude-to-hack-openai-through-an-image-flaw.html)
@@ -189,6 +191,7 @@
   - [Newegg Promo Codes and Coupons for September 2026](https://www.wired.com/story/newegg-promo-code/)
   - [Paramount+ Coupon Codes and Deals for September 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
   - [Whoop Promo Codes: 20% Off This September 2026](https://www.wired.com/story/whoop-promo-code/)
+  - [Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear](https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/)
 - 不安全
   - [proxmark3 v4.23346](https://buaq.net/go-443423.html)
   - [sslscan v2.2.3](https://buaq.net/go-443418.html)
