@@ -8,8 +8,15 @@
   - [Tyler Stalman’s iPhone 18 Pro Camera Review](https://www.youtube.com/watch?v=m6cDErtCKAc)
 - eli.thegreenplace.net
   - [Notes on discrete-time Fourier series and transform](https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/)
+- simonwillison.net
+  - [California Sea Lion, Brandt's Cormorant](https://simonwillison.net/2026/Sep/19/sighting-401567341/)
 - TechCrunch
   - [Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/)
+  - [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/)
+- The Block
+  - [Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak](https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871)
+- The Verge
+  - [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)
 - Vulners.com RSS Feed
   - [CVE-2026-82560](https://vulners.com/nvd/NVD:CVE-2026-82560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-18937](https://vulners.com/githubexploit/523694D2-149E-5AFC-A54A-D05DC82BDF4E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
