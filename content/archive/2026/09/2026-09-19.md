@@ -2,6 +2,7 @@
 
 - 2Libra
   - [不行咱把潘多拉放出来了吧, 直接金币抽盲盒. 收割一下那些盲盒赌徒.](https://2libra.com/post/forum-function/FJmqs49)
+  - [今天上班简直了，群聊也没人说话，论坛也没有新鲜事。。。。。。。。。。](https://2libra.com/post/touch-fish/xW2g3ca)
   - [今天上班，国庆只放 5 天](https://2libra.com/post/office-life/7_TuEWy)
   - [工会活动，参观振华重工，可惜。。。](https://2libra.com/post/small-things/mpM3baQ)
   - [求教, 哪里可以买个便宜的国外小鸡, 最低配置就行, 主要是要便宜.](https://2libra.com/post/servers/xhXeELT)
@@ -181,7 +182,9 @@
   - [Here’s How an AI Slowdown Could Actually Be Enforced](https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/)
 - 不安全
   - [sslscan v2.2.3](https://buaq.net/go-443418.html)
+  - [Veridiff](https://buaq.net/go-443421.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [iPhone 18 拿到手了吗？首选配件可以先安排上了](https://www.ifanr.com/1680982?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 18 Pro昨天开卖：Pro Max加价，Pro破发/12306回应国庆票价上涨/宁德时代倪军：全固态电池至少还需5年](https://www.ifanr.com/1680956?utm_source=rss&utm_medium=rss&utm_campaign=)
