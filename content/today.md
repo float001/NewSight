@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-09-19）
 
 - 2Libra
+  - [【慢讯】智谱 zcode 被爆上传用户工作区文件，及智谱回应](https://2libra.com/post/network-security/4tX-e2l)
   - [不行咱把潘多拉放出来了吧, 直接金币抽盲盒. 收割一下那些盲盒赌徒.](https://2libra.com/post/forum-function/FJmqs49)
   - [今天上班简直了，群聊也没人说话，论坛也没有新鲜事。。。。。。。。。。](https://2libra.com/post/touch-fish/xW2g3ca)
   - [今天上班，国庆只放 5 天](https://2libra.com/post/office-life/7_TuEWy)
@@ -35,8 +36,11 @@
   - [Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks](https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks)
 - Data Breach
   - [Gyazo Data Breach Exposes 23 Million User Records](https://securityaffairs.com/199338/data-breach/gyazo-data-breach-exposes-23-million-user-records.html)
+- defend.network
+  - [Azure AI, Cisco ISE, WordPress flaws under active exploitation; 23M Gyazo breach](https://defend.network/briefings/azure-ai-cisco-ise-wordpress-critical-exploits-2026-09-19.html)
 - Hacker News Frontpage
   - [Border agents can search cellphones without a warrant or reasonable suspicion](https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/)
+  - [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
   - [San Francisco Onion Futures Company](https://onionfutures.com/)
   - [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
   - [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
@@ -51,6 +55,8 @@
   - [Why fitting a logistic is nearly impossible from early data](https://www.johndcook.com/blog/2026/09/18/logistic-fit-sensitivity/)
 - ongoing by Tim Bray
   - [Regulate and Standardize AI? Nope.](https://www.tbray.org/ongoing/When/202x/2026/09/18/On-Regulating-AI)
+- Product Hunt
+  - [Mise](https://www.producthunt.com/products/robot-recipes)
 - simonwillison.net
   - [Gemini Hacked Three Companies in First Known Breakout by Google’s AI](https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/)
   - [Note on 18th September 2026](https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/)
@@ -179,6 +185,7 @@
   - [CVE-2026-93737](https://vulners.com/nvd/NVD:CVE-2026-93737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93739](https://vulners.com/nvd/NVD:CVE-2026-93739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93740](https://vulners.com/nvd/NVD:CVE-2026-93740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93741](https://vulners.com/nvd/NVD:CVE-2026-93741?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [20% Off Samsung Promo Code | September 2026](https://www.wired.com/story/samsung-promo-codes/)
   - [An Undercover Google Analyst Infiltrated a Notorious Supply Chain Hacking Gang](https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/)
