@@ -15,6 +15,7 @@
 - CoinTelegraph
   - [Binance launches 24/7 FX perps with weekend pricing system](https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto stocks rebound after CLARITY Act selloff](https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report](https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Google Confirms Gemini Hacked Three Companies in Test](https://www.cyberkendra.com/2026/09/gemini-hacked-three-companies-irregular.html)
   - [How Google Broke TeamPCP From the Inside](https://www.cyberkendra.com/2026/09/how-google-broke-teampcp-from-the-inside.html)
