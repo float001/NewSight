@@ -5,9 +5,12 @@
   - [不行咱把潘多拉放出来了吧, 直接金币抽盲盒. 收割一下那些盲盒赌徒.](https://2libra.com/post/forum-function/FJmqs49)
   - [今天上班简直了，群聊也没人说话，论坛也没有新鲜事。。。。。。。。。。](https://2libra.com/post/touch-fish/xW2g3ca)
   - [今天上班，国庆只放 5 天](https://2libra.com/post/office-life/7_TuEWy)
+  - [变成小头爸爸了](https://2libra.com/post/forum-function/-CS6UB6)
   - [工会活动，参观振华重工，可惜。。。](https://2libra.com/post/small-things/mpM3baQ)
   - [新增侧边栏橱窗广告位竞价推广功能](https://2libra.com/post/product-updates/sKOA07p)
   - [求教, 哪里可以买个便宜的国外小鸡, 最低配置就行, 主要是要便宜.](https://2libra.com/post/servers/xhXeELT)
+- 404 Media
+  - [‘Supermountains’ Buried Under Antarctica Fueled Explosion of Life, Scientists Discover](https://www.404media.co/supermountains-buried-under-antarctica-fueled-explosion-of-life-scientists-discover/)
 - aresluna.org
   - [My design bookshelves](https://aresluna.org/my-design-bookshelves)
 - Ars Technica
@@ -15,6 +18,7 @@
 - CoinTelegraph
   - [Binance launches 24/7 FX perps with weekend pricing system](https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto stocks rebound after CLARITY Act selloff](https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Dtcpay welcomes SBI Group as strategic investor extending Series A to $25M](https://cointelegraph.com/news/dtcpay-welcomes-sbi-group-as-strategic-investor-extending-series-a-to-25m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report](https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Google Confirms Gemini Hacked Three Companies in Test](https://www.cyberkendra.com/2026/09/gemini-hacked-three-companies-irregular.html)
@@ -82,6 +86,7 @@
   - [Y Combinator insurance tech alum Angle Health hits $2.7B valuation](https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/)
 - The Decoder
   - [California Governor Newsom signs executive order demanding "kill switch" for AI models](https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/)
+  - [Google's Gemini also accidentally hacked three real companies during security testing](https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/)
   - [Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours](https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/)
   - [U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report](https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/)
 - The Verge
@@ -248,6 +253,8 @@
   - [KitchenAid Promo Codes: Save Up to 20%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
   - [Newegg Promo Codes and Coupons for September 2026](https://www.wired.com/story/newegg-promo-code/)
   - [Paramount+ Coupon Codes and Deals for September 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
+  - [Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law](https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/)
+  - [The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)](https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/)
   - [Whoop Promo Codes: 20% Off This September 2026](https://www.wired.com/story/whoop-promo-code/)
   - [Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear](https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/)
 - 不安全
