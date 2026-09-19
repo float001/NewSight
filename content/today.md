@@ -48,6 +48,7 @@
 - Hacker News Frontpage
   - [Border agents can search cellphones without a warrant or reasonable suspicion](https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/)
   - [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
+  - [Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
   - [San Francisco Onion Futures Company](https://onionfutures.com/)
   - [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
   - [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
@@ -76,6 +77,7 @@
   - [A new kind of AI model from a ChatGPT inventor is thrilling developers](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/)
   - [A startup that builds other startups raised $100M, and is all-in on physical AI](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/)
   - [AI hallucination nearly triggers US military operation](https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/)
+  - [AI safety conversations have gotten unbelievable](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/)
   - [Anthropic is operating a lab that conducts biology experiments](https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/)
   - [Anthropic’s first embedded evaluator is … Accenture?](https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/)
   - [Automattic names interim CFO after exec departures](https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/)
@@ -87,6 +89,7 @@
   - [India forces caller-ID apps to feed spam reports to telcos](https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/)
   - [Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis](https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/)
   - [Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops](https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/)
+  - [Petlibro’s new AI-powered feeder is a game changer for multi-cat homes](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/)
   - [Tilly Norwood’s press tour is going about as well as you’d expect for an AI](https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/)
   - [Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/)
   - [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/)
@@ -96,6 +99,7 @@
   - [California Governor Newsom signs executive order demanding "kill switch" for AI models](https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/)
   - [Google's Gemini also accidentally hacked three real companies during security testing](https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/)
   - [GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark](https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/)
+  - [Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks](https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/)
   - [Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours](https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/)
   - [U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report](https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/)
 - The Verge
@@ -106,6 +110,8 @@
   - [The AI regulation smackdown isn’t over](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over)
   - [The real story of the iPhone 18 Pro&#8217;s camera](https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera)
   - [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force)
+- Threatninja.net
+  - [Hack The Box: Hercules Machine Walkthrough – Insane Diffucility](https://threatninja.net/hack-the-box-hercules-machine-walkthrough-insane-diffucility/)
 - Vulners.com RSS Feed
   - [ACPI: processor: Unregister cpufreq notifier on init failure](https://vulners.com/mscve/MS:CVE-2026-90364?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [batman-adv: bla: avoid CRC corruption due to parallel claim add](https://vulners.com/mscve/MS:CVE-2026-93203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -219,6 +225,8 @@
   - [CVE-2026-93985](https://vulners.com/nvd/NVD:CVE-2026-93985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93986](https://vulners.com/nvd/NVD:CVE-2026-93986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93987](https://vulners.com/nvd/NVD:CVE-2026-93987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94001 Keycloak-services: keycloak-services: admin credential delete bypasses denied reset-password permission](https://vulners.com/cve/CVE-2026-94001?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94001 Keycloak-services: keycloak-services: admin credential delete bypasses denied reset-password permission](https://vulners.com/cvelist/CVELIST:CVE-2026-94001?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cxl/mbox: Break poison list loop on an empty payload](https://vulners.com/mscve/MS:CVE-2026-93097?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cxl/mbox: Clamp mailbox output allocation to the payload size](https://vulners.com/mscve/MS:CVE-2026-93186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [dax: read holder_ops once in dax_holder_notify_failure()](https://vulners.com/mscve/MS:CVE-2026-93073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -282,6 +290,7 @@
   - [[限量] 美区PP开通20美元的ChatGPT Plus半价 限新账号/限名额/最多优惠60美元](https://buaq.net/go-443466.html)
   - [Need help recovering an old Instagram account](https://buaq.net/go-443476.html)
   - [proxmark3 v4.23346](https://buaq.net/go-443423.html)
+  - [red-teaming-auto-mode](https://buaq.net/go-443482.html)
   - [sslscan v2.2.3](https://buaq.net/go-443418.html)
   - [Veridiff](https://buaq.net/go-443421.html)
 - 代码审计星球
