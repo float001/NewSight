@@ -95,10 +95,12 @@
   - [AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline](https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/)
   - [California Governor Newsom signs executive order demanding "kill switch" for AI models](https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/)
   - [Google's Gemini also accidentally hacked three real companies during security testing](https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/)
+  - [GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark](https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/)
   - [Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours](https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/)
   - [U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report](https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/)
 - The Verge
   - [Disney’s first CTO is Character.AI’s former CEO](https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai)
+  - [Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????](https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition)
   - [It’s not just LG. Every TV company is spying on you](https://www.theverge.com/tech/997682/every-tv-company-is-spying)
   - [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero)
   - [The AI regulation smackdown isn’t over](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over)
@@ -277,6 +279,8 @@
   - [Whoop Promo Codes: 20% Off This September 2026](https://www.wired.com/story/whoop-promo-code/)
   - [Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear](https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/)
 - 不安全
+  - [[限量] 美区PP开通20美元的ChatGPT Plus半价 限新账号/限名额/最多优惠60美元](https://buaq.net/go-443466.html)
+  - [Need help recovering an old Instagram account](https://buaq.net/go-443476.html)
   - [proxmark3 v4.23346](https://buaq.net/go-443423.html)
   - [sslscan v2.2.3](https://buaq.net/go-443418.html)
   - [Veridiff](https://buaq.net/go-443421.html)
