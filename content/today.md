@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-09-20）
 
 - CoinTelegraph
+  - [Kalshi joins Coinbase with filing for US stock perpetual futures](https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [VanEck criticizes Metaplanet over executive dilution despite compensation cuts](https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Google Releases AndroidX Security State 1.1.0 Stable](https://www.cyberkendra.com/2026/09/google-releases-androidx-security-state-1-1-0-stable.html)
@@ -8,6 +9,8 @@
   - [Tyler Stalman’s iPhone 18 Pro Camera Review](https://www.youtube.com/watch?v=m6cDErtCKAc)
 - eli.thegreenplace.net
   - [Notes on discrete-time Fourier series and transform](https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/)
+- Hacker News Frontpage
+  - [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
 - simonwillison.net
   - [California Sea Lion, Brandt's Cormorant](https://simonwillison.net/2026/Sep/19/sighting-401567341/)
 - TechCrunch
