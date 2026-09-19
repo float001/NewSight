@@ -38,10 +38,14 @@
 - ongoing by Tim Bray
   - [Regulate and Standardize AI? Nope.](https://www.tbray.org/ongoing/When/202x/2026/09/18/On-Regulating-AI)
 - simonwillison.net
+  - [Gemini Hacked Three Companies in First Known Breakout by Google’s AI](https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/)
   - [Note on 18th September 2026](https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/)
   - [Quoting Thariq Shihipar](https://simonwillison.net/2026/Sep/18/thariq-shihipar/)
 - TechCrunch
   - [A new kind of AI model from a ChatGPT inventor is thrilling developers](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/)
+  - [A startup that builds other startups raised $100M, and is all-in on physical AI](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/)
+  - [AI hallucination nearly triggers US military operation](https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/)
+  - [Anthropic is operating a lab that conducts biology experiments](https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/)
   - [Anthropic’s first embedded evaluator is … Accenture?](https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/)
   - [Automattic names interim CFO after exec departures](https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/)
   - [Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?](https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/)
