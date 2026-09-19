@@ -64,10 +64,14 @@
   - [Regulate and Standardize AI? Nope.](https://www.tbray.org/ongoing/When/202x/2026/09/18/On-Regulating-AI)
 - Product Hunt
   - [Mise](https://www.producthunt.com/products/robot-recipes)
+- Recent Commits to cve:main
+  - [Update Sat Sep 19 12:26:43 UTC 2026](https://github.com/trickest/cve/commit/d2c1721a31be4adbef7d8969ab2cb94a05da24fb)
 - simonwillison.net
   - [Gemini Hacked Three Companies in First Known Breakout by Google’s AI](https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/)
   - [Note on 18th September 2026](https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/)
   - [Quoting Thariq Shihipar](https://simonwillison.net/2026/Sep/18/thariq-shihipar/)
+- Sploitus.com Exploits RSS Feed
+  - [cybershield-ai exploit](https://sploitus.com/exploit?id=2CD270BF-9459-5669-A5D9-BCC61B45B465&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A new kind of AI model from a ChatGPT inventor is thrilling developers](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/)
   - [A startup that builds other startups raised $100M, and is all-in on physical AI](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/)
@@ -84,6 +88,7 @@
   - [Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis](https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/)
   - [Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops](https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/)
   - [Tilly Norwood’s press tour is going about as well as you’d expect for an AI](https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/)
+  - [Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/)
   - [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/)
   - [Y Combinator insurance tech alum Angle Health hits $2.7B valuation](https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/)
 - The Decoder
@@ -94,7 +99,9 @@
   - [U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report](https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/)
 - The Verge
   - [Disney’s first CTO is Character.AI’s former CEO](https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai)
+  - [It’s not just LG. Every TV company is spying on you](https://www.theverge.com/tech/997682/every-tv-company-is-spying)
   - [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero)
+  - [The AI regulation smackdown isn’t over](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over)
   - [The real story of the iPhone 18 Pro&#8217;s camera](https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera)
   - [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force)
 - Vulners.com RSS Feed
@@ -203,6 +210,13 @@
   - [CVE-2026-93739](https://vulners.com/nvd/NVD:CVE-2026-93739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93740](https://vulners.com/nvd/NVD:CVE-2026-93740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93741](https://vulners.com/nvd/NVD:CVE-2026-93741?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93981](https://vulners.com/nvd/NVD:CVE-2026-93981?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93982](https://vulners.com/nvd/NVD:CVE-2026-93982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93983](https://vulners.com/nvd/NVD:CVE-2026-93983?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93984](https://vulners.com/nvd/NVD:CVE-2026-93984?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93985](https://vulners.com/nvd/NVD:CVE-2026-93985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93986](https://vulners.com/nvd/NVD:CVE-2026-93986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93987](https://vulners.com/nvd/NVD:CVE-2026-93987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cxl/mbox: Break poison list loop on an empty payload](https://vulners.com/mscve/MS:CVE-2026-93097?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cxl/mbox: Clamp mailbox output allocation to the payload size](https://vulners.com/mscve/MS:CVE-2026-93186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [dax: read holder_ops once in dax_holder_notify_failure()](https://vulners.com/mscve/MS:CVE-2026-93073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
