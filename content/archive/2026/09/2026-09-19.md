@@ -85,6 +85,7 @@
   - [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/)
   - [Y Combinator insurance tech alum Angle Health hits $2.7B valuation](https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/)
 - The Decoder
+  - [AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline](https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/)
   - [California Governor Newsom signs executive order demanding "kill switch" for AI models](https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/)
   - [Google's Gemini also accidentally hacked three real companies during security testing](https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/)
   - [Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours](https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/)
@@ -254,7 +255,9 @@
   - [Newegg Promo Codes and Coupons for September 2026](https://www.wired.com/story/newegg-promo-code/)
   - [Paramount+ Coupon Codes and Deals for September 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
   - [Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law](https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/)
+  - [Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score](https://www.wired.com/review/samsung-galaxy-watch9/)
   - [The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)](https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/)
+  - [Tired of Cluttered Productivity Apps? This One’s Just a Text Document](https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/)
   - [Whoop Promo Codes: 20% Off This September 2026](https://www.wired.com/story/whoop-promo-code/)
   - [Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear](https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/)
 - 不安全
@@ -263,6 +266,9 @@
   - [Veridiff](https://buaq.net/go-443421.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [3000 美元、3 个人、72 小时：AI 把 OpenAI 的论坛打穿了](https://www.anquanke.com/post/id/316124)
+  - [一个月 68 个 CVE、91.8% 没有 OAuth：你的 AI 工具层正在裸奔](https://www.anquanke.com/post/id/316121)
 - 爱范儿
   - [iPhone 18 拿到手了吗？首选配件可以先安排上了](https://www.ifanr.com/1680982?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone 18 Pro昨天开卖：Pro Max加价，Pro破发/12306回应国庆票价上涨/宁德时代倪军：全固态电池至少还需5年](https://www.ifanr.com/1680956?utm_source=rss&utm_medium=rss&utm_campaign=)
