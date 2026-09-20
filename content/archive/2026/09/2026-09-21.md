@@ -6,6 +6,8 @@
   - [GM Revives CarPlay for 2027 Trucks](https://www.autoweek.com/news/a73761352/gm-revives-apple-carplay-for-2027-chevy-silverado-gmc-sierra/)
   - [WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
 - Hacker News Frontpage
+  - [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/)
+  - [Google's Open Agentic Orchestrator](https://agentexecutor.io)
   - [Nipple tattooist 'frustrated' by online censorship](https://www.bbc.com/news/articles/cx2z7ejn891o)
   - [OpenAI's Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
   - [People hate Flock so much its employees are now demoralized and quitting](https://www.neowin.net/news/people-hate-flock-so-much-that-its-employees-are-now-demoralized-and-thinking-of-quitting/)
@@ -50,6 +52,9 @@
   - [CVE-2026-94049](https://vulners.com/nvd/NVD:CVE-2026-94049?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94051 0717376 cowork_bench pdf-tools-mcp server.py ControlFlowNode server-side request forgery](https://vulners.com/cve/CVE-2026-94051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94051 0717376 cowork_bench pdf-tools-mcp server.py ControlFlowNode server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-94051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94090](https://vulners.com/nvd/NVD:CVE-2026-94090?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94091 piskvorky gensim Model Loader utils.py load deserialization](https://vulners.com/cve/CVE-2026-94091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94091 piskvorky gensim Model Loader utils.py load deserialization](https://vulners.com/cvelist/CVELIST:CVE-2026-94091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
