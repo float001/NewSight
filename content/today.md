@@ -16,6 +16,7 @@
   - [基于 jev 的魔法吟唱小游戏](https://2libra.com/post/ai-applications/DZP-ePr)
   - [壁纸](https://2libra.com/post/recommendations/yLK2t7D)
   - [好奇这个今日热议是怎么排序的，有懂的吗？鸡米方便透露下？](https://2libra.com/post/forum-function/IqgMh6S)
+  - [急需一个功能：帖内评论置顶 / 无期限的 OP 附言](https://2libra.com/post/forum-function/O0WTudX)
   - [新鼠标到了，不出意外应该是这辈子最后用的罗技鼠标了](https://2libra.com/post/computers-accessories/xfG9AIo)
   - [昨天去逛超市](https://2libra.com/post/small-things/vcyM8H2)
   - [机械硬盘坏了···本月钱包大出血](https://2libra.com/post/personal-life/36MoY8j)
@@ -27,6 +28,7 @@
   - [这台 MacBook Pro 2015 还有什么价值吗？](https://2libra.com/post/midlife-support-club/zNoaw7Y)
 - CoinTelegraph
   - [Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal](https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Grayscale’s Zcash ETF files for 3-for-1 forward share split](https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi joins Coinbase with filing for US stock perpetual futures](https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive](https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [VanEck criticizes Metaplanet over executive dilution despite compensation cuts](https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -58,6 +60,7 @@
   - [Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak](https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871)
 - The Decoder
   - [Following OpenAI, Anthropic is also reportedly postponing its IPO](https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/)
+  - [Simulated students that make realistic mistakes help AI tutors learn faster](https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/)
   - [Trump announces "AI Force" and plans for an "AI czar" as he pushes unchecked AI growth](https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/)
 - The Verge
   - [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)
@@ -83,7 +86,11 @@
   - [CVE-2026-94084](https://vulners.com/nvd/NVD:CVE-2026-94084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-18937](https://vulners.com/githubexploit/523694D2-149E-5AFC-A54A-D05DC82BDF4E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [How to Avoid Scams and Sketchy Products on Amazon (2026)](https://www.wired.com/story/how-shop-safe-amazon/)
+  - [Meet the Academics Trying to Stop You From Having Sex in Robotaxis](https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/)
   - [Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans](https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/)
+  - [What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That](https://www.wired.com/story/how-to-use-memory-in-chatgpt/)
+  - [What You Need to Know About the Foreign-Made Router Ban in the US](https://www.wired.com/story/us-government-foreign-made-router-ban-explained/)
 - 不安全
   - [AMD称由于台积电晶圆制造成本上涨 AMD显卡和主板芯片组等价格将上调10%](https://buaq.net/go-443530.html)
   - [macsurf v2.3](https://buaq.net/go-443565.html)
