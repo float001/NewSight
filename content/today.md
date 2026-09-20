@@ -19,11 +19,13 @@
   - [新鼠标到了，不出意外应该是这辈子最后用的罗技鼠标了](https://2libra.com/post/computers-accessories/xfG9AIo)
   - [昨天去逛超市](https://2libra.com/post/small-things/vcyM8H2)
   - [机械硬盘坏了···本月钱包大出血](https://2libra.com/post/personal-life/36MoY8j)
+  - [求心理阴影面积](https://2libra.com/post/excessive-things/fiGbUhi)
   - [深夜之美少女](https://2libra.com/post/love/Pgo7WuZ)
   - [现在还有哪里好办有优惠的电话卡吗](https://2libra.com/post/help-requests/nGB_9dm)
   - [瞌睡](https://2libra.com/post/health-consultation/Nx45rC9)
   - [这台 MacBook Pro 2015 还有什么价值吗？](https://2libra.com/post/midlife-support-club/zNoaw7Y)
 - CoinTelegraph
+  - [Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal](https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi joins Coinbase with filing for US stock perpetual futures](https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive](https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [VanEck criticizes Metaplanet over executive dilution despite compensation cuts](https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -41,6 +43,7 @@
   - [Notes on discrete-time Fourier series and transform](https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/)
 - Hacker News Frontpage
   - [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
+  - [KDE turns 30 and someone's brought an AI-native desktop proposal](https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282)
   - [Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters](https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0)
   - [Spain Orders Blocks on Archive.today and Its Mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)
 - simonwillison.net
@@ -80,6 +83,10 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [via and var](https://dyrnq.com/via-and-var/)
+- 奇客Solidot–传递最新科技情报
+  - [学习新语言可能是老年人保持大脑健康的最佳方法](https://www.solidot.org/story?sid=85428)
 - 爱范儿
   - [专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本](https://www.ifanr.com/1680763?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果最强芯片 M8 Ultra，能让 Mac 重回服务器市场吗？](https://www.ifanr.com/1681050?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店](https://www.qbitai.com/2026/09/492873.html)
