@@ -6,6 +6,7 @@
   - [今日补签先到这了](https://2libra.com/post/forum-function/CjzEkJK)
   - [今日话题，大家逛超市的次数还多吗](https://2libra.com/post/personal-life/QapGUh0)
   - [周日](https://2libra.com/post/slacking-off/_yzv4XC)
+  - [壁纸](https://2libra.com/post/recommendations/yLK2t7D)
   - [好奇这个今日热议是怎么排序的，有懂的吗？鸡米方便透露下？](https://2libra.com/post/forum-function/IqgMh6S)
   - [昨天去逛超市](https://2libra.com/post/small-things/vcyM8H2)
   - [深夜之美少女](https://2libra.com/post/love/Pgo7WuZ)
@@ -36,13 +37,19 @@
   - [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)
 - Vulners.com RSS Feed
   - [CVE-2026-82560](https://vulners.com/nvd/NVD:CVE-2026-82560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-86551](https://vulners.com/nvd/NVD:CVE-2026-86551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93954](https://vulners.com/nvd/NVD:CVE-2026-93954?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93955 grimmory-tools grimmory Download Endpoint KoboController.java streamFileToResponse authorization](https://vulners.com/cve/CVE-2026-93955?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93955 grimmory-tools grimmory Download Endpoint KoboController.java streamFileToResponse authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-93955?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93957](https://vulners.com/nvd/NVD:CVE-2026-93957?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93958](https://vulners.com/nvd/NVD:CVE-2026-93958?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94083](https://vulners.com/nvd/NVD:CVE-2026-94083?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94084](https://vulners.com/nvd/NVD:CVE-2026-94084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-18937](https://vulners.com/githubexploit/523694D2-149E-5AFC-A54A-D05DC82BDF4E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [AMD称由于台积电晶圆制造成本上涨 AMD显卡和主板芯片组等价格将上调10%](https://buaq.net/go-443530.html)
   - [mythic_telegram_profile](https://buaq.net/go-443533.html)
+  - [OpenAI就是毒瘤？微软称OpenAI爬虫造成人类历史上最大规模的劳动力盗窃而且可能造成恶性循环](https://buaq.net/go-443534.html)
   - [Security Affairs newsletter Round 595 by Pierluigi Paganini – INTERNATIONAL EDITION](https://buaq.net/go-443531.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
