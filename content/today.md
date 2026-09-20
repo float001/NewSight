@@ -29,6 +29,7 @@
   - [Notes on discrete-time Fourier series and transform](https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/)
 - Hacker News Frontpage
   - [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
+  - [Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters](https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0)
 - simonwillison.net
   - [California Sea Lion, Brandt's Cormorant](https://simonwillison.net/2026/Sep/19/sighting-401567341/)
 - TechCrunch
