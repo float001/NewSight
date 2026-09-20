@@ -69,6 +69,7 @@
   - [CVE-2026-82560](https://vulners.com/nvd/NVD:CVE-2026-82560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86551](https://vulners.com/nvd/NVD:CVE-2026-86551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86554](https://vulners.com/nvd/NVD:CVE-2026-86554?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-86555](https://vulners.com/nvd/NVD:CVE-2026-86555?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93954](https://vulners.com/nvd/NVD:CVE-2026-93954?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93955 grimmory-tools grimmory Download Endpoint KoboController.java streamFileToResponse authorization](https://vulners.com/cve/CVE-2026-93955?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93955 grimmory-tools grimmory Download Endpoint KoboController.java streamFileToResponse authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-93955?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -82,13 +83,20 @@
   - [CVE-2026-93970](https://vulners.com/nvd/NVD:CVE-2026-93970?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93971](https://vulners.com/nvd/NVD:CVE-2026-93971?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93972](https://vulners.com/nvd/NVD:CVE-2026-93972?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93975](https://vulners.com/nvd/NVD:CVE-2026-93975?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93976](https://vulners.com/nvd/NVD:CVE-2026-93976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93977 code-projects Assessment Management add-single-mark.php cross site scripting](https://vulners.com/cve/CVE-2026-93977?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93977 code-projects Assessment Management add-single-mark.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-93977?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94083](https://vulners.com/nvd/NVD:CVE-2026-94083?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94084](https://vulners.com/nvd/NVD:CVE-2026-94084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-18937](https://vulners.com/githubexploit/523694D2-149E-5AFC-A54A-D05DC82BDF4E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [How to Avoid Scams and Sketchy Products on Amazon (2026)](https://www.wired.com/story/how-shop-safe-amazon/)
+  - [It’s Donald Trump Versus MAGA on Data Centers](https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/)
   - [Meet the Academics Trying to Stop You From Having Sex in Robotaxis](https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/)
+  - [Meta's Muse Is Better at Surveilling Than Helping Me](https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/)
   - [Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans](https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/)
+  - [Welcome to Dogs Anonymous, the Online Support Group for People With Difficult Dogs](https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/)
   - [What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That](https://www.wired.com/story/how-to-use-memory-in-chatgpt/)
   - [What You Need to Know About the Foreign-Made Router Ban in the US](https://www.wired.com/story/us-government-foreign-made-router-ban-explained/)
 - 不安全
@@ -97,6 +105,7 @@
   - [mythic_telegram_profile](https://buaq.net/go-443533.html)
   - [OpenAI就是毒瘤？微软称OpenAI爬虫造成人类历史上最大规模的劳动力盗窃而且可能造成恶性循环](https://buaq.net/go-443534.html)
   - [Security Affairs newsletter Round 595 by Pierluigi Paganini – INTERNATIONAL EDITION](https://buaq.net/go-443531.html)
+  - [webanalyze v0.4.6](https://buaq.net/go-443585.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
@@ -104,6 +113,7 @@
 - 奇客Solidot–传递最新科技情报
   - [学习新语言可能是老年人保持大脑健康的最佳方法](https://www.solidot.org/story?sid=85428)
 - 爱范儿
+  - [iPhone 18 Pro 系列开卖了，但苹果没告诉你的是……](https://www.ifanr.com/1681102?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本](https://www.ifanr.com/1680763?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果最强芯片 M8 Ultra，能让 Mac 重回服务器市场吗？](https://www.ifanr.com/1681050?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
