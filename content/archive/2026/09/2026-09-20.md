@@ -7,6 +7,7 @@
   - [《供应链工具箱》一个做副业、转行做实业能得上的供应链管理工具](https://2libra.com/post/personal-works/3fMydGz)
   - [【💰】11.23 分-本站挂啦吗？](https://2libra.com/post/forum-function/Q7KFYBj)
   - [【💰】图片生成哪家模型比较实惠](https://2libra.com/post/large-models/7mipCIh)
+  - [不能用音乐人白嫖网易云了，怎么玩？](https://2libra.com/post/deal-hunter/68WQLLw)
   - [今日是 Pre Monday](https://2libra.com/post/touch-fish/IIdiY1S)
   - [今日补签先到这了](https://2libra.com/post/forum-function/CjzEkJK)
   - [今日话题，大家逛超市的次数还多吗](https://2libra.com/post/personal-life/QapGUh0)
@@ -50,6 +51,8 @@
   - [KDE turns 30 and someone's brought an AI-native desktop proposal](https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282)
   - [Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters](https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0)
   - [Spain Orders Blocks on Archive.today and Its Mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)
+- Recent Commits to cve:main
+  - [Update Sun Sep 20 12:11:41 UTC 2026](https://github.com/trickest/cve/commit/b383f70c179a1b2e7044c1c3475eaabf2e3d5de5)
 - shkspr.mobi
   - [Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆](https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/)
 - simonwillison.net
@@ -68,6 +71,7 @@
   - [Trump announces "AI Force" and plans for an "AI czar" as he pushes unchecked AI growth](https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/)
 - The Verge
   - [A great new video game movie](https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave)
+  - [A24’s reputation is on the line with the SCP Foundation movie](https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license)
   - [All roads lead to cable](https://www.theverge.com/column/997843/streamers-cable-fast-channels)
   - [Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure)
   - [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)
@@ -95,8 +99,20 @@
   - [CVE-2026-93976](https://vulners.com/nvd/NVD:CVE-2026-93976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93977 code-projects Assessment Management add-single-mark.php cross site scripting](https://vulners.com/cve/CVE-2026-93977?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93977 code-projects Assessment Management add-single-mark.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-93977?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93997](https://vulners.com/nvd/NVD:CVE-2026-93997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94003](https://vulners.com/nvd/NVD:CVE-2026-94003?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94004](https://vulners.com/nvd/NVD:CVE-2026-94004?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94083](https://vulners.com/nvd/NVD:CVE-2026-94083?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94084](https://vulners.com/nvd/NVD:CVE-2026-94084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94104](https://vulners.com/nvd/NVD:CVE-2026-94104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94105](https://vulners.com/nvd/NVD:CVE-2026-94105?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94106](https://vulners.com/nvd/NVD:CVE-2026-94106?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94107](https://vulners.com/nvd/NVD:CVE-2026-94107?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94108](https://vulners.com/nvd/NVD:CVE-2026-94108?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94109](https://vulners.com/nvd/NVD:CVE-2026-94109?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94111](https://vulners.com/nvd/NVD:CVE-2026-94111?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94112](https://vulners.com/nvd/NVD:CVE-2026-94112?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94113](https://vulners.com/nvd/NVD:CVE-2026-94113?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-18937](https://vulners.com/githubexploit/523694D2-149E-5AFC-A54A-D05DC82BDF4E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [How to Avoid Scams and Sketchy Products on Amazon (2026)](https://www.wired.com/story/how-shop-safe-amazon/)
@@ -110,6 +126,7 @@
 - 不安全
   - [AMD称由于台积电晶圆制造成本上涨 AMD显卡和主板芯片组等价格将上调10%](https://buaq.net/go-443530.html)
   - [I built TBYC to help people understand online scams — looking for cybersecurity feedback](https://buaq.net/go-443607.html)
+  - [kontext-cli v1.8.1](https://buaq.net/go-443609.html)
   - [macsurf v2.3](https://buaq.net/go-443565.html)
   - [mythic_telegram_profile](https://buaq.net/go-443533.html)
   - [OpenAI就是毒瘤？微软称OpenAI爬虫造成人类历史上最大规模的劳动力盗窃而且可能造成恶性循环](https://buaq.net/go-443534.html)
