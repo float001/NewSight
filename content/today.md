@@ -11,18 +11,31 @@
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-15: SmartApeSG ClickFix to unidentified RAT to MeshAgent](https://www.malware-traffic-analysis.net/2026/09/15/index.html)
 - TechCrunch
+  - [Is the AI industry really ready to slow down?](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/)
   - [New California law will penalize influencers who don’t disclose political ads](https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/)
   - [ScrollEd wants to turn textbooks into TikTok](https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/)
   - [TechCrunch Mobility: How do we know when an AV is safe enough?](https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/)
+  - [Vocci’s ring adds a new form factor to meeting note-taking](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/)
 - The Block
   - [Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ](https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875)
 - The Decoder
   - [Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters](https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/)
+- The Verge
+  - [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation)
+  - [No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown)
 - Vulners.com RSS Feed
+  - [CVE-2026-88854](https://vulners.com/nvd/NVD:CVE-2026-88854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88855](https://vulners.com/nvd/NVD:CVE-2026-88855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88856](https://vulners.com/nvd/NVD:CVE-2026-88856?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88857](https://vulners.com/nvd/NVD:CVE-2026-88857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94035](https://vulners.com/nvd/NVD:CVE-2026-94035?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94036](https://vulners.com/nvd/NVD:CVE-2026-94036?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94037 00Kisumi00 mcp-file-analyzer analyze_csv_data MCP tool main.py ControlFlowNode path traversal](https://vulners.com/cve/CVE-2026-94037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94037 00Kisumi00 mcp-file-analyzer analyze_csv_data MCP tool main.py ControlFlowNode path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-94037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94041](https://vulners.com/nvd/NVD:CVE-2026-94041?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94042](https://vulners.com/nvd/NVD:CVE-2026-94042?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94044 03-lovepreetSingh MCP route.ts create_file path traversal](https://vulners.com/cve/CVE-2026-94044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94044 03-lovepreetSingh MCP route.ts create_file path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-94044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
