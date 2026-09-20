@@ -61,7 +61,10 @@
   - [California Sea Lion, Brandt's Cormorant](https://simonwillison.net/2026/Sep/19/sighting-401567341/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-93958](https://sploitus.com/exploit?id=0A0F165E-653C-5902-8654-1D224C439053&utm_source=rss&utm_medium=rss)
+- Taxodium
+  - [沙蔥炒牛肉](https://taxodium.ink/recipe-sha-cong-chao-niu-rou.html)
 - TechCrunch
+  - [A small but growing number of founders are betting on bringing people together offline](https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/)
   - [Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/)
   - [Flock reportedly tries to shrink workforce with employee buyouts](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/)
   - [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/)
@@ -106,6 +109,8 @@
   - [CVE-2026-93997](https://vulners.com/nvd/NVD:CVE-2026-93997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94003](https://vulners.com/nvd/NVD:CVE-2026-94003?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94004](https://vulners.com/nvd/NVD:CVE-2026-94004?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94030](https://vulners.com/nvd/NVD:CVE-2026-94030?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94031](https://vulners.com/nvd/NVD:CVE-2026-94031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94083](https://vulners.com/nvd/NVD:CVE-2026-94083?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94084](https://vulners.com/nvd/NVD:CVE-2026-94084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94104](https://vulners.com/nvd/NVD:CVE-2026-94104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
