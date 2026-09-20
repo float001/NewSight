@@ -6,6 +6,7 @@
   - [GM Revives CarPlay for 2027 Trucks](https://www.autoweek.com/news/a73761352/gm-revives-apple-carplay-for-2027-chevy-silverado-gmc-sierra/)
   - [WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
 - Hacker News Frontpage
+  - [OpenAI's Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
   - [People hate Flock so much its employees are now demoralized and quitting](https://www.neowin.net/news/people-hate-flock-so-much-that-its-employees-are-now-demoralized-and-thinking-of-quitting/)
   - [Show HN: Radius – A Meetup.com Alternative](https://radius.to/)
 - Malware-Traffic-Analysis.net - Blog Entries
@@ -17,12 +18,15 @@
   - [ScrollEd wants to turn textbooks into TikTok](https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/)
   - [TechCrunch Mobility: How do we know when an AV is safe enough?](https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/)
   - [Vocci’s ring adds a new form factor to meeting note-taking](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/)
+  - [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/)
 - The Block
   - [Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ](https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875)
+  - [ZetaChain votes to shut down Layer 1 network and move ZETA to Solana](https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878)
 - The Decoder
   - [Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters](https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/)
 - The Verge
   - [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation)
+  - [No Dogs in Space is back to feed your need for obsessive music history](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast)
   - [No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown)
 - Vulners.com RSS Feed
   - [CVE-2026-88854](https://vulners.com/nvd/NVD:CVE-2026-88854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -37,6 +41,11 @@
   - [CVE-2026-94042](https://vulners.com/nvd/NVD:CVE-2026-94042?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94044 03-lovepreetSingh MCP route.ts create_file path traversal](https://vulners.com/cve/CVE-2026-94044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94044 03-lovepreetSingh MCP route.ts create_file path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-94044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94047](https://vulners.com/nvd/NVD:CVE-2026-94047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94048](https://vulners.com/nvd/NVD:CVE-2026-94048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94049](https://vulners.com/nvd/NVD:CVE-2026-94049?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94051 0717376 cowork_bench pdf-tools-mcp server.py ControlFlowNode server-side request forgery](https://vulners.com/cve/CVE-2026-94051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94051 0717376 cowork_bench pdf-tools-mcp server.py ControlFlowNode server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-94051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
