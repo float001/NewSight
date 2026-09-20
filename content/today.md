@@ -46,9 +46,12 @@
   - [Notes on discrete-time Fourier series and transform](https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/)
 - Hacker News Frontpage
   - [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
+  - [I'm Tired of the AI Tone](https://sagivo.com/blog/im-tired-of-the-ai-tone)
   - [KDE turns 30 and someone's brought an AI-native desktop proposal](https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282)
   - [Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters](https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0)
   - [Spain Orders Blocks on Archive.today and Its Mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)
+- shkspr.mobi
+  - [Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆](https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/)
 - simonwillison.net
   - [California Sea Lion, Brandt's Cormorant](https://simonwillison.net/2026/Sep/19/sighting-401567341/)
 - TechCrunch
@@ -60,10 +63,15 @@
   - [Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak](https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871)
 - The Decoder
   - [Following OpenAI, Anthropic is also reportedly postponing its IPO](https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/)
+  - [Runway wants to turn AI video generation into a live stream you control in real time](https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/)
   - [Simulated students that make realistic mistakes help AI tutors learn faster](https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/)
   - [Trump announces "AI Force" and plans for an "AI czar" as he pushes unchecked AI growth](https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/)
 - The Verge
+  - [A great new video game movie](https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave)
+  - [All roads lead to cable](https://www.theverge.com/column/997843/streamers-cable-fast-channels)
+  - [Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure)
   - [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)
+  - [The hidden monopoly behind your TI graphing calculator](https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator)
   - [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)
 - Vulners.com RSS Feed
   - [CVE-2026-82560](https://vulners.com/nvd/NVD:CVE-2026-82560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -101,6 +109,7 @@
   - [What You Need to Know About the Foreign-Made Router Ban in the US](https://www.wired.com/story/us-government-foreign-made-router-ban-explained/)
 - 不安全
   - [AMD称由于台积电晶圆制造成本上涨 AMD显卡和主板芯片组等价格将上调10%](https://buaq.net/go-443530.html)
+  - [I built TBYC to help people understand online scams — looking for cybersecurity feedback](https://buaq.net/go-443607.html)
   - [macsurf v2.3](https://buaq.net/go-443565.html)
   - [mythic_telegram_profile](https://buaq.net/go-443533.html)
   - [OpenAI就是毒瘤？微软称OpenAI爬虫造成人类历史上最大规模的劳动力盗窃而且可能造成恶性循环](https://buaq.net/go-443534.html)
