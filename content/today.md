@@ -23,6 +23,7 @@
   - [深夜之美少女](https://2libra.com/post/love/Pgo7WuZ)
   - [现在还有哪里好办有优惠的电话卡吗](https://2libra.com/post/help-requests/nGB_9dm)
   - [瞌睡](https://2libra.com/post/health-consultation/Nx45rC9)
+  - [讨论一下即将发布的小米 18pro 系列手机](https://2libra.com/post/phone/HoZ8Xrf)
   - [这台 MacBook Pro 2015 还有什么价值吗？](https://2libra.com/post/midlife-support-club/zNoaw7Y)
 - CoinTelegraph
   - [Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal](https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -55,12 +56,16 @@
   - [Trump suggests rebranding AI with a new name, says he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/)
 - The Block
   - [Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak](https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871)
+- The Decoder
+  - [Following OpenAI, Anthropic is also reportedly postponing its IPO](https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/)
+  - [Trump announces "AI Force" and plans for an "AI czar" as he pushes unchecked AI growth](https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/)
 - The Verge
   - [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)
   - [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)
 - Vulners.com RSS Feed
   - [CVE-2026-82560](https://vulners.com/nvd/NVD:CVE-2026-82560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86551](https://vulners.com/nvd/NVD:CVE-2026-86551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-86554](https://vulners.com/nvd/NVD:CVE-2026-86554?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93954](https://vulners.com/nvd/NVD:CVE-2026-93954?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93955 grimmory-tools grimmory Download Endpoint KoboController.java streamFileToResponse authorization](https://vulners.com/cve/CVE-2026-93955?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93955 grimmory-tools grimmory Download Endpoint KoboController.java streamFileToResponse authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-93955?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -71,11 +76,17 @@
   - [CVE-2026-93965](https://vulners.com/nvd/NVD:CVE-2026-93965?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93967 aiyiyi121 SxDevOps Command services.py generate_host_task command injection](https://vulners.com/cve/CVE-2026-93967?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93967 aiyiyi121 SxDevOps Command services.py generate_host_task command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-93967?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93970](https://vulners.com/nvd/NVD:CVE-2026-93970?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93971](https://vulners.com/nvd/NVD:CVE-2026-93971?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93972](https://vulners.com/nvd/NVD:CVE-2026-93972?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94083](https://vulners.com/nvd/NVD:CVE-2026-94083?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94084](https://vulners.com/nvd/NVD:CVE-2026-94084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-18937](https://vulners.com/githubexploit/523694D2-149E-5AFC-A54A-D05DC82BDF4E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans](https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/)
 - 不安全
   - [AMD称由于台积电晶圆制造成本上涨 AMD显卡和主板芯片组等价格将上调10%](https://buaq.net/go-443530.html)
+  - [macsurf v2.3](https://buaq.net/go-443565.html)
   - [mythic_telegram_profile](https://buaq.net/go-443533.html)
   - [OpenAI就是毒瘤？微软称OpenAI爬虫造成人类历史上最大规模的劳动力盗窃而且可能造成恶性循环](https://buaq.net/go-443534.html)
   - [Security Affairs newsletter Round 595 by Pierluigi Paganini – INTERNATIONAL EDITION](https://buaq.net/go-443531.html)
@@ -89,4 +100,5 @@
   - [专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本](https://www.ifanr.com/1680763?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果最强芯片 M8 Ultra，能让 Mac 重回服务器市场吗？](https://www.ifanr.com/1681050?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策](https://www.qbitai.com/2026/09/492939.html)
   - [预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店](https://www.qbitai.com/2026/09/492873.html)
