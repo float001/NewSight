@@ -3,6 +3,8 @@
 - 2Libra
   - [1 亿个文件删除问题](https://2libra.com/post/devops/qyMGzyM)
   - [v 站最近这帮人是有啥毛病么？天天观这个有感，观那个有感，然后再来个套娃，观「观 xxx」有感！](https://2libra.com/post/forum-function/cG89Eu1)
+  - [Videdown v1.2.7：把 yt-dlp 的视频下载能力做成桌面操作流](https://2libra.com/post/open-source-tools/S1rcbRZ)
+  - [《供应链工具箱》一个做副业、转行做实业能得上的供应链管理工具](https://2libra.com/post/personal-works/3fMydGz)
   - [【💰】11.23 分-本站挂啦吗？](https://2libra.com/post/forum-function/Q7KFYBj)
   - [【💰】图片生成哪家模型比较实惠](https://2libra.com/post/large-models/7mipCIh)
   - [今日是 Pre Monday](https://2libra.com/post/touch-fish/IIdiY1S)
