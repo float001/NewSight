@@ -11,6 +11,7 @@
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-15: SmartApeSG ClickFix to unidentified RAT to MeshAgent](https://www.malware-traffic-analysis.net/2026/09/15/index.html)
 - TechCrunch
+  - [Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio](https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/)
   - [Is the AI industry really ready to slow down?](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/)
   - [New California law will penalize influencers who don’t disclose political ads](https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/)
   - [ScrollEd wants to turn textbooks into TikTok](https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/)
