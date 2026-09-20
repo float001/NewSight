@@ -47,16 +47,20 @@
   - [Notes on discrete-time Fourier series and transform](https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/)
 - Hacker News Frontpage
   - [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
+  - [Do birds have accents? the regional differences in birdsong](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108)
   - [I'm Tired of the AI Tone](https://sagivo.com/blog/im-tired-of-the-ai-tone)
   - [KDE turns 30 and someone's brought an AI-native desktop proposal](https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282)
   - [Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters](https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0)
   - [Spain Orders Blocks on Archive.today and Its Mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)
+  - [Teen Social Media Bans Miss the Point](https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/)
 - Recent Commits to cve:main
   - [Update Sun Sep 20 12:11:41 UTC 2026](https://github.com/trickest/cve/commit/b383f70c179a1b2e7044c1c3475eaabf2e3d5de5)
 - shkspr.mobi
   - [Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆](https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/)
 - simonwillison.net
   - [California Sea Lion, Brandt's Cormorant](https://simonwillison.net/2026/Sep/19/sighting-401567341/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-93958](https://sploitus.com/exploit?id=0A0F165E-653C-5902-8654-1D224C439053&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/)
   - [Flock reportedly tries to shrink workforce with employee buyouts](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/)
@@ -139,6 +143,7 @@
 - 奇客Solidot–传递最新科技情报
   - [学习新语言可能是老年人保持大脑健康的最佳方法](https://www.solidot.org/story?sid=85428)
 - 爱范儿
+  - [19999 元起，启元机器人想把「个人机器人」先卖进普通人的生活](https://www.ifanr.com/1681137?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [iPhone 18 Pro 系列开卖了，但苹果没告诉你的是……](https://www.ifanr.com/1681102?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本](https://www.ifanr.com/1680763?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果最强芯片 M8 Ultra，能让 Mac 重回服务器市场吗？](https://www.ifanr.com/1681050?utm_source=rss&utm_medium=rss&utm_campaign=)
