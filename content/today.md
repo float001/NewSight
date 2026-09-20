@@ -10,14 +10,18 @@
   - [今日是 Pre Monday](https://2libra.com/post/touch-fish/IIdiY1S)
   - [今日补签先到这了](https://2libra.com/post/forum-function/CjzEkJK)
   - [今日话题，大家逛超市的次数还多吗](https://2libra.com/post/personal-life/QapGUh0)
+  - [刚才试了一下“侧边栏橱窗广告位竞价推广功能”](https://2libra.com/post/product-details/Wv3dDwE)
   - [刚用了 Step 5 Preview 感觉还可以](https://2libra.com/post/ai-tools/glc3DX5)
   - [周日](https://2libra.com/post/slacking-off/_yzv4XC)
+  - [基于 jev 的魔法吟唱小游戏](https://2libra.com/post/ai-applications/DZP-ePr)
   - [壁纸](https://2libra.com/post/recommendations/yLK2t7D)
   - [好奇这个今日热议是怎么排序的，有懂的吗？鸡米方便透露下？](https://2libra.com/post/forum-function/IqgMh6S)
+  - [新鼠标到了，不出意外应该是这辈子最后用的罗技鼠标了](https://2libra.com/post/computers-accessories/xfG9AIo)
   - [昨天去逛超市](https://2libra.com/post/small-things/vcyM8H2)
   - [机械硬盘坏了···本月钱包大出血](https://2libra.com/post/personal-life/36MoY8j)
   - [深夜之美少女](https://2libra.com/post/love/Pgo7WuZ)
   - [现在还有哪里好办有优惠的电话卡吗](https://2libra.com/post/help-requests/nGB_9dm)
+  - [瞌睡](https://2libra.com/post/health-consultation/Nx45rC9)
   - [这台 MacBook Pro 2015 还有什么价值吗？](https://2libra.com/post/midlife-support-club/zNoaw7Y)
 - CoinTelegraph
   - [Kalshi joins Coinbase with filing for US stock perpetual futures](https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -25,13 +29,20 @@
   - [VanEck criticizes Metaplanet over executive dilution despite compensation cuts](https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Google Releases AndroidX Security State 1.1.0 Stable](https://www.cyberkendra.com/2026/09/google-releases-androidx-security-state-1-1-0-stable.html)
+- Cybersecurity News
+  - [Google Gemini Escapes Sandbox During Security Testing](https://securityonline.info/google-gemini-ai-escapes-sandbox-hacks/)
+  - [Microsoft Defender False Alarm: A Complete Resolution](https://securityonline.info/microsoft-defender-false-alarm-fix/)
+  - [Ubuntu Desktop Stability Under Memory Pressure](https://securityonline.info/ubuntu-desktop-stability/)
 - daringfireball.net
   - [Tyler Stalman’s iPhone 18 Pro Camera Review](https://www.youtube.com/watch?v=m6cDErtCKAc)
+- defend.network
+  - [SolarWinds, Orkes RCE flaws under exploitation; Linux kernel vulnerabilities added to CISA KEV](https://defend.network/briefings/solarwinds-orkes-conductor-linux-kernel-exploits-2026-09-20.html)
 - eli.thegreenplace.net
   - [Notes on discrete-time Fourier series and transform](https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/)
 - Hacker News Frontpage
   - [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
   - [Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters](https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0)
+  - [Spain Orders Blocks on Archive.today and Its Mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)
 - simonwillison.net
   - [California Sea Lion, Brandt's Cormorant](https://simonwillison.net/2026/Sep/19/sighting-401567341/)
 - TechCrunch
@@ -52,6 +63,11 @@
   - [CVE-2026-93955 grimmory-tools grimmory Download Endpoint KoboController.java streamFileToResponse authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-93955?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93957](https://vulners.com/nvd/NVD:CVE-2026-93957?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93958](https://vulners.com/nvd/NVD:CVE-2026-93958?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93963](https://vulners.com/nvd/NVD:CVE-2026-93963?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93964](https://vulners.com/nvd/NVD:CVE-2026-93964?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93965](https://vulners.com/nvd/NVD:CVE-2026-93965?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93967 aiyiyi121 SxDevOps Command services.py generate_host_task command injection](https://vulners.com/cve/CVE-2026-93967?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93967 aiyiyi121 SxDevOps Command services.py generate_host_task command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-93967?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94083](https://vulners.com/nvd/NVD:CVE-2026-94083?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94084](https://vulners.com/nvd/NVD:CVE-2026-94084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-18937](https://vulners.com/githubexploit/523694D2-149E-5AFC-A54A-D05DC82BDF4E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -66,3 +82,4 @@
   - [via and var](https://dyrnq.com/via-and-var/)
 - 爱范儿
   - [专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本](https://www.ifanr.com/1680763?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [苹果最强芯片 M8 Ultra，能让 Mac 重回服务器市场吗？](https://www.ifanr.com/1681050?utm_source=rss&utm_medium=rss&utm_campaign=)
