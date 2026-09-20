@@ -1,6 +1,22 @@
 # 今日安全资讯（2026-09-21）
 
+- Hacker News Frontpage
+  - [Show HN: Radius – A Meetup.com Alternative](https://radius.to/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-09-15: SmartApeSG ClickFix to unidentified RAT to MeshAgent](https://www.malware-traffic-analysis.net/2026/09/15/index.html)
 - TechCrunch
+  - [New California law will penalize influencers who don’t disclose political ads](https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/)
   - [TechCrunch Mobility: How do we know when an AV is safe enough?](https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/)
+- The Block
+  - [Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ](https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875)
+- The Decoder
+  - [Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters](https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/)
+- Vulners.com RSS Feed
+  - [CVE-2026-94035](https://vulners.com/nvd/NVD:CVE-2026-94035?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94036](https://vulners.com/nvd/NVD:CVE-2026-94036?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94037 00Kisumi00 mcp-file-analyzer analyze_csv_data MCP tool main.py ControlFlowNode path traversal](https://vulners.com/cve/CVE-2026-94037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94037 00Kisumi00 mcp-file-analyzer analyze_csv_data MCP tool main.py ControlFlowNode path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-94037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [每个 英伟达 GPU 包含了 10-40 个 RISC-V 核心](https://www.solidot.org/story?sid=85436)
