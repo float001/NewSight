@@ -5,6 +5,7 @@
   - [【💰】单休实在是要了我的狗命](https://2libra.com/post/office-life/7iQ9Umm)
   - [分享一个自用工具：在闲鱼商品页让 AI 帮你估价、挑毛病、写砍价话术](https://2libra.com/post/ai-tools/zJjVwVQ)
   - [发帖页面现在可以创建合集了，以及表情输入提示再优化](https://2libra.com/post/product-updates/IOWJ_Fm)
+  - [在电脑上有没有什么好用的英文播客网站](https://2libra.com/post/recommendations/-yRb7Fa)
   - [已经连上 8 天了，再忍几天 我忍忍~](https://2libra.com/post/slacking-off/AUqdbMm)
   - [幼小衔接启蒙助手更新至 v2.0.30](https://2libra.com/post/personal-works/Yc-VoSr)
   - [忘记昨天吧，今天是周一，这周只剩四天半，喜大普奔](https://2libra.com/post/touch-fish/RGsizPK)
@@ -80,13 +81,23 @@
   - [CVE-2026-94095](https://vulners.com/nvd/NVD:CVE-2026-94095?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94096](https://vulners.com/nvd/NVD:CVE-2026-94096?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94097](https://vulners.com/nvd/NVD:CVE-2026-94097?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94101](https://vulners.com/nvd/NVD:CVE-2026-94101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94102](https://vulners.com/nvd/NVD:CVE-2026-94102?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94103](https://vulners.com/nvd/NVD:CVE-2026-94103?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94110](https://vulners.com/nvd/NVD:CVE-2026-94110?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94128](https://vulners.com/nvd/NVD:CVE-2026-94128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94129](https://vulners.com/nvd/NVD:CVE-2026-94129?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - xeiaso.net
   - [This is why we play](https://xeiaso.net/blog/2026/this-is-why-we-play/)
+- 不安全
+  - [A filename collision in PcapPlusPlus that silently dropped packets — traced and fixed upstream](https://buaq.net/go-443682.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [每个 英伟达 GPU 包含了 10-40 个 RISC-V 核心](https://www.solidot.org/story?sid=85436)
 - 爱范儿
   - [早报｜特努斯：iPhone Duo是乔布斯理念体现/小米18 Pro确认涨价/西贝否认倒闭传闻](https://www.ifanr.com/1681049?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [森海塞尔 MOMENTUM 5 体验：AI 时代的稳重选择](https://www.ifanr.com/1681181?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分](https://www.qbitai.com/2026/09/493109.html)
   - [汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA](https://www.qbitai.com/2026/09/493091.html)
