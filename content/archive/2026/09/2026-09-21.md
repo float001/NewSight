@@ -8,6 +8,8 @@
   - [【💰】通勤自行车推荐](https://2libra.com/post/recommendations/TieCiBg)
   - [分享一个自用工具：在闲鱼商品页让 AI 帮你估价、挑毛病、写砍价话术](https://2libra.com/post/ai-tools/zJjVwVQ)
   - [发帖页面现在可以创建合集了，以及表情输入提示再优化](https://2libra.com/post/product-updates/IOWJ_Fm)
+  - [各位 2 友们有啥鼠标使用时候的奇技淫巧吗？大力分享呗](https://2libra.com/post/computers-accessories/D8fnMPR)
+  - [喜大普奔—— vivo 手机已实现与米家生态的兼容](https://2libra.com/post/smart-home/luiu6ng)
   - [在电脑上有没有什么好用的英文播客网站](https://2libra.com/post/recommendations/-yRb7Fa)
   - [多花点钱：不买「怨气产品」，不用「怨气服务」](https://2libra.com/post/social-observation/Qw1nKg9)
   - [已经连上 8 天了，再忍几天 我忍忍~](https://2libra.com/post/slacking-off/AUqdbMm)
@@ -44,6 +46,8 @@
   - [OpenAI's Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
   - [People hate Flock so much its employees are now demoralized and quitting](https://www.neowin.net/news/people-hate-flock-so-much-that-its-employees-are-now-demoralized-and-thinking-of-quitting/)
   - [Show HN: Radius – A Meetup.com Alternative](https://radius.to/)
+- infosecurity-magazine.com
+  - [Revolut Customers Targeted with New Wave of Phishing Attacks](https://www.infosecurity-magazine.com/news/revolut-customers-targeted-wave/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-15: SmartApeSG ClickFix to unidentified RAT to MeshAgent](https://www.malware-traffic-analysis.net/2026/09/15/index.html)
   - [2026-09-17: Seven days of scans and probes and web traffic hitting my web server](https://www.malware-traffic-analysis.net/2026/09/17/index.html)
@@ -72,6 +76,7 @@
   - [No Dogs in Space is back to feed your need for obsessive music history](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast)
   - [No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown)
 - Vulners.com RSS Feed
+  - [CVE-2026-47321](https://vulners.com/nvd/NVD:CVE-2026-47321?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88854](https://vulners.com/nvd/NVD:CVE-2026-88854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88855](https://vulners.com/nvd/NVD:CVE-2026-88855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88856](https://vulners.com/nvd/NVD:CVE-2026-88856?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -104,6 +109,8 @@
   - [CVE-2026-94137](https://vulners.com/nvd/NVD:CVE-2026-94137?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94138](https://vulners.com/nvd/NVD:CVE-2026-94138?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94143](https://vulners.com/nvd/NVD:CVE-2026-94143?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94148](https://vulners.com/nvd/NVD:CVE-2026-94148?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94149](https://vulners.com/nvd/NVD:CVE-2026-94149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-90817](https://vulners.com/githubexploit/227B1E6F-B13B-5AF2-BE15-A56EEB6B78D9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - xeiaso.net
   - [This is why we play](https://xeiaso.net/blog/2026/this-is-why-we-play/)
@@ -112,19 +119,26 @@
   - [iFixit拆解iPhone 18 Pro：可变光圈结构复杂、拆解时屏幕边框有破裂风险](https://buaq.net/go-443718.html)
   - [ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)](https://buaq.net/go-443709.html)
   - [Jade Sleet 被指与印度 IT 服务商入侵事件有关，使用 FLATROOF 和 ROOFDECK 后门](https://buaq.net/go-443714.html)
+  - [JShunter v0.8](https://buaq.net/go-443740.html)
   - [Zircolite v4.0.0](https://buaq.net/go-443712.html)
+  - [面向安全漏洞的自动化程序修复智能体的对抗性测试](https://buaq.net/go-443735.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇安信威胁情报中心
+  - [当 Telegram 变成 C2：拆解监控后门 HEAVYGRAM 与 Handala Hack 的"马甲"游戏](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520675&idx=1&sn=63212e269c0244c2d144e2bce19d4be5)
 - 奇客Solidot–传递最新科技情报
+  - [互联网普及度与宗教信仰下降相关](https://www.solidot.org/story?sid=85442)
   - [新加坡付费让公众读书](https://www.solidot.org/story?sid=85437)
   - [智谱准备推出数据不留存功能](https://www.solidot.org/story?sid=85438)
   - [每个 英伟达 GPU 包含了 10-40 个 RISC-V 核心](https://www.solidot.org/story?sid=85436)
   - [通过广告收集器 ChatGPT 知道你在其它网站的活动](https://www.solidot.org/story?sid=85440)
 - 爱范儿
+  - [AI 正在制造 App 过剩时代](https://www.ifanr.com/1681265?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做](https://www.ifanr.com/1681070?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜特努斯：iPhone Duo是乔布斯理念体现/小米18 Pro确认涨价/西贝否认倒闭传闻](https://www.ifanr.com/1681049?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [森海塞尔 MOMENTUM 5 体验：AI 时代的稳重选择](https://www.ifanr.com/1681181?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent](https://www.qbitai.com/2026/09/493218.html)
   - [IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分](https://www.qbitai.com/2026/09/493109.html)
+  - [啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了](https://www.qbitai.com/2026/09/493241.html)
   - [汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA](https://www.qbitai.com/2026/09/493091.html)
