@@ -7,6 +7,7 @@
   - [分享一个自用工具：在闲鱼商品页让 AI 帮你估价、挑毛病、写砍价话术](https://2libra.com/post/ai-tools/zJjVwVQ)
   - [发帖页面现在可以创建合集了，以及表情输入提示再优化](https://2libra.com/post/product-updates/IOWJ_Fm)
   - [在电脑上有没有什么好用的英文播客网站](https://2libra.com/post/recommendations/-yRb7Fa)
+  - [多花点钱：不买「怨气产品」，不用「怨气服务」](https://2libra.com/post/social-observation/Qw1nKg9)
   - [已经连上 8 天了，再忍几天 我忍忍~](https://2libra.com/post/slacking-off/AUqdbMm)
   - [幼小衔接启蒙助手更新至 v2.0.30](https://2libra.com/post/personal-works/Yc-VoSr)
   - [忘记昨天吧，今天是周一，这周只剩四天半，喜大普奔](https://2libra.com/post/touch-fish/RGsizPK)
@@ -15,6 +16,9 @@
   - [有活跃度满档的吗？](https://2libra.com/post/forum-function/l-AOfek)
   - [连着三天缩小灯了 哈哈哈](https://2libra.com/post/forum-function/4h6FHvt)
 - CoinTelegraph
+  - [Bitcoin reclaims 50-week moving average: Is the bear market over?](https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Hana Bank taps Euroclear blockchain for $100M bond issuance: Report](https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korean fake recruiters infect 30K devices, steal $10.7M in crypto](https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest](https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -26,6 +30,7 @@
   - [WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
   - [Yours Truly on CNBC’s ‘Squawk on the Street’ Friday](https://youtu.be/WrwY_jVaN-w)
 - Hacker News Frontpage
+  - [AI chatbots give wrong answers to financial queries 'most of the time'](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
   - [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/)
   - [Google's Open Agentic Orchestrator](https://agentexecutor.io)
   - [Nipple tattooist 'frustrated' by online censorship](https://www.bbc.com/news/articles/cx2z7ejn891o)
@@ -89,6 +94,8 @@
   - [CVE-2026-94110](https://vulners.com/nvd/NVD:CVE-2026-94110?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94128](https://vulners.com/nvd/NVD:CVE-2026-94128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94129](https://vulners.com/nvd/NVD:CVE-2026-94129?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94137](https://vulners.com/nvd/NVD:CVE-2026-94137?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94138](https://vulners.com/nvd/NVD:CVE-2026-94138?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - xeiaso.net
   - [This is why we play](https://xeiaso.net/blog/2026/this-is-why-we-play/)
 - 不安全
