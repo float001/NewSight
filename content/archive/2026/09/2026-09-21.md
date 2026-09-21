@@ -2,6 +2,7 @@
 
 - 2Libra
   - [9 月 21 日资本市场大事提醒](https://2libra.com/post/stock-market/sMf3fbX)
+  - [cursor 是不是炸了？一个下午了动不动就是这种提示](https://2libra.com/post/ai-programming/WG43ikY)
   - [【💰】iphone 充电线](https://2libra.com/post/apple/8Vqlrim)
   - [【💰】单休实在是要了我的狗命](https://2libra.com/post/office-life/7iQ9Umm)
   - [【💰】通勤自行车推荐](https://2libra.com/post/recommendations/TieCiBg)
@@ -25,6 +26,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korean fake recruiters infect 30K devices, steal $10.7M in crypto](https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest](https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ZetaChain holders approve plan to wind down L1, move ZETA to Solana](https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Download Windows 11 26H2 ISO](https://www.cyberkendra.com/2026/09/windows-11-26h2-iso-download.html)
   - [GPT-6 Astra Cracks 108-Year-Old WWI German Radio Message](https://www.cyberkendra.com/2026/09/gpt-6-astra-decodes-1918-german-chiper-radio-message.html)
@@ -37,6 +39,7 @@
   - [AI chatbots give wrong answers to financial queries 'most of the time'](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
   - [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/)
   - [Google's Open Agentic Orchestrator](https://agentexecutor.io)
+  - [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
   - [Nipple tattooist 'frustrated' by online censorship](https://www.bbc.com/news/articles/cx2z7ejn891o)
   - [OpenAI's Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
   - [People hate Flock so much its employees are now demoralized and quitting](https://www.neowin.net/news/people-hate-flock-so-much-that-its-employees-are-now-demoralized-and-thinking-of-quitting/)
@@ -106,6 +109,7 @@
   - [This is why we play](https://xeiaso.net/blog/2026/this-is-why-we-play/)
 - 不安全
   - [A filename collision in PcapPlusPlus that silently dropped packets — traced and fixed upstream](https://buaq.net/go-443682.html)
+  - [iFixit拆解iPhone 18 Pro：可变光圈结构复杂、拆解时屏幕边框有破裂风险](https://buaq.net/go-443718.html)
   - [ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)](https://buaq.net/go-443709.html)
   - [Jade Sleet 被指与印度 IT 服务商入侵事件有关，使用 FLATROOF 和 ROOFDECK 后门](https://buaq.net/go-443714.html)
   - [Zircolite v4.0.0](https://buaq.net/go-443712.html)
@@ -115,6 +119,7 @@
   - [新加坡付费让公众读书](https://www.solidot.org/story?sid=85437)
   - [智谱准备推出数据不留存功能](https://www.solidot.org/story?sid=85438)
   - [每个 英伟达 GPU 包含了 10-40 个 RISC-V 核心](https://www.solidot.org/story?sid=85436)
+  - [通过广告收集器 ChatGPT 知道你在其它网站的活动](https://www.solidot.org/story?sid=85440)
 - 爱范儿
   - [GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做](https://www.ifanr.com/1681070?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜特努斯：iPhone Duo是乔布斯理念体现/小米18 Pro确认涨价/西贝否认倒闭传闻](https://www.ifanr.com/1681049?utm_source=rss&utm_medium=rss&utm_campaign=)
