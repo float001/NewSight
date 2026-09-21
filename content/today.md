@@ -6,9 +6,11 @@
   - [【💰】iphone 充电线](https://2libra.com/post/apple/8Vqlrim)
   - [【💰】单休实在是要了我的狗命](https://2libra.com/post/office-life/7iQ9Umm)
   - [【💰】通勤自行车推荐](https://2libra.com/post/recommendations/TieCiBg)
+  - [人多，就一定代表真相吗？](https://2libra.com/post/social-observation/YU4K0DI)
   - [从大学军训挨着坐，到多年后的再见](https://2libra.com/post/friendship/tOs2-Ej)
   - [信息收集之“谁发的橱窗？”](https://2libra.com/post/network-security/X3UW2yk)
   - [分享一个自用工具：在闲鱼商品页让 AI 帮你估价、挑毛病、写砍价话术](https://2libra.com/post/ai-tools/zJjVwVQ)
+  - [动态增加多了一个 1U 橱窗位，按当前情况明天 11 点前可以竞价四个橱窗位](https://2libra.com/post/feature-request/JAMTx5x)
   - [发帖页面现在可以创建合集了，以及表情输入提示再优化](https://2libra.com/post/product-updates/IOWJ_Fm)
   - [各位 2 友们有啥鼠标使用时候的奇技淫巧吗？大力分享呗](https://2libra.com/post/computers-accessories/D8fnMPR)
   - [和几个朋友吃饭的时候聊到工作的苦，发现上吊都得排队 🤣](https://2libra.com/post/workplace-stories/QdOL-LP)
@@ -29,8 +31,10 @@
 - CoinTelegraph
   - [Bank of Korea launches 24-hour won settlement pilot for foreign investors](https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin reclaims 50-week moving average: Is the bear market over?](https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hana Bank taps Euroclear blockchain for $100M bond issuance: Report](https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [NEAR jumps nearly 80% in a week as Intents volume nears $30B](https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korean fake recruiters infect 30K devices, steal $10.7M in crypto](https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest](https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [X sues Bitcoin account operators over alleged $278K payout fraud](https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -43,6 +47,8 @@
   - [GM Revives CarPlay for 2027 Trucks](https://www.autoweek.com/news/a73761352/gm-revives-apple-carplay-for-2027-chevy-silverado-gmc-sierra/)
   - [WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
   - [Yours Truly on CNBC’s ‘Squawk on the Street’ Friday](https://youtu.be/WrwY_jVaN-w)
+- dfarq.homeip.net
+  - [NEC V20 CPU: A bit of pep for an XT](https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/?utm_source=rss&utm_medium=rss&utm_campaign=nec-v20-cpu-a-bit-of-pep-for-an-xt)
 - Hacker News Frontpage
   - [AI chatbots give wrong answers to financial queries 'most of the time'](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
   - [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/)
@@ -80,6 +86,7 @@
   - [Vocci’s ring adds a new form factor to meeting note-taking](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/)
   - [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/)
 - The Block
+  - [Bitcoin taps $85,000 for first time since January as crypto short liquidations surge](https://www.theblock.co/news/markets/2026-09-21-bitcoin-taps-85000-for-first-time-since-january-as-crypto-short-liquidations-surge-415905)
   - [Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ](https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875)
   - [X sues UK duo over alleged $277K crypto account payout fraud](https://www.theblock.co/news/regulation/2026-09-21-x-sues-uk-duo-over-alleged-277k-crypto-account-payout-fraud-415889)
   - [ZetaChain votes to shut down Layer 1 network and move ZETA to Solana](https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878)
@@ -87,15 +94,21 @@
   - [Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters](https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/)
 - The Verge
   - [Amazon doesn’t trust Meta’s Muse AI agent](https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping)
+  - [Get a closer look at the iPhone 18 Pro’s mechanical camera](https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown)
   - [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation)
   - [No Dogs in Space is back to feed your need for obsessive music history](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast)
   - [No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown)
+  - [UN says AI safeguards can’t wait for certainty](https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle)
+- Trail of Bits Blog
+  - [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)
 - Vulners.com RSS Feed
   - [CVE-2026-47321](https://vulners.com/nvd/NVD:CVE-2026-47321?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88854](https://vulners.com/nvd/NVD:CVE-2026-88854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88855](https://vulners.com/nvd/NVD:CVE-2026-88855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88856](https://vulners.com/nvd/NVD:CVE-2026-88856?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88857](https://vulners.com/nvd/NVD:CVE-2026-88857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91921](https://vulners.com/nvd/NVD:CVE-2026-91921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92574](https://vulners.com/nvd/NVD:CVE-2026-92574?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94035](https://vulners.com/nvd/NVD:CVE-2026-94035?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94036](https://vulners.com/nvd/NVD:CVE-2026-94036?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94037 00Kisumi00 mcp-file-analyzer analyze_csv_data MCP tool main.py ControlFlowNode path traversal](https://vulners.com/cve/CVE-2026-94037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -126,9 +139,13 @@
   - [CVE-2026-94143](https://vulners.com/nvd/NVD:CVE-2026-94143?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94148](https://vulners.com/nvd/NVD:CVE-2026-94148?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94149](https://vulners.com/nvd/NVD:CVE-2026-94149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94277](https://vulners.com/nvd/NVD:CVE-2026-94277?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2025-6325](https://vulners.com/githubexploit/C073BF62-EBAB-5ABE-B5CA-1260AE5446CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-90817](https://vulners.com/githubexploit/227B1E6F-B13B-5AF2-BE15-A56EEB6B78D9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory](https://www.wired.com/review/bambu-p2s-combo-3d-printer/)
   - [Factor Delivery Meals Review (2026): Tender Salmon, Room to Grow](https://www.wired.com/review/factor-perpared-meals-2026/)
+  - [US and China Discuss Alerting Each Other to AI National Security Threats](https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/)
 - xeiaso.net
   - [This is why we play](https://xeiaso.net/blog/2026/this-is-why-we-play/)
 - 不安全
@@ -138,9 +155,13 @@
   - [Jade Sleet 被指与印度 IT 服务商入侵事件有关，使用 FLATROOF 和 ROOFDECK 后门](https://buaq.net/go-443714.html)
   - [JShunter v0.8](https://buaq.net/go-443740.html)
   - [node9-proxy v2.16.2](https://buaq.net/go-443747.html)
+  - [ShinyHunters hacks rival extortion gang and takes over its dark web site](https://buaq.net/go-443762.html)
   - [Three memory-safety bugs in Godot's untrusted-file parsers](https://buaq.net/go-443761.html)
   - [Zircolite v4.0.0](https://buaq.net/go-443712.html)
   - [面向安全漏洞的自动化程序修复智能体的对抗性测试](https://buaq.net/go-443735.html)
+- 互联网安全内参
+  - [Cloudflare开源专为安全审计打造的AI技能框架](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516639&idx=2&sn=2c93982dbef71d2d3fac734ae07b212d)
+  - [神漏洞：突破ChatGPT智能体沙箱，远程执行任意命令](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516639&idx=1&sn=c54a9868365eea68ed4450bf6902219d)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇安信威胁情报中心
@@ -156,6 +177,7 @@
   - [GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做](https://www.ifanr.com/1681070?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜特努斯：iPhone Duo是乔布斯理念体现/小米18 Pro确认涨价/西贝否认倒闭传闻](https://www.ifanr.com/1681049?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [森海塞尔 MOMENTUM 5 体验：AI 时代的稳重选择](https://www.ifanr.com/1681181?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [理想智驾被指「不遵守交规」？这真不能全怪它](https://www.ifanr.com/1681289?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent](https://www.qbitai.com/2026/09/493218.html)
   - [IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分](https://www.qbitai.com/2026/09/493109.html)
