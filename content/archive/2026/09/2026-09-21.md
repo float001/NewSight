@@ -32,6 +32,7 @@
   - [Bank of Korea launches 24-hour won settlement pilot for foreign investors](https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin reclaims 50-week moving average: Is the bear market over?](https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ECB launches Pontes to settle tokenized assets without stablecoins](https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hana Bank taps Euroclear blockchain for $100M bond issuance: Report](https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NEAR jumps nearly 80% in a week as Intents volume nears $30B](https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -54,6 +55,7 @@
   - [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/)
   - [Google's Open Agentic Orchestrator](https://agentexecutor.io)
   - [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
+  - [NEC V20 CPU: A bit of pep for an XT](https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/)
   - [Nipple tattooist 'frustrated' by online censorship](https://www.bbc.com/news/articles/cx2z7ejn891o)
   - [OpenAI's Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
   - [People hate Flock so much its employees are now demoralized and quitting](https://www.neowin.net/news/people-hate-flock-so-much-that-its-employees-are-now-demoralized-and-thinking-of-quitting/)
@@ -68,6 +70,8 @@
   - [2026-09-17: Seven days of scans and probes and web traffic hitting my web server](https://www.malware-traffic-analysis.net/2026/09/17/index.html)
 - NowSecure
   - [JNUC 2026: Bringing Mobile Apps into the AI Governance Conversation](https://www.nowsecure.com/blog/2026/09/21/jnuc-2026-bringing-mobile-apps-into-the-ai-governance-conversation/)
+- pluralistic.net
+  - [Pluralistic: The Claude Delusion (21 Sep 2026)](https://pluralistic.net/2026/09/21/sunsetting/)
 - rtl-sdr.com
   - [Marine VHF Scanner: A General Purpose Narrowband Receiver and Scanner for the RTL-SDR](https://www.rtl-sdr.com/marine-vhf-scanner-a-general-purpose-narrowband-receiver-and-scanner-for-the-rtl-sdr/)
 - Securelist
@@ -157,6 +161,7 @@
   - [node9-proxy v2.16.2](https://buaq.net/go-443747.html)
   - [ShinyHunters hacks rival extortion gang and takes over its dark web site](https://buaq.net/go-443762.html)
   - [Three memory-safety bugs in Godot's untrusted-file parsers](https://buaq.net/go-443761.html)
+  - [Your Agents Should Have Names](https://buaq.net/go-443690.html)
   - [Zircolite v4.0.0](https://buaq.net/go-443712.html)
   - [面向安全漏洞的自动化程序修复智能体的对抗性测试](https://buaq.net/go-443735.html)
 - 互联网安全内参
