@@ -1,9 +1,61 @@
 # 今日安全资讯（2026-09-22）
 
+- Ars Technica
+  - [California settles lawsuit against Paramount/Warner merger, angering advocates](https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/)
+- CoinTelegraph
+  - [Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’](https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Circle launches Bitcoin-backed USDC borrowing for institutional clients](https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [Matthew Butterick: ‘Big AI to Humanity: Drop Dead’](https://matthewbutterick.com/chron/drop-dead.html)
+- Hacker News Frontpage
+  - [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027)
+  - [How do Traffic Signals Work (2019)](https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work)
+  - [Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents](https://github.com/naw103/foremerge)
+  - [This Digital Radio Gets Messages to the World’s Remotest Locations](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data)
+- minimaxir.com
+  - [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/)
 - NVIDIA AI Blog
   - [From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale](https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/)
   - [Why Deploying Physical AI at Scale Demands Safety at Every Layer](https://blogs.nvidia.com/blog/physical-ai-halos-safety/)
+- TechCrunch
+  - [Oura’s $2.2B IPO is mostly a payday for existing shareholders](https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/)
+  - [With Tabby, a former accountant is using AI to make accountants obsolete](https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/)
+- The Block
+  - [Clarity Act fallout: crypto’s Fairshake PAC commits $30 million against Sherrod Brown](https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962)
 - The Decoder
   - [ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen](https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/)
+  - [xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6](https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/)
+- The Verge
+  - [Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content](https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations)
+- Vulners.com RSS Feed
+  - [CVE-2026-36467](https://vulners.com/nvd/NVD:CVE-2026-36467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36468](https://vulners.com/nvd/NVD:CVE-2026-36468?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36469](https://vulners.com/nvd/NVD:CVE-2026-36469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36470](https://vulners.com/nvd/NVD:CVE-2026-36470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36471](https://vulners.com/nvd/NVD:CVE-2026-36471?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-36472](https://vulners.com/nvd/NVD:CVE-2026-36472?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53940](https://vulners.com/nvd/NVD:CVE-2026-53940?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55563](https://vulners.com/nvd/NVD:CVE-2026-55563?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58504 draw.io: Stored XSS on file open via editable=0 sibling cell — patch bypass of CVE-2026-46642](https://vulners.com/cve/CVE-2026-58504?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58504 draw.io: Stored XSS on file open via editable=0 sibling cell — patch bypass of CVE-2026-46642](https://vulners.com/cvelist/CVELIST:CVE-2026-58504?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61674 Fluent Bit: Remote stack buffer overflow in Fluent Bit `out_forward` Secure-Forward `PONG` handler](https://vulners.com/cve/CVE-2026-61674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61674 Fluent Bit: Remote stack buffer overflow in Fluent Bit `out_forward` Secure-Forward `PONG` handler](https://vulners.com/cvelist/CVELIST:CVE-2026-61674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61681](https://vulners.com/nvd/NVD:CVE-2026-61681?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61687](https://vulners.com/nvd/NVD:CVE-2026-61687?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-62987 Fabio - Incomplete fix for CVE-2025-48865: operator-configured trust headers (clientip/tls/requestid) still strippable via the Connection header](https://vulners.com/cve/CVE-2026-62987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-62987 Fabio - Incomplete fix for CVE-2025-48865: operator-configured trust headers (clientip/tls/requestid) still strippable via the Connection header](https://vulners.com/cvelist/CVELIST:CVE-2026-62987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63342](https://vulners.com/nvd/NVD:CVE-2026-63342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63416 draw.io: Path traversal in ExportProxyServlet allows access to arbitrary backend endpoints](https://vulners.com/cve/CVE-2026-63416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63416 draw.io: Path traversal in ExportProxyServlet allows access to arbitrary backend endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-63416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77165](https://vulners.com/nvd/NVD:CVE-2026-77165?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77166](https://vulners.com/nvd/NVD:CVE-2026-77166?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82412](https://vulners.com/nvd/NVD:CVE-2026-82412?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-83621 ntopng: Missing Authorization Check in REST API Allows Non-Admin Users to Tamper Threat Intelligence Blacklist URLs](https://vulners.com/cve/CVE-2026-83621?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-83621 ntopng: Missing Authorization Check in REST API Allows Non-Admin Users to Tamper Threat Intelligence Blacklist URLs](https://vulners.com/cvelist/CVELIST:CVE-2026-83621?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84298](https://vulners.com/nvd/NVD:CVE-2026-84298?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84990 ntopng: Missing Authorization on System Configuration Backup Download and Listing](https://vulners.com/cve/CVE-2026-84990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84990 ntopng: Missing Authorization on System Configuration Backup Download and Listing](https://vulners.com/cvelist/CVELIST:CVE-2026-84990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85751](https://vulners.com/nvd/NVD:CVE-2026-85751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88978](https://vulners.com/nvd/NVD:CVE-2026-88978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
