@@ -1,10 +1,14 @@
 # 今日安全资讯（2026-09-22）
 
+- 2Libra
+  - [「💰」，想问问 2 友们，如果可以重生再次重新选择，你还会选择目前，你的性别吗？](https://2libra.com/post/small-things/2EbmX4m)
 - Ars Technica
   - [California settles lawsuit against Paramount/Warner merger, angering advocates](https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/)
 - CoinTelegraph
   - [Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’](https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Circle launches Bitcoin-backed USDC borrowing for institutional clients](https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again](https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ondo lets institutions convert stocks directly into tokenized shares](https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [David Pogue: ‘125 Tests of the New AI Siri’](https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri)
   - [Glenn Fleishman on the Increasing Impracticality of Shipping From the U.S. to the E.U.](https://glog.glennf.com/blog/2026/09/17/u-s-small-biz-cant-ship-to-the-eu-anymore/)
@@ -22,6 +26,7 @@
   - [NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories](https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/)
   - [Why Deploying Physical AI at Scale Demands Safety at Every Layer](https://blogs.nvidia.com/blog/physical-ai-halos-safety/)
 - TechCrunch
+  - [Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google](https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/)
   - [Meta’s AI agent has been blocked from using Amazon.com](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/)
   - [Oura’s $2.2B IPO is mostly a payday for existing shareholders](https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/)
   - [With Tabby, a former accountant is using AI to make accountants obsolete](https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/)
@@ -43,19 +48,29 @@
   - [CVE-2026-36470](https://vulners.com/nvd/NVD:CVE-2026-36470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36471](https://vulners.com/nvd/NVD:CVE-2026-36471?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36472](https://vulners.com/nvd/NVD:CVE-2026-36472?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48826](https://vulners.com/nvd/NVD:CVE-2026-48826?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48974](https://vulners.com/nvd/NVD:CVE-2026-48974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48975](https://vulners.com/nvd/NVD:CVE-2026-48975?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48976](https://vulners.com/nvd/NVD:CVE-2026-48976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-53940](https://vulners.com/nvd/NVD:CVE-2026-53940?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55473](https://vulners.com/nvd/NVD:CVE-2026-55473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55563](https://vulners.com/nvd/NVD:CVE-2026-55563?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58504 draw.io: Stored XSS on file open via editable=0 sibling cell — patch bypass of CVE-2026-46642](https://vulners.com/cve/CVE-2026-58504?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58504 draw.io: Stored XSS on file open via editable=0 sibling cell — patch bypass of CVE-2026-46642](https://vulners.com/cvelist/CVELIST:CVE-2026-58504?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61612](https://vulners.com/nvd/NVD:CVE-2026-61612?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61674 Fluent Bit: Remote stack buffer overflow in Fluent Bit `out_forward` Secure-Forward `PONG` handler](https://vulners.com/cve/CVE-2026-61674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61674 Fluent Bit: Remote stack buffer overflow in Fluent Bit `out_forward` Secure-Forward `PONG` handler](https://vulners.com/cvelist/CVELIST:CVE-2026-61674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61681](https://vulners.com/nvd/NVD:CVE-2026-61681?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61687](https://vulners.com/nvd/NVD:CVE-2026-61687?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61745](https://vulners.com/nvd/NVD:CVE-2026-61745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-62182](https://vulners.com/nvd/NVD:CVE-2026-62182?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-62369](https://vulners.com/nvd/NVD:CVE-2026-62369?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-62987 Fabio - Incomplete fix for CVE-2025-48865: operator-configured trust headers (clientip/tls/requestid) still strippable via the Connection header](https://vulners.com/cve/CVE-2026-62987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-62987 Fabio - Incomplete fix for CVE-2025-48865: operator-configured trust headers (clientip/tls/requestid) still strippable via the Connection header](https://vulners.com/cvelist/CVELIST:CVE-2026-62987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-63342](https://vulners.com/nvd/NVD:CVE-2026-63342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-63416 draw.io: Path traversal in ExportProxyServlet allows access to arbitrary backend endpoints](https://vulners.com/cve/CVE-2026-63416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-63416 draw.io: Path traversal in ExportProxyServlet allows access to arbitrary backend endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-63416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-69190](https://vulners.com/nvd/NVD:CVE-2026-69190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77165](https://vulners.com/nvd/NVD:CVE-2026-77165?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77166](https://vulners.com/nvd/NVD:CVE-2026-77166?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82412](https://vulners.com/nvd/NVD:CVE-2026-82412?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -66,7 +81,11 @@
   - [CVE-2026-84990 ntopng: Missing Authorization on System Configuration Backup Download and Listing](https://vulners.com/cvelist/CVELIST:CVE-2026-84990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85751](https://vulners.com/nvd/NVD:CVE-2026-85751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88978](https://vulners.com/nvd/NVD:CVE-2026-88978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92382](https://vulners.com/nvd/NVD:CVE-2026-92382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93012](https://vulners.com/nvd/NVD:CVE-2026-93012?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94488](https://vulners.com/nvd/NVD:CVE-2026-94488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping](https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/)
   - [Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush](https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
