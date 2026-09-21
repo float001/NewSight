@@ -2,6 +2,7 @@
 
 - 2Libra
   - [9 月 21 日资本市场大事提醒](https://2libra.com/post/stock-market/sMf3fbX)
+  - [【💰】iphone 充电线](https://2libra.com/post/apple/8Vqlrim)
   - [【💰】单休实在是要了我的狗命](https://2libra.com/post/office-life/7iQ9Umm)
   - [分享一个自用工具：在闲鱼商品页让 AI 帮你估价、挑毛病、写砍价话术](https://2libra.com/post/ai-tools/zJjVwVQ)
   - [发帖页面现在可以创建合集了，以及表情输入提示再优化](https://2libra.com/post/product-updates/IOWJ_Fm)
@@ -17,6 +18,7 @@
   - [North Korean fake recruiters infect 30K devices, steal $10.7M in crypto](https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest](https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
+  - [Download Windows 11 26H2 ISO](https://www.cyberkendra.com/2026/09/windows-11-26h2-iso-download.html)
   - [GPT-6 Astra Cracks 108-Year-Old WWI German Radio Message](https://www.cyberkendra.com/2026/09/gpt-6-astra-decodes-1918-german-chiper-radio-message.html)
 - daringfireball.net
   - [Apple TV to Finally Air ‘The Savant’ in Early 2027, Supposedly](https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/)
