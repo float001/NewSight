@@ -4,6 +4,7 @@
   - [9 月 21 日资本市场大事提醒](https://2libra.com/post/stock-market/sMf3fbX)
   - [【💰】iphone 充电线](https://2libra.com/post/apple/8Vqlrim)
   - [【💰】单休实在是要了我的狗命](https://2libra.com/post/office-life/7iQ9Umm)
+  - [【💰】通勤自行车推荐](https://2libra.com/post/recommendations/TieCiBg)
   - [分享一个自用工具：在闲鱼商品页让 AI 帮你估价、挑毛病、写砍价话术](https://2libra.com/post/ai-tools/zJjVwVQ)
   - [发帖页面现在可以创建合集了，以及表情输入提示再优化](https://2libra.com/post/product-updates/IOWJ_Fm)
   - [在电脑上有没有什么好用的英文播客网站](https://2libra.com/post/recommendations/-yRb7Fa)
@@ -11,9 +12,11 @@
   - [已经连上 8 天了，再忍几天 我忍忍~](https://2libra.com/post/slacking-off/AUqdbMm)
   - [幼小衔接启蒙助手更新至 v2.0.30](https://2libra.com/post/personal-works/Yc-VoSr)
   - [忘记昨天吧，今天是周一，这周只剩四天半，喜大普奔](https://2libra.com/post/touch-fish/RGsizPK)
+  - [快讯：ChatGPT 有广告了](https://2libra.com/post/ai-trends/1WUqPQ9)
   - [怎么弄合集啊？](https://2libra.com/post/forum-function/p0_qiZL)
   - [有关侧边节点和帮助文档菜单调整](https://2libra.com/post/update-logs/rrVaQce)
   - [有活跃度满档的吗？](https://2libra.com/post/forum-function/l-AOfek)
+  - [能加个 闲置交易区 不](https://2libra.com/post/forum-function/kM0qXK0)
   - [连着三天缩小灯了 哈哈哈](https://2libra.com/post/forum-function/4h6FHvt)
 - CoinTelegraph
   - [Bitcoin reclaims 50-week moving average: Is the bear market over?](https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -100,6 +103,7 @@
   - [This is why we play](https://xeiaso.net/blog/2026/this-is-why-we-play/)
 - 不安全
   - [A filename collision in PcapPlusPlus that silently dropped packets — traced and fixed upstream](https://buaq.net/go-443682.html)
+  - [ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)](https://buaq.net/go-443709.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
