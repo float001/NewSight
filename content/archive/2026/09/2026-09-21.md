@@ -19,6 +19,7 @@
   - [能加个 闲置交易区 不](https://2libra.com/post/forum-function/kM0qXK0)
   - [连着三天缩小灯了 哈哈哈](https://2libra.com/post/forum-function/4h6FHvt)
 - CoinTelegraph
+  - [Bank of Korea launches 24-hour won settlement pilot for foreign investors](https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin reclaims 50-week moving average: Is the bear market over?](https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hana Bank taps Euroclear blockchain for $100M bond issuance: Report](https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -99,18 +100,26 @@
   - [CVE-2026-94129](https://vulners.com/nvd/NVD:CVE-2026-94129?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94137](https://vulners.com/nvd/NVD:CVE-2026-94137?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94138](https://vulners.com/nvd/NVD:CVE-2026-94138?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94143](https://vulners.com/nvd/NVD:CVE-2026-94143?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-90817](https://vulners.com/githubexploit/227B1E6F-B13B-5AF2-BE15-A56EEB6B78D9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - xeiaso.net
   - [This is why we play](https://xeiaso.net/blog/2026/this-is-why-we-play/)
 - 不安全
   - [A filename collision in PcapPlusPlus that silently dropped packets — traced and fixed upstream](https://buaq.net/go-443682.html)
   - [ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)](https://buaq.net/go-443709.html)
+  - [Jade Sleet 被指与印度 IT 服务商入侵事件有关，使用 FLATROOF 和 ROOFDECK 后门](https://buaq.net/go-443714.html)
+  - [Zircolite v4.0.0](https://buaq.net/go-443712.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [新加坡付费让公众读书](https://www.solidot.org/story?sid=85437)
+  - [智谱准备推出数据不留存功能](https://www.solidot.org/story?sid=85438)
   - [每个 英伟达 GPU 包含了 10-40 个 RISC-V 核心](https://www.solidot.org/story?sid=85436)
 - 爱范儿
+  - [GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做](https://www.ifanr.com/1681070?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜特努斯：iPhone Duo是乔布斯理念体现/小米18 Pro确认涨价/西贝否认倒闭传闻](https://www.ifanr.com/1681049?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [森海塞尔 MOMENTUM 5 体验：AI 时代的稳重选择](https://www.ifanr.com/1681181?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent](https://www.qbitai.com/2026/09/493218.html)
   - [IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分](https://www.qbitai.com/2026/09/493109.html)
   - [汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA](https://www.qbitai.com/2026/09/493091.html)
