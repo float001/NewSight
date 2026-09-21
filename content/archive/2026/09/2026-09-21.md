@@ -2,10 +2,18 @@
 
 - 2Libra
   - [9 月 21 日资本市场大事提醒](https://2libra.com/post/stock-market/sMf3fbX)
+  - [【💰】单休实在是要了我的狗命](https://2libra.com/post/office-life/7iQ9Umm)
+  - [分享一个自用工具：在闲鱼商品页让 AI 帮你估价、挑毛病、写砍价话术](https://2libra.com/post/ai-tools/zJjVwVQ)
+  - [发帖页面现在可以创建合集了，以及表情输入提示再优化](https://2libra.com/post/product-updates/IOWJ_Fm)
+  - [已经连上 8 天了，再忍几天 我忍忍~](https://2libra.com/post/slacking-off/AUqdbMm)
   - [幼小衔接启蒙助手更新至 v2.0.30](https://2libra.com/post/personal-works/Yc-VoSr)
+  - [忘记昨天吧，今天是周一，这周只剩四天半，喜大普奔](https://2libra.com/post/touch-fish/RGsizPK)
   - [怎么弄合集啊？](https://2libra.com/post/forum-function/p0_qiZL)
+  - [有关侧边节点和帮助文档菜单调整](https://2libra.com/post/update-logs/rrVaQce)
+  - [有活跃度满档的吗？](https://2libra.com/post/forum-function/l-AOfek)
   - [连着三天缩小灯了 哈哈哈](https://2libra.com/post/forum-function/4h6FHvt)
 - CoinTelegraph
+  - [North Korean fake recruiters infect 30K devices, steal $10.7M in crypto](https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest](https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [GPT-6 Astra Cracks 108-Year-Old WWI German Radio Message](https://www.cyberkendra.com/2026/09/gpt-6-astra-decodes-1918-german-chiper-radio-message.html)
@@ -23,8 +31,13 @@
   - [Show HN: Radius – A Meetup.com Alternative](https://radius.to/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-15: SmartApeSG ClickFix to unidentified RAT to MeshAgent](https://www.malware-traffic-analysis.net/2026/09/15/index.html)
+  - [2026-09-17: Seven days of scans and probes and web traffic hitting my web server](https://www.malware-traffic-analysis.net/2026/09/17/index.html)
+- rtl-sdr.com
+  - [Marine VHF Scanner: A General Purpose Narrowband Receiver and Scanner for the RTL-SDR](https://www.rtl-sdr.com/marine-vhf-scanner-a-general-purpose-narrowband-receiver-and-scanner-for-the-rtl-sdr/)
 - simonwillison.net
   - [Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Authentication Bypass by Primary Weakness in Haxx Curl](https://sploitus.com/exploit?id=98318AAB-ED34-57A3-A9EB-D292C9696839&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [6 days left to save up to $200 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)
   - [Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio](https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/)
@@ -75,3 +88,5 @@
   - [每个 英伟达 GPU 包含了 10-40 个 RISC-V 核心](https://www.solidot.org/story?sid=85436)
 - 爱范儿
   - [早报｜特努斯：iPhone Duo是乔布斯理念体现/小米18 Pro确认涨价/西贝否认倒闭传闻](https://www.ifanr.com/1681049?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA](https://www.qbitai.com/2026/09/493091.html)
