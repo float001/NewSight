@@ -24,6 +24,7 @@
   - [怎么弄合集啊？](https://2libra.com/post/forum-function/p0_qiZL)
   - [有关侧边节点和帮助文档菜单调整](https://2libra.com/post/update-logs/rrVaQce)
   - [有活跃度满档的吗？](https://2libra.com/post/forum-function/l-AOfek)
+  - [看看你的是什么](https://2libra.com/post/prompts/ppsyWmc)
   - [类似于之前的基元律动，注册送三十，走邀请连接多送五](https://2libra.com/post/ai-gateway/7MWc8Eg)
   - [能加个 闲置交易区 不](https://2libra.com/post/forum-function/kM0qXK0)
   - [还是网友会说话](https://2libra.com/post/ai-companies/TJ7tehA)
@@ -36,6 +37,7 @@
   - [ECB launches Pontes to settle tokenized assets without stablecoins](https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hana Bank taps Euroclear blockchain for $100M bond issuance: Report](https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH](https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NEAR jumps nearly 80% in a week as Intents volume nears $30B](https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korean fake recruiters infect 30K devices, steal $10.7M in crypto](https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC](https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -50,6 +52,8 @@
   - [GM Revives CarPlay for 2027 Trucks](https://www.autoweek.com/news/a73761352/gm-revives-apple-carplay-for-2027-chevy-silverado-gmc-sierra/)
   - [WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
   - [Yours Truly on CNBC’s ‘Squawk on the Street’ Friday](https://youtu.be/WrwY_jVaN-w)
+- Darknet – Hacking Tools, Hacker News & Cyber Security
+  - [Hash Identifier Tools – Command-Line Password Hash Identification](https://www.darknet.org.uk/2026/09/hash-identifier-tools-command-line-password-hash-identification/)
 - dfarq.homeip.net
   - [NEC V20 CPU: A bit of pep for an XT](https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/?utm_source=rss&utm_medium=rss&utm_campaign=nec-v20-cpu-a-bit-of-pep-for-an-xt)
 - Hacker News Frontpage
@@ -66,6 +70,7 @@
 - HackerNoon
   - [The Hard Part of AI Isn't Reasoning. It's Everything That Happens After.](https://hackernoon.com/the-hard-part-of-ai-isnt-reasoning-its-everything-that-happens-after?source=rss)
 - infosecurity-magazine.com
+  - [Attackers Abuse npm Trusted Publishing in GHAPPIER Campaign](https://www.infosecurity-magazine.com/news/attackers-abuse-npm-trusted/)
   - [Experts Alarmed Over Gyazo’s Breach of 490 Million Metadata Records](https://www.infosecurity-magazine.com/news/experts-gyazos-breach-490-million/)
   - [Revolut Customers Targeted with New Wave of Phishing Attacks](https://www.infosecurity-magazine.com/news/revolut-customers-targeted-wave/)
   - [ShinyHunters Claim Hack of Rival Ransomware Gang Clop](https://www.infosecurity-magazine.com/news/shinyhunters-claim-hack-of-clop/)
@@ -104,20 +109,26 @@
   - [X sues UK duo over alleged $277K crypto account payout fraud](https://www.theblock.co/news/regulation/2026-09-21-x-sues-uk-duo-over-alleged-277k-crypto-account-payout-fraud-415889)
   - [ZetaChain votes to shut down Layer 1 network and move ZETA to Solana](https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878)
   - [‘A little more orange’: Strategy buys 950 bitcoin for $76 million, bringing total holdings to 846,000 BTC](https://www.theblock.co/news/business/2026-09-21-a-little-more-orange-strategy-bitcoin-michael-saylor-415893)
+  - [‘Crypto bull market is underway,’ Tom Lee says as Bitmine nears 5% Ethereum supply target with 27,562 ETH buy](https://www.theblock.co/news/business/2026-09-21-crypto-bull-market-underway-tom-lee-says-bitmine-nears-5-ethereum-supply-target-with-27562-eth-buy-415923)
 - The Decoder
   - [Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters](https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/)
+  - [Amazon blocks Meta's AI agent Muse from online shopping](https://the-decoder.com/amazon-blocks-metas-ai-agent-muse-from-online-shopping/)
+  - [US and China agree on AI dialogue with security mechanism ahead of Trump-Xi summit](https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/)
 - The Verge
   - [Amazon doesn’t trust Meta’s Muse AI agent](https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping)
   - [Apple’s clever software solution lets iPhone batteries skirt shipping limits](https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit)
+  - [Can CEO John Ternus find Apple’s next big thing?](https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone)
   - [Get a closer look at the iPhone 18 Pro’s mechanical camera](https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown)
   - [Googlebooks feel like the first laptops built for Android owners](https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast)
   - [I got to see Google&#8217;s wild ideas about the future of laptops](https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs)
+  - [iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit](https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement)
   - [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation)
   - [No Dogs in Space is back to feed your need for obsessive music history](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast)
   - [No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown)
   - [The long dream of the Googlebook](https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history)
   - [The M5 Ultra Mac Studio tears through our benchmark tests](https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review)
   - [UN says AI safeguards can’t wait for certainty](https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle)
+  - [Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo](https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china)
 - Trail of Bits Blog
   - [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)
 - Vulners.com RSS Feed
@@ -191,6 +202,8 @@
   - [This is why we play](https://xeiaso.net/blog/2026/this-is-why-we-play/)
 - 不安全
   - [A filename collision in PcapPlusPlus that silently dropped packets — traced and fixed upstream](https://buaq.net/go-443682.html)
+  - [dnspython](https://buaq.net/go-443798.html)
+  - [Hash Identifier Tools – Command-Line Password Hash Identification](https://buaq.net/go-443794.html)
   - [iFixit拆解iPhone 18 Pro：可变光圈结构复杂、拆解时屏幕边框有破裂风险](https://buaq.net/go-443718.html)
   - [ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)](https://buaq.net/go-443709.html)
   - [Jade Sleet 被指与印度 IT 服务商入侵事件有关，使用 FLATROOF 和 ROOFDECK 后门](https://buaq.net/go-443714.html)
@@ -218,6 +231,7 @@
   - [AI 正在制造 App 过剩时代](https://www.ifanr.com/1681265?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做](https://www.ifanr.com/1681070?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [摁！TA 总能直出决定性瞬间](https://www.ifanr.com/1681350?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [日产新一代 Skyline 要来了！搭载双涡轮 V6，还会有 6 速手动挡？](https://www.ifanr.com/1681312?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜特努斯：iPhone Duo是乔布斯理念体现/小米18 Pro确认涨价/西贝否认倒闭传闻](https://www.ifanr.com/1681049?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [森海塞尔 MOMENTUM 5 体验：AI 时代的稳重选择](https://www.ifanr.com/1681181?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [理想智驾被指「不遵守交规」？这真不能全怪它](https://www.ifanr.com/1681289?utm_source=rss&utm_medium=rss&utm_campaign=)
