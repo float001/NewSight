@@ -6,9 +6,12 @@
   - [【💰】iphone 充电线](https://2libra.com/post/apple/8Vqlrim)
   - [【💰】单休实在是要了我的狗命](https://2libra.com/post/office-life/7iQ9Umm)
   - [【💰】通勤自行车推荐](https://2libra.com/post/recommendations/TieCiBg)
+  - [从大学军训挨着坐，到多年后的再见](https://2libra.com/post/friendship/tOs2-Ej)
+  - [信息收集之“谁发的橱窗？”](https://2libra.com/post/network-security/X3UW2yk)
   - [分享一个自用工具：在闲鱼商品页让 AI 帮你估价、挑毛病、写砍价话术](https://2libra.com/post/ai-tools/zJjVwVQ)
   - [发帖页面现在可以创建合集了，以及表情输入提示再优化](https://2libra.com/post/product-updates/IOWJ_Fm)
   - [各位 2 友们有啥鼠标使用时候的奇技淫巧吗？大力分享呗](https://2libra.com/post/computers-accessories/D8fnMPR)
+  - [和几个朋友吃饭的时候聊到工作的苦，发现上吊都得排队 🤣](https://2libra.com/post/workplace-stories/QdOL-LP)
   - [喜大普奔—— vivo 手机已实现与米家生态的兼容](https://2libra.com/post/smart-home/luiu6ng)
   - [在电脑上有没有什么好用的英文播客网站](https://2libra.com/post/recommendations/-yRb7Fa)
   - [多花点钱：不买「怨气产品」，不用「怨气服务」](https://2libra.com/post/social-observation/Qw1nKg9)
@@ -20,7 +23,9 @@
   - [有关侧边节点和帮助文档菜单调整](https://2libra.com/post/update-logs/rrVaQce)
   - [有活跃度满档的吗？](https://2libra.com/post/forum-function/l-AOfek)
   - [能加个 闲置交易区 不](https://2libra.com/post/forum-function/kM0qXK0)
+  - [还是网友会说话](https://2libra.com/post/ai-companies/TJ7tehA)
   - [连着三天缩小灯了 哈哈哈](https://2libra.com/post/forum-function/4h6FHvt)
+  - [🚽 座圈黄了还带霉点，还有救吗？](https://2libra.com/post/personal-life/9tY6Dnv)
 - CoinTelegraph
   - [Bank of Korea launches 24-hour won settlement pilot for foreign investors](https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin reclaims 50-week moving average: Is the bear market over?](https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -28,6 +33,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korean fake recruiters infect 30K devices, steal $10.7M in crypto](https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest](https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [X sues Bitcoin account operators over alleged $278K payout fraud](https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ZetaChain holders approve plan to wind down L1, move ZETA to Solana](https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Download Windows 11 26H2 ISO](https://www.cyberkendra.com/2026/09/windows-11-26h2-iso-download.html)
@@ -46,13 +52,20 @@
   - [OpenAI's Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
   - [People hate Flock so much its employees are now demoralized and quitting](https://www.neowin.net/news/people-hate-flock-so-much-that-its-employees-are-now-demoralized-and-thinking-of-quitting/)
   - [Show HN: Radius – A Meetup.com Alternative](https://radius.to/)
+- HackerNoon
+  - [The Hard Part of AI Isn't Reasoning. It's Everything That Happens After.](https://hackernoon.com/the-hard-part-of-ai-isnt-reasoning-its-everything-that-happens-after?source=rss)
 - infosecurity-magazine.com
+  - [Experts Alarmed Over Gyazo’s Breach of 490 Million Metadata Records](https://www.infosecurity-magazine.com/news/experts-gyazos-breach-490-million/)
   - [Revolut Customers Targeted with New Wave of Phishing Attacks](https://www.infosecurity-magazine.com/news/revolut-customers-targeted-wave/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-15: SmartApeSG ClickFix to unidentified RAT to MeshAgent](https://www.malware-traffic-analysis.net/2026/09/15/index.html)
   - [2026-09-17: Seven days of scans and probes and web traffic hitting my web server](https://www.malware-traffic-analysis.net/2026/09/17/index.html)
+- NowSecure
+  - [JNUC 2026: Bringing Mobile Apps into the AI Governance Conversation](https://www.nowsecure.com/blog/2026/09/21/jnuc-2026-bringing-mobile-apps-into-the-ai-governance-conversation/)
 - rtl-sdr.com
   - [Marine VHF Scanner: A General Purpose Narrowband Receiver and Scanner for the RTL-SDR](https://www.rtl-sdr.com/marine-vhf-scanner-a-general-purpose-narrowband-receiver-and-scanner-for-the-rtl-sdr/)
+- Securelist
+  - [Group Policy hijacked: PAYLOAD ransomware weaponizes Active Directory GPO](https://securelist.com/tr/payload-ransomware-via-group-policy/121335/)
 - simonwillison.net
   - [Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/)
 - Sploitus.com Exploits RSS Feed
@@ -68,10 +81,12 @@
   - [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/)
 - The Block
   - [Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ](https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875)
+  - [X sues UK duo over alleged $277K crypto account payout fraud](https://www.theblock.co/news/regulation/2026-09-21-x-sues-uk-duo-over-alleged-277k-crypto-account-payout-fraud-415889)
   - [ZetaChain votes to shut down Layer 1 network and move ZETA to Solana](https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878)
 - The Decoder
   - [Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters](https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/)
 - The Verge
+  - [Amazon doesn’t trust Meta’s Muse AI agent](https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping)
   - [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation)
   - [No Dogs in Space is back to feed your need for obsessive music history](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast)
   - [No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown)
@@ -112,6 +127,8 @@
   - [CVE-2026-94148](https://vulners.com/nvd/NVD:CVE-2026-94148?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94149](https://vulners.com/nvd/NVD:CVE-2026-94149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-90817](https://vulners.com/githubexploit/227B1E6F-B13B-5AF2-BE15-A56EEB6B78D9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Factor Delivery Meals Review (2026): Tender Salmon, Room to Grow](https://www.wired.com/review/factor-perpared-meals-2026/)
 - xeiaso.net
   - [This is why we play](https://xeiaso.net/blog/2026/this-is-why-we-play/)
 - 不安全
@@ -120,6 +137,8 @@
   - [ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)](https://buaq.net/go-443709.html)
   - [Jade Sleet 被指与印度 IT 服务商入侵事件有关，使用 FLATROOF 和 ROOFDECK 后门](https://buaq.net/go-443714.html)
   - [JShunter v0.8](https://buaq.net/go-443740.html)
+  - [node9-proxy v2.16.2](https://buaq.net/go-443747.html)
+  - [Three memory-safety bugs in Godot's untrusted-file parsers](https://buaq.net/go-443761.html)
   - [Zircolite v4.0.0](https://buaq.net/go-443712.html)
   - [面向安全漏洞的自动化程序修复智能体的对抗性测试](https://buaq.net/go-443735.html)
 - 代码审计星球
