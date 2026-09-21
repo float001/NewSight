@@ -6,6 +6,9 @@
   - [Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’](https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Circle launches Bitcoin-backed USDC borrowing for institutional clients](https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [David Pogue: ‘125 Tests of the New AI Siri’](https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri)
+  - [Glenn Fleishman on the Increasing Impracticality of Shipping From the U.S. to the E.U.](https://glog.glennf.com/blog/2026/09/17/u-s-small-biz-cant-ship-to-the-eu-anymore/)
+  - [Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan](https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/)
   - [Matthew Butterick: ‘Big AI to Humanity: Drop Dead’](https://matthewbutterick.com/chron/drop-dead.html)
 - Hacker News Frontpage
   - [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027)
@@ -16,17 +19,23 @@
   - [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/)
 - NVIDIA AI Blog
   - [From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale](https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/)
+  - [NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories](https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/)
   - [Why Deploying Physical AI at Scale Demands Safety at Every Layer](https://blogs.nvidia.com/blog/physical-ai-halos-safety/)
 - TechCrunch
+  - [Meta’s AI agent has been blocked from using Amazon.com](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/)
   - [Oura’s $2.2B IPO is mostly a payday for existing shareholders](https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/)
   - [With Tabby, a former accountant is using AI to make accountants obsolete](https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/)
+  - [X will now tell users when governments have forced it to limit their posts](https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/)
 - The Block
   - [Clarity Act fallout: crypto’s Fairshake PAC commits $30 million against Sherrod Brown](https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962)
 - The Decoder
   - [ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen](https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/)
+  - [UN science panel says there is "no assurance humans will keep control" over AI agents](https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/)
   - [xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6](https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/)
 - The Verge
   - [Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content](https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations)
+  - [GM can’t ‘bring back’ Apple CarPlay because it never left](https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google)
+  - [Paramount settles lawsuit blocking $110 billion Warner Bros. merger](https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement)
 - Vulners.com RSS Feed
   - [CVE-2026-36467](https://vulners.com/nvd/NVD:CVE-2026-36467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36468](https://vulners.com/nvd/NVD:CVE-2026-36468?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -57,5 +66,9 @@
   - [CVE-2026-84990 ntopng: Missing Authorization on System Configuration Backup Download and Listing](https://vulners.com/cvelist/CVELIST:CVE-2026-84990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85751](https://vulners.com/nvd/NVD:CVE-2026-85751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88978](https://vulners.com/nvd/NVD:CVE-2026-88978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush](https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [每周AI全球资讯播报_09-14_09-20](https://www.anquanke.com/post/id/316160)
