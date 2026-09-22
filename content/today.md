@@ -3,12 +3,15 @@
 - 2Libra
   - [Grok 4.7 来了](https://2libra.com/post/large-models/MsHKW9h)
   - [「💰」，想问问 2 友们，如果可以重生再次重新选择，你还会选择目前，你的性别吗？](https://2libra.com/post/small-things/2EbmX4m)
+  - [【兑换码】[中秋福利] 1G 住宅 IP 流量免费领！动态低至 $0.55/GB，静态 $2.9/IP/ 月，无限流量 $35 / 天](https://2libra.com/post/promotion/9RJHkZA)
   - [【投票】这里有你喜欢的文字吗？](https://2libra.com/post/personal-life/1W6VpVy)
   - [【💰】6666 金币，我拍下了橱窗位，把自己挂了上去。](https://2libra.com/post/idea/K1OK26q)
   - [一个关于订书钉的小问题](https://2libra.com/post/idea/TISaW0s)
   - [为了这 200，今天帖子秒回](https://2libra.com/post/forum-function/8dl4YVP)
   - [京东金融连签 15 天得 15 元](https://2libra.com/post/deal-hunter/Vhfig_Q)
   - [今天的感动，是昨天 12333 的接线员给的 ❤️](https://2libra.com/post/small-things/Khi0d0L)
+  - [今天的移动新羊毛没有薅一下吗？](https://2libra.com/post/deal-hunter/WTWvQ8w)
+  - [公司突然搞游戏比赛](https://2libra.com/post/office-life/v5hKPi7)
   - [出山姆副卡今日 9 月 22 号开的 100 元](https://2libra.com/post/second-hand/PxAbgL5)
   - [大家国庆都去哪儿玩呀](https://2libra.com/post/travel-tips/wBdvBkx)
   - [好奇我点了延期潘多拉了，但是潘多拉盒子还在，如果点开启潘多拉的话是不是就直接覆盖我的延期了？](https://2libra.com/post/forum-function/JCXVqYX)
@@ -19,10 +22,12 @@
   - [每日微知天下 9 月 22 日](https://2libra.com/post/hotspot-tracking/O1X7xuU)
   - [水一贴，我还在，今天 grok4.7 来了](https://2libra.com/post/large-models/9rwKkx1)
   - [求推荐一款头戴蓝牙耳机](https://2libra.com/post/recommendations/YEqqW45)
+  - [看了看 JEV](https://2libra.com/post/ai-trends/kfRBSYr)
   - [笑死了。。。头像缩小反而感觉自己像双开门](https://2libra.com/post/forum-function/fWsxd8E)
   - [这代码水平如何](https://2libra.com/post/tech-qa/4n4ikaf)
   - [问下站里的宝妈/宝爸，你们的奶粉罐子有用来做啥手工吗](https://2libra.com/post/small-things/qJmudBM)
   - [颈椎疼求救](https://2libra.com/post/personal-life/1akra0d)
+  - [饮品](https://2libra.com/post/small-things/Vu9X2pB)
 - 404 Media
   - [How AI Chatbots Are 'Deskilling' Human Empathy](https://www.404media.co/sherry-turkle-artificial-intimacy-podcast/)
 - Ars Technica
@@ -31,6 +36,7 @@
 - CoinTelegraph
   - [Animoca puts Currenc merger on ice, delaying its Nasdaq debut](https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto](https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETFs flirt with $1B as inflows hit 2026 high](https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’](https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Circle launches Bitcoin-backed USDC borrowing for institutional clients](https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again](https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -57,6 +63,8 @@
   - [Microsoft&rsquo;s record patch batch; fake LastPass installer deploys kernel EDR killer](https://defend.network/briefings/microsoft-patch-tuesday-lastpass-kernel-driver-2026-09-22.html)
 - downtowndougbrown.com
   - [Apple’s Performa in-store demo software from 1993](https://www.downtowndougbrown.com/2026/09/apples-performa-in-store-demo-software-from-1993/)
+- ElcomSoft blog
+  - [IoT Forensics on the Rise: Extracting More Apple Watch, Apple TV and HomePod Models](https://blog.elcomsoft.com/2026/09/iot-forensics-on-the-rise-extracting-more-apple-watch-apple-tv-and-homepod-models/)
 - Hacker News Frontpage
   - [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked)
   - [Apple Music to open concert venue in Battersea Power Station](https://www.bbc.com/news/articles/c607l2j2rj8ro)
@@ -121,6 +129,7 @@
   - [Animoca Brands suspends merger deal that would have taken it public](https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991)
   - [Clarity Act fallout: crypto’s Fairshake PAC commits $30 million against Sherrod Brown](https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962)
   - [Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes ‘ethical’ market contender](https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999)
+  - [Spot bitcoin ETFs attract nearly $1 billion in largest daily inflow in 11 months](https://www.theblock.co/news/markets/2026-09-22-spot-bitcoin-etfs-1-billion-daily-inflow-416005)
 - The Decoder
   - [ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen](https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/)
   - [UN science panel says there is "no assurance humans will keep control" over AI agents](https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/)
