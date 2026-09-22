@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-09-22）
 
 - 2Libra
+  - [30 出几个 figma 教育会员，每月 3000 积分](https://2libra.com/post/ai-tools/8mhbJAK)
   - [Grok 4.7 来了](https://2libra.com/post/large-models/MsHKW9h)
   - [Trae CN 也在疑似偷偷上传用户数据](https://2libra.com/post/ai-tools/AY4If-C)
   - [「💰」，想问问 2 友们，如果可以重生再次重新选择，你还会选择目前，你的性别吗？](https://2libra.com/post/small-things/2EbmX4m)
@@ -9,6 +10,7 @@
   - [【快讯】Cloudflare 大善人 宣布 Workers 支持 Python](https://2libra.com/post/tech-rumination/pF8ylpX)
   - [【投票】这里有你喜欢的文字吗？](https://2libra.com/post/personal-life/1W6VpVy)
   - [【💰】6666 金币，我拍下了橱窗位，把自己挂了上去。](https://2libra.com/post/idea/K1OK26q)
+  - [【💰】ChatGPT、DeepSeek 对比测试（概率拉满）](https://2libra.com/post/ai-programming/dJ6Umhh)
   - [【💰】讲下你们都是怎么准备面试的？在哪里刷面试题？](https://2libra.com/post/workplace-stories/zH3cS3x)
   - [一个关于订书钉的小问题](https://2libra.com/post/idea/TISaW0s)
   - [为了这 200，今天帖子秒回](https://2libra.com/post/forum-function/8dl4YVP)
@@ -23,6 +25,7 @@
   - [我感觉 GPT 重置是负面效果](https://2libra.com/post/ai-tools/ddZnY3w)
   - [新版本加入公式渲染和快捷引用功能](https://2libra.com/post/product-updates/4g7L1va)
   - [昨晚留意了 vivo 的旗舰发布会，pro 居然普遍 12g 内存](https://2libra.com/post/phone/Asqg_tv)
+  - [智谱：用开源的是劣质用户！](https://2libra.com/post/ai-trends/hNjo4RP)
   - [有意思的 AI 图片理解实验](https://2libra.com/post/ai-applications/vprGkhE)
   - [每日微知天下 9 月 22 日](https://2libra.com/post/hotspot-tracking/O1X7xuU)
   - [水一贴，我还在，今天 grok4.7 来了](https://2libra.com/post/large-models/9rwKkx1)
@@ -45,14 +48,20 @@
   - [Bitcoin ETFs flirt with $1B as inflows hit 2026 high](https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’](https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Circle launches Bitcoin-backed USDC borrowing for institutional clients](https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally](https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again](https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks](https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg](https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ondo lets institutions convert stocks directly into tokenized shares](https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Saudi Arabia exits China-backed mBridge CBDC project: FT](https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [White hats outrun Coldcard hackers in 52-Bitcoin evacuation](https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [White hats outrun Coldcard hackers in 52-Bitcoin evacuation](https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [CVE-2026-66804: Dark Elevator Fix Left Windows Exposed](https://www.cyberkendra.com/2026/09/cve-2026-66804-dark-elevator-incomplete-fix.html)
+  - [Meta Announces Petal, a 1 Pbps Transatlantic Subsea Cable](https://www.cyberkendra.com/2026/09/meta-petal-petabit-subsea-cable.html)
+  - [WordPress Comment2Shell Flaw Turns Comments Into RCE](https://www.cyberkendra.com/2026/09/comment2shell-wordpress-cve-2026-93485-xss-rce.html)
 - daringfireball.net
   - [America’s Decline Can Be Measured by the Names of Ballparks and Arenas](https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park)
   - [David Pogue: ‘125 Tests of the New AI Siri’](https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri)
@@ -80,6 +89,7 @@
   - [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
   - [Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'](https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/)
   - [Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents](https://github.com/naw103/foremerge)
+  - [Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences](https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/)
   - [The Advisory Group on Mathematics and Artificial Intelligence](https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/)
   - [The NASA/ESA Mars Sample Return mission has been canceled](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)
   - [This Digital Radio Gets Messages to the World’s Remotest Locations](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data)
@@ -87,6 +97,8 @@
   - [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
 - idiallo.com
   - [It's Not Just True, It's False](https://idiallo.com/byte-size/its-not-just-true-its-false)
+- infosecurity-magazine.com
+  - [CISOs Must Update Incident Response Playbooks for Multimodal Deepfakes, Gartner Warns](https://www.infosecurity-magazine.com/news/update-incident-response/)
 - johndcook.com
   - [Haversine law](https://www.johndcook.com/blog/2026/09/21/haversine-law/)
 - minimaxir.com
@@ -139,6 +151,7 @@
   - [Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes ‘ethical’ market contender](https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999)
   - [Spot bitcoin ETFs attract nearly $1 billion in largest daily inflow in 11 months](https://www.theblock.co/news/markets/2026-09-22-spot-bitcoin-etfs-1-billion-daily-inflow-416005)
 - The Decoder
+  - [Anthropic is setting up a biology lab where Claude guides robots through drug experiments](https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/)
   - [ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen](https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/)
   - [UN science panel says there is "no assurance humans will keep control" over AI agents](https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/)
   - [xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6](https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/)
@@ -147,6 +160,7 @@
   - [Amazon wants to help the Colorado River, but we still don’t know how much water the company uses](https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river)
   - [Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content](https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations)
   - [California tightens rules on AI data center energy and water use](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills)
+  - [Can you forget how you feel about Meta?](https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram)
   - [GM can’t ‘bring back’ Apple CarPlay because it never left](https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google)
   - [Paramount settles lawsuit blocking $110 billion Warner Bros. merger](https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement)
 - Vulners.com RSS Feed
@@ -286,6 +300,7 @@
   - [Exploit for CVE-2026-13355](https://vulners.com/githubexploit/1AEB15AD-540E-553B-89AA-F0854ADA2F6E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Security vulnerabilities have been found in IBM Verify Identity Access Digital Credentials](https://vulners.com/ibm/746C46F10EF3F4DBCA29FCF3B43B77A188839108C384A1E304CCF94F1F451B4D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records](https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/)
   - [AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping](https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/)
   - [Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush](https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/)
 - 不安全
@@ -306,4 +321,5 @@
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
+  - [千问办公押注的企业上下文，是 Agent 时代的组织语言](https://www.ifanr.com/1681363?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题](https://www.ifanr.com/1679313?utm_source=rss&utm_medium=rss&utm_campaign=)
