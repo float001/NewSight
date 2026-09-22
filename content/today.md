@@ -4,6 +4,10 @@
   - [「💰」，想问问 2 友们，如果可以重生再次重新选择，你还会选择目前，你的性别吗？](https://2libra.com/post/small-things/2EbmX4m)
   - [一个关于订书钉的小问题](https://2libra.com/post/idea/TISaW0s)
   - [京东金融连签 15 天得 15 元](https://2libra.com/post/deal-hunter/Vhfig_Q)
+  - [好奇我点了延期潘多拉了，但是潘多拉盒子还在，如果点开启潘多拉的话是不是就直接覆盖我的延期了？](https://2libra.com/post/forum-function/JCXVqYX)
+  - [微信小程序的 BUG，微信客服不承认](https://2libra.com/post/help-requests/aSl-6va)
+  - [新版本加入公式渲染和快捷引用功能](https://2libra.com/post/product-updates/4g7L1va)
+  - [水一贴，我还在，今天 grok4.7 来了](https://2libra.com/post/large-models/9rwKkx1)
 - 404 Media
   - [How AI Chatbots Are 'Deskilling' Human Empathy](https://www.404media.co/sherry-turkle-artificial-intimacy-podcast/)
 - Ars Technica
@@ -183,6 +187,8 @@
   - [CVE-2026-93012](https://vulners.com/nvd/NVD:CVE-2026-93012?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93340](https://vulners.com/nvd/NVD:CVE-2026-93340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94488](https://vulners.com/nvd/NVD:CVE-2026-94488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94489](https://vulners.com/nvd/NVD:CVE-2026-94489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94490](https://vulners.com/nvd/NVD:CVE-2026-94490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94532](https://vulners.com/nvd/NVD:CVE-2026-94532?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94533](https://vulners.com/nvd/NVD:CVE-2026-94533?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94534](https://vulners.com/nvd/NVD:CVE-2026-94534?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -199,9 +205,13 @@
 - Wired
   - [AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping](https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/)
   - [Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush](https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/)
+- 不安全
+  - [aquaman v0.15.0](https://buaq.net/go-443928.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [一块公交站牌沦为"肉鸡"，公安部这份通报，把物联网安全的老底揭开了](https://www.anquanke.com/post/id/316172)
   - [每周AI全球资讯播报_09-14_09-20](https://www.anquanke.com/post/id/316160)
   - [给AI出考卷的人，把考场门开到了马路上：Gemini入侵三家真实企业始末](https://www.anquanke.com/post/id/316169)
+- 爱范儿
+  - [早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题](https://www.ifanr.com/1679313?utm_source=rss&utm_medium=rss&utm_campaign=)
