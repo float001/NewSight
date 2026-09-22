@@ -1,12 +1,18 @@
 # 今日安全资讯（2026-09-22）
 
 - 2Libra
+  - [Grok 4.7 来了](https://2libra.com/post/large-models/MsHKW9h)
   - [「💰」，想问问 2 友们，如果可以重生再次重新选择，你还会选择目前，你的性别吗？](https://2libra.com/post/small-things/2EbmX4m)
+  - [【投票】这里有你喜欢的文字吗？](https://2libra.com/post/personal-life/1W6VpVy)
   - [一个关于订书钉的小问题](https://2libra.com/post/idea/TISaW0s)
+  - [为了这 200，今天帖子秒回](https://2libra.com/post/forum-function/8dl4YVP)
   - [京东金融连签 15 天得 15 元](https://2libra.com/post/deal-hunter/Vhfig_Q)
+  - [出山姆副卡今日 9 月 22 号开的 100 元](https://2libra.com/post/second-hand/PxAbgL5)
+  - [大家国庆都去哪儿玩呀](https://2libra.com/post/travel-tips/wBdvBkx)
   - [好奇我点了延期潘多拉了，但是潘多拉盒子还在，如果点开启潘多拉的话是不是就直接覆盖我的延期了？](https://2libra.com/post/forum-function/JCXVqYX)
   - [微信小程序的 BUG，微信客服不承认](https://2libra.com/post/help-requests/aSl-6va)
   - [新版本加入公式渲染和快捷引用功能](https://2libra.com/post/product-updates/4g7L1va)
+  - [昨晚留意了 vivo 的旗舰发布会，pro 居然普遍 12g 内存](https://2libra.com/post/phone/Asqg_tv)
   - [水一贴，我还在，今天 grok4.7 来了](https://2libra.com/post/large-models/9rwKkx1)
 - 404 Media
   - [How AI Chatbots Are 'Deskilling' Human Empathy](https://www.404media.co/sherry-turkle-artificial-intimacy-podcast/)
@@ -38,12 +44,15 @@
   - [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027)
   - [How do Traffic Signals Work (2019)](https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work)
   - [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
+  - [Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'](https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/)
   - [Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents](https://github.com/naw103/foremerge)
   - [The Advisory Group on Mathematics and Artificial Intelligence](https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/)
   - [The NASA/ESA Mars Sample Return mission has been canceled](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)
   - [This Digital Radio Gets Messages to the World’s Remotest Locations](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data)
   - [Wall Street Is Growing Skeptical of the Data Center Boom](https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html)
   - [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
+- idiallo.com
+  - [It's Not Just True, It's False](https://idiallo.com/byte-size/its-not-just-true-its-false)
 - johndcook.com
   - [Haversine law](https://www.johndcook.com/blog/2026/09/21/haversine-law/)
 - minimaxir.com
