@@ -7,13 +7,18 @@
   - [一个关于订书钉的小问题](https://2libra.com/post/idea/TISaW0s)
   - [为了这 200，今天帖子秒回](https://2libra.com/post/forum-function/8dl4YVP)
   - [京东金融连签 15 天得 15 元](https://2libra.com/post/deal-hunter/Vhfig_Q)
+  - [今天的感动，是昨天 12333 的接线员给的 ❤️](https://2libra.com/post/small-things/Khi0d0L)
   - [出山姆副卡今日 9 月 22 号开的 100 元](https://2libra.com/post/second-hand/PxAbgL5)
   - [大家国庆都去哪儿玩呀](https://2libra.com/post/travel-tips/wBdvBkx)
   - [好奇我点了延期潘多拉了，但是潘多拉盒子还在，如果点开启潘多拉的话是不是就直接覆盖我的延期了？](https://2libra.com/post/forum-function/JCXVqYX)
   - [微信小程序的 BUG，微信客服不承认](https://2libra.com/post/help-requests/aSl-6va)
+  - [我感觉 GPT 重置是负面效果](https://2libra.com/post/ai-tools/ddZnY3w)
   - [新版本加入公式渲染和快捷引用功能](https://2libra.com/post/product-updates/4g7L1va)
   - [昨晚留意了 vivo 的旗舰发布会，pro 居然普遍 12g 内存](https://2libra.com/post/phone/Asqg_tv)
   - [水一贴，我还在，今天 grok4.7 来了](https://2libra.com/post/large-models/9rwKkx1)
+  - [求推荐一款头戴蓝牙耳机](https://2libra.com/post/recommendations/YEqqW45)
+  - [笑死了。。。头像缩小反而感觉自己像双开门](https://2libra.com/post/forum-function/fWsxd8E)
+  - [颈椎疼求救](https://2libra.com/post/personal-life/1akra0d)
 - 404 Media
   - [How AI Chatbots Are 'Deskilling' Human Empathy](https://www.404media.co/sherry-turkle-artificial-intimacy-podcast/)
 - Ars Technica
@@ -24,6 +29,7 @@
   - [Circle launches Bitcoin-backed USDC borrowing for institutional clients](https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again](https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg](https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ondo lets institutions convert stocks directly into tokenized shares](https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Saudi Arabia exits China-backed mBridge CBDC project: FT](https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -97,6 +103,7 @@
   - [With Tabby, a former accountant is using AI to make accountants obsolete](https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/)
   - [X will now tell users when governments have forced it to limit their posts](https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/)
 - The Block
+  - [Animoca Brands suspends merger deal that would have taken it public](https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991)
   - [Clarity Act fallout: crypto’s Fairshake PAC commits $30 million against Sherrod Brown](https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962)
 - The Decoder
   - [ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen](https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/)
@@ -216,6 +223,7 @@
   - [Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush](https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/)
 - 不安全
   - [aquaman v0.15.0](https://buaq.net/go-443928.html)
+  - [Mobile-Security-Framework-MobSF v4.5.3](https://buaq.net/go-443937.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
