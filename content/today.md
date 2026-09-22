@@ -48,6 +48,7 @@
 - CoinTelegraph
   - [Animoca puts Currenc merger on ice, delaying its Nasdaq debut](https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto](https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Big Questions: Does Satoshi actually own 1.1 million Bitcoin?](https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance takes $100M stake in Circle under expanded USDC deal](https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs flirt with $1B as inflows hit 2026 high](https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’](https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -108,17 +109,20 @@
 - idiallo.com
   - [It's Not Just True, It's False](https://idiallo.com/byte-size/its-not-just-true-its-false)
 - IEEE Spectrum
+  - [Barbara Mazzolai Wants to Build a New Field of Robotics](https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai)
   - [The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers](https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit)
 - infosecurity-magazine.com
   - [AI Drives Surge in Bot and API Threats](https://www.infosecurity-magazine.com/news/ai-drives-surge-in-bot-and-api/)
   - [AI Incident Response Readiness Lags Behind AI Adoption, ISACA Finds](https://www.infosecurity-magazine.com/news/orgs-lack-ai-incident-response/)
   - [CISOs Must Update Incident Response Playbooks for Multimodal Deepfakes, Gartner Warns](https://www.infosecurity-magazine.com/news/update-incident-response/)
   - [Network Segmentation Failures Are Expanding the Corporate Attack Surface](https://www.infosecurity-magazine.com/news/segmentation-failures-expanding/)
+  - [North Korean Attackers Hit 30,000 Devices and Steal $10.7m](https://www.infosecurity-magazine.com/news/north-korean-waterplum-30000/)
 - johndcook.com
   - [Haversine law](https://www.johndcook.com/blog/2026/09/21/haversine-law/)
 - minimaxir.com
   - [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/)
 - MIT Technology Review
+  - [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/)
   - [The Download: why AI’s latest breakthroughs and fears may be more hype than reality](https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/)
 - NVIDIA AI Blog
   - [From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale](https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/)
@@ -156,6 +160,7 @@
   - [skyhook exploit](https://sploitus.com/exploit?id=KITPLOIT:2100455100263757291&utm_source=rss&utm_medium=rss)
   - [SourceLeakHacker exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WANGYIHANG-SOURCELEAKHACKER&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/)
   - [Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future](https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/)
   - [Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/)
   - [Everyone can find a reason to dislike data center construction](https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/)
@@ -167,7 +172,9 @@
   - [Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again](https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/)
   - [OpenAI forms math advisory group as its AI resolves more than 100 open problems](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/)
   - [Oura’s $2.2B IPO is mostly a payday for existing shareholders](https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/)
+  - [Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs](https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/)
   - [The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/)
+  - [TikTok’s US arm joins Lantern, a cross-platform child safety initiative](https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/)
   - [With Tabby, a former accountant is using AI to make accountants obsolete](https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/)
   - [X will now tell users when governments have forced it to limit their posts](https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/)
 - The Block
@@ -175,10 +182,12 @@
   - [Bernstein sees annual prediction market volumes hitting $10 trillion by 2035 as financial assets overtake sports](https://www.theblock.co/news/business/2026-09-22-bernstein-sees-annual-prediction-market-volumes-hitting-10-trillion-by-2035-as-financial-assets-overtake-sports-416030)
   - [Binance takes $100 million Circle stake alongside five-year USDC deal](https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042)
   - [Clarity Act fallout: crypto’s Fairshake PAC commits $30 million against Sherrod Brown](https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962)
+  - [CME adds Bitcoin Cash and Uniswap futures as crypto derivatives push grows](https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049)
   - [Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes ‘ethical’ market contender](https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999)
   - [SoFi begins stablecoin settlement on Mastercard network for program expected to exceed $25 billion in annualized volume](https://www.theblock.co/news/business/2026-09-22-sofi-begins-stablecoin-settlement-on-mastercard-network-for-program-expected-to-exceed-25-billion-in-annualized-volume-416035)
   - [Spot bitcoin ETFs attract nearly $1 billion in largest daily inflow in 11 months](https://www.theblock.co/news/markets/2026-09-22-spot-bitcoin-etfs-1-billion-daily-inflow-416005)
 - The Decoder
+  - [A tiny software layer from lab-grown neurons promises faster, cheaper AI video](https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/)
   - [Anthropic is setting up a biology lab where Claude guides robots through drug experiments](https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/)
   - [ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen](https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/)
   - [OpenAI says its internal model solved over 100 long-standing math problems after just a month of training](https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/)
@@ -186,6 +195,7 @@
   - [xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6](https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/)
   - [Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there](https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/)
 - The Verge
+  - [&#8216;Trump TV&#8217; is just reruns of the president on YouTube](https://www.theverge.com/policy/998726/trump-tv-youtube-livestream)
   - [A cut cable disrupted hundreds of flights across the US](https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us)
   - [Amazon wants to help the Colorado River, but we still don’t know how much water the company uses](https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river)
   - [Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content](https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations)
@@ -196,6 +206,7 @@
   - [Oppo’s new phone is the first with three 200-megapixel cameras](https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china)
   - [Paramount settles lawsuit blocking $110 billion Warner Bros. merger](https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement)
   - [Peloton is back with a ‘cheaper’ folding treadmill](https://www.theverge.com/tech/998272/peloton-tread-flex-fitness-treadmills)
+  - [The Beats 360 are what I’d bring to the gym if I hated earbuds](https://www.theverge.com/tech/998566/beats-360-headphones-review)
 - Vulners.com RSS Feed
   - [`owned-alloc` is unmaintained](https://vulners.com/rustsec/RUSTSEC-2026-0299?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2016-15059](https://vulners.com/nvd/NVD:CVE-2016-15059?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -385,7 +396,10 @@
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
+  - [10.99 万元起！日产新 N7 这次是真加量还降价](https://www.ifanr.com/1681515?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [16.18 万元起！广汽传祺越 7 配备三把锁，「可城可野」有了新答案](https://www.ifanr.com/1681498?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [OPPO 新旗舰塞满了「两亿」，却只要 6799 元起](https://www.ifanr.com/1681522?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [光帆携手韶音，以 AI OS 破局单点功能内卷](https://www.ifanr.com/1681475?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [千问办公押注的企业上下文，是 Agent 时代的组织语言](https://www.ifanr.com/1681363?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题](https://www.ifanr.com/1679313?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [涨价 9 万？岚图梦想家 9 凭什么敢卖 41.99 万元](https://www.ifanr.com/1681478?utm_source=rss&utm_medium=rss&utm_campaign=)
