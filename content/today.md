@@ -16,9 +16,11 @@
   - [我感觉 GPT 重置是负面效果](https://2libra.com/post/ai-tools/ddZnY3w)
   - [新版本加入公式渲染和快捷引用功能](https://2libra.com/post/product-updates/4g7L1va)
   - [昨晚留意了 vivo 的旗舰发布会，pro 居然普遍 12g 内存](https://2libra.com/post/phone/Asqg_tv)
+  - [每日微知天下 9 月 22 日](https://2libra.com/post/hotspot-tracking/O1X7xuU)
   - [水一贴，我还在，今天 grok4.7 来了](https://2libra.com/post/large-models/9rwKkx1)
   - [求推荐一款头戴蓝牙耳机](https://2libra.com/post/recommendations/YEqqW45)
   - [笑死了。。。头像缩小反而感觉自己像双开门](https://2libra.com/post/forum-function/fWsxd8E)
+  - [这代码水平如何](https://2libra.com/post/tech-qa/4n4ikaf)
   - [问下站里的宝妈/宝爸，你们的奶粉罐子有用来做啥手工吗](https://2libra.com/post/small-things/qJmudBM)
   - [颈椎疼求救](https://2libra.com/post/personal-life/1akra0d)
 - 404 Media
@@ -27,6 +29,7 @@
   - [California settles lawsuit against Paramount/Warner merger, angering advocates](https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/)
   - [Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/)
 - CoinTelegraph
+  - [Animoca puts Currenc merger on ice, delaying its Nasdaq debut](https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto](https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’](https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Circle launches Bitcoin-backed USDC borrowing for institutional clients](https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -50,6 +53,10 @@
   - [Cybercriminals Are Hiding New Malware in Torrents for Popular Films](https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films)
   - [How AI Agents Can Trigger Runaway Costs for Enterprises](https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs)
   - [ShinyHunters Hacked Clop. Now What About Clop's Victims?](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims)
+- defend.network
+  - [Microsoft&rsquo;s record patch batch; fake LastPass installer deploys kernel EDR killer](https://defend.network/briefings/microsoft-patch-tuesday-lastpass-kernel-driver-2026-09-22.html)
+- downtowndougbrown.com
+  - [Apple’s Performa in-store demo software from 1993](https://www.downtowndougbrown.com/2026/09/apples-performa-in-store-demo-software-from-1993/)
 - Hacker News Frontpage
   - [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked)
   - [Apple Music to open concert venue in Battersea Power Station](https://www.bbc.com/news/articles/c607l2j2rj8ro)
@@ -126,6 +133,7 @@
   - [GM can’t ‘bring back’ Apple CarPlay because it never left](https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google)
   - [Paramount settles lawsuit blocking $110 billion Warner Bros. merger](https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement)
 - Vulners.com RSS Feed
+  - [CVE-2026-12470](https://vulners.com/nvd/NVD:CVE-2026-12470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15890](https://vulners.com/nvd/NVD:CVE-2026-15890?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17054](https://vulners.com/nvd/NVD:CVE-2026-17054?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36467](https://vulners.com/nvd/NVD:CVE-2026-36467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -204,13 +212,16 @@
   - [CVE-2026-84990 ntopng: Missing Authorization on System Configuration Backup Download and Listing](https://vulners.com/cve/CVE-2026-84990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-84990 ntopng: Missing Authorization on System Configuration Backup Download and Listing](https://vulners.com/cvelist/CVELIST:CVE-2026-84990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85219](https://vulners.com/nvd/NVD:CVE-2026-85219?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85653](https://vulners.com/nvd/NVD:CVE-2026-85653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85751](https://vulners.com/nvd/NVD:CVE-2026-85751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88738](https://vulners.com/nvd/NVD:CVE-2026-88738?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88756](https://vulners.com/nvd/NVD:CVE-2026-88756?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88788](https://vulners.com/nvd/NVD:CVE-2026-88788?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88978](https://vulners.com/nvd/NVD:CVE-2026-88978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92382](https://vulners.com/nvd/NVD:CVE-2026-92382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93012](https://vulners.com/nvd/NVD:CVE-2026-93012?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93340](https://vulners.com/nvd/NVD:CVE-2026-93340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93655](https://vulners.com/nvd/NVD:CVE-2026-93655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94488](https://vulners.com/nvd/NVD:CVE-2026-94488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94489](https://vulners.com/nvd/NVD:CVE-2026-94489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94490](https://vulners.com/nvd/NVD:CVE-2026-94490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -226,6 +237,7 @@
   - [CVE-2026-94625](https://vulners.com/nvd/NVD:CVE-2026-94625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94626](https://vulners.com/nvd/NVD:CVE-2026-94626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94627](https://vulners.com/nvd/NVD:CVE-2026-94627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-13355](https://vulners.com/githubexploit/1AEB15AD-540E-553B-89AA-F0854ADA2F6E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Security vulnerabilities have been found in IBM Verify Identity Access Digital Credentials](https://vulners.com/ibm/746C46F10EF3F4DBCA29FCF3B43B77A188839108C384A1E304CCF94F1F451B4D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping](https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/)
@@ -235,6 +247,7 @@
   - [BigDiskBuster](https://buaq.net/go-443957.html)
   - [Inside BambooToken’s Linux implant: shell and file control over MQTT](https://buaq.net/go-443946.html)
   - [Mobile-Security-Framework-MobSF v4.5.3](https://buaq.net/go-443937.html)
+  - [OneDrive-UDC2](https://buaq.net/go-443968.html)
   - [TRAE上传代码库索引引起开发者担忧 官方未否认上传 但强调数据不会用于训练](https://buaq.net/go-443961.html)
   - [Windows Exploitation Techniques: Dangling COM Object Registrations](https://buaq.net/go-443947.html)
   - [因违反欧盟通用数据保护条例 谷歌被爱尔兰监管机构罚款4.03亿欧元](https://buaq.net/go-443938.html)
