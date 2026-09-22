@@ -50,6 +50,8 @@
   - [Circle launches Bitcoin-backed USDC borrowing for institutional clients](https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally](https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again](https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ECB to put its own money into tokenized securities via new Pontes DLT](https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins](https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks](https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg](https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -73,6 +75,7 @@
 - darkreading
   - [Cybercriminals Are Hiding New Malware in Torrents for Popular Films](https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films)
   - [How AI Agents Can Trigger Runaway Costs for Enterprises](https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs)
+  - [More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds](https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle)
   - [ShinyHunters Hacked Clop. Now What About Clop's Victims?](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims)
 - defend.network
   - [Microsoft&rsquo;s record patch batch; fake LastPass installer deploys kernel EDR killer](https://defend.network/briefings/microsoft-patch-tuesday-lastpass-kernel-driver-2026-09-22.html)
@@ -94,6 +97,7 @@
   - [The Advisory Group on Mathematics and Artificial Intelligence](https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/)
   - [The NASA/ESA Mars Sample Return mission has been canceled](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)
   - [This Digital Radio Gets Messages to the World’s Remotest Locations](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data)
+  - [Type Punning in C and C++](https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html)
   - [Wall Street Is Growing Skeptical of the Data Center Boom](https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html)
   - [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
 - idiallo.com
@@ -101,6 +105,7 @@
 - infosecurity-magazine.com
   - [AI Drives Surge in Bot and API Threats](https://www.infosecurity-magazine.com/news/ai-drives-surge-in-bot-and-api/)
   - [CISOs Must Update Incident Response Playbooks for Multimodal Deepfakes, Gartner Warns](https://www.infosecurity-magazine.com/news/update-incident-response/)
+  - [Network Segmentation Failures Are Expanding the Corporate Attack Surface](https://www.infosecurity-magazine.com/news/segmentation-failures-expanding/)
 - johndcook.com
   - [Haversine law](https://www.johndcook.com/blog/2026/09/21/haversine-law/)
 - minimaxir.com
@@ -111,6 +116,8 @@
   - [Why Deploying Physical AI at Scale Demands Safety at Every Layer](https://blogs.nvidia.com/blog/physical-ai-halos-safety/)
 - pluralistic.net
   - [Pluralistic: Bonta sold us out to Trump's oligarchs (22 Sep 2026)](https://pluralistic.net/2026/09/22/happy-chudmas/)
+- shkspr.mobi
+  - [Are LLMs still surprisingly bad at some simple tasks?](https://shkspr.mobi/blog/2026/09/are-llms-still-surprisingly-bad-at-some-simple-tasks/)
 - simonwillison.net
   - [Cloudflare Python Workers are now generally available](https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/)
   - [Jev introduces a new shape of LLM - System One, aka Decision Models](https://simonwillison.net/2026/Sep/21/jev/)
@@ -153,12 +160,15 @@
   - [Bernstein sees annual prediction market volumes hitting $10 trillion by 2035 as financial assets overtake sports](https://www.theblock.co/news/business/2026-09-22-bernstein-sees-annual-prediction-market-volumes-hitting-10-trillion-by-2035-as-financial-assets-overtake-sports-416030)
   - [Clarity Act fallout: crypto’s Fairshake PAC commits $30 million against Sherrod Brown](https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962)
   - [Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes ‘ethical’ market contender](https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999)
+  - [SoFi begins stablecoin settlement on Mastercard network for program expected to exceed $25 billion in annualized volume](https://www.theblock.co/news/business/2026-09-22-sofi-begins-stablecoin-settlement-on-mastercard-network-for-program-expected-to-exceed-25-billion-in-annualized-volume-416035)
   - [Spot bitcoin ETFs attract nearly $1 billion in largest daily inflow in 11 months](https://www.theblock.co/news/markets/2026-09-22-spot-bitcoin-etfs-1-billion-daily-inflow-416005)
 - The Decoder
   - [Anthropic is setting up a biology lab where Claude guides robots through drug experiments](https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/)
   - [ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen](https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/)
+  - [OpenAI says its internal model solved over 100 long-standing math problems after just a month of training](https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/)
   - [UN science panel says there is "no assurance humans will keep control" over AI agents](https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/)
   - [xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6](https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/)
+  - [Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there](https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/)
 - The Verge
   - [A cut cable disrupted hundreds of flights across the US](https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us)
   - [Amazon wants to help the Colorado River, but we still don’t know how much water the company uses](https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river)
@@ -166,8 +176,10 @@
   - [California tightens rules on AI data center energy and water use](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills)
   - [Can you forget how you feel about Meta?](https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram)
   - [GM can’t ‘bring back’ Apple CarPlay because it never left](https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google)
+  - [Meta patches Muse exploit that let attackers control the AI agent](https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent)
   - [Paramount settles lawsuit blocking $110 billion Warner Bros. merger](https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement)
 - Vulners.com RSS Feed
+  - [`owned-alloc` is unmaintained](https://vulners.com/rustsec/RUSTSEC-2026-0299?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2016-15059](https://vulners.com/nvd/NVD:CVE-2016-15059?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-1280](https://vulners.com/nvd/NVD:CVE-2025-1280?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-1281](https://vulners.com/nvd/NVD:CVE-2025-1281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -309,17 +321,20 @@
   - [CVE-2026-94627](https://vulners.com/nvd/NVD:CVE-2026-94627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95503](https://vulners.com/nvd/NVD:CVE-2026-95503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-13355](https://vulners.com/githubexploit/1AEB15AD-540E-553B-89AA-F0854ADA2F6E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [RUSTSEC-2026-0299 `owned-alloc` is unmaintained](https://vulners.com/osv/OSV:RUSTSEC-2026-0299?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Security vulnerabilities have been found in IBM Verify Identity Access Digital Credentials](https://vulners.com/ibm/746C46F10EF3F4DBCA29FCF3B43B77A188839108C384A1E304CCF94F1F451B4D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records](https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/)
   - [AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping](https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/)
   - [Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush](https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/)
+  - [GoPro Mission 1 Pro ILS Review (2026): Cinema-Quality Action Cam](https://www.wired.com/review/gopro-mission-1-ils-camera/)
   - [I Built AI Clones of My Coworkers. Things Got Weird](https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/)
   - [Is a Home Security System Subscription Worth It? (2026)](https://www.wired.com/story/how-to-design-a-subscription-free-home-security-system/)
   - [The UK Government Faces a Reckoning Over Palantir](https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/)
 - 不安全
   - [aquaman v0.15.0](https://buaq.net/go-443928.html)
   - [BigDiskBuster](https://buaq.net/go-443957.html)
+  - [dbeaver v26.2.1](https://buaq.net/go-444028.html)
   - [Inside BambooToken’s Linux implant: shell and file control over MQTT](https://buaq.net/go-443946.html)
   - [Mobile-Security-Framework-MobSF v4.5.3](https://buaq.net/go-443937.html)
   - [OneDrive-UDC2](https://buaq.net/go-443968.html)
