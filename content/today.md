@@ -3,20 +3,32 @@
 - 404 Media
   - [Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center](https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/)
   - [‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
+- Ars Technica
+  - [Review: Resident Evil is the fresh take this flagging franchise really needed](https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/)
+  - [Toyota orders workers to train humanoid robots but says humans won't be replaced](https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/)
 - CoinTelegraph
   - [Zcash gets first European ETP following US ETF launch](https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- darkreading
+  - [Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real](https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real)
+  - [Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data](https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data)
 - Hacker News Frontpage
   - [16-bit Intel 8088 chip](https://allpoetry.com/16-bit-Intel-8088-chip)
   - [A WordPress vulnerability scored 9.2/10 is present in all versions since 2016](https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp)
   - [Aging may be a program, not a breakdown](https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/)
   - [Americans' Drinking Remains at Record Low: Gallup Poll](https://news.gallup.com/poll/713534/americans-drinking-remains-record-low.aspx)
   - [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
+  - [Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent](https://www.coveragecat.com/)
   - [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/)
+  - [There's a high chance of devices being sold with GrapheneOS preinstalled in 2027](https://grapheneos.social/@GrapheneOS/117299954135808210)
   - [Xbox continues its “reset” with dramatic restructuring](https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/)
+- IEEE Spectrum
+  - [Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member](https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member)
 - Panda - 专注于网络空间安全研究
   - [杂谈：聊聊 Jev 与 Laya 的非生成式决策机制](https://www.cnpanda.net/talksafe/jev-laya-non-generative-decision-models.html)
 - TechCrunch
   - [Anthropic releases Opus 5.5 with lower prices and Fable-level performance](https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/)
+  - [OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/)
+  - [Waymo’s latest expansion strategy: teenagers](https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/)
 - The Block
   - [Solo GP Jed Breed raises $15 million for his second early-stage crypto fund](https://www.theblock.co/news/deals/2026-09-22-jed-breed-vc-second-crypto-fund-416075)
 - The Decoder
@@ -24,6 +36,7 @@
 - The Verge
   - [Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta](https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy)
   - [Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity)
+  - [San Francisco sues Trump Media for selling early access to Trump posts](https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco)
   - [Trump says US is officially renaming AI ‘super intelligence’](https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence)
 - Vulners.com RSS Feed
   - [CVE-2026-75517](https://vulners.com/nvd/NVD:CVE-2026-75517?utm_source=rss&utm_medium=rss&utm_campaign=rss)
