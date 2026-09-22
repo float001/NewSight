@@ -4,6 +4,7 @@
   - [Grok 4.7 来了](https://2libra.com/post/large-models/MsHKW9h)
   - [「💰」，想问问 2 友们，如果可以重生再次重新选择，你还会选择目前，你的性别吗？](https://2libra.com/post/small-things/2EbmX4m)
   - [【投票】这里有你喜欢的文字吗？](https://2libra.com/post/personal-life/1W6VpVy)
+  - [【💰】6666 金币，我拍下了橱窗位，把自己挂了上去。](https://2libra.com/post/idea/K1OK26q)
   - [一个关于订书钉的小问题](https://2libra.com/post/idea/TISaW0s)
   - [为了这 200，今天帖子秒回](https://2libra.com/post/forum-function/8dl4YVP)
   - [京东金融连签 15 天得 15 元](https://2libra.com/post/deal-hunter/Vhfig_Q)
@@ -227,6 +228,7 @@
   - [Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush](https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/)
 - 不安全
   - [aquaman v0.15.0](https://buaq.net/go-443928.html)
+  - [BigDiskBuster](https://buaq.net/go-443957.html)
   - [Inside BambooToken’s Linux implant: shell and file control over MQTT](https://buaq.net/go-443946.html)
   - [Mobile-Security-Framework-MobSF v4.5.3](https://buaq.net/go-443937.html)
   - [Windows Exploitation Techniques: Dangling COM Object Registrations](https://buaq.net/go-443947.html)
