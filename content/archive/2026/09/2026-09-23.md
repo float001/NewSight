@@ -4,22 +4,29 @@
   - [Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center](https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/)
   - [‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
 - Ars Technica
+  - [Adobe Premiere finally brings powerful video editing to Android, and it's free](https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/)
+  - [Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting](https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/)
   - [Review: Resident Evil is the fresh take this flagging franchise really needed](https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/)
   - [Toyota orders workers to train humanoid robots but says humans won't be replaced](https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/)
 - CERT Recently Published Vulnerability Notes
   - [VU#738147: Vendor-signed UEFI Shell applications allow Secure Boot bypass](https://kb.cert.org/vuls/id/738147)
 - CoinTelegraph
   - [Zcash gets first European ETP following US ETF launch](https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [Xcode 27.2 Now Supports a New JSON Project File Format](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes)
 - darkreading
   - [Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real](https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real)
   - [Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data](https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data)
 - Hacker News Frontpage
   - [16-bit Intel 8088 chip](https://allpoetry.com/16-bit-Intel-8088-chip)
+  - [A Faster Shortest Path Algorithm](https://www.vals.ai/blogs/faster-shortest-path-algorithm)
   - [A WordPress vulnerability scored 9.2/10 is present in all versions since 2016](https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp)
   - [Aging may be a program, not a breakdown](https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/)
   - [Americans' Drinking Remains at Record Low: Gallup Poll](https://news.gallup.com/poll/713534/americans-drinking-remains-record-low.aspx)
   - [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
   - [Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent](https://www.coveragecat.com/)
+  - [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
+  - [Obscura: The first VPN that can't log your activity](https://obscura.com/#faq-technical)
   - [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/)
   - [There's a high chance of devices being sold with GrapheneOS preinstalled in 2027](https://grapheneos.social/@GrapheneOS/117299954135808210)
   - [Xbox continues its “reset” with dramatic restructuring](https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/)
@@ -30,8 +37,11 @@
 - TechCrunch
   - [a16z is challenging Silicon Valley’s love for drop-outs by launching a school](https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/)
   - [Anthropic releases Opus 5.5 with lower prices and Fable-level performance](https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/)
+  - [Apple could take on Whoop with a new fitness tracker, report says](https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/)
   - [Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data](https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/)
+  - [Meta admits Muse’s likeness to OpenClaw isn’t a coincidence](https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/)
   - [OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/)
+  - [Qualcomm launches two new smartphone chips with emphasis on AI](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/)
   - [Waymo’s latest expansion strategy: teenagers](https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/)
 - The Block
   - [Coinbase, Circle shares positioned for crypto recovery as estimates stabilize: William Blair](https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083)
@@ -41,8 +51,12 @@
 - The Verge
   - [Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta](https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy)
   - [Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity)
+  - [Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras](https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style)
+  - [Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset](https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6)
+  - [Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too](https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6)
   - [San Francisco sues Trump Media for selling early access to Trump posts](https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco)
   - [Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad](https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale)
+  - [Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy](https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale)
   - [Trump says US is officially renaming AI ‘super intelligence’](https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence)
 - Vulners.com RSS Feed
   - [CVE-2026-43641](https://vulners.com/nvd/NVD:CVE-2026-43641?utm_source=rss&utm_medium=rss&utm_campaign=rss)
