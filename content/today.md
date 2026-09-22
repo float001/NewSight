@@ -81,6 +81,7 @@
 - ElcomSoft blog
   - [IoT Forensics on the Rise: Extracting More Apple Watch, Apple TV and HomePod Models](https://blog.elcomsoft.com/2026/09/iot-forensics-on-the-rise-extracting-more-apple-watch-apple-tv-and-homepod-models/)
 - Hacker News Frontpage
+  - [9 Ads per Minute: FIFA Cup 26 – "the price of the beautiful game"](https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html)
   - [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked)
   - [Apple Music to open concert venue in Battersea Power Station](https://www.bbc.com/news/articles/c607l2j2rj8ro)
   - [Data Protection Commission fines Google €403M over processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
@@ -98,6 +99,7 @@
 - idiallo.com
   - [It's Not Just True, It's False](https://idiallo.com/byte-size/its-not-just-true-its-false)
 - infosecurity-magazine.com
+  - [AI Drives Surge in Bot and API Threats](https://www.infosecurity-magazine.com/news/ai-drives-surge-in-bot-and-api/)
   - [CISOs Must Update Incident Response Playbooks for Multimodal Deepfakes, Gartner Warns](https://www.infosecurity-magazine.com/news/update-incident-response/)
 - johndcook.com
   - [Haversine law](https://www.johndcook.com/blog/2026/09/21/haversine-law/)
@@ -137,6 +139,7 @@
 - TechCrunch
   - [Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/)
   - [Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google](https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/)
+  - [Meta deal will help plastics recycling startup MacroCycle build its first factory](https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/)
   - [Meta’s AI agent has been blocked from using Amazon.com](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/)
   - [Meta’s Muse is outpacing ChatGPT’s early mobile launch](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/)
   - [Morphotonics raises €40M to expand its display tech into data centers](https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/)
@@ -147,6 +150,7 @@
   - [X will now tell users when governments have forced it to limit their posts](https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/)
 - The Block
   - [Animoca Brands suspends merger deal that would have taken it public](https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991)
+  - [Bernstein sees annual prediction market volumes hitting $10 trillion by 2035 as financial assets overtake sports](https://www.theblock.co/news/business/2026-09-22-bernstein-sees-annual-prediction-market-volumes-hitting-10-trillion-by-2035-as-financial-assets-overtake-sports-416030)
   - [Clarity Act fallout: crypto’s Fairshake PAC commits $30 million against Sherrod Brown](https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962)
   - [Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes ‘ethical’ market contender](https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999)
   - [Spot bitcoin ETFs attract nearly $1 billion in largest daily inflow in 11 months](https://www.theblock.co/news/markets/2026-09-22-spot-bitcoin-etfs-1-billion-daily-inflow-416005)
@@ -178,6 +182,11 @@
   - [CVE-2026-17054](https://vulners.com/nvd/NVD:CVE-2026-17054?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18345](https://vulners.com/nvd/NVD:CVE-2026-18345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18439](https://vulners.com/nvd/NVD:CVE-2026-18439?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25254](https://vulners.com/nvd/NVD:CVE-2026-25254?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25255](https://vulners.com/nvd/NVD:CVE-2026-25255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25262](https://vulners.com/nvd/NVD:CVE-2026-25262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25264](https://vulners.com/nvd/NVD:CVE-2026-25264?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-25265](https://vulners.com/nvd/NVD:CVE-2026-25265?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36467](https://vulners.com/nvd/NVD:CVE-2026-36467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36468](https://vulners.com/nvd/NVD:CVE-2026-36468?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-36469](https://vulners.com/nvd/NVD:CVE-2026-36469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -271,6 +280,7 @@
   - [CVE-2026-88788](https://vulners.com/nvd/NVD:CVE-2026-88788?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88978](https://vulners.com/nvd/NVD:CVE-2026-88978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9004](https://vulners.com/nvd/NVD:CVE-2026-9004?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-90882](https://vulners.com/nvd/NVD:CVE-2026-90882?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91092](https://vulners.com/nvd/NVD:CVE-2026-91092?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92235](https://vulners.com/nvd/NVD:CVE-2026-92235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92382](https://vulners.com/nvd/NVD:CVE-2026-92382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -281,6 +291,7 @@
   - [CVE-2026-93778](https://vulners.com/nvd/NVD:CVE-2026-93778?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93836](https://vulners.com/nvd/NVD:CVE-2026-93836?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93952](https://vulners.com/nvd/NVD:CVE-2026-93952?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94117](https://vulners.com/nvd/NVD:CVE-2026-94117?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94488](https://vulners.com/nvd/NVD:CVE-2026-94488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94489](https://vulners.com/nvd/NVD:CVE-2026-94489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94490](https://vulners.com/nvd/NVD:CVE-2026-94490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -303,6 +314,9 @@
   - [A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records](https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/)
   - [AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping](https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/)
   - [Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush](https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/)
+  - [I Built AI Clones of My Coworkers. Things Got Weird](https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/)
+  - [Is a Home Security System Subscription Worth It? (2026)](https://www.wired.com/story/how-to-design-a-subscription-free-home-security-system/)
+  - [The UK Government Faces a Reckoning Over Palantir](https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/)
 - 不安全
   - [aquaman v0.15.0](https://buaq.net/go-443928.html)
   - [BigDiskBuster](https://buaq.net/go-443957.html)
@@ -314,6 +328,8 @@
   - [因违反欧盟通用数据保护条例 谷歌被爱尔兰监管机构罚款4.03亿欧元](https://buaq.net/go-443938.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [为躲避亿万富翁税 Larry Page 等人迁出加州](https://www.solidot.org/story?sid=85453)
 - 安全客
   - [一块公交站牌沦为"肉鸡"，公安部这份通报，把物联网安全的老底揭开了](https://www.anquanke.com/post/id/316172)
   - [每周AI全球资讯播报_09-14_09-20](https://www.anquanke.com/post/id/316160)
@@ -321,5 +337,6 @@
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
+  - [光帆携手韶音，以 AI OS 破局单点功能内卷](https://www.ifanr.com/1681475?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [千问办公押注的企业上下文，是 Agent 时代的组织语言](https://www.ifanr.com/1681363?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题](https://www.ifanr.com/1679313?utm_source=rss&utm_medium=rss&utm_campaign=)
