@@ -11,14 +11,17 @@
 - CERT Recently Published Vulnerability Notes
   - [VU#738147: Vendor-signed UEFI Shell applications allow Secure Boot bypass](https://kb.cert.org/vuls/id/738147)
 - CoinTelegraph
+  - [Arch Lending eyes tokenized stocks as next collateral market](https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash gets first European ETP following US ETF launch](https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Amazon Blocks Meta’s Muse AI Assistant](https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/)
   - [Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App](https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/)
+  - [Meta’s New Muse AI Agent Read Jason Aten’s Messages Database](https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202)
   - [Why Didn’t Google Build Muse?](https://spyglass.org/why-didnt-google-build-muse/)
   - [Xcode 27.2 Now Supports a New JSON Project File Format](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes)
 - darkreading
   - [Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real](https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real)
+  - [Relays Are Masking Chinese Access to Frontier AI Models in the US](https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models)
   - [Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data](https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data)
 - Hacker News Frontpage
   - [16-bit Intel 8088 chip](https://allpoetry.com/16-bit-Intel-8088-chip)
@@ -33,12 +36,16 @@
   - [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/)
   - [There's a high chance of devices being sold with GrapheneOS preinstalled in 2027](https://grapheneos.social/@GrapheneOS/117299954135808210)
   - [Xbox continues its “reset” with dramatic restructuring](https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/)
+- HackerNoon
+  - [The Real Value of Event-Driven Architecture Isn't Technology: It's Cost Reduction](https://hackernoon.com/the-real-value-of-event-driven-architecture-isnt-technology-its-cost-reduction?source=rss)
 - IEEE Spectrum
   - [Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member](https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member)
 - OpenAI Blog
   - [Better prompt caching for GPT-6](https://openai.com/index/better-prompt-caching-for-gpt-6)
 - Panda - 专注于网络空间安全研究
   - [杂谈：聊聊 Jev 与 Laya 的非生成式决策机制](https://www.cnpanda.net/talksafe/jev-laya-non-generative-decision-models.html)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-87902](https://sploitus.com/exploit?id=9E429C71-62CA-58B2-A0EB-99FD4A7C2A65&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [a16z is challenging Silicon Valley’s love for drop-outs by launching a school](https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/)
   - [Anthropic releases Opus 5.5 with lower prices and Fable-level performance](https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/)
@@ -47,8 +54,11 @@
   - [Meta admits Muse’s likeness to OpenClaw isn’t a coincidence](https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/)
   - [OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/)
   - [Qualcomm launches two new smartphone chips with emphasis on AI](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/)
+  - [Snorkel AI triples valuation to $3.5B as demand for AI training data booms](https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/)
   - [Waymo’s latest expansion strategy: teenagers](https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/)
 - The Block
+  - [CFTC Chairman Selig says markets must prepare for ‘mass tokenization’](https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111)
+  - [CFTC warns ‘mention market’ prediction contracts carry heightened manipulation risk](https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120)
   - [Coinbase, Circle shares positioned for crypto recovery as estimates stabilize: William Blair](https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083)
   - [Solo GP Jed Breed raises $15 million for his second early-stage crypto fund](https://www.theblock.co/news/deals/2026-09-22-jed-breed-vc-second-crypto-fund-416075)
 - The Decoder
