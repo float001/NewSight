@@ -39,12 +39,16 @@
   - [首页潘多拉进度条中的两个<span>似乎有样式问题](https://2libra.com/post/community/WIteCUZ)
 - 404 Media
   - [How AI Chatbots Are 'Deskilling' Human Empathy](https://www.404media.co/sherry-turkle-artificial-intimacy-podcast/)
+  - [People Training OpenAI’s AI Fired for Using AI to Train the AI](https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/)
 - Ars Technica
   - [California settles lawsuit against Paramount/Warner merger, angering advocates](https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/)
   - [Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/)
+- Ben's Bites
+  - [What can you build with Jev](https://www.bensbites.com/p/what-can-you-build-with-jev)
 - CoinTelegraph
   - [Animoca puts Currenc merger on ice, delaying its Nasdaq debut](https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto](https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Binance takes $100M stake in Circle under expanded USDC deal](https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs flirt with $1B as inflows hit 2026 high](https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’](https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Circle launches Bitcoin-backed USDC borrowing for institutional clients](https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -86,6 +90,7 @@
 - Hacker News Frontpage
   - [9 Ads per Minute: FIFA Cup 26 – "the price of the beautiful game"](https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html)
   - [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked)
+  - [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
   - [Apple Music to open concert venue in Battersea Power Station](https://www.bbc.com/news/articles/c607l2j2rj8ro)
   - [Data Protection Commission fines Google €403M over processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
   - [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027)
@@ -102,20 +107,27 @@
   - [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
 - idiallo.com
   - [It's Not Just True, It's False](https://idiallo.com/byte-size/its-not-just-true-its-false)
+- IEEE Spectrum
+  - [The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers](https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit)
 - infosecurity-magazine.com
   - [AI Drives Surge in Bot and API Threats](https://www.infosecurity-magazine.com/news/ai-drives-surge-in-bot-and-api/)
+  - [AI Incident Response Readiness Lags Behind AI Adoption, ISACA Finds](https://www.infosecurity-magazine.com/news/orgs-lack-ai-incident-response/)
   - [CISOs Must Update Incident Response Playbooks for Multimodal Deepfakes, Gartner Warns](https://www.infosecurity-magazine.com/news/update-incident-response/)
   - [Network Segmentation Failures Are Expanding the Corporate Attack Surface](https://www.infosecurity-magazine.com/news/segmentation-failures-expanding/)
 - johndcook.com
   - [Haversine law](https://www.johndcook.com/blog/2026/09/21/haversine-law/)
 - minimaxir.com
   - [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/)
+- MIT Technology Review
+  - [The Download: why AI’s latest breakthroughs and fears may be more hype than reality](https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/)
 - NVIDIA AI Blog
   - [From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale](https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/)
   - [NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories](https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/)
   - [Why Deploying Physical AI at Scale Demands Safety at Every Layer](https://blogs.nvidia.com/blog/physical-ai-halos-safety/)
 - pluralistic.net
   - [Pluralistic: Bonta sold us out to Trump's oligarchs (22 Sep 2026)](https://pluralistic.net/2026/09/22/happy-chudmas/)
+- Recent Commits to cve:main
+  - [Update Tue Sep 22 12:28:04 UTC 2026](https://github.com/trickest/cve/commit/7ddd33341bf3f8b0f5beb1f2ab5b05d240669794)
 - shkspr.mobi
   - [Are LLMs still surprisingly bad at some simple tasks?](https://shkspr.mobi/blog/2026/09/are-llms-still-surprisingly-bad-at-some-simple-tasks/)
 - simonwillison.net
@@ -144,12 +156,15 @@
   - [skyhook exploit](https://sploitus.com/exploit?id=KITPLOIT:2100455100263757291&utm_source=rss&utm_medium=rss)
   - [SourceLeakHacker exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WANGYIHANG-SOURCELEAKHACKER&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future](https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/)
   - [Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/)
+  - [Everyone can find a reason to dislike data center construction](https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/)
   - [Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google](https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/)
   - [Meta deal will help plastics recycling startup MacroCycle build its first factory](https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/)
   - [Meta’s AI agent has been blocked from using Amazon.com](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/)
   - [Meta’s Muse is outpacing ChatGPT’s early mobile launch](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/)
   - [Morphotonics raises €40M to expand its display tech into data centers](https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/)
+  - [Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again](https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/)
   - [OpenAI forms math advisory group as its AI resolves more than 100 open problems](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/)
   - [Oura’s $2.2B IPO is mostly a payday for existing shareholders](https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/)
   - [The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/)
@@ -158,6 +173,7 @@
 - The Block
   - [Animoca Brands suspends merger deal that would have taken it public](https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991)
   - [Bernstein sees annual prediction market volumes hitting $10 trillion by 2035 as financial assets overtake sports](https://www.theblock.co/news/business/2026-09-22-bernstein-sees-annual-prediction-market-volumes-hitting-10-trillion-by-2035-as-financial-assets-overtake-sports-416030)
+  - [Binance takes $100 million Circle stake alongside five-year USDC deal](https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042)
   - [Clarity Act fallout: crypto’s Fairshake PAC commits $30 million against Sherrod Brown](https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962)
   - [Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes ‘ethical’ market contender](https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999)
   - [SoFi begins stablecoin settlement on Mastercard network for program expected to exceed $25 billion in annualized volume](https://www.theblock.co/news/business/2026-09-22-sofi-begins-stablecoin-settlement-on-mastercard-network-for-program-expected-to-exceed-25-billion-in-annualized-volume-416035)
@@ -177,7 +193,9 @@
   - [Can you forget how you feel about Meta?](https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram)
   - [GM can’t ‘bring back’ Apple CarPlay because it never left](https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google)
   - [Meta patches Muse exploit that let attackers control the AI agent](https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent)
+  - [Oppo’s new phone is the first with three 200-megapixel cameras](https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china)
   - [Paramount settles lawsuit blocking $110 billion Warner Bros. merger](https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement)
+  - [Peloton is back with a ‘cheaper’ folding treadmill](https://www.theverge.com/tech/998272/peloton-tread-flex-fitness-treadmills)
 - Vulners.com RSS Feed
   - [`owned-alloc` is unmaintained](https://vulners.com/rustsec/RUSTSEC-2026-0299?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2016-15059](https://vulners.com/nvd/NVD:CVE-2016-15059?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -247,6 +265,13 @@
   - [CVE-2026-62369](https://vulners.com/nvd/NVD:CVE-2026-62369?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-62987 Fabio - Incomplete fix for CVE-2025-48865: operator-configured trust headers (clientip/tls/requestid) still strippable via the Connection header](https://vulners.com/cve/CVE-2026-62987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-62987 Fabio - Incomplete fix for CVE-2025-48865: operator-configured trust headers (clientip/tls/requestid) still strippable via the Connection header](https://vulners.com/cvelist/CVELIST:CVE-2026-62987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63272](https://vulners.com/nvd/NVD:CVE-2026-63272?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63273](https://vulners.com/nvd/NVD:CVE-2026-63273?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63274](https://vulners.com/nvd/NVD:CVE-2026-63274?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63275](https://vulners.com/nvd/NVD:CVE-2026-63275?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63276](https://vulners.com/nvd/NVD:CVE-2026-63276?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63278](https://vulners.com/nvd/NVD:CVE-2026-63278?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63279](https://vulners.com/nvd/NVD:CVE-2026-63279?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-63342](https://vulners.com/nvd/NVD:CVE-2026-63342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-63416 draw.io: Path traversal in ExportProxyServlet allows access to arbitrary backend endpoints](https://vulners.com/cve/CVE-2026-63416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-63416 draw.io: Path traversal in ExportProxyServlet allows access to arbitrary backend endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-63416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -263,6 +288,7 @@
   - [CVE-2026-73552](https://vulners.com/nvd/NVD:CVE-2026-73552?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-74765](https://vulners.com/nvd/NVD:CVE-2026-74765?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-74766](https://vulners.com/nvd/NVD:CVE-2026-74766?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-74849](https://vulners.com/nvd/NVD:CVE-2026-74849?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7622](https://vulners.com/nvd/NVD:CVE-2026-7622?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77165](https://vulners.com/nvd/NVD:CVE-2026-77165?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77166](https://vulners.com/nvd/NVD:CVE-2026-77166?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -287,10 +313,12 @@
   - [CVE-2026-87080](https://vulners.com/nvd/NVD:CVE-2026-87080?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87081](https://vulners.com/nvd/NVD:CVE-2026-87081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87082](https://vulners.com/nvd/NVD:CVE-2026-87082?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-87119](https://vulners.com/nvd/NVD:CVE-2026-87119?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88738](https://vulners.com/nvd/NVD:CVE-2026-88738?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88756](https://vulners.com/nvd/NVD:CVE-2026-88756?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88788](https://vulners.com/nvd/NVD:CVE-2026-88788?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88978](https://vulners.com/nvd/NVD:CVE-2026-88978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89420](https://vulners.com/nvd/NVD:CVE-2026-89420?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9004](https://vulners.com/nvd/NVD:CVE-2026-9004?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90882](https://vulners.com/nvd/NVD:CVE-2026-90882?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91092](https://vulners.com/nvd/NVD:CVE-2026-91092?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -319,18 +347,23 @@
   - [CVE-2026-94625](https://vulners.com/nvd/NVD:CVE-2026-94625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94626](https://vulners.com/nvd/NVD:CVE-2026-94626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94627](https://vulners.com/nvd/NVD:CVE-2026-94627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95270](https://vulners.com/nvd/NVD:CVE-2026-95270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95272 dgtlmoon changedetection.io Screenshot flask_app.py static_content path traversal](https://vulners.com/cve/CVE-2026-95272?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95272 dgtlmoon changedetection.io Screenshot flask_app.py static_content path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-95272?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95503](https://vulners.com/nvd/NVD:CVE-2026-95503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-13355](https://vulners.com/githubexploit/1AEB15AD-540E-553B-89AA-F0854ADA2F6E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [RUSTSEC-2026-0299 `owned-alloc` is unmaintained](https://vulners.com/osv/OSV:RUSTSEC-2026-0299?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Security vulnerabilities have been found in IBM Verify Identity Access Digital Credentials](https://vulners.com/ibm/746C46F10EF3F4DBCA29FCF3B43B77A188839108C384A1E304CCF94F1F451B4D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records](https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/)
+  - [Adobe Premiere, One of the iPhone’s Best Video-Editing Apps, Is Now on Android](https://www.wired.com/story/adobe-premiere-now-on-android/)
   - [AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping](https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/)
   - [Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush](https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/)
   - [GoPro Mission 1 Pro ILS Review (2026): Cinema-Quality Action Cam](https://www.wired.com/review/gopro-mission-1-ils-camera/)
   - [I Built AI Clones of My Coworkers. Things Got Weird](https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/)
   - [Is a Home Security System Subscription Worth It? (2026)](https://www.wired.com/story/how-to-design-a-subscription-free-home-security-system/)
   - [The UK Government Faces a Reckoning Over Palantir](https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/)
+  - [Viture’s Vonder Glasses Are Meant to Map Your Mind](https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/)
 - 不安全
   - [aquaman v0.15.0](https://buaq.net/go-443928.html)
   - [BigDiskBuster](https://buaq.net/go-443957.html)
@@ -352,6 +385,7 @@
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
+  - [16.18 万元起！广汽传祺越 7 配备三把锁，「可城可野」有了新答案](https://www.ifanr.com/1681498?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [光帆携手韶音，以 AI OS 破局单点功能内卷](https://www.ifanr.com/1681475?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [千问办公押注的企业上下文，是 Agent 时代的组织语言](https://www.ifanr.com/1681363?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题](https://www.ifanr.com/1679313?utm_source=rss&utm_medium=rss&utm_campaign=)
