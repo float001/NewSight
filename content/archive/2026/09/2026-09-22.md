@@ -18,6 +18,7 @@
   - [水一贴，我还在，今天 grok4.7 来了](https://2libra.com/post/large-models/9rwKkx1)
   - [求推荐一款头戴蓝牙耳机](https://2libra.com/post/recommendations/YEqqW45)
   - [笑死了。。。头像缩小反而感觉自己像双开门](https://2libra.com/post/forum-function/fWsxd8E)
+  - [问下站里的宝妈/宝爸，你们的奶粉罐子有用来做啥手工吗](https://2libra.com/post/small-things/qJmudBM)
   - [颈椎疼求救](https://2libra.com/post/personal-life/1akra0d)
 - 404 Media
   - [How AI Chatbots Are 'Deskilling' Human Empathy](https://www.404media.co/sherry-turkle-artificial-intimacy-podcast/)
@@ -29,9 +30,12 @@
   - [Circle launches Bitcoin-backed USDC borrowing for institutional clients](https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again](https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks](https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg](https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ondo lets institutions convert stocks directly into tokenized shares](https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Saudi Arabia exits China-backed mBridge CBDC project: FT](https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [CVE-2026-66804: Dark Elevator Fix Left Windows Exposed](https://www.cyberkendra.com/2026/09/cve-2026-66804-dark-elevator-incomplete-fix.html)
 - daringfireball.net
   - [America’s Decline Can Be Measured by the Names of Ballparks and Arenas](https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park)
   - [David Pogue: ‘125 Tests of the New AI Siri’](https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri)
@@ -223,12 +227,17 @@
   - [Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush](https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/)
 - 不安全
   - [aquaman v0.15.0](https://buaq.net/go-443928.html)
+  - [Inside BambooToken’s Linux implant: shell and file control over MQTT](https://buaq.net/go-443946.html)
   - [Mobile-Security-Framework-MobSF v4.5.3](https://buaq.net/go-443937.html)
+  - [Windows Exploitation Techniques: Dangling COM Object Registrations](https://buaq.net/go-443947.html)
+  - [因违反欧盟通用数据保护条例 谷歌被爱尔兰监管机构罚款4.03亿欧元](https://buaq.net/go-443938.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [一块公交站牌沦为"肉鸡"，公安部这份通报，把物联网安全的老底揭开了](https://www.anquanke.com/post/id/316172)
   - [每周AI全球资讯播报_09-14_09-20](https://www.anquanke.com/post/id/316160)
   - [给AI出考卷的人，把考场门开到了马路上：Gemini入侵三家真实企业始末](https://www.anquanke.com/post/id/316169)
+- 小刀志
+  - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 爱范儿
   - [早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题](https://www.ifanr.com/1679313?utm_source=rss&utm_medium=rss&utm_campaign=)
