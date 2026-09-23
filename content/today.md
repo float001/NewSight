@@ -2,9 +2,13 @@
 
 - 2Libra
   - [GPT-6-sol 体验一下](https://2libra.com/post/ai-tools/k-fu6MW)
+  - [「😄 开心一招」个人赞助位招租](https://2libra.com/post/forum-function/aZZuHZs)
   - [【上接前篇】多发点钱：不要让「怨气员工」成为定时炸弹](https://2libra.com/post/workplace-stories/qP9myzc)
+  - [【💰】第一次小长途](https://2libra.com/post/travel-tips/gmJDOEw)
+  - [今天早晨一言难尽](https://2libra.com/post/small-things/7VxVnK2)
   - [快过节了，大家有什么好书可以推荐一下么。](https://2libra.com/post/good-books/7jJ0nzp)
   - [正在调配中秋徽章中，该徽章在中秋假期那几天可领](https://2libra.com/post/forum-function/CZAuYxd)
+  - [看不到他人出价这个设计是什么考虑](https://2libra.com/post/forum-function/H-z8kaD)
   - [预估的全国及各大城市的开发者数量](https://2libra.com/post/industry-inside/586PFPP)
 - 404 Media
   - [Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center](https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/)
@@ -46,17 +50,21 @@
   - [Obscura: The first VPN that can't log your activity](https://obscura.com/#faq-technical)
   - [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/)
   - [There's a high chance of devices being sold with GrapheneOS preinstalled in 2027](https://grapheneos.social/@GrapheneOS/117299954135808210)
+  - [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro)
   - [Xbox continues its “reset” with dramatic restructuring](https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/)
 - HackerNoon
   - [The Real Value of Event-Driven Architecture Isn't Technology: It's Cost Reduction](https://hackernoon.com/the-real-value-of-event-driven-architecture-isnt-technology-its-cost-reduction?source=rss)
 - IEEE Spectrum
   - [Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member](https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member)
+- NVIDIA AI Blog
+  - [At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia](https://blogs.nvidia.com/blog/ai-day-singapore/)
 - OpenAI Blog
   - [Better prompt caching for GPT-6](https://openai.com/index/better-prompt-caching-for-gpt-6)
 - Panda - 专注于网络空间安全研究
   - [杂谈：聊聊 Jev 与 Laya 的非生成式决策机制](https://www.cnpanda.net/talksafe/jev-laya-non-generative-decision-models.html)
 - simonwillison.net
   - [Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war](https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/)
+  - [SF October 14th: A Birds of a Feather Session on Agentic Engineering](https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-87902](https://sploitus.com/exploit?id=9E429C71-62CA-58B2-A0EB-99FD4A7C2A65&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -269,7 +277,13 @@
   - [CVE-2026-89276](https://vulners.com/nvd/NVD:CVE-2026-89276?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89281](https://vulners.com/nvd/NVD:CVE-2026-89281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89282](https://vulners.com/nvd/NVD:CVE-2026-89282?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89425 jackson-core: UTF8DataInputJsonParser._reportInvalidToken() does not honor maxErrorTokenLength, allowing unbounded StringBuilder growth](https://vulners.com/cve/CVE-2026-89425?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89425 jackson-core: UTF8DataInputJsonParser._reportInvalidToken() does not honor maxErrorTokenLength, allowing unbounded StringBuilder growth](https://vulners.com/cvelist/CVELIST:CVE-2026-89425?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90462](https://vulners.com/nvd/NVD:CVE-2026-90462?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91776 jackson-databind: unbounded growth of the type id cache in TypeDeserializerBase retains every unknown raw type ID](https://vulners.com/cve/CVE-2026-91776?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91776 jackson-databind: unbounded growth of the type id cache in TypeDeserializerBase retains every unknown raw type ID](https://vulners.com/cvelist/CVELIST:CVE-2026-91776?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91777 jackson-databind: quadratic forward-reference completion in Collection and Map deserializers](https://vulners.com/cve/CVE-2026-91777?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91777 jackson-databind: quadratic forward-reference completion in Collection and Map deserializers](https://vulners.com/cvelist/CVELIST:CVE-2026-91777?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92706](https://vulners.com/nvd/NVD:CVE-2026-92706?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92928](https://vulners.com/nvd/NVD:CVE-2026-92928?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92929](https://vulners.com/nvd/NVD:CVE-2026-92929?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -293,6 +307,11 @@
   - [CVE-2026-95830](https://vulners.com/nvd/NVD:CVE-2026-95830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95833](https://vulners.com/nvd/NVD:CVE-2026-95833?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95868](https://vulners.com/nvd/NVD:CVE-2026-95868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95926](https://vulners.com/nvd/NVD:CVE-2026-95926?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95927](https://vulners.com/nvd/NVD:CVE-2026-95927?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95928](https://vulners.com/nvd/NVD:CVE-2026-95928?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95930 iFlytek astron-agent debugToolV2 API endpoint UrlCheckTool.checkUrl server-side request forgery](https://vulners.com/cve/CVE-2026-95930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95930 iFlytek astron-agent debugToolV2 API endpoint UrlCheckTool.checkUrl server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-95930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Zabbix](https://vulners.com/githubexploit/EB958906-CF39-563D-A802-84228C0B46E9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [How to Claim Your Cut of Apple’s $250 Million Siri Settlement](https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/)
@@ -300,7 +319,11 @@
 - 不安全
   - [A repeatable 5-question checklist for pentesting any JWT token](https://buaq.net/go-444188.html)
   - [pentoo-overlay](https://buaq.net/go-444182.html)
+  - [Web-App-PenTesting](https://buaq.net/go-444191.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 体验盒子
   - [Capso：我重新审视了一遍 macOS 截图工具](https://www.uedbox.com/post/120099/)
+- 爱范儿
+  - [Claude 5.5 发布，性能直逼 Fable，还要卷价格](https://www.ifanr.com/1681629?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [⁡⁤‬‍⁤‬​‌‍⁢⁡⁢⁣‌‌﻿⁡⁡​⁤​​﻿⁢⁡‬⁡‬​‍⁣​​﻿⁤⁡‍​⁡‬‌‬⁣⁡⁣​⁡‬⁤刚刚，GPT-6 新模型掀桌！「白菜价」杀进 DeepSeek 腹地](https://www.ifanr.com/1681605?utm_source=rss&utm_medium=rss&utm_campaign=)
