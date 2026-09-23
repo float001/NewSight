@@ -1,15 +1,57 @@
 # 今日安全资讯（2026-09-24）
 
+- 2Libra
+  - [【🔒】生活总是在你放弃的时候又给你希望](https://2libra.com/post/forum-function/E2Mg5Ym)
+- 404 Media
+  - [An Invisible Force Has a Mysterious Effect on Aging, Scientists Discover in 'Startling' Breakthrough](https://www.404media.co/earth-magnetic-field-effects-on-aging-study/)
 - Blog - Praetorian
   - [Hannibal Puts Autonomous Penetration Testing Under Your Control](https://www.praetorian.com/blog/autonomous-penetration-testing-hannibal/)
+- CoinTelegraph
+  - [Bitwise launches first Lighter ETP amid Hyperliquid rivalry](https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [F5 BIG-IP APM Zero-Day CVE-2026-94127 Exploited for RCE](https://www.cyberkendra.com/2026/09/cve-2026-94127-f5-big-ip-apm-zero-day-exploited.html)
 - darkreading
   - [UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks)
 - Google DeepMind Blog
   - [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)
+- Hacker News Frontpage
+  - [28% of job postings on company career sites have been open over 90 days](https://unlisted.careers/ghost-jobs/report/2026-09)
 - OpenAI Blog
   - [Two years of OpenAI Academy](https://openai.com/index/two-years-of-openai-academy)
+- PwnDefend
+  - [Machine Speed](https://www.pwndefend.com/2026/09/23/machine-speed/)
+- TechCrunch
+  - [Even Americans who use AI every day are worried about it](https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/)
+- The Block
+  - [‘BTC still has room to catch up’: Bitcoin’s $80,000 breakout draws institutional demand as analysts weigh durability](https://www.theblock.co/news/markets/2026-09-23-bitcoin-breakout-etf-inflows-analysts-k33-nexo-resistance-416182)
+- The Decoder
+  - [YouTube adds AI tools to Creator Studio with script coaching, smart thumbnails, and Gemini editing](https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/)
 - The Verge
+  - [Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison](https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act)
   - [Logitech’s new Blue Yeti 2 mic adjusts itself to where you are](https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability)
   - [Logitech’s new haptics-based gaming mouse is a little better and $20 more](https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price)
+- Vulners.com RSS Feed
+  - [CVE-2026-18180](https://vulners.com/nvd/NVD:CVE-2026-18180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18181](https://vulners.com/nvd/NVD:CVE-2026-18181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18184](https://vulners.com/nvd/NVD:CVE-2026-18184?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18185](https://vulners.com/nvd/NVD:CVE-2026-18185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18490](https://vulners.com/nvd/NVD:CVE-2026-18490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18505](https://vulners.com/nvd/NVD:CVE-2026-18505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18872](https://vulners.com/nvd/NVD:CVE-2026-18872?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18875](https://vulners.com/nvd/NVD:CVE-2026-18875?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19087](https://vulners.com/nvd/NVD:CVE-2026-19087?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19179](https://vulners.com/nvd/NVD:CVE-2026-19179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19267](https://vulners.com/nvd/NVD:CVE-2026-19267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-3626](https://vulners.com/nvd/NVD:CVE-2026-3626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-4921](https://vulners.com/nvd/NVD:CVE-2026-4921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-6327](https://vulners.com/nvd/NVD:CVE-2026-6327?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-79304](https://vulners.com/nvd/NVD:CVE-2026-79304?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-79306](https://vulners.com/nvd/NVD:CVE-2026-79306?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-79310](https://vulners.com/nvd/NVD:CVE-2026-79310?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93769](https://vulners.com/nvd/NVD:CVE-2026-93769?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96672](https://vulners.com/nvd/NVD:CVE-2026-96672?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96673](https://vulners.com/nvd/NVD:CVE-2026-96673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96674](https://vulners.com/nvd/NVD:CVE-2026-96674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96675](https://vulners.com/nvd/NVD:CVE-2026-96675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
