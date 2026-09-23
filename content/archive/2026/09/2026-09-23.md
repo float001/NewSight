@@ -2,6 +2,7 @@
 
 - 2Libra
   - [快过节了，大家有什么好书可以推荐一下么。](https://2libra.com/post/good-books/7jJ0nzp)
+  - [正在调配中秋徽章中，该徽章在中秋假期那几天可领](https://2libra.com/post/forum-function/CZAuYxd)
 - 404 Media
   - [Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center](https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/)
   - [‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
@@ -14,6 +15,7 @@
   - [VU#738147: Vendor-signed UEFI Shell applications allow Secure Boot bypass](https://kb.cert.org/vuls/id/738147)
 - CoinTelegraph
   - [Arch Lending eyes tokenized stocks as next collateral market](https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [CFTC issues warning over risky prediction market ‘mention’ contracts](https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash gets first European ETP following US ETF launch](https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Amazon Blocks Meta’s Muse AI Assistant](https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/)
@@ -76,6 +78,7 @@
   - [Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity)
   - [Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras](https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style)
   - [Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset](https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6)
+  - [OpenAI wants to consult elite mathematicians about how to not fumble again](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel)
   - [Paramount will need to release way more movies to make this merger work](https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails)
   - [Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too](https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6)
   - [Rabbit’s new AI agent doesn’t need an R1 to run](https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3)
@@ -262,7 +265,11 @@
   - [CVE-2026-89282](https://vulners.com/nvd/NVD:CVE-2026-89282?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90462](https://vulners.com/nvd/NVD:CVE-2026-90462?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92706](https://vulners.com/nvd/NVD:CVE-2026-92706?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92928](https://vulners.com/nvd/NVD:CVE-2026-92928?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92929](https://vulners.com/nvd/NVD:CVE-2026-92929?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92930](https://vulners.com/nvd/NVD:CVE-2026-92930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93345](https://vulners.com/nvd/NVD:CVE-2026-93345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94367](https://vulners.com/nvd/NVD:CVE-2026-94367?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94384](https://vulners.com/nvd/NVD:CVE-2026-94384?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94574](https://vulners.com/nvd/NVD:CVE-2026-94574?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94640](https://vulners.com/nvd/NVD:CVE-2026-94640?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -276,9 +283,17 @@
   - [CVE-2026-95805](https://vulners.com/nvd/NVD:CVE-2026-95805?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95806](https://vulners.com/nvd/NVD:CVE-2026-95806?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95819](https://vulners.com/nvd/NVD:CVE-2026-95819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95829](https://vulners.com/nvd/NVD:CVE-2026-95829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95830](https://vulners.com/nvd/NVD:CVE-2026-95830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95833](https://vulners.com/nvd/NVD:CVE-2026-95833?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95868](https://vulners.com/nvd/NVD:CVE-2026-95868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Zabbix](https://vulners.com/githubexploit/EB958906-CF39-563D-A802-84228C0B46E9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [How to Claim Your Cut of Apple’s $250 Million Siri Settlement](https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/)
   - [Rabbit Is Back, This Time With an AI Agent App](https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/)
+- 不安全
+  - [pentoo-overlay](https://buaq.net/go-444182.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 体验盒子
+  - [Capso：我重新审视了一遍 macOS 截图工具](https://www.uedbox.com/post/120099/)
