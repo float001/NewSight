@@ -29,6 +29,7 @@
 - 404 Media
   - [Americans Fear AI Will Make the World Worse, Love It Anyway](https://www.404media.co/americans-love-to-use-ai-but-fear-it-will-make-the-world-worse-according-to-new-study/)
   - [Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center](https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/)
+  - [Woman Arrested, Dragged Away After Quietly Speaking About Flock at City Council Meeting](https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/)
   - [‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
 - Ars Technica
   - [Adobe Premiere finally brings powerful video editing to Android, and it's free](https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/)
@@ -46,6 +47,7 @@
   - [AI potential to drive crypto demand remains ‘underappreciated’: BlackRock](https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Arch Lending eyes tokenized stocks as next collateral market](https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis](https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin long liquidations hit $280M as BTC price dips under $84K](https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitMEX ends crypto trading, keeps withdrawals open after closure](https://cointelegraph.com/news/bitmex-ends-crypto-trading-withdrawals-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC issues warning over risky prediction market ‘mention’ contracts](https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ESMA to prioritize EU-wide AI and tokenization supervision in 2027](https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -72,10 +74,12 @@
   - [Meta’s Muse Logomark, Designed by Jessica Hische](https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/)
   - [Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App](https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/)
   - [Meta’s New Muse AI Agent Read Jason Aten’s Messages Database](https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202)
+  - [Super Intelligence, Indeed](https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23)
   - [Why Didn’t Google Build Muse?](https://spyglass.org/why-didnt-google-build-muse/)
   - [Xcode 27.2 Now Supports a New JSON Project File Format](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes)
 - darkreading
   - [Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real](https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real)
+  - [Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign](https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign)
   - [Relays Are Masking Chinese Access to Frontier AI Models in the US](https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models)
   - [Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data](https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data)
 - defend.network
@@ -91,7 +95,9 @@
   - [Aging may be a program, not a breakdown](https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/)
   - [Americans' Drinking Remains at Record Low: Gallup Poll](https://news.gallup.com/poll/713534/americans-drinking-remains-record-low.aspx)
   - [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
+  - [Jev in practice: typed decisions, scoped authority](https://tenuo.ai/blog/jev-scoped-authority)
   - [Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent](https://www.coveragecat.com/)
+  - [Montreal adopts bylaw banning insults against police, municipal employees](https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920)
   - [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
   - [Netherlands bracing for potentially devastating US sanctions against the ICC](https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6)
   - [Obscura: The first VPN that can't log your activity](https://obscura.com/#faq-technical)
@@ -109,9 +115,12 @@
   - [Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member](https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member)
 - infosecurity-magazine.com
   - [EU Auditors Warn Information-Sharing Gaps Are Hindering Cyber Incident Response](https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/)
+  - [Hundreds of Leaked GitHub App Keys Still Authenticate](https://www.infosecurity-magazine.com/news/hundreds-leaked-github-app-keys/)
   - [Ransomware Attacks Reach Record High for 2026](https://www.infosecurity-magazine.com/news/ransomware-attacks-reach-record/)
   - [ShinyHunters Claims FBI Hack Via PeopleSoft Zero Day](https://www.infosecurity-magazine.com/news/shinyhunters-fbi-hack-peoplesoft/)
   - [Windows Botnet x47.c Offers AI API Draining, 18 Attack Methods](https://www.infosecurity-magazine.com/news/x47c-botnet-ai-api-draining-18/)
+- johndcook.com
+  - [Navigation with only addition, subtraction, and tables](https://www.johndcook.com/blog/2026/09/23/navigation-minimum/)
 - MIT Technology Review
   - [The Download: India’s smart glasses menace and AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/)
 - NVIDIA AI Blog
@@ -129,6 +138,7 @@
   - [Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war](https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/)
   - [SF October 14th: A Birds of a Feather Session on Agentic Engineering](https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-19125](https://sploitus.com/exploit?id=9FB4B94D-482D-5B8B-B316-A68732407E0E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-87902](https://sploitus.com/exploit?id=9E429C71-62CA-58B2-A0EB-99FD4A7C2A65&utm_source=rss&utm_medium=rss)
   - [swagger-poc exploit](https://sploitus.com/exploit?id=C64F2DAA-1DB4-534F-9E96-0126F1EA3830&utm_source=rss&utm_medium=rss)
 - steveblank.com
@@ -140,8 +150,10 @@
   - [Apple could take on Whoop with a new fitness tracker, report says](https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/)
   - [Comma’s hands-off driving tech under investigation after 2 fatal crashes](https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/)
   - [Discord’s age verification era is upon us, despite community backlash](https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/)
+  - [Eight Sleep’s new Pod 6 comes in smaller and solo sizes, starting at $1,999](https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/)
   - [Ema raises $77M as AI starts eating into enterprise software and services](https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/)
   - [Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data](https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/)
+  - [Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16](https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/)
   - [LinkedIn adds new tools to fight fake profiles and bogus work histories](https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/)
   - [Meta admits Muse’s likeness to OpenClaw isn’t a coincidence](https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/)
   - [OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/)
@@ -149,8 +161,14 @@
   - [Qualcomm launches two new smartphone chips with emphasis on AI](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/)
   - [Snorkel AI triples valuation to $3.5B as demand for AI training data booms](https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/)
   - [Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’](https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/)
+  - [StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital](https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/)
   - [TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4](https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/)
   - [Waymo’s latest expansion strategy: teenagers](https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/)
+  - [YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing](https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/)
+  - [YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature](https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/)
+  - [YouTube releases new AI features for creators within its Studio app](https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/)
+  - [YouTube will let you build your own algorithm with AI](https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/)
+  - [YouTube’s new ‘Short Series’ feature brings episodic viewing to Shorts](https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/)
   - [“We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI](https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/)
 - The Block
   - [Canada’s big six banks explore tokenized deposit system to modernize payments](https://www.theblock.co/news/business/2026-09-23-canada-banks-tokenized-deposit-system-416129)
@@ -166,11 +184,14 @@
   - [Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent](https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/)
   - [Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less "Claudish" writing](https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/)
   - [Inside Basecamp Research, the AI startup turning evolution into training data](https://the-decoder.com/inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data/)
+  - [Meta's AI agent Muse draws 500,000 users in a week along with claims it copied OpenClaw](https://the-decoder.com/metas-ai-agent-muse-draws-500000-users-in-a-week-along-with-claims-it-copied-openclaw/)
+  - [Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing](https://the-decoder.com/nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-out-of-its-ipo-filing/)
   - [OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance](https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/)
 - The Verge
   - [Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta](https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy)
   - [Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity)
   - [Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras](https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style)
+  - [Discord will now automatically estimate your age](https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout)
   - [Eight Sleep’s new cooling hub is small enough to hide under your bed](https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking)
   - [McDonald’s is testing ads on its drive-thru menus](https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads)
   - [Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset](https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6)
@@ -185,8 +206,11 @@
   - [Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad](https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale)
   - [Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy](https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale)
   - [Trump says US is officially renaming AI ‘super intelligence’](https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence)
+  - [YouTube is building AI creator tools that do almost everything for them](https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests)
 - troyhunt.com
   - [Weekly Update 522: Live From Oslo with Scott Helme](https://www.troyhunt.com/weekly-update-522/)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [CISA BOD 26-04 Timelines for Three Linux Kernel CVEs](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
   - [CVE-2022-4997](https://vulners.com/nvd/NVD:CVE-2022-4997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-12767](https://vulners.com/nvd/NVD:CVE-2025-12767?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -540,6 +564,7 @@
   - [This App Makes Your Laptop Screen Look Like Paper](https://www.wired.com/story/paperman-makes-your-laptop-screen-look-like-paper/)
   - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)
   - [Valvoline Coupons and Promo Codes for September 2026](https://www.wired.com/story/valvoline-coupons/)
+  - [YouTube’s Custom Feeds Give You More Control Over the Algorithm](https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/)
 - 不安全
   - [A repeatable 5-question checklist for pentesting any JWT token](https://buaq.net/go-444188.html)
   - [evillimiter-ng](https://buaq.net/go-444292.html)
