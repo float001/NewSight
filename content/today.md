@@ -5,9 +5,11 @@
   - [「😄 开心一招」个人赞助位招租](https://2libra.com/post/forum-function/aZZuHZs)
   - [【上接前篇】多发点钱：不要让「怨气员工」成为定时炸弹](https://2libra.com/post/workplace-stories/qP9myzc)
   - [【💰】第一次小长途](https://2libra.com/post/travel-tips/gmJDOEw)
+  - [【💰】统计行业状况](https://2libra.com/post/industry-inside/tEa3vMP)
   - [今天早晨一言难尽](https://2libra.com/post/small-things/7VxVnK2)
   - [快过节了，大家有什么好书可以推荐一下么。](https://2libra.com/post/good-books/7jJ0nzp)
   - [正在调配中秋徽章中，该徽章在中秋假期那几天可领](https://2libra.com/post/forum-function/CZAuYxd)
+  - [生活中的年抛品](https://2libra.com/post/small-things/k46hyVh)
   - [看不到他人出价这个设计是什么考虑](https://2libra.com/post/forum-function/H-z8kaD)
   - [预估的全国及各大城市的开发者数量](https://2libra.com/post/industry-inside/586PFPP)
 - 404 Media
@@ -23,7 +25,10 @@
 - CoinTelegraph
   - [Arch Lending eyes tokenized stocks as next collateral market](https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC issues warning over risky prediction market ‘mention’ contracts](https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [OpenAI, Anthropic to brief UN Security Council on AI risks: Reports](https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash gets first European ETP following US ETF launch](https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [OpenAI, Anthropic to brief UN Security Council on AI risks: Reports](https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [What Is an X Number? X’s New Chat Contact Code Explained](https://www.cyberkendra.com/2026/09/x-numbers-x-chat-private-contact-code.html)
   - [WordPress 7.1.2 Patches CVE-2026-87902 File Inclusion Flaw](https://www.cyberkendra.com/2026/09/cve-2026-87902-wordpress-file-inclusion-rce.html)
@@ -71,6 +76,7 @@
   - [a16z is challenging Silicon Valley’s love for drop-outs by launching a school](https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/)
   - [Anthropic releases Opus 5.5 with lower prices and Fable-level performance](https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/)
   - [Apple could take on Whoop with a new fitness tracker, report says](https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/)
+  - [Discord’s age verification era is upon us, despite community backlash](https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/)
   - [Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data](https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/)
   - [Meta admits Muse’s likeness to OpenClaw isn’t a coincidence](https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/)
   - [OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/)
@@ -320,6 +326,7 @@
   - [A repeatable 5-question checklist for pentesting any JWT token](https://buaq.net/go-444188.html)
   - [pentoo-overlay](https://buaq.net/go-444182.html)
   - [Web-App-PenTesting](https://buaq.net/go-444191.html)
+  - [谷歌确认Chrome for macOS扩展程序加载异常 点击扩展程序时要等待数分钟](https://buaq.net/go-444193.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 体验盒子
