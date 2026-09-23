@@ -44,6 +44,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says](https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OpenAI, Anthropic to brief UN Security Council on AI risks: Reports](https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Raiffeisen to offer crypto trading across 11 European markets via Bitpanda](https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report](https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash gets first European ETP following US ETF launch](https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash’s November upgrade could freeze funds in legacy Sprout pool](https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -77,17 +78,21 @@
   - [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
   - [Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent](https://www.coveragecat.com/)
   - [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
+  - [Netherlands bracing for potentially devastating US sanctions against the ICC](https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6)
   - [Obscura: The first VPN that can't log your activity](https://obscura.com/#faq-technical)
   - [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/)
   - [There's a high chance of devices being sold with GrapheneOS preinstalled in 2027](https://grapheneos.social/@GrapheneOS/117299954135808210)
   - [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro)
   - [Xbox continues its “reset” with dramatic restructuring](https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/)
 - HackerNoon
+  - [Build Customizable, Reusable Project Templates With Node.js](https://hackernoon.com/build-customizable-reusable-project-templates-with-nodejs?source=rss)
+  - [Ratio CEO John Cho on Stablecoin FX: Asia's Won-to-Rupiah Payments Without the Dollar](https://hackernoon.com/ratio-ceo-john-cho-on-stablecoin-fx-asias-won-to-rupiah-payments-without-the-dollar?source=rss)
   - [The Real Value of Event-Driven Architecture Isn't Technology: It's Cost Reduction](https://hackernoon.com/the-real-value-of-event-driven-architecture-isnt-technology-its-cost-reduction?source=rss)
 - IEEE Spectrum
   - [Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member](https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member)
 - infosecurity-magazine.com
   - [EU Auditors Warn Information-Sharing Gaps Are Hindering Cyber Incident Response](https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/)
+  - [ShinyHunters Claims FBI Hack Via PeopleSoft Zero Day](https://www.infosecurity-magazine.com/news/shinyhunters-fbi-hack-peoplesoft/)
 - NVIDIA AI Blog
   - [At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia](https://blogs.nvidia.com/blog/ai-day-singapore/)
 - OpenAI Blog
@@ -99,6 +104,7 @@
   - [SF October 14th: A Birds of a Feather Session on Agentic Engineering](https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-87902](https://sploitus.com/exploit?id=9E429C71-62CA-58B2-A0EB-99FD4A7C2A65&utm_source=rss&utm_medium=rss)
+  - [swagger-poc exploit](https://sploitus.com/exploit?id=C64F2DAA-1DB4-534F-9E96-0126F1EA3830&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [a16z is challenging Silicon Valley’s love for drop-outs by launching a school](https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/)
   - [Anthropic releases Opus 5.5 with lower prices and Fable-level performance](https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/)
@@ -438,14 +444,18 @@
 - Wired
   - [20% Off Sephora Promo Code | September 2026](https://www.wired.com/story/sephora-promo-code/)
   - [30% Off Canon Promo Codes | September 2026](https://www.wired.com/story/canon-promo-code/)
+  - [8 Best Space Heaters (2026): Tested, Measured, and Mistreated](https://www.wired.com/gallery/the-best-space-heaters/)
   - [Google Workspace Promo Codes: 14% Off for September 2026](https://www.wired.com/story/google-workspace-promo-code/)
   - [Hotels.com Coupon Codes for September 2026](https://www.wired.com/story/hotels-com-coupon/)
   - [How to Claim Your Cut of Apple’s $250 Million Siri Settlement](https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/)
+  - [Kiwibit Bird Feeder 2 Pro Review: Premium but Paywalled](https://www.wired.com/review/kiwibit-bird-feeder-2-pro/)
   - [LG Promo Codes and Coupons for September 2026](https://www.wired.com/story/lg-promo-code/)
   - [Nike Promo Codes and Discounts: 30% for September 2026](https://www.wired.com/story/nike-promo-code/)
   - [Nomad Goods Promo Codes: Get 25% Off in September 2026](https://www.wired.com/story/nomad-discount-code/)
   - [Rabbit Is Back, This Time With an AI Agent App](https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/)
   - [Ray-Ban Promo Codes: Save 50% in September 2026](https://www.wired.com/story/ray-ban-promo-code/)
+  - [She’s 28, Loves God and Her Family, and Might Be the Reason You Can’t Have Kids](https://www.wired.com/story/emma-waters-fertility-tech/)
+  - [The Organization Fighting Ebola Has Never Been More Worried](https://www.wired.com/story/organization-fighting-ebola-never-more-worried/)
   - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)
   - [Valvoline Coupons and Promo Codes for September 2026](https://www.wired.com/story/valvoline-coupons/)
 - 不安全
@@ -462,4 +472,5 @@
 - 爱范儿
   - [Claude 5.5 发布，性能直逼 Fable，还要卷价格](https://www.ifanr.com/1681629?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [⁡⁤‬‍⁤‬​‌‍⁢⁡⁢⁣‌‌﻿⁡⁡​⁤​​﻿⁢⁡‬⁡‬​‍⁣​​﻿⁤⁡‍​⁡‬‌‬⁣⁡⁣​⁡‬⁤刚刚，GPT-6 新模型掀桌！「白菜价」杀进 DeepSeek 腹地](https://www.ifanr.com/1681605?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [从 iPhone 18 开始，苹果给你的照片打上「看不见」的水印](https://www.ifanr.com/1681780?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [制糖工厂发布小电拼 Core：四口全 AVS，开启超快补能，小巧随行](https://www.ifanr.com/1681696?utm_source=rss&utm_medium=rss&utm_campaign=)
