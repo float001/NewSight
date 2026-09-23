@@ -6,27 +6,50 @@
   - [An Invisible Force Has a Mysterious Effect on Aging, Scientists Discover in 'Startling' Breakthrough](https://www.404media.co/earth-magnetic-field-effects-on-aging-study/)
 - Blog - Praetorian
   - [Hannibal Puts Autonomous Penetration Testing Under Your Control](https://www.praetorian.com/blog/autonomous-penetration-testing-hannibal/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#754548: Cinnamon's kotaemon contains improper authorization checks in Kotaemon multi‑user chat handlers](https://kb.cert.org/vuls/id/754548)
 - CoinTelegraph
   - [Bitwise launches first Lighter ETP amid Hyperliquid rivalry](https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [F5 BIG-IP APM Zero-Day CVE-2026-94127 Exploited for RCE](https://www.cyberkendra.com/2026/09/cve-2026-94127-f5-big-ip-apm-zero-day-exploited.html)
+  - [Linux AF_UNIX Flaw CVE-2026-80521 Enables Container Escape](https://www.cyberkendra.com/2026/09/cve-2026-80521-ubuntu-container-escape-exploit.html)
+  - [Microsoft Disrupts EvilTokens Device Code Phishing Service](https://www.cyberkendra.com/2026/09/eviltokens-phishing-disrupted-microsoft-arrests.html)
+  - [ShinyHunters Claims FBI Hack, Theft of Employee Data](https://www.cyberkendra.com/2026/09/shinyhunters-claims-fbi-hack-theft-of-employee-data.html)
+- daringfireball.net
+  - [★ AppZapper 3000](https://daringfireball.net/2026/09/appzapper_3000)
 - darkreading
   - [UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks)
+- Emergent Minds | paddo.dev
+  - [Careful, Not Thorough: Claude Opus 5.5 vs GPT-6 Sol on Real Code](https://paddo.dev/blog/opus-5-5-vs-gpt-6-sol/)
+- Google AI Blog
+  - [Google Beam expands with new regions, partners, and customers](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-expansion/)
 - Google DeepMind Blog
   - [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)
 - Hacker News Frontpage
   - [28% of job postings on company career sites have been open over 90 days](https://unlisted.careers/ghost-jobs/report/2026-09)
+  - [Italian parliament votes for return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567)
+- MIT Technology Review
+  - [A congressional representative just proposed killing America’s border tower program](https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/)
 - OpenAI Blog
   - [Two years of OpenAI Academy](https://openai.com/index/two-years-of-openai-academy)
 - PwnDefend
   - [Machine Speed](https://www.pwndefend.com/2026/09/23/machine-speed/)
+- Sec-News 安全文摘
+  - [vCenter pre-auth RCE: CVE-2026-59309/59310](https://govuln.com/news/url/MBKL)
 - TechCrunch
   - [Even Americans who use AI every day are worried about it](https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/)
+  - [The old cybersecurity model is breaking](https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/)
+  - [Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms](https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/)
 - The Block
+  - [Hut 8 wins bidding for Poolin’s Texas data centers with $140 million offer](https://www.theblock.co/news/business/2026-09-23-hut-8-wins-bidding-poolin-texas-data-centers-140-million-offer-416190)
   - [‘BTC still has room to catch up’: Bitcoin’s $80,000 breakout draws institutional demand as analysts weigh durability](https://www.theblock.co/news/markets/2026-09-23-bitcoin-breakout-etf-inflows-analysts-k33-nexo-resistance-416182)
+  - [‘Not behind closed doors’: Senate Banking Democrats call for prediction markets hearing as GOP meets privately with Kalshi](https://www.theblock.co/news/regulation/2026-09-23-senate-banking-democrats-prediction-markets-hearing-kalshi-416193)
 - The Decoder
+  - [ChatGPT Voice gets closer to "Her" with email, calendar, and Slack access](https://the-decoder.com/chatgpt-voice-gets-closer-to-her-with-email-calendar-and-slack-access/)
+  - [Google's new Flash TTS models let you design AI voices from scratch using text descriptions](https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions/)
   - [YouTube adds AI tools to Creator Studio with script coaching, smart thumbnails, and Gemini editing](https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/)
 - The Verge
+  - [Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr](https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr)
   - [Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison](https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act)
   - [Logitech’s new Blue Yeti 2 mic adjusts itself to where you are](https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability)
   - [Logitech’s new haptics-based gaming mouse is a little better and $20 more](https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price)
