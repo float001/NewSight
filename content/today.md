@@ -11,6 +11,7 @@
   - [VU#754548: Cinnamon's kotaemon contains improper authorization checks in Kotaemon multi‑user chat handlers](https://kb.cert.org/vuls/id/754548)
 - CoinTelegraph
   - [Bitwise launches first Lighter ETP amid Hyperliquid rivalry](https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US stablecoin adoption could surge with bank-like protections: Visa survey](https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [F5 BIG-IP APM Zero-Day CVE-2026-94127 Exploited for RCE](https://www.cyberkendra.com/2026/09/cve-2026-94127-f5-big-ip-apm-zero-day-exploited.html)
@@ -31,6 +32,7 @@
 - Hacker News Frontpage
   - [28% of job postings on company career sites have been open over 90 days](https://unlisted.careers/ghost-jobs/report/2026-09)
   - [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+  - [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/)
   - [Italian parliament votes for return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567)
 - MIT Technology Review
   - [A congressional representative just proposed killing America’s border tower program](https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/)
@@ -44,6 +46,7 @@
   - [CVE_2026_87902 exploit](https://sploitus.com/exploit?id=92B0C3AF-8D60-58B1-8DE1-6EB8C6EB450B&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Disney+ and Hulu add to the growing trend of streaming inflation](https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/)
+  - [Enveda secures $311M to bring more nature-derived AI drugs into clinical trials](https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/)
   - [Even Americans who use AI every day are worried about it](https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/)
   - [The old cybersecurity model is breaking](https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/)
   - [Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms](https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/)
