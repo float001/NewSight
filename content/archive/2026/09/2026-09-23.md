@@ -32,6 +32,7 @@
   - [‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
 - Ars Technica
   - [Adobe Premiere finally brings powerful video editing to Android, and it's free](https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/)
+  - [America gave up its rare earth edge. China took full advantage.](https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/)
   - [Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting](https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/)
   - [Review: Resident Evil is the fresh take this flagging franchise really needed](https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/)
   - [Small undersea volcanoes may unleash outsized tsunamis](https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/)
@@ -47,6 +48,7 @@
   - [Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis](https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitMEX ends crypto trading, keeps withdrawals open after closure](https://cointelegraph.com/news/bitmex-ends-crypto-trading-withdrawals-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC issues warning over risky prediction market ‘mention’ contracts](https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ESMA to prioritize EU-wide AI and tokenization supervision in 2027](https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [EU watchdogs warn quantum computers could pick crypto’s locks](https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says](https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -55,6 +57,7 @@
   - [Raiffeisen to offer crypto trading across 11 European markets via Bitpanda](https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin cross-border flows surge 78%, defying crypto bear market](https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report](https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Winners and losers of the SEC’s new tokenized stocks rules](https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash gets first European ETP following US ETF launch](https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash’s November upgrade could freeze funds in legacy Sprout pool](https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -100,12 +103,15 @@
   - [Build Customizable, Reusable Project Templates With Node.js](https://hackernoon.com/build-customizable-reusable-project-templates-with-nodejs?source=rss)
   - [Ratio CEO John Cho on Stablecoin FX: Asia's Won-to-Rupiah Payments Without the Dollar](https://hackernoon.com/ratio-ceo-john-cho-on-stablecoin-fx-asias-won-to-rupiah-payments-without-the-dollar?source=rss)
   - [The Real Value of Event-Driven Architecture Isn't Technology: It's Cost Reduction](https://hackernoon.com/the-real-value-of-event-driven-architecture-isnt-technology-its-cost-reduction?source=rss)
+- Horizon3.ai
+  - [Federal & Mission-Critical Security Validation](https://horizon3.ai/intelligence/blogs/federal-mission-critical-security-validation/)
 - IEEE Spectrum
   - [Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member](https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member)
 - infosecurity-magazine.com
   - [EU Auditors Warn Information-Sharing Gaps Are Hindering Cyber Incident Response](https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/)
   - [Ransomware Attacks Reach Record High for 2026](https://www.infosecurity-magazine.com/news/ransomware-attacks-reach-record/)
   - [ShinyHunters Claims FBI Hack Via PeopleSoft Zero Day](https://www.infosecurity-magazine.com/news/shinyhunters-fbi-hack-peoplesoft/)
+  - [Windows Botnet x47.c Offers AI API Draining, 18 Attack Methods](https://www.infosecurity-magazine.com/news/x47c-botnet-ai-api-draining-18/)
 - MIT Technology Review
   - [The Download: India’s smart glasses menace and AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/)
 - NVIDIA AI Blog
@@ -117,6 +123,8 @@
   - [If You’re Regulated Under MiCA, You’re Also Regulated Under DORA](https://www.openzeppelin.com/news/if-youre-regulated-under-mica-youre-also-regulated-under-dora)
 - Panda - 专注于网络空间安全研究
   - [杂谈：聊聊 Jev 与 Laya 的非生成式决策机制](https://www.cnpanda.net/talksafe/jev-laya-non-generative-decision-models.html)
+- PortSwigger Research
+  - [HTTP/3 in Burp Suite - it’s time to find a bigger wordlist](https://portswigger.net/research/http3-in-burp-suite)
 - simonwillison.net
   - [Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war](https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/)
   - [SF October 14th: A Birds of a Feather Session on Agentic Engineering](https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/)
@@ -126,6 +134,7 @@
 - steveblank.com
   - [The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same](https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-never-be-the-same/)
 - TechCrunch
+  - [3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/)
   - [a16z is challenging Silicon Valley’s love for drop-outs by launching a school](https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/)
   - [Anthropic releases Opus 5.5 with lower prices and Fable-level performance](https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/)
   - [Apple could take on Whoop with a new fitness tracker, report says](https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/)
@@ -156,13 +165,16 @@
 - The Decoder
   - [Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent](https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/)
   - [Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less "Claudish" writing](https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/)
+  - [Inside Basecamp Research, the AI startup turning evolution into training data](https://the-decoder.com/inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data/)
   - [OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance](https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/)
 - The Verge
   - [Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta](https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy)
   - [Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity)
   - [Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras](https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style)
   - [Eight Sleep’s new cooling hub is small enough to hide under your bed](https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking)
+  - [McDonald’s is testing ads on its drive-thru menus](https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads)
   - [Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset](https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6)
+  - [Nobody does it like Remedy](https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox)
   - [OpenAI nabs key Patreon execs ahead of upcoming announcement](https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam)
   - [OpenAI wants to consult elite mathematicians about how to not fumble again](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel)
   - [Paramount will need to release way more movies to make this merger work](https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails)
