@@ -7,6 +7,7 @@
   - [【💰】第一次小长途](https://2libra.com/post/travel-tips/gmJDOEw)
   - [【💰】统计行业状况](https://2libra.com/post/industry-inside/tEa3vMP)
   - [今天早晨一言难尽](https://2libra.com/post/small-things/7VxVnK2)
+  - [大肥鱼突然被禁言 4 天](https://2libra.com/post/ai-tools/wegVJf2)
   - [快过节了，大家有什么好书可以推荐一下么。](https://2libra.com/post/good-books/7jJ0nzp)
   - [正在调配中秋徽章中，该徽章在中秋假期那几天可领](https://2libra.com/post/forum-function/CZAuYxd)
   - [生活中的年抛品](https://2libra.com/post/small-things/k46hyVh)
@@ -23,6 +24,7 @@
 - CERT Recently Published Vulnerability Notes
   - [VU#738147: Vendor-signed UEFI Shell applications allow Secure Boot bypass](https://kb.cert.org/vuls/id/738147)
 - CoinTelegraph
+  - [AI potential to drive crypto demand remains ‘underappreciated’: BlackRock](https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Arch Lending eyes tokenized stocks as next collateral market](https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC issues warning over risky prediction market ‘mention’ contracts](https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OpenAI, Anthropic to brief UN Security Council on AI risks: Reports](https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -84,7 +86,9 @@
   - [Snorkel AI triples valuation to $3.5B as demand for AI training data booms](https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/)
   - [TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4](https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/)
   - [Waymo’s latest expansion strategy: teenagers](https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/)
+  - [“We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI](https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/)
 - The Block
+  - [Canada’s big six banks explore tokenized deposit system to modernize payments](https://www.theblock.co/news/business/2026-09-23-canada-banks-tokenized-deposit-system-416129)
   - [CFTC Chairman Selig says markets must prepare for ‘mass tokenization’](https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111)
   - [CFTC warns ‘mention market’ prediction contracts carry heightened manipulation risk](https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120)
   - [Coinbase, Circle shares positioned for crypto recovery as estimates stabilize: William Blair](https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083)
@@ -318,10 +322,21 @@
   - [CVE-2026-95928](https://vulners.com/nvd/NVD:CVE-2026-95928?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95930 iFlytek astron-agent debugToolV2 API endpoint UrlCheckTool.checkUrl server-side request forgery](https://vulners.com/cve/CVE-2026-95930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95930 iFlytek astron-agent debugToolV2 API endpoint UrlCheckTool.checkUrl server-side request forgery](https://vulners.com/cvelist/CVELIST:CVE-2026-95930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96258](https://vulners.com/nvd/NVD:CVE-2026-96258?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Zabbix](https://vulners.com/githubexploit/EB958906-CF39-563D-A802-84228C0B46E9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [20% Off Sephora Promo Code | September 2026](https://www.wired.com/story/sephora-promo-code/)
+  - [30% Off Canon Promo Codes | September 2026](https://www.wired.com/story/canon-promo-code/)
+  - [Google Workspace Promo Codes: 14% Off for September 2026](https://www.wired.com/story/google-workspace-promo-code/)
+  - [Hotels.com Coupon Codes for September 2026](https://www.wired.com/story/hotels-com-coupon/)
   - [How to Claim Your Cut of Apple’s $250 Million Siri Settlement](https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/)
+  - [LG Promo Codes and Coupons for September 2026](https://www.wired.com/story/lg-promo-code/)
+  - [Nike Promo Codes and Discounts: 30% for September 2026](https://www.wired.com/story/nike-promo-code/)
+  - [Nomad Goods Promo Codes: Get 25% Off in September 2026](https://www.wired.com/story/nomad-discount-code/)
   - [Rabbit Is Back, This Time With an AI Agent App](https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/)
+  - [Ray-Ban Promo Codes: Save 50% in September 2026](https://www.wired.com/story/ray-ban-promo-code/)
+  - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)
+  - [Valvoline Coupons and Promo Codes for September 2026](https://www.wired.com/story/valvoline-coupons/)
 - 不安全
   - [A repeatable 5-question checklist for pentesting any JWT token](https://buaq.net/go-444188.html)
   - [pentoo-overlay](https://buaq.net/go-444182.html)
