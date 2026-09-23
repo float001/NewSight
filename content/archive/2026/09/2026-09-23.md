@@ -7,11 +7,13 @@
   - [【💰】第一次小长途](https://2libra.com/post/travel-tips/gmJDOEw)
   - [【💰】统计行业状况](https://2libra.com/post/industry-inside/tEa3vMP)
   - [今天早晨一言难尽](https://2libra.com/post/small-things/7VxVnK2)
+  - [卧槽](https://2libra.com/post/ai-tools/Sw161W9)
   - [大肥鱼突然被禁言 4 天](https://2libra.com/post/ai-tools/wegVJf2)
   - [快过节了，大家有什么好书可以推荐一下么。](https://2libra.com/post/good-books/7jJ0nzp)
   - [正在调配中秋徽章中，该徽章在中秋假期那几天可领](https://2libra.com/post/forum-function/CZAuYxd)
   - [生活中的年抛品](https://2libra.com/post/small-things/k46hyVh)
   - [看不到他人出价这个设计是什么考虑](https://2libra.com/post/forum-function/H-z8kaD)
+  - [非常反感现在很多 AI 味很重的视频，以及文章。](https://2libra.com/post/social-observation/qjcKiaT)
   - [预估的全国及各大城市的开发者数量](https://2libra.com/post/industry-inside/586PFPP)
 - 404 Media
   - [Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center](https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/)
@@ -27,9 +29,13 @@
   - [AI potential to drive crypto demand remains ‘underappreciated’: BlackRock](https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Arch Lending eyes tokenized stocks as next collateral market](https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC issues warning over risky prediction market ‘mention’ contracts](https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says](https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OpenAI, Anthropic to brief UN Security Council on AI risks: Reports](https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report](https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash gets first European ETP following US ETF launch](https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
+  - [Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says](https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
   - [OpenAI, Anthropic to brief UN Security Council on AI risks: Reports](https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [What Is an X Number? X’s New Chat Contact Code Explained](https://www.cyberkendra.com/2026/09/x-numbers-x-chat-private-contact-code.html)
@@ -111,6 +117,8 @@
   - [Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad](https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale)
   - [Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy](https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale)
   - [Trump says US is officially renaming AI ‘super intelligence’](https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence)
+- troyhunt.com
+  - [Weekly Update 522: Live From Oslo with Scott Helme](https://www.troyhunt.com/weekly-update-522/)
 - Vulners.com RSS Feed
   - [CVE-2025-12767](https://vulners.com/nvd/NVD:CVE-2025-12767?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-36084](https://vulners.com/nvd/NVD:CVE-2025-36084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
