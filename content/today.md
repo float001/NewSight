@@ -26,12 +26,14 @@
   - [预估的全国及各大城市的开发者数量](https://2libra.com/post/industry-inside/586PFPP)
   - [领导让出差](https://2libra.com/post/office-life/9EX03gT)
 - 404 Media
+  - [Americans Fear AI Will Make the World Worse, Love It Anyway](https://www.404media.co/americans-love-to-use-ai-but-fear-it-will-make-the-world-worse-according-to-new-study/)
   - [Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center](https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/)
   - [‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
 - Ars Technica
   - [Adobe Premiere finally brings powerful video editing to Android, and it's free](https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/)
   - [Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting](https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/)
   - [Review: Resident Evil is the fresh take this flagging franchise really needed](https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/)
+  - [Small undersea volcanoes may unleash outsized tsunamis](https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/)
   - [Toyota orders workers to train humanoid robots but says humans won't be replaced](https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/)
 - CERT Recently Published Vulnerability Notes
   - [VU#738147: Vendor-signed UEFI Shell applications allow Secure Boot bypass](https://kb.cert.org/vuls/id/738147)
@@ -92,11 +94,14 @@
   - [Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member](https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member)
 - infosecurity-magazine.com
   - [EU Auditors Warn Information-Sharing Gaps Are Hindering Cyber Incident Response](https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/)
+  - [Ransomware Attacks Reach Record High for 2026](https://www.infosecurity-magazine.com/news/ransomware-attacks-reach-record/)
   - [ShinyHunters Claims FBI Hack Via PeopleSoft Zero Day](https://www.infosecurity-magazine.com/news/shinyhunters-fbi-hack-peoplesoft/)
 - NVIDIA AI Blog
   - [At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia](https://blogs.nvidia.com/blog/ai-day-singapore/)
 - OpenAI Blog
   - [Better prompt caching for GPT-6](https://openai.com/index/better-prompt-caching-for-gpt-6)
+- OpenZeppelin Blog
+  - [If You’re Regulated Under MiCA, You’re Also Regulated Under DORA](https://www.openzeppelin.com/news/if-youre-regulated-under-mica-youre-also-regulated-under-dora)
 - Panda - 专注于网络空间安全研究
   - [杂谈：聊聊 Jev 与 Laya 的非生成式决策机制](https://www.cnpanda.net/talksafe/jev-laya-non-generative-decision-models.html)
 - simonwillison.net
@@ -110,6 +115,7 @@
   - [Anthropic releases Opus 5.5 with lower prices and Fable-level performance](https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/)
   - [Apple could take on Whoop with a new fitness tracker, report says](https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/)
   - [Discord’s age verification era is upon us, despite community backlash](https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/)
+  - [Ema raises $77M as AI starts eating into enterprise software and services](https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/)
   - [Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data](https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/)
   - [Meta admits Muse’s likeness to OpenClaw isn’t a coincidence](https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/)
   - [OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/)
@@ -124,6 +130,7 @@
   - [CFTC warns ‘mention market’ prediction contracts carry heightened manipulation risk](https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120)
   - [Coinbase, Circle shares positioned for crypto recovery as estimates stabilize: William Blair](https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083)
   - [Crypto VC Hashed anchors new digital asset private credit fund targeting $300 million](https://www.theblock.co/news/markets/2026-09-22-hashed-private-credit-fund-416013)
+  - [Galaxy adds $100 million in Sky’s sUSDS to treasury, buys SKY token as firms deepen lending ties](https://www.theblock.co/news/business/2026-09-23-galaxy-adds-100-million-in-skys-susds-to-treasury-buys-sky-token-as-firms-deepen-lending-ties-416137)
   - [Solo GP Jed Breed raises $15 million for his second early-stage crypto fund](https://www.theblock.co/news/deals/2026-09-22-jed-breed-vc-second-crypto-fund-416075)
 - The Decoder
   - [Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less "Claudish" writing](https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/)
@@ -452,6 +459,7 @@
   - [CVE-2026-96442 Emacs: emacs: arbitrary code execution, incomplete fix for cve-2024-53920](https://vulners.com/cvelist/CVELIST:CVE-2026-96442?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Cross-site Scripting in Xerox Centreware_Web](https://vulners.com/githubexploit/A31C756C-136E-56B5-89F2-AAEE886B4876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Zabbix](https://vulners.com/githubexploit/EB958906-CF39-563D-A802-84228C0B46E9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Use-after-free when XML includes have duplicated entities](https://vulners.com/rustsec/RUSTSEC-2026-0305?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [20% Off Sephora Promo Code | September 2026](https://www.wired.com/story/sephora-promo-code/)
   - [30% Off Canon Promo Codes | September 2026](https://www.wired.com/story/canon-promo-code/)
@@ -470,12 +478,15 @@
   - [Ray-Ban Promo Codes: Save 50% in September 2026](https://www.wired.com/story/ray-ban-promo-code/)
   - [She’s 28, Loves God and Her Family, and Might Be the Reason You Can’t Have Kids](https://www.wired.com/story/emma-waters-fertility-tech/)
   - [SmartLabels QR Code Organizing System Review (2026): AI Made Sense of My Junk Drawer](https://www.wired.com/review/smartlabels-qr-code-organizing-system/)
+  - [The Best Samsung Phones of 2026: Ultra, Fold, Budget](https://www.wired.com/gallery/best-samsung-phones/)
   - [The Organization Fighting Ebola Has Never Been More Worried](https://www.wired.com/story/organization-fighting-ebola-never-more-worried/)
   - [This App Makes Your Laptop Screen Look Like Paper](https://www.wired.com/story/paperman-makes-your-laptop-screen-look-like-paper/)
   - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)
   - [Valvoline Coupons and Promo Codes for September 2026](https://www.wired.com/story/valvoline-coupons/)
 - 不安全
   - [A repeatable 5-question checklist for pentesting any JWT token](https://buaq.net/go-444188.html)
+  - [evillimiter-ng](https://buaq.net/go-444292.html)
+  - [MicYou – 将安卓手机变成高质量电脑麦克风](https://buaq.net/go-444291.html)
   - [pentoo-overlay](https://buaq.net/go-444182.html)
   - [Web-App-PenTesting](https://buaq.net/go-444191.html)
   - [谷歌确认Chrome for macOS扩展程序加载异常 点击扩展程序时要等待数分钟](https://buaq.net/go-444193.html)
