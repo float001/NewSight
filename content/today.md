@@ -7,6 +7,7 @@
   - [【💰】第一次小长途](https://2libra.com/post/travel-tips/gmJDOEw)
   - [【💰】统计行业状况](https://2libra.com/post/industry-inside/tEa3vMP)
   - [【💰】魔獸世界：永恆 還有準備玩的嗎?](https://2libra.com/post/game-discussion/Grar1Zl)
+  - [主力使用 cursor 开发任务，但最近用起来感觉有点流口水了，而且慢的离谱，天才程序员要陨落了](https://2libra.com/post/ai-programming/aA3hBZb)
   - [今天早晨一言难尽](https://2libra.com/post/small-things/7VxVnK2)
   - [几天没来，站点有不少优化啊。。。哈哈哈哈哈 站长给全部已读妥协了？](https://2libra.com/post/forum-function/QDQNSLP)
   - [卧槽](https://2libra.com/post/ai-tools/Sw161W9)
@@ -15,8 +16,10 @@
   - [快过节了，大家有什么好书可以推荐一下么。](https://2libra.com/post/good-books/7jJ0nzp)
   - [我靠！半天没打开程序坞，打开吓了我一跳，这是啥 bug 啊？](https://2libra.com/post/apple/hI6GHNP)
   - [正在调配中秋徽章中，该徽章在中秋假期那几天可领](https://2libra.com/post/forum-function/CZAuYxd)
+  - [没人讨论 agentrouter 的这个报错吗？ HTTP 400: The content[].thinking in the thinking mode must be passed back to the API.](https://2libra.com/post/ai-gateway/9Z0wQFP)
   - [生活中的年抛品](https://2libra.com/post/small-things/k46hyVh)
   - [看不到他人出价这个设计是什么考虑](https://2libra.com/post/forum-function/H-z8kaD)
+  - [第一次在互联网给自己打广告](https://2libra.com/post/promotion/Mek0daA)
   - [非常反感现在很多 AI 味很重的视频，以及文章。](https://2libra.com/post/social-observation/qjcKiaT)
   - [预估的全国及各大城市的开发者数量](https://2libra.com/post/industry-inside/586PFPP)
 - 404 Media
@@ -32,6 +35,7 @@
 - CoinTelegraph
   - [AI potential to drive crypto demand remains ‘underappreciated’: BlackRock](https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Arch Lending eyes tokenized stocks as next collateral market](https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis](https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC issues warning over risky prediction market ‘mention’ contracts](https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says](https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -57,6 +61,8 @@
   - [Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data](https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data)
 - defend.network
   - [Check Point, WordPress, Zyxel actively exploited; EvilTokens phishing infrastructure seized](https://defend.network/briefings/checkpoint-wordpress-eviltokens-zyxel-exploits-2026-09-23.html)
+- ElcomSoft blog
+  - [Low-Level Extraction of the Apple Watch S4/S5](https://blog.elcomsoft.com/2026/09/low-level-extraction-of-the-apple-watch-s4-s5/)
 - Hacker News Frontpage
   - [16-bit Intel 8088 chip](https://allpoetry.com/16-bit-Intel-8088-chip)
   - [A Faster Shortest Path Algorithm](https://www.vals.ai/blogs/faster-shortest-path-algorithm)
