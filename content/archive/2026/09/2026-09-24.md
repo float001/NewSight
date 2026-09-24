@@ -11,6 +11,7 @@
   - [【💰】做个调查，各位男士陪产假都休了多久](https://2libra.com/post/workplace-stories/DWJlNjS)
   - [【💰】天塌了。Microsoft Authenticator 备份新规](https://2libra.com/post/browser-extensions/qCOB5wU)
   - [【💰】天塌了，今天广西刚宣布婚假+15 天，我两星期前刚领证](https://2libra.com/post/personal-life/gF76dRL)
+  - [【💰】我要大撒币了，提前中秋快乐，55 开概率~](https://2libra.com/post/forum-function/A3kgvpv)
   - [【💰】明天就是中秋假期了](https://2libra.com/post/festival-things/7BLRj2K)
   - [【💰】明日中秋，🐇🌕 🥮 ʜᴀᴘᴘʏ ᴍɪᴅ-ᴀᴜᴛᴜᴍɴ ғᴇsᴛɪᴠᴀʟ 🎑🐇](https://2libra.com/post/festival-things/rLF6leg)
   - [【💰】没人关注 Meta 的 muse 吗？注册免费领 10 亿 token](https://2libra.com/post/promotion/KUPxx1c)
@@ -25,6 +26,7 @@
   - [明天就是中秋节了，你们公司发月饼了吗？](https://2libra.com/post/office-life/vove_QA)
   - [有分发 codex 邀请机会的网站推荐吗？](https://2libra.com/post/recommendations/2efuaji)
   - [有发金币池的吗，求蹭个金币池](https://2libra.com/post/forum-function/rHn5_cz)
+  - [有没有公司没有发月饼的？？](https://2libra.com/post/workplace-stories/GgRl-eA)
   - [深圳就是个“千与千寻里的汤屋”——把欲望、劳动和精力都卷进去，加工成财富。每个人都得找到自己的位置，证明自己有用，才能留下来。](https://2libra.com/post/social-observation/HWr1K90)
   - [置顶时间输入框 bug](https://2libra.com/post/community/9iblXvJ)
   - [这几个分类不展示右侧个人信息了？还是我网卡了？](https://2libra.com/post/community/QEHW_l3)
@@ -41,11 +43,13 @@
   - [VU#754548: Cinnamon's kotaemon contains improper authorization checks in Kotaemon multi‑user chat handlers](https://kb.cert.org/vuls/id/754548)
 - CoinTelegraph
   - [Australia says OpenAI agent hacked government site before Altman warning](https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K](https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare](https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise launches first Lighter ETP amid Hyperliquid rivalry](https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility](https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Former Hack VC partner Hsin-Ju Chuang found dead at 37](https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Institutions held crypto through 50% drawdown, Bitwise finds](https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity](https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US lawmakers from gaming states urge SCOTUS to take up Kalshi case](https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US stablecoin adoption could surge with bank-like protections: Visa survey](https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -79,6 +83,7 @@
   - [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)
 - Hacker News Frontpage
   - [28% of job postings on company career sites have been open over 90 days](https://unlisted.careers/ghost-jobs/report/2026-09)
+  - [AI has no intent and no motivation](https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html)
   - [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
   - [FLAWED's Flaws and What This Means for Industry Research](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/)
   - [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/)
@@ -90,8 +95,11 @@
   - [Why Omarchy Exists](https://mikael.pika.page/posts/why-omarchy-exists)
 - HackerNoon
   - [Meet the Developer Advocate [HackerNoon Interview]](https://hackernoon.com/meet-the-developer-advocate-hackernoon-interview?source=rss)
+- IEEE Spectrum
+  - [Engineering the Substation Exit for Reliability, Capacity, and Expansion](https://content.knowledgehub.wiley.com/aerial-cable-systems-for-substation-exit-construction/)
 - infosecurity-magazine.com
   - [Data Overtakes Skills as Top Threat Hunting Challenge, SANS Study Finds](https://www.infosecurity-magazine.com/news/data-top-bottleneck-barrier-threat/)
+  - [Over 75% of Organizations Experience Microsoft 365 Governance Issues](https://www.infosecurity-magazine.com/news/75-organizations-microsoft-365/)
 - MIT Technology Review
   - [A congressional representative just proposed killing America’s border tower program](https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/)
 - OpenAI Blog
@@ -102,6 +110,8 @@
   - [Machine Speed](https://www.pwndefend.com/2026/09/23/machine-speed/)
 - Sec-News 安全文摘
   - [vCenter pre-auth RCE: CVE-2026-59309/59310](https://govuln.com/news/url/MBKL)
+- Securelist
+  - [MacSync under the microscope: new delivery methods and a new payload](https://securelist.com/macsync-new-version/121383/)
 - Sploitus.com Exploits RSS Feed
   - [CVE_2026_87902 exploit](https://sploitus.com/exploit?id=92B0C3AF-8D60-58B1-8DE1-6EB8C6EB450B&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -121,6 +131,7 @@
 - The Block
   - [Brooklyn man gets up to 12 years over $16 million Coinbase social engineering scheme](https://www.theblock.co/news/regulation/2026-09-24-brooklyn-man-12-years-scheme-416231)
   - [Hut 8 wins bidding for Poolin’s Texas data centers with $140 million offer](https://www.theblock.co/news/business/2026-09-23-hut-8-wins-bidding-poolin-texas-data-centers-140-million-offer-416190)
+  - [IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposit transactions](https://www.theblock.co/news/business/2026-09-24-ibm-connects-digital-asset-haven-to-swift-blockchain-ledger-for-tokenized-deposit-transactions-416237)
   - [‘BTC still has room to catch up’: Bitcoin’s $80,000 breakout draws institutional demand as analysts weigh durability](https://www.theblock.co/news/markets/2026-09-23-bitcoin-breakout-etf-inflows-analysts-k33-nexo-resistance-416182)
   - [‘Not behind closed doors’: Senate Banking Democrats call for prediction markets hearing as GOP meets privately with Kalshi](https://www.theblock.co/news/regulation/2026-09-23-senate-banking-democrats-prediction-markets-hearing-kalshi-416193)
 - The Decoder
@@ -331,6 +342,8 @@
   - [Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV](https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/)
   - [Meta Pinky Promises Its Smart Glasses Will Be Private Soon](https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/)
   - [Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices](https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/)
+  - [The Best Early Prime Day Robot Vacuum Sales Are From Roborock (2026)](https://www.wired.com/story/roborock-early-prime-day-deal-sept-2026/)
+  - [Venus May Have Devoured Its Moon](https://www.wired.com/story/venus-may-have-devoured-its-moon/)
 - 不安全
   - [[下载] 英伟达向Linux推出595.104.02版显卡驱动 修复HDR崩溃和显存分页分配失败](https://buaq.net/go-444458.html)
   - [One URL, Three Different Tricks, (Thu, Sep 24th)](https://buaq.net/go-444462.html)
@@ -343,9 +356,11 @@
   - [为可信智能时代筑基：2026 CSA大中华区大会暨AI+安全大会聚焦基础设施安全与产业实践](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142839&idx=2&sn=23ebebf313d4d0e55184f92b670e47be)
   - [当"运维故障"成为攻击伪装：波兰热电厂事件深度解读](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142839&idx=1&sn=f643296c204f81ce26f49ba2b3ef30b2)
 - 爱范儿
+  - [00 后开发者，给我安利了这几个超好用的鸿蒙新能力](https://www.ifanr.com/1682109?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [5999 起！无需多言｜小米 18 Pro 系列发布会](https://www.ifanr.com/1682002?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [AI 想包办你的一切，高通想包办你的 AI](https://www.ifanr.com/1681946?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，苹果「液态玻璃」缔造者，给 Muse 造了个 AI 拓麻歌子](https://www.ifanr.com/1681928?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [小团队的大创意，为什么能在 HarmonyOS 7 上变为现实？](https://www.ifanr.com/1682085?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车Torcal，888马力](https://www.ifanr.com/1681909?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [高通新王牌：个人 AI 时代来了](https://www.ifanr.com/1682048?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
