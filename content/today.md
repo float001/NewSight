@@ -69,6 +69,7 @@
   - [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/)
   - [Italian parliament votes for return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567)
   - [LensVLM-9B by Apple](https://huggingface.co/papers/2605.07019)
+  - [Six-year-old breaks women's world Rubik's Cube record [video]](https://www.youtube.com/watch?v=UCMRgvyTm08)
   - [We've Turned Starlink into a Planetary Barometer](https://www.spaceweather.com/starlink/starlink_drag_explainer.html)
   - [Why Omarchy Exists](https://mikael.pika.page/posts/why-omarchy-exists)
 - HackerNoon
@@ -291,6 +292,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [AI 想包办你的一切，高通想包办你的 AI](https://www.ifanr.com/1681946?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，苹果「液态玻璃」缔造者，给 Muse 造了个 AI 拓麻歌子](https://www.ifanr.com/1681928?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车Torcal，888马力](https://www.ifanr.com/1681909?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
