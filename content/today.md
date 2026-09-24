@@ -1,8 +1,11 @@
 # 今日安全资讯（2026-09-24）
 
 - 2Libra
+  - [9 月 24 日资本市场大事提醒](https://2libra.com/post/angel-investment/Sy3vGOP)
   - [grok bot 风格头像提示词](https://2libra.com/post/prompts/InNaWjc)
+  - [【💰】今天请我吃一顿 KFC，有超值奖励](https://2libra.com/post/idea/nenc8Hu)
   - [【🔒】生活总是在你放弃的时候又给你希望](https://2libra.com/post/forum-function/E2Mg5Ym)
+  - [这几个分类不展示右侧个人信息了？还是我网卡了？](https://2libra.com/post/community/QEHW_l3)
 - 404 Media
   - [An Invisible Force Has a Mysterious Effect on Aging, Scientists Discover in 'Startling' Breakthrough](https://www.404media.co/earth-magnetic-field-effects-on-aging-study/)
   - [FBI Hack Exposed FBI’s Own Hacking Unit](https://www.404media.co/fbi-hack-exposed-fbis-own-hacking-unit-remote-operations-shinyhunters/)
@@ -18,6 +21,7 @@
   - [Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility](https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Former Hack VC partner Hsin-Ju Chuang found dead at 37](https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity](https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US lawmakers from gaming states urge SCOTUS to take up Kalshi case](https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US stablecoin adoption could surge with bank-like protections: Visa survey](https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -68,6 +72,7 @@
   - [If Amazon doesn’t know how to eliminate carbon emissions, then who does?](https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/)
   - [Meta introduces camera-free AI glasses](https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/)
   - [Meta is trying VR glasses (again), this time with more IMAX](https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/)
+  - [Meta made a Tamagotchi-like wearable for its Muse AI agent](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/)
   - [The old cybersecurity model is breaking](https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/)
   - [VC firm Bessemer now has another $5.75B to invest in (what else?) AI](https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/)
   - [Vogue sent robots down the runway at Vogue World, and people were not impressed](https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/)
@@ -89,6 +94,7 @@
   - [Meta Connect 2026: The 7 biggest announcements](https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced)
   - [Meta Connect 2026: The biggest news and announcements](https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements)
   - [Meta ditches the camera on its newest smart glasses](https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026)
+  - [Meta is making a standalone Muse AI gadget](https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware)
   - [Meta is making Muse more powerful and will let you video chat with it, too](https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026)
   - [Meta’s next VR device isn’t a headset — it’s glasses](https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on)
   - [Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus](https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus)
@@ -135,6 +141,7 @@
   - [CVE-2026-81208](https://vulners.com/nvd/NVD:CVE-2026-81208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81536](https://vulners.com/nvd/NVD:CVE-2026-81536?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81537](https://vulners.com/nvd/NVD:CVE-2026-81537?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82370](https://vulners.com/nvd/NVD:CVE-2026-82370?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82405](https://vulners.com/nvd/NVD:CVE-2026-82405?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82406](https://vulners.com/nvd/NVD:CVE-2026-82406?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82407](https://vulners.com/nvd/NVD:CVE-2026-82407?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -169,8 +176,15 @@
   - [CVE-2026-88837](https://vulners.com/nvd/NVD:CVE-2026-88837?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88839](https://vulners.com/nvd/NVD:CVE-2026-88839?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88840](https://vulners.com/nvd/NVD:CVE-2026-88840?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89078](https://vulners.com/nvd/NVD:CVE-2026-89078?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91775](https://vulners.com/nvd/NVD:CVE-2026-91775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92470](https://vulners.com/nvd/NVD:CVE-2026-92470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92529](https://vulners.com/nvd/NVD:CVE-2026-92529?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92530](https://vulners.com/nvd/NVD:CVE-2026-92530?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92628](https://vulners.com/nvd/NVD:CVE-2026-92628?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92874](https://vulners.com/nvd/NVD:CVE-2026-92874?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93352](https://vulners.com/nvd/NVD:CVE-2026-93352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93577](https://vulners.com/nvd/NVD:CVE-2026-93577?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93769](https://vulners.com/nvd/NVD:CVE-2026-93769?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94118 WordPress Premium Blocks – Gutenberg Blocks for WordPress plugin <= 2.3.17 - Cross Site Scripting (XSS) vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-94118?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94124 WordPress WP EasyCart plugin <= 5.9.4 - SQL Injection vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-94124?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -223,8 +237,12 @@
   - [CVE-2026-96673](https://vulners.com/nvd/NVD:CVE-2026-96673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96674](https://vulners.com/nvd/NVD:CVE-2026-96674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96675](https://vulners.com/nvd/NVD:CVE-2026-96675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96739](https://vulners.com/nvd/NVD:CVE-2026-96739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96751](https://vulners.com/nvd/NVD:CVE-2026-96751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96762](https://vulners.com/nvd/NVD:CVE-2026-96762?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96826](https://vulners.com/nvd/NVD:CVE-2026-96826?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96889](https://vulners.com/nvd/NVD:CVE-2026-96889?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [tumblr-xss-poc](https://vulners.com/githubexploit/144DFE73-7147-5B0E-BB5F-7CB33E2A4281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot](https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/)
   - [Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV](https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/)
@@ -232,3 +250,5 @@
   - [Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices](https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车Torcal，888马力](https://www.ifanr.com/1681909?utm_source=rss&utm_medium=rss&utm_campaign=)
