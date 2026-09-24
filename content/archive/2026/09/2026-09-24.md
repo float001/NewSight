@@ -44,8 +44,10 @@
 - CoinTelegraph
   - [Australia says OpenAI agent hacked government site before Altman warning](https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K](https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high](https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare](https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise launches first Lighter ETP amid Hyperliquid rivalry](https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [EU banking watchdog calls for crypto lending rules under MiCA](https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility](https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Former Hack VC partner Hsin-Ju Chuang found dead at 37](https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -72,6 +74,8 @@
   - [UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks)
 - defend.network
   - [Check Point RCE, MikroTik SSH chain, malicious npm/Terraform packages in active exploitation](https://defend.network/briefings/checkpoint-mikrotik-supply-chain-rce-active-2026-09-24.html)
+- dfarq.homeip.net
+  - [Motorola born September 25, 1928](https://dfarq.homeip.net/motorola-born-on-this-day-in-1928/?utm_source=rss&utm_medium=rss&utm_campaign=motorola-born-on-this-day-in-1928)
 - ElcomSoft blog
   - [Low-Level Extraction the Apple TV 4K 2nd Generation](https://blog.elcomsoft.com/2026/09/low-level-extraction-the-apple-tv-4k-2nd-generation/)
 - Emergent Minds | paddo.dev
@@ -99,7 +103,9 @@
   - [Engineering the Substation Exit for Reliability, Capacity, and Expansion](https://content.knowledgehub.wiley.com/aerial-cable-systems-for-substation-exit-construction/)
 - infosecurity-magazine.com
   - [Data Overtakes Skills as Top Threat Hunting Challenge, SANS Study Finds](https://www.infosecurity-magazine.com/news/data-top-bottleneck-barrier-threat/)
+  - [OpenAI Agent Hacks Australian Medicare Portal](https://www.infosecurity-magazine.com/news/openai-hacks-australian-medicare/)
   - [Over 75% of Organizations Experience Microsoft 365 Governance Issues](https://www.infosecurity-magazine.com/news/75-organizations-microsoft-365/)
+  - [UK Government Shifts to Service-Led Cyber Governance After Stinging Audit](https://www.infosecurity-magazine.com/news/uk-government-service-led-cyber/)
 - MIT Technology Review
   - [A congressional representative just proposed killing America’s border tower program](https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/)
 - OpenAI Blog
@@ -154,11 +160,14 @@
   - [Microsoft’s new Surface Mouse has haptic feedback and a customizable action button](https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback)
   - [Muse is coming to Meta smart glasses](https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features)
 - Vulners.com RSS Feed
+  - [CVE-2026-12227](https://vulners.com/nvd/NVD:CVE-2026-12227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14780](https://vulners.com/nvd/NVD:CVE-2026-14780?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15731](https://vulners.com/nvd/NVD:CVE-2026-15731?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18180](https://vulners.com/nvd/NVD:CVE-2026-18180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18181](https://vulners.com/nvd/NVD:CVE-2026-18181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18184](https://vulners.com/nvd/NVD:CVE-2026-18184?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18185](https://vulners.com/nvd/NVD:CVE-2026-18185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18335](https://vulners.com/nvd/NVD:CVE-2026-18335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18467](https://vulners.com/nvd/NVD:CVE-2026-18467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18490](https://vulners.com/nvd/NVD:CVE-2026-18490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18505](https://vulners.com/nvd/NVD:CVE-2026-18505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -170,7 +179,9 @@
   - [CVE-2026-19179](https://vulners.com/nvd/NVD:CVE-2026-19179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19267](https://vulners.com/nvd/NVD:CVE-2026-19267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3626](https://vulners.com/nvd/NVD:CVE-2026-3626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-4637](https://vulners.com/nvd/NVD:CVE-2026-4637?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4921](https://vulners.com/nvd/NVD:CVE-2026-4921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57590](https://vulners.com/nvd/NVD:CVE-2026-57590?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57854](https://vulners.com/nvd/NVD:CVE-2026-57854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59980 hpack: Unbounded variable integer decoding can cause run-away computation on malformed input](https://vulners.com/cvelist/CVELIST:CVE-2026-59980?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6327](https://vulners.com/nvd/NVD:CVE-2026-6327?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -252,6 +263,7 @@
   - [CVE-2026-92530](https://vulners.com/nvd/NVD:CVE-2026-92530?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92628](https://vulners.com/nvd/NVD:CVE-2026-92628?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92874](https://vulners.com/nvd/NVD:CVE-2026-92874?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92905](https://vulners.com/nvd/NVD:CVE-2026-92905?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93352](https://vulners.com/nvd/NVD:CVE-2026-93352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93577](https://vulners.com/nvd/NVD:CVE-2026-93577?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93661](https://vulners.com/nvd/NVD:CVE-2026-93661?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -339,19 +351,28 @@
   - [xdgmime: heap-based buffer overflow in _xdg_mime_magic_parse_magic_line() in xdgmimemagic.c](https://vulners.com/redhat/RHSA-2026:71404-CVE-2026-16118?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot](https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/)
+  - [An OpenAI Agent Hacked Australia's Health Service. Their Government Found Out Months Later.](https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/)
   - [Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV](https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/)
   - [Meta Pinky Promises Its Smart Glasses Will Be Private Soon](https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/)
   - [Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices](https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/)
+  - [SeaWorld Wants to Make You Horny](https://www.wired.com/story/seaworld-wants-to-make-you-horny/)
   - [The Best Early Prime Day Robot Vacuum Sales Are From Roborock (2026)](https://www.wired.com/story/roborock-early-prime-day-deal-sept-2026/)
+  - [The Ovary Is Surprisingly Active After Menopause. Scientists Are Trying to Figure Out Why](https://www.wired.com/story/ovary-activity-after-menopause/)
   - [Venus May Have Devoured Its Moon](https://www.wired.com/story/venus-may-have-devoured-its-moon/)
+  - [Why This Weekend’s Nor’easter Is Like a Hurricane](https://www.wired.com/story/this-weeks-noreaster-forecast/)
 - 不安全
   - [[下载] 英伟达向Linux推出595.104.02版显卡驱动 修复HDR崩溃和显存分页分配失败](https://buaq.net/go-444458.html)
   - [One URL, Three Different Tricks, (Thu, Sep 24th)](https://buaq.net/go-444462.html)
   - [OpenAI 智能体绕过澳大利亚 Medicare 门户的访问控制，访问了非公开文件](https://buaq.net/go-444464.html)
   - [杀毒软件比特梵德推出面向AI智能体的专用VPN 避免智能体工作时泄露用户真实IP](https://buaq.net/go-444440.html)
   - [长江存储在德国起诉美光侵犯专利初步胜诉 德国法院签发针对美光NAND的禁令](https://buaq.net/go-444467.html)
+- 互联网安全内参
+  - [当黑客交给AI Agent干活：拿下每个目标仅需25美元](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516656&idx=2&sn=d2be84cc68d7a6312e6153581d1fef8a)
+  - [智能体非法入侵政府网站，OpenAI遭一国家总理严厉训诫](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516656&idx=1&sn=f10fa4ab3cdf77d0d6f02c3a87ccf4be)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [阿根廷生育率十年内下降五成](https://www.solidot.org/story?sid=85470)
 - 安全牛
   - [为可信智能时代筑基：2026 CSA大中华区大会暨AI+安全大会聚焦基础设施安全与产业实践](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142839&idx=2&sn=23ebebf313d4d0e55184f92b670e47be)
   - [当"运维故障"成为攻击伪装：波兰热电厂事件深度解读](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142839&idx=1&sn=f643296c204f81ce26f49ba2b3ef30b2)
