@@ -3,8 +3,14 @@
 - 2Libra
   - [9 月 24 日资本市场大事提醒](https://2libra.com/post/angel-investment/Sy3vGOP)
   - [grok bot 风格头像提示词](https://2libra.com/post/prompts/InNaWjc)
+  - [QClaw 官宣停运，大家怎么看？](https://2libra.com/post/tech-news/k-dOgYa)
+  - [【bug】今日热议右侧信息栏没了](https://2libra.com/post/community/tfgfYAR)
+  - [【情報】PSN PS5 《刺客教條：黑旗 同步重置》豪華版 特價！](https://2libra.com/post/psn/gTwJRY9)
   - [【💰】今天请我吃一顿 KFC，有超值奖励](https://2libra.com/post/idea/nenc8Hu)
   - [【🔒】生活总是在你放弃的时候又给你希望](https://2libra.com/post/forum-function/E2Mg5Ym)
+  - [乒羽男团决赛](https://2libra.com/post/sports/f9hSf-C)
+  - [有分发 codex 邀请机会的网站推荐吗？](https://2libra.com/post/recommendations/2efuaji)
+  - [有发金币池的吗，求蹭个金币池](https://2libra.com/post/forum-function/rHn5_cz)
   - [这几个分类不展示右侧个人信息了？还是我网卡了？](https://2libra.com/post/community/QEHW_l3)
 - 404 Media
   - [An Invisible Force Has a Mysterious Effect on Aging, Scientists Discover in 'Startling' Breakthrough](https://www.404media.co/earth-magnetic-field-effects-on-aging-study/)
@@ -47,6 +53,7 @@
 - Hacker News Frontpage
   - [28% of job postings on company career sites have been open over 90 days](https://unlisted.careers/ghost-jobs/report/2026-09)
   - [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+  - [FLAWED's Flaws and What This Means for Industry Research](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/)
   - [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/)
   - [Italian parliament votes for return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567)
   - [LensVLM-9B by Apple](https://huggingface.co/papers/2605.07019)
@@ -69,6 +76,7 @@
   - [Disney+ and Hulu add to the growing trend of streaming inflation](https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/)
   - [Enveda secures $311M to bring more nature-derived AI drugs into clinical trials](https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/)
   - [Even Americans who use AI every day are worried about it](https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/)
+  - [Everything new coming to Meta’s AI agent Muse](https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/)
   - [If Amazon doesn’t know how to eliminate carbon emissions, then who does?](https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/)
   - [Meta introduces camera-free AI glasses](https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/)
   - [Meta is trying VR glasses (again), this time with more IMAX](https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/)
@@ -251,4 +259,5 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [刚刚，苹果「液态玻璃」缔造者，给 Muse 造了个 AI 拓麻歌子](https://www.ifanr.com/1681928?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车Torcal，888马力](https://www.ifanr.com/1681909?utm_source=rss&utm_medium=rss&utm_campaign=)
