@@ -18,6 +18,8 @@
   - [明天就是中秋节了，你们公司发月饼了吗？](https://2libra.com/post/office-life/vove_QA)
   - [有分发 codex 邀请机会的网站推荐吗？](https://2libra.com/post/recommendations/2efuaji)
   - [有发金币池的吗，求蹭个金币池](https://2libra.com/post/forum-function/rHn5_cz)
+  - [深圳就是个“千与千寻里的汤屋”——把欲望、劳动和精力都卷进去，加工成财富。每个人都得找到自己的位置，证明自己有用，才能留下来。](https://2libra.com/post/social-observation/HWr1K90)
+  - [置顶时间输入框 bug](https://2libra.com/post/community/9iblXvJ)
   - [这几个分类不展示右侧个人信息了？还是我网卡了？](https://2libra.com/post/community/QEHW_l3)
   - [静态导航页设计和实现](https://2libra.com/post/website-construction/Yb1Iqyj)
 - 404 Media
@@ -31,6 +33,7 @@
   - [VU#273940: Enterprise Access Management EAM does not rotate RSA keys](https://kb.cert.org/vuls/id/273940)
   - [VU#754548: Cinnamon's kotaemon contains improper authorization checks in Kotaemon multi‑user chat handlers](https://kb.cert.org/vuls/id/754548)
 - CoinTelegraph
+  - [Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare](https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise launches first Lighter ETP amid Hyperliquid rivalry](https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility](https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Former Hack VC partner Hsin-Ju Chuang found dead at 37](https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -38,6 +41,7 @@
   - [Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity](https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US lawmakers from gaming states urge SCOTUS to take up Kalshi case](https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US stablecoin adoption could surge with bank-like protections: Visa survey](https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US weighs overseas push for dollar-backed stablecoins: Bloomberg](https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [F5 BIG-IP APM Zero-Day CVE-2026-94127 Exploited for RCE](https://www.cyberkendra.com/2026/09/cve-2026-94127-f5-big-ip-apm-zero-day-exploited.html)
   - [Linux AF_UNIX Flaw CVE-2026-80521 Enables Container Escape](https://www.cyberkendra.com/2026/09/cve-2026-80521-ubuntu-container-escape-exploit.html)
@@ -267,18 +271,27 @@
   - [CVE-2026-96882 TaleLin lin-cms-spring-boot book Endpoint BookController.java searchBook improper authorization](https://vulners.com/cve/CVE-2026-96882?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96882 TaleLin lin-cms-spring-boot book Endpoint BookController.java searchBook improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-96882?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96889](https://vulners.com/nvd/NVD:CVE-2026-96889?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96892](https://vulners.com/nvd/NVD:CVE-2026-96892?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96898](https://vulners.com/nvd/NVD:CVE-2026-96898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97055](https://vulners.com/nvd/NVD:CVE-2026-97055?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97056](https://vulners.com/nvd/NVD:CVE-2026-97056?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97149](https://vulners.com/cve/CVE-2026-97149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97149](https://vulners.com/cvelist/CVELIST:CVE-2026-97149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97151](https://vulners.com/nvd/NVD:CVE-2026-97151?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97152](https://vulners.com/nvd/NVD:CVE-2026-97152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97155](https://vulners.com/nvd/NVD:CVE-2026-97155?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [tumblr-xss-poc](https://vulners.com/githubexploit/144DFE73-7147-5B0E-BB5F-7CB33E2A4281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot](https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/)
   - [Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV](https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/)
   - [Meta Pinky Promises Its Smart Glasses Will Be Private Soon](https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/)
   - [Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices](https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/)
+- 不安全
+  - [杀毒软件比特梵德推出面向AI智能体的专用VPN 避免智能体工作时泄露用户真实IP](https://buaq.net/go-444440.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [刚刚，苹果「液态玻璃」缔造者，给 Muse 造了个 AI 拓麻歌子](https://www.ifanr.com/1681928?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车Torcal，888马力](https://www.ifanr.com/1681909?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意](https://www.qbitai.com/2026/09/496740.html)
