@@ -27,6 +27,7 @@
   - [ShinyHunters Claims FBI Hack, Theft of Employee Data](https://www.cyberkendra.com/2026/09/shinyhunters-claims-fbi-hack-theft-of-employee-data.html)
 - daringfireball.net
   - [App Store Scam of the Week: ‘Update My Phone & Apps: Guide’ by Tair Olzhasev](https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837)
+  - [Changes to App Tracking Transparency in the E.U.](https://developer.apple.com/app-store/user-privacy-and-data-use/)
   - [‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations](https://support.apple.com/en-us/127848)
   - [★ AppZapper 3000](https://daringfireball.net/2026/09/appzapper_3000)
   - [★ The iPhone 4 ‘Antennagate’ Press Conference Q&A — Finally](https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a)
@@ -45,6 +46,7 @@
   - [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/)
   - [Italian parliament votes for return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567)
   - [LensVLM-9B by Apple](https://huggingface.co/papers/2605.07019)
+  - [We've Turned Starlink into a Planetary Barometer](https://www.spaceweather.com/starlink/starlink_drag_explainer.html)
   - [Why Omarchy Exists](https://mikael.pika.page/posts/why-omarchy-exists)
 - HackerNoon
   - [Meet the Developer Advocate [HackerNoon Interview]](https://hackernoon.com/meet-the-developer-advocate-hackernoon-interview?source=rss)
@@ -64,8 +66,11 @@
   - [Enveda secures $311M to bring more nature-derived AI drugs into clinical trials](https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/)
   - [Even Americans who use AI every day are worried about it](https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/)
   - [If Amazon doesn’t know how to eliminate carbon emissions, then who does?](https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/)
+  - [Meta introduces camera-free AI glasses](https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/)
+  - [Meta is trying VR glasses (again), this time with more IMAX](https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/)
   - [The old cybersecurity model is breaking](https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/)
   - [VC firm Bessemer now has another $5.75B to invest in (what else?) AI](https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/)
+  - [Vogue sent robots down the runway at Vogue World, and people were not impressed](https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/)
   - [Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms](https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/)
 - The Block
   - [Hut 8 wins bidding for Poolin’s Texas data centers with $140 million offer](https://www.theblock.co/news/business/2026-09-23-hut-8-wins-bidding-poolin-texas-data-centers-140-million-offer-416190)
@@ -81,9 +86,14 @@
   - [Logitech’s new Blue Yeti 2 mic adjusts itself to where you are](https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability)
   - [Logitech’s new haptics-based gaming mouse is a little better and $20 more](https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price)
   - [Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch](https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote)
+  - [Meta Connect 2026: The 7 biggest announcements](https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced)
   - [Meta Connect 2026: The biggest news and announcements](https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements)
+  - [Meta ditches the camera on its newest smart glasses](https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026)
+  - [Meta is making Muse more powerful and will let you video chat with it, too](https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026)
+  - [Meta’s next VR device isn’t a headset — it’s glasses](https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on)
   - [Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus](https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus)
   - [Microsoft’s new Surface Mouse has haptic feedback and a customizable action button](https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback)
+  - [Muse is coming to Meta smart glasses](https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features)
 - Vulners.com RSS Feed
   - [CVE-2026-18180](https://vulners.com/nvd/NVD:CVE-2026-18180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18181](https://vulners.com/nvd/NVD:CVE-2026-18181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -218,5 +228,7 @@
 - Wired
   - [AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot](https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/)
   - [Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV](https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/)
+  - [Meta Pinky Promises Its Smart Glasses Will Be Private Soon](https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/)
+  - [Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices](https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
