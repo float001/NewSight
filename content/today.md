@@ -8,6 +8,8 @@
   - [VU#234131: ViewSonic vCast media streaming service allows unauthenticated screen exfiltration and device compromise](https://kb.cert.org/vuls/id/234131)
 - CoinTelegraph
   - [Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs](https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitget confirms $351M security breach, suspends withdrawals](https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [CFTC updates guidance on tokenized assets, blockchain records after failed vote](https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto treasury model loses its edge as stock premiums fade: DWF](https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC](https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -31,6 +33,7 @@
   - [Creatine uptake enhances antitumor immunity](https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4)
   - [Mamdani is the most popular elected official in NYC: poll](https://www.nydailynews.com/2026/09/23/mamdani-is-the-most-popular-elected-official-in-nyc-poll/)
   - [Opus 5.5 is good at explainer videos](https://launchvideo.io)
+  - [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
   - [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
   - [Stable (YC W20) Is Hiring Product Engineers](https://www.usestable.com/careers/product-engineer)
   - [The Board Game of the Alpha Nerds (2014)](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
@@ -64,6 +67,7 @@
   - [ARK Invest brings $1.3 billion venture fund onchain through Securitize](https://www.theblock.co/news/markets/2026-09-24-ark-invest-tokenizes-arkvx-venture-fund-securitize-416294)
   - [Fed proposes reserve limits, capital standards for stablecoin issuers under GENIUS Act](https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336)
   - [JPMorgan says bitcoin crossing $85,000 production cost could ease miner selling pressure](https://www.theblock.co/news/markets/2026-09-24-jpmorgan-bitcoin-production-cost-miners-relief-416283)
+  - [More than $170 million in crypto moves from Bitget wallets to unidentified address](https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345)
   - [New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation](https://www.theblock.co/news/regulation/2026-09-24-new-york-block-polymarket-alleging-illegal-gambling-operation-416279)
   - [Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote](https://www.theblock.co/news/business/2026-09-24-solana-treasury-skyai-keeps-board-shareholder-protest-loses-equity-plan-vote-416298)
 - The Decoder
