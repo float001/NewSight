@@ -2,28 +2,48 @@
 
 - 2Libra
   - [各位中秋节快乐啊，中秋节你们怎么安排](https://2libra.com/post/festival-things/OY2oqCp)
+- 404 Media
+  - [This ‘World of Warcraft: Forever’ Mod Blocks All Interactions With Asmongold Fans](https://www.404media.co/this-world-of-warcraft-forever-mod-blocks-all-interactions-with-asmongold-fans/)
+- CoinTelegraph
+  - [Crypto treasury model loses its edge as stock premiums fade: DWF](https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC](https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [Cloudflare Containers Flaw Exposed Cross-Tenant Disk Data](https://www.cyberkendra.com/2026/09/cloudflare-containers-cross-tenant-disk-data-flaw.html)
 - daringfireball.net
   - [Copland D11E4, Emulated in Your Browser](https://www.pagetable.com/300)
+  - [Ed Zitron’s AI Prediction Track Record](https://danluu.com/zitron/)
+  - [‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’](https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/)
 - Google DeepMind Blog
   - [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/)
+- Hacker News Frontpage
+  - [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
+- IEEE Spectrum
+  - [Mexican EPICS in IEEE Team Builds Portable Educational Platform](https://spectrum.ieee.org/epics-in-ieee-portable-educational)
 - OpenZeppelin Blog
   - [OpenZeppelin Brings Its Security Standard to the TRON Network](https://www.openzeppelin.com/news/openzeppelin-brings-its-security-standard-to-the-tron-network)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Code Injection in Apache Ofbiz](https://sploitus.com/exploit?id=2B4C9A20-D675-5DDA-8852-7C2C54FD78F2&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-site Scripting in Cure53 Dompurify](https://sploitus.com/exploit?id=7B672122-63A3-5FA5-83D6-BCEDD230B126&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-12227](https://sploitus.com/exploit?id=BF64CC8A-E425-51C4-B7CF-76F03FDC7B72&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B](https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/)
+  - [Databricks buys Row Zero and is scouting for more startups to acquire](https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/)
   - [Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS](https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/)
   - [Google tests letting Gemini call businesses for you](https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/)
   - [Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/)
+  - [Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend](https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/)
   - [TechCrunch Founder Summit 2026: Everything you need to know](https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/)
 - The Block
   - [New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation](https://www.theblock.co/news/regulation/2026-09-24-new-york-block-polymarket-alleging-illegal-gambling-operation-416279)
 - The Decoder
   - [AI performance costs are falling faster than those of any previous technology](https://the-decoder.com/ai-performance-costs-are-falling-faster-than-those-of-any-previous-technology/)
   - [Black Forest Labs launches FLUX 3 Action, an open robotics AI model](https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/)
+  - [Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy](https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/)
 - The Verge
   - [It’s sinister that Meta’s Muse AI mascot is so cute](https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute)
+  - [Meta is going to let you build games with AI right on your phone](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games)
+  - [Muse sure looks a lot like OpenClaw](https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike)
+  - [Muse will apparently let you download its entire filesystem](https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem)
   - [Now Google Chrome shares tabs to new devices that save where you were](https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates)
   - [These smart glasses have been recalled for overheating temples causing burns](https://www.theverge.com/tech/1000085/inmo-air3-smart-glasses-recall-cpsc-free-software-update)
 - Vulners.com RSS Feed
