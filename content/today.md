@@ -55,6 +55,7 @@
   - [HIFI raises $37M to expand stablecoin payments, tokenized markets](https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Institutions held crypto through 50% drawdown, Bitwise finds](https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity](https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand](https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US lawmakers from gaming states urge SCOTUS to take up Kalshi case](https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US stablecoin adoption could surge with bank-like protections: Visa survey](https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US weighs overseas push for dollar-backed stablecoins: Bloomberg](https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -73,6 +74,7 @@
   - [★ The iPhone 4 ‘Antennagate’ Press Conference Q&A — Finally](https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a)
 - darkreading
   - [GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks](https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks)
+  - [Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'](https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus)
   - [UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks)
 - defend.network
   - [Check Point RCE, MikroTik SSH chain, malicious npm/Terraform packages in active exploitation](https://defend.network/briefings/checkpoint-mikrotik-supply-chain-rce-active-2026-09-24.html)
@@ -88,6 +90,7 @@
 - Google DeepMind Blog
   - [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)
 - Hacker News Frontpage
+  - ['That's so AI ' What gen Alpha's biggest insult tells us](https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us)
   - [28% of job postings on company career sites have been open over 90 days](https://unlisted.careers/ghost-jobs/report/2026-09)
   - [AI has no intent and no motivation](https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html)
   - [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
@@ -104,19 +107,24 @@
   - [Meet the Developer Advocate [HackerNoon Interview]](https://hackernoon.com/meet-the-developer-advocate-hackernoon-interview?source=rss)
 - IEEE Spectrum
   - [Engineering the Substation Exit for Reliability, Capacity, and Expansion](https://content.knowledgehub.wiley.com/aerial-cable-systems-for-substation-exit-construction/)
+  - [Measure Distant Asteroids With a DIY Rig](https://spectrum.ieee.org/asteroid-shadow)
 - infosecurity-magazine.com
+  - [CISA Charts New "Quality Era" for Global CVE Program](https://www.infosecurity-magazine.com/news/cisa-quality-era-global-cve-program/)
   - [Data Overtakes Skills as Top Threat Hunting Challenge, SANS Study Finds](https://www.infosecurity-magazine.com/news/data-top-bottleneck-barrier-threat/)
   - [OpenAI Agent Hacks Australian Medicare Portal](https://www.infosecurity-magazine.com/news/openai-hacks-australian-medicare/)
   - [Over 75% of Organizations Experience Microsoft 365 Governance Issues](https://www.infosecurity-magazine.com/news/75-organizations-microsoft-365/)
   - [UK Government Shifts to Service-Led Cyber Governance After Stinging Audit](https://www.infosecurity-magazine.com/news/uk-government-service-led-cyber/)
 - MIT Technology Review
   - [A congressional representative just proposed killing America’s border tower program](https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/)
+  - [The Download: a bid to scrap the virtual wall and AI hits Climate Week](https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/)
 - OpenAI Blog
   - [Two years of OpenAI Academy](https://openai.com/index/two-years-of-openai-academy)
 - Product Hunt
   - [Tincan](https://www.producthunt.com/products/tincan-2)
 - PwnDefend
   - [Machine Speed](https://www.pwndefend.com/2026/09/23/machine-speed/)
+- Recent Commits to cve:main
+  - [Update Thu Sep 24 12:46:49 UTC 2026](https://github.com/trickest/cve/commit/655b5e8b3e802011ccb22592adff749bc13e69cc)
 - Sec-News 安全文摘
   - [vCenter pre-auth RCE: CVE-2026-59309/59310](https://govuln.com/news/url/MBKL)
 - Securelist
@@ -127,6 +135,7 @@
   - [CVE_2026_87902 exploit](https://sploitus.com/exploit?id=92B0C3AF-8D60-58B1-8DE1-6EB8C6EB450B&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic says its biology lab has already found something big](https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/)
+  - [Australia to investigate if OpenAI hack of government health website broke the law](https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/)
   - [Disney+ and Hulu add to the growing trend of streaming inflation](https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/)
   - [Enveda secures $311M to bring more nature-derived AI drugs into clinical trials](https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/)
   - [Even Americans who use AI every day are worried about it](https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/)
@@ -144,6 +153,7 @@
   - [HIFI raises $37 million Series A to expand tokenized capital markets infrastructure](https://www.theblock.co/news/business/2026-09-24-hifi-raises-37-million-series-a-to-expand-tokenized-capital-markets-infrastructure-416242)
   - [Hut 8 wins bidding for Poolin’s Texas data centers with $140 million offer](https://www.theblock.co/news/business/2026-09-23-hut-8-wins-bidding-poolin-texas-data-centers-140-million-offer-416190)
   - [IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposit transactions](https://www.theblock.co/news/business/2026-09-24-ibm-connects-digital-asset-haven-to-swift-blockchain-ledger-for-tokenized-deposit-transactions-416237)
+  - [Solana Foundation taps Binance, Polygon vets to drive institutional adoption and payments](https://www.theblock.co/news/ecosystems/2026-09-24-solana-foundation-taps-binance-polygon-vets-to-drive-institutional-adoption-and-payments-416254)
   - [‘BTC still has room to catch up’: Bitcoin’s $80,000 breakout draws institutional demand as analysts weigh durability](https://www.theblock.co/news/markets/2026-09-23-bitcoin-breakout-etf-inflows-analysts-k33-nexo-resistance-416182)
   - [‘Not behind closed doors’: Senate Banking Democrats call for prediction markets hearing as GOP meets privately with Kalshi](https://www.theblock.co/news/regulation/2026-09-23-senate-banking-democrats-prediction-markets-hearing-kalshi-416193)
 - The Decoder
@@ -170,6 +180,7 @@
   - [CVE-2026-12227](https://vulners.com/nvd/NVD:CVE-2026-12227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14780](https://vulners.com/nvd/NVD:CVE-2026-14780?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15731](https://vulners.com/nvd/NVD:CVE-2026-15731?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16302](https://vulners.com/nvd/NVD:CVE-2026-16302?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18180](https://vulners.com/nvd/NVD:CVE-2026-18180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18181](https://vulners.com/nvd/NVD:CVE-2026-18181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18184](https://vulners.com/nvd/NVD:CVE-2026-18184?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -185,8 +196,11 @@
   - [CVE-2026-19125](https://vulners.com/nvd/NVD:CVE-2026-19125?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19179](https://vulners.com/nvd/NVD:CVE-2026-19179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19267](https://vulners.com/nvd/NVD:CVE-2026-19267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19532](https://vulners.com/nvd/NVD:CVE-2026-19532?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-3253](https://vulners.com/nvd/NVD:CVE-2026-3253?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3626](https://vulners.com/nvd/NVD:CVE-2026-3626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4637](https://vulners.com/nvd/NVD:CVE-2026-4637?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-4806](https://vulners.com/nvd/NVD:CVE-2026-4806?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4921](https://vulners.com/nvd/NVD:CVE-2026-4921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57590](https://vulners.com/nvd/NVD:CVE-2026-57590?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57854](https://vulners.com/nvd/NVD:CVE-2026-57854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -205,6 +219,7 @@
   - [CVE-2026-67404 RabbitMQ: OAuth2 silent verify_none fallback for JWKS fetch](https://vulners.com/cvelist/CVELIST:CVE-2026-67404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68490](https://vulners.com/nvd/NVD:CVE-2026-68490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68492](https://vulners.com/nvd/NVD:CVE-2026-68492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-7169](https://vulners.com/nvd/NVD:CVE-2026-7169?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-74991](https://vulners.com/nvd/NVD:CVE-2026-74991?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75884](https://vulners.com/nvd/NVD:CVE-2026-75884?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75887](https://vulners.com/nvd/NVD:CVE-2026-75887?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -353,6 +368,13 @@
   - [CVE-2026-97176](https://vulners.com/nvd/NVD:CVE-2026-97176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97177](https://vulners.com/nvd/NVD:CVE-2026-97177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97181](https://vulners.com/nvd/NVD:CVE-2026-97181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97311](https://vulners.com/nvd/NVD:CVE-2026-97311?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: kernel security update](https://vulners.com/redhat/RHSA-2026:71592?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kernel: crypto: af_alg - Disallow concurrent writes in af_alg_sendmsg](https://vulners.com/redhat/RHSA-2026:71592-CVE-2025-39964?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kernel: net: tun: bound receive headroom](https://vulners.com/redhat/RHSA-2026:71592-CVE-2026-81000?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kernel: pppoe: reload header pointer after dev_hard_header()](https://vulners.com/redhat/RHSA-2026:71592-CVE-2026-68121?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kernel: sctp: prevent peer transport count overflow](https://vulners.com/redhat/RHSA-2026:71592-CVE-2026-74469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kernel: xfrm: ah6: validate routing header segments_left](https://vulners.com/redhat/RHSA-2026:71592-CVE-2026-80844?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Moderate: Red Hat Security Advisory: glib2 security update](https://vulners.com/redhat/RHSA-2026:71404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [tumblr-xss-poc](https://vulners.com/githubexploit/144DFE73-7147-5B0E-BB5F-7CB33E2A4281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [xdgmime: heap-based buffer overflow in _xdg_mime_magic_parse_magic_line() in xdgmimemagic.c](https://vulners.com/redhat/RHSA-2026:71404-CVE-2026-16118?utm_source=rss&utm_medium=rss&utm_campaign=rss)
