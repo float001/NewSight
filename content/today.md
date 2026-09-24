@@ -40,6 +40,7 @@
   - [VU#273940: Enterprise Access Management EAM does not rotate RSA keys](https://kb.cert.org/vuls/id/273940)
   - [VU#754548: Cinnamon's kotaemon contains improper authorization checks in Kotaemon multi‑user chat handlers](https://kb.cert.org/vuls/id/754548)
 - CoinTelegraph
+  - [Australia says OpenAI agent hacked government site before Altman warning](https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare](https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise launches first Lighter ETP amid Hyperliquid rivalry](https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility](https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -49,6 +50,8 @@
   - [US lawmakers from gaming states urge SCOTUS to take up Kalshi case](https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US stablecoin adoption could surge with bank-like protections: Visa survey](https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US weighs overseas push for dollar-backed stablecoins: Bloomberg](https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Australia says OpenAI agent hacked government site before Altman warning](https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [F5 BIG-IP APM Zero-Day CVE-2026-94127 Exploited for RCE](https://www.cyberkendra.com/2026/09/cve-2026-94127-f5-big-ip-apm-zero-day-exploited.html)
   - [Linux AF_UNIX Flaw CVE-2026-80521 Enables Container Escape](https://www.cyberkendra.com/2026/09/cve-2026-80521-ubuntu-container-escape-exploit.html)
@@ -69,6 +72,7 @@
   - [Low-Level Extraction the Apple TV 4K 2nd Generation](https://blog.elcomsoft.com/2026/09/low-level-extraction-the-apple-tv-4k-2nd-generation/)
 - Emergent Minds | paddo.dev
   - [Careful, Not Thorough: Claude Opus 5.5 vs GPT-6 Sol on Real Code](https://paddo.dev/blog/opus-5-5-vs-gpt-6-sol/)
+  - [The Framework Got a Home, the Business Didn't: Tailwind Joins Shopify](https://paddo.dev/blog/tailwind-joins-shopify/)
 - Google AI Blog
   - [Google Beam expands with new regions, partners, and customers](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-expansion/)
 - Google DeepMind Blog
@@ -80,11 +84,14 @@
   - [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/)
   - [Italian parliament votes for return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567)
   - [LensVLM-9B by Apple](https://huggingface.co/papers/2605.07019)
+  - [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
   - [Six-year-old breaks women's world Rubik's Cube record [video]](https://www.youtube.com/watch?v=UCMRgvyTm08)
   - [We've Turned Starlink into a Planetary Barometer](https://www.spaceweather.com/starlink/starlink_drag_explainer.html)
   - [Why Omarchy Exists](https://mikael.pika.page/posts/why-omarchy-exists)
 - HackerNoon
   - [Meet the Developer Advocate [HackerNoon Interview]](https://hackernoon.com/meet-the-developer-advocate-hackernoon-interview?source=rss)
+- infosecurity-magazine.com
+  - [Data Overtakes Skills as Top Threat Hunting Challenge, SANS Study Finds](https://www.infosecurity-magazine.com/news/data-top-bottleneck-barrier-threat/)
 - MIT Technology Review
   - [A congressional representative just proposed killing America’s border tower program](https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/)
 - OpenAI Blog
@@ -112,6 +119,7 @@
   - [Vogue sent robots down the runway at Vogue World, and people were not impressed](https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/)
   - [Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms](https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/)
 - The Block
+  - [Brooklyn man gets up to 12 years over $16 million Coinbase social engineering scheme](https://www.theblock.co/news/regulation/2026-09-24-brooklyn-man-12-years-scheme-416231)
   - [Hut 8 wins bidding for Poolin’s Texas data centers with $140 million offer](https://www.theblock.co/news/business/2026-09-23-hut-8-wins-bidding-poolin-texas-data-centers-140-million-offer-416190)
   - [‘BTC still has room to catch up’: Bitcoin’s $80,000 breakout draws institutional demand as analysts weigh durability](https://www.theblock.co/news/markets/2026-09-23-bitcoin-breakout-etf-inflows-analysts-k33-nexo-resistance-416182)
   - [‘Not behind closed doors’: Senate Banking Democrats call for prediction markets hearing as GOP meets privately with Kalshi](https://www.theblock.co/news/regulation/2026-09-23-senate-banking-democrats-prediction-markets-hearing-kalshi-416193)
@@ -314,7 +322,10 @@
   - [CVE-2026-97168](https://vulners.com/nvd/NVD:CVE-2026-97168?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97176](https://vulners.com/nvd/NVD:CVE-2026-97176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97177](https://vulners.com/nvd/NVD:CVE-2026-97177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97181](https://vulners.com/nvd/NVD:CVE-2026-97181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Moderate: Red Hat Security Advisory: glib2 security update](https://vulners.com/redhat/RHSA-2026:71404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [tumblr-xss-poc](https://vulners.com/githubexploit/144DFE73-7147-5B0E-BB5F-7CB33E2A4281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [xdgmime: heap-based buffer overflow in _xdg_mime_magic_parse_magic_line() in xdgmimemagic.c](https://vulners.com/redhat/RHSA-2026:71404-CVE-2026-16118?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot](https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/)
   - [Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV](https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/)
@@ -325,14 +336,17 @@
   - [One URL, Three Different Tricks, (Thu, Sep 24th)](https://buaq.net/go-444462.html)
   - [OpenAI 智能体绕过澳大利亚 Medicare 门户的访问控制，访问了非公开文件](https://buaq.net/go-444464.html)
   - [杀毒软件比特梵德推出面向AI智能体的专用VPN 避免智能体工作时泄露用户真实IP](https://buaq.net/go-444440.html)
+  - [长江存储在德国起诉美光侵犯专利初步胜诉 德国法院签发针对美光NAND的禁令](https://buaq.net/go-444467.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全牛
   - [为可信智能时代筑基：2026 CSA大中华区大会暨AI+安全大会聚焦基础设施安全与产业实践](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142839&idx=2&sn=23ebebf313d4d0e55184f92b670e47be)
   - [当"运维故障"成为攻击伪装：波兰热电厂事件深度解读](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142839&idx=1&sn=f643296c204f81ce26f49ba2b3ef30b2)
 - 爱范儿
+  - [5999 起！无需多言｜小米 18 Pro 系列发布会](https://www.ifanr.com/1682002?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [AI 想包办你的一切，高通想包办你的 AI](https://www.ifanr.com/1681946?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，苹果「液态玻璃」缔造者，给 Muse 造了个 AI 拓麻歌子](https://www.ifanr.com/1681928?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车Torcal，888马力](https://www.ifanr.com/1681909?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [高通新王牌：个人 AI 时代来了](https://www.ifanr.com/1682048?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意](https://www.qbitai.com/2026/09/496740.html)
