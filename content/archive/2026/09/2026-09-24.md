@@ -34,6 +34,7 @@
 - 404 Media
   - [An Invisible Force Has a Mysterious Effect on Aging, Scientists Discover in 'Startling' Breakthrough](https://www.404media.co/earth-magnetic-field-effects-on-aging-study/)
   - [FBI Hack Exposed FBI’s Own Hacking Unit](https://www.404media.co/fbi-hack-exposed-fbis-own-hacking-unit-remote-operations-shinyhunters/)
+  - [Watch Body Cam of Man Arrested for Just Cussing at a County Meeting](https://www.404media.co/watch-body-cam-of-man-arrested-for-just-cussing-at-a-county-meeting/)
 - Ars Technica
   - [XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them](https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/)
 - Blog - Praetorian
@@ -53,6 +54,7 @@
   - [Former Hack VC partner Hsin-Ju Chuang found dead at 37](https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [HIFI raises $37M to expand stablecoin payments, tokenized markets](https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [IBM opens beta Swift ledger link for 24/7 tokenized deposits](https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Institutions held crypto through 50% drawdown, Bitwise finds](https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity](https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand](https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -73,6 +75,7 @@
   - [★ AppZapper 3000](https://daringfireball.net/2026/09/appzapper_3000)
   - [★ The iPhone 4 ‘Antennagate’ Press Conference Q&A — Finally](https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a)
 - darkreading
+  - [Ghost Service Accounts Enable M365 Data Theft in Chile](https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile)
   - [GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks](https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks)
   - [Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'](https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus)
   - [UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks)
@@ -132,8 +135,10 @@
 - shkspr.mobi
   - [Some thoughts on HTML's proposed previewsrc attribute](https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/)
 - Sploitus.com Exploits RSS Feed
+  - [AD-Exploitation](https://sploitus.com/exploit?id=96432779-7ACC-52D1-9B5B-CEE866C33609&utm_source=rss&utm_medium=rss)
   - [CVE_2026_87902 exploit](https://sploitus.com/exploit?id=92B0C3AF-8D60-58B1-8DE1-6EB8C6EB450B&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend](https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/)
   - [Anthropic says its biology lab has already found something big](https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/)
   - [Australia to investigate if OpenAI hack of government health website broke the law](https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/)
   - [Disney+ and Hulu add to the growing trend of streaming inflation](https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/)
@@ -158,11 +163,15 @@
   - [‘Not behind closed doors’: Senate Banking Democrats call for prediction markets hearing as GOP meets privately with Kalshi](https://www.theblock.co/news/regulation/2026-09-23-senate-banking-democrats-prediction-markets-hearing-kalshi-416193)
 - The Decoder
   - [ChatGPT Voice gets closer to "Her" with email, calendar, and Slack access](https://the-decoder.com/chatgpt-voice-gets-closer-to-her-with-email-calendar-and-slack-access/)
+  - [Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door](https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door/)
   - [Google's new Flash TTS models let you design AI voices from scratch using text descriptions](https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions/)
+  - [Meta gives its Muse AI agent video avatars, email addresses, and Mac control](https://the-decoder.com/meta-gives-its-muse-ai-agent-video-avatars-email-addresses-and-mac-control/)
+  - [OpenAI's agents went after government and university sites months before Hugging Face](https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face/)
   - [YouTube adds AI tools to Creator Studio with script coaching, smart thumbnails, and Gemini editing](https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/)
 - The Verge
   - [Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr](https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr)
   - [Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison](https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act)
+  - [Everything is spying on you and there&#8217;s no opting out](https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance)
   - [Logitech’s new Blue Yeti 2 mic adjusts itself to where you are](https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability)
   - [Logitech’s new haptics-based gaming mouse is a little better and $20 more](https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price)
   - [Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch](https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote)
@@ -171,11 +180,13 @@
   - [Meta ditches the camera on its newest smart glasses](https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026)
   - [Meta is making a standalone Muse AI gadget](https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware)
   - [Meta is making Muse more powerful and will let you video chat with it, too](https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026)
+  - [Meta’s Muse AI Charms can interact with each other](https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem)
   - [Meta’s next VR device isn’t a headset — it’s glasses](https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on)
   - [Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus](https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus)
   - [Microsoft’s new Surface Mouse has haptic feedback and a customizable action button](https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback)
   - [Muse is coming to Meta smart glasses](https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features)
   - [OpenAI agents hacked an Australian government website in search for data](https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data)
+  - [Waymo’s driverless cars continue to crash less often than people](https://www.theverge.com/transportation/999891/waymo-safety-data-injury-crash-human-driver)
 - Vulners.com RSS Feed
   - [CVE-2026-12227](https://vulners.com/nvd/NVD:CVE-2026-12227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14780](https://vulners.com/nvd/NVD:CVE-2026-14780?utm_source=rss&utm_medium=rss&utm_campaign=rss)
