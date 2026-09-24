@@ -4,8 +4,11 @@
   - [各位中秋节快乐啊，中秋节你们怎么安排](https://2libra.com/post/festival-things/OY2oqCp)
 - 404 Media
   - [This ‘World of Warcraft: Forever’ Mod Blocks All Interactions With Asmongold Fans](https://www.404media.co/this-world-of-warcraft-forever-mod-blocks-all-interactions-with-asmongold-fans/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#234131: ViewSonic vCast media streaming service allows unauthenticated screen exfiltration and device compromise](https://kb.cert.org/vuls/id/234131)
 - CoinTelegraph
   - [Crypto treasury model loses its edge as stock premiums fade: DWF](https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC](https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Cloudflare Containers Flaw Exposed Cross-Tenant Disk Data](https://www.cyberkendra.com/2026/09/cloudflare-containers-cross-tenant-disk-data-flaw.html)
@@ -23,6 +26,7 @@
   - [Creatine uptake enhances antitumor immunity](https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4)
   - [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
   - [Stable (YC W20) Is Hiring Product Engineers](https://www.usestable.com/careers/product-engineer)
+  - [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
 - IEEE Spectrum
   - [Mexican EPICS in IEEE Team Builds Portable Educational Platform](https://spectrum.ieee.org/epics-in-ieee-portable-educational)
 - OpenZeppelin Blog
@@ -33,6 +37,7 @@
   - [Exploit for CVE-2026-12227](https://sploitus.com/exploit?id=BF64CC8A-E425-51C4-B7CF-76F03FDC7B72&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B](https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/)
+  - [Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/)
   - [Databricks buys Row Zero and is scouting for more startups to acquire](https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/)
   - [Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS](https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/)
   - [Google tests letting Gemini call businesses for you](https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/)
@@ -48,12 +53,15 @@
   - [ARK Invest brings $1.3 billion venture fund onchain through Securitize](https://www.theblock.co/news/markets/2026-09-24-ark-invest-tokenizes-arkvx-venture-fund-securitize-416294)
   - [JPMorgan says bitcoin crossing $85,000 production cost could ease miner selling pressure](https://www.theblock.co/news/markets/2026-09-24-jpmorgan-bitcoin-production-cost-miners-relief-416283)
   - [New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation](https://www.theblock.co/news/regulation/2026-09-24-new-york-block-polymarket-alleging-illegal-gambling-operation-416279)
+  - [Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote](https://www.theblock.co/news/business/2026-09-24-solana-treasury-skyai-keeps-board-shareholder-protest-loses-equity-plan-vote-416298)
 - The Decoder
   - [AI performance costs are falling faster than those of any previous technology](https://the-decoder.com/ai-performance-costs-are-falling-faster-than-those-of-any-previous-technology/)
   - [Black Forest Labs launches FLUX 3 Action, an open robotics AI model](https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/)
   - [Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy](https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/)
   - [Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update](https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/)
+  - [Top AI experts badly underestimated how fast the field is moving, study finds](https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/)
 - The Verge
+  - [Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face)
   - [It’s sinister that Meta’s Muse AI mascot is so cute](https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute)
   - [Meta is going to let you build games with AI right on your phone](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games)
   - [Muse sure looks a lot like OpenClaw](https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike)
@@ -142,6 +150,7 @@
   - [Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions](https://vulners.com/thn/THN:6C4077947C8EFF6602F141569AFFDC38?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Google’s Gemini Can Now Make Calls for You on Pixel Phones](https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/)
+  - [I Think I Found an AI Agent Worth the Risk](https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
