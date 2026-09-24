@@ -47,10 +47,12 @@
   - [Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high](https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare](https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise launches first Lighter ETP amid Hyperliquid rivalry](https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Era of pure crypto exchanges is ending, Bybit CEO says](https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [EU banking watchdog calls for crypto lending rules under MiCA](https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility](https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Former Hack VC partner Hsin-Ju Chuang found dead at 37](https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [HIFI raises $37M to expand stablecoin payments, tokenized markets](https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Institutions held crypto through 50% drawdown, Bitwise finds](https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity](https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US lawmakers from gaming states urge SCOTUS to take up Kalshi case](https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -95,6 +97,7 @@
   - [LensVLM-9B by Apple](https://huggingface.co/papers/2605.07019)
   - [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
   - [Six-year-old breaks women's world Rubik's Cube record [video]](https://www.youtube.com/watch?v=UCMRgvyTm08)
+  - [The newest ESP32 can run Linux and it's getting close to a Raspberry Pi](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/)
   - [We've Turned Starlink into a Planetary Barometer](https://www.spaceweather.com/starlink/starlink_drag_explainer.html)
   - [Why Omarchy Exists](https://mikael.pika.page/posts/why-omarchy-exists)
 - HackerNoon
@@ -118,6 +121,8 @@
   - [vCenter pre-auth RCE: CVE-2026-59309/59310](https://govuln.com/news/url/MBKL)
 - Securelist
   - [MacSync under the microscope: new delivery methods and a new payload](https://securelist.com/macsync-new-version/121383/)
+- shkspr.mobi
+  - [Some thoughts on HTML's proposed previewsrc attribute](https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/)
 - Sploitus.com Exploits RSS Feed
   - [CVE_2026_87902 exploit](https://sploitus.com/exploit?id=92B0C3AF-8D60-58B1-8DE1-6EB8C6EB450B&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -136,6 +141,7 @@
   - [Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms](https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/)
 - The Block
   - [Brooklyn man gets up to 12 years over $16 million Coinbase social engineering scheme](https://www.theblock.co/news/regulation/2026-09-24-brooklyn-man-12-years-scheme-416231)
+  - [HIFI raises $37 million Series A to expand tokenized capital markets infrastructure](https://www.theblock.co/news/business/2026-09-24-hifi-raises-37-million-series-a-to-expand-tokenized-capital-markets-infrastructure-416242)
   - [Hut 8 wins bidding for Poolin’s Texas data centers with $140 million offer](https://www.theblock.co/news/business/2026-09-23-hut-8-wins-bidding-poolin-texas-data-centers-140-million-offer-416190)
   - [IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposit transactions](https://www.theblock.co/news/business/2026-09-24-ibm-connects-digital-asset-haven-to-swift-blockchain-ledger-for-tokenized-deposit-transactions-416237)
   - [‘BTC still has room to catch up’: Bitcoin’s $80,000 breakout draws institutional demand as analysts weigh durability](https://www.theblock.co/news/markets/2026-09-23-bitcoin-breakout-etf-inflows-analysts-k33-nexo-resistance-416182)
@@ -159,6 +165,7 @@
   - [Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus](https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus)
   - [Microsoft’s new Surface Mouse has haptic feedback and a customizable action button](https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback)
   - [Muse is coming to Meta smart glasses](https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features)
+  - [OpenAI agents hacked an Australian government website in search for data](https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data)
 - Vulners.com RSS Feed
   - [CVE-2026-12227](https://vulners.com/nvd/NVD:CVE-2026-12227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14780](https://vulners.com/nvd/NVD:CVE-2026-14780?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -353,6 +360,7 @@
   - [AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot](https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/)
   - [An OpenAI Agent Hacked Australia's Health Service. Their Government Found Out Months Later.](https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/)
   - [Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV](https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/)
+  - [Bose Ultra Open Earbuds Are $100 Off Right Now](https://www.wired.com/story/bose-ultra-open-deal-september-2026/)
   - [Meta Pinky Promises Its Smart Glasses Will Be Private Soon](https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/)
   - [Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices](https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/)
   - [SeaWorld Wants to Make You Horny](https://www.wired.com/story/seaworld-wants-to-make-you-horny/)
