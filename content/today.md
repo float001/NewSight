@@ -12,11 +12,15 @@
   - [【💰】天塌了。Microsoft Authenticator 备份新规](https://2libra.com/post/browser-extensions/qCOB5wU)
   - [【💰】天塌了，今天广西刚宣布婚假+15 天，我两星期前刚领证](https://2libra.com/post/personal-life/gF76dRL)
   - [【💰】明天就是中秋假期了](https://2libra.com/post/festival-things/7BLRj2K)
+  - [【💰】明日中秋，🐇🌕 🥮 ʜᴀᴘᴘʏ ᴍɪᴅ-ᴀᴜᴛᴜᴍɴ ғᴇsᴛɪᴠᴀʟ 🎑🐇](https://2libra.com/post/festival-things/rLF6leg)
+  - [【💰】没人关注 Meta 的 muse 吗？注册免费领 10 亿 token](https://2libra.com/post/promotion/KUPxx1c)
   - [【💰】还有 Windows Phone 8 的遗老吗，做了一个 Metro 风格的播放器](https://2libra.com/post/personal-works/PGmSW8g)
   - [【🔒】生活总是在你放弃的时候又给你希望](https://2libra.com/post/forum-function/E2Mg5Ym)
   - [乒羽男团决赛](https://2libra.com/post/sports/f9hSf-C)
   - [你们都可以随机打赏嘛](https://2libra.com/post/forum-function/lp1wGlA)
   - [你现在穿的衣服多少钱?](https://2libra.com/post/small-things/hu8hXuN)
+  - [关于咖啡，想问大家一个问题](https://2libra.com/post/questions/G0L4AA7)
+  - [才知道 PUTTY 的官网这么复杂](https://2libra.com/post/devops/iop7lVQ)
   - [新的潘多拉](https://2libra.com/post/forum-function/9ZqFk1i)
   - [明天就是中秋节了，你们公司发月饼了吗？](https://2libra.com/post/office-life/vove_QA)
   - [有分发 codex 邀请机会的网站推荐吗？](https://2libra.com/post/recommendations/2efuaji)
@@ -61,6 +65,8 @@
   - [UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks)
 - defend.network
   - [Check Point RCE, MikroTik SSH chain, malicious npm/Terraform packages in active exploitation](https://defend.network/briefings/checkpoint-mikrotik-supply-chain-rce-active-2026-09-24.html)
+- ElcomSoft blog
+  - [Low-Level Extraction the Apple TV 4K 2nd Generation](https://blog.elcomsoft.com/2026/09/low-level-extraction-the-apple-tv-4k-2nd-generation/)
 - Emergent Minds | paddo.dev
   - [Careful, Not Thorough: Claude Opus 5.5 vs GPT-6 Sol on Real Code](https://paddo.dev/blog/opus-5-5-vs-gpt-6-sol/)
 - Google AI Blog
@@ -317,9 +323,13 @@
 - 不安全
   - [[下载] 英伟达向Linux推出595.104.02版显卡驱动 修复HDR崩溃和显存分页分配失败](https://buaq.net/go-444458.html)
   - [One URL, Three Different Tricks, (Thu, Sep 24th)](https://buaq.net/go-444462.html)
+  - [OpenAI 智能体绕过澳大利亚 Medicare 门户的访问控制，访问了非公开文件](https://buaq.net/go-444464.html)
   - [杀毒软件比特梵德推出面向AI智能体的专用VPN 避免智能体工作时泄露用户真实IP](https://buaq.net/go-444440.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全牛
+  - [为可信智能时代筑基：2026 CSA大中华区大会暨AI+安全大会聚焦基础设施安全与产业实践](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142839&idx=2&sn=23ebebf313d4d0e55184f92b670e47be)
+  - [当"运维故障"成为攻击伪装：波兰热电厂事件深度解读](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142839&idx=1&sn=f643296c204f81ce26f49ba2b3ef30b2)
 - 爱范儿
   - [AI 想包办你的一切，高通想包办你的 AI](https://www.ifanr.com/1681946?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，苹果「液态玻璃」缔造者，给 Muse 造了个 AI 拓麻歌子](https://www.ifanr.com/1681928?utm_source=rss&utm_medium=rss&utm_campaign=)
