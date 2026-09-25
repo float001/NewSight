@@ -32,7 +32,10 @@
   - [Victoria Song on Meta Muse’s Cuteness](https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFlVU9GbXpuZFUiLCJwIjoiL2NvbHVtbi85OTk5OTkvb3B0aW1pemVyLW1ldGEtbXVzZS1haS1jdXRlIiwiZXhwIjoxNzkwNzAxNDAwLCJpYXQiOjE3OTAyNjk0MDB9.chaHCz3wgiI4jn9EzA11I7fHhqQkEmn17aCiXtOBPEU)
   - [‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’](https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/)
 - darkreading
+  - [Russia's Hybrid Cyber-Physical War in Europe Heats Up](https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe)
   - [SectopRAT Returns, Hiding Inside a Legitimate Application](https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application)
+- defend.network
+  - [Microsoft, WSO2, Adobe vulnerabilities under active exploitation; Roundcube actively abused](https://defend.network/briefings/microsoft-wso2-adobe-critical-exploits-active-2026-09-25.html)
 - Der Flounder
   - [App Settings declarative management may block unsigned apps on macOS Golden Gate](https://derflounder.wordpress.com/2026/09/24/app-settings-declarative-management-may-block-unsigned-apps-on-macos-golden-gate/)
 - Google DeepMind Blog
@@ -51,8 +54,12 @@
   - [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
 - IEEE Spectrum
   - [Mexican EPICS in IEEE Team Builds Portable Educational Platform](https://spectrum.ieee.org/epics-in-ieee-portable-educational)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-09-24: Files for an ISC Diary (Macfinger ClickFix activity)](https://www.malware-traffic-analysis.net/2026/09/24/index.html)
 - OpenZeppelin Blog
   - [OpenZeppelin Brings Its Security Standard to the TRON Network](https://www.openzeppelin.com/news/openzeppelin-brings-its-security-standard-to-the-tron-network)
+- Product Hunt
+  - [10xJoy](https://www.producthunt.com/products/10xjoy)
 - rtl-sdr.com
   - [Demod Analyzer: Analyze Digital Modulation (BPSK, QPSK, 16-QAM) in IQ Files](https://www.rtl-sdr.com/demod-analyzer-analyze-digital-modulation-bpsk-qpsk-16-qam-in-iq-files/)
 - simonwillison.net
@@ -236,6 +243,7 @@
   - [CVE-2026-97649](https://vulners.com/nvd/NVD:CVE-2026-97649?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97650 ningzichun student-management-system addLog.php echo cross site scripting](https://vulners.com/cve/CVE-2026-97650?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97650 ningzichun student-management-system addLog.php echo cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-97650?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97721](https://vulners.com/nvd/NVD:CVE-2026-97721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97723](https://vulners.com/nvd/NVD:CVE-2026-97723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97724](https://vulners.com/cve/CVE-2026-97724?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97724](https://vulners.com/cvelist/CVELIST:CVE-2026-97724?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -265,6 +273,9 @@
   - [「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114142&idx=1&sn=296195777313bb24520e13b40a66c6b9)
 - 爱范儿
   - [早报｜网易云音乐鸿蒙版正式上线/任正非重申「华为不造车」/腾讯QClaw将停运](https://www.ifanr.com/1682171?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [华为大模型双子星联手创业，要找物理世界的Scaling Law](https://www.qbitai.com/2026/09/497070.html)
+  - [呃…小扎「自研Manus」刚成Meta太子，就塌房了](https://www.qbitai.com/2026/09/497060.html)
 - 阿小信的博客
   - [图片站程序化SEO入门：从建站到变现的完整路径](https://blog.axiaoxin.com/post/programmatic-seo-image-site-guide/)
   - [独立开发者网站广告变现完整策略：站长实操指南](https://blog.axiaoxin.com/post/adsterra-ad-monetization/)
