@@ -1,16 +1,21 @@
 # 今日安全资讯（2026-09-25）
 
 - 2Libra
+  - [hermes 官方提供了免费的 stealth/space-bunny-alpha](https://2libra.com/post/large-models/Az3NKUz)
   - [【中秋礼物】杯子和月饼的完美搭配 🥮🥮🥮](https://2libra.com/post/festival-things/hRoC9lV)
   - [【兑换码】中秋快乐，各位来领金币红包啦](https://2libra.com/post/festival-things/H0nikT7)
   - [【💰】中秋快乐，愿月圆人团圆，事事皆圆满！](https://2libra.com/post/festival-things/91IfQoh)
+  - [【💰】今天同时获得了两个徽章,好开心!祝大家中秋节快乐~](https://2libra.com/post/forum-function/j0Lvs9y)
   - [【💰】大家中秋节准备干嘛？](https://2libra.com/post/festival-things/e6umj2z)
   - [严重的声控，该不该换个城市生活](https://2libra.com/post/love/fgSqDak)
+  - [中秋佳节 西湖骑行打卡](https://2libra.com/post/travel-logs/hfiGAb2)
   - [各位中秋节快乐啊，中秋节你们怎么安排](https://2libra.com/post/festival-things/OY2oqCp)
   - [没有月饼，但是有新的小徽章了！](https://2libra.com/post/forum-function/tzyopWu)
   - [解压的魔法小游戏](https://2libra.com/post/game-share/wbbNNz2)
 - 404 Media
   - [This ‘World of Warcraft: Forever’ Mod Blocks All Interactions With Asmongold Fans](https://www.404media.co/this-world-of-warcraft-forever-mod-blocks-all-interactions-with-asmongold-fans/)
+- Ben's Bites
+  - [50 years of tech devices](https://www.bensbites.com/p/50-years-of-tech-devices)
 - CERT Recently Published Vulnerability Notes
   - [VU#234131: ViewSonic vCast media streaming service allows unauthenticated screen exfiltration and device compromise](https://kb.cert.org/vuls/id/234131)
 - CoinTelegraph
@@ -22,6 +27,7 @@
   - [CFTC updates guidance on tokenized assets, blockchain records after failed vote](https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CoinMarketCap buys CoinGlass to expand crypto derivatives data](https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto treasury model loses its edge as stock premiums fade: DWF](https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Exchanges reporting crypto gains to IRS becomes tax nightmare](https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed proposes new capital, redemption rules for stablecoin issuers](https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [IBIT options price trading more calmly after Bitcoin rebound](https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -56,6 +62,8 @@
   - [App Settings declarative management may block unsigned apps on macOS Golden Gate](https://derflounder.wordpress.com/2026/09/24/app-settings-declarative-management-may-block-unsigned-apps-on-macos-golden-gate/)
 - Emergent Minds | paddo.dev
   - [Three Seats, One Mac: Running Multiple Claude Code Accounts With Shared Config](https://paddo.dev/blog/three-seats-one-mac/)
+- filfre.net
+  - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/)
 - Google DeepMind Blog
   - [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/)
 - GuidePoint Security
@@ -75,12 +83,15 @@
   - [The Test](https://tante.cc/2026/09/24/the-test/)
   - [Uproar in France over award-winning author accused of using AI](https://www.bbc.com/news/articles/ck7v4y45893go)
   - [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
+- Hacking Articles
+  - [Windows Privilege Escalation: SeManageVolumePrivilege](https://www.hackingarticles.in/windows-privilege-escalation-semanagevolumeprivilege/)
 - IEEE Spectrum
   - [Mexican EPICS in IEEE Team Builds Portable Educational Platform](https://spectrum.ieee.org/epics-in-ieee-portable-educational)
 - infosecurity-magazine.com
   - [CISA Unveils Election Security Plan Ahead of 2026 Midterms](https://www.infosecurity-magazine.com/news/cisa-election-security-midterms/)
   - [RemControl Banking Trojan Gives Attackers Remote Control of Android Devices](https://www.infosecurity-magazine.com/news/banking-trojan-remote-control/)
   - [Researchers Identify AliExpress Phishing Domains Before Registration](https://www.infosecurity-magazine.com/news/aliexpress-phishing-flagged-early/)
+  - [Zero-Click Vulnerabilities in Salesforce Agentforce Expose Wider AI Agent Risk](https://www.infosecurity-magazine.com/news/vulnerabilities-salesforce-ai/)
 - johndcook.com
   - [Servers in dawn-dusk orbit](https://www.johndcook.com/blog/2026/09/25/dawn-dusk-orbit/)
 - Malware-Traffic-Analysis.net - Blog Entries
@@ -107,6 +118,7 @@
   - [Exploit for CVE-2026-12227](https://sploitus.com/exploit?id=BF64CC8A-E425-51C4-B7CF-76F03FDC7B72&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-87902](https://sploitus.com/exploit?id=0304011F-5F13-5AAB-B224-74810D295732&utm_source=rss&utm_medium=rss)
   - [Exploit for HTTP Request Smuggling in Apache Http_Server](https://sploitus.com/exploit?id=EAA88933-B773-535C-8E65-20383D59A2FE&utm_source=rss&utm_medium=rss)
+  - [Jee-Balangan-MegaQuagga-Penetration-Test exploit](https://sploitus.com/exploit?id=5E27BBFA-C860-535E-BE54-0113D575C787&utm_source=rss&utm_medium=rss)
   - [kj33-cpe-root-shell exploit](https://sploitus.com/exploit?id=520D7515-00FA-5BEA-B57E-FCB7B9203426&utm_source=rss&utm_medium=rss)
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=79451CF4-C409-598A-9C2C-EA829C282F2F&utm_source=rss&utm_medium=rss)
   - [penetration-testing-system-network-security exploit](https://sploitus.com/exploit?id=DDF95093-1A4F-5552-BDB7-885E84D82C3E&utm_source=rss&utm_medium=rss)
@@ -120,11 +132,13 @@
   - [Databricks buys Row Zero and is scouting for more startups to acquire](https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/)
   - [Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS](https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/)
   - [Google tests letting Gemini call businesses for you](https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/)
+  - [Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.](https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/)
   - [Lightspeed targets $250M for new India fund, focusing on early-stage AI](https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/)
   - [Meet Feather, the startup building the ‘Android of robotics’ for developers](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/)
   - [Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/)
   - [Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend](https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/)
   - [Nexterity wants to automate the hard, dangerous part of pipefitting](https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/)
+  - [North Korean hackers suspected in $351M crypto theft, the largest so far this year](https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/)
   - [Oracle sends force majeure notice on its New Mexico Stargate data center](https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/)
   - [PrismML brings its tiny LLMs to Qualcomm-powered smart glasses](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/)
   - [TechCrunch Founder Summit 2026: Everything you need to know](https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/)
@@ -132,6 +146,7 @@
 - text/plain
   - [“The” IP Address](https://textslashplain.com/2026/09/24/the-ip-address/)
 - The Block
+  - [Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans](https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372)
   - [ARK Invest brings $1.3 billion venture fund onchain through Securitize](https://www.theblock.co/news/markets/2026-09-24-ark-invest-tokenizes-arkvx-venture-fund-securitize-416294)
   - [Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance](https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367)
   - [Fed proposes reserve limits, capital standards for stablecoin issuers under GENIUS Act](https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336)
@@ -140,6 +155,7 @@
   - [More than $170 million in crypto moves from Bitget wallets to unidentified address](https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345)
   - [New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation](https://www.theblock.co/news/regulation/2026-09-24-new-york-block-polymarket-alleging-illegal-gambling-operation-416279)
   - [Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote](https://www.theblock.co/news/business/2026-09-24-solana-treasury-skyai-keeps-board-shareholder-protest-loses-equity-plan-vote-416298)
+  - [Strategy proposes daily dividends for STRC, STRD, STRF and STRK preferred stocks](https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869)
 - The Decoder
   - [AI performance costs are falling faster than those of any previous technology](https://the-decoder.com/ai-performance-costs-are-falling-faster-than-those-of-any-previous-technology/)
   - [Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year](https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/)
@@ -382,6 +398,7 @@
   - [On Anthropic’s AI Misuse Report](https://buaq.net/go-444731.html)
   - [ShadowMem](https://buaq.net/go-444679.html)
   - [WARNING: Tor.Taxi Still Advertising DMM Seven Days After Confirmed Exit](https://buaq.net/go-444676.html)
+  - [Windows Privilege Escalation: SeManageVolumePrivilege](https://buaq.net/go-444748.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
@@ -393,6 +410,7 @@
 - 爱范儿
   - [早报｜网易云音乐鸿蒙版正式上线/任正非重申「华为不造车」/腾讯QClaw将停运](https://www.ifanr.com/1682171?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉](https://www.qbitai.com/2026/09/497177.html)
   - [华为大模型双子星联手创业，要找物理世界的Scaling Law](https://www.qbitai.com/2026/09/497070.html)
   - [呃…小扎「自研Manus」刚成Meta太子，就塌房了](https://www.qbitai.com/2026/09/497060.html)
 - 阿小信的博客
