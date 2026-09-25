@@ -2,24 +2,41 @@
 
 - 2Libra
   - [中秋和国庆两个长假，就这么过完了，放假前的期待和兴奋，仿佛还在昨天。 ​​​](https://2libra.com/post/festival-things/u0_0zVE)
+- blog.jim-nielsen.com
+  - [Using an LLM to Automate the Process of Archiving New macOS App Icons](https://blog.jim-nielsen.com/2026/faster-app-icon-retrieval/)
 - CERT Recently Published Vulnerability Notes
   - [VU#699627: Readwise Reader for Android, version 8.7.2, contains multiple XSS vulnerabilities](https://kb.cert.org/vuls/id/699627)
 - CoinTelegraph
   - [Bitget clarifies $388M in assets affected by security breach](https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide](https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy seeks shareholder approval for daily preferred stock dividends](https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Bitget clarifies $388M in assets affected by security breach](https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Muse Looks Cute, but Looks Are Deceiving](https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363)
   - [Regarding the Provenance of Charm Within Meta](https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&leadSource=article-gifting)
+  - [★ I’ll Wait](https://daringfireball.net/2026/09/ill_wait)
 - darkreading
+  - [AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment](https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness)
   - [What We Missed: Google Gemini Joins the AI Escape Party](https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party)
 - GuidePoint Security
   - [Secure AI Adoption: Close the Governance Gap to Accelerate AI in the  Cloud](https://www.guidepointsecurity.com/blog/secure-ai-adoption-cloud/)
+- Hacker News Frontpage
+  - [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk)
+  - [Meta's Muse appears to use an OpenAI model labeled muse-special](https://mouse.dev/blog/muse-special/)
+  - [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+  - [Yes, Claude can do Nine Loops](https://www.anthropic.com/research/yes-claude-can-do-nine-loops)
+- OpenAI Blog
+  - [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction)
+- pluralistic.net
+  - [Pluralistic: Itch scratching (25 Sep 2026)](https://pluralistic.net/2026/09/25/other-people/)
 - simonwillison.net
   - [Quoting John Gruber](https://simonwillison.net/2026/Sep/25/john-gruber/)
 - TechCrunch
+  - [Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/)
   - [Astra and Opus just passed Turing’s other test](https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/)
+  - [Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
   - [Meta is putting its muscle behind Muse as the AI app takes off](https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/)
   - [Some Supabase customers are publicly exposing reams of people’s data to the web](https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/)
   - [The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.](https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/)
@@ -28,10 +45,12 @@
 - The Decoder
   - [Another Google Deepmind researcher quits, says building superintelligent AI soon is "inherently irresponsible"](https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/)
   - [Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing](https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/)
+  - [Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says](https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/)
 - The Verge
   - [Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K](https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k)
   - [Meta makes the Muse filesystem even more accessible](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem)
   - [Phones don’t have lights](https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks)
+  - [Roku&#8217;s first OLED TVs are up to $400 off, starting at $699](https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale)
   - [Tesla&#8217;s Optimus robot is going through growing pains](https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands)
   - [These camera apps give you more control over the iPhone 18 Pro’s aperture](https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera)
 - Vulners.com RSS Feed
@@ -46,19 +65,42 @@
   - [CVE-2026-49850](https://vulners.com/nvd/NVD:CVE-2026-49850?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50547](https://vulners.com/nvd/NVD:CVE-2026-50547?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54790](https://vulners.com/nvd/NVD:CVE-2026-54790?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56725](https://vulners.com/nvd/NVD:CVE-2026-56725?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56726](https://vulners.com/nvd/NVD:CVE-2026-56726?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56727](https://vulners.com/nvd/NVD:CVE-2026-56727?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56728](https://vulners.com/nvd/NVD:CVE-2026-56728?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56730](https://vulners.com/nvd/NVD:CVE-2026-56730?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56731](https://vulners.com/nvd/NVD:CVE-2026-56731?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56732](https://vulners.com/nvd/NVD:CVE-2026-56732?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56733](https://vulners.com/nvd/NVD:CVE-2026-56733?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56734](https://vulners.com/nvd/NVD:CVE-2026-56734?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56735](https://vulners.com/nvd/NVD:CVE-2026-56735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61525](https://vulners.com/nvd/NVD:CVE-2026-61525?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-62262](https://vulners.com/nvd/NVD:CVE-2026-62262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-65828](https://vulners.com/nvd/NVD:CVE-2026-65828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67236](https://vulners.com/nvd/NVD:CVE-2026-67236?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84462](https://vulners.com/nvd/NVD:CVE-2026-84462?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85274](https://vulners.com/nvd/NVD:CVE-2026-85274?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85289](https://vulners.com/nvd/NVD:CVE-2026-85289?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85290](https://vulners.com/nvd/NVD:CVE-2026-85290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85291](https://vulners.com/nvd/NVD:CVE-2026-85291?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85292](https://vulners.com/nvd/NVD:CVE-2026-85292?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85293](https://vulners.com/nvd/NVD:CVE-2026-85293?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91838](https://vulners.com/nvd/NVD:CVE-2026-91838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91839](https://vulners.com/nvd/NVD:CVE-2026-91839?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91840](https://vulners.com/nvd/NVD:CVE-2026-91840?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91841](https://vulners.com/nvd/NVD:CVE-2026-91841?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92161](https://vulners.com/nvd/NVD:CVE-2026-92161?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93366](https://vulners.com/nvd/NVD:CVE-2026-93366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96874](https://vulners.com/nvd/NVD:CVE-2026-96874?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97469](https://vulners.com/nvd/NVD:CVE-2026-97469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97868](https://vulners.com/nvd/NVD:CVE-2026-97868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97869](https://vulners.com/nvd/NVD:CVE-2026-97869?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97882](https://vulners.com/nvd/NVD:CVE-2026-97882?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97883](https://vulners.com/nvd/NVD:CVE-2026-97883?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97884](https://vulners.com/nvd/NVD:CVE-2026-97884?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97885](https://vulners.com/nvd/NVD:CVE-2026-97885?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97886](https://vulners.com/nvd/NVD:CVE-2026-97886?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Appeals Court Lets the Pentagon Designate Anthropic a Supply Chain Risk](https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/)
 - 代码审计星球
