@@ -8,6 +8,7 @@
   - [严重的声控，该不该换个城市生活](https://2libra.com/post/love/fgSqDak)
   - [各位中秋节快乐啊，中秋节你们怎么安排](https://2libra.com/post/festival-things/OY2oqCp)
   - [没有月饼，但是有新的小徽章了！](https://2libra.com/post/forum-function/tzyopWu)
+  - [解压的魔法小游戏](https://2libra.com/post/game-share/wbbNNz2)
 - 404 Media
   - [This ‘World of Warcraft: Forever’ Mod Blocks All Interactions With Asmongold Fans](https://www.404media.co/this-world-of-warcraft-forever-mod-blocks-all-interactions-with-asmongold-fans/)
 - CERT Recently Published Vulnerability Notes
@@ -22,6 +23,7 @@
   - [Crypto treasury model loses its edge as stock premiums fade: DWF](https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed proposes new capital, redemption rules for stablecoin issuers](https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [IBIT options price trading more calmly after Bitcoin rebound](https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit](https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Magic Eden scare puts 3,832 NFTs in whitehat protective custody](https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Researchers propose Zcash-style private Bitcoin transfers without a soft fork](https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -74,8 +76,12 @@
 - infosecurity-magazine.com
   - [RemControl Banking Trojan Gives Attackers Remote Control of Android Devices](https://www.infosecurity-magazine.com/news/banking-trojan-remote-control/)
   - [Researchers Identify AliExpress Phishing Domains Before Registration](https://www.infosecurity-magazine.com/news/aliexpress-phishing-flagged-early/)
+- johndcook.com
+  - [Servers in dawn-dusk orbit](https://www.johndcook.com/blog/2026/09/25/dawn-dusk-orbit/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-24: Files for an ISC Diary (Macfinger ClickFix activity)](https://www.malware-traffic-analysis.net/2026/09/24/index.html)
+- matduggan.com
+  - [I’m Tired of Being on the Network](https://matduggan.com/im-tired-of-being-on-the-network/)
 - MIT Technology Review
   - [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)
 - OpenZeppelin Blog
@@ -127,7 +133,9 @@
   - [AI performance costs are falling faster than those of any previous technology](https://the-decoder.com/ai-performance-costs-are-falling-faster-than-those-of-any-previous-technology/)
   - [Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year](https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/)
   - [Black Forest Labs launches FLUX 3 Action, an open robotics AI model](https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/)
+  - [Google's "Call for Me" lets Gemini phone businesses for you](https://the-decoder.com/googles-call-for-me-lets-gemini-phone-businesses-for-you/)
   - [Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy](https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/)
+  - [Intelligence doesn't come cheap as AI drives up costs for the NSA, hospitals, and insurers](https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/)
   - [Ruby on Rails creator DHH says he's done writing code by hand](https://the-decoder.com/ruby-on-rails-creator-dhh-says-hes-done-writing-code-by-hand/)
   - [Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update](https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/)
   - [Top AI experts badly underestimated how fast the field is moving, study finds](https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/)
@@ -341,23 +349,29 @@
   - [nuclei-templates](https://vulners.com/gitee/79451CF4-C409-598A-9C2C-EA829C282F2F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions](https://vulners.com/thn/THN:6C4077947C8EFF6602F141569AFFDC38?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Best Laptops (2026): My Top Recommendations After Testing Hundreds](https://www.wired.com/story/best-laptops/)
   - [Google’s Gemini Can Now Make Calls for You on Pixel Phones](https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/)
   - [How to Record Your Screen on Any Phone](https://www.wired.com/story/how-to-record-your-screen-on-any-phone/)
   - [I Think I Found an AI Agent Worth the Risk](https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/)
   - [Inside the Network of Anonymous Men Destroying Young Women’s Lives](https://www.wired.com/story/uncanny-valley-podcast-anonymous-men-turned-cyberharassment-into-group-sport-heres-one-womans-side/)
   - [Nearly a Decade Later, the Electric Tesla Semi Is Here](https://www.wired.com/story/tesla-semi/)
   - [The 34 Best Gifts for Dads (2026)](https://www.wired.com/story/best-gifts-for-dads-2026/)
+  - [The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine](https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/)
   - [‘Primetime’ Exposes the Ego-Driven Core of Vigilante Pedophile Hunting](https://www.wired.com/story/primetime-exposes-the-ego-driven-core-of-vigilante-pedophile-hunting/)
 - 不安全
   - [Android-Security-Masterclass](https://buaq.net/go-444686.html)
   - [Demod Analyzer: Analyze Digital Modulation (BPSK, QPSK, 16-QAM) in IQ Files](https://buaq.net/go-444689.html)
   - [F-Droid 2.0 发布：十年来最大更新，中文搜索、自动更新都来了](https://buaq.net/go-444711.html)
+  - [I got hacked and my crypto was drained.](https://buaq.net/go-444732.html)
   - [I reverse-engineered Crestron's AirMedia wireless-presentation protocol so I could screen-share from Ubuntu without a browser](https://buaq.net/go-444677.html)
   - [I reverse-engineered Crestron's AirMedia wireless-presentation protocol so I could screen-share from Ubuntu without a browser](https://buaq.net/go-444678.html)
+  - [On Anthropic’s AI Misuse Report](https://buaq.net/go-444731.html)
   - [ShadowMem](https://buaq.net/go-444679.html)
   - [WARNING: Tor.Taxi Still Advertising DMM Seven Days After Confirmed Exit](https://buaq.net/go-444676.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [中国各地推动 AI 视频产业化](https://www.solidot.org/story?sid=85475)
 - 安全客
   - [26秒攻陷11家机构：AI智能体第一次像蜂群一样打过来](https://www.anquanke.com/post/id/316181)
 - 极客公园
