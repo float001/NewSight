@@ -37,14 +37,21 @@
   - [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk)
   - [Meta's Muse appears to use an OpenAI model labeled muse-special](https://mouse.dev/blog/muse-special/)
   - [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+  - [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
   - [Rising sea destroys homes, erases beaches in California](https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/)
   - [Yes, Claude can do Nine Loops](https://www.anthropic.com/research/yes-claude-can-do-nine-loops)
+- HackerNoon
+  - [The Hacker House Files: 14 Notorious Scandals From 8 Prominent SF Bay Area Houses](https://hackernoon.com/the-hacker-house-files-14-notorious-scandals-from-8-prominent-bay-area-houses?source=rss)
+- krebsonsecurity.com
+  - [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
 - OpenAI Blog
   - [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction)
 - pluralistic.net
   - [Pluralistic: Itch scratching (25 Sep 2026)](https://pluralistic.net/2026/09/25/other-people/)
 - simonwillison.net
   - [Quoting John Gruber](https://simonwillison.net/2026/Sep/25/john-gruber/)
+- Sploitus.com Exploits RSS Feed
+  - [sBOMBPath exploit](https://sploitus.com/exploit?id=12A08394-0EB6-5025-9E3D-D9F5DF1EC24A&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/)
   - [Anthropic to pay Akamai $11.6 billion over seven years in cloud deal](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/)
