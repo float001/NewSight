@@ -10,6 +10,7 @@
 - CoinTelegraph
   - [Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express](https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs](https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitget CEO suspects North Korea behind $352M hack, citing IP clues](https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitget confirms $351M security breach, suspends withdrawals](https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC updates guidance on tokenized assets, blockchain records after failed vote](https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto treasury model loses its edge as stock premiums fade: DWF](https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -129,11 +130,13 @@
   - [CVE-2026-82566](https://vulners.com/nvd/NVD:CVE-2026-82566?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82708 Botslab G980H Dashcams Improper Limitation of a Pathname to a Restricted Directory](https://vulners.com/cve/CVE-2026-82708?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82708 Botslab G980H Dashcams Improper Limitation of a Pathname to a Restricted Directory](https://vulners.com/cvelist/CVELIST:CVE-2026-82708?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84283](https://vulners.com/nvd/NVD:CVE-2026-84283?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-84399](https://vulners.com/nvd/NVD:CVE-2026-84399?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-84403 Botslab G980H Dashcams Missing Authentication for Critical Function](https://vulners.com/cve/CVE-2026-84403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-84403 Botslab G980H Dashcams Missing Authentication for Critical Function](https://vulners.com/cvelist/CVELIST:CVE-2026-84403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85056](https://vulners.com/nvd/NVD:CVE-2026-85056?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85057](https://vulners.com/nvd/NVD:CVE-2026-85057?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85082](https://vulners.com/nvd/NVD:CVE-2026-85082?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85491](https://vulners.com/nvd/NVD:CVE-2026-85491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85496](https://vulners.com/nvd/NVD:CVE-2026-85496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87118 Botslab G980H Dashcams Out-of-bounds Write](https://vulners.com/cve/CVE-2026-87118?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -211,12 +214,17 @@
   - [CVE-2026-97366 jhen0409 react-native-debugger Open in Editor window.js openDevTools os command injection](https://vulners.com/cve/CVE-2026-97366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97366 jhen0409 react-native-debugger Open in Editor window.js openDevTools os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-97366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97636](https://vulners.com/nvd/NVD:CVE-2026-97636?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [headlesshunter](https://vulners.com/githubexploit/DDB7DE4C-7686-5540-9A7C-95E1858C4BBF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions](https://vulners.com/thn/THN:6C4077947C8EFF6602F141569AFFDC38?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Google’s Gemini Can Now Make Calls for You on Pixel Phones](https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/)
   - [I Think I Found an AI Agent Worth the Risk](https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/)
   - [Inside the Network of Anonymous Men Destroying Young Women’s Lives](https://www.wired.com/story/uncanny-valley-podcast-anonymous-men-turned-cyberharassment-into-group-sport-heres-one-womans-side/)
+- 不安全
+  - [WARNING: Tor.Taxi Still Advertising DMM Seven Days After Confirmed Exit](https://buaq.net/go-444676.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
   - [26秒攻陷11家机构：AI智能体第一次像蜂群一样打过来](https://www.anquanke.com/post/id/316181)
+- 爱范儿
+  - [早报｜网易云音乐鸿蒙版正式上线/任正非重申「华为不造车」/腾讯QClaw将停运](https://www.ifanr.com/1682171?utm_source=rss&utm_medium=rss&utm_campaign=)
