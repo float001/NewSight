@@ -2,6 +2,8 @@
 
 - 2Libra
   - [中秋和国庆两个长假，就这么过完了，放假前的期待和兴奋，仿佛还在昨天。 ​​​](https://2libra.com/post/festival-things/u0_0zVE)
+- 404 Media
+  - [AI Love Song for Mistress Played at Murder Trial Is Most Excruciating Watch in Recent Memory](https://www.404media.co/caleb-flynn-ai-love-song-for-mistress-played-at-murder-trial-is-most-excruciating-watch-in-recent-memory/)
 - Ars Technica
   - [AI was supposed to hit new grads hard. So far, unemployment data says otherwise.](https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/)
   - [Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)](https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/)
@@ -11,8 +13,10 @@
   - [VU#699627: Readwise Reader for Android, version 8.7.2, contains multiple XSS vulnerabilities](https://kb.cert.org/vuls/id/699627)
 - CoinTelegraph
   - [Bitget clarifies $388M in assets affected by security breach](https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails](https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide](https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [OG.com seeks CFTC approval for single-stock perpetual futures](https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy seeks shareholder approval for daily preferred stock dividends](https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Bitget clarifies $388M in assets affected by security breach](https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
@@ -20,6 +24,7 @@
   - [Brent Simmons on ‘Stock’ Mac UI](https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html)
   - [Muse Looks Cute, but Looks Are Deceiving](https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363)
   - [Regarding the Provenance of Charm Within Meta](https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&leadSource=article-gifting)
+  - [Stock UI in MacOS 27 Eschews Clarity](https://mastodon.design/@thibault/117320401426286497)
   - [★ I’ll Wait](https://daringfireball.net/2026/09/ill_wait)
 - darkreading
   - [AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment](https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness)
@@ -32,6 +37,7 @@
   - [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk)
   - [Meta's Muse appears to use an OpenAI model labeled muse-special](https://mouse.dev/blog/muse-special/)
   - [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+  - [Rising sea destroys homes, erases beaches in California](https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/)
   - [Yes, Claude can do Nine Loops](https://www.anthropic.com/research/yes-claude-can-do-nine-loops)
 - OpenAI Blog
   - [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction)
@@ -45,11 +51,14 @@
   - [Astra and Opus just passed Turing’s other test](https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/)
   - [Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
   - [Meta is putting its muscle behind Muse as the AI app takes off](https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/)
+  - [Meta opens early access program for new Muse features](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/)
   - [Some Supabase customers are publicly exposing reams of people’s data to the web](https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/)
   - [The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.](https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/)
+  - [The hottest new hangout for middle schoolers is NPR’s comment section?](https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/)
 - The Block
   - [Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO](https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913)
   - [Man charged in $16 million crypto ‘massive pig butchering’ scam](https://www.theblock.co/news/regulation/2026-09-25-man-charged-in-16-million-crypto-massive-pig-butchering-scam-416895)
+  - [SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit](https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914)
 - The Decoder
   - [Another Google Deepmind researcher quits, says building superintelligent AI soon is "inherently irresponsible"](https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/)
   - [Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing](https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/)
@@ -62,7 +71,13 @@
   - [Tesla&#8217;s Optimus robot is going through growing pains](https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands)
   - [These camera apps give you more control over the iPhone 18 Pro’s aperture](https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera)
 - Vulners.com RSS Feed
+  - [Critical: Red Hat Security Advisory: unbound security update](https://vulners.com/redhat/RHSA-2026:72110?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100208](https://vulners.com/nvd/NVD:CVE-2026-100208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100230](https://vulners.com/nvd/NVD:CVE-2026-100230?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100310](https://vulners.com/nvd/NVD:CVE-2026-100310?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100368](https://vulners.com/nvd/NVD:CVE-2026-100368?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100372](https://vulners.com/nvd/NVD:CVE-2026-100372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100373](https://vulners.com/nvd/NVD:CVE-2026-100373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-33639](https://vulners.com/nvd/NVD:CVE-2026-33639?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39353](https://vulners.com/nvd/NVD:CVE-2026-39353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-39372](https://vulners.com/nvd/NVD:CVE-2026-39372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -72,6 +87,8 @@
   - [CVE-2026-44642](https://vulners.com/nvd/NVD:CVE-2026-44642?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49850](https://vulners.com/nvd/NVD:CVE-2026-49850?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-50547](https://vulners.com/nvd/NVD:CVE-2026-50547?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-5267](https://vulners.com/nvd/NVD:CVE-2026-5267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-53990](https://vulners.com/nvd/NVD:CVE-2026-53990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54790](https://vulners.com/nvd/NVD:CVE-2026-54790?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56725](https://vulners.com/nvd/NVD:CVE-2026-56725?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56726](https://vulners.com/nvd/NVD:CVE-2026-56726?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -83,6 +100,7 @@
   - [CVE-2026-56733](https://vulners.com/nvd/NVD:CVE-2026-56733?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56734](https://vulners.com/nvd/NVD:CVE-2026-56734?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-56735](https://vulners.com/nvd/NVD:CVE-2026-56735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57861](https://vulners.com/nvd/NVD:CVE-2026-57861?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61525](https://vulners.com/nvd/NVD:CVE-2026-61525?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-62262](https://vulners.com/nvd/NVD:CVE-2026-62262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-65828](https://vulners.com/nvd/NVD:CVE-2026-65828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -100,7 +118,12 @@
   - [CVE-2026-91841](https://vulners.com/nvd/NVD:CVE-2026-91841?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92161](https://vulners.com/nvd/NVD:CVE-2026-92161?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93366](https://vulners.com/nvd/NVD:CVE-2026-93366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93682](https://vulners.com/nvd/NVD:CVE-2026-93682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96874](https://vulners.com/nvd/NVD:CVE-2026-96874?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96875](https://vulners.com/nvd/NVD:CVE-2026-96875?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96876](https://vulners.com/nvd/NVD:CVE-2026-96876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96877](https://vulners.com/nvd/NVD:CVE-2026-96877?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96878](https://vulners.com/nvd/NVD:CVE-2026-96878?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97469](https://vulners.com/nvd/NVD:CVE-2026-97469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97868](https://vulners.com/nvd/NVD:CVE-2026-97868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97869](https://vulners.com/nvd/NVD:CVE-2026-97869?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -109,7 +132,9 @@
   - [CVE-2026-97884](https://vulners.com/nvd/NVD:CVE-2026-97884?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97885](https://vulners.com/nvd/NVD:CVE-2026-97885?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97886](https://vulners.com/nvd/NVD:CVE-2026-97886?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [unbound: Unbound: Heap buffer overflow and possible Remote Code Execution when digesting DNSKEY](https://vulners.com/redhat/RHSA-2026:72110-CVE-2026-81642?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Appeals Court Lets the Pentagon Designate Anthropic a Supply Chain Risk](https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/)
+  - [Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand](https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
