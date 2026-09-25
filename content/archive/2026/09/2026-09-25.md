@@ -23,11 +23,13 @@
   - [Fed proposes new capital, redemption rules for stablecoin issuers](https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit](https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Magic Eden scare puts 3,832 NFTs in whitehat protective custody](https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Researchers propose Zcash-style private Bitcoin transfers without a soft fork](https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Samourai Wallet co-founder faces new transfer after 30-day ordeal](https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC](https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit](https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+  - [Magic Eden scare puts 3,832 NFTs in whitehat protective custody](https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Bitget Confirms $351.6M Hot Wallet Hack, Pauses Withdrawals](https://www.cyberkendra.com/2026/09/bitget-confirms-351-6m-hot-wallet-hack-pauses-withdrawals.html)
   - [Cloudflare Containers Flaw Exposed Cross-Tenant Disk Data](https://www.cyberkendra.com/2026/09/cloudflare-containers-cross-tenant-disk-data-flaw.html)
@@ -61,14 +63,18 @@
   - [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
   - [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
   - [Stable (YC W20) Is Hiring Product Engineers](https://www.usestable.com/careers/product-engineer)
+  - [Tech Needs Humanists More](https://passo.uno/tech-needs-humanists-more-than-ever/)
   - [The Board Game of the Alpha Nerds (2014)](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
   - [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
 - IEEE Spectrum
   - [Mexican EPICS in IEEE Team Builds Portable Educational Platform](https://spectrum.ieee.org/epics-in-ieee-portable-educational)
 - infosecurity-magazine.com
+  - [RemControl Banking Trojan Gives Attackers Remote Control of Android Devices](https://www.infosecurity-magazine.com/news/banking-trojan-remote-control/)
   - [Researchers Identify AliExpress Phishing Domains Before Registration](https://www.infosecurity-magazine.com/news/aliexpress-phishing-flagged-early/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-24: Files for an ISC Diary (Macfinger ClickFix activity)](https://www.malware-traffic-analysis.net/2026/09/24/index.html)
+- MIT Technology Review
+  - [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)
 - OpenZeppelin Blog
   - [OpenZeppelin Brings Its Security Standard to the TRON Network](https://www.openzeppelin.com/news/openzeppelin-brings-its-security-standard-to-the-tron-network)
 - Product Hunt
@@ -83,6 +89,7 @@
   - [Exploit for Cross-site Scripting in Cure53 Dompurify](https://sploitus.com/exploit?id=7B672122-63A3-5FA5-83D6-BCEDD230B126&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-12227](https://sploitus.com/exploit?id=BF64CC8A-E425-51C4-B7CF-76F03FDC7B72&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-87902](https://sploitus.com/exploit?id=0304011F-5F13-5AAB-B224-74810D295732&utm_source=rss&utm_medium=rss)
+  - [Exploit for HTTP Request Smuggling in Apache Http_Server](https://sploitus.com/exploit?id=EAA88933-B773-535C-8E65-20383D59A2FE&utm_source=rss&utm_medium=rss)
   - [kj33-cpe-root-shell exploit](https://sploitus.com/exploit?id=520D7515-00FA-5BEA-B57E-FCB7B9203426&utm_source=rss&utm_medium=rss)
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=79451CF4-C409-598A-9C2C-EA829C282F2F&utm_source=rss&utm_medium=rss)
   - [XSS-Training-YT-livestream-notion exploit](https://sploitus.com/exploit?id=09E3B5E8-8776-5355-9429-92B964BDC7BB&utm_source=rss&utm_medium=rss)
@@ -107,6 +114,7 @@
   - [ARK Invest brings $1.3 billion venture fund onchain through Securitize](https://www.theblock.co/news/markets/2026-09-24-ark-invest-tokenizes-arkvx-venture-fund-securitize-416294)
   - [Fed proposes reserve limits, capital standards for stablecoin issuers under GENIUS Act](https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336)
   - [JPMorgan says bitcoin crossing $85,000 production cost could ease miner selling pressure](https://www.theblock.co/news/markets/2026-09-24-jpmorgan-bitcoin-production-cost-miners-relief-416283)
+  - [KelpDAO sues LayerZero, claims it endorsed setup used in $292 million rsETH exploit](https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361)
   - [More than $170 million in crypto moves from Bitget wallets to unidentified address](https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345)
   - [New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation](https://www.theblock.co/news/regulation/2026-09-24-new-york-block-polymarket-alleging-illegal-gambling-operation-416279)
   - [Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote](https://www.theblock.co/news/business/2026-09-24-solana-treasury-skyai-keeps-board-shareholder-protest-loses-equity-plan-vote-416298)
@@ -114,6 +122,7 @@
   - [AI performance costs are falling faster than those of any previous technology](https://the-decoder.com/ai-performance-costs-are-falling-faster-than-those-of-any-previous-technology/)
   - [Black Forest Labs launches FLUX 3 Action, an open robotics AI model](https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/)
   - [Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy](https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/)
+  - [Ruby on Rails creator DHH says he's done writing code by hand](https://the-decoder.com/ruby-on-rails-creator-dhh-says-hes-done-writing-code-by-hand/)
   - [Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update](https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/)
   - [Top AI experts badly underestimated how fast the field is moving, study finds](https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/)
   - [White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers](https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/)
@@ -278,6 +287,8 @@
   - [Google’s Gemini Can Now Make Calls for You on Pixel Phones](https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/)
   - [I Think I Found an AI Agent Worth the Risk](https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/)
   - [Inside the Network of Anonymous Men Destroying Young Women’s Lives](https://www.wired.com/story/uncanny-valley-podcast-anonymous-men-turned-cyberharassment-into-group-sport-heres-one-womans-side/)
+  - [Nearly a Decade Later, the Electric Tesla Semi Is Here](https://www.wired.com/story/tesla-semi/)
+  - [The 34 Best Gifts for Dads (2026)](https://www.wired.com/story/best-gifts-for-dads-2026/)
 - 不安全
   - [Android-Security-Masterclass](https://buaq.net/go-444686.html)
   - [Demod Analyzer: Analyze Digital Modulation (BPSK, QPSK, 16-QAM) in IQ Files](https://buaq.net/go-444689.html)
