@@ -12,6 +12,7 @@
   - [VU#234131: ViewSonic vCast media streaming service allows unauthenticated screen exfiltration and device compromise](https://kb.cert.org/vuls/id/234131)
 - CoinTelegraph
   - [Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express](https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B](https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs](https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitget CEO suspects North Korea behind $352M hack, citing IP clues](https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitget confirms $351M security breach, suspends withdrawals](https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -20,10 +21,13 @@
   - [Fed proposes new capital, redemption rules for stablecoin issuers](https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Researchers propose Zcash-style private Bitcoin transfers without a soft fork](https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Samourai Wallet co-founder faces new transfer after 30-day ordeal](https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC](https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Bitget Confirms $351.6M Hot Wallet Hack, Pauses Withdrawals](https://www.cyberkendra.com/2026/09/bitget-confirms-351-6m-hot-wallet-hack-pauses-withdrawals.html)
   - [Cloudflare Containers Flaw Exposed Cross-Tenant Disk Data](https://www.cyberkendra.com/2026/09/cloudflare-containers-cross-tenant-disk-data-flaw.html)
+- daniel.haxx.se
+  - [25 years on Apple computers](https://daniel.haxx.se/blog/2026/09/25/25-years-on-apple-computers/)
 - daringfireball.net
   - [Copland D11E4, Emulated in Your Browser](https://www.pagetable.com/300)
   - [Ed Zitron’s AI Prediction Track Record](https://danluu.com/zitron/)
