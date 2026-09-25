@@ -238,6 +238,7 @@
   - [I Think I Found an AI Agent Worth the Risk](https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/)
   - [Inside the Network of Anonymous Men Destroying Young Women’s Lives](https://www.wired.com/story/uncanny-valley-podcast-anonymous-men-turned-cyberharassment-into-group-sport-heres-one-womans-side/)
 - 不安全
+  - [Android-Security-Masterclass](https://buaq.net/go-444686.html)
   - [I reverse-engineered Crestron's AirMedia wireless-presentation protocol so I could screen-share from Ubuntu without a browser](https://buaq.net/go-444677.html)
   - [I reverse-engineered Crestron's AirMedia wireless-presentation protocol so I could screen-share from Ubuntu without a browser](https://buaq.net/go-444678.html)
   - [ShadowMem](https://buaq.net/go-444679.html)
@@ -250,3 +251,6 @@
   - [「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114142&idx=1&sn=296195777313bb24520e13b40a66c6b9)
 - 爱范儿
   - [早报｜网易云音乐鸿蒙版正式上线/任正非重申「华为不造车」/腾讯QClaw将停运](https://www.ifanr.com/1682171?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 阿小信的博客
+  - [图片站程序化SEO入门：从建站到变现的完整路径](https://blog.axiaoxin.com/post/programmatic-seo-image-site-guide/)
+  - [独立开发者网站广告变现完整策略：站长实操指南](https://blog.axiaoxin.com/post/adsterra-ad-monetization/)
