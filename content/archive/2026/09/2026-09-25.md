@@ -19,6 +19,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC](https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
+  - [Bitget Confirms $351.6M Hot Wallet Hack, Pauses Withdrawals](https://www.cyberkendra.com/2026/09/bitget-confirms-351-6m-hot-wallet-hack-pauses-withdrawals.html)
   - [Cloudflare Containers Flaw Exposed Cross-Tenant Disk Data](https://www.cyberkendra.com/2026/09/cloudflare-containers-cross-tenant-disk-data-flaw.html)
 - daringfireball.net
   - [Copland D11E4, Emulated in Your Browser](https://www.pagetable.com/300)
@@ -37,6 +38,7 @@
   - [Securing GenAI in the Real World: Assessing a Structured GenAI Implementation with Amazon Bedrock](https://www.guidepointsecurity.com/blog/securing-gen-ai/)
 - Hacker News Frontpage
   - [Creatine uptake enhances antitumor immunity](https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4)
+  - [Jev and System One Models: Calibration Beats Accuracy](https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions)
   - [Mamdani is the most popular elected official in NYC: poll](https://www.nydailynews.com/2026/09/23/mamdani-is-the-most-popular-elected-official-in-nyc-poll/)
   - [Opus 5.5 is good at explainer videos](https://launchvideo.io)
   - [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
@@ -87,6 +89,7 @@
   - [Top AI experts badly underestimated how fast the field is moving, study finds](https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/)
 - The Verge
   - [Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face)
+  - [Here’s the Tesla Semi… again](https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer)
   - [It’s sinister that Meta’s Muse AI mascot is so cute](https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute)
   - [Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures](https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats)
   - [Meta is going to let you build games with AI right on your phone](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games)
@@ -200,6 +203,7 @@
   - [CVE-2026-94609 authentik: Privilege Escalation to Superuser via Group Hierarchy](https://vulners.com/cvelist/CVELIST:CVE-2026-94609?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94611 authentik: Stored credentials are readable with view permission alone](https://vulners.com/cve/CVE-2026-94611?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94611 authentik: Stored credentials are readable with view permission alone](https://vulners.com/cvelist/CVELIST:CVE-2026-94611?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95811](https://vulners.com/nvd/NVD:CVE-2026-95811?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95985](https://vulners.com/nvd/NVD:CVE-2026-95985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96744](https://vulners.com/nvd/NVD:CVE-2026-96744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96745](https://vulners.com/nvd/NVD:CVE-2026-96745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -218,6 +222,14 @@
   - [CVE-2026-97366 jhen0409 react-native-debugger Open in Editor window.js openDevTools os command injection](https://vulners.com/cve/CVE-2026-97366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97366 jhen0409 react-native-debugger Open in Editor window.js openDevTools os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-97366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97636](https://vulners.com/nvd/NVD:CVE-2026-97636?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97647](https://vulners.com/nvd/NVD:CVE-2026-97647?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97648](https://vulners.com/nvd/NVD:CVE-2026-97648?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97649](https://vulners.com/nvd/NVD:CVE-2026-97649?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97650 ningzichun student-management-system addLog.php echo cross site scripting](https://vulners.com/cve/CVE-2026-97650?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97650 ningzichun student-management-system addLog.php echo cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-97650?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97723](https://vulners.com/nvd/NVD:CVE-2026-97723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97724](https://vulners.com/cve/CVE-2026-97724?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97724](https://vulners.com/cvelist/CVELIST:CVE-2026-97724?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [headlesshunter](https://vulners.com/githubexploit/DDB7DE4C-7686-5540-9A7C-95E1858C4BBF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nuclei-templates](https://vulners.com/gitee/79451CF4-C409-598A-9C2C-EA829C282F2F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions](https://vulners.com/thn/THN:6C4077947C8EFF6602F141569AFFDC38?utm_source=rss&utm_medium=rss&utm_campaign=rss)
