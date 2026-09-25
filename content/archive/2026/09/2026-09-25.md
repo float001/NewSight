@@ -20,6 +20,7 @@
   - [Bitget CEO suspects North Korea behind $352M hack, citing IP clues](https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitget confirms $351M security breach, suspends withdrawals](https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC updates guidance on tokenized assets, blockchain records after failed vote](https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [CoinMarketCap buys CoinGlass to expand crypto derivatives data](https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto treasury model loses its edge as stock premiums fade: DWF](https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed proposes new capital, redemption rules for stablecoin issuers](https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -29,9 +30,11 @@
   - [Researchers propose Zcash-style private Bitcoin transfers without a soft fork](https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Samourai Wallet co-founder faces new transfer after 30-day ordeal](https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC](https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [SlowMist has yet to confirm crypto theft from iPhone Safari attack](https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit](https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
   - [Magic Eden scare puts 3,832 NFTs in whitehat protective custody](https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+  - [SlowMist has yet to confirm crypto theft from iPhone Safari attack](https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Bitget Confirms $351.6M Hot Wallet Hack, Pauses Withdrawals](https://www.cyberkendra.com/2026/09/bitget-confirms-351-6m-hot-wallet-hack-pauses-withdrawals.html)
   - [Cloudflare Containers Flaw Exposed Cross-Tenant Disk Data](https://www.cyberkendra.com/2026/09/cloudflare-containers-cross-tenant-disk-data-flaw.html)
@@ -69,11 +72,13 @@
   - [Tech Needs Humanists More](https://passo.uno/tech-needs-humanists-more-than-ever/)
   - [The Board Game of the Alpha Nerds (2014)](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
   - [The Mafia may be keeping fentanyl out of Italy](https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy)
+  - [The Test](https://tante.cc/2026/09/24/the-test/)
   - [Uproar in France over award-winning author accused of using AI](https://www.bbc.com/news/articles/ck7v4y45893go)
   - [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
 - IEEE Spectrum
   - [Mexican EPICS in IEEE Team Builds Portable Educational Platform](https://spectrum.ieee.org/epics-in-ieee-portable-educational)
 - infosecurity-magazine.com
+  - [CISA Unveils Election Security Plan Ahead of 2026 Midterms](https://www.infosecurity-magazine.com/news/cisa-election-security-midterms/)
   - [RemControl Banking Trojan Gives Attackers Remote Control of Android Devices](https://www.infosecurity-magazine.com/news/banking-trojan-remote-control/)
   - [Researchers Identify AliExpress Phishing Domains Before Registration](https://www.infosecurity-magazine.com/news/aliexpress-phishing-flagged-early/)
 - johndcook.com
@@ -83,11 +88,14 @@
 - matduggan.com
   - [I’m Tired of Being on the Network](https://matduggan.com/im-tired-of-being-on-the-network/)
 - MIT Technology Review
+  - [The Download: the Pentagon’s AI-powered lie detector and young organ limits](https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/)
   - [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)
 - OpenZeppelin Blog
   - [OpenZeppelin Brings Its Security Standard to the TRON Network](https://www.openzeppelin.com/news/openzeppelin-brings-its-security-standard-to-the-tron-network)
 - Product Hunt
   - [10xJoy](https://www.producthunt.com/products/10xjoy)
+- Recent Commits to cve:main
+  - [Update Fri Sep 25 12:23:58 UTC 2026](https://github.com/trickest/cve/commit/2832e7079fb71c43cf2c630380920c1bae1d5169)
 - rtl-sdr.com
   - [Demod Analyzer: Analyze Digital Modulation (BPSK, QPSK, 16-QAM) in IQ Files](https://www.rtl-sdr.com/demod-analyzer-analyze-digital-modulation-bpsk-qpsk-16-qam-in-iq-files/)
 - simonwillison.net
@@ -103,6 +111,9 @@
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=79451CF4-C409-598A-9C2C-EA829C282F2F&utm_source=rss&utm_medium=rss)
   - [penetration-testing-system-network-security exploit](https://sploitus.com/exploit?id=DDF95093-1A4F-5552-BDB7-885E84D82C3E&utm_source=rss&utm_medium=rss)
   - [XSS-Training-YT-livestream-notion exploit](https://sploitus.com/exploit?id=09E3B5E8-8776-5355-9429-92B964BDC7BB&utm_source=rss&utm_medium=rss)
+  - [XXERipper exploit](https://sploitus.com/exploit?id=B8D43497-30D5-5DC5-8117-B04A08E5B1A9&utm_source=rss&utm_medium=rss)
+- steveblank.com
+  - [AI Killed the MVP – Long Live the IUP](https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/)
 - TechCrunch
   - [20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B](https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/)
   - [Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/)
@@ -136,6 +147,7 @@
   - [Google's "Call for Me" lets Gemini phone businesses for you](https://the-decoder.com/googles-call-for-me-lets-gemini-phone-businesses-for-you/)
   - [Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy](https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/)
   - [Intelligence doesn't come cheap as AI drives up costs for the NSA, hospitals, and insurers](https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/)
+  - [Meta's Muse agent gives every user a full cloud computer running Ubuntu Linux](https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/)
   - [Ruby on Rails creator DHH says he's done writing code by hand](https://the-decoder.com/ruby-on-rails-creator-dhh-says-hes-done-writing-code-by-hand/)
   - [Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update](https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/)
   - [Top AI experts badly underestimated how fast the field is moving, study finds](https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/)
@@ -283,6 +295,7 @@
   - [CVE-2026-97365](https://vulners.com/nvd/NVD:CVE-2026-97365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97366 jhen0409 react-native-debugger Open in Editor window.js openDevTools os command injection](https://vulners.com/cve/CVE-2026-97366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97366 jhen0409 react-native-debugger Open in Editor window.js openDevTools os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-97366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97622](https://vulners.com/nvd/NVD:CVE-2026-97622?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97636](https://vulners.com/nvd/NVD:CVE-2026-97636?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97647](https://vulners.com/nvd/NVD:CVE-2026-97647?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97648](https://vulners.com/nvd/NVD:CVE-2026-97648?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -365,6 +378,7 @@
   - [I got hacked and my crypto was drained.](https://buaq.net/go-444732.html)
   - [I reverse-engineered Crestron's AirMedia wireless-presentation protocol so I could screen-share from Ubuntu without a browser](https://buaq.net/go-444677.html)
   - [I reverse-engineered Crestron's AirMedia wireless-presentation protocol so I could screen-share from Ubuntu without a browser](https://buaq.net/go-444678.html)
+  - [NotCVE-2026-0014](https://buaq.net/go-444736.html)
   - [On Anthropic’s AI Misuse Report](https://buaq.net/go-444731.html)
   - [ShadowMem](https://buaq.net/go-444679.html)
   - [WARNING: Tor.Taxi Still Advertising DMM Seven Days After Confirmed Exit](https://buaq.net/go-444676.html)
