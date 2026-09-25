@@ -3,7 +3,9 @@
 - 2Libra
   - [【中秋礼物】杯子和月饼的完美搭配 🥮🥮🥮](https://2libra.com/post/festival-things/hRoC9lV)
   - [【兑换码】中秋快乐，各位来领金币红包啦](https://2libra.com/post/festival-things/H0nikT7)
+  - [【💰】中秋快乐，愿月圆人团圆，事事皆圆满！](https://2libra.com/post/festival-things/91IfQoh)
   - [【💰】大家中秋节准备干嘛？](https://2libra.com/post/festival-things/e6umj2z)
+  - [严重的声控，该不该换个城市生活](https://2libra.com/post/love/fgSqDak)
   - [各位中秋节快乐啊，中秋节你们怎么安排](https://2libra.com/post/festival-things/OY2oqCp)
   - [没有月饼，但是有新的小徽章了！](https://2libra.com/post/forum-function/tzyopWu)
 - 404 Media
@@ -20,9 +22,12 @@
   - [Crypto treasury model loses its edge as stock premiums fade: DWF](https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed proposes new capital, redemption rules for stablecoin issuers](https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit](https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Researchers propose Zcash-style private Bitcoin transfers without a soft fork](https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Samourai Wallet co-founder faces new transfer after 30-day ordeal](https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC](https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit](https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Bitget Confirms $351.6M Hot Wallet Hack, Pauses Withdrawals](https://www.cyberkendra.com/2026/09/bitget-confirms-351-6m-hot-wallet-hack-pauses-withdrawals.html)
   - [Cloudflare Containers Flaw Exposed Cross-Tenant Disk Data](https://www.cyberkendra.com/2026/09/cloudflare-containers-cross-tenant-disk-data-flaw.html)
@@ -42,6 +47,8 @@
   - [Microsoft, WSO2, Adobe vulnerabilities under active exploitation; Roundcube actively abused](https://defend.network/briefings/microsoft-wso2-adobe-critical-exploits-active-2026-09-25.html)
 - Der Flounder
   - [App Settings declarative management may block unsigned apps on macOS Golden Gate](https://derflounder.wordpress.com/2026/09/24/app-settings-declarative-management-may-block-unsigned-apps-on-macos-golden-gate/)
+- Emergent Minds | paddo.dev
+  - [Three Seats, One Mac: Running Multiple Claude Code Accounts With Shared Config](https://paddo.dev/blog/three-seats-one-mac/)
 - Google DeepMind Blog
   - [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/)
 - GuidePoint Security
@@ -58,6 +65,8 @@
   - [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
 - IEEE Spectrum
   - [Mexican EPICS in IEEE Team Builds Portable Educational Platform](https://spectrum.ieee.org/epics-in-ieee-portable-educational)
+- infosecurity-magazine.com
+  - [Researchers Identify AliExpress Phishing Domains Before Registration](https://www.infosecurity-magazine.com/news/aliexpress-phishing-flagged-early/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-24: Files for an ISC Diary (Macfinger ClickFix activity)](https://www.malware-traffic-analysis.net/2026/09/24/index.html)
 - OpenZeppelin Blog
@@ -107,6 +116,7 @@
   - [Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy](https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/)
   - [Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update](https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/)
   - [Top AI experts badly underestimated how fast the field is moving, study finds](https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/)
+  - [White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers](https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/)
 - The Verge
   - [Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face)
   - [Here’s the Tesla Semi… again](https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer)
@@ -176,6 +186,12 @@
   - [CVE-2026-91119](https://vulners.com/nvd/NVD:CVE-2026-91119?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91120](https://vulners.com/nvd/NVD:CVE-2026-91120?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91121](https://vulners.com/nvd/NVD:CVE-2026-91121?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92550 Apache Qpid Broker-J: Type size/count handling can lead to excessive allocation pre-authentication in the AMQP 0-8/0-9/0-9-1 decoder](https://vulners.com/cve/CVE-2026-92550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92550 Apache Qpid Broker-J: Type size/count handling can lead to excessive allocation pre-authentication in the AMQP 0-8/0-9/0-9-1 decoder](https://vulners.com/cvelist/CVELIST:CVE-2026-92550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92560 Apache Qpid Broker-J: Type size/count handling can lead to excessive allocation pre-authentication in the AMQP 0-10 decoder](https://vulners.com/cve/CVE-2026-92560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92560 Apache Qpid Broker-J: Type size/count handling can lead to excessive allocation pre-authentication in the AMQP 0-10 decoder](https://vulners.com/cvelist/CVELIST:CVE-2026-92560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92573 Apache Qpid Broker-J: Uncontrolled resource consumption during AMQP delivery decompression, message conversion and HTTP management JSON rendering](https://vulners.com/cve/CVE-2026-92573?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92573 Apache Qpid Broker-J: Uncontrolled resource consumption during AMQP delivery decompression, message conversion and HTTP management JSON rendering](https://vulners.com/cvelist/CVELIST:CVE-2026-92573?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93251](https://vulners.com/nvd/NVD:CVE-2026-93251?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93255](https://vulners.com/nvd/NVD:CVE-2026-93255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93256](https://vulners.com/nvd/NVD:CVE-2026-93256?utm_source=rss&utm_medium=rss&utm_campaign=rss)
