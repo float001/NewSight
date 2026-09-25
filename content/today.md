@@ -2,6 +2,9 @@
 
 - 2Libra
   - [中秋和国庆两个长假，就这么过完了，放假前的期待和兴奋，仿佛还在昨天。 ​​​](https://2libra.com/post/festival-things/u0_0zVE)
+- Ars Technica
+  - [AI was supposed to hit new grads hard. So far, unemployment data says otherwise.](https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/)
+  - [Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)](https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/)
 - blog.jim-nielsen.com
   - [Using an LLM to Automate the Process of Archiving New macOS App Icons](https://blog.jim-nielsen.com/2026/faster-app-icon-retrieval/)
 - CERT Recently Published Vulnerability Notes
@@ -14,12 +17,15 @@
 - CoinTelegraph Security
   - [Bitget clarifies $388M in assets affected by security breach](https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [Brent Simmons on ‘Stock’ Mac UI](https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html)
   - [Muse Looks Cute, but Looks Are Deceiving](https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363)
   - [Regarding the Provenance of Charm Within Meta](https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&leadSource=article-gifting)
   - [★ I’ll Wait](https://daringfireball.net/2026/09/ill_wait)
 - darkreading
   - [AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment](https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness)
   - [What We Missed: Google Gemini Joins the AI Escape Party](https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party)
+- Der Flounder
+  - [Apple Filing Protocol removed from macOS Golden Gate](https://derflounder.wordpress.com/2026/09/25/apple-filing-protocol-removed-from-macos-golden-gate/)
 - GuidePoint Security
   - [Secure AI Adoption: Close the Governance Gap to Accelerate AI in the  Cloud](https://www.guidepointsecurity.com/blog/secure-ai-adoption-cloud/)
 - Hacker News Frontpage
@@ -35,12 +41,14 @@
   - [Quoting John Gruber](https://simonwillison.net/2026/Sep/25/john-gruber/)
 - TechCrunch
   - [Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/)
+  - [Anthropic to pay Akamai $11.6 billion over seven years in cloud deal](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/)
   - [Astra and Opus just passed Turing’s other test](https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/)
   - [Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
   - [Meta is putting its muscle behind Muse as the AI app takes off](https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/)
   - [Some Supabase customers are publicly exposing reams of people’s data to the web](https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/)
   - [The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.](https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/)
 - The Block
+  - [Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO](https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913)
   - [Man charged in $16 million crypto ‘massive pig butchering’ scam](https://www.theblock.co/news/regulation/2026-09-25-man-charged-in-16-million-crypto-massive-pig-butchering-scam-416895)
 - The Decoder
   - [Another Google Deepmind researcher quits, says building superintelligent AI soon is "inherently irresponsible"](https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/)
