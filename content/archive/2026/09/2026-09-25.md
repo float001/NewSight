@@ -2,11 +2,13 @@
 
 - 2Libra
   - [各位中秋节快乐啊，中秋节你们怎么安排](https://2libra.com/post/festival-things/OY2oqCp)
+  - [没有月饼，但是有新的小徽章了！](https://2libra.com/post/forum-function/tzyopWu)
 - 404 Media
   - [This ‘World of Warcraft: Forever’ Mod Blocks All Interactions With Asmongold Fans](https://www.404media.co/this-world-of-warcraft-forever-mod-blocks-all-interactions-with-asmongold-fans/)
 - CERT Recently Published Vulnerability Notes
   - [VU#234131: ViewSonic vCast media streaming service allows unauthenticated screen exfiltration and device compromise](https://kb.cert.org/vuls/id/234131)
 - CoinTelegraph
+  - [Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express](https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs](https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitget confirms $351M security breach, suspends withdrawals](https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC updates guidance on tokenized assets, blockchain records after failed vote](https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -63,6 +65,7 @@
   - [Oracle sends force majeure notice on its New Mexico Stargate data center](https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/)
   - [PrismML brings its tiny LLMs to Qualcomm-powered smart glasses](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/)
   - [TechCrunch Founder Summit 2026: Everything you need to know](https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/)
+  - [Waymo is scaling fast. Here’s what the fleet data shows.](https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/)
 - text/plain
   - [“The” IP Address](https://textslashplain.com/2026/09/24/the-ip-address/)
 - The Block
@@ -81,11 +84,13 @@
 - The Verge
   - [Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face)
   - [It’s sinister that Meta’s Muse AI mascot is so cute](https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute)
+  - [Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures](https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats)
   - [Meta is going to let you build games with AI right on your phone](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games)
   - [Microsoft puts Brad Smith in charge of communications](https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela)
   - [Muse sure looks a lot like OpenClaw](https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike)
   - [Muse will apparently let you download its entire filesystem](https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem)
   - [Now Google Chrome shares tabs to new devices that save where you were](https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates)
+  - [Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream](https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream)
   - [Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal](https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale)
   - [These smart glasses have been recalled for overheating temples causing burns](https://www.theverge.com/tech/1000085/inmo-air3-smart-glasses-recall-cpsc-free-software-update)
 - Vulners.com RSS Feed
