@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-09-25）
 
 - 2Libra
+  - [【中秋礼物】杯子和月饼的完美搭配 🥮🥮🥮](https://2libra.com/post/festival-things/hRoC9lV)
   - [【💰】大家中秋节准备干嘛？](https://2libra.com/post/festival-things/e6umj2z)
   - [各位中秋节快乐啊，中秋节你们怎么安排](https://2libra.com/post/festival-things/OY2oqCp)
   - [没有月饼，但是有新的小徽章了！](https://2libra.com/post/forum-function/tzyopWu)
@@ -17,6 +18,7 @@
   - [Crypto treasury model loses its edge as stock premiums fade: DWF](https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed proposes new capital, redemption rules for stablecoin issuers](https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Researchers propose Zcash-style private Bitcoin transfers without a soft fork](https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC](https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Bitget Confirms $351.6M Hot Wallet Hack, Pauses Withdrawals](https://www.cyberkendra.com/2026/09/bitget-confirms-351-6m-hot-wallet-hack-pauses-withdrawals.html)
@@ -64,6 +66,7 @@
   - [Databricks buys Row Zero and is scouting for more startups to acquire](https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/)
   - [Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS](https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/)
   - [Google tests letting Gemini call businesses for you](https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/)
+  - [Lightspeed targets $250M for new India fund, focusing on early-stage AI](https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/)
   - [Meet Feather, the startup building the ‘Android of robotics’ for developers](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/)
   - [Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/)
   - [Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend](https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/)
@@ -230,6 +233,10 @@
   - [CVE-2026-97723](https://vulners.com/nvd/NVD:CVE-2026-97723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97724](https://vulners.com/cve/CVE-2026-97724?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97724](https://vulners.com/cvelist/CVELIST:CVE-2026-97724?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97737](https://vulners.com/cve/CVE-2026-97737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97737](https://vulners.com/cvelist/CVELIST:CVE-2026-97737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97764](https://vulners.com/cve/CVE-2026-97764?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97764](https://vulners.com/cvelist/CVELIST:CVE-2026-97764?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [headlesshunter](https://vulners.com/githubexploit/DDB7DE4C-7686-5540-9A7C-95E1858C4BBF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nuclei-templates](https://vulners.com/gitee/79451CF4-C409-598A-9C2C-EA829C282F2F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions](https://vulners.com/thn/THN:6C4077947C8EFF6602F141569AFFDC38?utm_source=rss&utm_medium=rss&utm_campaign=rss)
