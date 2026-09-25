@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【中秋礼物】杯子和月饼的完美搭配 🥮🥮🥮](https://2libra.com/post/festival-things/hRoC9lV)
+  - [【兑换码】中秋快乐，各位来领金币红包啦](https://2libra.com/post/festival-things/H0nikT7)
   - [【💰】大家中秋节准备干嘛？](https://2libra.com/post/festival-things/e6umj2z)
   - [各位中秋节快乐啊，中秋节你们怎么安排](https://2libra.com/post/festival-things/OY2oqCp)
   - [没有月饼，但是有新的小徽章了！](https://2libra.com/post/forum-function/tzyopWu)
@@ -52,14 +53,19 @@
   - [Mexican EPICS in IEEE Team Builds Portable Educational Platform](https://spectrum.ieee.org/epics-in-ieee-portable-educational)
 - OpenZeppelin Blog
   - [OpenZeppelin Brings Its Security Standard to the TRON Network](https://www.openzeppelin.com/news/openzeppelin-brings-its-security-standard-to-the-tron-network)
+- rtl-sdr.com
+  - [Demod Analyzer: Analyze Digital Modulation (BPSK, QPSK, 16-QAM) in IQ Files](https://www.rtl-sdr.com/demod-analyzer-analyze-digital-modulation-bpsk-qpsk-16-qam-in-iq-files/)
 - simonwillison.net
   - [commit-rewriter 0.2](https://simonwillison.net/2026/Sep/24/commit-rewriter/)
 - Sploitus.com Exploits RSS Feed
+  - [cve exploit](https://sploitus.com/exploit?id=C8078C6D-6825-53F6-86BA-ECD8D54EF61C&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Apache Ofbiz](https://sploitus.com/exploit?id=2B4C9A20-D675-5DDA-8852-7C2C54FD78F2&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-site Scripting in Cure53 Dompurify](https://sploitus.com/exploit?id=7B672122-63A3-5FA5-83D6-BCEDD230B126&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-12227](https://sploitus.com/exploit?id=BF64CC8A-E425-51C4-B7CF-76F03FDC7B72&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-87902](https://sploitus.com/exploit?id=0304011F-5F13-5AAB-B224-74810D295732&utm_source=rss&utm_medium=rss)
+  - [kj33-cpe-root-shell exploit](https://sploitus.com/exploit?id=520D7515-00FA-5BEA-B57E-FCB7B9203426&utm_source=rss&utm_medium=rss)
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=79451CF4-C409-598A-9C2C-EA829C282F2F&utm_source=rss&utm_medium=rss)
+  - [XSS-Training-YT-livestream-notion exploit](https://sploitus.com/exploit?id=09E3B5E8-8776-5355-9429-92B964BDC7BB&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B](https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/)
   - [Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/)
@@ -246,6 +252,7 @@
   - [Inside the Network of Anonymous Men Destroying Young Women’s Lives](https://www.wired.com/story/uncanny-valley-podcast-anonymous-men-turned-cyberharassment-into-group-sport-heres-one-womans-side/)
 - 不安全
   - [Android-Security-Masterclass](https://buaq.net/go-444686.html)
+  - [Demod Analyzer: Analyze Digital Modulation (BPSK, QPSK, 16-QAM) in IQ Files](https://buaq.net/go-444689.html)
   - [I reverse-engineered Crestron's AirMedia wireless-presentation protocol so I could screen-share from Ubuntu without a browser](https://buaq.net/go-444677.html)
   - [I reverse-engineered Crestron's AirMedia wireless-presentation protocol so I could screen-share from Ubuntu without a browser](https://buaq.net/go-444678.html)
   - [ShadowMem](https://buaq.net/go-444679.html)
