@@ -5,19 +5,35 @@
 - CERT Recently Published Vulnerability Notes
   - [VU#699627: Readwise Reader for Android, version 8.7.2, contains multiple XSS vulnerabilities](https://kb.cert.org/vuls/id/699627)
 - CoinTelegraph
+  - [Bitget clarifies $388M in assets affected by security breach](https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy seeks shareholder approval for daily preferred stock dividends](https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Bitget clarifies $388M in assets affected by security breach](https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Muse Looks Cute, but Looks Are Deceiving](https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363)
+  - [Regarding the Provenance of Charm Within Meta](https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&leadSource=article-gifting)
+- darkreading
+  - [What We Missed: Google Gemini Joins the AI Escape Party](https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party)
 - GuidePoint Security
   - [Secure AI Adoption: Close the Governance Gap to Accelerate AI in the  Cloud](https://www.guidepointsecurity.com/blog/secure-ai-adoption-cloud/)
+- simonwillison.net
+  - [Quoting John Gruber](https://simonwillison.net/2026/Sep/25/john-gruber/)
 - TechCrunch
+  - [Astra and Opus just passed Turing’s other test](https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/)
   - [Meta is putting its muscle behind Muse as the AI app takes off](https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/)
+  - [Some Supabase customers are publicly exposing reams of people’s data to the web](https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/)
+  - [The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.](https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/)
+- The Block
+  - [Man charged in $16 million crypto ‘massive pig butchering’ scam](https://www.theblock.co/news/regulation/2026-09-25-man-charged-in-16-million-crypto-massive-pig-butchering-scam-416895)
 - The Decoder
+  - [Another Google Deepmind researcher quits, says building superintelligent AI soon is "inherently irresponsible"](https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/)
   - [Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing](https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/)
 - The Verge
   - [Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K](https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k)
   - [Meta makes the Muse filesystem even more accessible](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem)
+  - [Phones don’t have lights](https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks)
   - [Tesla&#8217;s Optimus robot is going through growing pains](https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands)
+  - [These camera apps give you more control over the iPhone 18 Pro’s aperture](https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera)
 - Vulners.com RSS Feed
   - [CVE-2026-100230](https://vulners.com/nvd/NVD:CVE-2026-100230?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-33639](https://vulners.com/nvd/NVD:CVE-2026-33639?utm_source=rss&utm_medium=rss&utm_campaign=rss)
