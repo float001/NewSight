@@ -4,17 +4,21 @@
   - [DMARC Compliance Requirements: Everything Businesses Need To Know](https://www.cyberkendra.com/2026/09/dmarc-compliance-requirements-everything-businesses-need-to-know.html)
   - [NetScaler Shutdowns Spread Over Unconfirmed RCE Warning](https://www.cyberkendra.com/2026/09/netscaler-shutdown-warning-unverified-rce-flaws.html)
 - daringfireball.net
+  - [Alexandr Wang: ‘Why I’m Building Muse’](https://x.com/alexandr_wang/status/2103551714536439951)
   - [Apple’s Other Recent ‘Duo’](https://support.apple.com/en-us/111812)
   - [International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
   - [Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
   - [The Talk Show: ‘I’m Thinking X, Not X’](https://daringfireball.net/thetalkshow/2026/09/25/ep-455)
 - Hacker News Frontpage
   - [I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
+  - [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
 - righto.com
   - [Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC](http://www.righto.com/2026/09/8087-tangent-cordic.html)
 - TechCrunch
+  - [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)
   - [Levoit’s new air purifier is for the pet odors that have taken over your apartment](https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/)
   - [Meta says it will run ads for ‘Musk’ documentary after all](https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/)
+  - [TikTok agrees to pay at least $100M in Alabama settlement](https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/)
 - The Block
   - [Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October](https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944)
 - The Decoder
@@ -31,3 +35,5 @@
   - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/2243904C-8058-5A5D-B520-D4B6A66A1921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]qwen3.8系列微调的坑](https://key08.com/index.php/2026/09/27/3335.html)
