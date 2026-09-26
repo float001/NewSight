@@ -6,6 +6,7 @@
   - [【💰】昨天领了个大成功，给大家分享一下金币，祝各位中秋节快乐](https://2libra.com/post/festival-things/WZqSJyR)
   - [一个人的假期就是简单快乐～ 🎮🎮🎮](https://2libra.com/post/personal-life/Lpt02dv)
   - [中秋和国庆两个长假，就这么过完了，放假前的期待和兴奋，仿佛还在昨天。 ​​​](https://2libra.com/post/festival-things/u0_0zVE)
+  - [如何留存一个网站中的 app](https://2libra.com/post/help-requests/B3EdLg2)
 - 404 Media
   - [AI Love Song for Mistress Played at Murder Trial Is Most Excruciating Watch in Recent Memory](https://www.404media.co/caleb-flynn-ai-love-song-for-mistress-played-at-murder-trial-is-most-excruciating-watch-in-recent-memory/)
 - Ars Technica
@@ -38,10 +39,13 @@
   - [GitHub Actions re-compromised; North Korea suspected in $351M Bitget heist](https://defend.network/briefings/github-actions-compromised-bitget-north-korea-cryptocur-2026-09-26.html)
 - Der Flounder
   - [Apple Filing Protocol removed from macOS Golden Gate](https://derflounder.wordpress.com/2026/09/25/apple-filing-protocol-removed-from-macos-golden-gate/)
+- Emergent Minds | paddo.dev
+  - [The Boring Stack Is Cheap Again: Firebase to Postgres, Better Auth and SvelteKit](https://paddo.dev/blog/boring-stack-cheap-again/)
 - GuidePoint Security
   - [Secure AI Adoption: Close the Governance Gap to Accelerate AI in the  Cloud](https://www.guidepointsecurity.com/blog/secure-ai-adoption-cloud/)
 - Hacker News Frontpage
   - [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk)
+  - [CAPTCHAs don't prove you're human – they prove you're American](https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/)
   - [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)
   - [Meta's Muse appears to use an OpenAI model labeled muse-special](https://mouse.dev/blog/muse-special/)
   - [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
@@ -99,6 +103,7 @@
   - [CVE-2026-100208](https://vulners.com/nvd/NVD:CVE-2026-100208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100230](https://vulners.com/nvd/NVD:CVE-2026-100230?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100310](https://vulners.com/nvd/NVD:CVE-2026-100310?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100311](https://vulners.com/nvd/NVD:CVE-2026-100311?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100368](https://vulners.com/nvd/NVD:CVE-2026-100368?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100372](https://vulners.com/nvd/NVD:CVE-2026-100372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100373](https://vulners.com/nvd/NVD:CVE-2026-100373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
