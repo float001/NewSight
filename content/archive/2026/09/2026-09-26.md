@@ -33,6 +33,8 @@
 - darkreading
   - [AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment](https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness)
   - [What We Missed: Google Gemini Joins the AI Escape Party](https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party)
+- defend.network
+  - [GitHub Actions re-compromised; North Korea suspected in $351M Bitget heist](https://defend.network/briefings/github-actions-compromised-bitget-north-korea-cryptocur-2026-09-26.html)
 - Der Flounder
   - [Apple Filing Protocol removed from macOS Golden Gate](https://derflounder.wordpress.com/2026/09/25/apple-filing-protocol-removed-from-macos-golden-gate/)
 - GuidePoint Security
@@ -84,6 +86,7 @@
   - [Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing](https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/)
   - [Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says](https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/)
 - The Verge
+  - [Can an &#8216;eSUV&#8217; e-bike really go from trail to town?](https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox)
   - [Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K](https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k)
   - [Meta makes the Muse filesystem even more accessible](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem)
   - [Phones don’t have lights](https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks)
@@ -242,4 +245,5 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Velum：方便部署的CosyVoice推理程序](https://www.solidot.org/story?sid=85479)
   - [黑手党可能阻止了芬太尼流入意大利](https://www.solidot.org/story?sid=85478)
