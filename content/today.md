@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-09-26）
 
 - 2Libra
+  - [【第二定律】凡是会变坏的，必然会变坏](https://2libra.com/post/good-books/0AD-vp1)
   - [【送别随笔】时代的声音：纪念刘欢老师](https://2libra.com/post/music-sharing/P2XrwsM)
   - [【💰】昨天领了个大成功，给大家分享一下金币，祝各位中秋节快乐](https://2libra.com/post/festival-things/WZqSJyR)
   - [一个人的假期就是简单快乐～ 🎮🎮🎮](https://2libra.com/post/personal-life/Lpt02dv)
@@ -242,8 +243,12 @@
 - 不安全
   - [How do I stop being used as a "prop"?](https://buaq.net/go-444863.html)
   - [SmuggleMyPayload](https://buaq.net/go-444865.html)
+  - [The manipulation tactic of faux-concern and unreasonable solutions.](https://buaq.net/go-444885.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Velum：方便部署的CosyVoice推理程序](https://www.solidot.org/story?sid=85479)
   - [黑手党可能阻止了芬太尼流入意大利](https://www.solidot.org/story?sid=85478)
+- 量子位 QbitAI
+  - [在云栖大会，我终于看懂了米哈游千亿AI野心](https://www.qbitai.com/2026/09/497613.html)
+  - [谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架](https://www.qbitai.com/2026/09/497425.html)
