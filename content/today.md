@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-09-27）
 
+- 404 Media
+  - [Alien Life Can Survive on This Tiny Moon—We Just Need to Go Find It](https://www.404media.co/alien-life-can-survive-on-this-tiny-moon-we-just-need-to-go-find-it/)
 - Cyber Kendra
   - [DMARC Compliance Requirements: Everything Businesses Need To Know](https://www.cyberkendra.com/2026/09/dmarc-compliance-requirements-everything-businesses-need-to-know.html)
   - [NetScaler Shutdowns Spread Over Unconfirmed RCE Warning](https://www.cyberkendra.com/2026/09/netscaler-shutdown-warning-unverified-rce-flaws.html)
@@ -8,6 +10,7 @@
   - [Apple’s Other Recent ‘Duo’](https://support.apple.com/en-us/111812)
   - [International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
   - [Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
+  - [Reelizer Returns](https://www.reelizer.com/)
   - [The Talk Show: ‘I’m Thinking X, Not X’](https://daringfireball.net/thetalkshow/2026/09/25/ep-455)
 - Hacker News Frontpage
   - [I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
@@ -26,6 +29,7 @@
   - [Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army](https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/)
   - [Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them](https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/)
 - The Verge
+  - [Apple hit with $5.7 billion in damages over haptic patents](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents)
   - [Decap is the man behind the drums behind your favorite song](https://www.theverge.com/report/1000994/decap-drums-that-knock-interview)
   - [Kids turned the comment section of an NPR podcast into a group chat](https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section)
   - [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)
