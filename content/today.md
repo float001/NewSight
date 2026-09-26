@@ -113,6 +113,8 @@
   - [CVE-2026-100230](https://vulners.com/nvd/NVD:CVE-2026-100230?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100310](https://vulners.com/nvd/NVD:CVE-2026-100310?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100311](https://vulners.com/nvd/NVD:CVE-2026-100311?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100313](https://vulners.com/nvd/NVD:CVE-2026-100313?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100314](https://vulners.com/nvd/NVD:CVE-2026-100314?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100368](https://vulners.com/nvd/NVD:CVE-2026-100368?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100372](https://vulners.com/nvd/NVD:CVE-2026-100372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100373](https://vulners.com/nvd/NVD:CVE-2026-100373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -264,6 +266,7 @@
   - [priPrinter：一个「打印前编辑器」，裁剪、标注、多页合一，确认好了再打印](https://buaq.net/go-444890.html)
   - [SmuggleMyPayload](https://buaq.net/go-444865.html)
   - [The manipulation tactic of faux-concern and unreasonable solutions.](https://buaq.net/go-444885.html)
+  - [waf-detector](https://buaq.net/go-444909.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
