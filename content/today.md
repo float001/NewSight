@@ -46,6 +46,7 @@
 - Hacker News Frontpage
   - [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk)
   - [CAPTCHAs don't prove you're human – they prove you're American](https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/)
+  - [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
   - [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)
   - [Meta's Muse appears to use an OpenAI model labeled muse-special](https://mouse.dev/blog/muse-special/)
   - [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
@@ -89,6 +90,7 @@
 - The Decoder
   - [Another Google Deepmind researcher quits, says building superintelligent AI soon is "inherently irresponsible"](https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/)
   - [Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing](https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/)
+  - [OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf](https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/)
   - [Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says](https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/)
 - The Verge
   - [Can an &#8216;eSUV&#8217; e-bike really go from trail to town?](https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox)
@@ -243,6 +245,7 @@
   - [Exploit for CVE-2026-96512](https://vulners.com/githubexploit/B61E5A00-1230-5E18-BF55-19A81ED0C7A6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [unbound: Unbound: Heap buffer overflow and possible Remote Code Execution when digesting DNSKEY](https://vulners.com/redhat/RHSA-2026:72110-CVE-2026-81642?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [A Gravitational Battle Within the Earth Is Changing the Length of Days](https://www.wired.com/story/gravitational-struggle-deep-in-earth-is-changing-length-of-days/)
   - [Appeals Court Lets the Pentagon Designate Anthropic a Supply Chain Risk](https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/)
   - [Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand](https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/)
 - 不安全
@@ -255,5 +258,6 @@
   - [Velum：方便部署的CosyVoice推理程序](https://www.solidot.org/story?sid=85479)
   - [黑手党可能阻止了芬太尼流入意大利](https://www.solidot.org/story?sid=85478)
 - 量子位 QbitAI
+  - [AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo](https://www.qbitai.com/2026/09/498271.html)
   - [在云栖大会，我终于看懂了米哈游千亿AI野心](https://www.qbitai.com/2026/09/497613.html)
   - [谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架](https://www.qbitai.com/2026/09/497425.html)
