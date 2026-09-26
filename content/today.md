@@ -6,7 +6,9 @@
   - [【💰】昨天领了个大成功，给大家分享一下金币，祝各位中秋节快乐](https://2libra.com/post/festival-things/WZqSJyR)
   - [一个人的假期就是简单快乐～ 🎮🎮🎮](https://2libra.com/post/personal-life/Lpt02dv)
   - [中秋和国庆两个长假，就这么过完了，放假前的期待和兴奋，仿佛还在昨天。 ​​​](https://2libra.com/post/festival-things/u0_0zVE)
+  - [今天 applepay 出现大量盗刷](https://2libra.com/post/software-tools/r9mm8mu)
   - [如何留存一个网站中的 app](https://2libra.com/post/help-requests/B3EdLg2)
+  - [自用 B 站弹幕屏蔽词汇总【搬运】](https://2libra.com/post/sharing-discoveries/-aGcXdj)
 - 404 Media
   - [AI Love Song for Mistress Played at Murder Trial Is Most Excruciating Watch in Recent Memory](https://www.404media.co/caleb-flynn-ai-love-song-for-mistress-played-at-murder-trial-is-most-excruciating-watch-in-recent-memory/)
 - Ars Technica
@@ -66,6 +68,8 @@
   - [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction)
 - pluralistic.net
   - [Pluralistic: Itch scratching (25 Sep 2026)](https://pluralistic.net/2026/09/25/other-people/)
+- shkspr.mobi
+  - [No errors, no warnings, no gods, no masters - HTML Purity is a Fetish](https://shkspr.mobi/blog/2026/09/no-errors-no-warnings-no-gods-no-masters-html-purity-is-a-fetish/)
 - Shubham Shah
   - [do we still enjoy software engineering in the age of AI?](https://shubs.io/do-we-still-enjoy-software-engineering-in-the-age-of-ai/)
 - simonwillison.net
@@ -249,12 +253,14 @@
   - [unbound: Unbound: Heap buffer overflow and possible Remote Code Execution when digesting DNSKEY](https://vulners.com/redhat/RHSA-2026:72110-CVE-2026-81642?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Zero Trust for AI Agents Starts With Fixing Zero Visibility](https://vulners.com/thn/THN:3618D6C1D166BC7EB88982B4D579F3F8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [12 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)](https://www.wired.com/gallery/best-white-elephant-gifts-2026/)
   - [A Gravitational Battle Within the Earth Is Changing the Length of Days](https://www.wired.com/story/gravitational-struggle-deep-in-earth-is-changing-length-of-days/)
   - [Appeals Court Lets the Pentagon Designate Anthropic a Supply Chain Risk](https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/)
   - [Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?](https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/)
   - [Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand](https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/)
 - 不安全
   - [How do I stop being used as a "prop"?](https://buaq.net/go-444863.html)
+  - [I want to meet people who are interested in cybersecurity](https://buaq.net/go-444905.html)
   - [priPrinter：一个「打印前编辑器」，裁剪、标注、多页合一，确认好了再打印](https://buaq.net/go-444890.html)
   - [SmuggleMyPayload](https://buaq.net/go-444865.html)
   - [The manipulation tactic of faux-concern and unreasonable solutions.](https://buaq.net/go-444885.html)
