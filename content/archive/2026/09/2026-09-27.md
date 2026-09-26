@@ -4,6 +4,7 @@
   - [DMARC Compliance Requirements: Everything Businesses Need To Know](https://www.cyberkendra.com/2026/09/dmarc-compliance-requirements-everything-businesses-need-to-know.html)
   - [NetScaler Shutdowns Spread Over Unconfirmed RCE Warning](https://www.cyberkendra.com/2026/09/netscaler-shutdown-warning-unverified-rce-flaws.html)
 - daringfireball.net
+  - [International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
   - [Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
   - [The Talk Show: ‘I’m Thinking X, Not X’](https://daringfireball.net/thetalkshow/2026/09/25/ep-455)
 - Hacker News Frontpage
@@ -22,6 +23,8 @@
   - [Kids turned the comment section of an NPR podcast into a group chat](https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section)
   - [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)
 - Vulners.com RSS Feed
+  - [CVE-2026-77203](https://vulners.com/nvd/NVD:CVE-2026-77203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85984](https://vulners.com/nvd/NVD:CVE-2026-85984?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/2243904C-8058-5A5D-B520-D4B6A66A1921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
