@@ -2,6 +2,12 @@
 
 - 404 Media
   - [Alien Life Can Survive on This Tiny Moon—We Just Need to Go Find It](https://www.404media.co/alien-life-can-survive-on-this-tiny-moon-we-just-need-to-go-find-it/)
+- CXSecurity: World Laboratory of Bugtraq 2
+  - [CubeCart 6.7.4 SQL injection](https://cxsecurity.com/issue/WLB-2026090011)
+  - [Food-Ordering-1.0 by Kato James Kalimba | LFI](https://cxsecurity.com/issue/WLB-2026090008)
+  - [Food-Ordering-1.0 by Kato James Kalimba | LFI](https://cxsecurity.com/issue/WLB-2026090009)
+  - [PhylumEDI - Session Stored XSS to Open Redirect with CSRF](https://cxsecurity.com/issue/WLB-2026090010)
+  - [Planyo_Online_Reservation_System  3.0 Arbitrary File Read via SSRF](https://cxsecurity.com/issue/WLB-2026090012)
 - Cyber Kendra
   - [DMARC Compliance Requirements: Everything Businesses Need To Know](https://www.cyberkendra.com/2026/09/dmarc-compliance-requirements-everything-businesses-need-to-know.html)
   - [NetScaler Shutdowns Spread Over Unconfirmed RCE Warning](https://www.cyberkendra.com/2026/09/netscaler-shutdown-warning-unverified-rce-flaws.html)
@@ -15,6 +21,9 @@
 - Hacker News Frontpage
   - [I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
   - [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
+- Hexacorn
+  - [1 little known secret of UIEOrchestratorStub.exe](https://www.hexacorn.com/blog/2026/09/26/1-little-known-secret-of-uieorchestratorstub-exe/)
+  - [1 little known secret of WinCsFlags.exe](https://www.hexacorn.com/blog/2026/09/26/1-little-known-secret-of-wincsflags-exe/)
 - righto.com
   - [Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC](http://www.righto.com/2026/09/8087-tangent-cordic.html)
 - TechCrunch
@@ -34,6 +43,7 @@
   - [Kids turned the comment section of an NPR podcast into a group chat](https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section)
   - [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)
 - Vulners.com RSS Feed
+  - [CVE-2026-100739](https://vulners.com/nvd/NVD:CVE-2026-100739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77203](https://vulners.com/nvd/NVD:CVE-2026-77203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85984](https://vulners.com/nvd/NVD:CVE-2026-85984?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/2243904C-8058-5A5D-B520-D4B6A66A1921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
