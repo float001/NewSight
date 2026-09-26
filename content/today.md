@@ -25,6 +25,8 @@
   - [Strategy seeks shareholder approval for daily preferred stock dividends](https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Bitget clarifies $388M in assets affected by security breach](https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+- construction-physics.com
+  - [Reading List 2026-09-26](https://www.construction-physics.com/p/reading-list-2026-09-26)
 - daringfireball.net
   - [Brent Simmons on ‘Stock’ Mac UI](https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html)
   - [Mr. Choyka Is Apparently Doing Well](https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/)
@@ -90,6 +92,7 @@
 - The Decoder
   - [Another Google Deepmind researcher quits, says building superintelligent AI soon is "inherently irresponsible"](https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/)
   - [Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing](https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/)
+  - [Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness](https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/)
   - [OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf](https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/)
   - [Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says](https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/)
 - The Verge
@@ -244,12 +247,15 @@
   - [CVE-2026-97886](https://vulners.com/nvd/NVD:CVE-2026-97886?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-96512](https://vulners.com/githubexploit/B61E5A00-1230-5E18-BF55-19A81ED0C7A6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [unbound: Unbound: Heap buffer overflow and possible Remote Code Execution when digesting DNSKEY](https://vulners.com/redhat/RHSA-2026:72110-CVE-2026-81642?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Zero Trust for AI Agents Starts With Fixing Zero Visibility](https://vulners.com/thn/THN:3618D6C1D166BC7EB88982B4D579F3F8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Gravitational Battle Within the Earth Is Changing the Length of Days](https://www.wired.com/story/gravitational-struggle-deep-in-earth-is-changing-length-of-days/)
   - [Appeals Court Lets the Pentagon Designate Anthropic a Supply Chain Risk](https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/)
+  - [Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?](https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/)
   - [Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand](https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/)
 - 不安全
   - [How do I stop being used as a "prop"?](https://buaq.net/go-444863.html)
+  - [priPrinter：一个「打印前编辑器」，裁剪、标注、多页合一，确认好了再打印](https://buaq.net/go-444890.html)
   - [SmuggleMyPayload](https://buaq.net/go-444865.html)
   - [The manipulation tactic of faux-concern and unreasonable solutions.](https://buaq.net/go-444885.html)
 - 代码审计星球
