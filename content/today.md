@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-09-26）
 
 - 2Libra
+  - [【送别随笔】时代的声音：纪念刘欢老师](https://2libra.com/post/music-sharing/P2XrwsM)
   - [【💰】昨天领了个大成功，给大家分享一下金币，祝各位中秋节快乐](https://2libra.com/post/festival-things/WZqSJyR)
   - [一个人的假期就是简单快乐～ 🎮🎮🎮](https://2libra.com/post/personal-life/Lpt02dv)
   - [中秋和国庆两个长假，就这么过完了，放假前的期待和兴奋，仿佛还在昨天。 ​​​](https://2libra.com/post/festival-things/u0_0zVE)
