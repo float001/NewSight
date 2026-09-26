@@ -40,6 +40,7 @@
   - [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
   - [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
   - [Rising sea destroys homes, erases beaches in California](https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/)
+  - [Show HN: A game about fake news and memes](https://unspin.app/)
   - [Yes, Claude can do Nine Loops](https://www.anthropic.com/research/yes-claude-can-do-nine-loops)
 - HackerNoon
   - [The Hacker House Files: 14 Notorious Scandals From 8 Prominent SF Bay Area Houses](https://hackernoon.com/the-hacker-house-files-14-notorious-scandals-from-8-prominent-bay-area-houses?source=rss)
@@ -51,6 +52,8 @@
   - [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction)
 - pluralistic.net
   - [Pluralistic: Itch scratching (25 Sep 2026)](https://pluralistic.net/2026/09/25/other-people/)
+- Shubham Shah
+  - [do we still enjoy software engineering in the age of AI?](https://shubs.io/do-we-still-enjoy-software-engineering-in-the-age-of-ai/)
 - simonwillison.net
   - [Quoting John Gruber](https://simonwillison.net/2026/Sep/25/john-gruber/)
 - Sploitus.com Exploits RSS Feed
@@ -179,5 +182,7 @@
 - Wired
   - [Appeals Court Lets the Pentagon Designate Anthropic a Supply Chain Risk](https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/)
   - [Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand](https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/)
+- 不安全
+  - [How do I stop being used as a "prop"?](https://buaq.net/go-444863.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
