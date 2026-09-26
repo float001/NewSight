@@ -240,3 +240,5 @@
   - [SmuggleMyPayload](https://buaq.net/go-444865.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [黑手党可能阻止了芬太尼流入意大利](https://www.solidot.org/story?sid=85478)
