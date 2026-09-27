@@ -5,18 +5,26 @@
 - Cyber Kendra
   - [Citrix Patches Two Exploited NetScaler RCE Zero-Days](https://www.cyberkendra.com/2026/09/cve-2026-88771-netscaler-zero-days-exploited.html)
 - daringfireball.net
+  - [Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’](https://x.com/katienotopoulos/status/2103993429659386026)
   - [Mux: Turn Your Video Into Context](https://www.mux.com/?utm_campaign=fireball&utm_source=DF)
 - Hacker News Frontpage
+  - [Allegations of US interference in Quebec election](https://globalnews.ca/news/12073854/quebec-election-u-s-interference/)
   - [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
   - [SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]](https://www.youtube.com/watch?v=-Nvne3LzBls)
   - [There are no "rogue" AI agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
+  - [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
 - TechCrunch
+  - [Anthropic’s CEO is about to have dinner with President Trump](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/)
   - [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/)
   - [Can Muse overcome Meta’s trust issues?](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/)
   - [TechCrunch Mobility: AV companies pick their lanes](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/)
 - The Verge
+  - [Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music)
   - [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website)
 - Vulners.com RSS Feed
+  - [CVE-2026-100876](https://vulners.com/nvd/NVD:CVE-2026-100876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100877 mathurvishal CloudClassroom-PHP-Project registrationform.php cross site scripting](https://vulners.com/cve/CVE-2026-100877?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100877 mathurvishal CloudClassroom-PHP-Project registrationform.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-100877?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101043](https://vulners.com/nvd/NVD:CVE-2026-101043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101044](https://vulners.com/nvd/NVD:CVE-2026-101044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101045](https://vulners.com/nvd/NVD:CVE-2026-101045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -38,6 +46,10 @@
   - [CVE-2026-88774 Feature policy bypass due to improper HTTP URL based expression usage](https://vulners.com/cvelist/CVELIST:CVE-2026-88774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88775 Memory overflow vulnerability leading to unpredictable or erroneous behavior or Denial of Service](https://vulners.com/cve/CVE-2026-88775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88775 Memory overflow vulnerability leading to unpredictable or erroneous behavior or Denial of Service](https://vulners.com/cvelist/CVELIST:CVE-2026-88775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96279](https://vulners.com/nvd/NVD:CVE-2026-96279?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96280 Flatpak: flatpak: buffer overflow in oci delta stream path names on 32-bit systems](https://vulners.com/cve/CVE-2026-96280?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96280 Flatpak: flatpak: buffer overflow in oci delta stream path names on 32-bit systems](https://vulners.com/cvelist/CVELIST:CVE-2026-96280?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-76547](https://vulners.com/githubexploit/219F093C-5009-5CE5-8199-3CE50D3F5DB7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-88772](https://vulners.com/githubexploit/47F4D662-7265-5507-AF7B-22B94A1EC716?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
