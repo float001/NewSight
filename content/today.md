@@ -33,9 +33,11 @@
 - simonwillison.net
   - [Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/)
 - TechCrunch
+  - [Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/)
   - [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)
   - [Levoit’s new air purifier is for the pet odors that have taken over your apartment](https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/)
   - [Meta says it will run ads for ‘Musk’ documentary after all](https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/)
+  - [PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair](https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/)
   - [TikTok agrees to pay at least $100M in Alabama settlement](https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/)
 - The Block
   - [Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October](https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944)
@@ -53,7 +55,11 @@
   - [CVE-2026-77203](https://vulners.com/nvd/NVD:CVE-2026-77203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85984](https://vulners.com/nvd/NVD:CVE-2026-85984?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/2243904C-8058-5A5D-B520-D4B6A66A1921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [AI on Kubernetes: Default Helm Chart Security Configurations and Lateral Movement Risks](https://buaq.net/go-444980.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [linux-network-interface-naming](https://dyrnq.com/linux-network-interface-naming/)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]qwen3.8系列微调的坑](https://key08.com/index.php/2026/09/27/3335.html)
