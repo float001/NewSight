@@ -19,13 +19,17 @@
   - [Reelizer Returns](https://www.reelizer.com/)
   - [The Talk Show: ‘I’m Thinking X, Not X’](https://daringfireball.net/thetalkshow/2026/09/25/ep-455)
 - Hacker News Frontpage
+  - [Claude Deleted 48k Files](https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=)
   - [I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
   - [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
 - Hexacorn
+  - [1 little known secret of aidd.dll](https://www.hexacorn.com/blog/2026/09/26/1-little-known-secret-of-aidd-dll/)
   - [1 little known secret of UIEOrchestratorStub.exe](https://www.hexacorn.com/blog/2026/09/26/1-little-known-secret-of-uieorchestratorstub-exe/)
   - [1 little known secret of WinCsFlags.exe](https://www.hexacorn.com/blog/2026/09/26/1-little-known-secret-of-wincsflags-exe/)
 - righto.com
   - [Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC](http://www.righto.com/2026/09/8087-tangent-cordic.html)
+- simonwillison.net
+  - [Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/)
 - TechCrunch
   - [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)
   - [Levoit’s new air purifier is for the pet odors that have taken over your apartment](https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/)
