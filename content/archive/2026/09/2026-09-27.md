@@ -2,6 +2,7 @@
 
 - 2Libra
   - [forkgram/tdesktop 在新窗口打开 带 Topic 的群组 Forum 限定在 topic 中搜索](https://2libra.com/post/open-source-sharing/F4i2qqs)
+  - [【家有萌猫】你这表情是几个意思？](https://2libra.com/post/pet-sharing/V1Km7Sb)
   - [【💰】今天开始上班了！！](https://2libra.com/post/office-life/2jZM12K)
   - [五块钱的 Opus 5.5 把 botcf 官网炸成片](https://2libra.com/post/ai-tools/VL4qr2p)
 - 404 Media
@@ -25,6 +26,7 @@
 - Hacker News Frontpage
   - [Claude Deleted 48k Files](https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=)
   - [I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
+  - [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
   - [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
 - Hexacorn
   - [1 little known secret of aidd.dll](https://www.hexacorn.com/blog/2026/09/26/1-little-known-secret-of-aidd-dll/)
@@ -34,6 +36,8 @@
   - [Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC](http://www.righto.com/2026/09/8087-tangent-cordic.html)
 - simonwillison.net
   - [Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/)
+- Taxodium
+  - [一些關於連結的建議](https://taxodium.ink/some-advice-about-links.html)
 - TechCrunch
   - [Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/)
   - [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)
