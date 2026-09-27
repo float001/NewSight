@@ -4,11 +4,15 @@
   - [Muse 注册成功经验分享🉑](https://2libra.com/post/ai-tools/3StQtoW)
 - Cyber Kendra
   - [Citrix Patches Two Exploited NetScaler RCE Zero-Days](https://www.cyberkendra.com/2026/09/cve-2026-88771-netscaler-zero-days-exploited.html)
+- daringfireball.net
+  - [Mux: Turn Your Video Into Context](https://www.mux.com/?utm_campaign=fireball&utm_source=DF)
 - Hacker News Frontpage
+  - [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
   - [SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]](https://www.youtube.com/watch?v=-Nvne3LzBls)
   - [There are no "rogue" AI agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
 - TechCrunch
   - [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/)
+  - [Can Muse overcome Meta’s trust issues?](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/)
   - [TechCrunch Mobility: AV companies pick their lanes](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/)
 - The Verge
   - [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website)
