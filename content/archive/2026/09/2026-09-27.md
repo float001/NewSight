@@ -32,6 +32,8 @@
   - [The Talk Show: ‘I’m Thinking X, Not X’](https://daringfireball.net/thetalkshow/2026/09/25/ep-455)
 - defend.network
   - [Oracle PeopleSoft, Microsoft patches, Elementor RCE under active exploitation](https://defend.network/briefings/oracle-peoplesoft-microsoft-patch-elementor-rce-2026-09-27.html)
+- Emergent Minds | paddo.dev
+  - [The Bar Moved, Not the Speed: Claude Opus 5.5 in Practice](https://paddo.dev/blog/the-bar-moved/)
 - Hacker News Frontpage
   - [Claude Deleted 48k Files](https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=)
   - [I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
@@ -46,6 +48,7 @@
 - simonwillison.net
   - [Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/)
 - Taxodium
+  - [Emacs 代碼块导出复用](https://taxodium.ink/reusing-emacs-code-block-when-export.html)
   - [一些關於連結的建議](https://taxodium.ink/some-advice-about-links.html)
   - [使用 Emacs Everywhere，把任意輸入框用 Emacs 接管](https://taxodium.ink/use-emacs-everywhere-to-take-over-any-input-field-with-emacs.html)
   - [水蒸蛋](https://taxodium.ink/recipe-shui-zheng-dan.html)
@@ -61,6 +64,7 @@
 - The Decoder
   - [AI access makes people almost entirely unwilling to say "I don't know," study finds](https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/)
   - [Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army](https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/)
+  - [Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates](https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/)
   - [Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them](https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/)
 - The Verge
   - [Apple hit with $5.7 billion in damages over haptic patents](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents)
@@ -79,6 +83,7 @@
   - [CVE-2026-100724](https://vulners.com/nvd/NVD:CVE-2026-100724?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100725](https://vulners.com/nvd/NVD:CVE-2026-100725?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100739](https://vulners.com/nvd/NVD:CVE-2026-100739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100741](https://vulners.com/nvd/NVD:CVE-2026-100741?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100744](https://vulners.com/nvd/NVD:CVE-2026-100744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100745](https://vulners.com/nvd/NVD:CVE-2026-100745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100746](https://vulners.com/nvd/NVD:CVE-2026-100746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -137,6 +142,8 @@
   - [CVE-2026-97227](https://vulners.com/nvd/NVD:CVE-2026-97227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97319](https://vulners.com/nvd/NVD:CVE-2026-97319?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/2243904C-8058-5A5D-B520-D4B6A66A1921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes](https://www.wired.com/story/pancreatic-cells-just-one-genetic-tweak-away-from-treating-diabetes/)
 - 不安全
   - [AI on Kubernetes: Default Helm Chart Security Configurations and Lateral Movement Risks](https://buaq.net/go-444980.html)
   - [No friends that are genuinely good people](https://buaq.net/go-445005.html)
