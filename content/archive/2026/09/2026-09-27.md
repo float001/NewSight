@@ -13,6 +13,7 @@
   - [每次刷 leetcode 都有一种极强的挫败感](https://2libra.com/post/tech-rumination/CXT0R4A)
   - [独立做了一个 AI Builder 行为诊断工具，求反馈和建议](https://2libra.com/post/indie-dev/KhfGwPF)
   - [结石太难排了吧](https://2libra.com/post/health-consultation/u2jaW1Q)
+  - [🏆 本周 2Libra 龙虎榜 2026-09-21 ~ 2026-09-27](https://2libra.com/post/forum-function/H83KjwI)
 - 404 Media
   - [Alien Life Can Survive on This Tiny Moon—We Just Need to Go Find It](https://www.404media.co/alien-life-can-survive-on-this-tiny-moon-we-just-need-to-go-find-it/)
 - CoinTelegraph
@@ -40,9 +41,11 @@
   - [The Bar Moved, Not the Speed: Claude Opus 5.5 in Practice](https://paddo.dev/blog/the-bar-moved/)
 - Hacker News Frontpage
   - ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021)
+  - [10 Tells of a Slop UI](https://hereticpleb.vercel.app/blog/10-tells-of-slop)
   - [Claude Deleted 48k Files](https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=)
   - [I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
   - [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
+  - [In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
   - [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
 - Hexacorn
   - [1 little known secret of aidd.dll](https://www.hexacorn.com/blog/2026/09/26/1-little-known-secret-of-aidd-dll/)
@@ -69,9 +72,11 @@
   - [Levoit’s new air purifier is for the pet odors that have taken over your apartment](https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/)
   - [Meta says it will run ads for ‘Musk’ documentary after all](https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/)
   - [PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair](https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/)
+  - [Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises](https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/)
   - [TikTok agrees to pay at least $100M in Alabama settlement](https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/)
 - The Block
   - [Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October](https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944)
+  - [‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030](https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953)
 - The Decoder
   - [AI access makes people almost entirely unwilling to say "I don't know," study finds](https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/)
   - [Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army](https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/)
@@ -141,6 +146,8 @@
   - [CVE-2026-100863](https://vulners.com/nvd/NVD:CVE-2026-100863?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100864](https://vulners.com/nvd/NVD:CVE-2026-100864?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100865](https://vulners.com/nvd/NVD:CVE-2026-100865?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101032](https://vulners.com/nvd/NVD:CVE-2026-101032?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101033](https://vulners.com/nvd/NVD:CVE-2026-101033?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15442](https://vulners.com/nvd/NVD:CVE-2026-15442?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77203](https://vulners.com/nvd/NVD:CVE-2026-77203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81655](https://vulners.com/nvd/NVD:CVE-2026-81655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -195,3 +202,4 @@
 - 量子位 QbitAI
   - [又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录](https://www.qbitai.com/2026/09/498584.html)
   - [啥题啊能干崩OpenAI最强模型训练…](https://www.qbitai.com/2026/09/498546.html)
+  - [量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层](https://www.qbitai.com/2026/09/498633.html)
