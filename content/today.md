@@ -9,11 +9,13 @@
   - [双休日宅家折腾了一个“想得美”网站~](https://2libra.com/post/brainstorming/ge6g-wp)
   - [招助理 ： 薪资 2w ，工作内容 ：帮我挣 20w 。](https://2libra.com/post/recruiting/Dm3S7wB)
   - [每日微知天下 9 月 27 日](https://2libra.com/post/hotspot-tracking/JcULPMB)
+  - [每次刷 leetcode 都有一种极强的挫败感](https://2libra.com/post/tech-rumination/CXT0R4A)
   - [独立做了一个 AI Builder 行为诊断工具，求反馈和建议](https://2libra.com/post/indie-dev/KhfGwPF)
   - [结石太难排了吧](https://2libra.com/post/health-consultation/u2jaW1Q)
 - 404 Media
   - [Alien Life Can Survive on This Tiny Moon—We Just Need to Go Find It](https://www.404media.co/alien-life-can-survive-on-this-tiny-moon-we-just-need-to-go-find-it/)
 - CoinTelegraph
+  - [Australia asks OpenAI, Anthropic chiefs to Senate inquiry on health-data hack: Report](https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy](https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [CubeCart 6.7.4 SQL injection](https://cxsecurity.com/issue/WLB-2026090011)
@@ -45,6 +47,10 @@
   - [1 little known secret of aidd.dll](https://www.hexacorn.com/blog/2026/09/26/1-little-known-secret-of-aidd-dll/)
   - [1 little known secret of UIEOrchestratorStub.exe](https://www.hexacorn.com/blog/2026/09/26/1-little-known-secret-of-uieorchestratorstub-exe/)
   - [1 little known secret of WinCsFlags.exe](https://www.hexacorn.com/blog/2026/09/26/1-little-known-secret-of-wincsflags-exe/)
+- IEEE Spectrum
+  - [Poetry for Engineers: The UI Designer’s Dream](https://spectrum.ieee.org/poetry-user-interface-design)
+- Recent Commits to cve:main
+  - [Update Sun Sep 27 12:40:08 UTC 2026](https://github.com/trickest/cve/commit/418cfec83cda7fff35588cbd37622d373fcc70ba)
 - righto.com
   - [Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC](http://www.righto.com/2026/09/8087-tangent-cordic.html)
 - shkspr.mobi
@@ -81,6 +87,7 @@
   - [Kids turned the comment section of an NPR podcast into a group chat](https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section)
   - [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)
   - [The smart home graveyard is getting crowded](https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard)
+  - [Why OLPC’s $100 laptop never stood a chance](https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance)
 - Vulners.com RSS Feed
   - [CVE-2025-71422](https://vulners.com/nvd/NVD:CVE-2025-71422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71423](https://vulners.com/nvd/NVD:CVE-2025-71423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -97,6 +104,9 @@
   - [CVE-2026-100744](https://vulners.com/nvd/NVD:CVE-2026-100744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100745](https://vulners.com/nvd/NVD:CVE-2026-100745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100746](https://vulners.com/nvd/NVD:CVE-2026-100746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100747](https://vulners.com/nvd/NVD:CVE-2026-100747?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100748](https://vulners.com/nvd/NVD:CVE-2026-100748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100749](https://vulners.com/nvd/NVD:CVE-2026-100749?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100833](https://vulners.com/nvd/NVD:CVE-2026-100833?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100834](https://vulners.com/nvd/NVD:CVE-2026-100834?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100835](https://vulners.com/nvd/NVD:CVE-2026-100835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -158,6 +168,8 @@
   - [CVE-2026-96896](https://vulners.com/nvd/NVD:CVE-2026-96896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96897](https://vulners.com/nvd/NVD:CVE-2026-96897?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96899](https://vulners.com/nvd/NVD:CVE-2026-96899?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97164](https://vulners.com/nvd/NVD:CVE-2026-97164?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97165](https://vulners.com/nvd/NVD:CVE-2026-97165?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97227](https://vulners.com/nvd/NVD:CVE-2026-97227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97319](https://vulners.com/nvd/NVD:CVE-2026-97319?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Authentication in Openprinting Cups](https://vulners.com/githubexploit/B93942D4-6255-5A62-A9A0-BB28ADC56AFC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
