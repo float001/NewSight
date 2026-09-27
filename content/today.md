@@ -3,6 +3,7 @@
 - 2Libra
   - [forkgram/tdesktop 在新窗口打开 带 Topic 的群组 Forum 限定在 topic 中搜索](https://2libra.com/post/open-source-sharing/F4i2qqs)
   - [【家有萌猫】你这表情是几个意思？](https://2libra.com/post/pet-sharing/V1Km7Sb)
+  - [【💰】2 站第一届假期活动之中秋国庆双节，你们打算怎么过？去哪里游玩？说一说你的准备躺平\假期游玩计划。有金币。](https://2libra.com/post/festival-things/dLdt7yN)
   - [【💰】今天开始上班了！！](https://2libra.com/post/office-life/2jZM12K)
   - [五块钱的 Opus 5.5 把 botcf 官网炸成片](https://2libra.com/post/ai-tools/VL4qr2p)
   - [双休日宅家折腾了一个“想得美”网站~](https://2libra.com/post/brainstorming/ge6g-wp)
@@ -46,6 +47,8 @@
   - [1 little known secret of WinCsFlags.exe](https://www.hexacorn.com/blog/2026/09/26/1-little-known-secret-of-wincsflags-exe/)
 - righto.com
   - [Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC](http://www.righto.com/2026/09/8087-tangent-cordic.html)
+- shkspr.mobi
+  - [Gig Review: Public Service Broadcasting's Race For Space at Alexandra Palace ★★★★⯪](https://shkspr.mobi/blog/2026/09/gig-review-public-service-broadcastings-race-for-space-at-alexandra-palace/)
 - simonwillison.net
   - [Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/)
 - Taxodium
@@ -74,8 +77,10 @@
 - The Verge
   - [Apple hit with $5.7 billion in damages over haptic patents](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents)
   - [Decap is the man behind the drums behind your favorite song](https://www.theverge.com/report/1000994/decap-drums-that-knock-interview)
+  - [Googlebooks might be the real deal](https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse)
   - [Kids turned the comment section of an NPR podcast into a group chat](https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section)
   - [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)
+  - [The smart home graveyard is getting crowded](https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard)
 - Vulners.com RSS Feed
   - [CVE-2025-71422](https://vulners.com/nvd/NVD:CVE-2025-71422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71423](https://vulners.com/nvd/NVD:CVE-2025-71423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -159,6 +164,7 @@
   - [Exploit for Improper Neutralization of Special Elements Used in a Template Engine in Craftcms Craft_Cms](https://vulners.com/githubexploit/5D56D138-2846-56B7-8E1E-3199F9F65C6C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/2243904C-8058-5A5D-B520-D4B6A66A1921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Best Party Speakers (2026): JBL, Sony, Marshall, and More](https://www.wired.com/story/best-party-speaker/)
   - [Nicotine Is Mounting a Comeback in the Wellness Movement](https://www.wired.com/story/nicotine-is-mounting-a-comeback-in-the-wellness-movement/)
   - [Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes](https://www.wired.com/story/pancreatic-cells-just-one-genetic-tweak-away-from-treating-diabetes/)
   - [The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet](https://www.wired.com/story/data-center-backlash-climate-reckoning/)
