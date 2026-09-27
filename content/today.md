@@ -5,6 +5,7 @@
   - [【家有萌猫】你这表情是几个意思？](https://2libra.com/post/pet-sharing/V1Km7Sb)
   - [【💰】今天开始上班了！！](https://2libra.com/post/office-life/2jZM12K)
   - [五块钱的 Opus 5.5 把 botcf 官网炸成片](https://2libra.com/post/ai-tools/VL4qr2p)
+  - [招助理 ： 薪资 2w ，工作内容 ：帮我挣 20w 。](https://2libra.com/post/recruiting/Dm3S7wB)
   - [每日微知天下 9 月 27 日](https://2libra.com/post/hotspot-tracking/JcULPMB)
 - 404 Media
   - [Alien Life Can Survive on This Tiny Moon—We Just Need to Go Find It](https://www.404media.co/alien-life-can-survive-on-this-tiny-moon-we-just-need-to-go-find-it/)
@@ -111,6 +112,7 @@
   - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/2243904C-8058-5A5D-B520-D4B6A66A1921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [AI on Kubernetes: Default Helm Chart Security Configurations and Lateral Movement Risks](https://buaq.net/go-444980.html)
+  - [No friends that are genuinely good people](https://buaq.net/go-445005.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
