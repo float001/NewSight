@@ -5,6 +5,7 @@
   - [【家有萌猫】你这表情是几个意思？](https://2libra.com/post/pet-sharing/V1Km7Sb)
   - [【💰】今天开始上班了！！](https://2libra.com/post/office-life/2jZM12K)
   - [五块钱的 Opus 5.5 把 botcf 官网炸成片](https://2libra.com/post/ai-tools/VL4qr2p)
+  - [每日微知天下 9 月 27 日](https://2libra.com/post/hotspot-tracking/JcULPMB)
 - 404 Media
   - [Alien Life Can Survive on This Tiny Moon—We Just Need to Go Find It](https://www.404media.co/alien-life-can-survive-on-this-tiny-moon-we-just-need-to-go-find-it/)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -38,6 +39,7 @@
   - [Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/)
 - Taxodium
   - [一些關於連結的建議](https://taxodium.ink/some-advice-about-links.html)
+  - [水蒸蛋](https://taxodium.ink/recipe-shui-zheng-dan.html)
 - TechCrunch
   - [Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/)
   - [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)
@@ -70,6 +72,7 @@
   - [CVE-2026-100739](https://vulners.com/nvd/NVD:CVE-2026-100739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100744](https://vulners.com/nvd/NVD:CVE-2026-100744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100745](https://vulners.com/nvd/NVD:CVE-2026-100745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100746](https://vulners.com/nvd/NVD:CVE-2026-100746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100833](https://vulners.com/nvd/NVD:CVE-2026-100833?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100834](https://vulners.com/nvd/NVD:CVE-2026-100834?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100835](https://vulners.com/nvd/NVD:CVE-2026-100835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
