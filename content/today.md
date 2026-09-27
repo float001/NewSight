@@ -8,8 +8,12 @@
   - [双休日宅家折腾了一个“想得美”网站~](https://2libra.com/post/brainstorming/ge6g-wp)
   - [招助理 ： 薪资 2w ，工作内容 ：帮我挣 20w 。](https://2libra.com/post/recruiting/Dm3S7wB)
   - [每日微知天下 9 月 27 日](https://2libra.com/post/hotspot-tracking/JcULPMB)
+  - [独立做了一个 AI Builder 行为诊断工具，求反馈和建议](https://2libra.com/post/indie-dev/KhfGwPF)
+  - [结石太难排了吧](https://2libra.com/post/health-consultation/u2jaW1Q)
 - 404 Media
   - [Alien Life Can Survive on This Tiny Moon—We Just Need to Go Find It](https://www.404media.co/alien-life-can-survive-on-this-tiny-moon-we-just-need-to-go-find-it/)
+- CoinTelegraph
+  - [Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy](https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [CubeCart 6.7.4 SQL injection](https://cxsecurity.com/issue/WLB-2026090011)
   - [Food-Ordering-1.0 by Kato James Kalimba | LFI](https://cxsecurity.com/issue/WLB-2026090008)
@@ -43,6 +47,7 @@
   - [Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/)
 - Taxodium
   - [一些關於連結的建議](https://taxodium.ink/some-advice-about-links.html)
+  - [使用 Emacs Everywhere，把任意輸入框用 Emacs 接管](https://taxodium.ink/use-emacs-everywhere-to-take-over-any-input-field-with-emacs.html)
   - [水蒸蛋](https://taxodium.ink/recipe-shui-zheng-dan.html)
 - TechCrunch
   - [Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/)
