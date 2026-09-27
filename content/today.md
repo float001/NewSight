@@ -2,6 +2,7 @@
 
 - 2Libra
   - [forkgram/tdesktop 在新窗口打开 带 Topic 的群组 Forum 限定在 topic 中搜索](https://2libra.com/post/open-source-sharing/F4i2qqs)
+  - [opus5.5 做的声控魔法小游戏](https://2libra.com/post/personal-works/1DVewMe)
   - [【家有萌猫】你这表情是几个意思？](https://2libra.com/post/pet-sharing/V1Km7Sb)
   - [【💰】2 站第一届假期活动之中秋国庆双节，你们打算怎么过？去哪里游玩？说一说你的准备躺平\假期游玩计划。有金币。](https://2libra.com/post/festival-things/dLdt7yN)
   - [【💰】今天开始上班了！！](https://2libra.com/post/office-life/2jZM12K)
@@ -192,4 +193,5 @@
 - 白帽Wiki - 一个简单的wiki
   - [[2026]qwen3.8系列微调的坑](https://key08.com/index.php/2026/09/27/3335.html)
 - 量子位 QbitAI
+  - [又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录](https://www.qbitai.com/2026/09/498584.html)
   - [啥题啊能干崩OpenAI最强模型训练…](https://www.qbitai.com/2026/09/498546.html)
