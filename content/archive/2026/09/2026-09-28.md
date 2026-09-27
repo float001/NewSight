@@ -3,10 +3,13 @@
 - Cyber Kendra
   - [Citrix Patches Two Exploited NetScaler RCE Zero-Days](https://www.cyberkendra.com/2026/09/cve-2026-88771-netscaler-zero-days-exploited.html)
 - Hacker News Frontpage
+  - [SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]](https://www.youtube.com/watch?v=-Nvne3LzBls)
   - [There are no "rogue" AI agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
 - TechCrunch
   - [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/)
   - [TechCrunch Mobility: AV companies pick their lanes](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/)
+- The Verge
+  - [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website)
 - Vulners.com RSS Feed
   - [CVE-2026-88772 Memory overflow vulnerability leading to Remote Code Execution or Denial of Service](https://vulners.com/cve/CVE-2026-88772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88772 Memory overflow vulnerability leading to Remote Code Execution or Denial of Service](https://vulners.com/cvelist/CVELIST:CVE-2026-88772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
