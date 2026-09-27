@@ -65,6 +65,7 @@
   - [AI access makes people almost entirely unwilling to say "I don't know," study finds](https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/)
   - [Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army](https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/)
   - [Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates](https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/)
+  - [Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning](https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/)
   - [Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them](https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/)
 - The Verge
   - [Apple hit with $5.7 billion in damages over haptic patents](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents)
@@ -143,7 +144,9 @@
   - [CVE-2026-97319](https://vulners.com/nvd/NVD:CVE-2026-97319?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Stack-based Buffer Overflow in Microsoft](https://vulners.com/githubexploit/2243904C-8058-5A5D-B520-D4B6A66A1921?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Nicotine Is Mounting a Comeback in the Wellness Movement](https://www.wired.com/story/nicotine-is-mounting-a-comeback-in-the-wellness-movement/)
   - [Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes](https://www.wired.com/story/pancreatic-cells-just-one-genetic-tweak-away-from-treating-diabetes/)
+  - [The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet](https://www.wired.com/story/data-center-backlash-climate-reckoning/)
 - 不安全
   - [AI on Kubernetes: Default Helm Chart Security Configurations and Lateral Movement Risks](https://buaq.net/go-444980.html)
   - [No friends that are genuinely good people](https://buaq.net/go-445005.html)
@@ -153,3 +156,5 @@
   - [linux-network-interface-naming](https://dyrnq.com/linux-network-interface-naming/)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]qwen3.8系列微调的坑](https://key08.com/index.php/2026/09/27/3335.html)
+- 量子位 QbitAI
+  - [啥题啊能干崩OpenAI最强模型训练…](https://www.qbitai.com/2026/09/498546.html)
