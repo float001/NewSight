@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-09-27）
 
+- 2Libra
+  - [五块钱的 Opus 5.5 把 botcf 官网炸成片](https://2libra.com/post/ai-tools/VL4qr2p)
 - 404 Media
   - [Alien Life Can Survive on This Tiny Moon—We Just Need to Go Find It](https://www.404media.co/alien-life-can-survive-on-this-tiny-moon-we-just-need-to-go-find-it/)
 - CXSecurity: World Laboratory of Bugtraq 2
