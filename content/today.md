@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-09-28）
 
+- 2Libra
+  - [Muse 注册成功经验分享🉑](https://2libra.com/post/ai-tools/3StQtoW)
 - Cyber Kendra
   - [Citrix Patches Two Exploited NetScaler RCE Zero-Days](https://www.cyberkendra.com/2026/09/cve-2026-88771-netscaler-zero-days-exploited.html)
 - Hacker News Frontpage
@@ -11,6 +13,19 @@
 - The Verge
   - [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website)
 - Vulners.com RSS Feed
+  - [CVE-2026-101043](https://vulners.com/nvd/NVD:CVE-2026-101043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101044](https://vulners.com/nvd/NVD:CVE-2026-101044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101045](https://vulners.com/nvd/NVD:CVE-2026-101045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101046](https://vulners.com/nvd/NVD:CVE-2026-101046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101047](https://vulners.com/nvd/NVD:CVE-2026-101047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101048](https://vulners.com/nvd/NVD:CVE-2026-101048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101051](https://vulners.com/nvd/NVD:CVE-2026-101051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101056](https://vulners.com/nvd/NVD:CVE-2026-101056?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101057](https://vulners.com/nvd/NVD:CVE-2026-101057?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101058](https://vulners.com/nvd/NVD:CVE-2026-101058?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101059](https://vulners.com/nvd/NVD:CVE-2026-101059?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101060](https://vulners.com/nvd/NVD:CVE-2026-101060?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101061](https://vulners.com/nvd/NVD:CVE-2026-101061?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88772 Memory overflow vulnerability leading to Remote Code Execution or Denial of Service](https://vulners.com/cve/CVE-2026-88772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88772 Memory overflow vulnerability leading to Remote Code Execution or Denial of Service](https://vulners.com/cvelist/CVELIST:CVE-2026-88772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88773 HTTP Request Smuggling](https://vulners.com/cve/CVE-2026-88773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
