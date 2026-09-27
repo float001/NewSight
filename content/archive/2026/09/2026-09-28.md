@@ -10,17 +10,26 @@
 - Hacker News Frontpage
   - [Allegations of US interference in Quebec election](https://globalnews.ca/news/12073854/quebec-election-u-s-interference/)
   - [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
+  - [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
   - [SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]](https://www.youtube.com/watch?v=-Nvne3LzBls)
   - [There are no "rogue" AI agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
   - [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+- HackerNoon
+  - [Designing Agent Memory for Freshness, Supersession, and Retention](https://hackernoon.com/designing-agent-memory-for-freshness-supersession-and-retention?source=rss)
+  - [How Much Should AI Be Allowed to Decide in Your Product? A PM's Decision Tree](https://hackernoon.com/how-much-should-ai-be-allowed-to-decide-in-your-product-a-pms-decision-tree?source=rss)
+  - [The SDP Offer/Answer Rules That Bite During WebRTC Renegotiation](https://hackernoon.com/the-sdp-offeranswer-rules-that-bite-during-webrtc-renegotiation?source=rss)
+  - [Why AI Agents Forget Everything (and How to Build Ones That Don't)](https://hackernoon.com/why-ai-agents-forget-everything-and-how-to-build-ones-that-dont?source=rss)
 - TechCrunch
   - [Anthropic’s CEO is about to have dinner with President Trump](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/)
   - [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/)
   - [Can Muse overcome Meta’s trust issues?](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/)
   - [TechCrunch Mobility: AV companies pick their lanes](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/)
+- The Block
+  - [Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation](https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960)
 - The Verge
   - [Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music)
   - [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website)
+  - [Out of the Park Baseball lets me enjoy baseball even when the Mets suck](https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review)
 - Vulners.com RSS Feed
   - [CVE-2026-100876](https://vulners.com/nvd/NVD:CVE-2026-100876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100877 mathurvishal CloudClassroom-PHP-Project registrationform.php cross site scripting](https://vulners.com/cve/CVE-2026-100877?utm_source=rss&utm_medium=rss&utm_campaign=rss)
