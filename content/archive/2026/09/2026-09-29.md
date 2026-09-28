@@ -23,11 +23,13 @@
 - darkreading
   - [AI Agents Are Privileged Users; Who Is Auditing Their Access?](https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access)
   - [Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts](https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts)
+  - [One Packet Can Crash OT Servers in Industrial Sectors](https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine)
 - Fidelis Security
   - [NDR Deployment Outcomes: What CTOs Should Expect After 30 Days](https://fidelissecurity.com/threatgeek/network-security/ndr-deployment-roi/)
 - Hacker News Frontpage
   - [13 Months Sober (2025)](https://www.bobbytables.io/p/13-months-sober)
   - [First Steps of the PLC Organization – Independent Public Ledger of Credentials](https://blog.plcred.org/3mwlphq42d227)
+  - [Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline](https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/)
   - [GrapheneOS – When an app is slow](https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html)
   - [How Pew Research Center is – and is not – using AI in our work](https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/)
   - [I made a visual workspace for AI Automations](https://www.biom.dev/)
@@ -49,6 +51,7 @@
   - [Nvidia launches new platform for reining in rogue AI agents](https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/)
   - [OpenAI still doesn’t seem to have a handle on all of its rogue AI activity](https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/)
   - [Shopify opens checkout to browser-based AI agents](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/)
+  - [Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/)
   - [Tesla delays Roadster 2 event again due to bad weather](https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/)
   - [The AI boom took over Climate Week and not everyone is happy about it](https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/)
   - [The iPhone Duo may already have its first killer app: a virtual Walkman](https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/)
@@ -63,6 +66,7 @@
   - [OpenAI's AI agents exploited a Google security education game to scrape UN trade data](https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/)
 - The Verge
   - [AI is supercharging hacking, and your local hospitals and banks aren’t ready](https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready)
+  - [AMD is acquiring AI company World Labs in a deal worth more than $8 billion](https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal)
   - [Bose starts adding Auracast to its headphones](https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support)
   - [Florida seeks a ban on ChatGPT acting like a person](https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids)
   - [OpenAI keeps bulldozing mathematicians](https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group)
@@ -158,6 +162,7 @@
 - Wired
   - [Boox Announces the Picco, Its Smallest E-Reader Ever (2026)](https://www.wired.com/story/boox-picco-announcement-2026/)
   - [Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers](https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/)
+  - [Shark’s NeverChange Air Purifier Is Nearly Half Off Right Now](https://www.wired.com/story/shark-air-purifier-deal-october-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
