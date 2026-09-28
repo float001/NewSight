@@ -4,6 +4,7 @@
   - [AI 逆向软件太牛了](https://2libra.com/post/reverse-engineering/LtOQ3VP)
   - [Muse 注册成功经验分享🉑](https://2libra.com/post/ai-tools/3StQtoW)
   - [「暴走 Tik」一个邀请码](https://2libra.com/post/invite-code/RVWbREN)
+  - [【反馈】OAuth2 回调是不是出错了？](https://2libra.com/post/community/LMJEmGr)
   - [【周末家常菜】牛肉土豆炖一切～ 😋😋😋](https://2libra.com/post/personal-life/eQxnEDZ)
   - [【投票·💰】2 站是不是学生居多，一周都没几个职场话题的帖](https://2libra.com/post/workplace-stories/dr-ld76)
   - [【💰】总是学不会拒绝别人](https://2libra.com/post/mental-health/AD8z4RR)
@@ -22,6 +23,7 @@
 - CoinTelegraph
   - [Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025](https://cointelegraph.com/markets/bitcoin-etf-billion-biggest-inflow-week-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Newsom signs California ban on public officials issuing memecoins](https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP](https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea weighs crypto market makers after JPYC trades at 4 times peg](https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest](https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork](https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -47,14 +49,18 @@
   - [There are no "rogue" AI agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
   - [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
 - HackerNoon
+  - [Building Once Upon Today: Why I Tested My AI Pipeline Locally First](https://hackernoon.com/building-once-upon-today-why-i-tested-my-ai-pipeline-locally-first?source=rss)
   - [Designing Agent Memory for Freshness, Supersession, and Retention](https://hackernoon.com/designing-agent-memory-for-freshness-supersession-and-retention?source=rss)
+  - [ERCOT's Ancillary Services Market Is Sized by Forecast Error, Not by Load](https://hackernoon.com/ercots-ancillary-services-market-is-sized-by-forecast-error-not-by-load?source=rss)
   - [How Much Should AI Be Allowed to Decide in Your Product? A PM's Decision Tree](https://hackernoon.com/how-much-should-ai-be-allowed-to-decide-in-your-product-a-pms-decision-tree?source=rss)
+  - [My Waitlist Emails Passed SPF and DKIM but Failed DMARC](https://hackernoon.com/my-waitlist-emails-passed-spf-and-dkim-but-failed-dmarc?source=rss)
   - [The SDP Offer/Answer Rules That Bite During WebRTC Renegotiation](https://hackernoon.com/the-sdp-offeranswer-rules-that-bite-during-webrtc-renegotiation?source=rss)
   - [Why AI Agents Forget Everything (and How to Build Ones That Don't)](https://hackernoon.com/why-ai-agents-forget-everything-and-how-to-build-ones-that-dont?source=rss)
 - idiallo.com
   - [Edge Is Pretending to Be Chrome](https://idiallo.com/blog/edge-imitates-chrome)
 - infosecurity-magazine.com
   - [Citrix Patches Critical Zero Days Under Active Exploitation](https://www.infosecurity-magazine.com/news/citrix-patches-critical-zero-days/)
+  - [MCP Is Creating Major Governance Gaps, Researchers Warn](https://www.infosecurity-magazine.com/news/mcp-creating-major-governance-gaps/)
 - it-notes.dragas.net
   - [SmartOS: The illumos Way of Thinking About Servers](https://it-notes.dragas.net/2026/09/28/smartos-the-illumos-way-of-thinking-about-servers/)
 - Product Hunt
@@ -63,6 +69,8 @@
   - [Elektro-L3 Now Drifting West to 14.5°W: L-Band xRIT Could Return to Western Europe in October](https://www.rtl-sdr.com/elektro-l3-now-drifting-west-to-14-5w-l-band-xrit-could-return-to-western-europe-in-october/)
   - [KhanfarRX: Mayhem External App for the PortaPack H4M with Band Plan Tuning, Band Lock, EIBI “On Air Now” and FT8 Geo Map](https://www.rtl-sdr.com/khanfarrx-mayhem-external-app-for-the-portapack-h4m-with-band-plan-tuning-band-lock-eibi-on-air-now-and-ft8-geo-map/)
   - [Turning a Smartphone’s Speaker Amplifier into a Silent Intentional VHF Morse Transmitter](https://www.rtl-sdr.com/turning-a-smartphones-speaker-amplifier-into-a-silent-intentional-vhf-morse-transmitter/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-100721](https://sploitus.com/exploit?id=E4676EF8-66BD-52E8-A048-1B70924F40C5&utm_source=rss&utm_medium=rss)
 - Taxodium
   - [讀《13·67》](https://taxodium.ink/%E8%AE%80%E3%80%8A13%C2%B767%E3%80%8B.html)
 - TechCrunch
@@ -73,6 +81,7 @@
   - [Truecaller takes its scam intelligence to the open web as it looks beyond caller ID](https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/)
 - The Block
   - [Bitget starts phased withdrawal resumption following $388 million exploit](https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965)
+  - [California Gov. Gavin Newsom bans public officials from launching memecoins, takes aim at Trump](https://www.theblock.co/news/regulation/2026-09-28-california-gov-gavin-newsom-bans-public-officials-from-launching-memecoins-takes-aim-at-trump-416970)
   - [Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation](https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960)
 - The Verge
   - [Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music)
@@ -140,7 +149,9 @@
   - [Personal_Nuclei_Templates](https://vulners.com/githubexploit/1F504AB8-D05C-55F7-999C-618A6E708F94?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [resolv: resolv gem: Denial of Service via uncontrolled memory growth from crafted DNS responses](https://vulners.com/redhat/RHSA-2026:72286-CVE-2026-80212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [AI Agents Are About to Flood the Workforce. No One’s Ready for It](https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/)
   - [Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System](https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/)
+  - [Solving Math’s Greatest Problems Was an Art Form. Then Came AI](https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/)
   - [The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills](https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/)
 - 不安全
   - [akca](https://buaq.net/go-445102.html)
@@ -157,12 +168,15 @@
   - [高频业务：一种IP网段判断重叠的算法（其四）](https://buaq.net/go-445093.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [小偷想要偷英伟达芯片结果偷了 20 吨沙子](https://www.solidot.org/story?sid=85492)
 - 爱范儿
   - [早报｜苹果Vision新项目曝光，减重成为第一目标/三大运营商暂停「零元购机」/问界确认仍属鸿蒙智行](https://www.ifanr.com/1682201?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [百万阿莱失踪案｜荣耀Magic9 Pro Max 首发评测](https://www.ifanr.com/1682199?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [Ubuntu 26+MobaXterm 26.4+X11转发](https://blog.nsfocus.net/ubuntu-26mobaxterm-26-4x11%e8%bd%ac%e5%8f%91/)
   - [给X11转发环境配置中文输入](https://blog.nsfocus.net/%e7%bb%99x11%e8%bd%ac%e5%8f%91%e7%8e%af%e5%a2%83%e9%85%8d%e7%bd%ae%e4%b8%ad%e6%96%87%e8%be%93%e5%85%a5/)
+  - [绿盟科技入选Gartner®《2026中国网络安全技术成熟度曲线》11项细分领域](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%85%a5%e9%80%89gartner%e3%80%8a2026%e4%b8%ad%e5%9b%bd%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8%e6%8a%80%e6%9c%af%e6%88%90%e7%86%9f%e5%ba%a6%e6%9b%b2%e7%ba%bf/)
   - [高频业务：一种IP网段判断重叠的算法（其三）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%b8%89%ef%bc%89/)
   - [高频业务：一种IP网段判断重叠的算法（其二）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%ba%8c%ef%bc%89/)
   - [高频业务：一种IP网段判断重叠的算法（其四）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e5%9b%9b%ef%bc%89/)
