@@ -2,6 +2,8 @@
 
 - 2Libra
   - [Muse 注册成功经验分享🉑](https://2libra.com/post/ai-tools/3StQtoW)
+- CoinTelegraph
+  - [THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest](https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Citrix Patches Two Exploited NetScaler RCE Zero-Days](https://www.cyberkendra.com/2026/09/cve-2026-88771-netscaler-zero-days-exploited.html)
 - daringfireball.net
