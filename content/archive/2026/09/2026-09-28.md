@@ -21,6 +21,8 @@
   - [近视手术](https://2libra.com/post/health-consultation/Tc18ML7)
   - [这个头像潘多拉效果是不是有点小 bug？](https://2libra.com/post/community/eKsJuio)
   - [🦖 带上恐龙小队，开启史前探险！](https://2libra.com/post/personal-works/pzqtAQ1)
+- berthub.eu
+  - [Open State praatje: zonder transparantie geen democratie](https://berthub.eu/articles/posts/openstate-zonder-transparantie-geen-democratie/)
 - CoinTelegraph
   - [Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025](https://cointelegraph.com/markets/bitcoin-etf-billion-biggest-inflow-week-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Newsom signs California ban on public officials issuing memecoins](https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -71,6 +73,8 @@
   - [Elektro-L3 Now Drifting West to 14.5°W: L-Band xRIT Could Return to Western Europe in October](https://www.rtl-sdr.com/elektro-l3-now-drifting-west-to-14-5w-l-band-xrit-could-return-to-western-europe-in-october/)
   - [KhanfarRX: Mayhem External App for the PortaPack H4M with Band Plan Tuning, Band Lock, EIBI “On Air Now” and FT8 Geo Map](https://www.rtl-sdr.com/khanfarrx-mayhem-external-app-for-the-portapack-h4m-with-band-plan-tuning-band-lock-eibi-on-air-now-and-ft8-geo-map/)
   - [Turning a Smartphone’s Speaker Amplifier into a Silent Intentional VHF Morse Transmitter](https://www.rtl-sdr.com/turning-a-smartphones-speaker-amplifier-into-a-silent-intentional-vhf-morse-transmitter/)
+- shkspr.mobi
+  - [Book Review: Bobiverse Books 1-3 by Dennis E. Taylor ★★★☆☆](https://shkspr.mobi/blog/2026/09/book-review-bobiverse-books-1-3-by-dennis-e-taylor/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-100721](https://sploitus.com/exploit?id=E4676EF8-66BD-52E8-A048-1B70924F40C5&utm_source=rss&utm_medium=rss)
 - Taxodium
@@ -98,8 +102,10 @@
   - [ACPI: bus: Introduce acpi_bus_get_primary_device()](https://vulners.com/mscve/MS:CVE-2026-93251?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ACPICA: Fix use-after-free in acpi_ds_terminate_control_method()](https://vulners.com/mscve/MS:CVE-2026-97455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [apparmor: policy_int make sure list heads are initialized before fail path](https://vulners.com/mscve/MS:CVE-2026-93245?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [arm64: hibernate: mask DAIF before restoring hibernated kernel](https://vulners.com/mscve/MS:CVE-2026-93256?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [arm64: mm: Fix the lockless page-table walk in show_pte()](https://vulners.com/mscve/MS:CVE-2026-93239?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Bluetooth: hci_core: use skb_get() instead of skb_clone() for req_skb](https://vulners.com/mscve/MS:CVE-2026-93209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Bluetooth: mgmt: fix 'hdev->discovery.uuids' NULL dereference](https://vulners.com/mscve/MS:CVE-2026-93247?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100876](https://vulners.com/nvd/NVD:CVE-2026-100876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100877 mathurvishal CloudClassroom-PHP-Project registrationform.php cross site scripting](https://vulners.com/cve/CVE-2026-100877?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100877 mathurvishal CloudClassroom-PHP-Project registrationform.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-100877?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -151,6 +157,7 @@
   - [CVE-2026-96280 Flatpak: flatpak: buffer overflow in oci delta stream path names on 32-bit systems](https://vulners.com/cvelist/CVELIST:CVE-2026-96280?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96282](https://vulners.com/nvd/NVD:CVE-2026-96282?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96283](https://vulners.com/nvd/NVD:CVE-2026-96283?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [cxl/region: Validate partition index before array access](https://vulners.com/mscve/MS:CVE-2026-97423?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [drm/amdgpu: Bound GPIO I2C table entry count from VBIOS](https://vulners.com/mscve/MS:CVE-2026-97493?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [drm/amdkfd: Check bounds for allocate_sdma_queue restore_sdma_id](https://vulners.com/mscve/MS:CVE-2026-97497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [drm/gud: validate TV mode names before creating enum property](https://vulners.com/mscve/MS:CVE-2026-93234?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -177,6 +184,7 @@
   - [powerpc/irq: Fix missing r2 clobber in PCREL inline assembly](https://vulners.com/mscve/MS:CVE-2026-93259?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [RDMA/counter: Fix num_counters leak on bind_qp failure in alloc_and_bind()](https://vulners.com/mscve/MS:CVE-2026-97477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [RDMA/efa: Fix PBL chunk length computation](https://vulners.com/mscve/MS:CVE-2026-93264?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [RDMA/rtrs-srv: Fix integer underflow in process_read and process_write](https://vulners.com/mscve/MS:CVE-2026-97413?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [rds: filter RDS_INFO_* getsockopt by caller's netns](https://vulners.com/mscve/MS:CVE-2026-97476?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [regulator: tps6594: Fix device node reference leaks in multiphase loop](https://vulners.com/mscve/MS:CVE-2026-93273?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [resolv: resolv gem: Denial of Service via uncontrolled memory growth from crafted DNS responses](https://vulners.com/redhat/RHSA-2026:72286-CVE-2026-80212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -186,18 +194,22 @@
   - [smb: client: fix races in cifsd thread creation](https://vulners.com/mscve/MS:CVE-2026-93829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [spi: spi-qcom-qspi: Fix incomplete error handling in runtime PM](https://vulners.com/mscve/MS:CVE-2026-97512?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [staging: octeon: add missing tasklet_kill in cvm_oct_tx_shutdown](https://vulners.com/mscve/MS:CVE-2026-93279?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [SUNRPC: Zero rpc_gss_wire_cred at svcauth_gss_decode_credbody() entry](https://vulners.com/mscve/MS:CVE-2026-93207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [thermal/drivers/tegra/soctherma: Switch to devm cooling device registration](https://vulners.com/mscve/MS:CVE-2026-97475?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [tty: serial: 8250: protect against NULL uart->port.dev in register](https://vulners.com/mscve/MS:CVE-2026-97480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [usb: gadget: f_tcm: fix deadlock in usbg_make_tpg()](https://vulners.com/mscve/MS:CVE-2026-93214?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vxlan: mdb: Fix use-after-free in vxlan_mdb_flush()](https://vulners.com/mscve/MS:CVE-2026-93250?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wifi: ath11k: cap out-of-range rx MCS instead of leaving bogus rate](https://vulners.com/mscve/MS:CVE-2026-93271?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wifi: iwlwifi: mvm: fix out-of-bounds tid_data access in BA notif](https://vulners.com/mscve/MS:CVE-2026-93790?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wifi: libipw: fix key index receive bound checks](https://vulners.com/mscve/MS:CVE-2026-93803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [wifi: mac80211: ibss: wait for in-flight TX on disconnect](https://vulners.com/mscve/MS:CVE-2026-93804?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [wifi: rtw89: fix HE extended capability length check](https://vulners.com/mscve/MS:CVE-2026-93281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [AI Agents Are About to Flood the Workforce. No One’s Ready for It](https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/)
   - [Best Apple Watch: Series 12, Ultra 4, and SE 3 (2026)](https://www.wired.com/story/best-apple-watch/)
   - [I've Tested Over 100 Home Security Cameras. Here's Which to Buy](https://www.wired.com/story/best-security-cameras/)
   - [Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System](https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/)
+  - [OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government](https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/)
   - [Solving Math’s Greatest Problems Was an Art Form. Then Came AI](https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/)
   - [Space Lasers Are About to Get Their First Real Test Generating Energy](https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/)
   - [The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills](https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/)
@@ -230,3 +242,5 @@
   - [高频业务：一种IP网段判断重叠的算法（其三）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%b8%89%ef%bc%89/)
   - [高频业务：一种IP网段判断重叠的算法（其二）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%ba%8c%ef%bc%89/)
   - [高频业务：一种IP网段判断重叠的算法（其四）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e5%9b%9b%ef%bc%89/)
+- 量子位 QbitAI
+  - [HC归来，华为正重新定义AIDC基础设施](https://www.qbitai.com/2026/09/498787.html)
