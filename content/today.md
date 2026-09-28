@@ -100,9 +100,22 @@
 - 不安全
   - [Elektro-L3 Now Drifting West to 14.5°W: L-Band xRIT Could Return to Western Europe in October](https://buaq.net/go-445077.html)
   - [reSolver](https://buaq.net/go-445090.html)
+  - [Ubuntu 26+MobaXterm 26.4+X11转发](https://buaq.net/go-445092.html)
+  - [微软为Excel测试重磅新功能：在单元格里存储多个值 列表和嵌套数组同步加入](https://buaq.net/go-445097.html)
+  - [给X11转发环境配置中文输入](https://buaq.net/go-445091.html)
   - [讀《13·67》](https://buaq.net/go-445082.html)
+  - [重磅：GitHub已禁止使用Outlook和Hotmail邮箱注册新账号 原因是遭到持续轰炸](https://buaq.net/go-445096.html)
+  - [高频业务：一种IP网段判断重叠的算法（其三）](https://buaq.net/go-445094.html)
+  - [高频业务：一种IP网段判断重叠的算法（其二）](https://buaq.net/go-445095.html)
+  - [高频业务：一种IP网段判断重叠的算法（其四）](https://buaq.net/go-445093.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜苹果Vision新项目曝光，减重成为第一目标/三大运营商暂停「零元购机」/问界确认仍属鸿蒙智行](https://www.ifanr.com/1682201?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [百万阿莱失踪案｜荣耀Magic9 Pro Max 首发评测](https://www.ifanr.com/1682199?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [Ubuntu 26+MobaXterm 26.4+X11转发](https://blog.nsfocus.net/ubuntu-26mobaxterm-26-4x11%e8%bd%ac%e5%8f%91/)
+  - [给X11转发环境配置中文输入](https://blog.nsfocus.net/%e7%bb%99x11%e8%bd%ac%e5%8f%91%e7%8e%af%e5%a2%83%e9%85%8d%e7%bd%ae%e4%b8%ad%e6%96%87%e8%be%93%e5%85%a5/)
+  - [高频业务：一种IP网段判断重叠的算法（其三）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%b8%89%ef%bc%89/)
+  - [高频业务：一种IP网段判断重叠的算法（其二）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%ba%8c%ef%bc%89/)
+  - [高频业务：一种IP网段判断重叠的算法（其四）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e5%9b%9b%ef%bc%89/)
