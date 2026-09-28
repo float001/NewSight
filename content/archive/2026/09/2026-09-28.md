@@ -13,12 +13,14 @@
   - [今天大家都请假了嘛](https://2libra.com/post/office-life/XKvNAJ5)
   - [关于表情的一个疑惑](https://2libra.com/post/forum-function/PmSbDmV)
   - [压力就像男人的 🐥 脖一样，，每个人都说自己的很大，你的压力大不大？](https://2libra.com/post/idea/JAOe6Jb)
+  - [怎么开始限制评论字数了](https://2libra.com/post/community/XFECxex)
   - [有没有软件测试的面试题做题的网站](https://2libra.com/post/job-hunting/gdhy-yW)
   - [用 opus5.5 制作的王者万象棋游戏](https://2libra.com/post/personal-works/1vC9mQx)
   - [近视手术](https://2libra.com/post/health-consultation/Tc18ML7)
   - [这个头像潘多拉效果是不是有点小 bug？](https://2libra.com/post/community/eKsJuio)
   - [🦖 带上恐龙小队，开启史前探险！](https://2libra.com/post/personal-works/pzqtAQ1)
 - CoinTelegraph
+  - [Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025](https://cointelegraph.com/markets/bitcoin-etf-billion-biggest-inflow-week-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Newsom signs California ban on public officials issuing memecoins](https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea weighs crypto market makers after JPYC trades at 4 times peg](https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest](https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -38,6 +40,7 @@
   - [An Antidote to Roko's Basilisk](https://news.ycombinator.com/item?id=49874609)
   - [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
   - [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
+  - [Maybe don't let Muse run your Facebook Marketplace account](https://www.threads.com/@matt.j.robb/post/DdxwAJnDhNy)
   - [Microsoft drops Copilot+ branding from its new laptops](https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding)
   - [Self-parking car using genetic algorithm (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
   - [SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]](https://www.youtube.com/watch?v=-Nvne3LzBls)
@@ -50,6 +53,10 @@
   - [Why AI Agents Forget Everything (and How to Build Ones That Don't)](https://hackernoon.com/why-ai-agents-forget-everything-and-how-to-build-ones-that-dont?source=rss)
 - idiallo.com
   - [Edge Is Pretending to Be Chrome](https://idiallo.com/blog/edge-imitates-chrome)
+- infosecurity-magazine.com
+  - [Citrix Patches Critical Zero Days Under Active Exploitation](https://www.infosecurity-magazine.com/news/citrix-patches-critical-zero-days/)
+- it-notes.dragas.net
+  - [SmartOS: The illumos Way of Thinking About Servers](https://it-notes.dragas.net/2026/09/28/smartos-the-illumos-way-of-thinking-about-servers/)
 - Product Hunt
   - [Shotcandy](https://www.producthunt.com/products/shotcandy)
 - rtl-sdr.com
@@ -65,6 +72,7 @@
   - [TechCrunch Mobility: AV companies pick their lanes](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/)
   - [Truecaller takes its scam intelligence to the open web as it looks beyond caller ID](https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/)
 - The Block
+  - [Bitget starts phased withdrawal resumption following $388 million exploit](https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965)
   - [Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation](https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960)
 - The Verge
   - [Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music)
@@ -131,6 +139,9 @@
   - [Important: Red Hat Security Advisory: ruby security, bug fix, and enhancement update](https://vulners.com/redhat/RHSA-2026:72286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Personal_Nuclei_Templates](https://vulners.com/githubexploit/1F504AB8-D05C-55F7-999C-618A6E708F94?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [resolv: resolv gem: Denial of Service via uncontrolled memory growth from crafted DNS responses](https://vulners.com/redhat/RHSA-2026:72286-CVE-2026-80212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System](https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/)
+  - [The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills](https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/)
 - 不安全
   - [akca](https://buaq.net/go-445102.html)
   - [bucketbuster](https://buaq.net/go-445109.html)
