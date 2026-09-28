@@ -9,6 +9,8 @@
 - CERT Recently Published Vulnerability Notes
   - [VU#762428: Authlib library contains a signature‑verification bypass vulnerability](https://kb.cert.org/vuls/id/762428)
 - CoinTelegraph
+  - [Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report](https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Canadian ‘crypto king’ set to represent himself at fraud trial](https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC spends $11M to oppose Sherrod Brown in Ohio](https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US SEC follows CFTC in staff guidance for crypto](https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -20,6 +22,7 @@
   - [★ Spitballing Predictions for Apple’s October](https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october)
 - darkreading
   - [AI Agents Are Privileged Users; Who Is Auditing Their Access?](https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access)
+  - [Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts](https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts)
 - Fidelis Security
   - [NDR Deployment Outcomes: What CTOs Should Expect After 30 Days](https://fidelissecurity.com/threatgeek/network-security/ndr-deployment-roi/)
 - Hacker News Frontpage
@@ -28,8 +31,10 @@
   - [GrapheneOS – When an app is slow](https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html)
   - [How Pew Research Center is – and is not – using AI in our work](https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/)
   - [I made a visual workspace for AI Automations](https://www.biom.dev/)
+  - [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
   - [Launch HN: Vespper (YC F24) – SOTA Docx MCP](https://www.vespper.com/blog/launching-vespper-docx-mcp)
   - [The problem is not the AI code, but nobody knows anything anymore](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
+  - [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
 - Horizon3.ai
   - [CVE-2026-19490 | Citrix NetScaler ADC and NetScaler Gateway Authentication Bypass Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-19490/)
 - pluralistic.net
@@ -37,6 +42,7 @@
 - simonwillison.net
   - [Quoting @joedaroo](https://simonwillison.net/2026/Sep/28/joedaroo/)
 - TechCrunch
+  - [AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/)
   - [Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner](https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/)
   - [Google is killing off Gemini’s Gems in favor of ‘skills’](https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/)
   - [Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative](https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/)
@@ -64,6 +70,12 @@
   - [Trump finalizes rule to make cars less fuel efficient](https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards)
   - [Walmart won’t hike prices based on your shopping history, CEO says](https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels)
 - Vulners.com RSS Feed
+  - [CVE-2026-100370 DOMSanitizer - Incomplete data: URL Sanitization in DOMSanitizer::isDangerousUrl() Allows Base64-Encoded Payloads to Bypass href and xlink:href Validation](https://vulners.com/cve/CVE-2026-100370?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100370 DOMSanitizer - Incomplete data: URL Sanitization in DOMSanitizer::isDangerousUrl() Allows Base64-Encoded Payloads to Bypass href and xlink:href Validation](https://vulners.com/cvelist/CVELIST:CVE-2026-100370?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100371 InvoicePlane: Incomplete Authorization Remediation in Users::form() Enables Primary Administrator Account Takeover via Email Reassignment and Password Recovery](https://vulners.com/cve/CVE-2026-100371?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100371 InvoicePlane: Incomplete Authorization Remediation in Users::form() Enables Primary Administrator Account Takeover via Email Reassignment and Password Recovery](https://vulners.com/cvelist/CVELIST:CVE-2026-100371?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100392 InvoicePlane: Primary Administrator Privilege Downgrade via `Users::form()` (Missing Object-Level Authorization)](https://vulners.com/cve/CVE-2026-100392?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100392 InvoicePlane: Primary Administrator Privilege Downgrade via `Users::form()` (Missing Object-Level Authorization)](https://vulners.com/cvelist/CVELIST:CVE-2026-100392?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101076](https://vulners.com/nvd/NVD:CVE-2026-101076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101077](https://vulners.com/nvd/NVD:CVE-2026-101077?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101078](https://vulners.com/nvd/NVD:CVE-2026-101078?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -75,6 +87,11 @@
   - [CVE-2026-101100](https://vulners.com/nvd/NVD:CVE-2026-101100?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101101](https://vulners.com/nvd/NVD:CVE-2026-101101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101102](https://vulners.com/nvd/NVD:CVE-2026-101102?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101141](https://vulners.com/nvd/NVD:CVE-2026-101141?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101142](https://vulners.com/nvd/NVD:CVE-2026-101142?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101143](https://vulners.com/nvd/NVD:CVE-2026-101143?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101145 Eleveo Call Recording Software User Management userAddAction.do ldap injection](https://vulners.com/cve/CVE-2026-101145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101145 Eleveo Call Recording Software User Management userAddAction.do ldap injection](https://vulners.com/cvelist/CVELIST:CVE-2026-101145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101861](https://vulners.com/nvd/NVD:CVE-2026-101861?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101898](https://vulners.com/nvd/NVD:CVE-2026-101898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101900](https://vulners.com/nvd/NVD:CVE-2026-101900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -91,6 +108,17 @@
   - [CVE-2026-101911](https://vulners.com/nvd/NVD:CVE-2026-101911?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101912](https://vulners.com/nvd/NVD:CVE-2026-101912?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101913](https://vulners.com/nvd/NVD:CVE-2026-101913?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101914](https://vulners.com/nvd/NVD:CVE-2026-101914?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101915](https://vulners.com/nvd/NVD:CVE-2026-101915?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101917 PyJWT: PyJWKClient still amplifies unauthenticated JWKS fetches on unknown kid values (incomplete fix of CVE-2026-48524)](https://vulners.com/cve/CVE-2026-101917?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101917 PyJWT: PyJWKClient still amplifies unauthenticated JWKS fetches on unknown kid values (incomplete fix of CVE-2026-48524)](https://vulners.com/cvelist/CVELIST:CVE-2026-101917?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101918 PyJWT: Unauthenticated RecursionError DoS in pre-verification payload parse (PyJWKClient.get_signing_key_from_jwt / verify_signature=False)](https://vulners.com/cve/CVE-2026-101918?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101918 PyJWT: Unauthenticated RecursionError DoS in pre-verification payload parse (PyJWKClient.get_signing_key_from_jwt / verify_signature=False)](https://vulners.com/cvelist/CVELIST:CVE-2026-101918?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102004](https://vulners.com/nvd/NVD:CVE-2026-102004?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102005 VxWorks Memory Allocation](https://vulners.com/cve/CVE-2026-102005?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102005 VxWorks Memory Allocation](https://vulners.com/cvelist/CVELIST:CVE-2026-102005?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102266 PyJWK accepts empty HMAC keys, bypassing PyJWT's empty-key validation](https://vulners.com/cve/CVE-2026-102266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102266 PyJWK accepts empty HMAC keys, bypassing PyJWT's empty-key validation](https://vulners.com/cvelist/CVELIST:CVE-2026-102266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12342](https://vulners.com/nvd/NVD:CVE-2026-12342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45562](https://vulners.com/nvd/NVD:CVE-2026-45562?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49994](https://vulners.com/nvd/NVD:CVE-2026-49994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -104,12 +132,16 @@
   - [CVE-2026-75600](https://vulners.com/nvd/NVD:CVE-2026-75600?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85644 XS::Parse::Infix versions from 0.40 through 0.49 for Perl treat a number as an array reference](https://vulners.com/cve/CVE-2026-85644?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85644 XS::Parse::Infix versions from 0.40 through 0.49 for Perl treat a number as an array reference](https://vulners.com/cvelist/CVELIST:CVE-2026-85644?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-86950](https://vulners.com/nvd/NVD:CVE-2026-86950?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-87741](https://vulners.com/nvd/NVD:CVE-2026-87741?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88804](https://vulners.com/nvd/NVD:CVE-2026-88804?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88805](https://vulners.com/nvd/NVD:CVE-2026-88805?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88808](https://vulners.com/nvd/NVD:CVE-2026-88808?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91154](https://vulners.com/nvd/NVD:CVE-2026-91154?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93348](https://vulners.com/nvd/NVD:CVE-2026-93348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93355](https://vulners.com/nvd/NVD:CVE-2026-93355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96740](https://vulners.com/nvd/NVD:CVE-2026-96740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96760](https://vulners.com/nvd/NVD:CVE-2026-96760?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97399](https://vulners.com/nvd/NVD:CVE-2026-97399?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Heimdall](https://vulners.com/githubexploit/F78087CD-7565-541B-B2F6-57FCEABDFA7D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [IAM for AI agents: A Practical Enterprise Framework](https://vulners.com/thn/THN:097B65F90159852D44B5CC96974D017B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
