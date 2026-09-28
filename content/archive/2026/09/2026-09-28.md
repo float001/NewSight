@@ -2,11 +2,16 @@
 
 - 2Libra
   - [Muse 注册成功经验分享🉑](https://2libra.com/post/ai-tools/3StQtoW)
+  - [「暴走 Tik」一个邀请码](https://2libra.com/post/invite-code/RVWbREN)
   - [【周末家常菜】牛肉土豆炖一切～ 😋😋😋](https://2libra.com/post/personal-life/eQxnEDZ)
+  - [【投票·💰】2 站是不是学生居多，一周都没几个职场话题的帖](https://2libra.com/post/workplace-stories/dr-ld76)
+  - [【💰】闪到腰了好像，急救](https://2libra.com/post/health-consultation/SotF3x5)
   - [上海，国庆有没有兼职](https://2libra.com/post/side-business/WqXoehr)
   - [今天大家都请假了嘛](https://2libra.com/post/office-life/XKvNAJ5)
+  - [有没有软件测试的面试题做题的网站](https://2libra.com/post/job-hunting/gdhy-yW)
   - [近视手术](https://2libra.com/post/health-consultation/Tc18ML7)
 - CoinTelegraph
+  - [Newsom signs California ban on public officials issuing memecoins](https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest](https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zano rolls blockchain back a month after Gateway Address exploit](https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -18,6 +23,7 @@
   - [Allegations of US interference in Quebec election](https://globalnews.ca/news/12073854/quebec-election-u-s-interference/)
   - [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
   - [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
+  - [Microsoft drops Copilot+ branding from its new laptops](https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding)
   - [Self-parking car using genetic algorithm (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
   - [SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]](https://www.youtube.com/watch?v=-Nvne3LzBls)
   - [There are no "rogue" AI agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
@@ -55,6 +61,12 @@
   - [CVE-2026-100887](https://vulners.com/nvd/NVD:CVE-2026-100887?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100888](https://vulners.com/nvd/NVD:CVE-2026-100888?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100889](https://vulners.com/nvd/NVD:CVE-2026-100889?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100893](https://vulners.com/nvd/NVD:CVE-2026-100893?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100894](https://vulners.com/nvd/NVD:CVE-2026-100894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100895](https://vulners.com/nvd/NVD:CVE-2026-100895?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100896](https://vulners.com/nvd/NVD:CVE-2026-100896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100897](https://vulners.com/nvd/NVD:CVE-2026-100897?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100898](https://vulners.com/nvd/NVD:CVE-2026-100898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101043](https://vulners.com/nvd/NVD:CVE-2026-101043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101044](https://vulners.com/nvd/NVD:CVE-2026-101044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101045](https://vulners.com/nvd/NVD:CVE-2026-101045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -87,8 +99,10 @@
   - [Personal_Nuclei_Templates](https://vulners.com/githubexploit/1F504AB8-D05C-55F7-999C-618A6E708F94?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [Elektro-L3 Now Drifting West to 14.5°W: L-Band xRIT Could Return to Western Europe in October](https://buaq.net/go-445077.html)
+  - [reSolver](https://buaq.net/go-445090.html)
   - [讀《13·67》](https://buaq.net/go-445082.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜苹果Vision新项目曝光，减重成为第一目标/三大运营商暂停「零元购机」/问界确认仍属鸿蒙智行](https://www.ifanr.com/1682201?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [百万阿莱失踪案｜荣耀Magic9 Pro Max 首发评测](https://www.ifanr.com/1682199?utm_source=rss&utm_medium=rss&utm_campaign=)
