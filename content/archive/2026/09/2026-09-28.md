@@ -21,6 +21,9 @@
   - [How Much Should AI Be Allowed to Decide in Your Product? A PM's Decision Tree](https://hackernoon.com/how-much-should-ai-be-allowed-to-decide-in-your-product-a-pms-decision-tree?source=rss)
   - [The SDP Offer/Answer Rules That Bite During WebRTC Renegotiation](https://hackernoon.com/the-sdp-offeranswer-rules-that-bite-during-webrtc-renegotiation?source=rss)
   - [Why AI Agents Forget Everything (and How to Build Ones That Don't)](https://hackernoon.com/why-ai-agents-forget-everything-and-how-to-build-ones-that-dont?source=rss)
+- rtl-sdr.com
+  - [Elektro-L3 Now Drifting West to 14.5°W: L-Band xRIT Could Return to Western Europe in October](https://www.rtl-sdr.com/elektro-l3-now-drifting-west-to-14-5w-l-band-xrit-could-return-to-western-europe-in-october/)
+  - [Turning a Smartphone’s Speaker Amplifier into a Silent Intentional VHF Morse Transmitter](https://www.rtl-sdr.com/turning-a-smartphones-speaker-amplifier-into-a-silent-intentional-vhf-morse-transmitter/)
 - TechCrunch
   - [Anthropic’s CEO is about to have dinner with President Trump](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/)
   - [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/)
@@ -40,6 +43,9 @@
   - [CVE-2026-100882](https://vulners.com/nvd/NVD:CVE-2026-100882?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100883 Krayin laravel-crm acl.php access control](https://vulners.com/cve/CVE-2026-100883?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100883 Krayin laravel-crm acl.php access control](https://vulners.com/cvelist/CVELIST:CVE-2026-100883?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100887](https://vulners.com/nvd/NVD:CVE-2026-100887?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100888](https://vulners.com/nvd/NVD:CVE-2026-100888?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100889](https://vulners.com/nvd/NVD:CVE-2026-100889?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101043](https://vulners.com/nvd/NVD:CVE-2026-101043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101044](https://vulners.com/nvd/NVD:CVE-2026-101044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101045](https://vulners.com/nvd/NVD:CVE-2026-101045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -70,5 +76,9 @@
   - [Exploit for CVE-2026-76547](https://vulners.com/githubexploit/219F093C-5009-5CE5-8199-3CE50D3F5DB7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-88772](https://vulners.com/githubexploit/47F4D662-7265-5507-AF7B-22B94A1EC716?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Personal_Nuclei_Templates](https://vulners.com/githubexploit/1F504AB8-D05C-55F7-999C-618A6E708F94?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [Elektro-L3 Now Drifting West to 14.5°W: L-Band xRIT Could Return to Western Europe in October](https://buaq.net/go-445077.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜苹果Vision新项目曝光，减重成为第一目标/三大运营商暂停「零元购机」/问界确认仍属鸿蒙智行](https://www.ifanr.com/1682201?utm_source=rss&utm_medium=rss&utm_campaign=)
