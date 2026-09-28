@@ -11,9 +11,12 @@
   - [一个用 Agent 二创的博客程序](https://2libra.com/post/personal-works/w9z51Fe)
   - [上海，国庆有没有兼职](https://2libra.com/post/side-business/WqXoehr)
   - [今天大家都请假了嘛](https://2libra.com/post/office-life/XKvNAJ5)
+  - [关于表情的一个疑惑](https://2libra.com/post/forum-function/PmSbDmV)
+  - [压力就像男人的 🐥 脖一样，，每个人都说自己的很大，你的压力大不大？](https://2libra.com/post/idea/JAOe6Jb)
   - [有没有软件测试的面试题做题的网站](https://2libra.com/post/job-hunting/gdhy-yW)
   - [用 opus5.5 制作的王者万象棋游戏](https://2libra.com/post/personal-works/1vC9mQx)
   - [近视手术](https://2libra.com/post/health-consultation/Tc18ML7)
+  - [这个头像潘多拉效果是不是有点小 bug？](https://2libra.com/post/community/eKsJuio)
   - [🦖 带上恐龙小队，开启史前探险！](https://2libra.com/post/personal-works/pzqtAQ1)
 - CoinTelegraph
   - [Newsom signs California ban on public officials issuing memecoins](https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -26,10 +29,13 @@
 - daringfireball.net
   - [Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’](https://x.com/katienotopoulos/status/2103993429659386026)
   - [Mux: Turn Your Video Into Context](https://www.mux.com/?utm_campaign=fireball&utm_source=DF)
+- Darknet – Hacking Tools, Hacker News & Cyber Security
+  - [http-terminator – AI-Assisted HTTP Request-Smuggling Discovery](https://www.darknet.org.uk/2026/09/http-terminator-ai-request-smuggling-discovery/)
 - defend.network
   - [Citrix NetScaler, Oracle, Cloudflare RCEs under active exploitation; WAF bypasses escalate risks](https://defend.network/briefings/citrix-netscaler-cloudflare-oracle-rce-exploited-2026-09-28.html)
 - Hacker News Frontpage
   - [Allegations of US interference in Quebec election](https://globalnews.ca/news/12073854/quebec-election-u-s-interference/)
+  - [An Antidote to Roko's Basilisk](https://news.ycombinator.com/item?id=49874609)
   - [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
   - [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
   - [Microsoft drops Copilot+ branding from its new laptops](https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding)
@@ -42,6 +48,8 @@
   - [How Much Should AI Be Allowed to Decide in Your Product? A PM's Decision Tree](https://hackernoon.com/how-much-should-ai-be-allowed-to-decide-in-your-product-a-pms-decision-tree?source=rss)
   - [The SDP Offer/Answer Rules That Bite During WebRTC Renegotiation](https://hackernoon.com/the-sdp-offeranswer-rules-that-bite-during-webrtc-renegotiation?source=rss)
   - [Why AI Agents Forget Everything (and How to Build Ones That Don't)](https://hackernoon.com/why-ai-agents-forget-everything-and-how-to-build-ones-that-dont?source=rss)
+- idiallo.com
+  - [Edge Is Pretending to Be Chrome](https://idiallo.com/blog/edge-imitates-chrome)
 - Product Hunt
   - [Shotcandy](https://www.producthunt.com/products/shotcandy)
 - rtl-sdr.com
@@ -60,8 +68,11 @@
   - [Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation](https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960)
 - The Verge
   - [Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music)
+  - [Honor’s Magic 9 Pro Max has a big camera and a bigger battery](https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china)
   - [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website)
   - [Out of the Park Baseball lets me enjoy baseball even when the Mets suck](https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review)
+- troyhunt.com
+  - [Weekly Update 523: Live From a Norwegian Fjord](https://www.troyhunt.com/weekly-update-523/)
 - Vulners.com RSS Feed
   - [CVE-2026-100876](https://vulners.com/nvd/NVD:CVE-2026-100876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100877 mathurvishal CloudClassroom-PHP-Project registrationform.php cross site scripting](https://vulners.com/cve/CVE-2026-100877?utm_source=rss&utm_medium=rss&utm_campaign=rss)
