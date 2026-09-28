@@ -8,9 +8,11 @@
   - [【投票·💰】2 站是不是学生居多，一周都没几个职场话题的帖](https://2libra.com/post/workplace-stories/dr-ld76)
   - [【💰】总是学不会拒绝别人](https://2libra.com/post/mental-health/AD8z4RR)
   - [【💰】闪到腰了好像，急救](https://2libra.com/post/health-consultation/SotF3x5)
+  - [一个用 Agent 二创的博客程序](https://2libra.com/post/personal-works/w9z51Fe)
   - [上海，国庆有没有兼职](https://2libra.com/post/side-business/WqXoehr)
   - [今天大家都请假了嘛](https://2libra.com/post/office-life/XKvNAJ5)
   - [有没有软件测试的面试题做题的网站](https://2libra.com/post/job-hunting/gdhy-yW)
+  - [用 opus5.5 制作的王者万象棋游戏](https://2libra.com/post/personal-works/1vC9mQx)
   - [近视手术](https://2libra.com/post/health-consultation/Tc18ML7)
   - [🦖 带上恐龙小队，开启史前探险！](https://2libra.com/post/personal-works/pzqtAQ1)
 - CoinTelegraph
@@ -24,6 +26,8 @@
 - daringfireball.net
   - [Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’](https://x.com/katienotopoulos/status/2103993429659386026)
   - [Mux: Turn Your Video Into Context](https://www.mux.com/?utm_campaign=fireball&utm_source=DF)
+- defend.network
+  - [Citrix NetScaler, Oracle, Cloudflare RCEs under active exploitation; WAF bypasses escalate risks](https://defend.network/briefings/citrix-netscaler-cloudflare-oracle-rce-exploited-2026-09-28.html)
 - Hacker News Frontpage
   - [Allegations of US interference in Quebec election](https://globalnews.ca/news/12073854/quebec-election-u-s-interference/)
   - [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
@@ -38,6 +42,8 @@
   - [How Much Should AI Be Allowed to Decide in Your Product? A PM's Decision Tree](https://hackernoon.com/how-much-should-ai-be-allowed-to-decide-in-your-product-a-pms-decision-tree?source=rss)
   - [The SDP Offer/Answer Rules That Bite During WebRTC Renegotiation](https://hackernoon.com/the-sdp-offeranswer-rules-that-bite-during-webrtc-renegotiation?source=rss)
   - [Why AI Agents Forget Everything (and How to Build Ones That Don't)](https://hackernoon.com/why-ai-agents-forget-everything-and-how-to-build-ones-that-dont?source=rss)
+- Product Hunt
+  - [Shotcandy](https://www.producthunt.com/products/shotcandy)
 - rtl-sdr.com
   - [Elektro-L3 Now Drifting West to 14.5°W: L-Band xRIT Could Return to Western Europe in October](https://www.rtl-sdr.com/elektro-l3-now-drifting-west-to-14-5w-l-band-xrit-could-return-to-western-europe-in-october/)
   - [KhanfarRX: Mayhem External App for the PortaPack H4M with Band Plan Tuning, Band Lock, EIBI “On Air Now” and FT8 Geo Map](https://www.rtl-sdr.com/khanfarrx-mayhem-external-app-for-the-portapack-h4m-with-band-plan-tuning-band-lock-eibi-on-air-now-and-ft8-geo-map/)
@@ -79,6 +85,9 @@
   - [CVE-2026-100906](https://vulners.com/nvd/NVD:CVE-2026-100906?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100908 Eyeplus p2pcam HTTP stack-based overflow](https://vulners.com/cve/CVE-2026-100908?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100908 Eyeplus p2pcam HTTP stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-100908?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101002](https://vulners.com/nvd/NVD:CVE-2026-101002?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101003](https://vulners.com/nvd/NVD:CVE-2026-101003?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101004](https://vulners.com/nvd/NVD:CVE-2026-101004?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101043](https://vulners.com/nvd/NVD:CVE-2026-101043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101044](https://vulners.com/nvd/NVD:CVE-2026-101044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101045](https://vulners.com/nvd/NVD:CVE-2026-101045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -108,7 +117,9 @@
   - [Exploit for CVE-2026-71963](https://vulners.com/githubexploit/A3A566B8-1E43-5A76-BC68-BBAFF717598A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-76547](https://vulners.com/githubexploit/219F093C-5009-5CE5-8199-3CE50D3F5DB7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-88772](https://vulners.com/githubexploit/47F4D662-7265-5507-AF7B-22B94A1EC716?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: ruby security, bug fix, and enhancement update](https://vulners.com/redhat/RHSA-2026:72286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Personal_Nuclei_Templates](https://vulners.com/githubexploit/1F504AB8-D05C-55F7-999C-618A6E708F94?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [resolv: resolv gem: Denial of Service via uncontrolled memory growth from crafted DNS responses](https://vulners.com/redhat/RHSA-2026:72286-CVE-2026-80212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [akca](https://buaq.net/go-445102.html)
   - [bucketbuster](https://buaq.net/go-445109.html)
