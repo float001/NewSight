@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-09-28）
 
 - 2Libra
+  - [AI 逆向软件太牛了](https://2libra.com/post/reverse-engineering/LtOQ3VP)
   - [Muse 注册成功经验分享🉑](https://2libra.com/post/ai-tools/3StQtoW)
   - [「暴走 Tik」一个邀请码](https://2libra.com/post/invite-code/RVWbREN)
   - [【周末家常菜】牛肉土豆炖一切～ 😋😋😋](https://2libra.com/post/personal-life/eQxnEDZ)
@@ -11,8 +12,10 @@
   - [今天大家都请假了嘛](https://2libra.com/post/office-life/XKvNAJ5)
   - [有没有软件测试的面试题做题的网站](https://2libra.com/post/job-hunting/gdhy-yW)
   - [近视手术](https://2libra.com/post/health-consultation/Tc18ML7)
+  - [🦖 带上恐龙小队，开启史前探险！](https://2libra.com/post/personal-works/pzqtAQ1)
 - CoinTelegraph
   - [Newsom signs California ban on public officials issuing memecoins](https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [South Korea weighs crypto market makers after JPYC trades at 4 times peg](https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest](https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork](https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zano rolls blockchain back a month after Gateway Address exploit](https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -108,6 +111,7 @@
   - [Personal_Nuclei_Templates](https://vulners.com/githubexploit/1F504AB8-D05C-55F7-999C-618A6E708F94?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [akca](https://buaq.net/go-445102.html)
+  - [bucketbuster](https://buaq.net/go-445109.html)
   - [Elektro-L3 Now Drifting West to 14.5°W: L-Band xRIT Could Return to Western Europe in October](https://buaq.net/go-445077.html)
   - [reSolver](https://buaq.net/go-445090.html)
   - [Ubuntu 26+MobaXterm 26.4+X11转发](https://buaq.net/go-445092.html)
