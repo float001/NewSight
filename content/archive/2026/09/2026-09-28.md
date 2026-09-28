@@ -22,11 +22,16 @@
   - [近视手术](https://2libra.com/post/health-consultation/Tc18ML7)
   - [这个头像潘多拉效果是不是有点小 bug？](https://2libra.com/post/community/eKsJuio)
   - [🦖 带上恐龙小队，开启史前探险！](https://2libra.com/post/personal-works/pzqtAQ1)
+- 404 Media
+  - [Humans Are Reading Copilot Prompts — And They're Horrified](https://www.404media.co/humans-reading-copilot-prompts-images/)
+  - [The End of Privacy Is Here (with Kashmir Hill)](https://www.404media.co/the-end-of-privacy-is-here-with-kashmir-hill/)
 - berthub.eu
   - [Open State praatje: zonder transparantie geen democratie](https://berthub.eu/articles/posts/openstate-zonder-transparantie-geen-democratie/)
 - CoinTelegraph
+  - [Altseason is coming — and traders are more discerning this time](https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025](https://cointelegraph.com/markets/bitcoin-etf-billion-biggest-inflow-week-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Newsom signs California ban on public officials issuing memecoins](https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP](https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea weighs crypto market makers after JPYC trades at 4 times peg](https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -46,6 +51,7 @@
 - Hacker News Frontpage
   - [Allegations of US interference in Quebec election](https://globalnews.ca/news/12073854/quebec-election-u-s-interference/)
   - [An Antidote to Roko's Basilisk](https://news.ycombinator.com/item?id=49874609)
+  - [Does Reddit have an astroturfing problem? What the data suggests](https://www.petervijeh.com/projects/reddit-astroturf)
   - [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
   - [Intellectuals Are Fucking Idiots](https://markmanson.substack.com/p/intellectuals-are-fcking-idiots)
   - [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
@@ -64,6 +70,8 @@
   - [My Waitlist Emails Passed SPF and DKIM but Failed DMARC](https://hackernoon.com/my-waitlist-emails-passed-spf-and-dkim-but-failed-dmarc?source=rss)
   - [The SDP Offer/Answer Rules That Bite During WebRTC Renegotiation](https://hackernoon.com/the-sdp-offeranswer-rules-that-bite-during-webrtc-renegotiation?source=rss)
   - [Why AI Agents Forget Everything (and How to Build Ones That Don't)](https://hackernoon.com/why-ai-agents-forget-everything-and-how-to-build-ones-that-dont?source=rss)
+- Horizon3.ai
+  - [Horizon3 Earns Cyber Essentials Certification Covering NodeZero EU Network](https://horizon3.ai/news/press-release/horizon3-earns-cyber-essentials-certification-covering-nodezero-eu-network/)
 - idiallo.com
   - [Edge Is Pretending to Be Chrome](https://idiallo.com/blog/edge-imitates-chrome)
 - IEEE Spectrum
@@ -72,6 +80,7 @@
   - [Citrix Patches Critical Zero Days Under Active Exploitation](https://www.infosecurity-magazine.com/news/citrix-patches-critical-zero-days/)
   - [Deepfakes Are Becoming a Costly Reality for Businesses, Report Warns](https://www.infosecurity-magazine.com/news/deepfakes-costly-reality-for/)
   - [MCP Is Creating Major Governance Gaps, Researchers Warn](https://www.infosecurity-magazine.com/news/mcp-creating-major-governance-gaps/)
+  - [NVIDIA Launches Open Platform to Secure Autonomous AI Agents](https://www.infosecurity-magazine.com/news/nvidia-open-platform-secure/)
 - it-notes.dragas.net
   - [SmartOS: The illumos Way of Thinking About Servers](https://it-notes.dragas.net/2026/09/28/smartos-the-illumos-way-of-thinking-about-servers/)
 - MIT Technology Review
@@ -98,13 +107,19 @@
   - [Anthropic’s CEO is about to have dinner with President Trump](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/)
   - [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/)
   - [Can Muse overcome Meta’s trust issues?](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/)
+  - [ElevenLabs’ new v4 speech model supports more expression control and 90 languages](https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/)
+  - [Insuretech Outmarket raises $34.5M just months after prior round](https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/)
   - [Ocean surveillance startup Quartermaster raises another $140M](https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/)
+  - [SpaceX’s Starship rocket reaches orbit for the first time](https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/)
   - [TechCrunch Mobility: AV companies pick their lanes](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/)
   - [Truecaller takes its scam intelligence to the open web as it looks beyond caller ID](https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/)
+  - [Viral AI agent Instinct raises $1B Series C at a $10B valuation](https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/)
+  - [Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2](https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/)
 - The Block
   - [Bitget starts phased withdrawal resumption following $388 million exploit](https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965)
   - [California Gov. Gavin Newsom bans public officials from launching memecoins, takes aim at Trump](https://www.theblock.co/news/regulation/2026-09-28-california-gov-gavin-newsom-bans-public-officials-from-launching-memecoins-takes-aim-at-trump-416970)
   - [Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation](https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960)
+  - [Tom Lee’s Bitmine tops 6 million ETH after buying another 17,362 ether](https://www.theblock.co/news/business/2026-09-28-tom-lees-bitmine-tops-6-million-eth-after-buying-another-17362-ether-416989)
   - [‘Even more orange’: Strategy buys 1,665 bitcoin for $143 million as total holdings reach 847,666 BTC](https://www.theblock.co/news/business/2026-09-28-even-more-orange-michael-saylor-strategy-bitcoin-416976)
 - The Decoder
   - [A Wuhan court just made AI production costs a legal factor in copyright infringement cases](https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/)
@@ -112,9 +127,11 @@
 - The Verge
   - [Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music)
   - [Honor’s Magic 9 Pro Max has a big camera and a bigger battery](https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china)
+  - [Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’](https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents)
   - [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website)
   - [Out of the Park Baseball lets me enjoy baseball even when the Mets suck](https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review)
   - [SpaceX preps next-gen Starlink as Amazon’s competitor stalls](https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo)
+  - [The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes](https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira)
 - troyhunt.com
   - [Weekly Update 523: Live From a Norwegian Fjord](https://www.troyhunt.com/weekly-update-523/)
 - Vulners.com RSS Feed
@@ -270,6 +287,7 @@
 - Wired
   - [AI Agents Are About to Flood the Workforce. No One’s Ready for It](https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/)
   - [Best Apple Watch: Series 12, Ultra 4, and SE 3 (2026)](https://www.wired.com/story/best-apple-watch/)
+  - [Best External Hard Drives (2026): SanDisk, Samsung, and More](https://www.wired.com/story/best-portable-external-storage-drives/)
   - [Bose Launches New Wired Earbuds After More Than a Decade](https://www.wired.com/story/bose-to-release-wired-headphones-after-10-years/)
   - [I've Tested Over 100 Home Security Cameras. Here's Which to Buy](https://www.wired.com/story/best-security-cameras/)
   - [Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System](https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/)
@@ -279,6 +297,7 @@
   - [The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills](https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/)
 - 不安全
   - [akca](https://buaq.net/go-445102.html)
+  - [badbox-h713-projector](https://buaq.net/go-445196.html)
   - [bucketbuster](https://buaq.net/go-445109.html)
   - [Elektro-L3 Now Drifting West to 14.5°W: L-Band xRIT Could Return to Western Europe in October](https://buaq.net/go-445077.html)
   - [reSolver](https://buaq.net/go-445090.html)
