@@ -5,6 +5,7 @@
   - [「暴走 Tik」一个邀请码](https://2libra.com/post/invite-code/RVWbREN)
   - [【周末家常菜】牛肉土豆炖一切～ 😋😋😋](https://2libra.com/post/personal-life/eQxnEDZ)
   - [【投票·💰】2 站是不是学生居多，一周都没几个职场话题的帖](https://2libra.com/post/workplace-stories/dr-ld76)
+  - [【💰】总是学不会拒绝别人](https://2libra.com/post/mental-health/AD8z4RR)
   - [【💰】闪到腰了好像，急救](https://2libra.com/post/health-consultation/SotF3x5)
   - [上海，国庆有没有兼职](https://2libra.com/post/side-business/WqXoehr)
   - [今天大家都请假了嘛](https://2libra.com/post/office-life/XKvNAJ5)
@@ -13,6 +14,7 @@
 - CoinTelegraph
   - [Newsom signs California ban on public officials issuing memecoins](https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest](https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork](https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zano rolls blockchain back a month after Gateway Address exploit](https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Citrix Patches Two Exploited NetScaler RCE Zero-Days](https://www.cyberkendra.com/2026/09/cve-2026-88771-netscaler-zero-days-exploited.html)
@@ -44,6 +46,7 @@
   - [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/)
   - [Can Muse overcome Meta’s trust issues?](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/)
   - [TechCrunch Mobility: AV companies pick their lanes](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/)
+  - [Truecaller takes its scam intelligence to the open web as it looks beyond caller ID](https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/)
 - The Block
   - [Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation](https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960)
 - The Verge
@@ -67,6 +70,12 @@
   - [CVE-2026-100896](https://vulners.com/nvd/NVD:CVE-2026-100896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100897](https://vulners.com/nvd/NVD:CVE-2026-100897?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100898](https://vulners.com/nvd/NVD:CVE-2026-100898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100902](https://vulners.com/nvd/NVD:CVE-2026-100902?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100903](https://vulners.com/nvd/NVD:CVE-2026-100903?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100904](https://vulners.com/nvd/NVD:CVE-2026-100904?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100906](https://vulners.com/nvd/NVD:CVE-2026-100906?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100908 Eyeplus p2pcam HTTP stack-based overflow](https://vulners.com/cve/CVE-2026-100908?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100908 Eyeplus p2pcam HTTP stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-100908?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101043](https://vulners.com/nvd/NVD:CVE-2026-101043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101044](https://vulners.com/nvd/NVD:CVE-2026-101044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101045](https://vulners.com/nvd/NVD:CVE-2026-101045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -98,6 +107,7 @@
   - [Exploit for CVE-2026-88772](https://vulners.com/githubexploit/47F4D662-7265-5507-AF7B-22B94A1EC716?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Personal_Nuclei_Templates](https://vulners.com/githubexploit/1F504AB8-D05C-55F7-999C-618A6E708F94?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
+  - [akca](https://buaq.net/go-445102.html)
   - [Elektro-L3 Now Drifting West to 14.5°W: L-Band xRIT Could Return to Western Europe in October](https://buaq.net/go-445077.html)
   - [reSolver](https://buaq.net/go-445090.html)
   - [Ubuntu 26+MobaXterm 26.4+X11转发](https://buaq.net/go-445092.html)
