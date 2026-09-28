@@ -1,7 +1,13 @@
 # 今日安全资讯（2026-09-29）
 
+- 404 Media
+  - [FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data](https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/)
 - Ars Technica
   - [F1 in Azerbaijan: That was almost a close-run thing](https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/)
+  - [To keep drug prices high, pharma has been piling up the patents](https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/)
+  - [Trump cuts fuel economy standards back to 2014 levels](https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#762428: Authlib library contains a signature‑verification bypass vulnerability](https://kb.cert.org/vuls/id/762428)
 - CoinTelegraph
   - [Crypto PAC spends $11M to oppose Sherrod Brown in Ohio](https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US SEC follows CFTC in staff guidance for crypto](https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -10,6 +16,7 @@
   - [WhatsApp Malware Targets Malaysia via KuGou-Signed File](https://www.cyberkendra.com/2026/09/whatsapp-malware-malaysia-kugou-signed-loader.html)
 - daringfireball.net
   - [Duo-Man](https://x.com/viditb/status/2104103592726765722)
+  - [Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store](https://lapcatsoftware.com/articles/2026/9/8.html)
   - [★ Spitballing Predictions for Apple’s October](https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october)
 - darkreading
   - [AI Agents Are Privileged Users; Who Is Auditing Their Access?](https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access)
@@ -17,6 +24,7 @@
   - [NDR Deployment Outcomes: What CTOs Should Expect After 30 Days](https://fidelissecurity.com/threatgeek/network-security/ndr-deployment-roi/)
 - Hacker News Frontpage
   - [13 Months Sober (2025)](https://www.bobbytables.io/p/13-months-sober)
+  - [First Steps of the PLC Organization – Independent Public Ledger of Credentials](https://blog.plcred.org/3mwlphq42d227)
   - [GrapheneOS – When an app is slow](https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html)
   - [How Pew Research Center is – and is not – using AI in our work](https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/)
   - [I made a visual workspace for AI Automations](https://www.biom.dev/)
@@ -26,22 +34,30 @@
   - [CVE-2026-19490 | Citrix NetScaler ADC and NetScaler Gateway Authentication Bypass Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-19490/)
 - pluralistic.net
   - [Pluralistic: Priceful (28 Sep 2026)](https://pluralistic.net/2026/09/28/cost-of-everything/)
+- simonwillison.net
+  - [Quoting @joedaroo](https://simonwillison.net/2026/Sep/28/joedaroo/)
 - TechCrunch
   - [Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner](https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/)
   - [Google is killing off Gemini’s Gems in favor of ‘skills’](https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/)
   - [Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative](https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/)
   - [Nvidia launches new platform for reining in rogue AI agents](https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/)
   - [OpenAI still doesn’t seem to have a handle on all of its rogue AI activity](https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/)
+  - [Shopify opens checkout to browser-based AI agents](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/)
+  - [Tesla delays Roadster 2 event again due to bad weather](https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/)
+  - [The AI boom took over Climate Week and not everyone is happy about it](https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/)
   - [The iPhone Duo may already have its first killer app: a virtual Walkman](https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/)
 - The Block
   - [Citi expands Coinbase partnership to power stablecoin payments for businesses](https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082)
   - [SEC Commissioner Hester Peirce reflects on her time at the agency, what she still wanted to get done: ‘There’s no good time to leave’](https://www.theblock.co/news/regulation/2026-09-28-sec-commissioner-hester-peirce-reflects-what-she-wanted-get-done-no-good-time-to-leave-417075)
   - [Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase](https://www.theblock.co/news/business/2026-09-28-strive-pushes-bitcoin-holdings-above-27400-btc-latest-94-5-million-purchase-417035)
+  - [Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says](https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094)
 - The Decoder
   - [Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task](https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/)
+  - [More than 20 leading AI researchers warn that automated AI research poses extreme risks](https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/)
   - [OpenAI's AI agents exploited a Google security education game to scrape UN trade data](https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/)
 - The Verge
   - [AI is supercharging hacking, and your local hospitals and banks aren’t ready](https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready)
+  - [Bose starts adding Auracast to its headphones](https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support)
   - [Florida seeks a ban on ChatGPT acting like a person](https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids)
   - [OpenAI keeps bulldozing mathematicians](https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group)
   - [OpenAI’s AI agents need to catch up](https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent)
@@ -108,6 +124,7 @@
   - [kernel: RDMA/vmw_pvrdma: Fix double free on pvrdma_alloc_ucontext() error path](https://vulners.com/redhat/RHSA-2026:72630-CVE-2026-46189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [resolv: resolv gem: Denial of Service via uncontrolled memory growth from crafted DNS responses](https://vulners.com/redhat/RHSA-2026:72485-CVE-2026-80212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Boox Announces the Picco, Its Smallest E-Reader Ever (2026)](https://www.wired.com/story/boox-picco-announcement-2026/)
   - [Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers](https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
