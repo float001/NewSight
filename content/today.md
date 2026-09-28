@@ -2,8 +2,13 @@
 
 - 2Libra
   - [Muse 注册成功经验分享🉑](https://2libra.com/post/ai-tools/3StQtoW)
+  - [【周末家常菜】牛肉土豆炖一切～ 😋😋😋](https://2libra.com/post/personal-life/eQxnEDZ)
+  - [上海，国庆有没有兼职](https://2libra.com/post/side-business/WqXoehr)
+  - [今天大家都请假了嘛](https://2libra.com/post/office-life/XKvNAJ5)
+  - [近视手术](https://2libra.com/post/health-consultation/Tc18ML7)
 - CoinTelegraph
   - [THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest](https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Zano rolls blockchain back a month after Gateway Address exploit](https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Citrix Patches Two Exploited NetScaler RCE Zero-Days](https://www.cyberkendra.com/2026/09/cve-2026-88771-netscaler-zero-days-exploited.html)
 - daringfireball.net
@@ -13,6 +18,7 @@
   - [Allegations of US interference in Quebec election](https://globalnews.ca/news/12073854/quebec-election-u-s-interference/)
   - [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
   - [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
+  - [Self-parking car using genetic algorithm (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
   - [SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]](https://www.youtube.com/watch?v=-Nvne3LzBls)
   - [There are no "rogue" AI agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
   - [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
@@ -23,7 +29,10 @@
   - [Why AI Agents Forget Everything (and How to Build Ones That Don't)](https://hackernoon.com/why-ai-agents-forget-everything-and-how-to-build-ones-that-dont?source=rss)
 - rtl-sdr.com
   - [Elektro-L3 Now Drifting West to 14.5°W: L-Band xRIT Could Return to Western Europe in October](https://www.rtl-sdr.com/elektro-l3-now-drifting-west-to-14-5w-l-band-xrit-could-return-to-western-europe-in-october/)
+  - [KhanfarRX: Mayhem External App for the PortaPack H4M with Band Plan Tuning, Band Lock, EIBI “On Air Now” and FT8 Geo Map](https://www.rtl-sdr.com/khanfarrx-mayhem-external-app-for-the-portapack-h4m-with-band-plan-tuning-band-lock-eibi-on-air-now-and-ft8-geo-map/)
   - [Turning a Smartphone’s Speaker Amplifier into a Silent Intentional VHF Morse Transmitter](https://www.rtl-sdr.com/turning-a-smartphones-speaker-amplifier-into-a-silent-intentional-vhf-morse-transmitter/)
+- Taxodium
+  - [讀《13·67》](https://taxodium.ink/%E8%AE%80%E3%80%8A13%C2%B767%E3%80%8B.html)
 - TechCrunch
   - [Anthropic’s CEO is about to have dinner with President Trump](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/)
   - [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/)
@@ -78,6 +87,7 @@
   - [Personal_Nuclei_Templates](https://vulners.com/githubexploit/1F504AB8-D05C-55F7-999C-618A6E708F94?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [Elektro-L3 Now Drifting West to 14.5°W: L-Band xRIT Could Return to Western Europe in October](https://buaq.net/go-445077.html)
+  - [讀《13·67》](https://buaq.net/go-445082.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
