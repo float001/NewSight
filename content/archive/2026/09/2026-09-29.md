@@ -10,9 +10,11 @@
   - [【请教】如何用 AI 优化管理](https://2libra.com/post/idea/xq6GPOK)
   - [【💰】国庆大家都计划做什么](https://2libra.com/post/festival-things/8A3idDr)
   - [为何汤粉店的汤特别烫，很难凉下来](https://2libra.com/post/questions/lPeVviy)
+  - [前两天媳妇的 iPhone 坏了，她很高兴](https://2libra.com/post/apple/-018xcA)
   - [卡皮巴拉徽章](https://2libra.com/post/forum-function/hoBoVWi)
   - [发现小红书用户暴涨 200% 短时间，我建了个男版小红书 干死小红书](https://2libra.com/post/promotion/bnm9EuJ)
   - [好无聊啊，没有心思工作！](https://2libra.com/post/touch-fish/VJpLCkp)
+  - [熬夜看了部 AI 短剧，是否有高质量短剧剧推荐？](https://2libra.com/post/movie-sharing/Rfh10if)
 - 404 Media
   - [FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data](https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/)
 - Ars Technica
@@ -25,8 +27,10 @@
   - [Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report](https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Canadian ‘crypto king’ set to represent himself at fraud trial](https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC spends $11M to oppose Sherrod Brown in Ohio](https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NEAR Intents says it blocked $50M tied to Bitget hackers](https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents](https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Tether says it helped freeze $550M in Iran-linked USDT this year](https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US SEC follows CFTC in staff guidance for crypto](https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Microsoft Details NeedyMantis Post-Compromise Malware](https://www.cyberkendra.com/2026/09/needymantis-malware-microsoft-storm-3069.html)
@@ -75,6 +79,7 @@
 - TechCrunch
   - [AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/)
   - [Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner](https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/)
+  - [Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/)
   - [Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds](https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/)
   - [Google is killing off Gemini’s Gems in favor of ‘skills’](https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/)
   - [Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative](https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/)
