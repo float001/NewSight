@@ -9,15 +9,22 @@
   - [【人好难瘦】最近的吃吃吃。。。 🍉🍉🍉](https://2libra.com/post/health-consultation/014oXXT)
   - [【兑换码】🎁 国庆限时福利 | Proxy001 全球住宅代理 — 1 亿 + 真实 IP 覆盖 200 + 国，新用户免费领 1GB！](https://2libra.com/post/promotion/sAehsiR)
   - [【请教】如何用 AI 优化管理](https://2libra.com/post/idea/xq6GPOK)
+  - [【💰】vibe code 了一个电车锁车音效的小程序](https://2libra.com/post/personal-works/Yk3BSv7)
   - [【💰】国庆大家都计划做什么](https://2libra.com/post/festival-things/8A3idDr)
+  - [【💰】大家给点建议把](https://2libra.com/post/indie-dev/8yr6vsr)
   - [为何汤粉店的汤特别烫，很难凉下来](https://2libra.com/post/questions/lPeVviy)
+  - [你遇到过世界上另一个自己吗？](https://2libra.com/post/small-things/8cvz1jm)
   - [前两天媳妇的 iPhone 坏了，她很高兴](https://2libra.com/post/apple/-018xcA)
   - [卡皮巴拉徽章](https://2libra.com/post/forum-function/hoBoVWi)
+  - [发现一个有趣的网页，摧毁任何网页](https://2libra.com/post/sharing-discoveries/HeQZV81)
   - [发现小红书用户暴涨 200% 短时间，我建了个男版小红书 干死小红书](https://2libra.com/post/promotion/bnm9EuJ)
   - [国庆预热，免费送福利，动态住宅 ip+流量免费用，三天的量](https://2libra.com/post/promotion/Nx0jQH1)
+  - [大家在电脑上如何看短剧？顺便推荐一个非官方的红果客户端。](https://2libra.com/post/movie-sharing/jGyydbl)
   - [奇怪的奖金发放方式](https://2libra.com/post/workplace-stories/vrh7wAo)
   - [好无聊啊，没有心思工作！](https://2libra.com/post/touch-fish/VJpLCkp)
+  - [有一日两餐的吗?](https://2libra.com/post/personal-life/kN4K5qD)
   - [熬夜看了部 AI 短剧，是否有高质量短剧剧推荐？](https://2libra.com/post/movie-sharing/Rfh10if)
+  - [难搞了，快放假了，结果出现了头热喉咙痒](https://2libra.com/post/personal-life/juA98XI)
 - 404 Media
   - [FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data](https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/)
 - Ars Technica
@@ -65,6 +72,7 @@
   - [I made a visual workspace for AI Automations](https://www.biom.dev/)
   - [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
   - [Launch HN: Vespper (YC F24) – SOTA Docx MCP](https://www.vespper.com/blog/launching-vespper-docx-mcp)
+  - [OpenAI: Tomorrow we are re-opening the Pro $200 subscription](https://twitter.com/thsottiaux/status/2104823812042940713)
   - [The problem is not the AI code, but nobody knows anything anymore](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
   - [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
 - Horizon3.ai
@@ -291,6 +299,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Starship 完成首次轨道发射](https://www.solidot.org/story?sid=85497)
+  - [Windows 10 更新 bug 远少于 Windows 11](https://www.solidot.org/story?sid=85499)
   - [中国冰川大幅减少](https://www.solidot.org/story?sid=85498)
 - 爱范儿
   - [5000 吨的星舰入轨，人类最大的火箭开始「送快递」了](https://www.ifanr.com/1682333?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -303,4 +312,7 @@
   - [微软8月安全更新多个产品高危漏洞通告](https://blog.nsfocus.net/%e5%be%ae%e8%bd%af8%e6%9c%88%e5%ae%89%e5%85%a8%e6%9b%b4%e6%96%b0%e5%a4%9a%e4%b8%aa%e4%ba%a7%e5%93%81%e9%ab%98%e5%8d%b1%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
   - [给英文版Ubuntu 26安装中文输入法](https://blog.nsfocus.net/%e7%bb%99%e8%8b%b1%e6%96%87%e7%89%88ubuntu-26%e5%ae%89%e8%a3%85%e4%b8%ad%e6%96%87%e8%be%93%e5%85%a5%e6%b3%95/)
 - 量子位 QbitAI
+  - [OpenAI因新模型太强叫停发布](https://www.qbitai.com/2026/09/499140.html)
+  - [成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元](https://www.qbitai.com/2026/09/499135.html)
   - [李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地](https://www.qbitai.com/2026/09/499098.html)
+  - [精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！](https://www.qbitai.com/2026/09/499188.html)
