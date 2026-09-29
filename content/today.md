@@ -1,8 +1,75 @@
 # 今日安全资讯（2026-09-30）
 
+- 2Libra
+  - [魔兽世界·无限？魔兽版原神？](https://2libra.com/post/game-discussion/lXSwBF7)
+- CoinTelegraph
+  - [Bitcoin gives back gains as long-term holder supply keeps $85K out of reach](https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach](https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Fuzzing Labs
+  - [Nuit de la Sécurité Globale 2026: a Coup de Cœur for FuzzingLabs](https://fuzzinglabs.com/coup-de-coeur-nuit-securite-globale-2026/)
+- Hacker News Frontpage
+  - [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)
+- TechCrunch
+  - [Can a chatbot fix the government maze? The White House is about to find out](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/)
 - The Block
   - [Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2](https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174)
+- The Decoder
+  - [Florida wants a court to stop ChatGPT from pretending to be human and talking to kids](https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/)
 - The Verge
+  - [Apple&#8217;s new CEO could change when it launches phones and laptops](https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy)
   - [OpenAI DevDay 2026: The biggest news and announcements](https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements)
+  - [Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies](https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature)
+- Vulners.com RSS Feed
+  - [CVE-2023-54400](https://vulners.com/nvd/NVD:CVE-2023-54400?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100238 Flow colon-separator and flow-guidedtour-optin-welcome-description messages allow stored XSS](https://vulners.com/cve/CVE-2026-100238?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100238 Flow colon-separator and flow-guidedtour-optin-welcome-description messages allow stored XSS](https://vulners.com/cvelist/CVELIST:CVE-2026-100238?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100240 TemplateSandbox does not check read permissions for the page being previewed](https://vulners.com/cve/CVE-2026-100240?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100240 TemplateSandbox does not check read permissions for the page being previewed](https://vulners.com/cvelist/CVELIST:CVE-2026-100240?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100286](https://vulners.com/nvd/NVD:CVE-2026-100286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100287](https://vulners.com/nvd/NVD:CVE-2026-100287?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100288](https://vulners.com/nvd/NVD:CVE-2026-100288?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100289](https://vulners.com/nvd/NVD:CVE-2026-100289?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100308](https://vulners.com/nvd/NVD:CVE-2026-100308?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102556 Libsoup: libsoup: heap buffer overflow from websocket pong signal type confusion](https://vulners.com/cve/CVE-2026-102556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102556 Libsoup: libsoup: heap buffer overflow from websocket pong signal type confusion](https://vulners.com/cvelist/CVELIST:CVE-2026-102556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102557 Libsoup: libsoup: heap buffer overflow during websocket message reassembly](https://vulners.com/cve/CVE-2026-102557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102557 Libsoup: libsoup: heap buffer overflow during websocket message reassembly](https://vulners.com/cvelist/CVELIST:CVE-2026-102557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102598](https://vulners.com/nvd/NVD:CVE-2026-102598?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102600](https://vulners.com/nvd/NVD:CVE-2026-102600?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102601](https://vulners.com/nvd/NVD:CVE-2026-102601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102630](https://vulners.com/nvd/NVD:CVE-2026-102630?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19743](https://vulners.com/nvd/NVD:CVE-2026-19743?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-35189](https://vulners.com/nvd/NVD:CVE-2026-35189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-35191](https://vulners.com/nvd/NVD:CVE-2026-35191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42772](https://vulners.com/nvd/NVD:CVE-2026-42772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54872](https://vulners.com/nvd/NVD:CVE-2026-54872?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54873](https://vulners.com/nvd/NVD:CVE-2026-54873?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54875](https://vulners.com/nvd/NVD:CVE-2026-54875?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-72897](https://vulners.com/nvd/NVD:CVE-2026-72897?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75804](https://vulners.com/nvd/NVD:CVE-2026-75804?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75805](https://vulners.com/nvd/NVD:CVE-2026-75805?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75806](https://vulners.com/nvd/NVD:CVE-2026-75806?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77177](https://vulners.com/nvd/NVD:CVE-2026-77177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77696](https://vulners.com/nvd/NVD:CVE-2026-77696?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84782](https://vulners.com/nvd/NVD:CVE-2026-84782?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84783](https://vulners.com/nvd/NVD:CVE-2026-84783?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84784](https://vulners.com/nvd/NVD:CVE-2026-84784?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92368](https://vulners.com/nvd/NVD:CVE-2026-92368?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92369](https://vulners.com/nvd/NVD:CVE-2026-92369?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92370](https://vulners.com/nvd/NVD:CVE-2026-92370?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92371](https://vulners.com/nvd/NVD:CVE-2026-92371?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93330](https://vulners.com/nvd/NVD:CVE-2026-93330?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93332](https://vulners.com/nvd/NVD:CVE-2026-93332?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97687](https://vulners.com/nvd/NVD:CVE-2026-97687?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97688](https://vulners.com/nvd/NVD:CVE-2026-97688?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97689](https://vulners.com/nvd/NVD:CVE-2026-97689?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97711](https://vulners.com/nvd/NVD:CVE-2026-97711?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for SQL Injection in Wordpress](https://vulners.com/githubexploit/578403F5-E57E-50A5-AED7-B99622B08C75?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ProofCMS-](https://vulners.com/githubexploit/36B573E7-318B-5B0E-AE0D-6771CF36ADB7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [3.5亿美元一夜蒸发！黑客没偷密钥，Bitget是怎么被掏空的](https://www.anquanke.com/post/id/316193)
+  - [机器开始自己越权了：AI 智能体一年 17 次"翻墙"，英伟达紧急下场装护栏](https://www.anquanke.com/post/id/316190)
+- 爱范儿
+  - [DeepSeek Harness桌面版实测：更像「个人助理」，还给你送钱](https://www.ifanr.com/1682532?utm_source=rss&utm_medium=rss&utm_campaign=)
