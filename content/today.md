@@ -2,6 +2,12 @@
 
 - 2Libra
   - [1.3T/月 vless 速蹬 26 年 12 月 28 日到期](https://2libra.com/post/promotion/1ouXmYR)
+  - [9 月 29 日周二中移动灵犀话费口令：#最是桂花香](https://2libra.com/post/deal-hunter/uAIzADd)
+  - [dsh 插件工作区文件支持拖拽到消息框生成 @引用 chip](https://2libra.com/post/ai-tools/bA4t9Yf)
+  - [【人好难瘦】最近的吃吃吃。。。 🍉🍉🍉](https://2libra.com/post/health-consultation/014oXXT)
+  - [【请教】如何用 AI 优化管理](https://2libra.com/post/idea/xq6GPOK)
+  - [卡皮巴拉徽章](https://2libra.com/post/forum-function/hoBoVWi)
+  - [好无聊啊，没有心思工作！](https://2libra.com/post/touch-fish/VJpLCkp)
 - 404 Media
   - [FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data](https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/)
 - Ars Technica
@@ -14,6 +20,7 @@
   - [Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report](https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Canadian ‘crypto king’ set to represent himself at fraud trial](https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC spends $11M to oppose Sherrod Brown in Ohio](https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [NEAR Intents says it blocked $50M tied to Bitget hackers](https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US SEC follows CFTC in staff guidance for crypto](https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Microsoft Details NeedyMantis Post-Compromise Malware](https://www.cyberkendra.com/2026/09/needymantis-malware-microsoft-storm-3069.html)
@@ -21,8 +28,11 @@
 - daringfireball.net
   - [Duo-Man](https://x.com/viditb/status/2104103592726765722)
   - [Jeremy Stern’s Profile of Mark Zuckerberg for Colossus](https://colossus.com/article/mark-zuckerberg-profile/)
+  - [Joanna Stern Pokes the Pickle](https://www.youtube.com/watch?v=YNqYEMuoQAI)
   - [Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store](https://lapcatsoftware.com/articles/2026/9/8.html)
   - [Why Stolen Device Protection Makes Passwords Safer](https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/)
+  - [‘Daniel Decodes’ Interview Craig Federighi Regarding the iPhone Duo](https://www.youtube.com/watch?v=y227RF0smAg)
+  - [‘When Did Google Get So F-Ing Weird?’](https://sancho.bearblog.dev/google-weird/)
   - [★ Spitballing Predictions for Apple’s October](https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october)
 - darkreading
   - [AI Agents Are Privileged Users; Who Is Auditing Their Access?](https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access)
@@ -47,6 +57,8 @@
   - [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/)
 - pluralistic.net
   - [Pluralistic: Priceful (28 Sep 2026)](https://pluralistic.net/2026/09/28/cost-of-everything/)
+- rtl-sdr.com
+  - [RTL-SDR Pager: Android App for Receiving and Decoding POCSAG and FLEX Pager Messages](https://www.rtl-sdr.com/rtl-sdr-pager-android-app-for-receiving-and-decoding-pocsag-and-flex-pager-messages/)
 - simonwillison.net
   - [Claude Sonnet 5.5](https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/)
   - [Quoting @joedaroo](https://simonwillison.net/2026/Sep/28/joedaroo/)
@@ -69,6 +81,7 @@
   - [The iPhone Duo may already have its first killer app: a virtual Walkman](https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/)
 - The Block
   - [Citi expands Coinbase partnership to power stablecoin payments for businesses](https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082)
+  - [Coinbase receives DCO approval from CFTC, completing full derivatives stack](https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105)
   - [SEC Commissioner Hester Peirce reflects on her time at the agency, what she still wanted to get done: ‘There’s no good time to leave’](https://www.theblock.co/news/regulation/2026-09-28-sec-commissioner-hester-peirce-reflects-what-she-wanted-get-done-no-good-time-to-leave-417075)
   - [Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase](https://www.theblock.co/news/business/2026-09-28-strive-pushes-bitcoin-holdings-above-27400-btc-latest-94-5-million-purchase-417035)
   - [Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says](https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094)
@@ -217,6 +230,7 @@
   - [Nothing’s New Headphone (1) Pro Are Made for the Studio](https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/)
   - [Shark’s NeverChange Air Purifier Is Nearly Half Off Right Now](https://www.wired.com/story/shark-air-purifier-deal-october-2026/)
 - 不安全
+  - [Help finding who texted me](https://buaq.net/go-445317.html)
   - [phantom-grid](https://buaq.net/go-445313.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
