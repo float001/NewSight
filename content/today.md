@@ -3,6 +3,7 @@
 - 2Libra
   - [魔兽世界·无限？魔兽版原神？](https://2libra.com/post/game-discussion/lXSwBF7)
 - Ars Technica
+  - [AMD acquires World Labs AI startup, upping the ante against Nvidia](https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/)
   - [Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says](https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/)
 - blog.jim-nielsen.com
   - [VLM Enhanced Metadata For My Icon Galleries](https://blog.jim-nielsen.com/2026/icon-galleries-vlm/)
@@ -12,6 +13,9 @@
   - [Bitwise launches first US spot NEAR ETF after token’s recent surge](https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks](https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- darkreading
+  - [Apple Zero-Day Vulnerability Weaponized in Targeted Attacks](https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks)
+  - [Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution](https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution)
 - Emergent Minds | paddo.dev
   - [The Default Was Right: Opus 5.5, Sonnet 5.5 and GPT-6 Sol Effort Levels on Real Work](https://paddo.dev/blog/default-was-right/)
 - Fuzzing Labs
@@ -23,11 +27,14 @@
   - [Memory Companies Have Destroyed the Consumer Market](https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market)
   - [Nicholas Polson has authored 258 academic papers in 2026 (so far)](https://statmodeling.stat.columbia.edu/2026/08/27/258/)
   - [The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging](https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/)
+- Microsoft Security Blog
+  - [Phishing Abuses RMM Tools for Persistent Access](https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/)
 - OpenZeppelin Blog
   - [OpenZeppelin and T-REX Network Rebuild ONCHAINID as a Smart Account for Regulated Assets](https://www.openzeppelin.com/news/openzeppelin-and-t-rex-network-rebuild-onchainid-as-a-smart-account-for-regulated-assets)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-84383](https://sploitus.com/exploit?id=6E724E10-E67C-58E0-BF40-C40EFAC4F6FA&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [a16z-backed EliseAI raises $350M, doubles valuation to $4B](https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/)
   - [AI-powered app maker Wabi pivots to a messaging experience](https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/)
   - [Apple Pay set to launch in India with Axis Bank today, sources say](https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/)
   - [Can a chatbot fix the government maze? The White House is about to find out](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/)
@@ -41,6 +48,7 @@
   - [OpenAI repotedly in talks to raise $30B round at $1.4T valuation](https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/)
   - [OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite](https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/)
   - [OpenAI’s latest features take direct aim at the app store model](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/)
+  - [Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus](https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/)
 - The Block
   - [Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2](https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174)
   - [Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades](https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192)
@@ -57,10 +65,13 @@
 - The Verge
   - [AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’](https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews)
   - [Apple&#8217;s new CEO could change when it launches phones and laptops](https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy)
+  - [BMW’s revamped i3 boasts up to 468 miles of range](https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range)
+  - [Elon Musk&#8217;s AI-powered Grokipedia is updating again](https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again)
   - [OpenAI DevDay 2026: The biggest news and announcements](https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements)
   - [OpenAI launches Dots, its Muse competitor](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor)
   - [Protesters gather at OpenAI’s DevDay](https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers)
   - [Razer’s low-latency wireless gaming keyboard is almost half off](https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale)
+  - [Suspected ShinyHunters leader arrested in the Netherlands](https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested)
   - [Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies](https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature)
 - Vulners.com RSS Feed
   - [CVE-2023-54400](https://vulners.com/nvd/NVD:CVE-2023-54400?utm_source=rss&utm_medium=rss&utm_campaign=rss)
