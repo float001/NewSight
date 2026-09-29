@@ -10,13 +10,18 @@
   - [Bitcoin gives back gains as long-term holder supply keeps $85K out of reach](https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach](https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise launches first US spot NEAR ETF after token’s recent surge](https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks](https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Emergent Minds | paddo.dev
   - [The Default Was Right: Opus 5.5, Sonnet 5.5 and GPT-6 Sol Effort Levels on Real Work](https://paddo.dev/blog/default-was-right/)
 - Fuzzing Labs
   - [Nuit de la Sécurité Globale 2026: a Coup de Cœur for FuzzingLabs](https://fuzzinglabs.com/coup-de-coeur-nuit-securite-globale-2026/)
 - Hacker News Frontpage
+  - [AI needs $6T in annual revenue to justify data centre boom](https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/)
   - [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)
   - [Electrification efficiency: The world will need less energy after the transition](https://hannahritchie.substack.com/p/electrification-energy-efficiency)
+  - [Memory Companies Have Destroyed the Consumer Market](https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market)
+  - [Nicholas Polson has authored 258 academic papers in 2026 (so far)](https://statmodeling.stat.columbia.edu/2026/08/27/258/)
   - [The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging](https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-84383](https://sploitus.com/exploit?id=6E724E10-E67C-58E0-BF40-C40EFAC4F6FA&utm_source=rss&utm_medium=rss)
@@ -31,10 +36,12 @@
   - [OpenAI gives Codex reusable cloud environments that work across devices](https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/)
   - [OpenAI launches Dots, its bubbly agentic avatar](https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/)
   - [OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less](https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/)
+  - [OpenAI repotedly in talks to raise $30B round at $1.4T valuation](https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/)
   - [OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite](https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/)
 - The Block
   - [Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2](https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174)
   - [Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades](https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192)
+  - [CryptoQuant says bitcoin correction could be near as traders’ unrealized profit hits 21-month high](https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206)
 - The Decoder
   - [AMD buys AI world model startup World Labs for $8.2 billion](https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/)
   - [ChatGPT now reaches 1.2 billion people every week, OpenAI says](https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/)
@@ -43,6 +50,7 @@
   - [OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast](https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast/)
   - [OpenAI launches always-on Dots agents to rival Meta's Muse](https://the-decoder.com/openai-launches-always-on-dots-agents-to-rival-metas-muse/)
   - [OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system](https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/)
+  - [UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor](https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/)
 - The Verge
   - [AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’](https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews)
   - [Apple&#8217;s new CEO could change when it launches phones and laptops](https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy)
@@ -157,3 +165,5 @@
   - [机器开始自己越权了：AI 智能体一年 17 次"翻墙"，英伟达紧急下场装护栏](https://www.anquanke.com/post/id/316190)
 - 爱范儿
   - [DeepSeek Harness桌面版实测：更像「个人助理」，还给你送钱](https://www.ifanr.com/1682532?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]anthropic的追踪SUB2API技巧](https://key08.com/index.php/2026/09/30/3339.html)
