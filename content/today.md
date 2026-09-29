@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-09-29）
 
+- 2Libra
+  - [1.3T/月 vless 速蹬 26 年 12 月 28 日到期](https://2libra.com/post/promotion/1ouXmYR)
 - 404 Media
   - [FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data](https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/)
 - Ars Technica
@@ -20,6 +22,7 @@
   - [Duo-Man](https://x.com/viditb/status/2104103592726765722)
   - [Jeremy Stern’s Profile of Mark Zuckerberg for Colossus](https://colossus.com/article/mark-zuckerberg-profile/)
   - [Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store](https://lapcatsoftware.com/articles/2026/9/8.html)
+  - [Why Stolen Device Protection Makes Passwords Safer](https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/)
   - [★ Spitballing Predictions for Apple’s October](https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october)
 - darkreading
   - [AI Agents Are Privileged Users; Who Is Auditing Their Access?](https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access)
@@ -47,6 +50,8 @@
 - simonwillison.net
   - [Claude Sonnet 5.5](https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/)
   - [Quoting @joedaroo](https://simonwillison.net/2026/Sep/28/joedaroo/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-100752](https://sploitus.com/exploit?id=5FF4693E-8C8D-5E56-83F1-C67FA6A6F320&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/)
   - [Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner](https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/)
@@ -56,6 +61,7 @@
   - [Nvidia launches new platform for reining in rogue AI agents](https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/)
   - [OpenAI reportedly ditches model over safety concerns](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/)
   - [OpenAI still doesn’t seem to have a handle on all of its rogue AI activity](https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/)
+  - [Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort](https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/)
   - [Shopify opens checkout to browser-based AI agents](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/)
   - [Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/)
   - [Tesla delays Roadster 2 event again due to bad weather](https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/)
@@ -114,6 +120,10 @@
   - [CVE-2026-101205](https://vulners.com/nvd/NVD:CVE-2026-101205?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101260 Ziroom ZHOME A0101 firstLogin command injection](https://vulners.com/cve/CVE-2026-101260?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101260 Ziroom ZHOME A0101 firstLogin command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-101260?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101263](https://vulners.com/nvd/NVD:CVE-2026-101263?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101264](https://vulners.com/nvd/NVD:CVE-2026-101264?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101265](https://vulners.com/nvd/NVD:CVE-2026-101265?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101277](https://vulners.com/nvd/NVD:CVE-2026-101277?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101861](https://vulners.com/nvd/NVD:CVE-2026-101861?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101898](https://vulners.com/nvd/NVD:CVE-2026-101898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101900](https://vulners.com/nvd/NVD:CVE-2026-101900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -152,7 +162,17 @@
   - [CVE-2026-102334 Nginx Proxy Manager through 2.16.0 Missing Brute-Force Protection](https://vulners.com/cvelist/CVELIST:CVE-2026-102334?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102335 Nginx Proxy Manager through 2.16.0 Improper Authorization via advanced_config](https://vulners.com/cve/CVE-2026-102335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102335 Nginx Proxy Manager through 2.16.0 Improper Authorization via advanced_config](https://vulners.com/cvelist/CVELIST:CVE-2026-102335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102361](https://vulners.com/nvd/NVD:CVE-2026-102361?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102362](https://vulners.com/nvd/NVD:CVE-2026-102362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102363](https://vulners.com/nvd/NVD:CVE-2026-102363?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102364](https://vulners.com/nvd/NVD:CVE-2026-102364?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102365](https://vulners.com/nvd/NVD:CVE-2026-102365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102366](https://vulners.com/nvd/NVD:CVE-2026-102366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102367](https://vulners.com/nvd/NVD:CVE-2026-102367?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12342](https://vulners.com/nvd/NVD:CVE-2026-12342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18417](https://vulners.com/nvd/NVD:CVE-2026-18417?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18746](https://vulners.com/nvd/NVD:CVE-2026-18746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18747](https://vulners.com/nvd/NVD:CVE-2026-18747?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45562](https://vulners.com/nvd/NVD:CVE-2026-45562?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49994](https://vulners.com/nvd/NVD:CVE-2026-49994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54674](https://vulners.com/nvd/NVD:CVE-2026-54674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -176,6 +196,8 @@
   - [CVE-2026-96740](https://vulners.com/nvd/NVD:CVE-2026-96740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96760](https://vulners.com/nvd/NVD:CVE-2026-96760?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97399](https://vulners.com/nvd/NVD:CVE-2026-97399?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-100752](https://vulners.com/githubexploit/5FF4693E-8C8D-5E56-83F1-C67FA6A6F320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-101108](https://vulners.com/githubexploit/3FC3350E-6E62-5A0E-AB4D-E3CD9FBA6E64?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-18143](https://vulners.com/githubexploit/0717056E-A05A-5398-BAB2-6CA959813F46?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Heimdall](https://vulners.com/githubexploit/F78087CD-7565-541B-B2F6-57FCEABDFA7D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [IAM for AI agents: A Practical Enterprise Framework](https://vulners.com/thn/THN:097B65F90159852D44B5CC96974D017B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -192,8 +214,15 @@
 - Wired
   - [Boox Announces the Picco, Its Smallest E-Reader Ever (2026)](https://www.wired.com/story/boox-picco-announcement-2026/)
   - [Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers](https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/)
+  - [Nothing’s New Headphone (1) Pro Are Made for the Studio](https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/)
   - [Shark’s NeverChange Air Purifier Is Nearly Half Off Right Now](https://www.wired.com/story/shark-air-purifier-deal-october-2026/)
+- 不安全
+  - [phantom-grid](https://buaq.net/go-445313.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Starship 完成首次轨道发射](https://www.solidot.org/story?sid=85497)
+- 爱范儿
+  - [早报｜苹果修复iPhone 18 Pro面容ID卡死重启/AMD收购李飞飞世界模型/智界RX上市，余承东：鸿蒙智行「最好开的车」](https://www.ifanr.com/1682292?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地](https://www.qbitai.com/2026/09/499098.html)
