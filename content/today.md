@@ -1,13 +1,16 @@
 # 今日安全资讯（2026-09-29）
 
 - 2Libra
+  - [#Hermes 官方 Nous Portal 给模型设置的属性有问题, hermes 识图时会调用 `stepfun/step-3.7-flash` 而不是 `stealth/space-bunny-alpha` 需要配置文件指定识图模型](https://2libra.com/post/ai-tools/RmRkxAo)
   - [1.3T/月 vless 速蹬 26 年 12 月 28 日到期](https://2libra.com/post/promotion/1ouXmYR)
   - [9 月 29 日周二中移动灵犀话费口令：#最是桂花香](https://2libra.com/post/deal-hunter/uAIzADd)
   - [dsh 插件工作区文件支持拖拽到消息框生成 @引用 chip](https://2libra.com/post/ai-tools/bA4t9Yf)
+  - [Muse 邀请码](https://2libra.com/post/invite-code/KCNxlaY)
   - [【人好难瘦】最近的吃吃吃。。。 🍉🍉🍉](https://2libra.com/post/health-consultation/014oXXT)
   - [【请教】如何用 AI 优化管理](https://2libra.com/post/idea/xq6GPOK)
   - [【💰】国庆大家都计划做什么](https://2libra.com/post/festival-things/8A3idDr)
   - [卡皮巴拉徽章](https://2libra.com/post/forum-function/hoBoVWi)
+  - [发现小红书用户暴涨 200% 短时间，我建了个男版小红书 干死小红书](https://2libra.com/post/promotion/bnm9EuJ)
   - [好无聊啊，没有心思工作！](https://2libra.com/post/touch-fish/VJpLCkp)
 - 404 Media
   - [FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data](https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/)
@@ -61,6 +64,7 @@
 - pluralistic.net
   - [Pluralistic: Priceful (28 Sep 2026)](https://pluralistic.net/2026/09/28/cost-of-everything/)
 - rtl-sdr.com
+  - [Echo Pro: KiwiSDR, OpenWebRX, WebSDR and FM-DX iOS Browser App now with Live Transcription and Translation](https://www.rtl-sdr.com/echo-sdr-pro-kiwisdr-openwebrx-websdr-and-fm-dx-ios-browser-app-now-with-live-transcription-and-translation/)
   - [RTL-SDR Pager: Android App for Receiving and Decoding POCSAG and FLEX Pager Messages](https://www.rtl-sdr.com/rtl-sdr-pager-android-app-for-receiving-and-decoding-pocsag-and-flex-pager-messages/)
 - simonwillison.net
   - [Claude Sonnet 5.5](https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/)
@@ -246,6 +250,7 @@
   - [Nothing’s New Headphone (1) Pro Are Made for the Studio](https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/)
   - [Shark’s NeverChange Air Purifier Is Nearly Half Off Right Now](https://www.wired.com/story/shark-air-purifier-deal-october-2026/)
 - 不安全
+  - [123云盘就调整空间规则道歉 但不会放弃专业空间 如果老用户不爽可以退款](https://buaq.net/go-445322.html)
   - [Help finding who texted me](https://buaq.net/go-445317.html)
   - [phantom-grid](https://buaq.net/go-445313.html)
   - [security-harness](https://buaq.net/go-445320.html)
@@ -255,6 +260,7 @@
   - [Starship 完成首次轨道发射](https://www.solidot.org/story?sid=85497)
 - 爱范儿
   - [5000 吨的星舰入轨，人类最大的火箭开始「送快递」了](https://www.ifanr.com/1682333?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [可灵4.0首发实测，国产AI视频再次掀桌？](https://www.ifanr.com/1682361?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果修复iPhone 18 Pro面容ID卡死重启/AMD收购李飞飞世界模型/智界RX上市，余承东：鸿蒙智行「最好开的车」](https://www.ifanr.com/1682292?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地](https://www.qbitai.com/2026/09/499098.html)
