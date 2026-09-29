@@ -25,12 +25,14 @@
   - [奇思妙想 - ngnix 可视化配置](https://2libra.com/post/tech-rumination/eiDn65g)
   - [奇怪的奖金发放方式](https://2libra.com/post/workplace-stories/vrh7wAo)
   - [好无聊啊，没有心思工作！](https://2libra.com/post/touch-fish/VJpLCkp)
+  - [我想注册，把你们的 Meta Muse 邀请码 分享一下。](https://2libra.com/post/invite-code/3qEHgZ0)
   - [有一日两餐的吗?](https://2libra.com/post/personal-life/kN4K5qD)
   - [熬夜看了部 AI 短剧，是否有高质量短剧剧推荐？](https://2libra.com/post/movie-sharing/Rfh10if)
   - [结印释放忍术小游戏](https://2libra.com/post/game-share/W6MNN44)
   - [难搞了，快放假了，结果出现了头热喉咙痒](https://2libra.com/post/personal-life/juA98XI)
 - 404 Media
   - [FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data](https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/)
+  - [Surveillance Company Tells Cops It Wants to Add Facial Recognition to Flock Cameras](https://www.404media.co/surveillance-company-tells-cops-it-wants-to-add-facial-recognition-to-flock-cameras/)
 - Ars Technica
   - [F1 in Azerbaijan: That was almost a close-run thing](https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/)
   - [To keep drug prices high, pharma has been piling up the patents](https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/)
@@ -50,6 +52,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NEAR Intents says it blocked $50M tied to Bitget hackers](https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents](https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’](https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether says it helped freeze $550M in Iran-linked USDT this year](https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US crypto ETF inflows cool after $3.3B week but streaks hold](https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US SEC follows CFTC in staff guidance for crypto](https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -99,8 +102,10 @@
 - IEEE Spectrum
   - [Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog](https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32)
 - infosecurity-magazine.com
+  - [Amazon Bedrock AgentCore Flaws Could Expose AWS Credentials](https://www.infosecurity-magazine.com/news/aws-agentcore-sdk-flaws-ai/)
   - [Japanese Railway Operators Hit with Weekend Cyber Attacks](https://www.infosecurity-magazine.com/news/japanese-railway-operators-cyber/)
   - [Kiteworks Urges Customers to Restart Systems After Shutdown Notice](https://www.infosecurity-magazine.com/news/kiteworks-customers-restart/)
+  - [Microsoft Warns NeedyMantis Malware Enables Persistent Network Access](https://www.infosecurity-magazine.com/news/microsoft-needymantis-malware/)
 - MIT Technology Review
   - [Making AI an asset, not an expense](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/)
   - [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/)
@@ -121,6 +126,7 @@
   - [Quoting @joedaroo](https://simonwillison.net/2026/Sep/28/joedaroo/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-100752](https://sploitus.com/exploit?id=5FF4693E-8C8D-5E56-83F1-C67FA6A6F320&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-8065](https://sploitus.com/exploit?id=9065BA98-740C-59D4-B6D3-168AF6CF6712&utm_source=rss&utm_medium=rss)
   - [Relapse-Exploit](https://sploitus.com/exploit?id=A8FC9588-04C7-5B04-8C20-83B1E4555008&utm_source=rss&utm_medium=rss)
   - [vantic-breach exploit](https://sploitus.com/exploit?id=AC10AA1D-46E3-55DF-BF93-7102A8B69710&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -130,6 +136,7 @@
   - [Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds](https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/)
   - [Ex-Tesla team raises $12.5M to put supply chains on autopilot](https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/)
   - [Google is killing off Gemini’s Gems in favor of ‘skills’](https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/)
+  - [Meta is expanding its AI agent Muse to small businesses](https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/)
   - [Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative](https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/)
   - [Nvidia launches new platform for reining in rogue AI agents](https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/)
   - [OpenAI apologizes to Australia after its AI agents breached government sites](https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/)
@@ -140,9 +147,11 @@
   - [Reco raises $55M as AI agent security startups crowd the market](https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/)
   - [Shopify opens checkout to browser-based AI agents](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/)
   - [Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/)
+  - [Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix](https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/)
   - [Tesla delays Roadster 2 event again due to bad weather](https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/)
   - [The AI boom took over Climate Week and not everyone is happy about it](https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/)
   - [The iPhone Duo may already have its first killer app: a virtual Walkman](https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/)
+  - [With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox](https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/)
 - The Block
   - [Citi expands Coinbase partnership to power stablecoin payments for businesses](https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082)
   - [Coinbase receives DCO approval from CFTC, completing full derivatives stack](https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105)
@@ -162,11 +171,14 @@
   - [AMD is acquiring AI company World Labs in a deal worth more than $8 billion](https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal)
   - [Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing](https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat)
   - [Bose starts adding Auracast to its headphones](https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support)
+  - [Fairphone’s next repairable wireless earbuds will launch on October 14th](https://www.theverge.com/tech/1001859/fairphone-fairbuds-2-wireless-earbuds-repairable-modular-price-release)
   - [Firefox just got a redesign with round tabs, new themes, and Compact Mode](https://www.theverge.com/tech/1001867/mozilla-firefox-157-redesign-compact-mode)
   - [Florida seeks a ban on ChatGPT acting like a person](https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids)
   - [OpenAI keeps bulldozing mathematicians](https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group)
   - [OpenAI’s AI agents need to catch up](https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent)
   - [Polaroid’s new instant camera has four creative shooting modes you can experiment with](https://www.theverge.com/tech/1001587/polaroid-mod-instant-camera-creative-shooting-modes)
+  - [SteelSeries’ new mice are super light, have UWB and swappable batteries](https://www.theverge.com/games/1000245/steelseries-rival-sensei-pro-uwb-swappable-batteries-specs-price)
+  - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
   - [Trump finalizes rule to make cars less fuel efficient](https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards)
   - [Walmart won’t hike prices based on your shopping history, CEO says](https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels)
   - [Will Chinese AI companies slow down? A top House Democrat wants answers](https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty)
