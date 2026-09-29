@@ -13,6 +13,7 @@
   - [【💰】国庆大家都计划做什么](https://2libra.com/post/festival-things/8A3idDr)
   - [【💰】大家给点建议把](https://2libra.com/post/indie-dev/8yr6vsr)
   - [为何汤粉店的汤特别烫，很难凉下来](https://2libra.com/post/questions/lPeVviy)
+  - [你吃过超长长长蛋挞了吗？](https://2libra.com/post/idea/xlx1qj0)
   - [你遇到过世界上另一个自己吗？](https://2libra.com/post/small-things/8cvz1jm)
   - [前两天媳妇的 iPhone 坏了，她很高兴](https://2libra.com/post/apple/-018xcA)
   - [卡皮巴拉徽章](https://2libra.com/post/forum-function/hoBoVWi)
@@ -34,6 +35,7 @@
 - CERT Recently Published Vulnerability Notes
   - [VU#762428: Authlib library contains a signature‑verification bypass vulnerability](https://kb.cert.org/vuls/id/762428)
 - CoinTelegraph
+  - [BitMine could hit its 5% Ether supply target within weeks — then what?](https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report](https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Canadian ‘crypto king’ set to represent himself at fraud trial](https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC spends $11M to oppose Sherrod Brown in Ohio](https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -61,10 +63,13 @@
   - [One Packet Can Crash OT Servers in Industrial Sectors](https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine)
 - defend.network
   - [Apple zero-day, Microsoft mega-patch (974 CVEs), ShinyHunters Oracle escalation](https://defend.network/briefings/apple-microsoft-oracle-peoplesoft-attacks-escalate-2026-09-29.html)
+- Emergent Minds | paddo.dev
+  - [The Careful One Got Cheap: Claude Sonnet 5.5 vs Opus 5.5 and GPT-6 Sol](https://paddo.dev/blog/careful-one-got-cheap/)
 - Fidelis Security
   - [NDR Deployment Outcomes: What CTOs Should Expect After 30 Days](https://fidelissecurity.com/threatgeek/network-security/ndr-deployment-roi/)
 - Hacker News Frontpage
   - [13 Months Sober (2025)](https://www.bobbytables.io/p/13-months-sober)
+  - [Firebase SDK is CRASHING ALLLL iOS Apps, since today morning](https://twitter.com/GergelyOrosz/status/2104825886922911981)
   - [First Steps of the PLC Organization – Independent Public Ledger of Credentials](https://blog.plcred.org/3mwlphq42d227)
   - [Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline](https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/)
   - [GrapheneOS – When an app is slow](https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html)
@@ -74,6 +79,7 @@
   - [Launch HN: Vespper (YC F24) – SOTA Docx MCP](https://www.vespper.com/blog/launching-vespper-docx-mcp)
   - [OpenAI: Tomorrow we are re-opening the Pro $200 subscription](https://twitter.com/thsottiaux/status/2104823812042940713)
   - [The problem is not the AI code, but nobody knows anything anymore](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
+  - [Using any C++ library in Godot](https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html)
   - [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
 - Horizon3.ai
   - [CVE-2026-19490 | Citrix NetScaler ADC and NetScaler Gateway Authentication Bypass Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-19490/)
@@ -89,11 +95,14 @@
   - [Quoting @joedaroo](https://simonwillison.net/2026/Sep/28/joedaroo/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-100752](https://sploitus.com/exploit?id=5FF4693E-8C8D-5E56-83F1-C67FA6A6F320&utm_source=rss&utm_medium=rss)
+  - [Relapse-Exploit](https://sploitus.com/exploit?id=A8FC9588-04C7-5B04-8C20-83B1E4555008&utm_source=rss&utm_medium=rss)
+  - [vantic-breach exploit](https://sploitus.com/exploit?id=AC10AA1D-46E3-55DF-BF93-7102A8B69710&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/)
   - [Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner](https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/)
   - [Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/)
   - [Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds](https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/)
+  - [Ex-Tesla team raises $12.5M to put supply chains on autopilot](https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/)
   - [Google is killing off Gemini’s Gems in favor of ‘skills’](https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/)
   - [Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative](https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/)
   - [Nvidia launches new platform for reining in rogue AI agents](https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/)
@@ -113,6 +122,8 @@
   - [Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says](https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094)
 - The Decoder
   - [Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task](https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/)
+  - [GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet](https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/)
+  - [Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone](https://the-decoder.com/manus-2-0-lets-users-edit-videos-host-multiplayer-games-and-run-agents-remotely-from-their-phone/)
   - [More than 20 leading AI researchers warn that automated AI research poses extreme risks](https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/)
   - [OpenAI's AI agents exploited a Google security education game to scrape UN trade data](https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/)
 - The Verge
@@ -124,6 +135,8 @@
   - [OpenAI’s AI agents need to catch up](https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent)
   - [Trump finalizes rule to make cars less fuel efficient](https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards)
   - [Walmart won’t hike prices based on your shopping history, CEO says](https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Lessons from Microsoft Patch KB5002907: Two Layers of Patch Control in Qualys TruRisk Eliminate](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
   - [CVE-2024-42002](https://vulners.com/nvd/NVD:CVE-2024-42002?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-58386](https://vulners.com/nvd/NVD:CVE-2024-58386?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -152,6 +165,7 @@
   - [CVE-2026-101143](https://vulners.com/nvd/NVD:CVE-2026-101143?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101145 Eleveo Call Recording Software User Management userAddAction.do ldap injection](https://vulners.com/cve/CVE-2026-101145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101145 Eleveo Call Recording Software User Management userAddAction.do ldap injection](https://vulners.com/cvelist/CVELIST:CVE-2026-101145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101169](https://vulners.com/nvd/NVD:CVE-2026-101169?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101188](https://vulners.com/nvd/NVD:CVE-2026-101188?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101202](https://vulners.com/nvd/NVD:CVE-2026-101202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101203](https://vulners.com/nvd/NVD:CVE-2026-101203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -242,6 +256,7 @@
   - [CVE-2026-55157](https://vulners.com/nvd/NVD:CVE-2026-55157?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55160](https://vulners.com/nvd/NVD:CVE-2026-55160?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75600](https://vulners.com/nvd/NVD:CVE-2026-75600?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84154](https://vulners.com/nvd/NVD:CVE-2026-84154?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85644 XS::Parse::Infix versions from 0.40 through 0.49 for Perl treat a number as an array reference](https://vulners.com/cve/CVE-2026-85644?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85644 XS::Parse::Infix versions from 0.40 through 0.49 for Perl treat a number as an array reference](https://vulners.com/cvelist/CVELIST:CVE-2026-85644?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86950](https://vulners.com/nvd/NVD:CVE-2026-86950?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -253,6 +268,8 @@
   - [CVE-2026-93348](https://vulners.com/nvd/NVD:CVE-2026-93348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93355](https://vulners.com/nvd/NVD:CVE-2026-93355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96326](https://vulners.com/nvd/NVD:CVE-2026-96326?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96428 Flowring Agentflow 4.0 - SQL Injection](https://vulners.com/cve/CVE-2026-96428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96428 Flowring Agentflow 4.0 - SQL Injection](https://vulners.com/cvelist/CVELIST:CVE-2026-96428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96740](https://vulners.com/nvd/NVD:CVE-2026-96740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96760](https://vulners.com/nvd/NVD:CVE-2026-96760?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97024](https://vulners.com/nvd/NVD:CVE-2026-97024?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -275,7 +292,9 @@
   - [kernel: RDMA/vmw_pvrdma: Fix double free on pvrdma_alloc_ucontext() error path](https://vulners.com/redhat/RHSA-2026:72628-CVE-2026-46189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [kernel: RDMA/vmw_pvrdma: Fix double free on pvrdma_alloc_ucontext() error path](https://vulners.com/redhat/RHSA-2026:72630-CVE-2026-46189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials](https://vulners.com/thn/THN:7A8F58B5339CD89EF0F0B387D8A7D83B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Relapse-Exploit](https://vulners.com/githubexploit/A8FC9588-04C7-5B04-8C20-83B1E4555008?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [resolv: resolv gem: Denial of Service via uncontrolled memory growth from crafted DNS responses](https://vulners.com/redhat/RHSA-2026:72485-CVE-2026-80212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [vantic-breach](https://vulners.com/githubexploit/AC10AA1D-46E3-55DF-BF93-7102A8B69710?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [50% Off Blue Apron Promo Codes | October 2026](https://www.wired.com/story/blue-apron-coupon/)
   - [Boox Announces the Picco, Its Smallest E-Reader Ever (2026)](https://www.wired.com/story/boox-picco-announcement-2026/)
@@ -298,6 +317,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [AMD 以 82 亿美元收购李飞飞的 World Labs](https://www.solidot.org/story?sid=85501)
   - [Starship 完成首次轨道发射](https://www.solidot.org/story?sid=85497)
   - [Windows 10 更新 bug 远少于 Windows 11](https://www.solidot.org/story?sid=85499)
   - [中国冰川大幅减少](https://www.solidot.org/story?sid=85498)
@@ -305,6 +325,7 @@
   - [5000 吨的星舰入轨，人类最大的火箭开始「送快递」了](https://www.ifanr.com/1682333?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [可灵4.0首发实测，国产AI视频再次掀桌？](https://www.ifanr.com/1682361?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果修复iPhone 18 Pro面容ID卡死重启/AMD收购李飞飞世界模型/智界RX上市，余承东：鸿蒙智行「最好开的车」](https://www.ifanr.com/1682292?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了](https://www.ifanr.com/1682291?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [Fastjson 1.2.x无需gadget远程代码执行漏洞通告](https://blog.nsfocus.net/fastjson-1-2-x%e6%97%a0%e9%9c%80gadget%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
   - [Fastjson 2.x远程代码执行漏洞通告](https://blog.nsfocus.net/fastjson-2-x%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
