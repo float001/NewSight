@@ -2,22 +2,46 @@
 
 - 2Libra
   - [魔兽世界·无限？魔兽版原神？](https://2libra.com/post/game-discussion/lXSwBF7)
+- Ars Technica
+  - [Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says](https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/)
 - CoinTelegraph
   - [Bitcoin gives back gains as long-term holder supply keeps $85K out of reach](https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach](https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitwise launches first US spot NEAR ETF after token’s recent surge](https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Emergent Minds | paddo.dev
+  - [The Default Was Right: Opus 5.5, Sonnet 5.5 and GPT-6 Sol Effort Levels on Real Work](https://paddo.dev/blog/default-was-right/)
 - Fuzzing Labs
   - [Nuit de la Sécurité Globale 2026: a Coup de Cœur for FuzzingLabs](https://fuzzinglabs.com/coup-de-coeur-nuit-securite-globale-2026/)
 - Hacker News Frontpage
   - [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-84383](https://sploitus.com/exploit?id=6E724E10-E67C-58E0-BF40-C40EFAC4F6FA&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [AI-powered app maker Wabi pivots to a messaging experience](https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/)
   - [Can a chatbot fix the government maze? The White House is about to find out](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/)
+  - [Dutch police arrest ShinyHunters hacker accused of planning two murders](https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/)
+  - [OpenAI expands ChatGPT’s plugins with app-like interfaces and automations](https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/)
+  - [OpenAI gives Codex reusable cloud environments that work across devices](https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/)
+  - [OpenAI launches Dots, its bubbly agentic avatar](https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/)
+  - [OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less](https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/)
+  - [OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite](https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/)
 - The Block
   - [Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2](https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174)
+  - [Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades](https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192)
 - The Decoder
+  - [AMD buys AI world model startup World Labs for $8.2 billion](https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/)
   - [Florida wants a court to stop ChatGPT from pretending to be human and talking to kids](https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/)
+  - [GPT-6.1 Sol comes close to Astra at a fifth of the price](https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/)
+  - [OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast](https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast/)
+  - [OpenAI launches always-on Dots agents to rival Meta's Muse](https://the-decoder.com/openai-launches-always-on-dots-agents-to-rival-metas-muse/)
+  - [OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system](https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/)
 - The Verge
+  - [AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’](https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews)
   - [Apple&#8217;s new CEO could change when it launches phones and laptops](https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy)
   - [OpenAI DevDay 2026: The biggest news and announcements](https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements)
+  - [OpenAI launches Dots, its Muse competitor](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor)
+  - [Protesters gather at OpenAI’s DevDay](https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers)
+  - [Razer’s low-latency wireless gaming keyboard is almost half off](https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale)
   - [Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies](https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature)
 - Vulners.com RSS Feed
   - [CVE-2023-54400](https://vulners.com/nvd/NVD:CVE-2023-54400?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -66,6 +90,8 @@
   - [CVE-2026-97711](https://vulners.com/nvd/NVD:CVE-2026-97711?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Wordpress](https://vulners.com/githubexploit/578403F5-E57E-50A5-AED7-B99622B08C75?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ProofCMS-](https://vulners.com/githubexploit/36B573E7-318B-5B0E-AE0D-6771CF36ADB7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse](https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
