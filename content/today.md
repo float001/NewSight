@@ -6,6 +6,7 @@
   - [dsh 插件工作区文件支持拖拽到消息框生成 @引用 chip](https://2libra.com/post/ai-tools/bA4t9Yf)
   - [【人好难瘦】最近的吃吃吃。。。 🍉🍉🍉](https://2libra.com/post/health-consultation/014oXXT)
   - [【请教】如何用 AI 优化管理](https://2libra.com/post/idea/xq6GPOK)
+  - [【💰】国庆大家都计划做什么](https://2libra.com/post/festival-things/8A3idDr)
   - [卡皮巴拉徽章](https://2libra.com/post/forum-function/hoBoVWi)
   - [好无聊啊，没有心思工作！](https://2libra.com/post/touch-fish/VJpLCkp)
 - 404 Media
@@ -21,11 +22,13 @@
   - [Canadian ‘crypto king’ set to represent himself at fraud trial](https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC spends $11M to oppose Sherrod Brown in Ohio](https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NEAR Intents says it blocked $50M tied to Bitget hackers](https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents](https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US SEC follows CFTC in staff guidance for crypto](https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Microsoft Details NeedyMantis Post-Compromise Malware](https://www.cyberkendra.com/2026/09/needymantis-malware-microsoft-storm-3069.html)
   - [WhatsApp Malware Targets Malaysia via KuGou-Signed File](https://www.cyberkendra.com/2026/09/whatsapp-malware-malaysia-kugou-signed-loader.html)
 - daringfireball.net
+  - [Bastardica](https://bastardica.mitpit.com/)
   - [Duo-Man](https://x.com/viditb/status/2104103592726765722)
   - [Jeremy Stern’s Profile of Mark Zuckerberg for Colossus](https://colossus.com/article/mark-zuckerberg-profile/)
   - [Joanna Stern Pokes the Pickle](https://www.youtube.com/watch?v=YNqYEMuoQAI)
@@ -137,7 +140,12 @@
   - [CVE-2026-101264](https://vulners.com/nvd/NVD:CVE-2026-101264?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101265](https://vulners.com/nvd/NVD:CVE-2026-101265?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101277](https://vulners.com/nvd/NVD:CVE-2026-101277?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101354](https://vulners.com/nvd/NVD:CVE-2026-101354?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101858](https://vulners.com/nvd/NVD:CVE-2026-101858?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101859](https://vulners.com/nvd/NVD:CVE-2026-101859?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101860](https://vulners.com/nvd/NVD:CVE-2026-101860?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101861](https://vulners.com/nvd/NVD:CVE-2026-101861?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101878](https://vulners.com/nvd/NVD:CVE-2026-101878?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101898](https://vulners.com/nvd/NVD:CVE-2026-101898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101900](https://vulners.com/nvd/NVD:CVE-2026-101900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101901](https://vulners.com/nvd/NVD:CVE-2026-101901?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -162,6 +170,11 @@
   - [CVE-2026-102004](https://vulners.com/nvd/NVD:CVE-2026-102004?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102005 VxWorks Memory Allocation](https://vulners.com/cve/CVE-2026-102005?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102005 VxWorks Memory Allocation](https://vulners.com/cvelist/CVELIST:CVE-2026-102005?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102240](https://vulners.com/nvd/NVD:CVE-2026-102240?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102241 Netcore NAP930 Backup/Restore backup_common.sh hard-coded key](https://vulners.com/cve/CVE-2026-102241?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102241 Netcore NAP930 Backup/Restore backup_common.sh hard-coded key](https://vulners.com/cvelist/CVELIST:CVE-2026-102241?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102243 MODSetter SurfSense MCP Connector Integration test command injection](https://vulners.com/cve/CVE-2026-102243?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102243 MODSetter SurfSense MCP Connector Integration test command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-102243?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102266 PyJWK accepts empty HMAC keys, bypassing PyJWT's empty-key validation](https://vulners.com/cve/CVE-2026-102266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102266 PyJWK accepts empty HMAC keys, bypassing PyJWT's empty-key validation](https://vulners.com/cvelist/CVELIST:CVE-2026-102266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102281](https://vulners.com/nvd/NVD:CVE-2026-102281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -206,9 +219,12 @@
   - [CVE-2026-91154](https://vulners.com/nvd/NVD:CVE-2026-91154?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93348](https://vulners.com/nvd/NVD:CVE-2026-93348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93355](https://vulners.com/nvd/NVD:CVE-2026-93355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96326](https://vulners.com/nvd/NVD:CVE-2026-96326?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96740](https://vulners.com/nvd/NVD:CVE-2026-96740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96760](https://vulners.com/nvd/NVD:CVE-2026-96760?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97399](https://vulners.com/nvd/NVD:CVE-2026-97399?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97685 LimeSurvey Community Edition 7.3.0 - Cross-survey object authorization bypass in REST survey patch operations](https://vulners.com/cve/CVE-2026-97685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97685 LimeSurvey Community Edition 7.3.0 - Cross-survey object authorization bypass in REST survey patch operations](https://vulners.com/cvelist/CVELIST:CVE-2026-97685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-100752](https://vulners.com/githubexploit/5FF4693E-8C8D-5E56-83F1-C67FA6A6F320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-101108](https://vulners.com/githubexploit/3FC3350E-6E62-5A0E-AB4D-E3CD9FBA6E64?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-18143](https://vulners.com/githubexploit/0717056E-A05A-5398-BAB2-6CA959813F46?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -232,11 +248,13 @@
 - 不安全
   - [Help finding who texted me](https://buaq.net/go-445317.html)
   - [phantom-grid](https://buaq.net/go-445313.html)
+  - [security-harness](https://buaq.net/go-445320.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Starship 完成首次轨道发射](https://www.solidot.org/story?sid=85497)
 - 爱范儿
+  - [5000 吨的星舰入轨，人类最大的火箭开始「送快递」了](https://www.ifanr.com/1682333?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果修复iPhone 18 Pro面容ID卡死重启/AMD收购李飞飞世界模型/智界RX上市，余承东：鸿蒙智行「最好开的车」](https://www.ifanr.com/1682292?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地](https://www.qbitai.com/2026/09/499098.html)
