@@ -7,12 +7,15 @@
   - [dsh 插件工作区文件支持拖拽到消息框生成 @引用 chip](https://2libra.com/post/ai-tools/bA4t9Yf)
   - [Muse 邀请码](https://2libra.com/post/invite-code/KCNxlaY)
   - [【人好难瘦】最近的吃吃吃。。。 🍉🍉🍉](https://2libra.com/post/health-consultation/014oXXT)
+  - [【兑换码】🎁 国庆限时福利 | Proxy001 全球住宅代理 — 1 亿 + 真实 IP 覆盖 200 + 国，新用户免费领 1GB！](https://2libra.com/post/promotion/sAehsiR)
   - [【请教】如何用 AI 优化管理](https://2libra.com/post/idea/xq6GPOK)
   - [【💰】国庆大家都计划做什么](https://2libra.com/post/festival-things/8A3idDr)
   - [为何汤粉店的汤特别烫，很难凉下来](https://2libra.com/post/questions/lPeVviy)
   - [前两天媳妇的 iPhone 坏了，她很高兴](https://2libra.com/post/apple/-018xcA)
   - [卡皮巴拉徽章](https://2libra.com/post/forum-function/hoBoVWi)
   - [发现小红书用户暴涨 200% 短时间，我建了个男版小红书 干死小红书](https://2libra.com/post/promotion/bnm9EuJ)
+  - [国庆预热，免费送福利，动态住宅 ip+流量免费用，三天的量](https://2libra.com/post/promotion/Nx0jQH1)
+  - [奇怪的奖金发放方式](https://2libra.com/post/workplace-stories/vrh7wAo)
   - [好无聊啊，没有心思工作！](https://2libra.com/post/touch-fish/VJpLCkp)
   - [熬夜看了部 AI 短剧，是否有高质量短剧剧推荐？](https://2libra.com/post/movie-sharing/Rfh10if)
 - 404 Media
@@ -49,6 +52,8 @@
   - [AI Agents Are Privileged Users; Who Is Auditing Their Access?](https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access)
   - [Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts](https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts)
   - [One Packet Can Crash OT Servers in Industrial Sectors](https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine)
+- defend.network
+  - [Apple zero-day, Microsoft mega-patch (974 CVEs), ShinyHunters Oracle escalation](https://defend.network/briefings/apple-microsoft-oracle-peoplesoft-attacks-escalate-2026-09-29.html)
 - Fidelis Security
   - [NDR Deployment Outcomes: What CTOs Should Expect After 30 Days](https://fidelissecurity.com/threatgeek/network-security/ndr-deployment-roi/)
 - Hacker News Frontpage
@@ -194,6 +199,8 @@
   - [CVE-2026-102266 PyJWK accepts empty HMAC keys, bypassing PyJWT's empty-key validation](https://vulners.com/cve/CVE-2026-102266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102266 PyJWK accepts empty HMAC keys, bypassing PyJWT's empty-key validation](https://vulners.com/cvelist/CVELIST:CVE-2026-102266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102281](https://vulners.com/nvd/NVD:CVE-2026-102281?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102292](https://vulners.com/nvd/NVD:CVE-2026-102292?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102293](https://vulners.com/nvd/NVD:CVE-2026-102293?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102296](https://vulners.com/nvd/NVD:CVE-2026-102296?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102297](https://vulners.com/nvd/NVD:CVE-2026-102297?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102332 Dozzle before 11.1.2 Path Traversal via Log ZIP Download](https://vulners.com/cve/CVE-2026-102332?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -259,6 +266,7 @@
   - [kernel: RDMA/rxe: Fix double free in rxe_srq_from_init](https://vulners.com/redhat/RHSA-2026:72630-CVE-2026-45852?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [kernel: RDMA/vmw_pvrdma: Fix double free on pvrdma_alloc_ucontext() error path](https://vulners.com/redhat/RHSA-2026:72628-CVE-2026-46189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [kernel: RDMA/vmw_pvrdma: Fix double free on pvrdma_alloc_ucontext() error path](https://vulners.com/redhat/RHSA-2026:72630-CVE-2026-46189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials](https://vulners.com/thn/THN:7A8F58B5339CD89EF0F0B387D8A7D83B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [resolv: resolv gem: Denial of Service via uncontrolled memory growth from crafted DNS responses](https://vulners.com/redhat/RHSA-2026:72485-CVE-2026-80212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [50% Off Blue Apron Promo Codes | October 2026](https://www.wired.com/story/blue-apron-coupon/)
@@ -273,6 +281,9 @@
   - [Uplift Promo Codes: $300 Off](https://www.wired.com/story/uplift-desk-coupon-code/)
 - 不安全
   - [123云盘就调整空间规则道歉 但不会放弃专业空间 如果老用户不爽可以退款](https://buaq.net/go-445322.html)
+  - [APPLE-SA-09-28-2026-1 iOS 26.7.1 and iPadOS 26.7.1](https://buaq.net/go-445345.html)
+  - [APPLE-SA-09-28-2026-2 macOS Tahoe 26.7.1](https://buaq.net/go-445344.html)
+  - [APPLE-SA-09-28-2026-3 macOS Sequoia 15.8.1](https://buaq.net/go-445343.html)
   - [Help finding who texted me](https://buaq.net/go-445317.html)
   - [phantom-grid](https://buaq.net/go-445313.html)
   - [security-harness](https://buaq.net/go-445320.html)
@@ -280,9 +291,16 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Starship 完成首次轨道发射](https://www.solidot.org/story?sid=85497)
+  - [中国冰川大幅减少](https://www.solidot.org/story?sid=85498)
 - 爱范儿
   - [5000 吨的星舰入轨，人类最大的火箭开始「送快递」了](https://www.ifanr.com/1682333?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [可灵4.0首发实测，国产AI视频再次掀桌？](https://www.ifanr.com/1682361?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果修复iPhone 18 Pro面容ID卡死重启/AMD收购李飞飞世界模型/智界RX上市，余承东：鸿蒙智行「最好开的车」](https://www.ifanr.com/1682292?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [Fastjson 1.2.x无需gadget远程代码执行漏洞通告](https://blog.nsfocus.net/fastjson-1-2-x%e6%97%a0%e9%9c%80gadget%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
+  - [Fastjson 2.x远程代码执行漏洞通告](https://blog.nsfocus.net/fastjson-2-x%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
+  - [使用Ubuntu 26远程桌面](https://blog.nsfocus.net/%e4%bd%bf%e7%94%a8ubuntu-26%e8%bf%9c%e7%a8%8b%e6%a1%8c%e9%9d%a2/)
+  - [微软8月安全更新多个产品高危漏洞通告](https://blog.nsfocus.net/%e5%be%ae%e8%bd%af8%e6%9c%88%e5%ae%89%e5%85%a8%e6%9b%b4%e6%96%b0%e5%a4%9a%e4%b8%aa%e4%ba%a7%e5%93%81%e9%ab%98%e5%8d%b1%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
+  - [给英文版Ubuntu 26安装中文输入法](https://blog.nsfocus.net/%e7%bb%99%e8%8b%b1%e6%96%87%e7%89%88ubuntu-26%e5%ae%89%e8%a3%85%e4%b8%ad%e6%96%87%e8%be%93%e5%85%a5%e6%b3%95/)
 - 量子位 QbitAI
   - [李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地](https://www.qbitai.com/2026/09/499098.html)
