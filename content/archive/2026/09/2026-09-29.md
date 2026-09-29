@@ -21,6 +21,7 @@
   - [发现小红书用户暴涨 200% 短时间，我建了个男版小红书 干死小红书](https://2libra.com/post/promotion/bnm9EuJ)
   - [国庆预热，免费送福利，动态住宅 ip+流量免费用，三天的量](https://2libra.com/post/promotion/Nx0jQH1)
   - [大家在电脑上如何看短剧？顺便推荐一个非官方的红果客户端。](https://2libra.com/post/movie-sharing/jGyydbl)
+  - [奇思妙想 - ngnix 可视化配置](https://2libra.com/post/tech-rumination/eiDn65g)
   - [奇怪的奖金发放方式](https://2libra.com/post/workplace-stories/vrh7wAo)
   - [好无聊啊，没有心思工作！](https://2libra.com/post/touch-fish/VJpLCkp)
   - [有一日两餐的吗?](https://2libra.com/post/personal-life/kN4K5qD)
@@ -39,6 +40,7 @@
   - [Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report](https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Canadian ‘crypto king’ set to represent himself at fraud trial](https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC spends $11M to oppose Sherrod Brown in Ohio](https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim](https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NEAR Intents says it blocked $50M tied to Bitget hackers](https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents](https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -67,6 +69,8 @@
   - [The Careful One Got Cheap: Claude Sonnet 5.5 vs Opus 5.5 and GPT-6 Sol](https://paddo.dev/blog/careful-one-got-cheap/)
 - Fidelis Security
   - [NDR Deployment Outcomes: What CTOs Should Expect After 30 Days](https://fidelissecurity.com/threatgeek/network-security/ndr-deployment-roi/)
+- GuidePoint Security
+  - [Managing Agentic AI: Why the Control Plane Problem Is an AI Problem](https://www.guidepointsecurity.com/blog/managing_agentic_ai/)
 - Hacker News Frontpage
   - [13 Months Sober (2025)](https://www.bobbytables.io/p/13-months-sober)
   - [Firebase SDK is CRASHING ALLLL iOS Apps, since today morning](https://twitter.com/GergelyOrosz/status/2104825886922911981)
@@ -83,8 +87,15 @@
   - [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
 - Horizon3.ai
   - [CVE-2026-19490 | Citrix NetScaler ADC and NetScaler Gateway Authentication Bypass Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-19490/)
+- IEEE Spectrum
+  - [Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog](https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32)
+- infosecurity-magazine.com
+  - [Japanese Railway Operators Hit with Weekend Cyber Attacks](https://www.infosecurity-magazine.com/news/japanese-railway-operators-cyber/)
+  - [Kiteworks Urges Customers to Restart Systems After Shutdown Notice](https://www.infosecurity-magazine.com/news/kiteworks-customers-restart/)
 - MIT Technology Review
   - [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/)
+- NOSEC 安全讯息平台 - 漏洞预警
+  - [【漏洞预警】Citrix NetScaler ADC/Gateway 未认证远程代码...](https://nosec.org/home/detail/6432.html)
 - pluralistic.net
   - [Pluralistic: Priceful (28 Sep 2026)](https://pluralistic.net/2026/09/28/cost-of-everything/)
 - rtl-sdr.com
@@ -109,6 +120,7 @@
   - [OpenAI reportedly ditches model over safety concerns](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/)
   - [OpenAI still doesn’t seem to have a handle on all of its rogue AI activity](https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/)
   - [Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort](https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/)
+  - [Protego Ventures closes debut $125 million fund for Israeli defense tech](https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/)
   - [Shopify opens checkout to browser-based AI agents](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/)
   - [Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/)
   - [Tesla delays Roadster 2 event again due to bad weather](https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/)
@@ -135,6 +147,7 @@
   - [OpenAI’s AI agents need to catch up](https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent)
   - [Trump finalizes rule to make cars less fuel efficient](https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards)
   - [Walmart won’t hike prices based on your shopping history, CEO says](https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels)
+  - [Your car’s data privacy problems are worse than you think](https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Lessons from Microsoft Patch KB5002907: Two Layers of Patch Control in Qualys TruRisk Eliminate](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
@@ -296,6 +309,7 @@
   - [resolv: resolv gem: Denial of Service via uncontrolled memory growth from crafted DNS responses](https://vulners.com/redhat/RHSA-2026:72485-CVE-2026-80212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vantic-breach](https://vulners.com/githubexploit/AC10AA1D-46E3-55DF-BF93-7102A8B69710?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [19 Best Gifts for Plant Lovers and Gardeners (2026)](https://www.wired.com/story/gifts-for-plant-lovers-and-gardeners-2026/)
   - [50% Off Blue Apron Promo Codes | October 2026](https://www.wired.com/story/blue-apron-coupon/)
   - [Boox Announces the Picco, Its Smallest E-Reader Ever (2026)](https://www.wired.com/story/boox-picco-announcement-2026/)
   - [Home Depot Promo Codes: 30% Off in October 2026](https://www.wired.com/story/home-depot-promo-code/)
@@ -303,6 +317,7 @@
   - [Motorola Coupon Code for October 2026](https://www.wired.com/story/motorola-coupon-code/)
   - [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/)
   - [Nothing’s New Headphone (1) Pro Are Made for the Studio](https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/)
+  - [Plastic Is Melting Onto Corals](https://www.wired.com/story/plastic-is-melting-onto-corals/)
   - [Shark’s NeverChange Air Purifier Is Nearly Half Off Right Now](https://www.wired.com/story/shark-air-purifier-deal-october-2026/)
   - [Target Promo Code: $50 Off | October 2026](https://www.wired.com/story/target-promo-code/)
   - [Uplift Promo Codes: $300 Off](https://www.wired.com/story/uplift-desk-coupon-code/)
@@ -320,9 +335,11 @@
   - [AMD 以 82 亿美元收购李飞飞的 World Labs](https://www.solidot.org/story?sid=85501)
   - [Starship 完成首次轨道发射](https://www.solidot.org/story?sid=85497)
   - [Windows 10 更新 bug 远少于 Windows 11](https://www.solidot.org/story?sid=85499)
+  - [不易变黑的香蕉准备上市](https://www.solidot.org/story?sid=85502)
   - [中国冰川大幅减少](https://www.solidot.org/story?sid=85498)
 - 爱范儿
   - [5000 吨的星舰入轨，人类最大的火箭开始「送快递」了](https://www.ifanr.com/1682333?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [AI 圈杀出新顶流，神秘「太空兔」能用涂鸦做网站](https://www.ifanr.com/1682401?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [可灵4.0首发实测，国产AI视频再次掀桌？](https://www.ifanr.com/1682361?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果修复iPhone 18 Pro面容ID卡死重启/AMD收购李飞飞世界模型/智界RX上市，余承东：鸿蒙智行「最好开的车」](https://www.ifanr.com/1682292?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了](https://www.ifanr.com/1682291?utm_source=rss&utm_medium=rss&utm_campaign=)
