@@ -5,13 +5,17 @@
   - [【💰】国庆开车回家,爆率拉满](https://2libra.com/post/recommendations/6XrfhdE)
   - [【💰】国庆节假期准备买家具，想听听大家的建议和心得体会，争取少踩点坑](https://2libra.com/post/recommendations/Ucc9NAh)
   - [【💰】节前最后一班，3 点半收工](https://2libra.com/post/office-life/tKJlOTr)
+  - [国庆节到了，坚持住我给大家准备了好玩的](https://2libra.com/post/promotion/Gz4gwET)
   - [放假前最后一天，兄弟们坚持住](https://2libra.com/post/slacking-off/aoLvLaH)
+  - [最后一天的心情变化](https://2libra.com/post/small-things/ro5dx8v)
   - [有朋友帮分析一下吗。这是现在路由器的位置，用的腾达 ac9 博通芯片 现在宽带 300m 的 主路由能跑满 副的速度比一半少一点。想换个路由器 换什么比较好](https://2libra.com/post/networking/dyv0hnM)
   - [静电容键盘：更换轴体，满血复活！](https://2libra.com/post/computers-accessories/Y0LeBNY)
   - [魔兽世界·无限？魔兽版原神？](https://2libra.com/post/game-discussion/lXSwBF7)
 - Ars Technica
   - [AMD acquires World Labs AI startup, upping the ante against Nvidia](https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/)
   - [Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says](https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/)
+- berthub.eu
+  - [Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!](https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/)
 - blog.jim-nielsen.com
   - [VLM Enhanced Metadata For My Icon Galleries](https://blog.jim-nielsen.com/2026/icon-galleries-vlm/)
 - bunnie's blog
@@ -23,6 +27,7 @@
   - [Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach](https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise launches first US spot NEAR ETF after token’s recent surge](https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut](https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [European stablecoin issuer AllUnity launches USD stablecoin USDAU](https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Illinois draft crypto tax rules detail DeFi, stablecoin treatment](https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks](https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -33,7 +38,10 @@
   - [Google PageBreak AI Agent Finds 500+ XSS Flaws](https://www.cyberkendra.com/2026/09/google-pagebreak-ai-agent-500-xss-flaws.html)
 - darkreading
   - [Apple Zero-Day Vulnerability Weaponized in Targeted Attacks](https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks)
+  - [South Africa Seeks Help After Cyberattack Targets Air Traffic Control](https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control)
   - [Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution](https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution)
+- defend.network
+  - [France tax breach, Star Blizzard backdoor campaign, Spectre-v2 BTR CPU flaw disclosed](https://defend.network/briefings/france-tax-breach-star-blizzard-spectre-v2-btr-2026-09-30.html)
 - Emergent Minds | paddo.dev
   - [The Default Was Right: Opus 5.5, Sonnet 5.5 and GPT-6 Sol Effort Levels on Real Work](https://paddo.dev/blog/default-was-right/)
 - Fuzzing Labs
@@ -54,6 +62,8 @@
   - [【漏洞预警】Citrix NetScaler ADC/Gateway 未认证远程代码...](https://nosec.org/home/detail/6432.html)
 - OpenZeppelin Blog
   - [OpenZeppelin and T-REX Network Rebuild ONCHAINID as a Smart Account for Regulated Assets](https://www.openzeppelin.com/news/openzeppelin-and-t-rex-network-rebuild-onchainid-as-a-smart-account-for-regulated-assets)
+- Product Hunt
+  - [CrawlRaven MCP](https://www.producthunt.com/products/crawlraven-mcp)
 - simonwillison.net
   - [Quoting Anthropic Frontier Red Team](https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/)
 - Sploitus.com Exploits RSS Feed
@@ -299,9 +309,13 @@
   - [OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse](https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/)
   - [The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)](https://www.wired.com/gallery/best-laptop-docking-stations/)
 - 不安全
+  - [AMD CEO 苏姿丰成为清华经管学院顾问委员会委员](https://buaq.net/go-445551.html)
+  - [Configuration of found Access Points](https://buaq.net/go-445554.html)
   - [ddc](https://buaq.net/go-445549.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [AMD CEO 苏姿丰成为清华经管学院顾问委员会委员](https://www.solidot.org/story?sid=85510)
 - 安全客
   - [3.5亿美元一夜蒸发！黑客没偷密钥，Bitget是怎么被掏空的](https://www.anquanke.com/post/id/316193)
   - [机器开始自己越权了：AI 智能体一年 17 次"翻墙"，英伟达紧急下场装护栏](https://www.anquanke.com/post/id/316190)
@@ -309,6 +323,7 @@
   - [ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车](https://www.ifanr.com/1682644?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [DeepSeek Harness桌面版实测：更像「个人助理」，还给你送钱](https://www.ifanr.com/1682532?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [OpenAI 年度发布会最全总结：25 个新品很夯，但额度减半拉爆了](https://www.ifanr.com/1682571?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [宝马新一代 3 系亮相！内外全换新，顶配还有 3.0T 六缸](https://www.ifanr.com/1682682?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一](https://www.ifanr.com/1682554?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]anthropic的追踪SUB2API技巧](https://key08.com/index.php/2026/09/30/3339.html)
