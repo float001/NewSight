@@ -21,6 +21,9 @@
 - 360 Netlab Blog - 360
   - [AI安全专题周报（20260930）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-8/)
   - [金融行业网络安全监测月报(202609)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202609/)
+- 404 Media
+  - [How Cities Are Forced to Funnel License Plate Data to a Massive Federal Surveillance Program](https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/)
+  - [How the Feds Get Your Data](https://www.404media.co/how-the-feds-get-your-data/)
 - Ars Technica
   - [AMD acquires World Labs AI startup, upping the ante against Nvidia](https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/)
   - [Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says](https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/)
@@ -62,6 +65,7 @@
   - [Google PageBreak AI Agent Finds 500+ XSS Flaws](https://www.cyberkendra.com/2026/09/google-pagebreak-ai-agent-500-xss-flaws.html)
 - darkreading
   - [Apple Zero-Day Vulnerability Weaponized in Targeted Attacks](https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks)
+  - [Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net](https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net)
   - [South Africa Seeks Help After Cyberattack Targets Air Traffic Control](https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control)
   - [Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution](https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution)
 - defend.network
@@ -73,6 +77,8 @@
   - [The Model Knows It's a Test: Anthropic's IPO Filing Makes Evaluation Awareness a Risk Factor](https://paddo.dev/blog/model-knows-its-a-test/)
 - Fuzzing Labs
   - [Nuit de la Sécurité Globale 2026: a Coup de Cœur for FuzzingLabs](https://fuzzinglabs.com/coup-de-coeur-nuit-securite-globale-2026/)
+- Google DeepMind Blog
+  - [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/)
 - Hacker News Frontpage
   - [AI needs $6T in annual revenue to justify data centre boom](https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/)
   - [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)
@@ -105,6 +111,8 @@
   - [How to Use OWASP MASWE and MASTG for Mobile App Security Testing](https://www.nowsecure.com/blog/2026/09/30/how-to-use-owasp-maswe-and-mastg-for-mobile-app-security-testing/)
 - OpenZeppelin Blog
   - [OpenZeppelin and T-REX Network Rebuild ONCHAINID as a Smart Account for Regulated Assets](https://www.openzeppelin.com/news/openzeppelin-and-t-rex-network-rebuild-onchainid-as-a-smart-account-for-regulated-assets)
+- Pen Test Partners
+  - [Safe, but sailing nowhere. Can you stop a fleet of ships?](https://www.pentestpartners.com/security-blog/safe-and-going-nowhere/)
 - Product Hunt
   - [CrawlRaven MCP](https://www.producthunt.com/products/crawlraven-mcp)
 - Recent Commits to cve:main
@@ -120,6 +128,7 @@
 - steveblank.com
   - [Lean LaunchPad – The Next Generation](https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/)
 - TechCrunch
+  - [3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/)
   - [a16z-backed EliseAI raises $350M, doubles valuation to $4B](https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/)
   - [AI-powered app maker Wabi pivots to a messaging experience](https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/)
   - [Airbnb adds AI search, more social features](https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/)
@@ -127,9 +136,12 @@
   - [America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch](https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/)
   - [Apple Pay set to launch in India with Axis Bank today, sources say](https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/)
   - [Can a chatbot fix the government maze? The White House is about to find out](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/)
+  - [Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/)
   - [Charter Space raises $5M to bring insurance to the stars](https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/)
   - [Dutch police arrest ShinyHunters hacker accused of planning two murders](https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/)
+  - [Google launches Fitbit Air in India, though its high price might deter the masses](https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/)
   - [Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents](https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/)
+  - [Instagram rolls out an AI video editor for creators](https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/)
   - [More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope](https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/)
   - [OpenAI expands ChatGPT’s plugins with app-like interfaces and automations](https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/)
   - [OpenAI gives Codex reusable cloud environments that work across devices](https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/)
@@ -138,6 +150,8 @@
   - [OpenAI repotedly in talks to raise $30B round at $1.4T valuation](https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/)
   - [OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite](https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/)
   - [OpenAI’s latest features take direct aim at the app store model](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/)
+  - [Pledge signed by President Trump and top AI leaders misspells the United States](https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/)
+  - [Restate lands $20M as the need for durable infrastructure increases with AI agents](https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/)
   - [Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus](https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/)
   - [The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/)
   - [Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature](https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/)
@@ -157,6 +171,7 @@
 - The Decoder
   - [AMD buys AI world model startup World Labs for $8.2 billion](https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/)
   - [ChatGPT now reaches 1.2 billion people every week, OpenAI says](https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/)
+  - [China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips](https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/)
   - [Florida wants a court to stop ChatGPT from pretending to be human and talking to kids](https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/)
   - [Google is paying almost no publishers almost nothing for content used in AI answers](https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/)
   - [GPT-6.1 Sol comes close to Astra at a fifth of the price](https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/)
@@ -560,6 +575,7 @@
   - [WordPress OAuth Server plugin <= 4.5.1 - Cross Site Scripting (XSS) vulnerability](https://vulners.com/patchstack/PATCHSTACK:D52EA496BF4245D0852C50A7B0AB0539?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [30% Off Canon Promo Codes | October 2026](https://www.wired.com/story/canon-promo-code/)
+  - [A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos](https://www.wired.com/story/biotech-founder-cathy-tie-moral-case-gene-editing-human-embryos/)
   - [Away’s New Series 3 Luggage Plays It Safe—That’s the Point](https://www.wired.com/story/away-launches-series-3-luggage/)
   - [Best Mattresses for Kids (2026): Saatva, Birch, Helix, and More](https://www.wired.com/gallery/the-best-kids-mattresses/)
   - [Black Twitter Is Thriving—on Threads](https://www.wired.com/story/threads-is-black-twitters-unlikely-spiritual-successor/)
