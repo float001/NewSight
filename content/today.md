@@ -5,6 +5,7 @@
   - [Muse、Cue、Dots，近期的 AI 新事物](https://2libra.com/post/ai-updates/K-Zpt9N)
   - [【💰】Last Day](https://2libra.com/post/slacking-off/4d4_Kjy)
   - [【💰】倒计时最后一小时！](https://2libra.com/post/deal-hunter/1tq4o0q)
+  - [【💰】国庆假期也是法定节假日](https://2libra.com/post/festival-things/yXrDDfA)
   - [【💰】国庆开车回家,爆率拉满](https://2libra.com/post/recommendations/6XrfhdE)
   - [【💰】国庆节假期准备买家具，想听听大家的建议和心得体会，争取少踩点坑](https://2libra.com/post/recommendations/Ucc9NAh)
   - [【💰】节前最后一班，3 点半收工](https://2libra.com/post/office-life/tKJlOTr)
@@ -22,6 +23,7 @@
 - Ars Technica
   - [AMD acquires World Labs AI startup, upping the ante against Nvidia](https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/)
   - [Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says](https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/)
+  - [Cloudflare plans to issue quantum-safe TLS certificates](https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/)
 - berthub.eu
   - [Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!](https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/)
 - blog.jim-nielsen.com
@@ -31,6 +33,7 @@
   - [Winner, Name that Ware August 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-august-2026/)
 - CoinTelegraph
   - [A single market worth protecting: Getting the MiCA review right](https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Altcoin exchange deposit count jumps 160% in 2 weeks](https://cointelegraph.com/markets/altcoin-exchange-deposits-spike-160-in-two-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance Pay lets visitors spend USDT at PayPay merchants in Japan](https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red](https://cointelegraph.com/markets/bitcoin-etf-streak-9-day-ether-zcash-flip-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin gives back gains as long-term holder supply keeps $85K out of reach](https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -76,17 +79,23 @@
 - Horizon3.ai
   - [Horizon3’s Tales from the Trenches: Anthropic’s Mythos and Rejetto HFS](https://horizon3.ai/attack-research/disclosures/anthropic-mythos-rejetto-hfs-rce/)
 - infosecurity-magazine.com
+  - [AI Boosts SOC Analyst Capacity but Limits Skill Development](https://www.infosecurity-magazine.com/news/ai-boosts-soc-analyst-capacity/)
   - [Apple Patches CoreGraphics Zero Day Exploited in Attacks](https://www.infosecurity-magazine.com/news/apple-patches-coregraphics-zero/)
+  - [Attackers Combine ChatGPT Feature Abuse With ClickFix to Deliver Trojan Malware](https://www.infosecurity-magazine.com/news/chatgpt-feature-abuse-to-deliver/)
 - Microsoft Security Blog
   - [Phishing Abuses RMM Tools for Persistent Access](https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/)
 - MIT Technology Review
   - [“We’re not going to shoot ourselves in the foot” over Hugging Face, says OpenAI’s chief research officer](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/)
 - NOSEC 安全讯息平台 - 漏洞预警
   - [【漏洞预警】Citrix NetScaler ADC/Gateway 未认证远程代码...](https://nosec.org/home/detail/6432.html)
+- NowSecure
+  - [How to Use OWASP MASWE and MASTG for Mobile App Security Testing](https://www.nowsecure.com/blog/2026/09/30/how-to-use-owasp-maswe-and-mastg-for-mobile-app-security-testing/)
 - OpenZeppelin Blog
   - [OpenZeppelin and T-REX Network Rebuild ONCHAINID as a Smart Account for Regulated Assets](https://www.openzeppelin.com/news/openzeppelin-and-t-rex-network-rebuild-onchainid-as-a-smart-account-for-regulated-assets)
 - Product Hunt
   - [CrawlRaven MCP](https://www.producthunt.com/products/crawlraven-mcp)
+- shkspr.mobi
+  - [Are you a smartwatch "power user"?](https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/)
 - simonwillison.net
   - [Quoting Anthropic Frontier Red Team](https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/)
 - Sploitus.com Exploits RSS Feed
@@ -94,6 +103,7 @@
 - TechCrunch
   - [a16z-backed EliseAI raises $350M, doubles valuation to $4B](https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/)
   - [AI-powered app maker Wabi pivots to a messaging experience](https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/)
+  - [Airbnb adds AI search, more social features](https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/)
   - [America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch](https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/)
   - [Apple Pay set to launch in India with Axis Bank today, sources say](https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/)
   - [Can a chatbot fix the government maze? The White House is about to find out](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/)
@@ -109,13 +119,16 @@
   - [OpenAI’s latest features take direct aim at the app store model](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/)
   - [Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus](https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/)
   - [The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/)
+  - [Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for](https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/)
   - [Your car and its mobile app are probably handing over all kinds of data to tech companies](https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/)
 - The Block
   - [Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2](https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174)
   - [Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades](https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192)
+  - [Crypto advocacy group Stand With Crypto rolls out its first round of Senate endorsements after failed Clarity vote](https://www.theblock.co/news/regulation/2026-09-30-crypto-advocacy-group-stand-with-crypto-first-senate-endorsements-after-failed-clarity-417223)
   - [CryptoQuant says bitcoin correction could be near as traders’ unrealized profit hits 21-month high](https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206)
   - [Kalshi to end liquidity incentive program amid wash trading allegations](https://www.theblock.co/news/business/2026-09-30-kalshi-ends-trader-incentive-program-417247)
   - [Robinhood to launch perps, weekend stock trading for US users](https://www.theblock.co/news/business/2026-09-29-robinhood-perps-trading-417242)
+  - [Standard Chartered sees over 600% upside for ENA, expects USDe to hit $40 billion by 2028](https://www.theblock.co/news/markets/2026-09-30-standard-chartered-sees-over-600-upside-for-ena-expects-usde-to-hit-40-billion-by-2028-417274)
 - The Decoder
   - [AMD buys AI world model startup World Labs for $8.2 billion](https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/)
   - [ChatGPT now reaches 1.2 billion people every week, OpenAI says](https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/)
@@ -130,6 +143,7 @@
 - The Verge
   - [AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’](https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews)
   - [Apple&#8217;s new CEO could change when it launches phones and laptops](https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy)
+  - [Apple’s &#8216;HomePad&#8217; will reportedly launch on October 13th](https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date)
   - [BMW’s revamped i3 boasts up to 468 miles of range](https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range)
   - [Elon Musk&#8217;s AI-powered Grokipedia is updating again](https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again)
   - [OpenAI DevDay 2026: The biggest news and announcements](https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements)
@@ -227,6 +241,7 @@
   - [CVE-2026-103111](https://vulners.com/nvd/NVD:CVE-2026-103111?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103235 MISP Event Delegation Mass Assignment Allows Retargeting Delegation to Arbitrary Events](https://vulners.com/cve/CVE-2026-103235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103235 MISP Event Delegation Mass Assignment Allows Retargeting Delegation to Arbitrary Events](https://vulners.com/cvelist/CVELIST:CVE-2026-103235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-103242 Rpm: heap-based buffer overflow write in hex2binv() via a mistyped rpmtag_filesignatures header tag](https://vulners.com/cvelist/CVELIST:CVE-2026-103242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-10764 Information disclosure in BVMS 4.5 up to 12.3](https://vulners.com/cvelist/CVELIST:CVE-2026-10764?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11415](https://vulners.com/nvd/NVD:CVE-2026-11415?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11895 HT Mega Addons for Elementor <= 3.1.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Data Table 'display_options' Setting](https://vulners.com/cve/CVE-2026-11895?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -254,6 +269,7 @@
   - [CVE-2026-6172 Bold Page Builder <= 5.7.2 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'caption' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-6172?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6173 Bold Page Builder <= 5.7.2 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'background_image' Parameter](https://vulners.com/cve/CVE-2026-6173?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-6173 Bold Page Builder <= 5.7.2 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'background_image' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-6173?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-62146 Cri-o: cri-o: sandbox state poisoning via pod annotations may expose runtime socket](https://vulners.com/cvelist/CVELIST:CVE-2026-62146?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-63713](https://vulners.com/nvd/NVD:CVE-2026-63713?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67987](https://vulners.com/nvd/NVD:CVE-2026-67987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67993](https://vulners.com/nvd/NVD:CVE-2026-67993?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -414,6 +430,53 @@
   - [Exploit for SQL Injection in Wordpress](https://vulners.com/githubexploit/578403F5-E57E-50A5-AED7-B99622B08C75?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Lab-Reflected-XSS-with-some-SVG-markup-allowed-PRACTITIONER-LAB-Not-solved](https://vulners.com/githubexploit/FBC3DD90-58B4-597A-8132-BBD9A039FC6B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ProofCMS-](https://vulners.com/githubexploit/36B573E7-318B-5B0E-AE0D-6771CF36ADB7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability affects the embedded energy-independent single-write eFUSE memory module in Realtek RTL8762C, a highly integrated wireless system on chip (SoC). This module allows a hacker to circumvent existing security restrictions and expose sensitive information.](https://vulners.com/bdu_fstec/BDU:2026-08814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability in the kernel of operating systems such as macOS, iOS, iPadOS, tvOS, watchOS, and visionOS allows attackers to disclose protected information.](https://vulners.com/bdu_fstec/BDU:2026-07470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of DesktopServicesHelper on macOS operating systems allows a hacker to increase their privileges.](https://vulners.com/bdu_fstec/BDU:2026-15221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the `createSubPicRefBufs` function in the vvdecapp (VVdeC) decoder allows a hacker to trigger a service failure or execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-14260?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Ascon.Pilot.WinService component in the Pilot-BIM data management system, which stems from the lack of authentication for a critical function, allows attackers to compromise the confidentiality, integrity, and accessibility of the protected information.](https://vulners.com/bdu_fstec/BDU:2026-07999?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Ascon.Pilot.WinService component in the Pilot-BIM data management system, which stems from the lack of authentication for a critical function, allows attackers to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-08000?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the CodeScoring software development platform lies in its inability to eliminate special elements from the template creation mechanism, allowing attackers to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-08671?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the CommuniGate Pro mail server arises from insufficient access control checks when processing specially crafted requests, allowing a malicious actor to perform unauthorized modifications to the server’s data.](https://vulners.com/bdu_fstec/BDU:2026-10694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the control console of the MaxPatrol EDR detection and response system allows a perpetrator to trigger a service failure.](https://vulners.com/bdu_fstec/BDU:2026-11660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the DIAFAN.CMS content management system lies in the lack of protective measures for the SQL query structure, allowing attackers to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-11903?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the h2 library in the Rust programming language, related to uncontrolled resource consumption, allows attackers to cause service failures.](https://vulners.com/bdu_fstec/BDU:2026-11885?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the platform for creating individual web applications in CRM involves a lack of measures to protect the SQL query structure, allowing attackers to compromise the confidentiality, integrity, and accessibility of the protected information.](https://vulners.com/bdu_fstec/BDU:2026-13740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the platform for creating individual web applications in CRM involves an incorrect restriction on the path to the catalog, allowing attackers to delete arbitrary files.](https://vulners.com/bdu_fstec/BDU:2026-13739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the platform for creating individual web applications in CRM systems is related to deficiencies in authentication procedures. This allows attackers to bypass existing security mechanisms and gain unauthorized access to protected information.](https://vulners.com/bdu_fstec/BDU:2026-13741?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the platform for creating individual web applications in CRM. The leader involved in this issue faces unlimited distribution of resources, allowing attackers to compromise the accessibility of protected information.](https://vulners.com/bdu_fstec/BDU:2026-13742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the readAlf function in the vvdecapp (VVdeC) decoder allows a hacker to cause a service failure or execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-14259?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the reconstructCoeff function in the vvdecapp decoder (VVdeC) allows a hacker to cause a service failure or execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-14258?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the reconstructCoeff function in the vvdecapp decoder (VVdeC) lies in the use of memory after deallocation during the processing of specially created VVC streams. This allows a hacker to cause a service failure or execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-15071?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the reconstructCoeff function in the vvdecapp decoder (VVdeC) lies in the use of memory after deallocation during the processing of specially created VVC streams. This allows a hacker to cause a service failure or execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-15072?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the reconstructCoeff function in the vvdecapp decoder (VVdeC) lies in the use of memory after deallocation during the processing of specially created VVC streams. This allows a hacker to cause a service failure or execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-15073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Serial Wire Debug interface (SWD) in the highly integrated wireless system on chip (SoC) Realtek RTL8762C allows a hacker to circumvent existing security restrictions and expose sensitive information.](https://vulners.com/bdu_fstec/BDU:2026-08813?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the setBufferingPeriodSEI function in the vvdecapp component (VVdeC), which relates to reading beyond the buffer, allows a hacker to trigger a service failure or gain access to protected information.](https://vulners.com/bdu_fstec/BDU:2026-15074?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Shtab project and task management service, related to deficiencies in access control, allows a intruder to gain unauthorized access to protected information.](https://vulners.com/bdu_fstec/BDU:2026-13480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the software for centralized printer and MFP supervision, related to inconsistencies in responses to incoming requests, allows a perpetrator to gain unauthorized access to protected information.](https://vulners.com/bdu_fstec/BDU:2026-12467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the TrueConf Server software, related to deficiencies in the authentication process, allows a perpetrator to obtain a token with administrator privileges.](https://vulners.com/bdu_fstec/BDU:2026-09160?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the VoIP gateway software Telecom MG, related to improper code generation, allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-07434?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the VoIP gateway software Telecom MG, related to improper code generation, allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-07435?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the VoIP gateway software Telecom MG, related to improper code generation, allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-07621?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the VoIP gateway software Telecom MG, related to improper code generation, allows a hacker to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-07622?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Webasyst content management framework and the Shop-Script CMS system lies in improper restrictions on path names to the catalog. This allows attackers to gain unauthorized access to local files and directories.](https://vulners.com/bdu_fstec/BDU:2026-09065?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Webasyst content management framework and the Shop-Script CMS system lies in insufficient testing of server-side requests. This allows attackers to gain unauthorized access to protected information or cause service failures.](https://vulners.com/bdu_fstec/BDU:2026-09067?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Webasyst content management framework and the Shop-Script CMS system lies in the lack of measures to protect the SQL query structure, allowing attackers to execute arbitrary SQL code.](https://vulners.com/bdu_fstec/BDU:2026-09056?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Webasyst content management framework and the Shop-Script CMS system lies in the lack of measures to protect the SQL query structure, allowing attackers to execute arbitrary SQL code.](https://vulners.com/bdu_fstec/BDU:2026-09058?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Webasyst content management framework and the Shop-Script CMS system lies in the lack of measures to protect the SQL query structure, allowing attackers to execute arbitrary SQL code.](https://vulners.com/bdu_fstec/BDU:2026-09059?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Webasyst content management framework and the Shop-Script CMS system lies in the use of cryptographic algorithms that contain defects, allowing attackers to gain unauthorized access to protected information.](https://vulners.com/bdu_fstec/BDU:2026-09066?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Webasyst content management system and the Shop-Script CMS system lies in improper code generation management, allowing attackers to execute arbitrary code.](https://vulners.com/bdu_fstec/BDU:2026-09064?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Webasyst content management system and the Shop-Script CMS system lies in the lack of measures to protect the SQL query structure, allowing attackers to execute arbitrary SQL code.](https://vulners.com/bdu_fstec/BDU:2026-09055?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Webasyst content management system and the Shop-Script CMS system lies in the lack of measures to protect the SQL query structure, allowing attackers to execute arbitrary SQL code.](https://vulners.com/bdu_fstec/BDU:2026-09057?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Webasyst content management system and the Shop-Script CMS system lies in the lack of measures to protect the SQL query structure, allowing attackers to execute arbitrary SQL code.](https://vulners.com/bdu_fstec/BDU:2026-09060?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Webasyst content management system and the Shop-Script CMS system lies in the lack of measures to protect the SQL query structure, allowing attackers to execute arbitrary SQL code.](https://vulners.com/bdu_fstec/BDU:2026-09061?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Webasyst content management system and the Shop-Script CMS system lies in the lack of measures to protect the SQL query structure, allowing attackers to execute arbitrary SQL code.](https://vulners.com/bdu_fstec/BDU:2026-09062?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the Webasyst content management system and the Shop-Script CMS system lies in the lack of measures to protect the SQL query structure, allowing attackers to execute arbitrary SQL code.](https://vulners.com/bdu_fstec/BDU:2026-09063?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the “REDAAM” IT-infrastructure centralized management system, related to deficiencies in authentication procedures, allows attackers to compromise the confidentiality, integrity, and accessibility of protected information.](https://vulners.com/bdu_fstec/BDU:2026-10918?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the “Tekon” SCADA system, related to the incorrect assignment of permissions for critical resources, allows for the increase of its privileges.](https://vulners.com/bdu_fstec/BDU:2026-10382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [The vulnerability of the “Tekon” SCADA system, which exists due to the lack of measures to neutralize specific elements, allows for the execution of arbitrary codes.](https://vulners.com/bdu_fstec/BDU:2026-10383?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Vulnerability of the “KOMTEK Cassa Kurier” module of the 1C-Bitrix content management system: Website management related to the lack of authentication for critical functions, allowing attackers to compromise the integrity and accessibility of protected information](https://vulners.com/bdu_fstec/BDU:2026-10202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Vulnerability of “Before and After Photos”: Comparison of images before/after by a content management system (CMS) like 1C-Bitrix. This feature allows unauthorized users to execute arbitrary code by enabling unlimited uploading of dangerous types of files.](https://vulners.com/bdu_fstec/BDU:2026-10201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress CF7 Views &#8211; Complete Entry Management for Contact Form 7 plugin <= 3.2.5 - Cross Site Scripting (XSS) vulnerability](https://vulners.com/patchstack/PATCHSTACK:19ED11D40F8EC68A8A654AEFFB7D9BEC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [WordPress OAuth Server plugin <= 4.5.1 - Cross Site Scripting (XSS) vulnerability](https://vulners.com/patchstack/PATCHSTACK:D52EA496BF4245D0852C50A7B0AB0539?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
@@ -427,6 +490,7 @@
   - [OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse](https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/)
   - [The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)](https://www.wired.com/gallery/best-laptop-docking-stations/)
   - [The Best Gaming Routers (2026): Tested By a Family of Gamers](https://www.wired.com/story/best-gaming-routers/)
+  - [The Best Gifts for Book Lovers (2026): E-Readers, Handy Accessories, Book Sets](https://www.wired.com/story/gifts-for-book-lovers/)
 - 不安全
   - [AMD CEO 苏姿丰成为清华经管学院顾问委员会委员](https://buaq.net/go-445551.html)
   - [avdroot](https://buaq.net/go-445559.html)
