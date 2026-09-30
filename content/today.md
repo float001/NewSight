@@ -5,6 +5,8 @@
   - [【💰】国庆开车回家,爆率拉满](https://2libra.com/post/recommendations/6XrfhdE)
   - [【💰】国庆节假期准备买家具，想听听大家的建议和心得体会，争取少踩点坑](https://2libra.com/post/recommendations/Ucc9NAh)
   - [放假前最后一天，兄弟们坚持住](https://2libra.com/post/slacking-off/aoLvLaH)
+  - [有朋友帮分析一下吗。这是现在路由器的位置，用的腾达 ac9 博通芯片 现在宽带 300m 的 主路由能跑满 副的速度比一半少一点。想换个路由器 换什么比较好](https://2libra.com/post/networking/dyv0hnM)
+  - [静电容键盘：更换轴体，满血复活！](https://2libra.com/post/computers-accessories/Y0LeBNY)
   - [魔兽世界·无限？魔兽版原神？](https://2libra.com/post/game-discussion/lXSwBF7)
 - Ars Technica
   - [AMD acquires World Labs AI startup, upping the ante against Nvidia](https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/)
@@ -15,12 +17,15 @@
   - [Name that Ware, September 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-september-2026/)
   - [Winner, Name that Ware August 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-august-2026/)
 - CoinTelegraph
+  - [Binance Pay lets visitors spend USDT at PayPay merchants in Japan](https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin gives back gains as long-term holder supply keeps $85K out of reach](https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach](https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise launches first US spot NEAR ETF after token’s recent surge](https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks](https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump accord calls for tech firms to ‘self police’ their own frontier AI](https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [Apple Patches CoreGraphics Zero-Day CVE-2026-86950](https://www.cyberkendra.com/2026/09/apple-patches-coregraphics-zero-day-cve-2026-86950.html)
 - darkreading
   - [Apple Zero-Day Vulnerability Weaponized in Targeted Attacks](https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks)
   - [Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution](https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution)
@@ -69,6 +74,7 @@
   - [Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2](https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174)
   - [Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades](https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192)
   - [CryptoQuant says bitcoin correction could be near as traders’ unrealized profit hits 21-month high](https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206)
+  - [Robinhood to launch perps, weekend stock trading for US users](https://www.theblock.co/news/business/2026-09-29-robinhood-perps-trading-417242)
 - The Decoder
   - [AMD buys AI world model startup World Labs for $8.2 billion](https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/)
   - [ChatGPT now reaches 1.2 billion people every week, OpenAI says](https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/)
