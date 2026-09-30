@@ -3,6 +3,7 @@
 - 2Libra
   - [Muse、Cue、Dots，近期的 AI 新事物](https://2libra.com/post/ai-updates/K-Zpt9N)
   - [【💰】Last Day](https://2libra.com/post/slacking-off/4d4_Kjy)
+  - [【💰】倒计时最后一小时！](https://2libra.com/post/deal-hunter/1tq4o0q)
   - [【💰】国庆开车回家,爆率拉满](https://2libra.com/post/recommendations/6XrfhdE)
   - [【💰】国庆节假期准备买家具，想听听大家的建议和心得体会，争取少踩点坑](https://2libra.com/post/recommendations/Ucc9NAh)
   - [【💰】节前最后一班，3 点半收工](https://2libra.com/post/office-life/tKJlOTr)
@@ -48,6 +49,7 @@
   - [Update: search-for-compression.py Version 0.0.8](https://blog.didierstevens.com/2026/09/30/update-search-for-compression-py-version-0-0-8/)
 - Emergent Minds | paddo.dev
   - [The Default Was Right: Opus 5.5, Sonnet 5.5 and GPT-6 Sol Effort Levels on Real Work](https://paddo.dev/blog/default-was-right/)
+  - [The Model Knows It's a Test: Anthropic's IPO Filing Makes Evaluation Awareness a Risk Factor](https://paddo.dev/blog/model-knows-its-a-test/)
 - Fuzzing Labs
   - [Nuit de la Sécurité Globale 2026: a Coup de Cœur for FuzzingLabs](https://fuzzinglabs.com/coup-de-coeur-nuit-securite-globale-2026/)
 - Hacker News Frontpage
@@ -60,6 +62,8 @@
   - [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)
   - [The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging](https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/)
   - [UnoDOS](https://github.com/hmofet/unodos)
+- infosecurity-magazine.com
+  - [Apple Patches CoreGraphics Zero Day Exploited in Attacks](https://www.infosecurity-magazine.com/news/apple-patches-coregraphics-zero/)
 - Microsoft Security Blog
   - [Phishing Abuses RMM Tools for Persistent Access](https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/)
 - NOSEC 安全讯息平台 - 漏洞预警
