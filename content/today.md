@@ -32,9 +32,11 @@
   - [The Bulk Discount Is Gone: OpenAI's Pro 500, the Pro 200 Cut and GPT-6.1 Sol on Real Work](https://paddo.dev/blog/bulk-discount-is-gone/)
 - Hacker News Frontpage
   - [5x faster Edge Functions: V8 isolates to Firecracker MicroVMs](https://www.netlify.com/blog/edge-functions-firecracker-microvms/)
+  - [Automating Wi-Fi setup testing on the ESP32](https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/)
   - [Commit Description as a Thinking Tool](https://yedhu.me/posts/commit-description-as-a-thinking-tool/)
   - [EDG C++ front-end goes public](https://edgcpp.org/#transition)
   - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
+  - [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
 - IEEE Spectrum
   - [IEEE Celebrates Innovators Shaping the Future](https://spectrum.ieee.org/ieee-technical-field-awards-2027)
 - NowSecure
@@ -69,6 +71,7 @@
 - The Decoder
   - [FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns](https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/)
   - [Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats](https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/)
+  - [Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead](https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/)
   - [Meta dodges billions in US taxes by calling its AI data centers experiments](https://the-decoder.com/meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments/)
   - [OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer](https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/)
 - The Verge
