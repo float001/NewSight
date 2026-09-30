@@ -1,12 +1,14 @@
 # 今日安全资讯（2026-09-30）
 
 - 2Libra
+  - [Cloudflare 宣布进军公共 CA，向用户免费提供 ACME 等自动化 TLS 证书](https://2libra.com/post/network-security/eoJQuxC)
   - [Muse、Cue、Dots，近期的 AI 新事物](https://2libra.com/post/ai-updates/K-Zpt9N)
   - [【💰】Last Day](https://2libra.com/post/slacking-off/4d4_Kjy)
   - [【💰】倒计时最后一小时！](https://2libra.com/post/deal-hunter/1tq4o0q)
   - [【💰】国庆开车回家,爆率拉满](https://2libra.com/post/recommendations/6XrfhdE)
   - [【💰】国庆节假期准备买家具，想听听大家的建议和心得体会，争取少踩点坑](https://2libra.com/post/recommendations/Ucc9NAh)
   - [【💰】节前最后一班，3 点半收工](https://2libra.com/post/office-life/tKJlOTr)
+  - [为大家准备好国庆快乐指南！](https://2libra.com/post/festival-things/x4HO47f)
   - [国庆节到了，坚持住我给大家准备了好玩的](https://2libra.com/post/promotion/Gz4gwET)
   - [如何正确使唤 Agent 及 错误案例](https://2libra.com/post/prompts/opPeFAI)
   - [放假前最后一天，兄弟们坚持住](https://2libra.com/post/slacking-off/aoLvLaH)
@@ -14,6 +16,9 @@
   - [有朋友帮分析一下吗。这是现在路由器的位置，用的腾达 ac9 博通芯片 现在宽带 300m 的 主路由能跑满 副的速度比一半少一点。想换个路由器 换什么比较好](https://2libra.com/post/networking/dyv0hnM)
   - [静电容键盘：更换轴体，满血复活！](https://2libra.com/post/computers-accessories/Y0LeBNY)
   - [魔兽世界·无限？魔兽版原神？](https://2libra.com/post/game-discussion/lXSwBF7)
+- 360 Netlab Blog - 360
+  - [AI安全专题周报（20260930）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-8/)
+  - [金融行业网络安全监测月报(202609)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202609/)
 - Ars Technica
   - [AMD acquires World Labs AI startup, upping the ante against Nvidia](https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/)
   - [Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says](https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/)
@@ -25,10 +30,13 @@
   - [Name that Ware, September 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-september-2026/)
   - [Winner, Name that Ware August 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-august-2026/)
 - CoinTelegraph
+  - [A single market worth protecting: Getting the MiCA review right](https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance Pay lets visitors spend USDT at PayPay merchants in Japan](https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red](https://cointelegraph.com/markets/bitcoin-etf-streak-9-day-ether-zcash-flip-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin gives back gains as long-term holder supply keeps $85K out of reach](https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach](https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise launches first US spot NEAR ETF after token’s recent surge](https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto hardware wallets compared for 2026](https://cointelegraph.com/magazine/crypto-hardware-wallets-compared-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut](https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [European stablecoin issuer AllUnity launches USD stablecoin USDAU](https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -36,6 +44,8 @@
   - [Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks](https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi in advanced talks to raise new funding at $40B valuation: Reuters](https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump accord calls for tech firms to ‘self police’ their own frontier AI](https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Crypto hardware wallets compared for 2026](https://cointelegraph.com/magazine/crypto-hardware-wallets-compared-for-2026?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [AI Video Generator Technology Gains Momentum as Generative AI Evolves](https://www.cyberkendra.com/2026/09/ai-video-generator-technology-gains-momentum-generative-ai.html)
   - [Apple Patches CoreGraphics Zero-Day CVE-2026-86950](https://www.cyberkendra.com/2026/09/apple-patches-coregraphics-zero-day-cve-2026-86950.html)
@@ -69,6 +79,8 @@
   - [Apple Patches CoreGraphics Zero Day Exploited in Attacks](https://www.infosecurity-magazine.com/news/apple-patches-coregraphics-zero/)
 - Microsoft Security Blog
   - [Phishing Abuses RMM Tools for Persistent Access](https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/)
+- MIT Technology Review
+  - [“We’re not going to shoot ourselves in the foot” over Hugging Face, says OpenAI’s chief research officer](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/)
 - NOSEC 安全讯息平台 - 漏洞预警
   - [【漏洞预警】Citrix NetScaler ADC/Gateway 未认证远程代码...](https://nosec.org/home/detail/6432.html)
 - OpenZeppelin Blog
@@ -108,6 +120,7 @@
   - [AMD buys AI world model startup World Labs for $8.2 billion](https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/)
   - [ChatGPT now reaches 1.2 billion people every week, OpenAI says](https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/)
   - [Florida wants a court to stop ChatGPT from pretending to be human and talking to kids](https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/)
+  - [Google is paying almost no publishers almost nothing for content used in AI answers](https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/)
   - [GPT-6.1 Sol comes close to Astra at a fifth of the price](https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/)
   - [OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast](https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast/)
   - [OpenAI launches always-on Dots agents to rival Meta's Muse](https://the-decoder.com/openai-launches-always-on-dots-agents-to-rival-metas-muse/)
@@ -407,11 +420,13 @@
   - [30% Off Canon Promo Codes | October 2026](https://www.wired.com/story/canon-promo-code/)
   - [Away’s New Series 3 Luggage Plays It Safe—That’s the Point](https://www.wired.com/story/away-launches-series-3-luggage/)
   - [Best Mattresses for Kids (2026): Saatva, Birch, Helix, and More](https://www.wired.com/gallery/the-best-kids-mattresses/)
+  - [Black Twitter Is Thriving—on Threads](https://www.wired.com/story/threads-is-black-twitters-unlikely-spiritual-successor/)
   - [Fanatics Promo Code: 10% Off](https://www.wired.com/story/fanatics-promo-code/)
   - [How Israeli Checkpoints Choke Palestinian Life in the Occupied West Bank](https://www.wired.com/story/how-israeli-checkpoints-choke-palestinian-life-occupied-west-bank/)
   - [LG Promo Codes and Coupons for October 2026](https://www.wired.com/story/lg-promo-code/)
   - [OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse](https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/)
   - [The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)](https://www.wired.com/gallery/best-laptop-docking-stations/)
+  - [The Best Gaming Routers (2026): Tested By a Family of Gamers](https://www.wired.com/story/best-gaming-routers/)
 - 不安全
   - [AMD CEO 苏姿丰成为清华经管学院顾问委员会委员](https://buaq.net/go-445551.html)
   - [avdroot](https://buaq.net/go-445559.html)
@@ -430,6 +445,7 @@
 - 爱范儿
   - [ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车](https://www.ifanr.com/1682644?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [DeepSeek Harness桌面版实测：更像「个人助理」，还给你送钱](https://www.ifanr.com/1682532?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [iQOO 16 体验：可能是今年最卷的「性能旗舰」](https://www.ifanr.com/1682609?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [OpenAI 年度发布会最全总结：25 个新品很夯，但额度减半拉爆了](https://www.ifanr.com/1682571?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [宝马新一代 3 系亮相！内外全换新，顶配还有 3.0T 六缸](https://www.ifanr.com/1682682?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一](https://www.ifanr.com/1682554?utm_source=rss&utm_medium=rss&utm_campaign=)
