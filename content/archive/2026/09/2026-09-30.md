@@ -4,6 +4,7 @@
   - [Muse、Cue、Dots，近期的 AI 新事物](https://2libra.com/post/ai-updates/K-Zpt9N)
   - [【💰】国庆开车回家,爆率拉满](https://2libra.com/post/recommendations/6XrfhdE)
   - [【💰】国庆节假期准备买家具，想听听大家的建议和心得体会，争取少踩点坑](https://2libra.com/post/recommendations/Ucc9NAh)
+  - [【💰】节前最后一班，3 点半收工](https://2libra.com/post/office-life/tKJlOTr)
   - [放假前最后一天，兄弟们坚持住](https://2libra.com/post/slacking-off/aoLvLaH)
   - [有朋友帮分析一下吗。这是现在路由器的位置，用的腾达 ac9 博通芯片 现在宽带 300m 的 主路由能跑满 副的速度比一半少一点。想换个路由器 换什么比较好](https://2libra.com/post/networking/dyv0hnM)
   - [静电容键盘：更换轴体，满血复活！](https://2libra.com/post/computers-accessories/Y0LeBNY)
@@ -25,6 +26,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Illinois draft crypto tax rules detail DeFi, stablecoin treatment](https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks](https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kalshi in advanced talks to raise new funding at $40B valuation: Reuters](https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump accord calls for tech firms to ‘self police’ their own frontier AI](https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Apple Patches CoreGraphics Zero-Day CVE-2026-86950](https://www.cyberkendra.com/2026/09/apple-patches-coregraphics-zero-day-cve-2026-86950.html)
@@ -103,6 +105,7 @@
   - [Trump orders US government to call AI ‘Super Intelligence’](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai)
   - [Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies](https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature)
 - Vulners.com RSS Feed
+  - [Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution](https://vulners.com/thn/THN:B6C4FAD3B33A31F7BFF7E1E7192089B1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-54400](https://vulners.com/nvd/NVD:CVE-2023-54400?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100238 Flow colon-separator and flow-guidedtour-optin-welcome-description messages allow stored XSS](https://vulners.com/cve/CVE-2026-100238?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100238 Flow colon-separator and flow-guidedtour-optin-welcome-description messages allow stored XSS](https://vulners.com/cvelist/CVELIST:CVE-2026-100238?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -150,6 +153,7 @@
   - [CVE-2026-102906](https://vulners.com/nvd/NVD:CVE-2026-102906?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102908](https://vulners.com/nvd/NVD:CVE-2026-102908?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102909](https://vulners.com/nvd/NVD:CVE-2026-102909?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102913](https://vulners.com/nvd/NVD:CVE-2026-102913?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103099](https://vulners.com/nvd/NVD:CVE-2026-103099?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103100](https://vulners.com/nvd/NVD:CVE-2026-103100?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103101](https://vulners.com/nvd/NVD:CVE-2026-103101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -159,6 +163,7 @@
   - [CVE-2026-103106](https://vulners.com/nvd/NVD:CVE-2026-103106?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103108](https://vulners.com/nvd/NVD:CVE-2026-103108?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103109](https://vulners.com/nvd/NVD:CVE-2026-103109?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-103111](https://vulners.com/nvd/NVD:CVE-2026-103111?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11415](https://vulners.com/nvd/NVD:CVE-2026-11415?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19743](https://vulners.com/nvd/NVD:CVE-2026-19743?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-35189](https://vulners.com/nvd/NVD:CVE-2026-35189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -281,6 +286,7 @@
   - [CVE-2026-97688](https://vulners.com/nvd/NVD:CVE-2026-97688?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97689](https://vulners.com/nvd/NVD:CVE-2026-97689?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97711](https://vulners.com/nvd/NVD:CVE-2026-97711?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Cyberary-AI](https://vulners.com/githubexploit/BE29B67F-5492-50A6-BA74-0AC8FDB2AB4C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Code Injection in Craftcms Craft_Cms](https://vulners.com/githubexploit/9F8AE29A-298C-54D2-8A08-AE91A42C7AE9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for PHP Remote File Inclusion in Wordpress](https://vulners.com/githubexploit/569311D0-BF9F-5EF7-8C56-E61EADA98014?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for SQL Injection in Wordpress](https://vulners.com/githubexploit/578403F5-E57E-50A5-AED7-B99622B08C75?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -291,6 +297,9 @@
   - [Fanatics Promo Code: 10% Off](https://www.wired.com/story/fanatics-promo-code/)
   - [LG Promo Codes and Coupons for October 2026](https://www.wired.com/story/lg-promo-code/)
   - [OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse](https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/)
+  - [The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)](https://www.wired.com/gallery/best-laptop-docking-stations/)
+- 不安全
+  - [ddc](https://buaq.net/go-445549.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
