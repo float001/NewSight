@@ -23,6 +23,7 @@
   - [Bitwise launches first US spot NEAR ETF after token’s recent surge](https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut](https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Illinois draft crypto tax rules detail DeFi, stablecoin treatment](https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks](https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump accord calls for tech firms to ‘self police’ their own frontier AI](https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -39,6 +40,7 @@
   - [AI needs $6T in annual revenue to justify data centre boom](https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/)
   - [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)
   - [Electrification efficiency: The world will need less energy after the transition](https://hannahritchie.substack.com/p/electrification-energy-efficiency)
+  - [LinkedIn Larpmaxxing](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)
   - [Memory Companies Have Destroyed the Consumer Market](https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market)
   - [Nicholas Polson has authored 258 academic papers in 2026 (so far)](https://statmodeling.stat.columbia.edu/2026/08/27/258/)
   - [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)
@@ -284,7 +286,10 @@
   - [Exploit for SQL Injection in Wordpress](https://vulners.com/githubexploit/578403F5-E57E-50A5-AED7-B99622B08C75?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ProofCMS-](https://vulners.com/githubexploit/36B573E7-318B-5B0E-AE0D-6771CF36ADB7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [30% Off Canon Promo Codes | October 2026](https://www.wired.com/story/canon-promo-code/)
   - [Away’s New Series 3 Luggage Plays It Safe—That’s the Point](https://www.wired.com/story/away-launches-series-3-luggage/)
+  - [Fanatics Promo Code: 10% Off](https://www.wired.com/story/fanatics-promo-code/)
+  - [LG Promo Codes and Coupons for October 2026](https://www.wired.com/story/lg-promo-code/)
   - [OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse](https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
