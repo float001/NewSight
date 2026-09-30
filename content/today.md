@@ -1,6 +1,10 @@
 # 今日安全资讯（2026-09-30）
 
 - 2Libra
+  - [Muse、Cue、Dots，近期的 AI 新事物](https://2libra.com/post/ai-updates/K-Zpt9N)
+  - [【💰】国庆开车回家,爆率拉满](https://2libra.com/post/recommendations/6XrfhdE)
+  - [【💰】国庆节假期准备买家具，想听听大家的建议和心得体会，争取少踩点坑](https://2libra.com/post/recommendations/Ucc9NAh)
+  - [放假前最后一天，兄弟们坚持住](https://2libra.com/post/slacking-off/aoLvLaH)
   - [魔兽世界·无限？魔兽版原神？](https://2libra.com/post/game-discussion/lXSwBF7)
 - Ars Technica
   - [AMD acquires World Labs AI startup, upping the ante against Nvidia](https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/)
@@ -34,6 +38,8 @@
   - [UnoDOS](https://github.com/hmofet/unodos)
 - Microsoft Security Blog
   - [Phishing Abuses RMM Tools for Persistent Access](https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/)
+- NOSEC 安全讯息平台 - 漏洞预警
+  - [【漏洞预警】Citrix NetScaler ADC/Gateway 未认证远程代码...](https://nosec.org/home/detail/6432.html)
 - OpenZeppelin Blog
   - [OpenZeppelin and T-REX Network Rebuild ONCHAINID as a Smart Account for Regulated Assets](https://www.openzeppelin.com/news/openzeppelin-and-t-rex-network-rebuild-onchainid-as-a-smart-account-for-regulated-assets)
 - simonwillison.net
@@ -261,6 +267,7 @@
   - [3.5亿美元一夜蒸发！黑客没偷密钥，Bitget是怎么被掏空的](https://www.anquanke.com/post/id/316193)
   - [机器开始自己越权了：AI 智能体一年 17 次"翻墙"，英伟达紧急下场装护栏](https://www.anquanke.com/post/id/316190)
 - 爱范儿
+  - [ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车](https://www.ifanr.com/1682644?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [DeepSeek Harness桌面版实测：更像「个人助理」，还给你送钱](https://www.ifanr.com/1682532?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [OpenAI 年度发布会最全总结：25 个新品很夯，但额度减半拉爆了](https://www.ifanr.com/1682571?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一](https://www.ifanr.com/1682554?utm_source=rss&utm_medium=rss&utm_campaign=)
