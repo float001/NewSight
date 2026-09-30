@@ -8,17 +8,23 @@
   - [Lawyer Cites ChatGPT-Invented Fake Witnesses in Murder Appeal](https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/)
   - [USPS To Put Cameras in Trucks That Scan Roads for ‘Community Safety’](https://www.404media.co/usps-to-put-cameras-in-trucks-that-scan-roads-for-community-safety/)
 - Ars Technica
+  - [Google announces Gemini 4 Argon AI model, but you can't use it yet](https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/)
   - [Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack](https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/)
 - blog.jim-nielsen.com
   - [Dear Software Makers](https://blog.jim-nielsen.com/2026/dear-software-makers/)
+- Chainalysis Blog
+  - [OFAC Sanctions Tren de Aragua Fugitive Who Laundered ATM Heists With Crypto](https://www.chainalysis.com/blog/ofac-sanctions-tren-de-aragua-crypto-laundering-september-2026/)
 - CoinTelegraph
   - [Bitget ‘gradually back to usual’ as protection fund reaches $309M](https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bloomberg brings onchain stablecoin data to its Terminal](https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel](https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto advocacy group announces picks for US Congress as midterms loom](https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2](https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
   - [Anthropic’s IPO Prospectus Is a Fucking Doozy](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/)
+  - [Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13](https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M)
 - Emergent Minds | paddo.dev
   - [The Bulk Discount Is Gone: OpenAI's Pro 500, the Pro 200 Cut and GPT-6.1 Sol on Real Work](https://paddo.dev/blog/bulk-discount-is-gone/)
 - Hacker News Frontpage
@@ -30,13 +36,17 @@
   - [IEEE Celebrates Innovators Shaping the Future](https://spectrum.ieee.org/ieee-technical-field-awards-2027)
 - Publications | Outflank
   - [MCP Beyond the Spec: Inside Codex and Claude Code](https://www.outflank.nl/blog/2026/09/30/mcp-design/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-91159](https://sploitus.com/exploit?id=E2A85B23-BFD7-54EB-8368-F3A4ADB875E1&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI voice startup ElevenLabs doubles valuation to $22B](https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/)
   - [BMW built the same car for gas and electric. The EV is $4,400 cheaper.](https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/)
   - [Destro AI’s secret sauce is getting robots and humans on the same page](https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/)
   - [DoorDash launches an AI agent you can text to order food](https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/)
   - [DoorDash’s drone strategy started on the ground](https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/)
+  - [Factory CEO just accused his VC board advisor of spying for Cognition](https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/)
   - [Hackers stole millions of US military personnel records during months-long data breach](https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/)
+  - [Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America](https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/)
   - [Meta disputes claim that Muse read a user’s private messages without permission](https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/)
   - [OpenAI’s Jev clone could help the frontier lab stop its swarming agents](https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/)
   - [Reddit is killing RSS feeds and ending public API access because of AI bots](https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/)
@@ -44,6 +54,7 @@
 - The Block
   - [Base launches Cobalt upgrade with conditional transactions and new B20 asset functions](https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308)
   - [Bitcoin steadies as soft PCE cools October Fed rate hike bets](https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335)
+  - [CFTC secures over $30 million judgment against defendants in Fundsz fraud case](https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365)
   - [DogeOS launches testnet to bring EVM smart contracts to Dogecoin](https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307)
   - [White House weighs new CFTC event contract rules in growing prediction market power struggle](https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345)
 - The Decoder
@@ -55,7 +66,9 @@
   - [&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief](https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview)
   - [Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;](https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy)
   - [Asus won’t say how it escaped the US router ban](https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing)
+  - [Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now](https://www.theverge.com/tech/1002980/google-gemini-4-argon)
   - [Here&#8217;s what AI leaders are saying about Trump’s new safety plan](https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments)
+  - [Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie](https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie)
   - [Reddit says it has to cut back access to &#8216;Old Reddit&#8217; because of AI bots](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping)
   - [The AI Tamagotchis are coming](https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices)
   - [The Halide camera app now offers full control of the iPhone 18 Pro’s aperture](https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture)
@@ -142,6 +155,8 @@
 - Wired
   - [Furry Airline Pilots Are Just Minding Their Own Business](https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/)
   - [The Battle to Be Your Personal AI Agent Is Here](https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/)
+  - [The White House Is Starting to Panic Over the Midterms](https://www.wired.com/story/the-white-house-is-starting-to-panic-over-the-midterms/)
   - [There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI](https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/)
+  - [Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear](https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
