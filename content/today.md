@@ -5,28 +5,42 @@
   - [祝大家国庆快乐，遵守交通规则。](https://2libra.com/post/midlife-support-club/RFe887T)
 - 404 Media
   - [Internet Infrastructure Services Empower Deepfake Abuse, New Study Finds](https://www.404media.co/deepfake-abuse-sites-infrastructure-providers-study/)
+  - [Lawyer Cites ChatGPT-Invented Fake Witnesses in Murder Appeal](https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/)
   - [USPS To Put Cameras in Trucks That Scan Roads for ‘Community Safety’](https://www.404media.co/usps-to-put-cameras-in-trucks-that-scan-roads-for-community-safety/)
+- Ars Technica
+  - [Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack](https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/)
+- blog.jim-nielsen.com
+  - [Dear Software Makers](https://blog.jim-nielsen.com/2026/dear-software-makers/)
 - CoinTelegraph
   - [Bitget ‘gradually back to usual’ as protection fund reaches $309M](https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bloomberg brings onchain stablecoin data to its Terminal](https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel](https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Emergent Minds | paddo.dev
   - [The Bulk Discount Is Gone: OpenAI's Pro 500, the Pro 200 Cut and GPT-6.1 Sol on Real Work](https://paddo.dev/blog/bulk-discount-is-gone/)
 - Hacker News Frontpage
+  - [5x faster Edge Functions: V8 isolates to Firecracker MicroVMs](https://www.netlify.com/blog/edge-functions-firecracker-microvms/)
   - [Commit Description as a Thinking Tool](https://yedhu.me/posts/commit-description-as-a-thinking-tool/)
   - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
 - IEEE Spectrum
   - [IEEE Celebrates Innovators Shaping the Future](https://spectrum.ieee.org/ieee-technical-field-awards-2027)
+- Publications | Outflank
+  - [MCP Beyond the Spec: Inside Codex and Claude Code](https://www.outflank.nl/blog/2026/09/30/mcp-design/)
 - TechCrunch
+  - [AI voice startup ElevenLabs doubles valuation to $22B](https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/)
   - [Destro AI’s secret sauce is getting robots and humans on the same page](https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/)
   - [DoorDash launches an AI agent you can text to order food](https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/)
   - [Meta disputes claim that Muse read a user’s private messages without permission](https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/)
+  - [OpenAI’s Jev clone could help the frontier lab stop its swarming agents](https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/)
   - [Reddit is killing RSS feeds and ending public API access because of AI bots](https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/)
   - [The ugly economics of consumer AI](https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/)
 - The Block
+  - [Base launches Cobalt upgrade with conditional transactions and new B20 asset functions](https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308)
   - [Bitcoin steadies as soft PCE cools October Fed rate hike bets](https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335)
+  - [DogeOS launches testnet to bring EVM smart contracts to Dogecoin](https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307)
   - [White House weighs new CFTC event contract rules in growing prediction market power struggle](https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345)
 - The Decoder
   - [FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns](https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/)
+  - [Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats](https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/)
   - [Meta dodges billions in US taxes by calling its AI data centers experiments](https://the-decoder.com/meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments/)
 - The Verge
   - [&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief](https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview)
@@ -34,6 +48,7 @@
   - [Asus won’t say how it escaped the US router ban](https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing)
   - [Here&#8217;s what AI leaders are saying about Trump’s new safety plan](https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments)
   - [Reddit says it has to cut back access to &#8216;Old Reddit&#8217; because of AI bots](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping)
+  - [The AI Tamagotchis are coming](https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices)
   - [The Halide camera app now offers full control of the iPhone 18 Pro’s aperture](https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture)
   - [This blog could help you poop better](https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health)
 - Vulners.com RSS Feed
@@ -88,5 +103,7 @@
   - [EUVD-2026-90226](https://vulners.com/euvd/EUVD-2026-90226?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wallarm
   - [AI Governance on AWS: The Runtime Control Loop: AI Governance on AWS: Four Functions, One Loop, and a Deadline That Already Passed](https://lab.wallarm.com/runtime-ai-governance-aws-control-loop/)
+- Wired
+  - [There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI](https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
