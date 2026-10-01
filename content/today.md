@@ -69,12 +69,14 @@
   - [GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design)
   - [Jevotron: Multiple Jev integrations from the command line](https://cmungall.github.io/jevotron/)
   - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
+  - [Returning from vacation? The government can search your phone without a warrant](https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/)
   - [Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra)
   - [Truemetrics (YC S23) Is Hiring a GTM Founder's Associate](https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate)
   - [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
 - Horizon3.ai
   - [CVE-2026-76504 | Cisco Catalyst SD-WAN Manager API Authentication Bypass Vulnerability | Reversed by Horizon3](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-76504/)
 - IEEE Spectrum
+  - [Electricity Theft Is Rampant, but Delhi Found a Fix](https://spectrum.ieee.org/electricity-theft)
   - [IEEE Celebrates Innovators Shaping the Future](https://spectrum.ieee.org/ieee-technical-field-awards-2027)
 - infosecurity-magazine.com
   - [AI Threats Top Cybersecurity Preparedness Gap, PwC Finds](https://www.infosecurity-magazine.com/news/mitigating-adversarial-ai-top/)
@@ -110,6 +112,7 @@
   - [Meta disputes claim that Muse read a user’s private messages without permission](https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/)
   - [OpenAI’s Jev clone could help the frontier lab stop its swarming agents](https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/)
   - [Reddit is killing RSS feeds and ending public API access because of AI bots](https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/)
+  - [Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites](https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)
   - [The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next](https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/)
   - [The ugly economics of consumer AI](https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/)
   - [Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/)
@@ -119,6 +122,7 @@
   - [CFTC secures over $30 million judgment against defendants in Fundsz fraud case](https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365)
   - [Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says](https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362)
   - [DogeOS launches testnet to bring EVM smart contracts to Dogecoin](https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307)
+  - [Lloyds, Visa settle $750,000 using USDC in live cross-border pilot](https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378)
   - [White House weighs new CFTC event contract rules in growing prediction market power struggle](https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345)
 - The Decoder
   - [FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns](https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/)
@@ -460,12 +464,16 @@
   - [AI Governance on AWS: The Runtime Control Loop: AI Governance on AWS: Four Functions, One Loop, and a Deadline That Already Passed](https://lab.wallarm.com/runtime-ai-governance-aws-control-loop/)
 - Wired
   - [Apple Mac Studio (M5 Ultra) Review: Unlimited Power](https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/)
+  - [Best Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More](https://www.wired.com/story/gifts-for-parents-2026/)
+  - [Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+](https://www.wired.com/gallery/best-wifi-routers/)
   - [Casio’s Crystal G-Shock Is the Most Expensive Ever Made](https://www.wired.com/story/casio-crystal-g-shock-is-the-most-expensive-ever-made/)
   - [Exclusive: Neurable’s First Brain-Scanning Headphones Want to Fine-Tune Your Focus](https://www.wired.com/story/exclusive-neurable-one-brain-scanning-headphones-want-to-fix-your-focus/)
   - [Furry Airline Pilots Are Just Minding Their Own Business](https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/)
   - [Madison Square Garden’s James Dolan Is Spending Big on New York’s Governor Race](https://www.wired.com/story/madison-square-gardens-james-dolan-is-spending-big-on-new-yorks-governor-race/)
+  - [Measles Is Forcing Hospitals to Adapt to a New Normal](https://www.wired.com/story/measles-is-forcing-hospitals-to-adapt-to-a-new-normal/)
   - [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/)
   - [The Battle to Be Your Personal AI Agent Is Here](https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/)
+  - [The Real Threat to the Midterms Is Regular Americans Thinking Violence Is the Answer](https://www.wired.com/story/the-real-threat-to-the-midterms-is-regular-americans-thinking-violence-is-the-answer/)
   - [The Secrets of the US Spyware King](https://www.wired.com/story/the-secrets-of-the-us-spyware-king/)
   - [The White House Is Starting to Panic Over the Midterms](https://www.wired.com/story/the-white-house-is-starting-to-panic-over-the-midterms/)
   - [There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI](https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/)
