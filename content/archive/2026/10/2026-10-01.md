@@ -22,6 +22,7 @@
   - [Bitget ‘gradually back to usual’ as protection fund reaches $309M](https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bloomberg brings onchain stablecoin data to its Terminal](https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel](https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [CFTC seeks to define event contracts as swaps amid prediction market fight](https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto advocacy group announces picks for US Congress as midterms loom](https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [MetaMask exits Ethereum validators as it investigates security incident](https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -37,6 +38,7 @@
 - Emergent Minds | paddo.dev
   - [The Bulk Discount Is Gone: OpenAI's Pro 500, the Pro 200 Cut and GPT-6.1 Sol on Real Work](https://paddo.dev/blog/bulk-discount-is-gone/)
 - Hacker News Frontpage
+  - [10-year Treasury yield climbs above 5.3% to a level not seen in 24 years](https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f)
   - [5x faster Edge Functions: V8 isolates to Firecracker MicroVMs](https://www.netlify.com/blog/edge-functions-firecracker-microvms/)
   - [Automating Wi-Fi setup testing on the ESP32](https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/)
   - [Commit Description as a Thinking Tool](https://yedhu.me/posts/commit-description-as-a-thinking-tool/)
@@ -52,11 +54,13 @@
 - Publications | Outflank
   - [MCP Beyond the Spec: Inside Codex and Claude Code](https://www.outflank.nl/blog/2026/09/30/mcp-design/)
 - rtl-sdr.com
+  - [FoxSDR Updates: Node Canvas, Single Map Display, Linux+Android Builds, Locating Air Traffic Radar Positions](https://www.rtl-sdr.com/foxsdr-updates-node-canvas-single-map-display-linuxandroid-builds-locating-air-traffic-radar-positions/)
   - [NNJ-SDR++: Improved Firmware and Software for Kintex-7 AD9361 B210 Clones](https://www.rtl-sdr.com/nnj-sdr-improved-firmware-and-software-for-kintex-7-ad9361-b210-clones/)
   - [RF-Traffic-Monitor: Track Aircraft, Ships, Drones and Radiosondes in One Program](https://www.rtl-sdr.com/rf-traffic-monitor-track-aircraft-ships-drones-and-radiosondes-in-one-program/)
 - simonwillison.net
   - [He Built This City](https://simonwillison.net/2026/Sep/30/he-built-this-city/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-103585](https://sploitus.com/exploit?id=FE048CD7-B744-55DF-A180-18478007ED2B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-91159](https://sploitus.com/exploit?id=E2A85B23-BFD7-54EB-8368-F3A4ADB875E1&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI voice startup ElevenLabs doubles valuation to $22B](https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/)
@@ -100,6 +104,7 @@
   - [The Halide camera app now offers full control of the iPhone 18 Pro’s aperture](https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture)
   - [The new and huger Paramount has a new co-CEO](https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez)
   - [This blog could help you poop better](https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health)
+  - [Vivo’s X Fold 6 accidentally feels like a throwback](https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras)
 - Vulners.com RSS Feed
   - [CVE-2026-100510 WordPress Post and Page Builder by BoldGrid plugin <= 1.27.14 - Cross Site Scripting (XSS) vulnerability](https://vulners.com/cve/CVE-2026-100510?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100510 WordPress Post and Page Builder by BoldGrid plugin <= 1.27.14 - Cross Site Scripting (XSS) vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-100510?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -133,6 +138,7 @@
   - [CVE-2026-102392 WordPress Extra Product Options For WooCommerce | Custom Product Addons and Fields plugin <= 3.3.8 - PHP Object Injection vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-102392?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102397 WordPress Ultimate Maps by Supsystic plugin <= 1.5.5 - Broken Access Control vulnerability](https://vulners.com/cve/CVE-2026-102397?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102397 WordPress Ultimate Maps by Supsystic plugin <= 1.5.5 - Broken Access Control vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-102397?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102938](https://vulners.com/circl/CIRCL:CVE-2026-102938?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102990 basic-ftp: Quadratic-time CPU denial of service in Client.list() Unix directory-listing parser (RE_LINE backtracking)](https://vulners.com/cve/CVE-2026-102990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102990 basic-ftp: Quadratic-time CPU denial of service in Client.list() Unix directory-listing parser (RE_LINE backtracking)](https://vulners.com/cvelist/CVELIST:CVE-2026-102990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102991 Mako: Path traversal via drive-letter URI on Windows in TemplateLookup](https://vulners.com/cve/CVE-2026-102991?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -148,6 +154,10 @@
   - [CVE-2026-103439 Various rawParams() and escaped() updates to prevent XSS in Wikibase extension](https://vulners.com/cvelist/CVELIST:CVE-2026-103439?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103440 pagetriagelist discloses suppressed reviewer usernames](https://vulners.com/cve/CVE-2026-103440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103440 pagetriagelist discloses suppressed reviewer usernames](https://vulners.com/cvelist/CVELIST:CVE-2026-103440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-103530](https://vulners.com/circl/CIRCL:CVE-2026-103530?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-103531](https://vulners.com/nvd/NVD:CVE-2026-103531?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-103532 immich-app Immich Shared Link Preview access.ts checkSharedLinkAccess improper authorization](https://vulners.com/cve/CVE-2026-103532?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-103532 immich-app Immich Shared Link Preview access.ts checkSharedLinkAccess improper authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-103532?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103547](https://vulners.com/cve/CVE-2026-103547?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103547](https://vulners.com/cvelist/CVELIST:CVE-2026-103547?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103548 Improperly Stored Credentials](https://vulners.com/cve/CVE-2026-103548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -225,7 +235,11 @@
   - [EUVD-2026-90426](https://vulners.com/euvd/EUVD-2026-90426?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [EUVD-2026-90427](https://vulners.com/euvd/EUVD-2026-90427?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [EUVD-2026-90428](https://vulners.com/euvd/EUVD-2026-90428?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-103584](https://vulners.com/githubexploit/3F862297-669B-5CA0-BA00-E9F3854E4A1C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-103585](https://vulners.com/githubexploit/FE048CD7-B744-55DF-A180-18478007ED2B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-76504](https://vulners.com/githubexploit/6B65C86A-36FF-5B37-9509-8BDF94015F72?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Implementation of Authentication Algorithm in Vmware Vcenter_Server](https://vulners.com/githubexploit/9CD9732F-42FB-5A3B-BD9C-218EC559944C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-9H9J-4VRJ-GF7G](https://vulners.com/circl/CIRCL:GHSA-9H9J-4VRJ-GF7G?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability affects the embedded energy-independent single-write eFUSE memory module in Realtek RTL8762C, a highly integrated wireless system on chip (SoC). This module allows a hacker to circumvent existing security restrictions and expose sensitive information.](https://vulners.com/bdu_fstec/BDU:2026-08814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability in the kernel of operating systems such as macOS, iOS, iPadOS, tvOS, watchOS, and visionOS allows attackers to disclose protected information.](https://vulners.com/bdu_fstec/BDU:2026-07470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [The vulnerability of DesktopServicesHelper on macOS operating systems allows a hacker to increase their privileges.](https://vulners.com/bdu_fstec/BDU:2026-15221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -283,6 +297,8 @@
   - [The White House Is Starting to Panic Over the Midterms](https://www.wired.com/story/the-white-house-is-starting-to-panic-over-the-midterms/)
   - [There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI](https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/)
   - [Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear](https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/)
+- 不安全
+  - [FoxSDR Updates: Node Canvas, Single Map Display, Linux+Android Builds, Locating Air Traffic Radar Positions](https://buaq.net/go-445720.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
