@@ -26,7 +26,9 @@
 - Chainalysis Blog
   - [OFAC Sanctions Tren de Aragua Fugitive Who Laundered ATM Heists With Crypto](https://www.chainalysis.com/blog/ofac-sanctions-tren-de-aragua-crypto-laundering-september-2026/)
 - CoinTelegraph
+  - [Binance’s EU services face scrutiny over licensing exemption: Report](https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%](https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin trapped below $86K as PCE changes cloud inflation reading](https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitget ‘gradually back to usual’ as protection fund reaches $309M](https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bloomberg brings onchain stablecoin data to its Terminal](https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel](https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -37,6 +39,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [MetaMask exits Ethereum validators as it investigates security incident](https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2](https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Tokenized assets don’t always mirror traditional markets, Dune finds](https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [MetaMask exits Ethereum validators as it investigates security incident](https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -51,6 +54,8 @@
   - [Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure](https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure)
 - defend.network
   - [Cisco SD-WAN, Zimbra, Zammad under attack; active exploitation confirmed](https://defend.network/briefings/cisco-sd-wan-zimbra-zammad-critical-exploits-2026-10-01.html)
+- dfarq.homeip.net
+  - [The day GIF became free to use, forever](https://dfarq.homeip.net/the-day-gif-became-free-to-use-forever/?utm_source=rss&utm_medium=rss&utm_campaign=the-day-gif-became-free-to-use-forever)
 - Emergent Minds | paddo.dev
   - [The Bulk Discount Is Gone: OpenAI's Pro 500, the Pro 200 Cut and GPT-6.1 Sol on Real Work](https://paddo.dev/blog/bulk-discount-is-gone/)
 - Hacker News Frontpage
@@ -61,6 +66,7 @@
   - [Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program](https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/)
   - [Commit Description as a Thinking Tool](https://yedhu.me/posts/commit-description-as-a-thinking-tool/)
   - [EDG C++ front-end goes public](https://edgcpp.org/#transition)
+  - [GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design)
   - [Jevotron: Multiple Jev integrations from the command line](https://cmungall.github.io/jevotron/)
   - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
   - [Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra)
@@ -72,6 +78,8 @@
   - [IEEE Celebrates Innovators Shaping the Future](https://spectrum.ieee.org/ieee-technical-field-awards-2027)
 - infosecurity-magazine.com
   - [AI Threats Top Cybersecurity Preparedness Gap, PwC Finds](https://www.infosecurity-magazine.com/news/mitigating-adversarial-ai-top/)
+- MIT Technology Review
+  - [An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/)
 - NowSecure
   - [[TEST] What Modern Security Teams Need to Know in 2026](https://www.nowsecure.com/blog/2026/09/30/test-what-modern-security-teams-need-to-know-in-2026/)
 - Publications | Outflank
@@ -125,12 +133,14 @@
   - [Elon Musk’s Grokipedia has a ‘newly refreshed’ design](https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai)
   - [Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now](https://www.theverge.com/tech/1002980/google-gemini-4-argon)
   - [Here&#8217;s what AI leaders are saying about Trump’s new safety plan](https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments)
+  - [Huawei made a whole camera to attach to its latest phone](https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera)
   - [Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie](https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie)
   - [Reddit says it has to cut back access to &#8216;Old Reddit&#8217; because of AI bots](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping)
   - [The AI Tamagotchis are coming](https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices)
   - [The Halide camera app now offers full control of the iPhone 18 Pro’s aperture](https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture)
   - [The new and huger Paramount has a new co-CEO](https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez)
   - [This blog could help you poop better](https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health)
+  - [This fancy e-bike is one of the first with a semi-solid state battery](https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery)
   - [Vivo’s X Fold 6 accidentally feels like a throwback](https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras)
 - Vulners.com RSS Feed
   - [Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path](https://vulners.com/thn/THN:A392A74DA8E4F8CF242B3AD45DD76F66?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -451,7 +461,9 @@
 - Wired
   - [Apple Mac Studio (M5 Ultra) Review: Unlimited Power](https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/)
   - [Casio’s Crystal G-Shock Is the Most Expensive Ever Made](https://www.wired.com/story/casio-crystal-g-shock-is-the-most-expensive-ever-made/)
+  - [Exclusive: Neurable’s First Brain-Scanning Headphones Want to Fine-Tune Your Focus](https://www.wired.com/story/exclusive-neurable-one-brain-scanning-headphones-want-to-fix-your-focus/)
   - [Furry Airline Pilots Are Just Minding Their Own Business](https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/)
+  - [Madison Square Garden’s James Dolan Is Spending Big on New York’s Governor Race](https://www.wired.com/story/madison-square-gardens-james-dolan-is-spending-big-on-new-yorks-governor-race/)
   - [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/)
   - [The Battle to Be Your Personal AI Agent Is Here](https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/)
   - [The Secrets of the US Spyware King](https://www.wired.com/story/the-secrets-of-the-us-spyware-king/)
