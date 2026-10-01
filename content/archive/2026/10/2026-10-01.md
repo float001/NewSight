@@ -5,6 +5,7 @@
   - [【💰】买了个相机，大家有没有什么推荐的配件](https://2libra.com/post/photography/tF64FJd)
   - [【💰】救命，高速上的牛鬼蛇神真是太多了](https://2libra.com/post/automobile/59z0WMe)
   - [哇，今天签到是十倍金币吗](https://2libra.com/post/small-things/fXB5HiM)
+  - [国家放假吃什么？](https://2libra.com/post/festival-things/1FiAJAi)
   - [大喜大悲就在一瞬之间！](https://2libra.com/post/personal-life/N3d48Uj)
   - [新建自用车印区 Apple one/music](https://2libra.com/post/sharing/l0DI_xF)
   - [祝大家国庆快乐，遵守交通规则。](https://2libra.com/post/midlife-support-club/RFe887T)
@@ -26,6 +27,7 @@
   - [Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel](https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC seeks to define event contracts as swaps amid prediction market fight](https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto advocacy group announces picks for US Congress as midterms loom](https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto hacks top $768M in September, worst month of 2026](https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [MetaMask exits Ethereum validators as it investigates security incident](https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2](https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -323,11 +325,13 @@
   - [AI Governance on AWS: The Runtime Control Loop: AI Governance on AWS: Four Functions, One Loop, and a Deadline That Already Passed](https://lab.wallarm.com/runtime-ai-governance-aws-control-loop/)
 - Wired
   - [Furry Airline Pilots Are Just Minding Their Own Business](https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/)
+  - [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/)
   - [The Battle to Be Your Personal AI Agent Is Here](https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/)
   - [The White House Is Starting to Panic Over the Midterms](https://www.wired.com/story/the-white-house-is-starting-to-panic-over-the-midterms/)
   - [There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI](https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/)
   - [Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear](https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/)
 - 不安全
+  - [Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs](https://buaq.net/go-445739.html)
   - [FoxSDR Updates: Node Canvas, Single Map Display, Linux+Android Builds, Locating Air Traffic Radar Positions](https://buaq.net/go-445720.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
