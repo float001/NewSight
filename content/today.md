@@ -8,6 +8,8 @@
   - [Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data](https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/)
   - [Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search](https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/)
   - [With most information hidden, the game Stratego](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
+- Chainalysis Blog
+  - [How AI Helped Chainalysis Investigators Trace the $387 Million North Korea Stole from Bitget](https://www.chainalysis.com/blog/387m-bitget-theft-2026/)
 - CoinTelegraph
   - [50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review](https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury](https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -23,6 +25,7 @@
 - gilesthomas.com
   - [Why do OpenAI's GPT-2 weights beat mine?  Part five: data quality](https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality)
 - Hacker News Frontpage
+  - [2026 International Utility Locate Rodeo](https://locaterodeo.net/)
   - [ArXiv's Updated Rate Limit Policy](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/)
   - [Canada fast-tracks Pacific oil pipeline to reduce US dependence](https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb)
   - [Car Is a Smartphone on Wheels. Here's Who's Listening](https://automatictransmission.khoury.northeastern.edu/index.html)
@@ -64,6 +67,7 @@
   - [Ideogram says its new model can edit part of an image without messing up the rest](https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/)
 - The Verge
   - [Android Central &#8216;will continue&#8217; despite laying off its staff](https://www.theverge.com/tech/1003735/android-central-layoffs)
+  - [Apple’s reportedly developing a smart home camera that doesn’t record video](https://www.theverge.com/tech/1003877/apple-security-camera-no-video)
   - [Can VR glasses save VR?](https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality)
   - [Google’s new Guided Vision feature can help you read the fine print](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision)
   - [Inside Microsoft’s big Copilot rethink](https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad)
@@ -74,6 +78,7 @@
 - Wired
   - [The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)](https://www.wired.com/story/amazon-prime-day-early-deals-10-01-2026/)
   - [Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot](https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/)
+  - [Whatever AI Safety Is, It’s Not This](https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
