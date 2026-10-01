@@ -395,6 +395,7 @@
 - Wallarm
   - [AI Governance on AWS: The Runtime Control Loop: AI Governance on AWS: Four Functions, One Loop, and a Deadline That Already Passed](https://lab.wallarm.com/runtime-ai-governance-aws-control-loop/)
 - Wired
+  - [Casio’s Crystal G-Shock Is the Most Expensive Ever Made](https://www.wired.com/story/casio-crystal-g-shock-is-the-most-expensive-ever-made/)
   - [Furry Airline Pilots Are Just Minding Their Own Business](https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/)
   - [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/)
   - [The Battle to Be Your Personal AI Agent Is Here](https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/)
