@@ -44,6 +44,8 @@
   - [Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13](https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M)
 - darkreading
   - [Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure](https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure)
+- defend.network
+  - [Cisco SD-WAN, Zimbra, Zammad under attack; active exploitation confirmed](https://defend.network/briefings/cisco-sd-wan-zimbra-zammad-critical-exploits-2026-10-01.html)
 - Emergent Minds | paddo.dev
   - [The Bulk Discount Is Gone: OpenAI's Pro 500, the Pro 200 Cut and GPT-6.1 Sol on Real Work](https://paddo.dev/blog/bulk-discount-is-gone/)
 - Hacker News Frontpage
@@ -74,6 +76,7 @@
   - [Various Projects Independently Find Hidden SDR Capabilities in ESP32 Microcontrollers](https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/)
 - simonwillison.net
   - [He Built This City](https://simonwillison.net/2026/Sep/30/he-built-this-city/)
+  - [Quoting Matthew Green](https://simonwillison.net/2026/Oct/1/matthew-green/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-103585](https://sploitus.com/exploit?id=FE048CD7-B744-55DF-A180-18478007ED2B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-48500](https://sploitus.com/exploit?id=ED0C2FD2-71AA-5C4C-8306-63EB7CB76A16&utm_source=rss&utm_medium=rss)
@@ -377,6 +380,10 @@
   - [There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI](https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/)
   - [Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear](https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/)
 - 不安全
+  - [[NotCVE-2026-0016] game-music-emu VGM Command Interpreter Unvalidated 0xE0 PCM Seek Offset Allows Out-of-Bounds Read and Denial of Service](https://buaq.net/go-445750.html)
+  - [[NotCVE-2026-0017] game-music-emu (libgme) 0.6.5 and Earlier AY Loader NULL Pointer Dereference Allows Denial of Service](https://buaq.net/go-445749.html)
+  - [[NotCVE-2026-0018] game-music-emu (libgme) through 0.6.5 Unbounded GYM Command Loop Allows Heap Out-of-Bounds Read](https://buaq.net/go-445748.html)
+  - [[NotCVE-2026-0019] game-music-emu through 0.6.5 VGM Command Interpreter Missing Operand Length Check Allows Heap Out-of-Bounds Read](https://buaq.net/go-445747.html)
   - [Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs](https://buaq.net/go-445739.html)
   - [FoxSDR Updates: Node Canvas, Single Map Display, Linux+Android Builds, Locating Air Traffic Radar Positions](https://buaq.net/go-445720.html)
   - [notRDP](https://buaq.net/go-445743.html)
@@ -385,4 +392,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型](https://www.ifanr.com/1682765?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [华为 Mate 90 系列发布：最强 Mate来了，5999 起即日开售](https://www.ifanr.com/1682801?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝苹果10月13日发布家庭中枢/豆包接入机票和火车票预订/东方甄选溜溜凳双倍退款](https://www.ifanr.com/1682780?utm_source=rss&utm_medium=rss&utm_campaign=)
