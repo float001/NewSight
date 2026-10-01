@@ -14,6 +14,7 @@
   - [祝大家国庆快乐，遵守交通规则。](https://2libra.com/post/midlife-support-club/RFe887T)
   - [逆向了个破甲软件](https://2libra.com/post/reverse-engineering/bCauQqr)
 - 404 Media
+  - [Cops Can Bypass iPhone’s Automatic Reboot to Get Into Locked Phones, Leaked Video Claims](https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/)
   - [Internet Infrastructure Services Empower Deepfake Abuse, New Study Finds](https://www.404media.co/deepfake-abuse-sites-infrastructure-providers-study/)
   - [Lawyer Cites ChatGPT-Invented Fake Witnesses in Murder Appeal](https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/)
   - [Someone ‘Torturing’ LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet](https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/)
@@ -52,6 +53,7 @@
   - [Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13](https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M)
 - darkreading
   - [Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure](https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure)
+  - [Warlock Ransomware Hits Large Spanish, Portuguese Orgs](https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese)
 - defend.network
   - [Cisco SD-WAN, Zimbra, Zammad under attack; active exploitation confirmed](https://defend.network/briefings/cisco-sd-wan-zimbra-zammad-critical-exploits-2026-10-01.html)
 - dfarq.homeip.net
@@ -66,6 +68,7 @@
   - [Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program](https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/)
   - [Commit Description as a Thinking Tool](https://yedhu.me/posts/commit-description-as-a-thinking-tool/)
   - [EDG C++ front-end goes public](https://edgcpp.org/#transition)
+  - [Google breaks promise to provide 10 years of updates to Chromebooks](https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/)
   - [GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design)
   - [Jevotron: Multiple Jev integrations from the command line](https://cmungall.github.io/jevotron/)
   - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
@@ -82,10 +85,16 @@
   - [AI Threats Top Cybersecurity Preparedness Gap, PwC Finds](https://www.infosecurity-magazine.com/news/mitigating-adversarial-ai-top/)
 - MIT Technology Review
   - [An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/)
+  - [The Download: AI “mind-reading” and creative uses for small batteries](https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/)
 - NowSecure
   - [[TEST] What Modern Security Teams Need to Know in 2026](https://www.nowsecure.com/blog/2026/09/30/test-what-modern-security-teams-need-to-know-in-2026/)
+- NVIDIA AI Blog
+  - [Fall Into 25 New Games on GeForce NOW This October](https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/)
+  - [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/)
 - Publications | Outflank
   - [MCP Beyond the Spec: Inside Codex and Claude Code](https://www.outflank.nl/blog/2026/09/30/mcp-design/)
+- Recent Commits to cve:main
+  - [Update Thu Oct  1 12:54:31 UTC 2026](https://github.com/trickest/cve/commit/3d219727e5f0d72b963f1daf7c7a0c3ab3e1ffdc)
 - rtl-sdr.com
   - [FoxSDR Updates: Node Canvas, Single Map Display, Linux+Android Builds, Locating Air Traffic Radar Positions](https://www.rtl-sdr.com/foxsdr-updates-node-canvas-single-map-display-linuxandroid-builds-locating-air-traffic-radar-positions/)
   - [NNJ-SDR++: Improved Firmware and Software for Kintex-7 AD9361 B210 Clones](https://www.rtl-sdr.com/nnj-sdr-improved-firmware-and-software-for-kintex-7-ad9361-b210-clones/)
@@ -101,6 +110,8 @@
   - [Exploit for CVE-2026-91159](https://sploitus.com/exploit?id=E2A85B23-BFD7-54EB-8368-F3A4ADB875E1&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI voice startup ElevenLabs doubles valuation to $22B](https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/)
+  - [Amazon introduces Kindle Click, a $35 remote for turning pages](https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/)
+  - [Audible’s new features let you explore book worlds — and use AI to talk to characters](https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/)
   - [BMW built the same car for gas and electric. The EV is $4,400 cheaper.](https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/)
   - [Destro AI’s secret sauce is getting robots and humans on the same page](https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/)
   - [DoorDash launches an AI agent you can text to order food](https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/)
@@ -113,18 +124,22 @@
   - [OpenAI’s Jev clone could help the frontier lab stop its swarming agents](https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/)
   - [Reddit is killing RSS feeds and ending public API access because of AI bots](https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/)
   - [Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites](https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)
+  - [The new Kindle ditches the bezel in a push toward a smaller, lighter e-reader](https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/)
   - [The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next](https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/)
   - [The ugly economics of consumer AI](https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/)
   - [Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/)
 - The Block
   - [Base launches Cobalt upgrade with conditional transactions and new B20 asset functions](https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308)
+  - [Bitcoin ETFs’ 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds](https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384)
   - [Bitcoin steadies as soft PCE cools October Fed rate hike bets](https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335)
   - [CFTC secures over $30 million judgment against defendants in Fundsz fraud case](https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365)
   - [Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says](https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362)
   - [DogeOS launches testnet to bring EVM smart contracts to Dogecoin](https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307)
   - [Lloyds, Visa settle $750,000 using USDC in live cross-border pilot](https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378)
+  - [Robinhood Wallet integrates Arcus RFQ system for stock token swaps](https://www.theblock.co/news/business/2026-10-01-robinhood-wallet-integrates-arcus-rfq-system-for-stock-token-swaps-417394)
   - [White House weighs new CFTC event contract rules in growing prediction market power struggle](https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345)
 - The Decoder
+  - [AI beats Stratego's greatest player, ending one of the last human strongholds in board games](https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/)
   - [FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns](https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/)
   - [Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats](https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/)
   - [Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead](https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/)
@@ -132,11 +147,15 @@
   - [OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer](https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/)
 - The Verge
   - [&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief](https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview)
+  - [Amazon is launching colorful new Kindles — and a case with physical page-turn buttons](https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh)
   - [Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;](https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy)
+  - [Amazon’s Carrie is a cyberbullying nightmare](https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video)
   - [Asus won’t say how it escaped the US router ban](https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing)
   - [Elon Musk’s Grokipedia has a ‘newly refreshed’ design](https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai)
+  - [Gears of War: E-Day is a great game launching at a terrible time](https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox)
   - [Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now](https://www.theverge.com/tech/1002980/google-gemini-4-argon)
   - [Here&#8217;s what AI leaders are saying about Trump’s new safety plan](https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments)
+  - [HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED](https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs)
   - [Huawei made a whole camera to attach to its latest phone](https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera)
   - [Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie](https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie)
   - [Reddit says it has to cut back access to &#8216;Old Reddit&#8217; because of AI bots](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping)
@@ -463,6 +482,8 @@
 - Wallarm
   - [AI Governance on AWS: The Runtime Control Loop: AI Governance on AWS: Four Functions, One Loop, and a Deadline That Already Passed](https://lab.wallarm.com/runtime-ai-governance-aws-control-loop/)
 - Wired
+  - [2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing](https://www.wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing/)
+  - [Amazon Kindle, Paperwhite, and Colorsoft 2026: Specs, Price, Release Date](https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh/)
   - [Apple Mac Studio (M5 Ultra) Review: Unlimited Power](https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/)
   - [Best Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More](https://www.wired.com/story/gifts-for-parents-2026/)
   - [Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+](https://www.wired.com/gallery/best-wifi-routers/)
@@ -473,11 +494,13 @@
   - [Measles Is Forcing Hospitals to Adapt to a New Normal](https://www.wired.com/story/measles-is-forcing-hospitals-to-adapt-to-a-new-normal/)
   - [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/)
   - [The Battle to Be Your Personal AI Agent Is Here](https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/)
+  - [The Best Early Amazon Echo Deals (and the Worst) Ahead of Prime Big Deal Days](https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day/)
   - [The Real Threat to the Midterms Is Regular Americans Thinking Violence Is the Answer](https://www.wired.com/story/the-real-threat-to-the-midterms-is-regular-americans-thinking-violence-is-the-answer/)
   - [The Secrets of the US Spyware King](https://www.wired.com/story/the-secrets-of-the-us-spyware-king/)
   - [The White House Is Starting to Panic Over the Midterms](https://www.wired.com/story/the-white-house-is-starting-to-panic-over-the-midterms/)
   - [There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI](https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/)
   - [Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear](https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/)
+  - [What’s the Best Kindle of 2026 (So Far)?](https://www.wired.com/gallery/best-kindle/)
 - 不安全
   - [[NotCVE-2026-0016] game-music-emu VGM Command Interpreter Unvalidated 0xE0 PCM Seek Offset Allows Out-of-Bounds Read and Denial of Service](https://buaq.net/go-445750.html)
   - [[NotCVE-2026-0017] game-music-emu (libgme) 0.6.5 and Earlier AY Loader NULL Pointer Dereference Allows Denial of Service](https://buaq.net/go-445749.html)
