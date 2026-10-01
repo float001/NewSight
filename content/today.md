@@ -1,7 +1,10 @@
 # 今日安全资讯（2026-10-01）
 
 - 2Libra
+  - [Cloudflare CLI cf 工具 OAuth 授权 更方便使唤 Agent 操作 Cloudflare 了](https://2libra.com/post/tool-sharing/UUJBaNO)
+  - [【💰】救命，高速上的牛鬼蛇神真是太多了](https://2libra.com/post/automobile/59z0WMe)
   - [哇，今天签到是十倍金币吗](https://2libra.com/post/small-things/fXB5HiM)
+  - [新建自用车印区 Apple one/music](https://2libra.com/post/sharing/l0DI_xF)
   - [祝大家国庆快乐，遵守交通规则。](https://2libra.com/post/midlife-support-club/RFe887T)
 - 404 Media
   - [Internet Infrastructure Services Empower Deepfake Abuse, New Study Finds](https://www.404media.co/deepfake-abuse-sites-infrastructure-providers-study/)
@@ -21,7 +24,10 @@
   - [Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel](https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto advocacy group announces picks for US Congress as midterms loom](https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [MetaMask exits Ethereum validators as it investigates security incident](https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2](https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [MetaMask exits Ethereum validators as it investigates security incident](https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
   - [Anthropic’s IPO Prospectus Is a Fucking Doozy](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/)
@@ -37,6 +43,8 @@
   - [EDG C++ front-end goes public](https://edgcpp.org/#transition)
   - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
   - [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
+- Horizon3.ai
+  - [CVE-2026-76504 | Cisco Catalyst SD-WAN Manager API Authentication Bypass Vulnerability | Reversed by Horizon3](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-76504/)
 - IEEE Spectrum
   - [IEEE Celebrates Innovators Shaping the Future](https://spectrum.ieee.org/ieee-technical-field-awards-2027)
 - NowSecure
@@ -44,6 +52,7 @@
 - Publications | Outflank
   - [MCP Beyond the Spec: Inside Codex and Claude Code](https://www.outflank.nl/blog/2026/09/30/mcp-design/)
 - rtl-sdr.com
+  - [NNJ-SDR++: Improved Firmware and Software for Kintex-7 AD9361 B210 Clones](https://www.rtl-sdr.com/nnj-sdr-improved-firmware-and-software-for-kintex-7-ad9361-b210-clones/)
   - [RF-Traffic-Monitor: Track Aircraft, Ships, Drones and Radiosondes in One Program](https://www.rtl-sdr.com/rf-traffic-monitor-track-aircraft-ships-drones-and-radiosondes-in-one-program/)
 - simonwillison.net
   - [He Built This City](https://simonwillison.net/2026/Sep/30/he-built-this-city/)
@@ -82,6 +91,7 @@
   - [&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief](https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview)
   - [Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;](https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy)
   - [Asus won’t say how it escaped the US router ban](https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing)
+  - [Elon Musk’s Grokipedia has a ‘newly refreshed’ design](https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai)
   - [Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now](https://www.theverge.com/tech/1002980/google-gemini-4-argon)
   - [Here&#8217;s what AI leaders are saying about Trump’s new safety plan](https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments)
   - [Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie](https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie)
@@ -275,3 +285,6 @@
   - [Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear](https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型](https://www.ifanr.com/1682765?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [早报｜曝苹果10月13日发布家庭中枢/豆包接入机票和火车票预订/东方甄选溜溜凳双倍退款](https://www.ifanr.com/1682780?utm_source=rss&utm_medium=rss&utm_campaign=)
