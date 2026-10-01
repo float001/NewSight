@@ -1,13 +1,18 @@
 # 今日安全资讯（2026-10-02）
 
 - 2Libra
+  - [单词消消乐](https://2libra.com/post/game-share/xZiZGfF)
   - [我们真的身不由己，真的不能拒绝嘛](https://2libra.com/post/workplace-stories/WKd8uhF)
+  - [预警，谷歌近期将大幅提升风控，后期在大陆地区若使用 Gemini 4，手机端或将导致封号，多多注意](https://2libra.com/post/ai-trends/omiTFOJ)
 - Ars Technica
   - [With most information hidden, the game Stratego](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
 - CoinTelegraph
+  - [50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review](https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New York, Wyoming regulators sign pact to coordinate crypto oversight](https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [NEAR Intents Hit by $3.8M Exploit via Omni Bridge Bug](https://www.cyberkendra.com/2026/10/near-intents-hit-by-3-8m-exploit-via-omni-bridge-bug.html)
+- Didier Stevens
+  - [Overview of Content Published in September](https://blog.didierstevens.com/2026/10/01/overview-of-content-published-in-september-10/)
 - gilesthomas.com
   - [Why do OpenAI's GPT-2 weights beat mine?  Part five: data quality](https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality)
 - Hacker News Frontpage
@@ -24,9 +29,11 @@
 - TechCrunch
   - [Amazon releases its own Jev clone as decision models flood the web](https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/)
   - [California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people](https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/)
+  - [OpenAI cuts ties with 3 safety researchers, WSJ reports](https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/)
   - [Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)](https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/)
   - [Shopify debuts Canvas, a way to build online stores by chatting with AI](https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/)
   - [This startup wants to turn idle user car inventory into rental revenue](https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/)
+  - [World’s first enhanced geothermal power plant completed in just 23 months](https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/)
 - The Block
   - [Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419)
 - The Decoder
@@ -37,6 +44,7 @@
   - [Judge dismisses antitrust lawsuits over Google’s AI Overviews](https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed)
   - [Microsoft’s Office and Teams chief is leaving](https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving)
   - [Sony brings AI graphics upscaling to the regular PS5](https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr)
+  - [Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?](https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
