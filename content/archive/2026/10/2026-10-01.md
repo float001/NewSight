@@ -2,8 +2,10 @@
 
 - 2Libra
   - [Cloudflare CLI cf 工具 OAuth 授权 更方便使唤 Agent 操作 Cloudflare 了](https://2libra.com/post/tool-sharing/UUJBaNO)
+  - [【💰】买了个相机，大家有没有什么推荐的配件](https://2libra.com/post/photography/tF64FJd)
   - [【💰】救命，高速上的牛鬼蛇神真是太多了](https://2libra.com/post/automobile/59z0WMe)
   - [哇，今天签到是十倍金币吗](https://2libra.com/post/small-things/fXB5HiM)
+  - [大喜大悲就在一瞬之间！](https://2libra.com/post/personal-life/N3d48Uj)
   - [新建自用车印区 Apple one/music](https://2libra.com/post/sharing/l0DI_xF)
   - [祝大家国庆快乐，遵守交通规则。](https://2libra.com/post/midlife-support-club/RFe887T)
 - 404 Media
@@ -29,6 +31,8 @@
   - [Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2](https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [MetaMask exits Ethereum validators as it investigates security incident](https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [MetaMask Security Incident: Staking Validators Exited](https://www.cyberkendra.com/2026/10/metamask-security-incident-staking-validators-exited.html)
 - daringfireball.net
   - [[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
   - [Anthropic’s IPO Prospectus Is a Fucking Doozy](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/)
@@ -41,9 +45,13 @@
   - [10-year Treasury yield climbs above 5.3% to a level not seen in 24 years](https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f)
   - [5x faster Edge Functions: V8 isolates to Firecracker MicroVMs](https://www.netlify.com/blog/edge-functions-firecracker-microvms/)
   - [Automating Wi-Fi setup testing on the ESP32](https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/)
+  - [California bans child marriage, a practice still legal in 32 US states](https://www.bbc.com/news/articles/c6rm9mnn0w3eo)
+  - [Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program](https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/)
   - [Commit Description as a Thinking Tool](https://yedhu.me/posts/commit-description-as-a-thinking-tool/)
   - [EDG C++ front-end goes public](https://edgcpp.org/#transition)
+  - [Jevotron: Multiple Jev integrations from the command line](https://cmungall.github.io/jevotron/)
   - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
+  - [Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra)
   - [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
 - Horizon3.ai
   - [CVE-2026-76504 | Cisco Catalyst SD-WAN Manager API Authentication Bypass Vulnerability | Reversed by Horizon3](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-76504/)
@@ -57,6 +65,7 @@
   - [FoxSDR Updates: Node Canvas, Single Map Display, Linux+Android Builds, Locating Air Traffic Radar Positions](https://www.rtl-sdr.com/foxsdr-updates-node-canvas-single-map-display-linuxandroid-builds-locating-air-traffic-radar-positions/)
   - [NNJ-SDR++: Improved Firmware and Software for Kintex-7 AD9361 B210 Clones](https://www.rtl-sdr.com/nnj-sdr-improved-firmware-and-software-for-kintex-7-ad9361-b210-clones/)
   - [RF-Traffic-Monitor: Track Aircraft, Ships, Drones and Radiosondes in One Program](https://www.rtl-sdr.com/rf-traffic-monitor-track-aircraft-ships-drones-and-radiosondes-in-one-program/)
+  - [Using an Affordable Optical Encoder as an SDR Tuning Wheel](https://www.rtl-sdr.com/using-an-affordable-optical-encoder-as-an-sdr-tuning-wheel/)
 - simonwillison.net
   - [He Built This City](https://simonwillison.net/2026/Sep/30/he-built-this-city/)
 - Sploitus.com Exploits RSS Feed
