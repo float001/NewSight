@@ -15,6 +15,7 @@
   - [祝大家国庆快乐，遵守交通规则。](https://2libra.com/post/midlife-support-club/RFe887T)
   - [逆向了个破甲软件](https://2libra.com/post/reverse-engineering/bCauQqr)
 - 404 Media
+  - ['Everything but censorship'](https://www.404media.co/everything-but-censorship-cornell-seven-case/)
   - [Cops Can Bypass iPhone’s Automatic Reboot to Get Into Locked Phones, Leaked Video Claims](https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/)
   - [How Schools and Universities Try to Censor Student Journalists](https://www.404media.co/how-schools-and-universities-try-to-censor-student-journalists/)
   - [Internet Infrastructure Services Empower Deepfake Abuse, New Study Finds](https://www.404media.co/deepfake-abuse-sites-infrastructure-providers-study/)
@@ -28,6 +29,8 @@
   - [OpenAI DevDay 2026](https://www.bensbites.com/p/openai-devday-2026)
 - blog.jim-nielsen.com
   - [Dear Software Makers](https://blog.jim-nielsen.com/2026/dear-software-makers/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#553437: InsydeH2O IHISI SMM is vulnerable to unsafe memory write operations](https://kb.cert.org/vuls/id/553437)
 - Chainalysis Blog
   - [OFAC Sanctions Tren de Aragua Fugitive Who Laundered ATM Heists With Crypto](https://www.chainalysis.com/blog/ofac-sanctions-tren-de-aragua-crypto-laundering-september-2026/)
 - CoinTelegraph
@@ -94,6 +97,7 @@
   - [AI Threats Top Cybersecurity Preparedness Gap, PwC Finds](https://www.infosecurity-magazine.com/news/mitigating-adversarial-ai-top/)
   - [China-Linked Hackers Impersonate AI Experts to Target US Policy Insiders](https://www.infosecurity-magazine.com/news/ta419-impersonates-ai-experts-us/)
   - [CloudSyncD MacOS Backdoor Hides Behind Fake Zoom Installer](https://www.infosecurity-magazine.com/news/cloudsyncd-macos-backdoor-fake/)
+  - [Critical Cisco Catalyst SD-WAN Zero-Day Under Active Exploitation](https://www.infosecurity-magazine.com/news/critical-cisco-catalyst-sdwan/)
 - MIT Technology Review
   - [An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/)
   - [The Download: AI “mind-reading” and creative uses for small batteries](https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/)
@@ -148,10 +152,12 @@
   - [Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says](https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362)
   - [DogeOS launches testnet to bring EVM smart contracts to Dogecoin](https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307)
   - [Lloyds, Visa settle $750,000 using USDC in live cross-border pilot](https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378)
+  - [NEAR Intents halts services after $3.8 million exploit, promises full compensation](https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404)
   - [Robinhood Wallet integrates Arcus RFQ system for stock token swaps](https://www.theblock.co/news/business/2026-10-01-robinhood-wallet-integrates-arcus-rfq-system-for-stock-token-swaps-417394)
   - [White House weighs new CFTC event contract rules in growing prediction market power struggle](https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345)
 - The Decoder
   - [AI beats Stratego's greatest player, ending one of the last human strongholds in board games](https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/)
+  - [Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on](https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/)
   - [FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns](https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/)
   - [Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats](https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/)
   - [Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead](https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/)
@@ -171,6 +177,8 @@
   - [HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED](https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs)
   - [Huawei made a whole camera to attach to its latest phone](https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera)
   - [Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie](https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie)
+  - [NYC is now the first city in America that bans sketchy subscriptions](https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule)
+  - [OpenAI’s new agent is a shot at Meta — but can it compete with free?](https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle)
   - [Reddit says it has to cut back access to &#8216;Old Reddit&#8217; because of AI bots](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping)
   - [Samsung raised prices on the Galaxy S26 by $100](https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us)
   - [The AI Tamagotchis are coming](https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices)
@@ -571,6 +579,7 @@
   - [Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs](https://buaq.net/go-445739.html)
   - [FoxSDR Updates: Node Canvas, Single Map Display, Linux+Android Builds, Locating Air Traffic Radar Positions](https://buaq.net/go-445720.html)
   - [notRDP](https://buaq.net/go-445743.html)
+  - [Trace-assisted VMProtect devirtualization research](https://buaq.net/go-445803.html)
   - [Various Projects Independently Find Hidden SDR Capabilities in ESP32 Microcontrollers](https://buaq.net/go-445741.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
