@@ -10,11 +10,14 @@
   - [With most information hidden, the game Stratego](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
 - CoinTelegraph
   - [50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review](https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury](https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New York, Wyoming regulators sign pact to coordinate crypto oversight](https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims](https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [NEAR Intents Hit by $3.8M Exploit via Omni Bridge Bug](https://www.cyberkendra.com/2026/10/near-intents-hit-by-3-8m-exploit-via-omni-bridge-bug.html)
+- darkreading
+  - [Alleged KillSec Ransomware Mastermind a 16-Year-Old](https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old)
 - Didier Stevens
   - [Overview of Content Published in September](https://blog.didierstevens.com/2026/10/01/overview-of-content-published-in-september-10/)
 - gilesthomas.com
@@ -24,7 +27,14 @@
   - [Canada fast-tracks Pacific oil pipeline to reduce US dependence](https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb)
   - [Car Is a Smartphone on Wheels. Here's Who's Listening](https://automatictransmission.khoury.northeastern.edu/index.html)
   - [Clef: our open-source decision models](https://blog.cloudflare.com/clef-decision-models/)
+  - [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com)
+  - [OpenRadioss is not open anymore](https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/)
   - [Pi 1.0](https://earendil.com/posts/pi-1-0/)
+  - [The death of web development education](https://molily.de/web-dev-education/)
+- HackerNoon
+  - [API Layer Access: Master Timeline of AI & Tech Companies Cutting Each Other Off](https://hackernoon.com/api-layer-access-master-timeline-of-ai-and-tech-companies-cutting-each-other-off?source=rss)
+  - [Last Shipaton, I Couldn’t Ship a Paywall. This Year, Six People Paid Me $13](https://hackernoon.com/last-shipaton-i-couldnt-ship-a-paywall-this-year-six-people-paid-me-$13?source=rss)
+  - [The Lifecycle of Email Objects](https://hackernoon.com/the-lifecycle-of-email-objects?source=rss)
 - Horizon3.ai
   - [What Security Metrics Actually Matter?](https://horizon3.ai/intelligence/blogs/ctem-security-metrics-that-matter/)
 - Linux Foundation Blogs
@@ -38,6 +48,9 @@
   - [California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people](https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/)
   - [ChatGPT can now virtually try on clothes for you](https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/)
   - [Google thinks SpaceX’s Starship has to launch 1,600 times before space data centers get off the ground](https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/)
+  - [Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation](https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/)
+  - [Lyft is paying $272.5M to settle lawsuit over how it classified drivers](https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/)
+  - [Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/)
   - [OpenAI cuts ties with 3 safety researchers, WSJ reports](https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/)
   - [Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)](https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/)
   - [Shopify debuts Canvas, a way to build online stores by chatting with AI](https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/)
