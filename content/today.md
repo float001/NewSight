@@ -13,6 +13,8 @@
   - [Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response](https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response)
   - [SWIFT Banking &amp; Government Middleware Enables RCE](https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce)
 - Hacker News Frontpage
+  - ["The only intuitive interface is the nipple" (2012)](https://www.greenend.org.uk/rjk/misc/nipple.html)
+  - [Apple Pass Designer](https://developer.apple.com/pass-designer/)
   - [Leaderboards and speedrun.com's new terms of service](https://therun.gg/blog/leaderboards-speedruncom)
 - HackerNoon
   - [Building a Multimodal Game-Box Scanner With VisionKit, IGDB, and GPT-5.6 Luna](https://hackernoon.com/building-a-multimodal-game-box-scanner-with-visionkit-igdb-and-gpt-56-luna?source=rss)
@@ -20,7 +22,10 @@
   - [Horizon3 + CrowdStrike: Prove. Prioritize. Verify.](https://horizon3.ai/downloads/factsheets/horizon3-crowdstrike-integration/)
 - OpenAI Blog
   - [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)
+- Sploitus.com Exploits RSS Feed
+  - [VORNEX-MTOOL exploit](https://sploitus.com/exploit?id=E60D5646-D397-50DC-8903-CD911258418A&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/)
   - [Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/)
   - [Circuit Breaker Labs hopes to make AI safer for your kids (and you)](https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/)
   - [It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/)
@@ -29,6 +34,7 @@
   - [Drift opens exploit recovery claims with initial payouts of just over 1% of user losses](https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581)
   - [Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue](https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583)
 - The Decoder
+  - [Anthropic co-founder reportedly told religious leaders he fears having created something that "suffers perpetually"](https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/)
   - [Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents](https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/)
 - The Verge
   - [Beehiiv creators are buzzing about a new price increase](https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions)
@@ -36,9 +42,11 @@
   - [Nacon’s new PS5 controller can mix audio from your phone and console](https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller)
   - [OpenAI’s Dot agent is enterprise software that can also order your dinner](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent)
   - [Rivian’s sales pop as the company’s big R2 bet starts to pay off](https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2)
+  - [Sling TV drops its one-day cable passes](https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops)
 - wheresyoured.at
   - [Premium: How Has AI Changed The Economy?](https://www.wheresyoured.at/premium-how-has-ai-changed-the-economy/)
 - Wired
+  - [ICE Has Been Dumping Protester Photos Into a Palantir Database](https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/)
   - [The NHL Is Releasing Its Own ‘Hot’ Fanfic. Romance Lovers Hate It](https://www.wired.com/story/the-nhl-is-releasing-its-own-hot-fanfic-romance-lovers-hate-it/)
   - [These AI Experts Want to Do High-Stakes Research Out in the Open](https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/)
   - [This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off](https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/)
