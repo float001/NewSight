@@ -4,6 +4,7 @@
   - [AI 对于大部分普通人来说，有什么作用？](https://2libra.com/post/ai-applications/-Dwb8Xx)
   - [单词消消乐](https://2libra.com/post/game-share/xZiZGfF)
   - [我们真的身不由己，真的不能拒绝嘛](https://2libra.com/post/workplace-stories/WKd8uhF)
+  - [网页装修小插件](https://2libra.com/post/browser-extensions/qGiy1Zq)
   - [跟个风，我也做了个 Codex 重置预测](https://2libra.com/post/personal-works/RHTf-Oi)
   - [预警，谷歌近期将大幅提升风控，后期在大陆地区若使用 Gemini 4，手机端或将导致封号，多多注意](https://2libra.com/post/ai-trends/omiTFOJ)
 - Ars Technica
@@ -21,6 +22,8 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New York, Wyoming regulators sign pact to coordinate crypto oversight](https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC moves to clear custody hurdle for advisers offering crypto](https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [South Korea advances tokenized securities rules ahead of 2027 rollout](https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [South Korea crypto exchange profits fall 78% in H1 amid trading slump](https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims](https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback](https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -42,6 +45,7 @@
   - [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com)
   - [OpenRadioss is not open anymore](https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/)
   - [Pi 1.0](https://earendil.com/posts/pi-1-0/)
+  - [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
   - [The death of web development education](https://molily.de/web-dev-education/)
 - HackerNoon
   - [API Layer Access: Master Timeline of AI & Tech Companies Cutting Each Other Off](https://hackernoon.com/api-layer-access-master-timeline-of-ai-and-tech-companies-cutting-each-other-off?source=rss)
@@ -78,6 +82,7 @@
   - [Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review](https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452)
   - [SEC proposes framework allowing investment advisers, funds to self-custody crypto](https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498)
   - [SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says](https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538)
+  - [Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds](https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547)
 - The Decoder
   - [Ideogram says its new model can edit part of an image without messing up the rest](https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/)
 - The Verge
