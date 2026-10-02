@@ -39,6 +39,7 @@
   - [South Korea crypto exchange profits fall 78% in H1 amid trading slump](https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims](https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback](https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens](https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Aave founder says V3 unaffected after third-party adapter exploit drains $305K](https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -52,6 +53,8 @@
   - [Vulnerability Backlogs Are an Ownership Problem](https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem)
 - defend.network
   - [Fortinet FortiMail zero-day exploited; KillSec ransomware leadership dismantled](https://defend.network/briefings/fortinet-fortimail-killsec-ransomware-critical-2026-10-02.html)
+- Der Flounder
+  - [Copying macOS login keychains to different Macs on macOS Tahoe 26.4 and later](https://derflounder.wordpress.com/2026/10/02/copying-macos-login-keychains-to-different-macs-on-macos-tahoe-26-4-and-later/)
 - dfarq.homeip.net
   - [What happened to Activision](https://dfarq.homeip.net/what-happened-to-activision/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-activision)
 - Didier Stevens
@@ -62,6 +65,7 @@
   - [AI Governance: Between the Prompt and the Policy](https://www.guidepointsecurity.com/blog/ai-governance-prompt-to-policy/)
 - Hacker News Frontpage
   - [2026 International Utility Locate Rodeo](https://locaterodeo.net/)
+  - [Amazon seeks to offload $8B of Nvidia chips to investors](https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/)
   - [ArXiv's Updated Rate Limit Policy](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/)
   - [Canada fast-tracks Pacific oil pipeline to reduce US dependence](https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb)
   - [Car Is a Smartphone on Wheels. Here's Who's Listening](https://automatictransmission.khoury.northeastern.edu/index.html)
@@ -83,6 +87,7 @@
 - IEEE Spectrum
   - [Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control](https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE)
 - infosecurity-magazine.com
+  - [Microsoft: AI Cuts Post-Compromise Attack Time to Minutes](https://www.infosecurity-magazine.com/news/microsoft-ai-attack-time-minutes/)
   - [Police Target KillSec Ransomware Group with Arrests and Seizures](https://www.infosecurity-magazine.com/news/police-target-killsec-ransomware/)
   - [Two Zero-Days Exploited in Attack on Dutch Institute for Vulnerability Disclosure](https://www.infosecurity-magazine.com/news/zerodays-dutch-institute/)
 - Linux Foundation Blogs
@@ -118,6 +123,9 @@
   - [Rivian’s R2 just helped it set a new sales record](https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/)
   - [Robotaxi operators will face fines for blocking first responders](https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/)
   - [Shopify debuts Canvas, a way to build online stores by chatting with AI](https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/)
+  - [Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order](https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/)
+  - [TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/)
+  - [TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/)
   - [Tesla sustains its EV sales momentum despite US troubles](https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/)
   - [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
   - [This startup wants to turn idle user car inventory into rental revenue](https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/)
@@ -152,11 +160,13 @@
   - [If a data center is camouflaged in the woods, will anyone hate it?](https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry)
   - [Inside Microsoft’s big Copilot rethink](https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad)
   - [Judge dismisses antitrust lawsuits over Google’s AI Overviews](https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed)
+  - [Keurig’s new machine uses plastic-free compressed coffee pucks](https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder)
   - [Microsoft’s Office and Teams chief is leaving](https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving)
   - [Paramount’s Warner Bros. megamerger will just be called Skydance](https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name)
   - [Sony brings AI graphics upscaling to the regular PS5](https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr)
   - [Star Wars: Galactic Racer is my childhood podracing dream come true](https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review)
   - [Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?](https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for)
+  - [Tesla will now let you drive off mid-charge if there’s an emergency](https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting)
   - [The Pocket Advance nearly perfects my favorite Nintendo handheld](https://www.theverge.com/tech/993521/ayaneo-konkr-pocket-advance-nintendo-game-boy-advance-handheld)
 - Whwlsfb's Tech Blog
   - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/cox-htm.html)
@@ -167,15 +177,19 @@
   - [Best Smart Cat Trackers of 2026: Fi Mini vs. Tractive](https://www.wired.com/story/best-smart-cat-tracker/)
   - [Health Care Workers Are Tired of Cleaning Up Palantir’s Mess](https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/)
   - [The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)](https://www.wired.com/story/amazon-prime-day-early-deals-10-01-2026/)
+  - [Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked](https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/)
   - [Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot](https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/)
   - [Whatever AI Safety Is, It’s Not This](https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/)
   - [Your Driverless Cab Is Spying on You](https://www.wired.com/story/when-the-robotaxis-are-watching-you/)
 - 不安全
   - [AI Governance: Between the Prompt and the Policy](https://buaq.net/go-445946.html)
+  - [Copying macOS login keychains to different Macs on macOS Tahoe 26.4 and later](https://buaq.net/go-445960.html)
   - [cortex](https://buaq.net/go-445912.html)
   - [hacked by trenggalek6etar](https://buaq.net/go-445906.html)
+  - [IDA Pro 9.5 Beta (with Dalvik, TriCore, Hexagon decompilers)](https://buaq.net/go-445958.html)
   - [ps-ppl-bypass](https://buaq.net/go-445904.html)
   - [refusal-relocates](https://buaq.net/go-445948.html)
+  - [semgrep v1.179.0](https://buaq.net/go-445962.html)
   - [Silent Hill (PS1, US v1.1) decompilation fork: 100% of code matched, nearly all data moved into C](https://buaq.net/go-445909.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
