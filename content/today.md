@@ -21,7 +21,9 @@
   - [Aave founder says V3 unaffected after third-party adapter exploit drains $305K](https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs kick off ‘Uptober’ with $103M inflow](https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin reaches for $87K as short liquidations top $120M](https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin treasuries may struggle to match Strategy, says Ammous](https://cointelegraph.com/interview/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China warns foreign spies about crypto, Singapore dominates Asia: Asia Express](https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain](https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Core Lightning warns attackers are targeting unpatched Bitcoin nodes](https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum’s zkAPI brings privacy-preserving API payments to mainnet](https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury](https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -44,6 +46,8 @@
   - [Alleged KillSec Ransomware Mastermind a 16-Year-Old](https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old)
 - defend.network
   - [Fortinet FortiMail zero-day exploited; KillSec ransomware leadership dismantled](https://defend.network/briefings/fortinet-fortimail-killsec-ransomware-critical-2026-10-02.html)
+- dfarq.homeip.net
+  - [What happened to Activision](https://dfarq.homeip.net/what-happened-to-activision/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-activision)
 - Didier Stevens
   - [Overview of Content Published in September](https://blog.didierstevens.com/2026/10/01/overview-of-content-published-in-september-10/)
 - gilesthomas.com
@@ -72,6 +76,8 @@
   - [Two Zero-Days Exploited in Attack on Dutch Institute for Vulnerability Disclosure](https://www.infosecurity-magazine.com/news/zerodays-dutch-institute/)
 - Linux Foundation Blogs
   - [Unlocking the Door to Open Source: Reflections from Nerdearla and Getting Started in Open Source Development](https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development)
+- matduggan.com
+  - [Make tmux the OS](https://matduggan.com/what-does-my-dream-os-ui-look-like/)
 - NVIDIA AI Blog
   - [How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast](https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/)
 - pluralistic.net
@@ -94,6 +100,7 @@
   - [This startup wants to turn idle user car inventory into rental revenue](https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/)
   - [World’s first enhanced geothermal power plant completed in just 23 months](https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/)
 - The Block
+  - [ECB outlines three models for putting central bank money onchain](https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552)
   - [Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity](https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504)
   - [Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419)
   - [Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review](https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452)
@@ -125,6 +132,7 @@
   - [The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)](https://www.wired.com/story/amazon-prime-day-early-deals-10-01-2026/)
   - [Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot](https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/)
   - [Whatever AI Safety Is, It’s Not This](https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/)
+  - [Your Driverless Cab Is Spying on You](https://www.wired.com/story/when-the-robotaxis-are-watching-you/)
 - 不安全
   - [cortex](https://buaq.net/go-445912.html)
   - [hacked by trenggalek6etar](https://buaq.net/go-445906.html)
