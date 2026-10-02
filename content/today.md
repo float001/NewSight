@@ -84,11 +84,14 @@
   - [Microsoft’s Office and Teams chief is leaving](https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving)
   - [Sony brings AI graphics upscaling to the regular PS5](https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr)
   - [Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?](https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for)
+- Whwlsfb's Tech Blog
+  - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/cox-htm.html)
 - Wired
   - [The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)](https://www.wired.com/story/amazon-prime-day-early-deals-10-01-2026/)
   - [Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot](https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/)
   - [Whatever AI Safety Is, It’s Not This](https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/)
 - 不安全
+  - [hacked by trenggalek6etar](https://buaq.net/go-445906.html)
   - [ps-ppl-bypass](https://buaq.net/go-445904.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
