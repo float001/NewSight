@@ -5,28 +5,36 @@
   - [单词消消乐](https://2libra.com/post/game-share/xZiZGfF)
   - [我们真的身不由己，真的不能拒绝嘛](https://2libra.com/post/workplace-stories/WKd8uhF)
   - [网页装修小插件](https://2libra.com/post/browser-extensions/qGiy1Zq)
+  - [薅羊毛 OPUS55 免费蹬](https://2libra.com/post/ai-gateway/Ke06740)
   - [跟个风，我也做了个 Codex 重置预测](https://2libra.com/post/personal-works/RHTf-Oi)
   - [预警，谷歌近期将大幅提升风控，后期在大陆地区若使用 Gemini 4，手机端或将导致封号，多多注意](https://2libra.com/post/ai-trends/omiTFOJ)
 - Ars Technica
   - [Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data](https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/)
   - [Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search](https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/)
   - [With most information hidden, the game Stratego](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
+- berthub.eu
+  - [Digitale autonomie in het kort bij KIVI, STT en NAE](https://berthub.eu/articles/posts/praatje-kivi-stt-nae/)
 - Chainalysis Blog
   - [How AI Helped Chainalysis Investigators Trace the $387 Million North Korea Stole from Bitget](https://www.chainalysis.com/blog/387m-bitget-theft-2026/)
 - CoinTelegraph
   - [50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review](https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Aave founder says V3 unaffected after third-party adapter exploit drains $305K](https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs kick off ‘Uptober’ with $103M inflow](https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin reaches for $87K as short liquidations top $120M](https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China warns foreign spies about crypto, Singapore dominates Asia: Asia Express](https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Core Lightning warns attackers are targeting unpatched Bitcoin nodes](https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum’s zkAPI brings privacy-preserving API payments to mainnet](https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury](https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New York, Wyoming regulators sign pact to coordinate crypto oversight](https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Porsche’s ‘long haul’ Web3 project ends in less than four years](https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC moves to clear custody hurdle for advisers offering crypto](https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea advances tokenized securities rules ahead of 2027 rollout](https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea crypto exchange profits fall 78% in H1 amid trading slump](https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims](https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback](https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Aave founder says V3 unaffected after third-party adapter exploit drains $305K](https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [CS2 API Scams Explained: What Players Need to Know](https://www.cyberkendra.com/2026/10/cs2-api-scams-explained-what-players-need-to-know.html)
   - [NEAR Intents Hit by $3.8M Exploit via Omni Bridge Bug](https://www.cyberkendra.com/2026/10/near-intents-hit-by-3-8m-exploit-via-omni-bridge-bug.html)
@@ -57,7 +65,10 @@
   - [The Lifecycle of Email Objects](https://hackernoon.com/the-lifecycle-of-email-objects?source=rss)
 - Horizon3.ai
   - [What Security Metrics Actually Matter?](https://horizon3.ai/intelligence/blogs/ctem-security-metrics-that-matter/)
+- IEEE Spectrum
+  - [Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control](https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE)
 - infosecurity-magazine.com
+  - [Police Target KillSec Ransomware Group with Arrests and Seizures](https://www.infosecurity-magazine.com/news/police-target-killsec-ransomware/)
   - [Two Zero-Days Exploited in Attack on Dutch Institute for Vulnerability Disclosure](https://www.infosecurity-magazine.com/news/zerodays-dutch-institute/)
 - Linux Foundation Blogs
   - [Unlocking the Door to Open Source: Reflections from Nerdearla and Getting Started in Open Source Development](https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development)
@@ -91,8 +102,11 @@
   - [Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds](https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547)
 - The Decoder
   - [Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone](https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/)
+  - [Businesses are using more AI and paying less for it, Ramp AI Index shows](https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/)
   - [Ideogram says its new model can edit part of an image without messing up the rest](https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/)
+  - [Microsoft AI releases new transcription and text-to-speech models for voice agents](https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/)
 - The Verge
+  - [AI music maker Suno now generates spoken words](https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability)
   - [Android Central &#8216;will continue&#8217; despite laying off its staff](https://www.theverge.com/tech/1003735/android-central-layoffs)
   - [Apple’s reportedly developing a smart home camera that doesn’t record video](https://www.theverge.com/tech/1003877/apple-security-camera-no-video)
   - [Can VR glasses save VR?](https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality)
@@ -105,6 +119,9 @@
 - Whwlsfb's Tech Blog
   - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/cox-htm.html)
 - Wired
+  - [31 Best STEM Toys for Kids (2026): Learning Made Fun](https://www.wired.com/gallery/best-stem-toys-for-kids/)
+  - [A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data](https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/)
+  - [Health Care Workers Are Tired of Cleaning Up Palantir’s Mess](https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/)
   - [The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)](https://www.wired.com/story/amazon-prime-day-early-deals-10-01-2026/)
   - [Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot](https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/)
   - [Whatever AI Safety Is, It’s Not This](https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/)
