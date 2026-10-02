@@ -86,6 +86,7 @@
   - [SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says](https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538)
   - [Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds](https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547)
 - The Decoder
+  - [Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone](https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/)
   - [Ideogram says its new model can edit part of an image without messing up the rest](https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/)
 - The Verge
   - [Android Central &#8216;will continue&#8217; despite laying off its staff](https://www.theverge.com/tech/1003735/android-central-layoffs)
@@ -114,3 +115,5 @@
   - [PS5 模拟器的开发取得突破](https://www.solidot.org/story?sid=85524)
 - 爱范儿
   - [你的下一台「泡面盖」，何必是塑料的？](https://www.ifanr.com/1682870?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [丘成桐新论文致谢了GPT和Claude](https://www.qbitai.com/2026/10/499991.html)
