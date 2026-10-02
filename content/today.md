@@ -4,6 +4,7 @@
   - [AI 对于大部分普通人来说，有什么作用？](https://2libra.com/post/ai-applications/-Dwb8Xx)
   - [单词消消乐](https://2libra.com/post/game-share/xZiZGfF)
   - [我们真的身不由己，真的不能拒绝嘛](https://2libra.com/post/workplace-stories/WKd8uhF)
+  - [我的 muse 注册方法](https://2libra.com/post/invite-code/iMRPqxC)
   - [网页装修小插件](https://2libra.com/post/browser-extensions/qGiy1Zq)
   - [薅羊毛 OPUS55 免费蹬](https://2libra.com/post/ai-gateway/Ke06740)
   - [跟个风，我也做了个 Codex 重置预测](https://2libra.com/post/personal-works/RHTf-Oi)
@@ -24,6 +25,7 @@
   - [Bitcoin treasuries may struggle to match Strategy, says Ammous](https://cointelegraph.com/interview/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B](https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China warns foreign spies about crypto, Singapore dominates Asia: Asia Express](https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Circle urges EU to revise stablecoin reserve rules in MiCA review](https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain](https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Core Lightning warns attackers are targeting unpatched Bitcoin nodes](https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum’s zkAPI brings privacy-preserving API payments to mainnet](https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -45,6 +47,7 @@
   - [Yankees Sweep Boston in Two Games, by Combined Score of 18-2](https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/)
 - darkreading
   - [Alleged KillSec Ransomware Mastermind a 16-Year-Old](https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old)
+  - [Malicious Linux Implants Mimic Asian Mail Security Products](https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security)
 - defend.network
   - [Fortinet FortiMail zero-day exploited; KillSec ransomware leadership dismantled](https://defend.network/briefings/fortinet-fortimail-killsec-ransomware-critical-2026-10-02.html)
 - dfarq.homeip.net
@@ -53,6 +56,8 @@
   - [Overview of Content Published in September](https://blog.didierstevens.com/2026/10/01/overview-of-content-published-in-september-10/)
 - gilesthomas.com
   - [Why do OpenAI's GPT-2 weights beat mine?  Part five: data quality](https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality)
+- GuidePoint Security
+  - [AI Governance: Between the Prompt and the Policy](https://www.guidepointsecurity.com/blog/ai-governance-prompt-to-policy/)
 - Hacker News Frontpage
   - [2026 International Utility Locate Rodeo](https://locaterodeo.net/)
   - [ArXiv's Updated Rate Limit Policy](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/)
@@ -60,6 +65,7 @@
   - [Car Is a Smartphone on Wheels. Here's Who's Listening](https://automatictransmission.khoury.northeastern.edu/index.html)
   - [Clef: our open-source decision models](https://blog.cloudflare.com/clef-decision-models/)
   - [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com)
+  - [Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude](https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/)
   - [OpenRadioss is not open anymore](https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/)
   - [Pi 1.0](https://earendil.com/posts/pi-1-0/)
   - [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
@@ -79,10 +85,14 @@
   - [Unlocking the Door to Open Source: Reflections from Nerdearla and Getting Started in Open Source Development](https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development)
 - matduggan.com
   - [Make tmux the OS](https://matduggan.com/what-does-my-dream-os-ui-look-like/)
+- MIT Technology Review
+  - [The Download: a biological de-aging contest and why LLMs don’t reason](https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/)
 - NVIDIA AI Blog
   - [How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast](https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/)
 - pluralistic.net
   - [Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)](https://pluralistic.net/2026/10/01/data-centers/)
+- Recent Commits to cve:main
+  - [Update Fri Oct  2 12:33:02 UTC 2026](https://github.com/trickest/cve/commit/0a11ab945b81964bf0f31210f21587ee380b7cef)
 - shkspr.mobi
   - [Gadget Review: Una Watch ★★★★☆](https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/)
 - Sploitus.com Exploits RSS Feed
@@ -97,12 +107,14 @@
   - [Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/)
   - [OpenAI cuts ties with 3 safety researchers, WSJ reports](https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/)
   - [Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)](https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/)
+  - [Rivian issues R2 recall for poorly tightened battery packs](https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/)
   - [Robotaxi operators will face fines for blocking first responders](https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/)
   - [Shopify debuts Canvas, a way to build online stores by chatting with AI](https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/)
   - [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
   - [This startup wants to turn idle user car inventory into rental revenue](https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/)
   - [World’s first enhanced geothermal power plant completed in just 23 months](https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/)
 - The Block
+  - [BitGo CEO says Clarity’s failure left capital markets exposed to risk potentially worse than Lehman](https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560)
   - [ECB outlines three models for putting central bank money onchain](https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552)
   - [Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity](https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504)
   - [Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419)
@@ -116,6 +128,7 @@
   - [Businesses are using more AI and paying less for it, Ramp AI Index shows](https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/)
   - [Ideogram says its new model can edit part of an image without messing up the rest](https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/)
   - [Microsoft AI releases new transcription and text-to-speech models for voice agents](https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/)
+  - [Three firings and a fourth departure shake up OpenAI's safety team](https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/)
 - The Verge
   - [AI hallucinations are making entitled customers even worse](https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents)
   - [AI music maker Suno now generates spoken words](https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability)
@@ -131,6 +144,7 @@
   - [Sony brings AI graphics upscaling to the regular PS5](https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr)
   - [Star Wars: Galactic Racer is my childhood podracing dream come true](https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review)
   - [Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?](https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for)
+  - [The Pocket Advance nearly perfects my favorite Nintendo handheld](https://www.theverge.com/tech/993521/ayaneo-konkr-pocket-advance-nintendo-game-boy-advance-handheld)
 - Whwlsfb's Tech Blog
   - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/cox-htm.html)
 - Wired
@@ -144,9 +158,11 @@
   - [Whatever AI Safety Is, It’s Not This](https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/)
   - [Your Driverless Cab Is Spying on You](https://www.wired.com/story/when-the-robotaxis-are-watching-you/)
 - 不安全
+  - [AI Governance: Between the Prompt and the Policy](https://buaq.net/go-445946.html)
   - [cortex](https://buaq.net/go-445912.html)
   - [hacked by trenggalek6etar](https://buaq.net/go-445906.html)
   - [ps-ppl-bypass](https://buaq.net/go-445904.html)
+  - [refusal-relocates](https://buaq.net/go-445948.html)
   - [Silent Hill (PS1, US v1.1) decompilation fork: 100% of code matched, nearly all data moved into C](https://buaq.net/go-445909.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
