@@ -4,6 +4,7 @@
   - [AI 对于大部分普通人来说，有什么作用？](https://2libra.com/post/ai-applications/-Dwb8Xx)
   - [单词消消乐](https://2libra.com/post/game-share/xZiZGfF)
   - [我们真的身不由己，真的不能拒绝嘛](https://2libra.com/post/workplace-stories/WKd8uhF)
+  - [跟个风，我也做了个 Codex 重置预测](https://2libra.com/post/personal-works/RHTf-Oi)
   - [预警，谷歌近期将大幅提升风控，后期在大陆地区若使用 Gemini 4，手机端或将导致封号，多多注意](https://2libra.com/post/ai-trends/omiTFOJ)
 - Ars Technica
   - [Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data](https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/)
@@ -14,12 +15,14 @@
 - CoinTelegraph
   - [50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review](https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China warns foreign spies about crypto, Singapore dominates Asia: Asia Express](https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Core Lightning warns attackers are targeting unpatched Bitcoin nodes](https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum’s zkAPI brings privacy-preserving API payments to mainnet](https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury](https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New York, Wyoming regulators sign pact to coordinate crypto oversight](https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC moves to clear custody hurdle for advisers offering crypto](https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims](https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback](https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [NEAR Intents Hit by $3.8M Exploit via Omni Bridge Bug](https://www.cyberkendra.com/2026/10/near-intents-hit-by-3-8m-exploit-via-omni-bridge-bug.html)
 - daringfireball.net
@@ -74,6 +77,7 @@
   - [Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419)
   - [Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review](https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452)
   - [SEC proposes framework allowing investment advisers, funds to self-custody crypto](https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498)
+  - [SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says](https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538)
 - The Decoder
   - [Ideogram says its new model can edit part of an image without messing up the rest](https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/)
 - The Verge
