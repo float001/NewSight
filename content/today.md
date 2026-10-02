@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-10-02）
 
 - 2Libra
+  - [AI 对于大部分普通人来说，有什么作用？](https://2libra.com/post/ai-applications/-Dwb8Xx)
   - [单词消消乐](https://2libra.com/post/game-share/xZiZGfF)
   - [我们真的身不由己，真的不能拒绝嘛](https://2libra.com/post/workplace-stories/WKd8uhF)
   - [预警，谷歌近期将大幅提升风控，后期在大陆地区若使用 Gemini 4，手机端或将导致封号，多多注意](https://2libra.com/post/ai-trends/omiTFOJ)
@@ -13,6 +14,7 @@
 - CoinTelegraph
   - [50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review](https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China warns foreign spies about crypto, Singapore dominates Asia: Asia Express](https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ethereum’s zkAPI brings privacy-preserving API payments to mainnet](https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury](https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New York, Wyoming regulators sign pact to coordinate crypto oversight](https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -91,8 +93,10 @@
   - [Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot](https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/)
   - [Whatever AI Safety Is, It’s Not This](https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/)
 - 不安全
+  - [cortex](https://buaq.net/go-445912.html)
   - [hacked by trenggalek6etar](https://buaq.net/go-445906.html)
   - [ps-ppl-bypass](https://buaq.net/go-445904.html)
+  - [Silent Hill (PS1, US v1.1) decompilation fork: 100% of code matched, nearly all data moved into C](https://buaq.net/go-445909.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
