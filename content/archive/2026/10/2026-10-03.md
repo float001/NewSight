@@ -2,6 +2,7 @@
 
 - 404 Media
   - [Behind the Blog: Freaking Out](https://www.404media.co/behind-the-blog-freaking-out/)
+  - [Podcast: The FBI Was Hacked. We’ve Seen the Data](https://www.404media.co/podcast-the-fbi-was-hacked-weve-seen-the-data/)
 - CoinTelegraph
   - [71% of UK finance leaders expect tokenization to reshape financial services: Lloyds](https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
@@ -13,11 +14,17 @@
   - [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)
 - TechCrunch
   - [Circuit Breaker Labs hopes to make AI safer for your kids (and you)](https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/)
+  - [It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/)
+  - [TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/)
 - The Block
+  - [Drift opens exploit recovery claims with initial payouts of just over 1% of user losses](https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581)
   - [Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue](https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583)
 - The Verge
   - [Beehiiv creators are buzzing about a new price increase](https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions)
+  - [Breaking up (with Elon Musk) is hard to do](https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis)
   - [Nacon’s new PS5 controller can mix audio from your phone and console](https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller)
+  - [OpenAI’s Dot agent is enterprise software that can also order your dinner](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent)
+  - [Rivian’s sales pop as the company’s big R2 bet starts to pay off](https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2)
 - Wired
   - [The NHL Is Releasing Its Own ‘Hot’ Fanfic. Romance Lovers Hate It](https://www.wired.com/story/the-nhl-is-releasing-its-own-hot-fanfic-romance-lovers-hate-it/)
   - [These AI Experts Want to Do High-Stakes Research Out in the Open](https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/)
