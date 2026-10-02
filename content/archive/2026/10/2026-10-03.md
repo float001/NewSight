@@ -2,20 +2,31 @@
 
 - 404 Media
   - [Behind the Blog: Freaking Out](https://www.404media.co/behind-the-blog-freaking-out/)
+  - [Federal Judge Rules a Flock Search Was ‘Indiscriminate Mass Surveillance’ and Unconstitutional](https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/)
   - [Podcast: The FBI Was Hacked. We’ve Seen the Data](https://www.404media.co/podcast-the-fbi-was-hacked-weve-seen-the-data/)
 - Ars Technica
+  - [Amazon’s $1B plan to combat data center backlash draws more backlash](https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/)
+  - [Patient-zero drill put health facilities to the test—40% of them failed](https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/)
   - [Research roundup: 6 cool science stories we almost missed](https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/)
 - CoinTelegraph
   - [$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report](https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [71% of UK finance leaders expect tokenization to reshape financial services: Lloyds](https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Blast to wind down Ethereum L2 after costs outpace revenue](https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO](https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok](https://daringfireball.net/2026/10/apple_full_disk_access)
 - darkreading
   - [Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response](https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response)
+  - [RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail](https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail)
   - [SWIFT Banking &amp; Government Middleware Enables RCE](https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce)
+- Dhole Moments
+  - [Touching Grass Isn’t Enough: The Furry Fandom’s Issues Are Structural](https://soatok.blog/2026/10/02/touching-grass-isnt-enough-the-furry-fandoms-issues-are-structural/)
 - Hacker News Frontpage
   - ["The only intuitive interface is the nipple" (2012)](https://www.greenend.org.uk/rjk/misc/nipple.html)
   - [Apple Pass Designer](https://developer.apple.com/pass-designer/)
   - [Leaderboards and speedrun.com's new terms of service](https://therun.gg/blog/leaderboards-speedruncom)
+  - [Three AI agents, two countries, and one uneven world wide web](https://royapakzad.substack.com/p/multilingual-ai-agents)
 - HackerNoon
   - [Building a Multimodal Game-Box Scanner With VisionKit, IGDB, and GPT-5.6 Luna](https://hackernoon.com/building-a-multimodal-game-box-scanner-with-visionkit-igdb-and-gpt-56-luna?source=rss)
 - Horizon3.ai
@@ -34,12 +45,15 @@
   - [Drift opens exploit recovery claims with initial payouts of just over 1% of user losses](https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581)
   - [Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue](https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583)
 - The Decoder
+  - [AI music generator Suno can now create spoken audio with matching background music](https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/)
   - [Anthropic co-founder reportedly told religious leaders he fears having created something that "suffers perpetually"](https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/)
   - [Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents](https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/)
 - The Verge
+  - [Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents)
   - [Beehiiv creators are buzzing about a new price increase](https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions)
   - [Breaking up (with Elon Musk) is hard to do](https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis)
   - [Nacon’s new PS5 controller can mix audio from your phone and console](https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller)
+  - [Netflix is pivoting away from prestige](https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig)
   - [OpenAI’s Dot agent is enterprise software that can also order your dinner](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent)
   - [Rivian’s sales pop as the company’s big R2 bet starts to pay off](https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2)
   - [Sling TV drops its one-day cable passes](https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops)
