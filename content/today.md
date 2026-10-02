@@ -22,6 +22,7 @@
   - [Bitcoin ETFs kick off ‘Uptober’ with $103M inflow](https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin reaches for $87K as short liquidations top $120M](https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin treasuries may struggle to match Strategy, says Ammous](https://cointelegraph.com/interview/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B](https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China warns foreign spies about crypto, Singapore dominates Asia: Asia Express](https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain](https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Core Lightning warns attackers are targeting unpatched Bitcoin nodes](https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -82,6 +83,8 @@
   - [How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast](https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/)
 - pluralistic.net
   - [Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)](https://pluralistic.net/2026/10/01/data-centers/)
+- shkspr.mobi
+  - [Gadget Review: Una Watch ★★★★☆](https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-62059](https://sploitus.com/exploit?id=515D799B-6D0E-5010-A92A-6E812F4B433D&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -108,26 +111,33 @@
   - [SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says](https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538)
   - [Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds](https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547)
 - The Decoder
+  - [AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision](https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/)
   - [Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone](https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/)
   - [Businesses are using more AI and paying less for it, Ramp AI Index shows](https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/)
   - [Ideogram says its new model can edit part of an image without messing up the rest](https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/)
   - [Microsoft AI releases new transcription and text-to-speech models for voice agents](https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/)
 - The Verge
+  - [AI hallucinations are making entitled customers even worse](https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents)
   - [AI music maker Suno now generates spoken words](https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability)
+  - [Amazon writes scary blog warning communities not to block data centers](https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning)
   - [Android Central &#8216;will continue&#8217; despite laying off its staff](https://www.theverge.com/tech/1003735/android-central-layoffs)
   - [Apple’s reportedly developing a smart home camera that doesn’t record video](https://www.theverge.com/tech/1003877/apple-security-camera-no-video)
   - [Can VR glasses save VR?](https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality)
   - [Google’s new Guided Vision feature can help you read the fine print](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision)
+  - [If a data center is camouflaged in the woods, will anyone hate it?](https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry)
   - [Inside Microsoft’s big Copilot rethink](https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad)
   - [Judge dismisses antitrust lawsuits over Google’s AI Overviews](https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed)
   - [Microsoft’s Office and Teams chief is leaving](https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving)
   - [Sony brings AI graphics upscaling to the regular PS5](https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr)
+  - [Star Wars: Galactic Racer is my childhood podracing dream come true](https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review)
   - [Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?](https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for)
 - Whwlsfb's Tech Blog
   - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/cox-htm.html)
 - Wired
   - [31 Best STEM Toys for Kids (2026): Learning Made Fun](https://www.wired.com/gallery/best-stem-toys-for-kids/)
   - [A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data](https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/)
+  - [Amazon Says It's No Longer Using NDAs for Data Centers](https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/)
+  - [Best Smart Cat Trackers of 2026: Fi Mini vs. Tractive](https://www.wired.com/story/best-smart-cat-tracker/)
   - [Health Care Workers Are Tired of Cleaning Up Palantir’s Mess](https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/)
   - [The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)](https://www.wired.com/story/amazon-prime-day-early-deals-10-01-2026/)
   - [Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot](https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/)
