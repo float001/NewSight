@@ -26,6 +26,8 @@
   - ["The only intuitive interface is the nipple" (2012)](https://www.greenend.org.uk/rjk/misc/nipple.html)
   - [Apple Pass Designer](https://developer.apple.com/pass-designer/)
   - [Leaderboards and speedrun.com's new terms of service](https://therun.gg/blog/leaderboards-speedruncom)
+  - [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://allenai.org/blog/astabrief)
+  - [The Harness Is the Company](https://blog.sshh.io/p/the-harness-is-the-company)
   - [Three AI agents, two countries, and one uneven world wide web](https://royapakzad.substack.com/p/multilingual-ai-agents)
 - HackerNoon
   - [Building a Multimodal Game-Box Scanner With VisionKit, IGDB, and GPT-5.6 Luna](https://hackernoon.com/building-a-multimodal-game-box-scanner-with-visionkit-igdb-and-gpt-56-luna?source=rss)
@@ -40,6 +42,7 @@
   - [Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/)
   - [Circuit Breaker Labs hopes to make AI safer for your kids (and you)](https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/)
   - [It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/)
+  - [Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)
   - [TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/)
 - The Block
   - [Drift opens exploit recovery claims with initial payouts of just over 1% of user losses](https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581)
@@ -52,6 +55,7 @@
   - [Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents)
   - [Beehiiv creators are buzzing about a new price increase](https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions)
   - [Breaking up (with Elon Musk) is hard to do](https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis)
+  - [Meta open sources code to let you make Muse AI gadgets](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link)
   - [Nacon’s new PS5 controller can mix audio from your phone and console](https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller)
   - [Netflix is pivoting away from prestige](https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig)
   - [OpenAI’s Dot agent is enterprise software that can also order your dinner](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent)
