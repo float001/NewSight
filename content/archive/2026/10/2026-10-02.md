@@ -15,6 +15,7 @@
   - [How AI Helped Chainalysis Investigators Trace the $387 Million North Korea Stole from Bitget](https://www.chainalysis.com/blog/387m-bitget-theft-2026/)
 - CoinTelegraph
   - [50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review](https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETFs kick off ‘Uptober’ with $103M inflow](https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China warns foreign spies about crypto, Singapore dominates Asia: Asia Express](https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Core Lightning warns attackers are targeting unpatched Bitcoin nodes](https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum’s zkAPI brings privacy-preserving API payments to mainnet](https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -27,6 +28,7 @@
   - [Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims](https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback](https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
+  - [CS2 API Scams Explained: What Players Need to Know](https://www.cyberkendra.com/2026/10/cs2-api-scams-explained-what-players-need-to-know.html)
   - [NEAR Intents Hit by $3.8M Exploit via Omni Bridge Bug](https://www.cyberkendra.com/2026/10/near-intents-hit-by-3-8m-exploit-via-omni-bridge-bug.html)
 - daringfireball.net
   - [Yankees Sweep Boston in Two Games, by Combined Score of 18-2](https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/)
@@ -55,6 +57,8 @@
   - [The Lifecycle of Email Objects](https://hackernoon.com/the-lifecycle-of-email-objects?source=rss)
 - Horizon3.ai
   - [What Security Metrics Actually Matter?](https://horizon3.ai/intelligence/blogs/ctem-security-metrics-that-matter/)
+- infosecurity-magazine.com
+  - [Two Zero-Days Exploited in Attack on Dutch Institute for Vulnerability Disclosure](https://www.infosecurity-magazine.com/news/zerodays-dutch-institute/)
 - Linux Foundation Blogs
   - [Unlocking the Door to Open Source: Reflections from Nerdearla and Getting Started in Open Source Development](https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development)
 - NVIDIA AI Blog
@@ -115,5 +119,7 @@
   - [PS5 模拟器的开发取得突破](https://www.solidot.org/story?sid=85524)
 - 爱范儿
   - [你的下一台「泡面盖」，何必是塑料的？](https://www.ifanr.com/1682870?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]sm120上sglang的fp8的triton内核的矩阵乘性能问题](https://key08.com/index.php/2026/10/02/3341.html)
 - 量子位 QbitAI
   - [丘成桐新论文致谢了GPT和Claude](https://www.qbitai.com/2026/10/499991.html)
