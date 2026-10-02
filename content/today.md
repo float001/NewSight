@@ -32,6 +32,8 @@
   - [Yankees Sweep Boston in Two Games, by Combined Score of 18-2](https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/)
 - darkreading
   - [Alleged KillSec Ransomware Mastermind a 16-Year-Old](https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old)
+- defend.network
+  - [Fortinet FortiMail zero-day exploited; KillSec ransomware leadership dismantled](https://defend.network/briefings/fortinet-fortimail-killsec-ransomware-critical-2026-10-02.html)
 - Didier Stevens
   - [Overview of Content Published in September](https://blog.didierstevens.com/2026/10/01/overview-of-content-published-in-september-10/)
 - gilesthomas.com
@@ -110,3 +112,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [PS5 模拟器的开发取得突破](https://www.solidot.org/story?sid=85524)
+- 爱范儿
+  - [你的下一台「泡面盖」，何必是塑料的？](https://www.ifanr.com/1682870?utm_source=rss&utm_medium=rss&utm_campaign=)
