@@ -19,6 +19,8 @@
   - [Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims](https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [NEAR Intents Hit by $3.8M Exploit via Omni Bridge Bug](https://www.cyberkendra.com/2026/10/near-intents-hit-by-3-8m-exploit-via-omni-bridge-bug.html)
+- daringfireball.net
+  - [Yankees Sweep Boston in Two Games, by Combined Score of 18-2](https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/)
 - darkreading
   - [Alleged KillSec Ransomware Mastermind a 16-Year-Old](https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old)
 - Didier Stevens
@@ -59,11 +61,13 @@
   - [Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/)
   - [OpenAI cuts ties with 3 safety researchers, WSJ reports](https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/)
   - [Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)](https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/)
+  - [Robotaxi operators will face fines for blocking first responders](https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/)
   - [Shopify debuts Canvas, a way to build online stores by chatting with AI](https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/)
   - [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
   - [This startup wants to turn idle user car inventory into rental revenue](https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/)
   - [World’s first enhanced geothermal power plant completed in just 23 months](https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/)
 - The Block
+  - [Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity](https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504)
   - [Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419)
   - [Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review](https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452)
   - [SEC proposes framework allowing investment advisers, funds to self-custody crypto](https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498)
