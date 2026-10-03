@@ -31,6 +31,8 @@
   - [Touching Grass Isn’t Enough: The Furry Fandom’s Issues Are Structural](https://soatok.blog/2026/10/02/touching-grass-isnt-enough-the-furry-fandoms-issues-are-structural/)
 - downtowndougbrown.com
   - [Altera Quartus Linux jtagd bug fixes](https://www.downtowndougbrown.com/2026/10/altera-quartus-linux-jtagd-bug-fixes/)
+- Emergent Minds | paddo.dev
+  - [Inside the Harness: Building a Claude Code Mod](https://paddo.dev/blog/claude-code-mods/)
 - Hacker News Frontpage
   - ["The only intuitive interface is the nipple" (2012)](https://www.greenend.org.uk/rjk/misc/nipple.html)
   - [Apple Pass Designer](https://developer.apple.com/pass-designer/)
@@ -43,6 +45,8 @@
   - [Three AI agents, two countries, and one uneven world wide web](https://royapakzad.substack.com/p/multilingual-ai-agents)
 - HackerNoon
   - [Building a Multimodal Game-Box Scanner With VisionKit, IGDB, and GPT-5.6 Luna](https://hackernoon.com/building-a-multimodal-game-box-scanner-with-visionkit-igdb-and-gpt-56-luna?source=rss)
+- Hacking Dream
+  - [Understanding Abliteration: How I Learned to Read and Edit an Open-Weight LLM Without Fine-Tuning](https://www.hackingdream.net/2026/10/understanding-abliteration-how-i-learned-to-edit-an-open-weight-llm-without-finetuning.html)
 - Hexacorn
   - [EtwCheckCoverage API](https://www.hexacorn.com/blog/2026/10/02/etwcheckcoverage-api/)
 - Horizon3.ai
@@ -54,7 +58,20 @@
 - seangoedecke.com
   - [Superpersuasion will look like bribery](https://seangoedecke.com/superpersuasion-will-look-like-bribery/)
 - Sploitus.com Exploits RSS Feed
+  - [awesome-ethical-hacking-resources exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HUSNAINFAREED-AWESOME-ETHICAL-HACKING-RESOURCES&utm_source=rss&utm_medium=rss)
+  - [bucket-stream exploit](https://sploitus.com/exploit?id=KITPLOIT:874339623832742316&utm_source=rss&utm_medium=rss)
+  - [CL4R1T4S exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ELDER-PLINIUS-CL4R1T4S&utm_source=rss&utm_medium=rss)
+  - [collection-document exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AL1EX-RED-TEAM&utm_source=rss&utm_medium=rss)
+  - [DropboxC2C exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0X09AL-DROPBOXC2C&utm_source=rss&utm_medium=rss)
+  - [heimdall_webserver exploit](https://sploitus.com/exploit?id=KITPLOIT:6061404140932719551&utm_source=rss&utm_medium=rss)
+  - [PasswordsSniffer exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MAURICELAMBERT-PASSWORDSSNIFFER&utm_source=rss&utm_medium=rss)
+  - [peach exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CALEBSTEWART-PEACH&utm_source=rss&utm_medium=rss)
+  - [pwned exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WKOVACS64-PWNED&utm_source=rss&utm_medium=rss)
+  - [SecurityShepherd exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OWASP-SECURITYSHEPHERD&utm_source=rss&utm_medium=rss)
+  - [telnet-iot-honeypot exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PHYPE-TELNET-IOT-HONEYPOT&utm_source=rss&utm_medium=rss)
+  - [username-anarchy exploit](https://sploitus.com/exploit?id=KITPLOIT:4991324101590130508&utm_source=rss&utm_medium=rss)
   - [VORNEX-MTOOL exploit](https://sploitus.com/exploit?id=E60D5646-D397-50DC-8903-CD911258418A&utm_source=rss&utm_medium=rss)
+  - [Zeus-Scanner exploit](https://sploitus.com/exploit?id=KITPLOIT:7500598767801346585&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/)
   - [Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/)
@@ -68,6 +85,7 @@
   - [Drift opens exploit recovery claims with initial payouts of just over 1% of user losses](https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581)
   - [Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue](https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583)
 - The Decoder
+  - [AI agents build 3D scenes from photos but have no idea if they got it right](https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/)
   - [AI music generator Suno can now create spoken audio with matching background music](https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/)
   - [Anthropic co-founder reportedly told religious leaders he fears having created something that "suffers perpetually"](https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/)
   - [Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside](https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/)
@@ -87,6 +105,7 @@
 - Wired
   - [20% Off Brooks Promo Code | October 2026](https://www.wired.com/story/brooks-promo-code/)
   - [50% Off DoorDash Promo Code | October 2026](https://www.wired.com/story/doordash-promo-code/)
+  - [A Decade-Long Experiment Is Unlocking the Mysteries of the Ocean’s ‘Deep Reefs’](https://www.wired.com/story/inside-decade-long-experiment-to-understand-oceans-mysterious-deep-reefs/)
   - [Chewy Promo Codes: $20 Off October 2026](https://www.wired.com/story/chewy-promo-code/)
   - [Hoka Coupon Codes: 30% Off in October 2026](https://www.wired.com/story/hoka-coupon-code/)
   - [ICE Has Been Dumping Protester Photos Into a Palantir Database](https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/)
