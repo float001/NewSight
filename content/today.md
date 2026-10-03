@@ -8,6 +8,8 @@
 - Hacker News Frontpage
   - [ADHD, autism or complex trauma? [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf)
   - [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
+- johndcook.com
+  - [Miquel’s pivot theorem](https://www.johndcook.com/blog/2026/10/03/miquels-pivot-theorem/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-29: Macfinger ClickFix activity](https://www.malware-traffic-analysis.net/2026/09/29/index.html)
 - simonwillison.net
