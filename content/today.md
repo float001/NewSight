@@ -90,15 +90,18 @@
   - [Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/)
   - [Circuit Breaker Labs hopes to make AI safer for your kids (and you)](https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/)
   - [It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/)
+  - [Jack Dorsey’s Bitchat disappears from app stores in India after government order](https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/)
   - [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/)
   - [Sanders introduces bill to ban the federal government from using Flock](https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/)
   - [Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)
   - [Spotify billionaire’s body scan startup has come to America](https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/)
   - [TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/)
+  - [Vessev built an electric ferry that almost flies](https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/)
 - The Block
   - [Drift opens exploit recovery claims with initial payouts of just over 1% of user losses](https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581)
   - [Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue](https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583)
 - The Decoder
+  - ["Muse Gadgets" turns AI hardware into an open-source DIY project](https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/)
   - [AI agents build 3D scenes from photos but have no idea if they got it right](https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/)
   - [AI music generator Suno can now create spoken audio with matching background music](https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/)
   - [Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings](https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/)
@@ -118,6 +121,8 @@
   - [OpenAI’s Dot agent is enterprise software that can also order your dinner](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent)
   - [Rivian’s sales pop as the company’s big R2 bet starts to pay off](https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2)
   - [Sling TV drops its one-day cable passes](https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops)
+- Threatninja.net
+  - [Hack The Box: Reactor Machine Walkthrough – Easy Difficulty](https://threatninja.net/hack-the-box-reactor-machine-walkthrough-easy-difficulity/)
 - wheresyoured.at
   - [Premium: How Has AI Changed The Economy?](https://www.wheresyoured.at/premium-how-has-ai-changed-the-economy/)
 - Wired
