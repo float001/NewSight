@@ -2,10 +2,18 @@
 
 - 2Libra
   - [【💰】分享一下过节期间拍摄的照片，或者发生的故事（趣事或者事故），一起聊聊！](https://2libra.com/post/festival-things/dD_YFhC)
+- daringfireball.net
+  - [Apple Confirms iPhone 18 Pro Max AT&T Cellular Issues, Affected Devices Require Hardware Replacement](https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/)
+- Hacker News Frontpage
+  - [ADHD, autism or complex trauma? [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf)
+  - [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-29: Macfinger ClickFix activity](https://www.malware-traffic-analysis.net/2026/09/29/index.html)
 - TechCrunch
+  - [Amazon responds to data center backlash, says it no longer uses NDAs](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/)
   - [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/)
+- The Decoder
+  - [Apparently, OpenAI isn't trying to build "magic intelligence in the sky" anymore](https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/)
 - The Verge
   - [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development)
   - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
