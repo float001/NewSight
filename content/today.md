@@ -77,7 +77,13 @@
 - wheresyoured.at
   - [Premium: How Has AI Changed The Economy?](https://www.wheresyoured.at/premium-how-has-ai-changed-the-economy/)
 - Wired
+  - [20% Off Brooks Promo Code | October 2026](https://www.wired.com/story/brooks-promo-code/)
+  - [50% Off DoorDash Promo Code | October 2026](https://www.wired.com/story/doordash-promo-code/)
+  - [Chewy Promo Codes: $20 Off October 2026](https://www.wired.com/story/chewy-promo-code/)
+  - [Hoka Coupon Codes: 30% Off in October 2026](https://www.wired.com/story/hoka-coupon-code/)
   - [ICE Has Been Dumping Protester Photos Into a Palantir Database](https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/)
+  - [Klook Promo Code: 25% Off October 2026](https://www.wired.com/story/klook-promo-code/)
+  - [Surfshark Promo Codes: 87% Off | October 2026](https://www.wired.com/story/surfshark-coupon/)
   - [The NHL Is Releasing Its Own ‘Hot’ Fanfic. Romance Lovers Hate It](https://www.wired.com/story/the-nhl-is-releasing-its-own-hot-fanfic-romance-lovers-hate-it/)
   - [These AI Experts Want to Do High-Stakes Research Out in the Open](https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/)
   - [This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off](https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/)
