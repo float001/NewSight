@@ -3,6 +3,7 @@
 - 2Libra
   - [【团灭惨案】犯喵嗷拜！该当何罪？](https://2libra.com/post/pet/xNqvU4R)
   - [假期过半，归心似箭，现在已经迫不及待的想要回去工作了，这种心理正常吗？你们呢？](https://2libra.com/post/workplace-stories/hqG_iwr)
+  - [最近数字游民很火，弄了个数字游民社区 欢迎集思广益](https://2libra.com/post/promotion/RtmjNiU)
   - [终于把过节的月饼吃光了。。。 🤣🤣🤣](https://2libra.com/post/small-things/M1hx8dk)
   - [闲聊跟水区有什么区别呢](https://2libra.com/post/forum-function/OW2CqhB)
 - 404 Media
@@ -17,6 +18,7 @@
   - [$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report](https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [71% of UK finance leaders expect tokenization to reshape financial services: Lloyds](https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Blast to wind down Ethereum L2 after costs outpace revenue](https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Community banks sue OCC over trust bank charters of crypto firms](https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO](https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -90,6 +92,7 @@
   - [Anthropic co-founder reportedly told religious leaders he fears having created something that "suffers perpetually"](https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/)
   - [Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside](https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/)
   - [Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents](https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/)
+  - [Open-source "BootLoops" harness supports AI models in performing precise scientific calculations](https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/)
 - The Verge
   - [Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents)
   - [Beehiiv creators are buzzing about a new price increase](https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions)
