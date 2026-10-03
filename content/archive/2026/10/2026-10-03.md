@@ -3,7 +3,9 @@
 - 2Libra
   - [muse.ai 把视频教程总结成图文教程 按教程搭建 3x-ui 系统和节点](https://2libra.com/post/ai-tools/GsY3s_k)
   - [【团灭惨案】犯喵嗷拜！该当何罪？](https://2libra.com/post/pet/xNqvU4R)
+  - [中国人能飞小游戏](https://2libra.com/post/game-discussion/nOQnj1g)
   - [假期过半，归心似箭，现在已经迫不及待的想要回去工作了，这种心理正常吗？你们呢？](https://2libra.com/post/workplace-stories/hqG_iwr)
+  - [又发现一个新的潘多拉头像效果](https://2libra.com/post/forum-function/YuyYkRR)
   - [最近数字游民很火，弄了个数字游民社区 欢迎集思广益](https://2libra.com/post/promotion/RtmjNiU)
   - [终于把过节的月饼吃光了。。。 🤣🤣🤣](https://2libra.com/post/small-things/M1hx8dk)
   - [闲聊跟水区有什么区别呢](https://2libra.com/post/forum-function/OW2CqhB)
@@ -59,6 +61,8 @@
   - [Reflections on the 2026 Open Data Infrastructure Report](https://www.linuxfoundation.org/blog/reflections-on-the-2026-open-data-infrastructure-report)
 - OpenAI Blog
   - [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)
+- Recent Commits to cve:main
+  - [Update Sat Oct  3 12:33:01 UTC 2026](https://github.com/trickest/cve/commit/de57b3a5c16ff0c40c543149c930e2eef3c2d611)
 - seangoedecke.com
   - [Superpersuasion will look like bribery](https://seangoedecke.com/superpersuasion-will-look-like-bribery/)
 - Sploitus.com Exploits RSS Feed
@@ -126,5 +130,6 @@
 - 不安全
   - [Chamemask](https://buaq.net/go-446038.html)
   - [grype v0.120.0](https://buaq.net/go-446037.html)
+  - [Heroinn](https://buaq.net/go-446070.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
