@@ -9,6 +9,8 @@
   - [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-29: Macfinger ClickFix activity](https://www.malware-traffic-analysis.net/2026/09/29/index.html)
+- Sploitus.com Exploits RSS Feed
+  - [dita-structure-translation-poc exploit](https://sploitus.com/exploit?id=F7C20639-D2E8-5D5C-A07A-AD8397D2D3AD&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon responds to data center backlash, says it no longer uses NDAs](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/)
   - [Federal judge calls Flock ‘indiscriminate mass surveillance’](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
