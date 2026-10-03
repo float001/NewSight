@@ -24,6 +24,8 @@
   - [SWIFT Banking &amp; Government Middleware Enables RCE](https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce)
 - Dhole Moments
   - [Touching Grass Isn’t Enough: The Furry Fandom’s Issues Are Structural](https://soatok.blog/2026/10/02/touching-grass-isnt-enough-the-furry-fandoms-issues-are-structural/)
+- downtowndougbrown.com
+  - [Altera Quartus Linux jtagd bug fixes](https://www.downtowndougbrown.com/2026/10/altera-quartus-linux-jtagd-bug-fixes/)
 - Hacker News Frontpage
   - ["The only intuitive interface is the nipple" (2012)](https://www.greenend.org.uk/rjk/misc/nipple.html)
   - [Apple Pass Designer](https://developer.apple.com/pass-designer/)
