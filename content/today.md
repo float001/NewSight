@@ -25,8 +25,11 @@
 - Hacker News Frontpage
   - ["The only intuitive interface is the nipple" (2012)](https://www.greenend.org.uk/rjk/misc/nipple.html)
   - [Apple Pass Designer](https://developer.apple.com/pass-designer/)
+  - [Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble](https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821)
   - [Leaderboards and speedrun.com's new terms of service](https://therun.gg/blog/leaderboards-speedruncom)
+  - [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf)
   - [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://allenai.org/blog/astabrief)
+  - [Show HN: Google Maps Scraper MCP](https://gmapscrawl.com/google-maps-scraper-mcp)
   - [The Harness Is the Company](https://blog.sshh.io/p/the-harness-is-the-company)
   - [Three AI agents, two countries, and one uneven world wide web](https://royapakzad.substack.com/p/multilingual-ai-agents)
 - HackerNoon
@@ -76,5 +79,8 @@
   - [The NHL Is Releasing Its Own ‘Hot’ Fanfic. Romance Lovers Hate It](https://www.wired.com/story/the-nhl-is-releasing-its-own-hot-fanfic-romance-lovers-hate-it/)
   - [These AI Experts Want to Do High-Stakes Research Out in the Open](https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/)
   - [This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off](https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/)
+- 不安全
+  - [Chamemask](https://buaq.net/go-446038.html)
+  - [grype v0.120.0](https://buaq.net/go-446037.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
