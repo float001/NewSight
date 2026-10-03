@@ -31,10 +31,16 @@
   - [Three AI agents, two countries, and one uneven world wide web](https://royapakzad.substack.com/p/multilingual-ai-agents)
 - HackerNoon
   - [Building a Multimodal Game-Box Scanner With VisionKit, IGDB, and GPT-5.6 Luna](https://hackernoon.com/building-a-multimodal-game-box-scanner-with-visionkit-igdb-and-gpt-56-luna?source=rss)
+- Hexacorn
+  - [EtwCheckCoverage API](https://www.hexacorn.com/blog/2026/10/02/etwcheckcoverage-api/)
 - Horizon3.ai
   - [Horizon3 + CrowdStrike: Prove. Prioritize. Verify.](https://horizon3.ai/downloads/factsheets/horizon3-crowdstrike-integration/)
+- Linux Foundation Blogs
+  - [Reflections on the 2026 Open Data Infrastructure Report](https://www.linuxfoundation.org/blog/reflections-on-the-2026-open-data-infrastructure-report)
 - OpenAI Blog
   - [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)
+- seangoedecke.com
+  - [Superpersuasion will look like bribery](https://seangoedecke.com/superpersuasion-will-look-like-bribery/)
 - Sploitus.com Exploits RSS Feed
   - [VORNEX-MTOOL exploit](https://sploitus.com/exploit?id=E60D5646-D397-50DC-8903-CD911258418A&utm_source=rss&utm_medium=rss)
 - TechCrunch
