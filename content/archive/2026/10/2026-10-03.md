@@ -9,6 +9,7 @@
 - 404 Media
   - [Behind the Blog: Freaking Out](https://www.404media.co/behind-the-blog-freaking-out/)
   - [Federal Judge Rules a Flock Search Was ‘Indiscriminate Mass Surveillance’ and Unconstitutional](https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/)
+  - [Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds](https://www.404media.co/our-solar-system-is-terminally-unstable-and-will-be-completely-destroyed-study-finds/)
   - [Podcast: The FBI Was Hacked. We’ve Seen the Data](https://www.404media.co/podcast-the-fbi-was-hacked-weve-seen-the-data/)
 - Ars Technica
   - [Amazon’s $1B plan to combat data center backlash draws more backlash](https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/)
@@ -92,6 +93,7 @@
   - [Anthropic co-founder reportedly told religious leaders he fears having created something that "suffers perpetually"](https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/)
   - [Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside](https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/)
   - [Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents](https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/)
+  - [Deepmind researchers propose "Artificial Symbiotic Intelligence" as an alternative to the singularity](https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/)
   - [Open-source "BootLoops" harness supports AI models in performing precise scientific calculations](https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/)
 - The Verge
   - [Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents)
