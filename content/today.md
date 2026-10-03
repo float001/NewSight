@@ -4,11 +4,14 @@
   - [【💰】分享一下过节期间拍摄的照片，或者发生的故事（趣事或者事故），一起聊聊！](https://2libra.com/post/festival-things/dD_YFhC)
 - daringfireball.net
   - [Apple Confirms iPhone 18 Pro Max AT&T Cellular Issues, Affected Devices Require Hardware Replacement](https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/)
+  - [WorkOS](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
 - Hacker News Frontpage
   - [ADHD, autism or complex trauma? [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf)
   - [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-29: Macfinger ClickFix activity](https://www.malware-traffic-analysis.net/2026/09/29/index.html)
+- simonwillison.net
+  - [September sponsors-only newsletter](https://simonwillison.net/2026/Oct/3/newsletter/)
 - Sploitus.com Exploits RSS Feed
   - [dita-structure-translation-poc exploit](https://sploitus.com/exploit?id=F7C20639-D2E8-5D5C-A07A-AD8397D2D3AD&utm_source=rss&utm_medium=rss)
 - TechCrunch
