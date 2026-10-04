@@ -18,6 +18,8 @@
   - [ADHD, autism or complex trauma? [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf)
   - [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
   - [In Ukraine, distributed renewables foil Russia's assaults](https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/)
+- Hacking Dream
+  - [Abliteration Workbench: My Llama 3.2 Refusal Research](https://www.hackingdream.net/2026/10/abliteration-workbench-my-llama-32.html)
 - Hexacorn
   - [The boring state of stalled timelines…](https://www.hexacorn.com/blog/2026/10/03/the-boring-state-of-stalled-timelines/)
 - idiallo.com
@@ -26,6 +28,8 @@
   - [Miquel’s pivot theorem](https://www.johndcook.com/blog/2026/10/03/miquels-pivot-theorem/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-29: Macfinger ClickFix activity](https://www.malware-traffic-analysis.net/2026/09/29/index.html)
+- shkspr.mobi
+  - [My Pitch for the New Season of Doctor Who](https://shkspr.mobi/blog/2026/10/my-pitch-for-the-new-season-of-doctor-who/)
 - simonwillison.net
   - [September sponsors-only newsletter](https://simonwillison.net/2026/Oct/3/newsletter/)
   - [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
@@ -43,6 +47,8 @@
 - The Verge
   - [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development)
   - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
+- troyhunt.com
+  - [Weekly Update 524: Live From Copenhagen](https://www.troyhunt.com/weekly-update-524/)
 - Wired
   - [Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior](https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/)
   - [Keurig Alta First-Look: No More Plastic K-Cups](https://www.wired.com/story/keurig-alta-coffee-brewer/)
