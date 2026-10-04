@@ -1,4 +1,12 @@
 # 今日安全资讯（2026-10-05）
 
+- Hacker News Frontpage
+  - [Blindsight (Watts Novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
+- Sec-News 安全文摘
+  - [当模型学会静态脱壳：MiniMax 移动逆向实测](https://govuln.com/news/url/11nJ)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Improper Validation of Consistency within Input in Linux Linux_Kernel](https://sploitus.com/exploit?id=8C95A5DB-92F3-5F8F-926B-816B9F375FB0&utm_source=rss&utm_medium=rss)
+- The Verge
+  - [NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
