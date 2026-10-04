@@ -8,6 +8,7 @@
   - [El Salvador receives $138 million from IMF after Bitcoin waivers granted](https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Japan adds Garantex to list of Russia sanctions over Ukraine war](https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Russia’s Finance Ministry pays wages in digital rubles for first time](https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trump taps intel chief Jay Clayton to lead new Super Intelligence Force](https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Best Backlink Building Services for Tech and Security Brands](https://www.cyberkendra.com/2026/10/best-backlink-building-services-for-tech-and-security-brands.html)
 - daringfireball.net
