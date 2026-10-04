@@ -2,8 +2,10 @@
 
 - 2Libra
   - [【💰】分享一下过节期间拍摄的照片，或者发生的故事（趣事或者事故），一起聊聊！](https://2libra.com/post/festival-things/dD_YFhC)
+  - [奥利奥的 KFC 吮指原味鸡口味？？？](https://2libra.com/post/worth-buying/01y4nWh)
   - [流浪猫小院经营小游戏](https://2libra.com/post/game-share/3YS8-6h)
 - CoinTelegraph
+  - [El Salvador receives $138 million from IMF after Bitcoin waivers granted](https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Russia’s Finance Ministry pays wages in digital rubles for first time](https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Best Backlink Building Services for Tech and Security Brands](https://www.cyberkendra.com/2026/10/best-backlink-building-services-for-tech-and-security-brands.html)
@@ -42,6 +44,8 @@
   - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
 - Wired
   - [Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior](https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/)
+  - [Keurig Alta First-Look: No More Plastic K-Cups](https://www.wired.com/story/keurig-alta-coffee-brewer/)
+  - [Rural Data Centers Are in for a Big Federal Tax Break](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/)
   - [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/)
 - 不安全
   - [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://buaq.net/go-446131.html)
