@@ -2,6 +2,8 @@
 
 - 2Libra
   - [【💰】分享一下过节期间拍摄的照片，或者发生的故事（趣事或者事故），一起聊聊！](https://2libra.com/post/festival-things/dD_YFhC)
+- CoinTelegraph
+  - [Russia’s Finance Ministry pays wages in digital rubles for first time](https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Best Backlink Building Services for Tech and Security Brands](https://www.cyberkendra.com/2026/10/best-backlink-building-services-for-tech-and-security-brands.html)
 - daringfireball.net
@@ -31,12 +33,19 @@
   - [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/)
 - The Decoder
   - [Apparently, OpenAI isn't trying to build "magic intelligence in the sky" anymore](https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/)
+  - [Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro](https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/)
 - The Verge
   - [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development)
   - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
 - Wired
   - [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/)
+- 不安全
+  - [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://buaq.net/go-446131.html)
+  - [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://buaq.net/go-446130.html)
+  - [Unexplained NTFS ACL change — what artifact am I missing?](https://buaq.net/go-446132.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相](https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [AI算力硬合作，马斯克还是更相信中国制造](https://www.qbitai.com/2026/10/501605.html)
