@@ -39,13 +39,17 @@
   - [Apparently, OpenAI isn't trying to build "magic intelligence in the sky" anymore](https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/)
   - [Chinese AI models parrot state doctrine or refuse to answer on sensitive topics](https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/)
   - [Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro](https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/)
+  - [NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science](https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/)
 - The Verge
   - [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development)
   - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
 - Wired
   - [Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior](https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/)
   - [Keurig Alta First-Look: No More Plastic K-Cups](https://www.wired.com/story/keurig-alta-coffee-brewer/)
+  - [Meta Glasses Nova (Gen 3) Review: Not Much New](https://www.wired.com/review/meta-glasses-gen-3/)
   - [Rural Data Centers Are in for a Big Federal Tax Break](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/)
+  - [The Best Gifts Under $25 for Everyone on Your List (2026)](https://www.wired.com/story/best-gifts-under-25-2026/)
+  - [The Best Online Gift Cards and Digital Gift Ideas (2026)](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)
   - [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/)
 - 不安全
   - [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://buaq.net/go-446131.html)
