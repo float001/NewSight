@@ -58,6 +58,7 @@
   - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
   - [The iPad Mini is slightly cheaper again during Prime Day](https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale)
   - [The MacBook Air M5 is $200 off for the first time in months](https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale)
+  - [This toolless modular lever-action wallet is the coolest I’ve stuck to my phone](https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone)
 - troyhunt.com
   - [Weekly Update 524: Live From Copenhagen](https://www.troyhunt.com/weekly-update-524/)
 - Wired
@@ -76,5 +77,6 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相](https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [十年前的「外挂相机」，如何在华为 Mate 90 上复活？｜硬哲学](https://www.ifanr.com/1682933?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [AI算力硬合作，马斯克还是更相信中国制造](https://www.qbitai.com/2026/10/501605.html)
