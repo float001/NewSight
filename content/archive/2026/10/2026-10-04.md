@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【💰】分享一下过节期间拍摄的照片，或者发生的故事（趣事或者事故），一起聊聊！](https://2libra.com/post/festival-things/dD_YFhC)
+  - [流浪猫小院经营小游戏](https://2libra.com/post/game-share/3YS8-6h)
 - CoinTelegraph
   - [Russia’s Finance Ministry pays wages in digital rubles for first time](https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -14,6 +15,7 @@
 - Hacker News Frontpage
   - [ADHD, autism or complex trauma? [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf)
   - [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
+  - [In Ukraine, distributed renewables foil Russia's assaults](https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/)
 - Hexacorn
   - [The boring state of stalled timelines…](https://www.hexacorn.com/blog/2026/10/03/the-boring-state-of-stalled-timelines/)
 - idiallo.com
@@ -33,11 +35,13 @@
   - [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/)
 - The Decoder
   - [Apparently, OpenAI isn't trying to build "magic intelligence in the sky" anymore](https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/)
+  - [Chinese AI models parrot state doctrine or refuse to answer on sensitive topics](https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/)
   - [Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro](https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/)
 - The Verge
   - [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development)
   - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
 - Wired
+  - [Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior](https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/)
   - [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/)
 - 不安全
   - [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://buaq.net/go-446131.html)
