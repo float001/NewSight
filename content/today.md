@@ -2,6 +2,8 @@
 
 - 2Libra
   - [【💰】分享一下过节期间拍摄的照片，或者发生的故事（趣事或者事故），一起聊聊！](https://2libra.com/post/festival-things/dD_YFhC)
+- Cyber Kendra
+  - [Best Backlink Building Services for Tech and Security Brands](https://www.cyberkendra.com/2026/10/best-backlink-building-services-for-tech-and-security-brands.html)
 - daringfireball.net
   - [Apple Confirms iPhone 18 Pro Max AT&T Cellular Issues, Affected Devices Require Hardware Replacement](https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/)
   - [WorkOS](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
@@ -10,6 +12,8 @@
   - [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
 - Hexacorn
   - [The boring state of stalled timelines…](https://www.hexacorn.com/blog/2026/10/03/the-boring-state-of-stalled-timelines/)
+- idiallo.com
+  - [Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it](https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep)
 - johndcook.com
   - [Miquel’s pivot theorem](https://www.johndcook.com/blog/2026/10/03/miquels-pivot-theorem/)
 - Malware-Traffic-Analysis.net - Blog Entries
