@@ -9,12 +9,14 @@
 - Sec-News 安全文摘
   - [当模型学会静态脱壳：MiniMax 移动逆向实测](https://govuln.com/news/url/11nJ)
 - Sploitus.com Exploits RSS Feed
+  - [CVEs-Custom-Exploit-Research-Lab](https://sploitus.com/exploit?id=ACA4ACD8-A8EB-5F4B-8785-82A7E6DE68BE&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Fortinet Fortiproxy](https://sploitus.com/exploit?id=A43FDE64-BE52-51E3-B544-D52BAF0B02D4&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Validation of Consistency within Input in Linux Linux_Kernel](https://sploitus.com/exploit?id=8C95A5DB-92F3-5F8F-926B-816B9F375FB0&utm_source=rss&utm_medium=rss)
 - The Decoder
   - [Trump launches "Super Intelligence Force" that has nothing to do with actual superintelligence](https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/)
 - The Verge
   - [NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true)
+  - [Prick’s theatrical industrial punk is perfect for spooky season](https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review)
   - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
