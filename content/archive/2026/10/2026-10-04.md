@@ -6,6 +6,7 @@
   - [流浪猫小院经营小游戏](https://2libra.com/post/game-share/3YS8-6h)
 - CoinTelegraph
   - [El Salvador receives $138 million from IMF after Bitcoin waivers granted](https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Japan adds Garantex to list of Russia sanctions over Ukraine war](https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Russia’s Finance Ministry pays wages in digital rubles for first time](https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Best Backlink Building Services for Tech and Security Brands](https://www.cyberkendra.com/2026/10/best-backlink-building-services-for-tech-and-security-brands.html)
@@ -14,6 +15,8 @@
   - [WorkOS](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
 - defend.network
   - [Microsoft, Fortra vulnerabilities patched; Warlock escalates SharePoint attacks on critical infrastructure](https://defend.network/briefings/microsoft-fortra-warlock-critical-exploits-breaches-2026-10-04.html)
+- dfarq.homeip.net
+  - [Weekend content through the end of 2026](https://dfarq.homeip.net/weekend-content-through-the-end-of-2026/?utm_source=rss&utm_medium=rss&utm_campaign=weekend-content-through-the-end-of-2026)
 - Hacker News Frontpage
   - [ADHD, autism or complex trauma? [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf)
   - [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
@@ -25,7 +28,10 @@
 - idiallo.com
   - [Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it](https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep)
 - johndcook.com
+  - [Miquel’s pentagon theorem](https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/)
   - [Miquel’s pivot theorem](https://www.johndcook.com/blog/2026/10/03/miquels-pivot-theorem/)
+  - [Modal logic and topology](https://www.johndcook.com/blog/2026/10/04/modal-topology/)
+  - [Topological models of modal logic](https://www.johndcook.com/blog/2026/10/04/topological-models-of-modal-logic/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-09-29: Macfinger ClickFix activity](https://www.malware-traffic-analysis.net/2026/09/29/index.html)
 - shkspr.mobi
@@ -42,11 +48,15 @@
 - The Decoder
   - [Apparently, OpenAI isn't trying to build "magic intelligence in the sky" anymore](https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/)
   - [Chinese AI models parrot state doctrine or refuse to answer on sensitive topics](https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/)
+  - [Google researchers find a way to keep self-improving AI agents from memorizing their tests](https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/)
   - [Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro](https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/)
   - [NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science](https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/)
 - The Verge
   - [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development)
+  - [The AirPods Pro 3 are a fantastic deal at $179](https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale)
   - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
+  - [The iPad Mini is slightly cheaper again during Prime Day](https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale)
+  - [The MacBook Air M5 is $200 off for the first time in months](https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale)
 - troyhunt.com
   - [Weekly Update 524: Live From Copenhagen](https://www.troyhunt.com/weekly-update-524/)
 - Wired
