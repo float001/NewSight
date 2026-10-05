@@ -8,6 +8,9 @@
 - CoinTelegraph
   - [Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest](https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [OKX, NYSE parent file to launch tokenized US stock platform](https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Safe investor asks Swiss watchdog to intervene in governance dispute](https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Zcash activates NU7 on testnet ahead of November mainnet target](https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash gets a Washington lobbyist to push crypto policy](https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Hacker News Frontpage
   - [Blindsight (Watts Novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
@@ -20,6 +23,7 @@
   - [2026-10-02: Atomic macOS (AMOS) Stealer infection from malicious ad impersonating Claude Code](https://www.malware-traffic-analysis.net/2026/10/02/index.html)
 - rtl-sdr.com
   - [FernSDR: An Open-Source WebSDR Server](https://www.rtl-sdr.com/fernsdr-an-open-source-websdr-server/)
+  - [HamRadioWeb FT8 WSJTx JTDX Remote Control Android App](https://www.rtl-sdr.com/hamradioweb-ft8-wsjtx-jtdx-remote-control-android-app/)
   - [OFFgrid-SDR: A Fully Offline RTL-SDR Receiver Program in a Single Index.html File](https://www.rtl-sdr.com/offgrid-sdr-a-fully-offline-rtl-sdr-receiver-program-in-a-single-index-html-file/)
   - [sdrtop: A Terminal-Based SDR Bench Tool](https://www.rtl-sdr.com/sdrtop-a-terminal-based-sdr-bench-tool/)
 - Sec-News 安全文摘
