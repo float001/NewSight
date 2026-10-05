@@ -73,3 +73,5 @@
   - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 量子位 QbitAI
+  - [刚刚，Hinton发了首篇RSI论文](https://www.qbitai.com/2026/10/501705.html)
