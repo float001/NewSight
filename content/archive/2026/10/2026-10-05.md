@@ -14,6 +14,7 @@
   - [The CISA Alert: Security Beyond Solitary Confinement](https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/)
   - [What I learnt co-leading an AI Safety bootcamp for legal and governance practit](https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and)
 - rtl-sdr.com
+  - [FernSDR: An Open-Source WebSDR Server](https://www.rtl-sdr.com/fernsdr-an-open-source-websdr-server/)
   - [sdrtop: A Terminal-Based SDR Bench Tool](https://www.rtl-sdr.com/sdrtop-a-terminal-based-sdr-bench-tool/)
 - Sec-News 安全文摘
   - [当模型学会静态脱壳：MiniMax 移动逆向实测](https://govuln.com/news/url/11nJ)
