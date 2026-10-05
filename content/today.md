@@ -8,26 +8,36 @@
   - [LibreOffice, OpenOffice Hit by Spreadsheet RCE via JDBC](https://www.cyberkendra.com/2026/10/libreoffice-openoffice-calc-rce-cve-2026-63277.html)
   - [WordPress libheif RCE Exploit Chain Goes Public](https://www.cyberkendra.com/2026/10/wordpress-libheif-rce-exploit-chain-goes-public.html)
   - [ZachXBT Infiltrates Lazarus Group’s Bybit Launderers](https://www.cyberkendra.com/2026/10/zachxbt-infiltrates-lazarus-bybit-launderers.html)
+- Hacker News Frontpage
+  - [Greenvolt begins building 600 MW/2.4 GWh BESS in Poland](https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/)
 - IEEE Spectrum
   - [6 Guidelines for Governing AI](https://spectrum.ieee.org/6-guidelines-governing-ai)
+- pluralistic.net
+  - [Pluralistic: Scrutinized (05 Oct 2026)](https://pluralistic.net/2026/10/05/pervert-glasses/)
 - TechCrunch
   - [5 startups that caught VCs’ attention at the latest PearX demo day](https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/)
+  - [At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI](https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/)
   - [HackerRank’s AI interviewer offers a glimpse into what job interviews could become](https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/)
   - [Hot Girl Hotline is like ‘Dear Abby’ for the AI era](https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/)
+  - [Instinct brings its AI agent to group chats, even for friends without an account](https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/)
+  - [TikTok rolls out an AI shopping assistant and one-click checkout](https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/)
 - The Block
   - [CFTC proposes new federal framework for leveraged retail crypto trading](https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701)
   - [Treasury withdraws crypto mixing rule, citing concerns over ‘chilling effect on legitimate activity’](https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690)
   - [Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens](https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717)
 - The Decoder
   - [Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO](https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/)
+  - [Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor](https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/)
   - [Most Americans want AI development to slow down or stop entirely, new poll finds](https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/)
   - [OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide](https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/)
+  - [Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model](https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/)
 - The Verge
   - [OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide](https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr)
   - [Sam Altman says ‘some bad things&#8217; will happen but AI is totally worth it](https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Secure Your Mission-Critical Application Estate: Qualys TotalAppSec is Now FedRAMP High Authorized (FedRAMP Certified Class D)](https://blog.qualys.com/category/qualys-insights)
 - Wired
+  - [Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever](https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/)
   - [The Best Early Amazon Prime Day Deals 2026: WIRED-Tested Picks to Shop Now](https://www.wired.com/story/amazon-prime-day-early-deals-10-05-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
