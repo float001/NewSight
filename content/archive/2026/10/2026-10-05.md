@@ -10,12 +10,15 @@
 - CoinTelegraph
   - [Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest](https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank](https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKX, NYSE parent file to launch tokenized US stock platform](https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Safe investor asks Swiss watchdog to intervene in governance dispute](https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash activates NU7 on testnet ahead of November mainnet target](https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash gets a Washington lobbyist to push crypto policy](https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - defend.network
   - [Citrix NetScaler zero-day under attack; ShinyHunters member detained; DTU breach](https://defend.network/briefings/citrix-netscaler-zero-day-shinyhunters-dtu-breach-2026-10-05.html)
+- Emergent Minds | paddo.dev
+  - [The Future of AI Is CI: Building a Software Factory From the Back](https://paddo.dev/blog/future-of-ai-is-ci/)
 - Hacker News Frontpage
   - [Blindsight (Watts Novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
   - [Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
@@ -70,6 +73,7 @@
   - [Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/)
   - [Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/)
 - The Block
+  - [Injective CEO Eric Chen expects US INJ ETFs to launch sooner than 2027](https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616)
   - [OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue](https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613)
 - The Decoder
   - [Trump launches "Super Intelligence Force" that has nothing to do with actual superintelligence](https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/)
@@ -77,6 +81,8 @@
   - [NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true)
   - [Prick’s theatrical industrial punk is perfect for spooky season](https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review)
   - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
+- Wired
+  - [Staples Print and Marketing Services Review: Fast Holiday Gifts](https://www.wired.com/story/staples-print-and-marketing-services/)
 - 不安全
   - [Dread Hacking Update](https://buaq.net/go-446289.html)
   - [Have you guys considered paying someone to help you to make new friends or preserve them?](https://buaq.net/go-446291.html)
