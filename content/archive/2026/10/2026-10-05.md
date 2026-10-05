@@ -8,6 +8,7 @@
 - abortretry.fail
   - [Zenith Data Systems, Part I](https://www.abortretry.fail/p/zenith-data-systems-part-i)
 - CoinTelegraph
+  - [BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest](https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank](https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -25,6 +26,8 @@
   - [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
   - [The CISA Alert: Security Beyond Solitary Confinement](https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/)
   - [What I learnt co-leading an AI Safety bootcamp for legal and governance practit](https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and)
+- infosecurity-magazine.com
+  - [More UK Schools Are Recovering Faster from Cyber Incidents](https://www.infosecurity-magazine.com/news/uk-schools-recovering-faster/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-10-01: Traffic analysis exercise - Natureforce](https://www.malware-traffic-analysis.net/2026/10/01/index.html)
   - [2026-10-02: Atomic macOS (AMOS) Stealer infection from malicious ad impersonating Claude Code](https://www.malware-traffic-analysis.net/2026/10/02/index.html)
@@ -79,9 +82,12 @@
   - [Trump launches "Super Intelligence Force" that has nothing to do with actual superintelligence](https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/)
 - The Verge
   - [NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true)
+  - [Our minds aren’t equipped to handle AI](https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought)
   - [Prick’s theatrical industrial punk is perfect for spooky season](https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review)
   - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
 - Wired
+  - [A Prediction Market About the Past? Sure, Why Not!](https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/)
+  - [Omega Has New Bond Watches Even If There Isn’t a New James Bond](https://www.wired.com/story/omega-has-new-bond-watches-even-if-we-dont-have-a-new-bond/)
   - [Staples Print and Marketing Services Review: Fast Holiday Gifts](https://www.wired.com/story/staples-print-and-marketing-services/)
 - 不安全
   - [Dread Hacking Update](https://buaq.net/go-446289.html)
