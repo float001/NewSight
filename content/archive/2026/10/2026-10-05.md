@@ -23,6 +23,7 @@
   - [The Future of AI Is CI: Building a Software Factory From the Back](https://paddo.dev/blog/future-of-ai-is-ci/)
 - Hacker News Frontpage
   - [Blindsight (Watts Novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
+  - [Europe's new robotics unicorn: Germany's RobCo hits $1B valuation](https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/)
   - [Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
   - [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
   - [The CISA Alert: Security Beyond Solitary Confinement](https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/)
@@ -42,6 +43,8 @@
   - [sdrtop: A Terminal-Based SDR Bench Tool](https://www.rtl-sdr.com/sdrtop-a-terminal-based-sdr-bench-tool/)
 - Sec-News 安全文摘
   - [当模型学会静态脱壳：MiniMax 移动逆向实测](https://govuln.com/news/url/11nJ)
+- shkspr.mobi
+  - [[RSS Club] Changes to the RSS and Atom feeds](https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/)
 - Sploitus.com Exploits RSS Feed
   - [adPEAS exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-61106960-ADPEAS&utm_source=rss&utm_medium=rss)
   - [ASWCrypter exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ABEDALQADERSWEDAN1-ASWCRYPTER&utm_source=rss&utm_medium=rss)
@@ -77,12 +80,16 @@
   - [xnu exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-APPLE-OSS-DISTRIBUTIONS-XNU&utm_source=rss&utm_medium=rss)
   - [zuthaka exploit](https://sploitus.com/exploit?id=KITPLOIT:1474190946370892508&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Can Safeworld convince people that gen AI robots won’t hurt them?](https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/)
   - [Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/)
   - [Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/)
 - The Block
   - [Injective CEO Eric Chen expects US INJ ETFs to launch sooner than 2027](https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616)
+  - [Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’](https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640)
   - [OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue](https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613)
+  - [Visa, CoinShares find growing crypto appetite among consumers and affluent investors](https://www.theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642)
 - The Decoder
+  - [AI is eroding office hours, study groups, and the trust between faculty and students, MIT report finds](https://the-decoder.com/ai-is-eroding-office-hours-study-groups-and-the-trust-between-faculty-and-students-mit-report-finds/)
   - [Trump launches "Super Intelligence Force" that has nothing to do with actual superintelligence](https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/)
 - The Verge
   - [Google admits not every Android app runs great on Intel Googlebooks](https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance)
