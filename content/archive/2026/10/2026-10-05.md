@@ -7,6 +7,8 @@
   - [问书*学习网站](https://2libra.com/post/open-source-sharing/h0212rl)
 - abortretry.fail
   - [Zenith Data Systems, Part I](https://www.abortretry.fail/p/zenith-data-systems-part-i)
+- Chainalysis Blog
+  - [East Asia Crypto Adoption Report: South Korea’s AI Trade Comes to Crypto](https://www.chainalysis.com/blog/eastern-asia-crypto-adoption-2026/)
 - CoinTelegraph
   - [BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis](https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -40,14 +42,17 @@
   - [The Era of Software Quality, or the Era of Ostriches?](https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/)
   - [What I learnt co-leading an AI Safety bootcamp for legal and governance practit](https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and)
 - infosecurity-magazine.com
+  - [Citrix NetScaler Targeted Via New Zero Day](https://www.infosecurity-magazine.com/news/citrix-netscaler-zero-day/)
   - [Google Suspends Open-Source Bug Bounty Due to AI Vulnerability Reports](https://www.infosecurity-magazine.com/news/google-suspends-opensource-bug/)
   - [More UK Schools Are Recovering Faster from Cyber Incidents](https://www.infosecurity-magazine.com/news/uk-schools-recovering-faster/)
+  - [New Stealthy Linux Backdoors Target Telecoms, Masquerade as Email Traffic](https://www.infosecurity-magazine.com/news/smtp-linux-backdoors-network-edge/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-10-01: Traffic analysis exercise - Natureforce](https://www.malware-traffic-analysis.net/2026/10/01/index.html)
   - [2026-10-02: Atomic macOS (AMOS) Stealer infection from malicious ad impersonating Claude Code](https://www.malware-traffic-analysis.net/2026/10/02/index.html)
 - miguelgrinberg.com
   - [How fast is Python 3.15?](https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15)
 - MIT Technology Review
+  - [Bringing predictive analytics to the agentic AI era](https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/)
   - [The Download: AI’s popularity paradox and EmTech Future 2026](https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/)
 - rtl-sdr.com
   - [FernSDR: An Open-Source WebSDR Server](https://www.rtl-sdr.com/fernsdr-an-open-source-websdr-server/)
@@ -96,10 +101,12 @@
   - [Can Safeworld convince people that gen AI robots won’t hurt them?](https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/)
   - [Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/)
   - [Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/)
+  - [The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/)
 - The Block
   - [Injective CEO Eric Chen expects US INJ ETFs to launch sooner than 2027](https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616)
   - [Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’](https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640)
   - [OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue](https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613)
+  - [Tom Lee says ether ‘dwarfing other macro assets’ as Bitmine adds 15,112 ETH](https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660)
   - [Visa, CoinShares find growing crypto appetite among consumers and affluent investors](https://www.theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642)
   - [‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC](https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631)
 - The Decoder
@@ -107,6 +114,7 @@
   - [ChatGPT's new ad format fills the image generation loading screen with product carousels](https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/)
   - [Trump launches "Super Intelligence Force" that has nothing to do with actual superintelligence](https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/)
 - The Verge
+  - [An open-source tool lets you delete 12GB of Apple Intelligence data on macOS](https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool)
   - [Google admits not every Android app runs great on Intel Googlebooks](https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance)
   - [NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true)
   - [Our minds aren’t equipped to handle AI](https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought)
