@@ -9,24 +9,35 @@
   - [Zenith Data Systems, Part I](https://www.abortretry.fail/p/zenith-data-systems-part-i)
 - CoinTelegraph
   - [BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis](https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest](https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank](https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Metaplanet reveals net income strategy to fuel Bitcoin accumulation](https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKX, NYSE parent file to launch tokenized US stock platform](https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Safe investor asks Swiss watchdog to intervene in governance dispute](https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strategy opts for bigger spending on STRC buybacks over BTC purchases](https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Too big to pause: Could an AI slowdown crash the economy?](https://cointelegraph.com/features/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid](https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash activates NU7 on testnet ahead of November mainnet target](https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash gets a Washington lobbyist to push crypto policy](https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Darknet – Hacking Tools, Hacker News & Cyber Security
+  - [Response Overview and Colonel Clustered – Grouping Burp Responses by Content](https://www.darknet.org.uk/2026/10/response-overview-colonel-clustered-burp-response-grouping/)
+- darkreading
+  - [Need for Speed: AI-Driven Attacks Are Changing Security Strategies](https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies)
 - defend.network
   - [Citrix NetScaler zero-day under attack; ShinyHunters member detained; DTU breach](https://defend.network/briefings/citrix-netscaler-zero-day-shinyhunters-dtu-breach-2026-10-05.html)
 - Emergent Minds | paddo.dev
   - [The Future of AI Is CI: Building a Software Factory From the Back](https://paddo.dev/blog/future-of-ai-is-ci/)
+- GuidePoint Security
+  - [7 Ways to Make Security Awareness Actually Work](https://www.guidepointsecurity.com/blog/7-ways-to-make-security-awareness-actually-work/)
 - Hacker News Frontpage
   - [Blindsight (Watts Novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
   - [Europe's new robotics unicorn: Germany's RobCo hits $1B valuation](https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/)
   - [Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
   - [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
   - [The CISA Alert: Security Beyond Solitary Confinement](https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/)
+  - [The Era of Software Quality, or the Era of Ostriches?](https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/)
   - [What I learnt co-leading an AI Safety bootcamp for legal and governance practit](https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and)
 - infosecurity-magazine.com
   - [Google Suspends Open-Source Bug Bounty Due to AI Vulnerability Reports](https://www.infosecurity-magazine.com/news/google-suspends-opensource-bug/)
@@ -36,6 +47,8 @@
   - [2026-10-02: Atomic macOS (AMOS) Stealer infection from malicious ad impersonating Claude Code](https://www.malware-traffic-analysis.net/2026/10/02/index.html)
 - miguelgrinberg.com
   - [How fast is Python 3.15?](https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15)
+- MIT Technology Review
+  - [The Download: AI’s popularity paradox and EmTech Future 2026](https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/)
 - rtl-sdr.com
   - [FernSDR: An Open-Source WebSDR Server](https://www.rtl-sdr.com/fernsdr-an-open-source-websdr-server/)
   - [HamRadioWeb FT8 WSJTx JTDX Remote Control Android App](https://www.rtl-sdr.com/hamradioweb-ft8-wsjtx-jtdx-remote-control-android-app/)
@@ -88,8 +101,10 @@
   - [Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’](https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640)
   - [OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue](https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613)
   - [Visa, CoinShares find growing crypto appetite among consumers and affluent investors](https://www.theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642)
+  - [‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC](https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631)
 - The Decoder
   - [AI is eroding office hours, study groups, and the trust between faculty and students, MIT report finds](https://the-decoder.com/ai-is-eroding-office-hours-study-groups-and-the-trust-between-faculty-and-students-mit-report-finds/)
+  - [ChatGPT's new ad format fills the image generation loading screen with product carousels](https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/)
   - [Trump launches "Super Intelligence Force" that has nothing to do with actual superintelligence](https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/)
 - The Verge
   - [Google admits not every Android app runs great on Intel Googlebooks](https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance)
