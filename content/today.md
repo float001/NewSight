@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-10-05）
 
 - 2Libra
+  - [【团灭惨案·续】小猫咪 = 全自动家庭闯祸机 😹😹😹](https://2libra.com/post/pet-sharing/GzvWN6o)
   - [问书*学习网站](https://2libra.com/post/open-source-sharing/h0212rl)
 - abortretry.fail
   - [Zenith Data Systems, Part I](https://www.abortretry.fail/p/zenith-data-systems-part-i)
@@ -10,11 +11,16 @@
   - [Zcash gets a Washington lobbyist to push crypto policy](https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Hacker News Frontpage
   - [Blindsight (Watts Novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
+  - [Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
   - [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
   - [The CISA Alert: Security Beyond Solitary Confinement](https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/)
   - [What I learnt co-leading an AI Safety bootcamp for legal and governance practit](https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-10-01: Traffic analysis exercise - Natureforce](https://www.malware-traffic-analysis.net/2026/10/01/index.html)
+  - [2026-10-02: Atomic macOS (AMOS) Stealer infection from malicious ad impersonating Claude Code](https://www.malware-traffic-analysis.net/2026/10/02/index.html)
 - rtl-sdr.com
   - [FernSDR: An Open-Source WebSDR Server](https://www.rtl-sdr.com/fernsdr-an-open-source-websdr-server/)
+  - [OFFgrid-SDR: A Fully Offline RTL-SDR Receiver Program in a Single Index.html File](https://www.rtl-sdr.com/offgrid-sdr-a-fully-offline-rtl-sdr-receiver-program-in-a-single-index-html-file/)
   - [sdrtop: A Terminal-Based SDR Bench Tool](https://www.rtl-sdr.com/sdrtop-a-terminal-based-sdr-bench-tool/)
 - Sec-News 安全文摘
   - [当模型学会静态脱壳：MiniMax 移动逆向实测](https://govuln.com/news/url/11nJ)
