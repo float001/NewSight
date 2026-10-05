@@ -14,6 +14,7 @@
   - [Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank](https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKX, NYSE parent file to launch tokenized US stock platform](https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Safe investor asks Swiss watchdog to intervene in governance dispute](https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid](https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash activates NU7 on testnet ahead of November mainnet target](https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash gets a Washington lobbyist to push crypto policy](https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - defend.network
@@ -27,10 +28,13 @@
   - [The CISA Alert: Security Beyond Solitary Confinement](https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/)
   - [What I learnt co-leading an AI Safety bootcamp for legal and governance practit](https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and)
 - infosecurity-magazine.com
+  - [Google Suspends Open-Source Bug Bounty Due to AI Vulnerability Reports](https://www.infosecurity-magazine.com/news/google-suspends-opensource-bug/)
   - [More UK Schools Are Recovering Faster from Cyber Incidents](https://www.infosecurity-magazine.com/news/uk-schools-recovering-faster/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-10-01: Traffic analysis exercise - Natureforce](https://www.malware-traffic-analysis.net/2026/10/01/index.html)
   - [2026-10-02: Atomic macOS (AMOS) Stealer infection from malicious ad impersonating Claude Code](https://www.malware-traffic-analysis.net/2026/10/02/index.html)
+- miguelgrinberg.com
+  - [How fast is Python 3.15?](https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15)
 - rtl-sdr.com
   - [FernSDR: An Open-Source WebSDR Server](https://www.rtl-sdr.com/fernsdr-an-open-source-websdr-server/)
   - [HamRadioWeb FT8 WSJTx JTDX Remote Control Android App](https://www.rtl-sdr.com/hamradioweb-ft8-wsjtx-jtdx-remote-control-android-app/)
@@ -81,6 +85,7 @@
 - The Decoder
   - [Trump launches "Super Intelligence Force" that has nothing to do with actual superintelligence](https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/)
 - The Verge
+  - [Google admits not every Android app runs great on Intel Googlebooks](https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance)
   - [NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true)
   - [Our minds aren’t equipped to handle AI](https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought)
   - [Prick’s theatrical industrial punk is perfect for spooky season](https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review)
