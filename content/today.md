@@ -5,6 +5,8 @@
   - [三集纪录片《缅北电诈覆灭纪实》](https://2libra.com/post/movie-experience/lPY3Eu5)
   - [你国庆期间一定吃了不少大瓜吧， 我想吃瓜，想听八卦。](https://2libra.com/post/hotspot-tracking/WQvgCeM)
   - [问书*学习网站](https://2libra.com/post/open-source-sharing/h0212rl)
+- 404 Media
+  - [Meta Rushed to Fix Muse ‘VM Escape' Vulnerability Soon Before Launch](https://www.404media.co/meta-rushed-to-fix-muse-vm-escape-vulnerability-immediately-before-launch/)
 - abortretry.fail
   - [Zenith Data Systems, Part I](https://www.abortretry.fail/p/zenith-data-systems-part-i)
 - Chainalysis Blog
@@ -43,6 +45,7 @@
   - [What I learnt co-leading an AI Safety bootcamp for legal and governance practit](https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and)
 - infosecurity-magazine.com
   - [Citrix NetScaler Targeted Via New Zero Day](https://www.infosecurity-magazine.com/news/citrix-netscaler-zero-day/)
+  - [ClingSTUN Malware Turns Unpatched IoT Devices Into Proxy Nodes](https://www.infosecurity-magazine.com/news/clingstun-backdoor-unpatched-iot/)
   - [Google Suspends Open-Source Bug Bounty Due to AI Vulnerability Reports](https://www.infosecurity-magazine.com/news/google-suspends-opensource-bug/)
   - [More UK Schools Are Recovering Faster from Cyber Incidents](https://www.infosecurity-magazine.com/news/uk-schools-recovering-faster/)
   - [New Stealthy Linux Backdoors Target Telecoms, Masquerade as Email Traffic](https://www.infosecurity-magazine.com/news/smtp-linux-backdoors-network-edge/)
@@ -101,24 +104,34 @@
   - [Can Safeworld convince people that gen AI robots won’t hurt them?](https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/)
   - [Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/)
   - [Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/)
+  - [Hackers steal 8 million citizens’ records from Danish government database](https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/)
+  - [Lola Vision Systems is trying to make it easier to run AI models on chips](https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/)
+  - [Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/)
+  - [Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/)
+  - [Researchers are tracking a Chinese AI ‘agent fleet’](https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/)
   - [The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/)
 - The Block
+  - [DeFi Development sees NAV per share more than doubling, holds 2.56 million SOL](https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674)
   - [Injective CEO Eric Chen expects US INJ ETFs to launch sooner than 2027](https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616)
   - [Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’](https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640)
   - [OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue](https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613)
+  - [Strive adds 2,000 bitcoin in biggest buy since June, closes in on MARA](https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677)
   - [Tom Lee says ether ‘dwarfing other macro assets’ as Bitmine adds 15,112 ETH](https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660)
   - [Visa, CoinShares find growing crypto appetite among consumers and affluent investors](https://www.theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642)
   - [‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC](https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631)
 - The Decoder
   - [AI is eroding office hours, study groups, and the trust between faculty and students, MIT report finds](https://the-decoder.com/ai-is-eroding-office-hours-study-groups-and-the-trust-between-faculty-and-students-mit-report-finds/)
+  - [Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty](https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/)
   - [ChatGPT's new ad format fills the image generation loading screen with product carousels](https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/)
   - [Trump launches "Super Intelligence Force" that has nothing to do with actual superintelligence](https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/)
 - The Verge
   - [An open-source tool lets you delete 12GB of Apple Intelligence data on macOS](https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool)
+  - [CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance](https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros)
   - [Google admits not every Android app runs great on Intel Googlebooks](https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance)
   - [NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true)
   - [Our minds aren’t equipped to handle AI](https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought)
   - [Prick’s theatrical industrial punk is perfect for spooky season](https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review)
+  - [Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time](https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption)
   - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
 - Wired
   - [A Prediction Market About the Past? Sure, Why Not!](https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/)
@@ -130,5 +143,8 @@
   - [Wtf](https://buaq.net/go-446223.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划](https://www.solidot.org/story?sid=85538)
+  - [科学家识别出三种叫声最响亮的鸟](https://www.solidot.org/story?sid=85539)
 - 量子位 QbitAI
   - [刚刚，Hinton发了首篇RSI论文](https://www.qbitai.com/2026/10/501705.html)
