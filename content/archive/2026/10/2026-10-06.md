@@ -5,6 +5,7 @@
 - CoinTelegraph
   - [Advocacy group pushes back on banks’ lawsuit against OCC over charters](https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC joins SEC in proposing crypto framework after failed CLARITY vote](https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns](https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Modern Treasury seeks US trust bank charter for digital asset custody](https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017](https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -16,7 +17,9 @@
 - daringfireball.net
   - [Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death](https://x.com/johnternus/status/2107093462118199562)
 - Hacker News Frontpage
+  - [GitHub Actions Has Problems](https://www.githubstatus.com/incidents/3q1yb5m7ltvb)
   - [Greenvolt begins building 600 MW/2.4 GWh BESS in Poland](https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/)
+  - [The mental health of young men is declining. Experts warn it could get worse](https://www.cbc.ca/news/health/the-mental-health-of-young-men-is-declining-experts-warn-it-could-get-worse-9.7361010)
 - IEEE Spectrum
   - [6 Guidelines for Governing AI](https://spectrum.ieee.org/6-guidelines-governing-ai)
 - pluralistic.net
@@ -25,9 +28,11 @@
   - [5 startups that caught VCs’ attention at the latest PearX demo day](https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/)
   - [After Factory’s public spat with Khosla, Menlo proudly invests](https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/)
   - [At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI](https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/)
+  - [Etched fields funding offers at $40B+ valuation, sources say](https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/)
   - [HackerRank’s AI interviewer offers a glimpse into what job interviews could become](https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/)
   - [Hot Girl Hotline is like ‘Dear Abby’ for the AI era](https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/)
   - [Instinct brings its AI agent to group chats, even for friends without an account](https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/)
+  - [OpenAI will start watermarking ChatGPT’s text in the EU](https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/)
   - [Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost](https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/)
   - [TikTok rolls out an AI shopping assistant and one-click checkout](https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/)
 - The Block
@@ -44,6 +49,7 @@
   - [All the drama around AI&#8217;s takeover of mathematics](https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution)
   - [OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide](https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr)
   - [Sam Altman says ‘some bad things&#8217; will happen but AI is totally worth it](https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff)
+  - [This startup is issuing AI-generated acne prescriptions](https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Secure Your Mission-Critical Application Estate: Qualys TotalAppSec is Now FedRAMP High Authorized (FedRAMP Certified Class D)](https://blog.qualys.com/category/qualys-insights)
 - Wired
