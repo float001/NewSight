@@ -3,6 +3,7 @@
 - 2Libra
   - [【团灭惨案·续】小猫咪 = 全自动家庭闯祸机 😹😹😹](https://2libra.com/post/pet-sharing/GzvWN6o)
   - [三集纪录片《缅北电诈覆灭纪实》](https://2libra.com/post/movie-experience/lPY3Eu5)
+  - [你国庆期间一定吃了不少大瓜吧， 我想吃瓜，想听八卦。](https://2libra.com/post/hotspot-tracking/WQvgCeM)
   - [问书*学习网站](https://2libra.com/post/open-source-sharing/h0212rl)
 - abortretry.fail
   - [Zenith Data Systems, Part I](https://www.abortretry.fail/p/zenith-data-systems-part-i)
@@ -77,6 +78,8 @@
   - [Prick’s theatrical industrial punk is perfect for spooky season](https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review)
   - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
 - 不安全
+  - [Dread Hacking Update](https://buaq.net/go-446289.html)
+  - [Have you guys considered paying someone to help you to make new friends or preserve them?](https://buaq.net/go-446291.html)
   - [Wtf](https://buaq.net/go-446223.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
