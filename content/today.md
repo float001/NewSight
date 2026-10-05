@@ -2,6 +2,7 @@
 
 - Ars Technica
   - [Command-line tool quickly removes Apple Intelligence from macOS 27](https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/)
+  - [MCP for agent-to-agent comms may be the riskiest protocol you've never heard of](https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/)
 - CoinTelegraph
   - [Advocacy group pushes back on banks’ lawsuit against OCC over charters](https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC joins SEC in proposing crypto framework after failed CLARITY vote](https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -16,6 +17,7 @@
   - [WordPress libheif RCE Exploit Chain Goes Public](https://www.cyberkendra.com/2026/10/wordpress-libheif-rce-exploit-chain-goes-public.html)
   - [ZachXBT Infiltrates Lazarus Group’s Bybit Launderers](https://www.cyberkendra.com/2026/10/zachxbt-infiltrates-lazarus-bybit-launderers.html)
 - daringfireball.net
+  - [OpenAI Announces Their Text Watermarking Plans](https://openai.com/index/eu-text-provenance/)
   - [Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death](https://x.com/johnternus/status/2107093462118199562)
 - darkreading
   - [ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes](https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes)
@@ -23,6 +25,7 @@
   - [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
   - [GitHub Actions Has Problems](https://www.githubstatus.com/incidents/3q1yb5m7ltvb)
   - [Greenvolt begins building 600 MW/2.4 GWh BESS in Poland](https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/)
+  - [Texas city demands $2M for public records on Flock usage](https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/)
   - [The mental health of young men is declining. Experts warn it could get worse](https://www.cbc.ca/news/health/the-mental-health-of-young-men-is-declining-experts-warn-it-could-get-worse-9.7361010)
 - IEEE Spectrum
   - [6 Guidelines for Governing AI](https://spectrum.ieee.org/6-guidelines-governing-ai)
