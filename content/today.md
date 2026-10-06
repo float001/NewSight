@@ -14,6 +14,7 @@
   - [CFTC joins SEC in proposing crypto framework after failed CLARITY vote](https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chinese crime network laundered over $1B for Lazarus: ZachXBT](https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC announces support for 32 House candidates in US midterms](https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum](https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns](https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Modern Treasury seeks US trust bank charter for digital asset custody](https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -35,6 +36,7 @@
 - defend.network
   - [Rejetto HFS, MS Exchange, Dell System Update under active exploitation](https://defend.network/briefings/rejetto-hfs-microsoft-exchange-dell-system-update-2026-10-06.html)
 - Hacker News Frontpage
+  - ['Pull the plug': protesters resort to direct action against AI firms](https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms)
   - [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
   - [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
   - [GitHub Actions Has Problems](https://www.githubstatus.com/incidents/3q1yb5m7ltvb)
@@ -87,6 +89,7 @@
   - [Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports](https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports)
   - [Sam Altman says ‘some bad things&#8217; will happen but AI is totally worth it](https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff)
   - [The Matic is the first robovac to get an FCC ban waiver, not that it needs it](https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval)
+  - [This remote-controlled wagon is silly but so very useful](https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful)
   - [This startup is issuing AI-generated acne prescriptions](https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Secure Your Mission-Critical Application Estate: Qualys TotalAppSec is Now FedRAMP High Authorized (FedRAMP Certified Class D)](https://blog.qualys.com/category/qualys-insights)
