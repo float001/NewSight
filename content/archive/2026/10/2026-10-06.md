@@ -8,6 +8,9 @@
 - Ars Technica
   - [Command-line tool quickly removes Apple Intelligence from macOS 27](https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/)
   - [MCP for agent-to-agent comms may be the riskiest protocol you've never heard of](https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/)
+  - [OpenAI agents tried to hack Wikipedia tools and flooded it with traffic](https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/)
+- Ben's Bites
+  - [Thoughts from San Francisco](https://www.bensbites.com/p/thoughts-from-san-francisco)
 - CoinTelegraph
   - [Advocacy group pushes back on banks’ lawsuit against OCC over charters](https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto](https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -22,9 +25,12 @@
   - [Modern Treasury seeks US trust bank charter for digital asset custody](https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKX eyes emerging markets with yield-offering stablecoin savings and payments app](https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ondo opens private markets with tokenized pre-IPO AI exposure](https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Paxos’ $3B USDG stablecoin launches on Arbitrum](https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Polymarket overhauls smart contracts with new Protocol V2 rollout](https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Rain seeks US trust bank charter days after OCC sued over crypto charters](https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Solana Foundation targets settlement in seconds with DvP launch](https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017](https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US crypto rules need to survive the next election](https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Exchange Flaw CVE-2026-96940 Exposes Users’ Mailboxes](https://www.cyberkendra.com/2026/10/cve-2026-96940-exchange-mailbox-access-flaw.html)
   - [LibreOffice, OpenOffice Hit by Spreadsheet RCE via JDBC](https://www.cyberkendra.com/2026/10/libreoffice-openoffice-calc-rce-cve-2026-63277.html)
@@ -56,8 +62,10 @@
   - [Happy IEEE Day!](https://spectrum.ieee.org/ieee-day)
 - infosecurity-magazine.com
   - [ASOS Customers Receive Bizarre “Hacked” Message Amid Suspected Snowflake Compromise](https://www.infosecurity-magazine.com/news/asos-customers-message-suspected/)
+  - [Critical Medical Devices Unable to Support PQC Transition](https://www.infosecurity-magazine.com/news/medical-devices-pqc-transition/)
   - [Police Urge Passkey Use After Surge in Cybercrime Profits](https://www.infosecurity-magazine.com/news/police-urge-passkey-surge/)
   - [Ransomware Affiliate Double-Crosses RaaS Operator to Steal Victim Funds](https://www.infosecurity-magazine.com/news/affiliate-doublecrosses-raas/)
+  - [Red Hat’s Lightwell Project Remediates 400 Open-Source Vulnerabilities](https://www.infosecurity-magazine.com/news/red-hat-lightwell-remediates-400/)
 - Linux Foundation Blogs
   - [A Decade of Industrial Grade Linux: How the Civil Infrastructure Platform Is Securing Mission-Critical Systems](https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems)
 - Pentest Blog
@@ -79,6 +87,8 @@
   - [After Factory’s public spat with Khosla, Menlo proudly invests](https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/)
   - [At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI](https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/)
   - [Etched fields funding offers at $40B+ valuation, sources say](https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/)
+  - [Facebook tests going Reels-first in India](https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/)
+  - [Flai’s AI dealership software is booking 50,000 appointments per month](https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/)
   - [HackerRank’s AI interviewer offers a glimpse into what job interviews could become](https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/)
   - [Hot Girl Hotline is like ‘Dear Abby’ for the AI era](https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/)
   - [Instinct brings its AI agent to group chats, even for friends without an account](https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/)
@@ -89,6 +99,7 @@
   - [Type One Energy raised $200M to build a fusion power plant by 2034](https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/)
 - The Block
   - [CFTC proposes new federal framework for leveraged retail crypto trading](https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701)
+  - [Fortitude expands Zcash mining push with up to $100 million equipment commitment](https://www.theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790)
   - [Ondo launches onchain private-company exposure, starting with AI](https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762)
   - [Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections](https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781)
   - [Spiko raises $90 million to expand tokenized cash funds across markets](https://www.theblock.co/news/business/2026-10-06-spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets-417774)
@@ -102,8 +113,10 @@
   - [Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor](https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/)
   - [Most Americans want AI development to slow down or stop entirely, new poll finds](https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/)
   - [OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide](https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/)
+  - [Reflection's Beam becomes the most capable open-weight model built outside China](https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/)
   - [Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model](https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/)
   - [Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology](https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology/)
+  - [South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best](https://the-decoder.com/south-korea-bets-3-49-billion-on-building-a-homegrown-frontier-ai-model-to-rival-chinas-best/)
 - The Verge
   - [All the drama around AI&#8217;s takeover of mathematics](https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution)
   - [Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end](https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end)
@@ -112,10 +125,12 @@
   - [Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports](https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports)
   - [Sam Altman says ‘some bad things&#8217; will happen but AI is totally worth it](https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff)
   - [The best October Prime Day tech deals we found](https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech)
+  - [The easiest Apple Watch to recommend is $50 off](https://www.theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale)
   - [The Matic is the first robovac to get an FCC ban waiver, not that it needs it](https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval)
   - [The Pixel 11 Pro and Pro XL phones are $250 off](https://www.theverge.com/gadgets/1003856/pixel-11-pro-xl-amazon-prime-day-deal-sale)
   - [The planetary wave headed for California isn’t what you think it is](https://www.theverge.com/science/1005077/el-nino-planetary-wave-kelvin)
   - [The Verge&#8217;s guide to the best October Prime Day deals](https://www.theverge.com/tech/1004783/october-prime-day-deals-guide)
+  - [The wireless headphones that roll up into a Bluetooth speaker are now available](https://www.theverge.com/tech/1004860/tomorrow-doesnt-matter-tdm-neo-headphone-roll-up-bluetooth-speaker-us-availability)
   - [This remote-controlled wagon is silly but so very useful](https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful)
   - [This startup is issuing AI-generated acne prescriptions](https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions)
 - Vulnerabilities and Threat Research – Qualys Security Blog
@@ -127,6 +142,7 @@
   - [14 Best Prime Day Deals on Fitness and Recovery Gear (2026)](https://www.wired.com/story/amazon-prime-day-fitness-deals-10-06-2026/)
   - [16 Best Prime Day Tech and Gadget Deals (October 2026)](https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/)
   - [80 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/)
+  - [A First Ride With Lightfoot, a Solar-Powered Scooter](https://www.wired.com/story/lightfoot-scooter-first-ride/)
   - [Amazon Prime Day Deals Under $50 in October 2026](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/)
   - [Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever](https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/)
   - [Bose QuietComfort Headphones (2nd Gen) Review: Noise-Canceling Champ](https://www.wired.com/review/bose-quietcomfort-second-generation/)
@@ -143,11 +159,13 @@
   - [The Best Prime Day Soundbars Deals (2026)](https://www.wired.com/story/best-prime-day-soundbar-deals-10-06-2026/)
   - [The Best Prime Day TV Deals (2026)](https://www.wired.com/story/best-prime-day-tv-deals-10-06-2026/)
   - [The Internet Runs on Cats and Porn. It’s About to Get Cattier and Pornier](https://www.wired.com/story/icann-top-level-domains-meow/)
+  - [The MacBook Air Drops to Its Lowest Price Since June for Prime Day](https://www.wired.com/story/macbook-air-prime-day-10-6-2026/)
 - 不安全
   - [ChronAlert: Live Dashboard for Radio, Weather, Alerts with RTL-SDR Integration for APRS, ADS-B and AIS](https://buaq.net/go-446550.html)
   - [Domino’s customers targeted in credential stuffing attacks](https://buaq.net/go-446635.html)
   - [hacked by trenggalek6etar](https://buaq.net/go-446551.html)
   - [Pwn2Own Ireland 2026 - Day One Results](https://buaq.net/go-446610.html)
+  - [RXScan just got a local web GUI + a much bigger intelligence engine](https://buaq.net/go-446655.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
