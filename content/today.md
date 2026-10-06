@@ -32,6 +32,8 @@
   - [Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death](https://x.com/johnternus/status/2107093462118199562)
 - darkreading
   - [ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes](https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes)
+- defend.network
+  - [Rejetto HFS, MS Exchange, Dell System Update under active exploitation](https://defend.network/briefings/rejetto-hfs-microsoft-exchange-dell-system-update-2026-10-06.html)
 - Hacker News Frontpage
   - [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
   - [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
@@ -53,6 +55,7 @@
 - simonwillison.net
   - [Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-104905](https://sploitus.com/exploit?id=1336981D-A019-59CC-B755-7A00AC1790F1&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Handling of Exceptional Conditions in Apache Struts](https://sploitus.com/exploit?id=E32D884C-1123-59A5-ACC0-8677E9F05223&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [5 startups that caught VCs’ attention at the latest PearX demo day](https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/)
@@ -72,6 +75,7 @@
   - [Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens](https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717)
 - The Decoder
   - [Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO](https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/)
+  - [Cohere pitches North 2 as the enterprise AI control room that works with any model](https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/)
   - [Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor](https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/)
   - [Most Americans want AI development to slow down or stop entirely, new poll finds](https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/)
   - [OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide](https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/)
