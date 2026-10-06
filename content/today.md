@@ -11,6 +11,7 @@
 - CoinTelegraph
   - [Advocacy group pushes back on banks’ lawsuit against OCC over charters](https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto](https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH](https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC joins SEC in proposing crypto framework after failed CLARITY vote](https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chinese crime network laundered over $1B for Lazarus: ZachXBT](https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC announces support for 32 House candidates in US midterms](https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -45,6 +46,8 @@
   - [The mental health of young men is declining. Experts warn it could get worse](https://www.cbc.ca/news/health/the-mental-health-of-young-men-is-declining-experts-warn-it-could-get-worse-9.7361010)
 - IEEE Spectrum
   - [6 Guidelines for Governing AI](https://spectrum.ieee.org/6-guidelines-governing-ai)
+- infosecurity-magazine.com
+  - [Ransomware Affiliate Double-Crosses RaaS Operator to Steal Victim Funds](https://www.infosecurity-magazine.com/news/affiliate-doublecrosses-raas/)
 - Linux Foundation Blogs
   - [A Decade of Industrial Grade Linux: How the Civil Infrastructure Platform Is Securing Mission-Critical Systems](https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems)
 - Pentest Blog
@@ -96,9 +99,12 @@
 - Whwlsfb's Tech Blog
   - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/cox-htm-2.html)
 - Wired
+  - [16 Best Prime Day Tech and Gadget Deals (October 2026)](https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/)
+  - [80 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/)
   - [Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever](https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/)
   - [Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary](https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/)
   - [The Best Early Amazon Prime Day Deals 2026: WIRED-Tested Picks to Shop Now](https://www.wired.com/story/amazon-prime-day-early-deals-10-05-2026/)
+  - [The Best Prime Day Deals on Our Favorite Apple Products (October 2026)](https://www.wired.com/story/best-prime-day-apple-deals-10-06-2026/)
 - 不安全
   - [ChronAlert: Live Dashboard for Radio, Weather, Alerts with RTL-SDR Integration for APRS, ADS-B and AIS](https://buaq.net/go-446550.html)
   - [hacked by trenggalek6etar](https://buaq.net/go-446551.html)
@@ -106,3 +112,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [install sshd on windows11](https://dyrnq.com/install-sshd-on-windows11/)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]一个token问题导致tsecbench-CTF的A-18(CloudFunc)做不出来](https://key08.com/index.php/2026/10/06/3360.html)
