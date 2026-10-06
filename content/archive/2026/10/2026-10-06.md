@@ -20,6 +20,7 @@
 - daringfireball.net
   - [[Sponsor] Sunnny](https://sunnny.com/)
   - [OpenAI Announces Their Text Watermarking Plans](https://openai.com/index/eu-text-provenance/)
+  - [Steve Jobs, Walking Through a Mockup for Apple Park in 2010](https://book.stevejobsarchive.com/#photo-37)
   - [Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death](https://x.com/johnternus/status/2107093462118199562)
 - darkreading
   - [ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes](https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes)
@@ -82,3 +83,5 @@
   - [hacked by trenggalek6etar](https://buaq.net/go-446551.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [install sshd on windows11](https://dyrnq.com/install-sshd-on-windows11/)
