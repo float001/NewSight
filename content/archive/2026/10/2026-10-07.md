@@ -2,12 +2,15 @@
 
 - 2Libra
   - [我的一点怪癖](https://2libra.com/post/personal-life/KOV7dEu)
+- 404 Media
+  - [Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'](https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/)
 - CoinTelegraph
   - [Affluent investors seen boosting crypto exposure: Survey](https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bill aims at stopping US lawmaker bets on their own elections ahead of midterms](https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin grinds toward $87K as US equities hit new record highs](https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ECB policymaker warns of fragmentation without digital euro](https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast](https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [UK names 6 banks to lead first digitally native government bond](https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Chinese AI Agent Artex Used to Hack 7 South Korean Banks](https://www.cyberkendra.com/2026/10/artex-ai-south-korea-bank-breach.html)
   - [WhatsApp Patches Instagram Reels URL Flaw, CVE-2026-23866](https://www.cyberkendra.com/2026/10/whatsapp-patches-instagram-reels-url-flaw-cve-2026-23866.html)
@@ -21,21 +24,30 @@
 - Hacker News Frontpage
   - [Adobe Creative Suite Cleanroom Ported to Rust](https://github.com/storytold/photocraft)
   - [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
+- johndcook.com
+  - [A topological model for provability logic](https://www.johndcook.com/blog/2026/10/06/godel-lob/)
 - Linux Foundation Blogs
+  - [Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure](https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure)
   - [Navigating Open Source Governance in the Age of Artificial Intelligence: The 2026 State of OSPOs and Open Source Management](https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management)
 - PortSwigger Research
   - [The model isn't cooperating](https://portswigger.net/research/the-model-isnt-cooperating)
+- simonwillison.net
+  - [Using Parseable with Datasette for OpenTelemetry traces](https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/)
 - TechCrunch
+  - [AI computing startup Lambda to raise $4B ahead of planned IPO](https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/)
   - [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/)
   - [Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors](https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/)
   - [Hark releases an AI personal assistant with a focus on privacy](https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/)
   - [India’s JioHotstar takes partnership route for Middle East expansion](https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/)
   - [Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4](https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/)
   - [Mirror Particle is building a ‘world model’ of human behavior](https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/)
+  - [The next hurdle for AI agents: getting websites to let them in](https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/)
 - The Block
   - [Conduit sues Tether over $2.76 million freeze, says it has ‘no legal entitlement’ to funds](https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831)
   - [Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker](https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826)
 - The Decoder
+  - [Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size](https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/)
+  - [Google's new image model Nano Banana 2.1 generates better images for less money](https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/)
   - [Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade](https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/)
   - [Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure](https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/)
 - The Verge
@@ -45,9 +57,11 @@
   - [Our favorite headphones and earbuds are cheaper during October Prime Day](https://www.theverge.com/gadgets/1004886/october-prime-day-big-deals-days-headphones-earbuds-deal-sale)
   - [Our first five impressions of Googlebooks — exciting but underbaked](https://www.theverge.com/tech/1005745/google-googlebook-android-laptops-dell-acer-asus-lenovo-hp-impressions)
   - [Samsung’s Z Fold 8 is hundreds off ahead of iPhone Duo launch](https://www.theverge.com/gadgets/1005524/samsung-z-fold-8-ultra-foldable-prime-day-deal-sale)
+  - [Save on MacBooks, iPads and Apple Watches during October Prime Day](https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale)
   - [The best deals under $25 during October Prime Day](https://www.theverge.com/gadgets/1005547/the-best-deals-under-25-during-october-prime-day)
   - [The best October Prime Day tech deals we found](https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech)
   - [The stylish Nothing Headphone 1 are cheaper than ever](https://www.theverge.com/gadgets/1004290/nothing-headphone-1-deal-sale)
+  - [Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED](https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications)
   - [We can’t just change the definition of ‘recording’](https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording)
 - Wired
   - [114 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/)
