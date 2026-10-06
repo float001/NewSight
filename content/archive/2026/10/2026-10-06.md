@@ -49,6 +49,8 @@
   - [ESPsoup: Turn an ESP32-C5 into a 2.4 & 5 GHz Pocket Scanner with a Connected Phone or PC](https://www.rtl-sdr.com/espsoup-turn-an-esp32-c5-into-a-2-4-5-ghz-pocket-scanner-with-a-connected-phone-or-pc/)
 - simonwillison.net
   - [Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Improper Handling of Exceptional Conditions in Apache Struts](https://sploitus.com/exploit?id=E32D884C-1123-59A5-ACC0-8677E9F05223&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [5 startups that caught VCs’ attention at the latest PearX demo day](https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/)
   - [After Factory’s public spat with Khosla, Menlo proudly invests](https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/)
@@ -81,6 +83,8 @@
   - [This startup is issuing AI-generated acne prescriptions](https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Secure Your Mission-Critical Application Estate: Qualys TotalAppSec is Now FedRAMP High Authorized (FedRAMP Certified Class D)](https://blog.qualys.com/category/qualys-insights)
+- Whwlsfb's Tech Blog
+  - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/cox-htm-2.html)
 - Wired
   - [Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever](https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/)
   - [Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary](https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/)
