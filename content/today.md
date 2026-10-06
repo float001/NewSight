@@ -20,7 +20,9 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Modern Treasury seeks US trust bank charter for digital asset custody](https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKX eyes emerging markets with yield-offering stablecoin savings and payments app](https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ondo opens private markets with tokenized pre-IPO AI exposure](https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Rain seeks US trust bank charter days after OCC sued over crypto charters](https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Solana Foundation targets settlement in seconds with DvP launch](https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017](https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Exchange Flaw CVE-2026-96940 Exposes Users’ Mailboxes](https://www.cyberkendra.com/2026/10/cve-2026-96940-exchange-mailbox-access-flaw.html)
@@ -34,6 +36,8 @@
   - [Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death](https://x.com/johnternus/status/2107093462118199562)
 - darkreading
   - [ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes](https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes)
+- Data Breach
+  - [FBI Drops Accenture Contractor After Sensitive Data Breach](https://securityaffairs.com/200468/data-breach/fbi-drops-accenture-contractor-after-sensitive-data-breach.html)
 - defend.network
   - [Rejetto HFS, MS Exchange, Dell System Update under active exploitation](https://defend.network/briefings/rejetto-hfs-microsoft-exchange-dell-system-update-2026-10-06.html)
 - Hacker News Frontpage
@@ -44,9 +48,13 @@
   - [Greenvolt begins building 600 MW/2.4 GWh BESS in Poland](https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/)
   - [Texas city demands $2M for public records on Flock usage](https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/)
   - [The mental health of young men is declining. Experts warn it could get worse](https://www.cbc.ca/news/health/the-mental-health-of-young-men-is-declining-experts-warn-it-could-get-worse-9.7361010)
+- HackerNoon
+  - [HUD’s Roee Adler on the NYSE: Why AI Coding Needs to See What Happens in Production](https://hackernoon.com/huds-roee-adler-on-the-nyse-why-ai-coding-needs-to-see-what-happens-in-production?source=rss)
 - IEEE Spectrum
   - [6 Guidelines for Governing AI](https://spectrum.ieee.org/6-guidelines-governing-ai)
+  - [Happy IEEE Day!](https://spectrum.ieee.org/ieee-day)
 - infosecurity-magazine.com
+  - [Police Urge Passkey Use After Surge in Cybercrime Profits](https://www.infosecurity-magazine.com/news/police-urge-passkey-surge/)
   - [Ransomware Affiliate Double-Crosses RaaS Operator to Steal Victim Funds](https://www.infosecurity-magazine.com/news/affiliate-doublecrosses-raas/)
 - Linux Foundation Blogs
   - [A Decade of Industrial Grade Linux: How the Civil Infrastructure Platform Is Securing Mission-Critical Systems](https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems)
@@ -76,8 +84,10 @@
   - [TikTok rolls out an AI shopping assistant and one-click checkout](https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/)
 - The Block
   - [CFTC proposes new federal framework for leveraged retail crypto trading](https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701)
+  - [Ondo launches onchain private-company exposure, starting with AI](https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762)
   - [Treasury withdraws crypto mixing rule, citing concerns over ‘chilling effect on legitimate activity’](https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690)
   - [Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens](https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717)
+  - [ZachXBT says he fronted $349,700 to infiltrate alleged Chinese launderers tied to Lazarus, Bybit hack](https://www.theblock.co/news/defi/2026-10-06-zachxbt-infiltrated-chinese-launderers-lazarus-hack-417767)
 - The Decoder
   - [Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO](https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/)
   - [Cohere pitches North 2 as the enterprise AI control room that works with any model](https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/)
@@ -99,15 +109,25 @@
 - Whwlsfb's Tech Blog
   - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/cox-htm-2.html)
 - Wired
+  - [12 Best Prime Day Deals on Our Favorite Toys (October 2026)](https://www.wired.com/story/amazon-prime-day-lego-deals-10-06-2026/)
+  - [14 Best Prime Day Deals on Fitness and Recovery Gear (2026)](https://www.wired.com/story/amazon-prime-day-fitness-deals-10-06-2026/)
   - [16 Best Prime Day Tech and Gadget Deals (October 2026)](https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/)
   - [80 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/)
+  - [Amazon Prime Day Deals Under $50 in October 2026](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/)
   - [Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever](https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/)
+  - [Bose QuietComfort Headphones (2nd Gen) Review: Noise-Canceling Champ](https://www.wired.com/review/bose-quietcomfort-second-generation/)
   - [Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary](https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/)
+  - [I Found The Best Amazon Prime Day Headphone Deals (2026)](https://www.wired.com/story/best-prime-day-headphone-deals-10-06-2026/)
+  - [The 13 Amazon Device Deals Actually Worth Snagging This Prime Day](https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-06-2026/)
   - [The Best Early Amazon Prime Day Deals 2026: WIRED-Tested Picks to Shop Now](https://www.wired.com/story/amazon-prime-day-early-deals-10-05-2026/)
   - [The Best Prime Day Deals on Our Favorite Apple Products (October 2026)](https://www.wired.com/story/best-prime-day-apple-deals-10-06-2026/)
+  - [The Best Prime Day Soundbars Deals (2026)](https://www.wired.com/story/best-prime-day-soundbar-deals-10-06-2026/)
+  - [The Best Prime Day TV Deals (2026)](https://www.wired.com/story/best-prime-day-tv-deals-10-06-2026/)
+  - [The Internet Runs on Cats and Porn. It’s About to Get Cattier and Pornier](https://www.wired.com/story/icann-top-level-domains-meow/)
 - 不安全
   - [ChronAlert: Live Dashboard for Radio, Weather, Alerts with RTL-SDR Integration for APRS, ADS-B and AIS](https://buaq.net/go-446550.html)
   - [hacked by trenggalek6etar](https://buaq.net/go-446551.html)
+  - [Pwn2Own Ireland 2026 - Day One Results](https://buaq.net/go-446610.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
