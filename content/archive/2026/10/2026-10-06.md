@@ -6,6 +6,7 @@
 - CoinTelegraph
   - [Advocacy group pushes back on banks’ lawsuit against OCC over charters](https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC joins SEC in proposing crypto framework after failed CLARITY vote](https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Chinese crime network laundered over $1B for Lazarus: ZachXBT](https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC announces support for 32 House candidates in US midterms](https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns](https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
