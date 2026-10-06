@@ -29,12 +29,15 @@
 - Hacker News Frontpage
   - [Adobe Creative Suite Cleanroom Ported to Rust](https://github.com/storytold/photocraft)
   - [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
+  - [Ask HN: How would you feel if we nationalized Google?](https://news.ycombinator.com/item?id=49985180)
   - [Ask HN: Why is Ask HN only showing me 14 posts?](https://news.ycombinator.com/item?id=49984484)
   - [Google EmbeddingGemma 2](https://twitter.com/googlegemma/status/2107502533992464482)
   - [Meta's Muse AI agent is building a dossier on you](https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/)
   - [OpenSSH 10.6 Released](https://www.openssh.org/releasenotes.html#10.6)
   - [Paramount completes $111B Warner merger, creating "Skydance" behemoth](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/)
+  - [Sharing AI Progress in Mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
   - [System-level ad-blocking in Android](https://kevinboone.me/adblock.html)
+  - [The Query Transformation Pipeline](https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline)
 - johndcook.com
   - [A topological model for provability logic](https://www.johndcook.com/blog/2026/10/06/godel-lob/)
 - Linux Foundation Blogs
@@ -50,9 +53,12 @@
 - TechCrunch
   - [AI computing startup Lambda to raise $4B ahead of planned IPO](https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/)
   - [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/)
+  - [Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell](https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/)
+  - [Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product](https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/)
   - [Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors](https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/)
   - [Hark releases an AI personal assistant with a focus on privacy](https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/)
   - [How AI decision models could change content moderation](https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/)
+  - [How to find out if Amazon thinks you have ‘flat buttocks’](https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/)
   - [India’s JioHotstar takes partnership route for Middle East expansion](https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/)
   - [Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4](https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/)
   - [Mirror Particle is building a ‘world model’ of human behavior](https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/)
@@ -85,6 +91,7 @@
   - [The stylish Nothing Headphone 1 are cheaper than ever](https://www.theverge.com/gadgets/1004290/nothing-headphone-1-deal-sale)
   - [Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED](https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications)
   - [We can’t just change the definition of ‘recording’](https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording)
+  - [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)
 - Wired
   - [114 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/)
   - [8 Best Prime Day Wearable Deals: Apple, Google, Samsung (2026)](https://www.wired.com/story/amazon-prime-day-wearable-deals-10-6-2026/)
