@@ -55,6 +55,7 @@
   - [6 Guidelines for Governing AI](https://spectrum.ieee.org/6-guidelines-governing-ai)
   - [Happy IEEE Day!](https://spectrum.ieee.org/ieee-day)
 - infosecurity-magazine.com
+  - [ASOS Customers Receive Bizarre “Hacked” Message Amid Suspected Snowflake Compromise](https://www.infosecurity-magazine.com/news/asos-customers-message-suspected/)
   - [Police Urge Passkey Use After Surge in Cybercrime Profits](https://www.infosecurity-magazine.com/news/police-urge-passkey-surge/)
   - [Ransomware Affiliate Double-Crosses RaaS Operator to Steal Victim Funds](https://www.infosecurity-magazine.com/news/affiliate-doublecrosses-raas/)
 - Linux Foundation Blogs
@@ -66,6 +67,8 @@
 - rtl-sdr.com
   - [ChronAlert: Live Dashboard for Radio, Weather, Alerts with RTL-SDR Integration for APRS, ADS-B and AIS](https://www.rtl-sdr.com/chronalert-live-dashboard-for-radio-weather-alerts-with-rtl-sdr-integration-for-aprs-ads-b-and-ais/)
   - [ESPsoup: Turn an ESP32-C5 into a 2.4 & 5 GHz Pocket Scanner with a Connected Phone or PC](https://www.rtl-sdr.com/espsoup-turn-an-esp32-c5-into-a-2-4-5-ghz-pocket-scanner-with-a-connected-phone-or-pc/)
+- shkspr.mobi
+  - [Una Watch - SDK and Writing Your First App](https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/)
 - simonwillison.net
   - [Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/)
 - Sploitus.com Exploits RSS Feed
@@ -83,9 +86,11 @@
   - [OpenAI will start watermarking ChatGPT’s text in the EU](https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/)
   - [Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost](https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/)
   - [TikTok rolls out an AI shopping assistant and one-click checkout](https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/)
+  - [Type One Energy raised $200M to build a fusion power plant by 2034](https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/)
 - The Block
   - [CFTC proposes new federal framework for leveraged retail crypto trading](https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701)
   - [Ondo launches onchain private-company exposure, starting with AI](https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762)
+  - [Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections](https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781)
   - [Spiko raises $90 million to expand tokenized cash funds across markets](https://www.theblock.co/news/business/2026-10-06-spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets-417774)
   - [Treasury withdraws crypto mixing rule, citing concerns over ‘chilling effect on legitimate activity’](https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690)
   - [Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens](https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717)
@@ -98,6 +103,7 @@
   - [Most Americans want AI development to slow down or stop entirely, new poll finds](https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/)
   - [OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide](https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/)
   - [Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model](https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/)
+  - [Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology](https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology/)
 - The Verge
   - [All the drama around AI&#8217;s takeover of mathematics](https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution)
   - [Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end](https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end)
@@ -107,6 +113,8 @@
   - [Sam Altman says ‘some bad things&#8217; will happen but AI is totally worth it](https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff)
   - [The best October Prime Day tech deals we found](https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech)
   - [The Matic is the first robovac to get an FCC ban waiver, not that it needs it](https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval)
+  - [The Pixel 11 Pro and Pro XL phones are $250 off](https://www.theverge.com/gadgets/1003856/pixel-11-pro-xl-amazon-prime-day-deal-sale)
+  - [The planetary wave headed for California isn’t what you think it is](https://www.theverge.com/science/1005077/el-nino-planetary-wave-kelvin)
   - [The Verge&#8217;s guide to the best October Prime Day deals](https://www.theverge.com/tech/1004783/october-prime-day-deals-guide)
   - [This remote-controlled wagon is silly but so very useful](https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful)
   - [This startup is issuing AI-generated acne prescriptions](https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions)
@@ -137,6 +145,7 @@
   - [The Internet Runs on Cats and Porn. It’s About to Get Cattier and Pornier](https://www.wired.com/story/icann-top-level-domains-meow/)
 - 不安全
   - [ChronAlert: Live Dashboard for Radio, Weather, Alerts with RTL-SDR Integration for APRS, ADS-B and AIS](https://buaq.net/go-446550.html)
+  - [Domino’s customers targeted in credential stuffing attacks](https://buaq.net/go-446635.html)
   - [hacked by trenggalek6etar](https://buaq.net/go-446551.html)
   - [Pwn2Own Ireland 2026 - Day One Results](https://buaq.net/go-446610.html)
 - 代码审计星球
