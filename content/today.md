@@ -2,12 +2,15 @@
 
 - 2Libra
   - [10 月 6 日中国移动灵犀口令#一起去踏秋](https://2libra.com/post/deal-hunter/Bt036HF)
+  - [【AI 视频生成】映刻上线，欢迎大家赛博领鸡蛋](https://2libra.com/post/promotion/LI7WwAH)
   - [某东签到 15 天领 1000 京豆](https://2libra.com/post/deal-hunter/IRAfS-9)
+  - [躺一天，是对假期的基本尊重～ 😴😴😴](https://2libra.com/post/festival-things/P8spT-j)
 - Ars Technica
   - [Command-line tool quickly removes Apple Intelligence from macOS 27](https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/)
   - [MCP for agent-to-agent comms may be the riskiest protocol you've never heard of](https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/)
 - CoinTelegraph
   - [Advocacy group pushes back on banks’ lawsuit against OCC over charters](https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto](https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC joins SEC in proposing crypto framework after failed CLARITY vote](https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chinese crime network laundered over $1B for Lazarus: ZachXBT](https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC announces support for 32 House candidates in US midterms](https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
