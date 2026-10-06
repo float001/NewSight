@@ -7,20 +7,28 @@
   - [Bill aims at stopping US lawmaker bets on their own elections ahead of midterms](https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin grinds toward $87K as US equities hit new record highs](https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ECB policymaker warns of fragmentation without digital euro](https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast](https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Chinese AI Agent Artex Used to Hack 7 South Korean Banks](https://www.cyberkendra.com/2026/10/artex-ai-south-korea-bank-breach.html)
   - [WhatsApp Patches Instagram Reels URL Flaw, CVE-2026-23866](https://www.cyberkendra.com/2026/10/whatsapp-patches-instagram-reels-url-flaw-cve-2026-23866.html)
   - [WordPress 7.1.3 Fixes SQL Injection, Stored XSS Flaws](https://www.cyberkendra.com/2026/10/wordpress-7-1-3-fixes-sql-injection-stored-xss-flaws.html)
+- daringfireball.net
+  - [Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27](https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/)
 - darkreading
   - [Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps](https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps)
+- E99p1ant
+  - [LightCube 11 周年：AI 一天，人间一年](https://github.red/lightcube-11th/)
 - Hacker News Frontpage
   - [Adobe Creative Suite Cleanroom Ported to Rust](https://github.com/storytold/photocraft)
   - [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
+- Linux Foundation Blogs
+  - [Navigating Open Source Governance in the Age of Artificial Intelligence: The 2026 State of OSPOs and Open Source Management](https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management)
 - PortSwigger Research
   - [The model isn't cooperating](https://portswigger.net/research/the-model-isnt-cooperating)
 - TechCrunch
   - [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/)
   - [Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors](https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/)
+  - [Hark releases an AI personal assistant with a focus on privacy](https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/)
   - [India’s JioHotstar takes partnership route for Middle East expansion](https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/)
   - [Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4](https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/)
   - [Mirror Particle is building a ‘world model’ of human behavior](https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/)
@@ -29,6 +37,7 @@
   - [Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker](https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826)
 - The Decoder
   - [Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade](https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/)
+  - [Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure](https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/)
 - The Verge
   - [Apple TV’s great year continues with Small Prophets](https://www.theverge.com/entertainment/1005781/small-prophets-review-apple-tv)
   - [Arturia adds proper sound design tools to its AstroLab synths](https://www.theverge.com/gadgets/1005671/arturia-astrolab-synth-firmware-update)
@@ -36,13 +45,23 @@
   - [Our favorite headphones and earbuds are cheaper during October Prime Day](https://www.theverge.com/gadgets/1004886/october-prime-day-big-deals-days-headphones-earbuds-deal-sale)
   - [Our first five impressions of Googlebooks — exciting but underbaked](https://www.theverge.com/tech/1005745/google-googlebook-android-laptops-dell-acer-asus-lenovo-hp-impressions)
   - [Samsung’s Z Fold 8 is hundreds off ahead of iPhone Duo launch](https://www.theverge.com/gadgets/1005524/samsung-z-fold-8-ultra-foldable-prime-day-deal-sale)
+  - [The best deals under $25 during October Prime Day](https://www.theverge.com/gadgets/1005547/the-best-deals-under-25-during-october-prime-day)
+  - [The best October Prime Day tech deals we found](https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech)
   - [The stylish Nothing Headphone 1 are cheaper than ever](https://www.theverge.com/gadgets/1004290/nothing-headphone-1-deal-sale)
   - [We can’t just change the definition of ‘recording’](https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording)
 - Wired
+  - [114 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/)
+  - [8 Best Prime Day Wearable Deals: Apple, Google, Samsung (2026)](https://www.wired.com/story/amazon-prime-day-wearable-deals-10-6-2026/)
+  - [Apple AirPods Max 2 Are $120 Off Right Now During Prime Day](https://www.wired.com/story/apple-airpods-max-2-deal-october-2026/)
+  - [Best Amazon Prime Day Espresso Machine, Coffee Maker, and Grinder Deals (2026)](https://www.wired.com/story/prime-day-espresso-machine-deals-10-06-2026/)
   - [Best October Prime Day Mattress and Bedding Deals (2026)](https://www.wired.com/story/prime-day-mattress-deals-10-06-2026/)
+  - [Everybody’s Favorite Art TV Is Nearly Half Off for Prime Day (2026)](https://www.wired.com/story/samsung-the-frame-tv-deal-prime-day-10-6-2026/)
   - [I Found The Best Amazon Prime Day Headphone Deals (2026)](https://www.wired.com/story/best-prime-day-headphone-deals-10-06-2026/)
   - [OpenAI Is Pissing Off a Bunch of Mathematicians—Again](https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/)
   - [The 24 Best Prime Day Deals Under $100 (2026)](https://www.wired.com/story/best-prime-day-deals-under-100-10-06-2026/)
+  - [The Best Prime Day Smart Home Deals Are Up to 50% Off (2026)](https://www.wired.com/story/best-smart-home-prime-day-10-6-2026/)
+  - [Yeti Coolers and Cups Are Up to $100 Off for Amazon Prime Day](https://www.wired.com/story/amazon-prime-day-2026-yeti-deals/)
+  - [‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers](https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/)
   - [‘Mike Rogers Is Watching You’: New Ad Blitz From Abdul El-Sayed Attacks Surveillance Support](https://www.wired.com/story/mike-rogers-is-watching-you-new-ad-blitz-from-abdul-el-sayed-attacks-surveillance-support/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
