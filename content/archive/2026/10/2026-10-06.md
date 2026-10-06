@@ -17,12 +17,14 @@
   - [WordPress libheif RCE Exploit Chain Goes Public](https://www.cyberkendra.com/2026/10/wordpress-libheif-rce-exploit-chain-goes-public.html)
   - [ZachXBT Infiltrates Lazarus Group’s Bybit Launderers](https://www.cyberkendra.com/2026/10/zachxbt-infiltrates-lazarus-bybit-launderers.html)
 - daringfireball.net
+  - [[Sponsor] Sunnny](https://sunnny.com/)
   - [OpenAI Announces Their Text Watermarking Plans](https://openai.com/index/eu-text-provenance/)
   - [Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death](https://x.com/johnternus/status/2107093462118199562)
 - darkreading
   - [ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes](https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes)
 - Hacker News Frontpage
   - [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
+  - [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
   - [GitHub Actions Has Problems](https://www.githubstatus.com/incidents/3q1yb5m7ltvb)
   - [Greenvolt begins building 600 MW/2.4 GWh BESS in Poland](https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/)
   - [Texas city demands $2M for public records on Flock usage](https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/)
@@ -31,6 +33,8 @@
   - [6 Guidelines for Governing AI](https://spectrum.ieee.org/6-guidelines-governing-ai)
 - pluralistic.net
   - [Pluralistic: Scrutinized (05 Oct 2026)](https://pluralistic.net/2026/10/05/pervert-glasses/)
+- simonwillison.net
+  - [Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/)
 - TechCrunch
   - [5 startups that caught VCs’ attention at the latest PearX demo day](https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/)
   - [After Factory’s public spat with Khosla, Menlo proudly invests](https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/)
@@ -55,6 +59,7 @@
   - [Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model](https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/)
 - The Verge
   - [All the drama around AI&#8217;s takeover of mathematics](https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution)
+  - [Gemini Call for Me might tell your mom you&#8217;re running late](https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors)
   - [OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide](https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr)
   - [Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports](https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports)
   - [Sam Altman says ‘some bad things&#8217; will happen but AI is totally worth it](https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff)
