@@ -21,7 +21,9 @@
   - [ECB policymaker warns of fragmentation without digital euro](https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast](https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trump-backed WLFI plans USD1 payments for online businesses](https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK names 6 banks to lead first digitally native government bond](https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Wall Street wealth creation model is unsustainable for most participants: Hyperliquid CEO](https://cointelegraph.com/news/wall-street-wealth-creation-unsustainable-hyperliquid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing](https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [‘Old money’ has stronger Bitcoin ‘diamond hands,’ says BingX exec](https://cointelegraph.com/news/bingx-old-money-bitcoin-diamond-hands-token2049?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -62,6 +64,7 @@
   - [Zammad CVE-2026-102489: Session Leak to RCE](https://horizon3.ai/attack-research/disclosures/cve-2026-102489-zammad-session-leak-rce/)
 - infosecurity-magazine.com
   - [Danish CPR Breach Highlights Challenge of Supply Chain Risk](https://www.infosecurity-magazine.com/news/danish-cpr-breach-supply-chain-risk/)
+  - [Half of Cybersecurity Pros Still Rely on Passwords Despite Security Concerns](https://www.infosecurity-magazine.com/news/cybersecurity-pros-rely-passwords/)
   - [Pwn2Own Hackers Find 32 Zero-Day Vulnerabilities on Day One](https://www.infosecurity-magazine.com/news/pwn2own-hackers-32-zeroday/)
 - johndcook.com
   - [A topological model for provability logic](https://www.johndcook.com/blog/2026/10/06/godel-lob/)
@@ -140,6 +143,7 @@
   - [117 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/)
   - [7 Best Prime Day Kindle Deals (2026): Save Up to $150](https://www.wired.com/story/best-kindle-prime-day-deals-10-07-2026/)
   - [8 Best Prime Day Wearable Deals: Apple, Google, Samsung (2026)](https://www.wired.com/story/amazon-prime-day-wearable-deals-10-6-2026/)
+  - [A Mysterious Nonprofit Run by SpaceXAI’s Top Lawyer Is Paying the Salaries of Government Workers](https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge/)
   - [Amazon Prime Day Deals Under $50 in October 2026](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/)
   - [Apple AirPods Max 2 Are $120 Off Right Now During Prime Day](https://www.wired.com/story/apple-airpods-max-2-deal-october-2026/)
   - [Best Amazon Prime Day Espresso Machine, Coffee Maker, and Grinder Deals (2026)](https://www.wired.com/story/prime-day-espresso-machine-deals-10-06-2026/)
@@ -150,9 +154,11 @@
   - [Best Prime Day Laptop Deals: Save Up to $500 (2026)](https://www.wired.com/story/best-prime-day-laptop-deals/)
   - [Everybody’s Favorite Art TV Is Nearly Half Off for Prime Day (2026)](https://www.wired.com/story/samsung-the-frame-tv-deal-prime-day-10-6-2026/)
   - [I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)](https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/)
+  - [I Found the 25 Best Prime Day Tech and Gadget Deals (October 2026)](https://www.wired.com/story/best-prime-day-tech-deals-10-07-2026/)
   - [I Found The Best Amazon Prime Day Headphone Deals (2026)](https://www.wired.com/story/best-prime-day-headphone-deals-10-06-2026/)
   - [Jaguar Finally Reveals Its Biggest Gamble: the Type 01](https://www.wired.com/story/jaguar-finally-reveals-its-biggest-gamble-the-type-01/)
   - [OpenAI Is Pissing Off a Bunch of Mathematicians—Again](https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/)
+  - [Save Up to $200 on the Best Prime Day Apple Deals (2026)](https://www.wired.com/story/best-prime-day-apple-deals-10-07-2026/)
   - [The 13 Amazon Device Deals Actually Worth Snagging This Prime Day](https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-07-2026/)
   - [The 24 Best Prime Day Deals Under $100 (2026)](https://www.wired.com/story/best-prime-day-deals-under-100-10-06-2026/)
   - [The 30 Best Prime Day Deals Under $100 (2026)](https://www.wired.com/story/best-prime-day-deals-under-100-10-07-2026/)
