@@ -3,6 +3,7 @@
 - 2Libra
   - [AI 中转站推荐，靠谱的，可以使用克劳德和 gpt 的；](https://2libra.com/post/ai-gateway/o9VtsBO)
   - [AI 非常好的一点就是它可以给你一个体验当管理者的机会](https://2libra.com/post/ai-trends/yMmnq_o)
+  - [假期结束回来继续搬砖了～ 🐮🐴](https://2libra.com/post/office-life/zdzTikh)
   - [小小潜水员](https://2libra.com/post/game-share/2yU8uMP)
   - [我的一点怪癖](https://2libra.com/post/personal-life/KOV7dEu)
 - 404 Media
@@ -12,6 +13,7 @@
   - [Bill aims at stopping US lawmaker bets on their own elections ahead of midterms](https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin grinds toward $87K as US equities hit new record highs](https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin.de trading remains halted as German regulator rejects MiCA application](https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BitMine sets 5% Ether supply ‘hard cap’ as accumulation target nears](https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Conduit sues Tether over allegedly freezing $2.8M without explanation](https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid](https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ECB policymaker warns of fragmentation without digital euro](https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -34,6 +36,8 @@
   - [WordPress, Atlassian, ASOS breached; AI-powered phishing escalates](https://defend.network/briefings/wordpress-atlassian-asos-breach-phishing-ai-2026-10-07.html)
 - E99p1ant
   - [LightCube 11 周年：AI 一天，人间一年](https://github.red/lightcube-11th/)
+- GuidePoint Security
+  - [aws-auth ConfigMap Deprecated – EKS Access Entries Are the Way Forward](https://www.guidepointsecurity.com/blog/aws-auth-config-map-deprecated/)
 - Hacker News Frontpage
   - [Adobe Creative Suite Cleanroom Ported to Rust](https://github.com/storytold/photocraft)
   - [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
@@ -52,6 +56,8 @@
   - [The Query Transformation Pipeline](https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline)
 - Horizon3.ai
   - [CVE-2026-21589 | Atlassian Data Center Products Unauthenticated Arbitrary File Read Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-21589/)
+- infosecurity-magazine.com
+  - [Danish CPR Breach Highlights Challenge of Supply Chain Risk](https://www.infosecurity-magazine.com/news/danish-cpr-breach-supply-chain-risk/)
 - johndcook.com
   - [A topological model for provability logic](https://www.johndcook.com/blog/2026/10/06/godel-lob/)
   - [Lissajous and Bowditch](https://www.johndcook.com/blog/2026/10/06/lissajous-and-bowditch/)
@@ -96,10 +102,12 @@
   - [Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing ‘tens of millions’](https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855)
   - [Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push](https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890)
   - [Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker](https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826)
+  - [‘Every single exchange’ will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says](https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896)
 - The Decoder
   - [Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size](https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/)
   - [Google's new image model Nano Banana 2.1 generates better images for less money](https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/)
   - [Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade](https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/)
+  - [OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up](https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/)
   - [Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure](https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/)
 - The Verge
   - [Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat](https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc)
@@ -123,6 +131,7 @@
   - [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)
 - Wired
   - [114 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/)
+  - [117 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/)
   - [7 Best Prime Day Kindle Deals (2026): Save Up to $150](https://www.wired.com/story/best-kindle-prime-day-deals-10-07-2026/)
   - [8 Best Prime Day Wearable Deals: Apple, Google, Samsung (2026)](https://www.wired.com/story/amazon-prime-day-wearable-deals-10-6-2026/)
   - [Amazon Prime Day Deals Under $50 in October 2026](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/)
@@ -144,6 +153,7 @@
   - [We’re Tracking October Prime Day Live (2026)](https://www.wired.com/live/amazon-prime-day-live-tracker-october-06-2026/)
   - [Yeti Coolers and Cups Are Up to $100 Off for Amazon Prime Day](https://www.wired.com/story/amazon-prime-day-2026-yeti-deals/)
   - [You Probably Aren’t Going to Get the Plague](https://www.wired.com/story/what-we-know-about-plague-russia/)
+  - [Your Next Great Read Might Be Certified ‘Organic’](https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/)
   - [‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers](https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/)
   - [‘Mike Rogers Is Watching You’: New Ad Blitz From Abdul El-Sayed Attacks Surveillance Support](https://www.wired.com/story/mike-rogers-is-watching-you-new-ad-blitz-from-abdul-el-sayed-attacks-surveillance-support/)
 - 不安全
