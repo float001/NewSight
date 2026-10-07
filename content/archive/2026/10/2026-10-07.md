@@ -9,6 +9,8 @@
   - [评论现在支持置顶以及关闭](https://2libra.com/post/product-updates/luVk04P)
 - 404 Media
   - [Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'](https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/)
+- Articles | InfoStealers
+  - [Infostealers Are Actively Hunting AI Agents and Developer Keys – Warden Infostealer](https://www.infostealers.com/article/infostealers-are-actively-hunting-ai-agents-and-developer-keys-warden-infostealer/)
 - CoinTelegraph
   - [Affluent investors seen boosting crypto exposure: Survey](https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bill aims at stopping US lawmaker bets on their own elections ahead of midterms](https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -75,6 +77,8 @@
 - johndcook.com
   - [A topological model for provability logic](https://www.johndcook.com/blog/2026/10/06/godel-lob/)
   - [Lissajous and Bowditch](https://www.johndcook.com/blog/2026/10/06/lissajous-and-bowditch/)
+- krebsonsecurity.com
+  - [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
 - Linux Foundation Blogs
   - [Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure](https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure)
   - [Navigating Open Source Governance in the Age of Artificial Intelligence: The 2026 State of OSPOs and Open Source Management](https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management)
@@ -82,6 +86,8 @@
   - [The Download: weight-loss drugs slowing aging and carbon dioxide batteries](https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/)
 - NowSecure
   - [Cybersecurity Awareness Month 2026: 7 Mobile App Security Realities You Can No Longer Ignore](https://www.nowsecure.com/blog/2026/10/07/cybersecurity-awareness-month-2026-7-mobile-app-security-realities-you-can-no-longer-ignore/)
+- pluralistic.net
+  - [Pluralistic: Disloyalty (07 Oct 2026)](https://pluralistic.net/2026/10/07/gouged/)
 - PortSwigger Research
   - [The model isn't cooperating](https://portswigger.net/research/the-model-isnt-cooperating)
 - Recent Commits to cve:main
@@ -101,17 +107,21 @@
   - [HackTheBox-Layover exploit](https://sploitus.com/exploit?id=3F9694AC-2757-523F-9C2F-8B6FFEEF30CA&utm_source=rss&utm_medium=rss)
   - [XSS-via-XML-Rendering exploit](https://sploitus.com/exploit?id=47238E0C-59DB-5630-BA56-DAE26836417C&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [6 days to TechCrunch Disrupt 2026: Save on your pass before doors open](https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/)
   - [AI computing startup Lambda to raise $4B ahead of planned IPO](https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/)
+  - [Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation](https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/)
   - [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/)
   - [Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell](https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/)
   - [Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product](https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/)
   - [Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors](https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/)
+  - [Google’s new SynthID website can identify AI-generated media](https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/)
   - [Hark releases an AI personal assistant with a focus on privacy](https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/)
   - [How AI decision models could change content moderation](https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/)
   - [How to find out if Amazon thinks you have ‘flat buttocks’](https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/)
   - [India’s JioHotstar takes partnership route for Middle East expansion](https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/)
   - [Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4](https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/)
   - [Mirror Particle is building a ‘world model’ of human behavior](https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/)
+  - [Ring’s first smart lock can be hand-cranked when its battery dies](https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/)
   - [Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet](https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/)
   - [Spotify expands audiobooks to over 180 markets](https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/)
   - [The next hurdle for AI agents: getting websites to let them in](https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/)
@@ -134,6 +144,7 @@
   - [Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure](https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/)
 - The Verge
   - [AI could upend food delivery](https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites)
+  - [Amazon uses its tracking data to guess whether shoppers have a flat butt and no friends](https://www.theverge.com/tech/1006712/amazon-about-you-shopping-data)
   - [Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat](https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc)
   - [Apple TV’s great year continues with Small Prophets](https://www.theverge.com/entertainment/1005781/small-prophets-review-apple-tv)
   - [Arturia adds proper sound design tools to its AstroLab synths](https://www.theverge.com/gadgets/1005671/arturia-astrolab-synth-firmware-update)
@@ -141,10 +152,12 @@
   - [Google now lets you make games with AI](https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai)
   - [Google&#8217;s Pixel Buds update will put them to sleep along with you](https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute)
   - [Google’s power-hungry data centers crave nuclear energy](https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation)
+  - [My cats hate to see this great upright carpet cleaner coming](https://www.theverge.com/gadgets/1006710/bissell-carpet-cleaning-prime-day-deal-sale)
   - [Netflix expands TV game lineup with Conjuring spinoff](https://www.theverge.com/streaming/1005942/netflix-the-conjuring-unspoken-games)
   - [OpenAI drops another batch of mathematical breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github)
   - [Our favorite headphones and earbuds are cheaper during October Prime Day](https://www.theverge.com/gadgets/1004886/october-prime-day-big-deals-days-headphones-earbuds-deal-sale)
   - [Our first five impressions of Googlebooks — exciting but underbaked](https://www.theverge.com/tech/1005745/google-googlebook-android-laptops-dell-acer-asus-lenovo-hp-impressions)
+  - [Ring’s first smart lock can be charged by turning a dial when the battery unexpectedly dies](https://www.theverge.com/tech/1005916/amazon-ring-smart-home-lock-dial-recharge-camera-security-pricing-availability)
   - [Samsung Wallet now unlocks some GM cars](https://www.theverge.com/transportation/1006585/samsung-wallet-now-unlocks-some-gm-cars)
   - [Samsung’s Z Fold 8 is hundreds off ahead of iPhone Duo launch](https://www.theverge.com/gadgets/1005524/samsung-z-fold-8-ultra-foldable-prime-day-deal-sale)
   - [Save on MacBooks, iPads and Apple Watches during October Prime Day](https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale)
@@ -158,6 +171,7 @@
   - [The stylish Nothing Headphone 1 are cheaper than ever](https://www.theverge.com/gadgets/1004290/nothing-headphone-1-deal-sale)
   - [Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED](https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications)
   - [We can’t just change the definition of ‘recording’](https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording)
+  - [Windows and Surface event: how to watch and what to expect](https://www.theverge.com/news/1006292/microsoft-windows-surface-event-rtx-spark-how-to-watch)
   - [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)
 - Wired
   - [114 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/)
@@ -195,9 +209,12 @@
   - [‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers](https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/)
   - [‘Mike Rogers Is Watching You’: New Ad Blitz From Abdul El-Sayed Attacks Surveillance Support](https://www.wired.com/story/mike-rogers-is-watching-you-new-ad-blitz-from-abdul-el-sayed-attacks-surveillance-support/)
 - 不安全
+  - [bpfjailer](https://buaq.net/go-446845.html)
   - [esp32-sdr-trx: Use an ESP32-S3 as a Receiver for SDR++ and as an FM/SSB Voice Transmitter on 13cm](https://buaq.net/go-446751.html)
+  - [Google issues Android security updates: who can get them and how](https://buaq.net/go-446842.html)
   - [Pwn2Own Ireland 2026 - Day Two Results](https://buaq.net/go-446792.html)
   - [Twenty-two pending curl vulnerabilities](https://buaq.net/go-446775.html)
+  - [uBlock v1.75.1b5](https://buaq.net/go-446846.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
