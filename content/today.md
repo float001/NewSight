@@ -8,7 +8,10 @@
   - [我的一点怪癖](https://2libra.com/post/personal-life/KOV7dEu)
   - [评论现在支持置顶以及关闭](https://2libra.com/post/product-updates/luVk04P)
 - 404 Media
+  - ['Undue emotional weight'](https://www.404media.co/undue-emotional-weight/)
   - [Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'](https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/)
+- Ars Technica
+  - [Mistral says "Le Chonk" can challenge the best AI models](https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/)
 - Articles | InfoStealers
   - [Infostealers Are Actively Hunting AI Agents and Developer Keys – Warden Infostealer](https://www.infostealers.com/article/infostealers-are-actively-hunting-ai-agents-and-developer-keys-warden-infostealer/)
 - CoinTelegraph
@@ -50,9 +53,11 @@
 - Hacker News Frontpage
   - [Adobe Creative Suite Cleanroom Ported to Rust](https://github.com/storytold/photocraft)
   - [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
+  - [AI-assisted proof of optimal packing for 11 squares](https://github.com/Queuingtheorydotcom/11SquaresFormalized)
   - [Ask HN: How would you feel if we nationalized Google?](https://news.ycombinator.com/item?id=49985180)
   - [Ask HN: Why is Ask HN only showing me 14 posts?](https://news.ycombinator.com/item?id=49984484)
   - [Calling It Quits on ServerFault](https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml)
+  - [Device detection and occupancy monitoring for Airbnb hosts](https://www.minut.com/features/occupancy-monitoring)
   - [Google EmbeddingGemma 2](https://twitter.com/googlegemma/status/2107502533992464482)
   - [Integer multiplication below n log n](https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026)
   - [Meta's Muse AI agent is building a dossier on you](https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/)
@@ -62,7 +67,9 @@
   - [Permanent Daylight Saving Time Could Harm Sleep and Mental Health, Analysis Says](https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html)
   - [Sharing AI Progress in Mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
   - [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
+  - [Someone has decompiled the Adobe suite, rebuilt in Rust and released it as OSS](https://bsky.app/profile/jamesomalley.co.uk/post/3mxbl36nkms2q)
   - [State of Devs 2026 survey results: developers are exhausted](https://2026.stateofdevs.com/en-US/)
+  - [SynthID Detector](https://synthid.com/)
   - [System-level ad-blocking in Android](https://kevinboone.me/adblock.html)
   - [The Query Transformation Pipeline](https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline)
 - Horizon3.ai
@@ -72,11 +79,14 @@
   - [Attackers Hide AI Prompt Injections Inside Phishing Emails](https://www.infosecurity-magazine.com/news/attackers-hide-ai-prompt/)
   - [Danish CPR Breach Highlights Challenge of Supply Chain Risk](https://www.infosecurity-magazine.com/news/danish-cpr-breach-supply-chain-risk/)
   - [Half of Cybersecurity Pros Still Rely on Passwords Despite Security Concerns](https://www.infosecurity-magazine.com/news/cybersecurity-pros-rely-passwords/)
+  - [OT Coalition Urges CISA to Mandate Federal OT Security](https://www.infosecurity-magazine.com/news/ot-coalition-cisa-mandate-federal/)
   - [Pwn2Own Hackers Find 32 Zero-Day Vulnerabilities on Day One](https://www.infosecurity-magazine.com/news/pwn2own-hackers-32-zeroday/)
   - [Telegram Account Behind ASOS Rogue Notification Tied to Gaming Trading](https://www.infosecurity-magazine.com/news/telegram-accoun-asos-tied-gaming/)
 - johndcook.com
   - [A topological model for provability logic](https://www.johndcook.com/blog/2026/10/06/godel-lob/)
   - [Lissajous and Bowditch](https://www.johndcook.com/blog/2026/10/06/lissajous-and-bowditch/)
+- Kali Linux Tutorials
+  - [Swiss FADP vs EU GDPR: Key Differences for AI and Data Privacy](https://kalilinuxtutorials.com/swiss-fadp-vs-eu-gdpr/)
 - krebsonsecurity.com
   - [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
 - Linux Foundation Blogs
@@ -96,6 +106,7 @@
   - [esp32-sdr-trx: Use an ESP32-S3 as a Receiver for SDR++ and as an FM/SSB Voice Transmitter on 13cm](https://www.rtl-sdr.com/esp32-sdr-trx-use-an-esp32-s3-as-a-receiver-for-sdr-and-as-an-fm-ssb-voice-transmitter-on-13cm/)
   - [ESP32-SDR: Turbo Mode Throughput Improvement + Real I/Q Output](https://www.rtl-sdr.com/esp32-sdr-turbo-mode-throughput-improvement-real-i-q-output/)
 - simonwillison.net
+  - [Anti-Patterns in Software Blogging](https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/)
   - [EmbeddingGemma 2](https://simonwillison.net/2026/Oct/6/hn-49983751/)
   - [Introducing Mistral Large 4: Le chonk](https://simonwillison.net/2026/Oct/6/le-chonk/)
   - [llm-mistral 0.16](https://simonwillison.net/2026/Oct/6/llm-mistral/)
@@ -112,8 +123,11 @@
   - [Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation](https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/)
   - [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/)
   - [Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell](https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/)
+  - [Bloom raises $3.6M to become the Alibaba of American manufacturing](https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/)
   - [Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product](https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/)
   - [Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors](https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/)
+  - [Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/)
+  - [Google experiments with an AI-powered gaming platform](https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/)
   - [Google’s new SynthID website can identify AI-generated media](https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/)
   - [Hark releases an AI personal assistant with a focus on privacy](https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/)
   - [How AI decision models could change content moderation](https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/)
@@ -121,15 +135,19 @@
   - [India’s JioHotstar takes partnership route for Middle East expansion](https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/)
   - [Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4](https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/)
   - [Mirror Particle is building a ‘world model’ of human behavior](https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/)
+  - [OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots](https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/)
   - [Ring’s first smart lock can be hand-cranked when its battery dies](https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/)
   - [Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet](https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/)
+  - [SpaceX alumni nab $100M to rethink shipping with autonomous freight trains](https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/)
   - [Spotify expands audiobooks to over 180 markets](https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/)
   - [The next hurdle for AI agents: getting websites to let them in](https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/)
+  - [Tony Fadell on why the first wave of AI gadgets failed — and what comes next](https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/)
 - The Block
   - [Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million](https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882)
   - [Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange](https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867)
   - [Conduit sues Tether over $2.76 million freeze, says it has ‘no legal entitlement’ to funds](https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831)
   - [Jito’s JTX plans mobile app this fall, eyes perps integration later this winter](https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905)
+  - [Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows](https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931)
   - [NEAR’s Polosukhin sees shrinking need for centralized exchanges as onchain tools expand](https://www.theblock.co/news/ecosystems/2026-10-07-nears-polosukhin-sees-shrinking-need-for-centralized-exchanges-as-onchain-tools-expand-417912)
   - [Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing ‘tens of millions’](https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855)
   - [Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push](https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890)
@@ -137,6 +155,7 @@
   - [‘Every single exchange’ will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says](https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896)
 - The Decoder
   - [ChatGPT rated "unacceptable risk" for teens after parental alerts failed during suicide conversations](https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/)
+  - [Google bets Gemini can turn casual players into game developers with new Playground feature](https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/)
   - [Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size](https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/)
   - [Google's new image model Nano Banana 2.1 generates better images for less money](https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/)
   - [Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade](https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/)
@@ -149,11 +168,13 @@
   - [Apple TV’s great year continues with Small Prophets](https://www.theverge.com/entertainment/1005781/small-prophets-review-apple-tv)
   - [Arturia adds proper sound design tools to its AstroLab synths](https://www.theverge.com/gadgets/1005671/arturia-astrolab-synth-firmware-update)
   - [At $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses](https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder)
+  - [Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’](https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell)
   - [Google now lets you make games with AI](https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai)
   - [Google&#8217;s Pixel Buds update will put them to sleep along with you](https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute)
   - [Google’s power-hungry data centers crave nuclear energy](https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation)
   - [My cats hate to see this great upright carpet cleaner coming](https://www.theverge.com/gadgets/1006710/bissell-carpet-cleaning-prime-day-deal-sale)
   - [Netflix expands TV game lineup with Conjuring spinoff](https://www.theverge.com/streaming/1005942/netflix-the-conjuring-unspoken-games)
+  - [New leaks provide our first look at Apple and LG’s smart home devices](https://www.theverge.com/tech/1006727/apple-lg-leak-smart-home-deadbolt-lock-thermostat-temperature-sensor)
   - [OpenAI drops another batch of mathematical breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github)
   - [Our favorite headphones and earbuds are cheaper during October Prime Day](https://www.theverge.com/gadgets/1004886/october-prime-day-big-deals-days-headphones-earbuds-deal-sale)
   - [Our first five impressions of Googlebooks — exciting but underbaked](https://www.theverge.com/tech/1005745/google-googlebook-android-laptops-dell-acer-asus-lenovo-hp-impressions)
@@ -176,6 +197,7 @@
 - Wired
   - [114 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/)
   - [117 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/)
+  - [19 Best Prime Day Deals on Phone Accessories (2026)](https://www.wired.com/story/best-prime-day-mobile-accessories-deals-10-6-2026/)
   - [7 Best Prime Day Kindle Deals (2026): Save Up to $150](https://www.wired.com/story/best-kindle-prime-day-deals-10-07-2026/)
   - [8 Best Prime Day Wearable Deals: Apple, Google, Samsung (2026)](https://www.wired.com/story/amazon-prime-day-wearable-deals-10-6-2026/)
   - [A Mysterious Nonprofit Run by SpaceXAI’s Top Lawyer Is Paying the Salaries of Government Workers](https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge/)
@@ -219,3 +241,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [DLSS 5 正式版体验：十年没进步的游戏画面，英伟达怎么让它以假乱真？](https://www.ifanr.com/1682974?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦](https://www.qbitai.com/2026/10/501825.html)
