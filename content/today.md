@@ -3,23 +3,32 @@
 - 404 Media
   - [‘Jonathan’ Is the Oldest Land Animal on Earth. He Could Hold the Secrets to Defying Death](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
 - CoinTelegraph
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill](https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sui tunnels hit 40.6M TPS in live AI agent test](https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization](https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [AI Agents Are Getting Their Own Inboxes. Email Infrastructure Is Starting to Catch Up](https://www.cyberkendra.com/2026/10/ai-agents-are-getting-their-own-inboxes-email-infrastructure-is-starting-to-catch-up.html)
+  - [Top MDR Providers of 2026: What to Evaluate and Where the Category Falls Short](https://www.cyberkendra.com/2026/10/top-mdr-providers-what-to-evaluate.html)
 - Hacker News Frontpage
   - [Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth](https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth)
 - IEEE Spectrum
   - [IEEE Report Predicts Tech That Will Transform Lives](https://spectrum.ieee.org/ieee-report-predicts-tech)
+- NVIDIA AI Blog
+  - [NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/)
 - TechCrunch
+  - [ChatGPT for Teens keeps teens talking, even during mental health crises](https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/)
   - [ChatGPT is getting a lot more visual, with the launch of a new interface](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/)
   - [Greenairy is building smart plant towers to clean the air in your office](https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/)
   - [Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material](https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/)
+  - [Meta’s Muse launches on iPad just a month after its mobile debut](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/)
+  - [X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB](https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/)
 - The Block
   - [Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk](https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954)
+  - [Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion](https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953)
   - [Hunter Biden says LAPTOP market maker should ‘buy it all back and burn it’](https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947)
 - The Decoder
+  - [Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over](https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/)
   - [Google says 180 billion images and videos now carry SynthID watermarks as detector goes public](https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/)
   - [Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior](https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/)
 - The Verge
@@ -27,6 +36,8 @@
   - [ChatGPT is getting college planning tools](https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards)
   - [Disney Plus will stream Super Bowl LXI](https://www.theverge.com/streaming/1006911/disney-plus-super-bowl-lxi-streaming)
   - [Doxxing Jane Doe](https://www.theverge.com/report/1006636/jane-doe-cornell-dox)
+  - [Everything announced at Microsoft&#8217;s Surface Laptop Ultra event](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced)
+  - [It appears .agent and .agi are about to be the hot new domains](https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi)
   - [Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C charging](https://www.theverge.com/news/1006445/microsofts-surface-laptop-ultra-has-built-in-magnetic-usb-c-charging)
   - [Surface RTX Spark Dev Box is available for preorder for $5,999](https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder)
   - [The Apple Watch Series 12 is a good deal at $50 off](https://www.theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale)
@@ -39,7 +50,9 @@
 - Wired
   - [115 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/)
   - [Save Over $600 on Last-Minute Prime Day Mattress and Bedding Deals (2026)](https://www.wired.com/story/best-prime-day-mattress-deals-10-07-2026/)
+  - [The Best Amazon Prime Day Headphone Deals Before The Sale Ends (2026)](https://www.wired.com/story/best-prime-day-headphone-deals-10-07-2026/)
   - [The New ChatGPT Is More Show Than Tell](https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/)
   - [The Shark CryoGlow LED Mask Is Cheaper Than Ever on Prime Day](https://www.wired.com/story/shark-cryoglow-led-face-mask-prime-day-deal/)
+  - [These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out](https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
