@@ -3,6 +3,7 @@
 - 2Libra
   - [AI 中转站推荐，靠谱的，可以使用克劳德和 gpt 的；](https://2libra.com/post/ai-gateway/o9VtsBO)
   - [AI 非常好的一点就是它可以给你一个体验当管理者的机会](https://2libra.com/post/ai-trends/yMmnq_o)
+  - [小小潜水员](https://2libra.com/post/game-share/2yU8uMP)
   - [我的一点怪癖](https://2libra.com/post/personal-life/KOV7dEu)
 - 404 Media
   - [Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'](https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/)
@@ -33,6 +34,7 @@
   - [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
   - [Ask HN: How would you feel if we nationalized Google?](https://news.ycombinator.com/item?id=49985180)
   - [Ask HN: Why is Ask HN only showing me 14 posts?](https://news.ycombinator.com/item?id=49984484)
+  - [Calling It Quits on ServerFault](https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml)
   - [Google EmbeddingGemma 2](https://twitter.com/googlegemma/status/2107502533992464482)
   - [Integer multiplication below n log n](https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026)
   - [Meta's Muse AI agent is building a dossier on you](https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/)
@@ -61,6 +63,7 @@
   - [Introducing Mistral Large 4: Le chonk](https://simonwillison.net/2026/Oct/6/le-chonk/)
   - [llm-mistral 0.16](https://simonwillison.net/2026/Oct/6/llm-mistral/)
   - [OpenAI “rogue” agent activities found on Wikimedia projects](https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/)
+  - [Quoting Jake Boggan](https://simonwillison.net/2026/Oct/7/jake-boggan/)
   - [Using Parseable with Datasette for OpenTelemetry traces](https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/)
 - TechCrunch
   - [AI computing startup Lambda to raise $4B ahead of planned IPO](https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/)
