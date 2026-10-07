@@ -13,6 +13,7 @@
   - [Bitcoin grinds toward $87K as US equities hit new record highs](https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin.de trading remains halted as German regulator rejects MiCA application](https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Conduit sues Tether over allegedly freezing $2.8M without explanation](https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid](https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ECB policymaker warns of fragmentation without digital euro](https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast](https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -22,6 +23,8 @@
   - [Chinese AI Agent Artex Used to Hack 7 South Korean Banks](https://www.cyberkendra.com/2026/10/artex-ai-south-korea-bank-breach.html)
   - [WhatsApp Patches Instagram Reels URL Flaw, CVE-2026-23866](https://www.cyberkendra.com/2026/10/whatsapp-patches-instagram-reels-url-flaw-cve-2026-23866.html)
   - [WordPress 7.1.3 Fixes SQL Injection, Stored XSS Flaws](https://www.cyberkendra.com/2026/10/wordpress-7-1-3-fixes-sql-injection-stored-xss-flaws.html)
+- daniel.haxx.se
+  - [Twenty-two pending curl vulnerabilities](https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/)
 - daringfireball.net
   - [Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27](https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/)
 - darkreading
@@ -70,6 +73,7 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-82531](https://sploitus.com/exploit?id=0D71BB83-F55B-5D6D-B9DD-846D59C52489&utm_source=rss&utm_medium=rss)
   - [HackTheBox-Layover exploit](https://sploitus.com/exploit?id=3F9694AC-2757-523F-9C2F-8B6FFEEF30CA&utm_source=rss&utm_medium=rss)
+  - [XSS-via-XML-Rendering exploit](https://sploitus.com/exploit?id=47238E0C-59DB-5630-BA56-DAE26836417C&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI computing startup Lambda to raise $4B ahead of planned IPO](https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/)
   - [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/)
@@ -90,6 +94,7 @@
   - [Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange](https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867)
   - [Conduit sues Tether over $2.76 million freeze, says it has ‘no legal entitlement’ to funds](https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831)
   - [Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing ‘tens of millions’](https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855)
+  - [Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push](https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890)
   - [Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker](https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826)
 - The Decoder
   - [Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size](https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/)
@@ -118,6 +123,7 @@
   - [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)
 - Wired
   - [114 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/)
+  - [7 Best Prime Day Kindle Deals (2026): Save Up to $150](https://www.wired.com/story/best-kindle-prime-day-deals-10-07-2026/)
   - [8 Best Prime Day Wearable Deals: Apple, Google, Samsung (2026)](https://www.wired.com/story/amazon-prime-day-wearable-deals-10-6-2026/)
   - [Amazon Prime Day Deals Under $50 in October 2026](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/)
   - [Apple AirPods Max 2 Are $120 Off Right Now During Prime Day](https://www.wired.com/story/apple-airpods-max-2-deal-october-2026/)
@@ -131,6 +137,7 @@
   - [I Found The Best Amazon Prime Day Headphone Deals (2026)](https://www.wired.com/story/best-prime-day-headphone-deals-10-06-2026/)
   - [Jaguar Finally Reveals Its Biggest Gamble: the Type 01](https://www.wired.com/story/jaguar-finally-reveals-its-biggest-gamble-the-type-01/)
   - [OpenAI Is Pissing Off a Bunch of Mathematicians—Again](https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/)
+  - [The 13 Amazon Device Deals Actually Worth Snagging This Prime Day](https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-07-2026/)
   - [The 24 Best Prime Day Deals Under $100 (2026)](https://www.wired.com/story/best-prime-day-deals-under-100-10-06-2026/)
   - [The Best Anti-Prime Day Deals for Amazon Haters](https://www.wired.com/story/anti-prime-day-deals-october-2026/)
   - [The Best Prime Day Smart Home Deals Are Up to 50% Off (2026)](https://www.wired.com/story/best-smart-home-prime-day-10-6-2026/)
@@ -141,5 +148,8 @@
   - [‘Mike Rogers Is Watching You’: New Ad Blitz From Abdul El-Sayed Attacks Surveillance Support](https://www.wired.com/story/mike-rogers-is-watching-you-new-ad-blitz-from-abdul-el-sayed-attacks-surveillance-support/)
 - 不安全
   - [esp32-sdr-trx: Use an ESP32-S3 as a Receiver for SDR++ and as an FM/SSB Voice Transmitter on 13cm](https://buaq.net/go-446751.html)
+  - [Twenty-two pending curl vulnerabilities](https://buaq.net/go-446775.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [DLSS 5 正式版体验：十年没进步的游戏画面，英伟达怎么让它以假乱真？](https://www.ifanr.com/1682974?utm_source=rss&utm_medium=rss&utm_campaign=)
