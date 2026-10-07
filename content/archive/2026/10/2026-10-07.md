@@ -27,6 +27,8 @@
 - darkreading
   - [ClickFix Attacks Evolve to Better Hide Malicious Payloads](https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads)
   - [Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps](https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps)
+- defend.network
+  - [WordPress, Atlassian, ASOS breached; AI-powered phishing escalates](https://defend.network/briefings/wordpress-atlassian-asos-breach-phishing-ai-2026-10-07.html)
 - E99p1ant
   - [LightCube 11 周年：AI 一天，人间一年](https://github.red/lightcube-11th/)
 - Hacker News Frontpage
@@ -81,6 +83,7 @@
   - [Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4](https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/)
   - [Mirror Particle is building a ‘world model’ of human behavior](https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/)
   - [Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet](https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/)
+  - [Spotify expands audiobooks to over 180 markets](https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/)
   - [The next hurdle for AI agents: getting websites to let them in](https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/)
 - The Block
   - [Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million](https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882)
