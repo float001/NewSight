@@ -1,8 +1,22 @@
 # 今日安全资讯（2026-10-08）
 
+- CoinTelegraph
+  - [House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill](https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization](https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Hacker News Frontpage
+  - [Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth](https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth)
+- TechCrunch
+  - [Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material](https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/)
+- The Block
+  - [Hunter Biden says LAPTOP market maker should ‘buy it all back and burn it’](https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947)
 - The Verge
+  - [A free mod for Titanfall 2 makes it one of the best VR games ever](https://www.theverge.com/games/1006448/titanfall-2-vr-mod-circuitlord-jordan-juarez)
   - [ChatGPT is getting college planning tools](https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards)
+  - [Disney Plus will stream Super Bowl LXI](https://www.theverge.com/streaming/1006911/disney-plus-super-bowl-lxi-streaming)
   - [Doxxing Jane Doe](https://www.theverge.com/report/1006636/jane-doe-cornell-dox)
+  - [The Apple Watch Series 12 is a good deal at $50 off](https://www.theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale)
+  - [The scariest thing about gray-market peptides is how little we know](https://www.theverge.com/column/1006902/optimizer-bpc-157-gray-market-real-world-usage)
+  - [Windows and Surface live blog: On the ground at Microsoft’s event](https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark)
   - [Xreal’s most affordable display glasses are $50 off](https://www.theverge.com/gadgets/1006064/xreal-xbx-ao1-plus-display-glasses-prime-day-deal-sale)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
