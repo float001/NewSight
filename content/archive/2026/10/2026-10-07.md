@@ -76,6 +76,7 @@
   - [Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet](https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/)
   - [The next hurdle for AI agents: getting websites to let them in](https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/)
 - The Block
+  - [Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange](https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867)
   - [Conduit sues Tether over $2.76 million freeze, says it has ‘no legal entitlement’ to funds](https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831)
   - [Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing ‘tens of millions’](https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855)
   - [Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker](https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826)
