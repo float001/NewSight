@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-10-08）
 
+- 2Libra
+  - [精酿啤酒模拟经营小游戏](https://2libra.com/post/game-share/MXOFQVT)
 - 404 Media
   - [‘Jonathan’ Is the Oldest Land Animal on Earth. He Could Hold the Secrets to Defying Death](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
 - CoinTelegraph
@@ -11,14 +13,24 @@
 - Cyber Kendra
   - [AI Agents Are Getting Their Own Inboxes. Email Infrastructure Is Starting to Catch Up](https://www.cyberkendra.com/2026/10/ai-agents-are-getting-their-own-inboxes-email-infrastructure-is-starting-to-catch-up.html)
   - [Top MDR Providers of 2026: What to Evaluate and Where the Category Falls Short](https://www.cyberkendra.com/2026/10/top-mdr-providers-what-to-evaluate.html)
+- daringfireball.net
+  - [Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’](https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo)
 - darkreading
+  - [Australian Gov't Weighs Mandatory AI Incident Reporting](https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting)
+  - [Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives](https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives)
   - [OpenAI Agent Escape Causes Wikimedia Service Outage](https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage)
 - Fidelis Security
   - [Agentless vs. Agent-Based Deception: The Case for Faster Deployment](https://fidelissecurity.com/threatgeek/deception/agentless-vs-agent-based-deception/)
 - Hacker News Frontpage
+  - [Margaret Hamilton, who led software development for Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
   - [Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth](https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth)
+- HackerNoon
+  - [Claude Code Finally Made Me an Engineer After 10 Years in Figma](https://hackernoon.com/claude-code-finally-made-me-an-engineer-after-10-years-in-figma?source=rss)
 - IEEE Spectrum
   - [IEEE Report Predicts Tech That Will Transform Lives](https://spectrum.ieee.org/ieee-report-predicts-tech)
+- johndcook.com
+  - [Faster Fourier Transform](https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/)
+  - [Irrationality exponent of π](https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/)
 - NVIDIA AI Blog
   - [NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/)
 - simonwillison.net
@@ -36,6 +48,7 @@
   - [Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk](https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954)
   - [Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion](https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953)
   - [Hunter Biden says LAPTOP market maker should ‘buy it all back and burn it’](https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947)
+  - [Solana’s Orca merges with Loopscale in push to finance AI, robotics and defense](https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924)
 - The Decoder
   - [ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps](https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/)
   - [Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over](https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/)
@@ -53,6 +66,7 @@
   - [Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C charging](https://www.theverge.com/news/1006445/microsofts-surface-laptop-ultra-has-built-in-magnetic-usb-c-charging)
   - [Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700](https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale)
   - [Surface RTX Spark Dev Box is available for preorder for $5,999](https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder)
+  - [Teenage Engineering’s CEO says it’ll stop making synths](https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths)
   - [The Apple Watch Series 12 is a good deal at $50 off](https://www.theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale)
   - [The best October Prime Day deals from Apple, Sony, Google, and more](https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two)
   - [The first Nvidia RTX Spark laptops cost up to $7,000](https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000)
@@ -64,9 +78,12 @@
   - [Xreal’s most affordable display glasses are $50 off](https://www.theverge.com/gadgets/1006064/xreal-xbx-ao1-plus-display-glasses-prime-day-deal-sale)
 - Wired
   - [115 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/)
+  - [27 Best Prime Day Deals on Phone Accessories (2026)](https://www.wired.com/story/best-prime-day-mobile-accessories-deals-10-7-2026/)
   - [30 Best Amazon Prime Day Deals Under $50 (October 2026)](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/)
   - [Best Prime Day Laptop Deals: Save Up to $500 (2026)](https://www.wired.com/story/best-prime-day-laptop-deals-10-07-2026/)
+  - [Best Prime Day Vacuum Deals: Save Big On a Dyson (2026)](https://www.wired.com/story/prime-day-vacuum-deals-10-07-2026/)
   - [Best Shark Prime Day Vacuum Deals (2026)](https://www.wired.com/story/shark-prime-day-vacuum-deals-10-07-2026/)
+  - [How a (Weirdly Chill) Celebrity Thinks About Personal Cybersecurity](https://www.wired.com/story/how-a-weirdly-chill-celebrity-thinks-about-personal-cybersecurity/)
   - [Meet the Vendors Selling ‘Cornell Seven’ Merch](https://www.wired.com/story/meet-the-vendors-selling-cornell-seven-merch/)
   - [Save Over $600 on Last-Minute Prime Day Mattress and Bedding Deals (2026)](https://www.wired.com/story/best-prime-day-mattress-deals-10-07-2026/)
   - [The Best Amazon Prime Day Headphone Deals Before The Sale Ends (2026)](https://www.wired.com/story/best-prime-day-headphone-deals-10-07-2026/)
