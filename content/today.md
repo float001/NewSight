@@ -65,6 +65,9 @@
   - [OpenAI “rogue” agent activities found on Wikimedia projects](https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/)
   - [Quoting Jake Boggan](https://simonwillison.net/2026/Oct/7/jake-boggan/)
   - [Using Parseable with Datasette for OpenTelemetry traces](https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-82531](https://sploitus.com/exploit?id=0D71BB83-F55B-5D6D-B9DD-846D59C52489&utm_source=rss&utm_medium=rss)
+  - [HackTheBox-Layover exploit](https://sploitus.com/exploit?id=3F9694AC-2757-523F-9C2F-8B6FFEEF30CA&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI computing startup Lambda to raise $4B ahead of planned IPO](https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/)
   - [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/)
